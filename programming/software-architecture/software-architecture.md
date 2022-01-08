@@ -192,3 +192,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [SystemDesign.org](https://docs.google.com/document/d/1pOarvQbjzLd9tz5ZuxktyrYsZ41mbWba5_LUeFj65lI/edit) - Textbook for System Design Interviews.
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) ([Code](https://github.com/onlurking/the-software-architecture-chronicles))
 - [Documenting Software Architecture (2019)](https://herbertograca.com/2019/08/12/documenting-software-architecture/)
+- [Give me /events, not webhooks (2021)](https://blog.sequin.io/events-not-webhooks) ([HN](https://news.ycombinator.com/item?id=29847462))

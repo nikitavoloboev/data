@@ -128,3 +128,4 @@
 - [Flowmap.blue](https://flowmap.blue/) - Create geographic flow maps representing numbers of movements between locations. ([Code](https://github.com/FlowmapBlue/flowmap.blue))
 - [streamlit-template](https://github.com/giswqs/streamlit-template) - Streamlit app template for geospatial applications.
 - [CARTO](https://carto.com/) - Unlock the power of spatial analysis. ([GitHub](https://github.com/CartoDB))
+- [OpenLayers](https://openlayers.org/) - High-performance, feature-packed library for all your mapping needs. ([Code](https://github.com/openlayers/openlayers))

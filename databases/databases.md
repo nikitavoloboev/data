@@ -503,3 +503,4 @@
 - [Databass, Part 1: Queries (2021)](https://blog.josephmorag.com/posts/databass1/)
 - [The Third Manifesto: Documents and Books on Database Design](https://www.dcs.warwick.ac.uk/~hugh/TTM/documents_and_books.html)
 - [Database System Readings](https://github.com/Sunt-ing/database-system-readings)
+- [UUIDs Are Popular, but Bad for Performance (2019)](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/) ([HN](https://news.ycombinator.com/item?id=29849791))

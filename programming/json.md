@@ -98,3 +98,4 @@
 - [jo](https://github.com/jpmens/jo) - Small utility to create JSON objects.
 - [jq kung fu](https://www.jqkungfu.com/) - jq playground, written in WebAssembly. ([Code](https://github.com/robertaboukhalil/jqkungfu))
 - [Analyzing large JSON files via partial JSON parsing (2022)](https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html)
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer.

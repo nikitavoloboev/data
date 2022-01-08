@@ -65,6 +65,7 @@
 - [OMEinsum](https://github.com/under-Peter/OMEinsum.jl) - Differentiable Tensor Networks.
 - [Genify.jl](https://github.com/probcomp/Genify.jl) - Automatically transforms Julia methods to Gen functions via staged compilation.
 - [PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl) - Julia parser, interpreter, and compiler interface for the Planning Domain Definition Language (PDDL).
+- [SymbolicMDPs.jl](https://github.com/JuliaPlanners/SymbolicMDPs.jl) - Wraps the PDDL.jl interface for PDDL domains and problems within the POMDPs.jl interface for Markov decision processes (MDPs).
 
 ## Math
 
@@ -185,6 +186,7 @@
 
 - [ReTest](https://github.com/JuliaTesting/ReTest.jl) - Testing framework for Julia.
 - [XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - Unit-testing framework for Julia.
+- [TestEnv](https://github.com/JuliaTesting/TestEnv.jl) - Activate your test environment, so you can use your test dependencies in the REPL.
 
 ## DB
 

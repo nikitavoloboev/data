@@ -187,6 +187,7 @@
 - [pgtricks](https://github.com/akaihola/pgtricks) - Handy helpers for PostgreSQL users.
 - [PGCon 2020](https://www.youtube.com/playlist?list=PLuJmmKtsV1dP8IGGH6Z_sYQKxfDqtoSLj) ([HN](https://news.ycombinator.com/item?id=25397088))
 - [Mastering Postgres indexes in 10 minutes (2020)](https://fabien.herfray.org/posts/mastering-postgres-indexes-in-10-minutes/)
+- [pgreplay](https://github.com/laurenz/pgreplay) - Record and replay real-life database workloads.
 - [pgreplay-go](https://github.com/gocardless/pgreplay-go) - Postgres load testing tool.
 - [pg_stat_monitor](https://github.com/percona/pg_stat_monitor) - PostgreSQL Statistics Collector.
 - [hasql-queue](https://github.com/jfischoff/hasql-queue) - Module that utilizes PostgreSQL to implement a durable queue for efficently processing payloads. ([Introducing hasql-queue](http://jfischoff.github.io/blog/introducing-hasql-queue.html))

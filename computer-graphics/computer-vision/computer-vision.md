@@ -523,3 +523,4 @@
 - [Language as Queries for Referring Video Object Segmentation (2022)](https://arxiv.org/abs/2201.00487) ([Code](https://github.com/wjn922/ReferFormer))
 - [Localization with Sampling-Argmax (2021)](https://arxiv.org/abs/2110.08825) ([Code](https://github.com/Jeff-sjtu/sampling-argmax))
 - [VOCA: Voice Operated Character Animation](https://voca.is.tue.mpg.de/) ([Code](https://github.com/TimoBolkart/voca))
+- [CVZone](https://github.com/cvzone/cvzone) - Computer vision package that makes its easy to run Image processing and AI functions.

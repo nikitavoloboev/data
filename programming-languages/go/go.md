@@ -683,3 +683,4 @@ if err != nil {
 - [Optimizing the size of the Go binary](https://prog.world/optimizing-the-size-of-the-go-binary/) ([Lobsters](https://lobste.rs/s/ofifjc/optimizing_size_go_binary))
 - [Compiling a Go program into a native binary for Nintendo Switch (2022)](https://ebiten.org/blog/native_compiling_for_nintendo_switch.html) ([HN](https://news.ycombinator.com/item?id=29780739))
 - [Effective Error Handling in Golang (2022)](https://earthly.dev/blog/golang-errors/) ([Reddit](https://www.reddit.com/r/golang/comments/rybiyq/effective_error_handling_in_golang/))
+- [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=GOLANGROCKS) ([Reddit](https://www.reddit.com/r/golang/comments/rz0bjz/learn_programming_with_go_one_game_at_a_time/))

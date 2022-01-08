@@ -130,3 +130,4 @@
 - [Qiskit Optimization](https://github.com/Qiskit/qiskit-optimization) - Open-source framework that covers the whole range from high-level modeling of optimization problems.
 - [Lectures on quantum optics and quantum computations (in Russian)](https://github.com/ivanmurashko/lectures)
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems.
+- [Implementing a quantum computer emulator in SQL (2022)](https://explainextended.com/2021/12/31/happy-new-year-13/)

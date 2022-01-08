@@ -46,3 +46,4 @@
 - [Erasing Fears & Traumas Based on the Modern Neuroscience of Fear (2021)](https://www.youtube.com/watch?v=31wjVhCcI5Y)
 - [Bipolar Disorder CIC](https://bipolardisorder.me/) - Not-for-profit company working for the interests of people experiencing manic depression, together with their family and friends.
 - [How to talk about autism respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84) ([HN](https://news.ycombinator.com/item?id=29731065))
+- [Labelling Feelings 101](https://drmaciver.substack.com/p/labelling-feelings)

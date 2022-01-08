@@ -134,7 +134,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [3 Epic Solana Apps mSOL, Marinade.finance, PORT, Port.finance, & ORCA, Orca.so (2021)](https://www.youtube.com/watch?v=2UdKaktBvKQ)
 - [Deep Dive: Marinade Finance: Solana Liquid Staking, 6.6% APY plus Lending, DeFi Farming, & More (2021)](https://www.youtube.com/watch?v=aOWvlL1ColA&t=1s)
 - [How to bridge across assets from Ethereum to Solana using Phantom, Metamask, and the Wormhole (2021)](https://www.youtube.com/watch?v=OBme9dR031s)
-- [Jupiter Aggregator](https://jup.ag/) - Best swap aggregator on Solana. ([Twitter](https://twitter.com/jupiterexchange)) ([Video](https://www.youtube.com/watch?v=WzqXOPB_WPc))
+- [Jupiter Aggregator](https://jup.ag/) - Best swap aggregator on Solana. ([Twitter](https://twitter.com/jupiterexchange)) ([Video](https://www.youtube.com/watch?v=WzqXOPB_WPc)) ([Tweet](https://twitter.com/JupiterExchange/status/1479665798947880963))
 - [Solscan](https://solscan.io/) - User-friendly and real-time update Scanning Tool for Solana.
 - [SolTricks](https://soltricks.io/) - Create all kinds of Solana Tricks.
 - [Anchor Example: Escrow Program](https://github.com/ironaddicteddog/anchor-escrow)

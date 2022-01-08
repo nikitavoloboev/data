@@ -37,3 +37,4 @@
 - [mingo](https://github.com/kofrasa/mingo) - MongoDB query language for in-memory objects.
 - [mongobetween](https://github.com/coinbase/mongobetween) - Lightweight MongoDB connection pooler written in Go.
 - [Monty](https://github.com/davidlatwe/montydb) - Mongo tinified. MongoDB implemented in Python.
+- [REST API with a Cloudflare Worker and a MongoDB Atlas Cluster](https://github.com/mongodb-developer/cloudflare-worker-rest-api-realm-atlas)

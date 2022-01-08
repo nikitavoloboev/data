@@ -165,3 +165,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [mtproto/core](https://github.com/alik0211/mtproto-core) - Telegram API JS (MTProto) client library for Node.js and browser.
 - [Telegram Web App](https://github.com/evgeny-nadymov/telegram-react) - Based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly.
 - [TeleDrive](https://teledriveapp.com/) - Open source project of Google Drive/OneDrive/iCloud/Dropbox alternative using Telegram API for the free unlimited cloud storage. ([Code](https://github.com/mgilangjanuar/teledrive))
+- [GoTGProto](https://github.com/anonyindian/gotgproto) - Helper package for Go Telegram Client, i.e. gotd/td.
