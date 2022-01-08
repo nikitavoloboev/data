@@ -168,3 +168,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [List of structural editors](https://github.com/yairchu/list-of-structural-editors)
 - [Outline](https://outline.dev/) - Extensible text editor library that does things differently. ([Tweet](https://twitter.com/trueadm/status/1472377356044099587))
 - [Rosé Pine themes](https://rosepinetheme.com/) ([Code](https://github.com/rose-pine/rose-pine-theme))
+- [Case Study: Inline Editing (2021)](https://benadam.me/thoughts/godaddy-inline-editing/)

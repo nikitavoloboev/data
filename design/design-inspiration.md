@@ -369,6 +369,7 @@ Here are few more things I liked, design wise.
 - [Chance Strickland](https://chance.dev/)
 - [Monica Powell](https://www.aboutmonica.com/)
 - [David Sancho](https://sancho.dev/)
+- [Ben Adam](https://benadam.me/)
 - [Samurai](https://simurai.com/)
 - [Molly White](https://www.mollywhite.net/)
 - [Vitor Dino](https://vitordino.com/)

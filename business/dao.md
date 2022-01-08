@@ -53,3 +53,4 @@
 - [Tribeca](https://tribeca.so/#/) - Open standard and toolkit for launching DAOs on Solana. ([Code](https://github.com/TribecaHQ/tribeca))
 - [DAOs Wrapped 2021](https://orca.mirror.xyz/Yk8mmJAkCwL4y43zTplOq6ZsQc3mnbmDT9Y45CW3SXs) ([Tweet](https://twitter.com/OrcaProtocol/status/1473721635245105162))
 - [Orca Protocol](https://www.orcaprotocol.org/) - Makes governance accessible by creating tools around a DAO’s most basic primitive: people. ([Twitter](https://twitter.com/OrcaProtocol))
+- [Biggest mistake DAOs make is choosing to use Discord](https://twitter.com/rationalaussie/status/1478983282226122756)

@@ -302,3 +302,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [React Awesome Typography](https://github.com/Coderwelsch/react-awesome-typography) - Typescript react component to align words visually and replaces typical misspellings every typographer hates.
 - [SVG to Font](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
 - [font-ligatures](https://github.com/princjef/font-ligatures) - Find ligature replacements for any system font.
+- [Brik Font: Creating Type with Lego](https://kottke.org/22/01/brik-font-creating-type-with-lego)

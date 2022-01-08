@@ -22,6 +22,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
 - [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
 - [Dagcoin](https://dagcoin.org/) - Cryptocurrency designed for using, not trading.
+- [Kitty Coin](https://kittycoin.cat/)
 
 ## Notes
 

@@ -30,6 +30,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [I love the virtual conf format of "play pre-recorded video while speaker engages with the audience in chat". As a speaker, I enjoy interacting with the audience this way throughout the entire talk, and being able to answer questions without losing any speaking time.](https://twitter.com/techgirl1908/status/1294355241412878336)
 - [Give a roadmap whenever you start speaking. Signpost every argument. Explicitly state the implications of your arguments. Good debaters talk about facts, great ones talk about framing.](https://twitter.com/david_perell/status/1307493332285825024)
 - [My number one tip for giving conference talks: you're telling a story. Don't just read bullet points from slides!](https://twitter.com/ASpittel/status/1420731057851281417)
+- [The most effective presentation skill is backchanneling, which is where you shop your idea to each stakeholder well ahead of time and get verbal buy-in. Presenting then becomes a cake walk because it'll essentially be a formality.](https://twitter.com/lilykonings/status/1479546213573685248)
 
 ## Links
 

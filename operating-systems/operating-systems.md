@@ -310,3 +310,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [boxen](https://github.com/carlmontanari/boxen) - Put your network operating systems in a box.
 - [awesome OS](https://github.com/zriyans/awesome-OS)
 - [The World of Vintage Operating Systems](https://winworldpc.com/library/operating-systems) ([HN](https://news.ycombinator.com/item?id=29781325))
+- [MiniVM](https://github.com/FastVM/minivm) - Zero-dependency cross-language runtime on par with LuaJIT and C. ([HN](https://news.ycombinator.com/item?id=29850562))

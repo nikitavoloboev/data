@@ -34,7 +34,7 @@
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - Next-gen browser automation test automation framework for Node.js.
 - [rust-minibrowser](https://github.com/joshmarinacci/rust-minibrowser) - Mini-browser written in rust.
 - [Nyxt](https://nyxt.atlas.engineer/) - Keyboard-oriented, extensible web-browser designed for power users. ([Code](https://github.com/atlas-engineer/nyxt)) ([Lobsters](https://lobste.rs/s/pkpefb/nyxt_browser_2_0_0_pre_release)) ([Typed, customizable hooks](https://nyxt.atlas.engineer/article/hooks-implementation.org))
-- [Browsix](https://github.com/plasma-umass/browsix) - Unix-like operating system for the browser.
+- [Browsix](https://github.com/plasma-umass/browsix) - Unix-like operating system for the browser. ([Web](https://browsix.org/))
 - [Web Extensions - Shipit](https://github.com/LinusU/wext-shipit) - Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge.
 - [Pico](https://github.com/gripeless/pico) - Take browser screenshots in JavaScript.
 - [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies. ([Article](https://blog.jim-nielsen.com/2021/canistilluse.com/)) ([HN](https://news.ycombinator.com/item?id=28309885))

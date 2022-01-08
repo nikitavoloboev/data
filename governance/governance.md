@@ -102,3 +102,4 @@
 - [Twilight of Democracy: The Seductive Lure of Authoritarianism (2020)](https://twitter.com/wolfejosh/status/1464619768648974348) ([Tweet](https://twitter.com/wolfejosh/status/1464619768648974348))
 - [Decentralized Voting Scheme](https://github.com/EDGDrummond/DeVo)
 - [The 2022 Geopolitical Reading List](https://encyclopediageopolitica.com/2021/12/19/the-2022-geopolitical-reading-list/)
+- [Direct versus indirect democracy (2022)](https://equilibria.club/direct-versus-indirect-democracy/)

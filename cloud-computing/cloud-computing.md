@@ -98,3 +98,4 @@
 - [What is the next "cloud computing"? (2021)](https://www.reddit.com/r/investing/comments/qw71tf/what_is_the_next_cloud_computing/)
 - [Interview: Matthew Prince with Eric Goldman (2021)](https://www.youtube.com/watch?v=30QNAMBdkbc) ([Transcript](https://knightfoundation.org/interview-matthew-prince-with-eric-goldman/))
 - [The Impending Cloud Reshuffle (2021)](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html) ([HN](https://news.ycombinator.com/item?id=29411566))
+- [We handle 80TB and 5M page views a month for under $400 (2022)](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/) ([HN](https://news.ycombinator.com/item?id=29816504))

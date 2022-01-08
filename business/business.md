@@ -133,3 +133,5 @@ Learning to build [startups](startups/startups.md).
 - [Companies that had successful pivots](https://github.com/fikrikarim/companies-with-successful-pivot) ([HN](https://news.ycombinator.com/item?id=29746370))
 - [Ask HN: How do I manage the profit of a successful website? (2022)](https://news.ycombinator.com/item?id=29779944)
 - [Which FAANG is the most likely to decline in the years ahead? (2022)](https://news.ycombinator.com/item?id=29785046)
+- [Top 10 business books (2022)](https://twitter.com/Nicolascole77/status/1478453846087286796)
+- [I took a job at Amazon, only to leave after 10 months. (2021)](https://benadam.me/thoughts/my-experience-at-amazon/) ([HN](https://news.ycombinator.com/item?id=29813261))

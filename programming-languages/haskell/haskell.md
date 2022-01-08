@@ -356,7 +356,7 @@
 - [Functional in the wild: typeclasses](https://hugopeters.me/posts/12/)
 - [Getting acquainted with Lens (2020)](https://encodepanda.com/posts/2020-12-15-getting-acquainted-with-lens.html)
 - [Type-level sharing in Haskell, now (2021)](https://well-typed.com/blog/2021/12/type-level-sharing-now/) ([Reddit](https://www.reddit.com/r/haskell/comments/rieyxu/new_blog_post_typelevel_sharing_in_haskell_now/))
-- [Haskell Beginners 2022 Course](https://kodimensional.dev/course) ([Exercises](https://github.com/haskell-beginners-2022/exercises)) ([Plan](https://github.com/haskell-beginners-2022/course-plan))
+- [Haskell Beginners 2022 Course](https://kodimensional.dev/course) ([Exercises](https://github.com/haskell-beginners-2022/exercises)) ([Plan](https://github.com/haskell-beginners-2022/course-plan)) ([Slides](https://slides.com/haskellbeginners2022/))
 - [Applying Type-Level and Generic Programming in Haskell (2018)](https://github.com/kosmikus/SSGEP)
 - [Embedding effect systems in Haskell (2014)](http://tomasp.net/academic/papers/haskell-effects/)
 - [Policeman](https://github.com/kowainik/policeman) - Haskell PVP adviser.

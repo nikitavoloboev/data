@@ -17,6 +17,7 @@
 - [“Modal” is when user input goes into an alternate mode. It is _not_ an overlay window. Better language for an overlay window: “Dialog box” or “Pop-up window.”](https://twitter.com/rsms/status/1435636310371291137)
 - [Stripe's DX: 1. Docs have lots of examples. 2. Helpful error messages. 3. Testing mode. 4. Local dev experience with the CLI is so good. 5. Great-looking pre-built components.](https://twitter.com/thisismahmoud_/status/1448962093638631425)
 - [Decrease CTAs to only meaningful interactions.](https://twitter.com/joycekettering/status/1465404791987703810)
+- [Love the dot on top to show which part of website you are.](https://benadam.me/thoughts/)
 
 ## Links
 
