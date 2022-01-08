@@ -86,3 +86,4 @@
 - [zig-gc](https://github.com/Hejsil/zig-gc) - Simple mark-and-sweep garbage collector written in Zig.
 - [Declarative memory management (2019)](https://fasterthanli.me/articles/declarative-memory-management) ([HN](https://news.ycombinator.com/item?id=29779827))
 - [Signals and Threads | Memory Management (2022)](https://signalsandthreads.com/memory-management/)
+- [HardsHeap](https://github.com/kaist-hacking/HardsHeap) - Universal and Extensible Framework for Evaluating Secure Allocators.

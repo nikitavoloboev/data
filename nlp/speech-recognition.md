@@ -93,3 +93,4 @@
 - [NISQA: Speech Quality and Naturalness Assessment](https://github.com/gabrielmittag/NISQA)
 - [Optimization techniques proposed in Improving RNN Transducer Modeling for End-to-End Speech Recognition](https://github.com/csukuangfj/optimized_transducer)
 - [Conformer: Convolution-augmented Transformer for Speech Recognition (2020)](https://arxiv.org/abs/2005.08100) ([Code](https://github.com/lucidrains/conformer))
+- [CAT: Crf-based Asr Toolkit](https://github.com/thu-spmi/CAT) - Complete workflow for CRF-based data-efficient end-to-end speech recognition.

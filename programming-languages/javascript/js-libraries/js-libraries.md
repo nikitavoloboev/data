@@ -728,6 +728,8 @@
 - [worker-timers](https://github.com/chrisguttandin/worker-timers) - Replacement for setInterval() and setTimeout() which works in unfocused windows.
 - [Swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions. ([Web](https://swiperjs.com/))
 - [flat](https://github.com/hughsk/flat) - Flatten/unflatten nested JavaScript objects.
+- [AMQP Node](https://github.com/amqp-node/amqplib)
+- [Drawflow](https://github.com/jerosoler/Drawflow) - Create data flows easily and quickly.
 
 ## Links
 

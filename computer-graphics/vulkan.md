@@ -62,3 +62,4 @@
   ](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)) ([HN](https://news.ycombinator.com/item?id=29626406)) ([HN](https://news.ycombinator.com/item?id=29711495))
 - [Toy renderer written in C using Vulkan to perform real-time ray tracing research](https://github.com/MomentsInGraphics/vulkan_renderer)
 - [VIL](https://github.com/nyorain/vil) - Vulkan in-app debugging layer.
+- [Physical based rendering with Vulkan using glTF 2.0 models](https://github.com/SaschaWillems/Vulkan-glTF-PBR)

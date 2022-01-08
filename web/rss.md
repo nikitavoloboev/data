@@ -131,3 +131,4 @@
 - [RSS/EMAIL](https://www.rssto.email/) - Substack for RSS feeds. ([Article](https://ab.xyz/posts/rss-to-email/)) ([Code](https://github.com/aksh-at/rss-to-email))
 - [inoreadr](https://github.com/hrbrmstr/inoreadr) - Access and Orchestrate Inoreader Feeds, Preferences, and Metadata.
 - [I Miss RSS](https://www.wilcosky.com/d/20-i-miss-rss) ([HN](https://news.ycombinator.com/item?id=29814921))
+- [Ask HN: Who wants to help promote RSS? (2022)](https://news.ycombinator.com/item?id=29825844)

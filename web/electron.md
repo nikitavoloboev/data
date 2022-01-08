@@ -45,3 +45,4 @@
 - [Electron Settings](https://github.com/nathanbuchar/electron-settings) - Simple persistent user settings framework for Electron.
 - [Electron is very broken way of building cross platform apps (2021)](https://twitter.com/rsms/status/1457946661032849413)
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging module for your Electron application.
+- [astilectron](https://github.com/asticode/astilectron) - Electron app that provides an API over a TCP socket that allows executing Electron's method as well as capturing Electron's events.

@@ -252,3 +252,4 @@
 - [haskell.nix extra Hackage](https://github.com/ilyakooo0/haskell-nix-extra-hackage) - Tool to use custom forks of Hackage packages with haskell.nix.
 - [init-haskell](https://github.com/masaeedu/init-haskell) - Script for setting up Haskell projects with Nix.
 - [hackage-download](https://github.com/nh2/hackage-download) - Download all of Hackage.
+- [Hackage UI](https://hackage-ui.vercel.app/) - Fresh look for the Hackage. ([Code](https://github.com/visortelle/hackage-ui))

@@ -16,3 +16,4 @@ If I started my local server on port 3000. This command: `ngrok http 3000` will 
 - [ngrok code](https://github.com/inconshreveable/ngrok)
 - [pgrok](https://github.com/jerson/pgrok) - Free Introspected tunnels to localhost, like ngrok but free and unlimited.
 - [Setting up Cloudflare Tunnel for development (2021)](https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development/)
+- [JPRQ](https://github.com/azimjohn/jprq) - Get Your Localhost Online and HTTPS. Ngrok Alternative.

@@ -140,3 +140,4 @@
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-Hosted, Open Source, Change Monitoring of Web Pages.
 - [Jiu](https://github.com/Xetera/jiu) - Detect new images and video on social media feeds and dispatch webhooks on updates.
 - [Building a scalable scraper in Rust (2021)](https://xetera.dev/building-a-scalable-scraper/)
+- [Instagram Scraper](https://github.com/gippy/instagram-scraper) - Allows you to scrape posts from a user's profile page, hashtag page, or place.

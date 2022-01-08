@@ -326,3 +326,4 @@
 - [PyTorch Builder](https://github.com/pytorch/builder) - Scripts to build PyTorch binaries and do end-to-end integration tests.
 - [PyTorch VAE](https://github.com/AntixK/PyTorch-VAE) - Collection of Variational Autoencoders (VAE) in PyTorch.
 - [Pytorch MS-SSIM](https://github.com/VainF/pytorch-msssim) - Fast and differentiable MS-SSIM and SSIM for PyTorch.
+- [PyTorch Live](https://github.com/pytorch/live) - Easy to use library of tools for creating on-device ML demos on Android and iOS.

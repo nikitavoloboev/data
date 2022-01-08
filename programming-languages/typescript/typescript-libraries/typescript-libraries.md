@@ -273,6 +273,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Sunflake](https://github.com/lvkdotsh/sunflake) - Zero dependency, lightweight, snowflake generator.
 - [glob-bus](https://github.com/JamieMason/glob-bus) - 249 byte pub/sub event bus with namespaced wildcard support.
 - [bar-of-progress](https://github.com/badrap/bar-of-progress) - Small, easy & zero-dependency progress bar component.
+- [Entity](https://github.com/expo/entity) - Privacy-aware data layer for defining, caching, and authorizing access to application data models.
+- [perfect-cursors](https://github.com/steveruizok/perfect-cursors) - Perfect interpolation for animated multiplayer cursors. Used in tldraw.
 
 ## Links
 

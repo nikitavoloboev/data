@@ -682,3 +682,4 @@ if err != nil {
 - [perfguard](https://github.com/quasilyte/go-perfguard) - Static analyzer with emphasis on performance.
 - [Optimizing the size of the Go binary](https://prog.world/optimizing-the-size-of-the-go-binary/) ([Lobsters](https://lobste.rs/s/ofifjc/optimizing_size_go_binary))
 - [Compiling a Go program into a native binary for Nintendo Switch (2022)](https://ebiten.org/blog/native_compiling_for_nintendo_switch.html) ([HN](https://news.ycombinator.com/item?id=29780739))
+- [Effective Error Handling in Golang (2022)](https://earthly.dev/blog/golang-errors/) ([Reddit](https://www.reddit.com/r/golang/comments/rybiyq/effective_error_handling_in_golang/))

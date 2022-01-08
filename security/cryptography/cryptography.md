@@ -150,3 +150,4 @@
 - [NCC Group’s Cryptopals Guided Tour (2021)](https://research.nccgroup.com/2021/12/10/announcing-ncc-groups-cryptopals-guided-tour/) ([HN](https://news.ycombinator.com/item?id=29510624))
 - [WASI Cryptography APIs](https://github.com/WebAssembly/wasi-crypto)
 - [Lecture notes for Chris Peikert's graduate-level Theory of Cryptography course](https://github.com/cpeikert/TheoryOfCryptography)
+- [An intensive introduction to cryptography](https://intensecrypto.org/public/index.html) ([Notes](https://github.com/boazbk/crypto))

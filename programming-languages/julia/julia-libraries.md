@@ -63,6 +63,8 @@
 - [Libtask](https://github.com/TuringLang/Libtask.jl) - Tape based task copying in Turing.
 - [MLUtils](https://github.com/JuliaML/MLUtils.jl) - Utilities and abstractions for Machine Learning tasks.
 - [OMEinsum](https://github.com/under-Peter/OMEinsum.jl) - Differentiable Tensor Networks.
+- [Genify.jl](https://github.com/probcomp/Genify.jl) - Automatically transforms Julia methods to Gen functions via staged compilation.
+- [PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl) - Julia parser, interpreter, and compiler interface for the Planning Domain Definition Language (PDDL).
 
 ## Math
 

@@ -106,3 +106,4 @@
 - [Designing the Finder App Icon with Photoshop (2021)](https://www.youtube.com/watch?v=8nP5GgJ5CXg)
 - [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380) ([HN](https://news.ycombinator.com/item?id=29543027))
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands. ([Code](https://github.com/simple-icons/simple-icons))
+- [Bytesize Icons](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset. ([Code](https://github.com/danklammer/bytesize-icons))

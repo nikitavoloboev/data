@@ -24,7 +24,7 @@
 - [shoop](https://github.com/mcginty/shoop) - High-speed encrypted file transfer tool reminiscent of scp.
 - [Airshare](https://github.com/kurolabs/airshare) - Cross-platform content sharing in a local network.
 - [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop. ([Code](https://github.com/cowbell/sharedrop))
-- [Syncthing is everything I used to love about computers (2020)](https://tonsky.me/blog/syncthing/) ([Lobsters](https://lobste.rs/s/4ucmcp/computers_as_i_used_love_them)) ([HN](https://news.ycombinator.com/item?id=23537243))
+- [Syncthing is everything I used to love about computers (2020)](https://tonsky.me/blog/syncthing/) ([Lobsters](https://lobste.rs/s/4ucmcp/computers_as_i_used_love_them)) ([HN](https://news.ycombinator.com/item?id=23537243)) ([HN](https://news.ycombinator.com/item?id=29837696))
 - [Perkeep](https://perkeep.org/) - Lets you permanently keep your stuff, for life. ([HN](https://news.ycombinator.com/item?id=23676350))
 - [HN: Discussing Dropbox (2020)](https://news.ycombinator.com/item?id=23787446)
 - [SCP user's migration guide to rsync (2020)](https://fedoramagazine.org/scp-users-migration-guide-to-rsync/) ([Lobsters](https://lobste.rs/s/uupfif/scp_user_s_migration_guide_rsync))

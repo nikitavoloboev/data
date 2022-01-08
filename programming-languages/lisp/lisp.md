@@ -166,3 +166,4 @@
 - [bass](https://bass-lang.org/) - Bass is a low-fidelity Lisp dialect for scripting the infrastructure.
 - [Kamex](https://github.com/Ovyerus/kamex) - Basic Lisp interpreter implemented in Elixir.
 - [Learning with Peter Norvig's lis.py interpreter](https://github.com/fluentpython/lispy)
+- [miniMAL](https://github.com/kanaka/miniMAL) - Delightfully Diminutive Lisp. Implemented in < 1 KB of JavaScript.

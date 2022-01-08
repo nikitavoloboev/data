@@ -118,6 +118,7 @@
 - [Daat](https://github.com/QuinnWilton/daat) - Parameterized modules for Elixir.
 - [Expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 - [Vex](https://github.com/CargoSense/vex) - Data Validation for Elixir.
+- [NimbleParsec](https://github.com/dashbitco/nimble_parsec) - Simple and fast library for text-based parser combinators.
 
 ## Links
 

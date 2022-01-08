@@ -49,3 +49,4 @@
 - [PrologHub](https://prologhub.com/)
 - [Homoiconic Prolog: Explain yourself (2019)](https://prologhub.com/homoiconic-prolog-explain-yourself/)
 - [Embeddable Prolog in Go](https://github.com/ichiban/prolog)
+- [Julog.jl](https://github.com/ztangent/Julog.jl) - Julia package for Prolog-style logic programming.

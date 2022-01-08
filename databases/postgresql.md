@@ -389,3 +389,4 @@
 - [Multicorn](https://github.com/Segfault-Inc/Multicorn) - PostgreSQL 9.1+ extension meant to make Foreign Data Wrapper development easy, by allowing the programmer to use the Python programming language. ([Web](https://multicorn.org/))
 - [pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 - [pg_bloat_check](https://github.com/keithf4/pg_bloat_check) - Bloat check script for PostgreSQL.
+- [Zero-downtime schema migrations in Postgres using Reshape (2022)](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/) ([HN](https://news.ycombinator.com/item?id=29825520))

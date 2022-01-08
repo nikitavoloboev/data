@@ -226,3 +226,4 @@
 - [Human-first AI](https://www.h1st.ai/) - Power Tools for AI Engineers With Deadlines. ([Code](https://github.com/h1st-ai/h1st))
 - [Data Science from Scratch Book](https://github.com/joelgrus/data-science-from-scratch)
 - [Corteza](https://cortezaproject.org/) - Open-source Low-Code Platform and Salesforce alternative. ([GitHub](https://github.com/cortezaproject)) ([Server Code](https://github.com/cortezaproject/corteza-server))
+- [Learning From Data - Online Course](https://home.work.caltech.edu/telecourse.html) ([Code](https://github.com/niuers/Learning-From-Data-A-Short-Course)) ([Solutions](https://github.com/ppaquay/Learning-from-Data-Solutions))

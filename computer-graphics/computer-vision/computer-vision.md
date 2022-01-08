@@ -451,7 +451,7 @@
 - [Awesome Vision Attention Papers](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
 - [FastFlowNet: A Lightweight Network for Fast Optical Flow Estimation (2021)](https://arxiv.org/abs/2103.04524) ([Code](https://github.com/ltkong218/FastFlowNet))
 - [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes (2018)](https://www.monkeyoverflow.com/#/rendernet-a-cnn-for-differentiable-rendering-from-3d-shapes/) ([Code](https://github.com/thunguyenphuoc/RenderNet))
-- [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/abs/2111.06377) ([Code](https://github.com/pengzhiliang/MAE-pytorch))
+- [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/abs/2111.06377) ([Code](https://github.com/pengzhiliang/MAE-pytorch)) ([Code](https://github.com/facebookresearch/mae))
 - [BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth)
 - [It's About Time: Analog Clock Reading in the Wild (2021)](https://arxiv.org/abs/2111.09162) ([Tweet](https://twitter.com/giffmana/status/1461249563466022913)) ([Code](https://github.com/charigyang/itsabouttime))
 - [Learning to Compose Visual Relations (2021)](https://composevisualrelations.github.io/) ([Code](https://github.com/nanlliu/compose-visual-relations))
@@ -522,3 +522,4 @@
 - [U-2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (2020)](https://arxiv.org/abs/2005.09007) ([Code](https://github.com/Norod/U-2-Net-StyleTransfer))
 - [Language as Queries for Referring Video Object Segmentation (2022)](https://arxiv.org/abs/2201.00487) ([Code](https://github.com/wjn922/ReferFormer))
 - [Localization with Sampling-Argmax (2021)](https://arxiv.org/abs/2110.08825) ([Code](https://github.com/Jeff-sjtu/sampling-argmax))
+- [VOCA: Voice Operated Character Animation](https://voca.is.tue.mpg.de/) ([Code](https://github.com/TimoBolkart/voca))

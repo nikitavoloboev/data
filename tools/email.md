@@ -207,3 +207,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Deploy a Gmail-like email server in 30 (ish) minutes (2021)](https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/) ([HN](https://news.ycombinator.com/item?id=29691605))
 - [Red Mail](https://github.com/Miksus/red-mail) - Advanced email sending library for Python.
 - [Postsack](https://github.com/terhechte/postsack) - Visually cluster your emails by sender, domain, and more to identify waste.
+- [Mailwind](https://github.com/soheilpro/mailwind) - Tailwind CSS for HTML emails.
+- [PostSheet](https://postsheet.com/) - No-code email and SMS service.

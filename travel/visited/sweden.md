@@ -12,3 +12,4 @@
 - [Sweden: History, Geography, Economy & Culture (2020)](https://www.youtube.com/watch?v=sj3A-IUl78E)
 - [She has been Living in a Cabin in the Forests of Sweden for 8 years | Home Tour (2020)](https://www.youtube.com/watch?v=TWfl990NHoM)
 - [How To Become a Freelancer in Sweden](https://github.com/nabati/freelancing-in-sweden)
+- [How to enjoy life in Sweden (2022)](https://twitter.com/sofi_t_deveaux/status/1477369316131717131?s=28)

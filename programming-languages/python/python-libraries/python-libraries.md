@@ -142,6 +142,7 @@
 - [omniduct](https://github.com/airbnb/omniduct) - Uniform interfaces for connecting to and extracting data from a wide variety of (potentially remote) data stores.
 - [PugSQL](https://github.com/mcfunley/pugsql) - HugSQL-inspired database library for Python.
 - [PyStow](https://github.com/cthoyt/pystow) - Easily pick a place to store data for your Python code.
+- [CogDB](https://github.com/arun1729/cog) - Graph Database for Python.
 
 ## GUI
 

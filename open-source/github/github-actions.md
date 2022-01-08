@@ -157,6 +157,8 @@
 - [GitHub Action - Releases API](https://github.com/shogo82148/actions-upload-release-asset) - GitHub Action uploads release assets using Upload a release asset.
 - [GitHub Action for GraalVM](https://github.com/graalvm/setup-graalvm)
 - [assign-pull-request-reviewers-action](https://github.com/int128/assign-pull-request-reviewers-action) - GitHub Actions to assign pull request reviewers by label.
+- [Run jq](https://github.com/sergeysova/jq-action) - Run jq on your data and get result as output.
+- [Label Checker](https://github.com/agilepathway/label-checker) - Check pull requests for the presence or absence of specified labels.
 
 ## Go
 
@@ -239,6 +241,7 @@
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 - [nix-profile-action](https://github.com/yaxitech/nix-profile-action) - GitHub Action to install an ephemeral Nix profile.
 - [flake-dep-info-action](https://github.com/cpcloud/flake-dep-info-action) - Access the fields of flake.lock as outputs in a GitHub action step.
+- [Set up Nix Cache Action](https://github.com/zombiezen/setup-nix-cache-action) - Configures the Nix package manager to read from (and optionally write to) a remote cache.
 
 ## Haskell
 

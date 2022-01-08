@@ -180,3 +180,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [M1 dev setup using a NixOS virtual machine (2021)](https://calcagno.blog/m1dev/)
 - [nixos-gen-config](https://github.com/nix-community/nixos-gen-config)
 - [A second look at NixOS (2022)](https://psibi.in/posts/2022-01-01-nixos.html)
+- [deploy](https://github.com/winterqt/deploy) - Yet another NixOS deployment tool.

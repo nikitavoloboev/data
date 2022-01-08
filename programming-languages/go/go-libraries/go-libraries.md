@@ -1231,6 +1231,7 @@
 - [Lancet](https://github.com/duke-git/lancet) - Comprehensive, efficient, and reusable util function library of go.
 - [rosie](https://github.com/travelaudience/rosie) - Task building library that allows combining custom logic with the execution of command line programs.
 - [keyfunc](https://github.com/MicahParks/keyfunc) - Create a jwt.Keyfunc for JWT parsing with a JWK Set or given cryptographic keys (like HMAC) in Go.
+- [protocol](https://github.com/go-language-server/protocol) - Implements Language Server Protocol specification in Go.
 
 ## Links
 

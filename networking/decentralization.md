@@ -134,3 +134,4 @@
 - [Why Web3? (2021)](https://avc.com/2021/12/why-web3/) ([HN](https://news.ycombinator.com/item?id=29727420))
 - [Web3 is centralized (2022)](https://blog.wesleyac.com/posts/web3-centralized) ([HN](https://news.ycombinator.com/item?id=29766497))
 - [A not so gentle intro to web3 (2021)](https://www.kooslooijesteijn.net/blog/web3) ([HN](https://news.ycombinator.com/item?id=29779159))
+- [My First Impressions of Web3 (2022)](https://moxie.org/2022/01/07/web3-first-impressions.html) ([HN](https://news.ycombinator.com/item?id=29845208)) ([Tweet](https://twitter.com/brian_armstrong/status/1479636294326177793))

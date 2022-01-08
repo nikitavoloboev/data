@@ -169,3 +169,4 @@
 - [A Data-Centric Introduction to Computing Book (2021)](https://dcic-world.org/2021-08-21/index.html)
 - [Computer Science and Programming curricula](https://github.com/P1xt/p1xt-guides)
 - [A Data-Centric Introduction to Computing (2021)](https://dcic-world.org/)
+- [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html) ([Notes](https://github.com/boazbk/tcs))
