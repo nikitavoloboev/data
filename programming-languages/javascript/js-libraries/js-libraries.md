@@ -64,6 +64,7 @@
 - [Drayman](https://github.com/Claviz/drayman) - Server-side component framework.
 - [yeet](https://github.com/tornqvist/yeet) - Teeny-weeny front end framework.
 - [Xeact](https://github.com/Xe/Xeact) - Revolutionary Femtoframework For High Efficiency JavaScript Development. ([Article](https://christine.website/blog/xeact-0.0.69-2021-11-18))
+- [$mol](https://github.com/hyoo-ru/mam_mol) - Fastest reactive micro-modular compact flexible lazy ui web framework.
 
 ## Animation
 

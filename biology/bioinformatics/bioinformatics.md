@@ -190,3 +190,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Deep Learning for Molecules and Materials Book](https://dmol.pub/intro.html) ([Code](https://github.com/whitead/dmol-book))
 - [ProtTrans](https://github.com/agemagician/ProtTrans) - State of the art pre-trained models for proteins.
 - [sandbox.bio](https://sandbox.bio/) - Interactive bioinformatics tutorials.
+- [Foldseek Search Server](https://search.foldseek.com/search) - Suite for searching and clustering protein structures. ([Code](https://github.com/steineggerlab/foldseek)) ([Tweet](https://twitter.com/thesteinegger/status/1478050357419048960))

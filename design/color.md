@@ -122,3 +122,4 @@
 - [Shade Generator](https://www.shadegenerator.com/) - Generate shades and tints of a given input color. ([Code](https://github.com/csandman/shade-generator))
 - [Colorquant](https://github.com/esimov/colorquant) - Go library for color quantization and dithering.
 - [Polychroma](https://polychroma.app/) - Better gradients through color spaces. ([Code](https://github.com/stormwarning/polychroma))
+- [Design Gradients](https://www.designgradients.com/) - Free platform of 48 linear gradients curated by designers.

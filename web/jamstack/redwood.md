@@ -12,3 +12,4 @@
 - [Build a full-stack app with RedwoodJS and GraphQL (2020)](https://hasura.io/blog/redwoodjs-with-graphql-hasura/)
 - [I tried RedwoodJS - Fullstack Framework for Startups? (2021)](https://www.youtube.com/watch?v=qAHTAYAh9zk)
 - [Redwood Object Identification Pattern Example](https://github.com/orta/redwood-object-identification)
+- [RedwoodJS and PostgreSQL (2021)](https://daily.dev/blog/redwoodjs-and-postgressql)

@@ -327,3 +327,4 @@
 - [PyTorch VAE](https://github.com/AntixK/PyTorch-VAE) - Collection of Variational Autoencoders (VAE) in PyTorch.
 - [Pytorch MS-SSIM](https://github.com/VainF/pytorch-msssim) - Fast and differentiable MS-SSIM and SSIM for PyTorch.
 - [PyTorch Live](https://github.com/pytorch/live) - Easy to use library of tools for creating on-device ML demos on Android and iOS.
+- [Modeling uncertainty with PyTorch (2022)](https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html)

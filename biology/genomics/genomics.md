@@ -130,3 +130,4 @@
 - [biowasm](https://github.com/biowasm/biowasm) - WebAssembly modules for genomics.
 - [Aioli](https://github.com/biowasm/aioli) - Framework for building fast genomics web tools with WebAssembly and WebWorkers.
 - [42basepairs](https://42basepairs.com/) - Better way to explore your genomics data.
+- [A catalogue of 1,167 genomes from the human gut archaeome (2021)](https://www.nature.com/articles/s41564-021-01020-9)
