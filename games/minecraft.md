@@ -49,6 +49,7 @@
 - [JSPrismarine](https://prismarine.dev/) - Dedicated Minecraft Bedrock Edition server written in TypeScript.
 - [minepkg](https://preview.minepkg.io/) - Package Manager For Minecraft. Open platform for mod & modpack sharing. ([Code](https://github.com/minepkg/minepkg))
 - [PolyMc](https://github.com/TheEpicBlock/PolyMc) - Making minecraft mods compatible with a vanilla client.
+- [PolyMC](https://github.com/PolyMC/PolyMC) - Custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC).
 - [I built a Neural Network in Minecraft](https://www.youtube.com/watch?v=7OdhtAiPfWY) ([Tweet](https://twitter.com/ykilcher/status/1382328460308271104))
 - [GANcraft](https://nvlabs.github.io/GANcraft/) - Unsupervised 3D Neural Rendering of Minecraft Worlds. ([HN](https://news.ycombinator.com/item?id=26833972))
 - [Create](https://github.com/Creators-of-Create/Create) - Mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.

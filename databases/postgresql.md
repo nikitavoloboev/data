@@ -385,7 +385,7 @@
 - [Getting Started with QGIS, PostgreSQL and PostGIS (2021)](https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/) ([HN](https://news.ycombinator.com/item?id=29691474))
 - [Optimizing Postgres queries at scale (2021)](https://heap.io/blog/optimizing-postgres-queries-at-scale) ([HN](https://news.ycombinator.com/item?id=29715872))
 - [PostgREST on Fargate – 500QPS for $20/mo (2021)](https://www.nedmcclain.com/postgrest-rest-api-on-aws-fargate/)
-- [Postgres Tuning Tips (2021)](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+- [Postgres Tuning Tips (2021)](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year) ([HN](https://news.ycombinator.com/item?id=29858083))
 - [Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data](https://github.com/CrunchyData/postgres-operator-examples)
 - [Multicorn](https://github.com/Segfault-Inc/Multicorn) - PostgreSQL 9.1+ extension meant to make Foreign Data Wrapper development easy, by allowing the programmer to use the Python programming language. ([Web](https://multicorn.org/))
 - [pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.

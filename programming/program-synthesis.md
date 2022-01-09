@@ -25,3 +25,4 @@
 - [Program Synthesis by Type-Guided Abstraction Refinement (2020)](https://aaronguo1996.github.io/publication/tygar/tygar-paper.pdf)
 - [Program synthesis with Z3 (2019)](https://www.mattkeeter.com/projects/synthesis/) ([Lobsters](https://lobste.rs/s/xelij5/program_synthesis_with_z3_2019))
 - [Learning to Synthesize Programs as Interpretable and Generalizable Policies (2021)](https://arxiv.org/abs/2108.13643) ([Code](https://github.com/clvrai/leaps))
+- [A neural network solves and generates mathematics problems by program synthesis (2022)](https://arxiv.org/abs/2112.15594) ([HN](https://news.ycombinator.com/item?id=29853802))

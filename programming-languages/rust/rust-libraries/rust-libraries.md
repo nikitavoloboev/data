@@ -1313,6 +1313,7 @@
 - [Process Control](https://github.com/dylni/process_control) - Methods for ergonomically running processes with timeouts.
 - [print_bytes](https://github.com/dylni/print_bytes) - Print bytes as losslessly as possible.
 - [Quit](https://github.com/dylni/quit) - Exit cleanly with an exit code.
+- [elasticlunr-rs](https://github.com/mattico/elasticlunr-rs) - Partial port of elasticlunr to Rust. Intended to be used for generating compatible search indices.
 
 ## Cargo Plugins
 

@@ -138,3 +138,4 @@
 - [SiFive-Core](https://github.com/luojia65/sifive-core) - Low level access to SiFive RISC-V processor cores.
 - [Minerva](https://github.com/minerva-cpu/minerva) - 32-bit RISC-V soft processor.
 - [Fuxi](https://github.com/MaxXSoft/Fuxi) - 32-bit pipelined RISC-V processor written in Chisel3.
+- [NERV](https://github.com/YosysHQ/nerv) - Naive Educational RISC V processor.

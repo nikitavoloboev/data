@@ -35,3 +35,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [DJI Ronin 4D](https://www.dji.com/nl/ronin-4d)
 - [Why Dune's Visual Effects Feel So Different (2021)](https://www.youtube.com/watch?v=uIKupTibxKQ)
 - [The Succession Character You Never See (2021)](https://www.youtube.com/watch?v=_lU91279xZk)
+- [Approved Cameras by Netflix](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture) ([HN](https://news.ycombinator.com/item?id=29856911))

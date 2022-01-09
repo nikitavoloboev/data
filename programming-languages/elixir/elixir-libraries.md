@@ -119,6 +119,7 @@
 - [Expat](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 - [Vex](https://github.com/CargoSense/vex) - Data Validation for Elixir.
 - [NimbleParsec](https://github.com/dashbitco/nimble_parsec) - Simple and fast library for text-based parser combinators.
+- [Elasticlunr](https://atandarash.me/blog/introduction-to-elasticlunr) - Full-text search library for Elixir. ([HN](https://news.ycombinator.com/item?id=29857712))
 
 ## Links
 
