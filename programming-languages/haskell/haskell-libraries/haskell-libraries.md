@@ -223,6 +223,7 @@
 - [avail](https://github.com/re-xyr/avail) - Low-overhead effect management for concrete monads.
 - [fakedata](https://github.com/fakedata-haskell/fakedata) - Haskell Library for producing quality fake data.
 - [rure](https://github.com/vmchale/rure) - Haskell bindings to Rust's regex library.
+- [heidi](https://github.com/ocramz/heidi) - Tidy data in Haskell.
 
 ## Notes
 

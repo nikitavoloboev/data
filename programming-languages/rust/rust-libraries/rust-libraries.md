@@ -231,6 +231,7 @@
 - [Plexus](https://github.com/olson-sean-k/plexus) - Polygonal mesh processing.
 - [Genmesh](https://github.com/gfx-rs/genmesh) - Library of mesh generation utilities.
 - [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
+- [Morphorm](https://github.com/geom3trik/morphorm) - UI layout engine written in Rust.
 
 ## Games
 
@@ -1314,6 +1315,7 @@
 - [print_bytes](https://github.com/dylni/print_bytes) - Print bytes as losslessly as possible.
 - [Quit](https://github.com/dylni/quit) - Exit cleanly with an exit code.
 - [elasticlunr-rs](https://github.com/mattico/elasticlunr-rs) - Partial port of elasticlunr to Rust. Intended to be used for generating compatible search indices.
+- [STM32-HAL](https://github.com/David-OConnor/stm32-hal) - Provides access to STM32 peripherals in Rust.
 
 ## Cargo Plugins
 

@@ -731,6 +731,7 @@
 - [flat](https://github.com/hughsk/flat) - Flatten/unflatten nested JavaScript objects.
 - [AMQP Node](https://github.com/amqp-node/amqplib)
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Create data flows easily and quickly.
+- [find-up](https://github.com/sindresorhus/find-up) - Find a file or directory by walking up parent directories.
 
 ## Links
 

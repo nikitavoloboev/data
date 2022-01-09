@@ -450,3 +450,4 @@
 - [Awesome Huggingface](https://github.com/huggingface/awesome-huggingface)
 - [SyntaxDot](https://github.com/tensordot/syntaxdot) - Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.
 - [STriP Net](https://github.com/stephenleo/stripnet) - Semantic Similarity of Scientific Papers (S3P) Network.
+- [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.

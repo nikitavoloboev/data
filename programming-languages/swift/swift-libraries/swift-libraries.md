@@ -904,6 +904,7 @@
 - [Lindenmayer](https://github.com/heckj/Lindenmayer) - Swift library that implements a parametric Lindenmayer system and related SwiftUI views for presentation of the results of your systems.
 - [BluetoothWeb](https://github.com/PureSwift/BluetoothWeb) - Swift library for Bluetooth Web API (WebAssembly).
 - [EPUBKit](https://github.com/witekbobrowski/EPUBKit) - Simple Swift library for parsing EPUB documents.
+- [SVGPath](https://github.com/nicklockwood/SVGPath) - Cross-platform Swift library for parsing SVGPath strings.
 
 ## Other (not lib)
 

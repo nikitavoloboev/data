@@ -172,3 +172,4 @@
 - [StyleGAN3 CLIP-based guidance](https://github.com/ouhenio/StyleGAN3-CLIP-notebooks)
 - [CA-GAN: Composition-Aided GANs (2020)](https://aiart.live/ca-gan/) ([Code](https://github.com/fei-hdu/ca-gan))
 - [SinGAN: Learning a Generative Model from a Single Natural Image (2019)](https://tamarott.github.io/SinGAN.htm) ([Code](https://github.com/tamarott/SinGAN))
+- [Labels4Free: Unsupervised Segmentation using StyleGAN (2021)](https://rameenabdal.github.io/Labels4Free/) ([Code](https://github.com/RameenAbdal/Labels4Free))

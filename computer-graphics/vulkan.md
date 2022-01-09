@@ -63,3 +63,6 @@
 - [Toy renderer written in C using Vulkan to perform real-time ray tracing research](https://github.com/MomentsInGraphics/vulkan_renderer)
 - [VIL](https://github.com/nyorain/vil) - Vulkan in-app debugging layer.
 - [Physical based rendering with Vulkan using glTF 2.0 models](https://github.com/SaschaWillems/Vulkan-glTF-PBR)
+- [lahar](https://github.com/Ralith/lahar) - Async-oriented Vulkan helpers.
+- [vk-mem](https://github.com/gwihlidal/vk-mem-rs) - Rust bindings for AMD Vulkan Memory Allocator (VMA).
+- [vk-sync](https://github.com/gwihlidal/vk-sync-rs) - Simplified Vulkan synchronization logic, written in rust.

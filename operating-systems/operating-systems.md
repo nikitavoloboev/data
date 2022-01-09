@@ -138,6 +138,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Tifflin](https://github.com/thepowersgang/rust_os) - OS kernel written in rust. Non POSIX.
 - [Vinix](https://github.com/vlang/vinix) - Modern, fast, and useful operating system in the V programming language.
 - [Aero](https://github.com/Andy-Python-Programmer/aero) - Experimental, Unix-like OS written in Rust.
+- [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system optimized for E Ink displays.
 
 ## Notes
 
