@@ -87,6 +87,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Jaana Dogan](https://rakyll.org/)
 - [Eugene Yokota](https://eed3si9n.com/)
 - [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
+- [Bodun Hu](https://www.bodunhu.com/blog/posts/)
 
 ## Notes
 

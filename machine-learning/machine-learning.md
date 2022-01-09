@@ -645,3 +645,5 @@
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI (2021)](https://arxiv.org/abs/2201.00650) ([Code](https://github.com/BoltzmannEntropy/interviews.ai))
 - [Diffusion-Models-Seminar](https://github.com/sangyun884/Diffusion-Models-Seminar)
 - [Awesome Graph Representation Learning](https://github.com/kaiyuanzh/awesome-graph-representation-learning)
+- [Machine Learning System Resources (2022)](https://www.bodunhu.com/blog/posts/machine-learning-system-resources/)
+- [Dynamic Tensor Rematerialization (2021)](https://arxiv.org/abs/2006.09616) ([Review](https://www.bodunhu.com/blog/posts/paper-review-dynamic-tensor-rematerialization/))

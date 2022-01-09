@@ -291,3 +291,4 @@ zz
 - [DIY quality of life improvements - Anton Kastritskiy - Vimconf 2021](https://www.youtube.com/watch?v=pkyurqHhlXI)
 - [vimconf.live [2021]: Buffer is King](https://www.youtube.com/watch?v=rD2eyB9oMqQ)
 - [How to turn Vim into a powerful and beautiful IDE | Jess Archer, Vimconf 2021](https://www.youtube.com/watch?v=434tljD-5C8)
+- [Lisp in Vim (2019)](https://susam.net/blog/lisp-in-vim.html)

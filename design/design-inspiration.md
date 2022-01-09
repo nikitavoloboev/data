@@ -347,6 +347,7 @@ Here are few more things I liked, design wise.
 - [Liam Cooke](https://liamcooke.com/)
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Kitze](https://kitze.io/)
+- [Bodun Hu](https://www.bodunhu.com/)
 - [Miriam Suzanne](https://mia.wtf/)
 - [Carolyn Stransky](https://workwithcarolyn.com/)
 - [Bradley Taunt](https://uglyduck.ca/)

@@ -81,3 +81,4 @@ Match all that don't have notes or twitter in input
 - [regex-cache](https://github.com/jonschlinkert/regex-cache) - Memoize the results of a call to the RegExp constructor, avoiding repetitious runtime compilation.
 - [tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Regex grammar for tree-sitter.
 - [rr4r](https://github.com/yutannihilation/rr4r) - Rust regex for R.
+- [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Parser & Visualizer. ([Code](https://github.com/CJex/regulex))

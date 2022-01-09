@@ -2,6 +2,7 @@
 
 ## Themes
 
+- [Minimalist](https://github.com/BDHU/minimalist) - Jekyll theme inspired by the Minimal theme.
 - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) - Minimal, sidebar, responsive web design Jekyll theme, focusing on text presentation.
 - [Good Clean Read](https://github.com/adueck/good-clean-read) - Jekyll template for publishing clean, readable articles and single-page sites.
 - [Colorie](https://github.com/ronv/colorie) - Single column blog and portfolio Jekyll theme.

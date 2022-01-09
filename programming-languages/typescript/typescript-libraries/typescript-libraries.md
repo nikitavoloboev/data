@@ -275,6 +275,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [bar-of-progress](https://github.com/badrap/bar-of-progress) - Small, easy & zero-dependency progress bar component.
 - [Entity](https://github.com/expo/entity) - Privacy-aware data layer for defining, caching, and authorizing access to application data models. ([Tweet](https://twitter.com/JI/status/1479626819863138306?s=20))
 - [perfect-cursors](https://github.com/steveruizok/perfect-cursors) - Perfect interpolation for animated multiplayer cursors. Used in tldraw.
+- [reactive-fs](https://github.com/Akryum/reactive-fs) - Reactive filesystem interface based on Vue 3 reactivity system.
 
 ## Links
 

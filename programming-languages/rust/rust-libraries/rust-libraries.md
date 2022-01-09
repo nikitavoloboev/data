@@ -230,6 +230,7 @@
 - [Kayak UI](https://github.com/StarArawn/kayak_ui) - Declarative UI that can be used to make user interfaces in Rust primarily targeting games.
 - [Plexus](https://github.com/olson-sean-k/plexus) - Polygonal mesh processing.
 - [Genmesh](https://github.com/gfx-rs/genmesh) - Library of mesh generation utilities.
+- [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 
 ## Games
 

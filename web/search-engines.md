@@ -196,3 +196,4 @@
 - [Mwmbl](https://mwmbl.org/) - Open source, non-profit search engine implemented in python. ([Code](https://github.com/mwmbl/mwmbl)) ([HN](https://news.ycombinator.com/item?id=29690877))
 - [Google no longer producing high quality search results (2022)](https://twitter.com/mwseibel/status/1477701120319361026) ([HN](https://news.ycombinator.com/item?id=29772136))
 - [Kagi](https://kagi.com/) - Premium Search Engine. ([HN](https://news.ycombinator.com/item?id=29835756))
+- [Cherche](https://github.com/raphaelsty/cherche) - Allows you to create a neural search pipeline using retrievers and pre-trained language models as rankers.

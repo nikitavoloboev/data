@@ -242,3 +242,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Cache Poisoning at Scale (2021)](https://youst.in/posts/cache-poisoning-at-scale/)
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition tool for ACME (Let's Encrypt).
 - [My Infosec Awesome](https://github.com/pe3zx/my-infosec-awesome) - Curated list of awesome links, resources and tools on infosec related topics.
+- [HubbleStack](https://github.com/hubblestack/hubble) - Modular, open-source security compliance framework.

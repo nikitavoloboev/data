@@ -70,7 +70,7 @@
 - [lexy](https://github.com/littledivy/lexy) - Fast & Non-regex based lexical analysis for Deno.
 - [Deno in 2020](https://deno.land/posts/deno-in-2020)
 - [DenoDB](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno. ([HN](https://news.ycombinator.com/item?id=27546705))
-- [oak](https://github.com/oakserver/oak) - Middleware framework for handling HTTP with Deno.
+- [oak](https://github.com/oakserver/oak) - Middleware framework for handling HTTP with Deno. ([Awesome](https://github.com/oakserver/awesome-oak))
 - [SuperOak](https://github.com/asos-craigmorten/superoak) - HTTP assertions for Oak made easy via SuperDeno.
 - [ssgo](https://github.com/mdubourg001/ssgo) - Minimalistic but flexible static site generator for Deno.
 - [Template for new Deno projects](https://github.com/starts-with/deno)
@@ -170,3 +170,4 @@
 - [Mandarine.TS](https://github.com/mandarineorg/mandarinets) - Minimalist, decorator-driven, MVC, typescript framework for Deno.
 - [deno_which](https://github.com/dsherret/deno_which) - Finds the path to the specified command in Deno.
 - [deno-esbuild](https://github.com/esbuild/deno-esbuild) - Experimental Deno package for esbuild.
+- [oak-http-proxy](https://github.com/cmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.

@@ -95,7 +95,7 @@
 - [Riemann](https://github.com/riemann/riemann) - Network event stream processing system, in Clojure.
 - [Collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering](https://github.com/copyconstruct/library)
 - [Tess Rinearson - All Together Now: An Introduction to Distributed Consensus (2019)](https://www.youtube.com/watch?v=vMz3q8Mm1uY)
-- [Slurm](https://slurm.schedmd.com/quickstart.html) - Open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters. ([Code](https://github.com/SchedMD/slurm))
+- [Slurm](https://slurm.schedmd.com/quickstart.html) - Open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters. ([Code](https://github.com/SchedMD/slurm)) ([Docs](https://slurm.schedmd.com/documentation.html)) ([Set up Slurm across Multiple Machines](https://www.bodunhu.com/blog/posts/set-up-slurm-across-multiple-machines/))
 - [Submitit](https://github.com/facebookincubator/submitit) - Lightweight tool for submitting Python functions for computation within a Slurm cluster.
 - [CAP FAQ](https://github.com/henryr/cap-faq)
 - [Readings in Distributed Systems](http://henryr.github.io/distributed-systems-readings/)
@@ -240,3 +240,4 @@
 - [Canary](https://znx3p0.github.io/canary-book/) - Distributed systems library for making communications through the network easier, while keeping minimalism and flexibility. ([Code](https://github.com/znx3p0/canary))
 - [Components Contrib](https://github.com/dapr/components-contrib) - Community driven, reusable components for distributed apps in Go.
 - [Paxos explained](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
+- [Consistency Models Explained (2021)](https://www.bodunhu.com/blog/posts/consistency-models-explained/)

@@ -524,3 +524,4 @@
 - [Localization with Sampling-Argmax (2021)](https://arxiv.org/abs/2110.08825) ([Code](https://github.com/Jeff-sjtu/sampling-argmax))
 - [VOCA: Voice Operated Character Animation](https://voca.is.tue.mpg.de/) ([Code](https://github.com/TimoBolkart/voca))
 - [CVZone](https://github.com/cvzone/cvzone) - Computer vision package that makes its easy to run Image processing and AI functions.
+- [Deepface](https://github.com/serengil/deepface) - Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.

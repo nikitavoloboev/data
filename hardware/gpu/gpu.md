@@ -78,3 +78,4 @@
 - [GPU-Accelerated Lossless Compression Survey](https://github.com/dingwentao/GPU-lossless-compression)
 - [RMM](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager.
 - [Easy Scalable Text Rendering on the GPU (2016)](https://medium.com/@evanwallace/easy-scalable-text-rendering-on-the-gpu-c3f4d782c5ac)
+- [Capuchin: Tensor-based GPU Memory Management for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3373376.3378505) ([Review](https://www.bodunhu.com/blog/posts/paper-review-capuchin-tensor-based-gpu-memory-management-for-deep-learning/))

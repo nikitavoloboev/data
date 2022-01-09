@@ -110,3 +110,4 @@
 - [string2path](https://github.com/yutannihilation/string2path) - R package to convert string to path.
 - [report](https://github.com/easystats/report) - Automated reporting of objects in R.
 - [tidyr](https://github.com/tidyverse/tidyr) - Tidy Messy Data.
+- [vetiver](https://github.com/tidymodels/vetiver) - Version, share, deploy, and monitor models.

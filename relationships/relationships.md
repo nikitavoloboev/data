@@ -72,6 +72,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - Marry early if it makes sense for your partner to gain any Passport benefits (cheaper education, ability to work/live in a country). Marriages also carry some benefits with taxes depending on the country.
 - [Always date your spouse.](https://twitter.com/TrungTPhan/status/1475148478288302084)
 - [Your real unfair advantage in business is your personal network. Education, wealth, and skills all help, but it's "who you know" that will help you make the biggest leaps forward.](https://twitter.com/mijustin/status/1000167960474861568)
+- [Never compare yourself to what you think the 'norm' is, compare yourself only against your current emotional state. And then you'll know already how fucked up or not something is.](https://www.reddit.com/r/sex/comments/rz856k/woke_up_to_semen_dribbling_out_of_my_vagina_into/)
 
 ## Links
 

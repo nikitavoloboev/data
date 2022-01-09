@@ -176,3 +176,4 @@
 - [slim](https://github.com/ottomatica/slim) - Build and run tiny vms from Dockerfiles. Works by building and extracting a rootfs from a Dockerfile, and then merging that filesystem with a small minimal kernel that runs in RAM.
 - [Optimizing Docker image size and why it matters (2022)](https://contains.dev/blog/optimizing-docker-image-size)
 - [contains.dev](https://contains.dev/) - See what's in your Docker. Explore your images, view their files, layers and dependencies.
+- [Narwhal](https://github.com/yourbase/narwhal) - Simplistic wrapper around the Docker Go API.

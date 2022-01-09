@@ -102,6 +102,7 @@
 - [gomockhandler](https://github.com/sanposhiho/gomockhandler) - Clever and more agile manager of golang/mock.
 - [gofuzz](https://github.com/google/gofuzz) - Library for populating go objects with random values.
 - [fzgen](https://github.com/thepudds/fzgen) - Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
+- [dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image.
 
 ## Web
 
