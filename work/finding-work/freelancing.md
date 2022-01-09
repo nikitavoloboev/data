@@ -34,3 +34,4 @@
 - [How to handle difficult clients](https://zimtik.com/en/posts/how-to-handle-difficult-clients) ([HN](https://news.ycombinator.com/item?id=29538518))
 - [Mistakes from 6 months of freelancing (2021)](https://mcarter.me/posts/mistakes-from-6-months-of-freelancing)
 - [Xolo](https://www.xolo.io/zz-en#) - Compliance, taxation, invoicing and admin solutions for fiercely independent solopreneurs across the globe.
+- [Ask HN: How do you start contracting? (2022)](https://news.ycombinator.com/item?id=29864014)

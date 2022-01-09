@@ -384,3 +384,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Freebind](https://github.com/blechschmidt/freebind) - IPv4 and IPv6 address rate limiting evasion tool.
 - [ESP32 NAT Router](https://github.com/martin-ger/esp32_nat_router) - Simple NAT Router for the ESP32.
 - [How NAT traversal works (2022)](https://tailscale.com/blog/how-nat-traversal-works/)
+- [VoLTE/VoWiFi research with $0 of equipment: set up a phone network over Wi-Fi calling (2022)](https://worthdoingbadly.com/vowifi2/)

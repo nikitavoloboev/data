@@ -140,3 +140,4 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [How to consistently generate great work (2021)](https://twitter.com/Julian/status/1457422738491011079)
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [Top execs hunt down feedback before people think to give it (2021)](https://twitter.com/shivanisberry/status/1461800167510732801)
+- [Ask HN: How do I get over constant failure? (2022)](https://news.ycombinator.com/item?id=29863974)

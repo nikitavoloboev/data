@@ -186,3 +186,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Moving from tiny websites to serious tech skills? (2021)](https://news.ycombinator.com/item?id=29692160)
 - [Alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [Vitalik Buterin's 2021 writing summary](https://twitter.com/VitalikButerin/status/1477402749994156036)
+- [How to read research paper, textbook, long text content? (2022)](https://news.ycombinator.com/item?id=29851336)

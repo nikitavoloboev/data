@@ -239,7 +239,7 @@
 - [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image (2020)](https://arxiv.org/abs/2008.03713) ([Code](https://github.com/mks0601/I2L-MeshNet_RELEASE))
 - [SkipNet: Learning Dynamic Routing in Convolutional Networks (2018)](https://arxiv.org/abs/1711.09485) ([Code](https://github.com/ucbdrive/skipnet))
 - [Mrcal](http://mrcal.secretsauce.net/) - Camera Calibrations and More. ([HN](https://news.ycombinator.com/item?id=26300118))
-- [Digging Into Self-Supervised Monocular Depth Estimation (2019)](https://arxiv.org/abs/1806.01260) ([Code](https://github.com/nianticlabs/monodepth2))
+- [Digging Into Self-Supervised Monocular Depth Estimation (2019)](https://arxiv.org/abs/1806.01260) ([Code](https://github.com/nianticlabs/monodepth2)) ([Code](https://github.com/pxl-th/Monodepth2.jl))
 - [VISSL](https://github.com/facebookresearch/vissl) - FAIR's library of extensible, modular and scalable components for SOTA Self-Supervised Learning with images. ([Web](https://vissl.ai/))
 - [Zumo Labs](https://www.zumolabs.ai/) - Generate custom synthetic data sets that result in more robust and reliable computer vision models. ([GitHub](https://github.com/ZumoLabs))
 - [Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors (2020)](https://arxiv.org/abs/2008.07043) ([Code](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection))

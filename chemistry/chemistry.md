@@ -54,3 +54,4 @@
 - [pyscf](https://github.com/pyscf/pyscf) - Python module for quantum chemistry.
 - [Matthew Carey Lea and the Origins of Mechanochemistry (2021)](https://www.sciencehistory.org/distillations/matthew-carey-lea-and-the-origins-of-mechanochemistry)
 - [Fermi](https://github.com/FermiQC/Fermi.jl) - Quantum chemistry program written in (nearly) pure Julia.
+- [Chemical Computing with Clojure](https://gigasquidsoftware.com/chemical-computing/index.html) ([Code](https://github.com/gigasquid/chemical-computing))

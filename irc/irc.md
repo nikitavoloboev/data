@@ -68,3 +68,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [IRCv3 Spec round-up (2021)](https://ircv3.net/2021/11/17/spec-round-up) ([HN](https://news.ycombinator.com/item?id=29264296))
 - [soju](https://github.com/emersion/soju) - User-friendly IRC bouncer. ([Code](https://sr.ht/~emersion/soju/))
 - [OneBot](https://github.com/thomwiggers/onebot) - IRC bot in Python, based on irc3.
+- [Simplicity of IRC (2022)](https://susam.net/maze/simplicity-of-irc.html) ([Lobsters](https://lobste.rs/s/lfiask/simplicity_irc)) ([HN](https://news.ycombinator.com/item?id=29862550))
