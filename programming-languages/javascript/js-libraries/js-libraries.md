@@ -741,6 +741,7 @@
 - [it-pipe](https://github.com/alanshaw/it-pipe) - Utility to "pipe" async iterables together.
 - [Polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas.
+- [Faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js.
 
 ## Links
 

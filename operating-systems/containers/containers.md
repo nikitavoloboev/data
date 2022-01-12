@@ -174,3 +174,4 @@
 - [Container-to-Container Communication (2021)](https://www.miketheman.net/2021/12/28/container-to-container-communication/) ([HN](https://news.ycombinator.com/item?id=29716833))
 - [Containers 101: attach vs. exec - what's the difference? (2021)](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
 - [Containers From Scratch • Liz Rice (2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc) ([Sequel](https://www.youtube.com/watch?v=_TsSmSu57Zo))
+- [Sinker](https://github.com/plexsystems/sinker) - Tool to sync images from one container registry to another.

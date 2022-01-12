@@ -1462,3 +1462,4 @@
 - [Meuse](https://github.com/mcorbin/meuse) - Private Cargo crate registry, for Rust.
 - [Porting Rust's std to rustix (2022)](https://blog.sunfishcode.online/port-std-to-rustix/) ([HN](https://news.ycombinator.com/item?id=29793377)) ([Reddit](https://www.reddit.com/r/rust/comments/rvnc6y/porting_rusts_std_to_rustix/)) ([Lobsters](https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix))
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
+- [Corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration.
