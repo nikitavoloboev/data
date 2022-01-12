@@ -31,7 +31,7 @@
 - [pgc4d](https://github.com/jakajancar/pgc4d) - PostgreSQL client for Deno.
 - [Deno is a Browser for Code :: kitsonkelly.com (2020)](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/) ([HN](https://news.ycombinator.com/item?id=23343799))
 - [What the hell is a Deno? (2020)](https://breadth.substack.com/p/what-the-hell-is-a-deno) ([HN](https://news.ycombinator.com/item?id=23411449))
-- [Velociraptor](https://github.com/umbopepato/velociraptor) - Script runner for Deno, inspired by npm's package.json scripts.
+- [Velociraptor](https://github.com/umbopepato/velociraptor) - Script runner for Deno, inspired by npm's package.json scripts. ([Web](https://velociraptor.run/))
 - [Nessie](https://github.com/halvardssm/deno-nessie) - Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations.
 - [Deno Beginner](https://denobeginner.com/) - Deno Crash Course.
 - [deno_lint](https://github.com/denoland/deno_lint) - Blazingly fast linter for JavaScript and TypeScript written in Rust.
@@ -171,3 +171,6 @@
 - [deno_which](https://github.com/dsherret/deno_which) - Finds the path to the specified command in Deno.
 - [deno-esbuild](https://github.com/esbuild/deno-esbuild) - Experimental Deno package for esbuild.
 - [oak-http-proxy](https://github.com/cmorten/oak-http-proxy) - Proxy middleware for Deno Oak HTTP servers.
+- [State of the Web: Deno (2022)](https://byteofdev.com/posts/deno/) ([HN](https://news.ycombinator.com/item?id=29870321))
+- [Astrodon](https://github.com/astrodon/astrodon) - Create Desktop apps with Deno.
+- [ga](https://github.com/denoland/ga) - Utilities for server side processing of Google Analytics in Deno CLI and Deploy.

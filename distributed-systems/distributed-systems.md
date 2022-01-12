@@ -241,3 +241,4 @@
 - [Components Contrib](https://github.com/dapr/components-contrib) - Community driven, reusable components for distributed apps in Go.
 - [Paxos explained](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
 - [Consistency Models Explained (2021)](https://www.bodunhu.com/blog/posts/consistency-models-explained/)
+- [Fault](https://github.com/Fault-lang/Fault) - Modeling language for building system dynamic models and checking them using a combination of first order logic and probability.

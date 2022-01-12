@@ -155,3 +155,4 @@
 - [SQLPad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor run in your own private cloud.
 - [tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter.
 - [Graph Pattern Matching in GQL and SQL/PGQ (2021)](https://arxiv.org/abs/2112.06217)
+- [Dsq](https://github.com/multiprocessio/dsq) - Command line tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. ([Article](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)) ([HN](https://news.ycombinator.com/item?id=29892463))

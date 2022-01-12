@@ -74,3 +74,4 @@ Is logical theory of computable functions.
 - [Categorical glueing for simply typed lambda calculus](https://github.com/FrozenWinters/stlc)
 - [λ-Calculus, Combinatory Logic and Cartesian Closed Categories (2021)](https://thma.github.io/posts/2021-04-04-Lambda-Calculus-Combinatory-Logic-and-Cartesian-Closed-Categories.html)
 - [Implementing Cartesian Closed Categories](https://github.com/Zdancewic/ccc) - Elementary implementation of Simply Typed Lambda Calculus (STLC) and its semantics in terms of Cartesian Closed Categories.
+- [Compiler and runtime for normalizing the untyped λ-calculus](https://github.com/mb64/LC-interpreter)

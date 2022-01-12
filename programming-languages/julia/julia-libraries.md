@@ -66,6 +66,7 @@
 - [Genify.jl](https://github.com/probcomp/Genify.jl) - Automatically transforms Julia methods to Gen functions via staged compilation.
 - [PDDL.jl](https://github.com/JuliaPlanners/PDDL.jl) - Julia parser, interpreter, and compiler interface for the Planning Domain Definition Language (PDDL).
 - [SymbolicMDPs.jl](https://github.com/JuliaPlanners/SymbolicMDPs.jl) - Wraps the PDDL.jl interface for PDDL domains and problems within the POMDPs.jl interface for Markov decision processes (MDPs).
+- [Enzyme.jl](https://github.com/wsmoses/Enzyme.jl) - Julia bindings for the Enzyme automatic differentiator.
 
 ## Math
 
@@ -155,6 +156,7 @@
 - [DFTK](https://github.com/JuliaMolSim/DFTK.jl) - Density-functional toolkit.
 - [AtomicGraphNets.jl](https://github.com/Chemellia/AtomicGraphNets.jl) - Atomic graph models for molecules and crystals in Julia.
 - [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) - Sequence alignment tools.
+- [BioSequences](https://github.com/BioJulia/BioSequences.jl) - Biological sequences for the julia language.
 
 ## Computer Vision
 
@@ -199,6 +201,7 @@
 
 - [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
 - [InteractiveErrors.jl](https://github.com/MichaelHatherly/InteractiveErrors.jl) - Interactive error messages for the Julia REPL.
+- [Try.jl](https://github.com/tkf/Try.jl) - Zero-overhead and debuggable error handling.
 
 ## LaTeX
 
@@ -415,6 +418,7 @@
 - [ProgressMeter.jl](https://github.com/timholy/ProgressMeter.jl) - Progress meter for long-running computations.
 - [Modia.jl](https://github.com/ModiaSim/Modia.jl) - Modeling and simulation of multidomain engineering systems.
 - [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) - WebSockets library for Julia.
+- [Eyeball.jl](https://github.com/tshort/Eyeball.jl) - Object and type viewer for Julia.
 
 ## Links
 

@@ -63,6 +63,7 @@ Below is a list of extensions I use.
 ## Utility
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
+- [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) - Enables you to open and search code on Sourcegraph.com easily and efficiently. ([Code](https://github.com/sourcegraph/sourcegraph-vscode))
 - [Scotch](https://marketplace.visualstudio.com/items?itemName=samipdahal.Scotch) - Code search for Python, Javascript, Java, and Go. ([Web](https://sdpmas.github.io/Scotch/))
 - [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros) - Add a simple JavaScript macro features to your VSCode. ([Code](https://github.com/exceedsystem/vscode-macros))
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))
@@ -470,3 +471,4 @@ Below is a list of extensions I use.
 - [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python. ([Docs](https://vscode-ext.readthedocs.io/en/latest/))
 - [VSCodeThemes](https://vscodethemes.com/) - Preview Visual Studio Code Themes.
 - [Monkey Patch](https://github.com/iocave/monkey-patch) - Extension allowing execution of arbitrary JavaScript in VSCode browser and main process.
+- [How we built a VS Code extension with Rust, WebAssembly, and TypeScript (2022)](https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript) ([HN](https://news.ycombinator.com/item?id=29888221))

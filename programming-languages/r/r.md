@@ -111,3 +111,6 @@
 - [report](https://github.com/easystats/report) - Automated reporting of objects in R.
 - [tidyr](https://github.com/tidyverse/tidyr) - Tidy Messy Data.
 - [vetiver](https://github.com/tidymodels/vetiver) - Version, share, deploy, and monitor models.
+- [portal](https://github.com/MilesMcBain/portal) - Move R datasets between local sessions.
+- [flow](https://github.com/moodymudskipper/flow) - View and Browse Code Using Flow Diagrams.
+- [Rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.

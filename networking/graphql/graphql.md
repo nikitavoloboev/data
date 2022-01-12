@@ -1,5 +1,7 @@
 # [GraphQL](https://graphql.org/)
 
+[GraphQL Yoga](https://www.graphql-yoga.com/) is great.
+
 ## Notes
 
 - [GraphQL creators are (I think) unanimous in their skepticism of tools that bring GraphQL directly to your database or ORM, because they just provide carte blanche access to your entire data model, without actually giving API design proper consideration.](https://twitter.com/andrewingram/status/1289623898493816832)
@@ -282,3 +284,5 @@
 - [GraphQL WS](https://github.com/graphql-python/graphql-ws) - Websocket backend for GraphQL subscriptions.
 - [GraphQL Lodash](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
 - [Serverless GraphQL using with AWS and ent (2022)](https://entgo.io/blog/2022/01/04/serverless-graphql-using-aws/)
+- [GraphCDN examples](https://github.com/graphcdn/examples) - Curated list of examples on how to set up GraphCDN with different kinds of APIs and services.
+- [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - Fully-featured, simple to set up, performant and extendable server. ([Web](https://www.graphql-yoga.com/)) ([Example](https://graphql.wtf/episodes/24-graphql-yoga))

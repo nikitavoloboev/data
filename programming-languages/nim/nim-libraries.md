@@ -40,6 +40,8 @@
 - [Regex](https://github.com/nitely/nim-regex) - Pure Nim regex engine. Guarantees linear time matching.
 - [nim-plotly](https://github.com/SciNim/nim-plotly) - Plotly wrapper for Nim.
 - [nim-result](https://github.com/arnetheduck/nim-result) - Result type that can hold either a value or an error, but not both.
+- [JSONy](https://github.com/treeform/jsony) - Loose, direct to object json parser and serializer with hooks.
+- [Taskpools](https://github.com/status-im/nim-taskpools) - Lightweight, energy-efficient, easily auditable threadpool.
 
 ## Links
 

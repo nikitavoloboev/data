@@ -63,6 +63,8 @@
 - [Completr](https://github.com/tth05/obsidian-completr) - Auto-completion plugin for the obsidian editor.
 - [Local File Interface](https://github.com/qawatake/obsidian-local-file-interface-plugin) - Provides commands for moving files in and out of the vault.
 - [Flashcards](https://github.com/reuseman/flashcards-obsidian) - Anki integration for Obsidian.
+- [Hotkey Helper](https://github.com/pjeby/hotkey-helper) - Easier Hotkey and Options Management for Obsidian.
+- [LaTeX Environments](https://github.com/raineszm/obsidian-latex-environments) - Quickly insert and change latex environments within math blocks in Obsidian.
 
 ## Themes
 

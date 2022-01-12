@@ -113,3 +113,7 @@
 - [10 things I love about Julia (2021)](https://trang.page/2021/12/28/10-things-i-love-about-julia/)
 - [Write custom Julia compiler passes in library code](https://twitter.com/ChrisRackauckas/status/1477274812460449793) ([Lobsters](https://lobste.rs/s/jqqslc/write_custom_julia_compiler_passes))
 - [Statistical Rethinking (2nd edition) with Julia](https://shmuma.github.io/rethinking-2ed-julia/) ([Code](https://github.com/Shmuma/rethinking-2ed-julia))
+- [HelloJulia.jl](https://github.com/ablaom/HelloJulia.jl) - Resources used by the author for a short Introduction to Julia workshop.
+- [Julia-on-Colab](https://github.com/Dsantra92/Julia-on-Colab) - Notebook for running Julia on Google Colab.
+- [State of Machine Learning in Julia (2022)](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385) ([HN](https://news.ycombinator.com/item?id=29902846))
+- [The State of Julia | JuliaCon 2021](https://www.youtube.com/watch?v=IlFVwabDh6Q)

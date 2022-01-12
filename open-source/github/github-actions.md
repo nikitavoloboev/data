@@ -390,3 +390,4 @@
 - [Simple autograding with GitHub Classroom + GitHub Actions + CML Container (2021)](https://mti-lab.github.io/blog/2021/12/15/autograding.html)
 - [4 tips for GitHub Actions usability (+2 debugging) (2022)](https://blog.fleetdm.com/4-tips-for-github-actions-usability-2-debugging-4c0c920adfde)
 - [Curated list of useful Github actions with workflows examples](https://github.com/marketplace?type=actions) ([Code](https://github.com/GuillaumeFalourd/useful-actions))
+- [How to upload assets to an existing Release in Github Actions (2021)](https://branislavjenco.github.io/github-actions-release/)

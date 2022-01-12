@@ -34,7 +34,7 @@
 - [Tabler Icons](https://tablericons.com/) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Code](https://github.com/tabler/tabler-icons))
 - [Designing App Icons (2020)](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
 - [Ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons. ([Code](https://github.com/mikolajdobrucki/ikonate))
-- [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library. ([Code](https://github.com/lucaburgio/iconoir))
+- [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library. ([Code](https://github.com/lucaburgio/iconoir)) ([HN](https://news.ycombinator.com/item?id=29866570))
 - [Timeloop](https://www.timeloop.design/) - Designs by Fabian.
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons.
 - [Clarity Icons](https://clarity.design/icons)
@@ -107,3 +107,4 @@
 - [NeXTSpirit, high-res NeXTSTEP Icons for macOS](http://galgot.free.fr/wordpress/?p=1380) ([HN](https://news.ycombinator.com/item?id=29543027))
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands. ([Code](https://github.com/simple-icons/simple-icons))
 - [Bytesize Icons](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset. ([Code](https://github.com/danklammer/bytesize-icons))
+- [Your favorite open source icon library (2022)](https://twitter.com/argyleink/status/1480237318971686918)

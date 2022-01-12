@@ -34,7 +34,7 @@
 - [Introducing Web3Torrent (2020)](https://blog.statechannels.org/introducing-web3torrent/) ([HN](https://news.ycombinator.com/item?id=23602008))
 - [Chihaya](https://github.com/chihaya/chihaya) - Customizable, multi-protocol BitTorrent Tracker.
 - [Monitoring Torrents On Your Server (2020)](https://rmpr.xyz/Managing-torrents-on-your-server/) ([Lobsters](https://lobste.rs/s/qzogsg/monitoring_torrents_on_your_server))
-- [BitTorrent v2 (2020)](https://blog.libtorrent.org/2020/09/bittorrent-v2/) ([HN](https://news.ycombinator.com/item?id=24401999)) ([Lobsters](https://lobste.rs/s/psgswm/bittorrent_v2))
+- [BitTorrent v2 (2020)](https://blog.libtorrent.org/2020/09/bittorrent-v2/) ([HN](https://news.ycombinator.com/item?id=24401999)) ([Lobsters](https://lobste.rs/s/psgswm/bittorrent_v2)) ([HN](https://news.ycombinator.com/item?id=29873106))
 - [libtorrent](https://github.com/arvidn/libtorrent) - Open source C++ library implementing the BitTorrent protocol, along with most popular extensions, making it suitable for real world deployment. ([Web](http://libtorrent.org/))
 - [libtorrent adds support for the WebTorrent protocol (2020)](https://feross.org/libtorrent-webtorrent/)
 - [cl-torrents](https://github.com/vindarel/cl-torrents) - Little app to search for torrents on popular trackers and to open them with a local or a remote client.
@@ -78,3 +78,5 @@
 - ["Widevine Dump":Leaked Code Downloads HD Video from Disney+, Amazon, and Netflix (2021)](https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/) ([HN](https://news.ycombinator.com/item?id=29702110)) ([HN](https://news.ycombinator.com/item?id=29718556))
 - [Notflix](https://github.com/Bugswriter/notflix) - Shell script to search and stream torrent.
 - [append-only-torrent](https://github.com/substack/append-only-torrent) - Create a sequence of torrent files for growing input.
+- [publius](https://github.com/publiusfederalist/publius) - Share files to the decentralized, unblockable torrent swarm and share links using Handshake domains. Decentralized internet is here.
+- [create-torrent](https://github.com/webtorrent/create-torrent) - Create .torrent files.

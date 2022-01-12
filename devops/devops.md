@@ -136,3 +136,4 @@
 - [Atomist](https://atomist.com/) - Keep Your Containerized Applications Safe. ([GitHub](https://github.com/atomist))
 - [UpCheck](https://github.com/NorfairKing/upcheck) - Declarative checker for website uptime to run continuously for monitoring.
 - [GRR](https://github.com/google/grr) - Incident response framework focused on remote live forensics.
+- [OWASP DevSecOps Guideline](https://github.com/OWASP/DevSecOpsGuideline) - Can help us to embedding security as a part of the development pipeline.

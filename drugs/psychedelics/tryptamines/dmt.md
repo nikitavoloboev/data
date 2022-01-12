@@ -35,6 +35,7 @@
 - [Changa: Use a bong, gently light it so it catches fire then remove flame](https://www.reddit.com/r/DMT/comments/91ftx9/first_time_changa_how_do_i_smoke_it/)
 - [Changa smoking: Great guide](https://www.reddit.com/r/DMT/comments/arrimi/advice_about_doing_changa_dmt_for_the_first_time/)
 - [Harmaline compound inhibits the activity of the enzyme, monoamino-oxidase (MAO), which breaks down DMT. With other words, if you take a MAO inhibitor like harmaline and then take DMT, you get an extended DMT trip since the DMT is not broken down.](https://www.reddit.com/r/DMT/comments/n8hqny/alright_guys_im_throwing_in_the_towel_enough_dmt/)
+- [Take an oral MAOI next time you smoke DMT. I use harmine HCL. Perfectly legal to buy in most places, you can even buy it on Amazon. It’s a sparkly yellow powder. I take 250mg of the stuff, then wait an hour, then put like 50mg under my tongue for ten minutes. Then take two or three good pulls off the DMT pipe and it is utterly out of this fucking world. It’s like a night-and-day difference.](https://www.reddit.com/r/RationalPsychonaut/comments/rzpix5/why_doesnt_dmt_teach_me_anything/)
 
 ## Links
 
@@ -80,3 +81,4 @@
 - [DMT-Nexus](https://www.dmt-nexus.me/)
 - [QT's DMT Extraction Guide](https://www.erowid.org/chemicals/dmt/extraction_guide1/dmt_extraction_guide1.shtml) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/rgboh9/which_rc_gives_the_most_similar_effects_to/))
 - [Noman's DMT tek](https://wiki.dmt-nexus.me/Noman%27s_tek)
+- [Why doesn't DMT teach me anything? (2022)](https://www.reddit.com/r/RationalPsychonaut/comments/rzpix5/why_doesnt_dmt_teach_me_anything/)

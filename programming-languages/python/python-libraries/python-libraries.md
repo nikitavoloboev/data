@@ -641,6 +641,9 @@
 - [MeiliSearch Python Async](https://github.com/sanders41/meilisearch-python-async) - Async Python client for the MeiliSearch API.
 - [Everett](https://github.com/willkg/everett) - Configuration library for python projects.
 - [mpi4py](https://github.com/mpi4py/mpi4py) - Python bindings for MPI.
+- [DocArray](https://github.com/jina-ai/docarray) - Library for nested, unstructured data such as text, image, audio, video, 3D mesh.
+- [Astro](https://github.com/astro-projects/astro) - Your new Airflow DAG writing experience.
+- [py-import-tree](https://github.com/hristo-vrigazov/py-import-tree) - Analyze the classes, functions, and the imports they use.
 
 ## Links
 

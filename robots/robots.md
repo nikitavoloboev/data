@@ -129,3 +129,4 @@
 - [iGibson: A Simulation Environment to train Robots in Large Realistic Interactive Scenes](https://github.com/StanfordVL/iGibson) ([Web](http://svl.stanford.edu/igibson/))
 - [Ancient dreams of intelligent machines: 3,000 years of robots (2018)](https://www.nature.com/articles/d41586-018-05773-y)
 - [HKU MaRS Lab](https://mars.hku.hk/) - Mechatronics and Robotic Systems (MaRS) Laboratory. ([GitHub](https://github.com/hku-mars))
+- [Main Street Autonomy](https://mainstreetautonomy.com/) - Sell software that makes robots work.

@@ -404,3 +404,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [«Бомбист» | Путинизм как он есть](https://www.youtube.com/watch?v=Ps7YCBpIHsY)
 - [Путинизм как он есть - YouTube](https://www.youtube.com/playlist?list=PLU5ERRTOxFWQVteyeU5f-b2R5xWq6Vun4)
 - [Best Russian YouTube channels](https://www.reddit.com/r/AskARussian/comments/rvqk0z/best_russian_youtube_channels/)
+- [The Great Siberian Thaw (2022)](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw) ([HN](https://news.ycombinator.com/item?id=29900445))

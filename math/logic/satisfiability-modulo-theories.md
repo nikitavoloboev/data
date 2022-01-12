@@ -4,6 +4,7 @@
 
 - [CVC4](https://github.com/CVC4/CVC4) - Efficient open-source automatic theorem prover for satisfiability modulo theories (SMT) problems.
 - [Z3](https://github.com/Z3Prover/z3/) - Theorem prover from Microsoft Research. ([Programming Z3](http://theory.stanford.edu/~nikolaj/programmingz3.html))
+- [Solving Wordle with Z3](https://typon.github.io/wordle.html) ([HN](https://news.ycombinator.com/item?id=29886990))
 - [Getting Started with Z3](https://rise4fun.com/Z3/tutorial/guide)
 - [z3.wasm](https://github.com/cpitclaudel/z3.wasm) - WASM builds of the Z3 SMT solver.
 - [Modern SAT solvers: fast, neat and underused (part 3 of N)](https://codingnest.com/modern-sat-solvers-fast-neat-and-underused-part-3-of-n/) ([HN](https://news.ycombinator.com/item?id=19953213))

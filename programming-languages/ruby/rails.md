@@ -107,3 +107,5 @@
 - [What's New in Rails 7 (2021)](https://blog.appsignal.com/2021/12/15/whats-new-in-rails7.html)
 - [Derailed Benchmarks](https://github.com/zombocom/derailed_benchmarks) - Series of things you can use to benchmark a Rails or Ruby app.
 - [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.
+- [Rails: Postgres Native Partitioning (2022)](https://www.johnnunemaker.com/rails-postgres-native-partitioning/)
+- [Rails Feature Flags: Now So Flippin' Easy You Won't Believe It (2021)](https://www.johnnunemaker.com/rails-feature-flags/)

@@ -72,3 +72,4 @@
 - [gRPC Web and gRPC Transcoding with Envoy (2021)](https://blog.salrashid.dev/articles/2021/grpc_web_and_transcoding_with_envoy/)
 - [nRPC](https://github.com/nats-rpc/nrpc) - RPC framework like gRPC, but for NATS.
 - [plex](https://github.com/phogolabs/plex) - Multiplexer that allows GRPC and HTTP server listening on the same port.
+- [grpc-http1](https://github.com/stackrox/go-grpc-http1) - GRPC via HTTP/1 Enabling Library for Go.

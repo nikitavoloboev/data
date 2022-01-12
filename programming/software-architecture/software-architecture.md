@@ -193,3 +193,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) ([Code](https://github.com/onlurking/the-software-architecture-chronicles))
 - [Documenting Software Architecture (2019)](https://herbertograca.com/2019/08/12/documenting-software-architecture/)
 - [Give me /events, not webhooks (2021)](https://blog.sequin.io/events-not-webhooks) ([HN](https://news.ycombinator.com/item?id=29847462))
+- [Desired state systems (2022)](https://branislavjenco.github.io/desired-state-systems/)
+- [Designing WhatsApp (2022)](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)

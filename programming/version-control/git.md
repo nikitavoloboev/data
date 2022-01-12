@@ -469,3 +469,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-smart-checkout](https://github.com/craciuncezar/git-smart-checkout) - Git command extension for switching git branches more efficiently.
 - [Lopper](https://github.com/Piszmog/lopper) - Deletes dead local Git branches.
 - [How to Squash and Rebase in Git (2021)](https://www.jenweber.dev/how-to-squash-and-rebase/) ([HN](https://news.ycombinator.com/item?id=29839884))
+- [autosaved](https://github.com/nikochiko/autosaved) - Go utility for autosaving progress in Git projects.

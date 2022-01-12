@@ -1,5 +1,7 @@
 # Design systems
 
+[Vercel](https://vercel.com/design)'s is my favorite.
+
 ## Interesting design systems
 
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications. ([HN](https://news.ycombinator.com/item?id=23511811)) ([Docs](https://next.chakra-ui.com/docs/getting-started)) ([Web](https://next.chakra-ui.com/)) ([The road to Chakra 1.0 and all about Chakra UI](https://www.youtube.com/watch?v=eeODp2pdRdo)) ([Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui))
@@ -11,7 +13,7 @@
 - [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project. ([Beta](https://beta.orbit.kiwi/)) ([Code](https://github.com/kiwicom/orbit))
 - [Reach UI](https://github.com/reach/reach-ui) - Accessible Foundation for React Apps and Design Systems. ([Docs](https://reach.tech/))
 - [Latitude](https://www.flexport.com/design) - Design guidelines, component documentation, styling instructions, and resources for building interfaces with Flexport’s design system. ([HN](https://news.ycombinator.com/item?id=21461579)) ([Code](https://github.com/flexport/latitude))
-- [Vercel](https://vercel.com/design)
+- [Vercel](https://vercel.com/design) ([Code](https://github.com/nextjs-components/nextjs-components))
 - [Primer](https://primer.style/) - Design, build, and create with GitHub’s design system. ([Team](https://primer.style/about/#team/)) ([Code](https://github.com/primer/css))
 - [Fannypack](https://github.com/fannypackui/fannypack) - Friendly, themeable, accessible React UI Kit built with Reakit.
 - [Braid](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group.

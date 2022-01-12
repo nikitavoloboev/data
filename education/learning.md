@@ -187,3 +187,5 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Alt3rnative](https://github.com/machiav3lli/alt3rnative) - Resources of knowledge and tools from and for the digital world.
 - [Vitalik Buterin's 2021 writing summary](https://twitter.com/VitalikButerin/status/1477402749994156036)
 - [How to read research paper, textbook, long text content? (2022)](https://news.ycombinator.com/item?id=29851336)
+- [Knowledge Atlases](https://github.com/prathyvsh/knowledge-atlases) - Catalogue of portals that map out roadmaps for self learners. ([Tweet](https://twitter.com/prathyvsh/status/1480691431098486785))
+- [Metacademy](https://metacademy.org/) - Your package manager for knowledge.

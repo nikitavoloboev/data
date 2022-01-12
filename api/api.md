@@ -113,6 +113,7 @@
 - [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
+- [Gfycat Python](https://github.com/ankeshanand/py-gfycat)
 - [TikTok Python](https://github.com/davidteather/TikTok-Api) - Unofficial API.
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Interactive Brokers Go](https://github.com/gofinance/ib)

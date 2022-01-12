@@ -219,6 +219,7 @@
 - [MBVideoPlayer](https://github.com/mwaqasbhati/MBVideoPlayer) - Video player on top of AVQueuePlayer.
 - [iOS-Utils](https://github.com/ark-develop/iOS-Utils) - Set of convenient iOS utilities.
 - [Toast-Swift](https://github.com/BastiaanJansen/toast-swift) - Swift Toast view - iOS 14 style and newer - built with UIKit.
+- [NetShears](https://github.com/divar-ir/NetShears) - iOS Network monitor/interceptor framework written in Swift.
 
 ## macOS
 

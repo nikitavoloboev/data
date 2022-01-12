@@ -440,3 +440,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [DSToken](https://github.com/dapphub/ds-token) - Simple and sufficient ERC20 implementation.
 - [lil web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps. ([Tweet](https://twitter.com/m1guelpf/status/1479095668174065669))
 - [ethereum-rs](https://github.com/rust-blockchain/ethereum) - Common Ethereum structs for Rust.
+- [MultiRaffle](https://github.com/Anish-Agnihotri/MultiRaffle) - Unaudited, unoptimized NFT distribution reference, implenting a randomized multi-winner raffle and randomized on-chain metadata generation.

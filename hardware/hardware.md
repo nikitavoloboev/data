@@ -269,3 +269,4 @@
 - [Ten Lessons from Three Generations Shaped Google’s TPUv4i (2021)](https://www.gwern.net/docs/ai/2021-jouppi.pdf)
 - [Agile Hardware Design Course (2022)](https://classes.soe.ucsc.edu/cse293/Winter22/) ([Code](https://github.com/agile-hw/lectures))
 - [Ask HN: Resources for “Learning” Manufacturing? (2022)](https://news.ycombinator.com/item?id=29793770)
+- [Hardware Acceleration of Sparse and Irregular Tensor Computations of ML Models: A Survey and Insights (2020)](https://arxiv.org/abs/2007.00864)

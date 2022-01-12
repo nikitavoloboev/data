@@ -112,3 +112,4 @@
 - [Math Classes](https://github.com/coq-community/math-classes) - Library of abstract interfaces for mathematical structures in Coq.
 - [C-CoRN](https://github.com/coq-community/corn) - Coq Repository at Nijmegen.
 - [ch2o](https://github.com/robbertkrebbers/ch2o) - Aims at formalizing novel features of the ISO C11 standard of the C programming language.
+- [ATBR](https://github.com/coq-community/atbr) - Coq library and tactic for deciding Kleene algebras.

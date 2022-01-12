@@ -451,3 +451,6 @@
 - [SyntaxDot](https://github.com/tensordot/syntaxdot) - Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.
 - [STriP Net](https://github.com/stephenleo/stripnet) - Semantic Similarity of Scientific Papers (S3P) Network.
 - [Small-Text](https://github.com/webis-de/small-text) - Active Learning for Text Classification in Python.
+- [Plug and Play Language Models: A Simple Approach to Controlled Text Generation (2020)](https://arxiv.org/abs/1912.02164) ([Code](https://github.com/uber-research/PPLM))
+- [RuDOLPH](https://github.com/sberbank-ai/ru-dolph) - One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP.
+- [PLM papers](https://github.com/wxl1999/PLMPapers) - Paper list of pre-trained language models (PLMs).

@@ -393,3 +393,4 @@ if (
 - [JavaScript Self-Profiling API Proposal](https://github.com/WICG/js-self-profiling) - Proposal for a programmable JS profiling API for collecting JS profiles from real end-user environments.
 - [Caterwaul](https://github.com/spencertipping/caterwaul) - JavaScript-to-JavaScript Compiler. ([Web](http://caterwauljs.org/)) ([HN](https://news.ycombinator.com/item?id=29563076))
 - [MuJS](https://github.com/ccxvii/mujs) - Embeddable JavaScript interpreter in C. ([Web](https://mujs.com/))
+- [JavaScript Structs: Fixed Layout Objects](https://github.com/tc39/proposal-structs)

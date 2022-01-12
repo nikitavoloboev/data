@@ -35,3 +35,4 @@
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - Small Arduino library for GSM modules, that just works.
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson) - JSON library for Arduino and embedded C++. Simple and efficient.
 - [ESP8266 Deauther Version 2](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning.
+- [Wokwi](https://wokwi.com/) - Online Arduino and ESP32 Simulator.

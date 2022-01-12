@@ -97,7 +97,7 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Introduction to Serverless Go with OpenFaaS (2021)](https://www.youtube.com/watch?v=kFnTiRCYzCM)
 - [Modern, faster Netlify Functions: New bundler and JavaScript features (2021)](https://www.netlify.com/blog/2021/04/02/modern-faster-netlify-functions/)
 - [Serverless Land](https://serverlessland.com/) - Resources for learning about AWS serverless technology. ([Code](https://github.com/aws-samples/serverless-patterns))
-- [Serverless Patterns Collection](https://serverlessland.com/patterns)
+- [Serverless Patterns Collection](https://serverlessland.com/patterns) ([CLI](https://github.com/mhlabs/sam-patterns-cli))
 - [What challenges have you faced adopting serverless technologies? (2021)](https://twitter.com/flybayer/status/1381743417391255559)
 - [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React](https://egghead.io/courses/building-an-opengraph-image-generation-api-with-cloudinary-netlify-functions-and-react-914e)
 - [Lift](https://github.com/getlift/lift) - Easily deploy well-designed serverless applications on AWS.

@@ -226,3 +226,4 @@
 - [Basic Computer Games implemented in different languages](https://github.com/coding-horror/basic-computer-games) ([Article](https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/))
 - [SoLoud](https://github.com/jarikomppa/soloud) - Easy to use, free, portable c/c++ audio engine for games. ([Docs](http://sol.gfxile.net/soloud/))
 - [Yet Another Roguelike Tutorial - Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/)
+- [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/) ([HN](https://news.ycombinator.com/item?id=29874169))

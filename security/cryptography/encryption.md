@@ -66,3 +66,4 @@
 - [Evervault](https://evervault.com/) - Encryption for developers. ([GitHub](https://github.com/evervault))
 - [Alchemy](https://github.com/cpeikert/ALCHEMY) - Language and Compiler for Homomorphic Encryption Made easY.
 - [Hashing is not encryption (2022)](https://eric.mann.blog/hashing-is-not-encryption/) ([HN](https://news.ycombinator.com/item?id=29855212))
+- [zooko-msg](https://github.com/publiusfederalist/zooko-msg) - Send encrypted and decrypted messages with verifiable keys and human readable names.

@@ -1,5 +1,7 @@
 # Color
 
+[Gradients](https://meshy.uxie.io/) are great.
+
 ## Nice gradients
 
 - [1](https://components.ai/gradient/ZkZ7AP11YnaNf2SuDTt6?tab=editor)
@@ -25,7 +27,7 @@
 - [The Weird World in RGB (2019)](https://www.youtube.com/watch?v=uYbdx4I7STg)
 - [Pywal](https://github.com/dylanaraps/pywal) - Tool that generates a color palette from the dominant colors in an image.
 - [HSLuv, a developer friendly perceptual color space (2020)](https://www.kuon.ch/post/2020-03-08-hsluv/)
-- [HSLuv](https://www.hsluv.org/) - Human-friendly HSL. ([Code](https://github.com/hsluv/hsluv))
+- [HSLuv](https://www.hsluv.org/) - Human-friendly HSL. ([Code](https://github.com/hsluv/hsluv)) ([rust-hsluv](https://github.com/dvdplm/rust-hsluv))
 - [colors.lol](https://colors.lol/) - Overly descriptive color palettes. ([Code](https://github.com/adamfuhrer/colors.lol))
 - [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
 - [Not Another Gradient Generator](https://doodad.dev/gradient-generator/) - Create complex, layered color gradients as CSS, SVG, or Raster Images.
@@ -123,3 +125,5 @@
 - [Colorquant](https://github.com/esimov/colorquant) - Go library for color quantization and dithering.
 - [Polychroma](https://polychroma.app/) - Better gradients through color spaces. ([Code](https://github.com/stormwarning/polychroma))
 - [Design Gradients](https://www.designgradients.com/) - Free platform of 48 linear gradients curated by designers.
+- [ColorSchemes.jl](https://github.com/JuliaGraphics/ColorSchemes.jl) - Color schemes, colormaps, gradients, and palettes.
+- [Meshy](https://meshy.uxie.io/) - Design tool to generate beautiful & colorful mesh gradients. ([Code](https://github.com/anup-a/meshy))

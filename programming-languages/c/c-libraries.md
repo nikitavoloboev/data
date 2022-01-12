@@ -113,3 +113,4 @@
 - [Gunslinger](https://github.com/MrFrenik/gunslinger) - C99, header-only framework for games and multimedia applications.
 - [Capere](https://github.com/PsychoBird/Capere) - Apple Silicon hooking library written in C.
 - [libcork](https://github.com/dcreager/libcork) - Simple, easily embeddable cross-platform C library. ([Docs](https://libcork.io/))
+- [s_task](https://github.com/xhawk18/s_task) - Awaitable coroutine library for C.

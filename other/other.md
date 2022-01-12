@@ -586,3 +586,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Favorite/Classic HN threads of all time (2022)](https://news.ycombinator.com/item?id=29759993)
 - [Что сейчас происходит в Афганистане и как мировое сообщество может помочь афганкам?](https://twitter.com/mikaprikamskaya/status/1477598846851203072)
 - [Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)
+- [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference) - Curated list of examples of self-reference in art, science, and technology. ([HN](https://news.ycombinator.com/item?id=29873177))
+- [The Last Question - Isaac Asimov](https://www.physics.princeton.edu/ph115/LQ.pdf)

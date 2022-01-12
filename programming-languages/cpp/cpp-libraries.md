@@ -315,6 +315,7 @@
 - [cpp-subprocess](https://github.com/arun11299/cpp-subprocess) - Subprocessing with modern C++.
 - [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++.
 - [libkdtree++](https://github.com/nvmd/libkdtree) - C++ template container implementation of k-dimensional space sorting, using a kd-tree.
+- [promise-cpp](https://github.com/xhawk18/promise-cpp) - C++ promise/A+ library in JavaScript style.
 
 ## Links
 

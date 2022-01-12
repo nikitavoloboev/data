@@ -307,3 +307,5 @@
 - [Deep Inverse Reinforcement Learning](https://alger.id.au/pdfs/irl.pdf) ([Code](https://github.com/MatthewJA/Inverse-Reinforcement-Learning))
 - [RLMeta](https://github.com/facebookresearch/rlmeta) - Light-weight flexible framework for Distributed Reinforcement Learning Research.
 - [HandyRL](https://github.com/DeNA/HandyRL) - Handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments.
+- [Simple random search provides a competitive approach to reinforcement learning (2018)](https://arxiv.org/abs/1803.07055) ([Code](https://github.com/erwincoumans/ARS))
+- [Reinforcement Learning as a fine-tuning paradigm (2022)](https://ankeshanand.com/blog/2022/01/08/rl-fine-tuning.html)

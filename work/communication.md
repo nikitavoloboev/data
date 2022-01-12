@@ -161,3 +161,4 @@
 - [How to Deliver Critical Feedback (Ed Batista) (2020)](https://www.edbatista.com/2020/07/how-to-deliver-critical-feedback.html)
 - [Every Proximity Chat, Metaverse, and Video Conference Socializing App](https://github.com/billmei/every-proximity-chat-app)
 - [How to mentor software engineers](https://xdg.me/mentor-engineers/)
+- [XMPP: the secure communication protocol that respects privacy (2021)](https://notes.nicfab.it/post/xmpp/xmpp/) ([HN](https://news.ycombinator.com/item?id=29871358))

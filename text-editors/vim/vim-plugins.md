@@ -280,3 +280,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [dep](https://github.com/chiyadev/dep) - Versatile, declarative and correct neovim package manager in lua. ([Why I wrote my own package manager](https://chiya.dev/posts/2021-11-27-why-package-manager))
 - [Neovim from scratch](https://github.com/LunarVim/Neovim-from-scratch) - Neovim config designed from scratch to be understandable.
 - [nvimdots](https://github.com/ayamir/nvimdots) - Well configured and structured Neovim.
+- [nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins.

@@ -48,3 +48,4 @@
 - [Neuralink and the Brain's Magical Future (2017)](https://waitbutwhy.com/2017/04/neuralink.html)
 - [Experimenting with brain-computer interfaces in JavaScript (2018)](https://medium.com/@devdevcharlie/experimenting-with-brain-computer-interfaces-in-javascript-8d6cb891fda8) ([HN](https://news.ycombinator.com/item?id=29704408))
 - [Mother of all BCI Benchmarks](https://github.com/NeuroTechX/moabb)
+- [Why brain-machine interfaces progress so slowly](https://notes.invertedpassion.com/Consciousness/Why+brain-machine+interfaces+progress+so+slowly)

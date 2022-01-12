@@ -3,6 +3,7 @@
 ## Built with Vue
 
 - [Travel App, Native-like Page Transitions](https://github.com/sdras/page-transitions-travelapp)
+- [Vue Advanced Chat](https://github.com/antoine92190/vue-advanced-chat) - Beautiful chat rooms component made with Vue.js.
 
 ## Notes
 

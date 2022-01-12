@@ -160,6 +160,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
+- [Dico.app](https://dico.app/) - Manage static content for your web app with ease. ([GitHub](https://github.com/dico-app))
 - [Boon](https://boon.tv/) - Build your members community.
 - [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529)) ([About](https://carbon.now.sh/about)) ([HN](https://news.ycombinator.com/item?id=28874123))
@@ -194,6 +195,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
 - [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
+- [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
 - [ToolJet](https://tooljet.io/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))

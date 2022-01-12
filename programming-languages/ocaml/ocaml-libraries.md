@@ -130,6 +130,7 @@
 - [Compact](https://github.com/CraigFe/compact) - Memory-efficient data structures in OCaml.
 - [PaComb](https://github.com/craff/pacomb) - Parsing library that compiles grammars to combinators using elimination of left recursion.
 - [PPrint](https://github.com/fpottier/pprint) - Pretty-Printing Toolbox.
+- [Multicont](https://github.com/dhil/ocaml-multicont) - Continuations with multi-shot semantics in OCaml.
 
 ## Links
 

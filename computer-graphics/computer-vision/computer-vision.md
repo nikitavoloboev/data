@@ -525,3 +525,6 @@
 - [VOCA: Voice Operated Character Animation](https://voca.is.tue.mpg.de/) ([Code](https://github.com/TimoBolkart/voca))
 - [CVZone](https://github.com/cvzone/cvzone) - Computer vision package that makes its easy to run Image processing and AI functions.
 - [Deepface](https://github.com/serengil/deepface) - Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.
+- [Location-aware Single Image Reflection Removal (2021)](https://arxiv.org/abs/2012.07131) ([Code](https://github.com/zdlarr/Location-aware-SIRR))
+- [MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement (2021)](https://arxiv.org/abs/2104.08223) ([Code](https://github.com/facebookresearch/meshtalk))
+- [Detecting Twenty-thousand Classes using Image-level Supervision (2022)](https://arxiv.org/abs/2201.02605) ([Code](https://github.com/facebookresearch/Detic))

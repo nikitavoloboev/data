@@ -197,3 +197,5 @@
 - [Google no longer producing high quality search results (2022)](https://twitter.com/mwseibel/status/1477701120319361026) ([HN](https://news.ycombinator.com/item?id=29772136))
 - [Kagi](https://kagi.com/) - Premium Search Engine. ([HN](https://news.ycombinator.com/item?id=29835756))
 - [Cherche](https://github.com/raphaelsty/cherche) - Allows you to create a neural search pipeline using retrievers and pre-trained language models as rankers.
+- [Jina AI](https://jina.ai/) - Neural Search Company. ([GitHub](https://github.com/jina-ai))
+- [Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time (2017)](https://arxiv.org/abs/1711.07601)

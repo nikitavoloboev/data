@@ -47,6 +47,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Eric Dallo](https://github.com/ericdallo/dotfiles)
 - [Matthew Croughan](https://github.com/MatthewCroughan/nixcfg)
 - [fortune](https://github.com/fortuneteller2k/nix-config) - NixOS configuration spawned from madness (home-manager and system).
+- [Dov Alperin](https://github.com/DAlperin/dotfiles)
 
 ## Nix configs (macOS)
 
@@ -181,3 +182,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nixos-gen-config](https://github.com/nix-community/nixos-gen-config)
 - [A second look at NixOS (2022)](https://psibi.in/posts/2022-01-01-nixos.html)
 - [deploy](https://github.com/winterqt/deploy) - Yet another NixOS deployment tool.
+- [Nixinate](https://github.com/MatthewCroughan/nixinate) - NixOS Deployment Tool. Generates a deployment script for each nixosConfiguration you already have in your flake.

@@ -166,6 +166,7 @@ And these Discord servers:
 - [The Public Domain Review](https://publicdomainreview.org/)
 - [Flaunt Magazine](https://flaunt.com/)
 - [Eurozine](https://www.eurozine.com/) - Europe's leading cultural journals at your fingertips.
+- [Al Jazeera](https://www.aljazeera.com/) - Breaking News, World News and Video.
 
 ### Other
 

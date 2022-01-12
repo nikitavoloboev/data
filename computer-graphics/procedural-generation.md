@@ -44,3 +44,6 @@
 - [procedural-terrain](https://github.com/croquelois/procedural-terrain) - Procedural terrain generation.
 - [Three Ways of Generating Terrain with Erosion Features](https://github.com/dandrino/terrain-erosion-3-ways) ([HN](https://news.ycombinator.com/item?id=29724597))
 - [Wave Function Collapse library in pure C](https://github.com/krychu/wfc) ([HN](https://news.ycombinator.com/item?id=29806885))
+- [Procedural Worlds from Simple Tiles (2017)](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html) ([HN](https://news.ycombinator.com/item?id=29866062))
+- [The Constrained Tile Placement Algorithm behind Generate Worlds (2019)](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html)
+- [Introducing Generate Worlds for Procedural Generation without Code (2019)](https://ijdykeman.github.io/procedural_generation/2019/05/17/introducing-generate-worlds.html)

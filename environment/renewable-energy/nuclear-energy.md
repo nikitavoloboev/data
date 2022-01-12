@@ -3,6 +3,7 @@
 ## Notes
 
 - [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)
+- [Energy can be converted to mass, and vice-versa. This is how nuclear power works: when a heavy nucleus breaks up into smaller parts, the sum of the parts is less massive than the original nucleus. That lost mass is actually contained in the kinetic energy of the particles, or in photons depending on the type of decay.](https://www.reddit.com/r/askscience/comments/b6g96g/do_black_holes_destroy_energy/)
 
 ## Links
 

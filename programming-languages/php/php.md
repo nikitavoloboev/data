@@ -31,3 +31,4 @@
 - [What's Next In PHP? (with James Brooks and Freek Van der Herten) (2021)](https://www.youtube.com/watch?v=KnaR_IIXQH0)
 - [Termwind](https://github.com/nunomaduro/termwind) - Build unique and beautiful PHP command-line applications, using the Tailwind CSS API.
 - [Leaf](https://github.com/leafsphp/leaf) - PHP framework that helps you create clean, simple but powerful web apps and APIs quickly and easily.
+- [PHP in 2022](https://stitcher.io/blog/php-in-2022) ([HN](https://news.ycombinator.com/item?id=29889705))

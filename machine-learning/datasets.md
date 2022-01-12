@@ -138,3 +138,5 @@
 - [TheAudioDB.com](https://www.theaudiodb.com/) - Community Database of audio artwork and metadata with a JSON API.
 - [Awesome Video Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)
 - [Conceptual 12M](https://github.com/google-research-datasets/conceptual-12m) - Dataset containing (image-URL, caption) pairs collected for vision-and-language pre-training.
+- [Colliding Circles Toy Datasets](https://fabianfuchsml.github.io/physicsdata/)
+- [Sieve](https://sievedata.com/) - Transform raw video into high quality datasets in minutes. ([HN](https://news.ycombinator.com/item?id=29893783))

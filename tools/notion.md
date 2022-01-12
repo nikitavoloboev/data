@@ -85,3 +85,5 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Remix + Notion](https://github.com/onspaceship/remotion)
 - [Notion-rs](https://github.com/jkelleyrtp/notion-rs) - Rust implementation of the unofficial Notion.so API.
 - [Notion PDF Export](https://github.com/ganeshh123/notion-pdf-export) - Tool to allow batch PDF export for free Notion users.
+- [Notion Feeder](https://github.com/ravgeetdhillon/notion-feeder) - Node.js app for creating a Feed Reader in Notion.
+- [notion-to-text](https://github.com/pirafrank/notion-to-text) - Simple way to get content of notion.site pages in plain text or as JSON (e.g. for use with `curl`, etc.).

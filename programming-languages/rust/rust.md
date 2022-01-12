@@ -670,3 +670,6 @@
 - [Profiling linkers (2022)](https://fasterthanli.me/articles/profiling-linkers)
 - [In Defense of Async: Function Colors Are Rusty (2022)](https://www.thecodedmessage.com/posts/async-colors/) ([HN](https://news.ycombinator.com/item?id=29793428))
 - [Three Kinds of Polymorphism in Rust (2022)](https://www.brandons.me/blog/polymorphism-in-rust)
+- [Rust in 2022](https://www.ncameron.org/blog/rust-in-2022-2/)
+- [borrow-checker-faqs (2021)](https://jyn.dev/2021/03/20/borrow-checker-faqs.html)
+- [How Bevy uses Rust traits for labeling (2022)](https://deterministic.space/bevy-labels.html)

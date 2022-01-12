@@ -167,3 +167,5 @@
 - [SWR-like data fetching in Svelte (2021)](https://crinkles.io/writing/data-fetching-swr-svelte)
 - [Svelte Query](https://github.com/SvelteStack/svelte-query) - Performant and powerful remote data synchronization for Svelte.
 - [My Evaluation of SvelteKit for Full-Stack Web App Development (2022)](https://cprimozic.net/blog/trying-out-sveltekit/) ([HN](https://news.ycombinator.com/item?id=29806385))
+- [Svelte Animation Creator](https://danielsharkov.github.io/animation-creator/) - CSS animation keyframer. ([Code](https://github.com/DanielSharkov/animation-creator))
+- [Svelte Router](https://github.com/DanielSharkov/svelte-router) - Simple and easy to use svelte router.

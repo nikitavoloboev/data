@@ -102,3 +102,4 @@
 - [TensorFlow Recommenders](https://github.com/tensorflow/recommenders) - Library for building recommender system models using TensorFlow.
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - Write TensorBoard events with simple function call.
 - [CVNN](https://github.com/NEGU93/cvnn) - Library to help implement a complex-valued neural network (cvnn) using tensorflow as back-end.
+- [Simple Depth Estimation from Multiple Images in Tensorflow (2019)](https://ijdykeman.github.io/slam/2019/04/07/simple-depth-from-motion.html)

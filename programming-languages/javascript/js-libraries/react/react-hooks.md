@@ -155,6 +155,9 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [use-combined-pagination](https://github.com/Hyperting/use-combined-pagination) - React Hook for paginating data from multiple sources.
 - [useReactQueryAutoSync](https://github.com/lukesmurray/react-query-autosync) - React hook which lets you automatically synchronize a value to a server with react-query. ([Article](https://lukesmurray.com/blog/react-query-auto-sync-hook))
 - [React Loads](https://github.com/jxom/react-loads) - Backend agnostic library to help with external data fetching & caching in your UI components.
+- [useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer) - Custom React hook & context for controlling browser audio.
+- [useStickyScroll](https://github.com/E-Kuerschner/useStickyScroll) - React hook to help you set up 'sticky scroll' behavior.
+- [usePureCallback](https://github.com/artalar/usePureCallback) - useCallback done right.
 
 ## Code
 

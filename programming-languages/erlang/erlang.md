@@ -123,3 +123,5 @@
 - [A Tour of Curve25519 in Erlang (2020)](https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf) ([HN](https://news.ycombinator.com/item?id=29591882))
 - [Ram](https://github.com/ostinelli/ram) - In-memory distributed KV store for Erlang and Elixir.
 - [Thoas](https://github.com/lpil/thoas) - Blazing fast JSON parser and generator in pure Erlang.
+- [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html)
+- [Erlang/OTP profiling: fprof (2022)](https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3)

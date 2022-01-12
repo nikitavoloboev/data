@@ -323,3 +323,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Conflux-Rust](https://github.com/Conflux-Chain/conflux-rust) - Secure and reliable public blockchain with very high performance and scalability. ([Docs](https://developer.confluxnetwork.org/))
 - [7 steps to transition to web3, for non-technical folks (2022)](https://twitter.com/ljin18/status/1479111931977867275)
 - [Rust Canister Development Kit](https://github.com/dfinity/cdk-rs) - Rust CDK provides tools for building Canisters on Internet Computer (IC).
+- [Tutorials for building modules for the Cosmos SDK](https://github.com/cosmos/sdk-tutorials)
+- [It is difficult for the average person to conceive of how useless NFTs are](https://twitter.com/HoldenShearer/status/1480312592803446790) ([HN](https://news.ycombinator.com/item?id=29872961))

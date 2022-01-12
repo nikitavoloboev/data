@@ -86,3 +86,4 @@
 - [What are your best "Sexual Mechanics" tricks?](https://www.reddit.com/r/sexover30/comments/rpcs0p/what_are_your_best_sexual_mechanics_tricks/)
 - [Stronger orgasm resources](https://www.reddit.com/r/sexover30/comments/rqngdl/stronger_orgasm_resources_whats_worked_for_you_id/)
 - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life by Emily Nagoski (2015)](https://www.goodreads.com/book/show/22609341-come-as-you-are)
+- [What is your trick of giving the best head to your gf?](https://www.reddit.com/r/AskMen/comments/s1k10o/what_is_your_trick_of_giving_the_best_head_to/)

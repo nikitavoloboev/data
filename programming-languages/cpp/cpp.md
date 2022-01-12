@@ -289,3 +289,5 @@
 - [C++ at the end of 2021](https://www.cppstories.com/2021/cpp-status-2021/)
 - [C++ Stories](https://www.cppstories.com/) - Modern C++, news reports, tools, and more.
 - [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting.
+- [20 Smaller yet Handy C++20 Features (2022)](https://www.cppstories.com/2022/20-smaller-cpp20-features/) ([Lobsters](https://lobste.rs/s/rpnnzp/20_smaller_yet_handy_c_20_features))
+- [“Modern” C++ Lamentations (2018)](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/) ([HN](https://news.ycombinator.com/item?id=29898955))

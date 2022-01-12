@@ -14,4 +14,4 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 - [Why is Excalidraw so good? (2021)](https://offbyone.us/posts/why-is-excalidraw-so-good/) ([HN](https://news.ycombinator.com/item?id=29109995))
 - [EscherSketch](https://eschersket.ch/) - Drawing program for exploring symmetrical designs. ([Code](https://github.com/levskaya/eschersketch))
 - [Coya](https://github.com/AlexanderMykulych/coya) - Drawing diagram tool for developers.
-- [minimator](https://minimator.app/) - Minimalist graphical editor. ([Code](https://github.com/maxwellito/minimator))
+- [Minimator](https://minimator.app/) - Minimalist graphical editor. ([Code](https://github.com/maxwellito/minimator)) ([HN](https://news.ycombinator.com/item?id=29838197))

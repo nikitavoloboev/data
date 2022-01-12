@@ -30,6 +30,7 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [I want to be remembered as a good friend.](https://twitter.com/maccaw/status/1432199519865872388)
 - [Living is what happens when you stop worrying about dying.](https://news.ycombinator.com/item?id=28659276)
 - [A man who understands the Tao in the morning can die contentedly in the evening.](https://twitter.com/AlanWattsDaily/status/711716375903993856)
+- [It's important to remember that death is not some mysterious state, or something new. Everyone here has already experienced death before they were born. It's the same thing as fainting, you lose consciousness and time skips forward. To call it nothingness is not correct, because that gives the impression of a somethingness. Consciousness cannot be destroyed, but since there is nothing to be conscious of, there is no experience, just an instant timeskip. When you die, if you have not had spiritual training, your brain will release trippy chemicals to make the transition easier for you, and after that you will simply awake in your new form, with no memory or experience of the time that passed inbetween, whether it was the next day or the death and rebirth of the universe.](https://www.reddit.com/r/TrueOffMyChest/comments/rx4yme/very_few_months_to_live_im_scared_of_death/)
 
 ## Links
 
@@ -60,3 +61,5 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [List of Unusual Deaths](https://en.wikipedia.org/wiki/List_of_unusual_deaths)
 - [A neuroscientist prepares for death (2021)](https://www.theatlantic.com/ideas/archive/2021/12/terminal-cancer-neuroscientist-prepares-death/621114/) ([HN](https://news.ycombinator.com/item?id=29799545))
 - [Psychogenic death, the phenomenon of “thinking” yourself to death (2021)](https://www.salon.com/2021/12/31/psychogenic/) ([HN](https://news.ycombinator.com/item?id=29807036))
+- [What do you think really happens after death?](https://www.reddit.com/r/AskReddit/comments/pqiu3v/what_do_you_think_really_happens_after_death/)
+- [Very few months to live, I'm scared of death](https://www.reddit.com/r/TrueOffMyChest/comments/rx4yme/very_few_months_to_live_im_scared_of_death/)

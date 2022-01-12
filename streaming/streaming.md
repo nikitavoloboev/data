@@ -71,3 +71,4 @@ Here are tools I use for streaming:
 - [Virtual Log-Structured Storage for High-Performance Streaming (2021)](https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf)
 - [webrtcsink](https://github.com/centricular/webrtcsink) - All-batteries included GStreamer WebRTC producer.
 - [Overpass](https://github.com/GOATS2K/overpass) - Self-hosted video live streaming app. ([HN](https://news.ycombinator.com/item?id=29572310))
+- [A few things I’ve learned about livestreaming (2020)](https://dantepfer.com/blog/?p=1005) ([HN](https://news.ycombinator.com/item?id=29883969))

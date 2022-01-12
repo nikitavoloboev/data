@@ -44,6 +44,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
 - [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
 
+## Crypto
+
+- [noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys.
+
 ## Other
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.
@@ -276,6 +280,14 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Entity](https://github.com/expo/entity) - Privacy-aware data layer for defining, caching, and authorizing access to application data models. ([Tweet](https://twitter.com/JI/status/1479626819863138306?s=20))
 - [perfect-cursors](https://github.com/steveruizok/perfect-cursors) - Perfect interpolation for animated multiplayer cursors. Used in tldraw.
 - [reactive-fs](https://github.com/Akryum/reactive-fs) - Reactive filesystem interface based on Vue 3 reactivity system.
+- [Omick](https://github.com/brielov/omick) - Tiny, type-safe pick and omit functions.
+- [Publer](https://github.com/brielov/publer) - Tiny, type-safe pubsub library.
+- [Typed](https://github.com/brielov/typed) - Smallest runtime type-checking library ever made.
+- [rsts](https://github.com/brielov/rsts) - Naive port of Rust's Result and Option types written in TypeScript.
+- [Union Types](https://github.com/practical-fp/union-types) - Typescript library for creating discriminating union types.
+- [spectacles-ts](https://github.com/anthonyjoeseph/spectacles-ts) - Practical Optics • Unfancy monocle-ts.
+- [Falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
+- [SDF-2D](https://github.com/schmelczerandras/sdf-2d) - Graphics library to enable the real-time rendering of 2D signed distance fields on the web.
 
 ## Links
 

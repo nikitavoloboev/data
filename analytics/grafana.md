@@ -8,3 +8,4 @@
 - [TNS Observability Demo](https://github.com/grafana/tns) - Simple three-tier demo application, fully instrumented with Prometheus, Jaeger and Loki logging.
 - [Grafana dashboards for efficient database monitoring](https://github.com/percona/grafana-dashboards)
 - [Grafyaml](https://pypi.org/project/grafyaml/) - Describe and configure Grafana dashboards with YAML.
+- [Grafana University](https://grafana.com/blog/2022/01/03/introducing-grafana-university-our-virtual-hands-on-education-platform-thats-free-and-easy-to-use/)

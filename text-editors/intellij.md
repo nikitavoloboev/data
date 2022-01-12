@@ -17,3 +17,4 @@ Don't use it any more as I don't write Java/Kotlin and love VS Code.
 
 - [Switching from Vim to IntelliJ (2020)](https://browntreelabs.com/from-vim-to-intellij/) ([HN](https://news.ycombinator.com/item?id=24998260))
 - [Top 10 Plugins for IntelliJ IDEA You Don’t Want to Miss (2021)](https://blog.jetbrains.com/idea/2021/05/top-10-plugins-for-intellij-idea/)
+- [An Honest Comparison of VS Code vs JetBrains (2022)](https://blankly.finance/vscode-vs-jetbrains/)

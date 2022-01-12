@@ -61,6 +61,7 @@
 - [zjson](https://github.com/xyaman/zjson) - Minimal JSON library with zero allocations.
 - [Zig Generator](https://github.com/yrashk/zig-generator) - Async generator type for Zig.
 - [ctregex.zig](https://github.com/alexnask/ctregex.zig) - Compile time regular expressions in zig.
+- [zoltan](https://github.com/ranciere/zoltan) - Sol-inspired minimalist Lua binding for Zig. ([Article](https://zig.news/ranciere/zoltan-a-minimalist-lua-binding-4mp4))
 
 ## Links
 

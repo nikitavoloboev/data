@@ -77,3 +77,4 @@ And here are Chrome extensions I use:
 - [vite-plugin-chrome-extension](https://github.com/StarkShang/vite-plugin-chrome-extension) - Vite plugin to bundle chrome extensions for Manifest V3.
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library.
 - [Browser-Pwning](https://github.com/SpiralBL0CK/Browser-Pwning-) - Proper well structured documentation for getting started with chrome pwning & v8 pwning.
+- [Omni](https://github.com/alyssaxuu/omni) - All-in-one interface for Chrome.

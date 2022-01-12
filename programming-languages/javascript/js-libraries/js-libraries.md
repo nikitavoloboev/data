@@ -6,7 +6,7 @@
 - [Solid](https://www.solidjs.com/) - Declarative, efficient, and flexible JavaScript library for building user interfaces. ([Code](https://github.com/solidjs/solid)) ([Website Code](https://github.com/solidjs/solid-site)) ([Awesome](https://github.com/one-aalam/awesome-solid-js)) ([HN](https://news.ycombinator.com/item?id=29388296))
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
-- [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.
+- [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs. ([Code](https://github.com/koajs/koa)) ([koa-ts](https://github.com/unix/koa-ts))
 - [Umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework.
 - [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications. ([HN](https://news.ycombinator.com/item?id=25800754))
@@ -107,6 +107,11 @@
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js.
 - [JSVerify](https://github.com/jsverify/jsverify) - Property-based checking. Like QuickCheck.
 - [brittle](https://github.com/davidmarkclements/brittle) - TAP test runner built for modern times.
+
+## Graphics
+
+- [Lumen 2D](https://github.com/Domenicobrz/Lumen-2D) - 2D javascript renderer using web workers.
+- [Blurry](https://github.com/Domenicobrz/Blurry) - Simulating depth of field with particles on a shader.
 
 ## State management
 
@@ -732,6 +737,10 @@
 - [AMQP Node](https://github.com/amqp-node/amqplib)
 - [Drawflow](https://github.com/jerosoler/Drawflow) - Create data flows easily and quickly.
 - [find-up](https://github.com/sindresorhus/find-up) - Find a file or directory by walking up parent directories.
+- [Stretchy](https://stretchy.verou.me/) - Form element autosizing, the way it should be. ([Code](https://github.com/LeaVerou/stretchy))
+- [it-pipe](https://github.com/alanshaw/it-pipe) - Utility to "pipe" async iterables together.
+- [Polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
+- [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas.
 
 ## Links
 

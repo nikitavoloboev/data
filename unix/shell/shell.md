@@ -181,3 +181,4 @@ All active variables can be seen by running `env`.
 - [Oil Retrospective: Software Architecture](https://www.oilshell.org/blog/2021/12/review-arch.html)
 - [Passing runtime data to AWK (2020)](https://blog.sanctum.geek.nz/passing-runtime-data-to-awk/)
 - [The Way](https://github.com/out-of-cheese-error/the-way) - Code snippets manager for your terminal.
+- [Practical Shell Patterns I Actually Use (2022)](https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/) ([HN](https://news.ycombinator.com/item?id=29861532))

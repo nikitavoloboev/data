@@ -114,6 +114,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [nchrs.xyz](https://nchrs.xyz/site/home.html)
 - [Anne-Laure Le Cunff](https://www.mentalnodes.com/)
 - [Paul Batchelor](https://pbat.ch/wiki/)
+- [Notes of InvertedPassion](https://notes.invertedpassion.com/_Start+here_)
 - [Alex's Garden](https://publish.obsidian.md/alexander/1_Home/%F0%9F%8F%A0+Home)
 - [Yang Zhang CS notes](https://github.com/yang/notes)
 - [Ten Digits](https://tendigits.space/)

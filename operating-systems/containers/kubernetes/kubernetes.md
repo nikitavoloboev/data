@@ -595,3 +595,4 @@
 - [System Upgrade Controller](https://github.com/rancher/system-upgrade-controller) - General-purpose, Kubernetes-native upgrade controller (for nodes).
 - [Kourier](https://github.com/knative-sandbox/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs.
 - [JavaScript Kubernetes Client](https://github.com/kubernetes-client/javascript)
+- [Kubernetes Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)

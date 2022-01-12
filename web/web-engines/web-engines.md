@@ -20,3 +20,4 @@
 - [Enumerating and analyzing 40+ non-V8 JavaScript implementations (2021)](https://notes.eatonphil.com/javascript-implementations.html) ([Tweet](https://twitter.com/phil_eaton/status/1440436962305789952)) ([HN](https://news.ycombinator.com/item?id=28613673))
 - [PyMiniRacer](https://github.com/sqreen/PyMiniRacer) - Minimal, modern embedded V8 for Python.
 - [v8-deopt-viewer](https://github.com/andrewiggins/v8-deopt-viewer) - View deoptimizations of your JavaScript in V8.
+- [Ask HN: Why new browsers use Chromium instead of Firefox as their base? (2022)](https://news.ycombinator.com/item?id=29900496)

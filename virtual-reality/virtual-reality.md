@@ -62,3 +62,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Rats in Doom VR](https://medium.com/mindsoft/rats-in-doom-eb6c52c73aca) ([HN](https://news.ycombinator.com/item?id=29341007))
 - [The Machine To Be Another](http://beanotherlab.org/home/work/tmtba/) - Embodiment Virtual Reality (EVR) System that credibly facilitates the Body Transfer Illusion.
 - [Trippy things to do with VR (2021)](https://twitter.com/dan_abramov/status/1471905282733260804)
+- [Awesome Metaverse](https://github.com/M3-org/awesome-metaverse)

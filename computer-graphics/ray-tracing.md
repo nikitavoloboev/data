@@ -92,3 +92,4 @@
 - [The joy of building a ray tracer, for fun, in Rust. (2022)](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) ([HN](https://news.ycombinator.com/item?id=29791142))
 - [Ray Tracing in a week-end, implemented in Julia](https://github.com/claforte/RayTracingWeekend.jl)
 - [RayOpt](https://github.com/quartiq/rayopt) - Optics design (lenses, cavities, gaussian optics, lasers). Geometric, paraxial, and gaussian ray tracing.
+- [euclider](https://github.com/Limeth/euclider) - Higher dimensional raytracing prototype with non-euclidean-like features.

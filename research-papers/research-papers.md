@@ -151,3 +151,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics.
 - [Trends of arxiv submissions counted from twitter/medium/reddit](https://github.com/mavenlin/ai_research_trends)
 - [arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API.
+- [Two Minute Papers - YouTube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
+- [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743) ([HN](https://news.ycombinator.com/item?id=29898655))

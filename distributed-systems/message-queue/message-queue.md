@@ -22,3 +22,4 @@
 - [nerve](https://github.com/queer/singyeong) - Cloud-native messaging/pubsub with powerful routing.
 - [Thoughts on inter-service messaging (2021)](https://b.amy.gg/thoughts-on-inter-service-messaging)
 - [Plumber](https://github.com/batchcorp/plumber) - Swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
+- [SimpleXMQ](https://github.com/simplex-chat/simplexmq) - Message broker for managing message queues and sending messages over public network.

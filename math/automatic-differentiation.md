@@ -23,3 +23,4 @@
 - [Trade-Offs in Automatic Differentiation: TensorFlow, PyTorch, Jax, and Julia (2021)](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/) ([HN](https://news.ycombinator.com/item?id=29682507))
 - [Decomposing reverse-mode automatic differentiation (2021)](https://arxiv.org/abs/2105.09469)
 - [RustAD](https://github.com/JonathanWoollett-Light/rust-ad) - Rust Auto-Differentiation.
+- [Storchastic](https://github.com/HEmile/storchastic) - PyTorch library for stochastic gradient estimation in Deep Learning.

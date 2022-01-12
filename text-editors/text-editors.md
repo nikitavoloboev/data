@@ -170,3 +170,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Rosé Pine themes](https://rosepinetheme.com/) ([Code](https://github.com/rose-pine/rose-pine-theme))
 - [Case Study: Inline Editing (2021)](https://benadam.me/thoughts/godaddy-inline-editing/)
 - [Aura Theme](https://github.com/daltonmenezes/aura-theme)
+- [Ask HN: How to learn about text editor architectures and implementations?](https://news.ycombinator.com/item?id=29874669)
+- [parley](https://github.com/dfrg/parley) - Rich text layout engine backed by the swash crate and implementing the piet text API.
+- [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in the Browser (2021)](https://blog.replit.com/code-editors)
+- [An adventure in realtime collaborative editing (2022)](https://dov.dev/blog/figment-collaborative-editing)

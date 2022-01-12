@@ -174,3 +174,5 @@
 - [dns-exfil](https://github.com/KarimPwnz/dns-exfil) - Run a DNS server for the purpose of logging DNS questions.
 - [Why might you run your own DNS server? (2022)](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
 - [iodine](https://github.com/yarrick/iodine) - Tunnel IPv4 data through a DNS server. ([Web](https://code.kryo.se/iodine/))
+- [encrypted-dns-configs](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS over HTTPS and DNS over TLS.
+- [How to find a domain's authoritative nameservers (2022)](https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/) ([HN](https://news.ycombinator.com/item?id=29891617))

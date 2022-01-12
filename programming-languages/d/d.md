@@ -27,3 +27,4 @@
 - [dub](https://github.com/dlang/dub) - Package and build management system for D.
 - [dlib](https://github.com/gecko0307/dlib) - Allocators, I/O streams, math, geometry, image and audio processing for D.
 - [Comparison of D vs Nim](https://github.com/timotheecour/D_vs_nim)
+- [Why I Like D (2022)](https://aradaelli.com/blog/why-i-like-d/) ([HN](https://news.ycombinator.com/item?id=29863557))

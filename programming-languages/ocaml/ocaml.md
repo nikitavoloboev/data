@@ -108,3 +108,4 @@
 - [PR to Merge Multicore OCaml (2021)](https://github.com/ocaml/ocaml/pull/10831) ([HN](https://news.ycombinator.com/item?id=29638152))
 - [Unpragmatic static blog generator in OCaml](https://xhtmlboi.github.io/articles/yocaml.html)
 - [OCaml flake example project](https://github.com/brendanzab/ocaml-flake-example) - Overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune.
+- [HN: OCaml Multicore merged upstream](https://news.ycombinator.com/item?id=29875442)

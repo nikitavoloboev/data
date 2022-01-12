@@ -171,3 +171,6 @@
 - [RNUI](https://github.com/wix/react-native-ui-lib) - UI Toolset & Components Library for React Native. ([Docs](https://wix.github.io/react-native-ui-lib/docs/getting-started/setup))
 - [react-native-reanimated-carousel](https://github.com/dohooo/react-native-reanimated-carousel) - Simple React Native carousel component,fully implemented using reanimated v2.
 - [The Matrix Reacts (2022)](https://www.youtube.com/watch?v=49QR0wUDMG0)
+- [setup-tailwind-rn](https://github.com/vadimdemedes/setup-tailwind-rn) - Set up Tailwind CSS in React Native apps.
+- [react-native-progressive-fast-image](https://github.com/WrathChaos/react-native-progressive-fast-image) - Customizable progressive image for React Native with FastImage.
+- [React Native TS Lib Starter](https://github.com/WrathChaos/react-native-typescript-library-starter)

@@ -329,3 +329,4 @@
 - [PyTorch Live](https://github.com/pytorch/live) - Easy to use library of tools for creating on-device ML demos on Android and iOS.
 - [Modeling uncertainty with PyTorch (2022)](https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html)
 - [PyTorch distributions examples](https://github.com/srom/distributions)
+- [moolib](https://github.com/facebookresearch/moolib) - Library for distributed ML training with PyTorch.

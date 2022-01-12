@@ -303,3 +303,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [SVG to Font](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and output a TTF/EOT/WOFF/WOFF2/SVG font.
 - [font-ligatures](https://github.com/princjef/font-ligatures) - Find ligature replacements for any system font.
 - [Brik Font: Creating Type with Lego](https://kottke.org/22/01/brik-font-creating-type-with-lego)
+- [pinot](https://github.com/dfrg/pinot) - Fast, high-fidelity OpenType parser.

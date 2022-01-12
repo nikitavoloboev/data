@@ -439,3 +439,4 @@ all: unset
 - [Pure CSS device fingerprinting](https://csstracking.dev/)
 - [Ban Outer CSS Margins from Components](https://mxstbr.com/thoughts/margin/) ([HN](https://news.ycombinator.com/item?id=22676442)) ([HN](https://news.ycombinator.com/item?id=29791975))
 - [unocss-preset-scalpel](https://github.com/macheteHot/unocss-preset-scalpel) - Scalpel Preset for UnoCSS.
+- [CSS Gradients that avoid the “gray dead zone”](https://www.joshwcomeau.com/css/make-beautiful-gradients/) ([HN](https://news.ycombinator.com/item?id=29894608))

@@ -12,6 +12,8 @@
 - [Inertia is an intrinsic property and can basically be described as a body’s resistance to acceleration/ change in it’s speed (1st law). What’s intertwined is inertia and force (not acceleration necessarily) since inertia (be it linear or rotational) of a particle would decide how much force is required to produce a certain acceleration (2nd law)](https://www.reddit.com/r/Physics/comments/iezeqe/gravity/)
 - [The future is probability, the past is information, the passage of time is the collapse of one state to the other.](https://www.reddit.com/r/AskPhysics/comments/mk5uo5/what_is_something_you_realized_about_our_universe/)
 - [Because atoms are actually 99.9999% (something similar to the degree) space, everything is also 99.9999% space but things cant pass through each other.](https://www.reddit.com/r/AskPhysics/comments/mk5uo5/what_is_something_you_realized_about_our_universe/)
+- [All matter has kinetic and potential energy. It is easier to think of it as those are the only types of energy.](https://www.reddit.com/r/NoStupidQuestions/comments/nedp7p/if_you_cant_create_or_destroy_energy_then_where/)
+- [Energy can change forms. From heat to potential to kinetic to radiation to heat.](https://www.reddit.com/r/NoStupidQuestions/comments/nedp7p/if_you_cant_create_or_destroy_energy_then_where/)
 
 ## Links
 

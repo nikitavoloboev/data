@@ -8,7 +8,7 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
-If you want to start a blog of your own, [this](https://github.com/alaq/adrien.sh) is a nice [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) template. Or [this](https://github.com/sw-yx/swyxkit) if you want to use [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Or [this](https://github.com/SimeonGriggs/simeonGriggs) if you want to use [Remix](../programming-languages/javascript/js-libraries/react/remix.md).
+If you want to start a blog of your own, [this](https://github.com/alaq/adrien.sh) (or [this](https://github.com/leerob/leerob.io)) is a nice [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) template. Or [this](https://github.com/sw-yx/swyxkit) if you want to use [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Or [this](https://github.com/SimeonGriggs/simeonGriggs) if you want to use [Remix](../programming-languages/javascript/js-libraries/react/remix.md).
 
 ## Favorite blogs
 
@@ -89,6 +89,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
 - [Bodun Hu](https://www.bodunhu.com/blog/posts/)
 - [Susam Pal](https://susam.net/)
+- [Isaac Dykeman](https://ijdykeman.github.io/)
 
 ## Notes
 
@@ -192,3 +193,5 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Blog-CLI](https://github.com/elchead/blog-cli) - Used to draft posts inside obsidian and publish conveniently to my Github blog.
 - [Ask HN: Best Engineering Blog Posts? (2022)](https://news.ycombinator.com/item?id=29758396)
 - [Ask HN: How to build a light weight personal blog? (2022)](https://news.ycombinator.com/item?id=29793389#29793698)
+- [Zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems.
+- [Vortex](https://github.com/hydralite/vortex) - Hyper-extensible library to build blogs crazy fast.

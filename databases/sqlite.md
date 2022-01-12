@@ -141,3 +141,5 @@
 - [RecordLite](https://github.com/fsaintjacques/recordlite) - Library (and executable) that declaratively maintains SQLite tables and views of semi-structured data.
 - [sqlite_protobuf](https://github.com/backtrace-labs/sqlite_protobuf) - Protobuf Extension for SQLite.
 - [The ultimate SQLite extension set](https://antonz.org/sqlean/) ([Lobsters](https://lobste.rs/s/z3r2kq/ultimate_sqlite_extension_set))
+- [Make the “semantic web” web 3.0 again – with the help of SQLite (2022)](https://ansiwave.net/blog/semantic-web.html) ([HN](https://news.ycombinator.com/item?id=29897611))
+- [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html) ([HN](https://news.ycombinator.com/item?id=29902345))

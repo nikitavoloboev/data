@@ -63,3 +63,4 @@
 - [RealSync](https://github.com/xencodes/realsync) - Execute Server Functions from Client side. ([Article](https://xen.codes/execute-async-server-function-from-client-side))
 - [birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
 - [React client for a real time chat app powered by a WebSocket](https://github.com/alexkrkn/lambda-websocket-client)
+- [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook) ([HN](https://news.ycombinator.com/item?id=29893242))

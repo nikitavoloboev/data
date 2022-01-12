@@ -79,7 +79,7 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics))
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi))
@@ -184,6 +184,7 @@
 - [redis-serde](https://github.com/OneSignal/serde-redis) - Serde support for redis-rs.
 - [redis_serde_json](https://github.com/clia/redis_serde_json) - Derive to store and retrieve JSON values in redis encoded using serde.
 - [tiny-lsm](https://github.com/spacejam/tiny-lsm) - Super simple in-memory blocking LSM for constant-size keys and values.
+- [Rexie](https://github.com/devashishdxt/rexie) - Easy-to-use, futures based wrapper around IndexedDB that compiles to webassembly.
 
 ## Video
 
@@ -232,6 +233,9 @@
 - [Genmesh](https://github.com/gfx-rs/genmesh) - Library of mesh generation utilities.
 - [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 - [Morphorm](https://github.com/geom3trik/morphorm) - UI layout engine written in Rust.
+- [poll-promise](https://github.com/EmbarkStudios/poll-promise) - Rust promise for games and immediate mode GUIs.
+- [Zeno](https://github.com/dfrg/zeno) - High performance, low level 2D path rasterization library in pure Rust.
+- [Image](https://github.com/Brooooooklyn/Image) - Image processing library.
 
 ## Games
 
@@ -457,6 +461,7 @@
 - [num_enum](https://github.com/illicitonion/num_enum) - Procedural macros to make inter-operation between primitives and enums easier.
 - [macro_rules_attribute](https://github.com/danielhenrymantilla/macro_rules_attribute-rs) - Use declarative macros as proc_macro attributes or derives.
 - [throttle_my_fn](https://github.com/fredmorcos/throttle_my_fn) - Rust attribute macro to throttle the execution of functions.
+- [test-span](https://github.com/apollographql/test-span) - Macro and utilities to do snapshot tests on tracing spans.
 
 ## Math
 
@@ -576,7 +581,7 @@
 - [refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [Juggernaut](https://github.com/afshinm/juggernaut) - Experimental Neural Network written in Rust.
 - [Riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
-- [bitvec](https://github.com/myrrlyn/bitvec) - Crate for managing memory bit by bit.
+- [bitvec](https://github.com/bitvecto-rs/bitvec) - Crate for managing memory bit by bit.
 - [rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust <-> Python bindings.
 - [Vicuna](https://github.com/PocketDerm/vicuna) - AWS Lambdas in Rust made simple.
 - [quicksilver](https://github.com/ryanisaacg/quicksilver) - Simple game framework for 2D games on desktop and web.
@@ -1316,6 +1321,17 @@
 - [Quit](https://github.com/dylni/quit) - Exit cleanly with an exit code.
 - [elasticlunr-rs](https://github.com/mattico/elasticlunr-rs) - Partial port of elasticlunr to Rust. Intended to be used for generating compatible search indices.
 - [STM32-HAL](https://github.com/David-OConnor/stm32-hal) - Provides access to STM32 peripherals in Rust.
+- [incrementalmerkletree](https://github.com/zcash/incrementalmerkletree) - Append-only merkle tree which is always pruned, along with incremental, fast-forwarding witnesses.
+- [atoi-rs](https://github.com/pacman82/atoi-rs) - Parse integers directly from `[u8]` slices in safe code.
+- [kolor](https://github.com/BoxDragon/kolor) - Color space conversion math made simple.
+- [blaze-rs](https://github.com/blaze-init/blaze-rs) - Blaze core based on arrow-datafusion for blazing-fast execution.
+- [genio](https://github.com/Kixunil/genio) - Type safe, low level replacement for `std::io`.
+- [crc](https://github.com/mrhooray/crc-rs) - Rust implementation of CRC (16, 32, 64) with support of various standards.
+- [kdtree](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
+- [mobc](https://github.com/importcjj/mobc) - Generic connection pool for Rust with async/await support.
+- [pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust.
+- [Ergex](https://github.com/deadpixi/ergex) - Regular expression library that does a few things rather differently from many other libraries.
+- [memmap](https://github.com/danburkert/memmap-rs) - Rust library for cross-platform memory mapped IO.
 
 ## Cargo Plugins
 
@@ -1365,6 +1381,7 @@
 - [cargo-depgraph](https://github.com/jplatte/cargo-depgraph) - Creates dependency graphs for cargo projects using cargo metadata and graphviz.
 - [cargo-build-deps](https://github.com/nacardin/cargo-build-deps) - Cargo subcommand to build dependencies, helps speed up docker builds by allowing dependencies to be built earlier and cached.
 - [cargo-intraconv](https://github.com/poliorcetics/cargo-intraconv) - Simple helper to transform Markdown links to intra-doc links in Rust projects when appropriate.
+- [cargo-xcodebuild](https://github.com/Gordon-F/cargo-xcodebuild) - Helps cargo build and run apps for iOS.
 
 ## Links
 
@@ -1444,3 +1461,4 @@
 - [escargot](https://github.com/crate-ci/escargot) - Cargo API written in Paris.
 - [Meuse](https://github.com/mcorbin/meuse) - Private Cargo crate registry, for Rust.
 - [Porting Rust's std to rustix (2022)](https://blog.sunfishcode.online/port-std-to-rustix/) ([HN](https://news.ycombinator.com/item?id=29793377)) ([Reddit](https://www.reddit.com/r/rust/comments/rvnc6y/porting_rusts_std_to_rustix/)) ([Lobsters](https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix))
+- [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)

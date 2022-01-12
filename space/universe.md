@@ -54,3 +54,4 @@
 - [Cosmologists Close In on Logical Laws for the Big Bang (2021)](https://www.quantamagazine.org/cosmologists-close-in-on-logical-laws-for-the-big-bang-20211110/)
 - [The universe is expanding faster than it should be (2021)](https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be) ([HN](https://news.ycombinator.com/item?id=29602239))
 - [Observable universe on an increasingly compact scale](https://twitter.com/Rainmaker1973/status/1471404732229066758)
+- [Disambiguating the ‘Observable Universe’ (2022)](https://samenright.com/2022/01/09/disambiguating-the-observable-universe/) ([HN](https://news.ycombinator.com/item?id=29867600))

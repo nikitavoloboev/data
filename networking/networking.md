@@ -385,3 +385,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [ESP32 NAT Router](https://github.com/martin-ger/esp32_nat_router) - Simple NAT Router for the ESP32.
 - [How NAT traversal works (2022)](https://tailscale.com/blog/how-nat-traversal-works/)
 - [VoLTE/VoWiFi research with $0 of equipment: set up a phone network over Wi-Fi calling (2022)](https://worthdoingbadly.com/vowifi2/)
+- [Make the internet yours again with an instant mesh network (2022)](https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network) ([HN](https://news.ycombinator.com/item?id=29849086))
+- [jswhois](https://github.com/jschauma/jswhois) - Tool to look up and print WHOIS results in JSON format.
+- [Internet protocols and tools related documentation](https://daniel.haxx.se/docs/) ([Code](https://github.com/bagder/docs))

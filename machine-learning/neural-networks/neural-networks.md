@@ -264,3 +264,5 @@
 - [Let's Play Distill: Building Blocks (2019)](https://www.youtube.com/watch?v=h6vLETyCzPo) ([Tweet](https://twitter.com/nickcammarata/status/1476774347767386115))
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (2017)](https://arxiv.org/abs/1701.06538) ([Code](https://github.com/davidmrau/mixture-of-experts))
 - [Neural Network From Scratch (2022)](https://sirupsen.com/napkin/neural-net) ([HN](https://news.ycombinator.com/item?id=29796789))
+- [Noether’s Theorem, Symmetries, and Invariant Neural Networks](https://fabianfuchsml.github.io/noether/)
+- [CNNs and Equivariance - Part 1/2](https://fabianfuchsml.github.io/equivariance1of2/)

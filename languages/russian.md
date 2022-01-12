@@ -20,3 +20,5 @@
 - [How Sber Built ruDALL-E (2021)](https://serokell.io/blog/how-sber-built-rudall-e) ([HN](https://news.ycombinator.com/item?id=29729403))
 - [Список русских слов](https://github.com/danakt/russian-words)
 - [Image Super-resolution with ruDALL-E](https://github.com/CJWBW/rudalle-sr) -
+- [Wordle Russian](https://wordle.belousov.one/)
+- [Iuliia](https://iuliia.ru/) - Transliterate Cyrillic → Latin in every possible way. ([Code](https://github.com/nalgeon/iuliia-js))

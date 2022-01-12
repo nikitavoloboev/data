@@ -53,7 +53,7 @@
 - [Nix](../../package-managers/nix/nix.md) - Purely functional package manager.
 - [Thunar](https://wiki.archlinux.org/index.php/thunar) - Modern file manager.
 - [Mopidy](https://www.mopidy.com/) - Extensible music server.
-- [MPV](https://mpv.io/) - Free, open source, and cross-platform media player.
+- [MPV](https://mpv.io/) - Free, open source, and cross-platform media player. ([Code](https://github.com/mpv-player/mpv)) ([HN](https://news.ycombinator.com/item?id=29867547))
 - [Tilix](https://github.com/gnunn1/tilix) - Tiling terminal emulator.
 - [fwupd](https://github.com/hughsie/fwupd) - Simple daemon to allow session software to update firmware.
 - [linux-inject](https://github.com/gaffe23/linux-inject) - Tool for injecting a shared object into a Linux process.

@@ -43,3 +43,4 @@
 - [suppress-eslint-errors](https://github.com/amanda-mitchell/suppress-eslint-errors) - Suppress existing violations of new eslint rules and get back to building stuff.
 - [eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - Check your GraphQL query strings against a schema.
 - [Eric Crosson ESLint config](https://github.com/EricCrosson/eslint-config)
+- [eslint-plugin-i18n-json](https://github.com/godaddy/eslint-plugin-i18n-json) - Fully extendable eslint plugin for JSON i18n translation files.

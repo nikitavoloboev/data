@@ -59,3 +59,4 @@
 - [Hunspell](https://github.com/hunspell/hunspell) - Free spell checker and morphological analyzer library and command-line tool. ([Web](http://hunspell.github.io/))
 - [Hunspell-asm](https://github.com/kwonoj/hunspell-asm) - WebAssembly based JavaScript bindings for hunspell spellchecker.
 - [NNSplit](https://bminixhofer.github.io/nnsplit/) - Tool to split text using a neural network. Main application is sentence boundary detection. ([Code](https://github.com/bminixhofer/nnsplit))
+- [From Greek to Latin: Visualizing the Evolution of the Alphabet](https://www.visualcapitalist.com/from-greek-to-latin-visualizing-the-evolution-of-the-alphabet/)

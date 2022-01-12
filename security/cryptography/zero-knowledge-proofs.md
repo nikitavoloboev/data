@@ -47,6 +47,7 @@
 - [Proof Systems](https://github.com/o1-labs/proof-systems) - Contains various zk-SNARK protocol implementations for recursive SNARK composition.
 - [Polygon Miden](https://github.com/maticnetwork/miden) - Zero-knowledge virtual machine written in Rust.
 - [Plonky](https://github.com/mir-protocol/plonky) - Recursive SNARKs based on Plonk and Halo.
+- [Plonky2](https://github.com/mir-protocol/plonky2) - SNARK implementation based on techniques from PLONK and FRI.
 - [Mir Protocol](https://mirprotocol.org/) - Open-source platform that allows anyone to run private and scalable decentralized applications / ZKP-powered. ([Twitter](https://twitter.com/mirprotocol))
 - [snarkjs](https://github.com/iden3/snarkjs) - ZkSNARK implementation in JavaScript & WASM.
 - [Learning zero knowledge proof technologies in public](https://github.com/JofArnold/zkp-learning-in-public)

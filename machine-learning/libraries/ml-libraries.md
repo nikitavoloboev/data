@@ -265,3 +265,5 @@
 - [WebDNN](https://github.com/mil-tokyo/webdnn) - Fastest DNN Running Framework on Web Browser.
 - [nonconformist](https://github.com/donlnz/nonconformist) - Python implementation of the conformal prediction framework.
 - [jaxdf](https://github.com/ucl-bug/jaxdf) - JAX-based research framework for writing differentiable numerical simulators with arbitrary discretizations.
+- [DoWhy](https://github.com/microsoft/dowhy) - End-to-end library for causal inference.
+- [hypopt](https://github.com/cgnorthcutt/hypopt) - Parallelized hyper-param optimization with validation set, not crossval.

@@ -189,6 +189,7 @@
 - [Scalaris](https://github.com/scalaris-team/scalaris) - Scalable, transactional, distributed and fault-tolerant key-value-store with strong data consistency for online databases and Web 2.0 services.
 - [Basenine](https://github.com/up9inc/basenine) - Schema-free, document-oriented streaming database that optimized for monitoring network traffic in real-time.
 - [MeerkatDB](https://github.com/meerkatdb/meerkat) - Distributed append-only (no UPDATE/DELETE support) eventual consistent columnar storage for events and timeseries.
+- [OpenMLDB](https://github.com/4paradigm/OpenMLDB) - Open-source machine learning database that provides a full-stack FeatureOps solution for enterprises.
 
 ## Tools
 
@@ -504,3 +505,4 @@
 - [The Third Manifesto: Documents and Books on Database Design](https://www.dcs.warwick.ac.uk/~hugh/TTM/documents_and_books.html)
 - [Database System Readings](https://github.com/Sunt-ing/database-system-readings)
 - [UUIDs Are Popular, but Bad for Performance (2019)](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/) ([HN](https://news.ycombinator.com/item?id=29849791))
+- [Acra](https://github.com/cossacklabs/acra) - Database security suite for sensitive and personal data protection.
