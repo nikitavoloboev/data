@@ -14,7 +14,7 @@
 - [Rutie](https://github.com/danielpclark/rutie) - Integrate Ruby with your Rust application. Or integrate Rust with your Ruby application.
 - [ruruby](https://github.com/sisshiki1969/ruruby) - Alternative Ruby implementation by Rust.
 - [How to Fix Slow Code in Ruby (2020)](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby) ([HN](https://news.ycombinator.com/item?id=23182127))
-- [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
+- [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language. ([Code](https://github.com/rubybib/rubybib.org))
 - [Exploring Metaprogramming in Ruby (2020)](https://www.halcyon.hr/posts/exploring-metaprogramming-in-ruby/) ([Reddit](https://www.reddit.com/r/ruby/comments/gzsf5y/exploring_metaprogramming_in_ruby/))
 - [Why's Poignant Guide to Ruby](http://poignant.guide/)
 - [TruffleRuby](https://github.com/oracle/truffleruby) - GraalVM high-performance implementation of the Ruby programming language built by Oracle Labs.

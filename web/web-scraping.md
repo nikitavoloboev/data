@@ -141,3 +141,5 @@
 - [Jiu](https://github.com/Xetera/jiu) - Detect new images and video on social media feeds and dispatch webhooks on updates.
 - [Building a scalable scraper in Rust (2021)](https://xetera.dev/building-a-scalable-scraper/)
 - [Instagram Scraper](https://github.com/gippy/instagram-scraper) - Allows you to scrape posts from a user's profile page, hashtag page, or place.
+- [Scraping without JavaScript using Chromium on AWS Lambda: The Novel (2022)](https://blog.carlosnunez.me/post/scraping-chromium-lambda-nodeless-zerostress/)
+- [The State of Web Scraping 2022](https://scrapeops.io/blog/the-state-of-web-scraping-2022/) ([HN](https://news.ycombinator.com/item?id=29905799))

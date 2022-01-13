@@ -135,3 +135,5 @@
 - [How to Comment Your Code (2021)](https://matt-rickard.com/how-to-comment-your-code/)
 - [Fundoc](https://github.com/CSSSR/fundoc) - Language agnostic documentation generator. Written in Rust.
 - [Best practices for writing code comments (2021)](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) ([HN](https://news.ycombinator.com/item?id=29671450))
+- [Template for the Read the Docs tutorial](https://github.com/readthedocs/tutorial-template)
+- [EventCatalog](https://eventcatalog.dev/) - Discover, Explore and Document your Event Driven Architectures. ([Code](https://github.com/boyney123/eventcatalog))

@@ -107,3 +107,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [How to write LaTeX without writing LaTeX](https://jarbus.net/blog/write-latex-without-latex/) ([HN](https://news.ycombinator.com/item?id=29687840))
 - [Beamer](https://github.com/josephwright/beamer) - LaTeX class for producing presentations.
 - [Blogging with TikZ (2021)](https://lukasschwab.me/blog/gen/blogging-with-tikz.html)
+- [Examples of how to create colorful, annotated equations in Latex using Tikz](https://github.com/synercys/annotated_latex_equations)

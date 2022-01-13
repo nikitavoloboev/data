@@ -100,6 +100,8 @@
 - [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
 - [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/))
 - [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
+- [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
+- [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
 
 ## WASM
 
@@ -462,6 +464,7 @@
 - [macro_rules_attribute](https://github.com/danielhenrymantilla/macro_rules_attribute-rs) - Use declarative macros as proc_macro attributes or derives.
 - [throttle_my_fn](https://github.com/fredmorcos/throttle_my_fn) - Rust attribute macro to throttle the execution of functions.
 - [test-span](https://github.com/apollographql/test-span) - Macro and utilities to do snapshot tests on tracing spans.
+- [Modular Bitfields](https://github.com/Robbepop/modular-bitfield) - Macro to generate bitfields for structs that allow for modular use of enums.
 
 ## Math
 
@@ -481,7 +484,7 @@
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
 - [actix](https://github.com/actix/actix)
 - [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
-- [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial)) ([Building a CEDICT parser in Rust with Nom](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)) ([Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/))
+- [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial)) ([Building a CEDICT parser in Rust with Nom](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)) ([Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)) ([Parsing Text with Nom](https://blog.adamchalmers.com/nom-chars/)) ([HN](https://news.ycombinator.com/item?id=29897328))
 - [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
 - [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax and the [futures](https://crates.io/crates/futures) crate.
@@ -1332,6 +1335,10 @@
 - [pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust.
 - [Ergex](https://github.com/deadpixi/ergex) - Regular expression library that does a few things rather differently from many other libraries.
 - [memmap](https://github.com/danburkert/memmap-rs) - Rust library for cross-platform memory mapped IO.
+- [eventador-rs](https://github.com/sachanganesh/eventador-rs) - Lock-free Pub/Sub event-bus inspired by the LMAX Disruptor.
+- [uAsync](https://github.com/kprotty/uasync) - Fast, forbid(unsafe_code), no dependency, async executor.
+- [Sentry SDK for Rust](https://github.com/getsentry/sentry-rust)
+- [prettyplease](https://github.com/dtolnay/prettyplease) - Minimal `syn` syntax tree pretty-printer.
 
 ## Cargo Plugins
 
@@ -1382,6 +1389,7 @@
 - [cargo-build-deps](https://github.com/nacardin/cargo-build-deps) - Cargo subcommand to build dependencies, helps speed up docker builds by allowing dependencies to be built earlier and cached.
 - [cargo-intraconv](https://github.com/poliorcetics/cargo-intraconv) - Simple helper to transform Markdown links to intra-doc links in Rust projects when appropriate.
 - [cargo-xcodebuild](https://github.com/Gordon-F/cargo-xcodebuild) - Helps cargo build and run apps for iOS.
+- [cargo-strip](https://github.com/guedou/cargo-strip) - Cargo subcommand that reduces the size of Rust binaries using the strip command.
 
 ## Links
 
@@ -1463,3 +1471,4 @@
 - [Porting Rust's std to rustix (2022)](https://blog.sunfishcode.online/port-std-to-rustix/) ([HN](https://news.ycombinator.com/item?id=29793377)) ([Reddit](https://www.reddit.com/r/rust/comments/rvnc6y/porting_rusts_std_to_rustix/)) ([Lobsters](https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix))
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
 - [Corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration.
+- [Pin, Unpin, and why Rust needs them (2021)](https://blog.adamchalmers.com/pin-unpin/)

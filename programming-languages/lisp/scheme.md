@@ -70,3 +70,4 @@
 - [Lambda Quest](https://lambda.quest/) - Interactive Scheme environment with Canvas. ([Code](https://github.com/katspaugh/lambda.quest))
 - [TinyScheme R7](https://github.com/RodionGork/tinyscheme) - Small Scheme language implementation written in C language.
 - [R7RS Scheme Implementation in WebAssembly](https://github.com/PollRobots/scheme) ([HN](https://news.ycombinator.com/item?id=29773927))
+- [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) ([F# Code](https://github.com/pangwa/write-yourself-a-scheme-doc))

@@ -195,3 +195,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Give me /events, not webhooks (2021)](https://blog.sequin.io/events-not-webhooks) ([HN](https://news.ycombinator.com/item?id=29847462))
 - [Desired state systems (2022)](https://branislavjenco.github.io/desired-state-systems/)
 - [Designing WhatsApp (2022)](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
+- [Data-Oriented Programming is dope (2022)](https://dev.to/xba/data-oriented-programming-is-dope-ma2)

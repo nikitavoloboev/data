@@ -24,3 +24,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Which directors entire filmography do you think is the best to have seen?](https://www.reddit.com/r/Letterboxd/comments/r9m290/which_directors_entire_filmography_do_you_think/)
 - [Directed by Quentin Tarantino (2020)](https://www.youtube.com/watch?v=vnZPtwME_mc)
 - [A Director who is worth watching a back catalogue of? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/rubmhc/a_director_who_is_worth_watching_a_back_catalogue/)
+- [Найшуллер - понты Голливуда, Тарантино, роли через постель, отказ от $1 млн / 50 вопросов (2022)](https://www.youtube.com/watch?v=xgevI7Zkjdg)

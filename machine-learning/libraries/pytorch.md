@@ -330,3 +330,4 @@
 - [Modeling uncertainty with PyTorch (2022)](https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html)
 - [PyTorch distributions examples](https://github.com/srom/distributions)
 - [moolib](https://github.com/facebookresearch/moolib) - Library for distributed ML training with PyTorch.
+- [v objective diffusion inference code for PyTorch](https://github.com/crowsonkb/v-diffusion-pytorch)

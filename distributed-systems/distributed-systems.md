@@ -242,3 +242,4 @@
 - [Paxos explained](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
 - [Consistency Models Explained (2021)](https://www.bodunhu.com/blog/posts/consistency-models-explained/)
 - [Fault](https://github.com/Fault-lang/Fault) - Modeling language for building system dynamic models and checking them using a combination of first order logic and probability.
+- [Events, Event Sourcing, and the Path Forward (2022)](https://relistan.com/event-sourcing-and-event-bus)

@@ -2,7 +2,7 @@
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide.
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide. [Anchor](https://book.anchor-lang.com/) is best framework.
 
 I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
 
@@ -36,7 +36,7 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)
 - [Solana Scaling Potential](https://www.youtube.com/watch?v=FbCUHBhf-rU)
 - [Solana Season Hackathon](https://github.com/solana-labs/solana-season)
-- [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html))
+- [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html)) ([Anchor Book](https://book.anchor-lang.com/))
 - [Summary of Solana, the tech, and why it is the future + comparison to other top projects (2021)](https://www.reddit.com/r/solana/comments/n0hyad/a_summary_of_solana_the_tech_and_why_it_is_the/)
 - [Solana vs Algorand (2021)](https://www.reddit.com/r/solana/comments/n1yc3j/solana_vs_algorand/)
 - [In Rust We Trust - Berkeley Packet Filter and Rust (2019)](https://www.youtube.com/watch?v=oBW2KJq3FnA)
@@ -208,3 +208,4 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [saber-periphery](https://github.com/saber-hq/saber-periphery) - Peripheral contracts for interacting with Saber.
 - [sail](https://github.com/saber-hq/sail) - React library for Solana account management and transaction handling.
 - [Lido for Solana](https://github.com/ChorusOne/solido) - Lido DAO-governed liquid staking protocol for the Solana blockchain.
+- [Common Security Exploits on Solana](https://github.com/project-serum/sealevel-attacks)

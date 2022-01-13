@@ -16,3 +16,4 @@
 - [saus](https://github.com/alloc/saus) - SSG framework powered by Vite.
 - [vite-plugin-import-build](https://github.com/brillout/vite-plugin-import-build) - Make `dist/` paths statically analysable. E.g. for bundling for Cloudflare Workers.
 - [vite-plugin-remove-exports](https://github.com/egoist/vite-plugin-remove-exports) - Vite plugin to remove certain exports.
+- [go-vite](https://github.com/icyphox/go-vite) - Vite, but in Go.

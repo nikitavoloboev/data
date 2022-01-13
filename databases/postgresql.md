@@ -391,3 +391,4 @@
 - [pg_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 - [pg_bloat_check](https://github.com/keithf4/pg_bloat_check) - Bloat check script for PostgreSQL.
 - [Zero-downtime schema migrations in Postgres using Reshape (2022)](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/) ([HN](https://news.ycombinator.com/item?id=29825520))
+- [Who Contributed to PostgreSQL Development in 2020 and 2021?](http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html) ([HN](https://news.ycombinator.com/item?id=29910327))

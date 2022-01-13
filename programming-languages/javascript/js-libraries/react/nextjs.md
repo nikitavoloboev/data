@@ -308,3 +308,4 @@
 - [Build a SaaS product with Next.js, Supabase and Stripe (2021)](https://egghead.io/courses/build-a-saas-product-with-next-js-supabase-and-stripe-61f2bc20)
 - [Get started with Storybook and Next.js (2021)](https://storybook.js.org/blog/get-started-with-storybook-and-next-js/)
 - [next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router.
+- [pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.

@@ -169,3 +169,5 @@
 - [My Evaluation of SvelteKit for Full-Stack Web App Development (2022)](https://cprimozic.net/blog/trying-out-sveltekit/) ([HN](https://news.ycombinator.com/item?id=29806385))
 - [Svelte Animation Creator](https://danielsharkov.github.io/animation-creator/) - CSS animation keyframer. ([Code](https://github.com/DanielSharkov/animation-creator))
 - [Svelte Router](https://github.com/DanielSharkov/svelte-router) - Simple and easy to use svelte router.
+- [Template for building basic applications with Svelte](https://github.com/sveltejs/template)
+- [Svelte Vite TailwindCSS Template](https://github.com/Lukem121/svelte-vite-tailwind-template)

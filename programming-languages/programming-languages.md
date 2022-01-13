@@ -293,3 +293,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Automated Code Optimization with E-Graphs (2021)](https://arxiv.org/abs/2112.14714) ([HN](https://news.ycombinator.com/item?id=29775477))
 - [Tencent Cloud Code Analysis (TCA)](https://github.com/Tencent/CodeAnalysis) - Code comprehensive analysis platform, which includes three components: server, web and client.
 - [What you can learn by merely writing a programming language changelog (2022)](https://zverok.substack.com/p/what-you-can-learn-by-merely-writing)
+- [SQRL](https://github.com/twitter/sqrl) - Safe, Stateful Rules Language for Event Streams.
+- [Rethinking errors, warnings, and lints (2022)](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)

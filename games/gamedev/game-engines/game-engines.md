@@ -99,6 +99,7 @@
 - [Stage.js](https://github.com/shakiba/stage.js) - 2D HTML5 rendering and layout engine for game development.
 - [Storm](https://github.com/mooman219/storm) - 2D game engine designed for performance.
 - [Arcade](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
+- [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine. ([Web](https://urho3d.io/))
 
 ## Physics engines
 

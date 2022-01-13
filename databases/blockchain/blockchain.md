@@ -299,7 +299,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))
 - [Substrate Cumulus Parachain Template](https://github.com/substrate-developer-hub/substrate-parachain-template) - New Cumulus-based Substrate node, ready for hacking.
 - [Anoma](https://anoma.network/) - Sovereign, proof-of-stake blockchain protocol that enables private, asset-agnostic cash and private bartering among any number of parties. ([Code](https://github.com/anoma/anoma))
-- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core)) ([GitHub](https://github.com/celestiaorg))
+- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core)) ([GitHub](https://github.com/celestiaorg)) ([Node Code](https://github.com/celestiaorg/celestia-node))
 - [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 - [Decentralized versions of Patreon/OnlyFans (2021)](https://twitter.com/albertwenger/status/1464305621394759684)
 - [Blockchain, the amazing solution for almost nothing (2020)](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86714927310-8f431cae) ([Reddit](https://www.reddit.com/r/programming/comments/raorbk/blockchain_the_amazing_solution_for_almost/)) ([HN](https://news.ycombinator.com/item?id=24843037))
@@ -325,3 +325,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Rust Canister Development Kit](https://github.com/dfinity/cdk-rs) - Rust CDK provides tools for building Canisters on Internet Computer (IC).
 - [Tutorials for building modules for the Cosmos SDK](https://github.com/cosmos/sdk-tutorials)
 - [It is difficult for the average person to conceive of how useless NFTs are](https://twitter.com/HoldenShearer/status/1480312592803446790) ([HN](https://news.ycombinator.com/item?id=29872961))
+- [Crust Network](https://crust.network/) - Web3.0 Storage for Metaverse. ([Code](https://github.com/crustio/crust)) ([GitHub](https://github.com/crustio))
+- [celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by lazyledger-core, the cosmos-sdk, and starport.

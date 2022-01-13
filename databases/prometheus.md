@@ -55,3 +55,5 @@
 - [Prometheus Engine for GCP](https://github.com/GoogleCloudPlatform/prometheus-engine)
 - [script_exporter](https://github.com/ricoberger/script_exporter) - Prometheus exporter to execute scripts and collect metrics from the output or the exit status.
 - [promgrpc](https://github.com/piotrkowalczuk/promgrpc) - Prometheus instrumentation library for gRPC powered Go applications.
+- [Prometheus Stack Review (2022)](https://clux.github.io/probes/post/2022-01-11-prometheus-ecosystem/)
+- [Prometheus Plugin for Steampipe](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to query instances, domains and more from Prometheus.

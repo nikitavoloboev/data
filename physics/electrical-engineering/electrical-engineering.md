@@ -87,4 +87,4 @@
 - [Circuit Design and Applied Optimization (Part 1)](https://stefanabikaram.com/writing/circuit-design-and-applied-optimization/) ([HN](https://news.ycombinator.com/item?id=29750076))
 - [Circuit Simulator Applet](https://www.falstad.com/circuit/)
 - [DLS](https://makingartstudios.itch.io/dls) - Digital logic simulator game.
-- [Making nice-looking and interactive diagrams for your PCBs (2021)](https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/)
+- [Making nice-looking and interactive diagrams for your PCBs (2021)](https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/) ([HN](https://news.ycombinator.com/item?id=29871371))

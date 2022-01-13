@@ -588,3 +588,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome List of Awesomes](https://github.com/Nachimak28/awesome-list-of-awesomes)
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference) - Curated list of examples of self-reference in art, science, and technology. ([HN](https://news.ycombinator.com/item?id=29873177))
 - [The Last Question - Isaac Asimov](https://www.physics.princeton.edu/ph115/LQ.pdf)
+- [endoflife.date](https://endoflife.date/) - Informative site with EoL dates of everything. ([Code](https://github.com/endoflife-date/endoflife.date))

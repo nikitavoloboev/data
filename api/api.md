@@ -309,3 +309,4 @@
 - [Redocly](https://redoc.ly/) - API docs you can be proud of. ([GitHub](https://github.com/Redocly))
 - [Awesome API Security](https://github.com/arainho/awesome-api-security)
 - [Documenting APIs](https://idratherbewriting.com/learnapidoc/) ([HN](https://news.ycombinator.com/item?id=29849822))
+- [OpenAPI boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - Multi-file boilerplate for Open API Specification.

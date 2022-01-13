@@ -596,3 +596,4 @@
 - [Kourier](https://github.com/knative-sandbox/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs.
 - [JavaScript Kubernetes Client](https://github.com/kubernetes-client/javascript)
 - [Kubernetes Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
+- [Cilium CLI](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium.

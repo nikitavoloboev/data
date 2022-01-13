@@ -153,3 +153,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv.py](https://github.com/lukasschwab/arxiv.py) - Python wrapper for the arXiv API.
 - [Two Minute Papers - YouTube](https://www.youtube.com/c/K%C3%A1rolyZsolnai/videos)
 - [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743) ([HN](https://news.ycombinator.com/item?id=29898655))
+- [Papers I read](https://github.com/shagunsodhani/papers-I-read)

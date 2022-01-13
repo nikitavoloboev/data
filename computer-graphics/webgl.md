@@ -83,3 +83,5 @@
 - [WebGL 2 Examples](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 - [W](https://github.com/xem/W) - Micro WebGL2 framework with a ton of features. ([Docs](https://xem.github.io/W/))
 - [WebGL + Rust: Basic Water Tutorial (2019)](https://chinedufn.com/3d-webgl-basic-water-tutorial/) ([Code](https://github.com/chinedufn/webgl-water-tutorial))
+- [WebGL Profiler](https://github.com/figma/webgl-profiler) - GPU-side profiler for WebGL using EXT_disjoint_timer_query.
+- [Web Texture Tool](https://github.com/toji/web-texture-tool) - Texture loading utility for WebGL and WebGPU.

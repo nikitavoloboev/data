@@ -82,3 +82,4 @@
 - [Ice Studio](https://icestudio.io/) - Visual editor for open FPGA boards. ([Code](https://github.com/FPGAwars/icestudio))
 - [Project Tang](https://github.com/mmicko/prjtang) - Documenting the Anlogic FPGA bit-stream format.
 - [FPGA 101 - Workshop materials](https://github.com/mmicko/fpga101-workshop)
+- [Multiplication with FPGA DSPs (2021)](https://projectf.io/posts/multiplication-fpga-dsps/)

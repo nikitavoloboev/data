@@ -206,3 +206,5 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Apple Notes Export Tools](https://github.com/dunhamsteve/notesutils)
 - [CatalystEffectViewChrome](https://github.com/steventroughtonsmith/CatalystEffectViewChrome) - Demonstrates how to insert an NSVisualEffectView to the root of the main window of your Mac Catalyst app.
 - [CommandBar](https://github.com/steventroughtonsmith/CatalystCommandBar) - Spotlight/'Open Quickly'-style 'command bar' implemented using UIKit/Mac Catalyst.
+- [A guide to NSButton styles](https://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
+- [buildkit-machine](https://github.com/developer-guy/buildkit-machine) - Allows you to make buildkitd daemon accessible in your macOS environment.

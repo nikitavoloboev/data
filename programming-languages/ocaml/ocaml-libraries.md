@@ -25,6 +25,7 @@
 ## ML
 
 - [zeta](https://github.com/liaopeiyuan/zeta) - Functional neural networks in ocaml. ([HN](https://news.ycombinator.com/item?id=22020287))
+- [prbnmcn-clustering](https://github.com/igarnier/prbnmcn-clustering) - Clustering with k-means, k-medoids & agglomerative clustering.
 
 ## DB
 
@@ -131,6 +132,7 @@
 - [PaComb](https://github.com/craff/pacomb) - Parsing library that compiles grammars to combinators using elimination of left recursion.
 - [PPrint](https://github.com/fpottier/pprint) - Pretty-Printing Toolbox.
 - [Multicont](https://github.com/dhil/ocaml-multicont) - Continuations with multi-shot semantics in OCaml.
+- [ExtUnix](https://github.com/ygrek/extunix) - OCaml bindings to various low-level system APIs not covered by Unix module.
 
 ## Links
 

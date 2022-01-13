@@ -82,3 +82,4 @@
 - [kaproxy](https://github.com/bitleak/kaproxy) - Restful HTTP Proxy For Kafka.
 - [Brod](https://github.com/kafka4beam/brod) - Apache Kafka client library for Erlang/Elixir.
 - [Castle](https://github.com/ovotech/castle) - Framework for building Kafka and avro based apps in typescript.
+- [Franz](https://github.com/scrogson/franz) - Kafka client library for Erlang/Elixir based on librdkafka implemented as a safe Rust NIF.

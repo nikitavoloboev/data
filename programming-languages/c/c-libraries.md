@@ -65,7 +65,7 @@
 - [poica](https://github.com/Hirrolot/poica) - ADTs with pattern matching and type introspection for pure C.
 - [MiniFB](https://github.com/emoon/minifb) - Small cross platform library to create a frame buffer that you can draw pixels in. ([HN](https://news.ycombinator.com/item?id=24172362))
 - [liblfds](https://liblfds.org/) - Portable, license-free, lock-free data structure library written in C.
-- [mlibc](https://github.com/managarm/mlibc) - C standard library.
+- [mlibc](https://github.com/managarm/mlibc) - C standard library. ([Lobsters](https://lobste.rs/s/jzckka/mlibc_portable_c_standard_library))
 - [miniaudio](https://github.com/mackron/miniaudio) - Single file audio playback and capture library written in C. ([Web](https://miniaud.io/))
 - [libeatmydata](https://github.com/stewartsmith/libeatmydata) - LD_PRELOAD library that disables all forms of writing data safely to disk. fsync() becomes a NO-OP, O_SYNC is removed etc.
 - [C Smart Pointers](https://github.com/Snaipe/libcsptr) - Attempt to bring smart pointer constructs to C programming language. ([Article](https://snai.pe/posts/c-smart-pointers))

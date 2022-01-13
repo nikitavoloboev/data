@@ -35,3 +35,6 @@
 - [Surve Mobility](https://survemobility.com/) - Europe’s No 1 for intelligent shared mobility operations. ([GitHub](https://github.com/survemobility))
 - [Tesla's Founders On Elon Musk And The Early Days (2021)](https://www.youtube.com/watch?v=eblPwXFb7TE)
 - [German car that was super-aerodynamic but impractical](https://rarehistoricalphotos.com/schlorwagen-photographs-1939/) ([HN](https://news.ycombinator.com/item?id=29321519))
+- [The Future of E-Bikes (2021)](https://austinvernon.site/blog/ebikes.html)
+- [America's Aerospace Industry is Regenerating (2021)](https://austinvernon.site/blog/aerospacemetal.html)
+- [Air Travel Doesn't Have to be Terrible (2021)](https://austinvernon.site/blog/airtravel.html)

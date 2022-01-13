@@ -72,6 +72,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Molecule](https://github.com/DTStack/molecule) - Lightweight Web IDE UI framework which is built with React.js and inspired by the VSCode.
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React.
 - [rodemirror](https://github.com/sachinraja/rodemirror) - React component for CodeMirror 6.
+- [React Textarea Code Editor](https://github.com/uiwjs/react-textarea-code-editor) - Simple code editor with syntax highlighting.
 
 ## Web
 

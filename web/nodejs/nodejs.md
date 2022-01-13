@@ -308,3 +308,4 @@
 - [cleye](https://github.com/privatenumber/cleye) - Intuitive CLI development tool for Node.js.
 - [Youch](https://github.com/poppinss/youch) - Pretty error reporting for Node.js.
 - [rust-nodejs](https://github.com/patr0nus/rust-nodejs) - Embedding Node.js in Rust.
+- [Node.js Technical Steering Committee](https://github.com/nodejs/TSC)

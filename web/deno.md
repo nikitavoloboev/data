@@ -1,6 +1,6 @@
 # [Deno](https://github.com/denoland/deno)
 
-[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great.
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro.
 
 ## Links
 
@@ -174,3 +174,5 @@
 - [State of the Web: Deno (2022)](https://byteofdev.com/posts/deno/) ([HN](https://news.ycombinator.com/item?id=29870321))
 - [Astrodon](https://github.com/astrodon/astrodon) - Create Desktop apps with Deno.
 - [ga](https://github.com/denoland/ga) - Utilities for server side processing of Google Analytics in Deno CLI and Deploy.
+- [deno_graph](https://github.com/denoland/deno_graph) - Module graph logic for Deno CLI.
+- [Deno by Example](https://examples.deno.land/) ([Code](https://github.com/denoland/denobyexample))

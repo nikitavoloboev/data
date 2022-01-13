@@ -38,3 +38,5 @@
 - [WebGPU Compute Rasterizer](https://github.com/OmarShehata/webgpu-compute-rasterizer)
 - [wgpu-matrix](https://github.com/greggman/wgpu-matrix) - Fast WebGPU 3d math library.
 - [swift-webgpu](https://github.com/henrybetts/swift-webgpu) - Swift bindings for WebGPU.
+- [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro webGPU rendering & compute library.
+- [WebGPU Sketch Dojo](https://github.com/gnikoloff/webgpu-dojo)

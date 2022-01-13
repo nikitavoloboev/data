@@ -90,6 +90,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Bodun Hu](https://www.bodunhu.com/blog/posts/)
 - [Susam Pal](https://susam.net/)
 - [Isaac Dykeman](https://ijdykeman.github.io/)
+- [Austin Vernon](https://austinvernon.site/index.html)
 
 ## Notes
 
@@ -193,5 +194,5 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Blog-CLI](https://github.com/elchead/blog-cli) - Used to draft posts inside obsidian and publish conveniently to my Github blog.
 - [Ask HN: Best Engineering Blog Posts? (2022)](https://news.ycombinator.com/item?id=29758396)
 - [Ask HN: How to build a light weight personal blog? (2022)](https://news.ycombinator.com/item?id=29793389#29793698)
-- [Zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems.
+- [Zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems. ([HN](https://news.ycombinator.com/item?id=29912396))
 - [Vortex](https://github.com/hydralite/vortex) - Hyper-extensible library to build blogs crazy fast.

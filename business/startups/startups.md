@@ -355,6 +355,7 @@
 - [Roam's CEO mistakes (2021)](https://twitter.com/Conaw/status/1476090219321380865)
 - [Deel startup 2021 learnings](https://twitter.com/Bouazizalex/status/1475854552595374083)
 - [70 First Co-Founder Dates](https://abeclark.substack.com/p/70-first-co-founder-dates) ([HN](https://news.ycombinator.com/item?id=29781251))
+- [The Manual by Compound](https://manual.withcompound.com/) - Curated library of wealth planning resources for startup founders and employees.
 
 ## Images
 

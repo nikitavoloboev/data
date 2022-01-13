@@ -488,3 +488,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Things I learned writing my first technical book (2021)](https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented-programming.html) ([HN](https://news.ycombinator.com/item?id=29687935))
 - [Издательство «МИФ»](https://www.mann-ivanov-ferber.ru/)
 - [How James Clear is Writing His Next Book (2021)](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
+- [How to easily read 50 books a year](https://www.ramoswriter.com/how-to-read-more/) ([HN](https://news.ycombinator.com/item?id=29905186))

@@ -24,3 +24,4 @@
 - [MobileViT: A mobile-friendly Transformer-based model for image classification](https://keras.io/examples/vision/mobilevit/) ([Tweet](https://twitter.com/fchollet/status/1451977110860406789))
 - [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis)
 - [Keras in Rust](https://github.com/conradludgate/keras-rs)
+- [Keras implement of flow-based models](https://github.com/bojone/flow)

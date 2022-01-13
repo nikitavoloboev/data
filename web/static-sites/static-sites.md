@@ -110,3 +110,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Commento++](https://github.com/souramoo/commentoplusplus) - Free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.
 - [Using Netlify API Authentication for Static Site Builds (2021)](https://den.dev/blog/api-authentication-netlify-builds/)
 - [hyperlink](https://github.com/untitaker/hyperlink) - Command-line tool to find broken links in your static site / markdown.
+- [Static Site Generators](https://staticsitegenerators.net/) - Definitive listing of Static Site Generators. ([Code](https://github.com/bevry/staticsitegenerators-list))

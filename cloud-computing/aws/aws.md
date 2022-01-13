@@ -274,3 +274,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWSQS::Kubernetes::Helm](https://github.com/aws-quickstart/quickstart-helm-resource-provider) - AWS CloudFormation resource provider for the management of helm 3 resources in EKS and self-managed Kubernetes clusters.
 - [AWS Community Builders - DEV Community](https://dev.to/aws-builders)
 - [Amazon ECS CLI](https://github.com/aws/amazon-ecs-cli) - Enables users to run their applications on ECS/Fargate using the Docker Compose file format.
+- [AWS Serverless SaaS Workshop](https://github.com/aws-samples/aws-serverless-saas-workshop)
+- [Publications - Amazon Science](https://www.amazon.science/publications/)
+- [Amazon Science](https://www.amazon.science/)

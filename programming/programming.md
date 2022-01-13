@@ -508,3 +508,4 @@
 - [Performance Anti-Patterns (2006)](https://queue.acm.org/detail.cfm?id=1117403) ([Lobsters](https://lobste.rs/s/i9grx6/performance_anti_patterns_2006))
 - [How programmers make sure that their software is correct (2022)](https://lemire.me/blog/2022/01/03/how-programmers-make-sure-that-their-software-is-correct/)
 - [Programming in 1987 Versus Today](https://ovid.github.io/blog/programming-in-1987-versus-today.html) ([Lobsters](https://lobste.rs/s/s8joj1/programming_1987_versus_today))
+- [How I build a feature (2022)](https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/)

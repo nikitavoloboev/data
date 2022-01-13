@@ -49,3 +49,4 @@
 - [The Energy of Tomorrow: The Promise, Failure, and Possible Rebirth of Nuclear Power (2021)](https://www.youtube.com/watch?v=7tYlXY19I3c)
 - [Revisiting the “Tsar Bomba” nuclear test (2021)](https://arstechnica.com/science/2021/12/revisiting-the-tsar-bomba-nuclear-test/) ([HN](https://news.ycombinator.com/item?id=29496666))
 - [Book Review: The Future of Fusion Energy (2022)](https://martin.kleppmann.com/2022/01/03/future-of-fusion-energy.html) ([HN](https://news.ycombinator.com/item?id=29785864))
+- [Why is the Nuclear Power Industry Stagnant? (2022)](https://austinvernon.site/blog/nuclear.html) ([Tweet](https://twitter.com/Vernon3Austin/status/1480915515669417992))

@@ -101,3 +101,5 @@
 - [redis-semaphore](https://github.com/swarthy/redis-semaphore) - Mutex and Semaphore implementations based on Redis ready for distributed systems.
 - [Bitnami Redis Docker Image](https://github.com/bitnami/bitnami-docker-redis)
 - [kitteh-redis](https://github.com/djspiewak/kitteh-redis) - Toy Redis server implemented using pure FP on top of Cats Effect, Fs2, and Scodec.
+- [Redis OM Node.js](https://github.com/redis/redis-om-node) - Makes it easy to model Redis data in your Node.js applications.
+- [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API.

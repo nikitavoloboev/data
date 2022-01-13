@@ -127,3 +127,5 @@
 - [Design Gradients](https://www.designgradients.com/) - Free platform of 48 linear gradients curated by designers.
 - [ColorSchemes.jl](https://github.com/JuliaGraphics/ColorSchemes.jl) - Color schemes, colormaps, gradients, and palettes.
 - [Meshy](https://meshy.uxie.io/) - Design tool to generate beautiful & colorful mesh gradients. ([Code](https://github.com/anup-a/meshy))
+- [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
+- [Color-space](https://github.com/colorjs/color-space) - Math & data behind color spaces and color conversions.

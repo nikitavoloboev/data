@@ -63,3 +63,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Psychogenic death, the phenomenon of “thinking” yourself to death (2021)](https://www.salon.com/2021/12/31/psychogenic/) ([HN](https://news.ycombinator.com/item?id=29807036))
 - [What do you think really happens after death?](https://www.reddit.com/r/AskReddit/comments/pqiu3v/what_do_you_think_really_happens_after_death/)
 - [Very few months to live, I'm scared of death](https://www.reddit.com/r/TrueOffMyChest/comments/rx4yme/very_few_months_to_live_im_scared_of_death/)
+- [What if death wasn't the death we expected?](https://riverdalepress.com/stories/what-if-death-wasnt-the-death-we-expected,64405) ([HN](https://news.ycombinator.com/item?id=29901706))

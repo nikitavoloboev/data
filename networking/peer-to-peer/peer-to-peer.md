@@ -105,3 +105,5 @@
 - [HSFW](https://github.com/pfrazee/hyper-sfw) - Dropbox-like p2p file syncing built on Hypercore's new multiwriter Autobase.
 - [Are we distributed yet?](https://arewedistributedyet.com/) - Let's make peer-to-peer a first-class part of the web. ([Code](https://github.com/arewedistributedyet/arewedistributedyet))
 - [PyGrid](https://github.com/OpenMined/PyGrid) - Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science.
+- [MLDonkey](https://github.com/ygrek/mldonkey) - Cross-platform multi-network p2p daemon. ([Wiki](http://mldonkey.sourceforge.net/Main_Page))
+- [Tinfoil Chat](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.

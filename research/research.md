@@ -134,3 +134,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Writing good research code](https://github.com/patrickmineault/research_code)
 - [The Good Research Code Handbook](https://goodresearch.dev/) ([Code](https://github.com/patrickmineault/codebook))
 - [Hamming, "You and Your Research" (1995)](https://www.youtube.com/watch?v=a1zDuOPkMSw) ([Notes](https://spico197.github.io/posts/2021/09/hamming/))
+- [Google Research: Themes from 2021 and Beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)

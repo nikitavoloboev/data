@@ -1,6 +1,6 @@
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/) is great.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great.
 
 ## Notes
 

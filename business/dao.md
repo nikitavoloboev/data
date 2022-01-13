@@ -13,6 +13,7 @@
 - [Creating a DAO showcases how web3 can support methods of giving a voice to those who have been voiceless and/or discriminated against in the past.](https://twitter.com/WRLobkowicz/status/1461401594122182662)
 - [Would love to see a platform launch DAOs that don’t bother using crypto: LLC, buy membership via Stripe/Plaid, legally enforceable contracts, voting via web app + a proxy. We have all the tools to do it without massive gas fees and other problems right now.](https://twitter.com/tylertringas/status/1463134973473570819)
 - [Tezos, a blockchain that is self-amending with staking & on-chain governance, is an example of a large DAO. Bakers and delegates are (perhaps unwittingly) participants in a decentralized autonomous organization, with the shared goal of maintaining the protocol](https://twitter.com/mattdesl/status/1465334632388378636)
+- [A mistake I see DAO's making is asking for too big of a contribution, too early. Most bounties are too overwhelming for a new member. Instead, give members small ways (micro bounties?) to contribute and earn, and ease them into bigger commitments over time.](https://twitter.com/DavidSpinks/status/1480576604157870086)
 
 ## Links
 

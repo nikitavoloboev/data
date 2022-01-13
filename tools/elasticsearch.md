@@ -53,3 +53,4 @@
 - [elastiql](https://github.com/voxjar/elastiql) - Opinionated Elasticsearch query language for Rust.
 - [deno_es](https://github.com/jiawei397/deno_es) - Elastic Search database driver developed for Deno.
 - [apm-agent-go](https://github.com/elastic/apm-agent-go) - Official Go agent for Elastic APM.
+- [Entity Resolution with Opensearch/Elasticsearch (2022)](https://www.jocas.lt/blog/post/entity-resolution/)

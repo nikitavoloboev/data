@@ -644,6 +644,11 @@
 - [DocArray](https://github.com/jina-ai/docarray) - Library for nested, unstructured data such as text, image, audio, video, 3D mesh.
 - [Astro](https://github.com/astro-projects/astro) - Your new Airflow DAG writing experience.
 - [py-import-tree](https://github.com/hristo-vrigazov/py-import-tree) - Analyze the classes, functions, and the imports they use.
+- [GenMotion](https://github.com/yizhouzhao/GenMotion) - Python library for making skeletal animations.
+- [celluloid](https://github.com/jwkvam/celluloid) - Matplotlib animations made easy.
+- [python-asynchronous-tasks](https://github.com/vjanz/python-asynchronous-tasks) - Asynchronous tasks in Python with Celery + RabbitMQ + Redis.
+- [CircuitBreaker](https://github.com/fabfuel/circuitbreaker) - Python "Circuit Breaker" implementation.
+- [squarify](https://github.com/laserson/squarify) - Pure Python implementation of the squarify treemap layout algorithm.
 
 ## Links
 

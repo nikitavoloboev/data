@@ -79,3 +79,4 @@
 - [Ancestor](https://github.com/rescriptbr/ancestor) - UI primitives for ReScript and React.
 - [Reason Native UI Discord](https://discord.com/invite/UvQ2cFn)
 - [Rescript React Boilerplate](https://github.com/persianturtle/rescript-react-boilerplate)
+- [From TypeScript To ReScript (2022)](https://www.greyblake.com/blog/from-typescript-to-rescript/) ([HN](https://news.ycombinator.com/item?id=29903631))

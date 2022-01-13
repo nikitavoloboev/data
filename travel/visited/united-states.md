@@ -105,3 +105,5 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [America Can't Beat Omicron One Booster at a Time (2021)](https://www.theatlantic.com/health/archive/2021/12/america-omicron-variant-surge-booster/621027/) ([Tweet](https://twitter.com/edyong209/status/1474080740094717964))
 - [10 things I love about US](https://twitter.com/amasad/status/1475933656078114817)
 - [The American Dream is on Life Support in the Bay Area (2021)](https://hariraghavan.com/0090c2645d2f4cbda95cc6cdbeec46e3) ([Tweet](https://twitter.com/garrytan/status/1475865310527778823))
+- [Arcane Regulations Slow America's Energy Shift (2021)](https://austinvernon.site/blog/renewablesregulatory.html)
+- [Rural America is Gearing Up For a Generation of Change (2021)](https://austinvernon.site/blog/ruralfuture.html)

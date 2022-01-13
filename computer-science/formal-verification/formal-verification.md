@@ -110,3 +110,4 @@
 - [rzk](https://github.com/fizruk/rzk) - Prototype interactive proof assistant based on a type theory for synthetic ∞-categories.
 - [A Manifesto for Applicable Formal Methods (2021)](https://arxiv.org/abs/2112.12758v1)
 - [Autosubst OCaml](https://github.com/uds-psl/autosubst-ocaml) - OCaml reimplementation of the Autosubst 2 code generator.
+- [Using lightweight formal methods to validate a key-value storage node in Amazon S3 (2021)](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)

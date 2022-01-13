@@ -122,3 +122,4 @@
 - [Create Django App](https://github.com/imagineai/create-django-app)
 - [Django JWT Auth](https://github.com/webstack/django-jwt-auth) - JSON Web Token Authentication support for Django.
 - [Django Async Orm](https://github.com/rednaks/django-async-orm) - Django module that brings async to django ORM.
+- [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.

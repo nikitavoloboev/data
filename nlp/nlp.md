@@ -454,3 +454,4 @@
 - [Plug and Play Language Models: A Simple Approach to Controlled Text Generation (2020)](https://arxiv.org/abs/1912.02164) ([Code](https://github.com/uber-research/PPLM))
 - [RuDOLPH](https://github.com/sberbank-ai/ru-dolph) - One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP.
 - [PLM papers](https://github.com/wxl1999/PLMPapers) - Paper list of pre-trained language models (PLMs).
+- [Ongoing research training transformer language models at scale, including: BERT & GPT-2](https://github.com/bigscience-workshop/Megatron-DeepSpeed)

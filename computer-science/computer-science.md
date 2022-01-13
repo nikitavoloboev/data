@@ -170,3 +170,4 @@
 - [Computer Science and Programming curricula](https://github.com/P1xt/p1xt-guides)
 - [A Data-Centric Introduction to Computing (2021)](https://dcic-world.org/)
 - [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html) ([Notes](https://github.com/boazbk/tcs))
+- [Introduction to Model Predictive Control (2022)](https://arnavdhamija.com/2022/01/08/intro-to-mpc/)

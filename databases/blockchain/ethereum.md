@@ -441,3 +441,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [lil web3](https://github.com/m1guelpf/lil-web3) - Simple, intentionally-limited versions of web3 protocols & apps. ([Tweet](https://twitter.com/m1guelpf/status/1479095668174065669))
 - [ethereum-rs](https://github.com/rust-blockchain/ethereum) - Common Ethereum structs for Rust.
 - [MultiRaffle](https://github.com/Anish-Agnihotri/MultiRaffle) - Unaudited, unoptimized NFT distribution reference, implenting a randomized multi-winner raffle and randomized on-chain metadata generation.
+- [abi-to-sol](https://github.com/gnidan/abi-to-sol) - Generate Solidity interface from ABI JSON.
+- [Zora Auction House](https://github.com/ourzora/auction-house) - Open and permissionless system that allows any creator, community, platform or DAO to create and run their own curated auction houses.
+- [Forge Template](https://github.com/FrankieIsLost/forge-template) - Template for quickly getting started with forge.

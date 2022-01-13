@@ -396,6 +396,7 @@
 - [SwiftUICharts](https://github.com/willdale/SwiftUICharts) - Charts / plotting library for SwiftUI.
 - [HandySwiftUI](https://github.com/Flinesoft/HandySwiftUI) - Handy SwiftUI features that didn't make it into the SwiftUI.
 - [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+- [PackAPrefPane](https://github.com/W1W1-M/PackAPrefPane) - Reusable & customizable SwiftUI settings sheet as a Swift package.
 
 ## Test
 
@@ -906,6 +907,7 @@
 - [BluetoothWeb](https://github.com/PureSwift/BluetoothWeb) - Swift library for Bluetooth Web API (WebAssembly).
 - [EPUBKit](https://github.com/witekbobrowski/EPUBKit) - Simple Swift library for parsing EPUB documents.
 - [SVGPath](https://github.com/nicklockwood/SVGPath) - Cross-platform Swift library for parsing SVGPath strings.
+- [Datadog SDK for Swift testing](https://github.com/DataDog/dd-sdk-swift-testing)
 
 ## Other (not lib)
 

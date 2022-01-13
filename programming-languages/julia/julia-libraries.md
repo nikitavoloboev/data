@@ -419,6 +419,8 @@
 - [Modia.jl](https://github.com/ModiaSim/Modia.jl) - Modeling and simulation of multidomain engineering systems.
 - [WebSockets.jl](https://github.com/JuliaWeb/WebSockets.jl) - WebSockets library for Julia.
 - [Eyeball.jl](https://github.com/tshort/Eyeball.jl) - Object and type viewer for Julia.
+- [GeoMakie](https://github.com/JuliaPlots/GeoMakie.jl) - Geographical plotting utilities for Makie.jl.
+- [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl) - Convert Pluto notebooks to pure HTML.
 
 ## Links
 

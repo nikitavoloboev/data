@@ -112,6 +112,7 @@
 
 - [Lumen 2D](https://github.com/Domenicobrz/Lumen-2D) - 2D javascript renderer using web workers.
 - [Blurry](https://github.com/Domenicobrz/Blurry) - Simulating depth of field with particles on a shader.
+- [Window.js](https://github.com/windowjs/windowjs) - Open-source JavaScript runtime for desktop graphics programming. ([HN](https://news.ycombinator.com/item?id=29874029))
 
 ## State management
 
@@ -742,6 +743,10 @@
 - [Polyglot.js](https://github.com/airbnb/polyglot.js) - Give your JavaScript the ability to speak many languages.
 - [merge-images](https://github.com/lukechilds/merge-images) - Easily compose images together without messing around with canvas.
 - [Faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js.
+- [FxJS](https://github.com/marpple/FxJS) - Functional Extensions for JavaScript.
+- [dequal](https://github.com/lukeed/dequal) - Tiny utility to check for deep equality.
+- [bin-wrapper](https://github.com/kevva/bin-wrapper) - Binary wrapper that makes your programs seamlessly available as local dependencies.
+- [base2048](https://github.com/qntm/base2048) - Binary encoding optimized for transmitting data through Twitter.
 
 ## Links
 
@@ -782,3 +787,4 @@
 - [Packemon](https://github.com/milesj/packemon) - Build and prepare packages for npm distribution using standardized configurations and practices. ([Docs](https://packemon.dev/docs/))
 - [Top 1000 most depended-upon npm packages](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 - [pkg-size](https://github.com/pkg-size/pkg-size) - Measure the size of your npm package distribution.
+- [NPM Packages - The Right way](https://github.com/VulcanJS/npm-the-right-way) - Demonstrate how to build NPM packages the right way.

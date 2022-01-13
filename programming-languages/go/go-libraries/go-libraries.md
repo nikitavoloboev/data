@@ -58,6 +58,7 @@
 - [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cli](https://github.com/mkideal/cli) - Package for building command line app with go.
 - [prompter](https://github.com/Songmu/prompter) - Go utility for easy prompting.
+- [mango](https://github.com/muesli/mango) - man-page generator for the Go flag, pflag, and cobra packages.
 
 ## Test
 
@@ -243,6 +244,7 @@
 - [Truss](https://github.com/metaverse/truss) - Helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
 - [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [Flow](https://github.com/alexedwards/flow) - Delightfully simple, readable, and tiny HTTP router for Go web applications.
+- [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces.
 
 ## GraphQL
 
@@ -1239,6 +1241,8 @@
 - [fieldalignment](https://pkg.go.dev/golang.org/x/tools/go/analysis/passes/fieldalignment) - Defines an Analyzer that detects structs that would use less memory if their fields were sorted.
 - [jscan](https://github.com/romshark/jscan) - High performance JSON iterator for Go.
 - [llparser](https://github.com/romshark/llparser) - Universal LL top-down parser written in Go.
+- [JsonDiff](https://github.com/nsf/jsondiff)
+- [GoLLRB](https://github.com/petar/GoLLRB) - Left-Leaning Red-Black (LLRB) implementation of balanced binary search trees for Go.
 
 ## Links
 
@@ -1278,3 +1282,5 @@
 - [Recommendation for Key/Value storage in Go](https://www.reddit.com/r/golang/comments/rrccjq/recommendation_for_keyvalue_storage/)
 - [gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go code.
 - [goesgen](https://github.com/romshark/goesgen) - Go code generator for event-sourced systems.
+- [gocap](https://github.com/cugu/gocap) - List your dependencies capabilities and monitor if updates require more capabilities.
+- [Go Clean template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Go services.

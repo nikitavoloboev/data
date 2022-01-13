@@ -204,6 +204,7 @@
       - [Django](programming-languages/python/python-libraries/django.md)
       - [NumPy](programming-languages/python/python-libraries/numpy.md)
       - [Dask](programming-languages/python/python-libraries/dask.md)
+      - [FastAPI](programming-languages/python/python-libraries/fastapi.md)
   - [Swift](programming-languages/swift/swift.md)
     - [Swift libraries](programming-languages/swift/swift-libraries/swift-libraries.md)
       - [SwiftUI](programming-languages/swift/swift-libraries/swiftui.md)

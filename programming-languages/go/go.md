@@ -685,5 +685,5 @@ if err != nil {
 - [Effective Error Handling in Golang (2022)](https://earthly.dev/blog/golang-errors/) ([Reddit](https://www.reddit.com/r/golang/comments/rybiyq/effective_error_handling_in_golang/))
 - [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=GOLANGROCKS) ([Reddit](https://www.reddit.com/r/golang/comments/rz0bjz/learn_programming_with_go_one_game_at_a_time/))
 - [Saving a Third of Our Memory by Re-ordering Go Struct Fields (2020)](https://wagslane.dev/posts/go-struct-ordering/) ([Lobsters](https://lobste.rs/s/oxtpfw/saving_third_our_memory_by_re_ordering_go)) ([Reddit](https://www.reddit.com/r/golang/comments/rzosnd/saving_a_third_of_our_memory_by_reordering_go/)) ([HN](https://news.ycombinator.com/item?id=29850028))
-- [GoGCTuner brought CPU utilisation down ~50% (2021)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
+- [Large-scale, semi-automated Go GC tuning (2020)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) ([HN](https://news.ycombinator.com/item?id=29902825))
 - [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)

@@ -147,3 +147,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: How to find a job in 2021 if I dislike remote? (2021)](https://news.ycombinator.com/item?id=29711622)
 - [Ask HN: If not fresh out of college, what did you do to join a FAANG? (2021)](https://news.ycombinator.com/item?id=29750353)
 - [Good Product Based Companies & Startups](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Contains the list of companies (more than FAANG) which you can join.
+- [Ask HN: Do you have to use LinkedIn to get hired? (2022)](https://news.ycombinator.com/item?id=29906328)

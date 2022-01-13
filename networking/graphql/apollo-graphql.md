@@ -30,3 +30,4 @@
 - [Jotai Apollo](https://github.com/Aslemammad/jotai-apollo) - Apollo graphql client integration for jotai.
 - [Absinthe and Apollo Sockets](https://github.com/easco/absinthe_apollo_sockets) - Use the Apollo Websocket protocol to drive Absinthe GraphQL functionality.
 - [Tutorial for HowToGraphQL with Typescript, Apollo-Server, Nexus and Prisma](https://github.com/howtographql/typescript-apollo)
+- [apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client) - Terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request.
