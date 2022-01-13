@@ -649,6 +649,7 @@
 - [python-asynchronous-tasks](https://github.com/vjanz/python-asynchronous-tasks) - Asynchronous tasks in Python with Celery + RabbitMQ + Redis.
 - [CircuitBreaker](https://github.com/fabfuel/circuitbreaker) - Python "Circuit Breaker" implementation.
 - [squarify](https://github.com/laserson/squarify) - Pure Python implementation of the squarify treemap layout algorithm.
+- [bitarray](https://github.com/ilanschnell/bitarray) - Efficient arrays of booleans.
 
 ## Links
 

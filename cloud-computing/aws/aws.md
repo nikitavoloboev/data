@@ -277,3 +277,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Serverless SaaS Workshop](https://github.com/aws-samples/aws-serverless-saas-workshop)
 - [Publications - Amazon Science](https://www.amazon.science/publications/)
 - [Amazon Science](https://www.amazon.science/)
+- [AWS SSO CLI](https://github.com/synfinatic/aws-sso-cli) - Powerful tool for using AWS SSO for the CLI and web console.
