@@ -17,3 +17,5 @@
 - [vite-plugin-import-build](https://github.com/brillout/vite-plugin-import-build) - Make `dist/` paths statically analysable. E.g. for bundling for Cloudflare Workers.
 - [vite-plugin-remove-exports](https://github.com/egoist/vite-plugin-remove-exports) - Vite plugin to remove certain exports.
 - [go-vite](https://github.com/icyphox/go-vite) - Vite, but in Go.
+- [vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - Image Presets for Vite.js apps.
+- [A Rubyist's Guide to Vite.js (2021)](https://maximomussini.com/posts/a-rubyist-guide-to-vite-js/)

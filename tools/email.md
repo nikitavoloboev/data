@@ -210,3 +210,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Mailwind](https://github.com/soheilpro/mailwind) - Tailwind CSS for HTML emails.
 - [PostSheet](https://postsheet.com/) - No-code email and SMS service.
 - [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/) ([HN](https://news.ycombinator.com/item?id=29869266))
+- [Crabmail](https://github.com/alexwennerberg/crabmail) - Static mail HTML archive for the 21st century, written in Rust.

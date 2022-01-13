@@ -99,3 +99,4 @@
 - [Serverless - AWS Node.js Typescript](https://github.com/agwhi/serverless-cqrs-template)
 - [AWS Lambda Powertools TypeScript](https://github.com/awslabs/aws-lambda-powertools-typescript) - Suite of TypeScript utilities for AWS Lambda functions to ease adopting best practices such as tracing, structured logging, custom metrics, and more.
 - [Lambda-less outbound HTTP requests on AWS serverless (2022)](https://dev.to/aws-builders/lambda-less-outbound-http-requests-on-aws-serverless-41mf)
+- [AWS Lambda TS Example](https://github.com/Envek/aws-sam-typescript-layers-example)

@@ -22,3 +22,4 @@
 - [Image Super-resolution with ruDALL-E](https://github.com/CJWBW/rudalle-sr) -
 - [Wordle Russian](https://wordle.belousov.one/)
 - [Iuliia](https://iuliia.ru/) - Transliterate Cyrillic → Latin in every possible way. ([Code](https://github.com/nalgeon/iuliia-js))
+- [summarus](https://github.com/IlyaGusev/summarus) - Abstractive and extractive summarization models, mostly for Russian language. Building on top of AllenNLP.

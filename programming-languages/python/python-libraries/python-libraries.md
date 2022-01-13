@@ -650,6 +650,7 @@
 - [CircuitBreaker](https://github.com/fabfuel/circuitbreaker) - Python "Circuit Breaker" implementation.
 - [squarify](https://github.com/laserson/squarify) - Pure Python implementation of the squarify treemap layout algorithm.
 - [bitarray](https://github.com/ilanschnell/bitarray) - Efficient arrays of booleans.
+- [cached-property](https://github.com/pydanny/cached-property) - Decorator for caching properties in classes.
 
 ## Links
 

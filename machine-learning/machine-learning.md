@@ -654,3 +654,5 @@
 - [Permutation Invariance, DeepSets and Universal Function Approximation](https://fabianfuchsml.github.io/permutationinvariance/)
 - [Review: Deep Learning on Sets](https://fabianfuchsml.github.io/learningonsets/)
 - [Contrastive Self-Supervised Learning (2020)](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
+- [Top AI Conference Papers with Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code)
+- [Awesome Deep Learning papers for industrial Search, Recommendation and Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)

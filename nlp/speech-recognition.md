@@ -96,3 +96,4 @@
 - [CAT: Crf-based Asr Toolkit](https://github.com/thu-spmi/CAT) - Complete workflow for CRF-based data-efficient end-to-end speech recognition.
 - [Neural HMMs are all you need (for high-quality attention-free TTS) (2022)](https://arxiv.org/abs/2108.13320) ([Code](https://github.com/shivammehta007/Neural-HMM))
 - [End-to-End Speech Translation Progress](https://github.com/kahne/SpeechTransProgress) - Tracking the progress in end-to-end speech translation.
+- [EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture (2020)](https://arxiv.org/abs/2012.03500) ([Code](https://github.com/liusongxiang/efficient_tts))

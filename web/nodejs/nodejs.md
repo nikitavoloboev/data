@@ -309,3 +309,4 @@
 - [Youch](https://github.com/poppinss/youch) - Pretty error reporting for Node.js.
 - [rust-nodejs](https://github.com/patr0nus/rust-nodejs) - Embedding Node.js in Rust.
 - [Node.js Technical Steering Committee](https://github.com/nodejs/TSC)
+- [Debugging Node.js Libraries (2021)](https://maximomussini.com/posts/debugging-javascript-libraries/)

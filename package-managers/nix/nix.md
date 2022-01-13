@@ -279,3 +279,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust.
 - [direnv-nix-lorelei](https://github.com/shajra/direnv-nix-lorelei) - Alternative Nix extension of Direnv.
 - [nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable JSON output.
+- [go-nix](https://github.com/numtide/go-nix) - Nix experiments written in go.
