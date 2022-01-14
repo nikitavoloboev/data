@@ -176,3 +176,4 @@
 - [iodine](https://github.com/yarrick/iodine) - Tunnel IPv4 data through a DNS server. ([Web](https://code.kryo.se/iodine/))
 - [encrypted-dns-configs](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS over HTTPS and DNS over TLS.
 - [How to find a domain's authoritative nameservers (2022)](https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/) ([HN](https://news.ycombinator.com/item?id=29891617))
+- [Cloudflare DDNS](https://github.com/favonia/cloudflare-ddns) - Small and fast DDNS updater for Cloudflare.
