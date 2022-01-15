@@ -41,3 +41,4 @@
 - [dxcfg](https://github.com/dxcfg/dxcfg) - Configuration as code tooling for the masses. Opinionated port of jkcfg API to deno.
 - [Heptagon of Configuration (2019)](https://matt-rickard.com/heptagon-of-configuration/?s=09)
 - [Itamae](https://github.com/itamae-kitchen/itamae) - Simple and lightweight configuration management tool inspired by Chef.
+- [Rubric](https://github.com/rednafi/rubric) - Linter Config Initialization for Python.

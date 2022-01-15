@@ -312,3 +312,4 @@
 - [Documenting APIs](https://idratherbewriting.com/learnapidoc/) ([HN](https://news.ycombinator.com/item?id=29849822))
 - [OpenAPI boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - Multi-file boilerplate for Open API Specification.
 - [dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go.
+- [Hook Slinger](https://github.com/rednafi/hook-slinger) - Generic service to send, retry, and manage webhooks.

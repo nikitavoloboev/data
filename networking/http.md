@@ -191,3 +191,4 @@
 - [Should you use Let’s Encrypt for internal hostnames? (2022)](https://shkspr.mobi/blog/2022/01/should-you-use-lets-encrypt-for-internal-hostnames/) ([Lobsters](https://lobste.rs/s/q9jb95/should_you_use_let_s_encrypt_for_internal))
 - [broadcast](https://github.com/schollz/broadcast) - Simple Go server that broadcasts any data/stream.
 - [Don’t mix URL parsers (2022)](https://daniel.haxx.se/blog/2022/01/10/dont-mix-url-parsers/) ([Lobsters](https://lobste.rs/s/3ipvbh/don_t_mix_url_parsers))
+- [serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.

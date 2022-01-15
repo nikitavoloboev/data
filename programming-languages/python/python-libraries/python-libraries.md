@@ -653,6 +653,7 @@
 - [cached-property](https://github.com/pydanny/cached-property) - Decorator for caching properties in classes.
 - [PyJulia](https://github.com/JuliaPy/pyjulia) - Python interface to Julia.
 - [pyhash](https://github.com/flier/pyfasthash) - Python Non-cryptographic Hash Library.
+- [trycast](https://github.com/davidfstr/trycast) - Parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
 
 ## Links
 

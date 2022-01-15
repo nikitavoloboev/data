@@ -413,3 +413,8 @@ for i, _ in enumerate(nums):
 - [Scientific Computing with Python Book](https://www.packtpub.com/product/scientific-computing-with-python-second-edition/9781838822323)
 - [Python Launcher for Unix](https://github.com/brettcannon/python-launcher) - Launch your Python interpreter the lazy/smart way.
 - [Static Typing with Python Docs](https://typing.readthedocs.io/en/latest/) ([Code](https://github.com/python/typing))
+- [Redowan's Reflections on Python](https://rednafi.github.io/reflections/) ([Code](https://github.com/rednafi/reflections))
+- [Interfaces, Mixins and Building Powerful Custom Data Structures in Python (2020)](https://rednafi.github.io/digressions/python/2020/07/03/python-mixins.html)
+- [Implementing Proxy Pattern in Python (2020)](https://rednafi.github.io/digressions/python/2020/06/16/python-proxy-pattern.html)
+- [Deciphering Python’s Metaclasses (2020)](https://rednafi.github.io/digressions/python/2020/06/26/python-metaclasses.html)
+- [Exploring Cooperative Concurrency Primitives in Python](https://github.com/rednafi/think-async)
