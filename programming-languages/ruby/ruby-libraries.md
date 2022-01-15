@@ -40,6 +40,7 @@
 - [unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source.
 - [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby. ([Web](https://sidekiq.org/))
 - [Polyphony](https://github.com/digital-fabric/polyphony) - Fine-Grained Concurrency for Ruby. ([Signal handling in concurrent apps with Ruby and Polyphony](https://noteflakes.com/articles/2021-11-23-signal-handling))
+- [ValueSemantics](https://github.com/tomdalling/value_semantics) - Gem for making value classes, with lightweight validation and coercion.
 
 ## Links
 

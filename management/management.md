@@ -179,3 +179,4 @@
 - [Inspection and the limits of trust](https://lethain.com/inspection/)
 - [Hunting Tech Debt via Org Charts (2021)](https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145)
 - [Know how your org works (or how to become a more effective engineer) (2022)](https://copyconstruct.medium.com/know-how-your-org-works-or-how-to-become-a-more-effective-engineer-1a3287d1f58d)
+- [Cost of Attrition (2022)](https://benjiweber.co.uk/blog/2022/01/12/cost-of-attrition/) ([HN](https://news.ycombinator.com/item?id=29923310))

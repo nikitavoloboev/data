@@ -675,4 +675,6 @@
 - [How Bevy uses Rust traits for labeling (2022)](https://deterministic.space/bevy-labels.html)
 - [Grids in Rust, part 1: nested vs. flat Vecs (2021)](https://blog.adamchalmers.com/grids-1/)
 - [Async Rust in Practice: Performance, Pitfalls, Profiling (2022)](https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/) ([HN](https://news.ycombinator.com/item?id=29911141))
-- [Why I use a debugger (2022)](http://blog.pnkfx.org/blog/2022/01/10/why-i-use-a-debugger/)
+- [Why I use a debugger (2022)](http://blog.pnkfx.org/blog/2022/01/10/why-i-use-a-debugger/) ([HN](https://news.ycombinator.com/item?id=29923007))
+- [Format Strings in Rust 1.58 (2022)](https://www.rustnote.com/blog/format_strings.html) ([HN](https://news.ycombinator.com/item?id=29931884)) ([Reddit](https://www.reddit.com/r/rust/comments/s3dytd/i_got_so_excited_by_rusts_new_format_strings_in/))
+- [Rustnote](https://www.rustnote.com/rustnote.html) - My personal notes for Rust built with mdbook.

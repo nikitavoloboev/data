@@ -102,3 +102,4 @@
 - [Falcon](https://github.com/falconre/falcon) - Binary Analysis Framework in Rust.
 - [Finch](https://github.com/falconre/finch) - Symbolic Executor over Falcon IL. If it lifts to Falcon IL, it symbolically executes with Finch.
 - [Nintendo Switch reverse engineering attempts](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering)
+- [radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language.

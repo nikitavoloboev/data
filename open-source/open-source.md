@@ -28,6 +28,7 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Always credit the work from which you copied or got inspired greatly from in readme. Lets users of your project that it's a fork and ideally keep the previous git history of forked project too.](https://news.ycombinator.com/item?id=28659838)
 - [Release Early, Release Often](https://lobste.rs/s/gqbpwd/release_early_release_often)
 - [Ember's successful oss project management: 1. RFCs for design. 2. Canary, beta, and release stability branches. 3. LTS releases for community coordination and cadence management. 4. Major releases that don't add new features by design. 5. Backwards-compatible editions to consolidate changes for documentation and communication.](https://twitter.com/wycats/status/1463210573936558082)
+- [Tip for open source maintainers: you can often convert questions about your library into documentation. It usually goes like this: 1. Someone opens an issue/asks a question. 2. I address this by updating the docs. 3. Link the update to the person, ask them for feedback. Also works for internal projects.](https://twitter.com/elias_era/status/1481933779186900997)
 
 ## Links
 

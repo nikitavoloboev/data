@@ -190,6 +190,7 @@
 - [Basenine](https://github.com/up9inc/basenine) - Schema-free, document-oriented streaming database that optimized for monitoring network traffic in real-time.
 - [MeerkatDB](https://github.com/meerkatdb/meerkat) - Distributed append-only (no UPDATE/DELETE support) eventual consistent columnar storage for events and timeseries.
 - [OpenMLDB](https://github.com/4paradigm/OpenMLDB) - Open-source machine learning database that provides a full-stack FeatureOps solution for enterprises.
+- [Google F1](https://dbdb.io/db/google-f1) - Distributed transactional database. Built on Google's Spanner so that it can reach strong consistency. ([Paper](https://research.google/pubs/pub41344/))
 
 ## Tools
 

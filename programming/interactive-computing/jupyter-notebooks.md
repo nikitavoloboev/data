@@ -171,3 +171,4 @@
 - [Poetry Kernel](https://github.com/pathbird/poetry-kernel) - Python Jupyter kernel using Poetry for reproducible notebooks. ([HN](https://news.ycombinator.com/item?id=29667453))
 - [datadesk/notebooks](https://github.com/datadesk/notebooks) - All 38 of our computational notebooks.
 - [Release of IPython 8.0](https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef) ([HN](https://news.ycombinator.com/item?id=29906774))
+- [Mercury](https://github.com/mljar/mercury) - Easily convert Python notebook to web app and share with others.

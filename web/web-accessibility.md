@@ -88,3 +88,4 @@
 - [Small Wins for Accessibility and Resilience (2021)](https://www.callumhart.com/blog/small-wins-for-accessibility-and-resilience/)
 - [Auditing React Apps for Accessibility (2021)](https://egghead.io/courses/auditing-react-apps-for-accessibility-08733265)
 - [a11y-components](https://github.com/t12t/a11y-components)
+- [ally.js](https://github.com/medialize/ally.js) - JavaScript library to help modern web applications with accessibility concerns. ([Docs](https://allyjs.io/))

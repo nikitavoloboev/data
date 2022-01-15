@@ -44,3 +44,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [2021 Favorites: TV](https://sixcolors.com/post/2021/12/2021-favorites-tv/)
 - [Streaming Availability API](https://www.movieofthenight.com/about/api) - API to query catalogs of 20 streaming services across 60 countries. ([HN](https://news.ycombinator.com/item?id=29862588))
 - [What’s a great but underrated TV show?](https://www.reddit.com/r/AskWomen/comments/s1l1f3/whats_a_great_but_underrated_tv_show/)
+- [Российские сериалы последних лет которые стоит посмотреть (2022)](https://twitter.com/polina_txt/status/1481557960476270592)

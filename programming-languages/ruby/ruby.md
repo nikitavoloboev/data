@@ -103,3 +103,4 @@
 - [Natalie](https://github.com/seven1m/natalie) - Unique Ruby implementation, compiled to C++. ([Web](https://natalie-lang.org/)) ([HN](https://news.ycombinator.com/item?id=29660883))
 - [Ruby 3.1 (2021)](https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/) ([HN](https://news.ycombinator.com/item?id=29682920)) ([Lobsters](https://lobste.rs/s/ssmdf4/ruby_3_1_0_released))
 - [Ruby: How to Run a Rack app in a Background Thread (2022)](https://www.johnnunemaker.com/ruby-rack-background-thread/)
+- [Ruby Structs (2021)](https://www.alchemists.io/articles/ruby_structs/) ([Lobsters](https://lobste.rs/s/ct0tpf/ruby_structs))

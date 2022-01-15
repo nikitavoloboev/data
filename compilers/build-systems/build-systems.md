@@ -91,3 +91,4 @@
 - [Bob](https://github.com/benchkram/bob) - Build system, a task runner as well as tooling for Git Multi-repos, all bundled into a single binary.
 - [My collection of CMake modules](https://github.com/rpavlik/cmake-modules)
 - [buildevents](https://github.com/honeycombio/buildevents) - Helper to generate Honeycomb traces from CI builds.
+- [Turtle](https://github.com/raviqqe/turtle-build) - Ninja build system clone in Rust.

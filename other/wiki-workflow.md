@@ -183,6 +183,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Brandon's Digital Garden](https://wiki.brandontoner.ca/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
+- [Allen Lee](https://www.haskell.computer/) ([Code](https://github.com/ale0sx/brains))
 - [Keyvan Akbary's Notes](https://keyvanakbary.github.io/learning-notes/) ([Code](https://github.com/keyvanakbary/learning-notes))
 - [Wojciech Matuszewski](https://github.com/WojciechMatuszewski/programming-notes)
 - [Eduardo Julian's bookmarks](https://github.com/LuxLang/lux/tree/master/documentation/bookmark)

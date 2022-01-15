@@ -327,3 +327,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [It is difficult for the average person to conceive of how useless NFTs are](https://twitter.com/HoldenShearer/status/1480312592803446790) ([HN](https://news.ycombinator.com/item?id=29872961))
 - [Crust Network](https://crust.network/) - Web3.0 Storage for Metaverse. ([Code](https://github.com/crustio/crust)) ([GitHub](https://github.com/crustio))
 - [celestia-app](https://github.com/celestiaorg/celestia-app) - PoS chain powered by lazyledger-core, the cosmos-sdk, and starport.
+- [It’s not still the early days of blockchain (2022)](https://blog.mollywhite.net/its-not-still-the-early-days/) ([HN](https://news.ycombinator.com/item?id=29943733))

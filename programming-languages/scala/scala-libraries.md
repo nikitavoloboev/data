@@ -143,6 +143,7 @@
 - [Breeze](https://github.com/scalanlp/breeze) - Numerical processing library for Scala.
 - [Scala Yaml](https://github.com/VirtusLab/scala-yaml) - Dependency-free library that allows to work with the YAML.
 - [Parsel](https://github.com/jeremyrsmith/parsel) - Zero-dependency Scala library for working with Python code.
+- [ZIO logging](https://github.com/zio/zio-logging) - Simple logging for ZIO apps, with correlation, context & pluggable backends out of the box.
 
 ## Links
 

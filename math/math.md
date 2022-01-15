@@ -330,3 +330,4 @@
 - [Algebra Notes](https://github.com/NicoCourts/Algebra)
 - [Path to a free self-taught education in Mathematics](https://github.com/ossu/math)
 - [Ask HN: I suck at math, where to start? (2022)](https://news.ycombinator.com/item?id=29905554)
+- [Krater](https://github.com/paolobrasolin/krater) - Template to start building math-rich websites effortlessly. ([Fork](https://github.com/jonsterling/math))

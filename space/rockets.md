@@ -18,3 +18,4 @@
 - [Basic Rocket Science: Sub-Orbital Versus Orbital](https://blogs.scientificamerican.com/life-unbounded/basic-rocket-science-sub-orbital-versus-orbital/)
 - [Starship is still not understood (2021)](https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/) ([HN](https://news.ycombinator.com/item?id=29025020))
 - [The Entire History of Soviet Rocket Engines](https://everydayastronaut.com/soviet-rocket-engines/) ([HN](https://news.ycombinator.com/item?id=29359038))
+- [Engine cooling – why rocket engines don’t melt (2022)](https://everydayastronaut.com/engine-cooling-methodes/) ([HN](https://news.ycombinator.com/item?id=29922002))

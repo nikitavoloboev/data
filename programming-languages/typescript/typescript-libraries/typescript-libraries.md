@@ -288,6 +288,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [spectacles-ts](https://github.com/anthonyjoeseph/spectacles-ts) - Practical Optics • Unfancy monocle-ts.
 - [Falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 - [SDF-2D](https://github.com/schmelczerandras/sdf-2d) - Graphics library to enable the real-time rendering of 2D signed distance fields on the web.
+- [Tsconfig Type](https://github.com/harrysolovay/tsconfig-type) - Always up-to-date tsconfig.json type, transformed from its JSON Schema Store definition.
+- [aribb24](https://github.com/monyone/aribb24.js) - HTML5 subtitle renderer.
 
 ## Links
 

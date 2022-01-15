@@ -16,6 +16,7 @@
 ## Test
 
 - [ReScriptTest](https://github.com/bloodyowl/rescript-test) - Lightweight test framework for ReScript.
+- [inline-test-ppx](https://github.com/dialohq/inline-test-ppx) - Write inline tests in ReScript, a ppx extension.
 
 ## Other
 
@@ -31,7 +32,9 @@
 - [Relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
 - [rescript-webapi](https://github.com/tinymce/rescript-webapi) - ReScript bindings to the DOM and other Web APIs.
 - [rescript-libs](https://github.com/ri7nz/rescript-libs) - Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
+- [Jzon](https://github.com/nkrkv/jzon) - ReScript library to encode and decode JSON data with type safety.
 
 ## Links
 
 - [Redex](https://redex.github.io/) - Reason Package Index.
+- [Awesome ReScript](https://github.com/fhammerschmidt/awesome-rescript)

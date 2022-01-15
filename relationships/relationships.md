@@ -149,3 +149,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Romantic movie to watch with my girlfriend, to remind us how much love matters in life](https://www.reddit.com/r/MovieSuggestions/comments/ra1a5b/i_need_a_true_romantic_movie_to_watch_with_my/)
 - [A movie for someone grieving after a break up](https://www.reddit.com/r/MovieSuggestions/comments/rmgs11/a_movie_for_someone_grieving_after_a_break_up/)
 - [Почему в обществе так порицаются «измены»?](https://twitter.com/abrams_lera/status/1473978152309428224)
+- [Как находить друзей (во взрослом возрасте)](https://www.youtube.com/watch?v=IGLz2lbGqJ4)

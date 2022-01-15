@@ -114,3 +114,8 @@
 - [portal](https://github.com/MilesMcBain/portal) - Move R datasets between local sessions.
 - [flow](https://github.com/moodymudskipper/flow) - View and Browse Code Using Flow Diagrams.
 - [Rex](https://github.com/kevinushey/rex) - Friendly regular expressions for R.
+- [Autoinst](https://github.com/jimhester/autoinst) - Automatically install packages when they are missing.
+- [lintr](https://github.com/r-lib/lintr) - Static code analysis for R.
+- [covr](https://github.com/r-lib/covr) - Test coverage reports for R.
+- [cpp11](https://github.com/r-lib/cpp11) - Helps you to interact with R objects using C++ code.
+- [vroom](https://github.com/r-lib/vroom) - Fastest delimited reader for R.

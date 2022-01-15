@@ -532,3 +532,5 @@
 - [Rethinking Nearest Neighbors for Visual Classification (2021)](https://arxiv.org/abs/2112.08459) ([Code](https://github.com/KMnP/nn-revisit))
 - [Vision Transformer with Deformable Attention (2022)](https://arxiv.org/abs/2201.00520) ([Code](https://github.com/LeapLabTHU/DAT))
 - [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras.
+- [Instant Neural Graphics Primitives](https://github.com/NVlabs/instant-ngp) - Lightning fast NeRF and more.
+- [Dynamic Head: Unifying Object Detection Heads with Attentions (2021)](https://arxiv.org/abs/2106.08322) ([Code](https://github.com/microsoft/DynamicHead))

@@ -291,3 +291,4 @@
 - [ccls](https://github.com/MaskRay/ccls) - C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting.
 - [20 Smaller yet Handy C++20 Features (2022)](https://www.cppstories.com/2022/20-smaller-cpp20-features/) ([Lobsters](https://lobste.rs/s/rpnnzp/20_smaller_yet_handy_c_20_features))
 - [“Modern” C++ Lamentations (2018)](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/) ([HN](https://news.ycombinator.com/item?id=29898955))
+- [We used C++20 to eliminate an entire class of runtime bugs (2022)](https://devblogs.microsoft.com/cppblog/how-we-used-cpp20-to-eliminate-an-entire-class-of-runtime-bugs/) ([HN](https://news.ycombinator.com/item?id=29933865))

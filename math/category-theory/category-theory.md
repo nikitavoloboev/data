@@ -56,7 +56,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Ecats](https://github.com/mbernat/ecats) - Editor for category theory.
 - [Lambda World 2019 - A categorical view of computational effects - Emily Riehl](https://www.youtube.com/watch?v=Ssx2_JKpB3U)
 - [Theoretical Computer Science for the Working Category Theorist](http://www.sci.brooklyn.cuny.edu/~noson/TCStext.html)
-- [Notes on Applied Category Theory (2018)](https://www.math3ma.com/blog/notes-on-act)
+- [Notes on Applied Category Theory (2018)](https://www.math3ma.com/blog/notes-on-act)
 - [Applied Category Theory MIT lectures (2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 - [Categorical Logic Notes](https://github.com/awodey/CatLogNotes)
 - [Programming with Categories lectures (2020)](https://www.youtube.com/watch?v=NUBEB9QlNCM)
@@ -141,6 +141,9 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Recommended resources for learning category theory / Haskell (2021)](https://www.reddit.com/r/haskell/comments/rrpnoy/recommended_resources_for_learning_category/)
 - [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) ([HN](https://news.ycombinator.com/item?id=29734482))
 - [Learn Applied Category Theory! (2021)](https://johncarlosbaez.wordpress.com/2021/10/27/learn-act/)
+- [Cauchy complete category](http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Cauchy+complete+category)
+- [Cauchy completion in category theory - Scott Johnson (1993)](https://twitter.com/monsoon0/status/1481739590063239168)
+- [Foundations of Relative Category Theory](http://www.jonmsterling.com/math/lectures/categorical-foundations.html)
 
 ## Images
 

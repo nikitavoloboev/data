@@ -171,3 +171,5 @@
 - [Svelte Router](https://github.com/DanielSharkov/svelte-router) - Simple and easy to use svelte router.
 - [Template for building basic applications with Svelte](https://github.com/sveltejs/template)
 - [Svelte Vite TailwindCSS Template](https://github.com/Lukem121/svelte-vite-tailwind-template)
+- [Accelerating Svelte's Development (2022)](https://svelte.dev/blog/accelerating-sveltes-development)
+- [svelte-jester](https://github.com/mihar-22/svelte-jester) - Jest transformer for Svelte - compile your components before importing them into tests.

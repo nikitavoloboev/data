@@ -219,6 +219,7 @@
 - [Practical Functional Programming with Typescript workshop](https://github.com/Matechs-Garage/practical-fp-in-ts-oct-21)
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [Template for a TypeScript Language Service Plugin](https://github.com/orta/TypeScript-TSServer-Plugin-Template)
+- [ts-browser](https://github.com/harrysolovay/ts-browser) - Zero-config TypeScript compilation for web browsers.
 
 ## Images
 

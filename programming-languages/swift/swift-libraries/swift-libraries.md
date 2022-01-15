@@ -397,6 +397,7 @@
 - [HandySwiftUI](https://github.com/Flinesoft/HandySwiftUI) - Handy SwiftUI features that didn't make it into the SwiftUI.
 - [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 - [PackAPrefPane](https://github.com/W1W1-M/PackAPrefPane) - Reusable & customizable SwiftUI settings sheet as a Swift package.
+- [Colorful](https://github.com/Co2333/Colorful) - SwiftUI implementation of AppleCard's animated colorful blur background.
 
 ## Test
 
@@ -946,3 +947,4 @@
 - [Web API Client in Swift (2021)](https://kean.blog/post/new-api-client) ([Code](https://github.com/kean/APIClient))
 - [Create API](https://github.com/kean/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 - [CloudKit Samples: Sharing](https://github.com/apple/cloudkit-sample-sharing)
+- [Microapps architecture in Swift. SPM basics. (2022)](https://swiftwithmajid.com/2022/01/12/microapps-architecture-in-swift-spm-basics/)

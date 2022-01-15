@@ -444,3 +444,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [abi-to-sol](https://github.com/gnidan/abi-to-sol) - Generate Solidity interface from ABI JSON.
 - [Zora Auction House](https://github.com/ourzora/auction-house) - Open and permissionless system that allows any creator, community, platform or DAO to create and run their own curated auction houses.
 - [Forge Template](https://github.com/FrankieIsLost/forge-template) - Template for quickly getting started with forge.
+- [Tornado Pool](https://github.com/tornadocash/tornado-nova) - Experimental version of tornado.cash that allows to deposit arbitrary amounts and make internal(shielded) transfers.
+- [cairopal](https://github.com/abigger87/cairopal) - Modern, Flexible Starknet Dapp Template.
+- [EVM Codes](https://www.evm.codes/) - Interactive reference to Ethereum Virtual Machine Opcodes. ([Code](https://github.com/comitylabs/evm.codes)) ([Article](https://tairasim.com/evm-codes/))

@@ -281,3 +281,4 @@
 - [Converting a React component to TypeScript (2021)](https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl)
 - [Agrippa](https://github.com/NitzanHen/agrippa) - React CLI for component generation.
 - [Awesome React Headless Components](https://github.com/jxom/awesome-react-headless-components)
+- [preactement](https://github.com/jhukdev/preactement) - Create a custom element from any Preact component.

@@ -86,3 +86,4 @@
 - [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery) - Gallery for benchmarking Graph Neural Networks (GNNs).
 - [From Canonical Correlation Analysis to Self-supervised Graph Neural Networks (2021)](https://arxiv.org/abs/2106.12484) ([Code](https://github.com/hengruizhang98/CCA-SSG))
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks (2021)](https://arxiv.org/abs/2006.15646) ([Code](https://github.com/mlelarge/graph_neural_net))
+- [Simple implementation of Equivariant GNN in PyTorch](https://github.com/senya-ashukha/simple-equivariant-gnn)

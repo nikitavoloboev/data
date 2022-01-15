@@ -6,3 +6,5 @@
 - [Factor code](https://github.com/factor/factor)
 - [Factor docs](https://docs.factorcode.org/content/article-cookbook.html)
 - [Solutions to various problems written in Factor](https://github.com/Bubbler-4/factor-problem-solving)
+- [How Factor implements closures (2010)](http://factor-language.blogspot.com/2010/01/how-factor-implements-closures.html)
+- [Factor: An impressive stack-based language environment](https://junglecoder.com/blog/factorlang-review)

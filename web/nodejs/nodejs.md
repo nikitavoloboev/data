@@ -310,3 +310,5 @@
 - [rust-nodejs](https://github.com/patr0nus/rust-nodejs) - Embedding Node.js in Rust.
 - [Node.js Technical Steering Committee](https://github.com/nodejs/TSC)
 - [Debugging Node.js Libraries (2021)](https://maximomussini.com/posts/debugging-javascript-libraries/)
+- [make-fetch-happen](https://github.com/npm/make-fetch-happen) - Making fetch happen for npm.
+- [nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.

@@ -49,3 +49,4 @@
 - [Combine Community](https://combine.community/) ([GitHub](https://github.com/CombineCommunity))
 - [CombineCloudKit](https://github.com/chris-araman/CombineCloudKit) - Swift Combine extensions for reactive CloudKit record processing. Designed for simplicity.
 - [CombineWaiting](https://github.com/jameshurst/CombineWaiting) - Synchronously wait for Combine publishers.
+- [Declarative Reactive Programming with Combine (2021)](https://defagos.github.io/declarative_reactive_programming_with_combine/) ([Code](https://github.com/defagos/DeclarativeCombine))

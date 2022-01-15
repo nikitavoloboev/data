@@ -80,3 +80,4 @@
 - [append-only-torrent](https://github.com/substack/append-only-torrent) - Create a sequence of torrent files for growing input.
 - [publius](https://github.com/publiusfederalist/publius) - Share files to the decentralized, unblockable torrent swarm and share links using Handshake domains. Decentralized internet is here.
 - [create-torrent](https://github.com/webtorrent/create-torrent) - Create .torrent files.
+- [Database-less torrent website (2022)](https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html) ([HN](https://news.ycombinator.com/item?id=29917818))

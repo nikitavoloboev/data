@@ -295,3 +295,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What you can learn by merely writing a programming language changelog (2022)](https://zverok.substack.com/p/what-you-can-learn-by-merely-writing)
 - [SQRL](https://github.com/twitter/sqrl) - Safe, Stateful Rules Language for Event Streams.
 - [Rethinking errors, warnings, and lints (2022)](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
+- [C++ Concepts vs Rust Traits vs Haskell Typeclasses vs Swift Protocols - Conor Hoekstra - ACCU 2021](https://www.youtube.com/watch?v=iPVoCTgvi8M) ([Slides](https://accu.org/conf-docs/PDFs_2021/conor_hoekstra_c_concepts_vs_haskell_typeclasses_vs_rust_traits_vs_swift_protocols.pdf))
+- [Following the programming language evolution, and taking it personally (2022)](https://zverok.substack.com/p/following-the-programming-language) ([Lobsters](https://lobste.rs/s/ciqons/following_programming_language))

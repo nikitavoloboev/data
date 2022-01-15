@@ -42,6 +42,7 @@
 - [lambda](https://github.com/palatable/lambda) - Functional patterns for Java.
 - [Guava](https://github.com/google/guava) - Google core libraries for Java.
 - [Reactor Core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM.
+- [Data Faker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin.
 
 ## Links
 

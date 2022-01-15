@@ -177,3 +177,5 @@
 - [Optimizing Docker image size and why it matters (2022)](https://contains.dev/blog/optimizing-docker-image-size)
 - [contains.dev](https://contains.dev/) - See what's in your Docker. Explore your images, view their files, layers and dependencies.
 - [Narwhal](https://github.com/yourbase/narwhal) - Simplistic wrapper around the Docker Go API.
+- [A faster dockerTools.buildImage prototype (2021)](https://lewo.abesis.fr/posts/nix-build-container-image/)
+- [Dozzle](https://dozzle.dev/) - Log viewer for Docker. ([Code](https://github.com/amir20/dozzle))

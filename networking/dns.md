@@ -177,3 +177,5 @@
 - [encrypted-dns-configs](https://github.com/paulmillr/encrypted-dns) - Configuration profiles for DNS over HTTPS and DNS over TLS.
 - [How to find a domain's authoritative nameservers (2022)](https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/) ([HN](https://news.ycombinator.com/item?id=29891617))
 - [Cloudflare DDNS](https://github.com/favonia/cloudflare-ddns) - Small and fast DDNS updater for Cloudflare.
+- [Alternative DNS Roots](https://scholz.ruhr/post/alternative-dns-root/) ([HN](https://news.ycombinator.com/item?id=29910958))
+- [DNS Collector](https://github.com/dmachard/dns-collector) - High speed passive DNS collector with dnstap support, dns traffic sniffer and more.

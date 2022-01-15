@@ -50,6 +50,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Wordle](https://www.powerlanguage.co.uk/wordle/) - Daily word game.
 - [Word Master](https://octokatherine.github.io/word-master/) - Heavily inspired by Wordle. Word guessing game similar to Mastermind. ([Code](https://github.com/octokatherine/word-master))
 - [Worldledge](https://github.com/rauchg/wordledge) - Implementation of Wordle to help you learn Next.js and Vercel.
+- [Looptap](https://looptap.vasanthv.com/) - Minimal game to waste your time. ([HN](https://news.ycombinator.com/item?id=29921419))
 
 ## Awesome OSS games
 

@@ -65,6 +65,7 @@
 - [Flashcards](https://github.com/reuseman/flashcards-obsidian) - Anki integration for Obsidian.
 - [Hotkey Helper](https://github.com/pjeby/hotkey-helper) - Easier Hotkey and Options Management for Obsidian.
 - [LaTeX Environments](https://github.com/raineszm/obsidian-latex-environments) - Quickly insert and change latex environments within math blocks in Obsidian.
+- [Table Extended](https://github.com/aidenlx/table-extended) - Extend basic table in Obsidian with MultiMarkdown table syntax.
 
 ## Themes
 

@@ -411,3 +411,5 @@ for i, _ in enumerate(nums):
 - [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/) ([HN](https://news.ycombinator.com/item?id=29679788))
 - [Learn Python ASTs, by building your own linter (2021)](https://sadh.life/post/ast/) ([HN](https://news.ycombinator.com/item?id=29724431))
 - [Scientific Computing with Python Book](https://www.packtpub.com/product/scientific-computing-with-python-second-edition/9781838822323)
+- [Python Launcher for Unix](https://github.com/brettcannon/python-launcher) - Launch your Python interpreter the lazy/smart way.
+- [Static Typing with Python Docs](https://typing.readthedocs.io/en/latest/) ([Code](https://github.com/python/typing))

@@ -71,3 +71,4 @@
 - [Ziva Dynamics Announces A New ML-Trained Facial Rigging Service (2021)](https://80.lv/articles/ziva-dynamics-announces-a-new-ml-trained-facial-rigging-service/) ([Tweet](https://twitter.com/80Level/status/1462836062368284672))
 - [OpenSfM](https://github.com/mapillary/OpenSfM) - Open-source Structure from Motion library that lets you build 3D models from images. ([Web](https://opensfm.org))
 - [Body Model Visualizer](https://github.com/mkocabas/body-model-visualizer) - Simple Open3D-based GUI for SMPL-family body models.
+- [Grid.Space](https://grid.space/) - Browser-Based Slicer for 3D FDM and SLA printing, CNC Milling, and Laser cutting. ([Docs](https://docs.grid.space/projects/kiri-moto)) ([Code](https://github.com/GridSpace/grid-apps))

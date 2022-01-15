@@ -70,3 +70,4 @@
 - [Phoenix.PubSub](https://github.com/phoenixframework/phoenix_pubsub) - Distributed PubSub and Presence platform for the Phoenix Framework.
 - [Restore LiveView State on Startup (2022)](https://fly.io/phoenix-files/restore-liveview-state-on-startup/)
 - [Petal Components](https://github.com/petalframework/petal_components) - Phoenix Live View Components.
+- [Where to (not) use Phoenix LiveView (2021)](https://quatermain32.medium.com/where-to-not-use-phoenix-liveview-7fb5ffb8318b)

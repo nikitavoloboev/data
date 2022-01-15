@@ -334,3 +334,5 @@ Awesome List
 - [Github Stats](https://github.com/mre/gh-stats) - Async command-line tool for retrieving the stars of all your Github projects.
 - [types.ts](https://github.com/octokit/types.ts) - Shared TypeScript definitions for Octokit projects.
 - [Giter8](https://github.com/foundweekends/giter8) - Command line tool to generate files and directories from templates published on GitHub or any other git repository. ([Docs](http://www.foundweekends.org/giter8/))
+- [GitHub natively supports Mermaid diagrams](https://github.com/github/roadmap/issues/372) ([Lobsters](https://lobste.rs/s/lejtxs/github_will_natively_support_mermaid)) ([HN](https://news.ycombinator.com/item?id=29927962))
+- [Github Copilot Wants to Play Chess Instead of Code (2022)](https://dagshub.com/blog/github-copilot-not-code/) ([HN](https://news.ycombinator.com/item?id=29920035))

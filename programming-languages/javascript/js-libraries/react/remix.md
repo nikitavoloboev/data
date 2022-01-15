@@ -61,3 +61,4 @@
 - [Remix Fundamentals](https://github.com/kentcdodds/remix-fundamentals)
 - [Remix Serverless Starter](https://github.com/shamsup/remix-starter-serverless)
 - [remix-graphql](https://github.com/thomasheyenbrock/remix-graphql) - Utilities for using GraphQL with a Remix app.
+- [rescript-remix](https://github.com/tom-sherman/rescript-remix) - Bindings and helpers for Remix.

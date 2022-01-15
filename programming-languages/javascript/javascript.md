@@ -394,3 +394,4 @@ if (
 - [Caterwaul](https://github.com/spencertipping/caterwaul) - JavaScript-to-JavaScript Compiler. ([Web](http://caterwauljs.org/)) ([HN](https://news.ycombinator.com/item?id=29563076))
 - [MuJS](https://github.com/ccxvii/mujs) - Embeddable JavaScript interpreter in C. ([Web](https://mujs.com/))
 - [JavaScript Structs: Fixed Layout Objects](https://github.com/tc39/proposal-structs)
+- [HEY is running its JavaScript off import maps (2022)](https://world.hey.com/dhh/hey-is-running-its-javascript-off-import-maps-2abcf203)

@@ -406,3 +406,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Best Russian YouTube channels](https://www.reddit.com/r/AskARussian/comments/rvqk0z/best_russian_youtube_channels/)
 - [The Great Siberian Thaw (2022)](https://www.newyorker.com/magazine/2022/01/17/the-great-siberian-thaw) ([HN](https://news.ycombinator.com/item?id=29900445))
 - [Лучшие и худшие города России (2019)](https://www.youtube.com/watch?v=Rfcov5c5RdA)
+- [Макарена - YouTube](https://www.youtube.com/channel/UCKgNnp6G0dlwTS1eR4-77yQ/videos)

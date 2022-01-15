@@ -38,3 +38,4 @@
 - [Showing cities being passed by on train in AR](https://twitter.com/V_Kurbatov/status/1465311637771071490)
 - [MindAR](https://github.com/hiukim/mind-ar-js) - Web Augmented Reality. Natural feature tracking. Image targets. Tensorflow.js.
 - [USDZ App](https://usdz.app/) - Web app to turn photos into 3D AR models. ([HN](https://news.ycombinator.com/item?id=29764785))
+- [A-Frame component using 3D-Tiles](https://github.com/nytimes/aframe-loader-3dtiles-component)

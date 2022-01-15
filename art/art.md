@@ -374,6 +374,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Todd Hido](https://www.instagram.com/toddhido_/)
 - [Baud Postma](https://www.instagram.com/baudpostma/)
 - [Om Malik](https://www.instagram.com/om/)
+- [Antonio Palmerini](https://www.artlimited.net/18637)
 - [Florian](https://www.instagram.com/analoguevibez/)
 - [Ivan Bideac](https://www.ivanbideac.com/)
 - [Luke Beard](https://www.instagram.com/lukesbeard/)
@@ -490,3 +491,6 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Kintsugi – Art of Repair](https://traditionalkyoto.com/culture/kintsugi/) ([HN](https://news.ycombinator.com/item?id=29543670))
 - [Irasutoya](https://www.irasutoya.com/) - Collection of cute illustrations covering all sort of situations. ([IG](https://www.instagram.com/irasutoya/?hl=en)) ([Video](https://www.youtube.com/watch?v=g3CyRZY90M4))
 - [Ask HN: How to Become an Artist? (2022)](https://news.ycombinator.com/item?id=29781756)
+- [Art Limited](https://www.artlimited.net/) - Modern and contemporary artists online galleries and portfolios.
+- [Nighthawks by Edward Hopper: Great Art Explained](https://www.youtube.com/watch?v=lKIbT-4UFaE)
+- [Great Art Explained - YouTube](https://www.youtube.com/c/GreatArtExplained/videos)

@@ -66,7 +66,7 @@
 - [Finala](https://github.com/similarweb/finala) - Resource cloud scanner that analyzes and reports about wasteful and unused resources to cut unwanted expenses.
 - [Dear Google Cloud: Your Deprecation Policy is Killing You (2020)](https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc) ([HN](https://news.ycombinator.com/item?id=24165445))
 - [env0](https://www.env0.com/) - Self-service Cloud Environments. Your team manage their own environments in AWS, Azure and Google.
-- [Cloud Native Landscape](https://landscape.cncf.io/) - Map of uncharted terrain of cloud native technologies. ([Code](https://github.com/cncf/landscape))
+- [Cloud Native Landscape](https://landscape.cncf.io/) - Map of uncharted terrain of cloud native technologies. ([Code](https://github.com/cncf/landscape)) ([HN](https://news.ycombinator.com/item?id=29935767))
 - [How I Setup My Own Personal CDN (2020)](https://joel.net/how-i-setup-my-own-personal-cdn)
 - [Optimyze.cloud](https://optimyze.cloud/) - Hyperscaler software efficiency. For everybody.
 - [The Cloud Christmas](https://thecloud.christmas/)

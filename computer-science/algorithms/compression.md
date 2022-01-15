@@ -97,3 +97,4 @@
 - [Quantile Compression](https://github.com/mwlon/quantile-compression) - Lossless compressor and decompressor for numerical data using quantiles. ([Reddit](https://www.reddit.com/r/rust/comments/r2oinm/quantile_compression_qcompress_a_new_compression/)) ([Article](https://graphallthethings.com/posts/quantile-compression))
 - [fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package.
 - [snap](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
+- [Image Compression Algorithm in Rust](https://github.com/umgefahren/image-comp-lib-rust) - New lossless image compression algorithm.

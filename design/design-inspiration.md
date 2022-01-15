@@ -379,6 +379,7 @@ Here are few more things I liked, design wise.
 - [Jeremy Wagner](https://jeremy.codes/)
 - [Vic Shostak](https://shostak.dev/)
 - [Dov Alperin](https://dov.dev/)
+- [Elena Bazu](https://elenabazu.com/)
 - [Abhijit Menon-Sen](https://toroid.org/)
 - [Sage Abdullah](https://laymonage.com/)
 - [Royal Icing](https://icing.space/) ([GitHub](https://github.com/RoyalIcing))

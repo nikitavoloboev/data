@@ -174,3 +174,4 @@
 - [setup-tailwind-rn](https://github.com/vadimdemedes/setup-tailwind-rn) - Set up Tailwind CSS in React Native apps.
 - [react-native-progressive-fast-image](https://github.com/WrathChaos/react-native-progressive-fast-image) - Customizable progressive image for React Native with FastImage.
 - [React Native TS Lib Starter](https://github.com/WrathChaos/react-native-typescript-library-starter)
+- [react-native-owl](https://github.com/FormidableLabs/react-native-owl) - Visual regression testing for React Native.

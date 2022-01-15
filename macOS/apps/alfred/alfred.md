@@ -136,3 +136,4 @@ fi
 - [Alfred Workflow ScriptFilter in Swift](https://github.com/godbout/AlfredWorkflowScriptFilter) ([Discussion](https://www.alfredforum.com/topic/16719-alfredworkflowscriptfilter-swift/))
 - [AlfredSwift](https://github.com/mr-pennyworth/AlfredSwift) - Swift package to access and manipulate metadata and preferences for Alfred and workflows.
 - [Workflow Development](https://intersect.rknight.me/macos/alfred/workflow-development/)
+- [Alfred Workflows (Rust)](https://github.com/rust-playground/alfred-workflows-rs)

@@ -133,3 +133,4 @@
 - [The argument against clearing the database between tests (2020)](https://calpaterson.com/against-database-teardown.html) ([HN](https://news.ycombinator.com/item?id=29764792))
 - [Favor real dependencies for unit testing (2022)](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) ([Lobsters](https://lobste.rs/s/2btkdu/favor_real_dependencies_for_unit_testing))
 - [Kent](https://github.com/willkg/kent) - Fake Sentry server for local development, debugging, and integration testing.
+- [Gonkey](https://github.com/lamoda/gonkey) - Testing automation tool. Can bomb the service with prepared requests and check the responses.

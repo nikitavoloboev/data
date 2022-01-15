@@ -80,3 +80,7 @@
 - [Reason Native UI Discord](https://discord.com/invite/UvQ2cFn)
 - [Rescript React Boilerplate](https://github.com/persianturtle/rescript-react-boilerplate)
 - [From TypeScript To ReScript (2022)](https://www.greyblake.com/blog/from-typescript-to-rescript/) ([HN](https://news.ycombinator.com/item?id=29903631))
+- [From Object-Oriented JS to Functional ReScript (2021)](https://fullsteak.dev/posts/from-oop-javascript-to-functional-rescript)
+- [Full-stack ReScript. Architecture Overview (2021)](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview)
+- [ReScript grammar for Tree-sitter](https://github.com/nkrkv/tree-sitter-rescript)
+- [ReScript JSON Typed Strongly (2021)](https://fullsteak.dev/posts/rescript-json-typed-strongly)

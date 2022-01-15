@@ -1243,6 +1243,7 @@
 - [llparser](https://github.com/romshark/llparser) - Universal LL top-down parser written in Go.
 - [JsonDiff](https://github.com/nsf/jsondiff)
 - [GoLLRB](https://github.com/petar/GoLLRB) - Left-Leaning Red-Black (LLRB) implementation of balanced binary search trees for Go.
+- [base62](https://github.com/jxskiss/base62) - Compact and high performance implementation of base62 algorithm for Go.
 
 ## Links
 

@@ -143,6 +143,7 @@
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Backblaze Go](https://github.com/kurin/blazer)
 - [Paddle Go](https://github.com/Fakerr/go-paddle)
+- [PyTrends](https://github.com/GeneralMills/pytrends) - Unofficial API for Google Trends.
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Typeform JS SDK](https://github.com/Typeform/js-api-client)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
@@ -310,3 +311,4 @@
 - [Awesome API Security](https://github.com/arainho/awesome-api-security)
 - [Documenting APIs](https://idratherbewriting.com/learnapidoc/) ([HN](https://news.ycombinator.com/item?id=29849822))
 - [OpenAPI boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - Multi-file boilerplate for Open API Specification.
+- [dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go.

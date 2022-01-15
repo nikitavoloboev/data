@@ -93,6 +93,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Klee](https://github.com/fontworks-fonts/Klee) - Script font handwritten by pencil or pen.
 - [Inria Sans and Inria Serif](https://github.com/BlackFoundryCom/InriaFonts) ([Web](https://black-foundry.com/work/inria-2/))
 - [Manrope](https://manropefont.com/) - Modern geometric sans-serif. ([Code](https://github.com/sharanda/manrope))
+- [Brutalita](https://brutalita.com/) - Grid based font editor and font. ([HN](https://news.ycombinator.com/item?id=29921137))
+- [Agave](https://b.agaric.net/page/agave) - Small, monospaced, outline font that would be geometrically regular and simple. ([Code](https://github.com/blobject/agave))
 
 ## Links
 
@@ -305,3 +307,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Brik Font: Creating Type with Lego](https://kottke.org/22/01/brik-font-creating-type-with-lego)
 - [pinot](https://github.com/dfrg/pinot) - Fast, high-fidelity OpenType parser.
 - [Google Font to SVG Path](https://danmarshall.github.io/google-font-to-svg-path/) ([Code](https://github.com/danmarshall/google-font-to-svg-path))
+- [The Model Book of Calligraphy (1561–1596)](https://publicdomainreview.org/collection/the-model-book-of-calligraphy-1561-1596) ([HN](https://news.ycombinator.com/item?id=29902560))
+- [Hyperglot](https://github.com/rosettatype/hyperglot) - Database and tools for detecting language support in fonts.
+- [Liga](https://github.com/EzequielRamis/liga) - Add ligatures to any programming font.

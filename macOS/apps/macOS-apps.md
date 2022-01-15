@@ -122,6 +122,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - TinyPNG client for Mac.
 - [Free Ruler](https://github.com/pascalpp/FreeRuler) - Ruler application for macOS.
 - [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ([Web](https://equinoxmac.com/))
+- [podman-desktop](https://github.com/containers/podman-desktop) - Graphical menu bar application for managing Podman machines.
 
 ## Other interesting apps
 
@@ -208,3 +209,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [CommandBar](https://github.com/steventroughtonsmith/CatalystCommandBar) - Spotlight/'Open Quickly'-style 'command bar' implemented using UIKit/Mac Catalyst.
 - [A guide to NSButton styles](https://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
 - [buildkit-machine](https://github.com/developer-guy/buildkit-machine) - Allows you to make buildkitd daemon accessible in your macOS environment.
+- [Catching Native Apps (2022)](https://mjtsai.com/blog/2022/01/12/catching-native-apps/) ([HN](https://news.ycombinator.com/item?id=29913619))

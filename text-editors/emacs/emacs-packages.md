@@ -39,3 +39,4 @@
 - [Good Style in modern Emacs Packages](https://zge.us.to/emacs-style.html) ([Lobsters](https://lobste.rs/s/8yvyz9/good_style_modern_emacs_packages))
 - [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.
 - [Ecaml](https://github.com/janestreet/ecaml) - Writing Emacs plugin in OCaml.
+- [Elegant Emacs](https://github.com/rougier/elegant-emacs) - Minimal consistent vanilla Emacs (i.e. no package) and yet elegant.

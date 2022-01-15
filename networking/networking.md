@@ -388,3 +388,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Make the internet yours again with an instant mesh network (2022)](https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network) ([HN](https://news.ycombinator.com/item?id=29849086))
 - [jswhois](https://github.com/jschauma/jswhois) - Tool to look up and print WHOIS results in JSON format.
 - [Internet protocols and tools related documentation](https://daniel.haxx.se/docs/) ([Code](https://github.com/bagder/docs))
+- [Ghost in the ethernet optic (2022)](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside) ([Lobsters](https://lobste.rs/s/ydc81o/ghost_ethernet_optic))

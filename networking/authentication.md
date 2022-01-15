@@ -1,5 +1,7 @@
 # Authentication
 
+[Biscuit](https://www.biscuitsec.org/) auth token is neat.
+
 ## Links
 
 - [Firebase Auth](https://firebase.google.com/docs/auth)
@@ -188,3 +190,4 @@
 - [Grant](https://github.com/simov/grant) - OAuth Proxy.
 - [Fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [Charon](https://github.com/piotrkowalczuk/charon) - Authorization and authentication service.
+- [Biscuit](https://www.biscuitsec.org/) - Authorization token with decentralized verification, offline attenuation and strong security policy enforcement based on a logic language. ([Code](https://github.com/biscuit-auth/biscuit)) ([Tweet](https://twitter.com/bascule/status/1481726834593173511))

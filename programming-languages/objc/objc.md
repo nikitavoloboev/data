@@ -57,3 +57,4 @@
 - [J2ObjC](https://developers.google.com/j2objc) - Command-line tool that translates Java to Objective-C. ([HN](https://news.ycombinator.com/item?id=29328678))
 - [TDOAuth](https://github.com/yahoo/TDOAuth) - BSD-licensed single-header-single-source OAuth1 implementation.
 - [TJImageCache](https://github.com/timonus/TJImageCache) - Fast, simple Objective-C image cache.
+- [An Approach for Migrating From Objective-C to Swift (2022)](https://www.steveonstuff.com/2022/01/13/migrating-from-objc-to-swift.html)

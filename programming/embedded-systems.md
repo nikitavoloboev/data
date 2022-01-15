@@ -159,3 +159,4 @@
 - [libopencm3](https://github.com/libopencm3/libopencm3) - Open-source firmware library for various ARM Cortex-M microcontrollers. ([Docs](https://github.com/libopencm3/libopencm3/wiki)) ([Examples](https://github.com/libopencm3/libopencm3-examples))
 - [Stabilizer Firmware](https://github.com/quartiq/stabilizer) - Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between.
 - [Sesam](https://www.sesam.io/) - Embedded Extended Master Data Management.
+- [XOD](https://xod.io/) - Visual programming language for microcontrollers. ([Code](https://github.com/xodio/xod))

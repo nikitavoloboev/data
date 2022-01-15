@@ -598,3 +598,5 @@
 - [Kubernetes Secrets Store CSI Driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver)
 - [Cilium CLI](https://github.com/cilium/cilium-cli) - CLI to install, manage & troubleshoot Kubernetes clusters running Cilium.
 - [TestKube](https://github.com/kubeshop/testkube) - Kubernetes-native framework for test definition and execution.
+- [Tracing the path of network traffic in Kubernetes (2022)](https://learnk8s.io/kubernetes-network-packets)
+- [Learnk8s Blog](https://learnk8s.io/blog)

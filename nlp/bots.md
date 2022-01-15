@@ -36,3 +36,4 @@
 - [Odd Eye](https://github.com/Xetera/odd-eye) - Detect bad bots trying to disguise themselves as humans.
 - [Bot Taxonomy: How do different kinds of automation on the internet coexist? (2021)](https://xetera.dev/bot-taxonomy/)
 - [Chatbots: Still dumb after all these years (2022)](https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/) ([HN](https://news.ycombinator.com/item?id=29825612))
+- [“Chatbots: Still Dumb After All These Years” (2022)](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) ([HN](https://news.ycombinator.com/item?id=29934335))

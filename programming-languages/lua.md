@@ -91,3 +91,5 @@
 - [Luerl](https://github.com/rvirding/luerl) - Implementation of Lua in Erlang. ([HN](https://news.ycombinator.com/item?id=29703949))
 - [Writing a minimal Lua implementation with a virtual machine from scratch in Rust (2021)](https://notes.eatonphil.com/lua-in-rust.html) ([Lobsters](https://lobste.rs/s/wlpgc3/writing_minimal_lua_implementation_with)) ([Code](https://github.com/eatonphil/lust))
 - [lua-ts](https://github.com/ahuth/lua-ts) - TypeScript implementation of minimal Lua.
+- [lua-yaml](https://github.com/exosite/lua-yaml) - LUA YAML parser.
+- [JSON.lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder.

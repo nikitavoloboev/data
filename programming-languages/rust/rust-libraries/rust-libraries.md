@@ -114,6 +114,7 @@
 - [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 - [ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM.
+- [racket-wasm](https://github.com/Bogdanp/racket-wasm) - WASM tooling in Racket.
 
 ## GUI
 
@@ -465,6 +466,7 @@
 - [throttle_my_fn](https://github.com/fredmorcos/throttle_my_fn) - Rust attribute macro to throttle the execution of functions.
 - [test-span](https://github.com/apollographql/test-span) - Macro and utilities to do snapshot tests on tracing spans.
 - [Modular Bitfields](https://github.com/Robbepop/modular-bitfield) - Macro to generate bitfields for structs that allow for modular use of enums.
+- [rust-mdo](https://github.com/TeXitoi/rust-mdo) - Monadic do notation for rust using macro and duck typing.
 
 ## Math
 
@@ -1339,6 +1341,11 @@
 - [uAsync](https://github.com/kprotty/uasync) - Fast, forbid(unsafe_code), no dependency, async executor.
 - [Sentry SDK for Rust](https://github.com/getsentry/sentry-rust)
 - [prettyplease](https://github.com/dtolnay/prettyplease) - Minimal `syn` syntax tree pretty-printer.
+- [slab_tree](https://github.com/iwburns/slab-tree) - vec-backed tree structure with tree-specific generational indexes.
+- [id_tree](https://github.com/iwburns/id-tree) - Library for creating and modifying Tree structures.
+- [camino](https://github.com/camino-rs/camino) - UTF-8 encoded paths.
+- [rust-t1ha](https://github.com/flier/rust-t1ha) - Rust implementation for T1HA (Fast Positive Hash).
+- [Rust-Dpdk](https://github.com/flier/rust-dpdk) - Rust bindings to DPDK.
 
 ## Cargo Plugins
 
@@ -1472,3 +1479,4 @@
 - [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
 - [Corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration.
 - [Pin, Unpin, and why Rust needs them (2021)](https://blog.adamchalmers.com/pin-unpin/)
+- [Traits Working Group](https://github.com/rust-lang/wg-traits)

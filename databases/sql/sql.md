@@ -156,3 +156,4 @@
 - [tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter.
 - [Graph Pattern Matching in GQL and SQL/PGQ (2021)](https://arxiv.org/abs/2112.06217)
 - [Dsq](https://github.com/multiprocessio/dsq) - Command line tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. ([Article](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)) ([HN](https://news.ycombinator.com/item?id=29892463))
+- [Treating SQL like code (2022)](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e) ([HN](https://news.ycombinator.com/item?id=29921528))

@@ -29,3 +29,4 @@
 - [AnimeGANv3](https://github.com/TachibanaYoshino/AnimeGANv3) - Use AnimeGANv3 to make your own animation works, including turning photos or videos into anime.
 - [Awesome ACG](https://github.com/soruly/awesome-acg) - Curated list of awesome technologies related to Anime, Comic and Games.
 - [Anime4K | A High-Quality Real Time Upscaler for Anime Video](https://github.com/bloc97/Anime4K)
+- [MAL Map](https://www.malmap.net/) - Interactive map of anime based on user recommendations. ([Code](https://github.com/platers/MAL-Map)) ([Reddit](https://www.reddit.com/r/dataisbeautiful/comments/s3jybi/oc_an_interactive_map_of_anime_based_on_user/))

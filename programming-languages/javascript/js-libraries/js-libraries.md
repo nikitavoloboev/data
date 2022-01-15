@@ -747,6 +747,8 @@
 - [dequal](https://github.com/lukeed/dequal) - Tiny utility to check for deep equality.
 - [bin-wrapper](https://github.com/kevva/bin-wrapper) - Binary wrapper that makes your programs seamlessly available as local dependencies.
 - [base2048](https://github.com/qntm/base2048) - Binary encoding optimized for transmitting data through Twitter.
+- [sube](https://github.com/spectjs/sube) - Subscribe to any reactive source.
+- [hm-def](https://github.com/xodio/hm-def) - Runtime type checking for JS with Hindley Milner signatures.
 
 ## Links
 
