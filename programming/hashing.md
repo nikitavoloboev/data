@@ -58,3 +58,4 @@
 - [On the Optimal Time/Space Tradeoff for Hash Tables (2021)](https://arxiv.org/pdf/2111.00602.pdf)
 - [Hash collisions and their exploitations](https://github.com/corkami/collisions)
 - [Introducing Consistent Hashing (2020)](https://itnext.io/introducing-consistent-hashing-9a289769052e)
+- [Reversing an integer hash function](https://taxicat1.github.io/hash6432shift_inversion.html)

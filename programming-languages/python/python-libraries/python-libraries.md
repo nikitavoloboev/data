@@ -100,7 +100,7 @@
 - [SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse.
 - [Typer](https://github.com/tiangolo/typer) - Build great CLIs. Easy to code. Based on Python type hints.
 - [Python Fire](https://github.com/google/python-fire) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [Rich](https://github.com/willmcgugan/rich) - Python library for rendering rich text and beautiful formatting to the terminal. ([HN](https://news.ycombinator.com/item?id=23070821)) ([HN thread on Rich tables](https://news.ycombinator.com/item?id=23738072))
+- [Rich](https://github.com/Textualize/rich) - Python library for rendering rich text and beautiful formatting to the terminal. ([HN](https://news.ycombinator.com/item?id=23070821)) ([HN thread on Rich tables](https://news.ycombinator.com/item?id=23738072)) ([HN](https://news.ycombinator.com/item?id=29945848))
 - [questionary](https://github.com/tmbo/questionary) - Easy to use python library to build pretty command line user prompts.
 - [Cutie](https://github.com/Kamik423/cutie) - Command line User Tools for Input Easification.
 - [bullet](https://github.com/bchao1/bullet) - Beautiful Python Prompts Made Simple.

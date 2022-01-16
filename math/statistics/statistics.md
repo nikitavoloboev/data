@@ -1,5 +1,7 @@
 # Statistics
 
+[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) is a great course.
+
 ## Links
 
 - [The Probability and Statistics Cookbook](http://statistics.zone/)
@@ -134,7 +136,7 @@
 - [Probability and Statistics Cheat Sheet (2021)](https://rethinks.org/blog/SKQmqcEUw4)
 - [Bayesian Optimization Book (2021)](https://bayesoptbook.com/) ([Code](https://github.com/bayesoptbook/bayesoptbook.github.io)) ([HN](https://news.ycombinator.com/item?id=29197908))
 - [Monte Carlo Methods or Why It's a Bad Idea to Go to the Casino](https://easylang.online/apps/tutorial_monte_carlo_methods.html) ([HN](https://news.ycombinator.com/item?id=29217539))
-- [Statistical Rethinking Course (2022)](https://github.com/rmcelreath/stat_rethinking_2022) ([Videos](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)) ([HN](https://news.ycombinator.com/item?id=29780550))
+- [Statistical Rethinking Course (2022)](https://github.com/rmcelreath/stat_rethinking_2022) ([Videos](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)) ([HN](https://news.ycombinator.com/item?id=29780550)) ([HN](https://news.ycombinator.com/item?id=29956390))
 - [GMS introductory course in statistics](https://github.com/whg-gms/statistics-course)
 - [What's the difference between stochastic and random?](https://math.stackexchange.com/questions/114373/whats-the-difference-between-stochastic-and-random/1616687)
 - [Twelve problems in probability no one likes to bring up](https://link.springer.com/chapter/10.1007/978-88-470-2107-5_5)

@@ -389,3 +389,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [jswhois](https://github.com/jschauma/jswhois) - Tool to look up and print WHOIS results in JSON format.
 - [Internet protocols and tools related documentation](https://daniel.haxx.se/docs/) ([Code](https://github.com/bagder/docs))
 - [Ghost in the ethernet optic (2022)](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside) ([Lobsters](https://lobste.rs/s/ydc81o/ghost_ethernet_optic))
+- [Set up a practically free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889) ([HN](https://news.ycombinator.com/item?id=29947320))

@@ -13,3 +13,4 @@
 - [Analyze cassandra data with GPUs (Nvidia and apache arrow and rapidsai)](https://github.com/datastax/sstable-to-arrow)
 - [Cassandra DataSource for Grafana](https://github.com/HadesArchitect/GrafanaCassandraDatasource) - Visualise time-series data stored in Cassandra/DSE.
 - [latte](https://github.com/pkolaczk/latte) - Latency Tester for Apache Cassandra.
+- [Cassandra Enhancement Proposals (CEP)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201)
