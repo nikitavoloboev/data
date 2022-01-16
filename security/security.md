@@ -243,3 +243,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [acmetool](https://github.com/hlandau/acmetool) - Automatic certificate acquisition tool for ACME (Let's Encrypt).
 - [My Infosec Awesome](https://github.com/pe3zx/my-infosec-awesome) - Curated list of awesome links, resources and tools on infosec related topics.
 - [HubbleStack](https://github.com/hubblestack/hubble) - Modular, open-source security compliance framework.
+- [Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)

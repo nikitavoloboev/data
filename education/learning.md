@@ -189,3 +189,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [How to read research paper, textbook, long text content? (2022)](https://news.ycombinator.com/item?id=29851336)
 - [Knowledge Atlases](https://github.com/prathyvsh/knowledge-atlases) - Catalogue of portals that map out roadmaps for self learners. ([Tweet](https://twitter.com/prathyvsh/status/1480691431098486785))
 - [Metacademy](https://metacademy.org/) - Your package manager for knowledge.
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)

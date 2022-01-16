@@ -167,3 +167,4 @@
 - [Kamex](https://github.com/Ovyerus/kamex) - Basic Lisp interpreter implemented in Elixir.
 - [Learning with Peter Norvig's lis.py interpreter](https://github.com/fluentpython/lispy)
 - [miniMAL](https://github.com/kanaka/miniMAL) - Delightfully Diminutive Lisp. Implemented in < 1 KB of JavaScript.
+- [Extending SectorLISP to Implement BASIC REPLs and Games (2022)](https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html)

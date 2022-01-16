@@ -171,3 +171,4 @@
 - [A Data-Centric Introduction to Computing (2021)](https://dcic-world.org/)
 - [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html) ([Notes](https://github.com/boazbk/tcs))
 - [Introduction to Model Predictive Control (2022)](https://arnavdhamija.com/2022/01/08/intro-to-mpc/)
+- [Postel's law as a profunctor (2021)](https://blog.ploeh.dk/2021/11/29/postels-law-as-a-profunctor/)

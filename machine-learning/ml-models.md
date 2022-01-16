@@ -64,3 +64,4 @@
 - [ML Console](https://mlconsole.com/) - Web app to train ML models, for free and client-side. ([HN](https://news.ycombinator.com/item?id=29716738))
 - [MMDeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework. ([Docs](https://mmdeploy.readthedocs.io/en/latest/))
 - [Wonnx](https://github.com/haixuanTao/wonnx) - Aimed at being an ONNX Provider for every GPU on all platforms written in 100% Rust.
+- [How to Build a Machine Learning Demo in 2022](https://nicjac.dev/posts/how-to-build-machine-learning-demo-in-2022/)

@@ -6,7 +6,7 @@ The Gist of Redux is a follows:
 - The only way to change the state tree is to emit an action, an object describing what happened.
 - To specify how the actions transform the state tree, you write pure reducers.
 
-There are [better approaches to manage state in React now](https://twitter.com/kamyshev_dev/status/1441736479240122372).
+There are [better approaches to manage state in React now](https://twitter.com/kamyshev_dev/status/1441736479240122372). [Sometimes Redux can be useful](https://www.reddit.com/r/reactjs/comments/s4hxd2/how_do_you_know_if_a_project_will_need_redux/) perhaps.
 
 ## Notes
 
@@ -93,3 +93,4 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [use-redux-effect](https://github.com/Qeepsake/use-redux-effect) - Powerful React hook that subscribes to Redux store events.
 - [Should you use Redux still (2021)](https://twitter.com/traversymedia/status/1466034407609974786)
 - [Confidently Testing Redux Applications with Jest & TypeScript (2021)](https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b)
+- [How do you know if a project will need Redux? (2022)](https://www.reddit.com/r/reactjs/comments/s4hxd2/how_do_you_know_if_a_project_will_need_redux/)

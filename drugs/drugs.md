@@ -61,3 +61,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [ChemicalX](https://github.com/AstraZeneca/chemicalx) - PyTorch based deep learning library for drug-drug interaction, polypharmacy side effect and synergy prediction.
 - [Dopesick Series](https://trakt.tv/shows/dopesick)
 - [What drug made you think "holy fuck how is this even possible"? (2022)](https://www.reddit.com/r/Drugs/comments/rzct1r/what_drug_made_you_think_holy_fuck_how_is_this/)
+- [MLDD 2022 - Machine Learning for Drug Discovery Workshop](https://www.mldd-workshop.org/)

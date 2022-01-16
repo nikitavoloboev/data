@@ -1,6 +1,6 @@
 # History
 
-[Dan Carlin's Hardcore History podcast](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history) is great.
+[Dan Carlin's Hardcore History](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history) & [Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/) are great history podcasts.
 
 ## Notes
 
@@ -169,3 +169,5 @@
 - [Feature History - YouTube](https://www.youtube.com/channel/UCHdluULl5c7bilx1x1TGzJQ)
 - [A History of Black Print (2020)](https://ilovetypography.com/2020/07/11/black-print-first-african-america-printer-publishers/) ([HN](https://news.ycombinator.com/item?id=29757121))
 - [Books on roots of western civilization](https://twitter.com/spakhm/status/1477485609362997250)
+- [Thread of Roman treasure, wartime intrigue, secrets, lies and obsession](https://twitter.com/OptimoPrincipi/status/1288035586025181189)
+- [Gareth Harney](https://twitter.com/OptimoPrincipi) - Celebrating the endless wonders of the Roman world.

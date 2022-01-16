@@ -243,3 +243,4 @@
 - [Consistency Models Explained (2021)](https://www.bodunhu.com/blog/posts/consistency-models-explained/)
 - [Fault](https://github.com/Fault-lang/Fault) - Modeling language for building system dynamic models and checking them using a combination of first order logic and probability.
 - [Events, Event Sourcing, and the Path Forward (2022)](https://relistan.com/event-sourcing-and-event-bus)
+- [How to make distributed system available (2022)](https://twitter.com/Franc0Fernand0/status/1482369263574949893)

@@ -3,6 +3,7 @@
 ## Notes
 
 - [What if my loss doesn't match the signature loss?](https://twitter.com/fchollet/status/1296292123768025090)
+- [Could use JAX to write Keras layers? It's as simple as a call to `jax2tf.convert()`. XLA is the shared language that makes this works.](https://twitter.com/fchollet/status/1482552760478306307)
 
 ## Links
 

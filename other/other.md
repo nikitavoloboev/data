@@ -589,3 +589,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference) - Curated list of examples of self-reference in art, science, and technology. ([HN](https://news.ycombinator.com/item?id=29873177))
 - [The Last Question - Isaac Asimov](https://www.physics.princeton.edu/ph115/LQ.pdf)
 - [endoflife.date](https://endoflife.date/) - Informative site with EoL dates of everything. ([Code](https://github.com/endoflife-date/endoflife.date))
+- [Ladies, What’s a hard to swallow pill you’ve learned over the years?](https://www.reddit.com/r/AskWomen/comments/s4ynef/ladies_whats_a_hard_to_swallow_pill_youve_learned/)

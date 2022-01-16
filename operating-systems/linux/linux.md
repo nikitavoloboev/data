@@ -448,3 +448,4 @@
 - [Musl-LFS](https://github.com/dslm4515/Musl-LFS) - Linux From Scratch using Musl as Libc.
 - [CMLFS](https://github.com/dslm4515/CMLFS) - Clang-Built Musl Linux From Scratch.
 - [Picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which processes make remote network connections. ([HN](https://news.ycombinator.com/item?id=29784941))
+- [My 2022 high-end Linux PC](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/) ([Lobsters](https://lobste.rs/s/ysqqhd/my_2022_high_end_linux_pc))

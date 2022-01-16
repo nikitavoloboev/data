@@ -270,3 +270,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing is a visual language (2021)](https://argumatronic.com/posts/2021-06-07-learning-to-write.html)
 - [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/) ([HN](https://news.ycombinator.com/item?id=29786007))
 - [Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974) ([HN](https://news.ycombinator.com/item?id=29815670))
+- [Piece of writing, on the internet (i.e. not a book), that you return to or at least consider foundational](https://twitter.com/redford/status/1255330066151718912)

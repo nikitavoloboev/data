@@ -260,3 +260,4 @@
 - [Swift Regrets: Wrap-up (2021)](https://belkadan.com/blog/2021/12/Swift-Regrets-Wrap-up/)
 - [Swift News Links](https://github.com/SAllen0400/swift-news)
 - [experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - Experimental tree-sitter grammar for the Swift programming language.
+- [Swift - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)

@@ -313,3 +313,4 @@
 - [OpenAPI boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - Multi-file boilerplate for Open API Specification.
 - [dummy](https://github.com/go-dummy/dummy) - Run mock server based on API contract with one command. Written in Go.
 - [Hook Slinger](https://github.com/rednafi/hook-slinger) - Generic service to send, retry, and manage webhooks.
+- [API Guideline: Clarity at the point of use](https://www.swift.org/documentation/api-design-guidelines/#fundamentals)

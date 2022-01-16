@@ -26,6 +26,7 @@
 - [Nix doesn't solve dependency resolution problems. Only pinning. There's ground to break there. Dependency management not being part of flakes is my biggest gripe with it. It would be our chance to be the once size fits all solution but we failed to deliver.](https://twitter.com/ProgrammerDude/status/1375451276234928132)
 - [There's a lot of unexplored potential of Nix in granular build systems and displacing systems like Bazel. If applied correctly, it lets smaller organisations get much of the benefit of Google-style monorepos but without as much maintenance overhead.](https://news.ycombinator.com/item?id=26748696)
 - [Nix doesn't have an issue with metadata revisions: they're just another explicitly declared input to the build so they don't violate purity.](https://twitter.com/GabriellaG439/status/1462150287871787009)
+- [Nix has an incredibly steep learning curve atm, but has completely eliminated entire classes of problems for me such as per-proj software deps and consistent environments, and has removed any fear of experimentation (since I can always rollback). Nothing else does this today.](https://twitter.com/mitchellh/status/1482104113819045892)
 
 ## Code
 

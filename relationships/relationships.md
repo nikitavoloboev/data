@@ -150,3 +150,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [A movie for someone grieving after a break up](https://www.reddit.com/r/MovieSuggestions/comments/rmgs11/a_movie_for_someone_grieving_after_a_break_up/)
 - [Почему в обществе так порицаются «измены»?](https://twitter.com/abrams_lera/status/1473978152309428224)
 - [Как находить друзей (во взрослом возрасте)](https://www.youtube.com/watch?v=IGLz2lbGqJ4)
+- [Open marriage advice](https://www.reddit.com/r/sexover30/comments/s51il9/open_marriage_advice/)

@@ -475,3 +475,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [How to Squash and Rebase in Git (2021)](https://www.jenweber.dev/how-to-squash-and-rebase/) ([HN](https://news.ycombinator.com/item?id=29839884))
 - [autosaved](https://github.com/nikochiko/autosaved) - Go utility for autosaving progress in Git projects.
 - [Using Git Commit Message Templates to Write Better Commit Messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733) ([HN](https://news.ycombinator.com/item?id=29911308))
+- [How I Use Stacked Git at $WORK](https://soap.coffee/~lthms/opinions/StackedGit.html)

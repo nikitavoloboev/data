@@ -113,3 +113,4 @@
 - [Mongo DB Is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs)
 - [When you watch too much Succession (Succession parody)](https://www.youtube.com/watch?app=desktop&v=9nmZ6bN6LsU)
 - [Software engineer interns on their first day be like...](https://www.youtube.com/watch?v=YZ5tOe7y9x4)
+- [hiccupFX.js](https://hiccupfx.telnet.asia/) - Get that "client side render" look. ([Lobsters](https://lobste.rs/s/oybdsa/get_client_side_render_look)) ([HN](https://news.ycombinator.com/item?id=29948866))
