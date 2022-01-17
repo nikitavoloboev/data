@@ -16,3 +16,4 @@
 - [Neuro-Symbolic Sudoku Solver](https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver) - Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.
 - [Sudoku solver in Nix](https://github.com/siraben/nix-sudoku)
 - [JavaScript Sudoku solver (2021)](https://lisperator.net/blog/javascript-sudoku-solver/)
+- [Crosswordle](https://crosswordle.vercel.app/) - Sudoku meets Wordle.

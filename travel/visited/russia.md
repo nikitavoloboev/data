@@ -408,3 +408,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Лучшие и худшие города России (2019)](https://www.youtube.com/watch?v=Rfcov5c5RdA)
 - [Макарена - YouTube](https://www.youtube.com/channel/UCKgNnp6G0dlwTS1eR4-77yQ/videos)
 - [kuji podcast - YouTube](https://www.youtube.com/c/KuJiPodcast/videos)
+- [Один день Ивана Денисовича](https://polka.academy/articles/514)

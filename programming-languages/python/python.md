@@ -418,3 +418,4 @@ for i, _ in enumerate(nums):
 - [Implementing Proxy Pattern in Python (2020)](https://rednafi.github.io/digressions/python/2020/06/16/python-proxy-pattern.html)
 - [Deciphering Python’s Metaclasses (2020)](https://rednafi.github.io/digressions/python/2020/06/26/python-metaclasses.html)
 - [Exploring Cooperative Concurrency Primitives in Python](https://github.com/rednafi/think-async)
+- [Python Bytecode Explained](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) ([HN](https://news.ycombinator.com/item?id=29959262))

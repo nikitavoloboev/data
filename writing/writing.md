@@ -217,7 +217,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [How do you write simple explanations without sounding condescending (2020)](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/) ([Lobsters](https://lobste.rs/s/qzdqit/how_do_you_write_simple_explanations))
 - [The Craft of Writing Effectively (2014)](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 - [Writing well](https://www.julian.com/guide/write/intro) ([HN](https://news.ycombinator.com/item?id=25216442)) ([Tweet](https://twitter.com/Julian/status/1460306494159609856))
-- [Prose for Programmers Book](https://github.com/joshuacc/prose-for-programmers) - Book aimed at helping software developers write better prose.
+- [Prose for Programmers Book](https://proseforprogrammers.dev/) - Book aimed at helping software developers write better prose. ([Code](https://github.com/joshuacc/prose-for-programmers))
 - [Resources for Writers](https://substack.com/resources)
 - [How to write good prompts: using spaced repetition to create understanding (2020)](https://andymatuschak.org/prompts/) ([HN](https://news.ycombinator.com/item?id=25600108))
 - [Sci-fi writers on how they build their worlds (2021)](https://www.theguardian.com/books/2021/jan/05/if-the-aliens-lay-eggs-how-does-that-affect-architecture-sci-fi-writers-on-how-they-build-their-worlds)

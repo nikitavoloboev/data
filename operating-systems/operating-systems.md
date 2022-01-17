@@ -139,6 +139,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Vinix](https://github.com/vlang/vinix) - Modern, fast, and useful operating system in the V programming language.
 - [Aero](https://github.com/Andy-Python-Programmer/aero) - Experimental, Unix-like OS written in Rust.
 - [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system optimized for E Ink displays.
+- [Essence](https://nakst.gitlab.io/essence) - Desktop operating system built from scratch. ([HN](https://news.ycombinator.com/item?id=29950740)) ([Code](https://gitlab.com/nakst/essence))
 
 ## Notes
 

@@ -70,3 +70,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Karabiner Docs](https://karabiner-elements.pqrs.org/docs/)
 - [Compose Key On macOS](https://github.com/Granitosaurus/macos-compose) ([HN](https://news.ycombinator.com/item?id=24553013))
 - [Remap Keyboard Shortcuts Karabiner Elements (2020)](https://www.youtube.com/watch?v=vysHEYTp0H4)
+- [Новый мак, .dotfiles #4, Karabiner, keyboard maestro, Alfred (2022)](https://www.youtube.com/watch?v=wSbZoW0cAww)
