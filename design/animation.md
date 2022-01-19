@@ -65,3 +65,4 @@
 - [midori](https://github.com/aeroheim/midori) - Library for animating image backgrounds in websites using WebGL.
 - [ossos](https://github.com/sketchpunklabs/ossos) - Character Animation Library.
 - [GreenSock](https://greensock.com/) - Professional-grade animation for the modern web. ([Code](https://github.com/greensock/GSAP))
+- [Animatize](https://animatize.com/) - Drag a character with your mouse to create an animation. ([Code](https://github.com/panphora/animatize))

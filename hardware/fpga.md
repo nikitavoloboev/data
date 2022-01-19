@@ -83,3 +83,4 @@
 - [Project Tang](https://github.com/mmicko/prjtang) - Documenting the Anlogic FPGA bit-stream format.
 - [FPGA 101 - Workshop materials](https://github.com/mmicko/fpga101-workshop)
 - [Multiplication with FPGA DSPs (2021)](https://projectf.io/posts/multiplication-fpga-dsps/)
+- [FPGA board constraints](https://github.com/hdl/constraints) - Constraint files for Hardware Description Language (HDL) designs targeting FPGA boards. ([Docs](https://hdl.github.io/constraints/))

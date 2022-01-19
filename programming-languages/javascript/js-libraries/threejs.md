@@ -81,3 +81,4 @@
 - [Computer Graphics Études with WebGL and Three.js](https://boytchev.github.io/etudes/) ([Code](https://github.com/boytchev/etudes))
 - [Three Story Controls](https://github.com/nytimes/three-story-controls) - Three.js camera toolkit for creating interactive 3d stories.
 - [React ThreeJS Fiber Journey](https://journey.pmnd.rs/) ([Code](https://github.com/pmndrs/threejs-journey))
+- [use-p2](https://github.com/pmndrs/use-p2) - React hooks for p2-es. Use this in combination with react-three-fiber.

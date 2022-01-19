@@ -205,3 +205,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [node-podcast-parser](https://github.com/akupila/node-podcast-parser) - Parses a podcast RSS feed and returns easy to use object.
 - [podcast-transcriber](https://github.com/lukasschwab/podcast-transcriber) - Fully automated Cloud Function podcast transcriptions with Deepgram.
 - [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)
+- [Podcast.ru](https://podcast.ru/) - Создаёт удобную и красивую страницу для вашего подкаста со ссылками на все популярные сервисы.

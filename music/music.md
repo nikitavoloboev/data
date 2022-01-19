@@ -183,3 +183,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Wav2Rec](https://github.com/TariqAHassan/wav2rec) - Library for music recommendation based on recent advances in self-supervised neural networks.
 - [MT3: Multi-Task Multitrack Music Transcription](https://github.com/magenta/mt3)
 - [Welcoming Recorded Music to the Public Domain (2022)](https://blog.archive.org/2022/01/01/welcoming-recorded-music-to-the-public-domain/) ([HN](https://news.ycombinator.com/item?id=29760454))
+- [What’s the best use of music in a tv show/movie (2022)](https://twitter.com/blairsmani/status/1482116881859424256)

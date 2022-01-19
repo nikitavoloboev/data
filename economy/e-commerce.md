@@ -134,3 +134,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Scale To The Moon](https://scale.shiptothemoon.com/) - Resource library made exclusively for e-commerce.
 - [Interview with CEO of Flexport: Supply chain crunch, modern logistics (2022)](https://noahpinion.substack.com/p/interview-ryan-petersen-ceo-of-flexport) ([HN](https://news.ycombinator.com/item?id=29781902))
 - [Solidus](https://solidus.io/) - Rails eCommerce Platform. ([Code](https://github.com/solidusio/solidus))
+- [Vend POS Systems](https://www.vendhq.com/) - Retail POS Software.

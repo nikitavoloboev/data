@@ -172,3 +172,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Where is each chess piece usually captured? Data from 15000 games](https://www.reddit.com/r/dataisbeautiful/comments/npscky/oc_where_is_each_chess_piece_usually_captured/)
 - [Сергей Карякин и Теймур Раджабов: сахар для ума (Kuji Podcast) (2021)](https://www.youtube.com/watch?v=W8W13RTRn30)
 - [Halogen Chess engine](https://github.com/KierenP/Halogen) - Written in c++. Implements Null-move pruning, Late move reductions, Quiessence search and a Transposition table that uses Zobrist Hashing.
+- [chessboard.js](https://github.com/oakmac/chessboardjs) - JavaScript chessboard component. ([Web](https://chessboardjs.com/))

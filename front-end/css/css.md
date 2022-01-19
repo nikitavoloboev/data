@@ -441,3 +441,4 @@ all: unset
 - [unocss-preset-scalpel](https://github.com/macheteHot/unocss-preset-scalpel) - Scalpel Preset for UnoCSS.
 - [CSS Gradients that avoid the “gray dead zone”](https://www.joshwcomeau.com/css/make-beautiful-gradients/) ([HN](https://news.ycombinator.com/item?id=29894608))
 - [A Deep CSS Dive Into Radial And Conic Gradients (2022)](https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/)
+- [CSS Speedrun](https://css-speedrun.netlify.app/) - Small game to test and improve your CSS knowledge. ([Code](https://github.com/Vincenius/css-speedrun))

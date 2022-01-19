@@ -455,3 +455,5 @@
 - [RuDOLPH](https://github.com/sberbank-ai/ru-dolph) - One Hyper-Modal Transformer can be creative as DALL-E and smart as CLIP.
 - [PLM papers](https://github.com/wxl1999/PLMPapers) - Paper list of pre-trained language models (PLMs).
 - [Ongoing research training transformer language models at scale, including: BERT & GPT-2](https://github.com/bigscience-workshop/Megatron-DeepSpeed)
+- [Improving language models by retrieving from trillions of tokens (2022)](https://arxiv.org/abs/2112.04426) ([Code](https://github.com/lucidrains/RETRO-pytorch))
+- [EntitySeg Toolbox](https://github.com/dvlab-research/Entity) - Towards precise and open-world image segmentation.

@@ -909,6 +909,7 @@
 - [EPUBKit](https://github.com/witekbobrowski/EPUBKit) - Simple Swift library for parsing EPUB documents.
 - [SVGPath](https://github.com/nicklockwood/SVGPath) - Cross-platform Swift library for parsing SVGPath strings.
 - [Datadog SDK for Swift testing](https://github.com/DataDog/dd-sdk-swift-testing)
+- [CloudKitSyncMonitor](https://github.com/ggruen/CloudKitSyncMonitor) - Monitor current state of NSPersistentCloudKitContainer sync.
 
 ## Other (not lib)
 

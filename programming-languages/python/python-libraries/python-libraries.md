@@ -236,7 +236,7 @@
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python. ([How to use Flask with gevent (uWSGI and Gunicorn editions)](https://iximiuz.com/en/posts/flask-gevent-tutorial/))
 - [Meshio](https://github.com/nschloe/meshio) - I/O for mesh files.
 - [Streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python.
-- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing.
+- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing. ([How Hypothesis Works](https://hypothesis.works/articles/how-hypothesis-works/))
 - [kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [GPUtil](https://github.com/anderskm/gputil) - Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python.
 - [anosql](https://github.com/honza/anosql) - Easy SQL in Python.
@@ -654,6 +654,7 @@
 - [PyJulia](https://github.com/JuliaPy/pyjulia) - Python interface to Julia.
 - [pyhash](https://github.com/flier/pyfasthash) - Python Non-cryptographic Hash Library.
 - [trycast](https://github.com/davidfstr/trycast) - Parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
+- [Pyasmtools](https://github.com/MoserMichael/pyasmtool) - Explores the python bytecode, provides some tools to access it.
 
 ## Links
 

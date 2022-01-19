@@ -105,6 +105,7 @@
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
 - [Spotify TS](https://github.com/tspotify/tspotify)
+- [Spotify TS 2](https://github.com/backtrackapp/spotify.js)
 - [Spotify Go](https://github.com/zmb3/spotify)
 - [Spotify GraphQL](https://github.com/wittydeveloper/spotify-graphql) - GraphQL schema for Spotify WebAPI.
 - [Spotify Python](https://github.com/plamere/spotipy)

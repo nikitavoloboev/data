@@ -54,3 +54,4 @@
 - [Blockkit](https://github.com/imryche/blockkit) - Python library for building UI interfaces for Slack apps.
 - [Slack alternatives (2021)](https://twitter.com/sdw/status/1468308805939122181) ([More](https://twitter.com/sandofsky/status/1468259582317240321))
 - [Terraform Provider for Slack](https://github.com/TimDurward/terraform-provider-slack)
+- [Slack Dumper](https://github.com/rusq/slackdump) - Command line utility to create and save an archive of slack public and private messages and threads, files, and users.

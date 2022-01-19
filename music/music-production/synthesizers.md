@@ -55,3 +55,4 @@
 - [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment. ([Code](https://github.com/grz0zrg/fsynth))
 - [List of open-source synths](https://github.com/Atarity/diy-synths)
 - [Digital Audio Synthesizer in Rust (2022)](https://0xc45.com/blog/digital-audio-synthesizer-in-rust/)
+- [discoDSP OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim AAX / AU / VST / VST3 based synthesizer.

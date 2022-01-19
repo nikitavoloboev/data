@@ -49,3 +49,4 @@
 - [Experimenting with brain-computer interfaces in JavaScript (2018)](https://medium.com/@devdevcharlie/experimenting-with-brain-computer-interfaces-in-javascript-8d6cb891fda8) ([HN](https://news.ycombinator.com/item?id=29704408))
 - [Mother of all BCI Benchmarks](https://github.com/NeuroTechX/moabb)
 - [Why brain-machine interfaces progress so slowly](https://notes.invertedpassion.com/Consciousness/Why+brain-machine+interfaces+progress+so+slowly)
+- [Dynamical Systems (in Neuro) Reading List](https://github.com/awillats/dynamics-in-neuro-reading-list) - Centered around the practical application of linear dynamical systems models to predict neural data.

@@ -155,3 +155,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Annotated equations for increased readability and understanding of papers](https://twitter.com/sibinmohan/status/1480583840858996743) ([HN](https://news.ycombinator.com/item?id=29898655))
 - [Papers I read](https://github.com/shagunsodhani/papers-I-read)
 - [Sci Hub Injector](https://github.com/rickwierenga/sci-hub-injector) - Adds SciHub links to popular publisher websites. ([HN](https://news.ycombinator.com/item?id=29954046))
+- [tl;dr papers](https://www.tldrpapers.com/) - Science abstracts a second grader can understand.

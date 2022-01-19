@@ -179,3 +179,4 @@
 - [How to read SwiftUI's source code](https://twitter.com/BenPious/status/1479868597166125067)
 - [Understanding SwiftUI Layout Behaviors (2021)](https://defagos.github.io/understanding_swiftui_layout_behaviors/)
 - [Building a Collection For SwiftUI - Introduction (2020)](https://defagos.github.io/swiftui_collection_intro/)
+- [Using Core Data With SwiftUI - An Introduction](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI)

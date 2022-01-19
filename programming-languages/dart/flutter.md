@@ -76,3 +76,4 @@
 - [Flutter Packages](https://github.com/flutter/packages) - Collection of useful packages maintained by the Flutter team.
 - [Lessons learned from migrating a native iOS app to Flutter](https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18) ([HN](https://news.ycombinator.com/item?id=29857409))
 - [Flutter Staggered Animations](https://github.com/mobiten/flutter_staggered_animations) - Easily add staggered animations to your ListView, GridView, Column and Row children.
+- [From Native to React Native to Flutter (2022)](https://zerodha.tech/blog/from-native-to-react-native-to-flutter/)

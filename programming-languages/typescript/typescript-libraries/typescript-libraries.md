@@ -290,6 +290,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [SDF-2D](https://github.com/schmelczerandras/sdf-2d) - Graphics library to enable the real-time rendering of 2D signed distance fields on the web.
 - [Tsconfig Type](https://github.com/harrysolovay/tsconfig-type) - Always up-to-date tsconfig.json type, transformed from its JSON Schema Store definition.
 - [aribb24](https://github.com/monyone/aribb24.js) - HTML5 subtitle renderer.
+- [TinyBase](https://github.com/tinyplex/tinybase) - Tiny, reactive JavaScript library for structured state and tabular data. ([Web](https://tinybase.org/)) ([HN](https://news.ycombinator.com/item?id=29945748))
+- [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ([Docs](https://danfo.jsdata.org/))
+- [Algolia Filters Query Builder](https://github.com/khaledosama999/algolia-filter-query-builder) - Parser for having a structured way for querying algolia similar to well known ODMs or ORMS.
 
 ## Links
 

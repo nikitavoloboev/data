@@ -393,3 +393,4 @@
 - [Zero-downtime schema migrations in Postgres using Reshape (2022)](https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/) ([HN](https://news.ycombinator.com/item?id=29825520))
 - [Who Contributed to PostgreSQL Development in 2020 and 2021?](http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html) ([HN](https://news.ycombinator.com/item?id=29910327))
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids).
+- [Why I Enjoy PostgreSQL – Infrastructure Engineer's Perspective (2022)](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/) ([HN](https://news.ycombinator.com/item?id=29971720))

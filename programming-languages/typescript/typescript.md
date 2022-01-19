@@ -220,6 +220,7 @@
 - [TypeScript Compiler Notes](https://github.com/microsoft/TypeScript-Compiler-Notes)
 - [Template for a TypeScript Language Service Plugin](https://github.com/orta/TypeScript-TSServer-Plugin-Template)
 - [ts-browser](https://github.com/harrysolovay/ts-browser) - Zero-config TypeScript compilation for web browsers.
+- [typescript/analyze-trace](https://github.com/microsoft/typescript-analyze-trace) - Tool for analyzing the output of tsc --generateTrace automatically.
 
 ## Images
 

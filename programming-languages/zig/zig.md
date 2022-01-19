@@ -90,3 +90,5 @@
 - [A Comparison of Rust and Zig](https://expandingman.gitlab.io/tvu-compare/) ([HN](https://news.ycombinator.com/item?id=29762988))
 - [Analysis of the overhead of a minimal Zig program (2022)](https://zig.news/aransentin/analysis-of-the-overhead-of-a-minimal-zig-program-4lg0) ([Lobsters](https://lobste.rs/s/hbceut/analysis_overhead_minimal_zig_program))
 - [Zig Strings in 5 minutes](https://www.huy.rocks/everyday/01-04-2022-zig-strings-in-5-minutes) ([Lobsters](https://lobste.rs/s/nimeia/zig_strings_5_minutes))
+- [Failing to Learn Zig via Advent of Code (2022)](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/) ([HN](https://news.ycombinator.com/item?id=29965239)) ([Lobsters](https://lobste.rs/s/or1fr4/failing_learn_zig_via_advent_code))
+- [Let's build an Entity Component System from scratch in Zig (2022)](https://devlog.hexops.com/2022/lets-build-ecs-part-1)

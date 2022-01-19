@@ -182,3 +182,4 @@ All active variables can be seen by running `env`.
 - [Passing runtime data to AWK (2020)](https://blog.sanctum.geek.nz/passing-runtime-data-to-awk/)
 - [The Way](https://github.com/out-of-cheese-error/the-way) - Code snippets manager for your terminal.
 - [Practical Shell Patterns I Actually Use (2022)](https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/) ([HN](https://news.ycombinator.com/item?id=29861532))
+- [The missing comprehensive package manager for Shell (2022)](https://www.t-ravis.com/post/shell/the_missing_comprehensive_package_manager_for_shell/) ([Lobsters](https://lobste.rs/s/3wwrcf/missing_comprehensive_package_manager))

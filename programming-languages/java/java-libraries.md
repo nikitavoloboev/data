@@ -43,6 +43,7 @@
 - [Guava](https://github.com/google/guava) - Google core libraries for Java.
 - [Reactor Core](https://github.com/reactor/reactor-core) - Non-Blocking Reactive Foundation for the JVM.
 - [Data Faker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java and Kotlin.
+- [Jodd](https://github.com/oblac/jodd) - Set of micro-frameworks and developer-friendly tools and utilities. ([Web](https://jodd.org/)) ([HN](https://news.ycombinator.com/item?id=29971182))
 
 ## Links
 

@@ -1,6 +1,6 @@
 # Russia
 
-The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/ksnchk/status/1461023711411191810)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
+The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/ksnchk/status/1461023711411191810)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
 It's a travesty that citizen's taxes are are being stolen to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The biggest abuse of human rights.
 
@@ -409,3 +409,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Макарена - YouTube](https://www.youtube.com/channel/UCKgNnp6G0dlwTS1eR4-77yQ/videos)
 - [kuji podcast - YouTube](https://www.youtube.com/c/KuJiPodcast/videos)
 - [Один день Ивана Денисовича](https://polka.academy/articles/514)
+- [How navalny became Navalny The photos that capture 17 years of activism, investigations, campaigning, and zeal (2022)](https://meduza.io/en/feature/2021/02/05/how-navalny-became-navalny)

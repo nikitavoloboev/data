@@ -447,3 +447,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Tornado Pool](https://github.com/tornadocash/tornado-nova) - Experimental version of tornado.cash that allows to deposit arbitrary amounts and make internal(shielded) transfers.
 - [cairopal](https://github.com/abigger87/cairopal) - Modern, Flexible Starknet Dapp Template.
 - [EVM Codes](https://www.evm.codes/) - Interactive reference to Ethereum Virtual Machine Opcodes. ([Code](https://github.com/comitylabs/evm.codes)) ([Article](https://tairasim.com/evm-codes/))
+- [Solidly](https://github.com/andrecronje/solidly) - Allows low cost, near 0 slippage trades on uncorrelated or tightly correlated assets.
+- [Element Protocol](https://github.com/element-fi/elf-contracts) - Allows a tokenized yield bearing position (ETH, BTC, USDC, etc) to be split into two separate tokens, the 1) principal token, and the 2) yield token.
+- [VestedERC20](https://github.com/ZeframLou/vested-erc20) - Wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
+- [Bunni](https://github.com/ZeframLou/bunni) - ERC-20 LP tokens for Uniswap V3.

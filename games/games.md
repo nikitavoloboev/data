@@ -134,6 +134,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Cosmic Verge](https://github.com/khonsulabs/cosmicverge) - 2d, persistent multiplayer, single-universe game written in Rust.
 - [Space-shooter.c](https://github.com/tsherif/space-shooter.c) - Cross-platform, top-down 2D space shooter written in C. ([HN](https://news.ycombinator.com/item?id=29520200))
 - [Cornell McRay t'Racing](https://github.com/h3r2tic/cornell-mcray) - Quick'n'dirty game sample using kajiya, physx-rs, and dolly.
+- [Wordle Clone](https://github.com/hannahcode/wordle) - Clone of the popular game Wordle made using React, Typescript, and Tailwind.
 
 ## Awesome games (other)
 
@@ -257,3 +258,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Roblox Pressured Us to Delete Our Video. So We Dug Deeper. (2021)](https://www.youtube.com/watch?v=vTMF6xEiAaY) ([HN](https://news.ycombinator.com/item?id=29539875))
 - [Heroes of Might and Magic (2021)](https://www.filfre.net/2021/12/heroes-of-might-and-magic/) ([HN](https://news.ycombinator.com/item?id=29692957))
 - [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)
+- [What games do respect your time and why? (2022)](https://www.reddit.com/r/patientgamers/comments/s608zd/what_games_do_respect_your_time_and_why/)

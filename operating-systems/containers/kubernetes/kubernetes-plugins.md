@@ -44,6 +44,7 @@
 - [kubectl-graph](https://github.com/steveteuber/kubectl-graph) - kubectl plugin to visualize Kubernetes resources and relationships.
 - [kubectl-plugins](https://github.com/emreodabas/kubectl-plugins) - Plugin useful for Bulk operations.
 - [OpenEBSCTL](https://github.com/openebs/openebsctl) - kubectl plugin to manage OpenEBS storage components.
+- [Gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots.
 
 ## Operators
 

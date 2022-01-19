@@ -534,3 +534,4 @@
 - [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras.
 - [Instant Neural Graphics Primitives](https://github.com/NVlabs/instant-ngp) - Lightning fast NeRF and more.
 - [Dynamic Head: Unifying Object Detection Heads with Attentions (2021)](https://arxiv.org/abs/2106.08322) ([Code](https://github.com/microsoft/DynamicHead))
+- [ELSA: Enhanced Local Self-Attention for Vision Transformer (2021)](https://arxiv.org/abs/2112.12786) ([Code](https://github.com/damo-cv/ELSA))

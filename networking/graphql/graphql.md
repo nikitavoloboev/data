@@ -286,3 +286,4 @@
 - [Serverless GraphQL using with AWS and ent (2022)](https://entgo.io/blog/2022/01/04/serverless-graphql-using-aws/)
 - [GraphCDN examples](https://github.com/graphcdn/examples) - Curated list of examples on how to set up GraphCDN with different kinds of APIs and services.
 - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - Fully-featured, simple to set up, performant and extendable server. ([Web](https://www.graphql-yoga.com/)) ([Example](https://graphql.wtf/episodes/24-graphql-yoga))
+- [gqldoc](https://github.com/Code-Hex/gqldoc) - Command line tool to generate documents from GraphQL schema or your GraphQL endpoint.

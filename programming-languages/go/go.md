@@ -688,3 +688,4 @@ if err != nil {
 - [Large-scale, semi-automated Go GC tuning (2020)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) ([HN](https://news.ycombinator.com/item?id=29902825))
 - [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 - [What I'd like to see in Go 2.0 (2022)](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
+- [Set of materials for Go workshops](https://github.com/GolangUA/workshops)

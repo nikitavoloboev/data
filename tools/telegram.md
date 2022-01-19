@@ -26,6 +26,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf)) ([Telegraf Throttler](https://github.com/KnightNiwrem/telegraf-throttler))
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
+- [tbcomctl](https://github.com/rusq/tbcomctl) - Common controls to use with Telebot library.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python. ([Docs](https://docs.pyrogram.org/))
@@ -86,6 +87,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TGVCBot](https://github.com/ArnabXD/TGVCBot) - Telegram VC Music Bot.
 - [snazzybot](https://github.com/xencodes/snazzybot) - Get results across web right on Telegram.
 - [text-to-notion-bot](https://github.com/dartungar/text-to-notion-bot) - Simple self-hosted single-user telegram bot for sending text into Notion, using the official API.
+- [Lightning-sentinel](https://github.com/tee8z/lightning-sentinel) - Telegram bot written in rust that will monitor a lighting node over tor.
 
 ## Notes
 

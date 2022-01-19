@@ -280,6 +280,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Best audio book experience you’ve had?](https://www.reddit.com/r/suggestmeabook/comments/s1k303/best_audio_book_experience_youve_had/)
 - [Best fiction books that are just beautifully written?](https://www.reddit.com/r/suggestmeabook/comments/s1muym/best_fiction_books_that_are_just_really/)
 - [Recommended books organized by country](https://fivebooks.com/category/world/)
+- [What is the most emotionally devastating book you’ve ever read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/)
 
 ## Interesting Prose Books
 

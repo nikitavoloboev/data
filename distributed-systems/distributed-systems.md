@@ -244,3 +244,4 @@
 - [Fault](https://github.com/Fault-lang/Fault) - Modeling language for building system dynamic models and checking them using a combination of first order logic and probability.
 - [Events, Event Sourcing, and the Path Forward (2022)](https://relistan.com/event-sourcing-and-event-bus)
 - [How to make distributed system available (2022)](https://twitter.com/Franc0Fernand0/status/1482369263574949893)
+- [Best resources to learn about data and distributed systems (2022)](https://pierrezemb.fr/posts/distsys-resources/)

@@ -144,3 +144,4 @@
 - [Make the “semantic web” web 3.0 again – with the help of SQLite (2022)](https://ansiwave.net/blog/semantic-web.html) ([HN](https://news.ycombinator.com/item?id=29897611))
 - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html) ([HN](https://news.ycombinator.com/item?id=29902345))
 - [sqlite3vfshttp](https://github.com/psanford/sqlite3vfshttp) - Go sqlite VFS for querying databases over http(s).
+- [Containerize Go and SQLite with Docker (2022)](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0) ([HN](https://news.ycombinator.com/item?id=29972655))

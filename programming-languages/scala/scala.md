@@ -142,3 +142,4 @@
 - [sbt-typelevel](https://github.com/typelevel/sbt-typelevel) - SBT plugin which understands binary compatibility.
 - [Tetrix in Scala](https://eed3si9n.com/tetrix-in-scala/)
 - [Functional event-driven architecture: Powered by Scala 3 (2021)](https://leanpub.com/feda) ([Code](https://github.com/gvolpe/trading))
+- [Describable, Typesafe Computations - Daniel Westheide (2022)](https://www.youtube.com/watch?v=b3qUNnJYXb4)

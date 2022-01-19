@@ -229,3 +229,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Tuning Your Code’s Performance for Apple Silicon](https://developer.apple.com/documentation/apple-silicon/tuning-your-code-s-performance-for-apple-silicon) ([HN](https://news.ycombinator.com/item?id=29719544))
 - [macOS Setup after 15 Years of Linux (2021)](https://hookrace.net/blog/macos-setup/) ([HN](https://news.ycombinator.com/item?id=29742551))
 - [Machium](https://github.com/PsychoBird/Machium) - Debugger for Apple Silicon. ([Article](https://psychobird.github.io/Machium/Machium.html))
+- [Apple Data Formats and Knowledge](https://github.com/hack-different/apple-knowledge) - Collection of reverse engineered Apple formats, protocols, or other interesting bits.

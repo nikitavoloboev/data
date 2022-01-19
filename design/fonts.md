@@ -310,3 +310,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [The Model Book of Calligraphy (1561–1596)](https://publicdomainreview.org/collection/the-model-book-of-calligraphy-1561-1596) ([HN](https://news.ycombinator.com/item?id=29902560))
 - [Hyperglot](https://github.com/rosettatype/hyperglot) - Database and tools for detecting language support in fonts.
 - [Liga](https://github.com/EzequielRamis/liga) - Add ligatures to any programming font.
+- [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.

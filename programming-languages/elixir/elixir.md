@@ -138,3 +138,4 @@
 - [Elixir как второй язык](https://ru.code-basics.com/languages/elixir)
 - [Three Ways to Debug Code in Elixir (2021)](https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html) ([HN](https://news.ycombinator.com/item?id=29441653))
 - [Elixir Cross Referencer](https://github.com/bootlin/elixir)
+- [Who Watches Watchmen? – Integrating Elixir Applications with Systemd (2022)](https://hauleth.dev/post/who-watches-watchmen-i/) ([HN](https://news.ycombinator.com/item?id=29971515))

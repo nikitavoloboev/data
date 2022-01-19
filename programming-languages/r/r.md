@@ -119,3 +119,4 @@
 - [covr](https://github.com/r-lib/covr) - Test coverage reports for R.
 - [cpp11](https://github.com/r-lib/cpp11) - Helps you to interact with R objects using C++ code.
 - [vroom](https://github.com/r-lib/vroom) - Fastest delimited reader for R.
+- [geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text in ggplot2.

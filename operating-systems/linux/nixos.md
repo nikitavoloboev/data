@@ -183,4 +183,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [A second look at NixOS (2022)](https://psibi.in/posts/2022-01-01-nixos.html)
 - [deploy](https://github.com/winterqt/deploy) - Yet another NixOS deployment tool.
 - [Nixinate](https://github.com/MatthewCroughan/nixinate) - NixOS Deployment Tool. Generates a deployment script for each nixosConfiguration you already have in your flake.
-- [NixOS: The Ultimate Dev Environment? (2022)](https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html)
+- [NixOS: The Ultimate Dev Environment? (2022)](https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html) ([Lobsters](https://lobste.rs/s/pwrni4/nixos_ultimate_dev_environment))

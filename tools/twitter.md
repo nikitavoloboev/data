@@ -1,5 +1,7 @@
 # [Twitter](https://twitter.com/)
 
+[Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great.
+
 ## Interesting hash tags
 
 - [#WomensArt](https://twitter.com/hashtag/WomensArt)
@@ -147,3 +149,4 @@
 - [Twitter Stats Collection and Analysis](https://github.com/jschuur/twitter-stats) - Self-hosted performance tracking for your Twitter followers and tweets.
 - [Pikaso](https://pikaso.me/) - Get a clean and clutter-free screenshot of any tweet.
 - [Twift](https://github.com/daneden/Twift) - Asynchronous Twitter Swift library based on the Twitter v2 API.
+- [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) - Remove distractions from the new Twitter layout. Browser extension.

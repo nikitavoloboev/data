@@ -109,3 +109,4 @@
 - [Logidze](https://github.com/palkan/logidze) - Database changes log for Rails.
 - [Rails: Postgres Native Partitioning (2022)](https://www.johnnunemaker.com/rails-postgres-native-partitioning/)
 - [Rails Feature Flags: Now So Flippin' Easy You Won't Believe It (2021)](https://www.johnnunemaker.com/rails-feature-flags/)
+- [Arproxy](https://github.com/cookpad/arproxy) - Proxy between ActiveRecord and database adapter.
