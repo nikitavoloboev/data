@@ -78,3 +78,4 @@ And here are Chrome extensions I use:
 - [pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library.
 - [Browser-Pwning](https://github.com/SpiralBL0CK/Browser-Pwning-) - Proper well structured documentation for getting started with chrome pwning & v8 pwning.
 - [Omni](https://github.com/alyssaxuu/omni) - All-in-one interface for Chrome.
+- [Falcon](https://chrome.google.com/webstore/detail/falcon/mmifbbohghecjloeklpbinkjpbplfalb) - Chrome extension for full text history search. ([Code](https://github.com/lengstrom/falcon))

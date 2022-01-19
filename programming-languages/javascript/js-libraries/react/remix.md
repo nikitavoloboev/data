@@ -62,3 +62,5 @@
 - [Remix Serverless Starter](https://github.com/shamsup/remix-starter-serverless)
 - [remix-graphql](https://github.com/thomasheyenbrock/remix-graphql) - Utilities for using GraphQL with a Remix app.
 - [rescript-remix](https://github.com/tom-sherman/rescript-remix) - Bindings and helpers for Remix.
+- [Remix vs Next.js (2022)](https://remix.run/blog/remix-vs-next) ([HN](https://news.ycombinator.com/item?id=29983950))
+- [ViteKit](https://github.com/egoist/vitekit) - Remix and Vite had a baby.

@@ -28,3 +28,4 @@
 - [sqlite3.dart](https://github.com/simolus3/sqlite3.dart) - Dart packages to use SQLite from Dart via dart:ffi.
 - [Melos](https://github.com/invertase/melos) - Tool for managing Dart projects with multiple packages.
 - [Very Good CLI](https://github.com/VeryGoodOpenSource/very_good_cli) - CLI for Dart.
+- [Dart Build](https://github.com/dart-lang/build) - Build system for Dart written in Dart.

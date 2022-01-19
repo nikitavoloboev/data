@@ -271,3 +271,4 @@
 - [Ask HN: Resources for “Learning” Manufacturing? (2022)](https://news.ycombinator.com/item?id=29793770)
 - [Hardware Acceleration of Sparse and Irregular Tensor Computations of ML Models: A Survey and Insights (2020)](https://arxiv.org/abs/2007.00864)
 - [Nanometer-Scale Ge-Based Adaptable Transistors Providing Programmable Negative Differential Resistance Enabling Multivalued Logic (2021)](https://www.researchgate.net/publication/355683752_Nanometer-Scale_Ge-Based_Adaptable_Transistors_Providing_Programmable_Negative_Differential_Resistance_Enabling_Multivalued_Logic) ([Lobsters](https://lobste.rs/s/pcnryd/cpus_could_use_85_percent_fewer))
+- [How I built my own Sega Mega Drive hardware dev kit from scratch (2022)](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)

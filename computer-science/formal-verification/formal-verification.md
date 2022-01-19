@@ -111,3 +111,4 @@
 - [A Manifesto for Applicable Formal Methods (2021)](https://arxiv.org/abs/2112.12758v1)
 - [Autosubst OCaml](https://github.com/uds-psl/autosubst-ocaml) - OCaml reimplementation of the Autosubst 2 code generator.
 - [Using lightweight formal methods to validate a key-value storage node in Amazon S3 (2021)](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)
+- [Less is more: multiparty session types revisited (2019)](https://dl.acm.org/doi/10.1145/3290343) ([Lobsters](https://lobste.rs/s/wjldtd/less_is_more_multiparty_session_types))

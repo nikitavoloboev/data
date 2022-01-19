@@ -158,3 +158,4 @@
 - [Dsq](https://github.com/multiprocessio/dsq) - Command line tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. ([Article](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)) ([HN](https://news.ycombinator.com/item?id=29892463))
 - [Treating SQL like code (2022)](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e) ([HN](https://news.ycombinator.com/item?id=29921528))
 - [SQL Formatter](http://mattdziuban.com/sql-formatter/) - Polyglot SQL formatter. ([Code](https://github.com/mrdziuban/sql-formatter))
+- [Sqllogictest](https://www.sqlite.org/sqllogictest/doc/trunk/about.wiki) - Program designed to verify that an SQL database engine computes correct results by comparing the results to identical queries from other SQL database engines. ([Sqllogictest-rs](https://github.com/singularity-data/sqllogictest-rs))

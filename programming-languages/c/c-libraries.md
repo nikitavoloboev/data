@@ -115,3 +115,4 @@
 - [libcork](https://github.com/dcreager/libcork) - Simple, easily embeddable cross-platform C library. ([Docs](https://libcork.io/))
 - [s_task](https://github.com/xhawk18/s_task) - Awaitable coroutine library for C.
 - [Trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside inerrupts) and real-time PC logging (trace ID visualization).
+- [Hatrack](https://github.com/viega/hatrack) - Collection of hash tables for parallel programming, including lock-free, wait-free tables.

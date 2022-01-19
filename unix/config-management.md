@@ -42,3 +42,4 @@
 - [Heptagon of Configuration (2019)](https://matt-rickard.com/heptagon-of-configuration/?s=09)
 - [Itamae](https://github.com/itamae-kitchen/itamae) - Simple and lightweight configuration management tool inspired by Chef.
 - [Rubric](https://github.com/rednafi/rubric) - Linter Config Initialization for Python.
+- [Holistic Configuration Management at Facebook (2015)](https://research.facebook.com/publications/holistic-configuration-management-at-facebook/) ([Lobsters](https://lobste.rs/s/656c5t/holistic_configuration_management_at))

@@ -83,3 +83,5 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [OpenBSD: That packet filter explained (2021)](https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/)
 - [NanoPi R4S - ARM64- FreeBSD (2021)](https://www.pbdigital.org/post/2021-11-15-freebsd-arm-r4s/)
 - [FreeBSD jails for fun and profit](https://topikettunen.com/blog/freebsd-jails-for-fun-and-profit/)
+- [FreeBSD 13.0 Base Jails With ZFS and VNET (2022)](https://randomnixfix.wordpress.com/2022/01/15/freebsd-13-0-base-jails-with-zfs-and-vnet/)
+- [BCHS](https://learnbchs.org/index.html) - OpenBSD, C, httpd and SQLite web stack. ([HN](https://news.ycombinator.com/item?id=29988951)) ([Web Code](https://github.com/kristapsdz/bchs))

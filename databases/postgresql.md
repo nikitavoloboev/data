@@ -394,3 +394,5 @@
 - [Who Contributed to PostgreSQL Development in 2020 and 2021?](http://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html) ([HN](https://news.ycombinator.com/item?id=29910327))
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids).
 - [Why I Enjoy PostgreSQL – Infrastructure Engineer's Perspective (2022)](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/) ([HN](https://news.ycombinator.com/item?id=29971720))
+- [Tricking PostgreSQL into using an insane, but faster, query plan (2021)](https://spacelift.io/blog/tricking-postgres-into-using-query-plan) ([HN](https://news.ycombinator.com/item?id=29981737))
+- [PostgreSQL query performance bottlenecks (2022)](https://pawelurbanek.com/postgresql-query-bottleneck) ([HN](https://news.ycombinator.com/item?id=29977856))

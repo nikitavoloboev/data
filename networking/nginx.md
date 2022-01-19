@@ -62,3 +62,4 @@
 - [kubectl-htpasswd](https://github.com/shibumi/kubectl-htpasswd) - nginx-ingress compatible basic-auth secret generator.
 - [How to deploy NGINX on kubernetes (2021)](https://varslashblog.com/nginx-kubernetes-deployment/)
 - [ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression.
+- [Do svidaniya, Igor, and thank you for Nginx (2022)](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/) ([HN](https://news.ycombinator.com/item?id=29985871))

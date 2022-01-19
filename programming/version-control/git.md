@@ -166,7 +166,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/status explorer for git.
 - [Lab](https://github.com/zaquestion/lab) - Wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab.
 - [Tips for a disciplined git workflow (2019)](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html) ([Reddit](https://www.reddit.com/r/programming/comments/bfbar2/tips_for_a_disciplined_git_workflow/))
-- [Git Town](https://github.com/Originate/git-town) - Generic, high-level Git workflow support.
+- [Git Town](https://github.com/git-town/git-town) - Generic, high-level Git workflow support. ([Docs](https://www.git-town.com/))
 - [libgit2](https://libgit2.org/) - Portable, pure C implementation of the Git core methods provided as a re-entrant linkable library.
 - [git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into master.
 - [rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.

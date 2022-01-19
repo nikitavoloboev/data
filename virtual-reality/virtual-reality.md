@@ -63,3 +63,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [The Machine To Be Another](http://beanotherlab.org/home/work/tmtba/) - Embodiment Virtual Reality (EVR) System that credibly facilitates the Body Transfer Illusion.
 - [Trippy things to do with VR (2021)](https://twitter.com/dan_abramov/status/1471905282733260804)
 - [Awesome Metaverse](https://github.com/M3-org/awesome-metaverse)
+- [I Spent Hundreds of Hours Working in VR (2022)](https://www.wired.com/story/hours-working-vr-tips/) ([HN](https://news.ycombinator.com/item?id=29978036))

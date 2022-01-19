@@ -39,3 +39,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [when](https://github.com/mitsuhiko/when) - Timezones from the command line. ([Web](https://mitsuhiko.github.io/when/?input=now))
 - [tz](https://github.com/oz/tz) - Helps you schedule things across time zones.
 - [TZIntl.js](https://www.masswerk.at/tzintl/) - International Date-Time Conversion.
+- [Dates, Times, Calendars— The Universal Source of Data Science Trauma (2019)](https://counting.substack.com/p/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1) ([Lobsters](https://lobste.rs/s/9q5ph2/dates_times_calendars_universal_source))

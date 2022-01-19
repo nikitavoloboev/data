@@ -22,3 +22,4 @@
 - [How To Play Poker (And Beat Your Friends) (2021)](https://www.coreyhaines.co/blog/poker)
 - [Poker Now](https://www.pokernow.club/) - Poker with Friends.
 - [poker-engine](https://github.com/chevtek/poker-engine) - Headless no-limit Texas Hold'em engine written completely in node.
+- [How A.I. Conquered Poker (2022)](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html) ([HN](https://news.ycombinator.com/item?id=29983043))

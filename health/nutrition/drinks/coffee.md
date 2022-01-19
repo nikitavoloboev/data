@@ -61,3 +61,4 @@
 - [The Humble Brilliance of Italy's Moka Coffee Pot (2018)](https://www.atlasobscura.com/articles/make-coffee-moka-pot) ([HN](https://news.ycombinator.com/item?id=29347665))
 - [A Beginner's Guide to Resting Coffee (2021)](https://www.youtube.com/watch?v=_Py8JOi3REg) ([Reddit](https://www.reddit.com/r/Coffee/comments/rrdmk1/james_hoffmann_a_beginners_guide_to_resting_coffee/))
 - [I quit caffeine](https://keygen.sh/blog/i-quit/) ([HN](https://news.ycombinator.com/item?id=29879052))
+- [The Coffee Maker: An Illustrated Look at the Career of James Hoffmann (2022)](https://www.nytimes.com/2022/01/18/dining/james-hoffmann-coffee.html) ([Reddit](https://www.reddit.com/r/Coffee/comments/s79aa1/nytimes_the_coffee_maker_an_illustrated_look_at/))

@@ -261,3 +261,4 @@
 - [Swift News Links](https://github.com/SAllen0400/swift-news)
 - [experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - Experimental tree-sitter grammar for the Swift programming language.
 - [Swift - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
+- [Tasks in Swift explained with code examples (2022)](https://www.avanderlee.com/concurrency/tasks/)

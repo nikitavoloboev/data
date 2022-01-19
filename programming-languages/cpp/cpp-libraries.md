@@ -317,6 +317,7 @@
 - [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++.
 - [libkdtree++](https://github.com/nvmd/libkdtree) - C++ template container implementation of k-dimensional space sorting, using a kd-tree.
 - [promise-cpp](https://github.com/xhawk18/promise-cpp) - C++ promise/A+ library in JavaScript style.
+- [cocoyaxi](https://github.com/idealvin/cocoyaxi) - Go-style coroutine library in C++11 and more. ([Lobsters](https://lobste.rs/s/xx6to6/go_style_coroutine_library_c_11_from))
 
 ## Links
 

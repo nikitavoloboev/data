@@ -1346,6 +1346,7 @@
 - [camino](https://github.com/camino-rs/camino) - UTF-8 encoded paths.
 - [rust-t1ha](https://github.com/flier/rust-t1ha) - Rust implementation for T1HA (Fast Positive Hash).
 - [Rust-Dpdk](https://github.com/flier/rust-dpdk) - Rust bindings to DPDK.
+- [Auto Launch](https://github.com/zzzgydi/auto-launch) - Auto launch any application or executable at startup.
 
 ## Cargo Plugins
 

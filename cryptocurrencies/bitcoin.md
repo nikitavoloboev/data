@@ -179,3 +179,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Clarinet](https://github.com/hirosystems/clarinet) - Simple, modern and opinionated runtime for writing, testing and integrating Clarity Smart contracts.
 - [Understanding Bitcoin Lightning (2020)](https://martyjon.es/bitcoin/2020/09/06/understanding-lightning-1.html)
 - [During 2021 Bitcoin consumed 134 TWh in total](https://twitter.com/digieconomist/status/1477420461122375683) ([HN](https://news.ycombinator.com/item?id=29769892))
+- [An anatomy of Bitcoin price manipulation (2022)](https://www.singlelunch.com/2022/01/09/an-anatomy-of-bitcoin-price-manipulation/) ([HN](https://news.ycombinator.com/item?id=29966533))

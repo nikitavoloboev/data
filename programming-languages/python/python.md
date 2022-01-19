@@ -419,3 +419,4 @@ for i, _ in enumerate(nums):
 - [Deciphering Python’s Metaclasses (2020)](https://rednafi.github.io/digressions/python/2020/06/26/python-metaclasses.html)
 - [Exploring Cooperative Concurrency Primitives in Python](https://github.com/rednafi/think-async)
 - [Python Bytecode Explained](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) ([HN](https://news.ycombinator.com/item?id=29959262))
+- [Python Design Patterns](https://python-patterns.guide/) ([Code](https://github.com/brandon-rhodes/python-patterns))

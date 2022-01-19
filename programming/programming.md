@@ -510,3 +510,4 @@
 - [Programming in 1987 Versus Today](https://ovid.github.io/blog/programming-in-1987-versus-today.html) ([Lobsters](https://lobste.rs/s/s8joj1/programming_1987_versus_today))
 - [My process for building a feature (2022)](https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/) ([HN](https://news.ycombinator.com/item?id=29910776))
 - [Messing With The Recipe (2022)](https://www.youtube.com/watch?v=m902hm3fK7Q) - Learn a little about what a program actually is, and learn just enough x86_64 assembly to be dangerous. ([Tweet](https://twitter.com/fasterthanlime/status/1480665907332632579))
+- [How do you visualize code? (2022)](https://alexanderell.is/posts/visualizing-code/) ([HN](https://news.ycombinator.com/item?id=29979958))

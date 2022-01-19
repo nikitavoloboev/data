@@ -68,6 +68,7 @@
 - [SymbolicMDPs.jl](https://github.com/JuliaPlanners/SymbolicMDPs.jl) - Wraps the PDDL.jl interface for PDDL domains and problems within the POMDPs.jl interface for Markov decision processes (MDPs).
 - [Enzyme.jl](https://github.com/wsmoses/Enzyme.jl) - Julia bindings for the Enzyme automatic differentiator.
 - [Jax.jl](https://github.com/PhilipVinc/Jax.jl) - Wraps some functionality of Jax in Julia.
+- [MIPVerify.jl](https://github.com/vtjeng/MIPVerify.jl) - Evaluating Robustness of Neural Networks with Mixed Integer Programming.
 
 ## Math
 
@@ -424,6 +425,7 @@
 - [GeoMakie](https://github.com/JuliaPlots/GeoMakie.jl) - Geographical plotting utilities for Makie.jl.
 - [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl) - Convert Pluto notebooks to pure HTML.
 - [Setfield](https://github.com/jw3126/Setfield.jl) - Update deeply nested immutable structs.
+- [ParallelOperations.jl](https://github.com/JuliaAstroSim/ParallelOperations.jl) - Basic parallel algorithms for Julia.
 
 ## Links
 

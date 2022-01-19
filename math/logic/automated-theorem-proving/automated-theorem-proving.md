@@ -22,3 +22,4 @@
 - [HipSpec](https://github.com/danr/hipspec) - Inductive theorem prover for Haskell programs.
 - [Twee](https://github.com/nick8325/twee) - Equational theorem prover based on Knuth-Bendix completion.
 - [HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (2019)](https://arxiv.org/abs/1904.03241)
+- [Cicada Language](https://cicada-lang.org/) - Dependently typed programming language and an interactive theorem prover.

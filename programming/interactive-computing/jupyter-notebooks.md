@@ -9,7 +9,7 @@
 - [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
 - [JupyterLab debugger UI extension](https://github.com/jupyterlab/debugger)
 - [Vim notebook cell bindings for JupyterLab](https://github.com/jwkvam/jupyterlab-vim)
-- [Swift-Jupyter](https://github.com/google/swift-jupyter) - Jupyter Kernel for Swift, intended to make it possible to use Jupyter with the Swift for TensorFlow project.
+- [Swift-Jupyter](https://github.com/liuliu/swift-jupyter) - Jupyter Kernel for Swift, intended to make it possible to use Jupyter with the Swift for TensorFlow project.
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks.
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab.
 - [jupyterlab-cell-flash](https://github.com/jtpio/jupyterlab-cell-flash) - Show a flash effect when a notebook cell is executed.

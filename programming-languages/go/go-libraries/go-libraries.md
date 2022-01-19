@@ -1247,6 +1247,7 @@
 - [GoLLRB](https://github.com/petar/GoLLRB) - Left-Leaning Red-Black (LLRB) implementation of balanced binary search trees for Go.
 - [base62](https://github.com/jxskiss/base62) - Compact and high performance implementation of base62 algorithm for Go.
 - [go-generics-cache](https://github.com/Code-Hex/go-generics-cache) - Key:value store/cache library written in Go 1.18 generics. LRU, LFU, FIFO, MRU, Clock support.
+- [go-collections](https://github.com/mikhailswift/go-collections) - Generic utility functions for dealing with collections in go. ([Reddit](https://www.reddit.com/r/golang/comments/s77bdb/to_learn_go_generics_i_created_a_small_library_of/))
 
 ## Links
 

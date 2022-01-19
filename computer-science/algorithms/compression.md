@@ -98,3 +98,4 @@
 - [fzstd](https://github.com/101arrowz/fzstd) - High performance Zstandard decompression in a pure JavaScript, 8kB package.
 - [snap](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [Image Compression Algorithm in Rust](https://github.com/umgefahren/image-comp-lib-rust) - New lossless image compression algorithm.
+- [mjpeg2http](https://github.com/nola-a/mjpeg2http) - Pure C Mjpeg-over-HTTP server. ([HN](https://news.ycombinator.com/item?id=29980660))
