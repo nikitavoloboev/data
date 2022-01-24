@@ -293,6 +293,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TinyBase](https://github.com/tinyplex/tinybase) - Tiny, reactive JavaScript library for structured state and tabular data. ([Web](https://tinybase.org/)) ([HN](https://news.ycombinator.com/item?id=29945748))
 - [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ([Docs](https://danfo.jsdata.org/))
 - [Algolia Filters Query Builder](https://github.com/khaledosama999/algolia-filter-query-builder) - Parser for having a structured way for querying algolia similar to well known ODMs or ORMS.
+- [bitstream](https://github.com/astronautlabs/bitstream) - Powerful bitstream library for TypeScript. ([HN](https://news.ycombinator.com/item?id=30061181))
 
 ## Links
 

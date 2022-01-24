@@ -159,3 +159,4 @@
 - [Treating SQL like code (2022)](https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e) ([HN](https://news.ycombinator.com/item?id=29921528))
 - [SQL Formatter](http://mattdziuban.com/sql-formatter/) - Polyglot SQL formatter. ([Code](https://github.com/mrdziuban/sql-formatter))
 - [Sqllogictest](https://www.sqlite.org/sqllogictest/doc/trunk/about.wiki) - Program designed to verify that an SQL database engine computes correct results by comparing the results to identical queries from other SQL database engines. ([Sqllogictest-rs](https://github.com/singularity-data/sqllogictest-rs))
+- [PRQL](https://github.com/max-sixty/prql) - Modern language for transforming data — a simpler and more powerful SQL. ([HN](https://news.ycombinator.com/item?id=30060784))
