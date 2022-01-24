@@ -1,5 +1,7 @@
 # [GitHub actions](https://github.com/features/actions)
 
+[GitHub Actions by Example](https://www.actionsbyexample.com/) is great intro.
+
 ## Other
 
 - [Super-Linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action. ([Article](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)) ([HN](https://news.ycombinator.com/item?id=23563823))
@@ -393,3 +395,4 @@
 - [Curated list of useful Github actions with workflows examples](https://github.com/marketplace?type=actions) ([Code](https://github.com/GuillaumeFalourd/useful-actions))
 - [How to upload assets to an existing Release in Github Actions (2021)](https://branislavjenco.github.io/github-actions-release/)
 - [Actions Sync](https://github.com/actions/actions-sync) - Go tool to allow you to sync from GitHub to a GitHub Enterprise instance.
+- [GitHub Actions by Example](https://www.actionsbyexample.com/) ([HN](https://news.ycombinator.com/item?id=30060765)) ([Code](https://github.com/macintoshpie/ghactionsbyexample))

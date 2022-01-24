@@ -404,6 +404,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Dialup](https://dialup.com/) - Serendipitous voice chat. ([HN](https://news.ycombinator.com/item?id=25557779))
 - [Craft](https://www.craft.do/) - Native macOS/iOS competitor to Notion. ([Twitter](https://twitter.com/craftdocsapp)) ([Approach to data ownership](https://twitter.com/geoffreylitt/status/1374144532976168967))
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
+- [Livedocs](https://livedocs.com/) - Create documents that update themselves.
 - [Notifly](https://www.notifly.io/) - Let us handle your web app notifications.
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.

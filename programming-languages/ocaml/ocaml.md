@@ -110,3 +110,4 @@
 - [OCaml flake example project](https://github.com/brendanzab/ocaml-flake-example) - Overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune.
 - [HN: OCaml Multicore merged upstream](https://news.ycombinator.com/item?id=29875442)
 - [Hotcaml](https://github.com/let-def/hotcaml) - OCaml interpreter with watching and reloading.
+- [Awesome Multicore OCaml](https://github.com/patricoferris/awesome-multicore-ocaml) - Collection of libraries, experiments and ideas relating to OCaml 5 (multicore + effects).

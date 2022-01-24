@@ -689,3 +689,5 @@ if err != nil {
 - [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
 - [What I'd like to see in Go 2.0 (2022)](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
 - [Set of materials for Go workshops](https://github.com/GolangUA/workshops)
+- [Minimal working examples of Go's unique features](https://github.com/Mathieu-Desrochers/Learning-Go/blob/master/main.go)
+- [Goloader](https://github.com/pkujhd/goloader) - Load and run Go code at runtime.

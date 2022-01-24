@@ -297,3 +297,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Rethinking errors, warnings, and lints (2022)](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
 - [C++ Concepts vs Rust Traits vs Haskell Typeclasses vs Swift Protocols - Conor Hoekstra - ACCU 2021](https://www.youtube.com/watch?v=iPVoCTgvi8M) ([Slides](https://accu.org/conf-docs/PDFs_2021/conor_hoekstra_c_concepts_vs_haskell_typeclasses_vs_rust_traits_vs_swift_protocols.pdf))
 - [Following the programming language evolution, and taking it personally (2022)](https://zverok.substack.com/p/following-the-programming-language) ([Lobsters](https://lobste.rs/s/ciqons/following_programming_language))
+- [Destroy All Values: Designing Deinitialization in Programming Languages (2022)](https://gankra.github.io/blah/deinitialize-me-maybe/)
+- [Why Static Languages Suffer From Complexity (2022)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#) ([Lobsters](https://lobste.rs/s/h7gkoe/why_static_languages_suffer_from))

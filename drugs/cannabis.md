@@ -19,6 +19,7 @@
 - [The antimicrobial potential of cannabidiol (2021)](https://www.nature.com/articles/s42003-020-01530-y) ([HN](https://news.ycombinator.com/item?id=27887434))
 - [Unrivaled Brands](https://unrivaledbrands.com/) - Building the next generation of cannabis products and experiences. ([Twitter](https://twitter.com/UnrivaledBrands))
 - [Curaleaf](https://curaleaf.com/) - Leading medical and wellness cannabis operator in the United States.
+- [Cannabis use produces persistent cognitive impairments: meta review (2022)](https://www.addictionjournal.org/posts/cannabis-use-produces-persistent-cognitive-impairments) ([HN](https://news.ycombinator.com/item?id=30019841))
 
 ## Images
 

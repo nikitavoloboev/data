@@ -20,3 +20,6 @@ It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watc
 - [Ukraine Twitter](https://twitter.com/Ukraine)
 - [Why Russia is so interested in interfering with Ukraine (2021)](https://news.ycombinator.com/item?id=29578478)
 - [Why Kremlin likely decided to invade Ukraine](https://twitter.com/DAlperovitch/status/1473362460673515527)
+- [Summary of Russia-Ukraine conflict](https://www.reddit.com/r/worldnews/comments/sb7swr/us_state_department_issues_do_not_travel_warning/)
+- [How Russia lost Ukraine (2022)](https://www.youtube.com/watch?v=cNtO8NH_qmw)
+- [HN: U.S. weighs sending 5k troops to Eastern Europe to counter Russia (2022)](https://news.ycombinator.com/item?id=30056098)

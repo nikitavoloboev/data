@@ -330,3 +330,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [It’s not still the early days of blockchain (2022)](https://blog.mollywhite.net/its-not-still-the-early-days/) ([HN](https://news.ycombinator.com/item?id=29943733))
 - [Smart contracts without blockchains (2022)](https://paulfrazee.medium.com/smart-contracts-without-blockchains-fc54603df754) ([Lobsters](https://lobste.rs/s/hsdizx/smart_contracts_without_blockchains))
 - [Candid](https://github.com/dfinity/candid) - Candid Library for the Internet Computer.
+- [Hyperstructures (2022)](https://jacob.energy/hyperstructures.html)
+- [on crypto art and NFTs (2022)](https://mirror.xyz/mattdesl.eth/eUrK8MrRfKFJYVKTwi5F4mCIBJEBOYkZ1qaAiDNblIs) ([Tweet](https://twitter.com/mattdesl/status/1483811673572003842))

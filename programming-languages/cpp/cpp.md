@@ -292,3 +292,5 @@
 - [20 Smaller yet Handy C++20 Features (2022)](https://www.cppstories.com/2022/20-smaller-cpp20-features/) ([Lobsters](https://lobste.rs/s/rpnnzp/20_smaller_yet_handy_c_20_features))
 - [“Modern” C++ Lamentations (2018)](https://aras-p.info/blog/2018/12/28/Modern-C-Lamentations/) ([HN](https://news.ycombinator.com/item?id=29898955))
 - [We used C++20 to eliminate an entire class of runtime bugs (2022)](https://devblogs.microsoft.com/cppblog/how-we-used-cpp20-to-eliminate-an-entire-class-of-runtime-bugs/) ([HN](https://news.ycombinator.com/item?id=29933865))
+- [The Danger of Atomic Operations](https://abseil.io/docs/cpp/atomic_danger)
+- [Const all the things? (2022)](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/) ([HN](https://news.ycombinator.com/item?id=30054059))

@@ -93,6 +93,7 @@
 - [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/) ([HN](https://news.ycombinator.com/item?id=29473271))
 - [Implementing Marching Squares (2020)](http://jacobzelko.com/marching-squares/)
 - [Speeding up Dijkstra by a factor of 2700 (2021)](https://blog.siraben.dev/2021/12/28/aoc-speedup.html) ([HN](https://news.ycombinator.com/item?id=29757176))
+- [A surprisingly hard CS problem: sums of square roots (2018)](https://shlegeris.com/2018/10/23/sqrt.html) ([HN](https://news.ycombinator.com/item?id=30057582))
 
 ## Images
 

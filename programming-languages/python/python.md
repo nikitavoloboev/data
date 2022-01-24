@@ -420,3 +420,4 @@ for i, _ in enumerate(nums):
 - [Exploring Cooperative Concurrency Primitives in Python](https://github.com/rednafi/think-async)
 - [Python Bytecode Explained](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) ([HN](https://news.ycombinator.com/item?id=29959262))
 - [Python Design Patterns](https://python-patterns.guide/) ([Code](https://github.com/brandon-rhodes/python-patterns))
+- [Strict Python function parameters (2022)](https://sethmlarson.dev/blog/strict-python-function-parameters) ([Lobsters](https://lobste.rs/s/kllcvy/strict_python_function_parameters))

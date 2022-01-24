@@ -161,6 +161,7 @@
 - [Tips for marketing your app (2021)](https://twitter.com/joshpitzalis/status/1462353337848844293)
 - [Marketing Tools & Software for Businesses](https://www.btw.so/marketing-tools)
 - [Marketing is scary for a solo developer](https://raumet.com/marketing) ([HN](https://news.ycombinator.com/item?id=29538355))
+- [Best marketing resources for startups](https://twitter.com/heyeaslo/status/1484707399415992320)
 
 ## Images
 

@@ -221,6 +221,7 @@
 - [Template for a TypeScript Language Service Plugin](https://github.com/orta/TypeScript-TSServer-Plugin-Template)
 - [ts-browser](https://github.com/harrysolovay/ts-browser) - Zero-config TypeScript compilation for web browsers.
 - [typescript/analyze-trace](https://github.com/microsoft/typescript-analyze-trace) - Tool for analyzing the output of tsc --generateTrace automatically.
+- [TypeScript Features to Avoid (2022)](https://www.executeprogram.com/blog/typescript-features-to-avoid) ([HN](https://news.ycombinator.com/item?id=29985123))
 
 ## Images
 

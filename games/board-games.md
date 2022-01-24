@@ -44,3 +44,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [What is your favorite card game that can be played with the standard 52 card deck? (2021)](https://www.reddit.com/r/AskAnAmerican/comments/qti9uz/what_is_your_favorite_card_game_that_can_be/)
 - [61 Best Board Games to Buy in 2021](https://arstechnica.com/gaming/2021/12/best-board-games-buying-guide/)
 - [Best Board Games 2021](https://www.nytimes.com/wirecutter/reviews/board-games-we-love/)
+- [Diving into BoardGameGeek (2022)](https://jvanelteren.github.io/blog/2022/01/19/boardgames.html) ([HN](https://news.ycombinator.com/item?id=30040739))

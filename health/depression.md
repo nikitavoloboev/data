@@ -49,3 +49,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Depression alters the circadian pattern of online activity (2020)](https://www.nature.com/articles/s41598-020-74314-3) ([HN](https://news.ycombinator.com/item?id=29761701))
 - [Ask HN: How to take first steps to escape burnout? (2022)](https://news.ycombinator.com/item?id=29776218)
 - [Ask HN: Burned Out. What Now? (2022)](https://news.ycombinator.com/item?id=30000069)
+- [On a neural level, how does a condition like depression cause worse cognition? (2022)](https://www.reddit.com/r/askscience/comments/sawfex/on_a_neural_level_how_does_a_condition_like/)

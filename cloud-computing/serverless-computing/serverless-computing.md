@@ -139,3 +139,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Why I minimize emulator use when developing serverless applications (2021)](https://twitter.com/edjgeek/status/1450841277130498051)
 - [fastlike](https://github.com/avidal/fastlike) - Run Fastly Compute@Edge Wasm programs on your own computer, powered by wasmtime.
 - [ChiselStrike](https://www.chiselstrike.com/) - Automated Serverless Backends. ([GitHub](https://github.com/chiselstrike))
+- [Fly Edge](https://github.com/superfly/edge) - Set of useful libraries for Edge Apps. Run locally, write tests, and integrate it into your deployment process.

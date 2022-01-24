@@ -167,6 +167,7 @@ And these Discord servers:
 - [Flaunt Magazine](https://flaunt.com/)
 - [Eurozine](https://www.eurozine.com/) - Europe's leading cultural journals at your fingertips.
 - [Al Jazeera](https://www.aljazeera.com/) - Breaking News, World News and Video.
+- [Carnegie Endowment for International Peace](https://carnegieendowment.org/)
 
 ### Other
 
@@ -233,3 +234,4 @@ And these Discord servers:
 - [Ask HN: How do you get articles/papers/talks recommendations? (2021)](https://news.ycombinator.com/item?id=29604618)
 - [sumi.news](https://sumi.news/) - Peaceful news feed. Follow RSS, Twitter, newsletters, and more. No ads, no algorithm, no distractions. ([Code](https://github.com/tofukidco/sumi.news))
 - [The Syllabus](https://www.the-syllabus.com/) - Knowledge Curation Platform. We index, rank, and review tens of thousands of newly published pieces across text, audio, and video. ([Twitter](https://twitter.com/syllabus_tweets))
+- [Ask HN: Where are you going to find long-form content online these days? (2022)](https://news.ycombinator.com/item?id=30051782)

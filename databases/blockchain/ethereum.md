@@ -410,7 +410,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Flashbots Protect RPC Endpoint](https://github.com/flashbots/rpc-endpoint)
 - [web3-ui](https://github.com/Developer-DAO/web3-ui) - Library of UI components specifically crafted for web3 use cases.
 - [Subway](https://github.com/libevm/subway) - Practical example on how to perform sandwich attacks on Ethereum.
-- [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ([Things to do](https://github.com/gakonst/foundry/issues/536))
 - [Optimistic Ethereum Tutorials](https://github.com/ethereum-optimism/optimism-tutorial)
 - [The Portal Network](https://github.com/ethereum/portal-network-specs) - Specifications for the Stateless Ethereum research effort.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.
@@ -451,3 +451,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Element Protocol](https://github.com/element-fi/elf-contracts) - Allows a tokenized yield bearing position (ETH, BTC, USDC, etc) to be split into two separate tokens, the 1) principal token, and the 2) yield token.
 - [VestedERC20](https://github.com/ZeframLou/vested-erc20) - Wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.
 - [Bunni](https://github.com/ZeframLou/bunni) - ERC-20 LP tokens for Uniswap V3.
+- [Getting Started with Forge (2022)](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA)
+- [Awesome Foundry](https://github.com/crisgarner/awesome-foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.

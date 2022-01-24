@@ -259,3 +259,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Heroes of Might and Magic (2021)](https://www.filfre.net/2021/12/heroes-of-might-and-magic/) ([HN](https://news.ycombinator.com/item?id=29692957))
 - [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)
 - [What games do respect your time and why? (2022)](https://www.reddit.com/r/patientgamers/comments/s608zd/what_games_do_respect_your_time_and_why/)
+- [Younger gamers, what's your "wow, games have come a long way" memory? (2022)](https://www.reddit.com/r/patientgamers/comments/saxu7e/younger_gamers_whats_your_wow_games_have_come_a/)

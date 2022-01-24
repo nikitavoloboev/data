@@ -1,5 +1,7 @@
 # [Rust](https://www.rust-lang.org/en-US/)
 
+[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) is nice too.
+
 ## Notes
 
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
@@ -678,3 +680,5 @@
 - [Why I use a debugger (2022)](http://blog.pnkfx.org/blog/2022/01/10/why-i-use-a-debugger/) ([HN](https://news.ycombinator.com/item?id=29923007))
 - [Format Strings in Rust 1.58 (2022)](https://www.rustnote.com/blog/format_strings.html) ([HN](https://news.ycombinator.com/item?id=29931884)) ([Reddit](https://www.reddit.com/r/rust/comments/s3dytd/i_got_so_excited_by_rusts_new_format_strings_in/))
 - [Rustnote](https://www.rustnote.com/rustnote.html) - My personal notes for Rust built with mdbook.
+- [Captures in closures and async blocks (2021)](https://www.fpcomplete.com/blog/captures-closures-async/)
+- [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/) - Recommendations for how to organize and manage Rust CLI applications. ([Code](https://github.com/sunshowers-code/rust-cli-recommendations))

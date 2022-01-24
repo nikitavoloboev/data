@@ -1,5 +1,7 @@
 # [Haskell](https://www.haskell.org)
 
+[This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course.
+
 ## Notes
 
 - [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)
@@ -365,3 +367,4 @@
 - [Advent of Haskell: Denotational Design](https://github.com/bolt12/advent-of-haskell-dd)
 - [Jupyter adaptation of Learn You a Haskell for Great Good](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)
 - [Nix builds of Haskell Language Server](https://github.com/shajra/haskell-hls-nix)
+- [CS240H: Functional Systems in Haskell (2016)](https://www.scs.stanford.edu/16wi-cs240h/)

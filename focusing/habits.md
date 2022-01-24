@@ -28,6 +28,7 @@ I try learn new habits proactively by building systems and thought processes tha
 
 - I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else.
 - [Tiny friction goes a long way. To create healthy behavior, start with healthy defaults.](https://twitter.com/thelindazhang/status/1363318010266587136)
+- [I think we go through life in a mentally linear way but our life is actually a repeating fractal spiral. It is not until we wake up and become a 3D person in a 2D world we are able to see our behavioral patterns. Only then can we step aside or over some of the repeating problems we have been having issues with. Most of my profound psychedelic realizations are involving me "waking up" like this. With enough quality data on yourself, you can begin to identify the loops you speak of. And the crazy thing is that all of your behaviors is connected in wild ways, that is once you start to chart it all out.](https://www.reddit.com/r/RationalPsychonaut/comments/sbfr1n/whats_your_most_irrational_belief_doesnt_have_to/)
 
 ## Links
 
