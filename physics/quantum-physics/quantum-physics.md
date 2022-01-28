@@ -89,3 +89,4 @@
 - [Quantum theory based on real numbers can be experimentally falsified (2021)](https://www.nature.com/articles/s41586-021-04160-4) ([HN](https://news.ycombinator.com/item?id=29643921))
 - [Video recording true single-photon double-slit interference (2016)](https://aapt.scitation.org/doi/full/10.1119/1.4955173) ([Reddit](https://www.reddit.com/r/AskPhysics/comments/rvp1wo/is_there_an_actual_video_of_wave_function/))
 - [Quantum particles feel the influence of gravitational fields they never touch](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect) ([HN](https://news.ycombinator.com/item?id=29932990))
+- [Why Quantum Mechanics? (2022)](https://scottaaronson.blog/?p=6244) ([HN](https://news.ycombinator.com/item?id=30097765))
