@@ -191,6 +191,7 @@
 - [MeerkatDB](https://github.com/meerkatdb/meerkat) - Distributed append-only (no UPDATE/DELETE support) eventual consistent columnar storage for events and timeseries.
 - [OpenMLDB](https://github.com/4paradigm/OpenMLDB) - Open-source machine learning database that provides a full-stack FeatureOps solution for enterprises.
 - [Google F1](https://dbdb.io/db/google-f1) - Distributed transactional database. Built on Google's Spanner so that it can reach strong consistency. ([Paper](https://research.google/pubs/pub41344/))
+- [Skate](https://github.com/charmbracelet/skate) - Personal key-value store. Use it to save and retrieve anything you’d like—even binary data.
 
 ## Tools
 
@@ -508,3 +509,4 @@
 - [UUIDs Are Popular, but Bad for Performance (2019)](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/) ([HN](https://news.ycombinator.com/item?id=29849791))
 - [Acra](https://github.com/cossacklabs/acra) - Database security suite for sensitive and personal data protection.
 - [Are You Sure You Want to Use MMAP in Your Database Management System? (CIDR 2022)](https://db.cs.cmu.edu/mmap-cidr2022/) ([Lobsters](https://lobste.rs/s/nxymu2/are_you_sure_you_want_use_mmap_your)) ([HN](https://news.ycombinator.com/item?id=29936104))
+- [Electric Tables – an experiment in personal databases (2022)](https://tomcritchlow.com/2022/01/26/electric-tables/) ([HN](https://news.ycombinator.com/item?id=30089895))

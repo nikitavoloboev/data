@@ -109,5 +109,5 @@
 - [Unpragmatic static blog generator in OCaml](https://xhtmlboi.github.io/articles/yocaml.html)
 - [OCaml flake example project](https://github.com/brendanzab/ocaml-flake-example) - Overly elaborate example of building a ‘Hello World’ package with Nix flakes, OCaml, and Dune.
 - [HN: OCaml Multicore merged upstream](https://news.ycombinator.com/item?id=29875442)
-- [Hotcaml](https://github.com/let-def/hotcaml) - OCaml interpreter with watching and reloading.
+- [Hotcaml](https://github.com/let-def/hotcaml) - OCaml interpreter with watching and reloading. ([Lobsters](https://lobste.rs/s/fl8mhn/hotcaml_ocaml_interpreter_with_watching))
 - [Awesome Multicore OCaml](https://github.com/patricoferris/awesome-multicore-ocaml) - Collection of libraries, experiments and ideas relating to OCaml 5 (multicore + effects).

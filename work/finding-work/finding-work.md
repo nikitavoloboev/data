@@ -1,6 +1,6 @@
 # Finding work
 
-This article on [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb.
+This article on [interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb. So as this [general guide on getting a senior level software role](https://www.jobsearch.dev/).
 
 I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work).
 
@@ -148,3 +148,5 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: If not fresh out of college, what did you do to join a FAANG? (2021)](https://news.ycombinator.com/item?id=29750353)
 - [Good Product Based Companies & Startups](https://github.com/Kaustubh-Natuskar/moreThanFAANGM) - Contains the list of companies (more than FAANG) which you can join.
 - [Ask HN: Do you have to use LinkedIn to get hired? (2022)](https://news.ycombinator.com/item?id=29906328)
+- [Senior Engineer Job Search Guide](https://www.jobsearch.dev/)
+- [Is the Leetcode grind necessary to land a high paying remote job? (2022)](https://news.ycombinator.com/item?id=30098671)

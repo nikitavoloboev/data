@@ -595,6 +595,7 @@
     - [Turkey](travel/visited/turkey.md)
     - [Spain](travel/visited/spain.md)
     - [Bulgaria](travel/visited/bulgaria.md)
+    - [Belarus](travel/visited/belarus.md)
     - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)
   - [Hiking](travel/hiking.md)

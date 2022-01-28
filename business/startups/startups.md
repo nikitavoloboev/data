@@ -358,6 +358,7 @@
 - [The Manual by Compound](https://manual.withcompound.com/) - Curated library of wealth planning resources for startup founders and employees.
 - [Importance of direct sales in growing revenue (2022)](https://twitter.com/nathanbarry/status/1482374302414426116)
 - [Focusing on go-to-market to grow startup (2022)](https://twitter.com/reinpk/status/1481639812012466182)
+- [Connecting People (2022)](https://aditya.rs/2022/01/24/connecting-people/)
 
 ## Images
 

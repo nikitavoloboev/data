@@ -67,6 +67,7 @@
 - [LaTeX Environments](https://github.com/raineszm/obsidian-latex-environments) - Quickly insert and change latex environments within math blocks in Obsidian.
 - [Table Extended](https://github.com/aidenlx/table-extended) - Extend basic table in Obsidian with MultiMarkdown table syntax.
 - [obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - Adds a data-tag-name attribute to all top-level preview divs, allowing contextual typography.
+- [MetaEdit](https://github.com/chhoumann/MetaEdit)
 
 ## Themes
 

@@ -102,6 +102,7 @@
 - [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
 - [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
 - [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
+- [Tower HTTP](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
 
 ## WASM
 
@@ -484,7 +485,7 @@
 - [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
 - [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
-- [actix](https://github.com/actix/actix)
+- [Actix](https://github.com/actix/actix) - Actor framework for Rust. ([Examples](https://github.com/actix/examples))
 - [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
 - [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial)) ([Building a CEDICT parser in Rust with Nom](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)) ([Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)) ([Parsing Text with Nom](https://blog.adamchalmers.com/nom-chars/)) ([HN](https://news.ycombinator.com/item?id=29897328))
 - [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
@@ -1347,6 +1348,9 @@
 - [rust-t1ha](https://github.com/flier/rust-t1ha) - Rust implementation for T1HA (Fast Positive Hash).
 - [Rust-Dpdk](https://github.com/flier/rust-dpdk) - Rust bindings to DPDK.
 - [Auto Launch](https://github.com/zzzgydi/auto-launch) - Auto launch any application or executable at startup.
+- [Thalo](https://github.com/thalo-rs/thalo) - Event sourcing framework for building microservices. ([Reddit](https://www.reddit.com/r/rust/comments/sbvpn1/thalors_event_sourcing_in_rust/))
+- [tinyjson](https://github.com/rhysd/tinyjson) - Simple JSON parser/generator for Rust.
+- [turbulence](https://github.com/kyren/turbulence) - Multiplexed, optionally reliable, async, transport agnostic, reactor agnostic networking library for games.
 
 ## Cargo Plugins
 
@@ -1481,3 +1485,4 @@
 - [Corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration.
 - [Pin, Unpin, and why Rust needs them (2021)](https://blog.adamchalmers.com/pin-unpin/)
 - [Traits Working Group](https://github.com/rust-lang/wg-traits)
+- [Serverless Rust](https://github.com/nmoutschen/awesome-serverless-rust) - Curated list of resources for using Rust with serverless technologies.

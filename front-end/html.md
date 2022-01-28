@@ -209,3 +209,4 @@
 - [parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js.
 - [Entire website in a single HTML file](https://css-tricks.com/a-whole-website-in-a-single-html-file/) ([HN](https://news.ycombinator.com/item?id=29668260))
 - [HTML Standard FAQ](https://github.com/whatwg/html/blob/main/FAQ.md)
+- [Div Divisiveness (2022)](https://www.scottohara.me/blog/2022/01/20/divisive.html) ([HN](https://news.ycombinator.com/item?id=30047311))

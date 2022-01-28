@@ -331,3 +331,4 @@
 - [PyTorch distributions examples](https://github.com/srom/distributions)
 - [moolib](https://github.com/facebookresearch/moolib) - Library for distributed ML training with PyTorch.
 - [v objective diffusion inference code for PyTorch](https://github.com/crowsonkb/v-diffusion-pytorch)
+- [Texar-PyTorch](https://github.com/asyml/texar-pytorch) - Integrating the Best of TF into PyTorch, for Machine Learning, Natural Language Processing, and Text Generation.

@@ -281,6 +281,7 @@ Here are few more things I liked, design wise.
 - [Daniel Pyrathon](https://pirosb3.io/)
 - [Rob Hope](https://robhope.com/)
 - [Andy Sparks](https://www.andysparks.co/)
+- [Jessica Sachs](https://jess.sh/)
 - [Andrea Limjoco](http://andrealimjo.co/)
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Patrick Heng](https://patrickheng.com/)

@@ -19,7 +19,7 @@
 - [ElectroNeek](https://electroneek.com/) - Easy Robotic Process Automation. ([HN](https://news.ycombinator.com/item?id=23770214))
 - [Automatoes](https://automatoes.com/) ([Code](https://github.com/johnlindquist/automatoes.com))
 - [Huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.
-- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red)) ([HN](https://news.ycombinator.com/item?id=28985268))
+- [Node-RED](https://nodered.org/) - Low-code programming for event-driven applications. ([Code](https://github.com/node-red/node-red)) ([HN](https://news.ycombinator.com/item?id=28985268)) ([Awesome](https://github.com/naimo84/awesome-nodered))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool. ([Web](https://n8n.io/))
 - [Fair-Code Automation with n8n.io (2021)](https://tech.davidfield.co.uk/opensourced-ifttt-with-n8n-io/) ([HN](https://news.ycombinator.com/item?id=25632892))
 - [Integromat](https://www.integromat.com/en/) - Advanced online automation platform.

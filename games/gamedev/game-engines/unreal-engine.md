@@ -17,3 +17,4 @@
 - [On the Perceived Inevitability of Unreal](http://alextardif.com/Unreal.html) ([Lobsters](https://lobste.rs/s/ulwmqh/on_perceived_inevitability_unreal))
 - [Unreal Engine 5 Early Access Release Notes (2021)](https://docs.unrealengine.com/5.0/en-US/ReleaseNotes/) ([HN](https://news.ycombinator.com/item?id=27345835))
 - [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) - Allows to create fully volumetric, entirely destructible, infinite worlds in Unreal Engine. ([Web](https://voxelplugin.com/))
+- [Real-Time Strategy Plugin for Unreal Engine 4](https://github.com/npruehs/ue4-rts)

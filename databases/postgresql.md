@@ -11,7 +11,7 @@
 - [PipelineDB](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) ([HN](https://news.ycombinator.com/item?id=18717168))
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/) ([HN](https://news.ycombinator.com/item?id=18950460))
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/) ([HN](https://news.ycombinator.com/item?id=18950460)) ([HN](https://news.ycombinator.com/item?id=30086374))
 - [Slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detail logging and assertions for node.js ([slonik-tools](https://github.com/mmkal/slonik-tools))
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Work-in-progress plugin for prettier to support formatting of PostgreSQL-flavour SQL.
@@ -396,3 +396,5 @@
 - [Why I Enjoy PostgreSQL – Infrastructure Engineer's Perspective (2022)](https://www.shayon.dev/post/2022/17/why-i-enjoy-postgresql-infrastructure-engineers-perspective/) ([HN](https://news.ycombinator.com/item?id=29971720))
 - [Tricking PostgreSQL into using an insane, but faster, query plan (2021)](https://spacelift.io/blog/tricking-postgres-into-using-query-plan) ([HN](https://news.ycombinator.com/item?id=29981737))
 - [PostgreSQL query performance bottlenecks (2022)](https://pawelurbanek.com/postgresql-query-bottleneck) ([HN](https://news.ycombinator.com/item?id=29977856))
+- [Postgres Indexes for Newbies (2022)](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
+- [Creating a Postgres Foreign Data Wrapper (2021)](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/) ([HN](https://news.ycombinator.com/item?id=30089884))

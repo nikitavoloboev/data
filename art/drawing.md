@@ -42,3 +42,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Telestrator](https://github.com/steveruizok/telestrator) - Disappearing drawing tool for your screen.
 - [How To Get Better at Painting – Without Painting Anything](http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything)
 - [NeuralKuvshinov](https://github.com/dobrosketchkun/NeuralKuvshinov_v2) - Your own Ilya Kuvshinov. Now almost as real as the real one.
+- [Mixbox](https://scrtwpns.com/mixbox/) - Practical Pigment Mixing for Digital Painting.

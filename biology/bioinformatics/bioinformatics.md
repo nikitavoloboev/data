@@ -192,3 +192,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [sandbox.bio](https://sandbox.bio/) - Interactive bioinformatics tutorials.
 - [Foldseek Search Server](https://search.foldseek.com/search) - Suite for searching and clustering protein structures. ([Code](https://github.com/steineggerlab/foldseek)) ([Tweet](https://twitter.com/thesteinegger/status/1478050357419048960))
 - [AlphaFold 2 & Equivariance (2020)](https://fabianfuchsml.github.io/alphafold2/)
+- [AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor (2022)](https://arxiv.org/abs/2201.09647) ([HN](https://news.ycombinator.com/item?id=30069402))
+- [Graphein](https://github.com/a-r-j/graphein) - Protein Graph Library.

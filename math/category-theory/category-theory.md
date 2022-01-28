@@ -144,6 +144,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Cauchy complete category](http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/Cauchy+complete+category)
 - [Cauchy completion in category theory - Scott Johnson (1993)](https://twitter.com/monsoon0/status/1481739590063239168)
 - [Foundations of Relative Category Theory](http://www.jonmsterling.com/math/lectures/categorical-foundations.html)
+- [Theoretical Computer Science for the Working Category Theorist (2022)](https://www.cambridge.org/core/elements/theoretical-computer-science-for-the-working-category-theorist/5F3499D1F326D2D77567AA1041627699)
 
 ## Images
 

@@ -120,3 +120,5 @@
 - [cpp11](https://github.com/r-lib/cpp11) - Helps you to interact with R objects using C++ code.
 - [vroom](https://github.com/r-lib/vroom) - Fastest delimited reader for R.
 - [geomtextpath](https://github.com/AllanCameron/geomtextpath) - Create curved text in ggplot2.
+- [rim](https://github.com/gaborcsardi/rim) - R Installation Manager.
+- [WebR](https://github.com/georgestagg/webR) - R in the Browser. Compile the statistical language R into WASM for use in a browser.

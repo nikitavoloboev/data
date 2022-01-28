@@ -110,3 +110,4 @@
 - [Rails: Postgres Native Partitioning (2022)](https://www.johnnunemaker.com/rails-postgres-native-partitioning/)
 - [Rails Feature Flags: Now So Flippin' Easy You Won't Believe It (2021)](https://www.johnnunemaker.com/rails-feature-flags/)
 - [Arproxy](https://github.com/cookpad/arproxy) - Proxy between ActiveRecord and database adapter.
+- [Run Ordinary Rails Apps Globally (2021)](https://fly.io/blog/run-ordinary-rails-apps-globally/) ([HN](https://news.ycombinator.com/item?id=30083764))

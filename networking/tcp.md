@@ -63,3 +63,4 @@
 - [gev](https://github.com/Allenxuxu/gev) - Lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode.
 - [tun2proxy](https://github.com/blechschmidt/tun2proxy) - Tunnel TCP traffic through SOCKS5 or HTTP using a TUN interface.
 - [smoltcp-nal](https://github.com/quartiq/smoltcp-nal) - embedded-nal implementation for smoltcp. Implementation of a TCP- and UDP-capable network stack that can be used for any library that leverages the embedded-nal.
+- [Phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.

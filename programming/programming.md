@@ -512,3 +512,4 @@
 - [Messing With The Recipe (2022)](https://www.youtube.com/watch?v=m902hm3fK7Q) - Learn a little about what a program actually is, and learn just enough x86_64 assembly to be dangerous. ([Tweet](https://twitter.com/fasterthanlime/status/1480665907332632579))
 - [How do you visualize code? (2022)](https://alexanderell.is/posts/visualizing-code/) ([HN](https://news.ycombinator.com/item?id=29979958))
 - [if there would be one software engineering advice you could give to your 10y younger self, what would it be?](https://twitter.com/wspruijt/status/1484536631306506246)
+- [Fixing Performance Regressions Before they Happen (2022)](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)

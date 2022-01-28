@@ -101,3 +101,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [The 5 Whys: get to the root of your productivity problems](https://blog.superhuman.com/five-whys-method/)
 - [Ask HN: How do you force yourself to do boring tasks? (2021)](https://news.ycombinator.com/item?id=29725668)
 - [Ask HN: How do you cope with being interrupted? (2022)](https://news.ycombinator.com/item?id=29767203)
+- [Effortless personal productivity (or how I learned to love my monkey mind)](https://jakobgreenfeld.com/personal-productivity) ([HN](https://news.ycombinator.com/item?id=29965957))

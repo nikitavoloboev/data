@@ -185,3 +185,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nixinate](https://github.com/MatthewCroughan/nixinate) - NixOS Deployment Tool. Generates a deployment script for each nixosConfiguration you already have in your flake.
 - [NixOS: The Ultimate Dev Environment? (2022)](https://myme.no/posts/2022-01-16-nixos-the-ultimate-dev-environment.html) ([Lobsters](https://lobste.rs/s/pwrni4/nixos_ultimate_dev_environment))
 - [The Curse of NixOS (2022)](https://blog.wesleyac.com/posts/the-curse-of-nixos) ([HN](https://news.ycombinator.com/item?id=30057287)) ([Lobsters](https://lobste.rs/s/psfsfo/curse_nixos))
+- [How I set up a NixOS router with VPN and split routing (2021)](https://pavluk.org/blog/2021/01/26/nixos_router.html) ([Reddit](https://www.reddit.com/r/NixOS/comments/sdsznj/how_i_set_up_a_nixos_router_with_vpn_and_split/))

@@ -11,6 +11,7 @@
 - [NY Times](https://github.com/TheCodeMonks/NYTimes-App) - Simple Demonstration of the New York Times App using Jsoup web crawler with MVVM Architecture.
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Pinboard android app, developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM.
 - [DuckDuckGo Android App](https://github.com/duckduckgo/Android)
+- [Tailscale Android Client](https://github.com/tailscale/tailscale-android)
 
 ## Links
 

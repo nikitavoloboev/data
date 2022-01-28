@@ -118,3 +118,4 @@
 - [State of Machine Learning in Julia (2022)](https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385) ([HN](https://news.ycombinator.com/item?id=29902846))
 - [The State of Julia | JuliaCon 2021](https://www.youtube.com/watch?v=IlFVwabDh6Q)
 - [A Tour of Julia - Erik Engheim (2021)](https://www.youtube.com/watch?v=wU6c8CDRXJE)
+- [Julia macros for beginners (2021)](https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/)

@@ -145,3 +145,4 @@
 - [Ask HN: What is your favorite book for learning statistics? (2021)](https://news.ycombinator.com/item?id=29726026)
 - [Visualizing Bayes Theorem (2009)](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
 - [Dependent probabilities](https://static.laszlokorte.de/stochastic/) - Interactive visualization to explore dependent probabilities in terms of area and side length of rectangles.
+- [Introduction to Probability for Data Science](https://probability4datascience.com/) ([HN](https://news.ycombinator.com/item?id=30060759))

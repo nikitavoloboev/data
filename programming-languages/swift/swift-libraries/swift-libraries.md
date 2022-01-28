@@ -398,6 +398,7 @@
 - [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
 - [PackAPrefPane](https://github.com/W1W1-M/PackAPrefPane) - Reusable & customizable SwiftUI settings sheet as a Swift package.
 - [Colorful](https://github.com/Co2333/Colorful) - SwiftUI implementation of AppleCard's animated colorful blur background.
+- [LookingGlassUI](https://github.com/ryanlintott/LookingGlassUI) - Shimmering SwiftUI Views using device orientation.
 
 ## Test
 
@@ -737,7 +738,7 @@
 - [CloudStorage](https://github.com/tomlokhorst/CloudStorage) - Sync settings through iCloud key-value storage.
 - [OpenGraph](https://github.com/satoshi-takano/OpenGraph) - Swift wrapper for the Open Graph protocol (OGP).
 - [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) - Animatable view that depicts multiple progresses over time. Modeled after UIProgressView.
-- [swift-parsing](https://github.com/pointfreeco/swift-parsing) - Library for turning nebulous data into well-structured data, with a focus on composition, performance, and generality.
+- [swift-parsing](https://github.com/pointfreeco/swift-parsing) - Library for turning nebulous data into well-structured data, with a focus on composition, performance, and generality. ([Introducing Parser Builders](https://www.pointfree.co/blog/posts/71-introducing-parser-builders))
 - [OpenTelemetry Swift](https://github.com/slashmo/opentelemetry-swift) - OpenTelemetry Tracer built for Swift Distributed Tracing.
 - [SwiftAudioPlayer](https://github.com/tanhakabir/SwiftAudioPlayer) - Streaming and realtime audio manipulation with AVAudioEngine.
 - [RBBJSON](https://github.com/robb/RBBJSON) - Enables flexible JSON traversal at runtime and JSONPath-like querying for rapid prototyping.

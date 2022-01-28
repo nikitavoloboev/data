@@ -42,3 +42,4 @@
 - [OpenCodeBlocks](https://github.com/MathisFederico/OpenCodeBlocks) - Open-source tool for visual and modular block programing in python.
 - [unit](https://ioun.it/) - Next Generation Visual Programming Platform. ([Code](https://github.com/samuelmtimbo/unit))
 - [2021 Observable Community Recognition](https://observablehq.com/@observablehq/2021-observable-community-recognition)
+- [Götz Bachmann’s Ethnographic Research on Dynamicland (2022)](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)

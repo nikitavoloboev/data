@@ -267,3 +267,5 @@
 - [jaxdf](https://github.com/ucl-bug/jaxdf) - JAX-based research framework for writing differentiable numerical simulators with arbitrary discretizations.
 - [DoWhy](https://github.com/microsoft/dowhy) - End-to-end library for causal inference.
 - [hypopt](https://github.com/cgnorthcutt/hypopt) - Parallelized hyper-param optimization with validation set, not crossval.
+- [Rax](https://github.com/google/rax) - Composable Learning to Rank using JAX.
+- [ML Collections](https://github.com/google/ml_collections) - Library of Python Collections designed for ML use cases.

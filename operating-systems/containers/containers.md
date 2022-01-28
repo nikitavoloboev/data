@@ -175,3 +175,4 @@
 - [Containers 101: attach vs. exec - what's the difference? (2021)](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
 - [Containers From Scratch • Liz Rice (2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc) ([Sequel](https://www.youtube.com/watch?v=_TsSmSu57Zo))
 - [Sinker](https://github.com/plexsystems/sinker) - Tool to sync images from one container registry to another.
+- [Undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder.

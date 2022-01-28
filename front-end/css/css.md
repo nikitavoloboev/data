@@ -442,3 +442,5 @@ all: unset
 - [CSS Gradients that avoid the “gray dead zone”](https://www.joshwcomeau.com/css/make-beautiful-gradients/) ([HN](https://news.ycombinator.com/item?id=29894608))
 - [A Deep CSS Dive Into Radial And Conic Gradients (2022)](https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/)
 - [CSS Speedrun](https://css-speedrun.netlify.app/) - Small game to test and improve your CSS knowledge. ([Code](https://github.com/Vincenius/css-speedrun))
+- [Getting Started With CSS Cascade Layers (2022)](https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/)
+- [CSS Polka Dot Generator](https://screenspan.net/polka/)

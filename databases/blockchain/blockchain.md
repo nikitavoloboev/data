@@ -1,8 +1,8 @@
 # [Blockchain](http://en.wikipedia.org/wiki/Blockchain)
 
-In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list). Which can be used to solve the double spending problem in cryptocurrencies using proof of stake (or other methods) and a persistent chain of records (blocks mined).
+Blockchain is an immutable linked list of hashes that uses some consensus system like proof of stake (or other methods) to decide which blocks (transactions or runnable code) are added next.
 
-[Ethereum, Solana, Tezos & Avalanche are nice blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383).
+[Ethereum, Solana, Tezos & Avalanche are interesting blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
 
 ## Consensus algorithms
 
@@ -332,3 +332,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Candid](https://github.com/dfinity/candid) - Candid Library for the Internet Computer.
 - [Hyperstructures (2022)](https://jacob.energy/hyperstructures.html)
 - [on crypto art and NFTs (2022)](https://mirror.xyz/mattdesl.eth/eUrK8MrRfKFJYVKTwi5F4mCIBJEBOYkZ1qaAiDNblIs) ([Tweet](https://twitter.com/mattdesl/status/1483811673572003842))
+- [Line Goes Up – The Problem With NFTs (2022)](https://www.youtube.com/watch?v=YQ_xWvX1n9g)

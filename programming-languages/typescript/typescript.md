@@ -222,6 +222,7 @@
 - [ts-browser](https://github.com/harrysolovay/ts-browser) - Zero-config TypeScript compilation for web browsers.
 - [typescript/analyze-trace](https://github.com/microsoft/typescript-analyze-trace) - Tool for analyzing the output of tsc --generateTrace automatically.
 - [TypeScript Features to Avoid (2022)](https://www.executeprogram.com/blog/typescript-features-to-avoid) ([HN](https://news.ycombinator.com/item?id=29985123))
+- [The Type Hierarchy Tree (2021)](https://www.zhenghao.io/posts/type-hierarchy-tree)
 
 ## Images
 

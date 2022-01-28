@@ -25,3 +25,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Directed by Quentin Tarantino (2020)](https://www.youtube.com/watch?v=vnZPtwME_mc)
 - [A Director who is worth watching a back catalogue of? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/rubmhc/a_director_who_is_worth_watching_a_back_catalogue/)
 - [Найшуллер - понты Голливуда, Тарантино, роли через постель, отказ от $1 млн / 50 вопросов (2022)](https://www.youtube.com/watch?v=xgevI7Zkjdg)
+- [How Paul Thomas Anderson Changed](https://www.youtube.com/watch?v=qMjQrXvcKnc)

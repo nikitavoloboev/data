@@ -145,3 +145,4 @@
 - [The power of defaults (2021)](https://julian.digital/2021/12/20/the-power-of-defaults/)
 - [Ask HN: Why is today's Internet experience so user hostile? (2022)](https://news.ycombinator.com/item?id=29778880)
 - [Ask HN: Why is software quality always decreasing? (2022)](https://news.ycombinator.com/item?id=29896815)
+- [Click and Swap, our alternative to Drag and Drop (2022)](https://engineering.contentsquare.com/2021/click-and-swap-alternative-to-drag-and-drop/)

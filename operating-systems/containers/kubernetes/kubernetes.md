@@ -600,3 +600,6 @@
 - [TestKube](https://github.com/kubeshop/testkube) - Kubernetes-native framework for test definition and execution.
 - [Tracing the path of network traffic in Kubernetes (2022)](https://learnk8s.io/kubernetes-network-packets)
 - [Learnk8s Blog](https://learnk8s.io/blog)
+- [Kove](https://github.com/cmacrae/kove) - Watch your in cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics.
+- [Reasons Kubernetes is so complex (2022)](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/) ([HN](https://news.ycombinator.com/item?id=30096674))
+- [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.

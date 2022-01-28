@@ -67,3 +67,4 @@
 - [Agda Grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-agda)
 - [Agda-routing](https://github.com/MatthewDaggitt/agda-routing) - Agda library for reasoning about asynchronous iterative algorithms and network routing problems.
 - [Formalisation of a temporal type system in Agda](https://github.com/DimaSamoz/temporal-type-systems)
+- [agda-metric-reals](https://github.com/bobatkey/agda-metric-reals)

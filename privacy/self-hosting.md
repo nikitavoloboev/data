@@ -25,3 +25,4 @@
 - [CasaOS](https://github.com/IceWhaleTech/CasaOS) - Simple, easy-to-use, elegant open-source Family Cloud system. ([HN](https://news.ycombinator.com/item?id=29328473))
 - [My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server (2021)](https://cprimozic.net/blog/my-selfhosted-websites-architecture/) ([HN](https://news.ycombinator.com/item?id=29746223)) ([Lobsters](https://lobste.rs/s/olgedg/my_setup_for_self_hosting_dozens_web))
 - [What are the top 3 most useful things that you have hosted over the years? (2022)](https://www.reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/)
+- [Khue's Homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. ([Docs](https://homelab.khuedoan.com/)) ([HN](https://news.ycombinator.com/item?id=30030991))

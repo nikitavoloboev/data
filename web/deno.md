@@ -176,3 +176,4 @@
 - [ga](https://github.com/denoland/ga) - Utilities for server side processing of Google Analytics in Deno CLI and Deploy.
 - [deno_graph](https://github.com/denoland/deno_graph) - Module graph logic for Deno CLI.
 - [Deno by Example](https://examples.deno.land/) ([Code](https://github.com/denoland/denobyexample))
+- [Deno in 2021](https://deno.com/blog/deno-in-2021) ([HN](https://news.ycombinator.com/item?id=30073786))

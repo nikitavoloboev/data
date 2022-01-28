@@ -136,3 +136,4 @@
 - [NASA Systems Engineering Research Consortium](https://www.nasa.gov/consortium)
 - [Exploring the software that flies SpaceX rockets and Starships (2021)](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) ([HN](https://news.ycombinator.com/item?id=29724501))
 - [SpaceX Land API](https://api.spacex.land/graphql/) - GraphQL & REST APIs to explore all the rockets, launches & other SpaceX's data. ([Code](https://github.com/SpaceXLand/api))
+- [How the Soviets put a lander on Venus (2022)](https://asianometry.substack.com/p/how-the-soviets-put-a-lander-on-venus) ([HN](https://news.ycombinator.com/item?id=30088235))

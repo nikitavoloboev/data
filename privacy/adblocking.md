@@ -29,3 +29,4 @@
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension). ([Web](https://sponsor.ajay.app/))
 - [Hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly. ([Web](https://www.github.developerdan.com/hosts/))
 - [Adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library.
+- [Let's Block It!](https://letsblock.it/) - Collection of custom uBlock filters to hide low-value content. ([Code](https://github.com/xvello/letsblockit))

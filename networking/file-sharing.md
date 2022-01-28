@@ -97,3 +97,4 @@
 - [gossa](https://github.com/pldubouilh/gossa) - Fast and simple multimedia file server.
 - [Pget](https://github.com/Code-Hex/pget) - Fastest file download client.
 - [Wormhole GUI](https://github.com/Jacalz/wormhole-gui) - Cross-platform application for easy encrypted sharing of files, folders, and text between devices.
+- [Firefiles](https://github.com/faisalsayed10/firefiles) - Get your own file hosting service in minutes.

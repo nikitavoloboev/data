@@ -43,6 +43,7 @@
 - [GQL](https://github.cokm/graphql-python/gql) - GraphQL client in Python.
 - [FastWSGI](https://github.com/jamesroberts/fastwsgi) - Ultra fast WSGI server for Python 3. ([HN](https://news.ycombinator.com/item?id=29571421))
 - [Starlite](https://github.com/Goldziher/starlite) - Light, opinionated and flexible ASGI API framework built on top of pydantic and Starlette.
+- [pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python.
 
 ## ML
 
@@ -655,6 +656,9 @@
 - [pyhash](https://github.com/flier/pyfasthash) - Python Non-cryptographic Hash Library.
 - [trycast](https://github.com/davidfstr/trycast) - Parses JSON-like values whose shape is defined by TypedDicts and other standard Python type hints.
 - [Pyasmtools](https://github.com/MoserMichael/pyasmtool) - Explores the python bytecode, provides some tools to access it.
+- [Pyrallis](https://github.com/eladrich/pyrallis) - Simple Configuration with Dataclasses.
+- [retrie](https://github.com/ddelange/retrie) - Efficient Trie-based regex unions for blacklist/whitelist filtering and one-pass mapping-based string replacing.
+- [PyHeck](https://github.com/kevinheavey/pyheck) - Case conversion library (for converting strings to snake_case, camelCase etc). Thin wrapper around the Rust library heck.
 
 ## Links
 
@@ -718,3 +722,4 @@
 - [pip-audit](https://github.com/trailofbits/pip-audit) - Audits Python environments and dependency trees for known vulnerabilities.
 - [Python Type Hints - How to Handle Optional Imports (2021)](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) ([HN](https://news.ycombinator.com/item?id=29803756))
 - [Problems with testing Python pre-releases and pip caching (2022)](https://sethmlarson.dev/blog/python-prereleases-and-pip-cache)
+- [karlicoss's python template](https://github.com/karlicoss/pymplate)

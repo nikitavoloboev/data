@@ -313,3 +313,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [awesome OS](https://github.com/zriyans/awesome-OS)
 - [The World of Vintage Operating Systems](https://winworldpc.com/library/operating-systems) ([HN](https://news.ycombinator.com/item?id=29781325))
 - [MiniVM](https://github.com/FastVM/minivm) - Zero-dependency cross-language runtime on par with LuaJIT and C. ([HN](https://news.ycombinator.com/item?id=29850562))
+- [What goes into making an OS to be Unix compliant certified?](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified) ([Lobsters](https://lobste.rs/s/tilteq/what_goes_into_making_os_be_unix_compliant))
+- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([HN](https://news.ycombinator.com/item?id=30094376))

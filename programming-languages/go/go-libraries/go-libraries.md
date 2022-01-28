@@ -109,6 +109,7 @@
 ## Web
 
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
+- [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management.
 - [Authz](https://github.com/gin-contrib/authz) - Authorization middleware for Gin.
@@ -1248,6 +1249,7 @@
 - [base62](https://github.com/jxskiss/base62) - Compact and high performance implementation of base62 algorithm for Go.
 - [go-generics-cache](https://github.com/Code-Hex/go-generics-cache) - Key:value store/cache library written in Go 1.18 generics. LRU, LFU, FIFO, MRU, Clock support.
 - [go-collections](https://github.com/mikhailswift/go-collections) - Generic utility functions for dealing with collections in go. ([Reddit](https://www.reddit.com/r/golang/comments/s77bdb/to_learn_go_generics_i_created_a_small_library_of/))
+- [mp4ff](https://github.com/edgeware/mp4ff) - Implements MP4 media file parsing and writing for AVC and HEVC video, AAC audio and stpp/wvtt subtitles.
 
 ## Links
 
@@ -1289,3 +1291,4 @@
 - [goesgen](https://github.com/romshark/goesgen) - Go code generator for event-sourced systems.
 - [gocap](https://github.com/cugu/gocap) - List your dependencies capabilities and monitor if updates require more capabilities.
 - [Go Clean template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Go services.
+- [Go generics the hard way](https://github.com/akutz/go-generics-the-hard-way) - Hands-on approach to getting started with Go generics.

@@ -33,3 +33,4 @@
 - [Lagrange](https://github.com/skyjake/lagrange) - Beautiful Gemini Client. ([Web](https://gmi.skyjake.fi/lagrange/))
 - [Gemini: The Misaligned Incentives](https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html) ([HN](https://news.ycombinator.com/item?id=28688232))
 - [Gemini Portal](https://portal.mozz.us/gemini/gemini.circumlunar.space/)
+- [Gemini is a little gem (2022)](https://andregarzia.com/2022/01/gemini-is-a-little-gem.html) ([HN](https://news.ycombinator.com/item?id=30072085))

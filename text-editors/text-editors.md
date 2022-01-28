@@ -31,7 +31,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Kiro](https://github.com/rhysd/kiro-editor) - Terminal UTF-8 text editor written in Rust.
 - [TextMate](https://github.com/textmate/textmate) - Graphical text editor for macOS 10.12 or later. ([Web](https://macromates.com/))
 - [Acme](http://acme.cat-v.org/) - Powerful text editor, development environment and textual-user-interface platform.
-- [Nova](https://nova.app/) - Native Mac code editor. ([HN](https://news.ycombinator.com/item?id=24495330)) ([Lobsters](https://lobste.rs/s/fhhojk/nova)) ([Docs](https://docs.nova.app/))
+- [Nova](https://nova.app/) - Native Mac code editor. ([HN](https://news.ycombinator.com/item?id=24495330)) ([Lobsters](https://lobste.rs/s/fhhojk/nova)) ([Docs](https://docs.nova.app/)) ([HN](https://news.ycombinator.com/item?id=30066298))
 - [Trix](https://github.com/basecamp/trix) - Compose beautifully formatted text in your web application. ([Web](https://trix-editor.org/))
 - [Ox](https://github.com/curlpipe/ox) - Fast text editor that runs in your terminal. ([HN](https://news.ycombinator.com/item?id=24975988))
 - [Barliman](https://github.com/webyrd/Barliman) - Prototype "smart editor" that performs real-time program synthesis.
@@ -73,6 +73,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [react-codemirror](https://github.com/uiwjs/react-codemirror) - CodeMirror 6 component for React.
 - [rodemirror](https://github.com/sachinraja/rodemirror) - React component for CodeMirror 6.
 - [React Textarea Code Editor](https://github.com/uiwjs/react-textarea-code-editor) - Simple code editor with syntax highlighting.
+- [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration and paginated preview. ([Code](https://github.com/mb21/panwriter))
 
 ## Web
 

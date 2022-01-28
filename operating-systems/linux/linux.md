@@ -449,3 +449,4 @@
 - [CMLFS](https://github.com/dslm4515/CMLFS) - Clang-Built Musl Linux From Scratch.
 - [Picosnitch](https://github.com/elesiuta/picosnitch) - Protect your privacy, see which processes make remote network connections. ([HN](https://news.ycombinator.com/item?id=29784941))
 - [My 2022 high-end Linux PC](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/) ([Lobsters](https://lobste.rs/s/ysqqhd/my_2022_high_end_linux_pc)) ([HN](https://news.ycombinator.com/item?id=29949012))
+- [systemd by example](https://systemd-by-example.com/) - Playground allows you to learn about systemd interactively, right from your browser. ([Article](https://seb.jambor.dev/posts/systemd-by-example-the-playground/))

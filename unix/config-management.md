@@ -1,5 +1,7 @@
 # Configuration management
 
+[Nickel](https://github.com/tweag/nickel) is interesting.
+
 ## Links
 
 - [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management. ([HN](https://news.ycombinator.com/item?id=25359845))

@@ -281,3 +281,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Neovim from scratch](https://github.com/LunarVim/Neovim-from-scratch) - Neovim config designed from scratch to be understandable.
 - [nvimdots](https://github.com/ayamir/nvimdots) - Well configured and structured Neovim.
 - [nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins.
+- [stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim.

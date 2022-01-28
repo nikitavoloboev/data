@@ -88,3 +88,5 @@
 - [Circuit Simulator Applet](https://www.falstad.com/circuit/)
 - [DLS](https://makingartstudios.itch.io/dls) - Digital logic simulator game.
 - [Making nice-looking and interactive diagrams for your PCBs (2021)](https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/) ([HN](https://news.ycombinator.com/item?id=29871371))
+- [Water circuit analogy to electric circuit](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/watcir.html) ([HN](https://news.ycombinator.com/item?id=30059578))
+- [Circuit Simulator Applet](https://falstad.com/circuit/) ([HN](https://news.ycombinator.com/item?id=30062433))

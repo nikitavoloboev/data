@@ -309,3 +309,4 @@
 - [Get started with Storybook and Next.js (2021)](https://storybook.js.org/blog/get-started-with-storybook-and-next-js/)
 - [next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router.
 - [pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
+- [Next.js Modal Routing (2022)](https://www.youtube.com/watch?v=P4W_LaotmNI) ([Code](https://github.com/ryanto/next-modal-routing))

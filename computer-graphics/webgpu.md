@@ -40,3 +40,6 @@
 - [swift-webgpu](https://github.com/henrybetts/swift-webgpu) - Swift bindings for WebGPU.
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro webGPU rendering & compute library.
 - [WebGPU Sketch Dojo](https://github.com/gnikoloff/webgpu-dojo)
+- [wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - Language server implementation for the WGSL shading language.
+- [WebGPU Shading Language Proposal](https://www.w3.org/TR/WGSL/)
+- [online-wgsl-editor](https://github.com/takahirox/online-wgsl-editor) - Tiny WGSL online editor.

@@ -131,3 +131,6 @@
 - [HKU MaRS Lab](https://mars.hku.hk/) - Mechatronics and Robotic Systems (MaRS) Laboratory. ([GitHub](https://github.com/hku-mars))
 - [Main Street Autonomy](https://mainstreetautonomy.com/) - Sell software that makes robots work.
 - [coffee](https://github.com/kevinzakka/coffee) - Deepmind Robotics moma API for PyBullet.
+- [Towards Practical Multi-Object Manipulation using Relational Reinforcement Learning (2019)](https://arxiv.org/abs/1912.11032) ([Code](https://github.com/richardrl/rlkit-relational))
+- [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501)
+- [Robotics 101: Computational Linear Algebra](https://github.com/michiganrobotics/rob101)

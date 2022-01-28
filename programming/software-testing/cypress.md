@@ -46,3 +46,4 @@
 - [cypress-data-session](htmntps://github.com/bahmutov/ocypress-data-session) - Cypress command for flexible test data setup.
 - [My favorite Cypress plugins (2021)](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)
 - [Cypress Tips Advent Calendar 2021](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)
+- [Stop writing nextTick in your component tests](https://jess.sh/blog/stop-writing-next-tick)

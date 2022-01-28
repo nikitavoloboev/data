@@ -85,3 +85,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Bina](https://bina.egoist.sh/) - Installer for self-contained, single-file binaries, no additional CLI needed. ([Code](https://github.com/egoist/bina))
 - [Nice CLIs](https://twitter.com/amilajack/status/1479328649820000256)
 - [Charm](https://charm.sh/) - Tools to make the command line glamorous. ([HN](https://news.ycombinator.com/item?id=30048332))
+- [Quick reference on command line tools and techniques](https://github.com/vastutsav/command-line-quick-reference)

@@ -349,3 +349,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Avoiding Internet Centralization (2021)](https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html) ([HN](https://news.ycombinator.com/item?id=29500035))
 - [Future of web focuses (2021)](https://twitter.com/levie/status/1473500689645010945)
 - [How my website works (2022)](https://brianlovin.com/writing/how-my-website-works)
+- [Ask HN: Is the past disappearing on the web? (2022)](https://news.ycombinator.com/item?id=30083783)

@@ -104,3 +104,5 @@
 - [Recording 660FPS Video on a $6 Raspberry Pi Camera (2019)](https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/) ([HN](https://news.ycombinator.com/item?id=29703293))
 - [Arduino-Pico](https://github.com/earlephilhower/arduino-pico) - Raspberry Pi Pico Arduino core, for all RP2040 boards.
 - [Raspberry Pi GPIO Pinout](https://pinout.xyz/) ([Code](https://github.com/Gadgetoid/Pinout.xyz))
+- [PySpectrometer](https://github.com/leswright1977/PySpectrometer) - Python (OpenCV and Tkinter) implementation of an optical spectrometer.
+- [Using 4G LTE wireless modems on a Raspberry Pi (2022)](https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi)

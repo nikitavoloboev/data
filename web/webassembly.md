@@ -250,5 +250,5 @@
 - [Faster TypedArrays: Vector Addition in WebAssembly](https://jott.live/markdown/wasm_vector_addition) ([HN](https://news.ycombinator.com/item?id=29770238))
 - [rustwasmc](https://github.com/second-state/rustwasmc) - Rust compiler toolkit for WebAssembly apps in the WasmEdge Runtime.
 - [Made with WebAssembly](https://madewithwebassembly.com/) - Showcase of awesome production applications, side projects, and use cases made with WebAssembly. ([Code](https://github.com/torch2424/made-with-webassembly))
-- [Optimizing Matrix Multiplication in Pure WebAssembly](https://jott.live/markdown/mm_wasm)
+- [Optimizing Matrix Multiplication in Pure WebAssembly](https://jott.live/markdown/mm_wasm) ([HN](https://news.ycombinator.com/item?id=30073186))
 - [WebAssembly: The New Kubernetes? (2021)](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes) ([HN](https://news.ycombinator.com/item?id=30020121))

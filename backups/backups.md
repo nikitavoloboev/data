@@ -74,3 +74,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [How I back up all my data](https://github.com/geerlingguy/my-backup-plan)
 - [Backblaze restore for Personal Backup is awful (2021)](https://news.ycombinator.com/item?id=29533753)
 - [Ask HN: What is your system for backing up family photos and video? (2022)](https://news.ycombinator.com/item?id=29978099)
+- [Bleanser](https://github.com/karlicoss/bleanser) - Tool for cleaning old and redundant backups.

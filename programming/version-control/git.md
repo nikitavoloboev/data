@@ -477,3 +477,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Using Git Commit Message Templates to Write Better Commit Messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733) ([HN](https://news.ycombinator.com/item?id=29911308))
 - [How I Use Stacked Git at $WORK](https://soap.coffee/~lthms/opinions/StackedGit.html)
 - [multi-gitter](https://github.com/lindell/multi-gitter) - CLI to update multiple repositories in bulk.
+- [Git Organized: A Better Git Flow (2022)](https://render.com/blog/git-organized-a-better-git-flow)
+- [Highlights from Git 2.35 (2022)](https://github.blog/2022-01-24-highlights-from-git-2-35/) ([HN](https://news.ycombinator.com/item?id=30068776))

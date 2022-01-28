@@ -107,3 +107,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [The American Dream is on Life Support in the Bay Area (2021)](https://hariraghavan.com/0090c2645d2f4cbda95cc6cdbeec46e3) ([Tweet](https://twitter.com/garrytan/status/1475865310527778823))
 - [Arcane Regulations Slow America's Energy Shift (2021)](https://austinvernon.site/blog/renewablesregulatory.html)
 - [Rural America is Gearing Up For a Generation of Change (2021)](https://austinvernon.site/blog/ruralfuture.html)
+- ["Best" US President since the 80s? (2022)](https://www.reddit.com/r/PoliticalDiscussion/comments/scwv4u/in_your_opinion_who_has_been_the_best_us/)

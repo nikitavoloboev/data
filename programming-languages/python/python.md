@@ -421,3 +421,5 @@ for i, _ in enumerate(nums):
 - [Python Bytecode Explained](https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md) ([HN](https://news.ycombinator.com/item?id=29959262))
 - [Python Design Patterns](https://python-patterns.guide/) ([Code](https://github.com/brandon-rhodes/python-patterns))
 - [Strict Python function parameters (2022)](https://sethmlarson.dev/blog/strict-python-function-parameters) ([Lobsters](https://lobste.rs/s/kllcvy/strict_python_function_parameters))
+- [How vectorization speeds up your Python code (2022)](https://pythonspeed.com/articles/vectorization-python/) ([Lobsters](https://lobste.rs/s/8kujeg/how_vectorization_speeds_up_your_python))
+- [Static Typing Python Decorators (2022)](https://rednafi.github.io/reflections/static-typing-python-decorators.html)

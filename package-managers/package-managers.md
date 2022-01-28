@@ -45,3 +45,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Scarf CLI](https://github.com/scarf-sh/scarf) - Environment manager and development tool powered by Nomia.
 - [Aura](https://github.com/fosskers/aura) - Secure, multilingual package manager for Arch Linux and the AUR.
 - [pakket](https://github.com/pakket-project/pakket) - The last package manager macOS will ever need. Simple, functional, and fast.
+- [5 Reasons to Try Guix in 2022](https://www.youtube.com/watch?v=7ZdMRLPZhFs)

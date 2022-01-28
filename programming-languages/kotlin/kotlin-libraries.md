@@ -52,3 +52,4 @@
 ## Links
 
 - [Package Search](https://package-search.jetbrains.com/) - Search for any Java or Kotlin library. ([Article](https://blog.jetbrains.com/idea/2020/04/package-search-on-the-web))
+- [Awesome KMM](https://github.com/terrakok/kmm-awesome)

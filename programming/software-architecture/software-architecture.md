@@ -197,3 +197,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Designing WhatsApp (2022)](http://highscalability.com/blog/2022/1/3/designing-whatsapp.html)
 - [Data-Oriented Programming is dope (2022)](https://dev.to/xba/data-oriented-programming-is-dope-ma2)
 - [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
+- [Causal's multi-dimensional spreadsheet calculation engine](https://twitter.com/lukaskoebis/status/1485944221169520645)

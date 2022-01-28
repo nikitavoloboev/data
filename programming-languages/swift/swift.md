@@ -1,5 +1,7 @@
 # [Swift](https://developer.apple.com/swift/)
 
+[Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great.
+
 ## Notes
 
 - [Avoid using AnyCollection.](https://twitter.com/AirspeedSwift/status/1294292068412473347)
@@ -262,3 +264,4 @@
 - [experimental-tree-sitter-swift](https://github.com/alex-pinkus/experimental-tree-sitter-swift) - Experimental tree-sitter grammar for the Swift programming language.
 - [Swift - API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/)
 - [Tasks in Swift explained with code examples (2022)](https://www.avanderlee.com/concurrency/tasks/)
+- [Automatically retrying an asynchronous Swift Task (2022)](https://www.swiftbysundell.com/articles/retrying-an-async-swift-task/)

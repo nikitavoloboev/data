@@ -84,3 +84,4 @@
 - [Fast Generic Functions](https://github.com/marcoheisig/fast-generic-functions) - Seal your generic functions for an extra boost in performance.
 - [sb-simd](https://github.com/marcoheisig/sb-simd) - Convenient SIMD interface for SBCL.
 - [cl-mpi](https://github.com/marcoheisig/cl-mpi) - MPI bindings for Common Lisp with many useful extras.
+- [Building Setf (2022)](https://blog.veitheller.de/Building_Setf.html)

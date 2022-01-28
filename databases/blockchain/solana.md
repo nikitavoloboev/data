@@ -6,8 +6,6 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 
 I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
 
-Until you can purchase ownership of stocks with blockchain, I buy [stocks/ETFs](../../economy/investing.md) with [Interactive Brokers](https://ibkr.com/referral/nikita206).
-
 You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/). [Render Network](https://rendertoken.com/) is awesome too.
 
 ## Apps

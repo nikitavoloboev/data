@@ -96,3 +96,4 @@
 - [Don’t start with microservices – monoliths are your friend (2021)](https://arnoldgalovics.com/microservices-in-production/) ([Lobsters](https://lobste.rs/s/p7l6kz/don_t_start_with_microservices_monoliths)) ([HN](https://news.ycombinator.com/item?id=29576352)) ([Reddit](https://www.reddit.com/r/coding/comments/rhmoki/dont_start_with_microservices_monoliths_are_your/))
 - [Mockintosh](https://github.com/up9inc/mockintosh) - Mocks for microservice environments.
 - [Layotto](https://github.com/mosn/layotto) - Fast and efficient cloud native application runtime. ([Docs](https://mosn.io/layotto/#/))
+- [The truth about starting with microservices (2022)](https://arnoldgalovics.com/truth-about-microservices/)
