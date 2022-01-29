@@ -282,3 +282,4 @@
 - [Agrippa](https://github.com/NitzanHen/agrippa) - React CLI for component generation.
 - [Awesome React Headless Components](https://github.com/jxom/awesome-react-headless-components)
 - [preactement](https://github.com/jhukdev/preactement) - Create a custom element from any Preact component.
+- [Good advice on JSX conditionals (2022)](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/)

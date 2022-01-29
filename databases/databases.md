@@ -192,6 +192,7 @@
 - [OpenMLDB](https://github.com/4paradigm/OpenMLDB) - Open-source machine learning database that provides a full-stack FeatureOps solution for enterprises.
 - [Google F1](https://dbdb.io/db/google-f1) - Distributed transactional database. Built on Google's Spanner so that it can reach strong consistency. ([Paper](https://research.google/pubs/pub41344/))
 - [Skate](https://github.com/charmbracelet/skate) - Personal key-value store. Use it to save and retrieve anything you’d like—even binary data.
+- [Hazelcast](https://github.com/hazelcast/hazelcast) - Distributed computation and storage platform for consistently low-latency querying, aggregation and stateful computation against event streams and traditional data sources. ([Web](https://hazelcast.com/))
 
 ## Tools
 
@@ -255,6 +256,7 @@
 
 - [Database queries are especially fast if you copy the database into RAM.](https://twitter.com/raymondh/status/1380240448606756865)
 - [More than likely images/videos are stored in something like AWS S3 and the database would just have links to them. It is possible to store an image straight up in a database though but it would be as a blob/buffer data that is then turned back into an image on the client. The blob/base64 string way can be slower/probably not recommended. For fast load/performance they'd use caching/cdn.](https://www.reddit.com/r/AskProgramming/comments/moj0rb/how_do_websites_store_videos_and_images_can_this/)
+- [It's good to start any app design with database schema and mock the UI to connect them.](https://lobste.rs/s/dgb7xh/i_always_design_database_schema_first)
 
 ## Links
 
@@ -510,3 +512,5 @@
 - [Acra](https://github.com/cossacklabs/acra) - Database security suite for sensitive and personal data protection.
 - [Are You Sure You Want to Use MMAP in Your Database Management System? (CIDR 2022)](https://db.cs.cmu.edu/mmap-cidr2022/) ([Lobsters](https://lobste.rs/s/nxymu2/are_you_sure_you_want_use_mmap_your)) ([HN](https://news.ycombinator.com/item?id=29936104))
 - [Electric Tables – an experiment in personal databases (2022)](https://tomcritchlow.com/2022/01/26/electric-tables/) ([HN](https://news.ycombinator.com/item?id=30089895))
+- [The Strength of the Record](https://docs.xtdb.com/concepts/strength-of-the-record/)
+- [Wikipedia and irregular data: how much can you fetch in one expression? (2022)](https://zverok.substack.com/p/wikipedia-and-irregular-data-how)

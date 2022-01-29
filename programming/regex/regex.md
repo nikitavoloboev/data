@@ -31,7 +31,7 @@ Match all that don't have notes or twitter in input
 - [Oniguruma](https://github.com/kkos/oniguruma) - Modern and flexible regular expressions library.
 - [Regex for Designers and UX Writers (2019)](https://daneden.me/2019/11/23/regex-for-designers-and-writers/)
 - [Regexes vs Combinatorial Parsing (2019)](http://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
-- [RegExr](https://regexr.com/) - Learn, Build & Test RegEx.
+- [RegExr](https://regexr.com/) - Learn, Build & Test RegEx. ([HN](https://news.ycombinator.com/item?id=30103085))
 - [regexgen](https://npm.runkit.com/regexgen) - Generate regular expressions that match a set of strings. ([Code](https://github.com/devongovett/regexgen))
 - [Regular Expressions - Computerphile (2020)](https://www.youtube.com/watch?v=528Jc3q86F8)
 - [Regex Tester](https://extendsclass.com/regex-tester.html) - Visual regex tester.

@@ -220,6 +220,8 @@
 - [iOS-Utils](https://github.com/ark-develop/iOS-Utils) - Set of convenient iOS utilities.
 - [Toast-Swift](https://github.com/BastiaanJansen/toast-swift) - Swift Toast view - iOS 14 style and newer - built with UIKit.
 - [NetShears](https://github.com/divar-ir/NetShears) - iOS Network monitor/interceptor framework written in Swift.
+- [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS.
+- [JustTweak](https://github.com/justeat/JustTweak) - Feature flagging framework for iOS apps.
 
 ## macOS
 
@@ -911,6 +913,10 @@
 - [SVGPath](https://github.com/nicklockwood/SVGPath) - Cross-platform Swift library for parsing SVGPath strings.
 - [Datadog SDK for Swift testing](https://github.com/DataDog/dd-sdk-swift-testing)
 - [CloudKitSyncMonitor](https://github.com/ggruen/CloudKitSyncMonitor) - Monitor current state of NSPersistentCloudKitContainer sync.
+- [Swift Assimp](https://github.com/ctreffs/SwiftAssimp) - Swift wrapper around Open Asset Import Library (aka assimp) for macOS and Linux.
+- [Valid](https://github.com/nerdsupremacist/Valid) - Input Validation Done Right. A Swift DSL for Validating User Input using Allow/Deny Rules.
+- [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values.
+- [RealFlags](https://github.com/immobiliare/RealFlags) - Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig).
 
 ## Other (not lib)
 

@@ -149,3 +149,4 @@
 - [A new protocol and tool for PNG file attachments (2022)](https://nullprogram.com/blog/2021/12/31/) ([HN](https://news.ycombinator.com/item?id=29753186))
 - [img-diff-js](https://github.com/reg-viz/img-diff-js) - Node.js library to compare 2 images without native libs.
 - [RGBA Structural Similarity](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust). ([Web](https://kornel.ski/dssim))
+- [AnsiGo](https://github.com/ansilove/ansigo) - Simple ANSi to PNG converter written in pure Go.

@@ -74,3 +74,4 @@
 - [plex](https://github.com/phogolabs/plex) - Multiplexer that allows GRPC and HTTP server listening on the same port.
 - [grpc-http1](https://github.com/stackrox/go-grpc-http1) - GRPC via HTTP/1 Enabling Library for Go.
 - [gRPC testing infrastructure support code](https://github.com/grpc/test-infra)
+- [wiremock grpc](https://github.com/mustakimali/wiremock-grpc-rs) - Mock gRPC server to test your outgoing gRPC requests.

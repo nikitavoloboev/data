@@ -457,3 +457,8 @@
 - [Ongoing research training transformer language models at scale, including: BERT & GPT-2](https://github.com/bigscience-workshop/Megatron-DeepSpeed)
 - [Improving language models by retrieving from trillions of tokens (2022)](https://arxiv.org/abs/2112.04426) ([Code](https://github.com/lucidrains/RETRO-pytorch))
 - [EntitySeg Toolbox](https://github.com/dvlab-research/Entity) - Towards precise and open-world image segmentation.
+- [Aligning Language Models to Follow Instructions (2022)](https://openai.com/blog/instruction-following/) ([Tweet](https://twitter.com/janleike/status/1486731620656640010)) ([Code](https://github.com/openai/following-instructions-human-feedback))
+- [Simple Questions Generate Named Entity Recognition Datasets (2021)](https://arxiv.org/abs/2112.08808) ([Code](https://github.com/dmis-lab/GeNER))
+- [KRED: Knowledge-Aware Document Representation for News Recommendations (2019)](https://arxiv.org/abs/1910.11494) ([Code](https://github.com/danyang-liu/KRED))
+- [Stanford Open Information Extraction](https://nlp.stanford.edu/software/openie.html)
+- [Python3 wrapper for Stanford OpenIE](https://github.com/philipperemy/stanford-openie-python)

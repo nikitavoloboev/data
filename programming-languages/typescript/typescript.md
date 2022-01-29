@@ -65,7 +65,7 @@
 - [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources.
 - [TSQuery](https://github.com/phenomnomnominal/tsquery) - Allows you to query a TypeScript AST for patterns of syntax using a CSS style selector system.
 - [Interpreting TypeScript](https://www.meetup.com/TypeScriptNYC/events/260291994/) ([Article](http://notes.eatonphil.com/interpreting-typescript.html))
-- [TSDX](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development.
+- [TSDX](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development. ([CLI](https://github.com/weiran-zsd/dts-cli))
 - [TypeScript Weekly](https://www.typescript-weekly.com/) - Best TypeScript links every week, right in your inbox. ([Archive](https://us14.campaign-archive.com/home?u=809daf9442ece0a92a3d65f99&id=5693c0ed42))
 - [Rush Stack](https://github.com/microsoft/rushstack) - Reusable tooling for large scale TypeScript monorepos. ([Web](https://rushjs.io/))
 - [Debugging the TypeScript Codebase (2019)](https://blog.andrewbran.ch/debugging-the-type-script-codebase/)
@@ -223,6 +223,8 @@
 - [typescript/analyze-trace](https://github.com/microsoft/typescript-analyze-trace) - Tool for analyzing the output of tsc --generateTrace automatically.
 - [TypeScript Features to Avoid (2022)](https://www.executeprogram.com/blog/typescript-features-to-avoid) ([HN](https://news.ycombinator.com/item?id=29985123))
 - [The Type Hierarchy Tree (2021)](https://www.zhenghao.io/posts/type-hierarchy-tree)
+- [TS AutoFix](https://github.com/ian-craig/ts-autofix) - Automatically fix TS Errors when codefixes are available.
+- [esbuild-dev](https://github.com/gadget-inc/esbuild-dev) - Reloading dev server for server side TypeScript projects. Compiles TypeScript real fast.
 
 ## Images
 

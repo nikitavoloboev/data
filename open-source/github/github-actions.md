@@ -162,6 +162,9 @@
 - [Run jq](https://github.com/sergeysova/jq-action) - Run jq on your data and get result as output.
 - [Label Checker](https://github.com/agilepathway/label-checker) - Check pull requests for the presence or absence of specified labels.
 - [Set Commit Status](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status.
+- [Create Branch](https://github.com/peterjgrainger/action-create-branch) - Creates a new branch with the same commit reference as the branch it is being ran on, or your chosen reference when specified.
+- [Datadog Agent Action](https://github.com/DataDog/agent-github-action) - Starts a Datadog Agent and gracefully shuts it down before the job finishes.
+- [Auto Request Review](https://github.com/necojackarc/auto-request-review) - GitHub Action that automatically requests review of a pull request based on files changes and/or groups the author belongs to.
 
 ## Go
 
@@ -185,6 +188,7 @@
 - [Rust tarpaulin Action](https://github.com/actions-rs/tarpaulin) - GitHub Action for code coverage reporting with tarpaulin.
 - [@actions-rs example](https://github.com/actions-rs/example) - Rust application example which is using GitHub Actions for CI.
 - [Rust Cache Action](https://github.com/Swatinem/rust-cache) - GitHub Action that implements smart caching for rust/cargo projects with sensible defaults.
+- [Cargo Bloat Action](https://github.com/orf/cargo-bloat-action) - Track rust binary sizes across builds using Github Actions.
 
 ## Python
 
@@ -221,6 +225,7 @@
 ## C++
 
 - [run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake.
+- [clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking.
 
 ## Bash
 

@@ -65,3 +65,4 @@
 - [Remix vs Next.js (2022)](https://remix.run/blog/remix-vs-next) ([HN](https://news.ycombinator.com/item?id=29983950))
 - [ViteKit](https://github.com/egoist/vitekit) - Remix and Vite had a baby.
 - [Remix Conf](https://remix.run/conf)
+- [Not Another Framework (2022)](https://remix.run/blog/not-another-framework) ([HN](https://news.ycombinator.com/item?id=30103775))

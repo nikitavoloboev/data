@@ -108,3 +108,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [Arcane Regulations Slow America's Energy Shift (2021)](https://austinvernon.site/blog/renewablesregulatory.html)
 - [Rural America is Gearing Up For a Generation of Change (2021)](https://austinvernon.site/blog/ruralfuture.html)
 - ["Best" US President since the 80s? (2022)](https://www.reddit.com/r/PoliticalDiscussion/comments/scwv4u/in_your_opinion_who_has_been_the_best_us/)
+- [I read the federal government’s Zero-Trust Memo so you don’t have to (2022)](https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to) ([HN](https://news.ycombinator.com/item?id=30101411))

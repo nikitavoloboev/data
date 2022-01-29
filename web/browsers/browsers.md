@@ -22,7 +22,7 @@
 - [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020)
 - [Karmatic](https://github.com/developit/karmatic) - Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
 - [n.eko](https://github.com/nurdism/neko) - Self hosted virtual browser (rabb.it clone) that runs in docker.
-- [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda)) ([Intro](https://www.youtube.com/watch?v=JjhY2aFBTTk))
+- [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers. ([Playwright Fixture-based test runner](https://github.com/microsoft/playwright-test-runner)) ([End-to-end tests with Playwright](https://github.com/microsoft/playwright-test)) ([playwright-aws-lambda](https://github.com/JupiterOne/playwright-aws-lambda)) ([Intro](https://www.youtube.com/watch?v=JjhY2aFBTTk)) ([HN](https://news.ycombinator.com/item?id=30083042))
 - [Playwright for Python](https://github.com/microsoft/playwright-python) - Python library to automate Chromium, Firefox and WebKit browsers with a single API.
 - [Playwright for Go](https://github.com/mxschmitt/playwright-go) - Go library to automate Chromium, Firefox and WebKit with a single API.
 - [Robot Framework](https://github.com/MarketSquare/robotframework-browser) - Browser library powered by Playwright.
@@ -170,3 +170,4 @@
 - [SameSite cookies explained (2019)](https://web.dev/samesite-cookies-explained/) ([Code](https://github.com/GoogleChromeLabs/samesite-examples))
 - [SOK: On the Analysis of Web Browser Security (2021)](https://arxiv.org/abs/2112.15561)
 - [Browsertime](https://github.com/sitespeedio/browsertime) - Lets you automate running JavaScript in your browser primary used to collect performance metrics.
+- [Scala.js Browser Extension Example](https://github.com/er1c/scala-js-browser-extension-example)

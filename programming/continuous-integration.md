@@ -77,3 +77,4 @@
 - [Developing Databricks' Runbot CI Solution (2021)](https://databricks.com/blog/2021/10/14/developing-databricks-runbot-ci-solution.html)
 - [Conform](https://github.com/talos-systems/conform) - Policy enforcement for your pipelines.
 - [YourBase](https://yourbase.io/) - New build tool optimized for local + remote development. ([Code](https://github.com/yourbase/yb))
+- [Hercules CI Agent](https://github.com/hercules-ci/hercules-ci-agent) - Runs on your infrastructure and executes tasks (evaluation, builds, etc) for your Hercules CI account.

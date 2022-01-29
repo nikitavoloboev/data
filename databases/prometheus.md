@@ -58,3 +58,4 @@
 - [Prometheus Stack Review (2022)](https://clux.github.io/probes/post/2022-01-11-prometheus-ecosystem/)
 - [Prometheus Plugin for Steampipe](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to query instances, domains and more from Prometheus.
 - [Prometheus Rust client library](https://github.com/prometheus/client_rust)
+- [node-cert-exporter](https://github.com/amimof/node-cert-exporter) - Prometheus exporter for x509 certificates written in Go.

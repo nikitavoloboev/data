@@ -114,3 +114,4 @@
 - [ch2o](https://github.com/robbertkrebbers/ch2o) - Aims at formalizing novel features of the ISO C11 standard of the C programming language.
 - [ATBR](https://github.com/coq-community/atbr) - Coq library and tactic for deciding Kleene algebras.
 - [Multinomials](https://github.com/math-comp/multinomials) - Multivariate polynomial Library for the Mathematical Components Library.
+- [Efficient Extensional Binary Tries (2021)](https://hal.inria.fr/hal-03372247) ([Code](https://github.com/xavierleroy/canonical-binary-tries))

@@ -310,3 +310,4 @@
 - [Simple random search provides a competitive approach to reinforcement learning (2018)](https://arxiv.org/abs/1803.07055) ([Code](https://github.com/erwincoumans/ARS))
 - [Reinforcement Learning as a fine-tuning paradigm (2022)](https://ankeshanand.com/blog/2022/01/08/rl-fine-tuning.html)
 - [MTRL](https://github.com/facebookresearch/mtrl) - Multi Task RL Baselines.
+- [MAgent](https://github.com/Farama-Foundation/MAgent) - Library for creating 2D environments with very large numbers of agents for conducting research in Multi-Agent Reinforcement Learning.

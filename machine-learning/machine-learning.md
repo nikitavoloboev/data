@@ -14,6 +14,7 @@
 - Most of ML is fitting models to data. To fit a model you minimize some error measure as a function of its real valued parameters, e.g. the weights of the connections in a neural network. The algorithms to do the minimization are based on gradient descent, which depends on derivatives, i.e. differential calculus.
 - [Learn optimization before studying machine learning if you really want to understand what's going on.](https://twitter.com/Adam235711/status/1391067131169574914)
 - [What idiot called it "machine learning" instead of "bias automation".](https://twitter.com/fasterthanlime/status/868840530813353985)
+- [If you were to learn only 1 method for explaining machine learning models, it should be Shapley values (SHAP): 1. Model-agnostic: Use with any model. 2. Theoretic foundation: Game theory. 3. Good software ecosystem. 4. Local and global explanations.](https://twitter.com/ChristophMolnar/status/1486635139190992896)
 
 ## Links
 
@@ -68,7 +69,7 @@
 - [Deep Learning State of the Art (2019) - MIT](https://www.youtube.com/watch?v=53YvP6gdD7U)
 - [AdaNet](https://github.com/tensorflow/adanet) - Lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention.
 - [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) - Benchmark suite for end-to-end deep learning training and inference.
-- [Interpretable machine learning book (2018)](https://github.com/christophM/interpretable-ml-book) - Explaining the decisions and behavior of machine learning models.
+- [Interpretable Machine Learning (2022)](https://christophm.github.io/interpretable-ml-book/) - Guide for Making Black Box Models Explainable. ([Code](https://github.com/christophM/interpretable-ml-book))
 - [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean)
 - [KubeFlow Pipelines](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 - [Summary of some ML papers](https://github.com/kweonwooj/papers)
@@ -656,3 +657,5 @@
 - [Contrastive Self-Supervised Learning (2020)](https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html)
 - [Top AI Conference Papers with Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code)
 - [Awesome Deep Learning papers for industrial Search, Recommendation and Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
+- [JaxTon](https://github.com/vopani/jaxton) - 100 exercises to learn JAX.
+- [Deep Multi-attribute Graph Representation Learning on Protein Structures (2020)](https://arxiv.org/abs/2012.11762)

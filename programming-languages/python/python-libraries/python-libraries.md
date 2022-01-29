@@ -144,6 +144,7 @@
 - [PugSQL](https://github.com/mcfunley/pugsql) - HugSQL-inspired database library for Python.
 - [PyStow](https://github.com/cthoyt/pystow) - Easily pick a place to store data for your Python code.
 - [CogDB](https://github.com/arun1729/cog) - Graph Database for Python.
+- [SQLAlchemy adapter for CockroachDB](https://github.com/cockroachdb/sqlalchemy-cockroachdb)
 
 ## GUI
 
@@ -659,6 +660,8 @@
 - [Pyrallis](https://github.com/eladrich/pyrallis) - Simple Configuration with Dataclasses.
 - [retrie](https://github.com/ddelange/retrie) - Efficient Trie-based regex unions for blacklist/whitelist filtering and one-pass mapping-based string replacing.
 - [PyHeck](https://github.com/kevinheavey/pyheck) - Case conversion library (for converting strings to snake_case, camelCase etc). Thin wrapper around the Rust library heck.
+- [PipelineDP](https://github.com/OpenMined/PipelineDP) - Python framework for applying differentially private aggregations to large datasets using batch processing systems such as Apache Spark, Apache Beam, and more.
+- [Pooch](https://github.com/fatiando/pooch) - Friend to fetch your data files.
 
 ## Links
 
@@ -723,3 +726,4 @@
 - [Python Type Hints - How to Handle Optional Imports (2021)](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) ([HN](https://news.ycombinator.com/item?id=29803756))
 - [Problems with testing Python pre-releases and pip caching (2022)](https://sethmlarson.dev/blog/python-prereleases-and-pip-cache)
 - [karlicoss's python template](https://github.com/karlicoss/pymplate)
+- [Semantic Python Overview](https://github.com/pysemtec/semantic-python-overview) - Overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...).

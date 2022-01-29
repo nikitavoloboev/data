@@ -172,3 +172,4 @@
 - [Thread of Roman treasure, wartime intrigue, secrets, lies and obsession](https://twitter.com/OptimoPrincipi/status/1288035586025181189)
 - [Gareth Harney](https://twitter.com/OptimoPrincipi) - Celebrating the endless wonders of the Roman world.
 - [Wiki History Game](https://wikitrivia.tomjwatson.com/)
+- [Computer History](https://www.computerhope.com/history/index.htm)

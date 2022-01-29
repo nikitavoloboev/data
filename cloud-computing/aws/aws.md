@@ -280,3 +280,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS SSO CLI](https://github.com/synfinatic/aws-sso-cli) - Powerful tool for using AWS SSO for the CLI and web console.
 - [Awesome EventBridge](https://github.com/boyney123/awesome-eventbridge)
 - [AWS is Not a Dumb Pipe (2022)](https://matt-rickard.com/aws-is-not-a-dumb-pipe/) ([Lobsters](https://lobste.rs/s/yprzex/aws_is_not_dumb_pipe))
+- [Amazon EKS AMI Build Specification](https://github.com/awslabs/amazon-eks-ami) - Packer configuration for building a custom EKS AMI.

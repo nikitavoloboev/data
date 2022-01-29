@@ -81,7 +81,7 @@
 - [E. Dijkstra – The Man Who Carried Computer Science on His Shoulders (2020)](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders) ([HN](https://news.ycombinator.com/item?id=24942671))
 - [The FUNARG Problem Explained (1968)](http://www.softwarepreservation.net/projects/LISP/MIT/Weizenbaum-FUNARG_Problem_Explained-1968.pdf)
 - [Weekly CS Paper](https://simon-frey.com/weeklycspaper/) - Get a computer science paper every Friday.
-- [Foundations of Computer Science (1992)](http://infolab.stanford.edu/~ullman/focs.html)
+- [Foundations of Computer Science (1992)](http://infolab.stanford.edu/~ullman/focs.html) ([HN](https://news.ycombinator.com/item?id=30099634))
 - [Program and Data Representation course](https://aaronbloomfield.github.io/pdr/readme.html) ([Code](https://github.com/uva-cs/pdr))
 - [Foundations of Computer Science annual conference (2020)](https://focs2020.cs.duke.edu/program/)
 - [Exploring How Computers Work (2020)](https://www.youtube.com/watch?v=QZwneRb-zqA) ([Reddit](https://www.reddit.com/r/programming/comments/jybwv0/exploring_how_computers_work/))
@@ -173,3 +173,4 @@
 - [Introduction to Model Predictive Control (2022)](https://arnavdhamija.com/2022/01/08/intro-to-mpc/)
 - [Postel's law as a profunctor (2021)](https://blog.ploeh.dk/2021/11/29/postels-law-as-a-profunctor/)
 - [Structure and Interpretation of Computer Programs - JavaScript Edition](https://sourceacademy.org/sicpjs/index)
+- [On being a PhD student of Robert Harper (2022)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0) ([HN](https://news.ycombinator.com/item?id=30103728))

@@ -92,6 +92,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Isaac Dykeman](https://ijdykeman.github.io/)
 - [Austin Vernon](https://austinvernon.site/index.html)
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
+- [Josh Haberman](https://blog.reverberate.org/)
 
 ## Notes
 

@@ -311,3 +311,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Hyperglot](https://github.com/rosettatype/hyperglot) - Database and tools for detecting language support in fonts.
 - [Liga](https://github.com/EzequielRamis/liga) - Add ligatures to any programming font.
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
+- [What if text was more expressive?](https://twitter.com/azlenelza/status/1486680833431797765)

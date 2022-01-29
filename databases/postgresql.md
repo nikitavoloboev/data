@@ -398,3 +398,5 @@
 - [PostgreSQL query performance bottlenecks (2022)](https://pawelurbanek.com/postgresql-query-bottleneck) ([HN](https://news.ycombinator.com/item?id=29977856))
 - [Postgres Indexes for Newbies (2022)](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 - [Creating a Postgres Foreign Data Wrapper (2021)](https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/) ([HN](https://news.ycombinator.com/item?id=30089884))
+- [Reshape](https://github.com/fabianlindfors/reshape) - Easy-to-use, zero-downtime schema migration tool for Postgres.
+- [PG-Strom](https://github.com/heterodb/pg-strom) - Extension for PostgreSQL database. Designed to accelerate mostly batch and analytics workloads with utilization of GPU and NVME-SSD.

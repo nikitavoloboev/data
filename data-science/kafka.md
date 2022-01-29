@@ -84,3 +84,5 @@
 - [Castle](https://github.com/ovotech/castle) - Framework for building Kafka and avro based apps in typescript.
 - [Franz](https://github.com/scrogson/franz) - Kafka client library for Erlang/Elixir based on librdkafka implemented as a safe Rust NIF.
 - [Disaster Recovery for Multi-Region Kafka at Uber (2020)](https://eng.uber.com/kafka/)
+- [Delivering billions of messages exactly once (2017)](https://segment.com/blog/exactly-once-delivery/)
+- [kPow for Apache Kafka](https://kpow.io/) - Monitor. Manage. Learn.

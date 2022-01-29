@@ -74,6 +74,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [rodemirror](https://github.com/sachinraja/rodemirror) - React component for CodeMirror 6.
 - [React Textarea Code Editor](https://github.com/uiwjs/react-textarea-code-editor) - Simple code editor with syntax highlighting.
 - [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration and paginated preview. ([Code](https://github.com/mb21/panwriter))
+- [lyranos](https://github.com/niklaskorz/lyranos) - Code editor based on druid and tree-sitter.
 
 ## Web
 

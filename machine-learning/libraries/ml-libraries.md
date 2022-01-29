@@ -269,3 +269,4 @@
 - [hypopt](https://github.com/cgnorthcutt/hypopt) - Parallelized hyper-param optimization with validation set, not crossval.
 - [Rax](https://github.com/google/rax) - Composable Learning to Rank using JAX.
 - [ML Collections](https://github.com/google/ml_collections) - Library of Python Collections designed for ML use cases.
+- [Latte](https://github.com/karnwatcharasupat/latte) - Cross-framework Python Package for Evaluation of Latent-based Generative Models.

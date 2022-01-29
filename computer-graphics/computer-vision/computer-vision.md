@@ -451,7 +451,7 @@
 - [Awesome Vision Attention Papers](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
 - [FastFlowNet: A Lightweight Network for Fast Optical Flow Estimation (2021)](https://arxiv.org/abs/2103.04524) ([Code](https://github.com/ltkong218/FastFlowNet))
 - [RenderNet: A deep convolutional network for differentiable rendering from 3D shapes (2018)](https://www.monkeyoverflow.com/#/rendernet-a-cnn-for-differentiable-rendering-from-3d-shapes/) ([Code](https://github.com/thunguyenphuoc/RenderNet))
-- [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/abs/2111.06377) ([Code](https://github.com/pengzhiliang/MAE-pytorch)) ([Code](https://github.com/facebookresearch/mae))
+- [Masked Autoencoders Are Scalable Vision Learners (2021)](https://arxiv.org/abs/2111.06377) ([Code](https://github.com/pengzhiliang/MAE-pytorch)) ([Code](https://github.com/facebookresearch/mae)) ([Code](https://github.com/catalys1/mae-pytorch))
 - [BoostingMonocularDepth](https://github.com/compphoto/BoostingMonocularDepth)
 - [It's About Time: Analog Clock Reading in the Wild (2021)](https://arxiv.org/abs/2111.09162) ([Tweet](https://twitter.com/giffmana/status/1461249563466022913)) ([Code](https://github.com/charigyang/itsabouttime))
 - [Learning to Compose Visual Relations (2021)](https://composevisualrelations.github.io/) ([Code](https://github.com/nanlliu/compose-visual-relations))
@@ -536,3 +536,8 @@
 - [Dynamic Head: Unifying Object Detection Heads with Attentions (2021)](https://arxiv.org/abs/2106.08322) ([Code](https://github.com/microsoft/DynamicHead))
 - [ELSA: Enhanced Local Self-Attention for Vision Transformer (2021)](https://arxiv.org/abs/2112.12786) ([Code](https://github.com/damo-cv/ELSA))
 - [FFCV](https://github.com/libffcv/ffcv) - Fast Forward Computer Vision (and other ML workloads!) ([Web](https://ffcv.io/))
+- [Awesome Vit](https://github.com/open-mmlab/awesome-vit) - Curated list and survey of awesome Vision Transformers.
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (2022)](https://nvlabs.github.io/instant-ngp/) ([Code](https://github.com/ashawkey/torch-ngp))
+- [Road Extraction by Deep Residual U-Net (2017)](https://arxiv.org/abs/1711.10684) ([Code](https://github.com/nikhilroxtomar/Deep-Residual-Unet))
+- [Single-Stage 6D Object Pose Estimation (2019)](https://arxiv.org/abs/1911.08324) ([Code](https://github.com/cvlab-epfl/single-stage-pose))
+- [Visual Task Adaptation Benchmark (VTAB)](https://github.com/google-research/task_adaptation)

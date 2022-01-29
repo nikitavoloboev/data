@@ -48,5 +48,6 @@
 - [LogicKit](https://github.com/kyouko-taiga/LogicKit) - Prolog-like language, distributed in the form of a Swift Embedded Domain Specific Language (EDSL).
 - [PrologHub](https://prologhub.com/)
 - [Homoiconic Prolog: Explain yourself (2019)](https://prologhub.com/homoiconic-prolog-explain-yourself/)
-- [Embeddable Prolog in Go](https://github.com/ichiban/prolog)
+- [Embeddable Prolog scripting language for Go](https://github.com/ichiban/prolog) ([HN](https://news.ycombinator.com/item?id=30091291))
 - [Julog.jl](https://github.com/ztangent/Julog.jl) - Julia package for Prolog-style logic programming.
+- [PySwip](https://github.com/yuce/pyswip) - Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs.

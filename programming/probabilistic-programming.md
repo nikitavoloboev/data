@@ -31,6 +31,8 @@
 - [Daphne](https://github.com/plai-group/daphne) - Probabilistic programming compiler.
 - [FOPPL](https://github.com/rmascarenhas/foppl) - First-Order Probabilistic Programming Language.
 - [ProbLog: Probabilistic Programming](https://dtai.cs.kuleuven.be/problog/index.html#)
+- [ProbLog](https://dtai.cs.kuleuven.be/problog/) - Probabilistic logic programs are logic programs in which some of the facts are annotated with probabilities. ([Code](https://github.com/ML-KULeuven/problog))
+- [DeepProbLog](https://github.com/ML-KULeuven/deepproblog) - Extension of ProbLog that integrates Probabilistic Logic Programming with deep learning by introducing the neural predicate.
 - [WebPPL](https://github.com/probmods/webppl) - Probabilistic programming for the web. ([Web](http://webppl.org/))
 - [Storm](https://github.com/moves-rwth/storm) - Modern Probabilistic Model Checker. ([Web](https://www.stormchecker.org/))
 - [Bean Machine](https://github.com/facebookresearch/beanmachine) - Probabilistic programming language for inference over statistical models written in the Python language using a declarative syntax.

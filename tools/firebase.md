@@ -57,3 +57,4 @@
 - [tiny-firestore-odm](https://github.com/paulgb/tiny-firestore-odm) - Lightweight Object Document Mapper for Firestore. It's built on top of firestore-serde.
 - [firestore-serde](https://github.com/paulgb/firestore-serde) - Rust serializer/deserializer for Google Cloud Firestore.
 - [Improving API Response Times by Migrating from Cloud Functions to Cloud Run](https://unloc.app/en/magazine/we-cut-our-average-api-response-time-by-30-when-changing-from-cloud-functions-to-cloud-run) ([HN](https://news.ycombinator.com/item?id=29889884))
+- [Ballcap](https://github.com/1amageek/ballcap.ts) - Database schema design framework for Cloud Firestore.

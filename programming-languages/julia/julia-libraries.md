@@ -426,6 +426,13 @@
 - [PlutoStaticHTML.jl](https://github.com/rikhuijzer/PlutoStaticHTML.jl) - Convert Pluto notebooks to pure HTML.
 - [Setfield](https://github.com/jw3126/Setfield.jl) - Update deeply nested immutable structs.
 - [ParallelOperations.jl](https://github.com/JuliaAstroSim/ParallelOperations.jl) - Basic parallel algorithms for Julia.
+- [LLLplus.jl](https://github.com/christianpeel/LLLplus.jl) - Lattice reduction and other lattice tools in Julia.
+- [GaussianRandomFields](https://github.com/PieterjanRobbe/GaussianRandomFields.jl) - Package for Gaussian random field generation in Julia.
+- [MPI](https://github.com/JuliaParallel/MPI.jl) - MPI wrappers for Julia.
+- [MicroMamba.jl](https://github.com/cjdoris/MicroMamba.jl) - Julia interface to the MicroMamba package manager.
+- [CondaPkg.jl](https://github.com/cjdoris/CondaPkg.jl) - Add Conda dependencies to your Julia project.
+- [SCS](https://github.com/jump-dev/SCS.jl) - Julia wrapper for the SCS splitting cone solver.
+- [LogicCircuits.jl](https://github.com/Juice-jl/LogicCircuits.jl) - Logic Circuits from the Juice library.
 
 ## Links
 

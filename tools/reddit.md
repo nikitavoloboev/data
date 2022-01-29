@@ -49,3 +49,4 @@
 - [ArchiveTeam Warrior backing up Reddit](https://tracker.archiveteam.org/reddit/) ([HN](https://news.ycombinator.com/item?id=29584622))
 - [Reddit Subreddits](https://www.reddit.com/subreddits/)
 - [Reddit Community Directory sorted by letter](https://www.reddit.com/subreddits/a-1/)
+- [Collection of Reddit bots and utilities](https://github.com/voussoir/reddit)

@@ -47,3 +47,4 @@
 - [Protobuf Field Mask utils for Go](https://github.com/mennanov/fieldmask-utils)
 - [Protocol Buffers for Node.js](https://github.com/mafintosh/protocol-buffers)
 - [Protobuf parser for Go](https://github.com/alecthomas/protoparser)
+- [upb](https://github.com/protocolbuffers/upb) - Small protobuf implementation written in C.

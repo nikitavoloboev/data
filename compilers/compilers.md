@@ -199,3 +199,4 @@
 - [Do We Need A Link Step? (2021)](https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html) ([Reddit](https://www.reddit.com/r/Compilers/comments/rjln3u/do_we_really_need_a_link_step/)) ([HN](https://news.ycombinator.com/item?id=29754918))
 - [KAIST CS420: Compiler Design (2022 Spring)](https://github.com/kaist-cp/cs420)
 - [VTIL](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language.
+- [Hello, JIT World: The Joy of Simple JITs (2012)](https://blog.reverberate.org/2012/12/hello-jit-world-joy-of-simple-jits.html)

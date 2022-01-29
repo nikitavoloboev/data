@@ -56,6 +56,10 @@
 - [test-runner](https://github.com/cognitect-labs/test-runner) - Small library for discovering and running tests in projects using native Clojure deps.
 - [test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure.
 
+## Graphics
+
+- [Clojure2D](https://github.com/Clojure2D/clojure2d) - Library supporting generative coding or glitching. ([Examples](https://github.com/Clojure2D/clojure2d-examples))
+
 ## Other
 
 - [nippy](https://github.com/ptaoussanis/nippy) - High-performance serialization library for Clojure.
@@ -140,6 +144,9 @@
 - [cascade](https://github.com/lilactown/cascade) - Library of continuation-passing, thunk-producing versions of many Clojure core functions.
 - [more.async](https://github.com/bsless/more.async) - Small library to do more stuff with core.async.
 - [Dialog](https://github.com/amperity/dialog) - Simple just-enough logging library for Clojure.
+- [fastmath](https://github.com/generateme/fastmath) - Fast primitive based math library.
+- [iapetos](https://github.com/clj-commons/iapetos) - Clojure Prometheus Client.
+- [Cronut](https://github.com/troy-west/cronut) - Clojure scheduled execution via Quartz / Integrant.
 
 ## Links
 

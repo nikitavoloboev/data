@@ -283,3 +283,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-eval-jobs](https://github.com/nix-community/nix-eval-jobs) - Parallel nix evaluator with a streamable JSON output.
 - [go-nix](https://github.com/numtide/go-nix) - Nix experiments written in go.
 - [Nixpkgs Overlays Are Monoids](https://www.haskellforall.com/2022/01/nixpkgs-overlays-are-monoids.html) ([HN](https://news.ycombinator.com/item?id=30090183))
+- [Building fully declarative systems with Nix (2022)](https://overcast.fm/+vE2fezc98)

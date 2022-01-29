@@ -83,3 +83,4 @@
 - [React ThreeJS Fiber Journey](https://journey.pmnd.rs/) ([Code](https://github.com/pmndrs/threejs-journey))
 - [use-p2](https://github.com/pmndrs/use-p2) - React hooks for p2-es. Use this in combination with react-three-fiber.
 - [Building a Vaporwave scene with Three.js (2022)](https://blog.maximeheckel.com/posts/vaporwave-3d-scene-with-threejs/)
+- [Point Text Helper](https://github.com/jniac/three-point-text-helper) - "Point Text" Helper for ThreeJS.

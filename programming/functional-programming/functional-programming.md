@@ -151,6 +151,7 @@
 - [Why are imperative programs considered faster than their functional counterparts? (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rsce6j/why_are_imperative_programs_considered_faster/)
 - [Provably space-efficient parallel functional programming (2022)](https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/) ([HN](https://news.ycombinator.com/item?id=29925513))
 - [Foundations of Functional Programming/The λ-cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube) ([HN](https://news.ycombinator.com/item?id=29948843))
+- [Functional Programming Papers Notes](https://github.com/i-am-tom/papers)
 
 ## Images
 

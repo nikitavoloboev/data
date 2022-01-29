@@ -28,3 +28,4 @@
 - [sentry-expo](https://github.com/expo/sentry-expo)
 - [Turbo Expo Starter](https://github.com/ericvicenti/turbo-expo-starter)
 - [Why use Expo (2021)](https://twitter.com/enesozt_/status/1474039877893296140)
+- [Utilities for using THREE.js on Expo](https://github.com/expo/expo-three)

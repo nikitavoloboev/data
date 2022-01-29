@@ -63,3 +63,4 @@
 - [How to deploy NGINX on kubernetes (2021)](https://varslashblog.com/nginx-kubernetes-deployment/)
 - [ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression.
 - [Do svidaniya, Igor, and thank you for Nginx (2022)](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/) ([HN](https://news.ycombinator.com/item?id=29985871))
+- [Ultimate Nginx Bad Bot Blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)

@@ -68,6 +68,7 @@
 - [Table Extended](https://github.com/aidenlx/table-extended) - Extend basic table in Obsidian with MultiMarkdown table syntax.
 - [obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - Adds a data-tag-name attribute to all top-level preview divs, allowing contextual typography.
 - [MetaEdit](https://github.com/chhoumann/MetaEdit)
+- [Obsidian Better Command Palette](https://github.com/AlexBieg/obsidian-better-command-palette)
 
 ## Themes
 
@@ -101,3 +102,4 @@
 - [Obsidian Tools](https://github.com/obsidian-tools/obsidian-tools) - Collection of tools that helps devs build plugins for obsidian.
 - [Obsidian Python lab plugin](https://github.com/cristianvasquez/obsidian-lab) - Collection of dumb interfaces to enable python developers to use/test functionality within Obsidian.
 - [Obsidian API](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
+- [Obsidian Chrome Clipper](https://github.com/jplattel/obsidian-clipper) - Chrome extension that easily clips selections to Obsidian.

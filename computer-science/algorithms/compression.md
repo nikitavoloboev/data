@@ -99,3 +99,4 @@
 - [snap](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
 - [Image Compression Algorithm in Rust](https://github.com/umgefahren/image-comp-lib-rust) - New lossless image compression algorithm.
 - [mjpeg2http](https://github.com/nola-a/mjpeg2http) - Pure C Mjpeg-over-HTTP server. ([HN](https://news.ycombinator.com/item?id=29980660))
+- [go-tsz](https://github.com/dgryski/go-tsz) - Time series compression algorithm from Facebook's Gorilla paper.

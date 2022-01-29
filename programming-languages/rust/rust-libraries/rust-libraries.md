@@ -240,6 +240,8 @@
 - [poll-promise](https://github.com/EmbarkStudios/poll-promise) - Rust promise for games and immediate mode GUIs.
 - [Zeno](https://github.com/dfrg/zeno) - High performance, low level 2D path rasterization library in pure Rust.
 - [Image](https://github.com/Brooooooklyn/Image) - Image processing library.
+- [fast_image_resize](https://github.com/Cykooz/fast_image_resize) - Rust library for fast image resizing with using of SIMD instructions.
+- [descent](https://github.com/sjb3d/descent) - Toy library for neural networks in Rust using Vulkan compute shaders.
 
 ## Games
 
@@ -1351,6 +1353,7 @@
 - [Thalo](https://github.com/thalo-rs/thalo) - Event sourcing framework for building microservices. ([Reddit](https://www.reddit.com/r/rust/comments/sbvpn1/thalors_event_sourcing_in_rust/))
 - [tinyjson](https://github.com/rhysd/tinyjson) - Simple JSON parser/generator for Rust.
 - [turbulence](https://github.com/kyren/turbulence) - Multiplexed, optionally reliable, async, transport agnostic, reactor agnostic networking library for games.
+- [libffi-rs](https://github.com/tov/libffi-rs) - Rust bindings for libffi.
 
 ## Cargo Plugins
 
@@ -1402,6 +1405,7 @@
 - [cargo-intraconv](https://github.com/poliorcetics/cargo-intraconv) - Simple helper to transform Markdown links to intra-doc links in Rust projects when appropriate.
 - [cargo-xcodebuild](https://github.com/Gordon-F/cargo-xcodebuild) - Helps cargo build and run apps for iOS.
 - [cargo-strip](https://github.com/guedou/cargo-strip) - Cargo subcommand that reduces the size of Rust binaries using the strip command.
+- [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - cargo subcommand, that runs valgrind and collects its output in a helpful manner.
 
 ## Links
 
@@ -1486,3 +1490,4 @@
 - [Pin, Unpin, and why Rust needs them (2021)](https://blog.adamchalmers.com/pin-unpin/)
 - [Traits Working Group](https://github.com/rust-lang/wg-traits)
 - [Serverless Rust](https://github.com/nmoutschen/awesome-serverless-rust) - Curated list of resources for using Rust with serverless technologies.
+- [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.

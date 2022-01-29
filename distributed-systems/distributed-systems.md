@@ -245,4 +245,5 @@
 - [Events, Event Sourcing, and the Path Forward (2022)](https://relistan.com/event-sourcing-and-event-bus)
 - [How to make distributed system available (2022)](https://twitter.com/Franc0Fernand0/status/1482369263574949893)
 - [Best resources to learn about data and distributed systems (2022)](https://pierrezemb.fr/posts/distsys-resources/)
-- [Lock-Free Locks Revisited (2022)](https://arxiv.org/abs/2201.00813) ([Lobsters](https://lobste.rs/s/tkvmgr/lock_free_locks_revisited))
+- [Lock-Free Locks Revisited (2022)](https://arxiv.org/abs/2201.00813) ([Lobsters](https://lobste.rs/s/tkvmgr/lock_free_locks_revisited)) ([HN](https://news.ycombinator.com/item?id=30096822))
+- [ljepsen](https://github.com/ligurio/ljepsen) - Framework for distributed system's verification, with fault injection.

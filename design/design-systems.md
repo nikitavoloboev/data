@@ -85,6 +85,7 @@
 - [Moai UI Kit](https://moaijs.com/) - React Component Library, Where Buttons Look Like Buttons. ([Code](https://github.com/moaijs/moai))
 - [Tamagui](https://tamagui.dev/) - React Native + Web UI kit. ([Code](https://github.com/tamagui/tamagui))
 - [Brix UI](https://github.com/uStudioTeam/brix-ui) - Library of reusable UI components for React, made in minimalistic and light style.
+- [Marigold Design System](https://marigold-ui.io/guides/installation) - Design System based on emotion, react-aria & theme-ui. ([Code](https://github.com/marigold-ui/marigold))
 
 ## Notes
 

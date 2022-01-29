@@ -103,3 +103,4 @@
 - [kitteh-redis](https://github.com/djspiewak/kitteh-redis) - Toy Redis server implemented using pure FP on top of Cats Effect, Fs2, and Scodec.
 - [Redis OM Node.js](https://github.com/redis/redis-om-node) - Makes it easy to model Redis data in your Node.js applications.
 - [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API.
+- [Redis scripts do not expire keys atomically (2022)](https://ably.com/blog/redis-keys-do-not-expire-atomically) ([HN](https://news.ycombinator.com/item?id=30099572))

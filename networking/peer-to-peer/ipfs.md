@@ -78,3 +78,5 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS backed storage implementation for docker/OCI registry](https://github.com/yuval-k/oci-registry-p2p)
 - [How IPFS is broken](https://fiatjaf.com/d5031e5b.html) ([HN](https://news.ycombinator.com/item?id=29656139))
 - [ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres) - PostgreSQL datastore for IPFS.
+- [IPFS Specifications](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack.
+- [Go-IPFS-HTTP-Client](https://github.com/ipfs/go-ipfs-http-client) - Go-IPFS API implementation over HTTP API.

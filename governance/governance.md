@@ -104,4 +104,5 @@
 - [The 2022 Geopolitical Reading List](https://encyclopediageopolitica.com/2021/12/19/the-2022-geopolitical-reading-list/)
 - [Direct versus indirect democracy (2022)](https://equilibria.club/direct-versus-indirect-democracy/)
 - [Postscript on the Societies of Control (1990)](https://theanarchistlibrary.org/library/gilles-deleuze-postscript-on-the-societies-of-control) ([HN](https://news.ycombinator.com/item?id=29921750))
-- [Society has a trust problem. More censorship will only make it worse (2022)](https://on.substack.com/p/society-has-a-trust-problem-more) ([HN](https://news.ycombinator.com/item?id=30092136))
+- [Society has a trust problem. More censorship will only make it worse (2022)](https://on.substack.com/p/society-has-a-trust-problem-more) ([HN](https://news.ycombinator.com/item?id=30092136)) ([Tweet](https://twitter.com/lulumeservey/status/1486801734110482434))
+- [Who Got It Right: Orwell or Huxley?](https://www.pairagraph.com/dialogue/07d855107abf428c97583312e1e738fe) ([HN](https://news.ycombinator.com/item?id=30107066))

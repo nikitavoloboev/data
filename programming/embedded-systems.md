@@ -160,3 +160,4 @@
 - [Stabilizer Firmware](https://github.com/quartiq/stabilizer) - Firmware and software for the Sinara Stabilizer module with high speed, low latency ADC/DAC data processing and powerful DSP algorithms in between.
 - [Sesam](https://www.sesam.io/) - Embedded Extended Master Data Management.
 - [XOD](https://xod.io/) - Visual programming language for microcontrollers. ([Code](https://github.com/xodio/xod))
+- [STLINK](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset.

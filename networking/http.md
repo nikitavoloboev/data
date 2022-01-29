@@ -192,3 +192,4 @@
 - [broadcast](https://github.com/schollz/broadcast) - Simple Go server that broadcasts any data/stream.
 - [Don’t mix URL parsers (2022)](https://daniel.haxx.se/blog/2022/01/10/dont-mix-url-parsers/) ([Lobsters](https://lobste.rs/s/3ipvbh/don_t_mix_url_parsers))
 - [serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.
+- [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple HTTP server in Rust (Windows/Mac/Linux).

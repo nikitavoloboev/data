@@ -86,3 +86,4 @@
 - [GraphQL-Schema-Generator for Prisma](https://github.com/prisma-korea/graphql-schema-generator)
 - [Prisma Data Platform](https://cloud.prisma.io/)
 - [Create Prisma Generator](https://github.com/YassinEldeeb/create-prisma-generator) - Get started developing your own Prisma generator by running a single command.
+- [Aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations.

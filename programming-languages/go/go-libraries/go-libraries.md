@@ -247,6 +247,8 @@
 - [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
 - [Flow](https://github.com/alexedwards/flow) - Delightfully simple, readable, and tiny HTTP router for Go web applications.
 - [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces.
+- [net](https://github.com/golang/net) - Supplementary Go networking libraries.
+- [Swag](https://github.com/go-openapi/swag) - Helper functions for go-openapi and go-swagger projects.
 
 ## GraphQL
 
@@ -363,6 +365,7 @@
 - [squirrel](https://github.com/anacrolix/squirrel) - Cache backed by SQLite3.
 - [Morph](https://github.com/go-morph/morph) - Database migration tool that helps you to apply your migrations.
 - [gosql](https://github.com/rushteam/gosql) - Easy ORM library for Go.
+- [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis RESP3 client that supports client side caching and auto pipelining.
 
 ## ML
 
@@ -1250,6 +1253,9 @@
 - [go-generics-cache](https://github.com/Code-Hex/go-generics-cache) - Key:value store/cache library written in Go 1.18 generics. LRU, LFU, FIFO, MRU, Clock support.
 - [go-collections](https://github.com/mikhailswift/go-collections) - Generic utility functions for dealing with collections in go. ([Reddit](https://www.reddit.com/r/golang/comments/s77bdb/to_learn_go_generics_i_created_a_small_library_of/))
 - [mp4ff](https://github.com/edgeware/mp4ff) - Implements MP4 media file parsing and writing for AVC and HEVC video, AAC audio and stpp/wvtt subtitles.
+- [Struc](https://github.com/lunixbochs/struc) - Better binary packing for Go.
+- [DI](https://github.com/goava/di) - Dependency injection for Go.
+- [go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in Go.
 
 ## Links
 

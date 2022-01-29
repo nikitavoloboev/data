@@ -79,3 +79,5 @@
 - [RMM](https://github.com/rapidsai/rmm) - RAPIDS Memory Manager.
 - [Easy Scalable Text Rendering on the GPU (2016)](https://medium.com/@evanwallace/easy-scalable-text-rendering-on-the-gpu-c3f4d782c5ac)
 - [Capuchin: Tensor-based GPU Memory Management for Deep Learning](https://dl.acm.org/doi/abs/10.1145/3373376.3378505) ([Review](https://www.bodunhu.com/blog/posts/paper-review-capuchin-tensor-based-gpu-memory-management-for-deep-learning/))
+- [Nvidia GPUs Enable Simulation of a Living Cell (2022)](https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/) ([HN](https://news.ycombinator.com/item?id=30113837))
+- [Writing an open source GPU driver – without the hardware (2022)](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/) ([HN](https://news.ycombinator.com/item?id=30107002))

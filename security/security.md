@@ -245,3 +245,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [HubbleStack](https://github.com/hubblestack/hubble) - Modular, open-source security compliance framework.
 - [Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 - [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration.
+- [Inspektor](https://github.com/poonai/inspektor) - Access control layer for all your data sources. It act as gaurdian and enforces access polices to all your data sources.
+- [wholeaked](https://github.com/utkusen/wholeaked) - File-sharing tool that allows you to find the responsible person in case of a leakage.

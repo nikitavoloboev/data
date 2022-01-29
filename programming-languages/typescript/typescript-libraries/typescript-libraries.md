@@ -295,6 +295,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Danfo.js](https://github.com/javascriptdata/danfojs) - JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data. ([Docs](https://danfo.jsdata.org/))
 - [Algolia Filters Query Builder](https://github.com/khaledosama999/algolia-filter-query-builder) - Parser for having a structured way for querying algolia similar to well known ODMs or ORMS.
 - [bitstream](https://github.com/astronautlabs/bitstream) - Powerful bitstream library for TypeScript. ([HN](https://news.ycombinator.com/item?id=30061181))
+- [c12](https://github.com/unjs/c12) - Smart Config Loader.
+- [Dialogic](https://github.com/ArthurClemens/dialogic) - Manage dialogs and notifications.
 
 ## Links
 

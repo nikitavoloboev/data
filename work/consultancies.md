@@ -88,6 +88,7 @@
 ## Clojure
 
 - [JUXT](https://juxt.pro/) ([GitHub](https://github.com/juxt))
+- [Troy-West](https://troywest.com/) - Distributed Systems / Clojure Consultancy. ([GitHub](https://github.com/troy-west))
 
 ## Elixir
 

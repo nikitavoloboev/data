@@ -100,7 +100,6 @@ for i, _ in enumerate(nums):
 - [CrossHair](https://github.com/pschanely/CrossHair) - Static analysis tool for Python that blurs the line between testing and type systems.
 - [Introduction to Python and Programming (2020)](https://github.com/webartifex/intro-to-python) ([HN](https://news.ycombinator.com/item?id=22669084))
 - [Vulture](https://github.com/jendrikseipp/vulture) - Finds unused code in Python programs.
-- [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 - [Byterun](https://github.com/nedbat/byterun) - Python implementation of a Python bytecode runner.
 - [Clean Code Python](https://github.com/zedr/clean-code-python)
 - [cython](https://github.com/cython/cython) - Most widely used Python to C compiler.
@@ -188,7 +187,6 @@ for i, _ in enumerate(nums):
 - [Package and deploy Python apps faster with Poetry and Nix (2020)](https://www.youtube.com/watch?v=TbIHRHy7_JM)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 - [Sync vs. Async Python: What Is the Difference? (2020)](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference) ([HN](https://news.ycombinator.com/item?id=24427978))
-- [Mamba](https://github.com/mamba-org/mamba) - Reimplementation of the conda package manager in C++.
 - [Nagini](https://www.pm.inf.ethz.ch/research/nagini.html) - Automated, modular verifier for (concurrent) Python programs, based on the Viper verification infrastructure. ([Code](https://github.com/marcoeilers/nagini))
 - [Source Code Modeling](https://github.com/lab-ml/source_code_modelling) - Use Transformers and LSTMs to learn Python source code.
 - [Course Files for Complete Python 3 Bootcamp Course](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)

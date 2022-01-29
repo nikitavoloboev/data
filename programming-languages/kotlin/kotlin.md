@@ -41,3 +41,5 @@
 - [Teaching Introductory Computer Science in Kotlin (2021)](https://www.youtube.com/watch?v=X8Az9X0mwUE)
 - [Kotlin service template](https://github.com/demidko/service)
 - [Kotlin Language Server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE.
+- [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin. ([Docs](https://detekt.github.io/detekt/))
+- [Kotlin Algorithms and Design Patterns](https://github.com/KiberneticWorm/Kotlin-Algorithms-and-Design-Patterns)

@@ -603,3 +603,6 @@
 - [Kove](https://github.com/cmacrae/kove) - Watch your in cluster Kubernetes manifests for OPA policy violations and export them as Prometheus metrics.
 - [Reasons Kubernetes is so complex (2022)](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/) ([HN](https://news.ycombinator.com/item?id=30096674))
 - [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+- [Yatai](https://github.com/bentoml/Yatai) - Model serving at scale on Kubernetes.
+- [Minigun](https://github.com/wayfair-incubator/minigun) - Highly performant Kubernetes native HTTP benchmark tool written in Go.
+- [konfig](https://github.com/corneliusweig/konfig) - Helps to merge, split or import kubeconfig files.

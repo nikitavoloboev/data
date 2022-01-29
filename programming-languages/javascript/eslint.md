@@ -45,3 +45,4 @@
 - [Eric Crosson ESLint config](https://github.com/EricCrosson/eslint-config)
 - [eslint-plugin-i18n-json](https://github.com/godaddy/eslint-plugin-i18n-json) - Fully extendable eslint plugin for JSON i18n translation files.
 - [ESLint, Prettier and Editorconfig shared by Netlify's Node.js projects](https://github.com/netlify/eslint-config-node)
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint.

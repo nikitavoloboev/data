@@ -158,6 +158,8 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [useAudioPlayer](https://github.com/E-Kuerschner/useAudioPlayer) - Custom React hook & context for controlling browser audio.
 - [useStickyScroll](https://github.com/E-Kuerschner/useStickyScroll) - React hook to help you set up 'sticky scroll' behavior.
 - [usePureCallback](https://github.com/artalar/usePureCallback) - useCallback done right.
+- [react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React.
+- [use-stream](https://github.com/ArthurClemens/use-stream) - React Hook for working with streams inside function components.
 
 ## Code
 

@@ -83,3 +83,4 @@
 - [Genre as Weak Supervision for Cross-lingual Dependency Parsing (2021)](https://aclanthology.org/2021.emnlp-main.393/) ([Code](https://github.com/personads/ud-selection))
 - [rd-parse](https://github.com/dmaevsky/rd-parse) - Generic minimalist zero dependencies recursive-descent parser generator in JavaScript.
 - [Lightweight Linting with Tree-sitter (2022)](https://peppe.rs/posts/lightweight_linting/)
+- [tsls](https://github.com/keyvchan/tsls) - Tree-sitter based language server for general languages.

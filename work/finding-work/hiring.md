@@ -129,3 +129,4 @@
 - [Growing a Junior-Heavy Team (2021)](https://twitter.com/GergelyOrosz/status/1459183541682593794) ([Tweet](https://twitter.com/GergelyOrosz/status/1459183541682593794))
 - [Diversity in Hiring](https://github.com/nkammah/diversity-in-hiring) - Resources for diversity in hiring : job boards, organizations, educational resources.
 - [8 reference call questions that get past BS and really help understand a candidate](https://twitter.com/asanwal/status/1474407648267313175)
+- [Ask HN: How do small companies do recruitment? (2022)](https://news.ycombinator.com/item?id=30098607)
