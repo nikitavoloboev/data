@@ -14,7 +14,7 @@
 - [DTN Conf sketch notes from 2019 event](https://twitter.com/_lrlna/status/1129361644134567936)
 - [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
-- [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010)) ([Lobsters](https://lobste.rs/s/6tbq79/radicle_peer_peer_stack_for_code)) ([[Brand Journey](https://twitter.com/brandonhaslegs/status/1334207549273419777)])
+- [Radicle](https://radicle.xyz/) - Peer-to-peer stack for building software together. ([GitHub](https://github.com/radicle-dev)) ([HN](https://news.ycombinator.com/item?id=25313010)) ([Lobsters](https://lobste.rs/s/6tbq79/radicle_peer_peer_stack_for_code)) ([[Brand Journey](https://twitter.com/brandonhaslegs/status/1334207549273419777)]) ([Client Tools](https://github.com/radicle-dev/radicle-client-tools))
 - [Radicle Link](https://github.com/radicle-dev/radicle-link) - Working repo for the second iteration of the Radicle code collaboration protocol and stack.
 - [Radicle Bins](https://github.com/radicle-dev/radicle-bins) - Collection of radicle binaries.
 - [Radicle Client Services](https://github.com/radicle-dev/radicle-client-services) - Services backing the Radicle client interfaces.

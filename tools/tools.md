@@ -641,3 +641,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [App Advent Calendar](https://top30.app/)
 - [Awesome Developer-First](https://github.com/agamm/awesome-developer-first) - Curated list of awesome developer-first tools products.
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
+- [Hidden Tools](https://www.hiddentools.dev/) - Discover a wide collection of unique tools. ([Code](https://github.com/heybereket/hiddentools))
