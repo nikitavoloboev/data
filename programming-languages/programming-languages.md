@@ -303,3 +303,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Bagel](https://github.com/brundonsmith/bagel) - Programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories. ([Article](https://www.brandons.me/blog/the-bagel-language)) ([Update](https://www.brandons.me/blog/bagel-bites))
 - [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)
 - [SAPP](https://github.com/facebook/sapp) - Post Processor for Facebook Static Analysis Tools.
+- [Concise language to write an interpreter for? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/seu238/concise_language_to_write_an_interpreter_for/)

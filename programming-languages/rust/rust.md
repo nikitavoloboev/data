@@ -684,3 +684,4 @@
 - [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/) - Recommendations for how to organize and manage Rust CLI applications. ([Code](https://github.com/sunshowers-code/rust-cli-recommendations))
 - [Durability and Redo Logging (2022)](http://justinjaffray.com/durability-and-redo-logging/)
 - [Rust Futures and Tasks (2022)](https://swatinem.de/blog/futures-n-tasks/) ([Lobsters](https://lobste.rs/s/psycqk/rust_futures_tasks))
+- [On self-modifying executables in Rust (2022)](https://blog.dend.ro/self-modifying-rust/) ([HN](https://news.ycombinator.com/item?id=30121045))

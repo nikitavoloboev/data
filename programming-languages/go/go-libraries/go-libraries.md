@@ -108,7 +108,7 @@
 
 ## Web
 
-- [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
+- [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management.

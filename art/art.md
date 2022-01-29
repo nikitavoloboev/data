@@ -83,6 +83,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Julien Gauthier](https://www.artstation.com/renart)
+- [Katria's Doodles](https://www.instagram.com/katriadoodles/)
 - [Daniel Danger](https://www.instagram.com/tinymediaempire/)
 - [Alison Zai](https://www.instagram.com/alisonzai/)
 - [Xuan Loc Xuan](https://www.behance.net/xuanlocxuan)

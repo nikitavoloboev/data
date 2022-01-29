@@ -93,6 +93,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Austin Vernon](https://austinvernon.site/index.html)
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
 - [Josh Haberman](https://blog.reverberate.org/)
+- [Jason Williams](https://jason-williams.co.uk/)
 
 ## Notes
 

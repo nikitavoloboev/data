@@ -53,7 +53,7 @@
 - [Fast Execute-Only Memory for Embedded Systems (2006)](https://arxiv.org/pdf/2006.00076.pdf)
 - [Trends in Embedded Systems (2020)](https://www.reddit.com/r/embedded/comments/heay2s/trends_in_embedded_systems/)
 - [Blech language](https://www.blech-lang.org/) - Embedded real-time programming.
-- [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
+- [Rhai](https://github.com/rhaiscript/rhai) - Embedded scripting language for Rust. ([Lobsters](https://lobste.rs/s/bjtogk/rhai_embedded_scripting_for_rust)) ([Book](https://rhai.rs/book/))
 - [Rust on the ESP32 - SVD's, PAC's and USB flashing (2020)](https://mabez.dev/blog/posts/esp32-rust-svd-pac/) ([HN](https://news.ycombinator.com/item?id=23737451))
 - [Concurrency Patterns in Embedded Rust (2020)](https://ferrous-systems.com/blog/embedded-concurrency-patterns/)
 - [OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg) - Open-sourced Apple UEFI drivers, enabling Hackintosh. ([HN](https://news.ycombinator.com/item?id=24069428))
@@ -161,3 +161,4 @@
 - [Sesam](https://www.sesam.io/) - Embedded Extended Master Data Management.
 - [XOD](https://xod.io/) - Visual programming language for microcontrollers. ([Code](https://github.com/xodio/xod))
 - [STLINK](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset.
+- [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot (2022)](https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb)

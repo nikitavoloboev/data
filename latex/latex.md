@@ -67,7 +67,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Python2LaTeX](https://github.com/jsleb333/python2latex) - Python to LaTeX converter.
 - [MiKTeX](https://miktex.org/) - Modern C/C++ implementation of TeX & Friends. ([Code](https://github.com/MiKTeX/miktex))
 - [Top LaTeX Fonts](https://r2src.github.io/top10fonts/)
-- [TeXMe](https://github.com/susam/texme) - Lightweight JavaScript utility to create self-rendering Markdown + LaTeX documents.
+- [TeXMe](https://github.com/susam/texme) - Lightweight JavaScript utility to create self-rendering Markdown + LaTeX documents. ([Web](https://susam.github.io/texme/)) ([Demo](https://susam.github.io/texme/examples/demo.html))
 - [Arara](https://gitlab.com/islandoftex/arara) - TeX automation tool based on rules and directives. ([HN](https://news.ycombinator.com/item?id=26211705))
 - [LaTeX Complete – Figma Plugin](https://www.figma.com/community/plugin/793023817364007801/LaTeX-Complete) - Typeset mathematics right in your designs.
 - [GitHub LaTeX Action](https://github.com/xu-cheng/latex-action) - GitHub Action to compile LaTeX documents.

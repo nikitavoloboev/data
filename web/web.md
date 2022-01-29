@@ -350,3 +350,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Future of web focuses (2021)](https://twitter.com/levie/status/1473500689645010945)
 - [How my website works (2022)](https://brianlovin.com/writing/how-my-website-works)
 - [Ask HN: Is the past disappearing on the web? (2022)](https://news.ycombinator.com/item?id=30083783)
+- [Making the web better. With blocks (2022)](https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/) ([Lobsters](https://lobste.rs/s/roqjnk/making_web_better_with_blocks)) ([HN](https://news.ycombinator.com/item?id=30103210))

@@ -62,3 +62,4 @@
 - [A Beginner's Guide to Resting Coffee (2021)](https://www.youtube.com/watch?v=_Py8JOi3REg) ([Reddit](https://www.reddit.com/r/Coffee/comments/rrdmk1/james_hoffmann_a_beginners_guide_to_resting_coffee/))
 - [I quit caffeine](https://keygen.sh/blog/i-quit/) ([HN](https://news.ycombinator.com/item?id=29879052))
 - [The Coffee Maker: An Illustrated Look at the Career of James Hoffmann (2022)](https://www.nytimes.com/2022/01/18/dining/james-hoffmann-coffee.html) ([Reddit](https://www.reddit.com/r/Coffee/comments/s79aa1/nytimes_the_coffee_maker_an_illustrated_look_at/))
+- [The Ultimate Moka Pot Technique (2022)](https://www.youtube.com/watch?v=BfDLoIvb0w4) ([Reddit](https://www.reddit.com/r/Coffee/comments/setb3c/the_ultimate_moka_pot_technique_episode_3_james/))

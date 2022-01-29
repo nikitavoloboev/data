@@ -475,3 +475,4 @@ Below is a list of extensions I use.
 - [How we built a VS Code extension with Rust, WebAssembly, and TypeScript (2022)](https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript) ([HN](https://news.ycombinator.com/item?id=29888221))
 - [Publish VS Code Extension — GitHub Action](https://github.com/HaaLeo/publish-vscode-extension) - GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.
 - [VS Code extensions for web development in 2022](https://creativedesignsguru.com/vscode-extensions-web-developers/) ([HN](https://news.ycombinator.com/item?id=29975429))
+- [Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
