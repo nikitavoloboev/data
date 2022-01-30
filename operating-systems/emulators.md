@@ -60,3 +60,4 @@
 - [WASM-4](https://github.com/aduros/wasm4) - Build retro games using WebAssembly for a fantasy console. ([Web](https://wasm4.org/)) ([HN](https://news.ycombinator.com/item?id=29632813))
 - [Chip8 Emulator](https://github.com/dmatlack/chip8)
 - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
+- [Pinky](https://github.com/koute/pinky) - NES emulator written in Rust.

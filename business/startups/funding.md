@@ -147,3 +147,4 @@
 - [Active angel investors in developer tools](https://github.com/sw-yx/devtools-angels)
 - [OpenFare](https://github.com/openfare/openfare) - Funding mechanism which is deployable with one commit.
 - [Ask HN: Why is there no Kickstarter for startups yet? (2022)](https://news.ycombinator.com/item?id=30114011)
+- [“Y Combinator is not worth it” (2022)](https://twitter.com/theryanking/status/1487500943511932941) ([HN](https://news.ycombinator.com/item?id=30129572))

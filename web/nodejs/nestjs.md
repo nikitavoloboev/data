@@ -26,3 +26,4 @@
 - [Prisma Generator NestJS DTO](https://github.com/vegardit/prisma-generator-nestjs-dto) - Generates NestJS DTO classes from Prisma Schema.
 - [oak_nest](https://github.com/jiawei397/deno-oak-nest)
 - [Nest.js authentication with Passport. Real World example](https://github.com/leosuncin/nest-auth-example)
+- [Nest CQRS](https://github.com/nestjs/cqrs) - Lightweight CQRS module for Nest framework. ([Example](https://github.com/kamilmysliwiec/nest-cqrs-example))

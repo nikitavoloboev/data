@@ -366,6 +366,7 @@
 - [Morph](https://github.com/go-morph/morph) - Database migration tool that helps you to apply your migrations.
 - [gosql](https://github.com/rushteam/gosql) - Easy ORM library for Go.
 - [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis RESP3 client that supports client side caching and auto pipelining.
+- [ql](https://gitlab.com/cznic/ql) - Pure Go embedded SQL database. ([HN](https://news.ycombinator.com/item?id=30130938))
 
 ## ML
 
@@ -1298,3 +1299,4 @@
 - [gocap](https://github.com/cugu/gocap) - List your dependencies capabilities and monitor if updates require more capabilities.
 - [Go Clean template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Go services.
 - [Go generics the hard way](https://github.com/akutz/go-generics-the-hard-way) - Hands-on approach to getting started with Go generics.
+- [GoDynamic](https://github.com/pkujhd/godynamic) - Load and unload dynamic library.

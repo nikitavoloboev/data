@@ -312,3 +312,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Liga](https://github.com/EzequielRamis/liga) - Add ligatures to any programming font.
 - [font-install](https://github.com/Crosse/font-install) - Cross-platform font installer.
 - [What if text was more expressive?](https://twitter.com/azlenelza/status/1486680833431797765)
+- [How to avoid layout shifts caused by web fonts (2021](https://simonhearne.com/2021/layout-shifts-webfonts/) ([HN](https://news.ycombinator.com/item?id=30129571))

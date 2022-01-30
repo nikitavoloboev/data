@@ -395,4 +395,4 @@ if (
 - [MuJS](https://github.com/ccxvii/mujs) - Embeddable JavaScript interpreter in C. ([Web](https://mujs.com/))
 - [JavaScript Structs: Fixed Layout Objects](https://github.com/tc39/proposal-structs)
 - [HEY is running its JavaScript off import maps (2022)](https://world.hey.com/dhh/hey-is-running-its-javascript-off-import-maps-2abcf203)
-- [A pipe operator for JavaScript: introduction and use cases (2022)](https://2ality.com/2022/01/pipe-operator.html)
+- [A pipe operator for JavaScript: introduction and use cases (2022)](https://2ality.com/2022/01/pipe-operator.html) ([HN](https://news.ycombinator.com/item?id=30097586))

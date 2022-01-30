@@ -390,3 +390,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Internet protocols and tools related documentation](https://daniel.haxx.se/docs/) ([Code](https://github.com/bagder/docs))
 - [Ghost in the ethernet optic (2022)](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside) ([Lobsters](https://lobste.rs/s/ydc81o/ghost_ethernet_optic))
 - [Set up a practically free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889) ([HN](https://news.ycombinator.com/item?id=29947320))
+- [Reasons for servers to support IPv6 (2022)](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/) ([HN](https://news.ycombinator.com/item?id=30126434)) ([Lobsters](https://lobste.rs/s/5yhxm6/reasons_for_servers_support_ipv6))

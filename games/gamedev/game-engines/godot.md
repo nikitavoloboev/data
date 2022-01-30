@@ -47,3 +47,5 @@
 - [Fox](https://github.com/uralys/fox) - Tools to help develop with Godot engine. ([HN](https://news.ycombinator.com/item?id=29714408))
 - [Learn GDScript From Zero](https://github.com/GDQuest/learn-gdscript)
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - Large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
+- [SVG2Godot](https://github.com/pixelriot/SVG2Godot) - Import SVG files into Godot game engine.
+- [Swift for Godot](https://github.com/kelvin13/godot-swift)

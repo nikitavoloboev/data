@@ -12,3 +12,4 @@
 - [Documenting Unison code](https://www.unisonweb.org/docs/documentation/)
 - [unison-nix](https://github.com/ceedubs/unison-nix) - Nix support for the Unison programming language.
 - [How to make any immutable data structure distributed](https://www.unison-lang.org/articles/distributed-datasets/core-idea/) ([HN](https://news.ycombinator.com/item?id=29452424))
+- [unison.rs](https://github.com/jaredly/unison.rs) - Experimental runtime for unison code, written in rust, compiled to wasm for use in the browser.

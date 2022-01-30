@@ -33,6 +33,10 @@
 - [tvg](https://github.com/MasterQ32/tvg) - Tiny Vector Graphics.
 - [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin wrapper for the cairo 2D graphics library.
 
+## WASM
+
+- [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Zig embedding of Wasmtime.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)
@@ -63,6 +67,7 @@
 - [ctregex.zig](https://github.com/alexnask/ctregex.zig) - Compile time regular expressions in zig.
 - [zoltan](https://github.com/ranciere/zoltan) - Sol-inspired minimalist Lua binding for Zig. ([Article](https://zig.news/ranciere/zoltan-a-minimalist-lua-binding-4mp4))
 - [zzz](https://github.com/gruebite/zzz) - Simple and boring human readable data format for Zig.
+- [ctradix](https://github.com/Luukdegram/ctradix) - Comptime radix tree in Zig.
 
 ## Links
 

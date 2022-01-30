@@ -131,3 +131,4 @@
 - [Lectures on quantum optics and quantum computations (in Russian)](https://github.com/ivanmurashko/lectures)
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems.
 - [Implementing a quantum computer emulator in SQL (2022)](https://explainextended.com/2021/12/31/happy-new-year-13/)
+- [Textbook: Introduction to Classical and Quantum Computing](http://www.thomaswong.net/#publications)

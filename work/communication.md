@@ -162,3 +162,4 @@
 - [Every Proximity Chat, Metaverse, and Video Conference Socializing App](https://github.com/billmei/every-proximity-chat-app)
 - [How to mentor software engineers](https://xdg.me/mentor-engineers/)
 - [XMPP: the secure communication protocol that respects privacy (2021)](https://notes.nicfab.it/post/xmpp/xmpp/) ([HN](https://news.ycombinator.com/item?id=29871358))
+- [Nuanced communication usually doesn't work at scale](https://twitter.com/danluu/status/1487228574608211969) ([HN](https://news.ycombinator.com/item?id=30128061))

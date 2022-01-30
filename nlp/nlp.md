@@ -462,3 +462,4 @@
 - [KRED: Knowledge-Aware Document Representation for News Recommendations (2019)](https://arxiv.org/abs/1910.11494) ([Code](https://github.com/danyang-liu/KRED))
 - [Stanford Open Information Extraction](https://nlp.stanford.edu/software/openie.html)
 - [Python3 wrapper for Stanford OpenIE](https://github.com/philipperemy/stanford-openie-python)
+- [I-BERT: Integer-only BERT Quantization (2021)](https://arxiv.org/abs/2101.01321) ([Code](https://github.com/kssteven418/I-BERT))

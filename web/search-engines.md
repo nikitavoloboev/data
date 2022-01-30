@@ -200,3 +200,4 @@
 - [Jina AI](https://jina.ai/) - Neural Search Company. ([GitHub](https://github.com/jina-ai))
 - [Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time (2017)](https://arxiv.org/abs/1711.07601)
 - [Customizing web search](https://notes.npilk.com/custom-search)
+- [A Gentle Intro to Vector Search for Developers](https://www.pinecone.io/learn/vector-search-basics/)

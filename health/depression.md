@@ -50,3 +50,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: How to take first steps to escape burnout? (2022)](https://news.ycombinator.com/item?id=29776218)
 - [Ask HN: Burned Out. What Now? (2022)](https://news.ycombinator.com/item?id=30000069)
 - [On a neural level, how does a condition like depression cause worse cognition? (2022)](https://www.reddit.com/r/askscience/comments/sawfex/on_a_neural_level_how_does_a_condition_like/)
+- [Ask HN: At a peak of my dev career, I hate my life (2022)](https://news.ycombinator.com/item?id=30132560)

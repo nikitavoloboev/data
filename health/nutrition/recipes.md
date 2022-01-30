@@ -81,3 +81,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [NYT Cooking Recipes](https://cooking.nytimes.com/)
 - [Eugene's recipes](https://eed3si9n.com/recipes/)
 - [Only Recipe](https://showcase.onlyrecipe.app/) - Cut the clutter from recipe sites. ([HN](https://news.ycombinator.com/item?id=29795482))
+- [John Locke’s recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/) ([HN](https://news.ycombinator.com/item?id=30132612))

@@ -151,3 +151,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Почему в обществе так порицаются «измены»?](https://twitter.com/abrams_lera/status/1473978152309428224)
 - [Как находить друзей (во взрослом возрасте)](https://www.youtube.com/watch?v=IGLz2lbGqJ4)
 - [Open marriage advice](https://www.reddit.com/r/sexover30/comments/s51il9/open_marriage_advice/)
+- [Даша Касьян: свободные отношения — это не для всех (2022)](https://www.youtube.com/watch?v=wCho_lSx4OI)

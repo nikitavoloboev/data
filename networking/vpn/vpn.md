@@ -55,3 +55,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [EdgeVPN](https://github.com/mudler/edgevpn) - Fully Decentralized. Immutable. Portable. Easy to use Statically compiled VPN and a reverse proxy over p2p. ([GUI Code](https://github.com/mudler/edgevpn-gui))
 - [SeekVPN](https://seekvpn.com/) - Explore the best VPN. ([HN](https://news.ycombinator.com/item?id=29330706))
 - [Poor man's VPN (pay for only what you need)](https://github.com/amritb/poor-mans-vpn) ([HN](https://news.ycombinator.com/item?id=29913515))
+- [WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask.

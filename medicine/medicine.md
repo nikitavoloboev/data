@@ -33,3 +33,4 @@
 - [Novel mind-body program outperforms other treatments for chronic back pain (2021)](https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment) ([HN](https://news.ycombinator.com/item?id=29357009))
 - [farabio](https://github.com/tuttelikz/farabio) - PyTorch toolkit for biomedical imaging.
 - [Why Do Antibiotics Exist? (2021)](https://journals.asm.org/doi/10.1128/mBio.01966-21) ([HN](https://news.ycombinator.com/item?id=29489010))
+- [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)

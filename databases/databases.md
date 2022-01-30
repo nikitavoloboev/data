@@ -514,3 +514,4 @@
 - [Electric Tables – an experiment in personal databases (2022)](https://tomcritchlow.com/2022/01/26/electric-tables/) ([HN](https://news.ycombinator.com/item?id=30089895))
 - [The Strength of the Record](https://docs.xtdb.com/concepts/strength-of-the-record/)
 - [Wikipedia and irregular data: how much can you fetch in one expression? (2022)](https://zverok.substack.com/p/wikipedia-and-irregular-data-how)
+- [HTSQL](https://www.htsql.org/) - Database Query Language. ([Lobsters](https://lobste.rs/s/45reoa/database_query_language_htsql))

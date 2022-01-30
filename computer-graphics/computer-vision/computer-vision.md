@@ -528,10 +528,6 @@
 - [Location-aware Single Image Reflection Removal (2021)](https://arxiv.org/abs/2012.07131) ([Code](https://github.com/zdlarr/Location-aware-SIRR))
 - [MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement (2021)](https://arxiv.org/abs/2104.08223) ([Code](https://github.com/facebookresearch/meshtalk))
 - [Detecting Twenty-thousand Classes using Image-level Supervision (2022)](https://arxiv.org/abs/2201.02605) ([Code](https://github.com/facebookresearch/Detic))
-- [Language-driven Semantic Segmentation (2022)](https://arxiv.org/abs/2201.03546) ([Code](https://github.com/isl-org/lang-seg))
-- [Rethinking Nearest Neighbors for Visual Classification (2021)](https://arxiv.org/abs/2112.08459) ([Code](https://github.com/KMnP/nn-revisit))
-- [Vision Transformer with Deformable Attention (2022)](https://arxiv.org/abs/2201.00520) ([Code](https://github.com/LeapLabTHU/DAT))
-- [KerasCV](https://github.com/keras-team/keras-cv) - Industry-strength Computer Vision workflows with Keras.
 - [Instant Neural Graphics Primitives](https://github.com/NVlabs/instant-ngp) - Lightning fast NeRF and more.
 - [Dynamic Head: Unifying Object Detection Heads with Attentions (2021)](https://arxiv.org/abs/2106.08322) ([Code](https://github.com/microsoft/DynamicHead))
 - [ELSA: Enhanced Local Self-Attention for Vision Transformer (2021)](https://arxiv.org/abs/2112.12786) ([Code](https://github.com/damo-cv/ELSA))
@@ -541,3 +537,4 @@
 - [Road Extraction by Deep Residual U-Net (2017)](https://arxiv.org/abs/1711.10684) ([Code](https://github.com/nikhilroxtomar/Deep-Residual-Unet))
 - [Single-Stage 6D Object Pose Estimation (2019)](https://arxiv.org/abs/1911.08324) ([Code](https://github.com/cvlab-epfl/single-stage-pose))
 - [Visual Task Adaptation Benchmark (VTAB)](https://github.com/google-research/task_adaptation)
+- [TAda! Temporally-Adaptive Convolutions for Video Understanding (2022)](https://tadaconv-iclr2022.github.io/) ([Code](https://github.com/alibaba-mmai-research/TAdaConv))

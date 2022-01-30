@@ -94,3 +94,4 @@
 - [Xcode Notarize](https://github.com/devbotsxyz/xcode-notarize) - GitHub actions to Notarize macOS applications or plug-ins.
 - [Xcode Through the Years (2022)](https://martiancraft.com/blog/2022/01/xcode-through-the-years/) ([HN](https://news.ycombinator.com/item?id=30083245))
 - [xc](https://github.com/minacle/xc) - Best command to run Xcode app what you want.
+- [Xcode.app-strings](https://github.com/keith/Xcode.app-strings) - All the strings from Xcode's binaries.

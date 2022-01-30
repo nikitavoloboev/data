@@ -145,6 +145,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Cauchy completion in category theory - Scott Johnson (1993)](https://twitter.com/monsoon0/status/1481739590063239168)
 - [Foundations of Relative Category Theory](http://www.jonmsterling.com/math/lectures/categorical-foundations.html)
 - [Theoretical Computer Science for the Working Category Theorist (2022)](https://www.cambridge.org/core/elements/theoretical-computer-science-for-the-working-category-theorist/5F3499D1F326D2D77567AA1041627699)
+- [Topos Theory in a Nutshell](https://math.ucr.edu/home/baez/topos.html) ([HN](https://news.ycombinator.com/item?id=30112547))
 
 ## Images
 

@@ -411,3 +411,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Один день Ивана Денисовича](https://polka.academy/articles/514)
 - [How navalny became Navalny The photos that capture 17 years of activism, investigations, campaigning, and zeal (2022)](https://meduza.io/en/feature/2021/02/05/how-navalny-became-navalny)
 - [Агентство «Панорама»](https://panorama.pub/)
+- [Обёртка для API сервиса lknpd.nalog.ru](https://github.com/alexstep/moy-nalog)

@@ -63,3 +63,4 @@
 - [Best Wordle guessing strategy](https://slc.is/#Best%20Wordle%20Strategy%20%E2%80%94%20Explore%20or%20Exploit) ([HN](https://news.ycombinator.com/item?id=29928263))
 - [Wordle-solving state of the art: all optimality results so far (2022)](https://www.poirrier.ca/notes/wordle-optimal/) ([HN](https://news.ycombinator.com/item?id=30093313))
 - [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker.
+- [Finding optimal play in the game of wordle](https://github.com/alex1770/wordle)

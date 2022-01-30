@@ -685,3 +685,5 @@
 - [Durability and Redo Logging (2022)](http://justinjaffray.com/durability-and-redo-logging/)
 - [Rust Futures and Tasks (2022)](https://swatinem.de/blog/futures-n-tasks/) ([Lobsters](https://lobste.rs/s/psycqk/rust_futures_tasks))
 - [On self-modifying executables in Rust (2022)](https://blog.dend.ro/self-modifying-rust/) ([HN](https://news.ycombinator.com/item?id=30121045))
+- [Rust extension traits, greppability and IDEs (2022)](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/) ([Lobsters](https://lobste.rs/s/ob3glg/rust_extension_traits_greppability_ides)) ([HN](https://news.ycombinator.com/item?id=30126839))
+- [Uninitialized Memory: Unsafe Rust is Too Hard (2022)](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/)

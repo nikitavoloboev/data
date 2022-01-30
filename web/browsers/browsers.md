@@ -171,3 +171,4 @@
 - [SOK: On the Analysis of Web Browser Security (2021)](https://arxiv.org/abs/2112.15561)
 - [Browsertime](https://github.com/sitespeedio/browsertime) - Lets you automate running JavaScript in your browser primary used to collect performance metrics.
 - [Scala.js Browser Extension Example](https://github.com/er1c/scala-js-browser-extension-example)
+- [1History](https://github.com/1History/1History) - Command line tool to backup your histories of different browsers into one file, and more.

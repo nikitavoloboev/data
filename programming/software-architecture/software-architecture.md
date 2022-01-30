@@ -199,3 +199,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
 - [Causal's multi-dimensional spreadsheet calculation engine](https://twitter.com/lukaskoebis/status/1485944221169520645)
 - [Session-lived Application Backends (2022)](https://driftingin.space/posts/session-lived-application-backends) ([HN](https://news.ycombinator.com/item?id=30106187))
+- [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love) ([HN](https://news.ycombinator.com/item?id=30132947))

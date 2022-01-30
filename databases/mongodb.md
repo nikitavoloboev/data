@@ -38,3 +38,4 @@
 - [mongobetween](https://github.com/coinbase/mongobetween) - Lightweight MongoDB connection pooler written in Go.
 - [Monty](https://github.com/davidlatwe/montydb) - Mongo tinified. MongoDB implemented in Python.
 - [REST API with a Cloudflare Worker and a MongoDB Atlas Cluster](https://github.com/mongodb-developer/cloudflare-worker-rest-api-realm-atlas)
+- [FerretDB](https://github.com/FerretDB/FerretDB) - Truly Open Source MongoDB alternative. ([Web](https://www.ferretdb.io/)) ([GitHub](https://github.com/FerretDB))

@@ -956,3 +956,4 @@
 - [Create API](https://github.com/kean/CreateAPI) - Delightful code generation for OpenAPI specs for Swift written in Swift.
 - [CloudKit Samples: Sharing](https://github.com/apple/cloudkit-sample-sharing)
 - [Microapps architecture in Swift. SPM basics. (2022)](https://swiftwithmajid.com/2022/01/12/microapps-architecture-in-swift-spm-basics/)
+- [nixSwiftPM](https://github.com/dduan/nixSwiftPM) - Helper for building SwiftPM projects in Nix.

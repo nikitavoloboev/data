@@ -212,3 +212,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [See how DMARC, SPF, and DKIM work interactively](https://www.learndmarc.com/) ([HN](https://news.ycombinator.com/item?id=29869266))
 - [Crabmail](https://github.com/alexwennerberg/crabmail) - Static mail HTML archive for the 21st century, written in Rust.
 - [Hatchet](https://github.com/AnalogJ/hatchet) - Extracts unique unsubscribe links from mailing lists in Gmail. ([HN](https://news.ycombinator.com/item?id=29960855))
+- [Ask HN: Alternate Email hosting to G Suite (2022)](https://news.ycombinator.com/item?id=30128198)

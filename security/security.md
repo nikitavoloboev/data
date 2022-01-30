@@ -247,3 +247,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration.
 - [Inspektor](https://github.com/poonai/inspektor) - Access control layer for all your data sources. It act as gaurdian and enforces access polices to all your data sources.
 - [wholeaked](https://github.com/utkusen/wholeaked) - File-sharing tool that allows you to find the responsible person in case of a leakage.
+- [Perfect Blue's CTF Writeups](https://github.com/perfectblue/ctf-writeups)

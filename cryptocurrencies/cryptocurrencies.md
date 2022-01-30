@@ -222,3 +222,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [BEAM](https://beam.mw/) - Confidential Cryptocurrency and DeFi Platform. ([Code](https://github.com/BeamMW/beam))
 - [Arrow Protocol](https://arrowprotocol.com/#/) - Launch staking derivatives for the protocols you're already integrating with, redirecting yield to a different address. ([Code](https://github.com/arrowprotocol/arrow))
 - [Awesome critique of crypto / web3](https://github.com/rufuspollock/awesome-crypto-critique)
+- [Theoretical Advances in AMM (Automated Market Maker) Understanding](https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding) ([HN](https://news.ycombinator.com/item?id=30113170))

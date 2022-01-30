@@ -98,3 +98,5 @@
 - [End-to-End Speech Translation Progress](https://github.com/kahne/SpeechTransProgress) - Tracking the progress in end-to-end speech translation.
 - [EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture (2020)](https://arxiv.org/abs/2012.03500) ([Code](https://github.com/liusongxiang/efficient_tts))
 - [S3PRL](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
+- [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding.
+- [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (2021)](https://arxiv.org/abs/2105.02446) ([Code](https://github.com/MoonInTheRiver/DiffSinger))

@@ -44,7 +44,7 @@ for i, _ in enumerate(nums):
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
 - [Python at Netflix (2019)](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
 - [Things you’re probably not using in Python 3 – but should (2019)](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/) ([HN](https://news.ycombinator.com/item?id=19916089))
-- [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806))
+- [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806)) ([HN](https://news.ycombinator.com/item?id=30130315))
 - [Amber Brown: Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html) ([HN](https://news.ycombinator.com/item?id=19948642))
 - [Python Cheatsheet](https://www.pythonsheets.com/) ([Code](https://github.com/crazyguitar/pysheeet))
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - Modern Python application packaging and distribution tool.
@@ -421,3 +421,4 @@ for i, _ in enumerate(nums):
 - [Strict Python function parameters (2022)](https://sethmlarson.dev/blog/strict-python-function-parameters) ([Lobsters](https://lobste.rs/s/kllcvy/strict_python_function_parameters))
 - [How vectorization speeds up your Python code (2022)](https://pythonspeed.com/articles/vectorization-python/) ([Lobsters](https://lobste.rs/s/8kujeg/how_vectorization_speeds_up_your_python))
 - [Static Typing Python Decorators (2022)](https://rednafi.github.io/reflections/static-typing-python-decorators.html)
+- [Python Minifier](https://github.com/dflook/python-minifier) - Transforms Python source code into it's most compact representation.

@@ -88,3 +88,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Senolytic vaccination improves normal and pathological age-related phenotypes and increases lifespan in progeroid mice (2021)](https://www.nature.com/articles/s43587-021-00151-2) ([HN](https://news.ycombinator.com/item?id=29640259))
 - [Rest Less](https://restless.co.uk/) - Jobs, Money, Courses & Lifestyle for Over 50s.
 - [The World Ahead: the true costs of ageing (2021)](https://www.youtube.com/watch?v=hJCr5WJapm8)
+- [Turning back time with epigenetic clocks](https://www.nature.com/articles/d41586-022-00077-8) ([HN](https://news.ycombinator.com/item?id=30126546))
