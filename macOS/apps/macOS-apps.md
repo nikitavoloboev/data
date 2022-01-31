@@ -123,6 +123,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Free Ruler](https://github.com/pascalpp/FreeRuler) - Ruler application for macOS.
 - [Equinox](https://github.com/rlxone/Equinox) - Create dynamic wallpapers for macOS. ([Web](https://equinoxmac.com/))
 - [podman-desktop](https://github.com/containers/podman-desktop) - Graphical menu bar application for managing Podman machines.
+- [Marconio](https://github.com/brianmichel/Lace) - Simple NTS.live macOS application. Using Composable Architecture.
 
 ## Other interesting apps
 

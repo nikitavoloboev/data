@@ -100,3 +100,4 @@
 - [S3PRL](https://github.com/s3prl/s3prl) - Self-Supervised Speech Pre-training and Representation Learning Toolkit.
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding.
 - [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (2021)](https://arxiv.org/abs/2105.02446) ([Code](https://github.com/MoonInTheRiver/DiffSinger))
+- [Speech recognition polyfill](https://github.com/speechly/speech-recognition-polyfill) - Polyfill for the SpeechRecognition standard on web, using Speechly as the underlying API.

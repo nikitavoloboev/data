@@ -346,6 +346,7 @@
 - [BigInt](https://github.com/RustCrypto/crypto-bigint) - Cryptographic Big Integers.
 - [gravity-rs](https://github.com/gendx/gravity-rs) - Rust implementation of the Gravity-post-quantum signature schemes.
 - [MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust.
+- [RustCrypto: Formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: PKCS, PKIX.
 
 ## Linux
 
@@ -400,6 +401,7 @@
 - [oslog](https://github.com/steven-joruk/oslog) - Rust wrapper around Apple's unified logging system.
 - [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Bindings to the macOS Security.framework.
 - [ahv](https://github.com/Thog/ahv) - Apple Hypervisor crate for Apple Silicon.
+- [macho-unwind-info](https://github.com/mstange/macho-unwind-info) - Parser for Apple's Compact Unwinding Format, which is used in the \_\_unwind_info section of mach-O binaries.
 
 ## Macros
 
@@ -470,6 +472,7 @@
 - [test-span](https://github.com/apollographql/test-span) - Macro and utilities to do snapshot tests on tracing spans.
 - [Modular Bitfields](https://github.com/Robbepop/modular-bitfield) - Macro to generate bitfields for structs that allow for modular use of enums.
 - [rust-mdo](https://github.com/TeXitoi/rust-mdo) - Monadic do notation for rust using macro and duck typing.
+- [derive-into-owned](https://github.com/koivunej/derive-into-owned) - Procedural macro for deriving helper methods for types with Cow fields.
 
 ## Math
 
@@ -1354,6 +1357,9 @@
 - [tinyjson](https://github.com/rhysd/tinyjson) - Simple JSON parser/generator for Rust.
 - [turbulence](https://github.com/kyren/turbulence) - Multiplexed, optionally reliable, async, transport agnostic, reactor agnostic networking library for games.
 - [libffi-rs](https://github.com/tov/libffi-rs) - Rust bindings for libffi.
+- [Hound](https://github.com/ruuda/hound) - wav encoding and decoding library in Rust.
+- [async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types.
+- [async-trait-static](https://github.com/tiannian/async-trait-static) - Features like `async-trait`, avoid using `Box` and `dyn`.
 
 ## Cargo Plugins
 
@@ -1406,6 +1412,7 @@
 - [cargo-xcodebuild](https://github.com/Gordon-F/cargo-xcodebuild) - Helps cargo build and run apps for iOS.
 - [cargo-strip](https://github.com/guedou/cargo-strip) - Cargo subcommand that reduces the size of Rust binaries using the strip command.
 - [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - cargo subcommand, that runs valgrind and collects its output in a helpful manner.
+- [cargo-license](https://github.com/onur/cargo-license) - Cargo subcommand to see license of dependencies.
 
 ## Links
 
@@ -1491,3 +1498,4 @@
 - [Traits Working Group](https://github.com/rust-lang/wg-traits)
 - [Serverless Rust](https://github.com/nmoutschen/awesome-serverless-rust) - Curated list of resources for using Rust with serverless technologies.
 - [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
+- [Rust has a small standard library (and that's ok) (2022)](https://blog.nindalf.com/posts/rust-stdlib/) ([Reddit](https://www.reddit.com/r/programming/comments/sg7p51/rust_has_a_small_standard_library_and_thats_ok/)) ([HN](https://news.ycombinator.com/item?id=30138065))

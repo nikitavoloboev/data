@@ -128,6 +128,7 @@
 - [mu](https://github.com/dbuenzli/mu) - Declarative music for OCaml.
 - [MusicManipulations.jl](https://github.com/JuliaMusic/MusicManipulations.jl) - Manipulate music data, humanize, quantize and analyze music performances with Julia.
 - [Loopers](https://github.com/mwylde/loopers) - Graphical live looper, written in Rust, designed for ease of use and rock-solid stability.
+- [spafe](https://github.com/SuperKogito/spafe) - Simplified Python Audio-Features Extraction.
 
 ## Inspiration
 

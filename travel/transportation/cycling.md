@@ -26,3 +26,4 @@
 - [CyclingTips](https://cyclingtips.com/)
 - [Rules for buying an ebike, and ebikes to buy now (2021)](https://ryanj.substack.com/p/ebikes) ([HN](https://news.ycombinator.com/item?id=29337902))
 - [Most People Don't Know How Bikes Work (2021)](https://www.youtube.com/watch?v=9cNmUNHSBac)
+- [Which tire fits my bike?](https://fahrrad-tools.de/tire.html)

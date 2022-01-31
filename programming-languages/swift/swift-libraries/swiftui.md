@@ -181,3 +181,4 @@
 - [Building a Collection For SwiftUI - Introduction (2020)](https://defagos.github.io/swiftui_collection_intro/)
 - [Using Core Data With SwiftUI - An Introduction](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI)
 - [Peter Steinberger: Evolving Existing Projects With SwiftUI (2021)](https://www.youtube.com/watch?v=mchbpoC19cU&list=PLfCiO1zYKkAQ8jelBHLYqNd98dWoB7850&index=5)
+- [Completed Project for Cross Platform Image Filter SwiftUI macOS & iOS App](https://github.com/alfianlosari/ImageFilterSwiftUICompleted)

@@ -398,3 +398,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [n-days](https://github.com/b1n4r1b01/n-days) - Collection of POCs/writeups for iOS vulnerabilities.
 - [Papers on iOS exploits](https://github.com/antoniozekic/papers_and_slides)
 - [Tree Dump Debugger](https://github.com/bangerang/tree-dump-debugger) - Visual developer tool for inspecting your iOS application data structures.
+- [CloudKit Samples: Private Sync with Subscriptions and Push](https://github.com/apple/cloudkit-sample-privatedb-sync)
+- [This Week in Glean: Building and Deploying a Rust library on iOS (2022)](https://fnordig.de/2022/01/31/rust-libraries-on-ios/)

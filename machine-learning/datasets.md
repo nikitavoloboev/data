@@ -141,3 +141,4 @@
 - [Colliding Circles Toy Datasets](https://fabianfuchsml.github.io/physicsdata/)
 - [Sieve](https://sievedata.com/) - Transform raw video into high quality datasets in minutes. ([HN](https://news.ycombinator.com/item?id=29893783))
 - [IKEA 3D Assembly Dataset](https://github.com/IKEA/IKEA3DAssemblyDataset)
+- [Imbalanced Dataset Sampler](https://github.com/ufoym/imbalanced-dataset-sampler) - PyTorch imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.

@@ -336,3 +336,4 @@ Blockchain is an immutable linked list of hashes that uses some consensus system
 - [Block Protocol](https://blockprotocol.org/) - Open standard for data-driven blocks. ([Code](https://github.com/blockprotocol/blockprotocol)) ([HN](https://news.ycombinator.com/item?id=30103401))
 - [SlimChain: Scaling Blockchain Transactions through Off-Chain Storage and Parallel Processing (2021)](https://xuc.me/publication/pvldb/slimchain/) ([Code](https://github.com/hkbudb/slimchain))
 - [Vitra](https://github.com/pfrazee/vitra) - Cooperative databases using smart contracts. Research project for exploring the limits of smart contracts without blockchains.
+- [What "shared security" in blockchains mean (2022)](https://twitter.com/kevinsekniqi/status/1487851714958999556)

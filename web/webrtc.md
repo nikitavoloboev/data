@@ -78,3 +78,4 @@
 - [Open WebRTC Toolkit JavaScript SDK](https://github.com/open-webrtc-toolkit/owt-client-javascript)
 - [naia-socket](https://github.com/naia-rs/naia-socket) - Cross-platform (including Wasm!) sockets providing an unreliable & unordered network transport layer. Built on top of UDP & WebRTC.
 - [Explainer](https://github.com/pion/explainer) - Parses WebRTC Offers/Answers then provides summaries and suggestions.
+- [WebRTC Encoded Transform](https://github.com/w3c/webrtc-encoded-transform) - Proposal for an API that allows the insertion of user-defined processing steps in the pipeline that handles media in a WebRTC context.

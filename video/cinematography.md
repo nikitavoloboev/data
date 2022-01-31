@@ -37,3 +37,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [The Succession Character You Never See (2021)](https://www.youtube.com/watch?v=_lU91279xZk)
 - [Approved Cameras by Netflix](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture) ([HN](https://news.ycombinator.com/item?id=29856911))
 - [Why are Films Shot in Two Colors?](https://www.youtube.com/watch?v=YCJXS4hvOsU)
+- [How to find the best camera angles](https://www.youtube.com/watch?v=hovbpWHJgTQ)

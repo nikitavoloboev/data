@@ -457,6 +457,7 @@
 - [fail](https://github.com/srvc/fail) - Better error handling solution especially for application servers.
 - [errorx](https://github.com/joomcode/errorx) - Comprehensive error handling library for Go.
 - [Stacktrace](https://github.com/palantir/stacktrace) - Stack traces for Go errors.
+- [errors](https://github.com/cockroachdb/errors) - Go errors with network portability.
 
 ## Other
 
@@ -1257,6 +1258,13 @@
 - [Struc](https://github.com/lunixbochs/struc) - Better binary packing for Go.
 - [DI](https://github.com/goava/di) - Dependency injection for Go.
 - [go-ddd](https://github.com/eyazici90/go-ddd) - Practical implementation of Domain Driven Design in Go.
+- [Kinsumer](https://github.com/twitchscience/kinsumer) - Native Go consumer for AWS Kinesis streams.
+- [dynamodbstreams-kinsume](https://github.com/timwu20/dynamodbstreams-kinsumer) - DynamoDB Streams Adapter for Kinsumer.
+- [Bifrost](https://github.com/aperturerobotics/bifrost) - Cross-platform modular communications library & daemon for Go w/ flexible protobuf+yaml config.
+- [GoSTL](https://github.com/liyue201/gostl) - Algorithms and data structures library for Go similar to C++ STL. ([HN](https://news.ycombinator.com/item?id=30136969))
+- [go-functional](https://github.com/BooleanCat/go-functional) - Functional Programming in Go.
+- [timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences.
+- [shortuuid](https://github.com/lithammer/shortuuid) - Go library that generates concise, unambiguous, URL-safe UUIDs.
 
 ## Links
 
@@ -1300,3 +1308,4 @@
 - [Go Clean template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Go services.
 - [Go generics the hard way](https://github.com/akutz/go-generics-the-hard-way) - Hands-on approach to getting started with Go generics.
 - [GoDynamic](https://github.com/pkujhd/godynamic) - Load and unload dynamic library.
+- [Sage](https://github.com/einride/sage) - Make-like build tool for Go projects.

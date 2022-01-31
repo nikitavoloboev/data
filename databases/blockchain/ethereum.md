@@ -453,3 +453,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Bunni](https://github.com/ZeframLou/bunni) - ERC-20 LP tokens for Uniswap V3.
 - [Getting Started with Forge (2022)](https://mirror.xyz/crisgarner.eth/BhQzl33tthkJJ3Oh2ehAD_2FXGGlMupKlrUUcDk0ALA)
 - [Awesome Foundry](https://github.com/crisgarner/awesome-foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [Surya](https://github.com/ConsenSys/surya) - Utilities for exploring Solidity contracts.
+- [Caigo](https://github.com/dontpanicdao/caigo) - Go Library for StarkNet/Cairo.

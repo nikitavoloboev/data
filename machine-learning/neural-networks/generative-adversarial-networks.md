@@ -175,3 +175,4 @@
 - [Labels4Free: Unsupervised Segmentation using StyleGAN (2021)](https://rameenabdal.github.io/Labels4Free/) ([Code](https://github.com/RameenAbdal/Labels4Free))
 - [Alias-Free Generative Adversarial Networks (2021)](https://arxiv.org/abs/2106.12423) ([Code](https://github.com/rosinality/alias-free-gan-pytorch))
 - [SberSwap](https://github.com/sberbank-ai/sber-swap)
+- [Explaining in Style: Training a GAN to explain a classifier in StyleSpace (2021)](https://arxiv.org/abs/2104.13369) ([Code](https://github.com/google/explaining-in-style))

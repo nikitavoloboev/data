@@ -104,3 +104,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [6 things kids know by heart that adults forgot](https://twitter.com/anafabrega11/status/1476582281770942468)
 - [Don't Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/) ([HN](https://news.ycombinator.com/item?id=29754120))
 - [Lipids can modulate RNA activity, a possible clue to origin of life](https://tu-dresden.de/cmcb/bcube/news-termine/news/eine-unerwartete-anziehung-von-nukleinsaeuren-und-fett)
+- [The Sun Was Dimmer When Earth Formed. How Did Life Emerge? (2022)](https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/)

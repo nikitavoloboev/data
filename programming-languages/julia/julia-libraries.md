@@ -433,6 +433,8 @@
 - [CondaPkg.jl](https://github.com/cjdoris/CondaPkg.jl) - Add Conda dependencies to your Julia project.
 - [SCS](https://github.com/jump-dev/SCS.jl) - Julia wrapper for the SCS splitting cone solver.
 - [LogicCircuits.jl](https://github.com/Juice-jl/LogicCircuits.jl) - Logic Circuits from the Juice library.
+- [Measurements.jl](https://github.com/JuliaPhysics/Measurements.jl) - Error propagation calculator and library for physical measurements.
+- [PartitionedArrays.jl](https://github.com/fverdugo/PartitionedArrays.jl) - Vectors and sparse matrices partitioned into pieces for parallel distributed-memory computations.
 
 ## Links
 

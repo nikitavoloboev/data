@@ -48,6 +48,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TGBF](https://github.com/Endogen/tgbf) - Telegram Bot Framework.
 - [Kotlin Telegram Bot Library](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) ([Template](https://github.com/demidko/telegram))
 - [Slimbot](https://github.com/edisonchee/slimbot) - Telegram Bot API for Node.js.
+- [AIOGram](https://github.com/aiogram/aiogram) - Simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 
 ## Bots
 

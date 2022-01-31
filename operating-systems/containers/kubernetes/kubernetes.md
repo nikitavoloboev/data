@@ -176,7 +176,8 @@
 - [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - World's best service mesh proxy.
 - [Predictive Horizontal Pod Autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler)
 - [Kubie](https://github.com/sbstp/kubie) - More powerful alternative to kubectx and kubens. ([Article](https://blog.sbstp.ca/introducing-kubie/))
-- [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way. ([Web](https://crossplane.io/)) ([Runtime](https://github.com/crossplane/crossplane-runtime))
+- [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way. ([Web](https://crossplane.io/)) ([Runtime](https://github.com/crossplane/crossplane-runtime)) ([GitHub](https://github.com/crossplane))
+- [Terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider.
 - [xgql](https://github.com/upbound/xgql) - GraphQL API for Crossplane.
 - [Upbound](https://www.upbound.io/) - Open source, production-ready, vendor-supported distribution of Crossplane.
 - [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
@@ -606,3 +607,5 @@
 - [Yatai](https://github.com/bentoml/Yatai) - Model serving at scale on Kubernetes.
 - [Minigun](https://github.com/wayfair-incubator/minigun) - Highly performant Kubernetes native HTTP benchmark tool written in Go.
 - [konfig](https://github.com/corneliusweig/konfig) - Helps to merge, split or import kubeconfig files.
+- [How To Call Kubernetes API using Go (2022)](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/)
+- [kube-applier](https://github.com/box/kube-applier) - Enables automated deployment and declarative configuration for your Kubernetes cluster.

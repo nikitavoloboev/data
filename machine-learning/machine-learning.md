@@ -659,3 +659,7 @@
 - [Awesome Deep Learning papers for industrial Search, Recommendation and Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising)
 - [JaxTon](https://github.com/vopani/jaxton) - 100 exercises to learn JAX.
 - [Deep Multi-attribute Graph Representation Learning on Protein Structures (2020)](https://arxiv.org/abs/2012.11762)
+- [Variational Diffusion Models (2021)](https://arxiv.org/abs/2107.00630) ([Code](https://github.com/yoyololicon/variational-diffwave))
+- [Cheat sheet for the "Deep Learning" course at ETH Zürich](https://github.com/andbloch/eth-dl-cheat-sheet)
+- [Convolutional Networks on Graphs for Learning Molecular Fingerprints (2015)](https://arxiv.org/abs/1509.09292) ([Code](https://github.com/HIPS/neural-fingerprint))
+- [Cheatsheet for the Advanced Machine Learning Lecture 2020, ETH Zurich](https://github.com/veroniquek/aml_cheatsheet/blob/main/cheatsheet.pdf)

@@ -337,3 +337,4 @@ Awesome List
 - [GitHub natively supports Mermaid diagrams](https://github.com/github/roadmap/issues/372) ([Lobsters](https://lobste.rs/s/lejtxs/github_will_natively_support_mermaid)) ([HN](https://news.ycombinator.com/item?id=29927962))
 - [Github Copilot Wants to Play Chess Instead of Code (2022)](https://dagshub.com/blog/github-copilot-not-code/) ([HN](https://news.ycombinator.com/item?id=29920035))
 - [go-gh beta](https://github.com/cli/go-gh) - Go module for interacting with gh and the GitHub API from the command line.
+- [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search github repositories interactively.

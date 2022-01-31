@@ -97,3 +97,4 @@
 - [KubeJS](https://github.com/KubeJS-Mods/KubeJS) - Multi-modloader Minecraft mod which lets you create scripts in JavaScript. ([Web](https://kubejs.com/))
 - [KubeCraftAdmin](https://github.com/erjadi/kubecraftadmin) - Minecraft as a Kubernetes admin tool. ([Article](https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42)) ([HN](https://news.ycombinator.com/item?id=29816972))
 - [Grakkit](https://github.com/grakkit/grakkit) - Modern JavaScript development environment for Minecraft.
+- [Hopper](https://github.com/tebibytemedia/hopper) - Minecraft mod manager for the terminal.

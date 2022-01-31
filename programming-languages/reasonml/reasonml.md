@@ -84,3 +84,4 @@
 - [Full-stack ReScript. Architecture Overview (2021)](https://fullsteak.dev/posts/fullstack-rescript-architecture-overview)
 - [ReScript grammar for Tree-sitter](https://github.com/nkrkv/tree-sitter-rescript)
 - [ReScript JSON Typed Strongly (2021)](https://fullsteak.dev/posts/rescript-json-typed-strongly)
+- [Exploring ReScript on Deno (2022)](https://practicalrescript.com/exploring-rescript-on-deno/)

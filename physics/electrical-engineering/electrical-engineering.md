@@ -90,3 +90,4 @@
 - [Making nice-looking and interactive diagrams for your PCBs (2021)](https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/) ([HN](https://news.ycombinator.com/item?id=29871371))
 - [Water circuit analogy to electric circuit](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/watcir.html) ([HN](https://news.ycombinator.com/item?id=30059578))
 - [Circuit Simulator Applet](https://falstad.com/circuit/) ([HN](https://news.ycombinator.com/item?id=30062433))
+- [Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string (2022)](https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/) ([HN](https://news.ycombinator.com/item?id=30128379))

@@ -451,3 +451,4 @@
 - [My 2022 high-end Linux PC](https://michael.stapelberg.ch/posts/2022-01-15-high-end-linux-pc/) ([Lobsters](https://lobste.rs/s/ysqqhd/my_2022_high_end_linux_pc)) ([HN](https://news.ycombinator.com/item?id=29949012))
 - [systemd by example](https://systemd-by-example.com/) - Playground allows you to learn about systemd interactively, right from your browser. ([Article](https://seb.jambor.dev/posts/systemd-by-example-the-playground/))
 - [Linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Able to provide Internet, or create WiFi hotspot. Support transparent proxy (redsocks). Also useful for routing VM/containers.
+- [EDB](https://github.com/dylandreimerink/edb) - EBPF program debugger.

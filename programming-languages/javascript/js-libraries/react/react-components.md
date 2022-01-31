@@ -247,6 +247,9 @@
 - [React Feather Icons](https://github.com/feathericons/react-feather)
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 - [yandex/ui](https://github.com/bem/yandex-ui) - Yandex UI Kit build on React and bem-react.
+- [iframe-resizer-react](https://github.com/davidjbradshaw/iframe-resizer-react) - Enables the automatic resizing of the height and width of both same and cross domain iFrames to fit their contained content.
+- [React Table Library](https://github.com/table-library/react-table-library)
+- [React Zorm](https://github.com/esamattis/react-zorm) - Type safe <form> for React using Zod.
 
 ## Links
 

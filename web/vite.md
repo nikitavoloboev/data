@@ -20,3 +20,4 @@
 - [vite-plugin-image-presets](https://github.com/ElMassimo/vite-plugin-image-presets) - Image Presets for Vite.js apps.
 - [A Rubyist's Guide to Vite.js (2021)](https://maximomussini.com/posts/a-rubyist-guide-to-vite-js/)
 - [HeadKit](https://github.com/egoist/headkit) - Framework-agnostic `<head>` management.
+- [Vite Rollup Plugins](https://github.com/patak-dev/vite-rollup-plugins)

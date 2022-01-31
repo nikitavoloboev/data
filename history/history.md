@@ -173,3 +173,4 @@
 - [Gareth Harney](https://twitter.com/OptimoPrincipi) - Celebrating the endless wonders of the Roman world.
 - [Wiki History Game](https://wikitrivia.tomjwatson.com/)
 - [Computer History](https://www.computerhope.com/history/index.htm)
+- [Rare color photos from the Second World War, 1941-1945](https://rarehistoricalphotos.com/color-photos-from-second-world-war/)

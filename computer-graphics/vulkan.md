@@ -66,3 +66,4 @@
 - [lahar](https://github.com/Ralith/lahar) - Async-oriented Vulkan helpers.
 - [vk-mem](https://github.com/gwihlidal/vk-mem-rs) - Rust bindings for AMD Vulkan Memory Allocator (VMA).
 - [vk-sync](https://github.com/gwihlidal/vk-sync-rs) - Simplified Vulkan synchronization logic, written in rust.
+- [caldera](https://github.com/sjb3d/caldera) - Vulkan and rust experiments, including a spectral path tracer using Vulkan ray tracing extensions.

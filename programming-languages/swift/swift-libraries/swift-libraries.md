@@ -401,6 +401,7 @@
 - [PackAPrefPane](https://github.com/W1W1-M/PackAPrefPane) - Reusable & customizable SwiftUI settings sheet as a Swift package.
 - [Colorful](https://github.com/Co2333/Colorful) - SwiftUI implementation of AppleCard's animated colorful blur background.
 - [LookingGlassUI](https://github.com/ryanlintott/LookingGlassUI) - Shimmering SwiftUI Views using device orientation.
+- [BottomSheetView](https://github.com/ericlewis/BottomSheetView) - Present sheets with UISheetPresentationController in SwiftUI.
 
 ## Test
 
@@ -917,6 +918,7 @@
 - [Valid](https://github.com/nerdsupremacist/Valid) - Input Validation Done Right. A Swift DSL for Validating User Input using Allow/Deny Rules.
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values.
 - [RealFlags](https://github.com/immobiliare/RealFlags) - Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig).
+- [Swift-DocC Plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC.
 
 ## Other (not lib)
 

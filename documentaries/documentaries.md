@@ -19,3 +19,4 @@ I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/do
 - [The most interesting documentary you've seen (2021)](https://www.reddit.com/r/MovieSuggestions/comments/qkpd18/the_most_interesting_documentary_youve_seen_is/)
 - [What is the most disturbing/unsettling/scary/sobering documentary you've ever seen? (2021)](https://www.reddit.com/r/MovieSuggestions/comments/qx65g1/what_is_the_most/)
 - [The 78 Best Documentaries of All Time (2021)](https://www.vogue.com/article/best-documentaries-of-all-time)
+- [Suggest me your favorite documentary (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sgh50m/suggest_me_your_favourite_documentary/)

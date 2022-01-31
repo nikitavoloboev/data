@@ -751,6 +751,10 @@
 - [hm-def](https://github.com/xodio/hm-def) - Runtime type checking for JS with Hindley Milner signatures.
 - [cRonstrue](https://github.com/bradymholt/cRonstrue) - JavaScript library that converts CRON expressions into human readable descriptions.
 - [Hyperactiv](https://github.com/elbywan/hyperactiv) - Super tiny reactive library.
+- [JsonHilo.js](https://github.com/xtao-org/jsonhilo) - Fast lossless JSON parse event streaming, in JavaScript.
+- [most](https://github.com/cujojs/most) - Ultra-high performance reactive programming.
+- [expandify](https://github.com/bharadwajduggaraju/expandify) - Simple express.js tool to evaluate expressions in HTML templates.
+- [remark-shiki](https://github.com/stefanprobst/remark-shiki) - Highlight code blocks in markdown with shiki.
 
 ## Links
 

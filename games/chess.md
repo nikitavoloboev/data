@@ -173,3 +173,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Сергей Карякин и Теймур Раджабов: сахар для ума (Kuji Podcast) (2021)](https://www.youtube.com/watch?v=W8W13RTRn30)
 - [Halogen Chess engine](https://github.com/KierenP/Halogen) - Written in c++. Implements Null-move pruning, Late move reductions, Quiessence search and a Transposition table that uses Zobrist Hashing.
 - [chessboard.js](https://github.com/oakmac/chessboardjs) - JavaScript chessboard component. ([Web](https://chessboardjs.com/))
+- [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext) ([HN](https://news.ycombinator.com/item?id=30144108))

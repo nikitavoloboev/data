@@ -22,3 +22,4 @@
 - [cellx](https://github.com/Riim/cellx) - Ultra-fast implementation of reactivity for JS.
 - [Разбираемся в сортах реактивности](https://github.com/nin-jin/slides/blob/master/reactivity/readme.md) ([Tweet](https://twitter.com/andrey_sitnik/status/1460956157854752768))
 - [Reactive](https://github.com/YousefED/reactive) - Super simple, yet powerful and performant library for State Management / Reactive Programming.
+- [General Theory of Reactivity](https://github.com/kriskowal/gtor)

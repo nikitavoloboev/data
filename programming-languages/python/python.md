@@ -422,3 +422,4 @@ for i, _ in enumerate(nums):
 - [How vectorization speeds up your Python code (2022)](https://pythonspeed.com/articles/vectorization-python/) ([Lobsters](https://lobste.rs/s/8kujeg/how_vectorization_speeds_up_your_python))
 - [Static Typing Python Decorators (2022)](https://rednafi.github.io/reflections/static-typing-python-decorators.html)
 - [Python Minifier](https://github.com/dflook/python-minifier) - Transforms Python source code into it's most compact representation.
+- [Blue](https://github.com/grantjenks/blue) - Slightly less uncompromising Python code formatter.

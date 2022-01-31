@@ -174,3 +174,5 @@
 - [Accelerating Svelte's Development (2022)](https://svelte.dev/blog/accelerating-sveltes-development)
 - [svelte-jester](https://github.com/mihar-22/svelte-jester) - Jest transformer for Svelte - compile your components before importing them into tests.
 - [О, кинчик (2022)](https://habr.com/en/post/647321/)
+- [TaleNote](https://github.com/d4rekanguok/talenote) - Storybook-esque component directory, embed right into SvelteKit.
+- [svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.

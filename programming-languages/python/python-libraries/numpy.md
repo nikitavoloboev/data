@@ -25,3 +25,4 @@
 - [NumExpr](https://github.com/pydata/numexpr) - Fast numerical expression evaluator for NumPy.
 - [rust-numpy](https://github.com/PyO3/rust-numpy) - Rust bindings for the NumPy C-API.
 - [numpy-groupies](https://github.com/ml31415/numpy-groupies) - Optimised tools for group-indexing operations: aggregated sum and more.
+- [numpy-hilbert-curve](https://github.com/PrincetonLIPS/numpy-hilbert-curve) - Numpy implementation of Hilbert curves in arbitrary dimensions.

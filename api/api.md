@@ -129,6 +129,7 @@
 - [Swiftagram](https://github.com/sbertix/Swiftagram) - Modern Swift wrapper for Instagram Private API.
 - [Instagram Private Web API client](https://github.com/jlobos/instagram-web-api)
 - [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
+- [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile instagram API.
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
@@ -318,3 +319,4 @@
 - [Newman](https://github.com/postmanlabs/newman) - Command-line collection runner for Postman.
 - [openapi-sampler](https://github.com/Redocly/openapi-sampler) - Tool for generation samples based on OpenAPI payload/response schema.
 - [Redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc.
+- [Dash Docset Builder](https://github.com/godbout/dash-docset-builder)

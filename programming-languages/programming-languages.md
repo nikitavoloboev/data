@@ -304,3 +304,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)
 - [SAPP](https://github.com/facebook/sapp) - Post Processor for Facebook Static Analysis Tools.
 - [Concise language to write an interpreter for? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/seu238/concise_language_to_write_an_interpreter_for/)
+- [Awesome programming languages](https://github.com/ChessMax/awesome-programming-languages)

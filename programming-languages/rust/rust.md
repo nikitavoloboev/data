@@ -686,4 +686,6 @@
 - [Rust Futures and Tasks (2022)](https://swatinem.de/blog/futures-n-tasks/) ([Lobsters](https://lobste.rs/s/psycqk/rust_futures_tasks))
 - [On self-modifying executables in Rust (2022)](https://blog.dend.ro/self-modifying-rust/) ([HN](https://news.ycombinator.com/item?id=30121045))
 - [Rust extension traits, greppability and IDEs (2022)](https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/) ([Lobsters](https://lobste.rs/s/ob3glg/rust_extension_traits_greppability_ides)) ([HN](https://news.ycombinator.com/item?id=30126839))
-- [Uninitialized Memory: Unsafe Rust is Too Hard (2022)](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/)
+- [Uninitialized Memory: Unsafe Rust is Too Hard (2022)](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/) ([Lobsters](https://lobste.rs/s/bkjsde/uninitialized_memory_unsafe_rust_is_too)) ([HN](https://news.ycombinator.com/item?id=30135758)) ([Reddit](https://www.reddit.com/r/rust/comments/sg6pp5/uninitialized_memory_unsafe_rust_is_too_hard/))
+- [A look back at asynchronous Rust (2021)](https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c)
+- [Async Rust: Panics vs. Cancellation (2022)](https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/) ([HN](https://news.ycombinator.com/item?id=30114822))

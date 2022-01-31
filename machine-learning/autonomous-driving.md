@@ -14,7 +14,7 @@
 - [Aurora](https://aurora.tech/) - Delivering the benefits of self-driving technology safely, quickly, and broadly.
 - [Zoox](https://zoox.com/) - Driving autonomously in ways that no one else has shown. ([HN](https://news.ycombinator.com/item?id=23648942))
 - [Mobileye](https://www.mobileye.com/) - Autonomous Driving & ADAS (Advanced Driver Assistance Systems).
-- [Einride](https://www.einride.tech/) - Making autonomous electric transport possible today.
+- [Einride](https://www.einride.tech/) - Making autonomous electric transport possible today. ([GitHub](https://github.com/einride))
 - [Going Driverless: How we developed a CAN library for Go (2020)](https://www.youtube.com/watch?v=IbggJHJUv0U)
 - [SelfDriving.fyi](https://selfdriving.fyi/) - Comprehensive database of companies working on autonomous vehicles and related technologies.
 - [panda](https://github.com/commaai/panda) - Universal car interface.

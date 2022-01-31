@@ -126,3 +126,4 @@
 - [Why I Program in Erlang (2012)](https://www.evanmiller.org/why-i-program-in-erlang.html)
 - [Erlang/OTP profiling: fprof (2022)](https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3)
 - [Erlang Patterns of Concurrency](https://github.com/duomark/epocxy)
+- [Beam Bloggers Webring](https://beambloggers.com/) - Webring for bloggers in the BEAM Ecosystem (Erlang, Elixir, Gleam, LFE, etc). ([Code](https://github.com/lawik/beambloggers))

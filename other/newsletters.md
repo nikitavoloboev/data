@@ -13,6 +13,7 @@
 - [Robin Sloan's Society of the Double Dagger](https://society.robinsloan.com/)
 - [Superorganizers](https://every.to/superorganizers) - How smart people organize what they know.
 - [Ridgeline](https://craigmod.com/ridgeline/) - Weekly newsletter on walking, japan, literature, and photography.
+- [Ivan on Containers, Kubernetes, and Backend Development](https://iximiuz.ck.page/posts)
 
 ## Notes
 

@@ -111,3 +111,4 @@
 - [HN: OCaml Multicore merged upstream](https://news.ycombinator.com/item?id=29875442)
 - [Hotcaml](https://github.com/let-def/hotcaml) - OCaml interpreter with watching and reloading. ([Lobsters](https://lobste.rs/s/fl8mhn/hotcaml_ocaml_interpreter_with_watching))
 - [Awesome Multicore OCaml](https://github.com/patricoferris/awesome-multicore-ocaml) - Collection of libraries, experiments and ideas relating to OCaml 5 (multicore + effects).
+- [Memory model for OCaml (herd formalization)](https://github.com/ocamllabs/ocaml-memory-model)

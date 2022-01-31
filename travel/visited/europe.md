@@ -43,3 +43,5 @@
 - [Tech Pays in Europe](https://techpays.eu/) - Tech total compensation and salaries in EU.
 - [Tax implications of living in multiple EU countries in one year (2021)](https://www.reddit.com/r/eupersonalfinance/comments/rt1fyh/tax_implications_of_living_in_multiple_eu/)
 - [Ask HN: Who has moved from the U.S. to Europe? (2022)](https://news.ycombinator.com/item?id=30073066)
+- [EU vs DISINFORMATION](https://euvsdisinfo.eu/)
+- [DISINFO DATABASE](https://euvsdisinfo.eu/disinformation-cases/)

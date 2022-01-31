@@ -185,3 +185,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Welcoming Recorded Music to the Public Domain (2022)](https://blog.archive.org/2022/01/01/welcoming-recorded-music-to-the-public-domain/) ([HN](https://news.ycombinator.com/item?id=29760454))
 - [What’s the best use of music in a tv show/movie (2022)](https://twitter.com/blairsmani/status/1482116881859424256)
 - [Tunefind](https://www.tunefind.com/) - Find Music From TV and Movies.
+- [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds free music for you. ([Code](https://github.com/nukeop/nuclear))

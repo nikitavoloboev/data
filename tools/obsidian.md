@@ -69,6 +69,8 @@
 - [obsidian-contextual-typography](https://github.com/mgmeyers/obsidian-contextual-typography) - Adds a data-tag-name attribute to all top-level preview divs, allowing contextual typography.
 - [MetaEdit](https://github.com/chhoumann/MetaEdit)
 - [Obsidian Better Command Palette](https://github.com/AlexBieg/obsidian-better-command-palette)
+- [Map Of Content for Obsidian](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) - Generate a Map of Content for your Obsidian vault.
+- [Obsidian Corkboard](https://github.com/jmilldotdev/obsidian-corkboard) - Visual canvas to work with your Obsidian notes.
 
 ## Themes
 
@@ -103,3 +105,4 @@
 - [Obsidian Python lab plugin](https://github.com/cristianvasquez/obsidian-lab) - Collection of dumb interfaces to enable python developers to use/test functionality within Obsidian.
 - [Obsidian API](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [Obsidian Chrome Clipper](https://github.com/jplattel/obsidian-clipper) - Chrome extension that easily clips selections to Obsidian.
+- [Obsidian Shortcut Launcher, A Free Plugin to Trigger Shortcuts from Obsidian](https://www.macstories.net/stories/obsidian-shortcut-launcher/)

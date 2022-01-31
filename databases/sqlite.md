@@ -148,3 +148,4 @@
 - [Store SQLite in Cloudflare Durable Objects (2022)](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects) ([HN](https://news.ycombinator.com/item?id=30072997))
 - [sqlite-vfs](https://github.com/rkusa/sqlite-vfs) - Build SQLite virtual file systems (VFS) by implementing a simple Rust trait.
 - [SQLite Visual Query Builder](https://sql.etienne.tech/) - Help you write SQLite queries with a visual interface. ([Code](https://github.com/etienne-dldc/sqlite-visual-query-builder))
+- [One process programming notes (with Go and SQLite) (2018)](https://crawshaw.io/blog/one-process-programming-notes)

@@ -30,3 +30,4 @@
 - [qpdf-rs](https://github.com/ancwrd1/qpdf-rs) - Rust bindings for QPDF C++ library.
 - [pdfc](https://github.com/sachinraja/pdfc) - PDF compiler for your source code.
 - [labelmake](https://github.com/hand-dot/labelmake) - Declarative style PDF generation library for Node and the browser.
+- [Reducing the size of large PDFs (2022)](https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/)

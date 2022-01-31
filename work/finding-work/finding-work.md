@@ -150,3 +150,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Ask HN: Do you have to use LinkedIn to get hired? (2022)](https://news.ycombinator.com/item?id=29906328)
 - [Senior Engineer Job Search Guide](https://www.jobsearch.dev/)
 - [Is the Leetcode grind necessary to land a high paying remote job? (2022)](https://news.ycombinator.com/item?id=30098671)
+- [How can you tell if the company you’re interviewing with is rotten on the inside? (2022)](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)

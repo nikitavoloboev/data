@@ -125,3 +125,4 @@
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [Paperclip](https://github.com/makinacorpus/django-paperclip) - Add attachments to Django models.
 - [Django-RQ](https://github.com/rq/django-rq) - Simple app that provides Django integration for RQ (Redis Queue).
+- [django-clone](https://github.com/tj-django/django-clone) - Controlled Django model instance replication.

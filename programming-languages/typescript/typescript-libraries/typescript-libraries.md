@@ -17,6 +17,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [shapes/core](https://github.com/punchcard/shapes) - Type-safe DSLs and ORMs for TypeScript.
 - [pg-magic](https://github.com/danielrearden/pg-magic) - TypeScript type generator for PostgreSQL queries.
 - [Potygen](https://github.com/ivank/potygen) - Postgres SQL Parser and type generator.
+- [sqltyper](https://github.com/akheron/sqltyper) - TypeScript types for raw PostgreSQL queries.
 
 ## Web
 
@@ -297,6 +298,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [bitstream](https://github.com/astronautlabs/bitstream) - Powerful bitstream library for TypeScript. ([HN](https://news.ycombinator.com/item?id=30061181))
 - [c12](https://github.com/unjs/c12) - Smart Config Loader.
 - [Dialogic](https://github.com/ArthurClemens/dialogic) - Manage dialogs and notifications.
+- [Offset Polygon](https://github.com/Stanko/offset-polygon) - Small, no dependency library for offsetting polygons.
 
 ## Links
 

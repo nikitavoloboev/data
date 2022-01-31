@@ -444,3 +444,4 @@ all: unset
 - [CSS Speedrun](https://css-speedrun.netlify.app/) - Small game to test and improve your CSS knowledge. ([Code](https://github.com/Vincenius/css-speedrun))
 - [Getting Started With CSS Cascade Layers (2022)](https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/)
 - [CSS Polka Dot Generator](https://screenspan.net/polka/)
+- [Fancy CSS Borders Using Masks (2022)](https://css-tricks.com/css-borders-using-masks/)

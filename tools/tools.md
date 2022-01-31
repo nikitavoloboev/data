@@ -281,6 +281,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Sexy-QR](https://avin.github.io/sexy-qr/) - Sexy SVG QR-code generator. ([Code](https://github.com/avin/sexy-qr))
 - [CloudConvert](https://cloudconvert.com/) - Online file converter.
 - [Knock](https://knock.app/) - Reliable, managed API to turn user activity into product notifications. ([Twitter](https://twitter.com/knocklabs))
+- [Linksort](https://linksort.com/) - Open source alternative to Pocket. ([Code](https://github.com/linksort/linksort))
 - [Testimonial](https://testimonial.to/) - Collect video testimonials.
 - [unavatar.io](https://unavatar.io/) - Get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc. ([Code](https://github.com/microlinkhq/unavatar))
 - [Code Bench](https://www.codebench.cloud/) - Platform to keep track of your benchmarks.
@@ -642,3 +643,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Awesome Developer-First](https://github.com/agamm/awesome-developer-first) - Curated list of awesome developer-first tools products.
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [Hidden Tools](https://www.hiddentools.dev/) - Discover a wide collection of unique tools. ([Code](https://github.com/heybereket/hiddentools))
+- [You want HOW MANY years experience?!](https://howoldisit.glitch.me/)

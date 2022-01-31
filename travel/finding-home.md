@@ -73,3 +73,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [The Carpetbagger’s Guide to Home Ownership (2021)](https://www.granolashotgun.com/granolashotguncom/investors-and-affordable-housing) ([HN](https://news.ycombinator.com/item?id=29688489))
 - [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/) ([HN](https://news.ycombinator.com/item?id=29770105))
 - [Designing a 100-year home in Accra](https://www.quartey.com/writing/designing-family-home)
+- [If It Were My Home](http://www.ifitweremyhome.com/) ([HN](https://news.ycombinator.com/item?id=30135346))

@@ -181,3 +181,4 @@
 - [DNS Collector](https://github.com/dmachard/dns-collector) - High speed passive DNS collector with dnstap support, dns traffic sniffer and more.
 - [Lexicon](https://github.com/AnalogJ/lexicon) - Manipulate DNS records on various DNS providers in a standardized/agnostic way.
 - [Some ways DNS can break (2022)](https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/) ([HN](https://news.ycombinator.com/item?id=29963907))
+- [Noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator.

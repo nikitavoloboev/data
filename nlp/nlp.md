@@ -463,3 +463,7 @@
 - [Stanford Open Information Extraction](https://nlp.stanford.edu/software/openie.html)
 - [Python3 wrapper for Stanford OpenIE](https://github.com/philipperemy/stanford-openie-python)
 - [I-BERT: Integer-only BERT Quantization (2021)](https://arxiv.org/abs/2101.01321) ([Code](https://github.com/kssteven418/I-BERT))
+- [spaCy-wrap](https://github.com/KennethEnevoldsen/spacy-wrap) - Wrapping fine-tuned transformers in spaCy pipelines.
+- [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
+- [Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond (2020)](https://arxiv.org/abs/2005.06249) ([Code](https://github.com/cooelf/AwesomeMRC))
+- [medspacy](https://github.com/medspacy/medspacy) - Library for clinical NLP with spaCy.

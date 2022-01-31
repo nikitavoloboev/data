@@ -287,3 +287,6 @@
 - [GraphCDN examples](https://github.com/graphcdn/examples) - Curated list of examples on how to set up GraphCDN with different kinds of APIs and services.
 - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - Fully-featured, simple to set up, performant and extendable server. ([Web](https://www.graphql-yoga.com/)) ([Example](https://graphql.wtf/episodes/24-graphql-yoga))
 - [gqldoc](https://github.com/Code-Hex/gqldoc) - Command line tool to generate documents from GraphQL schema or your GraphQL endpoint.
+- [validate-operations](https://github.com/saihaj/validate-operations) - Validate GraphQL operations against a schema.
+- [Implement error handling in a GraphQL server using the power of GraphQL Union Types and Functional Programming](https://github.com/gthau/graphql-error-handling-with-union-and-fpts)
+- [GraphQL codegen schema to Zod schema](https://github.com/withshepherd/graphql-codegen-zod)

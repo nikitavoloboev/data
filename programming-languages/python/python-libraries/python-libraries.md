@@ -662,6 +662,7 @@
 - [PyHeck](https://github.com/kevinheavey/pyheck) - Case conversion library (for converting strings to snake_case, camelCase etc). Thin wrapper around the Rust library heck.
 - [PipelineDP](https://github.com/OpenMined/PipelineDP) - Python framework for applying differentially private aggregations to large datasets using batch processing systems such as Apache Spark, Apache Beam, and more.
 - [Pooch](https://github.com/fatiando/pooch) - Friend to fetch your data files.
+- [Panflute](https://github.com/sergiocorreia/panflute) - Pythonic Pandoc Filters.
 
 ## Links
 

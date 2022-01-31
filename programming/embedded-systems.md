@@ -162,3 +162,4 @@
 - [XOD](https://xod.io/) - Visual programming language for microcontrollers. ([Code](https://github.com/xodio/xod))
 - [STLINK](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset.
 - [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot (2022)](https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb)
+- [embedded-trainings-2020](https://github.com/ferrous-systems/embedded-trainings-2020) - Beginner and advanced Embedded Rust workshops held by Ferrous Systems.

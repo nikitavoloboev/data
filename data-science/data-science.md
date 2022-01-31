@@ -228,3 +228,4 @@
 - [Corteza](https://cortezaproject.org/) - Open-source Low-Code Platform and Salesforce alternative. ([GitHub](https://github.com/cortezaproject)) ([Server Code](https://github.com/cortezaproject/corteza-server))
 - [Learning From Data - Online Course](https://home.work.caltech.edu/telecourse.html) ([Code](https://github.com/niuers/Learning-From-Data-A-Short-Course)) ([Solutions](https://github.com/ppaquay/Learning-from-Data-Solutions))
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+- [Guess the daily Wordle in one try using the tweet distribution (2022)](https://www.kaggle.com/benhamner/wordle-1-6) ([HN](https://news.ycombinator.com/item?id=30101456))

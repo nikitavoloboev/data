@@ -101,6 +101,7 @@
 - [Arcade](https://github.com/pythonarcade/arcade) - Easy to use Python library for creating 2D arcade games.
 - [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine. ([Web](https://urho3d.io/))
 - [Kruger](https://github.com/BobbyAnguelov/KRG) - Game engine framework, basically an engine without a renderer.
+- [Rusty Engine](https://github.com/CleanCut/rusty_engine) - 2D game engine for learning Rust.
 
 ## Physics engines
 

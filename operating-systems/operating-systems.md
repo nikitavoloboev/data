@@ -235,6 +235,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [POSIX write() is not atomic in the way that you might like (2020)](https://utcc.utoronto.ca/~cks/space/blog/unix/WriteNotVeryAtomic)
 - [Guided linking: dynamic linking without the costs (2020)](https://dl.acm.org/doi/abs/10.1145/3428213)
 - [Awesome Operating System Stuff](https://github.com/jubalh/awesome-os)
+- [Awesome Operating Systems](https://github.com/penberg/awesome-os)
 - [Lobsters: What should a new OS have? (2020)](https://lobste.rs/s/jr4crd/what_should_new_os_have)
 - [16-Bit Virtual Machine in JavaScript (2020)](https://www.youtube.com/playlist?list=PLP29wDx6QmW5DdwpdwHCRJsEubS5NrQ9b) ([Code](https://github.com/LowLevelJavaScript/16-Bit-Virtual-Machine))
 - [Jonathan Blow on how an operating system should work (2020)](https://www.youtube.com/watch?v=k0uE_chSnV8)

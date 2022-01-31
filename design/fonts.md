@@ -93,8 +93,9 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Klee](https://github.com/fontworks-fonts/Klee) - Script font handwritten by pencil or pen.
 - [Inria Sans and Inria Serif](https://github.com/BlackFoundryCom/InriaFonts) ([Web](https://black-foundry.com/work/inria-2/))
 - [Manrope](https://manropefont.com/) - Modern geometric sans-serif. ([Code](https://github.com/sharanda/manrope))
-- [Brutalita](https://brutalita.com/) - Grid based font editor and font. ([HN](https://news.ycombinator.com/item?id=29921137))
+- [Brutalita](https://brutalita.com/) - Grid based font editor and font. ([HN](https://news.ycombinator.com/item?id=29921137)) ([Code](https://github.com/javierbyte/brutalita))
 - [Agave](https://b.agaric.net/page/agave) - Small, monospaced, outline font that would be geometrically regular and simple. ([Code](https://github.com/blobject/agave))
+- [Readex](https://github.com/ThomasJockin/readexpro) - Variable font empirically shown to significantly improve reading-proficiency.
 
 ## Links
 
