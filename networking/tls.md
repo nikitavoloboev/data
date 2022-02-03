@@ -65,3 +65,4 @@
 - [Implementing TLS Encrypted Client Hello (2021)](https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/) ([HN](https://news.ycombinator.com/item?id=29530811))
 - [Not-quite-so-broken TLS](https://nqsb.io/)
 - [cilium-certgen](https://github.com/cilium/certgen) - Convenience tool to generate and store certificates for Hubble Relay mTLS.
+- [TLSChecker](https://github.com/jbovet/tlschecker) - Rust TLS/SSL certificate expiration date from command-line checker.

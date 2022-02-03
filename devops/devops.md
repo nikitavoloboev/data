@@ -137,3 +137,6 @@
 - [UpCheck](https://github.com/NorfairKing/upcheck) - Declarative checker for website uptime to run continuously for monitoring.
 - [GRR](https://github.com/google/grr) - Incident response framework focused on remote live forensics.
 - [OWASP DevSecOps Guideline](https://github.com/OWASP/DevSecOpsGuideline) - Can help us to embedding security as a part of the development pipeline.
+- [DevOps by Example](https://github.com/antonputra/tutorials)
+- [Brev.dev](https://brev.dev/) - Your local-only cloud computer. ([CLI](https://github.com/brevdev/brev-cli))
+- [Goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation.

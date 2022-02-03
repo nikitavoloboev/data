@@ -651,6 +651,7 @@
 - [FSM](https://github.com/looplab/fsm) - Finite state machine for Go.
 - [Gonetics](https://github.com/pbenner/gonetics) - Go Bioinformatics Library.
 - [go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
+- [utter](https://github.com/kortschak/utter) - Fork of the outstanding go-spew tool. Tool for taking snapshots of data structures to include in tests or other code.
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger.
 - [SortedMap](https://github.com/umpc/go-sortedmap) - Simple value-sorted map type for Go that features constant-time reads and efficient iteration over records.
 - [copy](https://github.com/otiai10/copy) - Copy directory recursively.
@@ -1265,6 +1266,8 @@
 - [go-functional](https://github.com/BooleanCat/go-functional) - Functional Programming in Go.
 - [timediff](https://github.com/mergestat/timediff) - Go library for printing human readable, relative time differences.
 - [shortuuid](https://github.com/lithammer/shortuuid) - Go library that generates concise, unambiguous, URL-safe UUIDs.
+- [jsonschema](https://github.com/santhosh-tekuri/jsonschema) - json-schema compilation and validation.
+- [spew](https://github.com/spewerspew/spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 
 ## Links
 
@@ -1309,3 +1312,5 @@
 - [Go generics the hard way](https://github.com/akutz/go-generics-the-hard-way) - Hands-on approach to getting started with Go generics.
 - [GoDynamic](https://github.com/pkujhd/godynamic) - Load and unload dynamic library.
 - [Sage](https://github.com/einride/sage) - Make-like build tool for Go projects.
+- [gocovsh](https://github.com/orlangure/gocovsh) - CLI viewer of Go test coverage reports.
+- [GoWrap](https://github.com/hexdigest/gowrap) - Command line tool that generates decorators for Go interface types using simple templates.

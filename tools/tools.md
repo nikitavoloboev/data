@@ -196,6 +196,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
 - [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
+- [QRImage](https://hughchen.github.io/qr_image/) - Web app to generate QR codes with images. ([Code](https://github.com/HughChen/qr_image)) ([HN](https://news.ycombinator.com/item?id=30162233))
 - [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
@@ -328,7 +329,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Eraser](https://www.tryeraser.com/home) - Make Team Meetings Visual.
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
 - [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
-- [Svix](https://www.svix.com/) - Webhooks as a Service. ([HN](https://news.ycombinator.com/item?id=27528202))
+- [Svix](https://www.svix.com/) - Webhooks as a Service. ([HN](https://news.ycombinator.com/item?id=27528202)) ([Svix-KSUID (Rust)](https://github.com/svix/rust-ksuid))
 - [Luma Profile](https://lu.ma/new) - Best Homepage for Creators. Show off your work, collect email addresses, and sell products.
 - [Butter](https://butter.us/) - Workshops as smooth as butter.
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content with just one link.

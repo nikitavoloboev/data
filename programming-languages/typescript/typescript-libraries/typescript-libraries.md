@@ -18,6 +18,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pg-magic](https://github.com/danielrearden/pg-magic) - TypeScript type generator for PostgreSQL queries.
 - [Potygen](https://github.com/ivank/potygen) - Postgres SQL Parser and type generator.
 - [sqltyper](https://github.com/akheron/sqltyper) - TypeScript types for raw PostgreSQL queries.
+- [Owl](https://github.com/quirrel-dev/owl) - High-performance, redis-backed job queueing library originally built for Quirrel.
 
 ## Web
 
@@ -299,6 +300,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [c12](https://github.com/unjs/c12) - Smart Config Loader.
 - [Dialogic](https://github.com/ArthurClemens/dialogic) - Manage dialogs and notifications.
 - [Offset Polygon](https://github.com/Stanko/offset-polygon) - Small, no dependency library for offsetting polygons.
+- [TS Expect](https://github.com/TypeStrong/ts-expect) - Checks values in TypeScript match expectations.
+- [observable-fns](https://github.com/andywer/observable-fns) - Light-weight observable implementation and functional utilities in TypeScript.
+- [Colormath.js](https://github.com/scientific-dev/colormath.js) - Color conversion and color manipulation library written in typescript for Node.js, Deno and Browser.
 
 ## Links
 

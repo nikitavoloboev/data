@@ -142,3 +142,4 @@
 - [Sieve](https://sievedata.com/) - Transform raw video into high quality datasets in minutes. ([HN](https://news.ycombinator.com/item?id=29893783))
 - [IKEA 3D Assembly Dataset](https://github.com/IKEA/IKEA3DAssemblyDataset)
 - [Imbalanced Dataset Sampler](https://github.com/ufoym/imbalanced-dataset-sampler) - PyTorch imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
+- [ADE20K Dataset](https://groups.csail.mit.edu/vision/datasets/ADE20K/) - Composed of more than 27K images from the SUN and Places databases. ([Code](https://github.com/CSAILVision/ADE20K))

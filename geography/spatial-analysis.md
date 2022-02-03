@@ -131,3 +131,4 @@
 - [OpenLayers](https://openlayers.org/) - High-performance, feature-packed library for all your mapping needs. ([Code](https://github.com/openlayers/openlayers))
 - [GPS Explained (2022)](https://ciechanow.ski/gps/) ([HN](https://news.ycombinator.com/item?id=29981188))
 - [Homemade GPS Receiver](http://www.aholme.co.uk/GPS/Main.htm)
+- [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.

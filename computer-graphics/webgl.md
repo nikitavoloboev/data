@@ -85,3 +85,5 @@
 - [WebGL + Rust: Basic Water Tutorial (2019)](https://chinedufn.com/3d-webgl-basic-water-tutorial/) ([Code](https://github.com/chinedufn/webgl-water-tutorial))
 - [WebGL Profiler](https://github.com/figma/webgl-profiler) - GPU-side profiler for WebGL using EXT_disjoint_timer_query.
 - [Web Texture Tool](https://github.com/toji/web-texture-tool) - Texture loading utility for WebGL and WebGPU.
+- [VideoContext](https://github.com/bbc/VideoContext) - Experimental HTML5 & WebGL video composition and rendering API.
+- [PixiJS](https://pixijs.com/) - HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ([Code](https://github.com/pixijs/pixijs)) ([Learning Pixi](https://github.com/kittykatattack/learningPixi))

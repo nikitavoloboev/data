@@ -138,3 +138,4 @@
 - [Template for the Read the Docs tutorial](https://github.com/readthedocs/tutorial-template)
 - [EventCatalog](https://eventcatalog.dev/) - Discover, Explore and Document your Event Driven Architectures. ([Code](https://github.com/boyney123/eventcatalog))
 - [Text-Runner](https://github.com/kevgo/text-runner) - Agile documentation tool that helps create living end-user readable documentation.
+- [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/)

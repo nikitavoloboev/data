@@ -194,3 +194,5 @@
 - [serve](https://github.com/kevinpollet/serve) - Simple and secure Go HTTP server to serve static sites or files from the command-line.
 - [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple HTTP server in Rust (Windows/Mac/Linux).
 - [Caching Header Best Practices (2022)](https://simonhearne.com/2022/caching-header-best-practices/)
+- [Request bodies in GET requests](https://evertpot.com/get-request-bodies/) ([HN](https://news.ycombinator.com/item?id=30129631))
+- [Observing HTTP/2 Traffic Is Hard, but eBPF Can Help (2022)](https://blog.px.dev/ebpf-http2-tracing/) ([HN](https://news.ycombinator.com/item?id=30153493))

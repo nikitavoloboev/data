@@ -104,3 +104,6 @@
 - [Redis OM Node.js](https://github.com/redis/redis-om-node) - Makes it easy to model Redis data in your Node.js applications.
 - [lua-resty-redis](https://github.com/openresty/lua-resty-redis) - Lua redis client driver for the ngx_lua based on the cosocket API.
 - [Redis scripts do not expire keys atomically (2022)](https://ably.com/blog/redis-keys-do-not-expire-atomically) ([HN](https://news.ycombinator.com/item?id=30099572))
+- [Rump](https://github.com/stickermule/rump) - Hot sync two Redis servers using dumps.
+- [RedisTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries) - Redis Module adding a Time Series data structure to Redis.
+- [RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Data Structures for Redis.

@@ -66,3 +66,4 @@
 - [ViteKit](https://github.com/egoist/vitekit) - Remix and Vite had a baby.
 - [Remix Conf](https://remix.run/conf)
 - [Not Another Framework (2022)](https://remix.run/blog/not-another-framework) ([HN](https://news.ycombinator.com/item?id=30103775))
+- [Metronome](https://github.com/metronome-sh/metronome-sh) - Insights for Remix.

@@ -149,3 +149,5 @@
 - [sqlite-vfs](https://github.com/rkusa/sqlite-vfs) - Build SQLite virtual file systems (VFS) by implementing a simple Rust trait.
 - [SQLite Visual Query Builder](https://sql.etienne.tech/) - Help you write SQLite queries with a visual interface. ([Code](https://github.com/etienne-dldc/sqlite-visual-query-builder))
 - [One process programming notes (with Go and SQLite) (2018)](https://crawshaw.io/blog/one-process-programming-notes)
+- [sqlite_backup](https://github.com/seanbreckenridge/sqlite_backup) - Tool to snapshot sqlite databases you don't own.
+- [DBHub.io](https://dbhub.io/) - SQLite storage "in the cloud". ([Code](https://github.com/sqlitebrowser/dbhub.io))

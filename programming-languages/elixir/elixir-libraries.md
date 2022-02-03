@@ -35,6 +35,7 @@
 - [Params](https://github.com/vic/params) - Easily define parameter structure and validate/cast with Ecto.Schema.
 - [Postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 - [CubDB](https://github.com/lucaong/cubdb) - Embedded key-value database written in the Elixir language.
+- [Elixir driver for EdgeDB](https://github.com/nsidnev/edgedb-elixir)
 
 ## Test
 
@@ -121,6 +122,7 @@
 - [NimbleParsec](https://github.com/dashbitco/nimble_parsec) - Simple and fast library for text-based parser combinators.
 - [Elasticlunr](https://atandarash.me/blog/introduction-to-elasticlunr) - Full-text search library for Elixir. ([HN](https://news.ycombinator.com/item?id=29857712))
 - [Witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir.
+- [Domo](https://github.com/IvanRublev/Domo) - Library to validate values of nested structs with their type spec t() and associated precondition functions.
 
 ## Links
 

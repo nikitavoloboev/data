@@ -247,3 +247,5 @@
 - [Best resources to learn about data and distributed systems (2022)](https://pierrezemb.fr/posts/distsys-resources/)
 - [Lock-Free Locks Revisited (2022)](https://arxiv.org/abs/2201.00813) ([Lobsters](https://lobste.rs/s/tkvmgr/lock_free_locks_revisited)) ([HN](https://news.ycombinator.com/item?id=30096822))
 - [ljepsen](https://github.com/ligurio/ljepsen) - Framework for distributed system's verification, with fault injection.
+- [NATS.io](https://nats.io/) - Cloud Native, Open Source, High-performance Messaging. ([Code](https://github.com/nats-io/nats-server)) ([NATS 2.0 and Connectivity](https://www.youtube.com/watch?v=N0dtATLMy-M))
+- [RustDDS](https://github.com/jhelovuo/RustDDS) - Rust implementation of Data Distribution Service.

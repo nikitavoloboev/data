@@ -25,3 +25,4 @@
 - [Homebridge UniFi Protect](https://github.com/hjdhjd/homebridge-unifi-protect) - Complete HomeKit integration for UniFi Protect.
 - [HAP-rs](https://github.com/ewilken/hap-rs) - Rust implementation of the Apple HomeKit Accessory Protocol (HAP).
 - [Reflections on a Year with HomeKit (2021)](https://tidbits.com/2021/12/17/reflections-on-a-year-with-homekit/) ([HN](https://news.ycombinator.com/item?id=29707470))
+- [ESP Apple HomeKit ADK](https://github.com/espressif/esp-apple-homekit-adk)

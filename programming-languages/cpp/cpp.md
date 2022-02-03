@@ -294,3 +294,4 @@
 - [We used C++20 to eliminate an entire class of runtime bugs (2022)](https://devblogs.microsoft.com/cppblog/how-we-used-cpp20-to-eliminate-an-entire-class-of-runtime-bugs/) ([HN](https://news.ycombinator.com/item?id=29933865))
 - [The Danger of Atomic Operations](https://abseil.io/docs/cpp/atomic_danger)
 - [Const all the things? (2022)](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/) ([HN](https://news.ycombinator.com/item?id=30054059))
+- [A Tour of C++ - Reading Notes (2022)](https://ianyepan.github.io/posts/cpp-notes-pt1/)

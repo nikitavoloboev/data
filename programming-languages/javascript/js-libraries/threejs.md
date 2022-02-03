@@ -84,3 +84,5 @@
 - [use-p2](https://github.com/pmndrs/use-p2) - React hooks for p2-es. Use this in combination with react-three-fiber.
 - [Building a Vaporwave scene with Three.js (2022)](https://blog.maximeheckel.com/posts/vaporwave-3d-scene-with-threejs/)
 - [Point Text Helper](https://github.com/jniac/three-point-text-helper) - "Point Text" Helper for ThreeJS.
+- [three.interaction](https://github.com/jasonChen1982/three.interaction.js) - Three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
+- [lamina](https://github.com/pmndrs/lamina) - Extensible, layer based shader material for ThreeJS.

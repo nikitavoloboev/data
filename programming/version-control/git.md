@@ -479,3 +479,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [multi-gitter](https://github.com/lindell/multi-gitter) - CLI to update multiple repositories in bulk.
 - [Git Organized: A Better Git Flow (2022)](https://render.com/blog/git-organized-a-better-git-flow)
 - [Highlights from Git 2.35 (2022)](https://github.blog/2022-01-24-highlights-from-git-2-35/) ([HN](https://news.ycombinator.com/item?id=30068776))
+- [zig-git](https://github.com/nektro/zig-git) - Inspect into the depths of your .git folder purely from Zig.

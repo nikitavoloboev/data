@@ -274,3 +274,4 @@
 - [The Year in Physics (2021)](https://www.quantamagazine.org/the-year-in-physics-20211222/) ([Video](https://www.youtube.com/watch?v=FMM7GWnAv0A))
 - [The Origins Of Constants Of Motion (2019)](https://tilman.dev/blog/2019/03/the-origins-of-constants-of-motion-working-title)
 - [A delightful quirk of relativity theory (2022)](https://twitter.com/MarkusDeserno/status/1482811504424542211) ([HN](https://news.ycombinator.com/item?id=29977041))
+- [The Joule-Thomson Effect and The Models We Know (2021)](https://mattferraro.dev/posts/joule-thomson)

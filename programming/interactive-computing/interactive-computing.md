@@ -43,3 +43,4 @@
 - [unit](https://ioun.it/) - Next Generation Visual Programming Platform. ([Code](https://github.com/samuelmtimbo/unit))
 - [2021 Observable Community Recognition](https://observablehq.com/@observablehq/2021-observable-community-recognition)
 - [Götz Bachmann’s Ethnographic Research on Dynamicland (2022)](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)
+- [PyFlow](https://github.com/Bycelium/PyFlow) - Visual and modular block programming in Python. ([HN](https://news.ycombinator.com/item?id=30150018))

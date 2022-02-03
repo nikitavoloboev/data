@@ -106,3 +106,4 @@
 - [Raspberry Pi GPIO Pinout](https://pinout.xyz/) ([Code](https://github.com/Gadgetoid/Pinout.xyz))
 - [PySpectrometer](https://github.com/leswright1977/PySpectrometer) - Python (OpenCV and Tkinter) implementation of an optical spectrometer.
 - [Using 4G LTE wireless modems on a Raspberry Pi (2022)](https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi)
+- [rp2040js](https://github.com/wokwi/rp2040js) - Raspberry Pi Pico Emulator in JavaScript.

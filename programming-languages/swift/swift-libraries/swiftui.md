@@ -182,3 +182,5 @@
 - [Using Core Data With SwiftUI - An Introduction](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI)
 - [Peter Steinberger: Evolving Existing Projects With SwiftUI (2021)](https://www.youtube.com/watch?v=mchbpoC19cU&list=PLfCiO1zYKkAQ8jelBHLYqNd98dWoB7850&index=5)
 - [Completed Project for Cross Platform Image Filter SwiftUI macOS & iOS App](https://github.com/alfianlosari/ImageFilterSwiftUICompleted)
+- [Going native: SwiftUI from the perspective of a React developer (2020)](https://blog.maximeheckel.com/posts/swiftui-as-react-developer/)
+- [Beginners guide to view modifiers in SwiftUI (2020)](https://www.calincrist.com/blog/2020-05-02-beginners-guide-to-view-modifiers-swiftui/)

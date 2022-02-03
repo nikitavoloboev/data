@@ -333,3 +333,6 @@
 - [v objective diffusion inference code for PyTorch](https://github.com/crowsonkb/v-diffusion-pytorch)
 - [Texar-PyTorch](https://github.com/asyml/texar-pytorch) - Integrating the Best of TF into PyTorch, for Machine Learning, Natural Language Processing, and Text Generation.
 - [solo-learn](https://github.com/vturrisi/solo-learn) - Library of self-supervised methods for unsupervised visual representation learning powered by PyTorch Lightning.
+- [torch-max-mem](https://github.com/mberr/torch-max-mem) - Decorators for maximizing memory utilization with PyTorch & CUDA.
+- [PyTorch implementation of various Knowledge Distillation (KD) methods](https://github.com/AberHu/Knowledge-Distillation-Zoo)
+- [Padertorch](https://github.com/fgnt/padertorch) - Designed to simplify the training of deep learning models written with PyTorch. Focusing on speech and audio processing.

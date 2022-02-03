@@ -176,3 +176,4 @@
 - [Containers From Scratch • Liz Rice (2018)](https://www.youtube.com/watch?v=8fi7uSYlOdc) ([Sequel](https://www.youtube.com/watch?v=_TsSmSu57Zo))
 - [Sinker](https://github.com/plexsystems/sinker) - Tool to sync images from one container registry to another.
 - [Undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder.
+- [Speeding up LXC container pull by up to 3x (2022)](https://databricks.com/blog/2022/01/26/creating-a-faster-tar-extractor.html) ([HN](https://news.ycombinator.com/item?id=30166077))

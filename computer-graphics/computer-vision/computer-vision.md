@@ -542,3 +542,6 @@
 - [Single-Stage 6D Object Pose Estimation (2019)](https://arxiv.org/abs/1911.08324) ([Code](https://github.com/cvlab-epfl/single-stage-pose))
 - [Visual Task Adaptation Benchmark (VTAB)](https://github.com/google-research/task_adaptation)
 - [TAda! Temporally-Adaptive Convolutions for Video Understanding (2022)](https://tadaconv-iclr2022.github.io/) ([Code](https://github.com/alibaba-mmai-research/TAdaConv))
+- [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction (2021)](https://moechsle.github.io/unisurf/) ([Code](https://github.com/autonomousvision/unisurf))
+- [Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects (2020)](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html) ([Code](https://github.com/martinruenz/co-fusion))
+- [VRT: A Video Restoration Transformer (2021)](https://arxiv.org/abs/2201.12288) ([Code](https://github.com/JingyunLiang/VRT))

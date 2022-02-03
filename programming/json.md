@@ -100,3 +100,4 @@
 - [Analyzing large JSON files via partial JSON parsing (2022)](https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer. ([HN](https://news.ycombinator.com/item?id=29861043))
 - [json-tui](https://github.com/ArthurSonzogni/json-tui) - JSON terminal UI made in C++.
+- [yajsv](https://github.com/neilpa/yajsv) - Yet Another JSON Schema Validator CLI.

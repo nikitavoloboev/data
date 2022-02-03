@@ -102,3 +102,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [The Impending Cloud Reshuffle (2021)](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html) ([HN](https://news.ycombinator.com/item?id=29411566))
 - [We handle 80TB and 5M page views a month for under $400 (2022)](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/) ([HN](https://news.ycombinator.com/item?id=29816504))
 - [I got pwned by my cloud costs (2022)](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/) ([HN](https://news.ycombinator.com/item?id=30054739)) ([Reddit](https://www.reddit.com/r/programming/comments/sbhgup/how_i_got_pwned_by_my_cloud_costs/))
+- [Stratus Red Team](https://github.com/DataDog/stratus-red-team) - Granular, Actionable Adversary Emulation for the Cloud.

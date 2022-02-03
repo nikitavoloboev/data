@@ -180,3 +180,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Useful photography for beginners (2021)](https://tylercipriani.com/blog/2021/12/31/useful-photography-for-beginners/)
 - [Advise on how to 'recruit' models for portrait photography (2022)](https://www.reddit.com/r/photography/comments/s0pn4b/advise_me_how_to_recruit_models_for_portrait/)
 - [Artful Dodger](https://github.com/punchagan/artful-dodger) - Next.js site to host an art gallery using Google Spreadsheets and Google Drive as a backend.
+- [Useful constraints in your photography journey](https://www.reddit.com/r/photography/comments/sh1mbe/useful_constraints_in_your_photography_jurney/)

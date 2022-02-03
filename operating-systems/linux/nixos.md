@@ -48,6 +48,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Matthew Croughan](https://github.com/MatthewCroughan/nixcfg)
 - [fortune](https://github.com/fortuneteller2k/nix-config) - NixOS configuration spawned from madness (home-manager and system).
 - [Dov Alperin](https://github.com/DAlperin/dotfiles)
+- [May Niklas](https://github.com/MayNiklas/nixos)
 
 ## Nix configs (macOS)
 
@@ -187,3 +188,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [The Curse of NixOS (2022)](https://blog.wesleyac.com/posts/the-curse-of-nixos) ([HN](https://news.ycombinator.com/item?id=30057287)) ([Lobsters](https://lobste.rs/s/psfsfo/curse_nixos))
 - [How I set up a NixOS router with VPN and split routing (2021)](https://pavluk.org/blog/2021/01/26/nixos_router.html) ([Reddit](https://www.reddit.com/r/NixOS/comments/sdsznj/how_i_set_up_a_nixos_router_with_vpn_and_split/))
 - [Declarative container images with Nix](https://github.com/cloudwatt/nix-container-images) - Write container images as NixOS machines.
+- [Building a Philosophy Workstation with NixOS: Installing Firefox, VSCodium, and LaTeX (2022)](https://shen.hong.io/nixos-for-philosophy-installing-firefox-latex-vscodium/)

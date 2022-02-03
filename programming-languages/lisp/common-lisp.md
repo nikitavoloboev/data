@@ -85,3 +85,4 @@
 - [sb-simd](https://github.com/marcoheisig/sb-simd) - Convenient SIMD interface for SBCL.
 - [cl-mpi](https://github.com/marcoheisig/cl-mpi) - MPI bindings for Common Lisp with many useful extras.
 - [Building Setf (2022)](https://blog.veitheller.de/Building_Setf.html)
+- [Running Lisp in Production (2020)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) ([HN](https://news.ycombinator.com/item?id=30172641))

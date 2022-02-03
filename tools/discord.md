@@ -62,6 +62,7 @@
 - [discord-hero](https://github.com/discord-hero/discord-hero) - Powerful, modular and easy-to-use Discord Python bot framework. Batteries included.
 - [catnip](https://github.com/mewna/catnip) - Reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
 - [Solaire](https://github.com/wwselleck/solaire-discord) - Lightweight framework for creating discord bots.
+- [Discord.ts](https://github.com/oceanroleplay/discord.ts) - Create a discord bot with TypeScript and Decorators.
 
 ## Notes
 
@@ -107,3 +108,4 @@
 - [Top.gg](https://top.gg/) - The Best Discord Bots and Servers. ([Twitter](https://twitter.com/JoinTopgg))
 - [Discord Components](https://github.com/skyra-project/discord-components) - Discord message components to easily build and display fake Discord messages on your webpage.
 - [reacord](https://github.com/itsMapleLeaf/reacord) - Create interactive Discord messages using React.
+- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.

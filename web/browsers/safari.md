@@ -60,3 +60,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Userscripts Safari](https://github.com/quoid/userscripts) - Open-source userscript editor for Safari. ([Web](https://quoid.github.io/userscripts/))
 - [Stay](https://github.com/shenruisi/Stay/blob/main/README-EN.md) - Local userscript manager for Safari on iOS.
 - [Develop a Mac Safari Extension App in 2022](https://www.youtube.com/watch?v=E0qu0PHW8TU)
+- [Push Notifications, WebXR, and better PWA support coming to iOS (2022)](https://firt.dev/ios-15.4b)

@@ -160,6 +160,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [usePureCallback](https://github.com/artalar/usePureCallback) - useCallback done right.
 - [react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React.
 - [use-stream](https://github.com/ArthurClemens/use-stream) - React Hook for working with streams inside function components.
+- [use-clipboard-api](https://github.com/helderburato/use-clipboard-api) - React Hook that consumes Web Clipboard API.
 
 ## Code
 

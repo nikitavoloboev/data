@@ -177,3 +177,5 @@
 - [deno_graph](https://github.com/denoland/deno_graph) - Module graph logic for Deno CLI.
 - [Deno by Example](https://examples.deno.land/) ([Code](https://github.com/denoland/denobyexample))
 - [Deno in 2021](https://deno.com/blog/deno-in-2021) ([HN](https://news.ycombinator.com/item?id=30073786))
+- [ReScript Deno](https://github.com/cometkim/rescript-deno) - ReScript bindings to Deno APIs.
+- [dx](https://github.com/linux-china/dx) - Tool and task runner for writing better scripts with Deno.

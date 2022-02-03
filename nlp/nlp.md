@@ -467,3 +467,5 @@
 - [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [Machine Reading Comprehension: The Role of Contextualized Language Models and Beyond (2020)](https://arxiv.org/abs/2005.06249) ([Code](https://github.com/cooelf/AwesomeMRC))
 - [medspacy](https://github.com/medspacy/medspacy) - Library for clinical NLP with spaCy.
+- [Natural Language Processing with Transformers Book](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/) ([Code](https://github.com/nlp-with-transformers/notebooks))
+- [blurr](https://github.com/ohmeow/blurr) - Library that integrates huggingface transformers with the world of fastai, giving fastai devs everything they need to train, evaluate, and deploy transformer specific models.

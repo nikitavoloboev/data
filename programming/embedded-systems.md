@@ -163,3 +163,4 @@
 - [STLINK](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset.
 - [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot (2022)](https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb)
 - [embedded-trainings-2020](https://github.com/ferrous-systems/embedded-trainings-2020) - Beginner and advanced Embedded Rust workshops held by Ferrous Systems.
+- [knurling app template](https://github.com/knurling-rs/app-template) - Quickly set up a `probe-run` + `defmt` + `flip-link` embedded project.

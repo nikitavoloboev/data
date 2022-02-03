@@ -137,6 +137,7 @@
 - [PyTorch Pretrained GANs](https://github.com/lukemelas/pytorch-pretrained-gans) - StyleGAN2, BigGAN, BigBiGAN, SAGAN, SNGAN, SelfCondGAN, and more.
 - [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (2016)](https://arxiv.org/abs/1609.04802) ([Code](https://github.com/twtygqyy/pytorch-SRResNet))
 - [Alias-Free Generative Adversarial Networks (StyleGAN3)](https://nvlabs.github.io/stylegan3/) ([Code](https://github.com/NVlabs/stylegan3)) ([HN](https://news.ycombinator.com/item?id=28833213))
+- [StyleGAN3-Fun](https://github.com/un1tz3r0/stylegan3) - SOTA GANs are hard to train and to explore, and StyleGAN2/ADA/3 are no different.
 - [Taming Visually Guided Sound Generation (2021)](https://iashin.ai/SpecVQGAN) ([Code](https://github.com/v-iashin/SpecVQGAN))
 - [TecoGAN-PyTorch](https://github.com/skycrapers/TecoGAN-PyTorch) - PyTorch Reimplementation of TecoGAN: Temporally Coherent GAN for Video Super-Resolution.
 - [Chunked Autoregressive GAN (CARGAN)](https://github.com/descriptinc/cargan)
@@ -176,3 +177,4 @@
 - [Alias-Free Generative Adversarial Networks (2021)](https://arxiv.org/abs/2106.12423) ([Code](https://github.com/rosinality/alias-free-gan-pytorch))
 - [SberSwap](https://github.com/sberbank-ai/sber-swap)
 - [Explaining in Style: Training a GAN to explain a classifier in StyleSpace (2021)](https://arxiv.org/abs/2104.13369) ([Code](https://github.com/google/explaining-in-style))
+- [Scaling StyleGAN to Large Diverse Datasets](https://sites.google.com/view/stylegan-xl/) ([Code](https://github.com/autonomousvision/stylegan_xl))

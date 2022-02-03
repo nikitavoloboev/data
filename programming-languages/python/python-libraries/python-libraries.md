@@ -113,6 +113,7 @@
 - [shpyX](https://github.com/Apakottur/shpyx) - Configurable shell command execution in Python.
 - [survey](https://github.com/Exahilosys/survey) - Simple library for creating beautiful interactive prompts.
 - [Piou](https://github.com/Andarius/piou) - CLI tool to build beautiful command-line interfaces with type validation.
+- [progress](https://github.com/verigak/progress) - Easy progress reporting for Python.
 
 ## DB
 
@@ -177,6 +178,7 @@
 ## Math
 
 - [copt](https://github.com/openopt/copt) - Python library for mathematical optimization.
+- [GoodPoints](https://github.com/microsoft/goodpoints) - Python package for generating concise, high-quality summaries of a probability distribution.
 
 ## Test
 
@@ -663,6 +665,7 @@
 - [PipelineDP](https://github.com/OpenMined/PipelineDP) - Python framework for applying differentially private aggregations to large datasets using batch processing systems such as Apache Spark, Apache Beam, and more.
 - [Pooch](https://github.com/fatiando/pooch) - Friend to fetch your data files.
 - [Panflute](https://github.com/sergiocorreia/panflute) - Pythonic Pandoc Filters.
+- [Visions](https://github.com/dylan-profiler/visions) - User defined data type systems. ([HN](https://news.ycombinator.com/item?id=30163104))
 
 ## Links
 
@@ -727,4 +730,6 @@
 - [Python Type Hints - How to Handle Optional Imports (2021)](https://adamj.eu/tech/2021/12/29/python-type-hints-optional-imports/) ([HN](https://news.ycombinator.com/item?id=29803756))
 - [Problems with testing Python pre-releases and pip caching (2022)](https://sethmlarson.dev/blog/python-prereleases-and-pip-cache)
 - [karlicoss's python template](https://github.com/karlicoss/pymplate)
-- [Semantic Python Overview](https://github.com/pysemtec/semantic-python-overview) - Overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...).
+- [Semantic Python Overview](https://github.com/pysemtec/semantic-python-overview) - Overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...). ([HN](https://news.ycombinator.com/item?id=30166198))
+- [usort](https://github.com/facebookexperimental/usort) - Safe, minimal import sorting for Python projects.
+- [blacken-docs](https://github.com/asottile/blacken-docs) - Run `black` on python code blocks in documentation files.

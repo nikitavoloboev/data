@@ -60,7 +60,7 @@
 - [HOT Compilation course (2015)](https://www.cs.cmu.edu/~crary/hotc-f15/)
 - [Compiler Design course (2020)](https://courses.ccs.neu.edu/cs4410/)
 - [CMSC430: Introduction to Compilers (2017)](https://www.cs.umd.edu/class/fall2017/cmsc430/)
-- [Book about compiling Racket to x86-64 assembly](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
+- [Essentials of Compilation: Book about compiling Racket to x86-64 assembly](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 - [Principles of Compiler Design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/)
 - [Essentials of Interpretation (2019)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k) - Course on implementing an interpreter for a programming language similar to Python or JavaScript, from scratch.
 - [htcc](https://github.com/falgon/htcc) - Tiny C language compiler (x86-64).
@@ -184,7 +184,7 @@
 - [pyMLIR](https://github.com/spcl/pymlir) - Python Interface for the Multi-Level Intermediate Representation.
 - [An Incremental Approach to Compiler Construction (2006)](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf) ([HN](https://news.ycombinator.com/item?id=29123715))
 - [Learning C to x86 Translation: An Experiment in Neural Compilation (2021)](https://arxiv.org/abs/2108.07639) ([Code](https://github.com/jordiae/neural-compilers))
-- [Essentials of Compilation [book and video lectures] (2020)](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) ([HN](https://news.ycombinator.com/item?id=29295880))
+- [Essentials of Compilation [book and video lectures] (2020)](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/) ([HN](https://news.ycombinator.com/item?id=29295880)) ([Code](https://github.com/IUCompilerCourse/public-student-support-code))
 - [Staged Abstract Interpreters (2019)](https://www.cs.purdue.edu/homes/rompf/papers/wei-oopsla19.pdf)
 - [target-lexicon](https://github.com/bytecodealliance/target-lexicon) - Library for managing targets for compilers and related tools.
 - [cce](https://github.com/ethanhs/cce) - Compiler Explorer from CLI.

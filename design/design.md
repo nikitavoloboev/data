@@ -220,3 +220,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [James Dyson answers design questions from Twitter (2021)](https://www.youtube.com/watch?v=zFCFe38EIfE) ([HN](https://news.ycombinator.com/item?id=29564720))
 - [Noya](https://github.com/noya-app/noya) - Open interface design tool.
 - [How I Build (2021)](http://pketh.org/how-i-build.html) ([HN](https://news.ycombinator.com/item?id=29714510))
+- [Inclusive Design](https://www.nngroup.com/articles/inclusive-design/)

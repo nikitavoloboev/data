@@ -92,3 +92,4 @@
 - [My collection of CMake modules](https://github.com/rpavlik/cmake-modules)
 - [buildevents](https://github.com/honeycombio/buildevents) - Helper to generate Honeycomb traces from CI builds.
 - [Turtle](https://github.com/raviqqe/turtle-build) - Ninja build system clone in Rust.
+- [Rattle](https://github.com/ndmitchell/rattle) - Forward build system with speculation and caching.

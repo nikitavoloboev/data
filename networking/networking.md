@@ -392,3 +392,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Set up a practically free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889) ([HN](https://news.ycombinator.com/item?id=29947320))
 - [Reasons for servers to support IPv6 (2022)](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/) ([HN](https://news.ycombinator.com/item?id=30126434)) ([Lobsters](https://lobste.rs/s/5yhxm6/reasons_for_servers_support_ipv6))
 - [Things we (finally) know about network queues (2017)](https://apenwarr.ca/log/20170814)
+- [Zero-copy network transmission with io_uring (2021)](https://lwn.net/Articles/879724/) ([HN](https://news.ycombinator.com/item?id=30144652))

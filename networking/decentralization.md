@@ -37,7 +37,7 @@
 - [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)
 - [SAFE Network Primer](https://primer.safenetwork.org/) - Introductory guide to the world's first fully autonomous data and communications network.
 - [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
-- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network. ([Code](https://github.com/yggdrasil-network/yggdrasil-go)) ([HN](https://news.ycombinator.com/item?id=27577201))
+- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network. ([Code](https://github.com/yggdrasil-network/yggdrasil-go)) ([HN](https://news.ycombinator.com/item?id=27577201)) ([HN](https://news.ycombinator.com/item?id=30156551))
 - [AutoDapp](https://github.com/autodapp/autodapp) - Instantly decentralize your web app.
 - [Everest](https://everest.link/) - Universally shared projects registry. ([Projects](https://everest.link/projects/)) ([Code](https://github.com/graphprotocol/everest))
 - [Infura](https://infura.io/) - Ethereum & IPFS APIs. Develop now on Web 3.0.

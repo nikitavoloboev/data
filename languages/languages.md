@@ -64,3 +64,4 @@
 - [Wordle-solving state of the art: all optimality results so far (2022)](https://www.poirrier.ca/notes/wordle-optimal/) ([HN](https://news.ycombinator.com/item?id=30093313))
 - [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker.
 - [Finding optimal play in the game of wordle](https://github.com/alex1770/wordle)
+- [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) ([HN](https://news.ycombinator.com/item?id=30159713))

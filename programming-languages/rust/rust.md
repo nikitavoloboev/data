@@ -95,7 +95,7 @@
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
-- [C2Rust](https://github.com/immunant/c2rust) - Migrate C code to Rust. ([Web](https://c2rust.com/))
+- [C2Rust](https://github.com/immunant/c2rust) - Migrate C code to Rust. ([Web](https://c2rust.com/)) ([HN](https://news.ycombinator.com/item?id=30169263))
 - [cargo-play](https://github.com/fanzeyi/cargo-play) - Tool to help you running your Rust code file without manually setting up a Cargo project.
 - [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.
 - [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)
@@ -689,3 +689,4 @@
 - [Uninitialized Memory: Unsafe Rust is Too Hard (2022)](https://lucumr.pocoo.org/2022/1/30/unsafe-rust/) ([Lobsters](https://lobste.rs/s/bkjsde/uninitialized_memory_unsafe_rust_is_too)) ([HN](https://news.ycombinator.com/item?id=30135758)) ([Reddit](https://www.reddit.com/r/rust/comments/sg6pp5/uninitialized_memory_unsafe_rust_is_too_hard/))
 - [A look back at asynchronous Rust (2021)](https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c)
 - [Async Rust: Panics vs. Cancellation (2022)](https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/) ([HN](https://news.ycombinator.com/item?id=30114822))
+- [Triagebot](https://github.com/rust-lang/triagebot) - Triage and team assistance bot for the rust-lang organization.

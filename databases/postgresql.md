@@ -402,3 +402,4 @@
 - [PG-Strom](https://github.com/heterodb/pg-strom) - Extension for PostgreSQL database. Designed to accelerate mostly batch and analytics workloads with utilization of GPU and NVME-SSD.
 - [pgcapture](https://github.com/rueian/pgcapture) - Scalable Netflix DBLog implementation for PostgreSQL.
 - [Procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python. ([Docs](https://procrastinate.readthedocs.io/en/stable/index.html)) ([HN](https://news.ycombinator.com/item?id=30126152))
+- [Tern](https://github.com/jackc/tern) - Standalone migration tool for PostgreSQL.

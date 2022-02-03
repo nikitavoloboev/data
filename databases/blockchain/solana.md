@@ -209,3 +209,5 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Common Security Exploits on Solana](https://github.com/project-serum/sealevel-attacks)
 - [Venko](https://github.com/VenkoApp/venko) - Rails for real time finance on Solana.
 - [Solana Bootcamp Lectures](https://github.com/jarry-xiao/solana-bootcamp-lectures)
+- [solsim](https://github.com/cavaunpeu/solsim) - Solana complex systems simulator.
+- [Solana Pay](https://solanapay.com/) - New standard for decentralized payments. ([Code](https://github.com/solana-labs/solana-pay)) ([Article](https://solana.com/news/solana-pay-announcement)) ([HN](https://news.ycombinator.com/item?id=30166632))

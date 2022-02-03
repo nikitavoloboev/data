@@ -15,3 +15,4 @@
 - [Temporal Helm Chart](https://github.com/temporalio/helm-charts)
 - [Temporal Adventure Bot](https://github.com/JoshuaKGoldberg/temporal-adventure-bot) - Sample temporal.io application that posts a daily Discord or Slack message for interactive choose-your-own-adventure stories.
 - [Temporal Terraform Demo](https://github.com/dynajoe/temporal-terraform-demo)
+- [Temporal Python SDK](https://github.com/temporalio/sdk-python)

@@ -123,3 +123,4 @@
 - [rim](https://github.com/gaborcsardi/rim) - R Installation Manager.
 - [WebR](https://github.com/georgestagg/webR) - R in the Browser. Compile the statistical language R into WASM for use in a browser.
 - [R internals](https://github.com/hadley/r-internals) - Documentation for R's internal C API.
+- [startr](https://github.com/globeandmail/startr) - Template for data journalism in R.

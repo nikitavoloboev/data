@@ -71,6 +71,8 @@
 - [Obsidian Better Command Palette](https://github.com/AlexBieg/obsidian-better-command-palette)
 - [Map Of Content for Obsidian](https://github.com/Robin-Haupt-1/Obsidian-Map-of-Content) - Generate a Map of Content for your Obsidian vault.
 - [Obsidian Corkboard](https://github.com/jmilldotdev/obsidian-corkboard) - Visual canvas to work with your Obsidian notes.
+- [Obsidian Style Settings](https://github.com/mgmeyers/obsidian-style-settings) - Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables.
+- [Core Search Assistant](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - Obsidian plugin to enhance built-in search: keyboard interface, card preview, bigger preview.
 
 ## Themes
 

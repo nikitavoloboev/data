@@ -235,3 +235,4 @@ And these Discord servers:
 - [sumi.news](https://sumi.news/) - Peaceful news feed. Follow RSS, Twitter, newsletters, and more. No ads, no algorithm, no distractions. ([Code](https://github.com/tofukidco/sumi.news))
 - [The Syllabus](https://www.the-syllabus.com/) - Knowledge Curation Platform. We index, rank, and review tens of thousands of newly published pieces across text, audio, and video. ([Twitter](https://twitter.com/syllabus_tweets))
 - [Ask HN: Where are you going to find long-form content online these days? (2022)](https://news.ycombinator.com/item?id=30051782)
+- [Ask HN: Where do you hang out virtually online? (2022)](https://news.ycombinator.com/item?id=30149838)

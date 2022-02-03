@@ -27,3 +27,4 @@
 - [oak_nest](https://github.com/jiawei397/deno-oak-nest)
 - [Nest.js authentication with Passport. Real World example](https://github.com/leosuncin/nest-auth-example)
 - [Nest CQRS](https://github.com/nestjs/cqrs) - Lightweight CQRS module for Nest framework. ([Example](https://github.com/kamilmysliwiec/nest-cqrs-example))
+- [NestJS Google Cloud Pub/Sub Microservice Transport](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice)

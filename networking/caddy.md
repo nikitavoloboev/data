@@ -39,3 +39,5 @@
 - [caddy-watch](https://github.com/losfair/caddy-watch) - Watch for interesting patterns in Caddy logs and send a Telegram notification.
 - [caddy-jwt](https://github.com/ggicci/caddy-jwt) - Caddy Module JWT Authentication.
 - [HN: Caddy (2021)](https://news.ycombinator.com/item?id=29378030)
+- [Layer 4 (TCP/UDP) app for Caddy](https://github.com/mholt/caddy-l4)
+- [caddy-redirects](https://github.com/vinissimus/caddy-redirects) - Provides a middleware that redirects matching URL to another path.

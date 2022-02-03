@@ -89,6 +89,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [snazzybot](https://github.com/xencodes/snazzybot) - Get results across web right on Telegram.
 - [text-to-notion-bot](https://github.com/dartungar/text-to-notion-bot) - Simple self-hosted single-user telegram bot for sending text into Notion, using the official API.
 - [Lightning-sentinel](https://github.com/tee8z/lightning-sentinel) - Telegram bot written in rust that will monitor a lighting node over tor.
+- [BotFather](https://t.me/botfather) - Use it to create new bot accounts and manage your existing bots.
 
 ## Notes
 
@@ -169,3 +170,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Web App](https://github.com/evgeny-nadymov/telegram-react) - Based on the ReactJS JavaScript framework and TDLib (Telegram Database library) compiled to WebAssembly.
 - [TeleDrive](https://teledriveapp.com/) - Open source project of Google Drive/OneDrive/iCloud/Dropbox alternative using Telegram API for the free unlimited cloud storage. ([Code](https://github.com/mgilangjanuar/teledrive))
 - [GoTGProto](https://github.com/anonyindian/gotgproto) - Helper package for Go Telegram Client, i.e. gotd/td.
+- [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.

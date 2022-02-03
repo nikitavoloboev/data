@@ -358,7 +358,7 @@
 - [Functional in the wild: typeclasses](https://hugopeters.me/posts/12/)
 - [Getting acquainted with Lens (2020)](https://encodepanda.com/posts/2020-12-15-getting-acquainted-with-lens.html)
 - [Type-level sharing in Haskell, now (2021)](https://well-typed.com/blog/2021/12/type-level-sharing-now/) ([Reddit](https://www.reddit.com/r/haskell/comments/rieyxu/new_blog_post_typelevel_sharing_in_haskell_now/))
-- [Haskell Beginners 2022 Course](https://kodimensional.dev/course) ([Exercises](https://github.com/haskell-beginners-2022/exercises)) ([Plan](https://github.com/haskell-beginners-2022/course-plan)) ([Slides](https://slides.com/haskellbeginners2022/))
+- [Haskell Beginners 2022 Course](https://kodimensional.dev/course) ([Exercises](https://github.com/haskell-beginners-2022/exercises)) ([Plan](https://github.com/haskell-beginners-2022/course-plan)) ([Slides](https://slides.com/haskellbeginners2022/)) ([Videos](https://www.youtube.com/playlist?list=PLOJjn67NeYg9cWA4hyIWcxfaeX64pwo1c))
 - [Applying Type-Level and Generic Programming in Haskell (2018)](https://github.com/kosmikus/SSGEP)
 - [Embedding effect systems in Haskell (2014)](http://tomasp.net/academic/papers/haskell-effects/)
 - [Policeman](https://github.com/kowainik/policeman) - Haskell PVP adviser.
@@ -368,3 +368,7 @@
 - [Jupyter adaptation of Learn You a Haskell for Great Good](https://github.com/jamesdbrock/learn-you-a-haskell-notebook)
 - [Nix builds of Haskell Language Server](https://github.com/shajra/haskell-hls-nix)
 - [CS240H: Functional Systems in Haskell (2016)](https://www.scs.stanford.edu/16wi-cs240h/)
+- [Halive](https://github.com/lukexi/halive) - Live recompiler for Haskell.
+- [Software Development Languages: Haskell](https://www.fosskers.ca/en/blog/haskell-software-dev) ([HN](https://news.ycombinator.com/item?id=30152930))
+- [Introduction to Free Monads (2022)](https://serokell.io/blog/introduction-to-free-monads)
+- [What do we actually need to know to be fluent in Haskell? (2022)](https://www.reddit.com/r/haskell/comments/shrdk9/what_do_we_actually_need_to_know_to_be_fluent_in/)

@@ -211,3 +211,4 @@
 - [HTML Standard FAQ](https://github.com/whatwg/html/blob/main/FAQ.md)
 - [Div Divisiveness (2022)](https://www.scottohara.me/blog/2022/01/20/divisive.html) ([HN](https://news.ycombinator.com/item?id=30047311))
 - [Hibiki HTML](https://github.com/dashborg/hibiki) - Powerful new web framework for creating modern, dynamic, frontend applications without JavaScript, that can be fully scripted and controlled by backend code. ([HN](https://news.ycombinator.com/item?id=30103906))
+- [DOM is not slow. Misconception that the DOM is slow comes from misuse.](https://twitter.com/dannymoerkerke/status/1488528544909115392)

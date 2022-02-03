@@ -191,3 +191,4 @@
 - [Fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [Charon](https://github.com/piotrkowalczuk/charon) - Authorization and authentication service.
 - [Biscuit](https://www.biscuitsec.org/) - Authorization token with decentralized verification, offline attenuation and strong security policy enforcement based on a logic language. ([Code](https://github.com/biscuit-auth/biscuit)) ([Tweet](https://twitter.com/bascule/status/1481726834593173511))
+- [jwtex](https://github.com/aidansteele/jwtex) - Serverless application that takes JSON Web Tokens (JWTs) in one format and converts them to another format.

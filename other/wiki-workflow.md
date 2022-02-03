@@ -183,6 +183,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Brandon's Digital Garden](https://wiki.brandontoner.ca/)
 - [Param Singh's Notes](https://notes.param.codes/)
 - [Matous Dzivjak](https://wiki.dzx.cz/)
+- [Evan's Notes](https://peppyhare.github.io/r/) ([Code](https://github.com/PeppyHare/r))
 - [Allen Lee](https://www.haskell.computer/) ([Code](https://github.com/ale0sx/brains))
 - [Keyvan Akbary's Notes](https://keyvanakbary.github.io/learning-notes/) ([Code](https://github.com/keyvanakbary/learning-notes))
 - [Wojciech Matuszewski](https://github.com/WojciechMatuszewski/programming-notes)
@@ -434,3 +435,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [/tap](https://www.tatatap.com/) - Powerful and customizable note-taking system. ([HN](https://news.ycombinator.com/item?id=29663233))
 - [Zetten](https://github.com/hrvolapeter/zetten) - Note taking app - Firebase + SwiftUI.
 - [Ask HN: Why the Obsession with Note Taking? (2022)](https://news.ycombinator.com/item?id=30098219)
+- [Gains I'm seeing from my second brain tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html) ([HN](https://news.ycombinator.com/item?id=30151963))

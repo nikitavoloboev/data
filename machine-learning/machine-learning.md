@@ -663,3 +663,4 @@
 - [Cheat sheet for the "Deep Learning" course at ETH Zürich](https://github.com/andbloch/eth-dl-cheat-sheet)
 - [Convolutional Networks on Graphs for Learning Molecular Fingerprints (2015)](https://arxiv.org/abs/1509.09292) ([Code](https://github.com/HIPS/neural-fingerprint))
 - [Cheatsheet for the Advanced Machine Learning Lecture 2020, ETH Zurich](https://github.com/veroniquek/aml_cheatsheet/blob/main/cheatsheet.pdf)
+- [Tutorial on amortized optimization for learning to optimize over continuous domains (2022)](https://arxiv.org/abs/2202.00665) ([Code](https://github.com/facebookresearch/amortized-optimization-tutorial))

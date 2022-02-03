@@ -113,3 +113,5 @@
 - [Using lightweight formal methods to validate a key-value storage node in Amazon S3 (2021)](https://www.amazon.science/publications/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3)
 - [Less is more: multiparty session types revisited (2019)](https://dl.acm.org/doi/10.1145/3290343) ([Lobsters](https://lobste.rs/s/wjldtd/less_is_more_multiparty_session_types))
 - [Machine Readable Specifications at Scale (2022)](https://alastairreid.github.io/mrs-at-scale/) ([HN](https://news.ycombinator.com/item?id=30083908))
+- [CMU Program Analysis Course (2022)](https://cmu-program-analysis.github.io/2022/index.html) ([Code](https://github.com/CMU-program-analysis/CMU-program-analysis.github.io))
+- [MIT Formal Reasoning About Programs (2022)](https://frap.csail.mit.edu/main) ([Code](https://github.com/mit-frap/spring22))

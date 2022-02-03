@@ -21,7 +21,6 @@
 - [TDengine](https://github.com/taosdata/TDengine) - Open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [WebThings Gateway](https://github.com/mozilla-iot/gateway) - Web of Things gateway.
 - [Web of Things (WoT) Thing Description](https://w3c.github.io/wot-thing-description/) ([Code](https://github.com/w3c/wot-thing-description))
-- [NATS](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [Liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
 - [Arm Mbed OS](https://www.mbed.com/en/platform/mbed-os/) - Free, open-source embedded operating system designed specifically for the "things" in the Internet of Things.
 - [Edge Impulse](https://www.edgeimpulse.com/) - Enables developers to create the next generation of intelligent device solutions with embedded Machine Learning.

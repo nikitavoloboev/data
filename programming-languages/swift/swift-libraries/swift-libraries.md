@@ -222,6 +222,7 @@
 - [NetShears](https://github.com/divar-ir/NetShears) - iOS Network monitor/interceptor framework written in Swift.
 - [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS.
 - [JustTweak](https://github.com/justeat/JustTweak) - Feature flagging framework for iOS apps.
+- [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - Provide brief feedback about an operation through a message at the bottom of the screen.
 
 ## macOS
 
@@ -244,7 +245,7 @@
 ## Web
 
 - [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift.
-- [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.
+- [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework. ([GraphQL Vapor Template](https://github.com/alexsteinerde/vapor-graphql-template))
 - [Alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
 - [LeafKit](https://github.com/vapor/leaf-kit)
 - [TinyNetworking](https://github.com/objcio/tiny-networking) - Contains a tiny networking library. It provides a struct Endpoint, which combines a URL request and a way to parse responses for that request.
@@ -919,6 +920,10 @@
 - [AnyCodable](https://github.com/Flight-School/AnyCodable) - Type-erased wrappers for Encodable, Decodable, and Codable values.
 - [RealFlags](https://github.com/immobiliare/RealFlags) - Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig).
 - [Swift-DocC Plugin](https://github.com/apple/swift-docc-plugin) - Swift Package Manager command plugin for Swift-DocC.
+- [Composable Effect Identifier](https://github.com/tgrapperon/composable-effect-identifier) - Library that helps managing `Effect` identifiers when using "The Composable Architecture" (TCA).
+- [SwiftyDraw](https://github.com/Awalz/SwiftyDraw) - Simple, lightweight drawing framework written in Swift.
+- [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - Small library that adds concurrency to CoreBluetooth APIs.
+- [JXKit](https://github.com/jectivex/JXKit) - Pure swift interface to JavaScriptCore.
 
 ## Other (not lib)
 

@@ -224,6 +224,7 @@
 - [fakedata](https://github.com/fakedata-haskell/fakedata) - Haskell Library for producing quality fake data.
 - [rure](https://github.com/vmchale/rure) - Haskell bindings to Rust's regex library.
 - [heidi](https://github.com/ocramz/heidi) - Tidy data in Haskell.
+- [Clash Protocols](https://github.com/clash-lang/clash-protocols) - Battery-included library for writing on-chip protocols, such as AMBA AXI and Altera Avalon.
 
 ## Notes
 

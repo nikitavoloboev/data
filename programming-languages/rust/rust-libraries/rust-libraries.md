@@ -32,6 +32,7 @@
 - [ansi_colours](https://github.com/mina86/ansi_colours) - Rust, C and C++ library for converting between 24-bit sRGB colors and ANSI terminal 8-bit palette.
 - [Cursive](https://github.com/gyscos/cursive) - TUI (Text User Interface) library for rust.
 - [CtrlC](https://github.com/Detegr/rust-ctrlc) - Simple easy to use wrapper around Ctrl-C signal.
+- [expectrl](https://github.com/zhiburt/expectrl) - Library for automating and testing interactive applications.
 
 ## Web
 
@@ -79,7 +80,7 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx))
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi))
@@ -103,6 +104,7 @@
 - [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
 - [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
 - [Tower HTTP](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
+- [MatchIt](https://github.com/ibraheemdev/matchit) - Blazing fast URL router and path matcher for Rust.
 
 ## WASM
 
@@ -247,6 +249,7 @@
 
 - [Tetra](https://github.com/17cupsofcoffee/tetra) - Simple 2D game framework written in Rust.
 - [Emergent AI](https://github.com/PsichiX/emergent) - Toolset for producing emergent gameplay for games written in Rust.
+- [Renet](https://github.com/lucaspoffo/renet) - Collection of rust crates to create Server/Client networked games.
 
 ## Test
 
@@ -374,6 +377,7 @@
 ## Embedded
 
 - [volatile-register](https://github.com/japaric/volatile-register) - Volatile access to memory mapped hardware registers.
+- [stm32f7xx-hal](https://github.com/stm32-rs/stm32f7xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F7 family.
 
 ## ML
 
@@ -573,7 +577,6 @@
 - [nalgebra](https://github.com/rustsim/nalgebra) - Linear algebra library for Rust.
 - [envy](https://github.com/softprops/envy) - Deserialize env vars into typesafe structs with rust.
 - [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust.
-- [petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [Dataloader](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using futures.
 - [Specs](https://github.com/amethyst/specs) - Entity-Component System written in Rust.
 - [euclid](https://github.com/servo/euclid) - Small library for geometric types with a focus on 2d graphics and layout.
@@ -1360,6 +1363,10 @@
 - [Hound](https://github.com/ruuda/hound) - wav encoding and decoding library in Rust.
 - [async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types.
 - [async-trait-static](https://github.com/tiannian/async-trait-static) - Features like `async-trait`, avoid using `Box` and `dyn`.
+- [rust-fallible-iterator](https://github.com/sfackler/rust-fallible-iterator) - "Fallible" iterators for Rust.
+- [Leapfrog](https://github.com/robclu/leapfrog) - Lock-free concurrent and single-threaded hash map implementations using Leapfrog probing. Currently the highest performance concurrent HashMap in Rust.
+- [Counter](https://github.com/coriolinus/counter-rs) - Simple object to count Rust iterables.
+- [art](https://github.com/komora-io/art) - Adaptive Radix Trie implementation for fixed-length keys.
 
 ## Cargo Plugins
 
@@ -1413,6 +1420,7 @@
 - [cargo-strip](https://github.com/guedou/cargo-strip) - Cargo subcommand that reduces the size of Rust binaries using the strip command.
 - [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - cargo subcommand, that runs valgrind and collects its output in a helpful manner.
 - [cargo-license](https://github.com/onur/cargo-license) - Cargo subcommand to see license of dependencies.
+- [cargo-build-tree](https://github.com/Nemo157/cargo-build-tree)
 
 ## Links
 

@@ -320,6 +320,7 @@
 - [cocoyaxi](https://github.com/idealvin/cocoyaxi) - Go-style coroutine library in C++11 and more. ([Lobsters](https://lobste.rs/s/xx6to6/go_style_coroutine_library_c_11_from))
 - [ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - Fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
 - [Ratas](https://github.com/jsnell/ratas) - Hierarchical timer wheel, for implementing timed event queues.
+- [Vectorscan](https://github.com/VectorCamp/vectorscan) - Portable fork of the high-performance regular expression matching library.
 
 ## Links
 

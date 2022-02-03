@@ -19,3 +19,4 @@
 - [Introducing SSB Rooms 2 (2021)](https://www.youtube.com/watch?v=W5p0y_MWwDE) ([Tweet](https://twitter.com/andrestaltz/status/1399378477405646855))
 - [Go-SSB Room](https://github.com/ssb-ngi-pointer/go-ssb-room) - Room server implemented in Go.
 - [scratch](https://github.com/nanomonkey/scratch) - Production recipe sharing tool built on Secure Scuttlebutt as a decentralized database.
+- [Guide to developing with secure-scuttlebutt](https://github.com/nichoth/ssb-field-guide)

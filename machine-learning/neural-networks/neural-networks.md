@@ -267,3 +267,4 @@
 - [Noether’s Theorem, Symmetries, and Invariant Neural Networks](https://fabianfuchsml.github.io/noether/)
 - [CNNs and Equivariance - Part 1/2](https://fabianfuchsml.github.io/equivariance1of2/)
 - [Building a Neural Network in Pure Lisp without Built-in Numbers using only Atoms and Lists (2022)](https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.html)
+- [Neural Methods in Simulation-Based Inference (2022)](https://willwolf.io/2022/01/04/neural-methods-in-sbi/)

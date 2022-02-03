@@ -33,6 +33,7 @@
 - [PostgreSQL-OCaml](https://github.com/mmottl/postgresql-ocaml) - PostgreSQL Bindings for OCaml.
 - [postgres-protocol](https://github.com/anuragsoni/postgres-protocol) - IO independent postgres protocol implementation.
 - [chamelon](https://github.com/yomimono/chamelon) - Small, simple block-backed key-value store for MirageOS.
+- [ocaml_sql_query](https://github.com/yawaramin/ocaml_sql_query) - Functional-style SQLite queries for OCaml.
 
 ## Bindings
 
@@ -134,6 +135,7 @@
 - [Multicont](https://github.com/dhil/ocaml-multicont) - Continuations with multi-shot semantics in OCaml.
 - [ExtUnix](https://github.com/ygrek/extunix) - OCaml bindings to various low-level system APIs not covered by Unix module.
 - [ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - OCaml bindings for Apache Arrow using the C++ api.
+- [ocaml-in-python](https://github.com/thierry-martinez/ocaml-in-python) - Effortless Python bindings for OCaml modules.
 
 ## Links
 

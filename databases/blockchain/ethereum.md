@@ -455,3 +455,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Awesome Foundry](https://github.com/crisgarner/awesome-foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [Surya](https://github.com/ConsenSys/surya) - Utilities for exploring Solidity contracts.
 - [Caigo](https://github.com/dontpanicdao/caigo) - Go Library for StarkNet/Cairo.
+- [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
+- [Uniswap Arbitrage Analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis)
+- [synceth](https://github.com/withtally/synceth) - Smart contract development toolchain for Go.

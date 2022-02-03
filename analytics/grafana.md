@@ -9,3 +9,5 @@
 - [Grafana dashboards for efficient database monitoring](https://github.com/percona/grafana-dashboards)
 - [Grafyaml](https://pypi.org/project/grafyaml/) - Describe and configure Grafana dashboards with YAML.
 - [Grafana University](https://grafana.com/blog/2022/01/03/introducing-grafana-university-our-virtual-hands-on-education-platform-thats-free-and-easy-to-use/)
+- [JSON API Grafana Datasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend.
+- [Grafana HTTP API Client for Go](https://github.com/grafana/grafana-api-golang-client)

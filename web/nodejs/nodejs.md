@@ -313,3 +313,5 @@
 - [make-fetch-happen](https://github.com/npm/make-fetch-happen) - Making fetch happen for npm.
 - [nconf](https://github.com/indexzero/nconf) - Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.
 - [napi.zig](https://github.com/evanwashere/napi.zig) - Tiny and fast node-api bindings for zig.
+- [pprof support for Node.js](https://github.com/google/pprof-nodejs)
+- [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.

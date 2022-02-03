@@ -11,3 +11,4 @@
 - [Writing Fast Futhark Programs](https://futhark.readthedocs.io/en/latest/performance.html)
 - [futhark-manifest](https://github.com/diku-dk/futhark-manifest-haskell) - Haskell library for reading and writing Futhark manifest files.
 - [The past and present of Futhark (2021)](https://futhark-lang.org/blog/2021-12-19-past-and-present.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/rrdnm6/the_past_and_present_of_futhark/))
+- [Cost models are contracts (2022)](https://futhark-lang.org/blog/2022-01-27-cost-models-are-contracts.html)

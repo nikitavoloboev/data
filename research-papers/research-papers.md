@@ -156,3 +156,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Papers I read](https://github.com/shagunsodhani/papers-I-read)
 - [Sci Hub Injector](https://github.com/rickwierenga/sci-hub-injector) - Adds SciHub links to popular publisher websites. ([HN](https://news.ycombinator.com/item?id=29954046))
 - [tl;dr papers](https://www.tldrpapers.com/) - Science abstracts a second grader can understand.
+- [ar5iv](https://ar5iv.org/) - Articles from arXiv.org as responsive HTML5 web documents. ([Code](https://github.com/dginev/ar5iv))

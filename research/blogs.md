@@ -94,6 +94,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Wesley Aptekar-Cassels](https://blog.wesleyac.com/)
 - [Josh Haberman](https://blog.reverberate.org/)
 - [Jason Williams](https://jason-williams.co.uk/)
+- [Matt Ferraro](https://mattferraro.dev/)
 
 ## Notes
 

@@ -255,3 +255,4 @@
 - [pywasm3](https://github.com/wasm3/pywasm3) - Python bindings for Wasm3, the fastest WebAssembly interpreter.
 - [Prime Video Uses WebAssembly (2022)](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types) ([HN](https://news.ycombinator.com/item?id=30107540)) ([Reddit](https://www.reddit.com/r/rust/comments/seiyiy/amazon_prime_video_uses_wasm_and_egui_with_37000/)) ([Reddit](https://www.reddit.com/r/programming/comments/seezgq/how_prime_video_uses_webassembly/))
 - [zwld](https://github.com/Luukdegram/zwld) - Experimental wasm linker.
+- [Pay attention to WebAssembly (2022)](https://harshal.sheth.io/2022/01/31/webassembly.html) ([HN](https://news.ycombinator.com/item?id=30155295))

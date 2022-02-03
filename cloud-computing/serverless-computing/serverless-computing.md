@@ -140,3 +140,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [fastlike](https://github.com/avidal/fastlike) - Run Fastly Compute@Edge Wasm programs on your own computer, powered by wasmtime.
 - [ChiselStrike](https://www.chiselstrike.com/) - Automated Serverless Backends. ([GitHub](https://github.com/chiselstrike))
 - [Fly Edge](https://github.com/superfly/edge) - Set of useful libraries for Edge Apps. Run locally, write tests, and integrate it into your deployment process.
+- [Netlify Labs](https://github.com/netlify/labs) - Documentation and samples for Netlify Labs features.

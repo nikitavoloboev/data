@@ -694,3 +694,4 @@ if err != nil {
 - [Go binary size SVG treemap](https://github.com/nikolaydubina/go-binsize-treemap) - Make treemap breakdown of Go executable binary.
 - [TSC is being ported to Go (2022)](https://kdy1.dev/posts/2022/1/tsc-go) ([HN](https://news.ycombinator.com/item?id=30074414)) ([Reddit](https://www.reddit.com/r/golang/comments/sd5inj/tsc_is_being_ported_to_go/))
 - [Mocking outbound http requests in go: you’re (probably) doing it wrong (2021)](https://medium.com/zus-health/mocking-outbound-http-requests-in-go-youre-probably-doing-it-wrong-60373a38d2aa)
+- [Go Compiler Explorer](https://go.godbolt.org/)

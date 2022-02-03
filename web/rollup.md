@@ -17,3 +17,4 @@
 - [Rollpkg](https://github.com/rafgraph/rollpkg) - Zero-config build tool to create packages with Rollup and TypeScript.
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS.
 - [Rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible.
+- [rollup-plugin-swc](https://github.com/SukkaW/rollup-plugin-swc) - Use SWC with Rollup to transform ESNext and TypeScript code.

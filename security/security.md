@@ -249,3 +249,6 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [wholeaked](https://github.com/utkusen/wholeaked) - File-sharing tool that allows you to find the responsible person in case of a leakage.
 - [Perfect Blue's CTF Writeups](https://github.com/perfectblue/ctf-writeups)
 - [Awesome Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking)
+- [Splunk Security Content](https://github.com/splunk/security_content)
+- [Collection of macOS and iOS security resources.](https://github.com/kai5263499/osx-security-awesome)
+- [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)

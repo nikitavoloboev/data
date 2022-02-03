@@ -186,6 +186,7 @@
 - [WebAPI.jl](https://github.com/eliascarv/WebAPI.jl) - Abstraction of two Julia packages: HTTP.jl and JSON3.jl. These abstractions allow you to develop APIs in Julia in a simpler and more readable way.
 - [WebIO](https://github.com/JuliaGizmos/WebIO.jl) - Bridge between Julia and the Web.
 - [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) - Web-based GUIs for Julia.
+- [Hyperscript](https://github.com/JuliaWeb/Hyperscript.jl) - Package for working with HTML, SVG, and CSS in Julia.
 
 ## Test
 
@@ -205,6 +206,10 @@
 - [ErrorTypes](https://github.com/jakobnissen/ErrorTypes.jl) - Rust-like error types in Julia.
 - [InteractiveErrors.jl](https://github.com/MichaelHatherly/InteractiveErrors.jl) - Interactive error messages for the Julia REPL.
 - [Try.jl](https://github.com/tkf/Try.jl) - Zero-overhead and debuggable error handling.
+
+## WASM
+
+- [Wasmer.jl](https://github.com/Pangoraw/Wasmer.jl) - Julia wrapper around the wasmer runtime to run Web Assembly blobs and libraries from Julia.
 
 ## LaTeX
 
@@ -435,6 +440,8 @@
 - [LogicCircuits.jl](https://github.com/Juice-jl/LogicCircuits.jl) - Logic Circuits from the Juice library.
 - [Measurements.jl](https://github.com/JuliaPhysics/Measurements.jl) - Error propagation calculator and library for physical measurements.
 - [PartitionedArrays.jl](https://github.com/fverdugo/PartitionedArrays.jl) - Vectors and sparse matrices partitioned into pieces for parallel distributed-memory computations.
+- [ZMQ.jl](https://github.com/JuliaInterop/ZMQ.jl) - Julia interface to ZeroMQ.
+- [AWSS3](https://github.com/JuliaCloud/AWSS3.jl) - AWS S3 Simple Storage Service interface for Julia.
 
 ## Links
 
@@ -457,3 +464,4 @@
 - [Registrator](https://github.com/JuliaRegistries/Registrator.jl) - GitHub app that automates creation of registration pull requests for your julia packages to the General registry.
 - [General](https://github.com/JuliaRegistries/General) - Official registry of general Julia packages.
 - [Julia frameworks to create desktop GUIs and web apps (2022)](https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115) ([HN](https://news.ycombinator.com/item?id=29813194))
+- [LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl) - Create and maintain local registries for Julia packages.

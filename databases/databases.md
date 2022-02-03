@@ -193,6 +193,7 @@
 - [Google F1](https://dbdb.io/db/google-f1) - Distributed transactional database. Built on Google's Spanner so that it can reach strong consistency. ([Paper](https://research.google/pubs/pub41344/))
 - [Skate](https://github.com/charmbracelet/skate) - Personal key-value store. Use it to save and retrieve anything you’d like—even binary data.
 - [Hazelcast](https://github.com/hazelcast/hazelcast) - Distributed computation and storage platform for consistently low-latency querying, aggregation and stateful computation against event streams and traditional data sources. ([Web](https://hazelcast.com/))
+- [SimpleDB](https://github.com/awelm/simpledb) - Simple database built from scratch that has some of the basic RDBMS features like a SQL query parser, transactions, and a query optimizer. ([HN](https://news.ycombinator.com/item?id=30156048))
 
 ## Tools
 

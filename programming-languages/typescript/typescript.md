@@ -225,6 +225,8 @@
 - [The Type Hierarchy Tree (2021)](https://www.zhenghao.io/posts/type-hierarchy-tree)
 - [TS AutoFix](https://github.com/ian-craig/ts-autofix) - Automatically fix TS Errors when codefixes are available.
 - [esbuild-dev](https://github.com/gadget-inc/esbuild-dev) - Reloading dev server for server side TypeScript projects. Compiles TypeScript real fast.
+- [TypeScript Wiki](https://github.com/Microsoft/TypeScript/wiki) ([Code](https://github.com/microsoft/TypeScript-wiki))
+- [An introduction to type programming in TypeScript (2022)](https://www.zhenghao.io/posts/type-programming) ([HN](https://news.ycombinator.com/item?id=30173375))
 
 ## Images
 

@@ -64,3 +64,4 @@
 - [GCP Auth](https://github.com/hrvolapeter/gcp_auth) - Minimal authentication library for Google Cloud Platform (GCP) in Rust.
 - [Google Cloud API Client Libraries for Rust](https://github.com/googleapis/google-cloud-rust)
 - [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine/)
+- [Google Cloud Common: Node.js Client](https://github.com/googleapis/nodejs-common)

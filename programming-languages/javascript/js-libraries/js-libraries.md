@@ -755,6 +755,9 @@
 - [most](https://github.com/cujojs/most) - Ultra-high performance reactive programming.
 - [expandify](https://github.com/bharadwajduggaraju/expandify) - Simple express.js tool to evaluate expressions in HTML templates.
 - [remark-shiki](https://github.com/stefanprobst/remark-shiki) - Highlight code blocks in markdown with shiki.
+- [better-eval](https://github.com/bharadwajduggaraju/better-eval) - Alternative to 'eval' in JavaScript that is customizable and safer.
+- [resolve.exports](https://github.com/lukeed/resolve.exports) - Tiny (737b), correct, general-purpose, and configurable `"exports"` resolver without file-system reliance.
+- [Peggy](https://github.com/peggyjs/peggy) - Parser generator for JavaScript. ([Web](https://peggyjs.org/))
 
 ## Links
 
@@ -796,3 +799,6 @@
 - [Top 1000 most depended-upon npm packages](https://gist.github.com/anvaka/8e8fa57c7ee1350e3491)
 - [pkg-size](https://github.com/pkg-size/pkg-size) - Measure the size of your npm package distribution.
 - [NPM Packages - The Right way](https://github.com/VulcanJS/npm-the-right-way) - Demonstrate how to build NPM packages the right way.
+- [EsBuild Visualizer](https://github.com/btd/esbuild-visualizer) - Visualize and analyze your esbuild bundle to see which modules are taking up space.
+- [npmcli/template-oss](https://github.com/npm/template-oss) - Template package for npm CLI team development.
+- [Taze](https://github.com/antfu/taze) - Modern cli tool that keeps your deps fresh.

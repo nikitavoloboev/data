@@ -452,3 +452,5 @@
 - [systemd by example](https://systemd-by-example.com/) - Playground allows you to learn about systemd interactively, right from your browser. ([Article](https://seb.jambor.dev/posts/systemd-by-example-the-playground/))
 - [Linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Able to provide Internet, or create WiFi hotspot. Support transparent proxy (redsocks). Also useful for routing VM/containers.
 - [EDB](https://github.com/dylandreimerink/edb) - EBPF program debugger.
+- [Installing Every Arch Package (2022)](https://ta180m.exozy.me/posts/installing-every-arch-package/) ([HN](https://news.ycombinator.com/item?id=30160191))
+- [WebVM](https://webvm.io/) - Server-less virtual Linux environment running fully client-side in HTML5/WebAssembly. ([Code](https://github.com/leaningtech/webvm)) ([Article](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)) ([HN](https://news.ycombinator.com/item?id=30167403))
