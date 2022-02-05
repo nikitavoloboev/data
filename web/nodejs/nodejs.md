@@ -315,3 +315,4 @@
 - [napi.zig](https://github.com/evanwashere/napi.zig) - Tiny and fast node-api bindings for zig.
 - [pprof support for Node.js](https://github.com/google/pprof-nodejs)
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
+- [HN: Fetch API has landed into Node.js](https://news.ycombinator.com/item?id=30161626)

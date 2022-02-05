@@ -101,3 +101,4 @@
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer. ([HN](https://news.ycombinator.com/item?id=29861043))
 - [json-tui](https://github.com/ArthurSonzogni/json-tui) - JSON terminal UI made in C++.
 - [yajsv](https://github.com/neilpa/yajsv) - Yet Another JSON Schema Validator CLI.
+- [Learn jq with incremental exercises](https://github.com/andreamazza89/jq-exercises)

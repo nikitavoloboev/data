@@ -86,3 +86,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [FreeBSD 13.0 Base Jails With ZFS and VNET (2022)](https://randomnixfix.wordpress.com/2022/01/15/freebsd-13-0-base-jails-with-zfs-and-vnet/)
 - [BCHS](https://learnbchs.org/index.html) - OpenBSD, C, httpd and SQLite web stack. ([HN](https://news.ycombinator.com/item?id=29988951)) ([Web Code](https://github.com/kristapsdz/bchs))
 - [We're migrating many of our servers from Linux to FreeBSD (2022)](https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/) ([HN](https://news.ycombinator.com/item?id=30057549)) ([Lobsters](https://lobste.rs/s/xjixhw/why_we_re_migrating_many_our_servers_from))
+- [Books About FreeBSD (2022)](https://vermaden.wordpress.com/2022/02/04/books-about-freebsd/) ([Lobsters](https://lobste.rs/s/r1r6bu/books_about_freebsd))

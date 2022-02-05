@@ -251,6 +251,8 @@
 - [React Table Library](https://github.com/table-library/react-table-library)
 - [React Zorm](https://github.com/esamattis/react-zorm) - Type safe <form> for React using Zod.
 - [LYTS](https://github.com/christiankaindl/LYTS) - Layout primitives for React. ([Tweet](https://twitter.com/christiankaindl/status/1488596994763468808))
+- [Rough Notation React](https://github.com/linkstrifer/react-rough-notation)
+- [React Lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - React component that loads and views remote text in the browser lazily and efficiently.
 
 ## Links
 

@@ -40,3 +40,4 @@
 - [Why Euler’s Number Is Just the Best (2021)](https://www.quantamagazine.org/why-eulers-number-is-just-the-best-20211124/)
 - [What is the square root of two? | The Fundamental Theorem of Galois Theory (2021)](https://www.youtube.com/watch?v=CwvuZ8aHyH4) ([Tweet](https://twitter.com/Atrix256/status/1464321511821508609))
 - [Mathematicians clear hurdle in quest to decode primes (2022)](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/) ([HN](https://news.ycombinator.com/item?id=29929935))
+- [Mathematicians Prove 30-Year-Old André-Oort Conjecture (2022)](https://www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/) ([HN](https://news.ycombinator.com/item?id=30193236))

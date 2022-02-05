@@ -63,6 +63,7 @@
 - [catnip](https://github.com/mewna/catnip) - Reactive, fully-async Discord API wrapper for the JVM, built on RxJava 3.
 - [Solaire](https://github.com/wwselleck/solaire-discord) - Lightweight framework for creating discord bots.
 - [Discord.ts](https://github.com/oceanroleplay/discord.ts) - Create a discord bot with TypeScript and Decorators.
+- [discord-rs](https://github.com/SpaceManiac/discord-rs) - Rust library for the Discord chat client API.
 
 ## Notes
 

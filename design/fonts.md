@@ -234,7 +234,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [glyphhanger](https://github.com/filamentgroup/glyphhanger) - Web font utility belt. It can subset web fonts. It can show you what unicode-ranges are used on a web site (optionally per font-family.
 - [Web Fonts in 2021](https://leerob.io/blog/fonts)
 - [My favorite typefaces of 2020](https://ilovetypography.com/2021/01/12/my-favorite-fonts-of-2020/)
-- [I love Typography](https://ilovetypography.com/)
+- [I love Typography](https://ilovetypography.com/) ([Fonts](https://fonts.ilovetypography.com/)) ([Twitter](https://twitter.com/ilovetypography))
 - [VE Font Cache](https://github.com/hypernewbie/VEFontCache) - Single header-only GPU font rendering library designed for game engines.
 - [System Font CSS](https://github.com/jonathantneal/system-font-css) - Use the native system font of the OS running the browser. ([Web](https://jonneal.dev/system-font-css/))
 - [ab-glyph](https://github.com/alexheretic/ab-glyph) - Rust API for loading, scaling, positioning and rasterizing OpenType font glyphs.
@@ -315,3 +315,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [What if text was more expressive?](https://twitter.com/azlenelza/status/1486680833431797765)
 - [How to avoid layout shifts caused by web fonts (2021](https://simonhearne.com/2021/layout-shifts-webfonts/) ([HN](https://news.ycombinator.com/item?id=30129571))
 - [Type-X](https://github.com/arrowtype/type-x) - Test your fonts across the web by easily overriding fonts on any webpage.
+- [In defense of user-defined web fonts (2022)](https://nutcroft.com/blog/in-defense-of-user-defined-web-fonts/) ([HN](https://news.ycombinator.com/item?id=30162678))

@@ -40,3 +40,5 @@
 - [Grind tracking](https://github.com/prius/learning) - Leetcode solutions, contests and some other algorithm-related stuff.
 - [Competitive Programming Questions](https://github.com/neerazz/FAANG)
 - [USACO Guide](https://usaco.guide/) - Free collection of curated, high-quality resources to take you from Bronze to Platinum and beyond. ([Code](https://github.com/cpinitiative/usaco-guide))
+- [Competitive Programming with AlphaCode (2022)](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) ([HN](https://news.ycombinator.com/item?id=30179549))
+- [CodeContests](https://github.com/deepmind/code_contests) - Competitive programming dataset for machine-learning. This dataset was used when training AlphaCode.

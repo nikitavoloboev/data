@@ -68,3 +68,4 @@
 - [Agda-routing](https://github.com/MatthewDaggitt/agda-routing) - Agda library for reasoning about asynchronous iterative algorithms and network routing problems.
 - [Formalisation of a temporal type system in Agda](https://github.com/DimaSamoz/temporal-type-systems)
 - [agda-metric-reals](https://github.com/bobatkey/agda-metric-reals)
+- [Categorical semantics of functional type theory with explicit substitutions, formalized in Agda](https://github.com/elpinal/exsub-ccc)

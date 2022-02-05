@@ -612,3 +612,6 @@
 - [Resource Explorer](https://github.com/dpetzold/kube-resource-explorer) - Explore your kube resource usage and allocation.
 - [kube-storage-version-migrator](https://github.com/kubernetes-sigs/kube-storage-version-migrator) - Migrates stored data in etcd to the latest storage version.
 - [Atlas](https://greenops.io/atlas/) - Deployment pipeline platform built on Argo CD.
+- [CNCF App Delivery TAG](https://github.com/cncf/tag-app-delivery)
+- [kube-oidc-proxy](https://github.com/jetstack/kube-oidc-proxy) - Reverse proxy to authenticate to managed Kubernetes API servers via OIDC.
+- [A Primer: Accessing services in Kubernetes (2022)](https://blog.alexellis.io/primer-accessing-kubernetes-services/) ([HN](https://news.ycombinator.com/item?id=30220291))

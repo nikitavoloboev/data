@@ -454,3 +454,7 @@
 - [EDB](https://github.com/dylandreimerink/edb) - EBPF program debugger.
 - [Installing Every Arch Package (2022)](https://ta180m.exozy.me/posts/installing-every-arch-package/) ([HN](https://news.ycombinator.com/item?id=30160191))
 - [WebVM](https://webvm.io/) - Server-less virtual Linux environment running fully client-side in HTML5/WebAssembly. ([Code](https://github.com/leaningtech/webvm)) ([Article](https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/)) ([HN](https://news.ycombinator.com/item?id=30167403))
+- [archupd](https://github.com/c4rlo/archupd) - Arch Linux updater.
+- [bpfcov](https://github.com/elastic/bpfcov) - Source-code based coverage for eBPF programs actually running in the Linux kernel.
+- [The Beginner's Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+- [Missing Manuals - io_uring worker pool (2022)](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)

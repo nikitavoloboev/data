@@ -102,3 +102,5 @@
 - [vue-typegen](https://github.com/Akryum/vue-typegen) - Generate types for TypeScript Vue components libraries.
 - [VueJS Interview Questions](https://github.com/sudheerj/vuejs-interview-questions)
 - [Vue Components as Custom Elements (2021)](https://maximomussini.com/posts/vue-custom-elements/)
+- [Typed Router for Nuxt 3](https://github.com/victorgarciaesgi/nuxt-typed-router)
+- [Vurian Wizard](https://github.com/mayashavin/vurian-wizard) - Wizard Vue component on Vue 3 and state machine.

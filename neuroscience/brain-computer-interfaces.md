@@ -51,3 +51,4 @@
 - [Why brain-machine interfaces progress so slowly](https://notes.invertedpassion.com/Consciousness/Why+brain-machine+interfaces+progress+so+slowly)
 - [Dynamical Systems (in Neuro) Reading List](https://github.com/awillats/dynamics-in-neuro-reading-list) - Centered around the practical application of linear dynamical systems models to predict neural data.
 - [Open-Source board for converting RaspberryPI to Brain-computer interface](https://github.com/Ildaron/EEGwithRaspberryPI)
+- [A low-cost and shielding-free ultra-low-field brain MRI scanner (2021)](https://www.nature.com/articles/s41467-021-27317-1) ([HN](https://news.ycombinator.com/item?id=30208083))

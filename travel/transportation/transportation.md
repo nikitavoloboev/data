@@ -38,3 +38,4 @@
 - [The Future of E-Bikes (2021)](https://austinvernon.site/blog/ebikes.html)
 - [America's Aerospace Industry is Regenerating (2021)](https://austinvernon.site/blog/aerospacemetal.html)
 - [Air Travel Doesn't Have to be Terrible (2021)](https://austinvernon.site/blog/airtravel.html)
+- [Why are semi trucks in the US and Europe so different? (2018)](https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/) ([HN](https://news.ycombinator.com/item?id=30193469))

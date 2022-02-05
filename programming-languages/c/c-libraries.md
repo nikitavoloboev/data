@@ -11,6 +11,7 @@
 - [Libwebsockets](https://libwebsockets.org/) - C library for implementing modern network protocols. ([HN](https://news.ycombinator.com/item?id=28439447))
 - [PicoHTTPParser](https://github.com/h2o/picohttpparser) - Tiny, primitive, fast HTTP request/response parser.
 - [picoev](https://github.com/kazuho/picoev) - Tiny, lightning fast event loop for network applications.
+- [Onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications.
 
 ## GUI
 
@@ -116,3 +117,4 @@
 - [s_task](https://github.com/xhawk18/s_task) - Awaitable coroutine library for C.
 - [Trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside inerrupts) and real-time PC logging (trace ID visualization).
 - [Hatrack](https://github.com/viega/hatrack) - Collection of hash tables for parallel programming, including lock-free, wait-free tables.
+- [DeviceTree](https://github.com/hack-different/libapplefw) - Minimal code to deal with Apple's DeviceTree format.

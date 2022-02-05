@@ -516,3 +516,4 @@
 - [The Strength of the Record](https://docs.xtdb.com/concepts/strength-of-the-record/)
 - [Wikipedia and irregular data: how much can you fetch in one expression? (2022)](https://zverok.substack.com/p/wikipedia-and-irregular-data-how)
 - [HTSQL](https://www.htsql.org/) - Database Query Language. ([Lobsters](https://lobste.rs/s/45reoa/database_query_language_htsql))
+- [Organizational scalability and flexible database schemas (2022)](https://minimalmodeling.substack.com/p/organizational-scalability-and-flexible)

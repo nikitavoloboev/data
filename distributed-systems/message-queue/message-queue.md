@@ -24,3 +24,4 @@
 - [Plumber](https://github.com/batchcorp/plumber) - Swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.
 - [SimpleXMQ](https://github.com/simplex-chat/simplexmq) - Message broker for managing message queues and sending messages over public network.
 - [Apache ActiveMQ](https://activemq.apache.org/) - Popular open source, multi-protocol, Java-based message broker. ([Code](https://github.com/apache/activemq)) ([Docker](https://github.com/disaster37/activemq))
+- [Burlesque](https://github.com/KosyanMedia/burlesque) - Message queue server with HTTP interface.

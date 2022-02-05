@@ -11,6 +11,7 @@
 - [BatchLoader](https://github.com/exAspArk/batch-loader) - Powerful tool for avoiding N+1 DB or HTTP queries.
 - [GitHub::DS](https://github.com/github/github-ds) - Collection of Ruby libraries for working with SQL on top of ActiveRecord's connection.
 - [Extralite](https://github.com/digital-fabric/extralite) - Fast Ruby gem for working with SQLite3 databases. ([Article](https://noteflakes.com/articles/2021-12-15-extralite))
+- [MiniSql](https://github.com/discourse/mini_sql) - Minimal, fast, safe SQL executor.
 
 ## Web
 
@@ -48,3 +49,5 @@
 - [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries.
 - [Anyway Config](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications.
 - [Debugging Ruby Libraries (2021)](https://maximomussini.com/posts/debugging-ruby-libraries/)
+- [Writing Ruby gem native extensions in Rust (2022)](https://briankung.dev/2022/01/31/sneak-preview-writing-ruby-gem-native-extensions-in-rust/)
+- [Writing a Rust gem from scratch (2022)](https://briankung.dev/2022/02/02/writing-a-rust-gem-from-scratch/)

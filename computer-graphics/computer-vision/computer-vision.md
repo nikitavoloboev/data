@@ -545,3 +545,6 @@
 - [UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction (2021)](https://moechsle.github.io/unisurf/) ([Code](https://github.com/autonomousvision/unisurf))
 - [Co-Fusion: Real-time Segmentation, Tracking and Fusion of Multiple Objects (2020)](http://visual.cs.ucl.ac.uk/pubs/cofusion/index.html) ([Code](https://github.com/martinruenz/co-fusion))
 - [VRT: A Video Restoration Transformer (2021)](https://arxiv.org/abs/2201.12288) ([Code](https://github.com/JingyunLiang/VRT))
+- [Unknown Object Segmentation from Stereo Images (2021)](https://arxiv.org/abs/2103.06796) ([Code](https://github.com/DLR-RM/instr))
+- [Stacked Cross Attention for Image-Text Matching (2018)](https://arxiv.org/abs/1803.08024) ([Code](https://github.com/kuanghuei/SCAN))
+- [[2201.12086] BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation (2022)](https://arxiv.org/abs/2201.12086) ([Code](https://github.com/salesforce/BLIP))

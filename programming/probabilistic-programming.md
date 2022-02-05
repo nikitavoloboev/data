@@ -37,3 +37,4 @@
 - [Storm](https://github.com/moves-rwth/storm) - Modern Probabilistic Model Checker. ([Web](https://www.stormchecker.org/))
 - [Bean Machine](https://github.com/facebookresearch/beanmachine) - Probabilistic programming language for inference over statistical models written in the Python language using a declarative syntax.
 - [Probabilistic programming with continuations (2020)](https://julesh.com/2020/08/15/probabilistic-programming-with-continuations/)
+- [Probabilistic Programming Packages](https://github.com/theorashid/probabilistic-programming-packages)

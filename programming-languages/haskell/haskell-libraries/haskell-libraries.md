@@ -225,6 +225,8 @@
 - [rure](https://github.com/vmchale/rure) - Haskell bindings to Rust's regex library.
 - [heidi](https://github.com/ocramz/heidi) - Tidy data in Haskell.
 - [Clash Protocols](https://github.com/clash-lang/clash-protocols) - Battery-included library for writing on-chip protocols, such as AMBA AXI and Altera Avalon.
+- [range-set-list](https://github.com/phadej/range-set-list) - Memory efficient sets with continuous ranges of elements. List based implementation.
+- [generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products.
 
 ## Notes
 

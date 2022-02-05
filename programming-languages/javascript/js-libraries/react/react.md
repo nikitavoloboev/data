@@ -9,6 +9,7 @@
 - [Fakeflix](https://github.com/Th3Wall/Fakeflix) - Unofficial Netflix clone.
 - [UI port of Windows 11](https://github.com/SaltyAom/sun-valley)
 - [Design Editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js.
+- [Proton Mail Web clients](https://github.com/ProtonMail/WebClients)
 
 ## Templates
 

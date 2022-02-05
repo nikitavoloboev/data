@@ -134,3 +134,4 @@
 - [Favor real dependencies for unit testing (2022)](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) ([Lobsters](https://lobste.rs/s/2btkdu/favor_real_dependencies_for_unit_testing))
 - [Kent](https://github.com/willkg/kent) - Fake Sentry server for local development, debugging, and integration testing.
 - [Gonkey](https://github.com/lamoda/gonkey) - Testing automation tool. Can bomb the service with prepared requests and check the responses.
+- [Ten-year experience in DBMS testing (2022)](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea)

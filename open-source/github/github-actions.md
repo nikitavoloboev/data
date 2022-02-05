@@ -177,6 +177,7 @@
 - [GoReleaser Action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser.
 - [Go version action](https://github.com/arnested/go-version-action) - Action for using the latest released Go version and your projects minimal support Go version.
 - [Revive Action](https://github.com/morphy2k/revive-action) - Lint your Go code with Revive.
+- [goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Available as GitHub action.
 
 ## Rust
 

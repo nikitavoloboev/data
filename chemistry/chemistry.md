@@ -56,3 +56,4 @@
 - [Fermi](https://github.com/FermiQC/Fermi.jl) - Quantum chemistry program written in (nearly) pure Julia.
 - [Chemical Computing with Clojure](https://gigasquidsoftware.com/chemical-computing/index.html) ([Code](https://github.com/gigasquid/chemical-computing))
 - [Penny Codes (2022)](https://depth-first.com/articles/2022/01/12/penny-codes/)
+- [Chemfiles](https://github.com/chemfiles/chemfiles) - Library for reading and writing chemistry files. ([Web](https://chemfiles.org/))

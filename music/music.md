@@ -186,3 +186,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [What’s the best use of music in a tv show/movie (2022)](https://twitter.com/blairsmani/status/1482116881859424256)
 - [Tunefind](https://www.tunefind.com/) - Find Music From TV and Movies.
 - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds free music for you. ([Code](https://github.com/nukeop/nuclear))
+- [LiveBeats](https://livebeats.fly.dev/signin) - Listen to music together.
+- [Johnny Rodgers's listening](https://johnnyrodgers.is/listening)

@@ -290,3 +290,4 @@
 - [validate-operations](https://github.com/saihaj/validate-operations) - Validate GraphQL operations against a schema.
 - [Implement error handling in a GraphQL server using the power of GraphQL Union Types and Functional Programming](https://github.com/gthau/graphql-error-handling-with-union-and-fpts)
 - [GraphQL codegen schema to Zod schema](https://github.com/withshepherd/graphql-codegen-zod)
+- [GraphQL Code Generator plugin to generate form validation schema from your GraphQL schema](https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema)

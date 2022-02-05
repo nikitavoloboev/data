@@ -152,3 +152,4 @@
 - [Lecture notes for Chris Peikert's graduate-level Theory of Cryptography course](https://github.com/cpeikert/TheoryOfCryptography)
 - [An intensive introduction to cryptography](https://intensecrypto.org/public/index.html) ([Notes](https://github.com/boazbk/crypto))
 - [Casual code review of MetaMask’s crypto (2022)](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/) ([Lobsters](https://lobste.rs/s/9juhqi/extremely_casual_code_review_metamask_s))
+- [EasyCrypt](https://github.com/EasyCrypt/easycrypt) - Computer-Aided Cryptographic Proofs.

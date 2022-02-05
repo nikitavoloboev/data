@@ -964,3 +964,5 @@
 - [CloudKit Samples: Sharing](https://github.com/apple/cloudkit-sample-sharing)
 - [Microapps architecture in Swift. SPM basics. (2022)](https://swiftwithmajid.com/2022/01/12/microapps-architecture-in-swift-spm-basics/)
 - [nixSwiftPM](https://github.com/dduan/nixSwiftPM) - Helper for building SwiftPM projects in Nix.
+- [LicensePlist](https://github.com/mono0926/LicensePlist) - License list generator of all your dependencies for iOS applications.
+- [SwiftLintPlugin](https://github.com/stackotter/swift-lint-plugin) - SwiftPM plugin that adds a linting command.

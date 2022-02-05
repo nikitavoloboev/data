@@ -68,6 +68,7 @@
 - [zoltan](https://github.com/ranciere/zoltan) - Sol-inspired minimalist Lua binding for Zig. ([Article](https://zig.news/ranciere/zoltan-a-minimalist-lua-binding-4mp4))
 - [zzz](https://github.com/gruebite/zzz) - Simple and boring human readable data format for Zig.
 - [ctradix](https://github.com/Luukdegram/ctradix) - Comptime radix tree in Zig.
+- [protozig](https://github.com/kubkon/protozig) - Complete implementation of protobuf in Zig.
 
 ## Links
 

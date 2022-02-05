@@ -126,6 +126,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Marconio](https://github.com/brianmichel/Lace) - Simple NTS.live macOS application. Using Composable Architecture.
 - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - Helps in daily tasks like formatting JSON, comparing text, testing RegExp.
 - [Phoenix](https://github.com/kasper/phoenix) - Lightweight macOS/OS X window and app manager scriptable with JavaScript.
+- [Snip](https://snip.picta-hub.io/) - Lightweight snippets manager built with SwiftUI + Combine for macOS. ([Code](https://github.com/Pictarine/macos-snippets))
 
 ## Other interesting apps
 

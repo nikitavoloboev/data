@@ -32,3 +32,4 @@
 - [Good geopolitical podcasts or world news podcasts (2021)](https://www.reddit.com/r/geopolitics/comments/ploc8j/what_are_some_good_geopolitical_podcasts_or_world/)
 - [Why Science Can't Settle Political Disputes (2021)](https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/) ([HN](https://news.ycombinator.com/item?id=28693269))
 - [CEPA](https://cepa.org/) - Transatlantic Geopolitics.
+- [How the World Went from Post-Politics to Hyper-Politics (2022)](https://tribunemag.co.uk/2022/01/from-post-politics-to-hyper-politics) ([HN](https://news.ycombinator.com/item?id=30203429))

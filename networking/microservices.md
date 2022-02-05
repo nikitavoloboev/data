@@ -97,3 +97,4 @@
 - [Mockintosh](https://github.com/up9inc/mockintosh) - Mocks for microservice environments.
 - [Layotto](https://github.com/mosn/layotto) - Fast and efficient cloud native application runtime. ([Docs](https://mosn.io/layotto/#/))
 - [The truth about starting with microservices (2022)](https://arnoldgalovics.com/truth-about-microservices/)
+- [Periskop](https://github.com/periskop-dev/periskop) - Pull based, language agnostic exception aggregator for microservice environments.

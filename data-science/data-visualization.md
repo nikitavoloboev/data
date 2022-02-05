@@ -136,3 +136,5 @@
 - [Constellation](https://github.com/constellation-app/constellation) - Graph-focused data visualisation and interactive analysis application. ([Web](https://www.constellation-app.com/))
 - [Handbook of Graph Drawing and Visualization (2013)](https://cs.brown.edu/people/rtamassi/gdhandbook/) ([HN](https://news.ycombinator.com/item?id=29734063))
 - [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html) - Data visualization curriculum of interactive notebooks, using Vega-Lite and Altair. ([Code](https://github.com/uwdata/visualization-curriculum))
+- [Lumen](https://github.com/holoviz/lumen) - Framework for visual analytics, which allows users to build data-driven dashboards from a simple yaml specification.
+- [Datawrapper](https://www.datawrapper.de/) - Create charts, maps, and tables. ([HN](https://news.ycombinator.com/item?id=30218793))

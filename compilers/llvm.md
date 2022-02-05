@@ -102,3 +102,4 @@
 - [llvm-sys.rs](https://github.com/tari/llvm-sys.rs) - Rust bindings to LLVM's C API.
 - [Crellvm](https://github.com/snu-sf/crellvm) - Verified Credible Compilation for LLVM.
 - [llvm-c-search](https://github.com/alt-romes/llvm-c-search) - Terminal interface to search the LLVM-C API.
+- [Instrew](https://github.com/aengelke/instrew) - High performance LLVM-based dynamic binary instrumentation framework.

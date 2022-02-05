@@ -458,3 +458,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
 - [Uniswap Arbitrage Analysis](https://github.com/ccyanxyz/uniswap-arbitrage-analysis)
 - [synceth](https://github.com/withtally/synceth) - Smart contract development toolchain for Go.
+- [Marmite](https://github.com/primitivefinance/hardhat-marmite) - Hassle-free Hardhat plugin to compare gas cost among different Solidity code snippets.
+- [Forge Standard Library](https://github.com/brockelmore/forge-std) - Collection of helpful contracts for use with forge and foundry.

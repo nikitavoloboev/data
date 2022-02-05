@@ -168,6 +168,7 @@ And these Discord servers:
 - [Eurozine](https://www.eurozine.com/) - Europe's leading cultural journals at your fingertips.
 - [Al Jazeera](https://www.aljazeera.com/) - Breaking News, World News and Video.
 - [Carnegie Endowment for International Peace](https://carnegieendowment.org/)
+- [i-D](https://i-d.vice.com/en_uk)
 
 ### Other
 

@@ -666,6 +666,8 @@
 - [Pooch](https://github.com/fatiando/pooch) - Friend to fetch your data files.
 - [Panflute](https://github.com/sergiocorreia/panflute) - Pythonic Pandoc Filters.
 - [Visions](https://github.com/dylan-profiler/visions) - User defined data type systems. ([HN](https://news.ycombinator.com/item?id=30163104))
+- [Loky](https://github.com/joblib/loky) - Reusable Process Pool Executor.
+- [python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 
 ## Links
 
@@ -733,3 +735,4 @@
 - [Semantic Python Overview](https://github.com/pysemtec/semantic-python-overview) - Overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...). ([HN](https://news.ycombinator.com/item?id=30166198))
 - [usort](https://github.com/facebookexperimental/usort) - Safe, minimal import sorting for Python projects.
 - [blacken-docs](https://github.com/asottile/blacken-docs) - Run `black` on python code blocks in documentation files.
+- [Conda-Pack](https://github.com/conda/conda-pack) - Package conda environments for redistribution.

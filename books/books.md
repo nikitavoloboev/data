@@ -281,6 +281,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Best fiction books that are just beautifully written?](https://www.reddit.com/r/suggestmeabook/comments/s1muym/best_fiction_books_that_are_just_really/)
 - [Recommended books organized by country](https://fivebooks.com/category/world/)
 - [What is the most emotionally devastating book you’ve ever read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/)
+- [Programming book list](http://danluu.com/programming-books/)
+- [Johnny Rodgers's reading list](https://johnnyrodgers.is/reading)
 
 ## Interesting Prose Books
 

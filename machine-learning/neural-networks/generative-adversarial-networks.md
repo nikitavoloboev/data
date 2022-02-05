@@ -178,3 +178,4 @@
 - [SberSwap](https://github.com/sberbank-ai/sber-swap)
 - [Explaining in Style: Training a GAN to explain a classifier in StyleSpace (2021)](https://arxiv.org/abs/2104.13369) ([Code](https://github.com/google/explaining-in-style))
 - [Scaling StyleGAN to Large Diverse Datasets](https://sites.google.com/view/stylegan-xl/) ([Code](https://github.com/autonomousvision/stylegan_xl))
+- [Fast and accurate learned multiresolution dynamical downscaling for precipitation (2021)](https://arxiv.org/abs/2101.06813) ([Code](https://github.com/lzhengchun/DSGAN))

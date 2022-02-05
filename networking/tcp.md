@@ -64,4 +64,5 @@
 - [tun2proxy](https://github.com/blechschmidt/tun2proxy) - Tunnel TCP traffic through SOCKS5 or HTTP using a TUN interface.
 - [smoltcp-nal](https://github.com/quartiq/smoltcp-nal) - embedded-nal implementation for smoltcp. Implementation of a TCP- and UDP-capable network stack that can be used for any library that leverages the embedded-nal.
 - [Phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
-- [tcplife: TCP Lifespans](https://www.brendangregg.com/blog/2016-11-30/linux-bcc-tcplife.html)
+- [Linux bcc/BPF tcplife: TCP Lifespans](https://www.brendangregg.com/blog/2016-11-30/linux-bcc-tcplife.html) ([HN](https://news.ycombinator.com/item?id=30171712))
+- [brink](https://github.com/jsiebens/brink) - Lightweight Identity-Aware Proxy (IAP) for TCP forwarding.

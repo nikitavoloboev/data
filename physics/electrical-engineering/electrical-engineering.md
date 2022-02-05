@@ -91,3 +91,6 @@
 - [Water circuit analogy to electric circuit](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/watcir.html) ([HN](https://news.ycombinator.com/item?id=30059578))
 - [Circuit Simulator Applet](https://falstad.com/circuit/) ([HN](https://news.ycombinator.com/item?id=30062433))
 - [Controlling RGB LEDs with only powerlines: Anatomy of a Christmas light string (2022)](https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/) ([HN](https://news.ycombinator.com/item?id=30128379))
+- [A home made PCB stepper motor (2021)](https://kevinlynagh.com/pcb-stepper/)
+- [How should net metering affect your electric bill? (2022)](https://climateer.substack.com/p/price-lies) ([HN](https://news.ycombinator.com/item?id=30193521))
+- [Reso](https://github.com/lynnpepin/reso) - Visual circuits programming language using pixels. ([HN](https://news.ycombinator.com/item?id=30193997))

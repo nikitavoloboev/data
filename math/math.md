@@ -334,3 +334,5 @@
 - [A high-dimensional sphere spilling out of a high-dimensional cube (2022)](https://stanislavfort.github.io/blog/sphere-spilling-out/) ([HN](https://news.ycombinator.com/item?id=29968702))
 - [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics) ([HN](https://news.ycombinator.com/item?id=30144805))
 - [Математичный список полезных книг](https://github.com/uburuntu/awesome-math-ru)
+- [Solving some formal math olympiad problems (2022)](https://openai.com/blog/formal-math/) ([HN](https://news.ycombinator.com/item?id=30181636))
+- [Why isn't there a replication crisis in math? (2022)](https://jaydaigle.net/blog/replication-crisis-math/) ([HN](https://news.ycombinator.com/item?id=30181696))

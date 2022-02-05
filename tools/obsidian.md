@@ -73,6 +73,7 @@
 - [Obsidian Corkboard](https://github.com/jmilldotdev/obsidian-corkboard) - Visual canvas to work with your Obsidian notes.
 - [Obsidian Style Settings](https://github.com/mgmeyers/obsidian-style-settings) - Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables.
 - [Core Search Assistant](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - Obsidian plugin to enhance built-in search: keyboard interface, card preview, bigger preview.
+- [Timelines](https://github.com/Darakah/obsidian-timelines) - Generate a chronological timeline of all notes with the specified set of tags.
 
 ## Themes
 
@@ -108,3 +109,5 @@
 - [Obsidian API](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [Obsidian Chrome Clipper](https://github.com/jplattel/obsidian-clipper) - Chrome extension that easily clips selections to Obsidian.
 - [Obsidian Shortcut Launcher, A Free Plugin to Trigger Shortcuts from Obsidian](https://www.macstories.net/stories/obsidian-shortcut-launcher/)
+- [Scriptable widget for Obsidian journal tasks (2021)](https://mostlymaths.net/2021/12/scriptable-obsidian-widget.html/)
+- [Snippetor](https://github.com/ebullient/obsidian-snippetor) - Assist for creating CSS snippets for Obsidian.

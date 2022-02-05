@@ -116,3 +116,4 @@
 - [Multinomials](https://github.com/math-comp/multinomials) - Multivariate polynomial Library for the Mathematical Components Library.
 - [Efficient Extensional Binary Tries (2021)](https://hal.inria.fr/hal-03372247) ([Code](https://github.com/xavierleroy/canonical-binary-tries))
 - [UniCoq](https://github.com/unicoq/unicoq) - Enhanced unification algorithm for Coq.
+- [Phase Semantics](https://github.com/ppedrot/ll-coq) - Some Coq formalizations of Linear Logic.

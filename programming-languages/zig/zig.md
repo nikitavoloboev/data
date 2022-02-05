@@ -93,3 +93,4 @@
 - [Zig Strings in 5 minutes](https://www.huy.rocks/everyday/01-04-2022-zig-strings-in-5-minutes) ([Lobsters](https://lobste.rs/s/nimeia/zig_strings_5_minutes))
 - [Failing to Learn Zig via Advent of Code (2022)](https://www.forrestthewoods.com/blog/failing-to-learn-zig-via-advent-of-code/) ([HN](https://news.ycombinator.com/item?id=29965239)) ([Lobsters](https://lobste.rs/s/or1fr4/failing_learn_zig_via_advent_code))
 - [Let's build an Entity Component System from scratch in Zig (2022)](https://devlog.hexops.com/2022/lets-build-ecs-part-1)
+- [Using Zig to Build Native Lua Scripts (2022)](https://cone.codes/posts/using-zig-to-build-native-lua-scripts/)

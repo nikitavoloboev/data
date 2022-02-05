@@ -135,3 +135,5 @@
 - [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ([HN](https://news.ycombinator.com/item?id=30099347))
 - [Robotics 101: Computational Linear Algebra](https://github.com/michiganrobotics/rob101)
 - [Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots](https://evolutiongym.github.io/) ([Code](https://github.com/EvolutionGym/evogym))
+- [Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping (2020)](https://arxiv.org/abs/1910.02490) ([Code](https://github.com/MIT-SPARK/Kimera-VIO))
+- [Probabilistic Robotics (2005)](https://mitpress.mit.edu/books/probabilistic-robotics) - Introduction to the techniques and algorithms of the newest field in robotics. ([Code](https://github.com/pptacher/probabilistic_robotics))

@@ -46,3 +46,4 @@
 - [Electron is very broken way of building cross platform apps (2021)](https://twitter.com/rsms/status/1457946661032849413)
 - [electron-log](https://github.com/megahertz/electron-log) - Simple logging module for your Electron application.
 - [astilectron](https://github.com/asticode/astilectron) - Electron app that provides an API over a TCP socket that allows executing Electron's method as well as capturing Electron's events.
+- [Yerba](https://github.com/TheoBr/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more.

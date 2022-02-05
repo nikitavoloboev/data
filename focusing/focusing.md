@@ -43,6 +43,7 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [One thing that’s really helped me is removing the words like “lazy” or “procrastinating” from my vocabulary. I am never “lazy.” I need rest, I get tired, I may not enjoy what I’m doing, I am a human with complex needs and if I don’t want to do something, I can genuinely ask why.](https://twitter.com/sehurlburt/status/1450648082685779969)
 - [Do things with proper and specific intention. By setting the intention it’ll prime your automatic processes to be more selective to observe data related/in support of that intention.](https://twitter.com/vaisfourlovers/status/1450929596438810631)
 - [Humans have a few emotional needs in order to reach deep focus: 1. We need to not be distracted and we need to feel certainty that we will not be distracted. Before we are comfortable untaking the work to architect a giant mental castle, we need to feel confident that someone won't come around to kick it down. 2. At a more primitive, simian level, we need to feel that we're in a safe environment. It's hard to focus on code if you're worried that a tree is going to fall on you or a lion will drag you off into the jungle.](https://news.ycombinator.com/item?id=29028505)
+- [Energy management is so much more important than time management. what gives you energy, and what drains you? Make sure you have enough energy for the important things.](https://twitter.com/triketora/status/1489713975864528899)
 
 ## Links
 

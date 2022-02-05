@@ -303,6 +303,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TS Expect](https://github.com/TypeStrong/ts-expect) - Checks values in TypeScript match expectations.
 - [observable-fns](https://github.com/andywer/observable-fns) - Light-weight observable implementation and functional utilities in TypeScript.
 - [Colormath.js](https://github.com/scientific-dev/colormath.js) - Color conversion and color manipulation library written in typescript for Node.js, Deno and Browser.
+- [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - Simplex noise implementation in JavaScript/TypeScript.
 
 ## Links
 
@@ -339,3 +340,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [unpkg origin server](https://github.com/unpkg/origin)
 - [eszip](https://github.com/denoland/eszip) - Utility that can download JavaScript and TypeScript module graphs and store them locally in a special zip file.
 - [syncpack](https://github.com/JamieMason/syncpack) - Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces.
+- [TypeScript Internal Types](https://github.com/nonara/ts-expose-internals) - Expose TypeScript internal types by simply adding a development dependency.
+- [TS Creator](https://github.com/HearTao/ts-creator) - Code generator to generate TypeScript code generator from TypeScript code.

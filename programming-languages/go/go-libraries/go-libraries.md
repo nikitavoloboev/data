@@ -25,6 +25,7 @@
 - [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 - [Spinner](https://github.com/briandowns/spinner) - Simple package to add a spinner / progress indicator to any terminal application.
 - [Viper](https://github.com/spf13/viper) - Go configuration with fangs.
+- [Coral](https://github.com/muesli/coral) - Friendly Cobra fork with nearly all its features, but only 4 dependencies. ([Reddit](https://www.reddit.com/r/golang/comments/sj4bwx/coral_a_friendly_cobra_fork_with_nearly_all_its/)) ([HN](https://news.ycombinator.com/item?id=30186692))
 - [Echelon](https://github.com/cirruslabs/echelon) - Hierarchical progress in terminals.
 - [go-glint](https://github.com/mitchellh/go-glint) - Component-based UI framework specifically targeted towards command-line interfaces.
 - [PTerm](https://github.com/pterm/pterm) - Modern go module to beautify console output. ([Reddit](https://www.reddit.com/r/golang/comments/q82dyc/pterm_a_go_module_to_beautify_console_output/))
@@ -105,6 +106,7 @@
 - [fzgen](https://github.com/thepudds/fzgen) - Auto-gen fuzzing wrappers from normal code. Finds buggy call sequences, including data races & deadlocks. Supports rich signature types.
 - [dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image.
 - [Loverage](https://github.com/kovetskiy/loverage) - Let your tests describe your program behavior.
+- [chameleon](https://github.com/nickpresta/chameleon) - Caching reverse proxy for testing written in Go.
 
 ## Web
 
@@ -392,6 +394,7 @@
 - [go-astilectron](https://github.com/asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron).
 - [go-sciter](https://github.com/sciter-sdk/go-sciter) - Go bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development.
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library.
+- [twodeeparticles](https://github.com/blizzy78/twodeeparticles) - Engine-agnostic 2D particle system simulator for Go.
 
 ## GUI
 
@@ -410,6 +413,7 @@
 ## Math
 
 - [linalg](https://github.com/Jacalz/linalg) - Fast and easy-to-use package for Linear Algebra calculations with matrices and vectors.
+- [Nune](https://github.com/lordlarker/nune) - High-performance numerical engine based on generic tensors.
 
 ## Docker
 
@@ -1268,6 +1272,8 @@
 - [shortuuid](https://github.com/lithammer/shortuuid) - Go library that generates concise, unambiguous, URL-safe UUIDs.
 - [jsonschema](https://github.com/santhosh-tekuri/jsonschema) - json-schema compilation and validation.
 - [spew](https://github.com/spewerspew/spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
+- [crunch](https://github.com/superwhiskers/crunch) - Library for easily manipulating bits and bytes in Go.
+- [teivah/onecontext](https://github.com/teivah/onecontext) - Set of Go context's utilities.
 
 ## Links
 
@@ -1314,3 +1320,4 @@
 - [Sage](https://github.com/einride/sage) - Make-like build tool for Go projects.
 - [gocovsh](https://github.com/orlangure/gocovsh) - CLI viewer of Go test coverage reports.
 - [GoWrap](https://github.com/hexdigest/gowrap) - Command line tool that generates decorators for Go interface types using simple templates.
+- [How I write HTTP services after eight years (2018)](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html) ([Reddit](https://www.reddit.com/r/golang/comments/sk05z2/how_i_write_http_services_after_eight_years/))

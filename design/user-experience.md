@@ -1,5 +1,7 @@
 # User Experience
 
+[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great.
+
 ## Notes
 
 - Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.
@@ -147,3 +149,5 @@
 - [Ask HN: Why is software quality always decreasing? (2022)](https://news.ycombinator.com/item?id=29896815)
 - [Click and Swap, our alternative to Drag and Drop (2022)](https://engineering.contentsquare.com/2021/click-and-swap-alternative-to-drag-and-drop/)
 - [Building like it's 1984: A comprehensive guide to creating intuitive context menus (2022)](https://height.app/blog/guide-to-build-context-menus)
+- [Settings are not a design failure (2022)](https://linear.app/blog/settings-are-not-a-design-failure) ([HN](https://news.ycombinator.com/item?id=30181291))
+- [Software Paper Cuts (2022)](https://matthewbischoff.com/software-paper-cuts/)

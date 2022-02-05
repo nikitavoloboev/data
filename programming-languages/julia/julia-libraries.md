@@ -442,6 +442,12 @@
 - [PartitionedArrays.jl](https://github.com/fverdugo/PartitionedArrays.jl) - Vectors and sparse matrices partitioned into pieces for parallel distributed-memory computations.
 - [ZMQ.jl](https://github.com/JuliaInterop/ZMQ.jl) - Julia interface to ZeroMQ.
 - [AWSS3](https://github.com/JuliaCloud/AWSS3.jl) - AWS S3 Simple Storage Service interface for Julia.
+- [Arrow](https://github.com/apache/arrow-julia) - Official Julia implementation of Apache Arrow.
+- [JuliaSyntax](https://github.com/c42f/JuliaSyntax.jl) - Julia frontend, written in Julia.
+- [GLPK.jl](https://github.com/jump-dev/GLPK.jl) - Wrapper for the GNU Linear Programming Kit library.
+- [FlameGraphs](https://github.com/timholy/FlameGraphs.jl) - Analysis of profiling data using trees.
+- [SymbolicIntegration](https://github.com/HaraldHofstaetter/SymbolicIntegration.jl) - Julia implementations of symbolic integration algorithms.
+- [GPUCompiler.jl](https://github.com/JuliaGPU/GPUCompiler.jl) - Reusable compiler infrastructure for Julia GPU backends.
 
 ## Links
 

@@ -81,3 +81,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [How Not to Die Book](https://nutritionfacts.org/book/how-not-to-die/) ([Review](https://www.flowstate.to/ben/how-not-to-die-book-review-3lha))
 - [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/) - How to lose weight and permanently maintain whatever weight you desire.
 - [High-sucrose diets contribute to brain angiopathy and higher brain dysfunctions (2021)](https://www.science.org/doi/10.1126/sciadv.abl6077) ([HN](https://news.ycombinator.com/item?id=29788527))
+- [Тред о сжигании жира и снижении веса](https://twitter.com/malojira/status/1489305374142472194)

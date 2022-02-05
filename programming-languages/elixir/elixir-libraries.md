@@ -123,6 +123,7 @@
 - [Elasticlunr](https://atandarash.me/blog/introduction-to-elasticlunr) - Full-text search library for Elixir. ([HN](https://news.ycombinator.com/item?id=29857712))
 - [Witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir.
 - [Domo](https://github.com/IvanRublev/Domo) - Library to validate values of nested structs with their type spec t() and associated precondition functions.
+- [Ink](https://github.com/ivx/ink) - Logger backend that logs JSON.
 
 ## Links
 

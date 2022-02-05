@@ -938,3 +938,5 @@
     - [2021 October](looking-back/2021/2021-october.md)
     - [2021 November](looking-back/2021/2021-november.md)
     - [2021 December](looking-back/2021/2021-december.md)
+  - 2022
+    - [2022 January](looking-back/2022/2022-january.md)

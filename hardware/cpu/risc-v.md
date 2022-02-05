@@ -140,3 +140,4 @@
 - [Fuxi](https://github.com/MaxXSoft/Fuxi) - 32-bit pipelined RISC-V processor written in Chisel3.
 - [NERV](https://github.com/YosysHQ/nerv) - Naive Educational RISC V processor.
 - [YARI](https://github.com/tommythorn/yari) - High performance soft core RISC implementation, binary compatible with a subset of MIPS R3000.
+- [32-bit RISC-V Emulator in Rust](https://github.com/MstMoonshine/rv_emu_rs)

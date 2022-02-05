@@ -436,3 +436,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Zetten](https://github.com/hrvolapeter/zetten) - Note taking app - Firebase + SwiftUI.
 - [Ask HN: Why the Obsession with Note Taking? (2022)](https://news.ycombinator.com/item?id=30098219)
 - [Gains I'm seeing from my second brain tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html) ([HN](https://news.ycombinator.com/item?id=30151963))
+- [Workflows in my note app Skrift (2022)](https://harry.vangberg.name/posts/2021-12-30-note-workflows-in-skrift/) ([HN](https://news.ycombinator.com/item?id=30167563))

@@ -551,7 +551,7 @@
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/) ([Code](https://github.com/rust-hosted-langs/book))
 - [Cargo B(inary)Install](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects.
 - [Optimizing Immutable Strings in Rust (2021)](https://dev.to/somedood/optimizing-immutable-strings-in-rust-2ahj)
-- [Hexagonal architecture in Rust (2021)](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/)
+- [Hexagonal architecture in Rust (2021)](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/) ([Code](https://github.com/alexislozano/pokedex))
 - [Using SIMD acceleration in rust to create the world’s fastest tac (2021)](https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/) ([Lobsters](https://lobste.rs/s/wdfmrj/using_simd_acceleration_rust_create))
 - [Virtual Machine Dispatch Experiments in Rust (2017)](https://pliniker.github.io/post/dispatchers/)
 - [Systems Programming with Rust Book (2022)](https://www.oreilly.com/library/view/systems-programming-with/9781098109424/) ([Code](https://github.com/kyclark/rust-sysprog))
@@ -690,3 +690,6 @@
 - [A look back at asynchronous Rust (2021)](https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c)
 - [Async Rust: Panics vs. Cancellation (2022)](https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/) ([HN](https://news.ycombinator.com/item?id=30114822))
 - [Triagebot](https://github.com/rust-lang/triagebot) - Triage and team assistance bot for the rust-lang organization.
+- [Type Exercise in Rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems.
+- [AdaCore and Ferrous Systems Joining Forces to Support Rust (2022)](https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust) ([HN](https://news.ycombinator.com/item?id=30174827))
+- [Go concurrency patterns in Rust](https://github.com/munckymagik/go-concurrency-patterns-in-rust)

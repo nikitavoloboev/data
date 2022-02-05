@@ -77,3 +77,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Movies which had a big twist that it left you speechless](https://www.reddit.com/r/MovieSuggestions/comments/rs53pu/movies_which_had_a_big_twitst_that_it_left_you/)
 - [Your top 4 movies (2022)](https://www.reddit.com/r/Letterboxd/comments/ryg1qr/what_are_your_big_four_also_wondering_if_you/)
 - [Must see movies](https://www.reddit.com/r/MovieSuggestions/comments/ryl998/movies_must_see_before_you_die/)
+- [Over-reliance on CGI in movies (2022)](https://erikhoel.substack.com/p/cgi-did-in-fact-ruin-movies) ([HN](https://news.ycombinator.com/item?id=30179654))
+- [Mind blowing movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sj0szz/mind_blowing_movies/)

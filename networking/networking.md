@@ -393,3 +393,8 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Reasons for servers to support IPv6 (2022)](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/) ([HN](https://news.ycombinator.com/item?id=30126434)) ([Lobsters](https://lobste.rs/s/5yhxm6/reasons_for_servers_support_ipv6))
 - [Things we (finally) know about network queues (2017)](https://apenwarr.ca/log/20170814)
 - [Zero-copy network transmission with io_uring (2021)](https://lwn.net/Articles/879724/) ([HN](https://news.ycombinator.com/item?id=30144652))
+- [Selected Topics in Computer Networks @ Johns Hopkins University](https://github.com/xinjin/course-net-seminar)
+- [Advanced Computer Networks @ Johns Hopkins University](https://github.com/xinjin/course-adv-net)
+- [How to stop running out of ephemeral ports and start to love long-lived connections (2022)](https://blog.cloudflare.com/how-to-stop-running-out-of-ephemeral-ports-and-start-to-love-long-lived-connections/) ([Lobsters](https://lobste.rs/s/rkfzp6/how_stop_running_out_ephemeral_ports)) ([HN](https://news.ycombinator.com/item?id=30181710))
+- [Why and how I got my own ASN (2022)](https://chown.me/blog/getting-my-own-asn) ([Lobsters](https://lobste.rs/s/ydjy5d/why_how_i_got_my_own_asn)) ([HN](https://news.ycombinator.com/item?id=30178655))
+- [Implementation of CIDR routing table in Rust (2022)](https://rtoch.com/posts/rust-cidr-routing/)

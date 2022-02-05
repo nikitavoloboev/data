@@ -105,3 +105,5 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Don't Waste the Good Days](https://seths.blog/2021/12/dont-waste-the-good-days/) ([HN](https://news.ycombinator.com/item?id=29754120))
 - [Lipids can modulate RNA activity, a possible clue to origin of life](https://tu-dresden.de/cmcb/bcube/news-termine/news/eine-unerwartete-anziehung-von-nukleinsaeuren-und-fett)
 - [The Sun Was Dimmer When Earth Formed. How Did Life Emerge? (2022)](https://www.quantamagazine.org/the-sun-was-dimmer-when-earth-formed-how-did-life-emerge-20220127/)
+- [What are some harsh realities of life that every man will have to wrestle with at some point? (2022)](https://www.reddit.com/r/AskMen/comments/siluq9/what_are_some_harsh_realities_of_life_that_every/)
+- [Life's 'secret' weapon. What's yours?](https://www.reddit.com/r/fatFIRE/comments/skhjlm/lifes_secret_weapon_whats_yours/)

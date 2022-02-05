@@ -56,3 +56,5 @@
 - [Blender has Metal support (2021)](https://devtalk.blender.org/t/cycles-apple-metal-device-feedback/21868) ([Tweet](https://twitter.com/maxvoltar/status/1470391335773515776))
 - [Filmic Blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender. ([Web](https://sobotka.github.io/filmic-blender/))
 - [Landon](https://github.com/chinedufn/landon) - Collection of tools, data structures and methods for exporting Blender data.
+- [Blog - Blender Studio](https://studio.blender.org/blog/)
+- [Watchtower – Blender Studio (2022)](https://studio.blender.org/blog/introducing-watchtower/) ([HN](https://news.ycombinator.com/item?id=30150047))

@@ -148,6 +148,8 @@
 - [fastmath](https://github.com/generateme/fastmath) - Fast primitive based math library.
 - [iapetos](https://github.com/clj-commons/iapetos) - Clojure Prometheus Client.
 - [Cronut](https://github.com/troy-west/cronut) - Clojure scheduled execution via Quartz / Integrant.
+- [promesa](https://github.com/funcool/promesa) - Promise library for Clojure(Script).
+- [donut.system](https://github.com/donut-power/system) - Dependency injection library for Clojure and ClojureScript.
 
 ## Links
 
@@ -159,3 +161,4 @@
 - [deps-modules](https://github.com/exoscale/deps-modules) - Clojure "tool" that attempts to solve one of the "multi module" project problems with tools.deps in a minimalistic way.
 - [deps-new](https://github.com/seancorfield/deps-new) - New, simpler alternative to clj-new.
 - [neil](https://github.com/babashka/neil) - CLI to add common aliases and features to deps.edn-based projects.
+- [Clojure Garden](https://github.com/clojure-garden/clojure-garden) - Navigator in the Clojure ecosystem.

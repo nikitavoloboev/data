@@ -140,3 +140,5 @@
 - [Astronomers close in on new way to detect gravitational waves (2022)](https://www.nature.com/articles/d41586-022-00170-y) ([HN](https://news.ycombinator.com/item?id=30118910))
 - [Nearly 1k mysterious strands revealed in Milky Way’s center (2022)](https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/) ([HN](https://news.ycombinator.com/item?id=30159468))
 - [Orbit - Webb/NASA](https://webb.nasa.gov/content/about/orbit.html)
+- [How are we always able to see light from the early universe? (2022)](https://www.reddit.com/r/askscience/comments/sjxtht/how_are_we_always_able_to_see_light_from_the/)
+- [Photons incoming: Webb team begins aligning the telescope (2022)](https://blogs.nasa.gov/webb/2022/02/03/photons-incoming-webb-team-begins-aligning-the-telescope/) ([HN](https://news.ycombinator.com/item?id=30200528))

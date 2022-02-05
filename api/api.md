@@ -31,6 +31,7 @@
 - [Twitter Go 2](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 3](https://github.com/bloveless/tweetgo)
 - [Twitter Go 4](https://github.com/sivchari/gotwtr)
+- [Twitter Go 5](https://github.com/g8rswimmer/go-twitter)
 - [Twitter Ruby](https://github.com/nov/twitter_oauth2) - Twitter OAuth 2.0 Client Library in Ruby.
 - [Twitter Swift](https://github.com/mattdonnelly/Swifter)
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
@@ -76,6 +77,7 @@
 - [Slack Go 5](https://github.com/shomali11/slacker) - Slack Bot Framework in Go.
 - [Stripe Go](https://github.com/stripe/stripe-go)
 - [Stripe Rust](https://github.com/arlyon/async-stripe) - Asynchronous Rust API bindings for the Stripe HTTP API.
+- [Yandex Music Python](https://github.com/MarshalX/yandex-music-api)
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 - [Airtable JS](https://github.com/Airtable/airtable.js)
@@ -89,6 +91,7 @@
 - [Binance Go](https://github.com/pdepip/go-binance)
 - [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
 - [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
+- [Telegraph Deno](https://github.com/dcdunkan/telegraph)
 - [Intercom Node](https://github.com/intercom/intercom-node) - Node.js bindings for the Intercom API.
 - [Pocket Export](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights.
 - [Pocket Python](https://github.com/tapanpandita/pocket)
@@ -132,6 +135,7 @@
 - [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile instagram API.
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
+- [Iron Fish](https://github.com/iron-fish/ironfish-api) - Public Iron Fish API.
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
 - [GitLab Node](https://github.com/jdalrymple/gitbeaker) - GitLab API NodeJS library with full support of all the Gitlab API services.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
@@ -320,3 +324,4 @@
 - [openapi-sampler](https://github.com/Redocly/openapi-sampler) - Tool for generation samples based on OpenAPI payload/response schema.
 - [Redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc.
 - [Dash Docset Builder](https://github.com/godbout/dash-docset-builder)
+- [AsyncAPI](https://github.com/asyncapi/spec) - AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs. ([Web](https://www.asyncapi.com/))

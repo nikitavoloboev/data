@@ -14,7 +14,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Redox](https://github.com/redox-os/redox) - Unix-like Operating System written in Rust. ([Web](https://www.redox-os.org/)) ([Kernel Code](https://github.com/redox-os/kernel))
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
-- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599)) ([HN](https://news.ycombinator.com/item?id=29270776))
+- [SerenityOS](https://github.com/SerenityOS/serenity) - Graphical Unix-like operating system for x86 computers. ([Web](http://serenityos.org/)) ([Year 3 in review](https://serenityos.org/happy/3rd/)) ([HN](https://news.ycombinator.com/item?id=28817599)) ([HN](https://news.ycombinator.com/item?id=29270776)) ([Interview with Creator](https://corecursive.com/serenity-os-with-andreas-kling/)) ([HN](https://news.ycombinator.com/item?id=30214371))
 - [Resea](https://github.com/nuta/resea) - Microkernel-based hackable operating system. ([Implementing Resea GUI](https://seiya.me/resea-gui-1-poring-cairo))
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
@@ -317,3 +317,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MiniVM](https://github.com/FastVM/minivm) - Zero-dependency cross-language runtime on par with LuaJIT and C. ([HN](https://news.ycombinator.com/item?id=29850562))
 - [What goes into making an OS to be Unix compliant certified?](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified) ([Lobsters](https://lobste.rs/s/tilteq/what_goes_into_making_os_be_unix_compliant))
 - [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([HN](https://news.ycombinator.com/item?id=30094376))
+- [FlexSC: Flexible System Call Scheduling with Exception-Less System Calls](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf) ([Summary](https://catern.com/flexsc.html)) ([Lobsters](https://lobste.rs/s/ihm1l7/summary_flexsc_paper))
+- [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)

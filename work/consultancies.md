@@ -252,3 +252,4 @@
 - [Every engineer should do a stint in consulting (2021)](https://cloudirregular.substack.com/p/every-engineer-should-do-a-stint) ([HN](https://news.ycombinator.com/item?id=28546756))
 - [Workshops as Portals (2019)](https://tomcritchlow.com/2019/09/23/workshops/) ([Tweet](https://twitter.com/p_millerd/status/1441715651861565440))
 - [It’s great to be a consultant (2022)](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/) ([HN](https://news.ycombinator.com/item?id=29977932))
+- [Ask HN: What do you do and what's your consulting rate? (2022)](https://news.ycombinator.com/item?id=30188101)

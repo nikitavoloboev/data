@@ -145,6 +145,7 @@
 - [Parsel](https://github.com/jeremyrsmith/parsel) - Zero-dependency Scala library for working with Python code.
 - [ZIO logging](https://github.com/zio/zio-logging) - Simple logging for ZIO apps, with correlation, context & pluggable backends out of the box.
 - [ZIO Config](https://github.com/zio/zio-config) - ZIO-based library for working with application configuration data.
+- [Scribe](https://github.com/outr/scribe) - Fastest logging library in the world. Built from scratch in Scala and programmatically configurable.
 
 ## Links
 

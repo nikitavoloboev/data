@@ -49,6 +49,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Kotlin Telegram Bot Library](https://github.com/kotlin-telegram-bot/kotlin-telegram-bot) ([Template](https://github.com/demidko/telegram))
 - [Slimbot](https://github.com/edisonchee/slimbot) - Telegram Bot API for Node.js.
 - [AIOGram](https://github.com/aiogram/aiogram) - Simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
+- [Echotron](https://github.com/NicoNex/echotron) - Concurrent library for telegram bots written in pure Go.
 
 ## Bots
 
@@ -171,3 +172,5 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TeleDrive](https://teledriveapp.com/) - Open source project of Google Drive/OneDrive/iCloud/Dropbox alternative using Telegram API for the free unlimited cloud storage. ([Code](https://github.com/mgilangjanuar/teledrive))
 - [GoTGProto](https://github.com/anonyindian/gotgproto) - Helper package for Go Telegram Client, i.e. gotd/td.
 - [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
+- [DIBgram](https://github.com/DIBgram/DIBgram) - Unofficial Telegram web app which looks like Telegram Desktop.
+- [Telegram WebRTC (VoIP)](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers.

@@ -54,3 +54,4 @@
 - [radiale](https://github.com/xlfe/radiale) - What if home automation was homoiconic? Just transformations of data? No more YAML.
 - [Scrypted](https://www.scrypted.app/) - Home automation platform powered by node.js. ([Code](https://github.com/koush/scrypted))
 - [Presence Simulation](https://github.com/slashback100/presence_simulation) - Home Assistant component aim to provide a presence simulation in your home while you are away.
+- [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/) ([HN](https://news.ycombinator.com/item?id=30177362))

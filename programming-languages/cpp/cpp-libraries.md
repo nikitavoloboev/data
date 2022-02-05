@@ -250,7 +250,7 @@
 - [CrossWindow](https://github.com/alaingalvan/CrossWindow) - Cross platform system abstraction library written in C++ for managing windows and performing OS tasks. ([Web](https://alain.xyz/libraries/crosswindow))
 - [dr_libs](https://github.com/mackron/dr_libs) - Single file audio decoding libraries for C/C++.
 - [EASTL](https://github.com/electronicarts/EASTL) - Alternative C++ Standard Library From Electronic Arts. ([HN](https://news.ycombinator.com/item?id=28060700))
-- [Inja](https://github.com/pantor/inja) - Template Engine for Modern C++.
+- [Inja](https://github.com/pantor/inja) - Template Engine for Modern C++. ([HN](https://news.ycombinator.com/item?id=30190254))
 - [Reckless](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++.
 - [CPP-Libp2p](https://github.com/libp2p/cpp-libp2p) - C++17 implementation of libp2p.
 - [µReact](https://github.com/YarikTH/ureact) - Minimalistic reactive library for c++.
@@ -321,6 +321,7 @@
 - [ConcurrentQueue](https://github.com/cameron314/concurrentqueue) - Fast multi-producer, multi-consumer lock-free concurrent queue for C++11.
 - [Ratas](https://github.com/jsnell/ratas) - Hierarchical timer wheel, for implementing timed event queues.
 - [Vectorscan](https://github.com/VectorCamp/vectorscan) - Portable fork of the high-performance regular expression matching library.
+- [Jinja2С++](https://github.com/jinja2cpp/Jinja2Cpp) - C++ implementation of the Jinja2 Python template engine.
 
 ## Links
 
@@ -337,3 +338,4 @@
 - [Kokkos](https://github.com/kokkos) - C++ Performance Portability Programming EcoSystem. ([HN](https://news.ycombinator.com/item?id=28987037))
 - [Boost C++ libraries packaged for build2 (2021)](https://build2.org/blog/build2-boost.xhtml) ([Lobsters](https://lobste.rs/s/f3nvif/boost_c_libraries_packaged_for_build2))
 - [Poac](https://github.com/poacpm/poac) - Package manager for C++, like Cargo for Rust. ([Web](https://poac.pm/))
+- [I don’t know which container to use (and at this point I’m too afraid to ask) (2022)](https://belaycpp.com/2022/02/02/i-dont-know-which-container-to-use-and-at-this-point-im-too-afraid-to-ask/) ([Lobsters](https://lobste.rs/s/njtzmv/i_don_t_know_which_container_use_at_this))

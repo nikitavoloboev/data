@@ -47,3 +47,4 @@
 - [Urban planning of Barcelona](https://twitter.com/MarkTomasovic/status/1459318924701585410)
 - [Singapore’s tech-utopia dream is turning into a surveillance state nightmare (2021)](https://restofworld.org/2021/singapores-tech-utopia-dream-is-turning-into-a-surveillance-state-nightmare/) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/qxy6jh/singapore_i_think_that_the_entire_world_will_be/))
 - [Streetsblog.org](https://www.streetsblog.org/) - Better walking, biking, and transit.
+- [Global Cities Ranking Draft REPORT Feb 2022](https://data.unhabitat.org/documents/2b18c2738585490b8319c17c5625c0a1/explore)

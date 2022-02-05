@@ -151,3 +151,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Senior Engineer Job Search Guide](https://www.jobsearch.dev/)
 - [Is the Leetcode grind necessary to land a high paying remote job? (2022)](https://news.ycombinator.com/item?id=30098671)
 - [How can you tell if the company you’re interviewing with is rotten on the inside? (2022)](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/)
+- [Career advice nobody gave me: Never ignore a recruiter (2022)](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556) ([HN](https://news.ycombinator.com/item?id=30163676))

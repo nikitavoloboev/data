@@ -32,3 +32,4 @@
 - [CUDPP](https://github.com/cudpp/cudpp) - CUDA Data Parallel Primitives Library.
 - [RAFT](https://github.com/rapidsai/raft) - RAPIDS Analytics Framework Toolkit.
 - [TSNE-CUDA](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings.
+- [cuda-kat](https://github.com/eyalroz/cuda-kat) - CUDA kernel author's tools.

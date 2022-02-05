@@ -228,3 +228,6 @@
 - [Yet Another Roguelike Tutorial - Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/)
 - [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/) ([HN](https://news.ycombinator.com/item?id=29874169))
 - [Calling the Shot: the Next Five Years at Riot Games (2022)](https://www.riotgames.com/en/news/calling-the-shot-the-next-five-years-at-riot-games)
+- [Playhouse](https://github.com/FoundingHQ/playhouse) - Platform for real-time multiplayer trivia games.
+- [Networking of a turn-based game (2022)](https://longwelwind.net/blog/networking-turn-based-game/) ([Lobsters](https://lobste.rs/s/ceel32/networking_turn_based_game))
+- [Ravens](https://github.com/ravens-engine/core) - JavaScript library for building multiplayer turn-based games.

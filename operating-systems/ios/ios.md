@@ -91,6 +91,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Aphrodite](https://github.com/joey-gm/Aphrodite) - Asset Catalog Editor for iOS.
 - [Safari iOS app clone](https://github.com/amerhukic/Browser)
 - [Builder](https://github.com/hmlongco/Builder) - iOS app that demonstrates builder patterns for UI and networking.
+- [Tokenary](https://github.com/zeriontech/Tokenary) - Crypto wallet for  Safari. ([Web](https://tokenary.io/))
 
 ## Other
 

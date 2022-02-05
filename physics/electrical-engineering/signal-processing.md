@@ -41,3 +41,4 @@
 - [How Audio Fingerprinting Works (2020)](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html) ([HN](https://news.ycombinator.com/item?id=29749817))
 - [Audio Fingerprinting API - JSON API for Emy (2021)](https://emysound.com/blog/open-source/2021/06/05/audio-fingerprinting-api.html)
 - [SigLib](https://github.com/Numerix-DSP/siglib) - Digital Signal Processing and Machine Learning Library.
+- [Noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction algorithm in python that reduces noise in time-domain signals like speech, bioacoustics, and physiological signals.

@@ -76,3 +76,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Ask HN: What is your system for backing up family photos and video? (2022)](https://news.ycombinator.com/item?id=29978099)
 - [Bleanser](https://github.com/karlicoss/bleanser) - Tool for cleaning old and redundant backups.
 - [qmpbackup](https://github.com/abbbi/qmpbackup) - Live Qemu Incremental backup using dirty-bitmaps.
+- [Tape](https://github.com/vitorgalvao/tape) - Backup and restore software settings on macOS.

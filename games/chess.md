@@ -174,3 +174,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Halogen Chess engine](https://github.com/KierenP/Halogen) - Written in c++. Implements Null-move pruning, Late move reductions, Quiessence search and a Transposition table that uses Zobrist Hashing.
 - [chessboard.js](https://github.com/oakmac/chessboardjs) - JavaScript chessboard component. ([Web](https://chessboardjs.com/))
 - [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext) ([HN](https://news.ycombinator.com/item?id=30144108))
+- [Top Chess Engine Championship](https://tcec-chess.com/)
+- [Minic](https://github.com/tryingsomestuff/Minic) - Simple chess engine to learn and play with.

@@ -249,3 +249,4 @@
 - [ljepsen](https://github.com/ligurio/ljepsen) - Framework for distributed system's verification, with fault injection.
 - [NATS.io](https://nats.io/) - Cloud Native, Open Source, High-performance Messaging. ([Code](https://github.com/nats-io/nats-server)) ([NATS 2.0 and Connectivity](https://www.youtube.com/watch?v=N0dtATLMy-M))
 - [RustDDS](https://github.com/jhelovuo/RustDDS) - Rust implementation of Data Distribution Service.
+- [Evolving clock sync for distributed databases (2022)](https://blog.yugabyte.com/evolving-clock-sync-for-distributed-databases/) ([HN](https://news.ycombinator.com/item?id=30179702))

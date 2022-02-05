@@ -11,6 +11,10 @@
 
 - [ml5.js](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web.
 
+## Embedded
+
+- [NNoM](https://github.com/majianjia/nnom) - High-level inference Neural Network library specifically for microcontrollers.
+
 ## Other
 
 - [SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning. ([Web](https://microsoft.github.io/SynapseML/)) ([Article](https://www.microsoft.com/en-us/research/blog/synapseml-a-simple-multilingual-and-massively-parallel-machine-learning-library/))

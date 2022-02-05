@@ -129,3 +129,5 @@
 - [Meshy](https://meshy.uxie.io/) - Design tool to generate beautiful & colorful mesh gradients. ([Code](https://github.com/anup-a/meshy))
 - [CSS Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)
 - [Color-space](https://github.com/colorjs/color-space) - Math & data behind color spaces and color conversions.
+- [Leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio.
+- [A Pixel's Color](https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md) ([HN](https://news.ycombinator.com/item?id=30162709))

@@ -51,6 +51,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Word Master](https://octokatherine.github.io/word-master/) - Heavily inspired by Wordle. Word guessing game similar to Mastermind. ([Code](https://github.com/octokatherine/word-master))
 - [Worldledge](https://github.com/rauchg/wordledge) - Implementation of Wordle to help you learn Next.js and Vercel.
 - [Looptap](https://looptap.vasanthv.com/) - Minimal game to waste your time. ([HN](https://news.ycombinator.com/item?id=29921419))
+- [Squabble](https://squabble.me/) - Multiplayer Wordle Royale. ([HN](https://news.ycombinator.com/item?id=30190004))
 
 ## Awesome OSS games
 
@@ -135,6 +136,8 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Space-shooter.c](https://github.com/tsherif/space-shooter.c) - Cross-platform, top-down 2D space shooter written in C. ([HN](https://news.ycombinator.com/item?id=29520200))
 - [Cornell McRay t'Racing](https://github.com/h3r2tic/cornell-mcray) - Quick'n'dirty game sample using kajiya, physx-rs, and dolly.
 - [Wordle Clone](https://github.com/hannahcode/wordle) - Clone of the popular game Wordle made using React, Typescript, and Tailwind.
+- [Rustenstein 3D](https://github.com/AdRoll/rustenstein) - Wolfenstein 3D port written in rust. ([Rustenstein 3D: Game programming like it's 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)) ([HN](https://news.ycombinator.com/item?id=30182565))
+- [Swords and Ravens](https://github.com/Longwelwind/swords-and-ravens) - Reimplementation of the board game "A Game of Thrones: The Board Game 2nd Edition".
 
 ## Awesome games (other)
 
@@ -260,3 +263,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Video Game Preservation](https://github.com/orgs/videogamepreservation/repositories)
 - [What games do respect your time and why? (2022)](https://www.reddit.com/r/patientgamers/comments/s608zd/what_games_do_respect_your_time_and_why/)
 - [Younger gamers, what's your "wow, games have come a long way" memory? (2022)](https://www.reddit.com/r/patientgamers/comments/saxu7e/younger_gamers_whats_your_wow_games_have_come_a/)
+- [There are too many video games (2022)](https://bottomfeeder.substack.com/p/there-are-too-many-video-games) ([HN](https://news.ycombinator.com/item?id=30184938))

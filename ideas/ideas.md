@@ -116,3 +116,5 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: Those making $500/month on side projects in 2021 – Show and tell (2021)](https://news.ycombinator.com/item?id=29667095)
 - [Ask HN: How do you validate demand for your side-project? (2021)](https://news.ycombinator.com/item?id=29691811)
 - [Ask HN: Who Wants to Collaborate? (2022)](https://news.ycombinator.com/item?id=29759115)
+- [Cocktail party ideas](https://danluu.com/cocktail-ideas/) ([HN](https://news.ycombinator.com/item?id=30185229))
+- [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)

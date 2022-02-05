@@ -76,3 +76,4 @@
 - [gRPC testing infrastructure support code](https://github.com/grpc/test-infra)
 - [wiremock grpc](https://github.com/mustakimali/wiremock-grpc-rs) - Mock gRPC server to test your outgoing gRPC requests.
 - [gRPC benchmarks](https://github.com/LesnyRumcajs/grpc_bench)
+- [Postman Now Supports gRPC (2022)](https://blog.postman.com/postman-now-supports-grpc/) ([HN](https://news.ycombinator.com/item?id=30176745))

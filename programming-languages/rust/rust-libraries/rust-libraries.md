@@ -105,6 +105,8 @@
 - [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
 - [Tower HTTP](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
 - [MatchIt](https://github.com/ibraheemdev/matchit) - Blazing fast URL router and path matcher for Rust.
+- [async-session](https://github.com/http-rs/async-session) - Async session support with pluggable middleware.
+- [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - Rust implementation of the Web Audio API, for use in non-browser contexts.
 
 ## WASM
 
@@ -191,6 +193,8 @@
 - [redis_serde_json](https://github.com/clia/redis_serde_json) - Derive to store and retrieve JSON values in redis encoded using serde.
 - [tiny-lsm](https://github.com/spacejam/tiny-lsm) - Super simple in-memory blocking LSM for constant-size keys and values.
 - [Rexie](https://github.com/devashishdxt/rexie) - Easy-to-use, futures based wrapper around IndexedDB that compiles to webassembly.
+- [Fang](https://github.com/ayrat555/fang) - Background job processing library for Rust. It uses Postgres DB as a task queue.
+- [async-redis-session](https://github.com/jbr/async-redis-session) - redis-backed session store for async-session.
 
 ## Video
 
@@ -1367,6 +1371,14 @@
 - [Leapfrog](https://github.com/robclu/leapfrog) - Lock-free concurrent and single-threaded hash map implementations using Leapfrog probing. Currently the highest performance concurrent HashMap in Rust.
 - [Counter](https://github.com/coriolinus/counter-rs) - Simple object to count Rust iterables.
 - [art](https://github.com/komora-io/art) - Adaptive Radix Trie implementation for fixed-length keys.
+- [futures-intrusive](https://github.com/Matthias247/futures-intrusive) - Synchronization primitives for Futures and async/await based on intrusive collections.
+- [syntree](https://github.com/udoprog/syntree) - Memory efficient syntax tree for language developers.
+- [Open Graphic Image Writer](https://github.com/keiya01/og_image_writer) - Generate Open Graphic Image with CSS-like API.
+- [crash-handling](https://github.com/EmbarkStudios/crash-handling) - Set of utility crates for catching and handling crashes.
+- [D-Bus](https://github.com/diwic/dbus-rs) - D-Bus binding for the Rust language.
+- [Deser](https://github.com/mitsuhiko/deser) - Experimental serialization system for Rust.
+- [rpki](https://github.com/NLnetLabs/rpki-rs) - Library for Validating and Creating RPKI Data.
+- [Seize](https://github.com/ibraheemdev/seize) - Fast, efficient, and robust memory reclamation for concurrent data structures.
 
 ## Cargo Plugins
 
@@ -1507,3 +1519,4 @@
 - [Serverless Rust](https://github.com/nmoutschen/awesome-serverless-rust) - Curated list of resources for using Rust with serverless technologies.
 - [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Rust has a small standard library (and that's ok) (2022)](https://blog.nindalf.com/posts/rust-stdlib/) ([Reddit](https://www.reddit.com/r/programming/comments/sg7p51/rust_has_a_small_standard_library_and_thats_ok/)) ([HN](https://news.ycombinator.com/item?id=30138065))
+- [Rust serialization benchmark](https://github.com/djkoloski/rust_serialization_benchmark)

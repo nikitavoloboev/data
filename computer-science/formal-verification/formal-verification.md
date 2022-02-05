@@ -115,3 +115,4 @@
 - [Machine Readable Specifications at Scale (2022)](https://alastairreid.github.io/mrs-at-scale/) ([HN](https://news.ycombinator.com/item?id=30083908))
 - [CMU Program Analysis Course (2022)](https://cmu-program-analysis.github.io/2022/index.html) ([Code](https://github.com/CMU-program-analysis/CMU-program-analysis.github.io))
 - [MIT Formal Reasoning About Programs (2022)](https://frap.csail.mit.edu/main) ([Code](https://github.com/mit-frap/spring22))
+- [Formal Verification of a Distributed Dynamic Reconfiguration Protocol (2021)](https://arxiv.org/abs/2109.11987) ([Code](https://github.com/will62794/logless-reconfig/tree/master/proofs))

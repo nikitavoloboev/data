@@ -133,3 +133,4 @@
 - [A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/) ([HN](https://news.ycombinator.com/item?id=29747921)) ([Reddit](https://www.reddit.com/r/programming/comments/rszk63/how_a_single_line_of_code_made_a_24core_server/))
 - [Power, frequency, management: how M1 E cores win (2022)](https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/) ([HN](https://news.ycombinator.com/item?id=29778990))
 - [CPU-X](https://github.com/X0rg/CPU-X) - Free software that gathers information on CPU, motherboard and more.
+- [Alex Blewitt - Understanding CPU microarchitecture (2022)](https://www.youtube.com/watch?v=Pa_l3aHCoGc)

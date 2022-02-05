@@ -34,7 +34,7 @@ One day it would be nice to own a house with a lot of windows for light like [th
 
 - [Dwellito](https://www.dwellito.com/) - Purchase a Modular Home For Your Backyard. ([HN](https://news.ycombinator.com/item?id=18664496))
 - [Renting vs buying a house](https://www.bluprince13.com/apps/renting-vs-buying/)
-- [Atmos](https://www.buildatmos.com/) - Home building, simplified.
+- [Atmos](https://buildatmos.com/) - Home building, simplified.
 - [Opendoor](https://www.opendoor.com/) - Home buy/selling.
 - [We quit our jobs to build a cabin (2020)](https://www.outsideonline.com/2415766/friends-diy-cabin-build-washington) ([HN](https://news.ycombinator.com/item?id=24051907))
 - [Where the missing middle of housing isn't missing (2020)](https://www.strongtowns.org/journal/2020/8/5/where-the-missing-middle-isnt-missing) ([HN](https://news.ycombinator.com/item?id=24135153))
@@ -74,3 +74,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/) ([HN](https://news.ycombinator.com/item?id=29770105))
 - [Designing a 100-year home in Accra](https://www.quartey.com/writing/designing-family-home)
 - [If It Were My Home](http://www.ifitweremyhome.com/) ([HN](https://news.ycombinator.com/item?id=30135346))
+- [Building a modern home](https://johnnyrodgers.is/building-a-modern-home) ([HN](https://news.ycombinator.com/item?id=30193899))

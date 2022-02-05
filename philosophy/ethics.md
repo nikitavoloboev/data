@@ -23,3 +23,4 @@
 - [Technology Isn't Neutral - A Manifesto For Radical Software Development](http://cryto.net/~joepie91/manifesto.html)
 - [Descriptive ethics - Wikipedia](https://en.wikipedia.org/wiki/Descriptive_ethics)
 - [Ask Delphi](https://delphi.allenai.org/) - Delphi is computational model for descriptive ethics.
+- [W3C TAG Ethical Web Principles](https://w3ctag.github.io/ethical-web-principles/) ([Code](https://github.com/w3ctag/ethical-web-principles))

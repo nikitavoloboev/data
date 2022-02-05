@@ -50,3 +50,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Sleep technique used by Salvador Dalí works](https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot) ([HN](https://news.ycombinator.com/item?id=29515882))
 - [Notes on Walker – Why We Sleep (2021)](http://www.federicopereiro.com/notes-walker-sleep/)
 - [Tips for sleeping better](https://twitter.com/amasad/status/1475268980608667650)
+- [Impacts of lack of sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html) ([HN](https://news.ycombinator.com/item?id=30184796))

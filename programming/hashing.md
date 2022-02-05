@@ -60,3 +60,4 @@
 - [Introducing Consistent Hashing (2020)](https://itnext.io/introducing-consistent-hashing-9a289769052e)
 - [Reversing an integer hash function](https://taxicat1.github.io/hash6432shift_inversion.html)
 - [Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash (2022)](https://arxiv.org/abs/2111.06628)
+- [multihash](https://github.com/multiformats/multihash) - Protocol for differentiating outputs from various well-established cryptographic hash functions, addressing size + encoding considerations.

@@ -44,3 +44,4 @@
 - [Distrod](https://github.com/nullpo-head/wsl-distrod) - WSL2 Distros with Systemd.
 - [Ask HN: Why is building Windows apps so complicated (2021)](https://news.ycombinator.com/item?id=29529267)
 - [Bottles](https://usebottles.com/) - Easily run Windows software on Linux. ([Code](https://github.com/bottlesdevs/Bottles)) ([HN](https://news.ycombinator.com/item?id=29612976))
+- [Cassowary](https://github.com/casualsnek/cassowary) - Run Windows Apps on Linux using a VM as if they were native apps. ([HN](https://news.ycombinator.com/item?id=30214762))

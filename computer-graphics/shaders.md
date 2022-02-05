@@ -62,3 +62,4 @@
 - [GLSL-PathTracer](https://github.com/knightcrawler25/GLSL-PathTracer) - Physically based path tracer that runs in a GLSL fragment shader.
 - [GLSL Shading Language Issue Tracker](https://github.com/KhronosGroup/GLSL)
 - [A Simple Shader for Point Lights in Fog (2020)](https://ijdykeman.github.io/graphics/simple_fog_shader)
+- [matcap](https://github.com/hughsk/matcap) - GLSL shaders for calculating/rendering Spherical Environment Maps, or "matcaps".

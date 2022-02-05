@@ -273,4 +273,7 @@
 - [Nanometer-Scale Ge-Based Adaptable Transistors Providing Programmable Negative Differential Resistance Enabling Multivalued Logic (2021)](https://www.researchgate.net/publication/355683752_Nanometer-Scale_Ge-Based_Adaptable_Transistors_Providing_Programmable_Negative_Differential_Resistance_Enabling_Multivalued_Logic) ([Lobsters](https://lobste.rs/s/pcnryd/cpus_could_use_85_percent_fewer))
 - [How I built my own Sega Mega Drive hardware dev kit from scratch (2022)](https://nestenius.se/2022/01/18/how-i-built-my-own-sega-mega-drive-hardware-dev-kit-from-scratch/)
 - [Kineto](https://github.com/pytorch/kineto) - CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
-- [mmWave radar, you won't see it coming (2022)](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/) ([HN](https://news.ycombinator.com/item?id=30172647))
+- [mmWave radar, you won't see it coming (2022)](https://www.joshhorne.com/mmwave-radar-and-ambient-computing/) ([HN](https://news.ycombinator.com/item?id=30172647)) ([Lobsters](https://lobste.rs/s/wdso60/mmwave_radar_you_won_t_see_it_coming))
+- [Failing to reach DDR4 bandwidth (2022)](https://unum.cloud/post/2022-01-29-ddr4/) ([HN](https://news.ycombinator.com/item?id=30178764))
+- [DRAM Errors in the Wild: A Large-Scale Field Study (2009)](http://www.cs.toronto.edu/~bianca/papers/sigmetrics09.pdf)
+- [Creating Camera Lenses with Stereolithography](https://formlabs.com/blog/creating-camera-lenses-with-stereolithography/) ([HN](https://news.ycombinator.com/item?id=30191570))

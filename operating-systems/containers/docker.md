@@ -180,3 +180,5 @@
 - [A faster dockerTools.buildImage prototype (2021)](https://lewo.abesis.fr/posts/nix-build-container-image/)
 - [Dozzle](https://dozzle.dev/) - Log viewer for Docker. ([Code](https://github.com/amir20/dozzle))
 - [Docker for Mac - Docker Machine / Vagrant / Ansible](https://github.com/stenh0use/docker-machine-for-mac)
+- [ch](https://github.com/camerondurham/ch) - Docker config and shell manager for ~using~ misusing containers as dev environments.
+- [swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm.

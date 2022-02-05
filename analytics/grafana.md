@@ -11,3 +11,4 @@
 - [Grafana University](https://grafana.com/blog/2022/01/03/introducing-grafana-university-our-virtual-hands-on-education-platform-thats-free-and-easy-to-use/)
 - [JSON API Grafana Datasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend.
 - [Grafana HTTP API Client for Go](https://github.com/grafana/grafana-api-golang-client)
+- [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync.

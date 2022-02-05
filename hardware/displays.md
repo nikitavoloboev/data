@@ -12,3 +12,4 @@
 - [Understanding DisplayLink, multiple displays, and M1 Macs (2021)](https://danielcompton.net/2021/07/28/apple-m1-displaylink-multiple-display)
 - [Ideal Monitor Rotation for Programmers (2021)](https://sprocketfox.io/xssfox/2021/12/02/xrandr/) ([HN](https://news.ycombinator.com/item?id=29417484))
 - [Apple’s Newest OLED Supplier (2021)](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier) ([HN](https://news.ycombinator.com/item?id=29525871))
+- [Trying to get past the 500 nits limit of the MacBook Pro (and failing) (2022)](https://alinpanaitiu.com/blog/over-500nits-failed/)

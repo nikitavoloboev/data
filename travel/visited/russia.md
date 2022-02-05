@@ -412,3 +412,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [How navalny became Navalny The photos that capture 17 years of activism, investigations, campaigning, and zeal (2022)](https://meduza.io/en/feature/2021/02/05/how-navalny-became-navalny)
 - [Агентство «Панорама»](https://panorama.pub/)
 - [Обёртка для API сервиса lknpd.nalog.ru](https://github.com/alexstep/moy-nalog)
+- [Прошло десять лет с февральских протестов 2012 года](https://meduza.io/feature/2022/02/04/pomnite-plachuschego-putina-a-mitingi-na-sto-tysyach-chelovek-v-20-gradusnyy-moroz)

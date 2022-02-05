@@ -139,3 +139,5 @@
 - [EventCatalog](https://eventcatalog.dev/) - Discover, Explore and Document your Event Driven Architectures. ([Code](https://github.com/boyney123/eventcatalog))
 - [Text-Runner](https://github.com/kevgo/text-runner) - Agile documentation tool that helps create living end-user readable documentation.
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/)
+- [Keeping documentation in sync with source code (2022)](https://cerbos.dev/blog/keeping-documentation-in-sync-with-source-code) ([HN](https://news.ycombinator.com/item?id=30161756))
+- [Tagref](https://github.com/stepchowfun/tagref) - Helps you maintain cross-references in your code.

@@ -687,7 +687,7 @@ if err != nil {
 - [Saving a Third of Our Memory by Re-ordering Go Struct Fields (2020)](https://wagslane.dev/posts/go-struct-ordering/) ([Lobsters](https://lobste.rs/s/oxtpfw/saving_third_our_memory_by_re_ordering_go)) ([Reddit](https://www.reddit.com/r/golang/comments/rzosnd/saving_a_third_of_our_memory_by_reordering_go/)) ([HN](https://news.ycombinator.com/item?id=29850028))
 - [Large-scale, semi-automated Go GC tuning (2020)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) ([HN](https://news.ycombinator.com/item?id=29902825))
 - [Visualizing Concurrency in Go](https://divan.dev/posts/go_concurrency_visualize/)
-- [What I'd like to see in Go 2.0 (2022)](https://www.sethvargo.com/what-id-like-to-see-in-go-2/)
+- [What I'd like to see in Go 2.0 (2022)](https://www.sethvargo.com/what-id-like-to-see-in-go-2/) ([HN](https://news.ycombinator.com/item?id=30205232))
 - [Set of materials for Go workshops](https://github.com/GolangUA/workshops)
 - [Minimal working examples of Go's unique features](https://github.com/Mathieu-Desrochers/Learning-Go/blob/master/main.go)
 - [Goloader](https://github.com/pkujhd/goloader) - Load and run Go code at runtime.
@@ -695,3 +695,8 @@ if err != nil {
 - [TSC is being ported to Go (2022)](https://kdy1.dev/posts/2022/1/tsc-go) ([HN](https://news.ycombinator.com/item?id=30074414)) ([Reddit](https://www.reddit.com/r/golang/comments/sd5inj/tsc_is_being_ported_to_go/))
 - [Mocking outbound http requests in go: you’re (probably) doing it wrong (2021)](https://medium.com/zus-health/mocking-outbound-http-requests-in-go-youre-probably-doing-it-wrong-60373a38d2aa)
 - [Go Compiler Explorer](https://go.godbolt.org/)
+- [Know Go: Generics Book](https://bitfieldconsulting.com/books/generics) ([Code](https://github.com/bitfield/kg-generics))
+- [The Power of Go: Tools Book](https://bitfieldconsulting.com/books/tools) ([Code](https://github.com/bitfield/tpg-tools))
+- [Optimizing GoAWK with a bytecode compiler and virtual machine (2022)](https://benhoyt.com/writings/goawk-compiler-vm/)
+- [Dumpster diving the Go garbage collector (2022)](https://blog.px.dev/go-garbage-collector/)
+- [Go performance from version 1.2 to 1.18 (2022)](https://benhoyt.com/writings/go-version-performance/) ([HN](https://news.ycombinator.com/item?id=30201969)) ([Lobsters](https://lobste.rs/s/b2uudr/go_performance_from_version_1_2_1_18))

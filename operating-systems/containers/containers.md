@@ -177,3 +177,5 @@
 - [Sinker](https://github.com/plexsystems/sinker) - Tool to sync images from one container registry to another.
 - [Undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder.
 - [Speeding up LXC container pull by up to 3x (2022)](https://databricks.com/blog/2022/01/26/creating-a-faster-tar-extractor.html) ([HN](https://news.ycombinator.com/item?id=30166077))
+- [Writing a container in a few lines of Go code](https://github.com/lizrice/containers-from-scratch) ([In Rust](https://github.com/camerondurham/cfs-rs))
+- [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar) ([HN](https://news.ycombinator.com/item?id=30158032))

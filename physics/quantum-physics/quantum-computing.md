@@ -132,3 +132,5 @@
 - [QuantumOptics.jl](https://github.com/qojulia/QuantumOptics.jl) - Numerical framework written in Julia that makes it easy to simulate various kinds of quantum systems.
 - [Implementing a quantum computer emulator in SQL (2022)](https://explainextended.com/2021/12/31/happy-new-year-13/)
 - [Textbook: Introduction to Classical and Quantum Computing](http://www.thomaswong.net/#publications)
+- [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum Interconnect Simulator for Distributed Quantum Algorithms.
+- [Quantum Computation and Quantum Information (2010)](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview) ([Code](https://github.com/pptacher/quantum))

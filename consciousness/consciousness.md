@@ -74,3 +74,4 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 - [Why can’t the world’s greatest minds solve the mystery of consciousness? (2015)](https://www.theguardian.com/science/2015/jan/21/-sp-why-cant-worlds-greatest-minds-solve-mystery-consciousness) ([HN](https://news.ycombinator.com/item?id=28928430))
 - [Thousands of coma patients may be conscious](https://www.sciencefocus.com/the-human-body/comas-conscious-communicate/) ([HN](https://news.ycombinator.com/item?id=29749643))
 - [Запертые в теле: Что на самом деле происходит с людьми «в коме»](https://www.wonderzine.com/wonderzine/health/wellness/241525-half-alive)
+- [What’s So Hard About Understanding Consciousness? (2022)](https://nautil.us/whats-so-hard-about-understanding-consciousness-13877/) ([HN](https://news.ycombinator.com/item?id=30190875))

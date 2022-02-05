@@ -201,3 +201,4 @@
 - [Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time (2017)](https://arxiv.org/abs/1711.07601)
 - [Customizing web search](https://notes.npilk.com/custom-search)
 - [A Gentle Intro to Vector Search for Developers](https://www.pinecone.io/learn/vector-search-basics/)
+- [The web starts on page four (2022)](https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/) ([HN](https://news.ycombinator.com/item?id=30166108))

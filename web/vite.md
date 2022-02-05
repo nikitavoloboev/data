@@ -21,3 +21,4 @@
 - [A Rubyist's Guide to Vite.js (2021)](https://maximomussini.com/posts/a-rubyist-guide-to-vite-js/)
 - [HeadKit](https://github.com/egoist/headkit) - Framework-agnostic `<head>` management.
 - [Vite Rollup Plugins](https://github.com/patak-dev/vite-rollup-plugins)
+- [Vite Plugin Book](https://github.com/Saul-Mirone/vite-plugin-book) - Magical vite plugin that helps you to generate and manage documentation website.
