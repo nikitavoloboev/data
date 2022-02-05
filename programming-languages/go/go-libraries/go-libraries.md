@@ -369,6 +369,7 @@
 - [gosql](https://github.com/rushteam/gosql) - Easy ORM library for Go.
 - [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis RESP3 client that supports client side caching and auto pipelining.
 - [ql](https://gitlab.com/cznic/ql) - Pure Go embedded SQL database. ([HN](https://news.ycombinator.com/item?id=30130938))
+- [Tables-to-Go](https://github.com/fraenky8/tables-to-go) - Convert your database tables to structs easily.
 
 ## ML
 

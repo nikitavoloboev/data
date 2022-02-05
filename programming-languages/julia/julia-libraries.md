@@ -144,6 +144,7 @@
 - [SingularIntegralEquations.jl](https://github.com/JuliaApproximation/SingularIntegralEquations.jl) - Julia package for solving singular integral equations.
 - [AbstractGPs](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl) - Abstract types and methods for Gaussian Processes.
 - [AbstractAlgebra](https://github.com/wbhart/AbstractAlgebra.jl) - Generic abstract algebra functionality in pure Julia (no C dependencies).
+- [StateSpaceModels.jl](https://github.com/LAMPSPUC/StateSpaceModels.jl) - Julia package for time-series analysis using state-space models.
 
 ## NLP
 
