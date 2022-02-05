@@ -257,3 +257,4 @@
 - [zwld](https://github.com/Luukdegram/zwld) - Experimental wasm linker.
 - [Pay attention to WebAssembly (2022)](https://harshal.sheth.io/2022/01/31/webassembly.html) ([HN](https://news.ycombinator.com/item?id=30155295))
 - [Exploring SIMD performance improvements in WebAssembly (2021)](https://www.awelm.com/posts/simd-web-assembly-experiment/) ([HN](https://news.ycombinator.com/item?id=30181386))
+- [yoga-wasm-web](https://github.com/shuding/yoga-wasm-web) - Yoga but in WebAssembly.

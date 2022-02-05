@@ -59,7 +59,8 @@
 - [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [cli](https://github.com/mkideal/cli) - Package for building command line app with go.
 - [prompter](https://github.com/Songmu/prompter) - Go utility for easy prompting.
-- [mango](https://github.com/muesli/mango) - man-page generator for the Go flag, pflag, and cobra packages.
+- [Mango](https://github.com/muesli/mango) - man-page generator for the Go flag, pflag, and cobra packages.
+- [Mango Kong](https://github.com/alecthomas/mango-kong) - Allows Kong packages to generate man pages using Mango.
 
 ## Test
 
@@ -1275,6 +1276,8 @@
 - [spew](https://github.com/spewerspew/spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 - [crunch](https://github.com/superwhiskers/crunch) - Library for easily manipulating bits and bytes in Go.
 - [teivah/onecontext](https://github.com/teivah/onecontext) - Set of Go context's utilities.
+- [btree](https://github.com/amit-davidson/btree) - Go implementation of a B-Tree.
+- [prism](https://github.com/mandykoh/prism) - Color management for Go.
 
 ## Links
 

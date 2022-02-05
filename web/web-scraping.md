@@ -145,3 +145,4 @@
 - [The State of Web Scraping 2022](https://scrapeops.io/blog/the-state-of-web-scraping-2022/) ([HN](https://news.ycombinator.com/item?id=29905799))
 - [Chrome File Downloader](https://github.com/rusq/chromedl) - Go library for scraping or downloading files bypassing Cloudflare protection and browser checks.
 - [Mechaml](https://github.com/yannham/mechaml) - OCaml functional web scraping library.
+- [WikiDump Indexer and Search](https://github.com/saiakarsh193/WikiDump-Indexer-and-Search) - Wikipedia dump parser and indexer with search functionality. Made for Information Retrieval and Extraction course.

@@ -547,4 +547,5 @@
 - [VRT: A Video Restoration Transformer (2021)](https://arxiv.org/abs/2201.12288) ([Code](https://github.com/JingyunLiang/VRT))
 - [Unknown Object Segmentation from Stereo Images (2021)](https://arxiv.org/abs/2103.06796) ([Code](https://github.com/DLR-RM/instr))
 - [Stacked Cross Attention for Image-Text Matching (2018)](https://arxiv.org/abs/1803.08024) ([Code](https://github.com/kuanghuei/SCAN))
-- [[2201.12086] BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation (2022)](https://arxiv.org/abs/2201.12086) ([Code](https://github.com/salesforce/BLIP))
+- [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation (2022)](https://arxiv.org/abs/2201.12086) ([Code](https://github.com/salesforce/BLIP))
+- [DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows (2021)](https://arxiv.org/abs/2101.05796) ([Code](https://github.com/volflow/DeFlow))

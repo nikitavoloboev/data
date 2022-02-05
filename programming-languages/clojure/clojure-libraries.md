@@ -150,6 +150,8 @@
 - [Cronut](https://github.com/troy-west/cronut) - Clojure scheduled execution via Quartz / Integrant.
 - [promesa](https://github.com/funcool/promesa) - Promise library for Clojure(Script).
 - [donut.system](https://github.com/donut-power/system) - Dependency injection library for Clojure and ClojureScript.
+- [Hitchhiker](https://github.com/replikativ/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure.
+- [hasch](https://github.com/replikativ/hasch) - Cross-platform (JVM and JS atm.) edn data structure hashing for Clojure.
 
 ## Links
 

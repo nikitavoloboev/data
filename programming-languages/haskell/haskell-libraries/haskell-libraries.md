@@ -227,6 +227,7 @@
 - [Clash Protocols](https://github.com/clash-lang/clash-protocols) - Battery-included library for writing on-chip protocols, such as AMBA AXI and Altera Avalon.
 - [range-set-list](https://github.com/phadej/range-set-list) - Memory efficient sets with continuous ranges of elements. List based implementation.
 - [generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products.
+- [linear-builder](https://github.com/Bodigrim/linear-builder) - Linear types for linear times.
 
 ## Notes
 

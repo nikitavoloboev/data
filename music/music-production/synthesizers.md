@@ -56,3 +56,5 @@
 - [List of open-source synths](https://github.com/Atarity/diy-synths)
 - [Digital Audio Synthesizer in Rust (2022)](https://0xc45.com/blog/digital-audio-synthesizer-in-rust/)
 - [discoDSP OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim AAX / AU / VST / VST3 based synthesizer.
+- [Xephys](https://github.com/suhr/xephys) - Microtonal digital waveguide synthesier.
+- [Vital](https://github.com/mtytel/vital) - Spectral warping wavetable synthesizer.

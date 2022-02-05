@@ -12,7 +12,7 @@
 - [Catiline.js](https://github.com/calvinmetcalf/catiline) - JavaScript library to take the pain out of web workers. ([Web](http://catilinejs.com/))
 - [The State Of Web Workers In 2021](https://www.smashingmagazine.com/2021/06/web-workers-2021/)
 - [esbuild-plugin-inline-worker](https://github.com/mitschabaude/esbuild-plugin-inline-worker) - Esbuild loader for inline Web Workers.
-- [Partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive 3rd-party scripts off of the main thread and into a web worker. ([Web](https://partytown.vercel.app/)) ([Article](https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp)) ([Lobsters](https://lobste.rs/s/4q31mo/partytown_run_third_party_scripts_from))
+- [Partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive 3rd-party scripts off of the main thread and into a web worker. ([Web](https://partytown.vercel.app/)) ([Article](https://dev.to/adamdbradley/introducing-partytown-run-third-party-scripts-from-a-web-worker-2cnp)) ([Lobsters](https://lobste.rs/s/4q31mo/partytown_run_third_party_scripts_from)) ([Docs](https://partytown.builder.io/))
 - [main-thread-scheduling](https://github.com/astoilkov/main-thread-scheduling) - Consistently responsive apps while staying on the main thread.
 - [AMP CDN Worker](https://github.com/ampproject/cdn-worker) - Source code for the web worker that powers the AMP project's CDN server. This web worker runs on Cloudflare Workers.
 - [react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers.

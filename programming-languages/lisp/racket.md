@@ -90,3 +90,4 @@
 - [Qi](https://docs.racket-lang.org/qi/index.html) - Functional, Flow-Oriented DSL. ([Interactive Tutorial](https://github.com/countvajhula/qi-tutorial))
 - [polyglot](https://github.com/zyrolasting/polyglot) - Creates websites using a mix of any DSLs you want in a single source file.
 - [Parallelizing the Racket Web Server (2021)](https://defn.io/2021/12/30/parallel-racket-web-server/)
+- [curly-fn](https://github.com/lexi-lambda/racket-curly-fn) - Meta-language for adding Clojure-style shorthand function literals to arbitrary Racket languages.

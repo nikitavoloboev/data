@@ -74,3 +74,4 @@
 - [Rain](https://github.com/substantic/rain) - Framework for large distributed pipelines.
 - [Apache SeaTunnel](https://seatunnel.apache.org/) - Distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). ([Code](https://github.com/apache/incubator-seatunnel))
 - [Databend](https://github.com/datafuselabs/databend) - Open Source Serverless Data Warehouse for Everyone. ([Web](https://databend.rs/))
+- [Pydra](https://github.com/nipype/pydra) - Simple dataflow engine with scalable semantics.

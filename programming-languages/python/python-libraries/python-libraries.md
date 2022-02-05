@@ -736,3 +736,4 @@
 - [usort](https://github.com/facebookexperimental/usort) - Safe, minimal import sorting for Python projects.
 - [blacken-docs](https://github.com/asottile/blacken-docs) - Run `black` on python code blocks in documentation files.
 - [Conda-Pack](https://github.com/conda/conda-pack) - Package conda environments for redistribution.
+- [conda-build](https://github.com/conda/conda-build) - Commands and tools for building conda packages.

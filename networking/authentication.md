@@ -108,7 +108,7 @@
 - [oidc-provider](https://github.com/panva/node-oidc-provider) - OpenID Certified OAuth 2.0 Authorization Server implementation for Node.
 - [A Primer on JSON Web Tokens (2021)](https://pspdfkit.com/blog/2021/a-primer-on-json-web-tokens/)
 - [github/webauthn-json](https://github.com/github/webauthn-json) - Small WebAuthn API wrapper that translates to/from pure JSON using base64url.
-- [Clerk](https://clerk.dev/) - All of user management as-a-service, not just authentication. ([HN](https://news.ycombinator.com/item?id=26069621)) ([Tweet](https://twitter.com/tweetsbycolin/status/1358873005447909378))
+- [Clerk](https://clerk.dev/) - All of user management as-a-service, not just authentication. ([HN](https://news.ycombinator.com/item?id=26069621)) ([Tweet](https://twitter.com/tweetsbycolin/status/1358873005447909378)) ([JS Client](https://github.com/clerkinc/javascript))
 - [Persona](https://withpersona.com/) - Identity infrastructure for any business.
 - [JWT in Go](https://github.com/kataras/jwt)
 - [Twingate – Building the foundation for identity-first network security (2021)](https://www.twingate.com/blog/introducing-identity-first-networking/) ([HN](https://news.ycombinator.com/item?id=26253196))

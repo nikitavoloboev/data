@@ -140,3 +140,4 @@
 - [DevOps by Example](https://github.com/antonputra/tutorials)
 - [Brev.dev](https://brev.dev/) - Your local-only cloud computer. ([CLI](https://github.com/brevdev/brev-cli))
 - [Goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation.
+- [FeatureHub](https://www.featurehub.io/) - Cloud native feature flags, A/B testing and remote configuration service. ([Code](https://github.com/featurehub-io/featurehub))

@@ -339,3 +339,5 @@ Awesome List
 - [go-gh beta](https://github.com/cli/go-gh) - Go module for interacting with gh and the GitHub API from the command line.
 - [gh-s](https://github.com/gennaro-tedesco/gh-s) - Search github repositories interactively.
 - [Reviewbunny](https://reviewbunny.app/) - Pull request reminders for teams.
+- [Upgit](https://github.com/pluveto/upgit) - Native & lightweight tool to helps you upload any file to your Github repository and then get a raw URL for it.
+- [Astral](https://astralapp.com/) - Organize Your GitHub Stars With Ease. ([Code](https://github.com/astralapp/astral))

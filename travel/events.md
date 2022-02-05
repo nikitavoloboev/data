@@ -32,3 +32,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Skittish](https://skittish.com/) - Playful space for online events. ([HN](https://news.ycombinator.com/item?id=29246232))
 - [Electromagnetic Field](https://www.emfcamp.org/) - Non-profit UK camping festival.
 - [Alpine Conferences](https://www.alpine-conferences.com/home/#/)
+- [Virtual Conference Resources](https://github.com/e8johan/virtual-conf-resources)

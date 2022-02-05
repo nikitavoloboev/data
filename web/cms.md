@@ -26,7 +26,7 @@
 - [rwtxt](https://github.com/schollz/rwtxt) - CMS for absolute minimalists. ([Web](https://rwtxt.com/public)) ([Lobsters](https://lobste.rs/s/xrqaxh/schollz_rwtxt_cms_for_absolute))
 - [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))
 - [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms))
-- [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack.
+- [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack. ([Slice Machine](https://github.com/prismicio/slice-machine))
 - [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS.
 - [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))
 - [New Strapi live demo: FoodAdvisor v2 using Strapi & Next.js (2021)](https://strapi.io/blog/foodadvisor-v2)

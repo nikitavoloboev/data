@@ -74,4 +74,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [I Built a Shed (2020)](https://eduardosasso.co/blog/how-i-built-a-wfh-shed/) ([HN](https://news.ycombinator.com/item?id=29770105))
 - [Designing a 100-year home in Accra](https://www.quartey.com/writing/designing-family-home)
 - [If It Were My Home](http://www.ifitweremyhome.com/) ([HN](https://news.ycombinator.com/item?id=30135346))
-- [Building a modern home](https://johnnyrodgers.is/building-a-modern-home) ([HN](https://news.ycombinator.com/item?id=30193899))
+- [Building a modern home](https://johnnyrodgers.is/building-a-modern-home) ([HN](https://news.ycombinator.com/item?id=30193899)) ([Tweet](https://twitter.com/johnnyrodgersis/status/1489245992083812357))

@@ -285,3 +285,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Hologram](https://github.com/AdRoll/hologram) - Easy, painless AWS credentials on developer laptops.
 - [Stack-Assembly](https://github.com/molecule-man/stack-assembly) - Command line tool to configure and deploy AWS Cloudformation stacks in a safe way.
 - [AWSTagHelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool.
+- [cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK.

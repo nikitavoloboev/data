@@ -51,3 +51,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Notes on Walker – Why We Sleep (2021)](http://www.federicopereiro.com/notes-walker-sleep/)
 - [Tips for sleeping better](https://twitter.com/amasad/status/1475268980608667650)
 - [Impacts of lack of sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html) ([HN](https://news.ycombinator.com/item?id=30184796))
+- [First images of cerebrospinal fluid in the brain during sleep (2019)](https://www.bu.edu/articles/2019/cerebrospinal-fluid-washing-in-brain-during-sleep/) ([HN](https://news.ycombinator.com/item?id=30222210))

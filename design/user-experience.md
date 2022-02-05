@@ -151,3 +151,5 @@
 - [Building like it's 1984: A comprehensive guide to creating intuitive context menus (2022)](https://height.app/blog/guide-to-build-context-menus)
 - [Settings are not a design failure (2022)](https://linear.app/blog/settings-are-not-a-design-failure) ([HN](https://news.ycombinator.com/item?id=30181291))
 - [Software Paper Cuts (2022)](https://matthewbischoff.com/software-paper-cuts/)
+- [Adobe tricks users into a 12 month contract (2022)](https://twitter.com/darkpatterns/status/1489901640777973768) ([HN](https://news.ycombinator.com/item?id=30222165))
+- [Ask HN: Software you hate but can't replace? (2022)](https://news.ycombinator.com/item?id=30223425)

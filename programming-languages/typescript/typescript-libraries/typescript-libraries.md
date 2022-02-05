@@ -26,6 +26,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
+- [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
 
 ## Test
 
@@ -304,6 +305,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [observable-fns](https://github.com/andywer/observable-fns) - Light-weight observable implementation and functional utilities in TypeScript.
 - [Colormath.js](https://github.com/scientific-dev/colormath.js) - Color conversion and color manipulation library written in typescript for Node.js, Deno and Browser.
 - [simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - Simplex noise implementation in JavaScript/TypeScript.
+- [until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
+- [outvariant](https://github.com/open-draft/outvariant) - Type-safe implementation of invariant with positionals.
+- [EventEmitter](https://github.com/open-draft/strict-event-emitter) - Mirror that restricts emitting/handling events other than specified in an interface.
 
 ## Links
 
@@ -342,3 +346,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [syncpack](https://github.com/JamieMason/syncpack) - Manage multiple package.json files, such as in Lerna Monorepos and Yarn/Pnpm Workspaces.
 - [TypeScript Internal Types](https://github.com/nonara/ts-expose-internals) - Expose TypeScript internal types by simply adding a development dependency.
 - [TS Creator](https://github.com/HearTao/ts-creator) - Code generator to generate TypeScript code generator from TypeScript code.
+- [dotalias](https://github.com/open-draft/dotalias) - Single configuration for path aliases to reuse across all your tools (TypeScript, webpack, Jest, etc.).
+- [ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS.

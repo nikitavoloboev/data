@@ -155,3 +155,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Three loud climate warning signals (2021)](https://www.axios.com/three-climate-warning-signals-9f930b4e-110a-4225-9eb9-c63a22993b82.html) ([HN](https://news.ycombinator.com/item?id=29552135))
 - [The quest to trap carbon in stone](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/) ([HN](https://news.ycombinator.com/item?id=29717389))
 - [How Bad Are Plastics for the Environment, Really? (2022)](https://www.theatlantic.com/science/archive/2022/01/plastic-history-climate-change/621033/)
+- [Climatiq Data Explorer](https://explorer.climatiq.io/) - Search Global Carbon Emission Factors. ([Code](https://github.com/climatiq/Open-Emission-Factors-DB))

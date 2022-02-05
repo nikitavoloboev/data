@@ -26,7 +26,7 @@
 
 ## DB
 
-- [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir. ([Brief Guide to Ecto](https://serokell.io/blog/ecto-guide-for-beginners))
+- [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir. ([Brief Guide to Ecto](https://serokell.io/blog/ecto-guide-for-beginners)) ([Tweet](https://twitter.com/josevalim/status/1489522409426325504))
 - [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [EctoMorph](https://github.com/Adzz/ecto_morph) - Morphs your Ecto capabilities.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.

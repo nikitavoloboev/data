@@ -693,3 +693,4 @@
 - [Type Exercise in Rust](https://github.com/skyzh/type-exercise-in-rust) - Learn Rust black magics by implementing an expression framework in database systems.
 - [AdaCore and Ferrous Systems Joining Forces to Support Rust (2022)](https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust) ([HN](https://news.ycombinator.com/item?id=30174827))
 - [Go concurrency patterns in Rust](https://github.com/munckymagik/go-concurrency-patterns-in-rust)
+- [Downcasting in Rust (2022)](https://ysantos.com/blog/downcast-rust) ([Reddit](https://www.reddit.com/r/rust/comments/sl773h/downcasting_in_rust/))

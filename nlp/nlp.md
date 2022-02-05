@@ -470,3 +470,4 @@
 - [Natural Language Processing with Transformers Book](https://www.oreilly.com/library/view/natural-language-processing/9781098103231/) ([Code](https://github.com/nlp-with-transformers/notebooks))
 - [blurr](https://github.com/ohmeow/blurr) - Library that integrates huggingface transformers with the world of fastai, giving fastai devs everything they need to train, evaluate, and deploy transformer specific models.
 - [HanLP](https://github.com/hankcs/HanLP) - Multilingual NLP library for researchers and companies, built on PyTorch and TensorFlow 2.x.
+- [Awesome Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)

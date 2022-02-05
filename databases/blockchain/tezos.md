@@ -88,3 +88,5 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [TzFlow](https://tzflow.com/) - Watch Tezos transactions as they happen.
 - [TZComet](https://tzcomet.io/#/explorer) - Contract Metadata Viewer on Tezos. ([Code](https://github.com/oxheadalpha/TZComet))
 - [Weaknesses of Tezos (2022)](https://www.reddit.com/r/tezos/comments/ruje5a/i_dont_think_tezos_can_compete_my_honest_thoughts/)
+- [Conseil](https://github.com/Cryptonomic/Conseil) - Query API and indexer for Tezos and other decentralized platforms.
+- [Beacon SDK](https://github.com/airgap-it/beacon-sdk) - Connect Wallets with dApps on Tezos.

@@ -2,9 +2,13 @@
 
 > Simple and performant reactivity for building user interfaces
 
+[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos).
+
 ## Links
 
 - [solid-nanostores](https://github.com/nanostores/solid) - Global state management in Solid using Nano Stores.
 - [Solid Lib Starter](https://github.com/amoutonbrady/solid-lib-starter)
 - [Solid Three, Custom Renderers, and SolidStart w/ Nikhil Saraf (2022)](https://www.youtube.com/watch?v=lsWXyyEsw7E)
 - [Solid App Router](https://github.com/solidjs/solid-app-router) - Universal router for Solid inspired by Ember and React Router.
+- [Let's do an AMA (2022)](https://www.youtube.com/watch?v=8_YiKUb6DW8)
+- [Solid Command Palette](https://github.com/itaditya/solid-command-palette) - UI Library for Command Palette in SolidJS webapps.

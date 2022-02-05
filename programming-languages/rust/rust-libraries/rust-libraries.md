@@ -195,6 +195,7 @@
 - [Rexie](https://github.com/devashishdxt/rexie) - Easy-to-use, futures based wrapper around IndexedDB that compiles to webassembly.
 - [Fang](https://github.com/ayrat555/fang) - Background job processing library for Rust. It uses Postgres DB as a task queue.
 - [async-redis-session](https://github.com/jbr/async-redis-session) - redis-backed session store for async-session.
+- [Pot](https://github.com/khonsulabs/pot) - Concise storage format, written for BonsaiDb.
 
 ## Video
 
@@ -283,6 +284,7 @@
 - [Cucumber Rust](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
 - [test-fuzz](https://github.com/trailofbits/test-fuzz) - Make fuzzing Rust easy.
 - [Grillon](https://github.com/theredfish/grillon) - Elegant and natural way to approach end-to-end HTTP API testing in Rust.
+- [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 
 ## Error
 
@@ -354,6 +356,7 @@
 - [gravity-rs](https://github.com/gendx/gravity-rs) - Rust implementation of the Gravity-post-quantum signature schemes.
 - [MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust.
 - [RustCrypto: Formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: PKCS, PKIX.
+- [crypto-hash](https://github.com/malept/crypto-hash) - Rust wrapper for OS-level cryptographic hash functions.
 
 ## Linux
 
@@ -481,6 +484,7 @@
 - [Modular Bitfields](https://github.com/Robbepop/modular-bitfield) - Macro to generate bitfields for structs that allow for modular use of enums.
 - [rust-mdo](https://github.com/TeXitoi/rust-mdo) - Monadic do notation for rust using macro and duck typing.
 - [derive-into-owned](https://github.com/koivunej/derive-into-owned) - Procedural macro for deriving helper methods for types with Cow fields.
+- [derive-where](https://github.com/ModProg/derive-where) - Derive macro to simplify deriving standard and other traits with custom generic type bounds.
 
 ## Math
 
@@ -489,6 +493,7 @@
 - [hnsw](https://github.com/rust-cv/hnsw) - Hierarchical Navigable Small World Graph for fast ANN search.
 - [statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust.
 - [sprs](https://github.com/vbarrielle/sprs) - Sparse linear algebra library for rust.
+- [Mathbox](https://github.com/freedeaths/mathbox-rs) - Collection of math tools for Rust.
 
 ## Other
 
@@ -526,6 +531,7 @@
 - [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
 - [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.
 - [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
+- [tikv-jemallocator](https://github.com/tikv/jemallocator) - Simplified fork of jemallocator focus on server.
 - [cargo-asm](https://github.com/gnzlbg/cargo-asm) - Cargo subcommand showing the assembly or llvm-ir generated for Rust code.
 - [Crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust.
 - [evmap](https://github.com/jonhoo/rust-evmap) - Lock-free, eventually consistent, concurrent multi-value map.
@@ -1376,9 +1382,10 @@
 - [Open Graphic Image Writer](https://github.com/keiya01/og_image_writer) - Generate Open Graphic Image with CSS-like API.
 - [crash-handling](https://github.com/EmbarkStudios/crash-handling) - Set of utility crates for catching and handling crashes.
 - [D-Bus](https://github.com/diwic/dbus-rs) - D-Bus binding for the Rust language.
-- [Deser](https://github.com/mitsuhiko/deser) - Experimental serialization system for Rust.
+- [Deser](https://github.com/mitsuhiko/deser) - Experimental serialization system for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/slbbfx/show_rrust_deser_an_experimental_serialization/))
 - [rpki](https://github.com/NLnetLabs/rpki-rs) - Library for Validating and Creating RPKI Data.
 - [Seize](https://github.com/ibraheemdev/seize) - Fast, efficient, and robust memory reclamation for concurrent data structures.
+- [timediff](https://github.com/lryong/timediff) - Rust library for printing human readable, relative time differences.
 
 ## Cargo Plugins
 

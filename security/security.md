@@ -253,3 +253,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Collection of macOS and iOS security resources.](https://github.com/kai5263499/osx-security-awesome)
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening)
 - [SentryPeer](https://github.com/SentryPeer/SentryPeer) - Distributed list of bad actor IP addresses and phone numbers collected via a SIP Honeypot. ([Web](https://sentrypeer.org/)) ([HN](https://news.ycombinator.com/item?id=30220208))
+- [Witness](https://github.com/testifysec/witness) - Pluggable framework for software supply chain security.

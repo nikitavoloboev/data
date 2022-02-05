@@ -104,3 +104,5 @@
 - [Vue Components as Custom Elements (2021)](https://maximomussini.com/posts/vue-custom-elements/)
 - [Typed Router for Nuxt 3](https://github.com/victorgarciaesgi/nuxt-typed-router)
 - [Vurian Wizard](https://github.com/mayashavin/vurian-wizard) - Wizard Vue component on Vue 3 and state machine.
+- [nuxtjs/partytown](https://github.com/nuxt-community/partytown-module) - Partytown integration for Nuxt.
+- [Lodash for Nuxt](https://github.com/cipami/nuxt-lodash)

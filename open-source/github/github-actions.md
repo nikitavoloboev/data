@@ -190,6 +190,7 @@
 - [@actions-rs example](https://github.com/actions-rs/example) - Rust application example which is using GitHub Actions for CI.
 - [Rust Cache Action](https://github.com/Swatinem/rust-cache) - GitHub Action that implements smart caching for rust/cargo projects with sensible defaults.
 - [Cargo Bloat Action](https://github.com/orf/cargo-bloat-action) - Track rust binary sizes across builds using Github Actions.
+- [Rust Release Binary](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions.
 
 ## Python
 

@@ -94,3 +94,4 @@
 - [Turtle](https://github.com/raviqqe/turtle-build) - Ninja build system clone in Rust.
 - [Rattle](https://github.com/ndmitchell/rattle) - Forward build system with speculation and caching.
 - [Understanding Gradle – Video Series](https://www.youtube.com/playlist?list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE) ([Code](https://github.com/jjohannes/understanding-gradle))
+- [Monorepo Explained](https://monorepo.tools/) ([Code](https://github.com/nrwl/monorepo.tools))

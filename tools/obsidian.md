@@ -74,6 +74,7 @@
 - [Obsidian Style Settings](https://github.com/mgmeyers/obsidian-style-settings) - Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables.
 - [Core Search Assistant](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - Obsidian plugin to enhance built-in search: keyboard interface, card preview, bigger preview.
 - [Timelines](https://github.com/Darakah/obsidian-timelines) - Generate a chronological timeline of all notes with the specified set of tags.
+- [Convert a URL into markdown](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls.
 
 ## Themes
 

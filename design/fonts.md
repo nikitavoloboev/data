@@ -96,6 +96,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Brutalita](https://brutalita.com/) - Grid based font editor and font. ([HN](https://news.ycombinator.com/item?id=29921137)) ([Code](https://github.com/javierbyte/brutalita))
 - [Agave](https://b.agaric.net/page/agave) - Small, monospaced, outline font that would be geometrically regular and simple. ([Code](https://github.com/blobject/agave))
 - [Readex](https://github.com/ThomasJockin/readexpro) - Variable font empirically shown to significantly improve reading-proficiency.
+- [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 
 ## Links
 
@@ -316,3 +317,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [How to avoid layout shifts caused by web fonts (2021](https://simonhearne.com/2021/layout-shifts-webfonts/) ([HN](https://news.ycombinator.com/item?id=30129571))
 - [Type-X](https://github.com/arrowtype/type-x) - Test your fonts across the web by easily overriding fonts on any webpage.
 - [In defense of user-defined web fonts (2022)](https://nutcroft.com/blog/in-defense-of-user-defined-web-fonts/) ([HN](https://news.ycombinator.com/item?id=30162678))
+- [fontvuer](https://fontvuer.netlify.app/) - Cross platform font viewer. ([Code](https://github.com/ssssota/fontvuer))

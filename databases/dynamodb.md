@@ -77,3 +77,4 @@
 - [Go DynamoDB Web App Starter](https://github.com/kaihendry/go-web-dynamo-starter)
 - [How to develop an AWS hosted DynamoDB Web application locally](https://github.com/kaihendry/local-audio)
 - [TypeDORM](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
+- [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API.

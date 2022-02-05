@@ -446,6 +446,7 @@
 - [MySQLKit](https://github.com/vapor/mysql-kit) - Non-blocking, event-driven Swift client for MySQL.
 - [MySQLNio](https://github.com/vapor/mysql-nio) - Non-blocking, event-driven Swift client for MySQL built on SwiftNIO.
 - [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models.
+- [Swift ORM](https://github.com/prisma-ai/Sworm) - CoreData based Swift ORM.
 
 ## Graphics
 
@@ -924,6 +925,7 @@
 - [SwiftyDraw](https://github.com/Awalz/SwiftyDraw) - Simple, lightweight drawing framework written in Swift.
 - [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - Small library that adds concurrency to CoreBluetooth APIs.
 - [JXKit](https://github.com/jectivex/JXKit) - Pure swift interface to JavaScriptCore.
+- [CGPathIntersection](https://github.com/calda/CGPathIntersection) - Library that identifies points where two CGPaths intersect.
 
 ## Other (not lib)
 

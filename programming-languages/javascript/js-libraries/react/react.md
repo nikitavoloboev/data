@@ -295,3 +295,4 @@
 - [React Conf 2021 Recap](https://reactjs.org/blog/2021/12/17/react-conf-2021-recap.html)
 - [Modern API data-fetching methods in React (2021)](https://blog.logrocket.com/modern-api-data-fetching-methods-react/)
 - [Ask HN: Should I even bother with React? (2022)](https://news.ycombinator.com/item?id=30046364)
+- [This Week In React Newsletter](https://www.getrevue.co/profile/thisweekinreact) ([Code](https://github.com/slorber/this-week-in-react))

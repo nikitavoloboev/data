@@ -758,6 +758,8 @@
 - [better-eval](https://github.com/bharadwajduggaraju/better-eval) - Alternative to 'eval' in JavaScript that is customizable and safer.
 - [resolve.exports](https://github.com/lukeed/resolve.exports) - Tiny (737b), correct, general-purpose, and configurable `"exports"` resolver without file-system reliance.
 - [Peggy](https://github.com/peggyjs/peggy) - Parser generator for JavaScript. ([Web](https://peggyjs.org/))
+- [zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno.
+- [Data-oriented Serialization for SoA/AoS](https://github.com/Web-ECS/dod-serialization) - Serialization library for data-oriented design structures.
 
 ## Links
 
