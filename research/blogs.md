@@ -95,6 +95,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Josh Haberman](https://blog.reverberate.org/)
 - [Jason Williams](https://jason-williams.co.uk/)
 - [Matt Ferraro](https://mattferraro.dev/)
+- [Arvi Teikari](http://www.hempuli.com/blogblog/)
 
 ## Notes
 

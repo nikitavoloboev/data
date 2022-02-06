@@ -2,7 +2,7 @@
 
 ## Interesting communities
 
-- [Merveilles](https://merveilles.town/about) - Community project aimed at the establishment of new ways of speaking, seeing and organizing information. ([Code](https://github.com/merveilles/merveilles-town)) ([Resources](https://github.com/merveilles/The-Town)) ([Resources 2](https://github.com/merveilles/Resources))
+- [Merveilles](https://merveilles.town/about) - Community project aimed at the establishment of new ways of speaking, seeing and organizing information. ([Code](https://github.com/merveilles/merveilles-town)) ([Resources](https://github.com/merveilles/The-Town)) ([Resources 2](https://github.com/merveilles/Resources)) ([Forum](https://forum.merveilles.town/))
 - [Chaos Social](https://chaos.social/about) - Fediverse instance for & by the Chaos community.
 - [Scholar Social](https://scholar.social/about) - Federated microblogging for academics.
 - [botsin.space](https://botsin.space/about) - Mastodon instance for bots and bot allies.

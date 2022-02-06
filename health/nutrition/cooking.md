@@ -36,3 +36,4 @@ I share some [recipes I like](recipes.md).
 - [Ask HN: Is Anyone Here a Professional Baker? (2021)](https://news.ycombinator.com/item?id=28886933)
 - [Modernist Cuisine](https://modernistcuisine.com/books/modernist-cuisine/)
 - [What meals do you keep ingredients on hand to make often?](https://twitter.com/chrisbiscardi/status/1466814242280009730)
+- [100R — cooking](https://100r.co/site/cooking.html) ([Tweet](https://merveilles.town/web/statuses/107732201204446822))

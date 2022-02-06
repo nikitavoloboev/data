@@ -34,3 +34,4 @@
 - [CuraEngine](https://github.com/Ultimaker/CuraEngine) - C++ console application for 3D printing GCode generation.
 - [PUMA](https://github.com/TadPath/PUMA) - 3D Printed Microscope.
 - [Slic3r](https://slic3r.org/) - Open source 3D printing toolbox. ([Code](https://github.com/slic3r/Slic3r))
+- [Wasp 3D-prints eco-homes from local raw earth for $1K (2021)](https://www.youtube.com/watch?v=4MLJs1KRa0Y) ([Tweet](https://merveilles.town/web/statuses/107743030112072919))

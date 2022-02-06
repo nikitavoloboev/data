@@ -461,3 +461,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Marmite](https://github.com/primitivefinance/hardhat-marmite) - Hassle-free Hardhat plugin to compare gas cost among different Solidity code snippets.
 - [Forge Standard Library](https://github.com/brockelmore/forge-std) - Collection of helpful contracts for use with forge and foundry.
 - [cairo-bloom](https://github.com/sambarnes/cairo-bloom) - Naive bloom filter implementation in Cairo.
+- [Kindelia](https://github.com/Kindelia/Kindelia) - Massive simplification of Ethereum. It takes its most important aspects and removes all the redundancy.

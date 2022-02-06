@@ -1282,6 +1282,7 @@
 - [GoHook](https://github.com/robotn/gohook) - Go global keyboard and mouse listener hook.
 - [CancelReader](https://github.com/muesli/cancelreader) - Cancelable reader for Go.
 - [iconv](https://github.com/qiniu/iconv) - Convert string to requested character encoding.
+- [dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus.
 
 ## Links
 

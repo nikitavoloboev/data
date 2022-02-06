@@ -352,3 +352,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dotalias](https://github.com/open-draft/dotalias) - Single configuration for path aliases to reuse across all your tools (TypeScript, webpack, Jest, etc.).
 - [ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS.
 - [get-packages](https://github.com/egoist/get-packages) - Get packages from a monorepo (pnpm, yarn, npm, lerna).
+- [tsync](https://github.com/Wulf/tsync) - Synchronize rust and typescript types.

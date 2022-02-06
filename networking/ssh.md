@@ -90,3 +90,4 @@
 - [Restricting SSH agent keys (2022)](https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/) ([HN](https://news.ycombinator.com/item?id=29816508))
 - [Best Practices for Securing SSH (2022)](https://goteleport.com/blog/5-ssh-best-practices/) ([HN](https://news.ycombinator.com/item?id=29812819))
 - [Wishlist](https://github.com/charmbracelet/wishlist) - SSH directory.
+- [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.

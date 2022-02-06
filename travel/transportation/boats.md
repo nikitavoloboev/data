@@ -22,3 +22,5 @@
 - [Yara birkeland, the first autonomous and emission-free containership (2021)](https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/) ([HN](https://news.ycombinator.com/item?id=29292322)) ([Reddit](https://www.reddit.com/r/UpliftingNews/comments/qz6muu/the_worlds_first_electric_and_selfpropelled/))
 - [Inside Rafael Nadal's Yacht! I Got an Exclusive Tour in Monaco (2021)](https://www.youtube.com/watch?v=RsurbNcFjuc)
 - [13 years sailing around the world](http://blog.mailasail.com/wildfox) ([HN](https://news.ycombinator.com/item?id=30084217))
+- [Busy Doing Nothing by Rek & Devine](https://hundredrabbits.itch.io/busy-doing-nothing)
+- [Zen and the Art of Boat Building (2014)](https://www.yachtmollymawk.com/2014/11/zen-and-the-art-of-boat-building/)

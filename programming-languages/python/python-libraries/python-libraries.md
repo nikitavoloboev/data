@@ -669,6 +669,7 @@
 - [Loky](https://github.com/joblib/loky) - Reusable Process Pool Executor.
 - [python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [Pebble](https://github.com/noxdafox/pebble) - Provides a neat API to manage threads and processes within an application.
+- [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio by using an ambient event loop, or executing in separate threads or processes.
 
 ## Links
 

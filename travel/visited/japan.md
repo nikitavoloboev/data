@@ -65,3 +65,4 @@
 - [Tokyo: A big city that is also pleasant to live in (2021)](https://www.economist.com/special-report/2021/12/07/the-big-city-that-is-also-pleasant-to-live-in) ([HN](https://news.ycombinator.com/item?id=29755772))
 - [Sudachi for Transformers (chiTra)](https://github.com/WorksApplications/SudachiTra) - Japanese tokenizer for Transformers.
 - [Sudachi](https://github.com/WorksApplications/Sudachi) - Japanese morphological analyzer.
+- [Japanese Pronunciation 101: Devoicing (2021)](https://www.youtube.com/watch?v=iYQM7BhJJns)
