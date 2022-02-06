@@ -2,7 +2,7 @@
 
 I eat a whole food, plant based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
 
-Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados.
+Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados. I love Indian, Japanese & Georgian cuisine the most.
 
 I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md) where necessary. I sometimes make little smoothies.
 

@@ -128,3 +128,4 @@
 - [Why Doesn't Software Show Up in Productivity? (2021)](https://austinvernon.site/blog/softwareisprocess.html)
 - [EconGraphs](https://www.econgraphs.org/) - Intuitive interactive visualizations of key concepts in economics.
 - [What are the most contested and cutting-edge questions in economics today? (2022)](https://www.reddit.com/r/AskEconomics/comments/scs84v/what_are_the_most_contested_and_cuttingedge/)
+- [How We Broke the Supply Chain (2022)](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)

@@ -125,3 +125,4 @@
 - [R internals](https://github.com/hadley/r-internals) - Documentation for R's internal C API.
 - [startr](https://github.com/globeandmail/startr) - Template for data journalism in R.
 - [styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code.
+- [Quick Introduction to R](https://github.com/karoliskoncevicius/tutorial_r_introduction) ([HN](https://news.ycombinator.com/item?id=30230846))

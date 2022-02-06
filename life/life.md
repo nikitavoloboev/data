@@ -29,6 +29,7 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Every person has two lives; the second starts when they realizes they just have one. No time like the present to be the best version of yourself yet.](https://twitter.com/bscholl/status/1468758265714679811)
 - [The person you think you are only exists inside your own head. Everyone else sees their own version of "you". You are the sum of your actions and interactions with them. You have to actually BE the person you think you are.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [The ultimate freedom is living without fear.](https://twitter.com/laserlikemike/status/1476684925478707200)
+- [Be the man your dog thinks you are.](https://www.reddit.com/r/AskMen/comments/slq9wt/what_unwritten_rules_should_all_men_follow/)
 
 ## Links
 

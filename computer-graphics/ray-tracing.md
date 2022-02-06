@@ -95,3 +95,4 @@
 - [euclider](https://github.com/Limeth/euclider) - Higher dimensional raytracing prototype with non-euclidean-like features.
 - [RT](https://github.com/mustafaquraish/rt) - Ray tracing engine, from scratch, in C++.
 - [Ambient occlusion for real-time ray-tracing (2022)](http://www.alexisbreust.fr/2022-ray-tracing-in-10ms-ambient-occlusion.html) ([Reddit](https://www.reddit.com/r/GraphicsProgramming/comments/skjfxd/ambient_occlusion_for_realtime_raytracing/))
+- [etx-tracer](https://github.com/sergeyreznik/etx-tracer) - Physically-based CPU and GPU ray-tracer.

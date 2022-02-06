@@ -926,6 +926,8 @@
 - [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - Small library that adds concurrency to CoreBluetooth APIs.
 - [JXKit](https://github.com/jectivex/JXKit) - Pure swift interface to JavaScriptCore.
 - [CGPathIntersection](https://github.com/calda/CGPathIntersection) - Library that identifies points where two CGPaths intersect.
+- [OSCKit](https://github.com/sammysmallman/OSCKit) - Classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
+- [Sextant](https://github.com/KittyMac/Sextant) - Complete, high performance JSONPath implementation written in Swift.
 
 ## Other (not lib)
 
@@ -968,3 +970,4 @@
 - [nixSwiftPM](https://github.com/dduan/nixSwiftPM) - Helper for building SwiftPM projects in Nix.
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - License list generator of all your dependencies for iOS applications.
 - [SwiftLintPlugin](https://github.com/stackotter/swift-lint-plugin) - SwiftPM plugin that adds a linting command.
+- [Sitrep](https://github.com/twostraws/Sitrep) - Source code analyzer for Swift projects.

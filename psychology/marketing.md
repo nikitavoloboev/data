@@ -162,6 +162,7 @@
 - [Marketing Tools & Software for Businesses](https://www.btw.so/marketing-tools)
 - [Marketing is scary for a solo developer](https://raumet.com/marketing) ([HN](https://news.ycombinator.com/item?id=29538355))
 - [Best marketing resources for startups](https://twitter.com/heyeaslo/status/1484707399415992320)
+- [Ask HN: Does targeted advertising work at all? (2022)](https://news.ycombinator.com/item?id=30228458)
 
 ## Images
 

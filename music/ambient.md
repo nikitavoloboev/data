@@ -1,5 +1,7 @@
 # Ambient sounds
 
+Love [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh)'s music for focusing.
+
 ## Links
 
 - [Ambient Chaos](https://neal.fun/ambient-chaos/) ([HN](https://news.ycombinator.com/item?id=28566705))

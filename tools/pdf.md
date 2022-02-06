@@ -32,3 +32,4 @@
 - [labelmake](https://github.com/hand-dot/labelmake) - Declarative style PDF generation library for Node and the browser.
 - [Reducing the size of large PDFs (2022)](https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/) ([HN](https://news.ycombinator.com/item?id=30137127))
 - [Purdy](https://github.com/murtyjones/purdy) - Experimental PDF renderer built on top of WebGPU.
+- [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction.

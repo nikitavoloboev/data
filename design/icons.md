@@ -108,3 +108,4 @@
 - [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands. ([Code](https://github.com/simple-icons/simple-icons))
 - [Bytesize Icons](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset. ([Code](https://github.com/danklammer/bytesize-icons))
 - [Your favorite open source icon library (2022)](https://twitter.com/argyleink/status/1480237318971686918)
+- [Vertex.im](https://vertex.im/) - Free customizable 3D icons.

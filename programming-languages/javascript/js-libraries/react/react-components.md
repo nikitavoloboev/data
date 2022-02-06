@@ -253,6 +253,7 @@
 - [LYTS](https://github.com/christiankaindl/LYTS) - Layout primitives for React. ([Tweet](https://twitter.com/christiankaindl/status/1488596994763468808))
 - [Rough Notation React](https://github.com/linkstrifer/react-rough-notation)
 - [React Lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - React component that loads and views remote text in the browser lazily and efficiently.
+- [react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet) - Built on top of react-spring and react-use-gesture.
 
 ## Links
 

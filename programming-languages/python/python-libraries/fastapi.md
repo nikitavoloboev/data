@@ -8,3 +8,4 @@
 - [Sebastián Ramírez's Blog](https://dev.to/tiangolo) ([Code](https://github.com/tiangolo/blog-posts))
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 - [FastAPI + React](https://github.com/Buuntu/fastapi-react) - Cookiecutter Template for FastAPI + React Projects. Using PostgreSQL, SQLAlchemy, and Docker.
+- [Brif](https://github.com/pierrz/brif) - Boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.

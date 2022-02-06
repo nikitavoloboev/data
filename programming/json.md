@@ -95,7 +95,7 @@
 - [JSON-S](https://github.com/brillout/json-s) - Same as JSON but with added support for Date, undefined, NaN, Infinity, and RegExp.
 - [toml2json](https://github.com/woodruffw/toml2json) - Small CLI for converting TOML to JSON.
 - [Deserializing JSON Fast (2020)](https://blog.datalust.co/deserializing-json-really-fast/) ([HN](https://news.ycombinator.com/item?id=29750062))
-- [jo](https://github.com/jpmens/jo) - Small utility to create JSON objects.
+- [jo](https://github.com/jpmens/jo) - Small utility to create JSON objects. ([Article](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)) ([HN](https://news.ycombinator.com/item?id=30224063))
 - [jq kung fu](https://www.jqkungfu.com/) - jq playground, written in WebAssembly. ([Code](https://github.com/robertaboukhalil/jqkungfu))
 - [Analyzing large JSON files via partial JSON parsing (2022)](https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html)
 - [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer. ([HN](https://news.ycombinator.com/item?id=29861043))

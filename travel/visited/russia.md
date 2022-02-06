@@ -413,3 +413,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Агентство «Панорама»](https://panorama.pub/)
 - [Обёртка для API сервиса lknpd.nalog.ru](https://github.com/alexstep/moy-nalog)
 - [Прошло десять лет с февральских протестов 2012 года](https://meduza.io/feature/2022/02/04/pomnite-plachuschego-putina-a-mitingi-na-sto-tysyach-chelovek-v-20-gradusnyy-moroz)
+- [Russia's attempts at disinformation](https://twitter.com/bellingcat/status/1489599162484154368)

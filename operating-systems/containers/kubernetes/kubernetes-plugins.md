@@ -69,3 +69,4 @@
 - [Astronomer Platform Helm Charts](https://github.com/astronomer/astronomer) - Helm Charts for the Astronomer Platform, Apache Airflow as a Service on Kubernetes.
 - [Scheduler Plugins](https://github.com/kubernetes-sigs/scheduler-plugins) - Repository for out-of-tree scheduler plugins based on scheduler framework.
 - [Helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml.
+- [apiextensions-apiserver](https://github.com/kubernetes/apiextensions-apiserver) - API server for API extensions like CustomResourceDefinitions.

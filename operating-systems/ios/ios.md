@@ -92,6 +92,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Safari iOS app clone](https://github.com/amerhukic/Browser)
 - [Builder](https://github.com/hmlongco/Builder) - iOS app that demonstrates builder patterns for UI and networking.
 - [Tokenary](https://github.com/zeriontech/Tokenary) - Crypto wallet for  Safari. ([Web](https://tokenary.io/))
+- [Wordle in SwiftUI](https://github.com/mischa-hildebrand/Wordle)
 
 ## Other
 

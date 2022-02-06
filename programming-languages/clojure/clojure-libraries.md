@@ -47,6 +47,7 @@
 
 ## CLI
 
+- [bbb](https://github.com/nikvdp/bbb) - Low friction, quick and easy way to develop CLI tools in Clojure that you can distribute as self-contained static binaries.
 - [malli-cli](https://github.com/piotr-yuxuan/malli-cli) - Command-line processing.
 
 ## Test
@@ -152,6 +153,7 @@
 - [donut.system](https://github.com/donut-power/system) - Dependency injection library for Clojure and ClojureScript.
 - [Hitchhiker](https://github.com/replikativ/hitchhiker-tree) - Functional, persistent, off-heap, high performance data structure.
 - [hasch](https://github.com/replikativ/hasch) - Cross-platform (JVM and JS atm.) edn data structure hashing for Clojure.
+- [at-at](https://github.com/overtone/at-at) - Ahead-of-time function scheduler.
 
 ## Links
 

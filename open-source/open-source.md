@@ -217,3 +217,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [The Asymmetry of Open Source (2021)](https://matt.life/writing/the-asymmetry-of-open-source) ([Tweet](https://twitter.com/mholt6/status/1473778133388062720))
 - [Embark Open Source](https://github.com/EmbarkStudios/opensource) - Open source processes, policies, and info.
 - [opensource-template](https://github.com/EmbarkStudios/opensource-template) - Template for creating new open source repositories that follow the Embark open source guidelines.
+- [Documentation and Practices for Open Source Development at Chef](https://github.com/chef/chef-oss-practices)

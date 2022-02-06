@@ -277,3 +277,4 @@
 - [Failing to reach DDR4 bandwidth (2022)](https://unum.cloud/post/2022-01-29-ddr4/) ([HN](https://news.ycombinator.com/item?id=30178764))
 - [DRAM Errors in the Wild: A Large-Scale Field Study (2009)](http://www.cs.toronto.edu/~bianca/papers/sigmetrics09.pdf)
 - [Creating Camera Lenses with Stereolithography](https://formlabs.com/blog/creating-camera-lenses-with-stereolithography/) ([HN](https://news.ycombinator.com/item?id=30191570))
+- [Ask HN: Any piece of hardware that was more of game changer than you expected? (2022)](https://news.ycombinator.com/item?id=30231171)

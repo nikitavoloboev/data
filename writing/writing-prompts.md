@@ -14,3 +14,4 @@ I never answered any of these prompts but I hope to try flex my creative writing
 
 - [Writing Prompts](https://prompts.ml/) - Never run out of writing ideas again.
 - [Favorite opening lines : Fantasy](https://www.reddit.com/r/Fantasy/comments/lwf5m4/favorite_opening_lines/)
+- [Narrative Device](https://narrative-device.herokuapp.com/) - Get inspiration for a story from an AI, just write two themes and see the first paragraph come alive.

@@ -1,6 +1,6 @@
 # [Automated theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving)
 
-[Lean](lean.md) is [great](https://www.youtube.com/watch?v=Dp-mQ3HxgDE).
+[Lean](lean.md) is [great](https://www.youtube.com/watch?v=Dp-mQ3HxgDE). [Kind](https://github.com/Kindelia/Kind) looks awesome too.
 
 ## Links
 
@@ -23,3 +23,4 @@
 - [Twee](https://github.com/nick8325/twee) - Equational theorem prover based on Knuth-Bendix completion.
 - [HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (2019)](https://arxiv.org/abs/1904.03241)
 - [Cicada Language](https://cicada-lang.org/) - Dependently typed programming language and an interactive theorem prover.
+- [Holbert](https://github.com/liamoc/holbert) - Graphical interactive proof assistant designed for education.

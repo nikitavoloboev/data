@@ -143,3 +143,4 @@
 - [IKEA 3D Assembly Dataset](https://github.com/IKEA/IKEA3DAssemblyDataset)
 - [Imbalanced Dataset Sampler](https://github.com/ufoym/imbalanced-dataset-sampler) - PyTorch imbalanced dataset sampler for oversampling low frequent classes and undersampling high frequent ones.
 - [ADE20K Dataset](https://groups.csail.mit.edu/vision/datasets/ADE20K/) - Composed of more than 27K images from the SUN and Places databases. ([Code](https://github.com/CSAILVision/ADE20K))
+- [Datasets of Automatic Keyphrase Extraction](https://github.com/LIAAD/KeywordExtractor-Datasets)

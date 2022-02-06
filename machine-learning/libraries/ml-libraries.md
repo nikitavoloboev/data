@@ -275,3 +275,5 @@
 - [ML Collections](https://github.com/google/ml_collections) - Library of Python Collections designed for ML use cases.
 - [Latte](https://github.com/karnwatcharasupat/latte) - Cross-framework Python Package for Evaluation of Latent-based Generative Models.
 - [Raster Vision](https://github.com/azavea/raster-vision) - Open source framework for deep learning on satellite and aerial imagery.
+- [SPEAR](https://github.com/decile-team/spear) - Semi-Supervised Data Programming for Data Efficient Machine Learning.
+- [Ivy](https://github.com/unifyai/ivy) - Unified machine learning framework, enabling framework-agnostic functions, layers and libraries.

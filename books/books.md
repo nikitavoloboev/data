@@ -493,3 +493,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Издательство «МИФ»](https://www.mann-ivanov-ferber.ru/)
 - [How James Clear is Writing His Next Book (2021)](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
 - [How to easily read 50 books a year](https://www.ramoswriter.com/how-to-read-more/) ([HN](https://news.ycombinator.com/item?id=29905186))
+- [Thoth](https://github.com/thoth-pub/thoth) - Metadata management and dissemination system for Open Access books.

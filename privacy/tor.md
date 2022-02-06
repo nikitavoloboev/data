@@ -41,3 +41,5 @@
 - [Tor in 2022](https://blog.torproject.org/tor-in-2022/) ([HN](https://news.ycombinator.com/item?id=29635213))
 - [Expose server behind NAT with Tor (2019)](https://golb.hplar.ch/2019/01/expose-server-tor.html) ([HN](https://news.ycombinator.com/item?id=29929399))
 - [Tor Browser: a legacy of advancing private browsing innovation (2022)](https://blog.torproject.org/tor-browser-advancing-privacy-innovation/) ([HN](https://news.ycombinator.com/item?id=30123982))
+- [oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything.
+- [go-libtor](https://github.com/berty/go-libtor) - Self-contained, fully statically linked Tor library for Go.

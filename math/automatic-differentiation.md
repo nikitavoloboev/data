@@ -24,3 +24,4 @@
 - [Decomposing reverse-mode automatic differentiation (2021)](https://arxiv.org/abs/2105.09469)
 - [RustAD](https://github.com/JonathanWoollett-Light/rust-ad) - Rust Auto-Differentiation.
 - [Storchastic](https://github.com/HEmile/storchastic) - PyTorch library for stochastic gradient estimation in Deep Learning.
+- [AbstractDifferentiation](https://github.com/JuliaDiff/AbstractDifferentiation.jl) - Abstract interface for automatic differentiation.

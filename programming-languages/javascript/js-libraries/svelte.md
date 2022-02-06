@@ -177,3 +177,4 @@
 - [TaleNote](https://github.com/d4rekanguok/talenote) - Storybook-esque component directory, embed right into SvelteKit.
 - [svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 - [threlte](https://github.com/grischaerbe/threlte) - Three.js component library for svelte.
+- [svelte-wasm](https://github.com/tobiasbernet/svelte-wasm) - Example project that how WebAssembly and Svelte could work together.

@@ -225,3 +225,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Theoretical Advances in AMM (Automated Market Maker) Understanding](https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding) ([HN](https://news.ycombinator.com/item?id=30113170))
 - [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism (2022)](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/)
 - [Cryptopunk](https://github.com/ayrat555/cryptopunk) - Hierarchical deterministic wallet for Elixir. ([Article](https://www.badykov.com/elixir/cryptopunk/))
+- [Basic Skill Tree for those looking to get into crypto](https://twitter.com/Darrenlautf/status/1434877372700901384)

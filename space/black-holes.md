@@ -41,3 +41,4 @@
 - [Black Holes: The Edge of All We Know (2020)](https://letterboxd.com/film/black-holes-the-edge-of-all-we-know/)
 - [In 1783, an English rector predicted black holes using classical mechanics](https://interestingengineering.com/forgotten-preacher-predicts-black-holes-a-century-before-einstein) ([HN](https://news.ycombinator.com/item?id=29026073))
 - [Are Fuzzballs the new understanding of Black Holes? (2021)](https://www.youtube.com/watch?v=RbvVeVHVcgs) ([Reddit](https://www.reddit.com/r/Physics/comments/rkaqkr/my_friend_made_a_video_interviewing_a_famous/))
+- [Imminent merger of a supermassive black hole binary (2022)](https://arxiv.org/abs/2201.11633) ([HN](https://news.ycombinator.com/item?id=30228095))

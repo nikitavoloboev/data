@@ -4,6 +4,7 @@
 
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
+- [bubblelister](https://github.com/treilik/bubblelister) - bubble to list your structs in a bubbletea program.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
 - [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
@@ -1278,6 +1279,9 @@
 - [teivah/onecontext](https://github.com/teivah/onecontext) - Set of Go context's utilities.
 - [btree](https://github.com/amit-davidson/btree) - Go implementation of a B-Tree.
 - [prism](https://github.com/mandykoh/prism) - Color management for Go.
+- [GoHook](https://github.com/robotn/gohook) - Go global keyboard and mouse listener hook.
+- [CancelReader](https://github.com/muesli/cancelreader) - Cancelable reader for Go.
+- [iconv](https://github.com/qiniu/iconv) - Convert string to requested character encoding.
 
 ## Links
 

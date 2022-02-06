@@ -183,6 +183,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [deploy-rs](https://github.com/serokell/deploy-rs) - Simple, multi-profile Nix-flake deploy tool.
 - [TodoMVC-Nix](https://github.com/nix-community/todomvc-nix) - One-stop reference to build TodoMVC application inside the Nix world.
 - [Trustix: Distributed trust and reproducibility tracking for binary caches (2020)](https://www.tweag.io/blog/2020-12-16-trustix-announcement/) ([Code](https://github.com/tweag/trustix))
+- [Trustix - Consensus and voting (2022)](https://www.tweag.io/blog/2022-02-03-trustix-voting/)
 - [Binary Verification with Trustix starring Adam Höse (2021)](https://overcast.fm/+i6QEhiFYA)
 - [Building with Nix Flakes for, eh .. reasons (2021)](https://blog.ysndr.de/posts/internals/2021-01-01-flake-ification/)
 - [What is the right approach to handling binary, non-executable data dependencies of packages? (2021)](https://www.reddit.com/r/NixOS/comments/kqe57g/what_is_the_right_approach_to_handling_binary/)

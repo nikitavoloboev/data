@@ -75,6 +75,8 @@
 - [Core Search Assistant](https://github.com/qawatake/obsidian-core-search-assistant-plugin) - Obsidian plugin to enhance built-in search: keyboard interface, card preview, bigger preview.
 - [Timelines](https://github.com/Darakah/obsidian-timelines) - Generate a chronological timeline of all notes with the specified set of tags.
 - [Convert a URL into markdown](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls.
+- [Obsidian Block Reference Counts](https://github.com/shabegom/obsidian-reference-count) - Show Reference Count of Block Refs.
+- [Cross-reference Navigation](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Plugin for Obsidian that lets you navigate through your notes using their tags.
 
 ## Themes
 

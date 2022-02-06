@@ -51,6 +51,7 @@
 - [projector-server](https://github.com/JetBrains/projector-server) - Server-side library for running Swing applications remotely.
 - [kjob](https://github.com/justwrote/kjob) - Lightweight coroutine based persistent job/cron scheduler written in Kotlin.
 - [ktoml](https://github.com/akuleshov7/ktoml) - Multiplatform TOML parser and serializer/deserializer for Kotlin Native.
+- [DI.kt](https://github.com/sergeshustoff/dikt) - Simple and powerful DI for kotlin multiplatform.
 
 ## Links
 

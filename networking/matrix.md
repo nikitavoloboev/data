@@ -8,6 +8,7 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 
 - [IRC](https://github.com/matrix-org/matrix-ircd)
 - [WhatsApp](https://github.com/tulir/mautrix-whatsapp)
+- [matrix-hookshot](https://github.com/Half-Shot/matrix-hookshot) - Bridge between Matrix and multiple project management services, such as GitHub, GitLab and JIRA.
 
 ## Bots
 

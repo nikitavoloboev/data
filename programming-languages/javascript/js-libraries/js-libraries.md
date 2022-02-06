@@ -760,6 +760,8 @@
 - [Peggy](https://github.com/peggyjs/peggy) - Parser generator for JavaScript. ([Web](https://peggyjs.org/))
 - [zip.js](https://github.com/gildas-lormeau/zip.js) - JavaScript library to zip and unzip files in the browser and Deno.
 - [Data-oriented Serialization for SoA/AoS](https://github.com/Web-ECS/dod-serialization) - Serialization library for data-oriented design structures.
+- [node-ffmpeg-installer](https://github.com/kribblo/node-ffmpeg-installer) - Platform independent binary installer of FFmpeg for node projects.
+- [Smoothie Charts](https://github.com/joewalnes/smoothie) - Small charting library designed for live streaming data.
 
 ## Links
 
@@ -804,3 +806,5 @@
 - [EsBuild Visualizer](https://github.com/btd/esbuild-visualizer) - Visualize and analyze your esbuild bundle to see which modules are taking up space.
 - [npmcli/template-oss](https://github.com/npm/template-oss) - Template package for npm CLI team development.
 - [Taze](https://github.com/antfu/taze) - Modern cli tool that keeps your deps fresh.
+- [bundt](https://github.com/lukeed/bundt) - Simple bundler for your delicious modules.
+- [Taskr](https://github.com/lukeed/taskr) - Fast, concurrency-focused task automation tool.

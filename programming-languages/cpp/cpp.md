@@ -296,3 +296,4 @@
 - [Const all the things? (2022)](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/) ([HN](https://news.ycombinator.com/item?id=30054059))
 - [A Tour of C++ - Reading Notes (2022)](https://ianyepan.github.io/posts/cpp-notes-pt1/)
 - [Branchless Programming in C++ - Fedor Pikus - CppCon 2021](https://www.youtube.com/watch?v=g-WPhYREFjk)
+- [Working with Strings in Embedded C++ (2022)](https://blog.feabhas.com/2022/02/working-with-strings-in-embedded-c/)

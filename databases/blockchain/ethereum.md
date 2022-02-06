@@ -336,7 +336,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Circuits for zkEVM](https://github.com/appliedzkp/zkevm-circuits)
 - [HyperCube](https://github.com/hypercube-lab/hypercube) - Ethereum 2-layer solution based on proof of POD dedication and an independent public chain.
 - [zero-protocol](https://github.com/zerodao-finance/zero-protocol) - Short term lending on Ethereum as a framework for cross-chain asset transfer.
-- [Radix DLT](https://www.radixdlt.com/) - Layer 1 DeFi done right.
+- [Radix DLT](https://www.radixdlt.com/) - Layer 1 DeFi done right. ([Radix DLT 1.0-beta.35.1](https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1)) ([Lobsters](https://lobste.rs/s/ltexke/jepsen_radix_dlt_1_0_beta_35_1)) ([HN](https://news.ycombinator.com/item?id=30221187))
 - [Niftyswap](https://github.com/0xsequence/niftyswap) - Decentralized swap protocol for ERC-1155 tokens, inspired by Uniswap.
 - [Origin](https://github.com/application-research/origin) - Fast web3 application toolkit.
 - [EVM Shell](https://github.com/tintinweb/evm-shell) - Hands-on interactive EVM repl/shell. Low-level ethereum virtual machine inspection.
@@ -460,3 +460,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [synceth](https://github.com/withtally/synceth) - Smart contract development toolchain for Go.
 - [Marmite](https://github.com/primitivefinance/hardhat-marmite) - Hassle-free Hardhat plugin to compare gas cost among different Solidity code snippets.
 - [Forge Standard Library](https://github.com/brockelmore/forge-std) - Collection of helpful contracts for use with forge and foundry.
+- [cairo-bloom](https://github.com/sambarnes/cairo-bloom) - Naive bloom filter implementation in Cairo.

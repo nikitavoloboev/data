@@ -173,3 +173,4 @@
 - [Scala.js Browser Extension Example](https://github.com/er1c/scala-js-browser-extension-example)
 - [1History](https://github.com/1History/1History) - Command line tool to backup your histories of different browsers into one file, and more.
 - [Diving into Userscripts](https://www.thomasvanderberg.nl/blog/diving-into-userscripts/) ([HN](https://news.ycombinator.com/item?id=30167750))
+- [Ask HN: Notes, mind-maps, browser tabs all in one solution? (2022)](https://news.ycombinator.com/item?id=30227292)

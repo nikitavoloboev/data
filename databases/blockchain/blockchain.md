@@ -338,3 +338,4 @@ Blockchain is an immutable linked list of hashes that uses some consensus system
 - [Vitra](https://github.com/pfrazee/vitra) - Cooperative databases using smart contracts. Research project for exploring the limits of smart contracts without blockchains.
 - [What "shared security" in blockchains mean (2022)](https://twitter.com/kevinsekniqi/status/1487851714958999556)
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK.
+- [Crypto, the left, and techno-feudalism](https://metacpc.org/en/crypto-blockchain/) ([HN](https://news.ycombinator.com/item?id=30224472))

@@ -12,3 +12,6 @@
 - [Solid App Router](https://github.com/solidjs/solid-app-router) - Universal router for Solid inspired by Ember and React Router.
 - [Let's do an AMA (2022)](https://www.youtube.com/watch?v=8_YiKUb6DW8)
 - [Solid Command Palette](https://github.com/itaditya/solid-command-palette) - UI Library for Command Palette in SolidJS webapps.
+- [Solid Start](https://github.com/solidjs/solid-start) - Solid's official starter.
+- [A Solid option for building UIs (2022)](https://overcast.fm/+Id5U6EB5M)
+- [Solid Select](https://github.com/thisbeyond/solid-select) - Select component for Solid.

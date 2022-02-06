@@ -95,3 +95,5 @@
 - [Rattle](https://github.com/ndmitchell/rattle) - Forward build system with speculation and caching.
 - [Understanding Gradle – Video Series](https://www.youtube.com/playlist?list=PLWQK2ZdV4Yl2k2OmC_gsjDpdIBTN0qqkE) ([Code](https://github.com/jjohannes/understanding-gradle))
 - [Monorepo Explained](https://monorepo.tools/) ([Code](https://github.com/nrwl/monorepo.tools))
+- [Reproducible Builds in January 2022](https://reproducible-builds.org/reports/2022-01/) ([HN](https://news.ycombinator.com/item?id=30229189))
+- [GitBOM](https://gitbom.dev/) - Automatic and Verifiable Artifact Resolution. ([Web Code](https://github.com/git-bom/site))

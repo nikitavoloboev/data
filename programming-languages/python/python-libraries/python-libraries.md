@@ -668,6 +668,7 @@
 - [Visions](https://github.com/dylan-profiler/visions) - User defined data type systems. ([HN](https://news.ycombinator.com/item?id=30163104))
 - [Loky](https://github.com/joblib/loky) - Reusable Process Pool Executor.
 - [python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
+- [Pebble](https://github.com/noxdafox/pebble) - Provides a neat API to manage threads and processes within an application.
 
 ## Links
 

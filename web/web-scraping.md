@@ -146,3 +146,4 @@
 - [Chrome File Downloader](https://github.com/rusq/chromedl) - Go library for scraping or downloading files bypassing Cloudflare protection and browser checks.
 - [Mechaml](https://github.com/yannham/mechaml) - OCaml functional web scraping library.
 - [WikiDump Indexer and Search](https://github.com/saiakarsh193/WikiDump-Indexer-and-Search) - Wikipedia dump parser and indexer with search functionality. Made for Information Retrieval and Extraction course.
+- [Xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.

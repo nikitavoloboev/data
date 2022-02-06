@@ -197,3 +197,5 @@
 - [Bel in Clojure](https://stopa.io/post/290) ([Code](https://github.com/stopachka/bel-clojure))
 - [Containerizing a Clojure Project (2022)](https://blog.atomist.com/containerizing-a-clojure-project/)
 - [Application project template for Clojure](https://github.com/redstarssystems/apptemplate)
+- [goclj](https://github.com/cespare/goclj) - Clojure parsing in Go.
+- [uclj](https://github.com/erdos/uclj) - Small, quick, native Clojure interpreter.

@@ -132,3 +132,4 @@
 - [42basepairs](https://42basepairs.com/) - Better way to explore your genomics data.
 - [A catalogue of 1,167 genomes from the human gut archaeome (2021)](https://www.nature.com/articles/s41564-021-01020-9)
 - [KMCP: accurate metagenomic profiling of both prokaryotic and viral organisms by pseudo-mapping](https://github.com/shenwei356/kmcp)
+- [ViralMSA](https://github.com/niemasd/ViralMSA) - Reference-guided multiple sequence alignment of viral genomes.

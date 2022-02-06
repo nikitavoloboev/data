@@ -182,3 +182,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Artful Dodger](https://github.com/punchagan/artful-dodger) - Next.js site to host an art gallery using Google Spreadsheets and Google Drive as a backend.
 - [Useful constraints in your photography journey](https://www.reddit.com/r/photography/comments/sh1mbe/useful_constraints_in_your_photography_jurney/)
 - [Researchers shrink camera to the size of a salt grain](https://www.designfax.net/cms/dfx/opens/article-view-dfx.php?nid=4&bid=1189&et=featurearticle&pn=03) ([HN](https://news.ycombinator.com/item?id=30164501))
+- [iPhone 13 Pro: The Edge of Intelligent Photography (2022)](https://lux.camera/iphone-13-pro-camera-app-intelligent-photography/)

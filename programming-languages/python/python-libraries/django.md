@@ -126,3 +126,4 @@
 - [Paperclip](https://github.com/makinacorpus/django-paperclip) - Add attachments to Django models.
 - [Django-RQ](https://github.com/rq/django-rq) - Simple app that provides Django integration for RQ (Redis Queue).
 - [django-clone](https://github.com/tj-django/django-clone) - Controlled Django model instance replication.
+- [Jolie](https://www.jolie.dev/) - Gorgeous drop-in replacement of Django Admin. ([HN](https://news.ycombinator.com/item?id=30224838))

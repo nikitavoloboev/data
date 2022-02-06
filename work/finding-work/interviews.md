@@ -156,3 +156,4 @@
 - [Interview success can depend on how you schedule interviews](https://tanayagrawal.substack.com/p/how-to-schedule-interviews) ([HN](https://news.ycombinator.com/item?id=29474274))
 - [An Algorithm for Passing Programming Interviews](https://malisper.me/an-algorithm-for-passing-programming-interviews/) ([HN](https://news.ycombinator.com/item?id=29775023))
 - [14 Patterns to Ace Any Coding Interview Question (2019)](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide) - MEGA interview guide, JavaSciript, Front End, Comp Sci.

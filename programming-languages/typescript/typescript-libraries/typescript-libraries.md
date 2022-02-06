@@ -27,6 +27,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
 - [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
+- [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
 
 ## Test
 
@@ -308,6 +309,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [until](https://github.com/open-draft/until) - Gracefully handle Promises using async/await without try/catch.
 - [outvariant](https://github.com/open-draft/outvariant) - Type-safe implementation of invariant with positionals.
 - [EventEmitter](https://github.com/open-draft/strict-event-emitter) - Mirror that restricts emitting/handling events other than specified in an interface.
+- [ts-regexp](https://github.com/EvolveYourMind/ts-regexp) - Regular expressions matching at compile time with TypeScript.
+- [sanitize-url](https://github.com/braintree/sanitize-url)
 
 ## Links
 
@@ -348,3 +351,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TS Creator](https://github.com/HearTao/ts-creator) - Code generator to generate TypeScript code generator from TypeScript code.
 - [dotalias](https://github.com/open-draft/dotalias) - Single configuration for path aliases to reuse across all your tools (TypeScript, webpack, Jest, etc.).
 - [ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS.
+- [get-packages](https://github.com/egoist/get-packages) - Get packages from a monorepo (pnpm, yarn, npm, lerna).

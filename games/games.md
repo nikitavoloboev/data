@@ -265,3 +265,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Younger gamers, what's your "wow, games have come a long way" memory? (2022)](https://www.reddit.com/r/patientgamers/comments/saxu7e/younger_gamers_whats_your_wow_games_have_come_a/)
 - [There are too many video games (2022)](https://bottomfeeder.substack.com/p/there-are-too-many-video-games) ([HN](https://news.ycombinator.com/item?id=30184938))
 - [DarkPattern.games](https://www.darkpattern.games/) - Find Healthy Mobile Games. ([HN](https://news.ycombinator.com/item?id=30184457))
+- [Wordle Solver](https://github.com/baku89/wordle-solver)

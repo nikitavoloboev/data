@@ -209,7 +209,7 @@
 - [Ask HN: How do I improve my command of mathematical language? (2020)](https://news.ycombinator.com/item?id=24866734)
 - [Ask HN: Which general programming language is good for learning/exploring math? (2020)](https://news.ycombinator.com/item?id=24884561)
 - [Theta](http://thetamath.com/) - Web app that graphs an equation and allows you to pan and zoom around the coordinate grid. ([Code](https://github.com/evanw/theta))
-- [Algebraic Stacks Project](https://stacks.math.columbia.edu/) - Collaborative web-based project writing a text book on algebraic stacks and the algebraic geometry that is needed to define them. ([Code](https://github.com/stacks/stacks-project))
+- [Algebraic Stacks Project](https://stacks.math.columbia.edu/) - Collaborative web-based project writing a text book on algebraic stacks and the algebraic geometry that is needed to define them. ([Code](https://github.com/stacks/stacks-project)) ([Article](https://news.columbia.edu/news/stacks-project-johan-dejong)) ([HN](https://news.ycombinator.com/item?id=30222302))
 - [Why is there no equation for the perimeter of an ellipse‽ (2020)](https://www.youtube.com/watch?v=5nW3nJhBHL0)
 - [Open textbooks approved by the American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
 - [Intellectual Mathematics](http://intellectualmathematics.com/)
@@ -336,3 +336,4 @@
 - [Математичный список полезных книг](https://github.com/uburuntu/awesome-math-ru)
 - [Solving some formal math olympiad problems (2022)](https://openai.com/blog/formal-math/) ([HN](https://news.ycombinator.com/item?id=30181636))
 - [Why isn't there a replication crisis in math? (2022)](https://jaydaigle.net/blog/replication-crisis-math/) ([HN](https://news.ycombinator.com/item?id=30181696))
+- [The mathematically optimal Wordle strategy (2022)](https://www.youtube.com/watch?v=v68zYyaEmEA)

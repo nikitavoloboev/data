@@ -65,3 +65,6 @@
 - [React client for a real time chat app powered by a WebSocket](https://github.com/alexkrkn/lambda-websocket-client)
 - [The WebSocket Handbook](https://ably.com/blog/introducing-the-websocket-handbook) ([HN](https://news.ycombinator.com/item?id=29893242))
 - [wstunnel](https://github.com/erebe/wstunnel) - Tunneling over WebSocket protocol - Static binary available.
+- [STEWS](https://github.com/PalindromeLabs/STEWS) - Security Tool for Enumerating WebSockets.
+- [Awesome WebSockets Security](https://github.com/PalindromeLabs/awesome-websocket-security)
+- [ReconnectingWebSocket](https://github.com/joewalnes/reconnecting-websocket) - Small decorator for the JavaScript WebSocket API that automatically reconnects.

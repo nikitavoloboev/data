@@ -212,3 +212,5 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [solsim](https://github.com/cavaunpeu/solsim) - Solana complex systems simulator.
 - [Solana Pay](https://solanapay.com/) - New standard for decentralized payments. ([Code](https://github.com/solana-labs/solana-pay)) ([Article](https://solana.com/news/solana-pay-announcement)) ([HN](https://news.ycombinator.com/item?id=30166632))
 - [Wormhole $320M Ether exploit (2022)](https://twitter.com/samczsun/status/1489044939732406275) ([HN](https://news.ycombinator.com/item?id=30186894)) ([Reddit](https://www.reddit.com/r/ethereum/comments/sj68rz/heres_how_98k_eth_was_stolen_on_solana_explained/)) ([Reddit](https://www.reddit.com/r/solana/comments/sj7ba7/heres_how_98k_eth_was_stolen_on_solana_explained/)) ([HN](https://news.ycombinator.com/item?id=30196343))
+- [Glow Wallet](https://glow.app/) - Store, send, receive, stake, and swap tokens on the Solana blockchain directly on your phone.
+- [Reactor Wallet](https://github.com/marc2332/reactor-wallet) - Non-custodial cross-platform wallet for Solana.

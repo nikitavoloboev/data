@@ -196,6 +196,7 @@
 - [Fang](https://github.com/ayrat555/fang) - Background job processing library for Rust. It uses Postgres DB as a task queue.
 - [async-redis-session](https://github.com/jbr/async-redis-session) - redis-backed session store for async-session.
 - [Pot](https://github.com/khonsulabs/pot) - Concise storage format, written for BonsaiDb.
+- [pg_query.rs](https://github.com/pganalyze/pg_query.rs) - Rust library to parse, deparse and normalize SQL queries using the PostgreSQL query parser.
 
 ## Video
 
@@ -1527,3 +1528,5 @@
 - [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [Rust has a small standard library (and that's ok) (2022)](https://blog.nindalf.com/posts/rust-stdlib/) ([Reddit](https://www.reddit.com/r/programming/comments/sg7p51/rust_has_a_small_standard_library_and_thats_ok/)) ([HN](https://news.ycombinator.com/item?id=30138065))
 - [Rust serialization benchmark](https://github.com/djkoloski/rust_serialization_benchmark)
+- [Create Rust App](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. ([HN](https://news.ycombinator.com/item?id=30228325))
+- [What are your must install crates when starting a new project? (2022)](https://www.reddit.com/r/rust/comments/slg9d2/what_are_your_must_install_crates_when_starting_a/)

@@ -1,5 +1,7 @@
 # Generative art
 
+This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is great intro.
+
 ## Links
 
 - [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.
@@ -200,3 +202,4 @@
 - [Genuary](https://genuary.art/) - Generative Code Art Prompts for a Month. ([HN](https://news.ycombinator.com/item?id=29779644))
 - [Vaporwave Sketchbook](https://codepen.io/cassie-codes/pen/vYerjmr)
 - [identity / monogram](https://id.matsu.io/) ([Code](https://github.com/octref/id))
+- [What is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)

@@ -73,7 +73,7 @@
 - [Paste](https://paste.twilio.design/) - Design System for building Twilio customer experiences. ([Code](https://github.com/twilio-labs/paste))
 - [Atomize Code](https://github.com/proksh/atomize) - UI Design System for React JS. ([Web](https://atomizecode.com/))
 - [doc-blocks](https://github.com/intuit/doc-blocks) - Design system for doc-blocks UI components, built on @design-systems/cli.
-- [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for building a consistent design system across android, iOS & web. ([Web](https://nativebase.io/))
+- [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for building a consistent design system across android, iOS & web. ([Web](https://nativebase.io/)) ([Docs](https://docs.nativebase.io/)) ([Docs Code](https://github.com/GeekyAnts/nativebase-docs))
 - [Plasma UI](https://plasma.sberdevices.ru/) - Позволяет реализовать Canvas App как часть экосистемы виртуальных ассистентов семейства "Салют". ([Code](https://github.com/sberdevices/plasma))
 - [Apache Superset UI packages](https://github.com/apache-superset/superset-ui)
 - [Mirror Design](https://degen-xyz.vercel.app/) - Design system for Mirror.xyz built with React and vanilla-extract. ([Code](https://github.com/mirror-xyz/degen))

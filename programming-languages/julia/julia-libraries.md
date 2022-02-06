@@ -449,6 +449,9 @@
 - [FlameGraphs](https://github.com/timholy/FlameGraphs.jl) - Analysis of profiling data using trees.
 - [SymbolicIntegration](https://github.com/HaraldHofstaetter/SymbolicIntegration.jl) - Julia implementations of symbolic integration algorithms.
 - [GPUCompiler.jl](https://github.com/JuliaGPU/GPUCompiler.jl) - Reusable compiler infrastructure for Julia GPU backends.
+- [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) - Utilities for working with GeoJSON data in Julia.
+- [ChaosTools.jl](https://github.com/JuliaDynamics/ChaosTools.jl) - Tools for the exploration of chaos and nonlinear dynamics.
+- [ArgCheck](https://github.com/jw3126/ArgCheck.jl) - Package for checking function arguments.
 
 ## Links
 
