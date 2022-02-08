@@ -29,3 +29,4 @@
 - [Monero General Info-Dump](https://moneroinfodump.neocities.org/)
 - [On Privacy Enhancing Currencies & Supply Auditability (2021)](https://www.youtube.com/watch?v=meDkx6gRPMg)
 - [Monero GUI Code](https://github.com/monero-project/monero-gui)
+- [Go Monero RPC Client](https://github.com/monero-ecosystem/go-monero-rpc-client)

@@ -88,3 +88,4 @@
 - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life by Emily Nagoski (2015)](https://www.goodreads.com/book/show/22609341-come-as-you-are)
 - [What is your trick of giving the best head to your gf?](https://www.reddit.com/r/AskMen/comments/s1k10o/what_is_your_trick_of_giving_the_best_head_to/)
 - [Anatomy Structure and Function of the Male Genitals](https://www.youtube.com/playlist?list=PLIZ9tgpNSydo3RjOOv4RU4-ZwLCZ3SVWv)
+- [What are some sexual things you would recommend people try?](https://www.reddit.com/r/sex/comments/sm9737/what_are_some_sexual_things_you_would_recommend/)

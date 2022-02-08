@@ -80,3 +80,4 @@
 - [Explainer](https://github.com/pion/explainer) - Parses WebRTC Offers/Answers then provides summaries and suggestions.
 - [WebRTC Encoded Transform](https://github.com/w3c/webrtc-encoded-transform) - Proposal for an API that allows the insertion of user-defined processing steps in the pipeline that handles media in a WebRTC context.
 - [Python WebRTC](https://github.com/MarshalX/python-webrtc) - Python Extension that provides bindings to WebRTC M92.
+- [PeerData](https://github.com/vardius/peer-data) - Library for files, media streaming/sharing using WebRTC.

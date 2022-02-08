@@ -84,6 +84,7 @@
 - [The Specious Art of Single-Cell Genomics (2021)](https://www.biorxiv.org/content/10.1101/2021.08.25.457696v1) ([Tweet](https://twitter.com/lpachter/status/1431325969411821572)) ([Tweet](https://twitter.com/lpachter/status/1440695021502545934))
 - [IGV: Integrative Genomics Viewer](https://igv.org/) - Fast, efficient, scalable visualization tool for genomics data and annotations. ([Code](https://github.com/igvteam/igv))
 - [Oxford Nanopore Technologies](https://nanoporetech.com/) - Nanopores for single molecule (DNA/RNA, protein) analysis using the MinION, GridION and PromethION systems. ([GitHub](https://github.com/nanoporetech))
+- [nanoq](https://github.com/esteinig/nanoq) - Ultra-fast quality control and summary reports for nanopore reads.
 - [Medaka](https://github.com/nanoporetech/medaka) - Tool to create consensus sequences and variant calls from nanopore sequencing data.
 - [alignment-nf](https://github.com/IARCbioinfo/alignment-nf) - Whole Exome/Whole Genome Sequencing alignment pipeline.
 - [Stanford researchers develop an engineered 'mini' CRISPR genome editing system (2021)](https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/) ([HN](https://news.ycombinator.com/item?id=28409123))
@@ -133,3 +134,4 @@
 - [A catalogue of 1,167 genomes from the human gut archaeome (2021)](https://www.nature.com/articles/s41564-021-01020-9)
 - [KMCP: accurate metagenomic profiling of both prokaryotic and viral organisms by pseudo-mapping](https://github.com/shenwei356/kmcp)
 - [ViralMSA](https://github.com/niemasd/ViralMSA) - Reference-guided multiple sequence alignment of viral genomes.
+- [sketchy](https://github.com/esteinig/sketchy) - Genomic neighbor typing for lineage and genotype inference.

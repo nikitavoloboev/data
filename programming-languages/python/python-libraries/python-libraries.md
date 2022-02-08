@@ -264,6 +264,7 @@
 - [Python libraries for Google Colaboratory](https://github.com/googlecolab/colabtools)
 - [PandasVault](https://github.com/firmai/pandasvault) - Advanced Pandas Functions and Code Snippets.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+- [Koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python.
 - [baikal](https://github.com/alegonz/baikal) - Graph-based functional API for building complex scikit-learn pipelines.
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 - [STPyV8](https://github.com/area1/stpyv8) - Allows interop between Python 3 and JavaScript running Google's V8 engine.
@@ -739,3 +740,5 @@
 - [blacken-docs](https://github.com/asottile/blacken-docs) - Run `black` on python code blocks in documentation files.
 - [Conda-Pack](https://github.com/conda/conda-pack) - Package conda environments for redistribution.
 - [conda-build](https://github.com/conda/conda-build) - Commands and tools for building conda packages.
+- [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) - Tool and pre-commit hook to automatically convert relative imports to absolute.
+- [lazydocs](https://github.com/ml-tooling/lazydocs) - Generate markdown API documentation for Google-style Python docstring.

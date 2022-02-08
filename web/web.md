@@ -354,3 +354,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Compatibility Standard](https://compat.spec.whatwg.org/) - Describes a collection of web platform features that web browsers need to support for compatibility with the de facto web. ([Code](https://github.com/whatwg/compat))
 - [Open Graph Image Generator](https://github.com/craftpunks/og-image) - Web service that generates Open Graph images for your websites.
 - [Best partial hydration demo you know of (2022)](https://twitter.com/ryanflorence/status/1489052911506128898)
+- [Web Design History Timeline 1990-2022](https://www.webdesignmuseum.org/web-design-history)

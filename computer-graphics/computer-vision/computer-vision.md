@@ -550,3 +550,6 @@
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation (2022)](https://arxiv.org/abs/2201.12086) ([Code](https://github.com/salesforce/BLIP))
 - [DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows (2021)](https://arxiv.org/abs/2101.05796) ([Code](https://github.com/volflow/DeFlow))
 - [DocFormer: End-to-End Transformer for Document Understanding (2022)](https://arxiv.org/abs/2106.11539) ([Code](https://github.com/shabie/docformer))
+- [SeMask: Semantically Masked Transformers for Semantic Segmentation (2021)](https://arxiv.org/abs/2112.12782) ([Code](https://github.com/Picsart-AI-Research/SeMask-Segmentation))
+- [Image Quality Assessment: Unifying Structure and Texture Similarity (2020)](https://arxiv.org/abs/2004.07728) ([Code](https://github.com/dingkeyan93/DISTS))
+- [Learning Super-Features for Image Retrieval (2022)](https://github.com/naver/fire)

@@ -188,3 +188,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds free music for you. ([Code](https://github.com/nukeop/nuclear))
 - [LiveBeats](https://livebeats.fly.dev/) - Listen to music together. ([Code](https://github.com/fly-apps/live_beats))
 - [Johnny Rodgers's listening](https://johnnyrodgers.is/listening)
+- [Platune](https://github.com/aschey/Platune) - Cross-platform music player that uses a client-server architecture over gRPC.
+- [Openwhyd](https://openwhyd.org/) - Like Pinterest, for Music. ([Code](https://github.com/openwhyd/openwhyd))

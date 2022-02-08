@@ -141,3 +141,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [ChiselStrike](https://www.chiselstrike.com/) - Automated Serverless Backends. ([GitHub](https://github.com/chiselstrike))
 - [Fly Edge](https://github.com/superfly/edge) - Set of useful libraries for Edge Apps. Run locally, write tests, and integrate it into your deployment process.
 - [Netlify Labs](https://github.com/netlify/labs) - Documentation and samples for Netlify Labs features.
+- [Gigamono](https://www.gigamono.com/) - Secure Multi-Tenant Serverless Framework for Building Workspaces. ([GitHub](https://github.com/gigamono)) ([Code](https://github.com/gigamono/gigamono))

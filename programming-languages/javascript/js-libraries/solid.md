@@ -15,3 +15,6 @@
 - [Solid Start](https://github.com/solidjs/solid-start) - Solid's official starter.
 - [A Solid option for building UIs (2022)](https://overcast.fm/+Id5U6EB5M)
 - [Solid Select](https://github.com/thisbeyond/solid-select) - Select component for Solid.
+- [Solid Docs Code](https://github.com/solidjs/solid-docs)
+- [Solid Labels](https://github.com/LXSMNSYC/solid-labels) - Simple, reactive labels for SolidJS.
+- [Solid Headless](https://github.com/LXSMNSYC/solid-headless) - Headless UI for SolidJS.

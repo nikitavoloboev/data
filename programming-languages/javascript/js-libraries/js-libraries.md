@@ -762,6 +762,13 @@
 - [Data-oriented Serialization for SoA/AoS](https://github.com/Web-ECS/dod-serialization) - Serialization library for data-oriented design structures.
 - [node-ffmpeg-installer](https://github.com/kribblo/node-ffmpeg-installer) - Platform independent binary installer of FFmpeg for node projects.
 - [Smoothie Charts](https://github.com/joewalnes/smoothie) - Small charting library designed for live streaming data.
+- [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator.
+- [tar-fs](https://github.com/mafintosh/tar-fs) - fs bindings for tar-stream.
+- [get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, buffer, or array.
+- [pump](https://github.com/mafintosh/pump) - Pipe streams together and close all of them if one of them closes.
+- [TogetherJS](https://github.com/jsfiddle/togetherjs) - Service for your website that makes it surprisingly easy to collaborate in real-time.
+- [emoji-translate](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji.
+- [peer-cdn](https://github.com/vardius/peer-cdn) - Lightweight library providing peer to peer CDN functionality.
 
 ## Links
 
@@ -808,3 +815,4 @@
 - [Taze](https://github.com/antfu/taze) - Modern cli tool that keeps your deps fresh.
 - [bundt](https://github.com/lukeed/bundt) - Simple bundler for your delicious modules.
 - [Taskr](https://github.com/lukeed/taskr) - Fast, concurrency-focused task automation tool.
+- [esm-utils](https://github.com/fisker/esm-utils) - Utilities you'll need when migrating to ESModule.

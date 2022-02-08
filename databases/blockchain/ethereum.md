@@ -462,3 +462,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Forge Standard Library](https://github.com/brockelmore/forge-std) - Collection of helpful contracts for use with forge and foundry.
 - [cairo-bloom](https://github.com/sambarnes/cairo-bloom) - Naive bloom filter implementation in Cairo.
 - [Kindelia](https://github.com/Kindelia/Kindelia) - Massive simplification of Ethereum. It takes its most important aspects and removes all the redundancy.
+- [FullStack StarkNet](https://github.com/sambarnes/fullstack-starknet) - Tutorial series on StarkNet and Cairo.
+- [svm-rs](https://github.com/roynalnaruto/svm-rs) - Solidity Compiler Version Manager.
+- [Implementing Data Availability Sampling (DAS)](https://github.com/protolambda/dv5das) - Data Availability Sampling (DAS) on a Discovery-v5 DHT overlay.
+- [Ethereum: Endgame (2021)](https://vitalik.ca/general/2021/12/06/endgame.html)

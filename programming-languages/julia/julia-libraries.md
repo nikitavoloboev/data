@@ -452,6 +452,8 @@
 - [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) - Utilities for working with GeoJSON data in Julia.
 - [ChaosTools.jl](https://github.com/JuliaDynamics/ChaosTools.jl) - Tools for the exploration of chaos and nonlinear dynamics.
 - [ArgCheck](https://github.com/jw3126/ArgCheck.jl) - Package for checking function arguments.
+- [FunctionalCollections](https://github.com/JuliaCollections/FunctionalCollections.jl) - Functional and persistent data structures for Julia.
+- [FreqTables](https://github.com/nalimilan/FreqTables.jl) - Frequency tables in Julia.
 
 ## Links
 

@@ -283,6 +283,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [What is the most emotionally devastating book you’ve ever read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/)
 - [Programming book list](http://danluu.com/programming-books/)
 - [Johnny Rodgers's reading list](https://johnnyrodgers.is/reading)
+- [Ask HN: What is one book you would recommend everyone to read? (2022)](https://news.ycombinator.com/item?id=30241190)
 
 ## Interesting Prose Books
 

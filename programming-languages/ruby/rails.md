@@ -111,6 +111,6 @@
 - [Rails Feature Flags: Now So Flippin' Easy You Won't Believe It (2021)](https://www.johnnunemaker.com/rails-feature-flags/)
 - [Arproxy](https://github.com/cookpad/arproxy) - Proxy between ActiveRecord and database adapter.
 - [Run Ordinary Rails Apps Globally (2021)](https://fly.io/blog/run-ordinary-rails-apps-globally/) ([HN](https://news.ycombinator.com/item?id=30083764))
-- [Rails is not written in Ruby (2022)](https://solnic.codes/2022/02/02/rails-is-not-written-in-ruby/) ([Lobsters](https://lobste.rs/s/gjizyj/rails_is_not_written_ruby)) ([HN](https://news.ycombinator.com/item?id=30213778))
+- [Rails and its Ruby dialect (2022)](https://solnic.codes/2022/02/02/rails-and-its-ruby-dialect/) ([Lobsters](https://lobste.rs/s/gjizyj/rails_is_not_written_ruby)) ([HN](https://news.ycombinator.com/item?id=30213778))
 - [Dynamic forms with Turbo (2022)](https://thoughtbot.com/blog/dynamic-forms-with-turbo)
 - [Don't make me think, or why I switched to Rails from JavaScript SPAs (2022)](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) ([HN](https://news.ycombinator.com/item?id=30206989))

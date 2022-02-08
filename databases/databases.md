@@ -517,3 +517,4 @@
 - [Wikipedia and irregular data: how much can you fetch in one expression? (2022)](https://zverok.substack.com/p/wikipedia-and-irregular-data-how)
 - [HTSQL](https://www.htsql.org/) - Database Query Language. ([Lobsters](https://lobste.rs/s/45reoa/database_query_language_htsql))
 - [Organizational scalability and flexible database schemas (2022)](https://minimalmodeling.substack.com/p/organizational-scalability-and-flexible)
+- [What to use for caching DB requests? Redis? (2022)](https://twitter.com/JasonEtco/status/1490377350055346180)

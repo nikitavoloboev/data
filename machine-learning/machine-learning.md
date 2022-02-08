@@ -666,3 +666,5 @@
 - [Tutorial on amortized optimization for learning to optimize over continuous domains (2022)](https://arxiv.org/abs/2202.00665) ([Code](https://github.com/facebookresearch/amortized-optimization-tutorial))
 - [Growing 3D Artefacts and Functional Machines with Neural Cellular Automata (2021)](https://arxiv.org/abs/2103.08737) ([Code](https://github.com/real-itu/3d-artefacts-nca))
 - [Generative Flow Networks for Discrete Probabilistic Modeling (2022)](https://arxiv.org/abs/2202.01361) ([Code](https://github.com/zdhNarsil/EB_GFN))
+- [Awesome Contrastive Learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning)
+- [ML-fairness-gym](https://github.com/google/ml-fairness-gym) - Components for building simple simulations that explore the potential long-run impacts of deploying machine learning-based decision systems in social environments.

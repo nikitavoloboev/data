@@ -153,3 +153,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Как находить друзей (во взрослом возрасте)](https://www.youtube.com/watch?v=IGLz2lbGqJ4)
 - [Open marriage advice](https://www.reddit.com/r/sexover30/comments/s51il9/open_marriage_advice/)
 - [Даша Касьян: свободные отношения — это не для всех (2022)](https://www.youtube.com/watch?v=wCho_lSx4OI)
+- [Ask HN: What is wrong with dating in 2022?](https://news.ycombinator.com/item?id=30239331)

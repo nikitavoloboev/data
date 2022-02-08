@@ -183,3 +183,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Useful constraints in your photography journey](https://www.reddit.com/r/photography/comments/sh1mbe/useful_constraints_in_your_photography_jurney/)
 - [Researchers shrink camera to the size of a salt grain](https://www.designfax.net/cms/dfx/opens/article-view-dfx.php?nid=4&bid=1189&et=featurearticle&pn=03) ([HN](https://news.ycombinator.com/item?id=30164501))
 - [iPhone 13 Pro: The Edge of Intelligent Photography (2022)](https://lux.camera/iphone-13-pro-camera-app-intelligent-photography/)
+- [Files](https://www.files.gallery/) - Single-file photo gallery and file manager. ([HN](https://news.ycombinator.com/item?id=30233635))

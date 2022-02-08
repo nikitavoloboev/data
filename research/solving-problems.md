@@ -95,3 +95,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [System Dynamics: Systems Thinking and Modeling for a Complex World (2020)](https://www.youtube.com/watch?v=o-Yp8A7BPE8)
 - [A Few Notes on Problem Solving (2022)](https://jeremymikkola.com/posts/2022_01_01_a_few_notes_on_problem_solving.html)
 - [Problem solving strategies in a graduate real analysis course (2010)](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/) ([HN](https://news.ycombinator.com/item?id=29899156))
+- [How to program it](https://www.cs.kent.ac.uk/people/staff/sjt/Haskell_craft/HowToProgIt.html)

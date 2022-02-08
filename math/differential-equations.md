@@ -28,3 +28,4 @@
 - [Differentiable Programming: A Semantics Perspective (2018)](https://barghouthi.github.io/2018/05/01/differentiable-programming/)
 - [Dedalus](https://github.com/DedalusProject/dedalus) - Flexible framework for solving partial differential equations using spectral methods. ([Web](https://dedalus-project.org/))
 - [MIT Fast Methods for Partial Differential and Integral Equations Course (2021)](https://github.com/mitmath/18336)
+- [Diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.

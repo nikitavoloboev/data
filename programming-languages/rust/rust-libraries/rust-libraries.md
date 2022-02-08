@@ -107,6 +107,7 @@
 - [MatchIt](https://github.com/ibraheemdev/matchit) - Blazing fast URL router and path matcher for Rust.
 - [async-session](https://github.com/http-rs/async-session) - Async session support with pluggable middleware.
 - [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - Rust implementation of the Web Audio API, for use in non-browser contexts.
+- [zeroconf](https://github.com/windy1/zeroconf-rs) - Cross-platform library that wraps underlying ZeroConf/mDNS implementations such as Bonjour or Avahi, providing an easy and idiomatic way to both register and browse services.
 
 ## WASM
 
@@ -120,6 +121,8 @@
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 - [ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM.
 - [racket-wasm](https://github.com/Bogdanp/racket-wasm) - WASM tooling in Racket.
+- [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly.
+- [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
 
 ## GUI
 
@@ -250,6 +253,7 @@
 - [Image](https://github.com/Brooooooklyn/Image) - Image processing library.
 - [fast_image_resize](https://github.com/Cykooz/fast_image_resize) - Rust library for fast image resizing with using of SIMD instructions.
 - [descent](https://github.com/sjb3d/descent) - Toy library for neural networks in Rust using Vulkan compute shaders.
+- [spectra](https://github.com/phaazon/spectra) - Rust demoscene engine.
 
 ## Games
 
@@ -286,6 +290,7 @@
 - [test-fuzz](https://github.com/trailofbits/test-fuzz) - Make fuzzing Rust easy.
 - [Grillon](https://github.com/theredfish/grillon) - Elegant and natural way to approach end-to-end HTTP API testing in Rust.
 - [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
+- [Golden Tests](https://github.com/jfecher/golden-tests) - Golden file testing library for rust.
 
 ## Error
 
@@ -386,6 +391,7 @@
 
 - [volatile-register](https://github.com/japaric/volatile-register) - Volatile access to memory mapped hardware registers.
 - [stm32f7xx-hal](https://github.com/stm32-rs/stm32f7xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F7 family.
+- [embedded-svc](https://github.com/esp-rs/embedded-svc) - Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.).
 
 ## ML
 
@@ -1387,6 +1393,9 @@
 - [rpki](https://github.com/NLnetLabs/rpki-rs) - Library for Validating and Creating RPKI Data.
 - [Seize](https://github.com/ibraheemdev/seize) - Fast, efficient, and robust memory reclamation for concurrent data structures.
 - [timediff](https://github.com/lryong/timediff) - Rust library for printing human readable, relative time differences.
+- [qcms](https://github.com/FirefoxGraphics/qcms) - Firefox's library for transforming image data between ICC profiles.
+- [rustplotlib](https://github.com/askanium/rustplotlib) - Pure Rust visualization library inspired by D3.js.
+- [Subotai](https://github.com/PabloMansanet/subotai) - Kademlia based Distributed Hash Table in Rust.
 
 ## Cargo Plugins
 

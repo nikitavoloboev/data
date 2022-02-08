@@ -25,3 +25,4 @@
 - [Gleam Playground](https://johndoneth.github.io/gleam-playground/) - Browser based playground for Gleam language. ([Code](https://github.com/JohnDoneth/gleam-playground))
 - [gleam_json](https://github.com/gleam-lang/json) - Gleam library for encoding decoding JSON.
 - [MixGleam](https://github.com/gleam-lang/mix_gleam) - Build Gleam code with mix.
+- [gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.

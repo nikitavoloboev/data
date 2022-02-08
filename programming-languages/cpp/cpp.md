@@ -297,3 +297,4 @@
 - [A Tour of C++ - Reading Notes (2022)](https://ianyepan.github.io/posts/cpp-notes-pt1/)
 - [Branchless Programming in C++ - Fedor Pikus - CppCon 2021](https://www.youtube.com/watch?v=g-WPhYREFjk)
 - [Working with Strings in Embedded C++ (2022)](https://blog.feabhas.com/2022/02/working-with-strings-in-embedded-c/)
+- [setup-cpp](https://github.com/aminya/setup-cpp) - Install all the tools required for building and testing C++/C projects.

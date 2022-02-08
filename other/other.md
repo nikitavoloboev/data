@@ -594,3 +594,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [ASAPP](https://www.asapp.com/) - Delight customers AND radically increase productivity. ([Twitter](https://twitter.com/asapp))
 - [How to Mislead with Facts](https://consilienceproject.org/how-to-mislead-with-facts/) ([HN](https://news.ycombinator.com/item?id=30158269))
 - [Low-tech Lab](https://wiki.lowtechlab.org/wiki/Accueil)
+- [Cool ice formations my friend discovered on his deck this morning](https://twitter.com/CJF_NC/status/1490093486330322949) ([HN](https://news.ycombinator.com/item?id=30233630))

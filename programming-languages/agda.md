@@ -69,3 +69,4 @@
 - [Formalisation of a temporal type system in Agda](https://github.com/DimaSamoz/temporal-type-systems)
 - [agda-metric-reals](https://github.com/bobatkey/agda-metric-reals)
 - [Categorical semantics of functional type theory with explicit substitutions, formalized in Agda](https://github.com/elpinal/exsub-ccc)
+- [generic-lr](https://github.com/laMudri/generic-lr) - AACMM's generic-syntax, but with QTT-style annotations.

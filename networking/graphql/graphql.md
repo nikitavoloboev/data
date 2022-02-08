@@ -292,3 +292,6 @@
 - [GraphQL codegen schema to Zod schema](https://github.com/withshepherd/graphql-codegen-zod)
 - [GraphQL Code Generator plugin to generate form validation schema from your GraphQL schema](https://github.com/Code-Hex/graphql-codegen-typescript-validation-schema)
 - [decapi](https://github.com/capaj/decapi) - Create GraphQL API by decorating TypeScript classes.
+- [Great, cheap, reliable setup/stack for smaller GraphQL APIs (2022)](https://twitter.com/buildsghost/status/1490450114904657922)
+- [GraphQL Network Inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring.
+- [GraphQL Eventbus](https://github.com/quant-daddy/graphql-eventbus) - Build a GraphQL powered Event architecture.

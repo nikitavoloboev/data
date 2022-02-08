@@ -311,6 +311,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [EventEmitter](https://github.com/open-draft/strict-event-emitter) - Mirror that restricts emitting/handling events other than specified in an interface.
 - [ts-regexp](https://github.com/EvolveYourMind/ts-regexp) - Regular expressions matching at compile time with TypeScript.
 - [sanitize-url](https://github.com/braintree/sanitize-url)
+- [typescript-rtti](https://github.com/rezonant/typescript-rtti) - Emits Typescript metadata for use at runtime.
 
 ## Links
 

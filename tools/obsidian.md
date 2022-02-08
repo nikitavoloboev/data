@@ -77,6 +77,7 @@
 - [Convert a URL into markdown](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls.
 - [Obsidian Block Reference Counts](https://github.com/shabegom/obsidian-reference-count) - Show Reference Count of Block Refs.
 - [Cross-reference Navigation](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Plugin for Obsidian that lets you navigate through your notes using their tags.
+- [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - Obsidian plugin that dynamically highlights text based on selection or search query.
 
 ## Themes
 

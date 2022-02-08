@@ -75,3 +75,4 @@
 - [Apache SeaTunnel](https://seatunnel.apache.org/) - Distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time). ([Code](https://github.com/apache/incubator-seatunnel))
 - [Databend](https://github.com/datafuselabs/databend) - Open Source Serverless Data Warehouse for Everyone. ([Web](https://databend.rs/))
 - [Pydra](https://github.com/nipype/pydra) - Simple dataflow engine with scalable semantics.
+- [Bytewax](https://github.com/bytewax/bytewax) - Open source Python framework for building highly scalable dataflows.

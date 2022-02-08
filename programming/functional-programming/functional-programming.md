@@ -153,6 +153,7 @@
 - [Foundations of Functional Programming/The λ-cube](https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube) ([HN](https://news.ycombinator.com/item?id=29948843))
 - [Functional Programming Papers Notes](https://github.com/i-am-tom/papers)
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) - Pure functional compile target that is lazy, non-garbage-collected and massively parallel. ([Reddit](https://www.reddit.com/r/haskell/comments/shewq7/hvm_a_nextgen_massively_parallel_betaoptimal/)) ([HN](https://news.ycombinator.com/item?id=30152714)) ([HN](https://news.ycombinator.com/item?id=30219452)) ([Lobsters](https://lobste.rs/s/zw8pgr/kindelia_hvm_massively_parallel_optimal))
+- [Eric Normand - Grokking Simplicity](https://freecontent.manning.com/eric-normand-grokking-simplicity/)
 
 ## Images
 

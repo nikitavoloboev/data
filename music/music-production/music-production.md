@@ -315,3 +315,4 @@
 - [MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling (2021)](https://arxiv.org/abs/2112.09312) ([Code](https://github.com/magenta/midi-ddsp))
 - [Interactive Piano Reference to All Major & Minor Scales](https://muted.io/major-minor-scales/)
 - [Awesome Audiovisual](https://github.com/stingalleman/awesome-audiovisual)
+- [Fun Notation](https://www.notation.fun/) - Modern visual music notation, colorful and dynamic. ([Code](https://github.com/notation-fun/notation))

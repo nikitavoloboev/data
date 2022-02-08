@@ -26,3 +26,4 @@
 - [rust-numpy](https://github.com/PyO3/rust-numpy) - Rust bindings for the NumPy C-API.
 - [numpy-groupies](https://github.com/ml31415/numpy-groupies) - Optimised tools for group-indexing operations: aggregated sum and more.
 - [numpy-hilbert-curve](https://github.com/PrincetonLIPS/numpy-hilbert-curve) - Numpy implementation of Hilbert curves in arbitrary dimensions.
+- [numpy-stl](https://github.com/WoLpH/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.

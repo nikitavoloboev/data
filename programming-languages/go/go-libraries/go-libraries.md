@@ -1,5 +1,7 @@
 # Go libraries
 
+Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) for web end points.
+
 ## CLI
 
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
@@ -62,6 +64,7 @@
 - [prompter](https://github.com/Songmu/prompter) - Go utility for easy prompting.
 - [Mango](https://github.com/muesli/mango) - man-page generator for the Go flag, pflag, and cobra packages.
 - [Mango Kong](https://github.com/alecthomas/mango-kong) - Allows Kong packages to generate man pages using Mango.
+- [go-spin](https://github.com/tj/go-spin) - Terminal spinner package for Go.
 
 ## Test
 
@@ -127,7 +130,9 @@
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
+- [session](https://github.com/fasthttp/session) - Session implementation for fasthttp.
 - [Router](https://github.com/fasthttp/router) - Router implementation for fasthttp.
+- [HTTP2](https://github.com/fasthttp/http2) - HTTP/2 implementation for fasthttp.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Buffalo](https://gobuffalo.io/docs/overview)
@@ -253,6 +258,8 @@
 - [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces.
 - [net](https://github.com/golang/net) - Supplementary Go networking libraries.
 - [Swag](https://github.com/go-openapi/swag) - Helper functions for go-openapi and go-swagger projects.
+- [Go JOSE](https://github.com/square/go-jose) - Implementation of JOSE standards (JWE, JWS, JWT) in Go.
+- [gorouter](https://github.com/vardius/gorouter) - Go Server/API micro framework, HTTP request router, multiplexer, mux.
 
 ## GraphQL
 
@@ -1283,6 +1290,9 @@
 - [CancelReader](https://github.com/muesli/cancelreader) - Cancelable reader for Go.
 - [iconv](https://github.com/qiniu/iconv) - Convert string to requested character encoding.
 - [dbus](https://github.com/godbus/dbus) - Native Go bindings for D-Bus.
+- [message-bus](https://github.com/vardius/message-bus) - Go simple async message bus.
+- [go-textdistance](https://github.com/masatana/go-textdistance) - Calculate various text distance with Go.
+- [strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions.
 
 ## Links
 

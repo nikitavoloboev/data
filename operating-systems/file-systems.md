@@ -94,3 +94,4 @@
 - [Deark](https://github.com/jsummers/deark) - Utility for file format and metadata analysis, data extraction, decompression, and image format decoding.
 - [vfile](https://github.com/vfile/vfile) - Small and browser friendly virtual file format that tracks metadata (such as a file’s path and value) and messages.
 - [vach](https://github.com/zeskeertwee/vach) - Virtual filesystem, specifically made for games.
+- [pifs2](https://github.com/ajeetdsouza/pifs) - Compile-time data-free filesystem.

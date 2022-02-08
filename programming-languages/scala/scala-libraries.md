@@ -11,6 +11,8 @@
 - [Scala.js](https://github.com/scala-js/scala-js) - Scala to JavaScript compiler. ([Web](https://www.scala-js.org/))
 - [Scala Webapp Utilities](https://github.com/japgolly/webapp-util)
 - [Play Framework](https://github.com/playframework/playframework) - High Velocity Web Framework. ([Bootstrap Template](https://github.com/innFactory/bootstrap-play2))
+- [ff4s](https://github.com/buntec/ff4s) - Purely functional web frontend framework for Scala.js.
+- [Tyrian](https://github.com/PurpleKingdomGames/tyrian) - Elm-inspired Scala UI library for Scala 3.
 
 ## CLI
 

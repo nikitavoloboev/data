@@ -72,3 +72,4 @@ Here are tools I use for streaming:
 - [webrtcsink](https://github.com/centricular/webrtcsink) - All-batteries included GStreamer WebRTC producer.
 - [Overpass](https://github.com/GOATS2K/overpass) - Self-hosted video live streaming app. ([HN](https://news.ycombinator.com/item?id=29572310))
 - [A few things I’ve learned about livestreaming (2020)](https://dantepfer.com/blog/?p=1005) ([HN](https://news.ycombinator.com/item?id=29883969))
+- [Ping](https://ping.t3.gg/) - Better way to stream with friends. ([Tweet](https://twitter.com/jlengstorf/status/1490456619620061184))

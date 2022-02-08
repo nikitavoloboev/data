@@ -316,3 +316,4 @@
 - [pprof support for Node.js](https://github.com/google/pprof-nodejs)
 - [cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native.
 - [HN: Fetch API has landed into Node.js](https://news.ycombinator.com/item?id=30161626)
+- [Cloud Profiler: Node.js Client](https://github.com/googleapis/cloud-profiler-nodejs) - Adds support for Cloud Profiler to Node.js applications.

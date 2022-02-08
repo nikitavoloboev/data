@@ -28,3 +28,4 @@
 - [CQtDeployer](https://github.com/QuasarApp/CQtDeployer) - Used to deploy applications written using QML, qt or other С / С++ frameworks.
 - [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) ([Code](https://github.com/qmlbook/qt6book))
 - [QUICK](https://github.com/szsdk/quick) - Real QUICK Qt5 based gUI generator for ClicK.
+- [qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time.

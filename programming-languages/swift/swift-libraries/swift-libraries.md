@@ -223,6 +223,8 @@
 - [FittedSheets](https://github.com/gordontucker/FittedSheets) - Bottom sheets for iOS.
 - [JustTweak](https://github.com/justeat/JustTweak) - Feature flagging framework for iOS apps.
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - Provide brief feedback about an operation through a message at the bottom of the screen.
+- [FLCharts](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
+- [Instantiate](https://github.com/tarunon/Instantiate) - Type-safe and constructor injectable InterfaceBuilder protocols.
 
 ## macOS
 
@@ -244,6 +246,7 @@
 
 ## Web
 
+- [Apexy](https://github.com/RedMadRobot/apexy-ios) - Library for organizing a network layer in a project.
 - [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift.
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework. ([GraphQL Vapor Template](https://github.com/alexsteinerde/vapor-graphql-template))
 - [Alchemy](https://github.com/alchemy-swift/alchemy) - Elegant, batteries included web framework for Swift.
@@ -403,6 +406,7 @@
 - [Colorful](https://github.com/Co2333/Colorful) - SwiftUI implementation of AppleCard's animated colorful blur background.
 - [LookingGlassUI](https://github.com/ryanlintott/LookingGlassUI) - Shimmering SwiftUI Views using device orientation.
 - [BottomSheetView](https://github.com/ericlewis/BottomSheetView) - Present sheets with UISheetPresentationController in SwiftUI.
+- [RouteLinkKit](https://github.com/athankefalas/RouteLinkKit) - Lightweight iOS mini framework that enables programmatic navigation with SwiftUI.
 
 ## Test
 
@@ -422,6 +426,7 @@
 - [MockingKit](https://github.com/danielsaidi/MockingKit) - Swift-based mocking library that makes it easy to mock protocols and classes.
 - [TABTestKit](https://github.com/theappbusiness/TABTestKit) - Designed to make writing and maintaining automated tests for iOS applications.
 - [A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing.
+- [Catbird](https://github.com/RedMadRobot/catbird) - Mock server for UI tests.
 
 ## API
 
@@ -928,6 +933,7 @@
 - [CGPathIntersection](https://github.com/calda/CGPathIntersection) - Library that identifies points where two CGPaths intersect.
 - [OSCKit](https://github.com/sammysmallman/OSCKit) - Classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
 - [Sextant](https://github.com/KittyMac/Sextant) - Complete, high performance JSONPath implementation written in Swift.
+- [Box](https://github.com/grsouza/swift-box) - Micro library for Swift that makes possible to transform any value type into a reference type.
 
 ## Other (not lib)
 

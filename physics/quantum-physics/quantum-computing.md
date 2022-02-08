@@ -134,3 +134,4 @@
 - [Textbook: Introduction to Classical and Quantum Computing](http://www.thomaswong.net/#publications)
 - [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum Interconnect Simulator for Distributed Quantum Algorithms.
 - [Quantum Computation and Quantum Information (2010)](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview) ([Code](https://github.com/pptacher/quantum))
+- [Picnic: Post Quantum Signatures](https://github.com/microsoft/Picnic) - Picnic signature scheme is a family of digital signature schemes secure against attacks by quantum computers.

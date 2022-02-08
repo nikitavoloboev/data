@@ -323,6 +323,7 @@
 - [Vectorscan](https://github.com/VectorCamp/vectorscan) - Portable fork of the high-performance regular expression matching library.
 - [Jinja2С++](https://github.com/jinja2cpp/Jinja2Cpp) - C++ implementation of the Jinja2 Python template engine.
 - [AMadeus](https://github.com/AmadeusITGroup/amc) - Collection of high performance C++ containers that can be chosen as drop-in replacements for std::vector and std::set.
+- [json2cpp](https://github.com/lefticus/json2cpp) - Compiles JSON into static constexpr C++ data structures with nlohmann::json API.
 
 ## Links
 

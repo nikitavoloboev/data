@@ -209,6 +209,7 @@
 - [Jest Github Action](https://github.com/mattallty/jest-github-action) - Jest action adding checks with annotations to your pull requests and coverage table as comments.
 - [pkg-size action](https://github.com/pkg-size/action) - GitHub Action for getting automated size reports on your pull-requests.
 - [actions-package-update](https://github.com/taichi/actions-package-update) - Keeps npm dependencies up-to-date by making pull requests from GitHub Actions or CI.
+- [Setup pnpm](https://github.com/pnpm/action-setup) - Install pnpm package manager.
 
 ## TS
 

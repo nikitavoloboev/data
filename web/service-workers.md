@@ -23,3 +23,4 @@
 - [Background processing with JS apps tips (2021)](https://twitter.com/flybayer/status/1473375368761511938)
 - [isoworker](https://github.com/101arrowz/isoworker) - Isomorphic workerization with context in 6kB.
 - [Add a Service Worker to Your Site](https://css-tricks.com/add-a-service-worker-to-your-site/)
+- [Full Video Buffer with Service Workers](https://github.com/titoBouzout/ServiceWorkerFullVideoBuffer)

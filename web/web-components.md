@@ -71,3 +71,5 @@
 - [Custom Element Types](https://custom-element-types.web.app/) - Framework Type Generator for Web Components. ([Code](https://github.com/coryrylan/custom-element-types))
 - [How to use Web Components with TypeScript and React (2021)](https://coryrylan.com/blog/how-to-use-web-components-with-typescript-and-react)
 - [Kapsule](https://github.com/vasturiano/kapsule) - Closure based Web Component library.
+- [Minze](https://github.com/n6ai/minze) - Dead-simple framework for shareable web components. ([Docs](https://minze.dev/))
+- [web-component](https://github.com/vardius/web-component) - Lightweight library providing interface for building web components.

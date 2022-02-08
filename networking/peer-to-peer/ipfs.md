@@ -81,3 +81,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Specifications](https://github.com/ipfs/specs) - Technical specifications for the IPFS protocol stack.
 - [Go-IPFS-HTTP-Client](https://github.com/ipfs/go-ipfs-http-client) - Go-IPFS API implementation over HTTP API.
 - [How a Hypercore P2P innovation could bring more privacy to IPFS (2022)](https://www.ctrl.blog/entry/dht-privacy-discovery-hash.html)
+- [go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - Uses quic-go to provide QUIC support for libp2p.

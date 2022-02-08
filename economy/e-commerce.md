@@ -135,3 +135,5 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Interview with CEO of Flexport: Supply chain crunch, modern logistics (2022)](https://noahpinion.substack.com/p/interview-ryan-petersen-ceo-of-flexport) ([HN](https://news.ycombinator.com/item?id=29781902))
 - [Solidus](https://solidus.io/) - Rails eCommerce Platform. ([Code](https://github.com/solidusio/solidus))
 - [Vend POS Systems](https://www.vendhq.com/) - Retail POS Software.
+- [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI. ([Docs](https://themelab.uicrooks.com/))
+- [Shopify Mail Notifications](https://github.com/uicrooks/shopify-mail-notifications) - Blazing-fast Shopify mail notifications templating environment with Liquid, MJML and Twig.

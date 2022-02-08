@@ -223,7 +223,7 @@ for i, _ in enumerate(nums):
 - [Optimizing your code is not the same as parallelizing your code (2020)](https://pythonspeed.com/articles/do-you-need-cluster-or-multiprocessing/)
 - [PyPy](https://github.com/mozillazg/pypy) - Interpreter that implements the Python programming language, based on the RPython compiler framework for dynamic language implementations. ([PyPy: Faster Python With Minimal Effort](https://realpython.com/pypy-faster-python/))
 - [Evolution of modern python talk (2020)](https://github.com/hultner-technologies/evolution-of-modern-python)
-- [BeeWare](https://beeware.org/) - Allows you to write your app in Python and release it on multiple platforms. ([Code](https://github.com/beeware/beeware.github.io))
+- [BeeWare](https://beeware.org/) - Write Python, run everywhere using native UIs. ([Code](https://github.com/beeware/beeware.github.io)) ([HN](https://news.ycombinator.com/item?id=30190717))
 - [Python: The Full Monty: A Tested Semantics for the Python Programming Language](http://cs.brown.edu/~sk/Publications/Papers/Published/pmmwplck-python-full-monty/)
 - [Getting Started With Python 3 (2020)](https://mubinsodyssey.com/getting-started-with-python-3)
 - [Python Internals Serie : Subprocess.Popen (2020)](http://ykarroum.com/2020/11/07/subprocess/)

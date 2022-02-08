@@ -325,3 +325,4 @@
 - [Redocusaurus](https://github.com/rohit-gohri/redocusaurus) - OpenAPI for Docusaurus v2 with Redoc.
 - [Dash Docset Builder](https://github.com/godbout/dash-docset-builder)
 - [AsyncAPI](https://github.com/asyncapi/spec) - AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs. ([Web](https://www.asyncapi.com/))
+- [APIs as ladders (2022)](https://blog.sbensu.com/posts/2022-01-24-apis-as-ladders/) ([Tweet](https://twitter.com/devonzuegel/status/1490457584138174464))

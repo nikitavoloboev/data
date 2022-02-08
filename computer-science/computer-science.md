@@ -175,3 +175,4 @@
 - [Structure and Interpretation of Computer Programs - JavaScript Edition](https://sourceacademy.org/sicpjs/index)
 - [On being a PhD student of Robert Harper (2022)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0) ([HN](https://news.ycombinator.com/item?id=30103728))
 - [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) ([HN](https://news.ycombinator.com/item?id=30189780))
+- [How to fund graduate school](https://github.com/dhanus/graduate-fellowships) - List of resources to fund your MS and/or PhD, particularly in computer science.

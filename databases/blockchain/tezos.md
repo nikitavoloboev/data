@@ -90,3 +90,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Weaknesses of Tezos (2022)](https://www.reddit.com/r/tezos/comments/ruje5a/i_dont_think_tezos_can_compete_my_honest_thoughts/)
 - [Conseil](https://github.com/Cryptonomic/Conseil) - Query API and indexer for Tezos and other decentralized platforms.
 - [Beacon SDK](https://github.com/airgap-it/beacon-sdk) - Connect Wallets with dApps on Tezos.
+- [Tezos projects (2022)](https://twitter.com/LukesBeard/status/1490151918483746826)

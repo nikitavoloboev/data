@@ -695,3 +695,4 @@
 - [Go concurrency patterns in Rust](https://github.com/munckymagik/go-concurrency-patterns-in-rust)
 - [Downcasting in Rust (2022)](https://ysantos.com/blog/downcast-rust) ([Reddit](https://www.reddit.com/r/rust/comments/sl773h/downcasting_in_rust/))
 - [Diving Deep: implied bounds and variance (2022)](https://lcnr.de/blog/diving-deep-implied-bounds-and-variance/)
+- [Some mistakes Rust doesn't catch (2022)](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) ([Lobsters](https://lobste.rs/s/5jrhuk/some_mistakes_rust_doesn_t_catch)) ([HN](https://news.ycombinator.com/item?id=30253426))

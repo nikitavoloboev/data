@@ -254,6 +254,8 @@
 - [Rough Notation React](https://github.com/linkstrifer/react-rough-notation)
 - [React Lazylog](https://github.com/mozilla-frontend-infra/react-lazylog) - React component that loads and views remote text in the browser lazily and efficiently.
 - [react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet) - Built on top of react-spring and react-use-gesture.
+- [react-photoswipe-gallery](https://github.com/dromru/react-photoswipe-gallery) - Configurable and flexible React component wrapper around PhotoSwipe.
+- [React-Resizable](https://github.com/react-grid-layout/react-resizable) - Simple React component that is resizable with a handle.
 
 ## Links
 

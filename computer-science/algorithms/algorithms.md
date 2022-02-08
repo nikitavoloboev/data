@@ -95,6 +95,7 @@
 - [Speeding up Dijkstra by a factor of 2700 (2021)](https://blog.siraben.dev/2021/12/28/aoc-speedup.html) ([HN](https://news.ycombinator.com/item?id=29757176))
 - [A surprisingly hard CS problem: sums of square roots (2018)](https://shlegeris.com/2018/10/23/sqrt.html) ([HN](https://news.ycombinator.com/item?id=30057582))
 - [Abstractions, Their Algorithms, and Their Compilers (2022)](https://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers/fulltext) ([HN](https://news.ycombinator.com/item?id=30084470))
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - Illustrated guide for programmers and other curious people. ([Code](https://github.com/egonSchiele/grokking_algorithms))
 
 ## Images
 

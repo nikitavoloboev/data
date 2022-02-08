@@ -55,3 +55,4 @@
 - [Scrypted](https://www.scrypted.app/) - Home automation platform powered by node.js. ([Code](https://github.com/koush/scrypted))
 - [Presence Simulation](https://github.com/slashback100/presence_simulation) - Home Assistant component aim to provide a presence simulation in your home while you are away.
 - [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/) ([HN](https://news.ycombinator.com/item?id=30177362))
+- [SaunaKit](https://github.com/quicklywilliam/saunakit) - Remote-operable smart Sauna.

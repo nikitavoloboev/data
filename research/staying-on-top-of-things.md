@@ -169,6 +169,7 @@ And these Discord servers:
 - [Al Jazeera](https://www.aljazeera.com/) - Breaking News, World News and Video.
 - [Carnegie Endowment for International Peace](https://carnegieendowment.org/)
 - [i-D](https://i-d.vice.com/en_uk)
+- [TAP : The American Prospect](https://prospect.org/)
 
 ### Other
 
@@ -237,3 +238,4 @@ And these Discord servers:
 - [The Syllabus](https://www.the-syllabus.com/) - Knowledge Curation Platform. We index, rank, and review tens of thousands of newly published pieces across text, audio, and video. ([Twitter](https://twitter.com/syllabus_tweets))
 - [Ask HN: Where are you going to find long-form content online these days? (2022)](https://news.ycombinator.com/item?id=30051782)
 - [Ask HN: Where do you hang out virtually online? (2022)](https://news.ycombinator.com/item?id=30149838)
+- [Ask HN: What are some good tech magazines? (2022)](https://news.ycombinator.com/item?id=30206027)

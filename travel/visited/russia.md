@@ -414,3 +414,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Обёртка для API сервиса lknpd.nalog.ru](https://github.com/alexstep/moy-nalog)
 - [Прошло десять лет с февральских протестов 2012 года](https://meduza.io/feature/2022/02/04/pomnite-plachuschego-putina-a-mitingi-na-sto-tysyach-chelovek-v-20-gradusnyy-moroz)
 - [Russia's attempts at disinformation](https://twitter.com/bellingcat/status/1489599162484154368)
+- [Yablor.ru](https://yablor.ru/) - Рейтинг топ блогов рунета.
+- [Жуткий и унылый Мурманск](https://yablor.ru/blogs/jutkiy-i-uniliy-murmansk/6402826)
+- [How is life in Russia? (2022)](https://www.reddit.com/r/russia/comments/skmzyw/how_is_life_in_russia/)

@@ -151,3 +151,4 @@
 - [One process programming notes (with Go and SQLite) (2018)](https://crawshaw.io/blog/one-process-programming-notes)
 - [sqlite_backup](https://github.com/seanbreckenridge/sqlite_backup) - Tool to snapshot sqlite databases you don't own.
 - [DBHub.io](https://dbhub.io/) - SQLite storage "in the cloud". ([Code](https://github.com/sqlitebrowser/dbhub.io))
+- [wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - SQLite compiled to WASM with pluggable page storage.

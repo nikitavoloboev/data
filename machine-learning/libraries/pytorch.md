@@ -336,3 +336,4 @@
 - [torch-max-mem](https://github.com/mberr/torch-max-mem) - Decorators for maximizing memory utilization with PyTorch & CUDA.
 - [PyTorch implementation of various Knowledge Distillation (KD) methods](https://github.com/AberHu/Knowledge-Distillation-Zoo)
 - [Padertorch](https://github.com/fgnt/padertorch) - Designed to simplify the training of deep learning models written with PyTorch. Focusing on speech and audio processing.
+- [VFormer](https://github.com/SforAiDl/vformer) - Modular PyTorch library for Vision Transformers.

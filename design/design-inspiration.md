@@ -110,6 +110,7 @@ Here are few more things I liked, design wise.
 - [Readng](https://readng.co/)
 - [OpenAI](https://openai.com/)
 - [Zoox](https://zoox.com/)
+- [Mission Luna](https://www.missionluna.ru/)
 - [Jam](https://jamshelf.com/)
 - [Noor](https://usenoor.com/)
 - [The Graph](https://thegraph.com/)

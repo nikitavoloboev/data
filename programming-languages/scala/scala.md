@@ -144,3 +144,4 @@
 - [Functional event-driven architecture: Powered by Scala 3 (2021)](https://leanpub.com/feda) ([Code](https://github.com/gvolpe/trading))
 - [Describable, Typesafe Computations - Daniel Westheide (2022)](https://www.youtube.com/watch?v=b3qUNnJYXb4)
 - [Taste the difference with Scala 3: Migrating the ecosystem - Jamie Thompson (2022)](https://www.youtube.com/watch?v=k-eP7SPjcwE)
+- [Simplifying sbt with common settings (2022)](https://eed3si9n.com/simplifying-sbt-with-common-settings/)

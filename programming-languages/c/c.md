@@ -205,3 +205,4 @@
 - [Ridiculously fast feature flags (2021)](https://engineering.backtrace.io/2021-12-19-bounded-dynamicism-with-cross-modifying-code/) ([Lobsters](https://lobste.rs/s/hgzqs6/ridiculously_fast_feature_flags))
 - [CIL](https://github.com/cil-project/cil) - C Intermediate Language.
 - [C structures and padding and sizeof (2022)](https://subethasoftware.com/2022/01/18/c-structures-and-padding-and-sizeof/) ([Lobsters](https://lobste.rs/s/ooxh7n/c_structures_padding_sizeof))
+- [Centralizing Resource Cleanup Paths in C](https://elektron.sigsegv.ch/articles/1/centralizing-resource-cleanup-paths-in-c/)

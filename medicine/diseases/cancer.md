@@ -32,3 +32,4 @@
 - [Charting the tumor antigen maps drawn by single-cell genomics (2021)](<https://www.cell.com/cancer-cell/fulltext/S1535-6108(21)00605-X>) ([Tweet](https://twitter.com/CalebLareau/status/1470530211737341959))
 - [Awesome AI Cancer](https://github.com/cbailes/awesome-ai-cancer)
 - [Cancer risk across mammals (2021)](https://www.nature.com/articles/s41586-021-04224-5) ([Tweet](https://twitter.com/BeckiLee/status/1473913388753371139))
+- [Genome-informed cancer therapy (2022)](https://centuryofbio.substack.com/p/genome-informed-cancer-therapy)

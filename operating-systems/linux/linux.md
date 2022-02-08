@@ -28,6 +28,7 @@
 - [CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances.
 - [Iglunix](https://iglunix.xyz/) - Linux (and other kernels) distro with no GNU components.
 - [GoboLinux](https://gobolinux.org/) - Redefining Linux filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=29714825))
+- [Minimal Linux Live](https://github.com/ivandavidov/minimal) - Tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. ([Web](http://minimal.idzona.com/#home))
 
 ## WM
 
@@ -459,4 +460,4 @@
 - [bpfcov](https://github.com/elastic/bpfcov) - Source-code based coverage for eBPF programs actually running in the Linux kernel.
 - [The Beginner's Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
 - [Missing Manuals - io_uring worker pool (2022)](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
-- [On Building 30K Debian Packages (2022)](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html)
+- [On Building 30K Debian Packages (2022)](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html) ([HN](https://news.ycombinator.com/item?id=30237483))

@@ -266,3 +266,5 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [There are too many video games (2022)](https://bottomfeeder.substack.com/p/there-are-too-many-video-games) ([HN](https://news.ycombinator.com/item?id=30184938))
 - [DarkPattern.games](https://www.darkpattern.games/) - Find Healthy Mobile Games. ([HN](https://news.ycombinator.com/item?id=30184457))
 - [Wordle Solver](https://github.com/baku89/wordle-solver)
+- [Another Wordle](https://another-wordle.vercel.app/) - Generate your custom wordle and share with friends. ([Code](https://github.com/btahir/another-wordle))
+- [Thank You, Valve (2022)](https://kinduff.com/2022/02/06/thank-you-valve/) ([HN](https://news.ycombinator.com/item?id=30244195))

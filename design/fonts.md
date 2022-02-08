@@ -318,3 +318,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Type-X](https://github.com/arrowtype/type-x) - Test your fonts across the web by easily overriding fonts on any webpage.
 - [In defense of user-defined web fonts (2022)](https://nutcroft.com/blog/in-defense-of-user-defined-web-fonts/) ([HN](https://news.ycombinator.com/item?id=30162678))
 - [fontvuer](https://fontvuer.netlify.app/) - Cross platform font viewer. ([Code](https://github.com/ssssota/fontvuer))
+- [Fontanello](https://fontanello.app/) - Browser extension for Google Chrome and Firefox that lets you display the basic typographic styles of a text by right-clicking it. ([Code](https://github.com/frederfred/fontanello))

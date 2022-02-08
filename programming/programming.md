@@ -516,3 +516,4 @@
 - [There’s No Such Thing as Clean Code (2022)](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code) ([HN](https://news.ycombinator.com/item?id=30111516))
 - [How did I run that code again? Tools to help recall](https://hippocanvas.com/posts/tools%20for%20remembering%20code%20projects.md) ([HN](https://news.ycombinator.com/item?id=30082442))
 - [Ask HN: Best books on managing software complexity? (2022)](https://news.ycombinator.com/item?id=30228261)
+- [What's in a good error message? (2022)](https://www.morling.dev/blog/whats-in-a-good-error-message/) ([HN](https://news.ycombinator.com/item?id=30234572))

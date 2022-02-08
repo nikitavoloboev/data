@@ -336,4 +336,4 @@
 - [Математичный список полезных книг](https://github.com/uburuntu/awesome-math-ru)
 - [Solving some formal math olympiad problems (2022)](https://openai.com/blog/formal-math/) ([HN](https://news.ycombinator.com/item?id=30181636))
 - [Why isn't there a replication crisis in math? (2022)](https://jaydaigle.net/blog/replication-crisis-math/) ([HN](https://news.ycombinator.com/item?id=30181696))
-- [The mathematically optimal Wordle strategy (2022)](https://www.youtube.com/watch?v=v68zYyaEmEA)
+- [The mathematically optimal Wordle strategy (2022)](https://www.youtube.com/watch?v=v68zYyaEmEA) ([Tweet](https://twitter.com/3blue1brown/status/1490351572215283712))

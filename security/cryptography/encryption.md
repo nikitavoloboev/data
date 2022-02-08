@@ -68,3 +68,4 @@
 - [Hashing is not encryption (2022)](https://eric.mann.blog/hashing-is-not-encryption/) ([HN](https://news.ycombinator.com/item?id=29855212))
 - [zooko-msg](https://github.com/publiusfederalist/zooko-msg) - Send encrypted and decrypted messages with verifiable keys and human readable names.
 - [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) ([HN](https://news.ycombinator.com/item?id=30187633))
+- [rPGP](https://github.com/rpgp/rpgp) - Pure rust implementation of OpenPGP.

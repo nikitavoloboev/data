@@ -68,3 +68,6 @@
 - [STEWS](https://github.com/PalindromeLabs/STEWS) - Security Tool for Enumerating WebSockets.
 - [Awesome WebSockets Security](https://github.com/PalindromeLabs/awesome-websocket-security)
 - [ReconnectingWebSocket](https://github.com/joewalnes/reconnecting-websocket) - Small decorator for the JavaScript WebSocket API that automatically reconnects.
+- [Fasthttp Gorilla WebSocket](https://github.com/fasthttp/websocket) - Gorilla WebSocket implementation for fasthttp.
+- [Autobahn|Testsuite](https://github.com/crossbario/autobahn-testsuite) - Fully automated test suite to verify client and server implementations of The WebSocket Protocol.
+- [fastws](https://github.com/dgrr/fastws) - Fast WebSocket implementation for fasthttp and net/http. Supporting concurrent R/W operations by default.

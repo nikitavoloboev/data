@@ -174,3 +174,5 @@
 - [1History](https://github.com/1History/1History) - Command line tool to backup your histories of different browsers into one file, and more.
 - [Diving into Userscripts](https://www.thomasvanderberg.nl/blog/diving-into-userscripts/) ([HN](https://news.ycombinator.com/item?id=30167750))
 - [Ask HN: Notes, mind-maps, browser tabs all in one solution? (2022)](https://news.ycombinator.com/item?id=30227292)
+- [No-JavaScript Fingerprinting](https://noscriptfingerprint.com/) ([HN](https://news.ycombinator.com/item?id=30237846)) ([Code](https://github.com/fingerprintjs/blog-nojs-fingerprint-demo/))
+- [DeepCite](https://chrome.google.com/webstore/detail/deepcite/oibmgglhkkaigemacdkfeedffkjbpgoi?hl=en-US) - Traversing links to find the deep source of information. ([Code](https://github.com/connorjoleary/DeepCite)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/smbj1o/p_i_made_a_tool_for_finding_the_original_sources/))

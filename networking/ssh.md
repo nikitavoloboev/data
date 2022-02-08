@@ -91,3 +91,5 @@
 - [Best Practices for Securing SSH (2022)](https://goteleport.com/blog/5-ssh-best-practices/) ([HN](https://news.ycombinator.com/item?id=29812819))
 - [Wishlist](https://github.com/charmbracelet/wishlist) - SSH directory.
 - [sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH.
+- [clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH.
+- [Devzat](https://github.com/quackduck/devzat) - Chat over SSH.
