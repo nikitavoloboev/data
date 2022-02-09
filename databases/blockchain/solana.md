@@ -215,3 +215,5 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [Glow Wallet](https://glow.app/) - Store, send, receive, stake, and swap tokens on the Solana blockchain directly on your phone.
 - [Reactor Wallet](https://github.com/marc2332/reactor-wallet) - Non-custodial cross-platform wallet for Solana.
 - [Sundial](https://github.com/port-finance/sundial) - Yield tokenizer program on Solana.
+- [Streamflow](https://github.com/streamflow-finance/js-sdk) - Streaming payments protocol built on Solana.
+- [Mango Markets V3 - Decentralized Margin Trading](https://github.com/blockworks-foundation/mango-v3)

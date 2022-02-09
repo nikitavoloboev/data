@@ -157,3 +157,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Scamwicks and Stop Cascades (2021)](https://www.machow.ski/posts/scamwicks-and-stop-cascades/)
 - [Leverage, Liquidation and Insurance Funds (2021)](https://www.machow.ski/posts/leverage_liquidation_and_insurance_funds/)
 - [On Being Broke](https://thomasjbevan.substack.com/p/on-being-broke) ([HN](https://news.ycombinator.com/item?id=30234518))
+- [Plaid](https://plaid.com/en-eu/) - Enabling all companies to build fintech solutions. ([GitHub](https://github.com/plaid)) ([Docs](https://plaid.com/docs/))

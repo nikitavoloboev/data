@@ -595,3 +595,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How to Mislead with Facts](https://consilienceproject.org/how-to-mislead-with-facts/) ([HN](https://news.ycombinator.com/item?id=30158269))
 - [Low-tech Lab](https://wiki.lowtechlab.org/wiki/Accueil)
 - [Cool ice formations my friend discovered on his deck this morning](https://twitter.com/CJF_NC/status/1490093486330322949) ([HN](https://news.ycombinator.com/item?id=30233630))
+- [Heuristics that almost always work (2022)](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work) ([HN](https://news.ycombinator.com/item?id=30264082))

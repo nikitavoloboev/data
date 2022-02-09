@@ -700,3 +700,4 @@ if err != nil {
 - [Optimizing GoAWK with a bytecode compiler and virtual machine (2022)](https://benhoyt.com/writings/goawk-compiler-vm/)
 - [Dumpster diving the Go garbage collector (2022)](https://blog.px.dev/go-garbage-collector/)
 - [Go performance from version 1.2 to 1.18 (2022)](https://benhoyt.com/writings/go-version-performance/) ([HN](https://news.ycombinator.com/item?id=30201969)) ([Lobsters](https://lobste.rs/s/b2uudr/go_performance_from_version_1_2_1_18))
+- [Mastering Your Error Domain (2022)](https://fosdem.org/2022/schedule/event/go_errors/)

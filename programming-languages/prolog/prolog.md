@@ -52,3 +52,4 @@
 - [Julog.jl](https://github.com/ztangent/Julog.jl) - Julia package for Prolog-style logic programming.
 - [PySwip](https://github.com/yuce/pyswip) - Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs.
 - [50 Years of Prolog and Beyond (2022)](https://arxiv.org/abs/2201.10816) ([HN](https://news.ycombinator.com/item?id=30096930))
+- [Bringing Prolog to the masses](https://github.com/TheClause/learn-prolog)

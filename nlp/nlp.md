@@ -260,7 +260,7 @@
 - [minnn](https://github.com/neubig/minnn-assignment) - Exercise in developing a minimalist neural network toolkit for NLP.
 - [Controllable Sentence Simplification (2019)](https://arxiv.org/abs/1910.02677) ([Code](https://github.com/facebookresearch/access))
 - [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
-- [retext](https://github.com/retextjs/retext) - Natural language processor powered by plugins part of the unified collective.
+- [retext](https://github.com/retextjs/retext) - Natural language processor powered by plugins part of the unified collective. ([Awesome](https://github.com/retextjs/awesome-retext))
 - [CLIP Playground](https://www.clipplayground.co/) - Try OpenAI's CLIP model in your browser.
 - [GPT-3 Demo](https://gpt3demo.com/) - GPT-3 Examples, Demos, Showcase, and NLP Use-cases.
 - [Big Sleep](https://github.com/lucidrains/big-sleep) - Simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN.
@@ -474,3 +474,4 @@
 - [NLP News Newsletter](https://newsletter.ruder.io/)
 - [Named Entity Recognition as Dependency Parsing (2020)](https://aclanthology.org/2020.acl-main.577/) ([Code](https://github.com/juntaoy/biaffine-ner))
 - [Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for any language.
+- [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT.

@@ -23,6 +23,7 @@
 - [OAuth2](https://github.com/scrogson/oauth2) - Elixir OAuth 2.0 Client Library.
 - [Joken](https://github.com/joken-elixir/joken) - Elixir JWT library.
 - [Ueberauth](https://github.com/ueberauth/ueberauth) - Elixir Authentication System for Plug-based Web Applications.
+- [Temple](https://github.com/mhanberg/temple) - HTML DSL for Elixir and Phoenix.
 
 ## DB
 
@@ -36,6 +37,7 @@
 - [Postgrex](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 - [CubDB](https://github.com/lucaong/cubdb) - Embedded key-value database written in the Elixir language.
 - [Elixir driver for EdgeDB](https://github.com/nsidnev/edgedb-elixir)
+- [Khepri](https://github.com/rabbitmq/khepri) - Tree-like replicated on-disk database library for Erlang and Elixir.
 
 ## Test
 
@@ -124,6 +126,8 @@
 - [Witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir.
 - [Domo](https://github.com/IvanRublev/Domo) - Library to validate values of nested structs with their type spec t() and associated precondition functions.
 - [Ink](https://github.com/ivx/ink) - Logger backend that logs JSON.
+- [MuonTrap](https://github.com/fhunleth/muontrap) - Keep programs, deamons, and applications launched from Erlang and Elixir contained and well-behaved.
+- [StreamSplit](https://github.com/tallakt/stream_split) - Split a stream into a head and tail, without iterating the tail.
 
 ## Links
 

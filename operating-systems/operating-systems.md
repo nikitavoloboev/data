@@ -319,3 +319,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([HN](https://news.ycombinator.com/item?id=30094376))
 - [FlexSC: Flexible System Call Scheduling with Exception-Less System Calls](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf) ([Summary](https://catern.com/flexsc.html)) ([Lobsters](https://lobste.rs/s/ihm1l7/summary_flexsc_paper))
 - [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)
+- [dyld](https://github.com/apple-oss-distributions/dyld) - Dynamic link editor. ([Tweet](https://twitter.com/davidecci/status/1490920286086070274))
+- [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft))
+- [systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation.

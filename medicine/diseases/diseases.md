@@ -21,3 +21,4 @@
 - [Ask HN: How to be my own genetic disease researcher for my partner? (2021)](https://news.ycombinator.com/item?id=29468831)
 - [Как я лечусь от туберкулеза](https://twitter.com/pustoshy/status/1474423041203576833)
 - [75 years of research on human diseases in 1 minute](https://twitter.com/helder_nakaya/status/1482095277813157888)
+- [Ask HN: How to raise funds for rare disease research? (2022)](https://news.ycombinator.com/item?id=30250496)

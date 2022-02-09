@@ -58,3 +58,4 @@
 - [discoDSP OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim AAX / AU / VST / VST3 based synthesizer.
 - [Xephys](https://github.com/suhr/xephys) - Microtonal digital waveguide synthesier.
 - [Vital](https://github.com/mtytel/vital) - Spectral warping wavetable synthesizer.
+- [Pilot](https://github.com/hundredrabbits/Pilot) - UDP synthesizer designed to be controlled externally. Created as a companion application to the livecoding environment ORCA.

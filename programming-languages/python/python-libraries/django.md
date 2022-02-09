@@ -127,3 +127,4 @@
 - [Django-RQ](https://github.com/rq/django-rq) - Simple app that provides Django integration for RQ (Redis Queue).
 - [django-clone](https://github.com/tj-django/django-clone) - Controlled Django model instance replication.
 - [Jolie](https://www.jolie.dev/) - Gorgeous drop-in replacement of Django Admin. ([HN](https://news.ycombinator.com/item?id=30224838))
+- [Django-invitations](https://github.com/bee-keeper/django-invitations) - Generic invitations app for Django.

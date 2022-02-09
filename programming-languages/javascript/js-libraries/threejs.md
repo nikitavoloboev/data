@@ -87,3 +87,4 @@
 - [three.interaction](https://github.com/jasonChen1982/three.interaction.js) - Three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom.
 - [lamina](https://github.com/pmndrs/lamina) - Extensible, layer based shader material for ThreeJS.
 - [Sketch ThreeJS](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
+- [three-rt-helper](https://github.com/felixmariotto/three-rt-helper) - WebGLRenderTarget helper for three.js: see the output in real time in a window.

@@ -466,3 +466,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [svm-rs](https://github.com/roynalnaruto/svm-rs) - Solidity Compiler Version Manager.
 - [Implementing Data Availability Sampling (DAS)](https://github.com/protolambda/dv5das) - Data Availability Sampling (DAS) on a Discovery-v5 DHT overlay.
 - [Ethereum: Endgame (2021)](https://vitalik.ca/general/2021/12/06/endgame.html)
+- [oriac](https://github.com/xJonathanLEI/oriac) - Toy Cairo VM implementation in Rust.

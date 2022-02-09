@@ -83,3 +83,4 @@ Match all that don't have notes or twitter in input
 - [rr4r](https://github.com/yutannihilation/rr4r) - Rust regex for R.
 - [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Parser & Visualizer. ([Code](https://github.com/CJex/regulex))
 - [Regexes are Cool and Good (2022)](https://buttondown.email/hillelwayne/archive/regexes-are-cool-and-good/) ([Lobsters](https://lobste.rs/s/wq3n73/regexes_are_cool_good))
+- [RegEx Library](https://uibakery.io/regex-library) - Curated list of useful regular expressions for different programming languages.

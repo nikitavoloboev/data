@@ -203,3 +203,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [Vaporwave Sketchbook](https://codepen.io/cassie-codes/pen/vYerjmr)
 - [identity / monogram](https://id.matsu.io/) ([Code](https://github.com/octref/id))
 - [What is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
+- ["Are we collectively growing an intellect into existence?"](https://institut.co/selay-karasu-editorial/)

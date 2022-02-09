@@ -94,6 +94,7 @@ It includes:
 - [Dan Carlin's Hardcore History](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history)
 - [Dan Carlin's Hardcore History: Addendum](https://overcast.fm/itunes1326393257/dan-carlins-hardcore-history-addendum)
 - [Three Cartoon Avatars](https://overcast.fm/itunes1606770839/three-cartoon-avatars)
+- [The Cofree Coffee Cast](https://anchor.fm/cofree-coffee/) - Host Sandy Maguire gets to know members of the functional programming community.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

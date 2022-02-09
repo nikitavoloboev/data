@@ -214,3 +214,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [A guide to NSButton styles](https://mackuba.eu/2014/10/06/a-guide-to-nsbutton-styles/)
 - [buildkit-machine](https://github.com/developer-guy/buildkit-machine) - Allows you to make buildkitd daemon accessible in your macOS environment.
 - [Catching Native Apps (2022)](https://mjtsai.com/blog/2022/01/12/catching-native-apps/) ([HN](https://news.ycombinator.com/item?id=29913619))
+- [Catalyst Video Grid](https://github.com/steventroughtonsmith/catalystvideogrid) - Catalyst example of a grid-based video app that opens videos in secondary windows.

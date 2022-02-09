@@ -178,3 +178,4 @@
 - [svelte-toast](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 - [threlte](https://github.com/grischaerbe/threlte) - Three.js component library for svelte.
 - [svelte-wasm](https://github.com/tobiasbernet/svelte-wasm) - Example project that how WebAssembly and Svelte could work together.
+- [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Parcel plugin that enables svelte support.

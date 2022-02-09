@@ -81,6 +81,7 @@
 
 ## Themes
 
+- [Obsidian HIG Theme](https://github.com/gavinmn/obsidian-HIG) - Obsidian theme designed to fit in with the Human Interface Guidelines.
 - [Things Theme](https://github.com/colineckert/obsidian-things)
 - [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - Minimalist theme with the aim of creating a serene space of retreat, for thought and uninterrupted work.
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.

@@ -33,6 +33,7 @@
 - [Cursive](https://github.com/gyscos/cursive) - TUI (Text User Interface) library for rust.
 - [CtrlC](https://github.com/Detegr/rust-ctrlc) - Simple easy to use wrapper around Ctrl-C signal.
 - [expectrl](https://github.com/zhiburt/expectrl) - Library for automating and testing interactive applications.
+- [Rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
 
 ## Web
 
@@ -200,6 +201,8 @@
 - [async-redis-session](https://github.com/jbr/async-redis-session) - redis-backed session store for async-session.
 - [Pot](https://github.com/khonsulabs/pot) - Concise storage format, written for BonsaiDb.
 - [pg_query.rs](https://github.com/pganalyze/pg_query.rs) - Rust library to parse, deparse and normalize SQL queries using the PostgreSQL query parser.
+- [clickhouse.rs](https://github.com/loyd/clickhouse.rs) - Typed client for ClickHouse.
+- [FuzzyTrie](https://github.com/VictorBulba/fuzzy_trie) - Key-value collection to make fuzzy searches.
 
 ## Video
 
@@ -291,6 +294,8 @@
 - [Grillon](https://github.com/theredfish/grillon) - Elegant and natural way to approach end-to-end HTTP API testing in Rust.
 - [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [Golden Tests](https://github.com/jfecher/golden-tests) - Golden file testing library for rust.
+- [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - Mutation testing tool for Rust.
+- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust.
 
 ## Error
 
@@ -392,6 +397,7 @@
 - [volatile-register](https://github.com/japaric/volatile-register) - Volatile access to memory mapped hardware registers.
 - [stm32f7xx-hal](https://github.com/stm32-rs/stm32f7xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F7 family.
 - [embedded-svc](https://github.com/esp-rs/embedded-svc) - Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.).
+- [RPPAL](https://github.com/golemparts/rppal) - Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 
 ## ML
 
@@ -512,6 +518,7 @@
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
 - [Actix](https://github.com/actix/actix) - Actor framework for Rust. ([Examples](https://github.com/actix/examples))
 - [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
+- [Tokio Metrics](https://github.com/tokio-rs/tokio-metrics) - Utilities for collecting metrics from a Tokio application.
 - [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial)) ([Building a CEDICT parser in Rust with Nom](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)) ([Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)) ([Parsing Text with Nom](https://blog.adamchalmers.com/nom-chars/)) ([HN](https://news.ycombinator.com/item?id=29897328))
 - [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
@@ -1396,6 +1403,14 @@
 - [qcms](https://github.com/FirefoxGraphics/qcms) - Firefox's library for transforming image data between ICC profiles.
 - [rustplotlib](https://github.com/askanium/rustplotlib) - Pure Rust visualization library inspired by D3.js.
 - [Subotai](https://github.com/PabloMansanet/subotai) - Kademlia based Distributed Hash Table in Rust.
+- [extreme](https://github.com/spacejam/extreme) - Extremely boring async function runner, written in 44 lines of 0-dependency Rust.
+- [linked_hash_set](https://github.com/alexheretic/linked-hash-set) - Rust HashSet with insertion ordering.
+- [Elfo](https://github.com/elfo-rs/elfo) - Another actor system.
+- [Triomphe](https://github.com/Manishearth/triomphe) - Fork of std::sync::Arc with lots of utilities useful for FFI.
+- [Taplo](https://github.com/tamasfe/taplo) - TOML toolkit written in Rust.
+- [Pipe Trait](https://github.com/KSXGitHub/pipe-trait) - Make it possible to chain regular functions.
+- [relative-path](https://github.com/udoprog/relative-path) - Portable relative UTF-8 paths for Rust.
+- [kiam](https://github.com/WaffleLapkin/kiam) - Better syntax for if/else chains.
 
 ## Cargo Plugins
 

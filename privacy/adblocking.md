@@ -31,3 +31,4 @@
 - [Adblocker](https://github.com/ghostery/adblocker) - Efficient embeddable adblocker library.
 - [Let's Block It!](https://letsblock.it/) - Collection of custom uBlock filters to hide low-value content. ([Code](https://github.com/xvello/letsblockit))
 - [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter) - Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines.
+- [Incoggo](https://joinincoggo.com/) - Ad blocker for Paywalls.

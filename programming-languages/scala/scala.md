@@ -145,3 +145,5 @@
 - [Describable, Typesafe Computations - Daniel Westheide (2022)](https://www.youtube.com/watch?v=b3qUNnJYXb4)
 - [Taste the difference with Scala 3: Migrating the ecosystem - Jamie Thompson (2022)](https://www.youtube.com/watch?v=k-eP7SPjcwE)
 - [Simplifying sbt with common settings (2022)](https://eed3si9n.com/simplifying-sbt-with-common-settings/)
+- [Learn Functional Programming course/tutorial on Scala](https://github.com/dehun/learn-fp)
+- [WartRemover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool. ([Docs](https://www.wartremover.org/))

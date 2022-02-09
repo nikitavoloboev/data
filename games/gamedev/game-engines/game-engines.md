@@ -102,6 +102,7 @@
 - [Urho3D](https://github.com/urho3d/Urho3D) - Cross-platform 2D and 3D game engine. ([Web](https://urho3d.io/))
 - [Kruger](https://github.com/BobbyAnguelov/KRG) - Game engine framework, basically an engine without a renderer.
 - [Rusty Engine](https://github.com/CleanCut/rusty_engine) - 2D game engine for learning Rust.
+- [Potato](https://github.com/potatoengine/potato) - Hobby C++ game engine.
 
 ## Physics engines
 

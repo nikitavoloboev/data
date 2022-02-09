@@ -553,3 +553,7 @@
 - [SeMask: Semantically Masked Transformers for Semantic Segmentation (2021)](https://arxiv.org/abs/2112.12782) ([Code](https://github.com/Picsart-AI-Research/SeMask-Segmentation))
 - [Image Quality Assessment: Unifying Structure and Texture Similarity (2020)](https://arxiv.org/abs/2004.07728) ([Code](https://github.com/dingkeyan93/DISTS))
 - [Learning Super-Features for Image Retrieval (2022)](https://github.com/naver/fire)
+- [YOLOv7](https://github.com/jinfagang/yolov7) - Framework Beyond Detection.
+- [A Simple Baseline for Zero-shot Semantic Segmentation with Pre-trained Vision-language Model (2021)](https://arxiv.org/abs/2112.14757) ([Code](https://github.com/MendelXu/zsseg.baseline))
+- [Single/Multiple Object Tracking and Segmentation](https://github.com/JudasDie/SOTS)
+- [Learnable Multi-level Frequency Decomposition and Hierarchical Attention Mechanism for Generalized Face Presentation Attack Detection (2021)](https://arxiv.org/abs/2109.07950) ([Code](https://github.com/meilfang/LMFD-PAD))

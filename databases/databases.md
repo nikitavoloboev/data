@@ -194,6 +194,7 @@
 - [Skate](https://github.com/charmbracelet/skate) - Personal key-value store. Use it to save and retrieve anything you’d like—even binary data.
 - [Hazelcast](https://github.com/hazelcast/hazelcast) - Distributed computation and storage platform for consistently low-latency querying, aggregation and stateful computation against event streams and traditional data sources. ([Web](https://hazelcast.com/))
 - [SimpleDB](https://github.com/awelm/simpledb) - Simple database built from scratch that has some of the basic RDBMS features like a SQL query parser, transactions, and a query optimizer. ([HN](https://news.ycombinator.com/item?id=30156048))
+- [Garage](https://github.com/deuxfleurs-org/garage) - Lightweight S3-compatible distributed object store. ([Web](https://garagehq.deuxfleurs.fr/)) ([Article](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)) ([HN](https://news.ycombinator.com/item?id=30256753))
 
 ## Tools
 
@@ -241,7 +242,7 @@
 - [trona](https://github.com/igorkamyshev/trona) - Write DB migrations with SQL and run them with a CLI.
 - [Azimutt](https://azimutt.app/) - Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your SQL schema. ([Code](https://github.com/azimuttapp/azimutt))
 - [Models](https://github.com/tvallotton/models) - Tool for automated migrations for PostgreSQL, SQLite and MySQL.
-- [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas))
+- [Atlas](https://atlasgo.io/) - Set of tools designed to help companies better work with their data. It includes several components that can be used individually but are designed to work very well together. ([Code](https://github.com/ariga/atlas)) ([HN](https://news.ycombinator.com/item?id=30256256))
 - [replikativ](https://github.com/replikativ/replikativ) - Open, scalable and distributive infrastructure for a data-driven community of applications. ([Web](https://replikativ.io/)) ([Unified storage IO](https://whilo.github.io/articles/16/unified-storage-io))
 - [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control management tool for developers and DBAs. ([Web](https://bytebase.com/))
 - [Sequelize-Auto](https://github.com/sequelize/sequelize-auto) - Automatically generate models for SequelizeJS via the command line.
@@ -518,3 +519,4 @@
 - [HTSQL](https://www.htsql.org/) - Database Query Language. ([Lobsters](https://lobste.rs/s/45reoa/database_query_language_htsql))
 - [Organizational scalability and flexible database schemas (2022)](https://minimalmodeling.substack.com/p/organizational-scalability-and-flexible)
 - [What to use for caching DB requests? Redis? (2022)](https://twitter.com/JasonEtco/status/1490377350055346180)
+- [wait4it](https://github.com/ph4r5h4d/wait4it) - Simple go application to test whether a port is ready to accept a connection or check MySQL, PostgreSQL, MongoDB or Redis server is ready or not.

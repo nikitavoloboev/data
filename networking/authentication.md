@@ -193,3 +193,4 @@
 - [Biscuit](https://www.biscuitsec.org/) - Authorization token with decentralized verification, offline attenuation and strong security policy enforcement based on a logic language. ([Code](https://github.com/biscuit-auth/biscuit)) ([Tweet](https://twitter.com/bascule/status/1481726834593173511))
 - [jwtex](https://github.com/aidansteele/jwtex) - Serverless application that takes JSON Web Tokens (JWTs) in one format and converts them to another format.
 - [Auth0 CLI ](https://github.com/auth0/auth0-cli) - Build, test, troubleshoot and manage your integration with Auth0 directly from your terminal.
+- [ORY Oathkeeper](https://github.com/ory/oathkeeper) - Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules.

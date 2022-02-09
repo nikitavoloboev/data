@@ -85,3 +85,5 @@
 - [Derw](https://github.com/eeue56/derw) - Elm-inspired language that transpiles to TypeScript. ([Lobsters](https://lobste.rs/s/ypvv4c/derw_elm_inspired_language_transpiles)) ([Why Derw](https://derw.substack.com/p/why-derw-an-elm-like-language-that)) ([Lobsters](https://lobste.rs/s/lxpjpd/why_derw_elm_like_language_compiles))
 - [Elm Tailwind Modules](https://github.com/matheus23/elm-tailwind-modules) - Generate Elm code for Tailwind Utilities and Components that purges using Elm's dead code elimination.
 - [elm-pair](https://github.com/jwoudenberg/elm-pair) - Artificial pair-programmer that helps you write Elm.
+- [Elm patterns](http://sporto.github.io/elm-patterns/) ([Code](https://github.com/sporto/elm-patterns))
+- [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)

@@ -70,3 +70,5 @@
 - [agda-metric-reals](https://github.com/bobatkey/agda-metric-reals)
 - [Categorical semantics of functional type theory with explicit substitutions, formalized in Agda](https://github.com/elpinal/exsub-ccc)
 - [generic-lr](https://github.com/laMudri/generic-lr) - AACMM's generic-syntax, but with QTT-style annotations.
+- [Initial Categories with Families](https://github.com/superhaNds/cwfs) - Formalization of categories with families (CwFs) defined as a generalized algebraic theory described in Internal Type Theory.
+- [Conceptual Mathematics](https://github.com/JonathanLorimer/conceptual-mathematics) - Proofs for the exercises for Lawvere and Schanuel's Conceptual Mathematics.

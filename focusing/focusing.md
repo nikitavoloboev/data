@@ -104,3 +104,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: How do you cope with being interrupted? (2022)](https://news.ycombinator.com/item?id=29767203)
 - [Effortless personal productivity (or how I learned to love my monkey mind)](https://jakobgreenfeld.com/personal-productivity) ([HN](https://news.ycombinator.com/item?id=29965957))
 - [Ask HN: What do you do to jump start your brain in the morning? (2022)](https://news.ycombinator.com/item?id=30160348)
+- [Ask HN: Is ADHD Real? (2022)](https://news.ycombinator.com/item?id=30270829)

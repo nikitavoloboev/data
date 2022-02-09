@@ -372,3 +372,4 @@
 - [Software Development Languages: Haskell](https://www.fosskers.ca/en/blog/haskell-software-dev) ([HN](https://news.ycombinator.com/item?id=30152930))
 - [Introduction to Free Monads (2022)](https://serokell.io/blog/introduction-to-free-monads)
 - [What do we actually need to know to be fluent in Haskell? (2022)](https://www.reddit.com/r/haskell/comments/shrdk9/what_do_we_actually_need_to_know_to_be_fluent_in/)
+- [Haskell for the Elm Enthusiast (2021)](https://dev.to/noredink/haskell-for-the-elm-enthusiast-ckm)

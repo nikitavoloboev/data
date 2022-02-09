@@ -12,7 +12,7 @@
 - [Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/) ([Code](https://github.com/yoksel/flex-cheatsheet))
 - [Coping with flexbox (2019)](https://kgrz.io/coping-with-flexbox.html)
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox Froggy](http://flexboxfroggy.com/) ([Code](https://github.com/thomaspark/flexboxfroggy))
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Game for learning CSS flexbox. ([Code](https://github.com/thomaspark/flexboxfroggy)) ([HN](https://news.ycombinator.com/item?id=30251054))
 - [FLEX](http://flexbox.malven.co/) - Simple visual cheat sheet on Flexbox.
 - [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator.
 - [PostCSS Flexbugs Fixes](https://github.com/luisrudge/postcss-flexbugs-fixes) - PostCSS plugin that tries to fix all of flexbug's issues.

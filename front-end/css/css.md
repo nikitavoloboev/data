@@ -445,3 +445,6 @@ all: unset
 - [Getting Started With CSS Cascade Layers (2022)](https://www.smashingmagazine.com/2022/01/introduction-css-cascade-layers/)
 - [CSS Polka Dot Generator](https://screenspan.net/polka/)
 - [Fancy CSS Borders Using Masks (2022)](https://css-tricks.com/css-borders-using-masks/)
+- [postcss-design-tokens](https://github.com/jptaranto/postcss-design-tokens) - PostCSS plugin that provides a function to retrieve design tokens expressed in JS or JSON, within CSS.
+- [Juice](https://github.com/Automattic/juice) - Given HTML, juice will inline your CSS properties into the style attribute.
+- [Aspect Ratio is Great (2022)](https://css-irl.info/aspect-ratio-is-great/)

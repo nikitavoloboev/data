@@ -73,3 +73,4 @@
 - [Advice on writing/newsletters (2021)](https://twitter.com/GergelyOrosz/status/1442537833495990278)
 - [Sending newsletters should cost something (2021)](https://www.rmhsilva.com/w/blockchain-mail-b-mail/) ([HN](https://news.ycombinator.com/item?id=28758125))
 - [beehiiv](https://www.beehiiv.com/) - Newsletter platform built by newsletter people. Empowering creators to monetize and grow. ([Twitter](https://twitter.com/trybeehiiv))
+- [Add Newsletter Subscription Form to React Website (2022)](https://pragmaticpineapple.com/add-newsletter-subscription-form-to-react-website/)

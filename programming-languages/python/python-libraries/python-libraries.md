@@ -264,7 +264,7 @@
 - [Python libraries for Google Colaboratory](https://github.com/googlecolab/colabtools)
 - [PandasVault](https://github.com/firmai/pandasvault) - Advanced Pandas Functions and Code Snippets.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
-- [Koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python.
+- [Koda](https://github.com/keithasaurus/koda) - Type-safe functional tools for Python. ([HN](https://news.ycombinator.com/item?id=30247325))
 - [baikal](https://github.com/alegonz/baikal) - Graph-based functional API for building complex scikit-learn pipelines.
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 - [STPyV8](https://github.com/area1/stpyv8) - Allows interop between Python 3 and JavaScript running Google's V8 engine.
@@ -671,6 +671,9 @@
 - [python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [Pebble](https://github.com/noxdafox/pebble) - Provides a neat API to manage threads and processes within an application.
 - [unsync](https://github.com/alex-sherman/unsync) - Unsynchronize asyncio by using an ambient event loop, or executing in separate threads or processes.
+- [ctparse](https://github.com/comtravo/ctparse) - Parse natural language time expressions in python.
+- [madbg](https://github.com/kmaork/madbg) - Fully-featured remote debugger for python.
+- [Class Resolver](https://github.com/cthoyt/class-resolver) - Lookup classes and instantiate them with style.
 
 ## Links
 
@@ -742,3 +745,6 @@
 - [conda-build](https://github.com/conda/conda-build) - Commands and tools for building conda packages.
 - [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) - Tool and pre-commit hook to automatically convert relative imports to absolute.
 - [lazydocs](https://github.com/ml-tooling/lazydocs) - Generate markdown API documentation for Google-style Python docstring.
+- [crossenv](https://github.com/benfogle/crossenv) - Cross-compiling virtualenv for Python.
+- [Nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects.
+- [SSort](https://github.com/bwhmather/ssort) - Tool for sorting top level statements in python files.

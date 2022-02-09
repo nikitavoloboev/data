@@ -25,3 +25,4 @@
 - [RustAD](https://github.com/JonathanWoollett-Light/rust-ad) - Rust Auto-Differentiation.
 - [Storchastic](https://github.com/HEmile/storchastic) - PyTorch library for stochastic gradient estimation in Deep Learning.
 - [AbstractDifferentiation](https://github.com/JuliaDiff/AbstractDifferentiation.jl) - Abstract interface for automatic differentiation.
+- [ad](https://github.com/ekmett/ad) - Package that provides an intuitive API for Automatic Differentiation (AD) in Haskell.

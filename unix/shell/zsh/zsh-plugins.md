@@ -65,3 +65,4 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Znap](https://github.com/marlonrichert/zsh-snap) - Light-weight Git repo manager for Zsh. Tailored to managing Zsh plugins.
 - [zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) - Perhaps you don't need a Zsh plugin manager after all.
 - [Zsh for Humans](https://github.com/romkatv/zsh4humans) - Turnkey configuration for Zsh.
+- [Zsh modules written in rust](https://github.com/mgattozzi/zsh-module-poc) ([Tweet](https://twitter.com/mgattozzi/status/1404598945389633538))

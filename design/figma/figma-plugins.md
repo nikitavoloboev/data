@@ -77,3 +77,4 @@
 - [Unmix Fonts](https://www.figma.com/community/plugin/1039804395780906653/Unmix-Fonts) - Unmix mixed fonts, with dynamic baseline alignment.
 - [Sigma](https://github.com/bannzai/Sigma) - Figma plugin of automatically generate SwiftUI code from Figma.
 - [Device Models](https://github.com/CodyJasonBennett/device-models) - Figma plugin to create mockups with 3D device models.
+- [Figx](https://github.com/n0ruSh/figx) - Comprehensive and reliable figma utilities library.

@@ -32,6 +32,7 @@
 - [zgt](https://github.com/zenith391/zgt) - Zig GUI Toolkit.
 - [tvg](https://github.com/MasterQ32/tvg) - Tiny Vector Graphics.
 - [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin wrapper for the cairo 2D graphics library.
+- [ZGL](https://github.com/ziglibs/zgl) - Zig OpenGL Bindings.
 
 ## WASM
 
@@ -69,6 +70,9 @@
 - [zzz](https://github.com/gruebite/zzz) - Simple and boring human readable data format for Zig.
 - [ctradix](https://github.com/Luukdegram/ctradix) - Comptime radix tree in Zig.
 - [protozig](https://github.com/kubkon/protozig) - Complete implementation of protobuf in Zig.
+- [HeaderGen](https://github.com/suirad/zig-header-gen) - Automatically generate headers/bindings for other languages from Zig code.
+- [zig-libgit2](https://github.com/leecannon/zig-libgit2) - Zig bindings to libgit2.
+- [Adma](https://github.com/suirad/adma) - General purpose, multithreaded capable slab allocator for Zig.
 
 ## Links
 

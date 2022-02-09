@@ -46,3 +46,4 @@
 - [Rubric](https://github.com/rednafi/rubric) - Linter Config Initialization for Python.
 - [Holistic Configuration Management at Facebook (2015)](https://research.facebook.com/publications/holistic-configuration-management-at-facebook/) ([Lobsters](https://lobste.rs/s/656c5t/holistic_configuration_management_at))
 - [ev](https://github.com/henrycunh/ev) - Tool for versioning, securing and easily sharing environment variables.
+- [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.

@@ -10,6 +10,7 @@
 - [UI port of Windows 11](https://github.com/SaltyAom/sun-valley)
 - [Design Editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js.
 - [Proton Mail Web clients](https://github.com/ProtonMail/WebClients)
+- [Saas UI](https://github.com/saas-js/saas-ui) - The frontend stack for SaaS companies, build with Chakra UI.
 
 ## Templates
 

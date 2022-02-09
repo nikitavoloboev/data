@@ -18,3 +18,5 @@
 - [Solid Docs Code](https://github.com/solidjs/solid-docs)
 - [Solid Labels](https://github.com/LXSMNSYC/solid-labels) - Simple, reactive labels for SolidJS.
 - [Solid Headless](https://github.com/LXSMNSYC/solid-headless) - Headless UI for SolidJS.
+- [Streaming SolidJS: Fine-Grained Reactivity (2021)](https://www.youtube.com/watch?v=b9e7VXs_A4s)
+- [solid-firebase](https://github.com/wobsoriano/solid-firebase) - Solid hooks for Firebase.

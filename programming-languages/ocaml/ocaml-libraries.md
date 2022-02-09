@@ -136,6 +136,9 @@
 - [ExtUnix](https://github.com/ygrek/extunix) - OCaml bindings to various low-level system APIs not covered by Unix module.
 - [ocaml-arrow](https://github.com/LaurentMazare/ocaml-arrow) - OCaml bindings for Apache Arrow using the C++ api.
 - [ocaml-in-python](https://github.com/thierry-martinez/ocaml-in-python) - Effortless Python bindings for OCaml modules.
+- [Yojson](https://github.com/ocaml-community/yojson) - Low-level JSON parsing and pretty-printing library for OCaml.
+- [ATD](https://github.com/ahrefs/atd) - Static types for JSON APIs.
+- [Biocaml](https://github.com/biocaml/biocaml) - OCaml Bioinformatics Library.
 
 ## Links
 
@@ -143,3 +146,4 @@
 - [dune-deps](https://github.com/mjambon/dune-deps) - Show the internal dependencies in your OCaml/Reason/Dune project.
 - [dune-release](https://github.com/ocamllabs/dune-release) - Tool to streamline the release of Dune packages in opam.
 - [opam-dune-lint](https://github.com/ocurrent/opam-dune-lint) - Ensure dune and opam dependencies are consistent.
+- [Sherlocode](https://sherlocode.com/) - Search across 17 million lines of OCaml available on opam using grep. ([Code](https://github.com/art-w/sherlocode))

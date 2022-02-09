@@ -84,3 +84,5 @@
 - [rd-parse](https://github.com/dmaevsky/rd-parse) - Generic minimalist zero dependencies recursive-descent parser generator in JavaScript.
 - [Lightweight Linting with Tree-sitter (2022)](https://peppe.rs/posts/lightweight_linting/)
 - [tsls](https://github.com/keyvchan/tsls) - Tree-sitter based language server for general languages.
+- [Interactive tool for experimenting with LR(1) grammars](https://github.com/obscurecolin/lr)
+- [syntax](https://github.com/DmitrySoshnikov/syntax) - Syntactic analysis toolkit, language-agnostic parser generator.

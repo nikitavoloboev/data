@@ -100,6 +100,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Dorik](https://dorik.com/) - Build Beautiful Websites Without Code.
+- [Tally Forms](https://tally.so/) - Free Typeform alternative. ([HN](https://news.ycombinator.com/item?id=30258149))
 - [Amie](https://amie.so/) - Joyful productivity app.
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
@@ -156,6 +157,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
 - [Tinybird](https://www.tinybird.co/) - Turn raw data into realtime API at scale.
 - [Notify](https://notify.me/) - Subscribe directly to creators.
+- [Bazinga Tools](https://bazinga.tools/) - All-in-One Toolbox for Developers. ([Code](https://github.com/luin/bazinga))
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
@@ -179,6 +181,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
 - [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries. ([How it works](https://github.com/google/bloaty/blob/master/doc/how-bloaty-works.md))
 - [Retro](https://retro.app/) - Agile retrospectives made easy.
+- [UI Bakery](https://uibakery.io/) - Build internal tools faster than ever.
 - [Convoy](https://getconvoy.io/) - Fast & secure webhooks service. It receives event data from a HTTP API and sends these event data to the configured endpoints. ([Code](https://github.com/frain-dev/convoy))
 - [Help Scout](https://www.helpscout.com/) - Simple Customer Service Software and Education.
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.

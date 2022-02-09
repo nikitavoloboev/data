@@ -337,3 +337,5 @@
 - [PyTorch implementation of various Knowledge Distillation (KD) methods](https://github.com/AberHu/Knowledge-Distillation-Zoo)
 - [Padertorch](https://github.com/fgnt/padertorch) - Designed to simplify the training of deep learning models written with PyTorch. Focusing on speech and audio processing.
 - [VFormer](https://github.com/SforAiDl/vformer) - Modular PyTorch library for Vision Transformers.
+- [BindsNET](https://github.com/BindsNET/bindsnet) - Simulation of spiking neural networks (SNNs) using PyTorch.
+- [Hammer](https://github.com/bytedance/Hammer) - Efficient PyTorch-based library for training deep models.

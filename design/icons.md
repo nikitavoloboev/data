@@ -109,3 +109,4 @@
 - [Bytesize Icons](https://danklammer.com/bytesize-icons/) - Tiny style-controlled SVG iconset. ([Code](https://github.com/danklammer/bytesize-icons))
 - [Your favorite open source icon library (2022)](https://twitter.com/argyleink/status/1480237318971686918)
 - [Vertex.im](https://vertex.im/) - Free customizable 3D icons.
+- [Iconographic Encyclopædia of Science, Literature, and Art](https://www.c82.net/iconography/) ([Making of Iconographic Encylopædia](https://www.c82.net/blog/?id=88)) ([Tweet](https://twitter.com/rougeux/status/1490418398886518789))

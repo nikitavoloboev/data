@@ -481,3 +481,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Highlights from Git 2.35 (2022)](https://github.blog/2022-01-24-highlights-from-git-2-35/) ([HN](https://news.ycombinator.com/item?id=30068776))
 - [zig-git](https://github.com/nektro/zig-git) - Inspect into the depths of your .git folder purely from Zig.
 - [Gitless](https://gitless.com/) - Simple version control system built on top of Git. ([Code](https://github.com/gitless-vcs/gitless)) ([Lobsters](https://lobste.rs/s/nrlyar/gitless_simple_version_control_system))
+- [A better `git blame` with `--ignore-rev`](https://michaelheap.com/git-ignore-rev/) ([Lobsters](https://lobste.rs/s/loxzvv/better_git_blame_with_ignore_rev))

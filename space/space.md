@@ -1,5 +1,7 @@
 # Space
 
+[SEA](https://www.youtube.com/c/SEAmedia/videos) does lots of fascinating videos on space.
+
 ## Notes
 
 - [Two points of space are considered the same point when the distance between them is zero.](https://www.reddit.com/r/askscience/comments/5sdyes/by_guessing_the_rate_of_the_expansion_of_the/ddedjcw/)
@@ -142,3 +144,6 @@
 - [Orbit - Webb/NASA](https://webb.nasa.gov/content/about/orbit.html)
 - [How are we always able to see light from the early universe? (2022)](https://www.reddit.com/r/askscience/comments/sjxtht/how_are_we_always_able_to_see_light_from_the/)
 - [Photons incoming: Webb team begins aligning the telescope (2022)](https://blogs.nasa.gov/webb/2022/02/03/photons-incoming-webb-team-begins-aligning-the-telescope/) ([HN](https://news.ycombinator.com/item?id=30200528))
+- [SEA - YouTube](https://www.youtube.com/c/SEAmedia/videos)
+- [A Lonely Universe](https://inference-review.com/article/a-lonely-universe) ([HN](https://news.ycombinator.com/item?id=30266396))
+- [SpaceX](https://www.spacex.com/) - Aerospace manufacturer. ([Updates](https://www.spacex.com/updates/))

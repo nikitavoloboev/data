@@ -135,3 +135,4 @@
 - [KMCP: accurate metagenomic profiling of both prokaryotic and viral organisms by pseudo-mapping](https://github.com/shenwei356/kmcp)
 - [ViralMSA](https://github.com/niemasd/ViralMSA) - Reference-guided multiple sequence alignment of viral genomes.
 - [sketchy](https://github.com/esteinig/sketchy) - Genomic neighbor typing for lineage and genotype inference.
+- [GeneGrouper](https://github.com/agmcfarland/GeneGrouper) - CLI tool for finding gene clusters in many genomes and placing them in discrete groups based on gene content similarity.

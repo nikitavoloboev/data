@@ -102,3 +102,4 @@
 - [json-tui](https://github.com/ArthurSonzogni/json-tui) - JSON terminal UI made in C++.
 - [yajsv](https://github.com/neilpa/yajsv) - Yet Another JSON Schema Validator CLI.
 - [Learn jq with incremental exercises](https://github.com/andreamazza89/jq-exercises)
+- [jfmt](https://github.com/scruffystuffs/jfmt.rs) - Fast JSON Auto-Formatter.

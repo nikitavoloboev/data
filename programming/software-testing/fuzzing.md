@@ -70,3 +70,4 @@
 - [fuzzuf](https://github.com/fuzzuf/fuzzuf) - Fuzzing Unification Framework.
 - [BINSEC](https://github.com/binsec/binsec) - Open-source toolset to help improve software security at the binary level.
 - [bun](https://github.com/ocurrent/bun) - Tool for integrating fuzzer-based tests into a conventional CI pipeline.
+- [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types (2021)](https://github.com/RUB-SysSec/Nyx)

@@ -29,3 +29,4 @@
 
 - [Elm Packages search](https://package.elm-lang.org/)
 - [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) - Elm package and CLI tool for generating Elm code.
+- [elm-docset](https://github.com/pdamoc/elm-docset) - Elm Dash Docset generator.

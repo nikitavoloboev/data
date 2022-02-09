@@ -87,3 +87,4 @@
 - [Prisma Data Platform](https://cloud.prisma.io/)
 - [Create Prisma Generator](https://github.com/YassinEldeeb/create-prisma-generator) - Get started developing your own Prisma generator by running a single command.
 - [Aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations.
+- [TypeScript, PostgreSQL, Prisma | Data Modeling, CRUD, Aggregates (2020)](https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-data-modeling-tsjs1ps7kip1) ([Code](https://github.com/2color/real-world-grading-app))

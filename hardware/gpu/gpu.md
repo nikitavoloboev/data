@@ -7,7 +7,7 @@
 - [W3C GPU for the Web Community Group](https://github.com/gpuweb/gpuweb)
 - [RAPIDS](https://rapids.ai/) - Open GPU Data Science.
 - [GPU hardware effects](https://github.com/Kobzol/hardware-effects-gpu) - Demonstration of various hardware effects on CUDA GPUs.
-- [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal)
+- [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal) ([Basis Universal Transcoders](https://github.com/KhronosGroup/Basis-Universal-Transcoders))
 - [NVIDIA GPU Monitoring Tools](https://github.com/NVIDIA/gpu-monitoring-tools)
 - [A Taste of GPU Compute (2020)](https://www.youtube.com/watch?v=eqkAaplKBc4) ([Slides](https://docs.google.com/presentation/d/1FRH81IW9RffkJjm6ILFZ7raCgFAUPXYYFXfiyKmhkx8/edit)) ([HN](https://news.ycombinator.com/item?id=22880502))
 - [KeOps](https://github.com/getkeops/keops) - Kernel Operations on the GPU, with autodiff, without memory overflows.
@@ -82,3 +82,4 @@
 - [Nvidia GPUs Enable Simulation of a Living Cell (2022)](https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/) ([HN](https://news.ycombinator.com/item?id=30113837))
 - [Writing an open source GPU driver – without the hardware (2022)](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/) ([HN](https://news.ycombinator.com/item?id=30107002))
 - [Human GPU Exercises](https://github.com/luruke/human-gpu)
+- [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes.

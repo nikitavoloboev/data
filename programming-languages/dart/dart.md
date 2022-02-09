@@ -29,3 +29,4 @@
 - [Melos](https://github.com/invertase/melos) - Tool for managing Dart projects with multiple packages.
 - [Very Good CLI](https://github.com/VeryGoodOpenSource/very_good_cli) - CLI for Dart.
 - [Dart Build](https://github.com/dart-lang/build) - Build system for Dart written in Dart.
+- [RxDart](https://github.com/ReactiveX/rxdart) - Reactive Extensions for Dart.

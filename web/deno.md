@@ -180,3 +180,5 @@
 - [ReScript Deno](https://github.com/cometkim/rescript-deno) - ReScript bindings to Deno APIs.
 - [dx](https://github.com/linux-china/dx) - Tool and task runner for writing better scripts with Deno.
 - [crate](https://github.com/jordanreger/crate) - Native apps with Deno.
+- [IndexedDB for Deno](https://github.com/aaronhuggins/indexeddb)
+- [Deno Args](https://github.com/KSXGitHub/deno-args) - Extensible CLI arguments parser for Deno with intelligent TypeScript inference.

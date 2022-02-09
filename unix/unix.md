@@ -69,3 +69,4 @@
 - [Unix as IDE (2012)](https://blog.sanctum.geek.nz/series/unix-as-ide/)
 - [.plan](https://plan.cat/) ([Lobsters](https://lobste.rs/s/woxgih/plan)) ([HN](https://news.ycombinator.com/item?id=29248368))
 - [Why V7 Unix matters so much (2021)](https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch) ([HN](https://news.ycombinator.com/item?id=29308246))
+- [The Open Group Base Specifications](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/)

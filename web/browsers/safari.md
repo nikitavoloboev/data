@@ -61,3 +61,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Stay](https://github.com/shenruisi/Stay/blob/main/README-EN.md) - Local userscript manager for Safari on iOS.
 - [Develop a Mac Safari Extension App in 2022](https://www.youtube.com/watch?v=E0qu0PHW8TU)
 - [Push Notifications, WebXR, and better PWA support coming to iOS (2022)](https://firt.dev/ios-15.4b)
+- [Safari bugs (2022)](https://twitter.com/jensimmons/status/1491064075987873792)

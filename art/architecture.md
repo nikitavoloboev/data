@@ -24,6 +24,7 @@
 - [A. Quincy Jones home in Laurel Canyon](https://twitter.com/tylerwatamanuk/status/1445444405381320712)
 - [Nice kitchen](https://twitter.com/kelseymwhelan/status/1447229740725661709)
 - [Inside Vanessa Hudgens's Enchanting L.A. Home](https://www.youtube.com/watch?v=Axg27gwEqCE)
+- [Starship House — West Coast Modern](https://www.westcoastmodern.ca/properties/starshiphouse)
 
 ## Inspiring
 
@@ -78,3 +79,5 @@
 - [How to design a house to last 1000 years (2022)](https://constructionphysics.substack.com/p/how-to-design-a-house-to-last-for) ([HN](https://news.ycombinator.com/item?id=29810334))
 - [Construction Physics | Brian Potter](https://constructionphysics.substack.com/)
 - [Why skyscrapers are so short (2022)](https://www.worksinprogress.co/issue/why-skyscrapers-are-so-short/)
+- [Paradise hills: the star-studded history and uncertain future of Armenia’s legendary Soviet-era composers’ retreat (2022)](https://www.calvertjournal.com/features/show/13570/dilijan-soviet-armenia-composers-resort-dmitry-shostakovich-benjamin-britten-aram-khachaturyan)
+- [West Coast Modern](https://www.westcoastmodern.ca/)

@@ -137,3 +137,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Vend POS Systems](https://www.vendhq.com/) - Retail POS Software.
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Shopify theme development environment using Liquid, Vue and Tailwind CSS. Built on top of Shopify CLI. ([Docs](https://themelab.uicrooks.com/))
 - [Shopify Mail Notifications](https://github.com/uicrooks/shopify-mail-notifications) - Blazing-fast Shopify mail notifications templating environment with Liquid, MJML and Twig.
+- [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - Toolkit for building fast and flexible commerce experience applications.

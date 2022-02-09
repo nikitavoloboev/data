@@ -11,6 +11,7 @@ Here are few more things I liked, design wise.
 - [Pipe](https://www.pipe.com/)
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)
+- [Tailscale](https://tailscale.com/)
 - [Clubhouse](https://www.joinclubhouse.com/)
 - [Stitches](https://stitches.dev/) ([Code](https://github.com/modulz/stitches-site))
 - [Draftbit](https://draftbit.com/)

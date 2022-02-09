@@ -1,6 +1,6 @@
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) is nice too.
+[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) are nice too.
 
 ## Notes
 
@@ -598,7 +598,7 @@
 - [Error Handling In Rust - A Deep Dive (2021)](https://www.lpalmieri.com/posts/error-handling-rust/)
 - [Building Cloud-native applications with Rust - the good, the bad and the ugly - Luca Palmieri (2021)](https://www.youtube.com/watch?v=p4zjgU4RSYM)
 - [Rust Option 30x more efficient to return than Java Optional (2021)](https://pkolaczk.github.io/overhead-of-optional/) ([HN](https://news.ycombinator.com/item?id=28887908)) ([Reddit](https://www.reddit.com/r/rust/comments/q99eqe/rust_option_30x_more_efficient_to_return_than/))
-- [Rust Adventure](https://www.rustadventure.dev/) - Learn to build reliable and efficient software in Rust. ([Tweet](https://twitter.com/chrisbiscardi/status/1450082301371568133))
+- [Rust Adventure](https://www.rustadventure.dev/) - Learn to build reliable and efficient software in Rust. ([Tweet](https://twitter.com/chrisbiscardi/status/1450082301371568133)) ([GitHub](https://github.com/rust-adventure))
 - [Structuring, testing and debugging procedural macro crates (2021)](https://ferrous-systems.com/blog/testing-proc-macros/)
 - [Builder pattern in Rust (2021)](https://www.greyblake.com/blog/2021-10-19-builder-pattern-in-rust/) ([HN](https://news.ycombinator.com/item?id=28930083)) ([Lobsters](https://lobste.rs/s/v1krlk/builder_pattern_rust))
 - [What is Rust written in? (2021)](https://www.reddit.com/r/rust/comments/qbv2l8/what_is_rust_written_in/)
@@ -695,4 +695,5 @@
 - [Go concurrency patterns in Rust](https://github.com/munckymagik/go-concurrency-patterns-in-rust)
 - [Downcasting in Rust (2022)](https://ysantos.com/blog/downcast-rust) ([Reddit](https://www.reddit.com/r/rust/comments/sl773h/downcasting_in_rust/))
 - [Diving Deep: implied bounds and variance (2022)](https://lcnr.de/blog/diving-deep-implied-bounds-and-variance/)
-- [Some mistakes Rust doesn't catch (2022)](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) ([Lobsters](https://lobste.rs/s/5jrhuk/some_mistakes_rust_doesn_t_catch)) ([HN](https://news.ycombinator.com/item?id=30253426))
+- [Some mistakes Rust doesn't catch (2022)](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) ([Lobsters](https://lobste.rs/s/5jrhuk/some_mistakes_rust_doesn_t_catch)) ([HN](https://news.ycombinator.com/item?id=30253426)) ([Reddit](https://www.reddit.com/r/rust/comments/sn9eus/some_mistakes_rust_doesnt_catch/)) ([Tweet](https://twitter.com/fasterthanlime/status/1490834679251226625))
+- [if-else chains considered harmful (2022)](https://ihatereality.space/05-if-else-chains-considered-harmful/)

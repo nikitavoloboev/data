@@ -256,6 +256,9 @@
 - [react-spring-bottom-sheet](https://github.com/stipsan/react-spring-bottom-sheet) - Built on top of react-spring and react-use-gesture.
 - [react-photoswipe-gallery](https://github.com/dromru/react-photoswipe-gallery) - Configurable and flexible React component wrapper around PhotoSwipe.
 - [React-Resizable](https://github.com/react-grid-layout/react-resizable) - Simple React component that is resizable with a handle.
+- [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton) - Make beautiful, animated loading skeletons that automatically adapt to your app.
+- [react-aria-components](https://github.com/devongovett/react-aria-components) - Prototype of a higher level component-based API on top of React Aria.
+- [react-layout](https://github.com/dash-ui/react-layout) - Layout primitives for React, including Box, Cluster, Grid, Row, Column, and Layer.
 
 ## Links
 

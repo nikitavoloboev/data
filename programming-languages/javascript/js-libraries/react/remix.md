@@ -10,6 +10,8 @@
 - [Interactive app to demonstrate how routing works in Remix](https://github.com/dilums/interactive-remix-routing)
 - [Jacob Ebey's Blog](https://github.com/jacob-ebey/ebey-me-remix)
 - [Simeon Griggs's Blog](https://github.com/SimeonGriggs/simeonGriggs) - Blog with content by Sanity.io and Front end in Remix.run.
+- [Turborepo with a Remix app and Prisma](https://github.com/kettanaito/turborepo-remix-prisma)
+- [Remix Hacker News Demo built on Stream](https://github.com/ryansolid/remix-hackernews)
 
 ## Plugins
 

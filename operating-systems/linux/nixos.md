@@ -58,6 +58,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
 - [Phil Pluckthun](https://github.com/kitten/nix-system)
 - [Nix-Darwin-Dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles)
+- [Malo Bourgon](https://github.com/malob/nixpkgs)
 
 ## Notes
 

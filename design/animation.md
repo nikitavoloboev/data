@@ -67,3 +67,5 @@
 - [GreenSock](https://greensock.com/) - Professional-grade animation for the modern web. ([Code](https://github.com/greensock/GSAP))
 - [Animatize](https://animatize.com/) - Drag a character with your mouse to create an animation. ([Code](https://github.com/panphora/animatize))
 - [The Art of LUCA](https://disney-studios-awards.s3.amazonaws.com/luca/books/flipH45pEt23wR/index.html)
+- [Disney Filmmaking Process](https://disneyanimation.com/process/) ([HN](https://news.ycombinator.com/item?id=30241966))
+- [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (2021)](https://arxiv.org/abs/2109.10595) ([Code](https://github.com/YuanxunLu/LiveSpeechPortraits))

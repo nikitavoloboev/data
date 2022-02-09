@@ -288,3 +288,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix2container](https://github.com/nlewo/nix2container) - Archive-less dockerTools.buildImage implementaion.
 - [Hydra](https://github.com/NixOS/hydra) - Nix-based continuous build system. ([CLI](https://github.com/nlewo/hydra-cli))
 - [Exploring Nix Flakes: Usable Go Plugins (2022)](https://flyx.org/nix-flakes-go/)
+- [gradle2nix](https://github.com/tadfisher/gradle2nix) - Generate Nix expressions which build Gradle-based projects.

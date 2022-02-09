@@ -97,3 +97,4 @@
 - [Ambient occlusion for real-time ray-tracing (2022)](http://www.alexisbreust.fr/2022-ray-tracing-in-10ms-ambient-occlusion.html) ([Reddit](https://www.reddit.com/r/GraphicsProgramming/comments/skjfxd/ambient_occlusion_for_realtime_raytracing/))
 - [etx-tracer](https://github.com/sergeyreznik/etx-tracer) - Physically-based CPU and GPU ray-tracer.
 - [Type-Safe Raytracing in Modern C++ (2019)](https://ajeetdsouza.github.io/blog/posts/type-safe-raytracing-in-modern-cpp/)
+- [Tiny GPU raytracer, using Zig and WebGPU](https://github.com/mkeeter/rayray)

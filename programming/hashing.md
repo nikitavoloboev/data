@@ -61,4 +61,4 @@
 - [Reversing an integer hash function](https://taxicat1.github.io/hash6432shift_inversion.html)
 - [Learning to Break Deep Perceptual Hashing: The Use Case NeuralHash (2022)](https://arxiv.org/abs/2111.06628)
 - [multihash](https://github.com/multiformats/multihash) - Protocol for differentiating outputs from various well-established cryptographic hash functions, addressing size + encoding considerations.
-- [SHA-256 explained step-by-step visually](https://sha256algorithm.com/) ([Code](https://github.com/dmarman/sha256algorithm))
+- [SHA-256 explained step-by-step visually](https://sha256algorithm.com/) ([Code](https://github.com/dmarman/sha256algorithm)) ([HN](https://news.ycombinator.com/item?id=30244534))

@@ -184,3 +184,5 @@
 - [Completed Project for Cross Platform Image Filter SwiftUI macOS & iOS App](https://github.com/alfianlosari/ImageFilterSwiftUICompleted)
 - [Going native: SwiftUI from the perspective of a React developer (2020)](https://blog.maximeheckel.com/posts/swiftui-as-react-developer/)
 - [Beginners guide to view modifiers in SwiftUI (2020)](https://www.calincrist.com/blog/2020-05-02-beginners-guide-to-view-modifiers-swiftui/)
+- [Dash Docset for Samuel Defago's Post on SwiftUI Layout Behavior](https://github.com/manmal/swiftui-layout-dash-docset)
+- [Multi-platform Development, the SwiftUI Way (2021)](https://www.youtube.com/watch?v=5HO6fsegDNk) ([Code](https://github.com/malinsundberg/ios-conf-sg-caffeine-squirrel))

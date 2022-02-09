@@ -8,6 +8,12 @@ I never touch my face with dirty hands and try to never frown & just smile.
 
 I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.co.uk/Ultimate-Brushless-Shave-Cream-Eagle/dp/B000S92RAY), making sure not to leave off any scars in the process.
 
+## Interesting
+
+- [InstaNatural Vitamin C](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
+- [Aveeno Positively Radiant](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
+- [Ultra Calming Aveeno moisturizer](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
+
 ## Notes
 
 - [Tanning is not good for your skin](https://www.youtube.com/watch?v=o9BqrSAHbTc).

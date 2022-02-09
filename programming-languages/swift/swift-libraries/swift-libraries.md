@@ -407,6 +407,9 @@
 - [LookingGlassUI](https://github.com/ryanlintott/LookingGlassUI) - Shimmering SwiftUI Views using device orientation.
 - [BottomSheetView](https://github.com/ericlewis/BottomSheetView) - Present sheets with UISheetPresentationController in SwiftUI.
 - [RouteLinkKit](https://github.com/athankefalas/RouteLinkKit) - Lightweight iOS mini framework that enables programmatic navigation with SwiftUI.
+- [SwiftUI Sliders with custom styles](https://github.com/spacenation/swiftui-sliders)
+- [ResizableSheet](https://github.com/mtj0928/ResizableSheet) - Half modal view for SwiftUI.
+- [Zoomable](https://github.com/jasudev/Zoomable) - Container that allows you to zoom in and out of an image using only SwiftUI.
 
 ## Test
 
@@ -934,6 +937,7 @@
 - [OSCKit](https://github.com/sammysmallman/OSCKit) - Classes needed for your apps to communicate among computers, sound synthesizers, and other multimedia devices via OSC over an IP network.
 - [Sextant](https://github.com/KittyMac/Sextant) - Complete, high performance JSONPath implementation written in Swift.
 - [Box](https://github.com/grsouza/swift-box) - Micro library for Swift that makes possible to transform any value type into a reference type.
+- [Validated](https://github.com/Ben-G/Validated) - Swift μ-Library for Somewhat Dependent Types.
 
 ## Other (not lib)
 

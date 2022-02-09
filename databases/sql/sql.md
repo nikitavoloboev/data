@@ -163,3 +163,4 @@
 - [Malloy](https://github.com/looker-open-source/malloy) - Better SQL, from Looker. ([HN](https://news.ycombinator.com/item?id=30053860))
 - [SpyQL](https://github.com/dcmoura/spyql) - SQL with Python in the Middle. ([HN](https://news.ycombinator.com/item?id=30056864))
 - [Bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
+- [StackQL](https://stackql.io/) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework. ([Code](https://github.com/stackql/stackql))

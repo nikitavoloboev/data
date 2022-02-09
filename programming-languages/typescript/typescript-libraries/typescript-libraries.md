@@ -28,6 +28,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
 - [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
 - [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
+- [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
 
 ## Test
 
@@ -312,6 +313,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-regexp](https://github.com/EvolveYourMind/ts-regexp) - Regular expressions matching at compile time with TypeScript.
 - [sanitize-url](https://github.com/braintree/sanitize-url)
 - [typescript-rtti](https://github.com/rezonant/typescript-rtti) - Emits Typescript metadata for use at runtime.
+- [principia.ts](https://github.com/0x706b/principia.ts) - TypeScript functional programming.
+- [Behavior Graph](https://github.com/yahoo/bgjs) - Software architecture and state management library.
+- [Effection](https://github.com/thefrontside/effection) - Framework for Node and the browser that makes building concurrent systems easy to get right.
 
 ## Links
 

@@ -31,3 +31,4 @@
 - [Absinthe and Apollo Sockets](https://github.com/easco/absinthe_apollo_sockets) - Use the Apollo Websocket protocol to drive Absinthe GraphQL functionality.
 - [Tutorial for HowToGraphQL with Typescript, Apollo-Server, Nexus and Prisma](https://github.com/howtographql/typescript-apollo)
 - [apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client) - Terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request.
+- [Apollo HTTP Data Source](https://github.com/StarpTech/apollo-datasource-http) - Optimized JSON HTTP Data Source for Apollo Server.

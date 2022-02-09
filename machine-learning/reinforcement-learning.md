@@ -313,3 +313,4 @@
 - [MAgent](https://github.com/Farama-Foundation/MAgent) - Library for creating 2D environments with very large numbers of agents for conducting research in Multi-Agent Reinforcement Learning.
 - [RLkit](https://github.com/rail-berkeley/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
 - [Can Wikipedia Help Offline Reinforcement Learning? (2022)](https://arxiv.org/abs/2201.12122) ([Code](https://github.com/machelreid/can-wikipedia-help-offline-rl))
+- [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning (2021)](https://arxiv.org/abs/2201.13425) ([Code](https://github.com/denisyarats/exorl))

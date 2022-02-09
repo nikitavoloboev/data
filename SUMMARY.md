@@ -308,6 +308,7 @@
   - [Forth](programming-languages/forth.md)
   - [Futhark](programming-languages/futhark.md)
   - [Pony](programming-languages/pony.md)
+  - [V](programming-languages/v.md)
   - [C#](programming-languages/csharp.md)
   - [F#](programming-languages/fsharp.md)
   - [Ada](programming-languages/ada.md)

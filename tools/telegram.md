@@ -14,6 +14,8 @@ This lets me jump between many chats instantly. For other chats I use the channe
 
 I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, swipe left and right or click. The folders are: Personal Messages (1 to 1 chats), Groups, Channels, Bots.
 
+[Telebot](https://github.com/tucnak/telebot) seems like a great Go bot framework.
+
 ## Bot libraries
 
 - [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene))
@@ -25,7 +27,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))
 - [Telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node. ([Docs](https://telegraf.js.org/#/)) ([NestJS module](https://github.com/bukhalo/nestjs-telegraf)) ([Telegraf Throttler](https://github.com/KnightNiwrem/telegraf-throttler))
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
-- [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
+- [Telebot](https://github.com/tucnak/telebot) - Telegram bot framework in Go. ([Template](https://github.com/massbots/template))
 - [tbcomctl](https://github.com/rusq/tbcomctl) - Common controls to use with Telebot library.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
@@ -50,6 +52,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Slimbot](https://github.com/edisonchee/slimbot) - Telegram Bot API for Node.js.
 - [AIOGram](https://github.com/aiogram/aiogram) - Simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [Echotron](https://github.com/NicoNex/echotron) - Concurrent library for telegram bots written in pure Go.
+- [teloxide-core](https://github.com/teloxide/teloxide-core) - Tools for making requests to the Telegram Bot API with ease.
 
 ## Bots
 
@@ -91,6 +94,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [text-to-notion-bot](https://github.com/dartungar/text-to-notion-bot) - Simple self-hosted single-user telegram bot for sending text into Notion, using the official API.
 - [Lightning-sentinel](https://github.com/tee8z/lightning-sentinel) - Telegram bot written in rust that will monitor a lighting node over tor.
 - [BotFather](https://t.me/botfather) - Use it to create new bot accounts and manage your existing bots.
+- [crate_upd_bot](https://github.com/WaffleLapkin/crate_upd_bot) - Telegram bot that notifies about crate updates.
 
 ## Notes
 
@@ -174,3 +178,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
 - [DIBgram](https://github.com/DIBgram/DIBgram) - Unofficial Telegram web app which looks like Telegram Desktop.
 - [Telegram WebRTC (VoIP)](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers.
+- [Telegram Became the Anti-Facebook (2022)](https://www.wired.com/story/how-telegram-became-anti-facebook/) ([HN](https://news.ycombinator.com/item?id=30267787))

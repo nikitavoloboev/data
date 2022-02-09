@@ -1,6 +1,8 @@
 # Ambient sounds
 
-Love [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh)'s music for focusing.
+Love [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh)'s music for focusing. [Transcend track](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) is one I use often as it has the right amount of activeness and variety.
+
+Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5)/[Inspired](https://open.spotify.com/track/4luihFQ22pn73BCwIGfPlv) playlists are ambient. I also use [Endel](https://endel.io/) sometimes.
 
 ## Links
 

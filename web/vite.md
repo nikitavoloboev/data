@@ -22,3 +22,5 @@
 - [HeadKit](https://github.com/egoist/headkit) - Framework-agnostic `<head>` management.
 - [Vite Rollup Plugins](https://github.com/patak-dev/vite-rollup-plugins)
 - [Vite Plugin Book](https://github.com/Saul-Mirone/vite-plugin-book) - Magical vite plugin that helps you to generate and manage documentation website.
+- [vite-plugin-zig](https://github.com/pluvial/vite-plugin-zig) - Import WebAssembly modules compiled from Zig files.
+- [vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - Plug-in that imports component library styles on demand.

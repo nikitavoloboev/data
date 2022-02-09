@@ -47,3 +47,4 @@
 - [Procedural Worlds from Simple Tiles (2017)](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html) ([HN](https://news.ycombinator.com/item?id=29866062))
 - [The Constrained Tile Placement Algorithm behind Generate Worlds (2019)](https://ijdykeman.github.io/procedural_generation/2019/11/08/generate-worlds-algorithm.html)
 - [Introducing Generate Worlds for Procedural Generation without Code (2019)](https://ijdykeman.github.io/procedural_generation/2019/05/17/introducing-generate-worlds.html)
+- [Little Planet Procedural](https://github.com/alan-luo/planetprocedural) - 2d procedural planet generator inspired by No Man's Sky.

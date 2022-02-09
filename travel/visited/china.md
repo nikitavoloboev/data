@@ -74,3 +74,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [Feature History - Chinese Civil War](https://www.youtube.com/watch?v=jJr3KVM3lBo)
 - [2021 Letter](https://danwang.co/2021-letter/) ([HN](https://news.ycombinator.com/item?id=29759309))
 - [China Financial Markets - Carnegie Endowment for International Peace](https://carnegieendowment.org/chinafinancialmarkets)
+- [Chinese Hanzi variation of Wordle](https://handle.antfu.me/) ([Code](https://github.com/antfu/handle))

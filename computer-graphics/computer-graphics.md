@@ -210,3 +210,4 @@
 - [A Meta-er-verse (2021)](https://opguides.info/posts/metaverse/)
 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) ([HN](https://news.ycombinator.com/item?id=29755242))
 - [Distance, Time-of-Impact, and Closest-Point-of-Approach between Convex 2D Shapes](https://github.com/memononen/cpa)
+- [Signed Distance Field (SDF) Resources](https://github.com/CedricGuillemet/SDF)

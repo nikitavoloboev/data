@@ -400,3 +400,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Implementation of CIDR routing table in Rust (2022)](https://rtoch.com/posts/rust-cidr-routing/)
 - [Hysteria](https://github.com/HyNetwork/hysteria) - Feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad).
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring.
+- [Best practices for segmentation of the corporate network of any company](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
+- [Exposing a web service with Cloudflare Tunnel (2022)](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/) ([HN](https://news.ycombinator.com/item?id=30257978))

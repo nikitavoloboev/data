@@ -277,3 +277,4 @@
 - [The Joule-Thomson Effect and The Models We Know (2021)](https://mattferraro.dev/posts/joule-thomson)
 - [New lightweight material is stronger than steel (2022)](https://news.mit.edu/2022/polymer-lightweight-material-2d-0202) ([HN](https://news.ycombinator.com/item?id=30180839))
 - [Protons are probably smaller than long thought (2022)](https://www.uni-bonn.de/en/news/020-2022) ([HN](https://news.ycombinator.com/item?id=30210999))
+- [PDEs you should know](https://www.lucaspauker.com/pdes) ([HN](https://news.ycombinator.com/item?id=30263330))

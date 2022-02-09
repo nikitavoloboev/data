@@ -398,3 +398,6 @@ if (
 - [A pipe operator for JavaScript: introduction and use cases (2022)](https://2ality.com/2022/01/pipe-operator.html) ([HN](https://news.ycombinator.com/item?id=30097586))
 - [Tera](https://github.com/gigamono/tera) - Lean Secure Runtime for JavaScript.
 - [Ratel](https://github.com/ratel-rust/ratel-core) - High performance JavaScript to JavaScript compiler with a Rust core.
+- [TC39 – Specifying JavaScript](https://tc39.es/) ([Web Code](https://github.com/tc39/tc39.github.io))
+- [sane-fmt](https://github.com/sane-fmt/sane-fmt) - Opinionated code formatter for TypeScript and JavaScript.
+- [Run JavaScript in WebAssembly](https://github.com/second-state/wasmedge-quickjs) - High-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.

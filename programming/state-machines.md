@@ -39,3 +39,4 @@
 - [FSM Editor](https://fsm-editor.netlify.app/) - Simple finite state machine editor. ([Code](https://github.com/crinklesio/fsm-editor))
 - [Rabia: Simplifying State-Machine Replication Through Randomization (2021)](https://dl.acm.org/doi/10.1145/3477132.3483582) ([Code](https://github.com/haochenpan/rabia))
 - [7guis-xstate-stream](https://github.com/with-heart/7guis-xstate-stream) - Solve The 7 Tasks of 7GUIs using xstate.
+- [xstate-parser](https://github.com/statelyai/xstate-parser) - Experiments in building a tool for XState to parse basic information about machines declared inside files.

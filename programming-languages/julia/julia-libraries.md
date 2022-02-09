@@ -454,6 +454,8 @@
 - [ArgCheck](https://github.com/jw3126/ArgCheck.jl) - Package for checking function arguments.
 - [FunctionalCollections](https://github.com/JuliaCollections/FunctionalCollections.jl) - Functional and persistent data structures for Julia.
 - [FreqTables](https://github.com/nalimilan/FreqTables.jl) - Frequency tables in Julia.
+- [Denumpyfy.jl](https://github.com/miguelraz/Denumpyfy.jl) - Translating numpy notebooks to Julia.
+- [SimilaritySearch.jl](https://github.com/sadit/SimilaritySearch.jl) - Near Neighbor Search Library.
 
 ## Links
 

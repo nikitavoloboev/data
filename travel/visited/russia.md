@@ -417,3 +417,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Yablor.ru](https://yablor.ru/) - Рейтинг топ блогов рунета.
 - [Жуткий и унылый Мурманск](https://yablor.ru/blogs/jutkiy-i-uniliy-murmansk/6402826)
 - [How is life in Russia? (2022)](https://www.reddit.com/r/russia/comments/skmzyw/how_is_life_in_russia/)
+- [The Bell](https://thebell.io/en/) ([Twitter](https://twitter.com/thebell_io))

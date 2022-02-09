@@ -55,16 +55,16 @@
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
 - [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play)) ([Tweet](https://twitter.com/jlengstorf/status/1442707241627385860))
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients.
-- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework.
+- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews))
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
 - [Qiankun](https://github.com/umijs/qiankun) - Implementation of Micro Frontends, which based on single-spa. It aims to make it easier and painless to build a production-ready microfront-end architecture system. ([Web](https://qiankun.umijs.org/))
-- [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
 - [Drayman](https://github.com/Claviz/drayman) - Server-side component framework.
 - [yeet](https://github.com/tornqvist/yeet) - Teeny-weeny front end framework.
 - [Xeact](https://github.com/Xe/Xeact) - Revolutionary Femtoframework For High Efficiency JavaScript Development. ([Article](https://christine.website/blog/xeact-0.0.69-2021-11-18))
 - [$mol](https://github.com/hyoo-ru/mam_mol) - Fastest reactive micro-modular compact flexible lazy ui web framework.
+- [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library.
 
 ## Animation
 
@@ -769,6 +769,8 @@
 - [TogetherJS](https://github.com/jsfiddle/togetherjs) - Service for your website that makes it surprisingly easy to collaborate in real-time.
 - [emoji-translate](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji.
 - [peer-cdn](https://github.com/vardius/peer-cdn) - Lightweight library providing peer to peer CDN functionality.
+- [magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard.
+- [fdir](https://github.com/thecodrr/fdir) - Fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s.
 
 ## Links
 
@@ -816,3 +818,6 @@
 - [bundt](https://github.com/lukeed/bundt) - Simple bundler for your delicious modules.
 - [Taskr](https://github.com/lukeed/taskr) - Fast, concurrency-focused task automation tool.
 - [esm-utils](https://github.com/fisker/esm-utils) - Utilities you'll need when migrating to ESModule.
+- [gen-esm-wrapper](https://github.com/addaleax/gen-esm-wrapper) - Generate ESM wrapper files for CommonJS modules.
+- [Prettier plugin sort imports](https://github.com/trivago/prettier-plugin-sort-imports) - Prettier plugin to sort import declarations by provided Regular Expression order.
+- [pn](https://github.com/pnpm/pn) - Wrapper over the pnpm CLI written in Rust.

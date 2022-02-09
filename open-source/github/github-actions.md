@@ -165,6 +165,9 @@
 - [Create Branch](https://github.com/peterjgrainger/action-create-branch) - Creates a new branch with the same commit reference as the branch it is being ran on, or your chosen reference when specified.
 - [Datadog Agent Action](https://github.com/DataDog/agent-github-action) - Starts a Datadog Agent and gracefully shuts it down before the job finishes.
 - [Auto Request Review](https://github.com/necojackarc/auto-request-review) - GitHub Action that automatically requests review of a pull request based on files changes and/or groups the author belongs to.
+- [monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy microservices in a monorepo via GitHub Actions + Argo CD.
+- [action-gh-push](https://github.com/justjavac/action-gh-push) - GitHub Action for pushing to a repo.
+- [web-ext](https://github.com/kewisch/action-web-ext) - GitHub Action to run web-ext commands.
 
 ## Go
 
@@ -404,3 +407,5 @@
 - [How to upload assets to an existing Release in Github Actions (2021)](https://branislavjenco.github.io/github-actions-release/)
 - [Actions Sync](https://github.com/actions/actions-sync) - Go tool to allow you to sync from GitHub to a GitHub Enterprise instance.
 - [GitHub Actions by Example](https://www.actionsbyexample.com/) ([HN](https://news.ycombinator.com/item?id=30060765)) ([Code](https://github.com/macintoshpie/ghactionsbyexample))
+- [How We Write GitHub Actions in Go (2022)](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) ([Reddit](https://www.reddit.com/r/golang/comments/smval3/how_we_write_github_actions_in_go/))
+- [Security monitoring for the GitHub-hosted runner](https://github.com/step-security/harden-runner)

@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) for web end points.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too.
 
 ## CLI
 
@@ -112,6 +112,7 @@ Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [goro
 - [dockexec](https://github.com/mvdan/dockexec) - Run Go tests inside a Docker image.
 - [Loverage](https://github.com/kovetskiy/loverage) - Let your tests describe your program behavior.
 - [chameleon](https://github.com/nickpresta/chameleon) - Caching reverse proxy for testing written in Go.
+- [briefpg](https://github.com/danielbprice/briefpg) - Temporary PostgreSQL Instances for Unit Tests.
 
 ## Web
 
@@ -260,6 +261,7 @@ Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [goro
 - [Swag](https://github.com/go-openapi/swag) - Helper functions for go-openapi and go-swagger projects.
 - [Go JOSE](https://github.com/square/go-jose) - Implementation of JOSE standards (JWE, JWS, JWT) in Go.
 - [gorouter](https://github.com/vardius/gorouter) - Go Server/API micro framework, HTTP request router, multiplexer, mux.
+- [graceful](https://github.com/ory/graceful) - Best practice http server set up that supports graceful shutdown.
 
 ## GraphQL
 
@@ -379,6 +381,8 @@ Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [goro
 - [rueidis](https://github.com/rueian/rueidis) - Fast Go Redis RESP3 client that supports client side caching and auto pipelining.
 - [ql](https://gitlab.com/cznic/ql) - Pure Go embedded SQL database. ([HN](https://news.ycombinator.com/item?id=30130938))
 - [Tables-to-Go](https://github.com/fraenky8/tables-to-go) - Convert your database tables to structs easily.
+- [metricsql](https://github.com/VictoriaMetrics/metricsql) - Standalone PromQL and MetricsQL parser.
+- [gen](https://github.com/smallnest/gen) - Converts a database into gorm structs and RESTful api.
 
 ## ML
 
@@ -1293,6 +1297,11 @@ Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [goro
 - [message-bus](https://github.com/vardius/message-bus) - Go simple async message bus.
 - [go-textdistance](https://github.com/masatana/go-textdistance) - Calculate various text distance with Go.
 - [strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions.
+- [Envconfig](https://github.com/sethvargo/go-envconfig) - Go library for parsing struct tags from environment variables.
+- [go-msg](https://github.com/zerofox-oss/go-msg) - Pub/Sub Message Primitives for Go.
+- [goczmq](https://github.com/zeromq/goczmq) - Go wrapper for CZMQ.
+- [Logz](https://github.com/glassonion1/logz) - Go library for grouping a access log and application logs.
+- [GoRE](https://github.com/goretk/gore) - Library for analyzing Go binaries.
 
 ## Links
 
@@ -1340,3 +1349,5 @@ Like [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [goro
 - [gocovsh](https://github.com/orlangure/gocovsh) - CLI viewer of Go test coverage reports.
 - [GoWrap](https://github.com/hexdigest/gowrap) - Command line tool that generates decorators for Go interface types using simple templates.
 - [How I write HTTP services after eight years (2018)](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html) ([Reddit](https://www.reddit.com/r/golang/comments/sk05z2/how_i_write_http_services_after_eight_years/))
+- [go generics for the busy gopher (2022)](https://sethops1.net/post/go-generics-for-the-busy-gopher/) ([Reddit](https://www.reddit.com/r/golang/comments/smsjke/go_generics_for_the_busy_gopher/))
+- [Different Ways to Initialize Go structs (2022)](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/) ([Reddit](https://www.reddit.com/r/golang/comments/snsryv/different_ways_to_initialize_go_structs/))

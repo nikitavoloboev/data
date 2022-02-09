@@ -38,3 +38,4 @@
 - [HN: Dask (2021)](https://news.ycombinator.com/item?id=29260492)
 - [dask-awkward](https://github.com/ContinuumIO/dask-awkward) - Connecting Dask with Awkward Arrays.
 - [flox](https://github.com/dcherian/flox) - Fast & furious GroupBy operations for dask.array.
+- [dask-ctl](https://github.com/dask-contrib/dask-ctl) - Tools to provide a control plane for managing the lifecycle of Dask clusters.

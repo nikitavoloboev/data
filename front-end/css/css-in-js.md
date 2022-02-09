@@ -47,3 +47,4 @@
 - [UnoCSS](https://github.com/antfu/unocss) - Instant on-demand atomic CSS engine. ([Web](https://unocss.antfu.me/)) ([Reimagine Atomic CSS](https://antfu.me/posts/reimagine-atomic-css)) ([unocss-preset-typography](https://github.com/ydcjeff/unocss-preset-typography))
 - [tss-react](https://github.com/garronej/tss-react) - makeStyles is dead, long live makeStyles.
 - [Griffel](https://github.com/microsoft/griffel) - CSS-in-JS with ahead-of-time compilation.
+- [vanilla-classnames](https://github.com/Amareis/vanilla-classnames) - Better classnames utility for vanilla-extract.

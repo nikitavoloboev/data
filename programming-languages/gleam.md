@@ -26,3 +26,4 @@
 - [gleam_json](https://github.com/gleam-lang/json) - Gleam library for encoding decoding JSON.
 - [MixGleam](https://github.com/gleam-lang/mix_gleam) - Build Gleam code with mix.
 - [gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
+- [argamak](https://github.com/tynanbe/argamak) - Gleam library for tensor maths.

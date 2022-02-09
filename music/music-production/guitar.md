@@ -37,3 +37,4 @@
 - [React-Guitar](https://github.com/4lejandrito/react-guitar) - Beautiful and accessible guitar component for React. ([Web](https://react-guitar.com/))
 - [Get the guitar chords from your Spotify playlists](https://spotifychords.luca.gg/)
 - [Automated-Guitar Amplifier Modelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
+- [Fretastic](https://fretastic.com/) - Guitar fretboard visualizer – scales, intervals, backing tracks. ([HN](https://news.ycombinator.com/item?id=30250777))

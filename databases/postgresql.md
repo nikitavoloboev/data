@@ -403,3 +403,5 @@
 - [pgcapture](https://github.com/rueian/pgcapture) - Scalable Netflix DBLog implementation for PostgreSQL.
 - [Procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python. ([Docs](https://procrastinate.readthedocs.io/en/stable/index.html)) ([HN](https://news.ycombinator.com/item?id=30126152))
 - [Tern](https://github.com/jackc/tern) - Standalone migration tool for PostgreSQL.
+- [The world of PostgreSQL wire compatibility (2022)](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html)
+- [PgCat](https://github.com/levkk/pgcat) - PgBouncer rewritten in Rust, with sharding, load balancing and failover support. ([HN](https://news.ycombinator.com/item?id=30267539))

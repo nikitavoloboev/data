@@ -20,6 +20,7 @@
 - [Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 - [Local-first packages & explorations](https://github.com/jaredly/local-first)
 - [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. ([Tweet](https://twitter.com/steveruizok/status/1421865156724805639))
+- [Automergeable](https://github.com/jeffa5/automergeable)
 - [Automerge in Rust](https://github.com/alexjg/automerge-rs)
 - [Peter Bourgon on CRDTs and State at the Edge (2020)](https://overcast.fm/+GdnXKIjWQ)
 - [Moving Elements in List CRDTs](https://martin.kleppmann.com/papers/list-move-papoc20.pdf)
@@ -69,3 +70,4 @@
 - [Naisho](https://github.com/SerenityNotes/naisho) - Architecture for end-to-end encrypted CRDTs.
 - [The limits of conflict-free replicated data types (2021)](http://pepijndevos.nl/2021/12/18/the-limits-of-conflict-free-replicated-data-types.html)
 - [delta-crdts](https://github.com/peer-base/js-delta-crdts) - Delta State-based CRDTs in JavaScript.
+- [Y-Py](https://github.com/y-crdt/ypy) - Python binding for Y-CRDT.

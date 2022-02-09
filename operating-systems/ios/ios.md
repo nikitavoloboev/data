@@ -402,3 +402,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Tree Dump Debugger](https://github.com/bangerang/tree-dump-debugger) - Visual developer tool for inspecting your iOS application data structures.
 - [CloudKit Samples: Private Sync with Subscriptions and Push](https://github.com/apple/cloudkit-sample-privatedb-sync)
 - [This Week in Glean: Building and Deploying a Rust library on iOS (2022)](https://fnordig.de/2022/01/31/rust-libraries-on-ios/)
+- [iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser.
+- [Clutch](https://github.com/KJCracks/Clutch) - High-speed iOS decryption tool.

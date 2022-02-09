@@ -228,6 +228,7 @@
 - [range-set-list](https://github.com/phadej/range-set-list) - Memory efficient sets with continuous ranges of elements. List based implementation.
 - [generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products.
 - [linear-builder](https://github.com/Bodigrim/linear-builder) - Linear types for linear times.
+- [AT](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell.
 
 ## Notes
 

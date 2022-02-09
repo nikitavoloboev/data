@@ -151,3 +151,4 @@
 - [RGBA Structural Similarity](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust). ([Web](https://kornel.ski/dssim))
 - [AnsiGo](https://github.com/ansilove/ansigo) - Simple ANSi to PNG converter written in pure Go.
 - [heic-cli](https://github.com/catdad-experiments/heic-cli) - Convert HEIC/HEIF images to JPEG and PNG on the command line.
+- [CGIF](https://github.com/dloebl/cgif) - GIF encoder written in C.

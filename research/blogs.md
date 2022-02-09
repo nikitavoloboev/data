@@ -201,3 +201,5 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Ask HN: How to build a light weight personal blog? (2022)](https://news.ycombinator.com/item?id=29793389#29793698)
 - [Zooko](https://github.com/publiusfederalist/zooko) - Uncensorable, immutable microblogging platform that is completely decentralized and does not rely on any centralized systems. ([HN](https://news.ycombinator.com/item?id=29912396))
 - [Vortex](https://github.com/hydralite/vortex) - Hyper-extensible library to build blogs crazy fast.
+- [Ask HN: Great Blogs by Programmers (2022)](https://news.ycombinator.com/item?id=30245247)
+- [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - Curated list of engineering blogs of startup and enterprise companies.
