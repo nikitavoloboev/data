@@ -227,6 +227,7 @@
 - [esbuild-dev](https://github.com/gadget-inc/esbuild-dev) - Reloading dev server for server side TypeScript projects. Compiles TypeScript real fast.
 - [TypeScript Wiki](https://github.com/Microsoft/TypeScript/wiki) ([Code](https://github.com/microsoft/TypeScript-wiki))
 - [An introduction to type programming in TypeScript (2022)](https://www.zhenghao.io/posts/type-programming) ([HN](https://news.ycombinator.com/item?id=30173375))
+- [Dynamic Static Typing In TypeScript (2021)](https://www.smashingmagazine.com/2021/01/dynamic-static-typing-typescript/)
 
 ## Images
 
