@@ -69,6 +69,7 @@
 - [Enzyme.jl](https://github.com/wsmoses/Enzyme.jl) - Julia bindings for the Enzyme automatic differentiator.
 - [Jax.jl](https://github.com/PhilipVinc/Jax.jl) - Wraps some functionality of Jax in Julia.
 - [MIPVerify.jl](https://github.com/vtjeng/MIPVerify.jl) - Evaluating Robustness of Neural Networks with Mixed Integer Programming.
+- [HQDL.jl](https://github.com/dfdx/HQDL.jl) - High-quality operators for machine learning.
 
 ## Math
 

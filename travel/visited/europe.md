@@ -45,3 +45,4 @@
 - [Ask HN: Who has moved from the U.S. to Europe? (2022)](https://news.ycombinator.com/item?id=30073066)
 - [EU vs DISINFORMATION](https://euvsdisinfo.eu/)
 - [DISINFO DATABASE](https://euvsdisinfo.eu/disinformation-cases/)
+- [Eurostat](https://ec.europa.eu/eurostat) - European statistics.

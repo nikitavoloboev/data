@@ -94,3 +94,4 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [Should you use Redux still (2021)](https://twitter.com/traversymedia/status/1466034407609974786)
 - [Confidently Testing Redux Applications with Jest & TypeScript (2021)](https://egghead.io/courses/confidently-testing-redux-applications-with-jest-typescript-16e17d9b)
 - [How do you know if a project will need Redux? (2022)](https://www.reddit.com/r/reactjs/comments/s4hxd2/how_do_you_know_if_a_project_will_need_redux/)
+- [Should we be teaching Redux in 2022?](https://www.reddit.com/r/reactjs/comments/squatd/should_we_be_teaching_redux_in_2022/)

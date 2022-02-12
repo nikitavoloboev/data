@@ -65,3 +65,4 @@
 - [Do svidaniya, Igor, and thank you for Nginx (2022)](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/) ([HN](https://news.ycombinator.com/item?id=29985871))
 - [Ultimate Nginx Bad Bot Blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
 - [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface.
+- [Optimizations: Tuning Nginx for better RPS of an HTTP API (2019)](https://rohitgupta.xyz/blog/tuning-nginx-for-better-rps-of-an-http-api/)

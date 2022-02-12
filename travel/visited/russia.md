@@ -419,3 +419,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [How is life in Russia? (2022)](https://www.reddit.com/r/russia/comments/skmzyw/how_is_life_in_russia/)
 - [The Bell](https://thebell.io/en/) ([Twitter](https://twitter.com/thebell_io))
 - [Оппозиция хочет добиться изменений в России из-за границы. Это вообще возможно? (2022)](https://www.youtube.com/watch?v=38Emt4y5LEk)
+- [Какими русскими фильмами или сериалами можно смело гордиться? (2022)](https://www.reddit.com/r/AskARussian/comments/sqr5sm/%D0%BA%D0%B0%D0%BA%D0%B8%D0%BC%D0%B8_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8_%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE/)

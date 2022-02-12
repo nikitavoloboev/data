@@ -127,3 +127,4 @@
 - [TailwindCSS Dash Docset](https://github.com/godbout/tailwindcss-dash-docset)
 - [I used Tailwind for the U in CUBE CSS and I liked it (2022)](https://piccalil.li/blog/i-used-tailwind-for-the-u-in-cube-css-and-i-liked-it/)
 - [Flowrift](https://flowrift.com/) - Beautifully designed Tailwind CSS UI blocks - view / copy / customize. ([Code](https://github.com/n6ai/flowrift))
+- [Tailwind CSS the Right Way](https://twitter.com/adamwathan/status/1492529040275693571)

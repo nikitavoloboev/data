@@ -53,3 +53,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Impacts of lack of sleep](https://belkarx.github.io/posts/finished/Impacts%20Of%20Lack%20Of%20Sleep.html) ([HN](https://news.ycombinator.com/item?id=30184796))
 - [First images of cerebrospinal fluid in the brain during sleep (2019)](https://www.bu.edu/articles/2019/cerebrospinal-fluid-washing-in-brain-during-sleep/) ([HN](https://news.ycombinator.com/item?id=30222210))
 - [Theses on Sleep (2022)](https://guzey.com/theses-on-sleep/) ([HN](https://news.ycombinator.com/item?id=30289642))
+- [Chems that increase time spent in REM sleep (2022)](https://www.reddit.com/r/researchchemicals/comments/sqtgh8/are_there_any_good_chems_that_increase_time_spent/)

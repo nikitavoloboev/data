@@ -106,3 +106,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: What do you do to jump start your brain in the morning? (2022)](https://news.ycombinator.com/item?id=30160348)
 - [Ask HN: Is ADHD Real? (2022)](https://news.ycombinator.com/item?id=30270829)
 - [Structured Procrastination (1995)](http://www.structuredprocrastination.com/) ([HN](https://news.ycombinator.com/item?id=30292440))
+- [Ask HN: Have OCD, suffering from extreme procrastination, please help? (2022)](https://news.ycombinator.com/item?id=30313215)

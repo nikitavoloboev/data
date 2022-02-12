@@ -468,3 +468,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum: Endgame (2021)](https://vitalik.ca/general/2021/12/06/endgame.html)
 - [oriac](https://github.com/xJonathanLEI/oriac) - Toy Cairo VM implementation in Rust.
 - [Flashbots Proxy](https://github.com/Arachnid/flashbots-proxy) - Ethereum RPC proxy that makes composing and submitting flashbots bundles easy.
+- [ZORA V3 Protocol](https://github.com/ourzora/v3)

@@ -340,3 +340,4 @@
 - [BindsNET](https://github.com/BindsNET/bindsnet) - Simulation of spiking neural networks (SNNs) using PyTorch.
 - [Hammer](https://github.com/bytedance/Hammer) - Efficient PyTorch-based library for training deep models.
 - [(Generic) EfficientNets for PyTorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS.
+- [sbi](https://github.com/mackelab/sbi) - PyTorch package for simulation-based inference.

@@ -137,3 +137,4 @@
 - [My First Impressions of Web3 (2022)](https://moxie.org/2022/01/07/web3-first-impressions.html) ([HN](https://news.ycombinator.com/item?id=29845208)) ([Tweet](https://twitter.com/brian_armstrong/status/1479636294326177793)) ([Tweet](https://twitter.com/gakonst/status/1479804315636219904)) ([Reddit](https://www.reddit.com/r/programming/comments/rytqmz/my_first_impressions_of_web3/)) ([Vitalik's Response](https://www.reddit.com/r/ethereum/comments/ryk3it/my_first_impressions_of_web3/)) ([HN](https://news.ycombinator.com/item?id=29853800))
 - [Some people want to run their own servers (2022)](https://staltz.com/some-people-want-to-run-their-own-servers.html) ([HN](https://news.ycombinator.com/item?id=29856757))
 - [On Web3 Infrastructure (2022)](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q) ([HN](https://news.ycombinator.com/item?id=29860489))
+- [DDP: Decentralisation Design Principles](https://github.com/thisisbullish/ddp)

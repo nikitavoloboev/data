@@ -88,3 +88,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Quick reference on command line tools and techniques](https://github.com/vastutsav/command-line-quick-reference)
 - [Grep flags – the good stuff](https://zwischenzugs.com/2022/02/02/grep-flags-the-good-stuff/) ([HN](https://news.ycombinator.com/item?id=30179533))
 - [SnipKit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing code snippets without leaving the terminal.
+- [pz](https://github.com/CZ-NIC/pz) - Easily handle CLI operation via Python instead of regular Bash programs. ([HN](https://news.ycombinator.com/item?id=30302955))

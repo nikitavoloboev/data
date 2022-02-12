@@ -1,5 +1,7 @@
 # Databases
 
+I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (builds on Postgres) & [PlanetScale](planetscale.md) are awesome too.
+
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))

@@ -1307,6 +1307,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Logz](https://github.com/glassonion1/logz) - Go library for grouping a access log and application logs.
 - [GoRE](https://github.com/goretk/gore) - Library for analyzing Go binaries.
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graphs.
+- [GLSP](https://github.com/tliron/glsp) - Language Server Protocol SDK for Go.
+- [Config](https://github.com/andrewpillar/config) - Library for working with structured configuration in Go.
+- [smart.go](https://github.com/anatol/smart.go) - Pure-Go library to access drive's S.M.A.R.T. information.
 
 ## Links
 

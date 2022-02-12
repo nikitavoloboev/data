@@ -44,7 +44,7 @@
 - [List of amazing cellular automata projects (2021)](https://twitter.com/GalaxyKate/status/1361354915742892039)
 - [Minkovski Cellular Automata Simulator](https://dmishin.github.io/minkovski-ca/) ([Code](https://github.com/dmishin/minkovski-ca))
 - [Get a Life](http://crypto.stanford.edu/~blynn/haskell/life.html)
-- [Create your own cellular automata](http://aperocky.com/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=26466275))
+- [Create your own cellular automata](http://aperocky.com/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=26466275)) ([Code](https://github.com/Aperocky/cellular-automata))
 - [Self-reproducing cellular automata (2021)](https://www.johndcook.com/blog/2021/05/03/self-reproducing-cellular-automata/)
 - [WebGL Cellular Automata](https://github.com/benpm/webgl-cellular-automata) - Multi-state 8-neighbor totalistic 2D cellular automata simulation written in WebGL, with support for random rule generation.
 - [Adversarial Reprogramming of Neural Cellular Automata (2021)](https://distill.pub/selforg/2021/adversarial/) ([HN](https://news.ycombinator.com/item?id=27068236))

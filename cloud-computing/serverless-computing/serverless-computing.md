@@ -2,6 +2,8 @@
 
 Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) (NextJS) & [Cloudflare Workers](https://workers.cloudflare.com/) (Rust) for [serverless workloads](https://twitter.com/algo_luca/status/1464275828519448580).
 
+[Railway](https://railway.app/) & [Fly.io](https://fly.io/) are incredible platforms too.
+
 ## Notes
 
 - [What if a program was just running. There's no start or stop, just pause and resume. You can snapshot it at any time and restore that snapshot later. You can share or sync its state across multiple instances. The way you program this is like a REPL, not compiled files.](https://twitter.com/rsms/status/1389958973621563395)

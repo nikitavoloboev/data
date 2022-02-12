@@ -561,3 +561,5 @@
 - [Scalable Large Scene Neural View Synthesis (2022)](https://waymo.com/research/block-nerf/) ([HN](https://news.ycombinator.com/item?id=30299498))
 - [Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe) - Quick recipe to learn all about Transformers.
 - [NeROIC: Neural Rendering of Objects from Online Image Collections (2022)](https://arxiv.org/abs/2201.02533) ([Code](https://github.com/snap-research/NeROIC))
+- [DiffusionNet: Discretization Agnostic Learning on Surfaces (2022)](https://arxiv.org/abs/2012.00888) ([Code](https://github.com/nmwsharp/diffusion-net))
+- [FILM: Frame Interpolation for Large Motion (2022)](https://film-net.github.io/) ([Code](https://github.com/google-research/frame-interpolation))

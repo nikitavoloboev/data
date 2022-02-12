@@ -93,6 +93,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Builder](https://github.com/hmlongco/Builder) - iOS app that demonstrates builder patterns for UI and networking.
 - [Tokenary](https://github.com/zeriontech/Tokenary) - Crypto wallet for  Safari. ([Web](https://tokenary.io/))
 - [Wordle in SwiftUI](https://github.com/mischa-hildebrand/Wordle)
+- [SwiftUI-MVVM-C](https://github.com/huynguyencong/SwiftUI-MVVM-C) - iOS template project using SwiftUI, Combine and MVVM-C software architecture.
 
 ## Other
 

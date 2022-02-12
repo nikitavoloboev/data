@@ -75,3 +75,4 @@
 - [Roam Toolkit](https://github.com/roam-unofficial/roam-toolkit) - Roam force multiplier.
 - [Roam JS Extensions](https://github.com/dvargas92495/roam-js-extensions) ([Web](https://roamjs.com/))
 - [Roam Research Access](https://kpaxs.gumroad.com/l/Kpaxs)
+- [The Fall of Roam - I don’t use Roam anymore. Why? (2022)](https://every.to/superorganizers/the-fall-of-roam) ([Tweet](https://twitter.com/danshipper/status/1492525715266355209)) ([Tweet](https://twitter.com/julianlehr/status/1492577055090692098))

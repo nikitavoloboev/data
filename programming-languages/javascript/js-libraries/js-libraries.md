@@ -86,6 +86,7 @@
 
 - [mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments.
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
+- [sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator.
 
 ## ML
 
@@ -776,6 +777,7 @@
 - [to-json-schema](https://github.com/ruzicka/to-json-schema) - Converts JS objects to JSON Schema.
 - [vercel/fetch](https://github.com/vercel/fetch) - Opinionated `fetch` (with retrying and DNS caching) optimized for use inside microservices.
 - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
+- [Koder](https://github.com/maslick/koder) - QR/bar code scanner for the Browser.
 
 ## Links
 

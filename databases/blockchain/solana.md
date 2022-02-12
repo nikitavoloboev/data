@@ -220,3 +220,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Where are you staking your Solana? (2022)](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/)
 - [Sell Your SOL](https://github.com/mvines/sys) - Provides tracking from acquisition through disposal of SOL from staking, voting, and validator transaction fee/rent rewards.
 - [defi-yield-ts](https://github.com/jet-lab/defi-yield-ts) - Library for fetching the latest rates from Solana-centric lending protocols, with the goal of supporting every active protocol.
+- [Cash-settled European options protocol on Solana](https://github.com/0xTomoyo/anchor-options)

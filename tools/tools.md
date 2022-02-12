@@ -128,6 +128,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Instatus](https://instatus.com/) - Get your status page.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
+- [Parabol](https://www.parabol.co/) - Free Agile Meeting Tool for Remote Teams. ([Code](https://github.com/ParabolInc/parabol))
 - [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
 - [Bit](https://bit.dev/) - The shared component cloud. ([Docs](https://docs.bit.dev/docs/quick-start)) ([Docs Code](https://github.com/teambit/docs))
 - [Graphite](https://editor.graphite.design/) - Powerful 2D vector and raster editing: procedural and nondestructive. ([Code](https://github.com/GraphiteEditor/Graphite))

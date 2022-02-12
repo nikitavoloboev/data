@@ -88,3 +88,4 @@
 - [Running Lisp in Production (2020)](https://www.grammarly.com/blog/engineering/running-lisp-in-production/) ([HN](https://news.ycombinator.com/item?id=30172641))
 - [Cleavir](https://github.com/s-expressionists/Cleavir) - Implementation-independent framework for creating Common Lisp compilers.
 - [CFFI](https://github.com/cffi/cffi) - Common Foreign Function Interface, purports to be a portable FFI for Common Lisp.
+- [Eclector](https://github.com/s-expressionists/Eclector) - Portable and extensible Common Lisp Reader.
