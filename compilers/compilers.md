@@ -203,3 +203,4 @@
 - [Low-Level Software Security for Compiler Developers](https://github.com/llsoftsec/llsoftsecbook) ([Web](https://llsoftsec.github.io/llsoftsecbook/))
 - [Pareas](https://github.com/Snektron/pareas) - GPU-accelerated compiler for a simple programming language, which outputs RISC-V machine code.
 - [monoasm](https://github.com/sisshiki1969/monoasm) - In-memory x86-64 assembler for JIT compiler.
+- [Crafting A Lox Interpreter In Rust (2022)](https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/)

@@ -231,6 +231,9 @@
 - [AT](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell.
 - [debugger-hs](https://github.com/luc-tielen/debugger-hs) - Write your GDB scripts in Haskell.
 - [c2hs](https://github.com/haskell/c2hs) - Pre-processor for Haskell FFI bindings to C libraries.
+- [bytestring-trie](https://github.com/wrengr/bytestring-trie) - Efficient finite map from (byte)strings to values.
+- [unification-fd](https://github.com/wrengr/unification-fd) - Generic functions for single-sorted first-order structural unification.
+- [monoidal-containers](https://github.com/bgamari/monoidal-containers) - Maps using values' monoidal structure during merging.
 
 ## Notes
 
