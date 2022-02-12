@@ -128,6 +128,7 @@
 - [Ink](https://github.com/ivx/ink) - Logger backend that logs JSON.
 - [MuonTrap](https://github.com/fhunleth/muontrap) - Keep programs, deamons, and applications launched from Erlang and Elixir contained and well-behaved.
 - [StreamSplit](https://github.com/tallakt/stream_split) - Split a stream into a head and tail, without iterating the tail.
+- [Unicode Set](https://github.com/elixir-unicode/unicode_set) - Unicode set parsing, expansion, macros and guards for Elixir.
 
 ## Links
 

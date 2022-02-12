@@ -177,3 +177,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [parley](https://github.com/dfrg/parley) - Rich text layout engine backed by the swash crate and implementing the piet text API.
 - [Ace, CodeMirror, and Monaco: A Comparison of the Code Editors You Use in the Browser (2021)](https://blog.replit.com/code-editors)
 - [An adventure in realtime collaborative editing (2022)](https://dov.dev/blog/figment-collaborative-editing)
+- [Editor Protocol](https://github.com/udecode/editor-protocol) - Open standard for building a rich text editor.

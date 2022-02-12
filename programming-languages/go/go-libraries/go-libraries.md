@@ -7,6 +7,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
 - [bubblelister](https://github.com/treilik/bubblelister) - bubble to list your structs in a bubbletea program.
+- [Bubble-table](https://github.com/Evertras/bubble-table) - Table component for the Bubble Tea framework.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
 - [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
@@ -1302,6 +1303,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [goczmq](https://github.com/zeromq/goczmq) - Go wrapper for CZMQ.
 - [Logz](https://github.com/glassonion1/logz) - Go library for grouping a access log and application logs.
 - [GoRE](https://github.com/goretk/gore) - Library for analyzing Go binaries.
+- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graphs.
 
 ## Links
 
@@ -1352,3 +1354,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [go generics for the busy gopher (2022)](https://sethops1.net/post/go-generics-for-the-busy-gopher/) ([Reddit](https://www.reddit.com/r/golang/comments/smsjke/go_generics_for_the_busy_gopher/))
 - [Different Ways to Initialize Go structs (2022)](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/) ([Reddit](https://www.reddit.com/r/golang/comments/snsryv/different_ways_to_initialize_go_structs/))
 - [The other sync package (2021)](https://ketansingh.me/posts/golang-x-sync/)
+- [Pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go.
+- [ogen](https://ogen.dev/docs/intro) - Powerful and fast OpenAPI v3 code generator for Go. ([Docs Code](https://github.com/ogen-go/web))

@@ -103,3 +103,4 @@
 - [tensorboardX](https://github.com/lanpa/tensorboardX) - Write TensorBoard events with simple function call.
 - [CVNN](https://github.com/NEGU93/cvnn) - Library to help implement a complex-valued neural network (cvnn) using tensorflow as back-end.
 - [Simple Depth Estimation from Multiple Images in Tensorflow (2019)](https://ijdykeman.github.io/slam/2019/04/07/simple-depth-from-motion.html)
+- [TensorFlow Image Models](https://github.com/martinsbruveris/tensorflow-image-models) - TensorFlow port of PyTorch Image Models (timm) - image models with pretrained weights.

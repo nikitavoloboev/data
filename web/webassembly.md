@@ -260,3 +260,4 @@
 - [yoga-wasm-web](https://github.com/shuding/yoga-wasm-web) - Yoga but in WebAssembly.
 - [Wasmo](https://github.com/gigamono/wasmo) - WebAssembly compiler and runtime.
 - [rsw-rs](https://github.com/lencx/rsw-rs) - wasm-pack based build tool.
+- [Exception Handling Proposal for WebAssembly](https://github.com/WebAssembly/exception-handling)

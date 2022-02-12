@@ -418,3 +418,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Жуткий и унылый Мурманск](https://yablor.ru/blogs/jutkiy-i-uniliy-murmansk/6402826)
 - [How is life in Russia? (2022)](https://www.reddit.com/r/russia/comments/skmzyw/how_is_life_in_russia/)
 - [The Bell](https://thebell.io/en/) ([Twitter](https://twitter.com/thebell_io))
+- [Оппозиция хочет добиться изменений в России из-за границы. Это вообще возможно? (2022)](https://www.youtube.com/watch?v=38Emt4y5LEk)

@@ -616,3 +616,4 @@
 - [kube-oidc-proxy](https://github.com/jetstack/kube-oidc-proxy) - Reverse proxy to authenticate to managed Kubernetes API servers via OIDC.
 - [A Primer: Accessing services in Kubernetes (2022)](https://blog.alexellis.io/primer-accessing-kubernetes-services/) ([HN](https://news.ycombinator.com/item?id=30220291))
 - [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers.
+- [kubectl-neat-diff](https://github.com/sh0rez/kubectl-neat-diff) - De-clutter your kubectl diff output using kubectl-neat.

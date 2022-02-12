@@ -289,3 +289,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Hydra](https://github.com/NixOS/hydra) - Nix-based continuous build system. ([CLI](https://github.com/nlewo/hydra-cli))
 - [Exploring Nix Flakes: Usable Go Plugins (2022)](https://flyx.org/nix-flakes-go/)
 - [gradle2nix](https://github.com/tadfisher/gradle2nix) - Generate Nix expressions which build Gradle-based projects.
+- [npins](https://github.com/andir/npins) - Simple and convenient pinning of dependencies in Nix.

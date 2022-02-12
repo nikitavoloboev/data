@@ -43,3 +43,4 @@
 - [SigLib](https://github.com/Numerix-DSP/siglib) - Digital Signal Processing and Machine Learning Library.
 - [Noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction algorithm in python that reduces noise in time-domain signals like speech, bioacoustics, and physiological signals.
 - [Digital Signal Processing in Modern Communication Systems](http://signal-processing.net/)
+- [sndkit](https://github.com/PaulBatchelor/sndkit) - Collection of highly portable audio DSP algorithms, written in ANSI C using literate programming.

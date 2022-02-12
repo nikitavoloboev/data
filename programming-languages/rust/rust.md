@@ -699,3 +699,4 @@
 - [if-else chains considered harmful (2022)](https://ihatereality.space/05-if-else-chains-considered-harmful/)
 - [Dare to ask for more #rust2024](http://smallcultfollowing.com/babysteps//blog/2022/02/09/dare-to-ask-for-more-rust2024/)
 - [Rust on iOS and Mac Catalyst: A Simple, Updated Guide (2022)](https://nadim.computer/posts/2022-02-11-maccatalyst.html)
+- [A Rust match made in hell (2022)](https://fasterthanli.me/articles/a-rust-match-made-in-hell) ([Reddit](https://www.reddit.com/r/programming/comments/sqhbkf/a_rust_match_made_in_hell/))

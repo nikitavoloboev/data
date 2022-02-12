@@ -128,3 +128,4 @@
 - [Quick Introduction to R](https://github.com/karoliskoncevicius/tutorial_r_introduction) ([HN](https://news.ycombinator.com/item?id=30230846))
 - [wgpugd](https://github.com/yutannihilation/wgpugd) - WebGPU Graphics Device for R.
 - [CausalImpact](https://github.com/google/CausalImpact) - R package for causal inference in time series.
+- [units](https://github.com/r-quantities/units) - Measurement Units for R.

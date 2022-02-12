@@ -170,6 +170,8 @@
 - [web-ext](https://github.com/kewisch/action-web-ext) - GitHub Action to run web-ext commands.
 - [Sticky Pull Request Comment](https://github.com/marocchino/sticky-pull-request-comment) - Create comment on pull request, if exists update that comment.
 - [No Response](https://github.com/lee-dohm/no-response) - GitHub Action that closes Issues where the author hasn't responded to a request for more information.
+- [Action Regex Match](https://github.com/actions-ecosystem/action-regex-match) - GitHub Action to do regex matching.
+- [Install SSH Key](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh.
 
 ## Go
 

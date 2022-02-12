@@ -184,3 +184,4 @@ All active variables can be seen by running `env`.
 - [Practical Shell Patterns I Actually Use (2022)](https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/) ([HN](https://news.ycombinator.com/item?id=29861532))
 - [The missing comprehensive package manager for Shell (2022)](https://www.t-ravis.com/post/shell/the_missing_comprehensive_package_manager_for_shell/) ([Lobsters](https://lobste.rs/s/3wwrcf/missing_comprehensive_package_manager))
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build terminal applications.
+- [chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) - Effortlessly generate chmod commands.

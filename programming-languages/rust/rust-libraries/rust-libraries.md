@@ -1416,6 +1416,7 @@
 - [bugreport](https://github.com/sharkdp/bugreport) - Rust library to collect system and environment information for bug reports.
 - [QBE IR for Rust](https://github.com/garritfra/qbe-rs) - QBE IR in natural Rust data structures. ([Lobsters](https://lobste.rs/s/qtncal/qbe_ir_for_rust))
 - [rluau](https://github.com/Vurv78/rluau) - Idiomatic Luau bindings in 100% Rust.
+- [Fluvio Future](https://github.com/infinyon/future-aio) - Advanced futures library.
 
 ## Cargo Plugins
 

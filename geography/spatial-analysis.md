@@ -137,3 +137,4 @@
 - [Lon Lat Lon Lat](https://macwright.com/lonlat/) ([HN](https://news.ycombinator.com/item?id=30228981))
 - [piper](https://github.com/iwpnd/piper) - Makes use of ray casting and does account for holes in polygons.
 - [Radar Interference Tracker: A New Open Source Tool to Locate Active Military Radar Systems (2022)](https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems/)
+- [geoq](https://github.com/worace/geoq) - Command-line tool for working with geospatial data.

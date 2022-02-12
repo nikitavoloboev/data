@@ -681,6 +681,7 @@
 - [sPyRMSD](https://github.com/RMeli/spyrmsd) - Symmetry-corrected RMSD in Python.
 - [Bleak](https://github.com/hbldh/bleak) - Bluetooth Low Energy platform Agnostic Client for Python.
 - [Plost](https://github.com/tvst/plost) - Deceptively simple plotting library for Streamlit. ([HN](https://news.ycombinator.com/item?id=30308945))
+- [pandocfilters](https://github.com/jgm/pandocfilters) - Python module for writing pandoc filters.
 
 ## Links
 

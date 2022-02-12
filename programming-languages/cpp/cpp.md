@@ -299,3 +299,4 @@
 - [Working with Strings in Embedded C++ (2022)](https://blog.feabhas.com/2022/02/working-with-strings-in-embedded-c/)
 - [setup-cpp](https://github.com/aminya/setup-cpp) - Install all the tools required for building and testing C++/C projects.
 - [What would you remove from C++ to make it a more concise language? (2022)](https://www.reddit.com/r/cpp/comments/sn11w7/what_would_you_remove_from_c_to_make_it_a_more/)
+- [Prefix Sum with SIMD](https://en.algorithmica.org/hpc/algorithms/prefix/) ([HN](https://news.ycombinator.com/item?id=30311112))

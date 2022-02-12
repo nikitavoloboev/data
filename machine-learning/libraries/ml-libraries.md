@@ -10,6 +10,7 @@
 ## Web
 
 - [ml5.js](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web.
+- [ml.js](https://github.com/mljs/ml) - Machine learning tools in JavaScript.
 
 ## Embedded
 

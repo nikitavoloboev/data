@@ -9,6 +9,7 @@
 - [Mac OS Monterey Web](https://macos.vercel.app/) ([Code](https://github.com/puruvj/macos-web))
 - [Webstone](https://github.com/WebstoneHQ/webstone) - Svelte/SvelteKit/GraphQL/Prisma.
 - [Kevin Pennekamp](https://crinkles.io/) ([Code](https://github.com/crinklesio/crinkles.io))
+- [Speedskating](https://github.com/spiegelgraphics/speedskating) - Olympia speedskating animation.
 
 ## Notes
 

@@ -479,3 +479,4 @@
 - [General](https://github.com/JuliaRegistries/General) - Official registry of general Julia packages.
 - [Julia frameworks to create desktop GUIs and web apps (2022)](https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115) ([HN](https://news.ycombinator.com/item?id=29813194))
 - [LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl) - Create and maintain local registries for Julia packages.
+- [jluna](https://github.com/Clemapfel/jluna) - Julia ⭤ C++ Wrapper with Focus on Modernity, Safety and Ease of Use.

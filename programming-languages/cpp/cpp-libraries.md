@@ -14,6 +14,7 @@
 - [utest.h](https://github.com/sheredom/utest.h) - Single header unit testing framework for C and C++.
 - [Mutate](https://github.com/nlohmann/mutate_cpp) - C++ Mutation Test Environment.
 - [RapidCheck](https://github.com/emil-e/rapidcheck) - C++ framework for property based testing inspired by QuickCheck and other similar frameworks.
+- [doctest](https://github.com/doctest/doctest) - Fastest feature-rich C++11/14/17/20 single-header testing framework.
 
 ## Concurrency
 
@@ -74,6 +75,7 @@
 ## Crypto
 
 - [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
+- [Crypto++](https://github.com/weidai11/cryptopp) - Free C++ class library of cryptographic schemes.
 
 ## Other
 

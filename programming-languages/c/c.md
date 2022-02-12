@@ -208,3 +208,4 @@
 - [Centralizing Resource Cleanup Paths in C](https://elektron.sigsegv.ch/articles/1/centralizing-resource-cleanup-paths-in-c/) ([Lobsters](https://lobste.rs/s/jkx47x/centralizing_resource_cleanup_paths_c))
 - [Finding the average of two unsigned integers without overflow (2022)](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223) ([HN](https://news.ycombinator.com/item?id=30252263))
 - [PyClibrary](https://github.com/MatthieuDartiailh/pyclibrary) - C parser and bindings automation for Python.
+- [Running C unit tests with pytest (2022)](https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html)

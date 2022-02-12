@@ -240,3 +240,4 @@ And these Discord servers:
 - [Ask HN: Where are you going to find long-form content online these days? (2022)](https://news.ycombinator.com/item?id=30051782)
 - [Ask HN: Where do you hang out virtually online? (2022)](https://news.ycombinator.com/item?id=30149838)
 - [Ask HN: What are some good tech magazines? (2022)](https://news.ycombinator.com/item?id=30206027)
+- [Hacker News Notifications](https://hnn.avci.me/) ([Code](https://github.com/mavci/hn-notifications))

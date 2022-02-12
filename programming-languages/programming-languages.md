@@ -306,3 +306,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Concise language to write an interpreter for? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/seu238/concise_language_to_write_an_interpreter_for/)
 - [Awesome programming languages](https://github.com/ChessMax/awesome-programming-languages)
 - [Have you found side-effects a problem by increasing complexity in your code bases? (2022)](https://lobste.rs/s/if8hle/have_you_found_side_effects_problem_by)
+- [Graphene](https://graphene.teknologiumum.com/) - Create and share beautiful code snippets. ([Code](https://github.com/teknologi-umum/graphene))

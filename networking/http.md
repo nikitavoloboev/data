@@ -196,3 +196,4 @@
 - [Caching Header Best Practices (2022)](https://simonhearne.com/2022/caching-header-best-practices/)
 - [Request bodies in GET requests](https://evertpot.com/get-request-bodies/) ([HN](https://news.ycombinator.com/item?id=30129631))
 - [Observing HTTP/2 Traffic Is Hard, but eBPF Can Help (2022)](https://blog.px.dev/ebpf-http2-tracing/) ([HN](https://news.ycombinator.com/item?id=30153493))
+- [HTTPie](https://github.com/httpie/httpie) - Human-friendly CLI HTTP client for the API era.
