@@ -73,3 +73,4 @@
 - [Kapsule](https://github.com/vasturiano/kapsule) - Closure based Web Component library.
 - [Minze](https://github.com/n6ai/minze) - Dead-simple framework for shareable web components. ([Docs](https://minze.dev/))
 - [web-component](https://github.com/vardius/web-component) - Lightweight library providing interface for building web components.
+- [Node Editor (Web Components)](https://github.com/Qix-/node-editor) - Zero dependency, unopinionated node editor built as a reusable web component.

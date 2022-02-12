@@ -775,6 +775,7 @@
 - [rec.la](https://github.com/pryv/rec.la) - Loopback domain and SSL certs.
 - [to-json-schema](https://github.com/ruzicka/to-json-schema) - Converts JS objects to JSON Schema.
 - [vercel/fetch](https://github.com/vercel/fetch) - Opinionated `fetch` (with retrying and DNS caching) optimized for use inside microservices.
+- [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 
 ## Links
 
