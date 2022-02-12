@@ -137,6 +137,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
+- [Sentry](https://sentry.io/) - Application Monitoring and Error Tracking Software. ([SDK Examples](https://github.com/getsentry/examples))
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [Flagsmith](https://flagsmith.com/) - Open Source Feature Flag & Remote Config Service. ([Code](https://github.com/Flagsmith/flagsmith)) ([GitHub](https://github.com/Flagsmith))
@@ -171,6 +172,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/) ([Node API](https://github.com/EddyVerbruggen/remove.bg))
+- [neural.love](https://neural.love/) - Online video and image enhancement powered by AI.
 - [Jam](https://jamshelf.com/) - Self-Hosted Clubhouse. ([Code](https://github.com/jam-systems/jam)) ([HN](https://news.ycombinator.com/item?id=29493894))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
 - [Cerca](https://github.com/cblgh/cerca) - Lean forum software in Go.
@@ -198,7 +200,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Tiny Letter](https://tinyletter.com)
 - [Airy](https://airy.co/) - Open Source Conversational Platform. ([HN](https://news.ycombinator.com/item?id=27446200))
 - [Cuttle](https://cuttle.xyz/) - Design tool for digital cutting machines.
-- [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow))
+- [ASCIIFlow](https://asciiflow.com/#/) - Client-side only web based application for drawing ASCII diagrams. ([Code](https://github.com/lewish/asciiflow)) ([HN](https://news.ycombinator.com/item?id=30273299))
 - [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [QRImage](https://hughchen.github.io/qr_image/) - Web app to generate QR codes with images. ([Code](https://github.com/HughChen/qr_image)) ([HN](https://news.ycombinator.com/item?id=30162233))
@@ -225,6 +227,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [FocusTask](https://focustask.app/) - Organize your life.
+- [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
 - [Inspo](https://www.getinspo.co/) - Your Search Engine For Inspiration.

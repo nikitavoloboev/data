@@ -101,3 +101,4 @@ Might give it a go sometime.
 - [Why Emacs: Redux (2021)](https://batsov.com/articles/2021/11/16/why-emacs-redux/) ([Lobsters](https://lobste.rs/s/vugqbi/why_emacs_redux)) ([HN](https://news.ycombinator.com/item?id=29239452))
 - [Mastering Emacs](https://www.masteringemacs.org/)
 - [Emacs for You (Emfy)](https://github.com/susam/emfy) - 72 line –/.emacs to quickly set up vanilla Emacs for editing. ([HN](https://news.ycombinator.com/item?id=29726398))
+- [Building an Intelligent Emacs (2022)](https://ianyepan.github.io/posts/emacs-ide/) ([HN](https://news.ycombinator.com/item?id=30308272))

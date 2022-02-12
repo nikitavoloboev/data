@@ -214,3 +214,4 @@
 - [DOM is not slow. Misconception that the DOM is slow comes from misuse.](https://twitter.com/dannymoerkerke/status/1488528544909115392)
 - [Introducing the Dialog Element (2022)](https://webkit.org/blog/12209/introducing-the-dialog-element/)
 - [PageCrypt](https://github.com/MaxLaumeister/PageCrypt) - Client-side password-protection for HTML.
+- [details-utils](https://github.com/zachleat/details-utils) - Suite of utilities to add more features to the <details> element.

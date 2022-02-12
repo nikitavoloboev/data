@@ -6,6 +6,8 @@ I wrote a bit on how you can set up and start customizing your shell from scratc
 
 My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles). They are always in a state of flux. But I am learning and adapting things as I go.
 
+[chezmoi](https://github.com/twpayne/chezmoi) is a nice tool to manage dotfiles.
+
 ## Interesting dotfiles
 
 - [Ahmed Gabri](https://github.com/ahmedelgabri/dotfiles)

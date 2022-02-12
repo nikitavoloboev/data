@@ -172,7 +172,6 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Indify](https://www.indify.io/) - Helping artists raise funding. ([Twitter](https://twitter.com/indify))
 - [Born to be cool: The life and music of Chet Baker (2021)](https://www.thesmartset.com/born-to-be-cool/) ([HN](https://news.ycombinator.com/item?id=29235423))
 - [MTG-Jamendo Dataset](https://github.com/MTG/mtg-jamendo-dataset) - Open dataset for music auto-tagging.
-- [Rspotify](https://github.com/ramsayleung/rspotify) - Spotify Web API SDK implemented in Rust.
 - [A few things I’ve come to believe in my years in music tech (2021)](https://twitter.com/jherskowitz/status/1466078600822677513) ([HN](https://news.ycombinator.com/item?id=29474762))
 - [Awesome microtonal music](https://github.com/suhr/awesome-microtonal)
 - [Aquarium Drunkard : 2021 Year In Review](https://aquariumdrunkard.com/2021/12/13/aquarium-drunkard-2021-year-in-review/)

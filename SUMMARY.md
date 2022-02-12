@@ -740,6 +740,7 @@
   - [Redis](databases/redis.md)
   - [DynamoDB](databases/dynamodb.md)
   - [FaunaDB](databases/fauna.md)
+  - [EdgeDB](databases/edgedb.md)
   - [FoundationDB](databases/foundationdb.md)
   - [Prometheus](databases/prometheus.md)
   - [MongoDB](databases/mongodb.md)

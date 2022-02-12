@@ -99,7 +99,7 @@
 - [Fmt](https://github.com/dbuenzli/fmt) - OCaml Format pretty-printer combinators.
 - [awa-ssh](https://github.com/mirage/awa-ssh) - Purely functional SSH library in OCaml.
 - [Fmlib](https://github.com/hbr/fmlib) - Functional Monadic Library for Ocaml.
-- [eioio](https://github.com/ocaml-multicore/eioio) - Effects-based direct-style IO for multicore OCaml.
+- [eioio](https://github.com/ocaml-multicore/eioio) - Effects-based direct-style IO for multicore OCaml. ([0.1 release](https://discuss.ocaml.org/t/eio-0-1-effects-based-direct-style-io-for-ocaml-5/9298))
 - [RES](https://github.com/mmottl/res) - OCaml library for resizable arrays and strings.
 - [Preface](https://github.com/xvw/preface) - Opinionated library designed to facilitate the handling of recurring functional programming idioms in OCaml.
 - [OCaml Containers](https://github.com/c-cube/ocaml-containers) - Modular, clean and powerful extension of the OCaml standard library.

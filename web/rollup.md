@@ -18,3 +18,4 @@
 - [rollup-plugin-critical](https://github.com/nystudio107/rollup-plugin-critical) - Vite.js & Rollup plugin for generating critical CSS.
 - [Rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible.
 - [rollup-plugin-swc](https://github.com/SukkaW/rollup-plugin-swc) - Use SWC with Rollup to transform ESNext and TypeScript code.
+- [Rollup Plugin Visualizer](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.

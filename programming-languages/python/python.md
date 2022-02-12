@@ -4,6 +4,7 @@
 
 - [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)
 - [Create separate enviornments in Conda for each program to avoid dependency issues.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
+- [Tricks to speed up python: 1. asyncio.gather argument ordering by IO wait time (no C). 2. Shared filters in SQLAlchemy Core (no C). 3. Custom construction of Pandas DataFrame from asyncpg.Record-s (with C). 4. Iterating lists without GIL in Cython (with C). 5. Zero-copy (de)serialization data structure (no C). 6. Replacing pandas groupby with pure numpy (no C).](https://www.reddit.com/r/programming/comments/so9luw/how_we_optimized_python_api_server_code_100x/)
 
 ## Code
 
@@ -423,3 +424,5 @@ for i, _ in enumerate(nums):
 - [Static Typing Python Decorators (2022)](https://rednafi.github.io/reflections/static-typing-python-decorators.html)
 - [Python Minifier](https://github.com/dflook/python-minifier) - Transforms Python source code into it's most compact representation.
 - [Blue](https://github.com/grantjenks/blue) - Slightly less uncompromising Python code formatter.
+- [Speeding up Python with Rust, what works and what doesn't! (2021)](https://ketansingh.me/posts/speeding-up-python-with-rust/)
+- [Effective Pandas Book](https://store.metasnake.com/effective-pandas-book) ([Code](https://github.com/mattharrison/effective_pandas_book))

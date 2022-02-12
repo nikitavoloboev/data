@@ -130,7 +130,7 @@ All active variables can be seen by running `env`.
 - [Learn GNU AWK](https://learnbyexample.github.io/learn_gnuawk/preface.html)
 - [My Favorite One Liners](https://muhammadraza.me/2021/Oneliners/) ([HN](https://news.ycombinator.com/item?id=27023572))
 - [The Once and Future Shell (2021)](https://angelhof.github.io/files/papers/shell-2021-hotos.pdf)
-- [zx](https://github.com/google/zx) - JavaScript for Shell Scripting. ([Lobsters](https://lobste.rs/s/9yu5sl/after_discussion_here_i_created_lib_for)) ([HN](https://news.ycombinator.com/item?id=27072515)) ([Video](https://www.youtube.com/watch?v=vVP9ekFuqFA))
+- [zx](https://github.com/google/zx) - JavaScript for Shell Scripting. ([Lobsters](https://lobste.rs/s/9yu5sl/after_discussion_here_i_created_lib_for)) ([HN](https://news.ycombinator.com/item?id=27072515)) ([Video](https://www.youtube.com/watch?v=vVP9ekFuqFA)) ([Lobsters](https://lobste.rs/s/si2uvf/google_zx_5_0_0))
 - [lazycli](https://github.com/jesseduffield/lazycli) - Turn static CLI commands into TUIs with ease.
 - [Quickly copy the output of the last shell command you ran (2021)](https://ianthehenry.com/posts/tmux-copy-last-command/)
 - [Performance optimizations for the shell prompt (2021)](https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/)

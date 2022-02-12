@@ -13,6 +13,7 @@ Below is a list of extensions I use.
 - [tldraw](https://marketplace.visualstudio.com/items?itemName=tldraw-org.tldraw-vscode) - Extends VS Code with support for tldraw files. ([Code](https://github.com/tldraw/tldraw/tree/main/apps/vscode))
 - [Multi Command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) - Invoke multiple commands as one command. ([Code](https://github.com/ryuta46/vscode-multi-command))
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them. ([Code](https://github.com/alefragnani/vscode-bookmarks))
+- [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) - Enables you to open and search code on Sourcegraph.com easily and efficiently. ([Code](https://github.com/sourcegraph/sourcegraph-vscode)) ([Reddit](https://www.reddit.com/r/vscode/comments/sowwe7/we_made_an_extension_to_search_and_navigate_2/))
 
 ## Go
 
@@ -63,7 +64,6 @@ Below is a list of extensions I use.
 ## Utility
 
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
-- [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) - Enables you to open and search code on Sourcegraph.com easily and efficiently. ([Code](https://github.com/sourcegraph/sourcegraph-vscode))
 - [Scotch](https://marketplace.visualstudio.com/items?itemName=samipdahal.Scotch) - Code search for Python, Javascript, Java, and Go. ([Web](https://sdpmas.github.io/Scotch/))
 - [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros) - Add a simple JavaScript macro features to your VSCode. ([Code](https://github.com/exceedsystem/vscode-macros))
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))

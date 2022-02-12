@@ -182,3 +182,7 @@
 - [crate](https://github.com/jordanreger/crate) - Native apps with Deno.
 - [IndexedDB for Deno](https://github.com/aaronhuggins/indexeddb)
 - [Deno Args](https://github.com/KSXGitHub/deno-args) - Extensible CLI arguments parser for Deno with intelligent TypeScript inference.
+- [Carol](https://github.com/uki00a/carol) - Deno module to build desktop applications using Deno, HTML, and Google Chrome.
+- [Static Files on Deno Deploy (2022)](https://deno.com/blog/deploy-static-files)
+- [ReScript on Deno: Command Line Tools and the Flags module (2022)](https://practicalrescript.com/rescript-on-deno-command-line-tools/)
+- [An Introduction to Deno: Is It Better Than Node.js? (2022)](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html) ([HN](https://news.ycombinator.com/item?id=30307409))

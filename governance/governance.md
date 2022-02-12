@@ -28,6 +28,7 @@
 - [Taxes are best applied to (especially extravagant) consumption, whereas capital allocation taxes reduce goods & services output, so actually bad for the people. Probable capital allocation skill of heirs is lower than original creator, so I am in favor of an estate tax.](https://twitter.com/noahpinion/status/1460449757076226049?s=28)
 - [Idea: all government spending should be presented as $-per-taxpayer. 10 billion dollars in infra = $70 per taxpayer owed in future taxes.](https://twitter.com/justindross/status/1467566554728521731)
 - [Nothing is more permanent than a “temporary” government program.](https://twitter.com/elonmusk/status/1468685877970935809)
+- [The way I approach policy—what creates systemic risk to our country? My biggest concern is the demographic crisis: too few people having kids, causing fiscal insolvency. If that means subsidizing childcare & parental leave, then we have to do it.](https://twitter.com/nikitabier/status/1491847339715092521)
 
 ## Links
 

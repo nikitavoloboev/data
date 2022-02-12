@@ -42,3 +42,4 @@
 - [Mathematicians clear hurdle in quest to decode primes (2022)](https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/) ([HN](https://news.ycombinator.com/item?id=29929935))
 - [Mathematicians Prove 30-Year-Old André-Oort Conjecture (2022)](https://www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/) ([HN](https://news.ycombinator.com/item?id=30193236))
 - [Infinite series reveal the unity of mathematics (2022)](https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/) ([HN](https://news.ycombinator.com/item?id=30214878))
+- [Number Sets](https://thinkzone.wlonk.com/Numbers/NumberSets.htm)

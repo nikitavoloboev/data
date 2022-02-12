@@ -86,3 +86,4 @@
 - [Disaster Recovery for Multi-Region Kafka at Uber (2020)](https://eng.uber.com/kafka/)
 - [Delivering billions of messages exactly once (2017)](https://segment.com/blog/exactly-once-delivery/)
 - [kPow for Apache Kafka](https://kpow.io/) - Monitor. Manage. Learn.
+- [Building Real-Time ETL Pipelines with Apache Kafka (2022)](https://datacater.io/blog/2022-02-11/etl-pipeline-with-apache-kafka.html)

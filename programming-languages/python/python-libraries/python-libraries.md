@@ -160,6 +160,7 @@
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module for human beings.
 - [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) - Create Beautiful Tkinter GUIs by Drag and Drop.
 - [Textual](https://github.com/willmcgugan/textual) - TUI (Text User Interface) framework for Python inspired by modern web development.
+- [Briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application. ([Briefcase macOS App Template](https://github.com/beeware/briefcase-macOS-app-template))
 
 ## Graphics
 
@@ -174,6 +175,7 @@
 ## macOS
 
 - [numbers-parser](https://github.com/masaccio/numbers-parser) - Python module for parsing Apple Numbers .numbers files. ([HN](https://news.ycombinator.com/item?id=29753204))
+- [Python Apple Support](https://github.com/beeware/Python-Apple-support) - Meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project.
 
 ## Math
 
@@ -674,6 +676,11 @@
 - [ctparse](https://github.com/comtravo/ctparse) - Parse natural language time expressions in python.
 - [madbg](https://github.com/kmaork/madbg) - Fully-featured remote debugger for python.
 - [Class Resolver](https://github.com/cthoyt/class-resolver) - Lookup classes and instantiate them with style.
+- [Notifiers](https://github.com/liiight/notifiers) - Easy way to send notifications.
+- [Crowd-Kit](https://github.com/Toloka/crowd-kit) - Computational Quality Control for Crowdsourcing.
+- [sPyRMSD](https://github.com/RMeli/spyrmsd) - Symmetry-corrected RMSD in Python.
+- [Bleak](https://github.com/hbldh/bleak) - Bluetooth Low Energy platform Agnostic Client for Python.
+- [Plost](https://github.com/tvst/plost) - Deceptively simple plotting library for Streamlit. ([HN](https://news.ycombinator.com/item?id=30308945))
 
 ## Links
 
@@ -748,3 +755,5 @@
 - [crossenv](https://github.com/benfogle/crossenv) - Cross-compiling virtualenv for Python.
 - [Nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects.
 - [SSort](https://github.com/bwhmather/ssort) - Tool for sorting top level statements in python files.
+- [bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command.
+- [Faster Python calculations with Numba: 2 lines of code, 13× speed-up (2022)](https://pythonspeed.com/articles/numba-faster-python/)

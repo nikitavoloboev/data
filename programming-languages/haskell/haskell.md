@@ -143,6 +143,7 @@
 - [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78) ([Video](https://www.twitch.tv/videos/581490043))
 - [Retrie](https://github.com/facebookincubator/retrie) - Powerful, easy-to-use codemodding tool for Haskell.
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+- [Learn You a Haskell for Great Good! (open-source)](https://learnyouahaskell.github.io/chapters.html) ([Code](https://github.com/learnyouahaskell/learnyouahaskell.github.io))
 - [Lessons in Managing Haskell Memory (2020)](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)
 - [Building a web app with functional programming - Haskell (2020)](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.

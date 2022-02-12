@@ -45,3 +45,5 @@
 - [Envoy Proxy Big Book of Examples](https://github.com/repenno/envoybigbook)
 - [eBPF for Service Mesh? Yes, but Envoy Proxy is here to stay (2021)](https://www.solo.io/blog/ebpf-for-service-mesh/)
 - [Samaritan](https://github.com/samaritan-proxy/samaritan) - Client side L4 or L7 proxy, written in Go, with the aim to provide high availability and load balancing.
+- [Data Center Layer-4 Load Balancer Simulator](https://github.com/ZhiyuanYaoJ/SimLB)
+- [Chproxy](https://github.com/ContentSquare/chproxy) - ClickHouse HTTP proxy and load balancer.

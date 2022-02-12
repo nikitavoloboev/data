@@ -61,3 +61,4 @@
 - [Chip8 Emulator](https://github.com/dmatlack/chip8)
 - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 - [Pinky](https://github.com/koute/pinky) - NES emulator written in Rust.
+- [binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser. ([Web](https://binji.github.io/binjgb/))

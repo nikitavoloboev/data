@@ -181,3 +181,4 @@
 - [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar) ([HN](https://news.ycombinator.com/item?id=30158032))
 - [Signing and verifying container images using a tool called cosign](https://github.com/colinbut/cosign-signing-container-images)
 - [Flintlock](https://github.com/weaveworks/flintlock) - Create and manage the lifecycle of MicroVMs, backed by containerd.
+- [Nydus](https://github.com/dragonflyoss/image-service) - Dragonfly image service, providing fast, secure and easy access to container images.

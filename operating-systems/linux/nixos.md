@@ -190,3 +190,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [How I set up a NixOS router with VPN and split routing (2021)](https://pavluk.org/blog/2021/01/26/nixos_router.html) ([Reddit](https://www.reddit.com/r/NixOS/comments/sdsznj/how_i_set_up_a_nixos_router_with_vpn_and_split/))
 - [Declarative container images with Nix](https://github.com/cloudwatt/nix-container-images) - Write container images as NixOS machines.
 - [Building a Philosophy Workstation with NixOS: Installing Firefox, VSCodium, and LaTeX (2022)](https://shen.hong.io/nixos-for-philosophy-installing-firefox-latex-vscodium/)
+- [nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.

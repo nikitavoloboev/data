@@ -44,6 +44,6 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Hermit](https://cashapp.github.io/hermit/) - Manages isolated, self-bootstrapping sets of tools in software projects. ([Code](https://github.com/cashapp/hermit)) ([Lobsters](https://lobste.rs/s/leqj8z/hermit_manages_isolated_self)) ([Docs](https://cashapp.github.io/hermit/usage/get-started/))
 - [Scarf CLI](https://github.com/scarf-sh/scarf) - Environment manager and development tool powered by Nomia.
 - [Aura](https://github.com/fosskers/aura) - Secure, multilingual package manager for Arch Linux and the AUR.
-- [pakket](https://github.com/pakket-project/pakket) - The last package manager macOS will ever need. Simple, functional, and fast.
+- [pakket](https://github.com/pakket-project/pakket) - The last package manager macOS will ever need. Simple, functional, and fast. ([API](https://github.com/pakket-project/api))
 - [5 Reasons to Try Guix in 2022](https://www.youtube.com/watch?v=7ZdMRLPZhFs)
 - [Mamba](https://github.com/mamba-org/mamba) - Fast Cross-Platform Package Manager. ([Docs](https://mamba.readthedocs.io/en/latest/index.html)) ([Micromamba](https://github.com/cjdoris/MicroMamba.jl))

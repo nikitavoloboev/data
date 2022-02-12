@@ -1,5 +1,7 @@
 # [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
+[Acme](https://github.com/deepmind/acme) seems nice.
+
 ## Links
 
 - [Where to start learning Reinforcement Learning in 2018?](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
@@ -74,7 +76,7 @@
 - [Reinforcement Learning With TicTacToe](https://github.com/rolyatmax/tictactoe)
 - [Coach](https://github.com/NervanaSystems/coach) - Python reinforcement learning framework containing implementation of many state-of-the-art algorithms.
 - [Reinforcement Learning with Convex Constraints (2019)](https://papers.nips.cc/paper/9556-reinforcement-learning-with-convex-constraints.pdf) ([Code](https://github.com/xkianteb/ApproPO))
-- [Acme: A new framework for distributed reinforcement learning | DeepMind (2020)](https://deepmind.com/research/publications/Acme) ([Code](https://github.com/deepmind/acme))
+- [Acme: A new framework for distributed reinforcement learning | DeepMind (2020)](https://deepmind.com/research/publications/Acme) ([Code](https://github.com/deepmind/acme)) ([Intro](https://towardsdatascience.com/deepminds-reinforcement-learning-framework-acme-87934fa223bf))
 - [Slime Volleyball Gym Environment](https://github.com/hardmaru/slimevolleygym) - Simple OpenAI Gym environment for single and multi-agent reinforcement learning.
 - [References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography)
 - [NetHack Learning Environment (NLE)](https://github.com/facebookresearch/nle) - Reinforcement Learning environment based on NetHack 3.6.
@@ -314,3 +316,4 @@
 - [RLkit](https://github.com/rail-berkeley/rlkit) - Reinforcement learning framework and algorithms implemented in PyTorch.
 - [Can Wikipedia Help Offline Reinforcement Learning? (2022)](https://arxiv.org/abs/2201.12122) ([Code](https://github.com/machelreid/can-wikipedia-help-offline-rl))
 - [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning (2021)](https://arxiv.org/abs/2201.13425) ([Code](https://github.com/denisyarats/exorl))
+- [Exploration in Approximate Hyper-State Space for Meta Reinforcement Learning (2021)](https://arxiv.org/abs/2010.01062) ([Code](https://github.com/lmzintgraf/hyperx))

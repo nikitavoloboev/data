@@ -2,6 +2,8 @@
 
 It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watch?v=8Flf1grUWCU) due to [Russian](russia.md) 'leaders' decisions. Instead of wasting lives and finances on waging war on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
 
+[Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
+
 ## Links
 
 - [Kasta](https://kasta.ua/) - Online Ukraine shop.

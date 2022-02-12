@@ -438,3 +438,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Gains I'm seeing from my second brain tool](https://joeldare.com/gains-im-seeing-from-my-second-brain-tool.html) ([HN](https://news.ycombinator.com/item?id=30151963))
 - [Workflows in my note app Skrift (2022)](https://harry.vangberg.name/posts/2021-12-30-note-workflows-in-skrift/) ([HN](https://news.ycombinator.com/item?id=30167563))
 - [Ter](https://github.com/kkga/ter) - Tiny wiki-style site builder with Zettelkasten flavor.
+- [Lurnby](https://github.com/Roznoshchik/Lurnby) - Tool for active reading and personal knowledge management. ([Web](https://www.lurnby.com/)) ([HN](https://news.ycombinator.com/item?id=30299847))
+- [Windi](https://windi.app/) - Knowledge management and sharing platform based on short notes. ([HN](https://news.ycombinator.com/item?id=30302690))

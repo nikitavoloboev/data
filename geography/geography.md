@@ -18,3 +18,4 @@
 - [Average color of each country (using satellite imagery)](https://eox.at/2021/08/average-colors-of-the-world/) ([HN](https://news.ycombinator.com/item?id=29669961))
 - [Open Infrastructure Map](https://openinframap.org/#2/26/12) ([HN](https://news.ycombinator.com/item?id=29948473))
 - [Lights at sea](https://geodienst.github.io/lighthousemap/) - Shows all the blinking beacons from OpenStreetMap. ([Code](https://github.com/geodienst/lighthousemap))
+- [Why, exactly, the ocean is salty?](https://twitter.com/ferrisjabr/status/1491150686729687040)

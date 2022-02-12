@@ -58,3 +58,4 @@
 - [Mavericks](https://github.com/airbnb/mavericks) - Android on Autopilot.
 - [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android.
 - [dadb](https://github.com/mobile-dev-inc/dadb) - Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server. ([Article](https://blog.mobile.dev/our-first-open-source-project-54cd8edc452f)) ([Tweet](https://twitter.com/GergelyOrosz/status/1465363032171847681))
+- [Android Nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK.

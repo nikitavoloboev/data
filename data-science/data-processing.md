@@ -76,3 +76,4 @@
 - [Databend](https://github.com/datafuselabs/databend) - Open Source Serverless Data Warehouse for Everyone. ([Web](https://databend.rs/))
 - [Pydra](https://github.com/nipype/pydra) - Simple dataflow engine with scalable semantics.
 - [Bytewax](https://github.com/bytewax/bytewax) - Open source Python framework for building highly scalable dataflows.
+- [Atomic Data](https://docs.atomicdata.dev/) - Modular specification for sharing, modifying and modeling graph data. ([Code](https://github.com/ontola/atomic-data-docs)) ([Rust Code](https://github.com/joepio/atomic-data-rust))

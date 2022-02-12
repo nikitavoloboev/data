@@ -225,6 +225,7 @@
 - [SnackBar.swift](https://github.com/ahmedAlmasri/SnackBar.swift) - Provide brief feedback about an operation through a message at the bottom of the screen.
 - [FLCharts](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 - [Instantiate](https://github.com/tarunon/Instantiate) - Type-safe and constructor injectable InterfaceBuilder protocols.
+- [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface.
 
 ## macOS
 
@@ -938,6 +939,10 @@
 - [Sextant](https://github.com/KittyMac/Sextant) - Complete, high performance JSONPath implementation written in Swift.
 - [Box](https://github.com/grsouza/swift-box) - Micro library for Swift that makes possible to transform any value type into a reference type.
 - [Validated](https://github.com/Ben-G/Validated) - Swift μ-Library for Somewhat Dependent Types.
+- [Repeat](https://github.com/malcommac/Repeat) - Modern Timer in Swift, Debouncer and Throttler (alternative to NSTimer) made with GCD.
+- [SPSafeSymbols](https://github.com/sparrowcode/SPSafeSymbols) - Easy usage SFSymbols with static types. If symbol not available, compiler will show warning.
+- [ScriptLib](https://github.com/jessegrosjean/ScriptLib) - Early and in progress scripting suite for Swift apps.
+- [SwiftDate](https://github.com/malcommac/SwiftDate) - Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 
 ## Other (not lib)
 
@@ -981,3 +986,5 @@
 - [LicensePlist](https://github.com/mono0926/LicensePlist) - License list generator of all your dependencies for iOS applications.
 - [SwiftLintPlugin](https://github.com/stackotter/swift-lint-plugin) - SwiftPM plugin that adds a linting command.
 - [Sitrep](https://github.com/twostraws/Sitrep) - Source code analyzer for Swift projects.
+- [swift-add](https://github.com/subdigital/swift-add) - Easily add swift packages from the command line.
+- [Combining protocols in Swift (2022)](https://www.swiftbysundell.com/articles/combining-protocols-in-swift/)

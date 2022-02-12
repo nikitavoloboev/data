@@ -353,6 +353,7 @@
 - [Mobian](https://mobian-project.org/) - Debian for Mobile. ([HN](https://news.ycombinator.com/item?id=27965416))
 - [Kernel Pwning with eBPF: a Love Story (2021)](https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story)
 - [bustd](https://github.com/vrmiguel/bustd) - Lightweight process killer daemon for out-of-memory scenarios for Linux.
+- [buztd](https://github.com/vrmiguel/buztd) - Zig version of the original bustd project.
 - [oomd](https://github.com/facebookincubator/oomd) - Userspace Out-Of-Memory (OOM) killer for linux systems.
 - [Back to Linux (2021)](https://metaredux.com/posts/2021/07/31/back-to-linux.html) ([HN](https://news.ycombinator.com/item?id=28035940)) ([Lobsters](https://lobste.rs/s/a5gkkw/back_linux))
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) ([Code](https://github.com/sysprog21/lkmpg)) ([HN](https://news.ycombinator.com/item?id=28283030))
@@ -462,3 +463,4 @@
 - [Missing Manuals - io_uring worker pool (2022)](https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/)
 - [On Building 30K Debian Packages (2022)](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html) ([HN](https://news.ycombinator.com/item?id=30237483))
 - [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) ([Code](https://github.com/gto76/linux-cheatsheet))
+- [iotop](https://github.com/Tomas-M/iotop) - top utility for IO.

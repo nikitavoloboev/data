@@ -58,7 +58,7 @@
 - [Luka Jacobowitz—Monoids, Monoids, Monoids (2019)](https://www.youtube.com/watch?v=DJyhWAwmGqE)
 - [Selective Lambda Lifting (2019)](https://arxiv.org/abs/1910.11717)
 - [Recursion Scheme Talks](https://github.com/sellout/recursion-scheme-talk)
-- [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo) ([Book](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/))
+- [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo) ([Book](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)) ([Code](https://github.com/chiroptical/domain-modeling-made-functional))
 - [The Implementation of Functional Programming Languages book (1987)](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
 - [Functional programming great resources](https://github.com/mmenestret/fp-resources)
 - [On the Expressive Power of Indexed Applicative and Monadic Structures (2018)](https://oxij.org/thesis/PhD/)

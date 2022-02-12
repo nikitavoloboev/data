@@ -447,4 +447,5 @@ all: unset
 - [Fancy CSS Borders Using Masks (2022)](https://css-tricks.com/css-borders-using-masks/)
 - [postcss-design-tokens](https://github.com/jptaranto/postcss-design-tokens) - PostCSS plugin that provides a function to retrieve design tokens expressed in JS or JSON, within CSS.
 - [Juice](https://github.com/Automattic/juice) - Given HTML, juice will inline your CSS properties into the style attribute.
-- [Aspect Ratio is Great (2022)](https://css-irl.info/aspect-ratio-is-great/)
+- [Aspect Ratio is Great (2022)](https://css-irl.info/aspect-ratio-is-great/) ([HN](https://news.ycombinator.com/item?id=30280210))
+- [cva](https://github.com/joe-bell/cva) - Class Variance Authority.

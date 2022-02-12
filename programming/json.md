@@ -103,3 +103,5 @@
 - [yajsv](https://github.com/neilpa/yajsv) - Yet Another JSON Schema Validator CLI.
 - [Learn jq with incremental exercises](https://github.com/andreamazza89/jq-exercises)
 - [jfmt](https://github.com/scruffystuffs/jfmt.rs) - Fast JSON Auto-Formatter.
+- [JSON-LD is ideal for Cloud Native technologies (2022)](https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/)
+- [JLess](https://pauljuliusmartinez.github.io/) - Command-line JSON viewer. ([HN](https://news.ycombinator.com/item?id=30273940)) ([Code](https://github.com/PaulJuliusMartinez/jless))

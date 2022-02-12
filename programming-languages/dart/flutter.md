@@ -17,6 +17,7 @@
 
 - [Why Flutter uses Dart (2018)](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter)
+- [Awesome Flutter 2](https://github.com/nepaul/awesome-flutter) ([HN](https://news.ycombinator.com/item?id=30311329))
 - [Flutter UI/UX Examples](https://github.com/Chromicle/awesome-flutter-ui)
 - [Desktop Embedding for Flutter](https://github.com/google/flutter-desktop-embedding) - Purpose of this project is to support building applications that use Flutter on Windows, macOS, and Linux.
 - [go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Allows you to build beautiful native apps on iOS and Android from a single codebase.

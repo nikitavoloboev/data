@@ -1,5 +1,7 @@
 # [PostgreSQL](https://www.postgresql.org)
 
+[Internals of PostgreSQL](https://www.interdb.jp/pg/) is great.
+
 ## Notes
 
 - [Can use `::1` in Postico to remove unsafe connection warning](https://github.com/jakob/Postico/issues/637)
@@ -21,7 +23,7 @@
 - [PGHoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service.
 - [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
-- [Common mistakes in PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This) ([HN](https://news.ycombinator.com/item?id=19817531))
+- [Postgres – Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This) ([HN](https://news.ycombinator.com/item?id=19817531))
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Controller that runs within a Kubernetes cluster that provides a means to deploy and manage PostgreSQL clusters.
 - [Fastest Way to Load Data Into PostgreSQL Using Python (2019)](https://hakibenita.com/fast-load-data-python-postgresql)
@@ -106,7 +108,6 @@
 - [How does MVCC (Multi-Version Concurrency Control) work (2020)](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)
 - [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973) ([HN](https://news.ycombinator.com/item?id=23529954)) ([Notes](https://brandur.org/nanoglyphs/013-remote))
 - [The Postgres and Illustra Codelines](https://dl.acm.org/doi/pdf/10.1145/3226595.3226623)
-- [Don't Do This - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads. ([Web](https://www.citusdata.com/)) ([GitHub](https://github.com/citusdata))
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
@@ -405,3 +406,6 @@
 - [Tern](https://github.com/jackc/tern) - Standalone migration tool for PostgreSQL.
 - [The world of PostgreSQL wire compatibility (2022)](https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html)
 - [PgCat](https://github.com/levkk/pgcat) - PgBouncer rewritten in Rust, with sharding, load balancing and failover support. ([HN](https://news.ycombinator.com/item?id=30267539))
+- [How PostgreSQL stores rows (2022)](https://ketansingh.me/posts/how-postgres-stores-rows/) ([HN](https://news.ycombinator.com/item?id=30279986))
+- [postgres-meta](https://github.com/supabase/postgres-meta) - RESTful API for managing your Postgres. Fetch tables, add roles, and run queries (and more).
+- [plgo](https://gitlab.com/microo8/plgo) - Tool for easily creating PostgreSQL extensions with stored procedures and triggers in Go.

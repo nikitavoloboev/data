@@ -229,6 +229,7 @@
 - [generics-sop](https://github.com/well-typed/generics-sop) - Generic Programming using True Sums of Products.
 - [linear-builder](https://github.com/Bodigrim/linear-builder) - Linear types for linear times.
 - [AT](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell.
+- [debugger-hs](https://github.com/luc-tielen/debugger-hs) - Write your GDB scripts in Haskell.
 
 ## Notes
 

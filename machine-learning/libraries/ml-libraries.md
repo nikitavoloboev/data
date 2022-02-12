@@ -280,3 +280,4 @@
 - [NeuralForecast](https://github.com/Nixtla/neuralforecast) - Python library for time series forecasting with deep learning models.
 - [pythae](https://github.com/clementchadebec/benchmark_VAE) - Library for Variational Autoencoder benchmarking.
 - [Pyraug](https://github.com/clementchadebec/pyraug) - Data Augmentation with Variational Autoencoders.
+- [product-quantization](https://github.com/xinyandai/product-quantization) - Implementation of vector quantization algorithms, codes for Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search.

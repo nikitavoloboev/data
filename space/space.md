@@ -147,3 +147,4 @@
 - [SEA - YouTube](https://www.youtube.com/c/SEAmedia/videos)
 - [A Lonely Universe](https://inference-review.com/article/a-lonely-universe) ([HN](https://news.ycombinator.com/item?id=30266396))
 - [SpaceX](https://www.spacex.com/) - Aerospace manufacturer. ([Updates](https://www.spacex.com/updates/))
+- [Starship Update (2022)](https://www.youtube.com/watch?v=3N7L8Xhkzqo) ([HN](https://news.ycombinator.com/item?id=30295923))

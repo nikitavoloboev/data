@@ -115,3 +115,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Programming Differential Privacy](https://programming-dp.com/) - Book about differential privacy, for programmers.
 - [Saying goodbye to an old friend (2021)](https://ar.al/2021/12/16/saying-goodbye-to-an-old-friend/) ([HN](https://news.ycombinator.com/item?id=29657637))
 - [Plume: Differential Privacy at Scale (2022)](https://arxiv.org/abs/2201.11603) ([Tweet](https://twitter.com/TedOnPrivacy/status/1486979925307498499))
+- [Ask HN: Whats the tech stack that top-tier hackers use for staying undetectable? (2022)](https://news.ycombinator.com/item?id=30278631)

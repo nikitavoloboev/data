@@ -42,3 +42,4 @@
 - [TLA+ Animation Module](https://github.com/will62794/tlaplus_animation) - TLA+ module for animating TLC traces.
 - [TLA+ REPL](https://github.com/will62794/tlaplus_repl) - Simple REPL for the TLA+ language, using the TLC model checker.
 - [TLA+ Web UI Prototype](https://github.com/will62794/tla-web)
+- [TLA+ Transmutation](https://github.com/gabrielamafra/tla-transmutation) - Elixir code generation from TLA+ specifications.

@@ -1247,7 +1247,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [LMSTFY](https://github.com/bitleak/lmstfy) - Implements task queue in Go which based on Redis storage.
 - [gexe](https://github.com/vladimirvivien/gexe) - Script-like OS interaction wrapped in the security and type safety of the Go programming language.
 - [gotextdiff](https://github.com/hexops/gotextdiff) - Unified text diffing in Go.
-- [lingua-go](https://github.com/pemistahl/lingua-go) - Most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike.
+- [lingua-go](https://github.com/pemistahl/lingua-go) - Most accurate natural language detection library in the Go ecosystem, suitable for long and short text alike. ([HN](https://news.ycombinator.com/item?id=30309534))
 - [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
 - [Molizen](https://github.com/sanposhiho/molizen) - Typed actor framework for Go.
 - [FreeCache](https://github.com/coocood/freecache) - Cache library for Go with zero GC overhead and high concurrent performance.
@@ -1351,3 +1351,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [How I write HTTP services after eight years (2018)](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html) ([Reddit](https://www.reddit.com/r/golang/comments/sk05z2/how_i_write_http_services_after_eight_years/))
 - [go generics for the busy gopher (2022)](https://sethops1.net/post/go-generics-for-the-busy-gopher/) ([Reddit](https://www.reddit.com/r/golang/comments/smsjke/go_generics_for_the_busy_gopher/))
 - [Different Ways to Initialize Go structs (2022)](https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/) ([Reddit](https://www.reddit.com/r/golang/comments/snsryv/different_ways_to_initialize_go_structs/))
+- [The other sync package (2021)](https://ketansingh.me/posts/golang-x-sync/)

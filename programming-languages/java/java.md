@@ -102,3 +102,4 @@
 - [yvm](https://github.com/kelthuzadx/yvm) - Low performance garbage-collectable JVM.
 - [fbjni](https://github.com/facebookincubator/fbjni) - Library designed to simplify the usage of the Java Native Interface.
 - [miniJVM](https://github.com/digitalgust/miniJVM) - Develop iOS Android app in java, Cross platform java virtual machine.
+- [Uber JVM Profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.

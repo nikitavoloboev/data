@@ -103,3 +103,5 @@
 - [The Year in Biology (2021)](https://www.quantamagazine.org/the-year-in-biology-20211221/) ([Video](https://www.youtube.com/watch?v=1tOx_Vh5diE))
 - [Научные сенсации 2021: пересадка носа в колено, пульт от сердца, имплант от грусти / Илья Колмановский](https://www.youtube.com/watch?v=ta93_HOnu-8)
 - [The Century of Biology | Elliot Hershberg](https://centuryofbio.substack.com/)
+- [Bioicons](https://bioicons.com/) - High quality science illustrations. ([Code](https://github.com/duerrsimon/bioicons)) ([Tweet](https://twitter.com/ATinyGreenCell/status/1491657282438017031))
+- [Anja Health](https://anjahealth.com/) - Freezing stem cells at birth for future health. ([HN](https://news.ycombinator.com/item?id=30305959))

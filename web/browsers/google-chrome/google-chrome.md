@@ -79,3 +79,4 @@ And here are Chrome extensions I use:
 - [Browser-Pwning](https://github.com/SpiralBL0CK/Browser-Pwning-) - Proper well structured documentation for getting started with chrome pwning & v8 pwning.
 - [Omni](https://github.com/alyssaxuu/omni) - All-in-one interface for Chrome.
 - [Falcon](https://chrome.google.com/webstore/detail/falcon/mmifbbohghecjloeklpbinkjpbplfalb) - Chrome extension for full text history search. ([Code](https://github.com/lengstrom/falcon))
+- [Chrome Extension Boilerplates](https://github.com/stars/chrismessina/lists/chrome-extension-boilerplates) ([Tweet](https://twitter.com/VictorPontis/status/1491849170298322949))

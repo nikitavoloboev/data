@@ -141,6 +141,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [MuditaOS](https://github.com/mudita/MuditaOS) - Mobile operating system optimized for E Ink displays.
 - [Essence](https://nakst.gitlab.io/essence) - Desktop operating system built from scratch. ([HN](https://news.ycombinator.com/item?id=29950740)) ([Code](https://gitlab.com/nakst/essence))
 - [Twizzler](https://github.com/twizzler-operating-system/twizzler) - Research operating system designed to explore novel programming models for new memory hierarchy designs.
+- [Phantom](https://github.com/dzavalishin/phantomuserland) - Persistent Operating System. ([HN](https://news.ycombinator.com/item?id=30283864))
 
 ## Notes
 
@@ -322,3 +323,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [dyld](https://github.com/apple-oss-distributions/dyld) - Dynamic link editor. ([Tweet](https://twitter.com/davidecci/status/1490920286086070274))
 - [Unikraft](https://unikraft.org/) - Automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. ([Code](https://github.com/unikraft/unikraft))
 - [systemfd](https://github.com/mitsuhiko/systemfd) - Development helper utility for helping with auto reloading for projects supporting systemd socket activation.
+- [Let's write an OS which can run on RISC-V in Rust from scratch](https://github.com/rcore-os/rCore-Tutorial-v3)
+- [MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor) - Thin-hypervisor that runs on aarch64 CPUs.

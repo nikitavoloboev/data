@@ -47,7 +47,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Puzzle Panda](https://puzzlepanda.com/) - Play Jigsaw Puzzles Online. ([HN](https://news.ycombinator.com/item?id=29218401))
 - [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
 - [Prince of Persia in JavaScript](https://princejs.com/) ([HN](https://news.ycombinator.com/item?id=29710538)) ([Code](https://github.com/oklemenz/PrinceJS))
-- [Wordle](https://www.powerlanguage.co.uk/wordle/) - Daily word game.
+- [Wordle](https://www.nytimes.com/games/wordle/index.html) - Daily word game. ([HN](https://news.ycombinator.com/item?id=30293297)) ([Wordle Archive](https://metzger.media/games/wordle-archive/)) ([Wordle Is a Love Story](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html))
 - [Word Master](https://octokatherine.github.io/word-master/) - Heavily inspired by Wordle. Word guessing game similar to Mastermind. ([Code](https://github.com/octokatherine/word-master))
 - [Worldledge](https://github.com/rauchg/wordledge) - Implementation of Wordle to help you learn Next.js and Vercel.
 - [Looptap](https://looptap.vasanthv.com/) - Minimal game to waste your time. ([HN](https://news.ycombinator.com/item?id=29921419))
@@ -268,3 +268,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Wordle Solver](https://github.com/baku89/wordle-solver)
 - [Another Wordle](https://another-wordle.vercel.app/) - Generate your custom wordle and share with friends. ([Code](https://github.com/btahir/another-wordle))
 - [Thank You, Valve (2022)](https://kinduff.com/2022/02/06/thank-you-valve/) ([HN](https://news.ycombinator.com/item?id=30244195))
+- [The Factorio Mindset (2022)](https://www.thediff.co/p/the-factorio-mindset) ([HN](https://news.ycombinator.com/item?id=30302607))

@@ -89,7 +89,7 @@
 - [How to build a search engine with Ruby on Rails: Introducing the Whereable design pattern (2021)](https://blog.testdouble.com/posts/2021-09-09-how-to-build-a-search-engine-with-ruby-on-rails/) ([HN](https://news.ycombinator.com/item?id=28558884))
 - [Stripe::Rails](https://github.com/tansengming/stripe-rails) - Rails Engine for integrating with Stripe.
 - [Importmap for Rails](https://github.com/rails/importmap-rails) - Use ESM with importmap to manage modern JavaScript in Rails without transpiling or bundling.
-- [Propshaft](https://github.com/rails/propshaft) - Asset pipeline library for Rails.
+- [Propshaft](https://github.com/rails/propshaft) - Asset pipeline library for Rails. ([Intro](https://world.hey.com/dhh/introducing-propshaft-ee60f4f6)) ([Reddit](https://www.reddit.com/r/rails/comments/spwbmn/introducing_propshaft/))
 - [Active Event Store](https://github.com/palkan/active_event_store) - Rails Event Store in a more Rails way.
 - [Optimistic Locking in Rails REST APIs (2021)](https://blog.appsignal.com/2021/10/20/optimistic-locking-in-rails-rest-apis.html)
 - [Ahoy](https://github.com/ankane/ahoy) - Simple, powerful, first-party analytics for Rails.

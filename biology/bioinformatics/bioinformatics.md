@@ -27,7 +27,7 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Machine Boss](https://github.com/evoldoers/machineboss) - Bioinformatics Open Source Sequence machine.
 - [atomium](https://github.com/samirelanduk/atomium) - Python molecular modeller (with .pdb/.cif/.mmtf parsing and production).
 - [PoincareMaps](https://github.com/facebookresearch/PoincareMaps) - Poincare maps recover continuous hierarchies in single-cell data.
-- [OpenMM](https://github.com/openmm/openmm) - Toolkit for molecular simulation using high performance GPU code.
+- [OpenMM](https://github.com/openmm/openmm) - Toolkit for molecular simulation using high performance GPU code. ([OpenMM Cookbook](https://openmm.github.io/openmm-cookbook/dev/index.html))
 - [Guide to help wet lab biologists learn computational biology (2020)](https://www.reddit.com/r/bioinformatics/comments/fiwtwx/working_from_home_i_made_a_guide_to_help_wet_lab/)
 - [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
@@ -194,3 +194,5 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [AlphaFold 2 & Equivariance (2020)](https://fabianfuchsml.github.io/alphafold2/)
 - [AlphaFold-Powered Drug Discovery of a Novel CDK20 Inhibitor (2022)](https://arxiv.org/abs/2201.09647) ([HN](https://news.ycombinator.com/item?id=30069402))
 - [Graphein](https://github.com/a-r-j/graphein) - Protein Graph Library.
+- [A backbone-centred energy function of neural networks for protein design (2022)](https://www.nature.com/articles/s41586-021-04383-5)
+- [EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction (2022)](https://arxiv.org/abs/2202.05146) ([Code](https://github.com/HannesStark/EquiBind))

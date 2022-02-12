@@ -50,3 +50,5 @@
 - [Revisiting the “Tsar Bomba” nuclear test (2021)](https://arstechnica.com/science/2021/12/revisiting-the-tsar-bomba-nuclear-test/) ([HN](https://news.ycombinator.com/item?id=29496666))
 - [Book Review: The Future of Fusion Energy (2022)](https://martin.kleppmann.com/2022/01/03/future-of-fusion-energy.html) ([HN](https://news.ycombinator.com/item?id=29785864))
 - [Why is the Nuclear Power Industry Stagnant? (2022)](https://austinvernon.site/blog/nuclear.html) ([Tweet](https://twitter.com/Vernon3Austin/status/1480915515669417992))
+- [Major breakthrough on nuclear fusion energy (2022)](https://www.bbc.com/news/science-environment-60312633) ([HN](https://news.ycombinator.com/item?id=30271677))
+- [HN: France to Build Six New Nuclear Reactors (2022)](https://news.ycombinator.com/item?id=30291135) ([Reddit](https://www.reddit.com/r/Futurology/comments/spmm7f/macron_announces_france_is_to_build_up_to_14_new/))

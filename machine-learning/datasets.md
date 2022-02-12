@@ -118,7 +118,7 @@
 - [Single-dataset Experts for Multi-dataset Question Answering (2021)](https://arxiv.org/abs/2109.13880) ([Code](https://github.com/princeton-nlp/MADE))
 - [LabelFlow](https://labelflow.ai/website) - Open standard platform for image labeling. ([Code](https://github.com/labelflow/labelflow))
 - [Face Synthetics dataset](https://github.com/microsoft/FaceSynthetics)
-- [Toloka](https://toloka.ai/) - Fast and efficient way to collect and label large data sources for machine learning and other business purposes. ([Code](https://github.com/Toloka/toloka-kit))
+- [Toloka](https://toloka.ai/) - Fast and efficient way to collect and label large data sources for machine learning and other business purposes. ([Code](https://github.com/Toloka/toloka-kit)) ([GitHub](https://github.com/Toloka))
 - [PlainTextWikipedia](https://github.com/daveshap/PlainTextWikipedia) - Convert Wikipedia database dumps into plaintext files.
 - [Discovering Anomalous Data with Self-Supervised Learning (2021)](https://ai.googleblog.com/2021/09/discovering-anomalous-data-with-self.html)
 - [Resources to get you the best quality of ML datasets (2021)](https://twitter.com/JanaSunrise/status/1453028804566286339)

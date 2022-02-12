@@ -101,3 +101,4 @@
 - [Lambda-less outbound HTTP requests on AWS serverless (2022)](https://dev.to/aws-builders/lambda-less-outbound-http-requests-on-aws-serverless-41mf)
 - [AWS Lambda TS Example](https://github.com/Envek/aws-sam-typescript-layers-example)
 - [101 AWS Lambda tutorial for Go developers (2022)](https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898) ([HN](https://news.ycombinator.com/item?id=30205781))
+- [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions.

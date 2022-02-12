@@ -153,3 +153,4 @@
 - [Software Paper Cuts (2022)](https://matthewbischoff.com/software-paper-cuts/)
 - [Adobe tricks users into a 12 month contract (2022)](https://twitter.com/darkpatterns/status/1489901640777973768) ([HN](https://news.ycombinator.com/item?id=30222165))
 - [Ask HN: Software you hate but can't replace? (2022)](https://news.ycombinator.com/item?id=30223425)
+- [Designing for a dev tool UX](https://twitter.com/antiflasher/status/1492104335672713217)

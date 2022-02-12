@@ -123,7 +123,7 @@
 - [Vex](https://github.com/CargoSense/vex) - Data Validation for Elixir.
 - [NimbleParsec](https://github.com/dashbitco/nimble_parsec) - Simple and fast library for text-based parser combinators.
 - [Elasticlunr](https://atandarash.me/blog/introduction-to-elasticlunr) - Full-text search library for Elixir. ([HN](https://news.ycombinator.com/item?id=29857712))
-- [Witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir.
+- [Witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir. ([Article](https://blog.appsignal.com/2022/02/08/functional-programming-in-elixir-with-witchcraft.html)) ([HN](https://news.ycombinator.com/item?id=30257542)) ([Lobsters](https://lobste.rs/s/iaulch/functional_programming_elixir_with))
 - [Domo](https://github.com/IvanRublev/Domo) - Library to validate values of nested structs with their type spec t() and associated precondition functions.
 - [Ink](https://github.com/ivx/ink) - Logger backend that logs JSON.
 - [MuonTrap](https://github.com/fhunleth/muontrap) - Keep programs, deamons, and applications launched from Erlang and Elixir contained and well-behaved.
@@ -134,3 +134,4 @@
 - [Hex packages](https://hex.pm/packages) - Package manager for the Erlang ecosystem.
 - [ExDoc](https://github.com/elixir-lang/ex_doc) - Tool to generate documentation for your Elixir projects. ([Tweet](https://twitter.com/fhunleth/status/1460430228271112196))
 - [Log all the things - features of Elixir 1.11 Logger application (2022)](https://hauleth.dev/post/log-all-the-things/) ([Lobsters](https://lobste.rs/s/i29sqw/log_all_things_features_elixir_1_11_logger))
+- [Introduction to Telemetry in Elixir (2022)](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir) ([Lobsters](https://lobste.rs/s/ywwxdj/introduction_telemetry_elixir))

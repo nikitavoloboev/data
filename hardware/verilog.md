@@ -25,3 +25,4 @@
 - [Verilog AST (VAST)](https://github.com/vegaluisjose/vast) - Rust library for building and manipulating Verilog ASTs.
 - [Open Source Verification Bundle (OSVB)](https://github.com/umarcor/osvb) - Gathers the most popular open source verification Frameworks and Methodologies for VHDL and System Verilog: cocotb, OSVVM, SVUnit, UVVM, VUnit. ([Docs](https://umarcor.github.io/osvb/))
 - [Rethinking floating point for deep learning (2018)](https://arxiv.org/abs/1811.01721) ([Code](https://github.com/facebookresearch/deepfloat))
+- [SPU32](https://github.com/maikmerten/spu32) - Small Processing Unit 32: A compact RV32I CPU written in Verilog.

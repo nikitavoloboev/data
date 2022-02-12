@@ -8,3 +8,4 @@
 - [Ask HN: Why Did Pascal Fail? (2021)](https://news.ycombinator.com/item?id=28490736)
 - [Pascal Compiler](https://github.com/StanfordPascal/Pascal)
 - [Per Brinch Hansen on Pascal compilers](http://pascal.hansotten.com/2020/10/23/per-brinch-hansen-on-pascal-compilers/)
+- [Making a budget Pascal compiler to WebAssembly](https://faizilham.github.io/making-budget-pascal-compiler)

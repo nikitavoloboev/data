@@ -46,3 +46,4 @@
 - [Design Patterns VS Design Principles: Iterator, Mediator and Memento (2021)](https://www.fluentcpp.com/2021/09/12/design-patterns-vs-design-principles-iterator-mediator-and-memento/)
 - [Learn Object Oriented Programming Basics in 30 Minutes: A Free Crash Course (2020)](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
 - [The Essence of Inheritance (2016)](https://arxiv.org/pdf/1601.02059.pdf)
+- [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/) ([HN](https://news.ycombinator.com/item?id=30293622))

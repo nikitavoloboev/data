@@ -18,7 +18,7 @@
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial data visualization analysis framework.
 - [Real-time mapping](https://github.com/mapbox/real-time-maps) - Visualize real-time data with Mapbox.
 - [Who's On First Spelunker](https://spelunker.whosonfirst.org/) - Tool for looking around the Who's On First database..
-- [Tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing.
+- [Tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing. ([Web](https://tile38.com/)) ([Pyle38 - Python Client](https://github.com/iwpnd/pyle38))
 - [Geobuf](https://github.com/mapbox/geobuf) - Compact binary encoding for geographic data.
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [vt-pbf](https://github.com/mapbox/vt-pbf) - Serialize Mapbox Vector Tiles to binary protobufs in javascript.
@@ -135,3 +135,5 @@
 - [geoarrow](https://github.com/paleolimbot/geoarrow) - Extension types for geospatial data for use with 'Arrow'.
 - [Grandine](https://github.com/thomersch/grandine) - Libraries and command line tools for working with geospatial data.
 - [Lon Lat Lon Lat](https://macwright.com/lonlat/) ([HN](https://news.ycombinator.com/item?id=30228981))
+- [piper](https://github.com/iwpnd/piper) - Makes use of ray casting and does account for holes in polygons.
+- [Radar Interference Tracker: A New Open Source Tool to Locate Active Military Radar Systems (2022)](https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems/)

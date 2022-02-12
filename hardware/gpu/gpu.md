@@ -83,3 +83,5 @@
 - [Writing an open source GPU driver – without the hardware (2022)](https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/) ([HN](https://news.ycombinator.com/item?id=30107002))
 - [Human GPU Exercises](https://github.com/luruke/human-gpu)
 - [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes.
+- [DietGPU](https://github.com/facebookresearch/dietgpu) - GPU-based lossless compression for numerical data.
+- [BGPQ: A Heap-Based Priority Queue Design for GPUs (2021)](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472463) ([Code](https://github.com/srush/torch-queue))

@@ -86,3 +86,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Awesome Matrix](https://github.com/jryans/awesome-matrix)
 - [Matrix Corporal](https://github.com/devture/matrix-corporal) - Reconciliator and gateway for a managed Matrix server.
 - [Matrix CRDT](https://github.com/YousefED/Matrix-CRDT) - Enables you to use Matrix as a backend for distributed, real-time collaborative web applications that sync automatically. ([HN](https://news.ycombinator.com/item?id=29978659))
+- [Third Room](https://github.com/matrix-org/thirdroom) - Decentralized metaverse platform built on top of the Matrix protocol. ([Intro](https://github.com/matrix-org/thirdroom/discussions/20))

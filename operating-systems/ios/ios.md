@@ -404,3 +404,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [This Week in Glean: Building and Deploying a Rust library on iOS (2022)](https://fnordig.de/2022/01/31/rust-libraries-on-ios/)
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser.
 - [Clutch](https://github.com/KJCracks/Clutch) - High-speed iOS decryption tool.
+- [Туториалы для iOS разработчиков](https://sparrowcode.io/ru)

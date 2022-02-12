@@ -128,7 +128,7 @@
 - [Grafana Tempo](https://github.com/grafana/tempo) - Open source, easy-to-use and high-scale distributed tracing backend. ([Web](https://grafana.com/oss/tempo/)) ([Announcement](https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/)) ([HN](https://news.ycombinator.com/item?id=24919464))
 - [Principles of chaos engineering](https://principlesofchaos.org/) ([Code](https://github.com/chaos-eng/chaos-eng.github.io/)) ([HN](https://news.ycombinator.com/item?id=24930815))
 - [Chaos Experimentation, an open-source framework built on top of Envoy Proxy (2021)](https://eng.lyft.com/chaos-experimentation-an-open-source-framework-built-on-top-of-envoy-proxy-df87519ed681)
-- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/) - Curated list of resources on testing distributed systems. ([Code](https://github.com/asatarin/testing-distributed-systems))
+- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/) - Curated list of resources on testing distributed systems. ([Code](https://github.com/asatarin/testing-distributed-systems)) ([HN](https://news.ycombinator.com/item?id=30296770))
 - [Pegasus: Tolerating Skewed Workloads in Distributed Storage with In-Network Coherence Directories (2020)](https://drkp.net/papers/pegasus-osdi20.pdf) ([Summary](https://twitter.com/danrkports/status/1322361287343525888))
 - [Notes on Paxos (2020)](https://matklad.github.io//2020/11/01/notes-on-paxos.html) ([HN](https://news.ycombinator.com/item?id=24990613))
 - [This is why distributed systems are useful (and I am building one) (2020)](https://abbyssoul.github.io/engineering/2020/06/06/whys-of-distributed-system.html)

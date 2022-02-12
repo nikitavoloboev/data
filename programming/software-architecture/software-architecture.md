@@ -201,3 +201,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Session-lived Application Backends (2022)](https://driftingin.space/posts/session-lived-application-backends) ([HN](https://news.ycombinator.com/item?id=30106187))
 - [Building single-page-apps with PostgREST](https://blog.polyglot.network/backend.sql-+-frontend.js-love) ([HN](https://news.ycombinator.com/item?id=30132947))
 - [Read “Data and Reality” (2022)](https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/) ([HN](https://news.ycombinator.com/item?id=30251747))
+- [Single dependency stacks](https://brandur.org/fragments/single-dependency-stacks) ([HN](https://news.ycombinator.com/item?id=30274886))
+- [ADR Tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records.

@@ -141,7 +141,7 @@
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
 - [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
-- [SixtyFPS](https://github.com/sixtyfpsui/sixtyfps) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://www.sixtyfps.io/)) ([HN](https://news.ycombinator.com/item?id=24919571))
+- [Slint](https://github.com/slint-ui/slint) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://slint-ui.com/)) ([HN](https://news.ycombinator.com/item?id=24919571)) ([Reddit](https://www.reddit.com/r/rust/comments/sp3wix/blog_sixtyfps_becomes_slint/)) ([HN](https://news.ycombinator.com/item?id=30298534))
 - [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
 - [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
 - [tiny-skia](https://github.com/RazrFalcon/tiny-skia) - Tiny Skia subset ported to Rust.
@@ -1411,6 +1411,11 @@
 - [Pipe Trait](https://github.com/KSXGitHub/pipe-trait) - Make it possible to chain regular functions.
 - [relative-path](https://github.com/udoprog/relative-path) - Portable relative UTF-8 paths for Rust.
 - [kiam](https://github.com/WaffleLapkin/kiam) - Better syntax for if/else chains.
+- [FlagSet](https://github.com/enarx/flagset) - Rust data types and a macro for generating enumeration-based bit flags.
+- [eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - Basic building block for building an Eventsource from a Stream of bytes array like objects.
+- [bugreport](https://github.com/sharkdp/bugreport) - Rust library to collect system and environment information for bug reports.
+- [QBE IR for Rust](https://github.com/garritfra/qbe-rs) - QBE IR in natural Rust data structures. ([Lobsters](https://lobste.rs/s/qtncal/qbe_ir_for_rust))
+- [rluau](https://github.com/Vurv78/rluau) - Idiomatic Luau bindings in 100% Rust.
 
 ## Cargo Plugins
 
@@ -1465,6 +1470,7 @@
 - [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - cargo subcommand, that runs valgrind and collects its output in a helpful manner.
 - [cargo-license](https://github.com/onur/cargo-license) - Cargo subcommand to see license of dependencies.
 - [cargo-build-tree](https://github.com/Nemo157/cargo-build-tree)
+- [cargo-msrv](https://github.com/foresterre/cargo-msrv) - Find the minimum supported Rust version (MSRV) for your project.
 
 ## Links
 
@@ -1554,3 +1560,4 @@
 - [Rust serialization benchmark](https://github.com/djkoloski/rust_serialization_benchmark)
 - [Create Rust App](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. ([HN](https://news.ycombinator.com/item?id=30228325))
 - [What are your must install crates when starting a new project? (2022)](https://www.reddit.com/r/rust/comments/slg9d2/what_are_your_must_install_crates_when_starting_a/)
+- [A Plugin System in Rust](https://nullderef.com/series/rust-plugins/)

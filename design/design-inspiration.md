@@ -38,6 +38,7 @@ Here are few more things I liked, design wise.
 - [Gumroad](https://gumroad.com/)
 - [Rows](https://rows.com/)
 - [Toit](https://toit.io/)
+- [Psyche](https://psyche.co/)
 - [SavvyCal](https://savvycal.com/home)
 - [Tweetbot](https://tapbots.com/tweetbot/)
 - [Abstract](https://www.abstract.com/)

@@ -4,9 +4,9 @@
 
 Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide. [Anchor](https://book.anchor-lang.com/) is best framework.
 
-I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/qk2v7u/solana_staking/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde). If I need liquidity in real world, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out.
+I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi). If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. FTX staking is not bad too.
 
-You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/). [Render Network](https://rendertoken.com/) is awesome too.
+Aside from [supply mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too.
 
 ## Apps
 
@@ -212,8 +212,11 @@ You can also [supply SOL to a lending protocol](https://www.reddit.com/r/solana/
 - [solsim](https://github.com/cavaunpeu/solsim) - Solana complex systems simulator.
 - [Solana Pay](https://solanapay.com/) - New standard for decentralized payments. ([Code](https://github.com/solana-labs/solana-pay)) ([Article](https://solana.com/news/solana-pay-announcement)) ([HN](https://news.ycombinator.com/item?id=30166632))
 - [Wormhole $320M Ether exploit (2022)](https://twitter.com/samczsun/status/1489044939732406275) ([HN](https://news.ycombinator.com/item?id=30186894)) ([Reddit](https://www.reddit.com/r/ethereum/comments/sj68rz/heres_how_98k_eth_was_stolen_on_solana_explained/)) ([Reddit](https://www.reddit.com/r/solana/comments/sj7ba7/heres_how_98k_eth_was_stolen_on_solana_explained/)) ([HN](https://news.ycombinator.com/item?id=30196343))
-- [Glow Wallet](https://glow.app/) - Store, send, receive, stake, and swap tokens on the Solana blockchain directly on your phone.
+- [Glow Wallet](https://glow.app/) - Store, send, receive, stake, and swap tokens on the Solana blockchain directly on your phone. ([Twitter](https://twitter.com/glowwallet)) ([Tweet](https://twitter.com/danqing_liu/status/1491417720143101952))
 - [Reactor Wallet](https://github.com/marc2332/reactor-wallet) - Non-custodial cross-platform wallet for Solana.
 - [Sundial](https://github.com/port-finance/sundial) - Yield tokenizer program on Solana.
 - [Streamflow](https://github.com/streamflow-finance/js-sdk) - Streaming payments protocol built on Solana.
 - [Mango Markets V3 - Decentralized Margin Trading](https://github.com/blockworks-foundation/mango-v3)
+- [Where are you staking your Solana? (2022)](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/)
+- [Sell Your SOL](https://github.com/mvines/sys) - Provides tracking from acquisition through disposal of SOL from staking, voting, and validator transaction fee/rent rewards.
+- [defi-yield-ts](https://github.com/jet-lab/defi-yield-ts) - Library for fetching the latest rates from Solana-centric lending protocols, with the goal of supporting every active protocol.

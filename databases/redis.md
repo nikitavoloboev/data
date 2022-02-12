@@ -107,3 +107,4 @@
 - [Rump](https://github.com/stickermule/rump) - Hot sync two Redis servers using dumps.
 - [RedisTimeSeries](https://github.com/RedisTimeSeries/RedisTimeSeries) - Redis Module adding a Time Series data structure to Redis.
 - [RedisBloom](https://github.com/RedisBloom/RedisBloom) - Probabilistic Data Structures for Redis.
+- [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue for Node.js.

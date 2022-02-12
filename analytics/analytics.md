@@ -91,3 +91,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Analytics Next](https://github.com/segmentio/analytics-next) - Latest version of Segment’s JavaScript SDK - enabling you to send your data to any tool.
 - [Ask HN: Best alternatives to Google Analytics in 2021?](https://news.ycombinator.com/item?id=29662859)
 - [Ask HN: Good open source alternatives to Google Analytics? (2022)](https://news.ycombinator.com/item?id=29888599)
+- [Census](https://www.getcensus.com/) - Operational Analytics. Sync data from your warehouse into all your business tools. ([Article](https://blog.getcensus.com/series-b-the-future-of-operational-analytics/))

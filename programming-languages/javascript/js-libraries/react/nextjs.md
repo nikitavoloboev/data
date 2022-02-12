@@ -2,6 +2,7 @@
 
 ## Example sites
 
+- [React Dashboard Design](https://github.com/ofekashery/react-dashboard-design) - Implement of Vercel's Dashboard design in Next.js.
 - [zART-Stack](https://github.com/KATT/zart) - Zero-API, React [Native], & TypeScript.
 - [Collaborative drawing app built with Replicache](https://github.com/steveruizok/replisketch)
 - [Next.js with Tailwind, TypeScript and Jest setup](https://github.com/productbrew/next-productbrew-starter)

@@ -148,3 +148,4 @@
 - [WikiDump Indexer and Search](https://github.com/saiakarsh193/WikiDump-Indexer-and-Search) - Wikipedia dump parser and indexer with search functionality. Made for Information Retrieval and Extraction course.
 - [Xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.
 - [web-poet](https://github.com/scrapinghub/web-poet) - Web scraping Page Objects core library.
+- [Are Product Hunt's featured products still online today? (2022)](https://www.scrapingbee.com/blog/producthunt-cemetery/) ([HN](https://news.ycombinator.com/item?id=30274450))

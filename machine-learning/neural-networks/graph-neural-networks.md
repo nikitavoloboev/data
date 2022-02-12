@@ -88,3 +88,4 @@
 - [Expressive Power of Invariant and Equivariant Graph Neural Networks (2021)](https://arxiv.org/abs/2006.15646) ([Code](https://github.com/mlelarge/graph_neural_net))
 - [Simple implementation of Equivariant GNN in PyTorch](https://github.com/senya-ashukha/simple-equivariant-gnn)
 - [GemNet: Universal Directional Graph Neural Networks for Molecules (2021)](https://www.in.tum.de/daml/gemnet/) ([Code](https://github.com/TUM-DAML/gemnet_pytorch))
+- [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Easy-to-use library for R&D at the intersection of Deep Learning on Graphs and Natural Language Processing.

@@ -168,6 +168,8 @@
 - [monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy microservices in a monorepo via GitHub Actions + Argo CD.
 - [action-gh-push](https://github.com/justjavac/action-gh-push) - GitHub Action for pushing to a repo.
 - [web-ext](https://github.com/kewisch/action-web-ext) - GitHub Action to run web-ext commands.
+- [Sticky Pull Request Comment](https://github.com/marocchino/sticky-pull-request-comment) - Create comment on pull request, if exists update that comment.
+- [No Response](https://github.com/lee-dohm/no-response) - GitHub Action that closes Issues where the author hasn't responded to a request for more information.
 
 ## Go
 

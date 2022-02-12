@@ -43,6 +43,7 @@ Go promotes composition over inheritance.
 - [Don't use deferred functions in main(), don't call os.Exit/log.Fatal outside of main()](https://twitter.com/TitPetric/status/1449025794538360839)
 - [`go get` stores downloaded files in `GOMODCACHE` (can be found via `go env`).](https://www.reddit.com/r/golang/comments/qbwyx5/where_does_go_get_store_the_downloaded_files/)
 - [gotip allows you to use Go from the tip. It’s much easier than building Go from source code](https://twitter.com/rakyll/status/1458915856134520874)
+- [Keep everything private until something outside the package needs to access it.](https://www.reddit.com/r/golang/comments/spt0wv/what_is_the_correct_way_to_organize_privacy_in_go/)
 
 ## Code
 

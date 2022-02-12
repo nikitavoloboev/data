@@ -132,7 +132,7 @@ source script
 - [Bash functions are better than I thought (2021)](https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/) ([Reddit](https://www.reddit.com/r/programming/comments/qjnzmn/underwhelmed_by_bash_functions_maybe_youre_using/)) ([HN](https://news.ycombinator.com/item?id=29058140))
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash.
 - [Bash patterns I use weekly](https://will-keleher.com/posts/5-Useful-Bash-Patterns.html) ([HN](https://news.ycombinator.com/item?id=29318751))
-- [How to write idempotent Bash scripts (2019)](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/) ([HN](https://news.ycombinator.com/item?id=29483070))
+- [How to write idempotent Bash scripts (2019)](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/) ([HN](https://news.ycombinator.com/item?id=29483070)) ([Lobsters](https://lobste.rs/s/ixuahi/how_write_idempotent_bash_scripts))
 - [Mastering Bash and Terminal (2017)](https://www.blockloop.io/mastering-bash-and-terminal/) ([HN](https://news.ycombinator.com/item?id=13400350))
 - [bish](https://github.com/tdenniston/bish) - Language that compiles to Bash. Shell scripting with a modern feel.
 - [Sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server. ([HN](https://news.ycombinator.com/item?id=29648135))

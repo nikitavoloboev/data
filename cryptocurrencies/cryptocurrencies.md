@@ -227,3 +227,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Cryptopunk](https://github.com/ayrat555/cryptopunk) - Hierarchical deterministic wallet for Elixir. ([Article](https://www.badykov.com/elixir/cryptopunk/))
 - [Basic Skill Tree for those looking to get into crypto](https://twitter.com/Darrenlautf/status/1434877372700901384)
 - [Ask HN: Does Anyone else working in a crypto company feel this is all a scam? (2022)](https://news.ycombinator.com/item?id=30268807)
+- [Binance Alpha Bot](https://github.com/duckdegen/apebot)

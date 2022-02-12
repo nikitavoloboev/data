@@ -259,6 +259,7 @@
 - [React Loading Skeleton](https://github.com/dvtng/react-loading-skeleton) - Make beautiful, animated loading skeletons that automatically adapt to your app.
 - [react-aria-components](https://github.com/devongovett/react-aria-components) - Prototype of a higher level component-based API on top of React Aria.
 - [react-layout](https://github.com/dash-ui/react-layout) - Layout primitives for React, including Box, Cluster, Grid, Row, Column, and Layer.
+- [UI Kit for Cube Cloud](https://github.com/cube-js/cube-ui-kit) - UI Framework for Cube Projects. Based on React Aria.
 
 ## Links
 

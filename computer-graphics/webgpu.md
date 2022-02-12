@@ -43,3 +43,6 @@
 - [wgsl-analyzer](https://github.com/wgsl-analyzer/wgsl-analyzer) - Language server implementation for the WGSL shading language.
 - [WebGPU Shading Language Proposal](https://www.w3.org/TR/WGSL/)
 - [online-wgsl-editor](https://github.com/takahirox/online-wgsl-editor) - Tiny WGSL online editor.
+- [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
+- [Demo (~100 LOC) shows the WebGPU compute pipeline](https://github.com/bbbbx/webgpu-compute)
+- [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - WebGPU Shading Language parser and reflection library for JavaScript.

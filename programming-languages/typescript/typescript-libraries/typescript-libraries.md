@@ -316,6 +316,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [principia.ts](https://github.com/0x706b/principia.ts) - TypeScript functional programming.
 - [Behavior Graph](https://github.com/yahoo/bgjs) - Software architecture and state management library.
 - [Effection](https://github.com/thefrontside/effection) - Framework for Node and the browser that makes building concurrent systems easy to get right.
+- [Pintora](https://github.com/hikerpig/pintora) - Extensible JavaScript text-to-diagrams library that works in both browser and Node.js.
 
 ## Links
 

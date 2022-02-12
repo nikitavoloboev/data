@@ -73,6 +73,9 @@
 - [HeaderGen](https://github.com/suirad/zig-header-gen) - Automatically generate headers/bindings for other languages from Zig code.
 - [zig-libgit2](https://github.com/leecannon/zig-libgit2) - Zig bindings to libgit2.
 - [Adma](https://github.com/suirad/adma) - General purpose, multithreaded capable slab allocator for Zig.
+- [Getty](https://github.com/getty-zig/getty) - Serialization framework for Zig.
+- [json](https://github.com/getty-zig/json) - Serialization library for JSON.
+- [Concepts](https://github.com/ibokuri/concepts) - Compile-time validation of type constraints.
 
 ## Links
 

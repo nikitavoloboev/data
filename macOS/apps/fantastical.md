@@ -23,3 +23,4 @@ I often switch between `Week` and `Month` views.
 - [Google Meet & macOS Calendar.app (2021)](https://vito.io/2021/04/06/google-meet-calendar-mac-app)
 - [Radicale](https://github.com/Kozea/Radicale) - Simple CalDAV (calendar) and CardDAV (contact) server. ([Web](https://radicale.org/))
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button) - Convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.
+- [Cal.com](https://cal.com/) - Open Scheduling Infrastructure. ([Code](https://github.com/calcom/cal.com))

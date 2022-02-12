@@ -55,7 +55,7 @@
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
 - [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play)) ([Tweet](https://twitter.com/jlengstorf/status/1442707241627385860))
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients.
-- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews))
+- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews)) ([Exploring Qwik, the Resumable Framework](https://www.youtube.com/watch?v=gT5NWKZZPQM))
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
@@ -771,6 +771,10 @@
 - [peer-cdn](https://github.com/vardius/peer-cdn) - Lightweight library providing peer to peer CDN functionality.
 - [magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard.
 - [fdir](https://github.com/thecodrr/fdir) - Fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s.
+- [HLS.js](https://github.com/video-dev/hls.js) - JavaScript library that plays HLS in browsers with support for MSE.
+- [rec.la](https://github.com/pryv/rec.la) - Loopback domain and SSL certs.
+- [to-json-schema](https://github.com/ruzicka/to-json-schema) - Converts JS objects to JSON Schema.
+- [vercel/fetch](https://github.com/vercel/fetch) - Opinionated `fetch` (with retrying and DNS caching) optimized for use inside microservices.
 
 ## Links
 
@@ -821,3 +825,4 @@
 - [gen-esm-wrapper](https://github.com/addaleax/gen-esm-wrapper) - Generate ESM wrapper files for CommonJS modules.
 - [Prettier plugin sort imports](https://github.com/trivago/prettier-plugin-sort-imports) - Prettier plugin to sort import declarations by provided Regular Expression order.
 - [pn](https://github.com/pnpm/pn) - Wrapper over the pnpm CLI written in Rust.
+- [Private NPM Registry for Enterprise](https://github.com/cnpm/cnpmcore)

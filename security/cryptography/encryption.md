@@ -69,3 +69,4 @@
 - [zooko-msg](https://github.com/publiusfederalist/zooko-msg) - Send encrypted and decrypted messages with verifiable keys and human readable names.
 - [A stick figure guide to the Advanced Encryption Standard (AES) (2009)](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html) ([HN](https://news.ycombinator.com/item?id=30187633))
 - [rPGP](https://github.com/rpgp/rpgp) - Pure rust implementation of OpenPGP.
+- [Breaking 256-bit Elliptic Curve Encryption with a Quantum Computer (2022)](https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-encryption-with-a-quantum-computer.html) ([Paper](https://avs.scitation.org/doi/pdf/10.1116/5.0073075))

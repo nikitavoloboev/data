@@ -176,3 +176,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Reimagining Chess with AlphaZero](https://cacm.acm.org/magazines/2022/2/258230-reimagining-chess-with-alphazero/fulltext) ([HN](https://news.ycombinator.com/item?id=30144108))
 - [Top Chess Engine Championship](https://tcec-chess.com/)
 - [Minic](https://github.com/tryingsomestuff/Minic) - Simple chess engine to learn and play with.
+- [Chess Minigames for Enjoyable Learning](https://andytrattner.com/img/pdf/enjoy-chess.pdf) ([HN](https://news.ycombinator.com/item?id=30295760))
