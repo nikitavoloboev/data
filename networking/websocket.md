@@ -71,3 +71,4 @@
 - [Fasthttp Gorilla WebSocket](https://github.com/fasthttp/websocket) - Gorilla WebSocket implementation for fasthttp.
 - [Autobahn|Testsuite](https://github.com/crossbario/autobahn-testsuite) - Fully automated test suite to verify client and server implementations of The WebSocket Protocol.
 - [fastws](https://github.com/dgrr/fastws) - Fast WebSocket implementation for fasthttp and net/http. Supporting concurrent R/W operations by default.
+- [Server-Sent Events: the alternative to WebSockets you should be using (2022)](https://germano.dev/sse-websockets/) ([HN](https://news.ycombinator.com/item?id=30312897))

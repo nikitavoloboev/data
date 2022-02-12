@@ -66,3 +66,5 @@
 - [Not-quite-so-broken TLS](https://nqsb.io/)
 - [cilium-certgen](https://github.com/cilium/certgen) - Convenience tool to generate and store certificates for Hubble Relay mTLS.
 - [TLSChecker](https://github.com/jbovet/tlschecker) - Rust TLS/SSL certificate expiration date from command-line checker.
+- [async-tls](https://github.com/async-rs/async-tls) - Async TLS/SSL streams using Rustls.
+- [async-native-tls](https://github.com/async-email/async-native-tls) - Asynchronous Native TLS.

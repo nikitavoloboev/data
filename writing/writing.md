@@ -271,3 +271,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Tips for making writing more fun](https://davnicwil.com/tips-for-making-writing-more-fun/) ([HN](https://news.ycombinator.com/item?id=29786007))
 - [Best Pens for 2022: Gel, Ballpoint, Rollerball, and Fountain Pens](https://www.jetpens.com/blog/The-41-Best-Pens-for-2022-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974) ([HN](https://news.ycombinator.com/item?id=29815670))
 - [Piece of writing, on the internet (i.e. not a book), that you return to or at least consider foundational](https://twitter.com/redford/status/1255330066151718912)
+- [Putting Ideas into Words (2022)](http://paulgraham.com/words.html) ([HN](https://news.ycombinator.com/item?id=30313438))

@@ -138,3 +138,5 @@
 - [piper](https://github.com/iwpnd/piper) - Makes use of ray casting and does account for holes in polygons.
 - [Radar Interference Tracker: A New Open Source Tool to Locate Active Military Radar Systems (2022)](https://www.bellingcat.com/resources/2022/02/11/radar-interference-tracker-a-new-open-source-tool-to-locate-active-military-radar-systems/)
 - [geoq](https://github.com/worace/geoq) - Command-line tool for working with geospatial data.
+- [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) - Open-Source Mapbox GL Native.
+- [mbtileserver](https://github.com/consbio/mbtileserver) - Simple Go-based server for map tiles stored in mbtiles format.

@@ -230,6 +230,7 @@
 - [linear-builder](https://github.com/Bodigrim/linear-builder) - Linear types for linear times.
 - [AT](https://github.com/mvr/at) - Effective Algebraic Topology in Haskell.
 - [debugger-hs](https://github.com/luc-tielen/debugger-hs) - Write your GDB scripts in Haskell.
+- [c2hs](https://github.com/haskell/c2hs) - Pre-processor for Haskell FFI bindings to C libraries.
 
 ## Notes
 

@@ -62,3 +62,4 @@
 - [Writing a Game Boy Emulator in OCaml (2022)](https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/)
 - [Pinky](https://github.com/koute/pinky) - NES emulator written in Rust.
 - [binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser. ([Web](https://binji.github.io/binjgb/))
+- [Snes9x](https://github.com/snes9xgit/snes9x) - Portable Super Nintendo Entertainment System emulator.

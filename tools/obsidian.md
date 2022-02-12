@@ -87,6 +87,7 @@
 - [ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme) - Theme for my Obsidian Vault: In The Shadows.
 - [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet. ([Fork](https://github.com/gavinmn/obsidian-minimal))
 - [Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
+- [Catppuccin](https://github.com/catppuccin/obsidian) - Soothing pastel theme for Obsidian.
 
 ## Links
 

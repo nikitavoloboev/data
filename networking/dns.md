@@ -185,3 +185,4 @@
 - [DNS resolver in 80 lines of Go (2022)](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/) ([HN](https://news.ycombinator.com/item?id=30169341))
 - [devdns](https://github.com/ruudud/devdns) - Automagic Docker DNS for local development.
 - [DNS lookup cache for Go](https://github.com/rs/dnscache)
+- [Caching DNS Resolver](https://github.com/vercel/dns-cached-resolve) - Cache DNS A and AAAA record resolutions.

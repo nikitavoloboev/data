@@ -164,3 +164,4 @@
 - [SpyQL](https://github.com/dcmoura/spyql) - SQL with Python in the Middle. ([HN](https://news.ycombinator.com/item?id=30056864))
 - [Bdash](https://github.com/bdash-app/bdash) - Simple SQL Client for lightweight data analysis.
 - [StackQL](https://stackql.io/) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework. ([Code](https://github.com/stackql/stackql))
+- [XNGIN](https://github.com/jiangzhe/xngin) - SQL Engine built from scratch in Rust.

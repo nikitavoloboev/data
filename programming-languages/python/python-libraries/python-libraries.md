@@ -2,6 +2,7 @@
 
 ## Web
 
+- [BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework and HTTP client for Python asyncio.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
 - [Bottle](https://github.com/bottlepy/bottle) - Fast and simple micro-framework for python web-applications. ([Docs](http://bottlepy.org/docs/dev/))
@@ -682,6 +683,7 @@
 - [Bleak](https://github.com/hbldh/bleak) - Bluetooth Low Energy platform Agnostic Client for Python.
 - [Plost](https://github.com/tvst/plost) - Deceptively simple plotting library for Streamlit. ([HN](https://news.ycombinator.com/item?id=30308945))
 - [pandocfilters](https://github.com/jgm/pandocfilters) - Python module for writing pandoc filters.
+- [watermark](https://github.com/rasbt/watermark) - IPython magic extension for printing date and time stamps, version numbers, and hardware information.
 
 ## Links
 

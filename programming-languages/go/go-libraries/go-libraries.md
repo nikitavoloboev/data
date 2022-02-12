@@ -429,6 +429,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 
 - [linalg](https://github.com/Jacalz/linalg) - Fast and easy-to-use package for Linear Algebra calculations with matrices and vectors.
 - [Nune](https://github.com/lordlarker/nune) - High-performance numerical engine based on generic tensors.
+- [kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go.
+- [clusters](https://github.com/muesli/clusters) - Data structs and algorithms for clustering data observations and basic computations in n-dimensional spaces.
 
 ## Docker
 

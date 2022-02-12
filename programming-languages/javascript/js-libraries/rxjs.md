@@ -19,3 +19,4 @@
 - [Advanced RxJS Workshop](https://github.com/blove/advanced-rxjs)
 - [Media Queries with RxJS (2021)](https://notiz.dev/blog/media-observable)
 - [RxSandbox](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
+- [Awesome RxJS](https://github.com/ichpuchtli/awesome-rxjs)

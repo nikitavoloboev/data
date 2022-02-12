@@ -105,3 +105,4 @@
 - [jfmt](https://github.com/scruffystuffs/jfmt.rs) - Fast JSON Auto-Formatter.
 - [JSON-LD is ideal for Cloud Native technologies (2022)](https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/)
 - [JLess](https://pauljuliusmartinez.github.io/) - Command-line JSON viewer. ([HN](https://news.ycombinator.com/item?id=30273940)) ([Code](https://github.com/PaulJuliusMartinez/jless))
+- [ijq](https://github.com/gpanders/ijq) - Interactive jq tool.

@@ -409,3 +409,4 @@
 - [How PostgreSQL stores rows (2022)](https://ketansingh.me/posts/how-postgres-stores-rows/) ([HN](https://news.ycombinator.com/item?id=30279986))
 - [postgres-meta](https://github.com/supabase/postgres-meta) - RESTful API for managing your Postgres. Fetch tables, add roles, and run queries (and more).
 - [plgo](https://gitlab.com/microo8/plgo) - Tool for easily creating PostgreSQL extensions with stored procedures and triggers in Go.
+- [pg_show_plans](https://github.com/cybertec-postgresql/pg_show_plans) - Show query plans of all currently running SQL statements.
