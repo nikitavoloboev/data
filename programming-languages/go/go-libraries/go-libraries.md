@@ -447,6 +447,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [smt](https://github.com/celestiaorg/smt) - Go library that implements a Sparse Merkle tree for a key-value map.
 - [tss-lib](https://github.com/binance-chain/tss-lib) - Multi-Party Threshold Signature Scheme.
 - [multi-party-sig](https://github.com/taurusgroup/multi-party-sig) - Implementation of protocols for threshold signatures.
+- [pkcs7](https://github.com/fullsailor/pkcs7) - Implements a subset of PKCS#7/Crytpographic Message Syntax.
 
 ## Linux
 

@@ -674,3 +674,4 @@
 - [IQ-Learn: Inverse soft-Q Learning for Imitation (2021)](https://arxiv.org/abs/2106.12142) ([Code](https://github.com/Div99/IQ-Learn))
 - [On Neural Differential Equations (2022)](https://arxiv.org/abs/2202.02435) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/snmtzn/r_phd_thesis_on_neural_differential_equations/)) ([Tweet](https://twitter.com/PatrickKidger/status/1491069456185200640))
 - [Datamodels: Predicting Predictions from Training Data (2022)](https://arxiv.org/abs/2202.00622) ([Data](https://github.com/MadryLab/datamodels-data))
+- [Understanding Black-box Predictions via Influence Functions (2020)](https://arxiv.org/abs/1703.04730) ([PyTorch Code](https://github.com/nimarb/pytorch_influence_functions))

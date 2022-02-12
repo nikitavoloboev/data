@@ -152,3 +152,4 @@
 - [AnsiGo](https://github.com/ansilove/ansigo) - Simple ANSi to PNG converter written in pure Go.
 - [heic-cli](https://github.com/catdad-experiments/heic-cli) - Convert HEIC/HEIF images to JPEG and PNG on the command line.
 - [CGIF](https://github.com/dloebl/cgif) - GIF encoder written in C.
+- [You Don't Know Gif - An analysis of a gif file and some weird gif features (2022)](https://blog.darrien.dev/posts/you-dont-know-gif/)

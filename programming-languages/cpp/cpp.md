@@ -300,3 +300,4 @@
 - [setup-cpp](https://github.com/aminya/setup-cpp) - Install all the tools required for building and testing C++/C projects.
 - [What would you remove from C++ to make it a more concise language? (2022)](https://www.reddit.com/r/cpp/comments/sn11w7/what_would_you_remove_from_c_to_make_it_a_more/)
 - [Prefix Sum with SIMD](https://en.algorithmica.org/hpc/algorithms/prefix/) ([HN](https://news.ycombinator.com/item?id=30311112))
+- [Yet another explanation of C/C++ pointers (2022)](https://yurichev.com/news/20220212_C_ptrs/) ([Lobsters](https://lobste.rs/s/zf4umu/yet_another_explanation_c_c_pointers))

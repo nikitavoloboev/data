@@ -467,3 +467,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Implementing Data Availability Sampling (DAS)](https://github.com/protolambda/dv5das) - Data Availability Sampling (DAS) on a Discovery-v5 DHT overlay.
 - [Ethereum: Endgame (2021)](https://vitalik.ca/general/2021/12/06/endgame.html)
 - [oriac](https://github.com/xJonathanLEI/oriac) - Toy Cairo VM implementation in Rust.
+- [Flashbots Proxy](https://github.com/Arachnid/flashbots-proxy) - Ethereum RPC proxy that makes composing and submitting flashbots bundles easy.

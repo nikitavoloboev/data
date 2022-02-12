@@ -156,3 +156,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [The quest to trap carbon in stone](https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/) ([HN](https://news.ycombinator.com/item?id=29717389))
 - [How Bad Are Plastics for the Environment, Really? (2022)](https://www.theatlantic.com/science/archive/2022/01/plastic-history-climate-change/621033/)
 - [Climatiq Data Explorer](https://explorer.climatiq.io/) - Search Global Carbon Emission Factors. ([Code](https://github.com/climatiq/Open-Emission-Factors-DB))
+- [People need to hear the good news about climate change (2022)](https://www.slowboring.com/p/people-need-to-hear-the-good-news) - "Climate anxiety" isn't going to solve anything.

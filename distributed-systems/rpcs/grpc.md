@@ -77,3 +77,4 @@
 - [wiremock grpc](https://github.com/mustakimali/wiremock-grpc-rs) - Mock gRPC server to test your outgoing gRPC requests.
 - [gRPC benchmarks](https://github.com/LesnyRumcajs/grpc_bench)
 - [Postman Now Supports gRPC (2022)](https://blog.postman.com/postman-now-supports-grpc/) ([HN](https://news.ycombinator.com/item?id=30176745))
+- [gRPC-Web Demo](https://github.com/uid4oe/grpc-web-demo) - Dockerized Go microservices and their envoy proxy's for a flow which showcases gRPC for Web Clients. ([Reddit](https://www.reddit.com/r/golang/comments/sqthd7/go_and_grpc_is_just_so_intuitive_heres_a_detailed/))

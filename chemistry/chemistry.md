@@ -59,3 +59,4 @@
 - [Chemfiles](https://github.com/chemfiles/chemfiles) - Library for reading and writing chemistry files. ([Web](https://chemfiles.org/))
 - [Hamilton Morris interviews a chromium carbene chemist (2022)](https://www.youtube.com/watch?v=XCFBSqljGaI)
 - [Phenethylamines I have feared and loathed (2020)](http://nikobidin.com/phenethylamines-i-have-feared-and-loathed) ([HN](https://news.ycombinator.com/item?id=30230772))
+- [Shulgin's lab in 3D](https://my.matterport.com/show/?m=Z93pXf9jiWK) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/spsvdi/woah_shulgins_lab_in_3d/))

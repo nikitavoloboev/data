@@ -560,3 +560,4 @@
 - [HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping (2021)](https://arxiv.org/abs/2106.09965) ([Code](https://github.com/mindslab-ai/hififace))
 - [Scalable Large Scene Neural View Synthesis (2022)](https://waymo.com/research/block-nerf/) ([HN](https://news.ycombinator.com/item?id=30299498))
 - [Transformer Recipe](https://github.com/dair-ai/Transformers-Recipe) - Quick recipe to learn all about Transformers.
+- [NeROIC: Neural Rendering of Objects from Online Image Collections (2022)](https://arxiv.org/abs/2201.02533) ([Code](https://github.com/snap-research/NeROIC))

@@ -98,3 +98,4 @@
 - [etx-tracer](https://github.com/sergeyreznik/etx-tracer) - Physically-based CPU and GPU ray-tracer.
 - [Type-Safe Raytracing in Modern C++ (2019)](https://ajeetdsouza.github.io/blog/posts/type-safe-raytracing-in-modern-cpp/)
 - [Tiny GPU raytracer, using Zig and WebGPU](https://github.com/mkeeter/rayray)
+- [Raytracing on a Graphing Calculator (again) (2022)](https://www.youtube.com/watch?v=rY413t5fArw)

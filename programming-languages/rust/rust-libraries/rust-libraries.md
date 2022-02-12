@@ -1417,6 +1417,7 @@
 - [QBE IR for Rust](https://github.com/garritfra/qbe-rs) - QBE IR in natural Rust data structures. ([Lobsters](https://lobste.rs/s/qtncal/qbe_ir_for_rust))
 - [rluau](https://github.com/Vurv78/rluau) - Idiomatic Luau bindings in 100% Rust.
 - [Fluvio Future](https://github.com/infinyon/future-aio) - Advanced futures library.
+- [radium](https://github.com/bitvecto-rs/radium) - Provides abstractions and graceful degradation for behavior that must be shared-mutable, but merely may use atomic instructions to do so.
 
 ## Cargo Plugins
 

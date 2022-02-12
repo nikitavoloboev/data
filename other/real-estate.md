@@ -24,3 +24,4 @@
 - [Fronted](https://fronted.rent/) - Pay your rental deposit in bite-size chunks. ([Twitter](https://twitter.com/getfronted))
 - [Zillow lost money because they weren't willing to lose money (2021)](https://www.stevenbuccini.com/zillow-offers) ([HN](https://news.ycombinator.com/item?id=29333217))
 - [Ask HN: Definitive source for real estate statistics? (2021)](https://news.ycombinator.com/item?id=29407184)
+- [When Private Equity Becomes Your Landlord (2022)](https://www.propublica.org/article/when-private-equity-becomes-your-landlord)

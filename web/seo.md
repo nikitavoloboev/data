@@ -68,3 +68,4 @@
 - [Introduction to Keywords via Understanding Searcher Psychology (2021)](https://daedtech.com/introduction-to-keywords-via-understanding-searcher-psychology/)
 - [seolint](https://github.com/lukeed/seolint) - Robust and configurable SEO linter.
 - [Search engines and SEO spam (2022)](https://twitter.com/paulg/status/1477760548787920901) ([HN](https://news.ycombinator.com/item?id=29782186))
+- [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site and warns of any technical SEO issues.

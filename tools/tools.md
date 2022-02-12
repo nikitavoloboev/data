@@ -549,7 +549,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [GitHub Pages URL Shortener](https://github.com/nelsontky/gh-pages-url-shortener) - Minimal URL shortener that can be entirely hosted on GitHub pages. ([HN](https://news.ycombinator.com/item?id=25110879))
 - [projen](https://github.com/projen/projen) - Project generator. Define and maintain complex project configuration through code.
 - [Sonyflake](https://github.com/sony/sonyflake) - Distributed unique ID generator inspired by Twitter's Snowflake.
-- [CloudEvents](https://cloudevents.io/) - Specification for describing event data in a common way. ([GitHub](https://github.com/cloudevents)) ([Go SDK](https://github.com/cloudevents/sdk-go)) ([TS SDK](https://github.com/cloudevents/sdk-javascript))
+- [CloudEvents](https://cloudevents.io/) - Specification for describing event data in a common way. ([GitHub](https://github.com/cloudevents)) ([Go SDK](https://github.com/cloudevents/sdk-go)) ([TS SDK](https://github.com/cloudevents/sdk-javascript)) ([Spec](https://github.com/cloudevents/spec))
 - [Readwise Reader](https://readwise.io/read) - First read-it-later app built for power readers. ([Tweet](https://twitter.com/homsiT/status/1435715039508500485))
 
 ## Notes

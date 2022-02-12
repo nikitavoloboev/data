@@ -215,3 +215,4 @@
 - [Introducing the Dialog Element (2022)](https://webkit.org/blog/12209/introducing-the-dialog-element/)
 - [PageCrypt](https://github.com/MaxLaumeister/PageCrypt) - Client-side password-protection for HTML.
 - [details-utils](https://github.com/zachleat/details-utils) - Suite of utilities to add more features to the <details> element.
+- [Replace JavaScript Dialogs With New HTML Dialog (2022)](https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/)

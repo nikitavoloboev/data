@@ -110,3 +110,6 @@
 - [Your favorite open source icon library (2022)](https://twitter.com/argyleink/status/1480237318971686918)
 - [Vertex.im](https://vertex.im/) - Free customizable 3D icons.
 - [Iconographic Encyclopædia of Science, Literature, and Art](https://www.c82.net/iconography/) ([Making of Iconographic Encylopædia](https://www.c82.net/blog/?id=88)) ([Tweet](https://twitter.com/rougeux/status/1490418398886518789))
+- [The "best" way to manage icons in React.js](https://benadam.me/thoughts/react-svg-sprites/)
+- [Building an adaptive favicon (2022)](https://web.dev/building-an-adaptive-favicon/)
+- [How to Favicon in 2022: Six files that fit most needs (2022)](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)

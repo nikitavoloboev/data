@@ -68,3 +68,4 @@
 - [TLSChecker](https://github.com/jbovet/tlschecker) - Rust TLS/SSL certificate expiration date from command-line checker.
 - [async-tls](https://github.com/async-rs/async-tls) - Async TLS/SSL streams using Rustls.
 - [async-native-tls](https://github.com/async-email/async-native-tls) - Asynchronous Native TLS.
+- [Ask HN: What's your solution for SSL on internal servers? (2022)](https://news.ycombinator.com/item?id=30272101)
