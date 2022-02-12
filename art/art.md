@@ -46,6 +46,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Djamila Knopf](http://www.djamilaknopf.com/)
 - [Jenna Barton](https://www.instagram.com/dappermouth/)
 - [Ben Kovach](https://www.benkovach.art/)
+- [John Ramsey](https://www.instagram.com/jramseyi/)
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
 - [Thibaud Pourplanche](https://www.instagram.com/thibaud_pourplanche/)
 - [Owen D. Pomery](https://owenpomery.com/work)

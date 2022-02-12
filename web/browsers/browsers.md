@@ -180,3 +180,5 @@
 - [DeepCite](https://chrome.google.com/webstore/detail/deepcite/oibmgglhkkaigemacdkfeedffkjbpgoi?hl=en-US) - Traversing links to find the deep source of information. ([Code](https://github.com/connorjoleary/DeepCite)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/smbj1o/p_i_made_a_tool_for_finding_the_original_sources/))
 - [browserexport](https://github.com/seanbreckenridge/browserexport) - Backup and parse browser history databases.
 - [Ask HN: Browser-extension creators, how do you write for multiple browsers? (2022)](https://news.ycombinator.com/item?id=30314053)
+- [Awesome Web Browser Stuff](https://github.com/ZeroX-DG/awesome-browser)
+- [Moon](https://github.com/ZeroX-DG/moon) - Hobby web browser developed from scratch.

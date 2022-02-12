@@ -469,3 +469,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [oriac](https://github.com/xJonathanLEI/oriac) - Toy Cairo VM implementation in Rust.
 - [Flashbots Proxy](https://github.com/Arachnid/flashbots-proxy) - Ethereum RPC proxy that makes composing and submitting flashbots bundles easy.
 - [ZORA V3 Protocol](https://github.com/ourzora/v3)
+- [Awesome Solidity Gas-Optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization) - Best resources for Solidity gas optimizations.

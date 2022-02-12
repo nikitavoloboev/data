@@ -42,3 +42,4 @@
 - [Purescript for Elm devs](https://github.com/alpacaaa/elm-to-purescript-cheatsheet)
 - [purescript2nix](https://github.com/cdepillabout/purescript2nix) - Tool for easily building PureScript projects with Nix.
 - [Formless](https://github.com/thomashoneyman/purescript-halogen-formless) - Painless forms for Halogen.
+- [PureScript language server](https://github.com/nwolverson/purescript-language-server)

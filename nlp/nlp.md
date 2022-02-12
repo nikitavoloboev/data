@@ -475,3 +475,4 @@
 - [Named Entity Recognition as Dependency Parsing (2020)](https://aclanthology.org/2020.acl-main.577/) ([Code](https://github.com/juntaoy/biaffine-ner))
 - [Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for any language.
 - [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT.
+- [Papers about Causal Inference and Language](https://github.com/causaltext/causal-text-papers)

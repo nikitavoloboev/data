@@ -24,3 +24,4 @@
 - [HOList: An Environment for Machine Learning of Higher-Order Theorem Proving (2019)](https://arxiv.org/abs/1904.03241)
 - [Cicada Language](https://cicada-lang.org/) - Dependently typed programming language and an interactive theorem prover.
 - [Holbert](https://github.com/liamoc/holbert) - Graphical interactive proof assistant designed for education.
+- [Rusty Razor](https://github.com/salmans/rusty-razor) - Tool for constructing finite models for first-order theories.

@@ -598,3 +598,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Heuristics that almost always work (2022)](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work) ([HN](https://news.ycombinator.com/item?id=30264082))
 - [Catppuccin Theme](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited.
 - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) - Curation of awesome tools and projects built by Nigerian developers.
+- [Investigations ← Forensic Architecture](https://forensic-architecture.org/)

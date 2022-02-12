@@ -203,6 +203,7 @@
 - [pg_query.rs](https://github.com/pganalyze/pg_query.rs) - Rust library to parse, deparse and normalize SQL queries using the PostgreSQL query parser.
 - [clickhouse.rs](https://github.com/loyd/clickhouse.rs) - Typed client for ClickHouse.
 - [FuzzyTrie](https://github.com/VictorBulba/fuzzy_trie) - Key-value collection to make fuzzy searches.
+- [codd](https://github.com/salmans/codd) - Library for evaluating typed relational expressions in a monotonically growing minimal database in memory.
 
 ## Video
 
@@ -398,6 +399,7 @@
 - [stm32f7xx-hal](https://github.com/stm32-rs/stm32f7xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F7 family.
 - [embedded-svc](https://github.com/esp-rs/embedded-svc) - Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.).
 - [RPPAL](https://github.com/golemparts/rppal) - Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
+- [Infrared](https://github.com/jkristell/infrared) - Infrared remote control library for embedded Rust.
 
 ## ML
 

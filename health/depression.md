@@ -11,6 +11,7 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [You are not “burnt out”. You are exploited, overworked & underpaid. Use language that accurately describes the underlying problem. Your body isn't broken; the conditions you're enduring are what's broken. Your body is accurately & normally responding to exploitation.](https://twitter.com/Hood_Biologist/status/1387941182781771777)
 - [Sometimes I feel worn out by the world. Then I remember that with just a small amount of effort and curiosity, life is so unbelievably rich, abundant, fascinating, challenging, and inspiring. The rabbit holes are infinite and impossibly deep. Find a loose thread and pull it.](https://twitter.com/jacksondahl/status/1410052629602783232)
 - [Psychedelic mushrooms increase neuroplasticity, allowing restructuring of neural connections. Essentially, you can "rewrite" your brain away from depressive thoughts.](https://www.reddit.com/r/RationalPsychonaut/comments/prz8z5/a_bit_skeptical_about_shrooms_helping_with/)
+- [Feelings come and go. Consequences last.](https://www.youtube.com/watch?v=TVgQ_tgWMyU)
 
 ## Links
 
@@ -52,3 +53,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [On a neural level, how does a condition like depression cause worse cognition? (2022)](https://www.reddit.com/r/askscience/comments/sawfex/on_a_neural_level_how_does_a_condition_like/)
 - [Ask HN: At a peak of my dev career, I hate my life (2022)](https://news.ycombinator.com/item?id=30132560)
 - [Gut microbe linked to depression in large health study (2022)](https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study) ([HN](https://news.ycombinator.com/item?id=30235378))
+- [How to recover from depression](https://www.youtube.com/watch?v=TVgQ_tgWMyU)

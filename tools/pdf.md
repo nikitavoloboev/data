@@ -35,3 +35,4 @@
 - [pdftotext](https://github.com/jalan/pdftotext) - Simple PDF text extraction.
 - [iLovePDF](https://www.ilovepdf.com/) - Online PDF tools for PDF lovers.
 - [PDFRip](https://github.com/mufeedvh/pdfrip) - Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [ZotFile](https://github.com/jlegewie/zotfile) - Advanced PDF management for Zotero.
