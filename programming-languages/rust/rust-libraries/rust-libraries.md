@@ -204,6 +204,7 @@
 - [clickhouse.rs](https://github.com/loyd/clickhouse.rs) - Typed client for ClickHouse.
 - [FuzzyTrie](https://github.com/VictorBulba/fuzzy_trie) - Key-value collection to make fuzzy searches.
 - [codd](https://github.com/salmans/codd) - Library for evaluating typed relational expressions in a monotonically growing minimal database in memory.
+- [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust.
 
 ## Video
 
@@ -1420,6 +1421,7 @@
 - [rluau](https://github.com/Vurv78/rluau) - Idiomatic Luau bindings in 100% Rust.
 - [Fluvio Future](https://github.com/infinyon/future-aio) - Advanced futures library.
 - [radium](https://github.com/bitvecto-rs/radium) - Provides abstractions and graceful degradation for behavior that must be shared-mutable, but merely may use atomic instructions to do so.
+- [xtra](https://github.com/Restioson/xtra) - Tiny, fast, and safe actor framework. Modelled around Actix.
 
 ## Cargo Plugins
 

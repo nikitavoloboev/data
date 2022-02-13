@@ -129,3 +129,5 @@
 - [wgpugd](https://github.com/yutannihilation/wgpugd) - WebGPU Graphics Device for R.
 - [CausalImpact](https://github.com/google/CausalImpact) - R package for causal inference in time series.
 - [units](https://github.com/r-quantities/units) - Measurement Units for R.
+- [lavaanPlot](https://github.com/alishinski/lavaanPlot) - R package for plotting lavaan path models with DiagrammeR.
+- [bayestestR](https://github.com/easystats/bayestestR) - Utilities for analyzing Bayesian models and posterior distributions.

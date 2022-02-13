@@ -328,6 +328,7 @@
 - [json2cpp](https://github.com/lefticus/json2cpp) - Compiles JSON into static constexpr C++ data structures with nlohmann::json API.
 - [RAJA](https://github.com/LLNL/RAJA) - Enables architecture and programming model portability for HPC applications.
 - [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14.
+- [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 
 ## Links
 

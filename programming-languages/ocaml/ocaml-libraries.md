@@ -2,6 +2,7 @@
 
 ## Web
 
+- [Hyper](https://github.com/aantron/hyper) - OCaml Web client, composable with Dream.
 - [h2](https://github.com/anmonteiro/ocaml-h2) - HTTP/2 implementation written in pure OCaml.
 - [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.
 - [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.

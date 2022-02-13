@@ -232,3 +232,4 @@
 - [Networking of a turn-based game (2022)](https://longwelwind.net/blog/networking-turn-based-game/) ([Lobsters](https://lobste.rs/s/ceel32/networking_turn_based_game))
 - [Ravens](https://github.com/ravens-engine/core) - JavaScript library for building multiplayer turn-based games.
 - [Open Gamedev School](https://spicylobster.itch.io/fishfight/devlog/345530/open-gamedev-school) ([Lobsters](https://lobste.rs/s/jvmhp2/open_gamedev_school))
+- [Multiplayer Online Standard](https://github.com/tinspin/fuse)

@@ -205,3 +205,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [What is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
 - ["Are we collectively growing an intellect into existence?"](https://institut.co/selay-karasu-editorial/)
 - [The performative quality of computer-generated art (2022)](https://hyperallergic.com/710156/appreciating-the-performative-quality-of-computer-generated-art/) ([HN](https://news.ycombinator.com/item?id=30278172))
+- [Chromata](https://github.com/michaelbromley/chromata) - Generative art tool.

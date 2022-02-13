@@ -54,3 +54,4 @@
 - [YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone](https://github.com/Edresson/YourTTS)
 - [SubSync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer. ([Overview](http://sc0ty.pl/2019/04/subsync-synchronize-movie-subtitles-with-audio-track/)) ([HN](https://news.ycombinator.com/item?id=29794153))
 - [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation (2021)](https://arxiv.org/abs/2106.03153) ([Code](https://github.com/keonlee9420/StyleSpeech))
+- [NATSpeech](https://github.com/NATSpeech/NATSpeech) - Non-Autoregressive Text-to-Speech Framework.

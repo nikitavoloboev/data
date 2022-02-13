@@ -197,6 +197,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Hazelcast](https://github.com/hazelcast/hazelcast) - Distributed computation and storage platform for consistently low-latency querying, aggregation and stateful computation against event streams and traditional data sources. ([Web](https://hazelcast.com/))
 - [SimpleDB](https://github.com/awelm/simpledb) - Simple database built from scratch that has some of the basic RDBMS features like a SQL query parser, transactions, and a query optimizer. ([HN](https://news.ycombinator.com/item?id=30156048))
 - [Garage](https://github.com/deuxfleurs-org/garage) - Lightweight S3-compatible distributed object store. ([Web](https://garagehq.deuxfleurs.fr/)) ([Article](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)) ([HN](https://news.ycombinator.com/item?id=30256753))
+- [StorageTapper](https://github.com/uber/storagetapper) - Scalable realtime MySQL change data streaming, logical backup and logical replication service.
 
 ## Tools
 

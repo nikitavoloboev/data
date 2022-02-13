@@ -330,3 +330,4 @@
 - [AsyncAPI](https://github.com/asyncapi/spec) - AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs. ([Web](https://www.asyncapi.com/))
 - [APIs as ladders (2022)](https://blog.sbensu.com/posts/2022-01-24-apis-as-ladders/) ([Tweet](https://twitter.com/devonzuegel/status/1490457584138174464))
 - [Building API Docs](https://brandur.org/nanoglyphs/031-api-docs) ([HN](https://news.ycombinator.com/item?id=30248702))
+- [Keygen](https://keygen.sh/) - Software Licensing and Distribution API. ([GitHub](https://github.com/keygen-sh))

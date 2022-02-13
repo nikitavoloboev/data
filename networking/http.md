@@ -197,3 +197,4 @@
 - [Request bodies in GET requests](https://evertpot.com/get-request-bodies/) ([HN](https://news.ycombinator.com/item?id=30129631))
 - [Observing HTTP/2 Traffic Is Hard, but eBPF Can Help (2022)](https://blog.px.dev/ebpf-http2-tracing/) ([HN](https://news.ycombinator.com/item?id=30153493))
 - [HTTPie](https://github.com/httpie/httpie) - Human-friendly CLI HTTP client for the API era.
+- [HTTP/3: Everything you need to know about the next-generation web protocol](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol) ([HN](https://news.ycombinator.com/item?id=30317218))

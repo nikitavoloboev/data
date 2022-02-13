@@ -104,3 +104,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Lessons from my PhD (2021)](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html) ([Tweet](https://twitter.com/austinzhenley/status/1475595171374972931?s=28)) ([HN](https://news.ycombinator.com/item?id=29716076))
 - [Completing a part-time Master's in computer science while working (2022)](https://alexanderell.is/posts/mscs/) ([HN](https://news.ycombinator.com/item?id=29867011))
 - [Teaching how to code is broken](https://neil.computer/notes/teaching-how-to-code-is-broken/) ([HN](https://news.ycombinator.com/item?id=29903202)) ([Lobsters](https://lobste.rs/s/01gogy/teaching_how_code_is_broken))
+- [How to Drop Out](https://ranprieur.com/essays/dropout.html) ([HN](https://news.ycombinator.com/item?id=30318285))

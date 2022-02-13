@@ -159,4 +159,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ar5iv](https://ar5iv.org/) - Articles from arXiv.org as responsive HTML5 web documents. ([Code](https://github.com/dginev/ar5iv))
 - [I read the top 100 scientific papers of all time (2022)](https://www.youtube.com/watch?v=4sLWRScmfH0)
 - [arXiv.wiki](https://arxiv.wiki/) - Place for notes and summaries of arXiv.org papers. ([Code](https://github.com/arxivwiki/arxivwiki))
-- [Sci-Hub: database](https://sci-hub.ru/database) ([HN](https://news.ycombinator.com/item?id=30314601))
+- [Sci-Hub statistics and database](https://sci-hub.ru/database) ([HN](https://news.ycombinator.com/item?id=30314601))

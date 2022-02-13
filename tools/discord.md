@@ -110,4 +110,4 @@
 - [Discord Components](https://github.com/skyra-project/discord-components) - Discord message components to easily build and display fake Discord messages on your webpage.
 - [reacord](https://github.com/itsMapleLeaf/reacord) - Create interactive Discord messages using React.
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
-- [Discord is a black hole for information](https://knockout.chat/thread/33251/1) ([HN](https://news.ycombinator.com/item?id=30311982))
+- [Discord is a black hole for information](https://knockout.chat/thread/33251/1) ([HN](https://news.ycombinator.com/item?id=30311982)) ([Reddit](https://www.reddit.com/r/programming/comments/sr1enx/discord_is_a_black_hole_for_information_knockout/))

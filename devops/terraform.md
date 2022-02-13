@@ -133,3 +133,4 @@
 - [Terraform Scripting Concepts](https://serdigital64.github.io/post/terraform/terraform-scripting-concepts-part1of2/) ([HN](https://news.ycombinator.com/item?id=29780098))
 - [tf-controller](https://github.com/chanwit/tf-controller) - Terraform controller for Flux.
 - [Terraform GitHub Actions](https://github.com/dflook/terraform-github-actions)
+- [Terraform Cloud/Enterprise Provider](https://github.com/hashicorp/terraform-provider-tfe) - Self-hosted distribution of Terraform Cloud, this provider supports both Cloud and Enterprise use cases.

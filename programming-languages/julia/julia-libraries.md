@@ -195,6 +195,7 @@
 - [ReTest](https://github.com/JuliaTesting/ReTest.jl) - Testing framework for Julia.
 - [XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - Unit-testing framework for Julia.
 - [TestEnv](https://github.com/JuliaTesting/TestEnv.jl) - Activate your test environment, so you can use your test dependencies in the REPL.
+- [ReferenceTests](https://github.com/JuliaTesting/ReferenceTests.jl) - Utility package for comparing data against reference files.
 
 ## DB
 

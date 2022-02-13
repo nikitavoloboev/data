@@ -142,6 +142,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Essence](https://nakst.gitlab.io/essence) - Desktop operating system built from scratch. ([HN](https://news.ycombinator.com/item?id=29950740)) ([Code](https://gitlab.com/nakst/essence))
 - [Twizzler](https://github.com/twizzler-operating-system/twizzler) - Research operating system designed to explore novel programming models for new memory hierarchy designs.
 - [Phantom](https://github.com/dzavalishin/phantomuserland) - Persistent Operating System. ([HN](https://news.ycombinator.com/item?id=30283864))
+- [xv7](https://github.com/imtsuki/xv7) - Operating System in 100% Pure Rust.
 
 ## Notes
 

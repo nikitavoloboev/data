@@ -93,3 +93,4 @@
 - [lua-ts](https://github.com/ahuth/lua-ts) - TypeScript implementation of minimal Lua.
 - [lua-yaml](https://github.com/exosite/lua-yaml) - LUA YAML parser.
 - [JSON.lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder.
+- [lua-feels](https://github.com/paigeruten/lua-feels) - Lua REPL that gives you a feel for its internals.

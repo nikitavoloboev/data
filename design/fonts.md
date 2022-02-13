@@ -320,3 +320,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [fontvuer](https://fontvuer.netlify.app/) - Cross platform font viewer. ([Code](https://github.com/ssssota/fontvuer))
 - [Fontanello](https://fontanello.app/) - Browser extension for Google Chrome and Firefox that lets you display the basic typographic styles of a text by right-clicking it. ([Code](https://github.com/frederfred/fontanello))
 - [font-kit](https://github.com/zed-industries/font-kit) - Provides a common interface to the various system font libraries and provides services such as finding fonts on the system, performing nearest-font matching, and rasterizing glyphs.
+- [fontdb](https://github.com/RazrFalcon/fontdb) - Simple, in-memory font database with CSS-like queries.

@@ -411,3 +411,5 @@
 - [plgo](https://gitlab.com/microo8/plgo) - Tool for easily creating PostgreSQL extensions with stored procedures and triggers in Go.
 - [pg_show_plans](https://github.com/cybertec-postgresql/pg_show_plans) - Show query plans of all currently running SQL statements.
 - [Prestogres](https://github.com/treasure-data/prestogres) - PostgreSQL protocol gateway for Presto distributed SQL query engine.
+- [Realtime Client](https://github.com/supabase/realtime-js) - Listens to changes in a PostgreSQL Database and via websockets.
+- [pgMustard](https://www.pgmustard.com/) - Review Postgres query plans quickly. ([Lobsters](https://lobste.rs/s/w79xyg/pgmustard_review_postgres_query_plans))

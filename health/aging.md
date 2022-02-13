@@ -90,3 +90,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [The World Ahead: the true costs of ageing (2021)](https://www.youtube.com/watch?v=hJCr5WJapm8)
 - [Turning back time with epigenetic clocks](https://www.nature.com/articles/d41586-022-00077-8) ([HN](https://news.ycombinator.com/item?id=30126546))
 - [Ask HN: How do you deal with getting old and feeling lost? (2022)](https://news.ycombinator.com/item?id=30230620)
+- [A book that says your 30s are not the end.](https://www.reddit.com/r/suggestmeabook/comments/sr13mi/a_book_that_says_your_30s_are_not_the_end/)

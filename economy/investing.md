@@ -240,3 +240,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Fundamental Analysis](https://github.com/JerBouma/FundamentalAnalysis) - Fully-fledged Fundamental Analysis package capable of collecting 20 years of Company Profiles, Financial Statements, Ratios and Stock Data of 20.000+ companies.
 - [Investing 100k in EU (2022)](https://www.reddit.com/r/eupersonalfinance/comments/rvt145/ive_saved_100k_what_to_do_now_im_lost/)
 - [What it Takes to Beat the Market (2021)](https://austinvernon.site/blog/earningalpha.html)
+- [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921) ([HN](https://news.ycombinator.com/item?id=30318634))

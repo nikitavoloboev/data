@@ -255,3 +255,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [SentryPeer](https://github.com/SentryPeer/SentryPeer) - Distributed list of bad actor IP addresses and phone numbers collected via a SIP Honeypot. ([Web](https://sentrypeer.org/)) ([HN](https://news.ycombinator.com/item?id=30220208))
 - [Witness](https://github.com/testifysec/witness) - Pluggable framework for software supply chain security.
 - [Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021) ([HN](https://news.ycombinator.com/item?id=30284022))
+- [Awesome Executable Packing](https://github.com/dhondta/awesome-executable-packing)

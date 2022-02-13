@@ -12,6 +12,7 @@
 - [Apple Music / Tidal Style Audio Player for Flutter](https://github.com/minikin/audio_player_flutter)
 - [Voiceliner](https://a9.io/voiceliner/) - Voice memos-like for Android and iOS. Written in Flutter. ([Code](https://github.com/maxkrieger/voiceliner))
 - [Voice Scribe](https://github.com/KangRuiYu/voice_scribe) - Audio recording and playback app that transcribes speech in real time.
+- [Flyer Chat](https://github.com/flyerhq/flutter_firebase_chat_core) - Actively maintained, community-driven Firebase BaaS for chat applications with an optional chat UI.
 
 ## Links
 

@@ -28,3 +28,4 @@
 - [dlib](https://github.com/gecko0307/dlib) - Allocators, I/O streams, math, geometry, image and audio processing for D.
 - [Comparison of D vs Nim](https://github.com/timotheecour/D_vs_nim)
 - [Why I Like D (2022)](https://aradaelli.com/blog/why-i-like-d/) ([HN](https://news.ycombinator.com/item?id=29863557))
+- [Compile-Time Sort in D (2017)](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/) ([HN](https://news.ycombinator.com/item?id=30317408))

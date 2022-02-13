@@ -617,3 +617,4 @@
 - [A Primer: Accessing services in Kubernetes (2022)](https://blog.alexellis.io/primer-accessing-kubernetes-services/) ([HN](https://news.ycombinator.com/item?id=30220291))
 - [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers.
 - [kubectl-neat-diff](https://github.com/sh0rez/kubectl-neat-diff) - De-clutter your kubectl diff output using kubectl-neat.
+- [kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.

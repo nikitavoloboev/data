@@ -260,6 +260,7 @@
 - [react-aria-components](https://github.com/devongovett/react-aria-components) - Prototype of a higher level component-based API on top of React Aria.
 - [react-layout](https://github.com/dash-ui/react-layout) - Layout primitives for React, including Box, Cluster, Grid, Row, Column, and Layer.
 - [UI Kit for Cube Cloud](https://github.com/cube-js/cube-ui-kit) - UI Framework for Cube Projects. Based on React Aria.
+- [React tags](https://github.com/react-tags/react-tags) - Simple tagging component for your projects.
 
 ## Links
 
@@ -297,3 +298,5 @@
 - [preactement](https://github.com/jhukdev/preactement) - Create a custom element from any Preact component.
 - [Good advice on JSX conditionals (2022)](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/)
 - [React Runner](https://github.com/nihgwu/react-runner) - Run your React code on the go.
+- [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React.
+- [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.
