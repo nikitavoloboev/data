@@ -77,6 +77,10 @@
 - [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
 - [Crypto++](https://github.com/weidai11/cryptopp) - Free C++ class library of cryptographic schemes.
 
+## ML
+
+- [ML++](https://github.com/novak-99/MLPP) - Library created to revitalize C++ as a machine learning front end.
+
 ## Other
 
 - [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
@@ -329,6 +333,7 @@
 - [RAJA](https://github.com/LLNL/RAJA) - Enables architecture and programming model portability for HPC applications.
 - [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14.
 - [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
+- [KDBindings](https://github.com/KDAB/KDBindings) - Reactive programming & data binding in C++.
 
 ## Links
 

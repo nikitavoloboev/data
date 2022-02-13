@@ -302,3 +302,4 @@
 - [Prefix Sum with SIMD](https://en.algorithmica.org/hpc/algorithms/prefix/) ([HN](https://news.ycombinator.com/item?id=30311112))
 - [Yet another explanation of C/C++ pointers (2022)](https://yurichev.com/news/20220212_C_ptrs/) ([Lobsters](https://lobste.rs/s/zf4umu/yet_another_explanation_c_c_pointers))
 - [Command Line Flags in C++ (2022)](https://blog.nickelp.ro/posts/min-guide-to-cli/)
+- [cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project) - Template CMake project to get you started with C++ and tooling.

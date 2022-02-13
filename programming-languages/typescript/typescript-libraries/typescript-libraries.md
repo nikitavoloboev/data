@@ -318,6 +318,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Effection](https://github.com/thefrontside/effection) - Framework for Node and the browser that makes building concurrent systems easy to get right.
 - [Pintora](https://github.com/hikerpig/pintora) - Extensible JavaScript text-to-diagrams library that works in both browser and Node.js.
 - [muse-js](https://github.com/urish/muse-js) - Muse 1, Muse 2, and Muse S EEG Headset JavaScript Library (using Web Bluetooth).
+- [Human-ID](https://github.com/RienNeVaPlus/human-id) - Generates human readable identifier strings by chaning common (short) words of the english language.
 
 ## Links
 

@@ -50,3 +50,4 @@
 - [Reddit Subreddits](https://www.reddit.com/subreddits/)
 - [Reddit Community Directory sorted by letter](https://www.reddit.com/subreddits/a-1/)
 - [Collection of Reddit bots and utilities](https://github.com/voussoir/reddit)
+- [Reddium](https://reddium.vercel.app/) - Medium-themed Reddit client. ([Code](https://github.com/eightants/reddium))

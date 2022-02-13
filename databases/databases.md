@@ -525,3 +525,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [wait4it](https://github.com/ph4r5h4d/wait4it) - Simple go application to test whether a port is ready to accept a connection or check MySQL, PostgreSQL, MongoDB or Redis server is ready or not.
 - [A decade of major cache incidents at Twitter](https://danluu.com/cache-incidents/) ([HN](https://news.ycombinator.com/item?id=30295542))
 - [How to store subscriptions? A practical guide and analysis of 3 selected databases (2022)](https://medium.com/schibsted-engineering/how-to-store-subscriptions-a-practical-guide-and-analysis-of-3-selected-databases-dcfd06b747a4) ([Reddit](https://www.reddit.com/r/programming/comments/spytkb/how_to_store_subscriptions_a_practical_guide_and/))
+- [Migrate To Graph](https://github.com/microsoft/MigrateToGraph) - Tool to migrate an existing database to a graph database.

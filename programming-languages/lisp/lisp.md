@@ -170,3 +170,4 @@
 - [Extending SectorLISP to Implement BASIC REPLs and Games (2022)](https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html)
 - [LLisp: Lisp in Lisp](https://stopa.io/post/292)
 - [Lisp in Production: an interview with the guys behind Nyxt Browser (2022)](https://nyxt.atlas.engineer/article/gavin-freeborn-interview.org) ([HN](https://news.ycombinator.com/item?id=30271989))
+- [Wisp](https://github.com/mbrock/wisp) - Lisp in WebAssembly.

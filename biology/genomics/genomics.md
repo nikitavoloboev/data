@@ -136,3 +136,4 @@
 - [ViralMSA](https://github.com/niemasd/ViralMSA) - Reference-guided multiple sequence alignment of viral genomes.
 - [sketchy](https://github.com/esteinig/sketchy) - Genomic neighbor typing for lineage and genotype inference.
 - [GeneGrouper](https://github.com/agmcfarland/GeneGrouper) - CLI tool for finding gene clusters in many genomes and placing them in discrete groups based on gene content similarity.
+- [WhatsHap](https://github.com/whatshap/whatshap) - Software for phasing genomic variants using DNA sequencing reads, also called read-based phasing or haplotype assembly.

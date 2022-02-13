@@ -4,6 +4,7 @@
 
 ## OSS Remix apps
 
+- [Remix Starter](https://github.com/AnandChowdhary/remix-starter) - Remix starter with intuitive defaults, like support for internationalization and localized URLs.
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
 - [Tim's site](https://github.com/timc1/tim)
 - [HN in Remix](https://github.com/ryanflorence/remix-hn)
@@ -72,3 +73,9 @@
 - [Not Another Framework (2022)](https://remix.run/blog/not-another-framework) ([HN](https://news.ycombinator.com/item?id=30103775))
 - [Metronome](https://github.com/metronome-sh/metronome-sh) - Insights for Remix.
 - [Remix-Image](https://github.com/Josh-McFarlin/remix-image) - React component for responsive images in Remix.
+- [remix-electron](https://github.com/itsMapleLeaf/remix-electron) - Electron integration for Remix.
+- [routes-gen](https://github.com/sandulat/routes-gen) - Framework agnostic CLI tool for routes parsing and generation of a type-safe helper for safe route usage. Remix driver included.
+- [Remix Crash](https://github.com/xstevenyung/remix-crash) - Get better insight on why your Remix app crashed during development.
+- [Remix Hexagonal Architecture](https://github.com/antoinechalifour/remix-hexagonal-architecture) - Using Remix SSR as an opportunity to explore hexagonal architecture for Web Apps.
+- [Remix Themes](https://github.com/abereghici/remix-themes) - Abstraction for themes in your Remix app.
+- [remix-middleware](https://github.com/neurosnap/remix-middleware) - Express-like middleware system for your remix loaders and actions.

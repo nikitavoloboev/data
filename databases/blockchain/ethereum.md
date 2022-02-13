@@ -473,3 +473,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [firebase-sign-in-with-ethereum](https://github.com/JonDotsoy/firebase-sign-in-with-ethereum) - Asynchronously signs in using an Ethereum address.
 - [Social engineering scam that nearly cost me all of my ETH](https://twitter.com/thomasg_eth/status/1492663192404779013) ([HN](https://news.ycombinator.com/item?id=30322715))
 - [Hardhat Boilerplate](https://github.com/defi-wonderland/solidity-boilerplate) - Fast way of bootstraping projects with best practice's in mind.
+- [SolidState Solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first Solidity smart contract development library.
+- [glyph](https://github.com/sambarnes/cairo-glyph) - Proof-of-concept package manager for Cairo contracts/libraries.
+- [Uniswap V3 SDK](https://github.com/daoleno/uniswapv3-sdk) - Go SDK for building applications on top of Uniswap V3.

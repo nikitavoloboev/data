@@ -63,3 +63,4 @@
 - [Interactive zero knowledge 3-colorability demonstration](http://web.mit.edu/~ezyang/Public/graph/svg.html) ([HN](https://news.ycombinator.com/item?id=29701837))
 - [WordLines](https://github.com/nalinbhardwaj/wordlines) - Zero-knowledge proof-based blockchain puzzle game. ([HN](https://news.ycombinator.com/item?id=29805557))
 - [AirScript](https://github.com/GuildOfWeavers/AirScript) - Scripting language for defining zk-STARKs.
+- [zkInterface](https://github.com/QED-it/zkinterface) - Protocol for the interoperability of zero-knowledge frameworks.

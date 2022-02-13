@@ -321,3 +321,4 @@
 - [Generate Accompaniment Progression (2021)](https://flujoo.github.io/en/generate-accompaniment-progression/)
 - [Three Types of Music Analysis (2021)](https://flujoo.github.io/en/three-types-of-music-analysis/)
 - [ch0p1n](https://github.com/flujoo/ch0p1n) - Python package for automatic musical composition.
+- [music21](https://github.com/cuthbertLab/music21) - Toolkit for Computational Musicology.

@@ -194,3 +194,4 @@
 - [jwtex](https://github.com/aidansteele/jwtex) - Serverless application that takes JSON Web Tokens (JWTs) in one format and converts them to another format.
 - [Auth0 CLI ](https://github.com/auth0/auth0-cli) - Build, test, troubleshoot and manage your integration with Auth0 directly from your terminal.
 - [ORY Oathkeeper](https://github.com/ory/oathkeeper) - Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules.
+- [Cognito + Google federated identity](https://github.com/awesome-cdk/cognito-google-federation-example) - Use Cognito's Google federated identity integration to allow your app users to login with their Google account.

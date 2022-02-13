@@ -1311,6 +1311,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Config](https://github.com/andrewpillar/config) - Library for working with structured configuration in Go.
 - [smart.go](https://github.com/anatol/smart.go) - Pure-Go library to access drive's S.M.A.R.T. information.
 - [avro](https://github.com/khezen/avro) - Apache AVRO for go.
+- [nexus](https://github.com/gammazero/nexus) - Full-feature WAMP v2 router and client written in Go.
+- [social-go](https://github.com/mtlynch/social-go) - Go parser for various social media handles and URLs.
 
 ## Links
 

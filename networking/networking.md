@@ -404,3 +404,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Exposing a web service with Cloudflare Tunnel (2022)](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/) ([HN](https://news.ycombinator.com/item?id=30257978))
 - [Zuul](https://github.com/Netflix/zuul) - Gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [Wifi Network Testing](https://github.com/angela-d/wifi-network-testing) - Scan your wifi network and obtain troubleshooting details, with extreme granularity.
+- [What does it mean to listen on a port? (2022)](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/) ([HN](https://news.ycombinator.com/item?id=30323865))

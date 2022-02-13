@@ -18,6 +18,8 @@
 
 ## DB
 
+- [groundhog](https://github.com/lykahb/groundhog) - PostgreSQL, MySQL, and SQLite with ultimate type safety.
+- [Hasql](https://github.com/nikita-volkov/hasql) - Performant PostgreSQL driver with a flexible mapping API.
 - [PostgreSQL ORM](https://github.com/alevy/postgresql-orm) - Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
 - [Squeal](https://github.com/morphismtech/squeal) - Deep embedding of SQL in Haskell.
 - [persistent](https://github.com/yesodweb/persistent) - Persistence interface for Haskell allowing multiple storage methods.

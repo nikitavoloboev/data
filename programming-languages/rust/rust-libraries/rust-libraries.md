@@ -109,6 +109,7 @@
 - [async-session](https://github.com/http-rs/async-session) - Async session support with pluggable middleware.
 - [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - Rust implementation of the Web Audio API, for use in non-browser contexts.
 - [zeroconf](https://github.com/windy1/zeroconf-rs) - Cross-platform library that wraps underlying ZeroConf/mDNS implementations such as Bonjour or Avahi, providing an easy and idiomatic way to both register and browse services.
+- [uds](https://github.com/tormol/uds) - Unix domain sockets Rust library that supports abstract addresses, fd-passing, SOCK_SEQPACKET sockets and more.
 
 ## WASM
 
