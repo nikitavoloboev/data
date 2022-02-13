@@ -2,6 +2,10 @@
 
 [This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course.
 
+## OSS Haskell Tools
+
+- [Wordle.hs](https://github.com/jakesco/wordle-hs) - Play Wordle on the command line.
+
 ## Notes
 
 - [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)

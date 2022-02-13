@@ -779,6 +779,7 @@
 - [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 - [Koder](https://github.com/maslick/koder) - QR/bar code scanner for the Browser.
 - [cors-bypass](https://github.com/samdenty/cors-bypass) - Bypass the browsers CORS restrictions, without needing to setup a server-side proxy.
+- [rehype-raw](https://github.com/rehypejs/rehype-raw) - Plugin to parse the tree (and raw nodes) again, keeping positional info okay.
 
 ## Links
 

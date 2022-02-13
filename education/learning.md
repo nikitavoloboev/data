@@ -191,3 +191,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Metacademy](https://metacademy.org/) - Your package manager for knowledge.
 - [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 - [Learn By Wrapping (2022)](https://mikerourke.dev/blog/learn-by-wrapping/) ([HN](https://news.ycombinator.com/item?id=30139824))
+- [Ask HN: What's your learning strategy? (2022)](https://news.ycombinator.com/item?id=30321632)

@@ -32,6 +32,7 @@
 - [ClemBot](https://github.com/ClemBotProject/ClemBot) - Discord bot for server management with an emphasis on modularity and configuration.
 - [Discord External Video Embeds](https://github.com/adryd325/discord-twitter-video-embeds) - Discord bot that fixes broken Twitter, TikTok and Reddit video Embeds.
 - [Ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) - Feature-rich Discord bot with +200 commands for Discord servers. Economy, util, fun, music, admin and more! Built with Next.js and Discord.js.
+- [discord-styled-releases](https://github.com/nhevia/discord-styled-releases) - Action that uses a webhook for sending automatic styled Discord messages on new repository releases.
 
 ## Libraries
 

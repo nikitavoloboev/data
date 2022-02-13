@@ -96,6 +96,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Jason Williams](https://jason-williams.co.uk/)
 - [Matt Ferraro](https://mattferraro.dev/)
 - [Arvi Teikari](http://www.hempuli.com/blogblog/)
+- [Sylvain Kerkour](https://kerkour.com/) ([Code](https://github.com/skerkour/kerkour.com))
 
 ## Notes
 

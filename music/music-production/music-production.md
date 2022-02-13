@@ -317,3 +317,7 @@
 - [Interactive Piano Reference to All Major & Minor Scales](https://muted.io/major-minor-scales/)
 - [Awesome Audiovisual](https://github.com/stingalleman/awesome-audiovisual)
 - [Fun Notation](https://www.notation.fun/) - Modern visual music notation, colorful and dynamic. ([Code](https://github.com/notation-fun/notation))
+- [My Approach to Automatic Musical Composition (2022)](https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/) ([HN](https://news.ycombinator.com/item?id=30321645))
+- [Generate Accompaniment Progression (2021)](https://flujoo.github.io/en/generate-accompaniment-progression/)
+- [Three Types of Music Analysis (2021)](https://flujoo.github.io/en/three-types-of-music-analysis/)
+- [ch0p1n](https://github.com/flujoo/ch0p1n) - Python package for automatic musical composition.

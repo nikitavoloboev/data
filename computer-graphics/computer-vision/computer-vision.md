@@ -293,7 +293,7 @@
 - [MLP-Mixer: An all-MLP Architecture for Vision (2021)](https://arxiv.org/abs/2105.01601) ([Code](https://github.com/lucidrains/mlp-mixer-pytorch)) ([Code](https://github.com/rishikksh20/MLP-Mixer-pytorch))
 - [Self-attention building blocks for computer vision applications in PyTorch](https://github.com/The-AI-Summer/self-attention-cv)
 - [LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference](https://github.com/facebookresearch/LeViT)
-- [Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary (2021)](https://arxiv.org/abs/2104.14631)
+- [Text2Video: Text-driven Talking-head Video Synthesis with Phonetic Dictionary (2021)](https://arxiv.org/abs/2104.14631) ([Web](https://sites.google.com/view/sibozhang/text2video)) ([Code](https://github.com/sibozhang/Text2Video))
 - [Neural Rendering: How Low Can You Go in Terms of Input? (2021)](https://www.unite.ai/neural-rendering-low-resolution-input-intel/)
 - [Enhancing Photorealism Enhancement (2021)](https://intel-isl.github.io/PhotorealismEnhancement/) ([Paper](https://arxiv.org/abs/2105.04619)) ([Code](https://github.com/intel-isl/PhotorealismEnhancement))
 - [DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control (2021)](http://www.geometrylearning.com/DeepFaceEditing/) ([Code](https://github.com/IGLICT/DeepFaceEditing-Jittor))

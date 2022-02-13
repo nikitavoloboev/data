@@ -95,6 +95,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [What storage platforms do you use to for pictures or storing family stuff (2020)](https://lobste.rs/s/aa7mkn/what_storage_platforms_do_you_use_for)
 - [Notes on Exposure](https://bismuth.garden/exposure)
 - [Pixelfed](https://pixelfed.social/) - Image sharing platform, an ethical alternative to centralized platforms.
+- [Pixelfed](https://pixelfed.org/) - Federated Image Sharing. ([Code](https://github.com/pixelfed/pixelfed))
 - [Computational Photography course](https://www.udacity.com/course/computational-photography--ud955)
 - [ImageNet](http://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
 - [Bibliogram](https://bibliogram.art/) - Open-source front-end for Instagram. ([Code](https://sr.ht/~cadence/bibliogram/)) ([HN](https://news.ycombinator.com/item?id=27167729)) ([Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md))

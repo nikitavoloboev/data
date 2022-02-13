@@ -393,6 +393,7 @@
 - [libbpf-rs](https://github.com/libbpf/libbpf-rs) - Minimal and opinionated eBPF tooling for the Rust ecosystem.
 - [cgroups-rs](https://github.com/kata-containers/cgroups-rs) - Native Rust library for managing control groups under Linux.
 - [Rust iptables](https://github.com/yaa110/rust-iptables) - Bindings for iptables application in Linux.
+- [listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation.
 
 ## Embedded
 
@@ -1422,6 +1423,8 @@
 - [Fluvio Future](https://github.com/infinyon/future-aio) - Advanced futures library.
 - [radium](https://github.com/bitvecto-rs/radium) - Provides abstractions and graceful degradation for behavior that must be shared-mutable, but merely may use atomic instructions to do so.
 - [xtra](https://github.com/Restioson/xtra) - Tiny, fast, and safe actor framework. Modelled around Actix.
+- [Human Time](https://github.com/tailhook/humantime) - Parser and formatter for std::time::{SystemTime, Duration}.
+- [bytecheck](https://github.com/rkyv/bytecheck) - Memory validation framework for Rust.
 
 ## Cargo Plugins
 

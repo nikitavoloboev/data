@@ -27,6 +27,7 @@
 - [Haskell PostgreSQL-typed](https://github.com/dylex/postgresql-typed) - Haskell PostgreSQL library with compile-time type inference.
 - [sqlite-simple](https://github.com/nurpax/sqlite-simple) - Mid-level bindings for sqlite.
 - [pool](https://github.com/bos/pool) - Fast Haskell library for managing medium-lifetime pooled resources, such as database connections.
+- [acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure.
 
 ## Test
 

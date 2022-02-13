@@ -676,3 +676,4 @@
 - [Datamodels: Predicting Predictions from Training Data (2022)](https://arxiv.org/abs/2202.00622) ([Data](https://github.com/MadryLab/datamodels-data))
 - [Understanding Black-box Predictions via Influence Functions (2020)](https://arxiv.org/abs/1703.04730) ([PyTorch Code](https://github.com/nimarb/pytorch_influence_functions))
 - [Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)](https://github.com/facebookresearch/ppuda)
+- [Language-Agnostic Representation Learning of Source Code from Structure and Context (2021)](https://arxiv.org/abs/2103.11318) ([Code](https://github.com/danielzuegner/code-transformer))

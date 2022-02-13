@@ -216,3 +216,4 @@
 - [PageCrypt](https://github.com/MaxLaumeister/PageCrypt) - Client-side password-protection for HTML.
 - [details-utils](https://github.com/zachleat/details-utils) - Suite of utilities to add more features to the <details> element.
 - [Replace JavaScript Dialogs With New HTML Dialog (2022)](https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/)
+- [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas.

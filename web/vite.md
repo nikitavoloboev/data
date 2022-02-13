@@ -25,3 +25,4 @@
 - [vite-plugin-zig](https://github.com/pluvial/vite-plugin-zig) - Import WebAssembly modules compiled from Zig files.
 - [vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - Plug-in that imports component library styles on demand.
 - [A deep-dive on Vite (2022)](https://overcast.fm/+Id5WJAMzE)
+- [Vite Plugin Node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to allow you to use vite as node dev server.

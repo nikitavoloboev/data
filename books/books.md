@@ -284,6 +284,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Programming book list](http://danluu.com/programming-books/)
 - [Johnny Rodgers's reading list](https://johnnyrodgers.is/reading)
 - [Ask HN: What is one book you would recommend everyone to read? (2022)](https://news.ycombinator.com/item?id=30241190)
+- [Books you should read before you die (2022)](https://www.reddit.com/r/suggestmeabook/comments/srgbmy/books_you_should_read_before_you_die/)
 
 ## Interesting Prose Books
 

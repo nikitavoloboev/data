@@ -209,3 +209,4 @@
 - [Finding the average of two unsigned integers without overflow (2022)](https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223) ([HN](https://news.ycombinator.com/item?id=30252263))
 - [PyClibrary](https://github.com/MatthieuDartiailh/pyclibrary) - C parser and bindings automation for Python.
 - [Running C unit tests with pytest (2022)](https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html)
+- [A Formal Model of Checked C (2022)](https://arxiv.org/abs/2201.13394) ([HN](https://news.ycombinator.com/item?id=30321535))

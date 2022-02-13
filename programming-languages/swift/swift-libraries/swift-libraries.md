@@ -277,6 +277,7 @@
 - [SwiftCss](https://github.com/BinaryBirds/swift-css) - Awesome Swift CSS DSL library using result builders.
 - [Fuzi](https://github.com/cezheng/Fuzi) - Fast & lightweight XML & HTML parser in Swift with XPath & CSS support.
 - [Swift Fetch](https://github.com/SwiftSimpers/SwiftFetch) - Fetch-like API implementation for Swift for asynchronous HTTP requests with the new async/await syntax.
+- [Microya](https://github.com/Flinesoft/Microya) - Micro version of the Moya network abstraction layer written in Swift.
 
 ## SwiftUI
 
@@ -431,6 +432,7 @@
 - [TABTestKit](https://github.com/theappbusiness/TABTestKit) - Designed to make writing and maintaining automated tests for iOS applications.
 - [A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing.
 - [Catbird](https://github.com/RedMadRobot/catbird) - Mock server for UI tests.
+- [StubKit](https://github.com/kateinoigakukun/StubKit) - Smart stubbing system.
 
 ## API
 

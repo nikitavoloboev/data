@@ -684,6 +684,8 @@
 - [Plost](https://github.com/tvst/plost) - Deceptively simple plotting library for Streamlit. ([HN](https://news.ycombinator.com/item?id=30308945))
 - [pandocfilters](https://github.com/jgm/pandocfilters) - Python module for writing pandoc filters.
 - [watermark](https://github.com/rasbt/watermark) - IPython magic extension for printing date and time stamps, version numbers, and hardware information.
+- [intervaltree](https://github.com/chaimleib/intervaltree) - Mutable, self-balancing interval tree. Queries may be by point, by range overlap, or by range containment.
+- [griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs.
 
 ## Links
 

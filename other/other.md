@@ -599,3 +599,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Catppuccin Theme](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited.
 - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) - Curation of awesome tools and projects built by Nigerian developers.
 - [Investigations ← Forensic Architecture](https://forensic-architecture.org/)
+- [Ask HN: What are your contrarian views? (2022)](https://news.ycombinator.com/item?id=30322001)

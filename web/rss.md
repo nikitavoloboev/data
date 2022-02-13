@@ -137,3 +137,4 @@
 - [Axol](https://github.com/karlicoss/axol) - Personal news feed: search for results on Reddit/Pinboard/Twitter/Hackernews and read as RSS.
 - [Atoma](https://github.com/NicolasLM/atoma) - Atom, RSS and JSON feed parser for Python 3.
 - [El Monitorro](https://github.com/ayrat555/el_monitorro/) - RSS, Atom and JSON feed reader as a Telegram bot.
+- [Twitch RSS](https://github.com/lzeke0/TwitchRSS) - Web app serving RSS of Twitch broadcasts.

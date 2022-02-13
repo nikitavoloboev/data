@@ -72,6 +72,7 @@
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
 - [OpenSea Go](https://github.com/gsmachado/go-opensea)
 - [Fastly Go](https://github.com/fastly/cli) - CLI for interacting with the Fastly platform.
+- [Google Docs Go](https://github.com/Iwark/spreadsheet) - Go library for reading and writing spreadsheet files on Google Docs.
 - [Slack Go 2](https://github.com/slack-go/slack)
 - [Slack Go 3](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.

@@ -172,6 +172,7 @@
 - [No Response](https://github.com/lee-dohm/no-response) - GitHub Action that closes Issues where the author hasn't responded to a request for more information.
 - [Action Regex Match](https://github.com/actions-ecosystem/action-regex-match) - GitHub Action to do regex matching.
 - [Install SSH Key](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh.
+- [Contributors List](https://github.com/wow-actions/contributors-list) - Automatically generate contributors.svg for your repository.
 
 ## Go
 

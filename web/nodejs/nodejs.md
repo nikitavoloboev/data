@@ -319,3 +319,4 @@
 - [Cloud Profiler: Node.js Client](https://github.com/googleapis/cloud-profiler-nodejs) - Adds support for Cloud Profiler to Node.js applications.
 - [snm](https://github.com/numToStr/snm) - Smol and simple node version manager written in rust.
 - [ShellJS](https://github.com/shelljs/shelljs) - Portable Unix shell commands for Node.js.
+- [Graceful Server](https://github.com/gquittet/graceful-server) - Tiny (~5k), KISS, dependency-free Node.JS library to make your API more graceful.
