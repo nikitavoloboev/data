@@ -117,3 +117,4 @@
 - [Efficient Extensional Binary Tries (2021)](https://hal.inria.fr/hal-03372247) ([Code](https://github.com/xavierleroy/canonical-binary-tries))
 - [UniCoq](https://github.com/unicoq/unicoq) - Enhanced unification algorithm for Coq.
 - [Phase Semantics](https://github.com/ppedrot/ll-coq) - Some Coq formalizations of Linear Logic.
+- [CertiGraph](https://github.com/CertiGraph/CertiGraph) - Library for verifying graph-manipulating programs. Powered by Coq and VST. Compatible with CompCert.

@@ -308,3 +308,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Have you found side-effects a problem by increasing complexity in your code bases? (2022)](https://lobste.rs/s/if8hle/have_you_found_side_effects_problem_by)
 - [Graphene](https://graphene.teknologiumum.com/) - Create and share beautiful code snippets. ([Code](https://github.com/teknologi-umum/graphene))
 - [crie](https://github.com/tyhal/crie) - Using a mix of other tools and libraries to create a dead simple meta-linter and formatter.
+- [CodeshiftCommunity](https://www.codeshiftcommunity.com/docs/) - Community-owned global registry and documentation hub for codemods. ([Code](https://github.com/CodeshiftCommunity/CodeshiftCommunity))

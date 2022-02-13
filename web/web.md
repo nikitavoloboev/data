@@ -356,3 +356,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Best partial hydration demo you know of (2022)](https://twitter.com/ryanflorence/status/1489052911506128898)
 - [Web Design History Timeline 1990-2022](https://www.webdesignmuseum.org/web-design-history)
 - [Why Efficient Hydration in JavaScript Frameworks is so Challenging (2022)](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
+- [Webref](https://github.com/w3c/webref) - Machine-readable references of terms defined in web browser specifications.

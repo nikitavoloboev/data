@@ -177,6 +177,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Jam](https://jamshelf.com/) - Self-Hosted Clubhouse. ([Code](https://github.com/jam-systems/jam)) ([HN](https://news.ycombinator.com/item?id=29493894))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
 - [Cerca](https://github.com/cblgh/cerca) - Lean forum software in Go.
+- [image-duplicate-remover](https://github.com/paazmaya/image-duplicate-remover) - Remove duplicate images.
 - [ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464))
 - [Link Lock](https://jstrieb.github.io/link-lock/create/) - Password-protect links. ([Code](https://github.com/jstrieb/link-lock))
 - [Canny](https://canny.io) - Track feedback to build better products.

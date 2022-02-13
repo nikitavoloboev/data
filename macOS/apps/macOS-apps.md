@@ -129,6 +129,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Snip](https://snip.picta-hub.io/) - Lightweight snippets manager built with SwiftUI + Combine for macOS. ([Code](https://github.com/Pictarine/macos-snippets))
 - [SketchyVim](https://github.com/FelixKratz/SketchyVim) - Turns macOS input fields into real vim buffers.
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar) - Highly customizable macOS status bar replacement.
+- [NativeTwitch](https://github.com/Aayush9029/NativeTwitch) - Native Twitch Player.
 
 ## Other interesting apps
 

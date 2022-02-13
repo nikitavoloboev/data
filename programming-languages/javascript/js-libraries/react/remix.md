@@ -15,6 +15,8 @@
 - [Remix Hacker News Demo built on Stream](https://github.com/ryansolid/remix-hackernews)
 - [Remix AWS CDK Example](https://github.com/florianwiech/remix-aws-cdk-example)
 - [Remix demo app with Fastly compute@edge adapter](https://github.com/miekapage/remix-with-fastly)
+- [Remix Starter](https://github.com/chiangs/remix-starter) - Starter repo for Remix, TypeScript, React-Testing-Library and linting configured using Yarn.
+- [Remix Wordle Clone](https://github.com/afonsoduarte/wordle-tutorial)
 
 ## Plugins
 
@@ -24,6 +26,7 @@
 - [FormStrategy](https://github.com/sergiodxa/remix-auth-form) - Remix Auth strategy for working with forms.
 - [Remix Auth - Strategy Template](https://github.com/sergiodxa/remix-auth-strategy-template) - Template for creating a new Remix Auth strategy.
 - [Email Link Strategy - Remix Auth](https://github.com/pbteja1998/remix-auth-email-link)
+- [Remix Auth Socials](https://github.com/TheRealFlyingCoder/remix-auth-socials) - Collection of Remix Auth strategies for Oauth2 Social logins.
 
 ## Notes
 
@@ -79,3 +82,5 @@
 - [Remix Hexagonal Architecture](https://github.com/antoinechalifour/remix-hexagonal-architecture) - Using Remix SSR as an opportunity to explore hexagonal architecture for Web Apps.
 - [Remix Themes](https://github.com/abereghici/remix-themes) - Abstraction for themes in your Remix app.
 - [remix-middleware](https://github.com/neurosnap/remix-middleware) - Express-like middleware system for your remix loaders and actions.
+- [remix-postcss](https://github.com/l-mbert/remix-postcss) - Use your PostCSS Config in Remix.
+- [Remix SEO](https://github.com/balavishnuvj/remix-seo) - Collection of SEO utilities like sitemap, robots.txt, etc. for a Remix.

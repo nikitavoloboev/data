@@ -32,3 +32,4 @@
 - [A tale of Distributed Context (2021)](https://mattburman.com/a-tale-of-distributed-context/)
 - [Calyptia](https://calyptia.com/) - First Mile Observability.
 - [tracing-filter](https://github.com/davidbarsky/tracing-filter) - Query language for filtering tracing spans and events.
+- [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector.

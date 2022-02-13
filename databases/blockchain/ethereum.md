@@ -476,3 +476,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [SolidState Solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first Solidity smart contract development library.
 - [glyph](https://github.com/sambarnes/cairo-glyph) - Proof-of-concept package manager for Cairo contracts/libraries.
 - [Uniswap V3 SDK](https://github.com/daoleno/uniswapv3-sdk) - Go SDK for building applications on top of Uniswap V3.
+- [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Complete StarkNet library in Rust.

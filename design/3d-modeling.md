@@ -73,3 +73,4 @@
 - [Body Model Visualizer](https://github.com/mkocabas/body-model-visualizer) - Simple Open3D-based GUI for SMPL-family body models.
 - [Grid.Space](https://grid.space/) - Browser-Based Slicer for 3D FDM and SLA printing, CNC Milling, and Laser cutting. ([Docs](https://docs.grid.space/projects/kiri-moto)) ([Code](https://github.com/GridSpace/grid-apps))
 - [OpenSCAD 3D rendering just got an order of magnitude faster (2022)](https://ochafik.com/jekyll/update/2022/02/09/openscad-fast-csg-contibution.html) ([HN](https://news.ycombinator.com/item?id=30277356))
+- [Blackjack](https://github.com/setzer22/blackjack) - Procedural, node-based modelling tool, made in rust.

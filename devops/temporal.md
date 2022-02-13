@@ -16,3 +16,5 @@
 - [Temporal Adventure Bot](https://github.com/JoshuaKGoldberg/temporal-adventure-bot) - Sample temporal.io application that posts a daily Discord or Slack message for interactive choose-your-own-adventure stories.
 - [Temporal Terraform Demo](https://github.com/dynajoe/temporal-terraform-demo)
 - [Temporal Python SDK](https://github.com/temporalio/sdk-python)
+- [Temporal microservices](https://github.com/guntenbein/temporal_microservices) - Temporal workflow for orchestration, service discovery, load balancing of go microservices.
+- [Temporal Starter](https://github.com/guntenbein/temporal_starter) - Allows to start any activity or workflow by HTTP in a universal way.

@@ -433,6 +433,7 @@
 - [A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing.
 - [Catbird](https://github.com/RedMadRobot/catbird) - Mock server for UI tests.
 - [StubKit](https://github.com/kateinoigakukun/StubKit) - Smart stubbing system.
+- [TestCleaner](https://github.com/ZevEisenberg/TestCleaner) - Tidy up your XCTests.
 
 ## API
 

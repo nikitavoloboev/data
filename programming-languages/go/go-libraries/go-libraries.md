@@ -431,6 +431,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Nune](https://github.com/lordlarker/nune) - High-performance numerical engine based on generic tensors.
 - [kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go.
 - [clusters](https://github.com/muesli/clusters) - Data structs and algorithms for clustering data observations and basic computations in n-dimensional spaces.
+- [Autodiff](https://github.com/pbenner/autodiff) - Numerical library for Go. Supports automatic differentiation.
 
 ## Docker
 
@@ -1313,6 +1314,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [avro](https://github.com/khezen/avro) - Apache AVRO for go.
 - [nexus](https://github.com/gammazero/nexus) - Full-feature WAMP v2 router and client written in Go.
 - [social-go](https://github.com/mtlynch/social-go) - Go parser for various social media handles and URLs.
+- [xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go. An extension for the standard sync package.
 
 ## Links
 

@@ -88,6 +88,7 @@
 - [Marigold Design System](https://marigold-ui.io/guides/installation) - Design System based on emotion, react-aria & theme-ui. ([Code](https://github.com/marigold-ui/marigold))
 - [UI Kit Component library](https://github.com/commercetools/ui-kit)
 - [California Design System](https://designsystem.webstandards.ca.gov/)
+- [RevKit](https://rev.webkul.design/kit/) - Design System UI Kit. ([Solid Code](https://github.com/specialdoom/solid-rev-kit))
 
 ## Notes
 

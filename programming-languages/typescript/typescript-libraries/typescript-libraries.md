@@ -209,7 +209,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fast-sort](https://github.com/snovakovic/fast-sort) - Blazing fast array sorting with TypeScript support.
 - [NativeScript plugins](https://github.com/NativeScript/plugins)
 - [Trie](https://github.com/shortwave/trie) - Fast trie implementation for TypeScript.
-- [Effect-TS](https://github.com/Effect-TS/query) - Efficient pipelining, batching, and caching to any data source (port of zio-query).
+- [Effect-TS](https://github.com/Effect-TS/core) - Fully-fledged functional effect system for typescript with a rich standard library.
+- [Effect-TS - Query](https://github.com/Effect-TS/query) - Efficient pipelining, batching, and caching to any data source (port of zio-query).
+- [Effect-TS - Schema](https://github.com/Effect-TS/schema) - Next Gen Data Modelling.
 - [Typanion](https://github.com/arcanis/typanion) - Static and runtime type assertion library with no dependencies.
 - [maath](https://github.com/pmndrs/maath) - Math helpers for the rest of us.
 - [Typed-Emitter](https://github.com/andywer/typed-emitter) - Strictly typed event emitter interface for TypeScript.
@@ -319,6 +321,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Pintora](https://github.com/hikerpig/pintora) - Extensible JavaScript text-to-diagrams library that works in both browser and Node.js.
 - [muse-js](https://github.com/urish/muse-js) - Muse 1, Muse 2, and Muse S EEG Headset JavaScript Library (using Web Bluetooth).
 - [Human-ID](https://github.com/RienNeVaPlus/human-id) - Generates human readable identifier strings by chaning common (short) words of the english language.
+- [opentelemetry-instrumentations-js](https://github.com/justindsmith/opentelemetry-instrumentations-js) - JavaScript extensions for the OpenTelemetry project.
 
 ## Links
 

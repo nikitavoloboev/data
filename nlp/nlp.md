@@ -477,3 +477,4 @@
 - [FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT.
 - [Papers about Causal Inference and Language](https://github.com/causaltext/causal-text-papers)
 - [EET (Easy and Efficient Transformer)](https://github.com/NetEase-FuXi/EET) - Efficient PyTorch inference plugin focus on Transformer-based models with large model sizes and long sequences.
+- [Measuring Massive Multitask Language Understanding (2021)](https://arxiv.org/abs/2009.03300) ([Code](https://github.com/hendrycks/test))

@@ -526,3 +526,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [A decade of major cache incidents at Twitter](https://danluu.com/cache-incidents/) ([HN](https://news.ycombinator.com/item?id=30295542))
 - [How to store subscriptions? A practical guide and analysis of 3 selected databases (2022)](https://medium.com/schibsted-engineering/how-to-store-subscriptions-a-practical-guide-and-analysis-of-3-selected-databases-dcfd06b747a4) ([Reddit](https://www.reddit.com/r/programming/comments/spytkb/how_to_store_subscriptions_a_practical_guide_and/))
 - [Migrate To Graph](https://github.com/microsoft/MigrateToGraph) - Tool to migrate an existing database to a graph database.
+- [Vector (approximate nearest neighbor) databases are fairly underground still](https://twitter.com/bernhardsson/status/1492656898310606849)

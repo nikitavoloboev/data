@@ -205,6 +205,7 @@
 - [Syrupy](https://github.com/tophat/syrupy) - Sweeter pytest snapshot plugin.
 - [Pydantic-Factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation.
 - [flake8-assertive](https://github.com/jparise/flake8-assertive) - Flake8 unittest assert method checker.
+- [Klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library.
 
 ## Other
 

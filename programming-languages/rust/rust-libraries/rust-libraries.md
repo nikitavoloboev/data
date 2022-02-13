@@ -1426,6 +1426,7 @@
 - [xtra](https://github.com/Restioson/xtra) - Tiny, fast, and safe actor framework. Modelled around Actix.
 - [Human Time](https://github.com/tailhook/humantime) - Parser and formatter for std::time::{SystemTime, Duration}.
 - [bytecheck](https://github.com/rkyv/bytecheck) - Memory validation framework for Rust.
+- [sentry-contrib-breakpad](https://github.com/EmbarkStudios/sentry-contrib-rust) - Small library to integrate native crash dump handling with Sentry, without relying on sentry-native.
 
 ## Cargo Plugins
 
