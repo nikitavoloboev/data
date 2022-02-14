@@ -168,6 +168,6 @@
 - [Hindley-Milner Type Inference: A Practical Example (2014)](https://pfudke.wordpress.com/2014/11/20/hindley-milner-type-inference-a-practical-example-2/)
 - [Learning resources for type inference (2021)](https://www.reddit.com/r/ProgrammingLanguages/comments/rk4qnp/learning_resources_for_type_inference/)
 - [Basic Polymorphic Typechecking](http://lucacardelli.name/Papers/BasicTypechecking.pdf)
-- [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/)
+- [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/ss3w6n/an_accessible_introduction_to_type_theory_and/))
 - [Swapping arguments of variables in higher-order pattern unification](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification)
 - [Linearity and Uniqueness: An Entente Cordiale (2022)](https://starsandspira.ls/docs/esop22-draft.pdf)

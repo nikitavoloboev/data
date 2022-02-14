@@ -41,3 +41,4 @@
 - [Self-contained, portable perl binaries](https://github.com/skaji/relocatable-perl)
 - [Avoid Yoda conditions in Perl you should (2021)](https://phoenixtrap.com/2021/12/28/avoid-yoda-conditions-in-perl-you-should/) ([Lobsters](https://lobste.rs/s/ndnnvf/avoid_yoda_conditions_perl_you_should))
 - [Venus](https://github.com/cpanery/venus) - OO Standard Library for Perl 5. ([Lobsters](https://lobste.rs/s/94vv6t/venus_oo_standard_library_for_perl_5))
+- [Perl Saved the Human Genome Project (1996)](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) ([HN](https://news.ycombinator.com/item?id=30327812))

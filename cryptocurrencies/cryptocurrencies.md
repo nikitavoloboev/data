@@ -230,3 +230,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Binance Alpha Bot](https://github.com/duckdegen/apebot)
 - [David Rosenthal on cryptocurrencies (2022)](https://blog.dshr.org/2022/02/ee380-talk.html) ([HN](https://news.ycombinator.com/item?id=30310317))
 - [Zapper](https://zapper.fi/) - Manage your entire web3 portfolio from DeFi to NFTs and whatever comes next. ([Twitter](https://twitter.com/zapper_fi)) ([Tweet](https://twitter.com/medhakothari/status/1492602334601367556))
+- [Ask HN: What real world problem does cryptocurrency solve? (2022)](https://news.ycombinator.com/item?id=30329114)

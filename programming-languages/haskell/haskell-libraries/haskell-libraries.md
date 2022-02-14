@@ -42,6 +42,7 @@
 - [StrictCheck](https://github.com/kwf/StrictCheck) - Property-based random testing framework for observing, specifying, and testing the strictness behaviors of Haskell functions.
 - [Hspec](https://github.com/hspec/hspec) - Testing Framework for Haskell.
 - [generic-random](https://github.com/Lysxia/generic-random) - Generic random generators to implement Arbitrary instances for QuickCheck.
+- [Higher-order QuickCheck](https://github.com/Lysxia/quickcheck-higherorder) - QuickCheck extension for properties of higher-order values.
 
 ## CLI
 

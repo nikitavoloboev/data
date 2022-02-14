@@ -4,6 +4,7 @@
 
 ## OSS Remix apps
 
+- [Remix Template](https://github.com/QuentinWidlocher/remix-template) - Batteries included Remix template with Tailwind, Prisma and powerful form utils.
 - [Remix Starter](https://github.com/AnandChowdhary/remix-starter) - Remix starter with intuitive defaults, like support for internationalization and localized URLs.
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
 - [Tim's site](https://github.com/timc1/tim)
@@ -17,6 +18,11 @@
 - [Remix demo app with Fastly compute@edge adapter](https://github.com/miekapage/remix-with-fastly)
 - [Remix Starter](https://github.com/chiangs/remix-starter) - Starter repo for Remix, TypeScript, React-Testing-Library and linting configured using Yarn.
 - [Remix Wordle Clone](https://github.com/afonsoduarte/wordle-tutorial)
+- [Remix PWA](https://github.com/jacob-ebey/remix-pwa)
+- [Remix Cloudflare Prisma Example](https://github.com/jacobPARIS/remix-cloudflare-prisma)
+- [Remix + Cloudflare Workers + Prisma](https://github.com/marcomafessolli/remix-prisma-cloudflare-workers)
+- [Remix - Ink](https://github.com/one-aalam/remix-ink) - Crisp, minimal, personal blog theme for Remix.
+- [Remix React Native Web Starter](https://github.com/HorusGoul/remix-react-native-web-starter)
 
 ## Plugins
 

@@ -85,3 +85,4 @@
 - [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes.
 - [DietGPU](https://github.com/facebookresearch/dietgpu) - GPU-based lossless compression for numerical data.
 - [BGPQ: A Heap-Based Priority Queue Design for GPUs (2021)](https://dl.acm.org/doi/fullHtml/10.1145/3472456.3472463) ([Code](https://github.com/srush/torch-queue))
+- [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs.

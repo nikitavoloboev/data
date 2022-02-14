@@ -450,3 +450,4 @@ all: unset
 - [Aspect Ratio is Great (2022)](https://css-irl.info/aspect-ratio-is-great/) ([HN](https://news.ycombinator.com/item?id=30280210))
 - [cva](https://github.com/joe-bell/cva) - Class Variance Authority.
 - [CSSUI](https://github.com/zetareticoli/cssui) - Collection of interactive UI components in pure CSS.
+- [Hello, CSS Cascade Layers (2022)](https://ishadeed.com/article/cascade-layers/)

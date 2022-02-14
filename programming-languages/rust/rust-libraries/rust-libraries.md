@@ -34,6 +34,7 @@
 - [CtrlC](https://github.com/Detegr/rust-ctrlc) - Simple easy to use wrapper around Ctrl-C signal.
 - [expectrl](https://github.com/zhiburt/expectrl) - Library for automating and testing interactive applications.
 - [Rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
+- [Update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust. Checks for a new version on Crates.io, GitHub, and PyPI.
 
 ## Web
 
@@ -206,6 +207,7 @@
 - [FuzzyTrie](https://github.com/VictorBulba/fuzzy_trie) - Key-value collection to make fuzzy searches.
 - [codd](https://github.com/salmans/codd) - Library for evaluating typed relational expressions in a monotonically growing minimal database in memory.
 - [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust.
+- [OpenDAL](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
 
 ## Video
 
@@ -1427,6 +1429,9 @@
 - [Human Time](https://github.com/tailhook/humantime) - Parser and formatter for std::time::{SystemTime, Duration}.
 - [bytecheck](https://github.com/rkyv/bytecheck) - Memory validation framework for Rust.
 - [sentry-contrib-breakpad](https://github.com/EmbarkStudios/sentry-contrib-rust) - Small library to integrate native crash dump handling with Sentry, without relying on sentry-native.
+- [Queen](https://github.com/danclive/queen) - Message bus.
+- [queen-io](https://github.com/danclive/queen-io) - I/O library for Rust.
+- [approx](https://github.com/brendanzab/approx) - Approximate floating point equality comparisons and assertions.
 
 ## Cargo Plugins
 
