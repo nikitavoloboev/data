@@ -774,3 +774,4 @@
 - [bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command.
 - [Faster Python calculations with Numba: 2 lines of code, 13× speed-up (2022)](https://pythonspeed.com/articles/numba-faster-python/)
 - [uhashring](https://github.com/ultrabug/uhashring) - Consistent hashing in pure Python.
+- [pypistats](https://github.com/hugovk/pypistats) - Command-line interface to PyPI Stats API to get download stats for Python packages.
