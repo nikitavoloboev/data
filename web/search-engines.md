@@ -202,3 +202,4 @@
 - [Customizing web search](https://notes.npilk.com/custom-search)
 - [A Gentle Intro to Vector Search for Developers](https://www.pinecone.io/learn/vector-search-basics/)
 - [The web starts on page four (2022)](https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/) ([HN](https://news.ycombinator.com/item?id=30166108))
+- [Google Search Is Dying (2022)](https://dkb.io/post/google-search-is-dying) ([HN](https://news.ycombinator.com/item?id=30347719)) ([Reddit](https://www.reddit.com/r/programming/comments/st99zd/google_search_is_dying/))

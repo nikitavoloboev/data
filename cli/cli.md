@@ -54,7 +54,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [CLI Guidelines](https://clig.dev/) - Guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. ([Code](https://github.com/cli-guidelines/cli-guidelines)) ([HN](https://news.ycombinator.com/item?id=25304257)) ([Lobsters](https://lobste.rs/s/bsgtju/cli_guidelines))
 - [nq](https://github.com/leahneukirchen/nq) - Utils for creating lightweight job queue systems. ([HN](https://news.ycombinator.com/item?id=25920517))
 - [Building Rich Terminal Dashboards (2021)](https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/) ([HN](https://news.ycombinator.com/item?id=26149488))
-- [frawk](https://github.com/ezrosent/frawk) - JITted and SIMD-optimized AWK written in Rust. ([Lobsters](https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written))
+- [frawk](https://github.com/ezrosent/frawk) - JITted and SIMD-optimized AWK written in Rust. ([Lobsters](https://lobste.rs/s/bdzlsu/frawk_jitted_simd_optimized_awk_written)) ([HN](https://news.ycombinator.com/item?id=30343373))
 - [How to Handle Secrets on the Command Line (2021)](https://smallstep.com/blog/command-line-secrets/) ([HN](https://news.ycombinator.com/item?id=27490885))
 - [Modern Unix](https://github.com/ibraheemdev/modern-unix) - Collection of modern/faster/saner alternatives to common unix commands.
 - [Awesome TUIs](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces.
@@ -89,3 +89,6 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Grep flags – the good stuff](https://zwischenzugs.com/2022/02/02/grep-flags-the-good-stuff/) ([HN](https://news.ycombinator.com/item?id=30179533))
 - [SnipKit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing code snippets without leaving the terminal.
 - [pz](https://github.com/CZ-NIC/pz) - Easily handle CLI operation via Python instead of regular Bash programs. ([HN](https://news.ycombinator.com/item?id=30302955))
+- [Scaffolder](https://github.com/galElmalah/scaffolder) - Increasing dev velocity and standardizing file conventions.
+- [crispr](https://github.com/yoav-lavi/crispr) - CLI tool allowing to scaffold a project from a template with a .crispr.{toml,json} configuration file.
+- [envy](https://github.com/mre/envy) - Sets environment variables when you enter a directory.

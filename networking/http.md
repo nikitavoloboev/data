@@ -198,3 +198,7 @@
 - [Observing HTTP/2 Traffic Is Hard, but eBPF Can Help (2022)](https://blog.px.dev/ebpf-http2-tracing/) ([HN](https://news.ycombinator.com/item?id=30153493))
 - [HTTPie](https://github.com/httpie/httpie) - Human-friendly CLI HTTP client for the API era.
 - [HTTP/3: Everything you need to know about the next-generation web protocol](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol) ([HN](https://news.ycombinator.com/item?id=30317218))
+- [Fortio](https://github.com/fortio/fortio) - Load testing library, command line tool, advanced echo server and web UI in go.
+- [resto](https://github.com/abdfnx/resto) - CLI app can send pretty HTTP & API requests with TUI.
+- [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server.
+- [Ain](https://github.com/jonaslu/ain) - HTTP API client for the terminal.

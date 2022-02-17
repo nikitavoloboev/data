@@ -29,6 +29,7 @@ My always open tabs are:
 ## Notes
 
 - [Can opt click to move cursor inside a command.](https://twitter.com/leonte_dev/status/1264140864751878144)
+- [Natural Text Editing setting in iTerm is useful](https://twitter.com/bunopus/status/1493876821548584960)
 
 ## Links
 
@@ -39,3 +40,4 @@ My always open tabs are:
 - [iTomate](https://github.com/kamranahmedse/itomate) - Automate your iTerm layouts and session setup.
 - [Useful notifications in iTerm2 (2020)](https://cgamesplay.com/post/2020/12/09/iterm-notifications/)
 - [Remote pbcopy for iTerm2](https://github.com/skaji/remote-pbcopy-iterm2)
+- [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi) ([HN](https://news.ycombinator.com/item?id=30364682))

@@ -182,3 +182,4 @@
 - [Ask HN: Browser-extension creators, how do you write for multiple browsers? (2022)](https://news.ycombinator.com/item?id=30314053)
 - [Awesome Web Browser Stuff](https://github.com/ZeroX-DG/awesome-browser)
 - [Moon](https://github.com/ZeroX-DG/moon) - Hobby web browser developed from scratch.
+- [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) - Browser extension that generates Playwright and Puppeteer test scripts from your interactions.

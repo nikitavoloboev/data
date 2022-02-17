@@ -144,3 +144,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Fly Edge](https://github.com/superfly/edge) - Set of useful libraries for Edge Apps. Run locally, write tests, and integrate it into your deployment process.
 - [Netlify Labs](https://github.com/netlify/labs) - Documentation and samples for Netlify Labs features.
 - [Gigamono](https://www.gigamono.com/) - Secure Multi-Tenant Serverless Framework for Building Workspaces. ([GitHub](https://github.com/gigamono)) ([Code](https://github.com/gigamono/gigamono))
+- [Compute@Edge static content starter kit for Rust](https://github.com/fastly/compute-starter-kit-rust-static-content) - Speed up your websites with a Compute@Edge environment that demonstrates serving content from a static bucket, redirects, security and performance headers, and a 404 page.

@@ -195,3 +195,5 @@
 - [Auth0 CLI ](https://github.com/auth0/auth0-cli) - Build, test, troubleshoot and manage your integration with Auth0 directly from your terminal.
 - [ORY Oathkeeper](https://github.com/ory/oathkeeper) - Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules.
 - [Cognito + Google federated identity](https://github.com/awesome-cdk/cognito-google-federation-example) - Use Cognito's Google federated identity integration to allow your app users to login with their Google account.
+- [Userfront](https://userfront.com/) - Auth without complexity. ([HN](https://news.ycombinator.com/item?id=30328908))
+- [Aserto](https://www.aserto.com/) - Cloud-Native authorization as a service. ([Article](https://www.aserto.com/blog/aserto-the-developer-api-for-permissions-and-rbac-is-open-to-all)) ([HN](https://news.ycombinator.com/item?id=30361262))

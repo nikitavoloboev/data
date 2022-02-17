@@ -618,3 +618,11 @@
 - [kubewatch](https://github.com/bitnami-labs/kubewatch) - Watch k8s events and trigger Handlers.
 - [kubectl-neat-diff](https://github.com/sh0rez/kubectl-neat-diff) - De-clutter your kubectl diff output using kubectl-neat.
 - [kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [Fast-Kubernetes](https://github.com/omerbsezer/Fast-Kubernetes) - Covers Kubernetes Environment with LABs: Kubectl, Pod, Deployment, Service, ConfigMap, ReplicaSet, PV, PVC, Secret, etc.
+- [k3OS](https://github.com/rancher/k3os) - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
+- [Last Week in Kubernetes Development Newsletter](https://lwkd.info/) ([Code](https://github.com/kubernetes-sigs/lwkd))
+- [SMI SDK for Go](https://github.com/servicemeshinterface/smi-sdk-go) - Service Mesh Interface SDK for Go.
+- [KubeOrbit](https://kubeorbit.io/) - Test your application on Kubernetes in a brand new simple way. ([Code](https://github.com/teamcode-inc/kubeorbit))
+- [Trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
+- [Machine API Operator](https://github.com/openshift/machine-api-operator) - Manages the lifecycle of specific purpose CRDs, controllers and RBAC objects that extend the Kubernetes API.
+- [Kuber](https://github.com/JuliaComputing/Kuber.jl) - Julia Kubernetes Client.

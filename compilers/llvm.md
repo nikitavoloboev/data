@@ -104,3 +104,4 @@
 - [llvm-c-search](https://github.com/alt-romes/llvm-c-search) - Terminal interface to search the LLVM-C API.
 - [Instrew](https://github.com/aengelke/instrew) - High performance LLVM-based dynamic binary instrumentation framework.
 - [bruh](https://github.com/NinjaLikesCheez/bruh) - Tool to make LLVM IR more human readable.
+- [Summus](https://github.com/igor84/summus) - Simple compiler frontend using LLVM as backend. Can easily be used as a starting point for any kind of compiler.

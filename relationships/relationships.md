@@ -154,3 +154,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Open marriage advice](https://www.reddit.com/r/sexover30/comments/s51il9/open_marriage_advice/)
 - [Даша Касьян: свободные отношения — это не для всех (2022)](https://www.youtube.com/watch?v=wCho_lSx4OI)
 - [Ask HN: What is wrong with dating in 2022?](https://news.ycombinator.com/item?id=30239331)
+- [What do you love most about women?](https://www.reddit.com/r/AskMen/comments/ssdfkr/what_do_you_love_most_about_women/)
+- [Love Is Biological Bribery](https://nautil.us/love-is-biological-bribery-14058/) ([HN](https://news.ycombinator.com/item?id=30358511))

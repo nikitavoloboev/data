@@ -4,9 +4,8 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 
 ## Interesting cameras
 
+- [Leica M11](https://www.youtube.com/watch?v=_9Dp-a91WIw)
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
-- [Leica Q2](https://us.leica-camera.com/Photography/Leica-Q/Leica-Q2)
-- [Leica M10P](https://www.nivo-schweitzer.nl/leica-20021-m10-p-body-black-chrome-finish/p23608)
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)
 
@@ -185,3 +184,6 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Researchers shrink camera to the size of a salt grain](https://www.designfax.net/cms/dfx/opens/article-view-dfx.php?nid=4&bid=1189&et=featurearticle&pn=03) ([HN](https://news.ycombinator.com/item?id=30164501))
 - [iPhone 13 Pro: The Edge of Intelligent Photography (2022)](https://lux.camera/iphone-13-pro-camera-app-intelligent-photography/)
 - [Files](https://www.files.gallery/) - Single-file photo gallery and file manager. ([HN](https://news.ycombinator.com/item?id=30233635))
+- [The only cameras I have left (2022)](https://www.youtube.com/watch?v=tZghj62cpak)
+- [KEH Camera](https://www.keh.com/) - Used Cameras, Lenses & Gear For Sale.
+- [Matt Day - YouTube](https://www.youtube.com/c/mattdayphoto/videos)

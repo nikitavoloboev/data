@@ -94,6 +94,10 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Tokenary](https://github.com/zeriontech/Tokenary) - Crypto wallet for  Safari. ([Web](https://tokenary.io/))
 - [Wordle in SwiftUI](https://github.com/mischa-hildebrand/Wordle)
 - [SwiftUI-MVVM-C](https://github.com/huynguyencong/SwiftUI-MVVM-C) - iOS template project using SwiftUI, Combine and MVVM-C software architecture.
+- [first.fm](https://github.com/angristan/firstfm-ios) - Alternative last.fm client for iOS made with SwiftUI.
+- [GoMap](https://github.com/bryceco/GoMap) - OpenStreetMap editor for iPhone/iPad.
+- [Magnetar](https://github.com/Qata/Magnetar) - Simple yet powerful file transfer remote for iOS 15 and above.
+- [Pokedex](https://github.com/ronanociosoig/Tuist-Pokedex) - Simple 4-screen iOS app is a Swift code example to demonstrate a micro-feature approach to modularization based on Tuist.
 
 ## Other
 
@@ -406,3 +410,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser.
 - [Clutch](https://github.com/KJCracks/Clutch) - High-speed iOS decryption tool.
 - [Туториалы для iOS разработчиков](https://sparrowcode.io/ru)
+- [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x (2022)](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92) ([Code](https://github.com/ronanociosoig/TuistHavana))

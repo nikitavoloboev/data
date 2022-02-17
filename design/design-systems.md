@@ -168,3 +168,4 @@
 - [HyperTheme Editor](https://www.hyperthe.me/) - Most advanced visual theme editor for Chakra-UI. ([Code](https://github.com/Hyperting/hypertheme-editor))
 - [Documenting Design Systems In NextJS](https://github.com/souporserious/documenting-systems-in-nextjs)
 - [Design Systems Demystified](https://www.designsystem.tools/)
+- [The Practical Guide to Naming Design Tokens (2022)](https://uxdesign.cc/naming-design-tokens-9454818ed7cb)

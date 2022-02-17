@@ -2,16 +2,15 @@
 
 ## Tech
 
-- [Macbook Pro 16" 64GB RAM, 1TB SSD](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch)
-- [iPhone 12 Pro 128GB](https://www.apple.com/iphone-12-pro/)
-- [iPad Pro 11" 64GB](https://www.apple.com/ipad-pro/) & [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation)
-- [Apple Watch 6](https://www.apple.com/watch/)
+- [Macbook Pro 16" 64GB RAM, 2TB SSD](https://www.apple.com/macbook-pro-14-and-16/)
+- [iPhone 13 Pro 128GB](https://www.apple.com/iphone/)
+- [iPad Pro 11" 128GB](https://www.apple.com/shop/buy-ipad/ipad-pro) & [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation)
+- [Apple Watch 7](https://www.apple.com/watch/)
 - [AirPods Pro](https://www.apple.com/airpods-pro/)
 - [AirPods Max](https://www.apple.com/airpods-max/)
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)
 - [PS5](https://www.playstation.com/en-us/ps5/) & [Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/) & [Headset](https://www.playstation.com/en-us/accessories/pulse-3d-wireless-headset/)
 - [OP-1 synthesizer](https://teenage.engineering/products/op-1)
-- [Leica Q2](https://us.leica-camera.com/Photography/Leica-Q/Leica-Q2)
 - [Oculus Quest 2](https://www.oculus.com/quest-2/)
 
 ## Travel

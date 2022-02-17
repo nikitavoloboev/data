@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch.
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) seems great.
 
 ## Notes
 
@@ -677,3 +677,13 @@
 - [Understanding Black-box Predictions via Influence Functions (2020)](https://arxiv.org/abs/1703.04730) ([PyTorch Code](https://github.com/nimarb/pytorch_influence_functions))
 - [Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)](https://github.com/facebookresearch/ppuda)
 - [Language-Agnostic Representation Learning of Source Code from Structure and Context (2021)](https://arxiv.org/abs/2103.11318) ([Code](https://github.com/danielzuegner/code-transformer))
+- [Machine Learning Open Source University](https://github.com/d0r1h/ML-University)
+- [Exploring hyperparameter meta-loss landscapes with Jax (2021)](http://lukemetz.com/exploring-hyperparameter-meta-loss-landscapes-with-jax/)
+- [Transformers Can Do Bayesian Inference (2022)](https://arxiv.org/abs/2112.10510)
+- [Norm-based Analysis of Transformer](https://github.com/gorokoba560/norm-analysis-of-transformer) - Implementations for 2 papers introducing to analyze Transformers using vector norms.
+- [Point-NeRF: Point-based Neural Radiance Fields (2022)](https://xharlie.github.io/projects/project_sites/pointnerf/index.html) ([Code](https://github.com/Xharlie/pointnerf))
+- [ML training compute has been doubling every 6 months since 2010](https://twitter.com/ohlennart/status/1493521176286609412) ([HN](https://news.ycombinator.com/item?id=30348925))
+- [Using JAX in 2022](https://www.assemblyai.com/blog/why-you-should-or-shouldnt-be-using-jax-in-2022/) ([HN](https://news.ycombinator.com/item?id=30349687))
+- [Should We Be Using JAX in 2022?](https://www.reddit.com/r/MachineLearning/comments/st8b11/d_should_we_be_using_jax_in_2022/)
+- [Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications](https://book.sciml.ai/) ([Code](https://github.com/SciML/SciMLBook))
+- [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) - Resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.

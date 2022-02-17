@@ -145,3 +145,4 @@
 - [ADE20K Dataset](https://groups.csail.mit.edu/vision/datasets/ADE20K/) - Composed of more than 27K images from the SUN and Places databases. ([Code](https://github.com/CSAILVision/ADE20K))
 - [Datasets of Automatic Keyphrase Extraction](https://github.com/LIAAD/KeywordExtractor-Datasets)
 - [Awesome Forests](https://github.com/blutjens/awesome-forests) - Curated list of ground-truth forest datasets for the machine learning and forestry community.
+- [PushShift Data Dumps](http://files.pushshift.io/)

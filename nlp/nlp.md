@@ -1,5 +1,7 @@
 # Natural language processing
 
+[spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. Reading [Natural Language Processing with Transformers Book](https://transformersbook.com/).
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
@@ -478,3 +480,8 @@
 - [Papers about Causal Inference and Language](https://github.com/causaltext/causal-text-papers)
 - [EET (Easy and Efficient Transformer)](https://github.com/NetEase-FuXi/EET) - Efficient PyTorch inference plugin focus on Transformer-based models with large model sizes and long sequences.
 - [Measuring Massive Multitask Language Understanding (2021)](https://arxiv.org/abs/2009.03300) ([Code](https://github.com/hendrycks/test))
+- [A Theoretical Analysis of the Repetition Problem in Text Generation (2021)](https://arxiv.org/abs/2012.14660) ([Code](https://github.com/fuzihaofzh/repetition-problem-nlg))
+- [TransformerSum](https://github.com/HHousen/TransformerSum) - Models to perform neural summarization (extractive and abstractive) using machine learning transformers and a tool to convert abstractive summarization datasets to the extractive task.
+- [Natural Language Processing with Transformers Book](https://transformersbook.com/)
+- [Transformer Memory as a Differentiable Search Index (2022)](https://arxiv.org/abs/2202.06991) ([HN](https://news.ycombinator.com/item?id=30356264)) ([Tweet](https://twitter.com/arankomatsuzaki/status/1493767303661383682))
+- [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (2020)](https://arxiv.org/abs/2003.10555) ([Code](https://github.com/lucidrains/electra-pytorch))

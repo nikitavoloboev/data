@@ -51,6 +51,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [What looks like success is often just patience.](https://twitter.com/ShaneAParrish/status/1462038767569567753)
 - [Being patient doesn't get you what you want.](https://www.youtube.com/watch?v=EQBttJqOdAE)
 - [It is possible to commit no mistakes and still lose. That is not a weakness. That is life.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
+- [You only fail when you choose to give up, everything else is just the journey to success.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/stgmye/what_are_some_things_a_girl_should_do_during_her/)
 
 ## Links
 

@@ -97,6 +97,9 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Matt Ferraro](https://mattferraro.dev/)
 - [Arvi Teikari](http://www.hempuli.com/blogblog/)
 - [Sylvain Kerkour](https://kerkour.com/) ([Code](https://github.com/skerkour/kerkour.com))
+- [Luke Metz](http://lukemetz.com/blog/)
+- [Yoshua Wuyts](https://blog.yoshuawuyts.com/)
+- [Steve Ruiz](https://www.steveruiz.me/)
 
 ## Notes
 
@@ -204,3 +207,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Vortex](https://github.com/hydralite/vortex) - Hyper-extensible library to build blogs crazy fast.
 - [Ask HN: Great Blogs by Programmers (2022)](https://news.ycombinator.com/item?id=30245247)
 - [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - Curated list of engineering blogs of startup and enterprise companies.
+- [Scientific blog template based on AI Summer](https://github.com/The-AI-Summer/blog-template)

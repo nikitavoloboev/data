@@ -216,3 +216,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Ask HN: Best hosted alternative to Google Workspace for email? (2022)](https://news.ycombinator.com/item?id=30223538)
 - [Cuttlefish](https://cuttlefish.io/) - Transactional email server with a lovely web interface. ([Code](https://github.com/mlandauer/cuttlefish))
 - [Hackable Markdown to Email Bridge](https://github.com/dkotik/mdsend) - Send markdown files as MIME-encoded electronic mail.
+- [Shortwave](https://www.shortwave.com/) - Email smarter & faster with a reinvented experience for your Gmail. ([Intro](https://www.shortwave.com/blog/introducing-shortwave/)) ([HN](https://news.ycombinator.com/item?id=30349243))

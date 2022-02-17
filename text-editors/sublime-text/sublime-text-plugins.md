@@ -76,6 +76,7 @@ Below is a list of plugins I use.
 ## Theme
 
 - [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Light color scheme with minimal amount of highlighting.
+- [rsms sublime text theme](https://github.com/rsms/sublime-theme)
 
 ## Git
 

@@ -18,3 +18,5 @@
 - [Temporal Python SDK](https://github.com/temporalio/sdk-python)
 - [Temporal microservices](https://github.com/guntenbein/temporal_microservices) - Temporal workflow for orchestration, service discovery, load balancing of go microservices.
 - [Temporal Starter](https://github.com/guntenbein/temporal_starter) - Allows to start any activity or workflow by HTTP in a universal way.
+- [Temporal raises $103M in Series B funding (2022)](https://docs.temporal.io/blog/series-b-announcement-open-letter/) ([HN](https://news.ycombinator.com/item?id=30365301))
+- [Maxim and Samar on Gremlin's Build Things Podcast (2021)](https://docs.temporal.io/blog/gremlin-podcast/)

@@ -182,3 +182,6 @@
 - [Cost of Attrition (2022)](https://benjiweber.co.uk/blog/2022/01/12/cost-of-attrition/) ([HN](https://news.ycombinator.com/item?id=29923310))
 - [Performance Reviews for Software Developers – How I Do Them In a (Hopefully) Fair Way](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 - [Managing People (2022)](https://klinger.io/posts/managing-people-%F0%9F%A4%AF) ([HN](https://news.ycombinator.com/item?id=30240428))
+- [How to manage software developers without micromanaging (2022)](https://www.infoworld.com/article/3649773/how-to-manage-software-developers-without-micromanaging.html) ([HN](https://news.ycombinator.com/item?id=30332172))
+- [Best resources for founders to learn to become better managers (2022)](https://twitter.com/tylertringas/status/1493634477922263045)
+- [How do you make the most of 1:1 time for your direct report?](https://twitter.com/ramannoodlez/status/1492678565850189825)

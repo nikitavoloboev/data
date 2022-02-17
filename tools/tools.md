@@ -154,6 +154,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Matter](https://matterapp.com/) - Recognize your team members with Kudos, gather continuous feedback, and so much more.
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
+- [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
@@ -272,7 +273,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Readup](https://readup.com/) - Social Reading.
 - [Stackby](https://stackby.com/) - Spreadsheets Databases and APIs in single workspace. ([HN](https://news.ycombinator.com/item?id=26601502))
 - [Bloom](https://bloom.sh/) - All-in-one workspace. Open Source Inbox, Calendar, Files, Contacts & much more. ([Code](https://github.com/skerkour/bloom))
-- [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk))
+- [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk)) ([Go SDK](https://github.com/configcat/go-sdk))
 - [OnlineOrNot](https://onlineornot.com/) - Know your site is down before your customers do. ([How it was built](https://twitter.com/RozenMD/status/1364881512500404224))
 - [Sextant](https://github.com/mattpocock/sextant) - GUI that lets you chart your application flows, then implement them with generated code.
 - [Windsor](https://windsor.io/) - Simplifying User Data.
@@ -339,7 +340,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Eraser](https://www.tryeraser.com/home) - Make Team Meetings Visual.
 - [Glitterly](https://glitterly.app/) - Create and share videos of your app. ([HN](https://news.ycombinator.com/item?id=24017261))
 - [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
-- [Svix](https://www.svix.com/) - Webhooks as a Service. ([HN](https://news.ycombinator.com/item?id=27528202)) ([Svix-KSUID (Rust)](https://github.com/svix/rust-ksuid))
+- [Svix](https://www.svix.com/) - Webhooks as a Service. ([HN](https://news.ycombinator.com/item?id=27528202)) ([Svix-KSUID (Rust)](https://github.com/svix/rust-ksuid)) ([Code](https://github.com/svix/svix-webhooks/)) ([HN](https://news.ycombinator.com/item?id=30347858))
 - [Luma Profile](https://lu.ma/new) - Best Homepage for Creators. Show off your work, collect email addresses, and sell products.
 - [Butter](https://butter.us/) - Workshops as smooth as butter.
 - [Linktree](https://linktr.ee/) - Connect audiences to all of your content with just one link.
@@ -655,3 +656,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [Hidden Tools](https://www.hiddentools.dev/) - Discover a wide collection of unique tools. ([Code](https://github.com/heybereket/hiddentools))
 - [You want HOW MANY years experience?!](https://howoldisit.glitch.me/)
+- [What's your personal productivity tech stack](https://twitter.com/DailyDevTips1/status/1492838765739622404)

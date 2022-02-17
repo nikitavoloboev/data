@@ -180,3 +180,5 @@
 - [Scaling StyleGAN to Large Diverse Datasets](https://sites.google.com/view/stylegan-xl/) ([Code](https://github.com/autonomousvision/stylegan_xl))
 - [Fast and accurate learned multiresolution dynamical downscaling for precipitation (2021)](https://arxiv.org/abs/2101.06813) ([Code](https://github.com/lzhengchun/DSGAN))
 - [Upscale an image by a factor of 4, while generating photo-realistic details](https://github.com/IBM/MAX-Image-Resolution-Enhancer)
+- [GAN Ensembling](https://github.com/chail/gan-ensembling) - Invert and perturb GAN images for test-time ensembling.
+- [EditGAN: High-Precision Semantic Image Editing (2021)](https://nv-tlabs.github.io/editGAN/) ([Code](https://github.com/nv-tlabs/editGAN_release))

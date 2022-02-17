@@ -209,3 +209,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Ask HN: Favorite Podcast Episode of 2021?](https://news.ycombinator.com/item?id=29703564)
 - [Podcast.ru](https://podcast.ru/) - Создаёт удобную и красивую страницу для вашего подкаста со ссылками на все популярные сервисы.
 - [TwitchToPodcastRSS](https://github.com/madiele/TwitchToPodcastRSS) - Converts a twitch channel in a full-blown podcast.
+- [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify podcast to RSS proxy. ([HN](https://news.ycombinator.com/item?id=30332141))

@@ -98,3 +98,5 @@
 - [Pget](https://github.com/Code-Hex/pget) - Fastest file download client.
 - [Wormhole GUI](https://github.com/Jacalz/wormhole-gui) - Cross-platform application for easy encrypted sharing of files, folders, and text between devices.
 - [Firefiles](https://github.com/faisalsayed10/firefiles) - Get your own file hosting service in minutes.
+- [tran](https://github.com/abdfnx/tran) - Securely transfer and send anything between computers with TUI.
+- [instal](https://github.com/abdfnx/instal) - Install any binary app from a script URL.

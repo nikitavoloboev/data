@@ -131,3 +131,4 @@
 - [Color-space](https://github.com/colorjs/color-space) - Math & data behind color spaces and color conversions.
 - [Leonardo](https://github.com/adobe/leonardo) - Generate colors based on a desired contrast ratio.
 - [A Pixel's Color](https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md) ([HN](https://news.ycombinator.com/item?id=30162709))
+- [hue.tools](https://hue.tools/) - Open-source toolbox for colors. ([Code](https://github.com/pabueco/hue.tools)) ([HN](https://news.ycombinator.com/item?id=30362112))

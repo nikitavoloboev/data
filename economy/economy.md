@@ -131,3 +131,5 @@
 - [How We Broke the Supply Chain (2022)](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)
 - [We Were Warned About the Ports (2022)](https://prospect.org/economy/we-were-warned-about-the-ports/) ([Tweet](https://twitter.com/alex_sammon/status/1489269627582664707))
 - [U.S. is considering a radical rethinking of the dollar for today's digital world (2022)](https://www.npr.org/2022/02/06/1072406109/digital-dollar-federal-reserve-apple-pay-venmo-cbdc) ([HN](https://news.ycombinator.com/item?id=30239803))
+- [Macrotrends](http://www.macrotrends.net/) - Premier Research Platform for Long Term Investors.
+- [economy](https://github.com/williammoran/economy) - Economy simulator library in Go.

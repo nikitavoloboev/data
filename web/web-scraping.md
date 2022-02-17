@@ -68,6 +68,7 @@
 - [Metascraper](https://github.com/microlinkhq/metascraper) - Scrape data from websites using Open Graph, HTML metadata & fallbacks. ([Docs](https://metascraper.js.org/#/))
 - [Instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram. ([Docs](https://instaloader.github.io/))
 - [trafilatura](https://github.com/adbar/trafilatura) - Manage URLs and scrape main text and metadata.
+- [Go-Trafilatura](https://github.com/markusmobius/go-trafilatura) - Go package and command-line tool which seamlessly downloads, parses, and scrapes web page data.
 - [htmldate](https://github.com/adbar/htmldate) - Find the publication date of web pages.
 - [Filtering links to gather texts on the web (2020)](http://adrien.barbaresi.eu/blog/link-filtering-courlan-python.html)
 - [Evaluating scraping and text extraction tools for Python (2020)](http://adrien.barbaresi.eu/blog/evaluating-text-extraction-python.html)
@@ -149,3 +150,5 @@
 - [Xidel](https://github.com/benibela/xidel) - Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.
 - [web-poet](https://github.com/scrapinghub/web-poet) - Web scraping Page Objects core library.
 - [Are Product Hunt's featured products still online today? (2022)](https://www.scrapingbee.com/blog/producthunt-cemetery/) ([HN](https://news.ycombinator.com/item?id=30274450))
+- [html2data](https://github.com/msoap/html2data) - Library and cli for extracting data from HTML via CSS selectors.
+- [Hyperlink](https://github.com/Munter/hyperlink) - Detect invalid and inefficient links on your webpages. Works with local files or websites, on the command line and as a node library.

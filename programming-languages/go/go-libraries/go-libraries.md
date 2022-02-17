@@ -66,6 +66,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Mango](https://github.com/muesli/mango) - man-page generator for the Go flag, pflag, and cobra packages.
 - [Mango Kong](https://github.com/alecthomas/mango-kong) - Allows Kong packages to generate man pages using Mango.
 - [go-spin](https://github.com/tj/go-spin) - Terminal spinner package for Go.
+- [TCG](https://github.com/msoap/tcg) - Terminal cell graphics library.
 
 ## Test
 
@@ -114,6 +115,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Loverage](https://github.com/kovetskiy/loverage) - Let your tests describe your program behavior.
 - [chameleon](https://github.com/nickpresta/chameleon) - Caching reverse proxy for testing written in Go.
 - [briefpg](https://github.com/danielbprice/briefpg) - Temporary PostgreSQL Instances for Unit Tests.
+- [go-carpet](https://github.com/msoap/go-carpet) - Show test coverage in terminal for Go source files.
 
 ## Web
 
@@ -263,6 +265,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Go JOSE](https://github.com/square/go-jose) - Implementation of JOSE standards (JWE, JWS, JWT) in Go.
 - [gorouter](https://github.com/vardius/gorouter) - Go Server/API micro framework, HTTP request router, multiplexer, mux.
 - [graceful](https://github.com/ory/graceful) - Best practice http server set up that supports graceful shutdown.
+- [Req](https://github.com/imroc/req) - Simplified Go HTTP client library with Black Magic, Less code and More efficiency.
+- [Turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go.
+- [Huma](https://github.com/danielgtaylor/huma) - Modern, simple, fast & opinionated REST API framework for Go with batteries included.
 
 ## GraphQL
 
@@ -383,7 +388,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [ql](https://gitlab.com/cznic/ql) - Pure Go embedded SQL database. ([HN](https://news.ycombinator.com/item?id=30130938))
 - [Tables-to-Go](https://github.com/fraenky8/tables-to-go) - Convert your database tables to structs easily.
 - [metricsql](https://github.com/VictoriaMetrics/metricsql) - Standalone PromQL and MetricsQL parser.
-- [gen](https://github.com/smallnest/gen) - Converts a database into gorm structs and RESTful api.
+- [gen](https://github.com/smallnest/gen) - Converts a database into gorm structs and RESTful API.
+- [Scribble](https://github.com/sdomino/scribble) - Tiny JSON database in Go.
+- [godb](https://github.com/samonzeweb/godb) - Go SQL query builder and struct mapper.
 
 ## ML
 
@@ -595,7 +602,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
-- [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib))
+- [ent](https://github.com/ent/ent) - Simple, yet powerful entity framework for Go, that makes it easy to build and maintain applications with large data-models. ([Web](https://entgo.io/)) ([Docs](https://entgo.io/docs/getting-started)) ([GraphQL setup](https://github.com/a8m/ent-graphql-example)) ([entcache](https://github.com/ariga/entcache)) ([ent-contrib](https://github.com/ent/contrib)) ([ogent - Ent Extension to integrate ogen](https://github.com/ariga/ogent))
 - [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 - [gnet](https://github.com/panjf2000/gnet) - High-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.
@@ -1315,12 +1322,15 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [nexus](https://github.com/gammazero/nexus) - Full-feature WAMP v2 router and client written in Go.
 - [social-go](https://github.com/mtlynch/social-go) - Go parser for various social media handles and URLs.
 - [xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go. An extension for the standard sync package.
+- [dd-trace-go](https://github.com/DataDog/dd-trace-go) - Go tracing package for Datadog APM.
+- [byline Reader](https://github.com/msoap/byline) - Reading and processing data from a io.Reader line by line. Can add UNIX text processing principles to its Reader (like with awk, grep, sed ...).
+- [Go Type Tools](https://github.com/eloonstra/go-type-tools) - Library containing useful functions for working with Go types like filters, union, intersection and more.
 
 ## Links
 
 - [pkg.go.dev](https://pkg.go.dev/) - Website for discovering and evaluating Go packages and modules. ([Code](https://github.com/golang/pkgsite))
 - [GoDoc.org](https://godoc.org/) - Hosts documentation for Go packages. Not maintained. ([Code](https://github.com/golang/gddo))
-- [GoDocs.io](https://godocs.io/) - Hosts documentation for Go packages. Maintained. ([Code](https://sr.ht/~sircmpwn/godocs.io/))
+- [GoDocs.io](https://godocs.io/) - Hosts documentation for Go packages. Maintained. ([Code](https://sr.ht/~sircmpwn/godocs.io/)) ([godocs.io one year later](https://adnano.co/2022/02/10/godocs.io-one-year-later/)) ([HN](https://news.ycombinator.com/item?id=30345522))
 - [Awesome Go](https://github.com/avelino/awesome-go)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.
@@ -1367,3 +1377,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [The other sync package (2021)](https://ketansingh.me/posts/golang-x-sync/)
 - [Pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit in Go.
 - [ogen](https://ogen.dev/docs/intro) - Powerful and fast OpenAPI v3 code generator for Go. ([Docs Code](https://github.com/ogen-go/web))
+- [godoc2md](https://github.com/WillAbides/godoc2md) - Creates a markdown representation of a package's godoc.
+- [godoc2md](https://github.com/miekg/godoc2md) - Simple translation from godoc to markdown.
+- [gosimports](https://github.com/rinchsan/gosimports) - Simpler goimports.

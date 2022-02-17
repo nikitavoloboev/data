@@ -1,6 +1,6 @@
 # TypeScript libraries
 
-I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai).
+I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai). [ncu](https://github.com/raineorshine/npm-check-updates) is nice for updating packages.
 
 ## DB
 
@@ -322,6 +322,13 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [muse-js](https://github.com/urish/muse-js) - Muse 1, Muse 2, and Muse S EEG Headset JavaScript Library (using Web Bluetooth).
 - [Human-ID](https://github.com/RienNeVaPlus/human-id) - Generates human readable identifier strings by chaning common (short) words of the english language.
 - [opentelemetry-instrumentations-js](https://github.com/justindsmith/opentelemetry-instrumentations-js) - JavaScript extensions for the OpenTelemetry project.
+- [Resize Observer](https://github.com/juggle/resize-observer) - Polyfills the ResizeObserver API.
+- [Effector History](https://github.com/Kelin2025/effector-history) - Utility library that implements undo/redo feature for you.
+- [ts-dependent-types](https://github.com/yoav-lavi/ts-dependent-types) - Experimental collection of dependent type definitions in TypeScript.
+- [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
+- [jsSHA](https://github.com/Caligatio/jsSHA) - TypeScript/JavaScript streaming implementation of the complete Secure Hash Standard (SHA) family.
+- [miniplex](https://github.com/hmans/miniplex) - Joyfully minimal riff on ECS with a focus on Developer Experience.
+- [Telescopic Text](https://github.com/jackyzha0/telescopic-text) - Open-source library to help with creating expandable text.
 
 ## Links
 

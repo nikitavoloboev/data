@@ -30,3 +30,4 @@
 - [Ask HN: Can Firefox Be Revived? (2021)](https://news.ycombinator.com/item?id=28954390)
 - [FirefoxPWA: Progressive Web Apps for Firefox](https://github.com/filips123/FirefoxPWA) ([HN](https://news.ycombinator.com/item?id=29440225))
 - [Firefox Profilemaker](https://ffprofile.com/) - Create a Firefox profile with the defaults you like. ([HN](https://news.ycombinator.com/item?id=29604754))
+- [Ask HN: Why is Firefox losing marketshare and how would you save it? (2022)](https://news.ycombinator.com/item?id=30335455)

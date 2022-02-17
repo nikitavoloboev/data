@@ -229,7 +229,8 @@
 - [LatencyFleX: A new approach to game latency reduction](https://ishitatsuyuki.github.io/post/latencyflex/) ([HN](https://news.ycombinator.com/item?id=29874169))
 - [Calling the Shot: the Next Five Years at Riot Games (2022)](https://www.riotgames.com/en/news/calling-the-shot-the-next-five-years-at-riot-games)
 - [Playhouse](https://github.com/FoundingHQ/playhouse) - Platform for real-time multiplayer trivia games.
-- [Networking of a turn-based game (2022)](https://longwelwind.net/blog/networking-turn-based-game/) ([Lobsters](https://lobste.rs/s/ceel32/networking_turn_based_game))
+- [Networking of a turn-based game (2022)](https://longwelwind.net/blog/networking-turn-based-game/) ([Lobsters](https://lobste.rs/s/ceel32/networking_turn_based_game)) ([HN](https://news.ycombinator.com/item?id=30352710))
 - [Ravens](https://github.com/ravens-engine/core) - JavaScript library for building multiplayer turn-based games.
 - [Open Gamedev School](https://spicylobster.itch.io/fishfight/devlog/345530/open-gamedev-school) ([Lobsters](https://lobste.rs/s/jvmhp2/open_gamedev_school))
 - [Multiplayer Online Standard](https://github.com/tinspin/fuse)
+- [Video Game Project Management Anti-patterns (2022)](https://arxiv.org/abs/2202.06183) ([HN](https://news.ycombinator.com/item?id=30344251))

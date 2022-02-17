@@ -53,6 +53,7 @@
 - [Don’t evaluate others based on their function, but rather their contribution to the mission. Recruiters are an extension of your team.](https://twitter.com/laserlikemike/status/1459534198318854151)
 - [Job posts of the future: Here's a task. We'll pay you to do it. If we're both happy, we'll keep going.](https://twitter.com/stephsmithio/status/1466076624189902851)
 - [Training new hires: 1. Prepare good documentation. 2. Be on a call with them when you have to explain stuff verbally. 3. Be available in text chat to answer their questions.](https://news.ycombinator.com/item?id=29376226)
+- [Hiring more won’t make you go faster because the output of your projects follows a power law. When constrained by people, you focus on the 1-2 most critical bottlenecks. When you have extra people they work on non-bottlenecks, which does nothing to increase overall speed.](https://twitter.com/chrismanfrank/status/1492316698287824900)
 
 ## Links
 

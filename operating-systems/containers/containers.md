@@ -182,3 +182,8 @@
 - [Signing and verifying container images using a tool called cosign](https://github.com/colinbut/cosign-signing-container-images)
 - [Flintlock](https://github.com/weaveworks/flintlock) - Create and manage the lifecycle of MicroVMs, backed by containerd.
 - [Nydus](https://github.com/dragonflyoss/image-service) - Dragonfly image service, providing fast, secure and easy access to container images.
+- [Senpai](https://github.com/facebookincubator/senpai) - Automated memory sizing tool for container applications.
+- [guvnor](https://github.com/krystal/guvnor) - Handy tool for deploying containerised applications onto Linux hosts.
+- [Serverless Container Registry Proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy for exposing container registries (GCR, Docker Hub, Artifact Registry etc) on custom domains.
+- [Run0](https://github.com/virt-do/run0) - Basic Rust OCI container runtime.
+- [cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding.

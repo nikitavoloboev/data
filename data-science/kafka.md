@@ -87,3 +87,4 @@
 - [Delivering billions of messages exactly once (2017)](https://segment.com/blog/exactly-once-delivery/)
 - [kPow for Apache Kafka](https://kpow.io/) - Monitor. Manage. Learn.
 - [Building Real-Time ETL Pipelines with Apache Kafka (2022)](https://datacater.io/blog/2022-02-11/etl-pipeline-with-apache-kafka.html)
+- [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client.

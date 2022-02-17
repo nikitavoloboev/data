@@ -192,7 +192,7 @@
 - [Simon Peyton Jones - Elastic sheet-defined functions (2020)](https://www.youtube.com/watch?v=jH2Je6wUvPs&t)
 - [Haskell Love 2020 talks](https://www.youtube.com/playlist?list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc) ([Web](https://haskell.love/)) ([Day 1](https://haskell.love/agenda-day-1/)) ([Day 2](https://haskell.love/agenda-day-2/))
 - [Haskel / Nix / hie / Stack template](https://github.com/Cmdv/haskell-nix-hie-template)
-- [ruHaskell](https://ruhaskell.org/) - Russian Haskell community.
+- [ruHaskell](https://ruhaskell.org/) - Russian Haskell community. ([Code](https://github.com/ruHaskell/ruhaskell))
 - [Let’s write a Haskell Language Server plugin](https://github.com/pepeiborra/hls-tutorial)
 - [Haskell mini-patterns handbook](https://kowainik.github.io/posts/haskell-mini-patterns) ([Reddit](https://www.reddit.com/r/haskell/comments/ib9fe0/blog_post_haskell_minipatterns_handbook/)) ([HN](https://news.ycombinator.com/item?id=24196836))
 - [Describing Microservices using Modern Haskell (2020)](https://www.47deg.com/blog/mu-in-haskell-symposium/)
@@ -378,3 +378,4 @@
 - [Introduction to Free Monads (2022)](https://serokell.io/blog/introduction-to-free-monads)
 - [What do we actually need to know to be fluent in Haskell? (2022)](https://www.reddit.com/r/haskell/comments/shrdk9/what_do_we_actually_need_to_know_to_be_fluent_in/)
 - [Haskell for the Elm Enthusiast (2021)](https://dev.to/noredink/haskell-for-the-elm-enthusiast-ckm)
+- [Haskell error messages: come on (2022)](https://www.thecodedmessage.com/posts/haskell-gripe/) ([HN](https://news.ycombinator.com/item?id=30369497))

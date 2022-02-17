@@ -75,3 +75,4 @@ China alongside [Russia](russia.md) remain the two countries with the most numbe
 - [2021 Letter](https://danwang.co/2021-letter/) ([HN](https://news.ycombinator.com/item?id=29759309))
 - [China Financial Markets - Carnegie Endowment for International Peace](https://carnegieendowment.org/chinafinancialmarkets)
 - [Chinese Hanzi variation of Wordle](https://handle.antfu.me/) ([Code](https://github.com/antfu/handle))
+- [Enemies of My Enemy (2022)](https://www.foreignaffairs.com/articles/2021-02-14/china-new-world-order-enemies-my-enemy) ([Reddit](https://www.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/))

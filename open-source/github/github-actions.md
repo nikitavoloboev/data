@@ -174,6 +174,8 @@
 - [Install SSH Key](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh.
 - [Contributors List](https://github.com/wow-actions/contributors-list) - Automatically generate contributors.svg for your repository.
 - [GitHub Staging Apps on Fly](https://github.com/brentd/fly-staging-app)
+- [Steam Deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam.
+- [lowercase-linter](https://github.com/julie-ng/lowercase-linter) - GitHub Action to ensure files are lower case only. Suggests valid names in kebab-case format.
 
 ## Go
 
@@ -200,6 +202,7 @@
 - [Rust Cache Action](https://github.com/Swatinem/rust-cache) - GitHub Action that implements smart caching for rust/cargo projects with sensible defaults.
 - [Cargo Bloat Action](https://github.com/orf/cargo-bloat-action) - Track rust binary sizes across builds using Github Actions.
 - [Rust Release Binary](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions.
+- [Cargo install action](https://github.com/baptiste0928/cargo-install) - GitHub action for cache-efficient Rust crates installation.
 
 ## Python
 
@@ -297,6 +300,7 @@
 ## Markdown
 
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook) - Setup mdBook quickly and build your site fast.
+- [RSS to README Action](https://github.com/JasonEtco/rss-to-readme) - GitHub Action that updates a section of a README from an RSS feed.
 
 ## Flutter
 

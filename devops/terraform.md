@@ -134,3 +134,6 @@
 - [tf-controller](https://github.com/chanwit/tf-controller) - Terraform controller for Flux.
 - [Terraform GitHub Actions](https://github.com/dflook/terraform-github-actions)
 - [Terraform Cloud/Enterprise Provider](https://github.com/hashicorp/terraform-provider-tfe) - Self-hosted distribution of Terraform Cloud, this provider supports both Cloud and Enterprise use cases.
+- [Terraform Civo provider](https://github.com/civo/terraform-provider-civo)
+- [Terramate](https://github.com/mineiros-io/terramate) - Tool for managing multiple Terraform stacks.
+- [Terustry](https://github.com/veepee-oss/terustry) - Open Source Terraform provider registry.

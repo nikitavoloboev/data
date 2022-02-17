@@ -120,3 +120,4 @@
 - [A Tour of Julia - Erik Engheim (2021)](https://www.youtube.com/watch?v=wU6c8CDRXJE)
 - [Julia macros for beginners (2021)](https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/)
 - [Juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer.
+- [Why We Use Julia, 10 Years Later (2022)](https://julialang.org/blog/2022/02/10years/) ([HN](https://news.ycombinator.com/item?id=30337515))

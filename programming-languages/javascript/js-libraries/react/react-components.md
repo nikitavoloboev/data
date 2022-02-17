@@ -261,6 +261,7 @@
 - [react-layout](https://github.com/dash-ui/react-layout) - Layout primitives for React, including Box, Cluster, Grid, Row, Column, and Layer.
 - [UI Kit for Cube Cloud](https://github.com/cube-js/cube-ui-kit) - UI Framework for Cube Projects. Based on React Aria.
 - [React tags](https://github.com/react-tags/react-tags) - Simple tagging component for your projects.
+- [rich-textarea](https://github.com/inokawa/rich-textarea) - Small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 
 ## Links
 

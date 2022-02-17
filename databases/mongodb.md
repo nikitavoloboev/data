@@ -40,3 +40,4 @@
 - [REST API with a Cloudflare Worker and a MongoDB Atlas Cluster](https://github.com/mongodb-developer/cloudflare-worker-rest-api-realm-atlas)
 - [FerretDB](https://github.com/FerretDB/FerretDB) - Truly Open Source MongoDB alternative. ([Web](https://www.ferretdb.io/)) ([GitHub](https://github.com/FerretDB))
 - [Scaling MongoDB for a Growing Customer Base (2020)](https://full-stack.blend.com/scaling-mongodb-for-a-growing-customer-base.html)
+- [What if MongoDB and Neo4j had a baby](https://github.com/terminusdb/technical-blogs/blob/main/blogs/mongo_neo4j_terminusx.md)

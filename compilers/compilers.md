@@ -33,7 +33,7 @@
 - [Propeller](https://github.com/google/llvm-propeller) - Profile Guided Optimizing Large Scale LLVM-based Relinker.
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
-- [Crafting Interpreters Book](http://www.craftinginterpreters.com/) ([Code](https://github.com/munificent/craftinginterpreters)) ([In Rust](https://github.com/mariosangiorgio/rulox)) ([In OCaml](https://github.com/ludwigpacifici/saumon)) ([In Rust](https://github.com/tdp2110/crafting-interpreters-rs)) ([In Haskell](https://github.com/ccntrq/loxomotive)) ([In Rust](https://github.com/franeklubi/luxya))
+- [Crafting Interpreters Book](https://www.craftinginterpreters.com/) ([Code](https://github.com/munificent/craftinginterpreters)) ([In Rust](https://github.com/mariosangiorgio/rulox)) ([In OCaml](https://github.com/ludwigpacifici/saumon)) ([In Rust](https://github.com/tdp2110/crafting-interpreters-rs)) ([In Haskell](https://github.com/ccntrq/loxomotive)) ([In Rust](https://github.com/franeklubi/luxya)) ([Contents](https://craftinginterpreters.com/contents.html)) ([HN](https://news.ycombinator.com/item?id=30332368))
 - [Compiling a Functional Language Using C++, Part 0 - Intro (2019)](https://danilafe.com/blog/00_compiler_intro/)
 - [Compiling at Compile Time (2019)](https://blog.veitheller.de/Compiling_at_Compile_Time.html)
 - [MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure - Tatiana Shpeisman, Chris Lattner (2019)](https://www.youtube.com/watch?v=qzljG6DKgic)
@@ -204,3 +204,4 @@
 - [Pareas](https://github.com/Snektron/pareas) - GPU-accelerated compiler for a simple programming language, which outputs RISC-V machine code.
 - [monoasm](https://github.com/sisshiki1969/monoasm) - In-memory x86-64 assembler for JIT compiler.
 - [Crafting A Lox Interpreter In Rust (2022)](https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/)
+- [Writing a minimal x86-64 JIT compiler in C++](https://github.com/sol-prog/x86-64-minimal-JIT-compiler-Cpp)

@@ -1,4 +1,4 @@
-# [Crafting interpreters](http://craftinginterpreters.com)
+# [Crafting interpreters](https://craftinginterpreters.com)
 
 ## Chapter 1
 
@@ -7,7 +7,7 @@
   - Now you can use the compiled version of your own compiler to compile future versions of itself and you can discard the original one compiled from the other compiler.
   - This is called “bootstrapping” from the image of pulling yourself up by your own bootstraps.
 
-## [Chapter 2 - map of the territory](http://www.craftinginterpreters.com/a-map-of-the-territory.html)
+## [Chapter 2 - map of the territory](https://www.craftinginterpreters.com/a-map-of-the-territory.html)
 
 ![](https://i.imgur.com/w4R6Mkl.jpg)
 

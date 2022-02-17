@@ -4,6 +4,7 @@
 
 - [TTY::Prompt](https://github.com/piotrmurach/tty-prompt) - Beautiful and powerful interactive command line prompt.
 - [TTY::Command](https://github.com/piotrmurach/tty-command) - Execute shell commands with pretty output logging and capture stdout, stderr and exit status. ([Web](https://ttytoolkit.org/))
+- [CommandLine](https://github.com/DragonRuby/command_line) - Easier way to run command line applications and get all of the output.
 
 ## DB
 

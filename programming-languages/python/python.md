@@ -428,3 +428,4 @@ for i, _ in enumerate(nums):
 - [Effective Pandas Book](https://store.metasnake.com/effective-pandas-book) ([Code](https://github.com/mattharrison/effective_pandas_book))
 - [Keeping python code clean with pre-commit hooks: black, flake8 and isort (2019)](https://rohitgupta.xyz/blog/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort/)
 - [Understanding Attributes, Dicts and Slots in Python (2022)](https://bas.codes/posts/python-dict-slots)
+- [Interactive Loop Optimization](https://jott.live/markdown/interactive_optimization) ([Lobsters](https://lobste.rs/s/wbqbpn/interactive_loop_optimization))

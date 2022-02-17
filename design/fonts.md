@@ -23,7 +23,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Noto](https://github.com/googlefonts/noto-source) - Font for all the world's languages.
 - [Cozette](https://github.com/slavfox/Cozette) - Bitmap programming font optimized for coziness.
 - [Jost](https://indestructibletype.com/Jost.html)
-- [MonoLisa](https://monolisa.dev/)
+- [MonoLisa](https://monolisa.dev/) ([HN](https://news.ycombinator.com/item?id=30336809))
 - [Recursive Sans & Mono](https://www.recursive.design/) - Variable font family for code & UI. ([Code](https://github.com/arrowtype/recursive))
 - [Baudelaire](https://amandapinsker.com/project/baudelaire) - Modern transitional serif typeface.
 - [Fira Sans](http://mozilla.github.io/Fira/) - Mozilla's new typeface, used in Firefox OS. ([Code](https://github.com/mozilla/Fira))
@@ -97,6 +97,8 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Agave](https://b.agaric.net/page/agave) - Small, monospaced, outline font that would be geometrically regular and simple. ([Code](https://github.com/blobject/agave))
 - [Readex](https://github.com/ThomasJockin/readexpro) - Variable font empirically shown to significantly improve reading-proficiency.
 - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
+- [Monego](https://github.com/cseelus/monego) - Beloved Monaco monospaced font, recreated with bold and italic variants.
+- [Newsreader](https://github.com/productiontype/Newsreader) - Original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.
 
 ## Links
 
@@ -321,3 +323,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Fontanello](https://fontanello.app/) - Browser extension for Google Chrome and Firefox that lets you display the basic typographic styles of a text by right-clicking it. ([Code](https://github.com/frederfred/fontanello))
 - [font-kit](https://github.com/zed-industries/font-kit) - Provides a common interface to the various system font libraries and provides services such as finding fonts on the system, performing nearest-font matching, and rasterizing glyphs.
 - [fontdb](https://github.com/RazrFalcon/fontdb) - Simple, in-memory font database with CSS-like queries.
+- [Text Rendering Hates You (2019)](https://gankra.github.io/blah/text-hates-you/) ([HN](https://news.ycombinator.com/item?id=30330144))
+- [Production Type](https://www.productiontype.com/) - Digital type design agency. ([GitHub](https://github.com/productiontype))

@@ -39,3 +39,5 @@
 - [Probabilistic programming with continuations (2020)](https://julesh.com/2020/08/15/probabilistic-programming-with-continuations/)
 - [Probabilistic Programming Packages](https://github.com/theorashid/probabilistic-programming-packages)
 - [prbnmcn-dagger](https://github.com/igarnier/prbnmcn-dagger) - Probabilistic OCaml programming library.
+- [Denoising diffusion probabilistic models](https://github.com/acids-ircam/diffusion_models) - Series of tutorial notebooks on denoising diffusion probabilistic models in PyTorch.
+- [Probabilistic Machine Learning Book (2022)](https://mitpress.mit.edu/books/probabilistic-machine-learning) ([Tweet](https://twitter.com/sirbayes/status/1493644368070123520))

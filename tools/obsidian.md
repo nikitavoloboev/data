@@ -78,6 +78,8 @@
 - [Obsidian Block Reference Counts](https://github.com/shabegom/obsidian-reference-count) - Show Reference Count of Block Refs.
 - [Cross-reference Navigation](https://github.com/alexobenauer/Cross-reference-Navigation-for-Obsidian) - Plugin for Obsidian that lets you navigate through your notes using their tags.
 - [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - Obsidian plugin that dynamically highlights text based on selection or search query.
+- [Sidekick](https://github.com/hadynz/obsidian-sidekick) - Plugin that auto-suggests new connections to make by underlining text that matches existing tags or links in your vault.
+- [Obsidian Full Calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian.
 
 ## Themes
 
@@ -117,3 +119,4 @@
 - [Obsidian Shortcut Launcher, A Free Plugin to Trigger Shortcuts from Obsidian](https://www.macstories.net/stories/obsidian-shortcut-launcher/)
 - [Scriptable widget for Obsidian journal tasks (2021)](https://mostlymaths.net/2021/12/scriptable-obsidian-widget.html/)
 - [Snippetor](https://github.com/ebullient/obsidian-snippetor) - Assist for creating CSS snippets for Obsidian.
+- [Obsidian SSG Blog](https://github.com/A/obsidian-blog) - Simple blog generated from Obsidian Map Of Content notes.

@@ -79,3 +79,6 @@
 - [Device Models](https://github.com/CodyJasonBennett/device-models) - Figma plugin to create mockups with 3D device models.
 - [Figx](https://github.com/n0ruSh/figx) - Comprehensive and reliable figma utilities library.
 - [figma-JSONRPC](https://github.com/Lona/figma-jsonrpc) - Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI.
+- [Figma REST API in TS](https://github.com/didoo/figma-api)
+- [Fig](https://github.com/piglovesyou/fig) - Figma to React tool to generate and synchronize various template languages, designed to be AST-based, pluggable platform.
+- [Figma Better Font Picker](https://github.com/yenargy/figma-better-font-picker) - Figma plugin to enable better font selections which previews how the font looks like.

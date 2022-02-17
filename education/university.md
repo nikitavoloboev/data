@@ -101,3 +101,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [5 вещей, которые я бы хотел знать на первом курсе технического ВУЗа (2021)](https://www.youtube.com/watch?v=dpr5CMbuqdo)
 - [Imperial College London](https://www.imperial.ac.uk/)
 - [HSE University](https://www.hse.ru/en/)
+- [Ask HN: How to make the most out of time at university? (2022)](https://news.ycombinator.com/item?id=30345059)

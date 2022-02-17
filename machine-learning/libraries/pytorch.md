@@ -342,3 +342,4 @@
 - [(Generic) EfficientNets for PyTorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS.
 - [sbi](https://github.com/mackelab/sbi) - PyTorch package for simulation-based inference.
 - [torchmd](https://github.com/torchmd/mdgrad) - PyTorch differentiable molecular dynamics.
+- [TorchCAM](https://github.com/frgfm/torch-cam) - Simple way to leverage the class-specific activation of convolutional layers in PyTorch.

@@ -38,6 +38,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Hop](https://github.com/phaazon/hop.nvim) - Neovim motions on speed.
 - [LunarVim](https://github.com/LunarVim/LunarVim) - Opinionated, extensible, and fast IDE layer for Neovim. ([Docs](https://www.lunarvim.org/))
 - [kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
+- [legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - Legend for your keymaps and commands, with which-key.nvim integration.
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim.
 - [fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - Jump to fuzzy match word.
 - [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
@@ -160,6 +161,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Searchbox](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner.
 - [Vim Highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions.
 - [Octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor.
+- [Comment.nvim](https://github.com/numToStr/Comment.nvim) - Smart and Powerful commenting plugin for neovim.
+- [aerial.nvim](https://github.com/stevearc/aerial.nvim) - Neovim plugin for a code outline window.
+- [virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - Shows type annotations for functions in virtual text using built-in LSP client.
+- [sqls.nvim](https://github.com/nanotee/sqls.nvim) - Neovim plugin for sqls that leverages the built-in LSP client.
 
 ## Looks
 
@@ -284,3 +289,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [nvim-luadev](https://github.com/bfredl/nvim-luadev) - REPL/debug console for nvim lua plugins.
 - [stylish.nvim](https://github.com/sunjon/stylish.nvim) - Stylish UI components for Neovim.
 - [AstroVim](https://github.com/kabinspace/AstroVim) - Aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
+- [Nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel.

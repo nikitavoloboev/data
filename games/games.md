@@ -174,6 +174,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Game recs (2021)](https://twitter.com/jennifermarie/status/1449432435314339842)
 - [Great RTS games (2021)](https://www.reddit.com/r/RealTimeStrategy/comments/rlfxis/suggestions/)
 - [Long game suggestions (2021)](https://twitter.com/chetfaliszek/status/1475258682539593729)
+- [What are some of your favorite short single player campaign games? (2022)](https://www.reddit.com/r/patientgamers/comments/ss2vvc/what_are_some_of_your_favorite_short_single/)
 
 ## Links
 
@@ -269,3 +270,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Another Wordle](https://another-wordle.vercel.app/) - Generate your custom wordle and share with friends. ([Code](https://github.com/btahir/another-wordle))
 - [Thank You, Valve (2022)](https://kinduff.com/2022/02/06/thank-you-valve/) ([HN](https://news.ycombinator.com/item?id=30244195))
 - [The Factorio Mindset (2022)](https://www.thediff.co/p/the-factorio-mindset) ([HN](https://news.ycombinator.com/item?id=30302607))
+- [Recommendations for building small gaming PC (2022)](https://twitter.com/ChristianSelig/status/1493619687304966145)

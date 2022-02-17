@@ -285,6 +285,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Johnny Rodgers's reading list](https://johnnyrodgers.is/reading)
 - [Ask HN: What is one book you would recommend everyone to read? (2022)](https://news.ycombinator.com/item?id=30241190)
 - [Books you should read before you die (2022)](https://www.reddit.com/r/suggestmeabook/comments/srgbmy/books_you_should_read_before_you_die/)
+- [Ask HN: What Books Do You Recommend Reading for 2022?](https://news.ycombinator.com/item?id=30358326)
 
 ## Interesting Prose Books
 
@@ -496,3 +497,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How James Clear is Writing His Next Book (2021)](https://every.to/superorganizers/how-james-clear-is-writing-his-next-book)
 - [How to easily read 50 books a year](https://www.ramoswriter.com/how-to-read-more/) ([HN](https://news.ycombinator.com/item?id=29905186))
 - [Thoth](https://github.com/thoth-pub/thoth) - Metadata management and dissemination system for Open Access books.
+- [Global Grey ebooks](https://www.globalgreyebooks.com/index.html) - Free public domain ebooks in PDf, ePub, mobi formats. ([HN](https://news.ycombinator.com/item?id=30352207))

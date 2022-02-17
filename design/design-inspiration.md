@@ -6,6 +6,7 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Glass](https://glass.photo/)
 - [PlanetScale](https://planetscale.com/)
 - [Remix](https://remix.run/)
 - [Pipe](https://www.pipe.com/)
@@ -15,6 +16,7 @@ Here are few more things I liked, design wise.
 - [Clubhouse](https://www.joinclubhouse.com/)
 - [Stitches](https://stitches.dev/) ([Code](https://github.com/modulz/stitches-site))
 - [Draftbit](https://draftbit.com/)
+- [Modular AI](https://www.modular.ai/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Solana](https://solana.com/)
 - [Scale](https://scale.com/)
@@ -255,6 +257,7 @@ Here are few more things I liked, design wise.
 - [Tina He](http://tinahe.co/)
 - [Mikkel Malmberg](https://mikkelmalmberg.com/)
 - [Boris Muller](https://esono.com/)
+- [Mitchell Hashimoto](https://mitchellh.com/)
 - [Tyson Battistella](https://tbts.tl/)
 - [Robin Sloan](https://society.robinsloan.com/)
 - [Jordan Lewis](https://jordanlewis.org/)

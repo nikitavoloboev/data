@@ -282,3 +282,8 @@
 - [pythae](https://github.com/clementchadebec/benchmark_VAE) - Library for Variational Autoencoder benchmarking.
 - [Pyraug](https://github.com/clementchadebec/pyraug) - Data Augmentation with Variational Autoencoders.
 - [product-quantization](https://github.com/xinyandai/product-quantization) - Implementation of vector quantization algorithms, codes for Norm-Explicit Quantization: Improving Vector Quantization for Maximum Inner Product Search.
+- [learned_optimization](https://github.com/google/learned_optimization) - Training and evaluating learned optimizers in JAX.
+- [OTT](https://github.com/ott-jax/ott) - Sturdy, versatile and efficient optimal transport solvers, taking advantage of JAX features, such as JIT, auto-vectorization and implicit differentiation.
+- [Marian](https://github.com/marian-nmt/marian) - Efficient Neural Machine Translation framework written in pure C++ with minimal dependencies. ([Web](https://marian-nmt.github.io/))
+- [segmind](https://github.com/segmind/segmind) - MLOps for end-to-end deep learning lifecycle.
+- [FLUTE](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation.

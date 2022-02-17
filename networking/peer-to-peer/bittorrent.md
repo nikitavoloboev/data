@@ -82,3 +82,5 @@
 - [create-torrent](https://github.com/webtorrent/create-torrent) - Create .torrent files.
 - [Database-less torrent website (2022)](https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html) ([HN](https://news.ycombinator.com/item?id=29917818))
 - [Hefur](https://github.com/abique/hefur) - Standalone C++ BitTorrent tracker.
+- [BTPD](https://github.com/btpd/btpd) - BitTorrent Protocol Daemon.
+- [feedtransmission](https://github.com/lupus78/feedtransmission) - Python script to read RSS/Atom feeds of torrents and add them to Transmission to download.

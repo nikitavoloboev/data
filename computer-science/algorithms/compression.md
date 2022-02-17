@@ -101,3 +101,7 @@
 - [mjpeg2http](https://github.com/nola-a/mjpeg2http) - Pure C Mjpeg-over-HTTP server. ([HN](https://news.ycombinator.com/item?id=29980660))
 - [go-tsz](https://github.com/dgryski/go-tsz) - Time series compression algorithm from Facebook's Gorilla paper.
 - [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer. It removes unnecessary data (debug information, comments, metadata, etc.) and recompress the file to reduce file size.
+- [Brotli](https://github.com/google/brotli) - Generic-purpose lossless compression algorithm that compresses data using a combination of a modern variant of the LZ77 algorithm.
+- [Brotli JS](https://github.com/yisibl/brotli-js) - Google brotli binding to Node.js via Rust and napi-rs.
+- [lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript.
+- [divANS](https://github.com/dropbox/divans) - Crate meant to be used for generic data compression.

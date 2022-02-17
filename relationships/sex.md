@@ -90,3 +90,6 @@
 - [Anatomy Structure and Function of the Male Genitals](https://www.youtube.com/playlist?list=PLIZ9tgpNSydo3RjOOv4RU4-ZwLCZ3SVWv)
 - [What are some sexual things you would recommend people try?](https://www.reddit.com/r/sex/comments/sm9737/what_are_some_sexual_things_you_would_recommend/)
 - [HLCommunity Reddit](https://www.reddit.com/r/HLCommunity/)
+- [The Internal Clitoris](https://centerforeroticintelligence.org/internal-clitoris/) ([Reddit](https://www.reddit.com/r/sexover30/comments/srjig2/what_the_fuck_is_this_thing/))
+- [Sex positive resources for adult male](https://www.reddit.com/r/sexover30/comments/sruhx6/sex_positive_resources_for_adult_male/)
+- [Choosy Eggs May Pick Sperm for Their Genes, Defying Mendel’s Law](https://www.quantamagazine.org/choosy-eggs-may-pick-sperm-for-their-genes-defying-mendels-law-20171115/)

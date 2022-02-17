@@ -21,6 +21,10 @@
 
 - [Constantine](https://github.com/mratsim/constantine) - Fast, compact, hardened Pairing-Based Cryptography.
 
+## CLI
+
+- [CLIche](https://github.com/juancarlospaco/cliche) - AutoMagic CLI argument parsing is cliche.
+
 ## Other
 
 - [Arraymancer](https://github.com/mratsim/Arraymancer) - N-dimensional tensor (ndarray) library.

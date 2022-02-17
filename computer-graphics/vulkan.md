@@ -67,3 +67,5 @@
 - [vk-mem](https://github.com/gwihlidal/vk-mem-rs) - Rust bindings for AMD Vulkan Memory Allocator (VMA).
 - [vk-sync](https://github.com/gwihlidal/vk-sync-rs) - Simplified Vulkan synchronization logic, written in rust.
 - [caldera](https://github.com/sjb3d/caldera) - Vulkan and rust experiments, including a spectral path tracer using Vulkan ray tracing extensions.
+- [Rust & Vulkan test projects](https://github.com/sebbbi/rust_test)
+- [Vulkan Memory Model](https://github.com/KhronosGroup/Vulkan-MemoryModel)

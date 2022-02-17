@@ -310,6 +310,7 @@ if (
 - [A mostly complete guide to error handling in JavaScript (2020)](https://www.valentinog.com/blog/error/)
 - [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 - [Perflink](https://perf.link/) - JS Benchmarks.
+- [JavaScript benchmark playground](https://jsbench.github.io/)
 - [Element Worklet (2021)](https://jasonformat.com/element-worklet/)
 - [MDN JS Code Examples](https://github.com/mdn/js-examples)
 - [Understanding Hoisting in JavaScript (2021)](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
@@ -401,3 +402,5 @@ if (
 - [TC39 – Specifying JavaScript](https://tc39.es/) ([Web Code](https://github.com/tc39/tc39.github.io))
 - [sane-fmt](https://github.com/sane-fmt/sane-fmt) - Opinionated code formatter for TypeScript and JavaScript.
 - [Run JavaScript in WebAssembly](https://github.com/second-state/wasmedge-quickjs) - High-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
+- [Insightful JavaScript Q&A Twitter Thread from Dan Abramov (2022)](https://twitter.com/dan_abramov/status/1492880870499360769)
+- [The State of JS 2021](https://2021.stateofjs.com/en-US/) ([HN](https://news.ycombinator.com/item?id=30357788))

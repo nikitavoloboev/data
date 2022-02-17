@@ -95,3 +95,6 @@
 - [Let's build an Entity Component System from scratch in Zig (2022)](https://devlog.hexops.com/2022/lets-build-ecs-part-1)
 - [Using Zig to Build Native Lua Scripts (2022)](https://cone.codes/posts/using-zig-to-build-native-lua-scripts/)
 - [Zig by Example](https://zig-by-example.com/) ([Code](https://github.com/ibokuri/zig-by-example))
+- [Zig Compiler Internals](https://mitchellh.com/zig)
+- [Is Zig faster than Rust?](https://users.rust-lang.org/t/is-zig-lang-faster-than-rust/70390)
+- [Why use Zig over Rust/Go (2022)](https://www.reddit.com/r/Zig/comments/srk7ws/im_still_confused_on_the_whys_of_zig/)

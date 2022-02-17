@@ -113,3 +113,6 @@
 - [Awesome Multicore OCaml](https://github.com/patricoferris/awesome-multicore-ocaml) - Collection of libraries, experiments and ideas relating to OCaml 5 (multicore + effects).
 - [Memory model for OCaml (herd formalization)](https://github.com/ocamllabs/ocaml-memory-model)
 - [Dromedary](https://github.com/johnyob/dromedary) - Experimental subset of OCaml, using constraint-based type inference.
+- [ocaml for Unikraft](https://github.com/TheLortex/unikraft-ocaml) - OCaml 5 runtime (libasmrun.a) built for unikraft.
+- [unikraft-ocaml-hello](https://github.com/TheLortex/unikraft-ocaml-example) - Bare-unikraft OCaml 5 application.
+- [OCaml website](https://v3.ocaml.org/) ([Code](https://github.com/ocaml/v3.ocaml.org-server))

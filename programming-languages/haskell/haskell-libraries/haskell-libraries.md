@@ -30,6 +30,7 @@
 - [sqlite-simple](https://github.com/nurpax/sqlite-simple) - Mid-level bindings for sqlite.
 - [pool](https://github.com/bos/pool) - Fast Haskell library for managing medium-lifetime pooled resources, such as database connections.
 - [acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure.
+- [oso](https://github.com/circuithub/oso) - Haskell bindings to the Polar query engine and Oso authorization library.
 
 ## Test
 
@@ -43,6 +44,7 @@
 - [Hspec](https://github.com/hspec/hspec) - Testing Framework for Haskell.
 - [generic-random](https://github.com/Lysxia/generic-random) - Generic random generators to implement Arbitrary instances for QuickCheck.
 - [Higher-order QuickCheck](https://github.com/Lysxia/quickcheck-higherorder) - QuickCheck extension for properties of higher-order values.
+- [checkers](https://github.com/haskell-checkers/checkers) - Check properties on standard classes and data structures.
 
 ## CLI
 
@@ -238,6 +240,10 @@
 - [bytestring-trie](https://github.com/wrengr/bytestring-trie) - Efficient finite map from (byte)strings to values.
 - [unification-fd](https://github.com/wrengr/unification-fd) - Generic functions for single-sorted first-order structural unification.
 - [monoidal-containers](https://github.com/bgamari/monoidal-containers) - Maps using values' monoidal structure during merging.
+- [Chronos](https://github.com/andrewthad/chronos) - Haskell time library focusing on performance.
+- [fastsum](https://github.com/patrickt/fastsum) - Fast open-union type, suitable for 100+ contained alternatives.
+- [co-log-core](https://github.com/co-log/co-log-core) - Core types and functions that power the Haskell `co-log` implementation.
+- [shellmet](https://github.com/kowainik/shellmet) - Out of the shell solution for scripting in Haskell.
 
 ## Notes
 
@@ -268,3 +274,4 @@
 - [init-haskell](https://github.com/masaeedu/init-haskell) - Script for setting up Haskell projects with Nix.
 - [hackage-download](https://github.com/nh2/hackage-download) - Download all of Hackage.
 - [Hackage UI](https://hackage-ui.vercel.app/) - Fresh look for the Hackage. ([Code](https://github.com/visortelle/hackage-ui))
+- [Thoughts on build tooling in Haskell (2022)](https://twitter.com/ChShersh/status/1493901050805424128)

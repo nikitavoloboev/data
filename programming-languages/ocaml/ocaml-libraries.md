@@ -9,7 +9,7 @@
 - [http/af](https://github.com/inhabitedtype/httpaf) - High performance, memory efficient, and scalable web server written in OCaml.
 - [Eliom](https://github.com/ocsigen/eliom) - Framework for building client/server Web and mobile applications in OCaml.
 - [ocaml-wasmtime](https://github.com/LaurentMazare/ocaml-wasmtime) - OCaml WebAssembly runtime powered by wasmtime.
-- [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework. ([Docs](https://aantron.github.io/dream/)) ([HN](https://news.ycombinator.com/item?id=26758151))
+- [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework. ([Docs](https://aantron.github.io/dream/)) ([HN](https://news.ycombinator.com/item?id=26758151)) ([Example App](https://github.com/andreypopp/dream-oauth2))
 - [OCaml JavaScript bindings](https://github.com/tmattio/js-bindings)
 - [Tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) - OCaml library for HTTP clients and servers using Lwt or Async.
@@ -53,6 +53,10 @@
 ## Graphics
 
 - [Vg](https://github.com/dbuenzli/vg) - Declarative 2D vector graphics for OCaml.
+
+## Linux
+
+- [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring) - Bindings to io_uring for OCaml.
 
 ## Other
 
@@ -140,6 +144,9 @@
 - [Yojson](https://github.com/ocaml-community/yojson) - Low-level JSON parsing and pretty-printing library for OCaml.
 - [ATD](https://github.com/ahrefs/atd) - Static types for JSON APIs.
 - [Biocaml](https://github.com/biocaml/biocaml) - OCaml Bioinformatics Library.
+- [Iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
+- [sosa](https://github.com/hammerlab/sosa) - Sane OCaml String API.
+- [ocaml-stdint](https://github.com/andrenth/ocaml-stdint) - Various signed and unsigned integers for OCaml.
 
 ## Links
 
@@ -148,3 +155,4 @@
 - [dune-release](https://github.com/ocamllabs/dune-release) - Tool to streamline the release of Dune packages in opam.
 - [opam-dune-lint](https://github.com/ocurrent/opam-dune-lint) - Ensure dune and opam dependencies are consistent.
 - [Sherlocode](https://sherlocode.com/) - Search across 17 million lines of OCaml available on opam using grep. ([Code](https://github.com/art-w/sherlocode))
+- [Camlidl](https://github.com/xavierleroy/camlidl) - Stub code generator for OCaml/C interface.

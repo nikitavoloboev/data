@@ -340,3 +340,4 @@ Blockchain is an immutable linked list of hashes that uses some consensus system
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) - Framework for building smart contracts in Wasm for the Cosmos SDK.
 - [Crypto, the left, and techno-feudalism](https://metacpc.org/en/crypto-blockchain/) ([HN](https://news.ycombinator.com/item?id=30224472))
 - [chain-registry](https://github.com/cosmos/chain-registry) - Contains a chain.json and assetlist.json for a number of cosmos-sdk based chains.
+- [Exonum](https://github.com/exonum/exonum) - Extensible open-source framework for creating private/permissioned blockchain applications.

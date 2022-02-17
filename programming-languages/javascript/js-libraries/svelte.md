@@ -180,4 +180,8 @@
 - [threlte](https://github.com/grischaerbe/threlte) - Three.js component library for svelte.
 - [svelte-wasm](https://github.com/tobiasbernet/svelte-wasm) - Example project that how WebAssembly and Svelte could work together.
 - [parcel-plugin-svelte](https://github.com/DeMoorJasper/parcel-plugin-svelte) - Parcel plugin that enables svelte support.
-- [Implementing A Svelte Store In Rust (2022)](https://daveceddia.com/svelte-store-in-rust/)
+- [Implementing A Svelte Store In Rust (2022)](https://daveceddia.com/svelte-store-in-rust/) ([Code](https://github.com/dceddia/electron-napi-svelte-store)) ([Reddit](https://www.reddit.com/r/sveltejs/comments/sse0ih/i_built_a_writable_svelte_store_in_rust/))
+- [wasm-svelte](https://github.com/SohumB/wasm-svelte) - Proof-of-concept application showing integration between rust signals and svelte stores.
+- [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io in SvelteKit applications. ([Example](https://github.com/icflorescu/trpc-sveltekit-example))
+- [Sitemap generator for Svelte](https://github.com/bartholomej/svelte-sitemap) - Small helper which scans your Svelte routes and generates static sitemap.xml.
+- [Metawrite](https://github.com/koodeau/metawrite) - Appwrite SDK with ready to go components for Svelte / SvelteKit.

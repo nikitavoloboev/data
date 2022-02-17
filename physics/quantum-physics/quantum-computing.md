@@ -135,3 +135,6 @@
 - [Interlin-q](https://github.com/Interlin-q/Interlin-q) - Quantum Interconnect Simulator for Distributed Quantum Algorithms.
 - [Quantum Computation and Quantum Information (2010)](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview) ([Code](https://github.com/pptacher/quantum))
 - [Picnic: Post Quantum Signatures](https://github.com/microsoft/Picnic) - Picnic signature scheme is a family of digital signature schemes secure against attacks by quantum computers.
+- [Quantum complexity tamed by machine learning (2022)](https://www.quantamagazine.org/quantum-complexity-tamed-by-machine-learning-20220207/) ([HN](https://news.ycombinator.com/item?id=30329110))
+- [Philippe Faist — Lecture Notes](https://phfaist.com/notes)
+- [Hello Many Worlds in Seven Quantum Languages (2021)](https://ionq.com/posts/june-24-2021-hello-many-worlds)

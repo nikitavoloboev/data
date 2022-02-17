@@ -63,6 +63,7 @@
 
 - [Clojure2D](https://github.com/Clojure2D/clojure2d) - Library supporting generative coding or glitching. ([Examples](https://github.com/Clojure2D/clojure2d-examples))
 - [Quil](https://github.com/quil/quil) - Clojure/ClojureScript library for creating interactive drawings and animations. ([Web](http://quil.info/))
+- [HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework.
 
 ## Other
 
@@ -169,3 +170,4 @@
 - [deps-new](https://github.com/seancorfield/deps-new) - New, simpler alternative to clj-new.
 - [neil](https://github.com/babashka/neil) - CLI to add common aliases and features to deps.edn-based projects.
 - [Clojure Garden](https://github.com/clojure-garden/clojure-garden) - Navigator in the Clojure ecosystem.
+- [Snowball](https://github.com/phronmophobic/snowball) - View the sizes of your dependencies.

@@ -256,3 +256,8 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Witness](https://github.com/testifysec/witness) - Pluggable framework for software supply chain security.
 - [Top 10 web hacking techniques of 2021](https://portswigger.net/research/top-10-web-hacking-techniques-of-2021) ([HN](https://news.ycombinator.com/item?id=30284022))
 - [Awesome Executable Packing](https://github.com/dhondta/awesome-executable-packing)
+- [Secman](https://secman.dev/) - Human-friendly and amazing secrets manager. ([GitHub](https://github.com/scmn-dev))
+- [My password sharing mini-project (2022)](https://herman.bearblog.dev/thinking-about-passwords/) ([HN](https://news.ycombinator.com/item?id=30320694))
+- [Never use text pixelation to redact sensitive information (2022)](https://bishopfox.com/blog/unredacter-tool-never-pixelation) ([HN](https://news.ycombinator.com/item?id=30350626)) ([Code](https://github.com/BishopFox/unredacter))
+- [Almost every publicly available CVE PoC](https://github.com/trickest/cve)
+- [Threat Modeling: A Practical Guide for Development Teams Book](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)

@@ -702,3 +702,8 @@ if err != nil {
 - [Dumpster diving the Go garbage collector (2022)](https://blog.px.dev/go-garbage-collector/)
 - [Go performance from version 1.2 to 1.18 (2022)](https://benhoyt.com/writings/go-version-performance/) ([HN](https://news.ycombinator.com/item?id=30201969)) ([Lobsters](https://lobste.rs/s/b2uudr/go_performance_from_version_1_2_1_18))
 - [Mastering Your Error Domain (2022)](https://fosdem.org/2022/schedule/event/go_errors/)
+- [When does a Goroutine actually start executing the code? (2022)](https://www.reddit.com/r/golang/comments/ss4myy/when_does_a_goroutine_actually_start_executing/)
+- [Go internal ABI specification](https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md)
+- [Efficient Go Book (2022)](https://www.oreilly.com/library/view/efficient-go/9781098105709/) ([Code](https://github.com/bwplotka/efficiency-advent-2021))
+- [Go performance channel](https://telegram.me/go_perf) ([Twitter](https://twitter.com/go_perf))
+- [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)

@@ -82,3 +82,5 @@
 - [Python WebRTC](https://github.com/MarshalX/python-webrtc) - Python Extension that provides bindings to WebRTC M92.
 - [PeerData](https://github.com/vardius/peer-data) - Library for files, media streaming/sharing using WebRTC.
 - [Easy to use WebRTC data channels and media transport](https://github.com/murat-dogan/node-datachannel)
+- [libp2p-webrtc](https://github.com/wngr/libp2p-webrtc) - WebRTC transport for rust-libp2p for both native and WebAssembly (browser).
+- [WebRTC-HTTP ingestion protocol (WHIP)](https://www.ietf.org/archive/id/draft-ietf-wish-whip-01.html) ([HN](https://news.ycombinator.com/item?id=30342945))

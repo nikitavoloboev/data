@@ -29,6 +29,7 @@
 - [Idea: all government spending should be presented as $-per-taxpayer. 10 billion dollars in infra = $70 per taxpayer owed in future taxes.](https://twitter.com/justindross/status/1467566554728521731)
 - [Nothing is more permanent than a “temporary” government program.](https://twitter.com/elonmusk/status/1468685877970935809)
 - [The way I approach policy—what creates systemic risk to our country? My biggest concern is the demographic crisis: too few people having kids, causing fiscal insolvency. If that means subsidizing childcare & parental leave, then we have to do it.](https://twitter.com/nikitabier/status/1491847339715092521)
+- [The state will never be better than we require it to be.](https://twitter.com/Snowden/status/1493646944094371842)
 
 ## Links
 

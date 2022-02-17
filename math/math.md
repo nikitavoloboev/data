@@ -340,3 +340,4 @@
 - [The mathematically optimal Wordle strategy (2022)](https://www.youtube.com/watch?v=v68zYyaEmEA) ([Tweet](https://twitter.com/3blue1brown/status/1490351572215283712))
 - [insect](https://insect.sh/) - High precision scientific calculator with full support for physical units. ([Code](https://github.com/sharkdp/insect))
 - [Why won’t anyone teach me math? (2022)](https://www.dailyprincetonian.com/article/2022/02/stem-intro-courses-humanites-exploration) ([HN](https://news.ycombinator.com/item?id=30302079))
+- [MathBook.Info](https://mathbook.info/) - Интерактивные книги по математике.

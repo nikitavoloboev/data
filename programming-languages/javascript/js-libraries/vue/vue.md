@@ -109,3 +109,4 @@
 - [Vue 3 as the New Default (2022)](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html) ([HN](https://news.ycombinator.com/item?id=30251115))
 - [FormKit](https://github.com/formkit/formkit) - Form authoring framework for Vue developers.
 - [TSConfigs for Vue projects to extend](https://github.com/vuejs/tsconfig)
+- [Algolia module for Nuxt](https://github.com/nuxt-community/algolia-module)

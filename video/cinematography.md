@@ -38,3 +38,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Approved Cameras by Netflix](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture) ([HN](https://news.ycombinator.com/item?id=29856911))
 - [Why are Films Shot in Two Colors?](https://www.youtube.com/watch?v=YCJXS4hvOsU)
 - [How to find the best camera angles](https://www.youtube.com/watch?v=hovbpWHJgTQ)
+- [Most movies look the same. Here’s why (2022)](https://www.youtube.com/watch?v=7I11sKqkCfA)

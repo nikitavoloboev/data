@@ -332,3 +332,5 @@
 - [APIs as ladders (2022)](https://blog.sbensu.com/posts/2022-01-24-apis-as-ladders/) ([Tweet](https://twitter.com/devonzuegel/status/1490457584138174464))
 - [Building API Docs](https://brandur.org/nanoglyphs/031-api-docs) ([HN](https://news.ycombinator.com/item?id=30248702))
 - [Keygen](https://keygen.sh/) - Software Licensing and Distribution API. ([GitHub](https://github.com/keygen-sh))
+- [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints) ([HN](https://news.ycombinator.com/item?id=30320113))
+- [Netlify Graph](https://github.com/netlify/labs/tree/main/features/graph/documentation) - Enables developers to seamlessly integrate third-party APIs and services into their web applications without writing API-specific code. ([Article](https://www.netlify.com/blog/announcing-netlify-graph-a-faster-way-for-teams-to-develop-web-apps-with-apis)) ([HN](https://news.ycombinator.com/item?id=30348274))

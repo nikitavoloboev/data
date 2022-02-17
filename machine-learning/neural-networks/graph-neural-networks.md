@@ -89,3 +89,5 @@
 - [Simple implementation of Equivariant GNN in PyTorch](https://github.com/senya-ashukha/simple-equivariant-gnn)
 - [GemNet: Universal Directional Graph Neural Networks for Molecules (2021)](https://www.in.tum.de/daml/gemnet/) ([Code](https://github.com/TUM-DAML/gemnet_pytorch))
 - [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Easy-to-use library for R&D at the intersection of Deep Learning on Graphs and Natural Language Processing.
+- [GNNs Recipe](https://github.com/dair-ai/GNNs-Recipe) - Recipe to study Graph Neural Networks (GNNs).
+- [GraphiT: Encoding Graph Structure in Transformers (2021)](https://arxiv.org/abs/2106.05667) ([Code](https://github.com/inria-thoth/GraphiT))

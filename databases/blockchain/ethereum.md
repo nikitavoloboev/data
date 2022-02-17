@@ -477,3 +477,9 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [glyph](https://github.com/sambarnes/cairo-glyph) - Proof-of-concept package manager for Cairo contracts/libraries.
 - [Uniswap V3 SDK](https://github.com/daoleno/uniswapv3-sdk) - Go SDK for building applications on top of Uniswap V3.
 - [starknet-rs](https://github.com/xJonathanLEI/starknet-rs) - Complete StarkNet library in Rust.
+- [starknet.py](https://github.com/software-mansion/starknet.py) - StarkNet SDK for Python.
+- [StealthDrop](https://github.com/nalinbhardwaj/stealthdrop) - Anonymous Airdrops using ZK proofs. ([HN](https://news.ycombinator.com/item?id=30340648))
+- [Blacksmith](https://github.com/pbshgthm/blacksmith) - User contract generator.
+- [EthSema](https://github.com/Kenun99/ethsema) - Binary translator for Ethereum 2.0.
+- [Tender](https://github.com/therne/tender) - Layer 2 for IPFS / API Renderer for Web3 / Serverless for Ethereum.
+- [ENS explained visually](https://twitter.com/avsa/status/1493634935038656519)

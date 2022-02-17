@@ -106,3 +106,5 @@
 - [JSON-LD is ideal for Cloud Native technologies (2022)](https://ariadne.space/2022/02/11/json-ld-is-ideal-for-cloud-native-technologies/)
 - [JLess](https://pauljuliusmartinez.github.io/) - Command-line JSON viewer. ([HN](https://news.ycombinator.com/item?id=30273940)) ([Code](https://github.com/PaulJuliusMartinez/jless))
 - [ijq](https://github.com/gpanders/ijq) - Interactive jq tool.
+- [jd](https://github.com/josephburnett/jd) - CLI and Go library for diffing and patching JSON values.
+- [What's the Difference: JSON diff and patch](https://github.com/terminusdb/technical-blogs/blob/main/blogs/json_diff_and_patch.md) ([HN](https://news.ycombinator.com/item?id=30362025))

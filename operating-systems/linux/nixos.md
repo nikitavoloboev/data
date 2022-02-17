@@ -49,6 +49,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [fortune](https://github.com/fortuneteller2k/nix-config) - NixOS configuration spawned from madness (home-manager and system).
 - [Dov Alperin](https://github.com/DAlperin/dotfiles)
 - [May Niklas](https://github.com/MayNiklas/nixos)
+- [Victor Freire](https://github.com/ratsclub/dotfiles)
 
 ## Nix configs (macOS)
 
@@ -191,3 +192,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Declarative container images with Nix](https://github.com/cloudwatt/nix-container-images) - Write container images as NixOS machines.
 - [Building a Philosophy Workstation with NixOS: Installing Firefox, VSCodium, and LaTeX (2022)](https://shen.hong.io/nixos-for-philosophy-installing-firefox-latex-vscodium/)
 - [nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.
+- [macOS to NixOS the Purely Functional Linux Distribution by Daniel Britten (2022)](https://www.youtube.com/watch?v=SzFn7UwVws0)

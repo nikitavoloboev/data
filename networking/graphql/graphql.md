@@ -295,3 +295,4 @@
 - [Great, cheap, reliable setup/stack for smaller GraphQL APIs (2022)](https://twitter.com/buildsghost/status/1490450114904657922)
 - [GraphQL Network Inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring.
 - [GraphQL Eventbus](https://github.com/quant-daddy/graphql-eventbus) - Build a GraphQL powered Event architecture.
+- [Rust GraphQL API Boilerplate](https://github.com/mattdamon108/rust_graphql_api_boilerplate) - Boilerplate of GraphQL API built in Rust + Warp + Juniper + Diesel.

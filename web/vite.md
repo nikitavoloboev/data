@@ -27,3 +27,5 @@
 - [A deep-dive on Vite (2022)](https://overcast.fm/+Id5WJAMzE)
 - [Vite Plugin Node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to allow you to use vite as node dev server.
 - [vite-plugin-ssg-utils](https://github.com/DerYeger/vite-plugin-ssg-utils) - Utils for vite-ssg and other Vite SSG or SSR tools.
+- [vite-plugin-bundled-entry](https://github.com/divriots/vite-plugin-bundled-entry) - Vite plugin that generates a bundled entry file.
+- [bundle-require](https://github.com/egoist/bundle-require) - Bundle and `require` a file, the same way Vite loads `vite.config.ts`.

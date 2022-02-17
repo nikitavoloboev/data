@@ -519,3 +519,5 @@
 - [What's in a good error message? (2022)](https://www.morling.dev/blog/whats-in-a-good-error-message/) ([HN](https://news.ycombinator.com/item?id=30234572))
 - [An optimization story (2022)](https://tinkering.xyz/fmo-optimization-story/) ([Lobsters](https://lobste.rs/s/o4s0jk/optimization_story))
 - [five different paths to methods](https://technomancy.us/197)
+- [Single binary executable packages (2022)](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/) ([Lobsters](https://lobste.rs/s/adr60v/single_binary_executable_packages))
+- [CUPID—for joyful coding (2022)](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)

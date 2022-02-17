@@ -31,6 +31,7 @@
 - [Kinc](https://github.com/Kode/Kinc) - Modern low level game library and hardware abstraction.
 - [Cairo](https://github.com/freedesktop/cairo) - Multi-platform 2D graphics library.
 - [minidraw](https://github.com/mackron/minidraw) - Single file 2D graphics library written in C.
+- [TinyGL](https://github.com/C-Chads/tinygl) - Penultimate portable graphics library.
 
 ## Test
 

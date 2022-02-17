@@ -150,3 +150,5 @@
 - [Pikaso](https://pikaso.me/) - Get a clean and clutter-free screenshot of any tweet.
 - [Twift](https://github.com/daneden/Twift) - Asynchronous Twitter Swift library based on the Twitter v2 API.
 - [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) - Remove distractions from the new Twitter layout. Browser extension.
+- [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)
+- [Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis (2022)](https://arxiv.org/abs/2201.07281) ([Code](https://github.com/social-machines/TweebankNLP))

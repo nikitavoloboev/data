@@ -87,3 +87,5 @@
 - [SURF](https://github.com/slaclab/surf) - Huge VHDL library for FPGA development.
 - [openwifi](https://github.com/open-sdr/openwifi) - Linux mac80211 compatible full-stack IEEE802.11/Wi-Fi design based on SDR (Software Defined Radio).
 - [FPGA Interchange format to enable interoperable FPGA tooling (2022)](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html) ([HN](https://news.ycombinator.com/item?id=30317317))
+- [FPGA interchange schema definitions](https://github.com/chipsalliance/fpga-interchange-schema)
+- [Where Lions Roam: Haskell & Hardware on the VELDT](https://github.com/standardsemiconductor/VELDT-getting-started)

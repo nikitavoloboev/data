@@ -62,7 +62,7 @@
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions))
-- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) ([Lobsters](https://lobste.rs/s/td0qze/learning_rust_with_entirely_too_many))
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) ([Lobsters](https://lobste.rs/s/td0qze/learning_rust_with_entirely_too_many)) ([HN](https://news.ycombinator.com/item?id=30326130))
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
 - [Rust. Are we web yet?](http://www.arewewebyet.org/) ([Code](https://github.com/rust-lang/arewewebyet)) ([HN](https://news.ycombinator.com/item?id=24940650))
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
@@ -702,3 +702,6 @@
 - [A Rust match made in hell (2022)](https://fasterthanli.me/articles/a-rust-match-made-in-hell) ([Reddit](https://www.reddit.com/r/programming/comments/sqhbkf/a_rust_match_made_in_hell/))
 - [What makes ripgrep so fast? (2022)](https://www.reddit.com/r/rust/comments/sr02aj/what_makes_ripgrep_so_fast/)
 - [Rust started as a personal project in 2006](https://twitter.com/graydon_pub/status/1492634815748739077) ([HN](https://news.ycombinator.com/item?id=30321747))
+- [What does it mean when people say that "Rust does not have a stable ABI"? (2022)](https://www.reddit.com/r/rust/comments/ss2p6c/what_does_it_mean_when_people_say_that_rust_does/)
+- [Lineiform](https://github.com/chc4/lineiform) - Meta-JIT library for Rust interpreters. ([Article](https://blog.redvice.org/2022/lineiform-rust-meta-jit/))
+- [More Enum Types (2022)](https://blog.yoshuawuyts.com/more-enum-types/)

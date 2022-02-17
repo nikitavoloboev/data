@@ -118,3 +118,5 @@
 - [UniCoq](https://github.com/unicoq/unicoq) - Enhanced unification algorithm for Coq.
 - [Phase Semantics](https://github.com/ppedrot/ll-coq) - Some Coq formalizations of Linear Logic.
 - [CertiGraph](https://github.com/CertiGraph/CertiGraph) - Library for verifying graph-manipulating programs. Powered by Coq and VST. Compatible with CompCert.
+- [Coinduction](https://github.com/damien-pous/coinduction) - Library for doing proofs by (enhanced) coinduction.
+- [Tactical](https://github.com/tchajed/coq-tactical) - Library of Coq proof automation.

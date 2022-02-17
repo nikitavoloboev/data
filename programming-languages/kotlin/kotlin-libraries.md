@@ -30,6 +30,10 @@
 
 - [Krush](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin.
 
+## GraphQL
+
+- [GraphQL Kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin.
+
 ## Other
 
 - [Arrow](https://github.com/arrow-kt/arrow) - Functional companion to Kotlin's Standard Library. ([Web](https://arrow-kt.io/))

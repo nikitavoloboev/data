@@ -51,3 +51,5 @@
 - [CombineWaiting](https://github.com/jameshurst/CombineWaiting) - Synchronously wait for Combine publishers.
 - [Declarative Reactive Programming with Combine (2021)](https://defagos.github.io/declarative_reactive_programming_with_combine/) ([Code](https://github.com/defagos/DeclarativeCombine))
 - [OpenCombineJS](https://github.com/swiftwasm/OpenCombineJS) - OpenCombine helpers for JavaScriptKit/WebAssembly APIs.
+- [Networking with Combine and SwiftUI](https://peterfriese.dev/posts/swiftui-combine-networking-gettingstarted/) ([Code](https://github.com/peterfriese/SwiftUI-Combine-Applied))
+- [Recombine](https://github.com/ReSwift/Recombine) - Deeply opinionated Redux-like implementation of the unidirectional data flow architecture in Swift.

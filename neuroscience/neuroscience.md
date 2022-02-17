@@ -102,6 +102,7 @@
 - [In Search of Oscillatory Traces of the Internal Clock (2016)](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00224/full)
 - [Dr. David Berson: Your Brain's Logic & Function (2021)](https://www.youtube.com/watch?v=oC3fhUjg30E)
 - [2021 in review: unsupervised brain models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
+- [Some neurons are active when adding, others when subtracting](https://www.uni-bonn.de/en/news/028-2022) ([HN](https://news.ycombinator.com/item?id=30363495))
 
 ## Images
 

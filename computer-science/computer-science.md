@@ -17,7 +17,7 @@
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science) ([HN](https://news.ycombinator.com/item?id=27744255))
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) ([HN](https://news.ycombinator.com/item?id=22286340)) ([HN](https://news.ycombinator.com/item?id=23588896)) ([HN](https://news.ycombinator.com/item?id=29353904))
 - [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
-- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546)) ([Video Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/))
+- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546)) ([Video Lectures](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)) ([Notes](https://github.com/nebhrajani-a/sicp))
 - [Ask HN: What are the most fundamental books on computer science? (2019)](https://news.ycombinator.com/item?id=21311302)
 - [Code by Charles Petzold (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [CS/ML notes](https://tlienart.github.io/pub/csml.html)
@@ -176,3 +176,4 @@
 - [On being a PhD student of Robert Harper (2022)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0) ([HN](https://news.ycombinator.com/item?id=30103728))
 - [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) ([HN](https://news.ycombinator.com/item?id=30189780))
 - [How to fund graduate school](https://github.com/dhanus/graduate-fellowships) - List of resources to fund your MS and/or PhD, particularly in computer science.
+- [It's often said that the Analytical Engine was before its time](https://twitter.com/rygorous/status/1359344949037211650) ([HN](https://news.ycombinator.com/item?id=30354976))

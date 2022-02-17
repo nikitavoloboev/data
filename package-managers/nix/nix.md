@@ -290,3 +290,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Exploring Nix Flakes: Usable Go Plugins (2022)](https://flyx.org/nix-flakes-go/)
 - [gradle2nix](https://github.com/tadfisher/gradle2nix) - Generate Nix expressions which build Gradle-based projects.
 - [npins](https://github.com/andir/npins) - Simple and convenient pinning of dependencies in Nix.
+- [nix-docker-base](https://github.com/teamniteo/nix-docker-base) - Nix Docker base images for fast and minimal builds.

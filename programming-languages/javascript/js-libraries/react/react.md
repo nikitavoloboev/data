@@ -298,3 +298,5 @@
 - [Ask HN: Should I even bother with React? (2022)](https://news.ycombinator.com/item?id=30046364)
 - [This Week In React Newsletter](https://www.getrevue.co/profile/thisweekinreact) ([Code](https://github.com/slorber/this-week-in-react))
 - [System Design React Code Examples](https://github.com/madhu-sagar/system-design-react-code-examples)
+- [Advice in setting up React project (2022)](https://www.reddit.com/r/reactjs/comments/sspw6k/first_time_setting_up_a_greenfield_project/)
+- [ASAP](https://github.com/mechanize-systems/asap) - Opinionated application server for React Single Page Applications.

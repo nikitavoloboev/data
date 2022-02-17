@@ -25,7 +25,7 @@
 - [Public Zone Database (ZoneDB)](https://github.com/zonedb/zonedb) - Contains a list and associated metadata of public DNS zones.
 - [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) - Synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server.
-- [Nslookup.io](https://www.nslookup.io/) - Find DNS records.
+- [Nslookup.io](https://www.nslookup.io/) - Find DNS records. ([Article](https://www.nslookup.io/blog/i-quit-my-job/)) ([HN](https://news.ycombinator.com/item?id=30357192))
 - [c-ares](https://github.com/c-ares/c-ares) - C library for asynchronous DNS requests.
 - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page. ([HN](https://news.ycombinator.com/item?id=22790425)) ([HN 2](https://news.ycombinator.com/item?id=22808121))
 - [dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet.
@@ -186,3 +186,4 @@
 - [devdns](https://github.com/ruudud/devdns) - Automagic Docker DNS for local development.
 - [DNS lookup cache for Go](https://github.com/rs/dnscache)
 - [Caching DNS Resolver](https://github.com/vercel/dns-cached-resolve) - Cache DNS A and AAAA record resolutions.
+- [rustdns](https://github.com/bramp/rustdns) - Simple, fast, and fully fledged DNS library for interacting with domain name services at a high or low level.

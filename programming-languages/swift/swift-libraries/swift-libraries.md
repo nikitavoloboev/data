@@ -278,6 +278,7 @@
 - [Fuzi](https://github.com/cezheng/Fuzi) - Fast & lightweight XML & HTML parser in Swift with XPath & CSS support.
 - [Swift Fetch](https://github.com/SwiftSimpers/SwiftFetch) - Fetch-like API implementation for Swift for asynchronous HTTP requests with the new async/await syntax.
 - [Microya](https://github.com/Flinesoft/Microya) - Micro version of the Moya network abstraction layer written in Swift.
+- [swift-html](https://github.com/pointfreeco/swift-html) - Swift DSL for type-safe, extensible, and transformable HTML documents.
 
 ## SwiftUI
 
@@ -412,6 +413,11 @@
 - [SwiftUI Sliders with custom styles](https://github.com/spacenation/swiftui-sliders)
 - [ResizableSheet](https://github.com/mtj0928/ResizableSheet) - Half modal view for SwiftUI.
 - [Zoomable](https://github.com/jasudev/Zoomable) - Container that allows you to zoom in and out of an image using only SwiftUI.
+- [SherlockForms](https://github.com/inamiy/SherlockForms) - Elegant SwiftUI Form builder to create a searchable Settings and DebugMenu screens for iOS.
+- [GRDBQuery](https://github.com/groue/GRDBQuery) - Property wrapper for displaying up-to-date database content in SwiftUI views.
+- [JGProgressHUD-SwiftUI](https://github.com/JonasGessner/JGProgressHUD-SwiftUI) - Easily show HUDs with SwiftUI! Lightweight SwiftUI wrapper for JGProgressHUD for iOS, tvOS, Catalyst.
+- [WebView](https://github.com/phatblat/WebView) - Simple SwiftUI wrapper for WKWebView.
+- [PreviewView](https://github.com/theoriginalbit/PreviewView) - Make use of SwiftUI Previews for UIKit.
 
 ## Test
 
@@ -444,6 +450,7 @@
 
 - [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis)
 - [DL4S](https://github.com/palle-k/DL4S) - Provides a high-level API for many accelerated operations common in neural networks and deep learning.
+- [Neuron](https://github.com/wvabrinskas/Neuron) - Neural network library for Swift.
 
 ## DB
 
@@ -946,6 +953,11 @@
 - [SPSafeSymbols](https://github.com/sparrowcode/SPSafeSymbols) - Easy usage SFSymbols with static types. If symbol not available, compiler will show warning.
 - [ScriptLib](https://github.com/jessegrosjean/ScriptLib) - Early and in progress scripting suite for Swift apps.
 - [SwiftDate](https://github.com/malcommac/SwiftDate) - Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
+- [NonEmpty](https://github.com/pointfreeco/swift-nonempty) - Compile-time guarantee that a collection contains a value.
+- [App Store Connect](https://github.com/onmyway133/AppStoreConnect) - Interact with App Store Connect APIs.
+- [μSwift](https://github.com/compnerd/uswift) - Minimal standard library that provides a few of the core interfaces required for using basic constructs in Swift.
+- [Lullaby](https://github.com/jtodaone/Lullaby) - Functional DSP / Audio Framework for Swift.
+- [Cassowary](https://github.com/compnerd/cassowary) - Swift implementation of the cassowary simplex solver.
 
 ## Other (not lib)
 
@@ -991,3 +1003,5 @@
 - [Sitrep](https://github.com/twostraws/Sitrep) - Source code analyzer for Swift projects.
 - [swift-add](https://github.com/subdigital/swift-add) - Easily add swift packages from the command line.
 - [Combining protocols in Swift (2022)](https://www.swiftbysundell.com/articles/combining-protocols-in-swift/)
+- [Swift Package Manager](https://github.com/apple/swift-package-manager)
+- [LicenseKit](https://github.com/danielsaidi/LicenseKit) - Helps you protect your Swift-based apps and libraries with a commercial license.

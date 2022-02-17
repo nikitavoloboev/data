@@ -36,3 +36,5 @@
 - [The Guide to Data Versioning (2021)](https://lakefs.io/data-versioning/)
 - [Got](https://github.com/gotvc/got) - Version control, with a model similar to Git's, extending ideas from WebFS.
 - [Awesome trunk based development](https://github.com/cgbystrom/awesome-trunk-based-dev)
+- [Bump](https://github.com/wader/bump) - Generic version tracking and update tool.
+- [Generating A Changelog](https://github.com/Kong/changelog-generator) - Changelog generator focused on ease of use and flexibility.

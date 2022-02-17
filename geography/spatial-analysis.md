@@ -1,5 +1,7 @@
 # [Spatial analysis](https://en.wikipedia.org/wiki/Spatial_analysis)
 
+[This article](https://ciechanow.ski/gps/) on GPS is fascinating.
+
 ## Links
 
 - [What’s next for Google Maps Platform (2019)](https://cloud.google.com/blog/products/maps-platform/whats-next-for-google-maps-platform)
@@ -140,3 +142,4 @@
 - [geoq](https://github.com/worace/geoq) - Command-line tool for working with geospatial data.
 - [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) - Open-Source Mapbox GL Native.
 - [mbtileserver](https://github.com/consbio/mbtileserver) - Simple Go-based server for map tiles stored in mbtiles format.
+- [Location History Visualizer Pro](https://locationhistoryvisualizer.com/) - In-depth analysis of your Google Location History.

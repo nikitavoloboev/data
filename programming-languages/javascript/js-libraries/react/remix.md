@@ -23,6 +23,8 @@
 - [Remix + Cloudflare Workers + Prisma](https://github.com/marcomafessolli/remix-prisma-cloudflare-workers)
 - [Remix - Ink](https://github.com/one-aalam/remix-ink) - Crisp, minimal, personal blog theme for Remix.
 - [Remix React Native Web Starter](https://github.com/HorusGoul/remix-react-native-web-starter)
+- [Remix + Stitches](https://github.com/jjenzz/remix-stitches)
+- [Hacker News Clone Remix/React](https://github.com/clintonwoo/hackernews-remix-react)
 
 ## Plugins
 

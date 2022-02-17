@@ -71,3 +71,5 @@
 - [BINSEC](https://github.com/binsec/binsec) - Open-source toolset to help improve software security at the binary level.
 - [bun](https://github.com/ocurrent/bun) - Tool for integrating fuzzer-based tests into a conventional CI pipeline.
 - [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types (2021)](https://github.com/RUB-SysSec/Nyx)
+- [Fuzz introspector](https://github.com/ossf/fuzz-introspector) - Tool to help fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
+- [Stateful Model-Based Database Fuzzing (2022)](https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337)

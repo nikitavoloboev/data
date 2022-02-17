@@ -37,3 +37,4 @@
 - [PDFRip](https://github.com/mufeedvh/pdfrip) - Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [ZotFile](https://github.com/jlegewie/zotfile) - Advanced PDF management for Zotero.
 - [pdfmake](https://github.com/bpampuch/pdfmake) - PDF document generation library for server-side and client-side in pure JavaScript.
+- [x-ray](https://github.com/freelawproject/x-ray) - Python library for finding bad redactions in PDF documents.

@@ -148,6 +148,7 @@
 - [ZIO logging](https://github.com/zio/zio-logging) - Simple logging for ZIO apps, with correlation, context & pluggable backends out of the box.
 - [ZIO Config](https://github.com/zio/zio-config) - ZIO-based library for working with application configuration data.
 - [Scribe](https://github.com/outr/scribe) - Fastest logging library in the world. Built from scratch in Scala and programmatically configurable.
+- [Emil](https://github.com/eikek/emil) - Library for dealing with E-Mail in Scala.
 
 ## Links
 
@@ -159,3 +160,6 @@
 - [Best Scala framework / libraries (2021)](https://www.reddit.com/r/scala/comments/qilhao/best_scala_framework_libraries_out_there/)
 - [FP libraries that target scala 3 exclusively? (2021)](https://www.reddit.com/r/scala/comments/qznudw/fp_libraries_that_target_scala_3_exclusively/)
 - [Scala libraries for ML (2021)](https://www.reddit.com/r/scala/comments/r3x8mm/what_libraries_do_you_use_for_machine_learning/)
+- [sbt-dotenv](https://github.com/mefellows/sbt-dotenv) - sbt plugin to load environment variables from .env into the JVM System Environment for local development.
+- [sbt-autoversion](https://github.com/sbt/sbt-autoversion) - Builds on the sbt-release and sbt-git plugins to automatically manage the version bump to apply.
+- [sbt-release](https://github.com/sbt/sbt-release) - Customizable release process that you can add to your project.

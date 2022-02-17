@@ -120,3 +120,4 @@
 - [Frontiers in Collective Intelligence: A Workshop Report (2021)](https://arxiv.org/abs/2112.06864)
 - [Literature for the self-taught AI practitioner](https://github.com/camoverride/lit)
 - [AI Now Institute](https://ainowinstitute.org/) - Research institute dedicated to examining the social and political implications of artificial intelligence. ([Twitter](https://twitter.com/ainowinstitute))
+- [Modular AI](https://www.modular.ai/) - AI infrastructure to power the world.

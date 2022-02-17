@@ -171,3 +171,5 @@
 - [An accessible introduction to type theory and implementing a type-checker (2020)](https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/ss3w6n/an_accessible_introduction_to_type_theory_and/))
 - [Swapping arguments of variables in higher-order pattern unification](https://cstheory.stackexchange.com/questions/50914/swapping-arguments-of-variables-in-higher-order-pattern-unification)
 - [Linearity and Uniqueness: An Entente Cordiale (2022)](https://starsandspira.ls/docs/esop22-draft.pdf)
+- [Structurally-Typed Condition Handling (2022)](https://journal.infinitenegativeutility.com/structurally-typed-condition-handling) ([HN](https://news.ycombinator.com/item?id=30338403))
+- [Type Checking as Calculation (2022)](https://billwadge.com/2022/02/16/type-checking-as-calculation/) ([HN](https://news.ycombinator.com/item?id=30356493))

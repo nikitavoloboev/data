@@ -464,3 +464,5 @@
 - [On Building 30K Debian Packages (2022)](http://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html) ([HN](https://news.ycombinator.com/item?id=30237483))
 - [Comprehensive Linux Cheatsheet](https://gto76.github.io/linux-cheatsheet/) ([Code](https://github.com/gto76/linux-cheatsheet))
 - [iotop](https://github.com/Tomas-M/iotop) - top utility for IO.
+- [vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools.
+- [A new wave of Linux applications (2022)](https://tuxphones.com/convergent-linux-phone-apps/) ([HN](https://news.ycombinator.com/item?id=30364337))

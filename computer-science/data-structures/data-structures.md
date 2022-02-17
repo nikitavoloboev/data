@@ -101,3 +101,4 @@
 - [Data Structures - Full Course Using C and C++ (2021)](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
 - [How do arrays work? (2021)](https://nan.fyi/how-arrays-work)
 - [An efficient circular queue of strings (2018)](https://nitely.github.io/2018/05/16/an-efficient-queue-of-strings.html)
+- [Data Structures in JavaScript](https://github.com/kamranahmedse/datastructures-in-javascript) - Illustrated Data Structures — Video Series.

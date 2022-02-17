@@ -238,7 +238,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Webrecorder](https://webrecorder.net/) - Provides a suite of open source projects and tools to capture interactive websites and replay them at a later time as accurately as possible. ([GitHub](https://github.com/webrecorder))
 - [Keeping platforms open (2021)](https://seirdy.one/2021/02/23/keeping-platforms-open.html) ([Lobsters](https://lobste.rs/s/ur3eul/keeping_platforms_open))
 - [Lessons around creating UI builders (2021)](https://59bb.medium.com/lessons-around-creating-ui-builders-46ceeaea327f)
-- [Redbean](https://justine.lol/redbean/index.html) - Single-file distributable web server. ([HN](https://news.ycombinator.com/item?id=26271117)) ([Lobsters](https://lobste.rs/s/3emvqh/redbean_single_file_distributable_web)) ([Code](https://github.com/jart/cosmopolitan/blob/master/tool/net/redbean.c))
+- [Redbean](https://justine.lol/redbean/index.html) - Single-file distributable web server. ([HN](https://news.ycombinator.com/item?id=26271117)) ([Lobsters](https://lobste.rs/s/3emvqh/redbean_single_file_distributable_web)) ([Code](https://github.com/jart/cosmopolitan/blob/master/tool/net/redbean.c)) ([Lobsters](https://lobste.rs/s/c6ogym/redbean_single_file_distributable_web))
 - [The small web is beautiful (2021)](https://benhoyt.com/writings/the-small-web-is-beautiful/) ([Lobsters](https://lobste.rs/s/d6qwff/small_web_is_beautiful))
 - [Unlock](https://unlock-protocol.com/) - Protocol for memberships built on a blockchain. ([Code](https://github.com/unlock-protocol/unlock))
 - [Web Mini Apps](https://web.dev/mini-apps/) - Apps that are built with web technologies but that do not run in browsers.
@@ -357,3 +357,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Design History Timeline 1990-2022](https://www.webdesignmuseum.org/web-design-history)
 - [Why Efficient Hydration in JavaScript Frameworks is so Challenging (2022)](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - [Webref](https://github.com/w3c/webref) - Machine-readable references of terms defined in web browser specifications.
+- [Getting Started with the File System Access API (2022)](https://css-tricks.com/getting-started-with-the-file-system-access-api/) ([HN](https://news.ycombinator.com/item?id=30341558))
+- [The race to reconnect Tonga (2022)](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/) ([HN](https://news.ycombinator.com/item?id=30332628))
+- [Mother Earth Mother Board](https://www.wired.com/1996/12/ffglass/) - About undersea cables.
+- [Web APIs Playground](https://webapis-playground.vercel.app/) - Showcase the JavaScript Web APIs with examples and demonstrations. ([Code](https://github.com/atapas/webapis-playground))

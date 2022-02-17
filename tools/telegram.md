@@ -53,6 +53,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [AIOGram](https://github.com/aiogram/aiogram) - Simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
 - [Echotron](https://github.com/NicoNex/echotron) - Concurrent library for telegram bots written in pure Go.
 - [teloxide-core](https://github.com/teloxide/teloxide-core) - Tools for making requests to the Telegram Bot API with ease.
+- [shell2telegram](https://github.com/msoap/shell2telegram) - Create Telegram bot from command-line.
 
 ## Bots
 

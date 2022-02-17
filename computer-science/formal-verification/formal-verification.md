@@ -117,3 +117,4 @@
 - [MIT Formal Reasoning About Programs (2022)](https://frap.csail.mit.edu/main) ([Code](https://github.com/mit-frap/spring22))
 - [Formal Verification of a Distributed Dynamic Reconfiguration Protocol (2021)](https://arxiv.org/abs/2109.11987) ([Code](https://github.com/will62794/logless-reconfig/tree/master/proofs))
 - [Kimchi: The latest update to Mina’s proof system (2022)](https://minaprotocol.com/blog/kimchi-the-latest-update-to-minas-proof-system) ([HN](https://news.ycombinator.com/item?id=30303903))
+- [Cubicle](http://cubicle.lri.fr/) - Tool that combines model checking algorithms and automatic SMT theorem provers with a powerful invariants inference mechanism. ([Code](https://github.com/cubicle-model-checker/cubicle))

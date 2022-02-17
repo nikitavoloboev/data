@@ -214,7 +214,7 @@ zz
 - [We can have nice things (2019)](https://www.youtube.com/watch?v=Bt-vmPC_-Ho) ([Slides](https://vimconf.org/2019/slides/justin.pdf))
 - [Vim like apps/plugins](https://vim.reversed.top/) ([HN](https://news.ycombinator.com/item?id=21692418#21693299))
 - [pack](https://github.com/maralla/pack) - Missing vim8 package manager.
-- [Neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust.
+- [Neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust.
 - [Lisp in Vim with Slimv or Vlime (2019)](https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime/)
 - [Build Your Own Vim Emulation for VS Code (2020)](https://johtela.github.io/vscode-modaledit/docs/.vscode/settings.html) ([HN](https://news.ycombinator.com/item?id=22383841))
 - [130+ Essential Vim Commands (2020)](https://catswhocode.com/vim-commands/)

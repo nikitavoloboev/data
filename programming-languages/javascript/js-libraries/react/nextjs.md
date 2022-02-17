@@ -116,6 +116,7 @@
 - [next-export-i18n](https://github.com/martinkr/next-export-i18n) - Internationalize (18n) next.js with true support for next export.
 - [next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - Cleaner API for enabling and configuring plugins for next.js.
 - [Next-Multipart](https://github.com/cstrnt/next-multipart) - Easy & Simple File Uploads for Next.js.
+- [next-layout](https://github.com/moxystudio/next-layout) - Add persistent and nested layouts to your Next.js projects in a declarative way.
 
 ## Notes
 
@@ -312,3 +313,4 @@
 - [next-router-mock](https://github.com/scottrippey/next-router-mock) - Mock implementation of the Next.js Router.
 - [pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
 - [Next.js Modal Routing (2022)](https://www.youtube.com/watch?v=P4W_LaotmNI) ([Code](https://github.com/ryanto/next-modal-routing))
+- [Most requested Next.js features (2022)](https://twitter.com/leeerob/status/1493775264869863429)

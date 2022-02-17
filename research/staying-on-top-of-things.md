@@ -172,6 +172,7 @@ And these Discord servers:
 - [TAP : The American Prospect](https://prospect.org/)
 - [Flashbak](https://flashbak.com/) - Everything Old Is New Again.
 - [ProPublica](https://www.propublica.org/) - Investigative Journalism and News in the Public Interest.
+- [Royal United Services Institute](https://rusi.org/)
 
 ### Other
 

@@ -231,3 +231,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Machium](https://github.com/PsychoBird/Machium) - Debugger for Apple Silicon. ([Article](https://psychobird.github.io/Machium/Machium.html))
 - [Apple Data Formats and Knowledge](https://github.com/hack-different/apple-knowledge) - Collection of reverse engineered Apple formats, protocols, or other interesting bits.
 - [Running macOS in a Virtual Machine on Apple Silicon Macs](https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs) ([Tweet](https://twitter.com/stroughtonsmith/status/1492535749488619520)) ([HN](https://news.ycombinator.com/item?id=30317260))
+- [Apple Internals](https://github.com/mroi/apple-internals) - Information and tools to understand the internals of Apple’s operating systems.

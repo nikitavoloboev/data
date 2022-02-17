@@ -60,3 +60,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Keeping up with the plant-based food product industry (2021)](https://www.foodpolitics.com/2021/12/keeping-up-with-the-plant-based-food-product-industry/)
 - [Beginner's guide to veganism » how to go vegan](https://www.youtube.com/watch?v=OJxMsypwnqg)
 - [Plant based diets](https://www.reddit.com/r/nutrition/comments/scf2b7/plant_based_diets/)
+- [Challenges of producing cultivated meat at scale](https://notes.invertedpassion.com/Goodness/Challenges+of+producing+cultivated+meat+at+scale) ([HN](https://news.ycombinator.com/item?id=30344218))

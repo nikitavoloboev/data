@@ -1,8 +1,10 @@
 # Ukraine
 
-It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watch?v=8Flf1grUWCU) due to [Russian](russia.md) 'leaders' decisions. Instead of wasting lives and finances on waging war on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
+It's unfortunate [what Ukraine has to deal through](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/) due to [Russian](russia.md) 'leaders' decisions. Instead of wasting lives and finances on waging war on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
+
+I hope once Putin finally loses power, Russia stops unlawfully occupying Crimea.
 
 ## Links
 
@@ -25,3 +27,5 @@ It's unfortunate [what Ukraine has to deal through](https://www.youtube.com/watc
 - [Summary of Russia-Ukraine conflict](https://www.reddit.com/r/worldnews/comments/sb7swr/us_state_department_issues_do_not_travel_warning/)
 - [How Russia lost Ukraine (2022)](https://www.youtube.com/watch?v=cNtO8NH_qmw)
 - [HN: U.S. weighs sending 5k troops to Eastern Europe to counter Russia (2022)](https://news.ycombinator.com/item?id=30056098)
+- [What will happen if Russia invades Ukraine? (2022)](https://www.reddit.com/r/slatestarcodex/comments/sru30j/what_will_happen_if_russia_invades_ukraine/)
+- [The Plot to Destroy Ukraine (2022)](https://static.rusi.org/special-report-202202-ukraine-web.pdf) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/))

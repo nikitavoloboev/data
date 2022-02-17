@@ -65,3 +65,4 @@
 - [spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker.
 - [Finding optimal play in the game of wordle](https://github.com/alex1770/wordle)
 - [Wordles of the World](https://rwmpelstilzchen.gitlab.io/wordles/) ([HN](https://news.ycombinator.com/item?id=30159713))
+- [Why are letters shaped the way they are?](https://www.vice.com/en/article/4awqz3/why-are-letters-shaped-the-way-they-are) ([HN](https://news.ycombinator.com/item?id=30320909))

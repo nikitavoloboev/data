@@ -50,3 +50,4 @@
 - [Research chemicals to try at least once? (2021)](https://www.reddit.com/r/researchchemicals/comments/qepnro/what_are_some_research_chemicals_to_try_at_least/)
 - [Best Party Psychedelic? (2021)](https://www.reddit.com/r/researchchemicals/comments/qpsy4e/best_party_psychedelic/)
 - [Most obscure RCs you know about? (2021)](https://www.reddit.com/r/researchchemicals/comments/rh903q/what_are_the_most_obscure_rcs_you_know_about/)
+- [RC that everyone should try at least once? (2022)](https://www.reddit.com/r/researchchemicals/comments/srv4ih/whats_an_rc_that_everyone_should_try_at_least_once/)

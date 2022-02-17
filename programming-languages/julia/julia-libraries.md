@@ -146,6 +146,9 @@
 - [AbstractGPs](https://github.com/JuliaGaussianProcesses/AbstractGPs.jl) - Abstract types and methods for Gaussian Processes.
 - [AbstractAlgebra](https://github.com/wbhart/AbstractAlgebra.jl) - Generic abstract algebra functionality in pure Julia (no C dependencies).
 - [StateSpaceModels.jl](https://github.com/LAMPSPUC/StateSpaceModels.jl) - Julia package for time-series analysis using state-space models.
+- [CalculusWithJulia](https://github.com/jverzani/CalculusWithJulia.jl) - Provide notes and features for using Julia to address typical problems from the undergraduate calculus sequence.
+- [StatsPlots](https://github.com/JuliaPlots/StatsPlots.jl) - Statistical plotting recipes for Plots.jl.
+- [FixedPointDecimals](https://github.com/JuliaMath/FixedPointDecimals.jl) - Julia fixed-point decimals built from integers.
 
 ## NLP
 
@@ -458,6 +461,12 @@
 - [FreqTables](https://github.com/nalimilan/FreqTables.jl) - Frequency tables in Julia.
 - [Denumpyfy.jl](https://github.com/miguelraz/Denumpyfy.jl) - Translating numpy notebooks to Julia.
 - [SimilaritySearch.jl](https://github.com/sadit/SimilaritySearch.jl) - Near Neighbor Search Library.
+- [CBinding.jl](https://github.com/analytech-solutions/CBinding.jl) - Automatic C interfacing for Julia.
+- [LanguageServer](https://github.com/julia-vscode/LanguageServer.jl) - Implements the Microsoft Language Server Protocol for the Julia programming language.
+- [LocalCoverage.jl](https://github.com/JuliaCI/LocalCoverage.jl) - Trivial functions for working with coverage for packages locally.
+- [LogExpFunctions.jl](https://github.com/JuliaStats/LogExpFunctions.jl) - Julia package for various special functions based on `log` and `exp`.
+- [Missings.jl](https://github.com/JuliaData/Missings.jl) - Missing value support for Julia.
+- [PlotlyJS](https://github.com/JuliaPlots/PlotlyJS.jl) - Julia library for plotting with plotly.js.
 
 ## Links
 

@@ -63,6 +63,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
 - [Retype](https://github.com/retypeapp/retype) - Ultra-high-performance generator that builds a website based on simple text files. ([Docs](https://retype.com/))
 - [Cryogen](http://cryogenweb.org/) - Static sites generated with Clojure. ([Article](https://freeston.me/posts/2021-11-29-new-site-generator/))
+- [Fabricate](https://github.com/fabricate-site/fabricate) - Next-generation static website generation for Clojure.
 
 ## Notes
 

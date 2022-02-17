@@ -75,7 +75,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines. ([HN](https://news.ycombinator.com/item?id=25642062))
 - [Bedrock](https://github.com/Expensify/Bedrock) - Simple, modular, WAN-replicated, Blockchain-based data foundation for global-scale applications. ([Web](https://bedrockdb.com/))
-- [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
+- [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767)) ([GitHub](https://github.com/terminusdb))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
 - [FaunaDB](fauna.md) - Database built for serverless, featuring native GraphQL.
 - [ImmuDB](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go. ([HN](https://news.ycombinator.com/item?id=27275691)) ([HN](https://news.ycombinator.com/item?id=29702974))
@@ -197,7 +197,12 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Hazelcast](https://github.com/hazelcast/hazelcast) - Distributed computation and storage platform for consistently low-latency querying, aggregation and stateful computation against event streams and traditional data sources. ([Web](https://hazelcast.com/))
 - [SimpleDB](https://github.com/awelm/simpledb) - Simple database built from scratch that has some of the basic RDBMS features like a SQL query parser, transactions, and a query optimizer. ([HN](https://news.ycombinator.com/item?id=30156048))
 - [Garage](https://github.com/deuxfleurs-org/garage) - Lightweight S3-compatible distributed object store. ([Web](https://garagehq.deuxfleurs.fr/)) ([Article](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)) ([HN](https://news.ycombinator.com/item?id=30256753))
-- [StorageTapper](https://github.com/uber/storagetapper) - Scalable realtime MySQL change data streaming, logical backup and logical replication service.
+- [StorageTapper](https://github.com/uber/storagetapper) - Scalable real time MySQL change data streaming, logical backup and logical replication service.
+- [PoloDB](https://github.com/vincentdchan/PoloDB) - Embedded JSON-based database.
+- [TinyDB](https://github.com/msiemens/tinydb) - Lightweight document oriented database optimized for your happiness.
+- [CloverDB](https://github.com/ostafen/clover) - Lightweight NoSQL database designed for being simple and easily maintainable, thanks to its small code base. Inspired by tinyDB.
+- [Vearch](https://github.com/vearch/vearch) - Scalable distributed system for efficient similarity search of deep learning vectors.
+- [RemixDB](https://github.com/wuxb45/remixdb) - Read- and write-optimized concurrent KV store. Fast point and range queries. Extremely low write-amplification.
 
 ## Tools
 
@@ -527,3 +532,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [How to store subscriptions? A practical guide and analysis of 3 selected databases (2022)](https://medium.com/schibsted-engineering/how-to-store-subscriptions-a-practical-guide-and-analysis-of-3-selected-databases-dcfd06b747a4) ([Reddit](https://www.reddit.com/r/programming/comments/spytkb/how_to_store_subscriptions_a_practical_guide_and/))
 - [Migrate To Graph](https://github.com/microsoft/MigrateToGraph) - Tool to migrate an existing database to a graph database.
 - [Vector (approximate nearest neighbor) databases are fairly underground still](https://twitter.com/bernhardsson/status/1492656898310606849)
+- [Securely delegating trust with digital signatures and secret storage systems (2022)](https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems)

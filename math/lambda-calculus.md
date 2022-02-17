@@ -76,3 +76,4 @@ Is logical theory of computable functions.
 - [Implementing Cartesian Closed Categories](https://github.com/Zdancewic/ccc) - Elementary implementation of Simply Typed Lambda Calculus (STLC) and its semantics in terms of Cartesian Closed Categories.
 - [Compiler and runtime for normalizing the untyped λ-calculus](https://github.com/mb64/LC-interpreter)
 - [ts-lambda-calc](https://github.com/EvolveYourMind/ts-lambda-calc) - Lambda calculus at type-level with TypeScript.
+- [Tiny Lazy ML with Process Calculus in plain C](https://github.com/devaspot/milner)

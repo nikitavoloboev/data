@@ -91,3 +91,5 @@
 - [Quantum particles feel the influence of gravitational fields they never touch](https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect) ([HN](https://news.ycombinator.com/item?id=29932990))
 - [Why Quantum Mechanics? (2022)](https://scottaaronson.blog/?p=6244) ([HN](https://news.ycombinator.com/item?id=30097765))
 - [What Is a Quantum Field Theory? (2022)](https://www.cambridge.org/tw/academic/subjects/mathematics/mathematical-physics/what-quantum-field-theory)
+- [Quantum Coarse-Graining: An Information-Theoretic Approach to Thermodynamics (2016)](https://arxiv.org/abs/1607.03104) ([Web](https://phfaist.com/thesis))
+- [Wave function collapse explained (2022)](https://www.reddit.com/r/AskPhysics/comments/sud292/is_my_analogy_on_wave_function_collapse_correct/)

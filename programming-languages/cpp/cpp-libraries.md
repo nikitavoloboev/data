@@ -76,6 +76,7 @@
 
 - [OpenABE](https://github.com/zeutro/openabe) - Open source cryptographic library with attribute-based encryption implementations in C/C++.
 - [Crypto++](https://github.com/weidai11/cryptopp) - Free C++ class library of cryptographic schemes.
+- [AZTEC](https://github.com/AztecProtocol/barretenberg) - C++ elliptic curve library.
 
 ## ML
 
@@ -334,6 +335,9 @@
 - [cpp-sort](https://github.com/Morwenn/cpp-sort) - Sorting algorithms & related tools for C++14.
 - [sol2](https://github.com/ThePhD/sol2) - C++ library binding to Lua.
 - [KDBindings](https://github.com/KDAB/KDBindings) - Reactive programming & data binding in C++.
+- [alpaka](https://github.com/alpaka-group/alpaka) - Abstraction Library for Parallel Kernel Acceleration.
+- [cpp-effects](https://github.com/maciejpirog/cpp-effects) - Effect handlers in C++.
+- [nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++.
 
 ## Links
 
@@ -351,3 +355,6 @@
 - [Boost C++ libraries packaged for build2 (2021)](https://build2.org/blog/build2-boost.xhtml) ([Lobsters](https://lobste.rs/s/f3nvif/boost_c_libraries_packaged_for_build2))
 - [Poac](https://github.com/poacpm/poac) - Package manager for C++, like Cargo for Rust. ([Web](https://poac.pm/))
 - [I don’t know which container to use (and at this point I’m too afraid to ask) (2022)](https://belaycpp.com/2022/02/02/i-dont-know-which-container-to-use-and-at-this-point-im-too-afraid-to-ask/) ([Lobsters](https://lobste.rs/s/njtzmv/i_don_t_know_which_container_use_at_this))
+- [Setting up a C++/Python project with pybind11 and CMake](https://github.com/smrfeld/cmake_cpp_pybind11_tutorial) - Tutorial for wrapping C++ library into Python using pybind11 and CMake.
+- [C++ Templates: How to Iterate through std:tuple: std:apply and More](https://www.cppstories.com/2022/tuple-iteration-apply/) ([HN](https://news.ycombinator.com/item?id=30332031))
+- [How to Use C++20 Modules with Bazel and Clang](https://buildingblock.ai/cpp20-modules-bazel) ([HN](https://news.ycombinator.com/item?id=30345701))

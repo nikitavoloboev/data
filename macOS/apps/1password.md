@@ -27,3 +27,5 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Moving from 1Password to iCloud Keychain (2021)](https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/) ([Tweet](https://twitter.com/simonbs/status/1462416489991000071))
 - [1Password 8: The Story So Far (2021)](https://blog.1password.com/1password-8-the-story-so-far/)
 - [Ask HN: What password managers can you recommend? (2022)](https://news.ycombinator.com/item?id=29797022)
+- [1Password for SSH and Git](https://developer.1password.com/docs/ssh/) ([HN](https://news.ycombinator.com/item?id=30359430))
+- [1Password Developer Documentation](https://developer.1password.com/)

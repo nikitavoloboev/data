@@ -20,3 +20,4 @@
 - [The Entire History of Soviet Rocket Engines](https://everydayastronaut.com/soviet-rocket-engines/) ([HN](https://news.ycombinator.com/item?id=29359038))
 - [Engine cooling – why rocket engines don’t melt (2022)](https://everydayastronaut.com/engine-cooling-methodes/) ([HN](https://news.ycombinator.com/item?id=29922002))
 - [ThermoJet Engine 3D Printed (PulseJet)](https://www.youtube.com/watch?v=GzHIrAapiFg)
+- [Polaris Program](https://polarisprogram.com/) ([HN](https://news.ycombinator.com/item?id=30331608))

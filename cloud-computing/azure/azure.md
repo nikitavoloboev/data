@@ -24,3 +24,4 @@
 - [Using Azure services from WebAssembly modules (2021)](https://radu-matei.com/blog/using-azure-services-wasi/)
 - [Azure Kubernetes Service Issues](https://github.com/Azure/AKS)
 - [MustLearnKQL blog series](https://github.com/rod-trent/MustLearnKQL)
+- [Terraform Provider for Azure Active Directory](https://github.com/hashicorp/terraform-provider-azuread)

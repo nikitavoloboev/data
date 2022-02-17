@@ -157,3 +157,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [How Bad Are Plastics for the Environment, Really? (2022)](https://www.theatlantic.com/science/archive/2022/01/plastic-history-climate-change/621033/)
 - [Climatiq Data Explorer](https://explorer.climatiq.io/) - Search Global Carbon Emission Factors. ([Code](https://github.com/climatiq/Open-Emission-Factors-DB))
 - [People need to hear the good news about climate change (2022)](https://www.slowboring.com/p/people-need-to-hear-the-good-news) - "Climate anxiety" isn't going to solve anything.
+- [Ikea’s Race for the Last of Europe’s Old-Growth Forest](https://newrepublic.com/article/165245/ikea-romania-europe-old-growth-forest) ([Tweet](https://twitter.com/alex_sammon/status/1493971018725138434))

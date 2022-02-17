@@ -279,3 +279,5 @@
 - [Protons are probably smaller than long thought (2022)](https://www.uni-bonn.de/en/news/020-2022) ([HN](https://news.ycombinator.com/item?id=30210999))
 - [PDEs you should know](https://www.lucaspauker.com/pdes) ([HN](https://news.ycombinator.com/item?id=30263330))
 - [How Einstein arrived at his theory of general relativity](https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/) ([HN](https://news.ycombinator.com/item?id=30306190))
+- [Why do electrons and protons have charge of exactly the same magnitude? (2022)](https://www.reddit.com/r/AskPhysics/comments/st6zj3/why_do_electrons_and_protons_have_charge_of/)
+- [What actually are electromagnetic waves? (2022)](https://www.reddit.com/r/AskPhysics/comments/stvvw7/what_actually_are_electromagnetic_waves/)

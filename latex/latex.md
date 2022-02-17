@@ -110,3 +110,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Examples of how to create colorful, annotated equations in Latex using Tikz](https://github.com/synercys/annotated_latex_equations)
 - [CTAN](https://ctan.org/) - Comprehensive TeX Archive Network.
 - [Annotated example of how to make annotated equations in LaTeX using TikZ](https://github.com/st--/annotated_latex_equations)
+- [pylatexenc](https://github.com/phfaist/pylatexenc) - Simple LaTeX parser providing latex-to-unicode and unicode-to-latex conversion.
+- [Bibolamazi](https://github.com/phfaist/bibolamazi) - Prepare consistent and uniform BibTeX files for your LaTeX documents.
+- [latex-parser](https://github.com/siefkenj/latex-parser) - Generate an AST and beautify LaTeX code.
+- [blacktex](https://github.com/nschloe/blacktex) - Cleans up your LaTeX files.

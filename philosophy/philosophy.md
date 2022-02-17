@@ -65,3 +65,5 @@ In any way, it is an interesting subject I don't know much about.
 - [Journey to the Edge of Reason: The life of Kurt Gödel (2021)](https://www.the-tls.co.uk/articles/journey-to-the-edge-of-reason-kurt-godel-stephen-budianksy-book-review-cheryl-misak/) ([HN](https://news.ycombinator.com/item?id=29202234))
 - [A Little History of Philosophy (2011)](https://www.goodreads.com/book/show/11527504-a-little-history-of-philosophy)
 - [Best philosophy book you read](https://twitter.com/philosophybites/status/1470326304746655750)
+- [Many Worlds: a philosophy of data collaboration](https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md)
+- [Best books to start reading philosophy? (2022)](https://www.reddit.com/r/suggestmeabook/comments/suawcd/best_books_to_start_reading_philosophy/)

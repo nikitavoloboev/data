@@ -27,3 +27,4 @@
 - [Rethinking floating point for deep learning (2018)](https://arxiv.org/abs/1811.01721) ([Code](https://github.com/facebookresearch/deepfloat))
 - [SPU32](https://github.com/maikmerten/spu32) - Small Processing Unit 32: A compact RV32I CPU written in Verilog.
 - [Verilog to Routing (VTR)](https://github.com/verilog-to-routing/vtr-verilog-to-routing) - Open Source CAD Flow for FPGA Research.
+- [gplgpu](https://github.com/asicguy/gplgpu) - 2D/3D graphics engine in verilog.

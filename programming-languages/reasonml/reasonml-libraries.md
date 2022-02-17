@@ -38,3 +38,4 @@
 
 - [Redex](https://redex.github.io/) - Reason Package Index.
 - [Awesome ReScript](https://github.com/fhammerschmidt/awesome-rescript)
+- [PPX_ts](https://github.com/green-labs/ppx_ts) - ReScript preprocessor, which helps generating helper types to bind to typescript modules.

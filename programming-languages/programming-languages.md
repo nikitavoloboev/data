@@ -309,3 +309,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Graphene](https://graphene.teknologiumum.com/) - Create and share beautiful code snippets. ([Code](https://github.com/teknologi-umum/graphene))
 - [crie](https://github.com/tyhal/crie) - Using a mix of other tools and libraries to create a dead simple meta-linter and formatter.
 - [CodeshiftCommunity](https://www.codeshiftcommunity.com/docs/) - Community-owned global registry and documentation hub for codemods. ([Code](https://github.com/CodeshiftCommunity/CodeshiftCommunity))
+- [Programming Language and compiler Benchmarks](https://programming-language-benchmarks.vercel.app/) ([Code](https://github.com/hanabi1224/Programming-Language-Benchmarks))
+- [Benchmarks of different languages](https://github.com/kostya/benchmarks)

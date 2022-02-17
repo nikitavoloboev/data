@@ -483,3 +483,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Gitless](https://gitless.com/) - Simple version control system built on top of Git. ([Code](https://github.com/gitless-vcs/gitless)) ([Lobsters](https://lobste.rs/s/nrlyar/gitless_simple_version_control_system))
 - [A better `git blame` with `--ignore-rev`](https://michaelheap.com/git-ignore-rev/) ([Lobsters](https://lobste.rs/s/loxzvv/better_git_blame_with_ignore_rev))
 - [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg) ([HN](https://news.ycombinator.com/item?id=30311713))
+- [go-gitignore](https://github.com/denormal/go-gitignore) - Go package for parsing and matching paths against .gitignore files.

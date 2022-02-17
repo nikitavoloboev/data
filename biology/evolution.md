@@ -3,6 +3,7 @@
 ## Notes
 
 - [If you work with any kind of evolutionary system or neural networks or meta-optimizers (Like Schmidhuber's Gödel machine) there comes a point when you realize that "intelligence", whatever it is, should be expected to arise. Evolution and meta-evolution proceed at the same time in life, so intelligence should be ambient in Nature.](https://news.ycombinator.com/item?id=18709749)
+- [Evolution cares about one thing: do we have children and raise them to a point of self-sufficiency. Any time the answer is "no," natural selection will correct this or the species will go extinct. Any time the answer is "yes," natural selection says "Good enough!"](https://www.reddit.com/r/NoStupidQuestions/comments/stc8wa/70_of_women_cannot_orgasm_from_piv_sex_even_after/)
 
 ## Links
 

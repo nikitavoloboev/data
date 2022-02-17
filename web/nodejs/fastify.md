@@ -25,3 +25,5 @@
 - [fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify.
 - [Fastify Adapter Middleware Properties on a Different Context](https://github.com/jmcdo29/context-fastify-middleware)
 - [point-of-view](https://github.com/fastify/point-of-view) - Templates rendering plugin support for Fastify.
+- [fastify-cors](https://github.com/fastify/fastify-cors) - Enables the use of CORS in a Fastify application.
+- [fastify-supabase](https://github.com/coopflow/fastify-supabase) - Supabase client initialization and encapsulation in fastify framework.

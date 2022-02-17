@@ -177,3 +177,6 @@
 - [react-native-owl](https://github.com/FormidableLabs/react-native-owl) - Visual regression testing for React Native.
 - [React Native iOS](https://github.com/enesozturk/react-native-ios) - iOS UI implementation in React Native with gestures and animations.
 - [Storybook for React Native](https://github.com/storybookjs/react-native)
+- [React Native Rich Text Editor](https://github.com/wix/react-native-zss-rich-text-editor) - Based on ZSSRichTextEditor.
+- [React Native Voice](https://github.com/react-native-voice/voice) - React Native Voice Recognition library for iOS and Android (Online and Offline Support).
+- [React Native Colo Loco](https://github.com/jamonholmgren/react-native-colo-loco) - Colocate your native modules and components with your JavaScript/JSX files.

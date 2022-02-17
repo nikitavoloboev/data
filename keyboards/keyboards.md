@@ -42,6 +42,7 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [Djinn](https://github.com/tzarc/djinn) - 64-key split keyboard. ([HN](https://news.ycombinator.com/item?id=29311222))
 - [Work Louder](https://worklouder.cc/) - Modular keyboards for digital creators.
 - [MiRage Modular Keyboard](https://github.com/ZackFreedman/MiRage)
+- [Expandable keyboard with up to 120 keys](https://github.com/e3w2q/su120-keyboard)
 
 ## Interesting keycaps
 

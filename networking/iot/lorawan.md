@@ -90,3 +90,4 @@
 - [The Things Stack Application Cookbook](https://github.com/htdvisser/lorawan-stack-application-cookbook) - Guide for building an application or integration for The Things Stack.
 - [LoRaWAN on Apache NuttX OS](https://lupyuen.github.io/articles/lorawan3)
 - [Casually Chirping Into The World Of LoRaWAN (2022)](https://hackaday.com/2022/01/21/casually-chirping-into-the-world-of-lorawan/)
+- [Ebook: Guide to LoRaWAN](https://www.nexpcb.com/lorawan-guide)

@@ -65,3 +65,5 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Awesome Metaverse](https://github.com/M3-org/awesome-metaverse)
 - [I Spent Hundreds of Hours Working in VR (2022)](https://www.wired.com/story/hours-working-vr-tips/) ([HN](https://news.ycombinator.com/item?id=29978036))
 - [Immers Space](https://web.immers.space/) - Seeks to free the Immersive Web from the pitfalls of the social media era by using a decentralized model based on open Web standards.
+- [Hotham](https://github.com/leetvr/hotham) - Framework for creating incredible standalone VR experiences.
+- [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi core friendly rigid body physics and collision detection library suitable for games and VR applications.

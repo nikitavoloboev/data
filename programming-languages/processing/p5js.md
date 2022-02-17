@@ -21,3 +21,4 @@
 - [p5.js kernel for JupyterLite](https://github.com/jupyterlite/p5-kernel)
 - [Disarray](https://disarray.fyi/) - Mint your p5.js scripts and have them render on ZORA. ([Tweet](https://twitter.com/tbtstl/status/1447651287739207681))
 - [p5.PatGrad](https://github.com/antiboredom/p5.patgrad) - Easy way to add patterns and gradients to your p5.js sketches. ([Tweet](https://twitter.com/sam_lavigne/status/1452746057289502721))
+- [p5-Svelte](https://github.com/tonyketcham/p5-svelte) - Easily add p5 sketches to a Svelte project.

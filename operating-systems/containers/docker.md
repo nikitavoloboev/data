@@ -182,3 +182,6 @@
 - [Docker for Mac - Docker Machine / Vagrant / Ansible](https://github.com/stenh0use/docker-machine-for-mac)
 - [ch](https://github.com/camerondurham/ch) - Docker config and shell manager for ~using~ misusing containers as dev environments.
 - [swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - Create jobs on a time-based schedule on Docker Swarm.
+- [manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes.
+- [doko](https://github.com/abdfnx/doko) - Docker you know but with TUI.
+- [udocker](https://github.com/indigo-dc/udocker) - Basic user tool to execute simple docker containers in batch or interactive systems without root privileges.

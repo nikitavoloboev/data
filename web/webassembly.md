@@ -261,3 +261,4 @@
 - [Wasmo](https://github.com/gigamono/wasmo) - WebAssembly compiler and runtime.
 - [rsw-rs](https://github.com/lencx/rsw-rs) - wasm-pack based build tool.
 - [Exception Handling Proposal for WebAssembly](https://github.com/WebAssembly/exception-handling)
+- [create-wasm-app](https://github.com/rustwasm/create-wasm-app) - npm init template for consuming rustwasm pkgs.

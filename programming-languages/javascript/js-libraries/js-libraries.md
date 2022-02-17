@@ -162,6 +162,7 @@
 ## Crypto
 
 - [Elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain JS.
+- [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript.
 
 ## Other
 
@@ -780,6 +781,15 @@
 - [Koder](https://github.com/maslick/koder) - QR/bar code scanner for the Browser.
 - [cors-bypass](https://github.com/samdenty/cors-bypass) - Bypass the browsers CORS restrictions, without needing to setup a server-side proxy.
 - [rehype-raw](https://github.com/rehypejs/rehype-raw) - Plugin to parse the tree (and raw nodes) again, keeping positional info okay.
+- [micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library.
+- [BufferBackedObject](https://github.com/GoogleChromeLabs/buffer-backed-object) - Buffer-backed objects in JavaScript.
+- [curtains.js](https://github.com/martinlaxenaire/curtainsjs) - Lightweight vanilla WebGL JavaScript library that turns HTML DOM elements into interactive textured planes.
+- [Martinez-Rueda](https://github.com/w8r/martinez) - Martinez-Rueda polygon clipping algorithm, does boolean operation on polygons.
+- [actor](https://github.com/Gozala/actor) - Library for managing concurrent effects using generators.
+- [fast-json](https://github.com/alemures/fast-json) - Lightning fast on the fly JSON parser.
+- [noble-hashes](https://github.com/paulmillr/noble-hashes) - Audited & minimal JS implementation of SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt.
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - Beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [openapi-client-axios](https://github.com/anttiviljami/openapi-client-axios) - JavaScript client library for consuming OpenAPI-enabled APIs with axios.
 
 ## Links
 
@@ -831,3 +841,5 @@
 - [Prettier plugin sort imports](https://github.com/trivago/prettier-plugin-sort-imports) - Prettier plugin to sort import declarations by provided Regular Expression order.
 - [pn](https://github.com/pnpm/pn) - Wrapper over the pnpm CLI written in Rust.
 - [Private NPM Registry for Enterprise](https://github.com/cnpm/cnpmcore)
+- [Awesome JavaScript Network](https://github.com/Kikobeats/awesome-network-js) - List of network layer resources written pure JS.
+- [Pure ESM package](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) ([Tweet](https://twitter.com/suchipi/status/1493751398009237506))

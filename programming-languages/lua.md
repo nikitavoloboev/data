@@ -1,5 +1,7 @@
 # [Lua](https://www.lua.org)
 
+[Fennel](https://github.com/bakpakin/Fennel) is interesting.
+
 ## Notes
 
 - [Lua was created explicitly to be an embedded scripting language. It's evolution has very tightly focused on that usage, and that continues to be the most common way it is used. It's language as library, a small, pure ANSI C library with no external dependencies. It's easy to include in a project and extend, while remaining a powerful, expressive language that performs well. It's fantastic for that purpose.](https://www.reddit.com/r/lua/comments/hg9g3p/if_someone_asks_me_why_lua_i_show_him_this_link/)
@@ -94,3 +96,4 @@
 - [lua-yaml](https://github.com/exosite/lua-yaml) - LUA YAML parser.
 - [JSON.lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder.
 - [lua-feels](https://github.com/paigeruten/lua-feels) - Lua REPL that gives you a feel for its internals.
+- [Lua in 100 Seconds (2022)](https://www.youtube.com/watch?v=jUuqBZwwkQw)

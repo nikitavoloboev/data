@@ -86,3 +86,4 @@
 - [tsls](https://github.com/keyvchan/tsls) - Tree-sitter based language server for general languages.
 - [Interactive tool for experimenting with LR(1) grammars](https://github.com/obscurecolin/lr)
 - [syntax](https://github.com/DmitrySoshnikov/syntax) - Syntactic analysis toolkit, language-agnostic parser generator.
+- [ast-builder](https://github.com/rajasegar/ast-builder) - Build your Abstract Syntax Trees (AST) directly by writing code.

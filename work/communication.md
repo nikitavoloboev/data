@@ -51,6 +51,7 @@
 - [There are 2 kinds of critics. Some respect the work + want it to be better. Others lack the guts to show their own work and jealously nit pick. 1's are medicine (tastes bad, good for the work). 2's are poison. Knowing the difference is hard but important](https://twitter.com/aprildunford/status/1455673783109529606)
 - [Two insane unlocks: 1. Not caring (or managing) when others know you don’t know something. This lets you ask “dumb” questions, which are often foundational ones. 2. Agreeing with colleagues that feedback isn’t criticism, it’s opportunity. This removes festering frustrations.](https://twitter.com/patrick_oshag/status/1465341857068634117)
 - [My main goal in most convos is to find the thing that makes the other person’s eyes sparkle.](https://twitter.com/mollyfmielke/status/1473652440020910081)
+- [Who you bounce around reflections of the world with seems like the single most influential input on your curiosity, creativity, and how clearly you see the world. incalculable how much being + picking friends that coax conviction and help create contentedness pays off in purpose.](https://twitter.com/mollyfmielke/status/1493634386423468034)
 
 ## Links
 

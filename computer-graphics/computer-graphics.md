@@ -211,3 +211,4 @@
 - [Finding Your Home in Game Graphics Programming](http://alextardif.com/LearningGraphics.html) ([HN](https://news.ycombinator.com/item?id=29755242))
 - [Distance, Time-of-Impact, and Closest-Point-of-Approach between Convex 2D Shapes](https://github.com/memononen/cpa)
 - [Signed Distance Field (SDF) Resources](https://github.com/CedricGuillemet/SDF)
+- [Journal of Graphics Tools](https://github.com/erich666/jgt-code)

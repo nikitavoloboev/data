@@ -45,6 +45,7 @@
 - [FastWSGI](https://github.com/jamesroberts/fastwsgi) - Ultra fast WSGI server for Python 3. ([HN](https://news.ycombinator.com/item?id=29571421))
 - [Starlite](https://github.com/Goldziher/starlite) - Light, opinionated and flexible ASGI API framework built on top of pydantic and Starlette.
 - [pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python.
+- [Faster-than-Requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3.
 
 ## ML
 
@@ -147,6 +148,7 @@
 - [PyStow](https://github.com/cthoyt/pystow) - Easily pick a place to store data for your Python code.
 - [CogDB](https://github.com/arun1729/cog) - Graph Database for Python.
 - [SQLAlchemy adapter for CockroachDB](https://github.com/cockroachdb/sqlalchemy-cockroachdb)
+- [pgspecial](https://github.com/dbcli/pgspecial) - API to execute meta-commands (AKA "special", or "backslash commands") on PostgreSQL.
 
 ## GUI
 
@@ -182,6 +184,8 @@
 
 - [copt](https://github.com/openopt/copt) - Python library for mathematical optimization.
 - [GoodPoints](https://github.com/microsoft/goodpoints) - Python package for generating concise, high-quality summaries of a probability distribution.
+- [PyCircStat](https://github.com/circstat/pycircstat) - Toolbox for circular statistics with Python.
+- [miceforest](https://github.com/AnotherSamWilson/miceforest) - Multiple Imputation with Random Forests in Python.
 
 ## Test
 
@@ -687,6 +691,12 @@
 - [watermark](https://github.com/rasbt/watermark) - IPython magic extension for printing date and time stamps, version numbers, and hardware information.
 - [intervaltree](https://github.com/chaimleib/intervaltree) - Mutable, self-balancing interval tree. Queries may be by point, by range overlap, or by range containment.
 - [griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs.
+- [ZIO-py](https://github.com/miiohio/ziopy) - ZIO for Python.
+- [Python TSP Solver](https://github.com/fillipe-gsm/python-tsp) - Simple library to solve Traveling Salesperson Problems with pure Python code.
+- [pyserde](https://github.com/yukinarit/pyserde) - Serialization library on top of dataclasses, inspired by serde-rs.
+- [aioapns](https://github.com/Fatal1ty/aioapns) - Library designed specifically for sending push-notifications to iOS devices via Apple Push Notification Service.
+- [shortuuid](https://github.com/skorokithakis/shortuuid) - Generator library for concise, unambiguous and URL-safe UUIDs.
+- [ThatLib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python.
 
 ## Links
 
@@ -763,3 +773,4 @@
 - [SSort](https://github.com/bwhmather/ssort) - Tool for sorting top level statements in python files.
 - [bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command.
 - [Faster Python calculations with Numba: 2 lines of code, 13× speed-up (2022)](https://pythonspeed.com/articles/numba-faster-python/)
+- [uhashring](https://github.com/ultrabug/uhashring) - Consistent hashing in pure Python.

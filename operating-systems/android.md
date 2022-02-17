@@ -12,6 +12,7 @@
 - [Pinkt](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Pinboard android app, developed as a playground to study many topics related to Android. Kotlin + Coroutines + MVVM.
 - [DuckDuckGo Android App](https://github.com/duckduckgo/Android)
 - [Tailscale Android Client](https://github.com/tailscale/tailscale-android)
+- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - Quotes Application built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.
 
 ## Links
 

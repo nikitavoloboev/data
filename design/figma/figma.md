@@ -70,3 +70,4 @@
 - [What should Figma add (2021)](https://twitter.com/skuwamoto/status/1458819457761955841)
 - [Awesome Figma](https://github.com/react-figma/awesome-figma)
 - [Figma Auto Layout: Practical tips for dynamic designs (2020)](https://evilmartians.com/chronicles/figma-auto-layout-practical-tips-for-dynamic-designs)
+- [How to recreate Figma in React (2022)](https://textframe.app/rahul/figma-in-react) ([Reddit](https://www.reddit.com/r/reactjs/comments/ssro7q/how_to_recreate_figma_in_react/))

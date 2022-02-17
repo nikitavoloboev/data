@@ -138,3 +138,4 @@
 - [Atoma](https://github.com/NicolasLM/atoma) - Atom, RSS and JSON feed parser for Python 3.
 - [El Monitorro](https://github.com/ayrat555/el_monitorro/) - RSS, Atom and JSON feed reader as a Telegram bot.
 - [Twitch RSS](https://github.com/lzeke0/TwitchRSS) - Web app serving RSS of Twitch broadcasts.
+- [What using RSS feeds feels like (2022)](https://gilest.org/rss-feels.html)

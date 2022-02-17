@@ -4,7 +4,7 @@
 
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
-- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/))
+- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
 - [fncmd](https://github.com/yuhr/fncmd) - Opinionated command line parser frontend that wraps around clap.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
@@ -35,6 +35,7 @@
 - [expectrl](https://github.com/zhiburt/expectrl) - Library for automating and testing interactive applications.
 - [Rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
 - [Update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust. Checks for a new version on Crates.io, GitHub, and PyPI.
+- [argfile](https://github.com/rust-cli/argfile) - Load additional CLI args from file.
 
 ## Web
 
@@ -50,6 +51,7 @@
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter))
 - [actix-web-flash-messages](https://github.com/LukeMathWalker/actix-web-flash-messages) - Flash messages for actix-web.
+- [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) - Structured diagnostics for actix-web applications.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Seed](https://github.com/seed-rs/seed) - Rust framework for creating web apps. ([HN](https://news.ycombinator.com/item?id=28567714))
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
@@ -111,6 +113,8 @@
 - [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - Rust implementation of the Web Audio API, for use in non-browser contexts.
 - [zeroconf](https://github.com/windy1/zeroconf-rs) - Cross-platform library that wraps underlying ZeroConf/mDNS implementations such as Bonjour or Avahi, providing an easy and idiomatic way to both register and browse services.
 - [uds](https://github.com/tormol/uds) - Unix domain sockets Rust library that supports abstract addresses, fd-passing, SOCK_SEQPACKET sockets and more.
+- [Yamux](https://github.com/libp2p/rust-yamux) - Stream multiplexer over reliable, ordered connections such as TCP/IP.
+- [Silkenweb](https://github.com/silkenweb/silkenweb) - Library for writing reactive single page web apps.
 
 ## WASM
 
@@ -208,6 +212,7 @@
 - [codd](https://github.com/salmans/codd) - Library for evaluating typed relational expressions in a monotonically growing minimal database in memory.
 - [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust.
 - [OpenDAL](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
+- [persistentcache-rs](https://github.com/stefan-k/persistentcache-rs) - Macros for persistently caching function calls using files or Redis.
 
 ## Video
 
@@ -262,6 +267,10 @@
 - [fast_image_resize](https://github.com/Cykooz/fast_image_resize) - Rust library for fast image resizing with using of SIMD instructions.
 - [descent](https://github.com/sjb3d/descent) - Toy library for neural networks in Rust using Vulkan compute shaders.
 - [spectra](https://github.com/phaazon/spectra) - Rust demoscene engine.
+- [ocl](https://github.com/cogciprocate/ocl) - OpenCL for Rust.
+- [rgx](https://github.com/cloudhead/rgx) - Modern mid-level 2D graphics library.
+- [vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs.
+- [delaunator-rs](https://github.com/mourner/delaunator-rs) - Fast 2D Delaunay triangulation in Rust. A port of Delaunator.
 
 ## Games
 
@@ -300,7 +309,10 @@
 - [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [Golden Tests](https://github.com/jfecher/golden-tests) - Golden file testing library for rust.
 - [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - Mutation testing tool for Rust.
-- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust.
+- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust. ([Tweet](https://twitter.com/sunshowers6/status/1493283867297337345)) ([Reddit](https://www.reddit.com/r/rust/comments/sshvzy/cargonextest_a_new_test_runner_for_rust_projects/))
+- [assay](https://github.com/mgattozzi/assay) - Super powered testing macro for Rust.
+- [rusty-fork](https://github.com/AltSysrq/rusty-fork) - Run Rust tests in isolated subprocesses.
+- [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.
 
 ## Error
 
@@ -373,6 +385,8 @@
 - [MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust.
 - [RustCrypto: Formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: PKCS, PKIX.
 - [crypto-hash](https://github.com/malept/crypto-hash) - Rust wrapper for OS-level cryptographic hash functions.
+- [vodozemac](https://github.com/matrix-org/vodozemac) - Rust reimplementation of the functionality of libolm, a cryptographic library used for end-to-end encryption in Matrix.
+- [Blind RSA signatures](https://github.com/jedisct1/rust-blind-rsa-signatures) - Author-blinded RSASSA-PSS RSAE signatures.
 
 ## Linux
 
@@ -1432,6 +1446,21 @@
 - [Queen](https://github.com/danclive/queen) - Message bus.
 - [queen-io](https://github.com/danclive/queen-io) - I/O library for Rust.
 - [approx](https://github.com/brendanzab/approx) - Approximate floating point equality comparisons and assertions.
+- [knuffel](https://github.com/tailhook/knuffel) - Rust KDL parser and derive implementation.
+- [bitsvec](https://github.com/PsiACE/bitsvec) - Bit vector with the Rust standard library's portable SIMD API.
+- [Parquet2](https://github.com/jorgecarleitao/parquet2) - Fastest and safest Rust implementation of parquet. `unsafe` free. Integration-tested against pyarrow.
+- [ELBUS](https://github.com/alttch/elbus) - Rust-native IPC broker.
+- [rust-cpp](https://github.com/mystor/rust-cpp) - Embed C++ code directly in Rust.
+- [js-sandbox](https://github.com/Bromeon/js-sandbox) - Securely embed JavaScript code into a Rust application.
+- [cedarwood](https://github.com/MnO2/cedarwood) - Efficiently-updatable double-array trie in Rust.
+- [rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure.
+- [webbrowser](https://github.com/amodm/webbrowser-rs) - Rust library to open URLs in the web browsers available on a platform.
+- [sbahn](https://github.com/estebank/sbahn) - Pure Rust Distributed Hash Table.
+- [string-cache](https://github.com/servo/string-cache) - String interning for Rust.
+- [rust-atomicwrites](https://github.com/untitaker/rust-atomicwrites) - Atomic file-writes.
+- [queue-file](https://github.com/ing-systems/queue-file) - Lightning-fast, transactional, file-based FIFO.
+- [zstd-rs](https://github.com/KillingSpark/zstd-rs) - Feature-complete decoder for the zstd compression format.
+- [atomic-memcpy](https://github.com/taiki-e/atomic-memcpy) - Byte-wise atomic memcpy.
 
 ## Cargo Plugins
 
@@ -1487,6 +1516,8 @@
 - [cargo-license](https://github.com/onur/cargo-license) - Cargo subcommand to see license of dependencies.
 - [cargo-build-tree](https://github.com/Nemo157/cargo-build-tree)
 - [cargo-msrv](https://github.com/foresterre/cargo-msrv) - Find the minimum supported Rust version (MSRV) for your project.
+- [cargo-local-install](https://github.com/MaulingMonkey/cargo-local-install) - Wraps `cargo install` for better local, non-conflicting installation.
+- [cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker. ([Reddit](https://www.reddit.com/r/rust/comments/stq51v/announcing_cargozigbuild_compile_cargo_project/))
 
 ## Links
 
@@ -1577,3 +1608,5 @@
 - [Create Rust App](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. ([HN](https://news.ycombinator.com/item?id=30228325))
 - [What are your must install crates when starting a new project? (2022)](https://www.reddit.com/r/rust/comments/slg9d2/what_are_your_must_install_crates_when_starting_a/)
 - [A Plugin System in Rust](https://nullderef.com/series/rust-plugins/)
+- [release-plz](https://github.com/MarcoIeni/release-plz) - Release to Github and crates.io.
+- [Compile-time checked Builder pattern derive macro with zero-memory overhead](https://github.com/estebank/makeit) ([Tweet](https://twitter.com/ekuber/status/1493647808754294789))

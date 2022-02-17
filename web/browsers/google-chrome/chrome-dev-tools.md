@@ -10,12 +10,13 @@
 - [Can add custom headers to requests in the Network tab. Right-click the columns bar > Response Headers > Manage Header Columns.](https://twitter.com/dhh/status/1445036316023005195)
 - [ChromeDevTools has CSS Shadow Editor](https://twitter.com/addyosmani/status/1447456939466706946)
 - [ChromeDevTools has CSS Animations inspector](https://twitter.com/addyosmani/status/1447079452987387905)
+- [Can hide scripts/assets loaded by extensions from your network tab, put "-scheme:chrome-extension" in the filter input box](https://twitter.com/threepointone/status/1446064032407080966)
 
 ## Links
 
 - [What's new in Chrome DevTools (Google I/O '18)](https://www.youtube.com/watch?v=mfuE53x4b3k)
 - [Chrome DevTools Masterclass (2016)](https://www.youtube.com/watch?v=KykP5Z5E4kA)
-- [chromedp](https://github.com/chromedp/chromedp) - Faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+- [chromedp](https://github.com/chromedp/chromedp) - Faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. ([Examples](https://github.com/chromedp/examples))
 - [Chrome DevTools Protocol](https://github.com/ChromeDevTools/devtools-protocol)
 - [Make your own DevTools](https://kentcdodds.com/blog/make-your-own-dev-tools)
 - [Rod](https://github.com/ysmood/rod) - High-level Chrome Devtools controller directly based on Chrome DevTools Protocol.

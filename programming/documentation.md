@@ -141,3 +141,5 @@
 - [Writing better release notes](https://simonwillison.net/2022/Jan/31/release-notes/)
 - [Keeping documentation in sync with source code (2022)](https://cerbos.dev/blog/keeping-documentation-in-sync-with-source-code) ([HN](https://news.ycombinator.com/item?id=30161756))
 - [Tagref](https://github.com/stepchowfun/tagref) - Helps you maintain cross-references in your code.
+- [What are you using to write your company handbook?](https://twitter.com/DanielleMorrill/status/1493336798021316610)
+- [docsify-cli](https://github.com/docsifyjs/docsify-cli) - Magical documentation generator.

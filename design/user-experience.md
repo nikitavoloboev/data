@@ -154,3 +154,5 @@
 - [Adobe tricks users into a 12 month contract (2022)](https://twitter.com/darkpatterns/status/1489901640777973768) ([HN](https://news.ycombinator.com/item?id=30222165))
 - [Ask HN: Software you hate but can't replace? (2022)](https://news.ycombinator.com/item?id=30223425)
 - [Designing for a dev tool UX](https://twitter.com/antiflasher/status/1492104335672713217)
+- [Why do we round corners? (2022)](https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed) ([HN](https://news.ycombinator.com/item?id=30339670))
+- [An unsolicited streaming app spec (2022)](https://hypercritical.co/2022/02/15/streaming-apps) ([HN](https://news.ycombinator.com/item?id=30350591))

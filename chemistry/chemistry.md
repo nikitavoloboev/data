@@ -60,3 +60,6 @@
 - [Hamilton Morris interviews a chromium carbene chemist (2022)](https://www.youtube.com/watch?v=XCFBSqljGaI)
 - [Phenethylamines I have feared and loathed (2020)](http://nikobidin.com/phenethylamines-i-have-feared-and-loathed) ([HN](https://news.ycombinator.com/item?id=30230772))
 - [Shulgin's lab in 3D](https://my.matterport.com/show/?m=Z93pXf9jiWK) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/spsvdi/woah_shulgins_lab_in_3d/))
+- [Ketcher](https://github.com/epam/ketcher) - Web-based molecule sketcher.
+- [AI is changing chemical discovery (2022)](https://thegradient.pub/how-ai-is-changing-chemical-discovery/) ([HN](https://news.ycombinator.com/item?id=30337490))
+- [Materials Informatics Resources](https://github.com/ncfrey/resources)

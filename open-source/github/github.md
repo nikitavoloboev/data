@@ -342,3 +342,7 @@ Awesome List
 - [Upgit](https://github.com/pluveto/upgit) - Native & lightweight tool to helps you upload any file to your Github repository and then get a raw URL for it.
 - [Astral](https://astralapp.com/) - Organize Your GitHub Stars With Ease. ([Code](https://github.com/astralapp/astral))
 - [gh-pages](https://github.com/tschaub/gh-pages) - Publish files to a gh-pages branch on GitHub (or any other branch anywhere else).
+- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) ([HN](https://news.ycombinator.com/item?id=30334338))
+- [GitHub Traffic Stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
+- [Crossplane Provider for GitHub](https://github.com/crossplane-contrib/provider-github)
+- [ghdl](https://github.com/beetcb/ghdl) - Fast and simple program (and also a golang module) for downloading and installing executable binary from github releases.

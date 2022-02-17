@@ -280,3 +280,4 @@
 - [Ask HN: Any piece of hardware that was more of game changer than you expected? (2022)](https://news.ycombinator.com/item?id=30231171)
 - [A look inside the chips that powered the landmark Polaroid SX-70 instant camera (2022)](http://www.righto.com/2022/02/a-look-inside-chips-that-powered.html) ([HN](https://news.ycombinator.com/item?id=30289648))
 - [The Semiconductor Ecosystem Explained (2022)](https://semiwiki.com/semiconductor-manufacturers/307494-the-semiconductor-ecosystem-explained/) ([HN](https://news.ycombinator.com/item?id=30264038))
+- [Penkesu Computer](https://github.com/penk/penkesu) - Homebrew Retro-style Laptop. ([Web](https://penkesu.computer/))

@@ -130,6 +130,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [SketchyVim](https://github.com/FelixKratz/SketchyVim) - Turns macOS input fields into real vim buffers.
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar) - Highly customizable macOS status bar replacement.
 - [NativeTwitch](https://github.com/Aayush9029/NativeTwitch) - Native Twitch Player.
+- [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro timer for macOS menu bar.
 
 ## Other interesting apps
 
@@ -218,3 +219,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [buildkit-machine](https://github.com/developer-guy/buildkit-machine) - Allows you to make buildkitd daemon accessible in your macOS environment.
 - [Catching Native Apps (2022)](https://mjtsai.com/blog/2022/01/12/catching-native-apps/) ([HN](https://news.ycombinator.com/item?id=29913619))
 - [Catalyst Video Grid](https://github.com/steventroughtonsmith/catalystvideogrid) - Catalyst example of a grid-based video app that opens videos in secondary windows.
+- [Where Mac Catalyst Falls Short (2022)](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)

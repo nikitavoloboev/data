@@ -39,3 +39,4 @@
 - [dask-awkward](https://github.com/ContinuumIO/dask-awkward) - Connecting Dask with Awkward Arrays.
 - [flox](https://github.com/dcherian/flox) - Fast & furious GroupBy operations for dask.array.
 - [dask-ctl](https://github.com/dask-contrib/dask-ctl) - Tools to provide a control plane for managing the lifecycle of Dask clusters.
+- [dask-geomodeling](https://github.com/nens/dask-geomodeling) - On-the-fly operations on geographical maps.

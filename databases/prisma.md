@@ -89,3 +89,4 @@
 - [Aurora](https://github.com/sabinadams/aurora) - CLI tool that orchestrates prisma files in a way that allows multiple .prisma files with cross-relations.
 - [TypeScript, PostgreSQL, Prisma | Data Modeling, CRUD, Aggregates (2020)](https://www.prisma.io/blog/backend-prisma-typescript-orm-with-postgresql-data-modeling-tsjs1ps7kip1) ([Code](https://github.com/2color/real-world-grading-app))
 - [GraphQL Server with Authentication Prisma 2 and Nexus Schema](https://github.com/ryands17/nexus-auth)
+- [prisma-ast](https://github.com/MrLeebo/prisma-ast) - Abstract Syntax Tree for parsing schema.prisma files.

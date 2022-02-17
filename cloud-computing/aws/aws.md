@@ -1,6 +1,6 @@
 # [AWS](https://aws.amazon.com/)
 
-AWS is genuinely pretty amazing for what it allows you to do. It also has a [generous free tier](https://aws.amazon.com/free/).
+AWS is genuinely pretty amazing for what it allows you to do. It also has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) seems nice.
 
 ## Interesting
 
@@ -287,3 +287,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWSTagHelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool.
 - [cloudstructs](https://github.com/jogold/cloudstructs) - High-level constructs for AWS CDK.
 - [Crossplane AWS Provider](https://github.com/crossplane/provider-aws)
+- [awsping](https://github.com/ekalinin/awsping) - Console tool to check the latency to each Amazon EC2 region.
+- [Amazon Elastic File System Update – Sub-Millisecond Read Latency (2022)](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) ([HN](https://news.ycombinator.com/item?id=30345921))

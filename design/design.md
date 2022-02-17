@@ -17,6 +17,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Don’t know where to start a design? literally just copy the next closest thing and then …just keep going.](https://twitter.com/round/status/1407767068263403520)
 - [As Design tools and code are rapidly converging. Designers who can think like developers will have a leg up on everyone.](https://twitter.com/Ridderingand/status/1448680030108729348)
 - [Designing for dark mode is incredibly hard as an afterthought. If you plan to support dark mode, try designing it first and doing the light version after.](https://twitter.com/steveschoger/status/1453823790560026625)
+- [90% of design is just moving things around until it looks right](https://twitter.com/ormanclark/status/1493653136980033543)
 
 ## Links
 
@@ -221,3 +222,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Noya](https://github.com/noya-app/noya) - Open interface design tool.
 - [How I Build (2021)](http://pketh.org/how-i-build.html) ([HN](https://news.ycombinator.com/item?id=29714510))
 - [Inclusive Design](https://www.nngroup.com/articles/inclusive-design/)
+- [IRA Design](https://iradesign.io/) - Free and open-source illustrations for your projects. ([HN](https://news.ycombinator.com/item?id=30332535))

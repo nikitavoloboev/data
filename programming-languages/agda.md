@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
+- [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html) ([HN](https://news.ycombinator.com/item?id=30344669))
 - [Introductions to Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
 - [Category Theory in Agda](https://github.com/JLimperg/cats) - Learning exercise.
 - [Categories](https://github.com/copumpkin/categories) - Categories parametrized by morphism equality, in Agda.

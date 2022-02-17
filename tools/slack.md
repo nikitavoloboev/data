@@ -56,3 +56,4 @@
 - [Terraform Provider for Slack](https://github.com/TimDurward/terraform-provider-slack)
 - [Slack Dumper](https://github.com/rusq/slackdump) - Command line utility to create and save an archive of slack public and private messages and threads, files, and users.
 - [Skit](https://github.com/spy16/skit) - Build slack bots quickly and easily in Go.
+- [Slack Notify - GitHub Action](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel.

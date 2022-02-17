@@ -54,3 +54,5 @@
 - [deno_es](https://github.com/jiawei397/deno_es) - Elastic Search database driver developed for Deno.
 - [apm-agent-go](https://github.com/elastic/apm-agent-go) - Official Go agent for Elastic APM.
 - [Entity Resolution with Opensearch/Elasticsearch (2022)](https://www.jocas.lt/blog/post/entity-resolution/)
+- [Migrating from Solr to Elasticsearch, and their differences (2022)](https://canvatechblog.com/migrating-from-solr-to-elasticsearch-and-their-differences-c08863268c68)
+- [Mirage](https://opensource.appbase.io/mirage/) - GUI for simplifying Elasticsearch Query DSL. ([Code](https://github.com/appbaseio/mirage))
