@@ -262,6 +262,7 @@
 - [UI Kit for Cube Cloud](https://github.com/cube-js/cube-ui-kit) - UI Framework for Cube Projects. Based on React Aria.
 - [React tags](https://github.com/react-tags/react-tags) - Simple tagging component for your projects.
 - [rich-textarea](https://github.com/inokawa/rich-textarea) - Small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
+- [react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - React component helps bring Figma's Cursor Chat to your web applications.
 
 ## Links
 

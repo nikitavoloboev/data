@@ -119,3 +119,4 @@
 - [Trice](https://github.com/rokath/trice) - Super fast and tiny embedded device C printf-like trace code (works also inside inerrupts) and real-time PC logging (trace ID visualization).
 - [Hatrack](https://github.com/viega/hatrack) - Collection of hash tables for parallel programming, including lock-free, wait-free tables.
 - [DeviceTree](https://github.com/hack-different/libapplefw) - Minimal code to deal with Apple's DeviceTree format.
+- [IRIS](https://github.com/ORNL/iris) - Unified framework across multiple programming platforms.

@@ -379,3 +379,4 @@
 - [What do we actually need to know to be fluent in Haskell? (2022)](https://www.reddit.com/r/haskell/comments/shrdk9/what_do_we_actually_need_to_know_to_be_fluent_in/)
 - [Haskell for the Elm Enthusiast (2021)](https://dev.to/noredink/haskell-for-the-elm-enthusiast-ckm)
 - [Haskell error messages: come on (2022)](https://www.thecodedmessage.com/posts/haskell-gripe/) ([HN](https://news.ycombinator.com/item?id=30369497))
+- [The Unreasonable Effectiveness of Haskell (2022)](https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266) ([Lobsters](https://lobste.rs/s/iiqlwa/unreasonable_effectiveness_haskell))

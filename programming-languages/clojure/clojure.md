@@ -199,3 +199,4 @@
 - [Application project template for Clojure](https://github.com/redstarssystems/apptemplate)
 - [goclj](https://github.com/cespare/goclj) - Clojure parsing in Go.
 - [uclj](https://github.com/erdos/uclj) - Small, quick, native Clojure interpreter.
+- [tree-sitter-clojure](https://github.com/sogaiu/tree-sitter-clojure)

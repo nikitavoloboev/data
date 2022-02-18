@@ -334,3 +334,4 @@
 - [Keygen](https://keygen.sh/) - Software Licensing and Distribution API. ([GitHub](https://github.com/keygen-sh))
 - [CORS is not meant to secure an API endpoint](https://nikofischer.com/cors-does-not-secure-api-endpoints) ([HN](https://news.ycombinator.com/item?id=30320113))
 - [Netlify Graph](https://github.com/netlify/labs/tree/main/features/graph/documentation) - Enables developers to seamlessly integrate third-party APIs and services into their web applications without writing API-specific code. ([Article](https://www.netlify.com/blog/announcing-netlify-graph-a-faster-way-for-teams-to-develop-web-apps-with-apis)) ([HN](https://news.ycombinator.com/item?id=30348274))
+- [Sphinx AutoAPI](https://github.com/readthedocs/sphinx-autoapi) - New approach to API documentation in Sphinx.

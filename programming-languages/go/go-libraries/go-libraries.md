@@ -268,6 +268,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Req](https://github.com/imroc/req) - Simplified Go HTTP client library with Black Magic, Less code and More efficiency.
 - [Turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go.
 - [Huma](https://github.com/danielgtaylor/huma) - Modern, simple, fast & opinionated REST API framework for Go with batteries included.
+- [gmux](https://github.com/elastic/gmux) - Go library for simultaneously serving net/http and gRPC requests on a single port.
 
 ## GraphQL
 
@@ -1325,6 +1326,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [dd-trace-go](https://github.com/DataDog/dd-trace-go) - Go tracing package for Datadog APM.
 - [byline Reader](https://github.com/msoap/byline) - Reading and processing data from a io.Reader line by line. Can add UNIX text processing principles to its Reader (like with awk, grep, sed ...).
 - [Go Type Tools](https://github.com/eloonstra/go-type-tools) - Library containing useful functions for working with Go types like filters, union, intersection and more.
+- [ut](https://github.com/kuba--/ut) - Yet Another Efficient Unification Algorithm.
 
 ## Links
 

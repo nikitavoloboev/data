@@ -110,3 +110,4 @@
 - [FormKit](https://github.com/formkit/formkit) - Form authoring framework for Vue developers.
 - [TSConfigs for Vue projects to extend](https://github.com/vuejs/tsconfig)
 - [Algolia module for Nuxt](https://github.com/nuxt-community/algolia-module)
+- [Nuxt Starter Templates](https://github.com/nuxt/starter) - Quickly get started with a minimal Nuxt starter template.

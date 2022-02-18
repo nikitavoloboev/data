@@ -81,3 +81,4 @@ And here are Chrome extensions I use:
 - [Falcon](https://chrome.google.com/webstore/detail/falcon/mmifbbohghecjloeklpbinkjpbplfalb) - Chrome extension for full text history search. ([Code](https://github.com/lengstrom/falcon))
 - [Chrome Extension Boilerplates](https://github.com/stars/chrismessina/lists/chrome-extension-boilerplates) ([Tweet](https://twitter.com/VictorPontis/status/1491849170298322949))
 - [gowitness](https://github.com/sensepost/gowitness) - Go, web screenshot utility using Chrome Headless.
+- [CEF Python](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF).

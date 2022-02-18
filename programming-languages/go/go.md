@@ -707,3 +707,5 @@ if err != nil {
 - [Efficient Go Book (2022)](https://www.oreilly.com/library/view/efficient-go/9781098105709/) ([Code](https://github.com/bwplotka/efficiency-advent-2021))
 - [Go performance channel](https://telegram.me/go_perf) ([Twitter](https://twitter.com/go_perf))
 - [Profiling Go programs with pprof](https://jvns.ca/blog/2017/09/24/profiling-go-with-pprof/)
+- [Scheduling In Go : Part I - OS Scheduler (2018)](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+- [Internals of Go's new fuzzing system (2022)](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)

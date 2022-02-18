@@ -485,3 +485,6 @@
 - [Natural Language Processing with Transformers Book](https://transformersbook.com/)
 - [Transformer Memory as a Differentiable Search Index (2022)](https://arxiv.org/abs/2202.06991) ([HN](https://news.ycombinator.com/item?id=30356264)) ([Tweet](https://twitter.com/arankomatsuzaki/status/1493767303661383682))
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (2020)](https://arxiv.org/abs/2003.10555) ([Code](https://github.com/lucidrains/electra-pytorch))
+- [spaCy + Stanza](https://github.com/explosion/spacy-stanza) - Use the latest Stanza (StanfordNLP) research models directly in spaCy.
+- [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
+- [Sequential Transformer](https://github.com/facebookresearch/adaptive-span) - Code for training Transformers on sequential tasks such as language modeling.

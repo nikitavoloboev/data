@@ -21,3 +21,4 @@
 - [Streaming SolidJS: Fine-Grained Reactivity (2021)](https://www.youtube.com/watch?v=b9e7VXs_A4s)
 - [solid-firebase](https://github.com/wobsoriano/solid-firebase) - Solid hooks for Firebase.
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
+- [solid-ui](https://github.com/solid/solid-ui) - User Interface widgets and utilities for Solid.

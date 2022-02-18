@@ -573,3 +573,5 @@
 - [Exploring Sparsity in Image Super-Resolution for Efficient Inference (2021)](https://arxiv.org/abs/2006.09603) ([Code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/SMSR))
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (2022)](https://nvlabs.github.io/instant-ngp/) ([Code](https://github.com/yashbhalgat/HashNeRF-pytorch))
 - [AutoInt: Automatic Integration for Fast Neural Volume Rendering (2021)](https://github.com/computational-imaging/automatic-integration)
+- [Learning to Prompt for Vision-Language Models (2021)](https://arxiv.org/abs/2109.01134) ([Code](https://github.com/KaiyangZhou/CoOp))
+- [Summarizing Videos with Attention (2019)](https://arxiv.org/abs/1812.01969) ([Code](https://github.com/ok1zjf/VASNet))

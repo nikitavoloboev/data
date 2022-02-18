@@ -89,3 +89,6 @@
 - [Cleavir](https://github.com/s-expressionists/Cleavir) - Implementation-independent framework for creating Common Lisp compilers.
 - [CFFI](https://github.com/cffi/cffi) - Common Foreign Function Interface, purports to be a portable FFI for Common Lisp.
 - [Eclector](https://github.com/s-expressionists/Eclector) - Portable and extensible Common Lisp Reader.
+- [Cloture](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+- [CL21](https://github.com/cl21/cl21) - Common Lisp in the 21st Century.
+- [Arrows](https://github.com/Harleqin/arrows) - Implements threading macros, inspired by Clojure.

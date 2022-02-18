@@ -626,3 +626,4 @@
 - [Trousseau](https://github.com/ondat/trousseau) - Store and access your secrets the Kubernetes native way with any external KMS.
 - [Machine API Operator](https://github.com/openshift/machine-api-operator) - Manages the lifecycle of specific purpose CRDs, controllers and RBAC objects that extend the Kubernetes API.
 - [Kuber](https://github.com/JuliaComputing/Kuber.jl) - Julia Kubernetes Client.
+- [kbrew](https://github.com/kbrew-dev/kbrew) - CLI tool for Kubernetes which makes installing any complex stack easy in one step.

@@ -13,6 +13,7 @@
 - [DuckDuckGo Android App](https://github.com/duckduckgo/Android)
 - [Tailscale Android Client](https://github.com/tailscale/tailscale-android)
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - Quotes Application built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.
+- [CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
 
 ## Links
 

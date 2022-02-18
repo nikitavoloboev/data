@@ -175,6 +175,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Binny's garden](https://notes.binnyva.com/)
 - [David Winterbottom's TIL](https://til.codeinthehole.com/)
 - [Alex Schroeder: Diary](https://alexschroeder.ch/)
+- [Well Ordered Wiki](https://wiki.wellorder.net/wiki/)
 - [SUDOGAMI](https://sudogami.com/site/home.html)
 - [Map of Computing](https://github.com/ComputingTeachers/mapOfComputing)
 - [Simon Willison: TIL](https://til.simonwillison.net/) ([Code](https://github.com/simonw/til))

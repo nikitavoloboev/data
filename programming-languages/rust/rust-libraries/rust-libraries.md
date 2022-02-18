@@ -130,6 +130,7 @@
 - [racket-wasm](https://github.com/Bogdanp/racket-wasm) - WASM tooling in Racket.
 - [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly.
 - [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
+- [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
 
 ## GUI
 
@@ -213,6 +214,8 @@
 - [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust.
 - [OpenDAL](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
 - [persistentcache-rs](https://github.com/stefan-k/persistentcache-rs) - Macros for persistently caching function calls using files or Redis.
+- [ODBC-API](https://github.com/pacman82/odbc-api) - Rust ODBC bindings. Open standard to connect to a variety of data sources.
+- [datom-rs](https://github.com/LutrisEng/datom-rs) - Open-source database inspired by Datomic.
 
 ## Video
 
@@ -1461,6 +1464,7 @@
 - [queue-file](https://github.com/ing-systems/queue-file) - Lightning-fast, transactional, file-based FIFO.
 - [zstd-rs](https://github.com/KillingSpark/zstd-rs) - Feature-complete decoder for the zstd compression format.
 - [atomic-memcpy](https://github.com/taiki-e/atomic-memcpy) - Byte-wise atomic memcpy.
+- [resource](https://github.com/mistodon/resource) - Rust macros for statically including resources in release mode, but dynamically loading them in debug mode.
 
 ## Cargo Plugins
 

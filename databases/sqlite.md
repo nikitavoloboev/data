@@ -154,3 +154,4 @@
 - [wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - SQLite compiled to WASM with pluggable page storage.
 - [Using SQLite and Datasette with Fly Volumes (2022)](https://simonwillison.net/2022/Feb/15/fly-volumes/)
 - [LumoSQL](https://github.com/LumoSQL/lumosql) - Modification of SQLite embedded data storage library. Offers multiple backend storage systems selectable by the user and proposes other integrity and security features.
+- [BFT-SQLITE](https://github.com/davebryson/bftdb) - Tendermint + Sqlite3 = BFT Database Replication.

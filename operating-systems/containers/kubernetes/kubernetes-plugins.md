@@ -70,3 +70,4 @@
 - [Scheduler Plugins](https://github.com/kubernetes-sigs/scheduler-plugins) - Repository for out-of-tree scheduler plugins based on scheduler framework.
 - [Helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml.
 - [apiextensions-apiserver](https://github.com/kubernetes/apiextensions-apiserver) - API server for API extensions like CustomResourceDefinitions.
+- [kube-workspace-operator](https://github.com/refaktory/kube-workspace) - Kubernetes operator that allows managing user-specific, persistent "workspace" pods that can be accessed via SSH.

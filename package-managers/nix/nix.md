@@ -291,3 +291,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [gradle2nix](https://github.com/tadfisher/gradle2nix) - Generate Nix expressions which build Gradle-based projects.
 - [npins](https://github.com/andir/npins) - Simple and convenient pinning of dependencies in Nix.
 - [nix-docker-base](https://github.com/teamniteo/nix-docker-base) - Nix Docker base images for fast and minimal builds.
+- [Nix: An Idea Whose Time Has Come (2022)](https://revelry.co/insights/development/nix-time/) ([Lobsters](https://lobste.rs/s/ui7wc4/nix_idea_whose_time_has_come))

@@ -23,6 +23,7 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Paint it Red](https://github.com/kukushechkin/paint-it-red) - Safari Web Extension to custom color Safari 15 pages with theme-color.
 - [HighlightJSON](https://github.com/lexrus/HighlightJSON) - Tiny Safari Web Extension for presenting highlighted JSON files.
 - [Svadilfari](https://apps.apple.com/us/app/svadilfari/id1586432379) - Gesture Control for Safari on iOS and iPadOS. ([Code](https://github.com/shumbo/Svadilfari))
+- [Session Buddy](https://github.com/dwarvesf/session-buddy) - Ultra-light Safari extension helps you save open tabs as collections that can be easily restored later.
 
 ## Other
 

@@ -143,3 +143,5 @@
 - [Tagref](https://github.com/stepchowfun/tagref) - Helps you maintain cross-references in your code.
 - [What are you using to write your company handbook?](https://twitter.com/DanielleMorrill/status/1493336798021316610)
 - [docsify-cli](https://github.com/docsifyjs/docsify-cli) - Magical documentation generator.
+- [My favorite things about working at companies with a culture of writing](https://founder-fodder.ghost.io/writing-cultures-win/) ([HN](https://news.ycombinator.com/item?id=30361655))
+- [Ask HN: How do you manage your companies knowledge base? (2022)](https://news.ycombinator.com/item?id=30371723)

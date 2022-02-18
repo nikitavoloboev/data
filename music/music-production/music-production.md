@@ -131,6 +131,7 @@
 - [spafe](https://github.com/SuperKogito/spafe) - Simplified Python Audio-Features Extraction.
 - [WagsI](https://github.com/mikesol/wagsi) - 100% browser-based interactive live audio coding environment.
 - [web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API.
+- [Melo](https://github.com/mistodon/melo) - Music notation language and compiler to MIDI.
 
 ## Inspiration
 

@@ -206,6 +206,8 @@
 - [SparkSQL](https://github.com/propelledanalytics/SparkSQL.jl) - Enables Julia programs to work with Apache Spark data using just SQL.
 - [Redis.jl](https://github.com/JuliaDatabases/Redis.jl) - Fully-featured Redis client for the Julia programming language.
 - [Query](https://github.com/queryverse/Query.jl) - Query almost anything in julia.
+- [DuckDB.jl](https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl)
+- [DBInterface.jl](https://github.com/JuliaDatabases/DBInterface.jl) - Database interface definitions for Julia.
 
 ## Error
 
@@ -467,6 +469,8 @@
 - [LogExpFunctions.jl](https://github.com/JuliaStats/LogExpFunctions.jl) - Julia package for various special functions based on `log` and `exp`.
 - [Missings.jl](https://github.com/JuliaData/Missings.jl) - Missing value support for Julia.
 - [PlotlyJS](https://github.com/JuliaPlots/PlotlyJS.jl) - Julia library for plotting with plotly.js.
+- [SparseArrays](https://github.com/JuliaSparse/SparseArrays.jl) - Functionality for working with sparse arrays in Julia.
+- [RedefStructs.jl](https://github.com/FedericoStra/RedefStructs.jl) - Redefinable structures.
 
 ## Links
 

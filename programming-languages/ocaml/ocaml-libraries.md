@@ -147,6 +147,7 @@
 - [Iter](https://github.com/c-cube/iter) - Simple iterator abstract datatype, intended to iterate efficiently on collections while performing some transformations.
 - [sosa](https://github.com/hammerlab/sosa) - Sane OCaml String API.
 - [ocaml-stdint](https://github.com/andrenth/ocaml-stdint) - Various signed and unsigned integers for OCaml.
+- [Current_incr](https://github.com/ocurrent/current_incr) - Self-adjusting computations.
 
 ## Links
 

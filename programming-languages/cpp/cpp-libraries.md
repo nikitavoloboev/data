@@ -338,6 +338,7 @@
 - [alpaka](https://github.com/alpaka-group/alpaka) - Abstraction Library for Parallel Kernel Acceleration.
 - [cpp-effects](https://github.com/maciejpirog/cpp-effects) - Effect handlers in C++.
 - [nanobench](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++.
+- [Multi-Protocol SPDZ](https://github.com/data61/MP-SPDZ) - Software to benchmark various secure multi-party computation (MPC) protocols such as SPDZ, SPDZ2k, MASCOT, Overdrive, BMR garbled circuits, Yao's garbled circuits.
 
 ## Links
 

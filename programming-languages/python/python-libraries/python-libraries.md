@@ -697,6 +697,7 @@
 - [aioapns](https://github.com/Fatal1ty/aioapns) - Library designed specifically for sending push-notifications to iOS devices via Apple Push Notification Service.
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - Generator library for concise, unambiguous and URL-safe UUIDs.
 - [ThatLib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python.
+- [pyvirtualcam](https://github.com/letmaik/pyvirtualcam) - Send frames to a virtual camera from Python.
 
 ## Links
 
@@ -775,3 +776,4 @@
 - [Faster Python calculations with Numba: 2 lines of code, 13× speed-up (2022)](https://pythonspeed.com/articles/numba-faster-python/)
 - [uhashring](https://github.com/ultrabug/uhashring) - Consistent hashing in pure Python.
 - [pypistats](https://github.com/hugovk/pypistats) - Command-line interface to PyPI Stats API to get download stats for Python packages.
+- [Python Project Setup – Virtual Environments and Package Management (2022)](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)

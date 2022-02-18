@@ -74,3 +74,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Culturally transmitted skills and values](https://danluu.com/culture/) ([HN](https://news.ycombinator.com/item?id=29155502))
 - [Tesla Anti-Handbook Handbook](https://twitter.com/alex_avoigt/status/1462953513890336771)
 - [Polite Technology](https://polite.technology/preview)
+- [Awesome Culture](https://github.com/expede/awesome-culture)

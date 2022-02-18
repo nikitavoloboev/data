@@ -68,7 +68,7 @@
 - [Intro to P2P Indexing and Search](https://github.com/hypercore-protocol/p2p-indexing-and-search)
 - [p2p Git Portal](https://github.com/happybeing/p2p-git-portal-poc) - GitHub like portal which can be hosted on peer-to-peer or static storage, initially targeting Safe Network.
 - [Hyperbeam](https://github.com/mafintosh/hyperbeam) - 1-1 end-to-end encrypted internet pipe powered by Hyperswarm. ([HN](https://news.ycombinator.com/item?id=25407174))
-- [nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)) ([HN](https://news.ycombinator.com/item?id=29749061))
+- [Nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)) ([HN](https://news.ycombinator.com/item?id=29749061)) ([Intro](https://wiki.wellorder.net/post/nostr-intro/)) ([Lobsters](https://lobste.rs/s/mv74ka/nostr_introduction))
 - [QuantumGate](https://github.com/kareldonk/QuantumGate) - Peer-to-peer (P2P) communications protocol, library and API written in C++. ([Web](http://www.quantumgate.org/))
 - [Beaker browser](https://beakerbrowser.com/) - Experimental peer to peer web browser. ([HN](https://news.ycombinator.com/item?id=25753908))
 - [Probablistic P2P Content Moderation (2021)](https://generativist.falsifiable.com/metaverse/probablistic-p2p-content-moderation)
@@ -107,3 +107,5 @@
 - [PyGrid](https://github.com/OpenMined/PyGrid) - Peer-to-peer Platform for Secure, Privacy-preserving, Decentralized Data Science.
 - [MLDonkey](https://github.com/ygrek/mldonkey) - Cross-platform multi-network p2p daemon. ([Wiki](http://mldonkey.sourceforge.net/Main_Page))
 - [Tinfoil Chat](https://github.com/maqp/tfc) - Onion-routed, endpoint secure messaging system.
+- [Kademlia: A Peer-to-peer Information System. Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
+- [dht-rpc](https://github.com/mafintosh/dht-rpc) - Make RPC calls over a Kademlia based DHT.

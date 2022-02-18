@@ -84,7 +84,6 @@
 - [Mostly avoid unit tests](https://lobste.rs/s/trrold/mostly_avoid_unit_tests)
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
 - [In search of software perfection - Xavier Leroy (2016)](https://www.youtube.com/watch?v=lAU5hx_3xRc)
-- [Communicating Sequential Processes (CSP) (1978)](http://usingcsp.com/) ([PDF](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf))
 - [Ask HN: What's the largest amount of bad code you have ever seen work? (2018)](https://news.ycombinator.com/item?id=18442637)
 - [HN: Please do not attempt to simplify this code (2018)](https://news.ycombinator.com/item?id=18772873)
 - [HN: Minimalism: Practical Guide to Writing Less Code (2018)](https://news.ycombinator.com/item?id=18830732)

@@ -314,3 +314,4 @@
 - [pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
 - [Next.js Modal Routing (2022)](https://www.youtube.com/watch?v=P4W_LaotmNI) ([Code](https://github.com/ryanto/next-modal-routing))
 - [Most requested Next.js features (2022)](https://twitter.com/leeerob/status/1493775264869863429)
+- [Next.js 12.1: On-demand ISR, SWC support for styled-components, Relay, Jest (2022)](https://nextjs.org/blog/next-12-1) ([HN](https://news.ycombinator.com/item?id=30374819))

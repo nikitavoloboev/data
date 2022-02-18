@@ -163,6 +163,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [use-clipboard-api](https://github.com/helderburato/use-clipboard-api) - React Hook that consumes Web Clipboard API.
 - [react-browser-navigator](https://github.com/lineceptorg/react-browser-navigator) - React Hooks to access browser navigator properties.
 - [use-gauge](https://github.com/mattrothenberg/use-gauge) - Headless React hook for building beautiful gauge charts.
+- [Watchable](https://github.com/shortwave/watchable) - Library to expose state into React.
 
 ## Code
 

@@ -203,6 +203,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [CloverDB](https://github.com/ostafen/clover) - Lightweight NoSQL database designed for being simple and easily maintainable, thanks to its small code base. Inspired by tinyDB.
 - [Vearch](https://github.com/vearch/vearch) - Scalable distributed system for efficient similarity search of deep learning vectors.
 - [RemixDB](https://github.com/wuxb45/remixdb) - Read- and write-optimized concurrent KV store. Fast point and range queries. Extremely low write-amplification.
+- [RisingLight](https://github.com/risinglightdb/risinglight) - OLAP database system for educational purpose.
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - Scalable, distributed, collaborative, document-graph database, for the real time web. ([Web](https://surrealdb.com/))
 
 ## Tools
 
@@ -533,3 +535,5 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Migrate To Graph](https://github.com/microsoft/MigrateToGraph) - Tool to migrate an existing database to a graph database.
 - [Vector (approximate nearest neighbor) databases are fairly underground still](https://twitter.com/bernhardsson/status/1492656898310606849)
 - [Securely delegating trust with digital signatures and secret storage systems (2022)](https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems)
+- [StaticBackend](https://staticbackend.com/) - No vendor-lock-in backend as a service. ([Code](https://github.com/staticbackendhq/core))
+- [How much logic should I keep at the database vs. application layer? (2022)](https://lobste.rs/s/4zmaos/how_much_logic_should_i_keep_at_database_vs)

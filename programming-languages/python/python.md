@@ -429,3 +429,4 @@ for i, _ in enumerate(nums):
 - [Keeping python code clean with pre-commit hooks: black, flake8 and isort (2019)](https://rohitgupta.xyz/blog/keeping-python-code-clean-with-pre-commit-hooks-black-flake8-and-isort/)
 - [Understanding Attributes, Dicts and Slots in Python (2022)](https://bas.codes/posts/python-dict-slots)
 - [Interactive Loop Optimization](https://jott.live/markdown/interactive_optimization) ([Lobsters](https://lobste.rs/s/wbqbpn/interactive_loop_optimization))
+- [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)

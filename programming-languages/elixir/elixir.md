@@ -1,5 +1,7 @@
 # Elixir
 
+[Exercism Elixir exercises](https://github.com/exercism/elixir) are nice intro.
+
 ## Links
 
 - [How Discord Scaled Elixir to 5M Concurrent Users (2017)](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b) ([HN](https://news.ycombinator.com/item?id=19238221))
@@ -140,3 +142,4 @@
 - [Elixir Cross Referencer](https://github.com/bootlin/elixir)
 - [Who Watches Watchmen? – Integrating Elixir Applications with Systemd (2022)](https://hauleth.dev/post/who-watches-watchmen-i/) ([HN](https://news.ycombinator.com/item?id=29971515))
 - [Gradient](https://github.com/esl/gradient) - Gradual typechecker for Elixir.
+- [Elixir on Exercism](https://exercism.org/tracks/elixir) ([Code](https://github.com/exercism/elixir))

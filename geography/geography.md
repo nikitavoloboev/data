@@ -19,4 +19,4 @@
 - [Open Infrastructure Map](https://openinframap.org/#2/26/12) ([HN](https://news.ycombinator.com/item?id=29948473))
 - [Lights at sea](https://geodienst.github.io/lighthousemap/) - Shows all the blinking beacons from OpenStreetMap. ([Code](https://github.com/geodienst/lighthousemap))
 - [Why, exactly, the ocean is salty?](https://twitter.com/ferrisjabr/status/1491150686729687040)
-- [Worldle](https://worldle.teuteuf.fr/) - Guess a country. ([Tweet](https://twitter.com/FintanYTWalsh/status/1492466778370453510)) ([HN](https://news.ycombinator.com/item?id=30367906))
+- [Worldle](https://worldle.teuteuf.fr/) - Guess a country. ([Tweet](https://twitter.com/FintanYTWalsh/status/1492466778370453510)) ([HN](https://news.ycombinator.com/item?id=30367906)) ([Code](https://github.com/teuteuf/worldle))

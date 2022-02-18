@@ -29,6 +29,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
 - [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
 - [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
+- [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
+- [FRANXX](https://github.com/egoist/franxx) - Vanilla JavaScript router that works everywhere.
 
 ## Test
 
@@ -329,6 +331,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [jsSHA](https://github.com/Caligatio/jsSHA) - TypeScript/JavaScript streaming implementation of the complete Secure Hash Standard (SHA) family.
 - [miniplex](https://github.com/hmans/miniplex) - Joyfully minimal riff on ECS with a focus on Developer Experience.
 - [Telescopic Text](https://github.com/jackyzha0/telescopic-text) - Open-source library to help with creating expandable text.
+- [ZenJSON](https://github.com/etienne-dldc/zenjson) - Parse and serialize special types into JSON-compatible data.
+- [literal-parser](https://github.com/etienne-dldc/literal-parser) - Small library to parse JavaScript array/object literal.
 
 ## Links
 
@@ -371,3 +375,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS.
 - [get-packages](https://github.com/egoist/get-packages) - Get packages from a monorepo (pnpm, yarn, npm, lerna).
 - [tsync](https://github.com/Wulf/tsync) - Synchronize rust and typescript types.
+- [run-ts](https://github.com/etienne-dldc/run-ts) - Tools to use Typescript files as npm scripts.

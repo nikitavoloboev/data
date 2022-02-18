@@ -790,6 +790,11 @@
 - [noble-hashes](https://github.com/paulmillr/noble-hashes) - Audited & minimal JS implementation of SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2 & Scrypt.
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2) - Beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [openapi-client-axios](https://github.com/anttiviljami/openapi-client-axios) - JavaScript client library for consuming OpenAPI-enabled APIs with axios.
+- [Alias HQ](https://github.com/davestewart/alias-hq) - End-to-end solution for configuring, refactoring, maintaining and using path aliases.
+- [record-cache](https://github.com/mafintosh/record-cache) - Cache optimized for record like things like host:port or domain.names.
+- [UAParser.js](https://github.com/faisalman/ua-parser-js) - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data with relatively small footprint.
+- [p-lazy](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until it's awaited or when .then() or .catch() is called.
+- [priority-queue](https://github.com/datastructures-js/priority-queue) - Performant heap-based priority queue implementation in JS.
 
 ## Links
 
@@ -843,3 +848,5 @@
 - [Private NPM Registry for Enterprise](https://github.com/cnpm/cnpmcore)
 - [Awesome JavaScript Network](https://github.com/Kikobeats/awesome-network-js) - List of network layer resources written pure JS.
 - [Pure ESM package](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) ([Tweet](https://twitter.com/suchipi/status/1493751398009237506))
+- [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - CLI for the node BundlePhobia Service. Find the cost of adding a npm package to your bundle.
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.

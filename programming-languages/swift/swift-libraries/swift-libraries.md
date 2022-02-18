@@ -958,6 +958,8 @@
 - [μSwift](https://github.com/compnerd/uswift) - Minimal standard library that provides a few of the core interfaces required for using basic constructs in Swift.
 - [Lullaby](https://github.com/jtodaone/Lullaby) - Functional DSP / Audio Framework for Swift.
 - [Cassowary](https://github.com/compnerd/cassowary) - Swift implementation of the cassowary simplex solver.
+- [SwiftPrometheus](https://github.com/MrLotU/SwiftPrometheus) - Prometheus client for Swift.
+- [swift-babab](https://github.com/spevans/swift-babab) - Swift library for Buffers, Arrays, Bits and Bytes.
 
 ## Other (not lib)
 
@@ -1005,3 +1007,4 @@
 - [Combining protocols in Swift (2022)](https://www.swiftbysundell.com/articles/combining-protocols-in-swift/)
 - [Swift Package Manager](https://github.com/apple/swift-package-manager)
 - [LicenseKit](https://github.com/danielsaidi/LicenseKit) - Helps you protect your Swift-based apps and libraries with a commercial license.
+- [spmready](https://github.com/StatusQuo/spmready) - Tool to check if all your pods are ready to migrate to swift package manager.

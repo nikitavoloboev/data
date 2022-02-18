@@ -1,5 +1,7 @@
 # Ruby
 
+[Try Ruby](https://try.ruby-lang.org/) is nice intro.
+
 ## Links
 
 - [Ruby is nice, but what makes great?](https://www.reddit.com/r/ruby/comments/8ysh41/ruby_is_nice_but_what_makes_great/)
@@ -105,3 +107,4 @@
 - [Ruby: How to Run a Rack app in a Background Thread (2022)](https://www.johnnunemaker.com/ruby-rack-background-thread/)
 - [Ruby Structs (2021)](https://www.alchemists.io/articles/ruby_structs/) ([Lobsters](https://lobste.rs/s/ct0tpf/ruby_structs))
 - [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
+- [TryRuby](https://try.ruby-lang.org/) - Learn programming with Ruby. ([Code](https://github.com/ruby/TryRuby))

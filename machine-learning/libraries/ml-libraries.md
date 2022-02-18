@@ -287,3 +287,5 @@
 - [Marian](https://github.com/marian-nmt/marian) - Efficient Neural Machine Translation framework written in pure C++ with minimal dependencies. ([Web](https://marian-nmt.github.io/))
 - [segmind](https://github.com/segmind/segmind) - MLOps for end-to-end deep learning lifecycle.
 - [FLUTE](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation.
+- [evosax](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies.
+- [Neural Processes](https://github.com/wesselb/neuralprocesses) - Framework for composing Neural Processes in Python.

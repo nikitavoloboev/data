@@ -138,6 +138,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
+- [OG Impact](https://ogimpact.sh/) - Free API for generating social media images. ([Code](https://github.com/chrisvxd/og-impact))
 - [Sentry](https://sentry.io/) - Application Monitoring and Error Tracking Software. ([SDK Examples](https://github.com/getsentry/examples))
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
@@ -147,6 +148,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Quarchive](https://quarchive.com/) - Traditional "Web 2.0" social bookmarking, with small improvements. ([Code](https://github.com/calpaterson/quarchive))
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Aquila Network](https://aquila.network/) - Manage, share and discover smart bookmarks online. ([Awesome](https://github.com/Aquila-Network/awesome-aquila-network))
+- [Chat Analytics](https://chatanalytics.app/) - Generate insightful chat analysis reports in the browser. ([Code](https://github.com/mlomb/chat-analytics))
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Snapcode](https://snapcode.vercel.app/) - Code Snippets Manager. ([Code](https://github.com/Kholid060/snapcode))
 - [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))
@@ -156,6 +158,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
+- [SkyOffice](https://sky-office.co/) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. ([Code](https://github.com/kevinshen56714/SkyOffice))
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
 - [Tinybird](https://www.tinybird.co/) - Turn raw data into realtime API at scale.

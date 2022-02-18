@@ -212,3 +212,4 @@
 - [Distance, Time-of-Impact, and Closest-Point-of-Approach between Convex 2D Shapes](https://github.com/memononen/cpa)
 - [Signed Distance Field (SDF) Resources](https://github.com/CedricGuillemet/SDF)
 - [Journal of Graphics Tools](https://github.com/erich666/jgt-code)
+- [Awesome Voxel](https://github.com/meshula/awesome-voxel)

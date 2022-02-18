@@ -144,6 +144,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Phantom](https://github.com/dzavalishin/phantomuserland) - Persistent Operating System. ([HN](https://news.ycombinator.com/item?id=30283864))
 - [xv7](https://github.com/imtsuki/xv7) - Operating System in 100% Pure Rust.
 - [gokvm](https://github.com/bobuhiro11/gokvm) - KVM based tiny x86 hypervisor written in pure Go, which can boot Linux.
+- [rkernel](https://github.com/littledivy/rkernel) - Minimal x86_64 Rust OS kernel.
 
 ## Notes
 

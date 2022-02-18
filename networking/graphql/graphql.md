@@ -296,3 +296,4 @@
 - [GraphQL Network Inspector](https://github.com/warrenday/graphql-network-inspector) - Chrome Plugin for GraphQL network monitoring.
 - [GraphQL Eventbus](https://github.com/quant-daddy/graphql-eventbus) - Build a GraphQL powered Event architecture.
 - [Rust GraphQL API Boilerplate](https://github.com/mattdamon108/rust_graphql_api_boilerplate) - Boilerplate of GraphQL API built in Rust + Warp + Juniper + Diesel.
+- [jenova](https://github.com/kreteshq/jenova) - Battery-included GraphQL Server in TypeScript. Built on top of GraphQL Helix and Envelop.

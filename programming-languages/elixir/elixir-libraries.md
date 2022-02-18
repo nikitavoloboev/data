@@ -24,6 +24,7 @@
 - [Joken](https://github.com/joken-elixir/joken) - Elixir JWT library.
 - [Ueberauth](https://github.com/ueberauth/ueberauth) - Elixir Authentication System for Plug-based Web Applications.
 - [Temple](https://github.com/mhanberg/temple) - HTML DSL for Elixir and Phoenix.
+- [NimbleTOTP](https://github.com/dashbitco/nimble_totp) - Tiny Elixir library for time-based one time passwords (TOTP).
 
 ## DB
 
@@ -129,6 +130,9 @@
 - [MuonTrap](https://github.com/fhunleth/muontrap) - Keep programs, deamons, and applications launched from Erlang and Elixir contained and well-behaved.
 - [StreamSplit](https://github.com/tallakt/stream_split) - Split a stream into a head and tail, without iterating the tail.
 - [Unicode Set](https://github.com/elixir-unicode/unicode_set) - Unicode set parsing, expansion, macros and guards for Elixir.
+- [CAStore](https://github.com/elixir-mint/castore) - Up-to-date certificate store for Elixir.
+- [NimblePool](https://github.com/dashbitco/nimble_pool) - Tiny resource-pool implementation for Elixir.
+- [SSHKit](https://github.com/bitcrowd/sshkit.ex) - Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 
 ## Links
 

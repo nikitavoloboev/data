@@ -1,5 +1,7 @@
 # [Web Components](https://www.webcomponents.org/introduction)
 
+[Lit](https://lit.dev/) & [Catalyst](https://github.github.io/catalyst/) (used by GitHub) are interesting.
+
 ## Notes
 
 - [Interoperability is best delivered via web components. Platform features are more resilient too. Web components will outlast any framework.](https://twitter.com/zachleat/status/1468961751748136972)
