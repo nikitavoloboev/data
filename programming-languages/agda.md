@@ -72,3 +72,4 @@
 - [generic-lr](https://github.com/laMudri/generic-lr) - AACMM's generic-syntax, but with QTT-style annotations.
 - [Initial Categories with Families](https://github.com/superhaNds/cwfs) - Formalization of categories with families (CwFs) defined as a generalized algebraic theory described in Internal Type Theory.
 - [Conceptual Mathematics](https://github.com/JonathanLorimer/conceptual-mathematics) - Proofs for the exercises for Lawvere and Schanuel's Conceptual Mathematics.
+- [agda-search](https://github.com/plt-amy/agda-search) - Search for identifiers in Agda codebases.

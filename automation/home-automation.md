@@ -56,4 +56,4 @@
 - [Presence Simulation](https://github.com/slashback100/presence_simulation) - Home Assistant component aim to provide a presence simulation in your home while you are away.
 - [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/) ([HN](https://news.ycombinator.com/item?id=30177362))
 - [SaunaKit](https://github.com/quicklywilliam/saunakit) - Remote-operable smart Sauna.
-- [My smart home 2021: A Home Assistant love story (2021)](https://jorisroovers.com/posts/my-smart-home-2021) ([HN](https://news.ycombinator.com/item?id=30349767))
+- [My smart home 2021: A Home Assistant love story (2021)](https://jorisroovers.com/posts/my-smart-home-2021) ([HN](https://news.ycombinator.com/item?id=30349767)) ([Code](https://github.com/jorisroovers/casa))

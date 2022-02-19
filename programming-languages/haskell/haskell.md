@@ -382,3 +382,5 @@
 - [The Unreasonable Effectiveness of Haskell (2022)](https://medium.com/pragmatic-programmers/the-unreasonable-effectiveness-of-haskell-48d92c2fe266) ([Lobsters](https://lobste.rs/s/iiqlwa/unreasonable_effectiveness_haskell))
 - [Asynchronous Exceptions in Practice (2017)](https://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
 - [The Voids Of Haskell](https://github.com/graninas/The-Voids-Of-Haskell) ([Lobsters](https://lobste.rs/s/o2yrfh/voids_haskell))
+- [Zürich Friends of Haskell](https://zfoh.ch/)
+- [ZuriHac 2022](https://zfoh.ch/zurihac2022/)

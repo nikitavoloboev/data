@@ -6,7 +6,7 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 ![](https://i.imgur.com/YBtftqq.png)
 
-I add `del` as part of the name contacts that are temporary. I then cleanup these contacts when they are no longer needed. i.e. You need to add person to Contacts just to send someone a WhatsApp message. Or agency contact for a place I rent.
+I add `[` to contacts that are top/favorite. I also add `del` as part of the name contacts that are temporary. I then cleanup these contacts when they are no longer needed. i.e. You need to add person to Contacts just to send someone a WhatsApp message. Or agency contact for a place I rent.
 
 ## Links
 

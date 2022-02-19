@@ -336,6 +336,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Simultan](https://github.com/terkelg/simultan) - Simultaneously run an async function on any iterable with limited concurrency.
 - [mrmime](https://github.com/lukeed/mrmime) - Tiny (2.8kB) and fast utility for getting a MIME type from an extension or filename.
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
+- [unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once.
 
 ## Links
 

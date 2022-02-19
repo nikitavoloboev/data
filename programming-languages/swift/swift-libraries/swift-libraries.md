@@ -418,6 +418,7 @@
 - [JGProgressHUD-SwiftUI](https://github.com/JonasGessner/JGProgressHUD-SwiftUI) - Easily show HUDs with SwiftUI! Lightweight SwiftUI wrapper for JGProgressHUD for iOS, tvOS, Catalyst.
 - [WebView](https://github.com/phatblat/WebView) - Simple SwiftUI wrapper for WKWebView.
 - [PreviewView](https://github.com/theoriginalbit/PreviewView) - Make use of SwiftUI Previews for UIKit.
+- [TokenField](https://github.com/fcanas/TokenField) - SwiftUI wrapper for NSTokenField.
 
 ## Test
 

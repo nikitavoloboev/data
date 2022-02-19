@@ -528,6 +528,7 @@
 - [rust-mdo](https://github.com/TeXitoi/rust-mdo) - Monadic do notation for rust using macro and duck typing.
 - [derive-into-owned](https://github.com/koivunej/derive-into-owned) - Procedural macro for deriving helper methods for types with Cow fields.
 - [derive-where](https://github.com/ModProg/derive-where) - Derive macro to simplify deriving standard and other traits with custom generic type bounds.
+- [expander](https://github.com/drahnr/expander) - Expands a proc-macro into a file, and uses a include! directive in place.
 
 ## Math
 

@@ -486,3 +486,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Foundry Rust Monorepo Template](https://github.com/gakonst/foundry-rust-template)
 - [Lens Protocol](https://github.com/aave/lens-protocol) - Decentralized, non-custodial social graph. Lens implements unique, on-chain social interaction mechanisms.
 - [dpack](https://github.com/dapphub/dpack) - File with a collection of EVM addresses and artifacts (ABIs).
+- [Eth-Components](https://github.com/scaffold-eth/eth-components) - React library of commonly used Ethereum components.
