@@ -185,3 +185,4 @@
 - [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) - End-to-end typesafe APIs with tRPC.io in SvelteKit applications. ([Example](https://github.com/icflorescu/trpc-sveltekit-example))
 - [Sitemap generator for Svelte](https://github.com/bartholomej/svelte-sitemap) - Small helper which scans your Svelte routes and generates static sitemap.xml.
 - [Metawrite](https://github.com/koodeau/metawrite) - Appwrite SDK with ready to go components for Svelte / SvelteKit.
+- [Why I wouldn't recommend Svelte JS to a fellow CTO (2022)](https://www.reddit.com/r/sveltejs/comments/sw11gc/why_i_wouldnt_recommend_svelte_js_to_a_fellow_cto/)

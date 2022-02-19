@@ -45,6 +45,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 ## Interesting NFTs
 
 - [5 Minutes of Fame NFT](https://twitter.com/ShaanVP/status/1437808708998688774) - Buy this NFT & get 5 min air time on podcast.
+- [Degen Toonz](https://degentoonz.io/) ([Twitter](https://twitter.com/DegenToonz))
 
 ## Notes
 
@@ -342,3 +343,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [chain-registry](https://github.com/cosmos/chain-registry) - Contains a chain.json and assetlist.json for a number of cosmos-sdk based chains.
 - [Exonum](https://github.com/exonum/exonum) - Extensible open-source framework for creating private/permissioned blockchain applications.
 - [Foundations of Blockchains - YouTube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
+- [Futures Spun And Stolen In The Metaverse](https://www.noemamag.com/line-go-up/) - Art has always been toy money for the rich to play with. We made it faster. ([Tweet](https://twitter.com/timmaughan/status/1494686636659064838))

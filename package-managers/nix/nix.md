@@ -96,7 +96,7 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.
 - [wharfix](https://github.com/google/nixery) - Minimal stateless+readonly docker registry based on nix expressions. Heavily inspired by Nixery.
 - [Nix - A One Pager](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
-- [yants](https://github.com/tazjin/yants) - Tiny type-checker for data in Nix, written in Nix.
+- [yants](https://code.tvl.fyi/about/nix/yants) - Tiny type-checker for data in Nix, written in Nix. ([HN](https://news.ycombinator.com/item?id=30395667))
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - Collection of short notes about Nix, down to what is immediately needed for users.
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - Nix parser written in Rust.
 - [Naersk](https://github.com/nmattia/naersk) - Nix support for building cargo crates.

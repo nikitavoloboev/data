@@ -217,6 +217,7 @@
 - [persistentcache-rs](https://github.com/stefan-k/persistentcache-rs) - Macros for persistently caching function calls using files or Redis.
 - [ODBC-API](https://github.com/pacman82/odbc-api) - Rust ODBC bindings. Open standard to connect to a variety of data sources.
 - [datom-rs](https://github.com/LutrisEng/datom-rs) - Open-source database inspired by Datomic.
+- [diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation.
 
 ## Video
 
@@ -275,6 +276,7 @@
 - [rgx](https://github.com/cloudhead/rgx) - Modern mid-level 2D graphics library.
 - [vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs.
 - [delaunator-rs](https://github.com/mourner/delaunator-rs) - Fast 2D Delaunay triangulation in Rust. A port of Delaunator.
+- [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui.
 
 ## Games
 

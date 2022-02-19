@@ -466,3 +466,4 @@
 - [iotop](https://github.com/Tomas-M/iotop) - top utility for IO.
 - [vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools.
 - [A new wave of Linux applications (2022)](https://tuxphones.com/convergent-linux-phone-apps/) ([HN](https://news.ycombinator.com/item?id=30364337))
+- [PipeWire](https://pipewire.org/) - Aims to greatly improve handling of audio and video under Linux. ([HN](https://news.ycombinator.com/item?id=30372257))

@@ -286,6 +286,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What is one book you would recommend everyone to read? (2022)](https://news.ycombinator.com/item?id=30241190)
 - [Books you should read before you die (2022)](https://www.reddit.com/r/suggestmeabook/comments/srgbmy/books_you_should_read_before_you_die/)
 - [Ask HN: What Books Do You Recommend Reading for 2022?](https://news.ycombinator.com/item?id=30358326)
+- [Ask HN: What is your favorite fiction book? (2022)](https://news.ycombinator.com/item?id=30400572)
 
 ## Interesting Prose Books
 

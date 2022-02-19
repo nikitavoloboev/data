@@ -151,6 +151,7 @@
 - [Dexie.js](https://github.com/dfahlander/Dexie.js) - Minimalistic Wrapper for IndexedDB. ([Web](https://dexie.org/))
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database.
 - [PicoDB](https://github.com/jclo/picodb) - Tiny in-memory database (MongoDB like) that stores JSON documents.
+- [level-web-stream](https://github.com/Level/web-stream) - Read from an abstract-level database using Web Streams.
 
 ## React
 

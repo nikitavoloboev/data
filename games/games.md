@@ -177,6 +177,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Great RTS games (2021)](https://www.reddit.com/r/RealTimeStrategy/comments/rlfxis/suggestions/)
 - [Long game suggestions (2021)](https://twitter.com/chetfaliszek/status/1475258682539593729)
 - [What are some of your favorite short single player campaign games? (2022)](https://www.reddit.com/r/patientgamers/comments/ss2vvc/what_are_some_of_your_favorite_short_single/)
+- [What's your favorite video game of all time? (2022)](https://www.reddit.com/r/AskMen/comments/swaycl/whats_your_favourite_videogame_of_all_time/)
 
 ## Links
 
