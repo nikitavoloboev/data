@@ -81,6 +81,7 @@
 - [Sidekick](https://github.com/hadynz/obsidian-sidekick) - Plugin that auto-suggests new connections to make by underlining text that matches existing tags or links in your vault.
 - [Obsidian Full Calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian.
 - [Remotely Save](https://github.com/fyears/remotely-save) - Unofficial sync plugin for Obsidian.
+- [Find Unlinked Files](https://github.com/Vinzent03/find-unlinked-files) - Find unlinked files (files with no backlinks) and unresolved links.
 
 ## Themes
 

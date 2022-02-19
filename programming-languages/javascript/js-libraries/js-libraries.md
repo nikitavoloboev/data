@@ -802,6 +802,7 @@
 - [lru-cache](https://github.com/isaacs/node-lru-cache) - Cache object that deletes the least-recently-used items.
 - [XRegExp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 - [JSON Schema Faker](https://github.com/json-schema-faker/json-schema-faker) - Use JSON Schema along with fake generators to provide consistent and meaningful fake data for your system.
+- [observable-prerender](https://github.com/asg017/observable-prerender) - Pre-render Observable notebooks for automation.
 
 ## Links
 

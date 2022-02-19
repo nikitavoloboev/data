@@ -39,6 +39,10 @@
 
 - [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Zig embedding of Wasmtime.
 
+## Math
+
+- [VecFns](https://github.com/omaraaa/VecFns) - Automatic Vector Math Functions In Zig.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)

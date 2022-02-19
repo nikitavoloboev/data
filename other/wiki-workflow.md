@@ -443,3 +443,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Lurnby](https://github.com/Roznoshchik/Lurnby) - Tool for active reading and personal knowledge management. ([Web](https://www.lurnby.com/)) ([HN](https://news.ycombinator.com/item?id=30299847))
 - [Windi](https://windi.app/) - Knowledge management and sharing platform based on short notes. ([HN](https://news.ycombinator.com/item?id=30302690))
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
+- [AI note garden: link suggestions (2022)](https://smus.com/ai-note-garden-linker/)

@@ -23,6 +23,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
 - [Dagcoin](https://dagcoin.org/) - Cryptocurrency designed for using, not trading.
 - [Kitty Coin](https://kittycoin.cat/)
+- [sai](https://github.com/makerdao/sai) - Simple single-collateral stablecoin that is dependent on a trusted oracle address and has a kill-switch.
 
 ## Notes
 

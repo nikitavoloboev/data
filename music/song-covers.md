@@ -27,3 +27,4 @@
 - [Баста - Сансара (cover by Valery. Y./Лера Яскевич)](https://www.youtube.com/watch?v=nD4B09OmSb8)
 - [Валентин Стрыкало - Наше лето](https://www.youtube.com/watch?v=byKX7Juo8rg)
 - [Валентин Стрыкало - Наше лето 2](https://www.youtube.com/watch?v=lkr04pnud2U)
+- [SHEFITA - Karma Police [Radiohead Cover]](https://www.youtube.com/watch?v=t7Xt4ObtKas)

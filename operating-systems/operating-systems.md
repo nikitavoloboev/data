@@ -42,7 +42,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Shrine](https://github.com/minexew/Shrine) - TempleOS distro for heretics.
 - [Subgraph OS](https://subgraph.com/) - Desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. ([Handbook](https://github.com/subgraph/sgos_handbook))
 - [Mezzano](https://github.com/froggey/Mezzano) - Operating system written in Common Lisp. ([HN](https://news.ycombinator.com/item?id=26051255))
-- [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
+- [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628)) ([Web](http://collapseos.org/))
 - [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
 - [CuBitOS](https://github.com/docandrew/CuBit) - General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64.
 - [Demikernel](https://github.com/demikernel/demikernel) - Library operating system architecture designed for use with kernel-bypass I/O devices.
