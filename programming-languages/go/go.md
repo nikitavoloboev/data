@@ -711,3 +711,5 @@ if err != nil {
 - [Internals of Go's new fuzzing system (2022)](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system) ([HN](https://news.ycombinator.com/item?id=30380994))
 - [Powerful Command-Line Applications in Go: Build Fast and Maintainable Tools by Ricardo Gerardi (2021)](https://pragprog.com/titles/rggo/powerful-command-line-applications-in-go/)
 - [enumcheck](https://github.com/loov/enumcheck) - Allows to mark Go enum types as exhaustive.
+- [dupl](https://github.com/mibk/dupl) - Tool written in Go for finding code clones. Can find clones only in the Go source files.
+- [Go Webinar Course](https://github.com/OtusGolang/webinars_practical_part)

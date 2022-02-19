@@ -426,3 +426,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [«Я не боюсь ни ФСБ, ни химического оружия, ни Путина», — Навальный в суде (2022)](https://www.youtube.com/watch?v=nrqWQB2bm_0) ([Transcript](https://www.instagram.com/p/CaAkGQ2MLFY/))
 - [Город председателя Наливкина (2022)](https://holod.media/2022/02/16/gorod-predsedatelya-nalivkina/)
 - [Russian movies you would recommend to a foreigner (2022)](https://www.reddit.com/r/AskARussian/comments/swe18d/what_are_some_of_the_best_russian_movies_you/)
+- [Elites have hijacked Russia and conflated the country's interests with their own (2022)](https://www.economist.com/by-invitation/2022/02/19/alexander-gabuev-writes-from-moscow-on-why-vladimir-putin-and-his-entourage-want-war)

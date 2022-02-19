@@ -114,3 +114,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Bibolamazi](https://github.com/phfaist/bibolamazi) - Prepare consistent and uniform BibTeX files for your LaTeX documents.
 - [latex-parser](https://github.com/siefkenj/latex-parser) - Generate an AST and beautify LaTeX code.
 - [blacktex](https://github.com/nschloe/blacktex) - Cleans up your LaTeX files.
+- [minted](https://github.com/gpoore/minted) - Highlighted source code for LaTeX.

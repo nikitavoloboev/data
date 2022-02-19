@@ -312,3 +312,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Programming Language and compiler Benchmarks](https://programming-language-benchmarks.vercel.app/) ([Code](https://github.com/hanabi1224/Programming-Language-Benchmarks))
 - [Benchmarks of different languages](https://github.com/kostya/benchmarks)
 - [Kcov](https://github.com/SimonKagstrom/kcov) - Code coverage tester for compiled languages, Python and Bash.
+- [CS 152: Programming Languages Course (2022)](https://groups.seas.harvard.edu/courses/cs152/2022sp/) ([Code](https://github.com/HarvardPL/cs152-lecture-code))

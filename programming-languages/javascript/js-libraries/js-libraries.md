@@ -803,6 +803,7 @@
 - [XRegExp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 - [JSON Schema Faker](https://github.com/json-schema-faker/json-schema-faker) - Use JSON Schema along with fake generators to provide consistent and meaningful fake data for your system.
 - [observable-prerender](https://github.com/asg017/observable-prerender) - Pre-render Observable notebooks for automation.
+- [Browser-FS-Access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser.
 
 ## Links
 

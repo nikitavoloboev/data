@@ -120,3 +120,4 @@
 - [Hatrack](https://github.com/viega/hatrack) - Collection of hash tables for parallel programming, including lock-free, wait-free tables.
 - [DeviceTree](https://github.com/hack-different/libapplefw) - Minimal code to deal with Apple's DeviceTree format.
 - [IRIS](https://github.com/ORNL/iris) - Unified framework across multiple programming platforms.
+- [NLopt](https://github.com/stevengj/nlopt) - Library for nonlinear local and global optimization, for functions with and without gradient information.

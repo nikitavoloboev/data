@@ -710,6 +710,7 @@
 - [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python) - Observability framework for cloud-native software.
 - [AwesomeVersion](https://github.com/ludeeus/awesomeversion) - One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them.
 - [Deepparse](https://github.com/GRAAL-Research/deepparse) - State-of-the-art library for parsing multinational street addresses using deep learning.
+- [Panther](https://github.com/gregyjames/Panther) - High performance python technical analysis library written in Rust and the Numpy C API.
 
 ## Links
 

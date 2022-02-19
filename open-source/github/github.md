@@ -346,3 +346,4 @@ Awesome List
 - [GitHub Traffic Stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
 - [Crossplane Provider for GitHub](https://github.com/crossplane-contrib/provider-github)
 - [ghdl](https://github.com/beetcb/ghdl) - Fast and simple program (and also a golang module) for downloading and installing executable binary from github releases.
+- [Repositories App](https://github.com/samdenty/repositories-app) - Mac app which allows you to access any file from github, without cloning.

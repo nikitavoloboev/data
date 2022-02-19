@@ -1337,6 +1337,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [golines](https://github.com/segmentio/golines) - Go formatter that fixes long lines.
 - [Bell](https://github.com/NUTtech/bell) - Simplest event system written in Go which is based on the execution of handlers independent of the main channel.
 - [Shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
+- [smb2](https://github.com/hirochachacha/go-smb2) - SMB2/3 client implementation.
 
 ## Links
 

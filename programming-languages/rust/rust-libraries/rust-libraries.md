@@ -37,6 +37,7 @@
 - [Update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust. Checks for a new version on Crates.io, GitHub, and PyPI.
 - [argfile](https://github.com/rust-cli/argfile) - Load additional CLI args from file.
 - [textplots](https://github.com/loony-bean/textplots-rs) - Terminal plotting library for Rust.
+- [Spinners](https://github.com/FGRibreau/spinners) - + Elegant terminal spinners for Rust.
 
 ## Web
 
@@ -1481,6 +1482,7 @@
 - [rust-alloc-no-stdlib](https://github.com/dropbox/rust-alloc-no-stdlib) - Interface to a generic allocator so a no_std rust library can allocate memory, with, or without stdlib being linked.
 - [tz-rs](https://github.com/x-hgg-x/tz-rs) - Pure Rust reimplementation of libc functions localtime, gmtime and mktime. ([Reddit](https://www.reddit.com/r/rust/comments/svvpo3/announcing_tzrs_a_reimplementation_of_libc/))
 - [authenticator-rs](https://github.com/mozilla/authenticator-rs) - Rust library for interacting with CTAP1/CTAP2 Security Keys.
+- [Oneshot](https://github.com/faern/oneshot) - Oneshot Rust channel working both in and between sync and async environments.
 
 ## Cargo Plugins
 
