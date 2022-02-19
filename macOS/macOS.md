@@ -26,6 +26,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [`ls -lha /Library/Developer/CommandLineTools/usr/bin` to see what xcode command line developer tools installs.](https://twitter.com/nikitonsky/status/1453019511502909441)
 - [Can right-click on a 2-factor authentication code to set it up with iCloud Keychain.](https://twitter.com/rafahari/status/1456013646144933893)
 - [macOS has network quality command: networkQuality](https://twitter.com/justsitandgrin/status/1460286405578563595) ([Reddit](https://www.reddit.com/r/MacOS/comments/qxa933/builtin_network_bandwidth_test_tool_on_macos/))
+- [Just because a root certificate is in the built-in iOS/macOS trust store doesn't mean that it is trusted. Apple applies additional constraints via configuration updates to maintain a high-level of security.](https://twitter.com/BasileBailey/status/1494801237694300161)
 
 ## Code
 
