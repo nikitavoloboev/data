@@ -189,3 +189,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Johnny Rodgers's listening](https://johnnyrodgers.is/listening)
 - [Platune](https://github.com/aschey/Platune) - Cross-platform music player that uses a client-server architecture over gRPC.
 - [Openwhyd](https://openwhyd.org/) - Like Pinterest, for Music. ([Code](https://github.com/openwhyd/openwhyd))
+- [Your Spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.

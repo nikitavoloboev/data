@@ -59,3 +59,4 @@
 - [Blog - Blender Studio](https://studio.blender.org/blog/)
 - [Watchtower – Blender Studio (2022)](https://studio.blender.org/blog/introducing-watchtower/) ([HN](https://news.ycombinator.com/item?id=30150047))
 - [Geometry Sketcher](https://github.com/hlorus/geometry_sketcher) - Constraint-based geometry sketcher for blender.
+- [Blender.jl](https://github.com/jagot/Blender.jl) - Julia interface to Blender-as-a-Python-module.

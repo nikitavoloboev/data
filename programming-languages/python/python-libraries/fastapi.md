@@ -12,3 +12,4 @@
 - [On FastAPI (2020)](https://iwpnd.pw/articles/2020-01/opinion-on-fastapi)
 - [SQLAlchemy Admin for Starlette/FastAPI](https://github.com/aminalaee/sqladmin)
 - [FastAPI Events](https://github.com/melvinkcx/fastapi-events) - Event dispatching/handling library for FastAPI, and Starlette.
+- [FastAPI Blog backend](https://github.com/fike/fastapi-blog) - FastAPI backend for blog with OpenTelemtry and Jaeger.

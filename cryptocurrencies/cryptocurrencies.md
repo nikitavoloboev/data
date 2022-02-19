@@ -221,7 +221,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives)
 - [BEAM](https://beam.mw/) - Confidential Cryptocurrency and DeFi Platform. ([Code](https://github.com/BeamMW/beam))
 - [Arrow Protocol](https://arrowprotocol.com/#/) - Launch staking derivatives for the protocols you're already integrating with, redirecting yield to a different address. ([Code](https://github.com/arrowprotocol/arrow))
-- [Awesome critique of crypto / web3](https://github.com/rufuspollock/awesome-crypto-critique)
+- [Awesome critique of crypto / web3](https://github.com/rufuspollock/awesome-crypto-critique) ([HN](https://news.ycombinator.com/item?id=30398131))
 - [Theoretical Advances in AMM (Automated Market Maker) Understanding](https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding) ([HN](https://news.ycombinator.com/item?id=30113170))
 - [Yanis Varoufakis on Crypto & the Left, and Techno-Feudalism (2022)](https://the-crypto-syllabus.com/yanis-varoufakis-on-techno-feudalism/)
 - [Cryptopunk](https://github.com/ayrat555/cryptopunk) - Hierarchical deterministic wallet for Elixir. ([Article](https://www.badykov.com/elixir/cryptopunk/))

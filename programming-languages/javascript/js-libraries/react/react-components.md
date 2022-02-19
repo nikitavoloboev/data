@@ -263,6 +263,7 @@
 - [React tags](https://github.com/react-tags/react-tags) - Simple tagging component for your projects.
 - [rich-textarea](https://github.com/inokawa/rich-textarea) - Small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 - [react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - React component helps bring Figma's Cursor Chat to your web applications.
+- [heart-switch](https://github.com/anatoliygatt/heart-switch) - Heart-shaped toggle switch component for React.
 
 ## Links
 

@@ -72,3 +72,4 @@
 - [The Open Group Base Specifications](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/)
 - [Writing Your Own Sudo (2022)](https://rtpg.co/2022/02/13/your-own-sudo.html)
 - [The early days of Unix at Bell Labs (2022)](https://www.youtube.com/watch?v=ECCr_KFl41E)
+- [Unix Text Processing Book](https://github.com/larrykollar/Unix-Text-Processing) ([HN](https://news.ycombinator.com/item?id=30396667))

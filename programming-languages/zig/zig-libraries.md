@@ -80,6 +80,7 @@
 - [hzzp](https://github.com/truemedian/hzzp) - I/O agnostic HTTP/1.1 parser and encoder for Zig.
 - [zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
 - [inon](https://github.com/iddev5/inon) - Data serialization format in Zig.
+- [nats.zig](https://github.com/nats-io/nats.zig) - Zig Client for NATS.
 
 ## Links
 

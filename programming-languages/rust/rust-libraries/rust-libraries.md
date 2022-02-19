@@ -336,6 +336,7 @@
 - [miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
 - [color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate.
 - [woah](https://github.com/alilleybrinker/woah) - Result type that differentiates between local errors (which can be handled) and fatal errors (which can't).
+- [Core Error](https://github.com/core-error/core-error) - Traits for working with Error in std-less environments.
 
 ## IO
 
@@ -1476,6 +1477,7 @@
 - [trackable](https://github.com/sile/trackable) - Provides a way to track objects manually as an alternative to mechanisms like backtracing.
 - [rust-alloc-no-stdlib](https://github.com/dropbox/rust-alloc-no-stdlib) - Interface to a generic allocator so a no_std rust library can allocate memory, with, or without stdlib being linked.
 - [tz-rs](https://github.com/x-hgg-x/tz-rs) - Pure Rust reimplementation of libc functions localtime, gmtime and mktime. ([Reddit](https://www.reddit.com/r/rust/comments/svvpo3/announcing_tzrs_a_reimplementation_of_libc/))
+- [authenticator-rs](https://github.com/mozilla/authenticator-rs) - Rust library for interacting with CTAP1/CTAP2 Security Keys.
 
 ## Cargo Plugins
 

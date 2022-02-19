@@ -28,3 +28,4 @@
 - [MiniMQ](https://github.com/quartiq/minimq) - Minimal no_std MQTT v5.0 client implementation.
 - [mqtt-panel](https://github.com/fabaff/mqtt-panel) - Web interface for MQTT.
 - [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT 5.0 Client Library for iOS and macOS written in Swift.
+- [Eclipse Paho MQTT Python Client](https://github.com/eclipse/paho.mqtt.python)

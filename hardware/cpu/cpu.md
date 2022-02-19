@@ -134,3 +134,5 @@
 - [Power, frequency, management: how M1 E cores win (2022)](https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/) ([HN](https://news.ycombinator.com/item?id=29778990))
 - [CPU-X](https://github.com/X0rg/CPU-X) - Free software that gathers information on CPU, motherboard and more.
 - [Alex Blewitt - Understanding CPU microarchitecture (2022)](https://www.youtube.com/watch?v=Pa_l3aHCoGc)
+- [System V Application Binary Interface (2020](https://ccs.neu.edu/home/ntuck/courses/2021/01/cs3650/asm/x86-64-sysv-abi.pdf) ([HN](https://news.ycombinator.com/item?id=30380168))
+- [Thoughts on Intel software-defined silicon (2022)](https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/) ([HN](https://news.ycombinator.com/item?id=30394918))

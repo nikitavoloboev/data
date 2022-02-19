@@ -39,3 +39,4 @@
 - [Fourier](https://github.com/brettbuddin/fourier) - Fast Fourier Transform and Partitioned Convolution Library.
 - [ProtoNTT](https://github.com/Mysticial/ProtoNTT) - Implementation of the Small Primes Number-Theoretic Transform (NTT) algorithm for multiplication of large integers.
 - [Understanding Fast Fourier Transforms](https://vanhunteradams.com/FFT/FFT.html) ([HN](https://news.ycombinator.com/item?id=30391306))
+- [Discrete Fourier Transform (DFT/FFT) implementations](https://github.com/Inokinoki/ParallelFFT) - Implementations of DFT/FFT in CUDA and Apple Metal.

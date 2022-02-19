@@ -46,3 +46,4 @@
 - [Get started with GPU Compute on the web](https://web.dev/gpu-compute/)
 - [Demo (~100 LOC) shows the WebGPU compute pipeline](https://github.com/bbbbx/webgpu-compute)
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - WebGPU Shading Language parser and reflection library for JavaScript.
+- [WebGPU.rocks](https://webgpu.rocks/) - WebGPU quick reference and documentation. ([Code](https://github.com/framefactory/webgpu.rocks))

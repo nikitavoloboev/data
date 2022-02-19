@@ -319,3 +319,4 @@
 - [Exploration in Approximate Hyper-State Space for Meta Reinforcement Learning (2021)](https://arxiv.org/abs/2010.01062) ([Code](https://github.com/lmzintgraf/hyperx))
 - [Representation Learning for Reinforcement Learning](https://github.com/fuyw/RepL4RL)
 - [Deep Reinforcement Learning in The Real World](https://github.com/montrealrobotics/DeepRLInTheWorld)
+- [Solving NP-Hard Problems on Graphs with Extended AlphaGo Zero (2019)](https://arxiv.org/abs/1905.11623) ([Code](https://github.com/xuzijian629/combopt-zero))

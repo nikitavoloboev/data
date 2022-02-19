@@ -197,6 +197,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
 - [Szymon Kaliski's Notes](https://szymonkaliski.com/notes)
 - [Vegard Stikbakke's TILs](https://til.vegardstikbakke.com/) ([Code](https://github.com/vegarsti/til))
+- [Dev Notes](https://github.com/mebusy/notes)
 - [Rahul Rajeev](https://garden.rahulrajeev.net/)
 - [Rickard Dag's Log](https://devlog.willcodefor.beer/) ([Code](https://github.com/believer/devlog))
 - [Owen's Digigarden](https://publish.obsidian.md/geobo/Welcome+to+my+digital+garden+%F0%9F%8C%B1)

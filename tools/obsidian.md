@@ -80,6 +80,7 @@
 - [Dynamic Highlights](https://github.com/nothingislost/obsidian-dynamic-highlights) - Obsidian plugin that dynamically highlights text based on selection or search query.
 - [Sidekick](https://github.com/hadynz/obsidian-sidekick) - Plugin that auto-suggests new connections to make by underlining text that matches existing tags or links in your vault.
 - [Obsidian Full Calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian.
+- [Remotely Save](https://github.com/fyears/remotely-save) - Unofficial sync plugin for Obsidian.
 
 ## Themes
 

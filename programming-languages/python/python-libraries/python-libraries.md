@@ -116,6 +116,7 @@
 - [survey](https://github.com/Exahilosys/survey) - Simple library for creating beautiful interactive prompts.
 - [Piou](https://github.com/Andarius/piou) - CLI tool to build beautiful command-line interfaces with type validation.
 - [progress](https://github.com/verigak/progress) - Easy progress reporting for Python.
+- [minydra](https://github.com/vict0rsch/minydra) - Minimal Python command-line parser inspired by Facebook's Hydra + dot-accessible nested dictionaries.
 
 ## DB
 
@@ -186,6 +187,10 @@
 - [GoodPoints](https://github.com/microsoft/goodpoints) - Python package for generating concise, high-quality summaries of a probability distribution.
 - [PyCircStat](https://github.com/circstat/pycircstat) - Toolbox for circular statistics with Python.
 - [miceforest](https://github.com/AnotherSamWilson/miceforest) - Multiple Imputation with Random Forests in Python.
+
+## Linux
+
+- [packet](https://github.com/mdlayher/packet) - Provides access to Linux packet sockets (AF_PACKET).
 
 ## Test
 
@@ -704,6 +709,7 @@
 - [humanize](https://github.com/jmoiron/humanize) - Python humanize functions.
 - [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python) - Observability framework for cloud-native software.
 - [AwesomeVersion](https://github.com/ludeeus/awesomeversion) - One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them.
+- [Deepparse](https://github.com/GRAAL-Research/deepparse) - State-of-the-art library for parsing multinational street addresses using deep learning.
 
 ## Links
 

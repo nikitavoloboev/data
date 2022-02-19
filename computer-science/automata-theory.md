@@ -63,3 +63,4 @@
 - [Cellular Automata (2017)](https://plato.stanford.edu/entries/cellular-automata/) ([HN](https://news.ycombinator.com/item?id=29779403))
 - [A Lisp Interpreter Implemented in Conway’s Game of Life (2022)](https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html)
 - [29-year-old Conway conjecture settled (2022)](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/) ([HN](https://news.ycombinator.com/item?id=29955780))
+- [Conway's Game of Life implementations for Native/Emscripten](https://github.com/gifnksm/game-of-life-rs)

@@ -35,6 +35,7 @@
 - [Remix Auth - Strategy Template](https://github.com/sergiodxa/remix-auth-strategy-template) - Template for creating a new Remix Auth strategy.
 - [Email Link Strategy - Remix Auth](https://github.com/pbteja1998/remix-auth-email-link)
 - [Remix Auth Socials](https://github.com/TheRealFlyingCoder/remix-auth-socials) - Collection of Remix Auth strategies for Oauth2 Social logins.
+- [remix-i18next](https://github.com/sergiodxa/remix-i18next) - Easiest way to translate your Remix apps.
 
 ## Notes
 

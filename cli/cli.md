@@ -92,3 +92,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Scaffolder](https://github.com/galElmalah/scaffolder) - Increasing dev velocity and standardizing file conventions.
 - [crispr](https://github.com/yoav-lavi/crispr) - CLI tool allowing to scaffold a project from a template with a .crispr.{toml,json} configuration file.
 - [envy](https://github.com/mre/envy) - Sets environment variables when you enter a directory.
+- [timer](https://github.com/caarlos0/timer) - sleep with progress.

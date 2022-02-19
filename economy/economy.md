@@ -133,3 +133,5 @@
 - [U.S. is considering a radical rethinking of the dollar for today's digital world (2022)](https://www.npr.org/2022/02/06/1072406109/digital-dollar-federal-reserve-apple-pay-venmo-cbdc) ([HN](https://news.ycombinator.com/item?id=30239803))
 - [Macrotrends](http://www.macrotrends.net/) - Premier Research Platform for Long Term Investors.
 - [economy](https://github.com/williammoran/economy) - Economy simulator library in Go.
+- [We shouldn’t push a positive mindset on those in poverty (2022)](https://psyche.co/ideas/why-we-shouldnt-push-a-positive-mindset-on-those-in-poverty) ([HN](https://news.ycombinator.com/item?id=30395256))
+- [Supply Studies Syllabus](https://supplystudies.com/syllabus/)

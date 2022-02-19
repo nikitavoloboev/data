@@ -45,6 +45,7 @@
 
 ## Project Euler solutions
 
+- [Rust](https://github.com/gifnksm/ProjectEulerRust)
 - [Polyglot Euler](https://github.com/FrankKair/polyglot-euler) - Solutions in different programming languages.
 - [Python](https://github.com/datamine/project-euler)
 - [Python](https://github.com/davidnsun/project-euler-py)

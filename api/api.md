@@ -39,6 +39,7 @@
 - [Twitter Python 3](https://github.com/geduldig/TwitterAPI)
 - [Twitter Python 4](https://github.com/ChrisVojnich/twerk_df)
 - [Twitter Rust](https://github.com/egg-mode-rs/egg-mode)
+- [Twitter Rust 2](https://github.com/gifnksm/twitter-api-rs)
 - [Twitter R](https://github.com/ropensci/rtweet)
 - [Twitter Node](https://github.com/PLhery/node-twitter-api-v2) - Strongly typed, full-featured, light, versatile yet powerful Twitter API v1.1 and v2 client for Node.js.
 - [Twitter Node 2](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
@@ -144,6 +145,7 @@
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
 - [GitLab Go 2](https://github.com/profclems/glab)
 - [N26 Go](https://github.com/nhatthm/n26api)
+- [Grammarly](https://github.com/grammarly/grammarly-for-developers)
 - [Google Maps Services Go](https://github.com/googlemaps/google-maps-services-go)
 - [GCP Haskell](https://github.com/brendanhay/gogol) - Comprehensive Google Services SDK for Haskell.
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))

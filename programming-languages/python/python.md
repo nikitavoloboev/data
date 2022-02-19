@@ -431,3 +431,4 @@ for i, _ in enumerate(nums):
 - [Interactive Loop Optimization](https://jott.live/markdown/interactive_optimization) ([Lobsters](https://lobste.rs/s/wbqbpn/interactive_loop_optimization))
 - [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)
 - [pylint-errors](https://github.com/vald-phoenix/pylint-errors) - Curated list of pylint errors with explanation and examples.
+- [How to write better scientific code in Python? (2022)](https://zerowithdot.com/improve-data-science-code/) ([HN](https://news.ycombinator.com/item?id=30397485))

@@ -520,3 +520,4 @@
 - [five different paths to methods](https://technomancy.us/197)
 - [Single binary executable packages (2022)](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/) ([Lobsters](https://lobste.rs/s/adr60v/single_binary_executable_packages))
 - [CUPID—for joyful coding (2022)](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
+- [How I think when I think about programming](https://www.alicemaz.com/writing/program.html)

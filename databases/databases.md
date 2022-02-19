@@ -543,3 +543,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Database System Concepts Book](https://www.db-book.com/)
 - [How can we do migrations better?](https://twitter.com/GergelyOrosz/status/1494600170520158214)
 - [How Query Engines Work by Andy Grove (2022)](https://leanpub.com/how-query-engines-work) - Introduction to the high-level concepts behind query engines and walks through all aspects of building a fully working SQL query engine in Kotlin. ([Code](https://github.com/andygrove/how-query-engines-work)) ([In Go](https://github.com/Fedomn/how-query-engine-work))
+- [Database as Code Manifesto](https://github.com/mgramin/database-as-code)

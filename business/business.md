@@ -138,3 +138,4 @@ Learning to build [startups](startups/startups.md).
 - [Don't forget Microsoft (2022)](https://luttig.substack.com/p/dont-forget-microsoft) ([HN](https://news.ycombinator.com/item?id=30141192))
 - [Ask HN: What made your business take off that you wish you'd done much earlier? (2022)](https://news.ycombinator.com/item?id=30329762)
 - [Why do corporations repurchase shares? What benefit does this have? (2022)](https://www.reddit.com/r/AskEconomics/comments/suxqj0/why_do_corporations_repurchase_shares_what/)
+- [10 Lessons Learned after $5B of M&A (2022)](https://tomtunguz.com/what-ive-learned-ma/)

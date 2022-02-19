@@ -1336,6 +1336,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [parquet-go](https://github.com/segmentio/parquet-go) - High-performance Go library to manipulate parquet files.
 - [golines](https://github.com/segmentio/golines) - Go formatter that fixes long lines.
 - [Bell](https://github.com/NUTtech/bell) - Simplest event system written in Go which is based on the execution of handlers independent of the main channel.
+- [Shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 
 ## Links
 

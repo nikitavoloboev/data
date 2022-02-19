@@ -186,3 +186,4 @@
 - [Static Files on Deno Deploy (2022)](https://deno.com/blog/deploy-static-files)
 - [ReScript on Deno: Command Line Tools and the Flags module (2022)](https://practicalrescript.com/rescript-on-deno-command-line-tools/)
 - [An Introduction to Deno: Is It Better Than Node.js? (2022)](https://blog.appsignal.com/2022/02/09/an-introduction-to-deno-is-it-better-than-nodejs.html) ([HN](https://news.ycombinator.com/item?id=30307409))
+- [mod.land](https://github.com/denosaurs/mod.land) - Pretty subdomains for you deno project.

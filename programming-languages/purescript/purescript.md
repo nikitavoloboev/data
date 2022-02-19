@@ -35,7 +35,7 @@
 - [Flame](https://github.com/easafe/purescript-flame) - PureScript front-end framework inspired by the Elm architecture. ([HN](https://news.ycombinator.com/item?id=27364833))
 - [purs-nix](https://github.com/ursi/purs-nix) - Manage your PureScript projects with Nix.
 - [PureScript Docs](https://github.com/purescript/documentation)
-- [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix.
+- [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix. ([Reddit](https://www.reddit.com/r/NixOS/comments/sw3zpp/purenix_write_purescript_and_transpile_it_to_nix/))
 - [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.
 - [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.
 - [dovetail](https://hackage.haskell.org/package/dovetail) - PureScript interpreter with a Haskell FFI.

@@ -139,6 +139,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Wordle Clone](https://github.com/hannahcode/wordle) - Clone of the popular game Wordle made using React, Typescript, and Tailwind.
 - [Rustenstein 3D](https://github.com/AdRoll/rustenstein) - Wolfenstein 3D port written in rust. ([Rustenstein 3D: Game programming like it's 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)) ([HN](https://news.ycombinator.com/item?id=30182565))
 - [Swords and Ravens](https://github.com/Longwelwind/swords-and-ravens) - Reimplementation of the board game "A Game of Thrones: The Board Game 2nd Edition".
+- [pacman.c](https://github.com/floooh/pacman.c) - Simple Pacman clone written in C99.
 
 ## Awesome games (other)
 

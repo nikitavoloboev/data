@@ -26,7 +26,7 @@
 - [Multiverse](https://github.com/multiverse-vcs/go-multiverse) - Decentralized version control system for peer-to-peer software development. ([Web](https://www.multiverse-vcs.com/))
 - [SnowFS](https://www.snowtrack.io/) - Fast, scalable version control file storage for graphic files. ([Code](https://github.com/Snowtrack/SnowFS)) ([HN](https://news.ycombinator.com/item?id=26211540)) ([GitHub](https://github.com/Snowtrack))
 - [PubGrub version solving algorithm implemented in Rust](https://github.com/pubgrub-rs/pubgrub)
-- [Jujutsu](https://github.com/martinvonz/jj) - Experimental version-control system (VCS).
+- [Jujutsu](https://github.com/martinvonz/jj) - Git-compatible DVCS that is both simple and powerful. ([HN](https://news.ycombinator.com/item?id=30398662))
 - [Sturdy](https://getsturdy.com/) - Online-first version control focused on collaboration. ([HN](https://news.ycombinator.com/item?id=28221109))
 - [Version Control for Structure Editing (2021)](https://alarmingdevelopment.org/?p=1570)
 - [BlackBox](https://github.com/StackExchange/blackbox) - Store secrets in a VCS repo.

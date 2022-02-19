@@ -129,3 +129,4 @@
 - [Flowrift](https://flowrift.com/) - Beautifully designed Tailwind CSS UI blocks - view / copy / customize. ([Code](https://github.com/n6ai/flowrift))
 - [Tailwind CSS the Right Way](https://twitter.com/adamwathan/status/1492529040275693571)
 - [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - Tailwind CSS plugin for creating beautiful animations.
+- [TailwindCSS Prettier Plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)

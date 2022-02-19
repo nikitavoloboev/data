@@ -160,3 +160,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Plaid](https://plaid.com/en-eu/) - Enabling all companies to build fintech solutions. ([GitHub](https://github.com/plaid)) ([Docs](https://plaid.com/docs/))
 - [Actual](https://actualbudget.com/) - Super fast privacy-focused app for managing your finances. ([GitHub](https://github.com/actualbudget))
 - [Finality does not exist in payments (2022)](https://bam.kalzumeus.com/archive/no-payments-are-final/) ([HN](https://news.ycombinator.com/item?id=30350547))
+- [Financial advice after a decade in tech (2022)](https://www.reddit.com/r/cscareerquestions/comments/swdgiq/financial_advice_after_a_decade_in_tech/)
