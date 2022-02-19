@@ -707,3 +707,4 @@
 - [More Enum Types (2022)](https://blog.yoshuawuyts.com/more-enum-types/)
 - [Ultimate Rust Crash Course](https://agileperception.com/ultimate_rust_crash_course) ([Code](https://github.com/CleanCut/ultimate_rust_crash_course))
 - [What Is Rust's Hole Purpose? (2022)](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/) ([HN](https://news.ycombinator.com/item?id=30386337))
+- [How to Learn Rust with Tim McNamara (2022)](https://www.youtube.com/watch?v=FoNJ5zhL6bQ)
