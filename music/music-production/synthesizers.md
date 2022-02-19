@@ -1,5 +1,9 @@
 # [Synthesizers](https://en.wikipedia.org/wiki/Synthesizer)
 
+## Interesting
+
+- [Behringer RD-9 Rhythm Designer](https://www.behringer.com/product.html)
+
 ## Links
 
 - [Modular Mayhem - From Zero To Techno](https://www.youtube.com/watch?v=nGaVBCnkKng)

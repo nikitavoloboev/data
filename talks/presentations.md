@@ -1,6 +1,10 @@
 # Presentations
 
-[Slidev](https://sli.dev/) is great.
+[Pitch](https://pitch.com/) & [Slidev](https://sli.dev/) are great.
+
+## Nice templates
+
+- [Board Report template](https://pitch.com/templates/Board-Report-0QiA5y4qZK7K5hSqVS6uRLhv)
 
 ## Notes
 

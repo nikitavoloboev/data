@@ -26,13 +26,19 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 ## Alfred theme
 
-I use [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) with macOS light appearance (during day).
+I most often use [Mono Dim theme](https://www.alfredapp.com/extras/theme/jzs9j2Kqmu/) when in macOS dark appearance.
+
+![](https://i.imgur.com/0EIwRT7.png)
+
+I use [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) with macOS light appearance (when light is hitting the screen).
 
 ![](https://i.imgur.com/d5is1ao.png)
 
-I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) with macOS dark appearance (evenings & no light areas).
+I also made [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) but stopped using it.
 
 ![](https://i.imgur.com/Y4oKBoT.png)
+
+The themes work best with GitHub [VSCode](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) & [iTerm](https://github.com/cdalvaro/github-vscode-theme-iterm) dim themes.
 
 ## Snippets
 

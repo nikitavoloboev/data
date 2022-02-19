@@ -148,3 +148,4 @@
 - [Introduction to Probability for Data Science](https://probability4datascience.com/) ([HN](https://news.ycombinator.com/item?id=30060759))
 - [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/)
 - [The Kelly criterion: How to size bets](https://explore.paulbutler.org/bet/)
+- [What is antifragility?](https://twitter.com/carefullycnsdrd/status/1494774246660263949)

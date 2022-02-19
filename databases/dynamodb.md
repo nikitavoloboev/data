@@ -79,3 +79,4 @@
 - [TypeDORM](https://github.com/typedorm/typedorm) - Strongly typed ORM for DynamoDB - Built with the single-table-design pattern in mind.
 - [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API.
 - [serde_dynamodb](https://github.com/mockersf/serde_dynamodb) - Talk with dynamodb using your existing structs thanks to serde.
+- [Happy 10th Birthday, DynamoDB (2022)](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/)

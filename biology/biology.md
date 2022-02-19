@@ -3,6 +3,7 @@
 ## Notes
 
 - The body is always trying to maintain homeostasis by either allowing or removing certain particles/molecules/chemicals/compounds/..
+- [We must form the habit ... of viewing the shape of a given cell, tissue, or organ not as a static feature but as a phase, transitory or terminal, in a continuous chain of transformations; as a cross section through a stream of processes proceeding in time.](https://twitter.com/drmichaellevin/status/1267563603894218754)
 
 ## Links
 

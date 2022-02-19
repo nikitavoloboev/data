@@ -1,6 +1,6 @@
 # Ukraine
 
-It's unfortunate [what Ukraine has to deal through](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/) due to [Russian](russia.md) 'leaders' decisions. Instead of wasting lives and finances on waging war on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
+It's unfortunate [what Ukraine has to deal through](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/) due to [Russian](russia.md) 'leaders' decisions. Instead of [wasting lives and finances](https://www.reddit.com/r/worldnews/comments/svv2oj/biden_says_hes_now_convinced_putin_has_decided_to/hxifwk0/?context=3) on [waging war](https://twitter.com/ChrisMurphyCT/status/1494428782823890944) on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
