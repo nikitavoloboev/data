@@ -1,6 +1,6 @@
 # Investing
 
-I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/nikita206). I also hold & stake [Solana](../databases/blockchain/solana.md).
+I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/). I also hold & stake [Solana](../databases/blockchain/solana.md).
 
 ## Interesting ETFs
 
