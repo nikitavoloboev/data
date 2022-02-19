@@ -28,3 +28,4 @@
 - [OpenGL Seed](https://github.com/alaingalvan/opengl-seed) - Modern OpenGL starter repo that you could use to get the ball rolling.
 - [glbinding](https://github.com/cginternals/glbinding) - Cross-platform C++ binding for the OpenGL API.
 - [Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine.
+- [OOGL](https://github.com/Overv/OOGL) - Object-oriented C++ wrapper for OpenGL.

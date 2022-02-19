@@ -1474,6 +1474,8 @@
 - [ghost-collections](https://github.com/matthieu-m/ghost-collections) - Safe collections written in stable Rust, based on GhostCell and StaticRc.
 - [crc64fast](https://github.com/tikv/crc64fast) - SIMD accelerated CRC-64-ECMA computation.
 - [trackable](https://github.com/sile/trackable) - Provides a way to track objects manually as an alternative to mechanisms like backtracing.
+- [rust-alloc-no-stdlib](https://github.com/dropbox/rust-alloc-no-stdlib) - Interface to a generic allocator so a no_std rust library can allocate memory, with, or without stdlib being linked.
+- [tz-rs](https://github.com/x-hgg-x/tz-rs) - Pure Rust reimplementation of libc functions localtime, gmtime and mktime.
 
 ## Cargo Plugins
 

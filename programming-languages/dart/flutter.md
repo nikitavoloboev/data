@@ -81,3 +81,4 @@
 - [From Native to React Native to Flutter (2022)](https://zerodha.tech/blog/from-native-to-react-native-to-flutter/)
 - [Flutter zoom widget](https://github.com/semakers/zoom-widget) - With this widget you can create a customizable canvas in which you can zoom in flutter.
 - [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
+- [Flutter Secure Storage](https://github.com/mogol/flutter_secure_storage) - Flutter plugin to store data in secure storage.

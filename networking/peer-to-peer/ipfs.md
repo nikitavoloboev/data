@@ -84,3 +84,4 @@ I especially like the distinction of distributing content over distributing link
 - [go-libp2p-quic-transport](https://github.com/libp2p/go-libp2p-quic-transport) - Uses quic-go to provide QUIC support for libp2p.
 - [sql.js-ipfs](https://github.com/hcliff/sqlite-ipfs) - SQLite hosted on IPFS.
 - [IPFS crawler](https://github.com/jimmyaxod/ipfscrawl)
+- [Explore the Merkle Forest](https://explore.ipld.io/) - Explore the Merkle Forest from the comfort of your browser. ([Code](https://github.com/ipld/explore.ipld.io))

@@ -127,3 +127,4 @@
 - [edgerender](https://github.com/samuelcolvin/edgerender) - Render at the edge.
 - [Workers WASI](https://github.com/cloudflare/workers-wasi) - Implementation of the WebAssembly System Interface designed to run on Cloudflare Workers.
 - [worker-kv](https://github.com/zebp/worker-kv) - Rust bindings to Cloudflare Worker KV Stores.
+- [Cloudflare + Google = supercharged web surfing](https://github.com/alii/search)

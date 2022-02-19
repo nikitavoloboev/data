@@ -45,3 +45,4 @@
 - [Cheat sheets for the Portable Document Format](https://github.com/gendx/pdf-cheat-sheets)
 - [Understanding UUIDs, ULIDs and String Representations](https://sudhir.io/uuids-ulids) ([Lobsters](https://lobste.rs/s/ucvsxl/understanding_uuids_ulids_string)) ([HN](https://news.ycombinator.com/item?id=29794186))
 - [How UTF-8 works (2022)](https://sethmlarson.dev/blog/utf-8) ([HN](https://news.ycombinator.com/item?id=30259097)) ([Lobsters](https://lobste.rs/s/5qtiye/how_utf_8_works))
+- [What Every Programmer Absolutely, Positively Needs To Know About Encodings (2011)](https://kunststube.net/encoding/) ([HN](https://news.ycombinator.com/item?id=30384223))

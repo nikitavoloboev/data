@@ -82,3 +82,4 @@
 - [fullstack-grpc](https://github.com/SabariVig/fullstack-grpc) - gRPC with REST gateway and interceptors and example web app with envoy proxy.
 - [gRPC-swagger](https://github.com/grpc-swagger/grpc-swagger) - Debugging gRPC application with swagger-ui.
 - [GRPC for production](https://github.com/apssouza22/grpc-production-go) - Abstracts away the details of the GRPC server and client configuration.
+- [grpc-proto](https://github.com/grpc/grpc-proto) - GRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.

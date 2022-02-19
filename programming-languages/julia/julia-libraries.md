@@ -211,6 +211,8 @@
 - [Query](https://github.com/queryverse/Query.jl) - Query almost anything in julia.
 - [DuckDB.jl](https://github.com/JuliaBinaryWrappers/DuckDB_jll.jl)
 - [DBInterface.jl](https://github.com/JuliaDatabases/DBInterface.jl) - Database interface definitions for Julia.
+- [SQLREPL.jl](https://github.com/c42f/SQLREPL.jl) - Julia REPL mode for SQL.
+- [LibPQ](https://github.com/invenia/LibPQ.jl) - Julia wrapper for libpq.
 
 ## Error
 
@@ -474,6 +476,7 @@
 - [PlotlyJS](https://github.com/JuliaPlots/PlotlyJS.jl) - Julia library for plotting with plotly.js.
 - [SparseArrays](https://github.com/JuliaSparse/SparseArrays.jl) - Functionality for working with sparse arrays in Julia.
 - [RedefStructs.jl](https://github.com/FedericoStra/RedefStructs.jl) - Redefinable structures.
+- [TopOpt](https://github.com/JuliaTopOpt/TopOpt.jl) - Beautifully Julian topology optimization package.
 
 ## Links
 

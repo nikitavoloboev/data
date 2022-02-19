@@ -87,6 +87,7 @@
 - [mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments.
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 - [sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator.
+- [yargs-parser](https://github.com/yargs/yargs-parser) - Mighty option parser used by yargs.
 
 ## ML
 

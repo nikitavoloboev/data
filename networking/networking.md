@@ -412,3 +412,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [What are your favorite small internet protocols? (2022)](https://lobste.rs/s/uuzx6g/what_are_your_favourite_small_internet)
 - [tubular](https://github.com/cloudflare/tubular) - BSD socket API on steroids.
 - [NetBox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation.
+- [Rosen](https://github.com/awnumar/rosen) - Modular proxy tunnel that encapsulates traffic within a cover protocol to circumvent censorship.

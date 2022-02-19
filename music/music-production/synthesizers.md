@@ -59,3 +59,4 @@
 - [Xephys](https://github.com/suhr/xephys) - Microtonal digital waveguide synthesier.
 - [Vital](https://github.com/mtytel/vital) - Spectral warping wavetable synthesizer.
 - [Pilot](https://github.com/hundredrabbits/Pilot) - UDP synthesizer designed to be controlled externally. Created as a companion application to the livecoding environment ORCA.
+- [Ensembles](https://github.com/SubhadeepJasu/Ensembles) - Digital arranger workstation powered by FluidSynth.

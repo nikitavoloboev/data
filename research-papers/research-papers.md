@@ -113,7 +113,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [How to circumvent Sci-Hub ISP block (2021)](https://fragile-credences.github.io/scihub-proxy/) ([HN](https://news.ycombinator.com/item?id=27451844))
 - [bibliothecula](https://epilys.github.io/bibliothecula/) - Organise documents with tags and other metadata with the option of storing multiple files per document. ([Code](https://github.com/epilys/bibliothecula))
 - [Papers every developer should read at least twice (2009)](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice) ([HN](https://news.ycombinator.com/item?id=27892076))
-- [Sioyek](https://sioyek.info/) - PDF viewer for reading research papers and technical documents. ([HN](https://news.ycombinator.com/item?id=27893303)) ([Code](https://github.com/ahrm/sioyek))
+- [Sioyek](https://sioyek.info/) - PDF viewer for reading research papers and technical documents. ([HN](https://news.ycombinator.com/item?id=27893303)) ([Code](https://github.com/ahrm/sioyek)) ([HN](https://news.ycombinator.com/item?id=30395649))
 - [Academic papers related to fuzzing, binary analysis, and exploit dev](https://github.com/0xricksanchez/paper_collection)
 - [How to write an acm-styled conference paper using markdown/pandoc (2016)](https://ineed.coffee/post/how-to-write-an-acm-styled-conference-paper-using-markdownpandoc) ([Code](https://github.com/dgraziotin/acm_sig_paper_markdown_pandoc))
 - [GROBID](https://github.com/kermitt2/grobid) - Machine learning software for extracting information from scholarly documents. ([Docs](https://grobid.readthedocs.io/en/latest/))

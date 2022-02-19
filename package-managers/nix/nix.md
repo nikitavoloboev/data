@@ -292,3 +292,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [npins](https://github.com/andir/npins) - Simple and convenient pinning of dependencies in Nix.
 - [nix-docker-base](https://github.com/teamniteo/nix-docker-base) - Nix Docker base images for fast and minimal builds.
 - [Nix: An Idea Whose Time Has Come (2022)](https://revelry.co/insights/development/nix-time/) ([Lobsters](https://lobste.rs/s/ui7wc4/nix_idea_whose_time_has_come)) ([HN](https://news.ycombinator.com/item?id=30384121))
+- [Alejandra](https://github.com/kamadorueda/alejandra) - Uncompromising Nix Code Formatter.
+- [Makes](https://github.com/fluidattacks/makes) - DevSecOps framework powered by Nix.

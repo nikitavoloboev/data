@@ -484,3 +484,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Tender](https://github.com/therne/tender) - Layer 2 for IPFS / API Renderer for Web3 / Serverless for Ethereum.
 - [ENS explained visually](https://twitter.com/avsa/status/1493634935038656519)
 - [Foundry Rust Monorepo Template](https://github.com/gakonst/foundry-rust-template)
+- [Lens Protocol](https://github.com/aave/lens-protocol) - Decentralized, non-custodial social graph. Lens implements unique, on-chain social interaction mechanisms.
+- [dpack](https://github.com/dapphub/dpack) - File with a collection of EVM addresses and artifacts (ABIs).

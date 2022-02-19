@@ -61,6 +61,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Vim code inspection plugin for finding definitions and references/usages.
 - [FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in lua.
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - Completion plugin for neovim coded in Lua.
+- [ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8.
 - [nvim-comment](https://github.com/terrortylor/nvim-comment) - Comment toggler for Neovim, written in Lua.
 - [barbar.nvim](https://github.com/romgrk/barbar.nvim) - Tabs, as understood by any other editor.
 - [nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - Neovim plugin to make the LSP client use FZF.

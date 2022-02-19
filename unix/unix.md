@@ -71,3 +71,4 @@
 - [Why V7 Unix matters so much (2021)](https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch) ([HN](https://news.ycombinator.com/item?id=29308246))
 - [The Open Group Base Specifications](https://pubs.opengroup.org/onlinepubs/9699919799.2018edition/)
 - [Writing Your Own Sudo (2022)](https://rtpg.co/2022/02/13/your-own-sudo.html)
+- [The early days of Unix at Bell Labs (2022)](https://www.youtube.com/watch?v=ECCr_KFl41E)

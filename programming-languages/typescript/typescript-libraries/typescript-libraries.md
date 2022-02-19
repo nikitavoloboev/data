@@ -334,6 +334,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ZenJSON](https://github.com/etienne-dldc/zenjson) - Parse and serialize special types into JSON-compatible data.
 - [literal-parser](https://github.com/etienne-dldc/literal-parser) - Small library to parse JavaScript array/object literal.
 - [Simultan](https://github.com/terkelg/simultan) - Simultaneously run an async function on any iterable with limited concurrency.
+- [mrmime](https://github.com/lukeed/mrmime) - Tiny (2.8kB) and fast utility for getting a MIME type from an extension or filename.
 
 ## Links
 

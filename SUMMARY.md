@@ -264,6 +264,7 @@
     - [Common Lisp](programming-languages/lisp/common-lisp.md)
     - [Scheme](programming-languages/lisp/scheme.md)
     - [Racket](programming-languages/lisp/racket.md)
+    - [Janet](programming-languages/lisp/janet.md)
   - [C](programming-languages/c/c.md)
     - [C libraries](programming-languages/c/c-libraries.md)
   - [C++](programming-languages/cpp/cpp.md)

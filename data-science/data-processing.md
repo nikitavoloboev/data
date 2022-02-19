@@ -78,4 +78,4 @@
 - [Bytewax](https://github.com/bytewax/bytewax) - Open source Python framework for building highly scalable dataflows.
 - [Atomic Data](https://docs.atomicdata.dev/) - Modular specification for sharing, modifying and modeling graph data. ([Code](https://github.com/ontola/atomic-data-docs)) ([Rust Code](https://github.com/joepio/atomic-data-rust))
 - [Apache Arrow Flight SQL: Accelerating Database Access (2022)](https://arrow.apache.org/blog/2022/02/16/introducing-arrow-flight-sql/) ([HN](https://news.ycombinator.com/item?id=30360726))
-- [Grist](https://github.com/gristlabs/grist-core) - Modern relational spreadsheet.
+- [Grist](https://github.com/gristlabs/grist-core) - Modern relational spreadsheet. Open core alternative to Airtable and Google Sheets. ([HN](https://news.ycombinator.com/item?id=30392227))

@@ -91,3 +91,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion API + shortcuts app = automation](https://www.reddit.com/r/Notion/comments/sopej7/notion_api_shortcuts_app_automation/)
 - [Martian](https://github.com/instantish/martian) - Markdown to Notion Parser.
 - [Notion to Markdown](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting).
+- [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup) ([HN](https://news.ycombinator.com/item?id=30392849))

@@ -629,3 +629,4 @@
 - [kbrew](https://github.com/kbrew-dev/kbrew) - CLI tool for Kubernetes which makes installing any complex stack easy in one step.
 - [Zarf](https://github.com/defenseunicorns/zarf) - Kubernetes Air Gap Buddy.
 - [Kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing.
+- [Kubernetes based network emulation](https://github.com/google/kne)

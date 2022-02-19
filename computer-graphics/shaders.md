@@ -66,3 +66,4 @@
 - [marching.js](https://github.com/charlieroberts/marching) - JavaScript library that compiles GLSL ray marchers.
 - ["Super Imposter" shader: my journey to make a high quality imposter shader](https://www.landontownsend.com/single-post/super-imposter-shader-my-journey-to-make-a-high-quality-imposter-shader)
 - [A Review of Shader Languages (2022)](https://alain.xyz/blog/a-review-of-shader-languages) ([HN](https://news.ycombinator.com/item?id=30340625))
+- [Pure CSS Shaders Art](https://github.com/chenglou/pure-css-shaders-art) - Shaders art made with pure CSS.

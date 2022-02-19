@@ -325,3 +325,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [fontdb](https://github.com/RazrFalcon/fontdb) - Simple, in-memory font database with CSS-like queries.
 - [Text Rendering Hates You (2019)](https://gankra.github.io/blah/text-hates-you/) ([HN](https://news.ycombinator.com/item?id=30330144))
 - [Production Type](https://www.productiontype.com/) - Digital type design agency. ([GitHub](https://github.com/productiontype))
+- [Numderline](https://github.com/trishume/numderline) - Font patcher that uses OpenType font shaping trickery to make it easier to visually parse large numbers. ([Web](https://thume.ca/numderline/))
+- [Exploring OpenType Font Features (2022)](https://blog.lambda.cx/posts/opentype-font-exploration/)

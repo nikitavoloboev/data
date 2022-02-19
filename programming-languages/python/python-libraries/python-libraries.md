@@ -700,6 +700,10 @@
 - [pyvirtualcam](https://github.com/letmaik/pyvirtualcam) - Send frames to a virtual camera from Python.
 - [decorator](https://github.com/micheles/decorator) - Decorators for Humans.
 - [jsonrpcclient](https://github.com/explodinglabs/jsonrpcclient) - Generate JSON-RPC requests and parse responses in Python.
+- [Python Asyncio Extensions](https://github.com/fluidattacks/aioextensions) - High performance functions to work with the async IO.
+- [humanize](https://github.com/jmoiron/humanize) - Python humanize functions.
+- [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python) - Observability framework for cloud-native software.
+- [AwesomeVersion](https://github.com/ludeeus/awesomeversion) - One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them.
 
 ## Links
 
@@ -779,3 +783,4 @@
 - [uhashring](https://github.com/ultrabug/uhashring) - Consistent hashing in pure Python.
 - [pypistats](https://github.com/hugovk/pypistats) - Command-line interface to PyPI Stats API to get download stats for Python packages.
 - [Python Project Setup – Virtual Environments and Package Management (2022)](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
+- [Python on Nix](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix.

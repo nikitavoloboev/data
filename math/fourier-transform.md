@@ -38,3 +38,4 @@
 - [Fast Fourier Convolution (FFC) for Image Classification (2020)](https://papers.nips.cc/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html) ([Code](https://github.com/pkumivision/FFC))
 - [Fourier](https://github.com/brettbuddin/fourier) - Fast Fourier Transform and Partitioned Convolution Library.
 - [ProtoNTT](https://github.com/Mysticial/ProtoNTT) - Implementation of the Small Primes Number-Theoretic Transform (NTT) algorithm for multiplication of large integers.
+- [Understanding Fast Fourier Transforms](https://vanhunteradams.com/FFT/FFT.html) ([HN](https://news.ycombinator.com/item?id=30391306))

@@ -207,6 +207,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [RemixDB](https://github.com/wuxb45/remixdb) - Read- and write-optimized concurrent KV store. Fast point and range queries. Extremely low write-amplification.
 - [RisingLight](https://github.com/risinglightdb/risinglight) - OLAP database system for educational purpose.
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - Scalable, distributed, collaborative, document-graph database, for the real time web. ([Web](https://surrealdb.com/))
+- [classic-level](https://github.com/Level/classic-level) - Abstract-level database backed by LevelDB.
 
 ## Tools
 
@@ -541,3 +542,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [How much logic should I keep at the database vs. application layer? (2022)](https://lobste.rs/s/4zmaos/how_much_logic_should_i_keep_at_database_vs)
 - [Database System Concepts Book](https://www.db-book.com/)
 - [How can we do migrations better?](https://twitter.com/GergelyOrosz/status/1494600170520158214)
+- [How Query Engines Work by Andy Grove (2022)](https://leanpub.com/how-query-engines-work) - Introduction to the high-level concepts behind query engines and walks through all aspects of building a fully working SQL query engine in Kotlin. ([Code](https://github.com/andygrove/how-query-engines-work)) ([In Go](https://github.com/Fedomn/how-query-engine-work))
