@@ -48,3 +48,4 @@
 - [Slidev for VSCode](https://github.com/slidevjs/slidev-vscode)
 - [Slides](https://github.com/maaslalani/slides) - Terminal based presentation tool.
 - [Excalideck](https://excalideck.com/) - Use Excalidraw to make slides. ([HN](https://news.ycombinator.com/item?id=29139581)) ([Code](https://github.com/excalideck/excalideck))
+- [Excalidraw Slides](https://excalidraw-slides.netlify.app/) - Create slides using Excalidraw. ([Code](https://github.com/scastiel/excalidraw-slides))

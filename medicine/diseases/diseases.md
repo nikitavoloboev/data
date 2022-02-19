@@ -23,3 +23,4 @@
 - [75 years of research on human diseases in 1 minute](https://twitter.com/helder_nakaya/status/1482095277813157888)
 - [Ask HN: How to raise funds for rare disease research? (2022)](https://news.ycombinator.com/item?id=30250496)
 - [A Woman Is Cured of H.I.V. Using a Novel Treatment (2022)](https://www.nytimes.com/2022/02/15/health/hiv-cure-cord-blood.html) ([Tweet](https://twitter.com/Atul_Gawande/status/1493644662548180994)) ([HN](https://news.ycombinator.com/item?id=30349541))
+- [The Unreasonable Math of Type 1 Diabetes (2022)](https://maori.geek.nz/the-unreasonable-math-of-type-1-diabetes-8c96bdf5b7fb) ([HN](https://news.ycombinator.com/item?id=30376777))

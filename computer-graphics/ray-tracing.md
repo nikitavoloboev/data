@@ -99,3 +99,5 @@
 - [Type-Safe Raytracing in Modern C++ (2019)](https://ajeetdsouza.github.io/blog/posts/type-safe-raytracing-in-modern-cpp/)
 - [Tiny GPU raytracer, using Zig and WebGPU](https://github.com/mkeeter/rayray)
 - [Raytracing on a Graphing Calculator (again) (2022)](https://www.youtube.com/watch?v=rY413t5fArw)
+- [How much boilerplate code you need to write a ray-tracer?](https://sergeyreznik.github.io/rtcode/index.html) ([HN](https://news.ycombinator.com/item?id=30378900))
+- [Writing ray-tracer using Metal Performance Shaders](https://sergeyreznik.github.io/metal-ray-tracer/index.html)

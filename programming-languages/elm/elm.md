@@ -87,3 +87,4 @@
 - [elm-pair](https://github.com/jwoudenberg/elm-pair) - Artificial pair-programmer that helps you write Elm.
 - [Elm patterns](http://sporto.github.io/elm-patterns/) ([Code](https://github.com/sporto/elm-patterns))
 - [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)
+- [elm-review-bot](https://github.com/MartinSStewart/elm-review-bot) - Bot that uses elm-review to find common mistakes in packages.

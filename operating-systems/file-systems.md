@@ -97,3 +97,4 @@
 - [pifs2](https://github.com/ajeetdsouza/pifs) - Compile-time data-free filesystem.
 - [Parallel Disk Usage (pdu)](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer.
 - [wasi-vfs](https://github.com/kateinoigakukun/wasi-vfs) - Virtual filesystem layer for WASI.
+- [Littlefs](https://github.com/littlefs-project/littlefs) - Little fail-safe filesystem designed for microcontrollers. ([HN](https://news.ycombinator.com/item?id=30383567))

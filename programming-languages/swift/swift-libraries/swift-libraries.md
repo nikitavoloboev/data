@@ -440,6 +440,7 @@
 - [Catbird](https://github.com/RedMadRobot/catbird) - Mock server for UI tests.
 - [StubKit](https://github.com/kateinoigakukun/StubKit) - Smart stubbing system.
 - [TestCleaner](https://github.com/ZevEisenberg/TestCleaner) - Tidy up your XCTests.
+- [Mendoza](https://github.com/Subito-it/Mendoza) - Dispatch Apple's UI Tests over multiple physical machines.
 
 ## API
 
@@ -960,6 +961,7 @@
 - [Cassowary](https://github.com/compnerd/cassowary) - Swift implementation of the cassowary simplex solver.
 - [SwiftPrometheus](https://github.com/MrLotU/SwiftPrometheus) - Prometheus client for Swift.
 - [swift-babab](https://github.com/spevans/swift-babab) - Swift library for Buffers, Arrays, Bits and Bytes.
+- [Diff](https://github.com/soffes/Diff) - Simple diffing library in pure Swift.
 
 ## Other (not lib)
 

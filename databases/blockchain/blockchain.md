@@ -1,6 +1,6 @@
 # [Blockchain](http://en.wikipedia.org/wiki/Blockchain)
 
-Blockchain is an immutable linked list of hashes that uses some consensus system like proof of stake (or other methods) to decide which blocks (transactions or runnable code) are added next.
+Blockchain is an [immutable linked list of hashes that uses some consensus system like proof of stake (or other methods) to decide which blocks (transactions or runnable code) are added next](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 
 [Ethereum, Solana, Tezos & Avalanche are interesting blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
 
@@ -341,3 +341,4 @@ Blockchain is an immutable linked list of hashes that uses some consensus system
 - [Crypto, the left, and techno-feudalism](https://metacpc.org/en/crypto-blockchain/) ([HN](https://news.ycombinator.com/item?id=30224472))
 - [chain-registry](https://github.com/cosmos/chain-registry) - Contains a chain.json and assetlist.json for a number of cosmos-sdk based chains.
 - [Exonum](https://github.com/exonum/exonum) - Extensible open-source framework for creating private/permissioned blockchain applications.
+- [Foundations of Blockchains - YouTube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)

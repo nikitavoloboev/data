@@ -69,3 +69,4 @@
 - [caldera](https://github.com/sjb3d/caldera) - Vulkan and rust experiments, including a spectral path tracer using Vulkan ray tracing extensions.
 - [Rust & Vulkan test projects](https://github.com/sebbbi/rust_test)
 - [Vulkan Memory Model](https://github.com/KhronosGroup/Vulkan-MemoryModel)
+- [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Loader)

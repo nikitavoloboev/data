@@ -143,3 +143,7 @@
 - [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) - Open-Source Mapbox GL Native.
 - [mbtileserver](https://github.com/consbio/mbtileserver) - Simple Go-based server for map tiles stored in mbtiles format.
 - [Location History Visualizer Pro](https://locationhistoryvisualizer.com/) - In-depth analysis of your Google Location History.
+- [pygeofilter](https://github.com/geopython/pygeofilter) - Pure Python parser implementation of OGC filtering standards.
+- [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library. ([Docs](https://proj.org/))
+- [carmen](https://github.com/mapbox/carmen) - Mapbox Vector Tile based geocoder with support for swappable data sources.
+- [OSM Liberty](https://github.com/maputnik/osm-liberty) - Free Mapbox GL basemap style for everyone.

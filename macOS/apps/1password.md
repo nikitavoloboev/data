@@ -29,3 +29,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Ask HN: What password managers can you recommend? (2022)](https://news.ycombinator.com/item?id=29797022)
 - [1Password for SSH and Git](https://developer.1password.com/docs/ssh/) ([HN](https://news.ycombinator.com/item?id=30359430))
 - [1Password Developer Documentation](https://developer.1password.com/)
+- [Ask HN: Why should I trust password managers? (2022)](https://news.ycombinator.com/item?id=30374896)

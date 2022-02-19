@@ -92,3 +92,4 @@
 - [Parallelizing the Racket Web Server (2021)](https://defn.io/2021/12/30/parallel-racket-web-server/)
 - [curly-fn](https://github.com/lexi-lambda/racket-curly-fn) - Meta-language for adding Clojure-style shorthand function literals to arbitrary Racket languages.
 - [functional](https://github.com/lexi-lambda/functional) - Functional interfaces and datatypes for Racket.
+- [Zuo](https://github.com/mflatt/zuo) - Tiny Racket for Scripting.

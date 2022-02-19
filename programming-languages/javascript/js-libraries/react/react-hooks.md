@@ -164,6 +164,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [react-browser-navigator](https://github.com/lineceptorg/react-browser-navigator) - React Hooks to access browser navigator properties.
 - [use-gauge](https://github.com/mattrothenberg/use-gauge) - Headless React hook for building beautiful gauge charts.
 - [Watchable](https://github.com/shortwave/watchable) - Library to expose state into React.
+- [Alibaba Hooks](https://github.com/alibaba/hooks) - High-quality & reliable React Hooks library. ([Docs](https://ahooks.js.org/hooks/use-request/index))
 
 ## Code
 

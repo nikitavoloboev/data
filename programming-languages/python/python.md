@@ -430,3 +430,4 @@ for i, _ in enumerate(nums):
 - [Understanding Attributes, Dicts and Slots in Python (2022)](https://bas.codes/posts/python-dict-slots)
 - [Interactive Loop Optimization](https://jott.live/markdown/interactive_optimization) ([Lobsters](https://lobste.rs/s/wbqbpn/interactive_loop_optimization))
 - [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)
+- [pylint-errors](https://github.com/vald-phoenix/pylint-errors) - Curated list of pylint errors with explanation and examples.

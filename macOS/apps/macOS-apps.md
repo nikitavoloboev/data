@@ -220,3 +220,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Catching Native Apps (2022)](https://mjtsai.com/blog/2022/01/12/catching-native-apps/) ([HN](https://news.ycombinator.com/item?id=29913619))
 - [Catalyst Video Grid](https://github.com/steventroughtonsmith/catalystvideogrid) - Catalyst example of a grid-based video app that opens videos in secondary windows.
 - [Where Mac Catalyst Falls Short (2022)](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)
+- [Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app.

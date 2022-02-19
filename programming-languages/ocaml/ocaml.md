@@ -116,3 +116,5 @@
 - [ocaml for Unikraft](https://github.com/TheLortex/unikraft-ocaml) - OCaml 5 runtime (libasmrun.a) built for unikraft.
 - [unikraft-ocaml-hello](https://github.com/TheLortex/unikraft-ocaml-example) - Bare-unikraft OCaml 5 application.
 - [OCaml website](https://v3.ocaml.org/) ([Code](https://github.com/ocaml/v3.ocaml.org-server))
+- [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/) ([Web](https://ocaml-book.com/)) ([Code](https://github.com/johnwhitington/mlbook/))
+- [2021 at OCamlPro](https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro)

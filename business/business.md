@@ -137,3 +137,4 @@ Learning to build [startups](startups/startups.md).
 - [I took a job at Amazon, only to leave after 10 months. (2021)](https://benadam.me/thoughts/my-experience-at-amazon/) ([HN](https://news.ycombinator.com/item?id=29813261))
 - [Don't forget Microsoft (2022)](https://luttig.substack.com/p/dont-forget-microsoft) ([HN](https://news.ycombinator.com/item?id=30141192))
 - [Ask HN: What made your business take off that you wish you'd done much earlier? (2022)](https://news.ycombinator.com/item?id=30329762)
+- [Why do corporations repurchase shares? What benefit does this have? (2022)](https://www.reddit.com/r/AskEconomics/comments/suxqj0/why_do_corporations_repurchase_shares_what/)

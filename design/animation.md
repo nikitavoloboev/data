@@ -69,3 +69,4 @@
 - [The Art of LUCA](https://disney-studios-awards.s3.amazonaws.com/luca/books/flipH45pEt23wR/index.html)
 - [Disney Filmmaking Process](https://disneyanimation.com/process/) ([HN](https://news.ycombinator.com/item?id=30241966))
 - [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (2021)](https://arxiv.org/abs/2109.10595) ([Code](https://github.com/YuanxunLu/LiveSpeechPortraits))
+- [Excalidraw Claymate](https://dai-shi.github.io/excalidraw-claymate/) - Tool based on Excalidraw to create stop motion animations and slides. ([Code](https://github.com/dai-shi/excalidraw-claymate))

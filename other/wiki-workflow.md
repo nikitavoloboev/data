@@ -441,3 +441,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ter](https://github.com/kkga/ter) - Tiny wiki-style site builder with Zettelkasten flavor.
 - [Lurnby](https://github.com/Roznoshchik/Lurnby) - Tool for active reading and personal knowledge management. ([Web](https://www.lurnby.com/)) ([HN](https://news.ycombinator.com/item?id=30299847))
 - [Windi](https://windi.app/) - Knowledge management and sharing platform based on short notes. ([HN](https://news.ycombinator.com/item?id=30302690))
+- [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)

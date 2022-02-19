@@ -318,3 +318,4 @@
 - [Don't Change the Algorithm, Change the Data: Exploratory Data for Offline Reinforcement Learning (2021)](https://arxiv.org/abs/2201.13425) ([Code](https://github.com/denisyarats/exorl))
 - [Exploration in Approximate Hyper-State Space for Meta Reinforcement Learning (2021)](https://arxiv.org/abs/2010.01062) ([Code](https://github.com/lmzintgraf/hyperx))
 - [Representation Learning for Reinforcement Learning](https://github.com/fuyw/RepL4RL)
+- [Deep Reinforcement Learning in The Real World](https://github.com/montrealrobotics/DeepRLInTheWorld)

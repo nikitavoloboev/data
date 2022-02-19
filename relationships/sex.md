@@ -93,3 +93,5 @@
 - [The Internal Clitoris](https://centerforeroticintelligence.org/internal-clitoris/) ([Reddit](https://www.reddit.com/r/sexover30/comments/srjig2/what_the_fuck_is_this_thing/))
 - [Sex positive resources for adult male](https://www.reddit.com/r/sexover30/comments/sruhx6/sex_positive_resources_for_adult_male/)
 - [Choosy Eggs May Pick Sperm for Their Genes, Defying Mendel’s Law](https://www.quantamagazine.org/choosy-eggs-may-pick-sperm-for-their-genes-defying-mendels-law-20171115/)
+- [MojoUpgrade](https://mojoupgrade.com/) - Quiz is designed to help you - as a couple - communicate better about your intimate fantasies.
+- [Why Are Young People Having So Little Sex?](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/) ([HN](https://news.ycombinator.com/item?id=30385292))

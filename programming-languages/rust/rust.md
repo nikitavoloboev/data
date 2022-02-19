@@ -705,3 +705,5 @@
 - [What does it mean when people say that "Rust does not have a stable ABI"? (2022)](https://www.reddit.com/r/rust/comments/ss2p6c/what_does_it_mean_when_people_say_that_rust_does/)
 - [Lineiform](https://github.com/chc4/lineiform) - Meta-JIT library for Rust interpreters. ([Article](https://blog.redvice.org/2022/lineiform-rust-meta-jit/))
 - [More Enum Types (2022)](https://blog.yoshuawuyts.com/more-enum-types/)
+- [Ultimate Rust Crash Course](https://agileperception.com/ultimate_rust_crash_course) ([Code](https://github.com/CleanCut/ultimate_rust_crash_course))
+- [What Is Rust's Hole Purpose? (2022)](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/) ([HN](https://news.ycombinator.com/item?id=30386337))

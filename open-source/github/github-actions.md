@@ -176,6 +176,7 @@
 - [GitHub Staging Apps on Fly](https://github.com/brentd/fly-staging-app)
 - [Steam Deploy](https://github.com/game-ci/steam-deploy) - Github Action to deploy a game to Steam.
 - [lowercase-linter](https://github.com/julie-ng/lowercase-linter) - GitHub Action to ensure files are lower case only. Suggests valid names in kebab-case format.
+- [Release Commenter](https://github.com/apexskier/github-release-commenter) - GitHub Action to automatically comment on PRs and Issues when a fix is released.
 
 ## Go
 

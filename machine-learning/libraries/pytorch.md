@@ -343,3 +343,4 @@
 - [sbi](https://github.com/mackelab/sbi) - PyTorch package for simulation-based inference.
 - [torchmd](https://github.com/torchmd/mdgrad) - PyTorch differentiable molecular dynamics.
 - [TorchCAM](https://github.com/frgfm/torch-cam) - Simple way to leverage the class-specific activation of convolutional layers in PyTorch.
+- [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - PyTorch to TensorRT converter which utilizes the TensorRT Python API.

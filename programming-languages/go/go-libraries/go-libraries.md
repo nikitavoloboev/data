@@ -67,6 +67,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Mango Kong](https://github.com/alecthomas/mango-kong) - Allows Kong packages to generate man pages using Mango.
 - [go-spin](https://github.com/tj/go-spin) - Terminal spinner package for Go.
 - [TCG](https://github.com/msoap/tcg) - Terminal cell graphics library.
+- [shell](https://github.com/keegancsmith/shell) - Generate Shell Commands in Go, sprintf Style.
+- [termbar](https://github.com/mergestat/termbar) - Generate terminal charts in Go.
 
 ## Test
 
@@ -269,6 +271,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Turbo-go](https://github.com/akmittal/turbo-go) - Build hotwire apps using go.
 - [Huma](https://github.com/danielgtaylor/huma) - Modern, simple, fast & opinionated REST API framework for Go with batteries included.
 - [gmux](https://github.com/elastic/gmux) - Go library for simultaneously serving net/http and gRPC requests on a single port.
+- [pester](https://github.com/sethgrid/pester) - Go http calls with retries and backoff.
+- [httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r \*http.Request) error.
 
 ## GraphQL
 
@@ -392,6 +396,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [gen](https://github.com/smallnest/gen) - Converts a database into gorm structs and RESTful API.
 - [Scribble](https://github.com/sdomino/scribble) - Tiny JSON database in Go.
 - [godb](https://github.com/samonzeweb/godb) - Go SQL query builder and struct mapper.
+- [sqlf](https://github.com/keegancsmith/sqlf) - Generate parameterized SQL statements in Go, sprintf Style.
 
 ## ML
 
@@ -1327,6 +1332,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [byline Reader](https://github.com/msoap/byline) - Reading and processing data from a io.Reader line by line. Can add UNIX text processing principles to its Reader (like with awk, grep, sed ...).
 - [Go Type Tools](https://github.com/eloonstra/go-type-tools) - Library containing useful functions for working with Go types like filters, union, intersection and more.
 - [ut](https://github.com/kuba--/ut) - Yet Another Efficient Unification Algorithm.
+- [pretty](https://github.com/kr/pretty) - Pretty printing for Go values.
+- [parquet-go](https://github.com/segmentio/parquet-go) - High-performance Go library to manipulate parquet files.
+- [golines](https://github.com/segmentio/golines) - Go formatter that fixes long lines.
 
 ## Links
 

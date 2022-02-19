@@ -627,3 +627,5 @@
 - [Machine API Operator](https://github.com/openshift/machine-api-operator) - Manages the lifecycle of specific purpose CRDs, controllers and RBAC objects that extend the Kubernetes API.
 - [Kuber](https://github.com/JuliaComputing/Kuber.jl) - Julia Kubernetes Client.
 - [kbrew](https://github.com/kbrew-dev/kbrew) - CLI tool for Kubernetes which makes installing any complex stack easy in one step.
+- [Zarf](https://github.com/defenseunicorns/zarf) - Kubernetes Air Gap Buddy.
+- [Kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing.

@@ -311,3 +311,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [CodeshiftCommunity](https://www.codeshiftcommunity.com/docs/) - Community-owned global registry and documentation hub for codemods. ([Code](https://github.com/CodeshiftCommunity/CodeshiftCommunity))
 - [Programming Language and compiler Benchmarks](https://programming-language-benchmarks.vercel.app/) ([Code](https://github.com/hanabi1224/Programming-Language-Benchmarks))
 - [Benchmarks of different languages](https://github.com/kostya/benchmarks)
+- [Kcov](https://github.com/SimonKagstrom/kcov) - Code coverage tester for compiled languages, Python and Bash.

@@ -23,6 +23,8 @@
 - [Fulcro](https://github.com/fulcrologic/fulcro) - Library for development of single-page full-stack web applications in clj/cljs. ([Workshop](https://github.com/holyjak/fulcro-intro-wshop))
 - [Ripley](https://github.com/tatut/ripley) - Fast server-side rendered web UI toolkit with live components.
 - [Polylith](https://github.com/polyfy/polylith) - Tool used to develop Polylith based architectures in Clojure.
+- [navi](https://github.com/lispyclouds/navi) - Tiny library converting OpenAPI route definitions to Reitit routes.
+- [Nasus HTTP Server](https://github.com/kachayev/nasus) - Simple zero-configuration command-line HTTP files server.
 
 ## DB
 
@@ -158,6 +160,9 @@
 - [hasch](https://github.com/replikativ/hasch) - Cross-platform (JVM and JS atm.) edn data structure hashing for Clojure.
 - [at-at](https://github.com/overtone/at-at) - Ahead-of-time function scheduler.
 - [Domino](https://github.com/domino-clj/domino) - Clojure/Script data flow engine.
+- [CLI-matic](https://github.com/l3nz/cli-matic) - Compact, hands-free [sub]command line parsing library for Clojure.
+- [contajners](https://github.com/lispyclouds/contajners) - Idiomatic, data-driven, REPL friendly Clojure client for OCI complaint container engines inspired from Cognitect's AWS client.
+- [clj-docker-client](https://github.com/into-docker/clj-docker-client) - Idiomatic, data-driven, REPL friendly Clojure Docker client inspired from Cognitect's AWS client.
 
 ## Links
 

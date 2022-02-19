@@ -165,3 +165,5 @@
 - [XMPP: the secure communication protocol that respects privacy (2021)](https://notes.nicfab.it/post/xmpp/xmpp/) ([HN](https://news.ycombinator.com/item?id=29871358))
 - [Nuanced communication usually doesn't work at scale](https://twitter.com/danluu/status/1487228574608211969) ([HN](https://news.ycombinator.com/item?id=30128061))
 - [Precision In Technical Discussions (2022)](https://rtpg.co/2022/02/04/precision-in-technical-discussions.html) ([Lobsters](https://lobste.rs/s/yabhdg/precision_technical_discussions))
+- [Don’t point out something wrong immediately (2022)](https://blog.the-pans.com/wrong/) ([HN](https://news.ycombinator.com/item?id=30356177))
+- [Most helpful thing someone has said to you when you’re in a tough spot](https://twitter.com/ShaneAParrish/status/1494655217652191236)

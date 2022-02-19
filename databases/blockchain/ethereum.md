@@ -483,3 +483,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [EthSema](https://github.com/Kenun99/ethsema) - Binary translator for Ethereum 2.0.
 - [Tender](https://github.com/therne/tender) - Layer 2 for IPFS / API Renderer for Web3 / Serverless for Ethereum.
 - [ENS explained visually](https://twitter.com/avsa/status/1493634935038656519)
+- [Foundry Rust Monorepo Template](https://github.com/gakonst/foundry-rust-template)

@@ -120,3 +120,4 @@
 - [Scriptable widget for Obsidian journal tasks (2021)](https://mostlymaths.net/2021/12/scriptable-obsidian-widget.html/)
 - [Snippetor](https://github.com/ebullient/obsidian-snippetor) - Assist for creating CSS snippets for Obsidian.
 - [Obsidian SSG Blog](https://github.com/A/obsidian-blog) - Simple blog generated from Obsidian Map Of Content notes.
+- [Obsidian Releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.

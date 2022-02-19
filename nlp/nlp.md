@@ -488,3 +488,6 @@
 - [spaCy + Stanza](https://github.com/explosion/spacy-stanza) - Use the latest Stanza (StanfordNLP) research models directly in spaCy.
 - [Awesome Document Understanding](https://github.com/tstanislawek/awesome-document-understanding)
 - [Sequential Transformer](https://github.com/facebookresearch/adaptive-span) - Code for training Transformers on sequential tasks such as language modeling.
+- [bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model.
+- [A Contrastive Framework for Neural Text Generation (2022)](https://arxiv.org/abs/2202.06417) ([Code](https://github.com/yxuansu/SimCTG))
+- [Parallax](https://github.com/uber-research/parallax) - Tool for interactive embeddings visualization.

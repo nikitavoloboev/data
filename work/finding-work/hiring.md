@@ -131,3 +131,4 @@
 - [Diversity in Hiring](https://github.com/nkammah/diversity-in-hiring) - Resources for diversity in hiring : job boards, organizations, educational resources.
 - [8 reference call questions that get past BS and really help understand a candidate](https://twitter.com/asanwal/status/1474407648267313175)
 - [Ask HN: How do small companies do recruitment? (2022)](https://news.ycombinator.com/item?id=30098607)
+- [Rethinking Levels, Promotions and Salaries](https://www.daily.co/blog/rethinking-levels-promotions-and-salaries/) ([HN](https://news.ycombinator.com/item?id=30384286))

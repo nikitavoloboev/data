@@ -213,3 +213,4 @@
 - [Signed Distance Field (SDF) Resources](https://github.com/CedricGuillemet/SDF)
 - [Journal of Graphics Tools](https://github.com/erich666/jgt-code)
 - [Awesome Voxel](https://github.com/meshula/awesome-voxel)
+- [nsdf](https://github.com/janivanecky/nsdf)

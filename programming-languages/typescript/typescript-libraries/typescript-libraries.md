@@ -333,6 +333,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Telescopic Text](https://github.com/jackyzha0/telescopic-text) - Open-source library to help with creating expandable text.
 - [ZenJSON](https://github.com/etienne-dldc/zenjson) - Parse and serialize special types into JSON-compatible data.
 - [literal-parser](https://github.com/etienne-dldc/literal-parser) - Small library to parse JavaScript array/object literal.
+- [Simultan](https://github.com/terkelg/simultan) - Simultaneously run an async function on any iterable with limited concurrency.
 
 ## Links
 

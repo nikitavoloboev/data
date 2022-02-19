@@ -166,7 +166,7 @@
 - [UNet: semantic segmentation with PyTorch](https://github.com/milesial/Pytorch-UNet)
 - [Exploring Simple Siamese Representation Learning (2020)](https://arxiv.org/abs/2011.10566) ([Code](https://github.com/PatrickHua/SimSiam))
 - [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://github.com/aimagelab/show-control-and-tell)
-- [Deformable Neural Radiance Fields](https://nerfies.github.io/)
+- [Nerfies: Deformable Neural Radiance Fields](https://nerfies.github.io/) ([Code](https://github.com/google/nerfies))
 - [Timeception for Complex Action Recognition (2019)](https://arxiv.org/abs/1812.01289) ([Code](https://github.com/noureldien/timeception))
 - [Programming Computer Vision with Python (2014)](http://programmingcomputervision.com/) ([Code](https://github.com/jesolem/PCV)) ([Notes](https://github.com/nico/cvbook))
 - [Fast and Accurate One-Stage Space-Time Video Super-Resolution (2020)](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)

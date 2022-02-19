@@ -1,5 +1,7 @@
 # State machines
 
+I [model state machines by first listing events (press/do something), tasks (side effects, split by services (long running and you care about them ending) and actions (sync, take no time at all)) together with lifecycle (when it's active)](https://www.youtube.com/watch?v=wykDyFwr8Lk). Services can spawn events.
+
 ## Notes
 
 - [When should you use XState? When you have something complex to build, with: 1. Many side effects, especially long-running ones like call recording. 2. Sequences of things that MUST happen in a certain order (choose devices, record, preview). Either dead simple (useState) or everything else (XState).](https://twitter.com/mpocock1/status/1451486390911373314)
@@ -42,3 +44,4 @@
 - [xstate-parser](https://github.com/statelyai/xstate-parser) - Experiments in building a tool for XState to parse basic information about machines declared inside files.
 - [Why XState is THE State Management Tool (2022)](https://clevertech.biz/insights/why-x-state-is-the-state-management-tool)
 - [XState Docs Speedrun - 2022](https://www.youtube.com/watch?v=2eurRx-tR-I)
+- [Modelling Statecharts: A step-by-step guide (2022)](https://www.youtube.com/watch?v=wykDyFwr8Lk)

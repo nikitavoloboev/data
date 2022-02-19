@@ -484,3 +484,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [A better `git blame` with `--ignore-rev`](https://michaelheap.com/git-ignore-rev/) ([Lobsters](https://lobste.rs/s/loxzvv/better_git_blame_with_ignore_rev))
 - [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg) ([HN](https://news.ycombinator.com/item?id=30311713))
 - [go-gitignore](https://github.com/denormal/go-gitignore) - Go package for parsing and matching paths against .gitignore files.
+- [Self-hosted Git Server with Built-in CI/CD](https://github.com/theonedev/onedev)

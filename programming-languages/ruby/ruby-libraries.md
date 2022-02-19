@@ -52,3 +52,5 @@
 - [Debugging Ruby Libraries (2021)](https://maximomussini.com/posts/debugging-ruby-libraries/)
 - [Writing Ruby gem native extensions in Rust (2022)](https://briankung.dev/2022/01/31/sneak-preview-writing-ruby-gem-native-extensions-in-rust/)
 - [Writing a Rust gem from scratch (2022)](https://briankung.dev/2022/02/02/writing-a-rust-gem-from-scratch/)
+- [Thermite](https://github.com/malept/thermite) - Rake-based helper for building and distributing Rust-based Ruby extensions.
+- [Modulation](https://github.com/digital-fabric/modulation) - Explicit Dependency Management for Ruby.

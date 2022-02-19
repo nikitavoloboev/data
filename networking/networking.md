@@ -410,3 +410,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Basic Network Troubleshooting (2022)](https://www.netmeister.org/blog/basic-network-troubleshooting.html) ([HN](https://news.ycombinator.com/item?id=30317540))
 - [Foundations of Python Network Programming (2014)](https://link.springer.com/book/10.1007/978-1-4302-5855-1) ([Code](https://github.com/brandon-rhodes/fopnp))
 - [What are your favorite small internet protocols? (2022)](https://lobste.rs/s/uuzx6g/what_are_your_favourite_small_internet)
+- [tubular](https://github.com/cloudflare/tubular) - BSD socket API on steroids.
+- [NetBox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation.

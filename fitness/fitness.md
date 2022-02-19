@@ -61,3 +61,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Skadefri](https://fittoplay.org/) - Evidence-based resource developed for anyone who engage in or facilitate sport.
 - [FitHero](https://fithero.app/) - Gym Workout Tracker.
 - [Acute aerobic exercise to recover from mental exhaustion](https://pubmed.ncbi.nlm.nih.gov/34516957/) ([HN](https://news.ycombinator.com/item?id=30360522))
+- [Apart from diet and exercise, What increased your energy levels drastically (2022)](https://www.reddit.com/r/AskMen/comments/svaymv/men_apart_from_diet_and_exercise_what_increased/)

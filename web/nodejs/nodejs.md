@@ -322,3 +322,4 @@
 - [Graceful Server](https://github.com/gquittet/graceful-server) - Tiny (~5k), KISS, dependency-free Node.JS library to make your API more graceful.
 - [replacestream](https://github.com/eugeneware/replacestream) - Node.js through stream that does basic streaming text search and replace and is chunk boundary friendly.
 - [Tumau](https://github.com/etienne-dldc/tumau) - Node HTTP framework written in Typescript.
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.

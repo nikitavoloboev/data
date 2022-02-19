@@ -13,7 +13,7 @@
 - [Hasura Authorization (2020)](https://www.youtube.com/watch?v=rkN3RQBi_UI)
 - [Hasura Actions in Action - Tanmai Gopal (2020)](https://www.youtube.com/watch?v=KH3mv4tm0fY)
 - [Moving From Django to Hasura and Next.js](https://hasura.io/blog/moving-from-django-to-hasura-and-next-js/)
-- [Nhost](https://nhost.io/) - Jamstack backend with Hasura. ([HN](https://news.ycombinator.com/item?id=24929732))
+- [Nhost](https://nhost.io/) - Jamstack backend with Hasura. ([HN](https://news.ycombinator.com/item?id=24929732)) ([Code](https://github.com/nhost/nhost))
 - [Realworld Hasura](https://github.com/andrewMacmurray/realworld-hasura) - Realworld inspired blogging platform (Remake of Conduit) using Hasura + Kotlin + Elm.
 - [Rust + Hasura](https://github.com/ronanyeah/rust-hasura) - Example of a Rust server that functions as a remote schema for Hasura.
 - [Hasura Data Dictionary](https://github.com/hasura/data-dictionary) - Understand your data graph - which includes your database relationships, and GraphQL schemas. ([Introduction](https://hasura.io/blog/hasura-data-dictionary/))

@@ -2,6 +2,8 @@
 
 I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (builds on Postgres) & [PlanetScale](planetscale.md) are awesome too.
 
+[Database Internals](https://www.databass.dev/) & [Designing Data-Intensive Applications](https://dataintensive.net/) are great books on databases.
+
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
@@ -537,3 +539,5 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Securely delegating trust with digital signatures and secret storage systems (2022)](https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems)
 - [StaticBackend](https://staticbackend.com/) - No vendor-lock-in backend as a service. ([Code](https://github.com/staticbackendhq/core))
 - [How much logic should I keep at the database vs. application layer? (2022)](https://lobste.rs/s/4zmaos/how_much_logic_should_i_keep_at_database_vs)
+- [Database System Concepts Book](https://www.db-book.com/)
+- [How can we do migrations better?](https://twitter.com/GergelyOrosz/status/1494600170520158214)

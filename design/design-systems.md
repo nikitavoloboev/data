@@ -89,6 +89,7 @@
 - [UI Kit Component library](https://github.com/commercetools/ui-kit)
 - [California Design System](https://designsystem.webstandards.ca.gov/)
 - [RevKit](https://rev.webkul.design/kit/) - Design System UI Kit. ([Solid Code](https://github.com/specialdoom/solid-rev-kit))
+- [Workday Canvas Kit](https://github.com/Workday/canvas-kit)
 
 ## Notes
 

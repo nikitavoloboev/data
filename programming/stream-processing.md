@@ -31,3 +31,4 @@
 - [rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - Ready-to-use RTSP / RTMP / HLS server and proxy that allows to read, publish and proxy video and audio streams.
 - [Apache Griffin](https://griffin.apache.org/) - Big Data Quality Solution For Batch and Streaming. ([Code](https://github.com/apache/griffin))
 - [Mirabelle](https://github.com/mcorbin/mirabelle) - Stream processing engine for monitoring.
+- [Kleenex](https://kleenexlang.org/) - Programming language for stream processing of data in a regular domain. ([Code](https://github.com/diku-kmc/kleenexlang))

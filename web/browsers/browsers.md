@@ -183,3 +183,4 @@
 - [Awesome Web Browser Stuff](https://github.com/ZeroX-DG/awesome-browser)
 - [Moon](https://github.com/ZeroX-DG/moon) - Hobby web browser developed from scratch.
 - [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) - Browser extension that generates Playwright and Puppeteer test scripts from your interactions.
+- [tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.

@@ -146,3 +146,4 @@
 - [Datasets of Automatic Keyphrase Extraction](https://github.com/LIAAD/KeywordExtractor-Datasets)
 - [Awesome Forests](https://github.com/blutjens/awesome-forests) - Curated list of ground-truth forest datasets for the machine learning and forestry community.
 - [PushShift Data Dumps](http://files.pushshift.io/)
+- [DeepEcho](https://github.com/sdv-dev/DeepEcho) - Synthetic Data Generation for mixed-type, multivariate time series.

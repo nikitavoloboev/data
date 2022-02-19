@@ -21,3 +21,4 @@
 - [Engine cooling – why rocket engines don’t melt (2022)](https://everydayastronaut.com/engine-cooling-methodes/) ([HN](https://news.ycombinator.com/item?id=29922002))
 - [ThermoJet Engine 3D Printed (PulseJet)](https://www.youtube.com/watch?v=GzHIrAapiFg)
 - [Polaris Program](https://polarisprogram.com/) ([HN](https://news.ycombinator.com/item?id=30331608))
+- [SpaceX’s monstrous, dirt-cheap Starship may transform space travel (2022)](https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel) ([HN](https://news.ycombinator.com/item?id=30379271))

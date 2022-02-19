@@ -70,3 +70,5 @@
 - [Nix project template for Idris2 JavaScript projects](https://github.com/srid/idris-js-template)
 - [idris2-nvim](https://github.com/ShinKage/idris2-nvim) - Simple configuration and extra tools for NVIM + LSP + Idris2.
 - [Functional Programming in Idris 2](https://github.com/stefan-hoeck/idris2-tutorial)
+- [Idris2 TLS](https://github.com/octeep/idris2-tls) - Portable idris2 implementation of TLS.
+- [idris2-http](https://github.com/octeep/idris2-http) - HTTP(s) client in idris.

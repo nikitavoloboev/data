@@ -760,6 +760,7 @@
     - [Tezos](databases/blockchain/tezos.md)
     - [NEAR](databases/blockchain/near.md)
     - [Polkadot](databases/blockchain/polkadot.md)
+    - [Cosmos](databases/blockchain/cosmos.md)
     - [Cardano](databases/blockchain/cardano.md)
     - [Arweave](databases/blockchain/arweave.md)
 - [Art](art/art.md)

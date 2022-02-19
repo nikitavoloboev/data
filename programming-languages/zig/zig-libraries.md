@@ -15,6 +15,7 @@
 - [Zig Network](https://github.com/MasterQ32/zig-network) - Small network abstraction layer around TCP & UDP.
 - [zig-serve](https://github.com/MasterQ32/zig-serve) - Server implementations for several protocols in Zig. Includes http(s), gemini and gopher.
 - [rem](https://github.com/chwayne/rem) - HTML parsing library, written in Zig.
+- [zfetch](https://github.com/truemedian/zfetch) - HTTP request library for Zig with HTTPS support.
 
 ## DB
 
@@ -76,6 +77,9 @@
 - [Getty](https://github.com/getty-zig/getty) - Serialization framework for Zig.
 - [json](https://github.com/getty-zig/json) - Serialization library for JSON.
 - [Concepts](https://github.com/ibokuri/concepts) - Compile-time validation of type constraints.
+- [hzzp](https://github.com/truemedian/hzzp) - I/O agnostic HTTP/1.1 parser and encoder for Zig.
+- [zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
+- [inon](https://github.com/iddev5/inon) - Data serialization format in Zig.
 
 ## Links
 

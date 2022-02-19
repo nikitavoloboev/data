@@ -291,3 +291,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [AstroVim](https://github.com/kabinspace/AstroVim) - Aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
 - [Nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel.
 - [vim-jetpack](https://github.com/tani/vim-jetpack) - Lightning-fast minimalist plugin manager for Vim/Neovim.
+- [Ultimate vimrc](https://github.com/amix/vimrc)

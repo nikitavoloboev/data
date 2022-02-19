@@ -242,7 +242,7 @@ if (
 - [Google Closure Compiler](https://github.com/google/closure-compiler) - Tool for making JavaScript download and run faster.
 - [JSConf](https://jsconf.com/) - Conferences for the JavaScript Community.
 - [The history of Promises](https://samsaccone.com/posts/history-of-promises.html)
-- [Skypack](https://www.skypack.dev/) - New kind of JavaScript delivery network. ([HN](https://news.ycombinator.com/item?id=23825798)) ([Introducing Skypack Discover](https://www.skypack.dev/blog/2020/10/introducing-skypack-discover/)) ([Docs](https://docs.skypack.dev/))
+- [Skypack](https://www.skypack.dev/) - New kind of JavaScript delivery network. ([HN](https://news.ycombinator.com/item?id=23825798)) ([Introducing Skypack Discover](https://www.skypack.dev/blog/2020/10/introducing-skypack-discover/)) ([Docs](https://docs.skypack.dev/)) ([skypin](https://github.com/MarshallCB/skypin))
 - [Openbase](https://openbase.io/) - Help developers choose the right JS package for any task - through user reviews and insights about packages' popularity, reliability, activity and more. ([HN](https://news.ycombinator.com/item?id=23833441))
 - [Basho](https://github.com/bashojs/basho) - Shell Automation with Plain JavaScript. ([Docs](https://bashojs.org/))
 - [What is the JS Event Loop and Call Stack?](https://gist.github.com/jesstelford/9a35d20a2aa044df8bf241e00d7bc2d0)

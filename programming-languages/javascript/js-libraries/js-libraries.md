@@ -795,6 +795,10 @@
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - JavaScript library to detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data with relatively small footprint.
 - [p-lazy](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until it's awaited or when .then() or .catch() is called.
 - [priority-queue](https://github.com/datastructures-js/priority-queue) - Performant heap-based priority queue implementation in JS.
+- [Tiny-Swiper](https://github.com/joe223/tiny-swiper) - JavaScript Carousel powered by wonderful plugins with native-like experience.
+- [ga-lite](https://github.com/jehna/ga-lite) - Smaller, cacheable subset of Google Analytics JS client.
+- [lru-cache](https://github.com/isaacs/node-lru-cache) - Cache object that deletes the least-recently-used items.
+- [XRegExp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions.
 
 ## Links
 

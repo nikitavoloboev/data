@@ -36,6 +36,7 @@
 - [Rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
 - [Update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust. Checks for a new version on Crates.io, GitHub, and PyPI.
 - [argfile](https://github.com/rust-cli/argfile) - Load additional CLI args from file.
+- [textplots](https://github.com/loony-bean/textplots-rs) - Terminal plotting library for Rust.
 
 ## Web
 
@@ -134,7 +135,7 @@
 
 ## GUI
 
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
@@ -316,6 +317,7 @@
 - [assay](https://github.com/mgattozzi/assay) - Super powered testing macro for Rust.
 - [rusty-fork](https://github.com/AltSysrq/rusty-fork) - Run Rust tests in isolated subprocesses.
 - [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.
+- [Yare](https://github.com/foresterre/yare) - Lean parametrized testing library for Rust.
 
 ## Error
 
@@ -414,6 +416,7 @@
 - [cgroups-rs](https://github.com/kata-containers/cgroups-rs) - Native Rust library for managing control groups under Linux.
 - [Rust iptables](https://github.com/yaa110/rust-iptables) - Bindings for iptables application in Linux.
 - [listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation.
+- [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) - Rust Language Bindings for the libseccomp Library.
 
 ## Embedded
 
@@ -450,6 +453,8 @@
 - [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Bindings to the macOS Security.framework.
 - [ahv](https://github.com/Thog/ahv) - Apple Hypervisor crate for Apple Silicon.
 - [macho-unwind-info](https://github.com/mstange/macho-unwind-info) - Parser for Apple's Compact Unwinding Format, which is used in the \_\_unwind_info section of mach-O binaries.
+- [rust-icns](https://github.com/mdsteele/rust-icns) - Rust library for encoding/decoding Apple Icon Image (.icns) files.
+- [DmgWiz](https://github.com/citruz/dmgwiz) - Extract filesystem data from DMG files.
 
 ## Macros
 
@@ -1465,6 +1470,10 @@
 - [zstd-rs](https://github.com/KillingSpark/zstd-rs) - Feature-complete decoder for the zstd compression format.
 - [atomic-memcpy](https://github.com/taiki-e/atomic-memcpy) - Byte-wise atomic memcpy.
 - [resource](https://github.com/mistodon/resource) - Rust macros for statically including resources in release mode, but dynamically loading them in debug mode.
+- [Rust Statsd](https://github.com/markstory/rust-statsd) - StatsD client implementation of statsd in rust.
+- [ghost-collections](https://github.com/matthieu-m/ghost-collections) - Safe collections written in stable Rust, based on GhostCell and StaticRc.
+- [crc64fast](https://github.com/tikv/crc64fast) - SIMD accelerated CRC-64-ECMA computation.
+- [trackable](https://github.com/sile/trackable) - Provides a way to track objects manually as an alternative to mechanisms like backtracing.
 
 ## Cargo Plugins
 

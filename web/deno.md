@@ -1,6 +1,6 @@
 # [Deno](https://github.com/denoland/deno)
 
-[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro.
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm.
 
 ## Links
 

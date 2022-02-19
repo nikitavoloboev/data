@@ -687,3 +687,6 @@
 - [Should We Be Using JAX in 2022?](https://www.reddit.com/r/MachineLearning/comments/st8b11/d_should_we_be_using_jax_in_2022/)
 - [Parallel Computing and Scientific Machine Learning (SciML): Methods and Applications](https://book.sciml.ai/) ([Code](https://github.com/SciML/SciMLBook))
 - [Awesome Neural ODE](https://github.com/Zymrael/awesome-neural-ode) - Resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.
+- [LLC: Accurate, Multi-purpose Learnt Low-dimensional Binary Codes (2021)](https://arxiv.org/abs/2106.01487) ([Code](https://github.com/RAIVNLab/LLC))
+- [TinyML Paper and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
+- [Multiplicative Filter Networks (2021)](https://openreview.net/forum?id=OmtmcPkkhT) ([Code](https://github.com/boschresearch/multiplicative-filter-networks))

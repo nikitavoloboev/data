@@ -97,3 +97,5 @@
 - [JSON.lua](https://github.com/jiyinyiyong/json-lua) - JSON encoder/decoder.
 - [lua-feels](https://github.com/paigeruten/lua-feels) - Lua REPL that gives you a feel for its internals.
 - [Lua in 100 Seconds (2022)](https://www.youtube.com/watch?v=jUuqBZwwkQw)
+- [Fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic web framework based on Redbean web server.
+- [lua-pb](https://github.com/Neopallium/lua-pb) - Lua Protocol Buffers.

@@ -78,3 +78,4 @@
 - [Conform](https://github.com/talos-systems/conform) - Policy enforcement for your pipelines.
 - [YourBase](https://yourbase.io/) - New build tool optimized for local + remote development. ([Code](https://github.com/yourbase/yb))
 - [Hercules CI Agent](https://github.com/hercules-ci/hercules-ci-agent) - Runs on your infrastructure and executes tasks (evaluation, builds, etc) for your Hercules CI account.
+- [Bob the Builder](https://github.com/bob-cd/bob) - What CI/CD should've been. ([Web](https://bob-cd.github.io/))

@@ -145,3 +145,4 @@
 - [docsify-cli](https://github.com/docsifyjs/docsify-cli) - Magical documentation generator.
 - [My favorite things about working at companies with a culture of writing](https://founder-fodder.ghost.io/writing-cultures-win/) ([HN](https://news.ycombinator.com/item?id=30361655))
 - [Ask HN: How do you manage your companies knowledge base? (2022)](https://news.ycombinator.com/item?id=30371723)
+- [HonKit](https://github.com/honkit/honkit) - Building beautiful books using Markdown - Fork of GitBook.

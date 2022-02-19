@@ -233,3 +233,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Ask HN: What real world problem does cryptocurrency solve? (2022)](https://news.ycombinator.com/item?id=30329114)
 - [The Rabbit Hole Beneath the Crypto Couple Is Endless (2022)](https://www.vice.com/en/article/3ab78b/the-rabbithole-beneath-the-crypto-couple-is-endless)
 - [Tokenomics Resource List (2022)](https://twitter.com/packyM/status/1493990833397325824)
+- [There are no other constitutional rights in substance without freedom to transact](https://twitter.com/punk6529/status/1494444624630403083)
+- [Peer-to-peer (crypto) trading networks](https://github.com/taxmeifyoucan/p2p-trading) - Best practices for p2p trading groups.

@@ -70,6 +70,8 @@
 - [Jax.jl](https://github.com/PhilipVinc/Jax.jl) - Wraps some functionality of Jax in Julia.
 - [MIPVerify.jl](https://github.com/vtjeng/MIPVerify.jl) - Evaluating Robustness of Neural Networks with Mixed Integer Programming.
 - [HQDL.jl](https://github.com/dfdx/HQDL.jl) - High-quality operators for machine learning.
+- [OperatorLearning.jl](https://github.com/SciML/OperatorLearning.jl) - Provides Layers for the learning of (nonlinear) operators in order to solve parametric PDEs.
+- [MultistartOptimization.jl](https://github.com/tpapp/MultistartOptimization.jl) - Multistart optimization methods in Julia.
 
 ## Math
 
@@ -182,6 +184,7 @@
 
 - [ArgParse.jl](https://github.com/carlobaldassi/ArgParse.jl) - Package for parsing command-line arguments to Julia programs.
 - [Comonicon](https://github.com/comonicon/Comonicon.jl) - All terminals are under my command.
+- [Term.jl](https://github.com/FedeClaudi/Term.jl) - Playing with terminal utilities in Julia.
 
 ## Web
 

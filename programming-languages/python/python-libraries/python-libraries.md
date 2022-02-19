@@ -698,6 +698,8 @@
 - [shortuuid](https://github.com/skorokithakis/shortuuid) - Generator library for concise, unambiguous and URL-safe UUIDs.
 - [ThatLib](https://github.com/juancarlospaco/thatlib) - Faster pathlib for Python.
 - [pyvirtualcam](https://github.com/letmaik/pyvirtualcam) - Send frames to a virtual camera from Python.
+- [decorator](https://github.com/micheles/decorator) - Decorators for Humans.
+- [jsonrpcclient](https://github.com/explodinglabs/jsonrpcclient) - Generate JSON-RPC requests and parse responses in Python.
 
 ## Links
 

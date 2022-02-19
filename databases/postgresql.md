@@ -413,3 +413,4 @@
 - [Prestogres](https://github.com/treasure-data/prestogres) - PostgreSQL protocol gateway for Presto distributed SQL query engine.
 - [Realtime Client](https://github.com/supabase/realtime-js) - Listens to changes in a PostgreSQL Database and via websockets.
 - [pgMustard](https://www.pgmustard.com/) - Review Postgres query plans quickly. ([Lobsters](https://lobste.rs/s/w79xyg/pgmustard_review_postgres_query_plans))
+- [pg-online-schema-change](https://github.com/shayonj/pg-online-schema-change) - Zero downtime online schema changes in PostgreSQL.

@@ -271,3 +271,4 @@
 - [Avoiding Catastrophe: Active Dendrites Enable Multi-Task Learning in Dynamic Environments (2021)](https://arxiv.org/abs/2201.00042)
 - [Computer scientists prove why bigger neural networks do better (2022)](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/) ([HN](https://news.ycombinator.com/item?id=30288092))
 - [On the Difficulty of Extrapolation with NN Scaling (2022)](http://lukemetz.com/difficulty-of-extrapolation-nn-scaling/)
+- [Depth Estimation by Convolutional Neural Networks (2016)](https://www.fit.vut.cz/study/thesis/18852/) ([Code](https://github.com/janivanecky/Depth-Estimation))

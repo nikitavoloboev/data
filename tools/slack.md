@@ -57,3 +57,4 @@
 - [Slack Dumper](https://github.com/rusq/slackdump) - Command line utility to create and save an archive of slack public and private messages and threads, files, and users.
 - [Skit](https://github.com/spy16/skit) - Build slack bots quickly and easily in Go.
 - [Slack Notify - GitHub Action](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel.
+- [Can Slack-mania be cured with systemized discipline?](https://brandur.org/fragments/slack-mania) ([HN](https://news.ycombinator.com/item?id=30356901))

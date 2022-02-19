@@ -2,6 +2,8 @@
 
 Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/) is inspiring.
 
+[Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) is great workshop.
+
 ## Interesting cameras
 
 - [Leica M11](https://www.youtube.com/watch?v=_9Dp-a91WIw)
@@ -188,3 +190,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [KEH Camera](https://www.keh.com/) - Used Cameras, Lenses & Gear For Sale.
 - [Matt Day - YouTube](https://www.youtube.com/c/mattdayphoto/videos)
 - [A Film Photoshoot in 5 Minutes w/ the Pentax 67 (2022)](https://www.youtube.com/watch?v=dM76x19En28)
+- [Seeing in Black and White with Eileen Rafferty (2015)](https://www.youtube.com/watch?v=V8Hh8S-Z68s)

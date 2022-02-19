@@ -54,3 +54,4 @@
 - [HN: France to Build Six New Nuclear Reactors (2022)](https://news.ycombinator.com/item?id=30291135) ([Reddit](https://www.reddit.com/r/Futurology/comments/spmm7f/macron_announces_france_is_to_build_up_to_14_new/))
 - [Greatest source of value & wealth creation in the 22nd century could be driven by terrestrial nucleosynthesis](https://twitter.com/friedberg/status/1492382218307575809)
 - [Magnetic control of tokamak plasmas through deep reinforcement learning (2022)](https://www.nature.com/articles/s41586-021-04301-9) ([Tweet](https://twitter.com/y0b1byte/status/1494076853694480388))
+- [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning (2022)](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control) ([HN](https://news.ycombinator.com/item?id=30379973))

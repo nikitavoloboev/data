@@ -82,3 +82,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/) - How to lose weight and permanently maintain whatever weight you desire.
 - [High-sucrose diets contribute to brain angiopathy and higher brain dysfunctions (2021)](https://www.science.org/doi/10.1126/sciadv.abl6077) ([HN](https://news.ycombinator.com/item?id=29788527))
 - [Тред о сжигании жира и снижении веса](https://twitter.com/malojira/status/1489305374142472194)
+- [Scientist busts myths about how humans burn calories (2022)](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why) ([HN](https://news.ycombinator.com/item?id=30381000))

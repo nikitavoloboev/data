@@ -91,3 +91,4 @@
 - [Graph4NLP](https://github.com/graph4ai/graph4nlp) - Easy-to-use library for R&D at the intersection of Deep Learning on Graphs and Natural Language Processing.
 - [GNNs Recipe](https://github.com/dair-ai/GNNs-Recipe) - Recipe to study Graph Neural Networks (GNNs).
 - [GraphiT: Encoding Graph Structure in Transformers (2021)](https://arxiv.org/abs/2106.05667) ([Code](https://github.com/inria-thoth/GraphiT))
+- [Graph Neural Networks with Learnable Structural and Positional Representations (2022)](https://arxiv.org/abs/2110.07875) ([Code](https://github.com/vijaydwivedi75/gnn-lspe))
