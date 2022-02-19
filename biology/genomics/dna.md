@@ -66,3 +66,4 @@
 - [wfmash](https://github.com/ekg/wfmash) - DNA sequence read mapper based on mash distances and the wavefront alignment algorithm.
 - [Sequencing your DNA with a USB dongle and open source code (2021)](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) ([HN](https://news.ycombinator.com/item?id=29695013))
 - [fastq.bio](https://fastq.bio/) - Quickly generate data quality reports for FASTQ files. ([Code](https://github.com/robertaboukhalil/fastq.bio))
+- [A centimeter-long bacterium with DNA compartmentalized in membrane-bound organelles (2022)](https://www.biorxiv.org/content/10.1101/2022.02.16.480423v1) ([Tweet](https://twitter.com/JeanVolland/status/1494766250051784704))

@@ -1,6 +1,6 @@
 # [WebAssembly](https://webassembly.org/)
 
-[Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server.
+[Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library.
 
 ## Links
 

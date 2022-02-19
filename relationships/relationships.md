@@ -2,7 +2,7 @@
 
 Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore conflicts. Try not to argue on same topics and resolve issues when they arise at their root. Truly acknowledge and apologize for mistakes made. Don't be cruel. Treat your partner and everyone with respect.
 
-[All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
+[All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship. [Dr. Ramani](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/) is also great.
 
 ## Notes
 

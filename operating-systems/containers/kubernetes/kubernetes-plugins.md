@@ -71,3 +71,4 @@
 - [Helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml.
 - [apiextensions-apiserver](https://github.com/kubernetes/apiextensions-apiserver) - API server for API extensions like CustomResourceDefinitions.
 - [kube-workspace-operator](https://github.com/refaktory/kube-workspace) - Kubernetes operator that allows managing user-specific, persistent "workspace" pods that can be accessed via SSH.
+- [Kubernetes Operators With ZIO by Josip Grgurica (2022)](https://www.youtube.com/watch?v=Ppw_IkHfqy8)

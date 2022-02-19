@@ -113,3 +113,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) - Utility to transform hast (HTML) to mdast (markdown).
 - [markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python.
 - [mdv](https://github.com/Mermade/mdv) - Markdown (link/image) validator.
+- [Thoughts On Markdown (2022)](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/) ([Tweet](https://twitter.com/kmelve/status/1494688125980798978))

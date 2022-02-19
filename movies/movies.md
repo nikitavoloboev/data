@@ -81,3 +81,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Mind blowing movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sj0szz/mind_blowing_movies/)
 - [What’s your all time favorite movie (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sky9oe/tell_me_whats_your_all_time_favorite_movie/)
 - [True story movies out there that are great (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sl421c/any_true_story_movies_out_there_that_are_really/)
+- [Best movies to watch on shrooms (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sw0rhr/best_movies_to_watch_on_shrooms/)

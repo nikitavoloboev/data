@@ -204,3 +204,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Single dependency stacks](https://brandur.org/fragments/single-dependency-stacks) ([HN](https://news.ycombinator.com/item?id=30274886))
 - [ADR Tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records.
 - [Ask HN: Easiest way to build a CRUD app (2022)](https://news.ycombinator.com/item?id=30320837)
+- [The different types of events in event-driven systems (2022)](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/)

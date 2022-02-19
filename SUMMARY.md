@@ -251,6 +251,7 @@
   - [Clojure](programming-languages/clojure/clojure.md)
     - [Clojure libraries](programming-languages/clojure/clojure-libraries.md)
     - [ClojureScript](programming-languages/clojure/clojurescript.md)
+    - [Babashka](programming-languages/clojure/babashka.md)
   - [Erlang](programming-languages/erlang/erlang.md)
   - [Elixir](programming-languages/elixir/elixir.md)
     - [Elixir libraries](programming-languages/elixir/elixir-libraries.md)
