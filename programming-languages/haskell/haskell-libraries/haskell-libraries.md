@@ -70,6 +70,7 @@
 ## Crypto
 
 - [lol](https://github.com/cpeikert/Lol) - Functional Lattice Cryptography.
+- [haskell-crypto](https://github.com/serokell/haskell-crypto) - High-level cryptography for Haskell.
 
 ## Other
 

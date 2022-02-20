@@ -89,3 +89,4 @@
 - [PixiJS](https://pixijs.com/) - HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. ([Code](https://github.com/pixijs/pixijs)) ([Learning Pixi](https://github.com/kittykatattack/learningPixi))
 - [webgl-operate](https://github.com/cginternals/webgl-operate) - TypeScript based WebGL rendering framework.
 - [math.gl](https://github.com/uber-web/math.gl) - 3D/WebGL math library.
+- [Fake 3D Image Effect with WebGL](https://github.com/akella/fake3d) - Interactive "fake" 3D effect for images with plain WebGL.

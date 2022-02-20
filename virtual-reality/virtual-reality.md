@@ -67,3 +67,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Immers Space](https://web.immers.space/) - Seeks to free the Immersive Web from the pitfalls of the social media era by using a decentralized model based on open Web standards.
 - [Hotham](https://github.com/leetvr/hotham) - Framework for creating incredible standalone VR experiences.
 - [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
+- [Mondradiko](https://github.com/mondradiko/mondradiko) - Future-proof VR engine for creating multiplayer virtual reality experiences.

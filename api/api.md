@@ -339,3 +339,4 @@
 - [Sphinx AutoAPI](https://github.com/readthedocs/sphinx-autoapi) - New approach to API documentation in Sphinx.
 - [OpenAPI Codegen](https://github.com/fabien0102/openapi-codegen) - Tool for generating code base on an OpenAPI schema.
 - [API design guidelines](https://twitter.com/markdalgleish/status/1494591964934668289)
+- [Oxide Computer generated third party Rust API clients](https://github.com/oxidecomputer/third-party-api-clients)

@@ -214,3 +214,4 @@
 - [Journal of Graphics Tools](https://github.com/erich666/jgt-code)
 - [Awesome Voxel](https://github.com/meshula/awesome-voxel)
 - [nsdf](https://github.com/janivanecky/nsdf)
+- [The Fastest GIF Does Not Exist (2022)](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)

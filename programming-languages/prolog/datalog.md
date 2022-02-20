@@ -25,3 +25,4 @@
 - [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust.
 - [Datalog Racket package](https://github.com/racket/datalog)
 - [datalog-ts](https://github.com/vilterp/datalog-ts) - Datalog interpreter and UI in TypeScript. ([Web](https://datalog-typechecker.netlify.app/))
+- [Is Datalog a good language for authorization? (2022)](https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/)

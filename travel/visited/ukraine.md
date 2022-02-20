@@ -29,3 +29,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying Crimea.
 - [HN: U.S. weighs sending 5k troops to Eastern Europe to counter Russia (2022)](https://news.ycombinator.com/item?id=30056098)
 - [What will happen if Russia invades Ukraine? (2022)](https://www.reddit.com/r/slatestarcodex/comments/sru30j/what_will_happen_if_russia_invades_ukraine/)
 - [The Plot to Destroy Ukraine (2022)](https://static.rusi.org/special-report-202202-ukraine-web.pdf) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/))
+- [Мюнхенская речь Зеленского (2022)](https://www.youtube.com/watch?v=0YDps3cmUVo)

@@ -73,3 +73,4 @@
 - [fastws](https://github.com/dgrr/fastws) - Fast WebSocket implementation for fasthttp and net/http. Supporting concurrent R/W operations by default.
 - [Server-Sent Events: the alternative to WebSockets you should be using (2022)](https://germano.dev/sse-websockets/) ([HN](https://news.ycombinator.com/item?id=30312897)) ([Code](https://github.com/tyrion/sse-websockets-demo))
 - [StableSocket](https://github.com/github/stable-socket) - Web socket that reconnects.
+- [Server-Sent Events, WebSockets, and HTTP (2022)](https://www.mnot.net/blog/2022/02/20/websockets) ([HN](https://news.ycombinator.com/item?id=30403438))

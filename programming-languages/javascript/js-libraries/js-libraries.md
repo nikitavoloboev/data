@@ -65,6 +65,7 @@
 - [Xeact](https://github.com/Xe/Xeact) - Revolutionary Femtoframework For High Efficiency JavaScript Development. ([Article](https://christine.website/blog/xeact-0.0.69-2021-11-18))
 - [$mol](https://github.com/hyoo-ru/mam_mol) - Fastest reactive micro-modular compact flexible lazy ui web framework.
 - [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library.
+- [Gestalt](https://github.com/gestaltjs/gestalt) - Modern opinionated and batteries-included NodeJS framework for building web sites and apps.
 
 ## Animation
 

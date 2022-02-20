@@ -22,3 +22,4 @@
 - [Worldle](https://worldle.teuteuf.fr/) - Guess a country. ([Tweet](https://twitter.com/FintanYTWalsh/status/1492466778370453510)) ([HN](https://news.ycombinator.com/item?id=30367906)) ([Code](https://github.com/teuteuf/worldle))
 - [Oilslick](http://mrgris.com/projects/oilslick/) - Elevation map showing fine detail in terrain.
 - [Brilliant Maps](https://brilliantmaps.com/) - Making Sense Of The World, One Map At A Time.
+- [MapFight](https://mapfight.xyz/) - Compare the size of countries, regions and cities.

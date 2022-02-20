@@ -38,3 +38,4 @@ Concurrency is the composition of independently executing computations.
 - [Concurrency in modern programming languages](https://deepu.tech/concurrency-in-modern-languages/) ([Code](https://github.com/deepu105/concurrency-benchmarks))
 - [Communicating Sequential Processes (CSP) (1978)](http://usingcsp.com/) ([PDF](https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf)) ([Go Code](https://github.com/thomas11/csp))
 - [Seamless, Fearless, and Structured Concurrency (2022)](https://verdagon.dev/blog/seamless-fearless-structured-concurrency)
+- [Resources on concurrent PL semantics? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/swxb61/resources_on_concurrent_pl_semantics/)

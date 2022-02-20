@@ -37,7 +37,7 @@
 - [Making the Fennel compiler self-hosting with another compiler (2020)](https://technomancy.us/192)
 - [How to Plan a Luau: Augmenting Lua’s Syntax With Types (2020)](https://medium.com/roblox-tech-blog/how-to-plan-a-luau-augmenting-luas-syntax-with-types-7751a790f0d8) ([HN](https://news.ycombinator.com/item?id=24448364))
 - [Croissant](https://github.com/giann/croissant) - Lua REPL and debugger implemented in Lua.
-- [Fengari](https://github.com/fengari-lua/fengari) - Lua VM written in JS ES6 for Node and the browser. ([Web](https://fengari.io/))
+- [Fengari](https://github.com/fengari-lua/fengari) - Lua for the Browser. ([Web](https://fengari.io/)) ([HN](https://news.ycombinator.com/item?id=30404104))
 - [Lua Style Guide](https://github.com/Olivine-Labs/lua-style-guide)
 - [busted](https://github.com/Olivine-Labs/busted) - Elegant Lua unit testing.
 - [RxLua](https://github.com/bjornbytes/RxLua) - Reactive Extensions for Lua.
@@ -99,3 +99,4 @@
 - [Lua in 100 Seconds (2022)](https://www.youtube.com/watch?v=jUuqBZwwkQw)
 - [Fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic web framework based on Redbean web server.
 - [lua-pb](https://github.com/Neopallium/lua-pb) - Lua Protocol Buffers.
+- [Catwell's Lua playground](https://github.com/catwell/cw-lua) - Store the various Open Source tools, algorithms and libraries I write in Lua.

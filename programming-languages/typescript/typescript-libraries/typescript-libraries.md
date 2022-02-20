@@ -31,6 +31,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
 - [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
 - [FRANXX](https://github.com/egoist/franxx) - Vanilla JavaScript router that works everywhere.
+- [Unrouted](https://github.com/harlan-zw/unrouted) - Minimal, composable router built for speed, portability and DX.
 
 ## Test
 
@@ -337,6 +338,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [mrmime](https://github.com/lukeed/mrmime) - Tiny (2.8kB) and fast utility for getting a MIME type from an extension or filename.
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once.
+- [tiny-decoders](https://github.com/lydell/tiny-decoders) - Type-safe data decoding for the minimalist.
 
 ## Links
 

@@ -289,3 +289,4 @@
 - [FLUTE](https://github.com/microsoft/msrflute) - Federated Learning Utilities and Tools for Experimentation.
 - [evosax](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies.
 - [Neural Processes](https://github.com/wesselb/neuralprocesses) - Framework for composing Neural Processes in Python.
+- [Anomalib](https://github.com/openvinotoolkit/anomalib) - Library for benchmarking, developing and deploying deep learning anomaly detection algorithms.

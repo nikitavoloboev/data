@@ -359,6 +359,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Gauguin](https://github.com/micheleriva/gauguin) - High performances Go server for generating open graph images dynamically.
 - [Livingdocs](https://livingdocs.io/) - Modern Digital Content Creation and Publishing System. ([GitHub](https://github.com/livingdocsIO))
 - [Namechk](https://namechk.com/) - Username, Domain, and Trademark Search.
+- [LinkAce](https://www.linkace.org/) - Your self-hosted bookmark archive. Free and open source. ([Code](https://github.com/Kovah/LinkAce))
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely. ([Web](https://wallabag.org/en))
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
@@ -661,3 +662,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Hidden Tools](https://www.hiddentools.dev/) - Discover a wide collection of unique tools. ([Code](https://github.com/heybereket/hiddentools))
 - [You want HOW MANY years experience?!](https://howoldisit.glitch.me/)
 - [What's your personal productivity tech stack](https://twitter.com/DailyDevTips1/status/1492838765739622404)
+- [One Tooling](https://tooling.one/) - Some dev tools you might find useful. ([Code](https://github.com/egoist/tooling.one))

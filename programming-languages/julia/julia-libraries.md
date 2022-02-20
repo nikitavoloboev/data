@@ -151,6 +151,7 @@
 - [CalculusWithJulia](https://github.com/jverzani/CalculusWithJulia.jl) - Provide notes and features for using Julia to address typical problems from the undergraduate calculus sequence.
 - [StatsPlots](https://github.com/JuliaPlots/StatsPlots.jl) - Statistical plotting recipes for Plots.jl.
 - [FixedPointDecimals](https://github.com/JuliaMath/FixedPointDecimals.jl) - Julia fixed-point decimals built from integers.
+- [AlgebraOfGraphics](https://github.com/JuliaPlots/AlgebraOfGraphics.jl) - Combine ingredients for a plot.
 
 ## NLP
 

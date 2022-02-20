@@ -130,6 +130,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [gin-timeout](https://github.com/gin-contrib/timeout) - Timeout middleware for Gin.
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
 - [CORS gin](https://github.com/gin-contrib/cors) - Gin middleware/handler to enable CORS support.
+- [logger](https://github.com/gin-contrib/logger) - Gin middleware/handler to logger url path using rs/zerolog.
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
@@ -139,6 +140,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [session](https://github.com/fasthttp/session) - Session implementation for fasthttp.
 - [Router](https://github.com/fasthttp/router) - Router implementation for fasthttp.
 - [HTTP2](https://github.com/fasthttp/http2) - HTTP/2 implementation for fasthttp.
+- [fastjsonrpc](https://github.com/serjvanilla/fastjsonrpc) - Fast JSON-RPC 2.0 implementation for fasthttp server.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Buffalo](https://gobuffalo.io/docs/overview)
@@ -273,6 +275,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [gmux](https://github.com/elastic/gmux) - Go library for simultaneously serving net/http and gRPC requests on a single port.
 - [pester](https://github.com/sethgrid/pester) - Go http calls with retries and backoff.
 - [httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r \*http.Request) error.
+- [cleanhttp](https://github.com/hashicorp/go-cleanhttp) - Functions for accessing "clean" Go http.Client values.
 
 ## GraphQL
 

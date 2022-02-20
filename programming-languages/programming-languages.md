@@ -300,7 +300,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Destroy All Values: Designing Deinitialization in Programming Languages (2022)](https://gankra.github.io/blah/deinitialize-me-maybe/)
 - [Why Static Languages Suffer From Complexity (2022)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#) ([Lobsters](https://lobste.rs/s/h7gkoe/why_static_languages_suffer_from))
 - [In defense of complicated programming languages (2022)](https://viralinstruction.com/posts/defense/) ([HN](https://news.ycombinator.com/item?id=30046053))
-- [Bagel](https://github.com/brundonsmith/bagel) - Programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories. ([Article](https://www.brandons.me/blog/the-bagel-language)) ([Update](https://www.brandons.me/blog/bagel-bites))
+- [Bagel](https://github.com/brundonsmith/bagel) - Programming language designed for JavaScript programmers to write reactive UIs, using a paradigm where stateful procedures and pure functions are mutually exclusive categories. ([Article](https://www.brandons.me/blog/the-bagel-language)) ([Update](https://www.brandons.me/blog/bagel-bites)) ([Bagel Bites: Type Refinement](https://www.brandons.me/blog/bagel-bites-refinement))
 - [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/)
 - [SAPP](https://github.com/facebook/sapp) - Post Processor for Facebook Static Analysis Tools.
 - [Concise language to write an interpreter for? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/seu238/concise_language_to_write_an_interpreter_for/)

@@ -631,3 +631,4 @@
 - [Kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing.
 - [Kubernetes based network emulation](https://github.com/google/kne)
 - [Gefyra](https://github.com/Schille/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes.
+- [Digester](https://github.com/google/k8s-digester) - Resolves tags to digests for container and init container images in Kubernetes Pod and Pod template specs.

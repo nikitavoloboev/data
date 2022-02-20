@@ -28,3 +28,4 @@
 - [fastify-cors](https://github.com/fastify/fastify-cors) - Enables the use of CORS in a Fastify application.
 - [fastify-supabase](https://github.com/coopflow/fastify-supabase) - Supabase client initialization and encapsulation in fastify framework.
 - [fastify/session](https://github.com/fastify/session) - Session plugin for fastify.
+- [fastify-autoroutes](https://github.com/GiovanniCardamone/fastify-autoroutes) - Fastest way to map directories to URLs in Fastify.

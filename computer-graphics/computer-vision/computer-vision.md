@@ -575,3 +575,5 @@
 - [AutoInt: Automatic Integration for Fast Neural Volume Rendering (2021)](https://github.com/computational-imaging/automatic-integration)
 - [Learning to Prompt for Vision-Language Models (2021)](https://arxiv.org/abs/2109.01134) ([Code](https://github.com/KaiyangZhou/CoOp))
 - [Summarizing Videos with Attention (2019)](https://arxiv.org/abs/1812.01969) ([Code](https://github.com/ok1zjf/VASNet))
+- [vkit](https://github.com/vkit-dev/vkit) - Toolkit designed for CV (Computer Vision) developers. ([Docs](https://vkit-dev.github.io/))
+- [Generative Adversarial Graph Convolutional Networks for Human Action Synthesis (2021)](https://arxiv.org/abs/2110.11191) ([Code](https://github.com/DegardinBruno/Kinetic-GAN))

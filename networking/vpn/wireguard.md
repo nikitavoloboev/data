@@ -66,3 +66,4 @@
 - [Our User-Mode WireGuard Year · Fly (2022)](https://fly.io/blog/our-user-mode-wireguard-year/) ([HN](https://news.ycombinator.com/item?id=30275905))
 - [WireGuard Linux Code](https://github.com/WireGuard/wireguard-linux)
 - [wesher](https://github.com/costela/wesher) - WireGuard overlay mesh network manager.
+- [Automation for WireGuard VPN tunnels](https://github.com/whitequark/infra-vpn)

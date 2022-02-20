@@ -1,6 +1,6 @@
 # [GitHub actions](https://github.com/features/actions)
 
-[GitHub Actions by Example](https://www.actionsbyexample.com/) is great intro.
+[GitHub Actions by Example](https://www.actionsbyexample.com/) is great intro. [act](https://github.com/nektos/act) is useful for locally testing actions.
 
 ## Other
 
