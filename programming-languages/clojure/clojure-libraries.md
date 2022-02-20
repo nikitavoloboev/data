@@ -41,6 +41,7 @@
 - [porsas](https://github.com/metosin/porsas) - Experimental stuff for going fast with Clojure + JDBC & Async SQL.
 - [EQL](https://github.com/edn-query-language/eql) - Declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
 - [pyramid](https://github.com/lilactown/pyramid) - Library for storing and querying graph data in a Clojure map.
+- [Carmine](https://github.com/ptaoussanis/carmine) - Pure-Clojure Redis client & message queue.
 
 ## ML
 

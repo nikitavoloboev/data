@@ -93,3 +93,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [crispr](https://github.com/yoav-lavi/crispr) - CLI tool allowing to scaffold a project from a template with a .crispr.{toml,json} configuration file.
 - [envy](https://github.com/mre/envy) - Sets environment variables when you enter a directory.
 - [timer](https://github.com/caarlos0/timer) - sleep with progress.
+- [hwatch](https://github.com/blacknon/hwatch) - Modern alternative to the watch command, records the differences in execution results and can check this differences at after.

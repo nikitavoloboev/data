@@ -2,6 +2,7 @@
 
 ## Web
 
+- [aiosonic](https://github.com/sonic182/aiosonic) - Very fast Python asyncio http client.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework and HTTP client for Python asyncio.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
@@ -711,6 +712,8 @@
 - [AwesomeVersion](https://github.com/ludeeus/awesomeversion) - One version package to rule them all, One version package to find them, One version package to bring them all, and in the darkness bind them.
 - [Deepparse](https://github.com/GRAAL-Research/deepparse) - State-of-the-art library for parsing multinational street addresses using deep learning.
 - [Panther](https://github.com/gregyjames/Panther) - High performance python technical analysis library written in Rust and the Numpy C API.
+- [Parsimonious](https://github.com/erikrose/parsimonious) - Fastest arbitrary-lookahead parser written in pure Python.
+- [PyMatting](https://github.com/pymatting/pymatting) - Python Library for Alpha Matting.
 
 ## Links
 

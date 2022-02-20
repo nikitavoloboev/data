@@ -244,6 +244,7 @@
 - [WindowTreatment](https://github.com/ChimeHQ/WindowTreatment) - Tools for happier work with NSWindow.
 - [Programmatic NSWindow Tabbing](https://github.com/DivineDominion/NSWindow-Tabbing)
 - [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) - Swift framework that aims to make Core Audio use less tedious in macOS.
+- [STTextView](https://github.com/krzyzanowskim/STTextView) - TextKit2 text view without NSTextView baggage.
 
 ## Web
 

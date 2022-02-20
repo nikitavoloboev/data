@@ -67,3 +67,4 @@
 - [The UX on this small child is terrible](https://www.mcsweeneys.net/articles/the-ux-on-this-small-child-is-terrible) ([HN](https://news.ycombinator.com/item?id=29798712))
 - [Dadditude](https://www.dadditude.app/) - Self-Care Coaching & Community for Dads. ([HN](https://news.ycombinator.com/item?id=30178571))
 - [Ask HN: How can I make a “kid's computer” today as good as an Apple II? (2022)](https://news.ycombinator.com/item?id=30186091)
+- [Why babies cry in the first three months, how to tell them apart, and what to do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/) ([HN](https://news.ycombinator.com/item?id=30401882))

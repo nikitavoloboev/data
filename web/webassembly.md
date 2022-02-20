@@ -263,3 +263,4 @@
 - [Exception Handling Proposal for WebAssembly](https://github.com/WebAssembly/exception-handling)
 - [create-wasm-app](https://github.com/rustwasm/create-wasm-app) - npm init template for consuming rustwasm pkgs.
 - [s1vm](https://github.com/Neopallium/s1vm) - Fast WebAssembly (wasm) interpreter written in 100% safe Rust.
+- [wasm-util](https://github.com/rsms/wasm-util) - WebAssembly utilities in TS.

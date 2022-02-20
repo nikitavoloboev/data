@@ -479,6 +479,7 @@
 - [RedefStructs.jl](https://github.com/FedericoStra/RedefStructs.jl) - Redefinable structures.
 - [TopOpt](https://github.com/JuliaTopOpt/TopOpt.jl) - Beautifully Julian topology optimization package.
 - [Mixtape.jl](https://github.com/JuliaCompilerPlugins/Mixtape.jl) - Static method overlay and optimization tool with configurable code generation and execution.
+- [TimeseriesPrediction](https://github.com/JuliaDynamics/TimeseriesPrediction.jl) - Prediction of timeseries using methods of nonlinear dynamics and timeseries analysis.
 
 ## Links
 

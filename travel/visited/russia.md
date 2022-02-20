@@ -427,3 +427,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Город председателя Наливкина (2022)](https://holod.media/2022/02/16/gorod-predsedatelya-nalivkina/)
 - [Russian movies you would recommend to a foreigner (2022)](https://www.reddit.com/r/AskARussian/comments/swe18d/what_are_some_of_the_best_russian_movies_you/)
 - [Why Vladimir Putin and his entourage want war (2022)](https://www.economist.com/by-invitation/2022/02/19/alexander-gabuev-writes-from-moscow-on-why-vladimir-putin-and-his-entourage-want-war) ([HN](https://news.ycombinator.com/item?id=30405782))
+- [Михаил Касьянов: из премьеров в оппозиционеры (2020](https://www.youtube.com/watch?v=l8NmPlf2CHM)

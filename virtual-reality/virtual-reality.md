@@ -68,3 +68,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Hotham](https://github.com/leetvr/hotham) - Framework for creating incredible standalone VR experiences.
 - [Jolt Physics](https://github.com/jrouwe/JoltPhysics) - Multi core friendly rigid body physics and collision detection library suitable for games and VR applications.
 - [Mondradiko](https://github.com/mondradiko/mondradiko) - Future-proof VR engine for creating multiplayer virtual reality experiences.
+- [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo) ([HN](https://news.ycombinator.com/item?id=30402020))

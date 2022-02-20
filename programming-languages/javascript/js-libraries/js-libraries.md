@@ -66,6 +66,7 @@
 - [$mol](https://github.com/hyoo-ru/mam_mol) - Fastest reactive micro-modular compact flexible lazy ui web framework.
 - [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library.
 - [Gestalt](https://github.com/gestaltjs/gestalt) - Modern opinionated and batteries-included NodeJS framework for building web sites and apps.
+- [Logux Core](https://github.com/logux/core) - New way to connect client and server. Instead of sending HTTP requests (e.g., AJAX and GraphQL) it synchronizes log of operations between client, server, and other clients.
 
 ## Animation
 

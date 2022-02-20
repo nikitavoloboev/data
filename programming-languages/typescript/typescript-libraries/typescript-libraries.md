@@ -19,6 +19,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Potygen](https://github.com/ivank/potygen) - Postgres SQL Parser and type generator.
 - [sqltyper](https://github.com/akheron/sqltyper) - TypeScript types for raw PostgreSQL queries.
 - [Owl](https://github.com/quirrel-dev/owl) - High-performance, redis-backed job queueing library originally built for Quirrel.
+- [Cuery](https://github.com/Schniz/cuery) - Composable SQL query builder using template literals.
+- [pg-to-ts](https://github.com/danvk/pg-to-ts) - Generate TypeScript interface definitions from your Postgres schema.
 
 ## Web
 

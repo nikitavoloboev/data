@@ -199,3 +199,4 @@
 - [Aserto](https://www.aserto.com/) - Cloud-Native authorization as a service. ([Article](https://www.aserto.com/blog/aserto-the-developer-api-for-permissions-and-rbac-is-open-to-all)) ([HN](https://news.ycombinator.com/item?id=30361262))
 - [Ory](https://www.ory.sh/) - Open Source Identity Solutions For Everyone. ([GitHub](https://github.com/ory)) ([Kubernetes Helm Charts for ORY](https://github.com/ory/k8s))
 - [casbin-rs](https://github.com/casbin/casbin-rs) - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
+- [oauth2l](https://github.com/google/oauth2l) - Simple CLI for interacting with Google API authentication.

@@ -149,6 +149,7 @@
 - [sosa](https://github.com/hammerlab/sosa) - Sane OCaml String API.
 - [ocaml-stdint](https://github.com/andrenth/ocaml-stdint) - Various signed and unsigned integers for OCaml.
 - [Current_incr](https://github.com/ocurrent/current_incr) - Self-adjusting computations.
+- [hlist](https://github.com/keigoi/hlist-ocaml) - Heterogeneously-typed lists for OCaml.
 
 ## Links
 

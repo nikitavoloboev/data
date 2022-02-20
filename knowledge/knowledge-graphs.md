@@ -106,3 +106,4 @@
 - [Logic Tensor Networks (LTN)](https://github.com/logictensornetworks/logictensornetworks) - Neurosymbolic framework that supports querying, learning and reasoning with both rich data and rich abstract knowledge about the world.
 - [kglab](https://github.com/DerwenAI/kglab) - Provides a simple abstraction layer in Python for building knowledge graphs.
 - [Knowledge Graph Toolkit (KGTK)](https://github.com/usc-isi-i2/kgtk)
+- [Awesome Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs)

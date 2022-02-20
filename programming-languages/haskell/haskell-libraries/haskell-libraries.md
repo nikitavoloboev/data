@@ -245,6 +245,7 @@
 - [fastsum](https://github.com/patrickt/fastsum) - Fast open-union type, suitable for 100+ contained alternatives.
 - [co-log-core](https://github.com/co-log/co-log-core) - Core types and functions that power the Haskell `co-log` implementation.
 - [shellmet](https://github.com/kowainik/shellmet) - Out of the shell solution for scripting in Haskell.
+- [summer](https://github.com/SamuelSchlesinger/summer) - Extensible sums and products for Haskell.
 
 ## Notes
 

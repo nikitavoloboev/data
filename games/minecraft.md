@@ -102,3 +102,4 @@
 - [Hajime](https://github.com/Slackadays/Hajime) - Ultimate Minecraft server startup script.
 - [My thoughts on writing a Minecraft server from scratch in Bash](https://sdomi.pl/weblog/15-witchcraft-minecraft-server-in-bash/) ([HN](https://news.ycombinator.com/item?id=30347501)) ([Lobsters](https://lobste.rs/s/rbocxw/my_thoughts_on_writing_minecraft_server))
 - [Minecraft Modern](https://wiki.vg/Main_Page) - Reverse-engineering Minecraft.
+- [Minecraft compiled natively for  Silicon](https://github.com/raphtlw/m1necraft)

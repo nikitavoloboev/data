@@ -577,3 +577,5 @@
 - [Summarizing Videos with Attention (2019)](https://arxiv.org/abs/1812.01969) ([Code](https://github.com/ok1zjf/VASNet))
 - [vkit](https://github.com/vkit-dev/vkit) - Toolkit designed for CV (Computer Vision) developers. ([Docs](https://vkit-dev.github.io/))
 - [Generative Adversarial Graph Convolutional Networks for Human Action Synthesis (2021)](https://arxiv.org/abs/2110.11191) ([Code](https://github.com/DegardinBruno/Kinetic-GAN))
+- [Awesome Image Matting](https://github.com/wchstrife/Awesome-Image-Matting)
+- [Image-to-Markup Generation with Coarse-to-Fine Attention](http://lstm.seas.harvard.edu/latex/) ([Code](https://github.com/harvardnlp/im2markup))

@@ -174,3 +174,4 @@
 - [Structurally-Typed Condition Handling (2022)](https://journal.infinitenegativeutility.com/structurally-typed-condition-handling) ([HN](https://news.ycombinator.com/item?id=30338403))
 - [Type Checking as Calculation (2022)](https://billwadge.com/2022/02/16/type-checking-as-calculation/) ([HN](https://news.ycombinator.com/item?id=30356493))
 - [Agnostic Extensional Type Theory](https://github.com/vrahli/opentt) - Parameterized extensional type theory parameterized by a choice operator, and interpreted by a forcing interpretation parameterized by a modality.
+- [System-F type-checker written in Haskell](https://github.com/sancho20021/system-f-type-checker)

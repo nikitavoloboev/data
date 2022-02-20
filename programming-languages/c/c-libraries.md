@@ -121,3 +121,4 @@
 - [DeviceTree](https://github.com/hack-different/libapplefw) - Minimal code to deal with Apple's DeviceTree format.
 - [IRIS](https://github.com/ORNL/iris) - Unified framework across multiple programming platforms.
 - [NLopt](https://github.com/stevengj/nlopt) - Library for nonlinear local and global optimization, for functions with and without gradient information.
+- [base64](https://github.com/aklomp/base64) - Fast Base64 stream encoder/decoder in C99, with SIMD acceleration.

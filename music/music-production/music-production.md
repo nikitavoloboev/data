@@ -325,3 +325,4 @@
 - [ch0p1n](https://github.com/flujoo/ch0p1n) - Python package for automatic musical composition.
 - [music21](https://github.com/cuthbertLab/music21) - Toolkit for Computational Musicology.
 - [Music theory for nerds (2016)](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/) ([HN](https://news.ycombinator.com/item?id=30358903))
+- [Variable-Length Music Score Infilling via XLNet and Musically Specialized Positional Encoding (2021)](https://arxiv.org/abs/2108.05064) ([Code](https://github.com/reichang182/variable-length-piano-infilling))

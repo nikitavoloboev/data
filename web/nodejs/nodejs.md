@@ -324,3 +324,4 @@
 - [Tumau](https://github.com/etienne-dldc/tumau) - Node HTTP framework written in Typescript.
 - [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [NATS.js](https://github.com/nats-io/nats.js) - Node.js client for the NATS messaging system.
+- [manten](https://github.com/privatenumber/manten) - Lightweight testing library for Node.js.

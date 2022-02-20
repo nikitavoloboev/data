@@ -396,6 +396,8 @@
 - [crypto-hash](https://github.com/malept/crypto-hash) - Rust wrapper for OS-level cryptographic hash functions.
 - [vodozemac](https://github.com/matrix-org/vodozemac) - Rust reimplementation of the functionality of libolm, a cryptographic library used for end-to-end encryption in Matrix.
 - [Blind RSA signatures](https://github.com/jedisct1/rust-blind-rsa-signatures) - Author-blinded RSASSA-PSS RSAE signatures.
+- [RustCrypto: Traits](https://github.com/RustCrypto/traits) - Collection of traits which describe functionality of cryptographic primitives.
+- [RustCrypto: Password Hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs.
 
 ## Linux
 
@@ -445,6 +447,7 @@
 - [HAL](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning.
 - [Cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
 - [tongrams-rs](https://github.com/kampersanda/tongrams-rs) - Rust port of tongrams to index and query large language models in compressed space.
+- [Rust OpenCV bindings](https://github.com/twistedfall/opencv-rust)
 
 ## macOS
 
@@ -1483,6 +1486,8 @@
 - [tz-rs](https://github.com/x-hgg-x/tz-rs) - Pure Rust reimplementation of libc functions localtime, gmtime and mktime. ([Reddit](https://www.reddit.com/r/rust/comments/svvpo3/announcing_tzrs_a_reimplementation_of_libc/))
 - [authenticator-rs](https://github.com/mozilla/authenticator-rs) - Rust library for interacting with CTAP1/CTAP2 Security Keys.
 - [Oneshot](https://github.com/faern/oneshot) - Oneshot Rust channel working both in and between sync and async environments.
+- [smartstring](https://github.com/bodil/smartstring) - Compact inlined strings.
+- [futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators.
 
 ## Cargo Plugins
 

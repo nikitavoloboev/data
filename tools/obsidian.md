@@ -82,6 +82,8 @@
 - [Obsidian Full Calendar](https://github.com/davish/obsidian-full-calendar) - Full Calendar integration for Obsidian.
 - [Remotely Save](https://github.com/fyears/remotely-save) - Unofficial sync plugin for Obsidian.
 - [Find Unlinked Files](https://github.com/Vinzent03/find-unlinked-files) - Find unlinked files (files with no backlinks) and unresolved links.
+- [Quick Jump Plugin](https://github.com/tadashi-aikawa/obsidian-quick-jump-plugin) - Enables you to quickly jump to internal and external links.
+- [Another Quick Switcher Plugin](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 
 ## Themes
 

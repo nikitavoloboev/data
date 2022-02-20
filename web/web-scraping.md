@@ -154,3 +154,4 @@
 - [Hyperlink](https://github.com/Munter/hyperlink) - Detect invalid and inefficient links on your webpages. Works with local files or websites, on the command line and as a node library.
 - [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [Pinterest Web Scraper](https://github.com/SwatiModi/pinterest-web-scraper) - Scraping Visually Similar Images from Pinterest.
+- [gazpacho](https://github.com/maxhumber/gazpacho) - Simple, fast, and modern web scraping library. ([Docs](https://gazpacho.xyz/))
