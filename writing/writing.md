@@ -273,3 +273,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Piece of writing, on the internet (i.e. not a book), that you return to or at least consider foundational](https://twitter.com/redford/status/1255330066151718912)
 - [Putting Ideas into Words (2022)](http://paulgraham.com/words.html) ([HN](https://news.ycombinator.com/item?id=30313438))
 - [Fountain](https://fountain.io/) - Markup language for screenwriting. ([TS lib](https://github.com/jonnygreenwald/Fountain.ts))
+- [Easy trick for telling better stories](https://twitter.com/wes_kao/status/1495065668546408456)

@@ -236,3 +236,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Tokenomics Resource List (2022)](https://twitter.com/packyM/status/1493990833397325824)
 - [There are no other constitutional rights in substance without freedom to transact](https://twitter.com/punk6529/status/1494444624630403083)
 - [Peer-to-peer (crypto) trading networks](https://github.com/taxmeifyoucan/p2p-trading) - Best practices for p2p trading groups.
+- [Token incentives are temporary, used to overcome the hardest part of creating new networks: getting through the “bootstrap” phase](https://twitter.com/cdixon/status/1495066587187093509)

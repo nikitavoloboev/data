@@ -158,3 +158,4 @@
 - [14 Patterns to Ace Any Coding Interview Question (2019)](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [The MEGA Interview Guide](https://github.com/danieldelcore/mega-interview-guide) - MEGA interview guide, JavaSciript, Front End, Comp Sci.
 - [Interview questions to ask your interviewer](https://daveceddia.com/interview-questions-to-ask-company/) ([HN](https://news.ycombinator.com/item?id=30278290))
+- [I’ve done 2,000 interviews. AMA](https://twitter.com/Suhail/status/1494150182392385536)
