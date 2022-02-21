@@ -303,3 +303,4 @@
 - [React Runner](https://github.com/nihgwu/react-runner) - Run your React code on the go.
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React.
 - [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.
+- [React Fast Accordion](https://github.com/ShivamJoker/React-fast-accordion) - Dynamic, fast & zero dependency accordions for React. ([Reddit](https://www.reddit.com/r/reactjs/comments/sxnuli/my_new_library_is_now_out_reactfastaccordion_zero/))

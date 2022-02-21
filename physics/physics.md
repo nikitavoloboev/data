@@ -281,3 +281,4 @@
 - [How Einstein arrived at his theory of general relativity](https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/) ([HN](https://news.ycombinator.com/item?id=30306190))
 - [Why do electrons and protons have charge of exactly the same magnitude? (2022)](https://www.reddit.com/r/AskPhysics/comments/st6zj3/why_do_electrons_and_protons_have_charge_of/)
 - [What actually are electromagnetic waves? (2022)](https://www.reddit.com/r/AskPhysics/comments/stvvw7/what_actually_are_electromagnetic_waves/)
+- [Главная надежда теоретической физики 21 века: Суперсимметрия (2022)](https://www.youtube.com/watch?v=CMusg2Mqsg4)

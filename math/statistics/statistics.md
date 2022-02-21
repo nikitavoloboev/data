@@ -76,7 +76,6 @@
 - [Primer to Probability Theory and Its Philosophy (2020)](http://zhat.io/articles/primer-probability-theory)
 - [Interpretation of confidence intervals and Bayesian credible intervals (2020)](https://thestatsgeek.com/2020/11/21/interpretation-of-frequentist-confidence-intervals-and-bayesian-credible-intervals/) ([HN](https://news.ycombinator.com/item?id=25169595))
 - [Bayesian Analysis with Python book](https://github.com/aloctavodia/BAP)
-- [What are the most important statistical ideas of the past 50 years? (2020)](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/)
 - [Probability Distribution Toolbox](https://github.com/ccanonne/probabilitydistributiontoolbox) - Folklore facts on probability distribution learning, testing, and whatever-ing.
 - [Uncertainty Baselines](https://github.com/google/uncertainty-baselines) - High-quality implementations of standard and SOTA methods on a variety of tasks.
 - [Uncertainty Toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization. ([Tweet](https://twitter.com/YoungseogC/status/1341446222545100801))
@@ -91,7 +90,7 @@
 - [Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/)
 - [Stochastic Processes: From Applications to Theory](https://people.bordeaux.inria.fr/pierre.delmoral/dm-penev.html)
 - [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/) ([HN](https://news.ycombinator.com/item?id=26312904))
-- [What are the most important statistical ideas of the past 50 years? (2021)](http://www.stat.columbia.edu/~gelman/research/unpublished/stat50.pdf) ([HN](https://news.ycombinator.com/item?id=26374788))
+- [What are the most important statistical ideas of the past 50 years? (2020)](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/) ([Article](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/)) ([HN](https://news.ycombinator.com/item?id=26374788)) ([HN](https://news.ycombinator.com/item?id=30417811))
 - [Comments on ML "versus" statistics (2020)](https://sgfin.github.io/2020/01/31/Comments-ML-Statistics/)
 - [Nice Statistics term names (2021)](https://twitter.com/erikbryn/status/1376250955612581890)
 - [Lisp-Stat](https://lisp-stat.dev/) - Environment for Statistical Computing. ([Code](https://github.com/Lisp-Stat/lisp-stat)) ([HN](https://news.ycombinator.com/item?id=26632429))
