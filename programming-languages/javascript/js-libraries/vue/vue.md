@@ -111,3 +111,5 @@
 - [TSConfigs for Vue projects to extend](https://github.com/vuejs/tsconfig)
 - [Algolia module for Nuxt](https://github.com/nuxt-community/algolia-module)
 - [Nuxt Starter Templates](https://github.com/nuxt/starter) - Quickly get started with a minimal Nuxt starter template.
+- [Nuxt Supabase](https://github.com/larbish/supabase-module) - Supabase module for Nuxt.
+- [Nuxt Strapi](https://github.com/nuxt-community/strapi-module) - Strapi Module for Nuxt.

@@ -219,6 +219,7 @@
 - [ODBC-API](https://github.com/pacman82/odbc-api) - Rust ODBC bindings. Open standard to connect to a variety of data sources.
 - [datom-rs](https://github.com/LutrisEng/datom-rs) - Open-source database inspired by Datomic.
 - [diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation.
+- [SQLite](https://github.com/stainless-steel/sqlite) - Provides an interface to SQLite.
 
 ## Video
 
@@ -535,6 +536,7 @@
 - [derive-into-owned](https://github.com/koivunej/derive-into-owned) - Procedural macro for deriving helper methods for types with Cow fields.
 - [derive-where](https://github.com/ModProg/derive-where) - Derive macro to simplify deriving standard and other traits with custom generic type bounds.
 - [expander](https://github.com/drahnr/expander) - Expands a proc-macro into a file, and uses a include! directive in place.
+- [Sugars](https://github.com/GrayJack/sugars) - Nice Rust macros for better writing.
 
 ## Math
 
@@ -1488,6 +1490,12 @@
 - [Oneshot](https://github.com/faern/oneshot) - Oneshot Rust channel working both in and between sync and async environments.
 - [smartstring](https://github.com/bodil/smartstring) - Compact inlined strings.
 - [futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators.
+- [TOM](https://github.com/matklad/tom) - Format-preserving TOML parser in Rust.
+- [ibig](https://github.com/tczajka/ibig-rs) - Big integer library in Rust with good performance.
+- [jod-thread](https://github.com/matklad/jod-thread) - std::thread which joins on drop by default.
+- [TSZ](https://github.com/jeromefroe/tsz-rs) - Crate for time series compression based upon Facebook's Gorilla whitepaper.
+- [rust-charts](https://github.com/nobrayner/rust-charts) - Xstate-like statechart library.
+- [Notan](https://github.com/Nazariglez/notan) - Cross-platform multimedia layer.
 
 ## Cargo Plugins
 

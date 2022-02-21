@@ -200,3 +200,4 @@
 - [goclj](https://github.com/cespare/goclj) - Clojure parsing in Go.
 - [uclj](https://github.com/erdos/uclj) - Small, quick, native Clojure interpreter.
 - [tree-sitter-clojure](https://github.com/sogaiu/tree-sitter-clojure)
+- [Humble Decomposition (2022)](https://tonsky.me/blog/humble-decomposition/) ([HN](https://news.ycombinator.com/item?id=30383442))

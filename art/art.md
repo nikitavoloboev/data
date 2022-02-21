@@ -499,3 +499,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nighthawks by Edward Hopper: Great Art Explained](https://www.youtube.com/watch?v=lKIbT-4UFaE)
 - [Great Art Explained - YouTube](https://www.youtube.com/c/GreatArtExplained/videos)
 - [717 Gigapixel Image of Rembrandt's Nightwatch](https://hyper-resolution.org/view.html?pointer=0.640,0.389&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08) ([HN](https://news.ycombinator.com/item?id=30066078))
+- [Imbued Art](https://www.imbuedart.com/)

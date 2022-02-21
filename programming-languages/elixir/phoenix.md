@@ -73,3 +73,4 @@
 - [Where to (not) use Phoenix LiveView (2021)](https://quatermain32.medium.com/where-to-not-use-phoenix-liveview-7fb5ffb8318b)
 - [LiveBeats: Building a social music app with Phoenix LiveView (2022)](https://fly.io/blog/livebeats/) ([HN](https://news.ycombinator.com/item?id=30177901))
 - [LiveViewJS](https://github.com/floodfx/liveviewjs) - TypeScript back end for LiveView Apps (Phoenix LiveView). ([HN](https://news.ycombinator.com/item?id=30303237))
+- [Petal Boilerplate](https://github.com/petalframework/petal_boilerplate) - Clean install of the latest Phoenix with some extras to get you started.

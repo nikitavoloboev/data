@@ -600,3 +600,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Made in Nigeria](https://github.com/acekyd/made-in-nigeria) - Curation of awesome tools and projects built by Nigerian developers.
 - [Investigations ← Forensic Architecture](https://forensic-architecture.org/)
 - [Ask HN: What are your contrarian views? (2022)](https://news.ycombinator.com/item?id=30322001)
+- [Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/) ([Code](https://github.com/0xf00ff00f/rotator)) ([HN](https://news.ycombinator.com/item?id=30408434))

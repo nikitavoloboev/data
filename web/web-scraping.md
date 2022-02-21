@@ -155,3 +155,4 @@
 - [requests-ip-rotator](https://github.com/Ge0rg3/requests-ip-rotator) - Python library to utilize AWS API Gateway's large IP pool as a proxy to generate pseudo-infinite IPs for web scraping and brute forcing.
 - [Pinterest Web Scraper](https://github.com/SwatiModi/pinterest-web-scraper) - Scraping Visually Similar Images from Pinterest.
 - [gazpacho](https://github.com/maxhumber/gazpacho) - Simple, fast, and modern web scraping library. ([Docs](https://gazpacho.xyz/))
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.

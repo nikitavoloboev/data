@@ -84,3 +84,4 @@
 - [ESP-IoT-Solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
 - [EMQ](https://www.emqx.com/en) - Modern Data Infrastructure for IoT. ([GitHub](https://github.com/emqx)) ([Twitter](https://twitter.com/EMQTech))
 - [thin-edge.io](https://thin-edge.io/) - Open edge framework for lightweight IoT devices. ([Code](https://github.com/thin-edge/thin-edge.io))
+- [Seeed Studio Bazaar](https://www.seeedstudio.com/) - IoT Hardware enabler.

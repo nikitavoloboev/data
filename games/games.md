@@ -140,6 +140,8 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Rustenstein 3D](https://github.com/AdRoll/rustenstein) - Wolfenstein 3D port written in rust. ([Rustenstein 3D: Game programming like it's 1992](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)) ([HN](https://news.ycombinator.com/item?id=30182565))
 - [Swords and Ravens](https://github.com/Longwelwind/swords-and-ravens) - Reimplementation of the board game "A Game of Thrones: The Board Game 2nd Edition".
 - [pacman.c](https://github.com/floooh/pacman.c) - Simple Pacman clone written in C99.
+- [minesweep-rs](https://github.com/cpcloud/minesweep-rs) - Mine sweeping game written in Rust using tui-rs.
+- [Secret multiplayer browser game](https://github.com/leod/catcheb)
 
 ## Awesome games (other)
 
@@ -274,3 +276,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Thank You, Valve (2022)](https://kinduff.com/2022/02/06/thank-you-valve/) ([HN](https://news.ycombinator.com/item?id=30244195))
 - [The Factorio Mindset (2022)](https://www.thediff.co/p/the-factorio-mindset) ([HN](https://news.ycombinator.com/item?id=30302607))
 - [Recommendations for building small gaming PC (2022)](https://twitter.com/ChristianSelig/status/1493619687304966145)
+- [Piepacker](https://piepacker.com/) - Free cloud gaming platform to hangout and play premium retro games with your friends online from any device.

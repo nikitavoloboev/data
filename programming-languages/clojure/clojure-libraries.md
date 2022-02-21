@@ -164,6 +164,8 @@
 - [CLI-matic](https://github.com/l3nz/cli-matic) - Compact, hands-free [sub]command line parsing library for Clojure.
 - [contajners](https://github.com/lispyclouds/contajners) - Idiomatic, data-driven, REPL friendly Clojure client for OCI complaint container engines inspired from Cognitect's AWS client.
 - [clj-docker-client](https://github.com/into-docker/clj-docker-client) - Idiomatic, data-driven, REPL friendly Clojure Docker client inspired from Cognitect's AWS client.
+- [matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for making assertions about nested data structures.
+- [Claypoole](https://github.com/clj-commons/claypoole) - Threadpool tools for Clojure.
 
 ## Links
 

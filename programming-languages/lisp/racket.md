@@ -93,3 +93,5 @@
 - [curly-fn](https://github.com/lexi-lambda/racket-curly-fn) - Meta-language for adding Clojure-style shorthand function literals to arbitrary Racket languages.
 - [functional](https://github.com/lexi-lambda/functional) - Functional interfaces and datatypes for Racket.
 - [Zuo](https://github.com/mflatt/zuo) - Tiny Racket for Scripting.
+- [Why learn Racket? A student's perspective (2022)](https://www.micahcantor.com/blog/why-learn-racket/)
+- [Typed Racket: the good and the bad (2021)](https://www.micahcantor.com/blog/thoughts-typed-racket/) ([HN](https://news.ycombinator.com/item?id=30402408))

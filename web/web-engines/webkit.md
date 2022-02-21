@@ -18,3 +18,4 @@
 - [WebKit: Introducing the layer based SVG engine (2021)](https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/) ([HN](https://news.ycombinator.com/item?id=29067036))
 - [WebKit's proposal for animations (screen updates) with a variable frame rate](https://github.com/WebKit/explainers/tree/main/animation-frame-rate) ([Tweet](https://twitter.com/grorgwork/status/1470776139991982087))
 - [Safari now supports File System Access API with private origin (2022)](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/) ([HN](https://news.ycombinator.com/item?id=30394737))
+- [Introducing the WebKit FTL JIT (2014)](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)

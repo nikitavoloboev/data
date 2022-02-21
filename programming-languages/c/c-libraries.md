@@ -122,3 +122,5 @@
 - [IRIS](https://github.com/ORNL/iris) - Unified framework across multiple programming platforms.
 - [NLopt](https://github.com/stevengj/nlopt) - Library for nonlinear local and global optimization, for functions with and without gradient information.
 - [base64](https://github.com/aklomp/base64) - Fast Base64 stream encoder/decoder in C99, with SIMD acceleration.
+- [cute_headers](https://github.com/RandyGaul/cute_headers) - Various single-file cross-platform C/C++ headers implementing self-contained libraries.
+- [js0n](https://github.com/quartzjer/js0n) - Flexible Zero-Footprint JSON Parser in C.

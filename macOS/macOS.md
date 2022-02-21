@@ -234,3 +234,6 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Running macOS in a Virtual Machine on Apple Silicon Macs](https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs) ([Tweet](https://twitter.com/stroughtonsmith/status/1492535749488619520)) ([HN](https://news.ycombinator.com/item?id=30317260))
 - [Apple Internals](https://github.com/mroi/apple-internals) - Information and tools to understand the internals of Apple’s operating systems.
 - [Apple's custom NVMes are amazingly fast – if you don't care about data integrity (2022)](https://twitter.com/marcan42/status/1494213855387734019) ([HN](https://news.ycombinator.com/item?id=30370551)) ([Reddit](https://www.reddit.com/r/apple/comments/sun6pa/apples_custom_nvme_drives_are_amazingly_fast_if/)) ([Lobsters](https://lobste.rs/s/j5x2pm/apple_s_custom_nvme_drives_are_amazingly))
+- [macOS Packer Templates for Cirrus CI](https://github.com/cirruslabs/osx-images)
+- [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM.
+- [eBPF for Docker Desktop on macOS](https://github.com/singe/ebpf-docker-for-mac)

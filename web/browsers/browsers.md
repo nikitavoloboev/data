@@ -185,3 +185,4 @@
 - [DeploySentinel Recorder](https://github.com/DeploySentinel/Recorder) - Browser extension that generates Playwright and Puppeteer test scripts from your interactions.
 - [tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [Cross-Browser support with Cross-Origin isolation (2022)](https://blog.stackblitz.com/posts/cross-browser-with-coop-coep/)
+- [timesnap](https://github.com/tungs/timesnap) - Node.js program that takes screenshots at smooth intervals of web pages with JavaScript animations.

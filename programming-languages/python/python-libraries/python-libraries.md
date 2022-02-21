@@ -121,6 +121,7 @@
 
 ## DB
 
+- [Danio](https://github.com/strongbugman/danio) - ORM for python asyncio world.
 - [GINO](https://github.com/python-gino/gino) - Not ORM - is a lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio. ([Web](https://python-gino.org/))
 - [SQLModel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.
@@ -714,6 +715,9 @@
 - [Panther](https://github.com/gregyjames/Panther) - High performance python technical analysis library written in Rust and the Numpy C API.
 - [Parsimonious](https://github.com/erikrose/parsimonious) - Fastest arbitrary-lookahead parser written in pure Python.
 - [PyMatting](https://github.com/pymatting/pymatting) - Python Library for Alpha Matting.
+- [better-partial](https://github.com/chrisgrimm/better_partial) - Better partial function application in Python. ([HN](https://news.ycombinator.com/item?id=30405346))
+- [Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way.
+- [imageio](https://github.com/imageio/imageio) - Python library for reading and writing image data.
 
 ## Links
 

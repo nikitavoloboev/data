@@ -660,6 +660,7 @@
   - [OpenGL](computer-graphics/opengl.md)
   - [SVG](computer-graphics/svg.md)
 - [Tools](tools/tools.md)
+  - [XState](tools/xstate.md)
   - [Twitter](tools/twitter.md)
   - [Obsidian](tools/obsidian.md)
   - [Raycast](tools/raycast.md)
@@ -945,3 +946,4 @@
     - [2021 December](looking-back/2021/2021-december.md)
   - 2022
     - [2022 January](looking-back/2022/2022-january.md)
+    - [2022 February](looking-back/2022/2022-february.md)

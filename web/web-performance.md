@@ -150,3 +150,4 @@
 - [Awesome Bundle Size](https://github.com/kristerkari/awesome-bundle-size) - Awesome list of tools and techniques to make your web bundle size smaller and your web apps load faster.
 - [Memory leaks: the forgotten side of web performance (2022)](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/) ([Lobsters](https://lobste.rs/s/zzawym/memory_leaks_forgotten_side_web)) ([HN](https://news.ycombinator.com/item?id=29821899))
 - [Garie](https://garie.netlify.app/) - Open source toolkit to monitor web performance. ([Code](https://github.com/boyney123/garie))
+- [Unlighthouse](https://unlighthouse.dev/) - Scan your entire website with Google Lighthouse. ([Code](https://github.com/harlan-zw/unlighthouse))

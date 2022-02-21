@@ -223,3 +223,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [How I Build (2021)](http://pketh.org/how-i-build.html) ([HN](https://news.ycombinator.com/item?id=29714510))
 - [Inclusive Design](https://www.nngroup.com/articles/inclusive-design/)
 - [IRA Design](https://iradesign.io/) - Free and open-source illustrations for your projects. ([HN](https://news.ycombinator.com/item?id=30332535))
+- [Penpot](https://penpot.app/) - Open-Source design & prototyping platform. ([Code](https://github.com/penpot/penpot)) ([HN](https://news.ycombinator.com/item?id=30407913))

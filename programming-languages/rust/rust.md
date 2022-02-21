@@ -48,7 +48,7 @@
 - [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis.
 - [Rust in 2022 (2018)](https://www.ncameron.org/blog/rust-in-2022/)
 - [Rust 2019: Think Bigger (2018)](http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html)
-- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Web](https://rust-analyzer.github.io/)) ([Architecture](https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md))
+- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Web](https://rust-analyzer.github.io/)) ([Architecture](https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md)) ([Notes](https://github.com/mahdi-frms/rust-analyzer-notes))
 - [Rust at speed — building a fast concurrent database (2018)](https://www.youtube.com/watch?v=s19G6n0UjsM&t=0s)
 - [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
 - [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [Code](https://github.com/integer32llc/rust-playground). ([HN](https://news.ycombinator.com/item?id=23779659))
@@ -708,3 +708,5 @@
 - [Ultimate Rust Crash Course](https://agileperception.com/ultimate_rust_crash_course) ([Code](https://github.com/CleanCut/ultimate_rust_crash_course))
 - [What Is Rust's Hole Purpose? (2022)](http://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/) ([HN](https://news.ycombinator.com/item?id=30386337))
 - [How to Learn Rust with Tim McNamara (2022)](https://www.youtube.com/watch?v=FoNJ5zhL6bQ)
+- [Notes On Module System (2021)](https://matklad.github.io/2021/11/27/notes-on-module-system.html)
+- [Trait object based deserialization in Rust](https://github.com/idubrov/dynser)

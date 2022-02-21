@@ -23,3 +23,4 @@
 - [Unity Asset Store](https://assetstore.unity.com/) - Best Assets for Game Making.
 - [Unity, Weta, and Faceless Platforms (2021)](https://stratechery.com/2021/unity-weta-and-faceless-platforms/)
 - [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)
+- [Ask HN: Why is UI design in Unity so hard? (2022)](https://news.ycombinator.com/item?id=30408868)

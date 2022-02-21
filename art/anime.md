@@ -31,3 +31,4 @@
 - [Anime4K | A High-Quality Real Time Upscaler for Anime Video](https://github.com/bloc97/Anime4K)
 - [MAL Map](https://www.malmap.net/) - Interactive map of anime based on user recommendations. ([Code](https://github.com/platers/MAL-Map)) ([Reddit](https://www.reddit.com/r/dataisbeautiful/comments/s3jybi/oc_an_interactive_map_of_anime_based_on_user/))
 - [Real Cascade U-Nets for Anime Image Super Resolution](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md)
+- [Anime Photography in the Cel Era (2020)](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography) ([HN](https://news.ycombinator.com/item?id=30403219))

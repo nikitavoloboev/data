@@ -140,3 +140,4 @@
 - [Twitch RSS](https://github.com/lzeke0/TwitchRSS) - Web app serving RSS of Twitch broadcasts.
 - [What using RSS feeds feels like (2022)](https://gilest.org/rss-feels.html)
 - [An example of why RSS is useful and important (2022)](https://tech.chrishardie.com/2022/rss-useful-important/) ([HN](https://news.ycombinator.com/item?id=30387879))
+- [RSS to Mail](https://github.com/Julow/rss_to_mail) - Sends an email for every new entries on RSS feeds.

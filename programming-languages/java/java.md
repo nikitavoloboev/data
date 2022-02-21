@@ -105,3 +105,4 @@
 - [Uber JVM Profiler](https://github.com/uber-common/jvm-profiler) - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter.
 - [JDeploy](https://www.jdeploy.com/) - Deploy desktop Java apps as native bundles on Mac, Linux, and Windows. ([HN](https://news.ycombinator.com/item?id=30340503)) ([Code](https://github.com/shannah/jdeploy))
 - [Type You An Actor Runtime For Greater Good! (with Java 17, records, switch expressions and JBang) (2022)](https://evacchi.github.io/java/records/jbang/2022/02/13/type-you-an-actor-runtime-java-17-switch-expressions.html)
+- [The JDK Flight Recorder File Format (2022)](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)

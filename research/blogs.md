@@ -101,6 +101,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Yoshua Wuyts](https://blog.yoshuawuyts.com/)
 - [Steve Ruiz](https://www.steveruiz.me/)
 - [Martin Krasser](https://krasserm.github.io/)
+- [Radu Matei](https://radu-matei.com/)
 
 ## Notes
 

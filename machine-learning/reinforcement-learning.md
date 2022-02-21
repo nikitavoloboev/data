@@ -320,3 +320,4 @@
 - [Representation Learning for Reinforcement Learning](https://github.com/fuyw/RepL4RL)
 - [Deep Reinforcement Learning in The Real World](https://github.com/montrealrobotics/DeepRLInTheWorld)
 - [Solving NP-Hard Problems on Graphs with Extended AlphaGo Zero (2019)](https://arxiv.org/abs/1905.11623) ([Code](https://github.com/xuzijian629/combopt-zero))
+- [The Value Equivalence Principle for Model-Based Reinforcement Learning (2020)](https://arxiv.org/abs/2011.03506) ([Code](https://github.com/RajGhugare19/VE-principle-for-model-based-RL))

@@ -92,3 +92,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Ask HN: How do you deal with getting old and feeling lost? (2022)](https://news.ycombinator.com/item?id=30230620)
 - [A book that says your 30s are not the end.](https://www.reddit.com/r/suggestmeabook/comments/sr13mi/a_book_that_says_your_30s_are_not_the_end/)
 - [What is that people of age 30+ know that’s really hard to teach to people in their 20s or teens?](https://twitter.com/paraschopra/status/1493429452067405831)
+- [Brain doesn't slow down until your 60s – later than we thought](https://www.newscientist.com/article/2308810-your-brain-doesnt-slow-down-until-your-60s-later-than-we-thought/) ([HN](https://news.ycombinator.com/item?id=30394136))

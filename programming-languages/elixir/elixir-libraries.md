@@ -134,6 +134,7 @@
 - [NimblePool](https://github.com/dashbitco/nimble_pool) - Tiny resource-pool implementation for Elixir.
 - [SSHKit](https://github.com/bitcrowd/sshkit.ex) - Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 - [Quark](https://github.com/witchcrafters/quark) - Common combinators for Elixir.
+- [Protox](https://github.com/ahamez/protox) - Fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers.
 
 ## Links
 

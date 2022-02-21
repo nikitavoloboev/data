@@ -428,3 +428,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russian movies you would recommend to a foreigner (2022)](https://www.reddit.com/r/AskARussian/comments/swe18d/what_are_some_of_the_best_russian_movies_you/)
 - [Why Vladimir Putin and his entourage want war (2022)](https://www.economist.com/by-invitation/2022/02/19/alexander-gabuev-writes-from-moscow-on-why-vladimir-putin-and-his-entourage-want-war) ([HN](https://news.ycombinator.com/item?id=30405782))
 - [Михаил Касьянов: из премьеров в оппозиционеры (2020](https://www.youtube.com/watch?v=l8NmPlf2CHM)
+- [Paradise lost? The enduring legacy of a Soviet-era utopian workers’ district](https://www.calvertjournal.com/articles/show/3405/owen-hatherley-avtozavod-workers-paradise-nizhny-novgorod-russia)
+- [Russia and the Curse of Geography (2015)](https://www.theatlantic.com/international/archive/2015/10/russia-geography-ukraine-syria/413248/)

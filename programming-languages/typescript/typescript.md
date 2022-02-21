@@ -229,6 +229,7 @@
 - [An introduction to type programming in TypeScript (2022)](https://www.zhenghao.io/posts/type-programming) ([HN](https://news.ycombinator.com/item?id=30173375))
 - [Dynamic Static Typing In TypeScript (2021)](https://www.smashingmagazine.com/2021/01/dynamic-static-typing-typescript/)
 - [Assertion Functions in TypeScript (2022)](https://mariusschulz.com/blog/assertion-functions-in-typescript) ([Lobsters](https://lobste.rs/s/o40pgt/assertion_functions_typescript))
+- [TypeScript AST Viewer](https://ts-ast-viewer.com/#) ([Code](https://github.com/dsherret/ts-ast-viewer))
 
 ## Images
 

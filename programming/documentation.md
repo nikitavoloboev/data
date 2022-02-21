@@ -30,6 +30,7 @@
 - [Documentation and processes are super important -- don't go for too long without documenting everything -- even at the expense of it being half-baked, and this should be the task of many people are your company. It will save everyone time in the long run.](https://twitter.com/dunkhippo33/status/1453604800180809741)
 - [Your company has a poor documentation culture. Things are slow because people don’t know how things works. Managers start micromanaging because work is slow. Leadership issues mandates. No one likes mandates, but that isn’t the problem. It was poor communication the whole time.](https://twitter.com/bryanl/status/1458160056680189958)
 - [Building something isn't very useful if you don't take the time to explain it to people.](https://twitter.com/armaniferrante/status/1473699131243773967)
+- [Every policy or process doc I write now has a section called “Reasons to Revisit.” It is essentially a reverse success criteria. Rather than a short list of things I would expect to see if the policy was successful.](https://news.ycombinator.com/item?id=30394344)
 
 ## Links
 
@@ -146,3 +147,4 @@
 - [My favorite things about working at companies with a culture of writing](https://founder-fodder.ghost.io/writing-cultures-win/) ([HN](https://news.ycombinator.com/item?id=30361655))
 - [Ask HN: How do you manage your companies knowledge base? (2022)](https://news.ycombinator.com/item?id=30371723)
 - [HonKit](https://github.com/honkit/honkit) - Building beautiful books using Markdown - Fork of GitBook.
+- [The Death of Process (2022)](https://bellmar.medium.com/the-death-of-process-cdb0151a41fe) ([HN](https://news.ycombinator.com/item?id=30394344))

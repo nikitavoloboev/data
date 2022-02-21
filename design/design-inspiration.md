@@ -519,6 +519,7 @@ Here are few more things I liked, design wise.
 - [Patrick Arminio](https://patrick.wtf/)
 - [Neil Sainsbury](https://www.neilwithdata.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
+- [Micah Cantor](https://www.micahcantor.com/)
 - [Fabian De Smet](https://fabiandesmet.com/)
 - [Kyle Mathews](https://bricolage.io/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)

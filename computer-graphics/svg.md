@@ -126,3 +126,4 @@
 - [svg2png-wasm](https://github.com/ssssota/svg2png-wasm) - SVG to PNG converter JS library made with WASM + resvg.
 - [Katachidraw](https://github.com/dai-shi/katachidraw) - SVG based drawing tool and react-native component.
 - [Using mask as clip-path (2022)](https://yuanchuan.dev/using-mask-as-clip-path) ([Tweet](https://twitter.com/razvancaliman/status/1494992764676755461))
+- [oksvg](https://github.com/srwiley/oksvg) - Partial implementation of SVG 2.0 specification in Go.

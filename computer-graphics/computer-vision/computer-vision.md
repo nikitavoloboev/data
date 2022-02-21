@@ -537,7 +537,7 @@
 - [ELSA: Enhanced Local Self-Attention for Vision Transformer (2021)](https://arxiv.org/abs/2112.12786) ([Code](https://github.com/damo-cv/ELSA))
 - [FFCV](https://github.com/libffcv/ffcv) - Fast Forward Computer Vision (and other ML workloads!) ([Web](https://ffcv.io/))
 - [Awesome Vit](https://github.com/open-mmlab/awesome-vit) - Curated list and survey of awesome Vision Transformers.
-- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (2022)](https://nvlabs.github.io/instant-ngp/) ([Code](https://github.com/ashawkey/torch-ngp))
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (2022)](https://nvlabs.github.io/instant-ngp/) ([Code](https://github.com/ashawkey/torch-ngp)) ([Code](https://github.com/yashbhalgat/HashNeRF-pytorch)) ([Video Summary](https://www.youtube.com/watch?v=j8tMk-GE8hY)) ([HN](https://news.ycombinator.com/item?id=30408898))
 - [Road Extraction by Deep Residual U-Net (2017)](https://arxiv.org/abs/1711.10684) ([Code](https://github.com/nikhilroxtomar/Deep-Residual-Unet))
 - [Single-Stage 6D Object Pose Estimation (2019)](https://arxiv.org/abs/1911.08324) ([Code](https://github.com/cvlab-epfl/single-stage-pose))
 - [Visual Task Adaptation Benchmark (VTAB)](https://github.com/google-research/task_adaptation)
@@ -571,7 +571,6 @@
 - [How Do Vision Transformers Work?](https://github.com/xxxnell/how-do-vits-work)
 - [Top 10 Computer Vision Papers of 2021](https://github.com/louisfb01/top-10-cv-papers-2021)
 - [Exploring Sparsity in Image Super-Resolution for Efficient Inference (2021)](https://arxiv.org/abs/2006.09603) ([Code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/SMSR))
-- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding (2022)](https://nvlabs.github.io/instant-ngp/) ([Code](https://github.com/yashbhalgat/HashNeRF-pytorch))
 - [AutoInt: Automatic Integration for Fast Neural Volume Rendering (2021)](https://github.com/computational-imaging/automatic-integration)
 - [Learning to Prompt for Vision-Language Models (2021)](https://arxiv.org/abs/2109.01134) ([Code](https://github.com/KaiyangZhou/CoOp))
 - [Summarizing Videos with Attention (2019)](https://arxiv.org/abs/1812.01969) ([Code](https://github.com/ok1zjf/VASNet))
@@ -579,3 +578,5 @@
 - [Generative Adversarial Graph Convolutional Networks for Human Action Synthesis (2021)](https://arxiv.org/abs/2110.11191) ([Code](https://github.com/DegardinBruno/Kinetic-GAN))
 - [Awesome Image Matting](https://github.com/wchstrife/Awesome-Image-Matting)
 - [Image-to-Markup Generation with Coarse-to-Fine Attention](http://lstm.seas.harvard.edu/latex/) ([Code](https://github.com/harvardnlp/im2markup))
+- [Push-ups with Python, mediapipe and OpenCV](https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351) ([HN](https://news.ycombinator.com/item?id=30402651))
+- [Lama-cleaner: Image inpainting tool powered by LaMa](https://github.com/Sanster/lama-cleaner)

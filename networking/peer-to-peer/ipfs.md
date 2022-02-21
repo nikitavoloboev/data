@@ -85,3 +85,4 @@ I especially like the distinction of distributing content over distributing link
 - [sql.js-ipfs](https://github.com/hcliff/sqlite-ipfs) - SQLite hosted on IPFS.
 - [IPFS crawler](https://github.com/jimmyaxod/ipfscrawl)
 - [Explore the Merkle Forest](https://explore.ipld.io/) - Explore the Merkle Forest from the comfort of your browser. ([Code](https://github.com/ipld/explore.ipld.io))
+- [peer-id](https://github.com/libp2p/js-peer-id) - IPFS Peer ID implementation in JavaScript.

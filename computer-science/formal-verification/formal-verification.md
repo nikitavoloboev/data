@@ -119,3 +119,4 @@
 - [Kimchi: The latest update to Mina’s proof system (2022)](https://minaprotocol.com/blog/kimchi-the-latest-update-to-minas-proof-system) ([HN](https://news.ycombinator.com/item?id=30303903))
 - [Cubicle](http://cubicle.lri.fr/) - Tool that combines model checking algorithms and automatic SMT theorem provers with a powerful invariants inference mechanism. ([Code](https://github.com/cubicle-model-checker/cubicle))
 - [A gentle introduction to automated reasoning (2021)](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)
+- [A Specification of a Note-Taking Program (2022)](https://blog.zdsmith.com/posts/a-specification-of-a-note-taking-program.html) ([Lobsters](https://lobste.rs/s/bqw6g1/specification_note_taking_program))

@@ -147,6 +147,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Theoretical Computer Science for the Working Category Theorist (2022)](https://www.cambridge.org/core/elements/theoretical-computer-science-for-the-working-category-theorist/5F3499D1F326D2D77567AA1041627699)
 - [Topos Theory in a Nutshell](https://math.ucr.edu/home/baez/topos.html) ([HN](https://news.ycombinator.com/item?id=30112547))
 - [Kerodon](https://kerodon.net/) - Online resource for homotopy-coherent mathematics.
+- [Analogies are Functors: A Gentle Introduction to Category Theory (2020)](https://www.hjorthjort.xyz/2020/04/22/similes-as-functors.html)
 
 ## Images
 

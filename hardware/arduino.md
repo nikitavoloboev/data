@@ -38,3 +38,4 @@
 - [Wokwi](https://wokwi.com/) - Online Arduino and ESP32 Simulator.
 - [Fetch for Arduino](https://github.com/instanceofMA/arduino-fetch) - High level HTTP Request Library that gives you a JavaScript fetch like API.
 - [Arduino 6502 Controller](https://github.com/billziss-gh/arduino-6502ctl)
+- [Seeeduino XIAO - Arduino Microcontroller - SAMD21 Cortex M0+](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) ([corne-xiao](https://github.com/lehmanju/corne-xiao))

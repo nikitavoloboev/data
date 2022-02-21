@@ -1,6 +1,6 @@
 # [WebAssembly](https://webassembly.org/)
 
-[Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library.
+[Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library. [WebAssembly Weekly](https://wasmweekly.news/) is good newsletter to stay up to date on WASM.
 
 ## Links
 
@@ -85,7 +85,7 @@
 - [Parcel and Rust: A WASM Romcom (2020)](https://dev.p.ota.to/post/parcel-and-rust-a-wasm-romcom-4kgsjnrdm5t/) ([HN](https://news.ycombinator.com/item?id=23401553))
 - [AssemblyScript Examples](https://github.com/AssemblyScript/examples)
 - [Generating WebAssembly CPU Profiles in Go (2019)](https://agniva.me/wasm/2019/07/25/wasm-cpu-profiles.html)
-- [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly. ([Code](https://github.com/ColinEberhardt/wasmweekly))
+- [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly. ([Code](https://github.com/ColinEberhardt/wasmweekly)) ([Twitter](https://twitter.com/WasmWeekly))
 - [Schism](https://github.com/google/schism) - Experimental compiler from Scheme to WebAssembly.
 - [Rust, WebAssembly, and Javascript Make Three: An FFI Story (2019)](https://www.infoq.com/presentations/rust-webassembly-javascript/)
 - [Rust WebAssembly Workshop](https://github.com/rylev/rust-wasm-workshop)
@@ -264,3 +264,5 @@
 - [create-wasm-app](https://github.com/rustwasm/create-wasm-app) - npm init template for consuming rustwasm pkgs.
 - [s1vm](https://github.com/Neopallium/s1vm) - Fast WebAssembly (wasm) interpreter written in 100% safe Rust.
 - [wasm-util](https://github.com/rsms/wasm-util) - WebAssembly utilities in TS.
+- [KWasm: Semantics of WebAssembly in K](https://github.com/runtimeverification/wasm-semantics)
+- [Building host implementations for WebAssembly interfaces (2022)](https://radu-matei.com/blog/wasm-components-host-implementations/)

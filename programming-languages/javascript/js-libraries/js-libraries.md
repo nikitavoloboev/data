@@ -806,6 +806,10 @@
 - [JSON Schema Faker](https://github.com/json-schema-faker/json-schema-faker) - Use JSON Schema along with fake generators to provide consistent and meaningful fake data for your system.
 - [observable-prerender](https://github.com/asg017/observable-prerender) - Pre-render Observable notebooks for automation.
 - [Browser-FS-Access](https://github.com/GoogleChromeLabs/browser-fs-access) - File System Access API with legacy fallback in the browser.
+- [js-libp2p-floodsub](https://github.com/libp2p/js-libp2p-floodsub) - Also known as pubsub-flood or just dumbsub, this implementation of pubsub focused on delivering an API for Publish/Subscribe, but with no CastTree Forming.
+- [js-libp2p-tcp](https://github.com/libp2p/js-libp2p-tcp) - JavaScript implementation of the TCP module that libp2p uses that implements the interface-transport spec.
+- [Title](https://github.com/vercel/title) - Service for capitalizing your title properly.
+- [vercel-toast](https://github.com/2nthony/vercel-toast) - Framework-agnostic vercel design's toast component.
 
 ## Links
 
@@ -861,3 +865,4 @@
 - [Pure ESM package](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c) ([Tweet](https://twitter.com/suchipi/status/1493751398009237506))
 - [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - CLI for the node BundlePhobia Service. Find the cost of adding a npm package to your bundle.
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
+- [lurantis](https://github.com/suchipi/lurantis) - HTTP server that bundles and serves packages from NPM; "bundler as a service."

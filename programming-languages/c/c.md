@@ -211,3 +211,4 @@
 - [Running C unit tests with pytest (2022)](https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html)
 - [A Formal Model of Checked C (2022)](https://arxiv.org/abs/2201.13394) ([HN](https://news.ycombinator.com/item?id=30321535))
 - [C meeting is over. C23 added the following (2022)](https://twitter.com/__phantomderp/status/1494801365297676293) ([HN](https://news.ycombinator.com/item?id=30395016))
+- [I wrote the least-C C program I could (2022)](https://briancallahan.net/blog/20220220.html) ([HN](https://news.ycombinator.com/item?id=30412654))

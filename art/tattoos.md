@@ -12,6 +12,7 @@
 - [Mio](https://www.instagram.com/cochlea1313/)
 - [Angelina (@mimilinism)](https://www.instagram.com/mimilinism/)
 - [Sasha Hain](https://www.instagram.com/ianhain/)
+- [mus.tattoo](https://www.instagram.com/mus.tattoo/)
 
 ## Interesting artists
 

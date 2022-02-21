@@ -70,3 +70,4 @@
 - [Disney Filmmaking Process](https://disneyanimation.com/process/) ([HN](https://news.ycombinator.com/item?id=30241966))
 - [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (2021)](https://arxiv.org/abs/2109.10595) ([Code](https://github.com/YuanxunLu/LiveSpeechPortraits))
 - [Excalidraw Claymate](https://dai-shi.github.io/excalidraw-claymate/) - Tool based on Excalidraw to create stop motion animations and slides. ([Code](https://github.com/dai-shi/excalidraw-claymate))
+- [Любимые Мультфильмы](https://twitter.com/sienduk/status/1495706117489446916)

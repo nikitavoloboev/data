@@ -432,3 +432,4 @@ for i, _ in enumerate(nums):
 - [List of languages that compile to python](https://github.com/vindarel/languages-that-compile-to-python)
 - [pylint-errors](https://github.com/vald-phoenix/pylint-errors) - Curated list of pylint errors with explanation and examples.
 - [How to write better scientific code in Python? (2022)](https://zerowithdot.com/improve-data-science-code/) ([HN](https://news.ycombinator.com/item?id=30397485))
+- [When I'm Sad My Computer Sends Me Cats (2022)](https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat) ([Code](https://github.com/healeycodes/if-sad-send-cat))

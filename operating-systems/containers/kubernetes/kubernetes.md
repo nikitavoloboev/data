@@ -632,3 +632,5 @@
 - [Kubernetes based network emulation](https://github.com/google/kne)
 - [Gefyra](https://github.com/Schille/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes.
 - [Digester](https://github.com/google/k8s-digester) - Resolves tags to digests for container and init container images in Kubernetes Pod and Pod template specs.
+- [kube-review](https://github.com/anderseknert/kube-review) - Create Kubernetes AdmissionReview requests from Kubernetes resources.
+- [ValidKube](https://validkube.com/) - Validate, Clean & Secure Your K8s YAML. ([Code](https://github.com/komodorio/validkube))

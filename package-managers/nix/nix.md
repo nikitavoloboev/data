@@ -296,3 +296,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Makes](https://github.com/fluidattacks/makes) - DevSecOps framework powered by Nix.
 - [Standard](https://github.com/divnix/std) - Opinionated, generic, Nix Flakes framework that will allow you to grow and cultivate Nix Cells with ease.
 - [nix-book](https://github.com/divnix/nix-book) - Nix Package Manager. ([Docs](https://book.divnix.com/))
+- [Nix Flakes: an Introduction (2022)](https://christine.website/blog/nix-flakes-1-2022-02-21) ([Lobsters](https://lobste.rs/s/dmrnqy/nix_flakes_introduction))

@@ -133,6 +133,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [logger](https://github.com/gin-contrib/logger) - Gin middleware/handler to logger url path using rs/zerolog.
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
+- [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
@@ -400,6 +401,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Scribble](https://github.com/sdomino/scribble) - Tiny JSON database in Go.
 - [godb](https://github.com/samonzeweb/godb) - Go SQL query builder and struct mapper.
 - [sqlf](https://github.com/keegancsmith/sqlf) - Generate parameterized SQL statements in Go, sprintf Style.
+- [grocksdb](https://github.com/linxGnu/grocksdb) - RocksDB wrapper for Go.
+- [mssqlx](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight, performant and auto balancing in mind.
 
 ## ML
 
@@ -1341,6 +1344,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Bell](https://github.com/NUTtech/bell) - Simplest event system written in Go which is based on the execution of handlers independent of the main channel.
 - [Shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [smb2](https://github.com/hirochachacha/go-smb2) - SMB2/3 client implementation.
+- [goseaweedfs](https://github.com/linxGnu/goseaweedfs) - Complete Go client for SeaweedFS.
+- [gosmpp](https://github.com/linxGnu/gosmpp) - SMPP Client Library for Go.
+- [gumble](https://github.com/linxGnu/gumble) - Collection of high-performance, thread-safe, lock-free data structures for go.
 
 ## Links
 

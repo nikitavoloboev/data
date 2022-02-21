@@ -384,3 +384,4 @@
 - [The Voids Of Haskell](https://github.com/graninas/The-Voids-Of-Haskell) ([Lobsters](https://lobste.rs/s/o2yrfh/voids_haskell))
 - [Zürich Friends of Haskell](https://zfoh.ch/)
 - [ZuriHac 2022](https://zfoh.ch/zurihac2022/)
+- [About that Reader trick (2022)](https://www.micahcantor.com/blog/about-that-reader-trick/)

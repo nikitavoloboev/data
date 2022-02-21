@@ -48,3 +48,5 @@
 - [ev](https://github.com/henrycunh/ev) - Tool for versioning, securing and easily sharing environment variables.
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 - [konfik](https://github.com/konfik/konfik) - Abstract over configuration with TypeScript. You can think about it like "Terraform for config files".
+- [jinsi](https://github.com/scravy/jinsi) - JSON/YAML homoiconic templating language.
+- [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processing tool.

@@ -108,3 +108,4 @@
 - [ijq](https://github.com/gpanders/ijq) - Interactive jq tool.
 - [jd](https://github.com/josephburnett/jd) - CLI and Go library for diffing and patching JSON values.
 - [What's the Difference: JSON diff and patch](https://github.com/terminusdb/technical-blogs/blob/main/blogs/json_diff_and_patch.md) ([HN](https://news.ycombinator.com/item?id=30362025))
+- [xq](https://github.com/MiSawa/xq) - JQ reimplemented purely in Rust.

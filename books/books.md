@@ -287,6 +287,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books you should read before you die (2022)](https://www.reddit.com/r/suggestmeabook/comments/srgbmy/books_you_should_read_before_you_die/)
 - [Ask HN: What Books Do You Recommend Reading for 2022?](https://news.ycombinator.com/item?id=30358326)
 - [Ask HN: What is your favorite fiction book? (2022)](https://news.ycombinator.com/item?id=30400572)
+- [Ask HN: Recommend a biography? (2022)](https://news.ycombinator.com/item?id=30405924)
 
 ## Interesting Prose Books
 
@@ -327,7 +328,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [JSTOR Open Content Books](https://www.jstor.org/open/) ([Search](https://www.jstor.org/action/doImageSearch))
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
-- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534))
+- [Standard Ebooks](https://standardebooks.org/ebooks/) ([HN](https://news.ycombinator.com/item?id=25138534)) ([GitHub](https://github.com/standardebooks))
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
 - [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
 - [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.
@@ -499,3 +500,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How to easily read 50 books a year](https://www.ramoswriter.com/how-to-read-more/) ([HN](https://news.ycombinator.com/item?id=29905186))
 - [Thoth](https://github.com/thoth-pub/thoth) - Metadata management and dissemination system for Open Access books.
 - [Global Grey ebooks](https://www.globalgreyebooks.com/index.html) - Free public domain ebooks in PDf, ePub, mobi formats. ([HN](https://news.ycombinator.com/item?id=30352207))
+- [Standard Ebooks toolset for producing ebook files](https://github.com/standardebooks/tools)
+- [How a Book Is Made – Ink, Paper and a 200k-Pound Printer (2022)](https://www.nytimes.com/interactive/2022/02/19/books/how-a-book-is-made.html) ([HN](https://news.ycombinator.com/item?id=30407060))

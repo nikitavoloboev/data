@@ -226,6 +226,7 @@
 - [FLCharts](https://github.com/francescoleoni98/FLCharts) - Easy to use and highly customizable charts library for iOS.
 - [Instantiate](https://github.com/tarunon/Instantiate) - Type-safe and constructor injectable InterfaceBuilder protocols.
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface.
+- [Agrume](https://github.com/JanGorman/Agrume) - iOS image viewer written in Swift with support for multiple images.
 
 ## macOS
 
@@ -289,6 +290,7 @@
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture.
 - [TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly.
+- [Sync](https://github.com/nerdsupremacist/Sync) - Real-time Apps the SwiftUI way.
 - [Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ([The future of The ReactiveSwift Composable Architecture](http://michael-brown.net/2021/the-future-of-the-reactiveswift-composable-architecture/))
 - [SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - Contains additional functionality for SwiftUI.
 - [QGrid](https://github.com/Q-Mobile/QGrid) - Missing SwiftUI collection view.
@@ -964,6 +966,7 @@
 - [SwiftPrometheus](https://github.com/MrLotU/SwiftPrometheus) - Prometheus client for Swift.
 - [swift-babab](https://github.com/spevans/swift-babab) - Swift library for Buffers, Arrays, Bits and Bytes.
 - [Diff](https://github.com/soffes/Diff) - Simple diffing library in pure Swift.
+- [swift-json](https://github.com/kelvin13/swift-json) - High-performance JSON parsing in swift.
 
 ## Other (not lib)
 
@@ -1012,3 +1015,4 @@
 - [Swift Package Manager](https://github.com/apple/swift-package-manager)
 - [LicenseKit](https://github.com/danielsaidi/LicenseKit) - Helps you protect your Swift-based apps and libraries with a commercial license.
 - [spmready](https://github.com/StatusQuo/spmready) - Tool to check if all your pods are ready to migrate to swift package manager.
+- [Tuist SwiftLint plugin](https://github.com/tuist/tuist-plugin-lint) - Plugin that extends Tuist with SwiftLint functionalities.

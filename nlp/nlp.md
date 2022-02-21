@@ -491,3 +491,4 @@
 - [bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model.
 - [A Contrastive Framework for Neural Text Generation (2022)](https://arxiv.org/abs/2202.06417) ([Code](https://github.com/yxuansu/SimCTG))
 - [Parallax](https://github.com/uber-research/parallax) - Tool for interactive embeddings visualization.
+- [Serve PyTorch model as an API using AWS + serverless framework](https://github.com/anandsm7/BERT_as_serverless_service)

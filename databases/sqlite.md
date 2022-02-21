@@ -156,3 +156,4 @@
 - [LumoSQL](https://github.com/LumoSQL/lumosql) - Modification of SQLite embedded data storage library. Offers multiple backend storage systems selectable by the user and proposes other integrity and security features.
 - [BFT-SQLITE](https://github.com/davebryson/bftdb) - Tendermint + Sqlite3 = BFT Database Replication.
 - [Litestream Read Replica Demo](https://github.com/benbjohnson/litestream-read-replica-demo) - Demo application for running live read replication on fly.io with Litestream.
+- [Google Drive to SQLite](https://github.com/simonw/google-drive-to-sqlite) - Create a SQLite database containing metadata from Google Drive. ([HN](https://news.ycombinator.com/item?id=30417411))

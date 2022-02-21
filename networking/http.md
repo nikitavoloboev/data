@@ -202,3 +202,4 @@
 - [resto](https://github.com/abdfnx/resto) - CLI app can send pretty HTTP & API requests with TUI.
 - [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server.
 - [Ain](https://github.com/jonaslu/ain) - HTTP API client for the terminal.
+- [Breaking the Rules With Stateful Services (2022)](https://remesh.blog/breaking-the-rules-with-stateful-services-8eb361734d86) ([Lobsters](https://lobste.rs/s/yge0y3/breaking_rules_with_stateful_services))

@@ -185,3 +185,4 @@
 - [manifest-tool](https://github.com/estesp/manifest-tool) - Command line tool to create and query container image manifest list/indexes.
 - [doko](https://github.com/abdfnx/doko) - Docker you know but with TUI.
 - [udocker](https://github.com/indigo-dc/udocker) - Basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
+- [How to optimize the security, size and build speed of Docker images (2022)](https://www.augmentedmind.de/2022/02/20/optimize-docker-image-security/) ([HN](https://news.ycombinator.com/item?id=30406076))

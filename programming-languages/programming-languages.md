@@ -313,3 +313,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Benchmarks of different languages](https://github.com/kostya/benchmarks)
 - [Kcov](https://github.com/SimonKagstrom/kcov) - Code coverage tester for compiled languages, Python and Bash.
 - [CS 152: Programming Languages Course (2022)](https://groups.seas.harvard.edu/courses/cs152/2022sp/) ([Code](https://github.com/HarvardPL/cs152-lecture-code))
+- [Returning Values and Errors (2022)](https://rachelbythebay.com/w/2022/02/20/return/) ([HN](https://news.ycombinator.com/item?id=30409472)) ([Lobsters](https://lobste.rs/s/8dnc9w/returning_values_errors))

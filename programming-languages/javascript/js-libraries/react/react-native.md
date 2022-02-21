@@ -180,3 +180,5 @@
 - [React Native Rich Text Editor](https://github.com/wix/react-native-zss-rich-text-editor) - Based on ZSSRichTextEditor.
 - [React Native Voice](https://github.com/react-native-voice/voice) - React Native Voice Recognition library for iOS and Android (Online and Offline Support).
 - [React Native Colo Loco](https://github.com/jamonholmgren/react-native-colo-loco) - Colocate your native modules and components with your JavaScript/JSX files.
+- [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature-rich modular Firebase implementation for React Native.
+- [Ant Design Mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.

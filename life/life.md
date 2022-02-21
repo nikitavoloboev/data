@@ -109,3 +109,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [What are some harsh realities of life that every man will have to wrestle with at some point? (2022)](https://www.reddit.com/r/AskMen/comments/siluq9/what_are_some_harsh_realities_of_life_that_every/)
 - [Life's 'secret' weapon. What's yours?](https://www.reddit.com/r/fatFIRE/comments/skhjlm/lifes_secret_weapon_whats_yours/)
 - [What advice would you give your younger self? (2022)](https://www.reddit.com/r/fatFIRE/comments/snoet1/what_advice_would_you_give_your_younger_self/)
+- [My favorite essays of life advice (2020)](https://www.benkuhn.net/weeklyessays/)

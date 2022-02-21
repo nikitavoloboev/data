@@ -30,3 +30,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying Crimea.
 - [What will happen if Russia invades Ukraine? (2022)](https://www.reddit.com/r/slatestarcodex/comments/sru30j/what_will_happen_if_russia_invades_ukraine/)
 - [The Plot to Destroy Ukraine (2022)](https://static.rusi.org/special-report-202202-ukraine-web.pdf) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/))
 - [Мюнхенская речь Зеленского (2022)](https://www.youtube.com/watch?v=0YDps3cmUVo)
+- [Why is Ukraine such an economic failure? (2022)](https://noahpinion.substack.com/p/why-is-ukraine-such-an-economic-failure)
+- [Anatomy of a Russian False Flag (2022)](https://twitter.com/EliotHiggins/status/1495355366141534208)

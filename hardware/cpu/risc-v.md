@@ -142,3 +142,4 @@
 - [YARI](https://github.com/tommythorn/yari) - High performance soft core RISC implementation, binary compatible with a subset of MIPS R3000.
 - [32-bit RISC-V Emulator in Rust](https://github.com/MstMoonshine/rv_emu_rs)
 - [Steel](https://github.com/rafaelcalcada/steel-core) - RISC-V processor core that implements the RV32I and Zicsr instruction sets of the RISC-V specifications.
+- [Sail RISC-V model](https://github.com/riscv/sail-riscv) - Formal specification of the RISC-V architecture, written in Sail.

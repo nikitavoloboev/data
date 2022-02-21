@@ -193,7 +193,7 @@ Below is a list of extensions I use.
 
 - [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists. ([Code](https://github.com/neuron-team/vscode-ipe))
 - [VSCode Python Docstring Generator](https://github.com/NilsJPWerner/autoDocstring) - Quickly generate docstrings for python functions.
-- [TypeScript Notebooks](https://marketplace.visualstudio.com/items?itemName=donjayamanne.typescript-notebook) - TypeScript with Jupyter Notebooks. ([Code](https://github.com/DonJayamanne/typescript-notebook))
+- [Node.js Notebooks (REPL)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.typescript-notebook) - Run JavaScript and TypeScript in node.js within VS Code notebooks. ([Code](https://github.com/DonJayamanne/typescript-notebook)) ([HN](https://news.ycombinator.com/item?id=30409432))
 - [Python Dependencies](https://marketplace.visualstudio.com/items?itemName=patrick91.python-dependencies-vscode) - Utilities for managing Python dependencies. ([Code](https://github.com/patrick91/python-dependencies-vscode))
 - [Pyolite](https://marketplace.visualstudio.com/items?itemName=joyceerhl.vscode-pyodide) - Run Python code in Jupyter notebooks. ([Code](https://github.com/joyceerhl/vscode-pyolite)) ([Tweet](https://twitter.com/simonw/status/1450870181585063936))
 - [pylens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-pylens) - Shows the latest version of a dependency in pyproject.toml or requirements.txt. ([Code](https://github.com/ninoseki/vscode-pylens))

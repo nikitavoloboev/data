@@ -490,3 +490,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Dappsys](https://github.com/dapphub/dappsys) - Composable building blocks for Ethereum contracts.
 - [DSProxy](https://github.com/dapphub/ds-proxy) - Execute transactions & sequences of transactions by proxy.
 - [Balancer](https://github.com/balancer-labs/balancer-core) - Automated portfolio manager, liquidity provider, and price sensor.
+- [go-ens](https://github.com/wealdtech/go-ens) - Go module to simplify interacting with the Ethereum Name Service contracts.
+- [Scaffold-ETH Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
+- [Mellow Vaults](https://github.com/mellow-finance/mellow-vaults) - Trustless automatic DeFi strategies.

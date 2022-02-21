@@ -84,3 +84,4 @@
 - [Hefur](https://github.com/abique/hefur) - Standalone C++ BitTorrent tracker.
 - [BTPD](https://github.com/btpd/btpd) - BitTorrent Protocol Daemon.
 - [feedtransmission](https://github.com/lupus78/feedtransmission) - Python script to read RSS/Atom feeds of torrents and add them to Transmission to download.
+- [Torrentinim](https://github.com/sergiotapia/torrentinim) - Self-hosted API-only, low memory footprint, torrent search engine and crawler.

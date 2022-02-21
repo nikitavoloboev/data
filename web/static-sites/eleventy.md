@@ -38,3 +38,4 @@
 - [Eleventy Demo Serverless Auth](https://github.com/11ty/demo-eleventy-serverless-oauth) ([Tweet](https://twitter.com/zachleat/status/1458122880068292611))
 - [Slinkity](https://slinkity.dev/) - Tool for bringing dynamic, clientside interactions to your static 11ty site. ([Code](https://github.com/slinkity/slinkity))
 - [eleventy-plugin-remark](https://github.com/florianeckerstorfer/eleventy-plugin-remark) - Plugin for Eleventy to process Markdown files with Remark.
+- [Eleventy Plugin - MDX](https://github.com/jamshop/eleventy-plugin-mdx)

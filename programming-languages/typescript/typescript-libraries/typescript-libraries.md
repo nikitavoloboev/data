@@ -341,6 +341,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [unionfs](https://github.com/streamich/unionfs) - Use multiple fs modules at once.
 - [tiny-decoders](https://github.com/lydell/tiny-decoders) - Type-safe data decoding for the minimalist.
+- [js-libp2p-bootstrap](https://github.com/libp2p/js-libp2p-bootstrap) - JavaScript libp2p Implementation of the railing process of a Node through a bootstrap peer list.
+- [expressive-glob](https://github.com/Borrus-sudo/expressive-glob) - Write glob patterns in super expressive and an easy way.
 
 ## Links
 

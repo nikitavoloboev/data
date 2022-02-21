@@ -158,6 +158,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Fabian Bösiger's Docs](https://github.com/fabianboesiger/documents)
 - [Juliette Rapala](https://github.com/jrapala/wiki)
 - [Daniel Imfeld's Notes](https://imfeld.dev/notes)
+- [Rikard Hjort's Wiki](https://github.com/hjorthjort/wiki)
 - [Anthony's second brain](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)
 - [neeasade's notes](https://notes.neeasade.net/)
@@ -444,3 +445,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Windi](https://windi.app/) - Knowledge management and sharing platform based on short notes. ([HN](https://news.ycombinator.com/item?id=30302690))
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [AI note garden: link suggestions (2022)](https://smus.com/ai-note-garden-linker/)
+- [My Notebook System](http://ratfactor.com/notes) ([HN](https://news.ycombinator.com/item?id=30395238))

@@ -138,3 +138,4 @@
 - [GeneGrouper](https://github.com/agmcfarland/GeneGrouper) - CLI tool for finding gene clusters in many genomes and placing them in discrete groups based on gene content similarity.
 - [WhatsHap](https://github.com/whatshap/whatshap) - Software for phasing genomic variants using DNA sequencing reads, also called read-based phasing or haplotype assembly.
 - [RNAflow](https://github.com/hoelzer-lab/rnaflow) - Effective and simple RNA-Seq differential gene expression pipeline using Nextflow.
+- [KneadData](https://github.com/biobakery/kneaddata) - Tool designed to perform quality control on metagenomic and metatranscriptomic sequencing data, especially data from microbiome experiments.

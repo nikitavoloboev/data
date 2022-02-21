@@ -67,3 +67,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Best philosophy book you read](https://twitter.com/philosophybites/status/1470326304746655750)
 - [Many Worlds: a philosophy of data collaboration](https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md)
 - [Best books to start reading philosophy? (2022)](https://www.reddit.com/r/suggestmeabook/comments/suawcd/best_books_to_start_reading_philosophy/)
+- [Technical Debt of the West](https://meltingasphalt.com/technical-debt-of-the-west/) ([HN](https://news.ycombinator.com/item?id=30403354))

@@ -110,3 +110,5 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - ["Best" US President since the 80s? (2022)](https://www.reddit.com/r/PoliticalDiscussion/comments/scwv4u/in_your_opinion_who_has_been_the_best_us/)
 - [I read the federal government’s Zero-Trust Memo so you don’t have to (2022)](https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to) ([HN](https://news.ycombinator.com/item?id=30101411))
 - [Infographic: US military presence around the world (2021)](https://www.aljazeera.com/news/2021/9/10/infographic-us-military-presence-around-the-world-interactive)
+- [Ask HN: How does TurboTax get away with dark patterns? (2022)](https://news.ycombinator.com/item?id=30409523)
+- [Americans, what are some things you’d like Europeans to understand? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/sx930u/americans_what_are_some_things_youd_like/)

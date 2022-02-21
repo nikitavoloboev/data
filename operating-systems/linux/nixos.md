@@ -195,3 +195,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Building a Philosophy Workstation with NixOS: Installing Firefox, VSCodium, and LaTeX (2022)](https://shen.hong.io/nixos-for-philosophy-installing-firefox-latex-vscodium/)
 - [nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.
 - [macOS to NixOS the Purely Functional Linux Distribution by Daniel Britten (2022)](https://www.youtube.com/watch?v=SzFn7UwVws0)
+- [Remote, encrypted ZFS storage server with NixOS (2022)](https://mazzo.li/posts/hetzner-zfs.html)

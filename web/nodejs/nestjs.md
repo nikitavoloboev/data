@@ -29,3 +29,4 @@
 - [Nest CQRS](https://github.com/nestjs/cqrs) - Lightweight CQRS module for Nest framework. ([Example](https://github.com/kamilmysliwiec/nest-cqrs-example))
 - [NestJS Google Cloud Pub/Sub Microservice Transport](https://github.com/p-fedyukovich/nestjs-google-pubsub-microservice)
 - [nestjs-console](https://github.com/Pop-Code/nestjs-console) - Nestjs module that provide a cli to your application.
+- [NestJS Crash Course - Build a Complete Backend API (2022)](https://www.youtube.com/watch?v=BiN-xzNkH_0)

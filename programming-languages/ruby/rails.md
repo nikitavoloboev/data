@@ -115,3 +115,4 @@
 - [Dynamic forms with Turbo (2022)](https://thoughtbot.com/blog/dynamic-forms-with-turbo)
 - [Don't make me think, or why I switched to Rails from JavaScript SPAs (2022)](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) ([HN](https://news.ycombinator.com/item?id=30206989))
 - [Lamby](https://github.com/customink/lamby) - Simple Rails & AWS Lambda Integration.
+- [Simply integrating Svelte into Rails (2021)](https://retro.cloud/simply-integrating-svelte-in-rails/)
