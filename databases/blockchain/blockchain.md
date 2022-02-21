@@ -346,3 +346,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Futures Spun And Stolen In The Metaverse](https://www.noemamag.com/line-go-up/) - Art has always been toy money for the rich to play with. We made it faster. ([Tweet](https://twitter.com/timmaughan/status/1494686636659064838))
 - [Toucan Protocol Carbon Bridge](https://toucan.earth/) - Programmable carbon opens new opportunities for a regenerative and distributive economic system.
 - [What’s the best recent thing you’ve seen happening in web3? (2022)](https://twitter.com/cdixon/status/1494480341070876673)
+- [Fweb3](https://fweb3.xyz/) - Learn and build in web3.

@@ -404,3 +404,4 @@ if (
 - [Run JavaScript in WebAssembly](https://github.com/second-state/wasmedge-quickjs) - High-performance, secure, extensible, and OCI-complaint JavaScript runtime for WasmEdge.
 - [Insightful JavaScript Q&A Twitter Thread from Dan Abramov (2022)](https://twitter.com/dan_abramov/status/1492880870499360769)
 - [The State of JS 2021](https://2021.stateofjs.com/en-US/) ([HN](https://news.ycombinator.com/item?id=30357788))
+- [The Story of Asynchronous JavaScript (2022)](https://www.youtube.com/watch?v=rivBfgaEyWQ)

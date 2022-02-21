@@ -59,3 +59,4 @@
 - [Slack Notify - GitHub Action](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel.
 - [Can Slack-mania be cured with systemized discipline?](https://brandur.org/fragments/slack-mania) ([HN](https://news.ycombinator.com/item?id=30356901))
 - [Collection of 1,000+ popular emoji for Slack and Discord](https://github.com/seanprashad/slackmoji)
+- [Hermod](https://github.com/uswitch/hermod) - Tracks deployments as they roll out and posts useful status updates into Slack.

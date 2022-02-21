@@ -88,3 +88,4 @@
 - [syntax](https://github.com/DmitrySoshnikov/syntax) - Syntactic analysis toolkit, language-agnostic parser generator.
 - [ast-builder](https://github.com/rajasegar/ast-builder) - Build your Abstract Syntax Trees (AST) directly by writing code.
 - [Packrat Parsing and Parsing Expression Grammars](https://bford.info/packrat/)
+- [Invertible Parsing: The Problem (2022)](https://www.pointfree.co/episodes/ep178-invertible-parsing-the-problem)

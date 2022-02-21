@@ -2,6 +2,8 @@
 
 ## Example sites
 
+- [Open Source Raid Guild](https://github.com/OpenSourceRaidGuild/website) - Built with Next.js and the "T3 Stack". ([Tweet](https://twitter.com/hybrid_alex/status/1495053117687222275))
+- [Platforms Starter Kit](https://github.com/vercel/platforms) - Template for site builders and low-code tools.
 - [NextJS Starter with NextAuth, Tailwind & Prisma](https://github.com/SaraVieira/next-starter-template)
 - [React Dashboard Design](https://github.com/ofekashery/react-dashboard-design) - Implement of Vercel's Dashboard design in Next.js.
 - [zART-Stack](https://github.com/KATT/zart) - Zero-API, React [Native], & TypeScript.

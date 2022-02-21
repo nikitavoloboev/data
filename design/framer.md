@@ -15,3 +15,5 @@
 - [Framer Community Showcase](https://www.framer.com/showcase/) ([Article](https://www.framer.com/blog/posts/introducing-showcase/))
 - [Framer Motion 3D](https://www.framer.com/docs/three-introduction/)
 - [Framer Motion React Menu Overlay Demo](https://github.com/ainalem/framer-motion-menu-overlay) - Use SVG morphing with Framer Motion to create a menu overlay effect.
+- [Topbar Framer Demo](https://topbar.framer.wiki/) ([Tweet](https://twitter.com/benjaminnathan/status/1485652103372681223))
+- [Sidebar Nav Framer Demo](https://sidebar.framer.wiki/) ([Tweet](https://twitter.com/benjaminnathan/status/1494327633764491265))

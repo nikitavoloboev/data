@@ -1,5 +1,7 @@
 # Physics
 
+[This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics.
+
 ## Notes
 
 - What is energy?
@@ -282,3 +284,4 @@
 - [Why do electrons and protons have charge of exactly the same magnitude? (2022)](https://www.reddit.com/r/AskPhysics/comments/st6zj3/why_do_electrons_and_protons_have_charge_of/)
 - [What actually are electromagnetic waves? (2022)](https://www.reddit.com/r/AskPhysics/comments/stvvw7/what_actually_are_electromagnetic_waves/)
 - [Главная надежда теоретической физики 21 века: Суперсимметрия (2022)](https://www.youtube.com/watch?v=CMusg2Mqsg4)
+- [Resources to self learn physics (2022)](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/)

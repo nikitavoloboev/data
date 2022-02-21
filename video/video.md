@@ -2,6 +2,8 @@
 
 I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are quite outdated).
 
+[Descript](https://www.descript.com/) is amazing for video editing.
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.

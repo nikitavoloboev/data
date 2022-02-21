@@ -30,3 +30,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Notes on Lorayne & Lucas – The Memory Book](http://www.federicopereiro.com/notes-lorayne-lucas-memory/)
 - [Ask HN: How did you move on from past experiences? (2021)](https://news.ycombinator.com/item?id=29748113)
 - [New Map of Meaning in the Brain Changes Ideas About Memory (2022)](https://www.quantamagazine.org/new-map-of-meaning-in-the-brain-changes-ideas-about-memory-20220208/)
+- [Neural Noise Shows the Uncertainty of Our Memories (2022)](https://www.quantamagazine.org/neural-noise-shows-the-uncertainty-of-our-memories-20220118/)

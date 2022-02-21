@@ -120,3 +120,4 @@ I try to give my full attention to any ideas I am working on.
 - [How to explain an idea: a mega post](https://www.markpollard.net/how-to-explain-an-idea/)
 - [Ask HN: What problem do you wish someone would solve? (2022)](https://news.ycombinator.com/item?id=30232853)
 - [Ask HN: What is your “I don't care if this succeeds” project? (2022)](https://news.ycombinator.com/item?id=30283264)
+- [Ask HN: What is something exciting you're working on? (2022)](https://news.ycombinator.com/item?id=30419926)

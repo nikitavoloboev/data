@@ -4,10 +4,14 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 
 ## Interesting ETFs
 
+- [VT](https://finance.yahoo.com/quote/vt/) - Vanguard Total World Stock Index Fund.
 - [VTI](https://finance.yahoo.com/quote/VTI/) - Vanguard Total Stock Market ETF.
-- [VOO](https://finance.yahoo.com/quote/VOO/) - Vanguard S&P 500 ETF.
+- [VOO](https://finance.yahoo.com/quote/VOO/) - Vanguard S&P 500 ETF. ([Reddit](https://www.reddit.com/r/stocks/comments/sxts24/what_would_you_do_if_you_inherited_a_million/hxtysn7/?utm_source=reddit&utm_medium=web2x&context=3))
 - [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) - Vanguard FTSE All-World UCITS ETF USD Accumulation. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
 - [VBILX](https://finance.yahoo.com/quote/VBILX/) - Vanguard Intermediate-Term Bond Index Fund.
+- [VTSAX](https://finance.yahoo.com/quote/VTSAX/) - Vanguard Total Stock Market Index Fund Admiral.
+- [VASGX](https://finance.yahoo.com/quote/vasgx/) - Vanguard LifeStrategy Growth Fund Investor.
+- [VWINX](https://finance.yahoo.com/quote/vwinx/) - Vanguard Wellesley Income Fund Investor.
 - [List of some](https://twitter.com/levelsio/status/1278035707412520968)
 
 ## Notes
