@@ -103,3 +103,4 @@
 - [An efficient circular queue of strings (2018)](https://nitely.github.io/2018/05/16/an-efficient-queue-of-strings.html)
 - [Data Structures in JavaScript](https://github.com/kamranahmedse/datastructures-in-javascript) - Illustrated Data Structures — Video Series.
 - [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/) ([HN](https://news.ycombinator.com/item?id=30376140))
+- [Data Structures in the Fleet Editor (2022)](https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/) ([HN](https://news.ycombinator.com/item?id=30415868))

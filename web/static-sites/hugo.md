@@ -37,6 +37,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Fast, clean, responsive Hugo theme.
 - [Paper](https://github.com/nanxiaobei/hugo-paper) - Simple, clean, flexible Hugo theme.
 - [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Hugo theme for personal blog.
+- [Congo](https://github.com/jpanther/congo) - Powerful, lightweight theme for Hugo built with Tailwind CSS.
 
 ## Examples
 
@@ -70,3 +71,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Hugo Ranked](https://hugoranked.com/) - Hugo Themes ranked by GitHub Stars. ([HN](https://news.ycombinator.com/item?id=28795478))
 - [Run a website off a Google Sheets Database, with Hugo (2021)](https://www.markhansen.co.nz/build-a-website-off-a-google-sheets-database-using-hugo-netlify/) ([Lobsters](https://lobste.rs/s/eu9fjn/run_website_off_google_sheets_database))
 - [How to set up a blog with Hugo and Cloudflare, and why you should (2022)](https://smaller.fish/posts/hugo) ([HN](https://news.ycombinator.com/item?id=30396935))
+- [Nice Cloudflare Blog migration to Hugo (2022)](https://github.com/cloudflare/cloudflare-docs/pull/3609) ([Tweet](https://twitter.com/lukeed05/status/1496620597127696384))

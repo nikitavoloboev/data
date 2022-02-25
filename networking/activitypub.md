@@ -28,3 +28,4 @@
 - [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)
 - [Immers Server](https://github.com/immers-space/immers) - ActivityPub federated social media server for the metaverse.
 - [Towards a Greater Federated Architecture (2022)](https://deadsuperhero.com/new-fediverse-architecture/)
+- [Pubcast](https://github.com/pubcast/pubcast) - ActivityPub based podcasting platform.

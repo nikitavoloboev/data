@@ -25,3 +25,4 @@
 - [Azure Kubernetes Service Issues](https://github.com/Azure/AKS)
 - [MustLearnKQL blog series](https://github.com/rod-trent/MustLearnKQL)
 - [Terraform Provider for Azure Active Directory](https://github.com/hashicorp/terraform-provider-azuread)
+- [Azure Rust Pipelines](https://github.com/crate-ci/azure-pipelines) - Easy continuous integration for Rust projects with Azure Pipelines.

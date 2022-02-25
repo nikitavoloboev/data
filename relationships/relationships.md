@@ -157,3 +157,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What do you love most about women?](https://www.reddit.com/r/AskMen/comments/ssdfkr/what_do_you_love_most_about_women/)
 - [Love Is Biological Bribery](https://nautil.us/love-is-biological-bribery-14058/) ([HN](https://news.ycombinator.com/item?id=30358511))
 - [Why are young men giving up on dating? (2022)](https://www.reddit.com/r/AskMen/comments/sxcvvm/why_are_young_men_giving_up_on_dating/)
+- [What are your deal breakers in dating?](https://www.reddit.com/r/datingoverthirty/comments/szyh4l/what_are_your_deal_breakers/)

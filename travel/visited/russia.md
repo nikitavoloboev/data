@@ -49,6 +49,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Новое модное молодёжное движение известное как права человека.](https://twitter.com/_de1337ed/status/1464870544961064963)
 - [Russia Allows Police to Search Homes, Cars Without Warrants](https://www.reddit.com/r/worldnews/comments/rlnonm/russia_allows_police_to_search_homes_cars_without/)
 - [Бояться нужно не этого. А того, что мы всю жизнь проживем в нищете, деградации. И оставим своим детям это все.](https://twitter.com/Kira_Yarmysh/status/1493580134829416452)
+- [Не тратьте время и силы на ненависть друг к другу. Именно этого и добивается машина пропаганды уже много лет.](https://twitter.com/bardulya/status/1496749131871752194)
 
 ## Links
 
@@ -430,3 +431,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Михаил Касьянов: из премьеров в оппозиционеры (2020](https://www.youtube.com/watch?v=l8NmPlf2CHM)
 - [Paradise lost? The enduring legacy of a Soviet-era utopian workers’ district](https://www.calvertjournal.com/articles/show/3405/owen-hatherley-avtozavod-workers-paradise-nizhny-novgorod-russia)
 - [Russia and the Curse of Geography (2015)](https://www.theatlantic.com/international/archive/2015/10/russia-geography-ukraine-syria/413248/)
+- [Demystifying Putin: US vs. Russia geopolitics – the real story (2022)](https://lt3000.blogspot.com/2022/01/us-vs-russia-geopolitics-real-story.html) ([HN](https://news.ycombinator.com/item?id=30455309))
+- [Arguments for not banning travel](https://twitter.com/dan_abramov/status/1496882928143503362)
+- [Joseph Stalin Explained In 25 Minutes | Stalin Documentary](https://www.youtube.com/watch?v=TUlwALrh0Ak)

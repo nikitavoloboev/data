@@ -10,6 +10,7 @@
 - [Math skills and familiarity with the intermediate micro/macro/metrics coursework are far more important for grad school admissions than the pop economics books on that reading list.](https://www.reddit.com/r/AskEconomics/comments/hc8q1c/ive_read_91_of_the_books_on_the_reconomics/)
 - [Hyperinflation would generally only occur if the US was using "printed money" to pay debt, which it isn't doing. It's using the money to invest in individuals and to create private capital. The theory goes that the money is not just paid back (in the form of tax revenue) but is actually paid back with a positive return.](https://www.reddit.com/r/fatFIRE/comments/mk2fem/10mall_in_index_funds/)
 - [NFTs, cryptocurrencies, and meme stocks are so popular and logic has nothing to do with it. This is an act of desperation in response to current and previous generations rigging the system and hoarding their wealth.](https://twitter.com/kelseyhightower/status/1454841265804091393)
+- [Banks can only deal in the currency of their country. So if someone has US dollars in a bank, that money is in a US bank. EU dollars, in an EU Bank. Just because you might have EU in your US account doesn't mean the money is in a US bank. It's in a EU bank that your US bank is partnered with. Money basically never leaves a countries banking system. This is why sanctions work.](https://www.reddit.com/r/Economics/comments/szs1co/putincrash_moscow_stock_exchange_signs_the_worst/)
 
 ## Links
 

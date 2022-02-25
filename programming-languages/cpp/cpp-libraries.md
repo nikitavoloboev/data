@@ -342,6 +342,8 @@
 - [minicsv](https://github.com/shaovoon/minicsv) - C++ Minimalistic CSV Streams.
 - [two](https://github.com/hugoam/two) - C++ toolkit for rapid development of live graphical apps and games.
 - [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20.
+- [nanobind](https://github.com/wjakob/nanobind) - Seamless operability between C++17 and Python.
+- [thread-pool](https://github.com/DeveloperPaul123/thread-pool) - Simple, functional thread pool implementation using pure C++20.
 
 ## Links
 

@@ -606,7 +606,7 @@
 - [Transforms3d](https://github.com/matthew-brett/transforms3d) - 3 dimensional spatial transformations.
 - [dill](https://github.com/uqfoundation/dill) - Extends python's pickle module for serializing and de-serializing python objects to the majority of the built-in python types.
 - [mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization framework on top of dataclasses.
-- [msgspec](https://github.com/jcrist/msgspec) - Fast and friendly MessagePack library for Python.
+- [msgspec](https://github.com/jcrist/msgspec) - Fast and friendly MessagePack library for Python. ([Docs](https://jcristharif.com/msgspec/))
 - [Cashews](https://github.com/Krukov/cashews) - Cache with async power.
 - [Injector](https://github.com/alecthomas/injector) - Python dependency injection framework, inspired by Guice.
 - [jMetalPy](https://github.com/jMetal/jMetalPy) - Framework for single/multi-objective optimization with metaheuristics.
@@ -718,6 +718,9 @@
 - [better-partial](https://github.com/chrisgrimm/better_partial) - Better partial function application in Python. ([HN](https://news.ycombinator.com/item?id=30405346))
 - [Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way.
 - [imageio](https://github.com/imageio/imageio) - Python library for reading and writing image data.
+- [Fractional Indexing](https://github.com/httpie/fractional-indexing-python) - Fractional indexing is a technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
+- [PyEMD](https://github.com/laszukdawid/PyEMD) - Python implementation of Empirical Mode Decompoisition (EMD) method.
+- [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 
 ## Links
 
@@ -798,3 +801,5 @@
 - [pypistats](https://github.com/hugovk/pypistats) - Command-line interface to PyPI Stats API to get download stats for Python packages.
 - [Python Project Setup – Virtual Environments and Package Management (2022)](https://bas.codes/posts/python-virtualenv-venv-pip-pyenv-poetry)
 - [Python on Nix](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix.
+- [Python template for nix flakes](https://github.com/Quoteme/mach-nix-template) - Simple and straight-forward way to create python environments using PyPi in nix. ([Reddit](https://www.reddit.com/r/NixOS/comments/szm4nh/i_created_a_super_simple_flakenix_template_so_you/))
+- [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator.

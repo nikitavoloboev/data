@@ -186,3 +186,6 @@
 - [doko](https://github.com/abdfnx/doko) - Docker you know but with TUI.
 - [udocker](https://github.com/indigo-dc/udocker) - Basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
 - [How to optimize the security, size and build speed of Docker images (2022)](https://www.augmentedmind.de/2022/02/20/optimize-docker-image-security/) ([HN](https://news.ycombinator.com/item?id=30406076))
+- [Awesome Docker Security](https://github.com/myugan/awesome-docker-security)
+- [Dockerfiler](https://github.com/jbergknoff/Dockerfiler) - Declaratively manage images built from a set of Dockerfiles.
+- [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - Command-line utility to wait for other docker images to be started while using docker-compose.

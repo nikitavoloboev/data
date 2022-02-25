@@ -98,12 +98,15 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [GoMap](https://github.com/bryceco/GoMap) - OpenStreetMap editor for iPhone/iPad.
 - [Magnetar](https://github.com/Qata/Magnetar) - Simple yet powerful file transfer remote for iOS 15 and above.
 - [Pokedex](https://github.com/ronanociosoig/Tuist-Pokedex) - Simple 4-screen iOS app is a Swift code example to demonstrate a micro-feature approach to modularization based on Tuist.
+- [Find You](https://github.com/positive-security/find-you) - Stealth AirTag clone that bypasses all of Apple's tracking protection features. ([HN](https://news.ycombinator.com/item?id=30417303))
+- [Neeva iOS Browser](https://github.com/neevaco/neeva-ios)
 
 ## Other
 
 - [Supercharge](https://www.supercharge.app/) - Offers an innovative tweak editor with dozens of tools to build tweaks without writing a single line of code.
 - [play.js](https://playdotjs.com/) - Node.js and React Native IDE for iPhone and iPad.
 - [CocoaHub](https://cocoahub.app/) - Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
+- [Quick Capture](https://quickcapture.xyz/) - Frictionless note taking on iOS.
 
 ## Notes
 
@@ -411,3 +414,8 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Clutch](https://github.com/KJCracks/Clutch) - High-speed iOS decryption tool.
 - [Туториалы для iOS разработчиков](https://sparrowcode.io/ru)
 - [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x (2022)](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92) ([Code](https://github.com/ronanociosoig/TuistHavana))
+- [iOS kernel heap memory profiler](https://github.com/parsdefense/ios-kernel-heap-profiler) - Watch your iOS kernel heap live as you groom it.
+- [Advanced iOS App Architecture Book](https://www.raywenderlich.com/books/advanced-ios-app-architecture)
+- [I shaved 187MB off United Airlines' 439MB iOS app (2022)](https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/) ([HN](https://news.ycombinator.com/item?id=30442529))
+- [Screen Time: Another Feature That Apple Forgot (2022)](https://ishan.co/screen-time/) ([Lobsters](https://lobste.rs/s/cvzov8/screen_time_another_feature_apple_forgot))
+- [The Travel Focus Mode (2022)](https://matthewbischoff.com/travel-focus-mode/)

@@ -185,7 +185,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Fun with IP address parsing (2020)](https://blog.dave.tf/post/ip-addr-parsing/) ([HN](https://news.ycombinator.com/item?id=25545967)) ([Lobsters](https://lobste.rs/s/fcgrjt/fun_with_ip_address_parsing))
 - [Syntropy Stack](https://www.syntropystack.com/) - The Future of Programmable Networking.
 - [The Atlas for the Aspiring Network Scientist (2021)](https://arxiv.org/abs/2101.00863) ([HN](https://news.ycombinator.com/item?id=25657191))
-- [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Ngrok alternatives and other ngrok-like tunneling software and services.
+- [Awesome Tunneling](https://github.com/anderspitman/awesome-tunneling) - Ngrok alternatives and other ngrok-like tunneling software and services. ([HN](https://news.ycombinator.com/item?id=30443747))
 - [Server-sent events: a simple way to stream events from a server (2021)](https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/)
 - [Mesh Network Lab](https://github.com/mwarning/meshnet-lab) - Emulate mobile ad-hoc mesh networks of hundreds of nodes on a computer.
 - [Connectivity: Wireless & Wired](https://www.electronics-notes.com/articles/connectivity/)
@@ -410,7 +410,9 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Basic Network Troubleshooting (2022)](https://www.netmeister.org/blog/basic-network-troubleshooting.html) ([HN](https://news.ycombinator.com/item?id=30317540))
 - [Foundations of Python Network Programming (2014)](https://link.springer.com/book/10.1007/978-1-4302-5855-1) ([Code](https://github.com/brandon-rhodes/fopnp))
 - [What are your favorite small internet protocols? (2022)](https://lobste.rs/s/uuzx6g/what_are_your_favourite_small_internet)
-- [tubular](https://github.com/cloudflare/tubular) - BSD socket API on steroids.
+- [tubular](https://github.com/cloudflare/tubular) - BSD socket API on steroids. ([Lobsters](https://lobste.rs/s/0ycqqs/cloudflare_tubular_bsd_socket_api_on))
 - [NetBox](https://github.com/netbox-community/netbox) - Infrastructure resource modeling for network automation.
 - [Rosen](https://github.com/awnumar/rosen) - Modular proxy tunnel that encapsulates traffic within a cover protocol to circumvent censorship.
 - [Going IPv6 only (2022)](https://blog.brixit.nl/going-ipv6-only/) ([Lobsters](https://lobste.rs/s/tvk7zh/going_ipv6_only)) ([HN](https://news.ycombinator.com/item?id=30400785))
+- [Pipy](https://github.com/flomesh-io/pipy) - Tiny, high performance, highly stable, programmable proxy.
+- [HTB - DevOops](https://kaizoku.dev/htb-devoops)

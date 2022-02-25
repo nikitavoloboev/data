@@ -62,6 +62,7 @@
 - [Awesome Links](https://github.com/prisma/awesome-links) - Source code for the tutorial series of three parts about building a Full Stack Web application With TypeScript, PostgreSQL, Next.js, Prisma & GraphQL.
 - [Tailwind NextJS Starter Blog](https://github.com/alaq/adrien.sh)
 - [NextJS Postgres Template](https://github.com/jimmylee/www-react-postgres)
+- [Next.js marketing website template for SaaS startups](https://github.com/Blazity/next-saas-starter)
 
 ## NextJS plugins
 
@@ -318,3 +319,4 @@
 - [Most requested Next.js features (2022)](https://twitter.com/leeerob/status/1493775264869863429)
 - [Next.js 12.1: On-demand ISR, SWC support for styled-components, Relay, Jest (2022)](https://nextjs.org/blog/next-12-1) ([HN](https://news.ycombinator.com/item?id=30374819))
 - [On-Demand Incremental Static Regeneration](https://github.com/leerob/on-demand-isr)
+- [Putting test files in the pages folder in a Next.js app (2022)](https://www.benmvp.com/blog/putting-test-files-pages-folder-nextjs-app/) ([Tweet](https://twitter.com/sebastienlorber/status/1496170766043385859))

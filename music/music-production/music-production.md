@@ -62,7 +62,7 @@
 - [LiveCore](https://github.com/ul/livecore) - Hardcore livecoding system for realtime audio synth.
 - [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the Web Audio API.
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software. ([Web](https://lmms.io/))
-- [Ardour](https://ardour.org/) - Digital audio workstation. ([Manual](https://manual.ardour.org/toc/)) ([Manual Code](https://github.com/Ardour/manual))
+- [Ardour](https://ardour.org/) - Digital audio workstation. ([Manual](https://manual.ardour.org/toc/)) ([Manual Code](https://github.com/Ardour/manual)) ([Code](https://github.com/Ardour/ardour))
 - [orenolisp](https://github.com/illiichi/orenolisp) - Structural clojure editor for producing sound using Overtone.
 - [WadJS](https://github.com/rserota/wad) - Web Audio DAW. Use the Web Audio API for dynamic sound synthesis. It's like jQuery for your ears.
 - [JamRTC](https://github.com/lminiero/jamrtc) - WebRTC for Live Musicians. ([HN](https://news.ycombinator.com/item?id=26505059))

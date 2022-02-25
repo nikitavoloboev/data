@@ -67,3 +67,4 @@
 - [Sudachi](https://github.com/WorksApplications/Sudachi) - Japanese morphological analyzer.
 - [Japanese Pronunciation 101: Devoicing (2021)](https://www.youtube.com/watch?v=iYQM7BhJJns)
 - [How Japan saved Tokyo's rail network from collapse (part 1, 1945-1982)](https://seungylee14.substack.com/p/how-japan-saved-tokyos-rail-network) ([HN](https://news.ycombinator.com/item?id=30228327))
+- [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system.

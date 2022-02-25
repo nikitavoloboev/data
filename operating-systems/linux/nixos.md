@@ -196,3 +196,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [nix-deploy](https://github.com/awakesecurity/nix-deploy) - Deploy software or an entire NixOS system configuration to another NixOS system.
 - [macOS to NixOS the Purely Functional Linux Distribution by Daniel Britten (2022)](https://www.youtube.com/watch?v=SzFn7UwVws0)
 - [Remote, encrypted ZFS storage server with NixOS (2022)](https://mazzo.li/posts/hetzner-zfs.html)
+- [Plex on NixOS (2022)](https://arne.me/blog/plex-on-nixos/) ([Lobsters](https://lobste.rs/s/jyoukv/plex_on_nixos))

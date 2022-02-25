@@ -452,3 +452,5 @@ all: unset
 - [CSSUI](https://github.com/zetareticoli/cssui) - Collection of interactive UI components in pure CSS.
 - [Hello, CSS Cascade Layers (2022)](https://ishadeed.com/article/cascade-layers/)
 - [PostCSS Plugins](https://github.com/csstools/postcss-plugins)
+- [A Complete Guide to CSS Cascade Layers (2022)](https://css-tricks.com/css-cascade-layers/)
+- [Things the CSS Spec Folks Got Right (2022)](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/) ([HN](https://news.ycombinator.com/item?id=30460238))

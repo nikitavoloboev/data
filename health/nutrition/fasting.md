@@ -30,3 +30,5 @@ I sometimes do one day fasts but not routinely.
 - [Intermittent fasting in mice improves long-term memory retention (2021)](https://www.kcl.ac.uk/news/intermittent-fasting-in-mice-demonstrably-more-effective-at-promoting-long-term-memory-retention) ([HN](https://news.ycombinator.com/item?id=28768146))
 - [Fasting Improves Physiological and Molecular Markers of Aging (2019)](https://www.cell.com/action/showPdf?pii=S1550-4131%2819%2930429-2) ([HN](https://news.ycombinator.com/item?id=29106941))
 - [Intermittent fasting prompts anti-inflammatory response (2021)](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797) ([HN](https://news.ycombinator.com/item?id=29210352))
+- [First Controlled Human Trial Shows Cutting Calories Improves Health, Longevity (2022)](https://www.reddit.com/r/Futurology/comments/sz7v8h/first_controlled_human_trial_shows_cutting/hy2uolo/)
+- [Caloric restriction in humans reveals immunometabolic regulators of health span (2022)](https://www.science.org/doi/10.1126/science.abg7292) ([HN](https://news.ycombinator.com/item?id=30450307))

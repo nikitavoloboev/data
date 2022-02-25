@@ -142,3 +142,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Healthy soil is key to feeding the world (2022)](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/) ([HN](https://news.ycombinator.com/item?id=29780829))
 - [Cheese Making](https://fankhauserblog.wordpress.com/cheese-making-for-new-folks/)
 - [Foods with the most vertical differentiation / price variation](https://twitter.com/deaneckles/status/1495547614162567170)
+- [Healthy high-calorie foods (2022)](https://www.reddit.com/r/nutrition/comments/syaqyo/what_are_some_healthy_highcalorie_foods/)

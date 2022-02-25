@@ -76,6 +76,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration and paginated preview. ([Code](https://github.com/mb21/panwriter))
 - [lyranos](https://github.com/niklaskorz/lyranos) - Code editor based on druid and tree-sitter.
 - [Stylo](https://github.com/papyrs/stylo) - Another kind of rich text editor.
+- [Yank Note](https://github.com/purocean/yn) - Hackable Markdown Note Application for Programmers.
+- [Ledit](https://github.com/liz3/ledit) - Simple, GPU-rendered, text editor. ([Lobsters](https://lobste.rs/s/loggmc/ledit_simple_gpu_rendered_no_bullsh_t_text)) ([HN](https://news.ycombinator.com/item?id=30447705))
 
 ## Web
 

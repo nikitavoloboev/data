@@ -54,9 +54,11 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Echotron](https://github.com/NicoNex/echotron) - Concurrent library for telegram bots written in pure Go.
 - [teloxide-core](https://github.com/teloxide/teloxide-core) - Tools for making requests to the Telegram Bot API with ease.
 - [shell2telegram](https://github.com/msoap/shell2telegram) - Create Telegram bot from command-line.
+- [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) - C++ library for Telegram bot API.
 
 ## Bots
 
+- [Rose](https://t.me/MissRose_bot) - Powerful telegram bot to help you manage your groups.
 - [Remix](https://github.com/callsmusic/remix) - Operational and exprimental Telegram music bot.
 - [LyAdminBot](https://t.me/LyAdminBot) - Бот для администрирования групп. ([Code](https://github.com/LyoSU/LyAdminBot))
 - [shell-bot](https://github.com/botgram/shell-bot) - Telegram bot that executes commands and sends the live output.
@@ -182,3 +184,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [DIBgram](https://github.com/DIBgram/DIBgram) - Unofficial Telegram web app which looks like Telegram Desktop.
 - [Telegram WebRTC (VoIP)](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers.
 - [Telegram Became the Anti-Facebook (2022)](https://www.wired.com/story/how-telegram-became-anti-facebook/) ([HN](https://news.ycombinator.com/item?id=30267787))
+- [Telegram proxies list](https://twitter.com/BTSLUVBLOG/status/1496746466005733382)

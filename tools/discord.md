@@ -65,6 +65,7 @@
 - [Solaire](https://github.com/wwselleck/solaire-discord) - Lightweight framework for creating discord bots.
 - [Discord.ts](https://github.com/oceanroleplay/discord.ts) - Create a discord bot with TypeScript and Decorators.
 - [discord-rs](https://github.com/SpaceManiac/discord-rs) - Rust library for the Discord chat client API.
+- [discord.v](https://github.com/Terisback/discord.v) - Discord Bot Framework written in V.
 
 ## Notes
 
@@ -113,3 +114,4 @@
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file.
 - [Discord is a black hole for information](https://knockout.chat/thread/33251/1) ([HN](https://news.ycombinator.com/item?id=30311982)) ([Reddit](https://www.reddit.com/r/programming/comments/sr1enx/discord_is_a_black_hole_for_information_knockout/))
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Enhances Discord desktop app with new features.
+- [Building a Discord bot with Kurt Kemple (2022)](https://www.youtube.com/watch?v=xQypJTpI5-U)

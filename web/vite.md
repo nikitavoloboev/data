@@ -30,3 +30,4 @@
 - [vite-plugin-bundled-entry](https://github.com/divriots/vite-plugin-bundled-entry) - Vite plugin that generates a bundled entry file.
 - [bundle-require](https://github.com/egoist/bundle-require) - Bundle and `require` a file, the same way Vite loads `vite.config.ts`.
 - [vite-plugin-mix](https://github.com/egoist/vite-plugin-mix) - Adding backend API to your Vite app.
+- [vite-rtk-query](https://github.com/laststance/vite-rtk-query) - Vite template for React + TypeScript + Redux-toolkit / RTK Query.

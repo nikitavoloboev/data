@@ -31,6 +31,7 @@
 - [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) - Tidy SQL-based DB access library for Scala that naturally wraps JDBC and provides easy-to-use APIs.
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
 - [Slick](https://github.com/slick/slick) - Modern database query and access library for Scala. Allows you to work with stored data almost as if you were using Scala collections. ([Web](https://scala-slick.org/))
+- [redis4cats](https://github.com/profunktor/redis4cats) - Redis client built on top of Cats Effect, Fs2 and Lettuce.
 
 ## Math
 
@@ -149,6 +150,7 @@
 - [ZIO Config](https://github.com/zio/zio-config) - ZIO-based library for working with application configuration data.
 - [Scribe](https://github.com/outr/scribe) - Fastest logging library in the world. Built from scratch in Scala and programmatically configurable.
 - [Emil](https://github.com/eikek/emil) - Library for dealing with E-Mail in Scala.
+- [futil](https://github.com/alexklibisz/futil) - Minimal utilities for Scala Futures.
 
 ## Links
 
@@ -163,3 +165,4 @@
 - [sbt-dotenv](https://github.com/mefellows/sbt-dotenv) - sbt plugin to load environment variables from .env into the JVM System Environment for local development.
 - [sbt-autoversion](https://github.com/sbt/sbt-autoversion) - Builds on the sbt-release and sbt-git plugins to automatically manage the version bump to apply.
 - [sbt-release](https://github.com/sbt/sbt-release) - Customizable release process that you can add to your project.
+- [Sane Scala Dependencies in a Poly-Repo Codebase (2021)](https://alexklibisz.com/2021/01/31/sane-scala-sbt-dependencies.html)

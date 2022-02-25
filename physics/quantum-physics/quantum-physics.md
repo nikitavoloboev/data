@@ -93,3 +93,4 @@
 - [What Is a Quantum Field Theory? (2022)](https://www.cambridge.org/tw/academic/subjects/mathematics/mathematical-physics/what-quantum-field-theory)
 - [Quantum Coarse-Graining: An Information-Theoretic Approach to Thermodynamics (2016)](https://arxiv.org/abs/1607.03104) ([Web](https://phfaist.com/thesis))
 - [Wave function collapse explained (2022)](https://www.reddit.com/r/AskPhysics/comments/sud292/is_my_analogy_on_wave_function_collapse_correct/)
+- [My Quantum Leap (2022)](https://nautil.us/my-quantum-leap-14132/)

@@ -89,3 +89,4 @@
 - [ast-builder](https://github.com/rajasegar/ast-builder) - Build your Abstract Syntax Trees (AST) directly by writing code.
 - [Packrat Parsing and Parsing Expression Grammars](https://bford.info/packrat/)
 - [Invertible Parsing: The Problem (2022)](https://www.pointfree.co/episodes/ep178-invertible-parsing-the-problem)
+- [Tree-sitter ｜ Code Navigation Systems](https://tree-sitter.github.io/tree-sitter/code-navigation-systems) ([Tweet](https://twitter.com/importantshock/status/1496857243043704833))

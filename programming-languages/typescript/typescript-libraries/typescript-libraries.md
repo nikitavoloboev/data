@@ -34,6 +34,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
 - [FRANXX](https://github.com/egoist/franxx) - Vanilla JavaScript router that works everywhere.
 - [Unrouted](https://github.com/harlan-zw/unrouted) - Minimal, composable router built for speed, portability and DX.
+- [mande](https://github.com/posva/mande) - Simple, light and extensible wrapper around fetch with smart defaults.
+- [swrr](https://github.com/maraisr/swrr) - Stale While Revalidated Resources — keeps data fast.
+- [Presencejs](https://github.com/yomorun/presencejs) - JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo.
 
 ## Test
 
@@ -51,6 +54,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## CLI
 
+- [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
 - [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
 
@@ -343,6 +347,11 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tiny-decoders](https://github.com/lydell/tiny-decoders) - Type-safe data decoding for the minimalist.
 - [js-libp2p-bootstrap](https://github.com/libp2p/js-libp2p-bootstrap) - JavaScript libp2p Implementation of the railing process of a Node through a bootstrap peer list.
 - [expressive-glob](https://github.com/Borrus-sudo/expressive-glob) - Write glob patterns in super expressive and an easy way.
+- [exponential-backoff](https://github.com/coveooss/exponential-backoff) - Utility that allows retrying a function with an exponential delay between attempts.
+- [Transform a JSON Schema to Yup Schema](https://github.com/ritchieanesco/json-schema-yup-transform)
+- [tRPC Kitchen Sink](https://github.com/trpc/examples-kitchen-sink)
+- [Rimbu](https://github.com/rimbu-org/rimbu) - TypeScript library focused on immutable, performant, and type-safe collections and other tools.
+- [parallel-park](https://github.com/suchipi/parallel-park) - Parallel/concurrent async work, optionally using multiple processes.
 
 ## Links
 

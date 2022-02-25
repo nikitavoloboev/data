@@ -2,6 +2,8 @@
 
 I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
 
+[cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful.
+
 ## Favorite
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches your current directory for a regex pattern. ([Andrew Gallant, creator of ripgrep - Sourcegraph Podcast (2020)](https://open.spotify.com/episode/1F6oqtDiBuyeYokEAm3dXx?si=YcYYd-NnTGa6XQcNGrFGbw)) ([Lobsters](https://lobste.rs/s/vunje1/burntsushi_talks_about_creating_ripgrep))
@@ -94,3 +96,6 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [envy](https://github.com/mre/envy) - Sets environment variables when you enter a directory.
 - [timer](https://github.com/caarlos0/timer) - sleep with progress.
 - [hwatch](https://github.com/blacknon/hwatch) - Modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [lets-run](https://github.com/egoist/lets-run) - Run a command when a certain file exists, and/or watch files to rerun on changes.
+- [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
+- [zf](https://github.com/natecraddock/zf) - Command line fuzzy finder that prioritizes matches on filenames.

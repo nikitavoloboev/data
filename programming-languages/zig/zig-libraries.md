@@ -85,6 +85,7 @@
 - [zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser for Zig.
 - [inon](https://github.com/iddev5/inon) - Data serialization format in Zig.
 - [nats.zig](https://github.com/nats-io/nats.zig) - Zig Client for NATS.
+- [s2s](https://github.com/ziglibs/s2s) - Zig binary serialization format and library.
 
 ## Links
 

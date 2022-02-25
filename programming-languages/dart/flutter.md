@@ -2,6 +2,7 @@
 
 ## Nice Flutter apps
 
+- [Hacki](https://github.com/Livinglist/Hacki) - Simple Hacker News reader made with Flutter.
 - [Lemmur](https://github.com/krawieck/lemmur) - Mobile Client for Lemmy. Federated Reddit alternative.
 - [Gmail Clone built with Flutter](https://github.com/rodydavis/gmail_clone)
 - [GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git.
@@ -82,3 +83,4 @@
 - [Flutter zoom widget](https://github.com/semakers/zoom-widget) - With this widget you can create a customizable canvas in which you can zoom in flutter.
 - [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 - [Flutter Secure Storage](https://github.com/mogol/flutter_secure_storage) - Flutter plugin to store data in secure storage.
+- [Why Flutter is the most popular cross-platform mobile SDK (2022)](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/) ([HN](https://news.ycombinator.com/item?id=30425988))

@@ -131,6 +131,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [SketchyBar](https://github.com/FelixKratz/SketchyBar) - Highly customizable macOS status bar replacement.
 - [NativeTwitch](https://github.com/Aayush9029/NativeTwitch) - Native Twitch Player.
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro timer for macOS menu bar.
+- [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - macOS GUI for rsync.
 
 ## Other interesting apps
 

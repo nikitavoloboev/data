@@ -22,3 +22,4 @@
 - [v8-deopt-viewer](https://github.com/andrewiggins/v8-deopt-viewer) - View deoptimizations of your JavaScript in V8.
 - [Ask HN: Why new browsers use Chromium instead of Firefox as their base? (2022)](https://news.ycombinator.com/item?id=29900496)
 - [zig-v8](https://github.com/fubark/zig-v8) - Simple V8 builds with C and Zig bindings.
+- [Servo](https://servo.org/) - Parallel web browser written in Rust.

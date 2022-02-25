@@ -148,3 +148,4 @@
 - [Ask HN: How do you manage your companies knowledge base? (2022)](https://news.ycombinator.com/item?id=30371723)
 - [HonKit](https://github.com/honkit/honkit) - Building beautiful books using Markdown - Fork of GitBook.
 - [The Death of Process (2022)](https://bellmar.medium.com/the-death-of-process-cdb0151a41fe) ([HN](https://news.ycombinator.com/item?id=30394344))
+- [Low-Effort, High-Value Documentation (2021)](https://alexklibisz.com/2021/03/07/low-effort-high-value-documentation.html)

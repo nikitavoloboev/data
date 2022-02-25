@@ -663,3 +663,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [You want HOW MANY years experience?!](https://howoldisit.glitch.me/)
 - [What's your personal productivity tech stack](https://twitter.com/DailyDevTips1/status/1492838765739622404)
 - [One Tooling](https://tooling.one/) - Some dev tools you might find useful. ([Code](https://github.com/egoist/tooling.one))
+- [Software I'm Thankful For (2022)](https://www.jowanza.com/blog/2022/2/21/software-im-thankful-for) ([Lobsters](https://lobste.rs/s/ltyyzm/software_i_m_thankful_for))

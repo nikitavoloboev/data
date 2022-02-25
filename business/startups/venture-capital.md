@@ -142,3 +142,4 @@
 - [Ask Anything VC](https://www.askanything.vc/) - Search engine that only indexes VC blogs. ([Tweet](https://twitter.com/yoheinakajima/status/1489742685233582083))
 - [Vibe Capital](https://vibe.vc/) ([Tweet](https://twitter.com/ankurnagpal/status/1494862310044700675))
 - [Shrug VC](https://www.shrug.vc/)
+- [EU Micro VCs (2022)](https://twitter.com/matthewclifford/status/1496795340636368897)

@@ -10,3 +10,4 @@
 - [Database as Code with PlanetScale and Prisma - Taylor Barnett - (Next.js Conf 2021)](https://www.youtube.com/watch?v=5JpKZfPx-1k) ([Code](https://github.com/planetscale/nextjs-conf-2021))
 - [Prisma & PlanetScale Example](https://github.com/2color/prisma-planetscale)
 - [Prisma & PlanetScale Best Practices (2022)](https://www.youtube.com/watch?v=iaHt5_hg44c)
+- [Beam: Simple sharing across your organization](https://planetscale.com/blog/introducing-beam) ([HN](https://news.ycombinator.com/item?id=30446038))

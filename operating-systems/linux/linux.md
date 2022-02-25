@@ -467,3 +467,5 @@
 - [vmsh](https://github.com/Mic92/vmsh) - Shell into a virtualized linux, with your own tools.
 - [A new wave of Linux applications (2022)](https://tuxphones.com/convergent-linux-phone-apps/) ([HN](https://news.ycombinator.com/item?id=30364337))
 - [PipeWire](https://pipewire.org/) - Aims to greatly improve handling of audio and video under Linux. ([HN](https://news.ycombinator.com/item?id=30372257))
+- [Linux Sysops Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) ([HN](https://news.ycombinator.com/item?id=30430594))
+- [A Cursed Bug (2022)](https://blog.nelhage.com/post/a-cursed-bug/) ([Lobsters](https://lobste.rs/s/2tnmq5/cursed_bug))

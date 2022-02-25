@@ -91,3 +91,5 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Conseil](https://github.com/Cryptonomic/Conseil) - Query API and indexer for Tezos and other decentralized platforms.
 - [Beacon SDK](https://github.com/airgap-it/beacon-sdk) - Connect Wallets with dApps on Tezos.
 - [Tezos projects (2022)](https://twitter.com/LukesBeard/status/1490151918483746826)
+- [MicSE](https://github.com/kupl/MicSE) - Tool for automatically verifying and testing Tezos smart contracts written in Michelson.
+- [A six-fold improvement in the Merkle tree storage for Tezos (2022)](https://medium.com/tezedge/prevent-the-loss-of-baking-rewards-with-the-6-times-faster-and-more-stable-tezedge-context-storage-ade5714228b5)

@@ -138,3 +138,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Ask HN: Should I publish my research code? (2022)](https://news.ycombinator.com/item?id=29934192)
 - [Who cares about plagiarism? (2022)](https://www.worksinprogress.co/issue/who-cares-about-plagiarism/) ([HN](https://news.ycombinator.com/item?id=30153759))
 - [We need to talk about RFCs (2022)](https://www.ncameron.org/blog/the-problem-with-rfcs/)
+- [The Hollywood Analogy — science better](https://www.scibetter.com/hollywood) ([Tweet](https://twitter.com/davidtlang/status/1494740604147822596))

@@ -218,3 +218,5 @@
 - [Replace JavaScript Dialogs With New HTML Dialog (2022)](https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/)
 - [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas.
 - [tl](https://github.com/y21/tl) - Fast, zero-copy HTML Parser written in Rust.
+- [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) - Modern and Responsive Academic Personal Homepage.
+- [Pikaso](https://github.com/pikasojs/pikaso) - Seamless and headless HTML5 Canvas library.

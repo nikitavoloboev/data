@@ -70,3 +70,4 @@
 - [Rust & Vulkan test projects](https://github.com/sebbbi/rust_test)
 - [Vulkan Memory Model](https://github.com/KhronosGroup/Vulkan-MemoryModel)
 - [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Loader)
+- [Vulkan & OpenGL CAD Mesh Shader Sample](https://github.com/nvpro-samples/gl_vk_meshlet_cadscene)

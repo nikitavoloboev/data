@@ -138,3 +138,4 @@
 - [Quantum complexity tamed by machine learning (2022)](https://www.quantamagazine.org/quantum-complexity-tamed-by-machine-learning-20220207/) ([HN](https://news.ycombinator.com/item?id=30329110))
 - [Philippe Faist — Lecture Notes](https://phfaist.com/notes)
 - [Hello Many Worlds in Seven Quantum Languages (2021)](https://ionq.com/posts/june-24-2021-hello-many-worlds)
+- [QCEC](https://github.com/iic-jku/qcec) - JKQ tool for Quantum Circuit Equivalence Checking.

@@ -174,6 +174,8 @@ And these Discord servers:
 - [ProPublica](https://www.propublica.org/) - Investigative Journalism and News in the Public Interest.
 - [Royal United Services Institute](https://rusi.org/)
 - [The Calvert Journal](https://www.calvertjournal.com/) - A guide to the New East.
+- [C41 Magazine](https://www.c41magazine.com/)
+- [The War Zone](https://www.thedrive.com/the-war-zone)
 
 ### Other
 
@@ -244,3 +246,4 @@ And these Discord servers:
 - [Ask HN: Where do you hang out virtually online? (2022)](https://news.ycombinator.com/item?id=30149838)
 - [Ask HN: What are some good tech magazines? (2022)](https://news.ycombinator.com/item?id=30206027)
 - [Hacker News Notifications](https://hnn.avci.me/) ([Code](https://github.com/mavci/hn-notifications))
+- [Things you notice when you quit the news (2016)](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/) ([HN](https://news.ycombinator.com/item?id=30430041))

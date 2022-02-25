@@ -56,3 +56,4 @@
 - [Entity Resolution with Opensearch/Elasticsearch (2022)](https://www.jocas.lt/blog/post/entity-resolution/)
 - [Migrating from Solr to Elasticsearch, and their differences (2022)](https://canvatechblog.com/migrating-from-solr-to-elasticsearch-and-their-differences-c08863268c68)
 - [Mirage](https://opensource.appbase.io/mirage/) - GUI for simplifying Elasticsearch Query DSL. ([Code](https://github.com/appbaseio/mirage))
+- [Elastiknn](https://github.com/alexklibisz/elastiknn) - Elasticsearch plugin and Lucene library for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms. ([Web](https://elastiknn.com/))

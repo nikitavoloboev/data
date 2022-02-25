@@ -1,5 +1,9 @@
 # Renewable energy
 
+## Notes
+
+- [Renewables don't provide baseload power when the wind and solar aren't delivering. You need the baseload, which today mostly comes from coal.](https://twitter.com/typesfast/status/1496813697246928897)
+
 ## Links
 
 - [HN: Bill Gates promises to add his own billions if Congress does nuclear power push (2019)](https://news.ycombinator.com/item?id=19008241)
@@ -29,3 +33,4 @@
 - [Geothermal's Path to Relevance: Cheap Drilling (2021)](https://austinvernon.site/blog/drillingplan.html)
 - [Energy Prices are Naturally Turbulent (2021)](https://austinvernon.site/blog/energyturbulence.html)
 - [Electrify Everything is Slow (2021)](https://austinvernon.site/blog/dontelectrify.html)
+- [Gridcognition](https://gridcognition.com/) - Software to help all the players in the energy system navigate the transition to a decentralised and decarbonised energy future.

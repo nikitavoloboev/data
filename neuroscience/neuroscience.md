@@ -103,6 +103,7 @@
 - [Dr. David Berson: Your Brain's Logic & Function (2021)](https://www.youtube.com/watch?v=oC3fhUjg30E)
 - [2021 in review: unsupervised brain models](https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/)
 - [Some neurons are active when adding, others when subtracting](https://www.uni-bonn.de/en/news/028-2022) ([HN](https://news.ycombinator.com/item?id=30363495))
+- [A global timing mechanism regulates cell-type-specific wiring programmes (2022)](https://www.nature.com/articles/s41586-022-04418-5) ([Tweet](https://twitter.com/Saumya_JA1N/status/1496584124827848704))
 
 ## Images
 

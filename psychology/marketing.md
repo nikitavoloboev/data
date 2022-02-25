@@ -164,6 +164,7 @@
 - [Best marketing resources for startups](https://twitter.com/heyeaslo/status/1484707399415992320)
 - [Ask HN: Does targeted advertising work at all? (2022)](https://news.ycombinator.com/item?id=30228458)
 - [30x500](https://30x500.com/academy/) - Learn to Launch Profitable Products. ([Twitter](https://twitter.com/30x500))
+- [Principles of online marketing](https://twitter.com/david_perell/status/1496510849388666886)
 
 ## Images
 

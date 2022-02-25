@@ -422,6 +422,7 @@
 - [WebView](https://github.com/phatblat/WebView) - Simple SwiftUI wrapper for WKWebView.
 - [PreviewView](https://github.com/theoriginalbit/PreviewView) - Make use of SwiftUI Previews for UIKit.
 - [TokenField](https://github.com/fcanas/TokenField) - SwiftUI wrapper for NSTokenField.
+- [BetterPicker](https://github.com/ericlewis/swiftui-betterpicker) - Better Picker for SwiftUI.
 
 ## Test
 
@@ -471,6 +472,7 @@
 - [MySQLNio](https://github.com/vapor/mysql-nio) - Non-blocking, event-driven Swift client for MySQL built on SwiftNIO.
 - [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models.
 - [Swift ORM](https://github.com/prisma-ai/Sworm) - CoreData based Swift ORM.
+- [RapidLMDB](https://github.com/tannerdsilva/RapidLMDB) - Fast and efficient LMDB wrapper for Swift.
 
 ## Graphics
 
@@ -967,6 +969,8 @@
 - [swift-babab](https://github.com/spevans/swift-babab) - Swift library for Buffers, Arrays, Bits and Bytes.
 - [Diff](https://github.com/soffes/Diff) - Simple diffing library in pure Swift.
 - [swift-json](https://github.com/kelvin13/swift-json) - High-performance JSON parsing in swift.
+- [SwiftSlash](https://github.com/tannerdsilva/SwiftSlash) - Concurrent Shell Framework Built Entirely With Async/Await.
+- [SwiftDI](https://github.com/LiteCode/SwiftDI) - Tool for Dependency Injection using @propertyWrapper.
 
 ## Other (not lib)
 

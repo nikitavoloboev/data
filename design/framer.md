@@ -17,3 +17,5 @@
 - [Framer Motion React Menu Overlay Demo](https://github.com/ainalem/framer-motion-menu-overlay) - Use SVG morphing with Framer Motion to create a menu overlay effect.
 - [Topbar Framer Demo](https://topbar.framer.wiki/) ([Tweet](https://twitter.com/benjaminnathan/status/1485652103372681223))
 - [Sidebar Nav Framer Demo](https://sidebar.framer.wiki/) ([Tweet](https://twitter.com/benjaminnathan/status/1494327633764491265))
+- [Fast & Easy Nested Parallax with Framer Sites (2022)](https://www.youtube.com/watch?v=pSeY-fdyT7U) ([Tweet](https://twitter.com/brian_lovin/status/1495900327152963585))
+- [Recreating my personal site with Framer Sites (2022)](https://www.youtube.com/watch?v=QwhbBYJBx8A)

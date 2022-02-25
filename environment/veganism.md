@@ -61,3 +61,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Beginner's guide to veganism » how to go vegan](https://www.youtube.com/watch?v=OJxMsypwnqg)
 - [Plant based diets](https://www.reddit.com/r/nutrition/comments/scf2b7/plant_based_diets/)
 - [Challenges of producing cultivated meat at scale](https://notes.invertedpassion.com/Goodness/Challenges+of+producing+cultivated+meat+at+scale) ([HN](https://news.ycombinator.com/item?id=30344218))
+- [How to be vegan (if you’re me) (2022)](https://www.lincolnquirk.com/2022/02/15/vegan.html)

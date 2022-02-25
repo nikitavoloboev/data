@@ -264,6 +264,8 @@
 - [rich-textarea](https://github.com/inokawa/rich-textarea) - Small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 - [react-cursor-chat](https://github.com/yomorun/react-cursor-chat) - React component helps bring Figma's Cursor Chat to your web applications.
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - Heart-shaped toggle switch component for React.
+- [react-select-search](https://github.com/tbleckert/react-select-search) - Lightweight select component for React.
+- [react-portabletext](https://github.com/portabletext/react-portabletext) - Render Portable Text with React.
 
 ## Links
 

@@ -102,6 +102,10 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Steve Ruiz](https://www.steveruiz.me/)
 - [Martin Krasser](https://krasserm.github.io/)
 - [Radu Matei](https://radu-matei.com/)
+- [Wesley’s Notebook](https://notebook.wesleyac.com/) ([Code](https://github.com/WesleyAC/notebook))
+- [Filippo Valsorda](https://filippo.io/)
+- [Alex Klibisz](https://alexklibisz.com/posts/)
+- [Ian Henry](https://ianthehenry.com/)
 
 ## Notes
 
@@ -210,3 +214,5 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Ask HN: Great Blogs by Programmers (2022)](https://news.ycombinator.com/item?id=30245247)
 - [Engineering Blogs](https://github.com/sumodirjo/engineering-blogs) - Curated list of engineering blogs of startup and enterprise companies.
 - [Scientific blog template based on AI Summer](https://github.com/The-AI-Summer/blog-template)
+- [Sairin](https://github.com/djyde/sairin) - Blog engine based on GitHub issue with the power of Next.js ISR.
+- [Beam](https://github.com/planetscale/beam) - Simple message board for your organization or project. ([HN](https://news.ycombinator.com/item?id=30457960)) ([Intro](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads)) -

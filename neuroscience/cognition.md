@@ -24,3 +24,4 @@
 - [Spiders are much smarter than you think (2021)](https://arstechnica.com/science/2021/10/spiders-are-much-smarter-than-you-think/) ([HN](https://news.ycombinator.com/item?id=29137765))
 - [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 - [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/page/tutorial.202108/)
+- [Michael Levin; Regenerating limbs, layers of cognition and electroceuticals (2022)](https://www.youtube.com/watch?v=N9Oli5MPLbY)

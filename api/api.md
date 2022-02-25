@@ -72,6 +72,7 @@
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
 - [OpenSea Go](https://github.com/gsmachado/go-opensea)
+- [OpenSea Python](https://github.com/zseta/python-opensea)
 - [Fastly Go](https://github.com/fastly/cli) - CLI for interacting with the Fastly platform.
 - [Google Docs Go](https://github.com/Iwark/spreadsheet) - Go library for reading and writing spreadsheet files on Google Docs.
 - [Slack Go 2](https://github.com/slack-go/slack)
@@ -340,3 +341,4 @@
 - [OpenAPI Codegen](https://github.com/fabien0102/openapi-codegen) - Tool for generating code base on an OpenAPI schema.
 - [API design guidelines](https://twitter.com/markdalgleish/status/1494591964934668289)
 - [Oxide Computer generated third party Rust API clients](https://github.com/oxidecomputer/third-party-api-clients)
+- [Keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and mocks from API calls.

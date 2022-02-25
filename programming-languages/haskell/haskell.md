@@ -173,7 +173,7 @@
 - [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals)
 - [Fundamental Haskell notes](https://blog.latukha.com/haskell-notes) ([Code](https://github.com/Anton-Latukha/haskell-notes))
 - [Haskell for a New Decade](http://dev.stephendiehl.com/new_decade.pdf) ([HN](https://news.ycombinator.com/item?id=23621080)) ([Talk](https://www.youtube.com/watch?v=B9_xAixGlmk)) ([Lobsters](https://lobste.rs/s/jbugyx/haskell_for_new_decade))
-- [IHP](https://ihp.digitallyinduced.com/) - Modern batteries-included Web Framework, built on top of Haskell and Nix. ([HN](https://news.ycombinator.com/item?id=23610527)) ([Code](https://github.com/digitallyinduced/ihp)) ([IHP Live Reloading: How it works](https://ihp.digitallyinduced.com/blog/2020-08-10-ihp-live-reloading.html))
+- [IHP](https://ihp.digitallyinduced.com/) - Modern batteries-included Web Framework, built on top of Haskell and Nix. ([HN](https://news.ycombinator.com/item?id=23610527)) ([Code](https://github.com/digitallyinduced/ihp)) ([IHP Live Reloading: How it works](https://ihp.digitallyinduced.com/blog/2020-08-10-ihp-live-reloading.html)) ([Article](https://serokell.io/blog/ihp-interview))
 - [The power of IO in Haskell (2020)](https://www.47deg.com/blog/io-haskell/)
 - [JSON Parser 100% From Scratch in Haskell (only 111 lines) (2019)](https://www.youtube.com/watch?v=N9RUqGYuGfw)
 - [Learn Haskell in a couple of tweets (2020)](https://twitter.com/k0001/status/1277615394560360449)

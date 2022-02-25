@@ -1,5 +1,7 @@
 # [Cloudflare workers](https://workers.cloudflare.com/)
 
+Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105).
+
 ## OSS tools build with CW
 
 - [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.

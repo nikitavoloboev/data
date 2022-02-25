@@ -690,3 +690,12 @@
 - [LLC: Accurate, Multi-purpose Learnt Low-dimensional Binary Codes (2021)](https://arxiv.org/abs/2106.01487) ([Code](https://github.com/RAIVNLab/LLC))
 - [TinyML Paper and Projects](https://github.com/gigwegbe/tinyml-papers-and-projects)
 - [Multiplicative Filter Networks (2021)](https://openreview.net/forum?id=OmtmcPkkhT) ([Code](https://github.com/boschresearch/multiplicative-filter-networks))
+- [Class-incremental learning: survey and performance evaluation on image classification (2020)](https://arxiv.org/abs/2010.15277) ([Code](https://github.com/mmasana/FACIL))
+- [Appendix: More Is Different In Other Domains (2022)](https://bounded-regret.ghost.io/appendix-more-is-different-in-related-fields/)
+- [Robustness and Accuracy Could Be Reconcilable by (Proper) Definition (2022)](https://arxiv.org/abs/2202.10103) ([Code](https://github.com/P2333/SCORE))
+- [Nebullvm](https://github.com/nebuly-ai/nebullvm) - All-in-one library for easy-to-use DL compilers.
+- [SECANT: Self-Expert Cloning for Zero-Shot Generalization of Visual Policies (2021)](https://arxiv.org/abs/2106.09678) ([Code](https://github.com/LinxiFan/SECANT))
+- [Open Platform for AI (OpenPAI)](https://github.com/microsoft/pai) - Resource scheduling and cluster management for AI.
+- [Hugging Face Optimum](https://github.com/huggingface/optimum) - Accelerate Transformer models for training and inference on targeted hardware. ([Tweet](https://twitter.com/Thom_Wolf/status/1496768744747532290))
+- [Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces (2022)](https://arxiv.org/abs/2202.10613) ([Tweet](https://twitter.com/avt_im/status/1496453031960981514))
+- [What's hot for Machine Learning Research in 2022?](https://www.reddit.com/r/MachineLearning/comments/t04ekm/d_whats_hot_for_machine_learning_research_in_2022/)

@@ -83,7 +83,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [ImmuDB](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go. ([HN](https://news.ycombinator.com/item?id=27275691)) ([HN](https://news.ycombinator.com/item?id=29702974))
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
-- [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602)) ([2.0 release](https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/))
+- [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune)) ([HN](https://news.ycombinator.com/item?id=24132602)) ([2.0 release](https://blog.timescale.com/blog/timescaledb-2-0-a-multi-node-petabyte-scale-completely-free-relational-database-for-time-series/)) ([HN](https://news.ycombinator.com/item?id=30430000))
 - [Timescale Cloud](https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/) ([HN](https://news.ycombinator.com/item?id=28761453)) ([HN](https://news.ycombinator.com/item?id=28761566))
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time. ([How ClickHouse Saved our Data](https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/)) ([HN](https://news.ycombinator.com/item?id=27310247)) ([Faster ClickHouse Imports](https://tech.marksblogg.com/faster-clickhouse-imports-csv-parquet-mysql.html)) ([HN: ClickHouse, Inc.](https://news.ycombinator.com/item?id=28595419)) ([Article](https://blog.timescale.com/blog/what-is-clickhouse-how-does-it-compare-to-postgresql-and-timescaledb-and-how-does-it-perform-for-time-series-data/)) ([HN](https://news.ycombinator.com/item?id=28945903))
 - [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver)) ([Arangolite - Go Driver](https://github.com/solher/arangolite)) ([Python Driver](https://github.com/ArangoDB-Community/python-arango))
@@ -208,6 +208,9 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [RisingLight](https://github.com/risinglightdb/risinglight) - OLAP database system for educational purpose.
 - [SurrealDB](https://github.com/surrealdb/surrealdb) - Scalable, distributed, collaborative, document-graph database, for the real time web. ([Web](https://surrealdb.com/))
 - [classic-level](https://github.com/Level/classic-level) - Abstract-level database backed by LevelDB.
+- [Apache Druid](https://druid.apache.org/) - Database for modern analytics applications. ([Code](https://github.com/apache/druid))
+- [EJDB](https://github.com/Softmotions/ejdb) - Embeddable JSON database engine.
+- [SQLive](https://github.com/SkipLabs/sqlive) - General-purpose SQL database that lets you subscribe to changes to your queries.
 
 ## Tools
 
@@ -545,3 +548,5 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [How Query Engines Work by Andy Grove (2022)](https://leanpub.com/how-query-engines-work) - Introduction to the high-level concepts behind query engines and walks through all aspects of building a fully working SQL query engine in Kotlin. ([Code](https://github.com/andygrove/how-query-engines-work)) ([In Go](https://github.com/Fedomn/how-query-engine-work))
 - [Database as Code Manifesto](https://github.com/mgramin/database-as-code)
 - [mtail](https://github.com/google/mtail) - Extract internal monitoring data from application logs for collection in a time series database.
+- [Yao](https://yaoapps.com/en-US) - Go language-driven low-code application engine that writes JSON by Description can quickly create API interface,Data management system ,Command Line Toolsand other applications. ([Code](https://github.com/YaoApp/yao))
+- [A Gentle Introduction to Vector Databases (2021)](https://frankzliu.com/blog/a-gentle-introduction-to-vector-databases)

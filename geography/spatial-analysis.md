@@ -147,3 +147,4 @@
 - [PROJ](https://github.com/OSGeo/PROJ) - Cartographic Projections and Coordinate Transformations Library. ([Docs](https://proj.org/))
 - [carmen](https://github.com/mapbox/carmen) - Mapbox Vector Tile based geocoder with support for swappable data sources.
 - [OSM Liberty](https://github.com/maputnik/osm-liberty) - Free Mapbox GL basemap style for everyone.
+- [MapHub](https://maphub.net/) - Create interactive maps.

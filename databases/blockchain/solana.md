@@ -221,3 +221,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Sell Your SOL](https://github.com/mvines/sys) - Provides tracking from acquisition through disposal of SOL from staking, voting, and validator transaction fee/rent rewards.
 - [defi-yield-ts](https://github.com/jet-lab/defi-yield-ts) - Library for fetching the latest rates from Solana-centric lending protocols, with the goal of supporting every active protocol.
 - [Cash-settled European options protocol on Solana](https://github.com/0xTomoyo/anchor-options)
+- [Orion Protocol](https://github.com/RohanKapurDEV/orion) - Protocol for recurring and scheduled payments on Solana.
+- [Solana Staking Guide (2022)](https://medium.com/@Cogent_Crypto/solana-staking-guide-part-2-advance-staking-strategies-335337b77ec9) ([Reddit](https://www.reddit.com/r/solana/comments/syqkvp/solana_staking_guide_part_2_advanced_staking/))

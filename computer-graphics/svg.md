@@ -102,6 +102,7 @@
 - [tldraw/svg](https://github.com/tldraw/svg) - SVG utility functions used by tldraw.
 - [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter. ([Code](https://github.com/visioncortex/vtracer))
 - [llline](https://fffuel.co/llline/) - Smooth SVG Line/Stroke Generator.
+- [fffuel](https://fffuel.co/) - Free SVG generators, web design tools & modern HTML templates.
 - [Scour](https://github.com/scour-project/scour) - SVG optimizer/cleaner written in Python that reduces the size of scalable vector graphics by optimizing structure and removing unnecessary data.
 - [Flip, Invert, and Reverse (2021)](https://yuanchuan.dev/flip-invert-reverse) - 3 kinds of transformations for the SVG path commands.
 - [resvg-js](https://github.com/yisibl/resvg-js) - High-performance SVG renderer, powered by Rust based resvg and napi-rs.
@@ -127,3 +128,4 @@
 - [Katachidraw](https://github.com/dai-shi/katachidraw) - SVG based drawing tool and react-native component.
 - [Using mask as clip-path (2022)](https://yuanchuan.dev/using-mask-as-clip-path) ([Tweet](https://twitter.com/razvancaliman/status/1494992764676755461))
 - [oksvg](https://github.com/srwiley/oksvg) - Partial implementation of SVG 2.0 specification in Go.
+- [SuperShields](https://supershields.io/) - Smart, Lua-powered SVG status badges. ([HN](https://news.ycombinator.com/item?id=30451402))

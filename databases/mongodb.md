@@ -41,3 +41,4 @@
 - [FerretDB](https://github.com/FerretDB/FerretDB) - Truly Open Source MongoDB alternative. ([Web](https://www.ferretdb.io/)) ([GitHub](https://github.com/FerretDB))
 - [Scaling MongoDB for a Growing Customer Base (2020)](https://full-stack.blend.com/scaling-mongodb-for-a-growing-customer-base.html)
 - [What if MongoDB and Neo4j had a baby](https://github.com/terminusdb/technical-blogs/blob/main/blogs/mongo_neo4j_terminusx.md)
+- [PyMongo](https://github.com/mongodb/mongo-python-driver) - Python driver for MongoDB.

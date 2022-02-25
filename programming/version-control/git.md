@@ -485,4 +485,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git in one image](https://raw.githubusercontent.com/JannikArndt/git-in-one-image/master/git-in-one-image.svg) ([HN](https://news.ycombinator.com/item?id=30311713))
 - [go-gitignore](https://github.com/denormal/go-gitignore) - Go package for parsing and matching paths against .gitignore files.
 - [Self-hosted Git Server with Built-in CI/CD](https://github.com/theonedev/onedev)
-- [](https://github.com/BishopFox/GitGot)
+- [GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
+- [Gitless](https://github.com/goldstar611/gitless) - Easy-to-use interface to Git that is also easy to learn.

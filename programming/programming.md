@@ -524,3 +524,6 @@
 - [Things that used to be hard and are now easy (2022)](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/) ([HN](https://news.ycombinator.com/item?id=30406201))
 - [Things that used to be easy, but are now hard (2022)](https://news.ycombinator.com/item?id=30407547)
 - [Times are great for programmers now. How does it end? (2022)](https://vaghetti.dev/posts/times-are-great/) ([HN](https://news.ycombinator.com/item?id=30410856))
+- [Data-Oriented Programming](https://blog.laurentcharignon.com/post/data-oriented-programming/)
+- [Awesome profiling](https://github.com/msaroufim/awesome-profiling)
+- [Programming Books: A Curated Reading List](https://www.programmingbooks.dev/)

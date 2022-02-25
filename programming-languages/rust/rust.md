@@ -710,3 +710,7 @@
 - [How to Learn Rust with Tim McNamara (2022)](https://www.youtube.com/watch?v=FoNJ5zhL6bQ)
 - [Notes On Module System (2021)](https://matklad.github.io/2021/11/27/notes-on-module-system.html)
 - [Trait object based deserialization in Rust](https://github.com/idubrov/dynser)
+- [Kani Rust Verifier](https://github.com/model-checking/kani) - Bit-precise model-checker for Rust.
+- [Rust Compiler Ambitions for 2022](https://blog.rust-lang.org/inside-rust/2022/02/22/compiler-team-ambitions-2022.html) ([Reddit](https://www.reddit.com/r/rust/comments/syrm78/rust_compiler_ambitions_for_2022_inside_rust_blog/))
+- [From JavaScript to Rust Book](https://github.com/vinodotdev/node-to-rust/) ([Reddit](https://www.reddit.com/r/javascript/comments/syxq11/from_javascript_to_rust_an_open_source_ebook/))
+- [Rust 1.59.0 with inline assembly support etc. (2022)](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html) ([HN](https://news.ycombinator.com/item?id=30457261)) ([Reddit](https://www.reddit.com/r/rust/comments/t0fuyf/announcing_rust_1590/))

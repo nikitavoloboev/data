@@ -38,7 +38,6 @@
 - [Compiling at Compile Time (2019)](https://blog.veitheller.de/Compiling_at_Compile_Time.html)
 - [MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure - Tatiana Shpeisman, Chris Lattner (2019)](https://www.youtube.com/watch?v=qzljG6DKgic)
 - [How an Optimizing Compiler Works (2019)](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
-- [Dive into Deep Learning Compiler](http://tvm.d2l.ai.s3-website-us-west-2.amazonaws.com/)
 - [A Survey of Compiler Testing (2019)](https://software-lab.org/publications/csur2019_compiler_testing.pdf)
 - [Functional Language Research Compiler (FLRC)](https://github.com/IntelLabs/flrc) - Designed to be a general compiler framework for functional languages.
 - [Compiling pattern matching (2013)](http://l-lang.org/blog/Compiling-pattern-matching/)
@@ -48,7 +47,7 @@
 - [Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 - [Listing of compiler, language and runtime teams for people looking for jobs in this area](https://github.com/mgaudet/CompilerJobs)
 - [Computer Language Engineering course (2019)](https://github.com/6035/fa19)
-- [Dive into Deep Learning Compiler](http://tvm.d2l.ai/)
+- [Dive into Deep Learning Compiler](https://tvm.d2l.ai/) ([Code](https://github.com/d2l-ai/d2l-tvm))
 - [Compiler Auto-Vectorization with Imitation Learning](http://papers.nips.cc/paper/9604-compiler-auto-vectorization-with-imitation-learning.pdf) ([HN](https://news.ycombinator.com/item?id=21968118))
 - [Clang Build Analyzer](https://github.com/aras-p/ClangBuildAnalyzer) - Can be useful to figure out what takes time during compilation of one source file.
 - [CS 6120: Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2019fa/) ([Code](https://github.com/sampsyo/cs6120))

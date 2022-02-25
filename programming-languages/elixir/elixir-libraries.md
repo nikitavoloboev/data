@@ -39,6 +39,7 @@
 - [CubDB](https://github.com/lucaong/cubdb) - Embedded key-value database written in the Elixir language.
 - [Elixir driver for EdgeDB](https://github.com/nsidnev/edgedb-elixir)
 - [Khepri](https://github.com/rabbitmq/khepri) - Tree-like replicated on-disk database library for Erlang and Elixir.
+- [Ecto SQLite3 adapter](https://github.com/elixir-sqlite/ecto_sqlite3)
 
 ## Test
 

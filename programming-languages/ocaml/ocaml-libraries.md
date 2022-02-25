@@ -36,6 +36,7 @@
 - [postgres-protocol](https://github.com/anuragsoni/postgres-protocol) - IO independent postgres protocol implementation.
 - [chamelon](https://github.com/yomimono/chamelon) - Small, simple block-backed key-value store for MirageOS.
 - [ocaml_sql_query](https://github.com/yawaramin/ocaml_sql_query) - Functional-style SQLite queries for OCaml.
+- [epiSQL](https://github.com/paurkedal/episql) - SQL schema parser and code generator.
 
 ## Bindings
 
@@ -45,6 +46,7 @@
 
 - [Cmdliner](https://github.com/dbuenzli/cmdliner) - Declarative definition of command line interfaces for OCaml. ([Web](https://erratique.ch/software/cmdliner)) ([Cmdliner cheatsheet](https://github.com/mjambon/cmdliner-cheatsheet))
 - [Notty](https://github.com/pqwy/notty) - Declarative terminal graphics for OCaml.
+- [Progress](https://github.com/CraigFe/progress) - User-definable progress bars for OCaml.
 
 ## Error
 
@@ -151,6 +153,11 @@
 - [ocaml-stdint](https://github.com/andrenth/ocaml-stdint) - Various signed and unsigned integers for OCaml.
 - [Current_incr](https://github.com/ocurrent/current_incr) - Self-adjusting computations.
 - [hlist](https://github.com/keigoi/hlist-ocaml) - Heterogeneously-typed lists for OCaml.
+- [ppx_import](https://github.com/ocaml-ppx/ppx_import) - Syntax extension that allows to pull in types or signatures from other compiled interface files.
+- [Prime](https://github.com/paurkedal/ocaml-prime) - OCaml Library Supplements.
+- [ADT rewriting](https://github.com/Drup/adtr) - Representing ADTs in a flat way and compiling a pattern match-like construction as a rewrite on the memory representation.
+- [AlphaRegex](https://github.com/kupl/AlphaRegexPublic) - Synthesizer for regular expressions.
+- [py.ml](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 
 ## Links
 

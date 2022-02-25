@@ -182,3 +182,6 @@
 - [React Native Colo Loco](https://github.com/jamonholmgren/react-native-colo-loco) - Colocate your native modules and components with your JavaScript/JSX files.
 - [React Native Firebase](https://github.com/invertase/react-native-firebase) - Well-tested feature-rich modular Firebase implementation for React Native.
 - [Ant Design Mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
+- [react-native-wagmi-charts](https://github.com/coinjar/react-native-wagmi-charts) - Simple chart library for React Native.
+- [React Native URL Router](https://github.com/software-mansion-labs/react-native-url-router)
+- [vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr) - VisionCamera Frame Processor Plugin to preform text detection on images using MLKit Vision Text Recognition.

@@ -72,6 +72,8 @@
 - [HQDL.jl](https://github.com/dfdx/HQDL.jl) - High-quality operators for machine learning.
 - [OperatorLearning.jl](https://github.com/SciML/OperatorLearning.jl) - Provides Layers for the learning of (nonlinear) operators in order to solve parametric PDEs.
 - [MultistartOptimization.jl](https://github.com/tpapp/MultistartOptimization.jl) - Multistart optimization methods in Julia.
+- [Hyperopt](https://github.com/baggepinnen/Hyperopt.jl) - Hyperparameter optimization in Julia.
+- [ShapML](https://github.com/nredell/ShapML.jl) - Julia package for interpretable machine learning with stochastic Shapley values.
 
 ## Math
 
@@ -152,6 +154,9 @@
 - [StatsPlots](https://github.com/JuliaPlots/StatsPlots.jl) - Statistical plotting recipes for Plots.jl.
 - [FixedPointDecimals](https://github.com/JuliaMath/FixedPointDecimals.jl) - Julia fixed-point decimals built from integers.
 - [AlgebraOfGraphics](https://github.com/JuliaPlots/AlgebraOfGraphics.jl) - Combine ingredients for a plot.
+- [MonteCarloMeasurements](https://github.com/baggepinnen/MonteCarloMeasurements.jl) - Propagation of distributions by Monte-Carlo sampling: Real number types with uncertainty represented by samples.
+- [DifferentialDynamicProgramming](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl) - Package for solving Differential Dynamic Programming and trajectory optimization problems.
+- [LowLevelParticleFilters](https://github.com/baggepinnen/LowLevelParticleFilters.jl) - Simple particle/kalman filtering, smoothing and parameter estimation.
 
 ## NLP
 
@@ -168,6 +173,7 @@
 - [AtomicGraphNets.jl](https://github.com/Chemellia/AtomicGraphNets.jl) - Atomic graph models for molecules and crystals in Julia.
 - [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) - Sequence alignment tools.
 - [BioSequences](https://github.com/BioJulia/BioSequences.jl) - Biological sequences for the julia language.
+- [pangraph](https://github.com/neherlab/pangraph) - Bioinformatic toolkit to align large sets of closely related genomes into a graph data structure.
 
 ## Computer Vision
 
@@ -480,6 +486,8 @@
 - [TopOpt](https://github.com/JuliaTopOpt/TopOpt.jl) - Beautifully Julian topology optimization package.
 - [Mixtape.jl](https://github.com/JuliaCompilerPlugins/Mixtape.jl) - Static method overlay and optimization tool with configurable code generation and execution.
 - [TimeseriesPrediction](https://github.com/JuliaDynamics/TimeseriesPrediction.jl) - Prediction of timeseries using methods of nonlinear dynamics and timeseries analysis.
+- [ControlSystemIdentification](https://github.com/baggepinnen/ControlSystemIdentification.jl) - System Identification toolbox for LTI systems, compatible with ControlSystems.jl.
+- [ArrayLayouts](https://github.com/JuliaMatrices/ArrayLayouts.jl) - Julia package for describing array layouts and more general fast linear algebra.
 
 ## Links
 

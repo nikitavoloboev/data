@@ -64,3 +64,4 @@
 - [WordLines](https://github.com/nalinbhardwaj/wordlines) - Zero-knowledge proof-based blockchain puzzle game. ([HN](https://news.ycombinator.com/item?id=29805557))
 - [AirScript](https://github.com/GuildOfWeavers/AirScript) - Scripting language for defining zk-STARKs.
 - [zkInterface](https://github.com/QED-it/zkinterface) - Protocol for the interoperability of zero-knowledge frameworks.
+- [Short-lived zero-knowledge proofs and signatures (2022)](https://eprint.iacr.org/2022/190.pdf) ([Tweet](https://twitter.com/dystopiabreaker/status/1496011412996788227))

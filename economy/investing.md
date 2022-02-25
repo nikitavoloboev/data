@@ -246,3 +246,5 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [What it Takes to Beat the Market (2021)](https://austinvernon.site/blog/earningalpha.html)
 - [I have never read a business plan or balance sheet](https://twitter.com/paulg/status/1492682253612113921) ([HN](https://news.ycombinator.com/item?id=30318634))
 - [What to know about the stock market (2007)](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/) ([HN](https://news.ycombinator.com/item?id=30329148))
+- [Tight Shorts](https://tightshorts.ru/) - Daily Short Sale Volume. Presents FINRA reports in a more visual form. ([Code](https://github.com/samgozman/tightshorts))
+- [Barchart.com](https://www.barchart.com/) - Commodity, Stock, and Currency Quotes, Charts, News & Analysis. ([Fetch Data Code](https://github.com/samgozman/barchart-dot-com))

@@ -86,3 +86,5 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS crawler](https://github.com/jimmyaxod/ipfscrawl)
 - [Explore the Merkle Forest](https://explore.ipld.io/) - Explore the Merkle Forest from the comfort of your browser. ([Code](https://github.com/ipld/explore.ipld.io))
 - [peer-id](https://github.com/libp2p/js-peer-id) - IPFS Peer ID implementation in JavaScript.
+- [IPFS Python](https://github.com/ipfs-shipyard/py-ipfs-http-client) - Python client library for the IPFS API.
+- [A guide to IPFS connectivity in web browsers (2021)](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/) ([HN](https://news.ycombinator.com/item?id=30440410))

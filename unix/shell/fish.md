@@ -21,3 +21,5 @@
 - [The fish shell is amazing (2021)](https://rmpr.xyz/the-fish-shell-is-amazing/) ([HN](https://news.ycombinator.com/item?id=29341390)) ([Lobsters](https://lobste.rs/s/pj0byo/fish_shell_is_amazing))
 - [fzf.fish](https://github.com/PatrickF1/fzf.fish) - Augment your fish command line with fzf key bindings.
 - [nix-env.fish](https://github.com/lilyball/nix-env.fish) - Sets up the Nix environment for a non-NixOS Fish shell.
+- [GitNow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow.
+- [Done](https://github.com/franciscolourenco/done) - Fish shell package to automatically receive notifications when long processes finish.

@@ -133,3 +133,5 @@
 - [Ask HN: How do small companies do recruitment? (2022)](https://news.ycombinator.com/item?id=30098607)
 - [Rethinking Levels, Promotions and Salaries](https://www.daily.co/blog/rethinking-levels-promotions-and-salaries/) ([HN](https://news.ycombinator.com/item?id=30384286))
 - [Truework](https://www.truework.com/) - Employment & Income Verification.
+- [What identifying talent looks like in practice](https://danluu.com/talent/) ([HN](https://news.ycombinator.com/item?id=30423442))
+- [Our Vision for Location-Independent Salaries at Buffer (2022)](https://buffer.com/resources/location-independent-salaries/) ([Tweet](https://twitter.com/buffer/status/1496215497985212425)) ([Tweet](https://twitter.com/joelgascoigne/status/1496259742355931142))

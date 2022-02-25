@@ -80,3 +80,4 @@
 - [Hercules CI Agent](https://github.com/hercules-ci/hercules-ci-agent) - Runs on your infrastructure and executes tasks (evaluation, builds, etc) for your Hercules CI account.
 - [Bob the Builder](https://github.com/bob-cd/bob) - What CI/CD should've been. ([Web](https://bob-cd.github.io/))
 - [Cirrus CI](https://cirrus-ci.org/) - Modern Continuous Integration system built for the era of cloud computing. ([GitHub](https://github.com/cirruslabs)) ([CLI](https://github.com/cirruslabs/cirrus-cli)) ([Docs Code](https://github.com/cirruslabs/cirrus-ci-docs))
+- [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)

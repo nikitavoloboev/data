@@ -155,3 +155,4 @@
 - [You Don't Know Gif - An analysis of a gif file and some weird gif features (2022)](https://blog.darrien.dev/posts/you-dont-know-gif/)
 - [ResizeRight](https://github.com/assafshocher/ResizeRight) - Resizing packge for images or tensors, that supports both Numpy and PyTorch (fully differentiable) seamlessly.
 - [rawpy](https://github.com/letmaik/rawpy) - RAW image processing for Python, a wrapper for libraw.
+- [Compressed Sensing in Python (2016)](http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/)

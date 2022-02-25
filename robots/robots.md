@@ -139,3 +139,6 @@
 - [Probabilistic Robotics (2005)](https://mitpress.mit.edu/books/probabilistic-robotics) - Introduction to the techniques and algorithms of the newest field in robotics. ([Code](https://github.com/pptacher/probabilistic_robotics))
 - [linorobot2](https://github.com/linorobot/linorobot2) - Autonomous mobile robots (2WD, 4WD, Mecanum Drive).
 - [Motion Capture via Probabilistic Inference (2019)](http://lukemetz.com/mocap1/)
+- [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2109.11978) ([Code](https://github.com/leggedrobotics/legged_gym))
+- [Robotic Systems Lab | ETH Zurich](https://rsl.ethz.ch/) ([GitHub](https://github.com/leggedrobotics))
+- [Differentiable Gaussian Process Motion Planning (2020)](https://mohakbhardwaj.github.io/dgpmp2/) ([Code](https://github.com/mhmukadam/dgpmp2))

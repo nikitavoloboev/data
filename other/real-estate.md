@@ -25,3 +25,4 @@
 - [Zillow lost money because they weren't willing to lose money (2021)](https://www.stevenbuccini.com/zillow-offers) ([HN](https://news.ycombinator.com/item?id=29333217))
 - [Ask HN: Definitive source for real estate statistics? (2021)](https://news.ycombinator.com/item?id=29407184)
 - [When Private Equity Becomes Your Landlord (2022)](https://www.propublica.org/article/when-private-equity-becomes-your-landlord)
+- [How is there a housing shortage while housing prices increase? Is this a zoning issue and not an economic issue? (2022)](https://www.reddit.com/r/AskEconomics/comments/syhl1t/how_is_there_a_housing_shortage_while_housing/)

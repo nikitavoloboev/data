@@ -405,3 +405,5 @@ if (
 - [Insightful JavaScript Q&A Twitter Thread from Dan Abramov (2022)](https://twitter.com/dan_abramov/status/1492880870499360769)
 - [The State of JS 2021](https://2021.stateofjs.com/en-US/) ([HN](https://news.ycombinator.com/item?id=30357788))
 - [The Story of Asynchronous JavaScript (2022)](https://www.youtube.com/watch?v=rivBfgaEyWQ)
+- [JavaScript on Exercism](https://exercism.org/tracks/javascript) ([Code](https://github.com/exercism/javascript))
+- [Source Map-Aware Code Generation (2022)](https://gal.hagever.com/posts/source-map-aware-code-generation)

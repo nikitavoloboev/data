@@ -188,3 +188,4 @@
 - [Why I wouldn't recommend Svelte JS to a fellow CTO (2022)](https://www.reddit.com/r/sveltejs/comments/sw11gc/why_i_wouldnt_recommend_svelte_js_to_a_fellow_cto/)
 - [Custom Svelte Store: Higher Order Store (2022)](https://www.youtube.com/watch?v=p1aPfVyZ1IY) ([Reddit](https://www.reddit.com/r/sveltejs/comments/sxm8m7/higherorder_store_borrowing_a_functional/))
 - [SvelteKit and the "Client pattern" (2022)](https://retro.cloud/sveltekit-and-the-client-pattern/)
+- [Building a real-time websocket app using SvelteKit (2022)](https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit)

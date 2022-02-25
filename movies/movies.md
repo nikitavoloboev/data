@@ -82,3 +82,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What’s your all time favorite movie (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sky9oe/tell_me_whats_your_all_time_favorite_movie/)
 - [True story movies out there that are great (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sl421c/any_true_story_movies_out_there_that_are_really/)
 - [Best movies to watch on shrooms (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sw0rhr/best_movies_to_watch_on_shrooms/)
+- [Best Sci-Fi Movies of the Last 15 Years (2022)](https://www.denofgeek.com/movies/best-sci-fi-movies-last-15-years/)
+- [Your top 10 movies (2022)](https://www.reddit.com/r/Letterboxd/comments/t04fr0/lets_see_your_top_10s_of_2021_ill_start/)

@@ -128,3 +128,5 @@
 - [Erlang Patterns of Concurrency](https://github.com/duomark/epocxy)
 - [Beam Bloggers Webring](https://beambloggers.com/) - Webring for bloggers in the BEAM Ecosystem (Erlang, Elixir, Gleam, LFE, etc). ([Code](https://github.com/lawik/beambloggers))
 - [Erlings](https://github.com/lambdaclass/erlings) - Small exercises to get you used to reading and writing Erlang code.
+- [Erlang zlist](https://github.com/egobrain/zlist) - Lazy sequences library.
+- [equery](https://github.com/egobrain/equery) - Library for PostgreSQL SQL generation.

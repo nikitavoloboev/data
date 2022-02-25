@@ -83,3 +83,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Only Recipe](https://showcase.onlyrecipe.app/) - Cut the clutter from recipe sites. ([HN](https://news.ycombinator.com/item?id=29795482))
 - [John Locke’s recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/) ([HN](https://news.ycombinator.com/item?id=30132612))
 - [What are some favorite regional vegetarian dishes of yours?](https://www.reddit.com/r/AskEurope/comments/sjehhq/what_are_some_favourite_regional_vegetarian/)
+- [How do you keep track of online recipes you want to make in the future?](https://twitter.com/hels/status/1496122916836200451)

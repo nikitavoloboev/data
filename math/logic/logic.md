@@ -71,3 +71,4 @@
 - [History of Logic](https://github.com/prathyvsh/history-of-logic)
 - [To H.B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism (1980)](https://archive.org/details/tohbcurryessayso00edit)
 - [Thesis on the π-calculus, a formal language for distributed computing](https://github.com/quicklywilliam/thesis/blob/master/thesis.pdf)
+- [Gödel's Incompleteness Theorem in Bash (2022)](https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html) ([HN](https://news.ycombinator.com/item?id=30460458))

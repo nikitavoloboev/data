@@ -89,3 +89,4 @@
 - [FPGA Interchange format to enable interoperable FPGA tooling (2022)](https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html) ([HN](https://news.ycombinator.com/item?id=30317317))
 - [FPGA interchange schema definitions](https://github.com/chipsalliance/fpga-interchange-schema)
 - [Where Lions Roam: Haskell & Hardware on the VELDT](https://github.com/standardsemiconductor/VELDT-getting-started)
+- [Clear](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite) - Open Source FPGA ASIC. ([HN](https://news.ycombinator.com/item?id=30437021))

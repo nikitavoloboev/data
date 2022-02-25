@@ -151,3 +151,5 @@
 - [So You Want To Run A Microgrants Program (2022)](https://astralcodexten.substack.com/p/so-you-want-to-run-a-microgrants)
 - [Many of VC's contact details](https://twitter.com/Julian/status/1491849464209821698)
 - [Abcum](https://abcum.com/)
+- [What a $500k grant proposal looks like (2022)](https://austinhenley.com/blog/500kgrant.html) ([HN](https://news.ycombinator.com/item?id=30418562))
+- [Sponsorhello](https://sponsorhello.org/) - Fund the projects you love. ([Code](https://github.com/VLK-STUDIO/sponsorhello))

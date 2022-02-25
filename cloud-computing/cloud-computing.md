@@ -104,3 +104,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [I got pwned by my cloud costs (2022)](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/) ([HN](https://news.ycombinator.com/item?id=30054739)) ([Reddit](https://www.reddit.com/r/programming/comments/sbhgup/how_i_got_pwned_by_my_cloud_costs/))
 - [Stratus Red Team](https://github.com/DataDog/stratus-red-team) - Granular, Actionable Adversary Emulation for the Cloud.
 - [Tell HN: I got 10x Hetzner storage at the same price (2022)](https://news.ycombinator.com/item?id=30398534)
+- [I'm so sorry everyone. Or: why I'm switching to Cloudflare (2022)](https://ersei.saggis.com/en/blog/im-sorry-everyone-cloudflare) ([HN](https://news.ycombinator.com/item?id=30443178))

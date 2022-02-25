@@ -215,3 +215,4 @@
 - [Awesome Voxel](https://github.com/meshula/awesome-voxel)
 - [nsdf](https://github.com/janivanecky/nsdf)
 - [The Fastest GIF Does Not Exist (2022)](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist) ([HN](https://news.ycombinator.com/item?id=30405815)) ([Reddit](https://www.reddit.com/r/programming/comments/sx16vy/the_fastest_gif_does_not_exist/))
+- [Collision Detection Book](http://www.jeffreythompson.org/collision-detection/) ([Code](https://github.com/jeffThompson/CollisionDetection))

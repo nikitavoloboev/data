@@ -100,3 +100,4 @@
 - [Omicron Is Our Past Pandemic Mistakes on Fast-Forward (2021)](https://www.theatlantic.com/health/archive/2021/12/omicron-mistakes/621112/) ([Tweet](https://twitter.com/edyong209/status/1474058652738854918))
 - [Petabase-scale sequence alignment catalyses viral discovery (2021)](https://www.biorxiv.org/content/10.1101/2020.08.07.241729v2) ([Code](https://github.com/ababaian/serratus))
 - [What the Omicron wave is revealing about human immunity (2022)](https://www.nature.com/articles/d41586-022-00214-3) ([HN](https://news.ycombinator.com/item?id=30191669))
+- [SARS-CoV-2 contains part of a patented genetic sequence (2022)](https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full) ([HN](https://news.ycombinator.com/item?id=30454022))

@@ -37,6 +37,8 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Girls just want one thing and it’s a home surrounded by nature with giant open windows and a backyard full of trees and japanese style seating arrangements and and in home-library and babies to read books to and it’s disgusting.](https://twitter.com/rawmilkhoney/status/1451728076203651077)
 - [I love how being an adult is just saying "But after this week things will slow down a bit again" to yourself until you die](https://twitter.com/kramski/status/1148338745600598016)
 - [Don’t fight the system. Use the system to change the system.](http://www.federicopereiro.com/system/)
+- ["If there is a God, he will have to beg for my forgiveness." - A phrase carved into a concentration camp cell by a Jewish Prisoner](https://twitter.com/apmassaro3/status/1495872953766010883)
+- [Hope never stopped tragedy from happening. Hope is just something we kid ourselves with because we’re scared and we don’t want to see what is right in front of our eyes.](https://twitter.com/apmassaro3/status/1495872953766010883)
 
 ## Other
 
@@ -601,3 +603,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Investigations ← Forensic Architecture](https://forensic-architecture.org/)
 - [Ask HN: What are your contrarian views? (2022)](https://news.ycombinator.com/item?id=30322001)
 - [Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/) ([Code](https://github.com/0xf00ff00f/rotator)) ([HN](https://news.ycombinator.com/item?id=30408434))
+- [Snowboarding for Geeks: An Ultimate Guide (2018)](https://www.xfive.co/blog/snowboarding-ultimate-guide/) ([HN](https://news.ycombinator.com/item?id=30408158))

@@ -40,3 +40,4 @@
 - [In Her Rooms](https://www.meryornotphotography.com/in-her-rooms)
 - [NSFW Data Scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
 - [nude-rs](https://github.com/kpcyrd/nude-rs) - High performance nudity detection in rust.
+- [Inside Pornhub (2022)](https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation) ([HN](https://news.ycombinator.com/item?id=30441276))

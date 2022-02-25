@@ -277,6 +277,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [pester](https://github.com/sethgrid/pester) - Go http calls with retries and backoff.
 - [httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r \*http.Request) error.
 - [cleanhttp](https://github.com/hashicorp/go-cleanhttp) - Functions for accessing "clean" Go http.Client values.
+- [web](https://github.com/rsc/web) - Basic web site serving framework.
+- [Martian Proxy](https://github.com/google/martian) - Library for building custom HTTP/S proxies.
 
 ## GraphQL
 
@@ -403,6 +405,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [sqlf](https://github.com/keegancsmith/sqlf) - Generate parameterized SQL statements in Go, sprintf Style.
 - [grocksdb](https://github.com/linxGnu/grocksdb) - RocksDB wrapper for Go.
 - [mssqlx](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight, performant and auto balancing in mind.
+- [BadgerDB](https://github.com/outcaste-io/badger) - Fast Key-Value DB in Go.
 
 ## ML
 
@@ -500,6 +503,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [errorx](https://github.com/joomcode/errorx) - Comprehensive error handling library for Go.
 - [Stacktrace](https://github.com/palantir/stacktrace) - Stack traces for Go errors.
 - [errors](https://github.com/cockroachdb/errors) - Go errors with network portability.
+- [Errors](https://github.com/emperror/errors) - Drop-in replacement for the standard library errors package and github.com/pkg/errors.
 
 ## Other
 
@@ -1347,6 +1351,15 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [goseaweedfs](https://github.com/linxGnu/goseaweedfs) - Complete Go client for SeaweedFS.
 - [gosmpp](https://github.com/linxGnu/gosmpp) - SMPP Client Library for Go.
 - [gumble](https://github.com/linxGnu/gumble) - Collection of high-performance, thread-safe, lock-free data structures for go.
+- [Go NVML](https://github.com/NVIDIA/go-nvml) - Go Bindings for the NVIDIA Management Library.
+- [Go NVML](https://github.com/mindprince/gonvml)
+- [go-i18n](https://github.com/nicksnyder/go-i18n) - Translate your Go program into multiple languages.
+- [Adaptive Radix Trees in Go](https://github.com/plar/go-adaptive-radix-tree)
+- [Clean Env](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader.
+- [Skiplist](https://github.com/MauriceGit/skiplist) - Fast Skiplist Implementation.
+- [SAML](https://github.com/crewjam/saml) - SAML is a standard for identity federation.
+- [go-xstate](https://github.com/dstotijn/go-xstate) - XState written in Go.
+- [slices](https://github.com/vorduin/slices) - Utility package for working with slices.
 
 ## Links
 
@@ -1402,3 +1415,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [godoc2md](https://github.com/WillAbides/godoc2md) - Creates a markdown representation of a package's godoc.
 - [godoc2md](https://github.com/miekg/godoc2md) - Simple translation from godoc to markdown.
 - [gosimports](https://github.com/rinchsan/gosimports) - Simpler goimports.
+- [c-for-go](https://github.com/xlab/c-for-go) - Automatic C-Go Bindings Generator for Go.
+- [Are ORMs considered an anti-pattern in Go? (2022)](https://www.reddit.com/r/golang/comments/t08oox/are_orms_considered_an_antipattern_in_go/)

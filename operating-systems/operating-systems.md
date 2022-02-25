@@ -331,3 +331,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [State of art for unikernels](https://github.com/seeker89/unikernels) ([HN](https://news.ycombinator.com/item?id=30358036))
 - [RSM](https://github.com/rsms/rsm) - Rsms's smol machine — a virtual computer hobby project.
 - [Osdev Notes](https://github.com/dreamos82/Osdev-Notes)
+- [Bootloader Basics (2022)](https://notes.eatonphil.com/bootloader-basics.html)

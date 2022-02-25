@@ -5,6 +5,7 @@
 ## Notes
 
 - [Can use `::1` in Postico to remove unsafe connection warning](https://github.com/jakob/Postico/issues/637)
+- [VACUUM ANALYZE is useful.](https://twitter.com/ideasasylum/status/1495857970487377922)
 
 ## Links
 
@@ -377,7 +378,7 @@
 - [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql) ([HN](https://news.ycombinator.com/item?id=29467671))
 - [Speeding up Postgres integration tests in Go (2021)️](https://www.maragu.dk/blog/speeding-up-postgres-integration-tests-in-go/)
 - [Foreign data wrappers - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
-- [OrioleDB – Solution for PostgreSQL wicked problems](https://github.com/orioledb/orioledb) ([Web](https://orioledb.com/))
+- [OrioleDB – Solution for PostgreSQL wicked problems](https://github.com/orioledb/orioledb) ([Web](https://orioledb.com/)) ([HN](https://news.ycombinator.com/item?id=30462695))
 - [Postgres is a great pub/sub and job server (2019)](https://webapp.io/blog/postgres-is-the-answer/) ([HN](https://news.ycombinator.com/item?id=29599132))
 - [Everything I've seen on optimizing Postgres on ZFS (2021)](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/) ([HN](https://news.ycombinator.com/item?id=29647645))
 - [pgModeler](https://github.com/pgmodeler/pgmodeler) - PostgreSQL Database Modeler. ([Web](https://pgmodeler.io/))
@@ -418,3 +419,11 @@
 - [Postgres Professional](https://postgrespro.com/) - Russian PostgreSQL company founded by Russian PostgreSQL contributors.
 - [pg_ulid](https://github.com/iCyberon/pg_ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) for PostgreSQL.
 - [OnlineMigrations](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production.
+- [A psql hack for select \* except some columns (2022)](https://postgresql.verite.pro/blog/2022/02/21/psql-hack-select-except.html) ([Lobsters](https://lobste.rs/s/8lveg6/psql_hack_for_select_except_some_columns))
+- [PostgreSQL Notes](https://postgresql.verite.pro/blog/)
+- [pgrocks-fdw](https://github.com/vidardb/pgrocks-fdw) - PostgreSQL extension implements a Foreign Data Wrapper (FDW) for RocksDB.
+- [VidarDB](https://www.vidardb.com/) - Fork of PostgreSQL for real-time machine learning. ([Code](https://github.com/vidardb/vidardb-engine)) ([GitHub](https://github.com/vidardb))
+- [Optimizing Postgres text search with trigrams (2022)](https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html) ([HN](https://news.ycombinator.com/item?id=30433269))
+- [Hydra](https://hydras.io/) - Query Postgres, Route to any Database. ([HN](https://news.ycombinator.com/item?id=30442718))
+- [Intro to Postgres Planner - Hacking Melanie Plageman (2022)](https://www.youtube.com/watch?v=j7UPVU5UCV4)
+- [PostgreSQL Schema Change Guide](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)

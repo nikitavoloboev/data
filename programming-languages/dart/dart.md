@@ -33,3 +33,4 @@
 - [Postgres Dart](https://github.com/isoos/postgresql-dart) - Dart PostgreSQL driver: supports extended query format, binary protocol and statement reuse.
 - [pana](https://github.com/dart-lang/pana) - Library for analyzing Dart packages.
 - [Mongo-dart](https://github.com/mongo-dart/mongo_dart) - MongoDB driver for Dart.
+- [dartz](https://github.com/spebbe/dartz) - Functional programming in Dart.

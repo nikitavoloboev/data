@@ -242,3 +242,4 @@ useEffect(() => {
 - [The only two custom React hooks we ever really use (2021)](https://blog.molecule.dev/the-only-custom-react-hooks-we-use/) ([Tweet](https://twitter.com/signalnerve/status/1471943825732116480)) ([HN](https://news.ycombinator.com/item?id=29591816))
 - [Meet the new hook useSyncExternalStore, introduced in React 18 for external stores (2021)](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api) ([Reddit](https://www.reddit.com/r/reactjs/comments/rs7p6r/meet_the_new_hook_usesyncexternalstore_introduced/))
 - [Writing Custom Useful React Hooks with TypeScript and Testing Them with React Testing Library (2022)](https://dev.to/kirillshvets97/writing-useful-custom-react-hooks-with-typescript-and-testing-them-with-react-testing-library-2me)
+- [Honestly, what is the best, pain-free state management in React right now? (2022)](https://www.reddit.com/r/reactjs/comments/szuyza/honestly_what_is_the_best_painfree_state/)

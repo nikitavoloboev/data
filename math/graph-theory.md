@@ -52,3 +52,4 @@
 - [Ordering Movie Credits with Graph Theory](https://endcrawl.com/credits-ordering/) ([HN](https://news.ycombinator.com/item?id=29639968))
 - [Solving the Traveling Salesman Problem using Self-Organizing Maps](https://github.com/DiegoVicen/som-tsp)
 - [House of Graphs](https://hog.grinvin.org/)
+- [Graph Theory and Linear Algebra (2017)](https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf) ([HN](https://news.ycombinator.com/item?id=30455711))

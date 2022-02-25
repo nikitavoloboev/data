@@ -175,3 +175,5 @@
 - [Type Checking as Calculation (2022)](https://billwadge.com/2022/02/16/type-checking-as-calculation/) ([HN](https://news.ycombinator.com/item?id=30356493))
 - [Agnostic Extensional Type Theory](https://github.com/vrahli/opentt) - Parameterized extensional type theory parameterized by a choice operator, and interpreted by a forcing interpretation parameterized by a modality.
 - [System-F type-checker written in Haskell](https://github.com/sancho20021/system-f-type-checker)
+- [Path Semantics](https://github.com/advancedresearch/path_semantics) - Research project in path semantics, a re-interpretation of functions for expressing mathematics.
+- [Type Theory for Memory Allocation and Data Layout](https://www.cs.cmu.edu/~rwh/papers/ordered/popl.pdf)

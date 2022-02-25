@@ -95,3 +95,5 @@
 - [Choosy Eggs May Pick Sperm for Their Genes, Defying Mendel’s Law](https://www.quantamagazine.org/choosy-eggs-may-pick-sperm-for-their-genes-defying-mendels-law-20171115/)
 - [MojoUpgrade](https://mojoupgrade.com/) - Quiz is designed to help you - as a couple - communicate better about your intimate fantasies.
 - [Why Are Young People Having So Little Sex?](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/) ([HN](https://news.ycombinator.com/item?id=30385292))
+- [What is the appeal in being choked during sex?](https://www.reddit.com/r/NoStupidQuestions/comments/sz0und/what_is_the_appeal_in_being_choked_during_sex/)
+- [101 Kinky Things Even You Can Do](https://101kinkythings.com/)

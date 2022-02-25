@@ -40,3 +40,4 @@
 - [x-ray](https://github.com/freelawproject/x-ray) - Python library for finding bad redactions in PDF documents.
 - [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) - JavaScript-only SVG to PDF conversion utility that runs in the browser leveraging jsPDF.
 - [PDFMiner.six](https://github.com/pdfminer/pdfminer.six) - Tool for extracting information from PDF documents.
+- [Keypoints](https://keypoints.app/) - Annotate PDFs in Markdown.

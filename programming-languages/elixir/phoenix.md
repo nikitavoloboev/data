@@ -5,6 +5,7 @@
 ## Phoenix OSS apps
 
 - [Calendlex](https://github.com/bigardone/calendlex) - Simple Calendly clone with Phoenix LiveView.
+- [Honeydew](https://github.com/quarterpi/honeydew) - Example app built on the CELP (Commanded, Elixir, LiveView, PostgreSQL) stack.
 
 ## Notes
 

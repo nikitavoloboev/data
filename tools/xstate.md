@@ -26,3 +26,4 @@ I [model state machines by first listing events (press/do something), tasks (sid
 - [XState React Template - CodeSandbox](https://codesandbox.io/s/xstate-react-template-3t2tg?file=/src/index.js)
 - [Modelling Statecharts: A step-by-step guide (2022)](https://www.youtube.com/watch?v=wykDyFwr8Lk)
 - [Designing State Machines #1 - Fetch Logic](https://www.youtube.com/watch?v=Km8QGtRr1z8)
+- [Integrating Form Libraries (in React/Vue/Svelte) with XState (2022)](https://www.youtube.com/watch?v=Y5ZoVXjLqLA)

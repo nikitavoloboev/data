@@ -117,12 +117,14 @@
 - [uds](https://github.com/tormol/uds) - Unix domain sockets Rust library that supports abstract addresses, fd-passing, SOCK_SEQPACKET sockets and more.
 - [Yamux](https://github.com/libp2p/rust-yamux) - Stream multiplexer over reliable, ordered connections such as TCP/IP.
 - [Silkenweb](https://github.com/silkenweb/silkenweb) - Library for writing reactive single page web apps.
+- [reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
+- [rust-otp](https://github.com/TimDumol/rust-otp) - Rust library for performing the HMAC-based One-Time Password (HOTP) and Time-based One-Time Password (TOTP) algorithms.
 
 ## WASM
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
-- [yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg))
 - [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
@@ -145,7 +147,7 @@
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
 - [Piet](https://github.com/linebender/piet) - Abstraction for 2D graphics. ([Piet text layout API](http://www.cmyr.net/blog/piet-text-work.html))
-- [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
+- [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer. ([Piet-GPU Progress: Clipping](https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html)) ([HN](https://news.ycombinator.com/item?id=30462322))
 - [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
 - [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
 - [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
@@ -1496,6 +1498,15 @@
 - [TSZ](https://github.com/jeromefroe/tsz-rs) - Crate for time series compression based upon Facebook's Gorilla whitepaper.
 - [rust-charts](https://github.com/nobrayner/rust-charts) - Xstate-like statechart library.
 - [Notan](https://github.com/Nazariglez/notan) - Cross-platform multimedia layer.
+- [Interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
+- [Archery](https://github.com/orium/archery) - Abstract over the atomicity of reference-counting pointers in rust.
+- [async-rdma](https://github.com/datenlord/async-rdma) - Framework for writing RDMA applications with high-level abstraction and asynchronous APIs.
+- [scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
+- [blocking](https://github.com/smol-rs/blocking) - Thread pool for isolating blocking I/O in async programs.
+- [spdlog-rs](https://github.com/SpriteOvO/spdlog-rs) - Fast and combinable Rust logging crate.
+- [decimal](https://github.com/invariant-labs/decimal) - Rust library for fixed point number.
+- [rubato](https://github.com/HEnquist/rubato) - Audio sample rate conversion library for Rust.
+- [Stackdump](https://github.com/tweedegolf/stackdump) - Set of rust crates for making stack dumps and getting stack traces out of them.
 
 ## Cargo Plugins
 
@@ -1553,6 +1564,7 @@
 - [cargo-msrv](https://github.com/foresterre/cargo-msrv) - Find the minimum supported Rust version (MSRV) for your project.
 - [cargo-local-install](https://github.com/MaulingMonkey/cargo-local-install) - Wraps `cargo install` for better local, non-conflicting installation.
 - [cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker. ([Reddit](https://www.reddit.com/r/rust/comments/stq51v/announcing_cargozigbuild_compile_cargo_project/))
+- [cargo run-wasm](https://github.com/rukai/cargo-run-wasm) - Run WASM applications and examples in the browser.
 
 ## Links
 

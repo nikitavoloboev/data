@@ -113,3 +113,4 @@
 - [Nuxt Starter Templates](https://github.com/nuxt/starter) - Quickly get started with a minimal Nuxt starter template.
 - [Nuxt Supabase](https://github.com/larbish/supabase-module) - Supabase module for Nuxt.
 - [Nuxt Strapi](https://github.com/nuxt-community/strapi-module) - Strapi Module for Nuxt.
+- [vue-bind-once](https://github.com/danielroe/vue-bind-once) - Tiny, SSR-safe directive for binding random data to an element.

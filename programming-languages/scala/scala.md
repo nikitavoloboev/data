@@ -147,3 +147,5 @@
 - [Simplifying sbt with common settings (2022)](https://eed3si9n.com/simplifying-sbt-with-common-settings/)
 - [Learn Functional Programming course/tutorial on Scala](https://github.com/dehun/learn-fp)
 - [WartRemover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool. ([Docs](https://www.wartremover.org/))
+- [Scala Rules for Bazel](https://github.com/bazelbuild/rules_scala)
+- [Scala Type Classes From Scratch (2021)](https://alexklibisz.com/2021/06/18/scala-typeclasses-from-scratch.html)

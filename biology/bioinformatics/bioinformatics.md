@@ -15,7 +15,7 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Mark Zuckerberg Live With Joe DeRisi & Steve Quake || The Future of Technology & Society (2019)](https://www.youtube.com/watch?v=vdUpF2dmnc8)
 - [The Biostar Handbook](https://www.biostarhandbook.com/) - Introduces readers to bioinformatics, the scientific discipline at the intersection of biology, computer science, and statistical data analytics dedicated to the digital processing of genomic information.
 - [Michael Levin | 2017 Allen Frontiers Symposium](https://www.youtube.com/watch?v=uAEJ0Q2uiNM)
-- [Lattice](https://latticeautomation.com/) - Creates design-automation workflows that fundamentally change engineering biology.
+- [Lattice](https://latticeautomation.com/) - Creates design-automation workflows that fundamentally change engineering biology. ([GitHub](https://github.com/Lattice-Automation))
 - [GuacaMol](https://github.com/BenevolentAI/guacamol) - Benchmarks for generative chemistry.
 - [Single-cell RNA-seq pseudotime estimation algorithms](https://github.com/agitter/single-cell-pseudotime)
 - [Allen Institute for Brain Science Toolkit](https://portal.brain-map.org/explore/toolkit)

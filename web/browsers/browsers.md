@@ -186,3 +186,6 @@
 - [tldrawe](https://github.com/nimeshnayaju/tldrawe) - Draw on any webpage with tldraw.
 - [Cross-Browser support with Cross-Origin isolation (2022)](https://blog.stackblitz.com/posts/cross-browser-with-coop-coep/)
 - [timesnap](https://github.com/tungs/timesnap) - Node.js program that takes screenshots at smooth intervals of web pages with JavaScript animations.
+- [Userscript Proxy](https://github.com/SimonAlling/userscript-proxy) - Built around mitmproxy and acts as a MITM, injecting userscripts into web pages as they flow through it.
+- [Hyperbeam API](https://www.hyperbeam.dev/) - Embed Multiplayer Web Browsers. ([HN](https://news.ycombinator.com/item?id=30433104))
+- [Reliably Send an HTTP Request as a User Leaves a Page (2022)](https://css-tricks.com/send-an-http-request-on-page-exit/)

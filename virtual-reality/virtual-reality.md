@@ -44,7 +44,7 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Full-body tracking in VR using AprilTag markers](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker)
 - [LucidVR open source force feedback VR gloves](https://github.com/LucidVR/lucidgloves) ([HN](https://news.ycombinator.com/item?id=28340330))
 - [What it's like to spend 40-50 hours in VR every week (2021)](https://blog.immersed.team/working-from-orbit-39bf95a6d385) ([HN](https://news.ycombinator.com/item?id=28678041))
-- [SimulaVR](https://simulavr.com/) - Office-focused, standalone VR headset built on top of Linux. ([HN](https://news.ycombinator.com/item?id=28691358))
+- [SimulaVR](https://simulavr.com/) - Office-focused, standalone VR headset built on top of Linux. ([HN](https://news.ycombinator.com/item?id=28691358)) ([HN](https://news.ycombinator.com/item?id=30440828))
 - [Oculess](https://github.com/basti564/Oculess) - Removes account requirements and telemetry from Oculus Quest devices. ([HN](https://news.ycombinator.com/item?id=28869462))
 - [vrLauncher](https://github.com/basti564/vrLauncher) - Allows you to launch various /hidden/ options of the Oculus Quest.
 - [The metaverse is bad, sorry (2021)](https://www.theatlantic.com/technology/archive/2021/10/facebook-metaverse-name-change/620449/) ([Tweet](https://twitter.com/ibogost/status/1451291837650673665))

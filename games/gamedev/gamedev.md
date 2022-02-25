@@ -234,3 +234,4 @@
 - [Open Gamedev School](https://spicylobster.itch.io/fishfight/devlog/345530/open-gamedev-school) ([Lobsters](https://lobste.rs/s/jvmhp2/open_gamedev_school))
 - [Multiplayer Online Standard](https://github.com/tinspin/fuse)
 - [Video Game Project Management Anti-patterns (2022)](https://arxiv.org/abs/2202.06183) ([HN](https://news.ycombinator.com/item?id=30344251))
+- [Hathora](https://github.com/hathora/hathora) - Framework for building multiplayer games and other real time applications. ([Docs](https://docs.hathora.dev/#/)) ([HN](https://news.ycombinator.com/item?id=30442072))

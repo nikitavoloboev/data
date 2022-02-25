@@ -45,3 +45,4 @@
 - [Ask HN: Why is building Windows apps so complicated (2021)](https://news.ycombinator.com/item?id=29529267)
 - [Bottles](https://usebottles.com/) - Easily run Windows software on Linux. ([Code](https://github.com/bottlesdevs/Bottles)) ([HN](https://news.ycombinator.com/item?id=29612976))
 - [Cassowary](https://github.com/casualsnek/cassowary) - Run Windows Apps on Linux using a VM as if they were native apps. ([HN](https://news.ycombinator.com/item?id=30214762))
+- [Neptune OS](https://github.com/cl91/NeptuneOS) - Windows NT personality for the seL4 microkernel. ([HN](https://news.ycombinator.com/item?id=30436993))

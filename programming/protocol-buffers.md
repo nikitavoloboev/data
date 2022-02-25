@@ -14,7 +14,7 @@
 - [pprof](https://github.com/google/pprof) - Tool for visualization and analysis of profiling data.
 - [qpprof](https://github.com/quasilyte/qpprof) - Helper tool to work with profile.proto (pprof) files.
 - [Riegeli/records](https://github.com/google/riegeli) - File format for storing a sequence of string records, typically serialized protocol buffers.
-- [Buf](https://github.com/bufbuild/buf) - New way of working with Protocol Buffers.
+- [Buf](https://github.com/bufbuild/buf) - New way of working with Protocol Buffers. ([Web](https://buf.build/)) ([CLI 1.0](https://buf.build/blog/buf-cli-v1)) ([HN](https://news.ycombinator.com/item?id=30442843))
 - [Nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers for Embedded Systems.
 - [anyvendor](https://github.com/solo-io/anyvendor) - All purpose tool to make working with protoc easier.
 - [proto](https://github.com/emicklei/proto) - Package in Go for parsing Google Protocol Buffers.

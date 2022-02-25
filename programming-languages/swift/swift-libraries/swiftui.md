@@ -186,3 +186,4 @@
 - [Beginners guide to view modifiers in SwiftUI (2020)](https://www.calincrist.com/blog/2020-05-02-beginners-guide-to-view-modifiers-swiftui/)
 - [Dash Docset for Samuel Defago's Post on SwiftUI Layout Behavior](https://github.com/manmal/swiftui-layout-dash-docset)
 - [Multi-platform Development, the SwiftUI Way (2021)](https://www.youtube.com/watch?v=5HO6fsegDNk) ([Code](https://github.com/malinsundberg/ios-conf-sg-caffeine-squirrel))
+- [SwiftUI under the Hood: Variadic Views (2022)](https://movingparts.io/variadic-views-in-swiftui)

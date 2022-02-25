@@ -122,3 +122,4 @@
 - [AI Now Institute](https://ainowinstitute.org/) - Research institute dedicated to examining the social and political implications of artificial intelligence. ([Twitter](https://twitter.com/ainowinstitute))
 - [Modular AI](https://www.modular.ai/) - AI infrastructure to power the world.
 - [Neural nets are not “slightly conscious,” and AI PR can do with less hype (2022)](https://lastweekin.ai/p/conscious-ai) ([HN](https://news.ycombinator.com/item?id=30408924))
+- [Yann LeCun on a vision to make AI systems learn and reason like animals and humans (2022)](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research) ([Tweet](https://twitter.com/ylecun/status/1496555825199988739))

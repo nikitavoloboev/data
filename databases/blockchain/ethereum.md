@@ -416,7 +416,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.
 - [Multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
 - [Revoke.cash](https://revoke.cash/) - Revoke your ERC20 token allowances. ([Code](https://github.com/rkalis/revoke.cash))
-- [Earnifi](https://earni.fi/) - Find Crypto Airdrops.
+- [Earnifi](https://earni.fi/) - Find Crypto Airdrops. ([GitHub](https://github.com/Earnifi))
 - [MEV-geth](https://github.com/flashbots/mev-geth) - Go implementation of MEV-Auction for Ethereum.
 - [prettier-config-solidity](https://github.com/sambacha/prettier-config-solidity) - Prettier config optimized to reduce AST churn & conform to solidity spec.
 - [Safari Wallet](https://safariwallet.org/) - Forkable EVM wallet for everyone. ([Web Code](https://github.com/Safari-Wallet/safariwallet.org))
@@ -493,3 +493,11 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [go-ens](https://github.com/wealdtech/go-ens) - Go module to simplify interacting with the Ethereum Name Service contracts.
 - [Scaffold-ETH Challenges](https://github.com/scaffold-eth/scaffold-eth-challenges)
 - [Mellow Vaults](https://github.com/mellow-finance/mellow-vaults) - Trustless automatic DeFi strategies.
+- [0xsequence.js](https://github.com/0xsequence/sequence.js) - Ethereum development library and Smart Wallet with built-in L2 support.
+- [Solidity Utils](https://github.com/1inch/solidity-utils)
+- [Building infinitely scalable decentralized applications](https://github.com/andrecronje/zkftm)
+- [VeriSmart](https://github.com/kupl/VeriSmart-public) - Safety analyzer for Solidity smart contracts.
+- [zknifty](https://github.com/snario/zknifty) - Zero-knowledge non-fungible tokens on Ethereum using zk-SNARKs.
+- [statechannels](https://github.com/statechannels/statechannels) - Simple off-chain applications framework for Ethereum. ([Web](https://statechannels.org/))
+- [Pandora Protocol Contracts](https://github.com/Pandora-Finance/Modular-contract) - Express contract for NFT ecosystem.
+- [OpenSea Creatures](https://github.com/ProjectOpenSea/opensea-creatures/tree/df8baafd8e8cb60f847b3ede640105f0bad6d057) - Example non-fungible collectible, to demonstrate OpenSea integration.

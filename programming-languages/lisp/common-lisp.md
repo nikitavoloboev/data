@@ -93,3 +93,4 @@
 - [CL21](https://github.com/cl21/cl21) - Common Lisp in the 21st Century.
 - [Arrows](https://github.com/Harleqin/arrows) - Implements threading macros, inspired by Clojure.
 - [cl-gserver](https://github.com/mdbergmann/cl-gserver) - Actor framework featuring actors and agents for easy access to state and asynchronous operations.
+- [Xecto](https://github.com/pkhuong/Xecto) - Regular array parallelism in CL.

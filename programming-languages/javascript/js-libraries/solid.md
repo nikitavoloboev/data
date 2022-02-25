@@ -4,6 +4,10 @@
 
 [Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos).
 
+## OSS apps
+
+- [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
+
 ## Links
 
 - [solid-nanostores](https://github.com/nanostores/solid) - Global state management in Solid using Nano Stores.

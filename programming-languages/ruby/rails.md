@@ -116,3 +116,8 @@
 - [Don't make me think, or why I switched to Rails from JavaScript SPAs (2022)](https://reviewbunny.app/blog/dont-make-me-think-or-why-i-switched-to-rails-from-javascript-spas) ([HN](https://news.ycombinator.com/item?id=30206989))
 - [Lamby](https://github.com/customink/lamby) - Simple Rails & AWS Lambda Integration.
 - [Simply integrating Svelte into Rails (2021)](https://retro.cloud/simply-integrating-svelte-in-rails/)
+- [Turbo Streams Tic Tac Toe](https://www.youtube.com/watch?v=Zxs8tKIOKU4) ([Code](https://github.com/cjavdev/turbo-streams-tic-tac-toe))
+- [clearbnb - building a vacation rental platform (2021)](https://www.youtube.com/playlist?list=PLS6F722u-R6LoD3UN0EE_cKtHVG2EWn0t)
+- [Rails 7 application inside Docker on macOS (2022)](https://bpohoriletz.github.io/2022/01/19/rails-7-app-inside-docker-on-osx.html)
+- [Rails 7 on Docker demo application](https://github.com/ryanwi/rails7-on-docker) - Working Rails 7 demo application without JavaScript bundling, running in Docker. No node.js or webpack.
+- [Rails adds support for Fiber-safe ActiveRecord ConnectionPools (2022)](https://blog.saeloun.com/2022/02/23/rails-fiber-safe-connection-pools.html) ([HN](https://news.ycombinator.com/item?id=30454043))

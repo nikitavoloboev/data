@@ -104,7 +104,7 @@
 - [Atsh.io](https://www.atsh.io/) - GUI for Advanced Twitter Search Queries.
 - [10 Advanced Twitter Features](https://twitter.com/dickiebush/status/1376914220411985926)
 - [Twitter Spaces, a few weeks in (2021)](http://dtrace.org/blogs/bmc/2021/05/02/twitter-spaces-a-few-weeks-in/)
-- [BrandBird](https://www.brandbird.app/) - Brand Your Twitter Visual Content.
+- [BrandBird Studio](https://www.brandbird.app/) - Smart image editor for SaaS founders who want beautiful graphics without effort. ([Twitter](https://twitter.com/BrandBirdApp))
 - [Twitter Clone](https://github.com/HotPotatoC/twitter-clone) - Twitter Clone developed using Go + Vue 3 + Vite + TailwindCSS + PostgreSQL + Redis.
 - [TwitterStream](https://github.com/Fallenstedt/twitter-stream) - Stream Tweets With Twitter's v2 Streaming API using Go.
 - [snap-tweet](https://github.com/privatenumber/snap-tweet) - Command-line tool to capture clean and simple tweet snapshots.
@@ -152,3 +152,4 @@
 - [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) - Remove distractions from the new Twitter layout. Browser extension.
 - [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)
 - [Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis (2022)](https://arxiv.org/abs/2201.07281) ([Code](https://github.com/social-machines/TweebankNLP))
+- [Turn your tweets/threads into a blog and RSS feed](https://typefully.com/profile) ([HN](https://news.ycombinator.com/item?id=30440835))

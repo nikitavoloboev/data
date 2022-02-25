@@ -187,3 +187,4 @@
 - [DNS lookup cache for Go](https://github.com/rs/dnscache)
 - [Caching DNS Resolver](https://github.com/vercel/dns-cached-resolve) - Cache DNS A and AAAA record resolutions.
 - [rustdns](https://github.com/bramp/rustdns) - Simple, fast, and fully fledged DNS library for interacting with domain name services at a high or low level.
+- [Some things about getaddrinfo that surprised me (2022)](https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/)

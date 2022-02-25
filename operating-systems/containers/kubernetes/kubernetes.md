@@ -634,3 +634,12 @@
 - [Digester](https://github.com/google/k8s-digester) - Resolves tags to digests for container and init container images in Kubernetes Pod and Pod template specs.
 - [kube-review](https://github.com/anderseknert/kube-review) - Create Kubernetes AdmissionReview requests from Kubernetes resources.
 - [ValidKube](https://validkube.com/) - Validate, Clean & Secure Your K8s YAML. ([Code](https://github.com/komodorio/validkube))
+- [KubeSphere](https://kubesphere.io/) - Open Source Enterprise Kubernetes Platform. ([Code](https://github.com/kubesphere/kubesphere))
+- [Kubetest2](https://github.com/kubernetes-sigs/kubetest2) - Framework for launching and running end-to-end tests on Kubernetes.
+- [DETIK](https://github.com/bats-core/bats-detik) - DevOps e2e Testing in Kubernetes.
+- [Knative Reconciler Test](https://github.com/knative-sandbox/reconciler-test) - Behavior driven reconciler testing framework.
+- [KUTTL](https://github.com/kudobuilder/kuttl) - Designed for testing operators, however it can declaratively test any kubernetes objects.
+- [KET](https://github.com/riita10069/ket) - Simplest testing framework for Kubernetes controller.
+- [Pixie](https://px.dev/) - Kubernetes Monitoring, Application Debug Platform.
+- [Reloaderai](https://github.com/stakater/Reloader) - Kubernetes controller to watch changes in ConfigMap and Secrets.
+- [Speed Limits for Rolling Restarts in Kubernetes (2021)](https://alexklibisz.com/2021/07/20/speed-limits-for-rolling-restarts-in-kubernetes.html)

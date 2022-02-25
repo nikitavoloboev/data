@@ -84,6 +84,7 @@
 - [Find Unlinked Files](https://github.com/Vinzent03/find-unlinked-files) - Find unlinked files (files with no backlinks) and unresolved links.
 - [Quick Jump Plugin](https://github.com/tadashi-aikawa/obsidian-quick-jump-plugin) - Enables you to quickly jump to internal and external links.
 - [Another Quick Switcher Plugin](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
+- [Open Link Plugin](https://github.com/chovanecm/obsidian-open-link) - Open URL linked to Markdown files in YAML frontmatter.
 
 ## Themes
 
@@ -94,6 +95,7 @@
 - [Minimal](https://github.com/kepano/obsidian-minimal) - Obsidian theme meticulously designed to feel native on desktop, mobile and tablet. ([Fork](https://github.com/gavinmn/obsidian-minimal))
 - [Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
 - [Catppuccin](https://github.com/catppuccin/obsidian) - Soothing pastel theme for Obsidian.
+- [Absolve](https://github.com/mulfok/obsidian-absolve) - Theme overlay snippet for Obsidian.md.
 
 ## Links
 

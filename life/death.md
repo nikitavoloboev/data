@@ -65,3 +65,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Very few months to live, I'm scared of death](https://www.reddit.com/r/TrueOffMyChest/comments/rx4yme/very_few_months_to_live_im_scared_of_death/)
 - [What if death wasn't the death we expected?](https://riverdalepress.com/stories/what-if-death-wasnt-the-death-we-expected,64405) ([HN](https://news.ycombinator.com/item?id=29901706))
 - [World Mortality Dataset](https://github.com/akarlinsky/world_mortality)
+- [Neuroscientists have recorded the activity of a dying human brain (2022)](https://blog.frontiersin.org/2022/02/22/what-happens-in-our-brain-when-we-die/) ([HN](https://news.ycombinator.com/item?id=30431711))

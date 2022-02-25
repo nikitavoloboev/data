@@ -29,7 +29,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Zilliqa](https://github.com/Zilliqa/Zilliqa) - Scalable smart contract platform that aims to tackle the congestion issue plaguing the blockchain industry.
 - [Metapurse](https://metapurse.fund/) - Crypto-exclusive fund.
 - [Rarible](https://rarible.com/) - Create, sell or collect digital items secured with Blockchain.
-- [OpenSea](https://opensea.io/) - Largest NFT marketplace. Buy, sell, and discover rare digital items. ([JS SDK](https://github.com/ProjectOpenSea/opensea-js))
+- [OpenSea](https://opensea.io/) - Largest NFT marketplace. Buy, sell, and discover rare digital items. ([JS SDK](https://github.com/ProjectOpenSea/opensea-js)) ([Dev Docs](https://docs.opensea.io/))
 - [Polymarket](https://polymarket.com/) - Global Information Markets Platform.
 - [Tokenlog](https://tokenlog.xyz/) - Token-weighted backlogs. ([Code](https://github.com/wslyvh/tokenlog))
 - [RabbitHole](https://rabbithole.gg/) - Earn crypto by using the latest crypto applications.
@@ -77,7 +77,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Mechanism design challenges in cryptocurrency and blockchains by Buterin Slides](https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ/edit#slide=id.p)
 - [Edward Snowden Explains Blockchain to His Lawyer — and the Rest of Us](https://www.aclu.org/blog/privacy-technology/internet-privacy/edward-snowden-explains-blockchain-his-lawyer-and-rest-us)
 - [EOS](https://github.com/EOSIO/eos) - Open source smart contract platform.
-- [The Graph](https://thegraph.com/) - Indexing protocol for querying networks like Ethereum and IPFS. ([2019 Keynote](https://www.youtube.com/watch?v=fZcbWkrTMtg)) ([Twitter](https://twitter.com/graphprotocol)) ([CLI](https://github.com/graphprotocol/graph-cli))
+- [The Graph](https://thegraph.com/) - Indexing protocol for querying networks like Ethereum and IPFS. ([2019 Keynote](https://www.youtube.com/watch?v=fZcbWkrTMtg)) ([Twitter](https://twitter.com/graphprotocol)) ([CLI](https://github.com/graphprotocol/graph-cli)) ([Code](https://github.com/graphprotocol/contracts))
 - [IELE Semantics](https://github.com/runtimeverification/iele-semantics) - Semantics of Virtual Machine for IELE prototype blockchain.
 - [Why Blockchain Could (One Day) Topple Google (2017)](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
 - [Squeezer Framework](https://github.com/SqueezerIO/squeezer) - Build serverless dApps.
@@ -347,3 +347,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Toucan Protocol Carbon Bridge](https://toucan.earth/) - Programmable carbon opens new opportunities for a regenerative and distributive economic system.
 - [What’s the best recent thing you’ve seen happening in web3? (2022)](https://twitter.com/cdixon/status/1494480341070876673)
 - [Fweb3](https://fweb3.xyz/) - Learn and build in web3.
+- [Web3 Reputation Market Map (2022)](https://kermankohli.substack.com/p/web3-reputation-market-map)
+- [NFT API](https://github.com/nft-api/nft-api) - Returns resolved metadata and has all information about all NFT collections, users, transactions. Cross-Chain NFT API.
+- [Fetch.ai](https://fetch.ai/) ([GitHub](https://github.com/fetchai)) ([Code](https://github.com/fetchai/fetchd))
+- [3Box Labs](https://3boxlabs.com/) - Creators of Ceramic Network.

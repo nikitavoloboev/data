@@ -56,3 +56,5 @@
 - [Meta-StyleSpeech : Multi-Speaker Adaptive Text-to-Speech Generation (2021)](https://arxiv.org/abs/2106.03153) ([Code](https://github.com/keonlee9420/StyleSpeech))
 - [NATSpeech](https://github.com/NATSpeech/NATSpeech) - Non-Autoregressive Text-to-Speech Framework.
 - [VocBench: A Neural Vocoder Benchmark for Speech Synthesis (2021)](https://arxiv.org/abs/2112.03099) ([Code](https://github.com/facebookresearch/vocoder-benchmark))
+- [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - Text-to-Speech Transformer in TensorFlow 2.
+- [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)

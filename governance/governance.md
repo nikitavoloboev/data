@@ -109,3 +109,6 @@
 - [Society has a trust problem. More censorship will only make it worse (2022)](https://on.substack.com/p/society-has-a-trust-problem-more) ([HN](https://news.ycombinator.com/item?id=30092136)) ([Tweet](https://twitter.com/lulumeservey/status/1486801734110482434))
 - [Who Got It Right: Orwell or Huxley?](https://www.pairagraph.com/dialogue/07d855107abf428c97583312e1e738fe) ([HN](https://news.ycombinator.com/item?id=30107066))
 - [Есть ли будущее у наций? Лекция и ответы на вопросы (2022)](https://www.youtube.com/watch?v=8jAEZnSVMKA)
+- [What anti-imperialism means](https://twitter.com/davidallengreen/status/1496067931322699778)
+- [In our cashless society, we need to take digital jail seriously (2022)](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/) ([HN](https://news.ycombinator.com/item?id=30435215))
+- [In most countries, Dictatorship is far from a distant memory (2022)](https://ourworldindata.org/democracies-age) ([HN](https://news.ycombinator.com/item?id=30455730))

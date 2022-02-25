@@ -290,3 +290,7 @@
 - [evosax](https://github.com/RobertTLange/evosax) - JAX-Based Evolution Strategies.
 - [Neural Processes](https://github.com/wesselb/neuralprocesses) - Framework for composing Neural Processes in Python.
 - [Anomalib](https://github.com/openvinotoolkit/anomalib) - Library for benchmarking, developing and deploying deep learning anomaly detection algorithms.
+- [Fasterai](https://github.com/nathanhubens/fasterai) - Library to make smaller and faster models with FastAI.
+- [ClearML Server](https://github.com/allegroai/clearml-server) - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management.
+- [Human Library](https://github.com/vladmandic/human) - 3D Face Detection & Rotation Tracking, Face Description & more.
+- [Towhee](https://github.com/towhee-io/towhee) - Flexible, application-oriented framework for generating embedding vectors via a pipeline of ML models and other operations.

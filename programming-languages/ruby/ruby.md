@@ -108,3 +108,5 @@
 - [Ruby Structs (2021)](https://www.alchemists.io/articles/ruby_structs/) ([Lobsters](https://lobste.rs/s/ct0tpf/ruby_structs))
 - [Reek](https://github.com/troessner/reek) - Code smell detector for Ruby.
 - [TryRuby](https://try.ruby-lang.org/) - Learn programming with Ruby. ([Code](https://github.com/ruby/TryRuby))
+- [Why I love Ruby (2022)](https://dev.to/asterite/why-i-love-ruby-part-1-20h2) ([Lobsters](https://lobste.rs/s/f9syni/why_i_love_ruby))
+- [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list)

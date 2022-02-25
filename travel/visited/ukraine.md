@@ -4,13 +4,13 @@ It's unfortunate [what Ukraine has to deal through](https://www.reddit.com/r/Cre
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
-I hope once Putin finally loses power, Russia stops unlawfully occupying Crimea.
+I hope once Putin finally loses power, Russia stops unlawfully occupying and harassing Ukraine.
 
 ## Links
 
 - [Kasta](https://kasta.ua/) - Online Ukraine shop.
 - [Made in Ukraine](https://github.com/chernivtsijs/made-in-ukraine) - Curating the best projects that were made and mainly contributed by Ukrainian developers.
-- [liveuamap.com](https://liveuamap.com/) - Ukraine Interactive map. ([Twitter](https://twitter.com/Liveuamap))
+- [liveuamap.com](https://liveuamap.com/) - Ukraine Conflict Live Map. ([Twitter](https://twitter.com/Liveuamap)) ([HN](https://news.ycombinator.com/item?id=30429192))
 - [Ukraine: Putin’s Unfinished Business (2021)](https://carnegieendowment.org/2021/11/12/ukraine-putin-s-unfinished-business-pub-85771) ([Tweet](https://twitter.com/andrewsweiss/status/1459285106120605707))
 - [Exclusive Front-Line Report: Modern Trench Warfare in Eastern Ukraine (2021)](https://coffeeordie.com/ukraine-front-line/)
 - [Is Russia preparing to invade Ukraine? (2021)](https://www.reddit.com/r/PoliticalDiscussion/comments/qstfha/is_russia_preparing_to_invade_ukraine_and_what/)
@@ -32,3 +32,18 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying Crimea.
 - [Мюнхенская речь Зеленского (2022)](https://www.youtube.com/watch?v=0YDps3cmUVo)
 - [Why is Ukraine such an economic failure? (2022)](https://noahpinion.substack.com/p/why-is-ukraine-such-an-economic-failure)
 - [Anatomy of a Russian False Flag (2022)](https://twitter.com/EliotHiggins/status/1495355366141534208)
+- [Emergency Pod: Brink of War in Ukraine (2022)](https://crooked.com/podcast/emergency-pod-brink-of-war-in-ukraine/)
+- [Speech Recognition for Ukrainian](https://github.com/egorsmkv/speech-recognition-uk)
+- [The Kyiv Independent](https://kyivindependent.com/) - News from Ukraine, Eastern Europe. ([Telegram](https://t.me/KyivIndependent_official))
+- [President Zelenskyy's heartbreaking, defiant speech to the Russian people (2022)](https://www.youtube.com/watch?v=4XA60pQ53Rs) ([Tweet](https://www.reddit.com/r/ukraine/comments/t0cmak/president_zelenskyys_heartbreaking_defiant_speech/))
+- [Why Russia used military to invade Ukraine (2022)](https://news.ycombinator.com/item?id=30450117)
+- [Russian-Ukrainian War of 2022](https://twitter.com/RALee85/status/1496752076335947778)
+- [Twitter based map of Russian troop movements](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) ([HN](https://news.ycombinator.com/item?id=30452685))
+- [Ukrainian Literature (2022)](https://www.reddit.com/r/suggestmeabook/comments/t00ulg/ukrainian_literature/)
+- [Эта война будет долгой? И что после нее станет с Украиной, Россией и миром? (2022)](https://www.youtube.com/watch?v=Oqj6UBk9GLQ)
+- [Why is Ukraine the West's Fault? Featuring John Mearsheimer (2022)](https://www.youtube.com/watch?v=JrMiSQAGOS4) ([Tweet](https://twitter.com/zei_squirrel/status/1496251177549578241)) ([PDF](https://www.mearsheimer.com/wp-content/uploads/2019/06/Why-the-Ukraine-Crisis-Is.pdf)) ([HN](https://news.ycombinator.com/item?id=30459766))
+- [HN: Russian forces invade Ukraine after Putin orders attack (2022)](https://news.ycombinator.com/item?id=30450336)
+- [Ukrainian Conflict (2013-present) Reddit](https://www.reddit.com/r/UkrainianConflict/)
+- [Ukraine - Russia attack summary (2022)](https://twitter.com/ericgeller/status/1496685351615803396)
+- [Understanding the War in Ukraine (2022)](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/) ([HN](https://news.ycombinator.com/item?id=30464286))
+- [Ukraine is amazing (2022)](https://twitter.com/TheSofiya/status/1496958320128651275)

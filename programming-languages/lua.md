@@ -100,3 +100,4 @@
 - [Fullmoon](https://github.com/pkulchenko/fullmoon) - Fast and minimalistic web framework based on Redbean web server.
 - [lua-pb](https://github.com/Neopallium/lua-pb) - Lua Protocol Buffers.
 - [Catwell's Lua playground](https://github.com/catwell/cw-lua) - Store the various Open Source tools, algorithms and libraries I write in Lua.
+- [Luar](https://github.com/Malien/luar) - Lua interpreter / JIT compiler.

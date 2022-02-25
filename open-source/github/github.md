@@ -347,3 +347,7 @@ Awesome List
 - [Crossplane Provider for GitHub](https://github.com/crossplane-contrib/provider-github)
 - [ghdl](https://github.com/beetcb/ghdl) - Fast and simple program (and also a golang module) for downloading and installing executable binary from github releases.
 - [Repositories App](https://github.com/samdenty/repositories-app) - Mac app which allows you to access any file from github, without cloning.
+- [sponsors-cli](https://github.com/2nthony/sponsors-cli) - Opinionated CLI to generate GitHub Sponsors SVG.
+- [orbnet](https://github.com/milosgajdos/orbnet) - GitHub star network.
+- [ghinstallation](https://github.com/bradleyfalzon/ghinstallation) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow.
+- [SponsorKit](https://github.com/antfu/sponsorkit) - Toolkit for generating sponsors images.

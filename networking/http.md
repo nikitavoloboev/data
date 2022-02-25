@@ -203,3 +203,6 @@
 - [shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server.
 - [Ain](https://github.com/jonaslu/ain) - HTTP API client for the terminal.
 - [Breaking the Rules With Stateful Services (2022)](https://remesh.blog/breaking-the-rules-with-stateful-services-8eb361734d86) ([Lobsters](https://lobste.rs/s/yge0y3/breaking_rules_with_stateful_services))
+- [TypedWebhook.tools](https://typedwebhook.tools/) - Web hook testing tool for checking payloads, with automatic type generation. ([Code](https://github.com/inngest/typedwebhook.tools))
+- [Smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy. ([Web](https://smocker.dev/))
+- [Braid: Synchronization for HTTP](https://braid.org/) - Extension to HTTP that generalizes it from a state transfer to a state synchronization protocol. ([Spec Code](https://github.com/braid-org/braid-spec))

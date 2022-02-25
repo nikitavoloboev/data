@@ -1,7 +1,5 @@
 # Web
 
-The Internet is genuinely one of the best things to come out of 20th century. It has so many implications for the future and can solve so many of the world's problems, it is exciting.
-
 ## Notes
 
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.
@@ -361,3 +359,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The race to reconnect Tonga (2022)](https://graphics.reuters.com/TONGA-VOLCANO/znpnejbjovl/) ([HN](https://news.ycombinator.com/item?id=30332628))
 - [Mother Earth Mother Board](https://www.wired.com/1996/12/ffglass/) - About undersea cables.
 - [Web APIs Playground](https://webapis-playground.vercel.app/) - Showcase the JavaScript Web APIs with examples and demonstrations. ([Code](https://github.com/atapas/webapis-playground))
+- [List of lightweight websites without bloat](https://github.com/mdibaiee/awesome-lite-websites)

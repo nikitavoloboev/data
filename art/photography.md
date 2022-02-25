@@ -192,3 +192,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [A Film Photoshoot in 5 Minutes w/ the Pentax 67 (2022)](https://www.youtube.com/watch?v=dM76x19En28)
 - [Seeing in Black and White with Eileen Rafferty (2015)](https://www.youtube.com/watch?v=V8Hh8S-Z68s)
 - [Art Movements Through Photography (2013)](https://www.youtube.com/watch?v=r-Bx5krtLZY)
+- [How Does Film Actually Work? [Photos and Development]](https://www.youtube.com/watch?v=TCxoZlFqzwA)

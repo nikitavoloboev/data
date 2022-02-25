@@ -261,3 +261,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Never use text pixelation to redact sensitive information (2022)](https://bishopfox.com/blog/unredacter-tool-never-pixelation) ([HN](https://news.ycombinator.com/item?id=30350626)) ([Code](https://github.com/BishopFox/unredacter))
 - [Almost every publicly available CVE PoC](https://github.com/trickest/cve)
 - [Threat Modeling: A Practical Guide for Development Teams Book](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)

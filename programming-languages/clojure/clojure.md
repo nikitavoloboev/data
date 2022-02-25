@@ -1,5 +1,7 @@
 # [Clojure](https://clojure.org)
 
+[Try Clojure](https://tryclojure.org/) is nice.
+
 ## Links
 
 - [HN: Clojure learning journey](https://news.ycombinator.com/item?id=16412050)
@@ -201,3 +203,5 @@
 - [uclj](https://github.com/erdos/uclj) - Small, quick, native Clojure interpreter.
 - [tree-sitter-clojure](https://github.com/sogaiu/tree-sitter-clojure)
 - [Humble Decomposition (2022)](https://tonsky.me/blog/humble-decomposition/) ([HN](https://news.ycombinator.com/item?id=30383442))
+- [Humble Chronicles: The Layout (2022)](https://tonsky.me/blog/humble-layout/)
+- [Try Clojure](https://tryclojure.org/) - Interactive tutorial in the browser. ([HN](https://news.ycombinator.com/item?id=30423856)) ([HN](https://github.com/elias94/tryclojure))

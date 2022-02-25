@@ -36,5 +36,5 @@
 - [7 Gettext lessons learned after 2 years of developing a European platform (2021)](https://angelika.me/2021/11/23/7-gettext-lessons-after-2-years/)
 - [format-message](https://github.com/format-message/format-message) - Internationalize text, numbers, and dates using ICU Message Format.
 - [Tolgee JS](https://github.com/tolgee/tolgee-js) - Provides ability to easily manage localization texts directly in context of web application developed by you.
-- [SimpleLocalize](https://simplelocalize.io/) - Translation Management for software projects.
+- [SimpleLocalize](https://simplelocalize.io/) - Translation Management for software projects. ([CLI](https://github.com/simplelocalize/simplelocalize-cli))
 - [FormatJS](https://github.com/formatjs/formatjs) - Internationalize your web apps on the client & server. ([Web](https://formatjs.io/))

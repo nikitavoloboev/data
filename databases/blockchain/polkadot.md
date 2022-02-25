@@ -72,3 +72,4 @@
 - [Subspace Network](https://subspace.network/) - Open, scalable platform for both storage and compute that is fully interoperable with any layer one. ([Code](https://github.com/subspace/subspace))
 - [Astar Network](https://astar.network/) - Polkadot DApp Hub. ([Code](https://github.com/PlasmNetwork/Astar))
 - [NFT Explorer for Kusama & Polkadot & Substrate ecosystem](https://github.com/kodadot/nft-gallery)
+- [Polkadot Rewards](https://github.com/insipx/polkadot-rewards) - CLI App to crawl staking rewards for Kusama, Polkadot, and Moonriver from Subscan.

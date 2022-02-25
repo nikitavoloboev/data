@@ -581,7 +581,7 @@ if err != nil {
 - [Pre-Commit-Go](https://github.com/TekWizely/pre-commit-golang) - Set of git pre-commit hooks for Go with support for multi-module monorepos, the ability to pass arguments to all hooks, and the ability to invoke custom go tools.
 - [Go Concurrency Patterns](https://github.com/lotusirous/go-concurrency-patterns)
 - [Functional Options are named args on steroids (2021)](https://blog.uptrace.dev/posts/go-functional-options-named-args.html) ([Reddit](https://www.reddit.com/r/golang/comments/qcmt8c/functional_options_are_named_args_on_steroids/))
-- [rustgo: calling Rust from Go with near-zero overhead (2017)](https://blog.filippo.io/rustgo/)
+- [RustGo: calling Rust from Go with near-zero overhead (2017)](https://words.filippo.io/rustgo/)
 - [Discord Gophers](https://discord.com/invite/0f1SbxBZjYoCtNPP) ([GitHub](https://github.com/DiscordGophers))
 - [Make your Go go faster! Optimising performance through reducing memory allocations (2018)](https://www.youtube.com/watch?v=NS1hmEWv4Ac)
 - [Gofire](https://github.com/1pkg/gofire) - Command Line Interface Generator tool for Go.
@@ -713,3 +713,5 @@ if err != nil {
 - [enumcheck](https://github.com/loov/enumcheck) - Allows to mark Go enum types as exhaustive.
 - [dupl](https://github.com/mibk/dupl) - Tool written in Go for finding code clones. Can find clones only in the Go source files.
 - [Go Webinar Course](https://github.com/OtusGolang/webinars_practical_part)
+- [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install".
+- [“Sustainability with Rust” post misleading about Go (2022)](https://twitter.com/_rsc/status/1496352325157457922) ([HN](https://news.ycombinator.com/item?id=30441771)) ([Tweet](https://www.reddit.com/r/golang/comments/sznapm/russ_cox_on_sustainability_with_rust_post_by_aws/))

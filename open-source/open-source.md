@@ -218,3 +218,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Embark Open Source](https://github.com/EmbarkStudios/opensource) - Open source processes, policies, and info.
 - [opensource-template](https://github.com/EmbarkStudios/opensource-template) - Template for creating new open source repositories that follow the Embark open source guidelines.
 - [Documentation and Practices for Open Source Development at Chef](https://github.com/chef/chef-oss-practices)
+- [Support open source that you use by paying the maintainers to talk to your team (2022)](https://simonwillison.net/2022/Feb/23/support-open-source/) ([HN](https://news.ycombinator.com/item?id=30446039))

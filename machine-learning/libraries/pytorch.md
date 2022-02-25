@@ -32,7 +32,7 @@
 - [Towards Reproducible Research with PyTorch Hub (2019)](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/)
 - [XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
 - [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.
-- [PyTorch Lightning](https://github.com/williamFalcon/pytorch-lightning) - Rapid research framework for PyTorch. The researcher's version of Keras. ([Tutorial](https://www.youtube.com/watch?v=Hgg8Xy6IRig)) ([Finding why Pytorch Lightning made my training 4x slower](https://medium.com/@florian-ernst/finding-why-pytorch-lightning-made-my-training-4x-slower-ae64a4720bd1)) ([PyTorch Lightning for Dummies](https://www.assemblyai.com/blog/pytorch-lightning-for-dummies/))
+- [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - Lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate. ([Tutorial](https://www.youtube.com/watch?v=Hgg8Xy6IRig)) ([Finding why Pytorch Lightning made my training 4x slower](https://medium.com/@florian-ernst/finding-why-pytorch-lightning-made-my-training-4x-slower-ae64a4720bd1)) ([PyTorch Lightning for Dummies](https://www.assemblyai.com/blog/pytorch-lightning-for-dummies/)) ([Tutorial](https://www.youtube.com/watch?v=IOjq8hw_vhg))
 - [PointNet.pytorch](https://github.com/fxia22/pointnet.pytorch) - PyTorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation".
 - [former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in PyTorch.
 - [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
@@ -80,7 +80,6 @@
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library (2019)](https://arxiv.org/abs/1912.01703)
 - [Open Graph Benchmark (OGB)](https://github.com/snap-stanford/ogb) - Collection of benchmark datasets, data-loaders and evaluators for graph machine learning in PyTorch.
 - [Ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.
-- [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - Lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate.
 - [PyTorch Forum](https://discuss.pytorch.org/)
 - [Collection of PyTorch notebooks for learning and practicing deep learning](https://github.com/dair-ai/pytorch_notebooks)
 - [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - High-Performance Face Recognition Library based on PyTorch.
@@ -346,3 +345,6 @@
 - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - PyTorch to TensorRT converter which utilizes the TensorRT Python API.
 - [PyTorch Toolbox for Image Quality Assessment](https://github.com/chaofengc/IQA-PyTorch)
 - [Human Segmentation PyTorch](https://github.com/thuyngch/Human-Segmentation-PyTorch) - Human segmentation models, training/inference code, and trained weights, implemented in PyTorch.
+- [Breaching](https://github.com/JonasGeiping/breaching) - Framework for Attacks against Privacy in Federated Learning in PyTorch.
+- [PyTorchViz](https://github.com/szagoruyko/pytorchviz) - Small package to create visualizations of PyTorch execution graphs.
+- [PyTorch on Apple M1 MAX GPUs with SHARK – faster than TensorFlow-Metal (2022)](https://nod.ai/pytorch-m1-max-gpu/) ([HN](https://news.ycombinator.com/item?id=30434886))

@@ -110,3 +110,4 @@
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue for Node.js.
 - [Redis Viewer](https://github.com/SaltFishPr/redis-viewer) - Tool to view Redis data in terminal.
 - [Medis](https://getmedis.com/) - GUI Manager for Redis.
+- [redplex](https://github.com/microsoft/redplex) - Redis pubsub multiplexer.

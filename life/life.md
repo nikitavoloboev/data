@@ -110,3 +110,5 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Life's 'secret' weapon. What's yours?](https://www.reddit.com/r/fatFIRE/comments/skhjlm/lifes_secret_weapon_whats_yours/)
 - [What advice would you give your younger self? (2022)](https://www.reddit.com/r/fatFIRE/comments/snoet1/what_advice_would_you_give_your_younger_self/)
 - [My favorite essays of life advice (2020)](https://www.benkuhn.net/weeklyessays/)
+- [What's the best advice you've ever been given? (2022)](https://www.reddit.com/r/AskMen/comments/syrt3k/whats_the_best_advice_youve_ever_been_given/)
+- [Women over 30 - what’s one thing you now understand about life that you didn’t before? (2022)](https://www.reddit.com/r/AskWomen/comments/t0563l/women_over_30_whats_one_thing_you_now_understand/)

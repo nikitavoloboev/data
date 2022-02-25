@@ -14,6 +14,7 @@ Below is a list of extensions I use.
 - [Multi Command](https://marketplace.visualstudio.com/items?itemName=ryuta46.multi-command) - Invoke multiple commands as one command. ([Code](https://github.com/ryuta46/vscode-multi-command))
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines and jump to them. ([Code](https://github.com/alefragnani/vscode-bookmarks))
 - [Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.sourcegraph) - Enables you to open and search code on Sourcegraph.com easily and efficiently. ([Code](https://github.com/sourcegraph/sourcegraph-vscode)) ([Reddit](https://www.reddit.com/r/vscode/comments/sowwe7/we_made_an_extension_to_search_and_navigate_2/))
+- [XState](https://marketplace.visualstudio.com/items?itemName=statelyai.stately-vscode) - Visual editing, autocomplete and typegen for XState. ([Code](https://github.com/statelyai/xstate-vscode))
 
 ## Go
 

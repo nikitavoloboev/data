@@ -580,3 +580,6 @@
 - [Image-to-Markup Generation with Coarse-to-Fine Attention](http://lstm.seas.harvard.edu/latex/) ([Code](https://github.com/harvardnlp/im2markup))
 - [Push-ups with Python, mediapipe and OpenCV](https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351) ([HN](https://news.ycombinator.com/item?id=30402651))
 - [Lama-cleaner: Image inpainting tool powered by LaMa](https://github.com/Sanster/lama-cleaner)
+- [Vision-Language Pre-Training with Triple Contrastive Learning (2022)](https://arxiv.org/abs/2202.10401) ([Code](https://github.com/uta-smile/TCL))
+- [3D Machine Learning resources/papers](https://github.com/timzhang642/3D-Machine-Learning)
+- [FiftyOne](https://github.com/voxel51/fiftyone) - Open-source tool for building high-quality datasets and computer vision models.
