@@ -65,3 +65,4 @@
 - [AirScript](https://github.com/GuildOfWeavers/AirScript) - Scripting language for defining zk-STARKs.
 - [zkInterface](https://github.com/QED-it/zkinterface) - Protocol for the interoperability of zero-knowledge frameworks.
 - [Short-lived zero-knowledge proofs and signatures (2022)](https://eprint.iacr.org/2022/190.pdf) ([Tweet](https://twitter.com/dystopiabreaker/status/1496011412996788227))
+- [Introduction to Zero Knowledge Proofs](https://github.com/enricobottazzi/ZKverse)

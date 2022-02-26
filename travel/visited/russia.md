@@ -53,7 +53,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 
 ## Links
 
-- [Russian News Twitter List](https://twitter.com/i/lists/1351120526220152839)
+- [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 - [Meduza](https://meduza.io/) - Riga-based online newspaper and news aggregator in the Russian language.
 - [English Russia](https://englishrussia.com/) - Daily selected things from Russia and ex USSR countries.
 - [The Village](https://www.the-village.ru/) - Новости, люди, места, события.
@@ -434,3 +434,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Demystifying Putin: US vs. Russia geopolitics – the real story (2022)](https://lt3000.blogspot.com/2022/01/us-vs-russia-geopolitics-real-story.html) ([HN](https://news.ycombinator.com/item?id=30455309))
 - [Arguments for not banning travel](https://twitter.com/dan_abramov/status/1496882928143503362)
 - [Joseph Stalin Explained In 25 Minutes | Stalin Documentary](https://www.youtube.com/watch?v=TUlwALrh0Ak)
+- [Goal of Russian propaganda is to confuse and ambivalent you](https://twitter.com/DmitryOpines/status/1497245367456473091)

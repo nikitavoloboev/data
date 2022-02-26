@@ -108,3 +108,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: Is ADHD Real? (2022)](https://news.ycombinator.com/item?id=30270829)
 - [Structured Procrastination (1995)](http://www.structuredprocrastination.com/) ([HN](https://news.ycombinator.com/item?id=30292440))
 - [Ask HN: Have OCD, suffering from extreme procrastination, please help? (2022)](https://news.ycombinator.com/item?id=30313215)
+- [Ask HN: Any scientifically proven techniques to boost concentration? (2022)](https://news.ycombinator.com/item?id=30473322)

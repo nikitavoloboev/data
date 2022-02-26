@@ -699,3 +699,4 @@
 - [Hugging Face Optimum](https://github.com/huggingface/optimum) - Accelerate Transformer models for training and inference on targeted hardware. ([Tweet](https://twitter.com/Thom_Wolf/status/1496768744747532290))
 - [Gaussian Processes and Statistical Decision-making in Non-Euclidean Spaces (2022)](https://arxiv.org/abs/2202.10613) ([Tweet](https://twitter.com/avt_im/status/1496453031960981514))
 - [What's hot for Machine Learning Research in 2022?](https://www.reddit.com/r/MachineLearning/comments/t04ekm/d_whats_hot_for_machine_learning_research_in_2022/)
+- [Machine Learning with PyTorch and Scikit-Learn (2022)](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html) ([HN](https://news.ycombinator.com/item?id=30473254))

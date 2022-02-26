@@ -37,7 +37,7 @@
 - [The Tor Project · GitLab](https://gitlab.torproject.org/tpo)
 - [Using ephemeral Onion Services for quick NAT traversal (2021)](https://www.trickster.dev/post/using-ephemeral-onion-services-for-quick-nat-traversal/)
 - [tor-dam](https://github.com/parazyd/tordam) - Library for peer discovery inside the Tor network.
-- [Tor Snowflake Proxy](https://snowflake.torproject.org/) ([HN](https://news.ycombinator.com/item?id=29634636))
+- [Tor Snowflake Proxy](https://snowflake.torproject.org/) ([HN](https://news.ycombinator.com/item?id=29634636)) ([Tweet](https://twitter.com/genderjokes/status/1497284560811225095))
 - [Tor in 2022](https://blog.torproject.org/tor-in-2022/) ([HN](https://news.ycombinator.com/item?id=29635213))
 - [Expose server behind NAT with Tor (2019)](https://golb.hplar.ch/2019/01/expose-server-tor.html) ([HN](https://news.ycombinator.com/item?id=29929399))
 - [Tor Browser: a legacy of advancing private browsing innovation (2022)](https://blog.torproject.org/tor-browser-advancing-privacy-innovation/) ([HN](https://news.ycombinator.com/item?id=30123982))
