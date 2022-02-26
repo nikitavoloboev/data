@@ -344,6 +344,7 @@
 - [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20.
 - [nanobind](https://github.com/wjakob/nanobind) - Seamless operability between C++17 and Python.
 - [thread-pool](https://github.com/DeveloperPaul123/thread-pool) - Simple, functional thread pool implementation using pure C++20.
+- [Maat](https://github.com/trailofbits/maat) - Open-source symbolic execution framework.
 
 ## Links
 
@@ -364,3 +365,4 @@
 - [Setting up a C++/Python project with pybind11 and CMake](https://github.com/smrfeld/cmake_cpp_pybind11_tutorial) - Tutorial for wrapping C++ library into Python using pybind11 and CMake.
 - [C++ Templates: How to Iterate through std:tuple: std:apply and More](https://www.cppstories.com/2022/tuple-iteration-apply/) ([HN](https://news.ycombinator.com/item?id=30332031))
 - [How to Use C++20 Modules with Bazel and Clang](https://buildingblock.ai/cpp20-modules-bazel) ([HN](https://news.ycombinator.com/item?id=30345701))
+- [cmake-init](https://github.com/friendlyanon/cmake-init) - Missing CMake project initializer.

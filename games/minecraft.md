@@ -105,3 +105,4 @@
 - [Minecraft compiled natively for  Silicon](https://github.com/raphtlw/m1necraft)
 - [Cuberite](https://cuberite.org/) - Lightweight, fast and extensible game server for Minecraft. ([Code](https://github.com/cuberite/cuberite))
 - [Minecraft High-Performance Redstone Server](https://github.com/MCHPR/MCHPRS)
+- [Minecraft XR](https://github.com/Sorenon/MCXR) - VR minecraft mod using OpenXR and fabric.

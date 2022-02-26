@@ -501,3 +501,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [statechannels](https://github.com/statechannels/statechannels) - Simple off-chain applications framework for Ethereum. ([Web](https://statechannels.org/))
 - [Pandora Protocol Contracts](https://github.com/Pandora-Finance/Modular-contract) - Express contract for NFT ecosystem.
 - [OpenSea Creatures](https://github.com/ProjectOpenSea/opensea-creatures/tree/df8baafd8e8cb60f847b3ede640105f0bad6d057) - Example non-fungible collectible, to demonstrate OpenSea integration.
+- [Primitive Stablecoin](https://github.com/shortdoom/stablecoin-fun) - Minimal stablecoin with ERC-4626.

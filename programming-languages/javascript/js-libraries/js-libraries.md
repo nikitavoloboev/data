@@ -68,6 +68,7 @@
 - [Gestalt](https://github.com/gestaltjs/gestalt) - Modern opinionated and batteries-included NodeJS framework for building web sites and apps.
 - [Logux Core](https://github.com/logux/core) - New way to connect client and server. Instead of sending HTTP requests (e.g., AJAX and GraphQL) it synchronizes log of operations between client, server, and other clients.
 - [set-dom](https://github.com/DylanPiercey/set-dom) - Lightweight DOM diffing with plain old HTML.
+- [Ralix](https://github.com/ralixjs/ralix) - Micro framework for building and organizing your front-end.
 
 ## Animation
 
@@ -812,6 +813,8 @@
 - [Title](https://github.com/vercel/title) - Service for capitalizing your title properly.
 - [vercel-toast](https://github.com/2nthony/vercel-toast) - Framework-agnostic vercel design's toast component.
 - [color-convert](https://github.com/Qix-/color-convert) - Plain color conversion functions in JavaScript.
+- [Aurora.js](https://github.com/audiocogs/aurora.js) - JavaScript audio decoding framework.
+- [kappa-core](https://github.com/kappa-db/kappa-core) - Minimal peer-to-peer database, based on kappa architecture.
 
 ## Links
 

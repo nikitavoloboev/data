@@ -291,3 +291,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon Elastic File System Update – Sub-Millisecond Read Latency (2022)](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) ([HN](https://news.ycombinator.com/item?id=30345921))
 - [aws-okta-processor](https://github.com/godaddy/aws-okta-processor) - Okta credential processor for AWS CLI.
 - [Saving on AWS Lambda Amazon CloudWatch Logs costs (2022)](https://dev.to/aws-builders/saving-on-aws-lambda-amazon-cloudwatch-logs-costs-51od)
+- [Amazon EKS with AWS Cloudformation and AWS CDK](https://github.com/aws-samples/amazon-eks-refarch-cloudformation)

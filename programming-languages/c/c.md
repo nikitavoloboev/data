@@ -213,4 +213,4 @@
 - [C meeting is over. C23 added the following (2022)](https://twitter.com/__phantomderp/status/1494801365297676293) ([HN](https://news.ycombinator.com/item?id=30395016))
 - [I wrote the least-C C program I could (2022)](https://briancallahan.net/blog/20220220.html) ([HN](https://news.ycombinator.com/item?id=30412654))
 - [C Portability Lessons from Weird Machines (2018)](https://begriffs.com/posts/2018-11-15-c-portability.html) ([HN](https://news.ycombinator.com/item?id=30417802))
-- [Moving the Linux Kernel to Modern C (2022)](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/) ([HN](https://news.ycombinator.com/item?id=30459634)) ([Lobsters](https://lobste.rs/s/hl5ty0/moving_kernel_modern_c))
+- [Moving the Linux Kernel to Modern C (2022)](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/) ([HN](https://news.ycombinator.com/item?id=30459634)) ([Lobsters](https://lobste.rs/s/hl5ty0/moving_kernel_modern_c)) ([Reddit](https://www.reddit.com/r/programming/comments/t1mjwn/linus_torvalds_prepares_to_move_the_linux_kernel/))

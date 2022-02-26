@@ -279,9 +279,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [cleanhttp](https://github.com/hashicorp/go-cleanhttp) - Functions for accessing "clean" Go http.Client values.
 - [web](https://github.com/rsc/web) - Basic web site serving framework.
 - [Martian Proxy](https://github.com/google/martian) - Library for building custom HTTP/S proxies.
+- [go-hit](https://github.com/Eun/go-hit) - HTTP integration test framework.
 
 ## GraphQL
 
+- [gqlparser](https://github.com/vektah/gqlparser) - Port of the parser from graphql-js into Go.
 - [genqlient](https://github.com/Khan/genqlient) - Truly type-safe Go GraphQL client. ([Article](https://blog.khanacademy.org/genqlient-a-truly-type-safe-go-graphql-client/)) ([Article](https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/))
 - [gqlgen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/))
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
@@ -407,6 +409,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [mssqlx](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight, performant and auto balancing in mind.
 - [BadgerDB](https://github.com/outcaste-io/badger) - Fast Key-Value DB in Go.
 - [pgtalk](https://github.com/emicklei/pgtalk) - More type safe SQL query building and execution using Go code generated (pgtalk-gen) from PostgreSQL table definitions.
+- [gls](https://github.com/jtolio/gls) - Goroutine local storage.
 
 ## ML
 

@@ -189,3 +189,4 @@
 - [Userscript Proxy](https://github.com/SimonAlling/userscript-proxy) - Built around mitmproxy and acts as a MITM, injecting userscripts into web pages as they flow through it.
 - [Hyperbeam API](https://www.hyperbeam.dev/) - Embed Multiplayer Web Browsers. ([HN](https://news.ycombinator.com/item?id=30433104))
 - [Reliably Send an HTTP Request as a User Leaves a Page (2022)](https://css-tricks.com/send-an-http-request-on-page-exit/)
+- [CreepJS](https://abrahamjuliot.github.io/creepjs/) - Creepy device and browser fingerprinting. ([Code](https://github.com/abrahamjuliot/creepjs))

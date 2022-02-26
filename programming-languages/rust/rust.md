@@ -2,6 +2,10 @@
 
 [Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) are nice too.
 
+## Templates
+
+- [Rust Service Template](https://github.com/sambacha/rust-service-template)
+
 ## Notes
 
 - [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)

@@ -102,3 +102,4 @@ Might give it a go sometime.
 - [Mastering Emacs](https://www.masteringemacs.org/)
 - [Emacs for You (Emfy)](https://github.com/susam/emfy) - 72 line –/.emacs to quickly set up vanilla Emacs for editing. ([HN](https://news.ycombinator.com/item?id=29726398))
 - [Building an Intelligent Emacs (2022)](https://ianyepan.github.io/posts/emacs-ide/) ([HN](https://news.ycombinator.com/item?id=30308272))
+- [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)

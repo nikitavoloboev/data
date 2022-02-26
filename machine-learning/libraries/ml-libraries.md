@@ -294,3 +294,4 @@
 - [ClearML Server](https://github.com/allegroai/clearml-server) - Auto-Magical Suite of tools to streamline your ML workflow. Experiment Manager, ML-Ops and Data-Management.
 - [Human Library](https://github.com/vladmandic/human) - 3D Face Detection & Rotation Tracking, Face Description & more.
 - [Towhee](https://github.com/towhee-io/towhee) - Flexible, application-oriented framework for generating embedding vectors via a pipeline of ML models and other operations.
+- [AutoFaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.

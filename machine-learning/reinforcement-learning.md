@@ -322,3 +322,4 @@
 - [Solving NP-Hard Problems on Graphs with Extended AlphaGo Zero (2019)](https://arxiv.org/abs/1905.11623) ([Code](https://github.com/xuzijian629/combopt-zero))
 - [The Value Equivalence Principle for Model-Based Reinforcement Learning (2020)](https://arxiv.org/abs/2011.03506) ([Code](https://github.com/RajGhugare19/VE-principle-for-model-based-RL))
 - [ai-traineree](https://github.com/laszukdawid/ai-traineree) - PyTorch agents and tools for (Deep) Reinforcement Learning.
+- [RL Games: High performance RL library](https://github.com/Denys88/rl_games)

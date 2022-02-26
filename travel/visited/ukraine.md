@@ -54,3 +54,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [How Russia took over the Internet in Crimea and Eastern Ukraine (2022)](https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/)
 - [Cyber attacks during Ukraine / Russia invasion (2022)](https://twitter.com/Suhail/status/1496876355664822272)
 - [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations)
+- [The Coming Ukrainian Insurgency. Russia’s Invasion Could Unleash Forces the Kremlin Can’t Control. (2022)](https://www.foreignaffairs.com/articles/ukraine/2022-02-25/coming-ukrainian-insurgency?utm_source=twitter_posts&utm_campaign=tw_daily_soc&utm_medium=social) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t1lv1q/the_coming_ukrainian_insurgency_russias_invasion/))
+- [Advice to civilian resistors in Ukriane, especially Kyiv](https://twitter.com/SpencerGuard/status/1497583307504046087)

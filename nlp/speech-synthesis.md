@@ -59,3 +59,4 @@
 - [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - Text-to-Speech Transformer in TensorFlow 2.
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
 - [Neural Instrument Cloning from very few samples (2022)](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6) ([Code](https://github.com/erl-j/neural-instrument-cloning))
+- [MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis (2021)](https://arxiv.org/abs/2106.07886) ([Code](https://github.com/neosapience/mlp-singer))

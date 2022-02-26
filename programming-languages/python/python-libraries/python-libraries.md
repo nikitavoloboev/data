@@ -721,6 +721,7 @@
 - [Fractional Indexing](https://github.com/httpie/fractional-indexing-python) - Fractional indexing is a technique to create an ordering that can be used for Realtime Editing of Ordered Sequences.
 - [PyEMD](https://github.com/laszukdawid/PyEMD) - Python implementation of Empirical Mode Decompoisition (EMD) method.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
+- [overrides](https://github.com/mkorpela/overrides) - Decorator to automatically detect mismatch when overriding a method.
 
 ## Links
 

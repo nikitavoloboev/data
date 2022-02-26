@@ -79,6 +79,7 @@
 - [Slack Go 3](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
 - [Slack Go 5](https://github.com/shomali11/slacker) - Slack Bot Framework in Go.
+- [Slack Julia](https://github.com/aviks/SlackSDK.jl)
 - [Stripe Go](https://github.com/stripe/stripe-go)
 - [Stripe Rust](https://github.com/arlyon/async-stripe) - Asynchronous Rust API bindings for the Stripe HTTP API.
 - [Yandex Music Python](https://github.com/MarshalX/yandex-music-api)

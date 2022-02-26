@@ -12,3 +12,4 @@
 - [JSON API Grafana Datasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend.
 - [Grafana HTTP API Client for Go](https://github.com/grafana/grafana-api-golang-client)
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync.
+- [Grafana SQLite Datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana backend plugin to allow using an SQLite database as a data source.

@@ -237,3 +237,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS Packer Templates for Cirrus CI](https://github.com/cirruslabs/osx-images)
 - [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM.
 - [eBPF for Docker Desktop on macOS](https://github.com/singe/ebpf-docker-for-mac)
+- [duti](https://github.com/moretension/duti) - Command-line utility capable of setting default applications for various document types on macOS.

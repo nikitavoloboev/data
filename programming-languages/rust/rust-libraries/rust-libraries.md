@@ -119,6 +119,7 @@
 - [Silkenweb](https://github.com/silkenweb/silkenweb) - Library for writing reactive single page web apps.
 - [reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [rust-otp](https://github.com/TimDumol/rust-otp) - Rust library for performing the HMAC-based One-Time Password (HOTP) and Time-based One-Time Password (TOTP) algorithms.
+- [axum-live-view](https://github.com/davidpdrsn/axum-live-view) - Real-time user experiences with server-rendered HTML.
 
 ## WASM
 
@@ -325,6 +326,7 @@
 - [rusty-fork](https://github.com/AltSysrq/rusty-fork) - Run Rust tests in isolated subprocesses.
 - [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.
 - [Yare](https://github.com/foresterre/yare) - Lean parametrized testing library for Rust.
+- [tracing-test](https://github.com/dbrgn/tracing-test) - Access and evaluate tracing logs in async and sync tests.
 
 ## Error
 
@@ -1510,6 +1512,10 @@
 - [rubato](https://github.com/HEnquist/rubato) - Audio sample rate conversion library for Rust.
 - [Stackdump](https://github.com/tweedegolf/stackdump) - Set of rust crates for making stack dumps and getting stack traces out of them.
 - [corosensei](https://github.com/Amanieu/corosensei) - Fast and safe implementation of stackful coroutines in Rust.
+- [Sixbit](https://github.com/graydon/sixbit) - Crate for small packed strings.
+- [String](https://github.com/carllerche/string) - UTF-8 encoded string with configurable byte storage.
+- [byte-strings-rs](https://github.com/danielhenrymantilla/byte-strings-rs) - Rust zero-cost byte strings manipulation, for a better and safer FFI.
+- [ArrayString](https://github.com/paulocsanz/arraystring) - Fixed capacity stack based generic string that works on stable.
 
 ## Cargo Plugins
 

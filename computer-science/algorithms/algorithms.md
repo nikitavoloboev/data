@@ -98,6 +98,7 @@
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - Illustrated guide for programmers and other curious people. ([Code](https://github.com/egonSchiele/grokking_algorithms))
 - [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/) ([Docs Code](https://github.com/algorithmica-org/algorithmica)) ([Code](https://github.com/sslotin/amh-code))
 - [Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 
 ## Images
 

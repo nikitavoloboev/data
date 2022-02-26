@@ -15,7 +15,7 @@
 - [BLT](https://github.com/LLNL/blt) - Streamlined CMake-based foundation for Building, Linking and Testing large-scale high performance computing (HPC) applications.
 - [zld](https://github.com/michaeleisel/zld) - Faster version of Apple's linker.
 - [Automation and Make](https://swcarpentry.github.io/make-novice/)
-- [Meson](https://github.com/mesonbuild/meson) - Project to create the best possible next-generation build system. ([Article](https://nibblestew.blogspot.com/2020/10/cargo-style-dependency-management-for-c.html)) ([HN](https://news.ycombinator.com/item?id=24845031)) ([Docs](https://mesonbuild.com/))
+- [Meson](https://github.com/mesonbuild/meson) - Project to create the best possible next-generation build system. ([Article](https://nibblestew.blogspot.com/2020/10/cargo-style-dependency-management-for-c.html)) ([HN](https://news.ycombinator.com/item?id=24845031)) ([Docs](https://mesonbuild.com/)) ([Web](https://mesonbuild.com/))
 - [mbt](https://github.com/mbtproject/mbt) - Most flexible build orchestration tool for monorepo.
 - [Earthly](https://github.com/earthly/earthly) - Run all your builds containerized. ([Web](https://www.earthly.dev/)) ([HN](https://news.ycombinator.com/item?id=27785323))
 - [Synchronicity](https://github.com/iqlusioninc/synchronicity) - Distributed build system providing cryptographic proofs-of-reproducibility via Byzantine Fault Tolerant (BFT) consensus.

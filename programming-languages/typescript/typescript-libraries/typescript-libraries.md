@@ -360,6 +360,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [quadtree-ts](https://github.com/timohausmann/quadtree-ts) - Store and retrieve Rectangles, Circles and Lines in a recursive 2D quadtree.
 - [KitQL](https://github.com/jycouet/kitql) - Set of tools, helping you building efficient apps in a fast way.
 - [dolla bill](https://github.com/levibostian/dollabill-apple) - Easily work with Apple in-app purchases.
+- [await-less](https://github.com/danii/await-less)
+- [circular_buffer_js](https://github.com/StoneCypher/circular_buffer_js) - Fast TS/JS implementation of a circular buffer (aka ring queue, cyclic list, etc.).
+- [Excalidraw Libraries](https://github.com/excalidraw/excalidraw-libraries)
 
 ## Links
 

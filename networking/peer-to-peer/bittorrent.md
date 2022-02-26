@@ -86,3 +86,5 @@
 - [feedtransmission](https://github.com/lupus78/feedtransmission) - Python script to read RSS/Atom feeds of torrents and add them to Transmission to download.
 - [Torrentinim](https://github.com/sergiotapia/torrentinim) - Self-hosted API-only, low memory footprint, torrent search engine and crawler.
 - [Ask HN: Why don't more software projects use BitTorrent for downloads? (2022)](https://news.ycombinator.com/item?id=30436367)
+- [PicoTorrent](https://github.com/picotorrent/picotorrent) - Tiny, hackable BitTorrent client.
+- [Porla](https://github.com/porla/porla) - Programmable BitTorrent client for servers and seedboxes.
