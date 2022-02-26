@@ -33,3 +33,4 @@
 - [python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python.
 - [Charty](https://chartyios.app/) - Create charts from Shortcuts.
 - [5 Shortcuts I Use Daily](https://matthewbischoff.com/5-shortcuts-i-use-daily/)
+- [Logger](https://twitter.com/mralexhay/status/1497364623183560707) - Console app for Shortcuts. ([Tweet](https://twitter.com/mralexhay/status/1497516908496633859))

@@ -7,3 +7,4 @@
 - [List of French inventions and discoveries](https://en.wikipedia.org/wiki/List_of_French_inventions_and_discoveries)
 - [Things to do/see in Paris](https://twitter.com/tlakomy/status/1458513672570015747)
 - [Eiffel's tower - Nickolas Means (2018)](https://www.youtube.com/watch?v=dLPi4lfk8is)
+- [How I learned French in 12 months (2020)](https://runwes.com/2020/02/11/howilearnedfrench.html) ([HN](https://news.ycombinator.com/item?id=30467597))

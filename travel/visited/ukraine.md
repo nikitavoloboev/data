@@ -51,3 +51,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Russian Ukraine Invasion & Commodities Disruption (2022)](https://www.youtube.com/watch?v=RA9rbA4m2V0)
 - [How to help Ukraine with donations](https://twitter.com/vlsdllv/status/1496712056275361795)
 - [Russian Warship, go fuck yourself](https://www.youtube.com/watch?v=6Y2iVHUMZhg)
+- [How Russia took over the Internet in Crimea and Eastern Ukraine (2022)](https://www.datacenterdynamics.com/en/analysis/how-russia-took-over-the-internet-in-crimea-and-eastern-ukraine/)
+- [Cyber attacks during Ukraine / Russia invasion (2022)](https://twitter.com/Suhail/status/1496876355664822272)

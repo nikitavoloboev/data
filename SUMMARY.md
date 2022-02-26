@@ -599,6 +599,7 @@
     - [Spain](travel/visited/spain.md)
     - [Bulgaria](travel/visited/bulgaria.md)
     - [Belarus](travel/visited/belarus.md)
+    - [Georgia](travel/visited/georgia.md)
     - [Europe](travel/visited/europe.md)
   - [Cities](travel/cities.md)
   - [Hiking](travel/hiking.md)
