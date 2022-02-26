@@ -51,7 +51,7 @@
 - [Routerify](https://github.com/routerify/routerify) - Provides a lightweight, idiomatic, composable and modular router implementation with middleware support for the Rust HTTP library hyper.rs.
 - [H2](https://github.com/hyperium/h2) - Tokio aware, HTTP/2.0 client & server implementation for Rust.
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
-- [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter)) ([HN](https://news.ycombinator.com/item?id=30470809))
+- [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter)) ([HN](https://news.ycombinator.com/item?id=30470809)) ([Reddit](https://www.reddit.com/r/rust/comments/t1bim5/announcing_actix_web_v40/))
 - [actix-web-flash-messages](https://github.com/LukeMathWalker/actix-web-flash-messages) - Flash messages for actix-web.
 - [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) - Structured diagnostics for actix-web applications.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.

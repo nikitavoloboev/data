@@ -1,6 +1,6 @@
 # China
 
-China alongside [Russia](russia.md) and many more countries needs to move to a proper democracy.
+China alongside [Russia](russia.md) and [many more countries](https://worldpopulationreview.com/country-rankings/dictatorship-countries) needs to move to a proper democracy.
 
 ## Notes
 

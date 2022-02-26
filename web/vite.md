@@ -31,3 +31,4 @@
 - [bundle-require](https://github.com/egoist/bundle-require) - Bundle and `require` a file, the same way Vite loads `vite.config.ts`.
 - [vite-plugin-mix](https://github.com/egoist/vite-plugin-mix) - Adding backend API to your Vite app.
 - [vite-rtk-query](https://github.com/laststance/vite-rtk-query) - Vite template for React + TypeScript + Redux-toolkit / RTK Query.
+- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based routing for Vue 3 / React applications using Vite.

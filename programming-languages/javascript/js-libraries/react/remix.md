@@ -96,3 +96,4 @@
 - [Remix React Full stack Tutorial | Crash Course (2022)](https://www.youtube.com/watch?v=HOlYQu_r4Io)
 - [Fix double data request when prefetching in Remix (2022)](https://sergiodxa.com/articles/fix-double-data-request-when-prefetching-in-remix) ([Tweet](https://twitter.com/sergiodxa/status/1496955581474693127))
 - [Share session and cookies between Next and Remix (2022)](https://sergiodxa.com/articles/share-session-and-cookies-between-next-and-remix)
+- [Remix Forms](https://remix-forms.seasoned.cc/) - Magically create forms + actions in Remix. ([Code](https://github.com/SeasonedSoftware/remix-forms))
