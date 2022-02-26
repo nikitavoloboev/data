@@ -315,3 +315,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [CS 152: Programming Languages Course (2022)](https://groups.seas.harvard.edu/courses/cs152/2022sp/) ([Code](https://github.com/HarvardPL/cs152-lecture-code))
 - [Returning Values and Errors (2022)](https://rachelbythebay.com/w/2022/02/20/return/) ([HN](https://news.ycombinator.com/item?id=30409472)) ([Lobsters](https://lobste.rs/s/8dnc9w/returning_values_errors))
 - [flamegraph.com](https://flamegraph.com/) - Upload and Share Interactive Flamegraphs.
+- [So you want to design a programming language (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/) ([HN](https://news.ycombinator.com/item?id=30481035))
+- [Esolang Park](https://esolangpark.vercel.app/) - Online visual debugger for esoteric languages. ([Code](https://github.com/nilaymaj/esolang-park)) ([HN](https://news.ycombinator.com/item?id=30479320))

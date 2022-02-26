@@ -722,6 +722,7 @@
 - [PyEMD](https://github.com/laszukdawid/PyEMD) - Python implementation of Empirical Mode Decompoisition (EMD) method.
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 - [overrides](https://github.com/mkorpela/overrides) - Decorator to automatically detect mismatch when overriding a method.
+- [Cachy](https://github.com/sdispater/cachy) - Simple yet effective caching library.
 
 ## Links
 

@@ -206,3 +206,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Easiest way to build a CRUD app (2022)](https://news.ycombinator.com/item?id=30320837)
 - [The different types of events in event-driven systems (2022)](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) ([HN](https://news.ycombinator.com/item?id=30396873))
 - [How we split our code base down the middle (2019)](https://www.wave.com/en/blog/split/)
+- [Recurring ideas in software development and architecture (2022)](https://twitter.com/mariofusco/status/1497536581770567680)

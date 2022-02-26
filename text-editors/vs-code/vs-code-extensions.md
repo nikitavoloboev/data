@@ -376,6 +376,7 @@ Below is a list of extensions I use.
 
 ## Erlang
 
+- [Erlang](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang) ([Code](https://github.com/pgourlain/vscode_erlang))
 - [Erlang](https://github.com/erlang-ls/vscode) - Uses Erlang LSP.
 
 ## AppleScript

@@ -1422,3 +1422,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [gosimports](https://github.com/rinchsan/gosimports) - Simpler goimports.
 - [c-for-go](https://github.com/xlab/c-for-go) - Automatic C-Go Bindings Generator for Go.
 - [Are ORMs considered an anti-pattern in Go? (2022)](https://www.reddit.com/r/golang/comments/t08oox/are_orms_considered_an_antipattern_in_go/)
+- [Making the command line glamorous with Charm (2022)](https://changelog.com/podcast/481)

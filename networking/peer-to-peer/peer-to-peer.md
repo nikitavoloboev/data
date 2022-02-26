@@ -72,7 +72,7 @@
 - [QuantumGate](https://github.com/kareldonk/QuantumGate) - Peer-to-peer (P2P) communications protocol, library and API written in C++. ([Web](http://www.quantumgate.org/))
 - [Beaker browser](https://beakerbrowser.com/) - Experimental peer to peer web browser. ([HN](https://news.ycombinator.com/item?id=25753908))
 - [Probablistic P2P Content Moderation (2021)](https://generativist.falsifiable.com/metaverse/probablistic-p2p-content-moderation)
-- [Briar](https://briarproject.org/) - Secure messaging, anywhere.
+- [Briar](https://briarproject.org/) - Secure messaging, anywhere. ([Twitter](https://twitter.com/BriarApp)) ([Tweet](https://twitter.com/andrestaltz/status/1497632169673506816))
 - [Drawbacks of P2P and a defense of Signal (2021)](https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal) ([HN](https://news.ycombinator.com/item?id=25976439))
 - [P2P chat app with React & Gun.js](https://github.com/dabit3/react-p2p-messaging)
 - [pcp](https://github.com/dennis-tra/pcp) - Peer-to-Peer data transfer tool based on libp2p. ([HN](https://news.ycombinator.com/item?id=26124236))

@@ -20,7 +20,7 @@
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Work-in-progress plugin for prettier to support formatting of PostgreSQL-flavour SQL.
 - [PostGraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database.
 - [WAL-G](https://github.com/wal-g/wal-g) - Archival restoration tool for Postgres.
-- [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
+- [Migra](https://github.com/djrobstep/migra) - Diff for PostgreSQL schemas. ([HN](https://news.ycombinator.com/item?id=30464882))
 - [PGHoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service.
 - [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 - [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)

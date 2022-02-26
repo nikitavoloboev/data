@@ -377,6 +377,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Midnight Stop](https://www.behance.net/gallery/63168473/Midnight-Stop)
 - [Todd Hido](https://www.instagram.com/toddhido_/)
 - [Baud Postma](https://www.instagram.com/baudpostma/)
+- [Brendan Hoffman](https://www.brendanhoffman.com/)
 - [Om Malik](https://www.instagram.com/om/)
 - [Antonio Palmerini](https://www.artlimited.net/18637)
 - [Florian](https://www.instagram.com/analoguevibez/)
