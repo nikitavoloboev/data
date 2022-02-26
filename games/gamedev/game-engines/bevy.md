@@ -11,3 +11,4 @@
 - [bevy_crossterm](https://github.com/octotep/bevy_crossterm)
 - [Bevy Cheat Book](https://bevy-cheatbook.github.io/)
 - [Bevy GitHub CI Template](https://github.com/bevyengine/bevy_github_ci_template)
+- [Heron](https://github.com/jcornaz/heron) - Ergonomic physics API for bevy games.

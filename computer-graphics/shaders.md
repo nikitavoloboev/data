@@ -68,3 +68,4 @@
 - [A Review of Shader Languages (2022)](https://alain.xyz/blog/a-review-of-shader-languages) ([HN](https://news.ycombinator.com/item?id=30340625))
 - [Pure CSS Shaders Art](https://github.com/chenglou/pure-css-shaders-art) - Shaders art made with pure CSS.
 - [Neon Playground](https://neon-playground.herokuapp.com/) - Interactive & intuitive way to build shaders without having to write any code. ([Tweet](https://twitter.com/emilwidlund/status/1370858347923185669))
+- [A Shader Trick (2022)](http://the-witness.net/news/2022/02/a-shader-trick/) ([HN](https://news.ycombinator.com/item?id=30438541))

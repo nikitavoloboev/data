@@ -265,7 +265,7 @@
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/) ([Lobsters](https://lobste.rs/s/jyyuhn/decision_table_patterns))
 - [Ask HN: I'm a terrible developer, what now? (2020)](https://news.ycombinator.com/item?id=24444705)
 - [Computer Architecture: A Quantitative Approach (1990)](https://www.goodreads.com/book/show/70135) ([Review](https://graydon2.dreamwidth.org/233585.html))
-- [Project Oberon](http://www.projectoberon.com/) - Design for a complete desktop computer system from scratch. ([HN](https://news.ycombinator.com/item?id=24468704))
+- [Project Oberon](http://www.projectoberon.com/) - Design for a complete desktop computer system from scratch. ([HN](https://news.ycombinator.com/item?id=24468704)) ([HN](https://news.ycombinator.com/item?id=30467122))
 - [Programming Styles (2008)](https://people.inf.ethz.ch/wirth/Miscellaneous/Styles.pdf)
 - [My Principles for Building Software (2020)](http://kevinmahoney.co.uk/articles/my-principles-for-building-software/) ([Lobsters](https://lobste.rs/s/bodvug/my_principles_for_building_software))
 - [When feature flags do and don’t make sense (2019)](https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/) ([HN](https://news.ycombinator.com/item?id=24549917))

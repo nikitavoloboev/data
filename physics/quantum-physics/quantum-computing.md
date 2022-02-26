@@ -20,7 +20,7 @@
 - [Quantum supremacy: the gloves are off (2019)](https://www.scottaaronson.com/blog/?p=4372) ([HN](https://news.ycombinator.com/item?id=21335907))
 - [ELI 5 of quantum computing](https://news.ycombinator.com/item?id=21337938)
 - [Quantum Supremacy Using a Programmable Superconducting Processor (2019)](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html) ([HN](https://news.ycombinator.com/item?id=21332768)) ([Talk](https://www.youtube.com/watch?v=FklMpRiTeTA))
-- [Quantum Country](https://quantum.country/) - Free introduction to quantum computing and quantum mechanics.
+- [Quantum Country](https://quantum.country/) - Free introduction to quantum computing and quantum mechanics. ([HN](https://news.ycombinator.com/item?id=30467585))
 - [Quantum mechanics distilled](https://quantum.country/qm)
 - [Qiskit](https://qiskit.org/) - Open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules. ([Code](https://github.com/Qiskit/qiskit))
 - [Quantum Computation and Quantum Information by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)

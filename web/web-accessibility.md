@@ -92,3 +92,4 @@
 - [This is WCAG](https://thisiswcag.com/) - Build and test against the Web Content Accessibility Guidelines (WCAG) consistently by understanding what is a failure against the success criteria.
 - [Tabster](https://github.com/microsoft/tabster) - Web Application Keyboard Navigation Tools.
 - [Accessibility Support](https://a11ysupport.io/) - Accessibility Support data for various HTML, ARIA, CSS, and SVG features. ([Code](https://github.com/accessibilitysupported/a11ysupport.io))
+- [5 Accessibility Quick Wins (2022)](https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/)

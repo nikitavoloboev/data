@@ -166,6 +166,7 @@
 - [clj-docker-client](https://github.com/into-docker/clj-docker-client) - Idiomatic, data-driven, REPL friendly Clojure Docker client inspired from Cognitect's AWS client.
 - [matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for making assertions about nested data structures.
 - [Claypoole](https://github.com/clj-commons/claypoole) - Threadpool tools for Clojure.
+- [kibit](https://github.com/jonase/kibit) - Static code analyzer for Clojure, ClojureScript.
 
 ## Links
 

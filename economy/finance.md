@@ -161,4 +161,6 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Actual](https://actualbudget.com/) - Super fast privacy-focused app for managing your finances. ([GitHub](https://github.com/actualbudget))
 - [Finality does not exist in payments (2022)](https://bam.kalzumeus.com/archive/no-payments-are-final/) ([HN](https://news.ycombinator.com/item?id=30350547))
 - [Financial advice after a decade in tech (2022)](https://www.reddit.com/r/cscareerquestions/comments/swdgiq/financial_advice_after_a_decade_in_tech/)
-- [What is SWIFT in finance](https://twitter.com/SahilBloom/status/1496861068945154056)
+- [Quick breakdown of what SWIFT is and why it matters](https://twitter.com/SahilBloom/status/1496861068945154056) ([HN](https://news.ycombinator.com/item?id=30456026))
+- [Difference between SWIFT sanctions and targeted bank sanctions](https://twitter.com/daniel_mcdowell/status/1496985031205703683)
+- [If SWIFT is banned, what then?](https://twitter.com/EmilyGorcenski/status/1497591347997384715)

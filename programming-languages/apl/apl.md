@@ -60,3 +60,4 @@
 - [ivy](https://github.com/robpike/ivy) - APL-like calculator.
 - [rjj](https://github.com/sourcefrog/rsj) - Learning J by writing an interpreter.
 - [ok](https://github.com/sgreben/ok) - OCaml implementation of the K 2.0 array programming language.
+- [Mastering Dyalog APL (2009)](https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf) ([HN](https://news.ycombinator.com/item?id=30453919))

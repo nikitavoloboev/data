@@ -366,3 +366,4 @@
 - [C++ Templates: How to Iterate through std:tuple: std:apply and More](https://www.cppstories.com/2022/tuple-iteration-apply/) ([HN](https://news.ycombinator.com/item?id=30332031))
 - [How to Use C++20 Modules with Bazel and Clang](https://buildingblock.ai/cpp20-modules-bazel) ([HN](https://news.ycombinator.com/item?id=30345701))
 - [cmake-init](https://github.com/friendlyanon/cmake-init) - Missing CMake project initializer.
+- [clang-tutor](https://github.com/banach-space/clang-tutor) - Example Clang plugins for C and C++.

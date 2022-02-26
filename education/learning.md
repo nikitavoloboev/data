@@ -194,3 +194,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: What's your learning strategy? (2022)](https://news.ycombinator.com/item?id=30321632)
 - [What is the most powerful concept—from your field, industry, or just your life—that you believe would make people's lives better if it was more broadly understood?](https://twitter.com/DKThomp/status/1493591755886837763)
 - [Learning Lunches](https://github.com/veltman/learninglunches) - Materials for a series of learning lunches on news development topics.
+- [ETH Zurich Summaries](https://github.com/ymerkli/eth-summaries)

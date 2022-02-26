@@ -221,3 +221,5 @@
 - [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) - Modern and Responsive Academic Personal Homepage.
 - [Pikaso](https://github.com/pikasojs/pikaso) - Seamless and headless HTML5 Canvas library.
 - [metatags](https://github.com/microlinkhq/metatags) - Ensure your HTML is previewed beautifully across social networks.
+- [Explain the first 10 lines of Twitter's source code to me (2022)](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/) ([HN](https://news.ycombinator.com/item?id=30468793))
+- [Obscure HTML Tags](https://devapt.com/html-tags) ([HN](https://news.ycombinator.com/item?id=30469695))

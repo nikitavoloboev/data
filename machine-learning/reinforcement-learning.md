@@ -323,3 +323,4 @@
 - [The Value Equivalence Principle for Model-Based Reinforcement Learning (2020)](https://arxiv.org/abs/2011.03506) ([Code](https://github.com/RajGhugare19/VE-principle-for-model-based-RL))
 - [ai-traineree](https://github.com/laszukdawid/ai-traineree) - PyTorch agents and tools for (Deep) Reinforcement Learning.
 - [RL Games: High performance RL library](https://github.com/Denys88/rl_games)
+- [MuZero’s first step from research into the real world (2022)](https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world) ([HN](https://news.ycombinator.com/item?id=30468546))

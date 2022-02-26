@@ -604,3 +604,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What are your contrarian views? (2022)](https://news.ycombinator.com/item?id=30322001)
 - [Test your shape rotation skills](https://0xf00ff00f.github.io/rotator/) ([Code](https://github.com/0xf00ff00f/rotator)) ([HN](https://news.ycombinator.com/item?id=30408434))
 - [Snowboarding for Geeks: An Ultimate Guide (2018)](https://www.xfive.co/blog/snowboarding-ultimate-guide/) ([HN](https://news.ycombinator.com/item?id=30408158))
+- [Disaster planning for regular folks: level-headed prepping tips](https://lcamtuf.coredump.cx/prep/index-old.shtml)

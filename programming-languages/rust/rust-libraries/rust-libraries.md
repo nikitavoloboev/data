@@ -438,6 +438,7 @@
 - [RPPAL](https://github.com/golemparts/rppal) - Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [Infrared](https://github.com/jkristell/infrared) - Infrared remote control library for embedded Rust.
 - [embed-c](https://github.com/zdimension/embed-c) - Allows you to embed C code inside Rust code files.
+- [stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal) - Hardware abstraction layer for the stm32l432xx series chips written in rust.
 
 ## ML
 
@@ -1516,6 +1517,7 @@
 - [String](https://github.com/carllerche/string) - UTF-8 encoded string with configurable byte storage.
 - [byte-strings-rs](https://github.com/danielhenrymantilla/byte-strings-rs) - Rust zero-cost byte strings manipulation, for a better and safer FFI.
 - [ArrayString](https://github.com/paulocsanz/arraystring) - Fixed capacity stack based generic string that works on stable.
+- [is_executable](https://github.com/fitzgen/is_executable) - Is there an executable file at the given path?
 
 ## Cargo Plugins
 

@@ -187,4 +187,4 @@ All active variables can be seen by running `env`.
 - [chmod-cli](https://github.com/Mayowa-Ojo/chmod-cli) - Effortlessly generate chmod commands.
 - [Morbig: A Static parser for POSIX shell (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2590118420300046) ([Lobsters](https://lobste.rs/s/wnqdip/morbig_static_parser_for_posix_shell))
 - [mrsh](https://github.com/emersion/mrsh) - Minimal POSIX shell.
-- [Anatomy of a Terminal Emulator (2021)](https://poor.dev/blog/terminal-anatomy/)
+- [Anatomy of a Terminal Emulator (2021)](https://poor.dev/blog/terminal-anatomy/) ([Code](https://github.com/imsnif/terminal-anatomy-code-examples))

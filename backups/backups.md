@@ -78,3 +78,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [qmpbackup](https://github.com/abbbi/qmpbackup) - Live Qemu Incremental backup using dirty-bitmaps.
 - [Tape](https://github.com/vitorgalvao/tape) - Backup and restore software settings on macOS.
 - [Ask HN: If Apple integrated Time Machine with iCloud, would you use it? (2022)](https://news.ycombinator.com/item?id=30223422)
+- [A almost perfect rsync over ssh backup script (2022)](https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html)

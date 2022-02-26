@@ -86,6 +86,7 @@
 - [Another Quick Switcher Plugin](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 - [Open Link Plugin](https://github.com/chovanecm/obsidian-open-link) - Open URL linked to Markdown files in YAML frontmatter.
 - [Autocomplete](https://github.com/Yeboster/autocomplete-obsidian) - Provides a text autocomplete feature to enhance typing speed.
+- [Orthography](https://github.com/denisoed/obsidian-orthography) - Obsidian plugin for checking and correcting spelling errors in text.
 
 ## Themes
 

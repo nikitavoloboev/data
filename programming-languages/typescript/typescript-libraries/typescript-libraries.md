@@ -37,6 +37,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [mande](https://github.com/posva/mande) - Simple, light and extensible wrapper around fetch with smart defaults.
 - [swrr](https://github.com/maraisr/swrr) - Stale While Revalidated Resources — keeps data fast.
 - [Presencejs](https://github.com/yomorun/presencejs) - JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo.
+- [micromorph](https://github.com/natemoo-re/micromorph) - Very tiny library for diffing DOM nodes.
 
 ## Test
 

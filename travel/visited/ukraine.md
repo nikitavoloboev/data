@@ -45,7 +45,7 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [HN: Russian forces invade Ukraine after Putin orders attack (2022)](https://news.ycombinator.com/item?id=30450336)
 - [Ukrainian Conflict (2013-present) Reddit](https://www.reddit.com/r/UkrainianConflict/)
 - [Ukraine - Russia attack summary (2022)](https://twitter.com/ericgeller/status/1496685351615803396)
-- [Understanding the War in Ukraine (2022)](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/) ([HN](https://news.ycombinator.com/item?id=30464286))
+- [Understanding the War in Ukraine (2022)](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/) ([HN](https://news.ycombinator.com/item?id=30464286)) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/t1h5wk/understanding_the_war_in_ukraine_a_collection_of/))
 - [Ukraine is amazing (2022)](https://twitter.com/TheSofiya/status/1496958320128651275)
 - [Urban warfare tips from a former Marine (2022)](https://www.reddit.com/r/ukraine/comments/t1ntcb/urban_warfare_tips_from_a_former_marine/)
 - [Russian Ukraine Invasion & Commodities Disruption (2022)](https://www.youtube.com/watch?v=RA9rbA4m2V0)

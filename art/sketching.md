@@ -15,3 +15,4 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 - [EscherSketch](https://eschersket.ch/) - Drawing program for exploring symmetrical designs. ([Code](https://github.com/levskaya/eschersketch))
 - [Coya](https://github.com/AlexanderMykulych/coya) - Drawing diagram tool for developers.
 - [Minimator](https://minimator.app/) - Minimalist graphical editor. ([Code](https://github.com/maxwellito/minimator)) ([HN](https://news.ycombinator.com/item?id=29838197))
+- [Ask HN: Anyone here have good material for learning how to sketch from scratch (2022)](https://news.ycombinator.com/item?id=30469036)

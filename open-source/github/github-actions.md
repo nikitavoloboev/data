@@ -180,6 +180,7 @@
 - [deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun) - Deploys your container image to Cloud Run.
 - [Mjolnir](https://github.com/ldez/gha-mjolnir) - Close issues related to the merge of a pull request.
 - [Code sign a file](https://github.com/dlemstra/code-sign-action) - Action that signs libraries with a code signing certificate.
+- [Combine PRs](https://github.com/hrvey/combine-prs-workflow) - Combine/group together PRs (for example from Dependabot and similar services).
 
 ## Go
 

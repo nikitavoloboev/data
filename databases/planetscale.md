@@ -11,3 +11,4 @@
 - [Prisma & PlanetScale Example](https://github.com/2color/prisma-planetscale)
 - [Prisma & PlanetScale Best Practices (2022)](https://www.youtube.com/watch?v=iaHt5_hg44c)
 - [Beam: Simple sharing across your organization](https://planetscale.com/blog/introducing-beam) ([HN](https://news.ycombinator.com/item?id=30446038))
+- [PlanetScale increases plans to include billions of reads (2022)](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads) ([HN](https://news.ycombinator.com/item?id=30457960))

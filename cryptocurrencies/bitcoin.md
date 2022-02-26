@@ -183,3 +183,4 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [Lightning Loop](https://github.com/lightninglabs/loop) - Non-custodial service offered by Lightning Labs that makes it easy to move bitcoin into and out of the Lightning Network.
 - [Stacks 2.0](https://github.com/stacks-network/stacks-blockchain) ([HN](https://news.ycombinator.com/item?id=30333578))
 - [CoinPool: efficient off-chain payment pools for Bitcoin (2022)](https://coinpool.dev/v0.1.pdf) ([Tweet](https://twitter.com/lopp/status/1495768465373814790))
+- [Cryptonomicon: Among the Bitcoin maximalists (2022)](https://harpers.org/archive/2022/03/cryptonomicon-bitcoin-maximalists-miami/) ([HN](https://news.ycombinator.com/item?id=30468615))

@@ -719,3 +719,5 @@
 - [From JavaScript to Rust Book](https://github.com/vinodotdev/node-to-rust/) ([Reddit](https://www.reddit.com/r/javascript/comments/syxq11/from_javascript_to_rust_an_open_source_ebook/))
 - [Rust 1.59.0 with inline assembly support etc. (2022)](https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html) ([HN](https://news.ycombinator.com/item?id=30457261)) ([Reddit](https://www.reddit.com/r/rust/comments/t0fuyf/announcing_rust_1590/))
 - [Rust on Exercism](https://exercism.org/tracks/rust) ([Code](https://github.com/exercism/rust))
+- [IDEs and proc-macros (2022)](https://veykril.github.io/posts/ide-proc-macros/)
+- [A taste of Rust (2022)](https://www.hacklewayne.com/a-taste-of-rust) ([Lobsters](https://lobste.rs/s/9snlkt/taste_rust))

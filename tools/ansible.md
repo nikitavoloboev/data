@@ -23,3 +23,4 @@
 - [AWX](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible.
 - [Ansible Examples](https://github.com/ansible/ansible-examples)
 - [ansible-bender](https://github.com/ansible-community/ansible-bender) - Tool which bends containers using Ansible playbooks and turns them into container images.
+- [Using Ansible & Nomad for a homelab (2022)](https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1)

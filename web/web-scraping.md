@@ -157,3 +157,4 @@
 - [gazpacho](https://github.com/maxhumber/gazpacho) - Simple, fast, and modern web scraping library. ([Docs](https://gazpacho.xyz/))
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
 - [Pinterest Downloader](https://github.com/limkokhole/pinterest-downloader) - Download all images/videos from Pinterest user/board/section.
+- [More notes on writing web scrapers (2022)](https://cushychicken.github.io/more-web-scraper-notes/) ([HN](https://news.ycombinator.com/item?id=30466687))

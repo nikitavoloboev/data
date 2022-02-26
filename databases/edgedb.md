@@ -10,3 +10,4 @@
 - [EdgeDB Docs - Quick Start](https://www.edgedb.com/docs/guides/quickstart)
 - [Easy EdgeDB - The illustrated textbook](https://www.edgedb.com/easy-edgedb)
 - [CDK EdgeDB Demo](https://github.com/aaronbrighton/cdk-edgedb-demo)
+- [EdgeMorph](https://github.com/dmgolembiowski/edgemorph) - EdgeDB manipulator of relational, polymorphic hierarchies.

@@ -378,7 +378,7 @@
 - [Advent of Code 2021 with PostgreSQL](https://github.com/mitchellh/advent-2021-sql) ([HN](https://news.ycombinator.com/item?id=29467671))
 - [Speeding up Postgres integration tests in Go (2021)️](https://www.maragu.dk/blog/speeding-up-postgres-integration-tests-in-go/)
 - [Foreign data wrappers - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Foreign_data_wrappers)
-- [OrioleDB – Solution for PostgreSQL wicked problems](https://github.com/orioledb/orioledb) ([Web](https://orioledb.com/)) ([HN](https://news.ycombinator.com/item?id=30462695))
+- [OrioleDB – Solution for PostgreSQL wicked problems](https://github.com/orioledb/orioledb) ([Web](https://orioledb.com/)) ([HN](https://news.ycombinator.com/item?id=30462695)) ([HN](https://news.ycombinator.com/item?id=30462695))
 - [Postgres is a great pub/sub and job server (2019)](https://webapp.io/blog/postgres-is-the-answer/) ([HN](https://news.ycombinator.com/item?id=29599132))
 - [Everything I've seen on optimizing Postgres on ZFS (2021)](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/) ([HN](https://news.ycombinator.com/item?id=29647645))
 - [pgModeler](https://github.com/pgmodeler/pgmodeler) - PostgreSQL Database Modeler. ([Web](https://pgmodeler.io/))

@@ -309,3 +309,4 @@
 - [Current hardware trends make C++ exceptions harder to justify (2022)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html) ([HN](https://news.ycombinator.com/item?id=30430784)) ([Lobsters](https://lobste.rs/s/lz7do9/p2544r0_c_exceptions_are_becoming_more))
 - [Is C++ Doomed? (2022)](https://tednesday.wordpress.com/2022/02/22/is-c-doomed/) ([HN](https://news.ycombinator.com/item?id=30446027))
 - [C++ a standard build system/package manager? (2022)](https://www.reddit.com/r/cpp/comments/t1lj8g/if_you_where_the_sole_person_to_decide_would_you/)
+- [Dynamic and Static Polymorphism (2022)](http://www.modernescpp.com/index.php/dynamic-and-static-polymorphism)

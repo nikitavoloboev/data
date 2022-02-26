@@ -138,6 +138,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Moufette](https://github.com/moufette-tools/moufette) - Open-source tool to capture user feedback. ([HN](https://news.ycombinator.com/item?id=23997009))
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
+- [Imagur](https://github.com/rubikscraft/Imagur) - Easy to use, self hostable image sharing service.
 - [OG Impact](https://ogimpact.sh/) - Free API for generating social media images. ([Code](https://github.com/chrisvxd/og-impact))
 - [Sentry](https://sentry.io/) - Application Monitoring and Error Tracking Software. ([SDK Examples](https://github.com/getsentry/examples))
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))

@@ -212,3 +212,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [TwitchToPodcastRSS](https://github.com/madiele/TwitchToPodcastRSS) - Converts a twitch channel in a full-blown podcast.
 - [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify podcast to RSS proxy. ([HN](https://news.ycombinator.com/item?id=30332141))
 - [Captivate.fm](https://www.captivate.fm/) - Unlimited podcast hosting, analytics & marketing.
+- [Snipd](https://www.snipd.com/) - Highlight & Take Notes from Podcasts. ([HN](https://news.ycombinator.com/item?id=30454639))
