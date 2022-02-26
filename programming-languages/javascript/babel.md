@@ -14,3 +14,4 @@
 - [Building a Debugger: Code Analysis](https://nan.fyi/debugger) - Crash course in writing your own Babel plugin.
 - [Babel Polyfills](https://github.com/babel/babel-polyfills) - Set of Babel plugins that enable injecting different polyfills with different strategies in your compiled code.
 - [babel-plugin-transform-async-to-promises](https://github.com/rpetrich/babel-plugin-transform-async-to-promises) - Babel plugin to transform async functions containing await expressions to the equivalent chain of Promise calls with use of minimal helper functions.
+- [babel-preset-modernize](https://github.com/developit/babel-preset-modernize) - Babel preset that converts transpiled ES5 code to ES2017. It can remove most polyfills, even when they're inlined. ([Tweet](https://twitter.com/TkDodo/status/1497330691574489090))

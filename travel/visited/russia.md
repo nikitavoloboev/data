@@ -1,5 +1,7 @@
 # Russia
 
+TL;DR Russian government is the worst, need to do everything to educate and mobilize the majority of Russians to move towards democratic non presidential model of government.
+
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
 It's a travesty that [citizen's taxes are are being stolen](https://www.reddit.com/r/worldnews/comments/svv2oj/biden_says_hes_now_convinced_putin_has_decided_to/hxifwk0/?context=3) to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The [biggest abuse of human rights](https://www.youtube.com/watch?v=nrqWQB2bm_0).
@@ -435,3 +437,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Arguments for not banning travel](https://twitter.com/dan_abramov/status/1496882928143503362)
 - [Joseph Stalin Explained In 25 Minutes | Stalin Documentary](https://www.youtube.com/watch?v=TUlwALrh0Ak)
 - [Goal of Russian propaganda is to confuse and ambivalent you](https://twitter.com/DmitryOpines/status/1497245367456473091)
+- [Good Twitter lists for updates on Ukraine/Russia](https://twitter.com/nikitavoloboev/status/1497521371773034497)

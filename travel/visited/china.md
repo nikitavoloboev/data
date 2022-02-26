@@ -1,6 +1,6 @@
 # China
 
-China alongside [Russia](russia.md) remain the two countries with the most number of crimes committed by government against its citizens.
+China alongside [Russia](russia.md) and many more countries needs to move to a proper democracy.
 
 ## Notes
 

@@ -2,6 +2,10 @@
 
 [Digital Design and Computer Architecture course](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start) is great.
 
+## Notes
+
+- [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
+
 ## Links
 
 - [Eero](https://eero.com/) - WiFi router.

@@ -34,3 +34,4 @@
 - [Energy Prices are Naturally Turbulent (2021)](https://austinvernon.site/blog/energyturbulence.html)
 - [Electrify Everything is Slow (2021)](https://austinvernon.site/blog/dontelectrify.html)
 - [Gridcognition](https://gridcognition.com/) - Software to help all the players in the energy system navigate the transition to a decentralised and decarbonised energy future.
+- [You can have geothermal power everywhere if you drill deep enough (2022)](https://www.treehugger.com/geothermal-drilling-technology-quaise-energy-5219924) ([HN](https://news.ycombinator.com/item?id=30465227))

@@ -47,3 +47,7 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Ukraine - Russia attack summary (2022)](https://twitter.com/ericgeller/status/1496685351615803396)
 - [Understanding the War in Ukraine (2022)](https://acoup.blog/2022/02/25/miscellanea-understanding-the-war-in-ukraine/) ([HN](https://news.ycombinator.com/item?id=30464286))
 - [Ukraine is amazing (2022)](https://twitter.com/TheSofiya/status/1496958320128651275)
+- [Urban warfare tips from a former Marine (2022)](https://www.reddit.com/r/ukraine/comments/t1ntcb/urban_warfare_tips_from_a_former_marine/)
+- [Russian Ukraine Invasion & Commodities Disruption (2022)](https://www.youtube.com/watch?v=RA9rbA4m2V0)
+- [How to help Ukraine with donations](https://twitter.com/vlsdllv/status/1496712056275361795)
+- [Russian Warship, go fuck yourself](https://www.youtube.com/watch?v=6Y2iVHUMZhg)
