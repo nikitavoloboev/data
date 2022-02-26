@@ -427,3 +427,4 @@
 - [Hydra](https://hydras.io/) - Query Postgres, Route to any Database. ([HN](https://news.ycombinator.com/item?id=30442718))
 - [Intro to Postgres Planner - Hacking Melanie Plageman (2022)](https://www.youtube.com/watch?v=j7UPVU5UCV4)
 - [PostgreSQL Schema Change Guide](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)
+- [Paranoid SQL Execution on Postgres (2021)](https://ardentperf.com/2021/07/06/paranoid-sql-execution-on-postgresql/) ([HN](https://news.ycombinator.com/item?id=30447025))
