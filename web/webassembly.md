@@ -267,3 +267,4 @@
 - [KWasm: Semantics of WebAssembly in K](https://github.com/runtimeverification/wasm-semantics)
 - [Building host implementations for WebAssembly interfaces (2022)](https://radu-matei.com/blog/wasm-components-host-implementations/)
 - [GC Proposal for WebAssembly](https://github.com/WebAssembly/gc)
+- [WebAssembly research ideas (2022)](https://www.reddit.com/r/WebAssembly/comments/t1eebg/webassembly_research_ideas/)

@@ -133,3 +133,4 @@
 - [A Pixel's Color](https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md) ([HN](https://news.ycombinator.com/item?id=30162709))
 - [hue.tools](https://hue.tools/) - Open-source toolbox for colors. ([Code](https://github.com/pabueco/hue.tools)) ([HN](https://news.ycombinator.com/item?id=30362112))
 - [OKLCH Color Picker](https://github.com/evilmartians/oklch-picker)
+- [Every Color](https://every-color.netlify.app/) - Example site which uses Netlify's On-Demand Builders to generate millions of color reference pages. ([Code](https://github.com/netlify/example-every-color))

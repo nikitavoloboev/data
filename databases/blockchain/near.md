@@ -14,3 +14,4 @@
 - [NEAR Workspaces (Rust Edition)](https://github.com/near/workspaces-rs) - Write tests once, run them both on NEAR TestNet and a controlled NEAR Sandbox local environment via Rust.
 - [NEAR Protocol Specifications and Standards](https://github.com/near/NEPs)
 - [NEAR Blockchain Explorer](https://github.com/near/near-explorer)
+- [Create NEAR React App](https://github.com/near/create-near-app)

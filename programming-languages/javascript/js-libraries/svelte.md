@@ -10,6 +10,7 @@
 - [Webstone](https://github.com/WebstoneHQ/webstone) - Svelte/SvelteKit/GraphQL/Prisma.
 - [Kevin Pennekamp](https://crinkles.io/) ([Code](https://github.com/crinklesio/crinkles.io))
 - [Speedskating](https://github.com/spiegelgraphics/speedskating) - Olympia speedskating animation.
+- [Todo With Svelte](https://github.com/appwrite/demo-todo-with-svelte) - Demo example for integrating between Appwrite & Svelte.
 
 ## Notes
 

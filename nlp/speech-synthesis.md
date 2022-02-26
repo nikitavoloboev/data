@@ -58,3 +58,4 @@
 - [VocBench: A Neural Vocoder Benchmark for Speech Synthesis (2021)](https://arxiv.org/abs/2112.03099) ([Code](https://github.com/facebookresearch/vocoder-benchmark))
 - [TransformerTTS](https://github.com/as-ideas/TransformerTTS) - Text-to-Speech Transformer in TensorFlow 2.
 - [Awesome Speech Recognition Speech Synthesis Papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+- [Neural Instrument Cloning from very few samples (2022)](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6) ([Code](https://github.com/erl-j/neural-instrument-cloning))

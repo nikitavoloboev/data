@@ -58,3 +58,4 @@
 - [Understanding why our build got 15x slower with Webpack 5 (2021)](https://engineering.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack)
 - [Webpack Federation SSR (2021)](https://www.ebey.me/blog/webpack-federation-ssr)
 - [Webpack to Vite](https://github.com/originjs/webpack-to-vite) - Convert a Webpack project to a Vite project.
+- [parcel-css-loader](https://github.com/fz6m/parcel-css-loader) - Speed up your Webpack build with parcel CSS.

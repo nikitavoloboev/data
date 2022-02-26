@@ -26,3 +26,4 @@
 - [solid-firebase](https://github.com/wobsoriano/solid-firebase) - Solid hooks for Firebase.
 - [Solid Primitives](https://github.com/davedbase/solid-primitives)
 - [solid-ui](https://github.com/solid/solid-ui) - User Interface widgets and utilities for Solid.
+- [vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid) - Simple integration to run solid-js with Vite.

@@ -129,3 +129,4 @@
 - [Using mask as clip-path (2022)](https://yuanchuan.dev/using-mask-as-clip-path) ([Tweet](https://twitter.com/razvancaliman/status/1494992764676755461))
 - [oksvg](https://github.com/srwiley/oksvg) - Partial implementation of SVG 2.0 specification in Go.
 - [SuperShields](https://supershields.io/) - Smart, Lua-powered SVG status badges. ([HN](https://news.ycombinator.com/item?id=30451402))
+- [myScale](https://webkul.github.io/myscale/) - Quick SVG Icon Resizer. ([Code](https://github.com/webkul/myscale))

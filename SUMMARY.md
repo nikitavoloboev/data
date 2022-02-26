@@ -639,6 +639,7 @@
     - [PyTorch](machine-learning/libraries/pytorch.md)
     - [Keras](machine-learning/libraries/keras.md)
     - [TensorFlow](machine-learning/libraries/tensorflow.md)
+    - [JAX](machine-learning/libraries/jax.md)
   - [Datasets](machine-learning/datasets.md)
   - [ML Models](machine-learning/ml-models.md)
   - [Autonomous driving](machine-learning/autonomous-driving.md)

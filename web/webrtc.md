@@ -85,3 +85,4 @@
 - [libp2p-webrtc](https://github.com/wngr/libp2p-webrtc) - WebRTC transport for rust-libp2p for both native and WebAssembly (browser).
 - [WebRTC-HTTP ingestion protocol (WHIP)](https://www.ietf.org/archive/id/draft-ietf-wish-whip-01.html) ([HN](https://news.ycombinator.com/item?id=30342945))
 - [WISH, WHIP and Janus (2021)](https://www.meetecho.com/blog/whip-janus-part-ii/)
+- [SwiftyWebRTC](https://github.com/Ankit-Aggarwal/SwiftyWebRTC) - Swift Framework for WebRTC.

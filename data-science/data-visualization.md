@@ -138,3 +138,4 @@
 - [Data Visualization Curriculum](https://uwdata.github.io/visualization-curriculum/intro.html) - Data visualization curriculum of interactive notebooks, using Vega-Lite and Altair. ([Code](https://github.com/uwdata/visualization-curriculum))
 - [Lumen](https://github.com/holoviz/lumen) - Framework for visual analytics, which allows users to build data-driven dashboards from a simple yaml specification.
 - [Datawrapper](https://www.datawrapper.de/) - Create charts, maps, and tables. ([HN](https://news.ycombinator.com/item?id=30218793))
+- [VizHub](https://vizhub.com/) - Platform for interactive graphics. ([Code](https://github.com/vizhub-core/vizhub))

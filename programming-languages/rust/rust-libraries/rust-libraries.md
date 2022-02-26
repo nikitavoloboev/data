@@ -222,6 +222,7 @@
 - [datom-rs](https://github.com/LutrisEng/datom-rs) - Open-source database inspired by Datomic.
 - [diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation.
 - [SQLite](https://github.com/stainless-steel/sqlite) - Provides an interface to SQLite.
+- [Syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust.
 
 ## Video
 
@@ -434,6 +435,7 @@
 - [embedded-svc](https://github.com/esp-rs/embedded-svc) - Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.).
 - [RPPAL](https://github.com/golemparts/rppal) - Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
 - [Infrared](https://github.com/jkristell/infrared) - Infrared remote control library for embedded Rust.
+- [embed-c](https://github.com/zdimension/embed-c) - Allows you to embed C code inside Rust code files.
 
 ## ML
 
@@ -1507,6 +1509,7 @@
 - [decimal](https://github.com/invariant-labs/decimal) - Rust library for fixed point number.
 - [rubato](https://github.com/HEnquist/rubato) - Audio sample rate conversion library for Rust.
 - [Stackdump](https://github.com/tweedegolf/stackdump) - Set of rust crates for making stack dumps and getting stack traces out of them.
+- [corosensei](https://github.com/Amanieu/corosensei) - Fast and safe implementation of stackful coroutines in Rust.
 
 ## Cargo Plugins
 
@@ -1657,3 +1660,4 @@
 - [A Plugin System in Rust](https://nullderef.com/series/rust-plugins/)
 - [release-plz](https://github.com/MarcoIeni/release-plz) - Release to Github and crates.io.
 - [Compile-time checked Builder pattern derive macro with zero-memory overhead](https://github.com/estebank/makeit) ([Tweet](https://twitter.com/ekuber/status/1493647808754294789))
+- [Diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.

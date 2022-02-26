@@ -230,6 +230,7 @@
 - [Dynamic Static Typing In TypeScript (2021)](https://www.smashingmagazine.com/2021/01/dynamic-static-typing-typescript/)
 - [Assertion Functions in TypeScript (2022)](https://mariusschulz.com/blog/assertion-functions-in-typescript) ([Lobsters](https://lobste.rs/s/o40pgt/assertion_functions_typescript))
 - [TypeScript AST Viewer](https://ts-ast-viewer.com/#) ([Code](https://github.com/dsherret/ts-ast-viewer))
+- [swno](https://github.com/fz6m/swno) - Typescript simple runtime powered by Swc.
 
 ## Images
 

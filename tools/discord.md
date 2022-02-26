@@ -33,6 +33,7 @@
 - [Discord External Video Embeds](https://github.com/adryd325/discord-twitter-video-embeds) - Discord bot that fixes broken Twitter, TikTok and Reddit video Embeds.
 - [Ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) - Feature-rich Discord bot with +200 commands for Discord servers. Economy, util, fun, music, admin and more! Built with Next.js and Discord.js.
 - [discord-styled-releases](https://github.com/nhevia/discord-styled-releases) - Action that uses a webhook for sending automatic styled Discord messages on new repository releases.
+- [Hamood](https://github.com/nathanielfernandes/HamoodBot) - Discord bot written with discord.py that has a variety of helpful and fun functions.
 
 ## Libraries
 
@@ -115,3 +116,4 @@
 - [Discord is a black hole for information](https://knockout.chat/thread/33251/1) ([HN](https://news.ycombinator.com/item?id=30311982)) ([Reddit](https://www.reddit.com/r/programming/comments/sr1enx/discord_is_a_black_hole_for_information_knockout/))
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Enhances Discord desktop app with new features.
 - [Building a Discord bot with Kurt Kemple (2022)](https://www.youtube.com/watch?v=xQypJTpI5-U)
+- [DiscordSubHub](https://github.com/nathanielfernandes/DiscordSubHub) - User-Friendly Feed API Designed For Discord Webhooks.

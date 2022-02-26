@@ -98,3 +98,4 @@
 - [Zig Compiler Internals](https://mitchellh.com/zig) ([HN](https://news.ycombinator.com/item?id=30470442))
 - [Is Zig faster than Rust?](https://users.rust-lang.org/t/is-zig-lang-faster-than-rust/70390)
 - [Why use Zig over Rust/Go (2022)](https://www.reddit.com/r/Zig/comments/srk7ws/im_still_confused_on_the_whys_of_zig/)
+- [ziglibc](https://github.com/marler8997/ziglibc) - Exploration on creating a libc implementation in Zig.

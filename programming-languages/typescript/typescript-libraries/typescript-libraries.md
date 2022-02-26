@@ -52,6 +52,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 - [jwt-cache](https://github.com/ForbesLindesay/jwt-cache) - Cache an async function for generating a JSON Web Token.
 
+## Animation
+
+- [Motion Signals](https://github.com/tanvesh01/motion-signals) - Wrapper over Motion One.
+
 ## CLI
 
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
@@ -352,6 +356,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tRPC Kitchen Sink](https://github.com/trpc/examples-kitchen-sink)
 - [Rimbu](https://github.com/rimbu-org/rimbu) - TypeScript library focused on immutable, performant, and type-safe collections and other tools.
 - [parallel-park](https://github.com/suchipi/parallel-park) - Parallel/concurrent async work, optionally using multiple processes.
+- [screenshot](https://github.com/xataio/screenshot) - Zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.
+- [quadtree-ts](https://github.com/timohausmann/quadtree-ts) - Store and retrieve Rectangles, Circles and Lines in a recursive 2D quadtree.
+- [KitQL](https://github.com/jycouet/kitql) - Set of tools, helping you building efficient apps in a fast way.
+- [dolla bill](https://github.com/levibostian/dollabill-apple) - Easily work with Apple in-app purchases.
 
 ## Links
 
@@ -395,3 +403,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [get-packages](https://github.com/egoist/get-packages) - Get packages from a monorepo (pnpm, yarn, npm, lerna).
 - [tsync](https://github.com/Wulf/tsync) - Synchronize rust and typescript types.
 - [run-ts](https://github.com/etienne-dldc/run-ts) - Tools to use Typescript files as npm scripts.
+- [convert-to-dts](https://github.com/suchipi/convert-to-dts) - Converts the source code for any .js or .ts file into the equivalent .d.ts code TypeScript would generate.

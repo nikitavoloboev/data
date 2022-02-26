@@ -86,6 +86,7 @@
 - [inon](https://github.com/iddev5/inon) - Data serialization format in Zig.
 - [nats.zig](https://github.com/nats-io/nats.zig) - Zig Client for NATS.
 - [s2s](https://github.com/ziglibs/s2s) - Zig binary serialization format and library.
+- [uuid6-zig](https://github.com/jdknezek/uuid6-zig) - UUIDv6 implemented in Zig.
 
 ## Links
 

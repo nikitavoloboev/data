@@ -67,6 +67,7 @@
 - [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library.
 - [Gestalt](https://github.com/gestaltjs/gestalt) - Modern opinionated and batteries-included NodeJS framework for building web sites and apps.
 - [Logux Core](https://github.com/logux/core) - New way to connect client and server. Instead of sending HTTP requests (e.g., AJAX and GraphQL) it synchronizes log of operations between client, server, and other clients.
+- [set-dom](https://github.com/DylanPiercey/set-dom) - Lightweight DOM diffing with plain old HTML.
 
 ## Animation
 
@@ -810,6 +811,7 @@
 - [js-libp2p-tcp](https://github.com/libp2p/js-libp2p-tcp) - JavaScript implementation of the TCP module that libp2p uses that implements the interface-transport spec.
 - [Title](https://github.com/vercel/title) - Service for capitalizing your title properly.
 - [vercel-toast](https://github.com/2nthony/vercel-toast) - Framework-agnostic vercel design's toast component.
+- [color-convert](https://github.com/Qix-/color-convert) - Plain color conversion functions in JavaScript.
 
 ## Links
 

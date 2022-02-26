@@ -487,3 +487,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Self-hosted Git Server with Built-in CI/CD](https://github.com/theonedev/onedev)
 - [GitGot](https://github.com/BishopFox/GitGot) - Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 - [Gitless](https://github.com/goldstar611/gitless) - Easy-to-use interface to Git that is also easy to learn.
+- [commit-verify](https://github.com/fz6m/commit-verify) - Auto commit message format verify hook.

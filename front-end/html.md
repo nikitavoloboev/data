@@ -220,3 +220,4 @@
 - [tl](https://github.com/y21/tl) - Fast, zero-copy HTML Parser written in Rust.
 - [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) - Modern and Responsive Academic Personal Homepage.
 - [Pikaso](https://github.com/pikasojs/pikaso) - Seamless and headless HTML5 Canvas library.
+- [metatags](https://github.com/microlinkhq/metatags) - Ensure your HTML is previewed beautifully across social networks.

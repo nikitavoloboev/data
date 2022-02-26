@@ -185,3 +185,4 @@
 - [react-native-wagmi-charts](https://github.com/coinjar/react-native-wagmi-charts) - Simple chart library for React Native.
 - [React Native URL Router](https://github.com/software-mansion-labs/react-native-url-router)
 - [vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr) - VisionCamera Frame Processor Plugin to preform text detection on images using MLKit Vision Text Recognition.
+- [React Native New Architecture Working Group](https://github.com/reactwg/react-native-new-architecture)

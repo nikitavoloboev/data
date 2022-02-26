@@ -156,3 +156,4 @@
 - [Pinterest Web Scraper](https://github.com/SwatiModi/pinterest-web-scraper) - Scraping Visually Similar Images from Pinterest.
 - [gazpacho](https://github.com/maxhumber/gazpacho) - Simple, fast, and modern web scraping library. ([Docs](https://gazpacho.xyz/))
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
+- [Pinterest Downloader](https://github.com/limkokhole/pinterest-downloader) - Download all images/videos from Pinterest user/board/section.

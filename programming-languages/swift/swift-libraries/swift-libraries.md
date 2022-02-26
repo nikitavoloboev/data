@@ -227,6 +227,7 @@
 - [Instantiate](https://github.com/tarunon/Instantiate) - Type-safe and constructor injectable InterfaceBuilder protocols.
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface.
 - [Agrume](https://github.com/JanGorman/Agrume) - iOS image viewer written in Swift with support for multiple images.
+- [Folio](https://github.com/levibostian/Folio) - Flexible way to detect when you scroll to the end of a `UITableView`.
 
 ## macOS
 
@@ -423,6 +424,7 @@
 - [PreviewView](https://github.com/theoriginalbit/PreviewView) - Make use of SwiftUI Previews for UIKit.
 - [TokenField](https://github.com/fcanas/TokenField) - SwiftUI wrapper for NSTokenField.
 - [BetterPicker](https://github.com/ericlewis/swiftui-betterpicker) - Better Picker for SwiftUI.
+- [ObservableStore](https://github.com/gordonbrander/ObservableStore) - Lightweight Elm-like Store for SwiftUI.
 
 ## Test
 

@@ -85,6 +85,7 @@
 - [Quick Jump Plugin](https://github.com/tadashi-aikawa/obsidian-quick-jump-plugin) - Enables you to quickly jump to internal and external links.
 - [Another Quick Switcher Plugin](https://github.com/tadashi-aikawa/obsidian-another-quick-switcher)
 - [Open Link Plugin](https://github.com/chovanecm/obsidian-open-link) - Open URL linked to Markdown files in YAML frontmatter.
+- [Autocomplete](https://github.com/Yeboster/autocomplete-obsidian) - Provides a text autocomplete feature to enhance typing speed.
 
 ## Themes
 

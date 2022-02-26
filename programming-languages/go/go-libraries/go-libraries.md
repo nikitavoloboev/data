@@ -406,6 +406,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [grocksdb](https://github.com/linxGnu/grocksdb) - RocksDB wrapper for Go.
 - [mssqlx](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight, performant and auto balancing in mind.
 - [BadgerDB](https://github.com/outcaste-io/badger) - Fast Key-Value DB in Go.
+- [pgtalk](https://github.com/emicklei/pgtalk) - More type safe SQL query building and execution using Go code generated (pgtalk-gen) from PostgreSQL table definitions.
 
 ## ML
 
@@ -1360,6 +1361,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [SAML](https://github.com/crewjam/saml) - SAML is a standard for identity federation.
 - [go-xstate](https://github.com/dstotijn/go-xstate) - XState written in Go.
 - [slices](https://github.com/vorduin/slices) - Utility package for working with slices.
+- [async](https://github.com/nkcmr/async) - Alternate patterns for dealing with asynchronous code in go.
 
 ## Links
 

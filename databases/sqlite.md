@@ -158,3 +158,4 @@
 - [BFT-SQLITE](https://github.com/davebryson/bftdb) - Tendermint + Sqlite3 = BFT Database Replication.
 - [Litestream Read Replica Demo](https://github.com/benbjohnson/litestream-read-replica-demo) - Demo application for running live read replication on fly.io with Litestream.
 - [Google Drive to SQLite](https://github.com/simonw/google-drive-to-sqlite) - Create a SQLite database containing metadata from Google Drive. ([HN](https://news.ycombinator.com/item?id=30417411))
+- [Libsqlite3](https://github.com/caido/libsqlite3) - Based on libsqlite3-sys, this package builds SQLite statically with some aditionnal extensions.

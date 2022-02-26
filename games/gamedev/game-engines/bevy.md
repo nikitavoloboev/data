@@ -10,3 +10,4 @@
 - [Awesome Bevy](https://github.com/bevyengine/awesome-bevy)
 - [bevy_crossterm](https://github.com/octotep/bevy_crossterm)
 - [Bevy Cheat Book](https://bevy-cheatbook.github.io/)
+- [Bevy GitHub CI Template](https://github.com/bevyengine/bevy_github_ci_template)

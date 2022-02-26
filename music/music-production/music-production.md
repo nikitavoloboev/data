@@ -327,3 +327,5 @@
 - [Music theory for nerds (2016)](https://eev.ee/blog/2016/09/15/music-theory-for-nerds/) ([HN](https://news.ycombinator.com/item?id=30358903))
 - [Variable-Length Music Score Infilling via XLNet and Musically Specialized Positional Encoding (2021)](https://arxiv.org/abs/2108.05064) ([Code](https://github.com/reichang182/variable-length-piano-infilling))
 - [Земфира: ритмическая геометрия. Лекция Анны Виленской (2021)](https://www.youtube.com/watch?v=0Hfn-glWWZ0)
+- [Chord Master](https://fanzhangg.github.io/chord-master/) - Web application for musicians to find new chord and create the chord progression. ([Code](https://github.com/fanzhangg/chord-master))
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Collection of experiments for exploring how music works, all built with the Web Audio API. ([Code](https://github.com/googlecreativelab/chrome-music-lab))
