@@ -77,3 +77,4 @@ Is logical theory of computable functions.
 - [Compiler and runtime for normalizing the untyped λ-calculus](https://github.com/mb64/LC-interpreter)
 - [ts-lambda-calc](https://github.com/EvolveYourMind/ts-lambda-calc) - Lambda calculus at type-level with TypeScript.
 - [Tiny Lazy ML with Process Calculus in plain C](https://github.com/devaspot/milner)
+- [Lambda Calculus in 400 Bytes (2022)](https://justine.lol/lambda/)

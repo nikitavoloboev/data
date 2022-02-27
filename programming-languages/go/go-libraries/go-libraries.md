@@ -9,6 +9,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [bubblelister](https://github.com/treilik/bubblelister) - bubble to list your structs in a bubbletea program.
 - [Bubble-table](https://github.com/Evertras/bubble-table) - Table component for the Bubble Tea framework.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
+- [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
 - [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go.

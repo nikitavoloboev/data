@@ -583,3 +583,4 @@
 - [Vision-Language Pre-Training with Triple Contrastive Learning (2022)](https://arxiv.org/abs/2202.10401) ([Code](https://github.com/uta-smile/TCL))
 - [3D Machine Learning resources/papers](https://github.com/timzhang642/3D-Machine-Learning)
 - [FiftyOne](https://github.com/voxel51/fiftyone) - Open-source tool for building high-quality datasets and computer vision models.
+- [Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut (2022)](https://arxiv.org/abs/2202.11539) ([Code](https://github.com/YangtaoWANG95/TokenCut))

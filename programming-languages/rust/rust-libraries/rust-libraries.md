@@ -136,6 +136,7 @@
 - [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly.
 - [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
 - [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
+- [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
 
 ## GUI
 
@@ -1522,6 +1523,9 @@
 - [ArrayString](https://github.com/paulocsanz/arraystring) - Fixed capacity stack based generic string that works on stable.
 - [is_executable](https://github.com/fitzgen/is_executable) - Is there an executable file at the given path?
 - [autodiff](https://github.com/elrnv/autodiff) - Auto differentiation library.
+- [online](https://github.com/jesusprubio/online) - Library to check your Internet connectivity.
+- [haphazard](https://github.com/jonhoo/haphazard) - Hazard pointers in Rust.
+- [rusty-money](https://github.com/varunsrin/rusty_money) - Handles the messy parts of dealing with money like rounding, precision, parsing and internationalization.
 
 ## Cargo Plugins
 

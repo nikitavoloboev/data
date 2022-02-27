@@ -112,3 +112,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [Infographic: US military presence around the world (2021)](https://www.aljazeera.com/news/2021/9/10/infographic-us-military-presence-around-the-world-interactive)
 - [Ask HN: How does TurboTax get away with dark patterns? (2022)](https://news.ycombinator.com/item?id=30409523)
 - [Americans, what are some things you’d like Europeans to understand? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/sx930u/americans_what_are_some_things_youd_like/)
+- [Which of the American (bigger) news channels show news in the most objective way? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/t2uiyy/which_of_the_american_bigger_news_channels_show/)

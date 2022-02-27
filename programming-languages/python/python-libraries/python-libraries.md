@@ -152,6 +152,7 @@
 - [CogDB](https://github.com/arun1729/cog) - Graph Database for Python.
 - [SQLAlchemy adapter for CockroachDB](https://github.com/cockroachdb/sqlalchemy-cockroachdb)
 - [pgspecial](https://github.com/dbcli/pgspecial) - API to execute meta-commands (AKA "special", or "backslash commands") on PostgreSQL.
+- [DuckDB Foreign Data Wrapper for PostgreSQL](https://github.com/alitrack/duckdb_fdw)
 
 ## GUI
 

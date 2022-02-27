@@ -479,6 +479,7 @@
   - [Web scraping](web/web-scraping.md)
   - [RSS](web/rss.md)
   - [swc](web/swc.md)
+  - [Esbuild](web/esbuild.md)
   - [Web Components](web/web-components.md)
   - [Web accessibility](web/web-accessibility.md)
   - [Content management systems](web/cms.md)

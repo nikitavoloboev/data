@@ -156,6 +156,7 @@
 - [lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database.
 - [PicoDB](https://github.com/jclo/picodb) - Tiny in-memory database (MongoDB like) that stores JSON documents.
 - [level-web-stream](https://github.com/Level/web-stream) - Read from an abstract-level database using Web Streams.
+- [iron-store](https://github.com/vvo/iron-store) - In-memory, signed and encrypted JavaScript store.
 
 ## React
 

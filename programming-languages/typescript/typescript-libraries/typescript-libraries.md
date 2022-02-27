@@ -38,6 +38,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [swrr](https://github.com/maraisr/swrr) - Stale While Revalidated Resources — keeps data fast.
 - [Presencejs](https://github.com/yomorun/presencejs) - JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo.
 - [micromorph](https://github.com/natemoo-re/micromorph) - Very tiny library for diffing DOM nodes.
+- [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 
 ## Test
 
@@ -63,6 +64,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [cmd-ts](https://github.com/Schniz/cmd-ts) - Type-driven command line argument parser, with awesome error reporting.
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
 - [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
+- [Soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
 
 ## Crypto
 
@@ -367,6 +369,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Excalidraw Libraries](https://github.com/excalidraw/excalidraw-libraries)
 - [pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support. ([Tweet](https://twitter.com/suchipi/status/1497776602565918720))
 - [tsm](https://github.com/matthiasferch/tsm) - TypeScript vector and matrix math library.
+- [boolean](https://github.com/thenativeweb/boolean) - Converts lots of things to boolean.
 
 ## Links
 

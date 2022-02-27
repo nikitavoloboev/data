@@ -482,6 +482,10 @@
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use GIF engine.
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library. ([Fork](https://github.com/UnGast/SkiaKit))
 
+## WebSocket
+
+- [Sync WebSocket Vapor](https://github.com/nerdsupremacist/SyncWebSocketVapor) - Web Socket Server Support for Sync.
+
 ## Other
 
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.

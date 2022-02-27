@@ -103,3 +103,4 @@
 - [101 AWS Lambda tutorial for Go developers (2022)](https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898) ([HN](https://news.ycombinator.com/item?id=30205781)) ([Reddit](https://www.reddit.com/r/golang/comments/sxtel6/101_aws_lambda_tutorial_for_go_developers_api/))
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions.
 - [Prisma + Lambda + CDK Sample](https://github.com/aws-samples/prisma-lambda-cdk) - Build and deploy a Lambda function with Prisma ORM by AWS Cloud Development Kit.
+- [AWS Lambda in Action Event-driven serverless applications Book (2016)](https://www.manning.com/books/aws-lambda-in-action) ([Code](https://github.com/danilop/AWS_Lambda_in_Action))

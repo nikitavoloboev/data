@@ -45,6 +45,7 @@
 - [generic-random](https://github.com/Lysxia/generic-random) - Generic random generators to implement Arbitrary instances for QuickCheck.
 - [Higher-order QuickCheck](https://github.com/Lysxia/quickcheck-higherorder) - QuickCheck extension for properties of higher-order values.
 - [checkers](https://github.com/haskell-checkers/checkers) - Check properties on standard classes and data structures.
+- [cabal-doctest](https://github.com/haskellari/cabal-doctest) - Setup.hs helper for doctest running.
 
 ## CLI
 

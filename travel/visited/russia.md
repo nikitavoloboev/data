@@ -444,3 +444,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russian history with focusing on the past for government's survival purposes](https://twitter.com/kamilkazani/status/1497306746330697738)
 - [Consequences of crippling Russia's country’s central bank (2022)](https://twitter.com/SHamiltonian/status/1497716768135016451)
 - [Russian offshore wealth](https://twitter.com/phdskat/status/1497891818343735299)
+- [What are effective sanctions](https://twitter.com/pwnallthethings/status/1497987709968605184)
