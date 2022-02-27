@@ -364,6 +364,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [await-less](https://github.com/danii/await-less)
 - [circular_buffer_js](https://github.com/StoneCypher/circular_buffer_js) - Fast TS/JS implementation of a circular buffer (aka ring queue, cyclic list, etc.).
 - [Excalidraw Libraries](https://github.com/excalidraw/excalidraw-libraries)
+- [pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support. ([Tweet](https://twitter.com/suchipi/status/1497776602565918720))
 
 ## Links
 
