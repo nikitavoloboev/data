@@ -310,3 +310,4 @@
 - [Is C++ Doomed? (2022)](https://tednesday.wordpress.com/2022/02/22/is-c-doomed/) ([HN](https://news.ycombinator.com/item?id=30446027))
 - [C++ a standard build system/package manager? (2022)](https://www.reddit.com/r/cpp/comments/t1lj8g/if_you_where_the_sole_person_to_decide_would_you/)
 - [Dynamic and Static Polymorphism (2022)](http://www.modernescpp.com/index.php/dynamic-and-static-polymorphism)
+- [C++ header files and inter-class connections (2022)](https://rachelbythebay.com/w/2022/02/26/include/) ([Lobsters](https://lobste.rs/s/n2hirb/c_header_files_inter_class_connections))

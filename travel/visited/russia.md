@@ -440,3 +440,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Good Twitter lists for updates on Ukraine/Russia](https://twitter.com/nikitavoloboev/status/1497521371773034497)
 - [Как жить российскому айтишнику в 2022](https://vkvkvk.notion.site/vkvkvk/2022-c8c3dd17bd474866ae8c3e1a36327a92)
 - [KGB defector Yuri Bezmenov's warning to America (1984)](https://www.youtube.com/watch?v=IQPsKvG6WMI) ([HN](https://news.ycombinator.com/item?id=30470856))
+- [Why sanctioning the Central Bank of Russia could prove devastating (2022)](https://twitter.com/RTPerson3/status/1497731514779553794)
+- [Russian history with focusing on the past for government's survival purposes](https://twitter.com/kamilkazani/status/1497306746330697738)
