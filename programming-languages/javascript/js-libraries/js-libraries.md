@@ -817,6 +817,7 @@
 - [kappa-core](https://github.com/kappa-db/kappa-core) - Minimal peer-to-peer database, based on kappa architecture.
 - [Parcel's source-map](https://github.com/parcel-bundler/source-map) - Fast source map manipulation, generation and consumption library written in Rust and Node.js.
 - [imagesLoaded](https://github.com/desandro/imagesloaded) - JavaScript is all like "You images done yet or what?". ([Web](https://imagesloaded.desandro.com/))
+- [long.js](https://github.com/dcodeIO/long.js) - Long class for representing a 64-bit two's-complement integer value.
 
 ## Links
 

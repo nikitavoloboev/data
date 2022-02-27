@@ -99,6 +99,7 @@
 - [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/) ([Docs Code](https://github.com/algorithmica-org/algorithmica)) ([Code](https://github.com/sslotin/amh-code))
 - [Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+- [Breadth First Search in Rust (2022)](https://www.sotr.blog/articles/breadth-first-search)
 
 ## Images
 

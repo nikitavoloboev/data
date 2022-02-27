@@ -57,3 +57,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [The Coming Ukrainian Insurgency. Russia’s Invasion Could Unleash Forces the Kremlin Can’t Control. (2022)](https://www.foreignaffairs.com/articles/ukraine/2022-02-25/coming-ukrainian-insurgency?utm_source=twitter_posts&utm_campaign=tw_daily_soc&utm_medium=social) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t1lv1q/the_coming_ukrainian_insurgency_russias_invasion/))
 - [Advice to civilian resistors in Ukriane, especially Kyiv](https://twitter.com/SpencerGuard/status/1497583307504046087)
 - [Help Ukraine](https://helpukraine.simple.ink/) - Full list of resources (free help + donations).
+- [Why Russia will lose war with Ukraine (2022)](https://twitter.com/kamilkazani/status/1497993363076915204)
+- [Ukraine Russia conflict summary](https://twitter.com/WarintheFuture/status/1497716025604771842)

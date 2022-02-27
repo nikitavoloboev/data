@@ -293,3 +293,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Saving on AWS Lambda Amazon CloudWatch Logs costs (2022)](https://dev.to/aws-builders/saving-on-aws-lambda-amazon-cloudwatch-logs-costs-51od)
 - [Amazon EKS with AWS Cloudformation and AWS CDK](https://github.com/aws-samples/amazon-eks-refarch-cloudformation)
 - [CDK TypeScript Demo Project](https://github.com/MargaretKrutikova/event-store-aws-cdk)
+- [Set up Event Store on AWS with CDK (2022)](https://dev.to/margaretkrutikova/set-up-event-store-on-aws-with-cdk-42bi)

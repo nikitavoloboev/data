@@ -283,6 +283,8 @@
 - [vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs.
 - [delaunator-rs](https://github.com/mourner/delaunator-rs) - Fast 2D Delaunay triangulation in Rust. A port of Delaunator.
 - [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui.
+- [Softy](https://github.com/elrnv/softy) - Simulation tools for animating interacting soft objects.
+- [vtkio](https://github.com/elrnv/vtkio) - Visualization ToolKit (VTK) file parser and writer.
 
 ## Games
 
@@ -553,6 +555,7 @@
 - [statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust.
 - [sprs](https://github.com/vbarrielle/sprs) - Sparse linear algebra library for rust.
 - [Mathbox](https://github.com/freedeaths/mathbox-rs) - Collection of math tools for Rust.
+- [geometry-predicates](https://github.com/elrnv/geometry-predicates-rs) - Rust solution to efficient exact geometry predicates used widely for computational geometry.
 
 ## Other
 
@@ -1518,6 +1521,7 @@
 - [byte-strings-rs](https://github.com/danielhenrymantilla/byte-strings-rs) - Rust zero-cost byte strings manipulation, for a better and safer FFI.
 - [ArrayString](https://github.com/paulocsanz/arraystring) - Fixed capacity stack based generic string that works on stable.
 - [is_executable](https://github.com/fitzgen/is_executable) - Is there an executable file at the given path?
+- [autodiff](https://github.com/elrnv/autodiff) - Auto differentiation library.
 
 ## Cargo Plugins
 

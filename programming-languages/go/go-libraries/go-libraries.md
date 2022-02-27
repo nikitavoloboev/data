@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too.
 
 ## CLI
 
@@ -121,7 +121,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 
 ## Web
 
-- [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build))
+- [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management.
@@ -422,6 +422,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [Mab](https://github.com/stitchfix/mab) - Library for multi-armed bandit selection strategies, including efficient deterministic implementations of Thompson sampling and epsilon-greedy.
 - [mu8](https://github.com/soypat/mu8) - Genetic algorithm for machine learning in Go.
 - [go-face](https://github.com/Kagami/go-face) - Face recognition with Go.
+- [Nune](https://github.com/vorduin/nune) - Tensor based numerical engine.
 
 ## Graphics
 
@@ -492,6 +493,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points. [Go API Starter
 - [CAN Go](https://github.com/einride/can-go) - Makes use of the Linux SocketCAN abstraction for CAN communication.
 - [ethtool](https://github.com/safchain/ethtool) - Simple access to the Linux SIOCETHTOOL ioctl operations.
 - [Go eBPF](https://github.com/dropbox/goebpf) - Library to work with eBPF programs from Go.
+- [go-uring](https://github.com/godzie44/go-uring) - Linux io_uring for Go.
 
 ## Apple
 

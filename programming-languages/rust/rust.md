@@ -721,3 +721,4 @@
 - [Rust on Exercism](https://exercism.org/tracks/rust) ([Code](https://github.com/exercism/rust))
 - [IDEs and proc-macros (2022)](https://veykril.github.io/posts/ide-proc-macros/)
 - [A taste of Rust (2022)](https://www.hacklewayne.com/a-taste-of-rust) ([Lobsters](https://lobste.rs/s/9snlkt/taste_rust))
+- [Naive Bayes Classifier (2022)](https://www.sotr.blog/articles/naive-bayes)

@@ -268,3 +268,5 @@
 - [Building host implementations for WebAssembly interfaces (2022)](https://radu-matei.com/blog/wasm-components-host-implementations/)
 - [GC Proposal for WebAssembly](https://github.com/WebAssembly/gc)
 - [WebAssembly research ideas (2022)](https://www.reddit.com/r/WebAssembly/comments/t1eebg/webassembly_research_ideas/)
+- [wasm-pack-template](https://github.com/my-liminal-space/read-parquet-browser) - Template for kick starting a Rust and WebAssembly project using wasm-pack.
+- [WASM Audio Decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.

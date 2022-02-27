@@ -13,6 +13,7 @@
 - [OCaml JavaScript bindings](https://github.com/tmattio/js-bindings)
 - [Tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) - OCaml library for HTTP clients and servers using Lwt or Async.
+- [Async_http](https://github.com/anuragsoni/async_http) - Simple HTTP server for async applications.
 
 ## Test
 

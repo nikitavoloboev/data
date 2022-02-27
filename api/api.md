@@ -343,3 +343,4 @@
 - [API design guidelines](https://twitter.com/markdalgleish/status/1494591964934668289)
 - [Oxide Computer generated third party Rust API clients](https://github.com/oxidecomputer/third-party-api-clients)
 - [Keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and mocks from API calls.
+- [Postman Code Generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman.

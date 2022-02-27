@@ -54,6 +54,7 @@
 - [Haskell 2](https://github.com/DrearyLisper/project-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
 - [Java, Python, Mathematica, Haskell](https://github.com/nayuki/Project-Euler-solutions)
+- [Numerical answers to all 700+ Project Euler problems](https://github.com/luckytoilet/projecteuler-solutions)
 
 ## Advent of Code solutions
 

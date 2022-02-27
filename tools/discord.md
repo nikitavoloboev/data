@@ -117,3 +117,4 @@
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Enhances Discord desktop app with new features.
 - [Building a Discord bot with Kurt Kemple (2022)](https://www.youtube.com/watch?v=xQypJTpI5-U)
 - [DiscordSubHub](https://github.com/nathanielfernandes/DiscordSubHub) - User-Friendly Feed API Designed For Discord Webhooks.
+- [discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem.

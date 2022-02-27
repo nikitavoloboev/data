@@ -174,6 +174,7 @@ Here are few more things I liked, design wise.
 - [Kevin Yien](https://kevinyien.com/blog.html)
 - [Oxide](https://oxide.computer/blog)
 - [Arash](https://blog.arash.codes/) ([Code](https://github.com/arashnrim/website))
+- [Shaking off the Rust](https://shaking-off-the-rust-blog.vercel.app/) ([Code](https://github.com/josht-jpg/shaking-off-the-rust-blog))
 
 ## Products
 

@@ -100,3 +100,4 @@
 - [Littlefs](https://github.com/littlefs-project/littlefs) - Little fail-safe filesystem designed for microcontrollers. ([HN](https://news.ycombinator.com/item?id=30383567))
 - [UnreliableFS](https://github.com/ligurio/unreliablefs) - FUSE-based fault injection filesystem.
 - [The time has come to replace file systems (2022)](https://didgets.substack.com/p/where-did-i-put-that-file) ([HN](https://news.ycombinator.com/item?id=30449263))
+- [AnyFS](https://github.com/pixelomer/AnyFS) - Simple filesystem which stores metadata using JSON.

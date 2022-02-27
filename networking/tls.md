@@ -69,3 +69,5 @@
 - [async-tls](https://github.com/async-rs/async-tls) - Async TLS/SSL streams using Rustls.
 - [async-native-tls](https://github.com/async-email/async-native-tls) - Asynchronous Native TLS.
 - [Ask HN: What's your solution for SSL on internal servers? (2022)](https://news.ycombinator.com/item?id=30272101)
+- [Transport Layer Security (5/6) (2022)](https://blog.bithole.dev/tls.html)
+- [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.ulfheim.net/)
