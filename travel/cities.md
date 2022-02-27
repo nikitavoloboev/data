@@ -49,3 +49,4 @@
 - [Streetsblog.org](https://www.streetsblog.org/) - Better walking, biking, and transit.
 - [Global Cities Ranking Draft REPORT Feb 2022](https://data.unhabitat.org/documents/2b18c2738585490b8319c17c5625c0a1/explore)
 - [Micromobility Will Change Our Cities (2022)](https://www.exponentialview.co/micromobility-will-change-our-cities/)
+- [Metaphysics of Mapping Buildings (2022)](https://snufk.in/blog/mapping-buildings.html)
