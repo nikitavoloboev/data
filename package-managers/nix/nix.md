@@ -300,3 +300,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nix-book](https://github.com/divnix/nix-book) - Nix Package Manager. ([Docs](https://book.divnix.com/))
 - [Nix Flakes: an Introduction (2022)](https://christine.website/blog/nix-flakes-1-2022-02-21) ([Lobsters](https://lobste.rs/s/dmrnqy/nix_flakes_introduction)) ([Reddit](https://www.reddit.com/r/NixOS/comments/sxve1w/nix_flakes_an_introduction/)) ([HN](https://news.ycombinator.com/item?id=30416557))
 - [All New Repls are Powered By Nix (2022)](https://blog.replit.com/powered-by-nix)
+- [Nix Flakes: Packages and How to Use Them (2022)](https://christine.website/blog/nix-flakes-2-2022-02-27)

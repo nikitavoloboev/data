@@ -40,6 +40,9 @@
 - [Elixir driver for EdgeDB](https://github.com/nsidnev/edgedb-elixir)
 - [Khepri](https://github.com/rabbitmq/khepri) - Tree-like replicated on-disk database library for Erlang and Elixir.
 - [Ecto SQLite3 adapter](https://github.com/elixir-sqlite/ecto_sqlite3)
+- [Honeydew](https://github.com/koudelka/honeydew) - Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto.
+- [EctoJob](https://github.com/mbuhot/ecto_job) - Transactional job queue built with Ecto and GenStage.
+- [TaskBunny](https://github.com/shinyscorpion/task_bunny) - Background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 
 ## Test
 

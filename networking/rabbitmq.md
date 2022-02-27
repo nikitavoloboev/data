@@ -24,3 +24,4 @@
 - [RabbitMQ RPC](https://github.com/0x4b53/amqp-rpc) - Framework to use RabbitMQ as RPC.
 - [AMQP](https://github.com/pma/amqp) - Idiomatic Elixir client for RabbitMQ.
 - [Rabbit Hole](https://github.com/michaelklishin/rabbit-hole) - RabbitMQ HTTP API Client for Go.
+- [Rabbit](https://github.com/nsweeting/rabbit) - Build Elixir applications with RabbitMQ.

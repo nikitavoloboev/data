@@ -232,6 +232,7 @@
 - [TypeScript AST Viewer](https://ts-ast-viewer.com/#) ([Code](https://github.com/dsherret/ts-ast-viewer))
 - [swno](https://github.com/fz6m/swno) - Typescript simple runtime powered by Swc.
 - [How to make TypeScript Blazingly Fast (JavaScript/NodeJS)](https://www.youtube.com/watch?v=Sp5_d6coiqU)
+- [Skerrick](https://github.com/anonimitoraf/skerrick) - REPL-driven development for JavaScript.
 
 ## Images
 

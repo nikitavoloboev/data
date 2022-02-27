@@ -503,3 +503,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [OpenSea Creatures](https://github.com/ProjectOpenSea/opensea-creatures/tree/df8baafd8e8cb60f847b3ede640105f0bad6d057) - Example non-fungible collectible, to demonstrate OpenSea integration.
 - [Primitive Stablecoin](https://github.com/shortdoom/stablecoin-fun) - Minimal stablecoin with ERC-4626.
 - [Helios](https://github.com/z0r0z/Helios) - ERC-1155-based Exchange.
+- [SafuNFT](https://github.com/x-soul-x/SafuNFT) - Minimal contract with a lock and redeem/refund mechanism.
+- [parcels](https://github.com/abigger87/parcels) - Modern, Opinionated Multicall Library.
