@@ -71,3 +71,4 @@
 - [The limits of conflict-free replicated data types (2021)](http://pepijndevos.nl/2021/12/18/the-limits-of-conflict-free-replicated-data-types.html)
 - [delta-crdts](https://github.com/peer-base/js-delta-crdts) - Delta State-based CRDTs in JavaScript.
 - [Y-Py](https://github.com/y-crdt/ypy) - Python binding for Y-CRDT.
+- [CRDT: Conflict-free Replicated Data Types (2018)](https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc8459d26)

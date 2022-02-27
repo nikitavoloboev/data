@@ -112,3 +112,4 @@
 - [What anti-imperialism means](https://twitter.com/davidallengreen/status/1496067931322699778)
 - [In our cashless society, we need to take digital jail seriously (2022)](https://thehub.ca/2022-02-22/howard-anglin-in-our-cashless-society-we-need-to-take-digital-jail-seriously/) ([HN](https://news.ycombinator.com/item?id=30435215))
 - [In most countries, Dictatorship is far from a distant memory (2022)](https://ourworldindata.org/democracies-age) ([HN](https://news.ycombinator.com/item?id=30455730))
+- [How to move from Dictatorship to Democracy (2013)](http://www.aeinstein.org/wp-content/uploads/2013/09/FDTD.pdf)

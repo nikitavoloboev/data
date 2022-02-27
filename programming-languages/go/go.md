@@ -715,3 +715,4 @@ if err != nil {
 - [Go Webinar Course](https://github.com/OtusGolang/webinars_practical_part)
 - [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 - [“Sustainability with Rust” post misleading about Go (2022)](https://twitter.com/_rsc/status/1496352325157457922) ([HN](https://news.ycombinator.com/item?id=30441771)) ([Tweet](https://www.reddit.com/r/golang/comments/sznapm/russ_cox_on_sustainability_with_rust_post_by_aws/))
+- [Accepting payments in Go using Stripe (2022)](https://jaycoding.tech/tutorials/guides/accepting-payments-in-golang-using-strip-udwcis) ([Reddit](https://www.reddit.com/r/golang/comments/t2n87i/accepting_payments_in_golang_using_stripe/))
