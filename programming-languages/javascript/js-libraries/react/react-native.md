@@ -186,3 +186,5 @@
 - [React Native URL Router](https://github.com/software-mansion-labs/react-native-url-router)
 - [vision-camera-ocr](https://github.com/aarongrider/vision-camera-ocr) - VisionCamera Frame Processor Plugin to preform text detection on images using MLKit Vision Text Recognition.
 - [React Native New Architecture Working Group](https://github.com/reactwg/react-native-new-architecture)
+- [Opinionated React Native bootcamp (2022)](https://twitter.com/flexbox_/status/1497654821528256520)
+- [Optimize your VS Code setup for React Native with Jamon and David (2022)](https://www.youtube.com/watch?v=xIeA3BCaoPk)

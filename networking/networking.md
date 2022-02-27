@@ -108,7 +108,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config.
 - [router7](https://github.com/rtr7/router7) - Pure-Go implementation of a small home internet router.
 - [socketmaster](https://www.badgerodon.com/socketmaster) - Zero-configuration reverse proxy. ([Code](https://github.com/badgerodon/socketmaster))
-- [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15.
+- [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15. ([HN](https://news.ycombinator.com/item?id=30477078))
 - [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
 - [5G and Shannon’s Law (2020)](https://www.waveform.com/blogs/main/5g-and-shannons-law) ([HN](https://news.ycombinator.com/item?id=23443746))
 - [Erbium](https://github.com/isomer/erbium) - Networking services for small/home networks.
@@ -416,3 +416,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Going IPv6 only (2022)](https://blog.brixit.nl/going-ipv6-only/) ([Lobsters](https://lobste.rs/s/tvk7zh/going_ipv6_only)) ([HN](https://news.ycombinator.com/item?id=30400785))
 - [Pipy](https://github.com/flomesh-io/pipy) - Tiny, high performance, highly stable, programmable proxy.
 - [HTB - DevOops](https://kaizoku.dev/htb-devoops)
+- [The internet was designed with a narrow waist (2022)](https://www.oilshell.org/blog/2022/02/diagrams.html) ([HN](https://news.ycombinator.com/item?id=30483914))

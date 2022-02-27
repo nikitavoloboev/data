@@ -177,3 +177,4 @@
 - [Accidentally Turing-Complete](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) ([HN](https://news.ycombinator.com/item?id=30189780))
 - [How to fund graduate school](https://github.com/dhanus/graduate-fellowships) - List of resources to fund your MS and/or PhD, particularly in computer science.
 - [It's often said that the Analytical Engine was before its time](https://twitter.com/rygorous/status/1359344949037211650) ([HN](https://news.ycombinator.com/item?id=30354976))
+- [Ask HN: The book that did it for you in math and/or CS? (2022)](https://news.ycombinator.com/item?id=30485544)

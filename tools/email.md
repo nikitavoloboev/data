@@ -219,3 +219,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Shortwave](https://www.shortwave.com/) - Email smarter & faster with a reinvented experience for your Gmail. ([Intro](https://www.shortwave.com/blog/introducing-shortwave/)) ([HN](https://news.ycombinator.com/item?id=30349243))
 - [SMTP protocol basics from scratch in Go: receiving email from Gmail (2022)](https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html) ([Lobsters](https://lobste.rs/s/gpopzi/smtp_protocol_basics_from_scratch_go))
 - [Running a private mail server for six years, easy peasy (2021)](https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html) ([HN](https://news.ycombinator.com/item?id=30428882))
+- [Email to Phone Number Osint Tool (2019)](https://www.martinvigo.com/email2phonenumber/)

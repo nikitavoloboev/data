@@ -200,3 +200,4 @@
 - [Ory](https://www.ory.sh/) - Open Source Identity Solutions For Everyone. ([GitHub](https://github.com/ory)) ([Kubernetes Helm Charts for ORY](https://github.com/ory/k8s))
 - [casbin-rs](https://github.com/casbin/casbin-rs) - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 - [oauth2l](https://github.com/google/oauth2l) - Simple CLI for interacting with Google API authentication.
+- [ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using a base64 encoded Ed25519 signature. Simple alternative to webauthn. ([HN](https://news.ycombinator.com/item?id=30483727))

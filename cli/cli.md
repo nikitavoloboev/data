@@ -99,3 +99,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [lets-run](https://github.com/egoist/lets-run) - Run a command when a certain file exists, and/or watch files to rerun on changes.
 - [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [zf](https://github.com/natecraddock/zf) - Command line fuzzy finder that prioritizes matches on filenames.
+- [NO_COLOR](https://no-color.org/) - Disabling ANSI color output in various Unix commands. ([HN](https://news.ycombinator.com/item?id=30483417))

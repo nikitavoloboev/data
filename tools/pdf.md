@@ -41,3 +41,5 @@
 - [svg2pdf.js](https://github.com/yWorks/svg2pdf.js) - JavaScript-only SVG to PDF conversion utility that runs in the browser leveraging jsPDF.
 - [PDFMiner.six](https://github.com/pdfminer/pdfminer.six) - Tool for extracting information from PDF documents.
 - [Keypoints](https://keypoints.app/) - Annotate PDFs in Markdown.
+- [Excalibur](https://excalibur-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans. ([Code](https://github.com/camelot-dev/excalibur))
+- [Tabula](https://tabula.technology/) - Extract Tables from PDFs. ([Code](https://github.com/tabulapdf/tabula)) ([HN](https://news.ycombinator.com/item?id=30475784))

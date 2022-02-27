@@ -140,3 +140,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Shopify Mail Notifications](https://github.com/uicrooks/shopify-mail-notifications) - Blazing-fast Shopify mail notifications templating environment with Liquid, MJML and Twig.
 - [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - Toolkit for building fast and flexible commerce experience applications.
 - [Shopify’s Evolution (2022)](https://stratechery.com/2022/shopifys-evolution/)
+- [Gorgias](https://www.gorgias.com/) - Customer Service Made Easy for Online Stores. ([Twitter](https://twitter.com/gorgiasio))

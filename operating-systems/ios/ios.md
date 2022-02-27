@@ -419,3 +419,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [I shaved 187MB off United Airlines' 439MB iOS app (2022)](https://telkins.dev/posts/how-i-shaved-187mb-off-uniteds-airlines-439mb-ios-app/) ([HN](https://news.ycombinator.com/item?id=30442529))
 - [Screen Time: Another Feature That Apple Forgot (2022)](https://ishan.co/screen-time/) ([Lobsters](https://lobste.rs/s/cvzov8/screen_time_another_feature_apple_forgot))
 - [The Travel Focus Mode (2022)](https://matthewbischoff.com/travel-focus-mode/)
+- [On the Origin of the iPhone (2022)](https://daringfireball.net/2022/02/on_the_origin_of_the_iphone) ([HN](https://news.ycombinator.com/item?id=30477139))

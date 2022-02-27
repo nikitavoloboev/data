@@ -28,7 +28,7 @@
 - [Pywal](https://github.com/dylanaraps/pywal) - Tool that generates a color palette from the dominant colors in an image.
 - [HSLuv, a developer friendly perceptual color space (2020)](https://www.kuon.ch/post/2020-03-08-hsluv/)
 - [HSLuv](https://www.hsluv.org/) - Human-friendly HSL. ([Code](https://github.com/hsluv/hsluv)) ([rust-hsluv](https://github.com/dvdplm/rust-hsluv))
-- [colors.lol](https://colors.lol/) - Overly descriptive color palettes. ([Code](https://github.com/adamfuhrer/colors.lol))
+- [colors.lol](https://colors.lol/) - Overly descriptive color palettes. ([Code](https://github.com/adamfuhrer/colors.lol)) ([HN](https://news.ycombinator.com/item?id=30483892))
 - [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
 - [Not Another Gradient Generator](https://doodad.dev/gradient-generator/) - Create complex, layered color gradients as CSS, SVG, or Raster Images.
 - [Building dark mode on Stack Overflow (2020)](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/) ([HN](https://news.ycombinator.com/item?id=22776651))
