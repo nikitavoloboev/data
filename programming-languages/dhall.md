@@ -18,3 +18,4 @@
 - [graph](https://github.com/Gabriel439/graph) - Dhall support for directed graphs with labeled vertices.
 - [Awesome Dhall](https://github.com/dhall-lang/awesome-dhall)
 - [Data abstraction in Dhall (2020)](https://bkase.dev/posts/data-abstraction-dhall)
+- [Dhall as a Gateway-drug to Typed Functional Programming (2022)](https://confengine.com/conferences/functional-conf-2022/proposal/16424/dhall-as-a-gateway-drug-to-typed-functional-programming)

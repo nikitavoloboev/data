@@ -167,3 +167,5 @@
 - [XNGIN](https://github.com/jiangzhe/xngin) - SQL Engine built from scratch in Rust.
 - [Ask HN: Tools to visualize data in SQL databases? (2022)](https://news.ycombinator.com/item?id=30323131)
 - [Rivers and Axis (2022)](https://gramin.pro/posts/rivers-and-axis/) - How to format SQL queries.
+- [mgrt](https://github.com/andrewpillar/mgrt) - Simple SQL migrations.
+- [Learn SQL with Datasette](https://datasette.io/tutorials/learn-sql)

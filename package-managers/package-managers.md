@@ -48,3 +48,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [5 Reasons to Try Guix in 2022](https://www.youtube.com/watch?v=7ZdMRLPZhFs)
 - [Mamba](https://github.com/mamba-org/mamba) - Fast Cross-Platform Package Manager. ([Docs](https://mamba.readthedocs.io/en/latest/index.html)) ([Micromamba](https://github.com/cjdoris/MicroMamba.jl))
 - [OPM](https://github.com/0xc0ffeec0de/opm) - apt-like systems package manager written in Rust for many operating systems packages.
+- [Guix](https://guix.gnu.org/) - Advanced distro and transactional package manager. ([HN](https://news.ycombinator.com/item?id=30488908))

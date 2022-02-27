@@ -206,3 +206,4 @@
 - [TypedWebhook.tools](https://typedwebhook.tools/) - Web hook testing tool for checking payloads, with automatic type generation. ([Code](https://github.com/inngest/typedwebhook.tools))
 - [Smocker](https://github.com/Thiht/smocker) - Simple and efficient HTTP mock server and proxy. ([Web](https://smocker.dev/))
 - [Braid: Synchronization for HTTP](https://braid.org/) - Extension to HTTP that generalizes it from a state transfer to a state synchronization protocol. ([Spec Code](https://github.com/braid-org/braid-spec))
+- [req](https://github.com/andrewpillar/req) - Opinionated HTTP scripting language. ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/t231hh/req_an_http_scripting_language/))

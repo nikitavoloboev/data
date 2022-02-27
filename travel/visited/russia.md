@@ -442,3 +442,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [KGB defector Yuri Bezmenov's warning to America (1984)](https://www.youtube.com/watch?v=IQPsKvG6WMI) ([HN](https://news.ycombinator.com/item?id=30470856))
 - [Why sanctioning the Central Bank of Russia could prove devastating (2022)](https://twitter.com/RTPerson3/status/1497731514779553794)
 - [Russian history with focusing on the past for government's survival purposes](https://twitter.com/kamilkazani/status/1497306746330697738)
+- [Consequences of crippling Russia's country’s central bank (2022)](https://twitter.com/SHamiltonian/status/1497716768135016451)

@@ -317,3 +317,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [flamegraph.com](https://flamegraph.com/) - Upload and Share Interactive Flamegraphs.
 - [So you want to design a programming language (2017)](https://cs.lmu.edu/~ray/notes/languagedesignnotes/) ([HN](https://news.ycombinator.com/item?id=30481035))
 - [Esolang Park](https://esolangpark.vercel.app/) - Online visual debugger for esoteric languages. ([Code](https://github.com/nilaymaj/esolang-park)) ([HN](https://news.ycombinator.com/item?id=30479320))
+- [Practical Normalization by Evaluation for EDSLs](http://www.cse.chalmers.se/~russo/publications_files/haskell21.pdf)

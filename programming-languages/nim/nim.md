@@ -39,4 +39,4 @@
 - [Nim 1.6.2 (2021)](https://nim-lang.org/blog/2021/12/17/version-162-released.html) ([HN](https://news.ycombinator.com/item?id=29589436))
 - [Nim in Action Book](https://livebook.manning.com/book/nim-in-action/about-this-book/)
 - [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/)
-- [Computer Programming with Nim](https://ssalewski.de/nimprogramming.html)
+- [Computer Programming with Nim](https://ssalewski.de/nimprogramming.html) ([HN](https://news.ycombinator.com/item?id=30487486))

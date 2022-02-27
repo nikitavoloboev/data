@@ -298,3 +298,4 @@
 - [Rust GraphQL API Boilerplate](https://github.com/mattdamon108/rust_graphql_api_boilerplate) - Boilerplate of GraphQL API built in Rust + Warp + Juniper + Diesel.
 - [jenova](https://github.com/kreteshq/jenova) - Battery-included GraphQL Server in TypeScript. Built on top of GraphQL Helix and Envelop.
 - [StepZen](https://stepzen.com/) - Deliver GraphQL faster and scale seamlessly with GraphQL-as-a-Service.
+- [Going with GraphQL (2022)](https://changelog.com/gotime/218)
