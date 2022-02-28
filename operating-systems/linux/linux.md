@@ -195,7 +195,7 @@
 - [Ventoy](https://github.com/ventoy/Ventoy) - Open source tool to create bootable USB drive for ISO/WIM/IMG/EFI files. ([Web](https://www.ventoy.net/en/index.html))
 - [Linux Kernel Modules Developments](https://github.com/AymenSekhri/LinuxKernelModulesDevelopments)
 - [Introduction to Linux commands and Shell scripting](https://github.com/learnbyexample/Linux_command_line)
-- [Linux From Scratch!](http://www.linuxfromscratch.org/index.html) ([HN](https://news.ycombinator.com/item?id=24350738))
+- [Linux From Scratch](http://www.linuxfromscratch.org/index.html) ([HN](https://news.ycombinator.com/item?id=24350738)) ([HN](https://news.ycombinator.com/item?id=30496018))
 - [The Linux development process: Is it worth the hassle? (2020)](https://blog.usejournal.com/the-linux-development-process-is-it-worth-the-hassle-4f09d7ff09a2)
 - [How to take back control of /etc/resolv.conf on Linux (2018)](https://www.ctrl.blog/entry/resolvconf-tutorial.html) ([HN](https://news.ycombinator.com/item?id=24390053))
 - [Introduction to Linux Server Administration](https://github.com/snori74/linuxupskillchallenge)

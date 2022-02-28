@@ -9,6 +9,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 - [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.
 - [Concave](https://github.com/garbles/concave) - Lens-like state management.
+- [Stook](https://github.com/forsigner/stook) - Minimalist design state management library for React.
 
 ## DB
 

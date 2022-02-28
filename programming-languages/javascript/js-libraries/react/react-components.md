@@ -266,6 +266,7 @@
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - Heart-shaped toggle switch component for React.
 - [react-select-search](https://github.com/tbleckert/react-select-search) - Lightweight select component for React.
 - [react-portabletext](https://github.com/portabletext/react-portabletext) - Render Portable Text with React.
+- [Fomir](https://github.com/forsigner/fomir) - Schema-First Form Library. ([Docs](https://fomir.vercel.app/docs/guide/getting-started))
 
 ## Links
 

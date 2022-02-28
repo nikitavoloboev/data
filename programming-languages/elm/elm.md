@@ -88,3 +88,4 @@
 - [Elm patterns](http://sporto.github.io/elm-patterns/) ([Code](https://github.com/sporto/elm-patterns))
 - [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)
 - [elm-review-bot](https://github.com/MartinSStewart/elm-review-bot) - Bot that uses elm-review to find common mistakes in packages.
+- [Tail recursion, but modulo cons (2022)](https://jfmengels.net/modulo-cons/)
