@@ -281,6 +281,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [web](https://github.com/rsc/web) - Basic web site serving framework.
 - [Martian Proxy](https://github.com/google/martian) - Library for building custom HTTP/S proxies.
 - [go-hit](https://github.com/Eun/go-hit) - HTTP integration test framework.
+- [srtgo](https://github.com/Haivision/srtgo) - Go bindings for SRT (Secure Reliable Transport), the open source transport technology that optimizes streaming performance across unpredictable networks.
 
 ## GraphQL
 
@@ -1368,6 +1369,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-xstate](https://github.com/dstotijn/go-xstate) - XState written in Go.
 - [slices](https://github.com/vorduin/slices) - Utility package for working with slices.
 - [async](https://github.com/nkcmr/async) - Alternate patterns for dealing with asynchronous code in go.
+- [Juniper](https://github.com/bradenaw/juniper) - Extended Go standard library using generics, including containers, iterators, and streams. ([Reddit](https://www.reddit.com/r/golang/comments/t32gsl/juniper_is_an_extended_go_standard_library_using/))
+- [go-runewidth](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
 
 ## Links
 

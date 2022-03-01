@@ -118,6 +118,8 @@
 - [Piou](https://github.com/Andarius/piou) - CLI tool to build beautiful command-line interfaces with type validation.
 - [progress](https://github.com/verigak/progress) - Easy progress reporting for Python.
 - [minydra](https://github.com/vict0rsch/minydra) - Minimal Python command-line parser inspired by Facebook's Hydra + dot-accessible nested dictionaries.
+- [ptyprocess](https://github.com/pexpect/ptyprocess) - Launch a subprocess in a pseudo terminal (pty), and interact with both the process and its pty.
+- [Pexpect](https://github.com/pexpect/pexpect) - Python module for controlling interactive programs in a pseudo-terminal.
 
 ## DB
 
@@ -724,6 +726,8 @@
 - [dirty-equals](https://github.com/samuelcolvin/dirty-equals) - Doing dirty (but extremely useful) things with equals.
 - [overrides](https://github.com/mkorpela/overrides) - Decorator to automatically detect mismatch when overriding a method.
 - [Cachy](https://github.com/sdispater/cachy) - Simple yet effective caching library.
+- [matplotx](https://github.com/nschloe/matplotx) - Some useful extensions for Matplotlib.
+- [drawSvg](https://github.com/cduck/drawSvg) - Python 3 library for programmatically generating SVG images (vector drawings) and rendering them or displaying them in a Jupyter notebook.
 
 ## Links
 
@@ -806,3 +810,5 @@
 - [Python on Nix](https://github.com/on-nix/python) - Extensive collection of Python projects from PyPI, for Nix.
 - [Python template for nix flakes](https://github.com/Quoteme/mach-nix-template) - Simple and straight-forward way to create python environments using PyPi in nix. ([Reddit](https://www.reddit.com/r/NixOS/comments/szm4nh/i_created_a_super_simple_flakenix_template_so_you/))
 - [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator.
+- [Python Context Managers in 10 Minutes — using the ‘with’ keyword (2022)](https://towardsdatascience.com/python-context-managers-in-10-minutes-using-the-with-keyword-51eb254c1b89)
+- [Sphinx, MyST, and Python Docs in 2022](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)

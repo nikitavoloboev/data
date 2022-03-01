@@ -820,6 +820,7 @@
 - [imagesLoaded](https://github.com/desandro/imagesloaded) - JavaScript is all like "You images done yet or what?". ([Web](https://imagesloaded.desandro.com/))
 - [long.js](https://github.com/dcodeIO/long.js) - Long class for representing a 64-bit two's-complement integer value.
 - [fast-jwt](https://github.com/nearform/fast-jwt) - Fast JSON Web Token implementation.
+- [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 
 ## Links
 

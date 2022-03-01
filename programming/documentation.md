@@ -2,6 +2,7 @@
 
 ## Examples of nice docs
 
+- [Hoppscotch Docs](https://docs.hoppscotch.io/) ([Code](https://github.com/hoppscotch/docs))
 - [Next MDX](https://www.next-mdx.org/)
 - [Algolia Docs](https://www.algolia.com/doc/)
 - [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))

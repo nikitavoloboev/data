@@ -104,3 +104,4 @@
 - [Data Structures in JavaScript](https://github.com/kamranahmedse/datastructures-in-javascript) - Illustrated Data Structures — Video Series.
 - [Static B-Trees: A data structure for faster binary search](https://en.algorithmica.org/hpc/data-structures/s-tree/) ([HN](https://news.ycombinator.com/item?id=30376140))
 - [Data Structures in the Fleet Editor (2022)](https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/) ([HN](https://news.ycombinator.com/item?id=30415868))
+- [Segment Trees](https://en.algorithmica.org/hpc/data-structures/segment-trees/)

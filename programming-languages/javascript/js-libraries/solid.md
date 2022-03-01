@@ -28,3 +28,4 @@
 - [solid-ui](https://github.com/solid/solid-ui) - User Interface widgets and utilities for Solid.
 - [vite-plugin-solid](https://github.com/solidjs/vite-plugin-solid) - Simple integration to run solid-js with Vite.
 - [Solid MultiSelect](https://github.com/DigiChanges/solid-multiselect) - Multi-select implementation for Solid.
+- [Solid.js feels like what I always wanted React to be](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/) ([HN](https://news.ycombinator.com/item?id=30508524))

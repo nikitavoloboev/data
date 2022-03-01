@@ -164,5 +164,6 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Quick breakdown of what SWIFT is and why it matters](https://twitter.com/SahilBloom/status/1496861068945154056) ([HN](https://news.ycombinator.com/item?id=30456026))
 - [Difference between SWIFT sanctions and targeted bank sanctions](https://twitter.com/daniel_mcdowell/status/1496985031205703683)
 - [If SWIFT is banned, what then?](https://twitter.com/EmilyGorcenski/status/1497591347997384715)
-- [SWIFT ELI5](https://www.reddit.com/r/worldnews/comments/t20u4i/comment/hyj4lio/?utm_source=reddit&utm_medium=web2x&context=3)
+- [SWIFT ELI5](https://www.reddit.com/r/worldnews/comments/t20u4i/comment/hyj4lio/?context=3)
 - [TopHat](https://github.com/Athenodoros/TopHat) - Offline-first personal finances app.
+- [Tell HN: SWIFT is not a payments transfer system (2022)](https://news.ycombinator.com/item?id=30510928)

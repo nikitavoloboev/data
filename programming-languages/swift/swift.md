@@ -266,3 +266,4 @@
 - [Tasks in Swift explained with code examples (2022)](https://www.avanderlee.com/concurrency/tasks/)
 - [Automatically retrying an asynchronous Swift Task (2022)](https://www.swiftbysundell.com/articles/retrying-an-async-swift-task/)
 - [Embedded Swift](https://github.com/Cosmo/awesome-swift-platforms) - Curated list of Swift on different platforms.
+- [Closures in Swift explained with Code Examples (2021)](https://www.avanderlee.com/swift/trailing-escaping-closures/)

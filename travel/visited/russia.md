@@ -1,6 +1,6 @@
 # Russia
 
-TL;DR Russian government is the worst, need to do everything to educate and mobilize the majority of Russians to move towards democratic non presidential model of government.
+TL;DR [Russian government is the worst, need to do everything to educate and mobilize the majority of Russians to move towards democratic non presidential model of government](https://twitter.com/Kasparov63/status/1498380622473179144).
 
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
@@ -445,3 +445,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Consequences of crippling Russia's country’s central bank (2022)](https://twitter.com/SHamiltonian/status/1497716768135016451)
 - [Russian offshore wealth](https://twitter.com/phdskat/status/1497891818343735299)
 - [What are effective sanctions](https://twitter.com/pwnallthethings/status/1497987709968605184)
+- [StopPropaganda](https://github.com/erkexzcx/stoppropaganda) - DOS application to stop pro-Russian aggression websites. Support Ukraine.
+- [Эмиграция из России в свободный Мир](https://equanity.notion.site/equanity/6bb0d8655cf44d25993fb11d14456d5e)
+- [Tell HN: If You Are in Russia (2022)](https://news.ycombinator.com/item?id=30508314)
+- [Myths and misconceptions in the debate on Russia](https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/myth-16-what-comes-after-putin-must-be-better-putin) ([HN](https://news.ycombinator.com/item?id=30512019))

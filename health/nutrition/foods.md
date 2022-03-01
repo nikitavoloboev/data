@@ -143,3 +143,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Cheese Making](https://fankhauserblog.wordpress.com/cheese-making-for-new-folks/)
 - [Foods with the most vertical differentiation / price variation](https://twitter.com/deaneckles/status/1495547614162567170)
 - [Healthy high-calorie foods (2022)](https://www.reddit.com/r/nutrition/comments/syaqyo/what_are_some_healthy_highcalorie_foods/)
+- [What are the most fascinating/informative/mind blowing books you have read about food/nutrition? (2022)](https://www.reddit.com/r/nutrition/comments/t31skt/what_are_the_most_fascinatinginformativemind/)

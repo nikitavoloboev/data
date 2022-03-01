@@ -101,3 +101,4 @@
 - [tran](https://github.com/abdfnx/tran) - Securely transfer and send anything between computers with TUI.
 - [instal](https://github.com/abdfnx/instal) - Install any binary app from a script URL.
 - [tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads.
+- [trzsz](https://github.com/trzsz/trzsz) - Simple file transfer tools, similar to lrzsz ( rz / sz ), and compatible with tmux.

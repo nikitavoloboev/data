@@ -584,3 +584,7 @@
 - [3D Machine Learning resources/papers](https://github.com/timzhang642/3D-Machine-Learning)
 - [FiftyOne](https://github.com/voxel51/fiftyone) - Open-source tool for building high-quality datasets and computer vision models.
 - [Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut (2022)](https://arxiv.org/abs/2202.11539) ([Code](https://github.com/YangtaoWANG95/TokenCut))
+- [Awesome Multiple object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking)
+- [Rethinking Coarse-to-Fine Approach in Single Image Deblurring (2021)](https://arxiv.org/abs/2108.05054) ([Code](https://github.com/chosj95/MIMO-UNet))
+- [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling (2021)](https://arxiv.org/abs/2102.06183) ([Code](https://github.com/jayleicn/ClipBERT))
+- [As-ViT: Auto-scaling Vision Transformers without Training (2022)](https://arxiv.org/abs/2202.11921) ([Code](https://github.com/VITA-Group/AsViT))

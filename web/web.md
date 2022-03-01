@@ -361,3 +361,4 @@
 - [Web APIs Playground](https://webapis-playground.vercel.app/) - Showcase the JavaScript Web APIs with examples and demonstrations. ([Code](https://github.com/atapas/webapis-playground))
 - [List of lightweight websites without bloat](https://github.com/mdibaiee/awesome-lite-websites)
 - [host yo self](https://hostyoself.com/) - Hosting service from the browser. ([Code](https://github.com/schollz/hostyoself))
+- [Open Web Advocacy](https://open-web-advocacy.org/) ([HN](https://news.ycombinator.com/item?id=30507851))

@@ -37,3 +37,4 @@
 - [Apple Rules for Bazel](https://github.com/bazelbuild/rules_apple) - Bazel rules to build apps for Apple platforms.
 - [BazelCon](https://conf.bazel.build/) ([Supporting files for BazelCon](https://github.com/bazelbuild/bazelcon))
 - [JavaScript rules for Bazel](https://github.com/bazelbuild/rules_nodejs)
+- [Scoot](https://github.com/twitter/scoot) - Distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.

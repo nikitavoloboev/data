@@ -1,5 +1,7 @@
 # Swift libraries
 
+[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework.
+
 ## CLI
 
 - [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
@@ -228,6 +230,7 @@
 - [SPPermissions](https://github.com/ivanvorobei/SPPermissions) - Ask permissions with ready-use interface.
 - [Agrume](https://github.com/JanGorman/Agrume) - iOS image viewer written in Swift with support for multiple images.
 - [Folio](https://github.com/levibostian/Folio) - Flexible way to detect when you scroll to the end of a `UITableView`.
+- [UIOnboarding](https://github.com/lascic/UIOnboarding) - Configurable welcome screen for iOS 13 and higher.
 
 ## macOS
 
@@ -250,6 +253,7 @@
 
 ## Web
 
+- [FlyingFox](https://github.com/swhitty/FlyingFox) - Lightweight, HTTP server written in Swift using async/await.
 - [Apexy](https://github.com/RedMadRobot/apexy-ios) - Library for organizing a network layer in a project.
 - [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift.
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework. ([GraphQL Vapor Template](https://github.com/alexsteinerde/vapor-graphql-template))
@@ -425,6 +429,8 @@
 - [TokenField](https://github.com/fcanas/TokenField) - SwiftUI wrapper for NSTokenField.
 - [BetterPicker](https://github.com/ericlewis/swiftui-betterpicker) - Better Picker for SwiftUI.
 - [ObservableStore](https://github.com/gordonbrander/ObservableStore) - Lightweight Elm-like Store for SwiftUI.
+- [Snappable](https://github.com/hugehoge/Snappable) - SwiftUI custom modifiers to make the ScrollView snappable.
+- [DynamicOverlay](https://github.com/faberNovel/DynamicOverlay) - SwiftUI library that makes easier to develop overlay based interfaces, such as the one presented in the Apple Maps app.
 
 ## Test
 
@@ -977,6 +983,9 @@
 - [swift-json](https://github.com/kelvin13/swift-json) - High-performance JSON parsing in swift.
 - [SwiftSlash](https://github.com/tannerdsilva/SwiftSlash) - Concurrent Shell Framework Built Entirely With Async/Await.
 - [SwiftDI](https://github.com/LiteCode/SwiftDI) - Tool for Dependency Injection using @propertyWrapper.
+- [Nivelir](https://github.com/hhru/Nivelir) - Swift DSL for navigation in iOS and tvOS apps with a simplified, chainable, and compile time safe syntax.
+- [AutoChangeable](https://github.com/almazrafi/AutoChangeable) - Convenient way to copy instances of Swift types with changed properties.
+- [EnvKit](https://github.com/BinaryBirds/env-kit) - Swift package for transmitting environment variables between shell processes.
 
 ## Other (not lib)
 

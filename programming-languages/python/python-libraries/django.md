@@ -130,3 +130,4 @@
 - [Django-invitations](https://github.com/bee-keeper/django-invitations) - Generic invitations app for Django.
 - [Django IDOM](https://github.com/idom-team/django-idom) - Allows Django to integrate with IDOM, a reactive Python web framework for building interactive websites without needing a single line of JavaScript.
 - [Django Easy Audit](https://github.com/soynatan/django-easy-audit) - Allows you to keep track of every action taken by your users.
+- [Django Garnett](https://github.com/Aristotle-Metadata-Enterprises/django-garnett) - Field level translation library that allows you to store strings in multiple languages.

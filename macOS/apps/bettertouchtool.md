@@ -4,17 +4,18 @@ I use BTT to [customize different trackpad gestures](https://medium.com/@nikitav
 
 You can download [my BTT Profile](https://www.dropbox.com/s/6qai74hb1ptoerd/Main.bttpreset?dl=0) and import it to your BetterTouchTool to get all gestures I setup for myself (or just look around and see what you like). Gestures that save me most time are moving between tabs with three finger gestures (+ closing/opening tabs with up & down gestures).
 
-I also use BTT to modify my TouchBar. Here is how it looks:
+<!-- I also use BTT to modify my TouchBar. Here is how it looks:
 
 ![](https://i.imgur.com/i5obomu.png)
-
-It shows, from left to right:
+ -->
+<!-- It shows, from left to right:
 
 1. Current or next events in [my Calendar](fantastical.md)
 2. Current time, day and month number
 3. Battery percentage
 
 Can easily tell that it's an all day event as it won't have time stamps shown below the event title.
+ -->
 
 ## Links
 

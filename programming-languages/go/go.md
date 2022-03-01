@@ -191,7 +191,6 @@ if err != nil {
 - [PubSub using channels in Go (2020)](https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/)
 - [Build Web Application with Golang book](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
 - [SOLID Go Design (2016)](https://dave.cheney.net/2016/08/20/solid-go-design)
-- [Better Go Playground](https://github.com/x1unix/go-playground) - Improved Go Playground powered by Monaco Editor and React.
 - [Algorithms with Go course](https://algorithmswithgo.com/)
 - [Interfaces in Go (2018)](https://medium.com/rungo/interfaces-in-go-ab1601159b3a) - Interface is a great and only way to achieve Polymorphism in Go.
 - [Allocation efficiency in high-performance Go services (2017)](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
@@ -716,3 +715,6 @@ if err != nil {
 - [gup](https://github.com/nao1215/gup) - Update binaries installed by "go install".
 - [“Sustainability with Rust” post misleading about Go (2022)](https://twitter.com/_rsc/status/1496352325157457922) ([HN](https://news.ycombinator.com/item?id=30441771)) ([Tweet](https://www.reddit.com/r/golang/comments/sznapm/russ_cox_on_sustainability_with_rust_post_by_aws/))
 - [Accepting payments in Go using Stripe (2022)](https://jaycoding.tech/tutorials/guides/accepting-payments-in-golang-using-strip-udwcis) ([Reddit](https://www.reddit.com/r/golang/comments/t2n87i/accepting_payments_in_golang_using_stripe/))
+- [Retrofitting Async/Await in Go 1.18 (2022)](https://csgrinding.xyz/go-async/)
+- [Better Go Playground](https://goplay.tools/) - Powered by React and Monaco editor. ([Code](https://github.com/x1unix/go-playground))
+- [How generics are implemented in Go 1.18 (2022)](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md) ([HN](https://news.ycombinator.com/item?id=30518094))

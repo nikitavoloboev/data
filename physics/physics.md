@@ -272,7 +272,7 @@
 - [The Mystery of Snowflakes (2021)](https://www.youtube.com/watch?v=ao2Jfm35XeE)
 - [Gravitational waves should permanently distort space-time (2021)](https://www.quantamagazine.org/gravitational-waves-should-permanently-distort-space-time-20211208/) ([HN](https://news.ycombinator.com/item?id=29485803))
 - [Oxford Physics Interview (2021)](https://www.youtube.com/watch?v=_A65Xdo6Wog)
-- [We all move at the Speed of Light (2018)](https://www.youtube.com/watch?v=au0QJYISe4c) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/rfe3e5/dmt_timelessness_and_traveling_at_the_speed_of/hohp3z6/?utm_source=reddit&utm_medium=web2x&context=3))
+- [We all move at the Speed of Light (2018)](https://www.youtube.com/watch?v=au0QJYISe4c) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/rfe3e5/dmt_timelessness_and_traveling_at_the_speed_of/hohp3z6/?context=3))
 - [The Year in Physics (2021)](https://www.quantamagazine.org/the-year-in-physics-20211222/) ([Video](https://www.youtube.com/watch?v=FMM7GWnAv0A))
 - [The Origins Of Constants Of Motion (2019)](https://tilman.dev/blog/2019/03/the-origins-of-constants-of-motion-working-title)
 - [A delightful quirk of relativity theory (2022)](https://twitter.com/MarkusDeserno/status/1482811504424542211) ([HN](https://news.ycombinator.com/item?id=29977041))

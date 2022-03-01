@@ -41,6 +41,7 @@
 
 ## Web
 
+- [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
 - [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/))
 - [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
 - [ntex](https://github.com/ntex-rs/ntex) - Framework for composable networking services.
@@ -286,6 +287,7 @@
 - [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui.
 - [Softy](https://github.com/elrnv/softy) - Simulation tools for animating interacting soft objects.
 - [vtkio](https://github.com/elrnv/vtkio) - Visualization ToolKit (VTK) file parser and writer.
+- [rui](https://github.com/audulus/rui) - Rust UI library, inspired by SwiftUI. ([Reddit](https://www.reddit.com/r/rust/comments/t4cyp6/rui_experimental_declarative_rust_ui_library/))
 
 ## Games
 
@@ -330,6 +332,7 @@
 - [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.
 - [Yare](https://github.com/foresterre/yare) - Lean parametrized testing library for Rust.
 - [tracing-test](https://github.com/dbrgn/tracing-test) - Access and evaluate tracing logs in async and sync tests.
+- [cov-mark](https://github.com/matklad/cov-mark) - Verify that your tests exercise the conditions you think they are exercising.
 
 ## Error
 
@@ -1526,6 +1529,8 @@
 - [online](https://github.com/jesusprubio/online) - Library to check your Internet connectivity.
 - [haphazard](https://github.com/jonhoo/haphazard) - Hazard pointers in Rust.
 - [rusty-money](https://github.com/varunsrin/rusty_money) - Handles the messy parts of dealing with money like rounding, precision, parsing and internationalization.
+- [bkt](https://github.com/dimo414/bkt) - Subprocess caching utility, available as a command line binary and a Rust library.
+- [swift-rs](https://github.com/Brendonovich/swift-rs) - Call Swift functions from Rust with ease.
 
 ## Cargo Plugins
 

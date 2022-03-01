@@ -398,10 +398,14 @@ Below is a list of extensions I use.
 - [Swift for VSCode](https://github.com/swift-server/vscode-swift)
 - [Swift Development Environment](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) ([Code](https://github.com/vknabel/vscode-swift-development-environment))
 
-## Deploy
+## Docker
+
+- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
+
+## Kubernetes
 
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
-- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
+- [mirrord](https://marketplace.visualstudio.com/items?itemName=MetalBear.mirrord) - Mirror live traffic from your Kubernetes cluster to your local debugged process. ([Code](https://github.com/metalbear-co/mirrord))
 
 ## Protocol buffers
 

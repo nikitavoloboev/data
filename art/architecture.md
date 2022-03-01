@@ -83,3 +83,4 @@
 - [Paradise hills: the star-studded history and uncertain future of Armenia’s legendary Soviet-era composers’ retreat (2022)](https://www.calvertjournal.com/features/show/13570/dilijan-soviet-armenia-composers-resort-dmitry-shostakovich-benjamin-britten-aram-khachaturyan)
 - [West Coast Modern](https://www.westcoastmodern.ca/)
 - [How much do construction costs matter to the price of housing? (2022)](https://constructionphysics.substack.com/p/how-much-do-construction-costs-matter?r=2ss8p) ([HN](https://news.ycombinator.com/item?id=30364098))
+- [Sustainable building: The hottest new material is, uh, wood](https://www.vox.com/energy-and-environment/2020/1/15/21058051/climate-change-building-materials-mass-timber-cross-laminated-clt)

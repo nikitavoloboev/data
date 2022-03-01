@@ -144,3 +144,4 @@
 - [Steel](https://github.com/rafaelcalcada/steel-core) - RISC-V processor core that implements the RV32I and Zicsr instruction sets of the RISC-V specifications.
 - [Sail RISC-V model](https://github.com/riscv/sail-riscv) - Formal specification of the RISC-V architecture, written in Sail.
 - [Ultra-Low Power RISC-V Core](https://github.com/riscv-mcu/e203_hbirdv2)
+- [RISC-V Opcodes](https://github.com/riscv/riscv-opcodes)

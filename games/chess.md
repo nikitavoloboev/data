@@ -178,3 +178,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Minic](https://github.com/tryingsomestuff/Minic) - Simple chess engine to learn and play with.
 - [Chess Minigames for Enjoyable Learning](https://andytrattner.com/img/pdf/enjoy-chess.pdf) ([HN](https://news.ycombinator.com/item?id=30295760))
 - [Stockfish.js](https://github.com/nmrugg/stockfish.js) - WASM implementation of Stockfish chess engine. ([HN](https://news.ycombinator.com/item?id=30454021))
+- [10 Chess Traps to Win Fast](https://www.youtube.com/watch?v=fotEfEXL60o)

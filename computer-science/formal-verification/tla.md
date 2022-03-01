@@ -44,3 +44,5 @@
 - [TLA+ Web UI Prototype](https://github.com/will62794/tla-web)
 - [TLA+ Transmutation](https://github.com/gabrielamafra/tla-transmutation) - Elixir code generation from TLA+ specifications.
 - [Thinking about protocols with TLA+ and Apalache](https://github.com/informalsystems/tla-apalache-workshop)
+- [Azure Cosmos TLA+ specifications](https://github.com/Azure/azure-cosmos-tla)
+- [State Machines in TLA+](https://lamport.azurewebsites.net/video/video2-script.pdf)

@@ -130,3 +130,4 @@
 - [Erlings](https://github.com/lambdaclass/erlings) - Small exercises to get you used to reading and writing Erlang code.
 - [Erlang zlist](https://github.com/egobrain/zlist) - Lazy sequences library.
 - [equery](https://github.com/egobrain/equery) - Library for PostgreSQL SQL generation.
+- [ExRated](https://github.com/grempe/ex_rated) - Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.

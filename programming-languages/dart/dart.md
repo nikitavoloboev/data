@@ -34,3 +34,4 @@
 - [pana](https://github.com/dart-lang/pana) - Library for analyzing Dart packages.
 - [Mongo-dart](https://github.com/mongo-dart/mongo_dart) - MongoDB driver for Dart.
 - [dartz](https://github.com/spebbe/dartz) - Functional programming in Dart.
+- [http2](https://github.com/dart-lang/http2) - HTTP/2 implementation for dart.

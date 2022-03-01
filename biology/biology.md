@@ -106,6 +106,7 @@
 - [The Century of Biology | Elliot Hershberg](https://centuryofbio.substack.com/)
 - [Bioicons](https://bioicons.com/) - High quality science illustrations. ([Code](https://github.com/duerrsimon/bioicons)) ([Tweet](https://twitter.com/ATinyGreenCell/status/1491657282438017031))
 - [Anja Health](https://anjahealth.com/) - Freezing stem cells at birth for future health. ([HN](https://news.ycombinator.com/item?id=30305959))
-- [Biological Anchors: A Trick That Might Or Might Not Work (2022)](https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might?utm_source=url)
+- [Biological Anchors: A Trick That Might Or Might Not Work (2022)](https://astralcodexten.substack.com/p/biological-anchors-a-trick-that-might)
 - [Largest bacterium ever discovered has unexpectedly complex cells (2022)](https://www.science.org/content/article/largest-bacterium-ever-discovered-has-unexpectedly-complex-cells) ([HN](https://news.ycombinator.com/item?id=30454045))
 - [Detailed simulation of complete minimal cellular life](<https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4>) ([HN](https://news.ycombinator.com/item?id=30474256))
+- [Cell Browser](https://a9.io/gramstract/) ([Tweet](https://twitter.com/maxkriegers/status/1465187926157918210))

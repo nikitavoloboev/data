@@ -505,3 +505,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Helios](https://github.com/z0r0z/Helios) - ERC-1155-based Exchange.
 - [SafuNFT](https://github.com/x-soul-x/SafuNFT) - Minimal contract with a lock and redeem/refund mechanism.
 - [parcels](https://github.com/abigger87/parcels) - Modern, Opinionated Multicall Library.
+- [Uniswap V3 Subgraph](https://github.com/Uniswap/v3-subgraph)
+- [w3](https://github.com/lmittmann/w3) - Modular and fast Ethereum JSON RPC client with first-class ABI support.
+- [Ethereum ETL Airflow](https://github.com/blockchain-etl/ethereum-etl-airflow) - Airflow DAGs for exporting, loading, and parsing the Ethereum blockchain data.

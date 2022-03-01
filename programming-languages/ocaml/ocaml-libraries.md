@@ -159,6 +159,7 @@
 - [ADT rewriting](https://github.com/Drup/adtr) - Representing ADTs in a flat way and compiling a pattern match-like construction as a rewrite on the memory representation.
 - [AlphaRegex](https://github.com/kupl/AlphaRegexPublic) - Synthesizer for regular expressions.
 - [py.ml](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
+- [Affect](https://github.com/dbuenzli/affect) - Composable concurrency primitives with OCaml effects handlers.
 
 ## Links
 

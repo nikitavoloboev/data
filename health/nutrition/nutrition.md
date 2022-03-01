@@ -84,3 +84,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. I lo
 - [Тред о сжигании жира и снижении веса](https://twitter.com/malojira/status/1489305374142472194)
 - [Scientist busts myths about how humans burn calories (2022)](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why) ([HN](https://news.ycombinator.com/item?id=30381000))
 - [Tips on getting your gut healthier (2022)](https://www.reddit.com/r/nutrition/comments/swv9rn/does_anyone_have_any_tips_on_getting_your_gut/)
+- [Interesting facts about food/nutrition](https://www.reddit.com/r/nutrition/comments/t3lfwh/what_are_the_most_mind_blowing_or_interesting/)

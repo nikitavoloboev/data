@@ -386,3 +386,4 @@
 - [ZuriHac 2022](https://zfoh.ch/zurihac2022/)
 - [About that Reader trick (2022)](https://www.micahcantor.com/blog/about-that-reader-trick/)
 - [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html) ([HN](https://news.ycombinator.com/item?id=30477630))
+- [Lambda Diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences.

@@ -332,3 +332,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RSM](https://github.com/rsms/rsm) - Rsms's smol machine — a virtual computer hobby project.
 - [Osdev Notes](https://github.com/dreamos82/Osdev-Notes)
 - [Bootloader Basics (2022)](https://notes.eatonphil.com/bootloader-basics.html)
+- [Ask HN: What is the oldest, still supported OS? (2022)](https://news.ycombinator.com/item?id=30505219)

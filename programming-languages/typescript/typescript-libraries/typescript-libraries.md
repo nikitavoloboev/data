@@ -370,6 +370,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pheno](https://github.com/suchipi/pheno) - Simple, lightweight at-runtime type checking functions, with full TypeScript support. ([Tweet](https://twitter.com/suchipi/status/1497776602565918720))
 - [tsm](https://github.com/matthiasferch/tsm) - TypeScript vector and matrix math library.
 - [boolean](https://github.com/thenativeweb/boolean) - Converts lots of things to boolean.
+- [magic-string-extra](https://github.com/antfu/magic-string-extra) - Extended magic-string with extra utilities.
+- [Sceneify](https://github.com/Brendonovich/sceneify) - Easiest way to control OBS from JavaScript.
 
 ## Links
 
@@ -414,3 +416,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tsync](https://github.com/Wulf/tsync) - Synchronize rust and typescript types.
 - [run-ts](https://github.com/etienne-dldc/run-ts) - Tools to use Typescript files as npm scripts.
 - [convert-to-dts](https://github.com/suchipi/convert-to-dts) - Converts the source code for any .js or .ts file into the equivalent .d.ts code TypeScript would generate.
+- [publib](https://github.com/cdklabs/publib) - Unified toolchain for publishing libraries to popular package managers.

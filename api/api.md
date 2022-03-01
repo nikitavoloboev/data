@@ -122,6 +122,7 @@
 - [Spotify Rust 3](https://github.com/ramsayleung/rspotify)
 - [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
+- [Coinbase Rust](https://github.com/j16r/coinbase-rs)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Gfycat Python](https://github.com/ankeshanand/py-gfycat)
 - [TikTok Python](https://github.com/davidteather/TikTok-Api) - Unofficial API.
@@ -233,7 +234,7 @@
 - [Apiary](https://apiary.io/) - Platform for API Design, Development & Documentation. ([How Apiary Works](https://apiary.io/how-apiary-works))
 - [Customizing API Documentation with Next.JS, Tailwind CSS, and ReadMe (2020)](https://scale.com/blog/quick-start-guide-to-customized-api-documentation)
 - [OpenAPI 3 Generator](https://github.com/egorsmkv/openapi3-generator) - Faster way to prototype your APIs using OpenAPI 3 and Swagger UI. ([HN](https://news.ycombinator.com/item?id=24867853))
-- [Hoppscotch](https://hoppscotch.io/) - Free, fast and beautiful API request builder. ([Code](https://github.com/hoppscotch/hoppscotch))
+- [Hoppscotch](https://hoppscotch.io/) - Free, fast and beautiful API request builder. ([Code](https://github.com/hoppscotch/hoppscotch)) ([HN](https://news.ycombinator.com/item?id=30498072))
 - [Optic](https://useoptic.com/) - APIs that Document and Test Themselves. ([Code](https://github.com/opticdev/optic))
 - [Pizzly](https://github.com/Bearer/Pizzly/) - Simplest, fastest way to integrate your app with OAuth APIs. ([Web](https://www.bearer.sh/pizzly-oauth-integration))
 - [Swell](https://github.com/open-source-labs/Swell) - API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC. ([Web](https://www.getswell.io/))

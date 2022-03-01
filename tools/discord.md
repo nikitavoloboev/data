@@ -119,3 +119,4 @@
 - [DiscordSubHub](https://github.com/nathanielfernandes/DiscordSubHub) - User-Friendly Feed API Designed For Discord Webhooks.
 - [discord-fs](https://github.com/pixelomer/discord-fs) - Discord as a filesystem.
 - [miku](https://github.com/NinoDiscord/miku) - Tiny, stateless microservice to notify that your Discord bot is going under maintenance, made in Go.
+- [Valkyrie](https://github.com/sentrionic/Valkyrie) - Discord clone using React and Go.

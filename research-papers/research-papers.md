@@ -161,3 +161,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arXiv.wiki](https://arxiv.wiki/) - Place for notes and summaries of arXiv.org papers. ([Code](https://github.com/arxivwiki/arxivwiki))
 - [Sci-Hub statistics and database](https://sci-hub.ru/database) ([HN](https://news.ycombinator.com/item?id=30314601))
 - [Paper Memory](https://github.com/vict0rsch/PaperMemory) - Browser extension to automatically store the papers you read (Arxiv, OpenReview & more).
+- [Papis](https://github.com/papis/papis) - Powerful and highly extensible command-line based document and bibliography manager.
+- [How to efficiently read and understand machine learning research papers](https://twitter.com/marktenenholtz/status/1498644231149142025)

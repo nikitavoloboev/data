@@ -455,3 +455,4 @@ all: unset
 - [A Complete Guide to CSS Cascade Layers (2022)](https://css-tricks.com/css-cascade-layers/)
 - [Things the CSS Spec Folks Got Right (2022)](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/) ([HN](https://news.ycombinator.com/item?id=30460238))
 - [Load Awesome](https://github.com/danielcardoso/load-awesome) - Awesome collection of — Pure CSS — Loaders and Spinners.
+- [Classless CSS](https://github.com/dbohdan/classless-css) - List of classless CSS themes and frameworks.

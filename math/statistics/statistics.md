@@ -150,3 +150,4 @@
 - [What is antifragility?](https://twitter.com/carefullycnsdrd/status/1494774246660263949)
 - [Fisher–Tippett–Gnedenko theorem - Wikipedia](https://en.wikipedia.org/wiki/Fisher%E2%80%93Tippett%E2%80%93Gnedenko_theorem) - There are only three possible asymptotic forms of extreme order statistics.
 - [Bayesian inference of phylogeny is robust to substitution model over-parameterization (2022)](https://www.biorxiv.org/content/10.1101/2022.02.17.480861v1) ([Tweet](https://twitter.com/SebastianHoehna/status/1495665862891745286))
+- [The Kalman Filter. Helping Chickens Cross the Road (2022)](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/) ([HN](https://news.ycombinator.com/item?id=30485962))

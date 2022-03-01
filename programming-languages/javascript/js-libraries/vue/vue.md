@@ -5,6 +5,7 @@
 - [Travel App, Native-like Page Transitions](https://github.com/sdras/page-transitions-travelapp)
 - [Vue Advanced Chat](https://github.com/antoine92190/vue-advanced-chat) - Beautiful chat rooms component made with Vue.js.
 - [Official Vue.js Blog](https://github.com/vuejs/blog)
+- [Discord Clone](https://github.com/SOKHUONG/discord-clone)
 
 ## Notes
 
@@ -114,3 +115,4 @@
 - [Nuxt Supabase](https://github.com/larbish/supabase-module) - Supabase module for Nuxt.
 - [Nuxt Strapi](https://github.com/nuxt-community/strapi-module) - Strapi Module for Nuxt.
 - [vue-bind-once](https://github.com/danielroe/vue-bind-once) - Tiny, SSR-safe directive for binding random data to an element.
+- [Nuxt3 + URQL + SSR](https://github.com/bicouy0/nuxt3-urql)

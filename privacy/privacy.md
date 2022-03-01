@@ -118,3 +118,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Ask HN: Whats the tech stack that top-tier hackers use for staying undetectable? (2022)](https://news.ycombinator.com/item?id=30278631)
 - [Warez: The Infrastructure and Aesthetics of Piracy (2021)](https://punctumbooks.com/titles/warez-the-infrastructure-and-aesthetics-of-piracy/)
 - [Be anonymous (2022)](https://kg.dev/thoughts/be-anonymous) ([HN](https://news.ycombinator.com/item?id=30408236))
+- [Privacy Guides](https://privacyguides.org/) - Protect your data against global mass surveillance programs. ([Code](https://github.com/privacyguides/privacyguides.org))

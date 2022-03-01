@@ -44,3 +44,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [NeuralKuvshinov](https://github.com/dobrosketchkun/NeuralKuvshinov_v2) - Your own Ilya Kuvshinov. Now almost as real as the real one.
 - [Mixbox](https://scrtwpns.com/mixbox/) - Practical Pigment Mixing for Digital Painting. ([Code](https://github.com/scrtwpns/pigment-mixing))
 - [EbSynth](https://ebsynth.com/) - Transform Video by Painting Over a Single Frame. ([Code](https://github.com/jamriska/ebsynth))
+- [MacPaint-themed interface for Tldraw](https://paint.withdiagram.com/) ([HN](https://news.ycombinator.com/item?id=30508508))

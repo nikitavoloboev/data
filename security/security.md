@@ -263,3 +263,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Threat Modeling: A Practical Guide for Development Teams Book](https://www.oreilly.com/library/view/threat-modeling/9781492056546/)
 - [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 - [Exploring content of X.509 certificates](https://relational-pipes.globalcode.info/v_0/examples-asn1-x509.xhtml)
+- [Medusa](https://github.com/jonasvinther/medusa) - CLI tool for importing and exporting Hashicorp Vault secrets.

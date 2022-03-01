@@ -222,3 +222,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Catalyst Video Grid](https://github.com/steventroughtonsmith/catalystvideogrid) - Catalyst example of a grid-based video app that opens videos in secondary windows.
 - [Where Mac Catalyst Falls Short (2022)](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)
 - [Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app.
+- [Good open-source alternatives to essential paid Mac apps (2022)](https://www.reddit.com/r/MacOS/comments/t2olo5/good_opensource_alternatives_to_essential_paid/)

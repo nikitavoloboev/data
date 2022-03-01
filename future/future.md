@@ -95,3 +95,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: What technology is “cutting edge” in 2022?](https://news.ycombinator.com/item?id=30053761)
 - [Predictions for 2050 (2022)](https://slimemoldtimemold.com/2022/01/01/predictions-for-2050/)
 - [Ask HN: Disillusioned with the Direction of Society and Technology (2022)](https://news.ycombinator.com/item?id=30321888)
+- [Cozy futurism (2021)](https://nintil.com/cozy-futurism) ([HN](https://news.ycombinator.com/item?id=30479462))

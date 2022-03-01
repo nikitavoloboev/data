@@ -7,6 +7,7 @@
 - [There is no such thing as vaginal orgasm, only clitoral. Pay attention and be gentle with it.](https://www.abc.net.au/health/features/stories/2014/10/28/4116350.htm)
 - [How is female birth control literally all so incredibly medieval.](https://twitter.com/nwilliams030/status/1381421499005943810)
 - [If you're taking it slower now, you're probably getting into it more. I used to have problems where he was hitting cervix and sent shooting pains. Now he takes tons of time warming me up, tons of foreplay and things directed towards me. It allows me to relax and enjoy myself more, and in return hitting the deep points don't feel painful anymore they are way more pleasurable. I am left teary eyed, semi runny nose, giggly, shaking.... sometimes if I edge long enough too on top that, can make you feel almost drunk.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
+- [Women's desire usually drives from a story being played out.](https://www.reddit.com/r/sexover30/comments/t2xr2p/any_advice_on_how_to_make_yourself_want_to_have/)
 
 ## Links
 
@@ -97,3 +98,4 @@
 - [Why Are Young People Having So Little Sex?](https://www.theatlantic.com/magazine/archive/2018/12/the-sex-recession/573949/) ([HN](https://news.ycombinator.com/item?id=30385292))
 - [What is the appeal in being choked during sex?](https://www.reddit.com/r/NoStupidQuestions/comments/sz0und/what_is_the_appeal_in_being_choked_during_sex/)
 - [101 Kinky Things Even You Can Do](https://101kinkythings.com/)
+- [Sex Work: Last Week Tonight with John Oliver (HBO) (2022)](https://www.youtube.com/watch?v=-gd8yUptg0Q)

@@ -141,7 +141,7 @@ Psychedelics together with listening of [Alan Watts](../../humans/alan-watts.md)
 - [Andrés Gómez Emilsson from Qualia Research Institute Interview (2021)](https://www.youtube.com/watch?v=KxVtiZvBCz0)
 - [Shrooms: What You Need to Know](https://tripsafe.org/shrooms/) ([HN](https://news.ycombinator.com/item?id=29682900))
 - [MAPS Research Papers](https://maps.org/take-action/resources/papers/) - Original research and reviews of literature about psychedelic compounds.
-- [Neural Annealing: Toward a Neural Theory of Everything (2019)](https://opentheory.net/2019/11/neural-annealing-toward-a-neural-theory-of-everything/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/rm7ang/does_anyone_actually_consider_psychedelics_to_be/hpkopl7/?utm_source=reddit&utm_medium=web2x&context=3))
+- [Neural Annealing: Toward a Neural Theory of Everything (2019)](https://opentheory.net/2019/11/neural-annealing-toward-a-neural-theory-of-everything/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/rm7ang/does_anyone_actually_consider_psychedelics_to_be/hpkopl7/?context=3))
 - [Bipolar and Psychedelics: An Investigation into the Potential and Risks (2020)](https://psychedelicstoday.com/2020/05/11/bipolar-and-psychedelics/)
 - [Psilocybin has no short- or long-term detrimental effects in healthy people (2022)](https://www.kcl.ac.uk/news/psilocybin-in-10mg-or-25mg-doses-has-no-short-or-long-term-detrimental-effects-in-healthy-people) ([HN](https://news.ycombinator.com/item?id=29798397))
 - [What’s the most profound realization psychedelics has taught you?](https://www.reddit.com/r/Psychonaut/comments/snzl5u/whats_the_most_profound_realization_psychedelics/)

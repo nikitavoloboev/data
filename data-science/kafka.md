@@ -1,5 +1,7 @@
 # [Apache Kafka](https://kafka.apache.org/)
 
+[This talk](https://www.youtube.com/watch?v=UEg40Te8pnE) is good intro.
+
 ## Notes
 
 - [Same goes with all the Kafka usage, making development literally Kafkaesque. The data eventually flows through your microservice landscape, being eventually consistent and performance issues become a whole different nightmare. Yea, maybe I just didn't read enough of the documentation but maybe your 1500 users per month web-app doesn't need 7 microservices and Kafka as single source of truth, all hold together by 8 developers.](https://news.ycombinator.com/item?id=27092326)
@@ -89,3 +91,4 @@
 - [Building Real-Time ETL Pipelines with Apache Kafka (2022)](https://datacater.io/blog/2022-02-11/etl-pipeline-with-apache-kafka.html)
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client.
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI.
+- [Introduction to Apache Kafka by James Ward (2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)

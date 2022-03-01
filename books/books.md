@@ -502,3 +502,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Global Grey ebooks](https://www.globalgreyebooks.com/index.html) - Free public domain ebooks in PDf, ePub, mobi formats. ([HN](https://news.ycombinator.com/item?id=30352207))
 - [Standard Ebooks toolset for producing ebook files](https://github.com/standardebooks/tools)
 - [How a Book Is Made – Ink, Paper and a 200k-Pound Printer (2022)](https://www.nytimes.com/interactive/2022/02/19/books/how-a-book-is-made.html) ([HN](https://news.ycombinator.com/item?id=30407060))
+- [Booqsi](https://www.booqsi.com/) - Show HN: A more social, Amazon-free alternative to Goodreads. ([HN](https://news.ycombinator.com/item?id=30503197))

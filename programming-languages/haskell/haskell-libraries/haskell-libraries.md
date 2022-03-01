@@ -281,3 +281,4 @@
 - [hackage-download](https://github.com/nh2/hackage-download) - Download all of Hackage.
 - [Hackage UI](https://hackage-ui.vercel.app/) - Fresh look for the Hackage. ([Code](https://github.com/visortelle/hackage-ui))
 - [Thoughts on build tooling in Haskell (2022)](https://twitter.com/ChShersh/status/1493901050805424128)
+- [Haskell (Almost) Standard Libraries Book (2022)](https://leanpub.com/haskell-stdlibs/)

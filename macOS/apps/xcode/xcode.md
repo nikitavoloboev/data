@@ -96,3 +96,4 @@
 - [xc](https://github.com/minacle/xc) - Best command to run Xcode app what you want.
 - [Xcode.app-strings](https://github.com/keith/Xcode.app-strings) - All the strings from Xcode's binaries.
 - [unxip](https://github.com/saagarjha/unxip) - Fast Xcode unarchiver.
+- [xcresource](https://github.com/faberNovel/xcresource-cli) - Xcode resource manager. Use it to download Xcode templates or snippets from git repositories.

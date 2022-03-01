@@ -36,6 +36,7 @@
 ## Test
 
 - [greatest](https://github.com/silentbicycle/greatest) - C testing library in 1 file. No dependencies, no dynamic allocation.
+- [Check](https://github.com/libcheck/check) - Unit testing framework for C.
 
 ## CLI
 
@@ -126,3 +127,4 @@
 - [js0n](https://github.com/quartzjer/js0n) - Flexible Zero-Footprint JSON Parser in C.
 - [librseq](https://github.com/compudj/librseq) - Library for Restartable Sequences.
 - [argparse](https://github.com/cofyc/argparse) - Command-line arguments parsing library.
+- [NSIMD](https://github.com/agenium-scale/nsimd) - Vectorization library that abstracts SIMD programming.

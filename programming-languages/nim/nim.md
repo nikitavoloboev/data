@@ -40,3 +40,4 @@
 - [Nim in Action Book](https://livebook.manning.com/book/nim-in-action/about-this-book/)
 - [Learn Nim in Y minutes](https://learnxinyminutes.com/docs/nim/)
 - [Computer Programming with Nim](https://ssalewski.de/nimprogramming.html) ([HN](https://news.ycombinator.com/item?id=30487486))
+- [NimSkull](https://github.com/nim-works/nimskull) - Reimagining of Nim. ([Reddit](https://www.reddit.com/r/nim/comments/t36zqe/nimskull_a_reimagining_of_nim/))

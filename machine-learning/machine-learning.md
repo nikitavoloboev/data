@@ -69,7 +69,7 @@
 - [Deep Learning State of the Art (2019) - MIT](https://www.youtube.com/watch?v=53YvP6gdD7U)
 - [AdaNet](https://github.com/tensorflow/adanet) - Lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention.
 - [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) - Benchmark suite for end-to-end deep learning training and inference.
-- [Interpretable Machine Learning (2022)](https://christophm.github.io/interpretable-ml-book/) - Guide for Making Black Box Models Explainable. ([Code](https://github.com/christophM/interpretable-ml-book))
+- [Interpretable Machine Learning (2022)](https://christophm.github.io/interpretable-ml-book/) - Guide for Making Black Box Models Explainable. ([Code](https://github.com/christophM/interpretable-ml-book)) ([2nd edition](https://leanpub.com/interpretable-machine-learning))
 - [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean)
 - [KubeFlow Pipelines](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 - [Summary of some ML papers](https://github.com/kweonwooj/papers)
@@ -701,3 +701,5 @@
 - [What's hot for Machine Learning Research in 2022?](https://www.reddit.com/r/MachineLearning/comments/t04ekm/d_whats_hot_for_machine_learning_research_in_2022/)
 - [Machine Learning with PyTorch and Scikit-Learn (2022)](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html) ([HN](https://news.ycombinator.com/item?id=30473254))
 - [General Cyclical Training of Neural Networks (2022)](https://arxiv.org/abs/2202.08835) ([Code](https://github.com/lnsmith54/CFL))
+- [Machine Learning Interview Questions](https://github.com/andrewekhalel/MLQuestions)
+- [Intro to Continual Learning](https://github.com/clam004/intro_continual_learning)

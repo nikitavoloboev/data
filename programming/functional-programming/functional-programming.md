@@ -155,6 +155,7 @@
 - [High-order Virtual Machine (HVM)](https://github.com/Kindelia/HVM) - Pure functional compile target that is lazy, non-garbage-collected and massively parallel. ([Reddit](https://www.reddit.com/r/haskell/comments/shewq7/hvm_a_nextgen_massively_parallel_betaoptimal/)) ([HN](https://news.ycombinator.com/item?id=30152714)) ([HN](https://news.ycombinator.com/item?id=30219452)) ([Lobsters](https://lobste.rs/s/zw8pgr/kindelia_hvm_massively_parallel_optimal))
 - [Eric Normand - Grokking Simplicity](https://freecontent.manning.com/eric-normand-grokking-simplicity/)
 - [What Color Is Your Monad (2022)](https://patrickthebold.github.io/posts/what-color-is-your-monad/) ([HN](https://news.ycombinator.com/item?id=30330909))
+- [Async/Await is really just a subset of monads and do-notation for imperative languages](https://www.reddit.com/r/haskell/comments/t3wumj/asyncawait_is_really_just_a_subset_of_monads_and/)
 
 ## Images
 

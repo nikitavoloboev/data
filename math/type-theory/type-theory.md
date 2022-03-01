@@ -177,3 +177,6 @@
 - [System-F type-checker written in Haskell](https://github.com/sancho20021/system-f-type-checker)
 - [Path Semantics](https://github.com/advancedresearch/path_semantics) - Research project in path semantics, a re-interpretation of functions for expressing mathematics.
 - [Type Theory for Memory Allocation and Data Layout](https://www.cs.cmu.edu/~rwh/papers/ordered/popl.pdf)
+- [Hurricane](https://github.com/groupoid/hurricane) - Minimal Implementation of HoTT-I Type System (of JetBrains Arend) with definitional Path-β.
+- [Castle Bravo](https://github.com/groupoid/castle.bravo) - Experimental Implementation of HoTT-∂ Type System with definitional Path-β.
+- [Understanding higher-kinded types (2022)](https://danso.ca/blog/higher-kinded-types/) ([Lobsters](https://lobste.rs/s/5nuixp/understanding_higher_kinded_types))

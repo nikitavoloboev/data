@@ -550,3 +550,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [mtail](https://github.com/google/mtail) - Extract internal monitoring data from application logs for collection in a time series database.
 - [Yao](https://yaoapps.com/en-US) - Go language-driven low-code application engine that writes JSON by Description can quickly create API interface,Data management system ,Command Line Toolsand other applications. ([Code](https://github.com/YaoApp/yao))
 - [A Gentle Introduction to Vector Databases (2021)](https://frankzliu.com/blog/a-gentle-introduction-to-vector-databases)
+- [Exploring a database with Datasette](https://datasette.io/tutorials/explore)

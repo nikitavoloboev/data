@@ -201,3 +201,5 @@
 - [casbin-rs](https://github.com/casbin/casbin-rs) - Authorization library that supports access control models like ACL, RBAC, ABAC in Rust.
 - [oauth2l](https://github.com/google/oauth2l) - Simple CLI for interacting with Google API authentication.
 - [ed25519-login](https://github.com/62726164/ed25519-login) - Login to websites using a base64 encoded Ed25519 signature. Simple alternative to webauthn. ([HN](https://news.ycombinator.com/item?id=30483727))
+- [Supabase Auth Helpers](https://github.com/supabase-community/supabase-auth-helpers)
+- [You probably don't need OAuth2 / OpenID Connect (2022)](https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/) ([HN](https://news.ycombinator.com/item?id=30514560))

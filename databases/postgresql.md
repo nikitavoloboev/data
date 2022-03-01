@@ -429,3 +429,4 @@
 - [PostgreSQL Schema Change Guide](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)
 - [Paranoid SQL Execution on Postgres (2021)](https://ardentperf.com/2021/07/06/paranoid-sql-execution-on-postgresql/) ([HN](https://news.ycombinator.com/item?id=30447025))
 - [Tusker](https://github.com/bikeshedder/tusker) - PostgreSQL specific migration tool.
+- [Ways to improve Postgres (2022)](https://twitter.com/craigkerstiens/status/1498425210747318277)

@@ -223,4 +223,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Cash-settled European options protocol on Solana](https://github.com/0xTomoyo/anchor-options)
 - [Orion Protocol](https://github.com/RohanKapurDEV/orion) - Protocol for recurring and scheduled payments on Solana.
 - [Solana Staking Guide (2022)](https://medium.com/@Cogent_Crypto/solana-staking-guide-part-2-advance-staking-strategies-335337b77ec9) ([Reddit](https://www.reddit.com/r/solana/comments/syqkvp/solana_staking_guide_part_2_advanced_staking/))
-- [Solana-Validator-Setup](https://github.com/Shadowy-Super-Coder-DAO/Solana-Validator-Setup-Equinix) - Novice friendly walkthrough and collection of community knowledge of how to set up a Solana Validator.
+- [Solana Validator Setup](https://github.com/Shadowy-Super-Coder-DAO/Solana-Validator-Setup-Equinix) - Novice friendly walkthrough and collection of community knowledge of how to set up a Solana Validator.
+- [Solana AccountsDB Plugin for Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka)

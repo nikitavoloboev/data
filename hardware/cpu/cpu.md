@@ -137,3 +137,4 @@
 - [System V Application Binary Interface (2020](https://ccs.neu.edu/home/ntuck/courses/2021/01/cs3650/asm/x86-64-sysv-abi.pdf) ([HN](https://news.ycombinator.com/item?id=30380168))
 - [Thoughts on Intel software-defined silicon (2022)](https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/) ([HN](https://news.ycombinator.com/item?id=30394918))
 - [The AMD Branch (Mis)predictor: Just Set it and Forget it (2022)](https://grsecurity.net/amd_branch_mispredictor_just_set_it_and_forget_it)
+- [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html) ([HN](https://news.ycombinator.com/item?id=30509893))

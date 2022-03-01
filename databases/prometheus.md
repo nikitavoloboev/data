@@ -62,3 +62,4 @@
 - [Can I have a smaller Prometheus (2022)](https://wejick.wordpress.com/2022/01/29/can-i-have-a-smaller-prometheus/) ([Lobsters](https://lobste.rs/s/mdvdfy/can_i_have_smaller_prometheus))
 - [ecs_exporter](https://github.com/prometheus-community/ecs_exporter) - Prometheus exporter for Amazon Elastic Container Service (ECS).
 - [Prometheus exporter for EdgeRouter](https://github.com/chitoku-k/edgerouter-exporter)
+- [Krius](https://github.com/infracloudio/krius) - Tool to setup Prometheus, Thanos & friends across multiple clusters easily for scale.

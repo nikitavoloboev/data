@@ -189,3 +189,4 @@
 - [mod.land](https://github.com/denosaurs/mod.land) - Pretty subdomains for you Deno project.
 - [deno_depchecker](https://github.com/DjDeveloperr/deno_depchecker) - Analyze dependencies in your Deno project.
 - [Netsaur](https://github.com/denosaurs/netsaur) - GPU powered neural network Deno module.
+- [pin](https://github.com/kitsonk/pin) - Dependency management solution for Deno.

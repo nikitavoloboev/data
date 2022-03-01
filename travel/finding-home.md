@@ -76,3 +76,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [If It Were My Home](http://www.ifitweremyhome.com/) ([HN](https://news.ycombinator.com/item?id=30135346))
 - [Building a modern home](https://johnnyrodgers.is/building-a-modern-home) ([HN](https://news.ycombinator.com/item?id=30193899)) ([Tweet](https://twitter.com/johnnyrodgersis/status/1489245992083812357))
 - [wofati eco building](https://richsoil.com/wofati.jsp) ([Tweet](https://merveilles.town/web/statuses/107746621703317210))
+- [bbtmvbot](https://github.com/erkexzcx/bbtmvbot) - Scan the most popular flat rent portals for latest posts in Vilnius, which will be sent to users via Telegram bot. Can be adapted for other places.

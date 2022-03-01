@@ -185,3 +185,4 @@
 - [How to manage software developers without micromanaging (2022)](https://www.infoworld.com/article/3649773/how-to-manage-software-developers-without-micromanaging.html) ([HN](https://news.ycombinator.com/item?id=30332172))
 - [Best resources for founders to learn to become better managers (2022)](https://twitter.com/tylertringas/status/1493634477922263045)
 - [How do you make the most of 1:1 time for your direct report?](https://twitter.com/ramannoodlez/status/1492678565850189825)
+- [Ask HN: Books you should read when you transform from SWE into SWE-Management (2022)](https://news.ycombinator.com/item?id=30497703)

@@ -349,3 +349,4 @@
 - [PyTorchViz](https://github.com/szagoruyko/pytorchviz) - Small package to create visualizations of PyTorch execution graphs.
 - [PyTorch on Apple M1 MAX GPUs with SHARK – faster than TensorFlow-Metal (2022)](https://nod.ai/pytorch-m1-max-gpu/) ([HN](https://news.ycombinator.com/item?id=30434886))
 - [Deep Robust](https://github.com/DSE-MSU/DeepRobust) - PyTorch adversarial library for attack and defense methods on images and graphs.
+- [TorchRec](https://github.com/pytorch/torchrec) - Library for modern production recommendation systems. ([Article](https://pytorch.org/blog/introducing-torchrec/)) ([HN](https://news.ycombinator.com/item?id=30496322))

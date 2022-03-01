@@ -88,3 +88,4 @@
 - [Ask HN: Why don't more software projects use BitTorrent for downloads? (2022)](https://news.ycombinator.com/item?id=30436367)
 - [PicoTorrent](https://github.com/picotorrent/picotorrent) - Tiny, hackable BitTorrent client.
 - [Porla](https://github.com/porla/porla) - Programmable BitTorrent client for servers and seedboxes.
+- [transmission-trackers](https://github.com/blind-oracle/transmission-trackers) - Script to automatically add trackers from a list to all torrents in Transmission.

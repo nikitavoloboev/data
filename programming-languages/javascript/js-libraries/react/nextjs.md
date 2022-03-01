@@ -2,6 +2,7 @@
 
 ## Example sites
 
+- [Skill Recordings Projects](https://github.com/skillrecordings/products) - Using Turborepo and pnpm to create a monorepo working environment for multiple applications and a shared common core library.
 - [Open Source Raid Guild](https://github.com/OpenSourceRaidGuild/website) - Built with Next.js and the "T3 Stack". ([Tweet](https://twitter.com/hybrid_alex/status/1495053117687222275))
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - Template for site builders and low-code tools.
 - [NextJS Starter with NextAuth, Tailwind & Prisma](https://github.com/SaraVieira/next-starter-template)
@@ -63,6 +64,7 @@
 - [Tailwind NextJS Starter Blog](https://github.com/alaq/adrien.sh)
 - [NextJS Postgres Template](https://github.com/jimmylee/www-react-postgres)
 - [Next.js marketing website template for SaaS startups](https://github.com/Blazity/next-saas-starter)
+- [RainySystems Template Web App](https://github.com/RainySystems/RS-Webapp-Template-Nextjs) - Built with Next.js and Appwrite.
 
 ## NextJS plugins
 

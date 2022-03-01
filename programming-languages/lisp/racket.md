@@ -1,5 +1,7 @@
 # [Racket](https://racket-lang.org/)
 
+[Racket News](https://racket-news.com/) is great way to stay up to date on Racket.
+
 ## Links
 
 - [Racket documentation](https://docs.racket-lang.org/)

@@ -144,3 +144,4 @@
 - [waifud](https://github.com/Xe/waifud) - Few tools to help me manage and run virtual machines across a homelab cluster. ([Progress Report](https://christine.website/blog/waifud-progress-2022-02-06))
 - [Delayed Job vs. Sidekiq (2022)](https://blog.appsignal.com/2022/02/15/delayed-job-vs-sidekiq-which-is-better.html) ([HN](https://news.ycombinator.com/item?id=30345806))
 - [Cincinnati](https://github.com/openshift/cincinnati) - Update protocol designed to facilitate automatic updates.
+- [Ministry of Justice Modernization Platform](https://github.com/ministryofjustice/modernisation-platform) - Defined and managed in Terraform.

@@ -33,3 +33,4 @@
 - [Calyptia](https://calyptia.com/) - First Mile Observability.
 - [tracing-filter](https://github.com/davidbarsky/tracing-filter) - Query language for filtering tracing spans and events.
 - [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector.
+- [Awesome Observability](https://github.com/adriannovegil/awesome-observability)

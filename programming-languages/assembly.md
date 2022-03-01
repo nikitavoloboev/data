@@ -86,3 +86,4 @@
 - [Writing a self-modifying x86 factorial program (2021)](https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/) ([HN](https://news.ycombinator.com/item?id=29563027))
 - [NASM Assembly Language Tutorials](https://asmtutor.com/) ([HN](https://news.ycombinator.com/item?id=29784788))
 - [Jumping into the middle of an instruction is not as strange as it sounds (2022)](https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144)
+- [strop](https://github.com/omarandlorraine/strop) Stochastically generates assembly language programs that compute a given function.

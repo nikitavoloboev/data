@@ -24,7 +24,7 @@
 - [Zig Showtime](https://zig.show/) - Show where members of the Zig community share code and ideas.
 - [Announcing the Zig Software Foundation (2020)](https://ziglang.org/news/announcing-zig-software-foundation.html) ([HN](https://news.ycombinator.com/item?id=23806222))
 - [Zig Live Coding: Self-Hosted Incremental Compilation Debug Info + LLVM 11 Upgrade (2020)](https://www.youtube.com/watch?v=3CtQAaWUZrY)
-- [Awesome Zig](https://github.com/nrdmn/awesome-zig)
+- [Awesome Zig](https://github.com/catdevnull/awesome-zig)
 - [Zig Learning & Usage Guide](https://github.com/C-BJ/awesome-zig)
 - [Interview with Zig language creator Andrew Kelley (2020)](https://www.youtube.com/watch?v=ZvskDoP09Ao) ([HN](https://news.ycombinator.com/item?id=24292437))
 - [What is Zig's Comptime? (2019)](https://kristoff.it/blog/what-is-zig-comptime/)
@@ -100,3 +100,5 @@
 - [Why use Zig over Rust/Go (2022)](https://www.reddit.com/r/Zig/comments/srk7ws/im_still_confused_on_the_whys_of_zig/)
 - [ziglibc](https://github.com/marler8997/ziglibc) - Exploration on creating a libc implementation in Zig.
 - [Using Zig as cross-platform C toolchain (2022)](https://ruoyusun.com/2022/02/27/zig-cc.html) ([HN](https://news.ycombinator.com/item?id=30488979))
+- [ZigSelf: An implementation of Self in Zig](https://sin-ack.github.io/posts/zigself-01/) ([Lobsters](https://lobste.rs/s/ggwzjq/zigself_implementation_self_zig))
+- [zigtool](https://github.com/dosgo/zigtool) - Go tool of the zig compiler automatically compiles different targets according to the GOOS GOARCH environment variable.
