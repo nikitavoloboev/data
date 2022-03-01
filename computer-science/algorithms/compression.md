@@ -105,3 +105,4 @@
 - [Brotli JS](https://github.com/yisibl/brotli-js) - Google brotli binding to Node.js via Rust and napi-rs.
 - [lz-string](https://github.com/pieroxy/lz-string) - LZ-based compression algorithm for JavaScript.
 - [divANS](https://github.com/dropbox/divans) - Crate meant to be used for generic data compression.
+- [Dictionary Compression (2022)](https://kevincox.ca/2022/03/01/dictionary-compression/)
