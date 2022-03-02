@@ -24,7 +24,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## Web
 
-- [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs.
+- [tRPC](https://github.com/trpc/trpc) - TypeScript toolkit for building end-to-end typesafe APIs. ([Web](https://trpc.io/)) ([Tutorial](https://www.youtube.com/watch?v=Lam0cYOEst8))
 - [typed-rest-client](https://github.com/microsoft/typed-rest-client) - Lightweight REST and HTTP client optimized for use with TypeScript with generics and async await.
 - [Ts.ED](https://github.com/TypedProject/tsed) - Node.js and TypeScript Framework on top of Express/Koa.js.
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
@@ -372,6 +372,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [boolean](https://github.com/thenativeweb/boolean) - Converts lots of things to boolean.
 - [magic-string-extra](https://github.com/antfu/magic-string-extra) - Extended magic-string with extra utilities.
 - [Sceneify](https://github.com/Brendonovich/sceneify) - Easiest way to control OBS from JavaScript.
+- [event](https://github.com/denosaurs/event) - Strictly typed event emitter with asynciterator support.
 
 ## Links
 

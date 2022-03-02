@@ -718,3 +718,6 @@ if err != nil {
 - [Retrofitting Async/Await in Go 1.18 (2022)](https://csgrinding.xyz/go-async/)
 - [Better Go Playground](https://goplay.tools/) - Powered by React and Monaco editor. ([Code](https://github.com/x1unix/go-playground))
 - [How generics are implemented in Go 1.18 (2022)](https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md) ([HN](https://news.ycombinator.com/item?id=30518094))
+- [Reproducing Go binaries byte-by-byte (2017)](https://words.filippo.io/reproducing-go-binaries-byte-by-byte/)
+- [Is Go's Grammar Context Free? (2022)](https://blog.dnmfarrell.com/post/is-golangs-grammar-context-free/) ([Lobsters](https://lobste.rs/s/h9ypxi/is_golang_s_grammar_context_free))
+- [Can Generics Rescue Go's Clunky Error Handling? (2022)](https://blog.dnmfarrell.com/post/can-generics-rescue-golangs-clunky-error-handling/)

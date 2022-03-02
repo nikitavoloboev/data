@@ -877,3 +877,4 @@
 - [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - CLI for the node BundlePhobia Service. Find the cost of adding a npm package to your bundle.
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [lurantis](https://github.com/suchipi/lurantis) - HTTP server that bundles and serves packages from NPM; "bundler as a service."
+- [Socket](https://socket.dev) - Secure your JavaScript supply chain.

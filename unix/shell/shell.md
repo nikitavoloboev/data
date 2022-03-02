@@ -188,3 +188,4 @@ All active variables can be seen by running `env`.
 - [Morbig: A Static parser for POSIX shell (2020)](https://www.sciencedirect.com/science/article/abs/pii/S2590118420300046) ([Lobsters](https://lobste.rs/s/wnqdip/morbig_static_parser_for_posix_shell))
 - [mrsh](https://github.com/emersion/mrsh) - Minimal POSIX shell.
 - [Anatomy of a Terminal Emulator (2021)](https://poor.dev/blog/terminal-anatomy/) ([Code](https://github.com/imsnif/terminal-anatomy-code-examples))
+- [How to Split a String in POSIX Shell (2021)](https://blog.dnmfarrell.com/post/how-to-split-a-string-in-posix-shell/)

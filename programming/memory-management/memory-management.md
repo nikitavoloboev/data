@@ -88,3 +88,4 @@
 - [Signals and Threads | Memory Management (2022)](https://signalsandthreads.com/memory-management/) ([Lobsters](https://lobste.rs/s/testaq/memory_management))
 - [HardsHeap](https://github.com/kaist-hacking/HardsHeap) - Universal and Extensible Framework for Evaluating Secure Allocators.
 - [CertiGC](https://github.com/CertiGraph/CertiGC) - Formally verified generational garbage collector.
+- [How Much Memory Is My Program Really Using? (2022)](https://blog.dnmfarrell.com/post/how-much-memory-is-my-program-really-using/)

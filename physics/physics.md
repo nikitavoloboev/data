@@ -285,3 +285,4 @@
 - [What actually are electromagnetic waves? (2022)](https://www.reddit.com/r/AskPhysics/comments/stvvw7/what_actually_are_electromagnetic_waves/)
 - [Главная надежда теоретической физики 21 века: Суперсимметрия (2022)](https://www.youtube.com/watch?v=CMusg2Mqsg4)
 - [Resources to self learn physics (2022)](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/)
+- [A deepening crisis forces physicists to rethink the structure of nature’s laws (2022)](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) ([HN](https://news.ycombinator.com/item?id=30516078))

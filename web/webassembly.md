@@ -198,7 +198,7 @@
 - [Hippo](https://github.com/deislabs/hippo) - WebAssembly PaaS. Easiest way to deploy and serve applications compiled to WebAssembly. ([Docs](https://docs.hippofactory.dev/)) ([Intro](https://deislabs.io/posts/introducing-hippo/))
 - [wamr-swift](https://github.com/swiftwasm/wamr-swift) - Swift WebAssembly runtime powered by WAMR.
 - [Sat](https://github.com/suborbital/sat) - Tiny WebAssembly compute module.
-- [Suborbital](https://suborbital.dev/) - Build web services in an entirely new way with Atmo, our open source framework, to harness the power of cloud native WebAssembly. ([GitHub](https://github.com/suborbital)) ([Twitter](https://twitter.com/SuborbitalDev))
+- [Suborbital](https://suborbital.dev/) - Build web services in an entirely new way with Atmo, our open source framework, to harness the power of cloud native WebAssembly. ([GitHub](https://github.com/suborbital)) ([Twitter](https://twitter.com/SuborbitalDev)) ([Tweet](https://twitter.com/cohix/status/1498705182107996161))
 - [Foundations: Wasm in Golang is fantastic (2021)](https://blog.suborbital.dev/foundations-wasm-in-golang-is-fantastic)
 - [DAPR WASM](https://github.com/second-state/dapr-wasm) - Template project to demonstrate how to run WebAssembly functions as sidecar microservices in dapr.
 - [wasup](https://github.com/NicholasLYang/wasup) - Zero-dependency, isomorphic library for emitting WebAssembly.

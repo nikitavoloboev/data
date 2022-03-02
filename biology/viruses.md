@@ -101,3 +101,4 @@
 - [Petabase-scale sequence alignment catalyses viral discovery (2021)](https://www.biorxiv.org/content/10.1101/2020.08.07.241729v2) ([Code](https://github.com/ababaian/serratus))
 - [What the Omicron wave is revealing about human immunity (2022)](https://www.nature.com/articles/d41586-022-00214-3) ([HN](https://news.ycombinator.com/item?id=30191669))
 - [SARS-CoV-2 contains part of a patented genetic sequence (2022)](https://www.frontiersin.org/articles/10.3389/fviro.2022.834808/full) ([HN](https://news.ycombinator.com/item?id=30454022))
+- [Recipes for Future Plagues: Conversation with Rob Reid and Kevin Esvelt (2022)](https://www.samharris.org/podcasts/making-sense-episodes/making-sense-presents-recipes-for-future-plagues) ([Tweet](https://twitter.com/kesvelt/status/1498409798903209996))

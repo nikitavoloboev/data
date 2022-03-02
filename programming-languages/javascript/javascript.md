@@ -407,3 +407,4 @@ if (
 - [The Story of Asynchronous JavaScript (2022)](https://www.youtube.com/watch?v=rivBfgaEyWQ)
 - [JavaScript on Exercism](https://exercism.org/tracks/javascript) ([Code](https://github.com/exercism/javascript))
 - [Source Map-Aware Code Generation (2022)](https://gal.hagever.com/posts/source-map-aware-code-generation)
+- [Things you don't need JavaScript for (2022)](https://lexoral.com/blog/you-dont-need-js/) ([HN](https://news.ycombinator.com/item?id=30512512))

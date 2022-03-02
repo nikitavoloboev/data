@@ -139,3 +139,4 @@ source script
 - [Modern Bash (Zsh) Scripting](https://www.mulle-kybernetik.com/modern-bash-scripting/) ([Lobsters](https://lobste.rs/s/gwzjjw/modern_bash_scripting))
 - [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System (2018)](https://arxiv.org/abs/1802.08979) ([Code](https://github.com/TellinaTool/nl2bash))
 - [Ask HN: Let's build Check style for Bash? (2022)](https://news.ycombinator.com/item?id=30405177)
+- [Replicating Bash Argument Splitting (2021)](https://blog.dnmfarrell.com/post/replicating-bash-argument-splitting/)

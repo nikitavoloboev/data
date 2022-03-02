@@ -68,4 +68,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [A moment of clarity - The Russian invasion of Ukraine should wake us up (2022)](https://noahpinion.substack.com/p/a-moment-of-clarity)
 - [Как прошли последние восемь лет в Донбассе Краткая история конфликта в фотографиях Брендана Хоффмана (2022)](https://meduza.io/feature/2022/03/01/gde-vy-byli-vosem-let)
 - [The Mysterious Case of the Missing Russian Air Force (2022)](https://rusi.org/explore-our-research/publications/commentary/mysterious-case-missing-russian-air-force) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t3jwpe/the_mysterious_case_of_the_missing_russian_air/))
-- [Ukraine War March 1 (2022)](https://www.reddit.com/r/CredibleDefense/comments/t48e0p/ukraine_megathread_march_1/?sort=top)
+- [Ukraine could of been used by US to sow conflict](https://twitter.com/ISeeDanger_/status/1498358565576208386?s=20&t=oVhMvzzGQUhyyzcXGubBAg)- [Ukraine War March 1 (2022)](https://www.reddit.com/r/CredibleDefense/comments/t48e0p/ukraine_megathread_march_1/?sort=top)

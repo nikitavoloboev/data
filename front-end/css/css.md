@@ -456,3 +456,4 @@ all: unset
 - [Things the CSS Spec Folks Got Right (2022)](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/) ([HN](https://news.ycombinator.com/item?id=30460238))
 - [Load Awesome](https://github.com/danielcardoso/load-awesome) - Awesome collection of — Pure CSS — Loaders and Spinners.
 - [Classless CSS](https://github.com/dbohdan/classless-css) - List of classless CSS themes and frameworks.
+- [CSS as the back end – introducing Cascading Server Sheets](https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih) ([HN](https://news.ycombinator.com/item?id=30497834))

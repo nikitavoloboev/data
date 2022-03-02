@@ -42,3 +42,4 @@
 - [How the Next Layer of the Internet is Going to be Standardized (2021)](https://www.mnot.net/blog/2021/06/21/standards-competition-governance)
 - [Magistrate](https://magistrate.khanna.law/) - Plain text legal contracts for developers.
 - [Как не надо давать показания](http://www.apn-spb.ru/opinions/print13278.htm)
+- [Openlaws.com](https://openlaws.com/) - Legal Search Engine.
