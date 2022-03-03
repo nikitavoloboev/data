@@ -225,3 +225,7 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana Staking Guide (2022)](https://medium.com/@Cogent_Crypto/solana-staking-guide-part-2-advance-staking-strategies-335337b77ec9) ([Reddit](https://www.reddit.com/r/solana/comments/syqkvp/solana_staking_guide_part_2_advanced_staking/))
 - [Solana Validator Setup](https://github.com/Shadowy-Super-Coder-DAO/Solana-Validator-Setup-Equinix) - Novice friendly walkthrough and collection of community knowledge of how to set up a Solana Validator.
 - [Solana AccountsDB Plugin for Kafka](https://github.com/Blockdaemon/solana-accountsdb-plugin-kafka)
+- [Trdelník](https://github.com/Ackee-Blockchain/trdelnik) - Testing framework for Solana programs written in Anchor.
+- [The Solana Programming Model (2022)](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) ([Tweet](https://twitter.com/VictorPontis/status/1498881837049036802))
+- [How Solana NFTs Differ from Ethereum (2021)](https://lu.ma/p/yfM8WI50zBghS9w/How-Solana-NFTs-Differ-from-Ethereum)
+- [How to Find the Solana NFT’s Someone Owns (2021)](https://lu.ma/p/hJyaa2S3ExuvmK8/How-to-Find-the-Solana-NFTs-Someone-Owns)

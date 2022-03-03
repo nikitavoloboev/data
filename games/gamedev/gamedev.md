@@ -235,3 +235,4 @@
 - [Multiplayer Online Standard](https://github.com/tinspin/fuse)
 - [Video Game Project Management Anti-patterns (2022)](https://arxiv.org/abs/2202.06183) ([HN](https://news.ycombinator.com/item?id=30344251))
 - [Hathora](https://github.com/hathora/hathora) - Framework for building multiplayer games and other real time applications. ([Docs](https://docs.hathora.dev/#/)) ([HN](https://news.ycombinator.com/item?id=30442072))
+- [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) ([HN](https://news.ycombinator.com/item?id=30522955))

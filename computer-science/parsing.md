@@ -90,3 +90,5 @@
 - [Packrat Parsing and Parsing Expression Grammars](https://bford.info/packrat/)
 - [Invertible Parsing: The Problem (2022)](https://www.pointfree.co/episodes/ep178-invertible-parsing-the-problem)
 - [Tree-sitter ｜ Code Navigation Systems](https://tree-sitter.github.io/tree-sitter/code-navigation-systems) ([Tweet](https://twitter.com/importantshock/status/1496857243043704833))
+- [Parsing Bitstreams with Rust and Nom (2022)](https://blog.adamchalmers.com/nom-bits/) ([HN](https://news.ycombinator.com/item?id=30528609))
+- [Parsing Text with Nom (2022)](https://blog.adamchalmers.com/nom-chars/)

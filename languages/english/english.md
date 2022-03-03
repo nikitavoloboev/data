@@ -34,3 +34,4 @@ Some interesting words I like:
 - [What’s the Difference Between American English and British English? (2022)](http://backreaction.blogspot.com/2022/01/whats-difference-between-american.html) ([HN](https://news.ycombinator.com/item?id=29766446))
 - [Measuring the Similarity between Short English Phrases using Recurrent Neural Networks (2017)](https://ijdykeman.github.io/ml/2017/10/30/comparing-phrases.html)
 - [List Of English Words](https://github.com/dwyl/english-words) - Text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion.
+- [The writers who translated Goethe became some of the best writers in English (2022)](https://www.neh.gov/article/cult-goethe) ([HN](https://news.ycombinator.com/item?id=30523802))

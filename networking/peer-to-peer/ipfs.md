@@ -89,3 +89,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Python](https://github.com/ipfs-shipyard/py-ipfs-http-client) - Python client library for the IPFS API.
 - [A guide to IPFS connectivity in web browsers (2021)](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/) ([HN](https://news.ycombinator.com/item?id=30440410))
 - [Swift IPFS API](https://github.com/ipfs-shipyard/swift-ipfs-http-client)
+- [IPFS Backed by Decentralized Storage](https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/) ([HN](https://news.ycombinator.com/item?id=30522635))

@@ -131,3 +131,4 @@
 - [units](https://github.com/r-quantities/units) - Measurement Units for R.
 - [lavaanPlot](https://github.com/alishinski/lavaanPlot) - R package for plotting lavaan path models with DiagrammeR.
 - [bayestestR](https://github.com/easystats/bayestestR) - Utilities for analyzing Bayesian models and posterior distributions.
+- [ambiorix](https://github.com/devOpifex/ambiorix) - Web framework for R.

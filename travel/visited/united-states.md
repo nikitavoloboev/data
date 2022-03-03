@@ -113,3 +113,5 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [Ask HN: How does TurboTax get away with dark patterns? (2022)](https://news.ycombinator.com/item?id=30409523)
 - [Americans, what are some things you’d like Europeans to understand? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/sx930u/americans_what_are_some_things_youd_like/)
 - [Which of the American (bigger) news channels show news in the most objective way? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/t2uiyy/which_of_the_american_bigger_news_channels_show/)
+- [Ask HN: Why wasn't the USA sanctioned over it's war with Iraq? (2022)](https://news.ycombinator.com/item?id=30527361)
+- [I'm a digital nomad. Should I renounce my US citizenship? (2022)](https://fireshouter.substack.com/p/im-a-digital-nomad-should-i-renounce) ([HN](https://news.ycombinator.com/item?id=30537515))

@@ -435,3 +435,4 @@ for i, _ in enumerate(nums):
 - [When I'm Sad My Computer Sends Me Cats (2022)](https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat) ([Code](https://github.com/healeycodes/if-sad-send-cat))
 - [pprofile](https://github.com/vpelletier/pprofile) - Line-granularity, thread-aware deterministic and statistic pure-python profiler.
 - [Understanding Decorators in Python (2022)](https://bas.codes/posts/python-decorators)
+- [Raccoon](https://github.com/appcypher/raccoon) - Language with Python 3.x syntax that is amenable to static analysis.

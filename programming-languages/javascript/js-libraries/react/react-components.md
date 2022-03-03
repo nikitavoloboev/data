@@ -268,6 +268,8 @@
 - [react-portabletext](https://github.com/portabletext/react-portabletext) - Render Portable Text with React.
 - [Fomir](https://github.com/forsigner/fomir) - Schema-First Form Library. ([Docs](https://fomir.vercel.app/docs/guide/getting-started))
 - [react-tree](https://github.com/naisutech/react-tree) - Hierarchical tree component for React in Typescript.
+- [React Awesome Shapes](https://github.com/ashutosh1919/react-awesome-shapes) - Insert Awesome Shapes into Your React Site with Ease.
+- [React Photo View](https://github.com/MinJieLiu/react-photo-view) - Exquisite React photo preview component.
 
 ## Links
 
@@ -308,3 +310,4 @@
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React.
 - [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.
 - [React Fast Accordion](https://github.com/ShivamJoker/React-fast-accordion) - Dynamic, fast & zero dependency accordions for React. ([Reddit](https://www.reddit.com/r/reactjs/comments/sxnuli/my_new_library_is_now_out_reactfastaccordion_zero/))
+- [LocatorJS](https://www.locatorjs.com/) - Click on any component to go to code. ([Code](https://github.com/infi-pc/locatorjs))

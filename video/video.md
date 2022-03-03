@@ -326,3 +326,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Glancer](https://github.com/rberenguel/glancer) - Glance over some technical videos. Textual summaries + screenshots.
 - [Gyroflow](https://github.com/gyroflow/gyroflow) - Video stabilization using gyroscope data. ([Web](https://gyroflow.xyz/)) ([Reddit](https://www.reddit.com/r/rust/comments/skbvqx/announcing_gyroflow_an_advanced_video/))
 - [telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - Tool to parse real-time metadata embedded in video files or telemetry from other sources.
+- [Vireo](https://github.com/twitter/vireo) - Lightweight and versatile video processing library written in C++11.

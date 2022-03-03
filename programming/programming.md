@@ -519,7 +519,7 @@
 - [What's in a good error message? (2022)](https://www.morling.dev/blog/whats-in-a-good-error-message/) ([HN](https://news.ycombinator.com/item?id=30234572))
 - [An optimization story (2022)](https://tinkering.xyz/fmo-optimization-story/) ([Lobsters](https://lobste.rs/s/o4s0jk/optimization_story))
 - [five different paths to methods](https://technomancy.us/197)
-- [Single binary executable packages (2022)](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/) ([Lobsters](https://lobste.rs/s/adr60v/single_binary_executable_packages))
+- [Single binary executable packages (2022)](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/) ([Lobsters](https://lobste.rs/s/adr60v/single_binary_executable_packages)) ([HN](https://news.ycombinator.com/item?id=30528602))
 - [CUPID—for joyful coding (2022)](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
 - [How I think when I think about programming](https://www.alicemaz.com/writing/program.html) ([HN](https://news.ycombinator.com/item?id=30395287))
 - [Things that used to be hard and are now easy (2022)](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/) ([HN](https://news.ycombinator.com/item?id=30406201))
@@ -528,3 +528,4 @@
 - [Data-Oriented Programming](https://blog.laurentcharignon.com/post/data-oriented-programming/)
 - [Awesome profiling](https://github.com/msaroufim/awesome-profiling)
 - [Programming Books: A Curated Reading List](https://www.programmingbooks.dev/)
+- [What does a 1972 paper have to do with the Single Responsibility Principle? (2022)](https://wasabigeek.com/blog/what-does-a-1972-paper-have-to-do-with-the-single-responsibility-principle/) ([HN](https://news.ycombinator.com/item?id=30529854))

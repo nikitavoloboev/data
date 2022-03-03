@@ -69,6 +69,7 @@
 - [Logux Core](https://github.com/logux/core) - New way to connect client and server. Instead of sending HTTP requests (e.g., AJAX and GraphQL) it synchronizes log of operations between client, server, and other clients.
 - [set-dom](https://github.com/DylanPiercey/set-dom) - Lightweight DOM diffing with plain old HTML.
 - [Ralix](https://github.com/ralixjs/ralix) - Micro framework for building and organizing your front-end.
+- [rawth](https://github.com/GianlucaGuarini/rawth) - Pure functional isomorphic router based on streams.
 
 ## Animation
 
@@ -821,6 +822,8 @@
 - [long.js](https://github.com/dcodeIO/long.js) - Long class for representing a 64-bit two's-complement integer value.
 - [fast-jwt](https://github.com/nearform/fast-jwt) - Fast JSON Web Token implementation.
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+- [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG.
+- [letMeScroll](https://github.com/BMSVieira/letmescroll.js) - Scroll made easy.
 
 ## Links
 
@@ -877,4 +880,5 @@
 - [bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli) - CLI for the node BundlePhobia Service. Find the cost of adding a npm package to your bundle.
 - [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [lurantis](https://github.com/suchipi/lurantis) - HTTP server that bundles and serves packages from NPM; "bundler as a service."
-- [Socket](https://socket.dev) - Secure your JavaScript supply chain.
+- [Socket](https://socket.dev) - Secure your JavaScript supply chain. ([HN](https://news.ycombinator.com/item?id=30515090)) ([Tweet](https://twitter.com/feross/status/1498676284590800903))
+- [all-the-package-names](https://github.com/nice-registry/all-the-package-names) - List of all the public package names on npm.

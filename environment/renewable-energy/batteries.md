@@ -28,3 +28,4 @@
 - [Nickel-Iron 'Edison' Batteries](https://permies.com/t/40/36069/Nickel-Iron-Edison-Batteries) ([Tweet](https://merveilles.town/web/statuses/107243804074372375))
 - [Plunge in lithium-ion battery costs (2021)](https://news.mit.edu/2021/lithium-ion-battery-costs-0323) ([HN](https://news.ycombinator.com/item?id=29304926))
 - [1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges (2022)](https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/) ([HN](https://news.ycombinator.com/item?id=30146843))
+- [On‐Chip Batteries for Dust‐Sized Computers (2022)](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)

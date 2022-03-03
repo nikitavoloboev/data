@@ -188,3 +188,5 @@
 - [React Native New Architecture Working Group](https://github.com/reactwg/react-native-new-architecture)
 - [Opinionated React Native bootcamp (2022)](https://twitter.com/flexbox_/status/1497654821528256520)
 - [Optimize your VS Code setup for React Native with Jamon and David (2022)](https://www.youtube.com/watch?v=xIeA3BCaoPk)
+- [React Native Health](https://github.com/agencyenterprise/react-native-health) - Interact with Apple HealthKit.
+- [React Native Pan Pinch View](https://github.com/fakeheal/react-native-pan-pinch-view) - View component for React Native with pinch to zoom and drag to pan functionality.

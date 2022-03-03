@@ -71,3 +71,4 @@
 - [Ask HN: What's your solution for SSL on internal servers? (2022)](https://news.ycombinator.com/item?id=30272101)
 - [Transport Layer Security (5/6) (2022)](https://blog.bithole.dev/tls.html)
 - [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.ulfheim.net/)
+- [Bulletproof TLS and PKI (2022)](https://www.feistyduck.com/books/bulletproof-tls-and-pki/) - Understanding and deploying SSL/TLS and PKI to secure servers and web applications.

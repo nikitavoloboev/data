@@ -503,3 +503,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Standard Ebooks toolset for producing ebook files](https://github.com/standardebooks/tools)
 - [How a Book Is Made – Ink, Paper and a 200k-Pound Printer (2022)](https://www.nytimes.com/interactive/2022/02/19/books/how-a-book-is-made.html) ([HN](https://news.ycombinator.com/item?id=30407060))
 - [Booqsi](https://www.booqsi.com/) - Show HN: A more social, Amazon-free alternative to Goodreads. ([HN](https://news.ycombinator.com/item?id=30503197))
+- [Useful Books](https://www.usefulbooks.com/) - Community, process, and tools to help you write great nonfiction, from first idea to first edition.

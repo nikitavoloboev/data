@@ -449,3 +449,9 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Эмиграция из России в свободный Мир](https://equanity.notion.site/equanity/6bb0d8655cf44d25993fb11d14456d5e)
 - [Tell HN: If You Are in Russia (2022)](https://news.ycombinator.com/item?id=30508314)
 - [Myths and misconceptions in the debate on Russia](https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/myth-16-what-comes-after-putin-must-be-better-putin) ([HN](https://news.ycombinator.com/item?id=30512019))
+- [Яндекс.Кью](https://yandex.ru/q/) - Авторитетно отвечают на самые сложные вопросы.
+- [Russian sleeping institutions (2022)](https://twitter.com/kamilkazani/status/1499048492358111235)
+- [Google Trends - Russia Daily](https://trends.google.com/trends/trendingsearches/daily?geo=RU)
+- [What sanctions are likely to mean for the Russian economy (2022)](https://twitter.com/mironov_fm/status/1499092871265361927)
+- [Why no mass protests in Russia? (2022)](https://meduza.io/en/feature/2022/03/02/why-no-mass-protests-in-russia) ([Tweet](https://twitter.com/KevinRothrock/status/1498920365006934019))
+- [Освобождение: публичный чат](https://t.me/noarmychat) - Законно и бесплатно освобождаем от призыва в армию. Дистанционная юридическая помощь. ([Tweet](https://twitter.com/restlesswest/status/1498928174994006016))

@@ -93,3 +93,6 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion to Markdown](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting).
 - [How we use Notion as a startup](https://www.kopa.co/blog/posts/how-we-use-notion-as-a-startup) ([HN](https://news.ycombinator.com/item?id=30392849))
 - [Notion4Ever](https://github.com/MerkulovDaniil/notion4ever) - Python tool for export all your content of Notion page using official Notion API.
+- [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) - Notion as a platform for offensive operations.
+- [Nautomate](https://www.nautomate.app/) - Notion actions in Shortcuts.
+- [Synced Databases in Notion (2022)](https://www.notion.so/blog/synced-databases)

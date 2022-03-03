@@ -2,6 +2,7 @@
 
 ## Examples of nice docs
 
+- [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))
 - [Hoppscotch Docs](https://docs.hoppscotch.io/) ([Code](https://github.com/hoppscotch/docs))
 - [Next MDX](https://www.next-mdx.org/)
 - [Algolia Docs](https://www.algolia.com/doc/)

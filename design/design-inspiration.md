@@ -8,6 +8,7 @@ Here are few more things I liked, design wise.
 
 - [Glass](https://glass.photo/)
 - [Modfy](https://www.modfy.video/)
+- [Useful Books](https://www.usefulbooks.com/)
 - [BrandBird Studio](https://www.brandbird.app/)
 - [PlanetScale](https://planetscale.com/)
 - [Remix](https://remix.run/)

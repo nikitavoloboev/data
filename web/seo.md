@@ -31,7 +31,7 @@
 - [SEO is Not Hard — A step-by-step SEO Tutorial for beginners that will get you ranked every single time (2016)](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb)
 - [SEO that anyone can handle (2020)](https://www.reddit.com/r/startups/comments/gk5pyd/seo_that_anyone_can_handle/)
 - [SEOBrowse](https://seobrowse.com/) - Google search for SEO professionals.
-- [Ahrefs](https://ahrefs.com/) - Helps you learn why your competitors rank so high and what you need to do to outrank them.
+- [Ahrefs](https://ahrefs.com/) - SEO Tools & Resources To Grow Your Search Traffic.
 - [How MasterClass used SEO to grow (2020)](https://twitter.com/TheCoolestCool/status/1265382628724740098) ([HN](https://news.ycombinator.com/item?id=23315969))
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) - Add metadata tags for search engines and social networks to better index and display your site's content.
 - [My best SEO tactic so far (2020)](https://questinglog.com/my-best-seo-tactic-so-far/) ([HN](https://news.ycombinator.com/item?id=24163658))
@@ -69,3 +69,4 @@
 - [seolint](https://github.com/lukeed/seolint) - Robust and configurable SEO linter.
 - [Search engines and SEO spam (2022)](https://twitter.com/paulg/status/1477760548787920901) ([HN](https://news.ycombinator.com/item?id=29782186))
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site and warns of any technical SEO issues.
+- [React SEO: Best Practices to Make It SEO-Friendly (2022)](https://ahrefs.com/blog/react-seo/)

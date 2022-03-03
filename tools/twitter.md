@@ -153,3 +153,4 @@
 - [Tracking the far right on Twitter](https://github.com/travisbrown/twitter-watch)
 - [Annotating the Tweebank Corpus on Named Entity Recognition and Building NLP Models for Social Media Analysis (2022)](https://arxiv.org/abs/2201.07281) ([Code](https://github.com/social-machines/TweebankNLP))
 - [Turn your tweets/threads into a blog and RSS feed](https://typefully.com/profile) ([HN](https://news.ycombinator.com/item?id=30440835))
+- [Rust Retweet Bot](https://github.com/multimeric/RustLangRetweet) - Rust bot that runs periodically on AWS Lambda and retweets any Tweets matching a query.

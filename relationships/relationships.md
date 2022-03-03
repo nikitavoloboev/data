@@ -74,6 +74,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Your real unfair advantage in business is your personal network. Education, wealth, and skills all help, but it's "who you know" that will help you make the biggest leaps forward.](https://twitter.com/mijustin/status/1000167960474861568)
 - [Never compare yourself to what you think the 'norm' is, compare yourself only against your current emotional state. And then you'll know already how fucked up or not something is.](https://www.reddit.com/r/sex/comments/rz856k/woke_up_to_semen_dribbling_out_of_my_vagina_into/)
 - [In toxic relationships, you're forced to choose between honesty and loyalty. You bite your tongue to protect their ego. In healthy relationships, honesty is an expression of loyalty. You speak your mind to help them grow. When you have real trust and respect, candor shows care.](https://twitter.com/AdamMGrant/status/1489614193988968448)
+- [Each relationship has their own dynamics. As long as both you are happy with whatever you mutually agree, it is none of anyone’s business what you decide.](https://www.reddit.com/r/sex/comments/t4rjj6/i_let_my_fianc%C3%A9_sleep_with_another_man/)
 
 ## Links
 

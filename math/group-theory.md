@@ -14,3 +14,4 @@
 - [Lie Groups and Lie Algebras Lectures](http://pirsa.org/C19034)
 - [Group Theory Game using Lean](https://github.com/ImperialCollegeLondon/group-theory-game)
 - [Lecture notes on Introduction to Galois Theory by Ekaterina Amerik](https://github.com/ivanmurashko/courseragalois/blob/master/galois.pdf)
+- [Morse Theory for Complexes of Groups (2022)](https://arxiv.org/abs/2203.00539)

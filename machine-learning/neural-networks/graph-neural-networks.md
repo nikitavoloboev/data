@@ -95,3 +95,4 @@
 - [Deep Learning on Graphs Book](https://web.njit.edu/~ym329/dlg_book/)
 - [Graph Neural Networks: Foundations, Frontiers, and Applications (2022)](https://graph-neural-networks.github.io/)
 - [Representing Long-Range Context for Graph Neural Networks with Global Attention](https://github.com/ucbrise/graphtrans)
+- [CW Networks](https://github.com/twitter-research/cwn) - Message Passing Neural Networks for Simplicial and Cell Complexes.

@@ -233,6 +233,7 @@
 - [swno](https://github.com/fz6m/swno) - Typescript simple runtime powered by Swc.
 - [How to make TypeScript Blazingly Fast (JavaScript/NodeJS)](https://www.youtube.com/watch?v=Sp5_d6coiqU)
 - [Skerrick](https://github.com/anonimitoraf/skerrick) - REPL-driven development for JavaScript.
+- [Advanced TypeScript resources (2022)](https://twitter.com/mpocock1/status/1499017652894941187)
 
 ## Images
 

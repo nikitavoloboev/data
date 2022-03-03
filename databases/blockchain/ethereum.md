@@ -508,3 +508,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Uniswap V3 Subgraph](https://github.com/Uniswap/v3-subgraph)
 - [w3](https://github.com/lmittmann/w3) - Modular and fast Ethereum JSON RPC client with first-class ABI support.
 - [Ethereum ETL Airflow](https://github.com/blockchain-etl/ethereum-etl-airflow) - Airflow DAGs for exporting, loading, and parsing the Ethereum blockchain data.
+- [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://github.com/microsoft/Forerunner)
+- [eth-keystore-rs](https://github.com/roynalnaruto/eth-keystore-rs) - Minimalist library to interact with encrypted JSON keystores.
+- [Uniswap V2 Explained (Beginner Friendly) (2022)](https://medium.com/@chiqing/uniswap-v2-explained-beginner-friendly-b5d2cb64fe0f)

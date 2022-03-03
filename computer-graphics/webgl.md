@@ -90,3 +90,4 @@
 - [webgl-operate](https://github.com/cginternals/webgl-operate) - TypeScript based WebGL rendering framework.
 - [math.gl](https://github.com/uber-web/math.gl) - 3D/WebGL math library.
 - [Fake 3D Image Effect with WebGL](https://github.com/akella/fake3d) - Interactive "fake" 3D effect for images with plain WebGL.
+- [Drawing with circles](https://phqb.github.io/circle_drawing/) ([HN](https://news.ycombinator.com/item?id=30530376))

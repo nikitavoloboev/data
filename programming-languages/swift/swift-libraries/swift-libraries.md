@@ -231,6 +231,7 @@
 - [Agrume](https://github.com/JanGorman/Agrume) - iOS image viewer written in Swift with support for multiple images.
 - [Folio](https://github.com/levibostian/Folio) - Flexible way to detect when you scroll to the end of a `UITableView`.
 - [UIOnboarding](https://github.com/lascic/UIOnboarding) - Configurable welcome screen for iOS 13 and higher.
+- [RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links.
 
 ## macOS
 
@@ -986,6 +987,8 @@
 - [Nivelir](https://github.com/hhru/Nivelir) - Swift DSL for navigation in iOS and tvOS apps with a simplified, chainable, and compile time safe syntax.
 - [AutoChangeable](https://github.com/almazrafi/AutoChangeable) - Convenient way to copy instances of Swift types with changed properties.
 - [EnvKit](https://github.com/BinaryBirds/env-kit) - Swift package for transmitting environment variables between shell processes.
+- [CodableCSV](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row or through Swift's Codable interface.
+- [Swift Tree Sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library.
 
 ## Other (not lib)
 

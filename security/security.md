@@ -245,7 +245,7 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [HubbleStack](https://github.com/hubblestack/hubble) - Modular, open-source security compliance framework.
 - [Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 - [objection](https://github.com/sensepost/objection) - Runtime Mobile Exploration.
-- [Inspektor](https://github.com/poonai/inspektor) - Access control layer for all your data sources. It act as gaurdian and enforces access polices to all your data sources.
+- [Inspektor](https://github.com/poonai/inspektor) - Access control layer for all your data sources. It act as gaurdian and enforces access polices to all your data sources. ([Lobsters](https://lobste.rs/s/bpw4hd/github_poonai_inspektor_centralized))
 - [wholeaked](https://github.com/utkusen/wholeaked) - File-sharing tool that allows you to find the responsible person in case of a leakage.
 - [Perfect Blue's CTF Writeups](https://github.com/perfectblue/ctf-writeups)
 - [Awesome Real-time Communications hacking & pentesting resources](https://github.com/EnableSecurity/awesome-rtc-hacking)
@@ -265,3 +265,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Exploring content of X.509 certificates](https://relational-pipes.globalcode.info/v_0/examples-asn1-x509.xhtml)
 - [Medusa](https://github.com/jonasvinther/medusa) - CLI tool for importing and exporting Hashicorp Vault secrets.
 - [Security for package maintainers (2022)](https://sethmlarson.dev/blog/security-for-package-maintainers) ([Lobsters](https://lobste.rs/s/dcgzcw/security_for_package_maintainers))
+- [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - Asset Discovery is the initial phase of any security assessment engagement, be it offensive or defensive.

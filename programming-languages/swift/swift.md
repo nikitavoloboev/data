@@ -267,3 +267,6 @@
 - [Automatically retrying an asynchronous Swift Task (2022)](https://www.swiftbysundell.com/articles/retrying-an-async-swift-task/)
 - [Embedded Swift](https://github.com/Cosmo/awesome-swift-platforms) - Curated list of Swift on different platforms.
 - [Closures in Swift explained with Code Examples (2021)](https://www.avanderlee.com/swift/trailing-escaping-closures/)
+- [Functional core Imperative shell in Swift (2022)](https://swiftwithmajid.com/2022/03/01/functional-core-imperative-shell-in-swift/)
+- [What type is self in a Swift self-executing anonymous closure used to initialize a stored property? (2020)](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/)
+- [Swift pointer nomenclature](https://twitter.com/UINT_MIN/status/1499201275740577793)

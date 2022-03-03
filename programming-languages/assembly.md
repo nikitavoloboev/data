@@ -87,3 +87,4 @@
 - [NASM Assembly Language Tutorials](https://asmtutor.com/) ([HN](https://news.ycombinator.com/item?id=29784788))
 - [Jumping into the middle of an instruction is not as strange as it sounds (2022)](https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144)
 - [strop](https://github.com/omarandlorraine/strop) Stochastically generates assembly language programs that compute a given function.
+- [x86-64](https://github.com/divipp/x86-64) - Runtime code generation for x86 64 bit machine code.

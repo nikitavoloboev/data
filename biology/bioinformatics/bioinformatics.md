@@ -196,3 +196,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Graphein](https://github.com/a-r-j/graphein) - Protein Graph Library.
 - [A backbone-centred energy function of neural networks for protein design (2022)](https://www.nature.com/articles/s41586-021-04383-5)
 - [EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction (2022)](https://arxiv.org/abs/2202.05146) ([Code](https://github.com/HannesStark/EquiBind))
+- [FastFold](https://github.com/hpcaitech/FastFold) - Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters.

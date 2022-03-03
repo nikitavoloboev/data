@@ -330,3 +330,4 @@
 - [Chord Master](https://fanzhangg.github.io/chord-master/) - Web application for musicians to find new chord and create the chord progression. ([Code](https://github.com/fanzhangg/chord-master))
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Collection of experiments for exploring how music works, all built with the Web Audio API. ([Code](https://github.com/googlecreativelab/chrome-music-lab))
 - [Learning the Beauty in Songs: Neural Singing Voice Beautifier (2022)](https://arxiv.org/abs/2202.13277) ([Code](https://github.com/MoonInTheRiver/NeuralSVB))
+- [Music Theory JS](https://github.com/Pomax/music-theory-js) - Do music things, using music theory.

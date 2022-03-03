@@ -169,3 +169,4 @@
 - [Rivers and Axis (2022)](https://gramin.pro/posts/rivers-and-axis/) - How to format SQL queries.
 - [mgrt](https://github.com/andrewpillar/mgrt) - Simple SQL migrations.
 - [Learn SQL with Datasette](https://datasette.io/tutorials/learn-sql)
+- [SeaSchema](https://github.com/SeaQL/sea-schema) - SQL schema management suite.

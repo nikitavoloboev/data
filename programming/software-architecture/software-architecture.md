@@ -207,3 +207,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [The different types of events in event-driven systems (2022)](https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/) ([HN](https://news.ycombinator.com/item?id=30396873))
 - [How we split our code base down the middle (2019)](https://www.wave.com/en/blog/split/)
 - [Recurring ideas in software development and architecture (2022)](https://twitter.com/mariofusco/status/1497536581770567680)
+- [Successful ($1B+) tech companies that use an architecture that's a monolith (2022)](https://twitter.com/danluu/status/1498678300163588096)
+- [Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)

@@ -12,3 +12,5 @@
 - [Bevy Cheat Book](https://bevy-cheatbook.github.io/)
 - [Bevy GitHub CI Template](https://github.com/bevyengine/bevy_github_ci_template)
 - [Heron](https://github.com/jcornaz/heron) - Ergonomic physics API for bevy games.
+- [Bevy Tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
+- [Bevy Embedded Assets](https://github.com/vleue/bevy_embedded_assets) - Bevy plugin to embed assets in your game.

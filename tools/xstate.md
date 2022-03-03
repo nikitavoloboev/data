@@ -27,3 +27,4 @@ I [model state machines by first listing events (press/do something), tasks (sid
 - [Modelling Statecharts: A step-by-step guide (2022)](https://www.youtube.com/watch?v=wykDyFwr8Lk)
 - [Designing State Machines #1 - Fetch Logic](https://www.youtube.com/watch?v=Km8QGtRr1z8)
 - [Integrating Form Libraries (in React/Vue/Svelte) with XState (2022)](https://www.youtube.com/watch?v=Y5ZoVXjLqLA)
+- [Visually Create State Machines with XState (2022)](https://www.learnwithjason.dev/visually-create-state-machines)

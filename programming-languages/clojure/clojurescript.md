@@ -45,3 +45,4 @@
 - [Helix](https://github.com/lilactown/helix) - ClojureScript optimized for modern React development.
 - [obb](https://github.com/babashka/obb) - Ad-hoc ClojureScript scripting of Mac applications via Apple's Open Scripting Architecture. ([HN](https://news.ycombinator.com/item?id=29779353))
 - [Introducing Visual and Interactive-Syntax realized (VISr) for ClojureScript (and JavaScript) (2022)](https://prl.ccs.neu.edu/blog/2022/01/06/introducing-visual-and-interactive-syntax-realized-visr-for-clojurescript-and-javascript/)
+- [Sente](https://github.com/ptaoussanis/sente) - Real time web comms for Clojure/Script.

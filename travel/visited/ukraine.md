@@ -1,6 +1,6 @@
 # Ukraine
 
-It's unfortunate [what Ukraine has to deal through](https://www.reddit.com/r/CredibleDefense/comments/sto7r8/the_plot_to_destroy_ukraine_this_special_report/) due to [Russian](russia.md) 'leaders' decisions. Instead of [wasting lives and finances](https://www.reddit.com/r/worldnews/comments/svv2oj/biden_says_hes_now_convinced_putin_has_decided_to/hxifwk0/?context=3) on [waging war](https://twitter.com/ChrisMurphyCT/status/1494428782823890944) on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
+It's unfortunate [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russian](russia.md) 'leaders' decisions. Instead of [wasting lives and finances](https://www.reddit.com/r/worldnews/comments/svv2oj/biden_says_hes_now_convinced_putin_has_decided_to/hxifwk0/?context=3) on [waging war](https://twitter.com/ChrisMurphyCT/status/1494428782823890944) on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
@@ -69,3 +69,7 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Как прошли последние восемь лет в Донбассе Краткая история конфликта в фотографиях Брендана Хоффмана (2022)](https://meduza.io/feature/2022/03/01/gde-vy-byli-vosem-let)
 - [The Mysterious Case of the Missing Russian Air Force (2022)](https://rusi.org/explore-our-research/publications/commentary/mysterious-case-missing-russian-air-force) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t3jwpe/the_mysterious_case_of_the_missing_russian_air/))
 - [Ukraine could of been used by US to sow conflict](https://twitter.com/ISeeDanger_/status/1498358565576208386?s=20&t=oVhMvzzGQUhyyzcXGubBAg)- [Ukraine War March 1 (2022)](https://www.reddit.com/r/CredibleDefense/comments/t48e0p/ukraine_megathread_march_1/?sort=top)
+- [Pausing at the Precipice (2022)](https://scholars-stage.org/pausing-at-the-precipice/)
+- [War in Ukraine](https://war.ukraine.ua/)
+- [Impact of Ukraine war on supply chains](https://twitter.com/typesfast/status/1499062174202748931)
+- [How Volodymyr Zelensky Galvanized Ukraine and the World (2022)](https://time.com/6154139/volodymyr-zelensky-ukraine-profile-russia/?linkId=154658241)

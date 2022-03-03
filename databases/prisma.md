@@ -91,3 +91,4 @@
 - [GraphQL Server with Authentication Prisma 2 and Nexus Schema](https://github.com/ryands17/nexus-auth)
 - [prisma-ast](https://github.com/MrLeebo/prisma-ast) - Abstract Syntax Tree for parsing schema.prisma files.
 - [Prima Client Rust](https://github.com/Brendonovich/prisma-client-rust)
+- [Prisma2Keystone](https://github.com/brookmg/prisma2keystone) - CLI to generate a starter schema for keystone-6 from a pre-existing prisma schema.

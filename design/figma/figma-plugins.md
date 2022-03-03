@@ -82,3 +82,4 @@
 - [Figma REST API in TS](https://github.com/didoo/figma-api)
 - [Fig](https://github.com/piglovesyou/fig) - Figma to React tool to generate and synchronize various template languages, designed to be AST-based, pluggable platform.
 - [Figma Better Font Picker](https://github.com/yenargy/figma-better-font-picker) - Figma plugin to enable better font selections which previews how the font looks like.
+- [Figma Plugins that have been shared on GitHub](https://github.com/thomas-lowry/figma-plugins-on-github)

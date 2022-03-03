@@ -446,3 +446,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [AI note garden: link suggestions (2022)](https://smus.com/ai-note-garden-linker/)
 - [My Notebook System](http://ratfactor.com/notes) ([HN](https://news.ycombinator.com/item?id=30395238))
+- [Write plain text files](https://sive.rs/plaintext) ([HN](https://news.ycombinator.com/item?id=30521545))

@@ -550,7 +550,6 @@
 - [Rust API Guidelines Checklist](https://rust-lang.github.io/api-guidelines/checklist.html) - Guidelines that the Rust language standard library holds itself too. ([HN](https://news.ycombinator.com/item?id=28223738))
 - [Large Rust Workspaces (2021)](https://matklad.github.io//2021/08/22/large-rust-workspaces.html) ([Lobsters](https://lobste.rs/s/jz98ci/large_rust_workspaces))
 - [Rust for JS Developers](https://rustforjs.dev/)
-- [Pin, Unpin, and why Rust needs them (2021)](https://blog.cloudflare.com/pin-and-unpin-in-rust/)
 - [Awesome Rust Formalized Reasoning](https://github.com/newca12/awesome-rust-formalized-reasoning)
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/) ([Code](https://github.com/rust-hosted-langs/book))
 - [Cargo B(inary)Install](https://github.com/ryankurte/cargo-binstall) - Binary installation for rust projects.
@@ -722,3 +721,4 @@
 - [IDEs and proc-macros (2022)](https://veykril.github.io/posts/ide-proc-macros/)
 - [A taste of Rust (2022)](https://www.hacklewayne.com/a-taste-of-rust) ([Lobsters](https://lobste.rs/s/9snlkt/taste_rust))
 - [Naive Bayes Classifier (2022)](https://www.sotr.blog/articles/naive-bayes)
+- [ddbug](https://github.com/gimli-rs/ddbug) - Display debugging information.

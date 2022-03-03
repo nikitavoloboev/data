@@ -250,6 +250,7 @@
 - [fresnel](https://github.com/fresnel/fresnel) - High-powered optics in a small package.
 - [pinch](https://github.com/abhinav/pinch) - Serialization library for Haskell that provides support for Apache Thrift.
 - [gRPC-haskell](https://github.com/awakesecurity/gRPC-haskell) - Haskell gRPC support.
+- [Liquid Fixpoint](https://github.com/ucsd-progsys/liquid-fixpoint) - Horn Clause Constraint Solving for Liquid Types.
 
 ## Notes
 

@@ -177,7 +177,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
 - [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger))
 - [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
-- [kindaVim](https://github.com/godbout/kindaVim.theapp) - Vim moves for the whole macOS. in input fields and more.
+- [kindaVim](https://github.com/godbout/kindaVim) - Vim moves for the whole macOS. in input fields and more. ([Web](https://kindavim.app/)) ([Web Code](https://github.com/godbout/kindaVim.theapp))
 - [One Switch](https://fireball.studio/oneswitch)
 
 ## Links
@@ -223,3 +223,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Where Mac Catalyst Falls Short (2022)](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)
 - [Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app.
 - [Good open-source alternatives to essential paid Mac apps (2022)](https://www.reddit.com/r/MacOS/comments/t2olo5/good_opensource_alternatives_to_essential_paid/)
+- [Inspecting Web Views in macOS (2022)](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)

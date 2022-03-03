@@ -14,6 +14,7 @@
 - [Superorganizers](https://every.to/superorganizers) - How smart people organize what they know.
 - [Ridgeline](https://craigmod.com/ridgeline/) - Weekly newsletter on walking, japan, literature, and photography.
 - [Ivan on Containers, Kubernetes, and Backend Development](https://iximiuz.ck.page/posts)
+- [Creative Brew](https://www.creativebrew.io/)
 
 ## Notes
 
@@ -74,3 +75,4 @@
 - [Sending newsletters should cost something (2021)](https://www.rmhsilva.com/w/blockchain-mail-b-mail/) ([HN](https://news.ycombinator.com/item?id=28758125))
 - [beehiiv](https://www.beehiiv.com/) - Newsletter platform built by newsletter people. Empowering creators to monetize and grow. ([Twitter](https://twitter.com/trybeehiiv))
 - [Add Newsletter Subscription Form to React Website (2022)](https://pragmaticpineapple.com/add-newsletter-subscription-form-to-react-website/)
+- [Keila](https://www.keila.io/) - Open Source Email Newsletters Easy & Reliable. ([Code](https://github.com/pentacent/keila))

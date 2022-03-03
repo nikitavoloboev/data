@@ -27,3 +27,4 @@
 - [MixGleam](https://github.com/gleam-lang/mix_gleam) - Build Gleam code with mix.
 - [gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
 - [argamak](https://github.com/tynanbe/argamak) - Gleam library for tensor maths.
+- [A Portrait of the Language Designer as a Young Man: Interview with Louis Pilfold (2021)](https://serokell.io/blog/interview-with-louis-pilfold)

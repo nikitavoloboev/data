@@ -122,3 +122,4 @@
 - [Tactical](https://github.com/tchajed/coq-tactical) - Library of Coq proof automation.
 - [Huffman](https://github.com/coq-community/huffman) - Correctness proof of the Huffman coding algorithm in Coq.
 - [Nuprl's type theory in Coq](https://github.com/vrahli/NuprlInCoq)
+- [Trakt](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics in Coq.

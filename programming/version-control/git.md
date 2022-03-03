@@ -489,3 +489,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Gitless](https://github.com/goldstar611/gitless) - Easy-to-use interface to Git that is also easy to learn.
 - [commit-verify](https://github.com/fz6m/commit-verify) - Auto commit message format verify hook.
 - [VSDB](https://github.com/ccmlm/VSDB) - 'Git' in the form of KV-database.
+- [branch-cleaner](https://github.com/knipferrc/branch-cleaner) - Cleanup old unused git branches.
+- [Git's Best And Most Unknown Feature (2021)](https://www.youtube.com/watch?v=2uEqYw-N8uE)

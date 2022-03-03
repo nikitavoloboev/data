@@ -39,6 +39,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Presencejs](https://github.com/yomorun/presencejs) - JavaScript library that allows you to build real-time web applications quickly, the server is built atop of YoMo.
 - [micromorph](https://github.com/natemoo-re/micromorph) - Very tiny library for diffing DOM nodes.
 - [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+- [ts-elmish](https://github.com/iyegoroff/ts-elmish) - Elmish architecture in Typescript.
 
 ## Test
 
@@ -65,6 +66,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Pero](https://github.com/h-a-n-a/pero) - Easy to use route-based tool for building large-scale command-line interfaces.
 - [terminal-columns](https://github.com/privatenumber/terminal-columns) - Render readable tables in the terminal.
 - [Soly](https://github.com/mdbetancourt/soly) - Powerful framework for building command-line apps with typescript.
+- [Clii](https://github.com/sigoden/clii) - Write some functions, JSDoc it, clii automatically turns it into a cli.
 
 ## Crypto
 
@@ -373,6 +375,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [magic-string-extra](https://github.com/antfu/magic-string-extra) - Extended magic-string with extra utilities.
 - [Sceneify](https://github.com/Brendonovich/sceneify) - Easiest way to control OBS from JavaScript.
 - [event](https://github.com/denosaurs/event) - Strictly typed event emitter with asynciterator support.
+- [ultimate/vault](https://github.com/ultimatecourses/vault) - Typed localStorage and sessionStorage utility with data structure and prefix support.
 
 ## Links
 
@@ -418,3 +421,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [run-ts](https://github.com/etienne-dldc/run-ts) - Tools to use Typescript files as npm scripts.
 - [convert-to-dts](https://github.com/suchipi/convert-to-dts) - Converts the source code for any .js or .ts file into the equivalent .d.ts code TypeScript would generate.
 - [publib](https://github.com/cdklabs/publib) - Unified toolchain for publishing libraries to popular package managers.
+- [ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation.

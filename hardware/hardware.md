@@ -291,3 +291,4 @@
 - [Modified Microphone (2022)](https://seancoates.com/blogs/modified-microphone)
 - [Ask HN: What books are recommended to learn re semiconductors industry? (2022)](https://news.ycombinator.com/item?id=30398930)
 - [From Nand to Tetris](https://www.nand2tetris.org/) - Building a Modern Computer From First Principles. ([Code](https://github.com/ghaiklor/nand-2-tetris))
+- [Koika](https://github.com/mit-plv/koika) - Core Language for Rule-Based Hardware Design.

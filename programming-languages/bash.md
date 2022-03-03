@@ -140,3 +140,4 @@ source script
 - [NL2Bash: A Corpus and Semantic Parser for Natural Language Interface to the Linux Operating System (2018)](https://arxiv.org/abs/1802.08979) ([Code](https://github.com/TellinaTool/nl2bash))
 - [Ask HN: Let's build Check style for Bash? (2022)](https://news.ycombinator.com/item?id=30405177)
 - [Replicating Bash Argument Splitting (2021)](https://blog.dnmfarrell.com/post/replicating-bash-argument-splitting/)
+- [Creating a bash completion script (2018)](https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial) ([HN](https://news.ycombinator.com/item?id=30524440))

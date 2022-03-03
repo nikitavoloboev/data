@@ -5,6 +5,7 @@
 - Don't ever underestimate the cost performance of cache misses.
 - [Bundle size is not your main performance problem (most likely). As long as the cache headers are ok and hosted in a CDN, you are good. Worry about expensive renders or unnecessary network calls before fine-tuning bundle size.](https://twitter.com/scinos/status/1419535719811399683)
 - [Page speed factors and how to increase it: 1. User's Network: deploy to edge, move code to server for smaller bundles. 2. Server Network and Code: fast regional DBs, caching. 3. Asset Waterfall: Load in parallel, don't chain. 4. Parse/eval: move code to server for smaller bundles.](https://twitter.com/ryanflorence/status/1479111475683737610)
+- [Cache dashboard data in Redis on server instead of react-query in the browser. Revalidate it after requests (on an interval so you don't overwork it with high traffic). Expire + push into the cache after writes. Backend investment will yield far greater perf than client.](https://twitter.com/ryanflorence/status/1499160939589173248)
 
 ## Links
 
@@ -151,3 +152,5 @@
 - [Memory leaks: the forgotten side of web performance (2022)](https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/) ([Lobsters](https://lobste.rs/s/zzawym/memory_leaks_forgotten_side_web)) ([HN](https://news.ycombinator.com/item?id=29821899))
 - [Garie](https://garie.netlify.app/) - Open source toolkit to monitor web performance. ([Code](https://github.com/boyney123/garie))
 - [Unlighthouse](https://unlighthouse.dev/) - Scan your entire website with Google Lighthouse. ([Code](https://github.com/harlan-zw/unlighthouse))
+- [Towards a Unified Theory of Web Performance (2022)](https://infrequently.org/2022/03/a-unified-theory-of-web-performance/)
+- [When To Fetch](https://twitter.com/ryanflorence/status/1498847523150053376)

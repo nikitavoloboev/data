@@ -141,3 +141,4 @@
 - [QCEC](https://github.com/iic-jku/qcec) - JKQ tool for Quantum Circuit Equivalence Checking.
 - [Quantum JavaScript (Q.js)](https://quantumjavascript.app/) - Quantum circuit simulator, drag-and-drop circuit editor, and powerful JavaScript library that runs right here in your web browser. ([Code](https://github.com/stewdio/q.js))
 - [The post-quantum future: challenges and opportunities (2022)](https://blog.cloudflare.com/post-quantum-future/)
+- [Gottesman Types for Quantum Programs (2021)](https://arxiv.org/abs/2109.02197) ([Code](https://github.com/GuillaumeGen/GottesmanTypes))

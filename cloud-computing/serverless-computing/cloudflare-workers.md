@@ -5,6 +5,7 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 ## OSS tools build with CW
 
 - [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
+- [Notify](https://github.com/K0IN/Notify) - Small Cloudflare worker / self hosted solution to send web push notifications with webhooks.
 
 ## Notes
 
@@ -130,3 +131,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Workers WASI](https://github.com/cloudflare/workers-wasi) - Implementation of the WebAssembly System Interface designed to run on Cloudflare Workers.
 - [worker-kv](https://github.com/zebp/worker-kv) - Rust bindings to Cloudflare Worker KV Stores.
 - [Cloudflare + Google = supercharged web surfing](https://github.com/alii/search)
+- [Sending Email from Cloudflare Workers for free](https://community.cloudflare.com/t/send-email-from-workers-using-mailchannels-for-free/361973) ([HN](https://news.ycombinator.com/item?id=30533032))

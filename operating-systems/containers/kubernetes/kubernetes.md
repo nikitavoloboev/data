@@ -644,3 +644,4 @@
 - [Reloaderai](https://github.com/stakater/Reloader) - Kubernetes controller to watch changes in ConfigMap and Secrets.
 - [Speed Limits for Rolling Restarts in Kubernetes (2021)](https://alexklibisz.com/2021/07/20/speed-limits-for-rolling-restarts-in-kubernetes.html)
 - [ktail](https://github.com/atombender/ktail) - Tool to easily tail Kubernetes logs.
+- [Kube-burner](https://github.com/cloud-bulldozer/kube-burner) - Tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.

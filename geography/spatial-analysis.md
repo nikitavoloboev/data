@@ -148,3 +148,5 @@
 - [carmen](https://github.com/mapbox/carmen) - Mapbox Vector Tile based geocoder with support for swappable data sources.
 - [OSM Liberty](https://github.com/maputnik/osm-liberty) - Free Mapbox GL basemap style for everyone.
 - [MapHub](https://maphub.net/) - Create interactive maps.
+- [Awesome Geo Rust](https://github.com/pka/awesome-georust) - Curated list of awesome geospatial software, libraries, tools and resources, written in Rust.
+- [FlatGeobuf GPU](https://github.com/pka/flatgeobuf-gpu) - Experimental GPU rendering of FlatGeobuf for Rust.

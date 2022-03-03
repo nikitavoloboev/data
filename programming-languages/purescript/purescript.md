@@ -44,3 +44,4 @@
 - [Formless](https://github.com/thomashoneyman/purescript-halogen-formless) - Painless forms for Halogen.
 - [PureScript language server](https://github.com/nwolverson/purescript-language-server)
 - [Setup PureScript Action](https://github.com/purescript-contrib/setup-purescript) - Set up a specific PureScript toolchain in your GitHub Actions workflow.
+- [Pulp](https://github.com/purescript-contrib/pulp) - Build tool for PureScript.

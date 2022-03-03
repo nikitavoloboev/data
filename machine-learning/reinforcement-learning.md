@@ -324,3 +324,4 @@
 - [ai-traineree](https://github.com/laszukdawid/ai-traineree) - PyTorch agents and tools for (Deep) Reinforcement Learning.
 - [RL Games: High performance RL library](https://github.com/Denys88/rl_games)
 - [MuZero’s first step from research into the real world (2022)](https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world) ([HN](https://news.ycombinator.com/item?id=30468546))
+- [Isaac-ManipulaRL](https://github.com/cypypccpy/Isaac-ManipulaRL) - Manipulator Reinforcement Learning based on Isaac-gym.

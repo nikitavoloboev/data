@@ -703,3 +703,6 @@
 - [General Cyclical Training of Neural Networks (2022)](https://arxiv.org/abs/2202.08835) ([Code](https://github.com/lnsmith54/CFL))
 - [Machine Learning Interview Questions](https://github.com/andrewekhalel/MLQuestions)
 - [Intro to Continual Learning](https://github.com/clam004/intro_continual_learning)
+- [Gradients without Backpropagation (2022)](https://arxiv.org/abs/2202.08587) ([HN](https://news.ycombinator.com/item?id=30525214))
+- [Variational Autoencoders Without the Variation (2022)](https://arxiv.org/abs/2203.00645)
+- [What's your favorite unpopular/forgotten Machine Learning method? (2022)](https://www.reddit.com/r/MachineLearning/comments/t55lbw/d_whats_your_favorite_unpopularforgotten_machine/)

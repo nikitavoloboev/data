@@ -47,6 +47,7 @@
 - [Starlite](https://github.com/Goldziher/starlite) - Light, opinionated and flexible ASGI API framework built on top of pydantic and Starlette.
 - [pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python.
 - [Faster-than-Requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3.
+- [Minos](https://github.com/minos-framework/minos-python) - Framework which helps you create reactive microservices in Python.
 
 ## ML
 
@@ -92,6 +93,7 @@
 - [JAX-CFD](https://github.com/google/jax-cfd) - Computational Fluid Dynamics in JAX.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Fast, flexible and easy to use probabilistic modelling in Python.
 - [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
+- [TensorAnnotations](https://github.com/deepmind/tensor_annotations) - Annotating tensor shapes using Python types.
 
 ## Biology
 
@@ -221,6 +223,10 @@
 - [Pydantic-Factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation.
 - [flake8-assertive](https://github.com/jparise/flake8-assertive) - Flake8 unittest assert method checker.
 - [Klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library.
+
+## Error
+
+- [rescue](https://github.com/idmitrievsky/rescue) - Type-safe exceptions for Python.
 
 ## Other
 
@@ -729,6 +735,8 @@
 - [Cachy](https://github.com/sdispater/cachy) - Simple yet effective caching library.
 - [matplotx](https://github.com/nschloe/matplotx) - Some useful extensions for Matplotlib.
 - [drawSvg](https://github.com/cduck/drawSvg) - Python 3 library for programmatically generating SVG images (vector drawings) and rendering them or displaying them in a Jupyter notebook.
+- [PandasSchema](https://github.com/multimeric/PandasSchema) - Validation library for Pandas data frames using user-friendly schemas.
+- [pyntcloud](https://github.com/daavoo/pyntcloud) - Python library for working with 3D point clouds.
 
 ## Links
 

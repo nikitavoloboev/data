@@ -189,3 +189,4 @@
 - [Awesome Docker Security](https://github.com/myugan/awesome-docker-security)
 - [Dockerfiler](https://github.com/jbergknoff/Dockerfiler) - Declaratively manage images built from a set of Dockerfiles.
 - [docker-compose-wait](https://github.com/ufoscout/docker-compose-wait) - Command-line utility to wait for other docker images to be started while using docker-compose.
+- [Miniboss](https://github.com/afroisalreadyinu/miniboss) - Python application for locally running a collection of interdependent docker services. ([HN](https://news.ycombinator.com/item?id=30528167))

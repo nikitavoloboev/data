@@ -100,3 +100,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [zf](https://github.com/natecraddock/zf) - Command line fuzzy finder that prioritizes matches on filenames.
 - [NO_COLOR](https://no-color.org/) - Disabling ANSI color output in various Unix commands. ([HN](https://news.ycombinator.com/item?id=30483417))
+- [igrep](https://github.com/konradsz/igrep) - Interactive Grep.

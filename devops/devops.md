@@ -145,3 +145,4 @@
 - [Delayed Job vs. Sidekiq (2022)](https://blog.appsignal.com/2022/02/15/delayed-job-vs-sidekiq-which-is-better.html) ([HN](https://news.ycombinator.com/item?id=30345806))
 - [Cincinnati](https://github.com/openshift/cincinnati) - Update protocol designed to facilitate automatic updates.
 - [Ministry of Justice Modernization Platform](https://github.com/ministryofjustice/modernisation-platform) - Defined and managed in Terraform.
+- [fw](https://github.com/brocode/fw) - Workspace productivity booster.

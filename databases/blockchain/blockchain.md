@@ -351,3 +351,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [NFT API](https://github.com/nft-api/nft-api) - Returns resolved metadata and has all information about all NFT collections, users, transactions. Cross-Chain NFT API.
 - [Fetch.ai](https://fetch.ai/) ([GitHub](https://github.com/fetchai)) ([Code](https://github.com/fetchai/fetchd))
 - [3Box Labs](https://3boxlabs.com/) - Creators of Ceramic Network.
+- [The Complete Guide to Getting Started With The Graph (2022)](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph) ([Tweet](https://twitter.com/camiinthisthang/status/1498704539297353731))

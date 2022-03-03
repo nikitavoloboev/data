@@ -99,6 +99,8 @@
 - [Primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
 - [Catppuccin](https://github.com/catppuccin/obsidian) - Soothing pastel theme for Obsidian.
 - [Absolve](https://github.com/mulfok/obsidian-absolve) - Theme overlay snippet for Obsidian.md.
+- [Markdown Attributes](https://github.com/valentine195/obsidian-markdown-attributes) - Add attributes to elements in Obsidian.
+- [Settings Search](https://github.com/valentine195/obsidian-settings-search) - Adds a search bar to Obsidian.md's settings.
 
 ## Links
 

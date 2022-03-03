@@ -104,3 +104,4 @@
 - [chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions.
 - [Prisma + Lambda + CDK Sample](https://github.com/aws-samples/prisma-lambda-cdk) - Build and deploy a Lambda function with Prisma ORM by AWS Cloud Development Kit.
 - [AWS Lambda in Action Event-driven serverless applications Book (2016)](https://www.manning.com/books/aws-lambda-in-action) ([Code](https://github.com/danilop/AWS_Lambda_in_Action))
+- [Jessica Kerr on Observability and Honeycomb's Use of AWS Lambda for Retriever (2022)](https://www.infoq.com/podcasts/aws-lambda-custom-database-retriever/)

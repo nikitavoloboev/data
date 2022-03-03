@@ -143,3 +143,4 @@
 - [Vibe Capital](https://vibe.vc/) ([Tweet](https://twitter.com/ankurnagpal/status/1494862310044700675))
 - [Shrug VC](https://www.shrug.vc/)
 - [EU Micro VCs (2022)](https://twitter.com/matthewclifford/status/1496795340636368897)
+- [Sten Tamkivi](https://tamkivi.com/)

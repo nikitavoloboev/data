@@ -106,3 +106,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Teaching how to code is broken](https://neil.computer/notes/teaching-how-to-code-is-broken/) ([HN](https://news.ycombinator.com/item?id=29903202)) ([Lobsters](https://lobste.rs/s/01gogy/teaching_how_code_is_broken))
 - [How to Drop Out](https://ranprieur.com/essays/dropout.html) ([HN](https://news.ycombinator.com/item?id=30318285))
 - [List of resources on how/why to do a PhD](https://github.com/macoj/phd)
+- [Awesome PhD](https://github.com/helenahartmann/awesome-PhD)

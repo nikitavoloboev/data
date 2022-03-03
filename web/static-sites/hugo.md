@@ -72,3 +72,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Run a website off a Google Sheets Database, with Hugo (2021)](https://www.markhansen.co.nz/build-a-website-off-a-google-sheets-database-using-hugo-netlify/) ([Lobsters](https://lobste.rs/s/eu9fjn/run_website_off_google_sheets_database))
 - [How to set up a blog with Hugo and Cloudflare, and why you should (2022)](https://smaller.fish/posts/hugo) ([HN](https://news.ycombinator.com/item?id=30396935))
 - [Nice Cloudflare Blog migration to Hugo (2022)](https://github.com/cloudflare/cloudflare-docs/pull/3609) ([Tweet](https://twitter.com/lukeed05/status/1496620597127696384))
+- [Hugo is awesome, its documentation is not (2022)](https://sagar.se/blog/hugo-documentation/) ([HN](https://news.ycombinator.com/item?id=30527884))

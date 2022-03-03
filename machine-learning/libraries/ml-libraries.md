@@ -296,3 +296,4 @@
 - [Towhee](https://github.com/towhee-io/towhee) - Flexible, application-oriented framework for generating embedding vectors via a pipeline of ML models and other operations.
 - [AutoFaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
 - [Statistical Forecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+- [MLSpec](https://github.com/mlspec/MLSpec) - Standardize the intercomponent schemas for a multi-stage ML Pipeline.

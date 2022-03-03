@@ -55,6 +55,7 @@
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter)) ([HN](https://news.ycombinator.com/item?id=30470809)) ([Reddit](https://www.reddit.com/r/rust/comments/t1bim5/announcing_actix_web_v40/))
 - [actix-web-flash-messages](https://github.com/LukeMathWalker/actix-web-flash-messages) - Flash messages for actix-web.
 - [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) - Structured diagnostics for actix-web applications.
+- [actix-web-lab](https://github.com/robjtede/actix-web-lab) - Experimental extractors, middleware, and other extras for possible inclusion in Actix Web.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Seed](https://github.com/seed-rs/seed) - Rust framework for creating web apps. ([HN](https://news.ycombinator.com/item?id=28567714))
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
@@ -121,6 +122,7 @@
 - [reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
 - [rust-otp](https://github.com/TimDumol/rust-otp) - Rust library for performing the HMAC-based One-Time Password (HOTP) and Time-based One-Time Password (TOTP) algorithms.
 - [axum-live-view](https://github.com/davidpdrsn/axum-live-view) - Real-time user experiences with server-rendered HTML.
+- [protocol](https://github.com/dylanmckay/protocol) - Easy protocol definitions in Rust.
 
 ## WASM
 
@@ -372,6 +374,7 @@
 
 ## Crypto
 
+- [subtle](https://github.com/dalek-cryptography/subtle) - Pure-Rust traits and utilities for constant-time cryptographic implementations.
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
 - [bellman](https://github.com/zkcrypto/bellman) - Crate for building zk-SNARK circuits.
 - [bellperson](https://github.com/filecoin-project/bellperson) - Crate for building zk-SNARK circuits. Fork of the great bellman library.
@@ -410,6 +413,7 @@
 - [Blind RSA signatures](https://github.com/jedisct1/rust-blind-rsa-signatures) - Author-blinded RSASSA-PSS RSAE signatures.
 - [RustCrypto: Traits](https://github.com/RustCrypto/traits) - Collection of traits which describe functionality of cryptographic primitives.
 - [RustCrypto: Password Hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs.
+- [Cryptoxide](https://github.com/typed-io/cryptoxide) - Crypto primitives in pure rust - wasm compatible.
 
 ## Linux
 
@@ -445,6 +449,7 @@
 - [Infrared](https://github.com/jkristell/infrared) - Infrared remote control library for embedded Rust.
 - [embed-c](https://github.com/zdimension/embed-c) - Allows you to embed C code inside Rust code files.
 - [stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal) - Hardware abstraction layer for the stm32l432xx series chips written in rust.
+- [lm3s6965](https://github.com/japaric/lm3s6965) - Minimal device crate for the LM3S6965 (Cortex-M3) microcontroller.
 
 ## ML
 
@@ -711,7 +716,7 @@
 - [RMP](https://github.com/3Hren/msgpack-rust) - Pure Rust MessagePack implementation.
 - [fasteval](https://github.com/likebike/fasteval) - Fast and safe evaluation of algebraic expressions.
 - [wasmparser](https://github.com/bytecodealliance/wasmparser) - Simple event-driven library for parsing WebAssembly binary files.
-- [RoaringBitmap](https://github.com/Nemo157/roaring-rs) - Roaring bitmap implementation for Rust.
+- [RoaringBitmap](https://github.com/RoaringBitmap/roaring-rs) - Roaring bitmap implementation for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/t4x31c/roaringrs_bettercompressed_bitsets_is_seeing_the/))
 - [Graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust.
 - [Rowan](https://github.com/rust-analyzer/rowan) - Library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - [Tera](https://github.com/Keats/tera) - Template engine for Rust based on Jinja2/Django.
@@ -1531,6 +1536,10 @@
 - [rusty-money](https://github.com/varunsrin/rusty_money) - Handles the messy parts of dealing with money like rounding, precision, parsing and internationalization.
 - [bkt](https://github.com/dimo414/bkt) - Subprocess caching utility, available as a command line binary and a Rust library.
 - [swift-rs](https://github.com/Brendonovich/swift-rs) - Call Swift functions from Rust with ease.
+- [Congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree).
+- [CRustAL](https://github.com/achreto/crustal) - Library for Assembling C/C++ Code from Rust.
+- [celerity](https://github.com/BrainiumLLC/celerity) - Buttery smooth animation toolkit.
+- [extrasafe](https://github.com/boustrophedon/extrasafe) - Make your code extra-safe by voluntarily dropping privileges.
 
 ## Cargo Plugins
 
@@ -1589,6 +1598,7 @@
 - [cargo-local-install](https://github.com/MaulingMonkey/cargo-local-install) - Wraps `cargo install` for better local, non-conflicting installation.
 - [cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker. ([Reddit](https://www.reddit.com/r/rust/comments/stq51v/announcing_cargozigbuild_compile_cargo_project/))
 - [cargo run-wasm](https://github.com/rukai/cargo-run-wasm) - Run WASM applications and examples in the browser.
+- [cargo-quickinstall](https://github.com/alsuren/cargo-quickinstall) - Pre-compiled binary packages for `cargo install`.
 
 ## Links
 

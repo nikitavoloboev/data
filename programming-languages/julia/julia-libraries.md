@@ -488,6 +488,7 @@
 - [TimeseriesPrediction](https://github.com/JuliaDynamics/TimeseriesPrediction.jl) - Prediction of timeseries using methods of nonlinear dynamics and timeseries analysis.
 - [ControlSystemIdentification](https://github.com/baggepinnen/ControlSystemIdentification.jl) - System Identification toolbox for LTI systems, compatible with ControlSystems.jl.
 - [ArrayLayouts](https://github.com/JuliaMatrices/ArrayLayouts.jl) - Julia package for describing array layouts and more general fast linear algebra.
+- [Static](https://github.com/SciML/Static.jl) - Static types useful for dispatch and generated functions.
 
 ## Links
 

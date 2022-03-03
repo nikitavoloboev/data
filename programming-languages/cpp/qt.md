@@ -29,3 +29,4 @@
 - [Qt6 QML Book](https://www.qt.io/product/qt6/qml-book) ([Code](https://github.com/qmlbook/qt6book))
 - [QUICK](https://github.com/szsdk/quick) - Real QUICK Qt5 based gUI generator for ClicK.
 - [qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time.
+- [CXX-Qt](https://github.com/KDAB/cxx-qt) - Safe Rust bindings for Qt. ([Web](https://www.kdab.com/cxx-qt/)) ([HN](https://news.ycombinator.com/item?id=30525752)) ([Reddit](https://www.reddit.com/r/rust/comments/t4xof1/cxxqt_safe_rust_bindings_for_qt/))

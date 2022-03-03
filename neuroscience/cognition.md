@@ -25,3 +25,4 @@
 - [The Cognitive Bias Codex](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
 - [Cognitive Computation Group](https://cogcomp.seas.upenn.edu/page/tutorial.202108/)
 - [Michael Levin; Regenerating limbs, layers of cognition and electroceuticals (2022)](https://www.youtube.com/watch?v=N9Oli5MPLbY)
+- [What is the origin of cognition in living systems? What kinds of cognition are there?](https://royalsocietypublishing.org/toc/rstb/2019/374/1774)

@@ -137,3 +137,4 @@
 - [We shouldn’t push a positive mindset on those in poverty (2022)](https://psyche.co/ideas/why-we-shouldnt-push-a-positive-mindset-on-those-in-poverty) ([HN](https://news.ycombinator.com/item?id=30395256))
 - [Supply Studies Syllabus](https://supplystudies.com/syllabus/)
 - [Any good podcasts about economics for beginner? (2022)](https://www.reddit.com/r/AskEconomics/comments/t45r3a/any_good_podcasts_about_economics_for_beginner/)
+- [The Modern History of Economic Sanctions (2022)](https://www.lawfareblog.com/modern-history-economic-sanctions) ([Tweet](https://twitter.com/henryfarrell/status/1499008018725363716))

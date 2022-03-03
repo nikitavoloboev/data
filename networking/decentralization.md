@@ -11,6 +11,7 @@
 - [Decentralization doesn't mean the absence of leaders but the abundance of them.](https://twitter.com/Echecrates/status/1458589782427279366)
 - [The most important (and least understood) change of the millennium thus far is that decentralisation and incentives have given _sovereignty_ to machines. We now build machines that nobody can turn off. They live unto themselves.](https://twitter.com/samecwilliams/status/1463389066100154368)
 - [In web2, you are just borrowing things — until the actual owners change their mind.](https://twitter.com/cdixon/status/1470374120055615488)
+- [Core requirements for a 'metaverse': 1. Composable: built from untrusted parts. 2. Open: like the web, no single owner. 3. Multiplayer-capable. Everything else (3D, VR, ownership models, etc.) is related but not core to what makes the 'metaverse' concept different.](https://twitter.com/kettlecorn/status/1499061977833955329)
 
 ## Links
 

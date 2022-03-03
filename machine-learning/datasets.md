@@ -147,3 +147,4 @@
 - [Awesome Forests](https://github.com/blutjens/awesome-forests) - Curated list of ground-truth forest datasets for the machine learning and forestry community.
 - [PushShift Data Dumps](http://files.pushshift.io/)
 - [DeepEcho](https://github.com/sdv-dev/DeepEcho) - Synthetic Data Generation for mixed-type, multivariate time series.
+- [deduplify](https://github.com/Living-with-machines/deduplify) - Python tool to search for and remove duplicated files in messy datasets.

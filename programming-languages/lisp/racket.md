@@ -98,3 +98,4 @@
 - [Why learn Racket? A student's perspective (2022)](https://www.micahcantor.com/blog/why-learn-racket/)
 - [Typed Racket: the good and the bad (2021)](https://www.micahcantor.com/blog/thoughts-typed-racket/) ([HN](https://news.ycombinator.com/item?id=30402408))
 - [How to Organize Your Racket Library (2022)](https://countvajhula.com/2022/02/22/how-to-organize-your-racket-library/) ([Reddit](https://www.reddit.com/r/Racket/comments/sz0uhe/how_to_organize_your_racket_library_blog/))
+- [blackboard](https://github.com/lexi-lambda/blackboard) - OpenType Math layout and rendering engine in Racket.

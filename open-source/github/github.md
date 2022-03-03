@@ -352,3 +352,4 @@ Awesome List
 - [ghinstallation](https://github.com/bradleyfalzon/ghinstallation) - HTTP Round Tripper for GitHub Apps - Authenticate as an Installation Workflow.
 - [SponsorKit](https://github.com/antfu/sponsorkit) - Toolkit for generating sponsors images.
 - [GitHub Advisory Database](https://github.com/github/advisory-database) - Database of CVEs and GitHub-originated security advisories affecting the open source world. ([HN](https://news.ycombinator.com/item?id=30480862))
+- [GitHub Backup](https://github.com/josegonzalez/python-github-backup) - Backup a GitHub user or organization.

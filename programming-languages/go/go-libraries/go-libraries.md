@@ -119,9 +119,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [chameleon](https://github.com/nickpresta/chameleon) - Caching reverse proxy for testing written in Go.
 - [briefpg](https://github.com/danielbprice/briefpg) - Temporary PostgreSQL Instances for Unit Tests.
 - [go-carpet](https://github.com/msoap/go-carpet) - Show test coverage in terminal for Go source files.
+- [Lem](https://github.com/akutz/lem) - Go test framework for asserting expected escape analysis results & heap allocations.
 
 ## Web
 
+- [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
@@ -1371,6 +1373,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [async](https://github.com/nkcmr/async) - Alternate patterns for dealing with asynchronous code in go.
 - [Juniper](https://github.com/bradenaw/juniper) - Extended Go standard library using generics, including containers, iterators, and streams. ([Reddit](https://www.reddit.com/r/golang/comments/t32gsl/juniper_is_an_extended_go_standard_library_using/))
 - [go-runewidth](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
+- [ControllerBus](https://github.com/aperturerobotics/controllerbus) - Structure large Go programs as communicating concurrent control loops.
+- [treeprint](https://github.com/xlab/treeprint) - Simple ASCII tree composing tool.
+- [Merkle Tree](https://github.com/cbergoon/merkletree) - Merkle Tree implementation written in Go.
+- [New Relic Go Client](https://github.com/newrelic/newrelic-client-go)
 
 ## Links
 
@@ -1429,3 +1435,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [c-for-go](https://github.com/xlab/c-for-go) - Automatic C-Go Bindings Generator for Go.
 - [Are ORMs considered an anti-pattern in Go? (2022)](https://www.reddit.com/r/golang/comments/t08oox/are_orms_considered_an_antipattern_in_go/)
 - [Making the command line glamorous with Charm (2022)](https://changelog.com/podcast/481)
+- [Bubbletea-Starter](https://github.com/knipferrc/bubbletea-starter)
+- [Go Starter](https://github.com/allaboutapps/go-starter) - Opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers.

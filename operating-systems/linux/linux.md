@@ -470,3 +470,4 @@
 - [Linux Sysops Handbook](https://abarrak.gitbook.io/linux-sysops-handbook) ([HN](https://news.ycombinator.com/item?id=30430594))
 - [A Cursed Bug (2022)](https://blog.nelhage.com/post/a-cursed-bug/) ([Lobsters](https://lobste.rs/s/2tnmq5/cursed_bug))
 - [Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234) ([HN](https://news.ycombinator.com/item?id=30502392))
+- [Efficient IO with io_uring (2019)](https://kernel.dk/io_uring.pdf)
