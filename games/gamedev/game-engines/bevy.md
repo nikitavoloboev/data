@@ -18,3 +18,4 @@
 - [Heron](https://github.com/jcornaz/heron) - Ergonomic physics API for bevy games.
 - [Bevy Tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
 - [Bevy Embedded Assets](https://github.com/vleue/bevy_embedded_assets) - Bevy plugin to embed assets in your game.
+- [Bevy RFCs](https://github.com/bevyengine/rfcs)

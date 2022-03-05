@@ -737,6 +737,7 @@
 - [drawSvg](https://github.com/cduck/drawSvg) - Python 3 library for programmatically generating SVG images (vector drawings) and rendering them or displaying them in a Jupyter notebook.
 - [PandasSchema](https://github.com/multimeric/PandasSchema) - Validation library for Pandas data frames using user-friendly schemas.
 - [pyntcloud](https://github.com/daavoo/pyntcloud) - Python library for working with 3D point clouds.
+- [TNT](https://github.com/pytorch/tnt) - Simple tools for logging and visualizing, loading and training.
 
 ## Links
 
@@ -821,3 +822,4 @@
 - [Sphinx](https://www.sphinx-doc.org/en/master/) - Python Documentation Generator.
 - [Python Context Managers in 10 Minutes — using the ‘with’ keyword (2022)](https://towardsdatascience.com/python-context-managers-in-10-minutes-using-the-with-keyword-51eb254c1b89)
 - [Sphinx, MyST, and Python Docs in 2022](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
+- [Quetz](https://github.com/mamba-org/quetz) - Open-Source Server for Conda Packages.

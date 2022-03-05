@@ -102,3 +102,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [NO_COLOR](https://no-color.org/) - Disabling ANSI color output in various Unix commands. ([HN](https://news.ycombinator.com/item?id=30483417))
 - [igrep](https://github.com/konradsz/igrep) - Interactive Grep.
 - [Argc](https://github.com/sigoden/argc) - Handy way to handle sh/bash cli parameters.
+- [qsv](https://github.com/jqnatividad/qsv) - Ultra-fast CSV data-wrangling CLI toolkit.

@@ -116,3 +116,4 @@
 - [Nuxt Strapi](https://github.com/nuxt-community/strapi-module) - Strapi Module for Nuxt.
 - [vue-bind-once](https://github.com/danielroe/vue-bind-once) - Tiny, SSR-safe directive for binding random data to an element.
 - [Nuxt3 + URQL + SSR](https://github.com/bicouy0/nuxt3-urql)
+- [Nuxt 3 Starter](https://github.com/xiaoluoboding/nuxt3-starter) - Better Nuxt 3 starter template.

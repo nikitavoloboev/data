@@ -1542,6 +1542,7 @@
 - [CRustAL](https://github.com/achreto/crustal) - Library for Assembling C/C++ Code from Rust.
 - [celerity](https://github.com/BrainiumLLC/celerity) - Buttery smooth animation toolkit.
 - [extrasafe](https://github.com/boustrophedon/extrasafe) - Make your code extra-safe by voluntarily dropping privileges.
+- [rust-stats](https://github.com/BurntSushi/rust-stats) - Basic statistical functions on streams for Rust.
 
 ## Cargo Plugins
 

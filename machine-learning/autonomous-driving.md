@@ -52,3 +52,4 @@
 - [R3LIVE: Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package](https://github.com/hku-mars/r3live)
 - [Cruise Under The Hood 2021 - YouTube](https://www.youtube.com/playlist?list=PLkK2JX1iHuzz7W8z3roCZEqML0G2R9jX8)
 - [HN: Cruise is opening driverless cars to the public in San Francisco (2022)](https://news.ycombinator.com/item?id=30167037)
+- [CT-ICP: Elastic SLAM for LiDAR sensors](https://github.com/jedeschaud/ct_icp)
