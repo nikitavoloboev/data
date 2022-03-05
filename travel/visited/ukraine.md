@@ -73,3 +73,8 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [War in Ukraine](https://war.ukraine.ua/)
 - [Impact of Ukraine war on supply chains](https://twitter.com/typesfast/status/1499062174202748931)
 - [How Volodymyr Zelensky Galvanized Ukraine and the World (2022)](https://time.com/6154139/volodymyr-zelensky-ukraine-profile-russia/?linkId=154658241)
+- [We have nothing to lose but our own freedom and dignity](https://twitter.com/anastasia_maga/status/1499399364585803777)
+- [How Volodymyr Zelensky Galvanized Ukraine and the World (2022)](https://time.com/6154139/volodymyr-zelensky-ukraine-profile-russia/)
+- [Assessing the Russian Military Campaign in Ukraine (2022)](https://www.youtube.com/watch?v=pLWYN1jkmXc) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t5u8mc/assessing_the_russian_military_campaign_in/))
+- [Level of solidarity in Ukrainian society](https://twitter.com/olgatokariuk/status/1499494322676318220)
+- [Ukraine’s Special Forces Hold Off Russian Offensive on Kyiv’s Front Lines (2022)](https://www.wsj.com/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190?st=qrzrh5leq99gqft)

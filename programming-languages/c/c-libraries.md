@@ -55,7 +55,7 @@
 - [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc implementation that emphasizes fragmentation avoidance and scalable concurrency support.
 - [Libtask](https://swtch.com/libtask/) - Coroutine Library for C and Unix.
 - [Simple Dynamic Strings](https://github.com/antirez/sds)
-- [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C. ([Web](http://libcello.org/)) ([HN](https://news.ycombinator.com/item?id=22102533))
+- [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C. ([Web](http://libcello.org/)) ([HN](https://news.ycombinator.com/item?id=22102533)) ([HN](https://news.ycombinator.com/item?id=30564292))
 - [libdill](https://github.com/sustrik/libdill) - Structured concurrency in C.
 - [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++).
 - [cr.h](https://github.com/fungos/cr) - Simple C Hot Reload Header-only Library.

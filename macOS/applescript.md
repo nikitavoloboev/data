@@ -295,3 +295,4 @@ do shell script "command here" with administrator privileges
 - [UI Browser](https://pfiddlesoft.com/uibrowser/) - Assistant for Apple's Accessibility and AppleScript GUI Scripting technologies.
 - [Avoiding AppleScript Security and Privacy Requests (2020)](https://scriptingosx.com/2020/09/avoiding-applescript-security-and-privacy-requests/)
 - [Use AppleScript in a Shell Script](https://johnlindquist.com/use-applescript-in-a-shell-script/)
+- [AppleScript (2006)](https://www.cs.utexas.edu/~wcook/Drafts/2006/ashopl.pdf) ([HN](https://news.ycombinator.com/item?id=30538766))

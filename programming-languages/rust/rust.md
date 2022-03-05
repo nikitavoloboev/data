@@ -722,3 +722,4 @@
 - [A taste of Rust (2022)](https://www.hacklewayne.com/a-taste-of-rust) ([Lobsters](https://lobste.rs/s/9snlkt/taste_rust))
 - [Naive Bayes Classifier (2022)](https://www.sotr.blog/articles/naive-bayes)
 - [ddbug](https://github.com/gimli-rs/ddbug) - Display debugging information.
+- [Rust's Rules are Made to be Broken (2022)](https://blog.warp.dev/rules-are-made-to-be-broken/)

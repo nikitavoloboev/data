@@ -52,6 +52,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russia Allows Police to Search Homes, Cars Without Warrants](https://www.reddit.com/r/worldnews/comments/rlnonm/russia_allows_police_to_search_homes_cars_without/)
 - [Бояться нужно не этого. А того, что мы всю жизнь проживем в нищете, деградации. И оставим своим детям это все.](https://twitter.com/Kira_Yarmysh/status/1493580134829416452)
 - [Не тратьте время и силы на ненависть друг к другу. Именно этого и добивается машина пропаганды уже много лет.](https://twitter.com/bardulya/status/1496749131871752194)
+- ["What were you given 10 years for?" – "For nothing!" – "Don't lie to us here, now! Everybody knows 'for nothing' is 3 years."](https://news.ycombinator.com/item?id=30542596)
 
 ## Links
 
@@ -455,3 +456,12 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [What sanctions are likely to mean for the Russian economy (2022)](https://twitter.com/mironov_fm/status/1499092871265361927)
 - [Why no mass protests in Russia? (2022)](https://meduza.io/en/feature/2022/03/02/why-no-mass-protests-in-russia) ([Tweet](https://twitter.com/KevinRothrock/status/1498920365006934019))
 - [Освобождение: публичный чат](https://t.me/noarmychat) - Законно и бесплатно освобождаем от призыва в армию. Дистанционная юридическая помощь. ([Tweet](https://twitter.com/restlesswest/status/1498928174994006016))
+- [Как рассказать людям правду чтобы они поменяли свое мнение](https://twitter.com/stay_alive_g/status/1499137409212108800)
+- [Role of paratroopers in Russian military doctrine](https://twitter.com/kamilkazani/status/1499377671855292423)
+- [Агентство](https://www.agents.media/)
+- [The Kremlin Playbook 3](https://www.csis.org/features/kremlin-playbook-3)
+- [Russian firms rush to open Chinese bank accounts (2022)](https://news.ycombinator.com/item?id=30540466)
+- [The Eastern Border podcast](http://theeasternborder.lv/) - The Other Side of the Cold War. ([Twitter](https://twitter.com/Eastern_Border))
+- [Why can't they just protest against Putin.. (2022)](https://twitter.com/varya_en/status/1499464037708537861)
+- [Is the Russian Air Force Actually Incapable of Complex Air Operations? (2022)](https://rusi.org/explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t6spmz/is_the_russian_air_force_actually_incapable_of/))
+- [Why Russia Can’t Replace TSMC (2022)](https://www.youtube.com/watch?v=N_4R4X7AWtU)

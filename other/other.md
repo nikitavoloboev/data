@@ -606,3 +606,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Snowboarding for Geeks: An Ultimate Guide (2018)](https://www.xfive.co/blog/snowboarding-ultimate-guide/) ([HN](https://news.ycombinator.com/item?id=30408158))
 - [Disaster planning for regular folks: level-headed prepping tips](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 - [Ask HN: Single person creations that have stood the test of time (2022)](https://news.ycombinator.com/item?id=30500188)
+- [What are the hard pills to swallow?](https://www.reddit.com/r/AskMen/comments/t6j7l1/what_are_the_hard_pills_to_swallow/)

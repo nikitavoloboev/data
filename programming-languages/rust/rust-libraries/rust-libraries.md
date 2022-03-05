@@ -637,7 +637,7 @@
 - [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.
 - [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
 - [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust. ([Web](https://nannou.cc/)) ([HN](https://news.ycombinator.com/item?id=25343356))
-- [Criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust.
+- [Criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust. ([Improving Criterion.rs](https://www.tweag.io/blog/2022-03-03-criterion-rs/))
 - [Cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command-line wrapper for using libFuzzer. Easy to use, no need to recompile LLVM.
 - [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 - [pg-extend-rs](https://github.com/bluejekyll/pg-extend-rs) - Rust based Postgres extension.
@@ -938,7 +938,7 @@
 - [HashRing](https://github.com/jeromefroe/hashring-rs) - Minimal implementation of consistent hashing.
 - [inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope.
 - [nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies.
-- [coca](https://github.com/teryror/coca) - Allocation-free data structures that make do with the memory they're given.
+- [coca](https://github.com/teryror/coca) - Allocation-free data structures that make do with the memory they're given. ([Reddit](https://www.reddit.com/r/rust/comments/t6npfj/announcing_coca_v030_allocationfree_data/))
 - [typed-index-collections](https://github.com/zheland/typed-index-collections) - Typed index version of Rust slice and Vec containers.
 - [slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust.
 - [Erased Serde](https://github.com/dtolnay/erased-serde) - Type-erased Serialize, Serializer and Deserializer traits.

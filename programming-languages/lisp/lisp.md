@@ -174,3 +174,4 @@
 - [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html) ([HN](https://news.ycombinator.com/item?id=30443949))
 - [Ichigo Lisp](https://github.com/zick/IchigoLisp) - LISP 1.5(-ish) implementation in WebAssembly.
 - [Otus Lisp](https://github.com/yuriy-chumak/ol) - Purely functional dialect of Lisp.
+- [Early Ideas: A Modern Lisp Machine from Scratch (2018)](https://luksamuk.codes/posts/lispm-001.html)

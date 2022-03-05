@@ -458,3 +458,6 @@ all: unset
 - [Load Awesome](https://github.com/danielcardoso/load-awesome) - Awesome collection of — Pure CSS — Loaders and Spinners.
 - [Classless CSS](https://github.com/dbohdan/classless-css) - List of classless CSS themes and frameworks.
 - [CSS as the back end – introducing Cascading Server Sheets](https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih) ([HN](https://news.ycombinator.com/item?id=30497834))
+- [New CSS Features In 2022](https://www.smashingmagazine.com/2022/03/new-css-features-2022/)
+- [CSS Analytics - Project Wallace](https://www.projectwallace.com/)
+- [CSS-Checker](https://github.com/ruilisi/css-checker) - Find and Reduce Similar and Duplicated CSS Scripts.

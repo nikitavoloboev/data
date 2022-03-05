@@ -69,3 +69,4 @@
 - [Pure CSS Shaders Art](https://github.com/chenglou/pure-css-shaders-art) - Shaders art made with pure CSS.
 - [Neon Playground](https://neon-playground.herokuapp.com/) - Interactive & intuitive way to build shaders without having to write any code. ([Tweet](https://twitter.com/emilwidlund/status/1370858347923185669))
 - [A Shader Trick (2022)](http://the-witness.net/news/2022/02/a-shader-trick/) ([HN](https://news.ycombinator.com/item?id=30438541))
+- [Functional shading languages](https://www.reddit.com/r/ProgrammingLanguages/comments/t6s14z/a_functional_shading_langauge/)

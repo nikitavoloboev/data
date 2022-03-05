@@ -97,3 +97,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Problem solving strategies in a graduate real analysis course (2010)](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/) ([HN](https://news.ycombinator.com/item?id=29899156))
 - [How to program it](https://www.cs.kent.ac.uk/people/staff/sjt/Haskell_craft/HowToProgIt.html)
 - [Practical Guide to Solving Hard Problems (2022)](https://praeclarum.org/2022/02/19/hard-problems.html) ([HN](https://news.ycombinator.com/item?id=30489354))
+- [Ask HN: Books recommendations on developing critical thinking? (2022)](https://news.ycombinator.com/item?id=30542411)

@@ -293,3 +293,4 @@ zz
 - [How to turn Vim into a powerful and beautiful IDE | Jess Archer, Vimconf 2021](https://www.youtube.com/watch?v=434tljD-5C8)
 - [Lisp in Vim (2019)](https://susam.net/blog/lisp-in-vim.html)
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer.
+- [What’s your favorite vim shortcut/hack (2022)](https://lobste.rs/s/hmpuep/what_s_your_favorite_vim_shortcut_hack)

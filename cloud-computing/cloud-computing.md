@@ -53,6 +53,7 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [The PaaS (e.g. Heroku) vs. IaaS (e.g. AWS) debate needs to be revisited. For most teams, the most surefire way to blow deadlines and run over budget is to go it alone on AWS instead of sticking with a batteries-included PaaS that lets you forget about infra and focus on the app.](https://twitter.com/searls/status/1379461145799618564)
 - [Hetzner has nice cheap servers](https://twitter.com/shipilev/status/1444618666826424322)
 - [Nothing beats a good VPS server. No need for complex architectures/serverless in most projects.](https://twitter.com/pierregillesl/status/1445339116405604359)
+- [The greatest trick the cloud vendors + Snowflake ever played was convincing orgs that by spending more on storage (of raw data) and compute (data modeling), teams can transform garbage data into valuable insights.](https://twitter.com/sarahcat21/status/1499863693277876225)
 
 ## Links
 

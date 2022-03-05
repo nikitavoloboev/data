@@ -1377,6 +1377,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [treeprint](https://github.com/xlab/treeprint) - Simple ASCII tree composing tool.
 - [Merkle Tree](https://github.com/cbergoon/merkletree) - Merkle Tree implementation written in Go.
 - [New Relic Go Client](https://github.com/newrelic/newrelic-client-go)
+- [Fast JSON encoding](https://github.com/multiprocessio/go-json)
+- [lo](https://github.com/samber/lo) - Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...). ([Lobsters](https://lobste.rs/s/2bvfvs/lodash_style_go_library_based_on_go_1_18))
 
 ## Links
 
@@ -1437,3 +1439,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Making the command line glamorous with Charm (2022)](https://changelog.com/podcast/481)
 - [Bubbletea-Starter](https://github.com/knipferrc/bubbletea-starter)
 - [Go Starter](https://github.com/allaboutapps/go-starter) - Opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers.
+- [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects (2022)](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)

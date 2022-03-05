@@ -362,3 +362,4 @@
 - [List of lightweight websites without bloat](https://github.com/mdibaiee/awesome-lite-websites)
 - [host yo self](https://hostyoself.com/) - Hosting service from the browser. ([Code](https://github.com/schollz/hostyoself))
 - [Open Web Advocacy](https://open-web-advocacy.org/) ([HN](https://news.ycombinator.com/item?id=30507851))
+- [SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/) ([Lobsters](https://lobste.rs/s/ucaheg/spas_were_mistake)) ([HN](https://news.ycombinator.com/item?id=30528473))

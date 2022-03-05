@@ -292,3 +292,5 @@
 - [Ask HN: What books are recommended to learn re semiconductors industry? (2022)](https://news.ycombinator.com/item?id=30398930)
 - [From Nand to Tetris](https://www.nand2tetris.org/) - Building a Modern Computer From First Principles. ([Code](https://github.com/ghaiklor/nand-2-tetris))
 - [Koika](https://github.com/mit-plv/koika) - Core Language for Rule-Based Hardware Design.
+- [Universal Chiplet Interconnect Express UCIe 1.0 Launched (2022)](https://www.servethehome.com/universal-chiplet-interconnect-express-ucie-1-0-launched/) ([HN](https://news.ycombinator.com/item?id=30538809))
+- [What you must know about Memory, Caches, and Shared Memory](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf) ([HN](https://news.ycombinator.com/item?id=30549828))

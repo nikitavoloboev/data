@@ -50,3 +50,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [OPM](https://github.com/0xc0ffeec0de/opm) - apt-like systems package manager written in Rust for many operating systems packages.
 - [Guix](https://guix.gnu.org/) - Advanced distro and transactional package manager. ([HN](https://news.ycombinator.com/item?id=30488908))
 - [AFX](https://github.com/b4b4r07/afx) - Package manager for command-line tools and shell plugins. afx can allow us to manage almost all things available on GitHub, Gist and so on.
+- [Upt](https://github.com/sigoden/upt) - Universal Package-management Tool for Windows, macOS and Linux.

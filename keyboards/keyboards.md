@@ -150,3 +150,4 @@ I am currently using builtin 2020 MacBook keyboard and love it. I love the low k
 - [How do you use layers on your keyboard? (2021)](https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard)
 - [Keyboards and Open-Source (2022)](https://cullmann.io/posts/keyboards-and-open-source/) ([HN](https://news.ycombinator.com/item?id=30055794))
 - [clavier](https://github.com/MaxHalford/clavier) - Measure edit distance based on keyboard layout.
+- [Ask HN: What are some good keyboards? (2022)](https://news.ycombinator.com/item?id=30549628)

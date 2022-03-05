@@ -115,3 +115,4 @@
 - [Software engineer interns on their first day be like...](https://www.youtube.com/watch?v=YZ5tOe7y9x4)
 - [hiccupFX.js](https://hiccupfx.telnet.asia/) - Get that "client side render" look. ([Lobsters](https://lobste.rs/s/oybdsa/get_client_side_render_look)) ([HN](https://news.ycombinator.com/item?id=29948866))
 - [You unsubscribed from our email list. Our unsubscribe donkey, Pepe, will begin his journey; your request should be processed in 4-6 weeks](https://twitter.com/brad_frost/status/786928845798641664)
+- [Interview with Senior JS Developer in 2022](https://www.youtube.com/watch?v=Uo3cL4nrGOk) ([Reddit](https://www.reddit.com/r/programming/comments/t5smoi/js_funny_interview_should_you_learn_jsnopeis/))

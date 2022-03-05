@@ -436,3 +436,4 @@ for i, _ in enumerate(nums):
 - [pprofile](https://github.com/vpelletier/pprofile) - Line-granularity, thread-aware deterministic and statistic pure-python profiler.
 - [Understanding Decorators in Python (2022)](https://bas.codes/posts/python-decorators)
 - [Raccoon](https://github.com/appcypher/raccoon) - Language with Python 3.x syntax that is amenable to static analysis.
+- [CPython, C standards, and IEEE 754 (2022)](https://lwn.net/SubscriberLink/886516/d835ee6026544345/) ([HN](https://news.ycombinator.com/item?id=30545466))

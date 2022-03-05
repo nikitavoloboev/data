@@ -166,6 +166,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [use-gauge](https://github.com/mattrothenberg/use-gauge) - Headless React hook for building beautiful gauge charts.
 - [Watchable](https://github.com/shortwave/watchable) - Library to expose state into React.
 - [Alibaba Hooks](https://github.com/alibaba/hooks) - High-quality & reliable React Hooks library. ([Docs](https://ahooks.js.org/hooks/use-request/index))
+- [Recoil Persist](https://github.com/polemius/recoil-persist) - Tiny module for recoil to store and sync state to Storage.
 
 ## Code
 

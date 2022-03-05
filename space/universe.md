@@ -58,3 +58,4 @@
 - [Observable universe on an increasingly compact scale](https://twitter.com/Rainmaker1973/status/1471404732229066758)
 - [Disambiguating the ‘Observable Universe’ (2022)](https://samenright.com/2022/01/09/disambiguating-the-observable-universe/) ([HN](https://news.ycombinator.com/item?id=29867600))
 - [How did early physicists know that the universe is expanding? (2022)](https://www.reddit.com/r/AskPhysics/comments/spvf5h/how_did_early_physicists_know_that_the_universe/)
+- [What were some popular theories about the origin of the Universe before we accepted the Big Bang as the best one?](https://www.reddit.com/r/askscience/comments/t6nrtj/what_were_some_popular_theories_about_the_origin/)

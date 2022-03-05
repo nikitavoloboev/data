@@ -721,3 +721,4 @@ if err != nil {
 - [Reproducing Go binaries byte-by-byte (2017)](https://words.filippo.io/reproducing-go-binaries-byte-by-byte/)
 - [Is Go's Grammar Context Free? (2022)](https://blog.dnmfarrell.com/post/is-golangs-grammar-context-free/) ([Lobsters](https://lobste.rs/s/h9ypxi/is_golang_s_grammar_context_free))
 - [Can Generics Rescue Go's Clunky Error Handling? (2022)](https://blog.dnmfarrell.com/post/can-generics-rescue-golangs-clunky-error-handling/)
+- [Go: A Documentary](https://golang.design/history/)

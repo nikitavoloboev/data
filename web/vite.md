@@ -33,3 +33,4 @@
 - [vite-rtk-query](https://github.com/laststance/vite-rtk-query) - Vite template for React + TypeScript + Redux-toolkit / RTK Query.
 - [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based routing for Vue 3 / React applications using Vite.
 - [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown with Vue for Vite.
+- [Vite Ecosystem CI](https://github.com/vitejs/vite-ecosystem-ci)

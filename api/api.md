@@ -347,3 +347,4 @@
 - [Postman Code Generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman.
 - [Docgen](https://github.com/thedevsaddam/docgen) - Transform your postman collection to HTML/Markdown documentation.
 - [Anicca](https://github.com/xuorig/anicca) - Get a diff between two OpenAPI descriptions.
+- [Apitest](https://github.com/sigoden/apitest) - Declarative API testing tool with JSON-like DSL.

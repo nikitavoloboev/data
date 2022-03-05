@@ -22,7 +22,7 @@
 - [Remote in Japan](https://github.com/remote-jp/remote-in-japan/blob/master/README.en.md) - Technology companies that allow remote work in Japan.
 - [Analyzing the Design of Unusual Japanese Butter Tableware (2020)](https://www.core77.com/posts/102355/Analyzing-the-Design-of-Unusual-Japanese-Butter-Tableware) ([HN](https://news.ycombinator.com/item?id=24814038))
 - [A Short History of Romaji (2020)](https://www.dampfkraft.com/romaji-history.html) ([HN](https://news.ycombinator.com/item?id=25108455))
-- [Why Japanese Web Design Is So Different – Cultural, Linguistic & Technical Factors (2013)](https://randomwire.com/why-japanese-web-design-is-so-different/) ([HN](https://news.ycombinator.com/item?id=25148942))
+- [Why Japanese Web Design Is So Different – Cultural, Linguistic & Technical Factors (2013)](https://randomwire.com/why-japanese-web-design-is-so-different/) ([HN](https://news.ycombinator.com/item?id=25148942)) ([Reddit](https://www.reddit.com/r/programming/comments/t5gsaf/why_japanese_web_design_is_so_different_cultural/)) ([HN](https://news.ycombinator.com/item?id=30523955))
 - [NativShark](https://www.nativshark.com/) - Comprehensive all-in-one system for learning Japanese.
 - [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s) ([HN](https://news.ycombinator.com/item?id=25344354))
 - [Tagaini Jisho](https://www.tagaini.net/) - Free, open-source Japanese dictionary and kanji lookup tool. ([Code](https://github.com/Gnurou/tagainijisho))

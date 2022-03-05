@@ -307,6 +307,7 @@ Here are few more things I liked, design wise.
 - [David East](https://davidea.st/) ([Code](https://github.com/davideast/site))
 - [Jon Gold](https://jon.gold/)
 - [Eric Vanular](https://ericvanular.com/)
+- [Jesse Zhou](https://jesse-zhou.com/)
 - [Bilal Khan](https://bilal.software/)
 - [Albin Groen](https://albingroen.com/)
 - [Haki Benita](https://hakibenita.com/)

@@ -168,3 +168,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [TopHat](https://github.com/Athenodoros/TopHat) - Offline-first personal finances app.
 - [Tell HN: SWIFT is not a payments transfer system (2022)](https://news.ycombinator.com/item?id=30510928)
 - [Moving money internationally (2022)](https://bam.kalzumeus.com/archive/moving-money-internationally/) ([HN](https://news.ycombinator.com/item?id=30535225))
+- [How international money transfers work (2016)](https://media.ccc.de/v/33c3-8315-a_world_without_blockchain) ([HN](https://news.ycombinator.com/item?id=30540125))

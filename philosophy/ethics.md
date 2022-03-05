@@ -24,3 +24,4 @@
 - [Descriptive ethics - Wikipedia](https://en.wikipedia.org/wiki/Descriptive_ethics)
 - [Ask Delphi](https://delphi.allenai.org/) - Delphi is computational model for descriptive ethics.
 - [W3C TAG Ethical Web Principles](https://w3ctag.github.io/ethical-web-principles/) ([Code](https://github.com/w3ctag/ethical-web-principles))
+- [How to understand if a certain attack is a war crime?](https://twitter.com/OPokalchuk/status/1499328463081070594)

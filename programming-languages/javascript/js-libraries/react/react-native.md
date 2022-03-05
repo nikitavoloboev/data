@@ -190,3 +190,4 @@
 - [Optimize your VS Code setup for React Native with Jamon and David (2022)](https://www.youtube.com/watch?v=xIeA3BCaoPk)
 - [React Native Health](https://github.com/agencyenterprise/react-native-health) - Interact with Apple HealthKit.
 - [React Native Pan Pinch View](https://github.com/fakeheal/react-native-pan-pinch-view) - View component for React Native with pinch to zoom and drag to pan functionality.
+- [SWR + React Native](https://github.com/nandorojo/swr-react-native) - React Native/React Navigation compatibility for Vercel's useSWR hook.

@@ -99,6 +99,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/)
 - [Monego](https://github.com/cseelus/monego) - Beloved Monaco monospaced font, recreated with bold and italic variants.
 - [Newsreader](https://github.com/productiontype/Newsreader) - Original typeface designed by Production Type, primarily intended for continuous on-screen reading in content-rich environments.
+- [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono) ([Lobsters](https://lobste.rs/s/eyd8up/berkeley_mono))
 
 ## Links
 

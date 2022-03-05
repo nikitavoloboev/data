@@ -343,3 +343,4 @@
 - [MathBook.Info](https://mathbook.info/) - Интерактивные книги по математике.
 - [Math3d](https://www.math3d.org/) - User-friendly 3d graphing calculator for the web. Create, share, and animate 3d mathematical scenes. ([Code](https://github.com/ChristopherChudzicki/math3d-react))
 - [1 thing in math you wish you had intuition for, but you don't](https://twitter.com/SC_Griffith/status/1494925459267674113)
+- [Optics vs Lenses, Operationally (2022)](https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html)
