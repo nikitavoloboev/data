@@ -588,3 +588,4 @@
 - [Rethinking Coarse-to-Fine Approach in Single Image Deblurring (2021)](https://arxiv.org/abs/2108.05054) ([Code](https://github.com/chosj95/MIMO-UNet))
 - [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling (2021)](https://arxiv.org/abs/2102.06183) ([Code](https://github.com/jayleicn/ClipBERT))
 - [As-ViT: Auto-scaling Vision Transformers without Training (2022)](https://arxiv.org/abs/2202.11921) ([Code](https://github.com/VITA-Group/AsViT))
+- [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers)

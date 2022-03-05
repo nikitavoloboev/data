@@ -439,6 +439,7 @@
 - [Rust iptables](https://github.com/yaa110/rust-iptables) - Bindings for iptables application in Linux.
 - [listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation.
 - [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) - Rust Language Bindings for the libseccomp Library.
+- [libsystemd](https://github.com/lucab/libsystemd-rs) - Pure-Rust client library to work with systemd.
 
 ## Embedded
 
@@ -467,6 +468,7 @@
 - [Cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
 - [tongrams-rs](https://github.com/kampersanda/tongrams-rs) - Rust port of tongrams to index and query large language models in compressed space.
 - [Rust OpenCV bindings](https://github.com/twistedfall/opencv-rust)
+- [video-toolbox-sys](https://github.com/bschwind/video-toolbox-sys) - Rust bindings to Apple's Video Toolbox framework.
 
 ## macOS
 

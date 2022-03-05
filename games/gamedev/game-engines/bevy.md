@@ -1,5 +1,9 @@
 # [Bevy Engine](https://bevyengine.org/)
 
+## OSS Bevy apps
+
+- [Country Slice](https://github.com/anopara/country-slice) - Toy project, written in Rust language with Bevy's ECS and OpenGL (gl-rs and glutin).
+
 ## Links
 
 - [Bevy Rapier](https://github.com/dimforge/bevy_rapier) - Rapier plugin for the Bevy game engine.

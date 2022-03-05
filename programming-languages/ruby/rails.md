@@ -123,3 +123,5 @@
 - [Rails adds support for Fiber-safe ActiveRecord ConnectionPools (2022)](https://blog.saeloun.com/2022/02/23/rails-fiber-safe-connection-pools.html) ([HN](https://news.ycombinator.com/item?id=30454043))
 - [The In-depth Guide to ActiveRecord load_async in Rails 7 (2022)](https://pawelurbanek.com/rails-load-async)
 - [Rails 7 application inside Docker on macOS: Part two - database and Mutagen (2022)](https://bpohoriletz.github.io/2022/03/01/rails-7-app-inside-docker-on-osx-2.html)
+- [Turbo Rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app.
+- [Stimulus for Rails](https://github.com/hotwired/stimulus-rails)

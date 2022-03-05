@@ -100,6 +100,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [BotFather](https://t.me/botfather) - Use it to create new bot accounts and manage your existing bots.
 - [crate_upd_bot](https://github.com/WaffleLapkin/crate_upd_bot) - Telegram bot that notifies about crate updates.
 - [Xor](https://github.com/xorgram/xor) - User bot. Redefined.
+- [TgTranslator](https://t.me/tgtranslatorbot) - Telegram bot that removes language barrier between people in groups. ([Code](https://github.com/Dubzer/TgTranslator))
 
 ## Notes
 

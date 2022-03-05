@@ -432,6 +432,7 @@
 - [ObservableStore](https://github.com/gordonbrander/ObservableStore) - Lightweight Elm-like Store for SwiftUI.
 - [Snappable](https://github.com/hugehoge/Snappable) - SwiftUI custom modifiers to make the ScrollView snappable.
 - [DynamicOverlay](https://github.com/faberNovel/DynamicOverlay) - SwiftUI library that makes easier to develop overlay based interfaces, such as the one presented in the Apple Maps app.
+- [TabBar](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for your SwiftUI application.
 
 ## Test
 

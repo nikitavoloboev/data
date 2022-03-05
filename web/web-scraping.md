@@ -158,3 +158,4 @@
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
 - [Pinterest Downloader](https://github.com/limkokhole/pinterest-downloader) - Download all images/videos from Pinterest user/board/section.
 - [More notes on writing web scrapers (2022)](https://cushychicken.github.io/more-web-scraper-notes/) ([HN](https://news.ycombinator.com/item?id=30466687))
+- [scraperlite](https://github.com/danp/scraperlite) - Scrape text and HTML based on CSS selectors and save contents to a SQLite database.

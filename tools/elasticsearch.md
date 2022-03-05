@@ -58,3 +58,4 @@
 - [Mirage](https://opensource.appbase.io/mirage/) - GUI for simplifying Elasticsearch Query DSL. ([Code](https://github.com/appbaseio/mirage))
 - [Elastiknn](https://github.com/alexklibisz/elastiknn) - Elasticsearch plugin and Lucene library for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms. ([Web](https://elastiknn.com/))
 - [Blaze](https://github.com/unidentifieddeveloper/blaze) - Blazing fast exporter for your Elasticsearch data.
+- [Export Data from ElasticSearch to CSV by Raw or Lucene Query](https://github.com/pteich/elastic-query-export)

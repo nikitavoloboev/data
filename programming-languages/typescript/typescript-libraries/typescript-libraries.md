@@ -377,6 +377,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [event](https://github.com/denosaurs/event) - Strictly typed event emitter with asynciterator support.
 - [ultimate/vault](https://github.com/ultimatecourses/vault) - Typed localStorage and sessionStorage utility with data structure and prefix support.
 - [ESP-TypeScript](https://github.com/skittleson/ESP-TypeScript) - Transpile TypeScript to Espruino flavor of JavaScript for ESP8266/ESP32 microcontrollers template project.
+- [Viselect](https://github.com/Simonwep/selection) - Simple and lightweight library to add a visual way of selecting elements, just like on your Desktop.
 
 ## Links
 

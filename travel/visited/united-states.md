@@ -115,3 +115,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [Which of the American (bigger) news channels show news in the most objective way? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/t2uiyy/which_of_the_american_bigger_news_channels_show/)
 - [Ask HN: Why wasn't the USA sanctioned over it's war with Iraq? (2022)](https://news.ycombinator.com/item?id=30527361)
 - [I'm a digital nomad. Should I renounce my US citizenship? (2022)](https://fireshouter.substack.com/p/im-a-digital-nomad-should-i-renounce) ([HN](https://news.ycombinator.com/item?id=30537515))
+- [The Far Reach of the White House's Zero Trust Memo (2022)](https://www.pomerium.com/blog/white-house-zt-memo/)

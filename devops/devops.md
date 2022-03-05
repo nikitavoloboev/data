@@ -146,3 +146,4 @@
 - [Cincinnati](https://github.com/openshift/cincinnati) - Update protocol designed to facilitate automatic updates.
 - [Ministry of Justice Modernization Platform](https://github.com/ministryofjustice/modernisation-platform) - Defined and managed in Terraform.
 - [fw](https://github.com/brocode/fw) - Workspace productivity booster.
+- [Motive](https://github.com/wess/motive) - Programmable Task runner built with Rust and uses a special version of Lua. ([Reddit](https://www.reddit.com/r/rust/comments/t5vozl/motive_programmable_task_runner_built_with_rust/))

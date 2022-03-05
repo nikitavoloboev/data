@@ -607,3 +607,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Disaster planning for regular folks: level-headed prepping tips](https://lcamtuf.coredump.cx/prep/index-old.shtml)
 - [Ask HN: Single person creations that have stood the test of time (2022)](https://news.ycombinator.com/item?id=30500188)
 - [What are the hard pills to swallow?](https://www.reddit.com/r/AskMen/comments/t6j7l1/what_are_the_hard_pills_to_swallow/)
+- [Collections: How the Weak Can Win – A Primer on Protracted War (2022)](https://acoup.blog/2022/03/03/collections-how-the-weak-can-win-a-primer-on-protracted-war/)

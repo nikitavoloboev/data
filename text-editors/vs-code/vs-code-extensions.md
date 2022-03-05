@@ -173,6 +173,7 @@ Below is a list of extensions I use.
 - [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx) - VSCode emacs keybinding with multi cursor support. ([Code](https://github.com/whitphx/vscode-emacs-mcx))
 - [Home Assistant Config Helper](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) - Completion for entity-id's in Home Assistant Configurations. ([Code](https://github.com/keesschollaart81/vscode-home-assistant))
 - [textlint](https://marketplace.visualstudio.com/items?itemName=taichi.vscode-textlint) - Integrates Textlint into VS Code. ([Code](https://github.com/taichi/vscode-textlint))
+- [Playwright Test](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Integrates Playwright Test into your VSCode workflow. ([Code](https://github.com/microsoft/playwright-vscode))
 
 ## Shell
 

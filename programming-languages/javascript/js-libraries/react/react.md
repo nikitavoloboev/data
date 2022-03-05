@@ -300,3 +300,4 @@
 - [System Design React Code Examples](https://github.com/madhu-sagar/system-design-react-code-examples)
 - [Advice in setting up React project (2022)](https://www.reddit.com/r/reactjs/comments/sspw6k/first_time_setting_up_a_greenfield_project/)
 - [ASAP](https://github.com/mechanize-systems/asap) - Opinionated application server for React Single Page Applications.
+- [800 slides on various React topics](https://marko-knoebl.github.io/slides/react-all-en.html) ([Reddit](https://www.reddit.com/r/reactjs/comments/t6kkco/i_teach_react_courses_heres_my_updated_collection/))

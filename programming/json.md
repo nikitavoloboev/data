@@ -110,3 +110,4 @@
 - [What's the Difference: JSON diff and patch](https://github.com/terminusdb/technical-blogs/blob/main/blogs/json_diff_and_patch.md) ([HN](https://news.ycombinator.com/item?id=30362025))
 - [xq](https://github.com/MiSawa/xq) - JQ reimplemented purely in Rust.
 - [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean JavaScript implementation of the JSON-Patch standard. Update JSON documents using delta patches.
+- [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line.

@@ -723,3 +723,4 @@
 - [Naive Bayes Classifier (2022)](https://www.sotr.blog/articles/naive-bayes)
 - [ddbug](https://github.com/gimli-rs/ddbug) - Display debugging information.
 - [Rust's Rules are Made to be Broken (2022)](https://blog.warp.dev/rules-are-made-to-be-broken/)
+- [Rust By Practice](https://practice.rs/) - Practice Rust with typical examples, challenging exercises and small practical projects. ([Code](https://github.com/sunface/rust-by-practice))

@@ -489,6 +489,7 @@
 - [ControlSystemIdentification](https://github.com/baggepinnen/ControlSystemIdentification.jl) - System Identification toolbox for LTI systems, compatible with ControlSystems.jl.
 - [ArrayLayouts](https://github.com/JuliaMatrices/ArrayLayouts.jl) - Julia package for describing array layouts and more general fast linear algebra.
 - [Static](https://github.com/SciML/Static.jl) - Static types useful for dispatch and generated functions.
+- [ProtoBuf.jl](https://github.com/JuliaIO/ProtoBuf.jl) - Julia protobuf implementation.
 
 ## Links
 

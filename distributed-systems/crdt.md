@@ -72,3 +72,4 @@
 - [delta-crdts](https://github.com/peer-base/js-delta-crdts) - Delta State-based CRDTs in JavaScript.
 - [Y-Py](https://github.com/y-crdt/ypy) - Python binding for Y-CRDT.
 - [CRDT: Conflict-free Replicated Data Types (2018)](https://medium.com/@amberovsky/crdt-conflict-free-replicated-data-types-b4bfc8459d26)
+- [Making CRDTs Byzantine Fault Tolerant](https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf) ([HN](https://news.ycombinator.com/item?id=30560573))

@@ -42,3 +42,4 @@
 - [Layer 4 (TCP/UDP) app for Caddy](https://github.com/mholt/caddy-l4)
 - [caddy-redirects](https://github.com/vinissimus/caddy-redirects) - Provides a middleware that redirects matching URL to another path.
 - [certmagic-sqlstorage](https://github.com/yroc92/postgres-storage) - SQL storage for CertMagic/Caddy TLS data.
+- [Consul K/V Storage for Caddy TLS data](https://github.com/pteich/caddy-tlsconsul)

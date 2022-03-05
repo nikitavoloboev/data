@@ -1379,6 +1379,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [New Relic Go Client](https://github.com/newrelic/newrelic-client-go)
 - [Fast JSON encoding](https://github.com/multiprocessio/go-json)
 - [lo](https://github.com/samber/lo) - Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...). ([Lobsters](https://lobste.rs/s/2bvfvs/lodash_style_go_library_based_on_go_1_18))
+- [mast](https://github.com/jrhy/mast) - Go immutable, versioned, diffable map implementation of Merkle Search Trees.
+- [MP4](https://github.com/alfg/mp4) - Basic MP4 reader in Go.
 
 ## Links
 
