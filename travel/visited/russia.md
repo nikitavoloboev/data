@@ -471,3 +471,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Инструкция по персональной цифровой безопасности для тех, кто в России](https://samatg.notion.site/samatg/f61a6016b79546bba32172de0bb40a1f)
 - [Why western sanctions are unlikely to topple Russian authoritative regime (2022)](https://twitter.com/olga_chyzh/status/1500257111770550273)
 - [Екатерина Шульман - как нам это пережить (2022)](https://www.youtube.com/watch?v=dFJuCRWI6sU)
+- [Moscow police officers stop people, request their phones to read their messages (2022)](https://twitter.com/KevinRothrock/status/1500458582902460420) ([HN](https://news.ycombinator.com/item?id=30578125))
+- [Putin’s mistakes (2022)](https://gubbdjavel.com/2022/03/03/putins-mistakes/)
+- [Meaning of Russian "Z" fascist symbol (2022)](https://twitter.com/kamilkazani/status/1500495309595725831)
+- [How the US & Europe can cut Russian oil sales while limiting adverse side effects](https://twitter.com/edwardfishman/status/1500496727526281220)

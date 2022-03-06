@@ -80,7 +80,7 @@
 - [Verifiable C (2020)](https://softwarefoundations.cis.upenn.edu/vc-current/)
 - [Rust-style futures in C (2020)](https://axelforsman.tk/2020/08/24/rust-style-futures-in-c.html)
 - [The problem with C compatibility in C++ (2020)](https://cor3ntin.github.io/posts/c/) ([Lobsters](https://lobste.rs/s/e27sea/problem_with_c)) ([HN](https://news.ycombinator.com/item?id=24352258))
-- [Essential C (2003)](http://cslibrary.stanford.edu/101/EssentialC.pdf) ([HN](https://news.ycombinator.com/item?id=24356246))
+- [Essential C (2003)](http://cslibrary.stanford.edu/101/EssentialC.pdf) ([HN](https://news.ycombinator.com/item?id=24356246)) ([HN](https://news.ycombinator.com/item?id=30566118))
 - [Modern C](https://modernc.gforge.inria.fr/) ([HN](https://news.ycombinator.com/item?id=24361469)) ([Lobsters](https://lobste.rs/s/01brvr/modern_c))
 - [C FAQ](http://www.c-faq.com/)
 - [Massacring C Pointers (2018)](https://wozniak.ca/blog/2018/06/25/1/index.html) ([HN](https://news.ycombinator.com/item?id=24376622)) ([Lobsters](https://lobste.rs/s/gim6hg/massacring_c_pointers_2018))

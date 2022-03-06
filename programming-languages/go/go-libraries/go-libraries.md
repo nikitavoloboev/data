@@ -1389,6 +1389,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [zap](https://github.com/gin-contrib/zap) - Alternative logging through zap.
 - [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 - [go-querystring](https://github.com/google/go-querystring) - Go library for encoding structs into URL query strings.
+- [go-message](https://github.com/emersion/go-message) - Streaming Go library for the Internet Message Format and mail messages.
 
 ## Links
 

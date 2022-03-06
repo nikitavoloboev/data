@@ -328,3 +328,4 @@
 - [request-retry](https://github.com/FGRibreau/node-request-retry) - HTTP(s) request retry on recoverable errors.
 - [timecut](https://github.com/tungs/timecut) - Node.js program to record smooth movies of web pages with JavaScript animations.
 - [japa/runner](https://github.com/japa/runner) - API first tests runner for Node.js.
+- [Server-sent events for NodeJS](https://github.com/triblondon/node-sse-pubsub)

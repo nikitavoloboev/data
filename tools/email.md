@@ -221,3 +221,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Running a private mail server for six years, easy peasy (2021)](https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html) ([HN](https://news.ycombinator.com/item?id=30428882))
 - [Email to Phone Number Osint Tool (2019)](https://www.martinvigo.com/email2phonenumber/)
 - [smtp-server](https://github.com/nodemailer/smtp-server) - Create custom SMTP servers on the fly.
+- [Using email wrong (2022)](https://arne.me/blog/youre-using-email-wrong/) ([HN](https://news.ycombinator.com/item?id=30579189))

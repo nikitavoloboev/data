@@ -334,3 +334,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Osdev Notes](https://github.com/dreamos82/Osdev-Notes)
 - [Bootloader Basics (2022)](https://notes.eatonphil.com/bootloader-basics.html)
 - [Ask HN: What is the oldest, still supported OS? (2022)](https://news.ycombinator.com/item?id=30505219)
+- [CS Course: Design and Implementation of Operating Systems (2021)](https://www.cs.yale.edu/flint/cs422/index.html)

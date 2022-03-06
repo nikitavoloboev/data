@@ -180,6 +180,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
 - [kindaVim](https://github.com/godbout/kindaVim) - Vim moves for the whole macOS. in input fields and more. ([Web](https://kindavim.app/)) ([Web Code](https://github.com/godbout/kindaVim.theapp))
 - [One Switch](https://fireball.studio/oneswitch)
+- [Quiver](https://happenapps.com/#quiver) - Programmer's Notebook.
 
 ## Links
 

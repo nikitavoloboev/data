@@ -38,3 +38,4 @@
 - [Awesome trunk based development](https://github.com/cgbystrom/awesome-trunk-based-dev)
 - [Bump](https://github.com/wader/bump) - Generic version tracking and update tool.
 - [Generating A Changelog](https://github.com/Kong/changelog-generator) - Changelog generator focused on ease of use and flexibility.
+- [Ask HN: Do you pull and run code as part of code review? (2022)](https://news.ycombinator.com/item?id=30577735)
