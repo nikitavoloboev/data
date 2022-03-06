@@ -1387,6 +1387,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [fasttime](https://github.com/phuslu/fasttime) - Fast time formatting for go.
 - [zap](https://github.com/gin-contrib/zap) - Alternative logging through zap.
 - [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
+- [go-querystring](https://github.com/google/go-querystring) - Go library for encoding structs into URL query strings.
 
 ## Links
 

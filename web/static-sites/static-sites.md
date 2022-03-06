@@ -114,3 +114,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [hyperlink](https://github.com/untitaker/hyperlink) - Command-line tool to find broken links in your static site / markdown.
 - [Static Site Generators](https://staticsitegenerators.net/) - Definitive listing of Static Site Generators. ([Code](https://github.com/bevry/staticsitegenerators-list))
 - [There is no such thing as a static website (2022)](https://blog.wesleyac.com/posts/no-static-websites) ([Lobsters](https://lobste.rs/s/itcl7j/there_is_no_such_thing_as_static_website))
+- [Self-Host Your Static Assets (2019)](https://csswizardry.com/2019/05/self-host-your-static-assets/)

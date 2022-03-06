@@ -223,3 +223,4 @@
 - [metatags](https://github.com/microlinkhq/metatags) - Ensure your HTML is previewed beautifully across social networks.
 - [Explain the first 10 lines of Twitter's source code to me (2022)](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/) ([HN](https://news.ycombinator.com/item?id=30468793))
 - [Obscure HTML Tags](https://devapt.com/html-tags) ([HN](https://news.ycombinator.com/item?id=30469695))
+- [It's always been you, Canvas2D (2022)](https://developer.chrome.com/blog/canvas2d/) ([HN](https://news.ycombinator.com/item?id=30553585))

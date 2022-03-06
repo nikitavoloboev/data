@@ -367,3 +367,4 @@
 - [webmention-receiver](https://github.com/WesleyAC/webmention-receiver) - Simple, easy to run webmention receiver.
 - [Understanding The Web Security Model, Part I: Web Publishing (2022)](https://educatedguesswork.org/posts/web-security-model-intro1/)
 - [The perils of the “real” client IP (2022)](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
+- [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization)

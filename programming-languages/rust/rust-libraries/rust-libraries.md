@@ -228,6 +228,7 @@
 - [diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation.
 - [SQLite](https://github.com/stainless-steel/sqlite) - Provides an interface to SQLite.
 - [Syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust.
+- [xql](https://github.com/arch-mage/xql) - SQL query builder for sqlx.
 
 ## Video
 

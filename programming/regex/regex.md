@@ -88,3 +88,4 @@ Match all that don't have notes or twitter in input
 - [Melody](https://github.com/yoav-lavi/melody) - Language that compiles to regular expressions and aims to be more easily readable and maintainable. ([HN](https://news.ycombinator.com/item?id=30358554)) ([Reddit](https://www.reddit.com/r/programming/comments/stvxxa/melody_a_language_that_compiles_to_regular/))
 - [Alternative Regex Syntax](https://github.com/oilshell/oil/wiki/Alternative-Regex-Syntax) ([Lobsters](https://lobste.rs/s/molbhc/alternative_regex_syntax))
 - [Python support for regular expressions (2022)](https://lwn.net/SubscriberLink/885682/ebb44eea5667f358/)
+- [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/) ([HN](https://news.ycombinator.com/item?id=30564287))

@@ -992,6 +992,7 @@
 - [CodableCSV](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row or through Swift's Codable interface.
 - [Swift Tree Sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library.
 - [APNGKit](https://github.com/onevcat/APNGKit) - High performance framework for loading and displaying APNG images in iOS and macOS.
+- [DateHelper](https://github.com/melvitax/DateHelper) - Swift Date extension helper.
 
 ## Other (not lib)
 

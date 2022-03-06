@@ -144,3 +144,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Foods with the most vertical differentiation / price variation](https://twitter.com/deaneckles/status/1495547614162567170)
 - [Healthy high-calorie foods (2022)](https://www.reddit.com/r/nutrition/comments/syaqyo/what_are_some_healthy_highcalorie_foods/)
 - [What are the most fascinating/informative/mind blowing books you have read about food/nutrition? (2022)](https://www.reddit.com/r/nutrition/comments/t31skt/what_are_the_most_fascinatinginformativemind/)
+- [Foods that promote gut health](https://www.reddit.com/r/nutrition/comments/t7p391/what_are_foods_that_promote_gut_health/)

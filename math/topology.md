@@ -24,3 +24,4 @@
 - [In Topology When Are Two Shapes the Same? (2021)](https://www.quantamagazine.org/in-topology-when-are-two-shapes-the-same-20210928/) ([HN](https://news.ycombinator.com/item?id=28735883))
 - [An Introduction to Topos Theory (2011)](https://www.fuw.edu.pl/~kostecki/ittt.pdf) ([HN](https://news.ycombinator.com/item?id=29366870))
 - [Topology and Computability (2022)](https://billwadge.com/2022/01/25/topology-and-computability/)
+- [Non-Hermitian topology in rock–paper–scissors games (2022)](https://www.nature.com/articles/s41598-021-04178-8)

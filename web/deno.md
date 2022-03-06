@@ -190,3 +190,4 @@
 - [deno_depchecker](https://github.com/DjDeveloperr/deno_depchecker) - Analyze dependencies in your Deno project.
 - [Netsaur](https://github.com/denosaurs/netsaur) - GPU powered neural network Deno module.
 - [pin](https://github.com/kitsonk/pin) - Dependency management solution for Deno.
+- [ReScript on Deno: Declarative Command Line Tools](https://practicalrescript.com/rescript-on-deno-declarative-command-line-tools/) ([Reddit](https://www.reddit.com/r/javascript/comments/t7buew/rescript_on_deno_declarative_command_line_tools/))

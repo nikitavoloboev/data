@@ -468,3 +468,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Фотопроект: Россия с другим вариантом флага](https://tjournal.ru/internet/552118-fotoproekt-rossiya-s-drugim-variantom-flaga)
 - [Russian economy is super fragile: It's critically dependent upon the: 1. Export of natural resources. 2. Technological import.](https://twitter.com/kamilkazani/status/1499855858456567809)
 - [How did Russia get so big?](https://kamilkazani2.substack.com/p/how-did-russia-get-so-big?s=r)
+- [Инструкция по персональной цифровой безопасности для тех, кто в России](https://samatg.notion.site/samatg/f61a6016b79546bba32172de0bb40a1f)
+- [Why western sanctions are unlikely to topple Russian authoritative regime (2022)](https://twitter.com/olga_chyzh/status/1500257111770550273)
+- [Екатерина Шульман - как нам это пережить (2022)](https://www.youtube.com/watch?v=dFJuCRWI6sU)

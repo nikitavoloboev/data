@@ -313,3 +313,4 @@
 - [C++ header files and inter-class connections (2022)](https://rachelbythebay.com/w/2022/02/26/include/) ([Lobsters](https://lobste.rs/s/n2hirb/c_header_files_inter_class_connections))
 - [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
 - [cpplint](https://github.com/cpplint/cpplint) - Static code checker for C++.
+- [C++ resources (2022)](https://twitter.com/claucece/status/1500223555912585223)
