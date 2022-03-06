@@ -40,6 +40,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [micromorph](https://github.com/natemoo-re/micromorph) - Very tiny library for diffing DOM nodes.
 - [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [ts-elmish](https://github.com/iyegoroff/ts-elmish) - Elmish architecture in Typescript.
+- [blockdom](https://github.com/ged-odoo/blockdom) - Fast virtual DOM library.
 
 ## Test
 

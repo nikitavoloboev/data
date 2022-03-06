@@ -1450,3 +1450,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Bubbletea-Starter](https://github.com/knipferrc/bubbletea-starter)
 - [Go Starter](https://github.com/allaboutapps/go-starter) - Opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers.
 - [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects (2022)](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
+- [SQL Query Strategy for complex structs (2022)](https://www.reddit.com/r/golang/comments/t7w2qo/sql_query_strategy_for_complex_structs/)

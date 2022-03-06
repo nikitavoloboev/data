@@ -824,6 +824,7 @@
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG.
 - [letMeScroll](https://github.com/BMSVieira/letmescroll.js) - Scroll made easy.
+- [Flowed](https://github.com/danielduarte/flowed) - Fast and reliable flow engine for orchestration and more uses in Node.js, Deno and the browser.
 
 ## Links
 

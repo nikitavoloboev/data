@@ -291,6 +291,7 @@
 - [Softy](https://github.com/elrnv/softy) - Simulation tools for animating interacting soft objects.
 - [vtkio](https://github.com/elrnv/vtkio) - Visualization ToolKit (VTK) file parser and writer.
 - [rui](https://github.com/audulus/rui) - Rust UI library, inspired by SwiftUI. ([Reddit](https://www.reddit.com/r/rust/comments/t4cyp6/rui_experimental_declarative_rust_ui_library/))
+- [Screen 13](https://github.com/attackgoat/screen-13) - Easy-to-use 2D/3D rendering engine in the spirit of QBasic.
 
 ## Games
 
@@ -452,6 +453,7 @@
 - [embed-c](https://github.com/zdimension/embed-c) - Allows you to embed C code inside Rust code files.
 - [stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal) - Hardware abstraction layer for the stm32l432xx series chips written in rust.
 - [lm3s6965](https://github.com/japaric/lm3s6965) - Minimal device crate for the LM3S6965 (Cortex-M3) microcontroller.
+- [fugit](https://github.com/korken89/fugit) - Provides a comprehensive library of `Duration` and `Instant` for the handling of time in embedded systems, doing all it can at compile time.
 
 ## ML
 
@@ -1544,6 +1546,8 @@
 - [celerity](https://github.com/BrainiumLLC/celerity) - Buttery smooth animation toolkit.
 - [extrasafe](https://github.com/boustrophedon/extrasafe) - Make your code extra-safe by voluntarily dropping privileges.
 - [rust-stats](https://github.com/BurntSushi/rust-stats) - Basic statistical functions on streams for Rust.
+- [splines](https://github.com/phaazon/splines) - Spline interpolation made easy.
+- [akin](https://github.com/LyonSyonII/akin) - Rust crate for writing repetitive code easier and faster.
 
 ## Cargo Plugins
 

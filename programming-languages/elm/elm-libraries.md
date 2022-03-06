@@ -7,7 +7,7 @@
 - [elm-graphql](https://github.com/dillonkearns/elm-graphql/) - Autogenerate type-safe GraphQL queries in Elm.
 - [Elm Animator](https://github.com/mdgriffith/elm-animator) - Timeline-based animation engine for Elm.
 - [elm-vegaLite](https://github.com/gicentre/elm-vegalite) - Vega-Lite Integration for functional declarative visualization.
-- [elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm.
+- [elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm. ([Web](https://elm-charts.org/))
 
 ## Style
 

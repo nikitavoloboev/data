@@ -131,3 +131,4 @@
 - [Erlang zlist](https://github.com/egobrain/zlist) - Lazy sequences library.
 - [equery](https://github.com/egobrain/equery) - Library for PostgreSQL SQL generation.
 - [ExRated](https://github.com/grempe/ex_rated) - Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.
+- [Zotonic](http://zotonic.com/) - Erlang Web Framework & CMS. ([Code](https://github.com/zotonic/zotonic))

@@ -81,3 +81,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Ukraine is fighting for its independence from Russia for ~300+ years](https://twitter.com/p1f/status/1500185291369418754)
 - [Thread on analyzing Russia's army during Ukraine attack (2022)](https://twitter.com/PhillipsPOBrien/status/1500213943012319252)
 - [The Failed Logistics of Russia's Invasion of Ukraine (2022)](https://www.youtube.com/watch?v=b4wRdoWpw0w)
+- [Captured Russian policemen with an incredible message to Ukrainians and fellow servicemen](https://www.reddit.com/r/nextfuckinglevel/comments/t7mjm7/captured_russian_policemen_with_an_incredible/)

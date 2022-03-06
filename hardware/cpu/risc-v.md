@@ -146,3 +146,4 @@
 - [Ultra-Low Power RISC-V Core](https://github.com/riscv-mcu/e203_hbirdv2)
 - [RISC-V Opcodes](https://github.com/riscv/riscv-opcodes)
 - [Piccolo](https://github.com/bluespec/Piccolo) - RISC-V CPU, simple 3-stage pipeline, for low-end applications (e.g., embedded, IoT).
+- [RISC-V-Computer built in Logisim capable of running C/C++ programs](https://github.com/Mazin21/RISC-V-Computer)

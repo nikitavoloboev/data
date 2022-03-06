@@ -490,6 +490,7 @@
 - [ArrayLayouts](https://github.com/JuliaMatrices/ArrayLayouts.jl) - Julia package for describing array layouts and more general fast linear algebra.
 - [Static](https://github.com/SciML/Static.jl) - Static types useful for dispatch and generated functions.
 - [ProtoBuf.jl](https://github.com/JuliaIO/ProtoBuf.jl) - Julia protobuf implementation.
+- [MPIClusterManagers.jl](https://github.com/JuliaParallel/MPIClusterManagers.jl) - Julia parallel constructs over MPI.
 
 ## Links
 

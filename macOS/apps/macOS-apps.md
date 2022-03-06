@@ -226,3 +226,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Good open-source alternatives to essential paid Mac apps (2022)](https://www.reddit.com/r/MacOS/comments/t2olo5/good_opensource_alternatives_to_essential_paid/)
 - [Inspecting Web Views in macOS (2022)](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
 - [Building a native macOS app using SwiftUI and Combine (2021)](https://www.linkandreas.de/#/articles/09_03_2021)
+- [What's the problem with old but excellent Mac apps? (2022)](https://christiantietze.de/posts/2022/03/half-assed-mac-apps/) ([HN](https://news.ycombinator.com/item?id=30552973))

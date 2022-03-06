@@ -7,6 +7,10 @@
 - [1](https://components.ai/gradient/ZkZ7AP11YnaNf2SuDTt6?tab=editor)
 - [2](https://components.ai/gradient/p1DA8pSJI7vVfAeFkgXU?tab=editor)
 
+## Notes
+
+- [#F9F9F9 is nice white color instead of #FFFFFF](https://twitter.com/helvetiica/status/1500168178424586246)
+
 ## Links
 
 - [Color Hunt](http://colorhunt.co/)

@@ -384,7 +384,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [OpenLaw](https://www.openlaw.io/) - Next generation smart legal agreements. ([GitHub](https://github.com/openlawteam))
 - [Multi Collateral Dai](https://github.com/makerdao/dss)
 - [Ethereum Project Management: Meeting notes and agenda items](https://github.com/ethereum/pm)
-- [Chainlist](https://networklist-org.vercel.app/) - Helping users connect to EVM powered networks. ([Code](https://github.com/antonnell/networklist-org))
+- [Chainlist](https://chainlist.org/) - Helping users connect to EVM powered networks. ([Code](https://github.com/antonnell/networklist-org)) ([Alternative](https://evm-chainlist.netlify.app/))
 - [MultiFaucet](https://github.com/Anish-Agnihotri/MultiFaucet) - Drips ETH, tokens, and NFTs across many testnet networks, at once.
 - [Awesome StarkNet](https://github.com/gakonst/awesome-starknet)
 - [Loopring](https://loopring.org/#/) - zkRollup DEX & Payment Protocol. ([Code](https://github.com/Loopring/protocols)) ([GitHub](https://github.com/Loopring))
@@ -513,3 +513,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Uniswap V2 Explained (Beginner Friendly) (2022)](https://medium.com/@chiqing/uniswap-v2-explained-beginner-friendly-b5d2cb64fe0f)
 - [Ethers Flashbots](https://github.com/onbjerg/ethers-flashbots) - Ethers middleware to send transactions as Flashbots bundles.
 - [ERC-1155: Multi-Token Standard implementation](https://github.com/0xsequence/erc-1155)
+- [EVM puzzles](https://github.com/fvictorio/evm-puzzles) - Each puzzle consists on sending a successful transaction to a contract.

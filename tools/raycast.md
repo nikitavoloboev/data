@@ -10,6 +10,7 @@
 ## Notes
 
 - [Raycast supports using React to render things (transforms react to native AppKit).](https://developers.raycast.com/faq)
+- [90% of Mac apps should actually be Raycast extensions](https://twitter.com/benjitaylor/status/1499400441884393473)
 
 ## Links
 

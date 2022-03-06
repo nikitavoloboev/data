@@ -180,7 +180,7 @@
 - [How Not To Sort By Average Rating (2009)](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([HN](https://news.ycombinator.com/item?id=29200103))
 - [T-Wand: Beat Lucene in Less Than 600 Lines of Code (2021)](https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/) ([HN](https://news.ycombinator.com/item?id=29237644))
 - [In-memory, full-text search engine built in Go](https://github.com/micheleriva/gosearch)
-- [SymSpell](https://github.com/wolfgarbe/SymSpell) - Spelling correction & Fuzzy search: 1 million times faster through Symmetric Delete spelling correction algorithm.
+- [SymSpell](https://github.com/wolfgarbe/SymSpell) - Spelling correction & Fuzzy search: 1 million times faster through Symmetric Delete spelling correction algorithm. ([HN](https://news.ycombinator.com/item?id=30576435))
 - [SeekStorm](https://seekstorm.com/) - Affordable high-performance search API.
 - [UIRecord](https://github.com/SaraVieira/uirecord) - UI for managing your meilisearch instances.
 - [lnx](https://github.com/lnx-search/lnx) - Ultra-fast, adaptable deployment of the tantivy search engine via REST. ([Web](https://lnx.rs/))

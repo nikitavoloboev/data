@@ -73,3 +73,4 @@
 - [How to recreate Figma in React (2022)](https://textframe.app/rahul/figma-in-react) ([Reddit](https://www.reddit.com/r/reactjs/comments/ssro7q/how_to_recreate_figma_in_react/))
 - [Fugen](https://github.com/almazrafi/Fugen) - Command line tool for exporting resources and generating code from your Figma files.
 - [Resources to learn Figma (2022)](https://twitter.com/ASpittel/status/1498723085591011330)
+- [What's possible to build on top of Figma canvas (2022)](https://twitter.com/jsngr/status/1500208736392003584)
