@@ -371,6 +371,7 @@ Here are few more things I liked, design wise.
 - [Aladin Bensassi](https://aladinbs.com/)
 - [Malte Ubl](https://www.industrialempathy.com/)
 - [Tony Dinh](https://tonydinh.com/)
+- [Griko Nibras](https://griko.id/) ([Code](https://github.com/grikomsn/personal-websites))
 - [Johnny Rodgers](https://johnnyrodgers.is/)
 - [Eric Button](https://ericbutton.co/)
 - [Roman Komarov](https://www.kizu.ru/)
