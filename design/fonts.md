@@ -328,3 +328,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Production Type](https://www.productiontype.com/) - Digital type design agency. ([GitHub](https://github.com/productiontype))
 - [Numderline](https://github.com/trishume/numderline) - Font patcher that uses OpenType font shaping trickery to make it easier to visually parse large numbers. ([Web](https://thume.ca/numderline/))
 - [Exploring OpenType Font Features (2022)](https://blog.lambda.cx/posts/opentype-font-exploration/)
+- [A Smart Blackletter Font: 7 Questions for Gerrit Ansmann (2016)](https://typography.guru/journal/a-smart-blackletter-font-7-questions-for-gerrit-ansmann-r69/)
+- [Typography.Guru](https://typography.guru/)
