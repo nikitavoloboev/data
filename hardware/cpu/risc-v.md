@@ -145,3 +145,4 @@
 - [Sail RISC-V model](https://github.com/riscv/sail-riscv) - Formal specification of the RISC-V architecture, written in Sail.
 - [Ultra-Low Power RISC-V Core](https://github.com/riscv-mcu/e203_hbirdv2)
 - [RISC-V Opcodes](https://github.com/riscv/riscv-opcodes)
+- [Piccolo](https://github.com/bluespec/Piccolo) - RISC-V CPU, simple 3-stage pipeline, for low-end applications (e.g., embedded, IoT).

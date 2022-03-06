@@ -157,7 +157,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
-- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes))
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate))
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
@@ -284,6 +284,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Martian Proxy](https://github.com/google/martian) - Library for building custom HTTP/S proxies.
 - [go-hit](https://github.com/Eun/go-hit) - HTTP integration test framework.
 - [srtgo](https://github.com/Haivision/srtgo) - Go bindings for SRT (Secure Reliable Transport), the open source transport technology that optimizes streaming performance across unpredictable networks.
+- [iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library.
 
 ## GraphQL
 
@@ -1381,6 +1382,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [lo](https://github.com/samber/lo) - Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...). ([Lobsters](https://lobste.rs/s/2bvfvs/lodash_style_go_library_based_on_go_1_18))
 - [mast](https://github.com/jrhy/mast) - Go immutable, versioned, diffable map implementation of Merkle Search Trees.
 - [MP4](https://github.com/alfg/mp4) - Basic MP4 reader in Go.
+- [Blobloom](https://github.com/greatroar/blobloom) - Extremely fast Bloom filters for Go.
+- [fastimage](https://github.com/phuslu/fastimage) - Fast image info for go.
+- [fasttime](https://github.com/phuslu/fasttime) - Fast time formatting for go.
+- [zap](https://github.com/gin-contrib/zap) - Alternative logging through zap.
+- [levenshtein](https://github.com/agext/levenshtein) - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 
 ## Links
 

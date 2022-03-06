@@ -266,3 +266,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Medusa](https://github.com/jonasvinther/medusa) - CLI tool for importing and exporting Hashicorp Vault secrets.
 - [Security for package maintainers (2022)](https://sethmlarson.dev/blog/security-for-package-maintainers) ([Lobsters](https://lobste.rs/s/dcgzcw/security_for_package_maintainers))
 - [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery) - Asset Discovery is the initial phase of any security assessment engagement, be it offensive or defensive.
+- [NSA Network Infrastructure Security Guidance](https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF) ([HN](https://news.ycombinator.com/item?id=30573749))

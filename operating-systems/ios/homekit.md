@@ -28,3 +28,4 @@
 - [ESP Apple HomeKit ADK](https://github.com/espressif/esp-apple-homekit-adk)
 - [HomeSpan](https://github.com/HomeSpan/HomeSpan) - HomeKit Library for the Arduino-ESP32.
 - [hap](https://github.com/brutella/hap) - HomeKit Accessory Protocol (hap) implemented in Go.
+- [Awesome Homebridge](https://github.com/sahilchaddha/awesome-homebridge)

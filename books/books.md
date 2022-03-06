@@ -288,6 +288,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What Books Do You Recommend Reading for 2022?](https://news.ycombinator.com/item?id=30358326)
 - [Ask HN: What is your favorite fiction book? (2022)](https://news.ycombinator.com/item?id=30400572)
 - [Ask HN: Recommend a biography? (2022)](https://news.ycombinator.com/item?id=30405924)
+- [Peaceful books for someone in the middle of war](https://www.reddit.com/r/Fantasy/comments/t75z4r/peaceful_books_for_someone_in_the_middle_of_war/)
 
 ## Interesting Prose Books
 

@@ -331,3 +331,5 @@
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Collection of experiments for exploring how music works, all built with the Web Audio API. ([Code](https://github.com/googlecreativelab/chrome-music-lab))
 - [Learning the Beauty in Songs: Neural Singing Voice Beautifier (2022)](https://arxiv.org/abs/2202.13277) ([Code](https://github.com/MoonInTheRiver/NeuralSVB))
 - [Music Theory JS](https://github.com/Pomax/music-theory-js) - Do music things, using music theory.
+- [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software.
+- [Contrastive Learning of Musical Representations (2021)](https://arxiv.org/abs/2103.09410) ([Code](https://github.com/Spijkervet/CLMR))

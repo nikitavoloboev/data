@@ -170,3 +170,4 @@
 - [mgrt](https://github.com/andrewpillar/mgrt) - Simple SQL migrations.
 - [Learn SQL with Datasette](https://datasette.io/tutorials/learn-sql)
 - [SeaSchema](https://github.com/SeaQL/sea-schema) - SQL schema management suite.
+- [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776) ([HN](https://news.ycombinator.com/item?id=30571990))

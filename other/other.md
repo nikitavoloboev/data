@@ -39,6 +39,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Don’t fight the system. Use the system to change the system.](http://www.federicopereiro.com/system/)
 - ["If there is a God, he will have to beg for my forgiveness." - A phrase carved into a concentration camp cell by a Jewish Prisoner](https://twitter.com/apmassaro3/status/1495872953766010883)
 - [Hope never stopped tragedy from happening. Hope is just something we kid ourselves with because we’re scared and we don’t want to see what is right in front of our eyes.](https://twitter.com/apmassaro3/status/1495872953766010883)
+- [There’s nothing in the world more powerful than a good story. Nothing can stop it. No enemy can defeat it.](https://twitter.com/hardmaru/status/1499935502937505792)
 
 ## Other
 

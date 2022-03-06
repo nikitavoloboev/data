@@ -324,3 +324,4 @@
 - [Next.js 12.1: On-demand ISR, SWC support for styled-components, Relay, Jest (2022)](https://nextjs.org/blog/next-12-1) ([HN](https://news.ycombinator.com/item?id=30374819))
 - [On-Demand Incremental Static Regeneration](https://github.com/leerob/on-demand-isr)
 - [Putting test files in the pages folder in a Next.js app (2022)](https://www.benmvp.com/blog/putting-test-files-pages-folder-nextjs-app/) ([Tweet](https://twitter.com/sebastienlorber/status/1496170766043385859))
+- [next-graphql-server](https://github.com/zaiste/next-graphql-server) - Library for building production-grade GraphQL servers using Next.js with API Routes.

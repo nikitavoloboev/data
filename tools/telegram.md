@@ -186,3 +186,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram WebRTC (VoIP)](https://github.com/MarshalX/tgcalls) - Voice chats, private incoming and outgoing calls in Telegram for Developers.
 - [Telegram Became the Anti-Facebook (2022)](https://www.wired.com/story/how-telegram-became-anti-facebook/) ([HN](https://news.ycombinator.com/item?id=30267787))
 - [Telegram proxies list](https://twitter.com/BTSLUVBLOG/status/1496746466005733382)
+- [Guide to All Things Webhook](https://core.telegram.org/bots/webhooks)

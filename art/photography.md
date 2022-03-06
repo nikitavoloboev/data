@@ -194,3 +194,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Art Movements Through Photography (2013)](https://www.youtube.com/watch?v=r-Bx5krtLZY)
 - [How Does Film Actually Work? [Photos and Development]](https://www.youtube.com/watch?v=TCxoZlFqzwA)
 - [How Does Perspective Work in Pictures? (2022)](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html) ([Lobsters](https://lobste.rs/s/r7jtjm/how_does_perspective_work_pictures))
+- [Sony A1 Complete Disassembly and Teardown](https://kolarivision.com/sony-a1-complete-disassembly-and-teardown/) ([HN](https://news.ycombinator.com/item?id=30569376))
+- [Modern smartphone lenses are crazy](https://twitter.com/yiningkarlli/status/1498069538264399872) ([HN](https://news.ycombinator.com/item?id=30557578))

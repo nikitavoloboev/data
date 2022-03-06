@@ -465,3 +465,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Why can't they just protest against Putin.. (2022)](https://twitter.com/varya_en/status/1499464037708537861)
 - [Is the Russian Air Force Actually Incapable of Complex Air Operations? (2022)](https://rusi.org/explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t6spmz/is_the_russian_air_force_actually_incapable_of/))
 - [Why Russia Can’t Replace TSMC (2022)](https://www.youtube.com/watch?v=N_4R4X7AWtU)
+- [Фотопроект: Россия с другим вариантом флага](https://tjournal.ru/internet/552118-fotoproekt-rossiya-s-drugim-variantom-flaga)
+- [Russian economy is super fragile: It's critically dependent upon the: 1. Export of natural resources. 2. Technological import.](https://twitter.com/kamilkazani/status/1499855858456567809)
+- [How did Russia get so big?](https://kamilkazani2.substack.com/p/how-did-russia-get-so-big?s=r)

@@ -116,3 +116,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [Ask HN: Why wasn't the USA sanctioned over it's war with Iraq? (2022)](https://news.ycombinator.com/item?id=30527361)
 - [I'm a digital nomad. Should I renounce my US citizenship? (2022)](https://fireshouter.substack.com/p/im-a-digital-nomad-should-i-renounce) ([HN](https://news.ycombinator.com/item?id=30537515))
 - [The Far Reach of the White House's Zero Trust Memo (2022)](https://www.pomerium.com/blog/white-house-zt-memo/)
+- [Incomplete list of US bombing attacks on civilians since 1990](https://twitter.com/queeralamode/status/1499774998591926274)

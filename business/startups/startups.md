@@ -359,9 +359,11 @@
 - [Importance of direct sales in growing revenue (2022)](https://twitter.com/nathanbarry/status/1482374302414426116)
 - [Focusing on go-to-market to grow startup (2022)](https://twitter.com/reinpk/status/1481639812012466182)
 - [Connecting People (2022)](https://aditya.rs/2022/01/24/connecting-people/)
+- [Startup tech stack I used to automate most admin](https://twitter.com/justindross/status/1499775084017373190)
 
 ## Images
 
 ![](https://i.imgur.com/KxbRBEn.png)
 
 > [Source](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
+

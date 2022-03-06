@@ -364,3 +364,6 @@
 - [Open Web Advocacy](https://open-web-advocacy.org/) ([HN](https://news.ycombinator.com/item?id=30507851))
 - [SPAs were a mistake](https://gomakethings.com/spas-were-a-mistake/) ([Lobsters](https://lobste.rs/s/ucaheg/spas_were_mistake)) ([HN](https://news.ycombinator.com/item?id=30528473))
 - [Don't default to building an SPA](https://news.ycombinator.com/item?id=30533473)
+- [webmention-receiver](https://github.com/WesleyAC/webmention-receiver) - Simple, easy to run webmention receiver.
+- [Understanding The Web Security Model, Part I: Web Publishing (2022)](https://educatedguesswork.org/posts/web-security-model-intro1/)
+- [The perils of the “real” client IP (2022)](https://adam-p.ca/blog/2022/03/x-forwarded-for/)

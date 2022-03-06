@@ -191,3 +191,4 @@
 - [Reliably Send an HTTP Request as a User Leaves a Page (2022)](https://css-tricks.com/send-an-http-request-on-page-exit/)
 - [CreepJS](https://abrahamjuliot.github.io/creepjs/) - Creepy device and browser fingerprinting. ([Code](https://github.com/abrahamjuliot/creepjs))
 - [EU plans to mandate less secure certificates in browsers (2022)](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers) ([Lobsters](https://lobste.rs/s/ae6zsw/eu_plans_mandate_less_secure))
+- [Using files with browsers, in reality (2022)](https://macwright.com/2022/03/04/browsers-and-files.html)

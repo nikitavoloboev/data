@@ -78,3 +78,6 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Assessing the Russian Military Campaign in Ukraine (2022)](https://www.youtube.com/watch?v=pLWYN1jkmXc) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t5u8mc/assessing_the_russian_military_campaign_in/))
 - [Level of solidarity in Ukrainian society](https://twitter.com/olgatokariuk/status/1499494322676318220)
 - [Ukraine’s Special Forces Hold Off Russian Offensive on Kyiv’s Front Lines (2022)](https://www.wsj.com/articles/ukraines-special-forces-hold-off-russian-offensive-on-kyivs-front-lines-11646417190?st=qrzrh5leq99gqft)
+- [Ukraine is fighting for its independence from Russia for ~300+ years](https://twitter.com/p1f/status/1500185291369418754)
+- [Thread on analyzing Russia's army during Ukraine attack (2022)](https://twitter.com/PhillipsPOBrien/status/1500213943012319252)
+- [The Failed Logistics of Russia's Invasion of Ukraine (2022)](https://www.youtube.com/watch?v=b4wRdoWpw0w)

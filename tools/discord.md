@@ -56,7 +56,7 @@
 - [discord-jsx](https://github.com/alii/discord-jsx) - Experimental way to write Discord bots with JSX for Node.
 - [Cookiecord](https://github.com/cookiecord/cookiecord) - Simplifies discord bot development by providing a modern and easy to use interface. ([Docs](https://cookiecord.js.org/))
 - [gatekeeper](https://github.com/itsMapleLeaf/gatekeeper) - Supercharge your discord.js commands.
-- [discord.py](https://github.com/Rapptz/discord.py) - API wrapper for Discord written in Python. ([Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)) ([HN](https://news.ycombinator.com/item?id=28334516)) ([Reddit](https://www.reddit.com/r/programming/comments/pd092x/discordpy_development_ceased/))
+- [discord.py](https://github.com/Rapptz/discord.py) - API wrapper for Discord written in Python. ([Future of discord.py](https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1)) ([HN](https://news.ycombinator.com/item?id=28334516)) ([Reddit](https://www.reddit.com/r/programming/comments/pd092x/discordpy_development_ceased/)) ([On resuming discord.py development](https://news.ycombinator.com/item?id=30573842)) ([HN](https://news.ycombinator.com/item?id=30573842))
 - [Nextcord](https://github.com/nextcord/nextcord) - Modern, easy-to-use, feature-rich, and async-ready API wrapper for Discord written in Python.
 - [Nextcord V3](https://github.com/nextcord/nextcord-v3) - Fast modular discord API wrapper written for python.
 - [Discljord](https://github.com/IGJoshua/discljord) - Clojure wrapper library for the Discord API, with full API coverage, and high scalability.

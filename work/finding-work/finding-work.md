@@ -154,3 +154,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Career advice nobody gave me: Never ignore a recruiter (2022)](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556) ([HN](https://news.ycombinator.com/item?id=30163676))
 - [Open Salary and Equity Database](https://topstartups.io/) ([HN](https://news.ycombinator.com/item?id=30269953))
 - [How can (not software) engineers do good?](https://twitter.com/ben_j_todd/status/1491401046706782210)
+- [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s? (2022)](https://twitter.com/danluu/status/1447997574556880902) ([HN](https://news.ycombinator.com/item?id=30574489))

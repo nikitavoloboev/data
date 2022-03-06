@@ -35,3 +35,4 @@
 - [PUMA](https://github.com/TadPath/PUMA) - 3D Printed Microscope.
 - [Slic3r](https://slic3r.org/) - Open source 3D printing toolbox. ([Code](https://github.com/slic3r/Slic3r))
 - [Wasp 3D-prints eco-homes from local raw earth for $1K (2021)](https://www.youtube.com/watch?v=4MLJs1KRa0Y) ([Tweet](https://merveilles.town/web/statuses/107743030112072919))
+- [MicroscoPy](https://github.com/IBM/MicroscoPy) - Open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing. ([Article](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf))

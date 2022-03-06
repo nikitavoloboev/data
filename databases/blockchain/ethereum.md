@@ -511,3 +511,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://github.com/microsoft/Forerunner)
 - [eth-keystore-rs](https://github.com/roynalnaruto/eth-keystore-rs) - Minimalist library to interact with encrypted JSON keystores.
 - [Uniswap V2 Explained (Beginner Friendly) (2022)](https://medium.com/@chiqing/uniswap-v2-explained-beginner-friendly-b5d2cb64fe0f)
+- [Ethers Flashbots](https://github.com/onbjerg/ethers-flashbots) - Ethers middleware to send transactions as Flashbots bundles.
+- [ERC-1155: Multi-Token Standard implementation](https://github.com/0xsequence/erc-1155)

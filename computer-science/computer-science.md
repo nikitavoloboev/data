@@ -179,3 +179,4 @@
 - [It's often said that the Analytical Engine was before its time](https://twitter.com/rygorous/status/1359344949037211650) ([HN](https://news.ycombinator.com/item?id=30354976))
 - [Ask HN: The book that did it for you in math and/or CS? (2022)](https://news.ycombinator.com/item?id=30485544)
 - [Software Foundations: mathematical underpinnings of reliable software](https://softwarefoundations.cis.upenn.edu/)
+- [We're Building Computers Wrong (2022)](https://www.youtube.com/watch?v=GVsUOuSjvcg)

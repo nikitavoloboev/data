@@ -26,3 +26,4 @@
 - [MustLearnKQL blog series](https://github.com/rod-trent/MustLearnKQL)
 - [Terraform Provider for Azure Active Directory](https://github.com/hashicorp/terraform-provider-azuread)
 - [Azure Rust Pipelines](https://github.com/crate-ci/azure-pipelines) - Easy continuous integration for Rust projects with Azure Pipelines.
+- [Azure Mission-Critical](https://github.com/Azure/Mission-Critical) - Design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads.

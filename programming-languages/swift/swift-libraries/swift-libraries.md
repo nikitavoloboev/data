@@ -456,6 +456,7 @@
 - [StubKit](https://github.com/kateinoigakukun/StubKit) - Smart stubbing system.
 - [TestCleaner](https://github.com/ZevEisenberg/TestCleaner) - Tidy up your XCTests.
 - [Mendoza](https://github.com/Subito-it/Mendoza) - Dispatch Apple's UI Tests over multiple physical machines.
+- [Mussel](https://github.com/UrbanCompass/Mussel) - Framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 
 ## API
 
@@ -990,6 +991,7 @@
 - [EnvKit](https://github.com/BinaryBirds/env-kit) - Swift package for transmitting environment variables between shell processes.
 - [CodableCSV](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row or through Swift's Codable interface.
 - [Swift Tree Sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library.
+- [APNGKit](https://github.com/onevcat/APNGKit) - High performance framework for loading and displaying APNG images in iOS and macOS.
 
 ## Other (not lib)
 
