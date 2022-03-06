@@ -415,6 +415,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [BadgerDB](https://github.com/outcaste-io/badger) - Fast Key-Value DB in Go.
 - [pgtalk](https://github.com/emicklei/pgtalk) - More type safe SQL query building and execution using Go code generated (pgtalk-gen) from PostgreSQL table definitions.
 - [gls](https://github.com/jtolio/gls) - Goroutine local storage.
+- [zdb](https://github.com/arp242/zdb) - Nice API to interact with SQL databases in Go.
 
 ## ML
 

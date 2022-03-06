@@ -1,6 +1,6 @@
 # Design systems
 
-[Vercel](https://vercel.com/design)'s is my favorite.
+[Primer](https://primer.style/) & [Vercel](https://vercel.com/design)'s are my favorite.
 
 ## Interesting design systems
 

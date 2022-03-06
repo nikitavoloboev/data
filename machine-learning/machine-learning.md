@@ -15,6 +15,7 @@
 - [Learn optimization before studying machine learning if you really want to understand what's going on.](https://twitter.com/Adam235711/status/1391067131169574914)
 - [What idiot called it "machine learning" instead of "bias automation".](https://twitter.com/fasterthanlime/status/868840530813353985)
 - [If you were to learn only 1 method for explaining machine learning models, it should be Shapley values (SHAP): 1. Model-agnostic: Use with any model. 2. Theoretic foundation: Game theory. 3. Good software ecosystem. 4. Local and global explanations.](https://twitter.com/ChristophMolnar/status/1486635139190992896)
+- [What idiot called it "machine learning" instead of "bias automation".](https://twitter.com/fasterthanlime/status/1397352603508518912)
 
 ## Links
 
