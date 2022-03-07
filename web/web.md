@@ -368,3 +368,4 @@
 - [Understanding The Web Security Model, Part I: Web Publishing (2022)](https://educatedguesswork.org/posts/web-security-model-intro1/)
 - [The perils of the “real” client IP (2022)](https://adam-p.ca/blog/2022/03/x-forwarded-for/)
 - [Awesome Web Monetization](https://github.com/thomasbnt/awesome-web-monetization)
+- [Web-dev advice for building a localhost app w/o a steep learning curve? (2022)](https://lobste.rs/s/sxhylb/web_dev_advice_for_building_localhost_app)

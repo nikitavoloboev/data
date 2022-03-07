@@ -19,6 +19,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [World Chess Championship: Magnus vs Ian Game 2 (2021)](https://www.youtube.com/watch?v=CcXcdoG0W2c&t=2s) ([Talk after](https://www.youtube.com/watch?v=ld-RZLyWrvg)) ([Reddit](https://www.reddit.com/r/chess/comments/r3i5m5/2021_world_championship_game_2_post_game_player/))
 - [Carlsen-Morozevich, World Blitz Championship 2012](https://www.youtube.com/watch?v=-wRdgOllrzM)
 - [World Chess Championship: Magnus vs Ian Game 6 (2021)](https://www.youtube.com/watch?v=PmQs1KhB948) ([HN](https://news.ycombinator.com/item?id=29434818)) ([Reddit](https://www.reddit.com/r/chess/comments/r882k8/postgame_thread_2021_world_chess_championship/))
+- [Crazy game](https://www.youtube.com/watch?v=3-OE9q7Nz8Y)
 
 ## Interesting openings
 

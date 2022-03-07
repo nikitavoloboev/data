@@ -88,3 +88,5 @@
 - [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs.
 - [BabelStream](https://github.com/UoB-HPC/BabelStream) - Measure memory transfer rates to/from global device memory on GPUs.
 - [Tool for messing around with Apple GPU assembly](https://github.com/tellowkrinkle/mtl-gpu-asmcheck)
+- [Introduction to GPUs with OpenGL (2022)](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/) ([HN](https://news.ycombinator.com/item?id=30583905))
+- [Rasterization in One Weekend (2018)](https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend-part-i/)

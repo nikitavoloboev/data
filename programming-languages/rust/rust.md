@@ -725,3 +725,4 @@
 - [Rust's Rules are Made to be Broken (2022)](https://blog.warp.dev/rules-are-made-to-be-broken/)
 - [Rust By Practice](https://practice.rs/) - Practice Rust with typical examples, challenging exercises and small practical projects. ([Code](https://github.com/sunface/rust-by-practice))
 - [Implementing and Optimizing a Wordle Solver in Rust (2022)](https://www.youtube.com/watch?v=doFowk4xj7Q) ([Code](https://github.com/jonhoo/roget)) ([Reddit](https://www.reddit.com/r/rust/comments/t7s36r/implementing_and_optimizing_a_wordle_solver_video/))
+- [Request Coalescing in Async Rust (2022)](https://fasterthanli.me/articles/request-coalescing-in-async-rust) ([HN](https://news.ycombinator.com/item?id=30580797))

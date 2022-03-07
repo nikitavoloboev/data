@@ -240,3 +240,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Token incentives are temporary, used to overcome the hardest part of creating new networks: getting through the “bootstrap” phase](https://twitter.com/cdixon/status/1495066587187093509)
 - [I was wrong, we need crypto (2022)](https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03) ([HN](https://news.ycombinator.com/item?id=30414842))
 - [Everstake](https://everstake.one/) - Staking Service Platform, Staking provider. ([Twitter](https://twitter.com/everstake_pool))
+- [How crypto exchanges enforce US sanctions](https://twitter.com/Brett_FTXUS/status/1500567182757011459)

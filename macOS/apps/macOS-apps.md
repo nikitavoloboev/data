@@ -181,6 +181,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [kindaVim](https://github.com/godbout/kindaVim) - Vim moves for the whole macOS. in input fields and more. ([Web](https://kindavim.app/)) ([Web Code](https://github.com/godbout/kindaVim.theapp))
 - [One Switch](https://fireball.studio/oneswitch)
 - [Quiver](https://happenapps.com/#quiver) - Programmer's Notebook.
+- [SOL](https://github.com/ospfranco/sol) - macOS global command palette. Raycast/Spotlight alternative.
 
 ## Links
 

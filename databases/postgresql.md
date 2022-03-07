@@ -431,4 +431,4 @@
 - [Tusker](https://github.com/bikeshedder/tusker) - PostgreSQL specific migration tool.
 - [Ways to improve Postgres (2022)](https://twitter.com/craigkerstiens/status/1498425210747318277)
 - [pgMonitor](https://github.com/CrunchyData/pgmonitor) - PostgreSQL Monitoring, Metrics Collection and Alerting Resources from Crunchy Data.
-- [Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc (2022)](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/) ([HN](https://news.ycombinator.com/item?id=30579847))
+- [Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc (2022)](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/) ([HN](https://news.ycombinator.com/item?id=30579847)) ([HN](https://news.ycombinator.com/item?id=30579847))

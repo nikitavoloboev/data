@@ -188,3 +188,4 @@
 - [Run0](https://github.com/virt-do/run0) - Basic Rust OCI container runtime.
 - [cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding.
 - [LXC vs Docker: Which Container Platform Is Right for You? (2022)](https://earthly.dev/blog/lxc-vs-docker/)
+- [Escaping privileged containers for fun (2022)](https://pwning.systems/posts/escaping-containers-for-fun/) ([HN](https://news.ycombinator.com/item?id=30576335))

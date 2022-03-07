@@ -51,7 +51,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [MeiliDB](https://github.com/meilisearch/MeiliDB) - Full-text search database based on the fast LMDB key-value store.
 - [CrateDB](https://github.com/crate/crate) - Distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
 - [Riak](https://github.com/basho/riak) - Distributed, decentralized data storage system.
-- [CockroachDB](https://github.com/cockroachdb/cockroach) - Open source, cloud-native SQL database. ([CockroachDB: The Resilient Geo-Distributed SQL Database](http://muratbuffalo.blogspot.com/2022/03/cockroachdb-resilient-geo-distributed.html))
+- [CockroachDB](https://github.com/cockroachdb/cockroach) - Open source, cloud-native SQL database. ([CockroachDB: The Resilient Geo-Distributed SQL Database](http://muratbuffalo.blogspot.com/2022/03/cockroachdb-resilient-geo-distributed.html)) ([HN](https://news.ycombinator.com/item?id=30565223))
 - [ActorDB](https://github.com/biokoda/actordb) - Distributed SQL database.
 - [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
 - [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.

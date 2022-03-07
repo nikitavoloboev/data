@@ -96,10 +96,11 @@
 - [A surprisingly hard CS problem: sums of square roots (2018)](https://shlegeris.com/2018/10/23/sqrt.html) ([HN](https://news.ycombinator.com/item?id=30057582))
 - [Abstractions, Their Algorithms, and Their Compilers (2022)](https://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers/fulltext) ([HN](https://news.ycombinator.com/item?id=30084470))
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - Illustrated guide for programmers and other curious people. ([Code](https://github.com/egonSchiele/grokking_algorithms))
-- [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/) ([Docs Code](https://github.com/algorithmica-org/algorithmica)) ([Code](https://github.com/sslotin/amh-code))
+- [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/) ([Docs Code](https://github.com/algorithmica-org/algorithmica)) ([Code](https://github.com/sslotin/amh-code)) ([HN](https://news.ycombinator.com/item?id=30583808))
 - [Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 - [Breadth First Search in Rust (2022)](https://www.sotr.blog/articles/breadth-first-search)
+- [Damn Cool Algorithms: Levenshtein Automata (2010)](http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata) ([HN](https://news.ycombinator.com/item?id=30566119))
 
 ## Images
 
