@@ -161,3 +161,4 @@
 - [Libsqlite3](https://github.com/caido/libsqlite3) - Based on libsqlite3-sys, this package builds SQLite statically with some aditionnal extensions.
 - [New JSON query operators in SQLite 3.38.0 (2022)](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html) ([HN](https://news.ycombinator.com/item?id=30486052))
 - [jx-sqlite](https://github.com/mozilla/jx-sqlite) - JSON query expressions using SQLite.
+- [SQLite compiled to WebAssembly and WASI](https://github.com/wapm-packages/sqlite)

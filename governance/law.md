@@ -43,3 +43,4 @@
 - [Magistrate](https://magistrate.khanna.law/) - Plain text legal contracts for developers.
 - [Как не надо давать показания](http://www.apn-spb.ru/opinions/print13278.htm)
 - [Openlaws.com](https://openlaws.com/) - Legal Search Engine.
+- [court-scraper](https://github.com/biglocalnews/court-scraper) - Scrapers for U.S. county court sites.

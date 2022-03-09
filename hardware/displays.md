@@ -14,3 +14,4 @@
 - [Apple’s Newest OLED Supplier (2021)](https://asianometry.substack.com/p/boe-technology-apples-next-oled-supplier) ([HN](https://news.ycombinator.com/item?id=29525871))
 - [Trying to get past the 500 nits limit of the MacBook Pro (and failing) (2022)](https://alinpanaitiu.com/blog/over-500nits-failed/)
 - [How to Pick a Good Monitor for Software Development (2021)](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
+- [Apple 27-inch 5K Studio Display](https://www.apple.com/studio-display/) ([HN](https://news.ycombinator.com/item?id=30604375))

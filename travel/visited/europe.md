@@ -47,3 +47,4 @@
 - [DISINFO DATABASE](https://euvsdisinfo.eu/disinformation-cases/)
 - [Eurostat](https://ec.europa.eu/eurostat) - European statistics.
 - [Best countries to start a business in Europe? (2022)](https://www.reddit.com/r/cscareerquestionsEU/comments/svayry/what_are_the_best_countries_to_start_a_business/)
+- [Why Europe is addicted to Russian Gas (2022)](https://www.youtube.com/watch?v=bpjR_77HPnQ)

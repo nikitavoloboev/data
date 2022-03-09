@@ -33,3 +33,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [Tabletopy](https://tabletopy.com/index.html) - Sounds and ambiences for tabletop role-playing games.
 - [A Soft Murmur](https://asoftmurmur.com/)
 - [Generative.fm](https://generative.fm/) - Endless ambient music generators.
+- [White Noise Improves Learning](https://pubmed.ncbi.nlm.nih.gov/24345178/) ([HN](https://news.ycombinator.com/item?id=30600616))

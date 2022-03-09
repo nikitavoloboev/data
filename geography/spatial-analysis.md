@@ -150,3 +150,4 @@
 - [MapHub](https://maphub.net/) - Create interactive maps.
 - [Awesome Geo Rust](https://github.com/pka/awesome-georust) - Curated list of awesome geospatial software, libraries, tools and resources, written in Rust.
 - [FlatGeobuf GPU](https://github.com/pka/flatgeobuf-gpu) - Experimental GPU rendering of FlatGeobuf for Rust.
+- [Mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data).

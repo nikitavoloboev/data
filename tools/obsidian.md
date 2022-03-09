@@ -89,6 +89,8 @@
 - [Orthography](https://github.com/denisoed/obsidian-orthography) - Obsidian plugin for checking and correcting spelling errors in text.
 - [Creases](https://github.com/liamcain/obsidian-creases) - Tools for effectively folding markdown sections in Obsidian.
 - [File Tree Alternative Plugin](https://github.com/ozntel/file-tree-alternative)
+- [Things Logbook for Obsidian](https://github.com/liamcain/obsidian-things-logbook) - Sync your Things 3 Logbook with Obsidian.
+- [Calendar Plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 
 ## Themes
 

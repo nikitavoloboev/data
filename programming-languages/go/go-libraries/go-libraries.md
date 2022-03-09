@@ -516,6 +516,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Stacktrace](https://github.com/palantir/stacktrace) - Stack traces for Go errors.
 - [errors](https://github.com/cockroachdb/errors) - Go errors with network portability.
 - [Errors](https://github.com/emperror/errors) - Drop-in replacement for the standard library errors package and github.com/pkg/errors.
+- [semgroup](https://github.com/fatih/semgroup) - Provides synchronization and error propagation, for groups of goroutines working on subtasks of a common task.
 
 ## Other
 
@@ -1391,6 +1392,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-querystring](https://github.com/google/go-querystring) - Go library for encoding structs into URL query strings.
 - [go-message](https://github.com/emersion/go-message) - Streaming Go library for the Internet Message Format and mail messages.
 - [Go Chainable](https://github.com/neurocollective/go_chainable) - .map().filter().reduce() in Go. ([HN](https://news.ycombinator.com/item?id=30582862))
+- [hcledit](https://github.com/mercari/hcledit) - Go package to edit HCL configuration.
 
 ## Links
 

@@ -471,3 +471,6 @@
 - [A Cursed Bug (2022)](https://blog.nelhage.com/post/a-cursed-bug/) ([Lobsters](https://lobste.rs/s/2tnmq5/cursed_bug))
 - [Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234) ([HN](https://news.ycombinator.com/item?id=30502392))
 - [Efficient IO with io_uring (2019)](https://kernel.dk/io_uring.pdf)
+- [Wachy](https://github.com/rubrikinc/wachy) - Dynamic tracing profiler for Linux.
+- [tiptop](https://github.com/nschloe/tiptop) - Command-line system monitoring.
+- [Put an io_uring on it: Exploiting the Linux Kernel (2022)](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)

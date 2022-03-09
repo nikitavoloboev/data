@@ -17,3 +17,4 @@
 - [AMP CDN Worker](https://github.com/ampproject/cdn-worker) - Source code for the web worker that powers the AMP project's CDN server. This web worker runs on Cloudflare Workers.
 - [react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers.
 - [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) ([HN](https://news.ycombinator.com/item?id=29427959))
+- [Full Preact app rendering in a Web Worker](https://github.com/developit/preact-worker-demo)

@@ -60,3 +60,4 @@
 - [Ballcap](https://github.com/1amageek/ballcap.ts) - Database schema design framework for Cloud Firestore.
 - [Fireship.io](https://fireship.io/) - Build and ship your app faster (courses). ([Code](https://github.com/fireship-io/fireship.io))
 - [WASM on Firebase Cloud Function](https://github.com/katopz/hello-firebase-wasm)
+- [Refi App](https://github.com/thanhlmm/refi-app) - Open-source GUI tool to make interacting with Firestore less painful. ([Web](https://refiapp.io/))

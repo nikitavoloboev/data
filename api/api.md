@@ -348,3 +348,4 @@
 - [Docgen](https://github.com/thedevsaddam/docgen) - Transform your postman collection to HTML/Markdown documentation.
 - [Anicca](https://github.com/xuorig/anicca) - Get a diff between two OpenAPI descriptions.
 - [Apitest](https://github.com/sigoden/apitest) - Declarative API testing tool with JSON-like DSL.
+- [topi](https://github.com/lusingander/topi) - Terminal OpenAPI documentation viewer.

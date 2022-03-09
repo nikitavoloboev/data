@@ -117,3 +117,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [I'm a digital nomad. Should I renounce my US citizenship? (2022)](https://fireshouter.substack.com/p/im-a-digital-nomad-should-i-renounce) ([HN](https://news.ycombinator.com/item?id=30537515))
 - [The Far Reach of the White House's Zero Trust Memo (2022)](https://www.pomerium.com/blog/white-house-zt-memo/)
 - [Incomplete list of US bombing attacks on civilians since 1990](https://twitter.com/queeralamode/status/1499774998591926274)
+- [America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude? (2022)](https://www.nasdaq.com/articles/america-produces-enough-oil-to-meet-its-needs-so-why-do-we-import-crude) ([HN](https://news.ycombinator.com/item?id=30602060))

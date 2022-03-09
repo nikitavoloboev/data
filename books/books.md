@@ -506,3 +506,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Booqsi](https://www.booqsi.com/) - Show HN: A more social, Amazon-free alternative to Goodreads. ([HN](https://news.ycombinator.com/item?id=30503197))
 - [Useful Books](https://www.usefulbooks.com/) - Community, process, and tools to help you write great nonfiction, from first idea to first edition.
 - [Indie bookshelves](https://macwright.com/2022/02/24/indie-bookshelves.html)
+- [SQL-Powered Reading List (2022)](https://charlieharrington.com/sql-powered-reading-list/)

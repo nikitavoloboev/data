@@ -270,6 +270,7 @@
 - [react-tree](https://github.com/naisutech/react-tree) - Hierarchical tree component for React in Typescript.
 - [React Awesome Shapes](https://github.com/ashutosh1919/react-awesome-shapes) - Insert Awesome Shapes into Your React Site with Ease.
 - [React Photo View](https://github.com/MinJieLiu/react-photo-view) - Exquisite React photo preview component.
+- [React H5 Audio Player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 
 ## Links
 

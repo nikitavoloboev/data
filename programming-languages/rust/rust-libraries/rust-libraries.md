@@ -41,6 +41,7 @@
 
 ## Web
 
+- [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
 - [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/))
 - [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
@@ -416,6 +417,7 @@
 - [RustCrypto: Traits](https://github.com/RustCrypto/traits) - Collection of traits which describe functionality of cryptographic primitives.
 - [RustCrypto: Password Hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs.
 - [Cryptoxide](https://github.com/typed-io/cryptoxide) - Crypto primitives in pure rust - wasm compatible.
+- [rust-hpke](https://github.com/rozbb/rust-hpke) - Implementation of the HPKE hybrid encryption standard.
 
 ## Linux
 
@@ -1548,6 +1550,11 @@
 - [rust-stats](https://github.com/BurntSushi/rust-stats) - Basic statistical functions on streams for Rust.
 - [splines](https://github.com/phaazon/splines) - Spline interpolation made easy.
 - [akin](https://github.com/LyonSyonII/akin) - Rust crate for writing repetitive code easier and faster.
+- [rust-media](https://github.com/pcwalton/rust-media) - Free, comprehensive, and portable video/audio streaming library for Rust.
+- [exif-rs](https://github.com/kamadak/exif-rs) - Exif parsing library written in pure Rust.
+- [rangemap](https://github.com/jeffparsons/rangemap) - Map data structure whose keys are stored as ranges.
+- [flexstr](https://github.com/nu11ptr/flexstr) - Immutable, clone-efficient String replacement for Rust.
+- [minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust.
 
 ## Cargo Plugins
 
@@ -1700,3 +1707,4 @@
 - [release-plz](https://github.com/MarcoIeni/release-plz) - Release to Github and crates.io.
 - [Compile-time checked Builder pattern derive macro with zero-memory overhead](https://github.com/estebank/makeit) ([Tweet](https://twitter.com/ekuber/status/1493647808754294789))
 - [Diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
+- [clawbang](https://github.com/chrisdickinson/clawbang) - Command line interface meant to bridge the gap between Rust and shell scripting.

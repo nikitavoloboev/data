@@ -1,6 +1,6 @@
 # Russia
 
-TL;DR [Russian government is the worst, need to do everything to educate and mobilize the majority of Russians to move towards democratic non presidential model of government](https://twitter.com/Kasparov63/status/1498380622473179144).
+TL;DR Russia and its people are beautiful but [Russian government is the worst and we need to do everything to educate and mobilize the majority of Russians to move towards democratic non presidential model of government](https://twitter.com/Kasparov63/status/1498380622473179144).
 
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
@@ -465,7 +465,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Why can't they just protest against Putin.. (2022)](https://twitter.com/varya_en/status/1499464037708537861)
 - [Is the Russian Air Force Actually Incapable of Complex Air Operations? (2022)](https://rusi.org/explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t6spmz/is_the_russian_air_force_actually_incapable_of/))
 - [Why Russia Can’t Replace TSMC (2022)](https://www.youtube.com/watch?v=N_4R4X7AWtU)
-- [Фотопроект: Россия с другим вариантом флага](https://tjournal.ru/internet/552118-fotoproekt-rossiya-s-drugim-variantom-flaga)
+- [Фотопроект: Россия с другим вариантом флага](https://tjournal.ru/internet/552118-fotoproekt-rossiya-s-drugim-variantom-flaga) ([Tweet](https://twitter.com/Dobrokhotov/status/1500585873989160963)) ([Reddit](https://www.reddit.com/r/vexillology/comments/t8kiuf/russian_immigrants_suggested_using_this_new_flag/))
 - [Russian economy is super fragile: It's critically dependent upon the: 1. Export of natural resources. 2. Technological import.](https://twitter.com/kamilkazani/status/1499855858456567809)
 - [How did Russia get so big?](https://kamilkazani2.substack.com/p/how-did-russia-get-so-big?s=r)
 - [Инструкция по персональной цифровой безопасности для тех, кто в России](https://samatg.notion.site/samatg/f61a6016b79546bba32172de0bb40a1f)
@@ -475,3 +475,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Putin’s mistakes (2022)](https://gubbdjavel.com/2022/03/03/putins-mistakes/)
 - [Meaning of Russian "Z" fascist symbol (2022)](https://twitter.com/kamilkazani/status/1500495309595725831)
 - [How the US & Europe can cut Russian oil sales while limiting adverse side effects](https://twitter.com/edwardfishman/status/1500496727526281220)
+- [Путин — это следствие, а не причина](https://twitter.com/GrayOdesa/status/1500588657891233797)
+- [Russia's Chechen Wars. 1994-2000. Lessons From Urban Combat](https://www.rand.org/content/dam/rand/pubs/monograph_reports/MR1289/RAND_MR1289.pdf) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t8acrj/russias_chechen_wars_19942000_lessons_from_urban/))
+- [Тред коллаборантов Русского режима](https://twitter.com/death_is_invtbl/status/1500746521565745157)

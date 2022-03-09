@@ -232,6 +232,7 @@
 - [Folio](https://github.com/levibostian/Folio) - Flexible way to detect when you scroll to the end of a `UITableView`.
 - [UIOnboarding](https://github.com/lascic/UIOnboarding) - Configurable welcome screen for iOS 13 and higher.
 - [RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links.
+- [M13Checkbox](https://github.com/Marxon13/M13Checkbox) - Customizeable checkbox for iOS.
 
 ## macOS
 
@@ -287,6 +288,7 @@
 - [Swift Fetch](https://github.com/SwiftSimpers/SwiftFetch) - Fetch-like API implementation for Swift for asynchronous HTTP requests with the new async/await syntax.
 - [Microya](https://github.com/Flinesoft/Microya) - Micro version of the Moya network abstraction layer written in Swift.
 - [swift-html](https://github.com/pointfreeco/swift-html) - Swift DSL for type-safe, extensible, and transformable HTML documents.
+- [DocumentID](https://github.com/1amageek/DocumentID) - FirebaseFirestoreSwift's library for lightweight use of DocumentIDs in SwiftUI.
 
 ## SwiftUI
 
@@ -433,6 +435,8 @@
 - [Snappable](https://github.com/hugehoge/Snappable) - SwiftUI custom modifiers to make the ScrollView snappable.
 - [DynamicOverlay](https://github.com/faberNovel/DynamicOverlay) - SwiftUI library that makes easier to develop overlay based interfaces, such as the one presented in the Apple Maps app.
 - [TabBar](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for your SwiftUI application.
+- [AxisSheet for SwiftUI](https://github.com/jasudev/AxisSheet) - Handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode.
+- [SwiftUI WrappingStack](https://github.com/diniska/swiftui-wrapping-stack) - SwiftUI Views for wrapping HStack elements into multiple lines.
 
 ## Test
 
@@ -993,6 +997,7 @@
 - [Swift Tree Sitter](https://github.com/viktorstrate/swift-tree-sitter) - Swift bindings for the tree-sitter parsing library.
 - [APNGKit](https://github.com/onevcat/APNGKit) - High performance framework for loading and displaying APNG images in iOS and macOS.
 - [DateHelper](https://github.com/melvitax/DateHelper) - Swift Date extension helper.
+- [SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library for parsing and drawing SVG images to CoreGraphics contexts.
 
 ## Other (not lib)
 
@@ -1042,3 +1047,4 @@
 - [LicenseKit](https://github.com/danielsaidi/LicenseKit) - Helps you protect your Swift-based apps and libraries with a commercial license.
 - [spmready](https://github.com/StatusQuo/spmready) - Tool to check if all your pods are ready to migrate to swift package manager.
 - [Tuist SwiftLint plugin](https://github.com/tuist/tuist-plugin-lint) - Plugin that extends Tuist with SwiftLint functionalities.
+- [PluginManager](https://github.com/hassila/swift-plugin-manager) - Dynamic loading of Swift plug-ins for extensible architectures.

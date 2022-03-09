@@ -554,3 +554,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Exploring a database with Datasette](https://datasette.io/tutorials/explore)
 - [Have you tried rubbing a database on it?](https://www.hytradboi.com/)
 - [Building data-centric apps with a reactive relational database (2022)](https://riffle.systems/essays/prelude/) ([Tweet](https://twitter.com/nschiefer/status/1499075134715531266)) ([Tweet](https://twitter.com/geoffreylitt/status/1499083601387864069))
+- [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work) ([HN](https://news.ycombinator.com/item?id=30594233))

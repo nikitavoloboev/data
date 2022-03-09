@@ -69,3 +69,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VSCode.dev](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev) - Online VSCode Editor. ([Article](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)) ([HN](https://news.ycombinator.com/item?id=28932206))
 - [Ask HN: Could VSCode be the new Emacs? (2021)](https://news.ycombinator.com/item?id=29159192)
 - [VSCode Web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser.
+- [nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments.

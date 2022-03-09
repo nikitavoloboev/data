@@ -130,3 +130,5 @@
 - [oksvg](https://github.com/srwiley/oksvg) - Partial implementation of SVG 2.0 specification in Go.
 - [SuperShields](https://supershields.io/) - Smart, Lua-powered SVG status badges. ([HN](https://news.ycombinator.com/item?id=30451402))
 - [myScale](https://webkul.github.io/myscale/) - Quick SVG Icon Resizer. ([Code](https://github.com/webkul/myscale))
+- [Gradient Badge](https://bokub.github.io/gradient-badge/) - Badge generator with color gradient support. ([Code](https://github.com/bokub/gradient-badge))
+- [PlutoSVG](https://github.com/sammycage/plutosvg) - Tiny SVG rendering library in C.

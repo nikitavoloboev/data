@@ -42,12 +42,14 @@
 - [Molten](https://github.com/Bogdanp/molten) - Minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later. ([Docs](https://moltenframework.com/))
 - [Lona](https://github.com/lona-web-org/lona) - Web application framework, designed to write responsive web apps in full Python.
 - [AIOHTTP](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python. ([Docs](https://docs.aiohttp.org/en/stable/))
+- [aiohttp-client-cache](https://github.com/JWCook/aiohttp-client-cache) - Async persistent cache for aiohttp requests.
 - [GQL](https://github.cokm/graphql-python/gql) - GraphQL client in Python.
 - [FastWSGI](https://github.com/jamesroberts/fastwsgi) - Ultra fast WSGI server for Python 3. ([HN](https://news.ycombinator.com/item?id=29571421))
 - [Starlite](https://github.com/Goldziher/starlite) - Light, opinionated and flexible ASGI API framework built on top of pydantic and Starlette.
 - [pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python.
 - [Faster-than-Requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3.
 - [Minos](https://github.com/minos-framework/minos-python) - Framework which helps you create reactive microservices in Python.
+- [py_webauthn](https://github.com/duo-labs/py_webauthn) - Pythonic WebAuthn.
 
 ## ML
 
@@ -183,6 +185,7 @@
 
 - [fastecdsa](https://github.com/AntonKueltz/fastecdsa) - Python library for fast elliptic curve crypto.
 - [PyCryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained cryptographic library for Python.
+- [eciespy](https://github.com/ecies/py) - Elliptic Curve Integrated Encryption Scheme for secp256k1 in Python.
 
 ## macOS
 

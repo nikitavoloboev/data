@@ -302,3 +302,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [All New Repls are Powered By Nix (2022)](https://blog.replit.com/powered-by-nix)
 - [Nix Flakes: Packages and How to Use Them (2022)](https://christine.website/blog/nix-flakes-2-2022-02-27)
 - [libnar](https://github.com/ebkalderon/libnar) - Library for reading and writing from NAR (Nix Archive) files written in Rust.
+- [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor (aka nom) to get additional information while building.

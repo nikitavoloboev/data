@@ -142,3 +142,4 @@
 - [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning (2021)](https://arxiv.org/abs/2109.11978) ([Code](https://github.com/leggedrobotics/legged_gym))
 - [Robotic Systems Lab | ETH Zurich](https://rsl.ethz.ch/) ([GitHub](https://github.com/leggedrobotics))
 - [Differentiable Gaussian Process Motion Planning (2020)](https://mohakbhardwaj.github.io/dgpmp2/) ([Code](https://github.com/mhmukadam/dgpmp2))
+- [Dojo](https://github.com/dojo-sim/Dojo.jl) - Differentiable physics simulator for robotics.

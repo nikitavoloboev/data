@@ -156,6 +156,8 @@
 - [Eric Normand - Grokking Simplicity](https://freecontent.manning.com/eric-normand-grokking-simplicity/)
 - [What Color Is Your Monad (2022)](https://patrickthebold.github.io/posts/what-color-is-your-monad/) ([HN](https://news.ycombinator.com/item?id=30330909))
 - [Async/Await is really just a subset of monads and do-notation for imperative languages](https://www.reddit.com/r/haskell/comments/t3wumj/asyncawait_is_really_just_a_subset_of_monads_and/)
+- [How to Use Monads without Understanding Them (2022)](https://elbear.com/how-to-use-monads-without-understanding-them.html) ([Reddit](https://www.reddit.com/r/haskell/comments/t8pksp/how_to_use_monads_without_understanding_them/))
+- [Functional Manipulation of Bit Streams](http://user.it.uu.se/~pergu/papers/bitstreams.pdf)
 
 ## Images
 

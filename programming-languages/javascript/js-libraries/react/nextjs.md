@@ -65,6 +65,7 @@
 - [NextJS Postgres Template](https://github.com/jimmylee/www-react-postgres)
 - [Next.js marketing website template for SaaS startups](https://github.com/Blazity/next-saas-starter)
 - [RainySystems Template Web App](https://github.com/RainySystems/RS-Webapp-Template-Nextjs) - Built with Next.js and Appwrite.
+- [NextJS Lite Example](https://github.com/shaneosullivan/NextJSLiteExample) - Server side only rendering.
 
 ## NextJS plugins
 

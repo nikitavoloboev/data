@@ -90,3 +90,4 @@ I especially like the distinction of distributing content over distributing link
 - [A guide to IPFS connectivity in web browsers (2021)](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/) ([HN](https://news.ycombinator.com/item?id=30440410))
 - [Swift IPFS API](https://github.com/ipfs-shipyard/swift-ipfs-http-client)
 - [IPFS Backed by Decentralized Storage](https://filebase.com/blog/introducing-support-for-ipfs-backed-by-decentralized-storage/) ([HN](https://news.ycombinator.com/item?id=30522635))
+- [ipfs-check](https://github.com/aschmahmann/ipfs-check) - Check if you can find your content on IPFS.

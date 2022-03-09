@@ -514,3 +514,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethers Flashbots](https://github.com/onbjerg/ethers-flashbots) - Ethers middleware to send transactions as Flashbots bundles.
 - [ERC-1155: Multi-Token Standard implementation](https://github.com/0xsequence/erc-1155)
 - [EVM puzzles](https://github.com/fvictorio/evm-puzzles) - Each puzzle consists on sending a successful transaction to a contract.
+- [Ultimate Guide to L2s on Ethereum](https://github.com/dcbuild3r/ethereum-l2)
+- [Configurable Asset Privacy for Ethereum (CAPE)](https://github.com/EspressoSystems/cape)
+- [eth-permit](https://github.com/dmihal/eth-permit) - Lightweight library for signing ERC-2612 permit signatures.

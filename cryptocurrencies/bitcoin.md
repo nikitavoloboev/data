@@ -185,3 +185,5 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [CoinPool: efficient off-chain payment pools for Bitcoin (2022)](https://coinpool.dev/v0.1.pdf) ([Tweet](https://twitter.com/lopp/status/1495768465373814790))
 - [Cryptonomicon: Among the Bitcoin maximalists (2022)](https://harpers.org/archive/2022/03/cryptonomicon-bitcoin-maximalists-miami/) ([HN](https://news.ycombinator.com/item?id=30468615))
 - [RoboSats](https://github.com/Reckless-Satoshi/robosats) - Simple and private bitcoin exchange.
+- [Bitcoin Implementation in Scala](https://github.com/bitcoin-s/bitcoin-s)
+- [Revault](https://github.com/revault/revaultd) - Bitcoin vault architecture for multi-party situations.

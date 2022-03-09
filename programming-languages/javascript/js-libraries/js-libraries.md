@@ -825,6 +825,7 @@
 - [apexcharts.js](https://github.com/apexcharts/apexcharts.js) - Interactive JavaScript Charts built on SVG.
 - [letMeScroll](https://github.com/BMSVieira/letmescroll.js) - Scroll made easy.
 - [Flowed](https://github.com/danielduarte/flowed) - Fast and reliable flow engine for orchestration and more uses in Node.js, Deno and the browser.
+- [Zipson](https://github.com/jgranstrom/zipson) - JSON parse and stringify with compression.
 
 ## Links
 

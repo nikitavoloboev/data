@@ -101,6 +101,7 @@
 - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 - [Breadth First Search in Rust (2022)](https://www.sotr.blog/articles/breadth-first-search)
 - [Damn Cool Algorithms: Levenshtein Automata (2010)](http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata) ([HN](https://news.ycombinator.com/item?id=30566119))
+- [Binary search with confidence](https://blog.tylerhou.io/posts/binary-search-with-confidence/) ([HN](https://news.ycombinator.com/item?id=30582168))
 
 ## Images
 

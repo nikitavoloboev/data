@@ -181,6 +181,8 @@
 - [Mjolnir](https://github.com/ldez/gha-mjolnir) - Close issues related to the merge of a pull request.
 - [Code sign a file](https://github.com/dlemstra/code-sign-action) - Action that signs libraries with a code signing certificate.
 - [Combine PRs](https://github.com/hrvey/combine-prs-workflow) - Combine/group together PRs (for example from Dependabot and similar services).
+- [Merge Dependabot](https://github.com/fastify/github-action-merge-dependabot) - Automatically approves and merges dependabot PRs.
+- [shot-scraper](https://github.com/simonw/shot-scraper) - Automated website screenshots using GitHub Actions.
 
 ## Go
 

@@ -224,3 +224,4 @@
 - [Explain the first 10 lines of Twitter's source code to me (2022)](https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/) ([HN](https://news.ycombinator.com/item?id=30468793))
 - [Obscure HTML Tags](https://devapt.com/html-tags) ([HN](https://news.ycombinator.com/item?id=30469695))
 - [It's always been you, Canvas2D (2022)](https://developer.chrome.com/blog/canvas2d/) ([HN](https://news.ycombinator.com/item?id=30553585))
+- [html5lib](https://github.com/html5lib/html5lib-python) - Pure-python library for parsing HTML.

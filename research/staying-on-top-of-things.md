@@ -247,3 +247,5 @@ And these Discord servers:
 - [Ask HN: What are some good tech magazines? (2022)](https://news.ycombinator.com/item?id=30206027)
 - [Hacker News Notifications](https://hnn.avci.me/) ([Code](https://github.com/mavci/hn-notifications))
 - [Things you notice when you quit the news (2016)](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/) ([HN](https://news.ycombinator.com/item?id=30430041))
+- [Just Five News · Daily News](https://justfive.news/) ([HN](https://news.ycombinator.com/item?id=30585080))
+- [Wikipedia Current Events](https://en.wikipedia.org/wiki/Portal:Current_events)

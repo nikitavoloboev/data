@@ -12,6 +12,7 @@
 - [rescript-query](https://github.com/rescriptbr/react-query) - ReScript bindings for React Query.
 - [rescript-chakra](https://github.com/ri7nz/rescript-chakra) - ReScript bindings for Chakra-UI.
 - [Routes](https://github.com/anuragsoni/routes) - Typed bidirectional router for OCaml/ReasonML web applications.
+- [ReForm](https://github.com/rescriptbr/reform) - Reasonably making forms sound good.
 
 ## Test
 

@@ -352,3 +352,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Fetch.ai](https://fetch.ai/) ([GitHub](https://github.com/fetchai)) ([Code](https://github.com/fetchai/fetchd))
 - [3Box Labs](https://3boxlabs.com/) - Creators of Ceramic Network.
 - [The Complete Guide to Getting Started With The Graph (2022)](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph) ([Tweet](https://twitter.com/camiinthisthang/status/1498704539297353731))
+- [Public Good Blockchain Development Guide](https://github.com/dcbuild3r/blockchain-development-guide)

@@ -103,6 +103,7 @@
 - [Kruger](https://github.com/BobbyAnguelov/KRG) - Game engine framework, basically an engine without a renderer.
 - [Rusty Engine](https://github.com/CleanCut/rusty_engine) - 2D game engine for learning Rust.
 - [Potato](https://github.com/potatoengine/potato) - Hobby C++ game engine.
+- [koi](https://github.com/kettle11/koi) - Game engine in Rust.
 
 ## Physics engines
 

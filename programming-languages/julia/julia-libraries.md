@@ -74,6 +74,7 @@
 - [MultistartOptimization.jl](https://github.com/tpapp/MultistartOptimization.jl) - Multistart optimization methods in Julia.
 - [Hyperopt](https://github.com/baggepinnen/Hyperopt.jl) - Hyperparameter optimization in Julia.
 - [ShapML](https://github.com/nredell/ShapML.jl) - Julia package for interpretable machine learning with stochastic Shapley values.
+- [DiffEqCallbacks.jl](https://github.com/SciML/DiffEqCallbacks.jl) - Library of callbacks for extending the solvers of DifferentialEquations.jl.
 
 ## Math
 
@@ -157,6 +158,7 @@
 - [MonteCarloMeasurements](https://github.com/baggepinnen/MonteCarloMeasurements.jl) - Propagation of distributions by Monte-Carlo sampling: Real number types with uncertainty represented by samples.
 - [DifferentialDynamicProgramming](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl) - Package for solving Differential Dynamic Programming and trajectory optimization problems.
 - [LowLevelParticleFilters](https://github.com/baggepinnen/LowLevelParticleFilters.jl) - Simple particle/kalman filtering, smoothing and parameter estimation.
+- [AbstractPPL.jl](https://github.com/TuringLang/AbstractPPL.jl) - Common types and interfaces for probabilistic programming.
 
 ## NLP
 
@@ -209,6 +211,7 @@
 - [XUnit.jl](https://github.com/RelationalAI-oss/XUnit.jl) - Unit-testing framework for Julia.
 - [TestEnv](https://github.com/JuliaTesting/TestEnv.jl) - Activate your test environment, so you can use your test dependencies in the REPL.
 - [ReferenceTests](https://github.com/JuliaTesting/ReferenceTests.jl) - Utility package for comparing data against reference files.
+- [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
 
 ## DB
 
@@ -516,3 +519,4 @@
 - [LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl) - Create and maintain local registries for Julia packages.
 - [jluna](https://github.com/Clemapfel/jluna) - Julia ⭤ C++ Wrapper with Focus on Modernity, Safety and Ease of Use.
 - [Julia Compiler Plugins](https://github.com/JuliaCompilerPlugins)
+

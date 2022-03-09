@@ -111,3 +111,4 @@
 - [xq](https://github.com/MiSawa/xq) - JQ reimplemented purely in Rust.
 - [JSON-Patch](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean JavaScript implementation of the JSON-Patch standard. Update JSON documents using delta patches.
 - [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line.
+- [JSON grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-json)

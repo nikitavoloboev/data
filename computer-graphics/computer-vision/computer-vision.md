@@ -590,3 +590,5 @@
 - [As-ViT: Auto-scaling Vision Transformers without Training (2022)](https://arxiv.org/abs/2202.11921) ([Code](https://github.com/VITA-Group/AsViT))
 - [Awesome 3D Body Papers](https://github.com/3DFaceBody/awesome-3dbody-papers)
 - [RINDNet: Edge Detection for Discontinuity in Reflectance, Illumination, Normal and Depth (2021)](https://arxiv.org/abs/2108.00616) ([Code](https://github.com/MengyangPu/RINDNet))
+- [Image Similarity Challenge](https://github.com/drivendataorg/image-similarity-challenge)
+- [Blended Diffusion for Text-driven Editing of Natural Images (2021)](https://arxiv.org/abs/2111.14818) ([Code](https://github.com/omriav/blended-diffusion))

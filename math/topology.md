@@ -25,3 +25,4 @@
 - [An Introduction to Topos Theory (2011)](https://www.fuw.edu.pl/~kostecki/ittt.pdf) ([HN](https://news.ycombinator.com/item?id=29366870))
 - [Topology and Computability (2022)](https://billwadge.com/2022/01/25/topology-and-computability/)
 - [Non-Hermitian topology in rock–paper–scissors games (2022)](https://www.nature.com/articles/s41598-021-04178-8)
+- [Topology of a latent space: problems with intrinsic dimension mismatch between data and latent space](https://medium.com/asap-report/topology-of-a-latent-space-few-potential-problems-shown-with-low-dimensional-synthetic-datasets-23e5b1a93ca7)

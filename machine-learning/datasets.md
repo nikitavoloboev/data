@@ -148,3 +148,4 @@
 - [PushShift Data Dumps](http://files.pushshift.io/)
 - [DeepEcho](https://github.com/sdv-dev/DeepEcho) - Synthetic Data Generation for mixed-type, multivariate time series.
 - [deduplify](https://github.com/Living-with-machines/deduplify) - Python tool to search for and remove duplicated files in messy datasets.
+- [CSVtoTable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.

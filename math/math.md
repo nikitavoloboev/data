@@ -2,6 +2,8 @@
 
 [Lean](logic/automated-theorem-proving/lean.md), [Univalent foundations](http://en.wikipedia.org/wiki/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
 
+[So you want to study mathematics](https://www.susanrigetti.com/math) is a great intro.
+
 ## Notes
 
 - Math can be learned, it's just a bit silly to dive into a homotopy type theory book and expect to get a firm grasp of things. It's like picking up a Chinese news paper and expecting to get an idea of what its content is about.
@@ -344,3 +346,4 @@
 - [Math3d](https://www.math3d.org/) - User-friendly 3d graphing calculator for the web. Create, share, and animate 3d mathematical scenes. ([Code](https://github.com/ChristopherChudzicki/math3d-react))
 - [1 thing in math you wish you had intuition for, but you don't](https://twitter.com/SC_Griffith/status/1494925459267674113)
 - [Optics vs Lenses, Operationally (2022)](https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html)
+- [So you want to study mathematics (2022)](https://www.susanrigetti.com/math) ([HN](https://news.ycombinator.com/item?id=30591177))

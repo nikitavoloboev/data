@@ -48,3 +48,4 @@
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - WebGPU Shading Language parser and reflection library for JavaScript.
 - [WebGPU.rocks](https://webgpu.rocks/) - WebGPU quick reference and documentation. ([Code](https://github.com/framefactory/webgpu.rocks))
 - [WebGPU experiments](https://github.com/Palats/webgpu)
+- [WebGPU — All of the cores, none of the canvas (2022)](https://surma.dev/things/webgpu/) ([HN](https://news.ycombinator.com/item?id=30600525))

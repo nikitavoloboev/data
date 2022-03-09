@@ -68,6 +68,7 @@
 - [Discord.ts](https://github.com/oceanroleplay/discord.ts) - Create a discord bot with TypeScript and Decorators.
 - [discord-rs](https://github.com/SpaceManiac/discord-rs) - Rust library for the Discord chat client API.
 - [discord.v](https://github.com/Terisback/discord.v) - Discord Bot Framework written in V.
+- [Discord++](https://github.com/DiscordPP/discordpp) - Modularized C++ Library for the Discord API. ([Template](https://github.com/DiscordPP/plugin-endpoints))
 
 ## Notes
 

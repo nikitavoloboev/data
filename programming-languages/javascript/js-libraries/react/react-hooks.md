@@ -167,6 +167,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [Watchable](https://github.com/shortwave/watchable) - Library to expose state into React.
 - [Alibaba Hooks](https://github.com/alibaba/hooks) - High-quality & reliable React Hooks library. ([Docs](https://ahooks.js.org/hooks/use-request/index))
 - [Recoil Persist](https://github.com/polemius/recoil-persist) - Tiny module for recoil to store and sync state to Storage.
+- [React Click Away Listener](https://github.com/ooade/react-click-away-listener) - Tiny React Click Away Listener built with React Hooks.
 
 ## Code
 

@@ -438,3 +438,4 @@ for i, _ in enumerate(nums):
 - [Raccoon](https://github.com/appcypher/raccoon) - Language with Python 3.x syntax that is amenable to static analysis.
 - [CPython, C standards, and IEEE 754 (2022)](https://lwn.net/SubscriberLink/886516/d835ee6026544345/) ([HN](https://news.ycombinator.com/item?id=30545466))
 - [A Gentle Introduction to Serialization for Python (2022)](https://machinelearningmastery.com/a-gentle-introduction-to-serialization-for-python/)
+- [tuna](https://github.com/nschloe/tuna) - Python profile viewer.

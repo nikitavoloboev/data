@@ -109,3 +109,5 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [The greatest resume I've ever seen](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen) ([HN](https://news.ycombinator.com/item?id=28705805))
 - [SkillNer](https://github.com/AnasAito/SkillNER) - NLP module to automatically Extract skills and certifications from unstructured job postings, texts, and applicant's resumes.
 - [CV auto-generated via GitHub Actions](https://github.com/dionhaefner/cv)
+- [Resume Parser](https://github.com/itsjafer/resume-parser) - Google Cloud function for querying Lever's resume parsing API.
+- [Resume Parser](https://resume-parser.vercel.app/) - Uses Lever's resume parsing API to parse resumes.

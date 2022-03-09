@@ -111,3 +111,5 @@
 - [Why I love Ruby (2022)](https://dev.to/asterite/why-i-love-ruby-part-1-20h2) ([Lobsters](https://lobste.rs/s/f9syni/why_i_love_ruby))
 - [Ruby Best Practices List](https://github.com/hexdevs/ruby-best-practices-list)
 - [Ruby Fiber Scheduler (2022)](https://brunosutic.com/blog/ruby-fiber-scheduler)
+- [mruby](https://mruby.org/) - Lightweight implementation of the Ruby language complying with part of the ISO standard. ([Code](https://github.com/mruby/mruby))
+- [mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - mruby bindings for zig.

@@ -89,3 +89,4 @@
 - [PicoTorrent](https://github.com/picotorrent/picotorrent) - Tiny, hackable BitTorrent client.
 - [Porla](https://github.com/porla/porla) - Programmable BitTorrent client for servers and seedboxes.
 - [transmission-trackers](https://github.com/blind-oracle/transmission-trackers) - Script to automatically add trackers from a list to all torrents in Transmission.
+- [Static torrent website with peer-to-peer queries over BitTorrent on 2M records (2022)](https://boredcaveman.xyz/post/0x2_static-torrent-website-p2p-queries.html) ([Lobsters](https://lobste.rs/s/pt8ptn/static_torrent_website_with_peer_peer))

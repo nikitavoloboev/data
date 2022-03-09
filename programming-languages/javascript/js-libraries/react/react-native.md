@@ -192,3 +192,4 @@
 - [React Native Pan Pinch View](https://github.com/fakeheal/react-native-pan-pinch-view) - View component for React Native with pinch to zoom and drag to pan functionality.
 - [SWR + React Native](https://github.com/nandorojo/swr-react-native) - React Native/React Navigation compatibility for Vercel's useSWR hook.
 - [React Native Week Month Date Picker](https://github.com/noona-hq/react-native-week-month-date-picker)
+- [React Native SQLite3](https://github.com/craftzdog/react-native-sqlite-2)

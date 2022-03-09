@@ -222,3 +222,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email to Phone Number Osint Tool (2019)](https://www.martinvigo.com/email2phonenumber/)
 - [smtp-server](https://github.com/nodemailer/smtp-server) - Create custom SMTP servers on the fly.
 - [Using email wrong (2022)](https://arne.me/blog/youre-using-email-wrong/) ([HN](https://news.ycombinator.com/item?id=30579189))
+- [Meilindex](https://github.com/tryffel/meilindex) - Fast full text search for email.

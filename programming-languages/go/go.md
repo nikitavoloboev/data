@@ -6,7 +6,7 @@ I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs
 
 Go promotes composition over inheritance.
 
-[Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to learn Go.
+[Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to [learn Go](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/).
 
 ## Commenting Go code
 
@@ -723,3 +723,4 @@ if err != nil {
 - [Can Generics Rescue Go's Clunky Error Handling? (2022)](https://blog.dnmfarrell.com/post/can-generics-rescue-golangs-clunky-error-handling/)
 - [Go: A Documentary](https://golang.design/history/)
 - [Awesome Go Security Resources](https://github.com/guardrailsio/awesome-golang-security)
+- [Best Go Tutorials in Town (2022)](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/)

@@ -353,3 +353,5 @@ Awesome List
 - [SponsorKit](https://github.com/antfu/sponsorkit) - Toolkit for generating sponsors images.
 - [GitHub Advisory Database](https://github.com/github/advisory-database) - Database of CVEs and GitHub-originated security advisories affecting the open source world. ([HN](https://news.ycombinator.com/item?id=30480862))
 - [GitHub Backup](https://github.com/josegonzalez/python-github-backup) - Backup a GitHub user or organization.
+- [Watermelon](https://github.com/watermelontools/wm-extension) - IDE extension that brings in answers of why a piece of code was written.
+- [Binrc](https://github.com/netlify/binrc) - Command line application to manage different versions of binaries stored on GitHub releases.

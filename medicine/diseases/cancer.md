@@ -33,3 +33,4 @@
 - [Awesome AI Cancer](https://github.com/cbailes/awesome-ai-cancer)
 - [Cancer risk across mammals (2021)](https://www.nature.com/articles/s41586-021-04224-5) ([Tweet](https://twitter.com/BeckiLee/status/1473913388753371139))
 - [Genome-informed cancer therapy (2022)](https://centuryofbio.substack.com/p/genome-informed-cancer-therapy)
+- [I am the healthiest person I know, and I got cancer](https://seema.page/) ([HN](https://news.ycombinator.com/item?id=30597187))

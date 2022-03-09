@@ -351,3 +351,4 @@
 - [Deep Robust](https://github.com/DSE-MSU/DeepRobust) - PyTorch adversarial library for attack and defense methods on images and graphs.
 - [TorchRec](https://github.com/pytorch/torchrec) - Library for modern production recommendation systems. ([Article](https://pytorch.org/blog/introducing-torchrec/)) ([HN](https://news.ycombinator.com/item?id=30496322))
 - [TorchStudio](https://github.com/TorchStudio/torchstudio) - IDE for PyTorch. ([Web](https://torchstudio.ai/))
+- [sk2torch](https://github.com/unixpickle/sk2torch) - Convert scikit-learn models to PyTorch modules.

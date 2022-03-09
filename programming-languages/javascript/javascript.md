@@ -209,7 +209,7 @@ if (
 - [React Workout: Reducers with Cassidy Williams (2020)](https://www.youtube.com/watch?v=sf4spiPynBE)
 - [JavaScript: The First 20 Years (2020)](http://www.wirfs-brock.com/allen/posts/866)
 - [Awesome Storybook](https://github.com/lauthieb/awesome-storybook)
-- [QuickJS](https://github.com/bellard/quickjs) - Small and embeddable Javascript engine. ([Web](https://bellard.org/quickjs/)) ([HN](https://news.ycombinator.com/item?id=24867103))
+- [QuickJS](https://github.com/bellard/quickjs) - Small and embeddable JavaScript engine. ([Web](https://bellard.org/quickjs/)) ([HN](https://news.ycombinator.com/item?id=24867103)) ([HN](https://news.ycombinator.com/item?id=30598026))
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
 - [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker. ([Web](https://hegel.js.org/)) ([Intro to Hegel](https://blog.logrocket.com/introduction-to-hegel/))
 - [NectarJS](https://github.com/NectarJS/nectarjs) - JS God mode. No VM. No Bytecode. No Garbage Collector. Full Compiled and Native binaries.

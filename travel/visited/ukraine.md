@@ -83,3 +83,6 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [The Failed Logistics of Russia's Invasion of Ukraine (2022)](https://www.youtube.com/watch?v=b4wRdoWpw0w)
 - [Captured Russian policemen with an incredible message to Ukrainians and fellow servicemen](https://www.reddit.com/r/nextfuckinglevel/comments/t7mjm7/captured_russian_policemen_with_an_incredible/) ([Tweet](https://twitter.com/hackingbutlegal/status/1500465032966062082))
 - [Offensive Realism offers explanation for Ukraine/Russia conflict](https://twitter.com/ProfPaulPoast/status/1500097922788175879)
+- [Ukrainian vs Russian: How Do These Languages Differ?](https://blog.duolingo.com/ukraine-language/)
+- [5 More Questions For Stephen Kotkin: Ukraine Edition (2022)](https://www.youtube.com/watch?v=ylaC0MUleZs)
+- [Stand with Ukraine](https://github.com/vshymanskyy/StandWithUkraine) - Support materials.
