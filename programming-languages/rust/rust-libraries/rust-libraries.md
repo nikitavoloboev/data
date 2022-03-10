@@ -231,6 +231,7 @@
 - [SQLite](https://github.com/stainless-steel/sqlite) - Provides an interface to SQLite.
 - [Syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust.
 - [xql](https://github.com/arch-mage/xql) - SQL query builder for sqlx.
+- [Oxide Crucible](https://github.com/oxidecomputer/crucible) - Prototype storage service.
 
 ## Video
 

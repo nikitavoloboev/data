@@ -25,6 +25,7 @@
 - [Remix React Native Web Starter](https://github.com/HorusGoul/remix-react-native-web-starter)
 - [Remix + Stitches](https://github.com/jjenzz/remix-stitches)
 - [Hacker News Clone Remix/React](https://github.com/clintonwoo/hackernews-remix-react)
+- [Remix TS Tailwind Quick Start](https://github.com/resir014/remix-typescript-tailwind-quickstart)
 
 ## Plugins
 

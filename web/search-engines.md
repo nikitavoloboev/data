@@ -206,3 +206,4 @@
 - [Goopt](https://github.com/jokenox/Goopt) - Search Engine for a Procedural Simulation of the Web with GPT-3. ([HN](https://news.ycombinator.com/item?id=30443738))
 - [Awesome Search](https://github.com/frutik/awesome-search) - All about the (e-commerce) search and its awesomeness.
 - [Virtualpaper](https://github.com/tryffel/virtualpaper) - Document management system with full-text-search.
+- [couch](https://github.com/anoriqq/couch) - Simple full text search engine written in Go.

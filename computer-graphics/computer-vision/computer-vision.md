@@ -601,3 +601,6 @@
 - [Video Grounding and Captioning](https://github.com/facebookresearch/grounded-video-description)
 - [Awesome Detection Transformer](https://github.com/IDEACVR/awesome-detection-transformer)
 - [StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis (2021)](https://arxiv.org/abs/2110.08985) ([Code](https://github.com/facebookresearch/StyleNeRF))
+- [Pyramidal Convolution: Rethinking Convolutional Neural Networks for Visual Recognition (2020)](https://arxiv.org/abs/2006.11538) ([Code](https://github.com/iduta/pyconv))
+- [MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation (2021)](https://arxiv.org/abs/2111.12707) ([Code](https://github.com/Vegetebird/MHFormer))
+- [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection (2022)](https://arxiv.org/abs/2203.03605) ([Code](https://github.com/IDEACVR/DINO))

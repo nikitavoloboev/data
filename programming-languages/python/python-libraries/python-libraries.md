@@ -828,3 +828,4 @@
 - [Sphinx, MyST, and Python Docs in 2022](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
 - [Quetz](https://github.com/mamba-org/quetz) - Open-Source Server for Conda Packages.
 - [Python Packaging User Guide](https://packaging.python.org/en/latest/) ([Code](https://github.com/pypa/packaging.python.org))
+- [PyPI Cloud](https://github.com/stevearc/pypicloud) - S3-backed PyPI server implementation.

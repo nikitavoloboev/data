@@ -81,3 +81,4 @@
 - [Grist](https://github.com/gristlabs/grist-core) - Modern relational spreadsheet. Open core alternative to Airtable and Google Sheets. ([HN](https://news.ycombinator.com/item?id=30392227))
 - [Data Engineering Practice Problems](https://github.com/danielbeach/data-engineering-practice)
 - [Dagster: Rebundling the Data Platform (2022)](https://dagster.io/blog/rebundling-the-data-platform)
+- [cq](https://github.com/markus-wa/cq) - Clojure Command-line Data Processor for JSON, YAML, EDN, XML and more.

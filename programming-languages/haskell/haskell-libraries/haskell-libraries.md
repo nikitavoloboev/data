@@ -31,6 +31,7 @@
 - [pool](https://github.com/bos/pool) - Fast Haskell library for managing medium-lifetime pooled resources, such as database connections.
 - [acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure.
 - [oso](https://github.com/circuithub/oso) - Haskell bindings to the Polar query engine and Oso authorization library.
+- [haskell-relational-record](https://github.com/khibino/haskell-relational-record) - Includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.
 
 ## Test
 

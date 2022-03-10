@@ -157,3 +157,4 @@
 - [rawpy](https://github.com/letmaik/rawpy) - RAW image processing for Python, a wrapper for libraw.
 - [Compressed Sensing in Python (2016)](http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/)
 - [Unraveling The JPEG (2019)](https://parametric.press/issue-01/unraveling-the-jpeg/) ([HN](https://news.ycombinator.com/item?id=30597322))
+- [GIFT](https://github.com/disintegration/gift) - Go Image Filtering Toolkit.
