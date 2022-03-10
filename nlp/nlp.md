@@ -494,3 +494,5 @@
 - [Serve PyTorch model as an API using AWS + serverless framework](https://github.com/anandsm7/BERT_as_serverless_service)
 - [Neural reality of argument structure constructions (2022)](https://arxiv.org/abs/2202.12246)
 - [DeepNet: Scaling Transformers to 1,000 Layers (2022)](https://arxiv.org/abs/2203.00555) ([HN](https://news.ycombinator.com/item?id=30533914))
+- [Large Models of Source Code](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code.
+- [HyperMixer: An MLP-based Green AI Alternative to Transformers (2022)](https://arxiv.org/abs/2203.03691)

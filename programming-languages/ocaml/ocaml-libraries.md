@@ -160,6 +160,8 @@
 - [AlphaRegex](https://github.com/kupl/AlphaRegexPublic) - Synthesizer for regular expressions.
 - [py.ml](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 - [Affect](https://github.com/dbuenzli/affect) - Composable concurrency primitives with OCaml effects handlers.
+- [Depyt](https://github.com/samoht/depyt) - Type combinator library.
+- [ocaml-websocket](https://github.com/vbmithr/ocaml-websocket) - Websocket library for OCaml.
 
 ## Links
 

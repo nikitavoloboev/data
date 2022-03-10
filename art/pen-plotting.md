@@ -22,3 +22,4 @@
 - [An intro to Pen Plotters (2019)](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) ([HN](https://news.ycombinator.com/item?id=28126840))
 - [plotter-tools](https://github.com/WesleyAC/plotter-tools) - Tools for interacting with pen plotters that use HPGL.
 - [Plotty Bird](https://github.com/WesleyAC/plotty-bird) - Flappy Bird implemented on the HP7440A pen plotter.
+- [cozyvec](https://github.com/brubsby/cozyvec) - Cozy Plotter Art Terminal.

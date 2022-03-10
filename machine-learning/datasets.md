@@ -149,3 +149,6 @@
 - [DeepEcho](https://github.com/sdv-dev/DeepEcho) - Synthetic Data Generation for mixed-type, multivariate time series.
 - [deduplify](https://github.com/Living-with-machines/deduplify) - Python tool to search for and remove duplicated files in messy datasets.
 - [CSVtoTable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
+- [Kubric](https://github.com/google-research/kubric) - Data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
+- [ASPset-510](https://github.com/anibali/aspset-510) - Large-scale video dataset for the training and evaluation of 3D human pose estimation models.
+- [Self-Distilled Internet Photos (SDIP) Dataset](https://github.com/self-distilled-stylegan/self-distilled-internet-photos)

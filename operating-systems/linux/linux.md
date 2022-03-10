@@ -29,6 +29,7 @@
 - [Iglunix](https://iglunix.xyz/) - Linux (and other kernels) distro with no GNU components.
 - [GoboLinux](https://gobolinux.org/) - Redefining Linux filesystem hierarchy. ([HN](https://news.ycombinator.com/item?id=29714825))
 - [Minimal Linux Live](https://github.com/ivandavidov/minimal) - Tiny educational Linux distribution, which is designed to be built from scratch by using a collection of automated shell scripts. ([Web](http://minimal.idzona.com/#home))
+- [elementary OS](https://elementary.io/) - Thoughtful, capable, and ethical replacement for Windows and macOS. ([GitHub](https://github.com/elementary)) ([elementary OS is imploding (2022)](https://lunduke.substack.com/p/elementary-os-is-imploding?s=r)) ([HN](https://news.ycombinator.com/item?id=30611748))
 
 ## WM
 

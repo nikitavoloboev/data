@@ -724,3 +724,5 @@ if err != nil {
 - [Go: A Documentary](https://golang.design/history/)
 - [Awesome Go Security Resources](https://github.com/guardrailsio/awesome-golang-security)
 - [Best Go Tutorials in Town (2022)](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/)
+- [Clean architecture/ best practices in Go (2022)](https://www.reddit.com/r/golang/comments/t9no58/clean_architecture_best_practices_in_go/)
+- [Isolating problematic Cgo code (2022)](https://jonwillia.ms/2022/03/09/isolating-problematic-cgo-code)

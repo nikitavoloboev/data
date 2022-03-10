@@ -107,3 +107,4 @@
 - [divANS](https://github.com/dropbox/divans) - Crate meant to be used for generic data compression.
 - [Dictionary Compression (2022)](https://kevincox.ca/2022/03/01/dictionary-compression/) ([HN](https://news.ycombinator.com/item?id=30517656))
 - [Compressing and embedding a Wordle word list (2022)](https://nullprogram.com/blog/2022/03/07/) ([Lobsters](https://lobste.rs/s/smtr5t/compressing_embedding_wordle_word_list))
+- [zlib](https://github.com/haskell/zlib) - Compression and decompression in the gzip and zlib format.

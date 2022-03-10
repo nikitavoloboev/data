@@ -355,3 +355,5 @@ Awesome List
 - [GitHub Backup](https://github.com/josegonzalez/python-github-backup) - Backup a GitHub user or organization.
 - [Watermelon](https://github.com/watermelontools/wm-extension) - IDE extension that brings in answers of why a piece of code was written.
 - [Binrc](https://github.com/netlify/binrc) - Command line application to manage different versions of binaries stored on GitHub releases.
+- [Drift](https://drift.maxleiter.com/) - Self-hostable clone of GitHub Gist. ([Code](https://github.com/maxleiter/drift)) ([HN](https://news.ycombinator.com/item?id=30607367))
+- [GitHub Blocks Template](https://github.com/githubnext/blocks-template) - Template for creating custom Blocks.

@@ -90,6 +90,7 @@
 - [Creases](https://github.com/liamcain/obsidian-creases) - Tools for effectively folding markdown sections in Obsidian.
 - [File Tree Alternative Plugin](https://github.com/ozntel/file-tree-alternative)
 - [Things Logbook for Obsidian](https://github.com/liamcain/obsidian-things-logbook) - Sync your Things 3 Logbook with Obsidian.
+- [Things Link](https://github.com/gavinmn/obsidian-things-link) - Seamlessly create Things tasks and projects from Obsidian.
 - [Calendar Plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 
 ## Themes

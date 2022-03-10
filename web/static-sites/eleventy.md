@@ -39,3 +39,4 @@
 - [Slinkity](https://slinkity.dev/) - Tool for bringing dynamic, clientside interactions to your static 11ty site. ([Code](https://github.com/slinkity/slinkity))
 - [eleventy-plugin-remark](https://github.com/florianeckerstorfer/eleventy-plugin-remark) - Plugin for Eleventy to process Markdown files with Remark.
 - [Eleventy Plugin - MDX](https://github.com/jamshop/eleventy-plugin-mdx)
+- [eleventy-dev-server](https://github.com/11ty/eleventy-dev-server) - Minimal, modern, generic, hot-reloading local web server to help web developers.

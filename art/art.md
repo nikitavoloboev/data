@@ -159,6 +159,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Federico Italiano](https://www.instagram.com/federico._.italiano/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
 - [Wu Yi](https://www.instagram.com/wuyi555/)
+- [Alexander](https://www.instagram.com/wrapped.nil/)
 - [Robby Johnson](https://www.artstation.com/rjohnson)
 - [Jasmin Habezai-Fekri](https://www.artstation.com/curlscurly)
 - [Sean Sevestre](https://www.artstation.com/sean)

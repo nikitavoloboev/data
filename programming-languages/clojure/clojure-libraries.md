@@ -168,6 +168,7 @@
 - [matcher-combinators](https://github.com/nubank/matcher-combinators) - Library for making assertions about nested data structures.
 - [Claypoole](https://github.com/clj-commons/claypoole) - Threadpool tools for Clojure.
 - [kibit](https://github.com/jonase/kibit) - Static code analyzer for Clojure, ClojureScript.
+- [Safely](https://github.com/BrunoBonacci/safely) - Clojure's circuit-breaker library for handling retries in an elegant declarative way.
 
 ## Links
 

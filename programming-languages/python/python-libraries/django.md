@@ -1,5 +1,9 @@
 # [Django](https://www.djangoproject.com/)
 
+## OSS Django Apps
+
+- [Django Rest Framework + Next.js + Tailwind](https://github.com/Emceelamb/django-next)
+
 ## Notes
 
 - Make migration (where `./manage` is a script that wraps over `python manage.py`):

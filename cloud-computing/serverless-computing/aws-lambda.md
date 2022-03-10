@@ -105,3 +105,7 @@
 - [Prisma + Lambda + CDK Sample](https://github.com/aws-samples/prisma-lambda-cdk) - Build and deploy a Lambda function with Prisma ORM by AWS Cloud Development Kit.
 - [AWS Lambda in Action Event-driven serverless applications Book (2016)](https://www.manning.com/books/aws-lambda-in-action) ([Code](https://github.com/danilop/AWS_Lambda_in_Action))
 - [Jessica Kerr on Observability and Honeycomb's Use of AWS Lambda for Retriever (2022)](https://www.infoq.com/podcasts/aws-lambda-custom-database-retriever/)
+- [Knative Lambda Runtimes](https://github.com/triggermesh/knative-lambda-runtime) - Running AWS Lambda Functions on Knative/Kubernetes Clusters.
+- [Optimizing Lambda Performance for Your Serverless Applications (2022)](https://dev.to/tlakomy/optimizing-lambda-performance-for-your-serverless-applications-44lo)
+- [Running AWS Lambda Custom Runtime in Knative](https://github.com/triggermesh/aws-custom-runtime)
+- [AWS Lambda Adapter](https://github.com/aws-samples/aws-lambda-adapter) - Run web applications on AWS Lambda.

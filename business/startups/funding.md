@@ -50,6 +50,7 @@
 - [If you're good at building products, you have all the leverage. Don't let investors, exchanges, or people promising "partnerships" take advantage of you.](https://twitter.com/DylanMacalinao/status/1441587664029839364)
 - [I pitched hundreds of institutions and thousands of angels. One by one we started winning over early believers. Three years later, I had a hundred checks from a hundred angels (roughly $10m). And that’s how we capitalized the first three years of Peloton.](https://twitter.com/keylargofoley/status/1453495219522097157)
 - [Dilution really adds up. Avoid rounds completely or do them at <10% dilution if you can.](https://twitter.com/immad/status/1472594190559166470)
+- [How to win term sheets consistently: 1. Be nice and don't ghost people. 2. Run a fast process and make an offer quickly. 3. Establish a reputation for being helpful after you invest. 4. Offer a 3x higher valuation than every other VC.](https://twitter.com/lpolovets/status/1501589642960855046)
 
 ## Links
 
@@ -153,3 +154,4 @@
 - [Abcum](https://abcum.com/)
 - [What a $500k grant proposal looks like (2022)](https://austinhenley.com/blog/500kgrant.html) ([HN](https://news.ycombinator.com/item?id=30418562))
 - [Sponsorhello](https://sponsorhello.org/) - Fund the projects you love. ([Code](https://github.com/VLK-STUDIO/sponsorhello))
+- [Fairmint](https://www.fairmint.co/) - Tap Into Your Community Capital. ([Twitter](https://twitter.com/FairmintCO))

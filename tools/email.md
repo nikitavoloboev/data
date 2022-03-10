@@ -223,3 +223,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [smtp-server](https://github.com/nodemailer/smtp-server) - Create custom SMTP servers on the fly.
 - [Using email wrong (2022)](https://arne.me/blog/youre-using-email-wrong/) ([HN](https://news.ycombinator.com/item?id=30579189))
 - [Meilindex](https://github.com/tryffel/meilindex) - Fast full text search for email.
+- [MJML](https://github.com/mjmlio/mjml) - Framework that makes responsive-email easy. ([Web](https://mjml.io/))

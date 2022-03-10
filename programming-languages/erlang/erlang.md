@@ -132,3 +132,5 @@
 - [equery](https://github.com/egobrain/equery) - Library for PostgreSQL SQL generation.
 - [ExRated](https://github.com/grempe/ex_rated) - Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.
 - [Zotonic](http://zotonic.com/) - Erlang Web Framework & CMS. ([Code](https://github.com/zotonic/zotonic))
+- [gpb](https://github.com/tomas-abrahamsson/gpb) - Google Protobuf implementation for Erlang.
+- [Erlang online resources](https://gist.github.com/macintux/6349828)

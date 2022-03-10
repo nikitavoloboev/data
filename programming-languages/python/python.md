@@ -91,7 +91,7 @@ for i, _ in enumerate(nums):
 - [scalene](https://github.com/emeryberger/scalene) - High-performance CPU and memory profiler for Python.
 - [Iterables vs. Iterators vs. Generators (2014)](https://nvie.com/posts/iterators-vs-generators/)
 - [Making Python Programs Blazingly Fast (2020)](https://martinheinz.dev/blog/13) ([HN](https://news.ycombinator.com/item?id=22040899))
-- [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/) ([HN](https://news.ycombinator.com/item?id=30621552))
 - [Python Coding Guidelines for Sanity](https://github.com/rednafi/py-sanity)
 - [Human's Ultimate Guide to setup.py](https://github.com/navdeep-G/setup.py)
 - [Python Guide by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
@@ -439,3 +439,4 @@ for i, _ in enumerate(nums):
 - [CPython, C standards, and IEEE 754 (2022)](https://lwn.net/SubscriberLink/886516/d835ee6026544345/) ([HN](https://news.ycombinator.com/item?id=30545466))
 - [A Gentle Introduction to Serialization for Python (2022)](https://machinelearningmastery.com/a-gentle-introduction-to-serialization-for-python/)
 - [tuna](https://github.com/nschloe/tuna) - Python profile viewer.
+- [Sending notifications programmatically: let me count the ways (2022)](https://www.trickster.dev/post/sending-notifications-programmatically/)

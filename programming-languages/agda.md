@@ -74,3 +74,4 @@
 - [Conceptual Mathematics](https://github.com/JonathanLorimer/conceptual-mathematics) - Proofs for the exercises for Lawvere and Schanuel's Conceptual Mathematics.
 - [agda-search](https://github.com/plt-amy/agda-search) - Search for identifiers in Agda codebases.
 - [Normalization by Evaluation, for combinators](https://github.com/Trebor-Huang/combinator-nbe)
+- [Cubes](https://github.com/effectfully/Cubes) - Dependently typed type checker for a TT with intervals.

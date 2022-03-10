@@ -65,3 +65,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Curated List of Biomarkers, Blood Tests, and Blood Tracking.
 - [Mapping the electronic health record (2021)](https://wardle.org/strategy/2021/10/21/mapping-the-epr-1.html) ([Tweet](https://twitter.com/mwardle/status/1451096305535700995))
 - [How to maintain a healthy brain (2021)](https://psyche.co/guides/how-to-maintain-a-healthy-brain-to-reduce-the-risk-of-dementia) ([HN](https://news.ycombinator.com/item?id=29120920))
+- [Ask HN: Any weird tips for weight loss? (2022)](https://news.ycombinator.com/item?id=30617118)

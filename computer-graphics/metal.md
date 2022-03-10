@@ -1,5 +1,7 @@
 # [Metal](https://developer.apple.com/metal/)
 
+[Alloy](https://github.com/s1ddok/Alloy) is nice lib.
+
 ## Links
 
 - [Awesome Metal](https://github.com/adamnemecek/awesome-metal) - Collection of Metal and MetalKit projects and resources.

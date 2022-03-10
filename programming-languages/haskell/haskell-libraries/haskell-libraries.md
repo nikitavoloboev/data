@@ -57,6 +57,7 @@
 
 - [eio](https://github.com/kowainik/eio) - IO with Exceptions tracked on the type-level.
 - [on-error](https://github.com/Simspace/on-error) - Clearly-delineated error-handling.
+- [annotated-exception](https://github.com/parsonsmatt/annotated-exception) - Provides a special AnnotatedException type which allows you to decorate Haskell exceptions with additional information.
 
 ## Graphics
 
@@ -251,6 +252,8 @@
 - [pinch](https://github.com/abhinav/pinch) - Serialization library for Haskell that provides support for Apache Thrift.
 - [gRPC-haskell](https://github.com/awakesecurity/gRPC-haskell) - Haskell gRPC support.
 - [Liquid Fixpoint](https://github.com/ucsd-progsys/liquid-fixpoint) - Horn Clause Constraint Solving for Liquid Types.
+- [time](https://github.com/haskell/time) - Haskell time library.
+- [unix](https://github.com/haskell/unix) - POSIX functionality.
 
 ## Notes
 

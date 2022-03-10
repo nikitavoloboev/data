@@ -213,7 +213,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [nomnoml](https://www.nomnoml.com/) - Tool for drawing UML diagrams based on a simple syntax. ([Code](https://github.com/skanaar/nomnoml))
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [QRImage](https://hughchen.github.io/qr_image/) - Web app to generate QR codes with images. ([Code](https://github.com/HughChen/qr_image)) ([HN](https://news.ycombinator.com/item?id=30162233))
-- [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika))
+- [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika)) ([HN](https://news.ycombinator.com/item?id=30611657))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
 - [ToolJet](https://tooljet.io/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
@@ -668,3 +668,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Software I'm Thankful For (2022)](https://www.jowanza.com/blog/2022/2/21/software-im-thankful-for) ([Lobsters](https://lobste.rs/s/ltyyzm/software_i_m_thankful_for))
 - [Boring Generators](https://github.com/abhaynikam/boring_generators) - Make your development faster by delegating boring setups to us.
 - [What's an extremely useful app most people probably don't know about? (2022)](https://twitter.com/9to5mac/status/1498384339851227137)
+- [Some tiny personal programs I've written (2022)](https://jvns.ca/blog/2022/03/08/tiny-programs/) ([HN](https://news.ycombinator.com/item?id=30614623))

@@ -625,7 +625,7 @@
 - [Momentum Residual Neural Networks (2021)](https://arxiv.org/abs/2102.07870) ([Code](https://github.com/michaelsdr/momentumnet))
 - [Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
 - [Awesome Treasure of Transformers Models Collection](https://github.com/ashishpatel26/Treasure-of-Transformers)
-- [Self-attention Does Not Need $O(n^2)$ Memory (2021)](https://arxiv.org/abs/2112.05682v2) ([Code](https://github.com/AminRezaei0x443/memory-efficient-attention))
+- [Self-attention Does Not Need $O(n^2)$ Memory (2021)](https://arxiv.org/abs/2112.05682v2) ([Code](https://github.com/AminRezaei0x443/memory-efficient-attention)) ([Code](https://github.com/lucidrains/memory-efficient-attention-pytorch))
 - [Neural Discrete Representation Learning (2021)](https://arxiv.org/abs/1711.00937) ([Code](https://github.com/MishaLaskin/vqvae))
 - [VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (2018)](https://arxiv.org/abs/1707.05612) ([Code](https://github.com/fartashf/vsepp))
 - [JAX ResNet](https://github.com/n2cholas/jax-resnet) - Implementations and checkpoints for ResNet, Wide ResNet, ResNeXt, ResNet-D, and ResNeSt in JAX (Flax).
@@ -711,3 +711,11 @@
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 - [AST: Audio Spectrogram Transformer (2021)](https://arxiv.org/abs/2104.01778) ([Code](https://github.com/YuanGongND/ast))
 - [Practical Machine Learning](https://github.com/eugenesiow/practical-ml) - Learn by experimenting on state-of-the-art machine learning models and algorithms.
+- [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer (2022)](https://arxiv.org/abs/2203.03466) ([Code](https://github.com/microsoft/mup))
+- [Optimization for machine learning course (2022)](https://edu.epfl.ch/coursebook/en/optimization-for-machine-learning-CS-439) ([Code](https://github.com/epfml/OptML_course))
+- [Awesome Long-Tailed Learning](https://github.com/Stomach-ache/awesome-long-tail-learning)
+- [Offline Reinforcement Learning as One Big Sequence Modeling Problem (2021)](https://arxiv.org/abs/2106.02039) ([Code](https://github.com/jannerm/trajectory-transformer))
+- [Deep Learning’s New Infrastructure (2022)](https://mirror.xyz/gensyn.eth/0SHaOYVPhATdTfw8Ypixoln_G5HF_NcVz9gEI7AXLTw)
+- [Gensyn](https://www.gensyn.ai/) - Hyperscale, cost-efficient compute protocol for the world's deep learning models. ([Twitter](https://twitter.com/gensynai))
+- [Software Engineering for AI/ML -- An Annotated Bibliography](https://github.com/ckaestne/seaibib)
+- [Physics-Based Deep Learning](https://github.com/thunil/Physics-Based-Deep-Learning)

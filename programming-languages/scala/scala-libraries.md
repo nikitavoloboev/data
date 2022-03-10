@@ -166,3 +166,4 @@
 - [sbt-autoversion](https://github.com/sbt/sbt-autoversion) - Builds on the sbt-release and sbt-git plugins to automatically manage the version bump to apply.
 - [sbt-release](https://github.com/sbt/sbt-release) - Customizable release process that you can add to your project.
 - [Sane Scala Dependencies in a Poly-Repo Codebase (2021)](https://alexklibisz.com/2021/01/31/sane-scala-sbt-dependencies.html)
+- [Finding Scala Libraries (2022)](https://www.scala-lang.org/blog/2022/03/08/finding-awesome-libraries.html)

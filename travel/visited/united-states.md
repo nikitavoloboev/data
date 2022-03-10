@@ -118,3 +118,4 @@ Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/stat
 - [The Far Reach of the White House's Zero Trust Memo (2022)](https://www.pomerium.com/blog/white-house-zt-memo/)
 - [Incomplete list of US bombing attacks on civilians since 1990](https://twitter.com/queeralamode/status/1499774998591926274)
 - [America Produces Enough Oil to Meet Its Needs, So Why Do We Import Crude? (2022)](https://www.nasdaq.com/articles/america-produces-enough-oil-to-meet-its-needs-so-why-do-we-import-crude) ([HN](https://news.ycombinator.com/item?id=30602060))
+- [Solar Power/Batteries are 60% of planned new U.S. electric generation capacity (2022)](https://www.eia.gov/todayinenergy/detail.php?id=51518) ([HN](https://news.ycombinator.com/item?id=30597672))

@@ -22,3 +22,5 @@
 - [Генерация текста с помощью цепей Маркова](https://bespoyasov.ru/blog/text-generation-with-markov-chains/)
 - [markov-strings](https://github.com/scambier/markov-strings) - Simplistic Markov chain text generator.
 - [markov-strings-db](https://github.com/claabs/markov-strings-db) - Rewrite of scambier/markov-strings made to utilize a relational SQL database rather than an in-memory object.
+- [Localization Schemes: A Framework for Proving Mixing Bounds for Markov Chains (2022)](https://arxiv.org/abs/2203.04163)
+- [Introduction to Automatic Backward Filtering Forward Guiding (2022)](https://arxiv.org/abs/2203.04155)

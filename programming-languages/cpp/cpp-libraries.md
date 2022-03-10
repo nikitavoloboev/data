@@ -345,6 +345,7 @@
 - [nanobind](https://github.com/wjakob/nanobind) - Seamless operability between C++17 and Python.
 - [thread-pool](https://github.com/DeveloperPaul123/thread-pool) - Simple, functional thread pool implementation using pure C++20.
 - [Maat](https://github.com/trailofbits/maat) - Open-source symbolic execution framework.
+- [mp-units](https://github.com/mpusz/units) - Compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation.
 
 ## Links
 

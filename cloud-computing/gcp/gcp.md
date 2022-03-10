@@ -69,3 +69,6 @@
 - [GCSB](https://github.com/cloudspannerecosystem/gcsb) - Cloud Spanner load generator to load test your application and pre-warm the database before launch.
 - [Google Cloud Developer Cheat Sheet](https://googlecloudcheatsheet.withgoogle.com/) ([HN](https://news.ycombinator.com/item?id=30357355))
 - [Google Cloud architecture diagramming tool](https://googlecloudcheatsheet.withgoogle.com/architecture) ([Article](https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool))
+- [Terraform Provider for Google Cloud Platform](https://github.com/hashicorp/terraform-provider-google-beta)
+- [Google Rust APIs](https://github.com/Byron/google-apis-rs) - Binding and CLI generator for all Google APIs.
+- [Google APIs Client Library for Go](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.

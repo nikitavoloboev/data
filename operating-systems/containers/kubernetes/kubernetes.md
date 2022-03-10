@@ -647,3 +647,6 @@
 - [Kube-burner](https://github.com/cloud-bulldozer/kube-burner) - Tool aimed at stressing Kubernetes clusters by creating or deleting a high quantity of objects.
 - [Complete Kubernetes Tutorial for Beginners - YouTube (2020)](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)
 - [How Kubernetes works under the hood with Docker Desktop (2022)](https://www.docker.com/blog/how-kubernetes-works-under-the-hood-with-docker-desktop/)
+- [TriggerMesh](https://github.com/triggermesh/triggermesh) - Open source event-driven integration platform powered by Kubernetes and Knative.
+- [kCTF](https://github.com/google/kctf) - Kubernetes-based infrastructure for CTF competitions.
+- [Using client-go: Writing Go clients for talking to Kubernetes (2022)](https://leanpub.com/using-client-go-season-1) ([Code](https://github.com/lucasepe/using-client-go))

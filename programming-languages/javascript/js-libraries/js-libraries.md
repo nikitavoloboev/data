@@ -826,6 +826,9 @@
 - [letMeScroll](https://github.com/BMSVieira/letmescroll.js) - Scroll made easy.
 - [Flowed](https://github.com/danielduarte/flowed) - Fast and reliable flow engine for orchestration and more uses in Node.js, Deno and the browser.
 - [Zipson](https://github.com/jgranstrom/zipson) - JSON parse and stringify with compression.
+- [text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a <textarea> and <input> (including Undo in most browsers).
+- [Jump.js](https://github.com/callmecavs/jump.js) - Modern smooth scrolling library.
+- [ringbuf.js](https://github.com/padenot/ringbuf.js) - Wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer.
 
 ## Links
 

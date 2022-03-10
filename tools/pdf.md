@@ -44,3 +44,4 @@
 - [Excalibur](https://excalibur-py.readthedocs.io/en/master/) - PDF Table Extraction for Humans. ([Code](https://github.com/camelot-dev/excalibur))
 - [Tabula](https://tabula.technology/) - Extract Tables from PDFs. ([Code](https://github.com/tabulapdf/tabula)) ([HN](https://news.ycombinator.com/item?id=30475784))
 - [SlidePilot](https://slidepilotapp.com/en/) - PDF Presentation Tool for macOS. ([Code](https://github.com/SlidePilot/SlidePilot-macOS))
+- [giopdf](https://github.com/andybalholm/giopdf) - PDF viewer library for Gio.

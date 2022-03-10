@@ -273,3 +273,5 @@
 - [On the Difficulty of Extrapolation with NN Scaling (2022)](http://lukemetz.com/difficulty-of-extrapolation-nn-scaling/)
 - [Depth Estimation by Convolutional Neural Networks (2016)](https://www.fit.vut.cz/study/thesis/18852/) ([Code](https://github.com/janivanecky/Depth-Estimation))
 - [Generative Flow Networks (2022)](https://yoshuabengio.org/2022/03/05/generative-flow-networks/)
+- [Feature Learning in Infinite-Width Neural Networks (2021)](https://arxiv.org/abs/2011.14522) ([Code](https://github.com/edwardjhu/TP4))
+- [µTransfer: A technique for hyperparameter tuning of enormous neural networks (2022)](https://www.microsoft.com/en-us/research/blog/%C2%B5transfer-a-technique-for-hyperparameter-tuning-of-enormous-neural-networks/)

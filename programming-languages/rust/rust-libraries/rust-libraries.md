@@ -89,7 +89,7 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi))
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi)) ([Poem Grants](https://github.com/DDtKey/poem-grants))
@@ -124,6 +124,7 @@
 - [rust-otp](https://github.com/TimDumol/rust-otp) - Rust library for performing the HMAC-based One-Time Password (HOTP) and Time-based One-Time Password (TOTP) algorithms.
 - [axum-live-view](https://github.com/davidpdrsn/axum-live-view) - Real-time user experiences with server-rendered HTML.
 - [protocol](https://github.com/dylanmckay/protocol) - Easy protocol definitions in Rust.
+- [rust-socketio](https://github.com/1c3t3a/rust-socketio) - Implementation of a socket.io client written in the Rust.
 
 ## WASM
 
@@ -293,6 +294,8 @@
 - [vtkio](https://github.com/elrnv/vtkio) - Visualization ToolKit (VTK) file parser and writer.
 - [rui](https://github.com/audulus/rui) - Rust UI library, inspired by SwiftUI. ([Reddit](https://www.reddit.com/r/rust/comments/t4cyp6/rui_experimental_declarative_rust_ui_library/))
 - [Screen 13](https://github.com/attackgoat/screen-13) - Easy-to-use 2D/3D rendering engine in the spirit of QBasic.
+- [image-gif](https://github.com/image-rs/image-gif) - GIF encoding and decoding library.
+- [cavalier_contours](https://github.com/jbuckmccready/cavalier_contours) - 2D polyline/shape library for offsetting, combining, etc.
 
 ## Games
 
@@ -444,6 +447,7 @@
 - [listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation.
 - [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) - Rust Language Bindings for the libseccomp Library.
 - [libsystemd](https://github.com/lucab/libsystemd-rs) - Pure-Rust client library to work with systemd.
+- [vHost](https://github.com/rust-vmm/vhost) - Pure rust library for vDPA, vhost and vhost-user.
 
 ## Embedded
 
@@ -1555,6 +1559,9 @@
 - [rangemap](https://github.com/jeffparsons/rangemap) - Map data structure whose keys are stored as ranges.
 - [flexstr](https://github.com/nu11ptr/flexstr) - Immutable, clone-efficient String replacement for Rust.
 - [minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust.
+- [Liquid Rust](https://github.com/fan-tom/liquid-rust) - Attempt to implement Liquid Types type checker for Rust code.
+- [RiteLinked](https://github.com/dataslime/ritelinked) - HashMap-like containers that hold their key-value pairs in a user controllable order.
+- [blurhash-rs](https://github.com/Raincal/blurhash-rs) - Pure Rust implementation of Blurhash.
 
 ## Cargo Plugins
 

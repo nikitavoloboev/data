@@ -297,3 +297,7 @@
 - [AutoFaiss](https://github.com/criteo/autofaiss) - Automatically create Faiss knn indices with the most optimal similarity search parameters.
 - [Statistical Forecast](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
 - [MLSpec](https://github.com/mlspec/MLSpec) - Standardize the intercomponent schemas for a multi-stage ML Pipeline.
+- [Alfred Python](https://github.com/jinfagang/alfred) - Command line tool for deep-learning usage.
+- [Bacon](https://github.com/dag-org/bacon) - Framework for orchestrating machine learning experiments on AWS.
+- [PyClustering](https://github.com/annoviko/pyclustering) - Python, C++ data mining library.
+- [PQk-means](https://github.com/DwangoMediaVillage/pqkmeans) - Fast and memory-efficient clustering.

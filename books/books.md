@@ -289,6 +289,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What is your favorite fiction book? (2022)](https://news.ycombinator.com/item?id=30400572)
 - [Ask HN: Recommend a biography? (2022)](https://news.ycombinator.com/item?id=30405924)
 - [Peaceful books for someone in the middle of war](https://www.reddit.com/r/Fantasy/comments/t75z4r/peaceful_books_for_someone_in_the_middle_of_war/)
+- [What was your last 5 star read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/t9xa3j/what_was_your_last_5_star_read/)
 
 ## Interesting Prose Books
 

@@ -381,6 +381,11 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Viselect](https://github.com/Simonwep/selection) - Simple and lightweight library to add a visual way of selecting elements, just like on your Desktop.
 - [secure-webhooks](https://github.com/quirrel-dev/secure-webhooks) - Secure signature-based authentication helper for webhooks.
 - [BlueLibs](https://github.com/bluelibs/bluelibs) - Collection of open-source software solutions designed for the modern web and enterprise scale.
+- [proto-arrows](https://github.com/krismuniz/proto-arrows) - Utility functions for drawing beautiful arrows using cubic bezier paths.
+- [Squirrelly](https://github.com/squirrellyjs/squirrelly) - Modern, configurable, and blazing fast template engine implemented in JavaScript.
+- [Quagga2](https://github.com/ericblade/quagga2) - Advanced barcode-scanner written in JavaScript and TypeScript.
+- [Freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - Library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or triggered manually.
+- [Iti](https://github.com/molszanski/iti) - 1kB IoC container for Typescript/JavaScript with a focus on async flow.
 
 ## Links
 
@@ -427,3 +432,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [convert-to-dts](https://github.com/suchipi/convert-to-dts) - Converts the source code for any .js or .ts file into the equivalent .d.ts code TypeScript would generate.
 - [publib](https://github.com/cdklabs/publib) - Unified toolchain for publishing libraries to popular package managers.
 - [ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation.
+- [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node.

@@ -182,7 +182,8 @@
 - [Code sign a file](https://github.com/dlemstra/code-sign-action) - Action that signs libraries with a code signing certificate.
 - [Combine PRs](https://github.com/hrvey/combine-prs-workflow) - Combine/group together PRs (for example from Dependabot and similar services).
 - [Merge Dependabot](https://github.com/fastify/github-action-merge-dependabot) - Automatically approves and merges dependabot PRs.
-- [shot-scraper](https://github.com/simonw/shot-scraper) - Automated website screenshots using GitHub Actions.
+- [shot-scraper](https://github.com/simonw/shot-scraper) - Automated screenshots for documentation, built on Playwright. ([Article](https://simonwillison.net/2022/Mar/10/shot-scraper/)) ([HN](https://news.ycombinator.com/item?id=30621802))
+- [Semver Release](https://github.com/K-Phoen/semver-release-action) - Automatically create SemVer compliant releases based on PR labels.
 
 ## Go
 
@@ -426,3 +427,5 @@
 - [GitHub Actions by Example](https://www.actionsbyexample.com/) ([HN](https://news.ycombinator.com/item?id=30060765)) ([Code](https://github.com/macintoshpie/ghactionsbyexample))
 - [How We Write GitHub Actions in Go (2022)](https://full-stack.blend.com/how-we-write-github-actions-in-go.html) ([Reddit](https://www.reddit.com/r/golang/comments/smval3/how_we_write_github_actions_in_go/))
 - [Security monitoring for the GitHub-hosted runner](https://github.com/step-security/harden-runner)
+- [Organization workflows app](https://github.com/SvanBoxel/organization-workflows) - Allows you to run GitHub Actions workflows across multiple repositories, which is not yet natively supported.
+- [Debug your GitHub Actions by using SSH](https://github.com/lhotari/action-upterm)

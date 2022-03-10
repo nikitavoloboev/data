@@ -155,3 +155,5 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Open Salary and Equity Database](https://topstartups.io/) ([HN](https://news.ycombinator.com/item?id=30269953))
 - [How can (not software) engineers do good?](https://twitter.com/ben_j_todd/status/1491401046706782210)
 - [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s? (2022)](https://twitter.com/danluu/status/1447997574556880902) ([HN](https://news.ycombinator.com/item?id=30574489))
+- [Lessons from a tech job search (2022)](https://blog.nindalf.com/posts/tech-interview/) ([HN](https://news.ycombinator.com/item?id=30592572))
+- [Senior devs. Is anyone else insulted by coding exams? (2022)](https://news.ycombinator.com/item?id=30615411)

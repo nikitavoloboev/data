@@ -175,3 +175,4 @@
 - [Ichigo Lisp](https://github.com/zick/IchigoLisp) - LISP 1.5(-ish) implementation in WebAssembly.
 - [Otus Lisp](https://github.com/yuriy-chumak/ol) - Purely functional dialect of Lisp.
 - [Early Ideas: A Modern Lisp Machine from Scratch (2018)](https://luksamuk.codes/posts/lispm-001.html)
+- [Visible Lisp Computer (2019)](http://www.technoblogy.com/show?2ODQ)

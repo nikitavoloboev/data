@@ -141,3 +141,4 @@
 - [KneadData](https://github.com/biobakery/kneaddata) - Tool designed to perform quality control on metagenomic and metatranscriptomic sequencing data, especially data from microbiome experiments.
 - [RiboDetector](https://github.com/hzi-bifo/RiboDetector) - Accurately yet rapidly detect and remove rRNA sequences from metagenomeic, metatranscriptomic, and ncRNA sequencing data.
 - [NanoSim](https://github.com/bcgsc/NanoSim) - Nanopore sequence read simulator.
+- [GenVisR](https://github.com/griffithlab/GenVisR) - Genome data visualizations.

@@ -218,3 +218,4 @@
 - [Collision Detection Book](http://www.jeffreythompson.org/collision-detection/) ([Code](https://github.com/jeffThompson/CollisionDetection))
 - [4 Ways to Create a Mesh for a Sphere](https://github.com/caosdoar/spheres)
 - [Exposure Fusion – local tonemapping for real-time rendering (2022)](https://bartwronski.com/2022/02/28/exposure-fusion-local-tonemapping-for-real-time-rendering/)
+- [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)](http://nothings.org/gamedev/ssao/)

@@ -48,3 +48,4 @@
 - [tss-react](https://github.com/garronej/tss-react) - makeStyles is dead, long live makeStyles.
 - [Griffel](https://github.com/microsoft/griffel) - CSS-in-JS with ahead-of-time compilation.
 - [vanilla-classnames](https://github.com/Amareis/vanilla-classnames) - Better classnames utility for vanilla-extract.
+- [freestyler](https://github.com/streamich/freestyler) - 5th generation CSS-in-JS library.

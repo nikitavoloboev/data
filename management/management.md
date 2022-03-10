@@ -186,3 +186,4 @@
 - [Best resources for founders to learn to become better managers (2022)](https://twitter.com/tylertringas/status/1493634477922263045)
 - [How do you make the most of 1:1 time for your direct report?](https://twitter.com/ramannoodlez/status/1492678565850189825)
 - [Ask HN: Books you should read when you transform from SWE into SWE-Management (2022)](https://news.ycombinator.com/item?id=30497703)
+- [How to get the most out of your 1:1s (2022)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/) ([HN](https://news.ycombinator.com/item?id=30593164))

@@ -434,3 +434,6 @@
 - [Non blocking and zero downtime ALTER statements in PostgreSQL with pg-osc (2022)](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/) ([HN](https://news.ycombinator.com/item?id=30579847)) ([HN](https://news.ycombinator.com/item?id=30579847))
 - [migrator](https://github.com/blainehansen/migrator) - Postgres migration generator and runner that uses raw declarative SQL.
 - [libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server.
+- [How we optimized PostgreSQL queries 100x (2022)](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe) ([Reddit](https://www.reddit.com/r/programming/comments/t9ivyt/how_we_optimized_postgresql_queries_100x/))
+- [Postgres Auditing in 150 lines of SQL (2022)](https://supabase.com/blog/2022/03/08/audit) ([HN](https://news.ycombinator.com/item?id=30615470))
+- [supa_audit](https://github.com/supabase/supa_audit) - PostgreSQL extension is a generic solution for tracking changes to tables' data over time.

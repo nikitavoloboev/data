@@ -92,3 +92,6 @@
 - [prisma-ast](https://github.com/MrLeebo/prisma-ast) - Abstract Syntax Tree for parsing schema.prisma files.
 - [Prima Client Rust](https://github.com/Brendonovich/prisma-client-rust)
 - [Prisma2Keystone](https://github.com/brookmg/prisma2keystone) - CLI to generate a starter schema for keystone-6 from a pre-existing prisma schema.
+- [Prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - Use Prisma as a multi-tenant provider for your application.
+- [Schema-Based Multi-Tenancy with NestJS and Prisma (2020)](https://darioielardi.dev/schema-based-multi-tenancy-with-nestjs-and-prisma) ([Code](https://github.com/darioielardi/nestjs-prisma-multitenant))
+- [prisma-case-format](https://github.com/iiian/prisma-case-format) - Give your introspected schema.prisma sane naming conventions.

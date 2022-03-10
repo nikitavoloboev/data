@@ -61,3 +61,5 @@
 - [Geometry Sketcher](https://github.com/hlorus/geometry_sketcher) - Constraint-based geometry sketcher for blender.
 - [Blender.jl](https://github.com/jagot/Blender.jl) - Julia interface to Blender-as-a-Python-module.
 - [Synthetic Data creation with Blender](https://github.com/sean-halpin/synthetic_dataset_creation_blender)
+- [BlenderProc2](https://github.com/DLR-RM/BlenderProc) - Procedural Blender pipeline for photorealistic training image generation.
+- [Blender 3.1 (2022)](https://www.blender.org/download/releases/3-1/) ([HN](https://news.ycombinator.com/item?id=30617723))

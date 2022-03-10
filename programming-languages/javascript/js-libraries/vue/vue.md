@@ -6,6 +6,7 @@
 - [Vue Advanced Chat](https://github.com/antoine92190/vue-advanced-chat) - Beautiful chat rooms component made with Vue.js.
 - [Official Vue.js Blog](https://github.com/vuejs/blog)
 - [Discord Clone](https://github.com/SOKHUONG/discord-clone)
+- [Vue Minesweeper](https://github.com/antfu/vue-minesweeper)
 
 ## Notes
 
@@ -118,3 +119,4 @@
 - [Nuxt3 + URQL + SSR](https://github.com/bicouy0/nuxt3-urql)
 - [Nuxt 3 Starter](https://github.com/xiaoluoboding/nuxt3-starter) - Better Nuxt 3 starter template.
 - [nuxt-gql](https://github.com/Diizzayy/nuxt-gql) - Minimal GraphQL Client + Code Generation for Nuxt 3.
+- [Vue Use Motion](https://github.com/vueuse/motion) - Vue Composables putting your components in motion.

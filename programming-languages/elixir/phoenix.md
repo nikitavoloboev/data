@@ -76,3 +76,4 @@
 - [LiveViewJS](https://github.com/floodfx/liveviewjs) - TypeScript back end for LiveView Apps (Phoenix LiveView). ([HN](https://news.ycombinator.com/item?id=30303237))
 - [Petal Boilerplate](https://github.com/petalframework/petal_boilerplate) - Clean install of the latest Phoenix with some extras to get you started.
 - [LiveViews](https://github.com/dbohdan/liveviews) - Phoenix LiveView workalikes for different languages and frameworks.
+- [Build Simple Reusable Widgets Using Slots (2022)](https://fly.io/phoenix-files/build-simpe-reusable-widgets-using-slots/)

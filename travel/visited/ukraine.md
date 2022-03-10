@@ -86,3 +86,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Ukrainian vs Russian: How Do These Languages Differ?](https://blog.duolingo.com/ukraine-language/)
 - [5 More Questions For Stephen Kotkin: Ukraine Edition (2022)](https://www.youtube.com/watch?v=ylaC0MUleZs)
 - [Stand with Ukraine](https://github.com/vshymanskyy/StandWithUkraine) - Support materials.
+- [VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine](https://github.com/zhukovyuri/VIINA)
+- [Zelensky's 14th day of war speech](https://twitter.com/ChristopherJM/status/1501577368049176584)

@@ -8,6 +8,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
 - [bubblelister](https://github.com/treilik/bubblelister) - bubble to list your structs in a bubbletea program.
 - [Bubble-table](https://github.com/Evertras/bubble-table) - Table component for the Bubble Tea framework.
+- [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
@@ -141,6 +142,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-safeweb](https://github.com/google/go-safeweb) - Secure-by-default HTTP servers in Go. ([Article](https://blogtitle.github.io/go-safe-html/))
 - [httplog](https://github.com/go-chi/httplog) - Go HTTP request logger with structured logging capabilities.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
+- [HTTP2](https://github.com/dgrr/http2) - HTTP/2 implementation for fasthttp.
 - [session](https://github.com/fasthttp/session) - Session implementation for fasthttp.
 - [Router](https://github.com/fasthttp/router) - Router implementation for fasthttp.
 - [HTTP2](https://github.com/fasthttp/http2) - HTTP/2 implementation for fasthttp.
@@ -1393,6 +1395,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-message](https://github.com/emersion/go-message) - Streaming Go library for the Internet Message Format and mail messages.
 - [Go Chainable](https://github.com/neurocollective/go_chainable) - .map().filter().reduce() in Go. ([HN](https://news.ycombinator.com/item?id=30582862))
 - [hcledit](https://github.com/mercari/hcledit) - Go package to edit HCL configuration.
+- [SSE](https://github.com/r3labs/sse) - Server Sent Events Client/Server Library for Go.
 
 ## Links
 
@@ -1455,3 +1458,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Starter](https://github.com/allaboutapps/go-starter) - Opinionated production-ready SQL-/Swagger-first RESTful JSON API written in Go, highly integrated with VSCode DevContainers.
 - [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects (2022)](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
 - [SQL Query Strategy for complex structs (2022)](https://www.reddit.com/r/golang/comments/t7w2qo/sql_query_strategy_for_complex_structs/)
+- [Tygo](https://github.com/gzuidhof/tygo) - Generate Typescript types from Go source code.
+- [gochecknoinits](https://github.com/leighmcculloch/gochecknoinits) - Check that no inits functions are present in Go code.
+- [Building Rich CLI Applications with Go's Built-in Templating (2022)](https://lakefs.io/building-rich-cli-applications-with-gos-built-in-templating//#) ([Reddit](https://www.reddit.com/r/golang/comments/ta313j/building_rich_cli_applications_with_gos_builtin/))

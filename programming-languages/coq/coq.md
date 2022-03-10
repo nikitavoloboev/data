@@ -123,3 +123,4 @@
 - [Huffman](https://github.com/coq-community/huffman) - Correctness proof of the Huffman coding algorithm in Coq.
 - [Nuprl's type theory in Coq](https://github.com/vrahli/NuprlInCoq)
 - [Trakt](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics in Coq.
+- [metalib](https://github.com/plclub/metalib) - Penn Locally Nameless Metatheory Library.

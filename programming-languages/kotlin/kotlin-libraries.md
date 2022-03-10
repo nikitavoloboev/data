@@ -2,6 +2,7 @@
 
 ## Web
 
+- [OkHttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM.
 - [Javalin](https://github.com/tipsy/javalin) - Simple and modern Java and Kotlin web framework. ([Web](https://javalin.io/))
 - [NetworkResponseAdapter](https://github.com/haroldadmin/NetworkResponseAdapter) - Kotlin Coroutines based Retrofit call adapter that handles errors as a part of state.
 - [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
@@ -56,8 +57,10 @@
 - [kjob](https://github.com/justwrote/kjob) - Lightweight coroutine based persistent job/cron scheduler written in Kotlin.
 - [ktoml](https://github.com/akuleshov7/ktoml) - Multiplatform TOML parser and serializer/deserializer for Kotlin Native.
 - [DI.kt](https://github.com/sergeshustoff/dikt) - Simple and powerful DI for kotlin multiplatform.
+- [Textricator](https://github.com/measuresforjustice/textricator) - Tool to extract text from documents and generate structured data.
 
 ## Links
 
 - [Package Search](https://package-search.jetbrains.com/) - Search for any Java or Kotlin library. ([Article](https://blog.jetbrains.com/idea/2020/04/package-search-on-the-web))
 - [Awesome KMM](https://github.com/terrakok/kmm-awesome)
+- [Jetpack Compose Tutorials and Playground](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)

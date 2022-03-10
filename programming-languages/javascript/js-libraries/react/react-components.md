@@ -271,6 +271,8 @@
 - [React Awesome Shapes](https://github.com/ashutosh1919/react-awesome-shapes) - Insert Awesome Shapes into Your React Site with Ease.
 - [React Photo View](https://github.com/MinJieLiu/react-photo-view) - Exquisite React photo preview component.
 - [React H5 Audio Player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
+- [react-ansi-dumi](https://github.com/RaoHai/react-ansi) - Foldable and searchable ansi log viewer for React.
+- [Interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 
 ## Links
 
@@ -306,7 +308,7 @@
 - [Agrippa](https://github.com/NitzanHen/agrippa) - React CLI for component generation.
 - [Awesome React Headless Components](https://github.com/jxom/awesome-react-headless-components)
 - [preactement](https://github.com/jhukdev/preactement) - Create a custom element from any Preact component.
-- [Good advice on JSX conditionals (2022)](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/)
+- [Advice on JSX Conditionals (2022)](https://thoughtspile.github.io/2022/01/17/jsx-conditionals/) ([HN](https://news.ycombinator.com/item?id=30596970))
 - [React Runner](https://github.com/nihgwu/react-runner) - Run your React code on the go.
 - [react-extras](https://github.com/sindresorhus/react-extras) - Useful components and utilities for working with React.
 - [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.

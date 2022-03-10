@@ -95,3 +95,4 @@
 - [Wave function collapse explained (2022)](https://www.reddit.com/r/AskPhysics/comments/sud292/is_my_analogy_on_wave_function_collapse_correct/)
 - [My Quantum Leap (2022)](https://nautil.us/my-quantum-leap-14132/)
 - [A wave function does not collapse upon detection?](https://physics.stackexchange.com/questions/697682/a-wave-function-does-not-collapse-upon-detection) ([HN](https://news.ycombinator.com/item?id=30567066))
+- [It’s time to admit quantum theory has reached a dead end (2022)](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/) ([HN](https://news.ycombinator.com/item?id=30607692))

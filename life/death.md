@@ -67,3 +67,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [World Mortality Dataset](https://github.com/akarlinsky/world_mortality)
 - [Neuroscientists have recorded the activity of a dying human brain (2022)](https://blog.frontiersin.org/2022/02/22/what-happens-in-our-brain-when-we-die/) ([HN](https://news.ycombinator.com/item?id=30431711))
 - [Hidetaka Miyazaki sees death as a feature, not a bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug) ([HN](https://news.ycombinator.com/item?id=30522706))
+- [Regrets of the Dying (2010)](https://bronnieware.com/blog/regrets-of-the-dying/) ([HN](https://news.ycombinator.com/item?id=30593302))

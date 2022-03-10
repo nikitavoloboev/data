@@ -303,3 +303,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix Flakes: Packages and How to Use Them (2022)](https://christine.website/blog/nix-flakes-2-2022-02-27)
 - [libnar](https://github.com/ebkalderon/libnar) - Library for reading and writing from NAR (Nix Archive) files written in Rust.
 - [nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor (aka nom) to get additional information while building.
+- [nixpack](https://github.com/flatironinstitute/nixpack) - nix+spack.
+- [nix-html](https://github.com/ursi/nix-html) - HTML DSL for Nix.

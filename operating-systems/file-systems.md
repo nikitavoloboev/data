@@ -102,3 +102,4 @@
 - [The time has come to replace file systems (2022)](https://didgets.substack.com/p/where-did-i-put-that-file) ([HN](https://news.ycombinator.com/item?id=30449263))
 - [AnyFS](https://github.com/pixelomer/AnyFS) - Simple filesystem which stores metadata using JSON.
 - [rust-vfs](https://github.com/manuel-woelker/rust-vfs) - Virtual filesystem for Rust.
+- [When and why to deprecate filesystems (2022)](https://lwn.net/SubscriberLink/886708/bb94ce7c5231d242/)

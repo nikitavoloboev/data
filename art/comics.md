@@ -17,3 +17,4 @@
 - [Extra Ordinary Comics](https://www.exocomics.com/) ([IG](https://www.instagram.com/exocomics/))
 - [Polina Gurtovaya's Comics](https://speakerdeck.com/hellsquirrel/)
 - [Pretends to be Drawing](https://ptbd.jwels.berlin/)
+- [The Oatmeal](https://www.theoatmeal.com/) - Comics by Matthew Inman.

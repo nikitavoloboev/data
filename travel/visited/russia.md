@@ -478,3 +478,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Путин — это следствие, а не причина](https://twitter.com/GrayOdesa/status/1500588657891233797)
 - [Russia's Chechen Wars. 1994-2000. Lessons From Urban Combat](https://www.rand.org/content/dam/rand/pubs/monograph_reports/MR1289/RAND_MR1289.pdf) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/t8acrj/russias_chechen_wars_19942000_lessons_from_urban/))
 - [Тред коллаборантов Русского режима](https://twitter.com/death_is_invtbl/status/1500746521565745157)
+- [Russian economy explained (2022)](https://twitter.com/kamilkazani/status/1501360272442896388)
+- [«Сейчас вас всех будут девственности лишать». Как в ОВД «Братеево» пытали девушек, задержанных на антивоенном митинге](https://zona.media/article/2022/03/09/brateevo) ([Tweet](https://twitter.com/ivegottheflu/status/1501492445229752320))
+- [Хотят ли русские войны](https://www.dorussianswantwar.com/) ([Tweet](https://twitter.com/alexey_minyaylo/status/1500789953042821122))
+- [Акунин – что происходит с Россией (2022)](https://www.youtube.com/watch?v=70RmF0rPj9o)

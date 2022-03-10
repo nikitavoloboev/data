@@ -67,3 +67,4 @@
 - [How to Build a Machine Learning Demo in 2022](https://nicjac.dev/posts/how-to-build-machine-learning-demo-in-2022/)
 - [Zetane Viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer.
 - [ONNX Model Zoo](https://github.com/onnx/models) - Collection of pre-trained, state-of-the-art models in the ONNX format.
+- [Model Zoo for MindSpore](https://github.com/mindspore-ai/models)

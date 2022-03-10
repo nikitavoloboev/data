@@ -160,3 +160,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Ikea’s Race for the Last of Europe’s Old-Growth Forest](https://newrepublic.com/article/165245/ikea-romania-europe-old-growth-forest) ([Tweet](https://twitter.com/alex_sammon/status/1493971018725138434))
 - [What's the most effective way to tackle climate change? (2022)](https://twitter.com/ben_j_todd/status/1494660872152784897)
 - [Amazon rainforest is losing its ability to recover from destruction (2022)](https://www.ft.com/content/9bb87474-49de-4ac1-92f0-cc291f789357) ([HN](https://news.ycombinator.com/item?id=30601329))
+- [Ask HN: Book recommendations for renewable energy and climate change? (2022)](https://news.ycombinator.com/item?id=30611900)

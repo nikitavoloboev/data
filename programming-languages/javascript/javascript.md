@@ -408,3 +408,4 @@ if (
 - [JavaScript on Exercism](https://exercism.org/tracks/javascript) ([Code](https://github.com/exercism/javascript))
 - [Source Map-Aware Code Generation (2022)](https://gal.hagever.com/posts/source-map-aware-code-generation)
 - [Things you don't need JavaScript for (2022)](https://lexoral.com/blog/you-dont-need-js/) ([HN](https://news.ycombinator.com/item?id=30512512))
+- [Proposal for Type Syntax in JavaScript](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/) ([Code](https://github.com/giltayar/proposal-types-as-comments)) ([Reddit](https://www.reddit.com/r/javascript/comments/taejmb/a_proposal_for_type_syntax_in_javascript/))

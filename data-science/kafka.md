@@ -92,3 +92,4 @@
 - [confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client.
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI.
 - [Introduction to Apache Kafka by James Ward (2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
+- [GraphQL Kafka Subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions)

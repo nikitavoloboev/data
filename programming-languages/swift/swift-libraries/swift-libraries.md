@@ -437,6 +437,7 @@
 - [TabBar](https://github.com/onl1ner/TabBar) - Highly customizable tab bar for your SwiftUI application.
 - [AxisSheet for SwiftUI](https://github.com/jasudev/AxisSheet) - Handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode.
 - [SwiftUI WrappingStack](https://github.com/diniska/swiftui-wrapping-stack) - SwiftUI Views for wrapping HStack elements into multiple lines.
+- [SymbolPicker](https://github.com/xnth97/SymbolPicker) - Simple and cross-platform SFSymbol picker for SwiftUI.
 
 ## Test
 
@@ -461,6 +462,7 @@
 - [TestCleaner](https://github.com/ZevEisenberg/TestCleaner) - Tidy up your XCTests.
 - [Mendoza](https://github.com/Subito-it/Mendoza) - Dispatch Apple's UI Tests over multiple physical machines.
 - [Mussel](https://github.com/UrbanCompass/Mussel) - Framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
+- [Spectre](https://github.com/kylef/Spectre) - BDD Framework and test runner for Swift projects and playgrounds.
 
 ## API
 
@@ -998,6 +1000,7 @@
 - [APNGKit](https://github.com/onevcat/APNGKit) - High performance framework for loading and displaying APNG images in iOS and macOS.
 - [DateHelper](https://github.com/melvitax/DateHelper) - Swift Date extension helper.
 - [SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library for parsing and drawing SVG images to CoreGraphics contexts.
+- [Async+](https://github.com/async-plus/async-plus) - Chainable interface for Swift's async/await.
 
 ## Other (not lib)
 

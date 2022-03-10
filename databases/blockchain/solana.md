@@ -229,3 +229,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [The Solana Programming Model (2022)](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) ([Tweet](https://twitter.com/VictorPontis/status/1498881837049036802))
 - [How Solana NFTs Differ from Ethereum (2021)](https://lu.ma/p/yfM8WI50zBghS9w/How-Solana-NFTs-Differ-from-Ethereum)
 - [How to Find the Solana NFT’s Someone Owns (2021)](https://lu.ma/p/hJyaa2S3ExuvmK8/How-to-Find-the-Solana-NFTs-Someone-Owns)
+- [In-EVM Solana "Light Client" State Verification](https://github.com/NilFoundation/evm-solana-verification)
+- [Solana Indexer](https://github.com/holaplex/solana-indexer) - Index Solana data using accountsdb.

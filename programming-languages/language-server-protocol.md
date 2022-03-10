@@ -19,3 +19,4 @@
 - [efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server.
 - [LanguageClient](https://github.com/ChimeHQ/LanguageClient) - Language Server Protocol (LSP) client for Swift.
 - [A simple tool kit helping you create language server with Rust (2022)](https://www.reddit.com/r/rust/comments/sszwvz/a_simple_tool_kit_helping_you_create_language/)
+- [Boilerplate for a rust language server powered by tower-lsp](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate)

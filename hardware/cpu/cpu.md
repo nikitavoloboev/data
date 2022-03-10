@@ -140,3 +140,5 @@
 - [BLAS-level CPU Performance in 100 Lines of C](https://cs.stanford.edu/people/shadjis/blas.html) ([HN](https://news.ycombinator.com/item?id=30509893))
 - [Simple three-stage pipeline RISC-V implementation written in Chisel 3 HDL with support for AXI4-Lite](https://github.com/howardlau1999/yatcpu)
 - [Pico-8: CPU](https://pico-8.fandom.com/wiki/CPU)
+- [Benchmarking the Apple M1 Max (2021)](https://tlkh.dev/benchmarking-the-apple-m1-max)
+- [Apple M1 Ultra (2022)](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/) ([HN](https://news.ycombinator.com/item?id=30604470))

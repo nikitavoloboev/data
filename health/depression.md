@@ -54,3 +54,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: At a peak of my dev career, I hate my life (2022)](https://news.ycombinator.com/item?id=30132560)
 - [Gut microbe linked to depression in large health study (2022)](https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study) ([HN](https://news.ycombinator.com/item?id=30235378))
 - [How to recover from depression](https://www.youtube.com/watch?v=TVgQ_tgWMyU)
+- [Movies to Watch When Depressed](https://www.reddit.com/r/MovieSuggestions/comments/t9ugd0/requesting_movies_to_watch_when_depressed/)

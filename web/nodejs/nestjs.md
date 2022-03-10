@@ -32,3 +32,4 @@
 - [NestJS Crash Course - Build a Complete Backend API (2022)](https://www.youtube.com/watch?v=BiN-xzNkH_0)
 - [Prisma 2 Impressions with NestJS (2021)](https://www.youtube.com/watch?v=Aq1U_Ku8Jig)
 - [NestJs JWT - Access Tokens & Refresh Tokens (2021)](https://www.youtube.com/watch?v=uAKzFhE3rxU)
+- [Terminus NestJS](https://github.com/nestjs/terminus)

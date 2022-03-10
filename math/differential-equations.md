@@ -30,3 +30,4 @@
 - [MIT Fast Methods for Partial Differential and Integral Equations Course (2021)](https://github.com/mitmath/18336)
 - [Diffrax](https://github.com/patrick-kidger/diffrax) - Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.
 - [TorchPhysics](https://github.com/boschresearch/torchphysics) - Python library of deep learning methods for solving differential equations.
+- [diffeq](https://github.com/mattsse/diffeq) - Basic Ordinary Differential Equation solvers.

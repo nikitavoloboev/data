@@ -72,3 +72,4 @@
 - [Functional Programming in Idris 2](https://github.com/stefan-hoeck/idris2-tutorial)
 - [Idris2 TLS](https://github.com/octeep/idris2-tls) - Portable idris2 implementation of TLS.
 - [idris2-http](https://github.com/octeep/idris2-http) - HTTP(s) client in idris.
+- [Idris2-Table](https://github.com/madman-bob/idris2-table) - Table library for Idris 2.

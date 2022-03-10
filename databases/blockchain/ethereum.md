@@ -414,7 +414,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Optimistic Ethereum Tutorials](https://github.com/ethereum-optimism/optimism-tutorial)
 - [The Portal Network](https://github.com/ethereum/portal-network-specs) - Specifications for the Stateless Ethereum research effort.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.
-- [Multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one.
+- [Multicall](https://github.com/makerdao/multicall) - Aggregate multiple constant function call results into one. ([Fork](https://github.com/mds1/multicall))
 - [Revoke.cash](https://revoke.cash/) - Revoke your ERC20 token allowances. ([Code](https://github.com/rkalis/revoke.cash))
 - [Earnifi](https://earni.fi/) - Find Crypto Airdrops. ([GitHub](https://github.com/Earnifi))
 - [MEV-geth](https://github.com/flashbots/mev-geth) - Go implementation of MEV-Auction for Ethereum.
@@ -517,3 +517,9 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ultimate Guide to L2s on Ethereum](https://github.com/dcbuild3r/ethereum-l2)
 - [Configurable Asset Privacy for Ethereum (CAPE)](https://github.com/EspressoSystems/cape)
 - [eth-permit](https://github.com/dmihal/eth-permit) - Lightweight library for signing ERC-2612 permit signatures.
+- [money-legos](https://github.com/studydefi/money-legos) - One stop shop for Ethereum ABIs, addresses, and Solidity interfaces.
+- [Cairo Language Server](https://github.com/ericglau/cairo-ls) - Code assistance for writing Cairo smart contracts for StarkNet.
+- [Basic string utilities for Solidity](https://github.com/Arachnid/solidity-stringutils)
+- [Fuel Network](https://fuel.network/) - Focused on sustainable blockchain scaling with optimistic rollups. ([GitHub](https://github.com/FuelLabs)) ([Fuel TypeScript SDK](https://github.com/FuelLabs/fuels-ts))
+- [semaphore-rs](https://github.com/worldcoin/semaphore-rs) - Rust support library for semaphore.
+- [Optimism Spec](https://github.com/ethereum-optimism/optimistic-specs) - Protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum.

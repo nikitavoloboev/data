@@ -35,6 +35,7 @@
 - [discord-styled-releases](https://github.com/nhevia/discord-styled-releases) - Action that uses a webhook for sending automatic styled Discord messages on new repository releases.
 - [Hamood](https://github.com/nathanielfernandes/HamoodBot) - Discord bot written with discord.py that has a variety of helpful and fun functions.
 - [Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Moderation bot for Discord, designed with large servers and reliability in mind.
+- [awwbot](https://github.com/JustinBeckwith/awwbotcf) - Example of a Discord Bot using Cloudflare Workers.
 
 ## Libraries
 
@@ -69,6 +70,7 @@
 - [discord-rs](https://github.com/SpaceManiac/discord-rs) - Rust library for the Discord chat client API.
 - [discord.v](https://github.com/Terisback/discord.v) - Discord Bot Framework written in V.
 - [Discord++](https://github.com/DiscordPP/discordpp) - Modularized C++ Library for the Discord API. ([Template](https://github.com/DiscordPP/plugin-endpoints))
+- [Discord.js bot template with TypeScript, ESLint and Prettier](https://github.com/Dev-CasperTheGhost/discord-bot-template)
 
 ## Notes
 

@@ -142,6 +142,7 @@
 - [SSHKit](https://github.com/bitcrowd/sshkit.ex) - Elixir toolkit for performing tasks on one or more servers, built on top of Erlang’s SSH application.
 - [Quark](https://github.com/witchcrafters/quark) - Common combinators for Elixir.
 - [Protox](https://github.com/ahamez/protox) - Fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers.
+- [Flow](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage. ([Intro to Elixir Flow](https://blog.joelabshier.com/%F0%9F%8C%8A-a-realworld-introduction-to-elixir-flow/))
 
 ## Links
 

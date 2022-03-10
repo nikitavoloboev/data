@@ -179,3 +179,4 @@
 - [Timeline of the human condition](https://www.southampton.ac.uk/~cpd/history.html) - Milestones in evolution and history.
 - [Ask HN: Any recommendation for a good History of Science book? (2022)](https://news.ycombinator.com/item?id=30489142)
 - [What’s the deal with the Saudi Arabia/Yemen War?](https://www.reddit.com/r/OutOfTheLoop/comments/t6se76/whats_the_deal_with_the_saudi_arabiayemen_war/)
+- [Short History of Colonialism Since 1492 In One GIF](https://brilliantmaps.com/colonialism-history/)

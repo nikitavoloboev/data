@@ -197,3 +197,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [ETH Zurich Summaries](https://github.com/ymerkli/eth-summaries)
 - [Where does one find good "long-form" (>30 mins, say) YouTube videos?](https://twitter.com/patrickc/status/1499168389343768579)
 - [Ask HN: What concepts have you never truly understood? (2022)](https://news.ycombinator.com/item?id=30582221)
+- [Complex matters in simple doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words)

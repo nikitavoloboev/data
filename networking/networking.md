@@ -419,3 +419,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [The internet was designed with a narrow waist (2022)](https://www.oilshell.org/blog/2022/02/diagrams.html) ([HN](https://news.ycombinator.com/item?id=30483914))
 - [Computer Networking: A Top-Down Approach (2021)](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
 - [glider](https://github.com/nadoo/glider) - Forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+- [Landiscover](https://github.com/aler9/landiscover) - Command-line tool that allows to discover devices and services available in the local network.
+- [Nimble](https://github.com/Wakoma/nimble) - Open source, rapidly deployable, wireless mesh network.

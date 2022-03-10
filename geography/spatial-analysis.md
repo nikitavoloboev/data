@@ -151,3 +151,5 @@
 - [Awesome Geo Rust](https://github.com/pka/awesome-georust) - Curated list of awesome geospatial software, libraries, tools and resources, written in Rust.
 - [FlatGeobuf GPU](https://github.com/pka/flatgeobuf-gpu) - Experimental GPU rendering of FlatGeobuf for Rust.
 - [Mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data).
+- [GeoParquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
+- [CGC: Clustering Geo-Data Cubes](https://github.com/phenology/cgc) - Clustering tool for geospatial applications.

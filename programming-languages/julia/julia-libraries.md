@@ -75,6 +75,7 @@
 - [Hyperopt](https://github.com/baggepinnen/Hyperopt.jl) - Hyperparameter optimization in Julia.
 - [ShapML](https://github.com/nredell/ShapML.jl) - Julia package for interpretable machine learning with stochastic Shapley values.
 - [DiffEqCallbacks.jl](https://github.com/SciML/DiffEqCallbacks.jl) - Library of callbacks for extending the solvers of DifferentialEquations.jl.
+- [DynamicPPL.jl](https://github.com/TuringLang/DynamicPPL.jl) - Implementation of domain-specific language (DSL) for dynamic probabilistic programming.
 
 ## Math
 
@@ -159,6 +160,7 @@
 - [DifferentialDynamicProgramming](https://github.com/baggepinnen/DifferentialDynamicProgramming.jl) - Package for solving Differential Dynamic Programming and trajectory optimization problems.
 - [LowLevelParticleFilters](https://github.com/baggepinnen/LowLevelParticleFilters.jl) - Simple particle/kalman filtering, smoothing and parameter estimation.
 - [AbstractPPL.jl](https://github.com/TuringLang/AbstractPPL.jl) - Common types and interfaces for probabilistic programming.
+- [PiecewiseLinearOpt](https://github.com/joehuchette/PiecewiseLinearOpt.jl) - Solve optimization problems containing piecewise linear functions.
 
 ## NLP
 
@@ -494,6 +496,8 @@
 - [Static](https://github.com/SciML/Static.jl) - Static types useful for dispatch and generated functions.
 - [ProtoBuf.jl](https://github.com/JuliaIO/ProtoBuf.jl) - Julia protobuf implementation.
 - [MPIClusterManagers.jl](https://github.com/JuliaParallel/MPIClusterManagers.jl) - Julia parallel constructs over MPI.
+- [Stonks.jl](https://github.com/alinski29/Stonks.jl) - Julia library for standardizing financial data retrieval and storage from multiple APIs.
+- [PyPlot](https://github.com/JuliaPy/PyPlot.jl) - Plotting for Julia based on matplotlib.pyplot.
 
 ## Links
 

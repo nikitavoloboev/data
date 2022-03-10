@@ -91,3 +91,4 @@
 - [three-raymarcher](https://github.com/danielesteban/three-raymarcher) - Raymarching abstraction for creating simple SDF animations with ThreeJS.
 - [Interactive Hover Effects with Three.js](https://github.com/akella/webgl-mouseover-effects)
 - [web-ifc-viewer](https://github.com/IFCjs/web-ifc-viewer) - Graphics engine and toolkit for client applications.
+- [Panolens.js](https://github.com/pchen66/panolens.js) - JavaScript panorama viewer based on Three.js.

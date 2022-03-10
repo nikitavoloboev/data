@@ -530,3 +530,4 @@
 - [Programming Books: A Curated Reading List](https://www.programmingbooks.dev/)
 - [What does a 1972 paper have to do with the Single Responsibility Principle? (2022)](https://wasabigeek.com/blog/what-does-a-1972-paper-have-to-do-with-the-single-responsibility-principle/) ([HN](https://news.ycombinator.com/item?id=30529854))
 - [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns) ([HN](https://news.ycombinator.com/item?id=30576109))
+- [Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)

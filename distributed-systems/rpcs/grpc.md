@@ -86,3 +86,4 @@
 - [GRPC for production](https://github.com/apssouza22/grpc-production-go) - Abstracts away the details of the GRPC server and client configuration.
 - [grpc-proto](https://github.com/grpc/grpc-proto) - GRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.
 - [kuberesolver](https://github.com/sercand/kuberesolver) - GRPC Load Balancer with Kubernetes resolver.
+- [grpc-proxy-sidecar](https://github.com/dialohq/grpc-proxy-sidecar) - Intercept and inspect grpc traffic for debugging. Designed as a sidecar. Packaged as a docker image.

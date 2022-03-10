@@ -54,7 +54,7 @@
 - [EleutherAI](https://www.eleuther.ai/) - Grassroots AI research group aimed at democratizing and open sourcing AI research. ([GitHub](https://github.com/EleutherAI))
 - [Artificial Intelligence Wiki](https://docs.paperspace.com/machine-learning/)
 - [Awesome AI Guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
-- [State of the Art AI](https://www.stateoftheart.ai/) - Open-data and free platform built by the research community to facilitate the collaborative development of AI.
+- [State of the Art AI](https://www.stateoftheart.ai/) - Open-data and free platform built by the research community to facilitate the collaborative development of AI. ([Concepts](https://www.stateoftheart.ai/concepts))
 - [OpenCog](https://github.com/opencog/opencog) - Framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI). In Scheme.
 - [2020: A Year Full of Amazing AI papers- A Review](https://github.com/louisfb01/Best_AI_paper_2020)
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM) ([Code](https://github.com/abhshkdz/ai-deadlines))
@@ -123,3 +123,4 @@
 - [Modular AI](https://www.modular.ai/) - AI infrastructure to power the world.
 - [Neural nets are not “slightly conscious,” and AI PR can do with less hype (2022)](https://lastweekin.ai/p/conscious-ai) ([HN](https://news.ycombinator.com/item?id=30408924))
 - [Yann LeCun on a vision to make AI systems learn and reason like animals and humans (2022)](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research) ([Tweet](https://twitter.com/ylecun/status/1496555825199988739))
+- [Deep learning is hitting a wall? (2022)](https://nautil.us/deep-learning-is-hitting-a-wall-14467/) ([HN](https://news.ycombinator.com/item?id=30622300))

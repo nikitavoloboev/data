@@ -147,3 +147,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Compute@Edge static content starter kit for Rust](https://github.com/fastly/compute-starter-kit-rust-static-content) - Speed up your websites with a Compute@Edge environment that demonstrates serving content from a static bucket, redirects, security and performance headers, and a 404 page.
 - [Serverless Data](https://www.serverless.com/cloud/docs/apps/data) - Super fast, automatically scalable datastore that's built in to Serverless Cloud. ([Utilities for Serverless Data](https://github.com/loreanvictor/serverless-cloud-data-utils))
 - [Inngest](https://www.inngest.com/) - Build serverless event-driven functions in minutes. ([Twitter](https://twitter.com/inngest))
+- [TriggerFlow](https://github.com/triggerflow/triggerflow) - Event-based Orchestration of Serverless Workflows.

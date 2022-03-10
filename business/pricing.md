@@ -76,3 +76,4 @@
 - [The Importance of Price Signals (2021)](https://www.lynalden.com/price-signals/) ([HN](https://news.ycombinator.com/item?id=29691988))
 - [Lessons learned on SaaS pricing](https://zimtik.com/en/posts/lessons-learned-on-saas-pricing) ([HN](https://news.ycombinator.com/item?id=29872777))
 - [Ask HN: Recommended resources for pricing digital products/services? (2022)](https://news.ycombinator.com/item?id=29954871)
+- [Pricing Psychology: A List of Tactics](https://www.nickkolenda.com/psychological-pricing-strategies/)

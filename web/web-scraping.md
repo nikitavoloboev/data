@@ -159,3 +159,5 @@
 - [Pinterest Downloader](https://github.com/limkokhole/pinterest-downloader) - Download all images/videos from Pinterest user/board/section.
 - [More notes on writing web scrapers (2022)](https://cushychicken.github.io/more-web-scraper-notes/) ([HN](https://news.ycombinator.com/item?id=30466687))
 - [scraperlite](https://github.com/danp/scraperlite) - Scrape text and HTML based on CSS selectors and save contents to a SQLite database.
+- [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based crawler in a single Docker container.
+- [pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata.

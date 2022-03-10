@@ -82,3 +82,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension Boilerplates](https://github.com/stars/chrismessina/lists/chrome-extension-boilerplates) ([Tweet](https://twitter.com/VictorPontis/status/1491849170298322949))
 - [gowitness](https://github.com/sensepost/gowitness) - Go, web screenshot utility using Chrome Headless.
 - [CEF Python](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF).
+- [Puppeteer Cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Create a cluster of puppeteer workers.

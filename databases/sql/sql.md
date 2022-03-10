@@ -14,7 +14,7 @@
 - [SQL Fundamentals course](https://egghead.io/courses/sql-fundamentals)
 - [Q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files. ([Docs](http://harelba.github.io/q/)) ([HN](https://news.ycombinator.com/item?id=27423276))
 - [Learn Modern SQL with PostgreSQL](https://www.masterywithsql.com/) ([HN](https://news.ycombinator.com/item?id=20260292)) ([Solutions](https://github.com/klingtnet/mastery-with-sql))
-- [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data.
+- [PartiQL](https://partiql.org/) - SQL-compatible access to relational, semi-structured, and nested data. ([Rust Code](https://github.com/fuyutarow/piqel))
 - [BlazingSQL](https://github.com/BlazingDB/pyBlazing) - Lightweight, GPU accelerated, SQL engine built on RAPIDS.
 - [Ways to Tweak Slow SQL Queries](https://www.databasestar.com/slow-sql) ([HN](https://news.ycombinator.com/item?id=20855441))
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. ([Web](https://osquery.io/)) ([osquery launcher](https://github.com/kolide/launcher))

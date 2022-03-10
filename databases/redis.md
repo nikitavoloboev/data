@@ -113,3 +113,4 @@
 - [redplex](https://github.com/microsoft/redplex) - Redis pubsub multiplexer.
 - [RedisAI](https://github.com/RedisAI/RedisAI) - Redis module for serving tensors and executing deep learning graphs.
 - [Redis-ImageScout](https://github.com/starkdg/Redis-ImageScout) - Redis Module for indexing of image fingerprints for fast efficient retrieval.
+- [RedisGears](https://github.com/RedisGears/RedisGears) - Dynamic execution framework for your Redis data. ([Docs](https://oss.redis.com/redisgears/))

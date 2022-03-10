@@ -73,7 +73,6 @@
 - [Why the C Language Will Never Stop You from Making Mistakes (2020)](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 - [Can we do better than our C compiler?](https://briancallahan.net/blog/20200812.html) ([HN](https://news.ycombinator.com/item?id=24139943))
 - [Cyclone](https://cyclone.thelanguage.org/) - Safe dialect of C.
-- [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([HN](https://news.ycombinator.com/item?id=24182441))
 - [C Code Archive Network](http://ccodearchive.net/) ([Code](https://github.com/rustyrussell/ccan))
 - [do {...} while (0) in macros (2014)](https://www.pixelstech.net/article/1390482950-do-%7B-%7D-while-%280%29-in-macros) ([Lobsters](https://lobste.rs/s/whezna/do_while_0_macros))
 - [Simple C Compiler](https://www.simple-cc.org/)
@@ -216,3 +215,4 @@
 - [Moving the Linux Kernel to Modern C (2022)](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/) ([HN](https://news.ycombinator.com/item?id=30459634)) ([Lobsters](https://lobste.rs/s/hl5ty0/moving_kernel_modern_c)) ([Reddit](https://www.reddit.com/r/programming/comments/t1mjwn/linus_torvalds_prepares_to_move_the_linux_kernel/))
 - [Debugging with GDB (2022)](https://felix-knorr.net/blog/using_gdb_directly.html) ([HN](https://news.ycombinator.com/item?id=30512302))
 - [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - 6809 cross-compiler for a C-like language.
+- [C Arrays Are Not Pointers (2021)](https://lovesegfault.com/posts/c-arrays-are-not-pointers/)

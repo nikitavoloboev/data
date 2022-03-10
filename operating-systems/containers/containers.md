@@ -189,3 +189,4 @@
 - [cinf](https://github.com/mhausenblas/cinf) - Command line tool to view namespaces and cgroups, useful for low-level container prodding.
 - [LXC vs Docker: Which Container Platform Is Right for You? (2022)](https://earthly.dev/blog/lxc-vs-docker/)
 - [Escaping privileged containers for fun (2022)](https://pwning.systems/posts/escaping-containers-for-fun/) ([HN](https://news.ycombinator.com/item?id=30576335))
+- [Linux containers in 500 lines of code (2016)](https://blog.lizzie.io/linux-containers-in-500-loc.html) ([HN](https://news.ycombinator.com/item?id=30623372))

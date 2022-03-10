@@ -46,7 +46,7 @@
 - [Assembly vs. intrinsics (2014)](https://danluu.com/assembly-intrinsics/) ([HN](https://news.ycombinator.com/item?id=26877076))
 - [How many x86 instructions are there? (2016)](https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/) ([HN](https://news.ycombinator.com/item?id=26889108))
 - [X86 Opcode and Instruction Reference](http://ref.x86asm.net/) ([Code](https://github.com/Barebit/x86reference))
-- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks! (2021)](https://blog.cloudflare.com/branch-predictor/)
+- [Branch predictor: How many "if"s are too many? Including x86 and M1 benchmarks! (2021)](https://blog.cloudflare.com/branch-predictor/) ([Tweet](https://twitter.com/majek04/status/1501491040322207746))
 - [Don't Use Inline Assembly](https://gcc.gnu.org/wiki/DontUseInlineAsm)
 - [Commodore’s Assemblers: Part 1: MOS Cross-Assembler](https://www.pagetable.com/?p=1520)
 - [Code in ARM Assembly: Registers explained (2021)](https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/) ([HN](https://news.ycombinator.com/item?id=27526155))
