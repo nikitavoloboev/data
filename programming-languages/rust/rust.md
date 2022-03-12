@@ -727,3 +727,6 @@
 - [Implementing and Optimizing a Wordle Solver in Rust (2022)](https://www.youtube.com/watch?v=doFowk4xj7Q) ([Code](https://github.com/jonhoo/roget)) ([Reddit](https://www.reddit.com/r/rust/comments/t7s36r/implementing_and_optimizing_a_wordle_solver_video/))
 - [Request Coalescing in Async Rust (2022)](https://fasterthanli.me/articles/request-coalescing-in-async-rust) ([HN](https://news.ycombinator.com/item?id=30580797)) ([Reddit](https://www.reddit.com/r/rust/comments/t86y15/request_coalescing_in_async_rust/))
 - [Things I hate about Rust, redux (2022)](https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux) ([HN](https://news.ycombinator.com/item?id=30627667)) ([Reddit](https://www.reddit.com/r/rust/comments/tb0pd8/things_i_hate_about_rust_redux/)) ([Lobsters](https://lobste.rs/s/bcfxjw/things_i_hate_about_rust_redux))
+- [A zero-overhead linked list in Rust (2021)](https://aloso.github.io/2021/04/12/linked-list.html)
+- [Implementing RAII guards in Rust (2021)](https://aloso.github.io/2021/03/18/raii-guards.html)
+- [Creating an Iterator in Rust (2021)](https://aloso.github.io/2021/03/09/creating-an-iterator.html)

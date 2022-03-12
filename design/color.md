@@ -142,3 +142,4 @@
 - [Huemint](https://huemint.com/) - AI color palette generator. ([HN](https://news.ycombinator.com/item?id=30529262))
 - [Open Source Color System](https://www.opensourcecolorsystem.design/)
 - [60-30-10 Color Rule](https://www.youtube.com/watch?v=UWwNIMHFdW4)
+- [colo](https://github.com/Aloso/colo) - Displays colors in various color spaces.

@@ -48,3 +48,4 @@
 - [Eurostat](https://ec.europa.eu/eurostat) - European statistics.
 - [Best countries to start a business in Europe? (2022)](https://www.reddit.com/r/cscareerquestionsEU/comments/svayry/what_are_the_best_countries_to_start_a_business/)
 - [Why Europe is addicted to Russian Gas (2022)](https://www.youtube.com/watch?v=bpjR_77HPnQ)
+- [What is your favorite European island that you have visited?](https://www.reddit.com/r/AskEurope/comments/tcbcpq/what_is_your_favourite_european_island_that_you/)

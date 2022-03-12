@@ -1725,3 +1725,5 @@
 - [Compile-time checked Builder pattern derive macro with zero-memory overhead](https://github.com/estebank/makeit) ([Tweet](https://twitter.com/ekuber/status/1493647808754294789))
 - [Diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
 - [clawbang](https://github.com/chrisdickinson/clawbang) - Command line interface meant to bridge the gap between Rust and shell scripting.
+- [Rusts Module System Explained (2021)](https://aloso.github.io/2021/03/28/module-system.html)
+- [Rust's Universes (2021)](https://aloso.github.io/2021/03/10/rusts-universes.html)

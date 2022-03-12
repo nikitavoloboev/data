@@ -67,3 +67,4 @@
 - [Extremely-detailed 2d fractals, continued (2021)](https://ultraiterator.blogspot.com/2021/12/ultrafields-this-is-continuation-after.html)
 - [A Well Trodden Path (2019)](https://ultraiterator.blogspot.com/2019/12/a-well-trodden-path.html)
 - [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art.
+- [The Mandelbrot Set (2022)](https://www.sotr.blog/articles/mandelbrot)
