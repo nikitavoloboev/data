@@ -70,3 +70,4 @@
 - [Search engines and SEO spam (2022)](https://twitter.com/paulg/status/1477760548787920901) ([HN](https://news.ycombinator.com/item?id=29782186))
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site and warns of any technical SEO issues.
 - [React SEO: Best Practices to Make It SEO-Friendly (2022)](https://ahrefs.com/blog/react-seo/)
+- [A Simple to Follow 6 Month SEO Plan](https://rankmakers.net/newsletter/6-month-seo-plan-issue-019/) ([HN](https://news.ycombinator.com/item?id=30647213))

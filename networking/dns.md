@@ -190,3 +190,4 @@
 - [Some things about getaddrinfo that surprised me (2022)](https://jvns.ca/blog/2022/02/23/getaddrinfo-is-kind-of-weird/)
 - [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script.
 - [mdns](https://github.com/dylanmckay/mdns) - Multicast DNS client in Rust.
+- [Ask HN: Neutral DNS servers? (2022)](https://news.ycombinator.com/item?id=30642577)

@@ -328,3 +328,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [telemetry-parser](https://github.com/AdrianEddy/telemetry-parser) - Tool to parse real-time metadata embedded in video files or telemetry from other sources.
 - [Vireo](https://github.com/twitter/vireo) - Lightweight and versatile video processing library written in C++11.
 - [rustube](https://github.com/DzenanJupic/rustube) - YouTube video downloader, originally inspired by pytube, written in Rust.
+- [Ask HN: What is the most economic and scalable way to host videos in 2022?](https://news.ycombinator.com/item?id=30652075)

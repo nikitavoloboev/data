@@ -9,3 +9,4 @@
 - [Pascal Compiler](https://github.com/StanfordPascal/Pascal)
 - [Per Brinch Hansen on Pascal compilers](http://pascal.hansotten.com/2020/10/23/per-brinch-hansen-on-pascal-compilers/)
 - [Making a budget Pascal compiler to WebAssembly](https://faizilham.github.io/making-budget-pascal-compiler)
+- [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) ([HN](https://news.ycombinator.com/item?id=30644308))

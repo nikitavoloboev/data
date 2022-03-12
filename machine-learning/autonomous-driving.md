@@ -53,3 +53,4 @@
 - [Cruise Under The Hood 2021 - YouTube](https://www.youtube.com/playlist?list=PLkK2JX1iHuzz7W8z3roCZEqML0G2R9jX8)
 - [HN: Cruise is opening driverless cars to the public in San Francisco (2022)](https://news.ycombinator.com/item?id=30167037)
 - [CT-ICP: Elastic SLAM for LiDAR sensors](https://github.com/jedeschaud/ct_icp)
+- [You don't ever own an electric vehicle (2022)](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/) ([HN](https://news.ycombinator.com/item?id=30637725))

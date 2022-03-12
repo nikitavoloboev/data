@@ -140,7 +140,7 @@
 - [Unikernels: The Next Stage of Linux's Dominance (2020)](https://dl.acm.org/doi/abs/10.1145/3317550.3321445) ([HN](https://news.ycombinator.com/item?id=23201174))
 - [The CPU Cost of Networking on a Host — David Ahern (2020)](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
-- [Barrier](https://github.com/debauchee/barrier) - Software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers.
+- [Barrier](https://github.com/debauchee/barrier) - Share mouse and keyboard between computers. ([HN](https://news.ycombinator.com/item?id=30639181))
 - [Linux Productivity Tools (2019)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) ([HN](https://news.ycombinator.com/item?id=23229241))
 - [Using the KVM API](https://lwn.net/Articles/658511/)
 - [LWN.net](https://lwn.net/) - Reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
@@ -376,7 +376,7 @@
 - [SRE deep dive into Linux Page Cache](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
 - [Authenticated Boot and Disk Encryption on Linux (2021)](http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html) ([HN](https://news.ycombinator.com/item?id=28627077))
 - [Install Alpine Linux in chroot](https://github.com/alpinelinux/alpine-chroot-install)
-- [Btop++](https://github.com/aristocratos/btop) - Power resource monitor for Linux. ([HN](https://news.ycombinator.com/item?id=28634898))
+- [Btop++](https://github.com/aristocratos/btop) - Power resource monitor for Linux. ([HN](https://news.ycombinator.com/item?id=28634898)) ([Article](https://haydenjames.io/btop-the-htop-alternative/))
 - [A terminal case of Linux (2021)](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 - [Toybox](https://github.com/landley/toybox) - All-in-one Linux command line. ([HN](https://news.ycombinator.com/item?id=28627433))
 - [Linux Kernel Module Cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - Perfect emulation setup to study and develop the Linux kernel.

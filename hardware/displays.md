@@ -16,3 +16,4 @@
 - [How to Pick a Good Monitor for Software Development (2021)](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
 - [Apple 27-inch 5K Studio Display](https://www.apple.com/studio-display/) ([HN](https://news.ycombinator.com/item?id=30604375))
 - [Ask HN: Why aren’t there more third party retina screens? (2022)](https://news.ycombinator.com/item?id=30631288)
+- [A volumetric display using an acoustically trapped particle (2021)](https://www.youtube.com/watch?v=hCC1C5KIeUA) ([HN](https://news.ycombinator.com/item?id=30642954))

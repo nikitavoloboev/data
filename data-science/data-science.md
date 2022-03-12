@@ -233,3 +233,4 @@
 - [Kedro-Viz](https://github.com/kedro-org/kedro-viz) - Visualise your Kedro data pipelines.
 - [Datasette Desktop for macOS](https://datasette.io/desktop) ([Code](https://github.com/simonw/datasette-app))
 - [Phases of Netflix’s real-time data infrastructure (2022)](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01) ([HN](https://news.ycombinator.com/item?id=30627489))
+- [Shopify's Data Science and Engineering Foundations (2020)](https://shopify.engineering/shopifys-data-science-engineering-foundations) ([HN](https://news.ycombinator.com/item?id=30643677))

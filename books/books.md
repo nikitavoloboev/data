@@ -291,6 +291,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Peaceful books for someone in the middle of war](https://www.reddit.com/r/Fantasy/comments/t75z4r/peaceful_books_for_someone_in_the_middle_of_war/)
 - [What was your last 5 star read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/t9xa3j/what_was_your_last_5_star_read/)
 - [Book or article you think about a lot that you don’t think anyone else in the replies will mention (2022)](https://twitter.com/nateliason/status/1501967452766457862)
+- [A non-standard book list for software developers](https://mihaiolteanu.me/books.html) ([HN](https://news.ycombinator.com/item?id=30651273))
 
 ## Interesting Prose Books
 

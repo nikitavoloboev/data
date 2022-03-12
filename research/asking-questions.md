@@ -31,7 +31,7 @@ In short, it can be summed down to this:
 - [Asking for help from teammates when stuck is one of the best ways to grow](https://twitter.com/GergelyOrosz/status/1236606480763232257)
 - [Asking questions (2020)](https://www.aaronkharris.com/asking-questions) ([HN](https://news.ycombinator.com/item?id=22729028))
 - [Important questions to ask at end of investor pitch](https://twitter.com/bscholl/status/1296986031380545537)
-- [Don't ask to ask, just ask](https://dontasktoask.com/) ([Code](https://github.com/maunium/dontasktoask.com)) ([HN](https://news.ycombinator.com/item?id=24259156))
+- [Don't ask to ask, just ask](https://dontasktoask.com/) ([Code](https://github.com/maunium/dontasktoask.com)) ([HN](https://news.ycombinator.com/item?id=24259156)) ([HN](https://news.ycombinator.com/item?id=30639225))
 - [How to ask questions of experts and gain more than just an answer (2017)](https://josh.works/better-questions)
 - [Advice on asking for coding help](https://twitter.com/cassiecodes/status/1303770566793592834)
 - [How to ask good questions (2016)](https://jvns.ca/blog/good-questions/)

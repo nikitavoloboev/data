@@ -209,4 +209,4 @@
 - [Req](https://github.com/andrewpillar/req) - Opinionated HTTP scripting language. ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/t231hh/req_an_http_scripting_language/)) ([HN](https://news.ycombinator.com/item?id=30488030))
 - [Requestly](https://requestly.io/) - Lightweight Proxy to Intercept & Modify HTTP(s) requests. ([HN](https://news.ycombinator.com/item?id=30540735))
 - [Penguin](https://github.com/LukasKalbertodt/penguin) - Dev server featuring live-reloading, a file server, proxy support, and more.
-- [curlconverter](https://curlconverter.com/) - Convert curl commands to code. ([Code](https://github.com/curlconverter/curlconverter))
+- [curlconverter](https://curlconverter.com/) - Convert curl commands to code. ([Code](https://github.com/curlconverter/curlconverter)) ([HN](https://news.ycombinator.com/item?id=30642281))

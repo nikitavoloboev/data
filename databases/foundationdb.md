@@ -12,7 +12,7 @@
 - [FoundationDB site](https://www.foundationdb.org/)
 - [A ZooKeeper Layer for FoundationDB - Paul Hemberger (2020)](https://www.youtube.com/watch?v=3FYpf1QMPgQ)
 - [FoundationDB: How I Learned to Stop Worrying and Trust the Database (2020)](https://www.youtube.com/watch?v=OJb8A6h9jQQ)
-- [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store](https://www.foundationdb.org/files/fdb-paper.pdf) ([HN](https://news.ycombinator.com/item?id=27424605)) ([Review](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)) ([HN](https://news.ycombinator.com/item?id=28740497)) ([Summary](http://muratbuffalo.blogspot.com/2022/03/foundationdb-distributed-unbundled.html))
+- [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store](https://www.foundationdb.org/files/fdb-paper.pdf) ([HN](https://news.ycombinator.com/item?id=27424605)) ([Review](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html)) ([HN](https://news.ycombinator.com/item?id=28740497)) ([Summary](http://muratbuffalo.blogspot.com/2022/03/foundationdb-distributed-unbundled.html)) ([HN](https://news.ycombinator.com/item?id=30640932))
 - [FoundationDB NodeJS bindings](https://github.com/josephg/node-foundationdb)
 - [Building an object store with FoundationDB (2018)](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/) ([Code](https://github.com/fabianlindfors/fdb-object-store))
 - [FoundationDB Rust Client](https://github.com/foundationdb-rs/foundationdb-rs)

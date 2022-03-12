@@ -423,3 +423,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Nimble](https://github.com/Wakoma/nimble) - Open source, rapidly deployable, wireless mesh network.
 - [Packet Sender](https://github.com/dannagle/PacketSender) - Network utility for sending / receiving TCP, UDP, SSL, HTTP. ([Web](https://packetsender.com/))
 - [Scapy](https://github.com/secdev/scapy) - Powerful Python-based interactive packet manipulation program and library.
+- [Better visibility into packet-dropping decisions (2022)](https://lwn.net/Articles/885729/)

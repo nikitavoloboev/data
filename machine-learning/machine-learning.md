@@ -720,3 +720,4 @@
 - [Software Engineering for AI/ML -- An Annotated Bibliography](https://github.com/ckaestne/seaibib)
 - [Physics-Based Deep Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
 - [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation (2019)](https://arxiv.org/abs/1905.08094) ([Code](https://github.com/luanyunteng/pytorch-be-your-own-teacher))
+- [Tensil](https://www.tensil.ai/) - Open-Source ML Accelerators. ([HN](https://news.ycombinator.com/item?id=30643520)) ([Code](https://github.com/tensil-ai/tensil))
