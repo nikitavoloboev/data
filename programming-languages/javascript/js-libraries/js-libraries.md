@@ -70,6 +70,7 @@
 - [set-dom](https://github.com/DylanPiercey/set-dom) - Lightweight DOM diffing with plain old HTML.
 - [Ralix](https://github.com/ralixjs/ralix) - Micro framework for building and organizing your front-end.
 - [rawth](https://github.com/GianlucaGuarini/rawth) - Pure functional isomorphic router based on streams.
+- [Corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend. ([Web](https://corset.dev/))
 
 ## Animation
 
