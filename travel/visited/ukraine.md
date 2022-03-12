@@ -90,3 +90,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Zelensky's 14th day of war speech](https://twitter.com/ChristopherJM/status/1501577368049176584)
 - [List of Cybersecurity Resources for Ukraine](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine)
 - [Война в Украине. Онлайн](https://theins.ru/politika/249168)
+- [In the Rubble of Kharkiv, Survivors Make Their Stand: ‘It’s a War, and It’s a Dirty War’ (2022)](https://www.wsj.com/articles/in-the-rubble-of-ukraines-second-largest-city-survivors-make-their-stand-nobody-wants-the-russians-11647013623) ([Tweet](https://twitter.com/yarotrof/status/1502310946039304195))

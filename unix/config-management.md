@@ -50,3 +50,4 @@
 - [konfik](https://github.com/konfik/konfik) - Abstract over configuration with TypeScript. You can think about it like "Terraform for config files".
 - [jinsi](https://github.com/scravy/jinsi) - JSON/YAML homoiconic templating language.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processing tool.
+- [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file.

@@ -71,3 +71,4 @@
 - [Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation (2021)](https://arxiv.org/abs/2109.10595) ([Code](https://github.com/YuanxunLu/LiveSpeechPortraits))
 - [Excalidraw Claymate](https://dai-shi.github.io/excalidraw-claymate/) - Tool based on Excalidraw to create stop motion animations and slides. ([Code](https://github.com/dai-shi/excalidraw-claymate))
 - [Любимые Мультфильмы](https://twitter.com/sienduk/status/1495706117489446916)
+- [Ask HN: How to quickly animate system sketches and 2D diagrams? (2022)](https://news.ycombinator.com/item?id=30631993)

@@ -27,3 +27,4 @@
 - [Learning to Synthesize Programs as Interpretable and Generalizable Policies (2021)](https://arxiv.org/abs/2108.13643) ([Code](https://github.com/clvrai/leaps))
 - [A neural network solves and generates mathematics problems by program synthesis (2022)](https://arxiv.org/abs/2112.15594) ([HN](https://news.ycombinator.com/item?id=29853802))
 - [Measuring Coding Challenge Competence With APPS (2021)](https://arxiv.org/abs/2105.09938) ([Code](https://github.com/hendrycks/apps))
+- [Neurosymbolic Programming (2021)](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) ([HN](https://news.ycombinator.com/item?id=30631907))
