@@ -330,3 +330,4 @@
 - [japa/runner](https://github.com/japa/runner) - API first tests runner for Node.js.
 - [Server-sent events for NodeJS](https://github.com/triblondon/node-sse-pubsub)
 - [tiny-typed-emitter](https://github.com/binier/tiny-typed-emitter) - Fully type-checked NodeJS EventEmitter.
+- [node-web-streams](https://github.com/gwicke/node-web-streams) - WhatWG web streams and utilities for node.js.

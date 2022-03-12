@@ -141,4 +141,4 @@
 - [What using RSS feeds feels like (2022)](https://gilest.org/rss-feels.html)
 - [An example of why RSS is useful and important (2022)](https://tech.chrishardie.com/2022/rss-useful-important/) ([HN](https://news.ycombinator.com/item?id=30387879))
 - [RSS to Mail](https://github.com/Julow/rss_to_mail) - Sends an email for every new entries on RSS feeds.
-- [The Perils of RSS (2022)](https://kn100.me/rss-perils/) ([Lobsters](https://lobste.rs/s/g08um1/perils_your_rss_feed))
+- [The Perils of RSS (2022)](https://kn100.me/rss-perils/) ([Lobsters](https://lobste.rs/s/g08um1/perils_your_rss_feed)) ([HN](https://news.ycombinator.com/item?id=30621295))

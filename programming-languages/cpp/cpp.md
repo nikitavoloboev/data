@@ -314,3 +314,4 @@
 - [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
 - [cpplint](https://github.com/cpplint/cpplint) - Static code checker for C++.
 - [C++ resources (2022)](https://twitter.com/claucece/status/1500223555912585223)
+- [Tolc](https://tolc.io/) - Makes C++ callable from other languages. ([Code](https://github.com/Tolc-Software/tolc))

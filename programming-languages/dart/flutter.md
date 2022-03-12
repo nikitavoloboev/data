@@ -84,3 +84,4 @@
 - [fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions.
 - [Flutter Secure Storage](https://github.com/mogol/flutter_secure_storage) - Flutter plugin to store data in secure storage.
 - [Why Flutter is the most popular cross-platform mobile SDK (2022)](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/) ([HN](https://news.ycombinator.com/item?id=30425988))
+- [ObjectBox Dart](https://github.com/objectbox/objectbox-dart) - Flutter database for fast Dart object persistence.

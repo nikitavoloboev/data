@@ -76,6 +76,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [In toxic relationships, you're forced to choose between honesty and loyalty. You bite your tongue to protect their ego. In healthy relationships, honesty is an expression of loyalty. You speak your mind to help them grow. When you have real trust and respect, candor shows care.](https://twitter.com/AdamMGrant/status/1489614193988968448)
 - [Each relationship has their own dynamics. As long as both you are happy with whatever you mutually agree, it is none of anyone’s business what you decide.](https://www.reddit.com/r/sex/comments/t4rjj6/i_let_my_fianc%C3%A9_sleep_with_another_man/)
 - [The backwards thing about “networking” in your early years is that it feels like you should connect w/ high profile, successful people. In reality, those people are so checked out & won’t be able to do anything for you. Instead, spend your time talking to new, undiscovered folks.](https://twitter.com/nikitabier/status/1501578192355692544)
+- [If it doesn’t feel right, you don’t need an excuse to leave. You don’t need explanations etc.](https://www.reddit.com/r/NarcissisticAbuse/comments/tatur5/strongest_boundary_created_since_your_nex/)
 
 ## Links
 
@@ -161,3 +162,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Why are young men giving up on dating? (2022)](https://www.reddit.com/r/AskMen/comments/sxcvvm/why_are_young_men_giving_up_on_dating/)
 - [What are your deal breakers in dating?](https://www.reddit.com/r/datingoverthirty/comments/szyh4l/what_are_your_deal_breakers/)
 - [What are your thoughts on ethical non-monogamy?](https://www.reddit.com/r/AskWomen/comments/t1x6mv/what_are_your_thoughts_on_ethical_nonmonogamy/)
+- [Ask HN: What do you look for in a romantic partner? (2022)](https://news.ycombinator.com/item?id=30636733)

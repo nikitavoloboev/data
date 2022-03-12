@@ -371,3 +371,7 @@
 - [Web-dev advice for building a localhost app w/o a steep learning curve? (2022)](https://lobste.rs/s/sxhylb/web_dev_advice_for_building_localhost_app)
 - [Favorite interactive web apps without a backend? (2022)](https://lobste.rs/s/myieuw/favorite_interactive_web_apps_without)
 - [Barcode Detection API](https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API) ([HN](https://news.ycombinator.com/item?id=30620802))
+- [Notes on the small web (2022)](https://felix.plesoianu.ro/web/in-the-small.html)
+- [How to use undocumented web APIs (2022)](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
+- [Webhooked](https://github.com/42Atomys/webhooked) - Web hook receiver on steroids.
+- [Functional Web App (FWA)](https://fwa.dev/)

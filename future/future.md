@@ -97,3 +97,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: Disillusioned with the Direction of Society and Technology (2022)](https://news.ycombinator.com/item?id=30321888)
 - [Cozy futurism (2021)](https://nintil.com/cozy-futurism) ([HN](https://news.ycombinator.com/item?id=30479462))
 - [What are the generation-defining stats of today? (2022)](https://twitter.com/stephsmithio/status/1500986096745779200)
+- [Principles for Dealing with the Changing World Order by Ray Dalio (2022)](https://www.youtube.com/watch?v=xguam0TKMw8)

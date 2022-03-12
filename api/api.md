@@ -349,3 +349,6 @@
 - [Anicca](https://github.com/xuorig/anicca) - Get a diff between two OpenAPI descriptions.
 - [Apitest](https://github.com/sigoden/apitest) - Declarative API testing tool with JSON-like DSL.
 - [topi](https://github.com/lusingander/topi) - Terminal OpenAPI documentation viewer.
+- [Kable](https://www.kable.io/) - Usage-based Billing for API Products. ([HN](https://news.ycombinator.com/item?id=30627558))
+- [Google API Design Guide](https://cloud.google.com/apis/design)
+- [How to Design Better APIs (2022)](https://r.bluethl.net/how-to-design-better-apis) ([HN](https://news.ycombinator.com/item?id=30647784))

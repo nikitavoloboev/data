@@ -124,3 +124,4 @@
 - [Neural nets are not “slightly conscious,” and AI PR can do with less hype (2022)](https://lastweekin.ai/p/conscious-ai) ([HN](https://news.ycombinator.com/item?id=30408924))
 - [Yann LeCun on a vision to make AI systems learn and reason like animals and humans (2022)](https://ai.facebook.com/blog/yann-lecun-advances-in-ai-research) ([Tweet](https://twitter.com/ylecun/status/1496555825199988739))
 - [Deep learning is hitting a wall? (2022)](https://nautil.us/deep-learning-is-hitting-a-wall-14467/) ([HN](https://news.ycombinator.com/item?id=30622300))
+- [Anatomy of an AI System](https://anatomyof.ai/)

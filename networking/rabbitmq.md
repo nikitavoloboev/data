@@ -25,3 +25,4 @@
 - [AMQP](https://github.com/pma/amqp) - Idiomatic Elixir client for RabbitMQ.
 - [Rabbit Hole](https://github.com/michaelklishin/rabbit-hole) - RabbitMQ HTTP API Client for Go.
 - [Rabbit](https://github.com/nsweeting/rabbit) - Build Elixir applications with RabbitMQ.
+- [Using a High-Level RabbitMQ Client in Go (2021)](https://qvault.io/golang/connecting-to-rabbitmq-in-golang-easy/)

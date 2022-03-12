@@ -475,3 +475,5 @@
 - [Wachy](https://github.com/rubrikinc/wachy) - Dynamic tracing profiler for Linux.
 - [tiptop](https://github.com/nschloe/tiptop) - Command-line system monitoring.
 - [Put an io_uring on it: Exploiting the Linux Kernel (2022)](https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel)
+- [Checking out the Linux kernel in under a second](https://github.com/Byron/gitoxide/discussions/349)
+- [Toward a better list iterator for the Linux kernel (2022)](https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/) ([HN](https://news.ycombinator.com/item?id=30631943))

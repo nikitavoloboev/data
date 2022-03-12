@@ -79,6 +79,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Yank Note](https://github.com/purocean/yn) - Hackable Markdown Note Application for Programmers.
 - [Ledit](https://github.com/liz3/ledit) - Simple, GPU-rendered, text editor. ([Lobsters](https://lobste.rs/s/loggmc/ledit_simple_gpu_rendered_no_bullsh_t_text)) ([HN](https://news.ycombinator.com/item?id=30447705))
 - [Graviton Editor](https://graviton.netlify.app/) - Code Editor, for Desktop or as server service. ([Code](https://github.com/Graviton-Code-Editor/Graviton-App))
+- [Monaco Editor Components](https://github.com/TypeFox/monaco-components) - Lit components for Monaco Editor.
 
 ## Web
 
@@ -184,3 +185,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Editor Protocol](https://github.com/udecode/editor-protocol) - Open standard for building a rich text editor.
 - [SwiftyMonaco](https://github.com/ICToolkit/SwiftyMonaco) - Wrapper for Monaco Editor from Microsoft.
 - [OpenSumi](https://github.com/opensumi/core) - Framework helps you quickly build Cloud or Desktop IDE products.
+- [Betting on CodeMirror (2022)](https://blog.replit.com/codemirror)

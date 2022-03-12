@@ -65,3 +65,4 @@
 - [Matrix Multiplication Inches Closer To Mythic Goal (2021)](https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/) ([HN](https://news.ycombinator.com/item?id=29601425))
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) ([HN](https://news.ycombinator.com/item?id=29971470)) ([Code](https://github.com/staltz/matrixmultiplication.xyz))
 - [Конспекты по линейной алгебре](https://github.com/sancho20021/linal)
+- [Why Tensors? A Beginner's Perspective (2022)](https://mfaizan.github.io/2022/03/08/why-tensors.html) ([HN](https://news.ycombinator.com/item?id=30610238))

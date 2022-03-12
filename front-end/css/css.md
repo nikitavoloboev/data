@@ -463,3 +463,4 @@ all: unset
 - [CSS-Checker](https://github.com/ruilisi/css-checker) - Find and Reduce Similar and Duplicated CSS Scripts.
 - [Telecss](https://github.com/telecss/telecss) - CSS tokenizer, parser, transformer, written in Rust.
 - [Taming CSS Variables with Web Inspector | WebKit (2022)](https://webkit.org/blog/12303/css-variables-web-inspector/)
+- [How we migrated entirely to CSS Modules (2022)](https://about.sourcegraph.com/blog/migrating-to-css-modules-with-codemods-and-code-insights/)

@@ -275,3 +275,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Fountain](https://fountain.io/) - Markup language for screenwriting. ([TS lib](https://github.com/jonnygreenwald/Fountain.ts))
 - [Easy trick for telling better stories](https://twitter.com/wes_kao/status/1495065668546408456)
 - [What makes writing more readable? (2022)](https://pudding.cool/2022/02/plain/) ([HN](https://news.ycombinator.com/item?id=30441773))
+- [What makes a great opening line?](https://lithub.com/what-makes-a-great-opening-line/) ([HN](https://news.ycombinator.com/item?id=30631725))

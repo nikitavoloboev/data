@@ -89,3 +89,4 @@ Match all that don't have notes or twitter in input
 - [Alternative Regex Syntax](https://github.com/oilshell/oil/wiki/Alternative-Regex-Syntax) ([Lobsters](https://lobste.rs/s/molbhc/alternative_regex_syntax))
 - [Python support for regular expressions (2022)](https://lwn.net/SubscriberLink/885682/ebb44eea5667f358/)
 - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/) ([HN](https://news.ycombinator.com/item?id=30564287))
+- [rulex](https://github.com/Aloso/rulex) - New, portable, regular expression language. ([Reddit](https://www.reddit.com/r/rust/comments/tbu6s3/announcing_rulex_a_new_regular_expression_language/))

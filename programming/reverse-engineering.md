@@ -105,3 +105,4 @@
 - [radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language.
 - [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
 - [biodiff](https://github.com/8051Enthusiast/biodiff) - Compare binary files using alignment algorithms.
+- [Reverse-engineering the waveform generator in a 1969 breadboard (2022)](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html) ([HN](https://news.ycombinator.com/item?id=30617896))

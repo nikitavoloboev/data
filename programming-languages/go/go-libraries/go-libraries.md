@@ -57,7 +57,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mow.cli](https://github.com/jawher/mow.cli) - Versatile library for building CLI applications in Go.
 - [term](https://github.com/pkg/term) - Manages POSIX terminals.
 - [opts](https://github.com/jpillora/opts) - Building frictionless command-line interfaces.
-- [Cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ([Web](https://cobra.dev/)) ([cobrautil](https://github.com/jzelinskie/cobrautil))
+- [Cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ([Web](https://cobra.dev/)) ([cobrautil](https://github.com/jzelinskie/cobrautil)) ([Cobra Generator](https://github.com/spf13/cobra-cli))
 - [oauth2cli](https://github.com/int128/oauth2cli) - Go package of OAuth 2.0 authorization for command line tools, which allows simple authorization flow for better UX.
 - [promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications.
 - [acmd](https://github.com/cristalhq/acmd) - Simple, useful and opinionated CLI package in Go.
@@ -71,6 +71,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [TCG](https://github.com/msoap/tcg) - Terminal cell graphics library.
 - [shell](https://github.com/keegancsmith/shell) - Generate Shell Commands in Go, sprintf Style.
 - [termbar](https://github.com/mergestat/termbar) - Generate terminal charts in Go.
+- [go-shell](https://github.com/progrium/go-shell) - Library to write "shelling out" Go code more shell-like, while remaining idiomatic to Go.
 
 ## Test
 
@@ -135,6 +136,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gin-swagger](https://github.com/swaggo/gin-swagger) - gin middleware to automatically generate RESTful API documentation with Swagger.
 - [CORS gin](https://github.com/gin-contrib/cors) - Gin middleware/handler to enable CORS support.
 - [logger](https://github.com/gin-contrib/logger) - Gin middleware/handler to logger url path using rs/zerolog.
+- [RequestID](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework.
+- [ginpprof](https://github.com/DeanThompson/ginpprof) - Wrapper for golang web framework gin to use net/http/pprof easily.
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.
@@ -484,6 +487,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [tss-lib](https://github.com/binance-chain/tss-lib) - Multi-Party Threshold Signature Scheme.
 - [multi-party-sig](https://github.com/taurusgroup/multi-party-sig) - Implementation of protocols for threshold signatures.
 - [pkcs7](https://github.com/fullsailor/pkcs7) - Implements a subset of PKCS#7/Crytpographic Message Syntax.
+- [xsum](https://github.com/sclevine/xsum) - More useful checksums using Merkle Trees.
 
 ## Linux
 
@@ -1396,6 +1400,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Chainable](https://github.com/neurocollective/go_chainable) - .map().filter().reduce() in Go. ([HN](https://news.ycombinator.com/item?id=30582862))
 - [hcledit](https://github.com/mercari/hcledit) - Go package to edit HCL configuration.
 - [SSE](https://github.com/r3labs/sse) - Server Sent Events Client/Server Library for Go.
+- [GoFrame](https://github.com/gogf/gf) - Modular, powerful, high-performance and enterprise-class application development framework of Go.
 
 ## Links
 

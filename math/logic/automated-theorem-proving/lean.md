@@ -68,3 +68,6 @@
 - [SciLean](https://github.com/lecopivo/SciLean) - Framework for scientific computing written in Lean.
 - [Lean4 Postgresql Frontend-Backend-protocol](https://github.com/FWuermse/lean-postgres)
 - [Data Types as Quotients of Polynomial Functors](https://github.com/avigad/qpf)
+- [Unit fractions](https://github.com/b-mehta/unit-fractions)
+- [Topos theory for Lean](https://github.com/b-mehta/topos)
+- [Lean for the Curious Mathematician 2020](https://github.com/leanprover-community/lftcm2020) ([Web](https://leanprover-community.github.io/lftcm2020/))

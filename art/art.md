@@ -506,3 +506,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Sudo Make Art](https://www.sudomake.art/) ([Tweet](https://twitter.com/jamesjyu/status/1495817240503255040))
 - [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
 - [Cave Poems and Strange Horticulture (2022)](https://arnicas.substack.com/p/titaa-27-cave-poems-and-strange-horticulture)
+- [Love and Longing in the Seaweed Album (2022)](https://publicdomainreview.org/essay/love-and-longing-in-the-seaweed-album)

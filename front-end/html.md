@@ -225,3 +225,4 @@
 - [Obscure HTML Tags](https://devapt.com/html-tags) ([HN](https://news.ycombinator.com/item?id=30469695))
 - [It's always been you, Canvas2D (2022)](https://developer.chrome.com/blog/canvas2d/) ([HN](https://news.ycombinator.com/item?id=30553585))
 - [html5lib](https://github.com/html5lib/html5lib-python) - Pure-python library for parsing HTML.
+- [HTML-friendly spaCy Tokenizer](https://github.com/pmbaumgartner/spacy-html-tokenizer)

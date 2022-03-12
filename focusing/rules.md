@@ -199,9 +199,9 @@
 
 ## Photos
 
-- Only keep good & memorable photos. Clean up the rest. Sort into albums.
-- Don't over edit photos & share freely.
-- Be confident in how I look and experiment with photos/videos. Not all photos/videos have to be shared. It's the memories that count.
+- Take many photos. Keep good & memorable photos. Clean up the rest. Sort into albums.
+- Don't over edit 'day in life' photos & share freely.
+- Be confident in how I look. Experiment with photos/videos. Not all photos/videos need to be shared. It's the memories that count.
 
 ## Email
 

@@ -8,3 +8,4 @@
 - [Переезд из России в Грузию](https://russiansingeorgia.me/) ([Tweet](https://twitter.com/vasya_ryba/status/1497759100783976451))
 - [Бегущим в Грузию, 2022](https://artemzin.com/blog/georgia-runner-2022-net-voine/)
 - [Телеграм-канал про Грузию на русском языке](https://t.me/nlevshitstelegram)
+- [Переехал в Тбилиси. Жизнь в Грузии, которую от нас скрывают блогеры (2022)](https://www.youtube.com/watch?v=CbCRgqOheDQ)

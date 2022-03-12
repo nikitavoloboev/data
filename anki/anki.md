@@ -4,6 +4,8 @@ Anki is an awesome app that uses [spaced repetition learning](http://en.wikipedi
 
 The reason I am not currently using it is because I find the philosophy of `Knowing something is knowing where it is written down.` much more effective than memorizing things. And I am pretty fast on the computer already so looking something up is 'nearly' as fast as retrieving something from memory. Also I believe that doing something that you want to get good at a lot of times is the only real way to learn and master anything. That said, Anki is pretty great for learning vocabulary for a language as that is something where memorization and 'knowing' some thing is actually important. But even then being immersed in the environment where you try to speak the language is much more effective.
 
+[Remnote](https://www.remnote.com/) seems like a better version of Anki as it integrates note taking into the flow.
+
 > A language isn’t something you learn so much as something you join.
 
 ## Tips
@@ -63,3 +65,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [apy](https://github.com/lervag/apy) - CLI script for interacting with local Anki collection.
 - [markdown-anki-decks](https://github.com/lukesmurray/markdown-anki-decks) - Tool for converting markdown files into anki decks.
 - [On Anki's Database (2022)](https://www.natemeyvis.com/writing/on-ankis-database-structure/) ([HN](https://news.ycombinator.com/item?id=30427549))
+- [Prepform](https://prepform.com/) - AI and spaced-repetition to optimize learning. ([HN](https://news.ycombinator.com/item?id=30631991))

@@ -482,3 +482,9 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [«Сейчас вас всех будут девственности лишать». Как в ОВД «Братеево» пытали девушек, задержанных на антивоенном митинге](https://zona.media/article/2022/03/09/brateevo) ([Tweet](https://twitter.com/ivegottheflu/status/1501492445229752320))
 - [Хотят ли русские войны](https://www.dorussianswantwar.com/) ([Tweet](https://twitter.com/alexey_minyaylo/status/1500789953042821122))
 - [Акунин – что происходит с Россией (2022)](https://www.youtube.com/watch?v=70RmF0rPj9o)
+- [Какие статьи конституции вам нужно знать, чтобы защищать свои права](https://twitter.com/ivan_pizdarvan/status/1501806612939485184)
+- [Дмитрий Муратов: «Здорово определились добро и зло» (2022)](https://www.youtube.com/watch?v=8CW-WAJq0ts)
+- [A Voracious Reader: Stalin through his books](https://drb.ie/articles/a-voracious-reader-2/) ([HN](https://news.ycombinator.com/item?id=30632775))
+- [Undef Club](https://undef.club/#about) - Hackerspace in the middle of Moscow.
+- [Russian Colonialism History (2022)](https://twitter.com/MaximEristavi/status/1495323069539405826)
+- [Explaining Russia's endemic corruption issue and its effects](https://www.reddit.com/r/CredibleDefense/comments/tbx9bb/comment/i0bqxxv/?utm_source=share&utm_medium=web2x&context=3)

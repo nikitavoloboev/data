@@ -195,3 +195,7 @@
 - [Dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start.
 - [Run Nomad from a Docker container](https://github.com/multani/docker-nomad)
 - [Docker Registry Proxy](https://github.com/rpardini/docker-registry-proxy) - HTTPS Proxy for Docker providing centralized configuration and caching of any registry.
+- [bane](https://github.com/genuinetools/bane) - Custom & better AppArmor profile generator for Docker containers.
+- [Dockerized](https://github.com/datastack-net/dockerized) - Run CLI tools without installation. ([HN](https://news.ycombinator.com/item?id=30627202))
+- [Mastering the Docker cache (2022)](https://contains.dev/blog/mastering-docker-cache)
+- [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Run commands within ethereal docker containers.

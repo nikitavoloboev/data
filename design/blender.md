@@ -58,8 +58,10 @@
 - [Landon](https://github.com/chinedufn/landon) - Collection of tools, data structures and methods for exporting Blender data.
 - [Blog - Blender Studio](https://studio.blender.org/blog/)
 - [Watchtower – Blender Studio (2022)](https://studio.blender.org/blog/introducing-watchtower/) ([HN](https://news.ycombinator.com/item?id=30150047))
-- [Geometry Sketcher](https://github.com/hlorus/geometry_sketcher) - Constraint-based geometry sketcher for blender.
+- [Geometry Sketcher](https://github.com/hlorus/geometry_sketcher) - Constraint-based geometry sketcher for blender. ([HN](https://news.ycombinator.com/item?id=30625341))
 - [Blender.jl](https://github.com/jagot/Blender.jl) - Julia interface to Blender-as-a-Python-module.
 - [Synthetic Data creation with Blender](https://github.com/sean-halpin/synthetic_dataset_creation_blender)
 - [BlenderProc2](https://github.com/DLR-RM/BlenderProc) - Procedural Blender pipeline for photorealistic training image generation.
 - [Blender 3.1 (2022)](https://www.blender.org/download/releases/3-1/) ([HN](https://news.ycombinator.com/item?id=30617723))
+- [Blender Reddit Wiki](https://www.reddit.com/r/blender/wiki/index)
+- [Blender CAD Tools](https://github.com/EleotleCram/blender-cad-tools)

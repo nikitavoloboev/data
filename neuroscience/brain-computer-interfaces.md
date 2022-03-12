@@ -54,3 +54,4 @@
 - [A low-cost and shielding-free ultra-low-field brain MRI scanner (2021)](https://www.nature.com/articles/s41467-021-27317-1) ([HN](https://news.ycombinator.com/item?id=30208083))
 - [brainplotlib](https://github.com/feilong/brainplotlib) - Lightweight package to plot brain surfaces with Python.
 - [NeuroTechEDU's Awesome List of BCI-related Resources](https://github.com/NeuroTechX/awesome-bci)
+- [EEGLearn](https://github.com/pbashivan/EEGLearn) - Set of functions for supervised feature learning/classification of mental states from EEG based on "EEG images" idea.

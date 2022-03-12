@@ -650,3 +650,6 @@
 - [TriggerMesh](https://github.com/triggermesh/triggermesh) - Open source event-driven integration platform powered by Kubernetes and Knative.
 - [kCTF](https://github.com/google/kctf) - Kubernetes-based infrastructure for CTF competitions.
 - [Using client-go: Writing Go clients for talking to Kubernetes (2022)](https://leanpub.com/using-client-go-season-1) ([Code](https://github.com/lucasepe/using-client-go))
+- [Robusta](https://home.robusta.dev/) - Kubernetes Troubleshooting and Automation Platform. ([Code](https://github.com/robusta-dev/robusta))
+- [Terrajet Template Provider](https://github.com/crossplane-contrib/provider-jet-template) - Crossplane provider that is built using Terrajet code generation tools and exposes XRM-conformant managed resources for the Template API.
+- [KoolKits](https://github.com/lightrun-platform/koolkits) - Opinionated, language-specific, batteries-included debug container images for Kubernetes.

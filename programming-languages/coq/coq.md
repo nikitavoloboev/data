@@ -124,3 +124,5 @@
 - [Nuprl's type theory in Coq](https://github.com/vrahli/NuprlInCoq)
 - [Trakt](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics in Coq.
 - [metalib](https://github.com/plclub/metalib) - Penn Locally Nameless Metatheory Library.
+- [Scripts associated to tutorials for mathcomp](https://github.com/math-comp/tutorial_material)
+- [Ergo](https://github.com/accordproject/ergo) - Language for Smart Legal Contracts. ([Web](https://accordproject.org/projects/ergo/))

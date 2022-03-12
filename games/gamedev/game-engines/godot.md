@@ -51,3 +51,4 @@
 - [Swift for Godot](https://github.com/kelvin13/godot-swift)
 - [Escoria Demo Game](https://github.com/godot-escoria/escoria-demo-game) - Game example for the point'n'click adventure framework Escoria.
 - [Godot C++](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API.
+- [HN: Godot (2022)](https://news.ycombinator.com/item?id=30622830)

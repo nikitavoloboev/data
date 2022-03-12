@@ -47,6 +47,7 @@
 - [JSONy](https://github.com/treeform/jsony) - Loose, direct to object json parser and serializer with hooks.
 - [Taskpools](https://github.com/status-im/nim-taskpools) - Lightweight, energy-efficient, easily auditable threadpool.
 - [Weave](https://github.com/mratsim/weave) - State-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead.
+- [iterrr](https://github.com/hamidb80/iterrr) - Functional-style, lazy-like, extensible iterator library.
 
 ## Links
 

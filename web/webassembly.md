@@ -271,3 +271,6 @@
 - [wasm-pack-template](https://github.com/my-liminal-space/read-parquet-browser) - Template for kick starting a Rust and WebAssembly project using wasm-pack.
 - [WASM Audio Decoders](https://github.com/eshaz/wasm-audio-decoders) - Browser and NodeJS Web Assembly audio decoder libraries that are highly optimized for size and performance.
 - [WASI: a New Kind of System Interface](https://www.infoq.com/presentations/wasi-system-interface/) ([HN](https://news.ycombinator.com/item?id=30527685))
+- [Function Reference Types Proposal for WebAssembly](https://github.com/WebAssembly/function-references)
+- [Embeddable WebAssembly Parsers (2022)](https://medium.com/@kylebrw/embeddable-webassembly-parsers-5bf3a27a1d00)
+- [Rust-WASM](https://github.com/yblein/rust-wasm) - WASM interpreter written in Rust.

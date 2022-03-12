@@ -151,6 +151,7 @@
 - [Scribe](https://github.com/outr/scribe) - Fastest logging library in the world. Built from scratch in Scala and programmatically configurable.
 - [Emil](https://github.com/eikek/emil) - Library for dealing with E-Mail in Scala.
 - [futil](https://github.com/alexklibisz/futil) - Minimal utilities for Scala Futures.
+- [Scala Isabelle](https://github.com/dominique-unruh/scala-isabelle) - Scala library for controlling/interacting with Isabelle.
 
 ## Links
 

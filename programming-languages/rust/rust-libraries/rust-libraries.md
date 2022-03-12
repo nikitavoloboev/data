@@ -38,6 +38,7 @@
 - [argfile](https://github.com/rust-cli/argfile) - Load additional CLI args from file.
 - [textplots](https://github.com/loony-bean/textplots-rs) - Terminal plotting library for Rust.
 - [Spinners](https://github.com/FGRibreau/spinners) - + Elegant terminal spinners for Rust.
+- [Bunt](https://github.com/LukasKalbertodt/bunt) - Simple macro-based terminal colors and styles.
 
 ## Web
 
@@ -232,6 +233,7 @@
 - [Syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust.
 - [xql](https://github.com/arch-mage/xql) - SQL query builder for sqlx.
 - [Oxide Crucible](https://github.com/oxidecomputer/crucible) - Prototype storage service.
+- [rbatis](https://github.com/rbatis/rbatis) - Highly Performant,Safe,Dynamic SQL (Compile time) ORM framework written in Rust.
 
 ## Video
 
@@ -461,6 +463,7 @@
 - [stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal) - Hardware abstraction layer for the stm32l432xx series chips written in rust.
 - [lm3s6965](https://github.com/japaric/lm3s6965) - Minimal device crate for the LM3S6965 (Cortex-M3) microcontroller.
 - [fugit](https://github.com/korken89/fugit) - Provides a comprehensive library of `Duration` and `Instant` for the handling of time in embedded systems, doing all it can at compile time.
+- [esp32-hal](https://github.com/esp-rs/esp32-hal) - Hardware abstraction layer for the esp32 written in Rust.
 
 ## ML
 
@@ -567,6 +570,8 @@
 - [derive-where](https://github.com/ModProg/derive-where) - Derive macro to simplify deriving standard and other traits with custom generic type bounds.
 - [expander](https://github.com/drahnr/expander) - Expands a proc-macro into a file, and uses a include! directive in place.
 - [Sugars](https://github.com/GrayJack/sugars) - Nice Rust macros for better writing.
+- [litrs](https://github.com/LukasKalbertodt/litrs) - Parsing and inspecting Rust literals (particularly useful for proc macros).
+- [rustic-c](https://github.com/ry00001/rustic-c) - Macro to write C inside Rust.
 
 ## Math
 
@@ -708,7 +713,7 @@
 - [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
 - [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
-- [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++. ([Docs](https://cxx.rs/))
+- [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++. ([Docs](https://cxx.rs/)) ([HN](https://news.ycombinator.com/item?id=30627495))
 - [cxx-async](https://github.com/pcwalton/cxx-async) - Rust crate that extends the cxx library to provide seamless interoperability between asynchronous Rust code using async/await and C++20 coroutines using co_await.
 - [Duct](https://github.com/oconnor663/duct.rs) - Rust library for shelling out and making pipelines.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust.
@@ -1563,6 +1568,10 @@
 - [Liquid Rust](https://github.com/fan-tom/liquid-rust) - Attempt to implement Liquid Types type checker for Rust code.
 - [RiteLinked](https://github.com/dataslime/ritelinked) - HashMap-like containers that hold their key-value pairs in a user controllable order.
 - [blurhash-rs](https://github.com/Raincal/blurhash-rs) - Pure Rust implementation of Blurhash.
+- [Voracious sort](https://github.com/lakwet/voracious_sort) - Voracious radix sort.
+- [qoi-rust](https://github.com/aldanor/qoi-rust) - Very fast encoder/decoder for QOI image format in pure and safe Rust.
+- [Atomig](https://github.com/LukasKalbertodt/atomig) - Generic and convenient std atomics.
+- [kay](https://github.com/aeplay/kay) - High-performance actor system framework for Rust.
 
 ## Cargo Plugins
 

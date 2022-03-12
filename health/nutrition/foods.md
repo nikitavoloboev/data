@@ -145,3 +145,5 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Healthy high-calorie foods (2022)](https://www.reddit.com/r/nutrition/comments/syaqyo/what_are_some_healthy_highcalorie_foods/)
 - [What are the most fascinating/informative/mind blowing books you have read about food/nutrition? (2022)](https://www.reddit.com/r/nutrition/comments/t31skt/what_are_the_most_fascinatinginformativemind/)
 - [Foods that promote gut health](https://www.reddit.com/r/nutrition/comments/t7p391/what_are_foods_that_promote_gut_health/)
+- [What is a internationally lesser-known yet highly delicious dish from your country? (2022)](https://www.reddit.com/r/AskEurope/comments/tavgz5/what_is_a_internationally_lesserknown_yet_highly/)
+- [Micro Meat](https://www.micromeat.com/) - Technology for scaling cultivated meat. ([HN](https://news.ycombinator.com/item?id=30627418))

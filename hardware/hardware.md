@@ -294,3 +294,4 @@
 - [Koika](https://github.com/mit-plv/koika) - Core Language for Rule-Based Hardware Design.
 - [Universal Chiplet Interconnect Express UCIe 1.0 Launched (2022)](https://www.servethehome.com/universal-chiplet-interconnect-express-ucie-1-0-launched/) ([HN](https://news.ycombinator.com/item?id=30538809))
 - [What you must know about Memory, Caches, and Shared Memory](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf) ([HN](https://news.ycombinator.com/item?id=30549828))
+- [Pockit](https://pockit.ai/) - Tiny, powerful, modular computer. ([2022 Demo](https://www.youtube.com/watch?v=b3F9OtH2Xx4)) ([HN](https://news.ycombinator.com/item?id=30615959))

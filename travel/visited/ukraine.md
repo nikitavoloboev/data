@@ -88,3 +88,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Stand with Ukraine](https://github.com/vshymanskyy/StandWithUkraine) - Support materials.
 - [VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine](https://github.com/zhukovyuri/VIINA)
 - [Zelensky's 14th day of war speech](https://twitter.com/ChristopherJM/status/1501577368049176584)
+- [List of Cybersecurity Resources for Ukraine](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine)
+- [Война в Украине. Онлайн](https://theins.ru/politika/249168)

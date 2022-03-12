@@ -157,3 +157,5 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [If the US Market for SWEs is on fire why isn’t Europe’s, or India’s? (2022)](https://twitter.com/danluu/status/1447997574556880902) ([HN](https://news.ycombinator.com/item?id=30574489))
 - [Lessons from a tech job search (2022)](https://blog.nindalf.com/posts/tech-interview/) ([HN](https://news.ycombinator.com/item?id=30592572))
 - [Senior devs. Is anyone else insulted by coding exams? (2022)](https://news.ycombinator.com/item?id=30615411)
+- [Тред с ресурсами для поиска удаленной работы](https://twitter.com/kozlovzxc/status/1501932904246513679)
+- [Who is Hiring?](https://whoishiring.io/)

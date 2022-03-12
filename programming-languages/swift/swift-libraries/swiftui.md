@@ -1,6 +1,6 @@
 # [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-[Companion for SwiftUI](https://twitter.com/JordanMorgan10/status/1500090857210486784) is useful.
+[Companion for SwiftUI](https://twitter.com/JordanMorgan10/status/1500090857210486784) is useful. [Swift with Majid](https://swiftwithmajid.com/) & [Swift by Sundell](https://www.swiftbysundell.com/) are great blogs.
 
 ## Notes
 
@@ -189,3 +189,4 @@
 - [Dash Docset for Samuel Defago's Post on SwiftUI Layout Behavior](https://github.com/manmal/swiftui-layout-dash-docset)
 - [Multi-platform Development, the SwiftUI Way (2021)](https://www.youtube.com/watch?v=5HO6fsegDNk) ([Code](https://github.com/malinsundberg/ios-conf-sg-caffeine-squirrel))
 - [SwiftUI under the Hood: Variadic Views (2022)](https://movingparts.io/variadic-views-in-swiftui)
+- [State restoration in SwiftUI (2022)](https://swiftwithmajid.com/2022/03/10/state-restoration-in-swiftui/)

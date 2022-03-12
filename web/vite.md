@@ -34,3 +34,4 @@
 - [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based routing for Vue 3 / React applications using Vite.
 - [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown with Vue for Vite.
 - [Vite Ecosystem CI](https://github.com/vitejs/vite-ecosystem-ci)
+- [Vite Plugin GraphQL Codegen](https://github.com/danielwaltz/vite-plugin-graphql-codegen) - Zero-config vite plugin that uses the vite file watcher to run graphql codegen programmatically without needing to start a separate watcher.

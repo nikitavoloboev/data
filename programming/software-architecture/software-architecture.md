@@ -209,3 +209,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Recurring ideas in software development and architecture (2022)](https://twitter.com/mariofusco/status/1497536581770567680)
 - [Successful ($1B+) tech companies that use an architecture that's a monolith (2022)](https://twitter.com/danluu/status/1498678300163588096)
 - [Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)
+- [Some benefits of simple software architectures (2022)](https://www.wave.com/en/blog/simple-architecture/)

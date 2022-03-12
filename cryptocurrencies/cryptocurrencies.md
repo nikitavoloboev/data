@@ -103,7 +103,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [ShapeShift](https://shapeshift.com/) - Offers global trading of a variety of digital assets.
 - [cointop](https://cointop.sh/) - Coin tracking for hackers. ([Code](https://github.com/miguelmota/cointop))
 - [FTX](https://ftx.com/en) - Cryptocurrency Derivatives Exchange. ([Sample Code](https://github.com/ftexchange/ftx)) ([API Docs](https://docs.ftx.us/#overview))
-- [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([UI Code](https://github.com/raydium-io/raydium-ui)) ([SDK](https://github.com/raydium-io/raydium-sdk)) ([Tutorial](https://www.youtube.com/watch?v=OaTPDlG6J5E))
 - [The FTX Podcast](https://www.youtube.com/playlist?list=PLLDdsQN_5infQ9Ee-KPxcH3gvMIbymZEg) - Tristan Yver looks into the stories of emerging and established cryptocurrency companies and technologies.
 - [Phantom](https://phantom.app/) - Digital wallet reimagined for DeFi & NFTs. Supports Solana and Ethereum.
 - [Blockfolio](https://blockfolio.com/) - Buy, sell & track your Bitcoin, Ethereum, & more.
@@ -241,3 +240,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [I was wrong, we need crypto (2022)](https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03) ([HN](https://news.ycombinator.com/item?id=30414842))
 - [Everstake](https://everstake.one/) - Staking Service Platform, Staking provider. ([Twitter](https://twitter.com/everstake_pool))
 - [How crypto exchanges enforce US sanctions](https://twitter.com/Brett_FTXUS/status/1500567182757011459)
+- [Stripe Crypto](https://stripe.com/en-gb-cy/use-cases/crypto) ([HN](https://news.ycombinator.com/item?id=30628677))
+- [Ninjabot](https://github.com/rodrigo-brito/ninjabot) - Fast cryptocurrency platform for trading bot in Go.

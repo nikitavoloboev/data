@@ -44,6 +44,10 @@
 
 - [VecFns](https://github.com/omaraaa/VecFns) - Automatic Vector Math Functions In Zig.
 
+## Linux
+
+- [AsyncIOUring](https://github.com/saltzm/async_io_uring) - Event loop in Zig using io_uring and coroutines.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)

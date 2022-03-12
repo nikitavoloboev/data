@@ -239,3 +239,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [eBPF for Docker Desktop on macOS](https://github.com/singe/ebpf-docker-for-mac)
 - [duti](https://github.com/moretension/duti) - Command-line utility capable of setting default applications for various document types on macOS.
 - [mpw-emu: Emulating 1998-Vintage Mac Compilers (2022)](https://wuffs.org/blog/emulating-mac-compilers)
+- [xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more.

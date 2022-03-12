@@ -225,3 +225,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [IRA Design](https://iradesign.io/) - Free and open-source illustrations for your projects. ([HN](https://news.ycombinator.com/item?id=30332535))
 - [Penpot](https://penpot.app/) - Open-Source design & prototyping platform. ([Code](https://github.com/penpot/penpot)) ([HN](https://news.ycombinator.com/item?id=30407913))
 - [UI Gallery](https://ui.gallery/) ([Tweet](https://twitter.com/raunofreiberg/status/1496072815946219522))
+- [Product Designer Software Stack (2022)](https://twitter.com/jsngr/status/1501979905067737088)

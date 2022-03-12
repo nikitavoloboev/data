@@ -2,7 +2,7 @@
 
 I naturally do intermittent fasting whereby I fast for a majority of the day and only eat [highly nutritious whole food plant based food](foods.md).
 
-I sometimes do one day fasts but not routinely.
+I sometimes do one day fasts but not routinely. [Here](https://news.ycombinator.com/item?id=30625586) is a nice guide.
 
 ## Notes
 
@@ -32,3 +32,4 @@ I sometimes do one day fasts but not routinely.
 - [Intermittent fasting prompts anti-inflammatory response (2021)](https://academic.oup.com/ehjopen/article/1/2/oeab026/6363797) ([HN](https://news.ycombinator.com/item?id=29210352))
 - [First Controlled Human Trial Shows Cutting Calories Improves Health, Longevity (2022)](https://www.reddit.com/r/Futurology/comments/sz7v8h/first_controlled_human_trial_shows_cutting/hy2uolo/)
 - [Caloric restriction in humans reveals immunometabolic regulators of health span (2022)](https://www.science.org/doi/10.1126/science.abg7292) ([HN](https://news.ycombinator.com/item?id=30450307))
+- [The Beginner's Guide to Intermittent Fasting (2012)](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting) ([HN](https://news.ycombinator.com/item?id=30625586))

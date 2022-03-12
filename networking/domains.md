@@ -26,3 +26,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [Domains Project](https://domainsproject.org/) - World’s single largest Internet domains dataset. ([Code](https://github.com/tb0hdan/domains))
 - [DOR](https://github.com/ilyaglow/dor) - Domain Ranker.
 - [What are good domain name registrars? (2022)](https://lobste.rs/s/awemvg/what_are_good_domain_name_registrars)
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain discovery tool that discovers valid subdomains for websites.

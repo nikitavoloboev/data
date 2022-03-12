@@ -107,3 +107,4 @@
 - [kglab](https://github.com/DerwenAI/kglab) - Provides a simple abstraction layer in Python for building knowledge graphs.
 - [Knowledge Graph Toolkit (KGTK)](https://github.com/usc-isi-i2/kgtk)
 - [Awesome Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs)
+- [An Open Challenge for Inductive Link Prediction on Knowledge Graphs (2022)](https://arxiv.org/abs/2203.01520) ([Code](https://github.com/pykeen/ilpc2022))

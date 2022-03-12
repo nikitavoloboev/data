@@ -425,6 +425,10 @@ Below is a list of extensions I use.
 
 - [Idris VSCode](https://github.com/meraymond2/idris-vscode) - Idris front-end for VS Code.
 
+## LLVM
+
+- [LLVM IR Language Support](https://github.com/revng/vscode-llvm-ir)
+
 ## Zig
 
 - [VSCode Zig](https://github.com/ziglang/vscode-zig)
@@ -493,3 +497,4 @@ Below is a list of extensions I use.
 - [Publish VS Code Extension — GitHub Action](https://github.com/HaaLeo/publish-vscode-extension) - GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.
 - [VS Code extensions for web development in 2022](https://creativedesignsguru.com/vscode-extensions-web-developers/) ([HN](https://news.ycombinator.com/item?id=29975429))
 - [Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
+- [Anthony's VS Code Settings](https://github.com/antfu/vscode-settings)

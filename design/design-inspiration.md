@@ -6,6 +6,7 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Scruples Studio](https://scruples.studio/)
 - [Glass](https://glass.photo/)
 - [Modfy](https://www.modfy.video/)
 - [Useful Books](https://www.usefulbooks.com/)
@@ -44,6 +45,7 @@ Here are few more things I liked, design wise.
 - [Gumroad](https://gumroad.com/)
 - [Rows](https://rows.com/)
 - [Toit](https://toit.io/)
+- [Substack](https://substack.com/)
 - [Gorgias](https://www.gorgias.com/)
 - [Psyche](https://psyche.co/)
 - [SavvyCal](https://savvycal.com/home)

@@ -43,3 +43,4 @@
 - [caddy-redirects](https://github.com/vinissimus/caddy-redirects) - Provides a middleware that redirects matching URL to another path.
 - [certmagic-sqlstorage](https://github.com/yroc92/postgres-storage) - SQL storage for CertMagic/Caddy TLS data.
 - [Consul K/V Storage for Caddy TLS data](https://github.com/pteich/caddy-tlsconsul)
+- [Caddy Markdown Site](https://github.com/dbohdan/caddy-markdown-site) - Serve Markdown files as HTML pages with CSS using just Caddy.

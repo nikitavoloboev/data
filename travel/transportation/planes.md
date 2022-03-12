@@ -10,3 +10,4 @@
 - [Как построить свой самолет со своим двигателем на сверхпроводниках и жидким азотом (2021)](https://habr.com/ru/post/569404/)
 - [Jetson](https://www.jetsonaero.com/) - Personal Electric Aerial Vehicle. ([Tweet](https://twitter.com/elidourado/status/1452642288966963201))
 - [YSFlight](https://ysflight.org/) - Free flight simulator where anything is possible. ([HN](https://news.ycombinator.com/item?id=30299850))
+- [Hermeus](https://www.hermeus.com/) - Mach 5 aircraft. ([Twitter](https://twitter.com/hermeuscorp))

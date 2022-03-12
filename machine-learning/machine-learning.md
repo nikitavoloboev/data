@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) seems great.
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great.
 
 ## Notes
 
@@ -719,3 +719,4 @@
 - [Gensyn](https://www.gensyn.ai/) - Hyperscale, cost-efficient compute protocol for the world's deep learning models. ([Twitter](https://twitter.com/gensynai))
 - [Software Engineering for AI/ML -- An Annotated Bibliography](https://github.com/ckaestne/seaibib)
 - [Physics-Based Deep Learning](https://github.com/thunil/Physics-Based-Deep-Learning)
+- [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation (2019)](https://arxiv.org/abs/1905.08094) ([Code](https://github.com/luanyunteng/pytorch-be-your-own-teacher))

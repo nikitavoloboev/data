@@ -11,6 +11,7 @@
 - [Design Editor](https://github.com/scenify/design-editor) - Canva Clone Design Editor using React and Fabric.js.
 - [Proton Mail Web clients](https://github.com/ProtonMail/WebClients)
 - [Saas UI](https://github.com/saas-js/saas-ui) - The frontend stack for SaaS companies, build with Chakra UI.
+- [Big Sir](https://github.com/bautistaaa/big-sir) - macOS built with React and XState.
 
 ## Templates
 

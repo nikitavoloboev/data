@@ -120,3 +120,4 @@
 - [Nuxt 3 Starter](https://github.com/xiaoluoboding/nuxt3-starter) - Better Nuxt 3 starter template.
 - [nuxt-gql](https://github.com/Diizzayy/nuxt-gql) - Minimal GraphQL Client + Code Generation for Nuxt 3.
 - [Vue Use Motion](https://github.com/vueuse/motion) - Vue Composables putting your components in motion.
+- [Vue Router](https://github.com/vuejs/router)

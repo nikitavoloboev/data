@@ -233,6 +233,8 @@
 - [UIOnboarding](https://github.com/lascic/UIOnboarding) - Configurable welcome screen for iOS 13 and higher.
 - [RichTextView](https://github.com/tophat/RichTextView) - iOS Text View (UIView) that Properly Displays LaTeX, HTML, Markdown, and YouTube/Vimeo Links.
 - [M13Checkbox](https://github.com/Marxon13/M13Checkbox) - Customizeable checkbox for iOS.
+- [Mapbox Maps iOS](https://github.com/mapbox/mapbox-maps-ios) - Public library for displaying interactive, thoroughly customizable maps in native iOS.
+- [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
 
 ## macOS
 
@@ -438,6 +440,7 @@
 - [AxisSheet for SwiftUI](https://github.com/jasudev/AxisSheet) - Handles the sheet view in 4 directions (.top, .bottom, .leading, .trailing) according to the axis mode.
 - [SwiftUI WrappingStack](https://github.com/diniska/swiftui-wrapping-stack) - SwiftUI Views for wrapping HStack elements into multiple lines.
 - [SymbolPicker](https://github.com/xnth97/SymbolPicker) - Simple and cross-platform SFSymbol picker for SwiftUI.
+- [SwiftUI-Animation](https://github.com/KeatoonMask/SwiftUI-Animation) - Animations built using SwiftUI framework.
 
 ## Test
 
@@ -1001,6 +1004,7 @@
 - [DateHelper](https://github.com/melvitax/DateHelper) - Swift Date extension helper.
 - [SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library for parsing and drawing SVG images to CoreGraphics contexts.
 - [Async+](https://github.com/async-plus/async-plus) - Chainable interface for Swift's async/await.
+- [AsyncExtensions](https://github.com/AsyncCommunity/AsyncExtensions) - Collection of operators, async sequences and async streams that mimics Combine behaviour.
 
 ## Other (not lib)
 
@@ -1051,3 +1055,6 @@
 - [spmready](https://github.com/StatusQuo/spmready) - Tool to check if all your pods are ready to migrate to swift package manager.
 - [Tuist SwiftLint plugin](https://github.com/tuist/tuist-plugin-lint) - Plugin that extends Tuist with SwiftLint functionalities.
 - [PluginManager](https://github.com/hassila/swift-plugin-manager) - Dynamic loading of Swift plug-ins for extensible architectures.
+- [Equatable Errors in Swift (2021)](https://twittemb.github.io/posts/2021-12-10-EquatableError/)
+- [A DSL for state machines in Swift (2021)](https://twittemb.github.io/posts/2021-02-13-StateMachineDSL/)
+- [OSLog and Unified logging as recommended by Apple (2020)](https://www.avanderlee.com/debugging/oslog-unified-logging/)

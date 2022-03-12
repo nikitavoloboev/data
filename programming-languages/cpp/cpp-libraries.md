@@ -347,6 +347,7 @@
 - [Maat](https://github.com/trailofbits/maat) - Open-source symbolic execution framework.
 - [mp-units](https://github.com/mpusz/units) - Compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation.
 - [CTTI](https://github.com/Manu343726/ctti) - Compile Time Type Information for C++.
+- [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 
 ## Links
 

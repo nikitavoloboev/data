@@ -23,6 +23,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Perfect Risotto](https://tasty.co/recipe/mushroom-risotto)
 - [Bagels](https://github.com/andrewkern/bagels)
 - [Jollof Rice Recipe](https://cooking.nytimes.com/recipes/1018069-jollof-rice)
+- [Pantry Pasta](https://www.youtube.com/watch?v=AHgsNybwusc)
 
 ## Links
 
@@ -84,3 +85,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [John Locke’s recipe for Pancakes (2021)](https://rarecooking.com/2021/12/14/john-lockes-recipe-for-pancakes/) ([HN](https://news.ycombinator.com/item?id=30132612))
 - [What are some favorite regional vegetarian dishes of yours?](https://www.reddit.com/r/AskEurope/comments/sjehhq/what_are_some_favourite_regional_vegetarian/)
 - [How do you keep track of online recipes you want to make in the future?](https://twitter.com/hels/status/1496122916836200451)
+- [MyRecipes](https://www.myrecipes.com/) - Recipes, Dinner Ideas and Menus.

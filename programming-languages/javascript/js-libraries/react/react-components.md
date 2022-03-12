@@ -273,6 +273,7 @@
 - [React H5 Audio Player](https://github.com/lhz516/react-h5-audio-player) - React audio player component with UI. It provides time indicator on both desktop and mobile devices.
 - [react-ansi-dumi](https://github.com/RaoHai/react-ansi) - Foldable and searchable ansi log viewer for React.
 - [Interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
+- [React Cool Img](https://github.com/wellyshen/react-cool-img)
 
 ## Links
 

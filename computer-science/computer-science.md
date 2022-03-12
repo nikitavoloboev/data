@@ -1,5 +1,7 @@
 # Computer Science
 
+[Coding Interview University](https://github.com/jwasham/coding-interview-university) & [this self learning guide](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) are great overviews of CS.
+
 ## Notes
 
 - Turing machines are not the only theoretical model that can be used to define computation.
@@ -180,3 +182,4 @@
 - [Ask HN: The book that did it for you in math and/or CS? (2022)](https://news.ycombinator.com/item?id=30485544)
 - [Software Foundations: mathematical underpinnings of reliable software](https://softwarefoundations.cis.upenn.edu/)
 - [We're Building Computers Wrong (2022)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+- [Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)

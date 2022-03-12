@@ -290,6 +290,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Recommend a biography? (2022)](https://news.ycombinator.com/item?id=30405924)
 - [Peaceful books for someone in the middle of war](https://www.reddit.com/r/Fantasy/comments/t75z4r/peaceful_books_for_someone_in_the_middle_of_war/)
 - [What was your last 5 star read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/t9xa3j/what_was_your_last_5_star_read/)
+- [Book or article you think about a lot that you don’t think anyone else in the replies will mention (2022)](https://twitter.com/nateliason/status/1501967452766457862)
 
 ## Interesting Prose Books
 
@@ -508,3 +509,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Useful Books](https://www.usefulbooks.com/) - Community, process, and tools to help you write great nonfiction, from first idea to first edition.
 - [Indie bookshelves](https://macwright.com/2022/02/24/indie-bookshelves.html)
 - [SQL-Powered Reading List (2022)](https://charlieharrington.com/sql-powered-reading-list/)
+- [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf))

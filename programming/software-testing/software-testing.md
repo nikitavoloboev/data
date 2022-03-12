@@ -136,3 +136,4 @@
 - [Gonkey](https://github.com/lamoda/gonkey) - Testing automation tool. Can bomb the service with prepared requests and check the responses.
 - [Ten-year experience in DBMS testing (2022)](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea)
 - [Three Rules of TDD](https://github.com/wix/tdd-katas)
+- [End to End CI Tests in Minutes with Netlify, Playwright & Github Actions (2021)](https://tone-row.com/blog/e2e-ci-testing-netlify-playwright-github-actions)

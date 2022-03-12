@@ -190,3 +190,4 @@ All active variables can be seen by running `env`.
 - [Anatomy of a Terminal Emulator (2021)](https://poor.dev/blog/terminal-anatomy/) ([Code](https://github.com/imsnif/terminal-anatomy-code-examples))
 - [How to Split a String in POSIX Shell (2021)](https://blog.dnmfarrell.com/post/how-to-split-a-string-in-posix-shell/)
 - [Blink Shell](https://blink.sh/) - Professional, desktop grade terminal for iOS. With Mosh & SSH clients for iOS, lightning fast and fully customizable. ([Docs](https://docs.blink.sh/))
+- [Julia Evans's Shell Examples](https://github.com/jvns/shell-examples)

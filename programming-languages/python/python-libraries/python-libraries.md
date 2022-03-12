@@ -742,6 +742,8 @@
 - [pyntcloud](https://github.com/daavoo/pyntcloud) - Python library for working with 3D point clouds.
 - [TNT](https://github.com/pytorch/tnt) - Simple tools for logging and visualizing, loading and training.
 - [pyfzf](https://github.com/nk412/pyfzf) - Python wrapper for fzf.
+- [Fountain](https://github.com/topology-gg/fountain) - 2-dimensional physics engine written in Cairo.
+- [Truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores.
 
 ## Links
 
@@ -829,3 +831,5 @@
 - [Quetz](https://github.com/mamba-org/quetz) - Open-Source Server for Conda Packages.
 - [Python Packaging User Guide](https://packaging.python.org/en/latest/) ([Code](https://github.com/pypa/packaging.python.org))
 - [PyPI Cloud](https://github.com/stevearc/pypicloud) - S3-backed PyPI server implementation.
+- [A Gentle Introduction to Testing with PyTest](https://bas.codes/posts/python-pytest-introduction)
+- [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - flake8 plugin to help you write better list/set/dict comprehensions.

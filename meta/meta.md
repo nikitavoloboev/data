@@ -37,4 +37,4 @@ There are many, many things I am yet to add to this little system I am planning 
    1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
    2. This knowledge wiki itself and the search it has.
 2. Transcribing knowledge in terms that make sense to me and other people.
-   -  I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.
+   - I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.

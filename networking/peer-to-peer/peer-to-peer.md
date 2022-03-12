@@ -110,3 +110,4 @@
 - [Kademlia: A Peer-to-peer Information System. Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 - [dht-rpc](https://github.com/mafintosh/dht-rpc) - Make RPC calls over a Kademlia based DHT.
 - [Ask HN: Why don't many video hosting companies adopt PeerTube or P2P? (2022)](https://news.ycombinator.com/item?id=30539791)
+- [Example for building a simple peer to peer application using Rust](https://github.com/zupzup/rust-peer-to-peer-example)

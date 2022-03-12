@@ -69,3 +69,4 @@
 - [Ask HN: How can I make a “kid's computer” today as good as an Apple II? (2022)](https://news.ycombinator.com/item?id=30186091)
 - [Why babies cry in the first three months, how to tell them apart, and what to do](https://probablydance.com/2022/02/19/reasons-why-babies-cry-in-the-first-three-months-how-to-tell-them-apart-and-what-to-do/) ([HN](https://news.ycombinator.com/item?id=30401882))
 - [Best programming language to teach kids](https://twitter.com/hardmaru/status/1497507948842598404)
+- [Tips for parenting and better sleep](https://twitter.com/nbashaw/status/1501702852720283651)

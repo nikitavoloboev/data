@@ -42,6 +42,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [You don’t get wealthy from “taking profit” every chance you get. You get wealthy by finding long term profitable companies that you buy in to and hold for years.](https://www.reddit.com/r/investing/comments/p0r3o4/time_to_take_aapl_gains_and_gtfo/)
 - [Wealthiest 10% of Americans own a record 89% of all U.S. stocks. Remember this next time a politician tries to point to the stock market as a sign of economic health.](https://twitter.com/JordanUhl/status/1454943968186097664)
 - [Always buy into a project and it’s fundamentals, ecosystem, growth potential. If the price goes up or down is irrelevant.](https://www.reddit.com/r/solana/comments/qlr599/how_you_decide_when_its_the_best_time_to_buy_sol/)
+- [Wall Street investing firms spend billions of dollars to decrease the latency between their computer systems by microseconds. The shorter the cables, the quicker they can make trades and squeeze money out of the market. That’s what you’re up against as an individual investor. You will not beat their teams of PhDs with state of the art equipment and algorithms. It’s best to buy the entire market and take your average returns.](https://www.reddit.com/r/Bogleheads/comments/tb2xc8/if_boglehead_philosophy_is_the_long_run_lazy/)
 
 ## Links
 

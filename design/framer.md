@@ -19,3 +19,4 @@
 - [Sidebar Nav Framer Demo](https://sidebar.framer.wiki/) ([Tweet](https://twitter.com/benjaminnathan/status/1494327633764491265))
 - [Fast & Easy Nested Parallax with Framer Sites (2022)](https://www.youtube.com/watch?v=pSeY-fdyT7U) ([Tweet](https://twitter.com/brian_lovin/status/1495900327152963585))
 - [Recreating my personal site with Framer Sites (2022)](https://www.youtube.com/watch?v=QwhbBYJBx8A)
+- [Everything about Framer Motion layout animations (2022)](https://blog.maximeheckel.com/posts/framer-motion-layout-animations/) ([Tweet](https://twitter.com/MaximeHeckel/status/1501230512014192640))

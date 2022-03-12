@@ -190,3 +190,5 @@
 - [Custom Svelte Store: Higher Order Store (2022)](https://www.youtube.com/watch?v=p1aPfVyZ1IY) ([Reddit](https://www.reddit.com/r/sveltejs/comments/sxm8m7/higherorder_store_borrowing_a_functional/))
 - [SvelteKit and the "Client pattern" (2022)](https://retro.cloud/sveltekit-and-the-client-pattern/)
 - [Building a real-time websocket app using SvelteKit (2022)](https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit)
+- [Design Patterns for Building Reusable Svelte Components (2022)](https://render.com/blog/svelte-design-patterns)
+- [Svelte parser for ESLint](https://github.com/ota-meshi/svelte-eslint-parser)

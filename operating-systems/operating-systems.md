@@ -4,6 +4,8 @@ I love using [macOS](../macOS/macOS.md) as my personal OS.
 
 And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
 
+[MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) course is great.
+
 ## Interesting OSes
 
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI))
@@ -323,7 +325,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [The World of Vintage Operating Systems](https://winworldpc.com/library/operating-systems) ([HN](https://news.ycombinator.com/item?id=29781325))
 - [MiniVM](https://github.com/FastVM/minivm) - Zero-dependency cross-language runtime on par with LuaJIT and C. ([HN](https://news.ycombinator.com/item?id=29850562))
 - [What goes into making an OS to be Unix compliant certified?](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified) ([Lobsters](https://lobste.rs/s/tilteq/what_goes_into_making_os_be_unix_compliant))
-- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([HN](https://news.ycombinator.com/item?id=30094376))
+- [MIT 6.S081 – Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2021/schedule.html) ([HN](https://news.ycombinator.com/item?id=30094376)) ([Code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall))
 - [FlexSC: Flexible System Call Scheduling with Exception-Less System Calls](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf) ([Summary](https://catern.com/flexsc.html)) ([Lobsters](https://lobste.rs/s/ihm1l7/summary_flexsc_paper))
 - [What is a Process? (Operating Systems)](https://sequentialread.com/what-is-a-process/)
 - [dyld](https://github.com/apple-oss-distributions/dyld) - Dynamic link editor. ([Tweet](https://twitter.com/davidecci/status/1490920286086070274))

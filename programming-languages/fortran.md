@@ -16,3 +16,4 @@
 - [Swapping fractal iterator functions on the fly in Fortran (2021)](https://www.jeffirwin.xyz/posts/2021-12-11-a.html)
 - [Fortran-lang: 2021 in review](https://fortran-lang.org/newsletter/2021/12/29/Fortran-lang-2021-in-review/)
 - [Flang](https://github.com/flang-compiler/flang) - Fortran language front-end designed for integration with LLVM.
+- [fortls](https://github.com/gnikit/fortls) - Fortran Language Server.

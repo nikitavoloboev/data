@@ -386,6 +386,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Quagga2](https://github.com/ericblade/quagga2) - Advanced barcode-scanner written in JavaScript and TypeScript.
 - [Freezeframe.js](https://github.com/ctrl-freaks/freezeframe.js) - Library that pauses animated .gifs and enables them to animate on mouse hover / mouse click / touch event, or triggered manually.
 - [Iti](https://github.com/molszanski/iti) - 1kB IoC container for Typescript/JavaScript with a focus on async flow.
+- [Optimal](https://github.com/milesj/optimal) - Build, validate, and transform values with immutable typed schemas.
 
 ## Links
 

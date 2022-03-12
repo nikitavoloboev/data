@@ -523,3 +523,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Fuel Network](https://fuel.network/) - Focused on sustainable blockchain scaling with optimistic rollups. ([GitHub](https://github.com/FuelLabs)) ([Fuel TypeScript SDK](https://github.com/FuelLabs/fuels-ts))
 - [semaphore-rs](https://github.com/worldcoin/semaphore-rs) - Rust support library for semaphore.
 - [Optimism Spec](https://github.com/ethereum-optimism/optimistic-specs) - Protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum.
+- [Lyra](https://www.lyra.finance/) - Open Protocol For Trading Options. ([Code](https://github.com/lyra-finance/lyra-protocol))
+- [Foundry Seminar](https://github.com/brockelmore/foundry_seminar)

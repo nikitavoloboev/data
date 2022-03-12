@@ -141,3 +141,4 @@
 - [Vue gradient picker component](https://insky.github.io/vue-gpickr/) ([Code](https://github.com/insky/vue-gpickr))
 - [Huemint](https://huemint.com/) - AI color palette generator. ([HN](https://news.ycombinator.com/item?id=30529262))
 - [Open Source Color System](https://www.opensourcecolorsystem.design/)
+- [60-30-10 Color Rule](https://www.youtube.com/watch?v=UWwNIMHFdW4)

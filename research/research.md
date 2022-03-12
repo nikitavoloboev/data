@@ -139,3 +139,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Who cares about plagiarism? (2022)](https://www.worksinprogress.co/issue/who-cares-about-plagiarism/) ([HN](https://news.ycombinator.com/item?id=30153759))
 - [We need to talk about RFCs (2022)](https://www.ncameron.org/blog/the-problem-with-rfcs/)
 - [The Hollywood Analogy — science better](https://www.scibetter.com/hollywood) ([Tweet](https://twitter.com/davidtlang/status/1494740604147822596))
+- [First Steps to Getting Started in Open Source Research (2021)](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/) ([Tweet](https://twitter.com/EliotHiggins/status/1502292286285168643))

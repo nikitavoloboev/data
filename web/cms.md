@@ -37,3 +37,4 @@
 - [Best CMS for NextJS (2021)](https://www.reddit.com/r/nextjs/comments/qnx4rd/guys_whats_the_best_cms_for_my_nextjs_app/)
 - [Bartholomew MicroCMS](https://github.com/fermyon/bartholomew) - Micro-CMS for WebAssembly and Wagi.
 - [Jetboost](https://www.jetboost.io/) - No-code search and filters for Webflow CMS. ([Twitter](https://twitter.com/Jetboostio))
+- [Statamic](https://statamic.com/) - Powerful, flat-file CMS built on Laravel.

@@ -106,3 +106,4 @@
 - [bruh](https://github.com/NinjaLikesCheez/bruh) - Tool to make LLVM IR more human readable.
 - [Summus](https://github.com/igor84/summus) - Simple compiler frontend using LLVM as backend. Can easily be used as a starting point for any kind of compiler.
 - [Taming Undefined Behavior in LLVM (2017)](https://www.cs.utah.edu/~regehr/papers/undef-pldi17.pdf)
+- [Fracture](https://github.com/draperlaboratory/fracture) - Architecture-independent decompiler to LLVM IR.

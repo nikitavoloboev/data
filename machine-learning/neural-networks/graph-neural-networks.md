@@ -96,3 +96,4 @@
 - [Graph Neural Networks: Foundations, Frontiers, and Applications (2022)](https://graph-neural-networks.github.io/)
 - [Representing Long-Range Context for Graph Neural Networks with Global Attention](https://github.com/ucbrise/graphtrans)
 - [CW Networks](https://github.com/twitter-research/cwn) - Message Passing Neural Networks for Simplicial and Cell Complexes.
+- [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/zhengchuanpan/GMAN)

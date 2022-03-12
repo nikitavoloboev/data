@@ -180,3 +180,4 @@
 - [Ask HN: Any recommendation for a good History of Science book? (2022)](https://news.ycombinator.com/item?id=30489142)
 - [What’s the deal with the Saudi Arabia/Yemen War?](https://www.reddit.com/r/OutOfTheLoop/comments/t6se76/whats_the_deal_with_the_saudi_arabiayemen_war/)
 - [Short History of Colonialism Since 1492 In One GIF](https://brilliantmaps.com/colonialism-history/)
+- [Restoring the Old Way of Warming: Heating People, not Places (2015)](https://www.lowtechmagazine.com/2015/02/heating-people-not-spaces.html)

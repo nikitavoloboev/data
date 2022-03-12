@@ -194,3 +194,4 @@
 - [React Native Week Month Date Picker](https://github.com/noona-hq/react-native-week-month-date-picker)
 - [React Native SQLite3](https://github.com/craftzdog/react-native-sqlite-2)
 - [React Native Interactive Walkthrough](https://github.com/tribefyhq/react-native-interactive-walkthrough)
+- [Deep dive into React Native JSI (2022)](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06)

@@ -523,4 +523,3 @@
 - [LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl) - Create and maintain local registries for Julia packages.
 - [jluna](https://github.com/Clemapfel/jluna) - Julia ⭤ C++ Wrapper with Focus on Modernity, Safety and Ease of Use.
 - [Julia Compiler Plugins](https://github.com/JuliaCompilerPlugins)
-

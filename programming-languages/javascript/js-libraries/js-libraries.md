@@ -829,6 +829,9 @@
 - [text-field-edit](https://github.com/fregante/text-field-edit) - Insert text in a <textarea> and <input> (including Undo in most browsers).
 - [Jump.js](https://github.com/callmecavs/jump.js) - Modern smooth scrolling library.
 - [ringbuf.js](https://github.com/padenot/ringbuf.js) - Wait-free thread-safe single-consumer single-producer ring buffer using SharedArrayBuffer.
+- [Env](https://github.com/humanwhocodes/env) - Utility for verifying that environment variables are present in Node.js and Deno.
+- [devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation.
+- [clb](https://github.com/crswll/clb) - Small, utility function that builds a class list based on a simple API.
 
 ## Links
 

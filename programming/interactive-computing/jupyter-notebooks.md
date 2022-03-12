@@ -36,6 +36,7 @@
 - [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook.
 - [itables](https://github.com/mwouts/itables) - Pandas DataFrames and Series as Interactive Tables in Jupyter.
 - [jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor) - JupyterLab extension providing, SQL formatter, auto-completion, syntax highlighting, Spark SQL and Trino.
+- [SQLite kernel for JupyterLite running in the browser](https://github.com/jupyterlite/xeus-sqlite-kernel)
 
 ## Links
 

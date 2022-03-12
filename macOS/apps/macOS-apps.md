@@ -133,6 +133,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro timer for macOS menu bar.
 - [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - macOS GUI for rsync.
 - [Licenses](https://github.com/LinkAndreas/Licenses) - Native macOS App built using Swift UI and Combine.
+- [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
 
 ## Other interesting apps
 
@@ -226,6 +227,6 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Where Mac Catalyst Falls Short (2022)](https://www.highcaffeinecontent.com/blog/20220216-Where-Mac-Catalyst-Falls-Short)
 - [Notarize](https://github.com/Mortennn/Notarize) - CLI to easily notarize a Mac app.
 - [Good open-source alternatives to essential paid Mac apps (2022)](https://www.reddit.com/r/MacOS/comments/t2olo5/good_opensource_alternatives_to_essential_paid/)
-- [Inspecting Web Views in macOS (2022)](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/)
+- [Inspecting Web Views in macOS (2022)](https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/) ([HN](https://news.ycombinator.com/item?id=30648424))
 - [Building a native macOS app using SwiftUI and Combine (2021)](https://www.linkandreas.de/#/articles/09_03_2021)
 - [What's the problem with old but excellent Mac apps? (2022)](https://christiantietze.de/posts/2022/03/half-assed-mac-apps/) ([HN](https://news.ycombinator.com/item?id=30552973))

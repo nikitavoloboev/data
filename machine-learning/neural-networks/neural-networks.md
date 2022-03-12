@@ -275,3 +275,5 @@
 - [Generative Flow Networks (2022)](https://yoshuabengio.org/2022/03/05/generative-flow-networks/)
 - [Feature Learning in Infinite-Width Neural Networks (2021)](https://arxiv.org/abs/2011.14522) ([Code](https://github.com/edwardjhu/TP4))
 - [µTransfer: A technique for hyperparameter tuning of enormous neural networks (2022)](https://www.microsoft.com/en-us/research/blog/%C2%B5transfer-a-technique-for-hyperparameter-tuning-of-enormous-neural-networks/)
+- [Restoring and attributing ancient texts using deep neural networks](https://github.com/deepmind/ithaca)
+- [Reproducing Yann LeCun 1989 paper "Backpropagation Applied to Handwritten Zip Code Recognition"](https://github.com/karpathy/lecun1989-repro)

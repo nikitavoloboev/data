@@ -6,7 +6,7 @@ Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-k
 
 I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi). If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. FTX staking is not bad too.
 
-Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too.
+Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) is my favorite DeFi platform.
 
 ## Apps
 
@@ -68,7 +68,7 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
 - [Solana Validators](https://www.validators.app/)
 - [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/)) ([Guide](https://docs.solana.com/developing/clients/javascript-api))
-- [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex))
+- [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex)) ([Metaplex Program Library](https://github.com/metaplex-foundation/metaplex-program-library))
 - [HAPI](https://solana.com/ecosystem/hapi) - Cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.
 - [First impressions of Rust programming on Solana (2021)](https://brson.github.io/2021/06/08/rust-on-solana)
 - [Is Solana the Ethereum Killer? w/ Anatoly Yakovenko (2021)](https://www.youtube.com/watch?v=qYH6J4sE7hs)
@@ -231,3 +231,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [How to Find the Solana NFT’s Someone Owns (2021)](https://lu.ma/p/hJyaa2S3ExuvmK8/How-to-Find-the-Solana-NFTs-Someone-Owns)
 - [In-EVM Solana "Light Client" State Verification](https://github.com/NilFoundation/evm-solana-verification)
 - [Solana Indexer](https://github.com/holaplex/solana-indexer) - Index Solana data using accountsdb.
+- [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([UI Code](https://github.com/raydium-io/raydium-ui)) ([SDK](https://github.com/raydium-io/raydium-sdk)) ([Tutorial](https://www.youtube.com/watch?v=OaTPDlG6J5E)) ([Beta](https://beta.raydium.io/))
+- [Solana Ping API](https://github.com/solana-labs/solana-ping-api)

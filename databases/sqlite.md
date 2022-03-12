@@ -162,3 +162,5 @@
 - [New JSON query operators in SQLite 3.38.0 (2022)](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html) ([HN](https://news.ycombinator.com/item?id=30486052))
 - [jx-sqlite](https://github.com/mozilla/jx-sqlite) - JSON query expressions using SQLite.
 - [SQLite compiled to WebAssembly and WASI](https://github.com/wapm-packages/sqlite)
+- [SQLite Online](https://sqliteonline.com/) ([HN](https://news.ycombinator.com/item?id=30631477))
+- [Ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query SQLite via HTTP. ([HN](https://news.ycombinator.com/item?id=30636796))

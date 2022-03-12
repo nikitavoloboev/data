@@ -5,7 +5,8 @@
 ## Interesting design systems
 
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))
-- [Mantine UI](https://ui.mantine.dev/) - Set of more than 120 responsive components built with Mantine. ([Code](https://github.com/mantinedev/ui.mantine.dev))
+- [Mantine UI](https://ui.mantine.dev/) - Set of more than 120 responsive components built with Mantine. ([Code](https://github.com/mantinedev/ui.mantine.dev)) ([Reddit](https://www.reddit.com/r/reactjs/comments/tauog2/mantine_40_is_out_120_hooks_and_components_with/))
+- [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix)) ([Radix Primitives Cheat Sheet](https://radix-primitives-cheatsheet.tone-row.com/#/Collapsible)) ([Primitives Cheat Sheet Code](https://github.com/tone-row/radix-primitives-cheatsheet))
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications. ([HN](https://news.ycombinator.com/item?id=23511811)) ([Docs](https://next.chakra-ui.com/docs/getting-started)) ([Web](https://next.chakra-ui.com/)) ([The road to Chakra 1.0 and all about Chakra UI](https://www.youtube.com/watch?v=eeODp2pdRdo)) ([Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui))
 - [Basis](https://basis.vercel.app/) ([Code](https://github.com/LatitudeFinancialOSS/basis))
 - [Styled system](https://styled-system.com/) - Style props for rapid UI development.
@@ -23,7 +24,6 @@
 - [Welcome UI](http://welcome-ui.com/)
 - [Ring UI](https://jetbrains.github.io/ring-ui/master/index.html?path=/story/ring-ui-welcome--getting-started) - JetBrains Web UI components. ([Code](https://github.com/JetBrains/ring-ui))
 - [Classy-UI](https://classy-ui.io/) - Atomic design system inspired by the wonderful Tailwindcss. ([Code](https://github.com/cerebral/classy-ui))
-- [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix))
 - [Radix UI](https://radix-ui.com/primitives/docs/overview/introduction) - Open-source UI component library for building high-quality, accessible design systems and web apps. ([Code](https://github.com/radix-ui/primitives)) ([Docs Code](https://github.com/radix-ui/website))
 - [Carbon](https://github.com/carbon-design-system/carbon) - Design system built by IBM. ([Web](https://www.carbondesignsystem.com/))
 - [React Zeit Design](https://github.com/zeit-ui/react)
@@ -91,6 +91,7 @@
 - [California Design System](https://designsystem.webstandards.ca.gov/)
 - [RevKit](https://rev.webkul.design/kit/) - Design System UI Kit. ([Solid Code](https://github.com/specialdoom/solid-rev-kit))
 - [Workday Canvas Kit](https://github.com/Workday/canvas-kit)
+- [AgnosticUI](https://www.agnosticui.com/) - UI primitives that start their lives in clean HTML and CSS. ([Code](https://github.com/AgnosticUI/agnosticui))
 
 ## Notes
 

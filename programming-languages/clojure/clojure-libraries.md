@@ -25,6 +25,7 @@
 - [Polylith](https://github.com/polyfy/polylith) - Tool used to develop Polylith based architectures in Clojure.
 - [navi](https://github.com/lispyclouds/navi) - Tiny library converting OpenAPI route definitions to Reitit routes.
 - [Nasus HTTP Server](https://github.com/kachayev/nasus) - Simple zero-configuration command-line HTTP files server.
+- [Girouette](https://github.com/green-coder/girouette) - Grammar-based, generative approach to CSS.
 
 ## DB
 

@@ -13,3 +13,4 @@
 - [Grafana HTTP API Client for Go](https://github.com/grafana/grafana-api-golang-client)
 - [grafana-sync](https://github.com/mpostument/grafana-sync) - Keep your Grafana dashboards in sync.
 - [Grafana SQLite Datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana backend plugin to allow using an SQLite database as a data source.
+- [Terrajet Grafana Provider](https://github.com/grafana/crossplane-provider-grafana) - Crossplane provider that is built using Terrajet code generation tools and exposes XRM-conformant managed resources for the Grafana API.
