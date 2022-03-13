@@ -1473,3 +1473,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gochecknoinits](https://github.com/leighmcculloch/gochecknoinits) - Check that no inits functions are present in Go code.
 - [Building Rich CLI Applications with Go's Built-in Templating (2022)](https://lakefs.io/building-rich-cli-applications-with-gos-built-in-templating//#) ([Reddit](https://www.reddit.com/r/golang/comments/ta313j/building_rich_cli_applications_with_gos_builtin/))
 - [How to write documentation for a private Go project? (2022)](https://www.reddit.com/r/golang/comments/tcbi6s/general_question_how_to_write_documentation_for_a/)
+- [Log Analysis with netgo (2022)](https://convey.earth/conversation?id=51)

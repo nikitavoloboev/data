@@ -1,5 +1,7 @@
 # Algorithms
 
+[Algorithm Wiki](https://thimbleby.gitlab.io/algorithm-wiki-site/) is useful.
+
 ## Interesting algorithms
 
 - [PageRank](http://en.wikipedia.org/wiki/PageRank) - [How it works?](http://qr.ae/TUpCVB)
@@ -102,6 +104,7 @@
 - [Breadth First Search in Rust (2022)](https://www.sotr.blog/articles/breadth-first-search)
 - [Damn Cool Algorithms: Levenshtein Automata (2010)](http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata) ([HN](https://news.ycombinator.com/item?id=30566119))
 - [Binary search with confidence](https://blog.tylerhou.io/posts/binary-search-with-confidence/) ([HN](https://news.ycombinator.com/item?id=30582168))
+- [Algorithm Wiki | Interactive algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/)
 
 ## Images
 

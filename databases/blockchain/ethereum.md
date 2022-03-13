@@ -530,3 +530,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Simplified ERC721 Dutch Auction for StarkNet](https://github.com/sambarnes/cairo-dutch)
 - [Starknet Node](https://github.com/odyslam/starknet-node) - Easiest way to deploy a Starknet Node on a Raspberry Pi and begin verifying L2 state transitions, directly from your Raspberry Pi.
 - [ERC721A](https://www.erc721a.org/) - Improved implementation of the IERC721 standard that supports minting multiple tokens for close to the cost of one. ([Code](https://github.com/chiru-labs/ERC721A))
+- [Solidity playground to learn all the basic ERCs, defi apps, NFT implementations and gas optimizations](https://github.com/dsam82/ps)

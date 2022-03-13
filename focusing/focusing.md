@@ -109,3 +109,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Structured Procrastination (1995)](http://www.structuredprocrastination.com/) ([HN](https://news.ycombinator.com/item?id=30292440))
 - [Ask HN: Have OCD, suffering from extreme procrastination, please help? (2022)](https://news.ycombinator.com/item?id=30313215)
 - [Ask HN: Any scientifically proven techniques to boost concentration? (2022)](https://news.ycombinator.com/item?id=30473322)
+- [How to Do Less (2022)](https://alexturek.com/2022-03-07-How-to-do-less/) ([HN](https://news.ycombinator.com/item?id=30642596))

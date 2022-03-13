@@ -95,3 +95,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Twenty photographs of the week (2022)](https://www.theguardian.com/artanddesign/gallery/2022/mar/11/twenty-photographs-of-the-week)
 - [Николаев. 18+ Наш специальный корреспондент Елена Костюченко — о том, что видела лично (2022)](https://novayagazeta.ru/articles/2022/03/12/nikolaev)
 - [Thread on Donbass, 2014](https://twitter.com/NinaByzantina/status/1496640134606819328)
+- [What the Russian Invasion Has Done to Ukraine (2022)](https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine)
+- [Under Fire from Ukraine: Everyday life in the Donetsk People's Republic (2019)](https://www.mintpressnews.com/under-fire-from-ukraine-everyday-life-in-the-donetsk-peoples-republic/262363/)

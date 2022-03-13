@@ -32,3 +32,4 @@
 - [Firefox Profilemaker](https://ffprofile.com/) - Create a Firefox profile with the defaults you like. ([HN](https://news.ycombinator.com/item?id=29604754))
 - [Ask HN: Why is Firefox losing marketshare and how would you save it? (2022)](https://news.ycombinator.com/item?id=30335455)
 - [Tab Keywords in Firefox (2020)](https://www.jantrid.net/2020/06/03/tab-keywords-in-firefox/)
+- [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/) ([HN](https://news.ycombinator.com/item?id=30663266))

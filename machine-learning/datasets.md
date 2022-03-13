@@ -152,3 +152,4 @@
 - [Kubric](https://github.com/google-research/kubric) - Data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [ASPset-510](https://github.com/anibali/aspset-510) - Large-scale video dataset for the training and evaluation of 3D human pose estimation models.
 - [Self-Distilled Internet Photos (SDIP) Dataset](https://github.com/self-distilled-stylegan/self-distilled-internet-photos)
+- [Fake News Corpus](https://github.com/several27/FakeNewsCorpus)

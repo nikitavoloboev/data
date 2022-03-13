@@ -77,6 +77,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Each relationship has their own dynamics. As long as both you are happy with whatever you mutually agree, it is none of anyone’s business what you decide.](https://www.reddit.com/r/sex/comments/t4rjj6/i_let_my_fianc%C3%A9_sleep_with_another_man/)
 - [The backwards thing about “networking” in your early years is that it feels like you should connect w/ high profile, successful people. In reality, those people are so checked out & won’t be able to do anything for you. Instead, spend your time talking to new, undiscovered folks.](https://twitter.com/nikitabier/status/1501578192355692544)
 - [If it doesn’t feel right, you don’t need an excuse to leave. You don’t need explanations etc.](https://www.reddit.com/r/NarcissisticAbuse/comments/tatur5/strongest_boundary_created_since_your_nex/)
+- [First date is for putting your best foot forward. The second date is where you reveal any potential deal breakers.](https://www.reddit.com/r/datingoverthirty/comments/tda8js/how_to_address_stis/)
 
 ## Links
 

@@ -199,3 +199,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: What concepts have you never truly understood? (2022)](https://news.ycombinator.com/item?id=30582221)
 - [Complex matters in simple doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 - [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/) ([HN](https://news.ycombinator.com/item?id=30651720))
+- [Celebrate tiny learning milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/)

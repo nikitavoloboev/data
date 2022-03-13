@@ -353,3 +353,4 @@
 - [Google API Design Guide](https://cloud.google.com/apis/design)
 - [How to Design Better APIs (2022)](https://r.bluethl.net/how-to-design-better-apis) ([HN](https://news.ycombinator.com/item?id=30647784))
 - [Postman to k6](https://github.com/apideck-libraries/postman-to-k6) - Converts Postman collections to k6 script code.
+- [What caused the Uber Eats glitch that allowed ordering free food for a weekend in India](https://twitter.com/GergelyOrosz/status/1502947315279187979)

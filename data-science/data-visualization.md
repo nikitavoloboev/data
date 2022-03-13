@@ -139,3 +139,4 @@
 - [Lumen](https://github.com/holoviz/lumen) - Framework for visual analytics, which allows users to build data-driven dashboards from a simple yaml specification.
 - [Datawrapper](https://www.datawrapper.de/) - Create charts, maps, and tables. ([HN](https://news.ycombinator.com/item?id=30218793))
 - [VizHub](https://vizhub.com/) - Platform for interactive graphics. ([Code](https://github.com/vizhub-core/vizhub))
+- [Hal9](https://hal9.com/) - Bring Your Data to Life. ([Code](https://github.com/hal9ai/hal9ai))

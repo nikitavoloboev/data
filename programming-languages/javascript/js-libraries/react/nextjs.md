@@ -328,3 +328,4 @@
 - [Putting test files in the pages folder in a Next.js app (2022)](https://www.benmvp.com/blog/putting-test-files-pages-folder-nextjs-app/) ([Tweet](https://twitter.com/sebastienlorber/status/1496170766043385859))
 - [next-graphql-server](https://github.com/zaiste/next-graphql-server) - Library for building production-grade GraphQL servers using Next.js with API Routes.
 - [Keystone Next Auth](https://github.com/OpenSaasAU/keystone-nextjs-auth)
+- [How to create a link preview with Next.js, Prisma and TailwindCSS (2022)](https://hashnode.com/post/how-to-create-a-link-preview-with-nextjs-prisma-and-tailwindcss-cl0phma0006fx2onvhgsbebry)

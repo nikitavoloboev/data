@@ -11,6 +11,7 @@
 - [Kevin Pennekamp](https://crinkles.io/) ([Code](https://github.com/crinklesio/crinkles.io))
 - [Speedskating](https://github.com/spiegelgraphics/speedskating) - Olympia speedskating animation.
 - [Todo With Svelte](https://github.com/appwrite/demo-todo-with-svelte) - Demo example for integrating between Appwrite & Svelte.
+- [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit.
 
 ## Notes
 

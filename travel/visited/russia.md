@@ -495,3 +495,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Россия. Чёрный август. 1998 год. Как это было](https://www.youtube.com/watch?v=xZuWBAWqT7c)
 - [Possible Outcomes of the Russo-Ukrainian War and China's Choice (2022)](https://uscnpm.org/2022/03/12/hu-wei-russia-ukraine-war-china-choice/) ([Tweet](https://twitter.com/ramez/status/1502895847301812224))
 - [Russia’s looming debt default What the 2022 financial crisis will mean for the country and its people](https://meduza.io/en/cards/russia-s-looming-debt-default) ([Tweet](https://twitter.com/KevinRothrock/status/1502987480827637764))
+- [A Scholar of Stalin Discusses Putin, Russia, Ukraine, and the West (2022)](https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin) ([Tweet](https://twitter.com/sbg1/status/1502622543533981696))
+- [Why Russian army is so weak? (2022)](https://twitter.com/kamilkazani/status/1502673952572854278)
+- [Два слова - и ты в автозаке: сколько нужно секунд, чтобы тебя задержали на Манежной площади](https://twitter.com/Activatica/status/1503003002055057416)
+- [How to defeat Putin?](https://twitter.com/kamilkazani/status/1503053699798769666)

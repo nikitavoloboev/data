@@ -106,3 +106,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [If Airbnb could launch anything in 2022, what would it be?](https://twitter.com/bchesky/status/1477764672640073728)
 - [Ask HN: Does the world need a “passport equality” movement? (2022)](https://news.ycombinator.com/item?id=30243302)
 - [Luke Hefson's travel links](https://github.com/lukehefson/travel)
+- [What is the best city to live in for people in their early-to-mid 20s?](https://twitter.com/kylascan/status/1503056412901101579)

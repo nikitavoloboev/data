@@ -375,3 +375,4 @@
 - [How to use undocumented web APIs (2022)](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
 - [Webhooked](https://github.com/42Atomys/webhooked) - Web hook receiver on steroids.
 - [Functional Web App (FWA)](https://fwa.dev/)
+- [Rendering Patterns](https://www.patterns.dev/posts/rendering-patterns/)
