@@ -1401,6 +1401,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [hcledit](https://github.com/mercari/hcledit) - Go package to edit HCL configuration.
 - [SSE](https://github.com/r3labs/sse) - Server Sent Events Client/Server Library for Go.
 - [GoFrame](https://github.com/gogf/gf) - Modular, powerful, high-performance and enterprise-class application development framework of Go.
+- [jsonrpc2](https://github.com/sourcegraph/jsonrpc2) - JSON-RPC 2.0 implementation for Go.
 
 ## Links
 
