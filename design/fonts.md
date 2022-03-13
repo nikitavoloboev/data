@@ -332,3 +332,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Exploring OpenType Font Features (2022)](https://blog.lambda.cx/posts/opentype-font-exploration/)
 - [A Smart Blackletter Font: 7 Questions for Gerrit Ansmann (2016)](https://typography.guru/journal/a-smart-blackletter-font-7-questions-for-gerrit-ansmann-r69/)
 - [Typography.Guru](https://typography.guru/)
+- [subfont](https://github.com/Munter/subfont) - Command line tool to optimize your webfont loading. Aggressive subsetting based on your font use, self-hosting of Google fonts and preloading.

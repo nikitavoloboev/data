@@ -615,3 +615,4 @@
 - [hloc](https://github.com/cvg/Hierarchical-Localization) - Modular toolbox for state-of-the-art 6-DoF visual localization.
 - [All Tokens Matter: Token Labeling for Training Better Vision Transformers (2021)](https://arxiv.org/abs/2104.10858) ([Code](https://github.com/zihangJiang/TokenLabeling))
 - [Deformable ConvNets v2: More Deformable, Better Results (2018)](https://arxiv.org/abs/1811.11168) ([Code](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch))
+- [Restormer: Efficient Transformer for High-Resolution Image Restoration (2021)](https://arxiv.org/abs/2111.09881) ([Code](https://github.com/swz30/Restormer))
