@@ -34,3 +34,4 @@
 - [Incoggo](https://joinincoggo.com/) - Ad blocker for Paywalls.
 - [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html) ([HN](https://news.ycombinator.com/item?id=30411049))
 - [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters.
+- [Cloudblock](https://github.com/chadgeary/cloudblock) - End-to-end DNS encryption with DNS-based ad-blocking, built in the cloud automatically using Terraform with Ansible.

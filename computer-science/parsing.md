@@ -92,3 +92,4 @@
 - [Tree-sitter ｜ Code Navigation Systems](https://tree-sitter.github.io/tree-sitter/code-navigation-systems) ([Tweet](https://twitter.com/importantshock/status/1496857243043704833))
 - [Parsing Bitstreams with Rust and Nom (2022)](https://blog.adamchalmers.com/nom-bits/) ([HN](https://news.ycombinator.com/item?id=30528609))
 - [Parsing Text with Nom (2022)](https://blog.adamchalmers.com/nom-chars/)
+- [How to write a tree-sitter grammar in an afternoon (2022)](https://siraben.dev/2022/03/01/tree-sitter.html)

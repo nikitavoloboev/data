@@ -204,3 +204,4 @@
 - [Supabase Auth Helpers](https://github.com/supabase-community/supabase-auth-helpers)
 - [You probably don't need OAuth2 / OpenID Connect (2022)](https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/) ([HN](https://news.ycombinator.com/item?id=30514560))
 - [Why Single Sign on Sucks (2022)](https://goteleport.com/blog/why-sso-sucks/) ([HN](https://news.ycombinator.com/item?id=30646081))
+- [Online JWT tool](https://dinochiesa.github.io/jwt/) - JWT Decoder, Verifier, Generator, Decryptor. ([Code](https://github.com/DinoChiesa/jwt-webtool))

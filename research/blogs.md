@@ -107,6 +107,8 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Alex Klibisz](https://alexklibisz.com/posts/)
 - [Ian Henry](https://ianthehenry.com/)
 - [Ludwig Stecher](https://aloso.github.io/)
+- [Ben Siraphob](https://siraben.dev/)
+- [Aaron Hertzmann](https://aaronhertzmann.com/)
 
 ## Notes
 

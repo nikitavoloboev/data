@@ -493,3 +493,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Putin's People: How the KGB Took Back Russia and Then Took On the West by Catherine Belton (2020)](https://www.goodreads.com/book/show/23848139-putin-s-people) ([HN](https://news.ycombinator.com/item?id=30646683))
 - [Putin is fighting 4 wars: in Ukraine, against own public, political battle with own elite and geo-economic war on Russia's allies](https://twitter.com/samagreene/status/1502323917234524161)
 - [Россия. Чёрный август. 1998 год. Как это было](https://www.youtube.com/watch?v=xZuWBAWqT7c)
+- [Possible Outcomes of the Russo-Ukrainian War and China's Choice (2022)](https://uscnpm.org/2022/03/12/hu-wei-russia-ukraine-war-china-choice/) ([Tweet](https://twitter.com/ramez/status/1502895847301812224))
+- [Russia’s looming debt default What the 2022 financial crisis will mean for the country and its people](https://meduza.io/en/cards/russia-s-looming-debt-default) ([Tweet](https://twitter.com/KevinRothrock/status/1502987480827637764))

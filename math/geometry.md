@@ -57,7 +57,7 @@
 - [Executable version of Functional Differential Geometry](https://github.com/sicmutils/fdg-book)
 - [scikit-geometry](https://github.com/scikit-geometry/scikit-geometry) - Scientific Python Geometric Algorithms Library.
 - [RBush](https://github.com/mourner/rbush) - High-performance JavaScript R-tree-based 2D spatial index for points and rectangles.
-- [S2 Geometry Library](https://github.com/google/s2geometry) - C++ package for manipulating geometric shapes.
+- [S2 Geometry Library](https://github.com/google/s2geometry) - C++ package for manipulating geometric shapes. ([HN](https://news.ycombinator.com/item?id=30661478))
 - [Trimesh](https://github.com/mikedh/trimesh) - Python library for loading and using triangular meshes.
 - [Geometric.js](https://github.com/HarryStevens/geometric) - JavaScript library for doing geometry.
 - [Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library) - C++ open-source library for processing and visualizing polygon surface meshes.

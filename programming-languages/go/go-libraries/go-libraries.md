@@ -1406,6 +1406,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoFrame](https://github.com/gogf/gf) - Modular, powerful, high-performance and enterprise-class application development framework of Go.
 - [jsonrpc2](https://github.com/sourcegraph/jsonrpc2) - JSON-RPC 2.0 implementation for Go.
 - [Pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go.
+- [jsonenums](https://github.com/campoy/jsonenums) - Tool to automate the creation of methods that satisfy the json.Marshaler and json.Unmarshaler interfaces.
 
 ## Links
 

@@ -134,6 +134,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - macOS GUI for rsync.
 - [Licenses](https://github.com/LinkAndreas/Licenses) - Native macOS App built using Swift UI and Combine.
 - [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
 
 ## Other interesting apps
 

@@ -390,6 +390,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [collectable](https://github.com/frptools/collectable) - High-performance, persistent, immutable, functional data structures.
 - [Guards](https://github.com/sniptt-official/guards) - Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir.
 - [striff](https://github.com/alexmacarthur/striff) - Real simple string diffing.
+- [io-ts-strings](https://github.com/jessekelly881/io-ts-strings) - String types for io-ts.
 
 ## Links
 

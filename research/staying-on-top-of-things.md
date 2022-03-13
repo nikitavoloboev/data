@@ -176,6 +176,7 @@ And these Discord servers:
 - [The Calvert Journal](https://www.calvertjournal.com/) - A guide to the New East.
 - [C41 Magazine](https://www.c41magazine.com/)
 - [The War Zone](https://www.thedrive.com/the-war-zone)
+- [U.S.-China Perception Monitor](https://uscnpm.org/)
 
 ### Other
 
