@@ -255,6 +255,7 @@
 - [Liquid Fixpoint](https://github.com/ucsd-progsys/liquid-fixpoint) - Horn Clause Constraint Solving for Liquid Types.
 - [time](https://github.com/haskell/time) - Haskell time library.
 - [unix](https://github.com/haskell/unix) - POSIX functionality.
+- [Functional Graph Library](https://github.com/haskell/fgl)
 
 ## Notes
 

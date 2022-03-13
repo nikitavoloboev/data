@@ -655,3 +655,4 @@
 - [KoolKits](https://github.com/lightrun-platform/koolkits) - Opinionated, language-specific, batteries-included debug container images for Kubernetes.
 - [kubediff](https://github.com/arriqaaq/kubediff) - Kubernetes resource diff watcher, with the ability to send event notifications.
 - [The Future of Kubernetes (2022)](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022) ([HN](https://news.ycombinator.com/item?id=30660534))
+- [Certified Kubernetes Administrator Preparation Guide](https://github.com/leandrocostam/cka-preparation-guide)

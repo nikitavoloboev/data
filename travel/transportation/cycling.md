@@ -30,3 +30,4 @@
 - [Bicycle Recommendations (2021)](https://www.lincolnquirk.com/2021/04/10/bikes.html) ([HN](https://news.ycombinator.com/item?id=30438281))
 - [I Designed and Built an eBike (2022)](https://endless-sphere.com/forums/viewtopic.php?f=6&t=115176&p=1703136#p1703136) ([HN](https://news.ycombinator.com/item?id=30446960))
 - [How to Build a Bike Generator with Control Panel (2022)](https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html)
+- [11 rules for buying an ebike, and the 11 ebikes to buy now (2021)](https://ryanj.substack.com/p/ebikes?s=r)
