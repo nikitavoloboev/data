@@ -4,6 +4,7 @@
 
 - [Zig compiler pipeline is: tokenize -> parse -> astgen -> sema -> codegen](https://twitter.com/andy_kelley/status/1388268643075563520)
 - [Automatic error unions, required error handling, errdefer, and the try keyword really give Zig my favorite error handling feel of any language.](https://lobste.rs/s/xbncik/rust_first_thoughts)
+- [Types are values in zig, this means that to create generic functions you pass the type as an argument and change the function logic based on that. This is also possible thanks to another feature, running code at compile time with comptime.](https://twitter.com/MichalZiulek/status/1502983958233034753)
 
 ## Links
 
