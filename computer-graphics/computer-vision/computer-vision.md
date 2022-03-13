@@ -611,3 +611,4 @@
 - [Transformers, originally designed to handle language, are taking on vision (2022)](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/) ([HN](https://news.ycombinator.com/item?id=30629214))
 - [Fast Image Processing with Fully-Convolutional Networks (2017)](https://arxiv.org/abs/1709.00643) ([Code](https://github.com/nrupatunga/Fast-Image-Filters))
 - [Efficient Attention: Attention with Linear Complexities (2020)](https://arxiv.org/abs/1812.01243) ([Code](https://github.com/cmsflash/efficient-attention))
+- [Label-Efficient Semantic Segmentation with Diffusion Models (2022)](https://yandex-research.github.io/ddpm-segmentation/) ([Code](https://github.com/yandex-research/ddpm-segmentation))

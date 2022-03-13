@@ -290,6 +290,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-hit](https://github.com/Eun/go-hit) - HTTP integration test framework.
 - [srtgo](https://github.com/Haivision/srtgo) - Go bindings for SRT (Secure Reliable Transport), the open source transport technology that optimizes streaming performance across unpredictable networks.
 - [iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library.
+- [ratelimit](https://github.com/uber-go/ratelimit) - Go blocking leaky-bucket rate limit implementation.
 
 ## GraphQL
 
@@ -1402,6 +1403,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [SSE](https://github.com/r3labs/sse) - Server Sent Events Client/Server Library for Go.
 - [GoFrame](https://github.com/gogf/gf) - Modular, powerful, high-performance and enterprise-class application development framework of Go.
 - [jsonrpc2](https://github.com/sourcegraph/jsonrpc2) - JSON-RPC 2.0 implementation for Go.
+- [Pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go.
 
 ## Links
 

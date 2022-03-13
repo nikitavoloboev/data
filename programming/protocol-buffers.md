@@ -49,3 +49,5 @@
 - [Protocol Buffers for Node.js](https://github.com/mafintosh/protocol-buffers)
 - [Protobuf parser for Go](https://github.com/alecthomas/protoparser)
 - [upb](https://github.com/protocolbuffers/upb) - Small protobuf implementation written in C.
+- [JSON-to-Proto: Convert JSON to Protobuf instantly](https://json-to-proto.github.io/) ([Code](https://github.com/json-to-proto/json-to-proto.github.io))
+- [go-protoparser](https://github.com/yoheimuta/go-protoparser) - Go package which parses a Protocol Buffer file.

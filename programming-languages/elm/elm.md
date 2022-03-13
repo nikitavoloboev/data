@@ -89,3 +89,4 @@
 - [Elm vs HyperScript - A Wordle implemetation](https://dev.to/lucamug/elm-vs-hyperscript-2m3m)
 - [elm-review-bot](https://github.com/MartinSStewart/elm-review-bot) - Bot that uses elm-review to find common mistakes in packages.
 - [Tail recursion, but modulo cons (2022)](https://jfmengels.net/modulo-cons/)
+- [elm-watch](https://github.com/lydell/elm-watch) - Recompiles whenever your Elm files change and reloads the compiled JS in the browser.

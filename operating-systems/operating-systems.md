@@ -150,6 +150,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [ValkyrieOS](https://github.com/aesophor/valkyrie) - UNIX-like hobby kernel built from scratch in C++20.
 - [etheryal Kernel](https://github.com/etheryalOS/etheryal-kernel) - Open Source Rust kernel; Runs WASM and WASI as lightweight containers.
 - [Stardust Oxide](https://github.com/StardustOS/stardust-oxide) - Rust-based Unikernel. ([Reddit](https://www.reddit.com/r/rust/comments/ta85iy/stardust_oxide_i_wrote_a_unikernel_in_rust_for_my/))
+- [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
 
 ## Notes
 

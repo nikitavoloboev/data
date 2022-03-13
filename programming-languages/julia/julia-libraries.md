@@ -498,6 +498,7 @@
 - [MPIClusterManagers.jl](https://github.com/JuliaParallel/MPIClusterManagers.jl) - Julia parallel constructs over MPI.
 - [Stonks.jl](https://github.com/alinski29/Stonks.jl) - Julia library for standardizing financial data retrieval and storage from multiple APIs.
 - [PyPlot](https://github.com/JuliaPy/PyPlot.jl) - Plotting for Julia based on matplotlib.pyplot.
+- [FillArrays.jl](https://github.com/JuliaArrays/FillArrays.jl) - Julia package for lazily representing matrices filled with a single entry.
 
 ## Links
 
@@ -521,5 +522,5 @@
 - [General](https://github.com/JuliaRegistries/General) - Official registry of general Julia packages.
 - [Julia frameworks to create desktop GUIs and web apps (2022)](https://logankilpatrick.medium.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115) ([HN](https://news.ycombinator.com/item?id=29813194))
 - [LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl) - Create and maintain local registries for Julia packages.
-- [jluna](https://github.com/Clemapfel/jluna) - Julia ⭤ C++ Wrapper with Focus on Modernity, Safety and Ease of Use.
+- [jluna](https://github.com/Clemapfel/jluna) - Julia ⭤ C++ Wrapper with Focus on Modernity, Safety and Ease of Use. ([Reddit](https://www.reddit.com/r/cpp/comments/tcvi0s/jluna_a_new_julia_c_wrapper/))
 - [Julia Compiler Plugins](https://github.com/JuliaCompilerPlugins)

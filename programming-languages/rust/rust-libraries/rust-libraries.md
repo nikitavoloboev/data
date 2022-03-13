@@ -1572,6 +1572,7 @@
 - [qoi-rust](https://github.com/aldanor/qoi-rust) - Very fast encoder/decoder for QOI image format in pure and safe Rust.
 - [Atomig](https://github.com/LukasKalbertodt/atomig) - Generic and convenient std atomics.
 - [kay](https://github.com/aeplay/kay) - High-performance actor system framework for Rust.
+- [podman-api](https://github.com/vv9k/podman-api-rs) - Rust interface to Podman.
 
 ## Cargo Plugins
 

@@ -90,3 +90,4 @@
 - [Tool for messing around with Apple GPU assembly](https://github.com/tellowkrinkle/mtl-gpu-asmcheck)
 - [Introduction to GPUs with OpenGL (2022)](https://engineering.monstar-lab.com/en/post/2022/03/01/Introduction-To-GPUs-With-OpenGL/) ([HN](https://news.ycombinator.com/item?id=30583905))
 - [Rasterization in One Weekend (2018)](https://tayfunkayhan.wordpress.com/2018/11/24/rasterization-in-one-weekend-part-i/)
+- [Encase](https://github.com/teoxoy/encase) - Provides a mechanism to lay out data into GPU buffers according to WGSL's memory layout rules.

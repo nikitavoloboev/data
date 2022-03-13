@@ -71,6 +71,7 @@
 - [discord.v](https://github.com/Terisback/discord.v) - Discord Bot Framework written in V.
 - [Discord++](https://github.com/DiscordPP/discordpp) - Modularized C++ Library for the Discord API. ([Template](https://github.com/DiscordPP/plugin-endpoints))
 - [Discord.js bot template with TypeScript, ESLint and Prettier](https://github.com/Dev-CasperTheGhost/discord-bot-template)
+- [Concord](https://github.com/Cogmasters/concord) - C library for handling the Discord API. ([Reddit](https://www.reddit.com/r/programming/comments/tcjosy/ever_wanted_to_write_discord_bots_in_c_probably/))
 
 ## Notes
 

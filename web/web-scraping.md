@@ -161,3 +161,5 @@
 - [scraperlite](https://github.com/danp/scraperlite) - Scrape text and HTML based on CSS selectors and save contents to a SQLite database.
 - [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based crawler in a single Docker container.
 - [pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata.
+- [So you want to Scrape like the Big Boys? (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
+- [Dude](https://github.com/roniemartinez/dude) - Simple framework for writing a web scraper using Python decorators.

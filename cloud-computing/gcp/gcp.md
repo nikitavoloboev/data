@@ -72,3 +72,4 @@
 - [Terraform Provider for Google Cloud Platform](https://github.com/hashicorp/terraform-provider-google-beta)
 - [Google Rust APIs](https://github.com/Byron/google-apis-rs) - Binding and CLI generator for all Google APIs.
 - [Google APIs Client Library for Go](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
+- [gcloudx](https://github.com/emicklei/gcloudx) - Extra features for accessing the Google Cloud Platform.
