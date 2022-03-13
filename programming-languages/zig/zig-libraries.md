@@ -35,6 +35,7 @@
 - [tvg](https://github.com/MasterQ32/tvg) - Tiny Vector Graphics.
 - [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin wrapper for the cairo 2D graphics library.
 - [ZGL](https://github.com/ziglibs/zgl) - Zig OpenGL Bindings.
+- [brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platform games, simulations, engines and editors.
 
 ## WASM
 
@@ -47,6 +48,10 @@
 ## Linux
 
 - [AsyncIOUring](https://github.com/saltzm/async_io_uring) - Event loop in Zig using io_uring and coroutines.
+
+## Embedded
+
+- [regz](https://github.com/ZigEmbeddedGroup/regz) - Zig code generator for microcontrollers.
 
 ## Other
 
@@ -102,3 +107,4 @@
 - [Aquila](https://github.com/nektro/aquila) - Federated package index and CI system for Zig. ([Web](https://aquila.red/))
 - [Deps.zig](https://github.com/silversquirl/deps.zig) - Dependency manager for Zig.
 - [Zig Package Repository](https://github.com/ziglibs/repository) - Community-maintained repository of zig packages.
+- [zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.

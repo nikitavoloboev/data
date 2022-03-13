@@ -153,3 +153,4 @@
 - [Mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data).
 - [GeoParquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
 - [CGC: Clustering Geo-Data Cubes](https://github.com/phenology/cgc) - Clustering tool for geospatial applications.
+- [Mercantile](https://github.com/mapbox/mercantile) - Spherical mercator coordinate and tile utilities.

@@ -148,3 +148,5 @@
 - [Piccolo](https://github.com/bluespec/Piccolo) - RISC-V CPU, simple 3-stage pipeline, for low-end applications (e.g., embedded, IoT).
 - [RISC-V-Computer built in Logisim capable of running C/C++ programs](https://github.com/Mazin21/RISC-V-Computer)
 - [RISC-V Formal Verification Framework](https://github.com/YosysHQ/riscv-formal)
+- [Qor](https://github.com/CarterTS/Qor) - Simple kernel written in Rust for RISC-V.
+- [SRV32](https://github.com/kuopinghsu/srv32) - Simple 3-stage pipeline RISC-V processor.

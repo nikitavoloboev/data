@@ -195,3 +195,4 @@
 - [React Native SQLite3](https://github.com/craftzdog/react-native-sqlite-2)
 - [React Native Interactive Walkthrough](https://github.com/tribefyhq/react-native-interactive-walkthrough)
 - [Deep dive into React Native JSI (2022)](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06)
+- [React Native Toast Message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native.

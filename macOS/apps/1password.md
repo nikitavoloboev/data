@@ -32,3 +32,5 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Ask HN: Why should I trust password managers? (2022)](https://news.ycombinator.com/item?id=30374896)
 - [Save your Phantom wallet details in 1Password (2022)](https://blog.1password.com/phantom-crypto-wallet-1password/) ([HN](https://news.ycombinator.com/item?id=30442425))
 - [1Password OTP](https://github.com/skaji/1password-otp) - Simple tool that generates all One-Time Password (OTP) from 1Password Interchange Format (.1pif).
+- [Ask HN: Alternatives to 1Password (2022)](https://news.ycombinator.com/item?id=30658936)
+- [Securely Yours, Love Password Managers (2021)](https://cyberlit.co/blog/securely-yours-love-password-managers) ([HN](https://news.ycombinator.com/item?id=30635676))

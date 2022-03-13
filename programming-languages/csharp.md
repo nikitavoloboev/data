@@ -17,3 +17,4 @@
 - [How the .NET Foundation kerfuffle became a brouhaha (2021)](https://robmensching.com/blog/posts/2021/10/6/how-the-.net-foundation-kerfuffle-became-a-brouhaha/) ([HN](https://news.ycombinator.com/item?id=28794352))
 - [.NET 6 Released (2021)](https://devblogs.microsoft.com/dotnet/announcing-net-6/) ([HN](https://news.ycombinator.com/item?id=29150982))
 - [Making life easier for newcomers to the .NET ecosystem (2021)](https://liamsymonds.com/we-need-to-have-a-talk-about-making-life-easier-for-newcomers-to-the-net-ecosystem/) ([HN](https://news.ycombinator.com/item?id=29225776))
+- [.NET Myths Dispelled (2022)](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27) ([HN](https://news.ycombinator.com/item?id=30654114))

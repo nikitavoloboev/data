@@ -653,3 +653,5 @@
 - [Robusta](https://home.robusta.dev/) - Kubernetes Troubleshooting and Automation Platform. ([Code](https://github.com/robusta-dev/robusta))
 - [Terrajet Template Provider](https://github.com/crossplane-contrib/provider-jet-template) - Crossplane provider that is built using Terrajet code generation tools and exposes XRM-conformant managed resources for the Template API.
 - [KoolKits](https://github.com/lightrun-platform/koolkits) - Opinionated, language-specific, batteries-included debug container images for Kubernetes.
+- [kubediff](https://github.com/arriqaaq/kubediff) - Kubernetes resource diff watcher, with the ability to send event notifications.
+- [The Future of Kubernetes (2022)](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022) ([HN](https://news.ycombinator.com/item?id=30660534))

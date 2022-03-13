@@ -441,6 +441,7 @@
 - [SwiftUI WrappingStack](https://github.com/diniska/swiftui-wrapping-stack) - SwiftUI Views for wrapping HStack elements into multiple lines.
 - [SymbolPicker](https://github.com/xnth97/SymbolPicker) - Simple and cross-platform SFSymbol picker for SwiftUI.
 - [SwiftUI-Animation](https://github.com/KeatoonMask/SwiftUI-Animation) - Animations built using SwiftUI framework.
+- [MSLView](https://github.com/audulus/MSLView) - SwiftUI view for Shadertoy-style MSL shaders.
 
 ## Test
 

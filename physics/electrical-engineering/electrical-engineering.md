@@ -94,3 +94,4 @@
 - [A home made PCB stepper motor (2021)](https://kevinlynagh.com/pcb-stepper/)
 - [How should net metering affect your electric bill? (2022)](https://climateer.substack.com/p/price-lies) ([HN](https://news.ycombinator.com/item?id=30193521))
 - [Reso](https://github.com/lynnpepin/reso) - Visual circuits programming language using pixels. ([HN](https://news.ycombinator.com/item?id=30193997))
+- [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator) ([HN](https://news.ycombinator.com/item?id=30660203))

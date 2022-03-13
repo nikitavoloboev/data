@@ -154,3 +154,4 @@
 - [Casual code review of MetaMask’s crypto (2022)](https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/) ([Lobsters](https://lobste.rs/s/9juhqi/extremely_casual_code_review_metamask_s))
 - [EasyCrypt](https://github.com/EasyCrypt/easycrypt) - Computer-Aided Cryptographic Proofs.
 - [Pseudorandom Number Generation using LFSR (2022)](https://arpitbhayani.me/blogs/lfsr)
+- [lokey](https://github.com/jpf/lokey) - Tool that makes it easy to work with and convert between cryptographic key formats.

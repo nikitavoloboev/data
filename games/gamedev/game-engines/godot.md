@@ -3,6 +3,7 @@
 ## Nice Godot OSS apps
 
 - [Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity.
+- [LiBlast](https://codeberg.org/unfa/Liblast) - Libre Multiplayer FPS Game Built with Godot 4 and Blender.
 
 ## Links
 

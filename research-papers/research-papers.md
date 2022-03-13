@@ -157,7 +157,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Sci Hub Injector](https://github.com/rickwierenga/sci-hub-injector) - Adds SciHub links to popular publisher websites. ([HN](https://news.ycombinator.com/item?id=29954046))
 - [tl;dr papers](https://www.tldrpapers.com/) - Science abstracts a second grader can understand.
 - [ar5iv](https://ar5iv.labs.arxiv.org/) - Articles from arXiv.org as responsive HTML5 web documents. ([Code](https://github.com/dginev/ar5iv))
-- [I read the top 100 scientific papers of all time (2022)](https://www.youtube.com/watch?v=4sLWRScmfH0)
+- [I read the top 100 scientific papers of all time (2022)](https://www.youtube.com/watch?v=4sLWRScmfH0) ([HN](https://news.ycombinator.com/item?id=30654870))
 - [arXiv.wiki](https://arxiv.wiki/) - Place for notes and summaries of arXiv.org papers. ([Code](https://github.com/arxivwiki/arxivwiki))
 - [Sci-Hub statistics and database](https://sci-hub.ru/database) ([HN](https://news.ycombinator.com/item?id=30314601))
 - [Paper Memory](https://github.com/vict0rsch/PaperMemory) - Browser extension to automatically store the papers you read (Arxiv, OpenReview & more).

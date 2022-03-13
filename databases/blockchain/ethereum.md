@@ -4,6 +4,8 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 
 It is quite useless however due to it having [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162). [Solidity](https://soliditylang.org) is nice prototype language which you can use with [Solang](https://solang.readthedocs.io/en/latest/) & compile it to [more efficient chains](https://twitter.com/deepfates/status/1458937791430098947).
 
+[StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting.
+
 ## Notes
 
 - [The problem is that money (paper money/currency) is not the only thing that has value which human beings transfer among each other. We share music, art, poetry, equity in companies, ideas, code, etc. What Ethereum does is take the idea of "Digital trustless money transfer" and expands it to "Digital trustless value transfer"](https://news.ycombinator.com/item?id=25264694)
@@ -525,3 +527,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Optimism Spec](https://github.com/ethereum-optimism/optimistic-specs) - Protocol that strives to be an extremely simple optimistic rollup that maintains 1:1 compatibility with Ethereum.
 - [Lyra](https://www.lyra.finance/) - Open Protocol For Trading Options. ([Code](https://github.com/lyra-finance/lyra-protocol))
 - [Foundry Seminar](https://github.com/brockelmore/foundry_seminar)
+- [Simplified ERC721 Dutch Auction for StarkNet](https://github.com/sambarnes/cairo-dutch)
+- [Starknet Node](https://github.com/odyslam/starknet-node) - Easiest way to deploy a Starknet Node on a Raspberry Pi and begin verifying L2 state transitions, directly from your Raspberry Pi.
+- [ERC721A](https://www.erc721a.org/) - Improved implementation of the IERC721 standard that supports minting multiple tokens for close to the cost of one. ([Code](https://github.com/chiru-labs/ERC721A))

@@ -55,6 +55,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [teloxide-core](https://github.com/teloxide/teloxide-core) - Tools for making requests to the Telegram Bot API with ease.
 - [shell2telegram](https://github.com/msoap/shell2telegram) - Create Telegram bot from command-line.
 - [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) - C++ library for Telegram bot API.
+- [telezig](https://github.com/axgdev/telezig) - Telegram bot library written in Zig.
 
 ## Bots
 
@@ -187,3 +188,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Became the Anti-Facebook (2022)](https://www.wired.com/story/how-telegram-became-anti-facebook/) ([HN](https://news.ycombinator.com/item?id=30267787))
 - [Telegram proxies list](https://twitter.com/BTSLUVBLOG/status/1496746466005733382)
 - [Guide to All Things Webhook](https://core.telegram.org/bots/webhooks)
+- [Telegram Upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account.

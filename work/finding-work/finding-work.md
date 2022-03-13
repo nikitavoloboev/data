@@ -83,7 +83,7 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [How popular media portrays the employability of older software developers](https://arxiv.org/abs/2004.05847) ([HN](https://news.ycombinator.com/item?id=23964539))
 - [Ask HN: Is all of FAANG like this? (2020)](https://news.ycombinator.com/item?id=23917131)
 - [A few things I wish I knew before I started working as a software engineer](https://shubheksha.com/posts/2019/06/a-few-things-i-wish-i-knew-before-i-started-working-as-a-software-engineer/)
-- [StaffEng](https://staffeng.com/) - Stories of reaching Staff-plus engineering roles. ([Guides](https://staffeng.com/guides/))
+- [StaffEng](https://staffeng.com/) - Stories of reaching Staff-plus engineering roles. ([Guides](https://staffeng.com/guides/)) ([HN](https://news.ycombinator.com/item?id=30659096))
 - [Laid Off, Now What? (2020)](https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html) ([HN](https://news.ycombinator.com/item?id=24534685))
 - [Small Tech](https://scattered-thoughts.net/writing/small-tech/) - Should you join a big company or start a startup? ([HN](https://news.ycombinator.com/item?id=24553085))
 - [Guide to the Senior Engineer Job Search (2020)](https://twitter.com/stopachka/status/1308766905642123264)

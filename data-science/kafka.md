@@ -93,3 +93,4 @@
 - [Kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI.
 - [Introduction to Apache Kafka by James Ward (2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
 - [GraphQL Kafka Subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions)
+- [Kafka Consumer Autoscaling with KEDA (2022)](https://zhimin-wen.medium.com/kafka-consumer-autoscaling-with-keda-41310f80a62a)

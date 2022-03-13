@@ -104,3 +104,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Argc](https://github.com/sigoden/argc) - Handy way to handle sh/bash cli parameters.
 - [qsv](https://github.com/jqnatividad/qsv) - Ultra-fast CSV data-wrangling CLI toolkit.
 - [More Than a Dozen Command Line Tools I've Written—and So Can You (2018)](https://blog.carlmjohnson.net/post/2018/go-cli-tools/)
+- [Track changes to CLI tools by recording their help output](https://simonwillison.net/2022/Feb/2/help-scraping/) ([HN](https://news.ycombinator.com/item?id=30658310))

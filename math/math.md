@@ -347,3 +347,5 @@
 - [1 thing in math you wish you had intuition for, but you don't](https://twitter.com/SC_Griffith/status/1494925459267674113)
 - [Optics vs Lenses, Operationally (2022)](https://www.brunogavranovic.com/posts/2022-02-10-optics-vs-lenses-operationally.html)
 - [So you want to study mathematics (2022)](https://www.susanrigetti.com/math) ([HN](https://news.ycombinator.com/item?id=30591177))
+- [Savage Computer Algebra System](https://github.com/p-e-w/savage)
+- [The Open-Source Mathematics Degree](https://github.com/shanirivers/open-source-mathematics-degree)

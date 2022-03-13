@@ -75,3 +75,4 @@
 - [StableSocket](https://github.com/github/stable-socket) - Web socket that reconnects.
 - [Server-Sent Events, WebSockets, and HTTP (2022)](https://www.mnot.net/blog/2022/02/20/websockets) ([HN](https://news.ycombinator.com/item?id=30403438)) ([Lobsters](https://lobste.rs/s/x5w6zl/server_sent_events_websockets_http))
 - [js-libp2p-websockets](https://github.com/libp2p/js-libp2p-websockets) - JavaScript implementation of the WebSockets module that libp2p uses and that implements the interface-transport interface.
+- [Properly implement WebSockets in Go](https://www.reddit.com/r/golang/comments/td5m22/properly_implement_websockets_with_gokit/)

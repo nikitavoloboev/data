@@ -44,6 +44,7 @@
 - [pyramid](https://github.com/lilactown/pyramid) - Library for storing and querying graph data in a Clojure map.
 - [Carmine](https://github.com/ptaoussanis/carmine) - Pure-Clojure Redis client & message queue.
 - [clj-leveldb](https://github.com/Factual/clj-leveldb) - Clojure bindings for LevelDB.
+- [SQLingvo](https://github.com/r0man/sqlingvo) - Clojure & ClojureScript DSL for SQL.
 
 ## ML
 

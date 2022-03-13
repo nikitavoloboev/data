@@ -83,3 +83,4 @@
 - [Dagster: Rebundling the Data Platform (2022)](https://dagster.io/blog/rebundling-the-data-platform)
 - [cq](https://github.com/markus-wa/cq) - Clojure Command-line Data Processor for JSON, YAML, EDN, XML and more.
 - [utt](https://github.com/queer/utt) - Universal text transformer.
+- [Loggie](https://github.com/loggie-io/loggie) - Lightweight, high-performance, cloud-native agent and aggregator based on Go.

@@ -236,7 +236,7 @@ Awesome List
 - [Dev Protocol](https://devprotocol.xyz/) - Lets GitHub users tokenize their OSS projects in a few clicks. ([Code](https://github.com/dev-protocol/protocol))
 - [Lotus](https://getlotus.app/) - Keep up with GitHub notifications without stress.
 - [Standard and acceptable badges list](https://badges.aleen42.com/) ([Code](https://github.com/aleen42/badges))
-- [HUBFS](https://github.com/billziss-gh/hubfs) - Read-only file system for GitHub and Git.
+- [HUBFS](https://github.com/winfsp/hubfs) - Read-only file system for GitHub and Git. ([HN](https://news.ycombinator.com/item?id=30653916))
 - [Awesome Developer GitHub Profiles](https://github.com/coderjojo/creative-profile-readme)
 - [GistFS](https://github.com/jhchabran/gistfs) - Go io/fs filesystem implementation for reading files in a Github gists.
 - [git-xargs](https://github.com/gruntwork-io/git-xargs) - Command-line tool (CLI) for making updates across multiple Github repositories with a single command.
@@ -358,3 +358,5 @@ Awesome List
 - [Drift](https://drift.maxleiter.com/) - Self-hostable clone of GitHub Gist. ([Code](https://github.com/maxleiter/drift)) ([HN](https://news.ycombinator.com/item?id=30607367))
 - [GitHub Blocks Template](https://github.com/githubnext/blocks-template) - Template for creating custom Blocks.
 - [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341) ([HN](https://news.ycombinator.com/item?id=30647047))
+- [Dinghy](https://github.com/nedbat/dinghy) - GitHub activity digest tool.
+- [labels](https://github.com/hackebrot/labels) - CLI app for managing GitHub labels for Python 3.6 and newer.

@@ -1,5 +1,7 @@
 # Embedded systems
 
+[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) is useful book.
+
 ## Interesting chips
 
 - [ESP32](https://en.wikipedia.org/wiki/ESP32)
@@ -166,3 +168,4 @@
 - [knurling app template](https://github.com/knurling-rs/app-template) - Quickly set up a `probe-run` + `defmt` + `flip-link` embedded project.
 - [Sound Open Firmware](https://github.com/thesofproject/sof)
 - [Bytecode interpreters for tiny computers (2007)](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html) ([HN](https://news.ycombinator.com/item?id=30421621))
+- [Embedded Rust on Espressif Book](https://espressif-trainings.ferrous-systems.com/) ([Code](https://github.com/ferrous-systems/espressif-trainings))

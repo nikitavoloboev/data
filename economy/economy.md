@@ -140,3 +140,4 @@
 - [The Modern History of Economic Sanctions (2022)](https://www.lawfareblog.com/modern-history-economic-sanctions) ([Tweet](https://twitter.com/henryfarrell/status/1499008018725363716))
 - [Country Economies](https://countryeconomy.com/)
 - [Just Say No to CBDCs](https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r) ([Reddit](https://www.reddit.com/r/Monero/comments/tbtgx8/just_say_no_to_cbdcs/))
+- [We must return to an economy fueled by innovation, rather than disruption (2022)](https://greg-satell.medium.com/how-the-uber-economy-is-killing-innovation-prosperity-and-entrepreneurship-7222982cd457) ([HN](https://news.ycombinator.com/item?id=30658835))

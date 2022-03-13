@@ -422,6 +422,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pgtalk](https://github.com/emicklei/pgtalk) - More type safe SQL query building and execution using Go code generated (pgtalk-gen) from PostgreSQL table definitions.
 - [gls](https://github.com/jtolio/gls) - Goroutine local storage.
 - [zdb](https://github.com/arp242/zdb) - Nice API to interact with SQL databases in Go.
+- [FlashDB](https://github.com/arriqaaq/flashdb) - Embeddable, in-memory key/value database in Go (with Redis like commands). ([Writing a simple in-memory key-value Database in Go](https://aly.arriqaaq.com/building-a-database-in-go/))
+- [zizou](https://github.com/arriqaaq/zizou) - In memory cache implementation with high concurrency.
 
 ## ML
 

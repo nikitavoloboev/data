@@ -25,6 +25,7 @@
 - [Announcing the Zig Software Foundation (2020)](https://ziglang.org/news/announcing-zig-software-foundation.html) ([HN](https://news.ycombinator.com/item?id=23806222))
 - [Zig Live Coding: Self-Hosted Incremental Compilation Debug Info + LLVM 11 Upgrade (2020)](https://www.youtube.com/watch?v=3CtQAaWUZrY)
 - [Awesome Zig](https://github.com/catdevnull/awesome-zig)
+- [Awesome Zig 2](https://github.com/nrdmn/awesome-zig)
 - [Zig Learning & Usage Guide](https://github.com/C-BJ/awesome-zig)
 - [Interview with Zig language creator Andrew Kelley (2020)](https://www.youtube.com/watch?v=ZvskDoP09Ao) ([HN](https://news.ycombinator.com/item?id=24292437))
 - [What is Zig's Comptime? (2019)](https://kristoff.it/blog/what-is-zig-comptime/)

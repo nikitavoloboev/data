@@ -744,6 +744,7 @@
 - [pyfzf](https://github.com/nk412/pyfzf) - Python wrapper for fzf.
 - [Fountain](https://github.com/topology-gg/fountain) - 2-dimensional physics engine written in Cairo.
 - [Truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores.
+- [notify-send](https://github.com/andreztz/notify-send) - Displays a notification suitable for the platform being run on.
 
 ## Links
 

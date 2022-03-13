@@ -216,3 +216,4 @@
 - [Debugging with GDB (2022)](https://felix-knorr.net/blog/using_gdb_directly.html) ([HN](https://news.ycombinator.com/item?id=30512302))
 - [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - 6809 cross-compiler for a C-like language.
 - [C Arrays Are Not Pointers (2021)](https://lovesegfault.com/posts/c-arrays-are-not-pointers/)
+- [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) ([HN](https://news.ycombinator.com/item?id=30660528))

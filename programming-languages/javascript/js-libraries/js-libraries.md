@@ -833,6 +833,8 @@
 - [Env](https://github.com/humanwhocodes/env) - Utility for verifying that environment variables are present in Node.js and Deno.
 - [devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation.
 - [clb](https://github.com/crswll/clb) - Small, utility function that builds a class list based on a simple API.
+- [Compatto](https://github.com/macarie/compatto) - Tiny and fast string compression library.
+- [LemonadeJS](https://github.com/lemonadejs/lemonadejs) - Micro (6Kb) reactive, with a two-way data binding, no dependencies, JavaScript library that aims to be as close to JavaScript Vanilla as possible.
 
 ## Links
 

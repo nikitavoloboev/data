@@ -612,3 +612,6 @@
 - [Fast Image Processing with Fully-Convolutional Networks (2017)](https://arxiv.org/abs/1709.00643) ([Code](https://github.com/nrupatunga/Fast-Image-Filters))
 - [Efficient Attention: Attention with Linear Complexities (2020)](https://arxiv.org/abs/1812.01243) ([Code](https://github.com/cmsflash/efficient-attention))
 - [Label-Efficient Semantic Segmentation with Diffusion Models (2022)](https://yandex-research.github.io/ddpm-segmentation/) ([Code](https://github.com/yandex-research/ddpm-segmentation))
+- [hloc](https://github.com/cvg/Hierarchical-Localization) - Modular toolbox for state-of-the-art 6-DoF visual localization.
+- [All Tokens Matter: Token Labeling for Training Better Vision Transformers (2021)](https://arxiv.org/abs/2104.10858) ([Code](https://github.com/zihangJiang/TokenLabeling))
+- [Deformable ConvNets v2: More Deformable, Better Results (2018)](https://arxiv.org/abs/1811.11168) ([Code](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch))
