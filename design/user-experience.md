@@ -21,6 +21,7 @@
 - [Decrease CTAs to only meaningful interactions.](https://twitter.com/joycekettering/status/1465404791987703810)
 - [Love the dot on top to show which part of website you are.](https://benadam.me/thoughts/)
 - [Focus on: Layout. Hierarchy. Feature discoverability. Seeding content. In the shortest time possible, do whatever you can to: 1. Get users to the Aha Moment (i.e., "Oh that's what this app is for". 2. Activated (e.g., reach minimum friend count).](https://twitter.com/nikitabier/status/1499105551938031616)
+- [Successful product starts with a great onboarding.](https://twitter.com/KilianPoulinTW/status/1497573920181927943)
 
 ## Links
 

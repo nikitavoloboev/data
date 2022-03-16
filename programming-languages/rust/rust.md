@@ -730,3 +730,4 @@
 - [A zero-overhead linked list in Rust (2021)](https://aloso.github.io/2021/04/12/linked-list.html)
 - [Implementing RAII guards in Rust (2021)](https://aloso.github.io/2021/03/18/raii-guards.html)
 - [Creating an Iterator in Rust (2021)](https://aloso.github.io/2021/03/09/creating-an-iterator.html)
+- [An In-Depth Introduction To Idempotency (2022)](https://www.lpalmieri.com/posts/idempotency/)

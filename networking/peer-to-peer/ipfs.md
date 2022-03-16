@@ -93,3 +93,4 @@ I especially like the distinction of distributing content over distributing link
 - [ipfs-check](https://github.com/aschmahmann/ipfs-check) - Check if you can find your content on IPFS.
 - [Hole punching in libp2p - Overcoming Firewalls (2022)](https://blog.ipfs.io/2022-01-20-libp2p-hole-punching/)
 - [IPFS Docs](https://docs.ipfs.io/) ([Code](https://github.com/ipfs/ipfs-docs))
+- [IPFS web browsers integration group](https://github.com/ipfs/in-web-browsers)

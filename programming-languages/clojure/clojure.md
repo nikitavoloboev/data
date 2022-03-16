@@ -206,3 +206,5 @@
 - [Humble Chronicles: The Layout (2022)](https://tonsky.me/blog/humble-layout/)
 - [Try Clojure](https://tryclojure.org/) - Interactive tutorial in the browser. ([HN](https://news.ycombinator.com/item?id=30423856)) ([HN](https://github.com/elias94/tryclojure))
 - [Clojure rules for Bazel](https://github.com/griffinbank/rules_clojure)
+- [Create a password manager with Clojure using Babashka, sqlite, honeysql and stash (2022)](https://www.youtube.com/watch?v=jm0RXmyjRJ8)
+- [Physics in Clojure: Elliptical Paths](https://twitter.com/sritchie/status/1503220063264026629) ([HN](https://news.ycombinator.com/item?id=30671167))

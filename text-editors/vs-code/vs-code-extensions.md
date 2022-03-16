@@ -498,3 +498,4 @@ Below is a list of extensions I use.
 - [VS Code extensions for web development in 2022](https://creativedesignsguru.com/vscode-extensions-web-developers/) ([HN](https://news.ycombinator.com/item?id=29975429))
 - [Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
 - [Anthony's VS Code Settings](https://github.com/antfu/vscode-settings)
+- [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions.

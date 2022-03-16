@@ -14,3 +14,4 @@
 - [twemproxy](https://github.com/bitleak/twemproxy) - Multi-process, fast and lightweight proxy for memcached and redis protocol.
 - [gomemcached](https://github.com/couchbase/gomemcached) - memcached binary protocol toolkit in go.
 - [Memcached Exporter for Prometheus](https://github.com/prometheus/memcached_exporter)
+- [memcache-async](https://github.com/vavrusa/memcache-async) - No-frills async memcached client for Rust.

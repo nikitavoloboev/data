@@ -164,6 +164,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
 - [Tinybird](https://www.tinybird.co/) - Turn raw data into realtime API at scale.
+- [Smort.io](https://www.smort.io/) - Edit, annotate and share articles easily. ([HN](https://news.ycombinator.com/item?id=30673502))
 - [Notify](https://notify.me/) - Subscribe directly to creators.
 - [Bazinga Tools](https://bazinga.tools/) - All-in-One Toolbox for Developers. ([Code](https://github.com/luin/bazinga))
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
@@ -223,6 +224,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
+- [Kiwix](https://www.kiwix.org/en/) - Lets you access free knowledge – even offline.
 - [Universe](https://onuniverse.com/) - Website builder made for your iPhone. Build your brand from your hand with the GRID. ([Twitter](https://twitter.com/onuniverse))
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
@@ -386,7 +388,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Slite](https://slite.com/) - Bring clarity to your team.
 - [MoonHome](https://moonhome.io/) - Remote Development Environments. ([HN](https://news.ycombinator.com/item?id=28846074))
 - [Mugshot Bot](https://www.mugshotbot.com/) - Automated link previews - no design tools needed.
-- [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
+- [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard. ([GitHub](https://github.com/checkly))
 - [Lattice](https://lattice.com/) - Performance management and employee engagement.
 - [cryptgeon](https://cryptgeon.nicco.io/) - Secure, open source note sharing service inspired by PrivNote. ([Code](https://github.com/cupcakearmy/cryptgeon))
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.

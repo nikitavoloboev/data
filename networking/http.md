@@ -210,3 +210,6 @@
 - [Requestly](https://requestly.io/) - Lightweight Proxy to Intercept & Modify HTTP(s) requests. ([HN](https://news.ycombinator.com/item?id=30540735))
 - [Penguin](https://github.com/LukasKalbertodt/penguin) - Dev server featuring live-reloading, a file server, proxy support, and more.
 - [curlconverter](https://curlconverter.com/) - Convert curl commands to code. ([Code](https://github.com/curlconverter/curlconverter)) ([HN](https://news.ycombinator.com/item?id=30642281))
+- [httptest](https://github.com/nytimes/httptest) - Simple concurrent HTTP testing tool.
+- [Pact JS](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+- [httpmirror](https://github.com/multiprocessio/httpmirror) - Single binary HTTP server that mirrors all request data (headers and body) in the response.

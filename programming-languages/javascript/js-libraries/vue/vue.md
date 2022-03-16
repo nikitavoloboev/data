@@ -121,3 +121,4 @@
 - [nuxt-gql](https://github.com/Diizzayy/nuxt-gql) - Minimal GraphQL Client + Code Generation for Nuxt 3.
 - [Vue Use Motion](https://github.com/vueuse/motion) - Vue Composables putting your components in motion.
 - [Vue Router](https://github.com/vuejs/router)
+- [Short introduction into Vue](https://vue-intro-workshop.vercel.app/1) ([Code](https://github.com/smakosh/Vue-intro-workshop))

@@ -55,3 +55,4 @@
 - [CT-ICP: Elastic SLAM for LiDAR sensors](https://github.com/jedeschaud/ct_icp)
 - [You don't ever own an electric vehicle (2022)](https://www.reviewgeek.com/111381/you-dont-really-ever-own-an-ev/) ([HN](https://news.ycombinator.com/item?id=30637725))
 - [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
+- [Quatro](https://github.com/url-kaist/quatro) - Fast and robust global registration for terrestrial robots.

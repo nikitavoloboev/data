@@ -99,3 +99,4 @@
 - [Share session and cookies between Next and Remix (2022)](https://sergiodxa.com/articles/share-session-and-cookies-between-next-and-remix)
 - [Remix Forms](https://remix-forms.seasoned.cc/) - Magically create forms + actions in Remix. ([Code](https://github.com/SeasonedSoftware/remix-forms))
 - [Build a Project Management App with Remix (with Chance Strickland) (2022)](https://www.youtube.com/watch?v=QpP3daA2na4)
+- [Remix - Full Context Review (2022)](https://www.fullcontextdevelopment.com/blog/remix-full-context-review)

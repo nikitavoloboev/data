@@ -42,3 +42,4 @@
 - [Metal-cpp](https://github.com/bkaradzic/metal-cpp) - Low-overhead C++ interface for Metal.. ([Docs](https://developer.apple.com/metal/cpp/)) ([HN](https://news.ycombinator.com/item?id=29289761))
 - [Metal.jl](https://github.com/JuliaGPU/Metal.jl) - Metal programming in Julia.
 - [nvim-metals](https://github.com/scalameta/nvim-metals) - Metals plugin for Nvim.
+- [MetalCoreGraphics](https://github.com/s1ddok/MetalCoreGraphics) - Combine the power of Metal and CoreGraphics by sharing resource memory.

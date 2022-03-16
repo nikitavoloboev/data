@@ -115,3 +115,4 @@
 - [How to Favicon in 2022: Six files that fit most needs (2022)](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs)
 - [Effortless Icons](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, Lit, Solid and more.
 - [Streamline Icons](https://app.streamlinehq.com/icons) - Vector icons sets. ([HN](https://news.ycombinator.com/item?id=30356944))
+- [Avvvatars](https://avvvatars.com/) - Open Source React UI Avatar Library. ([Code](https://github.com/nusu/avvvatars))

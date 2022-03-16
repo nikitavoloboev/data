@@ -125,3 +125,4 @@
 - [Rails 7 application inside Docker on macOS: Part two - database and Mutagen (2022)](https://bpohoriletz.github.io/2022/03/01/rails-7-app-inside-docker-on-osx-2.html)
 - [Turbo Rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app.
 - [Stimulus for Rails](https://github.com/hotwired/stimulus-rails)
+- [ViewComponent](https://github.com/github/view_component) - Framework for building reusable, testable & encapsulated view components in Ruby on Rails. ([Docs](https://viewcomponent.org/))

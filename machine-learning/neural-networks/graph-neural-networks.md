@@ -97,3 +97,5 @@
 - [Representing Long-Range Context for Graph Neural Networks with Global Attention](https://github.com/ucbrise/graphtrans)
 - [CW Networks](https://github.com/twitter-research/cwn) - Message Passing Neural Networks for Simplicial and Cell Complexes.
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/zhengchuanpan/GMAN)
+- [Awesome Efficient Graph Neural Networks](https://github.com/chaitjo/awesome-efficient-gnn)
+- [GraphSAGE](http://snap.stanford.edu/graphsage/) - Inductive Representation Learning on Large Graphs. ([PyTorch Code](https://github.com/twjiang/graphSAGE-pytorch))

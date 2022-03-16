@@ -311,7 +311,7 @@
 - [graphene-pydantic](https://github.com/graphql-python/graphene-pydantic) - Integrate GraphQL with your Pydantic models.
 - [Python Sorted Containers](https://github.com/grantjenks/python-sortedcontainers) - Sorted List, Sorted Dict, and Sorted Set.
 - [MacroPy3](https://macropy3.readthedocs.io/en/latest/) - Provides a mechanism for user-defined functions (macros) to perform transformations on the abstract syntax tree (AST) of a Python program at import time.
-- [joblib](https://github.com/joblib/joblib) - Computing with Python functions.
+- [Joblib](https://github.com/joblib/joblib) - Computing with Python functions. ([Docs](https://joblib.readthedocs.io/en/latest/)) ([Tweet](https://twitter.com/abhi1thakur/status/1503681358467584002))
 - [Little Ball of Fur](https://github.com/benedekrozemberczki/LittleBallOfFur) - NetworkX extension library for graph sampling. ([HN](https://news.ycombinator.com/item?id=23221255))
 - [aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio).
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed-up by SQLite and pickle.
@@ -745,6 +745,8 @@
 - [Fountain](https://github.com/topology-gg/fountain) - 2-dimensional physics engine written in Cairo.
 - [Truststore](https://github.com/sethmlarson/truststore) - Verify certificates using OS trust stores.
 - [notify-send](https://github.com/andreztz/notify-send) - Displays a notification suitable for the platform being run on.
+- [bytecode](https://github.com/MatthieuDartiailh/bytecode) - Python module to generate and modify bytecode.
+- [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features.
 
 ## Links
 

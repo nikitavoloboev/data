@@ -315,3 +315,4 @@
 - [cpplint](https://github.com/cpplint/cpplint) - Static code checker for C++.
 - [C++ resources (2022)](https://twitter.com/claucece/status/1500223555912585223)
 - [Tolc](https://tolc.io/) - Makes C++ callable from other languages. ([Code](https://github.com/Tolc-Software/tolc))
+- [List of recommended secure C++ coding practices](https://www.incredibuild.com/blog/top-10-secure-c-coding-practices) ([Reddit](https://www.reddit.com/r/cpp/comments/tejt3s/list_of_recommended_secure_c_coding_practices/))

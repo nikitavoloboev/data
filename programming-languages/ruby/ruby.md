@@ -114,3 +114,4 @@
 - [mruby](https://mruby.org/) - Lightweight implementation of the Ruby language complying with part of the ISO standard. ([Code](https://github.com/mruby/mruby))
 - [mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - mruby bindings for zig.
 - [Ruby Together](https://rubytogether.org/) - Community funded developer infrastructure. ([HN](https://news.ycombinator.com/item?id=30622186))
+- [Pipelining without pipes (2022)](https://thoughtbot.com/blog/pipelining-without-pipes-in-ruby)

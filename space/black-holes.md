@@ -42,3 +42,6 @@
 - [In 1783, an English rector predicted black holes using classical mechanics](https://interestingengineering.com/forgotten-preacher-predicts-black-holes-a-century-before-einstein) ([HN](https://news.ycombinator.com/item?id=29026073))
 - [Are Fuzzballs the new understanding of Black Holes? (2021)](https://www.youtube.com/watch?v=RbvVeVHVcgs) ([Reddit](https://www.reddit.com/r/Physics/comments/rkaqkr/my_friend_made_a_video_interviewing_a_famous/))
 - [Imminent merger of a supermassive black hole binary (2022)](https://arxiv.org/abs/2201.11633) ([HN](https://news.ycombinator.com/item?id=30228095))
+- [Tiny Galaxies Reveal Secrets of Supermassive Black Holes (2022)](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
+- [Black hole merger GW190521 may need many more black holes to explain it (2022)](https://www.syfy.com/syfy-wire/bad-astronomy-black-hole-merger-gw190521) ([Tweet](https://twitter.com/BadAstronomer/status/1503391937616879624))
+- [Visualizing Black Holes with General Relativistic Ray Tracing (2022)](https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/)

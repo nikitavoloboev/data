@@ -291,6 +291,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [srtgo](https://github.com/Haivision/srtgo) - Go bindings for SRT (Secure Reliable Transport), the open source transport technology that optimizes streaming performance across unpredictable networks.
 - [iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library.
 - [ratelimit](https://github.com/uber-go/ratelimit) - Go blocking leaky-bucket rate limit implementation.
+- [go-http-metrics](https://github.com/slok/go-http-metrics) - Measure HTTP metrics in different metric formats and Go HTTP framework/libs.
 
 ## GraphQL
 
@@ -424,6 +425,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [zdb](https://github.com/arp242/zdb) - Nice API to interact with SQL databases in Go.
 - [FlashDB](https://github.com/arriqaaq/flashdb) - Embeddable, in-memory key/value database in Go (with Redis like commands). ([Writing a simple in-memory key-value Database in Go](https://aly.arriqaaq.com/building-a-database-in-go/))
 - [zizou](https://github.com/arriqaaq/zizou) - In memory cache implementation with high concurrency.
+- [go-zetasql](https://github.com/goccy/go-zetasql) - Go bindings for ZetaSQL. ZetaSQL can parse all queries related to Cloud Spanner and BigQuery.
+- [Permify Gorm](https://github.com/Permify/permify-gorm) - Associate users with roles and permissions.
 
 ## ML
 
@@ -1407,6 +1410,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [jsonrpc2](https://github.com/sourcegraph/jsonrpc2) - JSON-RPC 2.0 implementation for Go.
 - [Pretty](https://github.com/tidwall/pretty) - Efficient JSON beautifier and compactor for Go.
 - [jsonenums](https://github.com/campoy/jsonenums) - Tool to automate the creation of methods that satisfy the json.Marshaler and json.Unmarshaler interfaces.
+- [Objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
+- [Centrifuge](https://github.com/centrifugal/centrifuge) - Real-time messaging library for Go with scalability in mind.
 
 ## Links
 
@@ -1474,3 +1479,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Building Rich CLI Applications with Go's Built-in Templating (2022)](https://lakefs.io/building-rich-cli-applications-with-gos-built-in-templating//#) ([Reddit](https://www.reddit.com/r/golang/comments/ta313j/building_rich_cli_applications_with_gos_builtin/))
 - [How to write documentation for a private Go project? (2022)](https://www.reddit.com/r/golang/comments/tcbi6s/general_question_how_to_write_documentation_for_a/)
 - [Log Analysis with netgo (2022)](https://convey.earth/conversation?id=51)
+- [godocdown](https://github.com/robertkrimen/godocdown) - Generates Go documentation in a GitHub-friendly Markdown format.

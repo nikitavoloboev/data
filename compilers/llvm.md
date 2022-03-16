@@ -107,4 +107,4 @@
 - [Summus](https://github.com/igor84/summus) - Simple compiler frontend using LLVM as backend. Can easily be used as a starting point for any kind of compiler.
 - [Taming Undefined Behavior in LLVM (2017)](https://www.cs.utah.edu/~regehr/papers/undef-pldi17.pdf)
 - [Fracture](https://github.com/draperlaboratory/fracture) - Architecture-independent decompiler to LLVM IR.
-- [Reducing WebAssembly size by exploring all executions in LLVM (2022)](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/)
+- [Reducing WebAssembly size by exploring all executions in LLVM (2022)](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/) ([HN](https://news.ycombinator.com/item?id=30686919))

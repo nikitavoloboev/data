@@ -28,3 +28,4 @@
 - [How to properly snort Ketamine](https://www.reddit.com/r/Drugs/comments/60ixfc/ket_snorting_tips/)
 - [How to boost K high](https://www.reddit.com/r/ketamine/comments/rp5z2e/tips_on_how_to_boost_your_ketamine_high/)
 - [Ketamine therapy is going mainstream](https://www.newyorker.com/culture/annals-of-inquiry/ketamine-therapy-is-going-mainstream-are-we-ready) ([HN](https://news.ycombinator.com/item?id=29725502))
+- [Ketamine for the acute treatment of severe suicidal ideation (2022)](https://www.bmj.com/content/376/bmj-2021-067194) ([HN](https://news.ycombinator.com/item?id=30675879))

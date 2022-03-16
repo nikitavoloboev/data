@@ -130,3 +130,4 @@
 - [NSIMD](https://github.com/agenium-scale/nsimd) - Vectorization library that abstracts SIMD programming.
 - [Buffet](https://github.com/alcover/buffet) - All-inclusive Buffer Type for C.
 - [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([Web](https://www.clibs.org/)) ([HN](https://news.ycombinator.com/item?id=30596005)) ([HN](https://news.ycombinator.com/item?id=24182441))
+- [libcbor](https://github.com/PJK/libcbor) - CBOR protocol implementation for C.

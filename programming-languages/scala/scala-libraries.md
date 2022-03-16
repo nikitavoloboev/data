@@ -168,3 +168,5 @@
 - [sbt-release](https://github.com/sbt/sbt-release) - Customizable release process that you can add to your project.
 - [Sane Scala Dependencies in a Poly-Repo Codebase (2021)](https://alexklibisz.com/2021/01/31/sane-scala-sbt-dependencies.html)
 - [Finding Scala Libraries (2022)](https://www.scala-lang.org/blog/2022/03/08/finding-awesome-libraries.html)
+- [Unused Code](https://github.com/xuwei-k/unused-code) - Find and warn, remove unused public classes, methods by scalafix SyntacticRule.
+- [Modeling & Building PayRoll Engine Using Functional Effects System With ZIO Asynchronous, Concurrent, ZIO Scala FP Library. (2022)](https://www.linkedin.com/pulse/modeling-building-payroll-engine-using-functional-effects-otun/)

@@ -164,3 +164,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What are your deal breakers in dating?](https://www.reddit.com/r/datingoverthirty/comments/szyh4l/what_are_your_deal_breakers/)
 - [What are your thoughts on ethical non-monogamy?](https://www.reddit.com/r/AskWomen/comments/t1x6mv/what_are_your_thoughts_on_ethical_nonmonogamy/)
 - [Ask HN: What do you look for in a romantic partner? (2022)](https://news.ycombinator.com/item?id=30636733)
+- [Ask HN: I'm So Lonely (2022)](https://news.ycombinator.com/item?id=30668506)
+- [Thoughts on dating](https://twitter.com/CurziRose/status/1503138337829240833)

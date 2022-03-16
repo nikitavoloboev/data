@@ -72,3 +72,4 @@
 - [apiextensions-apiserver](https://github.com/kubernetes/apiextensions-apiserver) - API server for API extensions like CustomResourceDefinitions.
 - [kube-workspace-operator](https://github.com/refaktory/kube-workspace) - Kubernetes operator that allows managing user-specific, persistent "workspace" pods that can be accessed via SSH.
 - [Kubernetes Operators With ZIO by Josip Grgurica (2022)](https://www.youtube.com/watch?v=Ppw_IkHfqy8)
+- [Rust Kubernetes operator example](https://github.com/Pscheidl/rust-kubernetes-operator-example) - Example of a Kubernetes operator implemented in Rust.

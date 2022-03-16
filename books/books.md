@@ -511,3 +511,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Indie bookshelves](https://macwright.com/2022/02/24/indie-bookshelves.html)
 - [SQL-Powered Reading List (2022)](https://charlieharrington.com/sql-powered-reading-list/)
 - [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf))
+- [A Good Used Book](https://agoodusedbook.com/)
+- [ZLibrary Books](https://b-ok.xyz/)

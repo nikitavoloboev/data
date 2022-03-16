@@ -30,3 +30,4 @@
 - [Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine.
 - [OOGL](https://github.com/Overv/OOGL) - Object-oriented C++ wrapper for OpenGL.
 - [Glow](https://github.com/go-gl/glow) - Go binding generator for OpenGL.
+- [NixGL](https://github.com/guibou/nixGL) - Wrapper tool for nix OpenGL application.

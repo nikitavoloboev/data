@@ -95,3 +95,4 @@
 - [Prisma-multi-tenant](https://github.com/Errorname/prisma-multi-tenant) - Use Prisma as a multi-tenant provider for your application.
 - [Schema-Based Multi-Tenancy with NestJS and Prisma (2020)](https://darioielardi.dev/schema-based-multi-tenancy-with-nestjs-and-prisma) ([Code](https://github.com/darioielardi/nestjs-prisma-multitenant))
 - [prisma-case-format](https://github.com/iiian/prisma-case-format) - Give your introspected schema.prisma sane naming conventions.
+- [Prisma Reflector](https://github.com/prisma/reflector) - Utilities for meta-level interactions with the Prisma toolkit in Node.js.

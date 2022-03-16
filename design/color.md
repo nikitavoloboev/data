@@ -143,3 +143,4 @@
 - [Open Source Color System](https://www.opensourcecolorsystem.design/)
 - [60-30-10 Color Rule](https://www.youtube.com/watch?v=UWwNIMHFdW4)
 - [colo](https://github.com/Aloso/colo) - Displays colors in various color spaces.
+- [Simpler Color](https://github.com/arnelenero/simpler-color) - Create your own complete color system fast and easy. ([HN](https://news.ycombinator.com/item?id=30694354))

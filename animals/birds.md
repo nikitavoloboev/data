@@ -25,3 +25,4 @@
 - [Dancing with the Birds (2019)](https://letterboxd.com/film/dancing-with-the-birds/) ([Trailer](https://www.youtube.com/watch?v=i6po8dWuvCI))
 - [Trogon](https://trogon.onrender.com/) - Learn to identify bird vocalizations at any location in the world. ([HN](https://news.ycombinator.com/item?id=28059763))
 - [Can You Identify the Birds Behind These Creepy Calls?](https://www.audubon.org/news/can-you-identify-birds-behind-these-creepy-calls)
+- [In birdsong, scientists find some parallels with human speech (2022)](https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/) ([HN](https://news.ycombinator.com/item?id=30669789))

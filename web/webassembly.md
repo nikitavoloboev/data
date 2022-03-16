@@ -274,3 +274,5 @@
 - [Function Reference Types Proposal for WebAssembly](https://github.com/WebAssembly/function-references)
 - [Embeddable WebAssembly Parsers (2022)](https://medium.com/@kylebrw/embeddable-webassembly-parsers-5bf3a27a1d00)
 - [Rust-WASM](https://github.com/yblein/rust-wasm) - WASM interpreter written in Rust.
+- [ts-bindgen](https://github.com/ratchetdesigns/ts-bindgen) - Generates wasm-bindgen rust code for typescript declarations.
+- [Rust + WebAssembly Team](https://github.com/rustwasm/team) - Point of coordination for all things Rust and WebAssembly.

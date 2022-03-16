@@ -45,3 +45,4 @@
 - [Tabula](https://tabula.technology/) - Extract Tables from PDFs. ([Code](https://github.com/tabulapdf/tabula)) ([HN](https://news.ycombinator.com/item?id=30475784))
 - [SlidePilot](https://slidepilotapp.com/en/) - PDF Presentation Tool for macOS. ([Code](https://github.com/SlidePilot/SlidePilot-macOS))
 - [giopdf](https://github.com/andybalholm/giopdf) - PDF viewer library for Gio.
+- [PDFME](https://github.com/pdfme/pdfme) - TypeScript based PDF generator library, made with React. ([Docs](https://pdfme.com/docs/getting-started))

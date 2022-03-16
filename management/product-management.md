@@ -87,3 +87,4 @@
 - [Simple Product Management Tricks (2021)](https://jacobian.org/2021/oct/20/simple-pm-tricks/) ([HN](https://news.ycombinator.com/item?id=29068652))
 - [A product management reading list (2021)](https://mikehudack.substack.com/p/a-product-management-reading-list)
 - [Product Manager Software Stack (2022)](https://twitter.com/lennysan/status/1501978181695246346)
+- [The hardest thing about engineering is requirements (2022)](https://jaybs.medium.com/the-hardest-thing-about-engineering-is-requirements-28a6a70c4db4) ([HN](https://news.ycombinator.com/item?id=30631571))

@@ -44,3 +44,4 @@
 - [Noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction algorithm in python that reduces noise in time-domain signals like speech, bioacoustics, and physiological signals.
 - [Digital Signal Processing in Modern Communication Systems](http://signal-processing.net/)
 - [sndkit](https://github.com/PaulBatchelor/sndkit) - Collection of highly portable audio DSP algorithms, written in ANSI C using literate programming.
+- [Invertible Image Signal Processing (2021)](https://arxiv.org/abs/2103.15061) ([Code](https://github.com/yzxing87/Invertible-ISP))

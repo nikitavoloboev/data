@@ -94,3 +94,5 @@
 - [Introduction to Apache Kafka by James Ward (2017)](https://www.youtube.com/watch?v=UEg40Te8pnE)
 - [GraphQL Kafka Subscriptions](https://github.com/ancashoria/graphql-kafka-subscriptions)
 - [Kafka Consumer Autoscaling with KEDA (2022)](https://zhimin-wen.medium.com/kafka-consumer-autoscaling-with-keda-41310f80a62a)
+- [Confluent's Go Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go)
+- [Apache Kafka Code](https://github.com/apache/kafka)

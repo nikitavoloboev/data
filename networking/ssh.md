@@ -97,3 +97,5 @@
 - [Rayon](https://github.com/Lakr233/Rayon) - Server monitor tool for Linux based machines using remote proc file system with script execution. Available for macOS.
 - [SSH-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient. ([HN](https://news.ycombinator.com/item?id=30338289))
 - [lssh](https://github.com/blacknon/lssh) - TUI list select ssh/scp/sftp client tools.
+- [Melt](https://github.com/charmbracelet/melt) - Backup and restore SSH private keys using memorizable seed phrases.
+- [ssh-key-algo](https://github.com/github/ssh-key-algo) - Script to check if the SSH key algorithm is up to date.

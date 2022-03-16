@@ -142,3 +142,4 @@
 - [RiboDetector](https://github.com/hzi-bifo/RiboDetector) - Accurately yet rapidly detect and remove rRNA sequences from metagenomeic, metatranscriptomic, and ncRNA sequencing data.
 - [NanoSim](https://github.com/bcgsc/NanoSim) - Nanopore sequence read simulator.
 - [GenVisR](https://github.com/griffithlab/GenVisR) - Genome data visualizations.
+- [Glow](https://github.com/projectglow/glow) - Open-source toolkit for large-scale genomic analysis.

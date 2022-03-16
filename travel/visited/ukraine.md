@@ -97,3 +97,6 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Thread on Donbass, 2014](https://twitter.com/NinaByzantina/status/1496640134606819328)
 - [What the Russian Invasion Has Done to Ukraine (2022)](https://www.newyorker.com/magazine/2022/03/21/what-the-russian-invasion-has-done-to-ukraine)
 - [Under Fire from Ukraine: Everyday life in the Donetsk People's Republic (2019)](https://www.mintpressnews.com/under-fire-from-ukraine-everyday-life-in-the-donetsk-peoples-republic/262363/)
+- [Henry Kissinger: To settle the Ukraine crisis, start at the end (2014)](https://www.washingtonpost.com/opinions/henry-kissinger-to-settle-the-ukraine-crisis-start-at-the-end/2014/03/05/46dad868-a496-11e3-8466-d34c451760b9_story.html)
+- [How was Ukraine able to conceal its true conventional might for so long? (2022)](https://www.reddit.com/r/CredibleDefense/comments/te4kpe/how_was_ukraine_able_to_conceal_its_true/)
+- [«Они били по вокзалу, откуда уезжали беженцы». Рассказ украинки, которая на последнем поезде уехала из Ирпеня (2022)](https://vot-tak.tv/novosti/14-03-2022-bezhentsy-intervyu/)

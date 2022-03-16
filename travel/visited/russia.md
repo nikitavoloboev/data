@@ -499,3 +499,8 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Why Russian army is so weak? (2022)](https://twitter.com/kamilkazani/status/1502673952572854278)
 - [Два слова - и ты в автозаке: сколько нужно секунд, чтобы тебя задержали на Манежной площади](https://twitter.com/Activatica/status/1503003002055057416)
 - [How to defeat Putin?](https://twitter.com/kamilkazani/status/1503053699798769666)
+- [The curious case of Russia’s missing air force (2022)](https://www.economist.com/interactive/2022/03/08/curious-case-russias-missing-air-force) ([HN](https://news.ycombinator.com/item?id=30668904))
+- [Impacts of war with Ukraine on Russia](https://twitter.com/ProfPaulPoast/status/1503335634395668485)
+- [There are not enough BTUs (2022)](https://viscosityredux.substack.com/p/there-are-not-enough-btus?s=r) ([HN](https://news.ycombinator.com/item?id=30680477))
+- [Russia to pay off foreign debt in Chinese yuan (2022)](https://www.reddit.com/r/Economics/comments/te7we3/russia_to_pay_off_foreign_debt_in_chinese_yuan/)
+- [Can Russia deescalate the war (2022)](https://twitter.com/kamilkazani/status/1503768312236421120)

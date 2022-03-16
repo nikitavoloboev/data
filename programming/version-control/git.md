@@ -493,3 +493,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git's Best And Most Unknown Feature (2021)](https://www.youtube.com/watch?v=2uEqYw-N8uE)
 - [ocaml-git](https://github.com/mirage/ocaml-git) - Pure OCaml Git format and protocol.
 - [all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
+- [Goblet](https://github.com/google/goblet) - Git proxy server that caches repositories for read access.

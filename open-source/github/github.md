@@ -360,3 +360,4 @@ Awesome List
 - [Pull Request File Tree Feedback](https://github.com/github/feedback/discussions/12341) ([HN](https://news.ycombinator.com/item?id=30647047))
 - [Dinghy](https://github.com/nedbat/dinghy) - GitHub activity digest tool.
 - [labels](https://github.com/hackebrot/labels) - CLI app for managing GitHub labels for Python 3.6 and newer.
+- [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/) ([HN](https://news.ycombinator.com/item?id=30675357))

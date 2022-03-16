@@ -14,6 +14,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Alireza Firouzja](https://www.chess.com/member/firouzja2003)
 - [Boris Gelfand](https://www.chess.com/member/remontada2017)
 - [Richard Rapport](https://www.chess.com/players/richard-rapport)
+- [Dmitry Andreikin](https://www.chess.com/players/dmitry-andreikin)
 
 ## Favorite games
 

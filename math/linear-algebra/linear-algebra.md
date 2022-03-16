@@ -66,3 +66,5 @@
 - [Matrix Multiplication](http://matrixmultiplication.xyz/) ([HN](https://news.ycombinator.com/item?id=29971470)) ([Code](https://github.com/staltz/matrixmultiplication.xyz))
 - [Конспекты по линейной алгебре](https://github.com/sancho20021/linal)
 - [Why Tensors? A Beginner's Perspective (2022)](https://mfaizan.github.io/2022/03/08/why-tensors.html) ([HN](https://news.ycombinator.com/item?id=30610238))
+- [Matrices are graphs, and graphs are matrices](https://twitter.com/TivadarDanka/status/1502215264544296962)
+- [Vectorization, dependencies and outer loop vectorization: if you can't beat them, join them (2022)](https://johnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/)

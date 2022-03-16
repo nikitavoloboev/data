@@ -158,3 +158,7 @@
 - [Compressed Sensing in Python (2016)](http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/)
 - [Unraveling The JPEG (2019)](https://parametric.press/issue-01/unraveling-the-jpeg/) ([HN](https://news.ycombinator.com/item?id=30597322)) ([Code](https://github.com/ParametricPress/01-unraveling-the-jpeg))
 - [GIFT](https://github.com/disintegration/gift) - Go Image Filtering Toolkit.
+- [Cascade](https://github.com/ttddee/Cascade) - Node-based image editor with GPU-acceleration.
+- [imageproxy](https://github.com/willnorris/imageproxy) - Caching image proxy server written in go.
+- [image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions.
+- [sic](https://github.com/foresterre/sic) - Accessible image processing and conversion from the terminal.

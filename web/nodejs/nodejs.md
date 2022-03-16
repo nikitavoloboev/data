@@ -331,3 +331,5 @@
 - [Server-sent events for NodeJS](https://github.com/triblondon/node-sse-pubsub)
 - [tiny-typed-emitter](https://github.com/binier/tiny-typed-emitter) - Fully type-checked NodeJS EventEmitter.
 - [node-web-streams](https://github.com/gwicke/node-web-streams) - WhatWG web streams and utilities for node.js.
+- [napi-rs/dog](https://github.com/Brooooooklyn/dog) - Watch/compile/restart your Node.js application for developing.
+- [Mitm.js](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing.

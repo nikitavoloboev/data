@@ -616,3 +616,7 @@
 - [All Tokens Matter: Token Labeling for Training Better Vision Transformers (2021)](https://arxiv.org/abs/2104.10858) ([Code](https://github.com/zihangJiang/TokenLabeling))
 - [Deformable ConvNets v2: More Deformable, Better Results (2018)](https://arxiv.org/abs/1811.11168) ([Code](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch))
 - [Restormer: Efficient Transformer for High-Resolution Image Restoration (2021)](https://arxiv.org/abs/2111.09881) ([Code](https://github.com/swz30/Restormer))
+- [Anti-Oversmoothing in Deep Vision Transformers via the Fourier Domain Analysis: From Theory to Practice (2022)](https://openreview.net/forum?id=O476oWmiNNp) ([Code](https://github.com/VITA-Group/ViT-Anti-Oversmoothing))
+- [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video (2021)](https://zju3dv.github.io/neuralrecon/) ([Code](https://github.com/zju3dv/NeuralRecon))
+- [Awesome 3D Human Reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
+- [Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)

@@ -1573,6 +1573,10 @@
 - [Atomig](https://github.com/LukasKalbertodt/atomig) - Generic and convenient std atomics.
 - [kay](https://github.com/aeplay/kay) - High-performance actor system framework for Rust.
 - [podman-api](https://github.com/vv9k/podman-api-rs) - Rust interface to Podman.
+- [Boxcar](https://github.com/ibraheemdev/boxcar) - Concurrent, append-only vector.
+- [Calloop](https://github.com/Smithay/calloop) - Callback-based Event Loop.
+- [rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function.
+- [LibRapid](https://github.com/LibRapid/LibRapidRust) - Highly optimized derivative of the LibRapid C++ library.
 
 ## Cargo Plugins
 
@@ -1632,6 +1636,7 @@
 - [cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker. ([Reddit](https://www.reddit.com/r/rust/comments/stq51v/announcing_cargozigbuild_compile_cargo_project/))
 - [cargo run-wasm](https://github.com/rukai/cargo-run-wasm) - Run WASM applications and examples in the browser.
 - [cargo-quickinstall](https://github.com/alsuren/cargo-quickinstall) - Pre-compiled binary packages for `cargo install`.
+- [cargo-diet](https://github.com/the-lean-crate/cargo-diet) - Help computing 'optimal' include directives for your Cargo.toml manifest.
 
 ## Links
 
@@ -1728,3 +1733,4 @@
 - [clawbang](https://github.com/chrisdickinson/clawbang) - Command line interface meant to bridge the gap between Rust and shell scripting.
 - [Rusts Module System Explained (2021)](https://aloso.github.io/2021/03/28/module-system.html)
 - [Rust's Universes (2021)](https://aloso.github.io/2021/03/10/rusts-universes.html)
+- [cmake-rs](https://github.com/alexcrichton/cmake-rs) - Rust build dependency for running cmake.

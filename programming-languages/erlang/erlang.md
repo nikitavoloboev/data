@@ -11,7 +11,7 @@
 - [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang.
 - [ErlPort](https://github.com/hdima/erlport) - Connect Erlang to other languages.
 - [Gradualizer](https://github.com/josefs/Gradualizer) - Gradual Type System for Erlang.
-- [Rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions.
+- [Rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions. ([Introducing Rustler Precompiled](https://dashbit.co/blog/rustler-precompiled))
 - [Ten Years of Erlang (2019)](https://ferd.ca/ten-years-of-erlang.html) ([HN](https://news.ycombinator.com/item?id=20382126))
 - [Learn you some Erlang book](https://learnyousomeerlang.com/content)
 - [Relx](https://github.com/erlware/relx) - Sane, simple release creation for Erlang.

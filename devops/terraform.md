@@ -141,3 +141,5 @@
 - [Terrarium](https://github.com/terrarium-tf/cli) - Tiny wrapper for Terraform to make loading env vars transparent by convention.
 - [DigitalOcean Terraform Provider](https://github.com/digitalocean/terraform-provider-digitalocean)
 - [Terraform provider for Keycloak](https://github.com/mrparkers/terraform-provider-keycloak)
+- [Terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
+- [Terraform Plugin Framework](https://github.com/hashicorp/terraform-plugin-framework) - Module for building Terraform providers.

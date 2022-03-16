@@ -254,3 +254,4 @@
 - [Life Beyond Distributed Transactions / Space-efficient Static Trees and Graphs](https://queue.acm.org/detail.cfm?id=3025012) ([Video Overview](https://www.youtube.com/watch?v=bbr67HUNBVI))
 - [Delicate](https://github.com/BinChengZhao/delicate) - Lightweight and distributed task scheduling platform written in rust.
 - [Practical Byzantium Fault Tolerant (PBFT) algorithm in Go](https://github.com/0xPolygon/pbft-consensus)
+- [chaosd](https://github.com/chaos-mesh/chaosd) - Chaos Engineering toolkit.

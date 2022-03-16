@@ -211,3 +211,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Asynchronous Messaging and Eventing Resources](https://github.com/clemensv/messaging)
 - [Some benefits of simple software architectures (2022)](https://www.wave.com/en/blog/simple-architecture/)
 - [A Sketch of the Biggest Idea in Software Architecture (2022)](http://www.oilshell.org/blog/2022/03/backlog-arch.html)
+- [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+- [Ask HN: Where are all the cool architecture diagrams? (2022)](https://news.ycombinator.com/item?id=30680022)

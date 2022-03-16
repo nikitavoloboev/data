@@ -158,6 +158,7 @@
 - [Async/Await is really just a subset of monads and do-notation for imperative languages](https://www.reddit.com/r/haskell/comments/t3wumj/asyncawait_is_really_just_a_subset_of_monads_and/)
 - [How to Use Monads without Understanding Them (2022)](https://elbear.com/how-to-use-monads-without-understanding-them.html) ([Reddit](https://www.reddit.com/r/haskell/comments/t8pksp/how_to_use_monads_without_understanding_them/))
 - [Functional Manipulation of Bit Streams](http://user.it.uu.se/~pergu/papers/bitstreams.pdf)
+- [Does Rust prevent more logic bugs than statically-typed pure FP languages? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/teskx2/does_rust_prevent_more_logic_bugs_than/)
 
 ## Images
 

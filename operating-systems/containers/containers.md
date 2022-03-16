@@ -190,3 +190,5 @@
 - [LXC vs Docker: Which Container Platform Is Right for You? (2022)](https://earthly.dev/blog/lxc-vs-docker/)
 - [Escaping privileged containers for fun (2022)](https://pwning.systems/posts/escaping-containers-for-fun/) ([HN](https://news.ycombinator.com/item?id=30576335))
 - [Linux containers in 500 lines of code (2016)](https://blog.lizzie.io/linux-containers-in-500-loc.html) ([HN](https://news.ycombinator.com/item?id=30623372))
+- [Podman can transfer container images without a registry (2022)](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry) ([HN](https://news.ycombinator.com/item?id=30678375))
+- [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/)

@@ -111,3 +111,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [CV auto-generated via GitHub Actions](https://github.com/dionhaefner/cv)
 - [Resume Parser](https://github.com/itsjafer/resume-parser) - Google Cloud function for querying Lever's resume parsing API.
 - [Resume Parser](https://resume-parser.vercel.app/) - Uses Lever's resume parsing API to parse resumes.
+- [Reactive Resume](https://rxresu.me/) - Free and open source resume builder. ([Code](https://github.com/AmruthPillai/Reactive-Resume))

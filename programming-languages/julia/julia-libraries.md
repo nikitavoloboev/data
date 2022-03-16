@@ -499,6 +499,8 @@
 - [Stonks.jl](https://github.com/alinski29/Stonks.jl) - Julia library for standardizing financial data retrieval and storage from multiple APIs.
 - [PyPlot](https://github.com/JuliaPy/PyPlot.jl) - Plotting for Julia based on matplotlib.pyplot.
 - [FillArrays.jl](https://github.com/JuliaArrays/FillArrays.jl) - Julia package for lazily representing matrices filled with a single entry.
+- [Configurations](https://github.com/Roger-luo/Configurations.jl) - Options & Configurations made easy.
+- [AMQPClient](https://github.com/JuliaComputing/AMQPClient.jl) - Julia AMQP (Advanced Message Queuing Protocol) / RabbitMQ Client.
 
 ## Links
 

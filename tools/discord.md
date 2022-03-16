@@ -36,6 +36,7 @@
 - [Hamood](https://github.com/nathanielfernandes/HamoodBot) - Discord bot written with discord.py that has a variety of helpful and fun functions.
 - [Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Moderation bot for Discord, designed with large servers and reliability in mind.
 - [awwbot](https://github.com/JustinBeckwith/awwbotcf) - Example of a Discord Bot using Cloudflare Workers.
+- [discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - Simple discord bot that helps you getting started within discord.py.
 
 ## Libraries
 

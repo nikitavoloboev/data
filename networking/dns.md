@@ -4,6 +4,7 @@
 
 - [`dig +noall +answer DOMAIN` will get just the DNS info you want.](https://twitter.com/b0rk/status/1387490109168173057)
 - [Can get your IP using DNS instead of HTTP: `dig +short -4 A myip.opendns.com @resolver1.opendns.com`. For IPv6: `dig +short -6 AAAA myip.opendns.com @resolver1.ipv6-sandbox.opendns.com`](https://lobste.rs/s/0kqjna/new_future_for_icanhazip)
+- [The fact that half of Silicon Valley is working hard on "web3" crypto scams while DNS - literally the backbone of almost every Internet query remains insecure, unverified with records taking days to update via TTL is probably the most absurd thing in modern tech.](https://twitter.com/filippie509/status/1503107151144767490)
 
 ## Links
 

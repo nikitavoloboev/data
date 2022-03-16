@@ -184,6 +184,7 @@
 - [Merge Dependabot](https://github.com/fastify/github-action-merge-dependabot) - Automatically approves and merges dependabot PRs.
 - [shot-scraper](https://github.com/simonw/shot-scraper) - Automated screenshots for documentation, built on Playwright. ([Article](https://simonwillison.net/2022/Mar/10/shot-scraper/)) ([HN](https://news.ycombinator.com/item?id=30621802))
 - [Semver Release](https://github.com/K-Phoen/semver-release-action) - Automatically create SemVer compliant releases based on PR labels.
+- [Updater Action](https://github.com/github/dependabot-action) - Runs Dependabot workloads via GitHub Actions.
 
 ## Go
 
@@ -211,6 +212,7 @@
 - [Cargo Bloat Action](https://github.com/orf/cargo-bloat-action) - Track rust binary sizes across builds using Github Actions.
 - [Rust Release Binary](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions.
 - [Cargo install action](https://github.com/baptiste0928/cargo-install) - GitHub action for cache-efficient Rust crates installation.
+- [Awesome Rust Actions](https://github.com/actions-rs/awesome-rust-actions)
 
 ## Python
 

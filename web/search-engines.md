@@ -207,3 +207,5 @@
 - [Awesome Search](https://github.com/frutik/awesome-search) - All about the (e-commerce) search and its awesomeness.
 - [Virtualpaper](https://github.com/tryffel/virtualpaper) - Document management system with full-text-search.
 - [couch](https://github.com/anoriqq/couch) - Simple full text search engine written in Go.
+- [Tantiny](https://github.com/baygeldin/tantiny) - Tiny full-text search for Ruby powered by Tantivy.
+- [Searchengines.guru](https://searchengines.guru/en)

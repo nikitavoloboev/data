@@ -4,7 +4,7 @@
 
 ## CLI
 
-- [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+- [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift. ([Tweet](https://twitter.com/nnnnnnnn/status/1503625270279950341))
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
 - [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.
 - [Ashen](https://github.com/colinta/Ashen) - Framework for writing terminal applications in Swift.
@@ -442,6 +442,8 @@
 - [SymbolPicker](https://github.com/xnth97/SymbolPicker) - Simple and cross-platform SFSymbol picker for SwiftUI.
 - [SwiftUI-Animation](https://github.com/KeatoonMask/SwiftUI-Animation) - Animations built using SwiftUI framework.
 - [MSLView](https://github.com/audulus/MSLView) - SwiftUI view for Shadertoy-style MSL shaders.
+- [Focuser](https://github.com/art-technologies/swift-focuser) - Focus text field in SwiftUI dynamically and progress through form using iOS keyboard.
+- [UIPilot](https://github.com/canopas/UIPilot) - Typesafe SwiftUI navigation library. ([Reddit](https://www.reddit.com/r/iOSProgramming/comments/tei596/swiftui_complex_navigation_made_easier_with/))
 
 ## Test
 
@@ -1006,6 +1008,7 @@
 - [SwiftDraw](https://github.com/swhitty/SwiftDraw) - Swift library for parsing and drawing SVG images to CoreGraphics contexts.
 - [Async+](https://github.com/async-plus/async-plus) - Chainable interface for Swift's async/await.
 - [AsyncExtensions](https://github.com/AsyncCommunity/AsyncExtensions) - Collection of operators, async sequences and async streams that mimics Combine behaviour.
+- [ISSoundAdditions](https://github.com/InerziaSoft/ISSoundAdditions) - Swift Sound class to read and modify the system volume effortlessly.
 
 ## Other (not lib)
 

@@ -57,3 +57,5 @@
 - [Run Your Home on a Raspberry Pi](https://pragprog.com/titles/mrpython/portable-python-projects/) ([HN](https://news.ycombinator.com/item?id=30177362))
 - [SaunaKit](https://github.com/quicklywilliam/saunakit) - Remote-operable smart Sauna.
 - [My smart home 2021: A Home Assistant love story (2021)](https://jorisroovers.com/posts/my-smart-home-2021) ([HN](https://news.ycombinator.com/item?id=30349767)) ([Code](https://github.com/jorisroovers/casa))
+- [python-kasa](https://github.com/python-kasa/python-kasa) - Python library to control TPLink smart home devices (plugs, wall switches, power strips, and bulbs) using asyncio.
+- [OpenHAB](https://www.openhab.org/) - Vendor and tech agnostic open source automation software for your home. ([HN](https://news.ycombinator.com/item?id=30667846))

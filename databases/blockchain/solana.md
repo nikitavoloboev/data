@@ -85,7 +85,7 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solanart](https://solanart.io/) - Discover, collect and trade NFTs.
 - [Solana.py](https://github.com/michaelhly/solana-py) - Solana Python SDK.
 - [Solsea](https://solsea.io/) - Open NFT Marketplace on Solana.
-- [Quarry](https://github.com/QuarryProtocol/quarry) - Open protocol for launching liquidity mining programs on Solana.
+- [Quarry](https://github.com/QuarryProtocol/quarry) - Open protocol for launching liquidity mining programs on Solana. ([Web](https://app.quarry.so/))
 - [solana-go](https://github.com/streamingfast/solana-go) - Go library for the Solana Blockchain.
 - [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 - [Solana App Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp built on Solana.

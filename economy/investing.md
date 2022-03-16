@@ -250,3 +250,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Tight Shorts](https://tightshorts.ru/) - Daily Short Sale Volume. Presents FINRA reports in a more visual form. ([Code](https://github.com/samgozman/tightshorts))
 - [Barchart.com](https://www.barchart.com/) - Commodity, Stock, and Currency Quotes, Charts, News & Analysis. ([Fetch Data Code](https://github.com/samgozman/barchart-dot-com))
 - [stonky](https://github.com/jkwill87/stonky) - Command line dashboard for monitoring stocks.
+- [Investing books](https://www.reddit.com/r/Bogleheads/comments/tdg583/im_getting_a_book_reading_list_together_so_far_i/)

@@ -28,3 +28,4 @@
 - [gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
 - [argamak](https://github.com/tynanbe/argamak) - Gleam library for tensor maths.
 - [A Portrait of the Language Designer as a Young Man: Interview with Louis Pilfold (2021)](https://serokell.io/blog/interview-with-louis-pilfold)
+- [tree-sitter-gleam](https://github.com/gleam-lang/tree-sitter-gleam)

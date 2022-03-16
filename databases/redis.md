@@ -62,7 +62,7 @@
 - [KeyDB CEO Interview: Getting into YC with a Fork of Redis](https://console.dev/qa/keydb-john-sully/) ([HN](https://news.ycombinator.com/item?id=26956846))
 - [Using a disk-based Redis clone to reduce AWS S3 bill (2021)](https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill) ([HN](https://news.ycombinator.com/item?id=26955404))
 - [Redis Simple Message Queue](https://github.com/smrchy/rsmq)
-- [reqlite](https://github.com/augmentable-dev/reqlite) - Query Redis with SQL.
+- [reqlite](https://github.com/augmentable-dev/reqlite) - Query Redis with SQL. ([Fork](https://github.com/redis-developer/reqlite))
 - [RedisLess](https://github.com/Qovery/RedisLess) - Fast, lightweight, embedded and scalable in-memory Key/Value store library compatible with the Redis API. ([Article](https://www.heapstack.sh/redisless-blazingly-fast-serverless-redis))
 - [Redis Internals](https://github.com/zpoint/Redis-Internals) - Analyze Redis 5.0 source code through diagrams.
 - [Codis](https://github.com/CodisLabs/codis) - Proxy based high performance Redis cluster solution written in Go.

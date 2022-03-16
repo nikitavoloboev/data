@@ -391,6 +391,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Guards](https://github.com/sniptt-official/guards) - Comprehensive collection of type guards for JavaScript and TypeScript; Inspired by Elixir.
 - [striff](https://github.com/alexmacarthur/striff) - Real simple string diffing.
 - [io-ts-strings](https://github.com/jessekelly881/io-ts-strings) - String types for io-ts.
+- [Event Bus](https://github.com/trutoo/event-bus) - Typesafe cross-platform pubsub event bus ensuring reliable communication.
+- [Tiny WASI](https://github.com/qrdate/tinywasi) - Tiny WASI runtime written in TypeScript. ([HN](https://news.ycombinator.com/item?id=30693936))
 
 ## Links
 
@@ -438,3 +440,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [publib](https://github.com/cdklabs/publib) - Unified toolchain for publishing libraries to popular package managers.
 - [ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation.
 - [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node.
+- [JSON to TS](https://github.com/MariusAlch/json-to-ts) - Convert JSON object to typescript interfaces.

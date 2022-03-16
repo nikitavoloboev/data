@@ -296,3 +296,5 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Nyoom.nvim](https://github.com/shaunsingh/nyoom.nvim) - Blazing fast, configurable, minimal and lispy neovim config written in Fennel.
 - [vim-jetpack](https://github.com/tani/vim-jetpack) - Lightning-fast minimalist plugin manager for Vim/Neovim.
 - [Ultimate vimrc](https://github.com/amix/vimrc)
+- [Litee.nvim](https://github.com/ldelossa/litee.nvim) - Library for building "IDE-lite" experiences in Neovim.
+- [boilit](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure for neovim plugins.

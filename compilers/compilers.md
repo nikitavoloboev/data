@@ -204,3 +204,4 @@
 - [monoasm](https://github.com/sisshiki1969/monoasm) - In-memory x86-64 assembler for JIT compiler.
 - [Crafting A Lox Interpreter In Rust (2022)](https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/)
 - [Writing a minimal x86-64 JIT compiler in C++](https://github.com/sol-prog/x86-64-minimal-JIT-compiler-Cpp)
+- [OpenRAM](https://github.com/VLSIDA/OpenRAM) - Open-source static random access memory (SRAM) compiler. ([Web](https://openram.soe.ucsc.edu/))

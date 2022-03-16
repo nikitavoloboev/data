@@ -154,3 +154,4 @@
 - [GeoParquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
 - [CGC: Clustering Geo-Data Cubes](https://github.com/phenology/cgc) - Clustering tool for geospatial applications.
 - [Mercantile](https://github.com/mapbox/mercantile) - Spherical mercator coordinate and tile utilities.
+- [YoMo](https://www.yomo.run/) - Open source geo-distributed serverless framework for real-time data processing. ([GitHub](https://github.com/yomorun)) ([Code](https://github.com/yomorun/yomo))

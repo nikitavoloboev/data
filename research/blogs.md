@@ -109,6 +109,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Ludwig Stecher](https://aloso.github.io/)
 - [Ben Siraphob](https://siraben.dev/)
 - [Aaron Hertzmann](https://aaronhertzmann.com/)
+- [Farid Zakaria](https://fzakaria.com/)
 
 ## Notes
 

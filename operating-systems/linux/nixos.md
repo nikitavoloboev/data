@@ -199,3 +199,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Remote, encrypted ZFS storage server with NixOS (2022)](https://mazzo.li/posts/hetzner-zfs.html)
 - [Plex on NixOS (2022)](https://arne.me/blog/plex-on-nixos/) ([Lobsters](https://lobste.rs/s/jyoukv/plex_on_nixos))
 - [NixNG](https://github.com/MagicRB/NixNG) - GNU/Linux distribution, which may be a considered a late sibling to NixOS.
+- [RPATH, or why lld doesn’t work on NixOS (2022)](https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html) ([HN](https://news.ycombinator.com/item?id=30688815))

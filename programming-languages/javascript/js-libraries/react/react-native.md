@@ -1,5 +1,7 @@
 # [React Native](https://facebook.github.io/react-native/)
 
+[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat.
+
 ## Nice OSS RN apps
 
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
@@ -196,3 +198,4 @@
 - [React Native Interactive Walkthrough](https://github.com/tribefyhq/react-native-interactive-walkthrough)
 - [Deep dive into React Native JSI (2022)](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06)
 - [React Native Toast Message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native.
+- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100))

@@ -835,6 +835,7 @@
 - [clb](https://github.com/crswll/clb) - Small, utility function that builds a class list based on a simple API.
 - [Compatto](https://github.com/macarie/compatto) - Tiny and fast string compression library.
 - [LemonadeJS](https://github.com/lemonadejs/lemonadejs) - Micro (6Kb) reactive, with a two-way data binding, no dependencies, JavaScript library that aims to be as close to JavaScript Vanilla as possible.
+- [undom](https://github.com/developit/undom) - Minimally viable DOM Document implementation.
 
 ## Links
 

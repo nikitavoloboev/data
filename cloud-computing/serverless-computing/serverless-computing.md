@@ -148,3 +148,5 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless Data](https://www.serverless.com/cloud/docs/apps/data) - Super fast, automatically scalable datastore that's built in to Serverless Cloud. ([Utilities for Serverless Data](https://github.com/loreanvictor/serverless-cloud-data-utils))
 - [Inngest](https://www.inngest.com/) - Build serverless event-driven functions in minutes. ([Twitter](https://twitter.com/inngest))
 - [TriggerFlow](https://github.com/triggerflow/triggerflow) - Event-based Orchestration of Serverless Workflows.
+- [Serverless Monorepo Microservices Template](https://github.com/swarmion/template)
+- [Swarmion](https://github.com/swarmion/swarmion) - Set of tools to build and deploy type-safe Serverless microservices.

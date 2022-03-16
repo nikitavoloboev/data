@@ -723,3 +723,4 @@
 - [Tensil](https://www.tensil.ai/) - Open-Source ML Accelerators. ([HN](https://news.ycombinator.com/item?id=30643520)) ([Code](https://github.com/tensil-ai/tensil))
 - [Ask HN: What ML platform are you using? (2022)](https://news.ycombinator.com/item?id=30658324)
 - [Graphsignal](https://graphsignal.com/) - Machine Learning Profiler. ([HN](https://news.ycombinator.com/item?id=30628618))
+- [Machine Learning and AI with Go](https://github.com/dwhitena/gc-ml)

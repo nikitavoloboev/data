@@ -256,6 +256,10 @@
 - [time](https://github.com/haskell/time) - Haskell time library.
 - [unix](https://github.com/haskell/unix) - POSIX functionality.
 - [Functional Graph Library](https://github.com/haskell/fgl)
+- [objective](https://github.com/fumieval/objective) - Purely functional objects.
+- [boomerang](https://github.com/Happstack/boomerang) - Library which provides invertible parsing and printing.
+- [mustache](https://github.com/JustusAdam/mustache) - Haskell implementation of mustache templates.
+- [Flow](https://github.com/tfausak/flow) - Write more understandable Haskell.
 
 ## Notes
 

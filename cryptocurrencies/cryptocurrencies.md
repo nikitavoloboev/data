@@ -39,6 +39,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [One crypto application I'm fully convinced by is decentralized money: Money the government can't touch.](https://twitter.com/devonzuegel/status/1462138666520883208)
 - [Many crypto projects are thinly disguised securities sales, designed to skirt around regulation.](https://twitter.com/smdiehl/status/1465356549707251717)
 - [No one company or person should have unilateral control over our social and financial infrastructure on the internet. Crypto provides a viable technical path to actually achieve that in practice.](https://twitter.com/js_horne/status/1498731784393089033)
+- [Crypto"currencies" aren't currencies for very obvious reasons. They economics are deflationary, the transaction throughput doesn't scale, are too volatile to conduct commerce in and there's no mechanism for the volatility to ever subside.](https://twitter.com/smdiehl/status/1502938255326601218)
 
 ## Links
 

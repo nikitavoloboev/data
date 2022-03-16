@@ -306,3 +306,8 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixpack](https://github.com/flatironinstitute/nixpack) - nix+spack.
 - [nix-html](https://github.com/ursi/nix-html) - HTML DSL for Nix.
 - [nickel-nix](https://github.com/nickel-lang/nickel-nix) - Experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.
+- [What's new in Nix 2.7.0? (2022)](https://www.youtube.com/watch?v=TzQpmDrnRQA)
+- [Nix Bundlers](https://github.com/NixOS/bundlers) - Way to transform derivations.
+- [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/introduction/) ([HN](https://news.ycombinator.com/item?id=30681182))
+- [The hard part of type-checking Nix (2022)](https://www.haskellforall.com/2022/03/the-hard-part-of-type-checking-nix.html)
+- [Shrinkwrap: Taming dynamic shared objects (2022)](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)

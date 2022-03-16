@@ -301,3 +301,5 @@
 - [Bacon](https://github.com/dag-org/bacon) - Framework for orchestrating machine learning experiments on AWS.
 - [PyClustering](https://github.com/annoviko/pyclustering) - Python, C++ data mining library.
 - [PQk-means](https://github.com/DwangoMediaVillage/pqkmeans) - Fast and memory-efficient clustering.
+- [LeanTransformer](https://github.com/learning-at-home/lean_transformer) - Memory-efficient transformer.
+- [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment. Built on top of PyTorch and PostgreSQL.

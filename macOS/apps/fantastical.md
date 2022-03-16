@@ -24,3 +24,5 @@ I often switch between `Week` and `Month` views.
 - [Radicale](https://github.com/Kozea/Radicale) - Simple CalDAV (calendar) and CardDAV (contact) server. ([Web](https://radicale.org/))
 - [Add-to-Calendar Button](https://github.com/jekuer/add-to-calendar-button) - Convenient JavaScript snippet, which lets you create beautiful buttons, where people can add events to their calendars.
 - [Cal.com](https://cal.com/) - Open Scheduling Infrastructure. ([Code](https://github.com/calcom/cal.com))
+- [ics](https://github.com/adamgibbons/ics) - iCalendar generator.
+- [Datebook](https://github.com/jshor/datebook) - Generates URLs and downloadable ICS files for adding events to popular calendar apps. ([Web](https://datebook.dev/))

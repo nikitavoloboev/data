@@ -26,7 +26,8 @@
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
-- [Twitter TS](https://github.com/twitterjs/twitter.js)
+- [Twitter TS](https://github.com/twitterdev/twitter-api-typescript-sdk)
+- [Twitter TS 2](https://github.com/twitterjs/twitter.js)
 - [Twitter Go](https://github.com/mattn/twty)
 - [Twitter Go 2](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Twitter Go 3](https://github.com/bloveless/tweetgo)
@@ -354,3 +355,4 @@
 - [How to Design Better APIs (2022)](https://r.bluethl.net/how-to-design-better-apis) ([HN](https://news.ycombinator.com/item?id=30647784))
 - [Postman to k6](https://github.com/apideck-libraries/postman-to-k6) - Converts Postman collections to k6 script code.
 - [What caused the Uber Eats glitch that allowed ordering free food for a weekend in India](https://twitter.com/GergelyOrosz/status/1502947315279187979)
+- [Cadl](https://github.com/microsoft/cadl) - Language for describing cloud service APIs and generating other API description languages, client and service code, documentation, and other assets.

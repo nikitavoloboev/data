@@ -36,3 +36,4 @@
 - [Fabruic](https://github.com/khonsulabs/fabruic) - Easy-to-use QUIC-based protocol that supports reliable payload delivery.
 - [QUIC interop runner](https://github.com/marten-seemann/quic-interop-runner)
 - [s2n-quic](https://github.com/aws/s2n-quic) - Rust implementation of the IETF QUIC protocol.
+- [Awesome QUIC](https://github.com/xileteam/awesome-quic)

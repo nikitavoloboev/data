@@ -77,7 +77,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Chronoshift](https://github.com/TheAssemblyArmada/Chronoshift) - Open Source Re-Implementation of Command and Conquer: Red Alert.
 - [FreeAge](https://github.com/puzzlepaint/freeage) - Open-source reimplementation of the game engine of Age of Empires 2: Definitive Edition.
 - [Good Web Game](https://github.com/not-fl3/good-web-game) - Minimal 2d game framework for wasm.
-- [Veloren](https://veloren.net/) - Open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ([Code](https://github.com/veloren/veloren)) ([Launcher](https://github.com/Songtronix/Airshipper)) ([HN](https://news.ycombinator.com/item?id=26037461))
+- [Veloren](https://veloren.net/) - Open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ([Code](https://github.com/veloren/veloren)) ([Launcher](https://github.com/Songtronix/Airshipper)) ([HN](https://news.ycombinator.com/item?id=26037461)) ([HN](https://news.ycombinator.com/item?id=30667022))
 - [Paddlers](https://github.com/jakmeier/paddlers-browser-game) - Multi-player real-time strategy browser game.
 - [Orb.Farm](https://orb.farm/) - Sealed aquatic ecosystem. ([Code](https://github.com/MaxBittker/orb.farm)) ([Lobsters](https://lobste.rs/s/8d3bfo/orb_farm_virtual_aquatic_ecosystem))
 - [Asteroids](https://justinmimbs.github.io/rs-asteroids/) - Variation on the game Asteroids, written in Rust. ([Code](https://github.com/justinmimbs/rs-asteroids))
@@ -181,6 +181,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What are some of your favorite short single player campaign games? (2022)](https://www.reddit.com/r/patientgamers/comments/ss2vvc/what_are_some_of_your_favorite_short_single/)
 - [What's your favorite video game of all time? (2022)](https://www.reddit.com/r/AskMen/comments/swaycl/whats_your_favourite_videogame_of_all_time/)
 - [Ask HN: What are you favorite games? (2022)](https://news.ycombinator.com/item?id=30477328)
+- [List of underrated titles on PS4 (2022)](https://www.reddit.com/r/PS4/comments/tdnlgw/a_fat_list_of_underrated_titles_on_ps4/)
 
 ## Links
 
@@ -279,3 +280,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Recommendations for building small gaming PC (2022)](https://twitter.com/ChristianSelig/status/1493619687304966145)
 - [Piepacker](https://piepacker.com/) - Free cloud gaming platform to hangout and play premium retro games with your friends online from any device.
 - [What made World of Warcraft's environments so compelling? (2022)](https://www.erichgrunewald.com/posts/what-made-world-of-warcrafts-environments-so-compelling/) ([HN](https://news.ycombinator.com/item?id=30414470))
+- [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.

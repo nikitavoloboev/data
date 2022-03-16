@@ -315,3 +315,4 @@
 - [react-worker-components-plugin](https://github.com/Aslemammad/react-worker-components-plugin) - Plugin that renders components in web workers and not in the main thread.
 - [React Fast Accordion](https://github.com/ShivamJoker/React-fast-accordion) - Dynamic, fast & zero dependency accordions for React. ([Reddit](https://www.reddit.com/r/reactjs/comments/sxnuli/my_new_library_is_now_out_reactfastaccordion_zero/))
 - [LocatorJS](https://www.locatorjs.com/) - Click on any component to go to code. ([Code](https://github.com/infi-pc/locatorjs))
+- [Ladle](https://github.com/tajo/ladle) - Environment to develop, test and share your React components faster. ([Web](https://www.ladle.dev/)) ([Intro](https://www.ladle.dev/blog/introducing-ladle/))

@@ -531,3 +531,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Starknet Node](https://github.com/odyslam/starknet-node) - Easiest way to deploy a Starknet Node on a Raspberry Pi and begin verifying L2 state transitions, directly from your Raspberry Pi.
 - [ERC721A](https://www.erc721a.org/) - Improved implementation of the IERC721 standard that supports minting multiple tokens for close to the cost of one. ([Code](https://github.com/chiru-labs/ERC721A))
 - [Solidity playground to learn all the basic ERCs, defi apps, NFT implementations and gas optimizations](https://github.com/dsam82/ps)
+- [Ethsig-rs](https://github.com/odyslam/ethsig-rs) - Cloudflare worker that enables any backend service to use Sign In With Ethereum (SIWE) as an authetnication method. ([Tweet](https://twitter.com/odyslam_/status/1502180150040928259))
+- [Cacheable Beacon Proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with minimal overhead.
+- [cosigneth](https://cosigneth.dev/) - Container Image Signing & Verifying on Ethereum. ([Code](https://github.com/Dentrax/cosigneth))

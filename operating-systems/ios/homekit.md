@@ -29,3 +29,4 @@
 - [HomeSpan](https://github.com/HomeSpan/HomeSpan) - HomeKit Library for the Arduino-ESP32.
 - [hap](https://github.com/brutella/hap) - HomeKit Accessory Protocol (hap) implemented in Go.
 - [Awesome Homebridge](https://github.com/sahilchaddha/awesome-homebridge)
+- [HomeMenu](https://github.com/sonsongithub/HomeMenu) - App to control HomeKit Devices from macOS system menu.

@@ -143,6 +143,8 @@
 - [Quark](https://github.com/witchcrafters/quark) - Common combinators for Elixir.
 - [Protox](https://github.com/ahamez/protox) - Fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers.
 - [Flow](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage. ([Intro to Elixir Flow](https://blog.joelabshier.com/%F0%9F%8C%8A-a-realworld-introduction-to-elixir-flow/))
+- [Jsonrs](https://github.com/benhaney/Jsonrs) - Rust powered JSON library for Elixir.
+- [Semaphore](https://github.com/discord/semaphore) - Fast semaphore using ETS.
 
 ## Links
 
@@ -150,3 +152,4 @@
 - [ExDoc](https://github.com/elixir-lang/ex_doc) - Tool to generate documentation for your Elixir projects. ([Tweet](https://twitter.com/fhunleth/status/1460430228271112196))
 - [Log all the things - features of Elixir 1.11 Logger application (2022)](https://hauleth.dev/post/log-all-the-things/) ([Lobsters](https://lobste.rs/s/i29sqw/log_all_things_features_elixir_1_11_logger))
 - [Introduction to Telemetry in Elixir (2022)](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir) ([Lobsters](https://lobste.rs/s/ywwxdj/introduction_telemetry_elixir))
+- [A Guide to Secure Elixir Package Updates (2022)](https://blog.appsignal.com/2022/03/15/a-guide-to-secure-elixir-package-updates.html)

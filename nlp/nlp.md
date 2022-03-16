@@ -69,7 +69,7 @@
 - [Language Identification from Very Short Strings (2019)](https://machinelearning.apple.com/2019/07/24/language-identification-from-very-short-strings.html)
 - [SentenceRepresentation](https://github.com/fh295/SentenceRepresentation) - Code acompanies the paper 'Learning Sentence Representations from Unlabelled Data' Felix Hill, KyungHyun Cho and Anna Korhonen 2016.
 - [Deep Learning for Language Processing course](https://fh295.github.io/teaching.html)
-- [Megatron LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2. ([Megatron with FastMoE](https://www.bodunhu.com/blog/posts/megatron-with-fastmoe/))
+- [Megatron LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2. ([Megatron with FastMoE](https://www.bodunhu.com/blog/posts/megatron-with-fastmoe/)) ([Fork](https://github.com/microsoft/Megatron-DeepSpeed))
 - [XLNet](https://github.com/zihangdai/xlnet) - New unsupervised language representation learning method based on a novel generalized permutation language modeling objective.
 - [ALBERT](https://github.com/google-research/ALBERT) - Lite BERT for Self-supervised Learning of Language Representations.
 - [BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
@@ -497,3 +497,5 @@
 - [Large Models of Source Code](https://github.com/VHellendoorn/Code-LMs) - Guide to using pre-trained large language models of source code.
 - [HyperMixer: An MLP-based Green AI Alternative to Transformers (2022)](https://arxiv.org/abs/2203.03691)
 - [NLP Course Material & QA](https://github.com/thunlp/NLP-THU)
+- [Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey) - Collection of 700+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML).
+- [Awesome CLIP](https://github.com/yzhuoning/Awesome-CLIP) - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).

@@ -73,3 +73,4 @@
 - [Google Rust APIs](https://github.com/Byron/google-apis-rs) - Binding and CLI generator for all Google APIs.
 - [Google APIs Client Library for Go](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
 - [gcloudx](https://github.com/emicklei/gcloudx) - Extra features for accessing the Google Cloud Platform.
+- [Updates to Google Cloud’s infrastructure capabilities and pricing (2022)](https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing) ([HN](https://news.ycombinator.com/item?id=30671997))
