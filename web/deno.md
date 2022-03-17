@@ -193,3 +193,4 @@
 - [ReScript on Deno: Declarative Command Line Tools](https://practicalrescript.com/rescript-on-deno-declarative-command-line-tools/) ([Reddit](https://www.reddit.com/r/javascript/comments/t7buew/rescript_on_deno_declarative_command_line_tools/))
 - [Deno Installer](https://github.com/marc2332/deno_installer) - Create installers for your Deno apps.
 - [deno_task_shell](https://github.com/denoland/deno_task_shell) - Cross platform scripting proof of concept for deno task.
+- [Deno is Webby (2022)](https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/) ([HN](https://news.ycombinator.com/item?id=30703531))

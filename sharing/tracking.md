@@ -55,3 +55,4 @@ Here is a list of various things I track for my own use and reference.
 - [Ask HN: What metrics do you pay attention to? (2021)](https://news.ycombinator.com/item?id=29187506)
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line.
 - [Nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google.
+- [QuantifiedMe](https://github.com/ErikBjare/quantifiedme) - Loading and plotting of various Quantified Self data sources.

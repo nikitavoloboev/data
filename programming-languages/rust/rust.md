@@ -731,3 +731,6 @@
 - [Implementing RAII guards in Rust (2021)](https://aloso.github.io/2021/03/18/raii-guards.html)
 - [Creating an Iterator in Rust (2021)](https://aloso.github.io/2021/03/09/creating-an-iterator.html)
 - [An In-Depth Introduction To Idempotency (2022)](https://www.lpalmieri.com/posts/idempotency/)
+- [Live-Coding Rust with Tim McNamara – Functional Futures (2022)](https://www.youtube.com/watch?v=U7EdJ8rtS28) ([Transcript](https://serokell.io/blog/live-coding-rust-with-tim-mcnamara))
+- [OXUI](https://github.com/cksac/oxui) - Cross platform native GUI in Rust.
+- [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)

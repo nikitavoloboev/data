@@ -152,3 +152,4 @@
 - [Bayesian inference of phylogeny is robust to substitution model over-parameterization (2022)](https://www.biorxiv.org/content/10.1101/2022.02.17.480861v1) ([Tweet](https://twitter.com/SebastianHoehna/status/1495665862891745286))
 - [The Kalman Filter. Helping Chickens Cross the Road (2022)](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/) ([HN](https://news.ycombinator.com/item?id=30485962))
 - [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling) ([Tweet](https://twitter.com/rickasaurus/status/1503021666179461122))
+- [Regression, a Friendly Guide Book (2022)](https://www.manning.com/books/regression-a-friendly-guide) ([Code](https://github.com/mbrudd/regression))

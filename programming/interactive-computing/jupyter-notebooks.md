@@ -180,3 +180,4 @@
 - [Try Jupyter](https://jupyter.org/try)
 - [Build dashboards using Jupyter Notebooks](https://github.com/danielfrg/jupyter-flex)
 - [pythreejs](https://github.com/jupyter-widgets/pythreejs) - Python / ThreeJS bridge for Jupyter Widgets.
+- [JupyterLab App Template](https://github.com/jtpio/jupyterlab-app-template)

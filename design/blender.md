@@ -65,3 +65,5 @@
 - [Blender 3.1 (2022)](https://www.blender.org/download/releases/3-1/) ([HN](https://news.ycombinator.com/item?id=30617723))
 - [Blender Reddit Wiki](https://www.reddit.com/r/blender/wiki/index)
 - [Blender CAD Tools](https://github.com/EleotleCram/blender-cad-tools)
+- [Differential Growth for Blender](https://github.com/inca/blender-differential-growth)
+- [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.

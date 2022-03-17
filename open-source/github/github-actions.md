@@ -185,6 +185,7 @@
 - [shot-scraper](https://github.com/simonw/shot-scraper) - Automated screenshots for documentation, built on Playwright. ([Article](https://simonwillison.net/2022/Mar/10/shot-scraper/)) ([HN](https://news.ycombinator.com/item?id=30621802))
 - [Semver Release](https://github.com/K-Phoen/semver-release-action) - Automatically create SemVer compliant releases based on PR labels.
 - [Updater Action](https://github.com/github/dependabot-action) - Runs Dependabot workloads via GitHub Actions.
+- [Nrwl Nx Action](https://github.com/MansaGroup/nrwl-nx-action) - GitHub Action to wrap Nrwl Nx commands in your workflows.
 
 ## Go
 
@@ -198,6 +199,7 @@
 - [Go version action](https://github.com/arnested/go-version-action) - Action for using the latest released Go version and your projects minimal support Go version.
 - [Revive Action](https://github.com/morphy2k/revive-action) - Lint your Go code with Revive.
 - [goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Available as GitHub action.
+- [x](https://github.com/go-faster/x) - Go faster reusable workflows.
 
 ## Rust
 
@@ -270,6 +272,7 @@
 
 ## Nix
 
+- [Nix CI Demo](https://github.com/nixbuild/ci-demo)
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 - [nix-profile-action](https://github.com/yaxitech/nix-profile-action) - GitHub Action to install an ephemeral Nix profile.
@@ -298,6 +301,10 @@
 ## Racket
 
 - [Setup Racket](https://github.com/Bogdanp/setup-racket) - GH action for installing Racket.
+
+## Swift
+
+- [SwiftPM Jazzy Docs](https://github.com/sersoft-gmbh/swifty-docs-action) - Generates and combines jazzy docs for all products of a Swift package.
 
 ## Scala
 

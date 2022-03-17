@@ -32,3 +32,4 @@
 - [fastify/restartable](https://github.com/fastify/restartable) - Restart Fastify without losing a request. ([Tweet](https://twitter.com/delvedor/status/1495810969142022150))
 - [fastify-etag](https://github.com/fastify/fastify-etag) - Automatically generate etags for HTTP responses, for Fastify.
 - [Fastify Socket.io](https://github.com/alemagio/fastify-socket.io)
+- [fastify-sentry](https://github.com/immobiliare/fastify-sentry) - Sentry errors handler for fastify that just works! Install, add your DSN and you're good to go.

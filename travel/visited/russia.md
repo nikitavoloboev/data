@@ -1,6 +1,10 @@
 # Russia
 
-TL;DR Russia and its people are beautiful but [Russian government is the worst and we need to do everything to educate and mobilize the majority of Russians to move towards democratic non presidential model of government](https://twitter.com/Kasparov63/status/1498380622473179144).
+TL;DR Russia and most of its people are beautiful and kind but [Russian government is the worst (oppresses freedom and stops prosperity)](https://twitter.com/Kasparov63/status/1498380622473179144). Need to do everything to educate and mobilize the majority of Russians to realize the true situation they are in and mobilize them to voice their opinion for a more democratic and perhaps republic way of government. Where presidential ability can never grow to the extent of a dictatorship.
+
+As for how to get there, for one, western governments should not stop the flow of information between countries ([should not block research from Russians being published, should stop labeling all Russians as aggressors etc.](https://www.youtube.com/watch?v=rTwrrqwa0f4)). Secondly, there should be tools built that can circumvent ability for government to block out ability for people to organize into massive crowds of people at will.
+
+> Below is mostly just my opinion on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 10. Rest I get from outside media, friends and my occasional visits).
 
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
@@ -504,3 +508,8 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [There are not enough BTUs (2022)](https://viscosityredux.substack.com/p/there-are-not-enough-btus?s=r) ([HN](https://news.ycombinator.com/item?id=30680477))
 - [Russia to pay off foreign debt in Chinese yuan (2022)](https://www.reddit.com/r/Economics/comments/te7we3/russia_to_pay_off_foreign_debt_in_chinese_yuan/)
 - [Can Russia deescalate the war (2022)](https://twitter.com/kamilkazani/status/1503768312236421120)
+- [Ирина Прохорова: «Можно закрыть границы, но запретить думать невозможно» (2022)](https://www.youtube.com/watch?v=rTwrrqwa0f4)
+- [Russia’s Logistical Problems May Slow Down Russia’s Advance—But They Are Unlikely to Stop It - Modern War Institute (2022)](https://mwi.usma.edu/russias-logistical-problems-may-slow-down-russias-advance-but-they-are-unlikely-to-stop-it/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/tew3c3/russias_logistical_problems_may_slow_down_russias/))
+- [The Russian Sanctions Regime and the Risk of Catastrophic Success (2022)](https://warontherocks.com/2022/03/the-russian-sanctions-regime-and-the-risk-of-catastrophic-success/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/ter2cy/the_russian_sanctions_regime_and_the_risk_of/))
+- [Russia Nuclear Threat: A Hard Look at the Risk of a Putin-Ordered Tactical Nuke (2022)](https://www.nationalreview.com/the-morning-jolt/a-hard-look-at-the-risk-of-a-putin-ordered-tactical-nuke/)
+- [1 рубль — это много, когда нас много](https://365.nuzhnapomosh.ru/)

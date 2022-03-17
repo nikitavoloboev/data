@@ -4,7 +4,7 @@ It's unfortunate [what Ukraine has to deal through](https://war.ukraine.ua/) due
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
-I hope once Putin finally loses power, Russia stops unlawfully occupying and harassing Ukraine.
+I hope once Putin finally loses power, Russia stops unlawfully occupying and harassing Ukraine and pays for the damage it inflicted on the country.
 
 ## Links
 
@@ -100,3 +100,8 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Henry Kissinger: To settle the Ukraine crisis, start at the end (2014)](https://www.washingtonpost.com/opinions/henry-kissinger-to-settle-the-ukraine-crisis-start-at-the-end/2014/03/05/46dad868-a496-11e3-8466-d34c451760b9_story.html)
 - [How was Ukraine able to conceal its true conventional might for so long? (2022)](https://www.reddit.com/r/CredibleDefense/comments/te4kpe/how_was_ukraine_able_to_conceal_its_true/)
 - [«Они били по вокзалу, откуда уезжали беженцы». Рассказ украинки, которая на последнем поезде уехала из Ирпеня (2022)](https://vot-tak.tv/novosti/14-03-2022-bezhentsy-intervyu/)
+- [Biden's Gambit: Sacrificing Ukraine to checkmate Russia is a colossal strategic error for the U.S. (2022)](https://amade.substack.com/p/bidens-gambit) ([Reddit](https://www.reddit.com/r/foreignpolicy/comments/tfjb2e/bidens_gambit_sacrificing_ukraine_to_checkmate/))
+- [A Short History of the Ukrainian Language](https://theswordandthesandwich.substack.com/p/war-music-a-short-history-of-the?s=r)
+- [A Ukrainian Town Deals Russia One of the War’s Most Decisive Routs (2022)](https://www.wsj.com/articles/ukraine-russia-voznesensk-town-battle-11647444734?st=z24ubrmo2xi9bq1&reflink=share_mobilewebshare) ([Tweet](https://twitter.com/yarotrof/status/1504124755376549897))
+- [Ukraine Needs Ground-Based Air Defenses Way More Than MiGs. Here Are The Best Options (2022)](https://www.thedrive.com/the-war-zone/44673/ukraine-needs-ground-based-air-defenses-way-more-than-migs-here-are-the-best-options)
+- [Inside Mariupol's devastation: AP journalists document war's toll (2022)](https://apnews.com/article/russia-ukraine-war-mariupol-descends-into-despair-708cb8f4a171ce3f1c1b0b8d090e38e3)

@@ -46,3 +46,4 @@
 - [What UK tourist trap IS worth the hype? (2021)](https://www.reddit.com/r/AskUK/comments/rrlnc5/what_tourist_trap_is_worth_the_hype/)
 - [Did Britain Ever Have a Revolutionary Moment?](https://www.historytoday.com/archive/head-head/did-britain-ever-have-revolutionary-moment) ([HN](https://news.ycombinator.com/item?id=29870146))
 - [UK immigrants, what surprised you when you moved here? (2022)](https://www.reddit.com/r/AskUK/comments/sbjhms/uk_immigrants_what_surprised_you_when_you_moved/)
+- [Where would you live in the UK if you are fully remote? (2022)](https://www.reddit.com/r/AskUK/comments/tfdu70/where_would_you_live_in_the_uk_if_you_are_fully/)

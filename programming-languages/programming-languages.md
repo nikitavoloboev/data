@@ -322,3 +322,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [complexity](https://github.com/thoughtbot/complexity) - Calculate an approximation of code complexity per file in a language-agnostic way.
 - [Hare](https://harelang.org/) - Systems programming language designed to be simple, stable, and robust. ([Code](https://sr.ht/~sircmpwn/hare/))
 - [Why am I building a programming language in private? (2022)](https://drewdevault.com/2022/03/13/Why-am-I-working-in-private.html) ([HN](https://news.ycombinator.com/item?id=30662430))
+- [Eclectica](https://github.com/markelog/eclectica) - Unifies management of any language under one cohesive and minimalistic interface.

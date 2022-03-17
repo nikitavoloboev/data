@@ -292,6 +292,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [What was your last 5 star read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/t9xa3j/what_was_your_last_5_star_read/)
 - [Book or article you think about a lot that you don’t think anyone else in the replies will mention (2022)](https://twitter.com/nateliason/status/1501967452766457862)
 - [A non-standard book list for software developers](https://mihaiolteanu.me/books.html) ([HN](https://news.ycombinator.com/item?id=30651273))
+- [Suggest me your favorite book and I will read it](https://www.reddit.com/r/suggestmeabook/comments/tfc4jv/suggest_me_your_favourite_book_and_i_will_read_it/)
 
 ## Interesting Prose Books
 
@@ -513,3 +514,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Audio Book Shelf](https://www.audiobookshelf.org/) - Self-hosted Audiobook Server. ([Code](https://github.com/advplyr/audiobookshelf))
 - [A Good Used Book](https://agoodusedbook.com/)
 - [ZLibrary Books](https://b-ok.xyz/)
+- [Litnerd](https://litnerd.com/) - Bringing Books to Life.
+- [From Idea to Self-published Book: 27 Writing and Book Marketing Tips (2022)](https://tealfeed.com/idea-self-published-book-27-writing-pyqst)

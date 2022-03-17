@@ -44,3 +44,4 @@
 - [certmagic-sqlstorage](https://github.com/yroc92/postgres-storage) - SQL storage for CertMagic/Caddy TLS data.
 - [Consul K/V Storage for Caddy TLS data](https://github.com/pteich/caddy-tlsconsul)
 - [Caddy Markdown Site](https://github.com/dbohdan/caddy-markdown-site) - Serve Markdown files as HTML pages with CSS using just Caddy.
+- [Use Caddy to manage Tailscale HTTPS certificates (2022)](https://tailscale.com/blog/caddy/) ([HN](https://news.ycombinator.com/item?id=30687282))

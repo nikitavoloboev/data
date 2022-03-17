@@ -189,3 +189,5 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram proxies list](https://twitter.com/BTSLUVBLOG/status/1496746466005733382)
 - [Guide to All Things Webhook](https://core.telegram.org/bots/webhooks)
 - [Telegram Upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account.
+- [Teamgram](https://github.com/teamgram/teamgram-server) - Open source mtproto server written in Go with compatible telegram client.
+- [NebulaChat](https://nebula.chat/) - Self hosted mtproto messenger.

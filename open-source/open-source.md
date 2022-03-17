@@ -204,7 +204,7 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Why you should use a BSD style license for your Open Source Project](https://docs.freebsd.org/en/articles/bsdl-gpl/)
 - [Can we trust Microsoft with open source? (2021)](https://dusted.codes/can-we-trust-microsoft-with-open-source) ([HN](https://news.ycombinator.com/item?id=28968231))
 - [About Yak Shaving (2021)](https://antfu.me/posts/about-yak-shaving)
-- [Open Source Design](https://opensourcedesign.net/#page-top) - Connecting open source & design. ([GitHub](https://github.com/opensourcedesign))
+- [Open Source Design](https://opensourcedesign.net/) - Connecting open source & design. ([GitHub](https://github.com/opensourcedesign))
 - [Moving Apollo Federation 2 to the Elastic License v2 (2021)](https://www.apollographql.com/blog/announcement/moving-apollo-federation-2-to-the-elastic-license-v2/) ([HN](https://news.ycombinator.com/item?id=29115263))
 - [Microsoft Open Source](https://opensource.microsoft.com/) ([Twitter](https://twitter.com/OpenAtMicrosoft))
 - [Tips For Making a Popular Open Source Project in 2021](https://skerritt.blog/make-popular-open-source-projects/) ([HN](https://news.ycombinator.com/item?id=29197806))

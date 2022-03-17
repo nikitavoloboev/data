@@ -132,3 +132,4 @@
 - [myScale](https://webkul.github.io/myscale/) - Quick SVG Icon Resizer. ([Code](https://github.com/webkul/myscale))
 - [Gradient Badge](https://bokub.github.io/gradient-badge/) - Badge generator with color gradient support. ([Code](https://github.com/bokub/gradient-badge))
 - [PlutoSVG](https://github.com/sammycage/plutosvg) - Tiny SVG rendering library in C.
+- [How to use SVG filters](https://garden.bradwoods.io/notes/svg-filters)

@@ -110,3 +110,4 @@
 - [Running AWS Lambda Custom Runtime in Knative](https://github.com/triggermesh/aws-custom-runtime)
 - [AWS Lambda Adapter](https://github.com/aws-samples/aws-lambda-adapter) - Run web applications on AWS Lambda.
 - [postinvoke](https://github.com/aidansteele/postinvoke) - Run in-process code after your Go-powered Lambda function has returned.
+- [apig-wsgi](https://github.com/adamchainz/apig-wsgi) - Wrap a WSGI application in an AWS Lambda handler function for running on API Gateway or an ALB.

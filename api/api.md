@@ -356,3 +356,5 @@
 - [Postman to k6](https://github.com/apideck-libraries/postman-to-k6) - Converts Postman collections to k6 script code.
 - [What caused the Uber Eats glitch that allowed ordering free food for a weekend in India](https://twitter.com/GergelyOrosz/status/1502947315279187979)
 - [Cadl](https://github.com/microsoft/cadl) - Language for describing cloud service APIs and generating other API description languages, client and service code, documentation, and other assets.
+- [Cloudflare API Gateway (2022)](https://blog.cloudflare.com/api-gateway/)
+- [Introducing Advanced Rate Limiting (2022)](https://blog.cloudflare.com/advanced-rate-limiting/)

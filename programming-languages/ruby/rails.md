@@ -126,3 +126,4 @@
 - [Turbo Rails](https://github.com/hotwired/turbo-rails) - Use Turbo in your Ruby on Rails app.
 - [Stimulus for Rails](https://github.com/hotwired/stimulus-rails)
 - [ViewComponent](https://github.com/github/view_component) - Framework for building reusable, testable & encapsulated view components in Ruby on Rails. ([Docs](https://viewcomponent.org/))
+- [Senior Rails developer AMA (2022)](https://www.reddit.com/r/rails/comments/tfm71l/i_am_a_senior_rails_engineer_ama_ask_me_anything/)

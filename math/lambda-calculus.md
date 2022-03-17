@@ -79,3 +79,4 @@ Is logical theory of computable functions.
 - [Tiny Lazy ML with Process Calculus in plain C](https://github.com/devaspot/milner)
 - [Lambda Calculus in 400 Bytes (2022)](https://justine.lol/lambda/) ([HN](https://news.ycombinator.com/item?id=30493713))
 - [seq](https://github.com/robrix/seq) - µµ̃ calculus with pretty-printing and evaluating interpreters.
+- [Lambda Calculus in JS](https://github.com/xieyuheng/lambda)

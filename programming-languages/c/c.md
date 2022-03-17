@@ -218,3 +218,4 @@
 - [C Arrays Are Not Pointers (2021)](https://lovesegfault.com/posts/c-arrays-are-not-pointers/)
 - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) ([HN](https://news.ycombinator.com/item?id=30660528))
 - [A flexible, lightweight, spin-lock barrier (2022)](https://nullprogram.com/blog/2022/03/13/)
+- [C Isn't A Programming Language Anymore (2022)](https://gankra.github.io/blah/c-isnt-a-language/) ([Lobsters](https://lobste.rs/s/w9sotc/c_isn_t_programming_language_anymore))

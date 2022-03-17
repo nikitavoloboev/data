@@ -56,3 +56,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [SeekVPN](https://seekvpn.com/) - Explore the best VPN. ([HN](https://news.ycombinator.com/item?id=29330706))
 - [Poor man's VPN (pay for only what you need)](https://github.com/amritb/poor-mans-vpn) ([HN](https://news.ycombinator.com/item?id=29913515))
 - [WGDashboard](https://github.com/donaldzou/WGDashboard) - Simplest dashboard for WireGuard VPN written in Python w/ Flask.
+- [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.

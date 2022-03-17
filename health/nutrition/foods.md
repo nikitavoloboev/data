@@ -147,3 +147,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Foods that promote gut health](https://www.reddit.com/r/nutrition/comments/t7p391/what_are_foods_that_promote_gut_health/)
 - [What is a internationally lesser-known yet highly delicious dish from your country? (2022)](https://www.reddit.com/r/AskEurope/comments/tavgz5/what_is_a_internationally_lesserknown_yet_highly/)
 - [Micro Meat](https://www.micromeat.com/) - Technology for scaling cultivated meat. ([HN](https://news.ycombinator.com/item?id=30627418))
+- [Ask HN: Most Reliable Modern Refrigerator? (2022)](https://news.ycombinator.com/item?id=30663363)

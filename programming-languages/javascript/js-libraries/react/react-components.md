@@ -274,6 +274,7 @@
 - [react-ansi-dumi](https://github.com/RaoHai/react-ansi) - Foldable and searchable ansi log viewer for React.
 - [Interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 - [React Cool Img](https://github.com/wellyshen/react-cool-img)
+- [spacefold](https://github.com/pedronauck/spacefold) - Use Pub/Sub pattern inside your React applications easily.
 
 ## Links
 

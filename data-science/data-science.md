@@ -1,5 +1,7 @@
 # Data Science
 
+[DataStation](https://datastation.multiprocess.io/) is neat.
+
 ## Notes
 
 - [If you can solve a problem with a simple heuristic, do that. Sometimes you don't need machine learning.](https://www.reddit.com/r/datascience/comments/8ljwo8/what_is_surprisingly_useful_to_know_as_a_data/)
@@ -49,7 +51,7 @@
 - [Foundations of Data Science (2019)](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) ([HN](https://news.ycombinator.com/item?id=21179378))
 - [Gyana](https://www.gyana.com/) - No code desktop data science tool. ([Article](https://www.gyana.com/post/a-bicycle-for-data))
 - [Monument](https://www.monument.ai/) - High-productivity toolkit for predictions. AutoML for time series on any desktop, laptop or server.
-- [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html)) ([Web](http://numba.pydata.org/))
+- [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html)) ([Web](http://numba.pydata.org/)) ([Make Python code 1000x Faster with Numba](https://www.youtube.com/watch?v=x58W9A2lnQc))
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
 - [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow. ([Code](https://github.com/fishtown-analytics/dbt)) ([Docs](https://docs.getdbt.com/)) ([fal - Run python scripts directly from dbt](https://github.com/fal-ai/fal))
 - [Introducing dbt + Materialize (2021)](https://materialize.com/introducing-dbt-materialize/) ([HN](https://news.ycombinator.com/item?id=26306861))

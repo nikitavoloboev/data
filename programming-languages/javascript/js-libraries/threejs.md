@@ -92,3 +92,4 @@
 - [Interactive Hover Effects with Three.js](https://github.com/akella/webgl-mouseover-effects)
 - [web-ifc-viewer](https://github.com/IFCjs/web-ifc-viewer) - Graphics engine and toolkit for client applications.
 - [Panolens.js](https://github.com/pchen66/panolens.js) - JavaScript panorama viewer based on Three.js.
+- [React Three Scissor](https://github.com/pmndrs/react-three-scissor) - Multiple scenes, one canvas! WebGL Scissoring implementation for React Three Fiber.

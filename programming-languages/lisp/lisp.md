@@ -176,3 +176,5 @@
 - [Otus Lisp](https://github.com/yuriy-chumak/ol) - Purely functional dialect of Lisp.
 - [Early Ideas: A Modern Lisp Machine from Scratch (2018)](https://luksamuk.codes/posts/lispm-001.html)
 - [Visible Lisp Computer (2019)](http://www.technoblogy.com/show?2ODQ)
+- [S-expression](https://github.com/cicada-lang/sexp) - Implementation of S-expression in JavaScript.
+- [Interaction Nets in JS](https://github.com/cicada-lang/inet)

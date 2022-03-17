@@ -36,3 +36,4 @@
 - [Gemini is a little gem (2022)](https://andregarzia.com/2022/01/gemini-is-a-little-gem.html) ([HN](https://news.ycombinator.com/item?id=30072085))
 - [gemlikes](https://github.com/makeworld-the-better-one/gemlikes) - Liking and comment system for the Gemini protocol.
 - [go-gemini](https://github.com/makeworld-the-better-one/go-gemini) - Client and server library for the Gemini protocol, in Go.
+- [Gemini is a new internet protocol](https://admin.flounder.online/gemini.gmi) ([HN](https://news.ycombinator.com/item?id=30667545))

@@ -499,3 +499,6 @@
 - [NLP Course Material & QA](https://github.com/thunlp/NLP-THU)
 - [Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey) - Collection of 700+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML).
 - [Awesome CLIP](https://github.com/yzhuoning/Awesome-CLIP) - Awesome list for research on CLIP (Contrastive Language-Image Pre-Training).
+- [MAGMA](https://github.com/Aleph-Alpha/magma) - GPT-style multimodal model that can understand any combination of images and language.
+- [Timexy](https://github.com/paulrinckens/timexy) - spaCy custom component that extracts and normalizes temporal expressions.
+- [New Capabilities for GPT-3: Edit and Insert (2022)](https://openai.com/blog/gpt-3-edit-insert/) ([HN](https://news.ycombinator.com/item?id=30689902))

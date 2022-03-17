@@ -427,6 +427,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [zizou](https://github.com/arriqaaq/zizou) - In memory cache implementation with high concurrency.
 - [go-zetasql](https://github.com/goccy/go-zetasql) - Go bindings for ZetaSQL. ZetaSQL can parse all queries related to Cloud Spanner and BigQuery.
 - [Permify Gorm](https://github.com/Permify/permify-gorm) - Associate users with roles and permissions.
+- [Goven](https://github.com/SeldonIO/goven) - Go library that allows you to have a drop-in query language for your database schema.
 
 ## ML
 

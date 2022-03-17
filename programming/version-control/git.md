@@ -494,3 +494,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [ocaml-git](https://github.com/mirage/ocaml-git) - Pure OCaml Git format and protocol.
 - [all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [Goblet](https://github.com/google/goblet) - Git proxy server that caches repositories for read access.
+- [napi-rs/simple-git](https://github.com/Brooooooklyn/simple-git) - Simple and fast git helper functions.
+- [Distributed Code Review For Git](https://github.com/google/git-appraise) - Command line tool for performing code reviews on git repositories.
+- [Git Remote S3 Helper](https://github.com/bgahagan/git-remote-s3) - Push and pull git repos to/from an s3 bucket, encrypted using gpg.
+- [scmpuff](https://github.com/mroth/scmpuff) - Numeric file shortcuts for common git commands.

@@ -19,3 +19,4 @@
 - [Rolldown](https://github.com/Brooooooklyn/rolldown) - Rollup Rust implementation with 100% API compatible.
 - [rollup-plugin-swc](https://github.com/SukkaW/rollup-plugin-swc) - Use SWC with Rollup to transform ESNext and TypeScript code.
 - [Rollup Plugin Visualizer](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
+- [Rollup Plugin Styles](https://github.com/Anidetrix/rollup-plugin-styles) - Universal Rollup plugin for styles.

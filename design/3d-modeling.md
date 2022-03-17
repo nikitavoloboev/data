@@ -74,3 +74,5 @@
 - [Grid.Space](https://grid.space/) - Browser-Based Slicer for 3D FDM and SLA printing, CNC Milling, and Laser cutting. ([Docs](https://docs.grid.space/projects/kiri-moto)) ([Code](https://github.com/GridSpace/grid-apps))
 - [OpenSCAD 3D rendering just got an order of magnitude faster (2022)](https://ochafik.com/jekyll/update/2022/02/09/openscad-fast-csg-contibution.html) ([HN](https://news.ycombinator.com/item?id=30277356))
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural, node-based modelling tool, made in rust.
+- [Plasticity](https://github.com/nkallen/plasticity) - 3D modelling software for concept artists. ([HN](https://news.ycombinator.com/item?id=30695360))
+- [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)

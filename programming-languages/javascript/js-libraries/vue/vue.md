@@ -7,6 +7,7 @@
 - [Official Vue.js Blog](https://github.com/vuejs/blog)
 - [Discord Clone](https://github.com/SOKHUONG/discord-clone)
 - [Vue Minesweeper](https://github.com/antfu/vue-minesweeper)
+- [VueTube](https://github.com/Frontesque/VueTube) - Open source YouTube client.
 
 ## Notes
 

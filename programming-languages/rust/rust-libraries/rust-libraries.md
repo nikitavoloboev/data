@@ -126,6 +126,7 @@
 - [axum-live-view](https://github.com/davidpdrsn/axum-live-view) - Real-time user experiences with server-rendered HTML.
 - [protocol](https://github.com/dylanmckay/protocol) - Easy protocol definitions in Rust.
 - [rust-socketio](https://github.com/1c3t3a/rust-socketio) - Implementation of a socket.io client written in the Rust.
+- [reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs.
 
 ## WASM
 
@@ -299,6 +300,7 @@
 - [Screen 13](https://github.com/attackgoat/screen-13) - Easy-to-use 2D/3D rendering engine in the spirit of QBasic.
 - [image-gif](https://github.com/image-rs/image-gif) - GIF encoding and decoding library.
 - [cavalier_contours](https://github.com/jbuckmccready/cavalier_contours) - 2D polyline/shape library for offsetting, combining, etc.
+- [rust-rgb](https://github.com/kornelski/rust-rgb) - Struct RGB for sharing pixels between crates.
 
 ## Games
 
@@ -464,6 +466,7 @@
 - [lm3s6965](https://github.com/japaric/lm3s6965) - Minimal device crate for the LM3S6965 (Cortex-M3) microcontroller.
 - [fugit](https://github.com/korken89/fugit) - Provides a comprehensive library of `Duration` and `Instant` for the handling of time in embedded systems, doing all it can at compile time.
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - Hardware abstraction layer for the esp32 written in Rust.
+- [stm32-eth](https://github.com/stm32-rs/stm32-eth) - Embedded Ethernet driver in Rust.
 
 ## ML
 
@@ -572,6 +575,7 @@
 - [Sugars](https://github.com/GrayJack/sugars) - Nice Rust macros for better writing.
 - [litrs](https://github.com/LukasKalbertodt/litrs) - Parsing and inspecting Rust literals (particularly useful for proc macros).
 - [rustic-c](https://github.com/ry00001/rustic-c) - Macro to write C inside Rust.
+- [bytecoding](https://github.com/nn1ks/bytecoding) - Derive macro for encoding and decoding instructions and operands as bytecode.
 
 ## Math
 
@@ -1577,6 +1581,7 @@
 - [Calloop](https://github.com/Smithay/calloop) - Callback-based Event Loop.
 - [rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function.
 - [LibRapid](https://github.com/LibRapid/LibRapidRust) - Highly optimized derivative of the LibRapid C++ library.
+- [Fraction](https://github.com/dnsl48/fraction) - Lossless fractions and decimals; drop-in float replacement.
 
 ## Cargo Plugins
 

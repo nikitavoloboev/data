@@ -94,6 +94,7 @@
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 - [sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator.
 - [yargs-parser](https://github.com/yargs/yargs-parser) - Mighty option parser used by yargs.
+- [boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
 
 ## ML
 

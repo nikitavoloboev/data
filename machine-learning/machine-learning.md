@@ -724,3 +724,7 @@
 - [Ask HN: What ML platform are you using? (2022)](https://news.ycombinator.com/item?id=30658324)
 - [Graphsignal](https://graphsignal.com/) - Machine Learning Profiler. ([HN](https://news.ycombinator.com/item?id=30628618))
 - [Machine Learning and AI with Go](https://github.com/dwhitena/gc-ml)
+- [Everything about Transfer Learning](https://github.com/jindongwang/transferlearning)
+- [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
+- [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)
+- [Building a ML Transformer in a Spreadsheet (2022)](https://www.youtube.com/watch?v=S9eKuRVigjY)

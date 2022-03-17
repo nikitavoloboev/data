@@ -534,3 +534,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethsig-rs](https://github.com/odyslam/ethsig-rs) - Cloudflare worker that enables any backend service to use Sign In With Ethereum (SIWE) as an authetnication method. ([Tweet](https://twitter.com/odyslam_/status/1502180150040928259))
 - [Cacheable Beacon Proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with minimal overhead.
 - [cosigneth](https://cosigneth.dev/) - Container Image Signing & Verifying on Ethereum. ([Code](https://github.com/Dentrax/cosigneth))
+- [Gamma Protocol](https://github.com/opynfinance/GammaProtocol) - Most powerful, capital efficient DeFi options protocol.

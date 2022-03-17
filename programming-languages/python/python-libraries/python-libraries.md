@@ -226,6 +226,7 @@
 - [Pydantic-Factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation.
 - [flake8-assertive](https://github.com/jparise/flake8-assertive) - Flake8 unittest assert method checker.
 - [Klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library.
+- [detect-test-pollution](https://github.com/asottile/detect-test-pollution) - Tool to detect test pollution.
 
 ## Error
 
@@ -747,6 +748,8 @@
 - [notify-send](https://github.com/andreztz/notify-send) - Displays a notification suitable for the platform being run on.
 - [bytecode](https://github.com/MatthieuDartiailh/bytecode) - Python module to generate and modify bytecode.
 - [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features.
+- [Nurse](https://github.com/ZeroGachis/nurse) - Thoughtful dependency injection framework.
+- [pangres](https://github.com/ThibTrip/pangres) - SQL upsert using pandas DataFrames for PostgreSQL, SQlite and MySQL with extra features.
 
 ## Links
 
@@ -836,3 +839,5 @@
 - [PyPI Cloud](https://github.com/stevearc/pypicloud) - S3-backed PyPI server implementation.
 - [A Gentle Introduction to Testing with PyTest](https://bas.codes/posts/python-pytest-introduction)
 - [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - flake8 plugin to help you write better list/set/dict comprehensions.
+- [Python Project Template](https://github.com/rochacbruno/python-project-template) - Low dependency and really simple to start project template for Python Projects.
+- [virtualenv-tools3](https://github.com/Yelp/virtualenv-tools) - Tools for dealing with virtualenvs for code deployments.

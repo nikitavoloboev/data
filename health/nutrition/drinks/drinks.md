@@ -28,3 +28,4 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 - [Chemistry of beer, part I: Malt to wort (2021)](https://www.youtube.com/watch?v=q8LJb9XBU2U)
 - [Ask HN: How do you have fun without alcohol? (2022)](https://news.ycombinator.com/item?id=29824395)
 - [BeerBase](https://beerba.se/) - Accessible worldwide open beer database. ([HN](https://news.ycombinator.com/item?id=30231835))
+- [Oxidation makes tea black (2022)](https://www.sophiescuppatea.com/blogs/news/oxidation-makes-tea-black) ([HN](https://news.ycombinator.com/item?id=30686854))

@@ -84,3 +84,4 @@
 - [cq](https://github.com/markus-wa/cq) - Clojure Command-line Data Processor for JSON, YAML, EDN, XML and more.
 - [utt](https://github.com/queer/utt) - Universal text transformer.
 - [Loggie](https://github.com/loggie-io/loggie) - Lightweight, high-performance, cloud-native agent and aggregator based on Go.
+- [ter](https://github.com/schulke-214/ter) - CLI to run text expressions and perform basic text operations such as filtering, ignoring and replacing on the command line.

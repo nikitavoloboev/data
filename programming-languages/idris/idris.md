@@ -74,3 +74,4 @@
 - [idris2-http](https://github.com/octeep/idris2-http) - HTTP(s) client in idris.
 - [Idris2-Table](https://github.com/madman-bob/idris2-table) - Table library for Idris 2.
 - [Skyro](https://github.com/skyro-compiler/skyro) - Compiles programs written in Idris2 to Cairo and thereby enables high-level, pure functional programming for verifiable computation.
+- [idris2-prim](https://github.com/stefan-hoeck/idris2-prim) - Axioms and Propositions for Primitive Types in Idris2.

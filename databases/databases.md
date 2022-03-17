@@ -213,6 +213,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [SQLive](https://github.com/SkipLabs/sqlive) - General-purpose SQL database that lets you subscribe to changes to your queries.
 - [LotusDB](https://github.com/flower-corp/lotusdb) - Fast k/v database compatible with LSM tree and B+ tree.
 - [CnosDB](https://github.com/cnosdb/cnosdb) - Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
+- [Nubostore](https://nubo.app/nubostore) - Data store like Firestore and Algolia all in one.
 
 ## Tools
 

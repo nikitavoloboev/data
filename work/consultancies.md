@@ -255,3 +255,4 @@
 - [It’s great to be a consultant (2022)](https://zwischenzugs.com/2022/01/17/why-its-great-to-be-a-consultant/) ([HN](https://news.ycombinator.com/item?id=29977932))
 - [Ask HN: What do you do and what's your consulting rate? (2022)](https://news.ycombinator.com/item?id=30188101)
 - [A career ending mistake (2022)](https://bitfieldconsulting.com/golang/career) ([HN](https://news.ycombinator.com/item?id=30428602))
+- [Ask HN: How to get clients for a new, small software agency? (2022)](https://news.ycombinator.com/item?id=30691266)

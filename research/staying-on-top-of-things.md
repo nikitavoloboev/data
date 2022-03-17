@@ -203,6 +203,7 @@ And these Discord servers:
 - [Skimfeed](https://skimfeed.com/)
 - [Google News](https://news.google.com/)
 - [sic](https://sic.pm/) - Community about everything that piques your curiosity and interest. ([Code](https://github.com/epilys/sic))
+- [National Review](https://www.nationalreview.com/) - Conservative News, Opinion, Politics, Policy, & Current Events.
 
 ## Notes
 

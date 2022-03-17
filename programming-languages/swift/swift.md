@@ -271,3 +271,5 @@
 - [What type is self in a Swift self-executing anonymous closure used to initialize a stored property? (2020)](https://www.jessesquires.com/blog/2020/12/22/swift-self-executing-anonymous-closures/)
 - [Swift pointer nomenclature](https://twitter.com/UINT_MIN/status/1499201275740577793)
 - [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst)
+- [Swift.org Code](https://github.com/apple/swift-org-website)
+- [Swift Installer Scripts](https://github.com/apple/swift-installer-scripts)

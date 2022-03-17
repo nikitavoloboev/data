@@ -57,6 +57,7 @@
 - [Simple Dynamic Strings](https://github.com/antirez/sds)
 - [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C. ([Web](http://libcello.org/)) ([HN](https://news.ycombinator.com/item?id=22102533)) ([HN](https://news.ycombinator.com/item?id=30564292))
 - [libdill](https://github.com/sustrik/libdill) - Structured concurrency in C.
+- [Libmill](https://github.com/sustrik/libmill) - Go-style concurrency in C. ([Web](http://libmill.org/index.html)) ([HN](https://news.ycombinator.com/item?id=30699829))
 - [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++).
 - [cr.h](https://github.com/fungos/cr) - Simple C Hot Reload Header-only Library.
 - [cgltf](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer written in C99.

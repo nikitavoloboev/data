@@ -199,3 +199,4 @@
 - [Dockerized](https://github.com/datastack-net/dockerized) - Run CLI tools without installation. ([HN](https://news.ycombinator.com/item?id=30627202))
 - [Mastering the Docker cache (2022)](https://contains.dev/blog/mastering-docker-cache)
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Run commands within ethereal docker containers.
+- [cri-dockerd](https://github.com/Mirantis/cri-dockerd) - Adapter provides a shim for Docker Engine that lets you control Docker via the Kubernetes Container Runtime Interface.

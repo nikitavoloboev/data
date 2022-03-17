@@ -296,3 +296,5 @@
 - [What you must know about Memory, Caches, and Shared Memory](https://www.eidos.ic.i.u-tokyo.ac.jp/~tau/lecture/parallel_distributed/2018/slides/pdf/memory2.pdf) ([HN](https://news.ycombinator.com/item?id=30549828))
 - [Pockit](https://pockit.ai/) - Tiny, powerful, modular computer. ([2022 Demo](https://www.youtube.com/watch?v=b3F9OtH2Xx4)) ([HN](https://news.ycombinator.com/item?id=30615959))
 - [SmartKnob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents. ([HN](https://news.ycombinator.com/item?id=30646371))
+- [Oxide at Home: Propolis says Hello (2022)](https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html) ([HN](https://news.ycombinator.com/item?id=30671447)) ([Lobsters](https://lobste.rs/s/jdqlyj/oxide_at_home_propolis_says_hello))
+- [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) ([HN](https://news.ycombinator.com/item?id=30671391))

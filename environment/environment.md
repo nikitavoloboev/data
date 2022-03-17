@@ -162,3 +162,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Amazon rainforest is losing its ability to recover from destruction (2022)](https://www.ft.com/content/9bb87474-49de-4ac1-92f0-cc291f789357) ([HN](https://news.ycombinator.com/item?id=30601329))
 - [Ask HN: Book recommendations for renewable energy and climate change? (2022)](https://news.ycombinator.com/item?id=30611900)
 - [Living Carbon](https://www.livingcarbon.com/) - Plants Enhanced for Carbon Capture and Storage. ([HN](https://news.ycombinator.com/item?id=30672841))
+- [Antarctic sea ice hits lowest minimum on record (2022)](https://www.nature.com/articles/d41586-022-00550-4) ([HN](https://news.ycombinator.com/item?id=30677466))

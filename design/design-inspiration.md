@@ -45,6 +45,7 @@ Here are few more things I liked, design wise.
 - [Gumroad](https://gumroad.com/)
 - [Rows](https://rows.com/)
 - [Toit](https://toit.io/)
+- [Zipy.ai](https://www.zipy.ai/)
 - [Substack](https://substack.com/)
 - [Gorgias](https://www.gorgias.com/)
 - [Psyche](https://psyche.co/)

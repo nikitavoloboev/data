@@ -191,3 +191,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Openwhyd](https://openwhyd.org/) - Like Pinterest, for Music. ([Code](https://github.com/openwhyd/openwhyd))
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
 - [Study Music](https://github.com/vpavlenko/study-music) - Books, resources and courses to study everything about music and sound in the broadest sense.
+- [Museeks](https://museeks.io/) - Simple, clean and cross-platform music player. ([Code](https://github.com/martpie/museeks))

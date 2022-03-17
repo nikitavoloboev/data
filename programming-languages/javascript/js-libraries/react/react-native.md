@@ -10,6 +10,7 @@
 - [Spotify Lite](https://github.com/osamaqarem/spotify-lite) - Made with React Native for iOS and Android.
 - [Messages Clone](https://github.com/marcusfrdk/messages-clone) - iOS Messages app clone I created in React Native.
 - [React Native WYSIWYG](https://github.com/shakogegia/markdown-editor) - React Native markdown editor.
+- [Blank Solito Example Monorepo](https://github.com/flexbox/react-native-nextjs-monorepo)
 
 ## Links
 
@@ -198,4 +199,5 @@
 - [React Native Interactive Walkthrough](https://github.com/tribefyhq/react-native-interactive-walkthrough)
 - [Deep dive into React Native JSI (2022)](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06)
 - [React Native Toast Message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native.
-- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100))
+- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100)) ([Tweet](https://twitter.com/FernandoTheRojo/status/1503457235929862154))
+- [An update on the New Architecture Rollout (2022)](https://reactnative.dev/blog/2022/03/15/an-update-on-the-new-architecture-rollout)

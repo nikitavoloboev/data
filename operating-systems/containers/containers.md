@@ -192,3 +192,4 @@
 - [Linux containers in 500 lines of code (2016)](https://blog.lizzie.io/linux-containers-in-500-loc.html) ([HN](https://news.ycombinator.com/item?id=30623372))
 - [Podman can transfer container images without a registry (2022)](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry) ([HN](https://news.ycombinator.com/item?id=30678375))
 - [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/)
+- [Container Canary](https://github.com/NVIDIA/container-canary) - Tool for recording container requirements in a YAML manifest and then validating containers against that manifest.

@@ -311,3 +311,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/introduction/) ([HN](https://news.ycombinator.com/item?id=30681182))
 - [The hard part of type-checking Nix (2022)](https://www.haskellforall.com/2022/03/the-hard-part-of-type-checking-nix.html)
 - [Shrinkwrap: Taming dynamic shared objects (2022)](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
+- [any-nix-shell](https://github.com/haslersn/any-nix-shell) - Fish and Zsh support for the nix run and nix-shell environments of the Nix package manager.

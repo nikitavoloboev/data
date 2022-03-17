@@ -82,3 +82,4 @@
 - [Cirrus CI](https://cirrus-ci.org/) - Modern Continuous Integration system built for the era of cloud computing. ([GitHub](https://github.com/cirruslabs)) ([CLI](https://github.com/cirruslabs/cirrus-cli)) ([Docs Code](https://github.com/cirruslabs/cirrus-ci-docs))
 - [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)
 - [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
+- [Lightning-fast CI with nixbuild.net (2022)](https://blog.nixbuild.net/posts/2022-03-16-lightning-fast-ci-with-nixbuild-net.html)

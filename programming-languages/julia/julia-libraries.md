@@ -501,6 +501,7 @@
 - [FillArrays.jl](https://github.com/JuliaArrays/FillArrays.jl) - Julia package for lazily representing matrices filled with a single entry.
 - [Configurations](https://github.com/Roger-luo/Configurations.jl) - Options & Configurations made easy.
 - [AMQPClient](https://github.com/JuliaComputing/AMQPClient.jl) - Julia AMQP (Advanced Message Queuing Protocol) / RabbitMQ Client.
+- [DynamicAxisWarping.jl](https://github.com/baggepinnen/DynamicAxisWarping.jl) - Dynamic Time Warping (DTW), matrix profile and related algorithms in Julia.
 
 ## Links
 

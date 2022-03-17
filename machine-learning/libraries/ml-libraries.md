@@ -303,3 +303,4 @@
 - [PQk-means](https://github.com/DwangoMediaVillage/pqkmeans) - Fast and memory-efficient clustering.
 - [LeanTransformer](https://github.com/learning-at-home/lean_transformer) - Memory-efficient transformer.
 - [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment. Built on top of PyTorch and PostgreSQL.
+- [OpenDelta](https://github.com/thunlp/OpenDelta) - Open-Source Framework for Paramter Efficient Tuning (Delta Tuning).

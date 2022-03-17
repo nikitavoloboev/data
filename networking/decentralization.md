@@ -139,3 +139,5 @@
 - [Some people want to run their own servers (2022)](https://staltz.com/some-people-want-to-run-their-own-servers.html) ([HN](https://news.ycombinator.com/item?id=29856757))
 - [On Web3 Infrastructure (2022)](https://mirror.xyz/suzuha.eth/vb5E5lhzmPTcpxOJcz6Q211TDgSvoFwDLA6JSM1V37Q) ([HN](https://news.ycombinator.com/item?id=29860489))
 - [DDP: Decentralisation Design Principles](https://github.com/thisisbullish/ddp)
+- [Protocol Labs Research](https://github.com/protocol/research)
+- [dokieli](https://dokie.li/) - Client side editor for decentralized article publishing, annotations and social interactions. ([Code](https://github.com/linkeddata/dokieli))

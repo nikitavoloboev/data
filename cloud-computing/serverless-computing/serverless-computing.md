@@ -150,3 +150,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [TriggerFlow](https://github.com/triggerflow/triggerflow) - Event-based Orchestration of Serverless Workflows.
 - [Serverless Monorepo Microservices Template](https://github.com/swarmion/template)
 - [Swarmion](https://github.com/swarmion/swarmion) - Set of tools to build and deploy type-safe Serverless microservices.
+- [Compute@Edge default starter kit for AssemblyScript](https://github.com/fastly/compute-starter-kit-assemblyscript-default)

@@ -43,3 +43,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Just The World’s Time Zones (2018)](https://brilliantmaps.com/time-zones/)
 - [Timezone.io](https://timezone.io/) - Keep track where and when your team is. ([Twitter](https://twitter.com/timezoneio))
 - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) ([HN](https://news.ycombinator.com/item?id=30659164))
+- [Time Zone Database](https://www.iana.org/time-zones) - Code and data that represent the history of local time for many representative locations around the globe. ([Code](https://github.com/eggert/tz))

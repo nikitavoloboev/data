@@ -494,7 +494,7 @@
 - [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop (2021)](https://hongwenzhang.github.io/pymaf/) ([Code](https://github.com/HongwenZhang/PyMAF))
 - [SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation (2021)](https://arxiv.org/abs/2112.08275) ([Code](https://github.com/wjf5203/SeqFormer))
 - [NeRD: Neural Reflectance Decomposition from Image Collections (2021)](https://markboss.me/publication/2021-nerd/) ([Code](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition))
-- [Vector Quantized Diffusion Model for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2111.14822) ([Code](https://github.com/microsoft/VQ-Diffusion))
+- [Vector Quantized Diffusion Model for Text-to-Image Synthesis (2021)](https://arxiv.org/abs/2111.14822) ([Code](https://github.com/microsoft/VQ-Diffusion)) ([Code](https://github.com/cientgu/VQ-Diffusion))
 - [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models (2021)](https://arxiv.org/abs/2112.10741) ([Code](https://github.com/openai/glide-text2im))
 - [SynthDet](https://github.com/Unity-Technologies/SynthDet) - End-to-end object detection pipeline using synthetic data.
 - [MPViT: Multi-Path Vision Transformer for Dense Prediction (2021)](https://arxiv.org/abs/2112.11010) ([Code](https://github.com/youngwanLEE/MPViT))

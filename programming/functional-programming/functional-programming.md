@@ -159,6 +159,7 @@
 - [How to Use Monads without Understanding Them (2022)](https://elbear.com/how-to-use-monads-without-understanding-them.html) ([Reddit](https://www.reddit.com/r/haskell/comments/t8pksp/how_to_use_monads_without_understanding_them/))
 - [Functional Manipulation of Bit Streams](http://user.it.uu.se/~pergu/papers/bitstreams.pdf)
 - [Does Rust prevent more logic bugs than statically-typed pure FP languages? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/teskx2/does_rust_prevent_more_logic_bugs_than/)
+- [The Reader Monad — Example & Motivation (2018)](https://engineering.dollarshaveclub.com/the-reader-monad-example-motivation-542c54ccfaa8)
 
 ## Images
 

@@ -169,3 +169,4 @@
 - [Sound Open Firmware](https://github.com/thesofproject/sof)
 - [Bytecode interpreters for tiny computers (2007)](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html) ([HN](https://news.ycombinator.com/item?id=30421621))
 - [Embedded Rust on Espressif Book](https://espressif-trainings.ferrous-systems.com/) ([Code](https://github.com/ferrous-systems/espressif-trainings))
+- [Jacdac](https://microsoft.github.io/jacdac-docs/) - Plug-and-Play for Microcontrollers. ([Code](https://github.com/microsoft/jacdac))

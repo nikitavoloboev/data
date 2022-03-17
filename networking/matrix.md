@@ -90,3 +90,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [mautrix-go](https://github.com/mautrix/go) - Go Matrix framework.
 - [matrix-oauth](https://github.com/turt2live/matrix-oauth) - OAuth 2.0 server for Matrix accounts.
 - [Native Matrix VoIP with Element Call (2022)](https://element.io/blog/introducing-native-matrix-voip-with-element-call/) ([HN](https://news.ycombinator.com/item?id=30568164))
+- [mx-puppet-slack](https://github.com/Sorunome/mx-puppet-slack) - Slack puppeting bridge for Matrix.

@@ -149,3 +149,4 @@
 - [Motive](https://github.com/wess/motive) - Programmable Task runner built with Rust and uses a special version of Lua. ([Reddit](https://www.reddit.com/r/rust/comments/t5vozl/motive_programmable_task_runner_built_with_rust/))
 - [DevStream](https://github.com/merico-dev/stream) - Open-source DevOps toolchain manager (DTM).
 - [Opta](https://github.com/run-x/opta) - Infrastructure-As-Code framework where you work with high-level constructs instead of getting lost in low level cloud configuration.
+- [Yaru](https://github.com/hiragram/yaru) - Command line tool that manages simple tasks.

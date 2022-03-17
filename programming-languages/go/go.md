@@ -44,6 +44,7 @@ Go promotes composition over inheritance.
 - [`go get` stores downloaded files in `GOMODCACHE` (can be found via `go env`).](https://www.reddit.com/r/golang/comments/qbwyx5/where_does_go_get_store_the_downloaded_files/)
 - [gotip allows you to use Go from the tip. It’s much easier than building Go from source code](https://twitter.com/rakyll/status/1458915856134520874)
 - [Keep everything private until something outside the package needs to access it.](https://www.reddit.com/r/golang/comments/spt0wv/what_is_the_correct_way_to_organize_privacy_in_go/)
+- [Go 1.18 workspaces seem awesome. One file in the root for your workspaces definitions + dependency overrides (http://go.work) and then a specfile (go.mod) and lockfile (go.sum) in each package—bigger diffs, but exactly what you want for Docker, PaaS, and sparse checkout](https://twitter.com/jaredpalmer/status/1504061246630416384)
 
 ## Code
 
@@ -730,4 +731,5 @@ if err != nil {
 - [Network Automation with Go Book](https://github.com/PacktPublishing/Network-Automation-with-Go)
 - [go-global-update](https://github.com/Gelio/go-global-update) - Update globally installed go binaries.
 - [gowatch](https://github.com/silenceper/gowatch) - Command line tool that builds and (re)starts your go project every time you save a Go or template file.
-- [Go 1.18 Released (2022)](https://news.ycombinator.com/item?id=30688208)
+- [Go 1.18 Released (2022)](https://go.dev/blog/go1.18) ([HN](https://news.ycombinator.com/item?id=30688208))
+- [Building a Backconnect Proxy in Go (2022)](https://ldg.io/blogs/backconnect-proxy-pt1)

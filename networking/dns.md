@@ -192,3 +192,4 @@
 - [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script.
 - [mdns](https://github.com/dylanmckay/mdns) - Multicast DNS client in Rust.
 - [Ask HN: Neutral DNS servers? (2022)](https://news.ycombinator.com/item?id=30642577)
+- [Bunny DNS](https://bunny.net/blog/transforming-internet-routing-introducing-bunny-dns/) - Scriptable DNS platform. ([HN](https://news.ycombinator.com/item?id=30697672))

@@ -198,4 +198,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Modern smartphone lenses are crazy](https://twitter.com/yiningkarlli/status/1498069538264399872) ([HN](https://news.ycombinator.com/item?id=30557578))
 - [Optical Lens Design Forms: An Ultimate Guide to the types of lens design](https://www.pencilofrays.com/lens-design-forms/)
 - [How to achieve long exposure glide effect](https://www.reddit.com/r/AskPhotography/comments/t9l2nv/any_thoughts_on_how_this_effect_is_achieved_this/)
-- [Why Dark and Light is Complicated in Photographs (2022)](https://aaronhertzmann.com/2022/03/10/photographic-tone.html)
+- [Why Dark and Light is Complicated in Photographs (2022)](https://aaronhertzmann.com/2022/03/10/photographic-tone.html) ([HN](https://news.ycombinator.com/item?id=30662066))

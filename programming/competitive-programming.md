@@ -43,3 +43,4 @@
 - [Competitive Programming with AlphaCode (2022)](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode) ([HN](https://news.ycombinator.com/item?id=30179549))
 - [CodeContests](https://github.com/deepmind/code_contests) - Competitive programming dataset for machine-learning. This dataset was used when training AlphaCode.
 - [AlphaCode as a dog speaking mediocre English (2022)](https://scottaaronson.blog/?p=6288) ([HN](https://news.ycombinator.com/item?id=30230867))
+- [LeetCode Ranking](https://github.com/mintutu/leetcode-country-ranking) - Find Leetcode ranking by country, username.

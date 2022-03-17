@@ -43,3 +43,4 @@ And of course this system of knowledge indexing is very flexible and I am experi
 - [Two Stories About Tacit Knowledge (2021)](https://www.strangeloopcanon.com/p/two-stories-about-tacit-knowledge) ([HN](https://news.ycombinator.com/item?id=29069928)) ([Tweet](https://twitter.com/matthewclifford/status/1459217815853051906))
 - [A cartography of Wikipedia pages around data visualization](https://www.sigmajs.org/demo/index.html)
 - [Tacit knowledge is more important than deliberate practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/) ([HN](https://news.ycombinator.com/item?id=29531947))
+- [Diff](https://diff.wikimedia.org/) - News from across the Wikimedia movement.

@@ -439,3 +439,4 @@
 - [supa_audit](https://github.com/supabase/supa_audit) - PostgreSQL extension is a generic solution for tracking changes to tables' data over time.
 - [Best place to host a Postgres database today that’s not one of the big 3 (2022)](https://twitter.com/buildsghost/status/1501725573663494144)
 - [Hooks: The secret feature powering the Postgres ecosystem (2022)](https://ctodive.com/hooks-the-secret-feature-powering-the-postgres-ecosystem-f05b3b82e0ba)
+- [Wasmer Postgres](https://github.com/wasmerio/wasmer-postgres) - Postgres library to run WebAssembly binaries.

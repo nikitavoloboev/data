@@ -260,6 +260,7 @@
 - [boomerang](https://github.com/Happstack/boomerang) - Library which provides invertible parsing and printing.
 - [mustache](https://github.com/JustusAdam/mustache) - Haskell implementation of mustache templates.
 - [Flow](https://github.com/tfausak/flow) - Write more understandable Haskell.
+- [parameterized-utils](https://github.com/GaloisInc/parameterized-utils) - Utilities for using indexed types including containers, equality, and comparison.
 
 ## Notes
 

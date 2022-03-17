@@ -1,6 +1,6 @@
 # [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
-[Companion for SwiftUI](https://twitter.com/JordanMorgan10/status/1500090857210486784) is useful. [Swift with Majid](https://swiftwithmajid.com/) & [Swift by Sundell](https://www.swiftbysundell.com/) are great blogs.
+[Companion for SwiftUI](https://twitter.com/JordanMorgan10/status/1500090857210486784) is useful. [Swift with Majid](https://swiftwithmajid.com/) & [Swift by Sundell](https://www.swiftbysundell.com/) are great blogs. [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) is nice newsletter.
 
 ## Notes
 

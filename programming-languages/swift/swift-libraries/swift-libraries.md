@@ -235,6 +235,7 @@
 - [M13Checkbox](https://github.com/Marxon13/M13Checkbox) - Customizeable checkbox for iOS.
 - [Mapbox Maps iOS](https://github.com/mapbox/mapbox-maps-ios) - Public library for displaying interactive, thoroughly customizable maps in native iOS.
 - [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
+- [Tempura](https://github.com/BendingSpoons/tempura-swift) - Holistic approach to iOS development, inspired by Redux and MVVM.
 
 ## macOS
 
@@ -257,6 +258,8 @@
 
 ## Web
 
+- [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.
+- [RealHTTP](https://github.com/immobiliare/RealHTTP) - Lightweight yet powerful async/await based client-side HTTP library made in Swift.
 - [FlyingFox](https://github.com/swhitty/FlyingFox) - Lightweight, HTTP server written in Swift using async/await.
 - [Apexy](https://github.com/RedMadRobot/apexy-ios) - Library for organizing a network layer in a project.
 - [Hummingbird](https://github.com/hummingbird-project/hummingbird) - Lightweight, flexible HTTP server framework written in Swift.
@@ -1009,6 +1012,7 @@
 - [Async+](https://github.com/async-plus/async-plus) - Chainable interface for Swift's async/await.
 - [AsyncExtensions](https://github.com/AsyncCommunity/AsyncExtensions) - Collection of operators, async sequences and async streams that mimics Combine behaviour.
 - [ISSoundAdditions](https://github.com/InerziaSoft/ISSoundAdditions) - Swift Sound class to read and modify the system volume effortlessly.
+- [DSFSparkline](https://github.com/dagronf/DSFSparkline) - Sparklines for macOS, iOS and tvOS.
 
 ## Other (not lib)
 

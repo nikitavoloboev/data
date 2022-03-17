@@ -7,6 +7,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 ## Nice OSS iOS Swift apps
 
 - [Lil Wallet](https://github.com/jordansinger/lil-wallet)
+- [Solstice](https://github.com/daneden/Solstice) - App that tells you how the daylight is changing.
 - [isowords](https://github.com/pointfreeco/isowords) - Word search game on a vanishing cube, built in SwiftUI and the Composable Architecture. ([Web](https://www.isowords.xyz/))
 - [Spotify Daily](https://github.com/ThasianX/SpotifyDaily) - Open-Source Spotify App. ([HN](https://news.ycombinator.com/item?id=21867728))
 - [Tap It](https://github.com/nikitamounier/tapit-app) - Enables two people to seamlessly share their social media information by simply placing one screen on top of the other horizontally.
@@ -100,6 +101,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Pokedex](https://github.com/ronanociosoig/Tuist-Pokedex) - Simple 4-screen iOS app is a Swift code example to demonstrate a micro-feature approach to modularization based on Tuist.
 - [Find You](https://github.com/positive-security/find-you) - Stealth AirTag clone that bypasses all of Apple's tracking protection features. ([HN](https://news.ycombinator.com/item?id=30417303))
 - [Neeva iOS Browser](https://github.com/neevaco/neeva-ios)
+- [SwiftUI Widgets Fitness](https://github.com/marioeguiluz/swiftui-widgets-fitness) - Example project with SwiftUI, Combine and Widgets, using Apple Fitness app UI as the base.
 
 ## Other
 
@@ -421,3 +423,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [The Travel Focus Mode (2022)](https://matthewbischoff.com/travel-focus-mode/)
 - [On the Origin of the iPhone (2022)](https://daringfireball.net/2022/02/on_the_origin_of_the_iphone) ([HN](https://news.ycombinator.com/item?id=30477139))
 - [iPhone 11 Emulated on QEMU](https://github.com/TrungNguyen1909/qemu-t8030) ([HN](https://news.ycombinator.com/item?id=30545425))
+- [Sentry Cocoa](https://github.com/getsentry/sentry-cocoa) - Sentry SDK for iOS, tvOS, macOS, watchOS.

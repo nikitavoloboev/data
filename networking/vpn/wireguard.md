@@ -68,3 +68,4 @@
 - [wesher](https://github.com/costela/wesher) - WireGuard overlay mesh network manager.
 - [Automation for WireGuard VPN tunnels](https://github.com/whitequark/infra-vpn)
 - [WireGuard Web UI Code](https://github.com/ngoduykhanh/wireguard-ui)
+- [WireGuard Guide](https://github.com/mikeroyal/WireGuard-Guide)

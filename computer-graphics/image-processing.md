@@ -162,3 +162,4 @@
 - [imageproxy](https://github.com/willnorris/imageproxy) - Caching image proxy server written in go.
 - [image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions.
 - [sic](https://github.com/foresterre/sic) - Accessible image processing and conversion from the terminal.
+- [3D Slicer](https://www.slicer.org/) - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research. ([Code](https://github.com/Slicer/Slicer))

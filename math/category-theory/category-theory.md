@@ -151,6 +151,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [cats](https://github.com/funcool/cats) - Category Theory and Algebraic abstractions for Clojure and ClojureScript.
 - [Derived Categories and Moduli Spaces](https://sites.google.com/view/derivedfrg/events/cornell-2022)
 - [Category Theory Applied to Functional Programming](https://jpvillaisaza.co/cain/cain.pdf) ([Code](https://github.com/jpvillaisaza/cain))
+- [Understanding Visualization: A Formal Approach using Category Theory and Semiotics (2013)](https://arxiv.org/abs/1311.4376)
 
 ## Images
 

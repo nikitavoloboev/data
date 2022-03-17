@@ -1,5 +1,7 @@
 # Web scraping
 
+[shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) is neat.
+
 ## Links
 
 - [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy))
@@ -163,3 +165,5 @@
 - [pafy](https://github.com/mps-youtube/pafy) - Python library to download YouTube content and retrieve metadata.
 - [So you want to Scrape like the Big Boys? (2021)](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
 - [Dude](https://github.com/roniemartinez/dude) - Simple framework for writing a web scraper using Python decorators.
+- [myfaveTT](https://chrome.google.com/webstore/detail/myfavett-download-all-you/gmajiifkcmjkehmngbopoobeplhoegad) - Download all your TikTok Likes. ([HN](https://news.ycombinator.com/item?id=30685938))
+- [Scraping web pages from the command line with shot-scraper (2022)](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) ([HN](https://news.ycombinator.com/item?id=30667588))

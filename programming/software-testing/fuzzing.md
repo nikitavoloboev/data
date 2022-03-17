@@ -73,3 +73,4 @@
 - [Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types (2021)](https://github.com/RUB-SysSec/Nyx)
 - [Fuzz introspector](https://github.com/ossf/fuzz-introspector) - Tool to help fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
 - [Stateful Model-Based Database Fuzzing (2022)](https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337)
+- [FirmWire](https://github.com/FirmWire/FirmWire) - Full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares.

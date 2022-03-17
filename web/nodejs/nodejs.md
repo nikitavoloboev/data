@@ -333,3 +333,4 @@
 - [node-web-streams](https://github.com/gwicke/node-web-streams) - WhatWG web streams and utilities for node.js.
 - [napi-rs/dog](https://github.com/Brooooooklyn/dog) - Watch/compile/restart your Node.js application for developing.
 - [Mitm.js](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing.
+- [Workshop on Node.js Streams](https://github.com/lmammino/streams-workshop)

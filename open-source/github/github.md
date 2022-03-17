@@ -361,3 +361,6 @@ Awesome List
 - [Dinghy](https://github.com/nedbat/dinghy) - GitHub activity digest tool.
 - [labels](https://github.com/hackebrot/labels) - CLI app for managing GitHub labels for Python 3.6 and newer.
 - [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/) ([HN](https://news.ycombinator.com/item?id=30675357))
+- [gh-poi](https://github.com/seachicken/gh-poi) - gh extension for deleting merged local branches.
+- [gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension to quickly review and approve Dependabot PRs.
+- [Gotchas with Git and the GitHub API (2022)](https://retool.com/blog/gotchas-git-github-api/)

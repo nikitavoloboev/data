@@ -67,3 +67,4 @@
 - [Short-lived zero-knowledge proofs and signatures (2022)](https://eprint.iacr.org/2022/190.pdf) ([Tweet](https://twitter.com/dystopiabreaker/status/1496011412996788227))
 - [Introduction to Zero Knowledge Proofs](https://github.com/enricobottazzi/ZKverse)
 - [Curve ecGFp5](https://github.com/pornin/ecgfp5) - Elliptic curve defined over a field.
+- [RISC Zero](https://github.com/risc0/risc0) - Zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.

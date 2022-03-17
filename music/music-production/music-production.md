@@ -333,3 +333,4 @@
 - [Music Theory JS](https://github.com/Pomax/music-theory-js) - Do music things, using music theory.
 - [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software.
 - [Contrastive Learning of Musical Representations (2021)](https://arxiv.org/abs/2103.09410) ([Code](https://github.com/Spijkervet/CLMR))
+- [FIGARO: Generating Symbolic Music with Fine-Grained Artistic Control (2022)](https://arxiv.org/abs/2201.10936) ([Code](https://github.com/dvruette/figaro))

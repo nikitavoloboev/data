@@ -206,3 +206,4 @@
 - [Why Single Sign on Sucks (2022)](https://goteleport.com/blog/why-sso-sucks/) ([HN](https://news.ycombinator.com/item?id=30646081))
 - [Online JWT tool](https://dinochiesa.github.io/jwt/) - JWT Decoder, Verifier, Generator, Decryptor. ([Code](https://github.com/DinoChiesa/jwt-webtool))
 - [Permify](https://www.permify.co/) - Authorization service and API. Build flexible and faster apps with custom RBAC system.
+- [OAuth 2 / OpenID Connect Client for Web API runtimes](https://github.com/panva/oauth4webapi)

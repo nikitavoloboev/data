@@ -205,3 +205,4 @@
 - [Crafting A Lox Interpreter In Rust (2022)](https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/)
 - [Writing a minimal x86-64 JIT compiler in C++](https://github.com/sol-prog/x86-64-minimal-JIT-compiler-Cpp)
 - [OpenRAM](https://github.com/VLSIDA/OpenRAM) - Open-source static random access memory (SRAM) compiler. ([Web](https://openram.soe.ucsc.edu/))
+- [mdec](https://github.com/mborgerson/mdec) - Decompilation as a Service. Explore multiple decompilers and compare their output with minimal effort. Upload binary, get decompilation.

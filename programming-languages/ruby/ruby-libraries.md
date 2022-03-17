@@ -55,3 +55,4 @@
 - [Writing a Rust gem from scratch (2022)](https://briankung.dev/2022/02/02/writing-a-rust-gem-from-scratch/)
 - [Thermite](https://github.com/malept/thermite) - Rake-based helper for building and distributing Rust-based Ruby extensions.
 - [Modulation](https://github.com/digital-fabric/modulation) - Explicit Dependency Management for Ruby.
+- [Magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby code from a Rust binary.

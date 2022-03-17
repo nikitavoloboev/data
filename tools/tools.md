@@ -40,7 +40,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Split](https://www.split.io/) - Feature Delivery Platform for engineering teams that want to confidently release features.
 - [Muse](https://museapp.com/) - iPad sketchbook. ([HN](https://news.ycombinator.com/item?id=24294397))
 - [MentorCruise](https://mentorcruise.com/) - Connecting Mentors & Mentees in Tech.
-- [Linear](https://linear.app/) - Issue tracking tool you'll enjoy using. ([HN](https://news.ycombinator.com/item?id=23693029)) ([Awesome](https://github.com/dalys/awesome-linear))
+- [Linear](https://linear.app/) - Issue tracking tool you'll enjoy using. ([HN](https://news.ycombinator.com/item?id=23693029)) ([Awesome](https://github.com/dalys/awesome-linear)) ([CLI](https://github.com/evangodon/linear-cli))
 - [Reploy](https://getreploy.com/) - Staging environments done right. ([HN](https://news.ycombinator.com/item?id=23917956))
 - [Zapier](https://zapier.com/) - Easy automation for busy people. Zapier moves info between your web apps automatically.
 - [Outline](https://outline.com/) - Read & annotate without distractions.
@@ -167,6 +167,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Smort.io](https://www.smort.io/) - Edit, annotate and share articles easily. ([HN](https://news.ycombinator.com/item?id=30673502))
 - [Notify](https://notify.me/) - Subscribe directly to creators.
 - [Bazinga Tools](https://bazinga.tools/) - All-in-One Toolbox for Developers. ([Code](https://github.com/luin/bazinga))
+- [Zipy.ai](https://www.zipy.ai/) - Live web debugging with error monitoring and session replay. ([HN](https://news.ycombinator.com/item?id=30686278))
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
