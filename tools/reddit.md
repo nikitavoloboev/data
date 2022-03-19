@@ -53,3 +53,4 @@
 - [Reddium](https://reddium.vercel.app/) - Medium-themed Reddit client. ([Code](https://github.com/eightants/reddium))
 - [Reddit Data Dump](http://files.pushshift.io/reddit/)
 - [Reddit can't build a better search engine (2022)](https://ruky.me/2022/02/17/reddit-can-build-a-better-search-engine/) ([HN](https://news.ycombinator.com/item?id=30369402))
+- [Reddsaver](https://github.com/manojkarthick/reddsaver) - CLI tool to download saved and upvoted media from Reddit.

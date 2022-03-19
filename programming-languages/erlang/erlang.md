@@ -134,3 +134,4 @@
 - [Zotonic](http://zotonic.com/) - Erlang Web Framework & CMS. ([Code](https://github.com/zotonic/zotonic))
 - [gpb](https://github.com/tomas-abrahamsson/gpb) - Google Protobuf implementation for Erlang.
 - [Erlang online resources](https://gist.github.com/macintux/6349828)
+- [codec-beam](https://github.com/kofigumbs/codec-beam) - Generate Erlang VM byte code from Haskell.

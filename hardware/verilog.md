@@ -31,3 +31,4 @@
 - [svls](https://github.com/dalance/svls) - SystemVerilog language server.
 - [Verilog grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-verilog)
 - [HDL Reference Designs](https://github.com/analogdevicesinc/hdl)
+- [Caravel Harness](https://github.com/efabless/caravel) - Standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.

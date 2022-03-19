@@ -396,6 +396,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [unimport](https://github.com/unjs/unimport) - Unified utils for auto importing APIs in modules.
 - [JSON Schema Typed](https://github.com/jrylan/json-schema-typed) - JSON Schema TypeScript definitions with complete inline documentation.
 - [device-detector-js](https://github.com/etienne-martin/device-detector-js) - Precise user agent parser and device detector written in TypeScript.
+- [tswhy](https://github.com/kitsonk/tswhy) - Community effort to enrich TypeScript diagnostics.
 
 ## Links
 

@@ -86,3 +86,4 @@
 - [Loggie](https://github.com/loggie-io/loggie) - Lightweight, high-performance, cloud-native agent and aggregator based on Go.
 - [ter](https://github.com/schulke-214/ter) - CLI to run text expressions and perform basic text operations such as filtering, ignoring and replacing on the command line.
 - [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files.
+- [pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files.

@@ -429,3 +429,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Cloudflare Clientless Web Isolation (2022)](https://blog.cloudflare.com/clientless-web-isolation-general-availability/)
 - [Ask HN: Is Public WiFi Dangerous? (2022)](https://news.ycombinator.com/item?id=30724830)
 - [sniffer](https://github.com/chenjiandongx/sniffer) - Modern alternative network traffic sniffer.
+- [Netproc](https://github.com/berghetti/netproc) - Tool to monitor network traffic based on processes.

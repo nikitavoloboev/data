@@ -431,6 +431,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Goven](https://github.com/SeldonIO/goven) - Go library that allows you to have a drop-in query language for your database schema.
 - [Margaret](https://github.com/cryptoscope/margaret) - Flume-like persisted append-only log implementation.
 - [RedisAI Go Client](https://github.com/RedisAI/redisai-go)
+- [GocqlX](https://github.com/scylladb/gocqlx) - All-In-One: CQL query builder, ORM and migration tool.
 
 ## ML
 
@@ -1421,6 +1422,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [binarydist](https://github.com/kr/binarydist) - Binary diff and patch.
 - [diff](https://github.com/kr/diff) - Print differences between two Go values.
 - [restruct](https://github.com/go-restruct/restruct) - Rich binary (de)serialization library for Go.
+- [hackpadfs](https://github.com/hack-pad/hackpadfs) - Extensible file system abstraction for Go. File systems, composable interfaces, and test suites.
 
 ## Links
 

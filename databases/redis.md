@@ -115,3 +115,4 @@
 - [Redis-ImageScout](https://github.com/starkdg/Redis-ImageScout) - Redis Module for indexing of image fingerprints for fast efficient retrieval.
 - [RedisGears](https://github.com/RedisGears/RedisGears) - Dynamic execution framework for your Redis data. ([Docs](https://oss.redis.com/redisgears/))
 - [Upstash Redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions.
+- [Redis data exposer](https://github.com/Erisa/redis-exposer) - Serve read-only Redis data over a HTTP API with auth.

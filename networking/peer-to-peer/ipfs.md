@@ -94,3 +94,4 @@ I especially like the distinction of distributing content over distributing link
 - [Hole punching in libp2p - Overcoming Firewalls (2022)](https://blog.ipfs.io/2022-01-20-libp2p-hole-punching/)
 - [IPFS Docs](https://docs.ipfs.io/) ([Code](https://github.com/ipfs/ipfs-docs))
 - [IPFS web browsers integration group](https://github.com/ipfs/in-web-browsers)
+- [IPFS Bootcamp](https://github.com/adlrocha/ipfs-bootcamp)

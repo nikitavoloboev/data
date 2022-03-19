@@ -657,3 +657,4 @@
 - [The Future of Kubernetes (2022)](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022) ([HN](https://news.ycombinator.com/item?id=30660534))
 - [Certified Kubernetes Administrator Preparation Guide](https://github.com/leandrocostam/cka-preparation-guide)
 - [Akcess](https://github.com/viveksinghggits/akcess) - Share fine-grained access to your Kubernetes cluster temporarily.
+- [Monokle](https://github.com/kubeshop/monokle) - Desktop UI for managing k8s manifests.

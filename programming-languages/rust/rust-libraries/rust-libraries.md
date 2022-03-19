@@ -1750,3 +1750,4 @@
 - [Rusts Module System Explained (2021)](https://aloso.github.io/2021/03/28/module-system.html)
 - [Rust's Universes (2021)](https://aloso.github.io/2021/03/10/rusts-universes.html)
 - [cmake-rs](https://github.com/alexcrichton/cmake-rs) - Rust build dependency for running cmake.
+- [Full-Stack Clean Architecture with Rust](https://github.com/flosse/clean-architecture-with-rust)
