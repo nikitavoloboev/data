@@ -502,3 +502,4 @@
 - [MAGMA](https://github.com/Aleph-Alpha/magma) - GPT-style multimodal model that can understand any combination of images and language.
 - [Timexy](https://github.com/paulrinckens/timexy) - spaCy custom component that extracts and normalizes temporal expressions.
 - [New Capabilities for GPT-3: Edit and Insert (2022)](https://openai.com/blog/gpt-3-edit-insert/) ([HN](https://news.ycombinator.com/item?id=30689902))
+- [Which hardware to train a 176B parameters model? (2022)](https://bigscience.huggingface.co/blog/which-hardware-to-train-a-176b-parameters-model) ([Tweet](https://twitter.com/BigscienceW/status/1503775017653391369))

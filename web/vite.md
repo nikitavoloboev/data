@@ -35,3 +35,4 @@
 - [vite-plugin-md](https://github.com/antfu/vite-plugin-md) - Markdown with Vue for Vite.
 - [Vite Ecosystem CI](https://github.com/vitejs/vite-ecosystem-ci)
 - [Vite Plugin GraphQL Codegen](https://github.com/danielwaltz/vite-plugin-graphql-codegen) - Zero-config vite plugin that uses the vite file watcher to run graphql codegen programmatically without needing to start a separate watcher.
+- [vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - Vite plugin for import library component style automatic.

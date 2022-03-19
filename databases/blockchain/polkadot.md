@@ -73,3 +73,4 @@
 - [Astar Network](https://astar.network/) - Polkadot DApp Hub. ([Code](https://github.com/PlasmNetwork/Astar))
 - [NFT Explorer for Kusama & Polkadot & Substrate ecosystem](https://github.com/kodadot/nft-gallery)
 - [Polkadot Rewards](https://github.com/insipx/polkadot-rewards) - CLI App to crawl staking rewards for Kusama, Polkadot, and Moonriver from Subscan.
+- [Polkadot.js Extension](https://github.com/polkadot-js/extension) - Simple browser extension for managing Polkadot and Substrate network accounts in a browser.

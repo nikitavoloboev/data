@@ -25,3 +25,4 @@
 - [Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)
 - [Ask HN: Why is UI design in Unity so hard? (2022)](https://news.ycombinator.com/item?id=30408868)
 - [Awesome Unity 3D](https://github.com/insthync/awesome-unity3d)
+- [r2modman](https://github.com/ebkr/r2modmanPlus) - Simple and easy to use mod manager for several Unity games using Thunderstore.

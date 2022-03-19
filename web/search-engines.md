@@ -209,3 +209,6 @@
 - [couch](https://github.com/anoriqq/couch) - Simple full text search engine written in Go.
 - [Tantiny](https://github.com/baygeldin/tantiny) - Tiny full-text search for Ruby powered by Tantivy.
 - [Searchengines.guru](https://searchengines.guru/en)
+- [Alexandria Search](https://www.alexandria.org/) ([HN](https://news.ycombinator.com/item?id=30724592)) ([Code](https://github.com/alexandria-org/alexandria))
+- [A look at search engines with their own indexes (2021)](https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html)
+- [If Google sucks then why is everyone still using it?](https://abhinavsharma.com/blog/google-alternatives) ([HN](https://news.ycombinator.com/item?id=30725933))

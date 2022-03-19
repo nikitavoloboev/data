@@ -298,3 +298,5 @@
 - [SmartKnob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents. ([HN](https://news.ycombinator.com/item?id=30646371))
 - [Oxide at Home: Propolis says Hello (2022)](https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html) ([HN](https://news.ycombinator.com/item?id=30671447)) ([Lobsters](https://lobste.rs/s/jdqlyj/oxide_at_home_propolis_says_hello))
 - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) ([HN](https://news.ycombinator.com/item?id=30671391))
+- [Semiconductors are more than just processors and GPUs (2022)](https://blog.robertelder.org/semiconductor-example-uses/) ([HN](https://news.ycombinator.com/item?id=30711621))
+- [Trusted Firmware](https://www.trustedfirmware.org/) - Open Source Secure Software - Trusted Firmware.

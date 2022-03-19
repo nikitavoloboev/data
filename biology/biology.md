@@ -111,3 +111,4 @@
 - [Detailed simulation of complete minimal cellular life](<https://www.cell.com/cell/fulltext/S0092-8674(21)01488-4>) ([HN](https://news.ycombinator.com/item?id=30474256))
 - [Cell Browser](https://a9.io/gramstract/) ([Tweet](https://twitter.com/maxkriegers/status/1465187926157918210))
 - [Symmetry found in biology](https://twitter.com/evoluchico/status/1503307804043583488)
+- [A journey to the center of our cells](https://www.newyorker.com/magazine/2022/03/07/a-journey-to-the-center-of-our-cells) ([HN](https://news.ycombinator.com/item?id=30713797))

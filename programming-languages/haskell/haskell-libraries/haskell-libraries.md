@@ -32,6 +32,7 @@
 - [acid-state](https://github.com/acid-state/acid-state) - Add ACID guarantees to any serializable Haskell data structure.
 - [oso](https://github.com/circuithub/oso) - Haskell bindings to the Polar query engine and Oso authorization library.
 - [haskell-relational-record](https://github.com/khibino/haskell-relational-record) - Includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.
+- [HieDb](https://github.com/wz1000/HieDb) - Generates a references DB from .hie files.
 
 ## Test
 
@@ -246,6 +247,7 @@
 - [monoidal-containers](https://github.com/bgamari/monoidal-containers) - Maps using values' monoidal structure during merging.
 - [Chronos](https://github.com/andrewthad/chronos) - Haskell time library focusing on performance.
 - [fastsum](https://github.com/patrickt/fastsum) - Fast open-union type, suitable for 100+ contained alternatives.
+- [co-log](https://github.com/co-log/co-log) - Flexible and configurable modern Haskell logging framework.
 - [co-log-core](https://github.com/co-log/co-log-core) - Core types and functions that power the Haskell `co-log` implementation.
 - [shellmet](https://github.com/kowainik/shellmet) - Out of the shell solution for scripting in Haskell.
 - [summer](https://github.com/SamuelSchlesinger/summer) - Extensible sums and products for Haskell.
@@ -261,6 +263,7 @@
 - [mustache](https://github.com/JustusAdam/mustache) - Haskell implementation of mustache templates.
 - [Flow](https://github.com/tfausak/flow) - Write more understandable Haskell.
 - [parameterized-utils](https://github.com/GaloisInc/parameterized-utils) - Utilities for using indexed types including containers, equality, and comparison.
+- [hkd](https://github.com/ekmett/hkd) - Higher-kinded data.
 
 ## Notes
 

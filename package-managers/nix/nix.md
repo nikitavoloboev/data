@@ -2,7 +2,9 @@
 
 [nix.dev](https://nix.dev/) & [Nix One Pager](https://github.com/tazjin/nix-1p) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.
 
-Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects.
+Looking into using [Nix Quick Install Action](https://github.com/nixbuild/nix-quick-install-action) in my projects. [devshell](https://github.com/numtide/devshell) is neat.
+
+I used [Nix time](https://alexfedoseev.com/blog/post/nix-time) article to install Nix on my mac.
 
 ## Notes
 
@@ -312,3 +314,6 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [The hard part of type-checking Nix (2022)](https://www.haskellforall.com/2022/03/the-hard-part-of-type-checking-nix.html)
 - [Shrinkwrap: Taming dynamic shared objects (2022)](https://fzakaria.com/2022/03/14/shrinkwrap-taming-dynamic-shared-objects.html)
 - [any-nix-shell](https://github.com/haslersn/any-nix-shell) - Fish and Zsh support for the nix run and nix-shell environments of the Nix package manager.
+- [Nix time (2022)](https://alexfedoseev.com/blog/post/nix-time)
+- [Flake For Non-Nix Projects (2022)](https://duan.ca/2022/03/19/nix-dirnev/)
+- [Shrinkwrap](https://github.com/fzakaria/shrinkwrap) - Tool that embosses the needed dependencies on the top level executable.

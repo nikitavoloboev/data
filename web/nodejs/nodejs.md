@@ -256,7 +256,7 @@
 - [stream-http](https://github.com/jhiesey/stream-http) - Streaming node http in the browser.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js. ([Web](https://moleculer.services/)) ([Template](https://github.com/moleculerjs/moleculer-template-project-typescript))
 - [skr canvas](https://github.com/Brooooooklyn/canvas) - Google Skia binding to Node.js via Node-API, 0 System dependencies.
-- [Clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies.
+- [Clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library with no runtime dependencies. ([Web](https://mael.dev/clipanion/))
 - [HyperExpress](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
 - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) - NodeJS proxy which adds CORS headers to the proxied request.
 - [tsno](https://github.com/egoist/tsno) - `node` with typescript support, importing from URL, etc.
@@ -334,3 +334,5 @@
 - [napi-rs/dog](https://github.com/Brooooooklyn/dog) - Watch/compile/restart your Node.js application for developing.
 - [Mitm.js](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing.
 - [Workshop on Node.js Streams](https://github.com/lmammino/streams-workshop)
+- [node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP.
+- [Netlify Zip it and Ship it](https://github.com/netlify/zip-it-and-ship-it) - Intelligently prepare Node.js Lambda functions for deployment.

@@ -193,3 +193,4 @@ All active variables can be seen by running `env`.
 - [Julia Evans's Shell Examples](https://github.com/jvns/shell-examples)
 - [termsvg](https://github.com/MrMarble/termsvg) - CLI tool to record, share and export your terminal as a animated SVG image.
 - [Bearings](https://github.com/liamg/bearings) - Fast, clean, customizable shell prompt for zsh, bash, fish, and more.
+- [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Prompt theme engine for any shell. ([Web](https://ohmyposh.dev/))

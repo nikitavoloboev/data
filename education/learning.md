@@ -1,6 +1,6 @@
 # Learning
 
-I love [Learney's approach to learning (show clear dependencies / track topics to learn / show best resources)](https://twitter.com/nikitavoloboev/status/1462921646575173633). [Feynman Technique](https://twitter.com/SahilBloom/status/1475096936395026434) is nice too.
+I love [Learney's approach to learning (show clear dependencies / track topics to learn / show best resources)](https://twitter.com/nikitavoloboev/status/1462921646575173633). [Feynman Technique](https://twitter.com/SahilBloom/status/1475096936395026434) is nice too. [Edrys](https://edrys.org/) seems like a nice learning platform.
 
 ## Notes
 
@@ -200,3 +200,5 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Complex matters in simple doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
 - [Teaching is a slow process of becoming everything you hate](https://dynomight.net/teaching/) ([HN](https://news.ycombinator.com/item?id=30651720))
 - [Celebrate tiny learning milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/)
+- [Codedamn](https://codedamn.com/) - Learn full-stack web development with interactive courses.
+- [Edrys](https://edrys.org/) - Next Generation of Remote Teaching Software. ([HN](https://github.com/edrys-org/edrys)) ([HN](https://news.ycombinator.com/item?id=30728064))

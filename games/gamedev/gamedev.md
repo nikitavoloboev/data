@@ -237,3 +237,4 @@
 - [Video Game Project Management Anti-patterns (2022)](https://arxiv.org/abs/2202.06183) ([HN](https://news.ycombinator.com/item?id=30344251))
 - [Hathora](https://github.com/hathora/hathora) - Framework for building multiplayer games and other real time applications. ([Docs](https://docs.hathora.dev/#/)) ([HN](https://news.ycombinator.com/item?id=30442072))
 - [Pikuma: Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) ([HN](https://news.ycombinator.com/item?id=30522955))
+- [Building games through natural language using OpenAI’s code-DaVinci model (2022)](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/) ([HN](https://news.ycombinator.com/item?id=30717773))

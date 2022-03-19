@@ -194,3 +194,4 @@
 - [Using files with browsers, in reality (2022)](https://macwright.com/2022/03/04/browsers-and-files.html)
 - [Ask HN: Full-text browser history search forever? (2022)](https://news.ycombinator.com/item?id=30696451)
 - [Awesome WebExtensions](https://github.com/fregante/Awesome-WebExtensions)
+- [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)

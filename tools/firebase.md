@@ -61,3 +61,5 @@
 - [Fireship.io](https://fireship.io/) - Build and ship your app faster (courses). ([Code](https://github.com/fireship-io/fireship.io))
 - [WASM on Firebase Cloud Function](https://github.com/katopz/hello-firebase-wasm)
 - [Refi App](https://github.com/thanhlmm/refi-app) - Open-source GUI tool to make interacting with Firestore less painful. ([Web](https://refiapp.io/))
+- [Firebase - YouTube](https://www.youtube.com/c/firebase/videos) ([Code](https://github.com/FirebaseExtended/firebase-video-samples))
+- [Prediction market: We're unhappy with Firestore. What will we switch to? (2022)](https://manifold.markets/Austin/what-database-will-manifold-be-prim) ([HN](https://news.ycombinator.com/item?id=30729938))

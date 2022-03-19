@@ -21,3 +21,4 @@ Go over how I use my iPad [here](https://github.com/nikitavoloboev/my-ios#ipad).
 - [Turning an iPad Pro into the Ultimate Classic Macintosh (2021)](https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/)
 - [New Kind of Paper](https://mlajtos.mu/posts/new-kind-of-paper) ([HN](https://news.ycombinator.com/item?id=27576937))
 - [Reflections on Software Development from Anywhere on an iPad](https://ghuntley.com/anywhere/) ([HN](https://news.ycombinator.com/item?id=29024834))
+- [Concepts App](https://concepts.app/en/) - Infinite, Flexible Sketching.

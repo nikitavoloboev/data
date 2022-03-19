@@ -76,3 +76,5 @@
 - [Minze](https://github.com/n6ai/minze) - Dead-simple framework for shareable web components. ([Docs](https://minze.dev/))
 - [web-component](https://github.com/vardius/web-component) - Lightweight library providing interface for building web components.
 - [Node Editor (Web Components)](https://github.com/Qix-/node-editor) - Zero dependency, unopinionated node editor built as a reusable web component.
+- [Kor](https://kor-ui.com/introduction/welcome) - User Interface Component Library based on LitElement / lit-html. ([Code](https://github.com/kor-ui/kor))
+- [Clarity Design System](https://clarity.design/) - Scalable, accessible, customizable, open-source design system built with web components. ([Code](https://github.com/vmware-clarity/core))

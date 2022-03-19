@@ -318,6 +318,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## DB
 
 - [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
+- [hashmap](https://github.com/tidwall/hashmap) - Efficient hashmap implementation in Go.
 - [reform](https://github.com/go-reform/reform) - Better ORM for Go and database/sql.
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [GORM](https://github.com/go-gorm/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.. ([Web](https://gorm.io/))
@@ -428,6 +429,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-zetasql](https://github.com/goccy/go-zetasql) - Go bindings for ZetaSQL. ZetaSQL can parse all queries related to Cloud Spanner and BigQuery.
 - [Permify Gorm](https://github.com/Permify/permify-gorm) - Associate users with roles and permissions.
 - [Goven](https://github.com/SeldonIO/goven) - Go library that allows you to have a drop-in query language for your database schema.
+- [Margaret](https://github.com/cryptoscope/margaret) - Flume-like persisted append-only log implementation.
+- [RedisAI Go Client](https://github.com/RedisAI/redisai-go)
 
 ## ML
 
@@ -1413,6 +1416,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [jsonenums](https://github.com/campoy/jsonenums) - Tool to automate the creation of methods that satisfy the json.Marshaler and json.Unmarshaler interfaces.
 - [Objx](https://github.com/stretchr/objx) - Go package for dealing with maps, slices, JSON and other data.
 - [Centrifuge](https://github.com/centrifugal/centrifuge) - Real-time messaging library for Go with scalability in mind.
+- [Certstore](https://github.com/tailscale/certstore) - Go library for accessing user identities stored in platform certificate stores.
+- [walk](https://github.com/kr/walk) - Walks io/fs filesystems using an iterator style.
+- [binarydist](https://github.com/kr/binarydist) - Binary diff and patch.
+- [diff](https://github.com/kr/diff) - Print differences between two Go values.
+- [restruct](https://github.com/go-restruct/restruct) - Rich binary (de)serialization library for Go.
 
 ## Links
 
@@ -1481,3 +1489,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [How to write documentation for a private Go project? (2022)](https://www.reddit.com/r/golang/comments/tcbi6s/general_question_how_to_write_documentation_for_a/)
 - [Log Analysis with netgo (2022)](https://convey.earth/conversation?id=51)
 - [godocdown](https://github.com/robertkrimen/godocdown) - Generates Go documentation in a GitHub-friendly Markdown format.
+- [Go streams (2022)](https://0x46.net/thoughts/2022/03/17/go-streams/) ([Reddit](https://www.reddit.com/r/golang/comments/tgn02j/go_streams_a_look_at_what_is_possible_with/))

@@ -53,3 +53,5 @@
 - [Escoria Demo Game](https://github.com/godot-escoria/escoria-demo-game) - Game example for the point'n'click adventure framework Escoria.
 - [Godot C++](https://github.com/godotengine/godot-cpp) - C++ bindings for the Godot script API.
 - [HN: Godot (2022)](https://news.ycombinator.com/item?id=30622830)
+- [Godot Kotlin JVM](https://github.com/utopia-rise/godot-kotlin-jvm) - Kotlin/JVM binding for the Godot Game Engine.
+- [Exporting Blender models for Godot (2020)](https://tam7t.com/blender-godot-export/)

@@ -507,3 +507,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
 - [Cave Poems and Strange Horticulture (2022)](https://arnicas.substack.com/p/titaa-27-cave-poems-and-strange-horticulture)
 - [Love and Longing in the Seaweed Album (2022)](https://publicdomainreview.org/essay/love-and-longing-in-the-seaweed-album)
+- [Ask HN: What recent art (last ~20 years) will be well known in 500 years? (2022)](https://news.ycombinator.com/item?id=30705039)

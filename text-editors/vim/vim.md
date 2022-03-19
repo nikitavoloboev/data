@@ -295,3 +295,4 @@ zz
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer.
 - [What’s your favorite vim shortcut/hack (2022)](https://lobste.rs/s/hmpuep/what_s_your_favorite_vim_shortcut_hack)
 - [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/Introduction.html) ([HN](https://news.ycombinator.com/item?id=30684232)) ([Code](https://github.com/learnbyexample/vim_reference))
+- [Vim University](https://github.com/wincent/vim-university) - Curriculum for leveling up your Vim.

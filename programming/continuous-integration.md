@@ -83,3 +83,4 @@
 - [Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)
 - [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 - [Lightning-fast CI with nixbuild.net (2022)](https://blog.nixbuild.net/posts/2022-03-16-lightning-fast-ci-with-nixbuild-net.html)
+- [Homu](https://github.com/rust-lang/homu) - Bot that integrates with GitHub and your favorite continuous integration service.

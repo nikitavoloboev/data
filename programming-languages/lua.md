@@ -104,3 +104,4 @@
 - [Lua Devirtualization (2022)](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction) ([HN](https://news.ycombinator.com/item?id=30475616))
 - [luna](https://github.com/cbrewster/luna) - Node.js bindings to Lua.
 - [Why Python is more popular than Lua (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tfurkb/if_lua_is_faster_and_smaller_than_python_while/)
+- [NattLua](https://github.com/CapsAdmin/NattLua) - Superset of LuaJIT that adds a structural typesystem.

@@ -200,3 +200,6 @@
 - [Mastering the Docker cache (2022)](https://contains.dev/blog/mastering-docker-cache)
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Run commands within ethereal docker containers.
 - [cri-dockerd](https://github.com/Mirantis/cri-dockerd) - Adapter provides a shim for Docker Engine that lets you control Docker via the Kubernetes Container Runtime Interface.
+- [Guide on how to make Docker images even smaller (2022)](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
+- [Docker Registry UI](https://github.com/Quiq/docker-registry-ui)
+- [Dockerfile Dependency graph](https://po3rin.github.io/dockerdot/) - Shows Dockerfile dependency graph. Useful to understand how build Dockerfile. ([Code](https://github.com/po3rin/dockerdot))

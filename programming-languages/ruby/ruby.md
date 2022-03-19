@@ -115,3 +115,4 @@
 - [mruby-zig](https://github.com/dantecatalfamo/mruby-zig) - mruby bindings for zig.
 - [Ruby Together](https://rubytogether.org/) - Community funded developer infrastructure. ([HN](https://news.ycombinator.com/item?id=30622186))
 - [Pipelining without pipes (2022)](https://thoughtbot.com/blog/pipelining-without-pipes-in-ruby)
+- [What makes Ruby's blocks great (2022)](https://maxlap.dev/blog/2022/02/10/what-makes-ruby-blocks-great.html)

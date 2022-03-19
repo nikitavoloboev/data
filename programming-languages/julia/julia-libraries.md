@@ -76,6 +76,7 @@
 - [ShapML](https://github.com/nredell/ShapML.jl) - Julia package for interpretable machine learning with stochastic Shapley values.
 - [DiffEqCallbacks.jl](https://github.com/SciML/DiffEqCallbacks.jl) - Library of callbacks for extending the solvers of DifferentialEquations.jl.
 - [DynamicPPL.jl](https://github.com/TuringLang/DynamicPPL.jl) - Implementation of domain-specific language (DSL) for dynamic probabilistic programming.
+- [FluxArchitectures](https://github.com/sdobber/FluxArchitectures.jl) - Complex neural network examples for Flux.jl.
 
 ## Math
 
@@ -502,6 +503,7 @@
 - [Configurations](https://github.com/Roger-luo/Configurations.jl) - Options & Configurations made easy.
 - [AMQPClient](https://github.com/JuliaComputing/AMQPClient.jl) - Julia AMQP (Advanced Message Queuing Protocol) / RabbitMQ Client.
 - [DynamicAxisWarping.jl](https://github.com/baggepinnen/DynamicAxisWarping.jl) - Dynamic Time Warping (DTW), matrix profile and related algorithms in Julia.
+- [PyCallChainRules](https://github.com/rejuvyesh/PyCallChainRules.jl) - Differentiate python calls from Julia.
 
 ## Links
 

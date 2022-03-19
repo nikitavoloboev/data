@@ -163,3 +163,5 @@
 - [image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions.
 - [sic](https://github.com/foresterre/sic) - Accessible image processing and conversion from the terminal.
 - [3D Slicer](https://www.slicer.org/) - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research. ([Code](https://github.com/Slicer/Slicer))
+- [BPG Image format](https://bellard.org/bpg/) - Purpose is to replace the JPEG image format when quality or file size is an issue. ([HN](https://news.ycombinator.com/item?id=30712944))
+- [Serverless Image Handler](https://github.com/aws-solutions/serverless-image-handler) - Solution to dynamically handle images on the fly, utilizing SharpJS.

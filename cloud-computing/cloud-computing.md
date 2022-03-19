@@ -46,6 +46,7 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Renderro](https://renderro.com/) - Powerful Cloud Computer For Creatives.
 - [Yandex Cloud](https://cloud.yandex.com/en/) ([GitHub](https://github.com/yandex-cloud))
 - [Akash Network](https://akash.network/) - Secure, transparent, and peer-to-peer cloud computing network. ([Code](https://github.com/ovrclk/akash)) ([GitHub](https://github.com/ovrclk)) ([Awesome](https://github.com/ovrclk/awesome-akash))
+- [SetOps](https://www.setops.co/) - Cloud Deployment made for Developers.
 
 ## Notes
 

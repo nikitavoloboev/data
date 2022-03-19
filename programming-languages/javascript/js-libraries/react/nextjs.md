@@ -67,6 +67,7 @@
 - [RainySystems Template Web App](https://github.com/RainySystems/RS-Webapp-Template-Nextjs) - Built with Next.js and Appwrite.
 - [NextJS Lite Example](https://github.com/shaneosullivan/NextJSLiteExample) - Server side only rendering.
 - [next-markdown](https://github.com/frouo/next-markdown) - Easily generate pages from markdown files in any Next.js project.
+- [THUBurrow](https://github.com/BobAnkh/THUBurrow) - Forum built by Next.js and Rocket.
 
 ## NextJS plugins
 
@@ -329,3 +330,4 @@
 - [next-graphql-server](https://github.com/zaiste/next-graphql-server) - Library for building production-grade GraphQL servers using Next.js with API Routes.
 - [Keystone Next Auth](https://github.com/OpenSaasAU/keystone-nextjs-auth)
 - [How to create a link preview with Next.js, Prisma and TailwindCSS (2022)](https://hashnode.com/post/how-to-create-a-link-preview-with-nextjs-prisma-and-tailwindcss-cl0phma0006fx2onvhgsbebry)
+- [Upgrading Next.js for instant performance improvements (2022)](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)

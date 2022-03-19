@@ -220,6 +220,7 @@
 - [Product Brew](https://productbrew.com/) - Small team of developers and thinkers that thrive on connection and the creation of your product. ([GitHub](https://github.com/productbrew))
 - [magicstack](http://magic.io/) - Experts in modern reactive web. ([GitHub](https://github.com/MagicStack))
 - [Black Square Media](https://blacksquaremedia.com/) ([GitHub](https://github.com/bsm))
+- [Uptech Studio](https://www.uptechstudio.com/) - Product, Design, and Development. ([GitHub](https://github.com/uptech))
 
 ## Notes
 

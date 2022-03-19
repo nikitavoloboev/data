@@ -4,6 +4,8 @@
 
 ## OSS Remix apps
 
+- [Remix Blues Stack](https://github.com/remix-run/blues-stack) - Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
+- [Remix Indie Stack](https://github.com/remix-run/indie-stack) - Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [Remix Template](https://github.com/QuentinWidlocher/remix-template) - Batteries included Remix template with Tailwind, Prisma and powerful form utils.
 - [Remix Starter](https://github.com/AnandChowdhary/remix-starter) - Remix starter with intuitive defaults, like support for internationalization and localized URLs.
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
@@ -29,6 +31,7 @@
 
 ## Plugins
 
+- [remix-redis-session](https://github.com/DAlperin/remix-redis-session) - Simple library to use redis as your session backing store in your remix project.
 - [Remix Auth - Supabase Strategy](https://github.com/mitchelvanbever/remix-auth-supabase-strategy)
 - [OAuth2Strategy](https://github.com/sergiodxa/remix-auth-oauth2) - OAuth2Strategy for Remix Auth.
 - [GitHubStrategy](https://github.com/sergiodxa/remix-auth-github) - GitHubStrategy for Remix Auth, based on the OAuth2Strategy.

@@ -137,3 +137,4 @@
 - [Django Garnett](https://github.com/Aristotle-Metadata-Enterprises/django-garnett) - Field level translation library that allows you to store strings in multiple languages.
 - [Django CORS Headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
 - [Security And Django](https://www.mattlayman.com/understand-django/secure-apps/)
+- [Awesome Django Blogs](https://github.com/theArjun/awesome-django-blogs)

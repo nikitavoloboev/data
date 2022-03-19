@@ -1,5 +1,7 @@
 # [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
+[Illustrated TLS Connection](https://tls.ulfheim.net/) is useful.
+
 ## Links
 
 - [duraconf](https://github.com/ioerror/duraconf) - Collection of hardened configuration files for SSL/TLS services.
@@ -72,3 +74,5 @@
 - [Transport Layer Security (5/6) (2022)](https://blog.bithole.dev/tls.html)
 - [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.ulfheim.net/)
 - [Bulletproof TLS and PKI (2022)](https://www.feistyduck.com/books/bulletproof-tls-and-pki/) - Understanding and deploying SSL/TLS and PKI to secure servers and web applications.
+- [tls-scan](https://github.com/prbinu/tls-scan) - Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven ).
+- [tincan-tls](https://github.com/syncsynchalt/tincan-tls) - Clean room implementation of TLS 1.3.

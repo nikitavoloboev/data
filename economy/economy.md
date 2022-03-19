@@ -142,3 +142,4 @@
 - [Just Say No to CBDCs](https://theupheaval.substack.com/p/just-say-no-to-cbdcs?s=r) ([Reddit](https://www.reddit.com/r/Monero/comments/tbtgx8/just_say_no_to_cbdcs/))
 - [We must return to an economy fueled by innovation, rather than disruption (2022)](https://greg-satell.medium.com/how-the-uber-economy-is-killing-innovation-prosperity-and-entrepreneurship-7222982cd457) ([HN](https://news.ycombinator.com/item?id=30658835))
 - [How entire generation learned about money, game theory from Runescape](https://twitter.com/wizofecom/status/1503722998011940869)
+- [How Asset Managers Have Upended How Modern Capitalism Works (2022)](https://nymag.com/intelligencer/2022/03/how-asset-managers-have-upended-how-modern-capitalism-works.html)

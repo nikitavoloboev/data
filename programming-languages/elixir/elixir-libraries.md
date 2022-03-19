@@ -145,6 +145,7 @@
 - [Flow](https://github.com/dashbitco/flow) - Computational parallel flows on top of GenStage. ([Intro to Elixir Flow](https://blog.joelabshier.com/%F0%9F%8C%8A-a-realworld-introduction-to-elixir-flow/))
 - [Jsonrs](https://github.com/benhaney/Jsonrs) - Rust powered JSON library for Elixir.
 - [Semaphore](https://github.com/discord/semaphore) - Fast semaphore using ETS.
+- [MJML](https://github.com/adoptoposs/mjml_nif) - Elixir NIF bindings for the MJML Rust implementation.
 
 ## Links
 

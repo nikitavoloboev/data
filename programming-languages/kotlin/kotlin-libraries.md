@@ -59,6 +59,7 @@
 - [ktoml](https://github.com/akuleshov7/ktoml) - Multiplatform TOML parser and serializer/deserializer for Kotlin Native.
 - [DI.kt](https://github.com/sergeshustoff/dikt) - Simple and powerful DI for kotlin multiplatform.
 - [Textricator](https://github.com/measuresforjustice/textricator) - Tool to extract text from documents and generate structured data.
+- [Komposable Architecture](https://github.com/toggl/komposable-architecture) - Kotlin implementation of Point-Free's composable architecture.
 
 ## Links
 

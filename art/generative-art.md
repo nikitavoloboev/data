@@ -209,3 +209,6 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [Drawing generative NFT mushrooms with Three.js (2022)](https://ferluht.github.io/2022/02/16/generative-mushrooms.html)
 - [Electric Sheep](https://electricsheep.org/) - Crowdsourced Evolving Art. ([Code](https://github.com/scottdraves/electricsheep))
 - [FLAM3](https://flam3.com/) - Cosmic recursive fractal flames. ([Code](https://github.com/scottdraves/flam3))
+- [Birb’s Nest Discord](https://discord.com/invite/S8c7qcjw2b)
+- [Creative Code resources for beginners and beyond](https://sableraph.notion.site/sableraph/Creative-Code-resources-for-beginners-and-beyond-p5-js-edition-WIP-38fce7d30b1d41a9a626ab70440f40ca)
+- [Sketchy](https://github.com/aldernero/sketchy) - Framework for making generative art in Go.

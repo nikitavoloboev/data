@@ -50,6 +50,7 @@
 - [OAuth2 Rust](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library.
 - [JavaScript Authentication & Authorization Book/Course](https://gist.github.com/taniarascia/a2d35af43ce133de20ac0a8c72558fea)
 - [ASGI middleware that authenticates users against GitHub](https://github.com/simonw/asgi-auth-github)
+- [JSON Web Tokens](https://jwt.io/) - Open, industry standard RFC 7519 method for representing claims securely between two parties. ([Web Code](https://github.com/jsonwebtoken/jsonwebtoken.github.io))
 - [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
 - [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [JWT auth visualized](https://twitter.com/kamranahmedse/status/1273375903511465990)
@@ -207,3 +208,6 @@
 - [Online JWT tool](https://dinochiesa.github.io/jwt/) - JWT Decoder, Verifier, Generator, Decryptor. ([Code](https://github.com/DinoChiesa/jwt-webtool))
 - [Permify](https://www.permify.co/) - Authorization service and API. Build flexible and faster apps with custom RBAC system.
 - [OAuth 2 / OpenID Connect Client for Web API runtimes](https://github.com/panva/oauth4webapi)
+- [webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go.
+- [A Summary of OAuth 2.0 Attack Methods (2022)](https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html) ([HN](https://news.ycombinator.com/item?id=30717470))
+- [PropelAuth](https://www.propelauth.com/) - End-to-end auth service for B2B products. ([HN](https://news.ycombinator.com/item?id=30700770))

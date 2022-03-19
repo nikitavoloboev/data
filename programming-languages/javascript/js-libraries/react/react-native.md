@@ -1,6 +1,6 @@
 # [React Native](https://facebook.github.io/react-native/)
 
-[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat.
+[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too.
 
 ## Nice OSS RN apps
 
@@ -201,3 +201,5 @@
 - [React Native Toast Message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native.
 - [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100)) ([Tweet](https://twitter.com/FernandoTheRojo/status/1503457235929862154))
 - [An update on the New Architecture Rollout (2022)](https://reactnative.dev/blog/2022/03/15/an-update-on-the-new-architecture-rollout)
+- [React Native Image Modal](https://github.com/dev-yakuza/react-native-image-modal)
+- [Avoid Keyboard in React Native Like a Pro](https://www.netguru.com/blog/avoid-keyboard-react-native) ([Tweet](https://twitter.com/sebastienlorber/status/1504027856854306816))

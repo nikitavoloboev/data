@@ -6,6 +6,8 @@ I always view my events from `Week` view & have 7 days in view with 18 hours sho
 
 I often switch between `Week` and `Month` views.
 
+[Amie](https://www.amie.so/) is nice too.
+
 ## Notes
 
 - To mass delete events, make empty search query (single space) on events I want to remove and delete them. Can also use stock Calendar app and search for `""` and cmd+shift+arrows events I want to delete.
@@ -26,3 +28,6 @@ I often switch between `Week` and `Month` views.
 - [Cal.com](https://cal.com/) - Open Scheduling Infrastructure. ([Code](https://github.com/calcom/cal.com))
 - [ics](https://github.com/adamgibbons/ics) - iCalendar generator.
 - [Datebook](https://github.com/jshor/datebook) - Generates URLs and downloadable ICS files for adding events to popular calendar apps. ([Web](https://datebook.dev/))
+- [Calenday](https://calenday.co/) - Real-time collaborative calendars for trip planning. ([HN](https://news.ycombinator.com/item?id=30723793))
+- [Amie](https://www.amie.so/) - Joyful productivity. Schedule time for todos, events, and contacts.
+- [datasette-ics](https://github.com/simonw/datasette-ics) - Datasette plugin for outputting iCalendar files.

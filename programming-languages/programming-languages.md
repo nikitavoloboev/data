@@ -323,3 +323,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Hare](https://harelang.org/) - Systems programming language designed to be simple, stable, and robust. ([Code](https://sr.ht/~sircmpwn/hare/))
 - [Why am I building a programming language in private? (2022)](https://drewdevault.com/2022/03/13/Why-am-I-working-in-private.html) ([HN](https://news.ycombinator.com/item?id=30662430))
 - [Eclectica](https://github.com/markelog/eclectica) - Unifies management of any language under one cohesive and minimalistic interface.
+- [ABI-Checker](https://github.com/Gankra/abi-checker) - Automate testing that two languages/compilers agree on ABIs for the purposes of.
+- [Gistit](https://github.com/demfabris/gistit) - Quick and easy code snippet sharing tool. ([Web](https://gistit.vercel.app/))
+- [Languages with native support for tables](https://twitter.com/josevalim/status/1504558398095990788)
+- [List of new budding programming languages and their interesting features (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/thcqko/a_list_of_new_budding_programming_languages_and/)

@@ -54,3 +54,4 @@
 - [Pathbird](https://pathbird.com/) - Platform for instructors to build interactive, engaging, inquiry-based lessons for computational courses. ([GitHub](https://github.com/pathbird))
 - [NUSMods](https://github.com/nusmodifications/nusmods) - Official course catalogue, module search and timetable builder for the National University of Singapore.
 - [Otus](https://otus.ru/) - Courses for professionals.
+- [CourseKit](https://coursekit.dev/) - Headless Online Video Course Platform for Developers. ([Code](https://github.com/course-kit/client))

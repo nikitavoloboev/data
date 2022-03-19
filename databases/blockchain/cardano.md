@@ -57,3 +57,4 @@ Cardano appears to be a [project that didn't meet its goals](https://twitter.com
 - [Oura](https://github.com/txpipe/oura) - Tail of Cardano.
 - [Pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem.
 - [Kupo](https://github.com/CardanoSolutions/kupo) - Fast, lightweight & configurable chain-index for Cardano.
+- [PyCardano](https://github.com/cffls/pycardano) - Lightweight Cardano library in Python.

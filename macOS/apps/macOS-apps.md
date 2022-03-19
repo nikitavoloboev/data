@@ -178,7 +178,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [TextSniper](https://textsniper.app/) - Capture and extract any text from your Mac's screen.
 - [Lunar](https://lunar.fyi/) - Control your monitors.
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
-- [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger))
+- [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger)) ([Guide](https://kean.blog/pulse/guides/pulse-pro)) ([Code](https://github.com/kean/PulsePro))
 - [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
 - [kindaVim](https://github.com/godbout/kindaVim) - Vim moves for the whole macOS. in input fields and more. ([Web](https://kindavim.app/)) ([Web Code](https://github.com/godbout/kindaVim.theapp))
 - [One Switch](https://fireball.studio/oneswitch)

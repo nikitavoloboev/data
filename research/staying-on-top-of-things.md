@@ -177,6 +177,8 @@ And these Discord servers:
 - [C41 Magazine](https://www.c41magazine.com/)
 - [The War Zone](https://www.thedrive.com/the-war-zone)
 - [U.S.-China Perception Monitor](https://uscnpm.org/)
+- [New Lines Magazine](https://newlinesmag.com/)
+- [Truthout](https://truthout.org/) - Fearless, Independent News & Analysis.
 
 ### Other
 

@@ -48,3 +48,4 @@
 - [What Every Programmer Absolutely, Positively Needs To Know About Encodings (2011)](https://kunststube.net/encoding/) ([HN](https://news.ycombinator.com/item?id=30384223))
 - [Why I invented “dash encoding”, a new encoding scheme for URL paths (2022)](https://simonwillison.net/2022/Mar/5/dash-encoding/) ([Tweet](https://twitter.com/simonw/status/1500228316309061633))
 - [You Don't Know GIF – An analysis of a GIF file and some weird GIF features (2022)](https://blog.darrien.dev/posts/you-dont-know-gif/)
+- [DeGauss](https://github.com/vertexclique/degauss) - Avro schema compatibility checker.

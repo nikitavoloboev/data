@@ -51,3 +51,4 @@
 - [jinsi](https://github.com/scravy/jinsi) - JSON/YAML homoiconic templating language.
 - [ymlx](https://github.com/matthewadams/ymlx) - Command-line YAML processing tool.
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file.
+- [Ask HN: How do you share your personal setup over different computers? (2022)](https://news.ycombinator.com/item?id=30723738)

@@ -1,6 +1,6 @@
 # [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
-Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
+Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for more complex state handling. [React Query](https://react-query.tanstack.com/) is great for web requests & caching. [ahooks](https://ahooks.js.org/) has many useful hooks too.
 
 ## State
 
@@ -10,6 +10,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.
 - [Concave](https://github.com/garbles/concave) - Lens-like state management.
 - [Stook](https://github.com/forsigner/stook) - Minimalist design state management library for React.
+- [Focal](https://github.com/grammarly/focal) - Type safe, expressive and composable state management for React applications.
 
 ## DB
 
@@ -168,6 +169,7 @@ Like [valtio](https://github.com/pmndrs/valtio) for more complex state handling.
 - [Alibaba Hooks](https://github.com/alibaba/hooks) - High-quality & reliable React Hooks library. ([Docs](https://ahooks.js.org/hooks/use-request/index))
 - [Recoil Persist](https://github.com/polemius/recoil-persist) - Tiny module for recoil to store and sync state to Storage.
 - [React Click Away Listener](https://github.com/ooade/react-click-away-listener) - Tiny React Click Away Listener built with React Hooks.
+- [react-event-hook](https://github.com/etienne-martin/react-event-hook) - Library for emitting and listening to events in a React application.
 
 ## Code
 

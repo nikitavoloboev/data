@@ -1,5 +1,7 @@
 # Displays
 
+[Apple Studio Display](https://twitter.com/marcedwards/status/1504622989811232774) is nice.
+
 ## Links
 
 - [Time to upgrade your monitor (2020)](https://tonsky.me/blog/monitors/) ([HN](https://news.ycombinator.com/item?id=23551983)) ([Lobsters](https://lobste.rs/s/wg9zus/time_upgrade_your_monitor))
@@ -17,3 +19,4 @@
 - [Apple 27-inch 5K Studio Display](https://www.apple.com/studio-display/) ([HN](https://news.ycombinator.com/item?id=30604375))
 - [Ask HN: Why aren’t there more third party retina screens? (2022)](https://news.ycombinator.com/item?id=30631288)
 - [A volumetric display using an acoustically trapped particle (2021)](https://www.youtube.com/watch?v=hCC1C5KIeUA) ([HN](https://news.ycombinator.com/item?id=30642954))
+- [Apple’s $1,599 Studio Display vs. Other Monitors: You Won’t Get What You Pay For (2022)](https://www.wsj.com/articles/apples-1-599-studio-display-vs-other-monitors-you-wont-get-what-you-pay-for-11647521601) ([Tweet](https://twitter.com/JoannaStern/status/1504443171127894024))

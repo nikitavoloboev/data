@@ -41,6 +41,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - Legend for your keymaps and commands, with which-key.nvim integration.
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides for Neovim.
 - [fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - Jump to fuzzy match word.
+- [jaq-nvim](https://github.com/is0n/jaq-nvim) - Quickrun Plugin for Neovim in Lua.
 - [vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [coq.nvim](https://github.com/ms-jpq/coq_nvim) - Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [Navigator](https://github.com/ray-x/navigator.lua) - Navigate codes like a breeze. Exploring LSP and Treesitter.
@@ -299,3 +300,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Ultimate vimrc](https://github.com/amix/vimrc)
 - [Litee.nvim](https://github.com/ldelossa/litee.nvim) - Library for building "IDE-lite" experiences in Neovim.
 - [boilit](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure for neovim plugins.
+- [Pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim.

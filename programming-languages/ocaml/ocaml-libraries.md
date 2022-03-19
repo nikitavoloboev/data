@@ -162,6 +162,7 @@
 - [Affect](https://github.com/dbuenzli/affect) - Composable concurrency primitives with OCaml effects handlers.
 - [Depyt](https://github.com/samoht/depyt) - Type combinator library.
 - [ocaml-websocket](https://github.com/vbmithr/ocaml-websocket) - Websocket library for OCaml.
+- [ORaft](https://github.com/komamitsu/oraft) - Library of Raft consensus algorithm implemented in OCaml.
 
 ## Links
 

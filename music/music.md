@@ -192,3 +192,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard.
 - [Study Music](https://github.com/vpavlenko/study-music) - Books, resources and courses to study everything about music and sound in the broadest sense.
 - [Museeks](https://museeks.io/) - Simple, clean and cross-platform music player. ([Code](https://github.com/martpie/museeks))
+- [Catalog](https://beta.catalog.works/)
+- [Canon, Collectibles, and Copies: A Music NFT Experiment (2022)](https://chaim.mirror.xyz/0SRGluR6sYweDWV0qmgF6V1wsN0BvEKsvCVOZCFX7yU)

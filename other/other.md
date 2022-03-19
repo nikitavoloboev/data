@@ -612,3 +612,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Most Useful Rope Knots for the Average Person to Know](https://daveroot.neocities.org/knots/)
 - [14 science fiction stories in under 6 minutes (2022)](https://www.youtube.com/watch?v=iQGl-ffVtaM)
 - [Vibe, Mood, Energy (2022)](https://www.thedriftmag.com/vibe-mood-energy/) ([HN](https://news.ycombinator.com/item?id=30677537))
+- [What's my place in the world population?](https://population.io/) ([HN](https://news.ycombinator.com/item?id=30708217))

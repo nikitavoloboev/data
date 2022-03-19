@@ -151,6 +151,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [etheryal Kernel](https://github.com/etheryalOS/etheryal-kernel) - Open Source Rust kernel; Runs WASM and WASI as lightweight containers.
 - [Stardust Oxide](https://github.com/StardustOS/stardust-oxide) - Rust-based Unikernel. ([Reddit](https://www.reddit.com/r/rust/comments/ta85iy/stardust_oxide_i_wrote_a_unikernel_in_rust_for_my/))
 - [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
+- [Inferno](https://www.vitanuova.com/inferno/) - Small operating system for building cross platform distributed systems. ([HN](https://news.ycombinator.com/item?id=30714509))
 
 ## Notes
 
@@ -340,3 +341,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Bootloader Basics (2022)](https://notes.eatonphil.com/bootloader-basics.html)
 - [Ask HN: What is the oldest, still supported OS? (2022)](https://news.ycombinator.com/item?id=30505219)
 - [CS Course: Design and Implementation of Operating Systems (2021)](https://www.cs.yale.edu/flint/cs422/index.html)
+- [Qemantra](https://github.com/pspiagicw/qemantra) - Tool for creating and running QEMU Virtual Machines.

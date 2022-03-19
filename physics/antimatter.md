@@ -9,3 +9,4 @@
 ## Links
 
 - [Cooling antimatter with lasers (2021)](https://www.youtube.com/watch?v=4kJYoUy99h0) ([Reddit](https://www.reddit.com/r/Physics/comments/nknvwh/cooling_antimatter_with_lasers/))
+- [An Antimatter Experiment Shows Surprises Near Absolute Zero (2022)](https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/) ([HN](https://news.ycombinator.com/item?id=30709847))

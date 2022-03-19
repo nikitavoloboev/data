@@ -1,6 +1,6 @@
 # [Twitter](https://twitter.com/)
 
-[Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great. I like using [this Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for working with Twitter.
+[Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great. I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for working with Twitter.
 
 ## Interesting hash tags
 

@@ -364,3 +364,5 @@ Awesome List
 - [gh-poi](https://github.com/seachicken/gh-poi) - gh extension for deleting merged local branches.
 - [gh-dependabot](https://github.com/einride/gh-dependabot) - GitHub CLI extension to quickly review and approve Dependabot PRs.
 - [Gotchas with Git and the GitHub API (2022)](https://retool.com/blog/gotchas-git-github-api/)
+- [GitHub CSV Tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV.
+- [GitHub Issue to JSON File](https://github.com/zachleat/github-issue-to-json-file)

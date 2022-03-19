@@ -138,3 +138,4 @@
 - [Our Vision for Location-Independent Salaries at Buffer (2022)](https://buffer.com/resources/location-independent-salaries/) ([Tweet](https://twitter.com/buffer/status/1496215497985212425)) ([Tweet](https://twitter.com/joelgascoigne/status/1496259742355931142))
 - [Why not hire part-time developers? (2022)](https://aklos.substack.com/p/why-not-hire-part-time-developers) ([HN](https://news.ycombinator.com/item?id=30490563))
 - [Litebulb](https://www.litebulb.io/) - Automated coding onsite interviews for fast-growing remote teams. ([HN](https://news.ycombinator.com/item?id=30591874))
+- [Putting salary & total compensation on job ads increases traction](https://twitter.com/GergelyOrosz/status/1505083017605394433)

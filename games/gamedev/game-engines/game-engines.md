@@ -104,6 +104,7 @@
 - [Rusty Engine](https://github.com/CleanCut/rusty_engine) - 2D game engine for learning Rust.
 - [Potato](https://github.com/potatoengine/potato) - Hobby C++ game engine.
 - [koi](https://github.com/kettle11/koi) - Game engine in Rust.
+- [Goluwa](https://github.com/CapsAdmin/goluwa) - Game engine, framework, a collection of utilities and experiments written in LuaJIT leveraging FFI.
 
 ## Physics engines
 

@@ -2,6 +2,8 @@
 
 I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minimal theme](https://github.com/calintat/minimal).
 
+[PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme is nice.
+
 ## Themes
 
 - [Even](https://github.com/olOwOlo/hugo-theme-even) - Super concise theme for Hugo.
@@ -74,3 +76,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Nice Cloudflare Blog migration to Hugo (2022)](https://github.com/cloudflare/cloudflare-docs/pull/3609) ([Tweet](https://twitter.com/lukeed05/status/1496620597127696384))
 - [Hugo is awesome, its documentation is not (2022)](https://sagar.se/blog/hugo-documentation/) ([HN](https://news.ycombinator.com/item?id=30527884))
 - [Migrating to Hugo (2022)](https://www.georgeho.org/migrating-to-hugo/)
+- [Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python (2022)](https://blog.ioces.com/matt/posts/everything-old-is-new-again/) ([HN](https://news.ycombinator.com/item?id=30718757))

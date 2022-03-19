@@ -478,3 +478,6 @@
 - [Checking out the Linux kernel in under a second](https://github.com/Byron/gitoxide/discussions/349)
 - [Toward a better list iterator for the Linux kernel (2022)](https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/) ([HN](https://news.ycombinator.com/item?id=30631943))
 - [lxd-snapper](https://github.com/Patryk27/lxd-snapper) - LXD snapshots, automated.
+- [Linux Metrics Workshop](https://github.com/natict/linux-metrics)
+- [Linux on an M1 Mac (2022)](https://twitter.com/AsahiLinux/status/1504626783240736768) ([HN](https://news.ycombinator.com/item?id=30717758)) ([Article](https://asahilinux.org/2022/03/asahi-linux-alpha-release/)) ([HN](https://news.ycombinator.com/item?id=30729212))
+- [Linux Perf Examples](https://www.brendangregg.com/perf.html) ([HN](https://news.ycombinator.com/item?id=30710280))

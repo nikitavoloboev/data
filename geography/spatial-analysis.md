@@ -155,3 +155,6 @@
 - [CGC: Clustering Geo-Data Cubes](https://github.com/phenology/cgc) - Clustering tool for geospatial applications.
 - [Mercantile](https://github.com/mapbox/mercantile) - Spherical mercator coordinate and tile utilities.
 - [YoMo](https://www.yomo.run/) - Open source geo-distributed serverless framework for real-time data processing. ([GitHub](https://github.com/yomorun)) ([Code](https://github.com/yomorun/yomo))
+- [Tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack.
+- [GeoMet](https://github.com/geomet/geomet) - Convert GeoJSON to WKT/WKB, and vice versa.
+- [Introduction to Geospatial Raster and Vector Data with Python](https://github.com/carpentries-incubator/geospatial-python)

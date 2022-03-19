@@ -143,3 +143,4 @@
 - [NanoSim](https://github.com/bcgsc/NanoSim) - Nanopore sequence read simulator.
 - [GenVisR](https://github.com/griffithlab/GenVisR) - Genome data visualizations.
 - [Glow](https://github.com/projectglow/glow) - Open-source toolkit for large-scale genomic analysis.
+- [EVcouplings](https://github.com/debbiemarkslab/EVcouplings) - Evolutionary couplings from protein and RNA sequence alignments.

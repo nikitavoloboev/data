@@ -498,3 +498,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Distributed Code Review For Git](https://github.com/google/git-appraise) - Command line tool for performing code reviews on git repositories.
 - [Git Remote S3 Helper](https://github.com/bgahagan/git-remote-s3) - Push and pull git repos to/from an s3 bucket, encrypted using gpg.
 - [scmpuff](https://github.com/mroth/scmpuff) - Numeric file shortcuts for common git commands.
+- [Ask HN: What is your Git commit/push flow?](https://news.ycombinator.com/item?id=30712175)
+- [git-cl](https://github.com/uptech/git-cl) - Git Changelog.

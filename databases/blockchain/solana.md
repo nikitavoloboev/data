@@ -34,7 +34,7 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)
 - [Solana Scaling Potential](https://www.youtube.com/watch?v=FbCUHBhf-rU)
 - [Solana Season Hackathon](https://github.com/solana-labs/solana-season)
-- [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html)) ([Anchor Book](https://book.anchor-lang.com/))
+- [Anchor](https://github.com/project-serum/anchor) - Framework for Solana's Sealevel runtime providing several convenient developer tools. ([Docs](https://project-serum.github.io/anchor/getting-started/introduction.html)) ([Anchor Book](https://book.anchor-lang.com/)) ([Anchor Book Code](https://github.com/project-serum/anchor-book))
 - [Summary of Solana, the tech, and why it is the future + comparison to other top projects (2021)](https://www.reddit.com/r/solana/comments/n0hyad/a_summary_of_solana_the_tech_and_why_it_is_the/)
 - [Solana vs Algorand (2021)](https://www.reddit.com/r/solana/comments/n1yc3j/solana_vs_algorand/)
 - [In Rust We Trust - Berkeley Packet Filter and Rust (2019)](https://www.youtube.com/watch?v=oBW2KJq3FnA)
@@ -233,3 +233,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana Indexer](https://github.com/holaplex/solana-indexer) - Index Solana data using accountsdb.
 - [Raydium](https://raydium.io/) - Next-level liquidity. Friction-less yield. Light-speed swaps. ([UI Code](https://github.com/raydium-io/raydium-ui)) ([SDK](https://github.com/raydium-io/raydium-sdk)) ([Tutorial](https://www.youtube.com/watch?v=OaTPDlG6J5E)) ([Beta](https://beta.raydium.io/))
 - [Solana Ping API](https://github.com/solana-labs/solana-ping-api)
+- [anchor-client-gen](https://github.com/kklas/anchor-client-gen) - Generate typescript Solana web3 clients from anchor IDLs.
+- [Orca](https://www.orca.so/) - Easiest place to exchange cryptocurrency on Solana. ([Discord](https://discord.orca.so/))

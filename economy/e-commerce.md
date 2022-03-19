@@ -98,6 +98,7 @@ Love [Italic](https://italic.com/)'s store UX.
 - [OpenBazaar](https://openbazaar.org/) - Truly decentralized, peer-to-peer e-commerce. ([GitHub](https://github.com/OpenBazaar))
 - [Product Chart](https://www.productchart.com/) - Visual approach to product discovery.
 - [Medusa](https://www.medusa-commerce.com/) - Open-source alternative to Shopify. ([HN](https://news.ycombinator.com/item?id=28481913)) ([Code](https://github.com/medusajs/medusa))
+- [Medusa Extender](https://github.com/adrien2p/medusa-extender) - Medusa on steroid, take your medusa project to the next level with some badass features.
 - [Geizhals](https://geizhals.eu/) - Tech Product Price Comparison and Tracking. ([HN](https://news.ycombinator.com/item?id=28490656))
 - [Droppa](https://www.droppa.com/) - Returns made better.
 - [Happy Returns](https://happyreturns.com/) - Returns software and reverse logistics for e-commerce merchants.

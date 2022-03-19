@@ -77,6 +77,7 @@
 ## Notes
 
 - [Can right click on Discord server > privacy settings > disallow direct messages from the server. To remove spam being sent from those servers.](https://youtu.be/2UdKaktBvKQ?t=1063)
+- [My main problem with discord replacing reddit/forums is that if i have a problem with my router, i don’t wanna go join the router club and talk to router guys about it. i just wanna read a thread from 8 months ago where someone figured it out.](https://twitter.com/Yelix/status/1504495691573387270)
 
 ## Links
 

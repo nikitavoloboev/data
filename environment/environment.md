@@ -163,3 +163,6 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Ask HN: Book recommendations for renewable energy and climate change? (2022)](https://news.ycombinator.com/item?id=30611900)
 - [Living Carbon](https://www.livingcarbon.com/) - Plants Enhanced for Carbon Capture and Storage. ([HN](https://news.ycombinator.com/item?id=30672841))
 - [Antarctic sea ice hits lowest minimum on record (2022)](https://www.nature.com/articles/d41586-022-00550-4) ([HN](https://news.ycombinator.com/item?id=30677466))
+- [AirMyne](https://www.airmyne.com/) - Capturing CO2 from air at industrial scale. ([HN](https://news.ycombinator.com/item?id=30712229))
+- [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation) ([HN](https://news.ycombinator.com/item?id=30714506))
+- [Institute of Computing for Climate Science](https://cambridge-iccs.github.io/)

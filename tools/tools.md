@@ -101,7 +101,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Dorik](https://dorik.com/) - Build Beautiful Websites Without Code.
 - [Tally Forms](https://tally.so/) - Free Typeform alternative. ([HN](https://news.ycombinator.com/item?id=30258149))
-- [Amie](https://amie.so/) - Joyful productivity app.
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
 - [Rollbar](https://rollbar.com/) - Error Tracking Software.
@@ -219,7 +218,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Pika](https://pika.rishimohan.me/) - Create beautiful screenshots quickly. ([Code](https://github.com/rishimohan/pika)) ([HN](https://news.ycombinator.com/item?id=30611657))
 - [Legend](https://legendapp.com/) ([HN](https://news.ycombinator.com/item?id=28447499))
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
-- [ToolJet](https://tooljet.io/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
+- [ToolJet](https://tooljet.com/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
 - [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes.
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
@@ -240,6 +239,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [FocusTask](https://focustask.app/) - Organize your life.
+- [Webstudio](https://webstudio.is/) - Open Source Visual Development Platform for Developers, Designers and cross-functional teams. ([Code](https://github.com/webstudio-is/webstudio-designer))
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Builder](https://www.builder.io/) - Drag and Drop Page Building for Any Tech Stack. ([GitHub](https://github.com/BuilderIO)) ([Code](https://github.com/BuilderIO/builder))
@@ -302,7 +302,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [urls](https://urls.fyi/) - Personal link aggregator. ([Code](https://github.com/dyedgreen/urls))
 - [Sexy-QR](https://avin.github.io/sexy-qr/) - Sexy SVG QR-code generator. ([Code](https://github.com/avin/sexy-qr))
 - [CloudConvert](https://cloudconvert.com/) - Online file converter.
-- [Knock](https://knock.app/) - Reliable, managed API to turn user activity into product notifications. ([Twitter](https://twitter.com/knocklabs))
+- [Knock](https://knock.app/) - Reliable, managed API to turn user activity into product notifications. ([Twitter](https://twitter.com/knocklabs)) ([Tweet](https://twitter.com/samseely/status/1504462708095262724))
 - [Linksort](https://linksort.com/) - Open source alternative to Pocket. ([Code](https://github.com/linksort/linksort))
 - [Testimonial](https://testimonial.to/) - Collect video testimonials.
 - [unavatar.io](https://unavatar.io/) - Get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc. ([Code](https://github.com/microlinkhq/unavatar))

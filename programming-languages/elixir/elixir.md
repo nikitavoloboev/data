@@ -143,3 +143,4 @@
 - [Who Watches Watchmen? – Integrating Elixir Applications with Systemd (2022)](https://hauleth.dev/post/who-watches-watchmen-i/) ([HN](https://news.ycombinator.com/item?id=29971515))
 - [Gradient](https://github.com/esl/gradient) - Gradual typechecker for Elixir.
 - [Elixir on Exercism](https://exercism.org/tracks/elixir) ([Code](https://github.com/exercism/elixir))
+- [Elixir Code Smells](https://github.com/lucasvegi/Elixir-Code-Smells)

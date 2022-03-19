@@ -837,6 +837,9 @@
 - [Compatto](https://github.com/macarie/compatto) - Tiny and fast string compression library.
 - [LemonadeJS](https://github.com/lemonadejs/lemonadejs) - Micro (6Kb) reactive, with a two-way data binding, no dependencies, JavaScript library that aims to be as close to JavaScript Vanilla as possible.
 - [undom](https://github.com/developit/undom) - Minimally viable DOM Document implementation.
+- [element-in-view](https://github.com/egoist/element-in-view) - Check if an element is in viewport.
+- [remark-directive](https://github.com/remarkjs/remark-directive) - Remark plugin to support directives.
+- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Provides FFmpeg builds ported to JavaScript using Emscripten project.
 
 ## Links
 
@@ -895,3 +898,5 @@
 - [lurantis](https://github.com/suchipi/lurantis) - HTTP server that bundles and serves packages from NPM; "bundler as a service."
 - [Socket](https://socket.dev) - Secure your JavaScript supply chain. ([HN](https://news.ycombinator.com/item?id=30515090)) ([Tweet](https://twitter.com/feross/status/1498676284590800903))
 - [all-the-package-names](https://github.com/nice-registry/all-the-package-names) - List of all the public package names on npm.
+- [find-entry-points](https://github.com/TomerAberbach/find-entry-points) - Find the entry points in a set of JavaScript files.
+- [actual-malware](https://github.com/qpwo/actual-malware) - npm package to upload your private ssh keys to a pastebin. ([HN](https://news.ycombinator.com/item?id=30679098))

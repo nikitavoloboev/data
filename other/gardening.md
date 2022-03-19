@@ -23,3 +23,5 @@
 - [Why is houseplant advice so bad? (2021)](https://dirtwise.substack.com/p/why-is-houseplant-advice-so-bad) ([HN](https://news.ycombinator.com/item?id=29043632))
 - [Edible Plants That Grow in the Shade](https://www.onegreenplanet.org/lifestyle/10-edible-plants-that-grow-in-the-shade/) ([HN](https://news.ycombinator.com/item?id=29852943))
 - [Growing a mango tree from seed – one year time lapse](https://www.youtube.com/watch?v=jh_ukt8g53c) ([HN](https://news.ycombinator.com/item?id=30312694))
+- [How I grew my avocado plant from seed (2022)](https://permapeople.org/blog/2022/03/16/grow-avocado-from-seed.html) ([HN](https://news.ycombinator.com/item?id=30704388))
+- [Permapeople](https://permapeople.org/) - Find plants, trade seeds, plan crops, grow food, feed community.

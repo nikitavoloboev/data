@@ -127,6 +127,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [How to disable "rate my app" notifications in iOS](https://twitter.com/hunterwalk/status/1397036572684345348)
 - [You can escape emoji search keyboard by clicking on the original text box](https://twitter.com/nateparrott/status/1460327450416664587)
 - On Google Maps iOS you can double tap & then with one finger swipe up/down to zoom on/out.
+- [Pan gesture to bulk select items on iOS is great](https://twitter.com/Gavmn/status/1504838363181830146)
 
 ## Links
 
@@ -424,3 +425,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [On the Origin of the iPhone (2022)](https://daringfireball.net/2022/02/on_the_origin_of_the_iphone) ([HN](https://news.ycombinator.com/item?id=30477139))
 - [iPhone 11 Emulated on QEMU](https://github.com/TrungNguyen1909/qemu-t8030) ([HN](https://news.ycombinator.com/item?id=30545425))
 - [Sentry Cocoa](https://github.com/getsentry/sentry-cocoa) - Sentry SDK for iOS, tvOS, macOS, watchOS.
+- [Useful iOS dev tools (2022)](https://twitter.com/onmyway133/status/1504487749901905928)
+- [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices. ([Web](https://libimobiledevice.org/))

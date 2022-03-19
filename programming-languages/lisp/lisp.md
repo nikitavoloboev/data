@@ -178,3 +178,5 @@
 - [Visible Lisp Computer (2019)](http://www.technoblogy.com/show?2ODQ)
 - [S-expression](https://github.com/cicada-lang/sexp) - Implementation of S-expression in JavaScript.
 - [Interaction Nets in JS](https://github.com/cicada-lang/inet)
+- [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C.
+- [Sjsonnet](https://github.com/databricks/sjsonnet) - JVM implementation of the Jsonnet configuration language.

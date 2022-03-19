@@ -107,3 +107,4 @@
 - [FastSpeech 2: Fast and High-Quality End-to-End Text-to-Speech (2021)](https://arxiv.org/abs/2006.04558v1) ([Code](https://github.com/ming024/FastSpeech2))
 - [HuggingSound](https://github.com/jonatasgrosman/huggingsound) - Toolkit for speech-related tasks based on HuggingFace's tools.
 - [hear](https://github.com/sveinbjornt/hear) - macOS speech recognition via the command line.
+- [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.

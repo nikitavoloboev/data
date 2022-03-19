@@ -79,3 +79,4 @@
 - [Build Simple Reusable Widgets Using Slots (2022)](https://fly.io/phoenix-files/build-simpe-reusable-widgets-using-slots/)
 - [Stripe with Elixir and Phoenix (2022)](https://tolc.io/blog/stripe-with-elixir-and-phoenix)
 - [Phoenix LiveView Cursors (2022)](https://koenvangilst.nl/blog/phoenix-liveview-cursors) ([Reddit](https://www.reddit.com/r/elixir/comments/tezcjr/a_tutorial_for_creating_a_live_cursors_feature_as/))
+- [Real World Phoenix](https://github.com/szTheory/real-world-phoenix) - Learn from Phoenix apps written by experienced developers.

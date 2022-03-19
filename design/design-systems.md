@@ -92,6 +92,7 @@
 - [RevKit](https://rev.webkul.design/kit/) - Design System UI Kit. ([Solid Code](https://github.com/specialdoom/solid-rev-kit))
 - [Workday Canvas Kit](https://github.com/Workday/canvas-kit)
 - [AgnosticUI](https://www.agnosticui.com/) - UI primitives that start their lives in clean HTML and CSS. ([Code](https://github.com/AgnosticUI/agnosticui))
+- [MUI X](https://mui.com/x/) - Performant advanced components. ([Code](https://github.com/mui/mui-x))
 
 ## Notes
 

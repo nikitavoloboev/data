@@ -2,11 +2,11 @@
 
 ## Notes
 
-- [Give her an orgasm (or more) before you actually have PIV sex. That way if you finish early it’s not the end of the world.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
-- [Going off birth control can increase sex drive.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
-- [There is no such thing as vaginal orgasm, only clitoral. Pay attention and be gentle with it.](https://www.abc.net.au/health/features/stories/2014/10/28/4116350.htm)
-- [How is female birth control literally all so incredibly medieval.](https://twitter.com/nwilliams030/status/1381421499005943810)
-- [If you're taking it slower now, you're probably getting into it more. I used to have problems where he was hitting cervix and sent shooting pains. Now he takes tons of time warming me up, tons of foreplay and things directed towards me. It allows me to relax and enjoy myself more, and in return hitting the deep points don't feel painful anymore they are way more pleasurable. I am left teary eyed, semi runny nose, giggly, shaking.... sometimes if I edge long enough too on top that, can make you feel almost drunk.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
+- [Don't have PIV sex immediately as it can be painful and unpleasant. Foreplay is important. Be gentle. Can give her an orgasm without any PIV involved easily.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)
+- [Going off birth control often increases sex drive. But increases chances of conception dramatically.](https://www.reddit.com/r/sex/comments/mgliwt/i_went_off_of_birth_control_and_dear_god/)
+- [There is no such thing as vaginal orgasm, only clitoral.](https://www.abc.net.au/health/features/stories/2014/10/28/4116350.htm)
+- [Female birth control often has negative side effects on the body. Ideally research into male contraception that's not just condoms/vasectomy happens. IUD seems like the best least problematic contraceptive method.](https://twitter.com/nwilliams030/status/1381421499005943810)
+- [Take foreplay slower. It can happen early on and at any part of the day through compliments or light touches. The key to having a nice sexual experience is when everyone is fully relaxed, nothing is rushed and everything feels natural and not forced. Communicate everything.](https://www.reddit.com/r/sexover30/comments/n39rs9/what_is_he_hitting_that_feels_so_good_aspot_or/)
 - [Women's desire usually drives from a story being played out.](https://www.reddit.com/r/sexover30/comments/t2xr2p/any_advice_on_how_to_make_yourself_want_to_have/)
 
 ## Links

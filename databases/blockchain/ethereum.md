@@ -535,3 +535,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Cacheable Beacon Proxy](https://github.com/frangio/cacheable-beacon-proxy) - Upgradeable proxy with minimal overhead.
 - [cosigneth](https://cosigneth.dev/) - Container Image Signing & Verifying on Ethereum. ([Code](https://github.com/Dentrax/cosigneth))
 - [Gamma Protocol](https://github.com/opynfinance/GammaProtocol) - Most powerful, capital efficient DeFi options protocol.
+- [Weiroll](https://github.com/weiroll/weiroll) - Simple and efficient operation-chaining/scripting language for the EVM.
+- [Ethereum Execution Client Specifications](https://github.com/ethereum/execution-specs)

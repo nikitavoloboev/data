@@ -1,5 +1,7 @@
 # Web
 
+[Full stack open](https://fullstackopen.com/en/) is nice course.
+
 ## Notes
 
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.
@@ -377,3 +379,5 @@
 - [Functional Web App (FWA)](https://fwa.dev/)
 - [Rendering Patterns](https://www.patterns.dev/posts/rendering-patterns/)
 - [BBS](https://github.com/net4people/bbs/issues) - Forum for discussing Internet censorship circumvention.
+- [uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
+- [Full Stack Learning Path](https://codedamn.com/learning-paths/fullstack) ([Code](https://github.com/codedamn/fullstack-learning-path))

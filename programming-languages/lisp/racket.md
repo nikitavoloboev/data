@@ -99,3 +99,7 @@
 - [Typed Racket: the good and the bad (2021)](https://www.micahcantor.com/blog/thoughts-typed-racket/) ([HN](https://news.ycombinator.com/item?id=30402408))
 - [How to Organize Your Racket Library (2022)](https://countvajhula.com/2022/02/22/how-to-organize-your-racket-library/) ([Reddit](https://www.reddit.com/r/Racket/comments/sz0uhe/how_to_organize_your_racket_library_blog/))
 - [blackboard](https://github.com/lexi-lambda/blackboard) - OpenType Math layout and rendering engine in Racket.
+- [PLT redex model of MIR and its type system](https://github.com/nikomatsakis/a-mir-formality)
+- [Algebraic Racket](https://github.com/dedbox/racket-algebraic) - Algebraic structures for untyped Racket.
+- [Template Macros](https://github.com/dedbox/racket-template) - Racket Meta-Program Generator.
+- [fluent](https://github.com/rogerkeays/racket-fluent) - UNIX style pipes and a lambda shorthand syntax to make your Racket code more readable.

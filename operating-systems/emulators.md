@@ -64,3 +64,4 @@
 - [binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser. ([Web](https://binji.github.io/binjgb/))
 - [Snes9x](https://github.com/snes9xgit/snes9x) - Portable Super Nintendo Entertainment System emulator.
 - [SNES Development Part 1: Getting Started (2022)](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
+- [Apple I Emulator (2019)](https://www.shadertoy.com/view/tlX3W7) ([HN](https://news.ycombinator.com/item?id=30718854))

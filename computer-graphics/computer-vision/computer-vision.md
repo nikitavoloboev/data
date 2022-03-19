@@ -620,3 +620,8 @@
 - [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video (2021)](https://zju3dv.github.io/neuralrecon/) ([Code](https://github.com/zju3dv/NeuralRecon))
 - [Awesome 3D Human Reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
 - [Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)
+- [A ConvNet for the 2020s (2022)](https://arxiv.org/abs/2201.03545) ([Code](https://github.com/facebookresearch/ConvNeXt))
+- [Remote-sensing-image-semantic-segmentation](https://github.com/TachibanaYoshino/Remote-sensing-image-semantic-segmentation) - Uses Unet-based improved networks to study Remote sensing image semantic segmentation, which is based on keras.
+- [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies (2021)](https://arxiv.org/abs/2105.02872) ([Code](https://github.com/zju3dv/animatable_nerf))
+- [TensoRF: Tensorial Radiance Fields (2022)](https://arxiv.org/abs/2203.09517) ([Code](https://github.com/apchenstu/TensoRF))
+- [Autoregressive Image Generation using Residual Quantization (2022)](https://arxiv.org/abs/2203.01941) ([Code](https://github.com/lucidrains/RQ-Transformer))

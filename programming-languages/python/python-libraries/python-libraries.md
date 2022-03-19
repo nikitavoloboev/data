@@ -750,6 +750,10 @@
 - [dateutil](https://github.com/dateutil/dateutil) - Useful extensions to the standard Python datetime features.
 - [Nurse](https://github.com/ZeroGachis/nurse) - Thoughtful dependency injection framework.
 - [pangres](https://github.com/ThibTrip/pangres) - SQL upsert using pandas DataFrames for PostgreSQL, SQlite and MySQL with extra features.
+- [Automata](https://github.com/caleb531/automata) - Python library for simulating finite automata, pushdown automata, and Turing machines.
+- [Visual Automata](https://github.com/lewiuberg/visual-automata) - Python 3 library built as a wrapper for the Automata library to add more visualization features.
+- [UltraDict](https://github.com/ronny-rentner/UltraDict) - Sychronized, streaming Python dictionary that uses shared memory as a backend.
+- [Lasier](https://github.com/luizalabs/lasier) - Sync/async circuit breaker implementation in Python.
 
 ## Links
 
@@ -841,3 +845,8 @@
 - [flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - flake8 plugin to help you write better list/set/dict comprehensions.
 - [Python Project Template](https://github.com/rochacbruno/python-project-template) - Low dependency and really simple to start project template for Python Projects.
 - [virtualenv-tools3](https://github.com/Yelp/virtualenv-tools) - Tools for dealing with virtualenvs for code deployments.
+- [Cookiecutter PyPackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [py-tiny-pkg](https://github.com/denkiwakame/py-tiny-pkg) - Tiny packaging example that only have a pyproject.toml w/setuptools.
+- [pycrunch-trace](https://github.com/gleb-sevruk/pycrunch-trace) - Time Travel Debugging for Python.
+- [GenPy](https://github.com/inducer/genpy) - AST for Python code generation, in Python.
+- [Python finally offloads some batteries (2022)](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/) ([HN](https://news.ycombinator.com/item?id=30716844))

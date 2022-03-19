@@ -733,3 +733,5 @@ if err != nil {
 - [gowatch](https://github.com/silenceper/gowatch) - Command line tool that builds and (re)starts your go project every time you save a Go or template file.
 - [Go 1.18 Released (2022)](https://go.dev/blog/go1.18) ([HN](https://news.ycombinator.com/item?id=30688208))
 - [Building a Backconnect Proxy in Go (2022)](https://ldg.io/blogs/backconnect-proxy-pt1)
+- [gospel](https://github.com/kortschak/gospel) - Lints Go source files for misspellings in comments, strings and embedded files.
+- [Write once, store anywhere: Extensible file systems for Go (2022)](https://blog.johnstarich.com/write-once-store-anywhere-extensible-file-systems-for-go-65c7c0949e74) ([HN](https://news.ycombinator.com/item?id=30728348))

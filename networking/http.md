@@ -213,3 +213,5 @@
 - [httptest](https://github.com/nytimes/httptest) - Simple concurrent HTTP testing tool.
 - [Pact JS](https://github.com/pact-foundation/pact-js) - JS version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [httpmirror](https://github.com/multiprocessio/httpmirror) - Single binary HTTP server that mirrors all request data (headers and body) in the response.
+- [warp-cors](https://github.com/Bassetts/warp-cors) - Proxy server which enables CORS for the proxied request.
+- [GoQuiet](https://github.com/cbeuw/GoQuiet) - Shadowsocks obfuscation plugin utilising domain fronting to evade deep packet inspection.

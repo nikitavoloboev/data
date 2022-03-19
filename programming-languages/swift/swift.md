@@ -1,6 +1,6 @@
 # [Swift](https://developer.apple.com/swift/)
 
-[Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great.
+[Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great. [Advanced Swift Book](https://www.objc.io/books/advanced-swift/) together with [other books by objc.io](https://www.objc.io/books/) are amazing too.
 
 ## Notes
 
@@ -273,3 +273,5 @@
 - [Writing High-Performance Swift Code](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst)
 - [Swift.org Code](https://github.com/apple/swift-org-website)
 - [Swift Installer Scripts](https://github.com/apple/swift-installer-scripts)
+- [Functional core Imperative shell in Swift. Unidirectional Flow. (2022)](https://swiftwithmajid.com/2022/03/16/functional-core-imperative-shell-in-swift-unidirectional-flow/)
+- [Abstract types and methods in Swift (2022)](https://www.swiftbysundell.com/articles/abstract-types-and-methods/)

@@ -1,6 +1,6 @@
 # [CodeSandbox](https://codesandbox.io)
 
-CodeSandbox is genuinely amazing. It brings the power of the text editor and development of web applications to the web and does it well. You can write out and deploy a web app right from the browser.
+CodeSandbox is neat. Especially in how it lets anyone easily collaborate and fork off any change into [workable branches shareable with an URL](https://www.youtube.com/watch?v=XYOjF1dFt4g). [StackBlitz](https://stackblitz.com/) is amazing alternative that is often faster too. [Replit](https://replit.com/) is neat too.
 
 ## Notes
 
@@ -18,3 +18,4 @@ CodeSandbox is genuinely amazing. It brings the power of the text editor and dev
 - [GitHubBox](https://github.com/dferber90/githubbox) - Open any GitHub repo in CodeSandbox by changing the hostname.
 - [CodeSandbox URL shortcuts](https://twitter.com/CompuIves/status/1291020566221205511)
 - [Sandpack](https://github.com/codesandbox/sandpack) - Ecosystem of components and utilities built around the browser bundler that powers CodeSandbox. ([Article](https://codesandbox.io/post/sandpack-announcement)) ([Tweet](https://twitter.com/codesandbox/status/1466428912087576587))
+- [CodeSandbox Projects Announcement (2022)](https://www.youtube.com/watch?v=XYOjF1dFt4g) ([Tweet](https://twitter.com/codesandbox/status/1504478335627268105))

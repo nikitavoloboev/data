@@ -6,6 +6,7 @@
 
 - [Can use `::1` in Postico to remove unsafe connection warning](https://github.com/jakob/Postico/issues/637)
 - [VACUUM ANALYZE is useful.](https://twitter.com/ideasasylum/status/1495857970487377922)
+- [Unless you need real time PostgreSQL is always the most obvious solution. If you do need real time you can build it on PostgreSQL yourself depending on your requirements either using LISTEN/NOTIFY or logical replication. There are tradeoffs to both if tbh if you are asking this question you probably don't want to go that path. Non-realtime it's very easy to handle nested JSON in PostgreSQL but I would still avoid it like the plague unless it's user-supplied data without any real schema. You might feel like schema-less lets you "move faster" but it's a load of horseshit that really starts to stink much sooner than you might think. Schemas and by extension database integrity make it easier to move faster because migrations allow you to ensure there are no edge conditions related to stored data when upgrading your code to use an extended or otherwise modified data model. The other main benefit of PostgreSQL is just the sheer body of resources available, with the exception of the other main RDBMS (MySQL/MSSQL) it just completely dwarfs what is available for other data stores. You will rarely if ever encounter a problem someone hasn't already solved.](https://news.ycombinator.com/item?id=30729938)
 
 ## Links
 

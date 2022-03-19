@@ -26,7 +26,7 @@
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
-- [Twitter TS](https://github.com/twitterdev/twitter-api-typescript-sdk)
+- [Twitter TS](https://github.com/twitterdev/twitter-api-typescript-sdk) ([Tweet](https://twitter.com/sebastienlorber/status/1504860162498117636))
 - [Twitter TS 2](https://github.com/twitterjs/twitter.js)
 - [Twitter Go](https://github.com/mattn/twty)
 - [Twitter Go 2](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
@@ -358,3 +358,5 @@
 - [Cadl](https://github.com/microsoft/cadl) - Language for describing cloud service APIs and generating other API description languages, client and service code, documentation, and other assets.
 - [Cloudflare API Gateway (2022)](https://blog.cloudflare.com/api-gateway/)
 - [Introducing Advanced Rate Limiting (2022)](https://blog.cloudflare.com/advanced-rate-limiting/)
+- [Cherrybomb](https://github.com/blst-security/cherrybomb) - CLI tool that helps you avoid undefined user behavior by validating your API specifications.
+- [Theneo](https://www.theneo.io/) - High-Quality, Interactive API Docs. ([HN](https://news.ycombinator.com/item?id=30720623))

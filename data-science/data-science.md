@@ -237,3 +237,4 @@
 - [Phases of Netflix’s real-time data infrastructure (2022)](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01) ([HN](https://news.ycombinator.com/item?id=30627489))
 - [Shopify's Data Science and Engineering Foundations (2020)](https://shopify.engineering/shopifys-data-science-engineering-foundations) ([HN](https://news.ycombinator.com/item?id=30643677))
 - [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/) ([HN](https://news.ycombinator.com/item?id=30673364))
+- [Modern data analysis stack (2022)](https://twitter.com/__mharrison__/status/1504504516393127964)

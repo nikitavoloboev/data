@@ -151,3 +151,5 @@
 - [If enemy controls the sky, users' Starlink uplink transmissions become beacons (2022)](https://twitter.com/jsrailton/status/1497745011932286979)
 - [HN: SpaceX reprioritized to cyber defense and overcoming signal jamming (2022)](https://news.ycombinator.com/item?id=30564828)
 - [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system.
+- [JWST fine-phasing calibration complete (2022)](https://www.syfy.com/syfy-wire/bad-astronomy-jwst-fine-phasing-calibration-complete) ([Tweet](https://twitter.com/BadAstronomer/status/1504480956362608644))
+- [First images from James Webb telescope exceed expectations (2022)](https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/) ([HN](https://news.ycombinator.com/item?id=30729109))

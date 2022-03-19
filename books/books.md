@@ -293,6 +293,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Book or article you think about a lot that you don’t think anyone else in the replies will mention (2022)](https://twitter.com/nateliason/status/1501967452766457862)
 - [A non-standard book list for software developers](https://mihaiolteanu.me/books.html) ([HN](https://news.ycombinator.com/item?id=30651273))
 - [Suggest me your favorite book and I will read it](https://www.reddit.com/r/suggestmeabook/comments/tfc4jv/suggest_me_your_favourite_book_and_i_will_read_it/)
+- [Psychonaut's favorite books (2022)](https://www.reddit.com/r/Psychonaut/comments/thlorh/alright_people_drop_your_favorite_books_below_and/)
 
 ## Interesting Prose Books
 

@@ -99,3 +99,4 @@
 - [GMAN: A Graph Multi-Attention Network for Traffic Prediction](https://github.com/zhengchuanpan/GMAN)
 - [Awesome Efficient Graph Neural Networks](https://github.com/chaitjo/awesome-efficient-gnn)
 - [GraphSAGE](http://snap.stanford.edu/graphsage/) - Inductive Representation Learning on Large Graphs. ([PyTorch Code](https://github.com/twjiang/graphSAGE-pytorch))
+- [Topological Graph Neural Networks (2022)](https://github.com/BorgwardtLab/TOGL)

@@ -243,3 +243,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [How crypto exchanges enforce US sanctions](https://twitter.com/Brett_FTXUS/status/1500567182757011459)
 - [Stripe Crypto](https://stripe.com/en-gb-cy/use-cases/crypto) ([HN](https://news.ycombinator.com/item?id=30628677))
 - [Ninjabot](https://github.com/rodrigo-brito/ninjabot) - Fast cryptocurrency platform for trading bot in Go.
+- [Steakwallet](https://steakwallet.fi/) ([Tweet](https://twitter.com/stackhousehouse/status/1504416938386427908))
+- [Web3 critique academic research (2022)](https://www.zotero.org/groups/4600269/web3/library)
+- [Crypto is an unproductive bubble (2022)](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/) ([HN](https://news.ycombinator.com/item?id=30728856))

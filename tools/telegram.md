@@ -102,6 +102,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [crate_upd_bot](https://github.com/WaffleLapkin/crate_upd_bot) - Telegram bot that notifies about crate updates.
 - [Xor](https://github.com/xorgram/xor) - User bot. Redefined.
 - [TgTranslator](https://t.me/tgtranslatorbot) - Telegram bot that removes language barrier between people in groups. ([Code](https://github.com/Dubzer/TgTranslator))
+- [Link Preview Bot](https://t.me/linkpreviewbot) - Generates link previews for all links in messages. ([Code](https://github.com/KnorpelSenf/link-preview-bot))
 
 ## Notes
 

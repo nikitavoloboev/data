@@ -98,3 +98,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Cozy futurism (2021)](https://nintil.com/cozy-futurism) ([HN](https://news.ycombinator.com/item?id=30479462))
 - [What are the generation-defining stats of today? (2022)](https://twitter.com/stephsmithio/status/1500986096745779200)
 - [Principles for Dealing with the Changing World Order by Ray Dalio (2022)](https://www.youtube.com/watch?v=xguam0TKMw8)
+- [The Future is Vast: Longtermism’s perspective on humanity’s past, present, and future (2022)](https://ourworldindata.org/longtermism)

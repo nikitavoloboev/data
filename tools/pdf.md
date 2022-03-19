@@ -46,3 +46,5 @@
 - [SlidePilot](https://slidepilotapp.com/en/) - PDF Presentation Tool for macOS. ([Code](https://github.com/SlidePilot/SlidePilot-macOS))
 - [giopdf](https://github.com/andybalholm/giopdf) - PDF viewer library for Gio.
 - [PDFME](https://github.com/pdfme/pdfme) - TypeScript based PDF generator library, made with React. ([Docs](https://pdfme.com/docs/getting-started))
+- [PSPDFKit API](https://pspdfkit.com/api/) - Generate, convert, and modify PDF documents. ([HN](https://news.ycombinator.com/item?id=30709524))
+- [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) - React library that provides annotation experience for PDF documents on web.

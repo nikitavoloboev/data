@@ -39,3 +39,4 @@
 - [Automated-Guitar Amplifier Modelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
 - [Fretastic](https://fretastic.com/) - Guitar fretboard visualizer – scales, intervals, backing tracks. ([HN](https://news.ycombinator.com/item?id=30250777)) ([Guitar](https://fretastic.com/guitar))
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Guitar distortion plugin with a customizable signal chain that allows users to create their own guitar distortion effects.
+- [Set List](http://setlist-app.surge.sh/) - Home to all your guitar chords, in your browser. ([Code](https://github.com/arogyakoirala/setlist))

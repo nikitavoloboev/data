@@ -1,5 +1,7 @@
 # React components
 
+[Ladle](https://github.com/tajo/ladle) is nice tool to develop/share react components.
+
 ## Notes
 
 - [Design System opinion: Don't make your <Link> and <Button> components support both link and button visuals. Do make your <Link> and <Button> components renders either <a> or <button> based on the props passed to it ("to" should render an anchor, "onClick" should render a button)](https://twitter.com/buildsghost/status/1389294014222934018)
@@ -275,6 +277,9 @@
 - [Interweave](https://github.com/milesj/interweave) - React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 - [React Cool Img](https://github.com/wellyshen/react-cool-img)
 - [spacefold](https://github.com/pedronauck/spacefold) - Use Pub/Sub pattern inside your React applications easily.
+- [React Resize Detector](https://github.com/maslianok/react-resize-detector) - Cross-Browser, Event-based, Element Resize Detection for React.
+- [react-spline](https://github.com/splinetool/react-spline) - Allows you to export and use Spline scenes directly in your React websites.
+- [React Use Intercom](https://github.com/devrnt/react-use-intercom) - React Intercom integration powered by hooks.
 
 ## Links
 

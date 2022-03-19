@@ -126,7 +126,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Adding a fiber link to my home network (2020)](https://michael.stapelberg.ch/posts/2020-08-09-fiber-link-home-network/) ([HN](https://news.ycombinator.com/item?id=24099425))
 - ["Cloud-like" Infrastructure at Home - Part 1: LoadBalancers on the Metal (2020)](https://cmacr.ae/post/2020-08-10-cloud-like-infra-at-home-part-1/)
 - [Ask HN: How Belarus can keep connected despite internet blackout? (2020)](https://news.ycombinator.com/item?id=24129059)
-- [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works))
+- [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/) ([Lobsters](https://lobste.rs/s/4unriw/how_nat_traversal_works)) ([HN](https://news.ycombinator.com/item?id=30707711))
 - [Peer-to-Peer Communication Across Network Address Translators](https://bford.info/pub/net/p2pnat/)
 - [25 Best CDN Providers](https://haydenjames.io/best-cdn-providers/)
 - [How do Routers Work, Really? (2020)](https://kamila.is//teaching/how-routers-work/) ([HN](https://news.ycombinator.com/item?id=24435454))
@@ -383,7 +383,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [BumbleBee](https://github.com/solo-io/bumblebee) - Helps to build, run and distribute eBPF programs using OCI images.
 - [Freebind](https://github.com/blechschmidt/freebind) - IPv4 and IPv6 address rate limiting evasion tool.
 - [ESP32 NAT Router](https://github.com/martin-ger/esp32_nat_router) - Simple NAT Router for the ESP32.
-- [How NAT traversal works (2022)](https://tailscale.com/blog/how-nat-traversal-works/)
 - [VoLTE/VoWiFi research with $0 of equipment: set up a phone network over Wi-Fi calling (2022)](https://worthdoingbadly.com/vowifi2/)
 - [Make the internet yours again with an instant mesh network (2022)](https://changelog.complete.org/archives/10319-make-the-internet-yours-again-with-an-instant-mesh-network) ([HN](https://news.ycombinator.com/item?id=29849086))
 - [jswhois](https://github.com/jschauma/jswhois) - Tool to look up and print WHOIS results in JSON format.
@@ -426,3 +425,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Better visibility into packet-dropping decisions (2022)](https://lwn.net/Articles/885729/)
 - [ngrep](https://github.com/jpr5/ngrep) - GNU grep applied to the network layer.
 - [Jalapeno](https://github.com/cisco-open/jalapeno) - Cloud-native infrastructure platform to enable development of network services.
+- [OpenConfig](https://github.com/openconfig/public) - Collaborative effort by network operators to develop programmatic interfaces and tools for managing networks in a dynamic, vendor-neutral way. ([Web](https://www.openconfig.net/))
+- [Cloudflare Clientless Web Isolation (2022)](https://blog.cloudflare.com/clientless-web-isolation-general-availability/)
+- [Ask HN: Is Public WiFi Dangerous? (2022)](https://news.ycombinator.com/item?id=30724830)
+- [sniffer](https://github.com/chenjiandongx/sniffer) - Modern alternative network traffic sniffer.

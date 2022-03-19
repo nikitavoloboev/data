@@ -255,3 +255,4 @@
 - [Delicate](https://github.com/BinChengZhao/delicate) - Lightweight and distributed task scheduling platform written in rust.
 - [Practical Byzantium Fault Tolerant (PBFT) algorithm in Go](https://github.com/0xPolygon/pbft-consensus)
 - [chaosd](https://github.com/chaos-mesh/chaosd) - Chaos Engineering toolkit.
+- [dcache](https://github.com/bootjp/dcache) - CoreDNS Plugin: Asynchronous Distributed Cache for Distributed System.

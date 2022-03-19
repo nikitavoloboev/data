@@ -214,3 +214,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 - [Ask HN: Where are all the cool architecture diagrams? (2022)](https://news.ycombinator.com/item?id=30680022)
 - [Log4brains](https://github.com/thomvaill/log4brains) - Log and publish your architecture decisions (ADR).
+- [No Ghosts! (2022)](https://blog.sunfishcode.online/no-ghosts/) - Proposes and explores a design principle for components in complex software systems.
+- [Polylith is a functional software architecture at the system scale](https://polylith.gitbook.io/polylith/) ([HN](https://news.ycombinator.com/item?id=30697724))

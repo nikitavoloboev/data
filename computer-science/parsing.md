@@ -68,7 +68,7 @@
 - [On Parsers](https://wiki.alopex.li/OnParsers) ([Lobsters](https://lobste.rs/s/7it43u/on_parsers))
 - [Casual Parsing in JavaScript (2021)](https://www.brandons.me/blog/casual-parsing-javascript)
 - [Parser generators vs. handwritten parsers: surveying major language implementations in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html) ([HN](https://news.ycombinator.com/item?id=28258945)) ([Lobsters](https://lobste.rs/s/10pkib/parser_generators_vs_handwritten))
-- [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format))
+- [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format)) ([HN](https://news.ycombinator.com/item?id=30715406))
 - [Parser toolkit](https://github.com/MasterQ32/parser-toolkit) - Toolkit that makes it easier to write recursive-descent parsers in Zig.
 - [TatSu Jobs](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF.
 - [Progger](https://github.com/Jezza/progger) - Simple set of parser and lexer tools. Built on top of logos and bumpalo.
@@ -93,3 +93,5 @@
 - [Parsing Bitstreams with Rust and Nom (2022)](https://blog.adamchalmers.com/nom-bits/) ([HN](https://news.ycombinator.com/item?id=30528609))
 - [Parsing Text with Nom (2022)](https://blog.adamchalmers.com/nom-chars/)
 - [How to write a tree-sitter grammar in an afternoon (2022)](https://siraben.dev/2022/03/01/tree-sitter.html)
+- [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
+- [Santiago](https://github.com/kamadorueda/santiago) - Lexing and parsing toolkit for Rust.

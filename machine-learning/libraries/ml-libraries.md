@@ -304,3 +304,5 @@
 - [LeanTransformer](https://github.com/learning-at-home/lean_transformer) - Memory-efficient transformer.
 - [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment. Built on top of PyTorch and PostgreSQL.
 - [OpenDelta](https://github.com/thunlp/OpenDelta) - Open-Source Framework for Paramter Efficient Tuning (Delta Tuning).
+- [Alpa](https://github.com/alpa-projects/alpa) - Automatically parallelizes tensor computational graphs and runs them on a distributed cluster.
+- [GPBoost](https://github.com/fabsig/GPBoost) - Combining Tree-Boosting with Gaussian Process and Mixed Effects Models.

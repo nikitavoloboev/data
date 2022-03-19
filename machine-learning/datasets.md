@@ -153,3 +153,4 @@
 - [ASPset-510](https://github.com/anibali/aspset-510) - Large-scale video dataset for the training and evaluation of 3D human pose estimation models.
 - [Self-Distilled Internet Photos (SDIP) Dataset](https://github.com/self-distilled-stylegan/self-distilled-internet-photos)
 - [Fake News Corpus](https://github.com/several27/FakeNewsCorpus)
+- [Sniffer](https://github.com/2320sharon/Sniffer) - Lightweight Python application for sorting images in your dataset.

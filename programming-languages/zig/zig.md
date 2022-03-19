@@ -104,3 +104,4 @@
 - [Using Zig as cross-platform C toolchain (2022)](https://ruoyusun.com/2022/02/27/zig-cc.html) ([HN](https://news.ycombinator.com/item?id=30488979))
 - [ZigSelf: An implementation of Self in Zig](https://sin-ack.github.io/posts/zigself-01/) ([Lobsters](https://lobste.rs/s/ggwzjq/zigself_implementation_self_zig))
 - [zigtool](https://github.com/dosgo/zigtool) - Go tool of the zig compiler automatically compiles different targets according to the GOOS GOARCH environment variable.
+- [Hot-code reloading on macOS/arm64 with Zig (2022)](http://www.jakubkonka.com/2022/03/16/hcs-zig.html) ([HN](https://news.ycombinator.com/item?id=30716177))

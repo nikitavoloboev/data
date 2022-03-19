@@ -11,3 +11,4 @@
 - [Whitehouse.gov Chooses WordPress, Again (2021)](https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/) ([HN](https://news.ycombinator.com/item?id=25887674))
 - [How I stopped worrying about WordPress bugs with Jamstack (2021)](https://medium.com/@anshu_79279/how-i-stopped-worrying-about-wordpress-bugs-with-jamstack-b4ee8823eba8)
 - [WordPress Gutenberg](https://wordpress.org/gutenberg/) - Block Editor project for WordPress and beyond. ([Code](https://github.com/WordPress/gutenberg))
+- [How WordPress and Tumblr are keeping the internet weird (2022)](https://www.theverge.com/2022/3/15/22977857/wordpress-tumblr-simplenote-internet-automattic-matt-mullenweg-interview)

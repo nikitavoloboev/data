@@ -728,3 +728,7 @@
 - [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 - [Machine Learning Guide](https://github.com/mikeroyal/Machine-Learning-Guide)
 - [Building a ML Transformer in a Spreadsheet (2022)](https://www.youtube.com/watch?v=S9eKuRVigjY)
+- [Lecture Notes for Machine Learning Theory (2021)](https://github.com/tengyuma/cs229m_notes/blob/main/master.pdf)
+- [On Embeddings for Numerical Features in Tabular Deep Learning (2022)](https://arxiv.org/abs/2203.05556) ([Code](https://github.com/Yura52/tabular-dl-num-embeddings))
+- [Automated Machine Learning in Action Book (2022)](https://www.manning.com/books/automated-machine-learning-in-action) ([Code](https://github.com/datamllab/automl-in-action-notebooks))
+- [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes)

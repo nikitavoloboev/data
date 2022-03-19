@@ -297,3 +297,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [S3RS](https://github.com/yanganto/s3rs) - S3 CLI client with multi configs with diffent provider.
 - [How did you learn AWS? (2022)](https://lobste.rs/s/lzxl0w/how_did_you_learn_aws)
 - [AWS Security Reference Architecture Examples](https://github.com/aws-samples/aws-security-reference-architecture-examples) - Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation and Customizations for AWS Control Tower.
+- [Minimal AWS SSO setup for personal AWS development (2022)](https://dev.to/aws-builders/minimal-aws-sso-setup-for-personal-aws-development-220k)
+- [Setting up Kubernetes on AWS (2022)](https://blog.cyborch.com/setting-up-kubernetes-on-aws/)

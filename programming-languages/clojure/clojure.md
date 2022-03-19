@@ -208,3 +208,4 @@
 - [Clojure rules for Bazel](https://github.com/griffinbank/rules_clojure)
 - [Create a password manager with Clojure using Babashka, sqlite, honeysql and stash (2022)](https://www.youtube.com/watch?v=jm0RXmyjRJ8)
 - [Physics in Clojure: Elliptical Paths](https://twitter.com/sritchie/status/1503220063264026629) ([HN](https://news.ycombinator.com/item?id=30671167))
+- [Serverless site analytics with Clojure nbb and AWS (2022)](https://www.loop-code-recur.io/simple-site-analytics-with-serverless-clojure/) ([HN](https://news.ycombinator.com/item?id=30722838))

@@ -152,6 +152,7 @@
 - [Emil](https://github.com/eikek/emil) - Library for dealing with E-Mail in Scala.
 - [futil](https://github.com/alexklibisz/futil) - Minimal utilities for Scala Futures.
 - [Scala Isabelle](https://github.com/dominique-unruh/scala-isabelle) - Scala library for controlling/interacting with Isabelle.
+- [mini-refined](https://github.com/note/mini-refined) - Simple encoding of refinement types in Scala 3.
 
 ## Links
 

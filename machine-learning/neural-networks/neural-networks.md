@@ -279,3 +279,4 @@
 - [Reproducing Yann LeCun 1989 paper "Backpropagation Applied to Handwritten Zip Code Recognition"](https://github.com/karpathy/lecun1989-repro)
 - [Deep Neural Nets: 33 years ago and 33 years from now (2022)](https://karpathy.github.io/2022/03/14/lecun1989/) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/tf8owz/d_deep_neural_nets_33_years_ago_and_33_years_from/)) ([HN](https://news.ycombinator.com/item?id=30673821))
 - [ONNC](https://github.com/ONNC/onnc) - Open Neural Network Compiler. ([Web](https://onnc.ai/))
+- [Provably robust neural networks](https://github.com/locuslab/convex_adversarial) - Method for training neural networks that are provably robust to adversarial attacks.

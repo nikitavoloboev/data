@@ -393,6 +393,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [io-ts-strings](https://github.com/jessekelly881/io-ts-strings) - String types for io-ts.
 - [Event Bus](https://github.com/trutoo/event-bus) - Typesafe cross-platform pubsub event bus ensuring reliable communication.
 - [Tiny WASI](https://github.com/qrdate/tinywasi) - Tiny WASI runtime written in TypeScript. ([HN](https://news.ycombinator.com/item?id=30693936))
+- [unimport](https://github.com/unjs/unimport) - Unified utils for auto importing APIs in modules.
+- [JSON Schema Typed](https://github.com/jrylan/json-schema-typed) - JSON Schema TypeScript definitions with complete inline documentation.
+- [device-detector-js](https://github.com/etienne-martin/device-detector-js) - Precise user agent parser and device detector written in TypeScript.
 
 ## Links
 

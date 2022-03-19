@@ -2,6 +2,8 @@
 
 I keep a [Notion page](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431) of research papers I am reading and want to read.
 
+[Zotero](https://www.zotero.org/) is neat.
+
 Below is a list of research papers I read with a link to my own notes of the paper.
 
 ## 2017
@@ -42,7 +44,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv2remarkable.py](https://github.com/GjjvdBurg/arxiv2remarkable) - Fetch an arXiv/PubMed/ACM/OpenReview/Springer paper and send it to the reMarkable.
 - [Some papers](http://worrydream.com/refs/)
 - [OpenReview](https://openreview.net/) - Aims to promote openness in scientific communication, particularly the peer review process.
-- [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891)) ([Code](https://github.com/zotero/zotero)) ([Zotero best practices](https://forum.obsidian.md/t/zotero-best-practices/164/)) ([HN](https://news.ycombinator.com/item?id=29774097))
+- [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891)) ([Code](https://github.com/zotero/zotero)) ([Zotero best practices](https://forum.obsidian.md/t/zotero-best-practices/164/)) ([HN](https://news.ycombinator.com/item?id=29774097)) ([6.0](https://www.zotero.org/blog/zotero-6/)) ([HN](https://news.ycombinator.com/item?id=30714121))
 - [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.
 - [ACM Digital Library](https://dl.acm.org/) - Research, discovery and networking platform. ([HN](https://news.ycombinator.com/item?id=22794984))
 - [Deep Learning Paper Summaries](https://github.com/vlgiitr/papers_we_read)
@@ -166,3 +168,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Besides Sci-Hub, does anyone know where else I can get a pirated article? (2022)](https://www.reddit.com/r/scihub/comments/t4zq44/besides_scihub_does_anyone_know_where_else_i_can/)
 - [Hyperbib](https://github.com/dbuenzli/hyperbib) - Publish annotated bibliographies.
 - [CMU The Art of the Paper Course](https://github.com/acmi-lab/cmu-10717-the-art-of-the-paper)
+- [Find and edit CSL citation styles](https://editor.citationstyles.org/about/)

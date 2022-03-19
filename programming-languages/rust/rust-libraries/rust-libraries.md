@@ -39,6 +39,7 @@
 - [textplots](https://github.com/loony-bean/textplots-rs) - Terminal plotting library for Rust.
 - [Spinners](https://github.com/FGRibreau/spinners) - + Elegant terminal spinners for Rust.
 - [Bunt](https://github.com/LukasKalbertodt/bunt) - Simple macro-based terminal colors and styles.
+- [superconsole](https://github.com/facebookincubator/superconsole) - Component-based framework for building Rust TUIs.
 
 ## Web
 
@@ -144,6 +145,7 @@
 - [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
 - [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
 - [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
+- [xtask-wasm](https://github.com/rustminded/xtask-wasm) - Customizable subcommands to build your WASM projects using xtask.
 
 ## GUI
 
@@ -301,6 +303,8 @@
 - [image-gif](https://github.com/image-rs/image-gif) - GIF encoding and decoding library.
 - [cavalier_contours](https://github.com/jbuckmccready/cavalier_contours) - 2D polyline/shape library for offsetting, combining, etc.
 - [rust-rgb](https://github.com/kornelski/rust-rgb) - Struct RGB for sharing pixels between crates.
+- [wgpu_glyph](https://github.com/hecrj/wgpu_glyph) - Fast text renderer for wgpu, powered by glyph_brush.
+- [Poloto](https://github.com/tiby312/poloto) - 2D plotting library that outputs graphs to SVG that can be styled using CSS.
 
 ## Games
 
@@ -576,6 +580,7 @@
 - [litrs](https://github.com/LukasKalbertodt/litrs) - Parsing and inspecting Rust literals (particularly useful for proc macros).
 - [rustic-c](https://github.com/ry00001/rustic-c) - Macro to write C inside Rust.
 - [bytecoding](https://github.com/nn1ks/bytecoding) - Derive macro for encoding and decoding instructions and operands as bytecode.
+- [Venial](https://github.com/PoignardAzur/venial) - Lightweight parsing for Rust proc macros.
 
 ## Math
 
@@ -1582,6 +1587,11 @@
 - [rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function.
 - [LibRapid](https://github.com/LibRapid/LibRapidRust) - Highly optimized derivative of the LibRapid C++ library.
 - [Fraction](https://github.com/dnsl48/fraction) - Lossless fractions and decimals; drop-in float replacement.
+- [Tardis](https://github.com/ideal-world/tardis) - Elegant, clean Rust development framework.
+- [TrapFrame-rs](https://github.com/rcore-os/trapframe-rs) - Handle Trap Frame across kernel and user space on multiple ISAs.
+- [rust-tuf](https://github.com/theupdateframework/rust-tuf) - Rust implementation of The Update Framework (TUF).
+- [Layout](https://github.com/nadavrot/layout) - Renders graphs. Graphviz Implementation in Rust. ([HN](https://news.ycombinator.com/item?id=30715168))
+- [bigjson](https://github.com/sunli829/bigjson)
 
 ## Cargo Plugins
 
@@ -1642,6 +1652,7 @@
 - [cargo run-wasm](https://github.com/rukai/cargo-run-wasm) - Run WASM applications and examples in the browser.
 - [cargo-quickinstall](https://github.com/alsuren/cargo-quickinstall) - Pre-compiled binary packages for `cargo install`.
 - [cargo-diet](https://github.com/the-lean-crate/cargo-diet) - Help computing 'optimal' include directives for your Cargo.toml manifest.
+- [reloady](https://github.com/anirudhb/reloady) - Simple and performant hot-reloading for Rust.
 
 ## Links
 

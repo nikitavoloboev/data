@@ -1,6 +1,6 @@
 # Content management systems
 
-[Keystone](https://keystonejs.com/) seems like a great CMS.
+[Keystone](https://keystonejs.com/) & [Payload](https://payloadcms.com/) seems great.
 
 ## Links
 
@@ -38,3 +38,4 @@
 - [Bartholomew MicroCMS](https://github.com/fermyon/bartholomew) - Micro-CMS for WebAssembly and Wagi.
 - [Jetboost](https://www.jetboost.io/) - No-code search and filters for Webflow CMS. ([Twitter](https://twitter.com/Jetboostio))
 - [Statamic](https://statamic.com/) - Powerful, flat-file CMS built on Laravel.
+- [Payload CMS](https://payloadcms.com/) - Node & React TypeScript Headless CMS. ([Code](https://github.com/payloadcms/payload)) ([Reddit](https://www.reddit.com/r/javascript/comments/tgcm1n/payload_a_headless_typescript_cms_just_shipped_20/))

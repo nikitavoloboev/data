@@ -12,6 +12,7 @@
 - [Speedskating](https://github.com/spiegelgraphics/speedskating) - Olympia speedskating animation.
 - [Todo With Svelte](https://github.com/appwrite/demo-todo-with-svelte) - Demo example for integrating between Appwrite & Svelte.
 - [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit.
+- [Storyblok Sveltekit example](https://github.com/jbruxelle/storyblok-sveltekit-example) - Using Sveltekit with Storyblok as a headless CMS. Queries are made using GraphQL and the kitQL library from jycouet.
 
 ## Notes
 
@@ -193,3 +194,5 @@
 - [Building a real-time websocket app using SvelteKit (2022)](https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit)
 - [Design Patterns for Building Reusable Svelte Components (2022)](https://render.com/blog/svelte-design-patterns)
 - [Svelte parser for ESLint](https://github.com/ota-meshi/svelte-eslint-parser)
+- [Svelte Inview](https://github.com/maciekgrzybek/svelte-inview) - Svelte action that monitors an element enters or leaves the viewport.
+- [Weekly Svelte - YouTube](https://www.youtube.com/playlist?list=PLLnpHn493BHF-Onm1MQgKC1psvW-rJuYi)

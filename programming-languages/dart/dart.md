@@ -36,3 +36,4 @@
 - [dartz](https://github.com/spebbe/dartz) - Functional programming in Dart.
 - [http2](https://github.com/dart-lang/http2) - HTTP/2 implementation for dart.
 - [Brick](https://github.com/GetDutchie/brick) - Intuitive way to work with persistent data in Dart.
+- [bloc](https://github.com/felangel/bloc) - Predictable state management library that helps implement the BLoC design pattern.

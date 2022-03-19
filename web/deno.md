@@ -194,3 +194,6 @@
 - [Deno Installer](https://github.com/marc2332/deno_installer) - Create installers for your Deno apps.
 - [deno_task_shell](https://github.com/denoland/deno_task_shell) - Cross platform scripting proof of concept for deno task.
 - [Deno is Webby (2022)](https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/) ([HN](https://news.ycombinator.com/item?id=30703531))
+- [Deno 1.20 (2022)](https://deno.com/blog/v1.20) ([HN](https://news.ycombinator.com/item?id=30711245))
+- [Bazel rules for Deno](https://github.com/aspect-build/rules_deno)
+- [Oak GraphQL](https://github.com/aaronwlee/oak-graphql) - Simple GraphQL middleware for oak Deno framework.

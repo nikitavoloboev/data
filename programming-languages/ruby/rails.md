@@ -127,3 +127,8 @@
 - [Stimulus for Rails](https://github.com/hotwired/stimulus-rails)
 - [ViewComponent](https://github.com/github/view_component) - Framework for building reusable, testable & encapsulated view components in Ruby on Rails. ([Docs](https://viewcomponent.org/))
 - [Senior Rails developer AMA (2022)](https://www.reddit.com/r/rails/comments/tfm71l/i_am_a_senior_rails_engineer_ama_ask_me_anything/)
+- [Goldiloader](https://github.com/salsify/goldiloader) - Just the right amount of Rails eager loading.
+- [Mailkick](https://github.com/ankane/mailkick) - Email subscriptions for Rails.
+- [ActiveRecord::PostgresEnum](https://github.com/bibendi/activerecord-postgres_enum) - Adds migration and schema.rb support to PostgreSQL enum data types.
+- [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction) - Manages application-specific business logic. It's an implementation of the command pattern in Ruby.
+- [TurboFlash](https://github.com/joshmn/turbo_flash) - Automagically include your flash messages in your Ruby on Rails Hotwire TurboStream responses.

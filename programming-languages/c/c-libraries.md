@@ -37,6 +37,7 @@
 
 - [greatest](https://github.com/silentbicycle/greatest) - C testing library in 1 file. No dependencies, no dynamic allocation.
 - [Check](https://github.com/libcheck/check) - Unit testing framework for C.
+- [CT](https://github.com/kr/ct) - Easy Unit Testing for C.
 
 ## CLI
 
@@ -132,3 +133,4 @@
 - [Buffet](https://github.com/alcover/buffet) - All-inclusive Buffer Type for C.
 - [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([Web](https://www.clibs.org/)) ([HN](https://news.ycombinator.com/item?id=30596005)) ([HN](https://news.ycombinator.com/item?id=24182441))
 - [libcbor](https://github.com/PJK/libcbor) - CBOR protocol implementation for C.
+- [Interface99](https://github.com/Hirrolot/interface99) - Full-featured interfaces for C99.

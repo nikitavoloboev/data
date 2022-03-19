@@ -472,6 +472,7 @@
 - [Mendoza](https://github.com/Subito-it/Mendoza) - Dispatch Apple's UI Tests over multiple physical machines.
 - [Mussel](https://github.com/UrbanCompass/Mussel) - Framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 - [Spectre](https://github.com/kylef/Spectre) - BDD Framework and test runner for Swift projects and playgrounds.
+- [GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - GeometryWriter writes the minimum frame to a View.
 
 ## API
 
@@ -1013,6 +1014,9 @@
 - [AsyncExtensions](https://github.com/AsyncCommunity/AsyncExtensions) - Collection of operators, async sequences and async streams that mimics Combine behaviour.
 - [ISSoundAdditions](https://github.com/InerziaSoft/ISSoundAdditions) - Swift Sound class to read and modify the system volume effortlessly.
 - [DSFSparkline](https://github.com/dagronf/DSFSparkline) - Sparklines for macOS, iOS and tvOS.
+- [EventSource](https://github.com/inaka/EventSource) - Simple Swift client library for the Server Sent Events (SSE).
+- [MusadoraKit](https://github.com/rryam/MusadoraKit) - Framework to easily access Apple's latest MusicKit and Apple Music API with async-await syntax.
+- [FlexLayout](https://github.com/layoutBox/FlexLayout) - Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
 
 ## Other (not lib)
 

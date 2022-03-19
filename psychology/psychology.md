@@ -48,3 +48,4 @@
 - [How to talk about autism respectfully](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/how-to-talk-about-autism-respectfully-84) ([HN](https://news.ycombinator.com/item?id=29731065))
 - [Labelling Feelings 101](https://drmaciver.substack.com/p/labelling-feelings)
 - [Rage & fear you feel after the Russian invasion are ancient parts of your mind preparing](https://twitter.com/M_B_Petersen/status/1498199978640084993)
+- [Manufacturing Consent: Noam Chomsky and the Media - Feature Film](https://www.youtube.com/watch?v=EuwmWnphqII)

@@ -8,7 +8,7 @@
 
 ## Links
 
-- [Physically Based Rendering Book](http://www.pbr-book.org) ([Web](https://www.pbrt.org/)) ([V3](https://github.com/mmp/pbrt-v3)) ([V4](https://github.com/mmp/pbrt-v4))
+- [Physically Based Rendering Book](http://www.pbr-book.org) ([Web](https://www.pbrt.org/)) ([V3](https://github.com/mmp/pbrt-v3)) ([V4](https://github.com/mmp/pbrt-v4)) ([Contents](https://www.pbr-book.org/3ed-2018/contents)) ([HN](https://news.ycombinator.com/item?id=30714104))
 - [NVIDIA GeForce RTX - Official Launch Event (2018)](https://www.youtube.com/watch?v=Mrixi27G9yM)
 - [Writing to framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [GUI Development is broken (2018)](http://www.charlesetc.com/gui-development-is-broken/)

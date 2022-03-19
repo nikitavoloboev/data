@@ -73,3 +73,5 @@
 - [How Bitwarden encrypts your data (2022)](https://www.huy.rocks/everyday/02-22-2022-security-how-bitwarden-encrypts-your-data) ([Lobsters](https://lobste.rs/s/plnc1z/how_bitwarden_encrypts_your_data))
 - [TL;DR - Hybrid Public Key Encryption (2022)](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/) ([HN](https://news.ycombinator.com/item?id=30497897))
 - [A Deep dive into Ed25519 Signatures (2022)](https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html) ([Lobsters](https://lobste.rs/s/dcs345/deep_dive_into_ed25519_signatures))
+- [Yopass](https://yopass.se/) - Secure sharing of secrets, passwords and files. ([Code](https://github.com/jhaals/yopass))
+- [The Noise Protocol Framework](https://noiseprotocol.org/noise.html) - Framework for crypto protocols based on Diffie-Hellman key agreement.

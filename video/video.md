@@ -2,7 +2,7 @@
 
 I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are quite outdated).
 
-[Descript](https://www.descript.com/) is amazing for video editing.
+[Descript](https://www.descript.com/) is amazing for video editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself).
 
 ## Inspiring editing
 
@@ -42,7 +42,7 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 ## Links
 
 - [Videvo](https://www.videvo.net/) - Free Stock Video Footage.
-- [H.264 is Magic (2016)](https://sidbala.com/h-264-is-magic/) ([HN](https://news.ycombinator.com/item?id=19997813))
+- [H.264 is Magic (2016)](https://sidbala.com/h-264-is-magic/) ([HN](https://news.ycombinator.com/item?id=19997813)) ([HN](https://news.ycombinator.com/item?id=30710574))
 - [Handy tip for trimming demo videos](https://gist.github.com/bvaughn/0da332982b650e188971b7955173a559)
 - [Gentle introduction to video technology, although it's aimed at software developers / engineers](https://github.com/leandromoreira/digital_video_introduction) ([HN](https://news.ycombinator.com/item?id=21593158))
 - [How To Make A \$300 Camera Look Pro (2019)](https://www.youtube.com/watch?v=0wqUWYx3UrY)
@@ -329,3 +329,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Vireo](https://github.com/twitter/vireo) - Lightweight and versatile video processing library written in C++11.
 - [rustube](https://github.com/DzenanJupic/rustube) - YouTube video downloader, originally inspired by pytube, written in Rust.
 - [Ask HN: What is the most economic and scalable way to host videos in 2022?](https://news.ycombinator.com/item?id=30652075)
+- [Color Video to Text Conversion](https://github.com/TheScienceElf/Video-to-Text)
+- [dav1d](https://code.videolan.org/videolan/dav1d) - Fastest AV1 decoder on all platforms. ([HN](https://news.ycombinator.com/item?id=30722853))

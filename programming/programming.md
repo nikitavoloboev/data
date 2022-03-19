@@ -2,6 +2,7 @@
 
 ## Notes
 
+- [How to write fast code: reduce memory access. All of these tips stem from that: 1. Reduce the size of your data structures so more can fit in CPU cache. 2. Replace strings with numbers. 3. Make use of bit flags. Don’t waste space on booleans. 4. Access memory linearly. 5. Make judicious use of the heap. Inline the most commonly accessed values, move large or less common ones to the heap. 6. Model data like a database. Normalize commonly used structures and pass ids rather than copying them around. 7. Consider using a struct of arrays rather than an array of structs. For example, if you have two types of value, store them in separate arrays instead of a single one with a type field. This reduces memory usage and makes iterating by type linear.](https://twitter.com/devongovett/status/1504476131818237967)
 - In software engineering there are two things you are trying to get right:
   - Software Validation - Did we build the right thing?
   - Software Verification - Did we build the thing right?
@@ -261,7 +262,7 @@
 - [How to Write Unmaintainable Code (2003)](https://github.com/Droogans/unmaintainable-code) ([HN](https://news.ycombinator.com/item?id=24325974))
 - [The Life of a Data Byte (2020)](https://queue.acm.org/detail.cfm?id=3419941)
 - [Ask HN: As a developer what are your aha moments? (2020)](https://news.ycombinator.com/item?id=24397272)
-- [Curated list of falsehoods programmers believe](https://github.com/kdeldycke/awesome-falsehood) ([HN](https://news.ycombinator.com/item?id=24405941))
+- [Curated list of falsehoods programmers believe](https://github.com/kdeldycke/awesome-falsehood) ([HN](https://news.ycombinator.com/item?id=24405941)) ([HN](https://news.ycombinator.com/item?id=30710908))
 - [Signals & Threads Podcast](https://signalsandthreads.com/)
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/) ([Lobsters](https://lobste.rs/s/jyyuhn/decision_table_patterns))
 - [Ask HN: I'm a terrible developer, what now? (2020)](https://news.ycombinator.com/item?id=24444705)

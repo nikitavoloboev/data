@@ -99,3 +99,4 @@
 - [lssh](https://github.com/blacknon/lssh) - TUI list select ssh/scp/sftp client tools.
 - [Melt](https://github.com/charmbracelet/melt) - Backup and restore SSH private keys using memorizable seed phrases.
 - [ssh-key-algo](https://github.com/github/ssh-key-algo) - Script to check if the SSH key algorithm is up to date.
+- [Unix System Monitoring Over SSH](https://github.com/zix99/sshsysmon)

@@ -438,3 +438,4 @@
 - [Security monitoring for the GitHub-hosted runner](https://github.com/step-security/harden-runner)
 - [Organization workflows app](https://github.com/SvanBoxel/organization-workflows) - Allows you to run GitHub Actions workflows across multiple repositories, which is not yet natively supported.
 - [Debug your GitHub Actions by using SSH](https://github.com/lhotari/action-upterm)
+- [Save time with partial re-runs in GitHub Actions (2022)](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)

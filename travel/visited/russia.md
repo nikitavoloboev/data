@@ -4,7 +4,7 @@ TL;DR Russia and most of its people are beautiful and kind but [Russian governme
 
 As for how to get there, for one, western governments should not stop the flow of information between countries ([should not block research from Russians being published, should stop labeling all Russians as aggressors etc.](https://www.youtube.com/watch?v=rTwrrqwa0f4)). Secondly, there should be tools built that can circumvent ability for government to block out ability for people to organize into massive crowds of people at will.
 
-> Below is mostly just my opinion on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 10. Rest I get from outside media, friends and my occasional visits).
+> Below is mostly just [my opinion](https://twitter.com/eeberquist/status/1504516448156274695) on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 10. Rest I get from outside media, friends and my occasional visits).
 
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
@@ -57,6 +57,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Бояться нужно не этого. А того, что мы всю жизнь проживем в нищете, деградации. И оставим своим детям это все.](https://twitter.com/Kira_Yarmysh/status/1493580134829416452)
 - [Не тратьте время и силы на ненависть друг к другу. Именно этого и добивается машина пропаганды уже много лет.](https://twitter.com/bardulya/status/1496749131871752194)
 - ["What were you given 10 years for?" – "For nothing!" – "Don't lie to us here, now! Everybody knows 'for nothing' is 3 years."](https://news.ycombinator.com/item?id=30542596)
+- [Если вы серьезно используете слово "нация" как объяснение каких-то психологических характеристик людей (даже положительных), живущих на одной территории или связанных родственники отношениями, то внутри вас есть ростки национализма или он сам](https://twitter.com/doctormongol/status/1504334709760929794)
 
 ## Links
 
@@ -513,3 +514,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [The Russian Sanctions Regime and the Risk of Catastrophic Success (2022)](https://warontherocks.com/2022/03/the-russian-sanctions-regime-and-the-risk-of-catastrophic-success/) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/ter2cy/the_russian_sanctions_regime_and_the_risk_of/))
 - [Russia Nuclear Threat: A Hard Look at the Risk of a Putin-Ordered Tactical Nuke (2022)](https://www.nationalreview.com/the-morning-jolt/a-hard-look-at-the-risk-of-a-putin-ordered-tactical-nuke/)
 - [1 рубль — это много, когда нас много](https://365.nuzhnapomosh.ru/)
+- [Russia's history of defaults](https://twitter.com/ProfPaulPoast/status/1504795796700545024)
+- [Russian information channels have significant reach across Asia and Africa](https://twitter.com/carljackmiller/status/1504896238826700800)
+- [Семь лесов в России, где можно поорать](https://www.aviasales.ru/psgr/article/the-crying-forest)
+- [Sanctions are not hurting Putin](https://twitter.com/ClintEhrlich/status/1500996394659696640)

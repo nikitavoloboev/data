@@ -90,3 +90,4 @@
 - [elm-review-bot](https://github.com/MartinSStewart/elm-review-bot) - Bot that uses elm-review to find common mistakes in packages.
 - [Tail recursion, but modulo cons (2022)](https://jfmengels.net/modulo-cons/)
 - [elm-watch](https://github.com/lydell/elm-watch) - Recompiles whenever your Elm files change and reloads the compiled JS in the browser.
+- [Elm-pair](https://elm-pair.com/)

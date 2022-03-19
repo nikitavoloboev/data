@@ -90,3 +90,4 @@ Match all that don't have notes or twitter in input
 - [Python support for regular expressions (2022)](https://lwn.net/SubscriberLink/885682/ebb44eea5667f358/)
 - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/) ([HN](https://news.ycombinator.com/item?id=30564287))
 - [rulex](https://github.com/Aloso/rulex) - New, portable, regular expression language. ([Reddit](https://www.reddit.com/r/rust/comments/tbu6s3/announcing_rulex_a_new_regular_expression_language/))
+- [rare](https://github.com/zix99/rare) - Real time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more.

@@ -276,3 +276,4 @@
 - [Rust-WASM](https://github.com/yblein/rust-wasm) - WASM interpreter written in Rust.
 - [ts-bindgen](https://github.com/ratchetdesigns/ts-bindgen) - Generates wasm-bindgen rust code for typescript declarations.
 - [Rust + WebAssembly Team](https://github.com/rustwasm/team) - Point of coordination for all things Rust and WebAssembly.
+- [wasm-workflows-plugin](https://github.com/Shark/wasm-workflows-plugin) - Executor Plugin for Argo Workflows that runs WebAssembly modules.
