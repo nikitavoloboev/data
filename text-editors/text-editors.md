@@ -188,3 +188,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [SwiftyMonaco](https://github.com/ICToolkit/SwiftyMonaco) - Wrapper for Monaco Editor from Microsoft.
 - [OpenSumi](https://github.com/opensumi/core) - Framework helps you quickly build Cloud or Desktop IDE products.
 - [Betting on CodeMirror (2022)](https://blog.replit.com/codemirror)
+- [Portable Text Spec](https://github.com/portabletext/portabletext) - JSON based rich text specification for modern content editing platforms.

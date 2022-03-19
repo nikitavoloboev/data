@@ -169,3 +169,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Hyperbib](https://github.com/dbuenzli/hyperbib) - Publish annotated bibliographies.
 - [CMU The Art of the Paper Course](https://github.com/acmi-lab/cmu-10717-the-art-of-the-paper)
 - [Find and edit CSL citation styles](https://editor.citationstyles.org/about/)
+- [Arxiv Sanity RSS Feeds](https://github.com/dend/arxiv-sanity-feeds) - Subscribe to the content published on Arxiv Sanity.

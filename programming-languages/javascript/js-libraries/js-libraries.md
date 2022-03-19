@@ -840,6 +840,7 @@
 - [element-in-view](https://github.com/egoist/element-in-view) - Check if an element is in viewport.
 - [remark-directive](https://github.com/remarkjs/remark-directive) - Remark plugin to support directives.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Provides FFmpeg builds ported to JavaScript using Emscripten project.
+- [Jison](https://github.com/zaach/jison) - API for creating parsers in JavaScript.
 
 ## Links
 

@@ -94,3 +94,4 @@
 - [Accessibility Support](https://a11ysupport.io/) - Accessibility Support data for various HTML, ARIA, CSS, and SVG features. ([Code](https://github.com/accessibilitysupported/a11ysupport.io))
 - [5 Accessibility Quick Wins (2022)](https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/)
 - [Accessibility for real-time web apps](https://fly.io/blog/intro-to-accessibility/)
+- [Guidance on Web Accessibility and the ADA](https://beta.ada.gov/web-guidance/)

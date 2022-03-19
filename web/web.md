@@ -381,3 +381,5 @@
 - [BBS](https://github.com/net4people/bbs/issues) - Forum for discussing Internet censorship circumvention.
 - [uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.
 - [Full Stack Learning Path](https://codedamn.com/learning-paths/fullstack) ([Code](https://github.com/codedamn/fullstack-learning-path))
+- [MDN data](https://github.com/mdn/data) - General data for Web technologies.
+- [WebMention Test Pinger](https://github.com/voxpelli/node-webmention-testpinger) - Tool to ping your site with a variety of real world WebMentions.

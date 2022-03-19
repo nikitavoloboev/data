@@ -36,3 +36,4 @@
 - [Restly](https://github.com/brokenhandsio/Restly) - Simple open source REST client for macOS, iOS and iPadOS.
 - [What are the REST API reference projects that can be used as a guide in 2021?](https://www.reddit.com/r/golang/comments/r11ime/what_are_the_rest_api_reference_projects_that_can/)
 - [Evolving your RESTful APIs, a step-by-step approach (2022)](https://blog.frankel.ch/evolve-apis/) ([Reddit](https://www.reddit.com/r/programming/comments/t2sv52/evolving_your_restful_apis_a_stepbystep_approach/))
+- [Is REST simpler than GraphQL? (2022)](https://dev.to/oleg008/is-rest-simpler-than-graphql-78c)

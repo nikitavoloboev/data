@@ -228,3 +228,4 @@
 - [HTML-friendly spaCy Tokenizer](https://github.com/pmbaumgartner/spacy-html-tokenizer)
 - [Building a loading bar component (2022)](https://web.dev/building-a-loading-bar-component/)
 - [Hotwire Example Template](https://github.com/thoughtbot/hotwire-example-template) - Collection of branches that transmit HTML over the wire.
+- [djLint](https://github.com/Riverside-Healthcare/djLint) - Find common formatting issues and reformat HTML templates.

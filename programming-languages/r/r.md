@@ -132,3 +132,4 @@
 - [lavaanPlot](https://github.com/alishinski/lavaanPlot) - R package for plotting lavaan path models with DiagrammeR.
 - [bayestestR](https://github.com/easystats/bayestestR) - Utilities for analyzing Bayesian models and posterior distributions.
 - [ambiorix](https://github.com/devOpifex/ambiorix) - Web framework for R.
+- [broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format.

@@ -153,3 +153,4 @@
 - [Low-Effort, High-Value Documentation (2021)](https://alexklibisz.com/2021/03/07/low-effort-high-value-documentation.html)
 - [Organisational Scaling Knowledge Management Tips (2022)](https://twitter.com/yoz/status/1498395923453386756)
 - [docs.page](https://docs.page/) - Create an instant Open Source docs page with zero configuration. ([Code](https://github.com/invertase/docs.page))
+- [docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch.

@@ -222,3 +222,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Quine](https://quine.sh/) - Build verifiable experience through open source.
 - [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers)
 - [How to pay professional maintainers (2022)](https://words.filippo.io/pay-maintainers/)
+- [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)

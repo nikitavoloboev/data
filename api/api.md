@@ -124,6 +124,7 @@
 - [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
 - [Coinbase Rust](https://github.com/j16r/coinbase-rs)
+- [Toggl Python](https://github.com/matthewdowney/TogglPy)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Gfycat Python](https://github.com/ankeshanand/py-gfycat)
 - [TikTok Python](https://github.com/davidteather/TikTok-Api) - Unofficial API.

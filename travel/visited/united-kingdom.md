@@ -49,3 +49,4 @@
 - [Where would you live in the UK if you are fully remote? (2022)](https://www.reddit.com/r/AskUK/comments/tfdu70/where_would_you_live_in_the_uk_if_you_are_fully/)
 - [Ask HN: What has been your experience with bigger tech companies in London? (2022)](https://news.ycombinator.com/item?id=30710106)
 - [How Putin’s Oligarchs Bought London (2022)](https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london) ([HN](https://news.ycombinator.com/item?id=30728110))
+- [Find and update company information - GOV.UK](https://find-and-update.company-information.service.gov.uk/)

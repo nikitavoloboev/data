@@ -50,3 +50,4 @@
 - [WebGPU experiments](https://github.com/Palats/webgpu)
 - [WebGPU — All of the cores, none of the canvas (2022)](https://surma.dev/things/webgpu/) ([HN](https://news.ycombinator.com/item?id=30600525))
 - [Arche.js](https://github.com/ArcheGraphics/Arche.js) - Entity-Component Based Graphics Engine rendered by WebGPU.
+- [mach/gpu-dawn](https://github.com/hexops/mach-gpu-dawn) - WebGPU/Dawn built with Zig.

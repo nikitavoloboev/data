@@ -200,3 +200,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [How to achieve long exposure glide effect](https://www.reddit.com/r/AskPhotography/comments/t9l2nv/any_thoughts_on_how_this_effect_is_achieved_this/)
 - [Why Dark and Light is Complicated in Photographs (2022)](https://aaronhertzmann.com/2022/03/10/photographic-tone.html) ([HN](https://news.ycombinator.com/item?id=30662066))
 - [Photography is not Objective, Art is a Set of Choices (2022)](https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html) ([HN](https://news.ycombinator.com/item?id=30716128))
+- [ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative.

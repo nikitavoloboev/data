@@ -144,3 +144,4 @@
 - [GenVisR](https://github.com/griffithlab/GenVisR) - Genome data visualizations.
 - [Glow](https://github.com/projectglow/glow) - Open-source toolkit for large-scale genomic analysis.
 - [EVcouplings](https://github.com/debbiemarkslab/EVcouplings) - Evolutionary couplings from protein and RNA sequence alignments.
+- [alevin-fry](https://github.com/COMBINE-lab/alevin-fry) - Efficient and flexible tool for processing single-cell sequencing data, currently focused on single-cell transcriptomics and feature barcoding.

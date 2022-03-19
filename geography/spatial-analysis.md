@@ -158,3 +158,5 @@
 - [Tilemaker](https://github.com/systemed/tilemaker) - Make OpenStreetMap vector tiles without the stack.
 - [GeoMet](https://github.com/geomet/geomet) - Convert GeoJSON to WKT/WKB, and vice versa.
 - [Introduction to Geospatial Raster and Vector Data with Python](https://github.com/carpentries-incubator/geospatial-python)
+- [EOmaps](https://github.com/raphaelquast/EOmaps) - Library to create interactive maps of geographical datasets.
+- [geojson](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.

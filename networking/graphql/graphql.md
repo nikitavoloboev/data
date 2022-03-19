@@ -302,3 +302,4 @@
 - [How to Use Mocks in Your GraphQL Development Workflow (2022)](https://stepzen.com/blog/how-to-use-mocks-in-your-graphql-development-workflow)
 - [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - GraphQL query parser in C++ with C and C++ APIs.
 - [GraphQL Schema to JSON Schema](https://github.com/charlypoly/graphql-to-json-schema)
+- [GraphRPC](https://github.com/Just4Ease/graphrpc) - RPC with GraphQL over Nats.io & JetStream.

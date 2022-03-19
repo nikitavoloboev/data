@@ -23,3 +23,4 @@
 - [nix-env.fish](https://github.com/lilyball/nix-env.fish) - Sets up the Nix environment for a non-NixOS Fish shell.
 - [GitNow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow.
 - [Done](https://github.com/franciscolourenco/done) - Fish shell package to automatically receive notifications when long processes finish.
+- [HN: Fish 3.4.0](https://news.ycombinator.com/item?id=30734072)

@@ -138,3 +138,5 @@
 - [Django CORS Headers](https://github.com/adamchainz/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
 - [Security And Django](https://www.mattlayman.com/understand-django/secure-apps/)
 - [Awesome Django Blogs](https://github.com/theArjun/awesome-django-blogs)
+- [Django Sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the Django tooling you already know and love.
+- [Django Celery Results](https://github.com/celery/django-celery-results) - Celery result back end with Django.

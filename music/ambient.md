@@ -34,3 +34,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [A Soft Murmur](https://asoftmurmur.com/)
 - [Generative.fm](https://generative.fm/) - Endless ambient music generators.
 - [White Noise Improves Learning](https://pubmed.ncbi.nlm.nih.gov/24345178/) ([HN](https://news.ycombinator.com/item?id=30600616))
+- [Lofimusic.app](https://lofimusic.app/) - Installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios. ([Code](https://github.com/maxence-charriere/lofimusic))

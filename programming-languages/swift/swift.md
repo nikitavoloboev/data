@@ -275,3 +275,4 @@
 - [Swift Installer Scripts](https://github.com/apple/swift-installer-scripts)
 - [Functional core Imperative shell in Swift. Unidirectional Flow. (2022)](https://swiftwithmajid.com/2022/03/16/functional-core-imperative-shell-in-swift-unidirectional-flow/)
 - [Abstract types and methods in Swift (2022)](https://www.swiftbysundell.com/articles/abstract-types-and-methods/)
+- [Optimization in Swift, part 1 (2022)](https://trycombine.com/posts/swift-performance-concurrency-1/)

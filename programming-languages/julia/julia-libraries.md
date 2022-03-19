@@ -504,6 +504,7 @@
 - [AMQPClient](https://github.com/JuliaComputing/AMQPClient.jl) - Julia AMQP (Advanced Message Queuing Protocol) / RabbitMQ Client.
 - [DynamicAxisWarping.jl](https://github.com/baggepinnen/DynamicAxisWarping.jl) - Dynamic Time Warping (DTW), matrix profile and related algorithms in Julia.
 - [PyCallChainRules](https://github.com/rejuvyesh/PyCallChainRules.jl) - Differentiate python calls from Julia.
+- [Replay](https://github.com/AtelierArith/Replay.jl) - Replay your REPL instructions.
 
 ## Links
 

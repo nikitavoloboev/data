@@ -160,6 +160,7 @@
 - [SQLAlchemy adapter for CockroachDB](https://github.com/cockroachdb/sqlalchemy-cockroachdb)
 - [pgspecial](https://github.com/dbcli/pgspecial) - API to execute meta-commands (AKA "special", or "backslash commands") on PostgreSQL.
 - [DuckDB Foreign Data Wrapper for PostgreSQL](https://github.com/alitrack/duckdb_fdw)
+- [Ibis BigQuery](https://github.com/ibis-project/ibis-bigquery) - BigQuery backend for Ibis.
 
 ## GUI
 
@@ -227,6 +228,7 @@
 - [flake8-assertive](https://github.com/jparise/flake8-assertive) - Flake8 unittest assert method checker.
 - [Klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library.
 - [detect-test-pollution](https://github.com/asottile/detect-test-pollution) - Tool to detect test pollution.
+- [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 
 ## Error
 
@@ -754,6 +756,7 @@
 - [Visual Automata](https://github.com/lewiuberg/visual-automata) - Python 3 library built as a wrapper for the Automata library to add more visualization features.
 - [UltraDict](https://github.com/ronny-rentner/UltraDict) - Sychronized, streaming Python dictionary that uses shared memory as a backend.
 - [Lasier](https://github.com/luizalabs/lasier) - Sync/async circuit breaker implementation in Python.
+- [Tomli](https://github.com/hukkin/tomli) - TOML parser.
 
 ## Links
 

@@ -736,3 +736,4 @@ if err != nil {
 - [gospel](https://github.com/kortschak/gospel) - Lints Go source files for misspellings in comments, strings and embedded files.
 - [Write once, store anywhere: Extensible file systems for Go (2022)](https://blog.johnstarich.com/write-once-store-anywhere-extensible-file-systems-for-go-65c7c0949e74) ([HN](https://news.ycombinator.com/item?id=30728348))
 - [GoReSym](https://github.com/mandiant/GoReSym) - Go symbol parser that extracts program metadata.
+- [Паттерны проектирования с примерами на Go](https://github.com/AlexanderGrom/go-patterns)

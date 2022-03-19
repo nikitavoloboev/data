@@ -537,3 +537,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Gamma Protocol](https://github.com/opynfinance/GammaProtocol) - Most powerful, capital efficient DeFi options protocol.
 - [Weiroll](https://github.com/weiroll/weiroll) - Simple and efficient operation-chaining/scripting language for the EVM.
 - [Ethereum Execution Client Specifications](https://github.com/ethereum/execution-specs)
+- [Revenue Distribution Token](https://github.com/maple-labs/revenue-distribution-token) - Token to distribute aggregated vested earnings of any underlying token using the ERC-4626 standard.
+- [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there, foundry.

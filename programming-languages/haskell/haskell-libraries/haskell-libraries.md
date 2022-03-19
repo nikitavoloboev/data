@@ -71,6 +71,10 @@
 
 - [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks.
 
+## Math
+
+- [arithmoi](https://github.com/Bodigrim/arithmoi) - Number theory: primes, arithmetic functions, modular computations, special sequences.
+
 ## Crypto
 
 - [lol](https://github.com/cpeikert/Lol) - Functional Lattice Cryptography.
@@ -264,6 +268,7 @@
 - [Flow](https://github.com/tfausak/flow) - Write more understandable Haskell.
 - [parameterized-utils](https://github.com/GaloisInc/parameterized-utils) - Utilities for using indexed types including containers, equality, and comparison.
 - [hkd](https://github.com/ekmett/hkd) - Higher-kinded data.
+- [Language-ecmascript](https://github.com/jswebtools/language-ecmascript) - Haskell library for parsing, transforming and pretty-printing JavaScript.
 
 ## Notes
 

@@ -205,3 +205,4 @@
 - [Avoid Keyboard in React Native Like a Pro](https://www.netguru.com/blog/avoid-keyboard-react-native) ([Tweet](https://twitter.com/sebastienlorber/status/1504027856854306816))
 - [React Native Link Preview](https://github.com/flyerhq/react-native-link-preview) - Fully customizable preview of the URL extracted from the provided text.
 - [React Native Media Console](https://github.com/criszz77/react-native-media-console) - React Native video component with controls. Built with TypeScript.
+- [RN Skia Sketch Canvas](https://github.com/uragirii/rn-skia-sketch-canvas) - React Native component for drawing using Skia renderer.

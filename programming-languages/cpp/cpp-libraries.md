@@ -64,6 +64,7 @@
 - [Anti-Grain Geometry](https://github.com/ghaerr/agg-2.6) - Open Source, 2D vector graphics library. Produces pixel images in memory from vectorial data.
 - [JNGL](https://github.com/jhasse/jngl) - Easy to use cross-platform 2D game library for C++.
 - [libpag](https://github.com/Tencent/libpag) - Real-time rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+- [Alembic](https://github.com/alembic/alembic) - Open computer graphics interchange framework. ([Web](http://www.alembic.io/))
 
 ## DB
 

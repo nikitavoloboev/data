@@ -732,3 +732,4 @@
 - [On Embeddings for Numerical Features in Tabular Deep Learning (2022)](https://arxiv.org/abs/2203.05556) ([Code](https://github.com/Yura52/tabular-dl-num-embeddings))
 - [Automated Machine Learning in Action Book (2022)](https://www.manning.com/books/automated-machine-learning-in-action) ([Code](https://github.com/datamllab/automl-in-action-notebooks))
 - [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes)
+- [The Mathematics of Artificial Intelligence (2022)](https://arxiv.org/abs/2203.08890)

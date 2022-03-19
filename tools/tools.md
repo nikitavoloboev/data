@@ -674,3 +674,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [What's an extremely useful app most people probably don't know about? (2022)](https://twitter.com/9to5mac/status/1498384339851227137)
 - [Some tiny personal programs I've written (2022)](https://jvns.ca/blog/2022/03/08/tiny-programs/) ([HN](https://news.ycombinator.com/item?id=30614623))
 - [40+ of the best open-source tools to build your startup, from project management to infrastructure (2022)](https://blog.scaleway.com/40-open-source-projects/) ([Reddit](https://www.reddit.com/r/selfhosted/comments/tcsed1/40_of_the_best_opensource_tools_to_build_your/))
+- [Ask HN: What technologies greatly improve the efficiency of development? (2022)](https://news.ycombinator.com/item?id=30733384)

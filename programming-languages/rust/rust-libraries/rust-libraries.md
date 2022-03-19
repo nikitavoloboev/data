@@ -1592,6 +1592,8 @@
 - [rust-tuf](https://github.com/theupdateframework/rust-tuf) - Rust implementation of The Update Framework (TUF).
 - [Layout](https://github.com/nadavrot/layout) - Renders graphs. Graphviz Implementation in Rust. ([HN](https://news.ycombinator.com/item?id=30715168))
 - [bigjson](https://github.com/sunli829/bigjson)
+- [GJSON](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust.
+- [coap-rs](https://github.com/Covertness/coap-rs) - Constrained Application Protocol(CoAP) library implemented in Rust.
 
 ## Cargo Plugins
 
@@ -1751,3 +1753,4 @@
 - [Rust's Universes (2021)](https://aloso.github.io/2021/03/10/rusts-universes.html)
 - [cmake-rs](https://github.com/alexcrichton/cmake-rs) - Rust build dependency for running cmake.
 - [Full-Stack Clean Architecture with Rust](https://github.com/flosse/clean-architecture-with-rust)
+- [rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross.

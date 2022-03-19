@@ -41,3 +41,4 @@
 - [OpenRPC Typings](https://github.com/open-rpc/typings) - Tool to produce language-specific typings given an OpenRPC document.
 - [hRPC](https://github.com/harmony-development/hrpc) - Simple RPC system using protocol buffers over HTTP and WebSockets.
 - [hrpc-rs](https://github.com/harmony-development/hrpc-rs) - Implementation of hRPC in Rust.
+- [Axon RPC](https://github.com/Just4Ease/axonrpc) - RPC over event streams. Can execute RPC calls like gRPC but this time, over event streams.

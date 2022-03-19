@@ -25,6 +25,10 @@
 
 - [lunchy](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 
+## Test
+
+- [Impersonator](https://github.com/jorgemanrubia/impersonator) - Ruby library to record and replay object interactions.
+
 ## Other
 
 - [ruby-macho](https://github.com/Homebrew/ruby-macho) - Ruby library for examining and modifying Mach-O files.
@@ -45,6 +49,7 @@
 - [ValueSemantics](https://github.com/tomdalling/value_semantics) - Gem for making value classes, with lightweight validation and coercion.
 - [Liquid::C](https://github.com/Shopify/liquid-c) - Liquid performance extension in C. ([Article](https://shopify.engineering/refactor-path-to-faster-rendering-liquid-c))
 - [Ruby Facets](https://github.com/rubyworks/facets) - Collection of general purpose method extensions and standard additions for the Ruby programming language.
+- [Orchestra](https://github.com/ntl/orchestra) - Seamlessly chain multiple command or query objects together with a simple, lightweight framework.
 
 ## Links
 

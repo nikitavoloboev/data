@@ -12,6 +12,7 @@
 - [Proton Mail Web clients](https://github.com/ProtonMail/WebClients)
 - [Saas UI](https://github.com/saas-js/saas-ui) - The frontend stack for SaaS companies, build with Chakra UI.
 - [Big Sir](https://github.com/bautistaaa/big-sir) - macOS built with React and XState.
+- [Bookshelf - React - Express - SQLite app](https://github.com/alexdevero/bookshelf-react-express-sqlite-app)
 
 ## Templates
 
@@ -304,3 +305,4 @@
 - [ASAP](https://github.com/mechanize-systems/asap) - Opinionated application server for React Single Page Applications.
 - [800 slides on various React topics](https://marko-knoebl.github.io/slides/react-all-en.html) ([Reddit](https://www.reddit.com/r/reactjs/comments/t6kkco/i_teach_react_courses_heres_my_updated_collection/))
 - [Delightful React file/directory structure (2022)](https://www.joshwcomeau.com/react/file-structure/) ([HN](https://news.ycombinator.com/item?id=30684777))
+- [Continuous Integration Pipelines with GitHub Actions for (React) Developers (2022)](https://profy.dev/article/continuous-integration-with-github-actions)

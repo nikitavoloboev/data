@@ -143,3 +143,4 @@
 - [Terraform provider for Keycloak](https://github.com/mrparkers/terraform-provider-keycloak)
 - [Terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 - [Terraform Plugin Framework](https://github.com/hashicorp/terraform-plugin-framework) - Module for building Terraform providers.
+- [Terraform Registry](https://github.com/philips-labs/terraform-registry) - Light weight Terraform Registry, more like a proxy.

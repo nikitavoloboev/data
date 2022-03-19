@@ -203,3 +203,5 @@
 - [Guide on how to make Docker images even smaller (2022)](https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/)
 - [Docker Registry UI](https://github.com/Quiq/docker-registry-ui)
 - [Dockerfile Dependency graph](https://po3rin.github.io/dockerdot/) - Shows Dockerfile dependency graph. Useful to understand how build Dockerfile. ([Code](https://github.com/po3rin/dockerdot))
+- [apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile.
+- [Check if image tag exists in Container Registry (GitHub) (2022)](https://renehernandez.io/snippets/check-image-tag-container-registry/)

@@ -658,3 +658,4 @@
 - [Certified Kubernetes Administrator Preparation Guide](https://github.com/leandrocostam/cka-preparation-guide)
 - [Akcess](https://github.com/viveksinghggits/akcess) - Share fine-grained access to your Kubernetes cluster temporarily.
 - [Monokle](https://github.com/kubeshop/monokle) - Desktop UI for managing k8s manifests.
+- [Linkerd-failover](https://github.com/linkerd/linkerd-failover) - Linkerd Failover Operator.

@@ -122,6 +122,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [briefpg](https://github.com/danielbprice/briefpg) - Temporary PostgreSQL Instances for Unit Tests.
 - [go-carpet](https://github.com/msoap/go-carpet) - Show test coverage in terminal for Go source files.
 - [Lem](https://github.com/akutz/lem) - Go test framework for asserting expected escape analysis results & heap allocations.
+- [Verifiers](https://github.com/PxyUp/verifiers) - Small library for verify async function response.
 
 ## Web
 
@@ -1423,6 +1424,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [diff](https://github.com/kr/diff) - Print differences between two Go values.
 - [restruct](https://github.com/go-restruct/restruct) - Rich binary (de)serialization library for Go.
 - [hackpadfs](https://github.com/hack-pad/hackpadfs) - Extensible file system abstraction for Go. File systems, composable interfaces, and test suites.
+- [qsim](https://github.com/danslimmon/qsim) - Go package that lets you build queueing system simulators.
 
 ## Links
 
@@ -1492,3 +1494,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Log Analysis with netgo (2022)](https://convey.earth/conversation?id=51)
 - [godocdown](https://github.com/robertkrimen/godocdown) - Generates Go documentation in a GitHub-friendly Markdown format.
 - [Go streams (2022)](https://0x46.net/thoughts/2022/03/17/go-streams/) ([Reddit](https://www.reddit.com/r/golang/comments/tgn02j/go_streams_a_look_at_what_is_possible_with/))
+- [Go Web Dev Examples](https://github.com/GoesToEleven/golang-web-dev)
+- [Learn Go with Tests – Generics](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)

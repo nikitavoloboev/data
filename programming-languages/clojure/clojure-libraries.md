@@ -171,6 +171,7 @@
 - [Claypoole](https://github.com/clj-commons/claypoole) - Threadpool tools for Clojure.
 - [kibit](https://github.com/jonase/kibit) - Static code analyzer for Clojure, ClojureScript.
 - [Safely](https://github.com/BrunoBonacci/safely) - Clojure's circuit-breaker library for handling retries in an elegant declarative way.
+- [pp-grid](https://github.com/rorokimdim/pp-grid) - Clojure library to construct formatted text.
 
 ## Links
 
