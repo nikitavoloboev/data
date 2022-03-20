@@ -99,7 +99,7 @@
 - [Composing Studio](https://composing.studio/) - Collaborative music composition for everyone. ([Code](https://github.com/ekzhang/composing.studio))
 - [Aubio](https://github.com/aubio/aubio) - Tool designed for the extraction of annotations from audio signals. ([Web](https://aubio.org/)) ([HN](https://news.ycombinator.com/item?id=28582856))
 - [Maximilian](https://github.com/micknoise/Maximilian) - C++ Audio and Music DSP Library.
-- [Melrōse](https://github.com/emicklei/melrose) - Interactive programming of melodies, producing MIDI.
+- [Melrōse](https://github.com/emicklei/melrose) - Interactive programming of melodies, producing MIDI. ([Intro](http://ernestmicklei.com/melrose/introduction_melrose/))
 - [Jfxr](https://jfxr.frozenfractal.com/) - Browser-based tool to create sound effects for games. ([Code](https://github.com/ttencate/jfxr))
 - [Mutagen](https://github.com/quodlibet/mutagen) - Python module for handling audio metadata.
 - [Sonic Visualiser](https://sonicvisualiser.org/) - Visualization, analysis, and annotation of music audio recordings. ([Code](https://github.com/sonic-visualiser/sonic-visualiser))

@@ -385,7 +385,7 @@ all: unset
 - [What do I need to read to be a great at CSS? (2021)](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/) ([HN](https://news.ycombinator.com/item?id=28968137))
 - [The strangely difficult problem of drawing a box around text](https://blog.battlefy.com/the-strangely-difficult-problem-of-drawing-a-box-around-text-e6a70bdf6bb9) ([HN](https://news.ycombinator.com/item?id=28990145))
 - [Evaluating Clever CSS Solutions (2021)](https://css-irl.info/evaluating-clever-css-solutions/)
-- [GUI Challenges - YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
+- [GUI Challenges - YouTube](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ) ([Code](https://github.com/argyleink/gui-challenges))
 - [Squircle CSS Houdini](https://github.com/PavelLaptev/squircle-houdini-css) - Tiny CSS Houdini module that allows to add a squircle shape to HTML elements.
 - [CSS Destructured Course](https://cssdestructured.com/)
 - [Improving CSS Architecture with Cascade Layers, Container Queries, Scope, by Miriam Suzanne (2021)](https://www.youtube.com/watch?v=vK8vj1l_oRk)

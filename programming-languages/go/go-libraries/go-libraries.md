@@ -1496,3 +1496,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go streams (2022)](https://0x46.net/thoughts/2022/03/17/go-streams/) ([Reddit](https://www.reddit.com/r/golang/comments/tgn02j/go_streams_a_look_at_what_is_possible_with/))
 - [Go Web Dev Examples](https://github.com/GoesToEleven/golang-web-dev)
 - [Learn Go with Tests – Generics](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)
+- [Awesome Go Repositories Twitter](https://twitter.com/GolangRepos)

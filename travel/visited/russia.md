@@ -518,3 +518,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russian information channels have significant reach across Asia and Africa](https://twitter.com/carljackmiller/status/1504896238826700800)
 - [Семь лесов в России, где можно поорать](https://www.aviasales.ru/psgr/article/the-crying-forest)
 - [Sanctions are not hurting Putin](https://twitter.com/ClintEhrlich/status/1500996394659696640)
+- [Why Russia can't win against the West (2022)](https://twitter.com/kamilkazani/status/1505247886908424195)

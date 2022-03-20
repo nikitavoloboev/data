@@ -143,3 +143,4 @@ Learning to build [startups](startups/startups.md).
 - [AdminLeo: OnlyFans Owner's Dubious Financial History (2022)](https://forensicnews.net/adminleo-onlyfans-owners-dubious-financial-history/) ([Tweet](https://twitter.com/ScottMStedman/status/1501678771119616000))
 - [Businesses you know of that are owned 100% by 1 person](https://twitter.com/thesamparr/status/1503391837083557893)
 - [A new kind of equity program (2022)](https://www.getcruise.com/news/a-new-kind-of-equity-program) ([HN](https://news.ycombinator.com/item?id=30727278))
+- [Accounting for SaaS and swords (2022)](https://bam.kalzumeus.com/archive/accounting-for-saas-and-swords/)

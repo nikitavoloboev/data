@@ -104,6 +104,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
 - [Rollbar](https://rollbar.com/) - Error Tracking Software.
+- [Noor](https://usenoor.com/) - Talk, share, work together. ([Twitter](https://twitter.com/use_noor))
 - [Miro](https://miro.com/) - Where distributed teams get work done.
 - [Slate](https://slate.host/) - Open source Filecoin client for data that makes it easy to collect, organize, and share data anywhere. ([Code](https://github.com/filecoin-project/slate))
 - [Graphreader](http://www.graphreader.com/) - Online tool for reading graph image values and save as CSV / JSON.

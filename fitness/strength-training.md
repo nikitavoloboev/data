@@ -23,3 +23,4 @@
 - [What are the primary reasons why someone would choose to focus on bodyweight fitness over weight training? (2021)](https://www.reddit.com/r/bodyweightfitness/comments/pufe0y/what_are_the_primary_reasons_why_someone_would/)
 - [Bodyweight Fitness Beginner Tips (2021)](https://www.reddit.com/r/bodyweightfitness/comments/qbev9a/any_tips_for_an_absolute_like_total_beginner/)
 - [The Zen of Weight Lifting](https://www.nytimes.com/2019/11/22/well/move/the-zen-of-weight-lifting.html) ([HN](https://news.ycombinator.com/item?id=29065846))
+- [Arena](https://goarena.co/) - Train Smarter, Anywhere.

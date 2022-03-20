@@ -331,3 +331,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Ask HN: What is the most economic and scalable way to host videos in 2022?](https://news.ycombinator.com/item?id=30652075)
 - [Color Video to Text Conversion](https://github.com/TheScienceElf/Video-to-Text)
 - [dav1d](https://code.videolan.org/videolan/dav1d) - Fastest AV1 decoder on all platforms. ([HN](https://news.ycombinator.com/item?id=30722853))
+- [YouTube video production tips (2022)](https://twitter.com/simonw/status/1505237327353827329)

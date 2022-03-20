@@ -457,6 +457,7 @@
 - [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) - Rust Language Bindings for the libseccomp Library.
 - [libsystemd](https://github.com/lucab/libsystemd-rs) - Pure-Rust client library to work with systemd.
 - [vHost](https://github.com/rust-vmm/vhost) - Pure rust library for vDPA, vhost and vhost-user.
+- [caps](https://github.com/lucab/caps-rs) - Pure-Rust library to work with Linux capabilities.
 
 ## Embedded
 

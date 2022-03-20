@@ -181,7 +181,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum Isn't Fun Anymore (2021)](https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/) ([HN](https://news.ycombinator.com/item?id=26222709))
 - [Hyperledger Burrow](https://github.com/hyperledger/burrow) - Permissioned Ethereum smart-contract blockchain node. ([Docs](https://hyperledger.github.io/burrow/#/))
 - [Scaling Ethereum One Tx At A Time](https://rugpullindex.com/blog#ScalingEthereumOneTxAtATime)
-- [TypeChain](https://github.com/ethereum-ts/TypeChain) - TypeScript bindings for Ethereum smart contracts.
+- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 - [scaffold-eth](https://github.com/austintgriffith/scaffold-eth) - Forkable Ethereum dev stack focused on fast product iterations.
 - [VSCode Solidity](https://github.com/juanfranblanco/vscode-solidity) - VSCode language support extension for Solidity smart contracts in Ethereum.
 - [Web3.py](https://github.com/ethereum/web3.py) - Python library for interacting with Ethereum.
