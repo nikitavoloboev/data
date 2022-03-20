@@ -1425,6 +1425,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [restruct](https://github.com/go-restruct/restruct) - Rich binary (de)serialization library for Go.
 - [hackpadfs](https://github.com/hack-pad/hackpadfs) - Extensible file system abstraction for Go. File systems, composable interfaces, and test suites.
 - [qsim](https://github.com/danslimmon/qsim) - Go package that lets you build queueing system simulators.
+- [art](https://github.com/arriqaaq/art) - Adaptive Radix Tree (ART) implementation in Go.
 
 ## Links
 
