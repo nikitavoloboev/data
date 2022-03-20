@@ -541,3 +541,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Foundry Starter Kit](https://github.com/smartcontractkit/foundry-starter-kit) - Shows developers how to quickly build, test, and deploy smart contracts with one of the fastest frameworks out there, foundry.
 - [BokkyPooBah's DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - Gas-efficient Solidity date and time library.
 - [Multisol](https://github.com/paulrberg/multisol) - CLI application for verifying Solidity contracts on Etherscan.
+- [Foundry template](https://github.com/ZeframLou/foundry-template) - Minimalist template for foundry projects.

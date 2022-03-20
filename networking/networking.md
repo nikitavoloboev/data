@@ -20,6 +20,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Python implementation of the IPv8 layer](https://github.com/Tribler/py-ipv8)
 - [Mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy. ([Code](https://github.com/mitmproxy/mitmproxy)) ([HN](https://news.ycombinator.com/item?id=24959897))
 - [Mitmproxy 7.0 (2021)](https://mitmproxy.org/posts/releases/mitmproxy7/) ([HN](https://news.ycombinator.com/item?id=27855476))
+- [Mitmproxy 8 (2022)](https://mitmproxy.org/posts/releases/mitmproxy8/) ([HN](https://news.ycombinator.com/item?id=30742699))
 - [CFSSL](https://github.com/cloudflare/cfssl) - CloudFlare's PKI/TLS swiss army knife.
 - [Every Linux networking tool I know](https://wizardzines.com/networking-tools-poster/)
 - [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455)) [HN 2](https://news.ycombinator.com/item?id=20410552)
@@ -431,3 +432,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [sniffer](https://github.com/chenjiandongx/sniffer) - Modern alternative network traffic sniffer.
 - [Netproc](https://github.com/berghetti/netproc) - Tool to monitor network traffic based on processes.
 - [A Primer on Proxies (2022)](https://blog.cloudflare.com/a-primer-on-proxies/)
+- [Nice computer networking courses (2022)](https://twitter.com/b0rk/status/1505597582227165194)

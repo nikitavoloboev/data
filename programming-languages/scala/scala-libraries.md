@@ -155,6 +155,7 @@
 - [mini-refined](https://github.com/note/mini-refined) - Simple encoding of refinement types in Scala 3.
 - [Difflicious](https://github.com/jatcwang/difflicious) - Scala library for readable diffs of values.
 - [zio-json](https://github.com/zio/zio-json) - Fast, secure JSON library with tight ZIO integration.
+- [Ficus](https://github.com/iheartradio/ficus) - Lightweight companion to Typesafe config that makes it more Scala-friendly.
 
 ## Links
 

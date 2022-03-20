@@ -84,3 +84,4 @@ And here are Chrome extensions I use:
 - [CEF Python](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF).
 - [Puppeteer Cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Create a cluster of puppeteer workers.
 - [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli) - CLI for your next Chrome Extension.
+- [Unclutter Browser Extension](https://github.com/lindylearn/unclutter) - Browser extension to simplify web pages and hide distracting things like hide cookie banners, auto-playing videos, sidebars, etc.

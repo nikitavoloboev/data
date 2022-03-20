@@ -76,3 +76,4 @@
 - [Bulletproof TLS and PKI (2022)](https://www.feistyduck.com/books/bulletproof-tls-and-pki/) - Understanding and deploying SSL/TLS and PKI to secure servers and web applications.
 - [tls-scan](https://github.com/prbinu/tls-scan) - Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven ).
 - [tincan-tls](https://github.com/syncsynchalt/tincan-tls) - Clean room implementation of TLS 1.3.
+- [tls-listener](https://github.com/tmccombs/tls-listener) - Rust wrapper around a connection listener to support TLS.

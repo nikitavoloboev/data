@@ -37,3 +37,4 @@
 - [QUIC interop runner](https://github.com/marten-seemann/quic-interop-runner)
 - [s2n-quic](https://github.com/aws/s2n-quic) - Rust implementation of the IETF QUIC protocol.
 - [Awesome QUIC](https://github.com/xileteam/awesome-quic)
+- [Unlocking QUIC’s proxying potential with MASQUE (2022)](https://blog.cloudflare.com/unlocking-quic-proxying-potential/) ([HN](https://news.ycombinator.com/item?id=30744739))

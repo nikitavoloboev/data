@@ -435,6 +435,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Margaret](https://github.com/cryptoscope/margaret) - Flume-like persisted append-only log implementation.
 - [RedisAI Go Client](https://github.com/RedisAI/redisai-go)
 - [GocqlX](https://github.com/scylladb/gocqlx) - All-In-One: CQL query builder, ORM and migration tool.
+- [Memory Cache](https://github.com/rodrigo-brito/memory-cache) - Zero-dependency cache library for storing data in memory with generics.
 
 ## ML
 

@@ -26,6 +26,9 @@
 - [navi](https://github.com/lispyclouds/navi) - Tiny library converting OpenAPI route definitions to Reitit routes.
 - [Nasus HTTP Server](https://github.com/kachayev/nasus) - Simple zero-configuration command-line HTTP files server.
 - [Girouette](https://github.com/green-coder/girouette) - Grammar-based, generative approach to CSS.
+- [zakon](https://github.com/fmnoise/zakon) - Declarative Clojure authorization.
+- [Hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure.
+- [Sablono](https://github.com/r0man/sablono) - Lisp/Hiccup style templating for Facebook’s React in ClojureScript.
 
 ## DB
 
@@ -70,6 +73,10 @@
 - [Clojure2D](https://github.com/Clojure2D/clojure2d) - Library supporting generative coding or glitching. ([Examples](https://github.com/Clojure2D/clojure2d-examples))
 - [Quil](https://github.com/quil/quil) - Clojure/ClojureScript library for creating interactive drawings and animations. ([Web](http://quil.info/))
 - [HumbleUI](https://github.com/HumbleUI/HumbleUI) - Clojure Desktop UI framework. ([Wordle in Clojure with Humble UI](https://www.youtube.com/watch?v=qSswvHrVnvo))
+
+## Error
+
+- [flow](https://github.com/fmnoise/flow) - Functional (and opinionated) errors handling in Clojure.
 
 ## Other
 

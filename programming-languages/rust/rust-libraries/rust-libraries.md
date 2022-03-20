@@ -583,6 +583,7 @@
 - [rustic-c](https://github.com/ry00001/rustic-c) - Macro to write C inside Rust.
 - [bytecoding](https://github.com/nn1ks/bytecoding) - Derive macro for encoding and decoding instructions and operands as bytecode.
 - [Venial](https://github.com/PoignardAzur/venial) - Lightweight parsing for Rust proc macros.
+- [duplicate](https://github.com/Emoun/duplicate) - Macros for code duplication with substitution.
 
 ## Math
 

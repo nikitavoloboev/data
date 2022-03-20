@@ -842,6 +842,8 @@
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Provides FFmpeg builds ported to JavaScript using Emscripten project.
 - [Jison](https://github.com/zaach/jison) - API for creating parsers in JavaScript.
 - [primitive-geometry](https://github.com/dmnsgn/primitive-geometry) - Geometries for 3D rendering, including normals, UVs and cell indices (faces).
+- [many-level](https://github.com/Level/many-level) - Share an abstract-level database over the network or other kind of stream.
+- [local-storage-proxy](https://github.com/bcomnes/local-storage-proxy) - Work with window.localStorage as if it were an object.
 
 ## Links
 

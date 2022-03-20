@@ -6,6 +6,7 @@
 - [Vercel Deployments](https://www.raycast.com/matt/vercast) - Quickly open and check the status of your Vercel deployments. ([Code](https://github.com/gleich/vercast)
 - [GitHub](https://github.com/jclem/raycast-github)
 - [Personal Notion Raycast Extension](https://github.com/jclem/raycast-notion)
+- [1Password extension for Raycast](https://github.com/dteare/raycast-1password-extension)
 
 ## Notes
 

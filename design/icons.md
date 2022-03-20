@@ -118,3 +118,4 @@
 - [Avvvatars](https://avvvatars.com/) - Open Source React UI Avatar Library. ([Code](https://github.com/nusu/avvvatars))
 - [Biome icon design process](https://twitter.com/matthewskiles/status/1504173530237517825)
 - [SwiftUI App Icon Generator App for iOS & macOS Catalyst](https://github.com/alfianlosari/AppIconGenerator)
+- [Icons in Pure CSS (2021)](https://antfu.me/posts/icons-in-pure-css)

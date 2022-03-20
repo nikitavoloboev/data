@@ -1017,6 +1017,7 @@
 - [EventSource](https://github.com/inaka/EventSource) - Simple Swift client library for the Server Sent Events (SSE).
 - [MusadoraKit](https://github.com/rryam/MusadoraKit) - Framework to easily access Apple's latest MusicKit and Apple Music API with async-await syntax.
 - [FlexLayout](https://github.com/layoutBox/FlexLayout) - Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
+- [CoreTextSwift](https://github.com/krzyzanowskim/CoreTextSwift) - Swifty CoreText API.
 
 ## Other (not lib)
 
@@ -1070,3 +1071,4 @@
 - [Equatable Errors in Swift (2021)](https://twittemb.github.io/posts/2021-12-10-EquatableError/)
 - [A DSL for state machines in Swift (2021)](https://twittemb.github.io/posts/2021-02-13-StateMachineDSL/)
 - [OSLog and Unified logging as recommended by Apple (2020)](https://www.avanderlee.com/debugging/oslog-unified-logging/)
+- [Exploring MusicKit (2022)](https://rudrank.gumroad.com/l/musickit/early)

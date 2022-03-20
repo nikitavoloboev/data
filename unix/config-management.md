@@ -53,3 +53,4 @@
 - [env-cmd](https://github.com/toddbluhm/env-cmd) - Setting environment variables from a file.
 - [Ask HN: How do you share your personal setup over different computers? (2022)](https://news.ycombinator.com/item?id=30723738)
 - [TOML](https://toml.io/en/) - Tom's Obvious Minimal Language. ([Lobsters](https://lobste.rs/s/mkcjiz/toml_tom_s_obvious_minimal_language))
+- [hcl2json](https://github.com/tmccombs/hcl2json) - Convert from HCL to JSON.

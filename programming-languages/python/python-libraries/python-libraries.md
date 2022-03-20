@@ -759,6 +759,7 @@
 - [Tomli](https://github.com/hukkin/tomli) - TOML parser.
 - [skimpy](https://github.com/aeturrell/skimpy) - Light weight tool for creating summary statistics from dataframes.
 - [NoPdb](https://github.com/cifkao/nopdb) - Non-interactive Python Debugger.
+- [Panel](https://github.com/holoviz/panel) - High-level app and dashboarding solution for Python.
 
 ## Links
 
@@ -855,3 +856,4 @@
 - [pycrunch-trace](https://github.com/gleb-sevruk/pycrunch-trace) - Time Travel Debugging for Python.
 - [GenPy](https://github.com/inducer/genpy) - AST for Python code generation, in Python.
 - [Python finally offloads some batteries (2022)](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/) ([HN](https://news.ycombinator.com/item?id=30716844))
+- [MicroPython Samples](https://github.com/peterhinch/micropython-samples)
