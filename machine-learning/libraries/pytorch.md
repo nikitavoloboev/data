@@ -355,3 +355,4 @@
 - [Multi-Task Learning in PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
 - [PyTorch C++ Samples](https://github.com/koba-jon/pytorch_cpp) - Deep Learning sample programs of PyTorch written in C++.
 - [SparseLinear](https://github.com/hyeon95y/SparseLinear) - PyTorch package that allows a user to create extremely wide and sparse linear layers efficiently.
+- [Complete Guide of Swin Transformer with Full PyTorch Implementation (2022)](https://jasonlee-cp.github.io/paper/Swin_Transformer/)

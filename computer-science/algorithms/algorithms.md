@@ -105,6 +105,7 @@
 - [Damn Cool Algorithms: Levenshtein Automata (2010)](http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata) ([HN](https://news.ycombinator.com/item?id=30566119))
 - [Binary search with confidence](https://blog.tylerhou.io/posts/binary-search-with-confidence/) ([HN](https://news.ycombinator.com/item?id=30582168))
 - [Algorithm Wiki | Interactive algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/)
+- [Advanced Algorithms (CS 224) (2022)](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 
 ## Images
 

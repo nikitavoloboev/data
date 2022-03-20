@@ -196,7 +196,7 @@
 - [The find-and-replace Odyssey, a programmer's guide (2020)](https://about.sourcegraph.com/blog/a-programmers-guide-to-find-and-replace)
 - [Migrations: the sole scalable fix to tech debt (2018)](https://lethain.com/migrations/)
 - [Lobsters: What non-electron cross-platform GUI toolkit do you enjoy using? (2020)](https://lobste.rs/s/d2wsne/what_non_electron_cross_platform_gui)
-- [What Color is Your Function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) ([HN](https://news.ycombinator.com/item?id=16732948))
+- [What Color is Your Function? (2015)](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) ([HN](https://news.ycombinator.com/item?id=16732948)) ([Tweet](https://twitter.com/tannerlinsley/status/1505326955284996101))
 - [So, what does it mean to be a senior developer? (2020)](https://djquery.dev/what-does-it-mean-to-be-a-senior-developer)
 - [The Wet Codebase by Dan Abramov (2019)](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
 - [Ask HN: Why isn’t visual programming a bigger thing? (2020)](https://news.ycombinator.com/item?id=23252448)

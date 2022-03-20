@@ -65,3 +65,4 @@
 - [Pilot](https://github.com/hundredrabbits/Pilot) - UDP synthesizer designed to be controlled externally. Created as a companion application to the livecoding environment ORCA.
 - [Ensembles](https://github.com/SubhadeepJasu/Ensembles) - Digital arranger workstation powered by FluidSynth.
 - [Roland 50 Studio](https://roland50.studio/) ([HN](https://news.ycombinator.com/item?id=30638634))
+- [Typebeat](https://typebeat.kofi.sexy/) - Keyboard-controlled music sequencer, sampler, and synth. ([Code](https://github.com/kofigumbs/typebeat))
