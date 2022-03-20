@@ -33,3 +33,4 @@ I do want to start more focused mindfulness and trying to practice _channeling_ 
 - [Lost in Thought: Psychological Risks of Meditation (2021)](https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/) ([HN](https://news.ycombinator.com/item?id=26485608))
 - [Did Alan Watts meditate? (2021)](https://www.reddit.com/r/AlanWatts/comments/m9w8wy/did_alan_watts_meditate/)
 - [Not everyone should meditate](https://www.joshcsimmons.com/posts/no-not-everyone-should-meditate) ([HN](https://news.ycombinator.com/item?id=30532386))
+- [Slow Roads](http://slowroads.io/) - Browser-based, procedurally-generated driving game.

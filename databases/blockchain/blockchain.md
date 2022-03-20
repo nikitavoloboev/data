@@ -354,3 +354,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [The Complete Guide to Getting Started With The Graph (2022)](https://camiinthisthang.hashnode.dev/the-complete-guide-to-getting-started-with-the-graph) ([Tweet](https://twitter.com/camiinthisthang/status/1498704539297353731))
 - [Public Good Blockchain Development Guide](https://github.com/dcbuild3r/blockchain-development-guide)
 - [Looks Roar](https://github.com/3lpsy/looks-roar) - Project for working with NFTs and NFT markets.
+- [Ask HN: Has anyone come up with a use for blockchain yet? (2022)](https://news.ycombinator.com/item?id=30741841)

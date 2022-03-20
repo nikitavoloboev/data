@@ -184,3 +184,4 @@
 - [EditGAN: High-Precision Semantic Image Editing (2021)](https://nv-tlabs.github.io/editGAN/) ([Code](https://github.com/nv-tlabs/editGAN_release))
 - [Third Time's the Charm? Image and Video Editing with StyleGAN3 (2022)](https://arxiv.org/abs/2201.13433) ([Code](https://github.com/yuval-alaluf/stylegan3-editing))
 - [Fast AdvProp (2022)](https://openreview.net/forum?id=hcoswsDHNAW) ([Code](https://github.com/meijieru/fast_advprop))
+- [Lifespan Age Transformation Synthesis (2020)](https://arxiv.org/abs/2003.09764) ([Code](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis))
