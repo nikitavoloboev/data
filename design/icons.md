@@ -117,3 +117,4 @@
 - [Streamline Icons](https://app.streamlinehq.com/icons) - Vector icons sets. ([HN](https://news.ycombinator.com/item?id=30356944))
 - [Avvvatars](https://avvvatars.com/) - Open Source React UI Avatar Library. ([Code](https://github.com/nusu/avvvatars))
 - [Biome icon design process](https://twitter.com/matthewskiles/status/1504173530237517825)
+- [SwiftUI App Icon Generator App for iOS & macOS Catalyst](https://github.com/alfianlosari/AppIconGenerator)

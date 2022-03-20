@@ -139,6 +139,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [logger](https://github.com/gin-contrib/logger) - Gin middleware/handler to logger url path using rs/zerolog.
 - [RequestID](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework.
 - [ginpprof](https://github.com/DeanThompson/ginpprof) - Wrapper for golang web framework gin to use net/http/pprof easily.
+- [Fizz](https://github.com/wI2L/fizz) - Gin wrapper with OpenAPI 3 spec generation.
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.

@@ -192,3 +192,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Upload](https://github.com/Nekmo/telegram-upload) - Upload and download files from Telegram up to 2GiB using your account.
 - [Teamgram](https://github.com/teamgram/teamgram-server) - Open source mtproto server written in Go with compatible telegram client.
 - [NebulaChat](https://nebula.chat/) - Self hosted mtproto messenger.
+- [Telegram and the future of Russian Internet freedom (2022)](https://meduza.io/en/episodes/2022/03/20/telegram-and-the-future-of-russian-internet-freedom)

@@ -50,3 +50,5 @@
 - [Why Europe is addicted to Russian Gas (2022)](https://www.youtube.com/watch?v=bpjR_77HPnQ)
 - [What is your favorite European island that you have visited?](https://www.reddit.com/r/AskEurope/comments/tcbcpq/what_is_your_favourite_european_island_that_you/)
 - [European Network of Transmission System Operators for Gas](https://transparency.entsog.eu/#/map) ([Code](https://github.com/berthubert/gazproject))
+- [How did Europe become the richest part of the world?](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world) ([HN](https://news.ycombinator.com/item?id=30742048))
+- [Russia's invasion of Ukraine accelerates Europe's energy transition (2022)](https://twitter.com/ntsafos/status/1505248550975938560)
