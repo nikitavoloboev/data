@@ -29,3 +29,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Who's your favorite director? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/sn0ecs/whos_your_favorite_director/)
 - [Quentin Tarantino on How He Directs Actors on Set (2022)](https://www.youtube.com/watch?v=dfllQYnrCVs)
 - [Francis Ford Coppola’s $100M Dollar Bet (2022)](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather) ([HN](https://news.ycombinator.com/item?id=30394720))
+- [What movie-director combination do you think would have been interesting to see? (2022)](https://www.reddit.com/r/Letterboxd/comments/ti6g3i/what_moviedirector_combination_do_you_think_would/)

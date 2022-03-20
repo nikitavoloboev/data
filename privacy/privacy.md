@@ -121,3 +121,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Privacy Guides](https://privacyguides.org/) - Protect your data against global mass surveillance programs. ([Code](https://github.com/privacyguides/privacyguides.org))
 - [Google AI Blog: Federated Learning with Formal Differential Privacy Guarantees (2022)](https://ai.googleblog.com/2022/02/federated-learning-with-formal.html)
 - [Sarus](https://www.sarus.tech/) - Privacy-preserving data access for analytics/AI. ([HN](https://news.ycombinator.com/item?id=30698215))
+- [Farside](https://github.com/benbusby/farside) - Redirecting service for FOSS alternative frontends.

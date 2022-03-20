@@ -219,3 +219,5 @@
 - [4 Ways to Create a Mesh for a Sphere](https://github.com/caosdoar/spheres)
 - [Exposure Fusion – local tonemapping for real-time rendering (2022)](https://bartwronski.com/2022/02/28/exposure-fusion-local-tonemapping-for-real-time-rendering/)
 - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)](http://nothings.org/gamedev/ssao/)
+- [Computer Graphics : Spring 2022](http://15462.courses.cs.cmu.edu/spring2022/)
+- [Scotty3D](https://github.com/CMU-Graphics/Scotty3D) - 3D graphics software package includes components for interactive mesh editing, realistic path tracing, and dynamic animation.

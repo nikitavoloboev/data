@@ -94,6 +94,7 @@
 - [Calendar Plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [Auto Note Mover](https://github.com/farux/obsidian-auto-note-mover) - Automatically move the active notes to their respective folders according to the rules.
 - [Obsidian Readwise](https://github.com/renehernandez/obsidian-readwise) - Synchronize Readwise highlights into your Obsidian Vault.
+- [Obsidian Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
 
 ## Themes
 

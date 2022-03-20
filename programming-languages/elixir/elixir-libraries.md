@@ -53,6 +53,7 @@
 - [PropCheck](https://github.com/alfert/propcheck) - Property based testing for Elixir.
 - [Mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
 - [ExMachina](https://github.com/thoughtbot/ex_machina) - Create test data for Elixir applications.
+- [Patch](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
 
 ## ML
 

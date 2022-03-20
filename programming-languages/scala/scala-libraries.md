@@ -153,6 +153,7 @@
 - [futil](https://github.com/alexklibisz/futil) - Minimal utilities for Scala Futures.
 - [Scala Isabelle](https://github.com/dominique-unruh/scala-isabelle) - Scala library for controlling/interacting with Isabelle.
 - [mini-refined](https://github.com/note/mini-refined) - Simple encoding of refinement types in Scala 3.
+- [Difflicious](https://github.com/jatcwang/difflicious) - Scala library for readable diffs of values.
 
 ## Links
 
@@ -171,3 +172,5 @@
 - [Finding Scala Libraries (2022)](https://www.scala-lang.org/blog/2022/03/08/finding-awesome-libraries.html)
 - [Unused Code](https://github.com/xuwei-k/unused-code) - Find and warn, remove unused public classes, methods by scalafix SyntacticRule.
 - [Modeling & Building PayRoll Engine Using Functional Effects System With ZIO Asynchronous, Concurrent, ZIO Scala FP Library. (2022)](https://www.linkedin.com/pulse/modeling-building-payroll-engine-using-functional-effects-otun/)
+- [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
+- [Binary Compatibility Code Examples & Explanation](https://github.com/jatcwang/binary-compatibility-guide) - Guide + Examples to help you better maintain binary compatibility for your Scala library releases.

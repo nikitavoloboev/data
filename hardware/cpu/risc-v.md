@@ -152,3 +152,4 @@
 - [SRV32](https://github.com/kuopinghsu/srv32) - Simple 3-stage pipeline RISC-V processor.
 - [ZFS on a single core RISC-V hardware with 512MB (2022)](https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/) ([HN](https://news.ycombinator.com/item?id=30663400))
 - [RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)
+- [RISC-V Architecture Test SIG](https://github.com/riscv-non-isa/riscv-arch-test)

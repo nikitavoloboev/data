@@ -83,3 +83,4 @@ And here are Chrome extensions I use:
 - [gowitness](https://github.com/sensepost/gowitness) - Go, web screenshot utility using Chrome Headless.
 - [CEF Python](https://github.com/cztomczak/cefpython) - Python bindings for the Chromium Embedded Framework (CEF).
 - [Puppeteer Cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Create a cluster of puppeteer workers.
+- [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli) - CLI for your next Chrome Extension.

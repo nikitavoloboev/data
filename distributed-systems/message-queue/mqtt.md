@@ -30,3 +30,4 @@
 - [CocoaMQTT](https://github.com/emqx/CocoaMQTT) - MQTT 5.0 Client Library for iOS and macOS written in Swift.
 - [Eclipse Paho MQTT Python Client](https://github.com/eclipse/paho.mqtt.python)
 - [Cotonic](https://github.com/cotonic/cotonic) - Provides tools to make it possible for these components to cooperate by providing an MQTT publish/subscribe bus.
+- [Free and High Performance MQTT Broker](https://github.com/fhmq/hmq)

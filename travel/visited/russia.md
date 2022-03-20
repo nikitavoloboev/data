@@ -519,3 +519,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Семь лесов в России, где можно поорать](https://www.aviasales.ru/psgr/article/the-crying-forest)
 - [Sanctions are not hurting Putin](https://twitter.com/ClintEhrlich/status/1500996394659696640)
 - [Why Russia can't win against the West (2022)](https://twitter.com/kamilkazani/status/1505247886908424195)
+- [Как власти готовили российских школьников к войне (2022)](https://www.agents.media/uchebniki-istorii-propaganda/) ([Tweet](https://twitter.com/userpig/status/1505397524793892868))

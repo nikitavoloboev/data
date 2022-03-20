@@ -32,3 +32,4 @@
 - [Glow](https://github.com/go-gl/glow) - Go binding generator for OpenGL.
 - [NixGL](https://github.com/guibou/nixGL) - Wrapper tool for nix OpenGL application.
 - [TinyGL-RS](https://github.com/RoastVeg/tinygl-rs) - Bindings to TinyGL, a Small, Free and Fast Subset of OpenGL.
+- [GLyphy](https://github.com/behdad/glyphy) - Signed-distance-field (SDF) text renderer using OpenGL ES2 shading language.

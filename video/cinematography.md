@@ -39,3 +39,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Why are Films Shot in Two Colors?](https://www.youtube.com/watch?v=YCJXS4hvOsU)
 - [How to find the best camera angles](https://www.youtube.com/watch?v=hovbpWHJgTQ)
 - [Most movies look the same. Here’s why (2022)](https://www.youtube.com/watch?v=7I11sKqkCfA)
+- [Why Dune's Editing Feels Different (2022)](https://www.youtube.com/watch?v=7_z-BwZeuQs)

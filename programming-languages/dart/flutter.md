@@ -87,3 +87,4 @@
 - [ObjectBox Dart](https://github.com/objectbox/objectbox-dart) - Flutter database for fast Dart object persistence.
 - [Flutter is better than React Native in all the ways that don’t matter (2022)](https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768) ([HN](https://news.ycombinator.com/item?id=30699664))
 - [InheritedWidgets, but simple](https://github.com/rrousselGit/provider)
+- [Dartea](https://github.com/p69/dartea) - Elm Architecture (TEA) for Flutter.

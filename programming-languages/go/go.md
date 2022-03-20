@@ -737,3 +737,4 @@ if err != nil {
 - [Write once, store anywhere: Extensible file systems for Go (2022)](https://blog.johnstarich.com/write-once-store-anywhere-extensible-file-systems-for-go-65c7c0949e74) ([HN](https://news.ycombinator.com/item?id=30728348))
 - [GoReSym](https://github.com/mandiant/GoReSym) - Go symbol parser that extracts program metadata.
 - [Паттерны проектирования с примерами на Go](https://github.com/AlexanderGrom/go-patterns)
+- [Behind the Scenes of Go Scheduler (2022)](https://dev.to/sourikghosh/behind-the-scenes-of-go-scheduler-1hdi)

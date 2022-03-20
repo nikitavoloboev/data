@@ -237,6 +237,7 @@
 - [xql](https://github.com/arch-mage/xql) - SQL query builder for sqlx.
 - [Oxide Crucible](https://github.com/oxidecomputer/crucible) - Prototype storage service.
 - [rbatis](https://github.com/rbatis/rbatis) - Highly Performant,Safe,Dynamic SQL (Compile time) ORM framework written in Rust.
+- [memo-map](https://github.com/mitsuhiko/memo-map) - Concurrent insert only hash map.
 
 ## Video
 
@@ -1595,6 +1596,7 @@
 - [bigjson](https://github.com/sunli829/bigjson)
 - [GJSON](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust.
 - [coap-rs](https://github.com/Covertness/coap-rs) - Constrained Application Protocol(CoAP) library implemented in Rust.
+- [prae](https://github.com/teenjuna/prae) - Better way to define types that require validation.
 
 ## Cargo Plugins
 

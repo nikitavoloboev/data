@@ -318,3 +318,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Flake For Non-Nix Projects (2022)](https://duan.ca/2022/03/19/nix-dirnev/)
 - [Shrinkwrap](https://github.com/fzakaria/shrinkwrap) - Tool that embosses the needed dependencies on the top level executable.
 - [nix-dram](https://github.com/dramforever/nix-dram) - Nix Flakes with a modified frontend.
+- [nixos-shell](https://github.com/chrisfarms/nixos-shell) - Tool for reproducable development environments described as NixOS modules.

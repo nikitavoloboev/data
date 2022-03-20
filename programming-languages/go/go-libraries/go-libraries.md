@@ -1426,6 +1426,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [hackpadfs](https://github.com/hack-pad/hackpadfs) - Extensible file system abstraction for Go. File systems, composable interfaces, and test suites.
 - [qsim](https://github.com/danslimmon/qsim) - Go package that lets you build queueing system simulators.
 - [art](https://github.com/arriqaaq/art) - Adaptive Radix Tree (ART) implementation in Go.
+- [firebolt](https://github.com/digitalocean/firebolt) - Go framework for streaming ETL, observability data pipeline, and event processing apps.
 
 ## Links
 

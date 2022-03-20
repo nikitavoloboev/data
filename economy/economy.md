@@ -144,3 +144,4 @@
 - [How entire generation learned about money, game theory from Runescape](https://twitter.com/wizofecom/status/1503722998011940869)
 - [How Asset Managers Have Upended How Modern Capitalism Works (2022)](https://nymag.com/intelligencer/2022/03/how-asset-managers-have-upended-how-modern-capitalism-works.html)
 - [Modern Monetary Theory, explained (2019)](https://www.vox.com/future-perfect/2019/4/16/18251646/modern-monetary-theory-new-moment-explained)
+- [Any book or essay recommendations that talk about alternatives to our current economy or society? (2022)](https://www.reddit.com/r/simpleliving/comments/ti2nz0/any_book_or_essay_recommendations_that_talk_about/)

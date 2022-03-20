@@ -757,6 +757,8 @@
 - [UltraDict](https://github.com/ronny-rentner/UltraDict) - Sychronized, streaming Python dictionary that uses shared memory as a backend.
 - [Lasier](https://github.com/luizalabs/lasier) - Sync/async circuit breaker implementation in Python.
 - [Tomli](https://github.com/hukkin/tomli) - TOML parser.
+- [skimpy](https://github.com/aeturrell/skimpy) - Light weight tool for creating summary statistics from dataframes.
+- [NoPdb](https://github.com/cifkao/nopdb) - Non-interactive Python Debugger.
 
 ## Links
 

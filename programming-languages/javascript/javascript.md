@@ -415,3 +415,4 @@ if (
 - [Partial Application Syntax for ECMAScript](https://github.com/tc39/proposal-partial-application)
 - [The Elephant in The Event Loop (2022)](https://gashamola.com/2022/03/16/the-elephant-in-the-event-loop.html)
 - [Moon](https://github.com/milesj/moon) - Rust program for managing JavaScript based monorepo's.
+- [Temporal API](https://github.com/tc39/proposal-temporal) - Standard objects and functions for working with dates and times.
