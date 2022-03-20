@@ -60,3 +60,4 @@
 - [python-kasa](https://github.com/python-kasa/python-kasa) - Python library to control TPLink smart home devices (plugs, wall switches, power strips, and bulbs) using asyncio.
 - [OpenHAB](https://www.openhab.org/) - Vendor and tech agnostic open source automation software for your home. ([HN](https://news.ycombinator.com/item?id=30667846))
 - [Smart Home components (2022)](https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/)
+- [Remote Home-Assistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together.

@@ -6,6 +6,7 @@
 
 - [Remix Blues Stack](https://github.com/remix-run/blues-stack) - Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
 - [Remix Indie Stack](https://github.com/remix-run/indie-stack) - Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
+- [Remix Grunge Stack](https://github.com/remix-run/grunge-stack) - Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.
 - [Remix Template](https://github.com/QuentinWidlocher/remix-template) - Batteries included Remix template with Tailwind, Prisma and powerful form utils.
 - [Remix Starter](https://github.com/AnandChowdhary/remix-starter) - Remix starter with intuitive defaults, like support for internationalization and localized URLs.
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
