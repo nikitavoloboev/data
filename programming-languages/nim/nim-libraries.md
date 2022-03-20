@@ -48,6 +48,7 @@
 - [Taskpools](https://github.com/status-im/nim-taskpools) - Lightweight, energy-efficient, easily auditable threadpool.
 - [Weave](https://github.com/mratsim/weave) - State-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead.
 - [iterrr](https://github.com/hamidb80/iterrr) - Functional-style, lazy-like, extensible iterator library.
+- [NICO](https://github.com/ftsf/nico) - Game Framework in Nim inspired by Pico-8.
 
 ## Links
 

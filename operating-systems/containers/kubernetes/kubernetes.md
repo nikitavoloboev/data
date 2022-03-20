@@ -659,3 +659,4 @@
 - [Akcess](https://github.com/viveksinghggits/akcess) - Share fine-grained access to your Kubernetes cluster temporarily.
 - [Monokle](https://github.com/kubeshop/monokle) - Desktop UI for managing k8s manifests.
 - [Linkerd-failover](https://github.com/linkerd/linkerd-failover) - Linkerd Failover Operator.
+- [Favorite tools you use to manage/work with Kubernetes? (2022)](https://www.reddit.com/r/kubernetes/comments/tiere3/what_are_your_favorite_tools_you_use_to/)

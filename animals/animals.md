@@ -121,3 +121,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Louis Wain: The artist who changed how we think about cats](https://www.bbc.com/news/uk-england-london-59518847) ([HN](https://news.ycombinator.com/item?id=29711686))
 - [If Cheetahs were extinct, would palaeontologists be able to gauge how fast they were based on their fossil record?](https://www.reddit.com/r/askscience/comments/skfjt8/if_cheetahs_were_extinct_would_palaeontologists/)
 - [Short history of the O’Reilly animals](https://www.oreilly.com/animals.csp)
+- [Most Popular Dog Breeds of 2021](https://www.akc.org/expert-advice/dog-breeds/most-popular-dog-breeds-of-2021/)

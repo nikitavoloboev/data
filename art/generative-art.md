@@ -74,7 +74,6 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [Interview with Generative Artist Kjetil Golid (2020)](https://www.artnome.com/news/2020/10/11/interview-with-generative-artist-kjetil-golid)
 - [Functional Geometry](https://eprints.soton.ac.uk/257577/1/funcgeo2.pdf) ([Code](https://github.com/micahhahn/FunctionalGeometry))
 - [Plotter Mushroom](https://github.com/cinnamon-bun/plotter-mushroom) - Algorithm for generating SVG art.
-- [List of Generative Art and Live Coding Tools](https://opinionatedguide.github.io/#/Design/d5-gen) ([HN](https://news.ycombinator.com/item?id=24889333))
 - [Generative Book Covers](https://github.com/golanlevin/generative_covers)
 - [Tixy.Land](https://tixy.land/) - Minimalist coding environment. Control 16x16 points with a single JavaScript function. ([1](https://tixy.land/?code=Math.sin%28Math.sqrt%28x*x%2By*y%29-t%29)) ([2](https://twitter.com/v21/status/1323403680922718208)) ([Lobsters](https://lobste.rs/s/p146zr/t_i_x_y_creative_code_golfing)) ([Code](https://github.com/aemkei/tixy))
 - [tixyz](https://doersino.github.io/tixyz/) - Minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function. ([Code](https://github.com/doersino/tixyz))
@@ -212,3 +211,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [Birb’s Nest Discord](https://discord.com/invite/S8c7qcjw2b)
 - [Creative Code resources for beginners and beyond](https://sableraph.notion.site/sableraph/Creative-Code-resources-for-beginners-and-beyond-p5-js-edition-WIP-38fce7d30b1d41a9a626ab70440f40ca)
 - [Sketchy](https://github.com/aldernero/sketchy) - Framework for making generative art in Go.
+- [List of Generative Art and Live Coding Tools](https://opguides.info/design/generative-art/) ([HN](https://news.ycombinator.com/item?id=24889333))

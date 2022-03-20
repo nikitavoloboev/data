@@ -442,3 +442,4 @@ for i, _ in enumerate(nums):
 - [Sending notifications programmatically: let me count the ways (2022)](https://www.trickster.dev/post/sending-notifications-programmatically/)
 - [Extreme IO performance with parallel Apache Parquet in Python (2017)](https://wesmckinney.com/blog/python-parquet-multithreading/)
 - [perflint](https://github.com/tonybaloney/perflint) - Pylint extension for performance anti patterns.
+- [Processing large JSON files in Python without running out of memory (2022)](https://pythonspeed.com/articles/json-memory-streaming/)

@@ -160,3 +160,4 @@
 - [Introduction to Geospatial Raster and Vector Data with Python](https://github.com/carpentries-incubator/geospatial-python)
 - [EOmaps](https://github.com/raphaelquast/EOmaps) - Library to create interactive maps of geographical datasets.
 - [geojson](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
+- [geojson](https://github.com/georust/geojson) - Library for serializing the GeoJSON vector GIS file format.

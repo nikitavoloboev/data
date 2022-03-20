@@ -734,4 +734,4 @@
 - [Live-Coding Rust with Tim McNamara – Functional Futures (2022)](https://www.youtube.com/watch?v=U7EdJ8rtS28) ([Transcript](https://serokell.io/blog/live-coding-rust-with-tim-mcnamara))
 - [OXUI](https://github.com/cksac/oxui) - Cross platform native GUI in Rust.
 - [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
-- [Rust's Unsafe Pointer Types Need An Overhaul (2022)](https://gankra.github.io/blah/fix-rust-pointers/)
+- [Rust's Unsafe Pointer Types Need An Overhaul (2022)](https://gankra.github.io/blah/fix-rust-pointers/) ([Lobsters](https://lobste.rs/s/mptezc/rust_s_unsafe_pointer_types_need_overhaul))

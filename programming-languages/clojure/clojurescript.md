@@ -47,3 +47,4 @@
 - [Introducing Visual and Interactive-Syntax realized (VISr) for ClojureScript (and JavaScript) (2022)](https://prl.ccs.neu.edu/blog/2022/01/06/introducing-visual-and-interactive-syntax-realized-visr-for-clojurescript-and-javascript/)
 - [Sente](https://github.com/ptaoussanis/sente) - Real time web comms for Clojure/Script.
 - [ClojureScript REPL](https://clojurescript.io/) ([Code](https://github.com/arichiardi/replumb))
+- [Glogi](https://github.com/lambdaisland/glogi) - ClojureScript logging library based on goog.log.

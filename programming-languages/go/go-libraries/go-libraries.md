@@ -293,6 +293,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [iploc](https://github.com/phuslu/iploc) - Fastest IP To Country Library.
 - [ratelimit](https://github.com/uber-go/ratelimit) - Go blocking leaky-bucket rate limit implementation.
 - [go-http-metrics](https://github.com/slok/go-http-metrics) - Measure HTTP metrics in different metric formats and Go HTTP framework/libs.
+- [go-ipam](https://github.com/metal-stack/go-ipam) - Module to handle IP address management. It can operate on networks, prefixes and IPs.
 
 ## GraphQL
 
@@ -1427,6 +1428,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [qsim](https://github.com/danslimmon/qsim) - Go package that lets you build queueing system simulators.
 - [art](https://github.com/arriqaaq/art) - Adaptive Radix Tree (ART) implementation in Go.
 - [firebolt](https://github.com/digitalocean/firebolt) - Go framework for streaming ETL, observability data pipeline, and event processing apps.
+- [egoscale](https://github.com/exoscale/egoscale) - Wrapper for the Exoscale public cloud API.
 
 ## Links
 
@@ -1499,3 +1501,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Web Dev Examples](https://github.com/GoesToEleven/golang-web-dev)
 - [Learn Go with Tests – Generics](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)
 - [Awesome Go Repositories Twitter](https://twitter.com/GolangRepos)
+- [ART: Building a Prefix Search Trie in Go (2022)](https://aly.arriqaaq.com/art-building-a-prefix-search-trie-in-go/)

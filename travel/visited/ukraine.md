@@ -109,3 +109,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [How Russia’s mistakes and Ukrainian resistance altered Putin’s war (2022)](https://ig.ft.com/russias-war-in-ukraine-mapped/)
 - [Бомбы по больницам и разрушенные многоэтажки: карта ущерба гражданскому населению Украины (2022)](https://ru.bellingcat.com/novosti/2022/03/18/hospitals-bombed-and-apartments-destroyed-mapping-incidents-of-civilian-harm-in-ukraine-ru/) ([Tweet](https://twitter.com/bellingcat_ru/status/1504835746703753229))
 - [Consequences of Russian aggression on beautiful Ukrainian cities](https://twitter.com/Dobrokhotov/status/1504588240657043465)
+- [Ivan Krastev on Russia's Invasion of Ukraine (2022)](https://www.spiegel.de/international/world/ivan-krastev-on-russia-s-invasion-of-ukraine-putin-lives-in-historic-analogies-and-metaphors-a-1d043090-1111-4829-be90-c20fd5786288) ([HN](https://news.ycombinator.com/item?id=30736834))
+- [Together App](https://github.com/MacPaw/together-app) - Self-hosted app for keeping track of employee well being and dislocation during the Russo-Ukrainian war, with an interactive map.

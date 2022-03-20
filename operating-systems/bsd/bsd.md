@@ -90,3 +90,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [quBSD](https://github.com/BawdyAnarchist/quBSD) - FreeBSD jails and bhyve wrapper; which emulates a Qubes-like containerization schema.
 - [The FreeBSD Boot Process](https://klarasystems.com/articles/the-freebsd-boot-process/)
 - [From macOS to FreeBSD (2022)](https://www.boucek.me/blog/from-mac-to-freebsd/) ([HN](https://news.ycombinator.com/item?id=30384138))
+- [OpenBSD/arm64 on Apple M1 systems](https://marc.info/?l=openbsd-arm&m=164768992119719&w=2) ([HN](https://news.ycombinator.com/item?id=30734527))

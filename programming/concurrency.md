@@ -40,3 +40,4 @@ Concurrency is the composition of independently executing computations.
 - [Seamless, Fearless, and Structured Concurrency (2022)](https://verdagon.dev/blog/seamless-fearless-structured-concurrency)
 - [Resources on concurrent PL semantics? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/swxb61/resources_on_concurrent_pl_semantics/)
 - [KAIST CS431: Concurrent Programming](https://github.com/kaist-cp/cs431)
+- [Structured Concurrency](https://250bpm.com/blog:71/) ([HN](https://news.ycombinator.com/item?id=30720980))

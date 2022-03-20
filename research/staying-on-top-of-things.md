@@ -253,3 +253,4 @@ And these Discord servers:
 - [Things you notice when you quit the news (2016)](https://www.raptitude.com/2016/12/five-things-you-notice-when-you-quit-the-news/) ([HN](https://news.ycombinator.com/item?id=30430041))
 - [Just Five News · Daily News](https://justfive.news/) ([HN](https://news.ycombinator.com/item?id=30585080))
 - [Wikipedia Current Events](https://en.wikipedia.org/wiki/Portal:Current_events)
+- [The spread of misinformation: A pattern we see over and over (2022)](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/) ([HN](https://news.ycombinator.com/item?id=30737768))

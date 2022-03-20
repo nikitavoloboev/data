@@ -147,6 +147,7 @@
 - [Jsonrs](https://github.com/benhaney/Jsonrs) - Rust powered JSON library for Elixir.
 - [Semaphore](https://github.com/discord/semaphore) - Fast semaphore using ETS.
 - [MJML](https://github.com/adoptoposs/mjml_nif) - Elixir NIF bindings for the MJML Rust implementation.
+- [gRPC Elixir](https://github.com/elixir-grpc/grpc) - Elixir implementation of gRPC.
 
 ## Links
 

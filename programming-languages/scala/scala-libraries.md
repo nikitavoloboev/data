@@ -154,6 +154,7 @@
 - [Scala Isabelle](https://github.com/dominique-unruh/scala-isabelle) - Scala library for controlling/interacting with Isabelle.
 - [mini-refined](https://github.com/note/mini-refined) - Simple encoding of refinement types in Scala 3.
 - [Difflicious](https://github.com/jatcwang/difflicious) - Scala library for readable diffs of values.
+- [zio-json](https://github.com/zio/zio-json) - Fast, secure JSON library with tight ZIO integration.
 
 ## Links
 

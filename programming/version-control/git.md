@@ -500,3 +500,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [scmpuff](https://github.com/mroth/scmpuff) - Numeric file shortcuts for common git commands.
 - [Ask HN: What is your Git commit/push flow?](https://news.ycombinator.com/item?id=30712175)
 - [git-cl](https://github.com/uptech/git-cl) - Git Changelog.
+- [split-patch.py](https://github.com/aleclearmind/split-patch) - `Git add -p` with multiple buckets. ([HN](https://news.ycombinator.com/item?id=30735294))

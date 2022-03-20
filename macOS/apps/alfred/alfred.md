@@ -8,6 +8,8 @@ It has a great [community](http://www.alfredforum.com/) and [amazing workflows](
 
 I wrote [an article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
+[Raycast](../../../tools/raycast.md) & [Script Kit](https://www.scriptkit.com/) are nice alternatives.
+
 ## Workflows I use
 
 My most used workflows at current time are:

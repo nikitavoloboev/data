@@ -88,3 +88,4 @@
 - [A product management reading list (2021)](https://mikehudack.substack.com/p/a-product-management-reading-list)
 - [Product Manager Software Stack (2022)](https://twitter.com/lennysan/status/1501978181695246346)
 - [The hardest thing about engineering is requirements (2022)](https://jaybs.medium.com/the-hardest-thing-about-engineering-is-requirements-28a6a70c4db4) ([HN](https://news.ycombinator.com/item?id=30631571))
+- [Strategy is not X (2022)](https://www.umr.io/blog/strategy-is-not-x) ([HN](https://news.ycombinator.com/item?id=30719787))
