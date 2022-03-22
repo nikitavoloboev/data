@@ -625,3 +625,5 @@
 - [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies (2021)](https://arxiv.org/abs/2105.02872) ([Code](https://github.com/zju3dv/animatable_nerf))
 - [TensoRF: Tensorial Radiance Fields (2022)](https://arxiv.org/abs/2203.09517) ([Code](https://github.com/apchenstu/TensoRF))
 - [Autoregressive Image Generation using Residual Quantization (2022)](https://arxiv.org/abs/2203.01941) ([Code](https://github.com/lucidrains/RQ-Transformer))
+- [Pix2Pix Timbre Transfer](https://github.com/hmartelb/Pix2Pix-Timbre-Transfer)
+- [One-Shot Adaptation of GAN in Just One CLIP (2022)](https://arxiv.org/abs/2203.09301) ([Code](https://github.com/submission6378/OneshotCLIP))

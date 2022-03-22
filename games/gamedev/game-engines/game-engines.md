@@ -105,6 +105,7 @@
 - [Potato](https://github.com/potatoengine/potato) - Hobby C++ game engine.
 - [koi](https://github.com/kettle11/koi) - Game engine in Rust.
 - [Goluwa](https://github.com/CapsAdmin/goluwa) - Game engine, framework, a collection of utilities and experiments written in LuaJIT leveraging FFI.
+- [CosPlay](https://github.com/nivanov/cosplay) - 2D ASCII game engine written in Scala3.
 
 ## Physics engines
 

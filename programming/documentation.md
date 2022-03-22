@@ -154,3 +154,4 @@
 - [Organisational Scaling Knowledge Management Tips (2022)](https://twitter.com/yoz/status/1498395923453386756)
 - [docs.page](https://docs.page/) - Create an instant Open Source docs page with zero configuration. ([Code](https://github.com/invertase/docs.page))
 - [docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch.
+- [VuePress theme - Gitbook inspired](https://github.com/cyrilf/vuepress-theme-book)

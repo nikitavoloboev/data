@@ -15,6 +15,7 @@
 - [Ridgeline](https://craigmod.com/ridgeline/) - Weekly newsletter on walking, japan, literature, and photography.
 - [Ivan on Containers, Kubernetes, and Backend Development](https://iximiuz.ck.page/posts)
 - [Creative Brew](https://www.creativebrew.io/)
+- [WebDev with Stefan](https://www.stefanjudis.com/newsletter/)
 
 ## Notes
 

@@ -1,6 +1,6 @@
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/) looks interesting too.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/) & [Juniper](https://github.com/graphql-rust/juniper) look interesting too.
 
 ## Notes
 
@@ -156,7 +156,7 @@
 - [How Netflix Scales its API with GraphQL Federation (2020)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 - [Executing GraphQL Queries (2020)](https://jemma.dev/blog/executing-graphql-queries)
 - [Experimental GraphQL Playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground) - Demonstration of defer/stream/subscriptions/queries/mutations with `express-http`, `graphql-ws`. Test the bleeding egde with less hazzle.
-- [subZero](https://subzero.cloud/) - GraphQL & REST API for your database. ([GitHub](https://github.com/subzerocloud))
+- [subZero](https://subzero.cloud/) - GraphQL & REST API for your database. ([GitHub](https://github.com/subzerocloud)) ([Demo Code](https://github.com/subzerocloud/blue-steel))
 - [apollo-cli](https://github.com/apollographql/rover) - New CLI for Apollo's suite of GraphQL developer productivity tools.
 - [Apollo Federation](https://github.com/apollographql/federation) ([Docs](https://www.apollographql.com/docs/federation/))
 - [The Evolution of GraphQL at Scale (2020)](https://www.apollographql.com/blog/the-evolution-of-graphql-at-scale/)

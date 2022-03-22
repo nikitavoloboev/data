@@ -196,3 +196,8 @@
 - [Svelte parser for ESLint](https://github.com/ota-meshi/svelte-eslint-parser)
 - [Svelte Inview](https://github.com/maciekgrzybek/svelte-inview) - Svelte action that monitors an element enters or leaves the viewport.
 - [Weekly Svelte - YouTube](https://www.youtube.com/playlist?list=PLLnpHn493BHF-Onm1MQgKC1psvW-rJuYi)
+- [VKSUI](https://github.com/sveltevk/VKSUI) - Библиотека адаптивных Svelte-компонентов.
+- [Snel](https://github.com/crewdevio/Snel) - Cybernetical framework for svelte applications in Deno.
+- [Svelte Adapter Deno](https://github.com/pluvial/svelte-adapter-deno) - Adapter for SvelteKit apps that generates a standalone Deno server.
+- [Creating a RSS feed with Sanity and Svelte Kit (2022)](https://ghostdev.xyz/posts/creating-a-rss-feed-with-sanity-and-svelte-kit)
+- [svelte-file-dropzone](https://github.com/thecodejack/svelte-file-dropzone) - Svelte component for file upload.

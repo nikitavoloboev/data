@@ -186,6 +186,7 @@
 - [Semver Release](https://github.com/K-Phoen/semver-release-action) - Automatically create SemVer compliant releases based on PR labels.
 - [Updater Action](https://github.com/github/dependabot-action) - Runs Dependabot workloads via GitHub Actions.
 - [Nrwl Nx Action](https://github.com/MansaGroup/nrwl-nx-action) - GitHub Action to wrap Nrwl Nx commands in your workflows.
+- [AWS S3 Deploy](https://github.com/Reggionick/s3-deploy) - Easily deploy a static website to AWS S3 and invalidate CloudFront distribution.
 
 ## Go
 

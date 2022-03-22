@@ -39,3 +39,4 @@
 - [JavaScript rules for Bazel](https://github.com/bazelbuild/rules_nodejs)
 - [Scoot](https://github.com/twitter/scoot) - Distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 - [Aspect Build Systems](https://www.aspect.dev/) - Expert Bazel consulting. ([GitHub](https://github.com/aspect-build))
+- [Bazel Central Registry](https://github.com/bazelbuild/bazel-central-registry) - Central registry of Bazel modules for the Bzlmod external dependency system.

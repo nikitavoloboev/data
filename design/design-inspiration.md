@@ -142,6 +142,7 @@ Here are few more things I liked, design wise.
 - [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)
 - [KONG Land](https://kong.land/)
+- [Positive Thinking Company](https://positivethinking.tech/)
 - [Logology](https://www.logology.co/)
 - [Quill](https://quill.chat/) - Nice mobile & desktop view.
 - [Staff Design](https://staff.design/) - Amazing mobile view too.
@@ -276,6 +277,7 @@ Here are few more things I liked, design wise.
 - [Jordan Lewis](https://jordanlewis.org/)
 - [Hayk An](https://hayk.design/#/)
 - [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
+- [Matthias Le Brun](https://bloodyowl.io/) ([Code](https://github.com/bloodyowl/website))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Em Lazer-Walker](https://lazerwalker.com/)
 - [Drew DeVault](https://drewdevault.com/) ([Code](https://git.sr.ht/~sircmpwn/drewdevault.com))
@@ -299,6 +301,8 @@ Here are few more things I liked, design wise.
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Nicholas Jitkoff](https://nicholas.jitkoff.com/)
 - [Roxane Jammet](http://roxane.me/)
+- [Slim Lim](https://slim.computer/)
+- [Nick Zuber](https://nickzuber.com/)
 - [Daniel Pyrathon](https://pirosb3.io/)
 - [Rob Hope](https://robhope.com/)
 - [Andy Sparks](https://www.andysparks.co/)

@@ -179,6 +179,7 @@
 - [kibit](https://github.com/jonase/kibit) - Static code analyzer for Clojure, ClojureScript.
 - [Safely](https://github.com/BrunoBonacci/safely) - Clojure's circuit-breaker library for handling retries in an elegant declarative way.
 - [pp-grid](https://github.com/rorokimdim/pp-grid) - Clojure library to construct formatted text.
+- [Naga](https://github.com/threatgrid/naga) - Datalog based rules engine.
 
 ## Links
 

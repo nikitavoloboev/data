@@ -217,3 +217,4 @@
 - [warp-cors](https://github.com/Bassetts/warp-cors) - Proxy server which enables CORS for the proxied request.
 - [GoQuiet](https://github.com/cbeuw/GoQuiet) - Shadowsocks obfuscation plugin utilising domain fronting to evade deep packet inspection.
 - [Decrypting your own HTTPS traffic with Wireshark (2022)](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/) ([HN](https://news.ycombinator.com/item?id=30743141))
+- [whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy.

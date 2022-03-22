@@ -144,3 +144,4 @@
 - [Gradient](https://github.com/esl/gradient) - Gradual typechecker for Elixir.
 - [Elixir on Exercism](https://exercism.org/tracks/elixir) ([Code](https://github.com/exercism/elixir))
 - [Elixir Code Smells](https://github.com/lucasvegi/Elixir-Code-Smells)
+- [Terp](https://github.com/smpoulsen/terp) - Functional programming language with lisp syntax and ML semantics that runs on the BEAM.

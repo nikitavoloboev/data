@@ -167,3 +167,5 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Google open sources solar atmospheric water generator](https://github.com/google/h2e_technical_documentation) ([HN](https://news.ycombinator.com/item?id=30714506))
 - [Institute of Computing for Climate Science](https://cambridge-iccs.github.io/)
 - [The Production Board](https://www.tpb.co/) - Reimagining systems of production across key markets.
+- [The Hidden Life of Trees: What They Feel, How They Communicate (2018)](https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/) ([HN](https://news.ycombinator.com/item?id=30738120))
+- [Awesome Sustainability Jobs](https://github.com/pogopaule/awesome-sustainability-jobs)

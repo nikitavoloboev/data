@@ -71,3 +71,4 @@
 - [Best programming language to teach kids](https://twitter.com/hardmaru/status/1497507948842598404)
 - [Tips for parenting and better sleep](https://twitter.com/nbashaw/status/1501702852720283651)
 - [Kids don't need tools for kids (2022)](http://lambdaway.free.fr/lambdawalks/?view=meta5) ([HN](https://news.ycombinator.com/item?id=30671422))
+- [Using the 5 S's to Soothe a Crying Baby](https://www.happiestbaby.com/blogs/baby/the-5-s-s-for-soothing-babies) ([Tweet](https://twitter.com/EmmaBostian/status/1505861389449154560))

@@ -246,3 +246,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Steakwallet](https://steakwallet.fi/) ([Tweet](https://twitter.com/stackhousehouse/status/1504416938386427908))
 - [Web3 critique academic research (2022)](https://www.zotero.org/groups/4600269/web3/library)
 - [Crypto is an unproductive bubble (2022)](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/) ([HN](https://news.ycombinator.com/item?id=30728856))
+- [Vitalik Buterin is worried about crypto's future (2022)](https://time.com/6158182/vitalik-buterin-ethereum-profile/) ([HN](https://news.ycombinator.com/item?id=30753404))

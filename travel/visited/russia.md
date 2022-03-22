@@ -4,6 +4,8 @@ TL;DR Russia and most of its people are beautiful and kind but [Russian governme
 
 As for how to get there, for one, western governments should not stop the flow of information between countries ([should not block research from Russians being published, should stop labeling all Russians as aggressors etc.](https://www.youtube.com/watch?v=rTwrrqwa0f4)). Secondly, there should be tools built that can circumvent ability for government to block out ability for people to organize into massive crowds of people at will.
 
+I also hope that that humans stop thinking in terms of factions and groups. There is [no 'The West' as much as there is no 'Russia' as humans are varied](https://www.reddit.com/r/AskARussian/comments/tib295/i_wish_things_go_back_to_the_way_they_were/) and it's these splits into groups that got us into all the wars and conflicts. I don't have a solution for how to solve this though aside from better education and somehow covering the basing needs for all humans with respect to food and shelter so every human doesn't needlessly fight or look for enemies in this unfair world.
+
 > Below is mostly just [my opinion](https://twitter.com/eeberquist/status/1504516448156274695) on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 10. Rest I get from outside media, friends and my occasional visits).
 
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
@@ -521,3 +523,8 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Why Russia can't win against the West (2022)](https://twitter.com/kamilkazani/status/1505247886908424195)
 - [Как власти готовили российских школьников к войне (2022)](https://www.agents.media/uchebniki-istorii-propaganda/) ([Tweet](https://twitter.com/userpig/status/1505397524793892868))
 - [I Served As A Conscript In The Russian Infantry. AMA. (2022)](https://www.reddit.com/r/neoliberal/comments/t4e7jk/i_served_as_conscript_in_russian_unfantry_in/)
+- [List of killed Russian generals in Ukraine war](https://twitter.com/kamilkazani/status/1505576153804800000)
+- [Why the wrong doings of Russia is not just 'Putin fault'](https://twitter.com/EerikNKross/status/1505669877809483785)
+- [Cops as the true revolutionary class](https://twitter.com/kamilkazani/status/1505922839785861120)
+- [Russian Asset Tracker](https://cdn.occrp.org/projects/russian-asset-tracker/en/) - Explore the global assets of Russia's oligarchs and enablers. ([Tweet](https://twitter.com/CatharinaFelke/status/1505945634783830017))
+- [Why the Ruble Hasn’t Collapsed Yet (2022)](https://twitter.com/jeuasommenulle/status/1505962132676001796)

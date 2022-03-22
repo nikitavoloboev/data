@@ -661,3 +661,5 @@
 - [Linkerd-failover](https://github.com/linkerd/linkerd-failover) - Linkerd Failover Operator.
 - [Favorite tools you use to manage/work with Kubernetes? (2022)](https://www.reddit.com/r/kubernetes/comments/tiere3/what_are_your_favorite_tools_you_use_to/)
 - [Helm X Plugin](https://github.com/mumoshu/helm-x) - Treat any Kustomization or K8s manifests directory as a Helm chart.
+- [Kubernetes models in TypeScript](https://github.com/tommy351/kubernetes-models-ts)
+- [Helm Teller](https://github.com/SpectralOps/helm-teller) - Allows you to inject configuration and secrets from multiple providers into your chart while masking the secrets at the deployment.

@@ -111,3 +111,8 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Consequences of Russian aggression on beautiful Ukrainian cities](https://twitter.com/Dobrokhotov/status/1504588240657043465)
 - [Ivan Krastev on Russia's Invasion of Ukraine (2022)](https://www.spiegel.de/international/world/ivan-krastev-on-russia-s-invasion-of-ukraine-putin-lives-in-historic-analogies-and-metaphors-a-1d043090-1111-4829-be90-c20fd5786288) ([HN](https://news.ycombinator.com/item?id=30736834))
 - [Together App](https://github.com/MacPaw/together-app) - Self-hosted app for keeping track of employee well being and dislocation during the Russo-Ukrainian war, with an interactive map.
+- [Про "геноцид" на Донбассе](https://twitter.com/JohnnyRomashka/status/1505613010177511425)
+- [View on Ukraine/Russia war](https://twitter.com/PhillipsPOBrien/status/1505563536403091464)
+- [We witnessed Mariupol's agony and fled a Russian hit list (2022)](https://apnews.com/article/russia-ukraine-europe-edf7240a9d990e7e3e32f82ca351dede)
+- [Why Can’t the West Admit That Ukraine Is Winning? (2022)](https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/) ([Tweet](https://twitter.com/PhillipsPOBrien/status/1505932131146547200)) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/tjqfpz/why_cant_the_west_admit_that_ukraine_is_winning/))
+- [List of resources and initiative to help the Ukraine](https://github.com/bgruening/awesome-ukraine-support)

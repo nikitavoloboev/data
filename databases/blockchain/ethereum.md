@@ -542,3 +542,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [BokkyPooBah's DateTime Library](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) - Gas-efficient Solidity date and time library.
 - [Multisol](https://github.com/paulrberg/multisol) - CLI application for verifying Solidity contracts on Etherscan.
 - [Foundry template](https://github.com/ZeframLou/foundry-template) - Minimalist template for foundry projects.
+- [Direct Deposit Module for Make](https://github.com/makerdao/dss-direct-deposit) - Interfaces with third party lending protocols to enable a maximum variable borrow rate for selected assets.
+- [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine) - Comprehensive, annotated list of repositories of the starknet ecosystem.
+- [Heliaia](https://github.com/GregTheGreek/Heliaia) - Proxy that sits between your wallet and a node, with the sole purpose to intercept transactions before they are broadcasted.

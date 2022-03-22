@@ -183,3 +183,5 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Stockfish.js](https://github.com/nmrugg/stockfish.js) - WASM implementation of Stockfish chess engine. ([HN](https://news.ycombinator.com/item?id=30454021))
 - [10 Chess Traps to Win Fast](https://www.youtube.com/watch?v=fotEfEXL60o)
 - [Lichess coaches](https://lichess.org/coach)
+- [Lichess Variants](https://lichess.org/variant) - Crazyhouse, Chess960, King of the Hill, Three-Check, etc.
+- [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.

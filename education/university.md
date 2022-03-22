@@ -102,3 +102,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [Imperial College London](https://www.imperial.ac.uk/)
 - [HSE University](https://www.hse.ru/en/)
 - [Ask HN: How to make the most out of time at university? (2022)](https://news.ycombinator.com/item?id=30345059)
+- [Education Toolkit](https://github.com/huggingface/education-toolkit) - Toolkit that university instructors can use to easily prepare labs, homework, or classes.

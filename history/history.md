@@ -184,3 +184,5 @@
 - [Already in a world war (2022)](https://twitter.com/ProfPaulPoast/status/1502625935664758785)
 - [Uchronia: The Alternate History List](http://www.uchronia.net/)
 - [Whats a NSFW history fact that we don’t often hear about? (2022)](https://www.reddit.com/r/AskReddit/comments/thnmmc/whats_a_nsfw_history_fact_that_we_dont_often_hear/)
+- [Horrible mass killings in Gaza](https://twitter.com/zei_squirrel/status/1504020982935261190)
+- [The Yemen conflict links (2022)](https://www.reddit.com/r/geopolitics/comments/tjrw67/the_yemen_conflict/)

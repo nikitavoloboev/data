@@ -134,7 +134,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [RsyncOSX](https://github.com/rsyncOSX/RsyncOSX) - macOS GUI for rsync.
 - [Licenses](https://github.com/LinkAndreas/Licenses) - Native macOS App built using Swift UI and Combine.
 - [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit)
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Free, open-source code editor for macOS. ([HN](https://news.ycombinator.com/item?id=30747211))
 
 ## Other interesting apps
 
@@ -232,3 +232,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Building a native macOS app using SwiftUI and Combine (2021)](https://www.linkandreas.de/#/articles/09_03_2021)
 - [What's the problem with old but excellent Mac apps? (2022)](https://christiantietze.de/posts/2022/03/half-assed-mac-apps/) ([HN](https://news.ycombinator.com/item?id=30552973))
 - [IBM Notifier](https://github.com/IBM/mac-ibm-notifications) - macOS agent used to display custom notifications and alerts to the end .
+- [Ask HN: Book Recommendation for macOS Development (2022)](https://news.ycombinator.com/item?id=30753584) ([Lobsters](https://lobste.rs/s/hjk1gx/book_recommendation_for_macos))

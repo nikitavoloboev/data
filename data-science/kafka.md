@@ -97,3 +97,4 @@
 - [Confluent's Go Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go)
 - [Apache Kafka Code](https://github.com/apache/kafka)
 - [RSKafka](https://github.com/influxdata/rskafka) - Minimal Rust client for Apache Kafka.
+- [node-kafka-streams](https://github.com/nodefluent/kafka-streams)

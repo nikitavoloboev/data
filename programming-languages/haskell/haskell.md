@@ -392,3 +392,5 @@
 - [What is IO monad?](https://www.youtube.com/watch?v=fCoQb-zqYDI) ([HN](https://news.ycombinator.com/item?id=30596699))
 - [15 Resources to Help You Learn Haskell in 2022](https://serokell.io/blog/how-to-learn-haskell-in-10-minutes)
 - [Haskell Foundation Stability Working Group](https://github.com/haskellfoundation/stability)
+- [Thoughts on bootstrapping GHC (2018)](https://www.joachim-breitner.de/blog/748-Thoughts_on_bootstrapping_GHC)
+- [Filtering Unique Items from Heterogeneous Lists at Compile Time (2022)](https://blog.galowicz.de/2022/03/20/unique-heterogeneous-typelists/)

@@ -53,6 +53,10 @@
 
 - [regz](https://github.com/ZigEmbeddedGroup/regz) - Zig code generator for microcontrollers.
 
+## Test
+
+- [Marble](https://github.com/cryptocode/marble) - Metamorphic testing library for Zig.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)

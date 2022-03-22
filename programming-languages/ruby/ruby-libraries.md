@@ -2,6 +2,7 @@
 
 ## CLI
 
+- [TTY](https://github.com/piotrmurach/tty) - Toolkit for developing sleek command line apps.
 - [TTY::Prompt](https://github.com/piotrmurach/tty-prompt) - Beautiful and powerful interactive command line prompt.
 - [TTY::Command](https://github.com/piotrmurach/tty-command) - Execute shell commands with pretty output logging and capture stdout, stderr and exit status. ([Web](https://ttytoolkit.org/))
 - [CommandLine](https://github.com/DragonRuby/command_line) - Easier way to run command line applications and get all of the output.
@@ -62,3 +63,4 @@
 - [Thermite](https://github.com/malept/thermite) - Rake-based helper for building and distributing Rust-based Ruby extensions.
 - [Modulation](https://github.com/digital-fabric/modulation) - Explicit Dependency Management for Ruby.
 - [Magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby code from a Rust binary.
+- [Steep](https://github.com/soutaro/steep) - Gradual Typing for Ruby.

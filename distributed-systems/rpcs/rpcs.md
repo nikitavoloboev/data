@@ -42,3 +42,4 @@
 - [hRPC](https://github.com/harmony-development/hrpc) - Simple RPC system using protocol buffers over HTTP and WebSockets.
 - [hrpc-rs](https://github.com/harmony-development/hrpc-rs) - Implementation of hRPC in Rust.
 - [Axon RPC](https://github.com/Just4Ease/axonrpc) - RPC over event streams. Can execute RPC calls like gRPC but this time, over event streams.
+- [SRPC](https://github.com/znx3p0/srpc) - Simple RPC system based on top of Canary.

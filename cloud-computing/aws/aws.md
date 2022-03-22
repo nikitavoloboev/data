@@ -299,3 +299,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Security Reference Architecture Examples](https://github.com/aws-samples/aws-security-reference-architecture-examples) - Example solutions demonstrating how to implement patterns within the AWS Security Reference Architecture guide using CloudFormation and Customizations for AWS Control Tower.
 - [Minimal AWS SSO setup for personal AWS development (2022)](https://dev.to/aws-builders/minimal-aws-sso-setup-for-personal-aws-development-220k)
 - [Setting up Kubernetes on AWS (2022)](https://blog.cyborch.com/setting-up-kubernetes-on-aws/)
+- [CSI driver for Amazon EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+- [IAM Credentials Rotator](https://github.com/willdady/cdk-iam-credentials-rotator) - AWS CDK construct for rotating IAM user credentials and sending to a third party.

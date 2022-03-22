@@ -94,6 +94,7 @@
 - [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
 - [Binding and CLI generator for all google APIs](https://github.com/google-apis-rs/generator)
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart API.
+- [Customer.io Node API](https://github.com/customerio/customerio-node)
 - [Binance Go](https://github.com/pdepip/go-binance)
 - [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
 - [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
@@ -113,8 +114,9 @@
 - [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
-- [Spotify TS](https://github.com/tspotify/tspotify)
-- [Spotify TS 2](https://github.com/backtrackapp/spotify.js)
+- [Spotify TS](https://github.com/adamgrieger/spotify-web-api-ts) - Isomorphic TypeScript wrapper for Spotify's Web API.
+- [Spotify TS 2](https://github.com/tspotify/tspotify)
+- [Spotify TS 3](https://github.com/backtrackapp/spotify.js)
 - [Spotify Go](https://github.com/zmb3/spotify)
 - [Spotify GraphQL](https://github.com/wittydeveloper/spotify-graphql) - GraphQL schema for Spotify WebAPI.
 - [Spotify Python](https://github.com/plamere/spotipy)
@@ -361,3 +363,4 @@
 - [Introducing Advanced Rate Limiting (2022)](https://blog.cloudflare.com/advanced-rate-limiting/)
 - [Cherrybomb](https://github.com/blst-security/cherrybomb) - CLI tool that helps you avoid undefined user behavior by validating your API specifications.
 - [Theneo](https://www.theneo.io/) - High-Quality, Interactive API Docs. ([HN](https://news.ycombinator.com/item?id=30720623))
+- [The Guild](https://www.the-guild.dev/) - Modern API Platform and ecosystem that scales. ([Code](https://github.com/the-guild-org/the-guild-website))

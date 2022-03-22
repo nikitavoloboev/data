@@ -236,6 +236,7 @@
 - [Mapbox Maps iOS](https://github.com/mapbox/mapbox-maps-ios) - Public library for displaying interactive, thoroughly customizable maps in native iOS.
 - [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
 - [Tempura](https://github.com/BendingSpoons/tempura-swift) - Holistic approach to iOS development, inspired by Redux and MVVM.
+- [SPQRCode](https://github.com/sparrowcode/SPQRCode) - Native QR code scanner of iOS. Repeated system scanner from the camera app.
 
 ## macOS
 
@@ -258,6 +259,7 @@
 
 ## Web
 
+- [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
 - [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.
 - [RealHTTP](https://github.com/immobiliare/RealHTTP) - Lightweight yet powerful async/await based client-side HTTP library made in Swift.
 - [FlyingFox](https://github.com/swhitty/FlyingFox) - Lightweight, HTTP server written in Swift using async/await.
@@ -473,6 +475,7 @@
 - [Mussel](https://github.com/UrbanCompass/Mussel) - Framework for easily testing Push Notifications, Universal Links and Routing in XCUITests.
 - [Spectre](https://github.com/kylef/Spectre) - BDD Framework and test runner for Swift projects and playgrounds.
 - [GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - GeometryWriter writes the minimum frame to a View.
+- [SwiftParamTest](https://github.com/YusukeHosonuma/SwiftParamTest) - Parameterized test for Swift.
 
 ## API
 
@@ -1018,6 +1021,9 @@
 - [MusadoraKit](https://github.com/rryam/MusadoraKit) - Framework to easily access Apple's latest MusicKit and Apple Music API with async-await syntax.
 - [FlexLayout](https://github.com/layoutBox/FlexLayout) - Swift interface to the highly optimized facebook/yoga flexbox implementation. Concise, intuitive & chainable syntax.
 - [CoreTextSwift](https://github.com/krzyzanowskim/CoreTextSwift) - Swifty CoreText API.
+- [SwiftPrettyPrint](https://github.com/YusukeHosonuma/SwiftPrettyPrint) - Pretty print for Swift.
+- [PlotUI](https://github.com/ybubnov/PlotUI) - Integrate beautiful minimalistic plots into your app.
+- [Neon](https://github.com/ChimeHQ/Neon) - Swift system for working with language syntax.
 
 ## Other (not lib)
 

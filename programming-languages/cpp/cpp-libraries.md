@@ -6,6 +6,7 @@
 - [FTXUI](https://github.com/ArthurSonzogni/FTXUI) - C++ Functional Terminal User Interface.
 - [Command Interface](https://github.com/empirical-soft/command-interface) - Add a command-line interface to any C++ program. ([HN](https://news.ycombinator.com/item?id=28886328))
 - [Argh](https://github.com/adishavit/argh) - Minimalist argument handler.
+- [CLI11](https://github.com/CLIUtils/CLI11) - Command line parser for C++11.
 
 ## Testing
 
@@ -351,6 +352,9 @@
 - [CTTI](https://github.com/Manu343726/ctti) - Compile Time Type Information for C++.
 - [Junction](https://github.com/preshing/junction) - Concurrent data structures in C++.
 - [loop_tool](https://github.com/facebookresearch/loop_tool) - Thin, highly portable toolkit for dense loop-based computation.
+- [fixed_string](https://github.com/unterumarmung/fixed_string) - C++17 string with fixed size.
+- [async_simple](https://github.com/alibaba/async_simple) - Simple, Light-Weight Asynchronous C++ Framework.
+- [Universal](https://github.com/stillwater-sc/universal) - Header-only C++ template library for universal number arithmetic.
 
 ## Links
 
@@ -373,3 +377,4 @@
 - [How to Use C++20 Modules with Bazel and Clang](https://buildingblock.ai/cpp20-modules-bazel) ([HN](https://news.ycombinator.com/item?id=30345701))
 - [cmake-init](https://github.com/friendlyanon/cmake-init) - Missing CMake project initializer.
 - [clang-tutor](https://github.com/banach-space/clang-tutor) - Example Clang plugins for C and C++.
+

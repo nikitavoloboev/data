@@ -48,3 +48,4 @@
 - [PDFME](https://github.com/pdfme/pdfme) - TypeScript based PDF generator library, made with React. ([Docs](https://pdfme.com/docs/getting-started))
 - [PSPDFKit API](https://pspdfkit.com/api/) - Generate, convert, and modify PDF documents. ([HN](https://news.ycombinator.com/item?id=30709524))
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) - React library that provides annotation experience for PDF documents on web.
+- [WASM-PDF](https://github.com/jussiniinikoski/wasm-pdf) - Generate PDF files with JavaScript and WASM.

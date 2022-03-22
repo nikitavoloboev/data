@@ -144,3 +144,4 @@
 - [60-30-10 Color Rule](https://www.youtube.com/watch?v=UWwNIMHFdW4)
 - [colo](https://github.com/Aloso/colo) - Displays colors in various color spaces.
 - [Simpler Color](https://github.com/arnelenero/simpler-color) - Create your own complete color system fast and easy. ([HN](https://news.ycombinator.com/item?id=30694354))
+- [Meshed Up](https://meshedup.dev/) - Collection of multi-color vectors for web developers and digital designers.

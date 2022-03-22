@@ -142,6 +142,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [pacman.c](https://github.com/floooh/pacman.c) - Simple Pacman clone written in C99.
 - [minesweep-rs](https://github.com/cpcloud/minesweep-rs) - Mine sweeping game written in Rust using tui-rs.
 - [Secret multiplayer browser game](https://github.com/leod/catcheb)
+- [ByteLegend](https://bytelegend.com/) - Learn programming while playing a game. ([Code](https://github.com/ByteLegend/ByteLegend)) ([HN](https://news.ycombinator.com/item?id=30720259))
 
 ## Awesome games (other)
 

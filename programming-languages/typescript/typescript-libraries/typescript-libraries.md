@@ -399,6 +399,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [device-detector-js](https://github.com/etienne-martin/device-detector-js) - Precise user agent parser and device detector written in TypeScript.
 - [tswhy](https://github.com/kitsonk/tswhy) - Community effort to enrich TypeScript diagnostics.
 - [vConsole](https://github.com/Tencent/vConsole) - Lightweight, extendable front-end developer tool for mobile web page.
+- [Boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript.
 
 ## Links
 

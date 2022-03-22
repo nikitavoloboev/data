@@ -40,6 +40,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Paper](https://github.com/nanxiaobei/hugo-paper) - Simple, clean, flexible Hugo theme.
 - [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Hugo theme for personal blog.
 - [Congo](https://github.com/jpanther/congo) - Powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers.
 
 ## Examples
 

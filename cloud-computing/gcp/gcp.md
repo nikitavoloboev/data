@@ -75,3 +75,5 @@
 - [gcloudx](https://github.com/emicklei/gcloudx) - Extra features for accessing the Google Cloud Platform.
 - [Updates to Google Cloud’s infrastructure capabilities and pricing (2022)](https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing) ([HN](https://news.ycombinator.com/item?id=30671997))
 - [Google Auth Python Library](https://github.com/googleapis/google-auth-library-python)
+- [Penny Wise and Cloud Foolish (2022)](https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish) ([Lobsters](https://lobste.rs/s/yz7yjv/penny_wise_cloud_foolish))
+- [Google Compute Engine Persistent Disk CSI Driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)

@@ -65,3 +65,4 @@
 - [29-year-old Conway conjecture settled (2022)](https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/) ([HN](https://news.ycombinator.com/item?id=29955780))
 - [Conway's Game of Life implementations for Native/Emscripten](https://github.com/gifnksm/game-of-life-rs)
 - [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata) ([HN](https://news.ycombinator.com/item?id=30402290))
+- [On the Concept of Motion (2022)](https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/)

@@ -40,6 +40,7 @@
 - [Spinners](https://github.com/FGRibreau/spinners) - + Elegant terminal spinners for Rust.
 - [Bunt](https://github.com/LukasKalbertodt/bunt) - Simple macro-based terminal colors and styles.
 - [superconsole](https://github.com/facebookincubator/superconsole) - Component-based framework for building Rust TUIs.
+- [terminal-keycode](https://github.com/substack/terminal-keycode.rs) - Convert bytes from a terminal into keycodes.
 
 ## Web
 
@@ -238,6 +239,7 @@
 - [Oxide Crucible](https://github.com/oxidecomputer/crucible) - Prototype storage service.
 - [rbatis](https://github.com/rbatis/rbatis) - Highly Performant,Safe,Dynamic SQL (Compile time) ORM framework written in Rust.
 - [memo-map](https://github.com/mitsuhiko/memo-map) - Concurrent insert only hash map.
+- [Endorphin](https://github.com/ArtBlnd/endorphin) - Key-Value based in-memory cache library which supports Custom Expiration Policies.
 
 ## Video
 
@@ -431,6 +433,7 @@
 - [RustCrypto: Password Hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs.
 - [Cryptoxide](https://github.com/typed-io/cryptoxide) - Crypto primitives in pure rust - wasm compatible.
 - [rust-hpke](https://github.com/rozbb/rust-hpke) - Implementation of the HPKE hybrid encryption standard.
+- [minisign-verify](https://github.com/jedisct1/rust-minisign-verify) - Small, zero-dependencies Rust crate to verify Minisign signatures.
 
 ## Linux
 
@@ -618,6 +621,7 @@
 - [Rust-Postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for Rust.
 - [im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust.
 - [Juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
+- [juniper-eager-loading](https://github.com/davidpdrsn/juniper-eager-loading) - Library for avoiding N+1 query bugs with Juniper.
 - [Logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers.
 - [Librsvg](https://github.com/GNOME/librsvg) - SVG rendering library.
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
@@ -723,7 +727,7 @@
 - [cuneiform](https://github.com/vertexclique/cuneiform) - Cache optimizations for Rust, revived from the slabs of Sumer.
 - [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust. ([Web](https://insta.rs/))
 - [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
-- [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
+- [Rusty V8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++. ([Docs](https://cxx.rs/)) ([HN](https://news.ycombinator.com/item?id=30627495))
 - [cxx-async](https://github.com/pcwalton/cxx-async) - Rust crate that extends the cxx library to provide seamless interoperability between asynchronous Rust code using async/await and C++20 coroutines using co_await.
@@ -1598,6 +1602,13 @@
 - [GJSON](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust.
 - [coap-rs](https://github.com/Covertness/coap-rs) - Constrained Application Protocol(CoAP) library implemented in Rust.
 - [prae](https://github.com/teenjuna/prae) - Better way to define types that require validation.
+- [Drpc](https://github.com/darkrpc/drpc) - Correct, high performance, robust, easy use Remote invocation framework.
+- [fast_log](https://github.com/rbatis/fast_log) - Log implementation for extreme speed, using Crossbeam to double the efficiency.
+- [mco](https://github.com/co-rs/mco) - Rust Async Coroutine Runtime that combines speed and ease to use.
+- [operational-transform](https://github.com/spebern/operational-transform-rs) - Library for Operational Transformation.
+- [rename-future](https://github.com/ArtBlnd/rename-future) - Can name anonymous Future from async fn without dyn or Box.
+- [Serde Pickle](https://github.com/birkenfeld/serde-pickle) - Rust library for parsing and generating Python pickle streams.
+- [envconfig-rs](https://github.com/greyblake/envconfig-rs) - Initialize config structure from environment variables in Rust without boilerplate.
 
 ## Cargo Plugins
 
@@ -1758,3 +1769,4 @@
 - [cmake-rs](https://github.com/alexcrichton/cmake-rs) - Rust build dependency for running cmake.
 - [Full-Stack Clean Architecture with Rust](https://github.com/flosse/clean-architecture-with-rust)
 - [rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross.
+- [absolution](https://github.com/Manishearth/absolution) - "Freedom from syn": Proc macro tools for operating on token trees.

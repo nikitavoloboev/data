@@ -38,3 +38,5 @@
 - [s2n-quic](https://github.com/aws/s2n-quic) - Rust implementation of the IETF QUIC protocol.
 - [Awesome QUIC](https://github.com/xileteam/awesome-quic)
 - [Unlocking QUIC’s proxying potential with MASQUE (2022)](https://blog.cloudflare.com/unlocking-quic-proxying-potential/) ([HN](https://news.ycombinator.com/item?id=30744739))
+- [SNOCAT](https://github.com/microsoft/snocat) - Framework for forwarding streams across authenticated, encrypted QUIC tunnels, from a tunnel aggregator to a dynamic set of clients.
+- [TUIC](https://github.com/EAimTY/tuic) - Delicately-TUICed high-performance proxy built on top of the QUIC protocol.

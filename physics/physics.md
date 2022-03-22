@@ -288,3 +288,4 @@
 - [A deepening crisis forces physicists to rethink the structure of nature’s laws (2022)](https://www.quantamagazine.org/crisis-in-particle-physics-forces-a-rethink-of-what-is-natural-20220301/) ([HN](https://news.ycombinator.com/item?id=30516078))
 - [What is the most surprising thing we don't know (in physics)? (2022)](https://www.reddit.com/r/AskPhysics/comments/tcqe39/what_is_the_most_surprising_thing_we_dont_know_in/)
 - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature) ([HN](https://news.ycombinator.com/item?id=30666352))
+- [Nonlinear Dynamics: Concise Introduction Interlaced with Code (2022)](https://link.springer.com/book/10.1007/978-3-030-91032-7) ([Code](https://github.com/JuliaDynamics/NonlinearDynamicsTextbook))

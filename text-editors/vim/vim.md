@@ -296,3 +296,4 @@ zz
 - [What’s your favorite vim shortcut/hack (2022)](https://lobste.rs/s/hmpuep/what_s_your_favorite_vim_shortcut_hack)
 - [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/Introduction.html) ([HN](https://news.ycombinator.com/item?id=30684232)) ([Code](https://github.com/learnbyexample/vim_reference))
 - [Vim University](https://github.com/wincent/vim-university) - Curriculum for leveling up your Vim.
+- [Why I love Vim: It’s the lesser-known features that make it so amazing (2016)](https://www.freecodecamp.org/news/learn-linux-vim-basic-features-19134461ab85/)

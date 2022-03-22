@@ -7,3 +7,4 @@
 - [GPJax](https://github.com/thomaspinder/GPJax) - Didactic Gaussian process package for researchers in Jax.
 - [Mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX.
 - [Pipelined Swarm Training](https://github.com/kingoflolz/swarm-jax) - Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes.
+- [JAX MuZero](https://github.com/Hwhitetooth/jax_muzero) - JAX implementation of the MuZero agent.

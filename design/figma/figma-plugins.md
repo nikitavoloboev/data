@@ -84,3 +84,6 @@
 - [Figma Better Font Picker](https://github.com/yenargy/figma-better-font-picker) - Figma plugin to enable better font selections which previews how the font looks like.
 - [Figma Plugins that have been shared on GitHub](https://github.com/thomas-lowry/figma-plugins-on-github)
 - [Continuous Design](https://github.com/mikaelvesavuori/figma-plugin-continuous-design) - Figma plugin that lets you run GitHub Actions workflows from Figma.
+- [Run Plugin API Figma Plugin](https://github.com/ryonakae/figma-plugin-run-plugin-api)
+- [EditText](https://www.figma.com/community/plugin/855231882544507460/EditText) - Simple plugin to edit selected text(s) in real time. ([Code](https://github.com/ryonakae/figma-plugin-edit-text))
+- [Team Library Component Browser](https://www.figma.com/community/plugin/813970431341620710/Team-Library-Component-Browser) - List, browse, and create instance your team library (and local) components. ([Code](https://github.com/ryonakae/figma-plugin-team-library-component-browser))

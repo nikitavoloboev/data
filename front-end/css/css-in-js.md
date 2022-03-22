@@ -49,3 +49,4 @@
 - [Griffel](https://github.com/microsoft/griffel) - CSS-in-JS with ahead-of-time compilation.
 - [vanilla-classnames](https://github.com/Amareis/vanilla-classnames) - Better classnames utility for vanilla-extract.
 - [freestyler](https://github.com/streamich/freestyler) - 5th generation CSS-in-JS library.
+- [Stitches Mixins](https://github.com/joe-bell/stitches-mixins) - Shorthand utils for Stitches.

@@ -24,3 +24,4 @@
 - [GitNow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow.
 - [Done](https://github.com/franciscolourenco/done) - Fish shell package to automatically receive notifications when long processes finish.
 - [HN: Fish 3.4.0](https://news.ycombinator.com/item?id=30734072)
+- [fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous in Fish.

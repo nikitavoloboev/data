@@ -167,3 +167,4 @@
 - [Dude](https://github.com/roniemartinez/dude) - Simple framework for writing a web scraper using Python decorators.
 - [myfaveTT](https://chrome.google.com/webstore/detail/myfavett-download-all-you/gmajiifkcmjkehmngbopoobeplhoegad) - Download all your TikTok Likes. ([HN](https://news.ycombinator.com/item?id=30685938))
 - [Scraping web pages from the command line with shot-scraper (2022)](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) ([HN](https://news.ycombinator.com/item?id=30667588))
+- [Apify SDK](https://github.com/apify/apify-ts) - Scalable web crawling and scraping library for JavaScript.

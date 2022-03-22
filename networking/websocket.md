@@ -81,3 +81,4 @@
 - [soketi](https://github.com/soketi/soketi) - Simple, fast, and resilient open-source WebSockets server. ([Web](https://soketi.app/))
 - [Nuxt WebSocket](https://github.com/deepsourcelabs/nuxt-websocket) - Tiny Nuxt.js module for WebSocket interactions.
 - [ws-tool](https://github.com/PrivateRookie/ws-tool) - Easy to use websocket client/server toolkit, supporting blocking/async IO.
+- [websocket](https://github.com/gopherjs/websocket) - Provides high and low-level bindings for the browser's WebSocket API.

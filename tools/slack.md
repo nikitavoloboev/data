@@ -62,3 +62,4 @@
 - [Hermod](https://github.com/uswitch/hermod) - Tracks deployments as they roll out and posts useful status updates into Slack.
 - [slackstatus](https://github.com/pteich/slackstatus) - Simple CLI tool and Go library to post formatted status messages to a Slack channel.
 - [Nice Slack apps/bots to add (2022)](https://twitter.com/coreyhainesco/status/1503521371267088387)
+- [Slack's Secret STDERR Messages (2021)](https://www.brendangregg.com/blog/2021-08-27/slack-crashes-secret-stderr.html)

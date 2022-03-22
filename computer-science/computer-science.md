@@ -183,3 +183,4 @@
 - [Software Foundations: mathematical underpinnings of reliable software](https://softwarefoundations.cis.upenn.edu/)
 - [We're Building Computers Wrong (2022)](https://www.youtube.com/watch?v=GVsUOuSjvcg)
 - [Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)
+- [Awesome Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)

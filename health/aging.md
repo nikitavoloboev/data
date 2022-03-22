@@ -48,7 +48,7 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Quantitative Translation of Dog-to-Human Aging (2020)](<https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf>) ([HN](https://news.ycombinator.com/item?id=23730613))
 - [Anti-ageing: Where We Are At Now And The Various Drugs And Companies In The Field (2020)](https://www.reddit.com/r/singularity/comments/hlm7i5/antiageing_where_we_are_at_now_and_the_various/)
 - [Longevity — what we know so far (2020)](https://www.youtube.com/watch?v=R719BANcwkA) ([Notes](https://twitter.com/ArtirKel/status/1380237279881351171))
-- [Calico](https://www.calicolabs.com/) - Research longevity.
+- [Calico](https://www.calicolabs.com/) - Research longevity. ([GitHub](https://github.com/calico))
 - [Who Gets to Solve Death? (2020)](https://divinations.substack.com/p/who-gets-to-solve-death)
 - [Learnings from Running a Longevity Startup (2020)](https://www.celinehh.com/year-1-learnings) ([HN](https://news.ycombinator.com/item?id=24923116))
 - [Elder Guide](https://elderguide.com/) - Nationwide Nursing Home Facts and Statistics.

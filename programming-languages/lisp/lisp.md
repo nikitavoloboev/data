@@ -180,3 +180,4 @@
 - [Interaction Nets in JS](https://github.com/cicada-lang/inet)
 - [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C.
 - [Sjsonnet](https://github.com/databricks/sjsonnet) - JVM implementation of the Jsonnet configuration language.
+- [rs-lisp](https://github.com/ktfth/rs-lisp) - Small lisp interpreter written in Rust.

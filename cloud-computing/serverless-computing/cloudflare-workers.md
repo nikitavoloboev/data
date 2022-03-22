@@ -132,3 +132,6 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [worker-kv](https://github.com/zebp/worker-kv) - Rust bindings to Cloudflare Worker KV Stores.
 - [Cloudflare + Google = supercharged web surfing](https://github.com/alii/search)
 - [Sending Email from Cloudflare Workers for free](https://community.cloudflare.com/t/send-email-from-workers-using-mailchannels-for-free/361973) ([HN](https://news.ycombinator.com/item?id=30533032))
+- [Worker Tools](https://workers.tools/) - Utilities for working with worker backends such as Cloudflare Workers. ([GitHub](https://github.com/worker-tools))
+- [Durable Objects template](https://github.com/cloudflare/durable-objects-template) - Template for kick-starting a Cloudflare Workers project that uses Durable Objects.
+- [Cloudflare file hosting](https://github.com/judge2020/cloudflare-file-hosting) - Uses Workers KV to enable Cloudflare as a file host.

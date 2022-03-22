@@ -356,3 +356,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Looks Roar](https://github.com/3lpsy/looks-roar) - Project for working with NFTs and NFT markets.
 - [Ask HN: Has anyone come up with a use for blockchain yet? (2022)](https://news.ycombinator.com/item?id=30741841)
 - [Ask HN: Are Web3 and DApps the Future? (2022)](https://news.ycombinator.com/item?id=30743918)
+- [Web3 examples that aren't blockchain](https://twitter.com/polotek/status/1505608551552602112)

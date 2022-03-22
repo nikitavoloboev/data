@@ -1,5 +1,7 @@
 # Programming
 
+[CodeCrafters](https://codecrafters.io/) projects are nice.
+
 ## Notes
 
 - [How to write fast code: reduce memory access. All of these tips stem from that: 1. Reduce the size of your data structures so more can fit in CPU cache. 2. Replace strings with numbers. 3. Make use of bit flags. Don’t waste space on booleans. 4. Access memory linearly. 5. Make judicious use of the heap. Inline the most commonly accessed values, move large or less common ones to the heap. 6. Model data like a database. Normalize commonly used structures and pass ids rather than copying them around. 7. Consider using a struct of arrays rather than an array of structs. For example, if you have two types of value, store them in separate arrays instead of a single one with a type field. This reduces memory usage and makes iterating by type linear.](https://twitter.com/devongovett/status/1504476131818237967)
@@ -533,3 +535,7 @@
 - [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns) ([HN](https://news.ycombinator.com/item?id=30576109))
 - [Awesome Bug Bounty Tools](https://github.com/vavkamil/awesome-bugbounty-tools)
 - [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
+- [Please Put Units in Names or use strong types](https://ruudvanasseldonk.com/2022/03/20/please-put-units-in-names) ([HN](https://news.ycombinator.com/item?id=30749134))
+- [Ask HN: I'd like to practice coding GUI from scratch. Any recommendations? (2022)](https://news.ycombinator.com/item?id=30746110)
+- [Literate programming is much more than just commenting code (2022)](https://justinmeiners.github.io/literate-programming/) ([HN](https://news.ycombinator.com/item?id=30760835))
+- [Awesome Codemods](https://github.com/rajasegar/awesome-codemods)

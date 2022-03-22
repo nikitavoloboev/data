@@ -307,3 +307,6 @@
 - [Alpa](https://github.com/alpa-projects/alpa) - Automatically parallelizes tensor computational graphs and runs them on a distributed cluster.
 - [GPBoost](https://github.com/fabsig/GPBoost) - Combining Tree-Boosting with Gaussian Process and Mixed Effects Models.
 - [CORDS](https://github.com/decile-team/cords) - Reduce end to end training time from days to hours (or hours to minutes), and energy requirements/costs by an order of magnitude using coresets and data selection.
+- [DISTIL](https://github.com/decile-team/distil) - Cut down your labeling cost and time by 3x-5x.
+- [OpenFL](https://github.com/intel/openfl) - Open-Source Framework For Federated Learning.
+- [Basenji](https://github.com/calico/basenji) - Sequential regulatory activity predictions with deep convolutional neural networks.

@@ -68,6 +68,7 @@
 - [NextJS Lite Example](https://github.com/shaneosullivan/NextJSLiteExample) - Server side only rendering.
 - [next-markdown](https://github.com/frouo/next-markdown) - Easily generate pages from markdown files in any Next.js project.
 - [THUBurrow](https://github.com/BobAnkh/THUBurrow) - Forum built by Next.js and Rocket.
+- [Materio](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Powerful & Comprehensive free Next.js React admin template based on MUI.
 
 ## NextJS plugins
 
@@ -331,3 +332,5 @@
 - [Keystone Next Auth](https://github.com/OpenSaasAU/keystone-nextjs-auth)
 - [How to create a link preview with Next.js, Prisma and TailwindCSS (2022)](https://hashnode.com/post/how-to-create-a-link-preview-with-nextjs-prisma-and-tailwindcss-cl0phma0006fx2onvhgsbebry)
 - [Upgrading Next.js for instant performance improvements (2022)](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)
+- [Nexus](https://github.com/oslabs-beta/Nexus) - NextJS VScode extension to visualize component tree. ([Web](https://nexus-js.com/)) ([Intro](https://levelup.gitconnected.com/introducing-nexus-a-component-tree-visualizer-for-next-js-1109f31e118e))
+- [Building a Marketing Platform with Next.js, Cloudflare, & Contentful (2022)](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)

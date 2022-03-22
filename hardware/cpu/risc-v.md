@@ -154,3 +154,7 @@
 - [RISC-V Guide](https://github.com/mikeroyal/RISC-V-Guide)
 - [RISC-V Architecture Test SIG](https://github.com/riscv-non-isa/riscv-arch-test)
 - [Addressing Criticism of RISC-V Microprocessors (2022)](https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284) ([HN](https://news.ycombinator.com/item?id=30740433))
+- [RISC-V GNU Compiler Toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain)
+- [Cross-Compiling Rust for RISC-V (2022)](https://danielmangum.com/posts/risc-v-bytes-rust-cross-compilation/)
+- [Coffer](https://github.com/jwnhy/coffer) - RISC-V Trusted Execution Environment.
+- [VRoom](https://moonbaseotago.github.io/about/) - High end RISC-V implementation. ([HN](https://news.ycombinator.com/item?id=30755716)) ([Code](https://github.com/MoonbaseOtago/vroom))

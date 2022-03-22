@@ -194,6 +194,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Raphael Sprenger](https://garden.raphaelsprenger.de/index.html)
 - [Личная вики](https://ndrewnee.gitbook.io/wiki/)
 - [Boris Mann](https://bmannconsulting.com/)
+- [The Wise Opportunist](https://opportunist.luseeds.com/)
 - [Constantin Campean's Almanacs](https://github.com/costinEEST/almanacs)
 - [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
 - [Ruben Rodrigues's Wiki](https://github.com/rubrodc/ruben-2.0)
@@ -448,4 +449,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [AI note garden: link suggestions (2022)](https://smus.com/ai-note-garden-linker/)
 - [My Notebook System](http://ratfactor.com/notes) ([HN](https://news.ycombinator.com/item?id=30395238))
 - [Write plain text files](https://sive.rs/plaintext) ([HN](https://news.ycombinator.com/item?id=30521545))
-- [Plaintext Productivity](https://plaintext-productivity.net/)
+- [Plaintext Productivity](https://plaintext-productivity.net/) ([HN](https://news.ycombinator.com/item?id=30745524))

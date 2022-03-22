@@ -712,7 +712,7 @@
 - [Two.js](https://github.com/jonobr1/two.js) - Renderer agnostic two-dimensional drawing api for the web. ([Docs](https://two.js.org/))
 - [markup-it](https://github.com/GitbookIO/markup-it) - JavaScript library to parse and serialize markup content (Markdown and HTML).
 - [h3-js](https://github.com/uber/h3-js) - JavaScript version of H3, a hexagon-based geospatial indexing system.
-- [Floating UI](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more. ([Web](https://www.floating-ui.com/))
+- [Floating UI](https://github.com/atomiks/floating-ui) - JavaScript positioning library for tooltips, popovers, dropdowns, and more. ([Web](https://www.floating-ui.com/)) ([Twitter](https://twitter.com/floating_ui))
 - [flow-field](https://github.com/romellogoodman/flow-field.js) - Library for generating flow fields.
 - [taki](https://github.com/egoist/taki) - Take a snapshot of any website.
 - [Zooming](https://github.com/kingdido999/zooming) - Image zoom that makes sense.
@@ -844,6 +844,11 @@
 - [primitive-geometry](https://github.com/dmnsgn/primitive-geometry) - Geometries for 3D rendering, including normals, UVs and cell indices (faces).
 - [many-level](https://github.com/Level/many-level) - Share an abstract-level database over the network or other kind of stream.
 - [local-storage-proxy](https://github.com/bcomnes/local-storage-proxy) - Work with window.localStorage as if it were an object.
+- [write-pkg](https://github.com/sindresorhus/write-pkg) - Write a package.json file.
+- [KDBush](https://github.com/mourner/kdbush) - Fast static index for 2D points.
+- [X6](https://github.com/antvis/X6) - JavaScript diagramming library that uses SVG and HTML for rendering.
+- [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching.
+- [TreeModel](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in JavaScript.
 
 ## Links
 

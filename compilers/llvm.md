@@ -109,3 +109,4 @@
 - [Fracture](https://github.com/draperlaboratory/fracture) - Architecture-independent decompiler to LLVM IR.
 - [Reducing WebAssembly size by exploring all executions in LLVM (2022)](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/) ([HN](https://news.ycombinator.com/item?id=30686919))
 - [FileCheck](https://github.com/llvm-swift/FileCheck) - Standalone Swift version of LLVM's flexible pattern matching file verifier.
+- [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html) ([Lobsters](https://lobste.rs/s/jtjrnc/lanai_mystery_cpu_architecture_llvm)) ([HN](https://news.ycombinator.com/item?id=30757889))

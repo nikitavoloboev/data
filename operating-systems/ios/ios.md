@@ -6,6 +6,8 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
 ## Nice OSS iOS Swift apps
 
+- [News](https://github.com/dkhamsing/news) - iOS news app in the style of Apple News.
+- [The Roundtable](https://github.com/Dimillian/The-Roundtable) - Elden Ring companion iOS application in SwiftUI.
 - [Lil Wallet](https://github.com/jordansinger/lil-wallet)
 - [Solstice](https://github.com/daneden/Solstice) - App that tells you how the daylight is changing.
 - [isowords](https://github.com/pointfreeco/isowords) - Word search game on a vanishing cube, built in SwiftUI and the Composable Architecture. ([Web](https://www.isowords.xyz/))
@@ -109,6 +111,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [play.js](https://playdotjs.com/) - Node.js and React Native IDE for iPhone and iPad.
 - [CocoaHub](https://cocoahub.app/) - Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 - [Quick Capture](https://quickcapture.xyz/) - Frictionless note taking on iOS.
+- [Honk](https://honk.me/) - Chat in real-time with friends.
 
 ## Notes
 

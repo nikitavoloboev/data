@@ -321,3 +321,4 @@
 - [Who owns the memory? (2022)](https://belaycpp.com/2022/03/17/who-owns-the-memory/)
 - [C++ basics: Pointers vs iterators (2022)](https://www.sandordargo.com/blog/2022/03/16/iterators-vs-pointers)
 - [C and C++ coding style for best performance](https://www.ibm.com/docs/en/aix/7.1?topic=implementation-c-c-coding-style-best-performance)
+- [Avoiding game crashes related to linked lists (2012)](https://www.codeofhonor.com/blog/avoiding-game-crashes-related-to-linked-lists)

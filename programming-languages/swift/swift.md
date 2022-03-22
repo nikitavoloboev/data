@@ -2,6 +2,10 @@
 
 [Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great. [Advanced Swift Book](https://www.objc.io/books/advanced-swift/) together with [other books by objc.io](https://www.objc.io/books/) are amazing too.
 
+## OSS Swift CLI tools
+
+- [timeui](https://github.com/icanzilb/timeui) - Command line profiling tool with stopwatch, cpu and memory usage.
+
 ## Notes
 
 - [Avoid using AnyCollection.](https://twitter.com/AirspeedSwift/status/1294292068412473347)
@@ -276,3 +280,4 @@
 - [Functional core Imperative shell in Swift. Unidirectional Flow. (2022)](https://swiftwithmajid.com/2022/03/16/functional-core-imperative-shell-in-swift-unidirectional-flow/)
 - [Abstract types and methods in Swift (2022)](https://www.swiftbysundell.com/articles/abstract-types-and-methods/)
 - [Optimization in Swift, part 1 (2022)](https://trycombine.com/posts/swift-performance-concurrency-1/)
+- [Swift Evolution Browser](https://github.com/YusukeHosonuma/Swift-Evolution-Browser)

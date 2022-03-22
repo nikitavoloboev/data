@@ -132,3 +132,4 @@
 - [ActiveRecord::PostgresEnum](https://github.com/bibendi/activerecord-postgres_enum) - Adds migration and schema.rb support to PostgreSQL enum data types.
 - [ActiveInteraction](https://github.com/AaronLasseigne/active_interaction) - Manages application-specific business logic. It's an implementation of the command pattern in Ruby.
 - [TurboFlash](https://github.com/joshmn/turbo_flash) - Automagically include your flash messages in your Ruby on Rails Hotwire TurboStream responses.
+- [RSpec for Rails](https://github.com/rspec/rspec-rails)

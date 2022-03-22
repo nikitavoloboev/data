@@ -109,3 +109,5 @@
 - [Awesome Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs)
 - [An Open Challenge for Inductive Link Prediction on Knowledge Graphs (2022)](https://arxiv.org/abs/2203.01520) ([Code](https://github.com/pykeen/ilpc2022))
 - [Wikidata Data Reuse Days 2022](https://diff.wikimedia.org/event/wikidata-data-reuse-days-2022/)
+- [Bridging Knowledge Graphs to Generate Scene Graphs (2020)](https://arxiv.org/abs/2001.02314) ([Code](https://github.com/alirezazareian/gbnet))
+- [spaCy ANN Linker](https://github.com/microsoft/spacy-ann-linker) - SpaCy pipeline component for generating spaCy KnowledgeBase Alias Candidates for Entity Linking.

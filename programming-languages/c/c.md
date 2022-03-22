@@ -214,9 +214,11 @@
 - [C Portability Lessons from Weird Machines (2018)](https://begriffs.com/posts/2018-11-15-c-portability.html) ([HN](https://news.ycombinator.com/item?id=30417802))
 - [Moving the Linux Kernel to Modern C (2022)](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/) ([HN](https://news.ycombinator.com/item?id=30459634)) ([Lobsters](https://lobste.rs/s/hl5ty0/moving_kernel_modern_c)) ([Reddit](https://www.reddit.com/r/programming/comments/t1mjwn/linus_torvalds_prepares_to_move_the_linux_kernel/))
 - [Debugging with GDB (2022)](https://felix-knorr.net/blog/using_gdb_directly.html) ([HN](https://news.ycombinator.com/item?id=30512302))
+- [Debugging with GDB](https://www.sourceware.org/gdb/current/onlinedocs/gdb.html) ([HN](https://news.ycombinator.com/item?id=30737509))
 - [CMOC](http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html) - 6809 cross-compiler for a C-like language.
 - [C Arrays Are Not Pointers (2021)](https://lovesegfault.com/posts/c-arrays-are-not-pointers/)
 - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi) ([HN](https://news.ycombinator.com/item?id=30660528))
 - [A flexible, lightweight, spin-lock barrier (2022)](https://nullprogram.com/blog/2022/03/13/)
 - [C Isn't A Programming Language Anymore (2022)](https://gankra.github.io/blah/c-isnt-a-language/) ([Lobsters](https://lobste.rs/s/w9sotc/c_isn_t_programming_language_anymore)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/tg55ow/c_isnt_a_programming_language_anymore_faultlore/)) ([Tweet](https://twitter.com/Gankra_/status/1504208394802061326))
 - [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
+- [SubC](https://github.com/qeedquan/gosubc) - Simple subset of C originally written by Nils Holms for teaching newcomers  how to write a compiler.

@@ -121,3 +121,4 @@
 - [Julia macros for beginners (2021)](https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/)
 - [Juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer.
 - [Why We Use Julia, 10 Years Later (2022)](https://julialang.org/blog/2022/02/10years/) ([HN](https://news.ycombinator.com/item?id=30337515))
+- [Optimizing Julia code (2022)](https://huijzer.xyz/posts/inference/)

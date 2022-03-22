@@ -269,6 +269,7 @@
 - [parameterized-utils](https://github.com/GaloisInc/parameterized-utils) - Utilities for using indexed types including containers, equality, and comparison.
 - [hkd](https://github.com/ekmett/hkd) - Higher-kinded data.
 - [Language-ecmascript](https://github.com/jswebtools/language-ecmascript) - Haskell library for parsing, transforming and pretty-printing JavaScript.
+- [sparkle](https://github.com/tweag/sparkle) - Apache Spark applications in Haskell.
 
 ## Notes
 

@@ -88,3 +88,5 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [What movie do you consider to be the greatest of all-time? (2022)](https://www.reddit.com/r/Letterboxd/comments/t7yvsx/what_movie_do_you_consider_to_be_the_greatest_of/)
 - [Engaging movies for short attention span people (2022)](https://www.reddit.com/r/MovieSuggestions/comments/t9kys3/engaging_movies_for_short_attention_span_people/)
 - [Modern movies teach us awful lessons (2022)](https://www.youtube.com/watch?v=Dnuqp4_K7ik) ([HN](https://news.ycombinator.com/item?id=30649814))
+- [Movies that play with your mind (2022)](https://www.reddit.com/r/MovieSuggestions/comments/tis73t/can_you_please_suggest_me_movies_that_play_with/)
+- [Predicting that Dune will win Best Picture by analyzing coughs and sneezes](https://journal-doi.org/10.731/pcbi.1007742/) ([HN](https://news.ycombinator.com/item?id=30764701))

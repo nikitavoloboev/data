@@ -164,6 +164,7 @@
 - [ocaml-websocket](https://github.com/vbmithr/ocaml-websocket) - Websocket library for OCaml.
 - [ORaft](https://github.com/komamitsu/oraft) - Library of Raft consensus algorithm implemented in OCaml.
 - [ocaml-mpsc](https://github.com/haesbaert/ocaml-mpsc) - Lockless Multiple Producer Single Consumer Queue for ocaml-multicore.
+- [Charset](https://github.com/yallop/ocaml-charset) - Fast char sets.
 
 ## Links
 

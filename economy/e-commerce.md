@@ -142,3 +142,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) - Toolkit for building fast and flexible commerce experience applications.
 - [Shopify’s Evolution (2022)](https://stratechery.com/2022/shopifys-evolution/)
 - [Gorgias](https://www.gorgias.com/) - Customer Service Made Easy for Online Stores. ([Twitter](https://twitter.com/gorgiasio))
+- [Karrio](https://www.karrio.io/) - Open Source, On-prem or Private cloud Shipping API. ([Code](https://github.com/karrioapi/karrio))

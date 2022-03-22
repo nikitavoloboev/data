@@ -31,3 +31,6 @@
 - [Eclipse Paho MQTT Python Client](https://github.com/eclipse/paho.mqtt.python)
 - [Cotonic](https://github.com/cotonic/cotonic) - Provides tools to make it possible for these components to cooperate by providing an MQTT publish/subscribe bus.
 - [Free and High Performance MQTT Broker](https://github.com/fhmq/hmq)
+- [MQTT Stresser](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker.
+- [MQTT2Prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway.
+- [Mqttrs](https://github.com/00imvj00/mqttrs) - Rust crate (library) to write MQTT protocol clients and servers.

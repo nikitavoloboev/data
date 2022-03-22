@@ -205,3 +205,6 @@
 - [Dockerfile Dependency graph](https://po3rin.github.io/dockerdot/) - Shows Dockerfile dependency graph. Useful to understand how build Dockerfile. ([Code](https://github.com/po3rin/dockerdot))
 - [apko](https://github.com/chainguard-dev/apko) - Build OCI images using APK directly without Dockerfile.
 - [Check if image tag exists in Container Registry (GitHub) (2022)](https://renehernandez.io/snippets/check-image-tag-container-registry/)
+- [Go Plugin Helpers](https://github.com/docker/go-plugins-helpers) - Go helper packages to extend the Docker Engine.
+- [Terraform Provider for Docker](https://github.com/kreuzwerker/terraform-provider-docker)
+- [Best service that has a one-click deployment of an app with a Dockerfile (2022)](https://twitter.com/jlongster/status/1505926055042981892)

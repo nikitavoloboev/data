@@ -483,3 +483,6 @@
 - [Linux Perf Examples](https://www.brendangregg.com/perf.html) ([HN](https://news.ycombinator.com/item?id=30710280))
 - [Pacoloco](https://github.com/anatol/pacoloco) - Caching proxy server for Arch Linux pacman.
 - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux.
+- [celun](https://github.com/celun/celun) - Customizable embedded Linux using Nix.
+- [Linux needs a explicitly defined userspace API](http://catern.com/linux_api.html)
+- [liburing](https://github.com/axboe/liburing) - io_uring library.

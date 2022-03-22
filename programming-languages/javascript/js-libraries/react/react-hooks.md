@@ -11,6 +11,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [Concave](https://github.com/garbles/concave) - Lens-like state management.
 - [Stook](https://github.com/forsigner/stook) - Minimalist design state management library for React.
 - [Focal](https://github.com/grammarly/focal) - Type safe, expressive and composable state management for React applications.
+- [resso](https://github.com/nanxiaobei/resso) - Reactive shared store of React. No extra re-render.
 
 ## DB
 
@@ -170,6 +171,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [Recoil Persist](https://github.com/polemius/recoil-persist) - Tiny module for recoil to store and sync state to Storage.
 - [React Click Away Listener](https://github.com/ooade/react-click-away-listener) - Tiny React Click Away Listener built with React Hooks.
 - [react-event-hook](https://github.com/etienne-martin/react-event-hook) - Library for emitting and listening to events in a React application.
+- [React Tidy](https://github.com/webNeat/react-tidy) - Collection of atomic, independent, typed, tested and documented React custom hooks.
 
 ## Code
 
@@ -250,3 +252,4 @@ useEffect(() => {
 - [Honestly, what is the best, pain-free state management in React right now? (2022)](https://www.reddit.com/r/reactjs/comments/szuyza/honestly_what_is_the_best_painfree_state/)
 - [Hooks: React’s Do-Notation (2022)](https://devanshj.me/writings/hooks-reacts-do-notation) ([HN](https://news.ycombinator.com/item?id=30495034))
 - [Micro State Management with React Hooks (2022)](https://www.packtpub.com/product/micro-state-management-with-react-hooks/9781801812375) ([Code](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks))
+- [Hooks Considered Harmful (2022)](https://labs.factorialhr.com/posts/hooks-considered-harmful) ([HN](https://news.ycombinator.com/item?id=30753127))

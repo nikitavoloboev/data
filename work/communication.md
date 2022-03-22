@@ -52,6 +52,7 @@
 - [Two insane unlocks: 1. Not caring (or managing) when others know you don’t know something. This lets you ask “dumb” questions, which are often foundational ones. 2. Agreeing with colleagues that feedback isn’t criticism, it’s opportunity. This removes festering frustrations.](https://twitter.com/patrick_oshag/status/1465341857068634117)
 - [My main goal in most convos is to find the thing that makes the other person’s eyes sparkle.](https://twitter.com/mollyfmielke/status/1473652440020910081)
 - [Who you bounce around reflections of the world with seems like the single most influential input on your curiosity, creativity, and how clearly you see the world. incalculable how much being + picking friends that coax conviction and help create contentedness pays off in purpose.](https://twitter.com/mollyfmielke/status/1493634386423468034)
+- [Being low agreeableness is a tax on everyone who happens to encounter you.](https://twitter.com/eigenrobot/status/1505611321533997057)
 
 ## Links
 

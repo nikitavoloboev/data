@@ -112,6 +112,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Aaron Hertzmann](https://aaronhertzmann.com/)
 - [Farid Zakaria](https://fzakaria.com/)
 - [Andy White](https://andywhite.xyz/posts/)
+- [Rik Huijzer](https://huijzer.xyz/)
 
 ## Notes
 
@@ -222,3 +223,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Scientific blog template based on AI Summer](https://github.com/The-AI-Summer/blog-template)
 - [Sairin](https://github.com/djyde/sairin) - Blog engine based on GitHub issue with the power of Next.js ISR.
 - [Beam](https://github.com/planetscale/beam) - Simple message board for your organization or project. ([HN](https://news.ycombinator.com/item?id=30457960)) ([Intro](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads)) -
+- [Indie Microblogging book](https://github.com/microdotblog/indie-microblogging)

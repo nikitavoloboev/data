@@ -28,3 +28,4 @@
 - [Azure Rust Pipelines](https://github.com/crate-ci/azure-pipelines) - Easy continuous integration for Rust projects with Azure Pipelines.
 - [Azure Mission-Critical](https://github.com/Azure/Mission-Critical) - Design methodology and approach to building highly-reliable applications on Microsoft Azure for mission-critical workloads.
 - [Azure Pipelines Task SDK](https://github.com/microsoft/azure-pipelines-task-lib)
+- [Awesome Azure Policy](https://github.com/globalbao/awesome-azure-policy)

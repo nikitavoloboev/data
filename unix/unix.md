@@ -75,3 +75,4 @@
 - [Unix Text Processing Book](https://github.com/larrykollar/Unix-Text-Processing) ([HN](https://news.ycombinator.com/item?id=30396667))
 - [The history (sort of) of service management in Unix (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/ServiceManagementHistory)
 - [Cron best practices (2016)](https://blog.sanctum.geek.nz/cron-best-practices/) ([HN](https://news.ycombinator.com/item?id=30636872))
+- [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)

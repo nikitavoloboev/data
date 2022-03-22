@@ -168,6 +168,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Jesperish](https://www.instagram.com/jesperish/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
+- [Lucy Zhang](https://www.instagram.com/citruslucy/) ([Web](https://www.lucyzhangportfolio.com/))
 - [Viktor Vasnetsov](https://en.wikipedia.org/wiki/Viktor_Vasnetsov)
 - [Nicholas Kole](https://www.instagram.com/nicholaskole/) ([Web](https://www.nicholaskole.art/))
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)

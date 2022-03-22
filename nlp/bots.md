@@ -39,3 +39,4 @@
 - [“Chatbots: Still Dumb After All These Years” (2022)](https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/) ([HN](https://news.ycombinator.com/item?id=29934335))
 - [How To Design A Chat Bot (2022)](https://blog.cofree.coffee/2022-02-14-how-to-design-a-chat-bot/)
 - [Botmaker](https://botmaker.com/en/) - Conversations to Grow Your Business. ([Dev Docs](https://botmaker.com/en/developers))
+- [BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.

@@ -443,3 +443,4 @@ for i, _ in enumerate(nums):
 - [Extreme IO performance with parallel Apache Parquet in Python (2017)](https://wesmckinney.com/blog/python-parquet-multithreading/)
 - [perflint](https://github.com/tonybaloney/perflint) - Pylint extension for performance anti patterns.
 - [Processing large JSON files in Python without running out of memory (2022)](https://pythonspeed.com/articles/json-memory-streaming/)
+- [Daily dose of Python](https://jerry-git.github.io/daily-dose-of-python/) - Advanced Python tips and tricks in easy to digest format. ([Code](https://github.com/jerry-git/daily-dose-of-python))

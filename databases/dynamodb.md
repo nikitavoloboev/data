@@ -80,3 +80,4 @@
 - [typesafe-dynamodb](https://github.com/sam-goodwin/typesafe-dynamodb) - TypeSafe type definitions for the AWS DynamoDB API.
 - [serde_dynamodb](https://github.com/mockersf/serde_dynamodb) - Talk with dynamodb using your existing structs thanks to serde.
 - [Happy 10th Birthday, DynamoDB (2022)](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/)
+- [Serverless Typescript Demo](https://github.com/aws-samples/serverless-typescript-demo) - Simple serverless application built in Typescript and uses Node.js 14 runtime.

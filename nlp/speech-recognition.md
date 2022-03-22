@@ -108,3 +108,7 @@
 - [HuggingSound](https://github.com/jonatasgrosman/huggingsound) - Toolkit for speech-related tasks based on HuggingFace's tools.
 - [hear](https://github.com/sveinbjornt/hear) - macOS speech recognition via the command line.
 - [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation (2021)](https://arxiv.org/abs/2103.06695) ([Code](https://github.com/nttcslab/byol-a))
+- [Edinburgh Speech Tools](https://github.com/festvox/speech_tools)
+- [rVADfast](https://github.com/zhenghuatan/rVADfast) - Python library for an unsupervised, fast method for robust voice activity detection.
+- [NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - Research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc.

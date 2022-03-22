@@ -107,3 +107,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [How to Drop Out](https://ranprieur.com/essays/dropout.html) ([HN](https://news.ycombinator.com/item?id=30318285))
 - [List of resources on how/why to do a PhD](https://github.com/macoj/phd)
 - [Awesome PhD](https://github.com/helenahartmann/awesome-PhD)
+- [I think US college education is nearer to collapsing than it appears (2022)](https://twitter.com/sama/status/1505597901011005442) ([HN](https://news.ycombinator.com/item?id=30744925))

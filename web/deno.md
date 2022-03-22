@@ -197,3 +197,6 @@
 - [Deno 1.20 (2022)](https://deno.com/blog/v1.20) ([HN](https://news.ycombinator.com/item?id=30711245))
 - [Bazel rules for Deno](https://github.com/aspect-build/rules_deno)
 - [Oak GraphQL](https://github.com/aaronwlee/oak-graphql) - Simple GraphQL middleware for oak Deno framework.
+- [unknownutil](https://github.com/lambdalisue/deno-unknownutil) - Utility pack for handling unknown type in deno.
+- [itertools](https://github.com/lambdalisue/deno-itertools) - TypeScript port of Python's itertools and more-itertools for Deno.
+- [Deno Standard Modules](https://github.com/denoland/deno_std) ([Web](https://deno.land/std/))

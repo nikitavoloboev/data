@@ -559,3 +559,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work) ([HN](https://news.ycombinator.com/item?id=30594233))
 - [Database Naming Convention](https://github.com/RootSoft/Database-Naming-Convention)
 - [RepliByte](https://github.com/Qovery/replibyte) - Simplest Way To Synchronize Your Cloud Databases.
+- [Amazon Aurora: Design Considerations + On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes (2022)](https://muratbuffalo.blogspot.com/2022/03/amazon-aurora-design-considerations-and.html?m=1)

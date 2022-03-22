@@ -94,3 +94,6 @@
 - [Panolens.js](https://github.com/pchen66/panolens.js) - JavaScript panorama viewer based on Three.js.
 - [React Three Scissor](https://github.com/pmndrs/react-three-scissor) - Multiple scenes, one canvas! WebGL Scissoring implementation for React Three Fiber.
 - [Custom Shader Material](https://github.com/FarazzShaikh/THREE-CustomShaderMaterial) - Extend Three.js standard materials with your own shaders.
+- [Three.js Immersive Controls](https://github.com/DePasqualeOrg/three-immersive-controls) - Immersive (VR) controls for Three.js.
+- [R3F-Perf](https://github.com/utsuboco/r3f-perf) - Easily monitor your ThreeJS performances.
+- [ThreeJS GPU path tracer](https://github.com/gkjohnson/three-gpu-pathtracer) - Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.

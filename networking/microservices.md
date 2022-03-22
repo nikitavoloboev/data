@@ -101,3 +101,4 @@
 - [Starlane](https://github.com/mechtronium/starlane) - Resource Mesh that enables micro services to create, find, watch and use various micro resources across the enterprise as well as message other micro services.
 - [Cabourotte](https://github.com/mcorbin/cabourotte) - Monitoring tool to execute healthchecks on your infrastructure.
 - [Understanding why Resilience Faults in Microservice Applications Occur (2022)](https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.html)
+- [Microservices: Why Are We Doing This? (2022)](https://michaeldehaan.substack.com/p/microservices-why-are-we-doing-this) ([HN](https://news.ycombinator.com/item?id=30758723))

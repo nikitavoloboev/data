@@ -193,3 +193,5 @@
 - [Podman can transfer container images without a registry (2022)](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry) ([HN](https://news.ycombinator.com/item?id=30678375))
 - [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/)
 - [Container Canary](https://github.com/NVIDIA/container-canary) - Tool for recording container requirements in a YAML manifest and then validating containers against that manifest.
+- [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package.
+- [Explore Container Images Without A Shell (2021)](https://www.journal.petrausch.info/post/2021/02/explore-container-image/)

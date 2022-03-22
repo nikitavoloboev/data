@@ -45,6 +45,7 @@
 - [EctoJob](https://github.com/mbuhot/ecto_job) - Transactional job queue built with Ecto and GenStage.
 - [TaskBunny](https://github.com/shinyscorpion/task_bunny) - Background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 - [litestream](https://github.com/akoutmos/litestream) - Wraps Litestream so that SQLite databases can be easily backed up.
+- [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 
 ## Test
 
@@ -148,6 +149,7 @@
 - [Semaphore](https://github.com/discord/semaphore) - Fast semaphore using ETS.
 - [MJML](https://github.com/adoptoposs/mjml_nif) - Elixir NIF bindings for the MJML Rust implementation.
 - [gRPC Elixir](https://github.com/elixir-grpc/grpc) - Elixir implementation of gRPC.
+- [Focus](https://github.com/smpoulsen/focus) - Lightweight, pure Elixir functional optics.
 
 ## Links
 

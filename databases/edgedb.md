@@ -11,3 +11,6 @@
 - [Easy EdgeDB - The illustrated textbook](https://www.edgedb.com/easy-edgedb)
 - [CDK EdgeDB Demo](https://github.com/aaronbrighton/cdk-edgedb-demo)
 - [EdgeMorph](https://github.com/dmgolembiowski/edgemorph) - EdgeDB manipulator of relational, polymorphic hierarchies.
+- [EdgeDB RFCs](https://github.com/edgedb/rfcs)
+- [EdgeDB Go](https://github.com/edgedb/edgedb-go)
+- [EdgeDB Python](https://github.com/edgedb/edgedb-python)

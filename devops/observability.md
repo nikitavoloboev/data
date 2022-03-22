@@ -27,10 +27,11 @@
 - [Unpacking Observability: The Observability Stack (2021)](https://adri-v.medium.com/unpacking-observability-the-observability-stack-93d4733e2a72)
 - [The Busy Developers's Guide to Go Profiling, Tracing and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
 - [Hydrolix](https://www.hydrolix.io/) - Elastic cloud data platform built for observability. ([1.1 Billion Taxi Rides using Hydrolix on AWS](https://tech.marksblogg.com/hydrolix-1b-taxi-rides-aws.html))
-- [Axiom](https://www.axiom.co/) - Serverless log management solution. ([GitHub](https://github.com/axiomhq)) ([Twitter](https://twitter.com/AxiomFM))
+- [Axiom](https://www.axiom.co/) - Serverless log management solution. ([GitHub](https://github.com/axiomhq)) ([Twitter](https://twitter.com/AxiomFM)) ([Axiom Elements](https://github.com/axiomhq/axiom-elements))
 - [Free Your Services From Vendor Lock-in With OpenTelemetry (2021)](https://www.youtube.com/watch?v=G-WjD2bg6co)
 - [A tale of Distributed Context (2021)](https://mattburman.com/a-tale-of-distributed-context/)
 - [Calyptia](https://calyptia.com/) - First Mile Observability.
 - [tracing-filter](https://github.com/davidbarsky/tracing-filter) - Query language for filtering tracing spans and events.
 - [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector.
 - [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
+- [Elementary](https://github.com/elementary-data/elementary) - Open-source data observability framework for modern data teams. Move fast and be confident about your data.

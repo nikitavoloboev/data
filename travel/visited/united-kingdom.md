@@ -50,3 +50,4 @@
 - [Ask HN: What has been your experience with bigger tech companies in London? (2022)](https://news.ycombinator.com/item?id=30710106)
 - [How Putin’s Oligarchs Bought London (2022)](https://www.newyorker.com/magazine/2022/03/28/how-putins-oligarchs-bought-london) ([HN](https://news.ycombinator.com/item?id=30728110))
 - [Find and update company information - GOV.UK](https://find-and-update.company-information.service.gov.uk/)
+- [Getting a talent visa in the UK for mortals (2022)](https://blog.goncharov.page/getting-a-talent-visa-in-the-uk-for-mortals)

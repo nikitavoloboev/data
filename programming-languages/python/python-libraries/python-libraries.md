@@ -229,6 +229,7 @@
 - [Klara](https://github.com/usagitoneko97/klara) - Automatic test case generation for python and static analysis library.
 - [detect-test-pollution](https://github.com/asottile/detect-test-pollution) - Tool to detect test pollution.
 - [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
+- [pytest-parallel](https://github.com/browsertron/pytest-parallel) - Pytest plugin for parallel and concurrent testing.
 
 ## Error
 
@@ -760,6 +761,10 @@
 - [skimpy](https://github.com/aeturrell/skimpy) - Light weight tool for creating summary statistics from dataframes.
 - [NoPdb](https://github.com/cifkao/nopdb) - Non-interactive Python Debugger.
 - [Panel](https://github.com/holoviz/panel) - High-level app and dashboarding solution for Python.
+- [wasabi](https://github.com/ines/wasabi) - Lightweight console printing and formatting toolkit.
+- [pointers.py](https://github.com/ZeroIntensity/pointers.py) - Pointers and Memory Management in Python. ([HN](https://news.ycombinator.com/item?id=30744698))
+- [transitions](https://github.com/pytransitions/transitions) - Lightweight, object-oriented finite state machine implementation in Python with many extensions.
+- [nrt](https://github.com/ec-jrc/nrt) - Python package for near real time detection of change in spatio-temporal datasets.
 
 ## Links
 
@@ -857,3 +862,5 @@
 - [GenPy](https://github.com/inducer/genpy) - AST for Python code generation, in Python.
 - [Python finally offloads some batteries (2022)](https://lwn.net/SubscriberLink/888043/66bf43728bb39692/) ([HN](https://news.ycombinator.com/item?id=30716844))
 - [MicroPython Samples](https://github.com/peterhinch/micropython-samples)
+- [filesystem_spec](https://github.com/fsspec/filesystem_spec) - Specification for pythonic filesystems.
+- [ranx](https://github.com/AmenRa/ranx) - Blazing-Fast Python Library for Ranking Evaluation and Comparison.

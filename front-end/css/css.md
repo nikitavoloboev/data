@@ -466,3 +466,4 @@ all: unset
 - [Taming CSS Variables with Web Inspector | WebKit (2022)](https://webkit.org/blog/12303/css-variables-web-inspector/)
 - [How we migrated entirely to CSS Modules (2022)](https://about.sourcegraph.com/blog/migrating-to-css-modules-with-codemods-and-code-insights/)
 - [When or If (2022)](https://meyerweb.com/eric/thoughts/2022/03/14/if-or-when/) ([HN](https://news.ycombinator.com/item?id=30674324))
+- [CSS Cascade Layers Explained (2022)](https://positivethinking.tech/insights/css-cascade-layers-explained/)

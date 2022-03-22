@@ -300,3 +300,4 @@
 - [A brief tour of the PDP-11, the most influential minicomputer of all time (2022)](https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/) ([HN](https://news.ycombinator.com/item?id=30671391))
 - [Semiconductors are more than just processors and GPUs (2022)](https://blog.robertelder.org/semiconductor-example-uses/) ([HN](https://news.ycombinator.com/item?id=30711621))
 - [Trusted Firmware](https://www.trustedfirmware.org/) - Open Source Secure Software - Trusted Firmware.
+- [Mac Studio M1 Ultra Teardown (2022)](https://www.youtube.com/watch?v=IY0gRMpT4AY) ([HN](https://news.ycombinator.com/item?id=30735790))

@@ -211,3 +211,5 @@
 - [webauthn_proxy](https://github.com/Quiq/webauthn_proxy) - Proxy for enforcing webauthn authentication, written in Go.
 - [A Summary of OAuth 2.0 Attack Methods (2022)](https://tutorialboy24.blogspot.com/2022/01/a-summary-of-oauth-20-attack-methods.html) ([HN](https://news.ycombinator.com/item?id=30717470))
 - [PropelAuth](https://www.propelauth.com/) - End-to-end auth service for B2B products. ([HN](https://news.ycombinator.com/item?id=30700770))
+- [ts-ucan](https://github.com/ucan-wg/ts-ucan) - Auth tokens for a distributed, user-controlled world.
+- [UCAN Distributed Auth](https://ucan.xyz/) ([Spec Code](https://github.com/ucan-wg/spec))

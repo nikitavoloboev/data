@@ -14,3 +14,4 @@
 - [Cassandra DataSource for Grafana](https://github.com/HadesArchitect/GrafanaCassandraDatasource) - Visualise time-series data stored in Cassandra/DSE.
 - [latte](https://github.com/pkolaczk/latte) - Latency Tester for Apache Cassandra.
 - [Cassandra Enhancement Proposals (CEP)](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201)
+- [K8ssandra](https://github.com/k8ssandra/k8ssandra) - Open-source distribution of Apache Cassandra for Kubernetes including API services and operational tooling. ([Web](https://k8ssandra.io/))

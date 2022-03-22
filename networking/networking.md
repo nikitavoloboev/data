@@ -431,5 +431,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ask HN: Is Public WiFi Dangerous? (2022)](https://news.ycombinator.com/item?id=30724830)
 - [sniffer](https://github.com/chenjiandongx/sniffer) - Modern alternative network traffic sniffer.
 - [Netproc](https://github.com/berghetti/netproc) - Tool to monitor network traffic based on processes.
-- [A Primer on Proxies (2022)](https://blog.cloudflare.com/a-primer-on-proxies/)
+- [A Primer on Proxies (2022)](https://blog.cloudflare.com/a-primer-on-proxies/) ([HN](https://news.ycombinator.com/item?id=30736610))
 - [Nice computer networking courses (2022)](https://twitter.com/b0rk/status/1505597582227165194)
+- [Hyperspace](https://github.com/kurthildebrand/hyperspace) - Open-Source 3D Location-Based Wireless Mesh Network. ([HN](https://news.ycombinator.com/item?id=30748048))
+- [Smap](https://github.com/s0md3v/Smap) - Replica of Nmap which uses shodan.io's free API for port scanning.

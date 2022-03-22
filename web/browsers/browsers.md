@@ -195,3 +195,5 @@
 - [Ask HN: Full-text browser history search forever? (2022)](https://news.ycombinator.com/item?id=30696451)
 - [Awesome WebExtensions](https://github.com/fregante/Awesome-WebExtensions)
 - [Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic)
+- [Browsers should build features into the browser to make JS libraries smaller or completely unnecessary](https://twitter.com/justinfagnani/status/1505331764213927936)
+- [Beam](https://www.hellobeam.com/) - New way to collect your thoughts and experience the Internet. ([Twitter](https://twitter.com/getonbeam))

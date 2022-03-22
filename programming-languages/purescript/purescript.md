@@ -47,3 +47,4 @@
 - [Pulp](https://github.com/purescript-contrib/pulp) - Build tool for PureScript.
 - [purescript-unlift](https://github.com/tweag/purescript-unlift) - MonadBase, MonadUnliftEffect, MonadUnliftAff, and MonadUnlift.
 - [purescript-convertable-options](https://github.com/natefaubion/purescript-convertable-options) - PureScript semantics for highly-overloaded API interfaces.
+- [PureScript Deku](https://github.com/mikesol/purescript-deku) - PureScript web micro-framework for apps that need to be fast.

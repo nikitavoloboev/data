@@ -21,3 +21,4 @@
 - [Recreating my personal site with Framer Sites (2022)](https://www.youtube.com/watch?v=QwhbBYJBx8A)
 - [Everything about Framer Motion layout animations (2022)](https://blog.maximeheckel.com/posts/framer-motion-layout-animations/) ([Tweet](https://twitter.com/MaximeHeckel/status/1501230512014192640))
 - [Framer Tips](https://framer.tips/)
+- [Motion Developer Tools](https://motion.dev/tools) ([Tweet](https://twitter.com/mattgperry/status/1505918782685921282))

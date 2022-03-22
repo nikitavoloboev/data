@@ -146,3 +146,5 @@
 - [EVcouplings](https://github.com/debbiemarkslab/EVcouplings) - Evolutionary couplings from protein and RNA sequence alignments.
 - [alevin-fry](https://github.com/COMBINE-lab/alevin-fry) - Efficient and flexible tool for processing single-cell sequencing data, currently focused on single-cell transcriptomics and feature barcoding.
 - [Differential Gene Expression using RNA-Seq (Workflow)](https://github.com/twbattaglia/RNAseq-workflow)
+- [solo](https://github.com/calico/solo) - Doublet detection via semi-supervised deep learning.
+- [scNym](https://github.com/calico/scnym) - Semi-supervised adversarial neural networks for single cell classification.

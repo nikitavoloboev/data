@@ -436,6 +436,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [RedisAI Go Client](https://github.com/RedisAI/redisai-go)
 - [GocqlX](https://github.com/scylladb/gocqlx) - All-In-One: CQL query builder, ORM and migration tool.
 - [Memory Cache](https://github.com/rodrigo-brito/memory-cache) - Zero-dependency cache library for storing data in memory with generics.
+- [GoMybatis](https://github.com/zhuxiujia/GoMybatis) - Go ORM Library. Powerful Features like transaction nesting, Optimistic Lock, Logical deletion and more.
 
 ## ML
 
@@ -1431,6 +1432,16 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [art](https://github.com/arriqaaq/art) - Adaptive Radix Tree (ART) implementation in Go.
 - [firebolt](https://github.com/digitalocean/firebolt) - Go framework for streaming ETL, observability data pipeline, and event processing apps.
 - [egoscale](https://github.com/exoscale/egoscale) - Wrapper for the Exoscale public cloud API.
+- [Go-KMS-Wrapping](https://github.com/hashicorp/go-kms-wrapping) - Go library for encrypting values through various KMS providers.
+- [Go Sigar](https://github.com/cloudfoundry/gosigar) - Go implementation of the Sigar API.
+- [JSONC](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go.
+- [magex](https://github.com/carolynvs/magex) - Helper methods for Magefiles.
+- [bufpipe](https://github.com/acomagu/bufpipe) - Buffered IO pipe.
+- [BLAKE3](https://github.com/zeebo/blake3) - Pure Go implementation of BLAKE3 with AVX2 and SSE4.1 acceleration.
+- [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) - Go concurrent-safe, goroutine-safe, thread-safe queue.
+- [Henry](https://github.com/modfin/henry) - Collection of nice to have generic function and algorithms for slices, maps and channels.
+- [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
+- [Exponential Backoff](https://github.com/cenkalti/backoff) - Exponential backoff algorithm in Go. Uses feedback to multiplicatively decrease the rate of some process, in order to gradually find an acceptable rate.
 
 ## Links
 
@@ -1504,3 +1515,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Learn Go with Tests – Generics](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/generics)
 - [Awesome Go Repositories Twitter](https://twitter.com/GolangRepos)
 - [ART: Building a Prefix Search Trie in Go (2022)](https://aly.arriqaaq.com/art-building-a-prefix-search-trie-in-go/)
+- [Hacking sum types with Go generics (2022)](https://blog.lawrencejones.dev/go-sum-type/) ([HN](https://news.ycombinator.com/item?id=30671883))
+- [supply-chain-example](https://github.com/goreleaser/supply-chain-example) - GoReleaser + Go Mod proxying + Cosign keyless signing + Syft SBOM generation example.

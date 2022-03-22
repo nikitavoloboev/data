@@ -185,3 +185,5 @@
 - [Third Time's the Charm? Image and Video Editing with StyleGAN3 (2022)](https://arxiv.org/abs/2201.13433) ([Code](https://github.com/yuval-alaluf/stylegan3-editing))
 - [Fast AdvProp (2022)](https://openreview.net/forum?id=hcoswsDHNAW) ([Code](https://github.com/meijieru/fast_advprop))
 - [Lifespan Age Transformation Synthesis (2020)](https://arxiv.org/abs/2003.09764) ([Code](https://github.com/royorel/Lifespan_Age_Transformation_Synthesis))
+- [DualStyleGAN - Official PyTorch Implementation](https://github.com/williamyang1991/DualStyleGAN)
+- [On Aliased Resizing and Surprising Subtleties in GAN Evaluation (2022)](https://www.cs.cmu.edu/~clean-fid/) ([Code](https://github.com/GaParmar/clean-fid))

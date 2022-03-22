@@ -1,5 +1,7 @@
 # [Godot](https://godotengine.org/)
 
+[This Week in Godot](https://thisweekingodot.com/) is nice newsletter.
+
 ## Nice Godot OSS apps
 
 - [Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity.
@@ -55,3 +57,4 @@
 - [HN: Godot (2022)](https://news.ycombinator.com/item?id=30622830)
 - [Godot Kotlin JVM](https://github.com/utopia-rise/godot-kotlin-jvm) - Kotlin/JVM binding for the Godot Game Engine.
 - [Exporting Blender models for Godot (2020)](https://tam7t.com/blender-godot-export/)
+- [Godot Manager](https://github.com/eumario/godot-manager) - Project, Version and Addons/Plugins manager for Godot Game Engine. ([Reddit](https://www.reddit.com/r/godot/comments/tj62bj/godot_manager_v010_release/))

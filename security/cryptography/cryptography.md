@@ -155,3 +155,4 @@
 - [EasyCrypt](https://github.com/EasyCrypt/easycrypt) - Computer-Aided Cryptographic Proofs.
 - [Pseudorandom Number Generation using LFSR (2022)](https://arpitbhayani.me/blogs/lfsr)
 - [lokey](https://github.com/jpf/lokey) - Tool that makes it easy to work with and convert between cryptographic key formats.
+- [Oblivious Message Retrieval (2021)](https://eprint.iacr.org/2021/1256)

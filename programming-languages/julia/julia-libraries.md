@@ -77,6 +77,8 @@
 - [DiffEqCallbacks.jl](https://github.com/SciML/DiffEqCallbacks.jl) - Library of callbacks for extending the solvers of DifferentialEquations.jl.
 - [DynamicPPL.jl](https://github.com/TuringLang/DynamicPPL.jl) - Implementation of domain-specific language (DSL) for dynamic probabilistic programming.
 - [FluxArchitectures](https://github.com/sdobber/FluxArchitectures.jl) - Complex neural network examples for Flux.jl.
+- [StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl) - Solvers for stochastic differential equations which connect with the scientific machine learning (SciML) ecosystem.
+- [DiffEqOperators.jl](https://github.com/SciML/DiffEqOperators.jl) - Linear operators for discretizations of differential equations and scientific machine learning (SciML).
 
 ## Math
 
@@ -506,6 +508,9 @@
 - [PyCallChainRules](https://github.com/rejuvyesh/PyCallChainRules.jl) - Differentiate python calls from Julia.
 - [Replay](https://github.com/AtelierArith/Replay.jl) - Replay your REPL instructions.
 - [sir-julia](https://github.com/epirecipes/sir-julia) - Various implementations of the classical SIR model in Julia.
+- [EnumX.jl](https://github.com/fredrikekre/EnumX.jl) - What I wish Base.@enum was.
+- [ValSplit.jl](https://github.com/ztangent/ValSplit.jl) - Compile away dynamic dispatch on Val-typed arguments via value-splitting.
+- [EvoTrees](https://github.com/Evovest/EvoTrees.jl) - Boosted trees in Julia.
 
 ## Links
 

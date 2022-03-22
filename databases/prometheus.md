@@ -64,3 +64,4 @@
 - [Prometheus exporter for EdgeRouter](https://github.com/chitoku-k/edgerouter-exporter)
 - [Krius](https://github.com/infracloudio/krius) - Tool to setup Prometheus, Thanos & friends across multiple clusters easily for scale.
 - [Scraper](https://github.com/arriqaaq/scraper) - Simple library to scrape and monitor multiple urls and provide prometheus metrics.
+- [Prometheus Development Dev Shell](https://github.com/roidelapluie/prometheus-nix-dev) - Nix flake to build & run Prometheus.

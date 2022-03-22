@@ -241,3 +241,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [mpw-emu: Emulating 1998-Vintage Mac Compilers (2022)](https://wuffs.org/blog/emulating-mac-compilers)
 - [xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more.
 - [macOS Apple released code](https://github.com/apple-oss-distributions/distribution-macOS)
+- [Apple T2 XPC](https://github.com/duo-labs/apple-t2-xpc) - Tools to explore the XPC interface of Apple's T2 chip.

@@ -156,3 +156,4 @@
 - [Rust Retweet Bot](https://github.com/multimeric/RustLangRetweet) - Rust bot that runs periodically on AWS Lambda and retweets any Tweets matching a query.
 - [Fritter](https://fritter.cc/) - Privacy-friendly Twitter frontend for mobile devices. ([Code](https://github.com/jonjomckay/fritter))
 - [Refined Twitter Lite](https://github.com/giuseppeg/refined-twitter-lite) - Adds UI improvements and new useful features to Twitter Lite.
+- [twprs](https://github.com/travisbrown/twprs) - Twitter profile tools for Rust.

@@ -280,6 +280,7 @@
 - [React Resize Detector](https://github.com/maslianok/react-resize-detector) - Cross-Browser, Event-based, Element Resize Detection for React.
 - [react-spline](https://github.com/splinetool/react-spline) - Allows you to export and use Spline scenes directly in your React websites.
 - [React Use Intercom](https://github.com/devrnt/react-use-intercom) - React Intercom integration powered by hooks.
+- [React Arborist](https://github.com/brimdata/react-arborist) - Sortable, virtual, customizable tree component for React. ([HN](https://news.ycombinator.com/item?id=30759358))
 
 ## Links
 
