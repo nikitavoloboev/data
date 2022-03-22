@@ -1024,6 +1024,7 @@
 - [SwiftPrettyPrint](https://github.com/YusukeHosonuma/SwiftPrettyPrint) - Pretty print for Swift.
 - [PlotUI](https://github.com/ybubnov/PlotUI) - Integrate beautiful minimalistic plots into your app.
 - [Neon](https://github.com/ChimeHQ/Neon) - Swift system for working with language syntax.
+- [SwiftMixin](https://github.com/stackotter/swift-mixin) - Provides all of the functionality required to overwrite functions and methods at runtime.
 
 ## Other (not lib)
 
