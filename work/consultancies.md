@@ -40,6 +40,7 @@
 ## Design
 
 - [Scruples Studio](https://scruples.studio/) - Results-focused websites, built with scruples.
+- [Wireframe Design Studio](https://www.wire-fra.me/)
 - [Raureif](https://raureif.net/) - Experts in typography and user interface design.
 - [Supercreative](https://supercreative.design/)
 - [Filament Group](https://www.filamentgroup.com/) - Design and front-end development studio.

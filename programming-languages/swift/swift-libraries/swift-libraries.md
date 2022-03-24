@@ -449,6 +449,8 @@
 - [MSLView](https://github.com/audulus/MSLView) - SwiftUI view for Shadertoy-style MSL shaders.
 - [Focuser](https://github.com/art-technologies/swift-focuser) - Focus text field in SwiftUI dynamically and progress through form using iOS keyboard.
 - [UIPilot](https://github.com/canopas/UIPilot) - Typesafe SwiftUI navigation library. ([Reddit](https://www.reddit.com/r/iOSProgramming/comments/tei596/swiftui_complex_navigation_made_easier_with/))
+- [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) - SwiftUI TabView that retains the state of each tab as well as some other goodies.
+- [SwiftTabler](https://github.com/openalloc/SwiftTabler) - Multi-platform SwiftUI component for tabular data.
 
 ## Test
 

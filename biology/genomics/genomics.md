@@ -148,3 +148,4 @@
 - [Differential Gene Expression using RNA-Seq (Workflow)](https://github.com/twbattaglia/RNAseq-workflow)
 - [solo](https://github.com/calico/solo) - Doublet detection via semi-supervised deep learning.
 - [scNym](https://github.com/calico/scnym) - Semi-supervised adversarial neural networks for single cell classification.
+- [FLAMES](https://github.com/LuyiTian/FLAMES) - Full-length transcriptome splicing and mutation analysis.

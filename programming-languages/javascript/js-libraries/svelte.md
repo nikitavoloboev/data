@@ -153,7 +153,7 @@
 - [How to use a Rust WebAssembly module in Svelte with Web Workers (2021)](https://martyjon.es/webassembly/rust/svelte/2021/11/28/svelte-wasm-workers-how-to.html)
 - [Svelte's lifecycle methods can be used anywhere (2021)](https://geoffrich.net/posts/svelte-lifecycle-examples/)
 - [svelte-forms](https://github.com/chainlist/svelte-forms) - Svelte forms validation made easy.
-- [Houdini](https://github.com/AlecAivazis/houdini) - Disappearing GraphQL client for Sapper and SvelteKit.
+- [Houdini](https://github.com/HoudiniGraphQL/houdini) - Disappearing GraphQL client for Sapper and SvelteKit. ([Web](https://www.houdinigraphql.com/)) ([Reddit](https://www.reddit.com/r/sveltejs/comments/tkbwf2/houdini_the_graphql_client_just_got_a_serious/))
 - [svelte-popperjs](https://github.com/bryanmylee/svelte-popperjs) - Popper for Svelte with actions, no wrapper components required.
 - [svelte-previous](https://github.com/bryanmylee/svelte-previous) - Svelte stores that remember previous values.
 - [Build an App with SvelteKit and Tailwind CSS (2021)](https://www.youtube.com/watch?v=YipaPr4Aex8)
@@ -201,3 +201,4 @@
 - [Svelte Adapter Deno](https://github.com/pluvial/svelte-adapter-deno) - Adapter for SvelteKit apps that generates a standalone Deno server.
 - [Creating a RSS feed with Sanity and Svelte Kit (2022)](https://ghostdev.xyz/posts/creating-a-rss-feed-with-sanity-and-svelte-kit)
 - [svelte-file-dropzone](https://github.com/thecodejack/svelte-file-dropzone) - Svelte component for file upload.
+- [Render your Svelte code blocks in MDSveX](https://github.com/mattjennings/mdsvexamples)

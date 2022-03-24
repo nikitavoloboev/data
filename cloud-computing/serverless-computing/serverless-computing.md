@@ -151,3 +151,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless Monorepo Microservices Template](https://github.com/swarmion/template)
 - [Swarmion](https://github.com/swarmion/swarmion) - Set of tools to build and deploy type-safe Serverless microservices.
 - [Compute@Edge default starter kit for AssemblyScript](https://github.com/fastly/compute-starter-kit-assemblyscript-default)
+- [Serverless Rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.

@@ -849,6 +849,7 @@
 - [X6](https://github.com/antvis/X6) - JavaScript diagramming library that uses SVG and HTML for rendering.
 - [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching.
 - [TreeModel](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in JavaScript.
+- [fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify.
 
 ## Links
 
@@ -909,3 +910,5 @@
 - [all-the-package-names](https://github.com/nice-registry/all-the-package-names) - List of all the public package names on npm.
 - [find-entry-points](https://github.com/TomerAberbach/find-entry-points) - Find the entry points in a set of JavaScript files.
 - [actual-malware](https://github.com/qpwo/actual-malware) - npm package to upload your private ssh keys to a pastebin. ([HN](https://news.ycombinator.com/item?id=30679098))
+- [What NPM Should Do Today To Stop A New Colors Attack Tomorrow (2022)](https://research.swtch.com/npm-colors) ([Lobsters](https://lobste.rs/s/btw27b/what_npm_should_do_today_stop_new_colors))
+- [only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project.

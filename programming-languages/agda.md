@@ -77,3 +77,4 @@
 - [Cubes](https://github.com/effectfully/Cubes) - Dependently typed type checker for a TT with intervals.
 - [OTT](https://github.com/effectfully/OTT) - Observational Type Theory as an Agda library.
 - [UALib](https://github.com/ualib/ualib.github.io) - Agda Universal Algebra Library.
+- [Fair termination in Agda](https://github.com/boystrange/FairTermination)

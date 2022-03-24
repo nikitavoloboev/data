@@ -51,3 +51,4 @@
 - [upb](https://github.com/protocolbuffers/upb) - Small protobuf implementation written in C.
 - [JSON-to-Proto: Convert JSON to Protobuf instantly](https://json-to-proto.github.io/) ([Code](https://github.com/json-to-proto/json-to-proto.github.io))
 - [go-protoparser](https://github.com/yoheimuta/go-protoparser) - Go package which parses a Protocol Buffer file.
+- [Protoflex](https://github.com/teidesu/protoflex) - Modern JavaScript library for working with arbitrary Protobuf data.

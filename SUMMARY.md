@@ -595,6 +595,7 @@
     - [Greece](travel/visited/greece.md)
     - [Portugal](travel/visited/portugal.md)
     - [Kazakhstan](travel/visited/kazakhstan.md)
+    - [United Arab Emirates](travel/visited/united-arab-emirates.md)
     - [Argentina](travel/visited/argentina.md)
     - [Turkey](travel/visited/turkey.md)
     - [Spain](travel/visited/spain.md)

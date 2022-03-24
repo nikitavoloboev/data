@@ -94,3 +94,6 @@
 - [RadeonTop](https://github.com/clbr/radeontop) - View your GPU utilization, both for the total activity percent and individual blocks.
 - [Vast.ai](https://vast.ai/) - Rent GPU Servers for Deep Learning and AI. ([FAQ](https://vast.ai/faq/)) ([HN](https://news.ycombinator.com/item?id=30736459))
 - [nvitop](https://github.com/XuehaiPan/nvitop) - Interactive NVIDIA-GPU process viewer, the one-stop solution for GPU process management.
+- [Nvidia Hopper GPU Architecture and H100 Accelerator (2022)](https://www.anandtech.com/show/17327/nvidia-hopper-gpu-architecture-and-h100-accelerator-announced) ([HN](https://news.ycombinator.com/item?id=30767586))
+- [Nvidia Grace CPU](https://www.nvidia.com/en-us/data-center/grace-cpu/) ([HN](https://news.ycombinator.com/item?id=30768704))
+- [NVIDIA Warp](https://github.com/NVIDIA/warp) - Python framework for writing high-performance simulation and graphics code.

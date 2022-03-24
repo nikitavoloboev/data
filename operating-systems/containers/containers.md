@@ -195,3 +195,7 @@
 - [Container Canary](https://github.com/NVIDIA/container-canary) - Tool for recording container requirements in a YAML manifest and then validating containers against that manifest.
 - [imgcrypt](https://github.com/containerd/imgcrypt) - OCI Image Encryption Package.
 - [Explore Container Images Without A Shell (2021)](https://www.journal.petrausch.info/post/2021/02/explore-container-image/)
+- [Ask HN: Who operates at scale without containers? (2022)](https://news.ycombinator.com/item?id=30767393)
+- [Podman TUI](https://github.com/containers/podman-tui) - Podman Terminal UI.
+- [Container Desktop](https://github.com/containers/desktop) - Manage different engine containers from a single UI and tray application.
+- [containers/common](https://github.com/containers/common)

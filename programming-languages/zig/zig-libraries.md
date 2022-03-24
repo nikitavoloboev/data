@@ -40,6 +40,7 @@
 ## WASM
 
 - [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Zig embedding of Wasmtime.
+- [wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Zig bindings for the Wasmer WebAssembly runtime.
 
 ## Math
 

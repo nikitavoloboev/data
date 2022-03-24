@@ -4,7 +4,7 @@ TL;DR Russia and most of its people are beautiful and kind but [Russian governme
 
 As for how to get there, for one, western governments should not stop the flow of information between countries ([should not block research from Russians being published, should stop labeling all Russians as aggressors etc.](https://www.youtube.com/watch?v=rTwrrqwa0f4)). Secondly, there should be tools built that can circumvent ability for government to block out ability for people to organize into massive crowds of people at will.
 
-I also hope that that humans stop thinking in terms of factions and groups. There is [no 'The West' as much as there is no 'Russia' as humans are varied](https://www.reddit.com/r/AskARussian/comments/tib295/i_wish_things_go_back_to_the_way_they_were/) and it's these splits into groups that got us into all the wars and conflicts. I don't have a solution for how to solve this though aside from better education and somehow covering the basing needs for all humans with respect to food and shelter so every human doesn't needlessly fight or look for enemies in this unfair world.
+I also hope that that humans stop thinking in terms of factions and groups. There is [no 'The West' as much as there is no 'Russia' as humans are varied](https://www.reddit.com/r/AskARussian/comments/tib295/i_wish_things_go_back_to_the_way_they_were/) and it's these splits into groups that got us into all the wars and conflicts. I don't have a solution for how to solve this, aside from better education and somehow covering the basic needs for all humans with respect to food and shelter so every human doesn't needlessly fight or look for enemies in this unfair world.
 
 > Below is mostly just [my opinion](https://twitter.com/eeberquist/status/1504516448156274695) on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 10. Rest I get from outside media, friends and my occasional visits).
 
@@ -528,3 +528,5 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Cops as the true revolutionary class](https://twitter.com/kamilkazani/status/1505922839785861120)
 - [Russian Asset Tracker](https://cdn.occrp.org/projects/russian-asset-tracker/en/) - Explore the global assets of Russia's oligarchs and enablers. ([Tweet](https://twitter.com/CatharinaFelke/status/1505945634783830017))
 - [Why the Ruble Hasn’t Collapsed Yet (2022)](https://twitter.com/jeuasommenulle/status/1505962132676001796)
+- [Why there should be 'off ramps' provided for wars to end](https://twitter.com/ProfPaulPoast/status/1506241274285899784)
+- [Putin's Way (full documentary) (2022)](https://www.youtube.com/watch?v=NIgqhU4lkgo)

@@ -1,5 +1,7 @@
 # [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
+I prefer more [data oriented programming](https://www.reddit.com/r/Zig/comments/r0l3uz/a_practical_guide_to_applying_dataoriented_design/) than [OO](https://twitter.com/ChevyRay/status/1506406647291293697).
+
 ## Notes
 
 - [DI frameworks seem to encourage a degenerate style of OO design where every class has an interface and every interface has exactly one implementation.](https://twitter.com/einarwh/status/1376814194184585218)

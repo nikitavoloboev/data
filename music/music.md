@@ -194,3 +194,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Museeks](https://museeks.io/) - Simple, clean and cross-platform music player. ([Code](https://github.com/martpie/museeks))
 - [Catalog](https://beta.catalog.works/)
 - [Canon, Collectibles, and Copies: A Music NFT Experiment (2022)](https://chaim.mirror.xyz/0SRGluR6sYweDWV0qmgF6V1wsN0BvEKsvCVOZCFX7yU)
+- [Music-Engines](https://github.com/EhsanFox/music-engines) - Package to fetch a music/artist/album or even playlist from the platform you choose.
+- [Ask HN: Why are some soundtracks of movies so powerful? (2022)](https://news.ycombinator.com/item?id=30773294)

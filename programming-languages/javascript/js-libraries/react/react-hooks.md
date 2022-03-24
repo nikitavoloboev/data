@@ -12,6 +12,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [Stook](https://github.com/forsigner/stook) - Minimalist design state management library for React.
 - [Focal](https://github.com/grammarly/focal) - Type safe, expressive and composable state management for React applications.
 - [resso](https://github.com/nanxiaobei/resso) - Reactive shared store of React. No extra re-render.
+- [statin](https://github.com/tomasklaen/statin) - Simple and tiny reactive state library.
 
 ## DB
 
@@ -172,6 +173,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [React Click Away Listener](https://github.com/ooade/react-click-away-listener) - Tiny React Click Away Listener built with React Hooks.
 - [react-event-hook](https://github.com/etienne-martin/react-event-hook) - Library for emitting and listening to events in a React application.
 - [React Tidy](https://github.com/webNeat/react-tidy) - Collection of atomic, independent, typed, tested and documented React custom hooks.
+- [use-interactions](https://github.com/kitten/use-interactions) - Reusable and common web interactions with WCAG accessibility criteria for React.
 
 ## Code
 

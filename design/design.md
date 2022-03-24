@@ -228,3 +228,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Product Designer Software Stack (2022)](https://twitter.com/jsngr/status/1501979905067737088)
 - [Light mode, Dark mode, and Gen-Z mode? (2022)](https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode) ([HN](https://news.ycombinator.com/item?id=30685587))
 - [Marvel](https://marvelapp.com/) - Rapid prototyping, testing and handoff for modern design teams.
+- [Tome](https://beta.tome.app/) - Storytelling tool for work.

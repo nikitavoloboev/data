@@ -435,3 +435,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Nice computer networking courses (2022)](https://twitter.com/b0rk/status/1505597582227165194)
 - [Hyperspace](https://github.com/kurthildebrand/hyperspace) - Open-Source 3D Location-Based Wireless Mesh Network. ([HN](https://news.ycombinator.com/item?id=30748048))
 - [Smap](https://github.com/s0md3v/Smap) - Replica of Nmap which uses shodan.io's free API for port scanning.
+- [How to properly interpret a traceroute or mtr (2022)](https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/)
+- [Arpchat](https://github.com/kognise/arpchat) - Text your friends on the same network using just ARP. ([HN](https://news.ycombinator.com/item?id=30762921))

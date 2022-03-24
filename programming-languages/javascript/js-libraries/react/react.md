@@ -307,3 +307,4 @@
 - [Delightful React file/directory structure (2022)](https://www.joshwcomeau.com/react/file-structure/) ([HN](https://news.ycombinator.com/item?id=30684777))
 - [Continuous Integration Pipelines with GitHub Actions for (React) Developers (2022)](https://profy.dev/article/continuous-integration-with-github-actions)
 - [Preemptive Memoization In React Is Probably Not Evil (Yet) (2022)](https://www.zhenghao.io/posts/memo-or-not) ([Reddit](https://www.reddit.com/r/javascript/comments/tjlc88/preemptive_memoization_in_react_is_probably_not/))
+- [React Trends: Interview with React Query creator Tanner Linsley (2022)](https://www.youtube.com/watch?v=gJD94psC0ZQ)

@@ -663,3 +663,4 @@
 - [Helm X Plugin](https://github.com/mumoshu/helm-x) - Treat any Kustomization or K8s manifests directory as a Helm chart.
 - [Kubernetes models in TypeScript](https://github.com/tommy351/kubernetes-models-ts)
 - [Helm Teller](https://github.com/SpectralOps/helm-teller) - Allows you to inject configuration and secrets from multiple providers into your chart while masking the secrets at the deployment.
+- [Problems with “graceful shutdown” in Kubernetes (2019)](https://philpearl.github.io/post/k8s_ingress/) ([HN](https://news.ycombinator.com/item?id=30771149))

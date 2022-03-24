@@ -539,3 +539,4 @@
 - [Ask HN: I'd like to practice coding GUI from scratch. Any recommendations? (2022)](https://news.ycombinator.com/item?id=30746110)
 - [Literate programming is much more than just commenting code (2022)](https://justinmeiners.github.io/literate-programming/) ([HN](https://news.ycombinator.com/item?id=30760835))
 - [Awesome Codemods](https://github.com/rajasegar/awesome-codemods)
+- [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)

@@ -14,6 +14,7 @@
 - [Voiceliner](https://a9.io/voiceliner/) - Voice memos-like for Android and iOS. Written in Flutter. ([Code](https://github.com/maxkrieger/voiceliner))
 - [Voice Scribe](https://github.com/KangRuiYu/voice_scribe) - Audio recording and playback app that transcribes speech in real time.
 - [Flyer Chat](https://github.com/flyerhq/flutter_firebase_chat_core) - Actively maintained, community-driven Firebase BaaS for chat applications with an optional chat UI.
+- [Flutter Instagram Clone](https://github.com/GetStream/flutter-instagram-clone) - Instagram clone using Flutter and Stream Feeds.
 
 ## Links
 
@@ -89,3 +90,4 @@
 - [InheritedWidgets, but simple](https://github.com/rrousselGit/provider)
 - [Dartea](https://github.com/p69/dartea) - Elm Architecture (TEA) for Flutter.
 - [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for Flutter apps.
+- [Coding an Instagram Clone With Flutter and Feeds (2022)](https://getstream.io/blog/instagram-clone-flutter/)

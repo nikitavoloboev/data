@@ -152,7 +152,7 @@
 - [Creating a Style System (2020)](https://jonquach.com/posts/creating-a-style-system)
 - [Hawkins: Diving into the Reasoning Behind our Design System (2021)](https://netflixtechblog.com/hawkins-diving-into-the-reasoning-behind-our-design-system-964a7357547)
 - [Design System Questionnaire](https://github.com/bradfrost/design-system-questionnaire)
-- [Component Gallery](https://component.gallery/) - Collection of interface components from real-world design systems.
+- [Component Gallery](https://component.gallery/) - Collection of interface components from real-world design systems. ([Code](https://github.com/inbn/component-gallery))
 - [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
 - [Specify](https://specifyapp.com/) - One Design API, for all your design system tools. ([Specify Parsers](https://github.com/Specifyapp/parsers))
 - [Why I Build Design Systems with Stitches and Radix (2021)](https://ped.ro/blog/why-i-build-design-systems-with-stitches-and-radix) ([Tweet](https://twitter.com/peduarte/status/1388040430860701696))

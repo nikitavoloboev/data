@@ -32,3 +32,4 @@
 - [Verilog grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-verilog)
 - [HDL Reference Designs](https://github.com/analogdevicesinc/hdl)
 - [Caravel Harness](https://github.com/efabless/caravel) - Standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
+- [Verilog Is Weird](https://danluu.com/why-hardware-development-is-hard/) ([HN](https://news.ycombinator.com/item?id=30739866))

@@ -443,3 +443,4 @@
 - [Wasmer Postgres](https://github.com/wasmerio/wasmer-postgres) - Postgres library to run WebAssembly binaries.
 - [pg_task](https://github.com/RekGRpth/pg_task) - PostgreSQL job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously.
 - [pg_curl](https://github.com/RekGRpth/pg_curl) - PostgreSQL curl allows most curl actions.
+- [AintQ](https://github.com/decentfox/aintq) - Python asyncio task queue on PostgreSQL.

@@ -110,3 +110,4 @@
 - [Reducing WebAssembly size by exploring all executions in LLVM (2022)](https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/) ([HN](https://news.ycombinator.com/item?id=30686919))
 - [FileCheck](https://github.com/llvm-swift/FileCheck) - Standalone Swift version of LLVM's flexible pattern matching file verifier.
 - [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html) ([Lobsters](https://lobste.rs/s/jtjrnc/lanai_mystery_cpu_architecture_llvm)) ([HN](https://news.ycombinator.com/item?id=30757889))
+- [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds (2022)](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864)

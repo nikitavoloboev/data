@@ -21,6 +21,7 @@
 - [PlanetScale Docs](https://docs.planetscale.com/) ([Code](https://github.com/planetscale/docs))
 - [Datadog Docs](https://docs.datadoghq.com/) ([Code](https://github.com/DataDog/documentation))
 - [Strapi Docs](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) ([Code](https://github.com/strapi/documentation))
+- [Increase API Reference](https://increase.com/documentation#api-reference)
 
 ## Notes
 

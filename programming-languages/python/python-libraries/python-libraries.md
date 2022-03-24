@@ -765,6 +765,9 @@
 - [pointers.py](https://github.com/ZeroIntensity/pointers.py) - Pointers and Memory Management in Python. ([HN](https://news.ycombinator.com/item?id=30744698))
 - [transitions](https://github.com/pytransitions/transitions) - Lightweight, object-oriented finite state machine implementation in Python with many extensions.
 - [nrt](https://github.com/ec-jrc/nrt) - Python package for near real time detection of change in spatio-temporal datasets.
+- [kLoop](https://github.com/fantix/kloop) - Asyncio event loop using Linux io_uring and kTLS.
+- [Tributary](https://github.com/timkpaine/tributary) - Streaming reactive and dataflow graphs in Python.
+- [Atomos](https://github.com/maxcountryman/atomos) - Atomic primitives for Python. ([Docs](https://atomos.readthedocs.io/en/latest/))
 
 ## Links
 

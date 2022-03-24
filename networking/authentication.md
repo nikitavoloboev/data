@@ -213,3 +213,4 @@
 - [PropelAuth](https://www.propelauth.com/) - End-to-end auth service for B2B products. ([HN](https://news.ycombinator.com/item?id=30700770))
 - [ts-ucan](https://github.com/ucan-wg/ts-ucan) - Auth tokens for a distributed, user-controlled world.
 - [UCAN Distributed Auth](https://ucan.xyz/) ([Spec Code](https://github.com/ucan-wg/spec))
+- [BoxyHQ](https://boxyhq.com/) - Open-source alternative to Auth0/WorkOS. ([HN](https://news.ycombinator.com/item?id=30767084))

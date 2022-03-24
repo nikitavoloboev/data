@@ -223,3 +223,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers)
 - [How to pay professional maintainers (2022)](https://words.filippo.io/pay-maintainers/)
 - [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
+- [Ask HN: Do you contribute to open source projects? (2022)](https://news.ycombinator.com/item?id=30765596)

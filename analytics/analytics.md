@@ -93,3 +93,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Census](https://www.getcensus.com/) - Operational Analytics. Sync data from your warehouse into all your business tools. ([Article](https://blog.getcensus.com/series-b-the-future-of-operational-analytics/))
 - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [consent-manager](https://github.com/segmentio/consent-manager) - Drop-in consent management plugin for analytics.js.
+- [AppSignal](https://www.appsignal.com/) - Application Monitoring for Ruby on Rails, Elixir & Node.js.

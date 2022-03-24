@@ -141,3 +141,4 @@
 - [DDP: Decentralisation Design Principles](https://github.com/thisisbullish/ddp)
 - [Protocol Labs Research](https://github.com/protocol/research)
 - [dokieli](https://dokie.li/) - Client side editor for decentralized article publishing, annotations and social interactions. ([Code](https://github.com/linkeddata/dokieli))
+- [Web3 is centralized and inefficient (2022)](https://www.neelc.org/posts/web3-centralized/) ([HN](https://news.ycombinator.com/item?id=30774457))

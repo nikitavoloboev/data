@@ -329,3 +329,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [List of new budding programming languages and their interesting features (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/thcqko/a_list_of_new_budding_programming_languages_and/)
 - [Generics syntax in different languages (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tibrzi/generics_syntax_in_different_languages/)
 - [Ask HN: Are you using actors in production? Why/Why not? (2022)](https://news.ycombinator.com/item?id=30745047)
+- [A Typed Programming Language: The Semantics of Rank Polymorphism (2020)](https://ccs.neu.edu/~jrslepak/Dissertation.pdf)

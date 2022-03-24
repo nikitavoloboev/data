@@ -1,5 +1,7 @@
 # [SQLite](https://www.sqlite.org/index.html)
 
+[Litestream](https://github.com/benbjohnson/litestream) is neat.
+
 ## Notes
 
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)

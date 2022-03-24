@@ -400,6 +400,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tswhy](https://github.com/kitsonk/tswhy) - Community effort to enrich TypeScript diagnostics.
 - [vConsole](https://github.com/Tencent/vConsole) - Lightweight, extendable front-end developer tool for mobile web page.
 - [Boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript.
+- [Cucumber Screenplay](https://github.com/cucumber/screenplay.js) - Library to ease implementation of the Screenplay pattern with CucumberJS.
 
 ## Links
 

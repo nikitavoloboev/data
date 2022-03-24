@@ -545,3 +545,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Direct Deposit Module for Make](https://github.com/makerdao/dss-direct-deposit) - Interfaces with third party lending protocols to enable a maximum variable borrow rate for selected assets.
 - [Cairo Goldmine](https://github.com/beautyisourbusiness/cairo-goldmine) - Comprehensive, annotated list of repositories of the starknet ecosystem.
 - [Heliaia](https://github.com/GregTheGreek/Heliaia) - Proxy that sits between your wallet and a node, with the sole purpose to intercept transactions before they are broadcasted.
+- [Reimplement Simple Arbitrage in Rust](https://github.com/thasarito/simple-arbitrage-rs)
+- [Juno](https://github.com/NethermindEth/juno) - Starknet client implementation.
+- [foundry-upgrades](https://github.com/odyslam/foundry-upgrades) - Helper smart contracts to deploy and manage upgradeable contracts on Ethereum.
+- [mev-boost](https://github.com/flashbots/mev-boost) - Middleware server written in Go, that sits between an ethereum PoS consensus client and an execution client.

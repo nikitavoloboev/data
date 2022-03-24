@@ -93,7 +93,7 @@
 - [What are the most important statistical ideas of the past 50 years? (2020)](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/) ([Article](https://statmodeling.stat.columbia.edu/2020/12/09/what-are-the-most-important-statistical-ideas-of-the-past-50-years/)) ([HN](https://news.ycombinator.com/item?id=26374788)) ([HN](https://news.ycombinator.com/item?id=30417811))
 - [Comments on ML "versus" statistics (2020)](https://sgfin.github.io/2020/01/31/Comments-ML-Statistics/)
 - [Nice Statistics term names (2021)](https://twitter.com/erikbryn/status/1376250955612581890)
-- [Lisp-Stat](https://lisp-stat.dev/) - Environment for Statistical Computing. ([Code](https://github.com/Lisp-Stat/lisp-stat)) ([HN](https://news.ycombinator.com/item?id=26632429))
+- [Lisp-Stat](https://lisp-stat.dev/) - Environment for Statistical Computing. ([Code](https://github.com/Lisp-Stat/lisp-stat)) ([HN](https://news.ycombinator.com/item?id=26632429)) ([Statistical Analysis with Lisp-Stat](https://lisp-stat.dev/blog/2021/05/09/statistical-analysis-with-lisp-stat/))
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) - Light-hearted yet rigorous approach to learning impact estimation and sensitivity analysis. ([Code](https://github.com/matheusfacure/python-causality-handbook))
 - [Statistical approaches for performance analysis (2020)](https://aakinshin.net/posts/statistics-for-performance/)
 - [Bayesian Analysis Recipes](https://github.com/ericmjl/bayesian-analysis-recipes)

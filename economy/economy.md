@@ -146,3 +146,4 @@
 - [Modern Monetary Theory, explained (2019)](https://www.vox.com/future-perfect/2019/4/16/18251646/modern-monetary-theory-new-moment-explained)
 - [Any book or essay recommendations that talk about alternatives to our current economy or society? (2022)](https://www.reddit.com/r/simpleliving/comments/ti2nz0/any_book_or_essay_recommendations_that_talk_about/)
 - [Wealth: A New Era of Economics (2015)](https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441)
+- [Wartime Commercial Policy and Trade between Enemies (2021)](https://direct.mit.edu/isec/article/46/1/9/102856/Wartime-Commercial-Policy-and-Trade-between?utm_source=pocket_mylist)

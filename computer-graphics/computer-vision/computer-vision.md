@@ -627,3 +627,4 @@
 - [Autoregressive Image Generation using Residual Quantization (2022)](https://arxiv.org/abs/2203.01941) ([Code](https://github.com/lucidrains/RQ-Transformer))
 - [Pix2Pix Timbre Transfer](https://github.com/hmartelb/Pix2Pix-Timbre-Transfer)
 - [One-Shot Adaptation of GAN in Just One CLIP (2022)](https://arxiv.org/abs/2203.09301) ([Code](https://github.com/submission6378/OneshotCLIP))
+- [PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds (2021)](https://arxiv.org/abs/2103.14635) ([Code](https://github.com/CVMI-Lab/PAConv))

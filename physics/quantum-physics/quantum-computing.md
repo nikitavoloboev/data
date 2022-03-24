@@ -143,3 +143,5 @@
 - [Quantum JavaScript (Q.js)](https://quantumjavascript.app/) - Quantum circuit simulator, drag-and-drop circuit editor, and powerful JavaScript library that runs right here in your web browser. ([Code](https://github.com/stewdio/q.js))
 - [The post-quantum future: challenges and opportunities (2022)](https://blog.cloudflare.com/post-quantum-future/)
 - [Gottesman Types for Quantum Programs (2021)](https://arxiv.org/abs/2109.02197) ([Code](https://github.com/GuillaumeGen/GottesmanTypes))
+- [The quantum technology ecosystem – explained (2022)](https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/)
+- [Quantum Tensors](https://github.com/Quantum-Flytrap/quantum-tensors) - NPM package for sparse matrix operations for quantum information and computing.

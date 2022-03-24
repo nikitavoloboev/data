@@ -34,3 +34,4 @@
 - [MQTT Stresser](https://github.com/inovex/mqtt-stresser) - Load testing tool to stress MQTT message broker.
 - [MQTT2Prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway.
 - [Mqttrs](https://github.com/00imvj00/mqttrs) - Rust crate (library) to write MQTT protocol clients and servers.
+- [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.

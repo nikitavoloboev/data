@@ -9,7 +9,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 ## Interesting OSes
 
 - [MirageOS](https://github.com/mirage/mirage) - Library operating system that constructs unikernels. ([Docs](https://docs.mirage.io/)) ([Docs code](https://github.com/mirage/docs)) ([mirage-solo5](https://github.com/mirage/mirage-solo5)) ([The road ahead for MirageOS in 2021](https://hannes.robur.coop/Posts/NGI))
-- [QubesOS](https://www.qubes-os.org/)
+- [QubesOS](https://www.qubes-os.org/) - Reasonably secure operating system. ([Lobsters](https://lobste.rs/s/nh3vfk/qubes_os_reasonably_secure_operating))
 - [Plan 9](https://9p.io/plan9/) ([Plan 9 C Compiler for RISC-V](https://www.youtube.com/watch?v=LHJqdXGb0uc)) ([Talk](https://spacepub.space/w/1605f200-ea8a-49e6-a0e5-92f6bc509dbe))
 - [Fuchsia](fuchsia-os.md)
 - [DahliaOS](https://dahliaos.io/) - Modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS. ([GitHub](https://github.com/dahlia-os)) ([HN](https://news.ycombinator.com/item?id=24976732)) ([Pangolin Desktop UI](https://github.com/dahlia-os/pangolin-desktop)) ([ISO releases](https://github.com/dahliaOS/releases))
@@ -152,6 +152,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Stardust Oxide](https://github.com/StardustOS/stardust-oxide) - Rust-based Unikernel. ([Reddit](https://www.reddit.com/r/rust/comments/ta85iy/stardust_oxide_i_wrote_a_unikernel_in_rust_for_my/))
 - [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
 - [Inferno](https://www.vitanuova.com/inferno/) - Small operating system for building cross platform distributed systems. ([HN](https://news.ycombinator.com/item?id=30714509))
+- [Makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes-like OS on seL4.
 
 ## Notes
 
@@ -342,3 +343,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Ask HN: What is the oldest, still supported OS? (2022)](https://news.ycombinator.com/item?id=30505219)
 - [CS Course: Design and Implementation of Operating Systems (2021)](https://www.cs.yale.edu/flint/cs422/index.html)
 - [Qemantra](https://github.com/pspiagicw/qemantra) - Tool for creating and running QEMU Virtual Machines.
+- [x86-64 VMM for seL4: Security Analysis and Requirements](https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf)

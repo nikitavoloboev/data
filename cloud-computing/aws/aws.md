@@ -301,3 +301,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Setting up Kubernetes on AWS (2022)](https://blog.cyborch.com/setting-up-kubernetes-on-aws/)
 - [CSI driver for Amazon EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
 - [IAM Credentials Rotator](https://github.com/willdady/cdk-iam-credentials-rotator) - AWS CDK construct for rotating IAM user credentials and sending to a third party.
+- [Amazon ECS "Deploy Task Definition" Action for GitHub Actions](https://github.com/aws-actions/amazon-ecs-deploy-task-definition)
+- [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) - Open source library for training and deploying machine learning models on Amazon SageMaker.
+- [Async AWS SDK for Python](https://github.com/terrycain/aioboto3)
+- [AWS Bootstrap Kit Examples Overview](https://github.com/aws-samples/aws-bootstrap-kit-examples)

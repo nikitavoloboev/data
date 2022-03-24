@@ -242,3 +242,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [xpcspy](https://github.com/hot3eed/xpcspy) - Bidirectional XPC message interception and more.
 - [macOS Apple released code](https://github.com/apple-oss-distributions/distribution-macOS)
 - [Apple T2 XPC](https://github.com/duo-labs/apple-t2-xpc) - Tools to explore the XPC interface of Apple's T2 chip.
+- [aperture-node](https://github.com/wulkano/aperture-node) - Record the screen on macOS from Node.js.

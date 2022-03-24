@@ -97,7 +97,7 @@ source script
 - [Intelligent Bash (ibash)](https://rdmp.org/dmbcs/i-bash)
 - [Functional programming in bash](https://github.com/ssledz/bash-fun) ([Slides](https://ssledz.github.io/presentations/bash-fun.html#/))
 - [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) ([Lobsters](https://lobste.rs/s/1vqimp/bash_pitfalls))
-- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator. ([HN](https://news.ycombinator.com/item?id=24636367))
+- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator. ([HN](https://news.ycombinator.com/item?id=24636367)) ([HN](https://news.ycombinator.com/item?id=30737701))
 - [Bash Bracket Cheat Sheet](https://wizardzines.com/comics/brackets-cheatsheet/)
 - [Bash Error Handling](https://wizardzines.com/comics/bash-errors/) ([HN](https://news.ycombinator.com/item?id=24727495))
 - [ctypes.sh](https://github.com/taviso/ctypes.sh) - Foreign function interface for bash. ([HN](https://news.ycombinator.com/item?id=24738814))

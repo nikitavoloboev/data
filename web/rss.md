@@ -143,3 +143,4 @@
 - [RSS to Mail](https://github.com/Julow/rss_to_mail) - Sends an email for every new entries on RSS feeds.
 - [The Perils of RSS (2022)](https://kn100.me/rss-perils/) ([Lobsters](https://lobste.rs/s/g08um1/perils_your_rss_feed)) ([HN](https://news.ycombinator.com/item?id=30621295))
 - [Feed Master](https://github.com/umputun/feed-master) - Pulls multiple podcast feeds (RSS) and republishes as a common feed, properly sorted and podcast-client friendly.
+- [JSON Feed](https://www.jsonfeed.org/) - RSS feeds in JSON. ([HN](https://news.ycombinator.com/item?id=30776535))

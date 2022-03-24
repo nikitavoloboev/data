@@ -117,3 +117,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [minted](https://github.com/gpoore/minted) - Highlighted source code for LaTeX.
 - [mdbook-katex](https://github.com/lzanini/mdbook-katex) - Preprocessor for mdBook, rendering LaTex equations to HTML at build time.
 - [biblatex](https://github.com/plk/biblatex) - Sophisticated bibliography system for LaTeX users.
+- [CircuiTikZ](https://github.com/circuitikz/circuitikz) - CircuiTikZ TeX/LaTeX package for drawing circuits.

@@ -212,3 +212,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [Creative Code resources for beginners and beyond](https://sableraph.notion.site/sableraph/Creative-Code-resources-for-beginners-and-beyond-p5-js-edition-WIP-38fce7d30b1d41a9a626ab70440f40ca)
 - [Sketchy](https://github.com/aldernero/sketchy) - Framework for making generative art in Go.
 - [List of Generative Art and Live Coding Tools](https://opguides.info/design/generative-art/) ([HN](https://news.ycombinator.com/item?id=24889333))
+- [Programming with Escher](https://mapio.github.io/programming-with-escher/)

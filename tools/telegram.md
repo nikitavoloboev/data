@@ -194,3 +194,5 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [NebulaChat](https://nebula.chat/) - Self hosted mtproto messenger.
 - [Telegram and the future of Russian Internet freedom (2022)](https://meduza.io/en/episodes/2022/03/20/telegram-and-the-future-of-russian-internet-freedom)
 - [Async MTProto Proxy](https://github.com/alexbers/mtprotoproxy) - Fast and simple to setup MTProto proxy written in Python.
+- [MTCute](https://github.com/mtcute/mtcute) - Library for MTProto in TypeScript.
+- [Telegram Payment Bots in 2022](https://blog.invitemember.com/telegram-payment-bots-guide/)

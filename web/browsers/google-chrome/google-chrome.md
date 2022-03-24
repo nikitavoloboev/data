@@ -54,7 +54,7 @@ And here are Chrome extensions I use:
 - [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome) - High-level API to control headless Chrome or Chromium over the DevTools Protocol.
 - [Chromium spelling and grammar features (2021)](https://www.azabani.com/2021/05/17/spelling-grammar.html)
 - [Chrome Extensions samples](https://github.com/GoogleChrome/chrome-extensions-samples)
-- [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension. ([HN](https://news.ycombinator.com/item?id=29254147))
+- [Browserflow](https://browserflow.app/) - Automate the boring stuff with Chrome extension. ([HN](https://news.ycombinator.com/item?id=29254147)) ([Twitter](https://twitter.com/browserflowapp))
 - [Introducing chrome.scripting (2021)](https://developer.chrome.com/blog/crx-scripting-api/) ([HN](https://news.ycombinator.com/item?id=27441898)) ([Lobsters](https://lobste.rs/s/tfa1lp/introducing_chrome_scripting))
 - [Chrome Developers](https://developer.chrome.com/) - Resource for developers of all backgrounds to learn about what's new in Chrome. ([Code](https://github.com/GoogleChrome/developer.chrome.com))
 - [How the new rendering engine on Chrome works (2021)](https://developer.chrome.com/blog/renderingng/)
@@ -85,3 +85,4 @@ And here are Chrome extensions I use:
 - [Puppeteer Cluster](https://github.com/thomasdondorf/puppeteer-cluster) - Create a cluster of puppeteer workers.
 - [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli) - CLI for your next Chrome Extension.
 - [Unclutter Browser Extension](https://github.com/lindylearn/unclutter) - Browser extension to simplify web pages and hide distracting things like hide cookie banners, auto-playing videos, sidebars, etc.
+- [Successful chrome extension SaaS (2022)](https://twitter.com/coreyhainesco/status/1506269475078766596)

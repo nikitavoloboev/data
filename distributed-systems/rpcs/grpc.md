@@ -91,3 +91,4 @@
 - [gRPC for iOS](https://github.com/grpc/grpc-ios)
 - [GRPC Extensions](https://github.com/jhump/grpcext) - Extensions to the grpc-go library, for making GRPC more useful and/or easier to use.
 - [gRPC website code](https://github.com/grpc/grpc.io)
+- [grpc-actix](https://github.com/m10io/grpc-actix) - Fast, actor-based gRPC implementation in Rust.

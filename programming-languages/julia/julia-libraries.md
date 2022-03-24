@@ -511,6 +511,9 @@
 - [EnumX.jl](https://github.com/fredrikekre/EnumX.jl) - What I wish Base.@enum was.
 - [ValSplit.jl](https://github.com/ztangent/ValSplit.jl) - Compile away dynamic dispatch on Val-typed arguments via value-splitting.
 - [EvoTrees](https://github.com/Evovest/EvoTrees.jl) - Boosted trees in Julia.
+- [ImageProjectiveGeometry](https://github.com/peterkovesi/ImageProjectiveGeometry.jl) - Projective geometry for computer vision in Julia.
+- [ArrayAllocators](https://github.com/mkitti/ArrayAllocators.jl) - Allocate arrays with malloc, calloc, or on NUMA nodes.
+- [InMemoryDatasets](https://github.com/sl-solution/InMemoryDatasets.jl) - Multithreaded package for working with tabular data in Julia.
 
 ## Links
 

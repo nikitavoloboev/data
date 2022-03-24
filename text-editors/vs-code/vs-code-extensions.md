@@ -93,6 +93,7 @@ Below is a list of extensions I use.
 - [Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging) ([Code](https://github.com/hediet/vscode-realtime-debugging))
 - [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) ([Code](https://github.com/microsoft/vscode-github-issue-notebooks))
 - [HexEditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor) - Allows Hex Editing inside VS Code. ([Code](https://github.com/microsoft/vscode-hexeditor))
+- [Tidier](https://github.com/mausworks/tidier) - Tools for keeping your projects tidier.
 - [Terminal Command Keys](https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys) - Assign a terminal command to a keybinding. ([Code](https://github.com/petekinnecom/terminal-command-keys))
 - [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/microsoft/codetour))
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) ([Code](https://github.com/hediet/vscode-drawio)) ([HN](https://news.ycombinator.com/item?id=24686707))
@@ -147,6 +148,7 @@ Below is a list of extensions I use.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
 - [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity useful commands to vscode.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
+- [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
 - [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
@@ -499,3 +501,5 @@ Below is a list of extensions I use.
 - [Speeding up VSCode (extensions) in 2022](https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022)
 - [Anthony's VS Code Settings](https://github.com/antfu/vscode-settings)
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions.
+- [Starter template for VS Code Extension](https://github.com/antfu/starter-vscode)
+- [vscode-test](https://github.com/microsoft/vscode-test) - Testing utility for VS Code extensions.

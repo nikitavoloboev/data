@@ -163,3 +163,4 @@
 - [geojson](https://github.com/georust/geojson) - Library for serializing the GeoJSON vector GIS file format.
 - [Tile Sorcerer](https://github.com/stadiamaps/tile_sorcerer) - Tools for modeling and querying vector tile sources.
 - [Cosmogony](http://cosmogony.world/#/) - Easy to use & easy to update geographic regions. ([Code](https://github.com/osm-without-borders/cosmogony))
+- [Topojson](https://github.com/mattijn/topojson) - Encode geographic data as topology in Python.

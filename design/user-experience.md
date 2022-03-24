@@ -162,3 +162,4 @@
 - [Wordle is pretty damn smart in many subtle ways (2022)](https://vaghetti.dev/posts/wordle/) ([HN](https://news.ycombinator.com/item?id=30435522))
 - [Making an interface feel "friendlier" Tips](https://twitter.com/brian_lovin/status/1496525592170270722)
 - [Mobile table design tips](https://twitter.com/steveschoger/status/1500904775688331270)
+- [Principles of UI Design](https://twitter.com/peterondesign/status/1505854480729923587)

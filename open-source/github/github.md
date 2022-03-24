@@ -366,3 +366,5 @@ Awesome List
 - [Gotchas with Git and the GitHub API (2022)](https://retool.com/blog/gotchas-git-github-api/)
 - [GitHub CSV Tools](https://github.com/gavinr/github-csv-tools) - Import and export GitHub issues via CSV.
 - [GitHub Issue to JSON File](https://github.com/zachleat/github-issue-to-json-file)
+- [GitHub Advanced Security - Code Scanning, Secret Scanning & Dependabot Bulk Enablement Tooling](https://github.com/NickLiffen/ghas-enablement)
+- [Activity filter for GitHub](https://github.com/muan/github-dashboard) - Web extension for filtering the activity feed on github.com dashboard.

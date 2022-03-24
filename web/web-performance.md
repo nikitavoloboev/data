@@ -154,3 +154,4 @@
 - [Unlighthouse](https://unlighthouse.dev/) - Scan your entire website with Google Lighthouse. ([Code](https://github.com/harlan-zw/unlighthouse))
 - [Towards a Unified Theory of Web Performance (2022)](https://infrequently.org/2022/03/a-unified-theory-of-web-performance/)
 - [When To Fetch](https://twitter.com/ryanflorence/status/1498847523150053376)
+- [Your SSR is slow & your dev tools are lying to you (2022)](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056) ([Reddit](https://www.reddit.com/r/javascript/comments/tkflwp/your_ssr_is_slow_your_devtools_are_lying_to_you/))

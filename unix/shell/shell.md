@@ -194,3 +194,5 @@ All active variables can be seen by running `env`.
 - [termsvg](https://github.com/MrMarble/termsvg) - CLI tool to record, share and export your terminal as a animated SVG image.
 - [Bearings](https://github.com/liamg/bearings) - Fast, clean, customizable shell prompt for zsh, bash, fish, and more.
 - [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Prompt theme engine for any shell. ([Web](https://ohmyposh.dev/))
+- [Please stop writing shell scripts (2022)](https://pythonspeed.com/articles/shell-scripts/) ([Lobsters](https://lobste.rs/s/iofste/please_stop_writing_shell_scripts))
+- [GitHub Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all) - Boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.

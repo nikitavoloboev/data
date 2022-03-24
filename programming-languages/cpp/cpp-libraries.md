@@ -355,6 +355,8 @@
 - [fixed_string](https://github.com/unterumarmung/fixed_string) - C++17 string with fixed size.
 - [async_simple](https://github.com/alibaba/async_simple) - Simple, Light-Weight Asynchronous C++ Framework.
 - [Universal](https://github.com/stillwater-sc/universal) - Header-only C++ template library for universal number arithmetic.
+- [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
+- [PoseLib](https://github.com/vlarsson/PoseLib) - Minimal solvers for calibrated camera pose estimation.
 
 ## Links
 

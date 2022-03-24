@@ -270,6 +270,7 @@
 - [hkd](https://github.com/ekmett/hkd) - Higher-kinded data.
 - [Language-ecmascript](https://github.com/jswebtools/language-ecmascript) - Haskell library for parsing, transforming and pretty-printing JavaScript.
 - [sparkle](https://github.com/tweag/sparkle) - Apache Spark applications in Haskell.
+- [eliminators](https://github.com/RyanGlScott/eliminators) - Dependently typed elimination functions using singletons.
 
 ## Notes
 
@@ -302,3 +303,4 @@
 - [Hackage UI](https://hackage-ui.vercel.app/) - Fresh look for the Hackage. ([Code](https://github.com/visortelle/hackage-ui))
 - [Thoughts on build tooling in Haskell (2022)](https://twitter.com/ChShersh/status/1493901050805424128)
 - [Haskell (Almost) Standard Libraries Book (2022)](https://leanpub.com/haskell-stdlibs/)
+- [thax](https://github.com/tek/thax) - Create haskell tags from nix dependencies.

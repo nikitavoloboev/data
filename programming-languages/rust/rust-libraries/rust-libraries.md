@@ -41,6 +41,7 @@
 - [Bunt](https://github.com/LukasKalbertodt/bunt) - Simple macro-based terminal colors and styles.
 - [superconsole](https://github.com/facebookincubator/superconsole) - Component-based framework for building Rust TUIs.
 - [terminal-keycode](https://github.com/substack/terminal-keycode.rs) - Convert bytes from a terminal into keycodes.
+- [tui-realm](https://github.com/veeso/tui-realm) - Tui-rs framework to build stateful applications with a React/Elm inspired approach.
 
 ## Web
 
@@ -92,7 +93,7 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server))
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi)) ([Poem Grants](https://github.com/DDtKey/poem-grants))
@@ -129,6 +130,8 @@
 - [protocol](https://github.com/dylanmckay/protocol) - Easy protocol definitions in Rust.
 - [rust-socketio](https://github.com/1c3t3a/rust-socketio) - Implementation of a socket.io client written in the Rust.
 - [reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs.
+- [Spectre](https://github.com/niklaslong/spectre) - Lightweight toolkit for analysing p2p network topologies.
+- [bifrost](https://github.com/ShisoftResearch/bifrost) - Pure rust building block for distributed systems.
 
 ## WASM
 
@@ -240,6 +243,7 @@
 - [rbatis](https://github.com/rbatis/rbatis) - Highly Performant,Safe,Dynamic SQL (Compile time) ORM framework written in Rust.
 - [memo-map](https://github.com/mitsuhiko/memo-map) - Concurrent insert only hash map.
 - [Endorphin](https://github.com/ArtBlnd/endorphin) - Key-Value based in-memory cache library which supports Custom Expiration Policies.
+- [Nebuchadnezzar](https://github.com/ShisoftResearch/Nebuchadnezzar) - High Performance Key-Value Store.
 
 ## Video
 
@@ -476,6 +480,7 @@
 - [fugit](https://github.com/korken89/fugit) - Provides a comprehensive library of `Duration` and `Instant` for the handling of time in embedded systems, doing all it can at compile time.
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - Hardware abstraction layer for the esp32 written in Rust.
 - [stm32-eth](https://github.com/stm32-rs/stm32-eth) - Embedded Ethernet driver in Rust.
+- [esp-hal](https://github.com/esp-rs/esp-hal) - Experimental no_std HAL targeting ESP devices.
 
 ## ML
 
@@ -607,6 +612,7 @@
 - [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
 - [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
 - [Actix](https://github.com/actix/actix) - Actor framework for Rust. ([Examples](https://github.com/actix/examples))
+- [Actix Extras](https://github.com/actix/actix-extras) - Collection of additional crates supporting the actix and actix-web frameworks.
 - [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
 - [Tokio Metrics](https://github.com/tokio-rs/tokio-metrics) - Utilities for collecting metrics from a Tokio application.
 - [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial)) ([Building a CEDICT parser in Rust with Nom](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)) ([Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)) ([Parsing Text with Nom](https://blog.adamchalmers.com/nom-chars/)) ([HN](https://news.ycombinator.com/item?id=29897328))
@@ -792,7 +798,7 @@
 - [SM](https://github.com/rustic-games/sm) - Static State Machine library.
 - [parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects.
 - [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
-- [etcd](https://github.com/jimmycuadra/rust-etcd) - Etcd client library for Rust.
+- [etcd](https://github.com/discord/rust-etcd) - etcd client library for Rust.
 - [RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - Rust library for drawing plots, powered by Gnuplot.
 - [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
 - [inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration.
@@ -1609,6 +1615,10 @@
 - [rename-future](https://github.com/ArtBlnd/rename-future) - Can name anonymous Future from async fn without dyn or Box.
 - [Serde Pickle](https://github.com/birkenfeld/serde-pickle) - Rust library for parsing and generating Python pickle streams.
 - [envconfig-rs](https://github.com/greyblake/envconfig-rs) - Initialize config structure from environment variables in Rust without boilerplate.
+- [SuppaFTP](https://github.com/veeso/suppaftp) - Super FTP/FTPS client library for Rust.
+- [Lightning](https://github.com/ShisoftResearch/Lightning) - Set of lock-free data structures.
+- [Moniker](https://github.com/brendanzab/moniker) - Makes it simple to track variables across nested scopes in programming language implementations.
+- [Hydroflow](https://github.com/hydro-project/hydroflow) - Hydro's low-level dataflow runtime.
 
 ## Cargo Plugins
 
@@ -1670,6 +1680,7 @@
 - [cargo-quickinstall](https://github.com/alsuren/cargo-quickinstall) - Pre-compiled binary packages for `cargo install`.
 - [cargo-diet](https://github.com/the-lean-crate/cargo-diet) - Help computing 'optimal' include directives for your Cargo.toml manifest.
 - [reloady](https://github.com/anirudhb/reloady) - Simple and performant hot-reloading for Rust.
+- [cargo-temp](https://github.com/yozhgoor/cargo-temp) - CLI tool that allows you to create a new rust project in a temporary directory with already installed dependencies.
 
 ## Links
 

@@ -22,7 +22,7 @@
 - [Kafka-Pixy (gRPC/REST Proxy for Kafka)](https://github.com/mailgun/kafka-pixy)
 - [Mirroring from Apache Kafka to Azure Event Hub (2020)](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/)
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
-- [Redpanda](https://vectorized.io/) - Real-time engine for modern apps. 10x Faster Kafka. ([Code](https://github.com/vectorizedio/redpanda)) ([HN](https://news.ycombinator.com/item?id=25075739))
+- [Redpanda](https://vectorized.io/) - Real-time engine for modern apps. 10x Faster Kafka. ([Code](https://github.com/vectorizedio/redpanda)) ([HN](https://news.ycombinator.com/item?id=25075739)) ([First Impressions](https://shahirdaya.medium.com/first-impressions-of-redpanda-6dd0d860ecfd))
 - [rochefort](https://github.com/jackdoe/rochefort) - Poor man's kafka (plus in-place mutations and search).
 - [Why Can’t I Connect to Kafka?](https://www.confluent.io/blog/kafka-client-cannot-connect-to-broker-on-aws-on-docker-etc/)
 - [Eliminating Task Processing Outages by Replacing RabbitMQ with Apache Kafka (2020)](https://doordash.engineering/2020/09/03/eliminating-task-processing-outages-with-kafka/) ([HN](https://news.ycombinator.com/item?id=24699534))
@@ -98,3 +98,6 @@
 - [Apache Kafka Code](https://github.com/apache/kafka)
 - [RSKafka](https://github.com/influxdata/rskafka) - Minimal Rust client for Apache Kafka.
 - [node-kafka-streams](https://github.com/nodefluent/kafka-streams)
+- [Kowl](https://github.com/cloudhut/kowl) - Web UI for Apache Kafka.
+- [CloudHut](https://cloudhut.dev/) - Use Apache Kafka more efficiently.
+- [KMinion](https://github.com/cloudhut/kminion) - Prometheus Exporter for Apache Kafka.

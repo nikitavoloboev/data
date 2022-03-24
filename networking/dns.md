@@ -194,3 +194,4 @@
 - [Ask HN: Neutral DNS servers? (2022)](https://news.ycombinator.com/item?id=30642577)
 - [Bunny DNS](https://bunny.net/blog/transforming-internet-routing-introducing-bunny-dns/) - Scriptable DNS platform. ([HN](https://news.ycombinator.com/item?id=30697672))
 - [Haskell DNS](https://github.com/kazu-yamamoto/dns) - Highly concurrent DNS library purely in Haskell.
+- [DNS Transport over TCP - Operational Requirements](https://datatracker.ietf.org/doc/rfc9210/)

@@ -79,3 +79,4 @@
 - [Kor](https://kor-ui.com/introduction/welcome) - User Interface Component Library based on LitElement / lit-html. ([Code](https://github.com/kor-ui/kor))
 - [Clarity Design System](https://clarity.design/) - Scalable, accessible, customizable, open-source design system built with web components. ([Code](https://github.com/vmware-clarity/core))
 - [ESLint rules for Lightning Web Components (LWC)](https://github.com/salesforce/eslint-plugin-lwc)
+- [webcomponent](https://github.com/richardanaya/webcomponent) - Web component library for rust.

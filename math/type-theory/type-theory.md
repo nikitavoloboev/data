@@ -181,3 +181,4 @@
 - [Castle Bravo](https://github.com/groupoid/castle.bravo) - Experimental Implementation of HoTT-∂ Type System with definitional Path-β.
 - [Understanding higher-kinded types (2022)](https://danso.ca/blog/higher-kinded-types/) ([Lobsters](https://lobste.rs/s/5nuixp/understanding_higher_kinded_types))
 - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html) ([HN](https://news.ycombinator.com/item?id=30697421))
+- [Bidirectional type checking algorithms for higher-ranked polymorphism](https://github.com/kwanghoon/bidi)

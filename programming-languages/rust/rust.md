@@ -736,3 +736,4 @@
 - [Rust ownership, the hard way](https://chrismorgan.info/blog/rust-ownership-the-hard-way/)
 - [Rust's Unsafe Pointer Types Need An Overhaul (2022)](https://gankra.github.io/blah/fix-rust-pointers/) ([Lobsters](https://lobste.rs/s/mptezc/rust_s_unsafe_pointer_types_need_overhaul))
 - [You can't spell trust without Rust Thesis](https://github.com/Gankra/thesis/blob/master/thesis.pdf)
+- [Using Rust to render things to canvas can often be slower than HTML](https://twitter.com/JanPaul123/status/1506327158012067846)

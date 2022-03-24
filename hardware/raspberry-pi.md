@@ -108,3 +108,4 @@
 - [Using 4G LTE wireless modems on a Raspberry Pi (2022)](https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi)
 - [rp2040js](https://github.com/wokwi/rp2040js) - Raspberry Pi Pico Emulator in JavaScript.
 - [Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi.
+- [Raspberry-Pi Security Guide](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare)

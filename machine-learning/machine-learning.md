@@ -735,3 +735,6 @@
 - [The Mathematics of Artificial Intelligence (2022)](https://arxiv.org/abs/2203.08890)
 - [Differentiable Sorting Networks for Scalable Sorting and Ranking Supervision (2021)](https://arxiv.org/abs/2105.04019) ([Code](https://github.com/Felix-Petersen/diffsort))
 - [Fast TreeSHAP: Accelerating SHAP Value Computation for Trees (2021)](https://arxiv.org/abs/2109.09847) ([Code](https://github.com/linkedin/FastTreeSHAP))
+- [Memorizing Transformers (2022)](https://arxiv.org/abs/2203.08913) ([Code](https://github.com/lucidrains/memorizing-transformers-pytorch))
+- [DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents (2022)](https://arxiv.org/abs/2201.00308) ([Code](https://github.com/kpandey008/DiffuseVAE))
+- [Metarank](https://www.metarank.ai/) - Low-code Machine Learning personalization service. ([Code](https://github.com/metarank/metarank)) ([HN](https://news.ycombinator.com/item?id=30778100))

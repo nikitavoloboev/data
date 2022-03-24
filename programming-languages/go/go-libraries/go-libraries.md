@@ -123,6 +123,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-carpet](https://github.com/msoap/go-carpet) - Show test coverage in terminal for Go source files.
 - [Lem](https://github.com/akutz/lem) - Go test framework for asserting expected escape analysis results & heap allocations.
 - [Verifiers](https://github.com/PxyUp/verifiers) - Small library for verify async function response.
+- [Got](https://github.com/ysmood/got) - Enjoyable Go test framework.
 
 ## Web
 
@@ -320,6 +321,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [GORM SQLite](https://github.com/glebarez/sqlite) - Pure-go (without cgo) implementation of SQLite driver for GORM.
 - [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 - [hashmap](https://github.com/tidwall/hashmap) - Efficient hashmap implementation in Go.
 - [reform](https://github.com/go-reform/reform) - Better ORM for Go and database/sql.
@@ -1442,6 +1444,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Henry](https://github.com/modfin/henry) - Collection of nice to have generic function and algorithms for slices, maps and channels.
 - [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
 - [Exponential Backoff](https://github.com/cenkalti/backoff) - Exponential backoff algorithm in Go. Uses feedback to multiplicatively decrease the rate of some process, in order to gradually find an acceptable rate.
+- [Go Reflector](https://github.com/tkrajina/go-reflector) - Go reflection simplified.
 
 ## Links
 

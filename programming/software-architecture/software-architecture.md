@@ -218,3 +218,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Polylith is a functional software architecture at the system scale](https://polylith.gitbook.io/polylith/) ([HN](https://news.ycombinator.com/item?id=30697724))
 - [Data Mesh Architecture](https://www.datamesh-architecture.com/) ([HN](https://news.ycombinator.com/item?id=30721198))
 - [Ask HN: Codebases with great, easy to read code? (2022)](https://news.ycombinator.com/item?id=30752540)
+- [Backend best practices](https://github.com/Sairyss/backend-best-practices)

@@ -68,7 +68,7 @@
 - [Visualizing binaries with space-filling curves](https://corte.si/posts/visualisation/binvis/index.html) ([Lobsters](https://lobste.rs/s/tlzkk4/visualizing_binaries_with_space_filling))
 - [Reverse Engineering Bumble’s API (2020)](https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87)
 - [Reverse Engineering Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial) - Comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-- [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor for Reverse Engineers. ([HN](https://news.ycombinator.com/item?id=25353965))
+- [ImHex](https://github.com/WerWolv/ImHex) - Hex Editor for Reverse Engineers. ([HN](https://news.ycombinator.com/item?id=25353965)) ([Web](https://imhex.werwolv.net/))
 - [Triton](https://github.com/JonathanSalwan/Triton) - Dynamic Binary Analysis (DBA) framework.
 - [How I reverse-engineered Google Docs to play back any document's keystrokes (2014)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/) ([HN](https://news.ycombinator.com/item?id=8562483))
 - [Reverse-engineering an early calculator chip with four-phase logic (2020)](http://www.righto.com/2020/12/reverse-engineering-early-calculator.html)

@@ -65,3 +65,4 @@
 - [Krius](https://github.com/infracloudio/krius) - Tool to setup Prometheus, Thanos & friends across multiple clusters easily for scale.
 - [Scraper](https://github.com/arriqaaq/scraper) - Simple library to scrape and monitor multiple urls and provide prometheus metrics.
 - [Prometheus Development Dev Shell](https://github.com/roidelapluie/prometheus-nix-dev) - Nix flake to build & run Prometheus.
+- [Kube eagle](https://github.com/cloudworkz/kube-eagle) - Prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.

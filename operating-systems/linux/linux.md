@@ -486,3 +486,4 @@
 - [celun](https://github.com/celun/celun) - Customizable embedded Linux using Nix.
 - [Linux needs a explicitly defined userspace API](http://catern.com/linux_api.html)
 - [liburing](https://github.com/axboe/liburing) - io_uring library.
+- [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)

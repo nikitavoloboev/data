@@ -73,3 +73,4 @@
 - [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) ([F# Code](https://github.com/pangwa/write-yourself-a-scheme-doc))
 - [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
 - [Waffle](https://github.com/playXE/waffle-scheme) - Simple Scheme implementation with bytecode VM.
+- [Fiddle](https://github.com/maxsnew/modal-scheme) - Scheme-like CBPV language with Racket Interoperability.

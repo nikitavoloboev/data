@@ -103,6 +103,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono) ([Lobsters](https://lobste.rs/s/eyd8up/berkeley_mono))
 - [Input Fonts](https://input.djr.com/) - Flexible system of fonts designed specifically for code by David Jonathan Ross.
 - [Urbanist](https://github.com/coreyhu/Urbanist) - Low-contrast, geometric sans-serif inspired by Modernist design and typography.
+- [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) - UD Gothic typeface with excellent readability and design balance.
 
 ## Links
 
@@ -336,3 +337,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [subfont](https://github.com/Munter/subfont) - Command line tool to optimize your webfont loading. Aggressive subsetting based on your font use, self-hosting of Google fonts and preloading.
 - [font-toolkit](https://github.com/alibaba/font-toolkit) - Rust font loading, positioning and rendering toolkit.
 - [Typography is impossible (2016)](https://medium.engineering/typography-is-impossible-5872b0c7f891) - Practical guide to why laying out type never quite does what you want.
+- [How to Improve Your Static Site's Typography (2022)](https://www.georgeho.org/static-site-typography/)
+- [ot-builder](https://github.com/ot-builder/monorepo) - TypeScript library that manipulates OpenType fonts.

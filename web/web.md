@@ -315,7 +315,7 @@
 - [Reading from the web offline and distraction-free - Unladen swallow (2021)](https://blog.owulveryck.info/2021/10/07/reading-from-the-web-offline-and-distraction-free.html) ([Code](https://github.com/owulveryck/rePocketable))
 - [I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021) ([HN](https://news.ycombinator.com/item?id=28818829))
 - [Дока](https://doka.guide/) - Документация для разработчиков на человеческом языке. ([Content Code](https://github.com/doka-guide/content)) ([Tweet](https://twitter.com/ABatickaya/status/1447955564068286464)) ([Интервью про doka.guide / Ник Лопин](https://www.youtube.com/watch?v=KNgSZzvCEKo)) ([Platform Code](https://github.com/doka-guide/platform))
-- [12ft Ladder](https://12ft.io/) - Hop the paywalls.
+- [12ft Ladder](https://12ft.io/) - Hop the paywalls. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/tkk3p1/no_more_paywalls_10foot_wall_12foot_ladder/))
 - [Веб-стандарты](https://web-standards.ru/) ([GitHub](https://github.com/web-standards-ru)) ([Code](https://github.com/web-standards-ru/web-standards.ru))
 - [The Web’s Grain (2015)](https://frankchimero.com/blog/2015/the-webs-grain/)
 - [The Single-Page-App Morality Play (2021)](https://www.baldurbjarnason.com/2021/single-page-app-morality-play/) ([HN](https://news.ycombinator.com/item?id=28876583)) ([Tweet](https://twitter.com/fakebaldur/status/1434873556903636996))
@@ -383,3 +383,4 @@
 - [Full Stack Learning Path](https://codedamn.com/learning-paths/fullstack) ([Code](https://github.com/codedamn/fullstack-learning-path))
 - [MDN data](https://github.com/mdn/data) - General data for Web technologies.
 - [WebMention Test Pinger](https://github.com/voxpelli/node-webmention-testpinger) - Tool to ping your site with a variety of real world WebMentions.
+- [Webhooks – The Definitive Guide](https://webhook.net/)

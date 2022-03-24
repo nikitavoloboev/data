@@ -95,3 +95,5 @@
 - [How to write a tree-sitter grammar in an afternoon (2022)](https://siraben.dev/2022/03/01/tree-sitter.html)
 - [tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [Santiago](https://github.com/kamadorueda/santiago) - Lexing and parsing toolkit for Rust.
+- [Parsing Expressions by Recursive Descent (1999)](https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm)
+- [From Precedence Climbing to Pratt Parsing (2016)](https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm)

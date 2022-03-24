@@ -361,6 +361,7 @@
 - [Focusing on go-to-market to grow startup (2022)](https://twitter.com/reinpk/status/1481639812012466182)
 - [Connecting People (2022)](https://aditya.rs/2022/01/24/connecting-people/)
 - [Startup tech stack I used to automate most admin](https://twitter.com/justindross/status/1499775084017373190)
+- [My Notes on the Lean Startup](https://www.kevinslin.com/notes/1da94030-c045-4002-8de0-67d35e6eee74/) ([HN](https://news.ycombinator.com/item?id=30754186))
 
 ## Images
 

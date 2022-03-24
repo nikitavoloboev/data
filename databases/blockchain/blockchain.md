@@ -357,3 +357,6 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Ask HN: Has anyone come up with a use for blockchain yet? (2022)](https://news.ycombinator.com/item?id=30741841)
 - [Ask HN: Are Web3 and DApps the Future? (2022)](https://news.ycombinator.com/item?id=30743918)
 - [Web3 examples that aren't blockchain](https://twitter.com/polotek/status/1505608551552602112)
+- [MystenLabs](https://mystenlabs.com/) - Creating Foundational Infrastructure For Web3.0. ([GitHub](https://github.com/MystenLabs))
+- [Sui](https://github.com/MystenLabs/sui) - Smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
+- [Веб 3.0 (2022)](https://vas3k.ru/blog/web3/)

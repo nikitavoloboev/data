@@ -1,5 +1,7 @@
 # [Fastify](https://www.fastify.io/)
 
+[Mercurius](https://github.com/mercurius-js/mercurius) is neat.
+
 ## OSS Fastify APIs/Apps
 
 - [Notes API using PostgreSQL, Prisma, and Fastify](https://github.com/iShibi/notes-api)

@@ -59,6 +59,10 @@
 
 - [splain](https://github.com/tek/splain) - Scala compiler plugin for more concise errors.
 
+## Crypto
+
+- [bobcats](https://github.com/typelevel/bobcats) - Cross-platform cryptography (JVM, Node.js, browsers) for the Cats ecosystem.
+
 ## ML
 
 - [Noether](https://github.com/spotify/noether) - Scala Aggregators used for ML Model metrics mo.

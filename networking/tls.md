@@ -78,3 +78,4 @@
 - [tincan-tls](https://github.com/syncsynchalt/tincan-tls) - Clean room implementation of TLS 1.3.
 - [tls-listener](https://github.com/tmccombs/tls-listener) - Rust wrapper around a connection listener to support TLS.
 - [qtls](https://github.com/marten-seemann/qtls-go1-18) - Modified version of the standard library's TLS implementation, modified for the QUIC protocol.
+- [Cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts.

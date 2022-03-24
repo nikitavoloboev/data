@@ -186,3 +186,4 @@
 - [Whats a NSFW history fact that we don’t often hear about? (2022)](https://www.reddit.com/r/AskReddit/comments/thnmmc/whats_a_nsfw_history_fact_that_we_dont_often_hear/)
 - [Horrible mass killings in Gaza](https://twitter.com/zei_squirrel/status/1504020982935261190)
 - [The Yemen conflict links (2022)](https://www.reddit.com/r/geopolitics/comments/tjrw67/the_yemen_conflict/)
+- [Best books written by WW1 and WW2 veterans](https://www.reddit.com/r/suggestmeabook/comments/tklohp/what_are_the_best_books_written_by_ww1_and_ww2/)
