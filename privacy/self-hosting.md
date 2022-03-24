@@ -27,3 +27,4 @@
 - [What are the top 3 most useful things that you have hosted over the years? (2022)](https://www.reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/)
 - [Khue's Homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. ([Docs](https://homelab.khuedoan.com/)) ([HN](https://news.ycombinator.com/item?id=30030991))
 - [Dashy](https://dashy.to/) - Ultimate Homepage for your Homelab. ([Code](https://github.com/Lissy93/dashy))
+- [Start Self Hosting (2022)](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/) ([HN](https://news.ycombinator.com/item?id=30781536))
