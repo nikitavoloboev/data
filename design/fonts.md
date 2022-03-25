@@ -104,6 +104,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Input Fonts](https://input.djr.com/) - Flexible system of fonts designed specifically for code by David Jonathan Ross.
 - [Urbanist](https://github.com/coreyhu/Urbanist) - Low-contrast, geometric sans-serif inspired by Modernist design and typography.
 - [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) - UD Gothic typeface with excellent readability and design balance.
+- [SORA](https://github.com/sora-xor/sora-font)
 
 ## Links
 

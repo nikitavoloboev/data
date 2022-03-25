@@ -238,3 +238,4 @@
 - [Shopify's Data Science and Engineering Foundations (2020)](https://shopify.engineering/shopifys-data-science-engineering-foundations) ([HN](https://news.ycombinator.com/item?id=30643677))
 - [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/) ([HN](https://news.ycombinator.com/item?id=30673364))
 - [Modern data analysis stack (2022)](https://twitter.com/__mharrison__/status/1504504516393127964)
+- [Stop aggregating away the signal in your data (2022)](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)

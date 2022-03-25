@@ -95,3 +95,4 @@
 - [cl-gserver](https://github.com/mdbergmann/cl-gserver) - Actor framework featuring actors and agents for easy access to state and asynchronous operations.
 - [Xecto](https://github.com/pkhuong/Xecto) - Regular array parallelism in CL.
 - [Comparison of Common Lisp Logging Libraries](https://sabracrolleton.github.io/logging-comparison.html)
+- [Common Lisp Cheat Sheet](https://github.com/ashok-khanna/lisp-notes)

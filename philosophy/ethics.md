@@ -26,3 +26,4 @@
 - [W3C TAG Ethical Web Principles](https://w3ctag.github.io/ethical-web-principles/) ([Code](https://github.com/w3ctag/ethical-web-principles))
 - [How to understand if a certain attack is a war crime?](https://twitter.com/OPokalchuk/status/1499328463081070594)
 - [XXIIVV — ethics](https://wiki.xxiivv.com/site/ethics.html)
+- [On infinite ethics](https://handsandcities.com/2022/01/30/on-infinite-ethics/) ([HN](https://news.ycombinator.com/item?id=30798431))

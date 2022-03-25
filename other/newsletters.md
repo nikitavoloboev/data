@@ -78,3 +78,4 @@
 - [Add Newsletter Subscription Form to React Website (2022)](https://pragmaticpineapple.com/add-newsletter-subscription-form-to-react-website/)
 - [Keila](https://www.keila.io/) - Open Source Email Newsletters Easy & Reliable. ([Code](https://github.com/pentacent/keila))
 - [Ways you can get subscribers to actually read your emails](https://twitter.com/khemaridh/status/1500870776446066689)
+- [Awesome Quincy Larson Email Archive](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)

@@ -208,3 +208,5 @@
 - [RN Skia Sketch Canvas](https://github.com/uragirii/rn-skia-sketch-canvas) - React Native component for drawing using Skia renderer.
 - [Gleap ReactNative SDK](https://github.com/GleapSDK/ReactNative-SDK)
 - [React Native Stagger View](https://github.com/Mindinventory/react-native-stagger-view) - Type of layout that is used to display images and posts.
+- [React Native Screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
+- [React Native New Architecture Sample](https://github.com/react-native-community/RNNewArchitectureApp) - Collection of sample React Native Apps that will show you how to use the New Architecture (Fabric & TurboModules) step-by-step.

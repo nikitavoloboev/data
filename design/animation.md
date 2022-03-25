@@ -1,5 +1,7 @@
 # Animation
 
+[Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) is great.
+
 ## Links
 
 - [Alexander Perrin](https://alexanderperrin.com.au/) - Has a passion for meticulous dynamics, detailed digital rendering techniques and cats.
@@ -71,3 +73,4 @@
 - [Excalidraw Claymate](https://dai-shi.github.io/excalidraw-claymate/) - Tool based on Excalidraw to create stop motion animations and slides. ([Code](https://github.com/dai-shi/excalidraw-claymate))
 - [Любимые Мультфильмы](https://twitter.com/sienduk/status/1495706117489446916)
 - [Ask HN: How to quickly animate system sketches and 2D diagrams? (2022)](https://news.ycombinator.com/item?id=30631993)
+- [Animation course with Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)

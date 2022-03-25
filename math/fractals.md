@@ -68,3 +68,4 @@
 - [A Well Trodden Path (2019)](https://ultraiterator.blogspot.com/2019/12/a-well-trodden-path.html)
 - [VFX Fractal Toolkit](https://github.com/jtomori/vft) - Set of tools for generating fractal and generative art.
 - [The Mandelbrot Set (2022)](https://www.sotr.blog/articles/mandelbrot)
+- [Newton's fractal](https://github.com/alordash/newton-fractal) - Drawing Newton's fractal using js, wasm, SIMD commands, threads and GPU.

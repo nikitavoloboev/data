@@ -94,3 +94,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier detection and root cause analysis.
 - [consent-manager](https://github.com/segmentio/consent-manager) - Drop-in consent management plugin for analytics.js.
 - [AppSignal](https://www.appsignal.com/) - Application Monitoring for Ruby on Rails, Elixir & Node.js.
+- [Offen](https://www.offen.dev/) - Fair and lightweight alternative to common web analytics tools. ([Code](https://github.com/offen/offen))

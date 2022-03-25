@@ -135,3 +135,4 @@
 - [RSpec for Rails](https://github.com/rspec/rspec-rails)
 - [Rails-docker-box, or developing Rails within a dockerized environment (2022)](https://dev.to/palkan_tula/rails-docker-box-or-developing-rails-within-a-dockerized-environment-4min)
 - [Intro to Thread-Safety in Ruby on Rails (2022)](https://pawelurbanek.com/rails-thread-safety)
+- [User notifications with Rails, Noticed, and Hotwire (2022)](https://www.colby.so/posts/user-notifications-with-rails-noticed-and-hotwire)

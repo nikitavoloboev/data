@@ -738,3 +738,6 @@
 - [Memorizing Transformers (2022)](https://arxiv.org/abs/2203.08913) ([Code](https://github.com/lucidrains/memorizing-transformers-pytorch))
 - [DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents (2022)](https://arxiv.org/abs/2201.00308) ([Code](https://github.com/kpandey008/DiffuseVAE))
 - [Metarank](https://www.metarank.ai/) - Low-code Machine Learning personalization service. ([Code](https://github.com/metarank/metarank)) ([HN](https://news.ycombinator.com/item?id=30778100))
+- [Research on Tabular Deep Learning](https://github.com/Yura52/rtdl)
+- [HuggingFace Blog](https://huggingface.co/blog) ([Code](https://github.com/huggingface/blog))
+- [Learning to Prompt for Continual Learning (2022)](https://arxiv.org/abs/2112.08654) ([Code](https://github.com/google-research/l2p))

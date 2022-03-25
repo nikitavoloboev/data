@@ -7,6 +7,7 @@
 - [GraphQL creators are (I think) unanimous in their skepticism of tools that bring GraphQL directly to your database or ORM, because they just provide carte blanche access to your entire data model, without actually giving API design proper consideration.](https://twitter.com/andrewingram/status/1289623898493816832)
 - [GraphQL is a convention to communicate with APIs, it's not a framework.](https://twitter.com/gethackteam/status/1419222422910349312)
 - [REST = Query API data in the request URL. GraphQL = Query API data in the request body. REST is simpler but limited. GraphQL is more complex but powerful.](https://twitter.com/timdorr/status/1458815061875732482)
+- [GraphQL codegen with React Query/etc for the front end and generated GraphQL resolvers for the backend (Hasura, etc). It doesn’t actually get better than that. Strongly typed server/client agreement for the win.](https://twitter.com/motleydev/status/1507299488318242820)
 
 ## Links
 

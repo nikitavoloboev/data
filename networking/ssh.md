@@ -100,3 +100,5 @@
 - [Melt](https://github.com/charmbracelet/melt) - Backup and restore SSH private keys using memorizable seed phrases.
 - [ssh-key-algo](https://github.com/github/ssh-key-algo) - Script to check if the SSH key algorithm is up to date.
 - [Unix System Monitoring Over SSH](https://github.com/zix99/sshsysmon)
+- [If You're Not Using SSH Certificates You're Doing SSH Wrong (2019)](https://smallstep.com/blog/use-ssh-certificates/) ([HN](https://news.ycombinator.com/item?id=30788544))
+- [Reverse SSH](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell.

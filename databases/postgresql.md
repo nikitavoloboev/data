@@ -1,6 +1,6 @@
 # [PostgreSQL](https://www.postgresql.org)
 
-[Internals of PostgreSQL](https://www.interdb.jp/pg/) is great.
+[Internals of PostgreSQL](https://www.interdb.jp/pg/) is great. [Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs.
 
 ## Notes
 
@@ -17,7 +17,7 @@
 - [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) ([HN](https://news.ycombinator.com/item?id=18717168))
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/) ([HN](https://news.ycombinator.com/item?id=18950460)) ([HN](https://news.ycombinator.com/item?id=30086374))
 - [Slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detail logging and assertions for node.js ([slonik-tools](https://github.com/mmkal/slonik-tools))
-- [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
+- [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac. ([HN](https://news.ycombinator.com/item?id=30798274))
 - [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Work-in-progress plugin for prettier to support formatting of PostgreSQL-flavour SQL.
 - [PostGraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database.
 - [WAL-G](https://github.com/wal-g/wal-g) - Archival restoration tool for Postgres.
@@ -444,3 +444,4 @@
 - [pg_task](https://github.com/RekGRpth/pg_task) - PostgreSQL job scheduler pg_task allows to execute any sql command at any specific time at background asynchronously.
 - [pg_curl](https://github.com/RekGRpth/pg_curl) - PostgreSQL curl allows most curl actions.
 - [AintQ](https://github.com/decentfox/aintq) - Python asyncio task queue on PostgreSQL.
+- [Postgres.js](https://github.com/porsager/postgres) - Fastest Full-Featured PostgreSQL Client for Node and Deno. ([HN](https://news.ycombinator.com/item?id=30794332)) ([Reddit](https://www.reddit.com/r/javascript/comments/tn0sxp/postgresjs_fastest_fullfeatured_postgresql_client/))

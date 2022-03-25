@@ -20,3 +20,4 @@
 - [Ask HN: Why aren’t there more third party retina screens? (2022)](https://news.ycombinator.com/item?id=30631288)
 - [A volumetric display using an acoustically trapped particle (2021)](https://www.youtube.com/watch?v=hCC1C5KIeUA) ([HN](https://news.ycombinator.com/item?id=30642954))
 - [Apple’s $1,599 Studio Display vs. Other Monitors: You Won’t Get What You Pay For (2022)](https://www.wsj.com/articles/apples-1-599-studio-display-vs-other-monitors-you-wont-get-what-you-pay-for-11647521601) ([Tweet](https://twitter.com/JoannaStern/status/1504443171127894024))
+- [Lunar](https://lunar.fyi/) - Change monitor brightness, volume, input and colors. ([HN](https://news.ycombinator.com/item?id=30776300))

@@ -99,3 +99,4 @@
 - [What is the appeal in being choked during sex?](https://www.reddit.com/r/NoStupidQuestions/comments/sz0und/what_is_the_appeal_in_being_choked_during_sex/)
 - [101 Kinky Things Even You Can Do](https://101kinkythings.com/)
 - [Sex Work: Last Week Tonight with John Oliver (HBO) (2022)](https://www.youtube.com/watch?v=-gd8yUptg0Q)
+- [Contraceptive pill for males is 99% effective in preventing pregnancy (2022)](https://www.reddit.com/r/Futurology/comments/tksxt4/a_99_effective_birth_control_pill_for_men_could/) ([HN](https://news.ycombinator.com/item?id=30796368))

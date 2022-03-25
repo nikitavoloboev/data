@@ -83,3 +83,4 @@
 - [ws-tool](https://github.com/PrivateRookie/ws-tool) - Easy to use websocket client/server toolkit, supporting blocking/async IO.
 - [websocket](https://github.com/gopherjs/websocket) - Provides high and low-level bindings for the browser's WebSocket API.
 - [Web Socket for Productivity in Rust (2022)](https://www.ahmadrosid.com/blog/rust-websocket)
+- [ezsockets](https://github.com/gbaranski/ezsockets) - Composable WebSockets made easy, for Rust.

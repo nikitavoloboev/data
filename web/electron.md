@@ -48,3 +48,4 @@
 - [astilectron](https://github.com/asticode/astilectron) - Electron app that provides an API over a TCP socket that allows executing Electron's method as well as capturing Electron's events.
 - [Yerba](https://github.com/TheoBr/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more.
 - [Best way to build Electron apps with security in mind](https://github.com/reZach/secure-electron-template)
+- [Electron DevTools Installer](https://github.com/MarshallOfSound/electron-devtools-installer) - Easy way to ensure Chrome DevTools extensions into Electron.

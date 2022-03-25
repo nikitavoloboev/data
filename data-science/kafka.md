@@ -101,3 +101,4 @@
 - [Kowl](https://github.com/cloudhut/kowl) - Web UI for Apache Kafka.
 - [CloudHut](https://cloudhut.dev/) - Use Apache Kafka more efficiently.
 - [KMinion](https://github.com/cloudhut/kminion) - Prometheus Exporter for Apache Kafka.
+- [Kafka Python client](https://github.com/dpkp/kafka-python)

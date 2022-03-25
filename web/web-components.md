@@ -80,3 +80,4 @@
 - [Clarity Design System](https://clarity.design/) - Scalable, accessible, customizable, open-source design system built with web components. ([Code](https://github.com/vmware-clarity/core))
 - [ESLint rules for Lightning Web Components (LWC)](https://github.com/salesforce/eslint-plugin-lwc)
 - [webcomponent](https://github.com/richardanaya/webcomponent) - Web component library for rust.
+- [Reactive Controllers feature in Lit 2](https://twitter.com/buildWithLit/status/1507032453080305665) - Lets you integrate state manager logic across components.

@@ -105,3 +105,4 @@
 - [When and why to deprecate filesystems (2022)](https://lwn.net/SubscriberLink/886708/bb94ce7c5231d242/)
 - [File systems can experience at least three different sorts of errors (2022)](https://utcc.utoronto.ca/~cks/space/blog/tech/FilesystemsThreeErrorTypes) ([HN](https://news.ycombinator.com/item?id=30651244))
 - [zchunk](https://github.com/zchunk/zchunk) - Compressed file format that splits the file into independent chunks.
+- [Pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go.

@@ -66,3 +66,4 @@
 - [Conway's Game of Life implementations for Native/Emscripten](https://github.com/gifnksm/game-of-life-rs)
 - [List of life-like cellular automata](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata) ([HN](https://news.ycombinator.com/item?id=30402290))
 - [On the Concept of Motion (2022)](https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/)
+- [Buttons as Finite Automata](https://web.stanford.edu/class/archive/cs/cs103/cs103.1142/button-fsm/) ([HN](https://news.ycombinator.com/item?id=30775365))

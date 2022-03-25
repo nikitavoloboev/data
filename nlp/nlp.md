@@ -505,3 +505,4 @@
 - [Which hardware to train a 176B parameters model? (2022)](https://bigscience.huggingface.co/blog/which-hardware-to-train-a-176b-parameters-model) ([Tweet](https://twitter.com/BigscienceW/status/1503775017653391369))
 - [Fundamentals of NLP](https://github.com/dair-ai/nlp_fundamentals) - Series of hands-on notebooks for learning the fundamentals of NLP.
 - [BertViz](https://github.com/jessevig/bertviz) - Visualize Attention in Transformer Models (BERT, GPT2, BART, etc.).
+- [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) ([Code](https://github.com/bkoch4142/attention-is-all-you-need-paper))

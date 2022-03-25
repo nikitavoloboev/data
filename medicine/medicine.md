@@ -34,3 +34,4 @@
 - [farabio](https://github.com/tuttelikz/farabio) - PyTorch toolkit for biomedical imaging.
 - [Why Do Antibiotics Exist? (2021)](https://journals.asm.org/doi/10.1128/mBio.01966-21) ([HN](https://news.ycombinator.com/item?id=29489010))
 - [Awesome Transformers in Medical Imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)
+- [The illusion of evidence based medicine (2022)](https://www.bmj.com/content/376/bmj.o702) ([HN](https://news.ycombinator.com/item?id=30793352))

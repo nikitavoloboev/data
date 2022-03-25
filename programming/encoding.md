@@ -49,3 +49,4 @@
 - [Why I invented “dash encoding”, a new encoding scheme for URL paths (2022)](https://simonwillison.net/2022/Mar/5/dash-encoding/) ([Tweet](https://twitter.com/simonw/status/1500228316309061633))
 - [You Don't Know GIF – An analysis of a GIF file and some weird GIF features (2022)](https://blog.darrien.dev/posts/you-dont-know-gif/)
 - [DeGauss](https://github.com/vertexclique/degauss) - Avro schema compatibility checker.
+- [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book/hexstrat.html) ([HN](https://news.ycombinator.com/item?id=30783156))

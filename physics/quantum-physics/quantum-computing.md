@@ -145,3 +145,4 @@
 - [Gottesman Types for Quantum Programs (2021)](https://arxiv.org/abs/2109.02197) ([Code](https://github.com/GuillaumeGen/GottesmanTypes))
 - [The quantum technology ecosystem – explained (2022)](https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/)
 - [Quantum Tensors](https://github.com/Quantum-Flytrap/quantum-tensors) - NPM package for sparse matrix operations for quantum information and computing.
+- [NVidia is building a new C++ compiler for quantum computing (2022)](https://twitter.com/blelbach/status/1506663964717027328)

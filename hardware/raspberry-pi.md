@@ -109,3 +109,5 @@
 - [rp2040js](https://github.com/wokwi/rp2040js) - Raspberry Pi Pico Emulator in JavaScript.
 - [Hleeb](https://github.com/MaxDesiatov/Hleeb) - Swift running on bare metal Raspberry Pi.
 - [Raspberry-Pi Security Guide](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare)
+- [SystemSix](https://www.engineersneedart.com/systemsix/systemsix.html) - Desk calendar that displays the weather forecast and phase of the moon on an e-ink display.
+- [Your pocket-sized cloud with a Raspberry Pi (2022)](https://blog.alexellis.io/your-pocket-sized-cloud/)

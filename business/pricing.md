@@ -79,3 +79,4 @@
 - [Pricing Psychology: A List of Tactics](https://www.nickkolenda.com/psychological-pricing-strategies/)
 - [How our free plan stays free (2022)](https://tailscale.com/blog/free-plan/) ([HN](https://news.ycombinator.com/item?id=30701451))
 - [Parity Deals](https://www.paritydeals.com/) - Set up dynamic pricing to boost your sales conversion.
+- [Ask HN: How to provide a free trial without being abused? (2022)](https://news.ycombinator.com/item?id=30800350)

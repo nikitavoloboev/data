@@ -145,3 +145,5 @@
 - [Dojo](https://github.com/dojo-sim/Dojo.jl) - Differentiable physics simulator for robotics.
 - [OCS2 Toolbox](https://github.com/leggedrobotics/ocs2) - Optimal Control for Switched Systems.
 - [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping)
+- [Charge Robotics](https://chargerobotics.com/) - Robots that build solar farms. ([HN](https://news.ycombinator.com/item?id=30780455))
+- [SurRoL: An Open-source Reinforcement Learning Centered and dVRK Compatible Platform for Surgical Robot Learning (2021)](https://arxiv.org/abs/2108.13035) ([Code](https://github.com/med-air/SurRoL))

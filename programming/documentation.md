@@ -1,5 +1,7 @@
 # Documentation
 
+[nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) looks nice.
+
 ## Examples of nice docs
 
 - [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))
@@ -156,3 +158,4 @@
 - [docs.page](https://docs.page/) - Create an instant Open Source docs page with zero configuration. ([Code](https://github.com/invertase/docs.page))
 - [docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch.
 - [VuePress theme - Gitbook inspired](https://github.com/cyrilf/vuepress-theme-book)
+- [nbdoc: Authoring With Notebooks](https://outerbounds.github.io/nbdoc-docusaurus/) ([Code](https://github.com/outerbounds/nbdoc-docusaurus)) ([Tweet](https://twitter.com/HamelHusain/status/1507383929774305282))

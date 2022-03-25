@@ -357,6 +357,7 @@
 - [Universal](https://github.com/stillwater-sc/universal) - Header-only C++ template library for universal number arithmetic.
 - [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [PoseLib](https://github.com/vlarsson/PoseLib) - Minimal solvers for calibrated camera pose estimation.
+- [TOML++](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
 
 ## Links
 

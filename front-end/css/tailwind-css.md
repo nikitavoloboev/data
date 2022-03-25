@@ -131,3 +131,4 @@
 - [tailwindcss-animate](https://github.com/jamiebuilds/tailwindcss-animate) - Tailwind CSS plugin for creating beautiful animations.
 - [TailwindCSS Prettier Plugin](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [Alpine.js and Tailwind HTML setup (2022)](https://danielms.site/blog/alpine.js-and-tailwind-html-setup/)
+- [twd](https://github.com/kt3k/twd) - Simple tailwind like CLI tool for deno.

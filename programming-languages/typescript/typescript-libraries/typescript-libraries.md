@@ -401,6 +401,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [vConsole](https://github.com/Tencent/vConsole) - Lightweight, extendable front-end developer tool for mobile web page.
 - [Boxed](https://github.com/swan-io/boxed) - Utility types for functional TypeScript.
 - [Cucumber Screenplay](https://github.com/cucumber/screenplay.js) - Library to ease implementation of the Screenplay pattern with CucumberJS.
+- [DeepmergeTS](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 
 ## Links
 

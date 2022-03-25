@@ -52,3 +52,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [AFX](https://github.com/b4b4r07/afx) - Package manager for command-line tools and shell plugins. afx can allow us to manage almost all things available on GitHub, Gist and so on.
 - [Upt](https://github.com/sigoden/upt) - Universal Package-management Tool for Windows, macOS and Linux.
 - [mpm](https://github.com/kdeldycke/meta-package-manager) - Meta Package Manager. One CLI for all package managers.
+- [trdl](https://github.com/werf/trdl) - Universal package manager delivering new versions of your application from a trusted TUF repository. ([Web](https://trdl.dev/))

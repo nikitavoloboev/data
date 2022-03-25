@@ -72,3 +72,4 @@
 - [Topos theory for Lean](https://github.com/b-mehta/topos)
 - [Lean for the Curious Mathematician 2020](https://github.com/leanprover-community/lftcm2020) ([Web](https://leanprover-community.github.io/lftcm2020/))
 - [Ground Zero](https://github.com/forked-from-1kasper/ground_zero) - Library provides computable HITs, variation of Cubical Type Theory using them, and some other math.
+- [Lean 4 Metaprogramming Book](https://github.com/arthurpaulino/lean4-metaprogramming-book)

@@ -167,3 +167,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Ask HN: I'm So Lonely (2022)](https://news.ycombinator.com/item?id=30668506)
 - [Thoughts on dating](https://twitter.com/CurziRose/status/1503138337829240833)
 - [What’s your unpopular dating opinion? (2022)](https://www.reddit.com/r/datingoverthirty/comments/tjm9kz/whats_your_unpopular_dating_opinion_that_would/)
+- [What are the actual differences between a casual relationship and a serious relationship? (2022)](https://www.reddit.com/r/datingoverthirty/comments/tl191p/what_are_the_actual_differences_between_a_casual/)

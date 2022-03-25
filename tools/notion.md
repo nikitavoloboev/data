@@ -96,3 +96,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion) - Notion as a platform for offensive operations.
 - [Nautomate](https://www.nautomate.app/) - Notion actions in Shortcuts.
 - [Synced Databases in Notion (2022)](https://www.notion.so/blog/synced-databases)
+- [Notion Exporter](https://github.com/yannbolliger/notion-exporter) - CLI tool and TypeScript library for exporting Markdown and CSV files from any Notion.so page.

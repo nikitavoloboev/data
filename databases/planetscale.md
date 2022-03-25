@@ -12,3 +12,5 @@
 - [Prisma & PlanetScale Best Practices (2022)](https://www.youtube.com/watch?v=iaHt5_hg44c)
 - [Beam: Simple sharing across your organization](https://planetscale.com/blog/introducing-beam) ([HN](https://news.ycombinator.com/item?id=30446038))
 - [PlanetScale increases plans to include billions of reads (2022)](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads) ([HN](https://news.ycombinator.com/item?id=30457960))
+- [PlanetScale Rewind: Revert a migration without losing data (2022)](https://planetscale.com/blog/its-fine-rewind-revert-a-migration-without-losing-data) ([HN](https://news.ycombinator.com/item?id=30788768))
+- [Behind the scenes: How we built Rewind (2022)](https://planetscale.com/blog/behind-the-scenes-how-we-built-rewind)

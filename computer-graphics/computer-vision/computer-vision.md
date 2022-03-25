@@ -624,7 +624,12 @@
 - [Remote-sensing-image-semantic-segmentation](https://github.com/TachibanaYoshino/Remote-sensing-image-semantic-segmentation) - Uses Unet-based improved networks to study Remote sensing image semantic segmentation, which is based on keras.
 - [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies (2021)](https://arxiv.org/abs/2105.02872) ([Code](https://github.com/zju3dv/animatable_nerf))
 - [TensoRF: Tensorial Radiance Fields (2022)](https://arxiv.org/abs/2203.09517) ([Code](https://github.com/apchenstu/TensoRF))
-- [Autoregressive Image Generation using Residual Quantization (2022)](https://arxiv.org/abs/2203.01941) ([Code](https://github.com/lucidrains/RQ-Transformer))
+- [Autoregressive Image Generation using Residual Quantization (2022)](https://arxiv.org/abs/2203.01941) ([Code](https://github.com/lucidrains/RQ-Transformer)) ([Code](https://github.com/kakaobrain/rq-vae-transformer))
 - [Pix2Pix Timbre Transfer](https://github.com/hmartelb/Pix2Pix-Timbre-Transfer)
 - [One-Shot Adaptation of GAN in Just One CLIP (2022)](https://arxiv.org/abs/2203.09301) ([Code](https://github.com/submission6378/OneshotCLIP))
 - [PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds (2021)](https://arxiv.org/abs/2103.14635) ([Code](https://github.com/CVMI-Lab/PAConv))
+- [VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training (2022)](https://arxiv.org/abs/2203.12602) ([Code](https://github.com/MCG-NJU/VideoMAE))
+- [Awesome Masked Image Modeling](https://github.com/ucasligang/awesome-MIM)
+- [BigDetection: A Large-scale Benchmark for Improved Object Detector Pre-training (2022)](https://arxiv.org/abs/2203.13249) ([Code](https://github.com/amazon-research/bigdetection))
+- [A Transformer-Based Siamese Network for Change Detection (2022)](https://arxiv.org/abs/2201.01293) ([Code](https://github.com/wgcban/ChangeFormer))
+- [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition (2021)](https://arxiv.org/abs/2103.01486) ([Code](https://github.com/QVPR/Patch-NetVLAD))

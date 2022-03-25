@@ -235,3 +235,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana Ping API](https://github.com/solana-labs/solana-ping-api)
 - [anchor-client-gen](https://github.com/kklas/anchor-client-gen) - Generate typescript Solana web3 clients from anchor IDLs.
 - [Orca](https://www.orca.so/) - Easiest place to exchange cryptocurrency on Solana. ([Discord](https://discord.orca.so/))
+- [Chainlink Solana Starter Kit](https://github.com/smartcontractkit/solana-starter-kit)

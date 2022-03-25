@@ -664,3 +664,8 @@
 - [Kubernetes models in TypeScript](https://github.com/tommy351/kubernetes-models-ts)
 - [Helm Teller](https://github.com/SpectralOps/helm-teller) - Allows you to inject configuration and secrets from multiple providers into your chart while masking the secrets at the deployment.
 - [Problems with “graceful shutdown” in Kubernetes (2019)](https://philpearl.github.io/post/k8s_ingress/) ([HN](https://news.ycombinator.com/item?id=30771149))
+- [Pod Graceful Drain](https://github.com/foriequal0/pod-graceful-drain)
+- [Portieris](https://github.com/IBM/portieris) - Kubernetes Admission Controller for verifying image trust with Notary.
+- [Platform Aware Scheduling](https://github.com/intel/platform-aware-scheduling) - Enabling Kubernetes to make pod placement decisions with platform intelligence.
+- [Canary Deployment with Kubernetes and Istio (2022)](https://www.fpcomplete.com/blog/canary-deployment-istio/)
+- [Thundernetes](https://github.com/PlayFab/thundernetes) - Makes it easy to run your game servers on Kubernetes.

@@ -30,3 +30,5 @@
 - [Publish your PWA to the iOS App Store (2021)](https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/) ([HN](https://news.ycombinator.com/item?id=29040793))
 - [PWABuilder pwa-starter](https://github.com/pwa-builder/pwa-starter) - Opinionated, best practices, production tested starter that we use to build all of our PWAs.
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration.
+- [PWA Resources](https://github.com/shareup/pwa-resources) - Curated collection of resources for learning to build Progressive Web Apps.
+- [Best PWAs out there (2022)](https://twitter.com/hankchizljaw/status/1506724902702927875)

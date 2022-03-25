@@ -19,3 +19,4 @@ CodeSandbox is neat. Especially in how it lets anyone easily collaborate and for
 - [CodeSandbox URL shortcuts](https://twitter.com/CompuIves/status/1291020566221205511)
 - [Sandpack](https://github.com/codesandbox/sandpack) - Ecosystem of components and utilities built around the browser bundler that powers CodeSandbox. ([Article](https://codesandbox.io/post/sandpack-announcement)) ([Tweet](https://twitter.com/codesandbox/status/1466428912087576587))
 - [CodeSandbox Projects Announcement (2022)](https://www.youtube.com/watch?v=XYOjF1dFt4g) ([Tweet](https://twitter.com/codesandbox/status/1504478335627268105))
+- [remark-codesandbox](https://github.com/kevin940726/remark-codesandbox) - Create CodeSandbox directly from code blocks.

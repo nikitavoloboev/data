@@ -1,5 +1,7 @@
 # [DynamoDB](https://aws.amazon.com/dynamodb)
 
+[NoSQL Data Modeling with Amazon DynamoDB](https://www.youtube.com/watch?v=h7mH2Bxkc6k) is good intro talk.
+
 ## OSS DynamoDB apps
 
 - [Note Service (Next Generation)](https://github.com/deeheber/note-service-next-generation) - GraphQL CRUD API built using AWS AppSync, Lambda, DynamoDB, CDK, Typescript.
@@ -81,3 +83,5 @@
 - [serde_dynamodb](https://github.com/mockersf/serde_dynamodb) - Talk with dynamodb using your existing structs thanks to serde.
 - [Happy 10th Birthday, DynamoDB (2022)](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/)
 - [Serverless Typescript Demo](https://github.com/aws-samples/serverless-typescript-demo) - Simple serverless application built in Typescript and uses Node.js 14 runtime.
+- [Serverless search for DynamoDB](https://github.com/jakejscott/dynamodb-stream-indexer)
+- [Alex DeBrie: NoSQL Data Modeling with Amazon DynamoDB (2022)](https://www.youtube.com/watch?v=h7mH2Bxkc6k)

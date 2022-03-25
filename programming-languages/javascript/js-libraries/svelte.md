@@ -202,3 +202,5 @@
 - [Creating a RSS feed with Sanity and Svelte Kit (2022)](https://ghostdev.xyz/posts/creating-a-rss-feed-with-sanity-and-svelte-kit)
 - [svelte-file-dropzone](https://github.com/thecodejack/svelte-file-dropzone) - Svelte component for file upload.
 - [Render your Svelte code blocks in MDSveX](https://github.com/mattjennings/mdsvexamples)
+- [graph-paper](https://github.com/graph-paper-org/graph-paper) - Svelte component library optimized for data visualizations and data apps.
+- [svelte-code-input](https://github.com/stordahl/svelte-code-input) - Simple text input that behaves like a code editor.

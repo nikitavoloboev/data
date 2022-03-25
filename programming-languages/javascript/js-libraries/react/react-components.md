@@ -282,6 +282,7 @@
 - [React Use Intercom](https://github.com/devrnt/react-use-intercom) - React Intercom integration powered by hooks.
 - [React Arborist](https://github.com/brimdata/react-arborist) - Sortable, virtual, customizable tree component for React. ([HN](https://news.ycombinator.com/item?id=30759358))
 - [Stream Chat React SDK](https://github.com/GetStream/stream-chat-react) - React components for Stream Chat, a service for building chat applications.
+- [Allotment](https://github.com/johnwalley/allotment) - React split-pane component.
 
 ## Links
 

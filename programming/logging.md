@@ -62,3 +62,4 @@
 - [Tango](https://github.com/roma-glushko/tango) - Tool to get insights from the server access logs.
 - [Logging at Twitter (2021)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated) ([HN](https://news.ycombinator.com/item?id=30393683))
 - [Metrics For Your Web Application's Dashboards (2022)](https://sirupsen.com/metrics)
+- [sugarjazy](https://github.com/chmouel/sugarjazy) - Parse JSON logs nicely.

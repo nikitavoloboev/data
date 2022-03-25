@@ -64,3 +64,4 @@
 - [Aya](https://github.com/aya-prover/aya-dev) - Programming language and a proof assistant designed for formalizing math and type-directed programming. ([Web](https://www.aya-prover.org/))
 - [tinka-hs](https://github.com/atennapel/tinka-hs) - Dependently typed programming language written in Haskell.
 - [Cedille](https://github.com/cedille/cedille) - Dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations. ([Web](https://cedille.github.io/))
+- [Mini-TT](https://github.com/bollu/minitt) - Curricula for learning how to implement dependently typed languages by recursive paper-chasing.

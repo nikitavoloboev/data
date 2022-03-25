@@ -96,3 +96,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS web browsers integration group](https://github.com/ipfs/in-web-browsers)
 - [IPFS Bootcamp](https://github.com/adlrocha/ipfs-bootcamp)
 - [IPFS Camp](https://camp.ipfs.io/) - 3 day hacker retreat designed for the builders of the Distributed Web. ([Code](https://github.com/ipfs/camp))
+- [Performance Evaluation of IPFS in Private Networks (2021)](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159) ([HN](https://news.ycombinator.com/item?id=30797568))

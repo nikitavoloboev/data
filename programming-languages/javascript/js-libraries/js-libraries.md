@@ -850,6 +850,7 @@
 - [globby](https://github.com/sindresorhus/globby) - User-friendly glob matching.
 - [TreeModel](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in JavaScript.
 - [fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify.
+- [loopbench](https://github.com/mcollina/loopbench) - Benchmark your event loop.
 
 ## Links
 
@@ -912,3 +913,4 @@
 - [actual-malware](https://github.com/qpwo/actual-malware) - npm package to upload your private ssh keys to a pastebin. ([HN](https://news.ycombinator.com/item?id=30679098))
 - [What NPM Should Do Today To Stop A New Colors Attack Tomorrow (2022)](https://research.swtch.com/npm-colors) ([Lobsters](https://lobste.rs/s/btw27b/what_npm_should_do_today_stop_new_colors))
 - [only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project.
+- [Keymaster](https://github.com/madrobby/keymaster) - Simple micro-library for defining and dispatching keyboard shortcuts in web applications.

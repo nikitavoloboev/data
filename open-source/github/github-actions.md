@@ -306,6 +306,7 @@
 ## Swift
 
 - [SwiftPM Jazzy Docs](https://github.com/sersoft-gmbh/swifty-docs-action) - Generates and combines jazzy docs for all products of a Swift package.
+- [GitHub Action for SwiftLint](https://github.com/norio-nomura/action-swiftlint)
 
 ## Scala
 

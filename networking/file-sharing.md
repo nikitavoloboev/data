@@ -105,3 +105,4 @@
 - [Best way to share files between Linux computers (2022)](https://twitter.com/alyssarzg/status/1499078915607998466)
 - [PicoShare](https://pico.rocks/) - Service for sharing images, videos, and other files. ([Code](https://github.com/mtlynch/picoshare))
 - [Termscp](https://github.com/veeso/termscp) - Feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3.
+- [Rusty Wormhole](https://github.com/magic-wormhole/magic-wormhole.rs) - Get things from one computer to another, safely. Rust implementation of Magic Wormhole, with new features and enhancements.

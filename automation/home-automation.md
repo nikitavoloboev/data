@@ -61,3 +61,4 @@
 - [OpenHAB](https://www.openhab.org/) - Vendor and tech agnostic open source automation software for your home. ([HN](https://news.ycombinator.com/item?id=30667846))
 - [Smart Home components (2022)](https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/)
 - [Remote Home-Assistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together.
+- [Houseflow](https://github.com/gbaranski/houseflow) - Home automation platform made in Rust.

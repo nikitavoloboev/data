@@ -344,3 +344,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [CS Course: Design and Implementation of Operating Systems (2021)](https://www.cs.yale.edu/flint/cs422/index.html)
 - [Qemantra](https://github.com/pspiagicw/qemantra) - Tool for creating and running QEMU Virtual Machines.
 - [x86-64 VMM for seL4: Security Analysis and Requirements](https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf)
+- [OSBuild](https://github.com/osbuild/osbuild) - Build-Pipelines for Operating System Artifacts. ([Web](https://www.osbuild.org/))
+- [Writing a Simple Operating System – From Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) ([HN](https://news.ycombinator.com/item?id=30800715))

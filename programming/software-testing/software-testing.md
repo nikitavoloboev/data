@@ -89,7 +89,7 @@
 - [Automated Testing with Specifications (2021)](https://www.youtube.com/watch?v=MLcNhc27Ghw)
 - [Core Concepts in Software Testing Workshop](https://github.com/jbelmont/software-testing-workshop)
 - [TDD: Getting Out of My Own Way (2021)](https://adamtuttle.codes/blog/2021/tdd-getting-out-of-my-own-way/)
-- [How to Test (2021)](https://matklad.github.io//2021/05/31/how-to-test.html)
+- [How to Test (2021)](https://matklad.github.io/2021/05/31/how-to-test.html)
 - [Testing in the Twenties (2021)](https://www.tbray.org/ongoing/When/202x/2021/05/15/Testing-in-2021)
 - [start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server.
 - [On the Diverse And Fantastical Shapes of Testing (2021)](https://martinfowler.com/articles/2021-test-shapes.html) ([Tweet](https://twitter.com/samnewman/status/1400426270803042305))
@@ -137,3 +137,4 @@
 - [Ten-year experience in DBMS testing (2022)](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea)
 - [Three Rules of TDD](https://github.com/wix/tdd-katas)
 - [End to End CI Tests in Minutes with Netlify, Playwright & Github Actions (2021)](https://tone-row.com/blog/e2e-ci-testing-netlify-playwright-github-actions)
+- [How do you check quality of each release (2022)](https://twitter.com/GergelyOrosz/status/1507282293970325506)

@@ -31,3 +31,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Francis Ford Coppola’s $100M Dollar Bet (2022)](https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather) ([HN](https://news.ycombinator.com/item?id=30394720))
 - [What movie-director combination do you think would have been interesting to see? (2022)](https://www.reddit.com/r/Letterboxd/comments/ti6g3i/what_moviedirector_combination_do_you_think_would/)
 - [The secret sounds of Dune: Rice Krispies and Marianne Faithfull (2022)](https://www.nytimes.com/2022/03/16/movies/dune-denis-villeneuve-sound.html) ([HN](https://news.ycombinator.com/item?id=30738735))
+- [Directors with the best 'last film'? (2022)](https://www.reddit.com/r/Letterboxd/comments/tn6znu/directors_with_the_best_last_film/)

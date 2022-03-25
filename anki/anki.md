@@ -66,3 +66,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [markdown-anki-decks](https://github.com/lukesmurray/markdown-anki-decks) - Tool for converting markdown files into anki decks.
 - [On Anki's Database (2022)](https://www.natemeyvis.com/writing/on-ankis-database-structure/) ([HN](https://news.ycombinator.com/item?id=30427549))
 - [Prepform](https://prepform.com/) - AI and spaced-repetition to optimize learning. ([HN](https://news.ycombinator.com/item?id=30631991))
+- [Logseq Anki Sync](https://github.com/debanjandhar12/logseq-anki-sync) - Logseq to Anki Flashcards integration plugin.

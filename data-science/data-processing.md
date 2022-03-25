@@ -87,3 +87,5 @@
 - [ter](https://github.com/schulke-214/ter) - CLI to run text expressions and perform basic text operations such as filtering, ignoring and replacing on the command line.
 - [csv-diff](https://github.com/simonw/csv-diff) - Python CLI tool and library for diffing CSV and JSON files.
 - [pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files.
+- [Kestra](https://kestra.io/) - Infinitely scalable open source orchestration & scheduling platform. ([Code](https://github.com/kestra-io/kestra)) ([HN](https://news.ycombinator.com/item?id=30790047))
+- [TiFlash](https://github.com/pingcap/tiflash) - Analytical engine for TiDB.

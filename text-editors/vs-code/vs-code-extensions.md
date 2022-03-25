@@ -108,6 +108,7 @@ Below is a list of extensions I use.
 - [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs) - Browse, edit and fork GitHub Gists, directly within Visual Studio Code.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more.
 - [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
+- [Tauri](https://github.com/tauri-apps/tauri-vscode) - Tauri apps development.
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Phi](https://github.com/GuillaumeSalles/phi-vscode) - Design components for web in VSCode. Generate code.

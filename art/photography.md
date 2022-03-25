@@ -202,3 +202,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photography is not Objective, Art is a Set of Choices (2022)](https://aaronhertzmann.com/2022/03/17/photography-is-not-objective.html) ([HN](https://news.ycombinator.com/item?id=30716128))
 - [ImageStore](https://github.com/gregordr/ImageStore) - Open source google photos alternative.
 - [Have iPhone cameras become too smart?](https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart) ([HN](https://news.ycombinator.com/item?id=30754912))
+- [Kodak factory tour: How does Kodak make film?](https://www.youtube.com/watch?v=HQKy1KJpSVc) ([HN](https://news.ycombinator.com/item?id=30785978))

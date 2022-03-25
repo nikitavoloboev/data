@@ -107,3 +107,4 @@
 - [Type You An Actor Runtime For Greater Good! (with Java 17, records, switch expressions and JBang) (2022)](https://evacchi.github.io/java/records/jbang/2022/02/13/type-you-an-actor-runtime-java-17-switch-expressions.html)
 - [The JDK Flight Recorder File Format (2022)](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
 - [Inside JVM debug symbols (2022)](https://jpbempel.github.io/2022/03/22/jvm-debug-symbols.html)
+- [Java Development on an Apple M1 – A One Year Review (2022)](https://rieckpil.de/java-development-on-an-apple-m1-a-one-year-review/) ([HN](https://news.ycombinator.com/item?id=30799686))

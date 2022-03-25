@@ -10,6 +10,7 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Magic Mind](https://magicmind.co/)
 - [Misc. Goods Co.](https://misc-goods-co.com/) - Custom Playing Cards | Natural Deodorant | Etc. ([Twitter](https://twitter.com/Misc_Goods_Co))
 - [Joom](https://www.joom.com/en) ([GitHub](https://github.com/joomcode))
+- [Baby Shop](https://www.babyshop.com/)
 
 ## Links
 

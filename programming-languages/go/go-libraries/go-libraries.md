@@ -11,6 +11,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [teacup](https://github.com/knipferrc/teacup) - Collection of bubbles and utilities for bubbletea applications.
 - [Lip Gloss](https://github.com/charmbracelet/lipgloss) - CSS-like layout library for the terminal for Go.
 - [Table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubble Tea applications.
+- [Stickers](https://github.com/76creates/stickers) - Collection of TUI elements, FlexBox and Table at the moment, its build for bubbletea using lipgloss.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
 - [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go.
@@ -433,12 +434,13 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [zizou](https://github.com/arriqaaq/zizou) - In memory cache implementation with high concurrency.
 - [go-zetasql](https://github.com/goccy/go-zetasql) - Go bindings for ZetaSQL. ZetaSQL can parse all queries related to Cloud Spanner and BigQuery.
 - [Permify Gorm](https://github.com/Permify/permify-gorm) - Associate users with roles and permissions.
-- [Goven](https://github.com/SeldonIO/goven) - Go library that allows you to have a drop-in query language for your database schema.
+- [Goven](https://github.com/SeldonIO/goven) - Go library that allows you to have a drop-in query language for your database schema. ([Building Goven](https://www.seldon.io/building-goven-an-extensible-query-language-in-golang-%f0%9f%a7%91%f0%9f%8d%b3%ef%bf%bc))
 - [Margaret](https://github.com/cryptoscope/margaret) - Flume-like persisted append-only log implementation.
 - [RedisAI Go Client](https://github.com/RedisAI/redisai-go)
 - [GocqlX](https://github.com/scylladb/gocqlx) - All-In-One: CQL query builder, ORM and migration tool.
 - [Memory Cache](https://github.com/rodrigo-brito/memory-cache) - Zero-dependency cache library for storing data in memory with generics.
 - [GoMybatis](https://github.com/zhuxiujia/GoMybatis) - Go ORM Library. Powerful Features like transaction nesting, Optimistic Lock, Logical deletion and more.
+- [Ristretto](https://github.com/outcaste-io/ristretto) - Fast, concurrent cache library built with a focus on performance and correctness.
 
 ## ML
 
@@ -488,6 +490,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go.
 - [clusters](https://github.com/muesli/clusters) - Data structs and algorithms for clustering data observations and basic computations in n-dimensional spaces.
 - [Autodiff](https://github.com/pbenner/autodiff) - Numerical library for Go. Supports automatic differentiation.
+- [go3d](https://github.com/ungerik/go3d) - Performance oriented vector and matrix math package for 2D and 3D graphics.
 
 ## Docker
 
@@ -1445,6 +1448,11 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
 - [Exponential Backoff](https://github.com/cenkalti/backoff) - Exponential backoff algorithm in Go. Uses feedback to multiplicatively decrease the rate of some process, in order to gradually find an acceptable rate.
 - [Go Reflector](https://github.com/tkrajina/go-reflector) - Go reflection simplified.
+- [sroar](https://github.com/outcaste-io/sroar) - 64-bit Roaring Bitmaps in Go.
+- [build-info-go](https://github.com/jfrog/build-info-go) - Go library, which allows generating build-info for a source code project.
+- [dd](https://github.com/Code-Hex/dd) - Dump any data as valid syntax in Go.
+- [stack](https://github.com/go-stack/stack) - Implements utilities to capture, manipulate, and format call stacks.
+- [hq](https://github.com/nikolaydubina/hq) - Happy little queue.
 
 ## Links
 
@@ -1520,3 +1528,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ART: Building a Prefix Search Trie in Go (2022)](https://aly.arriqaaq.com/art-building-a-prefix-search-trie-in-go/)
 - [Hacking sum types with Go generics (2022)](https://blog.lawrencejones.dev/go-sum-type/) ([HN](https://news.ycombinator.com/item?id=30671883))
 - [supply-chain-example](https://github.com/goreleaser/supply-chain-example) - GoReleaser + Go Mod proxying + Cosign keyless signing + Syft SBOM generation example.
+- [Modern Go Application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
+- [How we used Go 1.18 generics when designing our Identifiers at Encore (2022)](https://encore.dev/blog/go-1.18-generic-identifiers) ([Lobsters](https://lobste.rs/s/uakuuc/how_we_used_go_1_18_generics_when_designing))

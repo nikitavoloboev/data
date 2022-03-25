@@ -59,7 +59,6 @@
 - [Autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from node_modules.
 - [pre-bundled](https://github.com/Raynos/pre-bundled) - Tool that pre bundles and re publishes npm dependencies.
 - [oclif](https://github.com/oclif/oclif) - Framework for building CLIs in Node.js
-- [Postgres.js](https://github.com/porsager/postgres) - Fastest full featured PostgreSQL client for Node.js
 - [Node.js Interview Questions](https://www.cheaki.com/nodejs/nodejs-interview-questions)
 - [SOLID: Introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io/)
 - [graffiti](https://github.com/cztomsik/graffiti) - Web-like GUI toolkit for node.js with minimal overhead. Lightweight, GPU-rendered alternative to electron.
@@ -338,3 +337,4 @@
 - [Netlify Zip it and Ship it](https://github.com/netlify/zip-it-and-ship-it) - Intelligently prepare Node.js Lambda functions for deployment.
 - [fetch() In Node.js Core: Why You Should Care (2022)](https://fusebit.io/blog/node-fetch/)
 - [reSolve](https://github.com/reimagined/resolve) - Full stack CQRS, DDD, Event Sourcing framework for Node.js.
+- [EvtStore](https://github.com/Seikho/evtstore) - Type-safe Event Sourcing and CQRS with Node.JS and TypeScript.

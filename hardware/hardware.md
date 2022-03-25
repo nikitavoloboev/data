@@ -225,7 +225,7 @@
 - [Pillars](https://github.com/pku-dasys/pillars) - Integrated CGRA design framework.
 - [Reverse Engineering the M1 (2021)](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf) ([HN](https://news.ycombinator.com/item?id=28079038))
 - [DIY Air Quality Sensor (2021)](https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/) ([Lobsters](https://lobste.rs/s/2f4l7j/diy_air_quality_sensor))
-- [Cat Printer](https://github.com/rbaron/catprinter) - Portable thermal printer.
+- [Cat Printer](https://github.com/rbaron/catprinter) - Portable thermal printer. ([HN](https://news.ycombinator.com/item?id=30804204))
 - [What scientists must know about hardware to write fast code (2021)](https://viralinstruction.com/posts/hardware/)
 - [Deviceplane](https://deviceplane.com/) - Securely access remote devices and servers.
 - [It's Time for Operating Systems to Rediscover Hardware](https://www.usenix.org/conference/osdi21/presentation/fri-keynote) ([HN](https://news.ycombinator.com/item?id=28374523))
@@ -301,3 +301,4 @@
 - [Semiconductors are more than just processors and GPUs (2022)](https://blog.robertelder.org/semiconductor-example-uses/) ([HN](https://news.ycombinator.com/item?id=30711621))
 - [Trusted Firmware](https://www.trustedfirmware.org/) - Open Source Secure Software - Trusted Firmware.
 - [Mac Studio M1 Ultra Teardown (2022)](https://www.youtube.com/watch?v=IY0gRMpT4AY) ([HN](https://news.ycombinator.com/item?id=30735790))
+- [What ASML Has Next After EUV (2022)](https://www.youtube.com/watch?v=en7hhFJBrAI)

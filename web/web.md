@@ -384,3 +384,7 @@
 - [MDN data](https://github.com/mdn/data) - General data for Web technologies.
 - [WebMention Test Pinger](https://github.com/voxpelli/node-webmention-testpinger) - Tool to ping your site with a variety of real world WebMentions.
 - [Webhooks – The Definitive Guide](https://webhook.net/)
+- [Mozilla’s vision for the evolution of the Web](https://webvision.mozilla.org/full/)
+- [Web Platform Tests Dashboard](https://wpt.fyi/results/?label=master&label=experimental&aligned) ([Code](https://github.com/web-platform-tests/wpt.fyi))
+- [MDN Plus](https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/) ([HN](https://news.ycombinator.com/item?id=30792365))
+- [Web NFC Community Group](https://www.w3.org/community/web-nfc/) - Create a Near Field Communication API that is browser-friendly and adheres to the Web's security model. ([Code](https://github.com/w3c/web-nfc))

@@ -1,5 +1,7 @@
 # [Discord](https://discord.com)
 
+[Harmony](https://github.com/harmonyland/harmony) is nice bot library.
+
 ## Bots
 
 - [Skyra](https://github.com/skyra-project/skyra) - All-in-one multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability. ([Web](https://skyra.pw/))

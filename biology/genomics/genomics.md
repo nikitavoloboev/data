@@ -149,3 +149,5 @@
 - [solo](https://github.com/calico/solo) - Doublet detection via semi-supervised deep learning.
 - [scNym](https://github.com/calico/scnym) - Semi-supervised adversarial neural networks for single cell classification.
 - [FLAMES](https://github.com/LuyiTian/FLAMES) - Full-length transcriptome splicing and mutation analysis.
+- [Open Problems in Single-Cell Analysis](https://github.com/openproblems-bio/openproblems) - Formalizing and benchmarking open problems in single-cell genomics.
+- [HiGlass](http://higlass.io/app) - Fast, flexible and extensible genome browser. ([Code](https://github.com/higlass/higlass))

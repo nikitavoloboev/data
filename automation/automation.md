@@ -41,6 +41,7 @@
 - [aho](https://github.com/egoist/aho) - Ultra simple project scaffolding.
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework that inspires developers to become better test automation engineers. ([Docs](https://seleniumbase.io/))
 - [SikuliX](https://github.com/RaiMan/SikuliX1) - Automates anything you see on the screen of your desktop computer. ([HN](https://news.ycombinator.com/item?id=30317313))
+- [Director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery.
 
 ## Images
 

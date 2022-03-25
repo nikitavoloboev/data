@@ -64,3 +64,4 @@
 - [Modulation](https://github.com/digital-fabric/modulation) - Explicit Dependency Management for Ruby.
 - [Magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby code from a Rust binary.
 - [Steep](https://github.com/soutaro/steep) - Gradual Typing for Ruby.
+- [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries. ([GitHub](https://github.com/dry-rb))

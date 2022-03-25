@@ -111,3 +111,4 @@
 - [Wikidata Data Reuse Days 2022](https://diff.wikimedia.org/event/wikidata-data-reuse-days-2022/)
 - [Bridging Knowledge Graphs to Generate Scene Graphs (2020)](https://arxiv.org/abs/2001.02314) ([Code](https://github.com/alirezazareian/gbnet))
 - [spaCy ANN Linker](https://github.com/microsoft/spacy-ann-linker) - SpaCy pipeline component for generating spaCy KnowledgeBase Alias Candidates for Entity Linking.
+- [Text Generation from Knowledge Graphs with Graph Transformers (2019)](https://arxiv.org/abs/1904.02342) ([Code](https://github.com/rikdz/GraphWriter))

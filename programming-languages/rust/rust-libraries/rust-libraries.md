@@ -42,6 +42,7 @@
 - [superconsole](https://github.com/facebookincubator/superconsole) - Component-based framework for building Rust TUIs.
 - [terminal-keycode](https://github.com/substack/terminal-keycode.rs) - Convert bytes from a terminal into keycodes.
 - [tui-realm](https://github.com/veeso/tui-realm) - Tui-rs framework to build stateful applications with a React/Elm inspired approach.
+- [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
 
 ## Web
 
@@ -1619,6 +1620,7 @@
 - [Lightning](https://github.com/ShisoftResearch/Lightning) - Set of lock-free data structures.
 - [Moniker](https://github.com/brendanzab/moniker) - Makes it simple to track variables across nested scopes in programming language implementations.
 - [Hydroflow](https://github.com/hydro-project/hydroflow) - Hydro's low-level dataflow runtime.
+- [zip-rs](https://github.com/zip-rs/zip) - Zip library for rust which supports reading and writing of simple ZIP files.
 
 ## Cargo Plugins
 
@@ -1781,3 +1783,4 @@
 - [Full-Stack Clean Architecture with Rust](https://github.com/flosse/clean-architecture-with-rust)
 - [rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross.
 - [absolution](https://github.com/Manishearth/absolution) - "Freedom from syn": Proc macro tools for operating on token trees.
+- [Best and worse cases of error handling code in rust (2022)](https://twitter.com/yaahc_/status/1506799278211014658)

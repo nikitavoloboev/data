@@ -113,3 +113,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [What's the best advice you've ever been given? (2022)](https://www.reddit.com/r/AskMen/comments/syrt3k/whats_the_best_advice_youve_ever_been_given/)
 - [Women over 30 - what’s one thing you now understand about life that you didn’t before? (2022)](https://www.reddit.com/r/AskWomen/comments/t0563l/women_over_30_whats_one_thing_you_now_understand/)
 - [Advice in navigating late 20's and early 30's](https://www.reddit.com/r/slatestarcodex/comments/td9xct/looking_for_advice_in_navigating_late_20s_and/)
+- [Ask HN: What do you wish you had done/known in your 30s? (2022)](https://news.ycombinator.com/item?id=30782994)

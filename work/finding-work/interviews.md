@@ -161,3 +161,4 @@
 - [I’ve done 2,000 interviews. AMA](https://twitter.com/Suhail/status/1494150182392385536)
 - [Caltech's CS interview prep course](http://courses.cms.caltech.edu/cs11/material/interviews/) ([HN](https://news.ycombinator.com/item?id=30492262))
 - [Why coding interviews aren't all that bad (2022)](https://eli.thegreenplace.net/2022/why-coding-interviews-arent-all-that-bad/)
+- [Backend SWE interview questions](https://github.com/tamhoang1412/backend-swe-interview-questions)

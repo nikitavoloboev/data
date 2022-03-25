@@ -229,3 +229,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Light mode, Dark mode, and Gen-Z mode? (2022)](https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode) ([HN](https://news.ycombinator.com/item?id=30685587))
 - [Marvel](https://marvelapp.com/) - Rapid prototyping, testing and handoff for modern design teams.
 - [Tome](https://beta.tome.app/) - Storytelling tool for work.
+- [Who is hiring designers (2022)](https://twitter.com/jsngr/status/1507035119457951745)

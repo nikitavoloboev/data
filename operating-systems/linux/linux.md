@@ -487,3 +487,5 @@
 - [Linux needs a explicitly defined userspace API](http://catern.com/linux_api.html)
 - [liburing](https://github.com/axboe/liburing) - io_uring library.
 - [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
+- [Netconsd](https://github.com/facebook/netconsd) - Receive and process logs from the Linux kernel.
+- [Linux SysOps Handbook](https://github.com/abarrak/linux-sysops-handbook) - Study notes for the common knowledge and tasks of Linux system admins.

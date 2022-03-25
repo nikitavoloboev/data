@@ -169,3 +169,5 @@
 - [Don’t point out something wrong immediately (2022)](https://blog.the-pans.com/wrong/) ([HN](https://news.ycombinator.com/item?id=30356177))
 - [Most helpful thing someone has said to you when you’re in a tough spot](https://twitter.com/ShaneAParrish/status/1494655217652191236)
 - [Ask HN: How do I develop skills to comfort people and offer compassion? (2022)](https://news.ycombinator.com/item?id=30412165)
+- [Ask HN: What is your recommended stack for real time chat? (2022)](https://news.ycombinator.com/item?id=30789263)
+- [Tell HN: There needs to be a “right to speak with a human” (2022)](https://news.ycombinator.com/item?id=30788681)

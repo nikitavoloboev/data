@@ -164,6 +164,8 @@
 - [LowLevelParticleFilters](https://github.com/baggepinnen/LowLevelParticleFilters.jl) - Simple particle/kalman filtering, smoothing and parameter estimation.
 - [AbstractPPL.jl](https://github.com/TuringLang/AbstractPPL.jl) - Common types and interfaces for probabilistic programming.
 - [PiecewiseLinearOpt](https://github.com/joehuchette/PiecewiseLinearOpt.jl) - Solve optimization problems containing piecewise linear functions.
+- [FixedPointNumbers](https://github.com/JuliaMath/FixedPointNumbers.jl) - Implements fixed-point number types.
+- [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) - Online Algorithms for Statistics, Models, and Big Data Viz.
 
 ## NLP
 
@@ -514,6 +516,7 @@
 - [ImageProjectiveGeometry](https://github.com/peterkovesi/ImageProjectiveGeometry.jl) - Projective geometry for computer vision in Julia.
 - [ArrayAllocators](https://github.com/mkitti/ArrayAllocators.jl) - Allocate arrays with malloc, calloc, or on NUMA nodes.
 - [InMemoryDatasets](https://github.com/sl-solution/InMemoryDatasets.jl) - Multithreaded package for working with tabular data in Julia.
+- [Tilde](https://github.com/cscherrer/Tilde.jl) - Successor to Soss.jl.
 
 ## Links
 

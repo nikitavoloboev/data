@@ -106,7 +106,9 @@
 - [Binary search with confidence](https://blog.tylerhou.io/posts/binary-search-with-confidence/) ([HN](https://news.ycombinator.com/item?id=30582168))
 - [Algorithm Wiki | Interactive algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/)
 - [Advanced Algorithms (CS 224) (2022)](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
+- [Restartable sequences with the polysemic null segment selector (2018)](https://pvk.ca/Blog/2018/08/25/restartable-sequences-with-the-polysemic-null-segment-selector/)
 
 ## Images
 
 ![](http://i0.wp.com/www.jessicayung.com/wp-content/uploads/2016/08/screenshot-5.png?fit=1618%2C1130)
+

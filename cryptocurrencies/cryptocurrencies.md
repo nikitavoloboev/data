@@ -248,3 +248,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Crypto is an unproductive bubble (2022)](https://alexkolchinski.com/2022/03/18/crypto-is-an-unproductive-bubble/) ([HN](https://news.ycombinator.com/item?id=30728856))
 - [Vitalik Buterin is worried about crypto's future (2022)](https://time.com/6158182/vitalik-buterin-ethereum-profile/) ([HN](https://news.ycombinator.com/item?id=30753404))
 - [Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots.
+- [Crypto Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list)
+- [The Edited Latecomer’s Guide to Crypto (2022)](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#) ([HN](https://news.ycombinator.com/item?id=30804984))

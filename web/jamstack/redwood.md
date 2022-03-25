@@ -15,3 +15,4 @@
 - [RedwoodJS and PostgreSQL (2021)](https://daily.dev/blog/redwoodjs-and-postgressql)
 - [Redwood Tutorial App](https://github.com/redwoodjs/redwood-tutorial) - End state after completing the RedwoodJS introduction tutorial.
 - [RedwoodJS Web Code](https://github.com/redwoodjs/redwoodjs.com)
+- [RedwoodJS 1.0 launch](https://twitter.com/redwoodjs/status/1506705583939883008)

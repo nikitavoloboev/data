@@ -103,3 +103,4 @@
 - [Writing ray-tracer using Metal Performance Shaders](https://sergeyreznik.github.io/metal-ray-tracer/index.html)
 - [Rusttracer](https://github.com/k0nserv/rusttracer) - Ray tracer written in Rust for fun and learning.
 - [Haskell Ray Tracer](https://github.com/micahcantor/haskell-raytracer)
+- [How to add thousands of lights to your renderer and not die in the process (2022)](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/) ([HN](https://news.ycombinator.com/item?id=30795858))

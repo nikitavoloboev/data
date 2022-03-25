@@ -150,3 +150,5 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Ask HN: Most Reliable Modern Refrigerator? (2022)](https://news.ycombinator.com/item?id=30663363)
 - [Why Nestle is one of the most hated companies in the world (2021)](https://www.zmescience.com/science/nestle-company-pollution-children/)
 - [Food Packaging](https://www.scanofthemonth.com/scans/food-packaging) ([HN](https://news.ycombinator.com/item?id=30717785))
+- [Crop Map Generation](https://github.com/nasaharvest/crop-mask) - End-to-end workflow for generating high resolution cropland maps.
+- [How could the war in Ukraine impact global food supplies? (2022)](https://ourworldindata.org/ukraine-russia-food)

@@ -67,6 +67,8 @@
 - [spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec.
 - [test-runner](https://github.com/cognitect-labs/test-runner) - Small library for discovering and running tests in projects using native Clojure deps.
 - [test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure.
+- [spec-coerce](https://github.com/wilkerlucio/spec-coerce) - Clojure(script) library designed to leverage your specs to coerce your information into correct types.
+- [coax](https://github.com/exoscale/coax) - Clojure.spec coercion library for clj(s).
 
 ## Graphics
 

@@ -283,7 +283,7 @@
 - [Efficient Video Dataset Loading and Augmentation in PyTorch](https://github.com/RaivoKoot/Video-Dataset-Loading-Pytorch)
 - [Accelerate PyTorch models with ONNX Runtime](https://github.com/pytorch/ort)
 - [Bagua](https://github.com/BaguaSys/bagua) - Deep learning training acceleration framework for PyTorch.
-- [TorchMetrics](https://github.com/PyTorchLightning/metrics) - Machine learning metrics for distributed, scalable PyTorch applications. ([Docs](https://torchmetrics.readthedocs.io/en/latest/))
+- [TorchMetrics](https://github.com/PyTorchLightning/metrics) - Machine learning metrics for distributed, scalable PyTorch applications. ([Docs](https://torchmetrics.readthedocs.io/en/latest/)) ([Article](https://sebastianraschka.com/blog/2022/torchmetrics.html))
 - [AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects) - Automated deep learning algorithms implemented in PyTorch.
 - [PyTorch 1.10 (2021)](https://pytorch.org/blog/pytorch-1.10-released/) ([HN](https://news.ycombinator.com/item?id=28955146))
 - [TorchX](https://github.com/pytorch/torchx) - Library containing standard DSLs for authoring and running PyTorch related components for an E2E production ML pipeline.
@@ -358,3 +358,5 @@
 - [Complete Guide of Swin Transformer with Full PyTorch Implementation (2022)](https://jasonlee-cp.github.io/paper/Swin_Transformer/)
 - [Kernel Point Convolution implemented in PyTorch](https://github.com/HuguesTHOMAS/KPConv-PyTorch)
 - [executorch](https://github.com/raziel/executorch) - Simple and portable executor of PyTorch programs.
+- [Image 2 Vec with PyTorch](https://github.com/christiansafka/img2vec)
+- [Tez](https://github.com/abhishekkrthakur/tez) - Super-simple and lightweight Trainer for PyTorch.

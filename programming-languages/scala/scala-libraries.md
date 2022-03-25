@@ -160,6 +160,7 @@
 - [Difflicious](https://github.com/jatcwang/difflicious) - Scala library for readable diffs of values.
 - [zio-json](https://github.com/zio/zio-json) - Fast, secure JSON library with tight ZIO integration.
 - [Ficus](https://github.com/iheartradio/ficus) - Lightweight companion to Typesafe config that makes it more Scala-friendly.
+- [Colossus](https://github.com/tumblr/colossus) - Lightweight I/O framework for building Scala services.
 
 ## Links
 

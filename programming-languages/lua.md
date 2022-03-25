@@ -106,3 +106,4 @@
 - [Why Python is more popular than Lua (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tfurkb/if_lua_is_faster_and_smaller_than_python_while/)
 - [NattLua](https://github.com/CapsAdmin/NattLua) - Superset of LuaJIT that adds a structural typesystem.
 - [Luar](https://github.com/stevedonovan/luar) - Lua reflection bindings for Go.
+- [RapidJSON bindings for Lua](https://github.com/xpol/lua-rapidjson)

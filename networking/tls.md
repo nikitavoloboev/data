@@ -1,6 +1,6 @@
 # [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
-[Illustrated TLS Connection](https://tls.ulfheim.net/) is useful.
+[Illustrated TLS Connection](https://tls.ulfheim.net/) & [Implementing a toy version of TLS 1.3](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) are useful.
 
 ## Links
 
@@ -79,3 +79,4 @@
 - [tls-listener](https://github.com/tmccombs/tls-listener) - Rust wrapper around a connection listener to support TLS.
 - [qtls](https://github.com/marten-seemann/qtls-go1-18) - Modified version of the standard library's TLS implementation, modified for the QUIC protocol.
 - [Cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts.
+- [Implementing a toy version of TLS 1.3 (2022)](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) ([HN](https://news.ycombinator.com/item?id=30782701))

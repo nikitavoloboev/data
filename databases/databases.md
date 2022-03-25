@@ -218,7 +218,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 ## Tools
 
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
-- [TablePlus](https://tableplus.io/) ([HN](https://news.ycombinator.com/item?id=22908224))
+- [TablePlus](https://tableplus.com/) - Modern, native, and friendly GUI tool for relational databases. ([HN](https://news.ycombinator.com/item?id=22908224)) ([Issues](https://github.com/TablePlus/TablePlus))
 - [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) - Free, open source, multi-platform SQLite database manager.
 - [litecli](https://github.com/dbcli/litecli) - Command-line client for SQLite databases that has auto-completion and syntax highlighting.
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Query and manage your relational databases. ([Code](https://github.com/beekeeper-studio/beekeeper-studio))
@@ -560,3 +560,6 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Database Naming Convention](https://github.com/RootSoft/Database-Naming-Convention)
 - [RepliByte](https://github.com/Qovery/replibyte) - Simplest Way To Synchronize Your Cloud Databases.
 - [Amazon Aurora: Design Considerations + On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes (2022)](https://muratbuffalo.blogspot.com/2022/03/amazon-aurora-design-considerations-and.html?m=1)
+- [SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
+- [IMDBench](https://github.com/edgedb/imdbench) - Benchmarking ORMs with realistic queries.
+- [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/)

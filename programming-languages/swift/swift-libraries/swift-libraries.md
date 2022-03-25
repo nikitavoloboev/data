@@ -237,6 +237,7 @@
 - [SpreadsheetView](https://github.com/bannzai/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications.
 - [Tempura](https://github.com/BendingSpoons/tempura-swift) - Holistic approach to iOS development, inspired by Redux and MVVM.
 - [SPQRCode](https://github.com/sparrowcode/SPQRCode) - Native QR code scanner of iOS. Repeated system scanner from the camera app.
+- [ColorPicker](https://github.com/henzai-apps/ColorPicker) - UI component for pick a color.
 
 ## macOS
 

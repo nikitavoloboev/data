@@ -1,5 +1,7 @@
 # [MQTT](http://mqtt.org/)
 
+> Transport layer protocol between embedded devices and services.
+
 ## Links
 
 - [Sol - An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
@@ -35,3 +37,4 @@
 - [MQTT2Prometheus](https://github.com/hikhvar/mqtt2prometheus) - MQTT to Prometheus gateway.
 - [Mqttrs](https://github.com/00imvj00/mqttrs) - Rust crate (library) to write MQTT protocol clients and servers.
 - [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
+- [Mochi MQTT](https://github.com/mochi-co/mqtt) - Embeddable lightweight, high-performance Go MQTT Server (broker) for IoT and PubSub.

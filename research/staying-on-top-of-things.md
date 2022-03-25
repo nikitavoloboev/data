@@ -254,3 +254,4 @@ And these Discord servers:
 - [Just Five News · Daily News](https://justfive.news/) ([HN](https://news.ycombinator.com/item?id=30585080))
 - [Wikipedia Current Events](https://en.wikipedia.org/wiki/Portal:Current_events)
 - [The spread of misinformation: A pattern we see over and over (2022)](https://statmodeling.stat.columbia.edu/2022/03/18/the-spread-of-misinformation/) ([HN](https://news.ycombinator.com/item?id=30737768))
+- [Ask HN: What do you want from the news? (2022)](https://news.ycombinator.com/item?id=30785786)

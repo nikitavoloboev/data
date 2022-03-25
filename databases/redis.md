@@ -1,5 +1,7 @@
 # [Redis](https://redis.io/)
 
+[Hosting Redis on Fly](https://github.com/fly-apps/redis) is nice.
+
 ## Links
 
 - [Scaling a High-traffic Rate Limiting Stack With Redis Cluster](https://brandur.org/redis-cluster)
@@ -117,3 +119,5 @@
 - [Upstash Redis](https://github.com/upstash/upstash-redis) - HTTP based Redis Client for Serverless and Edge Functions.
 - [Redis data exposer](https://github.com/Erisa/redis-exposer) - Serve read-only Redis data over a HTTP API with auth.
 - [node-resque](https://github.com/actionhero/node-resque) - Node.js Background jobs backed by redis.
+- [Render Redis](https://render.com/blog/redis) ([HN](https://news.ycombinator.com/item?id=30779909))
+- [Launch a Redis server on Fly](https://github.com/fly-apps/redis)

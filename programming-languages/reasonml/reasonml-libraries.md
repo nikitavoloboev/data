@@ -34,6 +34,7 @@
 - [rescript-webapi](https://github.com/tinymce/rescript-webapi) - ReScript bindings to the DOM and other Web APIs.
 - [rescript-libs](https://github.com/ri7nz/rescript-libs) - Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
 - [Jzon](https://github.com/nkrkv/jzon) - ReScript library to encode and decode JSON data with type safety.
+- [re-fp](https://github.com/snatvb/re-fp) - Functional programming library for ReScript.
 
 ## Links
 

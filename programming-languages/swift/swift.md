@@ -281,3 +281,4 @@
 - [Abstract types and methods in Swift (2022)](https://www.swiftbysundell.com/articles/abstract-types-and-methods/)
 - [Optimization in Swift, part 1 (2022)](https://trycombine.com/posts/swift-performance-concurrency-1/)
 - [Swift Evolution Browser](https://github.com/YusukeHosonuma/Swift-Evolution-Browser)
+- [Getting started with CloudKit (2022)](https://swiftwithmajid.com/2022/03/22/getting-started-with-cloudkit/)

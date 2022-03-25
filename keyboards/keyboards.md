@@ -2,7 +2,7 @@
 
 I love keyboards. Specifically I love remapping them with [Karabiner](../macOS/apps/karabiner/karabiner.md) to extend them to do more awesome things for me.
 
-I am currently using builtin 2020 MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards.
+I am currently using builtin MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards.
 
 ## Interesting keyboards
 

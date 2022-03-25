@@ -20,7 +20,7 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Where is the best place for nightlife you’ve traveled to? (2018)](https://www.reddit.com/r/solotravel/comments/9xk3tp/where_is_the_best_place_for_nightlife_youve/)
 - [Sonder](https://www.sonder.com/) - Beautiful spaces built for travel and life.
 - [Common](https://www.common.com/) - Private rooms and beautiful shared spaces in friendly homes.
-- [Travel photos are underrated (2019)](https://devonzuegel.com/post/travel-photos-are-underrated)
+- [Travel photos are underrated (2019)](https://devonzuegel.com/post/travel-photos-are-underrated) ([HN](https://news.ycombinator.com/item?id=30782578))
 - [Hipcamp](https://www.hipcamp.com/) - Everywhere you want to camp.
 - [trippy](https://trippy.netlify.com/) - Tiny and fast travel planner.
 - [Rekka Bellum and Devine Lu Linvega, Hundred Rabbits - XOXO Festival (2019)](https://www.youtube.com/watch?v=BW32yUEymvU)

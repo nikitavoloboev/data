@@ -1,6 +1,6 @@
 # [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
-[Grid Garden](https://cssgridgarden.com/) is great.
+[Grid Garden](https://cssgridgarden.com/) is great intro. [CSS Grid Generator](https://cssgrid-generator.netlify.app/) is useful tool.
 
 ## Notes
 
@@ -15,7 +15,7 @@
 - [Atomic layout](https://github.com/kettanaito/atomic-layout) - Physical representation of layout composition to create declarative, immutable layouts.
 - [CSS Grid subgrid lands in Firefox Nightly](https://rachelandrew.co.uk/archives/2019/05/23/css-grid-subgrid-lands-in-firefox-nightly/)
 - [GRID](http://grid.malven.co/) - Simple visual cheat sheet on CSS Grid.
-- [CSS Grid Generator](https://cssgrid-generator.netlify.com/) ([Code](https://github.com/sdras/cssgridgenerator))
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) ([Code](https://github.com/sdras/cssgridgenerator))
 - [Understanding CSS Grid: Grid Lines (2020)](https://www.smashingmagazine.com/2020/01/understanding-css-grid-lines/)
 - [Animate CSS Grid](https://github.com/aholachek/animate-css-grid) - Seamlessly animate all CSS grid properties.
 - [CSS Grid Template Areas In Action (2020)](https://ishadeed.com/article/grid-area/)

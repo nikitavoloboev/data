@@ -71,3 +71,4 @@
 - [Vulkan Memory Model](https://github.com/KhronosGroup/Vulkan-MemoryModel)
 - [Vulkan Ecosystem Components](https://github.com/KhronosGroup/Vulkan-Loader)
 - [Vulkan & OpenGL CAD Mesh Shader Sample](https://github.com/nvpro-samples/gl_vk_meshlet_cadscene)
+- [How to write a Vulkan driver in 2022](https://www.collabora.com/news-and-blog/blog/2022/03/23/how-to-write-vulkan-driver-in-2022/) ([HN](https://news.ycombinator.com/item?id=30781942))

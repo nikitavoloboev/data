@@ -128,6 +128,7 @@
 - [next-layout](https://github.com/moxystudio/next-layout) - Add persistent and nested layouts to your Next.js projects in a declarative way.
 - [Next Page Layout](https://github.com/abergenw/next-page-layout) - Type safe, zero dependency layout solution with data fetching capabilities for Next.js.
 - [next-with-split](https://github.com/aiji42/next-with-split) - Plugin for split testing (A/B testing) in Next.js.
+- [next-static-paths](https://github.com/Schniz/next-static-paths) - Statically prevent 404s in your Next.js applications using TypeScript.
 
 ## Notes
 

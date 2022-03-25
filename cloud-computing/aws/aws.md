@@ -305,3 +305,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) - Open source library for training and deploying machine learning models on Amazon SageMaker.
 - [Async AWS SDK for Python](https://github.com/terrycain/aioboto3)
 - [AWS Bootstrap Kit Examples Overview](https://github.com/aws-samples/aws-bootstrap-kit-examples)
+- [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool.

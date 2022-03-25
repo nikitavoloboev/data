@@ -526,7 +526,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [List of killed Russian generals in Ukraine war](https://twitter.com/kamilkazani/status/1505576153804800000)
 - [Why the wrong doings of Russia is not just 'Putin fault'](https://twitter.com/EerikNKross/status/1505669877809483785)
 - [Cops as the true revolutionary class](https://twitter.com/kamilkazani/status/1505922839785861120)
-- [Russian Asset Tracker](https://cdn.occrp.org/projects/russian-asset-tracker/en/) - Explore the global assets of Russia's oligarchs and enablers. ([Tweet](https://twitter.com/CatharinaFelke/status/1505945634783830017))
+- [Russian Asset Tracker](https://cdn.occrp.org/projects/russian-asset-tracker/en/) - Explore the global assets of Russia's oligarchs and enablers. ([Tweet](https://twitter.com/CatharinaFelke/status/1505945634783830017)) ([Web](https://www.occrp.org/en/asset-tracker/))
 - [Why the Ruble Hasn’t Collapsed Yet (2022)](https://twitter.com/jeuasommenulle/status/1505962132676001796)
 - [Why there should be 'off ramps' provided for wars to end](https://twitter.com/ProfPaulPoast/status/1506241274285899784)
 - [Putin's Way (full documentary) (2022)](https://www.youtube.com/watch?v=NIgqhU4lkgo)

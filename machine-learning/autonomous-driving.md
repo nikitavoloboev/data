@@ -57,3 +57,4 @@
 - [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
 - [Quatro](https://github.com/url-kaist/quatro) - Fast and robust global registration for terrestrial robots.
 - [Awesome CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems.
+- [CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation (2022)](https://arxiv.org/abs/2111.10502) ([Code](https://github.com/MCG-NJU/CamLiFlow))

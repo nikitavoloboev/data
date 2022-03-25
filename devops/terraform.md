@@ -144,3 +144,5 @@
 - [Terraboard](https://github.com/camptocamp/terraboard) - Web dashboard to inspect Terraform States.
 - [Terraform Plugin Framework](https://github.com/hashicorp/terraform-plugin-framework) - Module for building Terraform providers.
 - [Terraform Registry](https://github.com/philips-labs/terraform-registry) - Light weight Terraform Registry, more like a proxy.
+- [Offensive Terraform Modules](https://offensive-terraform.github.io/) - Automated multi step offensive attack modules with Infrastructure as Code(IaC). ([Code](https://github.com/offensive-terraform/offensive-terraform.github.io))
+- [Terraform VSCode](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) - Syntax highlighting and autocompletion for Terraform. ([Code](https://github.com/hashicorp/vscode-terraform))

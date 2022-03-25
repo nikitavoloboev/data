@@ -64,3 +64,4 @@
 - [AI is changing chemical discovery (2022)](https://thegradient.pub/how-ai-is-changing-chemical-discovery/) ([HN](https://news.ycombinator.com/item?id=30337490))
 - [Materials Informatics Resources](https://github.com/ncfrey/resources)
 - [ChemiScripts](https://jwilk.github.io/chemiscripts/) - Translate ASCII chemical formulas into Unicode. ([Code](https://github.com/jwilk/chemiscripts))
+- [These are real compounds (2022)](https://www.science.org/content/blog-post/these-are-real-compounds) ([HN](https://news.ycombinator.com/item?id=30781345))

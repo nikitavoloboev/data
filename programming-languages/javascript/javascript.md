@@ -384,7 +384,7 @@ if (
 - [JS Enum Proposal](https://github.com/Jack-Works/proposal-enum) ([Tweet](https://twitter.com/robpalmer2/status/1459834460954890243))
 - [JS Records & Tuples Proposal](https://github.com/tc39/proposal-record-tuple)
 - [ECMAScript Proposals](https://www.proposals.es/) ([Code](https://github.com/saadq/proposals.es))
-- [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust.
+- [dum](https://github.com/egoist/dum) - npm scripts runner written in Rust. ([HN](https://news.ycombinator.com/item?id=30778321))
 - [Esprima-python](https://github.com/Kronuz/esprima-python) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [Software Tools in JavaScript by Greg Wilson Book (2021)](https://leanpub.com/stjs/)
 - [ReevaJS](https://github.com/ReevaJS/reeva) - JavaScript engine written from scratch using Kotlin.

@@ -218,6 +218,7 @@
 - [An incomplete introduction to modern computational methods in physics part 1: Diagonalization](https://www.youtube.com/watch?v=LtiiBkolFo8) ([Reddit](https://www.reddit.com/r/Physics/comments/ndovks/an_incomplete_introduction_to_modern/))
 - [What are the shortest, peer-reviewed articles in physics? (2021)](https://www.reddit.com/r/AskPhysics/comments/nhm3ya/what_are_the_shortest_peerreviewed_articles_in/)
 - [Coanda Effect (2017)](https://www.youtube.com/watch?v=NvzXKZNJ7ZU)
+- [The Feynman Lectures on Physics (1964)](https://feynmanlectures.caltech.edu/) ([HN](https://news.ycombinator.com/item?id=30792902))
 - [The Feynman Lectures on Physics Audio Collection](https://www.feynmanlectures.caltech.edu/flptapes.html) ([HN](https://news.ycombinator.com/item?id=27322636))
 - [Scattering Theory of Waves and Particles (1982)](https://link.springer.com/book/10.1007/978-3-642-88128-2)
 - [Physics-informed neural networks with hard constraints for inverse design (2021)](https://arxiv.org/abs/2102.04626) ([Code](https://github.com/lululxvi/hpinn))
@@ -289,3 +290,4 @@
 - [What is the most surprising thing we don't know (in physics)? (2022)](https://www.reddit.com/r/AskPhysics/comments/tcqe39/what_is_the_most_surprising_thing_we_dont_know_in/)
 - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature) ([HN](https://news.ycombinator.com/item?id=30666352))
 - [Nonlinear Dynamics: Concise Introduction Interlaced with Code (2022)](https://link.springer.com/book/10.1007/978-3-030-91032-7) ([Code](https://github.com/JuliaDynamics/NonlinearDynamicsTextbook))
+- [Misconceptions that are common among physics students (2022)](https://www.reddit.com/r/AskPhysics/comments/tmm1xz/what_are_some_misconceptions_that_are_common/)

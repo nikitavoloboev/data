@@ -295,6 +295,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Suggest me your favorite book and I will read it](https://www.reddit.com/r/suggestmeabook/comments/tfc4jv/suggest_me_your_favourite_book_and_i_will_read_it/)
 - [Psychonaut's favorite books (2022)](https://www.reddit.com/r/Psychonaut/comments/thlorh/alright_people_drop_your_favorite_books_below_and/)
 - [Ask HN: What book changed your life? (2022)](https://news.ycombinator.com/item?id=30734709)
+- [50 Best Sci-Fi Books of All Time (2022)](https://www.esquire.com/entertainment/books/g39358054/best-sci-fi-books/)
+- [Suggest a book to someone who has lost all hope in the world (2022)](https://www.reddit.com/r/suggestmeabook/comments/tmkooe/suggest_a_book_to_someone_who_has_lost_all_hope/)
 
 ## Interesting Prose Books
 

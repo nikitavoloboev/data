@@ -143,6 +143,7 @@ Here are few more things I liked, design wise.
 - [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)
 - [KONG Land](https://kong.land/)
+- [Scout](https://www.fromscout.com/)
 - [Positive Thinking Company](https://positivethinking.tech/)
 - [Logology](https://www.logology.co/)
 - [Quill](https://quill.chat/) - Nice mobile & desktop view.

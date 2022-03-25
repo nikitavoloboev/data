@@ -26,3 +26,4 @@
 - [Apache ActiveMQ](https://activemq.apache.org/) - Popular open source, multi-protocol, Java-based message broker. ([Code](https://github.com/apache/activemq)) ([Docker](https://github.com/disaster37/activemq))
 - [Burlesque](https://github.com/KosyanMedia/burlesque) - Message queue server with HTTP interface.
 - [Floki Message Queue](https://github.com/arthurprs/floki) - Borrows concepts from both Kafka and Amazon SQS into an easy to use package.
+- [Great hosted message queues](https://twitter.com/jevakallio/status/1507367310352396320)

@@ -53,7 +53,8 @@
 - [Twitter Post Fetcher](https://github.com/jasonmayes/Twitter-Post-Fetcher) - Fetch your twitter posts without using the new Twitter.
 - [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
-- [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
+- [Cloudflare Rust](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
+- [Cloudflare Node](https://github.com/cloudflare/node-cloudflare)
 - [GIPHY SDKs](https://github.com/Giphy/giphy-js)
 - [OpenAI JS](https://github.com/Njerschow/openai-api) - Tiny client module for the openAI API.
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.

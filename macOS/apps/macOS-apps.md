@@ -176,7 +176,6 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Narrated](https://www.buildandshipapps.com/) - Screen Recordings That Include Your Camera.
 - [Monodraw](https://monodraw.helftone.com/) - Powerful ASCII art editor designed for the Mac.
 - [TextSniper](https://textsniper.app/) - Capture and extract any text from your Mac's screen.
-- [Lunar](https://lunar.fyi/) - Control your monitors.
 - [Keystroke Pro](https://ixeau.com/keystroke-pro/) - Visualize Your Keypresses.
 - [Pulse](https://kean.blog/pulse/home) - Network Inspector and Logger for Apple Platforms. ([Twitter](https://twitter.com/PulseLogger)) ([Guide](https://kean.blog/pulse/guides/pulse-pro)) ([Code](https://github.com/kean/PulsePro))
 - [Keka](https://www.keka.io/en/) - macOS file archiver. ([Twitter](https://twitter.com/kekaosx))
@@ -233,3 +232,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [What's the problem with old but excellent Mac apps? (2022)](https://christiantietze.de/posts/2022/03/half-assed-mac-apps/) ([HN](https://news.ycombinator.com/item?id=30552973))
 - [IBM Notifier](https://github.com/IBM/mac-ibm-notifications) - macOS agent used to display custom notifications and alerts to the end .
 - [Ask HN: Book Recommendation for macOS Development (2022)](https://news.ycombinator.com/item?id=30753584) ([Lobsters](https://lobste.rs/s/hjk1gx/book_recommendation_for_macos))
+- [Show your desktop & dock (2022)](https://twitter.com/avstorm/status/1506721880752984077)

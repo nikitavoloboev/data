@@ -79,3 +79,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [bbtmvbot](https://github.com/erkexzcx/bbtmvbot) - Scan the most popular flat rent portals for latest posts in Vilnius, which will be sent to users via Telegram bot. Can be adapted for other places.
 - [Ask HN: Where Should I Live? (2022)](https://news.ycombinator.com/item?id=30682172)
 - [Affordable places to live with a beach](https://www.reddit.com/r/simpleliving/comments/tjfvo5/affordable_places_to_live_with_a_beach/)
+- [Advice on buying a house as opposed to investing (2022)](https://www.reddit.com/r/Bogleheads/comments/tmdm3d/is_there_a_general_boglehead_philosophy_around/)

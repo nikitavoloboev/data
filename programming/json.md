@@ -113,3 +113,4 @@
 - [jsonwatch](https://github.com/dbohdan/jsonwatch) - Track changes in JSON data from the command line.
 - [JSON grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-json)
 - [JSON Visio](https://jsonvisio.com/) - Visualize your JSON into interactive graphs. ([Code](https://github.com/AykutSarac/jsonvisio.com))
+- [Understanding jq's reduce function (2022)](https://qmacro.org/2022/03/25/understanding-jq-s-reduce-function/)

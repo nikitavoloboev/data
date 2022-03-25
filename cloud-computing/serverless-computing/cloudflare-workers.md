@@ -135,3 +135,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Worker Tools](https://workers.tools/) - Utilities for working with worker backends such as Cloudflare Workers. ([GitHub](https://github.com/worker-tools))
 - [Durable Objects template](https://github.com/cloudflare/durable-objects-template) - Template for kick-starting a Cloudflare Workers project that uses Durable Objects.
 - [Cloudflare file hosting](https://github.com/judge2020/cloudflare-file-hosting) - Uses Workers KV to enable Cloudflare as a file host.
+- [React 18's streams running on Cloudflare workers](https://github.com/threepointone/react-lazy-ssr-workers)

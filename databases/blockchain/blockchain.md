@@ -360,3 +360,5 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [MystenLabs](https://mystenlabs.com/) - Creating Foundational Infrastructure For Web3.0. ([GitHub](https://github.com/MystenLabs))
 - [Sui](https://github.com/MystenLabs/sui) - Smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.
 - [Веб 3.0 (2022)](https://vas3k.ru/blog/web3/)
+- [Aptos](https://aptoslabs.com/) - Building the safest and most scalable Layer 1 blockchain. ([Code](https://github.com/aptos-labs/aptos-core))
+- [tea](https://tea.xyz/) - Toolkit that builds the Internet.

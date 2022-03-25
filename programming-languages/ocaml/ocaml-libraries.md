@@ -38,6 +38,7 @@
 - [chamelon](https://github.com/yomimono/chamelon) - Small, simple block-backed key-value store for MirageOS.
 - [ocaml_sql_query](https://github.com/yawaramin/ocaml_sql_query) - Functional-style SQLite queries for OCaml.
 - [epiSQL](https://github.com/paurkedal/episql) - SQL schema parser and code generator.
+- [PGX](https://github.com/arenadotio/pgx) - Pure OCaml PostgreSQL client library.
 
 ## Bindings
 

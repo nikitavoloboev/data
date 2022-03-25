@@ -32,7 +32,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Replace](https://replace.sh/) - Find and replace blocks of text with sed. ([Code](https://github.com/esemeniuc/replace.sh/))
 - [Logflare](https://logflare.app/) - Affordable log management & event analytics.
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
-- [Diagrams](https://app.diagrams.net/) - Online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Code](https://github.com/jgraph/drawio)) ([Electron Code](https://github.com/jgraph/drawio-desktop))
+- [Diagrams](https://app.diagrams.net/) - Online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Code](https://github.com/jgraph/drawio)) ([Electron Code](https://github.com/jgraph/drawio-desktop)) ([Web](https://www.diagrams.net/))
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
 - [Pulse](https://pulse.so/) - Keep Remote Teams Aligned No Matter When & Where. ([Twitter](https://twitter.com/leonardofed/status/1264980016850513920))
@@ -154,6 +154,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Snapcode](https://snapcode.vercel.app/) - Code Snippets Manager. ([Code](https://github.com/Kholid060/snapcode))
 - [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))
+- [Shareup](https://shareup.app/) - Share anything to anyone or any of your devices. ([GitHub](https://github.com/shareup))
 - [Fleetsmith](https://www.fleetsmith.com/) - Secure, cloud-based Apple device management via G Suite or Office 365. ([HN](https://news.ycombinator.com/item?id=23629438))
 - [Matter](https://matterapp.com/) - Recognize your team members with Kudos, gather continuous feedback, and so much more.
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
@@ -237,6 +238,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Causal](https://www.causal.app/) - Clearer way to work with numbers.
 - [Tinysheet](https://tinysheet.com/) ([HN](https://news.ycombinator.com/item?id=28967514))
 - [Taler](https://www.taler.app/) - Social design sandbox.
+- [Carbonmade](https://carbonmade.com/) - Your online portfolio.
 - [mobile.dev](https://www.mobile.dev/) - New standard for mobile development. ([Twitter](https://twitter.com/mobile__dev))
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
@@ -305,6 +307,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Sexy-QR](https://avin.github.io/sexy-qr/) - Sexy SVG QR-code generator. ([Code](https://github.com/avin/sexy-qr))
 - [CloudConvert](https://cloudconvert.com/) - Online file converter.
 - [Knock](https://knock.app/) - Reliable, managed API to turn user activity into product notifications. ([Twitter](https://twitter.com/knocklabs)) ([Tweet](https://twitter.com/samseely/status/1504462708095262724))
+- [Bionic Reading](https://bionic-reading.com/) - Read faster than your eye. ([HN](https://news.ycombinator.com/item?id=30787290))
 - [Linksort](https://linksort.com/) - Open source alternative to Pocket. ([Code](https://github.com/linksort/linksort))
 - [Testimonial](https://testimonial.to/) - Collect video testimonials.
 - [unavatar.io](https://unavatar.io/) - Get unified user avatar from Twitter, GitHub, Intagram, Reddit, etc. ([Code](https://github.com/microlinkhq/unavatar))

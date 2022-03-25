@@ -1,5 +1,7 @@
 # [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
+I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
+
 ## Links
 
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go.

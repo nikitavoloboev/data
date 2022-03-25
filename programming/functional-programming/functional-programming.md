@@ -160,6 +160,7 @@
 - [Functional Manipulation of Bit Streams](http://user.it.uu.se/~pergu/papers/bitstreams.pdf)
 - [Does Rust prevent more logic bugs than statically-typed pure FP languages? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/teskx2/does_rust_prevent_more_logic_bugs_than/)
 - [The Reader Monad — Example & Motivation (2018)](https://engineering.dollarshaveclub.com/the-reader-monad-example-motivation-542c54ccfaa8)
+- [How side effects work in FP](https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/) ([HN](https://news.ycombinator.com/item?id=30762281))
 
 ## Images
 

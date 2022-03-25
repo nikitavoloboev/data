@@ -76,3 +76,4 @@
 - [What's possible to build on top of Figma canvas (2022)](https://twitter.com/jsngr/status/1500208736392003584)
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [How to make Apple Event iPhone SE wallpaper with Figma](https://twitter.com/FonsMans/status/1501588645245030403)
+- [Starter for Figma](https://godly.shop/product/starter) - Prototype high-quality landing pages in literally minutes.

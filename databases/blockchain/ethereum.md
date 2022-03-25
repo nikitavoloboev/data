@@ -393,7 +393,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Resources on StarkWare/Cairo/StarkNet (2021)](https://twitter.com/gakonst/status/1463138930992295942)
 - [SolGrep](https://github.com/tintinweb/solgrep) - Scriptable semantic grep utility for solidity.
 - [Starknet DAI Bridge](https://github.com/makerdao/starknet-dai-bridge)
-- [Remix Project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions. ([Docs](https://remix-ide.readthedocs.io/en/latest/))
+- [Remix Project](https://github.com/ethereum/remix-project) - Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions. ([Docs](https://remix-ide.readthedocs.io/en/latest/)) ([Docs Code](https://github.com/ethereum/remix-ide))
 - [Eth2 Remote Signer](https://github.com/prysmaticlabs/remote-signer) - Remote signer server reference implementation for eth2.
 - [The Senior Solidity Engineer's Book](https://solidity-book.netlify.app/) ([Code](https://github.com/gakonst/solidity-book))
 - [Peggo](https://github.com/celestiaorg/quantum-gravity-bridge) - Celestia -> EVM bridge.
@@ -549,3 +549,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Juno](https://github.com/NethermindEth/juno) - Starknet client implementation.
 - [foundry-upgrades](https://github.com/odyslam/foundry-upgrades) - Helper smart contracts to deploy and manage upgradeable contracts on Ethereum.
 - [mev-boost](https://github.com/flashbots/mev-boost) - Middleware server written in Go, that sits between an ethereum PoS consensus client and an execution client.
+- [Uniswap Smart Order Router](https://github.com/Uniswap/smart-order-router)

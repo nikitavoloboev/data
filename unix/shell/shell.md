@@ -78,7 +78,7 @@ All active variables can be seen by running `env`.
 - [What Shell Am I Using?](https://nil.wallyjones.com/what-shell-am-i-using/) ([HN](https://news.ycombinator.com/item?id=24314600))
 - [terminal.sexy](https://terminal.sexy/) - Terminal Color Scheme Designer. ([HN](https://news.ycombinator.com/item?id=24431027))
 - [Shell redirection example (2019)](http://dtrace.org/blogs/dap/2019/09/23/shell-redirection-example/)
-- [Kitty](https://github.com/kovidgoyal/kitty) - Fast, featureful, GPU based terminal emulator. ([Code](https://github.com/kovidgoyal/kitty)) ([HN](https://news.ycombinator.com/item?id=24643008))
+- [Kitty](https://github.com/kovidgoyal/kitty) - Fast, featureful, GPU based terminal emulator. ([Code](https://github.com/kovidgoyal/kitty)) ([HN](https://news.ycombinator.com/item?id=24643008)) ([HN](https://news.ycombinator.com/item?id=30779782))
 - [Upterm](https://github.com/owenthereal/upterm) - Open-source solution for sharing terminal sessions instantly over the public internet via secure tunnels.
 - [libtmt](https://github.com/deadpixi/libtmt) - Small, simple, useful terminal emulation library.
 - [Syntactic Concepts in the Oil Language](http://www.oilshell.org/preview/doc/syntactic-concepts.html) ([Lobsters](https://lobste.rs/s/txj4um/syntactic_concepts_oil_language))
@@ -196,3 +196,4 @@ All active variables can be seen by running `env`.
 - [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh) - Prompt theme engine for any shell. ([Web](https://ohmyposh.dev/))
 - [Please stop writing shell scripts (2022)](https://pythonspeed.com/articles/shell-scripts/) ([Lobsters](https://lobste.rs/s/iofste/please_stop_writing_shell_scripts))
 - [GitHub Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all) - Boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
+- [Cotowali](https://github.com/cotowali/cotowali) - Statically typed scripting language that transpile into POSIX sh. ([HN](https://news.ycombinator.com/item?id=30802186))

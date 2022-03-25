@@ -50,6 +50,7 @@
 - [Faster-than-Requests](https://github.com/juancarlospaco/faster-than-requests) - Faster requests on Python 3.
 - [Minos](https://github.com/minos-framework/minos-python) - Framework which helps you create reactive microservices in Python.
 - [py_webauthn](https://github.com/duo-labs/py_webauthn) - Pythonic WebAuthn.
+- [PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 
 ## ML
 
@@ -199,6 +200,7 @@
 - [GoodPoints](https://github.com/microsoft/goodpoints) - Python package for generating concise, high-quality summaries of a probability distribution.
 - [PyCircStat](https://github.com/circstat/pycircstat) - Toolbox for circular statistics with Python.
 - [miceforest](https://github.com/AnotherSamWilson/miceforest) - Multiple Imputation with Random Forests in Python.
+- [PyStan](https://github.com/stan-dev/pystan) - Python interface to Stan, a package for Bayesian inference.
 
 ## Linux
 
@@ -768,6 +770,8 @@
 - [kLoop](https://github.com/fantix/kloop) - Asyncio event loop using Linux io_uring and kTLS.
 - [Tributary](https://github.com/timkpaine/tributary) - Streaming reactive and dataflow graphs in Python.
 - [Atomos](https://github.com/maxcountryman/atomos) - Atomic primitives for Python. ([Docs](https://atomos.readthedocs.io/en/latest/))
+- [Jinja](https://github.com/pallets/jinja) - Very fast and expressive template engine.
+- [watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and high performance file watching and code reload in python.
 
 ## Links
 

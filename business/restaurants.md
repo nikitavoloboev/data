@@ -32,3 +32,5 @@
 - [Hyphen](https://usehyphen.com/) - Put your kitchen operations on autopilot. ([Twitter](https://twitter.com/gethyphen))
 - [Understanding the Instant-Delivery Phenomenon (2021)](https://tanay.substack.com/p/understanding-the-instant-delivery)
 - [Why is food not just food anymore? A conversation with Ronen Givon (2021)](https://www.c41magazine.com/food-not-just-food-anymore-conversation-ronen-givon/)
+- [Toast Restaurant POS System and Software](https://pos.toasttab.com/)
+- [Square Restaurant POS System and Software](https://squareup.com/us/en/point-of-sale/restaurants)
