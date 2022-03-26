@@ -255,3 +255,4 @@ useEffect(() => {
 - [Hooks: React’s Do-Notation (2022)](https://devanshj.me/writings/hooks-reacts-do-notation) ([HN](https://news.ycombinator.com/item?id=30495034))
 - [Micro State Management with React Hooks (2022)](https://www.packtpub.com/product/micro-state-management-with-react-hooks/9781801812375) ([Code](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks))
 - [Hooks Considered Harmful (2022)](https://labs.factorialhr.com/posts/hooks-considered-harmful) ([HN](https://news.ycombinator.com/item?id=30753127))
+- [Effective React Query Keys (2021)](https://tkdodo.eu/blog/effective-react-query-keys)

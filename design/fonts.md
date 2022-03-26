@@ -105,6 +105,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Urbanist](https://github.com/coreyhu/Urbanist) - Low-contrast, geometric sans-serif inspired by Modernist design and typography.
 - [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) - UD Gothic typeface with excellent readability and design balance.
 - [SORA](https://github.com/sora-xor/sora-font)
+- [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 
 ## Links
 

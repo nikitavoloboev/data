@@ -144,3 +144,4 @@
 - [Shrug VC](https://www.shrug.vc/)
 - [EU Micro VCs (2022)](https://twitter.com/matthewclifford/status/1496795340636368897)
 - [Sten Tamkivi](https://tamkivi.com/)
+- [Banana Capital](https://www.bananacapital.vc/) - Investing in global tech companies from pre-seed to pre-IPO. ([Twitter](https://twitter.com/BananaCap_))

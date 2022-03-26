@@ -86,3 +86,4 @@
 - [Sustainable building: The hottest new material is, uh, wood](https://www.vox.com/energy-and-environment/2020/1/15/21058051/climate-change-building-materials-mass-timber-cross-laminated-clt)
 - [How do you design a 100-year home in Accra?](https://twitter.com/equartey/status/1484959390084042759)
 - [Best books about building a house](https://twitter.com/ehn/status/1506494510528102401)
+- [Parametric Architecture](https://parametric-architecture.com/link-in-bio/) ([Twitter](https://twitter.com/parametricarch))

@@ -1,5 +1,7 @@
 # [Rails](https://github.com/rails/rails)
 
+[Bullet Train Rails template](https://bullettrain.co/) seems nice.
+
 ## Notes
 
 - [Render.com can host Rails code bases nicely](https://twitter.com/signalnerve/status/1462171434147532801)
@@ -136,3 +138,4 @@
 - [Rails-docker-box, or developing Rails within a dockerized environment (2022)](https://dev.to/palkan_tula/rails-docker-box-or-developing-rails-within-a-dockerized-environment-4min)
 - [Intro to Thread-Safety in Ruby on Rails (2022)](https://pawelurbanek.com/rails-thread-safety)
 - [User notifications with Rails, Noticed, and Hotwire (2022)](https://www.colby.so/posts/user-notifications-with-rails-noticed-and-hotwire)
+- [Bullet Train Rails Template](https://bullettrain.co/) ([Code](https://github.com/bullet-train-co/bullet_train)) ([Twitter](https://twitter.com/bullettrainco))

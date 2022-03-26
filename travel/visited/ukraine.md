@@ -116,3 +116,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [We witnessed Mariupol's agony and fled a Russian hit list (2022)](https://apnews.com/article/russia-ukraine-europe-edf7240a9d990e7e3e32f82ca351dede)
 - [Why Can’t the West Admit That Ukraine Is Winning? (2022)](https://www.theatlantic.com/ideas/archive/2022/03/ukraine-is-winning-war-russia/627121/) ([Tweet](https://twitter.com/PhillipsPOBrien/status/1505932131146547200)) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/tjqfpz/why_cant_the_west_admit_that_ukraine_is_winning/))
 - [List of resources and initiative to help the Ukraine](https://github.com/bgruening/awesome-ukraine-support)
+- [«Точно можно сказать, что это не конец. В любом раскладе, кто бы ни победил». Егор Лебедок отвечает на вопросы про войну, которую прогнозировал в интервью «Медиазоне» (2022)](https://mediazona.by/article/2022/03/24/lebedok-2)

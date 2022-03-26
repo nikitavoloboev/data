@@ -1,5 +1,7 @@
 # [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
 
+[Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) is good intro.
+
 ## Links
 
 - [Quantum Computers Explained](https://www.youtube.com/watch?v=JhHMJCUmq28)
@@ -146,3 +148,4 @@
 - [The quantum technology ecosystem – explained (2022)](https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/)
 - [Quantum Tensors](https://github.com/Quantum-Flytrap/quantum-tensors) - NPM package for sparse matrix operations for quantum information and computing.
 - [NVidia is building a new C++ compiler for quantum computing (2022)](https://twitter.com/blelbach/status/1506663964717027328)
+- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)

@@ -125,3 +125,4 @@
 - [Short introduction into Vue](https://vue-intro-workshop.vercel.app/1) ([Code](https://github.com/smakosh/Vue-intro-workshop))
 - [Pinia Plugin Persist](https://github.com/Seb-L/pinia-plugin-persist) - Persist pinia state data in sessionStorage or other storages.
 - [Inkline](https://www.inkline.io/) - Vue.js UI UX DX Library. ([Code](https://github.com/inkline/inkline))
+- [Islands Architecture in Vue with Máximo Mussini (2021)](https://pca.st/gtrkm8oc)

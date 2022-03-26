@@ -232,3 +232,5 @@
 - [worker-tools/html](https://github.com/worker-tools/html) - HTML templating and streaming response library for Service Worker-like environments such as Cloudflare Workers.
 - [HTML Modules Explainer](https://github.com/WICG/webcomponents/blob/gh-pages/proposals/html-modules-explainer.md)
 - [Fast HTML Parser](https://github.com/taoqf/node-html-parser) - Very fast HTML parser, generating a simplified DOM, with basic element query support.
+- [html2runes](https://github.com/spacecowboy/html2runes) - HTML to Text converter program written in Rust.
+- [One way to archive web pages](https://twitter.com/masukomi/status/1507460071265280001)
