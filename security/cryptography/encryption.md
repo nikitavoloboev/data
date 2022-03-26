@@ -75,3 +75,4 @@
 - [A Deep dive into Ed25519 Signatures (2022)](https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html) ([Lobsters](https://lobste.rs/s/dcs345/deep_dive_into_ed25519_signatures))
 - [Yopass](https://yopass.se/) - Secure sharing of secrets, passwords and files. ([Code](https://github.com/jhaals/yopass))
 - [The Noise Protocol Framework](https://noiseprotocol.org/noise.html) - Framework for crypto protocols based on Diffie-Hellman key agreement.
+- [TFHE](https://github.com/tfhe/tfhe) - Fast Fully Homomorphic Encryption Library over the Torus.

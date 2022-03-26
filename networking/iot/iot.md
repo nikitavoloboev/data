@@ -18,7 +18,7 @@
 - [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
 - [Senet](https://www.senetco.com/) - Cloud-based network connectivity platforms for the on demand build-out and management of the Internet of Things.
 - [AWS IoT Things Graph (2019)](https://aws.amazon.com/blogs/aws/now-available-aws-iot-things-graph/)
-- [TDengine](https://github.com/taosdata/TDengine) - Open-source big data platform designed and optimized for the Internet of Things (IoT).
+- [TDengine](https://github.com/taosdata/TDengine) - Open-source big data platform designed and optimized for the Internet of Things (IoT). ([Web](https://tdengine.com/)) ([Awesome](https://github.com/taosdata/awesome-tdengine))
 - [WebThings Gateway](https://github.com/mozilla-iot/gateway) - Web of Things gateway.
 - [Web of Things (WoT) Thing Description](https://w3c.github.io/wot-thing-description/) ([Code](https://github.com/w3c/wot-thing-description))
 - [Liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.

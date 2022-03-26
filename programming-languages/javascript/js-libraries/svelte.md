@@ -204,3 +204,4 @@
 - [Render your Svelte code blocks in MDSveX](https://github.com/mattjennings/mdsvexamples)
 - [graph-paper](https://github.com/graph-paper-org/graph-paper) - Svelte component library optimized for data visualizations and data apps.
 - [svelte-code-input](https://github.com/stordahl/svelte-code-input) - Simple text input that behaves like a code editor.
+- [svelte-tags-input](https://github.com/agustinl/svelte-tags-input) - Fully customizable Svelte component to enter tags.

@@ -119,3 +119,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [MkPosters](https://github.com/patrick-kidger/mkposters) - Make posters from Markdown files.
 - [Memos.pub](https://memos.pub/) - Publishes Markdown files instantly without any setup. ([Code](https://github.com/thien-do/memos-pub))
 - [embedmd](https://github.com/campoy/embedmd) - Embed code into markdown and keep everything in sync.
+- [Awesome Lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists.

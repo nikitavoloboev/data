@@ -200,3 +200,4 @@
 - [Container Desktop](https://github.com/containers/desktop) - Manage different engine containers from a single UI and tray application.
 - [containers/common](https://github.com/containers/common)
 - [qemu-user-static](https://github.com/multiarch/qemu-user-static) - Enable an execution of different multi-architecture containers by QEMU and binfmt_misc.
+- [Symphony](https://github.com/marhkb/symphony) - Podman desktop application.

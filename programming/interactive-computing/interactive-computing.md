@@ -45,3 +45,4 @@
 - [Götz Bachmann’s Ethnographic Research on Dynamicland (2022)](https://www.christophlabacher.com/notes/ethnographic-research-on-dynamicland)
 - [PyFlow](https://github.com/Bycelium/PyFlow) - Visual and modular block programming in Python. ([HN](https://news.ycombinator.com/item?id=30150018))
 - [Schultzschultz - TouchType Tool](https://schultzschultz.com/touchtype)
+- [Observable notebook backups](https://github.com/endpointservices/observable-notebooks)

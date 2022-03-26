@@ -338,3 +338,4 @@
 - [fetch() In Node.js Core: Why You Should Care (2022)](https://fusebit.io/blog/node-fetch/)
 - [reSolve](https://github.com/reimagined/resolve) - Full stack CQRS, DDD, Event Sourcing framework for Node.js.
 - [EvtStore](https://github.com/Seikho/evtstore) - Type-safe Event Sourcing and CQRS with Node.JS and TypeScript.
+- [tiny glob](https://github.com/terkelg/tiny-glob) - Tiny and extremely fast library to match files and folders using glob patterns.

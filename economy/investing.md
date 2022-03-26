@@ -12,6 +12,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [VTSAX](https://finance.yahoo.com/quote/VTSAX/) - Vanguard Total Stock Market Index Fund Admiral.
 - [VASGX](https://finance.yahoo.com/quote/vasgx/) - Vanguard LifeStrategy Growth Fund Investor.
 - [VWINX](https://finance.yahoo.com/quote/vwinx/) - Vanguard Wellesley Income Fund Investor.
+- [S&P 500](https://finance.yahoo.com/quote/%5EGSPC/) - Tracking the performance of 500 large companies listed on stock exchanges in the United States.
 - [List of some](https://twitter.com/levelsio/status/1278035707412520968)
 
 ## Notes

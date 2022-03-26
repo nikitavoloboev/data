@@ -239,3 +239,4 @@
 - [Introduction to K-Means Clustering](https://www.pinecone.io/learn/k-means-clustering/) ([HN](https://news.ycombinator.com/item?id=30673364))
 - [Modern data analysis stack (2022)](https://twitter.com/__mharrison__/status/1504504516393127964)
 - [Stop aggregating away the signal in your data (2022)](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
+- [OpenMetadata](https://open-metadata.org/) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. ([Code](https://github.com/open-metadata/OpenMetadata))

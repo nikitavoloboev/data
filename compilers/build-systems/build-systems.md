@@ -103,3 +103,4 @@
 - [Monorepos done right](https://felixmulder.com/writing/2022/03/12/Monorepos-done-right.html) ([HN](https://news.ycombinator.com/item?id=30664891))
 - [How does Google keep build times low? (2021)](https://jmmv.dev/2021/02/google-monorepos-and-caching.html)
 - [Tech Notes: n2: revisiting Ninja (2022)](http://neugierig.org/software/blog/2022/03/n2.html)
+- [Lerna-Lite](https://github.com/ghiscoding/lerna-lite) - Super light version of the original Lerna.

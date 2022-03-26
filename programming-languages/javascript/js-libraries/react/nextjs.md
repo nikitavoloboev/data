@@ -129,6 +129,7 @@
 - [Next Page Layout](https://github.com/abergenw/next-page-layout) - Type safe, zero dependency layout solution with data fetching capabilities for Next.js.
 - [next-with-split](https://github.com/aiji42/next-with-split) - Plugin for split testing (A/B testing) in Next.js.
 - [next-static-paths](https://github.com/Schniz/next-static-paths) - Statically prevent 404s in your Next.js applications using TypeScript.
+- [nextjs-redirect](https://github.com/pablopunk/nextjs-redirect) - Redirect to any URL in NextJS both in client and server.
 
 ## Notes
 

@@ -634,3 +634,4 @@
 - [A Transformer-Based Siamese Network for Change Detection (2022)](https://arxiv.org/abs/2201.01293) ([Code](https://github.com/wgcban/ChangeFormer))
 - [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition (2021)](https://arxiv.org/abs/2103.01486) ([Code](https://github.com/QVPR/Patch-NetVLAD))
 - [Robust fine-tuning of zero-shot models (2022)](https://arxiv.org/abs/2109.01903) ([Code](https://github.com/mlfoundations/wise-ft))
+- [DiscoBox: Weakly Supervised Instance Segmentation and Semantic Correspondence from Box Supervision (2021)](https://arxiv.org/abs/2105.06464) ([Code](https://github.com/NVlabs/DiscoBox))

@@ -368,6 +368,7 @@ Here are few more things I liked, design wise.
 - [Rakhim](https://rakhim.org/)
 - [Peter Beshai](https://peterbeshai.com/)
 - [Karina Nguyen](https://www.karinanguyen.co/)
+- [Vadim Demedes](https://vadimdemedes.com/)
 - [Max Woolf](https://minimaxir.com/)
 - [Jason Webb](https://jasonwebb.io/)
 - [Matthew Bischoff](https://matthewbischoff.com/)

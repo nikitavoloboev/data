@@ -489,3 +489,4 @@
 - [Linux Privilege Escalation](https://tbhaxor.com/linux-privilege-escalation/)
 - [Netconsd](https://github.com/facebook/netconsd) - Receive and process logs from the Linux kernel.
 - [Linux SysOps Handbook](https://github.com/abarrak/linux-sysops-handbook) - Study notes for the common knowledge and tasks of Linux system admins.
+- [Buildroot](https://github.com/dahliaOS/buildroot) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.

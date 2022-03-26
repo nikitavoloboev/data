@@ -404,6 +404,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [DeepmergeTS](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [cursor-chat](https://github.com/jackyzha0/cursor-chat) - Lightweight cursor chat à la Figma for digital co-existing + presence.
 - [streaming-iterables](https://github.com/reconbot/streaming-iterables) - Swiss army knife for async iterables. Designed to replace your streams.
+- [dom-chef](https://github.com/vadimdemedes/dom-chef) - Build DOM elements using JSX automatically.
 
 ## Links
 

@@ -441,6 +441,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Memory Cache](https://github.com/rodrigo-brito/memory-cache) - Zero-dependency cache library for storing data in memory with generics.
 - [GoMybatis](https://github.com/zhuxiujia/GoMybatis) - Go ORM Library. Powerful Features like transaction nesting, Optimistic Lock, Logical deletion and more.
 - [Ristretto](https://github.com/outcaste-io/ristretto) - Fast, concurrent cache library built with a focus on performance and correctness.
+- [Cloud SQL Go Connector](https://github.com/GoogleCloudPlatform/cloud-sql-go-connector) - Cloud SQL connector designed for use with the Go language.
 
 ## ML
 
@@ -509,6 +510,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [multi-party-sig](https://github.com/taurusgroup/multi-party-sig) - Implementation of protocols for threshold signatures.
 - [pkcs7](https://github.com/fullsailor/pkcs7) - Implements a subset of PKCS#7/Crytpographic Message Syntax.
 - [xsum](https://github.com/sclevine/xsum) - More useful checksums using Merkle Trees.
+- [go-tfhe](https://github.com/thedonutfactory/go-tfhe) - Go implementation of TFHE Encrypted Computation Scheme.
 
 ## Linux
 
@@ -1454,6 +1456,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [stack](https://github.com/go-stack/stack) - Implements utilities to capture, manipulate, and format call stacks.
 - [hq](https://github.com/nikolaydubina/hq) - Happy little queue.
 - [routine](https://github.com/timandy/routine) - ThreadLocal for Go.
+- [Amigo](https://github.com/mdempsky/amigo) - Experiment to radically reinvision the Go tools ecosystem.
 
 ## Links
 

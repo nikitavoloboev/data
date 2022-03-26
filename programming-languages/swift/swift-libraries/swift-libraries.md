@@ -4,6 +4,7 @@
 
 ## CLI
 
+- [Commander](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
 - [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift. ([Tweet](https://twitter.com/nnnnnnnn/status/1503625270279950341))
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
 - [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.

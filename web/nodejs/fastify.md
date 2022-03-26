@@ -36,3 +36,4 @@
 - [Fastify Socket.io](https://github.com/alemagio/fastify-socket.io)
 - [fastify-sentry](https://github.com/immobiliare/fastify-sentry) - Sentry errors handler for fastify that just works! Install, add your DSN and you're good to go.
 - [Fastify Type Provider Zod](https://github.com/turkerdev/fastify-type-provider-zod)
+- [under-pressure](https://github.com/fastify/under-pressure) - Measure process load with automatic handling of "Service Unavailable" plugin for Fastify.

@@ -43,3 +43,4 @@
 - [What if MongoDB and Neo4j had a baby](https://github.com/terminusdb/technical-blogs/blob/main/blogs/mongo_neo4j_terminusx.md)
 - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Python driver for MongoDB.
 - [Ask HN: Is MongoDB obsolote when Postgres and SQLite provide JSON types? (2022)](https://news.ycombinator.com/item?id=30464075)
+- [MGOB](https://github.com/stefanprodan/mgob) - MongoDB backup automation tool built with Go.

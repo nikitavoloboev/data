@@ -445,3 +445,5 @@
 - [pg_curl](https://github.com/RekGRpth/pg_curl) - PostgreSQL curl allows most curl actions.
 - [AintQ](https://github.com/decentfox/aintq) - Python asyncio task queue on PostgreSQL.
 - [Postgres.js](https://github.com/porsager/postgres) - Fastest Full-Featured PostgreSQL Client for Node and Deno. ([HN](https://news.ycombinator.com/item?id=30794332)) ([Reddit](https://www.reddit.com/r/javascript/comments/tn0sxp/postgresjs_fastest_fullfeatured_postgresql_client/))
+- [plProfiler](https://github.com/bigsql/plprofiler) - Extension for the PostgreSQL database system to create performance profiles of PL/pgSQL functions and stored procedures.
+- [PgBouncerHero](https://github.com/kwent/pgbouncerhero) - Dashboard for your PgBouncers.

@@ -197,3 +197,4 @@ All active variables can be seen by running `env`.
 - [Please stop writing shell scripts (2022)](https://pythonspeed.com/articles/shell-scripts/) ([Lobsters](https://lobste.rs/s/iofste/please_stop_writing_shell_scripts))
 - [GitHub Scripts To Rule Them All](https://github.com/github/scripts-to-rule-them-all) - Boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [Cotowali](https://github.com/cotowali/cotowali) - Statically typed scripting language that transpile into POSIX sh. ([HN](https://news.ycombinator.com/item?id=30802186))
+- [Morbig](https://github.com/colis-anr/morbig) - Static Parser for POSIX Shell.

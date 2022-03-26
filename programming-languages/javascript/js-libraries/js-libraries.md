@@ -851,6 +851,7 @@
 - [TreeModel](https://github.com/joaonuno/tree-model-js) - Manipulate and traverse tree-like structures in JavaScript.
 - [fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify.
 - [loopbench](https://github.com/mcollina/loopbench) - Benchmark your event loop.
+- [Isomorphic Layout Composer (ILC)](https://github.com/namecheap/ilc) - Layout service that composes a web page from fragment services. It supports client/server-based page composition.
 
 ## Links
 

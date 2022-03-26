@@ -110,3 +110,4 @@ There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/statu
 - [List of resources on how/why to do a PhD](https://github.com/macoj/phd)
 - [Awesome PhD](https://github.com/helenahartmann/awesome-PhD)
 - [I think US college education is nearer to collapsing than it appears (2022)](https://twitter.com/sama/status/1505597901011005442) ([HN](https://news.ycombinator.com/item?id=30744925))
+- [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)

@@ -201,6 +201,7 @@
 - [PyCircStat](https://github.com/circstat/pycircstat) - Toolbox for circular statistics with Python.
 - [miceforest](https://github.com/AnotherSamWilson/miceforest) - Multiple Imputation with Random Forests in Python.
 - [PyStan](https://github.com/stan-dev/pystan) - Python interface to Stan, a package for Bayesian inference.
+- [Statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 
 ## Linux
 

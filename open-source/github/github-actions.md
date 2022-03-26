@@ -187,6 +187,9 @@
 - [Updater Action](https://github.com/github/dependabot-action) - Runs Dependabot workloads via GitHub Actions.
 - [Nrwl Nx Action](https://github.com/MansaGroup/nrwl-nx-action) - GitHub Action to wrap Nrwl Nx commands in your workflows.
 - [AWS S3 Deploy](https://github.com/Reggionick/s3-deploy) - Easily deploy a static website to AWS S3 and invalidate CloudFront distribution.
+- [file-existence-action](https://github.com/andstor/file-existence-action) - GitHub Action to check for file existence.
+- [Invoke AWS Lambda](https://github.com/gagoar/invoke-aws-lambda) - Allows you to synchronously invoke a Lambda function and get the response (if desired).
+- [Use Herald Action](https://github.com/gagoar/use-herald-action) - Allows you to add comments, reviewers and assignees to a pull request depending on rules you define.
 
 ## Go
 

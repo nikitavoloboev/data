@@ -66,6 +66,7 @@
 - [JNGL](https://github.com/jhasse/jngl) - Easy to use cross-platform 2D game library for C++.
 - [libpag](https://github.com/Tencent/libpag) - Real-time rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 - [Alembic](https://github.com/alembic/alembic) - Open computer graphics interchange framework. ([Web](http://www.alembic.io/))
+- [TriMesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
 
 ## DB
 
@@ -358,6 +359,7 @@
 - [LodePNG](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.
 - [PoseLib](https://github.com/vlarsson/PoseLib) - Minimal solvers for calibrated camera pose estimation.
 - [TOML++](https://github.com/marzer/tomlplusplus) - Header-only TOML config file parser and serializer for C++17.
+- [Easy3D](https://github.com/LiangliangNan/Easy3D) - Lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data.
 
 ## Links
 

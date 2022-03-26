@@ -21,3 +21,4 @@
 - [Parallel Logic Programming: A Sequel (2021)](https://arxiv.org/abs/2111.11218) ([HN](https://news.ycombinator.com/item?id=29499055))
 - [CLP](https://github.com/triska/clpz) - Constraint Logic Programming over Integers. ([Web](https://www.metalevel.at/prolog/clpz))
 - [Neural Guided Constraint Logic Programming for Program Synthesis](https://github.com/xuexue/neuralkanren)
+- [CLP(SMT)-miniKanren](https://github.com/namin/clpsmt-miniKanren) - Canonical miniKanren implementation, augmented with CLP(SMT).

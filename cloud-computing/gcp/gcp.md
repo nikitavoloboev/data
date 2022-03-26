@@ -77,3 +77,4 @@
 - [Google Auth Python Library](https://github.com/googleapis/google-auth-library-python)
 - [Penny Wise and Cloud Foolish (2022)](https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish) ([Lobsters](https://lobste.rs/s/yz7yjv/penny_wise_cloud_foolish))
 - [Google Compute Engine Persistent Disk CSI Driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
+- [HarbourBridge](https://github.com/cloudspannerecosystem/harbourbridge) - Stand-alone open source tool for Cloud Spanner evaluation and migration, using data from an existing PostgreSQL, MySQL, SQL Server, Oracle or DynamoDB database.

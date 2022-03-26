@@ -245,6 +245,7 @@
 - [memo-map](https://github.com/mitsuhiko/memo-map) - Concurrent insert only hash map.
 - [Endorphin](https://github.com/ArtBlnd/endorphin) - Key-Value based in-memory cache library which supports Custom Expiration Policies.
 - [Nebuchadnezzar](https://github.com/ShisoftResearch/Nebuchadnezzar) - High Performance Key-Value Store.
+- [CannyLS](https://github.com/frugalos/cannyls) - Embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD.
 
 ## Video
 
@@ -1622,6 +1623,8 @@
 - [Hydroflow](https://github.com/hydro-project/hydroflow) - Hydro's low-level dataflow runtime.
 - [zip-rs](https://github.com/zip-rs/zip) - Zip library for rust which supports reading and writing of simple ZIP files.
 - [gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX).
+- [art-rs](https://github.com/Lagrang/art-rs) - Adaptive Radix Tree.
+- [Zestors](https://github.com/Zestors/zestors) - Simple, fast and flexible actor framework for building robust distributed applications, heavily inspired by Erlang.
 
 ## Cargo Plugins
 

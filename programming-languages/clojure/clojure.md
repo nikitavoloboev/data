@@ -210,3 +210,4 @@
 - [Physics in Clojure: Elliptical Paths](https://twitter.com/sritchie/status/1503220063264026629) ([HN](https://news.ycombinator.com/item?id=30671167))
 - [Serverless site analytics with Clojure nbb and AWS (2022)](https://www.loop-code-recur.io/simple-site-analytics-with-serverless-clojure/) ([HN](https://news.ycombinator.com/item?id=30722838))
 - [Clojure 1.11 (2022)](https://clojure.org/news/2022/03/22/clojure-1-11-0) ([HN](https://news.ycombinator.com/item?id=30768240)) ([Lobsters](https://lobste.rs/s/nijiqf/clojure_1_11_0_release))
+- [MAGIC](https://github.com/nasser/magic) - Functional Clojure compiler library and the start of a standalone Clojure implementation for the CLR.

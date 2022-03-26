@@ -74,3 +74,4 @@
 - [Fuzz introspector](https://github.com/ossf/fuzz-introspector) - Tool to help fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
 - [Stateful Model-Based Database Fuzzing (2022)](https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337)
 - [FirmWire](https://github.com/FirmWire/FirmWire) - Full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares.
+- [Frelatage](https://github.com/Rog3rSm1th/Frelatage) - Coverage-based Python fuzzing library which can be used to fuzz python code.
