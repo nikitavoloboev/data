@@ -1,12 +1,10 @@
 # Fitness
 
-I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio in form of running or cycling.
+I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio usually by [cycling](../transportation/cycling.md).
 
-My preferred way to exercise is to play Tennis.
+I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
 
-I also listen to [podcasts](../podcasts/podcasts.md) unless it's some team sport like football.
-
-I try to not sit for prolonged times (by using a standing desk or taking breaks).
+I try to not sit for prolonged times (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
 
 ## Notes
 

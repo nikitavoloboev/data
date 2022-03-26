@@ -81,3 +81,4 @@
 - [ESLint rules for Lightning Web Components (LWC)](https://github.com/salesforce/eslint-plugin-lwc)
 - [webcomponent](https://github.com/richardanaya/webcomponent) - Web component library for rust.
 - [Reactive Controllers feature in Lit 2](https://twitter.com/buildWithLit/status/1507032453080305665) - Lets you integrate state manager logic across components.
+- [WebComponent Router](https://github.com/ryansolid/webcomponent-router) - Nested router based on HTML Web Components.

@@ -7,6 +7,7 @@
 ## Notes
 
 - [Debugging asynchronous code? Let me introduce you to DispatchPredicate, a single line will check which queue are you on and stop in debug if condition is not met](https://twitter.com/icanzilb/status/1213403702226276352)
+- [Swift Async Algorithms seems like evolution of Combine](https://twitter.com/DLX/status/1507669248100995075)
 
 ## Links
 
