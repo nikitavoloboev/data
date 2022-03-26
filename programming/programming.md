@@ -540,3 +540,4 @@
 - [Literate programming is much more than just commenting code (2022)](https://justinmeiners.github.io/literate-programming/) ([HN](https://news.ycombinator.com/item?id=30760835))
 - [Awesome Codemods](https://github.com/rajasegar/awesome-codemods)
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
+- [What's in a Good Error Message? (2022)](https://www.morling.dev/blog/whats-in-a-good-error-message/) ([Lobsters](https://lobste.rs/s/pllm4v/what_s_good_error_message))
