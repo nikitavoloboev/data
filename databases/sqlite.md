@@ -168,3 +168,4 @@
 - [Ws4sqlite](https://github.com/proofrock/ws4sqlite) - Query SQLite via HTTP. ([HN](https://news.ycombinator.com/item?id=30636796))
 - [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file.
 - [sqc](https://github.com/goto-bus-stop/sqc) - SQLite CLI with syntax highlighting and pretty tables by default.
+- [sqlitescanner](https://github.com/duckdblabs/sqlitescanner) - DuckDB extension to read SQLite databases. Allows directly running DuckDB queries on data stored in SQLite files. ([HN](https://news.ycombinator.com/item?id=30801575))
