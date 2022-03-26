@@ -1621,6 +1621,7 @@
 - [Moniker](https://github.com/brendanzab/moniker) - Makes it simple to track variables across nested scopes in programming language implementations.
 - [Hydroflow](https://github.com/hydro-project/hydroflow) - Hydro's low-level dataflow runtime.
 - [zip-rs](https://github.com/zip-rs/zip) - Zip library for rust which supports reading and writing of simple ZIP files.
+- [gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX).
 
 ## Cargo Plugins
 

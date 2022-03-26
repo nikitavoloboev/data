@@ -46,3 +46,4 @@
 - [Thinking about protocols with TLA+ and Apalache](https://github.com/informalsystems/tla-apalache-workshop)
 - [Azure Cosmos TLA+ specifications](https://github.com/Azure/azure-cosmos-tla)
 - [State Machines in TLA+](https://lamport.azurewebsites.net/video/video2-script.pdf)
+- [Pirouette](https://github.com/tweag/pirouette) - Semi-automatic code extraction tool. It extracts a TLA+ specification from a Plutus Mealy Machine.
