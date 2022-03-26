@@ -66,3 +66,4 @@
 - [Ensembles](https://github.com/SubhadeepJasu/Ensembles) - Digital arranger workstation powered by FluidSynth.
 - [Roland 50 Studio](https://roland50.studio/) ([HN](https://news.ycombinator.com/item?id=30638634))
 - [Typebeat](https://typebeat.kofi.sexy/) - Keyboard-controlled music sequencer, sampler, and synth. ([Code](https://github.com/kofigumbs/typebeat))
+- [Sonicware Liven 8bit Warps](https://sonicware.jp/products/liven-8bit-warps)

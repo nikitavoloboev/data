@@ -1,5 +1,7 @@
 # Communication
 
+I like asking people [what they are excited about](https://twitter.com/HelloShreyas/status/1507219196781871113).
+
 ## Notes
 
 - [Never underestimate the impact of informal positive feedback on a junior, career-changer or someone new to the stack. Often people just need to know they're on the right road.](https://twitter.com/thomas_k_r/status/1296015993144332288)
@@ -171,3 +173,4 @@
 - [Ask HN: How do I develop skills to comfort people and offer compassion? (2022)](https://news.ycombinator.com/item?id=30412165)
 - [Ask HN: What is your recommended stack for real time chat? (2022)](https://news.ycombinator.com/item?id=30789263)
 - [Tell HN: There needs to be a “right to speak with a human” (2022)](https://news.ycombinator.com/item?id=30788681)
+- [What can replace the “what do you do” question at a party?](https://twitter.com/HelloShreyas/status/1507219196781871113)

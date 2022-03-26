@@ -209,3 +209,4 @@
 - [Terraform Provider for Docker](https://github.com/kreuzwerker/terraform-provider-docker)
 - [Best service that has a one-click deployment of an app with a Dockerfile (2022)](https://twitter.com/jlongster/status/1505926055042981892)
 - [OCI Image Builder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!).
+- [Running GUI apps within Docker containers (2022)](https://www.trickster.dev/post/running-gui-apps-within-docker-containers/) ([HN](https://news.ycombinator.com/item?id=30810410))

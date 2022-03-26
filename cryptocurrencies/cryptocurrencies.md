@@ -249,4 +249,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Vitalik Buterin is worried about crypto's future (2022)](https://time.com/6158182/vitalik-buterin-ethereum-profile/) ([HN](https://news.ycombinator.com/item?id=30753404))
 - [Superalgos](https://github.com/Superalgos/Superalgos) - Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots.
 - [Crypto Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list)
-- [The Edited Latecomer’s Guide to Crypto (2022)](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#) ([HN](https://news.ycombinator.com/item?id=30804984))
+- [The Edited Latecomer’s Guide to Crypto (2022)](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#) ([HN](https://news.ycombinator.com/item?id=30804984)) ([Tweet](https://twitter.com/molly0xFFF/status/1507391218082328577))

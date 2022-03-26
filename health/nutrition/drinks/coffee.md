@@ -65,3 +65,4 @@
 - [The Ultimate Moka Pot Technique (2022)](https://www.youtube.com/watch?v=BfDLoIvb0w4) ([Reddit](https://www.reddit.com/r/Coffee/comments/setb3c/the_ultimate_moka_pot_technique_episode_3_james/))
 - [How do you make a rich Turkish Coffee?](https://www.reddit.com/r/Coffee/comments/sqrs10/people_of_turkey_how_do_you_make_a_really_rich/)
 - [Ask HN: Quit caffeine? Before and after anecdotes (2022)](https://news.ycombinator.com/item?id=30400121)
+- [Good french press machines (2022)](https://twitter.com/codebytere/status/1507652665714618371)

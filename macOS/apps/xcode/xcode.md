@@ -99,3 +99,4 @@
 - [Xcode.app-strings](https://github.com/keith/Xcode.app-strings) - All the strings from Xcode's binaries.
 - [unxip](https://github.com/saagarjha/unxip) - Fast Xcode unarchiver.
 - [xcresource](https://github.com/faberNovel/xcresource-cli) - Xcode resource manager. Use it to download Xcode templates or snippets from git repositories.
+- [Build Graph for Xcode](https://apps.apple.com/az/app/build-graph-for-xcode/id1592897820) ([Article](https://habr.com/ru/company/dododev/blog/657007/))

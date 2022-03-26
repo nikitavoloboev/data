@@ -365,3 +365,4 @@
 - [Cherrybomb](https://github.com/blst-security/cherrybomb) - CLI tool that helps you avoid undefined user behavior by validating your API specifications.
 - [Theneo](https://www.theneo.io/) - High-Quality, Interactive API Docs. ([HN](https://news.ycombinator.com/item?id=30720623))
 - [The Guild](https://www.the-guild.dev/) - Modern API Platform and ecosystem that scales. ([Code](https://github.com/the-guild-org/the-guild-website))
+- [Why isn't there a swagger/openapi for binary formats? (2022)](http://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi)
