@@ -1453,6 +1453,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [dd](https://github.com/Code-Hex/dd) - Dump any data as valid syntax in Go.
 - [stack](https://github.com/go-stack/stack) - Implements utilities to capture, manipulate, and format call stacks.
 - [hq](https://github.com/nikolaydubina/hq) - Happy little queue.
+- [routine](https://github.com/timandy/routine) - ThreadLocal for Go.
 
 ## Links
 
