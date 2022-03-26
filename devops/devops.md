@@ -1,5 +1,7 @@
 # DevOps
 
+I think [Railway](https://railway.app/) is amazing example of doing Devops right.
+
 ## Notes
 
 - [You can make your default branch `staging`, and assign it a custom domain. Using Vercel.](https://twitter.com/rauchg/status/1383072230536404996)

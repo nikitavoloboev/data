@@ -406,7 +406,7 @@ Here are few more things I liked, design wise.
 - [Ben Adam](https://benadam.me/)
 - [Samurai](https://simurai.com/)
 - [Andreas Klinger](https://klinger.io/) ([Code](https://github.com/andreasklinger/klinger-io))
-- [Molly White](https://www.mollywhite.net/)
+- [Molly White](https://www.mollywhite.net/) ([Code](https://github.com/molly/website-v2))
 - [Vitor Dino](https://vitordino.com/)
 - [Tiger Oakes](https://tigeroakes.com/)
 - [Jeremy Wagner](https://jeremy.codes/)

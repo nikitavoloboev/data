@@ -112,3 +112,4 @@
 - [postinvoke](https://github.com/aidansteele/postinvoke) - Run in-process code after your Go-powered Lambda function has returned.
 - [apig-wsgi](https://github.com/adamchainz/apig-wsgi) - Wrap a WSGI application in an AWS Lambda handler function for running on API Gateway or an ALB.
 - [Build Serverless APIs with Node.js and AWS Lambda (2022)](https://blog.appsignal.com/2022/03/23/build-serverless-apis-with-nodejs-and-aws-lambda.html)
+- [ML Inference in Lambda Functions (2022)](https://bitesizedserverless.com/bite/ml-inference-in-lambda/)

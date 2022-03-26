@@ -1,6 +1,6 @@
 # Programming
 
-[CodeCrafters](https://codecrafters.io/) projects are nice.
+[CodeCrafters](https://codecrafters.io/) projects are nice. [bun](https://github.com/Jarred-Sumner/bun) is a well designed project I use for inspiration (although it's in Zig). Love the way [everything is commented out](https://twitter.com/jarredsumner/status/1507392298379743237) and the focus on performance.
 
 ## Notes
 
