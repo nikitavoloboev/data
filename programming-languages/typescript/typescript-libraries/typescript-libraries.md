@@ -403,6 +403,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Cucumber Screenplay](https://github.com/cucumber/screenplay.js) - Library to ease implementation of the Screenplay pattern with CucumberJS.
 - [DeepmergeTS](https://github.com/RebeccaStevens/deepmerge-ts) - Deeply merge 2 or more objects respecting type information.
 - [cursor-chat](https://github.com/jackyzha0/cursor-chat) - Lightweight cursor chat à la Figma for digital co-existing + presence.
+- [streaming-iterables](https://github.com/reconbot/streaming-iterables) - Swiss army knife for async iterables. Designed to replace your streams.
 
 ## Links
 
@@ -451,3 +452,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation.
 - [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node.
 - [JSON to TS](https://github.com/MariusAlch/json-to-ts) - Convert JSON object to typescript interfaces.
+- [docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS. Works for Node and on the Browser. ([Docs](https://docx.js.org/#/))

@@ -1,5 +1,7 @@
 # [Docker](https://www.docker.com/)
 
+[DockerSlim](https://github.com/docker-slim/docker-slim) is useful.
+
 ## Links
 
 - [Introduction to Docker (2013)](https://www.youtube.com/watch?v=Q5POuMHxW-0)

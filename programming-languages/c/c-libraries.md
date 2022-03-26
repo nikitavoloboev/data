@@ -135,3 +135,4 @@
 - [clib](https://github.com/clibs/clib) - Package manager for the C programming language. ([Web](https://www.clibs.org/)) ([HN](https://news.ycombinator.com/item?id=30596005)) ([HN](https://news.ycombinator.com/item?id=24182441))
 - [libcbor](https://github.com/PJK/libcbor) - CBOR protocol implementation for C.
 - [Interface99](https://github.com/Hirrolot/interface99) - Full-featured interfaces for C99.
+- [SDL_sound](https://github.com/icculus/SDL_sound) - Abstract soundfile decoder.

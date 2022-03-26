@@ -134,3 +134,4 @@
 - [PlutoSVG](https://github.com/sammycage/plutosvg) - Tiny SVG rendering library in C.
 - [How to use SVG filters](https://garden.bradwoods.io/notes/svg-filters)
 - [Rasterx](https://github.com/srwiley/rasterx) - SVG 2.0 path compliant rasterizer that can use either the Go vector or a derivative of the freetype anti-aliaser.
+- [svg_stack](https://github.com/astraw/svg_stack) - Combine multiple SVG elements into a single SVG element.
