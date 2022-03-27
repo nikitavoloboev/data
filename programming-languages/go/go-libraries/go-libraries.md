@@ -1466,6 +1466,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-graphviz](https://github.com/goccy/go-graphviz) - Go bindings for Graphviz.
 - [Skipfilter](https://github.com/kevburnsjr/skipfilter) - Skip list of arbitrary elements that can be filtered using roaring bitmaps stored in an LRU cache.
 - [Graft](https://github.com/nats-io/graft) - RAFT Election implementation in Go.
+- [gosaml2](https://github.com/russellhaering/gosaml2) - Pure Go implementation of SAML 2.0.
 
 ## Links
 

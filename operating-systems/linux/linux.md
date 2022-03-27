@@ -492,3 +492,4 @@
 - [Buildroot](https://github.com/buildroot/buildroot) - Simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation.
 - [Buildroot dahliaOS](https://github.com/dahliaOS/buildroot)
 - [Egrets](https://github.com/ancat/egrets) - Proof of concept tool that uses eBPF, raw sockets, and kprobes to monitor egress traffic.
+- [HiGFXback (History of graphics backends)](https://github.com/caramelli/higfxback)
