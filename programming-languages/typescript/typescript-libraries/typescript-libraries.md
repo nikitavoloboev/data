@@ -43,6 +43,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-elmish](https://github.com/iyegoroff/ts-elmish) - Elmish architecture in Typescript.
 - [blockdom](https://github.com/ged-odoo/blockdom) - Fast virtual DOM library.
 - [Zodios](https://github.com/ecyrbe/zodios) - TypeScript HTTP client with zod validation.
+- [teeny-request](https://github.com/googleapis/teeny-request) - Like request, but tiny. Fetch under the hood.
 
 ## Test
 
