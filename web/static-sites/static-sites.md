@@ -116,3 +116,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [There is no such thing as a static website (2022)](https://blog.wesleyac.com/posts/no-static-websites) ([Lobsters](https://lobste.rs/s/itcl7j/there_is_no_such_thing_as_static_website))
 - [Self-Host Your Static Assets (2019)](https://csswizardry.com/2019/05/self-host-your-static-assets/)
 - [Static Starter Boilerplate](https://www.staticstarter.com/) - Build Better & Faster Websites Today.
+- [Static Web Server](https://github.com/joseluisq/static-web-server) - Blazing fast and asynchronous web server for static files-serving.
