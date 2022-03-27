@@ -278,3 +278,4 @@
 - [Rust + WebAssembly Team](https://github.com/rustwasm/team) - Point of coordination for all things Rust and WebAssembly.
 - [wasm-workflows-plugin](https://github.com/Shark/wasm-workflows-plugin) - Executor Plugin for Argo Workflows that runs WebAssembly modules.
 - [Running WebAssembly as a Hyperscaled Edge Service (2022)](https://engineering.q42.nl/webassembly-beyond-the-browser/) ([Reddit](https://www.reddit.com/r/WebAssembly/comments/tm8y32/blog_running_webassembly_as_a_hyperscaled_edge/))
+- [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing (2020)](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)

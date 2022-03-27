@@ -69,5 +69,5 @@
 - [Automation for WireGuard VPN tunnels](https://github.com/whitequark/infra-vpn)
 - [WireGuard Web UI Code](https://github.com/ngoduykhanh/wireguard-ui)
 - [WireGuard Guide](https://github.com/mikeroyal/WireGuard-Guide)
-- [wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy or tunnels.
+- [wireproxy](https://github.com/octeep/wireproxy) - Wireguard client that exposes itself as a socks5 proxy or tunnels. ([HN](https://news.ycombinator.com/item?id=30816135))
 - [WireGuard DNS Configuration for Systemd](https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/) ([HN](https://news.ycombinator.com/item?id=30727893))

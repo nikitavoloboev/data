@@ -396,3 +396,4 @@
 - [Filtering Unique Items from Heterogeneous Lists at Compile Time (2022)](https://blog.galowicz.de/2022/03/20/unique-heterogeneous-typelists/)
 - [Haskell Adventures: digging into the declarative approach (2022)](https://dmitrytsepelev.dev/haskell-adventures) ([Reddit](https://www.reddit.com/r/haskell/comments/tkpt4c/im_a_rubyist_and_try_to_learn_haskellheres_my/))
 - [Algebraic Data Types in Haskell (2022)](https://serokell.io/blog/algebraic-data-types-in-haskell)
+- [Great Haskell code bases to study (2022)](https://twitter.com/hillelogram/status/1507806325304172546)

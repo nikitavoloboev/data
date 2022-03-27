@@ -1788,3 +1788,4 @@
 - [rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross.
 - [absolution](https://github.com/Manishearth/absolution) - "Freedom from syn": Proc macro tools for operating on token trees.
 - [Best and worse cases of error handling code in rust (2022)](https://twitter.com/yaahc_/status/1506799278211014658)
+- [Rust parsing dynamic JSON (2022)](https://www.ahmadrosid.com/blog/rust-parsing-dynamic-json)

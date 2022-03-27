@@ -530,3 +530,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Why the Ruble Hasn’t Collapsed Yet (2022)](https://twitter.com/jeuasommenulle/status/1505962132676001796)
 - [Why there should be 'off ramps' provided for wars to end](https://twitter.com/ProfPaulPoast/status/1506241274285899784)
 - [Putin's Way (full documentary) (2022)](https://www.youtube.com/watch?v=NIgqhU4lkgo)
+- [25 лет спустя: кто убил главную звезду нового русского ТВ?](https://www.youtube.com/watch?v=Txv1m5GA8zU)

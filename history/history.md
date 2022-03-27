@@ -187,3 +187,4 @@
 - [Horrible mass killings in Gaza](https://twitter.com/zei_squirrel/status/1504020982935261190)
 - [The Yemen conflict links (2022)](https://www.reddit.com/r/geopolitics/comments/tjrw67/the_yemen_conflict/)
 - [Best books written by WW1 and WW2 veterans](https://www.reddit.com/r/suggestmeabook/comments/tklohp/what_are_the_best_books_written_by_ww1_and_ww2/)
+- [Alfred Eisenstaedt BBC Master Photographers (1983)](https://www.youtube.com/watch?v=xdfOo4yh6c0)

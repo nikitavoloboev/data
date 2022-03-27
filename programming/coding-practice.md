@@ -72,6 +72,7 @@
 - [Haskell 2](https://github.com/dustin/aoc2019)
 - [Haskell 3](https://github.com/ChrisPenner/advent-of-code-haskell)
 - [Haskell 4](https://github.com/mstksg/advent-of-code-2021)
+- [Haskell 5](https://github.com/glguy/advent)
 - [Swift](https://github.com/evilmint/AdventOfCode)
 - [Go](https://github.com/neutralinsomniac/advent2019)
 - [Go 2](https://github.com/vtambourine/leetcode-go)
