@@ -775,6 +775,7 @@
 - [watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and high performance file watching and code reload in python.
 - [Xeger](https://github.com/crdoconnor/xeger) - Library to generate random strings from regular expressions.
 - [Affine](https://github.com/rasterio/affine) - Matrices describing affine transformation of the plane.
+- [Traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes.
 
 ## Links
 
