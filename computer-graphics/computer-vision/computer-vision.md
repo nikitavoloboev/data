@@ -501,7 +501,7 @@
 - [StyleSwin: Transformer-based GAN for High-resolution Image Generation (2021)](https://arxiv.org/abs/2112.10762) ([Code](https://github.com/microsoft/StyleSwin))
 - [Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline (2021)](https://arxiv.org/abs/2106.05304) ([Code](https://github.com/princeton-vl/SimpleView))
 - [SLIP: Self-supervision meets Language-Image Pre-training (2021)](https://arxiv.org/abs/2112.12750) ([Code](https://github.com/facebookresearch/SLIP))
-- [General Facial Representation Learning in a Visual-Linguistic Manner (2021)](https://arxiv.org/abs/2112.03109) ([Code](https://github.com/microsoft/FaRL))
+- [General Facial Representation Learning in a Visual-Linguistic Manner (2021)](https://arxiv.org/abs/2112.03109) ([Code](https://github.com/microsoft/FaRL)) ([Code](https://github.com/FacePerceiver/FaRL))
 - [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/) ([Code](https://github.com/google/hypernerf)) ([HN](https://news.ycombinator.com/item?id=29698276))
 - [Learning to Regress Bodies from Images using Differentiable Semantic Rendering (2021)](https://arxiv.org/abs/2110.03480) ([Code](https://github.com/saidwivedi/DSR))
 - [High-Resolution Image Synthesis with Latent Diffusion Models (2021)](https://arxiv.org/abs/2112.10752) ([Code](https://github.com/CompVis/latent-diffusion))

@@ -174,3 +174,4 @@
 - [SeaSchema](https://github.com/SeaQL/sea-schema) - SQL schema management suite.
 - [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776) ([HN](https://news.ycombinator.com/item?id=30571990))
 - [SQLreduce](https://github.com/credativ/sqlreduce) - Reduce verbose SQL queries to minimal examples.
+- [Understanding Bitemporal Data (2022)](https://www.abhinavomprakash.com/posts/understanding-bitemporal-data/)

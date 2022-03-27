@@ -102,3 +102,5 @@
 - [Unix System Monitoring Over SSH](https://github.com/zix99/sshsysmon)
 - [If You're Not Using SSH Certificates You're Doing SSH Wrong (2019)](https://smallstep.com/blog/use-ssh-certificates/) ([HN](https://news.ycombinator.com/item?id=30788544))
 - [Reverse SSH](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell.
+- [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server.
+- [sshtun](https://github.com/rgzr/sshtun) - Go package that provides a SSH tunnel with port forwarding.

@@ -430,3 +430,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Sentry Cocoa](https://github.com/getsentry/sentry-cocoa) - Sentry SDK for iOS, tvOS, macOS, watchOS.
 - [Useful iOS dev tools (2022)](https://twitter.com/onmyway133/status/1504487749901905928)
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices. ([Web](https://libimobiledevice.org/))
+- [WWDC Session Notes](https://github.com/HARlBO/WWDC)
