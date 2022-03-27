@@ -35,9 +35,11 @@
 - [rescript-libs](https://github.com/ri7nz/rescript-libs) - Collections and Essential set of Library, Utility, & Tools for ReScript Lang especially in Web.
 - [Jzon](https://github.com/nkrkv/jzon) - ReScript library to encode and decode JSON data with type safety.
 - [re-fp](https://github.com/snatvb/re-fp) - Functional programming library for ReScript.
+- [ReSchema](https://github.com/rescriptbr/reschema) - Schema validation made easy for ReScript.
 
 ## Links
 
 - [Redex](https://redex.github.io/) - Reason Package Index.
 - [Awesome ReScript](https://github.com/fhammerschmidt/awesome-rescript)
 - [PPX_ts](https://github.com/green-labs/ppx_ts) - ReScript preprocessor, which helps generating helper types to bind to typescript modules.
+- [ReScript Brazil](https://github.com/rescriptbr)

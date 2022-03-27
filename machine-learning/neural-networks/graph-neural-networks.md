@@ -100,3 +100,4 @@
 - [Awesome Efficient Graph Neural Networks](https://github.com/chaitjo/awesome-efficient-gnn)
 - [GraphSAGE](http://snap.stanford.edu/graphsage/) - Inductive Representation Learning on Large Graphs. ([PyTorch Code](https://github.com/twjiang/graphSAGE-pytorch))
 - [Topological Graph Neural Networks (2022)](https://github.com/BorgwardtLab/TOGL)
+- [Heterogeneous Graph Neural Network](https://github.com/Jhy1993/HAN)

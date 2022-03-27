@@ -483,6 +483,7 @@
 - [esp32-hal](https://github.com/esp-rs/esp32-hal) - Hardware abstraction layer for the esp32 written in Rust.
 - [stm32-eth](https://github.com/stm32-rs/stm32-eth) - Embedded Ethernet driver in Rust.
 - [esp-hal](https://github.com/esp-rs/esp-hal) - Experimental no_std HAL targeting ESP devices.
+- [assert_no_alloc](https://github.com/Windfisch/rust-assert-no-alloc) - Custom Rust allocator allowing to temporarily disable memory (de)allocations for a thread. Aborts or prints a warning if allocating although forbidden.
 
 ## ML
 

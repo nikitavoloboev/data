@@ -447,3 +447,4 @@
 - [Postgres.js](https://github.com/porsager/postgres) - Fastest Full-Featured PostgreSQL Client for Node and Deno. ([HN](https://news.ycombinator.com/item?id=30794332)) ([Reddit](https://www.reddit.com/r/javascript/comments/tn0sxp/postgresjs_fastest_fullfeatured_postgresql_client/))
 - [plProfiler](https://github.com/bigsql/plprofiler) - Extension for the PostgreSQL database system to create performance profiles of PL/pgSQL functions and stored procedures.
 - [PgBouncerHero](https://github.com/kwent/pgbouncerhero) - Dashboard for your PgBouncers.
+- [Supabase Cheat Sheet](https://supabase-cheatsheet.vercel.app/) - Cheat Sheets for anyone starting with Supabase + PostgreSQL. ([Code](https://github.com/lawrencecchen/supabase-cheatsheet))

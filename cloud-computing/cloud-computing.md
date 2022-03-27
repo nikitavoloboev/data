@@ -108,3 +108,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Tell HN: I got 10x Hetzner storage at the same price (2022)](https://news.ycombinator.com/item?id=30398534)
 - [I'm so sorry everyone. Or: why I'm switching to Cloudflare (2022)](https://ersei.saggis.com/en/blog/im-sorry-everyone-cloudflare) ([HN](https://news.ycombinator.com/item?id=30443178))
 - [Cloudflare Provider](https://github.com/pulumi/pulumi-cloudflare) - Cloudflare resource provider for Pulumi lets you use Cloudflare resources in your cloud programs.
+- [Cloud Pricing API](https://github.com/infracost/cloud-pricing-api) - GraphQL-based API that includes all public prices from AWS, Azure and Google.
