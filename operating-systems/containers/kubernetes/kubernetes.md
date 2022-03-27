@@ -672,3 +672,4 @@
 - [Continuous profiling by Pyroscope (2022)](https://itnext.io/continuous-profiling-enabled-by-pyroscope-in-vald-c0ab3341de2e)
 - [jsPolicy](https://github.com/loft-sh/jspolicy) - Easier & Faster Kubernetes Policies using JavaScript or TypeScript.
 - [Furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron and adhoc job platform for Kubernetes.
+- [Kubernetes Opex Analytics](https://github.com/rchakode/kube-opex-analytics) - Kubernetes Usage Analytics and Accounting for Cost Allocation and Capacity Planning.

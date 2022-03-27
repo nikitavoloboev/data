@@ -42,6 +42,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
 - [ts-elmish](https://github.com/iyegoroff/ts-elmish) - Elmish architecture in Typescript.
 - [blockdom](https://github.com/ged-odoo/blockdom) - Fast virtual DOM library.
+- [Zodios](https://github.com/ecyrbe/zodios) - TypeScript HTTP client with zod validation.
 
 ## Test
 
@@ -406,6 +407,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [streaming-iterables](https://github.com/reconbot/streaming-iterables) - Swiss army knife for async iterables. Designed to replace your streams.
 - [dom-chef](https://github.com/vadimdemedes/dom-chef) - Build DOM elements using JSX automatically.
 - [Javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit.
+- [Got Scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
 
 ## Links
 

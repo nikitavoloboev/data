@@ -740,3 +740,4 @@
 - [High Assurance Rust: Developing Secure and Robust Software](https://highassurance.rs/) ([Code](https://github.com/tnballo/high-assurance-rust))
 - [Terse Rust learning material](https://github.com/oreqizer/rust-notes) - Notes I take during learning Rust from The Rust book and Rust by example.
 - [Self Modifying Code (2022)](https://matklad.github.io//2022/03/26/self-modifying-code.html)
+- [Practical course: Advanced Systems Programming in C/Rust](https://github.com/ls1-sys-prog-course/docs)

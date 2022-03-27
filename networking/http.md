@@ -219,3 +219,4 @@
 - [Decrypting your own HTTPS traffic with Wireshark (2022)](https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/) ([HN](https://news.ycombinator.com/item?id=30743141))
 - [whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy.
 - [Death by 1000 needles](https://github.com/Arriven/db1000n) - Simple distributed load generation client written in Go. It is able to fetch simple json config from a local or remote location.
+- [APIX](https://github.com/ecyrbe/apix-rust) - Modern HTTP client for the command line.

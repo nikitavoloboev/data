@@ -1637,6 +1637,7 @@
 - [cfixed-string](https://github.com/emoon/cfixed-string) - Pass Rust strings to C with potentially not needing heap allocation.
 - [Node Crunch](https://github.com/willi-kappler/node_crunch) - Allows to distribute computations across several nodes.
 - [sendable](https://github.com/hniksic/sendable) - Wrapper around Rc safe to send to a different thread.
+- [itoa](https://github.com/dtolnay/itoa) - Fast functions for printing integer primitives to an io::Write.
 
 ## Cargo Plugins
 

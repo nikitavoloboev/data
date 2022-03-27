@@ -98,3 +98,4 @@
 - [Parsing Expressions by Recursive Descent (1999)](https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm)
 - [From Precedence Climbing to Pratt Parsing (2016)](https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm)
 - [Favorite approach to lexical analysis (i.e. turning a stream of bytes/characters into a stream of tokens)](https://twitter.com/typeswitch/status/1507756887537815558)
+- [How to write a linter using tree-sitter in an hour (2022)](https://siraben.dev/2022/03/22/tree-sitter-linter.html)

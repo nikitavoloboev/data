@@ -46,3 +46,4 @@
 - [PyFlow](https://github.com/Bycelium/PyFlow) - Visual and modular block programming in Python. ([HN](https://news.ycombinator.com/item?id=30150018))
 - [Schultzschultz - TouchType Tool](https://schultzschultz.com/touchtype)
 - [Observable notebook backups](https://github.com/endpointservices/observable-notebooks)
+- [BlocklyML](https://blocklyml.herokuapp.com/) - Simple visual programming Tool for python and ML. Built on Google Blockly. ([Code](https://github.com/chekoduadarsh/BlocklyML))

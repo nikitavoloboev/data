@@ -73,3 +73,4 @@
 - [Going multipath without Multipath TCP (2022)](https://blog.benjojo.co.uk/post/multipath-without-mptcp) ([HN](https://news.ycombinator.com/item?id=30454014))
 - [Bondcat](https://github.com/benjojo/bondcat) - Netcat like system utility that has the ability to combine multiple TCP connections for better transfer speeds, but also better reliability.
 - [Socklab](https://github.com/drakkar-lig/socklab) - Interactive tool to learn about the socket API for UDP and TCP, without having to actually write C code.
+- [Benchmark TCP bandwidth and latency with Rust](https://github.com/LorenzoMartini/rust-tcp-io-perf)

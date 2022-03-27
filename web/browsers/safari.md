@@ -64,3 +64,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Push Notifications, WebXR, and better PWA support coming to iOS (2022)](https://firt.dev/ios-15.4b)
 - [Safari bugs (2022)](https://twitter.com/jensimmons/status/1491064075987873792)
 - [New WebKit features in Safari 15.4 (2022)](https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/) ([HN](https://news.ycombinator.com/item?id=30676825))
+- [Release Notes for Safari Technology Preview 142 (2022)](https://webkit.org/blog/12522/release-notes-for-safari-technology-preview-142/)

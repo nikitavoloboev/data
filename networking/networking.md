@@ -441,3 +441,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [netsim-tools](https://github.com/ipspace/netsim-tools) - Network simulation tools.
 - [Easy to Use Cloudflare Tunnels (2022)](https://blog.cloudflare.com/ridiculously-easy-to-use-tunnels/) ([HN](https://news.ycombinator.com/item?id=30802430)) ([Reddit](https://www.reddit.com/r/selfhosted/comments/tp0nqg/cloudflare_has_added_a_web_gui_for_controlling/))
 - [Wait4X](https://github.com/atkrad/wait4x) - Allows you to wait for a port or a service to enter the requested state.
+- [5G Skeptic (2022)](https://www.tbray.org/ongoing/When/202x/2022/03/26/Is-5G-BS) ([HN](https://news.ycombinator.com/item?id=30821504))

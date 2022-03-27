@@ -166,3 +166,4 @@
 - [Topojson](https://github.com/mattijn/topojson) - Encode geographic data as topology in Python.
 - [mordecai](https://github.com/openeventdata/mordecai) - Full text geoparsing as a Python library.
 - [Awesome OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap)
+- [tippecanoe](https://github.com/protomaps/tippecanoe) - Builds vector tilesets from large (or small) collections of GeoJSON, FlatGeobuf, or CSV features.

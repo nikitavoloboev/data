@@ -196,3 +196,4 @@
 - [Haskell DNS](https://github.com/kazu-yamamoto/dns) - Highly concurrent DNS library purely in Haskell.
 - [DNS Transport over TCP - Operational Requirements](https://datatracker.ietf.org/doc/rfc9210/)
 - [How to Detect DNS Tunneling in the Network? (2021)](https://www.catonetworks.com/blog/how-to-detect-dns-tunneling-in-the-network/) ([Reddit](https://www.reddit.com/r/programming/comments/tpfkwi/how_to_detect_dns_tunneling_in_the_network/))
+- [certutils](https://github.com/caiguanhao/certutils) - Wildcard certificates tools: Obtain certbot's (Let's Encrypt) wildcard certificates by updating DNS TXT records and answering stupid certbot questions for you.

@@ -33,3 +33,4 @@
 - [Ask HN: Why is Firefox losing marketshare and how would you save it? (2022)](https://news.ycombinator.com/item?id=30335455)
 - [Tab Keywords in Firefox (2020)](https://www.jantrid.net/2020/06/03/tab-keywords-in-firefox/)
 - [My essential Firefox fixes in 2022](https://rubenerd.com/my-essential-firefox-fixes-in-2022/) ([HN](https://news.ycombinator.com/item?id=30663266))
+- [Firefox UI/UX History](https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history) ([HN](https://news.ycombinator.com/item?id=30820894))

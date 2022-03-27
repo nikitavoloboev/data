@@ -141,3 +141,4 @@
 - [Django Sockpuppet](https://github.com/jonathan-s/django-sockpuppet) - Build reactive applications with the Django tooling you already know and love.
 - [Django Celery Results](https://github.com/celery/django-celery-results) - Celery result back end with Django.
 - [Polymorphic Models for Django](https://github.com/django-polymorphic/django-polymorphic) - Improved Django model inheritance with automatic downcasting.
+- [Django Postgres Metrics](https://github.com/django-postgres-metrics/django-postgres-metrics) - Django application that exposes a bunch of PostgreSQL database metrics.

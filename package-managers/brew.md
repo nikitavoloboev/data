@@ -35,3 +35,4 @@
 - [homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies.
 - [homebrew-cask-versions](https://github.com/Homebrew/homebrew-cask-versions) - Alternate versions of Casks.
 - [Tap Release](https://github.com/toolmantim/tap-release) - Automatically update Homebrew taps when you publish new GitHub releases.
+- [brew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) - Command line tool for upgrading every outdated app installed by Homebrew Cask.

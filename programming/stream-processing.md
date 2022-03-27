@@ -34,3 +34,4 @@
 - [Apache Griffin](https://griffin.apache.org/) - Big Data Quality Solution For Batch and Streaming. ([Code](https://github.com/apache/griffin))
 - [Mirabelle](https://github.com/mcorbin/mirabelle) - Stream processing engine for monitoring.
 - [Kleenex](https://kleenexlang.org/) - Programming language for stream processing of data in a regular domain. ([Code](https://github.com/diku-kmc/kleenexlang))
+- [Callysto](https://github.com/vertexclique/callysto) - Stream processing framework.
