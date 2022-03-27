@@ -522,3 +522,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [From Idea to Self-published Book: 27 Writing and Book Marketing Tips (2022)](https://tealfeed.com/idea-self-published-book-27-writing-pyqst)
 - [Kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
 - [Openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks.
+- [Librarian](https://github.com/portah/librarian) - Index, search, read ebooks - pdf, epub.
+- [Docland](https://github.com/mpazik/docland) - Application that allows a user to display, organize, search and store all the articles and ebooks a person has ever read, together with personal annotations and comments.

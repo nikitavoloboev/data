@@ -174,3 +174,5 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ask HN: What is your recommended stack for real time chat? (2022)](https://news.ycombinator.com/item?id=30789263)
 - [Tell HN: There needs to be a “right to speak with a human” (2022)](https://news.ycombinator.com/item?id=30788681)
 - [What can replace the “what do you do” question at a party?](https://twitter.com/HelloShreyas/status/1507219196781871113)
+- [Ask HN: If you used to be socially awkward and shy, how did you improve? (2022)](https://news.ycombinator.com/item?id=30814248)
+- [Epistemic legibility: being easy to argue with is a virtue (2022)](https://acesounderglass.com/2022/02/07/epistemic-legibility/) ([HN](https://news.ycombinator.com/item?id=30802349))

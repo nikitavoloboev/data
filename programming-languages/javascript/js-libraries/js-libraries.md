@@ -160,6 +160,7 @@
 - [PicoDB](https://github.com/jclo/picodb) - Tiny in-memory database (MongoDB like) that stores JSON documents.
 - [level-web-stream](https://github.com/Level/web-stream) - Read from an abstract-level database using Web Streams.
 - [iron-store](https://github.com/vvo/iron-store) - In-memory, signed and encrypted JavaScript store.
+- [Keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 
 ## React
 
@@ -853,6 +854,7 @@
 - [loopbench](https://github.com/mcollina/loopbench) - Benchmark your event loop.
 - [Isomorphic Layout Composer (ILC)](https://github.com/namecheap/ilc) - Layout service that composes a web page from fragment services. It supports client/server-based page composition.
 - [esx](https://github.com/esxjs/esx) - High throughput React Server Side Rendering.
+- [modern-async](https://github.com/nicolas-van/modern-async) - Modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators.
 
 ## Links
 

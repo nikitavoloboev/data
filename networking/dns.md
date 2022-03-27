@@ -195,3 +195,4 @@
 - [Bunny DNS](https://bunny.net/blog/transforming-internet-routing-introducing-bunny-dns/) - Scriptable DNS platform. ([HN](https://news.ycombinator.com/item?id=30697672))
 - [Haskell DNS](https://github.com/kazu-yamamoto/dns) - Highly concurrent DNS library purely in Haskell.
 - [DNS Transport over TCP - Operational Requirements](https://datatracker.ietf.org/doc/rfc9210/)
+- [How to Detect DNS Tunneling in the Network? (2021)](https://www.catonetworks.com/blog/how-to-detect-dns-tunneling-in-the-network/) ([Reddit](https://www.reddit.com/r/programming/comments/tpfkwi/how_to_detect_dns_tunneling_in_the_network/))

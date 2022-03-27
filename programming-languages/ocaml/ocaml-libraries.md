@@ -167,6 +167,7 @@
 - [ORaft](https://github.com/komamitsu/oraft) - Library of Raft consensus algorithm implemented in OCaml.
 - [ocaml-mpsc](https://github.com/haesbaert/ocaml-mpsc) - Lockless Multiple Producer Single Consumer Queue for ocaml-multicore.
 - [Charset](https://github.com/yallop/ocaml-charset) - Fast char sets.
+- [OCaml gRPC](https://github.com/dialohq/ocaml-grpc)
 
 ## Links
 

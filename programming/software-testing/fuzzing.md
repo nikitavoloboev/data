@@ -75,3 +75,4 @@
 - [Stateful Model-Based Database Fuzzing (2022)](https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337)
 - [FirmWire](https://github.com/FirmWire/FirmWire) - Full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares.
 - [Frelatage](https://github.com/Rog3rSm1th/Frelatage) - Coverage-based Python fuzzing library which can be used to fuzz python code.
+- [Banana Fuzzer](https://github.com/rezer0dai/bananafzz) - Modulable, loop based, poc gen, code cov, platform agnostic, race oriented.

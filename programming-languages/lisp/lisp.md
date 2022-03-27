@@ -181,3 +181,4 @@
 - [Dale](https://github.com/tomhrr/dale) - Lisp-flavoured C.
 - [Sjsonnet](https://github.com/databricks/sjsonnet) - JVM implementation of the Jsonnet configuration language.
 - [rs-lisp](https://github.com/ktfth/rs-lisp) - Small lisp interpreter written in Rust.
+- [Why we need Lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines) ([HN](https://news.ycombinator.com/item?id=30811592))

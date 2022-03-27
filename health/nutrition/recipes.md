@@ -87,3 +87,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [What are some favorite regional vegetarian dishes of yours?](https://www.reddit.com/r/AskEurope/comments/sjehhq/what_are_some_favourite_regional_vegetarian/)
 - [How do you keep track of online recipes you want to make in the future?](https://twitter.com/hels/status/1496122916836200451)
 - [MyRecipes](https://www.myrecipes.com/) - Recipes, Dinner Ideas and Menus.
+- [CMU's Recipe Archive](https://www.cs.cmu.edu/~mjw/recipes/) ([HN](https://news.ycombinator.com/item?id=30814323))

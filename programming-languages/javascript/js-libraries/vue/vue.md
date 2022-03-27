@@ -126,3 +126,4 @@
 - [Pinia Plugin Persist](https://github.com/Seb-L/pinia-plugin-persist) - Persist pinia state data in sessionStorage or other storages.
 - [Inkline](https://www.inkline.io/) - Vue.js UI UX DX Library. ([Code](https://github.com/inkline/inkline))
 - [Islands Architecture in Vue with Máximo Mussini (2021)](https://pca.st/gtrkm8oc)
+- [nuxt-directus](https://github.com/Intevel/nuxt-directus) - Easily connect your Nuxt3 application to your directus server.

@@ -22,3 +22,4 @@
 - [Spirals](https://isohedral.ca/other/Spirals/)
 - [Find the curved line](https://twitter.com/JohnDiesattheEn/status/1469704572629311493)
 - [Illusion of the Year 2021](http://illusionoftheyear.com/cat/top-10-finalists/2021/) ([HN](https://news.ycombinator.com/item?id=29760007))
+- [ Good YouTube video if you're tripping on Acid](https://www.reddit.com/r/Psychonaut/comments/tpccx2/so_whats_a_good_youtube_video_if_youre_tripping/)

@@ -639,3 +639,5 @@
 - [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening (2022)](https://arxiv.org/abs/2203.02503) ([Code](https://github.com/wgcban/HyperTransformer))
 - [TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing (2022)](https://arxiv.org/abs/2203.10489) ([Code](https://github.com/JierunChen/TVConv))
 - [DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.0.1 configuration for YOLO models.
+- [An Empirical Investigation of 3D Anomaly Detection and Segmentation (2022)](https://arxiv.org/abs/2203.05550) ([Code](https://github.com/eliahuhorwitz/3D-ADS))
+- [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation (2021)](https://arxiv.org/abs/2111.04017) ([Code](https://github.com/syguan96/DynaBOA))

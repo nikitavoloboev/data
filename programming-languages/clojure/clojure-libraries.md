@@ -70,6 +70,7 @@
 - [test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure.
 - [spec-coerce](https://github.com/wilkerlucio/spec-coerce) - Clojure(script) library designed to leverage your specs to coerce your information into correct types.
 - [coax](https://github.com/exoscale/coax) - Clojure.spec coercion library for clj(s).
+- [clojure.test](https://github.com/clojure-expectations/clojure-test) - Clojure.test-compatible version of the classic Expectations testing library.
 
 ## Graphics
 

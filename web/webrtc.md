@@ -87,3 +87,4 @@
 - [WISH, WHIP and Janus (2021)](https://www.meetecho.com/blog/whip-janus-part-ii/)
 - [SwiftyWebRTC](https://github.com/Ankit-Aggarwal/SwiftyWebRTC) - Swift Framework for WebRTC.
 - [WebRTC with Node.js: Building a Video Chat App](https://www.metered.ca/docs/Video-Calls/JavaScript/Building-a-Group-Video%E2%80%93Calling-Application/)
+- [Baresip WebRTC Demo](https://github.com/baresip/baresip-webrtc)

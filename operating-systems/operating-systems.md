@@ -346,3 +346,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [x86-64 VMM for seL4: Security Analysis and Requirements](https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf)
 - [OSBuild](https://github.com/osbuild/osbuild) - Build-Pipelines for Operating System Artifacts. ([Web](https://www.osbuild.org/))
 - [Writing a Simple Operating System – From Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) ([HN](https://news.ycombinator.com/item?id=30800715))
+- [PCLSRing: Keeping Process State Modular](http://fare.tunes.org/tmp/emergent/pclsr.htm) ([HN](https://news.ycombinator.com/item?id=30800414))

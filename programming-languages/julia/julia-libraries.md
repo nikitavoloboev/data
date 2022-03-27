@@ -79,6 +79,7 @@
 - [FluxArchitectures](https://github.com/sdobber/FluxArchitectures.jl) - Complex neural network examples for Flux.jl.
 - [StochasticDiffEq.jl](https://github.com/SciML/StochasticDiffEq.jl) - Solvers for stochastic differential equations which connect with the scientific machine learning (SciML) ecosystem.
 - [DiffEqOperators.jl](https://github.com/SciML/DiffEqOperators.jl) - Linear operators for discretizations of differential equations and scientific machine learning (SciML).
+- [NeuralAttentionlib.jl](https://github.com/chengchingwen/NeuralAttentionlib.jl) - Reusable functionality for defining custom attention/transformer layers.
 
 ## Math
 

@@ -147,3 +147,4 @@
 - [Robot-Centric Elevation Mapping](https://github.com/ANYbotics/elevation_mapping)
 - [Charge Robotics](https://chargerobotics.com/) - Robots that build solar farms. ([HN](https://news.ycombinator.com/item?id=30780455))
 - [SurRoL: An Open-source Reinforcement Learning Centered and dVRK Compatible Platform for Surgical Robot Learning (2021)](https://arxiv.org/abs/2108.13035) ([Code](https://github.com/med-air/SurRoL))
+- [SafePicking: Learning Safe Object Extraction via Object-Level Mapping (2022)](https://arxiv.org/abs/2202.05832) ([Code](https://github.com/wkentaro/safepicking))

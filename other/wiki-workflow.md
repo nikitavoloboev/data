@@ -451,3 +451,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [My Notebook System](http://ratfactor.com/notes) ([HN](https://news.ycombinator.com/item?id=30395238))
 - [Write plain text files](https://sive.rs/plaintext) ([HN](https://news.ycombinator.com/item?id=30521545))
 - [Plaintext Productivity](https://plaintext-productivity.net/) ([HN](https://news.ycombinator.com/item?id=30745524))
+- [Programmable Notes](https://maggieappleton.com/programmatic-notes) ([HN](https://news.ycombinator.com/item?id=30814964))
+- [zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line.

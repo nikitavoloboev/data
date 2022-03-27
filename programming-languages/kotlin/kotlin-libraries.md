@@ -66,3 +66,4 @@
 - [Package Search](https://package-search.jetbrains.com/) - Search for any Java or Kotlin library. ([Article](https://blog.jetbrains.com/idea/2020/04/package-search-on-the-web))
 - [Awesome KMM](https://github.com/terrakok/kmm-awesome)
 - [Jetpack Compose Tutorials and Playground](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)
+- [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html) ([HN](https://news.ycombinator.com/item?id=30817065))

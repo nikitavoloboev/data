@@ -563,3 +563,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
 - [IMDBench](https://github.com/edgedb/imdbench) - Benchmarking ORMs with realistic queries.
 - [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/)
+- [Database Meetup by SPLVM](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup)

@@ -449,3 +449,5 @@ for i, _ in enumerate(nums):
 - [Pyground](https://github.com/mcintyre94/pyground) - Playground for running Python using WASM on data in the browser.
 - [Interview with a Postdoc, Junior Python Developer in 2022](https://www.youtube.com/watch?v=YnL9vAFphmE)
 - [Flake8](https://github.com/PyCQA/flake8) - Python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [Python 3.11 in the Web Browser (2022)](https://2022.pycon.de/program/SBCNDY/) ([HN](https://news.ycombinator.com/item?id=30815122))
+- [The counterintuitive rise of Python in scientific computing (2020)](https://cerfacs.fr/coop/fortran-vs-python) ([HN](https://news.ycombinator.com/item?id=30812086))

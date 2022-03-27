@@ -1030,6 +1030,7 @@
 - [Neon](https://github.com/ChimeHQ/Neon) - Swift system for working with language syntax.
 - [SwiftMixin](https://github.com/stackotter/swift-mixin) - Provides all of the functionality required to overwrite functions and methods at runtime.
 - [Swift Async Algorithms](https://github.com/apple/swift-async-algorithms) ([Intro](https://www.swift.org/blog/swift-async-algorithms/))
+- [Bagbutik](https://github.com/MortenGregersen/Bagbutik) - Generated Swift code for the App Store Connect API based on the official OpenAPI spec.
 
 ## Other (not lib)
 

@@ -340,3 +340,4 @@
 - [EvtStore](https://github.com/Seikho/evtstore) - Type-safe Event Sourcing and CQRS with Node.JS and TypeScript.
 - [tiny glob](https://github.com/terkelg/tiny-glob) - Tiny and extremely fast library to match files and folders using glob patterns.
 - [proxy-chain](https://github.com/apify/proxy-chain) - Programmable HTTP proxy server for Node.js.
+- [Node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js.

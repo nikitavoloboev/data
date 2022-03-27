@@ -165,3 +165,4 @@
 - [Cosmogony](http://cosmogony.world/#/) - Easy to use & easy to update geographic regions. ([Code](https://github.com/osm-without-borders/cosmogony))
 - [Topojson](https://github.com/mattijn/topojson) - Encode geographic data as topology in Python.
 - [mordecai](https://github.com/openeventdata/mordecai) - Full text geoparsing as a Python library.
+- [Awesome OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap)
