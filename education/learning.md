@@ -2,6 +2,8 @@
 
 I love [Learney's approach to learning (show clear dependencies / track topics to learn / show best resources)](https://twitter.com/nikitavoloboev/status/1462921646575173633). [Feynman Technique](https://twitter.com/SahilBloom/status/1475096936395026434) is nice too. [Edrys](https://edrys.org/) seems like a nice learning platform.
 
+![](https://pbs.twimg.com/media/DRgAB30VQAAoY2i?format=jpg&name=900x900)
+
 ## Notes
 
 - [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)

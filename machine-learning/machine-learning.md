@@ -741,3 +741,4 @@
 - [Research on Tabular Deep Learning](https://github.com/Yura52/rtdl)
 - [HuggingFace Blog](https://huggingface.co/blog) ([Code](https://github.com/huggingface/blog))
 - [Learning to Prompt for Continual Learning (2022)](https://arxiv.org/abs/2112.08654) ([Code](https://github.com/google-research/l2p))
+- [Group Equivariant Deep Learning (2022)](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) ([Tweet](https://twitter.com/erikjbekkers/status/1507807031088062470))
