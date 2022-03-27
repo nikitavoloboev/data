@@ -455,3 +455,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-starter](https://github.com/antfu/ts-starter) - Starter template for typescript with node.
 - [JSON to TS](https://github.com/MariusAlch/json-to-ts) - Convert JSON object to typescript interfaces.
 - [docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS. Works for Node and on the Browser. ([Docs](https://docx.js.org/#/))
+- [Stardazed Web Streams Implementation](https://github.com/stardazed/sd-streams)

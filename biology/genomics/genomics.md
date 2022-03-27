@@ -151,3 +151,4 @@
 - [FLAMES](https://github.com/LuyiTian/FLAMES) - Full-length transcriptome splicing and mutation analysis.
 - [Open Problems in Single-Cell Analysis](https://github.com/openproblems-bio/openproblems) - Formalizing and benchmarking open problems in single-cell genomics.
 - [HiGlass](http://higlass.io/app) - Fast, flexible and extensible genome browser. ([Code](https://github.com/higlass/higlass))
+- [Automated Genome Assembly](https://centuryofbio.substack.com/p/automated-genome-assembly?s=r)

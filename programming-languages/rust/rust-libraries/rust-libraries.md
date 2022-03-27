@@ -247,6 +247,8 @@
 - [Endorphin](https://github.com/ArtBlnd/endorphin) - Key-Value based in-memory cache library which supports Custom Expiration Policies.
 - [Nebuchadnezzar](https://github.com/ShisoftResearch/Nebuchadnezzar) - High Performance Key-Value Store.
 - [CannyLS](https://github.com/frugalos/cannyls) - Embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD.
+- [rocksdb-rs](https://github.com/rust-lib-project/calibur) - Rust version of RocksDB.
+- [mysql](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust.
 
 ## Video
 

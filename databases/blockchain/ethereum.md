@@ -552,3 +552,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Uniswap Smart Order Router](https://github.com/Uniswap/smart-order-router)
 - [ocaml-solidity](https://github.com/OCamlPro/ocaml-solidity) - Provides a Solidity parser and typechecker.
 - [Most efficient Counter (LFU Cache) in Solidity and Foundry](https://github.com/0xMisaka/Sol-MagicCounter)
+- [Ethereum Smart Contract Template](https://github.com/cleanunicorn/ethereum-smartcontract-template)

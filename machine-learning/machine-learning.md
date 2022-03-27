@@ -744,3 +744,4 @@
 - [Group Equivariant Deep Learning (2022)](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd) ([Tweet](https://twitter.com/erikjbekkers/status/1507807031088062470))
 - [Human-Centered Machine Learning (2022)](https://github.com/ChicagoHAI/human-centered-machine-learning)
 - [Transformer models: an introduction and catalog — 2022 Edition](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
+- [Bayesian Structure Learning with Generative Flow Networks (2022)](https://arxiv.org/abs/2202.13903) ([Code](https://github.com/tristandeleu/jax-dag-gflownet))
