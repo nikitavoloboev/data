@@ -237,6 +237,7 @@
 - [A complete guide to TypeScript’s 'never' type (2022)](https://www.zhenghao.io/posts/ts-never) ([HN](https://news.ycombinator.com/item?id=30616912))
 - [Type Polymorphic Functions in TypeScript (2022)](https://www.zhenghao.io/posts/type-functions) ([HN](https://news.ycombinator.com/item?id=30693915))
 - [TypeScript + fp-ts: ReaderTaskEither and React (2021)](https://andywhite.xyz/posts/2021-01-28-rte-react/)
+- [Great TS projects with code to learn from](https://twitter.com/mpocock1/status/1507721235270189057)
 
 ## Images
 

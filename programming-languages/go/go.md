@@ -740,3 +740,4 @@ if err != nil {
 - [Behind the Scenes of Go Scheduler (2022)](https://dev.to/sourikghosh/behind-the-scenes-of-go-scheduler-1hdi)
 - [Pro Go Book (2022)](https://link.springer.com/book/10.1007/978-1-4842-7355-5) ([Code](https://github.com/Apress/pro-go))
 - [An Introduction To Generics (2022)](https://go.dev/blog/intro-generics) ([Lobsters](https://lobste.rs/s/vcu5gq/introduction_generics)) ([Reddit](https://www.reddit.com/r/golang/comments/tkug37/go_blog_an_introduction_to_generics/))
+- [Why We Write Everything in Go (2022)](https://bitly.com/blog/why-we-write-everything-in-go/)
