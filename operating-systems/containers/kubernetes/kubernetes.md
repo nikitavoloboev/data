@@ -669,3 +669,4 @@
 - [Platform Aware Scheduling](https://github.com/intel/platform-aware-scheduling) - Enabling Kubernetes to make pod placement decisions with platform intelligence.
 - [Canary Deployment with Kubernetes and Istio (2022)](https://www.fpcomplete.com/blog/canary-deployment-istio/)
 - [Thundernetes](https://github.com/PlayFab/thundernetes) - Makes it easy to run your game servers on Kubernetes.
+- [Continuous profiling by Pyroscope (2022)](https://itnext.io/continuous-profiling-enabled-by-pyroscope-in-vald-c0ab3341de2e)

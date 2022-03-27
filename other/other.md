@@ -40,6 +40,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - ["If there is a God, he will have to beg for my forgiveness." - A phrase carved into a concentration camp cell by a Jewish Prisoner](https://twitter.com/apmassaro3/status/1495872953766010883)
 - [Hope never stopped tragedy from happening. Hope is just something we kid ourselves with because we’re scared and we don’t want to see what is right in front of our eyes.](https://twitter.com/apmassaro3/status/1495872953766010883)
 - [There’s nothing in the world more powerful than a good story. Nothing can stop it. No enemy can defeat it.](https://twitter.com/hardmaru/status/1499935502937505792)
+- [It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.](https://www.reddit.com/r/Economics/comments/toozub/perspective_russia_is_threatening_a_move_that/)
 
 ## Other
 
@@ -614,3 +615,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Vibe, Mood, Energy (2022)](https://www.thedriftmag.com/vibe-mood-energy/) ([HN](https://news.ycombinator.com/item?id=30677537))
 - [What's my place in the world population?](https://population.io/) ([HN](https://news.ycombinator.com/item?id=30708217))
 - [MicroDiscount](https://www.microdiscount.website/) - Directory of tech & software discounts for students, teachers & hobbyists. ([Code](https://github.com/cliffordfajardo/micro-discounts))
+- [Website to find public pianos](https://pianos.pub/) ([HN](https://news.ycombinator.com/item?id=30811648))

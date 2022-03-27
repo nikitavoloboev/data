@@ -176,6 +176,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Dico.app](https://dico.app/) - Manage static content for your web app with ease. ([GitHub](https://github.com/dico-app))
 - [Boon](https://boon.tv/) - Build your members community.
+- [Typebot](https://typebot.io/) - Open-source conversational apps builder. ([Code](https://github.com/baptisteArno/typebot.io)) ([HN](https://news.ycombinator.com/item?id=30811499))
 - [avatar](https://github.com/frncsdrk/avatar) - Self-hosted service for creating random avatars.
 - [Isoflow](https://isoflow.io/) - Create beautiful cloud diagrams in minutes. ([HN](https://news.ycombinator.com/item?id=24168152))
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529)) ([About](https://carbon.now.sh/about)) ([HN](https://news.ycombinator.com/item?id=28874123))

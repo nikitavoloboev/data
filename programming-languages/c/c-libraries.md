@@ -32,6 +32,7 @@
 - [Cairo](https://github.com/freedesktop/cairo) - Multi-platform 2D graphics library.
 - [minidraw](https://github.com/mackron/minidraw) - Single file 2D graphics library written in C.
 - [TinyGL](https://github.com/C-Chads/tinygl) - Penultimate portable graphics library.
+- [raygui](https://github.com/raysan5/raygui) - Simple and easy-to-use immediate-mode GUI library. ([HN](https://news.ycombinator.com/item?id=30813000))
 
 ## Test
 
