@@ -94,3 +94,4 @@
 - [Static torrent website with peer-to-peer queries over BitTorrent on 2M records (2022)](https://boredcaveman.xyz/post/0x2_static-torrent-website-p2p-queries.html) ([Lobsters](https://lobste.rs/s/pt8ptn/static_torrent_website_with_peer_peer))
 - [TransmissionRemote](https://github.com/selim-mustafaev/TransmissionRemote) - macOS client for transmission daemon (using RPC API).
 - [lava_torrent](https://github.com/ttlajus/lava_torrent) - Library for parsing/encoding/creating bencode and .torrent files.
+- [Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages](https://github.com/HDVinnie/Torrent-Tracker-Platforms)

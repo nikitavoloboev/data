@@ -39,3 +39,4 @@
 - [vite-plugin-singlefile](https://github.com/richardtallent/vite-plugin-singlefile) - Vite plugin for inlining JavaScript and CSS resources.
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Vite plugin for generating `.d.ts` files.
 - [vite-hot-client](https://github.com/antfu/vite-hot-client) - Get Vite's import.meta.hot at runtime.
+- [vite-dev-rpc](https://github.com/antfu/vite-dev-rpc) - Remote procedure call for client-server communication in Vite plugins.

@@ -23,3 +23,4 @@
 - [Ask HN: Why new browsers use Chromium instead of Firefox as their base? (2022)](https://news.ycombinator.com/item?id=29900496)
 - [zig-v8](https://github.com/fubark/zig-v8) - Simple V8 builds with C and Zig bindings.
 - [Servo](https://servo.org/) - Parallel web browser written in Rust.
+- [quickjs-emscripten](https://github.com/justjake/quickjs-emscripten) - JavaScript/Typescript bindings for QuickJS, a modern JavaScript interpreter, compiled to WebAssembly.

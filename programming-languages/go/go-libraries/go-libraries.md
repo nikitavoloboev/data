@@ -442,6 +442,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoMybatis](https://github.com/zhuxiujia/GoMybatis) - Go ORM Library. Powerful Features like transaction nesting, Optimistic Lock, Logical deletion and more.
 - [Ristretto](https://github.com/outcaste-io/ristretto) - Fast, concurrent cache library built with a focus on performance and correctness.
 - [Cloud SQL Go Connector](https://github.com/GoogleCloudPlatform/cloud-sql-go-connector) - Cloud SQL connector designed for use with the Go language.
+- [agecache](https://github.com/segmentio/agecache) - LRU cache with support for max age.
 
 ## ML
 
@@ -511,6 +512,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pkcs7](https://github.com/fullsailor/pkcs7) - Implements a subset of PKCS#7/Crytpographic Message Syntax.
 - [xsum](https://github.com/sclevine/xsum) - More useful checksums using Merkle Trees.
 - [go-tfhe](https://github.com/thedonutfactory/go-tfhe) - Go implementation of TFHE Encrypted Computation Scheme.
+- [BLS12-381](https://github.com/kilic/bls12-381) - High Speed BLS12-381 Implementation in Go.
 
 ## Linux
 
@@ -1458,6 +1460,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [hq](https://github.com/nikolaydubina/hq) - Happy little queue.
 - [routine](https://github.com/timandy/routine) - ThreadLocal for Go.
 - [Amigo](https://github.com/mdempsky/amigo) - Experiment to radically reinvision the Go tools ecosystem.
+- [kdtree](https://github.com/kyroy/kdtree) - k-d tree implementation in Go.
 
 ## Links
 
@@ -1535,3 +1538,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [supply-chain-example](https://github.com/goreleaser/supply-chain-example) - GoReleaser + Go Mod proxying + Cosign keyless signing + Syft SBOM generation example.
 - [Modern Go Application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
 - [How we used Go 1.18 generics when designing our Identifiers at Encore (2022)](https://encore.dev/blog/go-1.18-generic-identifiers) ([Lobsters](https://lobste.rs/s/uakuuc/how_we_used_go_1_18_generics_when_designing))
+- [GoPlantUML](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for Go projects.

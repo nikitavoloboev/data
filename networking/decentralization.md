@@ -83,7 +83,7 @@
 - [EU Funding for Dev Tools for the Decentralized Web (2021)](https://httptoolkit.tech/blog/developer-tools-decentralized-web/) ([HN](https://news.ycombinator.com/item?id=28537841))
 - [SimpleX chat](https://simplex.chat/) - Private, decentralized, no global identities. ([Code](https://github.com/simplex-chat/simplex-chat)) ([GitHub](https://github.com/simplex-chat))
 - [The Defiant](https://thedefiant.io/) - Defi News, Daily Briefings, DeFi Interviews and Defi Recaps.
-- [Helium](https://www.helium.com/) - Peer-to-peer wireless network. ([Twitter](https://twitter.com/helium)) ([Summary](https://twitter.com/MessariCrypto/status/1438512856199139336)) ([GitHub](https://github.com/helium)) ([Improvement Proposals](https://github.com/helium/HIP))
+- [Helium](https://www.helium.com/) - Peer-to-peer wireless network. ([Twitter](https://twitter.com/helium)) ([Summary](https://twitter.com/MessariCrypto/status/1438512856199139336)) ([GitHub](https://github.com/helium)) ([Improvement Proposals](https://github.com/helium/HIP)) ([Helium Wallet in Rust](https://github.com/helium/helium-wallet-rs))
 - [Helium Vote](https://heliumvote.com/) - Straw poll website that enables a simple straw-poll for Helium related initiatives. ([Code](https://github.com/helium/helium-vote)) ([Tweet](https://twitter.com/helium/status/1458072811512086531))
 - [Helium Gateway](https://github.com/helium/gateway-rs) - Service designed to run on Linux-based LoRaWAN gateways.
 - [Lokinet](https://github.com/oxen-io/lokinet) - Anonymous, decentralized and IP based overlay network for the internet. ([Web](https://lokinet.org/))

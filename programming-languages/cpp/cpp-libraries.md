@@ -382,4 +382,4 @@
 - [How to Use C++20 Modules with Bazel and Clang](https://buildingblock.ai/cpp20-modules-bazel) ([HN](https://news.ycombinator.com/item?id=30345701))
 - [cmake-init](https://github.com/friendlyanon/cmake-init) - Missing CMake project initializer.
 - [clang-tutor](https://github.com/banach-space/clang-tutor) - Example Clang plugins for C and C++.
-
+- [Conan Center](https://conan.io/center/) - Central Repository for C / C++ packages. ([Code](https://github.com/conan-io/conan-center-index))

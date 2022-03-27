@@ -97,3 +97,4 @@
 - [Three.js Immersive Controls](https://github.com/DePasqualeOrg/three-immersive-controls) - Immersive (VR) controls for Three.js.
 - [R3F-Perf](https://github.com/utsuboco/r3f-perf) - Easily monitor your ThreeJS performances.
 - [ThreeJS GPU path tracer](https://github.com/gkjohnson/three-gpu-pathtracer) - Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.
+- [MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line.

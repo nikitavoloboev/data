@@ -210,3 +210,4 @@
 - [React Native Stagger View](https://github.com/Mindinventory/react-native-stagger-view) - Type of layout that is used to display images and posts.
 - [React Native Screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
 - [React Native New Architecture Sample](https://github.com/react-native-community/RNNewArchitectureApp) - Collection of sample React Native Apps that will show you how to use the New Architecture (Fabric & TurboModules) step-by-step.
+- [React Native Awesome Video Player](https://github.com/alantoa/react-native-reanimated-player) - React native video control component, built upon Reanimted v2 & react-native-gesture-handle.

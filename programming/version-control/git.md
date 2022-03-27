@@ -503,3 +503,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [split-patch.py](https://github.com/aleclearmind/split-patch) - `Git add -p` with multiple buckets. ([HN](https://news.ycombinator.com/item?id=30735294))
 - [diffr](https://github.com/mookid/diffr) - Diff highlighting tool.
 - [Scriv](https://github.com/nedbat/scriv) - Changelog management tool.
+- [git-promise](https://github.com/piuccio/git-promise) - Simple wrapper to run any git command and process it's output using promises.

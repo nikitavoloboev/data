@@ -20,6 +20,7 @@
 - [Alcotest](https://github.com/mirage/alcotest) - Lightweight and colorful test framework.
 - [Mutaml](https://github.com/jmid/mutaml) - Mutation Tester for OCaml.
 - [Crowbar](https://github.com/stedolan/crowbar) - Property fuzzing for OCaml.
+- [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml.
 
 ## Science
 

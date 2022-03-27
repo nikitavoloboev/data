@@ -321,3 +321,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixos-shell](https://github.com/chrisfarms/nixos-shell) - Tool for reproducable development environments described as NixOS modules.
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018.
 - [Awesome Nix high performance computing](https://github.com/freuk/awesome-nix-hpc)
+- [Nix tutorials](https://github.com/mhwombat/nix-for-numbskulls)

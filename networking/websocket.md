@@ -84,3 +84,4 @@
 - [websocket](https://github.com/gopherjs/websocket) - Provides high and low-level bindings for the browser's WebSocket API.
 - [Web Socket for Productivity in Rust (2022)](https://www.ahmadrosid.com/blog/rust-websocket)
 - [ezsockets](https://github.com/gbaranski/ezsockets) - Composable WebSockets made easy, for Rust.
+- [Socket.IO](https://socket.io/) - Bidirectional and low-latency communication for every platform. ([Code](https://github.com/socketio/socket.io)) ([Spec](https://github.com/socketio/socket.io-protocol))

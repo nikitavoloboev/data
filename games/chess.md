@@ -185,3 +185,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Lichess coaches](https://lichess.org/coach)
 - [Lichess Variants](https://lichess.org/variant) - Crazyhouse, Chess960, King of the Hill, Three-Check, etc.
 - [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
+- [Avalanche](https://github.com/SnowballSH/Avalanche) - Chess Engine written in Zig with neural evaluations.

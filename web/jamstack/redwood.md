@@ -16,3 +16,4 @@
 - [Redwood Tutorial App](https://github.com/redwoodjs/redwood-tutorial) - End state after completing the RedwoodJS introduction tutorial.
 - [RedwoodJS Web Code](https://github.com/redwoodjs/redwoodjs.com)
 - [RedwoodJS 1.0 launch](https://twitter.com/redwoodjs/status/1506705583939883008)
+- [RedwoodJS - Deploy target CI](https://github.com/redwoodjs/deploy-target-ci) - Testing supported RedwoodJS deploy targets using canary packages.

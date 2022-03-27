@@ -133,6 +133,7 @@
 - [reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs.
 - [Spectre](https://github.com/niklaslong/spectre) - Lightweight toolkit for analysing p2p network topologies.
 - [bifrost](https://github.com/ShisoftResearch/bifrost) - Pure rust building block for distributed systems.
+- [rsocket-rust](https://github.com/rsocket/rsocket-rust) - RSocket Rust Implementation using Tokio.
 
 ## WASM
 
@@ -314,6 +315,8 @@
 - [rust-rgb](https://github.com/kornelski/rust-rgb) - Struct RGB for sharing pixels between crates.
 - [wgpu_glyph](https://github.com/hecrj/wgpu_glyph) - Fast text renderer for wgpu, powered by glyph_brush.
 - [Poloto](https://github.com/tiby312/poloto) - 2D plotting library that outputs graphs to SVG that can be styled using CSS.
+- [vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
+- [Graphics](https://github.com/PistonDevelopers/graphics) - Library for 2D graphics, written in Rust, that works with multiple back-ends.
 
 ## Games
 
@@ -1628,6 +1631,9 @@
 - [Zestors](https://github.com/Zestors/zestors) - Simple, fast and flexible actor framework for building robust distributed applications, heavily inspired by Erlang.
 - [id-arena](https://github.com/fitzgen/id-arena) - Simple, id-based arena.
 - [Textwrap](https://github.com/mgeisler/textwrap) - Library for wrapping and indenting text.
+- [cfixed-string](https://github.com/emoon/cfixed-string) - Pass Rust strings to C with potentially not needing heap allocation.
+- [Node Crunch](https://github.com/willi-kappler/node_crunch) - Allows to distribute computations across several nodes.
+- [sendable](https://github.com/hniksic/sendable) - Wrapper around Rc safe to send to a different thread.
 
 ## Cargo Plugins
 
@@ -1690,6 +1696,7 @@
 - [cargo-diet](https://github.com/the-lean-crate/cargo-diet) - Help computing 'optimal' include directives for your Cargo.toml manifest.
 - [reloady](https://github.com/anirudhb/reloady) - Simple and performant hot-reloading for Rust.
 - [cargo-temp](https://github.com/yozhgoor/cargo-temp) - CLI tool that allows you to create a new rust project in a temporary directory with already installed dependencies.
+- [cargo-bom](https://github.com/sensorfu/cargo-bom) - Bill of Materials for Rust Crates.
 
 ## Links
 

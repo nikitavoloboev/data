@@ -521,3 +521,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Litnerd](https://litnerd.com/) - Bringing Books to Life.
 - [From Idea to Self-published Book: 27 Writing and Book Marketing Tips (2022)](https://tealfeed.com/idea-self-published-book-27-writing-pyqst)
 - [Kepubify](https://github.com/pgaskin/kepubify) - Fast, standalone EPUB to Kobo EPUB conversion tool.
+- [Openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks.

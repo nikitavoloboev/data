@@ -257,6 +257,7 @@
 
 - [run-cmake](https://github.com/lukka/run-cmake) - GitHub Action to build C++ applications with CMake.
 - [clang-format-action](https://github.com/jidicula/clang-format-action) - GitHub Action for clang-format checking.
+- [Ccache for gh actions](https://github.com/hendrikmuhs/ccache-action) - Github action to speedup building using ccache/sccache for C/C++ projects.
 
 ## Bash
 

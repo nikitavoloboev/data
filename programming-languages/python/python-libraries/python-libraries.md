@@ -773,6 +773,8 @@
 - [Atomos](https://github.com/maxcountryman/atomos) - Atomic primitives for Python. ([Docs](https://atomos.readthedocs.io/en/latest/))
 - [Jinja](https://github.com/pallets/jinja) - Very fast and expressive template engine.
 - [watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and high performance file watching and code reload in python.
+- [Xeger](https://github.com/crdoconnor/xeger) - Library to generate random strings from regular expressions.
+- [Affine](https://github.com/rasterio/affine) - Matrices describing affine transformation of the plane.
 
 ## Links
 
@@ -872,3 +874,4 @@
 - [MicroPython Samples](https://github.com/peterhinch/micropython-samples)
 - [filesystem_spec](https://github.com/fsspec/filesystem_spec) - Specification for pythonic filesystems.
 - [ranx](https://github.com/AmenRa/ranx) - Blazing-Fast Python Library for Ranking Evaluation and Comparison.
+- [pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - Apply a consistent format to pyproject.toml files.

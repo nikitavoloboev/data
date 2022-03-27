@@ -19,3 +19,4 @@
 - [Bevy Tweening](https://github.com/djeedai/bevy_tweening) - Tweening animation plugin for the Bevy game engine.
 - [Bevy Embedded Assets](https://github.com/vleue/bevy_embedded_assets) - Bevy plugin to embed assets in your game.
 - [Bevy RFCs](https://github.com/bevyengine/rfcs)
+- [bevy-modding](https://github.com/zylkowski/bevy-modding) - Modding plugin for Bevy game engine.

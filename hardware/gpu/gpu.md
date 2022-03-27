@@ -97,3 +97,4 @@
 - [Nvidia Hopper GPU Architecture and H100 Accelerator (2022)](https://www.anandtech.com/show/17327/nvidia-hopper-gpu-architecture-and-h100-accelerator-announced) ([HN](https://news.ycombinator.com/item?id=30767586))
 - [Nvidia Grace CPU](https://www.nvidia.com/en-us/data-center/grace-cpu/) ([HN](https://news.ycombinator.com/item?id=30768704))
 - [NVIDIA Warp](https://github.com/NVIDIA/warp) - Python framework for writing high-performance simulation and graphics code.
+- [nvblox](https://github.com/nvidia-isaac/nvblox) - Signed Distance Functions (SDFs) on NVIDIA GPUs.

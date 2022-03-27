@@ -174,6 +174,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [react-event-hook](https://github.com/etienne-martin/react-event-hook) - Library for emitting and listening to events in a React application.
 - [React Tidy](https://github.com/webNeat/react-tidy) - Collection of atomic, independent, typed, tested and documented React custom hooks.
 - [use-interactions](https://github.com/kitten/use-interactions) - Reusable and common web interactions with WCAG accessibility criteria for React.
+- [y-presence](https://github.com/nimeshnayaju/y-presence) - Easy way to add presence (live cursors/avatars) to any react application using react hooks.
 
 ## Code
 

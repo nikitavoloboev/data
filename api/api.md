@@ -71,6 +71,7 @@
 - [Reddit Go 2](https://github.com/turnage/graw)
 - [Reddit Go 3](https://github.com/jzelinskie/geddit)
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
+- [Reddit OCaml](https://github.com/leviroth/ocaml-reddit-api)
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
 - [OpenSea Go](https://github.com/gsmachado/go-opensea)

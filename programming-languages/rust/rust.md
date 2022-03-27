@@ -738,3 +738,4 @@
 - [You can't spell trust without Rust Thesis](https://github.com/Gankra/thesis/blob/master/thesis.pdf)
 - [Using Rust to render things to canvas can often be slower than HTML](https://twitter.com/JanPaul123/status/1506327158012067846)
 - [High Assurance Rust: Developing Secure and Robust Software](https://highassurance.rs/) ([Code](https://github.com/tnballo/high-assurance-rust))
+- [Terse Rust learning material](https://github.com/oreqizer/rust-notes) - Notes I take during learning Rust from The Rust book and Rust by example.

@@ -96,6 +96,7 @@
 - [Obsidian Readwise](https://github.com/renehernandez/obsidian-readwise) - Synchronize Readwise highlights into your Obsidian Vault.
 - [Obsidian Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
 - [Banners](https://github.com/noatpad/obsidian-banners) - Obsidian plugin to add banner images (and icons) to your notes.
+- [Chat View Plugin](https://github.com/adifyr/obsidian-chat-view) - Quickly and easily create elegant Chat UIs in your Markdown Files.
 
 ## Themes
 

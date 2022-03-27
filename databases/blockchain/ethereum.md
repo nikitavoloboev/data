@@ -550,3 +550,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [foundry-upgrades](https://github.com/odyslam/foundry-upgrades) - Helper smart contracts to deploy and manage upgradeable contracts on Ethereum.
 - [mev-boost](https://github.com/flashbots/mev-boost) - Middleware server written in Go, that sits between an ethereum PoS consensus client and an execution client.
 - [Uniswap Smart Order Router](https://github.com/Uniswap/smart-order-router)
+- [ocaml-solidity](https://github.com/OCamlPro/ocaml-solidity) - Provides a Solidity parser and typechecker.
+- [Most efficient Counter (LFU Cache) in Solidity and Foundry](https://github.com/0xMisaka/Sol-MagicCounter)

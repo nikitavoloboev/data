@@ -41,3 +41,4 @@
 - [PlanckForth: Bootstrapping an Interpreter from Handwritten 1KB Binary](https://github.com/nineties/planckforth) ([Lobsters](https://lobste.rs/s/ti8tq3/bootstrapping_forth_interpreter_from))
 - [MovForth](https://github.com/Reschivon/movForth) - Compiler for the Forth language using LLVM.
 - [lbForth](https://github.com/larsbrinkhoff/lbForth) - Self-hosting metacompiled Forth, bootstrapping from a few lines of C.
+- [microCore](https://github.com/microCore-VHDL/microCore) - Hardware/software co-design environment based on Forth and VHDL.

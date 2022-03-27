@@ -438,3 +438,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How to properly interpret a traceroute or mtr (2022)](https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/)
 - [Arpchat](https://github.com/kognise/arpchat) - Text your friends on the same network using just ARP. ([HN](https://news.ycombinator.com/item?id=30762921))
 - [network-opt](https://github.com/google/network-opt) - Library for topological network optimization.
+- [netsim-tools](https://github.com/ipspace/netsim-tools) - Network simulation tools.

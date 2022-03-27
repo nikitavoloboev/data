@@ -34,3 +34,4 @@
 - [What's the Frequency, Kenneth? (F#) (2021)](https://danielbmarkham.com/whats-the-frequency-kenneth-f/)
 - [F# Good and Bad (2021)](https://danielbmarkham.com/f-good-and-bad/) ([HN](https://news.ycombinator.com/item?id=29571417))
 - [Fantomas](https://github.com/fsprojects/fantomas) - FSharp source code formatter.
+- [Elmish Book](https://zaid-ajaj.github.io/the-elmish-book/#/) - Practical guide to building modern and reliable web applications in F# from first principles. ([Code](https://github.com/Zaid-Ajaj/the-elmish-book))

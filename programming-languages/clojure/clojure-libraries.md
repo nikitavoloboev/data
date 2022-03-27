@@ -29,6 +29,7 @@
 - [zakon](https://github.com/fmnoise/zakon) - Declarative Clojure authorization.
 - [Hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure.
 - [Sablono](https://github.com/r0man/sablono) - Lisp/Hiccup style templating for Facebook’s React in ClojureScript.
+- [re-stated](https://github.com/mainej/re-stated) - Small and powerful toolset that brings state machines to re-frame.
 
 ## DB
 

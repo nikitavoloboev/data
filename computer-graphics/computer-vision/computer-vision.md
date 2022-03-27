@@ -637,3 +637,5 @@
 - [DiscoBox: Weakly Supervised Instance Segmentation and Semantic Correspondence from Box Supervision (2021)](https://arxiv.org/abs/2105.06464) ([Code](https://github.com/NVlabs/DiscoBox))
 - [GroupViT: Semantic Segmentation Emerges from Text Supervision (2022)](https://arxiv.org/abs/2202.11094) ([Code](https://github.com/NVlabs/GroupViT))
 - [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening (2022)](https://arxiv.org/abs/2203.02503) ([Code](https://github.com/wgcban/HyperTransformer))
+- [TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing (2022)](https://arxiv.org/abs/2203.10489) ([Code](https://github.com/JierunChen/TVConv))
+- [DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) - NVIDIA DeepStream SDK 6.0.1 configuration for YOLO models.

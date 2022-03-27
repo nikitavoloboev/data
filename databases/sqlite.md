@@ -169,3 +169,4 @@
 - [tuql](https://github.com/bradleyboy/tuql) - Automatically create a GraphQL server from a SQLite database or a SQL file.
 - [sqc](https://github.com/goto-bus-stop/sqc) - SQLite CLI with syntax highlighting and pretty tables by default.
 - [sqlitescanner](https://github.com/duckdblabs/sqlitescanner) - DuckDB extension to read SQLite databases. Allows directly running DuckDB queries on data stored in SQLite files. ([HN](https://news.ycombinator.com/item?id=30801575))
+- [SQLite Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/sqlite_fdw)

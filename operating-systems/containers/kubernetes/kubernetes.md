@@ -670,3 +670,5 @@
 - [Canary Deployment with Kubernetes and Istio (2022)](https://www.fpcomplete.com/blog/canary-deployment-istio/)
 - [Thundernetes](https://github.com/PlayFab/thundernetes) - Makes it easy to run your game servers on Kubernetes.
 - [Continuous profiling by Pyroscope (2022)](https://itnext.io/continuous-profiling-enabled-by-pyroscope-in-vald-c0ab3341de2e)
+- [jsPolicy](https://github.com/loft-sh/jspolicy) - Easier & Faster Kubernetes Policies using JavaScript or TypeScript.
+- [Furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron and adhoc job platform for Kubernetes.
