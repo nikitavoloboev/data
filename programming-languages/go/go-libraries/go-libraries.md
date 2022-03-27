@@ -297,6 +297,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ratelimit](https://github.com/uber-go/ratelimit) - Go blocking leaky-bucket rate limit implementation.
 - [go-http-metrics](https://github.com/slok/go-http-metrics) - Measure HTTP metrics in different metric formats and Go HTTP framework/libs.
 - [go-ipam](https://github.com/metal-stack/go-ipam) - Module to handle IP address management. It can operate on networks, prefixes and IPs.
+- [Extemplate](https://github.com/dannyvankooten/extemplate) - Wrapper package for Go's template/html to allow for easy file-based template inheritance.
 
 ## GraphQL
 
