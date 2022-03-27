@@ -323,3 +323,4 @@
 - [C and C++ coding style for best performance](https://www.ibm.com/docs/en/aix/7.1?topic=implementation-c-c-coding-style-best-performance)
 - [Avoiding game crashes related to linked lists (2012)](https://www.codeofhonor.com/blog/avoiding-game-crashes-related-to-linked-lists)
 - [Vale's Higher RAII, the pattern that saved me a vital 5 hours in the 7DRL Challenge (2022)](https://verdagon.dev/blog/higher-raii-7drl) ([Lobsters](https://lobste.rs/s/3evayg/vale_s_higher_raii_pattern_saved_me_vital_5))
+- [Dockerized build environments for C/C++ projects (2022)](https://www.youtube.com/watch?v=B0DptqheF5I)

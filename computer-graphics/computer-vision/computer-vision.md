@@ -636,3 +636,4 @@
 - [Robust fine-tuning of zero-shot models (2022)](https://arxiv.org/abs/2109.01903) ([Code](https://github.com/mlfoundations/wise-ft))
 - [DiscoBox: Weakly Supervised Instance Segmentation and Semantic Correspondence from Box Supervision (2021)](https://arxiv.org/abs/2105.06464) ([Code](https://github.com/NVlabs/DiscoBox))
 - [GroupViT: Semantic Segmentation Emerges from Text Supervision (2022)](https://arxiv.org/abs/2202.11094) ([Code](https://github.com/NVlabs/GroupViT))
+- [HyperTransformer: A Textural and Spectral Feature Fusion Transformer for Pansharpening (2022)](https://arxiv.org/abs/2203.02503) ([Code](https://github.com/wgcban/HyperTransformer))

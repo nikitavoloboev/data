@@ -370,3 +370,4 @@ Awesome List
 - [Activity filter for GitHub](https://github.com/muan/github-dashboard) - Web extension for filtering the activity feed on github.com dashboard.
 - [gitnavi](https://www.gitnavi.dev/) - Search for GitHub issues and repositories with flexible query and beautiful UI. ([Code](https://github.com/opeco17/gitnavi))
 - [prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag.
+- [Automate merging release branches into your main branch with GitHub Actions (2022)](https://www.jessesquires.com/blog/2022/03/26/gh-action-merge-release-to-main/)
