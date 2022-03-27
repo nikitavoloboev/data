@@ -46,6 +46,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Taking care of the people who work with you is an _investment_. It doesn't show up on the balance sheet immediately, but creates resilience that is necessary when the inevitable challenge hits.](https://twitter.com/aboodman/status/1453821646620409860)
 - [Curiosity, thoroughness, humility and empathy.](https://twitter.com/fasterthanlime/status/1464544526673063936)
 - [Have a culture where reducing technical debt is celebrated as much as launching new products.](https://twitter.com/rakyll/status/1465439634700177408)
+- [The best values are choices, and emphasize the tradeoff you’re willing to make. If someone else couldn’t reasonably adopt the opposite value (“stability over speed”) the value isn’t distinguishing - it’s a baseline expectation.](https://twitter.com/parkerconrad/status/1507824245815975936)
 
 ## Links
 

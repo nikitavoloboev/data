@@ -73,6 +73,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [shell](https://github.com/keegancsmith/shell) - Generate Shell Commands in Go, sprintf Style.
 - [termbar](https://github.com/mergestat/termbar) - Generate terminal charts in Go.
 - [go-shell](https://github.com/progrium/go-shell) - Library to write "shelling out" Go code more shell-like, while remaining idiomatic to Go.
+- [Qalam](https://github.com/iskaa02/qalam) - Go library for easy terminal styling.
 
 ## Test
 

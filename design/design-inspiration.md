@@ -14,6 +14,7 @@ Here are few more things I liked, design wise.
 - [BrandBird Studio](https://www.brandbird.app/)
 - [PlanetScale](https://planetscale.com/)
 - [Remix](https://remix.run/)
+- [Leave Me Alone](https://leavemealone.app/)
 - [Replit](https://replit.com/)
 - [Pipe](https://www.pipe.com/)
 - [Stripe](https://stripe.com/)

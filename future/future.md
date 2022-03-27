@@ -99,3 +99,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [What are the generation-defining stats of today? (2022)](https://twitter.com/stephsmithio/status/1500986096745779200)
 - [Principles for Dealing with the Changing World Order by Ray Dalio (2022)](https://www.youtube.com/watch?v=xguam0TKMw8)
 - [The Future is Vast: Longtermism’s perspective on humanity’s past, present, and future (2022)](https://ourworldindata.org/longtermism)
+- [What does the world look like in a decade if you're wildly successful in your mission?](https://twitter.com/packyM/status/1506990727548575746)

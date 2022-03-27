@@ -1,5 +1,7 @@
 # Funding
 
+[Party Round](https://partyround.com/) is nice.
+
 ## [VC](venture-capital.md)
 
 ## Accelerators

@@ -317,6 +317,7 @@
 - [Poloto](https://github.com/tiby312/poloto) - 2D plotting library that outputs graphs to SVG that can be styled using CSS.
 - [vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
 - [Graphics](https://github.com/PistonDevelopers/graphics) - Library for 2D graphics, written in Rust, that works with multiple back-ends.
+- [Planetarium](https://github.com/ravenexp/planetarium) - Sub-pixel precision light spot rendering library for astronomy and video tracking applications.
 
 ## Games
 

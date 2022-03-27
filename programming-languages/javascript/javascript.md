@@ -417,3 +417,4 @@ if (
 - [Moon](https://github.com/milesj/moon) - Rust program for managing JavaScript based monorepo's.
 - [Temporal API](https://github.com/tc39/proposal-temporal) - Standard objects and functions for working with dates and times.
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/) ([Code](https://github.com/TimothyGu/es-howto))
+- [Broken Promises - James Snell, NearForm (2019)](https://www.youtube.com/watch?v=XV-u_Ow47s0) ([Tweet](https://twitter.com/matteocollina/status/1507402939022860291))

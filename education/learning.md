@@ -19,6 +19,7 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [I think this is the real externality of having everything be algo-ranked for maximum engagement. I don't think many people are being polarized/radicalized politically. But we end up getting compacted into a more rigid version of ourselves in a thousand mundane ways. A partial cure has been to get myself back into reading books -- hard books. It is the only medium that can afford you a sufficient sense of occupying someone else's mind for a while when you're sick of yours. But somehow my attention span is shattered.](https://twitter.com/DanGrover/status/1443419300023263233)
 - [Every act of conscious learning requires the willingness to suffer an injury to one’s self esteem.](https://twitter.com/mollyfmielke/status/1452658271190278144)
 - [More “senior” engineers should do live coding or infra building exercises. You can read all about the basics in a book or online, but seeing a seasoned person tackle problems and handle exceptions in real time is the real gem.](https://twitter.com/bryanl/status/1455568889107128327)
+- [I'm intensely skeptical of the idea that adulthood neuroplasticity dropoff is anywhere near as bad or preprogrammed as people think, you can stay plenty adaptable even without drugs by just, not letting yourself stop learning](https://twitter.com/alicemazzy/status/1507887402215432197)- [](https://twitter.com/alicemazzy/status/1507887402215432197)
 
 ## Links
 

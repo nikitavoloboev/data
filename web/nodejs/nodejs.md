@@ -1,6 +1,6 @@
 # [Node.js](https://nodejs.org/en/)
 
-[Tao of Node](https://alexkondov.com/tao-of-node/) is useful.
+[Tao of Node](https://alexkondov.com/tao-of-node/) is useful. [Broken Promises](https://www.youtube.com/watch?v=XV-u_Ow47s0) is a great talk on JS promises.
 
 ## Notes
 

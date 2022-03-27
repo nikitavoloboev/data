@@ -225,3 +225,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Meilindex](https://github.com/tryffel/meilindex) - Fast full text search for email.
 - [MJML](https://github.com/mjmlio/mjml) - Framework that makes responsive-email easy. ([Web](https://mjml.io/))
 - [Groups.io](https://groups.io/) - Email Groups, Supercharged.
+- [Inbox Shield](https://leavemealone.app/shield/) - Easily screen which emails land in your inbox and stay focused on what matters.

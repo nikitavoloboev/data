@@ -134,3 +134,4 @@
 - [ambiorix](https://github.com/devOpifex/ambiorix) - Web framework for R.
 - [broom](https://github.com/tidymodels/broom) - Convert statistical analysis objects from R into tidy format.
 - [Frustration: One Year With R](https://github.com/ReeceGoding/Frustration-One-Year-With-R) - Extremely long review of R. ([HN](https://news.ycombinator.com/item?id=30764505))
+- [Learning R for visualizing humanities data](https://jilltxt.net/?p=5111)
