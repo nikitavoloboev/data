@@ -1,6 +1,6 @@
 # United States
 
-Hope USA stops [repressing journalists lives](https://twitter.com/wikileaks/status/1475164511766294529).
+Hope USA stops [repressing journalists](https://twitter.com/wikileaks/status/1475164511766294529).
 
 ## Notes
 

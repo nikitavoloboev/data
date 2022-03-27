@@ -132,6 +132,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
+- [nvim-compleet](https://github.com/noib3/nvim-compleet) - Neovim autocompletion framework written in Rust.
 - [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 - [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
 - [Ultisnips](https://github.com/SirVer/ultisnips) - Ultimate snippet solution for Vim.

@@ -408,6 +408,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dom-chef](https://github.com/vadimdemedes/dom-chef) - Build DOM elements using JSX automatically.
 - [Javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit.
 - [Got Scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
+- [Adze](https://github.com/AJStacy/adze) - Library for shaping your JavaScript logs.
 
 ## Links
 
