@@ -360,3 +360,4 @@
 - [executorch](https://github.com/raziel/executorch) - Simple and portable executor of PyTorch programs.
 - [Image 2 Vec with PyTorch](https://github.com/christiansafka/img2vec)
 - [Tez](https://github.com/abhishekkrthakur/tez) - Super-simple and lightweight Trainer for PyTorch.
+- [TorchMultimodal](https://github.com/facebookresearch/multimodal) - PyTorch library for training state-of-the-art multimodal multi-task models at scale.

@@ -44,3 +44,4 @@
 - [Axon RPC](https://github.com/Just4Ease/axonrpc) - RPC over event streams. Can execute RPC calls like gRPC but this time, over event streams.
 - [SRPC](https://github.com/znx3p0/srpc) - Simple RPC system based on top of Canary.
 - [A Critique of the Remote Procedure Call Paradigm - 30 years later](https://blog.carlosgaldino.com/a-critique-of-the-remote-procedure-call-paradigm-30-years-later.html)
+- [tRPC Playground](https://github.com/sachinraja/trpc-playground) - Playground for running tRPC queries in the browser.

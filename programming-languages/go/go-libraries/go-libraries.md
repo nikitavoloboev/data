@@ -546,6 +546,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [errors](https://github.com/cockroachdb/errors) - Go errors with network portability.
 - [Errors](https://github.com/emperror/errors) - Drop-in replacement for the standard library errors package and github.com/pkg/errors.
 - [semgroup](https://github.com/fatih/semgroup) - Provides synchronization and error propagation, for groups of goroutines working on subtasks of a common task.
+- [errors](https://github.com/alecthomas/errors) - Simple error wrapping package that automatically adds source locations to errors.
 
 ## Other
 
