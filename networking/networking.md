@@ -439,3 +439,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Arpchat](https://github.com/kognise/arpchat) - Text your friends on the same network using just ARP. ([HN](https://news.ycombinator.com/item?id=30762921))
 - [network-opt](https://github.com/google/network-opt) - Library for topological network optimization.
 - [netsim-tools](https://github.com/ipspace/netsim-tools) - Network simulation tools.
+- [Easy to Use Cloudflare Tunnels (2022)](https://blog.cloudflare.com/ridiculously-easy-to-use-tunnels/) ([HN](https://news.ycombinator.com/item?id=30802430)) ([Reddit](https://www.reddit.com/r/selfhosted/comments/tp0nqg/cloudflare_has_added_a_web_gui_for_controlling/))

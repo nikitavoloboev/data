@@ -107,3 +107,4 @@
 - [NattLua](https://github.com/CapsAdmin/NattLua) - Superset of LuaJIT that adds a structural typesystem.
 - [Luar](https://github.com/stevedonovan/luar) - Lua reflection bindings for Go.
 - [RapidJSON bindings for Lua](https://github.com/xpol/lua-rapidjson)
+- [GoLua](https://github.com/arnodel/golua) - Lua compiler / runtime in Go.

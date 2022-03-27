@@ -108,3 +108,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Scout](https://github.com/jhbabon/scout) - Friendly fuzzy finder made in rust.
 - [fzf](https://github.com/junegunn/fzf) - Fommand-line fuzzy finder. ([HN](https://news.ycombinator.com/item?id=30736518))
 - [Making the command line glamorous with Toby Padilla (2022)](https://changelog.com/gotime/222)
+- [septum](https://github.com/pyjarrett/septum) - Context-based code search tool.

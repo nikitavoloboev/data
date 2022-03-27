@@ -1,5 +1,7 @@
 # [Node.js](https://nodejs.org/en/)
 
+[Tao of Node](https://alexkondov.com/tao-of-node/) is useful.
+
 ## Notes
 
 - [I use package.json scripts as entrypoints to custom JS scripts. Make is a build tool, not a meta-shellscript format.](https://news.ycombinator.com/item?id=26978206)
@@ -341,3 +343,4 @@
 - [tiny glob](https://github.com/terkelg/tiny-glob) - Tiny and extremely fast library to match files and folders using glob patterns.
 - [proxy-chain](https://github.com/apify/proxy-chain) - Programmable HTTP proxy server for Node.js.
 - [Node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js.
+- [Tao of Node - Design, Architecture & Best Practices (2022)](https://alexkondov.com/tao-of-node/)

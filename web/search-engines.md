@@ -213,3 +213,4 @@
 - [A look at search engines with their own indexes (2021)](https://seirdy.one/2021/03/10/search-engines-with-own-indexes.html)
 - [If Google sucks then why is everyone still using it?](https://abhinavsharma.com/blog/google-alternatives) ([HN](https://news.ycombinator.com/item?id=30725933))
 - [Teclis](http://teclis.com/) - Non-commercial Web Search. ([HN](https://news.ycombinator.com/item?id=30783037))
+- [Ask HN: How do you search large code-base before adding a feature or fixing bug? (2022)](https://news.ycombinator.com/item?id=30819579)
