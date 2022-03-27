@@ -447,3 +447,4 @@ for i, _ in enumerate(nums):
 - [dhall-python](https://github.com/s-zeng/dhall-python) - Dhall bindings for Python using the rust implementation.
 - [Running Python in WebAssembly (2022)](https://www.fermyon.com/blog/python-wagi)
 - [Pyground](https://github.com/mcintyre94/pyground) - Playground for running Python using WASM on data in the browser.
+- [Interview with a Postdoc, Junior Python Developer in 2022](https://www.youtube.com/watch?v=YnL9vAFphmE)

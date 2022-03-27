@@ -13,3 +13,5 @@
 - [VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset)
 - [Cleo Dronut](https://cleorobotics.com/product/) - First UAV designed specifically for GPS-denied environments. ([HN](https://news.ycombinator.com/item?id=29341005))
 - [Adventures in Drone Photogrammetry Using Rust and Machine Learning (2021)](http://cmoran.xyz/writing/adventures_in_photogrammetry)
+- [MAVLink Developer Guide](https://mavlink.io/en/) - Lightweight messaging protocol for communicating with drones (and between onboard drone components).
+- [MAVSDK SDK](https://github.com/mavlink/MAVSDK) - API and library for MAVLink compatible systems written in C++17.

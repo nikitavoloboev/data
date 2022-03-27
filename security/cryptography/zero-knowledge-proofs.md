@@ -68,3 +68,4 @@
 - [Introduction to Zero Knowledge Proofs](https://github.com/enricobottazzi/ZKverse)
 - [Curve ecGFp5](https://github.com/pornin/ecgfp5) - Elliptic curve defined over a field.
 - [RISC Zero](https://github.com/risc0/risc0) - Zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
+- [Awesome Zero Knowledge](https://github.com/ventali/awesome-zk)

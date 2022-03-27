@@ -91,3 +91,4 @@
 - [Dartea](https://github.com/p69/dartea) - Elm Architecture (TEA) for Flutter.
 - [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for Flutter apps.
 - [Coding an Instagram Clone With Flutter and Feeds (2022)](https://getstream.io/blog/instagram-clone-flutter/)
+- [Monarch](https://monarchapp.io/) - Tool for building Flutter widgets in isolation. ([Code](https://github.com/Dropsource/monarch))

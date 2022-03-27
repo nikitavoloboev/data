@@ -154,7 +154,7 @@
 
 ## GUI
 
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri)) ([Docs Code](https://github.com/tauri-apps/tauri-docs))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
@@ -1625,6 +1625,8 @@
 - [gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX).
 - [art-rs](https://github.com/Lagrang/art-rs) - Adaptive Radix Tree.
 - [Zestors](https://github.com/Zestors/zestors) - Simple, fast and flexible actor framework for building robust distributed applications, heavily inspired by Erlang.
+- [id-arena](https://github.com/fitzgen/id-arena) - Simple, id-based arena.
+- [Textwrap](https://github.com/mgeisler/textwrap) - Library for wrapping and indenting text.
 
 ## Cargo Plugins
 

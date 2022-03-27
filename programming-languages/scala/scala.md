@@ -149,3 +149,4 @@
 - [WartRemover](https://github.com/wartremover/wartremover) - Flexible Scala code linting tool. ([Docs](https://www.wartremover.org/))
 - [Scala Rules for Bazel](https://github.com/bazelbuild/rules_scala)
 - [Scala Type Classes From Scratch (2021)](https://alexklibisz.com/2021/06/18/scala-typeclasses-from-scratch.html)
+- [tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala) - Scala grammar for tree-sitter.

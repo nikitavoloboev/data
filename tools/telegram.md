@@ -103,6 +103,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Xor](https://github.com/xorgram/xor) - User bot. Redefined.
 - [TgTranslator](https://t.me/tgtranslatorbot) - Telegram bot that removes language barrier between people in groups. ([Code](https://github.com/Dubzer/TgTranslator))
 - [Link Preview Bot](https://t.me/linkpreviewbot) - Generates link previews for all links in messages. ([Code](https://github.com/KnorpelSenf/link-preview-bot))
+- [Telegram Bot Microservice](https://github.com/raisultan/tg-bot-service) - Basis for extendable, high-performance Telegram Bot microservice.
 
 ## Notes
 

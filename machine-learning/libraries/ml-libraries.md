@@ -233,7 +233,7 @@
 - [RecList](https://github.com/jacopotagliabue/reclist) - Behavioral "black-box" testing for recommender systems.
 - [dcbench](https://github.com/data-centric-ai/dcbench) - Benchmark of data-centric tasks from across the machine learning lifecycle.
 - [Cockpit](https://github.com/f-dangel/cockpit) - Visual and statistical debugger specifically designed for deep learning.
-- [CatBoost](https://github.com/catboost/catboost) - Machine learning method based on gradient boosting over decision trees. ([Web](https://catboost.ai/))
+- [CatBoost](https://github.com/catboost/catboost) - Machine learning method based on gradient boosting over decision trees. ([Web](https://catboost.ai/)) ([Tutorials](https://github.com/catboost/tutorials))
 - [Xplique](https://github.com/deel-ai/xplique) - Neural Networks Explainability Toolbox.
 - [Causal ML](https://github.com/uber/causalml) - Python Package for Uplift Modeling and Causal Inference with ML.
 - [sklearn-onnx](https://github.com/onnx/sklearn-onnx) - Convert scikit-learn models and pipelines to ONNX.
