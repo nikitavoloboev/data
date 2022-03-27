@@ -126,6 +126,7 @@
 - [ptyprocess](https://github.com/pexpect/ptyprocess) - Launch a subprocess in a pseudo terminal (pty), and interact with both the process and its pty.
 - [Pexpect](https://github.com/pexpect/pexpect) - Python module for controlling interactive programs in a pseudo-terminal.
 - [PyTermGUI](https://github.com/bczsalba/pytermgui) - Simple yet powerful TUI framework for your Python (3.7+) applications.
+- [Colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python.
 
 ## DB
 

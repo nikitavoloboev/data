@@ -642,3 +642,4 @@
 - [An Empirical Investigation of 3D Anomaly Detection and Segmentation (2022)](https://arxiv.org/abs/2203.05550) ([Code](https://github.com/eliahuhorwitz/3D-ADS))
 - [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation (2021)](https://arxiv.org/abs/2111.04017) ([Code](https://github.com/syguan96/DynaBOA))
 - [Layered Neural Atlases for Consistent Video Editing (2021)](https://arxiv.org/abs/2109.11418) ([Code](https://github.com/ykasten/layered-neural-atlases))
+- [TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution (2020)](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)

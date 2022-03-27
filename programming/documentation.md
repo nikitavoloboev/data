@@ -160,3 +160,4 @@
 - [VuePress theme - Gitbook inspired](https://github.com/cyrilf/vuepress-theme-book)
 - [nbdoc: Authoring With Notebooks](https://outerbounds.github.io/nbdoc-docusaurus/) ([Code](https://github.com/outerbounds/nbdoc-docusaurus)) ([Tweet](https://twitter.com/HamelHusain/status/1507383929774305282))
 - [doc-builder](https://github.com/huggingface/doc-builder) - Package used to build the documentation of our Hugging Face repos.
+- [Vale](https://github.com/marc2332/vale) - Static documentation generator, designed for speed, simplicity and readability.
