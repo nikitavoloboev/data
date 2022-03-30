@@ -340,3 +340,4 @@
 - [Building a Marketing Platform with Next.js, Cloudflare, & Contentful (2022)](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)
 - [Building an Image Gallery with Next.js, Supabase, and Tailwind CSS](https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs) ([Tweet](https://twitter.com/leeerob/status/1508448572903198724))
 - [Vercel Style Guide](https://github.com/vercel/style-guide) - Home of Vercel's style guide, which includes configs for popular linting and styling tools.
+- [How DoorDash improved Web Page Performance and scaled with Next.JS (2022)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
