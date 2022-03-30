@@ -1,6 +1,6 @@
 # Swift libraries
 
-[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework.
+[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study.
 
 ## CLI
 
@@ -239,6 +239,10 @@
 - [Tempura](https://github.com/BendingSpoons/tempura-swift) - Holistic approach to iOS development, inspired by Redux and MVVM.
 - [SPQRCode](https://github.com/sparrowcode/SPQRCode) - Native QR code scanner of iOS. Repeated system scanner from the camera app.
 - [ColorPicker](https://github.com/henzai-apps/ColorPicker) - UI component for pick a color.
+- [UINotifications](https://github.com/WeTransfer/UINotifications) - Present custom in-app notifications easily in Swift.
+- [ExpandableCell](https://github.com/younatics/ExpandableCell) - Awesome expandable, collapsible tableview cell for iOS written in Swift 5.
+- [SPPageController](https://github.com/ivanvorobei/SPPageController) - Mimicrate to UIPageViewController. Has native system and scroll view paging. Support scroll to page and layout margins from container.
+- [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.
 
 ## macOS
 
@@ -258,6 +262,7 @@
 - [Programmatic NSWindow Tabbing](https://github.com/DivineDominion/NSWindow-Tabbing)
 - [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) - Swift framework that aims to make Core Audio use less tedious in macOS.
 - [STTextView](https://github.com/krzyzanowskim/STTextView) - TextKit2 text view without NSTextView baggage.
+- [NSToolbar](https://github.com/marioaguzman/toolbar) - Programmatically constructing an NSToolbar (AppKit) for macOS.
 
 ## Web
 
@@ -298,6 +303,7 @@
 - [Microya](https://github.com/Flinesoft/Microya) - Micro version of the Moya network abstraction layer written in Swift.
 - [swift-html](https://github.com/pointfreeco/swift-html) - Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [DocumentID](https://github.com/1amageek/DocumentID) - FirebaseFirestoreSwift's library for lightweight use of DocumentIDs in SwiftUI.
+- [Albatross](https://github.com/kevinzhow/albatross) - Swift webhook handler which designed to translate and forward Github Webhook to Other Webhook.
 
 ## SwiftUI
 
@@ -1031,6 +1037,7 @@
 - [SwiftMixin](https://github.com/stackotter/swift-mixin) - Provides all of the functionality required to overwrite functions and methods at runtime.
 - [Swift Async Algorithms](https://github.com/apple/swift-async-algorithms) ([Intro](https://www.swift.org/blog/swift-async-algorithms/))
 - [Bagbutik](https://github.com/MortenGregersen/Bagbutik) - Generated Swift code for the App Store Connect API based on the official OpenAPI spec.
+- [Expression](https://github.com/nicklockwood/Expression) - Cross-platform Swift library for evaluating mathematical expressions at runtime.
 
 ## Other (not lib)
 

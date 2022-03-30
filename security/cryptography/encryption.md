@@ -76,3 +76,5 @@
 - [Yopass](https://yopass.se/) - Secure sharing of secrets, passwords and files. ([Code](https://github.com/jhaals/yopass))
 - [The Noise Protocol Framework](https://noiseprotocol.org/noise.html) - Framework for crypto protocols based on Diffie-Hellman key agreement.
 - [TFHE](https://github.com/tfhe/tfhe) - Fast Fully Homomorphic Encryption Library over the Torus.
+- [blst](https://github.com/supranational/blst) - BLS12-381 signature library focused on performance and security. It is written in C and assembly.
+- [blst Verification](https://github.com/GaloisInc/BLST-Verification) - Specifications and correctness proofs for the blst BLS12-381 signature library.

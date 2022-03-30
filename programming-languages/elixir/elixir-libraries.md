@@ -150,6 +150,8 @@
 - [MJML](https://github.com/adoptoposs/mjml_nif) - Elixir NIF bindings for the MJML Rust implementation.
 - [gRPC Elixir](https://github.com/elixir-grpc/grpc) - Elixir implementation of gRPC.
 - [Focus](https://github.com/smpoulsen/focus) - Lightweight, pure Elixir functional optics.
+- [Envy](https://github.com/BlakeWilliams/envy) - Elixir library to load environment variables from .env and environment specific env files.
+- [ExWaiter](https://github.com/baldwindavid/ex_waiter) - Helper for waiting on asynchronous conditions to be met.
 
 ## Links
 

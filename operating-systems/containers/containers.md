@@ -59,7 +59,7 @@
 - [floki](https://github.com/Metaswitch/floki) - Launch containers to help build your software. ([Easy, reproducible, and shareable development environments](https://pure-hack.com/posts/floki/))
 - [Implementing fast lightweight containers in Go with bst and btrfs (2020)](https://snai.pe/posts/lightweight-containers-part-1)
 - [gVisor](https://github.com/google/gvisor) - Application kernel for containers that provides efficient defense-in-depth anywhere. ([Web](https://gvisor.dev/))
-- [Bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool.
+- [Bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool for Linux. ([HN](https://news.ycombinator.com/item?id=30823164))
 - [Singularity](https://github.com/hpcng/singularity) - Open source container platform designed to be simple, fast, and secure. ([Web](https://sylabs.io/singularity/))
 - [ContainerSSH](https://containerssh.github.io/) - SSH server that launches containers on demand. ([Code](https://github.com/ContainerSSH/containerssh.github.io))
 - [crun](https://github.com/containers/crun) - Fast and low-memory footprint OCI Container Runtime fully written in C.
@@ -201,3 +201,4 @@
 - [containers/common](https://github.com/containers/common)
 - [qemu-user-static](https://github.com/multiarch/qemu-user-static) - Enable an execution of different multi-architecture containers by QEMU and binfmt_misc.
 - [Symphony](https://github.com/marhkb/symphony) - Podman desktop application.
+- [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications in Docker or podman containers.

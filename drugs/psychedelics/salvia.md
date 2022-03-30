@@ -15,3 +15,5 @@ Salvia is the only drug I tried thus far that gave me a true [ego death experien
 - [Salvia compared to DMT? (2019)](https://www.reddit.com/r/Salvia/comments/c6osrj/salvia_compared_to_dmt/)
 - [Salvia, the secret you’re not supposed to see? (2020)](https://www.reddit.com/r/Salvia/comments/ekw0av/salvia_the_secret_youre_not_supposed_to_see/?sort=top)
 - [How Psychedelic Salvinorin A Works on the Brain (2021)](https://www.labroots.com/trending/drug-discovery-and-development/19540/psychedelic-salvinorin-brain)
+- [Experimenting with synthetic, highly potent and highly selective K-Opioid agonists](https://www.reddit.com/r/researchchemicals/comments/tqgf3f/experimenting_with_synthetic_highly_potent_and/)
+- [Dysdelics Reddit](https://www.reddit.com/r/dysdelics/)

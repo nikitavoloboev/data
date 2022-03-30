@@ -143,3 +143,5 @@
 - [Benchmarking the Apple M1 Max (2021)](https://tlkh.dev/benchmarking-the-apple-m1-max)
 - [Apple M1 Ultra (2022)](https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/) ([HN](https://news.ycombinator.com/item?id=30604470))
 - [Introduction to Apple Silicon](https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon) ([Lobsters](https://lobste.rs/s/gy2tsn/introduction_apple_silicon))
+- [pycachesim](https://github.com/RRZE-HPC/pycachesim) - Python Cache Hierarchy Simulator. Accurately simulate the caching (allocation/hit/miss/replace/evict) behavior of all cache levels found in modern processors.
+- [Intel Virtualization and Apple Silicon (2022)](https://www.highcaffeinecontent.com/blog/20220325-Intel-Virtualization-and-Apple-Silicon) ([HN](https://news.ycombinator.com/item?id=30812855))

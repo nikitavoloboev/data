@@ -135,6 +135,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Licenses](https://github.com/LinkAndreas/Licenses) - Native macOS App built using Swift UI and Combine.
 - [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Free, open-source code editor for macOS. ([HN](https://news.ycombinator.com/item?id=30747211))
+- [Nimble](https://github.com/scade-platform/Nimble) - Lightweight native macOS editor based on everything we love about our favorite editors and IDEs.
 
 ## Other interesting apps
 

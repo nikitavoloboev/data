@@ -297,6 +297,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What book changed your life? (2022)](https://news.ycombinator.com/item?id=30734709)
 - [50 Best Sci-Fi Books of All Time (2022)](https://www.esquire.com/entertainment/books/g39358054/best-sci-fi-books/)
 - [Suggest a book to someone who has lost all hope in the world (2022)](https://www.reddit.com/r/suggestmeabook/comments/tmkooe/suggest_a_book_to_someone_who_has_lost_all_hope/)
+- [Ask HN: Which book can attract anyone towards your field of study? (2022)](https://news.ycombinator.com/item?id=30822339)
+- [Best books on Science Fiction and Philosophy recommended by Eric Schwitzgebel](https://fivebooks.com/best-books/science-fiction-and-philosophy-eric-schwitzgebel/)
 
 ## Interesting Prose Books
 

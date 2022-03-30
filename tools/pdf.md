@@ -49,3 +49,4 @@
 - [PSPDFKit API](https://pspdfkit.com/api/) - Generate, convert, and modify PDF documents. ([HN](https://news.ycombinator.com/item?id=30709524))
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) - React library that provides annotation experience for PDF documents on web.
 - [WASM-PDF](https://github.com/jussiniinikoski/wasm-pdf) - Generate PDF files with JavaScript and WASM.
+- [PDFIO](https://github.com/sambitdash/PDFIO.jl) - PDF Reader Library for Native Julia.

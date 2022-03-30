@@ -121,3 +121,4 @@
 - [node-resque](https://github.com/actionhero/node-resque) - Node.js Background jobs backed by redis.
 - [Render Redis](https://render.com/blog/redis) ([HN](https://news.ycombinator.com/item?id=30779909))
 - [Launch a Redis server on Fly](https://github.com/fly-apps/redis)
+- [Redis GUI](https://github.com/ekvedaras/redis-gui) - Graphical UI for managing Redis databases.

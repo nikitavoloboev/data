@@ -1,6 +1,6 @@
 # [Cloudflare workers](https://workers.cloudflare.com/)
 
-Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105).
+Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [wrangler](https://github.com/cloudflare/wrangler2) is useful CLI.
 
 ## OSS tools build with CW
 

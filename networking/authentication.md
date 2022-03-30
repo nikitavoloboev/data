@@ -215,3 +215,4 @@
 - [UCAN Distributed Auth](https://ucan.xyz/) ([Spec Code](https://github.com/ucan-wg/spec))
 - [BoxyHQ](https://boxyhq.com/) - Open-source alternative to Auth0/WorkOS. ([HN](https://news.ycombinator.com/item?id=30767084))
 - [Authlib](https://github.com/lepture/authlib) - Ultimate Python library in building OAuth and OpenID Connect servers. ([Web](https://authlib.org/))
+- [Simplest possible OAuth authentication with Auth0 (2022)](https://til.simonwillison.net/auth0/oauth-with-auth0)

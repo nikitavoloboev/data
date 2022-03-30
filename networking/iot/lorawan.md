@@ -1,5 +1,7 @@
 # [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/)
 
+[The Things Network](https://www.thethingsnetwork.org/) is nice project together with their [Things Stack server](https://github.com/TheThingsNetwork/lorawan-stack).
+
 ## Notes
 
 - [LoraWAN uses Lora radios (all made or licensed by Semtech,) which only implement the physical layer. LoraWAN is a MAC + network software layer. It's similar to 802.15.4 and Zigbee. Thus, if the hardware integrates Lora devices (such as the SX1276), then it can be used to implement LoraWAN or custom protocols using Lora.](https://www.reddit.com/r/raspberry_pi/comments/9mfrym/iot_lora_boards_launch_with_raspberry_pi_microbit/)
@@ -91,3 +93,4 @@
 - [LoRaWAN on Apache NuttX OS](https://lupyuen.github.io/articles/lorawan3)
 - [Casually Chirping Into The World Of LoRaWAN (2022)](https://hackaday.com/2022/01/21/casually-chirping-into-the-world-of-lorawan/)
 - [Ebook: Guide to LoRaWAN](https://www.nexpcb.com/lorawan-guide)
+- [Private, Secure and Uncensorable Messaging Over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/) ([Reddit](https://www.reddit.com/r/darknetplan/comments/tq8v6d/private_secure_and_uncensorable_messaging_over_a/))

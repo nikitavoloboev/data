@@ -40,3 +40,4 @@
 - [Cleanvoice](https://cleanvoice.ai/) - Automated Podcast Editing. ([HN](https://news.ycombinator.com/item?id=29288618))
 - [Easiest way to record a podcast (with video for YouTube + separate, high-quality audio tracks)](https://twitter.com/mxstbr/status/1463124899044773894)
 - [My DIY Free Podcast Hosting Setup (2021)](https://www.charlieharrington.com/my-diy-free-podcast-hosting-setup)
+- [Podcasting Resources](https://github.com/filmgirl/podcasting-resources)

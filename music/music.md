@@ -196,3 +196,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Canon, Collectibles, and Copies: A Music NFT Experiment (2022)](https://chaim.mirror.xyz/0SRGluR6sYweDWV0qmgF6V1wsN0BvEKsvCVOZCFX7yU)
 - [Music-Engines](https://github.com/EhsanFox/music-engines) - Package to fetch a music/artist/album or even playlist from the platform you choose.
 - [Ask HN: Why are some soundtracks of movies so powerful? (2022)](https://news.ycombinator.com/item?id=30773294)
+- [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client. ([Code](https://github.com/spicetify/spicetify-cli))
+- [Pianos.pub](https://pianos.pub/) - Website to find public pianos. ([HN](https://news.ycombinator.com/item?id=30811648)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/tqahd2/i_travel_a_lot_and_seek_out_public_pianos_to_play/))

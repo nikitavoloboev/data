@@ -115,3 +115,4 @@
 - [How to move from Dictatorship to Democracy (2013)](http://www.aeinstein.org/wp-content/uploads/2013/09/FDTD.pdf)
 - [Notes on Nationalism (1945)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/) ([HN](https://news.ycombinator.com/item?id=30575455))
 - [The Network State: How To Start a New Country , Srinivasan, Balaji (2022)](https://www.amazon.com/dp/B09VPKZR3G) ([Tweet](https://twitter.com/balajis/status/1504852745609637893))
+- [The user experience problems of quadratic voting (2022)](https://timdaub.github.io/2022/03/27/the-user-experience-problems-of-quadratic-voting/) ([HN](https://news.ycombinator.com/item?id=30822489))

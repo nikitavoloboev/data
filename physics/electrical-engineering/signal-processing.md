@@ -46,3 +46,4 @@
 - [sndkit](https://github.com/PaulBatchelor/sndkit) - Collection of highly portable audio DSP algorithms, written in ANSI C using literate programming.
 - [Invertible Image Signal Processing (2021)](https://arxiv.org/abs/2103.15061) ([Code](https://github.com/yzxing87/Invertible-ISP))
 - [A Crash Course in the Fundamentals of Audio (2010)](http://www.co-bw.com/Index_Audio_Course.htm)
+- [HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement (2022)](https://arxiv.org/abs/2203.13086) ([Code](https://github.com/rishikksh20/HiFiplusplus-pytorch))

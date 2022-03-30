@@ -44,3 +44,4 @@
 - [nvim-metals](https://github.com/scalameta/nvim-metals) - Metals plugin for Nvim.
 - [MetalCoreGraphics](https://github.com/s1ddok/MetalCoreGraphics) - Combine the power of Metal and CoreGraphics by sharing resource memory.
 - [Ask HN: Why did Apple create their half-baked Metal instead of using Vulkan? (2022)](https://news.ycombinator.com/item?id=30755407)
+- [OpenCL on Metal (2022)](https://threedots.ovh/blog/2022/03/opencl-on-metal-1-get_global_id/)

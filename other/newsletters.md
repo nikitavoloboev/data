@@ -16,6 +16,7 @@
 - [Ivan on Containers, Kubernetes, and Backend Development](https://iximiuz.ck.page/posts)
 - [Creative Brew](https://www.creativebrew.io/)
 - [WebDev with Stefan](https://www.stefanjudis.com/newsletter/)
+- [Console](https://console.substack.com/) - Free weekly round-up of open-source projects.
 
 ## Notes
 
@@ -79,3 +80,5 @@
 - [Keila](https://www.keila.io/) - Open Source Email Newsletters Easy & Reliable. ([Code](https://github.com/pentacent/keila))
 - [Ways you can get subscribers to actually read your emails](https://twitter.com/khemaridh/status/1500870776446066689)
 - [Awesome Quincy Larson Email Archive](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
+- [Laravel Digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests.
+- [Brail](https://github.com/sinclairnick/brail) - Framework built on NextJS for developing email templates in React, and returning HTML that is compatible with major email clients.

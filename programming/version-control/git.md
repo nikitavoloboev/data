@@ -504,3 +504,6 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [diffr](https://github.com/mookid/diffr) - Diff highlighting tool.
 - [Scriv](https://github.com/nedbat/scriv) - Changelog management tool.
 - [git-promise](https://github.com/piuccio/git-promise) - Simple wrapper to run any git command and process it's output using promises.
+- [git-format-staged](https://github.com/hallettj/git-format-staged) - Git command to transform staged files using a formatting command.
+- [Sloughi](https://github.com/01walid/sloughi) - Tiny crate to make it easy to share and apply Git hooks for Rust projects. Inspired by Husky.
+- [git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers.

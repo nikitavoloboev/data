@@ -108,3 +108,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Luke Hefson's travel links](https://github.com/lukehefson/travel)
 - [What is the best city to live in for people in their early-to-mid 20s?](https://twitter.com/kylascan/status/1503056412901101579)
 - [Back Of Your Hand](https://backofyourhand.com/) - Game that tests how well you know your local area. ([HN](https://news.ycombinator.com/item?id=30733339))
+- [Welcome To My Garden](https://welcometomygarden.org/) - Not-for-profit network of citizens offering free camping spots in their gardens to slow travellers. ([Code](https://github.com/WelcometoMyGarden/welcometomygarden))

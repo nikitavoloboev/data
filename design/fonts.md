@@ -106,6 +106,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) - UD Gothic typeface with excellent readability and design balance.
 - [SORA](https://github.com/sora-xor/sora-font)
 - [Berkeley Mono Typeface](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+- [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians.
 
 ## Links
 

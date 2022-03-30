@@ -179,7 +179,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [EdgelessDB](https://github.com/edgelesssys/edgelessdb) - Open-source MySQL-compatible database for confidential computing. Runs entirely inside a secure enclave and comes with advanced features for collaboration, recovery, and access control. ([Intro](https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631))
 - [Infinitree](https://github.com/symmetree-labs/infinitree) - Scalable and encrypted embedded database with 3-tier caching.
 - [Zerostash](https://github.com/symmetree-labs/zerostash) - Deduplicated, encrypted data store that provides native versioning capabilities, and was designed to secure all metadata related to the files.
-- [BonsaiDb](https://github.com/khonsulabs/bonsaidb) - Rust-written, ACID-compliant, document-database inspired by CouchDB. ([Web](https://dev.bonsaidb.io/))
+- [BonsaiDb](https://github.com/khonsulabs/bonsaidb) - Rust-written, ACID-compliant, document-database inspired by CouchDB. ([Web](https://dev.bonsaidb.io/)) ([Retro One Year In](https://bonsaidb.io/blog/one-year-anniversary/)) ([HN](https://news.ycombinator.com/item?id=30800272)) ([Lobsters](https://lobste.rs/s/a03xpx/year_bonsaidb_retrospective_looking))
 - [Amazon Timestream](https://aws.amazon.com/timestream/) - Fast, scalable, serverless time series database. ([Tools and Samples](https://github.com/awslabs/amazon-timestream-tools))
 - [Hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart. ([Docs](https://docs.hivedb.dev/#/))
 - [Couchbase Lite for iOS and MacOS](https://github.com/couchbase/couchbase-lite-ios) - Lightweight, embedded, syncable NoSQL database engine for iOS and MacOS apps.
@@ -564,3 +564,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [IMDBench](https://github.com/edgedb/imdbench) - Benchmarking ORMs with realistic queries.
 - [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/)
 - [Database Meetup by SPLVM](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup)
+- [Writing a document database from scratch in Go: Lucene-like filters and indexes (2022)](https://notes.eatonphil.com/documentdb.html) ([Lobsters](https://lobste.rs/s/9hwnup/writing_document_database_from_scratch)) ([HN](https://news.ycombinator.com/item?id=30835444))

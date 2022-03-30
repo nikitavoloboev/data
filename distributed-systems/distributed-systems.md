@@ -256,3 +256,4 @@
 - [Practical Byzantium Fault Tolerant (PBFT) algorithm in Go](https://github.com/0xPolygon/pbft-consensus)
 - [chaosd](https://github.com/chaos-mesh/chaosd) - Chaos Engineering toolkit.
 - [dcache](https://github.com/bootjp/dcache) - CoreDNS Plugin: Asynchronous Distributed Cache for Distributed System.
+- [Consensus that unifies paxos, raft, 2pc, etc.](https://github.com/openacid/abstract-paxos)

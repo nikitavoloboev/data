@@ -91,3 +91,4 @@
 - [Tail recursion, but modulo cons (2022)](https://jfmengels.net/modulo-cons/)
 - [elm-watch](https://github.com/lydell/elm-watch) - Recompiles whenever your Elm files change and reloads the compiled JS in the browser.
 - [Elm-pair](https://elm-pair.com/)
+- [Elm Workshop](https://github.com/jgrenat/elm-workshop)

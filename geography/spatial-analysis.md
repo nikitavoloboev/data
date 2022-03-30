@@ -167,3 +167,4 @@
 - [mordecai](https://github.com/openeventdata/mordecai) - Full text geoparsing as a Python library.
 - [Awesome OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap)
 - [tippecanoe](https://github.com/protomaps/tippecanoe) - Builds vector tilesets from large (or small) collections of GeoJSON, FlatGeobuf, or CSV features.
+- [Making a maps app from scratch](https://twitter.com/jsngr/status/1508557309538017280)

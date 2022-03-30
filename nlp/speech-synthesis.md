@@ -62,3 +62,4 @@
 - [MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis (2021)](https://arxiv.org/abs/2106.07886) ([Code](https://github.com/neosapience/mlp-singer))
 - [IMS Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Toolkit to train state-of-the-art Speech Synthesis models.
 - [BDDM: Bilateral Denoising Diffusion Models for Fast and High-quality Speech Synthesis (2022)](https://github.com/tencent-ailab/bddm)
+- [Deep Learning for Emotional Text-to-speech](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - Summary on our attempts at using Deep Learning approaches for Emotional Text to Speech.

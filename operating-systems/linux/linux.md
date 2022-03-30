@@ -128,7 +128,7 @@
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [Subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [nohang](https://github.com/hakavlad/nohang) - Sophisticated low memory handler for Linux.
-- [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox. Sandbox Linux Applications. ([HN](https://news.ycombinator.com/item?id=25052341))
+- [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox. Sandbox Linux Applications. ([HN](https://news.ycombinator.com/item?id=25052341)) ([HN](https://news.ycombinator.com/item?id=30820387))
 - [rust.ko](https://github.com/tsgates/rust.ko) - Minimal Linux kernel module written in rust.
 - [What's your distro, and how did you pick it? (2020)](https://lobste.rs/s/bu3ynt/what_s_your_distro_how_did_you_pick_it)
 - [Intermediate Linux command line tutorial (2017)](https://www.jayconrod.com/posts/103/intermediate-linux-command-line-tutorial)
@@ -493,3 +493,8 @@
 - [Buildroot dahliaOS](https://github.com/dahliaOS/buildroot)
 - [Egrets](https://github.com/ancat/egrets) - Proof of concept tool that uses eBPF, raw sockets, and kprobes to monitor egress traffic.
 - [HiGFXback (History of graphics backends)](https://github.com/caramelli/higfxback)
+- [NsJail](https://github.com/google/nsjail) - Process isolation tool for Linux. Utilizes Linux namespace subsystem, resource limits, and the seccomp-bpf syscall filters of the Linux kernel.
+- [Linux Security Hardening for Confidential Compute](https://github.com/intel/ccc-linux-guest-hardening)
+- [embedshim](https://github.com/fuweid/embedshim) - Provide task runtime implementation with pidfd and eBPF sched_process_exit tracepoint to manage deamonless container with low overhead.
+- [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - Tool for checking the security hardening options of the Linux kernel.
+- [eBPF Instruction Sets (2021)](https://pchaigno.github.io/bpf/2021/10/20/ebpf-instruction-sets.html)

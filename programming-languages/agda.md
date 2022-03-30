@@ -6,7 +6,7 @@
 - [Introductions to Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
 - [Category Theory in Agda](https://github.com/JLimperg/cats) - Learning exercise.
 - [Categories](https://github.com/copumpkin/categories) - Categories parametrized by morphism equality, in Agda.
-- [Programming Language Foundations in Agda (2018)](https://plfa.github.io/)
+- [Programming Language Foundations in Agda](https://plfa.github.io/) ([Code](https://github.com/jsiek/B522-PL-Foundations))
 - [(n,r)-categories in agda](https://github.com/freebroccolo/agda-nr-cats)
 - [Higher-Order Pattern Unification in Agda](https://github.com/Saizan/miller)
 - [Experimental library for Cubical Agda](https://github.com/agda/cubical)

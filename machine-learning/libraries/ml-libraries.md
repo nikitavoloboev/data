@@ -218,7 +218,7 @@
 - [Arm NN](https://github.com/ARM-software/armnn) - Software and tools that enables machine learning workloads on power-efficient devices.
 - [OpenRec](https://github.com/ylongqi/openrec) - Open-source and modular library for neural network-inspired recommendation algorithms.
 - [FlexFlow](https://github.com/facebookresearch/DLRM-FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
-- [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Large-Scale Parallel Training. ([Docs](https://www.colossalai.org/))
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Unified Deep Learning System for Large-Scale Parallel Training. ([Docs](https://www.colossalai.org/)) ([Examples](https://github.com/hpcaitech/ColossalAI-Examples))
 - [XManager](https://github.com/deepmind/xmanager) - Framework for managing machine learning experiments.
 - [T5X](https://github.com/google-research/t5x) - Modular, composable, research-friendly framework for high-performance, configurable, self-service training.
 - [mlinspect](https://github.com/stefan-grafberger/mlinspect) - Inspect ML Pipelines in Python in the form of a DAG.
@@ -310,3 +310,4 @@
 - [DISTIL](https://github.com/decile-team/distil) - Cut down your labeling cost and time by 3x-5x.
 - [OpenFL](https://github.com/intel/openfl) - Open-Source Framework For Federated Learning.
 - [Basenji](https://github.com/calico/basenji) - Sequential regulatory activity predictions with deep convolutional neural networks.
+- [PyDP](https://github.com/OpenMined/PyDP) - Python Differential Privacy Library.

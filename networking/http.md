@@ -1,5 +1,7 @@
 # [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
+[Caddy](https://caddyserver.com/) is great.
+
 ## Notes
 
 - [HTTP return codes cheat sheet: 1** Hold on 2** Here you go 3** Go away 4** You fucked up 5\*\* I fucked up](https://twitter.com/anthilemoon/status/1105972205568094208)
@@ -220,3 +222,9 @@
 - [whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy.
 - [Death by 1000 needles](https://github.com/Arriven/db1000n) - Simple distributed load generation client written in Go. It is able to fetch simple json config from a local or remote location.
 - [APIX](https://github.com/ecyrbe/apix-rust) - Modern HTTP client for the command line.
+- [go-wrk](https://github.com/tsliwowicz/go-wrk) - Modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU.
+- [Moclojer](https://github.com/avelino/moclojer) - Simple and efficient HTTP mock server with specification in yaml, edn or OpenAPI.
+- [What curl expects from dependencies (2022)](https://daniel.haxx.se/blog/2022/03/28/what-curl-expects-from-dependencies/)
+- [TTFB](https://github.com/phip1611/ttfb) - CLI + Lib to Measure the TTFB of HTTP/1.1 Requests.
+- [crs](https://github.com/Integralist/crs) - HTTP Response Header Sorting and Filtering.
+- [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.

@@ -1,5 +1,7 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses.
+
 ## Nice templates
 
 - [Stripe Homepage Website Made with Tailwind CSS](https://codepen.io/andreyazimov/pen/abWWeKp)
@@ -468,3 +470,5 @@ all: unset
 - [When or If (2022)](https://meyerweb.com/eric/thoughts/2022/03/14/if-or-when/) ([HN](https://news.ycombinator.com/item?id=30674324))
 - [CSS Cascade Layers Explained (2022)](https://positivethinking.tech/insights/css-cascade-layers-explained/)
 - [Master Styles](https://styles.master.co/) - Virtual CSS language with enhanced syntax. ([Code](https://github.com/master-co/styles))
+- [Josh Comeau – Secret Mechanisms of CSS (2022)](https://www.youtube.com/watch?v=Xt1Cw4qM3Ec)
+- [Understanding Layout Algorithms in CSS](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)

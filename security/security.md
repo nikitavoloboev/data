@@ -270,3 +270,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Who's Attacking My Server? (2022)](https://bastian.rieck.me/blog/posts/2022/server/) ([HN](https://news.ycombinator.com/item?id=30661852))
 - [Keyhouse](https://github.com/bytedance/keyhouse) - Skeleton of general-purpose Key Management System written in Rust.
 - [Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool written in Swift.
+- [bom (Bill of Materials)](https://github.com/kubernetes-sigs/bom) - Create SPDX-compliant Bill of Materials.

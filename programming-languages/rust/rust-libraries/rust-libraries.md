@@ -134,6 +134,7 @@
 - [Spectre](https://github.com/niklaslong/spectre) - Lightweight toolkit for analysing p2p network topologies.
 - [bifrost](https://github.com/ShisoftResearch/bifrost) - Pure rust building block for distributed systems.
 - [rsocket-rust](https://github.com/rsocket/rsocket-rust) - RSocket Rust Implementation using Tokio.
+- [Aliri](https://github.com/neoeinstein/aliri) - Web API access control for Rust.
 
 ## WASM
 
@@ -249,6 +250,7 @@
 - [CannyLS](https://github.com/frugalos/cannyls) - Embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD.
 - [rocksdb-rs](https://github.com/rust-lib-project/calibur) - Rust version of RocksDB.
 - [mysql](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust.
+- [Lru Time Cache](https://github.com/maidsafe/lru_time_cache) - LRU cache settable via size or time to live.
 
 ## Video
 
@@ -490,6 +492,7 @@
 - [stm32-eth](https://github.com/stm32-rs/stm32-eth) - Embedded Ethernet driver in Rust.
 - [esp-hal](https://github.com/esp-rs/esp-hal) - Experimental no_std HAL targeting ESP devices.
 - [assert_no_alloc](https://github.com/Windfisch/rust-assert-no-alloc) - Custom Rust allocator allowing to temporarily disable memory (de)allocations for a thread. Aborts or prints a warning if allocating although forbidden.
+- [defmt-bbq](https://github.com/jamesmunns/defmt-bbq) - Highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
 
 ## ML
 
@@ -1638,9 +1641,17 @@
 - [Node Crunch](https://github.com/willi-kappler/node_crunch) - Allows to distribute computations across several nodes.
 - [sendable](https://github.com/hniksic/sendable) - Wrapper around Rc safe to send to a different thread.
 - [itoa](https://github.com/dtolnay/itoa) - Fast functions for printing integer primitives to an io::Write.
+- [rust-ftp](https://github.com/mattnenterprise/rust-ftp) - FTP client for Rust.
+- [rkyv_codec](https://github.com/zyansheep/rkyv_codec) - Simple async codec for rkyv. Reuses streaming buffer for maximum speed.
+- [usync](https://github.com/kprotty/usync) - Small, fast, synchronization primitives.
+- [Texting Robots](https://github.com/Smerity/texting_robots) - Library for parsing robots.txt files.
+- [futures_codec](https://github.com/matthunz/futures-codec) - Utilities for encoding and decoding frames with async/await.
+- [Zelf](https://github.com/usamoi/zelf) - Zero-allocation ELF parser.
+- [tendril](https://github.com/servo/tendril) - Compact string type for zero-copy parsing.
 
 ## Cargo Plugins
 
+- [shuttle](https://github.com/getsynth/shuttle) - Deploy Rust apps with a single Cargo command. ([Web](https://www.shuttle.rs/))
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 - [cargo-c](https://github.com/lu-zero/cargo-c) - Cargo C-ABI helpers.
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to help you manage large dependency graphs.
@@ -1803,3 +1814,5 @@
 - [absolution](https://github.com/Manishearth/absolution) - "Freedom from syn": Proc macro tools for operating on token trees.
 - [Best and worse cases of error handling code in rust (2022)](https://twitter.com/yaahc_/status/1506799278211014658)
 - [Rust parsing dynamic JSON (2022)](https://www.ahmadrosid.com/blog/rust-parsing-dynamic-json)
+- [x](https://github.com/cloudpeers/x) - Cross compile rust to any platform.
+- [Crubit](https://github.com/google/crubit) - C++/Rust Bidirectional Interop Tool.

@@ -154,3 +154,5 @@
 - [JWST fine-phasing calibration complete (2022)](https://www.syfy.com/syfy-wire/bad-astronomy-jwst-fine-phasing-calibration-complete) ([Tweet](https://twitter.com/BadAstronomer/status/1504480956362608644))
 - [First images from James Webb telescope exceed expectations (2022)](https://cosmosmagazine.com/space/exploration/first-photos-james-webb-telescope/) ([HN](https://news.ycombinator.com/item?id=30729109))
 - [THESAN](https://www.thesan-project.com/thesan.html) - Simulated how the first stars lit up & heated the universe in the first billion years after the Big Bang.
+- [Разбор радиоизображений MeerKAT — что находится прямо в сердце Млечного Пути (2022)](https://habr.com/ru/post/649997/)
+- [Bizarre space circle captured in unprecedented detail (2022)](https://www.nature.com/articles/d41586-022-00861-6) ([HN](https://news.ycombinator.com/item?id=30833890))

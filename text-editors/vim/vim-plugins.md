@@ -217,6 +217,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Go
 
+- [go.nvim](https://github.com/ray-x/go.nvim) - Modern Go development plugin for Neovim, based on nvim-lsp, treesitter and Dap.
 - [Vim Go](https://github.com/fatih/vim-go) - Go development.
 - [Nvim Go](https://github.com/zchee/nvim-go) - Go development plugin written in pure Go.
 - [Deoplete Go](https://github.com/zchee/deoplete-go) - Asynchronous Go completion.
@@ -303,3 +304,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Litee.nvim](https://github.com/ldelossa/litee.nvim) - Library for building "IDE-lite" experiences in Neovim.
 - [boilit](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure for neovim plugins.
 - [Pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim.
+- [Neovim package specification](https://github.com/nvim-lua/nvim-package-specification)

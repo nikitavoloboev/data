@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great.
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community.
 
 ## Notes
 
@@ -745,3 +745,7 @@
 - [Human-Centered Machine Learning (2022)](https://github.com/ChicagoHAI/human-centered-machine-learning)
 - [Transformer models: an introduction and catalog — 2022 Edition](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
 - [Bayesian Structure Learning with Generative Flow Networks (2022)](https://arxiv.org/abs/2202.13903) ([Code](https://github.com/tristandeleu/jax-dag-gflownet))
+- [Neural Networks with Recurrent Generative Feedback (2020)](https://arxiv.org/abs/2007.09200) ([Code](https://github.com/yjhuangcd/CNNF))
+- [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) ([Code](https://github.com/dibgerge/ml-coursera-python-assignments))
+- [Chaos is a Ladder: A New Understanding of Contrastive Learning (2022)](https://openreview.net/pdf?id=ECvgmYVyeUz) ([Code](https://github.com/zhangq327/ARC))
+- [Efficient-VDVAE: Less is more (2022)](https://arxiv.org/abs/2203.13751) ([Code](https://github.com/Rayhane-mamah/Efficient-VDVAE))

@@ -97,6 +97,7 @@
 - [Obsidian Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish) - Publish your Obsidian note to a Telegraph page.
 - [Banners](https://github.com/noatpad/obsidian-banners) - Obsidian plugin to add banner images (and icons) to your notes.
 - [Chat View Plugin](https://github.com/adifyr/obsidian-chat-view) - Quickly and easily create elegant Chat UIs in your Markdown Files.
+- [Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames) - Turns web apps into panes using iframes with custom styling.
 
 ## Themes
 

@@ -309,3 +309,4 @@
 - [Preemptive Memoization In React Is Probably Not Evil (Yet) (2022)](https://www.zhenghao.io/posts/memo-or-not) ([Reddit](https://www.reddit.com/r/javascript/comments/tjlc88/preemptive_memoization_in_react_is_probably_not/))
 - [React Trends: Interview with React Query creator Tanner Linsley (2022)](https://www.youtube.com/watch?v=gJD94psC0ZQ)
 - [RFC: Intent to Ship React 18](https://github.com/reactjs/rfcs/blob/react-18/text/0000-react-18.md) ([HN](https://news.ycombinator.com/item?id=30790909))
+- [React v18.0 (2022)](https://reactjs.org/blog/2022/03/29/react-v18.html) ([HN](https://news.ycombinator.com/item?id=30844414)) ([Tweet](https://twitter.com/reactjs/status/1508838714180612100))

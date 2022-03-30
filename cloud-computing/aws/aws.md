@@ -307,3 +307,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Bootstrap Kit Examples Overview](https://github.com/aws-samples/aws-bootstrap-kit-examples)
 - [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool.
 - [Alohomora](https://github.com/gagoar/alohomora) - CLI that makes using AWS Parameter Store... as simple as the flick of a wand.
+- [A magical AWS serverless developer experience (2022)](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/) ([HN](https://news.ycombinator.com/item?id=30827038))
+- [AWS.jl](https://github.com/JuliaCloud/AWS.jl) - Julia interface to AWS.
+- [AWS SDK for Java](https://github.com/aws/aws-sdk-java)
+- [AWS Cloud Development Kit (CDK) for LocalStack](https://github.com/localstack/aws-cdk-local)

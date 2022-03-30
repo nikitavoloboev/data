@@ -1,6 +1,6 @@
 # Virtual reality
 
-I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/).
+I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2334376869949242/) & [Pistol Whip](https://www.oculus.com/experiences/quest/2104963472963790/) on [Oculus Quest 2](https://www.oculus.com/quest-2/). Playing [Walkabout Mini Golf](https://www.oculus.com/experiences/quest/2462678267173943/) with friends is a great remote social bonding experience.
 
 ## Games
 

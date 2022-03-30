@@ -69,3 +69,4 @@
 - [How Japan saved Tokyo's rail network from collapse (part 1, 1945-1982)](https://seungylee14.substack.com/p/how-japan-saved-tokyos-rail-network) ([HN](https://news.ycombinator.com/item?id=30228327))
 - [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system.
 - [Why Tokyo Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=zysL_lkdtys)
+- [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/) ([HN](https://news.ycombinator.com/item?id=30818253))

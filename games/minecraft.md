@@ -106,3 +106,4 @@
 - [Cuberite](https://cuberite.org/) - Lightweight, fast and extensible game server for Minecraft. ([Code](https://github.com/cuberite/cuberite))
 - [Minecraft High-Performance Redstone Server](https://github.com/MCHPR/MCHPRS)
 - [Minecraft XR](https://github.com/Sorenon/MCXR) - VR minecraft mod using OpenXR and fabric.
+- [GDLauncher](https://gdevs.io/) - Custom Minecraft Launcher. ([Code](https://github.com/gorilla-devs/GDLauncher))

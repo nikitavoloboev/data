@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM.
 
 ## CLI
 
@@ -324,6 +324,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [sniper](https://github.com/recoilme/sniper) - Simple and efficient thread-safe key/value store for Go.
+- [Bun](https://github.com/uptrace/bun) - Simple and performant ORM for SQL. ([Web](https://bun.uptrace.dev/))
 - [GORM SQLite](https://github.com/glebarez/sqlite) - Pure-go (without cgo) implementation of SQLite driver for GORM.
 - [BuntDB](https://github.com/tidwall/buntdb) - Embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 - [hashmap](https://github.com/tidwall/hashmap) - Efficient hashmap implementation in Go.
@@ -383,7 +385,6 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Loukoum](https://github.com/ulule/loukoum) - Simple SQL Query Builder.
 - [tstorage](https://github.com/nakabonne/tstorage) - Fast time-series data storage library.
 - [Kiwi](https://github.com/sdslabs/kiwi) - Minimalistic in-memory key value store. ([Web](https://kiwi.sdslabs.co/))
-- [bun](https://github.com/uptrace/bun) - Simple and performant ORM for sql.DB. ([Web](https://bun.uptrace.dev/))
 - [gosql](https://github.com/ilibs/gosql) - Very simple ORM library for Go.
 - [Scan](https://github.com/blockloop/scan) - Scan database/sql rows directly to structs, slices, and primitive types.
 - [go-sqlite3-js](https://github.com/matrix-org/go-sqlite3-js) - Go SQL driver for sqlite3 in browser (sql.js) from go-wasm.
@@ -445,6 +446,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Ristretto](https://github.com/outcaste-io/ristretto) - Fast, concurrent cache library built with a focus on performance and correctness.
 - [Cloud SQL Go Connector](https://github.com/GoogleCloudPlatform/cloud-sql-go-connector) - Cloud SQL connector designed for use with the Go language.
 - [agecache](https://github.com/segmentio/agecache) - LRU cache with support for max age.
+- [chartmuseum/storage](https://github.com/chartmuseum/storage) - Go library providing a common interface for working across multiple storage backends.
 
 ## ML
 
@@ -472,6 +474,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-sciter](https://github.com/sciter-sdk/go-sciter) - Go bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development.
 - [bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library.
 - [twodeeparticles](https://github.com/blizzy78/twodeeparticles) - Engine-agnostic 2D particle system simulator for Go.
+
+## WASM
+
+- [gocalstorage](https://github.com/superloach/gocalstorage) - Go bindings for the JavaScript Storage APIs, using WASM.
 
 ## GUI
 
@@ -1467,6 +1473,13 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Skipfilter](https://github.com/kevburnsjr/skipfilter) - Skip list of arbitrary elements that can be filtered using roaring bitmaps stored in an LRU cache.
 - [Graft](https://github.com/nats-io/graft) - RAFT Election implementation in Go.
 - [gosaml2](https://github.com/russellhaering/gosaml2) - Pure Go implementation of SAML 2.0.
+- [webtransport-go](https://github.com/marten-seemann/webtransport-go) - Implementation of the WebTransport protocol, based on quic-go.
+- [go-events](https://github.com/docker/go-events) - Implements a composable event distribution package for Go.
+- [go-version](https://github.com/hashicorp/go-version) - Library for parsing and verifying versions and version constraints.
+- [falco](https://github.com/ysugimoto/falco) - VCL parser and linter optimized for Fastly.
+- [goid](https://github.com/petermattis/goid) - Programmatically retrieve the current goroutine's ID.
+- [goRBAC](https://github.com/mikespook/gorbac) - Lightweight role-based access control implementation in Go.
+- [myago](https://github.com/mjpitz/myago) - Utilities for building distributed systems.
 
 ## Links
 
@@ -1545,3 +1558,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Modern Go Application](https://github.com/sagikazarmark/modern-go-application) - Go application boilerplate and example applying modern practices.
 - [How we used Go 1.18 generics when designing our Identifiers at Encore (2022)](https://encore.dev/blog/go-1.18-generic-identifiers) ([Lobsters](https://lobste.rs/s/uakuuc/how_we_used_go_1_18_generics_when_designing))
 - [GoPlantUML](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for Go projects.
+- [vanity](https://github.com/kare/vanity) - Go vanity domain HTTP handler.
+- [Courtney](https://github.com/dave/courtney) - Coverage tool for Go.

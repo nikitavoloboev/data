@@ -106,3 +106,4 @@
 - [TensorFlow Image Models](https://github.com/martinsbruveris/tensorflow-image-models) - TensorFlow port of PyTorch Image Models (timm) - image models with pretrained weights.
 - [TensorFlow Similarity](https://github.com/tensorflow/similarity) - Python package focused on making similarity learning quick and easy.
 - [TensorFlow Text](https://github.com/tensorflow/text) - Text processing in TensorFlow.
+- [Vision Transformer Cookbook with TensorFlow](https://github.com/taki0112/vit-tensorflow)

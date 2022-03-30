@@ -56,7 +56,7 @@
 - [Radical Icons](https://radicalicons.com/) - Radical, hand-drawn SVGs.
 - [Radix Icons](https://icons.modulz.app/) - Crisp set of 15×15 icons designed by the Modulz team. ([Code](https://github.com/modulz/radix-icons))
 - [System UIcons](https://systemuicons.com/) - Collection of open source icons designed for products and systems in mind. Each icon is on a 21x21 grid. ([Code](https://github.com/CoreyGinnivan/system-uicons))
-- [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family for interfaces, diagrams, presentations. ([Code](https://github.com/phosphor-icons/phosphor-home))
+- [Phosphor Icons](https://phosphoricons.com/) - Flexible icon family for interfaces, diagrams, presentations. ([Web Code](https://github.com/phosphor-icons/phosphor-home)) ([Code](https://github.com/phosphor-icons/phosphor-icons))
 - [Bjango App Icon Templates](https://github.com/bjango/Bjango-Templates) - Design templates for Android, iOS, macOS, Apple TV (tvOS), Apple Watch (watchOS), Windows, Windows Phone and web favicons.
 - [Dmitry Novikov Dribble](https://dribbble.com/Novikoff) - Does nice icons.
 - [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) ([HN](https://news.ycombinator.com/item?id=24991908))
@@ -119,3 +119,4 @@
 - [Biome icon design process](https://twitter.com/matthewskiles/status/1504173530237517825)
 - [SwiftUI App Icon Generator App for iOS & macOS Catalyst](https://github.com/alfianlosari/AppIconGenerator)
 - [Icons in Pure CSS (2021)](https://antfu.me/posts/icons-in-pure-css)
+- [SPSettingsIcons](https://github.com/sparrowcode/SPSettingsIcons) - Generate settings icons by Apple's SF Symbols.

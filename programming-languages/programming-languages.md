@@ -257,6 +257,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Comparison of enumerations and similar features in different languages](https://github.com/Crell/enum-comparison)
 - [Static Analysis: An Introduction (2021)](https://queue.acm.org/detail.cfm?id=3487021)
 - [Static Analysis at GitHub (2021)](https://queue.acm.org/detail.cfm?id=3487022)
+- [Static Analysis at GitHub (2022)](https://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github/fulltext)
 - [Most accessible programming language (2021)](https://twitter.com/ellenkorbes/status/1452437940299309063)
 - [Ask HN: If you designed a new programming language, what would its features be? (2021)](https://news.ycombinator.com/item?id=29092998)
 - [glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API. ([Code](https://github.com/glotcode/glot-www))
@@ -330,3 +331,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Generics syntax in different languages (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tibrzi/generics_syntax_in_different_languages/)
 - [Ask HN: Are you using actors in production? Why/Why not? (2022)](https://news.ycombinator.com/item?id=30745047)
 - [A Typed Programming Language: The Semantics of Rank Polymorphism (2020)](https://ccs.neu.edu/~jrslepak/Dissertation.pdf)
+- [OneLinerHub](https://onelinerhub.com/) - Open source code library. ([Code](https://github.com/Onelinerhub/onelinerhub))

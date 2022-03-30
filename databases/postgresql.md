@@ -448,3 +448,7 @@
 - [plProfiler](https://github.com/bigsql/plprofiler) - Extension for the PostgreSQL database system to create performance profiles of PL/pgSQL functions and stored procedures.
 - [PgBouncerHero](https://github.com/kwent/pgbouncerhero) - Dashboard for your PgBouncers.
 - [Supabase Cheat Sheet](https://supabase-cheatsheet.vercel.app/) - Cheat Sheets for anyone starting with Supabase + PostgreSQL. ([Code](https://github.com/lawrencecchen/supabase-cheatsheet))
+- [pg_plan_guarantee](https://github.com/gurjeet/pg_plan_guarantee) - Postgres Query Optimizer Extension that guarantees your desired plan will not change. ([HN](https://news.ycombinator.com/item?id=30825069))
+- [Index Adviser](https://github.com/gurjeet/pg_adviser) - Postgres extension that helps you find potentially useful indexes.
+- [Postgres 15 will support MERGE](https://www.postgresql.org/docs/devel/sql-merge.html)
+- [Understanding connection URI strings in PostgreSQL](https://www.prisma.io/dataguide/postgresql/short-guides/connection-uris)

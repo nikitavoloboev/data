@@ -281,3 +281,5 @@
 - [ONNC](https://github.com/ONNC/onnc) - Open Neural Network Compiler. ([Web](https://onnc.ai/))
 - [Provably robust neural networks](https://github.com/locuslab/convex_adversarial) - Method for training neural networks that are provably robust to adversarial attacks.
 - [Rust + WebAssembly + Neural Network](https://github.com/ldm0/wasm_nn)
+- [Neural Networks are not the only universal approximators, so why are they so uniquely effective? (2022)](https://www.reddit.com/r/MachineLearning/comments/tqjd3w/d_neural_networks_are_not_the_only_universal/)
+- [Awesome Spiking Neural Networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks)

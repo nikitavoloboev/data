@@ -107,6 +107,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Noor](https://usenoor.com/) - Talk, share, work together. ([Twitter](https://twitter.com/use_noor))
 - [Miro](https://miro.com/) - Where distributed teams get work done.
 - [Slate](https://slate.host/) - Open source Filecoin client for data that makes it easy to collect, organize, and share data anywhere. ([Code](https://github.com/filecoin-project/slate))
+- [Markup](https://getmarkup.com/) - Web-based text annotation tool, powered by active learning. ([Code](https://github.com/samueldobbie/markup))
 - [Graphreader](http://www.graphreader.com/) - Online tool for reading graph image values and save as CSV / JSON.
 - [Engauge Digitizer](http://markummitchell.github.io/engauge-digitizer/) - Extracts data points from images of graphs. ([Code](https://github.com/markummitchell/engauge-digitizer))
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.

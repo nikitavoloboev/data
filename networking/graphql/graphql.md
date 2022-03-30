@@ -304,3 +304,5 @@
 - [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - GraphQL query parser in C++ with C and C++ APIs.
 - [GraphQL Schema to JSON Schema](https://github.com/charlypoly/graphql-to-json-schema)
 - [GraphRPC](https://github.com/Just4Ease/graphrpc) - RPC with GraphQL over Nats.io & JetStream.
+- [Intuitive and scalable GraphQL server design](https://github.com/jaredgorski/schema-based-graphql-server-design)
+- [GraphQL is now available on Supabase (2022)](https://supabase.com/blog/2022/03/29/graphql-now-available) ([HN](https://news.ycombinator.com/item?id=30846006))

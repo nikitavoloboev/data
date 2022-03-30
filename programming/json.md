@@ -114,3 +114,4 @@
 - [JSON grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-json)
 - [JSON Visio](https://jsonvisio.com/) - Visualize your JSON into interactive graphs. ([Code](https://github.com/AykutSarac/jsonvisio.com))
 - [Understanding jq's reduce function (2022)](https://qmacro.org/2022/03/25/understanding-jq-s-reduce-function/)
+- [GJSON Playground](https://gjson.dev/) - GJSON provides a fast and simple way to search a JSON document. ([Code](https://github.com/tidwall/gjson-play))

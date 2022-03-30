@@ -350,7 +350,7 @@
 - [PyTorch on Apple M1 MAX GPUs with SHARK – faster than TensorFlow-Metal (2022)](https://nod.ai/pytorch-m1-max-gpu/) ([HN](https://news.ycombinator.com/item?id=30434886))
 - [Deep Robust](https://github.com/DSE-MSU/DeepRobust) - PyTorch adversarial library for attack and defense methods on images and graphs.
 - [TorchRec](https://github.com/pytorch/torchrec) - Library for modern production recommendation systems. ([Article](https://pytorch.org/blog/introducing-torchrec/)) ([HN](https://news.ycombinator.com/item?id=30496322))
-- [TorchStudio](https://github.com/TorchStudio/torchstudio) - IDE for PyTorch. ([Web](https://torchstudio.ai/))
+- [TorchStudio](https://github.com/TorchStudio/torchstudio) - IDE for PyTorch. ([Web](https://torchstudio.ai/)) ([Beginner's Guide](https://www.assemblyai.com/blog/beginners-guide-to-torchstudio-pytorch-only-ide/))
 - [sk2torch](https://github.com/unixpickle/sk2torch) - Convert scikit-learn models to PyTorch modules.
 - [Multi-Task Learning in PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch)
 - [PyTorch C++ Samples](https://github.com/koba-jon/pytorch_cpp) - Deep Learning sample programs of PyTorch written in C++.
@@ -361,3 +361,4 @@
 - [Image 2 Vec with PyTorch](https://github.com/christiansafka/img2vec)
 - [Tez](https://github.com/abhishekkrthakur/tez) - Super-simple and lightweight Trainer for PyTorch.
 - [TorchMultimodal](https://github.com/facebookresearch/multimodal) - PyTorch library for training state-of-the-art multimodal multi-task models at scale.
+- [MiniTorch Module 0](https://github.com/minitorch/Module-0)

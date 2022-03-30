@@ -166,3 +166,4 @@
 - [BPG Image format](https://bellard.org/bpg/) - Purpose is to replace the JPEG image format when quality or file size is an issue. ([HN](https://news.ycombinator.com/item?id=30712944))
 - [Serverless Image Handler](https://github.com/aws-solutions/serverless-image-handler) - Solution to dynamically handle images on the fly, utilizing SharpJS.
 - [Mosaic](https://github.com/ahhhh6980/Mosaic) - Takes a folder of images (as a palette), and an image, and figures out how to tile the palette to resemble the image. ([HN](https://news.ycombinator.com/item?id=30739304))
+- [image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript.

@@ -28,3 +28,5 @@
 - [A neural network solves and generates mathematics problems by program synthesis (2022)](https://arxiv.org/abs/2112.15594) ([HN](https://news.ycombinator.com/item?id=29853802))
 - [Measuring Coding Challenge Competence With APPS (2021)](https://arxiv.org/abs/2105.09938) ([Code](https://github.com/hendrycks/apps))
 - [Neurosymbolic Programming (2021)](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) ([HN](https://news.ycombinator.com/item?id=30631907))
+- [A Conversational Paradigm for Program Synthesis (2022)](https://arxiv.org/abs/2203.13474)
+- [Formal_ML](https://github.com/IBM/FormalML) - Formalization of Machine Learning Theory with Applications to Program Synthesis.

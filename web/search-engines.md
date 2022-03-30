@@ -151,7 +151,7 @@
 - [Aleph](https://github.com/alephdata/aleph) - Search and browse documents and data; find the people and companies you look for. ([Docs](https://docs.alephdata.org/))
 - [MeiliSearch: A Minimalist Full-Text Search Engine (2021)](https://tech.marksblogg.com/meilisearch-full-text-search.html) ([HN](https://news.ycombinator.com/item?id=28187675))
 - [Custom Search Engine Built on Searx (2021)](https://jpreston.xyz/custom-search-engine.html) ([HN](https://news.ycombinator.com/item?id=28509997))
-- [Marginalia Search](https://search.marginalia.nu/) - Search engine that favors text-heavy sites and punishes modern web design. ([HN](https://news.ycombinator.com/item?id=28550764))
+- [Marginalia Search](https://search.marginalia.nu/) - Search engine that favors text-heavy sites and punishes modern web design. ([HN](https://news.ycombinator.com/item?id=28550764)) ([1 Year Later](https://memex.marginalia.nu/log/49-marginalia-1-year.gmi)) ([HN](https://news.ycombinator.com/item?id=30823481))
 - [Dorks collections list](https://github.com/cipher387/Dorks-collections-list) - List of Github repositories and articles with list of dorks for different search engines.
 - [Nrtsearch: Yelp’s Fast, Scalable and Cost Effective Search Engine (2021)](https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html)
 - [MacroBase](https://github.com/stanford-futuredata/macrobase) - Data analytics tool that prioritizes attention in large datasets using machine learning. ([Web](https://macrobase.stanford.edu/))
@@ -214,3 +214,6 @@
 - [If Google sucks then why is everyone still using it?](https://abhinavsharma.com/blog/google-alternatives) ([HN](https://news.ycombinator.com/item?id=30725933))
 - [Teclis](http://teclis.com/) - Non-commercial Web Search. ([HN](https://news.ycombinator.com/item?id=30783037))
 - [Ask HN: How do you search large code-base before adding a feature or fixing bug? (2022)](https://news.ycombinator.com/item?id=30819579)
+- [What I Learned From Running a Concierge Search Engine (2022)](https://re-search.xyz/writing/what-i-learned-from-running-a-concierge-search-engine) ([HN](https://news.ycombinator.com/item?id=30832686))
+- [Lucene: The Good Parts (2015)](https://blog.parse.ly/lucene/)
+- [Andi](https://andisearch.com/) - Q&A based, ad-free, anti-spam search engine. ([HN](https://news.ycombinator.com/item?id=30832589))

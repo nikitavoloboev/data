@@ -25,6 +25,10 @@
 
 - [CLIche](https://github.com/juancarlospaco/cliche) - AutoMagic CLI argument parsing is cliche.
 
+## DB
+
+- [nimdbx](https://github.com/snej/nimdbx) - Extremely fast persistent key-value store for the Nim language, based on the amazing MDBX library.
+
 ## Other
 
 - [Arraymancer](https://github.com/mratsim/Arraymancer) - N-dimensional tensor (ndarray) library.

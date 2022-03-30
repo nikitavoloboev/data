@@ -304,3 +304,4 @@
 - [Thoughts on build tooling in Haskell (2022)](https://twitter.com/ChShersh/status/1493901050805424128)
 - [Haskell (Almost) Standard Libraries Book (2022)](https://leanpub.com/haskell-stdlibs/)
 - [thax](https://github.com/tek/thax) - Create haskell tags from nix dependencies.
+- [Pure Print-Style Debugging in Haskell (2022)](https://medium.com/pragmatic-programmers/pure-print-style-debugging-in-haskell-c4c5d4f39afa) ([Lobsters](https://lobste.rs/s/iwkrig/pure_print_style_debugging_haskell))

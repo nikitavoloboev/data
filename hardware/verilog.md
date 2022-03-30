@@ -34,3 +34,4 @@
 - [Caravel Harness](https://github.com/efabless/caravel) - Standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.
 - [Verilog Is Weird](https://danluu.com/why-hardware-development-is-hard/) ([HN](https://news.ycombinator.com/item?id=30739866))
 - [Asynchronous dual clock FIFO](https://github.com/dpretet/async_fifo) - Dual clock asynchronous FIFO written in verilog, tested with Icarus Verilog.
+- [VHDL grammar for tree-sitter](https://github.com/alemuller/tree-sitter-vhdl)

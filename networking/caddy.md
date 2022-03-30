@@ -45,3 +45,6 @@
 - [Consul K/V Storage for Caddy TLS data](https://github.com/pteich/caddy-tlsconsul)
 - [Caddy Markdown Site](https://github.com/dbohdan/caddy-markdown-site) - Serve Markdown files as HTML pages with CSS using just Caddy.
 - [Use Caddy to manage Tailscale HTTPS certificates (2022)](https://tailscale.com/blog/caddy/) ([HN](https://news.ycombinator.com/item?id=30687282))
+- [Caddy SSH](https://github.com/mohammed90/caddy-ssh) - General-purpose, extensible, modular, memory-safe SSH server built in Go. ([Intro](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)) ([HN](https://news.ycombinator.com/item?id=30830749))
+- [Caddy NGINX Config Adapter](https://github.com/caddyserver/nginx-adapter) - Run Caddy with your NGINX config.
+- [Transform Encoder Module for Caddy's Logger](https://github.com/caddyserver/transform-encoder) - Log encoder module for custom log formats.

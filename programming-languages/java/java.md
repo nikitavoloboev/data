@@ -108,3 +108,5 @@
 - [The JDK Flight Recorder File Format (2022)](https://www.morling.dev/blog/jdk-flight-recorder-file-format/)
 - [Inside JVM debug symbols (2022)](https://jpbempel.github.io/2022/03/22/jvm-debug-symbols.html)
 - [Java Development on an Apple M1 – A One Year Review (2022)](https://rieckpil.de/java-development-on-an-apple-m1-a-one-year-review/) ([HN](https://news.ycombinator.com/item?id=30799686))
+- [JEP 419: Foreign Function and Memory API](https://openjdk.java.net/jeps/419) ([HN](https://news.ycombinator.com/item?id=30812156))
+- [Ask HN: What is a modern Java environment? (2022)](https://news.ycombinator.com/item?id=30841581)

@@ -96,3 +96,4 @@
 - [Reso](https://github.com/lynnpepin/reso) - Visual circuits programming language using pixels. ([HN](https://news.ycombinator.com/item?id=30193997))
 - [A digital circuit simulator written in sed](https://fideo.info/wiki.lua/blog/sed-circuit-simulator) ([HN](https://news.ycombinator.com/item?id=30660203))
 - [Axial-Flux Motor with a PCB Stator Is Ripe for an Electrified World (2022)](https://spectrum.ieee.org/axial-flux) ([HN](https://news.ycombinator.com/item?id=30816149))
+- [Good basic circuit design books (2022)](https://news.ycombinator.com/item?id=30838203)

@@ -142,3 +142,4 @@
 - [Django Celery Results](https://github.com/celery/django-celery-results) - Celery result back end with Django.
 - [Polymorphic Models for Django](https://github.com/django-polymorphic/django-polymorphic) - Improved Django model inheritance with automatic downcasting.
 - [Django Postgres Metrics](https://github.com/django-postgres-metrics/django-postgres-metrics) - Django application that exposes a bunch of PostgreSQL database metrics.
+- [django-stubs](https://github.com/typeddjango/django-stubs) - Type stubs and a custom mypy plugin to provide more precise static types and type inference for Django framework.

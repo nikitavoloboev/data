@@ -553,3 +553,11 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [ocaml-solidity](https://github.com/OCamlPro/ocaml-solidity) - Provides a Solidity parser and typechecker.
 - [Most efficient Counter (LFU Cache) in Solidity and Foundry](https://github.com/0xMisaka/Sol-MagicCounter)
 - [Ethereum Smart Contract Template](https://github.com/cleanunicorn/ethereum-smartcontract-template)
+- [memmove](https://github.com/brockelmore/memmove) - Data structures library that does memory management for you.
+- [NFT ERC721 Collection](https://github.com/hashlips-lab/nft-erc721-collection)
+- [cairo-lang-rs](https://github.com/mattsse/cairo-lang-rs) - Rust support for the Cairo programming language.
+- [Protostar](https://github.com/software-mansion/protostar) - Toolchain for developing, testing and interacting with Cairo contracts for StarkNet.
+- [Rage Trade](https://github.com/rage-trade/core) - Perpetuals on Uniswap V3.
+- [Panoramix](https://github.com/palkeo/panoramix) - Ethereum decompiler.
+- [Ethereum Formal Verification](https://github.com/leonardoalt/ethereum_formal_verification_overview) - Overview of the formal verification projects in the Ethereum ecosystem.
+- [ethereum-bloom-filters](https://github.com/joshstevens19/ethereum-bloom-filters) - Ability to check bloom filters on ethereum.

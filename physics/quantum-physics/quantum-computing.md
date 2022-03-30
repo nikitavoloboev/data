@@ -151,3 +151,4 @@
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - [Quantum Circuit Simulator](https://github.com/quantastica/quantum-circuit) - Quantum Circuit Simulator implemented in JavaScript.
 - [Quantastica](https://quantastica.com/) - Bridge between quantum and classical worlds.
+- [Scott Aaronson: Quantum Computing | Lex Fridman Podcast (2020)](https://www.youtube.com/watch?v=uX5t8EivCaM)

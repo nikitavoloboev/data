@@ -52,3 +52,4 @@
 - [European Network of Transmission System Operators for Gas](https://transparency.entsog.eu/#/map) ([Code](https://github.com/berthubert/gazproject))
 - [How did Europe become the richest part of the world?](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world) ([HN](https://news.ycombinator.com/item?id=30742048))
 - [Russia's invasion of Ukraine accelerates Europe's energy transition (2022)](https://twitter.com/ntsafos/status/1505248550975938560)
+- [Wealth Inequality and Homeownership in Europe](https://www.jstor.org/stable/10.15609/annaeconstat2009.136.0027)

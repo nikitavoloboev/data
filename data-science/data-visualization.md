@@ -140,3 +140,5 @@
 - [Datawrapper](https://www.datawrapper.de/) - Create charts, maps, and tables. ([HN](https://news.ycombinator.com/item?id=30218793))
 - [VizHub](https://vizhub.com/) - Platform for interactive graphics. ([Code](https://github.com/vizhub-core/vizhub))
 - [Hal9](https://hal9.com/) - Bring Your Data to Life. ([Code](https://github.com/hal9ai/hal9ai))
+- [Bloxs](https://github.com/mljar/bloxs) - Display your data in an attractive way in your notebook.
+- [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - Dash component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.

@@ -41,6 +41,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Cactus](https://github.com/monkeyWzr/hugo-theme-cactus) - Hugo theme for personal blog.
 - [Congo](https://github.com/jpanther/congo) - Powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [Hugo Theme Stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers.
+- [Blist](https://github.com/apvarun/blist-hugo-theme)
 
 ## Examples
 

@@ -16,3 +16,4 @@
 - [NEAR Blockchain Explorer](https://github.com/near/near-explorer)
 - [Create NEAR React App](https://github.com/near/create-near-app)
 - [Generic ERC-20/NEP-141 connector for Rainbow Bridge](https://github.com/aurora-is-near/rainbow-token-connector)
+- [NEAR API JS](https://github.com/near/near-api-js) - JavaScript/TypeScript library for development of DApps on the NEAR platform.

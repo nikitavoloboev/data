@@ -72,9 +72,11 @@ Below is a list of extensions I use.
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))
 - [Simple REST Client](https://github.com/HoangNguyen17193/vscode-simple-rest-client) - Easy to examine your API’s responses directly within Visual Studio Code. Send requests to verify your API.
 - [Postcode](https://marketplace.visualstudio.com/items?itemName=rohinivsenthil.postcode) - API client to test and create HTTP/s requests. ([Code](https://github.com/rohinivsenthil/postcode))
+- [Preview.js](https://previewjs.com/) - Preview UI components in your IDE instantly. ([Code](https://github.com/fwouts/previewjs))
 - [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer) - Run your tests in the Sidebar. ([Code](https://github.com/hbenl/vscode-test-explorer))
 - [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension.
 - [Remote Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) - Remotely browse and edit a GitHub repository. ([Article](https://code.visualstudio.com/blogs/2021/06/10/remote-repositories?WT.mc_id=devcloud-00000-cxa))
+- [Terminal Polyglot](https://github.com/haberdashPI/terminal-polyglot) - Commands for sending text to a terminal specific to the programming language of the current file.
 - [Captain Stack](https://github.com/hieunc229/copilot-clone) - Code suggestion for VSCode. Similar to Github Copilot.
 - [Code Snippet Generator](https://github.com/JohannesHa/VSCode-Code-Snippet-Generation-Extension) - Provides a similar user experience to Github CoPilot with the addition that you can select your preferred Code Generation Model.
 - [Dance](https://marketplace.visualstudio.com/items?itemName=gregoire.dance) - Kakoune-inspired key bindings for VSCode. ([Code](https://github.com/71/dance))

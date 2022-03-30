@@ -47,3 +47,4 @@
 - [ESLint, Prettier and Editorconfig shared by Netlify's Node.js projects](https://github.com/netlify/eslint-config-node)
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint.
 - [eslint_d](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet.
+- [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Additional ESLint rules for ESLint directive comments.

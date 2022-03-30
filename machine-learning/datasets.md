@@ -156,3 +156,4 @@
 - [Sniffer](https://github.com/2320sharon/Sniffer) - Lightweight Python application for sorting images in your dataset.
 - [Dataset Distillation by Matching Training Trajectories (2022)](https://georgecazenavette.github.io/mtt-distillation/) ([Code](https://github.com/GeorgeCazenavette/mtt-distillation))
 - [BeeRef](https://github.com/rbreu/beeref) - Simple Reference Image Viewer.
+- [BookSum: A Collection of Datasets for Long-form Narrative Summarization (2021)](https://arxiv.org/abs/2105.08209) ([Code](https://github.com/salesforce/booksum))

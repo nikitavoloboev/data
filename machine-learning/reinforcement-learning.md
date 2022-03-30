@@ -328,3 +328,5 @@
 - [coax](https://github.com/coax-dev/coax) - Plug-n-Play Reinforcement Learning in Python with OpenAI Gym and JAX.
 - [Implementation of Distributed Reinforcement Learning with TensorFlow](https://github.com/chagmgang/distributed_reinforcement_learning)
 - [Gold](https://github.com/aunum/gold) - Reinforcement Learning in Go.
+- [MetaGym](https://github.com/PaddlePaddle/MetaGym) - Collection of Reinforcement Learning / Meta Reinforcement Learning Environments.
+- [Melting Pot](https://github.com/deepmind/meltingpot) - Suite of test scenarios for multi-agent reinforcement learning.

@@ -96,3 +96,4 @@
 - [Accessibility for real-time web apps](https://fly.io/blog/intro-to-accessibility/)
 - [Guidance on Web Accessibility and the ADA](https://beta.ada.gov/web-guidance/)
 - [A11yAutomation](https://a11y-automation.dev/) - Tracking the available automation for accessibility. ([Code](https://github.com/MelSumner/a11y-automation))
+- [Deep Dive On Accessibility Testing](https://smashingconf.com/online-workshops/workshops/manuel-matuzovic-apr)

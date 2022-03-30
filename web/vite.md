@@ -40,3 +40,8 @@
 - [vite-plugin-dts](https://github.com/qmhc/vite-plugin-dts) - Vite plugin for generating `.d.ts` files.
 - [vite-hot-client](https://github.com/antfu/vite-hot-client) - Get Vite's import.meta.hot at runtime.
 - [vite-dev-rpc](https://github.com/antfu/vite-dev-rpc) - Remote procedure call for client-server communication in Vite plugins.
+- [Vext](https://github.com/nksaraf/vite-next) - NextJS alternative built on top of Vite, React Router, React Query.
+- [vite-plugin-glob](https://github.com/antfu/vite-plugin-glob) - Design experiment for import.meta.glob from Vite.
+- [Vitest for VSCode](https://github.com/zxch3n/vitest-explorer) - VSCode extension for vitest.
+- [vite-plugin-ssr](https://vite-plugin-ssr.com/) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin. ([Code](https://github.com/brillout/vite-plugin-ssr))
+- [vite-ssr-next-auth](https://github.com/s-kris/vite-ssr-next-auth) - Sample repo to make next-auth work with vite-plugin-ssr.

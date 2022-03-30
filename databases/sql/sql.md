@@ -1,6 +1,6 @@
 # [SQL](http://en.wikipedia.org/wiki/SQL)
 
-[dsq](https://github.com/multiprocessio/dsq) is neat.
+[dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips.
 
 ## Notes
 
@@ -175,3 +175,5 @@
 - [SQL Injection in a Parameterized Query](https://maxwelldulin.com/BlogPost?post=9185867776) ([HN](https://news.ycombinator.com/item?id=30571990))
 - [SQLreduce](https://github.com/credativ/sqlreduce) - Reduce verbose SQL queries to minimal examples.
 - [Understanding Bitemporal Data (2022)](https://www.abhinavomprakash.com/posts/understanding-bitemporal-data/)
+- [sqlfmt](http://sqlfmt.com/) - Opinionated SQL Formatter. ([Code](https://github.com/tconbeer/sqlfmt))
+- [Postgrator](https://github.com/rickbergfalk/postgrator) - PostgreSQL, MySQL, and SQL Server migration tool using plain sql scripts.

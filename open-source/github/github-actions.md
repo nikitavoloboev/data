@@ -247,6 +247,7 @@
 
 - [setup-julia](https://github.com/julia-actions/setup-julia) - Sets up a Julia environment for use in actions by downloading a specified version of Julia and adding it to PATH.
 - [RegisterAction](https://github.com/julia-actions/RegisterAction) - Register Julia packages via GitHub Actions.
+- [Julia Cache](https://github.com/julia-actions/cache) - Cache Julia artifacts, packages and (optionally) registries to reduce GitHub Actions running time.
 
 ## OCaml
 

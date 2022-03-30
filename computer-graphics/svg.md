@@ -135,3 +135,4 @@
 - [How to use SVG filters](https://garden.bradwoods.io/notes/svg-filters)
 - [Rasterx](https://github.com/srwiley/rasterx) - SVG 2.0 path compliant rasterizer that can use either the Go vector or a derivative of the freetype anti-aliaser.
 - [svg_stack](https://github.com/astraw/svg_stack) - Combine multiple SVG elements into a single SVG element.
+- [svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer.

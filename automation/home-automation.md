@@ -62,3 +62,4 @@
 - [Smart Home components (2022)](https://michael.stapelberg.ch/posts/2022-03-19-smart-home-components/)
 - [Remote Home-Assistant](https://github.com/custom-components/remote_homeassistant) - Links multiple home-assistant instances together.
 - [Houseflow](https://github.com/gbaranski/houseflow) - Home automation platform made in Rust.
+- [Garbage Collection](https://github.com/bruxy70/Garbage-Collection) - Custom Home Assistant sensor for scheduling garbage collection (or other regularly re-occurring events - weekly on given days, semi-weekly or monthly).

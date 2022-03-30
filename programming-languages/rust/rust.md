@@ -741,3 +741,4 @@
 - [Terse Rust learning material](https://github.com/oreqizer/rust-notes) - Notes I take during learning Rust from The Rust book and Rust by example.
 - [Self Modifying Code (2022)](https://matklad.github.io//2022/03/26/self-modifying-code.html)
 - [Practical course: Advanced Systems Programming in C/Rust](https://github.com/ls1-sys-prog-course/docs)
+- [Creating a new Clippy lint (Rust) (2022)](http://jamesmcm.github.io/blog/2022/03/26/my-first-clippy-lint/)

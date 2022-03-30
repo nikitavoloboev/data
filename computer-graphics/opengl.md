@@ -33,3 +33,4 @@
 - [NixGL](https://github.com/guibou/nixGL) - Wrapper tool for nix OpenGL application.
 - [TinyGL-RS](https://github.com/RoastVeg/tinygl-rs) - Bindings to TinyGL, a Small, Free and Fast Subset of OpenGL.
 - [GLyphy](https://github.com/behdad/glyphy) - Signed-distance-field (SDF) text renderer using OpenGL ES2 shading language.
+- [OpenGL/Vulkan Interop](https://github.com/nvpro-samples/gl_vk_simple_interop) - Display an image created by Vulkan compute shader, with OpenGL.

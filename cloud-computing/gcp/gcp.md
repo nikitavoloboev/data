@@ -78,3 +78,6 @@
 - [Penny Wise and Cloud Foolish (2022)](https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish) ([Lobsters](https://lobste.rs/s/yz7yjv/penny_wise_cloud_foolish))
 - [Google Compute Engine Persistent Disk CSI Driver](https://github.com/kubernetes-sigs/gcp-compute-persistent-disk-csi-driver)
 - [HarbourBridge](https://github.com/cloudspannerecosystem/harbourbridge) - Stand-alone open source tool for Cloud Spanner evaluation and migration, using data from an existing PostgreSQL, MySQL, SQL Server, Oracle or DynamoDB database.
+- [Google Kubernetes Cluster review tool](https://github.com/google/gke-policy-automation) - Validates selected GKE cluster against set of REGO policies.
+- [TPU Starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPUs.
+- [Time limited, auto-expiring group memberships for users on Google Cloud](https://github.com/salrashid123/iam_autorevoke)

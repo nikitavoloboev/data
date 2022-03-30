@@ -140,3 +140,4 @@
 - [Litebulb](https://www.litebulb.io/) - Automated coding onsite interviews for fast-growing remote teams. ([HN](https://news.ycombinator.com/item?id=30591874))
 - [Putting salary & total compensation on job ads increases traction](https://twitter.com/GergelyOrosz/status/1505083017605394433)
 - [Why income share agreements did not work out](https://twitter.com/seanlinehan/status/1505923007096700939) ([HN](https://news.ycombinator.com/item?id=30782152))
+- [Retaining Software Engineers and Engineering Managers](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers) ([Tweet](https://twitter.com/GergelyOrosz/status/1508050804795658242))

@@ -252,3 +252,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Barchart.com](https://www.barchart.com/) - Commodity, Stock, and Currency Quotes, Charts, News & Analysis. ([Fetch Data Code](https://github.com/samgozman/barchart-dot-com))
 - [stonky](https://github.com/jkwill87/stonky) - Command line dashboard for monitoring stocks.
 - [Investing books](https://www.reddit.com/r/Bogleheads/comments/tdg583/im_getting_a_book_reading_list_together_so_far_i/)
+- [Investor Math and Statistics (2022)](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)

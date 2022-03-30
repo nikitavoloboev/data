@@ -15,7 +15,7 @@
 - [Nameko](https://github.com/nameko/nameko) - Microservices framework for Python that lets service developers concentrate on application logic and encourages testability.
 - [Kore](https://kore.io/) - Easy to use web platform for C and Python.
 - [uvicorn](https://github.com/encode/uvicorn) - Lightning-fast ASGI server. ([Docs](https://www.uvicorn.org/))
-- [Flask](https://github.com/pallets/flask) - Python micro framework for building web applications. ([Docs](https://palletsprojects.com/p/flask/)) ([Flask Admin](https://github.com/flask-admin/flask-admin))
+- [Flask](https://github.com/pallets/flask) - Python micro framework for building web applications. ([Docs](https://palletsprojects.com/p/flask/)) ([Flask Admin](https://github.com/flask-admin/flask-admin)) ([Building a Full Stack Flask HTMx Application](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)) ([HN](https://news.ycombinator.com/item?id=30843275))
 - [Impacket](https://github.com/SecureAuthCorp/impacket) - Collection of Python classes for working with network protocols.
 - [instant_api](https://github.com/alexmojaki/instant_api) - Instantly create an HTTP API with automatic type conversions, JSON RPC, and a Swagger UI. Just add methods.
 - [Flask-Marshmallow](https://github.com/marshmallow-code/flask-marshmallow) - Thin integration layer for Flask and marshmallow.
@@ -51,6 +51,7 @@
 - [Minos](https://github.com/minos-framework/minos-python) - Framework which helps you create reactive microservices in Python.
 - [py_webauthn](https://github.com/duo-labs/py_webauthn) - Pythonic WebAuthn.
 - [PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
+- [aiolimiter](https://github.com/mjpieters/aiolimiter) - Efficient implementation of a rate limiter for asyncio.
 
 ## ML
 
@@ -74,7 +75,6 @@
 - [SciPy](https://github.com/scipy/scipy) - Provides many user-friendly and efficient numerical routines, such as routines for numerical integration, interpolation, optimization, linear algebra, and statistics. ([Web](https://scipy.org/scipylib/)) ([SciPy Lecture Notes](http://scipy-lectures.org/index.html)) ([HN](https://news.ycombinator.com/item?id=25682103))
 - [whylogs](https://github.com/whylabs/whylogs-python) - Profile and monitor your ML data pipeline end-to-end.
 - [jaxlie](https://github.com/brentyi/jaxlie) - Lie groups for rigid transformations & optimization in JAX.
-- [BlackJAX](https://github.com/blackjax-devs/blackjax) - Sampling library designed for ease of use, speed and modularity.
 - [Time Series Feature Extraction](https://github.com/fraunhoferportugal/tsfel) - Intuitive library to extract features from time series.
 - [Kalepy](https://github.com/lzkelley/kalepy) - Kernel Density Estimation and (re)sampling.
 - [Bodywork](https://github.com/bodywork-ml/bodywork-core) - Python framework that helps machine learning engineers run batch jobs, serve models and deploy machine learning pipelines, in containers on Kubernetes.
@@ -777,6 +777,10 @@
 - [Xeger](https://github.com/crdoconnor/xeger) - Library to generate random strings from regular expressions.
 - [Affine](https://github.com/rasterio/affine) - Matrices describing affine transformation of the plane.
 - [Traits](https://github.com/enthought/traits) - Observable typed attributes for Python classes.
+- [clean-text](https://github.com/jfilter/clean-text) - Python package for text cleaning.
+- [GetPy](https://github.com/atom-moyer/getpy) - Vectorized Python Dict/Set.
+- [H3-Pandas](https://github.com/DahnJ/H3-Pandas) - Integration of H3 with GeoPandas and Pandas.
+- [Rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator.
 
 ## Links
 
@@ -877,3 +881,4 @@
 - [filesystem_spec](https://github.com/fsspec/filesystem_spec) - Specification for pythonic filesystems.
 - [ranx](https://github.com/AmenRa/ranx) - Blazing-Fast Python Library for Ranking Evaluation and Comparison.
 - [pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - Apply a consistent format to pyproject.toml files.
+- [seqeval](https://github.com/chakki-works/seqeval) - Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...).

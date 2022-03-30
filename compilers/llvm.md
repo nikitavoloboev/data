@@ -112,3 +112,4 @@
 - [Lanai, the mystery CPU architecture in LLVM](https://q3k.org/lanai.html) ([Lobsters](https://lobste.rs/s/jtjrnc/lanai_mystery_cpu_architecture_llvm)) ([HN](https://news.ycombinator.com/item?id=30757889))
 - [RFC: Add an LLVM CAS library and experiment with fine-grained caching for builds (2022)](https://discourse.llvm.org/t/rfc-add-an-llvm-cas-library-and-experiment-with-fine-grained-caching-for-builds/59864)
 - [Apple LLVM fork](https://github.com/apple/llvm-project)
+- [LLVM Guide](https://github.com/mikeroyal/LLVM-Guide)

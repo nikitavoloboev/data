@@ -28,3 +28,4 @@
 - [Full vector calculus course with interactive videos](https://www.math.brown.edu/ysulyma/f21-math180/)
 - [multivariable calculus text with interactive 3D graphics](https://github.com/sswatson/MultivariableCalculus.tex)
 - [Introductory textbook on Ordinary Differential Equations (in Russian)](https://github.com/ischurov/odebook)
+- [Identities in Higher Calculus and Special Functions](https://fractional-calculus.com/) ([HN](https://news.ycombinator.com/item?id=30811979))

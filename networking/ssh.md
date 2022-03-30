@@ -104,3 +104,4 @@
 - [Reverse SSH](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell.
 - [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server.
 - [sshtun](https://github.com/rgzr/sshtun) - Go package that provides a SSH tunnel with port forwarding.
+- [FastSSH](https://github.com/Julien-R44/fast-ssh) - TUI that allows you to quickly connect to your services by navigating through your SSH config.

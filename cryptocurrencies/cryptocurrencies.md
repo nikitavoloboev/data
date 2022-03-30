@@ -251,3 +251,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Crypto Protocol Reading List](https://github.com/bryanhpchiang/protocol-reading-list)
 - [The Edited Latecomer’s Guide to Crypto (2022)](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#) ([HN](https://news.ycombinator.com/item?id=30804984)) ([Tweet](https://twitter.com/molly0xFFF/status/1507391218082328577))
 - [Unstoppable](https://unstoppable.money/) - Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. ([iOS Code](https://github.com/horizontalsystems/unstoppable-wallet-ios))
+- [Synapse](https://synapseprotocol.com/landing) - DeFi's Multi-Chain Bridge.

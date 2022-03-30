@@ -47,3 +47,5 @@
 - [Azure Cosmos TLA+ specifications](https://github.com/Azure/azure-cosmos-tla)
 - [State Machines in TLA+](https://lamport.azurewebsites.net/video/video2-script.pdf)
 - [Pirouette](https://github.com/tweag/pirouette) - Semi-automatic code extraction tool. It extracts a TLA+ specification from a Plutus Mealy Machine.
+- [TLA+ in TiDB](https://github.com/pingcap/tla-plus)
+- [Dockerfile for building the TLA+ tools](https://github.com/talex5/tla)

@@ -63,3 +63,6 @@
 - [slackstatus](https://github.com/pteich/slackstatus) - Simple CLI tool and Go library to post formatted status messages to a Slack channel.
 - [Nice Slack apps/bots to add (2022)](https://twitter.com/coreyhainesco/status/1503521371267088387)
 - [Slack's Secret STDERR Messages (2021)](https://www.brendangregg.com/blog/2021-08-27/slack-crashes-secret-stderr.html)
+- [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging and web API client in Elixir.
+- [Stabilize, Modularize, Modernize: Scaling Slack’s Mobile Codebases (2022)](https://slack.engineering/stabilize-modularize-modernize-scaling-slacks-mobile-codebases-2/)
+- [Collaborate with kindness: Etiquette tips in Slack (2022)](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack) ([HN](https://news.ycombinator.com/item?id=30835070))

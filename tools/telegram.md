@@ -197,3 +197,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Async MTProto Proxy](https://github.com/alexbers/mtprotoproxy) - Fast and simple to setup MTProto proxy written in Python.
 - [MTCute](https://github.com/mtcute/mtcute) - Library for MTProto in TypeScript.
 - [Telegram Payment Bots in 2022](https://blog.invitemember.com/telegram-payment-bots-guide/)
+- [InviteMember Blog](https://blog.invitemember.com/) - Telegram Subscription Business Resource.

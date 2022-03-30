@@ -192,7 +192,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [NextJS CMS Ghost](https://github.com/styxlab/next-cms-ghost) - Publish fast blogs with Next.js and Ghost CMS.
 - [Tech Blog Recommendations](https://wolchok.org/reading/)
 - [Interesting Blogs List](https://github.com/xplosionmind/tommi.space/blob/main/_notes/public/Blogroll.md)
-- [Blog Surf](https://blogsurf.io/) - Directory of Personal Blogs, includes search option.
+- [Blog Surf](https://blogsurf.io/) - Directory of Personal Blogs, includes search option. ([HN](https://news.ycombinator.com/item?id=30844149))
 - [Blogosphere](https://bilbof.com/blogosphere) - Discover independent technical blogs. ([HN](https://news.ycombinator.com/item?id=26684792))
 - [If you have to create a blog in 2021, what's your choice?](https://twitter.com/nachoiacovino/status/1381258237186572291)
 - [How I Built my Blog using MDX, Next.js, and React (2021)](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)

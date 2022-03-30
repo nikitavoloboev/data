@@ -122,3 +122,4 @@
 - [A Specification of a Note-Taking Program (2022)](https://blog.zdsmith.com/posts/a-specification-of-a-note-taking-program.html) ([Lobsters](https://lobste.rs/s/bqw6g1/specification_note_taking_program))
 - [A Survey on Automated Fact-Checking (2021)](https://arxiv.org/abs/2108.11896) ([Code](https://github.com/Cartus/Automated-Fact-Checking-Resources))
 - [Pantagruel](https://github.com/subsetpark/pantagruel) - Program specification language with a formal syntax and ad-hoc semantics. ([Lobsters](https://lobste.rs/s/xkth5p/pantagruel_v0_5_1))
+- [VerifAI](https://github.com/BerkeleyLearnVerify/VerifAI) - Software toolkit for the formal design and analysis of systems that include artificial intelligence (AI) and machine learning (ML) components.

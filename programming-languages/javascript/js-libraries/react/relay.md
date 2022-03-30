@@ -2,6 +2,8 @@
 
 > Production-ready GraphQL client for React
 
+Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextjs).
+
 ## Notes
 
 - [Relay is about declaring per-component data dependencies that can be composed bottom-up into a single query for a route.b](https://twitter.com/andrewingram/status/1464000899731402757)

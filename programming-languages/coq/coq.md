@@ -129,3 +129,4 @@
 - [Bonak](https://github.com/artagnon/bonak) - Research project that formalizes semi-cubical types in Coq.
 - [Imp: Simple Imperative Programs](https://softwarefoundations.cis.upenn.edu/lf-current/Imp.html)
 - [Monadic Coq Compiler](https://github.com/mit-pdos/mcqc) - Alternative Coq compiler, by extraction to C++17. Written in Haskell.
+- [Noq](https://github.com/tsoding/Noq) - Simple expression transformer that is not Coq.

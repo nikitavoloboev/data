@@ -673,3 +673,6 @@
 - [jsPolicy](https://github.com/loft-sh/jspolicy) - Easier & Faster Kubernetes Policies using JavaScript or TypeScript.
 - [Furiko](https://github.com/furiko-io/furiko) - Cloud-native, enterprise-level cron and adhoc job platform for Kubernetes.
 - [Kubernetes Opex Analytics](https://github.com/rchakode/kube-opex-analytics) - Kubernetes Usage Analytics and Accounting for Cost Allocation and Capacity Planning.
+- [lifecycle-manager](https://github.com/keikoproj/lifecycle-manager) - Graceful AWS scaling event on Kubernetes using lifecycle hooks.
+- [Koordinator](https://github.com/koordinator-sh/koordinator) - QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.
+- [KubeView](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer.

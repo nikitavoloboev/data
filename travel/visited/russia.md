@@ -539,3 +539,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Putin's Way (full documentary) (2022)](https://www.youtube.com/watch?v=NIgqhU4lkgo)
 - [25 лет спустя: кто убил главную звезду нового русского ТВ?](https://www.youtube.com/watch?v=Txv1m5GA8zU)
 - [How sanctions are killing Russia (2022)](https://twitter.com/kamilkazani/status/1507819508609679364)
+- [Russia's North Korea future scenario (2022)](https://twitter.com/kamilkazani/status/1508576670587895810)
+- [Faridaily Blog](https://faridaily.substack.com/) - Covers Russia.
+- [Russia's journalists that moved after ban (2022)](https://meduza.io/en/slides/after-the-fall)

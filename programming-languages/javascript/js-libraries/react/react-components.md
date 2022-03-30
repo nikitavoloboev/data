@@ -283,6 +283,9 @@
 - [React Arborist](https://github.com/brimdata/react-arborist) - Sortable, virtual, customizable tree component for React. ([HN](https://news.ycombinator.com/item?id=30759358))
 - [Stream Chat React SDK](https://github.com/GetStream/stream-chat-react) - React components for Stream Chat, a service for building chat applications.
 - [Allotment](https://github.com/johnwalley/allotment) - React split-pane component.
+- [react-helmet-async](https://github.com/staylor/react-helmet-async) - Thread-safe Helmet for React 16+ and friends.
+- [compose-providers](https://github.com/SevenOutman/compose-providers) - Compose your React provider components to avoid boilerplates.
+- [GitLanding](https://github.com/thieryw/gitlanding) - Create a beautiful landing page for your GitHub projects.
 
 ## Links
 

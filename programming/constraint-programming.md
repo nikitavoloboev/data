@@ -8,3 +8,4 @@
 - [How to build a constraint solver?](https://opensourc.es/blog/constraint-solver-1/)
 - [CPMpy](https://github.com/CPMpy/cpmpy) - Constraint Programming and Modeling library in Python, based on numpy, with direct solver access. ([Talk](https://www.youtube.com/watch?v=A4mmmDAdusQ))
 - [LUME Kiwi](https://github.com/lume/kiwi) - Fast TypeScript implementation of the Cassowary constraint solving algorithm, based on the seminal Cassowary paper.
+- [Conjure](https://github.com/conjure-cp/conjure) - Automated modelling tool for Constraint Programming.

@@ -44,3 +44,4 @@
 - [Как не надо давать показания](http://www.apn-spb.ru/opinions/print13278.htm)
 - [Openlaws.com](https://openlaws.com/) - Legal Search Engine.
 - [court-scraper](https://github.com/biglocalnews/court-scraper) - Scrapers for U.S. county court sites.
+- [Justice Stevens reads the fine print (2022)](https://matthewbutterick.com/chron/justice-stevens-reads-the-fine-print.html) ([HN](https://news.ycombinator.com/item?id=30838572))

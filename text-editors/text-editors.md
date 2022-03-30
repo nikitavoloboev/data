@@ -61,7 +61,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Opus](https://github.com/pacocoursey/Opus) - Minimal note-taking app.
 - [React Oxide](https://github.com/bootrino/reactoxide) - open source ReactJS code editor with tabs, files & webDAV. ([HN](https://news.ycombinator.com/item?id=28702006))
 - [Tincta](https://github.com/CodingFriends/Tincta) - Free text editor for Mac with focus on speed, stability and ease of use.
-- [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust.
+- [Zee](https://github.com/mcobzarenco/zee) - Modern text editor for the terminal written in Rust. ([HN](https://news.ycombinator.com/item?id=30850652))
 - [Glyph](https://github.com/zackradisic/glyph) - Personal code editor built with Rust + OpenGL.
 - [freja](https://github.com/saikyun/freja) - Self-modifiable text editor implemented in Janet.
 - [Lapce](https://github.com/lapce/lapce) - Open source code editor inspired by Xi-editor. ([HN](https://news.ycombinator.com/item?id=29549173)) ([Reddit](https://www.reddit.com/r/rust/comments/rg3k9o/lightningfast_and_powerful_code_editor_written_in/)) ([Web](https://lapce.dev/)) ([Reddit](https://www.reddit.com/r/rust/comments/t550wy/lapce_open_source_code_editor_inspired_by_xieditor/)) ([HN](https://news.ycombinator.com/item?id=30708505))
@@ -81,6 +81,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Graviton Editor](https://graviton.netlify.app/) - Code Editor, for Desktop or as server service. ([Code](https://github.com/Graviton-Code-Editor/Graviton-App))
 - [Monaco Editor Components](https://github.com/TypeFox/monaco-components) - Lit components for Monaco Editor.
 - [Smith](https://github.com/IGI-111/Smith) - Simple text editor written in Rust.
+- [Kisa](https://github.com/greenfork/kisa) - Hackable and batteries-included text editor of the new world.
 
 ## Web
 

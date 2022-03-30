@@ -118,3 +118,5 @@
 - [What makes Ruby's blocks great (2022)](https://maxlap.dev/blog/2022/02/10/what-makes-ruby-blocks-great.html)
 - [How to make a templating language in ruby](https://dorianmarie.fr/template/1.html) ([Lobsters](https://lobste.rs/s/nzjf01/how_make_templating_language_part_1))
 - [ruby.wasm](https://github.com/kateinoigakukun/ruby.wasm) - Collection of WebAssembly ports of the CRuby.
+- [Fisk](https://github.com/tenderlove/fisk) - Pure Ruby assembler.
+- [Parser](https://github.com/whitequark/parser) - Ruby parser.

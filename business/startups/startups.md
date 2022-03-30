@@ -4,6 +4,8 @@
 
 > The best startup book is one you never open because you're too busy marketing and building your product.
 
+[YC Startup Directory](https://www.ycombinator.com/companies) is a nice thing to go over to get inspired for things to build.
+
 ## Notes
 
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.
@@ -179,7 +181,7 @@
 - [YC Startup Resources](https://www.ycombinator.com/resources/)
 - [Ask HN: How to Do a Startup in 2020?](https://news.ycombinator.com/item?id=22375567)
 - [Hard Startups (2020)](https://blog.samaltman.com/hard-startups) ([HN](https://news.ycombinator.com/item?id=22425745))
-- [YC Companies](https://www.ycombinator.com/companies/)
+- [YC Startup Directory](https://www.ycombinator.com/companies/)
 - [Failory](https://www.failory.com/) - Content to help you build a profitable startup. ([Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)) ([HN](https://news.ycombinator.com/item?id=24733189))
 - [You don’t need to work on hard problems (2020)](https://www.benkuhn.net/hard/) ([HN](https://news.ycombinator.com/item?id=22398118)) ([HN](https://news.ycombinator.com/item?id=28206991))
 - [Free Resources for Indie SaaS Devs](https://blog.saasify.sh/indie-saas-resources/)

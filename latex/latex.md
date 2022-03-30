@@ -119,3 +119,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [biblatex](https://github.com/plk/biblatex) - Sophisticated bibliography system for LaTeX users.
 - [CircuiTikZ](https://github.com/circuitikz/circuitikz) - CircuiTikZ TeX/LaTeX package for drawing circuits.
 - [tikzsd](https://github.com/anthonyywangmath/tikzsd) - Haskell program used to generate LaTeX code for string diagrams.
+- [pix2tex](https://github.com/lukas-blecher/LaTeX-OCR) - Using a ViT to convert images of equations into LaTeX code.

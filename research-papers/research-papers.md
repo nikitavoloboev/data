@@ -158,7 +158,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Papers I read](https://github.com/shagunsodhani/papers-I-read)
 - [Sci Hub Injector](https://github.com/rickwierenga/sci-hub-injector) - Adds SciHub links to popular publisher websites. ([HN](https://news.ycombinator.com/item?id=29954046))
 - [tl;dr papers](https://www.tldrpapers.com/) - Science abstracts a second grader can understand.
-- [ar5iv](https://ar5iv.labs.arxiv.org/) - Articles from arXiv.org as responsive HTML5 web documents. ([Code](https://github.com/dginev/ar5iv))
+- [ar5iv](https://ar5iv.labs.arxiv.org/) - Articles from arXiv.org as responsive HTML5 web documents. ([Code](https://github.com/dginev/ar5iv)) ([HN](https://news.ycombinator.com/item?id=30835784))
 - [I read the top 100 scientific papers of all time (2022)](https://www.youtube.com/watch?v=4sLWRScmfH0) ([HN](https://news.ycombinator.com/item?id=30654870))
 - [arXiv.wiki](https://arxiv.wiki/) - Place for notes and summaries of arXiv.org papers. ([Code](https://github.com/arxivwiki/arxivwiki))
 - [Sci-Hub statistics and database](https://sci-hub.ru/database) ([HN](https://news.ycombinator.com/item?id=30314601))
@@ -171,3 +171,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Find and edit CSL citation styles](https://editor.citationstyles.org/about/)
 - [Arxiv Sanity RSS Feeds](https://github.com/dend/arxiv-sanity-feeds) - Subscribe to the content published on Arxiv Sanity.
 - [Which academics write beautifully](https://twitter.com/jilltxt/status/1507791232789008391)
+- [The arXiv of the future will not look like the arXiv (2022)](https://ar5iv.labs.arxiv.org/html/1709.07020) ([HN](https://news.ycombinator.com/item?id=30834395))

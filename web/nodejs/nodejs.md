@@ -344,3 +344,5 @@
 - [proxy-chain](https://github.com/apify/proxy-chain) - Programmable HTTP proxy server for Node.js.
 - [Node-convict](https://github.com/mozilla/node-convict) - Featureful configuration management library for Node.js.
 - [Tao of Node - Design, Architecture & Best Practices (2022)](https://alexkondov.com/tao-of-node/)
+- [node-bluetooth](https://github.com/song940/node-bluetooth) - Bluetooth serial port communication for Node.js.
+- [DeAsync.js](https://github.com/abbr/deasync) - Turns async function into sync via JavaScript wrapper of Node event loop.

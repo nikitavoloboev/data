@@ -63,7 +63,7 @@
 - [OpenSCAD](https://openscad.org/) - Programmers Solid 3D CAD Modeller. ([Code](https://github.com/openscad/openscad/)) ([10 ways to get the best out of OpenSCAD](https://calbryant.uk/blog/10-ways-to-get-the-best-out-of-openscad/))
 - [Luma AI](https://lumalabs.ai/) - Make 3D models as easy as waving a phone around. ([Twitter](https://twitter.com/LumaLabsAI)) ([Tweet](https://twitter.com/mikecurtis/status/1455222329533812741))
 - [SetPose](https://setpose.com/) - Free Interactive 3D Model for Drawing Figures, Dynamic Poses, and More.
-- [Fornjot](https://github.com/hannobraun/fornjot) - Experimental CAD system.
+- [Fornjot](https://github.com/hannobraun/fornjot) - Experimental CAD system. ([Web](https://www.fornjot.app/)) ([HN](https://news.ycombinator.com/item?id=30825429))
 - [3D printed mirror array](https://github.com/bencbartlett/3D-printed-mirror-array) ([HN](https://news.ycombinator.com/item?id=29191918))
 - [replicad](https://github.com/sgenoud/replicad) - Library to build browser based 3D models with code.
 - [The Lucid Motors Configurator is A Video Game Streaming to Your Browser (2021)](https://blog.skz.dev/lucid-configurator-is-a-streaming-video-game)
@@ -76,3 +76,5 @@
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural, node-based modelling tool, made in rust.
 - [Plasticity](https://github.com/nkallen/plasticity) - 3D modelling software for concept artists. ([HN](https://news.ycombinator.com/item?id=30695360))
 - [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
+- [SolveSpace](https://solvespace.com/index.pl) - Parametric 2D/3D CAD. ([Code](https://github.com/solvespace/solvespace))
+- [DEODR](https://github.com/martinResearch/DEODR) - Differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces.

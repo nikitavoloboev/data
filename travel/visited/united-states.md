@@ -1,6 +1,6 @@
 # United States
 
-Hope USA stops [repressing journalists](https://twitter.com/wikileaks/status/1475164511766294529).
+Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614736132603909) for speaking the truth.
 
 ## Notes
 

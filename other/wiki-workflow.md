@@ -396,7 +396,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [emanote](https://github.com/srid/emanote) - Spiritual successor to neuron, based on Ema. Create beautiful websites like wikis. ([Web](https://note.ema.srid.ca/))
 - [Joplin](https://joplinapp.org/) - Open source note taking and to-do application with synchronisation capabilities. ([Code](https://github.com/laurent22/joplin))
 - [Dedicated hardware for note taking](https://twitter.com/jessmartin/status/1365290998243409922)
-- [Nota](https://nota.md/) - Pro writing app designed for local Markdown files. ([Reddit](https://www.reddit.com/r/macapps/comments/o0gu2j/nota_pro_writing_app_designed_for_local_markdown/))
+- [Nota](https://nota.md/) - Pro writing app designed for local Markdown files. ([Reddit](https://www.reddit.com/r/macapps/comments/o0gu2j/nota_pro_writing_app_designed_for_local_markdown/)) ([Issues](https://github.com/notaapp/nota/issues))
 - [Note Taking in 2021](http://blog.dornea.nu/2021/06/13/note-taking-in-2021/) ([HN](https://news.ycombinator.com/item?id=27513008))
 - [Fuzzynote (fzn)](https://github.com/Sambigeara/fuzzynote) - Terminal-based, CRDT-backed, collaborative note-taking. ([HN](https://news.ycombinator.com/item?id=27606604))
 - [My approach to taking notes in meetings (2021)](https://blog.witful.com/how-i-take-notes-in-meetings/) ([HN](https://news.ycombinator.com/item?id=27664419))

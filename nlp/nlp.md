@@ -1,6 +1,6 @@
 # Natural language processing
 
-[spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. Reading [Natural Language Processing with Transformers Book](https://transformersbook.com/).
+[spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
 ## Notes
 
@@ -312,7 +312,7 @@
 - [MLP GPT - Jax](https://github.com/lucidrains/mlp-gpt-jax) - GPT, made only of MLPs, in Jax.
 - [Few-Shot Question Answering by Pretraining Span Selection (2021)](https://arxiv.org/abs/2101.00438) ([Code](https://github.com/oriram/splinter))
 - [Neural Extractive Search (2021)](https://arxiv.org/abs/2106.04612) ([Demo](https://spike.neural-sim.apps.allenai.org/datasets))
-- [Hugging Face NLP Course](https://huggingface.co/course/)
+- [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) ([Code](https://github.com/huggingface/course))
 - [SentencePiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685) ([Code](https://github.com/microsoft/LoRA))
 - [PromptPapers](https://github.com/thunlp/PromptPapers) - Must-read papers on prompt-based tuning for pre-trained language models.
@@ -506,3 +506,6 @@
 - [Fundamentals of NLP](https://github.com/dair-ai/nlp_fundamentals) - Series of hands-on notebooks for learning the fundamentals of NLP.
 - [BertViz](https://github.com/jessevig/bertviz) - Visualize Attention in Transformer Models (BERT, GPT2, BART, etc.).
 - [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) ([Code](https://github.com/bkoch4142/attention-is-all-you-need-paper))
+- [Word2Vec Explained. Explaining the Intuition of Word2Vec (2021)](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71) ([HN](https://news.ycombinator.com/item?id=30820299))
+- [imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow.
+- [Linking Emergent and Natural Languages via Corpus Transfer (2022)](https://github.com/ysymyth/ec-nl)

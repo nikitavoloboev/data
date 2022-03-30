@@ -104,6 +104,11 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Find You](https://github.com/positive-security/find-you) - Stealth AirTag clone that bypasses all of Apple's tracking protection features. ([HN](https://news.ycombinator.com/item?id=30417303))
 - [Neeva iOS Browser](https://github.com/neevaco/neeva-ios)
 - [SwiftUI Widgets Fitness](https://github.com/marioeguiluz/swiftui-widgets-fitness) - Example project with SwiftUI, Combine and Widgets, using Apple Fitness app UI as the base.
+- [Infinite Canvas](https://github.com/simonbs/InfiniteCanvas) - Infinite canvas using PencilKit.
+- [Logger](https://github.com/nathanborror/logger) - Quickly send messages to yourself as a means of fast note taking.
+- [Bean Juice](https://github.com/NiftyTreeStudios/Bean-Juice) - Simple app for coffee brewing recipes.
+- [Ladybug](https://github.com/ethanhuang13/ladybug) - Simple iOS app handles Radar links (rdar://) gracefully.
+- [Falcon Messenger](https://github.com/RMizin/FalconMessenger) - Messaging app. With iOS and IPadOS Support.
 
 ## Other
 
@@ -418,7 +423,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [This Week in Glean: Building and Deploying a Rust library on iOS (2022)](https://fnordig.de/2022/01/31/rust-libraries-on-ios/)
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser.
 - [Clutch](https://github.com/KJCracks/Clutch) - High-speed iOS decryption tool.
-- [Туториалы для iOS разработчиков](https://sparrowcode.io/ru)
+- [Туториалы для iOS разработчиков](https://sparrowcode.io/en) ([Russian](https://sparrowcode.io/ru))
 - [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x (2022)](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92) ([Code](https://github.com/ronanociosoig/TuistHavana))
 - [iOS kernel heap memory profiler](https://github.com/parsdefense/ios-kernel-heap-profiler) - Watch your iOS kernel heap live as you groom it.
 - [Advanced iOS App Architecture Book](https://www.raywenderlich.com/books/advanced-ios-app-architecture)
@@ -431,3 +436,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Useful iOS dev tools (2022)](https://twitter.com/onmyway133/status/1504487749901905928)
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices. ([Web](https://libimobiledevice.org/))
 - [WWDC Session Notes](https://github.com/HARlBO/WWDC)
+- [PlaybookAccessibilitySnapshot](https://github.com/playbook-ui/accessibility-snapshot-ios) - Library for generating snapshot images of components managed by Playbook with accessibility labels.

@@ -89,3 +89,4 @@
 - [pqrs](https://github.com/manojkarthick/pqrs) - Command line tool for inspecting Parquet files.
 - [Kestra](https://kestra.io/) - Infinitely scalable open source orchestration & scheduling platform. ([Code](https://github.com/kestra-io/kestra)) ([HN](https://news.ycombinator.com/item?id=30790047))
 - [TiFlash](https://github.com/pingcap/tiflash) - Analytical engine for TiDB.
+- [Streamify](https://github.com/ankurchavda/streamify) - Data pipeline with Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP and much more.

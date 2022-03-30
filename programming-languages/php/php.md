@@ -35,3 +35,4 @@
 - [PHP: The Right Way](https://phptherightway.com/) - Easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web. ([Code](https://github.com/codeguy/php-the-right-way)) ([HN](https://news.ycombinator.com/item?id=30219984))
 - [PHP-UP](https://github.com/masan4444/phpup) - Cross-Platform PHP version manager.
 - [Modern PHP (2022)](https://dnlytras.com/blog/modern-php/) ([HN](https://news.ycombinator.com/item?id=30786927))
+- [NoVerify](https://github.com/VKCOM/noverify) - Fast linter (code static analysis utility) for PHP.

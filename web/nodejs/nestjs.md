@@ -33,3 +33,4 @@
 - [Prisma 2 Impressions with NestJS (2021)](https://www.youtube.com/watch?v=Aq1U_Ku8Jig)
 - [NestJs JWT - Access Tokens & Refresh Tokens (2021)](https://www.youtube.com/watch?v=uAKzFhE3rxU)
 - [Terminus NestJS](https://github.com/nestjs/terminus)
+- [NestJS-Spelunker](https://github.com/jmcdo29/nestjs-spelunker) - NestJS Module for generating a NestJS Applications Module Dependency Graph.

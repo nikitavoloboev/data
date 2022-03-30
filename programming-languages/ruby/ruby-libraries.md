@@ -30,6 +30,10 @@
 
 - [Impersonator](https://github.com/jorgemanrubia/impersonator) - Ruby library to record and replay object interactions.
 
+## GraphQL
+
+- [GraphQL Ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
+
 ## Other
 
 - [ruby-macho](https://github.com/Homebrew/ruby-macho) - Ruby library for examining and modifying Mach-O files.

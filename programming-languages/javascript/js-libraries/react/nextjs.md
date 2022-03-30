@@ -69,6 +69,8 @@
 - [next-markdown](https://github.com/frouo/next-markdown) - Easily generate pages from markdown files in any Next.js project.
 - [THUBurrow](https://github.com/BobAnkh/THUBurrow) - Forum built by Next.js and Rocket.
 - [Materio](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Powerful & Comprehensive free Next.js React admin template based on MUI.
+- [Irvan Malik's NextJS Blog](https://github.com/irvanmalik48/blog)
+- [Image Gallery with Next.js, Supabase, and Tailwind CSS](https://github.com/leerob/image-gallery-supabase-tailwind-nextjs)
 
 ## NextJS plugins
 
@@ -336,3 +338,5 @@
 - [Upgrading Next.js for instant performance improvements (2022)](https://vercel.com/blog/upgrading-nextjs-for-instant-performance-improvements)
 - [Nexus](https://github.com/oslabs-beta/Nexus) - NextJS VScode extension to visualize component tree. ([Web](https://nexus-js.com/)) ([Intro](https://levelup.gitconnected.com/introducing-nexus-a-component-tree-visualizer-for-next-js-1109f31e118e))
 - [Building a Marketing Platform with Next.js, Cloudflare, & Contentful (2022)](https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/)
+- [Building an Image Gallery with Next.js, Supabase, and Tailwind CSS](https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs) ([Tweet](https://twitter.com/leeerob/status/1508448572903198724))
+- [Vercel Style Guide](https://github.com/vercel/style-guide) - Home of Vercel's style guide, which includes configs for popular linting and styling tools.

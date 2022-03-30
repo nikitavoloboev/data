@@ -34,7 +34,7 @@
 - [Flypitch](https://github.com/flypitch/flypitch) - Formal proof of the independence of the continuum hypothesis. ([Web](https://flypitch.github.io/))
 - [Monadic parser combinators, in Lean](https://github.com/jesse-michael-han/lean-parser-combinators)
 - [elan](https://github.com/Kha/elan) - Lean version manager.
-- [Lean Community](https://leanprover-community.github.io/)
+- [Lean Community](https://leanprover-community.github.io/) ([Code](https://github.com/leanprover-community/leanprover-community.github.io))
 - [Simple ray tracer in Lean 4](https://github.com/kmill/lean4-raytracer) ([HN](https://news.ycombinator.com/item?id=25987949))
 - [Ground Zero](https://github.com/groupoid/lean) - Provides computable HITs, variation of Cubical Type Theory using them, and some other math.
 - [Lean HOL](https://github.com/nyuichi/LeanHOL) - Tiny implementation of higher-order logic proof assistant in lean.

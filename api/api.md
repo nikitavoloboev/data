@@ -2,6 +2,8 @@
 
 [Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs.
 
+[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs.
+
 ## Other
 
 - [OpenAI API](https://openai.com/api/)

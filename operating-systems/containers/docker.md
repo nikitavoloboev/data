@@ -213,3 +213,7 @@
 - [OCI Image Builder](https://github.com/openshift/imagebuilder) - Builds Dockerfile using the Docker client (with squashing! and secrets!).
 - [Running GUI apps within Docker containers (2022)](https://www.trickster.dev/post/running-gui-apps-within-docker-containers/) ([HN](https://news.ycombinator.com/item?id=30810410))
 - [`COPY –chmod` reduced the size of my container image by 35% (2022)](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/) ([HN](https://news.ycombinator.com/item?id=30808945)) ([Lobsters](https://lobste.rs/s/6i3lci/copy_chmod_reduced_size_my_container)) ([Reddit](https://www.reddit.com/r/programming/comments/toptrr/copy_chmod_reduced_the_size_of_my_container_image/))
+- [Automation with Docker for CI/CD Workflows](https://github.com/BretFisher/allhands22) - GitHub Actions automation examples with Docker.
+- [Docker optimization guide: 8 tricks to optimize your Docker image size (2022)](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)
+- [Good Karma Kit](https://github.com/ArchiveBox/good-karma-kit) - Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more. ([HN](https://news.ycombinator.com/item?id=30830808))
+- [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Allows using docker containers for functional and integration testing.

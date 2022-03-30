@@ -109,3 +109,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [fzf](https://github.com/junegunn/fzf) - Fommand-line fuzzy finder. ([HN](https://news.ycombinator.com/item?id=30736518))
 - [Making the command line glamorous with Toby Padilla (2022)](https://changelog.com/gotime/222)
 - [septum](https://github.com/pyjarrett/septum) - Context-based code search tool.
+- [has](https://github.com/kdabir/has) - Checks presence of various command line tools and their versions on the path.
+- [Fig Manual Pages](https://fig.io/manual) - Beautiful, community-driven documentation for 300+ CLI tools.
+- [csvlens](https://github.com/YS-L/csvlens) - CSV file viewer in the command line.
+- [Difftastic](https://github.com/Wilfred/difftastic) - Diff tool that compares files based on their syntax. ([HN](https://news.ycombinator.com/item?id=30841244))

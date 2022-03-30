@@ -145,3 +145,5 @@
 - [colo](https://github.com/Aloso/colo) - Displays colors in various color spaces.
 - [Simpler Color](https://github.com/arnelenero/simpler-color) - Create your own complete color system fast and easy. ([HN](https://news.ycombinator.com/item?id=30694354))
 - [Meshed Up](https://meshedup.dev/) - Collection of multi-color vectors for web developers and digital designers.
+- [Chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
+- [Colour](https://github.com/colour-science/colour) - Python package providing a comprehensive number of algorithms and datasets for color science.

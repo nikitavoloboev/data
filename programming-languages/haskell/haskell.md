@@ -395,5 +395,7 @@
 - [Thoughts on bootstrapping GHC (2018)](https://www.joachim-breitner.de/blog/748-Thoughts_on_bootstrapping_GHC)
 - [Filtering Unique Items from Heterogeneous Lists at Compile Time (2022)](https://blog.galowicz.de/2022/03/20/unique-heterogeneous-typelists/)
 - [Haskell Adventures: digging into the declarative approach (2022)](https://dmitrytsepelev.dev/haskell-adventures) ([Reddit](https://www.reddit.com/r/haskell/comments/tkpt4c/im_a_rubyist_and_try_to_learn_haskellheres_my/))
-- [Algebraic Data Types in Haskell (2022)](https://serokell.io/blog/algebraic-data-types-in-haskell)
+- [Algebraic Data Types in Haskell (2022)](https://serokell.io/blog/algebraic-data-types-in-haskell) ([HN](https://news.ycombinator.com/item?id=30810769))
 - [Great Haskell code bases to study (2022)](https://twitter.com/hillelogram/status/1507806325304172546)
+- [Functional Programming for Physics Geeks (2022)](https://nostarch.com/functional-programming-physics-geeks) ([Reddit](https://www.reddit.com/r/haskell/comments/tpsbti/new_early_access_book_functional_programming_for/))
+- [More thoughts on the Expression Problem in Haskell (2018)](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)

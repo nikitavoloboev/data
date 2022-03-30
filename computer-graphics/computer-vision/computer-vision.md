@@ -643,3 +643,16 @@
 - [Out-of-Domain Human Mesh Reconstruction via Dynamic Bilevel Online Adaptation (2021)](https://arxiv.org/abs/2111.04017) ([Code](https://github.com/syguan96/DynaBOA))
 - [Layered Neural Atlases for Consistent Video Editing (2021)](https://arxiv.org/abs/2109.11418) ([Code](https://github.com/ykasten/layered-neural-atlases))
 - [TDAN: Temporally-Deformable Alignment Network for Video Super-Resolution (2020)](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)
+- [Shape from Polarization for Complex Scenes in the Wild (2022)](https://chenyanglei.github.io/sfpwild/index.html) ([Code](https://github.com/ChenyangLEI/sfp-wild))
+- [Pix2Seq](https://github.com/google-research/pix2seq) - General framework for turning RGB pixels into semantically meaningful sequences.
+- [Gait Recognition in the Wild with Dense 3D Representations and A Benchmark (2022)](https://gait3d.github.io/) ([Code](https://github.com/Gait3D/Gait3D-Benchmark))
+- [Ensembling Hugging Face Transformers made easy](https://github.com/jaketae/ensemble-transformers)
+- [Relational Knowledge Distillation (2019)](https://arxiv.org/abs/1904.05068) ([Code](https://github.com/lenscloth/RKD))
+- [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM (2021)](https://arxiv.org/abs/2112.12130) ([Code](https://github.com/cvg/nice-slam))
+- [Neural 3D Mesh Renderer (2017)](https://arxiv.org/abs/1711.07566) ([Code](https://github.com/daniilidis-group/neural_renderer))
+- [Large-scale Bilingual Language-Image Contrastive Learning (2022)](https://arxiv.org/abs/2203.14463) ([Code](https://github.com/navervision/KELIP))
+- [OpenMVG](https://github.com/openMVG/openMVG) - Open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+- [Neural Points: Point Cloud Representation with Neural Fields (2021)](https://arxiv.org/abs/2112.04148) ([Code](https://github.com/WanquanF/NeuralPoints))
+- [OpenCV JS Web Worker](https://github.com/vinissimus/opencv-js-webworker) - Getting started with OpenCV compiled to Webassembly and loaded in a worker.
+- [Learning Graph Regularisation for Guided Super-Resolution (2022)](https://arxiv.org/abs/2203.14297) ([Code](https://github.com/prs-eth/graph-super-resolution))
+- [Video Polyp Segmentation: A Deep Learning Perspective (2022)](https://arxiv.org/abs/2203.14291) ([Code](https://github.com/GewelsJI/VPS))

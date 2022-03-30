@@ -1,5 +1,7 @@
 # France
 
+France has some [beautiful songs](https://open.spotify.com/track/5oDNfTnNClOyD40Nu6iFQG).
+
 ## Links
 
 - [France for Alien Visitors](https://www.reddit.com/r/france/wiki/etrangers)

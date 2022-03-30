@@ -169,3 +169,5 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [The Production Board](https://www.tpb.co/) - Reimagining systems of production across key markets.
 - [The Hidden Life of Trees: What They Feel, How They Communicate (2018)](https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/) ([HN](https://news.ycombinator.com/item?id=30738120))
 - [Awesome Sustainability Jobs](https://github.com/pogopaule/awesome-sustainability-jobs)
+- [We can do better than “same, but electric” (2022)](https://climateer.substack.com/p/better-than-fossil) ([HN](https://news.ycombinator.com/item?id=30838132))
+- [Climate Change 2022: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)

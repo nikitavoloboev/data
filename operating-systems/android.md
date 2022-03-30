@@ -15,6 +15,7 @@
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - Quotes Application built to Demonstrate use of Jetpack Compose with Modern Android Architecture Components & MVVM Architecture.
 - [CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime.
 - [HTTP Shortcuts for Android](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests.
+- [TikTok Clone](https://github.com/Andre-max/TikTok-Clone) - Beautifully designed replica of the famous and trending TikTok app.
 
 ## Links
 
@@ -62,3 +63,4 @@
 - [SoLoader](https://github.com/facebook/SoLoader) - Native code loader for Android.
 - [dadb](https://github.com/mobile-dev-inc/dadb) - Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server. ([Article](https://blog.mobile.dev/our-first-open-source-project-54cd8edc452f)) ([Tweet](https://twitter.com/GergelyOrosz/status/1465363032171847681))
 - [Android Nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK.
+- [Chucker](https://github.com/ChuckerTeam/chucker) - HTTP inspector for Android & OkHTTP (like Charles but on device).

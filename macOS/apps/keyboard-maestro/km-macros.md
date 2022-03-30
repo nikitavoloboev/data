@@ -63,3 +63,7 @@ I love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A 
 ![](https://i.imgur.com/b6KB2zM.png)
 
 The letters to the right will then activate the actions inside the palette. Similar to above macro groups, I have many Global palettes that I activate from Karabiner. I binded my `Space` key to be ⇧ + ⌃ + ⌥ modifier. This way I can open various palettes by holding `Space` and pressing different keys on my keyboard.
+
+## Links
+
+- [10 automations that every designer should start using today](https://mateuszwierzbicki.medium.com/10-automations-that-every-designer-should-start-using-today-8d0a9ae84588)

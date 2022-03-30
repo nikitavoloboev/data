@@ -541,3 +541,4 @@
 - [Awesome Codemods](https://github.com/rajasegar/awesome-codemods)
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
 - [What's in a Good Error Message? (2022)](https://www.morling.dev/blog/whats-in-a-good-error-message/) ([Lobsters](https://lobste.rs/s/pllm4v/what_s_good_error_message))
+- [Abstraction: Not What You Think It Is (2022)](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html) ([Lobsters](https://lobste.rs/s/d1jkw5/abstraction_not_what_you_think_it_is))

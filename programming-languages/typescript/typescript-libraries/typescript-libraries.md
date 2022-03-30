@@ -44,6 +44,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [blockdom](https://github.com/ged-odoo/blockdom) - Fast virtual DOM library.
 - [Zodios](https://github.com/ecyrbe/zodios) - TypeScript HTTP client with zod validation.
 - [teeny-request](https://github.com/googleapis/teeny-request) - Like request, but tiny. Fetch under the hood.
+- [mini-throttle](https://github.com/github/mini-throttle) - Small JavaScript throttle & debounce implementation.
 
 ## Test
 
@@ -410,6 +411,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Javelin](https://github.com/3mcd/javelin) - TypeScript ECS and multiplayer game development toolkit.
 - [Got Scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
 - [Adze](https://github.com/AJStacy/adze) - Library for shaping your JavaScript logs.
+- [vk-js](https://github.com/VKCOM/vkjs) - VK shared JS libs.
 
 ## Links
 
@@ -460,3 +462,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [JSON to TS](https://github.com/MariusAlch/json-to-ts) - Convert JSON object to typescript interfaces.
 - [docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS. Works for Node and on the Browser. ([Docs](https://docx.js.org/#/))
 - [Stardazed Web Streams Implementation](https://github.com/stardazed/sd-streams)
+- [Tsify](https://github.com/madonoharu/tsify) - Library for generating TypeScript definitions from rust code.

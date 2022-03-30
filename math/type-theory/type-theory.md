@@ -183,3 +183,4 @@
 - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html) ([HN](https://news.ycombinator.com/item?id=30697421))
 - [Bidirectional type checking algorithms for higher-ranked polymorphism](https://github.com/kwanghoon/bidi)
 - [Example implementation of Algorithm W for Hindley-Milner type inference](https://github.com/mgrabmueller/AlgorithmW)
+- [Type-Theoretic Signatures for Algebraic Theories and Inductive Types](https://github.com/AndrasKovacs/thesis/blob/main/src/thesis.pdf)

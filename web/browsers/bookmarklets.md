@@ -43,3 +43,4 @@ javascript: ((b) =>
 - [Awesome Userscripts](https://github.com/bvolpato/awesome-userscripts) ([HN](https://news.ycombinator.com/item?id=29054673))
 - [Userscripter](https://github.com/SimonAlling/userscripter) - Create userscripts in a breeze.
 - [Cherry](https://github.com/kidonng/cherry) - Collection of handcrafted resources.
+- [Scriptbar Snippets](https://scriptbar-snippets.tryapp.us/) - Handy and easy to understand snippets to keep in your browser. ([Code](https://github.com/datduyng/scriptbar-snippets))

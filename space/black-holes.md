@@ -45,3 +45,4 @@
 - [Tiny Galaxies Reveal Secrets of Supermassive Black Holes (2022)](https://www.quantamagazine.org/tiny-galaxies-reveal-secrets-of-supermassive-black-holes-20220314/)
 - [Black hole merger GW190521 may need many more black holes to explain it (2022)](https://www.syfy.com/syfy-wire/bad-astronomy-black-hole-merger-gw190521) ([Tweet](https://twitter.com/BadAstronomer/status/1503391937616879624))
 - [Visualizing Black Holes with General Relativistic Ray Tracing (2022)](https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/) ([HN](https://news.ycombinator.com/item?id=30678731))
+- [Black Holes Shown to Act Like Quantum Particles (2022)](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/) ([HN](https://news.ycombinator.com/item?id=30843723))

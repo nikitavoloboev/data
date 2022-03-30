@@ -183,3 +183,4 @@
 - [pythreejs](https://github.com/jupyter-widgets/pythreejs) - Python / ThreeJS bridge for Jupyter Widgets.
 - [JupyterLab App Template](https://github.com/jtpio/jupyterlab-app-template)
 - [Jupyter Everywhere - Easily embed a console, a notebook, or a fully-fledged IDE on any web page (2022)](https://blog.jupyter.org/jupyter-everywhere-f8151c2cc6e8)
+- [Euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal.

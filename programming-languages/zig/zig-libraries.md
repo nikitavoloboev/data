@@ -39,6 +39,7 @@
 
 ## WASM
 
+- [zee_alloc](https://github.com/fengb/zee_alloc) - Tiny Zig allocator primarily targeting WebAssembly.
 - [wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Zig embedding of Wasmtime.
 - [wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Zig bindings for the Wasmer WebAssembly runtime.
 

@@ -855,6 +855,8 @@
 - [Isomorphic Layout Composer (ILC)](https://github.com/namecheap/ilc) - Layout service that composes a web page from fragment services. It supports client/server-based page composition.
 - [esx](https://github.com/esxjs/esx) - High throughput React Server Side Rendering.
 - [modern-async](https://github.com/nicolas-van/modern-async) - Modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators.
+- [BSL](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything.
+- [flatqueue](https://github.com/mourner/flatqueue) - Very fast and simple JavaScript priority queue.
 
 ## Links
 

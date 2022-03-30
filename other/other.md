@@ -615,5 +615,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Vibe, Mood, Energy (2022)](https://www.thedriftmag.com/vibe-mood-energy/) ([HN](https://news.ycombinator.com/item?id=30677537))
 - [What's my place in the world population?](https://population.io/) ([HN](https://news.ycombinator.com/item?id=30708217))
 - [MicroDiscount](https://www.microdiscount.website/) - Directory of tech & software discounts for students, teachers & hobbyists. ([Code](https://github.com/cliffordfajardo/micro-discounts))
-- [Website to find public pianos](https://pianos.pub/) ([HN](https://news.ycombinator.com/item?id=30811648))
 - [What is the most right-wing / left-wing artistic works that you enjoy and appreciate](https://twitter.com/jh_swanson/status/1507868153040314370)
