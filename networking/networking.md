@@ -451,3 +451,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [traceroute-caller](https://github.com/m-lab/traceroute-caller) - Sidecar service which runs traceroute after a connection closes.
 - [Scout](https://github.com/liamg/scout) - URL fuzzer and spider for discovering undisclosed VHOSTS, files and directories on a web server.
 - [PacketStreamer](https://github.com/deepfence/PacketStreamer) - High-performance remote packet capture and collection tool.
+- [How to make “localhost” slightly less local (2022)](https://www.brycewray.com/posts/2022/04/let-all-your-devices-see-your-site/) ([HN](https://news.ycombinator.com/item?id=30889663))
+- [How 90's dial-up Internet worked, and let's make our own ISP. (2022)](https://www.youtube.com/watch?v=Je8lwcUPBys)

@@ -113,6 +113,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Farid Zakaria](https://fzakaria.com/)
 - [Andy White](https://andywhite.xyz/posts/)
 - [Rik Huijzer](https://huijzer.xyz/)
+- [Nelson Elhage](https://blog.nelhage.com/)
 
 ## Notes
 

@@ -618,3 +618,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What is the most right-wing / left-wing artistic works that you enjoy and appreciate](https://twitter.com/jh_swanson/status/1507868153040314370)
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library.
 - [Mephisto](https://mephisto.ai/) - Tools for managing crowdsourcing tasks from the inception through to data packaging for research use. ([Code](https://github.com/facebookresearch/Mephisto))
+- [I Heart Microscopes (2022)](https://www.hillelwayne.com/post/microscopy/) ([HN](https://news.ycombinator.com/item?id=30882754))

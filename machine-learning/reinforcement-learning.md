@@ -1,6 +1,6 @@
 # [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
-[Acme](https://github.com/deepmind/acme) seems nice.
+[Acme](https://github.com/deepmind/acme) & [TorchRL](https://github.com/facebookresearch/rl) seem nice.
 
 ## Links
 
@@ -332,3 +332,4 @@
 - [Melting Pot](https://github.com/deepmind/meltingpot) - Suite of test scenarios for multi-agent reinforcement learning.
 - [CQL](https://github.com/young-geng/CQL) - Simple and modular implementation of the Conservative Q Learning and Soft Actor Critic algorithm in PyTorch.
 - [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments (2017)](https://arxiv.org/abs/1706.02275) ([Code](https://github.com/xuehy/pytorch-maddpg))
+- [TorchRL](https://github.com/facebookresearch/rl) - Modular, primitive-first, python-first PyTorch library for Reinforcement Learning.

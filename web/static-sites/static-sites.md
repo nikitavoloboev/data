@@ -66,6 +66,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Fabricate](https://github.com/fabricate-site/fabricate) - Next-generation static website generation for Clojure.
 - [tinypages](https://github.com/Borrus-sudo/tinypages) - Vite based SSG, using markdown interpolated with Preact components to build MPA websites tiny and fast.
 - [StaticSite](https://github.com/objcio/StaticSite) - Helper functions to generate a static site in Swift.
+- [Radish](https://github.com/jakelazaroff/radish) - Delightful React-based static site generator that outputs plain HTML & CSS.
 
 ## Notes
 

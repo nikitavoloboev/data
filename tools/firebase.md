@@ -64,3 +64,4 @@
 - [Firebase - YouTube](https://www.youtube.com/c/firebase/videos) ([Code](https://github.com/FirebaseExtended/firebase-video-samples))
 - [Prediction market: We're unhappy with Firestore. What will we switch to? (2022)](https://manifold.markets/Austin/what-database-will-manifold-be-prim) ([HN](https://news.ycombinator.com/item?id=30729938))
 - [Pyrebase](https://github.com/thisbejim/Pyrebase) - Simple python wrapper for the Firebase API.
+- [Firebase to Supabase Migration Guide](https://github.com/supabase-community/firebase-to-supabase)

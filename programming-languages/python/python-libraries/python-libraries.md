@@ -239,6 +239,7 @@
 - [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [pytest-parallel](https://github.com/browsertron/pytest-parallel) - Pytest plugin for parallel and concurrent testing.
 - [pytest_httpserver](https://github.com/csernazs/pytest-httpserver) - HTTP server for pytest.
+- [testing.postgresql](https://github.com/tk0miya/testing.postgresql) - Automatically setups a postgresql instance in a temporary directory, and destroys it after testing.
 
 ## Error
 

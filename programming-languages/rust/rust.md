@@ -746,4 +746,4 @@
 - [Strict provenance: a teachable memory model (experiment) for Rust](https://lobste.rs/s/zbmgmp/strict_provenance_teachable_memory)
 - [What use cases does Rust cover better than Go? (2022)](https://www.reddit.com/r/rust/comments/ts8ptq/what_use_cases_does_rust_cover_better_than_go/)
 - [Anyone using rust in production? what do you do? (2022)](https://www.reddit.com/r/rust/comments/ts605e/anyone_using_rust_in_production_what_do_you_do/)
-- [Why Rust mutexes look like they do (2022)](https://cliffle.com/blog/rust-mutexes/) ([Reddit](https://www.reddit.com/r/rust/comments/tug7fs/why_rust_mutexes_look_like_they_do/))
+- [Why Rust mutexes look like they do (2022)](https://cliffle.com/blog/rust-mutexes/) ([Reddit](https://www.reddit.com/r/rust/comments/tug7fs/why_rust_mutexes_look_like_they_do/)) ([Lobsters](https://lobste.rs/s/3xpd1q/why_rust_mutexes_look_like_they_do))

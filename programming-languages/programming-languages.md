@@ -334,3 +334,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [OneLinerHub](https://onelinerhub.com/) - Open source code library. ([Code](https://github.com/Onelinerhub/onelinerhub))
 - [Uniform Structured Syntax, Metaprogramming and Run-time Compilation](https://m00natic.github.io/lisp/manual-jit.html)
 - [Most interesting languages to learn (from)? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tsqamc/most_interesting_languages_to_learn_from/)
+- [Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale (2022)](https://verdagon.dev/blog/surprising-weak-refs)
