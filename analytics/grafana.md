@@ -15,3 +15,4 @@
 - [Grafana SQLite Datasource](https://github.com/fr-ser/grafana-sqlite-datasource) - Grafana backend plugin to allow using an SQLite database as a data source.
 - [Terrajet Grafana Provider](https://github.com/grafana/crossplane-provider-grafana) - Crossplane provider that is built using Terrajet code generation tools and exposes XRM-conformant managed resources for the Grafana API.
 - [Embed Grafana for Your Customers in React (2022)](https://fusebit.io/blog/grafana-in-react/)
+- [Grafana Community Kubernetes Helm Charts](https://github.com/grafana/helm-charts)

@@ -40,6 +40,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Many crypto projects are thinly disguised securities sales, designed to skirt around regulation.](https://twitter.com/smdiehl/status/1465356549707251717)
 - [No one company or person should have unilateral control over our social and financial infrastructure on the internet. Crypto provides a viable technical path to actually achieve that in practice.](https://twitter.com/js_horne/status/1498731784393089033)
 - [Crypto"currencies" aren't currencies for very obvious reasons. They economics are deflationary, the transaction throughput doesn't scale, are too volatile to conduct commerce in and there's no mechanism for the volatility to ever subside.](https://twitter.com/smdiehl/status/1502938255326601218)
+- [The U.S. is not “behind China on crypto.” CBDCs are not crypto – they’re a government surveillance tool. Crypto creates freedom, it doesn’t destroy it.](https://twitter.com/RepTomEmmer/status/1509247510132502529)
 
 ## Links
 
@@ -252,3 +253,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [The Edited Latecomer’s Guide to Crypto (2022)](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#) ([HN](https://news.ycombinator.com/item?id=30804984)) ([Tweet](https://twitter.com/molly0xFFF/status/1507391218082328577))
 - [Unstoppable](https://unstoppable.money/) - Multi-wallet for Bitcoin, Ethereum, Binance Smart Chain and other emerging blockchains. ([iOS Code](https://github.com/horizontalsystems/unstoppable-wallet-ios))
 - [Synapse](https://synapseprotocol.com/landing) - DeFi's Multi-Chain Bridge.
+- [The Axie Infinity hack, what happened, and why people keep talking about bridges (2022)](https://blog.mollywhite.net/axie-hack/)
+- [The Infinite Exploitation Of Cryptocurrency (2022)](https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency)

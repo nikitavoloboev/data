@@ -79,3 +79,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Hugo is awesome, its documentation is not (2022)](https://sagar.se/blog/hugo-documentation/) ([HN](https://news.ycombinator.com/item?id=30527884))
 - [Migrating to Hugo (2022)](https://www.georgeho.org/migrating-to-hugo/)
 - [Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python (2022)](https://blog.ioces.com/matt/posts/everything-old-is-new-again/) ([HN](https://news.ycombinator.com/item?id=30718757))
+- [Hugo Bookshop Starter](https://github.com/CloudCannon/hugo-bookshop-starter) - Starter template for a new Hugo site using Bookshop.

@@ -118,7 +118,7 @@ All active variables can be seen by running `env`.
 - [murex](https://github.com/lmorg/murex) - Alternative shell with native support for JSON, YAML, TOML, CSV, etc. ([Web](https://murex.rocks/)) ([HN](https://news.ycombinator.com/item?id=26284294))
 - [Atuin](https://github.com/ellie/atuin) - Manages and synchronizes your shell history.
 - [pimp](https://github.com/aymericbeaumet/pimp) - Give your shell commands superpowers.
-- [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://fig.io/)) ([HN](https://news.ycombinator.com/item?id=27277819))
+- [Fig](https://github.com/withfig/autocomplete) - Autocomplete for terminals on MacOS. ([Web](https://fig.io/)) ([HN](https://news.ycombinator.com/item?id=27277819)) ([Issues](https://github.com/withfig/fig/issues))
 - [Elvish Shell](https://elv.sh/) - Expressive programming language and a versatile interactive shell, combined into one seamless package. ([Tour](https://elv.sh/learn/tour.html))
 - [All the characters that work on any terminal and any operating system](https://github.com/ehmicky/cross-platform-terminal-characters)
 - [Improving shell workflows with fzf (2021)](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/) ([HN](https://news.ycombinator.com/item?id=26634419))
@@ -200,3 +200,7 @@ All active variables can be seen by running `env`.
 - [Morbig](https://github.com/colis-anr/morbig) - Static Parser for POSIX Shell. ([HN](https://news.ycombinator.com/item?id=30812330))
 - [Awesome Terminals](https://github.com/cdleon/awesome-terminals)
 - [Cli2Cloud](https://github.com/leonwind/cli2cloud) - Pipe your terminal output to the cloud. ([Web](https://cli2cloud.com/))
+- [What are the most useful aliases in your bashrc or zshrc (2022)](https://lobste.rs/s/qgqssl/what_are_most_useful_aliases_your_bashrc)
+- [sd](https://github.com/ianthehenry/sd) - Cozy nest for your scripts.
+- [svg-term](https://github.com/marionebl/svg-term) - Share terminal sessions via SVG and CSS.
+- [Redo](https://github.com/barthr/redo) - Command line application to easily create reusable functions in your own shell. ([HN](https://news.ycombinator.com/item?id=30878935))

@@ -452,3 +452,6 @@ for i, _ in enumerate(nums):
 - [Python 3.11 in the Web Browser (2022)](https://2022.pycon.de/program/SBCNDY/) ([HN](https://news.ycombinator.com/item?id=30815122))
 - [The counterintuitive rise of Python in scientific computing (2020)](https://cerfacs.fr/coop/fortran-vs-python) ([HN](https://news.ycombinator.com/item?id=30812086)) ([Tweet](https://twitter.com/hardmaru/status/1508026008342962177))
 - [Advanced Python Programming Book](https://www.packtpub.com/product/advanced-python-programming/9781838551216) ([Code](https://github.com/PacktPublishing/Advanced-Python-Programming-Second-Edition))
+- [Notes From the Meeting On Python GIL Removal Between Python Core and Sam Gross (2021)](https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/)
+- [How to compare floats in Python (2022)](https://davidamos.dev/the-right-way-to-compare-floats-in-python/) ([HN](https://news.ycombinator.com/item?id=30856434))
+- [hpython](https://github.com/qfpl/hpython) - Haskell-based language tools for Python.

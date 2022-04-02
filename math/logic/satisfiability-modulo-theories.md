@@ -44,3 +44,4 @@
 - [rsmt2](https://github.com/kino-mc/rsmt2) - Generic library to interact with SMT-LIB 2 compliant solvers running in a separate system process, such as Z3 and CVC4.
 - [SMBC](https://github.com/c-cube/smbc) - Experimental model finder/SMT solver for functional programming.
 - [Cvc5: Versatile and Industrial-Strength SMT Solver (2022)](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
+- [JavaSMT](https://github.com/sosy-lab/java-smt) - Unified Java API for SMT solvers.

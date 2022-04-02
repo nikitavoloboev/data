@@ -122,3 +122,6 @@
 - [Render Redis](https://render.com/blog/redis) ([HN](https://news.ycombinator.com/item?id=30779909))
 - [Launch a Redis server on Fly](https://github.com/fly-apps/redis)
 - [Redis GUI](https://github.com/ekvedaras/redis-gui) - Graphical UI for managing Redis databases.
+- [Redis Stack](https://redis.io/docs/stack/) ([HN](https://news.ycombinator.com/item?id=30863327))
+- [RESP.app](https://resp.app/) - Cross-platform Developer GUI for Redis. ([Code](https://github.com/uglide/RedisDesktopManager))
+- [rdb](https://github.com/HDT3213/rdb) - Go implemented Redis RDB parser for secondary development and memory analysis.

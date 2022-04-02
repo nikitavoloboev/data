@@ -58,3 +58,5 @@ Cardano appears to be a [project that didn't meet its goals](https://twitter.com
 - [Pallas](https://github.com/txpipe/pallas) - Rust-native building blocks for the Cardano blockchain ecosystem.
 - [Kupo](https://github.com/CardanoSolutions/kupo) - Fast, lightweight & configurable chain-index for Cardano.
 - [PyCardano](https://github.com/cffls/pycardano) - Lightweight Cardano library in Python.
+- [Making offline Cardano transactions (2022)](https://xairy.io/articles/2022/cardano-offline-wallet)
+- [Cardano Developer Portal](https://developers.cardano.org/) ([Code](https://github.com/cardano-foundation/developer-portal))

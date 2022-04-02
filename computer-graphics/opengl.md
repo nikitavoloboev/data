@@ -34,3 +34,4 @@
 - [TinyGL-RS](https://github.com/RoastVeg/tinygl-rs) - Bindings to TinyGL, a Small, Free and Fast Subset of OpenGL.
 - [GLyphy](https://github.com/behdad/glyphy) - Signed-distance-field (SDF) text renderer using OpenGL ES2 shading language.
 - [OpenGL/Vulkan Interop](https://github.com/nvpro-samples/gl_vk_simple_interop) - Display an image created by Vulkan compute shader, with OpenGL.
+- [Lightmapper](https://github.com/ands/lightmapper) - C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light.

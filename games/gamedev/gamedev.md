@@ -241,3 +241,5 @@
 - [Building games through natural language using OpenAI’s code-DaVinci model (2022)](https://andrewmayneblog.wordpress.com/2022/03/17/building-games-and-apps-entirely-through-natural-language-using-openais-davinci-code-model/) ([HN](https://news.ycombinator.com/item?id=30717773))
 - [Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat (2022)](https://arstechnica.com/gaming/2022/03/achtung-john-romero-exposes-wolfenstein-3ds-history-in-gdc-post-mortem/) ([HN](https://news.ycombinator.com/item?id=30788475))
 - [IndieGameDev](https://indiegamedev.net/) - Solo, Hobby, and Indie Developers.
+- [LDtk](https://ldtk.io/) - 2D level editor. ([LDtk Rust Library](https://github.com/estivate/ldtk_rust))
+- [Eldiron](https://github.com/markusmoenig/Eldiron) - Cross platform classic RPG game creator written in Rust. ([Web](https://eldiron.com/))

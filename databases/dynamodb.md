@@ -85,3 +85,5 @@
 - [Serverless Typescript Demo](https://github.com/aws-samples/serverless-typescript-demo) - Simple serverless application built in Typescript and uses Node.js 14 runtime.
 - [Serverless search for DynamoDB](https://github.com/jakejscott/dynamodb-stream-indexer)
 - [Alex DeBrie: NoSQL Data Modeling with Amazon DynamoDB (2022)](https://www.youtube.com/watch?v=h7mH2Bxkc6k)
+- [AWS Lambda in Private Subnet connecting to DynamoDB with VPC Endpoint](https://github.com/oieduardorabelo/cdk-lambda-private-subnet-dynamodb-vpc-endpoint)
+- [Dynosaur](https://github.com/SystemFw/dynosaur) - Declarative bidirectional codecs for DynamoDb AttributeValue, SDK 2.

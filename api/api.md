@@ -90,6 +90,7 @@
 - [Yandex Music Python](https://github.com/MarshalX/yandex-music-api)
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
+- [Degiro Python](https://github.com/Chavithra/degiro-connector)
 - [Airtable JS](https://github.com/Airtable/airtable.js)
 - [Airtable Go](https://github.com/fabioberger/airtable-go)
 - [Airtable Go 2](https://github.com/brianloveswords/airtable)

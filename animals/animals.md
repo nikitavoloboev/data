@@ -122,3 +122,5 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [If Cheetahs were extinct, would palaeontologists be able to gauge how fast they were based on their fossil record?](https://www.reddit.com/r/askscience/comments/skfjt8/if_cheetahs_were_extinct_would_palaeontologists/)
 - [Short history of the O’Reilly animals](https://www.oreilly.com/animals.csp)
 - [Most Popular Dog Breeds of 2021](https://www.akc.org/expert-advice/dog-breeds/most-popular-dog-breeds-of-2021/)
+- [All About Cats](https://allaboutcats.com/) - Cat Friendly Community.
+- [Why have female animals evolved such wild genitals? (2022)](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/) ([HN](https://news.ycombinator.com/item?id=30874206))

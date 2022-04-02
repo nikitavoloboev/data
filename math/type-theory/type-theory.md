@@ -184,3 +184,4 @@
 - [Bidirectional type checking algorithms for higher-ranked polymorphism](https://github.com/kwanghoon/bidi)
 - [Example implementation of Algorithm W for Hindley-Milner type inference](https://github.com/mgrabmueller/AlgorithmW)
 - [Type-Theoretic Signatures for Algebraic Theories and Inductive Types](https://github.com/AndrasKovacs/thesis/blob/main/src/thesis.pdf)
+- [Usable type system for call by push-value](https://github.com/LightAndLight/cbpv)

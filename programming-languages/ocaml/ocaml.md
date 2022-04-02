@@ -118,3 +118,4 @@
 - [OCaml website](https://v3.ocaml.org/) ([Code](https://github.com/ocaml/v3.ocaml.org-server))
 - [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/) ([Web](https://ocaml-book.com/)) ([Code](https://github.com/johnwhitington/mlbook/)) ([Lobsters](https://lobste.rs/s/fjyxee/ocaml_from_very_beginning))
 - [2021 at OCamlPro](https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro)
+- [OCaml 4.14.0 (2022)](https://discuss.ocaml.org/t/ocaml-4-14-0-is-released/9600)

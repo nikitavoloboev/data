@@ -47,6 +47,8 @@
 - [Gemini](https://github.com/FairwindsOps/gemini) - Automated backups of PersistentVolumeClaims in Kubernetes using VolumeSnapshots.
 - [kubectl status](https://github.com/bergerx/kubectl-status) - Kubectl plugin to print a human-friendly output that focuses on the status fields of the resources in kubernetes.
 - [Chaos Controller](https://github.com/DataDog/chaos-controller) - Datadog chaos controller for Kubernetes.
+- [Detector for Docker Socket (DDS)](https://github.com/aws-containers/kubectl-detector-for-docker-socket) - kubectl plugin to detect if active Kubernetes workloads are mounting the docker socket (docker.sock) volume.
+- [krelay](https://github.com/knight42/krelay) - Better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
 
 ## Operators
 

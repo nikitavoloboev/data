@@ -362,3 +362,5 @@
 - [Tez](https://github.com/abhishekkrthakur/tez) - Super-simple and lightweight Trainer for PyTorch.
 - [TorchMultimodal](https://github.com/facebookresearch/multimodal) - PyTorch library for training state-of-the-art multimodal multi-task models at scale.
 - [MiniTorch Module 0](https://github.com/minitorch/Module-0)
+- [baukit](https://github.com/davidbau/baukit) - Kit of David's secret tools to help with productive research prototyping with PyTorch.
+- [Cyclemoid PyTorch](https://github.com/rasbt/cyclemoid-pytorch) - Implementation of the cyclemoid activation function for PyTorch.

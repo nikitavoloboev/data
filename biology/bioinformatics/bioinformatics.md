@@ -179,7 +179,7 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [OpenFold](https://github.com/aqlaboratory/openfold) - Trainable & open-source PyTorch reproduction of AlphaFold 2.
 - [HSM (Hierarchical Statistical Mechanical model)](https://github.com/aqlaboratory/hsm) - Biophysical prediction of protein-peptide interactions and signaling networks using machine learning. ([Web](https://proteinpeptide.io/))
 - [Foregen and the Science of Regeneration with Tyler Drzod and Eric Cunningham (2021)](https://www.youtube.com/watch?v=JTOoc8ToSjc) ([Links & Transcript](https://brendonmarotta.com/8090/foregen-and-regeneration/))
-- [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/))
+- [Foregen](https://www.foregen.org/) - Regenerating Foreskins. ([Reddit](https://www.reddit.com/r/Foregen/)) ([Commentarium](https://www.foregen.org/commentarium))
 - [DeepMind releases massive protein structure database (2021)](https://www.freethink.com/science/protein-structure)
 - [ATOM3D: Tasks on Molecules in Three Dimensions](https://www.atom3d.ai/) ([Code](https://github.com/drorlab/atom3d))
 - [3D Infomax improves GNNs for Molecular Property Prediction (2021)](https://arxiv.org/abs/2110.04126) ([Code](https://github.com/HannesStark/3DInfomax))
@@ -198,3 +198,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction (2022)](https://arxiv.org/abs/2202.05146) ([Code](https://github.com/HannesStark/EquiBind))
 - [FastFold](https://github.com/hpcaitech/FastFold) - Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters.
 - [Graphormer](https://github.com/microsoft/Graphormer) - Deep learning package that allows researchers and developers to train custom models for molecule modeling tasks.
+- [Strobealign](https://github.com/ksahlin/StrobeAlign) - Fast short-read aligner. It achieves the speedup by using a dynamic seed size obtained from syncmer-thinned strobemers.

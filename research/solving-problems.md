@@ -63,6 +63,7 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Reframing your problem can be a potent way to find solutions. “How can I grow?” Open, generic, often not actionable. “What’s stopping me from growing?” Direct, specific, insightful, and it requires radical honesty and self awareness.](https://twitter.com/linuz90/status/1434488113015963650)
 - [When confronted with a problem I don’t understand: don’t just guess. Investigate.](https://twitter.com/optshiftk/status/1449031889096830977)
 - [The first step to solve any problem is to recognize what problem spaces you are in.](https://twitter.com/rakyll/status/1455986549288439812)
+- [Tell me what would have to be true to do x by y.](https://twitter.com/Austen/status/1510003537152937985)
 
 ## Links
 
@@ -99,3 +100,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Practical Guide to Solving Hard Problems (2022)](https://praeclarum.org/2022/02/19/hard-problems.html) ([HN](https://news.ycombinator.com/item?id=30489354))
 - [Ask HN: Books recommendations on developing critical thinking? (2022)](https://news.ycombinator.com/item?id=30542411)
 - [Contributing to Complex Projects (2022)](https://mitchellh.com/writing/contributing-to-complex-projects)
+- [Developers spend most of their time figuring the system out](https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/) ([HN](https://news.ycombinator.com/item?id=30858311))

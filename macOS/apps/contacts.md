@@ -14,3 +14,4 @@ I add `[` to contacts that are top/favorite. I also add `del` as part of the nam
 - [contactful](https://github.com/noahm/contactful) - Simple personal contact management system.
 - [node-mac-contacts](https://github.com/codebytere/node-mac-contacts) - Create, read, update, and delete contacts from users' contacts databases on macOS.
 - [The simple system I’m using to stay in touch with hundreds of people](https://jakobgreenfeld.com/stay-in-touch) ([HN](https://news.ycombinator.com/item?id=30329475))
+- [Nat](https://nat.app/) - Personal CRM for relationship building. ([HN](https://news.ycombinator.com/item?id=30836418))

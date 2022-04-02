@@ -106,6 +106,7 @@
 - [koi](https://github.com/kettle11/koi) - Game engine in Rust.
 - [Goluwa](https://github.com/CapsAdmin/goluwa) - Game engine, framework, a collection of utilities and experiments written in LuaJIT leveraging FFI.
 - [CosPlay](https://github.com/nivanov/cosplay) - 2D ASCII game engine written in Scala3. ([Web](https://cosplayengine.com/))
+- [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 
 ## Physics engines
 

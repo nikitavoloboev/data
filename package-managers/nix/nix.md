@@ -322,3 +322,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [nixpkgs-update](https://github.com/ryantm/nixpkgs-update) - Updating nixpkgs packages since 2018.
 - [Awesome Nix high performance computing](https://github.com/freuk/awesome-nix-hpc)
 - [Nix tutorials](https://github.com/mhwombat/nix-for-numbskulls)
+- [Spongix](https://github.com/input-output-hk/spongix) - Proxy for Nix Caching.
+- [Nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image.

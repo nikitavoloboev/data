@@ -69,3 +69,4 @@
 - [NGINX Server Cloud Native Buildpack](https://github.com/paketo-buildpacks/nginx) - Provides the NGINX binary distribution.
 - [Avoiding the Top Nginx Configuration Mistakes (2022)](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 - [Vouch Proxy](https://github.com/vouch/vouch-proxy) - SSO and OAuth / OIDC login solution for Nginx using the auth_request module.
+- [Nginx Common Useful Configuration](https://github.com/tldr-devops/nginx-common-configuration) ([HN](https://news.ycombinator.com/item?id=30871242))

@@ -18,3 +18,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Floating Leaves](https://floatingleaves.com/) - Taiwan Oolong Tea Specialist – Floating Leaves Tea.
 - [Favorite cozy evening tea](https://merveilles.town/@dualhammers/104827337713174479)
 - [Chronicles of a Bubble Tea Addict (2021)](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict) ([HN](https://news.ycombinator.com/item?id=25975428))
+- [Herbal tea recommendations](https://twitter.com/cateliseh/status/1509400985940029443)

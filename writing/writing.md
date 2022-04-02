@@ -278,3 +278,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [What makes writing more readable? (2022)](https://pudding.cool/2022/02/plain/) ([HN](https://news.ycombinator.com/item?id=30441773))
 - [What makes a great opening line?](https://lithub.com/what-makes-a-great-opening-line/) ([HN](https://news.ycombinator.com/item?id=30631725))
 - [Substack’s Ideology (2022)](https://every.to/divinations/substack-s-ideology)
+- [Plotto: A new method of plot suggestion for writers of creative fiction (1928)](https://archive.org/details/plottonewmethodo00cook) ([HN](https://news.ycombinator.com/item?id=30852098))

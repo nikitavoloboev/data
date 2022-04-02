@@ -128,3 +128,5 @@
 - [Islands Architecture in Vue with Máximo Mussini (2021)](https://pca.st/gtrkm8oc)
 - [nuxt-directus](https://github.com/Intevel/nuxt-directus) - Easily connect your Nuxt3 application to your directus server.
 - [Easily integrate Firebase into your Nuxt project](https://github.com/nuxt-community/firebase-module)
+- [nuxt-feed-module](https://github.com/maciejpedzich/nuxt-feed-module) - Nuxt 3 compatible module for generating RSS feeds.
+- [Vue Composable Starter](https://github.com/Tahul/vue-composable-starter) - Minimalist starting point for your next Vue 3 composable.

@@ -7,7 +7,7 @@
 - [Ruby is nice, but what makes great?](https://www.reddit.com/r/ruby/comments/8ysh41/ruby_is_nice_but_what_makes_great/)
 - [Clean code ruby](https://github.com/uohzxela/clean-code-ruby) - Clean Code concepts adapted for Ruby.
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
-- [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([Code](https://github.com/sorbet/sorbet)) ([HN](https://news.ycombinator.com/item?id=28013797))
+- [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([Code](https://github.com/sorbet/sorbet)) ([HN](https://news.ycombinator.com/item?id=28013797)) ([Article](https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby)) ([HN](https://news.ycombinator.com/item?id=30833555))
 - [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
 - [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.
 - [Artichoke Ruby Playground](https://artichoke.run/) ([Code](https://github.com/artichoke/playground))
@@ -120,3 +120,4 @@
 - [ruby.wasm](https://github.com/kateinoigakukun/ruby.wasm) - Collection of WebAssembly ports of the CRuby.
 - [Fisk](https://github.com/tenderlove/fisk) - Pure Ruby assembler.
 - [Parser](https://github.com/whitequark/parser) - Ruby parser.
+- [Thanos](https://github.com/redneckbeard/thanos) - Ruby -> Go at the snap of your fingers.

@@ -184,3 +184,7 @@
 - [JupyterLab App Template](https://github.com/jtpio/jupyterlab-app-template)
 - [Jupyter Everywhere - Easily embed a console, a notebook, or a fully-fledged IDE on any web page (2022)](https://blog.jupyter.org/jupyter-everywhere-f8151c2cc6e8)
 - [Euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal.
+- [Jupyter Dash](https://github.com/plotly/jupyter-dash) - Develop Dash apps in the Jupyter Notebook and JupyterLab.
+- [Cookiecutter Jupyter Book](https://github.com/executablebooks/cookiecutter-jupyter-book) - Cookiecutter template for a simple jupyter book.
+- [nbprocess](https://github.com/fastai/nbprocess) - Process and export Jupyter Notebooks fast.
+- [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - Jupyter Notebook integration of Vizzu.

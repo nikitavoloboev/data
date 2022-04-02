@@ -168,6 +168,8 @@
 - [ocaml-mpsc](https://github.com/haesbaert/ocaml-mpsc) - Lockless Multiple Producer Single Consumer Queue for ocaml-multicore.
 - [Charset](https://github.com/yallop/ocaml-charset) - Fast char sets.
 - [OCaml gRPC](https://github.com/dialohq/ocaml-grpc)
+- [lockfree](https://github.com/ocaml-multicore/lockfree) - Lock-free data structures for multicore OCaml.
+- [Backward Lists](https://github.com/RedPRL/ocaml-bwd) - Defines backward lists that are isomorphic to lists.
 
 ## Links
 
@@ -177,3 +179,4 @@
 - [opam-dune-lint](https://github.com/ocurrent/opam-dune-lint) - Ensure dune and opam dependencies are consistent.
 - [Sherlocode](https://sherlocode.com/) - Search across 17 million lines of OCaml available on opam using grep. ([Code](https://github.com/art-w/sherlocode))
 - [Camlidl](https://github.com/xavierleroy/camlidl) - Stub code generator for OCaml/C interface.
+- [Reusable Effect-Based Components](https://github.com/RedPRL/algaeff)

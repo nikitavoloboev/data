@@ -33,6 +33,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Bakelite](https://github.com/richfelker/bakelite) - Incremental backup with strong cryptographic confidentiality baked into the data model.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [paperback](https://github.com/cyphar/paperback) - Paper-based backup scheme that is secure and easy-to-use.
+- [Duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups on cloud storage services.
 
 ## Cloud Storage
 

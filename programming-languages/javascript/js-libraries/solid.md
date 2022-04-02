@@ -32,3 +32,4 @@
 - [Solid Starter Kit](https://github.com/one-aalam/solid-starter-kit)
 - [Solid Styled](https://github.com/LXSMNSYC/solid-styled) - Reactive stylesheets for SolidJS.
 - [Solid Search for Community Solid Server](https://github.com/ontola/solid-search-community-server) - Adds full-text search to Community Solid Server. Powered by atomic-server.
+- [Blitz](https://github.com/dimensionhq/blitz) - Fast, simple and efficient state management for SolidJS apps.

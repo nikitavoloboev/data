@@ -165,3 +165,5 @@
 - [Principles of UI Design](https://twitter.com/peterondesign/status/1505854480729923587)
 - [Every Screen in Your App Should Be a Scrolling View (2022)](https://lickability.com/blog/every-screen-in-your-app-should-be-a-scrolling-view/) ([Tweet](https://twitter.com/krzyzanowskim/status/1508027213194665984))
 - [Mobile menu patterns](https://twitter.com/steveschoger/status/1357407987854376967)
+- [Paper at 10 (2022)](https://www.andy.works/words/paper-at-10)
+- [Checking in on Fast (2021)](https://chrisfrantz.com/checking-in-on-fast/) ([Tweet](https://twitter.com/frantzfries/status/1370237866979233794))

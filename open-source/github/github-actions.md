@@ -312,6 +312,7 @@
 
 - [SwiftPM Jazzy Docs](https://github.com/sersoft-gmbh/swifty-docs-action) - Generates and combines jazzy docs for all products of a Swift package.
 - [GitHub Action for SwiftLint](https://github.com/norio-nomura/action-swiftlint)
+- [Install Swift Tool](https://github.com/Cyberbeni/install-swift-tool) - GitHub Action to build and cache any Swift based tool in workflows.
 
 ## Scala
 

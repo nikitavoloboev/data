@@ -214,3 +214,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [List of Generative Art and Live Coding Tools](https://opguides.info/design/generative-art/) ([HN](https://news.ycombinator.com/item?id=24889333))
 - [Programming with Escher](https://mapio.github.io/programming-with-escher/)
 - [What is this thing called Generative Art? (2022)](https://rustfest.global/session/46-what-is-this-thing-called-generative-art/)
+- [Noon Silk's generative drawings](https://github.com/silky/fashion)

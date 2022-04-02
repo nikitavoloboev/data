@@ -197,3 +197,5 @@
 - [DNS Transport over TCP - Operational Requirements](https://datatracker.ietf.org/doc/rfc9210/)
 - [How to Detect DNS Tunneling in the Network? (2021)](https://www.catonetworks.com/blog/how-to-detect-dns-tunneling-in-the-network/) ([Reddit](https://www.reddit.com/r/programming/comments/tpfkwi/how_to_detect_dns_tunneling_in_the_network/))
 - [certutils](https://github.com/caiguanhao/certutils) - Wildcard certificates tools: Obtain certbot's (Let's Encrypt) wildcard certificates by updating DNS TXT records and answering stupid certbot questions for you.
+- [DNS Leak Test](https://bash.ws/dnsleak) - Shows DNS leaks and your external IP. If you use the same ASN for DNS and connection - you have no leak. ([Code](https://github.com/macvk/dnsleaktest))
+- [Encrypted DNS Server](https://github.com/DNSCrypt/encrypted-dns-server) - Easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.

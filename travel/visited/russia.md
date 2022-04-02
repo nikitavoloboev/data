@@ -14,6 +14,10 @@ To accelerate this, I think everyone would do well to aid the migration of anyon
 
 It would also be nice if everyone would stop thinking in terms of fractions and groups. There is [no 'The West' as much as there is no 'Russia' as humans are varied](https://www.reddit.com/r/AskARussian/comments/tib295/i_wish_things_go_back_to_the_way_they_were/) and it's these splits into groups or thinking of things as white or black that got us into all the wars and conflicts.
 
+Below is old not much edited expanded thoughts on Russia. Will edit/delete later. I get most of my news from my [Russian News Twitter List](https://twitter.com/i/lists/1351120526220152839).
+
+--
+
 The number of [crimes against humanity](https://www.youtube.com/watch?v=E_2Vy9B8hic) committed by governments of [China, Russia, Turkey, Belarus, North Korea ..](https://worldpopulationreview.com/country-rankings/dictatorship-countries) against [its citizens](https://twitter.com/civ_soc/status/1453386761367871495) is [horrific](https://www.reddit.com/r/europe/comments/p37il1/artyom_milushkin_and_his_wife_leah_milushkina/). Need to do everything possible to turn these countries into functional democracies with actually working & fair Judiciary system (where you can't [use judges to give any verdict you need](https://twitter.com/christogrozev/status/1493555681059823617)) & judge [existing dictators](https://www.theatlantic.com/magazine/archive/2021/12/the-autocrats-are-winning/620526/) with all their helpers accordingly.
 
 It's a travesty that [citizen's taxes are being stolen](https://www.reddit.com/r/worldnews/comments/svv2oj/biden_says_hes_now_convinced_putin_has_decided_to/hxifwk0/?context=3) to further [strengthen ongoing dictatorship](https://twitter.com/msvetov/status/1355879442913091584) with the [remainder going to few private hands](https://palace.navalny.com). With nearly no money spent to actually help the people. The [biggest abuse of human rights](https://www.youtube.com/watch?v=nrqWQB2bm_0).
@@ -542,3 +546,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russia's North Korea future scenario (2022)](https://twitter.com/kamilkazani/status/1508576670587895810)
 - [Faridaily Blog](https://faridaily.substack.com/) - Covers Russia.
 - [Russia's journalists that moved after ban (2022)](https://meduza.io/en/slides/after-the-fall)
+- [History of Russia in 100 minutes](https://www.youtube.com/playlist?list=PL3z21sNm6oEO6OdODdD_AcbxIV-ujhnDL)
+- [How the Rus became the Russians, slavic history explained](https://www.youtube.com/watch?v=U_2h16AYMMQ)
+- [ЛЮДИ / НЕ ЛЮДИ](https://human-nonhuman.info/) - Знаменитости о войне в Украине.
+- [«Главный вопрос нашего поколения — не только о том, как нам оставаться достойными людьми при фашизме. Это вопрос, как нам объединяться» (2022)](https://meduza.io/feature/2022/04/01/glavnyy-vopros-nashego-pokoleniya-ne-tolko-o-tom-kak-nam-ostavatsya-dostoynymi-lyudmi-pri-fashizme-eto-vopros-kak-nam-ob-edinyatsya)

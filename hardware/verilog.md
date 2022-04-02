@@ -35,3 +35,4 @@
 - [Verilog Is Weird](https://danluu.com/why-hardware-development-is-hard/) ([HN](https://news.ycombinator.com/item?id=30739866))
 - [Asynchronous dual clock FIFO](https://github.com/dpretet/async_fifo) - Dual clock asynchronous FIFO written in verilog, tested with Icarus Verilog.
 - [VHDL grammar for tree-sitter](https://github.com/alemuller/tree-sitter-vhdl)
+- [IOb-cache](https://github.com/IObundle/iob-cache) - High-performance configurable open-source Verilog cache.

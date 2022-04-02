@@ -271,3 +271,8 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Keyhouse](https://github.com/bytedance/keyhouse) - Skeleton of general-purpose Key Management System written in Rust.
 - [Pouch](https://github.com/sunshinejr/Pouch) - Secret management tool written in Swift.
 - [bom (Bill of Materials)](https://github.com/kubernetes-sigs/bom) - Create SPDX-compliant Bill of Materials.
+- [OSSF Security Tooling](https://github.com/ossf/wg-security-tooling)
+- [EnvKey](https://www.envkey.com/) - End-To-End Encrypted Environments. ([Code](https://github.com/envkey/envkey))
+- [How we secure Monzo’s banking platform (2022)](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform)
+- [relic](https://github.com/sassoftware/relic) - Multi-tool and server for package signing and working with hardware security modules (HSMs).
+- [Trickest](https://trickest.com/) - Workflow-powered solution for Bug Bounty, Pentesting, SecOps.

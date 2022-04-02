@@ -12,6 +12,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Solstice](https://github.com/daneden/Solstice) - App that tells you how the daylight is changing.
 - [isowords](https://github.com/pointfreeco/isowords) - Word search game on a vanishing cube, built in SwiftUI and the Composable Architecture. ([Web](https://www.isowords.xyz/))
 - [Spotify Daily](https://github.com/ThasianX/SpotifyDaily) - Open-Source Spotify App. ([HN](https://news.ycombinator.com/item?id=21867728))
+- [Spotify Clone](https://github.com/gabrieldenoni/SpotifyClone) - iOS app that visually clones Spotify's app and consumes the official Spotify's Web API.
 - [Tap It](https://github.com/nikitamounier/tapit-app) - Enables two people to seamlessly share their social media information by simply placing one screen on top of the other horizontally.
 - [Wiggles](https://github.com/sameersyd/Wiggles-iOS) - Beautiful Puppy adoption app built to Demonstrate the SwiftUI and MVVM Architecture.
 - [EVOlution](https://github.com/Evolution-App/iOS) - Unofficial app for Swift Evolution.
@@ -423,7 +424,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [This Week in Glean: Building and Deploying a Rust library on iOS (2022)](https://fnordig.de/2022/01/31/rust-libraries-on-ios/)
 - [iLEAPP](https://github.com/abrignoni/iLEAPP) - iOS Logs, Events, And Plist Parser.
 - [Clutch](https://github.com/KJCracks/Clutch) - High-speed iOS decryption tool.
-- [Туториалы для iOS разработчиков](https://sparrowcode.io/en) ([Russian](https://sparrowcode.io/ru))
+- [Туториалы для iOS разработчиков](https://sparrowcode.io/en) ([Russian](https://sparrowcode.io/ru)) ([Code](https://github.com/sparrowcode/Website))
 - [Warming Up To Havana: Accelerate iOS Builds With Binary Caching Using Tuist 2.x (2022)](https://ronanociosoig.medium.com/warming-up-to-havana-accelerate-ios-builds-with-binary-caching-using-tuist-2-x-bd9ea6631a92) ([Code](https://github.com/ronanociosoig/TuistHavana))
 - [iOS kernel heap memory profiler](https://github.com/parsdefense/ios-kernel-heap-profiler) - Watch your iOS kernel heap live as you groom it.
 - [Advanced iOS App Architecture Book](https://www.raywenderlich.com/books/advanced-ios-app-architecture)

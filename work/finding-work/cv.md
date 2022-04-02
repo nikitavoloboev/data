@@ -113,3 +113,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Resume Parser](https://resume-parser.vercel.app/) - Uses Lever's resume parsing API to parse resumes.
 - [Reactive Resume](https://rxresu.me/) - Free and open source resume builder. ([Code](https://github.com/AmruthPillai/Reactive-Resume))
 - [Mac: Open source machine and human compatible CV standard](https://github.com/getmanfred/mac) ([HN](https://news.ycombinator.com/item?id=30818877))
+- [CV tips](https://twitter.com/the2pizza/status/1509459431284789250)

@@ -240,3 +240,5 @@
 - [Modern data analysis stack (2022)](https://twitter.com/__mharrison__/status/1504504516393127964)
 - [Stop aggregating away the signal in your data (2022)](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/)
 - [OpenMetadata](https://open-metadata.org/) - Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right. ([Code](https://github.com/open-metadata/OpenMetadata))
+- [Rill Data](https://www.rilldata.com/) - Fully Managed Apache Druid as a Service. ([Rill Developer](https://github.com/rilldata/rill-developer))
+- [Glean](https://glean.io/) - Fast data insights for your team.

@@ -8,7 +8,7 @@
 - [Argh](https://github.com/adishavit/argh) - Minimalist argument handler.
 - [CLI11](https://github.com/CLIUtils/CLI11) - Command line parser for C++11.
 
-## Testing
+## Test
 
 - [Catch2](https://github.com/catchorg/Catch2) - Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later.
 - [Google Test](https://github.com/google/googletest) - Google Testing and Mocking Framework.
@@ -17,6 +17,7 @@
 - [RapidCheck](https://github.com/emil-e/rapidcheck) - C++ framework for property based testing inspired by QuickCheck and other similar frameworks.
 - [doctest](https://github.com/doctest/doctest) - Fastest feature-rich C++11/14/17/20 single-header testing framework.
 - [UT](https://github.com/boost-ext/ut) - C++20 μ(micro)/Unit Testing Framework.
+- [Tau](https://github.com/jasmcaus/tau) - Micro Unit Test Framework for C/C++.
 
 ## Concurrency
 
@@ -363,6 +364,8 @@
 - [Easy3D](https://github.com/LiangliangNan/Easy3D) - Lightweight, easy-to-use, and efficient C++ library for processing and rendering 3D data.
 - [rangeless](https://github.com/ast-al/rangeless) - Library of higher-order functions for data manipulation.
 - [OpenDHT](https://github.com/savoirfairelinux/opendht) - Lightweight C++17 Distributed Hash Table implementation.
+- [Kokkos](https://github.com/kokkos/kokkos-kernels) - C++ Performance Portability Programming EcoSystem: Math Kernels - Provides BLAS, Sparse BLAS and Graph Kernels.
+- [BOUT++](https://github.com/boutproject/BOUT-dev) - Framework for writing fluid and plasma simulations in curvilinear geometry.
 
 ## Links
 

@@ -70,6 +70,7 @@
 ## ML
 
 - [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks.
+- [Easytensor](https://github.com/achirkin/easytensor) - Many-dimensional type-safe numeric ops.
 
 ## Math
 
@@ -271,6 +272,7 @@
 - [Language-ecmascript](https://github.com/jswebtools/language-ecmascript) - Haskell library for parsing, transforming and pretty-printing JavaScript.
 - [sparkle](https://github.com/tweag/sparkle) - Apache Spark applications in Haskell.
 - [eliminators](https://github.com/RyanGlScott/eliminators) - Dependently typed elimination functions using singletons.
+- [typed-process](https://github.com/fpco/typed-process) - Alternative API for processes, featuring more type safety.
 
 ## Notes
 
@@ -305,3 +307,4 @@
 - [Haskell (Almost) Standard Libraries Book (2022)](https://leanpub.com/haskell-stdlibs/)
 - [thax](https://github.com/tek/thax) - Create haskell tags from nix dependencies.
 - [Pure Print-Style Debugging in Haskell (2022)](https://medium.com/pragmatic-programmers/pure-print-style-debugging-in-haskell-c4c5d4f39afa) ([Lobsters](https://lobste.rs/s/iwkrig/pure_print_style_debugging_haskell))
+- [Foliage](https://github.com/andreabedini/foliage) - Tool to create custom Haskell package repositories, in a fully reproducible way.

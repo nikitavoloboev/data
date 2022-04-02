@@ -221,6 +221,7 @@
 - [A flexible, lightweight, spin-lock barrier (2022)](https://nullprogram.com/blog/2022/03/13/)
 - [C Isn't A Programming Language Anymore (2022)](https://gankra.github.io/blah/c-isnt-a-language/) ([Lobsters](https://lobste.rs/s/w9sotc/c_isn_t_programming_language_anymore)) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/tg55ow/c_isnt_a_programming_language_anymore_faultlore/)) ([Tweet](https://twitter.com/Gankra_/status/1504208394802061326)) ([Reddit](https://www.reddit.com/r/rust/comments/tp37m4/c_isnt_a_programming_language_anymore_faultlore/))
 - [Quirks of C](https://gist.github.com/fay59/5ccbe684e6e56a7df8815c3486568f01)
-- [SubC](https://github.com/qeedquan/gosubc) - Simple subset of C originally written by Nils Holms for teaching newcomers  how to write a compiler.
+- [SubC](https://github.com/qeedquan/gosubc) - Simple subset of C originally written by Nils Holms for teaching newcomers how to write a compiler.
 - [c2go](https://github.com/goplus/c2go) - Convert C to Go.
 - [Implementing cosine in C from scratch (2020)](https://austinhenley.com/blog/cosine.html) ([HN](https://news.ycombinator.com/item?id=30844872))
+- [Writing a C Compiler Book](https://nostarch.com/writing-c-compiler) ([Article](https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html))

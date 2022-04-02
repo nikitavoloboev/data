@@ -66,3 +66,6 @@
 - [Scraper](https://github.com/arriqaaq/scraper) - Simple library to scrape and monitor multiple urls and provide prometheus metrics.
 - [Prometheus Development Dev Shell](https://github.com/roidelapluie/prometheus-nix-dev) - Nix flake to build & run Prometheus.
 - [Kube eagle](https://github.com/cloudworkz/kube-eagle) - Prometheus exporter created to provide a better overview of your resource allocation and utilization in a Kubernetes cluster.
+- [Grafana Mimir](https://grafana.com/oss/mimir/) - Horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. ([Code](https://github.com/grafana/mimir)) ([HN](https://news.ycombinator.com/item?id=30854734))
+
+- [Prometheus SQL Exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.

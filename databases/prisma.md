@@ -97,3 +97,4 @@
 - [prisma-case-format](https://github.com/iiian/prisma-case-format) - Give your introspected schema.prisma sane naming conventions.
 - [Prisma Reflector](https://github.com/prisma/reflector) - Utilities for meta-level interactions with the Prisma toolkit in Node.js.
 - [prisma-redis-middleware](https://github.com/Asjas/prisma-redis-middleware) - Prisma Middleware for caching queries in Redis.
+- [NextJS Plugin for Prisma](https://github.com/prisma-labs/next-prisma-plugin) - Enables Hot Reloads for the Prisma Client.

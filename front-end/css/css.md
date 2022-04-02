@@ -1,6 +1,6 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses.
+[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts.
 
 ## Nice templates
 
@@ -472,3 +472,5 @@ all: unset
 - [Master Styles](https://styles.master.co/) - Virtual CSS language with enhanced syntax. ([Code](https://github.com/master-co/styles))
 - [Josh Comeau – Secret Mechanisms of CSS (2022)](https://www.youtube.com/watch?v=Xt1Cw4qM3Ec)
 - [Understanding Layout Algorithms in CSS](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Load Config](https://github.com/postcss/postcss-load-config) - Autoload Config for PostCSS.
+- [CSS Contain and Content Visibility](https://github.com/push-based/css-contain-research)

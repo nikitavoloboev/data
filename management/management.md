@@ -1,5 +1,7 @@
 # Management
 
+[Linear](https://linear.app/) & [Height](https://height.app/) are nice project management tools. I personally use GitHub issues for all my project management tasks.
+
 ## Notes
 
 - [As a CTO, my default loop is 'First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat.](https://news.ycombinator.com/item?id=16802530)
@@ -189,3 +191,4 @@
 - [How to get the most out of your 1:1s (2022)](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/) ([HN](https://news.ycombinator.com/item?id=30593164))
 - [Trunk and Branches Model for Scaling Infrastructure Organizations](https://lethain.com/trunk-and-branches/)
 - [The Big List of Engineering Management Resources (2022)](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
+- [Hard to work with (2022)](https://lethain.com/hard-to-work-with/) ([HN](https://news.ycombinator.com/item?id=30861707))

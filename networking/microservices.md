@@ -102,3 +102,4 @@
 - [Cabourotte](https://github.com/mcorbin/cabourotte) - Monitoring tool to execute healthchecks on your infrastructure.
 - [Understanding why Resilience Faults in Microservice Applications Occur (2022)](https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.html)
 - [Microservices: Why Are We Doing This? (2022)](https://michaeldehaan.substack.com/p/microservices-why-are-we-doing-this) ([HN](https://news.ycombinator.com/item?id=30758723))
+- [Authorization in a Microservices World (2022)](https://www.alexanderlolis.com/authorization-in-a-microservices-world) ([HN](https://news.ycombinator.com/item?id=30878926))

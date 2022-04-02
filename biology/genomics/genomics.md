@@ -152,3 +152,7 @@
 - [Open Problems in Single-Cell Analysis](https://github.com/openproblems-bio/openproblems) - Formalizing and benchmarking open problems in single-cell genomics.
 - [HiGlass](http://higlass.io/app) - Fast, flexible and extensible genome browser. ([Code](https://github.com/higlass/higlass))
 - [Automated Genome Assembly](https://centuryofbio.substack.com/p/automated-genome-assembly?s=r)
+- [mashtree](https://github.com/lskatz/mashtree) - Create a tree using Mash distances.
+- [Orpheum](https://github.com/czbiohub/orpheum) - Python package for directly translating RNA-seq reads into coding protein sequence.
+- [SHAPEwarp](https://github.com/dincarnato/SHAPEwarp) - SHAPE-guided RNA structural homology search.
+- [The complete sequence of human genome](https://www.science.org/toc/science/376/6588)

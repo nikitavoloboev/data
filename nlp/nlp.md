@@ -509,3 +509,10 @@
 - [Word2Vec Explained. Explaining the Intuition of Word2Vec (2021)](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71) ([HN](https://news.ycombinator.com/item?id=30820299))
 - [imgbeddings](https://github.com/minimaxir/imgbeddings) - Python package to generate image embeddings with CLIP without PyTorch/TensorFlow.
 - [Linking Emergent and Natural Languages via Corpus Transfer (2022)](https://github.com/ysymyth/ec-nl)
+- [Transformer Inference Arithmetic (2022)](https://carolchen.me/blog/transformer-inference-arithmetic/)
+- [Training Compute-Optimal Large Language Models (2022)](https://arxiv.org/abs/2203.15556) ([Tweet](https://twitter.com/karpathy/status/1509227367302148098))
+- [KeyphraseVectorizers](https://github.com/TimSchopf/KeyphraseVectorizers) - Set of vectorizers that extract keyphrases with part-of-speech patterns from a collection of text documents and convert them into a document-keyphrase matrix.
+- [Gramformer](https://github.com/PrithivirajDamodaran/Gramformer) - Framework for detecting, highlighting and correcting grammatical errors on natural language text.
+- [Classy Classification](https://github.com/Pandora-Intelligence/classy-classification) - Easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classificaiton with Huggingface.
+- [Sphere](https://github.com/facebookresearch/Sphere) - Web-scale retrieval for knowledge-intensive NLP.
+- [muTransformers](https://github.com/microsoft/mutransformers) - Common Huggingface transformers in maximal update parametrization (µP).

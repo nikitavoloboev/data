@@ -162,6 +162,7 @@
 - [The Reader Monad — Example & Motivation (2018)](https://engineering.dollarshaveclub.com/the-reader-monad-example-motivation-542c54ccfaa8)
 - [How side effects work in FP](https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/) ([HN](https://news.ycombinator.com/item?id=30762281))
 - [Monads (2022)](https://blog.ploeh.dk/2022/03/28/monads/) ([Lobsters](https://lobste.rs/s/bip7oc/monads))
+- [Two Vexing Problems in Functional Programming (2022)](https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html) ([HN](https://news.ycombinator.com/item?id=30878534))
 
 ## Images
 

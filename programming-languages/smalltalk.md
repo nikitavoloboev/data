@@ -47,3 +47,4 @@
 - [I can read C++ and Java but I can’t read Smalltalk (2000)](http://www.eli.sdsu.edu/courses/spring01/cs635/readingSmalltalk.pdf) ([HN](https://news.ycombinator.com/item?id=29573959))
 - [On Learning Smalltalk (2022)](https://blog.robsayers.com/on-learning-smalltalk) ([HN](https://news.ycombinator.com/item?id=29890205)) ([Lobsters](https://lobste.rs/s/qiteeh/on_learning_smalltalk))
 - [Functional programming patterns in Smalltalk (2022)](https://blog.wilcoxd.com/2022/02/21/Functional-Programming-Patterns-In-Smalltalk/) ([HN](https://news.ycombinator.com/item?id=30513940))
+- [Pharo](https://pharo.org/) - Dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk. ([Code](https://github.com/pharo-project/pharo))

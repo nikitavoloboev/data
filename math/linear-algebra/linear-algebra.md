@@ -4,6 +4,7 @@
 
 - Lots of matrices don't have an inverse.
 - [It is useful to simply think of matrices as systems of linear equations.](https://www.reddit.com/r/mathmemes/comments/rosrel/linear_algebra_in_a_nutshell/)
+- [Seeing the derivative operator represented as a matrix, acting over the polynomial vector space can open your eyes. Taking the determinant of that matrix shows that d/dx isn't invertible. Thinking of the fixed point of the transformation yields exp, the eigenfunction of the operator.](https://news.ycombinator.com/item?id=30866244)
 
 ## Links
 
@@ -20,7 +21,7 @@
 - [Oxford Linear Algebra II course (2020)](https://courses.maths.ox.ac.uk/node/43829)
 - [No bullshit guide to linear algebra notebooks](https://github.com/minireference/noBSLAnotebooks)
 - [MIT Linear Algebra Lectures (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-- [An Intuitive Guide to Linear Algebra (2012)](https://betterexplained.com/articles/linear-algebra-guide/) ([HN](https://news.ycombinator.com/item?id=22416319))
+- [An Intuitive Guide to Linear Algebra](https://betterexplained.com/articles/linear-algebra-guide/) ([HN](https://news.ycombinator.com/item?id=22416319)) ([HN](https://news.ycombinator.com/item?id=30866244))
 - [A 2020 Vision of Linear Algebra (2020)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/) ([HN](https://news.ycombinator.com/item?id=23150699))
 - [GraphBLAST](https://github.com/gunrock/graphblast) - High-Performance Linear Algebra-based Graph Primitives on GPUs.
 - [Graph BLAS](http://graphblas.org/index.php?title=Graph_BLAS_Forum) - Graph algorithms in the language of linear algebra. ([HN](https://news.ycombinator.com/item?id=23285845))

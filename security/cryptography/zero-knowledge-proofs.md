@@ -69,3 +69,4 @@
 - [Curve ecGFp5](https://github.com/pornin/ecgfp5) - Elliptic curve defined over a field.
 - [RISC Zero](https://github.com/risc0/risc0) - Zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 - [Awesome Zero Knowledge](https://github.com/ventali/awesome-zk)
+- [Arbibot RPS](https://github.com/botdad/arbirps) - On chain rock paper scissors game using zero knowledge proofs for hiding plays.

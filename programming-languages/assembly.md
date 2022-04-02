@@ -89,3 +89,4 @@
 - [strop](https://github.com/omarandlorraine/strop) Stochastically generates assembly language programs that compute a given function.
 - [x86-64](https://github.com/divipp/x86-64) - Runtime code generation for x86 64 bit machine code.
 - [The Art of Assembly Language Programming (1996)](http://www.phatcode.net/res/223/files/html/toc.html) ([HN](https://news.ycombinator.com/item?id=30575920))
+- [pclmulqdq Tricks (2020)](https://wunkolo.github.io/post/2020/05/pclmulqdq-tricks/)

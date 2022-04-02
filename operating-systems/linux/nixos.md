@@ -204,3 +204,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixNG](https://github.com/MagicRB/NixNG) - GNU/Linux distribution, which may be a considered a late sibling to NixOS.
 - [RPATH, or why lld doesn’t work on NixOS (2022)](https://matklad.github.io//2022/03/14/rpath-or-why-lld-doesnt-work-on-nixos.html) ([HN](https://news.ycombinator.com/item?id=30688815))
 - [Toy highly-available Kubernetes cluster on NixOS](https://github.com/justinas/nixos-ha-kubernetes)
+- [Vulnix](https://github.com/flyingcircusio/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.

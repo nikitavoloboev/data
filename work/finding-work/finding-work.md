@@ -159,3 +159,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Senior devs. Is anyone else insulted by coding exams? (2022)](https://news.ycombinator.com/item?id=30615411)
 - [Тред с ресурсами для поиска удаленной работы](https://twitter.com/kozlovzxc/status/1501932904246513679)
 - [Who is Hiring?](https://whoishiring.io/)
+- [Techmap.io](https://techmap.io/) - Find Companies using Technologies you Love!.

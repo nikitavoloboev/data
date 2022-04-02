@@ -39,6 +39,8 @@
 - [Zeppelin](https://github.com/ZeppelinBot/Zeppelin) - Moderation bot for Discord, designed with large servers and reliability in mind.
 - [awwbot](https://github.com/JustinBeckwith/awwbotcf) - Example of a Discord Bot using Cloudflare Workers.
 - [discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - Simple discord bot that helps you getting started within discord.py.
+- [nextcord](https://github.com/alii/nextcord) - TypeScript serverless Discord bot using Next.js.
+- [imgdl](https://github.com/Fyko/imgdl-bot) - Discord bot to recursively download images from a Discord channel.
 
 ## Libraries
 
@@ -77,6 +79,7 @@
 - [Concord](https://github.com/Cogmasters/concord) - C library for handling the Discord API. ([Reddit](https://www.reddit.com/r/programming/comments/tcjosy/ever_wanted_to_write_discord_bots_in_c_probably/))
 - [Conflict](https://github.com/YodaLightsabr/conflict) - JavaScript UI framework for Discord bots.
 - [zCord](https://github.com/fengb/zCord) - Zig Discord API with zero allocations in the critical path.
+- [Discord Bot Template](https://github.com/Fyko/bot-template)
 
 ## Notes
 

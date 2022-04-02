@@ -100,7 +100,7 @@ Bitcoin is a [complete environmental disaster](https://twitter.com/smdiehl/statu
 - [bitcoin-p2p](https://github.com/stevenroose/rust-bitcoin-p2p) - Rust implementation of Bitcoin p2p protocol.
 - [Lightning Bitcoin Core](https://github.com/lbtcio/lbtc-core) - Fully decentralized Internet-of-value protocol for global payments.
 - [BRD](https://brd.com/) - Bitcoin wallet. ([Code](https://github.com/breadwallet/breadwallet-ios))
-- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect)) ([Explorer](https://explorer.stacks.co/?chain=mainnet)) ([Explorer Code](https://github.com/hirosystems/explorer))
+- [Stacks](https://www.stacks.co/) - Smart contracts for Bitcoin. ([Code](https://github.com/blockstack/connect)) ([GitHub](https://github.com/blockstack)) ([Library Code](https://github.com/blockstack/connect)) ([Explorer](https://explorer.stacks.co/?chain=mainnet)) ([Explorer Code](https://github.com/hirosystems/explorer)) ([Docs](https://docs.stacks.co/)) ([Docs Code](https://github.com/stacks-network/docs))
 - [Smart contracts on Bitcoin (2021)](https://avc.com/2021/01/smart-contracts-on-bitcoin/) ([HN](https://news.ycombinator.com/item?id=25781645))
 - [Bitcoin Layer 2: Lightning Network Resources](https://www.lopp.net/lightning-information.html)
 - [Clarity Smart Contract Language](https://clarity-lang.org/) - Lisp-like Smart Contracts on Bitcoin. ([GitHub](https://github.com/clarity-lang))

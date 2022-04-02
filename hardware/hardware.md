@@ -303,3 +303,5 @@
 - [Mac Studio M1 Ultra Teardown (2022)](https://www.youtube.com/watch?v=IY0gRMpT4AY) ([HN](https://news.ycombinator.com/item?id=30735790))
 - [What ASML Has Next After EUV (2022)](https://www.youtube.com/watch?v=en7hhFJBrAI)
 - [What made the NES so interesting? (2022)](https://nicole.express/2022/the-nes-as-an-artifact.html) ([HN](https://news.ycombinator.com/item?id=30816668))
+- [PipelineC](https://github.com/JulianKemmerer/PipelineC) - C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language construct/compiler feature.
+- [PDL](https://github.com/apl-cornell/PDL) - Hardware Pipeline Description Language.

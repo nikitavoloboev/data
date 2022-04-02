@@ -17,3 +17,4 @@
 - [Sudoku solver in Nix](https://github.com/siraben/nix-sudoku)
 - [JavaScript Sudoku solver (2021)](https://lisperator.net/blog/javascript-sudoku-solver/)
 - [Crosswordle](https://crosswordle.vercel.app/) - Sudoku meets Wordle.
+- [Do revolutionary new Sudoku techniques teach about real-world problem solving?](https://desystemize.substack.com/p/desystemize-9?s=r) ([HN](https://news.ycombinator.com/item?id=30863073))

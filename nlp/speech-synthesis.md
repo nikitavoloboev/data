@@ -63,3 +63,4 @@
 - [IMS Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Toolkit to train state-of-the-art Speech Synthesis models.
 - [BDDM: Bilateral Denoising Diffusion Models for Fast and High-quality Speech Synthesis (2022)](https://github.com/tencent-ailab/bddm)
 - [Deep Learning for Emotional Text-to-speech](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - Summary on our attempts at using Deep Learning approaches for Emotional Text to Speech.
+- [Nix-TTS](https://github.com/rendchevi/nix-tts) - Incredibly Lightweight End-to-End Text-to-Speech Model via Non End-to-End Distillation.

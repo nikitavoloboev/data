@@ -113,3 +113,5 @@
 - [Example for building a simple peer to peer application using Rust](https://github.com/zupzup/rust-peer-to-peer-example)
 - [Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf) ([Code](https://github.com/arriqaaq/chord))
 - [Local-First SDK](https://github.com/cloudpeers/tlfs)
+- [Fritter](https://github.com/beakerbrowser/fritter) - Example application that demonstrates how to build peer-to-peer Web applications with Beaker Browser, Dat, and WebDB.
+- [Why Hypercore?](https://github.com/pfrazee/why-hypercore)

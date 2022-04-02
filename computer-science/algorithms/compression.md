@@ -108,3 +108,5 @@
 - [Dictionary Compression (2022)](https://kevincox.ca/2022/03/01/dictionary-compression/) ([HN](https://news.ycombinator.com/item?id=30517656))
 - [Compressing and embedding a Wordle word list (2022)](https://nullprogram.com/blog/2022/03/07/) ([Lobsters](https://lobste.rs/s/smtr5t/compressing_embedding_wordle_word_list))
 - [zlib](https://github.com/haskell/zlib) - Compression and decompression in the gzip and zlib format.
+- [QOI — The Quite OK Image Format](https://qoiformat.org/) ([HN](https://news.ycombinator.com/item?id=30885668))
+- [littleZip](https://github.com/Nexxkinn/littleZip) - Memory-friendly basic zip compression, decompression, and single file extraction for deno framework.

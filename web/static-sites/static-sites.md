@@ -118,3 +118,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Self-Host Your Static Assets (2019)](https://csswizardry.com/2019/05/self-host-your-static-assets/)
 - [Static Starter Boilerplate](https://www.staticstarter.com/) - Build Better & Faster Websites Today.
 - [Static Web Server](https://github.com/joseluisq/static-web-server) - Blazing fast and asynchronous web server for static files-serving.
+- [Bookshop](https://github.com/CloudCannon/bookshop) - Component development workflow for static websites.

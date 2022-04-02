@@ -299,6 +299,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-http-metrics](https://github.com/slok/go-http-metrics) - Measure HTTP metrics in different metric formats and Go HTTP framework/libs.
 - [go-ipam](https://github.com/metal-stack/go-ipam) - Module to handle IP address management. It can operate on networks, prefixes and IPs.
 - [Extemplate](https://github.com/dannyvankooten/extemplate) - Wrapper package for Go's template/html to allow for easy file-based template inheritance.
+- [echo-swagger](https://github.com/swaggo/echo-swagger) - Echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
 
 ## GraphQL
 
@@ -447,6 +448,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Cloud SQL Go Connector](https://github.com/GoogleCloudPlatform/cloud-sql-go-connector) - Cloud SQL connector designed for use with the Go language.
 - [agecache](https://github.com/segmentio/agecache) - LRU cache with support for max age.
 - [chartmuseum/storage](https://github.com/chartmuseum/storage) - Go library providing a common interface for working across multiple storage backends.
+- [go-blockservice](https://github.com/ipfs/go-blockservice) - Seamless interface to both local and remote storage backends.
 
 ## ML
 
@@ -478,6 +480,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## WASM
 
 - [gocalstorage](https://github.com/superloach/gocalstorage) - Go bindings for the JavaScript Storage APIs, using WASM.
+- [vert](https://github.com/norunners/vert) - WebAssembly interop between Go and JS values.
 
 ## GUI
 
@@ -501,6 +504,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [clusters](https://github.com/muesli/clusters) - Data structs and algorithms for clustering data observations and basic computations in n-dimensional spaces.
 - [Autodiff](https://github.com/pbenner/autodiff) - Numerical library for Go. Supports automatic differentiation.
 - [go3d](https://github.com/ungerik/go3d) - Performance oriented vector and matrix math package for 2D and 3D graphics.
+- [go-moremath](https://github.com/aclements/go-moremath) - Assortment of more specialized math routines for Go.
 
 ## Docker
 
@@ -557,6 +561,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Errors](https://github.com/emperror/errors) - Drop-in replacement for the standard library errors package and github.com/pkg/errors.
 - [semgroup](https://github.com/fatih/semgroup) - Provides synchronization and error propagation, for groups of goroutines working on subtasks of a common task.
 - [errors](https://github.com/alecthomas/errors) - Simple error wrapping package that automatically adds source locations to errors.
+- [Benchmarking Go errors](https://github.com/nikolaydubina/go-bench-errors)
 
 ## Other
 
@@ -1480,6 +1485,15 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [goid](https://github.com/petermattis/goid) - Programmatically retrieve the current goroutine's ID.
 - [goRBAC](https://github.com/mikespook/gorbac) - Lightweight role-based access control implementation in Go.
 - [myago](https://github.com/mjpitz/myago) - Utilities for building distributed systems.
+- [gxjpath](https://github.com/vburenin/gxjpath) - XJPath for Go. An easy way to get values from the deeps of JSON structures.
+- [text](https://github.com/kr/text) - Miscellaneous functions for formatting text.
+- [Stream](https://github.com/xyctruth/stream) - Stream processing library based on Go 1.18+ Generics (parallel, pipeline, lazy).
+- [go-digest](https://github.com/opencontainers/go-digest) - Common digest package used across the container ecosystem.
+- [memoryfs](https://github.com/liamg/memoryfs) - In-memory filesystem implementation of io/fs.FS.
+- [Omniparser](https://github.com/jf-tech/omniparser) - Native Go ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc.
+- [validate](https://github.com/nikolaydubina/validate) - No reflection. no gencode. hierarchical and extendable. fairly fast. 100LOC. generics.
+- [fleep](https://github.com/paliimx/fleep-go) - File format determination package for Go.
+- [Koazee](https://github.com/wesovilabs/koazee) - StreamLike, Immutable, Lazy Loading and smart Go Library to deal with slices.
 
 ## Links
 
@@ -1560,3 +1574,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoPlantUML](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for Go projects.
 - [vanity](https://github.com/kare/vanity) - Go vanity domain HTTP handler.
 - [Courtney](https://github.com/dave/courtney) - Coverage tool for Go.
+- [ifacemaker](https://github.com/vburenin/ifacemaker) - Generate interfaces from structure methods.
+- [Code examples for learning](https://github.com/betNevS/code-examples)
+- [Go mod's lesser known features](https://verdverm.com/go-mods/) ([HN](https://news.ycombinator.com/item?id=30872168))
+- [Using Go for traditional Web application development examples (2022)](https://www.reddit.com/r/golang/comments/ttwole/anyone_here_using_go_for_more_traditional_web/?sort=top)

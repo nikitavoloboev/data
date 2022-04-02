@@ -8,6 +8,7 @@
 - [Remix Indie Stack](https://github.com/remix-run/indie-stack) - Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [Remix Grunge Stack](https://github.com/remix-run/grunge-stack) - Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.
 - [Remix Supa Fly Stack](https://github.com/rphlmr/supa-fly-stack) - Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.
+- [Azure Remix Stack](https://github.com/aaronpowell/azure-remix-stack)
 - [Remix Template](https://github.com/QuentinWidlocher/remix-template) - Batteries included Remix template with Tailwind, Prisma and powerful form utils.
 - [Remix Starter](https://github.com/AnandChowdhary/remix-starter) - Remix starter with intuitive defaults, like support for internationalization and localized URLs.
 - [Remix Jokes](https://github.com/remix-run/remix-jokes)
@@ -30,6 +31,7 @@
 - [Remix + Stitches](https://github.com/jjenzz/remix-stitches)
 - [Hacker News Clone Remix/React](https://github.com/clintonwoo/hackernews-remix-react)
 - [Remix TS Tailwind Quick Start](https://github.com/resir014/remix-typescript-tailwind-quickstart)
+- [Remix + React 18 Streaming](https://github.com/jacob-ebey/remix-react-18-streaming)
 
 ## Plugins
 

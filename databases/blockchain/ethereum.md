@@ -4,7 +4,7 @@ Ethereum is a virtual machine built using a blockchain (spread around many clien
 
 It is quite useless however due to it having [too high fees](https://twitter.com/austerity_sucks/status/1457064593591840773) compared to [any other proper PoS chain](https://twitter.com/immaterial_ink/status/1457453404087857162). [Solidity](https://soliditylang.org) is nice prototype language which you can use with [Solang](https://solang.readthedocs.io/en/latest/) & compile it to [more efficient chains](https://twitter.com/deepfates/status/1458937791430098947).
 
-[StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting.
+[StarkNet](https://starkware.co/starknet/) & [Cairo](https://www.cairo-lang.org/) are interesting. [Eth2 Book](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) seems nice.
 
 ## Notes
 
@@ -189,7 +189,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Expedition](https://expedition.dev/) - Block explorer for the Ethereum stack. ([Code](https://github.com/xops/expedition))
 - [Sourcify](https://github.com/ethereum/sourcify) - Solidity re-compiler that can be used to verify that bytecode corresponds to certain source code.
 - [Wormhole](https://github.com/certusone/wormhole) - ETH <-> SOL <-> Terra token bridge developed by Certus One.
-- [MetaMask Browser Extension](https://metamask.io/) - Enables browsing Ethereum blockchain enabled websites. ([Code](https://github.com/MetaMask/metamask-extension))
+- [MetaMask Browser Extension](https://metamask.io/) - Enables browsing Ethereum blockchain enabled websites. ([Code](https://github.com/MetaMask/metamask-extension)) ([MetaMask Mobile Code](https://github.com/MetaMask/metamask-mobile))
 - [Example of connecting to an Ethereum wallet using React & Web3](https://gist.github.com/dabit3/ba2685a379236d933ba85c30d00ec50c) ([Tweet](https://twitter.com/dabit3/status/1375231016068128770))
 - [Ethereum Utilities](https://github.com/ethereum/eth-utils) - Common utility functions for python code that interacts with Ethereum.
 - [Onboard](https://github.com/blocknative/onboard) - JavaScript library to easily onboard users to ethereum apps by enabling wallet selection, connection, wallet checks and real time state updates.
@@ -412,7 +412,8 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Flashbots Protect RPC Endpoint](https://github.com/flashbots/rpc-endpoint)
 - [web3-ui](https://github.com/Developer-DAO/web3-ui) - Library of UI components specifically crafted for web3 use cases.
 - [Subway](https://github.com/libevm/subway) - Practical example on how to perform sandwich attacks on Ethereum.
-- [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ([Things to do](https://github.com/gakonst/foundry/issues/536))
+- [Foundry](https://github.com/gakonst/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust. ([Things to do](https://github.com/gakonst/foundry/issues/536)) ([Web](https://getfoundry.sh/))
+- [Foundry Book](https://book.getfoundry.sh/) ([Code](https://github.com/onbjerg/foundry-book))
 - [Optimistic Ethereum Tutorials](https://github.com/ethereum-optimism/optimism-tutorial)
 - [The Portal Network](https://github.com/ethereum/portal-network-specs) - Specifications for the Stateless Ethereum research effort.
 - [Ethereum Code Viewer](https://github.com/dethcrypto/ethereum-code-viewer) - View source of deployed Ethereum contracts in VSCode.
@@ -561,3 +562,9 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Panoramix](https://github.com/palkeo/panoramix) - Ethereum decompiler.
 - [Ethereum Formal Verification](https://github.com/leonardoalt/ethereum_formal_verification_overview) - Overview of the formal verification projects in the Ethereum ecosystem.
 - [ethereum-bloom-filters](https://github.com/joshstevens19/ethereum-bloom-filters) - Ability to check bloom filters on ethereum.
+- [foundry-toolchain](https://github.com/onbjerg/foundry-toolchain) - GitHub action to install Foundry.
+- [foundrydeploy](https://github.com/joshieDo/foundrydeploy) - Limited scripting language to implement a basic deployment pipeline using foundry.
+- [femplate](https://github.com/abigger87/femplate) - Robust Template for Foundry Projects.
+- [alloys](https://github.com/abigger87/alloys) - Modularized, Cross-Domain Fungible ERC721 Kinks.
+- [metamask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets.
+- [Book about Ethereum](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) ([Code](https://github.com/smartcontracts/eth2-book))

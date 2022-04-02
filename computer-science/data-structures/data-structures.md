@@ -1,5 +1,7 @@
 # Data structures
 
+[Data Structures and Algorithms in Go](https://github.com/paliimx/Data-Structures-and-Algorithms) is a good list.
+
 ## Notes
 
 - The basic building block is a linked list and most structures are built using these. Depending on how the data structure is set up and used, it can be a queue, stack, tree, etc.
@@ -106,3 +108,4 @@
 - [Data Structures in the Fleet Editor (2022)](https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/) ([HN](https://news.ycombinator.com/item?id=30415868))
 - [Segment Trees](https://en.algorithmica.org/hpc/data-structures/segment-trees/)
 - [Functional Queues](https://vfoley.xyz/functional-queues/)
+- [Data Structures and Algorithms in Go](https://github.com/paliimx/Data-Structures-and-Algorithms)

@@ -23,3 +23,5 @@
 - [Top PostgreSQL Flavors and Extensions that work with Hasura (2021)](https://hasura.io/blog/postgresql-flavors-extensions-work-with-hasura/)
 - [Hasura Super App](https://github.com/hasura/hasura-ecommerce) - Full featured reference application demonstrating many of the powerful features of Hasura's GraphQL Engine.
 - [Building an offline first web app with RxDB & Hasura (2020)](https://hasura.io/blog/building-an-offline-first-web-app-with-rxdb-hasura/)
+- [Hasura Auth](https://github.com/nhost/hasura-auth) - Users are stored in Postgres and accessed via GraphQL.
+- [QikTrak](https://github.com/chrisnurse/qik-trak) - Zero touch solution to automatically configure database tracking in Hasura GraphQL.

@@ -189,3 +189,5 @@
 - [On Aliased Resizing and Surprising Subtleties in GAN Evaluation (2022)](https://www.cs.cmu.edu/~clean-fid/) ([Code](https://github.com/GaParmar/clean-fid))
 - [High-fidelity GAN Inversion with Padding Space (2022)](https://arxiv.org/abs/2203.11105) ([Code](https://github.com/EzioBy/padinv))
 - [Neural Neighbor Style Transfer](https://github.com/nkolkin13/NeuralNeighborStyleTransfer)
+- [CLIPstyler: Image Style Transfer with a Single Text Condition (2021)](https://arxiv.org/abs/2112.00374) ([Code](https://github.com/cyclomon/CLIPstyler))
+- [AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation](https://github.com/Ha0Tang/AttentionGAN)

@@ -66,3 +66,4 @@
 - [SNES Development Part 1: Getting Started (2022)](https://blog.wesleyac.com/posts/snes-dev-1-getting-started)
 - [Apple I Emulator (2019)](https://www.shadertoy.com/view/tlX3W7) ([HN](https://news.ycombinator.com/item?id=30718854))
 - [Hades](https://github.com/Arignir/Hades) - Nintendo Game Boy Advance emulator.
+- [Binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.

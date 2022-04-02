@@ -30,6 +30,7 @@
 ## DB
 
 - [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir. ([Brief Guide to Ecto](https://serokell.io/blog/ecto-guide-for-beginners)) ([Tweet](https://twitter.com/josevalim/status/1489522409426325504))
+- [TypedEctoSchema](https://github.com/bamorim/typed_ecto_schema) - Library to define Ecto schemas with typespecs without all the boilerplate code.
 - [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [EctoMorph](https://github.com/Adzz/ecto_morph) - Morphs your Ecto capabilities.
 - [DBConnection](https://github.com/elixir-ecto/db_connection) - Database connection behavior.
@@ -46,6 +47,7 @@
 - [TaskBunny](https://github.com/shinyscorpion/task_bunny) - Background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 - [litestream](https://github.com/akoutmos/litestream) - Wraps Litestream so that SQLite databases can be easily backed up.
 - [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
+- [ExAudit](https://github.com/ZennerIoT/ex_audit) - Ecto auditing library that transparently tracks changes and can revert them.
 
 ## Test
 
@@ -152,6 +154,7 @@
 - [Focus](https://github.com/smpoulsen/focus) - Lightweight, pure Elixir functional optics.
 - [Envy](https://github.com/BlakeWilliams/envy) - Elixir library to load environment variables from .env and environment specific env files.
 - [ExWaiter](https://github.com/baldwindavid/ex_waiter) - Helper for waiting on asynchronous conditions to be met.
+- [Rollbax](https://github.com/ForzaElixir/rollbax) - Exception tracking and logging from Elixir to Rollbar.
 
 ## Links
 

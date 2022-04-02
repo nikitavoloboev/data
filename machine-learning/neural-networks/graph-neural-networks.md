@@ -101,3 +101,6 @@
 - [GraphSAGE](http://snap.stanford.edu/graphsage/) - Inductive Representation Learning on Large Graphs. ([PyTorch Code](https://github.com/twjiang/graphSAGE-pytorch))
 - [Topological Graph Neural Networks (2022)](https://github.com/BorgwardtLab/TOGL)
 - [Heterogeneous Graph Neural Network](https://github.com/Jhy1993/HAN)
+- [Graph Condensation for Graph Neural Networks (2022)](https://openreview.net/pdf?id=WLEx3Jo4QaB) ([Code](https://github.com/ChandlerBang/GCond))
+- [Awesome Self Supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) - Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
+- [ptgnn](https://github.com/microsoft/ptgnn) - PyTorch Graph Neural Network Library.

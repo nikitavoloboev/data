@@ -93,3 +93,4 @@
 - [gRPC website code](https://github.com/grpc/grpc.io)
 - [grpc-actix](https://github.com/m10io/grpc-actix) - Fast, actor-based gRPC implementation in Rust.
 - [REST <-> gRPC gateway library implementation with OpenResty](https://github.com/ysugimoto/lua-resty-grpc-gateway)
+- [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for generating TypeScript Declarations.

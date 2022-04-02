@@ -74,3 +74,4 @@
 - [Bondcat](https://github.com/benjojo/bondcat) - Netcat like system utility that has the ability to combine multiple TCP connections for better transfer speeds, but also better reliability.
 - [Socklab](https://github.com/drakkar-lig/socklab) - Interactive tool to learn about the socket API for UDP and TCP, without having to actually write C code.
 - [Benchmark TCP bandwidth and latency with Rust](https://github.com/LorenzoMartini/rust-tcp-io-perf)
+- [TCP Checker](https://github.com/tevino/tcp-shaker) - Performing TCP handshake without ACK in Go, useful for health checking, that is SYN, SYN-ACK, RST.

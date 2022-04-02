@@ -551,7 +551,7 @@ if err != nil {
 - [Go pattern: graceful shutdown of concurrent events (2020)](https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/)
 - [The Go Programming Language Book (2015)](http://www.gopl.io/) ([Code](https://github.com/adonovan/gopl.io))
 - [Cloud Native Go Book (2021)](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/) ([Code](https://github.com/cloud-native-go/examples))
-- [Go’ing Insane: Endless Error Handling (2021)](https://jesseduffield.com/Gos-Shortcomings-1/) ([HN](https://news.ycombinator.com/item?id=28522269)) ([Lobsters](https://lobste.rs/s/yjvmlh/go_ing_insane_part_one_endless_error))
+- [Go’ing Insane: Endless Error Handling (2021)](https://jesseduffield.com/Gos-Shortcomings-1/) ([HN](https://news.ycombinator.com/item?id=28522269)) ([Lobsters](https://lobste.rs/s/yjvmlh/go_ing_insane_part_one_endless_error)) ([Lobsters](https://lobste.rs/s/6ahsy9/some_thoughts_on_go_s_unusual_approach))
 - [Go: Code of Conduct Updates (2021)](https://go.dev/blog/conduct-2021) ([HN](https://news.ycombinator.com/item?id=28556318))
 - [Go'ing Insane Part Three: Imperfect Interfaces (2021)](https://jesseduffield.com/Gos-Shortcomings-3/) ([Reddit](https://www.reddit.com/r/golang/comments/pqfgi9/going_insane_part_three_imperfect_interfaces/))
 - [Go: How to update APIs for generics (2021)](https://github.com/golang/go/discussions/48287) ([HN](https://news.ycombinator.com/item?id=28545757))
@@ -742,3 +742,8 @@ if err != nil {
 - [An Introduction To Generics (2022)](https://go.dev/blog/intro-generics) ([Lobsters](https://lobste.rs/s/vcu5gq/introduction_generics)) ([Reddit](https://www.reddit.com/r/golang/comments/tkug37/go_blog_an_introduction_to_generics/)) ([HN](https://news.ycombinator.com/item?id=30804253))
 - [Why We Write Everything in Go (2022)](https://bitly.com/blog/why-we-write-everything-in-go/)
 - [Go Fuzz Testing (2022)](https://blog.fuzzbuzz.io/go-fuzzing-basics/) ([HN](https://news.ycombinator.com/item?id=30843814))
+- [IASM](https://github.com/chenzhuoyu/iasm) - Interactive Assembler for Go.
+- [Generics can make your Go code slower (2022)](https://planetscale.com/blog/generics-can-make-your-go-code-slower) ([HN](https://news.ycombinator.com/item?id=30856804)) ([Lobsters](https://lobste.rs/s/xqh1s2/generics_can_make_your_go_code_slower)) ([Reddit](https://www.reddit.com/r/programming/comments/tsac4z/generics_can_make_your_go_code_slower/))
+- [Generics Can Be Fast (If They’re Value Types) (2022)](https://www.dolthub.com/blog/2022-04-01-fast-generics/) ([Reddit](https://www.reddit.com/r/golang/comments/tu264v/generics_can_make_your_go_code_faster/))
+- [How Go Mitigates Supply Chain Attacks (2022)](https://go.dev/blog/supply-chain) ([Lobsters](https://lobste.rs/s/ipzpte/how_go_mitigates_supply_chain_attacks)) ([HN](https://news.ycombinator.com/item?id=30869261))
+- [Faster sorting with Go generics (2022)](https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/)

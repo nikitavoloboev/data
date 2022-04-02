@@ -151,3 +151,4 @@
 - [Wartime Commercial Policy and Trade between Enemies (2021)](https://direct.mit.edu/isec/article/46/1/9/102856/Wartime-Commercial-Policy-and-Trade-between?utm_source=pocket_mylist)
 - [What is Money, Anyway? (2022)](https://www.lynalden.com/what-is-money/) ([HN](https://news.ycombinator.com/item?id=30825505))
 - [Inflation, Interest Rates and the Fed: A Dissent (2022)](http://jwmason.org/slackwire/inflation-interest-rates-and-the-fed-a-dissent/) ([Tweet](https://twitter.com/JWMason1/status/1508652910514737154))
+- [Gary Schnitkey's research](https://scholar.google.com/citations?user=T2MeNqMAAAAJ)

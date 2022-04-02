@@ -136,6 +136,8 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [ManDrake](https://github.com/sveinbjornt/ManDrake) - Native Mac man page editor with syntax coloring, mandoc syntax checking & live preview.
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Free, open-source code editor for macOS. ([HN](https://news.ycombinator.com/item?id=30747211))
 - [Nimble](https://github.com/scade-platform/Nimble) - Lightweight native macOS editor based on everything we love about our favorite editors and IDEs.
+- [Doughnut](https://github.com/dyerc/Doughnut) - Podcast app. For Mac.
+- [Collected App](https://github.com/RoyalIcing/CollectedApp)
 
 ## Other interesting apps
 
@@ -184,6 +186,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [One Switch](https://fireball.studio/oneswitch)
 - [Quiver](https://happenapps.com/#quiver) - Programmer's Notebook.
 - [SOL](https://github.com/ospfranco/sol) - macOS global command palette. Raycast/Spotlight alternative.
+- [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ([CLI](https://github.com/sindresorhus/one-thing))
 
 ## Links
 

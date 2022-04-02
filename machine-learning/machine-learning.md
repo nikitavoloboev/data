@@ -749,3 +749,8 @@
 - [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) ([Code](https://github.com/dibgerge/ml-coursera-python-assignments))
 - [Chaos is a Ladder: A New Understanding of Contrastive Learning (2022)](https://openreview.net/pdf?id=ECvgmYVyeUz) ([Code](https://github.com/zhangq327/ARC))
 - [Efficient-VDVAE: Less is more (2022)](https://arxiv.org/abs/2203.13751) ([Code](https://github.com/Rayhane-mamah/Efficient-VDVAE))
+- [Transformer Quality in Linear Time (2022)](https://arxiv.org/abs/2202.10447) ([Code](https://github.com/lucidrains/FLASH-pytorch))
+- [Machine Learning for Big Code and Naturalness](https://ml4code.github.io/) - Survey of Machine Learning for Big Code and Naturalness. ([Code](https://github.com/ml4code/ml4code.github.io))
+- [Randomized Smoothing of All Shapes and Sizes (2020)](https://decentdescent.org/rs4a1.html) ([Code](https://github.com/tonyduan/rs4a))
+- [Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems (2021)](https://arxiv.org/abs/2109.15142) ([Code](https://github.com/LCS2-IIITD/TransEvolve))
+- [Deep Maths - machine learning and mathematics (2022)](https://www.youtube.com/watch?v=wbJQTtjlM_w)

@@ -6,3 +6,4 @@
 - [esbuild-plugin-cache](https://github.com/dalcib/esbuild-plugin-cache) - Esbuid plugin to cache http/https imports.
 - [esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals) - esbuild plugin for replacing imports with global variables.
 - [esbuild-server](https://github.com/oblador/esbuild-server) - Fast, lightweight and powerful development server for esbuild.
+- [nanobundle](https://github.com/cometkim/nanobundle) - Build tool for libraries, powered by esbuild.

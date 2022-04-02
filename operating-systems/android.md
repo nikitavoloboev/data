@@ -2,6 +2,7 @@
 
 ## Nice OSS iOS Android apps
 
+- [Alkaa](https://github.com/igorescodro/alkaa) - Open-source app to manage your tasks quickly and easily.
 - [Signal Android](https://github.com/signalapp/Signal-Android)
 - [Dawn](https://github.com/Tunous/Dawn) - Reddit client.
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram UI clone app built with Jetpack Compose.

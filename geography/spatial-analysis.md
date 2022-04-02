@@ -168,3 +168,4 @@
 - [Awesome OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap)
 - [tippecanoe](https://github.com/protomaps/tippecanoe) - Builds vector tilesets from large (or small) collections of GeoJSON, FlatGeobuf, or CSV features.
 - [Making a maps app from scratch](https://twitter.com/jsngr/status/1508557309538017280)
+- [tile-cover](https://github.com/mapbox/tile-cover) - Generate the minimum number of tiles to cover a GeoJSON geometry.

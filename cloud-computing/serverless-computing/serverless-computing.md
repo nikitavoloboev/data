@@ -13,6 +13,7 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 
 ## Links
 
+- [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl)) ([GitHub](https://github.com/superfly/)) ([Docs](https://fly.io/docs/)) ([Docs Code](https://github.com/superfly/docs))
 - [Introduction to serverless applications and databases](https://www.prisma.io/dataguide/serverless/what-is-serverless)
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196)) ([Web](https://firecracker-microvm.github.io/)) ([HN](https://news.ycombinator.com/item?id=28893884))
 - [Firecracker: start a VM in less than a second (2021)](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/) ([HN](https://news.ycombinator.com/item?id=25883253))
@@ -79,7 +80,6 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Netlify Edge Handlers](https://www.netlify.com/products/edge/edge-handlers) - Run custom code right from the network edge with incredible performance.
 - [The Serverless Revolution Has Stalled (2020)](https://www.infoq.com/articles/serverless-stalled/) ([HN](https://news.ycombinator.com/item?id=24758772))
 - [Datadog Serverless Plugin](https://github.com/DataDog/serverless-plugin-datadog) - Serverless plugin to automagically instrument your Lambda functions with Datadog.
-- [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl))
 - [Booster](https://github.com/boostercloud/booster) - High-level framework for TypeScript to build Serverless applications with built-in business-logic-level abstractions. ([Web](https://booster.cloud/))
 - [OpenWhisk](https://github.com/apache/openwhisk) - Serverless functions platform for building cloud applications. ([Web](https://openwhisk.apache.org/))
 - [faasd](https://github.com/openfaas/faasd) - OpenFaaS reimagined, but without the cost and complexity of Kubernetes. It runs on a single host with very modest requirements, making it fast and easy to manage.
@@ -152,3 +152,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Swarmion](https://github.com/swarmion/swarmion) - Set of tools to build and deploy type-safe Serverless microservices.
 - [Compute@Edge default starter kit for AssemblyScript](https://github.com/fastly/compute-starter-kit-assemblyscript-default)
 - [Serverless Rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
+- [Serverless Framework Hexagonal Template](https://github.com/serverlesspolska/serverless-hexagonal-template)

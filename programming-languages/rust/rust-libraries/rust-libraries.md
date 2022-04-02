@@ -43,6 +43,7 @@
 - [terminal-keycode](https://github.com/substack/terminal-keycode.rs) - Convert bytes from a terminal into keycodes.
 - [tui-realm](https://github.com/veeso/tui-realm) - Tui-rs framework to build stateful applications with a React/Elm inspired approach.
 - [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
+- [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
 
 ## Web
 
@@ -135,6 +136,7 @@
 - [bifrost](https://github.com/ShisoftResearch/bifrost) - Pure rust building block for distributed systems.
 - [rsocket-rust](https://github.com/rsocket/rsocket-rust) - RSocket Rust Implementation using Tokio.
 - [Aliri](https://github.com/neoeinstein/aliri) - Web API access control for Rust.
+- [ipnet](https://github.com/krisprice/ipnet) - IpNet, Ipv4Net, and Ipv6Net types and methods for Rust.
 
 ## WASM
 
@@ -187,13 +189,16 @@
 - [Elvis](https://github.com/clearloop/elvis) - WASM UI library.
 - [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo) - 3d transformation gizmo built on top of the egui library.
 - [VIZIA](https://github.com/geom3trik/VIZIA) - Declarative GUI library written in Rust.
+- [Panoramix](https://github.com/PoignardAzur/panoramix) - Prototype implementation of reactive UI in rust.
 
 ## DB
 
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
+- [Diesel Derive Enum](https://github.com/adwhit/diesel-derive-enum) - Use Rust enums directly with diesel ORM.
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
 - [Rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust.
+- [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) - Simple schema migration library for rusqlite using user_version instead of an SQL table to maintain the current schema version.
 - [serde_rusqlite](https://github.com/twistedfall/serde_rusqlite) - Serialize/deserialize rusqlite rows.
 - [Wundergraph](https://github.com/weiznich/wundergraph) - Provides a platform to easily expose your database through a GraphQL interface.
 - [bolt-rs](https://github.com/lucis-fluxum/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust.
@@ -367,6 +372,7 @@
 - [Yare](https://github.com/foresterre/yare) - Lean parametrized testing library for Rust.
 - [tracing-test](https://github.com/dbrgn/tracing-test) - Access and evaluate tracing logs in async and sync tests.
 - [cov-mark](https://github.com/matklad/cov-mark) - Verify that your tests exercise the conditions you think they are exercising.
+- [test-log](https://github.com/d-e-s-o/test-log) - Crate that takes care of automatically initializing logging and/or tracing for Rust .
 
 ## Error
 
@@ -476,6 +482,7 @@
 - [libsystemd](https://github.com/lucab/libsystemd-rs) - Pure-Rust client library to work with systemd.
 - [vHost](https://github.com/rust-vmm/vhost) - Pure rust library for vDPA, vhost and vhost-user.
 - [caps](https://github.com/lucab/caps-rs) - Pure-Rust library to work with Linux capabilities.
+- [InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and emulating inputs.
 
 ## Embedded
 
@@ -1648,6 +1655,17 @@
 - [futures_codec](https://github.com/matthunz/futures-codec) - Utilities for encoding and decoding frames with async/await.
 - [Zelf](https://github.com/usamoi/zelf) - Zero-allocation ELF parser.
 - [tendril](https://github.com/servo/tendril) - Compact string type for zero-copy parsing.
+- [strength_reduce](https://github.com/ejmahler/strength_reduce) - Implements integer division and modulo via "arithmetic strength reduction".
+- [AutoPilot](https://github.com/autopilot-rs/autopilot-rs) - Simple, cross-platform GUI automation module for Rust.
+- [device_query](https://github.com/ostrosco/device_query) - Simple library to query mouse and keyboard inputs on demand without a window.
+- [palette](https://github.com/Ogeon/palette) - Rust library for linear color calculations and conversion.
+- [capstone-rs](https://github.com/capstone-rust/capstone-rs) - Bindings to the capstone library disassembly framework.
+- [Rust Atelier](https://github.com/johnstonskj/rust-atelier) - Rust native library and tools for the AWS Smithy Interface Definition Language.
+- [Rusb](https://github.com/a1ien/rusb) - Safe Rust wrapper for libusb.
+- [volatile](https://github.com/rust-osdev/volatile) - Wraps a reference to any copy-able type and allows for volatile memory access to wrapped value.
+- [voprf](https://github.com/novifinancial/voprf) - Implementation of a verifiable oblivious pseudorandom function.
+- [serde-big-array](https://github.com/est31/serde-big-array) - Big array helper for serde.
+- [Prop](https://github.com/advancedresearch/prop) - Propositional logic with types in Rust.
 
 ## Cargo Plugins
 
@@ -1712,6 +1730,9 @@
 - [reloady](https://github.com/anirudhb/reloady) - Simple and performant hot-reloading for Rust.
 - [cargo-temp](https://github.com/yozhgoor/cargo-temp) - CLI tool that allows you to create a new rust project in a temporary directory with already installed dependencies.
 - [cargo-bom](https://github.com/sensorfu/cargo-bom) - Bill of Materials for Rust Crates.
+- [cargo-feature](https://github.com/Riey/cargo-feature) - Cargo plugin to manage dependency features.
+- [cargo-rx](https://github.com/rnag/cargo-rx) - Simple, modern fuzzy finder tool to run examples in a Cargo project.
+- [cargo-options](https://github.com/messense/cargo-options) - Reusable common Cargo command line options.
 
 ## Links
 
@@ -1816,3 +1837,5 @@
 - [Rust parsing dynamic JSON (2022)](https://www.ahmadrosid.com/blog/rust-parsing-dynamic-json)
 - [x](https://github.com/cloudpeers/x) - Cross compile rust to any platform.
 - [Crubit](https://github.com/google/crubit) - C++/Rust Bidirectional Interop Tool.
+- [Nice ways to parse & get data from JSON](https://www.reddit.com/r/rust/comments/ttomov/is_there_a_prettier_way_to_parse_get_data_from/)
+- [rust-audit](https://github.com/Shnatsel/rust-audit) - Make production Rust binaries auditable.

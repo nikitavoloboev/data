@@ -6,6 +6,8 @@ I publish most of my work and make it open source for other people to use and re
 
 [Here](../../sharing/my-github.md) you can find all the repositories I shared.
 
+[GitHub CLI](https://github.com/cli/cli) is useful.
+
 ## Interesting GitHub Bios
 
 - [Carlos Becker](https://github.com/caarlos0) - Auto updated list of activities + sponsors.
@@ -372,3 +374,8 @@ Awesome List
 - [prs-merged-since](https://github.com/suchipi/prs-merged-since) - CLI and JS API to list all PRs merged into a GitHub repo since a given tag.
 - [Automate merging release branches into your main branch with GitHub Actions (2022)](https://www.jessesquires.com/blog/2022/03/26/gh-action-merge-release-to-main/)
 - [git-pr-release](https://github.com/x-motemen/git-pr-release) - Release pull request generator.
+- [GitHub Copilot Labs](https://next.github.com/projects/copilot-labs/) - VS Code extension for experimental applications of Copilot. ([Tweet](https://twitter.com/GitHubNext/status/1509249109844058113))
+- [OpenDigger](https://github.com/X-lab2017/open-digger) - GitHub analysis tools.
+- [Find CVE PoCs on GitHub](https://github.com/trickest/find-gh-poc)
+- [Encites](https://github.com/cutenode/encites) - Fetches GitHub Activtiy, providing an API for that activity and rendering it prettily in Markdown.
+- [gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub CLI dashboard for pull requests and issues.

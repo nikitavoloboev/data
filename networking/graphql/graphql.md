@@ -1,6 +1,6 @@
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/) & [Juniper](https://github.com/graphql-rust/juniper) look interesting too.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper) & [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006) look interesting too.
 
 ## Notes
 
@@ -157,7 +157,7 @@
 - [How Netflix Scales its API with GraphQL Federation (2020)](https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2)
 - [Executing GraphQL Queries (2020)](https://jemma.dev/blog/executing-graphql-queries)
 - [Experimental GraphQL Playground](https://github.com/n1ru4l/graphql-bleeding-edge-playground) - Demonstration of defer/stream/subscriptions/queries/mutations with `express-http`, `graphql-ws`. Test the bleeding egde with less hazzle.
-- [subZero](https://subzero.cloud/) - GraphQL & REST API for your database. ([GitHub](https://github.com/subzerocloud)) ([Demo Code](https://github.com/subzerocloud/blue-steel))
+- [subZero](https://subzero.cloud/) - GraphQL & REST API for your database. ([GitHub](https://github.com/subzerocloud)) ([Demo Code](https://github.com/subzerocloud/blue-steel)) ([CLI](https://github.com/subzerocloud/subzero-cli))
 - [apollo-cli](https://github.com/apollographql/rover) - New CLI for Apollo's suite of GraphQL developer productivity tools.
 - [Apollo Federation](https://github.com/apollographql/federation) ([Docs](https://www.apollographql.com/docs/federation/))
 - [The Evolution of GraphQL at Scale (2020)](https://www.apollographql.com/blog/the-evolution-of-graphql-at-scale/)
@@ -305,4 +305,6 @@
 - [GraphQL Schema to JSON Schema](https://github.com/charlypoly/graphql-to-json-schema)
 - [GraphRPC](https://github.com/Just4Ease/graphrpc) - RPC with GraphQL over Nats.io & JetStream.
 - [Intuitive and scalable GraphQL server design](https://github.com/jaredgorski/schema-based-graphql-server-design)
-- [GraphQL is now available on Supabase (2022)](https://supabase.com/blog/2022/03/29/graphql-now-available) ([HN](https://news.ycombinator.com/item?id=30846006))
+- [Supabase GraphQL (2022)](https://supabase.com/blog/2022/03/29/graphql-now-available) ([HN](https://news.ycombinator.com/item?id=30846006)) ([Supabase GraphQL Example](https://github.com/supabase-community/supabase-graphql-example))
+- [GraphDoc](https://graphdoc.io/) - Instant, beautiful docs for your GraphQL API. ([Code](https://github.com/launchport/graphdoc))
+- [Rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources. ([Web](https://rejoiner.io/))

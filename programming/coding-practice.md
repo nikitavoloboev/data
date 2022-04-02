@@ -32,11 +32,13 @@
 - [Go 3](https://github.com/openset/leetcode)
 - [Python / Modern C++](https://github.com/kamyu104/LeetCode-Solutions) - Many solutions.
 - [Python](https://github.com/davidnsun/leetcode-py)
+- [Python 2](https://github.com/neetcode-gh/leetcode)
 - [Python & Java](https://github.com/qiyuangong/leetcode)
 - [C](https://github.com/begeekmyfriend/leetCode)
 - [C++](https://github.com/lzl124631x/LeetCode)
 - [Swift](https://github.com/soapyigu/LeetCode-Swift)
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
+- [Swift 3](https://github.com/BugenZhao/LeetCode.playground)
 - [TypeScript](https://github.com/enricopolanski/leetcode)
 - [JS](https://github.com/suguru03/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)

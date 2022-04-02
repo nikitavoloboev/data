@@ -25,3 +25,4 @@
 - [Masto.js](https://github.com/neet/masto.js) - Mastodon API client for JavaScript, TypeScript, Node.js, browsers.
 - [Mastodon iOS App Code](https://github.com/mastodon/mastodon-ios)
 - [tootstream](https://github.com/magicalraccoon/tootstream) - Command line interface for interacting with Mastodon instances.
+- [Mastodon 3.5 (2022)](https://blog.joinmastodon.org/2022/03/mastodon-3.5/) ([HN](https://news.ycombinator.com/item?id=30862612))

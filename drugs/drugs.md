@@ -64,3 +64,5 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [MLDD 2022 - Machine Learning for Drug Discovery Workshop](https://www.mldd-workshop.org/)
 - [What's your drug bucket list? (2022)](https://www.reddit.com/r/researchchemicals/comments/sy36n6/whats_your_drug_bucket_list/)
 - [How do you get paper tabs through TSA/on a plane?](https://www.reddit.com/r/researchchemicals/comments/t7ozfj/how_do_you_get_paper_tabs_through_tsaon_a_plane/)
+- [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine) ([HN](https://news.ycombinator.com/item?id=30858202))
+- [What’s everyone favorite 2 drug combination](https://www.reddit.com/r/Psychonaut/comments/tt7qt6/whats_everyone_favourite_2_drug_combination/)

@@ -78,3 +78,6 @@
 - [TFHE](https://github.com/tfhe/tfhe) - Fast Fully Homomorphic Encryption Library over the Torus.
 - [blst](https://github.com/supranational/blst) - BLS12-381 signature library focused on performance and security. It is written in C and assembly.
 - [blst Verification](https://github.com/GaloisInc/BLST-Verification) - Specifications and correctness proofs for the blst BLS12-381 signature library.
+- [Crypter](https://github.com/HR/Crypter) - Innovative, convenient and secure encryption app.
+- [OPAQUE](https://github.com/novifinancial/opaque-ke) - Asymmetric password-authenticated key exchange protocol.
+- [akd](https://github.com/novifinancial/akd) - Implementation of an auditable key directory (also known as a verifiable registry).

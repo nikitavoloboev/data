@@ -68,3 +68,4 @@
 - [Typebeat](https://typebeat.kofi.sexy/) - Keyboard-controlled music sequencer, sampler, and synth. ([Code](https://github.com/kofigumbs/typebeat))
 - [Sonicware Liven 8bit Warps](https://sonicware.jp/products/liven-8bit-warps)
 - [Kiro Studio](https://github.com/chris-zen/kiro-studio) - Learning on how to build real-time audio software for music production using the Rust programming language.
+- [Stargate DAW](https://github.com/stargateaudio/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor.

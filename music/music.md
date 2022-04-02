@@ -198,3 +198,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Ask HN: Why are some soundtracks of movies so powerful? (2022)](https://news.ycombinator.com/item?id=30773294)
 - [Spicetify](https://spicetify.app/) - Powerful CLI tool to take control of the Spotify client. ([Code](https://github.com/spicetify/spicetify-cli))
 - [Pianos.pub](https://pianos.pub/) - Website to find public pianos. ([HN](https://news.ycombinator.com/item?id=30811648)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/tqahd2/i_travel_a_lot_and_seek_out_public_pianos_to_play/))
+- [Secret Garden](https://secretgarden.fm/)
+- [Raudio](https://raudio-project.github.io/) - Open platform for hosting and streaming music. ([Code](https://github.com/raudio-project/raudio-server)) ([Lobsters](https://lobste.rs/s/bm9rxh/announcing_raudio_platform_for_hosting))

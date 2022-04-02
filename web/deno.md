@@ -204,3 +204,6 @@
 - [Fastro](https://github.com/fastrodev/fastro) - Fast and simple web application framework for deno.
 - [Venode](https://github.com/Aslemammad/venode) - Node runner that supports deno features like vendoring and http imports.
 - [denofun](https://github.com/galkowskit/denofun) - Small utility library containing functions, monads and other fun stuff.
+- [Pip Deno](https://github.com/denosaurs/python.mod.land) - Import any python module into deno as long as you have it installed locally.
+- [Deno Wanted Modules](https://github.com/denoland/wanted_modules/issues)
+- [Using the DOM with Deno](https://github.com/kitsonk/dom_examples) - Examples of using the DOM under Deno.

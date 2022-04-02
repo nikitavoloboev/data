@@ -167,3 +167,4 @@
 - [Serverless Image Handler](https://github.com/aws-solutions/serverless-image-handler) - Solution to dynamically handle images on the fly, utilizing SharpJS.
 - [Mosaic](https://github.com/ahhhh6980/Mosaic) - Takes a folder of images (as a palette), and an image, and figures out how to tile the palette to resemble the image. ([HN](https://news.ycombinator.com/item?id=30739304))
 - [image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript.
+- [IIIF | International Image Interoperability Framework](https://iiif.io/) ([Awesome](https://github.com/IIIF/awesome-iiif))

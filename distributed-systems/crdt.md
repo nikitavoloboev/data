@@ -22,6 +22,7 @@
 - [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. ([Tweet](https://twitter.com/steveruizok/status/1421865156724805639)) ([HN](https://news.ycombinator.com/item?id=30412550))
 - [Automergeable](https://github.com/jeffa5/automergeable)
 - [Automerge in Rust](https://github.com/alexjg/automerge-rs)
+- [Automerge persistent](https://github.com/jeffa5/automerge-persistent)
 - [Peter Bourgon on CRDTs and State at the Edge (2020)](https://overcast.fm/+GdnXKIjWQ)
 - [Moving Elements in List CRDTs](https://martin.kleppmann.com/papers/list-move-papoc20.pdf)
 - [Chronofold: a data structure for versioned text (2020)](https://arxiv.org/abs/2002.09511v4)

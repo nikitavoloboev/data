@@ -257,3 +257,5 @@
 - [chaosd](https://github.com/chaos-mesh/chaosd) - Chaos Engineering toolkit.
 - [dcache](https://github.com/bootjp/dcache) - CoreDNS Plugin: Asynchronous Distributed Cache for Distributed System.
 - [Consensus that unifies paxos, raft, 2pc, etc.](https://github.com/openacid/abstract-paxos)
+- [Your computer is a distributed system](http://catern.com/compdist.html) ([HN](https://news.ycombinator.com/item?id=30855419))
+- [Consul at Fly.io (2022)](https://fly.io/blog/a-foolish-consistency/) ([Lobsters](https://lobste.rs/s/spvdwx/consul_at_fly_io)) ([HN](https://news.ycombinator.com/item?id=30857047))

@@ -70,3 +70,4 @@
 - [jpdb](https://jpdb.io/) - Japanese dictionary and spaced repetition system.
 - [Why Tokyo Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=zysL_lkdtys)
 - [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/) ([HN](https://news.ycombinator.com/item?id=30818253))
+- [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese) - Curated list of Japanese language learning resources.

@@ -52,6 +52,7 @@
 - [py_webauthn](https://github.com/duo-labs/py_webauthn) - Pythonic WebAuthn.
 - [PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [aiolimiter](https://github.com/mjpieters/aiolimiter) - Efficient implementation of a rate limiter for asyncio.
+- [OpenAPI Python Client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI.
 
 ## ML
 
@@ -105,6 +106,7 @@
 
 ## CLI
 
+- [Tap](https://github.com/swansonk14/typed-argument-parser) - Typed modernization of Python's argparse library.
 - [Appeal](https://github.com/larryhastings/appeal) - Command-line parsing library for Python 3.
 - [SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse.
 - [Typer](https://github.com/tiangolo/typer) - Build great CLIs. Easy to code. Based on Python type hints.
@@ -127,6 +129,7 @@
 - [Pexpect](https://github.com/pexpect/pexpect) - Python module for controlling interactive programs in a pseudo-terminal.
 - [PyTermGUI](https://github.com/bczsalba/pytermgui) - Simple yet powerful TUI framework for your Python (3.7+) applications.
 - [Colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python.
+- [jsonargparse](https://github.com/omni-us/jsonargparse) - Parsing of command line options, yaml/jsonnet config files and/or environment variables based on argparse.
 
 ## DB
 
@@ -203,6 +206,7 @@
 - [miceforest](https://github.com/AnotherSamWilson/miceforest) - Multiple Imputation with Random Forests in Python.
 - [PyStan](https://github.com/stan-dev/pystan) - Python interface to Stan, a package for Bayesian inference.
 - [Statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
+- [TriMap](https://github.com/eamid/trimap) - Large-scale Dimensionality Reduction Using Triplets.
 
 ## Linux
 
@@ -234,6 +238,7 @@
 - [detect-test-pollution](https://github.com/asottile/detect-test-pollution) - Tool to detect test pollution.
 - [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [pytest-parallel](https://github.com/browsertron/pytest-parallel) - Pytest plugin for parallel and concurrent testing.
+- [pytest_httpserver](https://github.com/csernazs/pytest-httpserver) - HTTP server for pytest.
 
 ## Error
 
@@ -781,6 +786,13 @@
 - [GetPy](https://github.com/atom-moyer/getpy) - Vectorized Python Dict/Set.
 - [H3-Pandas](https://github.com/DahnJ/H3-Pandas) - Integration of H3 with GeoPandas and Pandas.
 - [Rainbow](https://github.com/Ledger-Donjon/rainbow) - Makes Unicorn traces. Generic Side-Channel and Fault Injection simulator.
+- [pySerialTransfer](https://github.com/PowerBroker2/pySerialTransfer) - Python package to transfer data in a fast, reliable, and packetized form.
+- [PyExifTool](https://github.com/smarnach/pyexiftool) - Python library to communicate with an instance of Phil Harvey's excellent ExifTool command-line application.
+- [Large Image](https://github.com/girder/large_image) - Python modules to work with large, multiresolution images.
+- [Distributed faiss](https://github.com/facebookresearch/distributed-faiss) - Library for building and serving multi-node distributed faiss indices.
+- [aiometer](https://github.com/florimondmanca/aiometer) - Python concurrency scheduling library, compatible with asyncio and trio.
+- [tune-sklearn](https://github.com/ray-project/tune-sklearn) - Drop-in replacement for Scikit-Learn’s model selection module (GridSearchCV, RandomizedSearchCV) with cutting edge hyperparameter tuning techniques.
+- [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers.
 
 ## Links
 
@@ -882,3 +894,6 @@
 - [ranx](https://github.com/AmenRa/ranx) - Blazing-Fast Python Library for Ranking Evaluation and Comparison.
 - [pyproject-fmt](https://github.com/tox-dev/pyproject-fmt) - Apply a consistent format to pyproject.toml files.
 - [seqeval](https://github.com/chakki-works/seqeval) - Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...).
+- [Pre-allocated lists in Python (2022)](https://rednafi.github.io/reflections/pre-allocated-lists-in-python.html) ([HN](https://news.ycombinator.com/item?id=30828523))
+- [Python Package Template](https://github.com/allenai/python-package-template)
+- [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.

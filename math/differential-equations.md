@@ -33,3 +33,4 @@
 - [diffeq](https://github.com/mattsse/diffeq) - Basic Ordinary Differential Equation solvers.
 - [FEniCSx](https://fenicsproject.org/) - Computing platform for solving partial differential equations (PDEs).
 - [DOLFINx](https://github.com/FEniCS/dolfinx) - Computational environment of FEniCSx and implements the FEniCS Problem Solving Environment in Python and C++.
+- [PyTorch Implementation of Differentiable SDE Solvers](https://github.com/google-research/torchsde)

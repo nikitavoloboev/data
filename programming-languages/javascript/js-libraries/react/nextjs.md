@@ -138,6 +138,7 @@
 - [getStaticProps is a reverse proxy. It's the simplest reverse proxy ever. It's a function, exported alongside your React component.](https://twitter.com/samselikoff/status/1298634466802446337)
 - [`export const config = { unstable_runtimeJS: false }`](https://twitter.com/muditameta/status/1301547155556052999) will allow to export a page with only HTML/CSS.
 - [Cache control headers on the response to revalidate NextJS routes. `res.setHeader(“cache-control”, “s-maxage=1, stale-while-revalidate=59”)`](https://twitter.com/leeerob/status/1402819071712841728)
+- [New Relic Next.js instrumentation](https://github.com/newrelic/newrelic-node-nextjs)
 
 ## Links
 
@@ -341,3 +342,4 @@
 - [Building an Image Gallery with Next.js, Supabase, and Tailwind CSS](https://leerob.io/blog/image-gallery-supabase-tailwind-nextjs) ([Tweet](https://twitter.com/leeerob/status/1508448572903198724))
 - [Vercel Style Guide](https://github.com/vercel/style-guide) - Home of Vercel's style guide, which includes configs for popular linting and styling tools.
 - [How DoorDash improved Web Page Performance and scaled with Next.JS (2022)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
+- [Storybook Addon Next](https://github.com/RyanClementsHax/storybook-addon-next) - No config Storybook addon that makes Next.js features just work in Storybook.

@@ -32,3 +32,4 @@
 - [How to Build a Bike Generator with Control Panel (2022)](https://solar.lowtechmagazine.com/2022/03/how-to-build-bike-generator.html)
 - [11 rules for buying an ebike, and the 11 ebikes to buy now (2021)](https://ryanj.substack.com/p/ebikes?s=r)
 - [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/) ([HN](https://news.ycombinator.com/item?id=30771928))
+- [Vanmoofer](https://vanmoofer.com/) - Everything we know about VanMoof's upcoming eBikes. ([Twitter](https://twitter.com/VanMooferNews))

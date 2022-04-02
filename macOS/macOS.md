@@ -243,3 +243,7 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [macOS Apple released code](https://github.com/apple-oss-distributions/distribution-macOS)
 - [Apple T2 XPC](https://github.com/duo-labs/apple-t2-xpc) - Tools to explore the XPC interface of Apple's T2 chip.
 - [aperture-node](https://github.com/wulkano/aperture-node) - Record the screen on macOS from Node.js.
+- [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) - Simple macOS GateKeeper script.
+- [My macOS keyboard shortcuts (2022)](https://www.jamieonkeys.dev/posts/keyboard-shortcuts/) ([HN](https://news.ycombinator.com/item?id=30876934))
+- [Asahi Linux installer](https://github.com/AsahiLinux/asahi-installer)
+- [Infinite Mac](https://system7.app/)

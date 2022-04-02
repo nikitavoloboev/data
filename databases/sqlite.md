@@ -1,6 +1,8 @@
 # [SQLite](https://www.sqlite.org/index.html)
 
-[Litestream](https://github.com/benbjohnson/litestream) is neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite.
+[Litestream](https://github.com/benbjohnson/litestream) & [Postlite](https://github.com/benbjohnson/postlite) are neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite. [SQLite](https://github.com/stainless-steel/sqlite), [Rusqlite](https://github.com/rusqlite/rusqlite), [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) are great SQLite libs for Rust. [sqlc](https://github.com/kyleconroy/sqlc) is nice for Go.
+
+I currently start all my projects with SQLite DB if I need any kind of persistence. Then move to [Postgres](postgresql.md) if SQLite is not enough for some reason.
 
 ## Notes
 
@@ -170,3 +172,5 @@
 - [sqc](https://github.com/goto-bus-stop/sqc) - SQLite CLI with syntax highlighting and pretty tables by default.
 - [sqlitescanner](https://github.com/duckdblabs/sqlitescanner) - DuckDB extension to read SQLite databases. Allows directly running DuckDB queries on data stored in SQLite files. ([HN](https://news.ycombinator.com/item?id=30801575))
 - [SQLite Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/sqlite_fdw)
+- [Postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. ([HN](https://news.ycombinator.com/item?id=30875837))
+- [A database for 2022](https://tailscale.com/blog/database-for-2022/) ([Tweet](https://twitter.com/simonw/status/1510022364553101312)) ([HN](https://news.ycombinator.com/item?id=30883015)) ([Lobsters](https://lobste.rs/s/t5a0et/database_for_2022))

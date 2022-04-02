@@ -311,3 +311,9 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS.jl](https://github.com/JuliaCloud/AWS.jl) - Julia interface to AWS.
 - [AWS SDK for Java](https://github.com/aws/aws-sdk-java)
 - [AWS Cloud Development Kit (CDK) for LocalStack](https://github.com/localstack/aws-cdk-local)
+- [Baby's First AWS Deployment (2022)](https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/)
+- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
+- [Soto S3 Transfer](https://github.com/soto-project/soto-s3-file-transfer) - Make uploading and downloading of files to AWS S3 easy.
+- [Stacktape](https://stacktape.com/) - DevOps-free application development. ([Code](https://github.com/stacktape/stacktape))
+- [ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability.
+- [AWS Encryption SDK for JavaScript](https://github.com/aws/aws-encryption-sdk-javascript)

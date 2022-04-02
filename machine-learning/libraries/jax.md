@@ -11,3 +11,4 @@
 - [Jax Influence](https://github.com/google-research/jax-influence) - Scalable implementation of Influence Functions in JaX.
 - [BlackJAX](https://github.com/blackjax-devs/blackjax) - Library of samplers for JAX that works on CPU as well as GPU. ([Twitter](https://twitter.com/blackjax_mcmc))
 - [GPax](https://github.com/google-research/gpax) - Jax/Flax codebase for Gaussian processes including meta and multi-task Gaussian processes.
+- [jax-fenics-adjoint](https://github.com/IvanYashchuk/jax-fenics-adjoint) - Differentiable interface to FEniCS/Firedrake for JAX using dolfin-adjoint/pyadjoint.

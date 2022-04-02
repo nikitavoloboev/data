@@ -333,3 +333,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [dav1d](https://code.videolan.org/videolan/dav1d) - Fastest AV1 decoder on all platforms. ([HN](https://news.ycombinator.com/item?id=30722853))
 - [YouTube video production tips (2022)](https://twitter.com/simonw/status/1505237327353827329)
 - [Better Dev Screencasts](https://www.betterdevscreencasts.com/) - Helping developers create better screencasts.
+- [OS-NVR](https://github.com/OSNVR/OS-NVR) - Mobile-friendly extensible CCTV system.

@@ -141,6 +141,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Sleuth](https://github.com/tpope/vim-sleuth) - Heuristically set buffer options.
 - [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
 - [Wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager.
+- [Vim LSP](https://github.com/yegappan/lsp)
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [vimspector](https://github.com/puremourning/vimspector) - Multi-language debugging system for Vim.
 - [Completor](https://github.com/maralla/completor.vim) - Async completion framework made ease.
@@ -305,3 +306,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [boilit](https://github.com/gennaro-tedesco/boilit) - Create boilerplate structure for neovim plugins.
 - [Pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim.
 - [Neovim package specification](https://github.com/nvim-lua/nvim-package-specification)
+- [Vim Color Schemes](https://vimcolorschemes.com/) ([HN](https://news.ycombinator.com/item?id=30885471))

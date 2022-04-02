@@ -130,3 +130,6 @@
 - [Imp: Simple Imperative Programs](https://softwarefoundations.cis.upenn.edu/lf-current/Imp.html)
 - [Monadic Coq Compiler](https://github.com/mit-pdos/mcqc) - Alternative Coq compiler, by extraction to C++17. Written in Haskell.
 - [Noq](https://github.com/tsoding/Noq) - Simple expression transformer that is not Coq.
+- [Falso](https://github.com/clarus/falso) - Proof of false in Coq. ([HN](https://news.ycombinator.com/item?id=9259790))
+- [ChickBlog](https://github.com/clarus/coq-chick-blog) - Blog engine written and proven in Coq.
+- [Practical Aspects of Monadic Equational Reasoning in Coq (2022)](https://prg.is.titech.ac.jp/wp-content/uploads/2022/03/saito2022ppl.pdf)

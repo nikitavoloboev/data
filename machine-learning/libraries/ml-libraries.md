@@ -311,3 +311,6 @@
 - [OpenFL](https://github.com/intel/openfl) - Open-Source Framework For Federated Learning.
 - [Basenji](https://github.com/calico/basenji) - Sequential regulatory activity predictions with deep convolutional neural networks.
 - [PyDP](https://github.com/OpenMined/PyDP) - Python Differential Privacy Library.
+- [veGiantModel](https://github.com/volcengine/veGiantModel) - Torch based high efficient training library developed by the Applied Machine Learning team at Bytedance.
+- [Flame](https://github.com/cisco-open/flame) - Federated learning system for edge with flexibility and scalability at the core of its design.
+- [DPU Utilities](https://github.com/microsoft/dpu-utils) - Utilities used by the Deep Program Understanding team.

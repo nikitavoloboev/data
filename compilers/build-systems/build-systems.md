@@ -104,3 +104,4 @@
 - [How does Google keep build times low? (2021)](https://jmmv.dev/2021/02/google-monorepos-and-caching.html)
 - [Tech Notes: n2: revisiting Ninja (2022)](http://neugierig.org/software/blog/2022/03/n2.html)
 - [Lerna-Lite](https://github.com/ghiscoding/lerna-lite) - Super light version of the original Lerna.
+- [EasyBuild](https://easybuild.io/) - Software build and installation framework that allows you to manage (scientific) software on High Performance Computing (HPC) systems in an efficient way. ([Code](https://github.com/easybuilders/easybuild)) ([EasyBuild Configs](https://github.com/easybuilders/easybuild-easyconfigs))

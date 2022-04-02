@@ -172,3 +172,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Arxiv Sanity RSS Feeds](https://github.com/dend/arxiv-sanity-feeds) - Subscribe to the content published on Arxiv Sanity.
 - [Which academics write beautifully](https://twitter.com/jilltxt/status/1507791232789008391)
 - [The arXiv of the future will not look like the arXiv (2022)](https://ar5iv.labs.arxiv.org/html/1709.07020) ([HN](https://news.ycombinator.com/item?id=30834395))
+- [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
+- [arxiv-collector](https://github.com/djsutherland/arxiv-collector) - Little Python script to collect LaTeX sources for upload to the arXiv.

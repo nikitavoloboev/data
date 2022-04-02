@@ -63,3 +63,4 @@
 - [Polygon Mesh Processing Library](https://github.com/pmp-library/pmp-library) - C++ open-source library for processing and visualizing polygon surface meshes.
 - [What is the inverse of a circle? (2022)](https://mattferraro.dev/posts/inverse-of-a-circle) ([HN](https://news.ycombinator.com/item?id=30131926))
 - [Geogram](https://github.com/BrunoLevy/geogram) - Programming library with geometric algorithms.
+- [Visual Dictionary of Special Plane Curves](http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html) ([HN](https://news.ycombinator.com/item?id=30853624))

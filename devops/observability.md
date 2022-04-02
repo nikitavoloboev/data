@@ -35,3 +35,5 @@
 - [OpenTelemetry Collector Contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector.
 - [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
 - [Elementary](https://github.com/elementary-data/elementary) - Open-source data observability framework for modern data teams. Move fast and be confident about your data.
+- [Hypertrace](https://www.hypertrace.org/) - Open source distributed tracing & observability platform. ([Code](https://github.com/hypertrace/hypertrace))
+- [Deepfence](https://deepfence.io/) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. ([Code](https://github.com/deepfence/ThreatMapper))

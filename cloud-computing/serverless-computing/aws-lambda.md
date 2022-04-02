@@ -114,3 +114,4 @@
 - [Build Serverless APIs with Node.js and AWS Lambda (2022)](https://blog.appsignal.com/2022/03/23/build-serverless-apis-with-nodejs-and-aws-lambda.html)
 - [ML Inference in Lambda Functions (2022)](https://bitesizedserverless.com/bite/ml-inference-in-lambda/)
 - [Running Cross-Account Workflows with AWS Step Functions and Amazon API Gateway (2022)](https://aws.amazon.com/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/) ([HN](https://news.ycombinator.com/item?id=30811980))
+- [Swift AWS Lambda Events](https://github.com/swift-server/swift-aws-lambda-events) - Designed to make building Lambda functions in Swift simple and safe.

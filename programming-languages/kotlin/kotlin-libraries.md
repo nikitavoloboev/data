@@ -7,6 +7,7 @@
 - [NetworkResponseAdapter](https://github.com/haroldadmin/NetworkResponseAdapter) - Kotlin Coroutines based Retrofit call adapter that handles errors as a part of state.
 - [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 - [Ktor](https://github.com/ktorio/ktor) - Asynchronous framework for creating microservices, web applications and more.
+- [KVision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS.
 
 ## Graphics
 
@@ -31,6 +32,7 @@
 ## DB
 
 - [Krush](https://github.com/TouK/krush) - Idiomatic persistence layer for Kotlin.
+- [SQLDelight](https://github.com/cashapp/sqldelight) - Generates typesafe Kotlin APIs from SQL.
 
 ## GraphQL
 

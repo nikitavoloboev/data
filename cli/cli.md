@@ -2,7 +2,7 @@
 
 I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
 
-[cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful.
+[cheat.sh](http://cheat.sh/) & [eg](https://github.com/srsudar/eg) are useful. [Command Line Interface Guidelines](https://clig.dev/) are great.
 
 ## Favorite
 

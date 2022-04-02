@@ -28,3 +28,5 @@
 - [jest-runner-tsd](https://github.com/jest-community/jest-runner-tsd) - Jest runner to test typescript typings.
 - [Unhandled Async Calls Cause Flaky Jest Tests (2021)](https://www.dariacaraway.com/blog/jest-async-flakes)
 - [jest-light-runner](https://github.com/nicolo-ribaudo/jest-light-runner) - Jest runner that runs tests directly in bare Node.js, without virtualizing the environment.
+- [jest-fast-check](https://github.com/dubzzz/jest-fast-check) - Property based testing for Jest based on fast-check.
+- [spy4js](https://github.com/fdc-viktor-luft/spy4js) - Optimize your tests with helpful debug messages.

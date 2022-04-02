@@ -6,6 +6,7 @@
 - [Bundle size is not your main performance problem (most likely). As long as the cache headers are ok and hosted in a CDN, you are good. Worry about expensive renders or unnecessary network calls before fine-tuning bundle size.](https://twitter.com/scinos/status/1419535719811399683)
 - [Page speed factors and how to increase it: 1. User's Network: deploy to edge, move code to server for smaller bundles. 2. Server Network and Code: fast regional DBs, caching. 3. Asset Waterfall: Load in parallel, don't chain. 4. Parse/eval: move code to server for smaller bundles.](https://twitter.com/ryanflorence/status/1479111475683737610)
 - [Cache dashboard data in Redis on server instead of react-query in the browser. Revalidate it after requests (on an interval so you don't overwork it with high traffic). Expire + push into the cache after writes. Backend investment will yield far greater perf than client.](https://twitter.com/ryanflorence/status/1499160939589173248)
+- [Often times a “slow” website is literally because it is loading megabytes of 3rd party crap when the app logic itself can be <200kb using any framework. That 5kb you save by not having to use a state management lib is insignificant compared to these. The difference made by choice of framework is insignificant if the payload is dominated by 3rd party bloat.](https://twitter.com/youyuxi/status/1509422910020075521)
 
 ## Links
 
@@ -155,3 +156,5 @@
 - [Towards a Unified Theory of Web Performance (2022)](https://infrequently.org/2022/03/a-unified-theory-of-web-performance/)
 - [When To Fetch](https://twitter.com/ryanflorence/status/1498847523150053376)
 - [Your SSR is slow & your dev tools are lying to you (2022)](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056) ([Reddit](https://www.reddit.com/r/javascript/comments/tkflwp/your_ssr_is_slow_your_devtools_are_lying_to_you/))
+- [WebPageTest-API-Recipes](https://github.com/WebPageTest/WebPageTest-API-Recipes) - Collection of useful recipes for the WebPageTest API.
+- [Performance insights panel](https://twitter.com/jecfish/status/1509849613473226752)

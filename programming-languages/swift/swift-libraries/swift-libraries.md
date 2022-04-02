@@ -243,6 +243,7 @@
 - [ExpandableCell](https://github.com/younatics/ExpandableCell) - Awesome expandable, collapsible tableview cell for iOS written in Swift 5.
 - [SPPageController](https://github.com/ivanvorobei/SPPageController) - Mimicrate to UIPageViewController. Has native system and scroll view paging. Support scroll to page and layout margins from container.
 - [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.
+- [ZLImageEditor](https://github.com/longitachi/ZLImageEditor) - Powerful image editor framework. Supports graffiti, cropping, mosaic, text stickers, image stickers, filters.
 
 ## macOS
 
@@ -304,6 +305,7 @@
 - [swift-html](https://github.com/pointfreeco/swift-html) - Swift DSL for type-safe, extensible, and transformable HTML documents.
 - [DocumentID](https://github.com/1amageek/DocumentID) - FirebaseFirestoreSwift's library for lightweight use of DocumentIDs in SwiftUI.
 - [Albatross](https://github.com/kevinzhow/albatross) - Swift webhook handler which designed to translate and forward Github Webhook to Other Webhook.
+- [HTMLString](https://github.com/alexisakers/HTMLString) - Escape and unescape HTML entities in Swift.
 
 ## SwiftUI
 
@@ -313,7 +315,7 @@
 - [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture.
 - [TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly.
-- [Sync](https://github.com/nerdsupremacist/Sync) - Real-time Apps the SwiftUI way.
+- [Sync](https://github.com/nerdsupremacist/Sync) - Real-time Apps the SwiftUI way. ([Sync Example App](https://github.com/nerdsupremacist/SyncExampleApp))
 - [Reactive Swift fork of The Composable Architecture](https://github.com/trading-point/reactiveswift-composable-architecture) ([The future of The ReactiveSwift Composable Architecture](http://michael-brown.net/2021/the-future-of-the-reactiveswift-composable-architecture/))
 - [SwiftUIKit](https://github.com/danielsaidi/SwiftUIKit) - Contains additional functionality for SwiftUI.
 - [QGrid](https://github.com/Q-Mobile/QGrid) - Missing SwiftUI collection view.
@@ -519,6 +521,7 @@
 - [Swift Graphics](https://github.com/fwcd/swift-graphics) - Cross-platform 2D graphics library for Swift.
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use GIF engine.
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library. ([Fork](https://github.com/UnGast/SkiaKit))
+- [GLTFKit2](https://github.com/warrenm/GLTFKit2) - Efficient glTF loader and exporter for Objective-C and Swift.
 
 ## WebSocket
 

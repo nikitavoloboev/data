@@ -147,3 +147,5 @@
 - [Offensive Terraform Modules](https://offensive-terraform.github.io/) - Automated multi step offensive attack modules with Infrastructure as Code(IaC). ([Code](https://github.com/offensive-terraform/offensive-terraform.github.io))
 - [Terraform VSCode](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) - Syntax highlighting and autocompletion for Terraform. ([Code](https://github.com/hashicorp/vscode-terraform))
 - [Terraform Provider for Okta](https://github.com/okta/terraform-provider-okta)
+- [Stripe Terraform Provider](https://github.com/lukasaron/terraform-provider-stripe)
+- [Terraform Provider Cloudvision Portal (CVP)](https://github.com/aristanetworks/terraform-provider-cloudvision)

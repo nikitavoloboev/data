@@ -153,6 +153,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Lua RTOS](https://github.com/whitecatboard/Lua-RTOS-ESP32) - Real-time operating system designed to run on embedded systems, with minimal requirements of FLASH and RAM memory.
 - [Inferno](https://www.vitanuova.com/inferno/) - Small operating system for building cross platform distributed systems. ([HN](https://news.ycombinator.com/item?id=30714509))
 - [Makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes-like OS on seL4.
+- [MOROS](https://github.com/vinc/moros) - Obscure Rust Operating System.
 
 ## Notes
 
@@ -164,7 +165,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) ([HN](https://news.ycombinator.com/item?id=26051386))
-- [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems.
+- [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems. ([Web Code](https://github.com/mirage/mirage-www))
 - [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials)) ([Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes))
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 - [Create OS from scratch](https://github.com/cfenollosa/os-tutorial)
@@ -348,3 +349,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Writing a Simple Operating System – From Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) ([HN](https://news.ycombinator.com/item?id=30800715))
 - [PCLSRing: Keeping Process State Modular](http://fare.tunes.org/tmp/emergent/pclsr.htm) ([HN](https://news.ycombinator.com/item?id=30800414))
 - [IPC-Bench](https://github.com/goldsborough/ipc-bench) - Benchmarks for Inter-Process-Communication Techniques.
+- [libtree](https://github.com/haampie/libtree) - ldd as a tree.

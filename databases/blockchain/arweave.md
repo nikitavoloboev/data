@@ -2,6 +2,10 @@
 
 > Novel data storage blockchain protocol enabling a permanent serverless web and creating truly permanent data storage for the first time.
 
+## Notes
+
+- [No need to use AR tokens to pay for Arweave.](https://twitter.com/dabit3/status/1510213010979278849)
+
 ## Links
 
 - [Sam Williams: Arweave – Bringing Permanence to the Web (2020)](https://overcast.fm/+RhzYXr_i4)

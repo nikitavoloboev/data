@@ -742,3 +742,8 @@
 - [Self Modifying Code (2022)](https://matklad.github.io//2022/03/26/self-modifying-code.html)
 - [Practical course: Advanced Systems Programming in C/Rust](https://github.com/ls1-sys-prog-course/docs)
 - [Creating a new Clippy lint (Rust) (2022)](http://jamesmcm.github.io/blog/2022/03/26/my-first-clippy-lint/)
+- [Still Rusting - One Year Later (2020)](https://deislabs.io/posts/still-rusting-one-year-later/) ([Lobsters](https://lobste.rs/s/o5hejm/still_rusting_one_year_later))
+- [Strict provenance: a teachable memory model (experiment) for Rust](https://lobste.rs/s/zbmgmp/strict_provenance_teachable_memory)
+- [What use cases does Rust cover better than Go? (2022)](https://www.reddit.com/r/rust/comments/ts8ptq/what_use_cases_does_rust_cover_better_than_go/)
+- [Anyone using rust in production? what do you do? (2022)](https://www.reddit.com/r/rust/comments/ts605e/anyone_using_rust_in_production_what_do_you_do/)
+- [Why Rust mutexes look like they do (2022)](https://cliffle.com/blog/rust-mutexes/) ([Reddit](https://www.reddit.com/r/rust/comments/tug7fs/why_rust_mutexes_look_like_they_do/))

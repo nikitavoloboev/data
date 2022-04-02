@@ -185,6 +185,7 @@
 - [pp-grid](https://github.com/rorokimdim/pp-grid) - Clojure library to construct formatted text.
 - [Naga](https://github.com/threatgrid/naga) - Datalog based rules engine.
 - [Puget](https://github.com/greglook/puget) - Clojure library for printing Clojure and EDN values.
+- [utf8](https://github.com/pjstadig/utf8) - Byte vector backed, utf8 strings for Clojure.
 
 ## Links
 
@@ -198,3 +199,4 @@
 - [neil](https://github.com/babashka/neil) - CLI to add common aliases and features to deps.edn-based projects.
 - [Clojure Garden](https://github.com/clojure-garden/clojure-garden) - Navigator in the Clojure ecosystem.
 - [Snowball](https://github.com/phronmophobic/snowball) - View the sizes of your dependencies.
+- [mobiletest](https://github.com/phronmophobic/mobiletest) - Example of building a clojure library for iOS with graalvm native-image.

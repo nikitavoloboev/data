@@ -45,3 +45,5 @@
 - [Vitest for VSCode](https://github.com/zxch3n/vitest-explorer) - VSCode extension for vitest.
 - [vite-plugin-ssr](https://vite-plugin-ssr.com/) - Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin. ([Code](https://github.com/brillout/vite-plugin-ssr))
 - [vite-ssr-next-auth](https://github.com/s-kris/vite-ssr-next-auth) - Sample repo to make next-auth work with vite-plugin-ssr.
+- [vite-dts](https://github.com/alloc/vite-dts) - Generate a .d.ts module for both .es and .cjs entry points when using Vite's lib mode.
+- [Vitamin](https://github.com/wtchnm/Vitamin) - Opinionated Vite starter template.

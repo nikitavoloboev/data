@@ -676,3 +676,7 @@
 - [lifecycle-manager](https://github.com/keikoproj/lifecycle-manager) - Graceful AWS scaling event on Kubernetes using lifecycle hooks.
 - [Koordinator](https://github.com/koordinator-sh/koordinator) - QoS based scheduling system for hybrid orchestration workloads on Kubernetes, bringing workloads the best layout and status.
 - [KubeView](https://github.com/benc-uk/kubeview) - Kubernetes cluster visualiser and graphical explorer.
+- [Selkies](https://github.com/selkies-project/selkies) - Stateful Workload Operator.
+- [selinuxd](https://github.com/containers/selinuxd) - Daemon that has the purpose of installing and removing policies as they are laid in a specific directory.
+- [Kubernetes Rollout Operator](https://github.com/grafana/rollout-operator) - Coordinates the rollout of pods between different StatefulSets within a specific namespace.
+- [Operator Registry](https://github.com/operator-framework/operator-registry) - Runs in a Kubernetes or OpenShift cluster to provide operator catalog data to Operator Lifecycle Manager.

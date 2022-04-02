@@ -228,3 +228,5 @@
 - [TTFB](https://github.com/phip1611/ttfb) - CLI + Lib to Measure the TTFB of HTTP/1.1 Requests.
 - [crs](https://github.com/Integralist/crs) - HTTP Response Header Sorting and Filtering.
 - [SuperTest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [Idempotency-Key HTTP Header Field](https://github.com/ietf-wg-httpapi/idempotency)
+- [Deprecation HTTP Header Field](https://github.com/ietf-wg-httpapi/deprecation-header)

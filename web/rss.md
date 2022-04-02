@@ -145,3 +145,5 @@
 - [Feed Master](https://github.com/umputun/feed-master) - Pulls multiple podcast feeds (RSS) and republishes as a common feed, properly sorted and podcast-client friendly.
 - [JSON Feed](https://www.jsonfeed.org/) - RSS feeds in JSON. ([HN](https://news.ycombinator.com/item?id=30776535))
 - [WikiNewsFeed](https://wikinewsfeed.org/) - News aggregator powered by Wikipedia. ([Code](https://github.com/WikiNewsFeed/wikinewsfeed))
+- [Tiny Tiny RSS](https://tt-rss.org/) - Free and open source web-based news feed (RSS/Atom) reader and aggregator.
+- [Feed reader library which abstracts the feed management process? (2022)](https://lobste.rs/s/wlxptu/feed_reader_library_which_abstracts_feed)

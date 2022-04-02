@@ -1,11 +1,12 @@
 # [Cloudflare workers](https://workers.cloudflare.com/)
 
-Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [wrangler](https://github.com/cloudflare/wrangler2) is useful CLI.
+Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [Wrangler](https://github.com/cloudflare/wrangler2) & [Miniflare](https://github.com/cloudflare/miniflare) are useful.
 
 ## OSS tools build with CW
 
 - [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
 - [Notify](https://github.com/K0IN/Notify) - Small Cloudflare worker / self hosted solution to send web push notifications with webhooks.
+- [Tauri Update Server: Hosted as a Cloudflare edge function](https://github.com/KilleenCode/tauri-update-cloudflare)
 
 ## Notes
 

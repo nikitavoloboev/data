@@ -77,3 +77,5 @@
 - [Figmagic](https://github.com/mikaelvesavuori/figmagic) - Missing piece between DevOps and design: Generate design tokens, export graphics, and extract design token-driven React components from your Figma documents.
 - [How to make Apple Event iPhone SE wallpaper with Figma](https://twitter.com/FonsMans/status/1501588645245030403)
 - [Starter for Figma](https://godly.shop/product/starter) - Prototype high-quality landing pages in literally minutes.
+- [Interface Inventory Blueprint – Figma](https://www.figma.com/community/file/1090652945374511460)
+- [Figma Export .zip](https://github.com/brianlovin/figma-export-zip) - Easily export assets from Figma directly into a .zip file.

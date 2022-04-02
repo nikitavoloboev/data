@@ -63,6 +63,7 @@
 - [xkeysnail](https://github.com/mooz/xkeysnail) - Keyboard remapping tool for X environment.
 - [Kinto](https://github.com/rbreaves/kinto/) - Mac-style shortcut keys for Linux and Windows. ([HN](https://news.ycombinator.com/item?id=26430240))
 - [Map2](https://github.com/shiro/map2) - Scripting language that allows complex key remapping on Linux.
+- [warpd](https://github.com/rvaiya/warpd) - Modal keyboard-driven virtual pointer.
 
 ## Links
 
@@ -498,3 +499,4 @@
 - [embedshim](https://github.com/fuweid/embedshim) - Provide task runtime implementation with pidfd and eBPF sched_process_exit tracepoint to manage deamonless container with low overhead.
 - [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - Tool for checking the security hardening options of the Linux kernel.
 - [eBPF Instruction Sets (2021)](https://pchaigno.github.io/bpf/2021/10/20/ebpf-instruction-sets.html)
+- [Fox Ear](https://github.com/KernelErr/foxear) - Linux process behavior trace tool powered by eBPF.

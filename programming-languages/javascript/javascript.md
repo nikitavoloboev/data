@@ -12,6 +12,7 @@
 - [Between typescript and prettier, there is very little justification for eslint.](https://twitter.com/mweststrate/status/1296437898330419209)
 - [JS proxy can observe a nested object for changes made to it. That means there's none of the traditional selecting or diffing.](https://twitter.com/0xca0a/status/1328756186288713730)
 - [One optimization that turned out well: storing JavaScript strings as either UTF-16 or UTF-8, depending on whats inside. It turns out this is also what JavaScript engines do, so it makes converting from a string in a JavaScript VM to a string in Bun's AST fast.](https://twitter.com/jarredsumner/status/1441876861106024449)
+- [Stop using strings concatenation to create and edit URLs in JS. All major browsers have great built-in functionality for URL parsing & manipulation.](https://twitter.com/Steve8708/status/1509280798423191554)
 
 ## Code
 
@@ -419,3 +420,4 @@ if (
 - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/) ([Code](https://github.com/TimothyGu/es-howto))
 - [Broken Promises - James Snell, NearForm (2019)](https://www.youtube.com/watch?v=XV-u_Ow47s0) ([Tweet](https://twitter.com/matteocollina/status/1507402939022860291))
 - [JS Event Loop Visualizer](https://www.jsv9000.app/) ([Tweet](https://twitter.com/elmd_/status/1508743380859338768))
+- [Google Closure Compiler NPM](https://github.com/google/closure-compiler-npm) - Check, compile, optimize and compress JavaScript with Closure-Compiler.

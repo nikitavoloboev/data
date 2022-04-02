@@ -68,3 +68,4 @@
 - [Why are letters shaped the way they are?](https://www.vice.com/en/article/4awqz3/why-are-letters-shaped-the-way-they-are) ([HN](https://news.ycombinator.com/item?id=30320909))
 - [Machine Translation Conferences & Journals](https://github.com/NiuTrans/MTVenues)
 - [Gruut](https://github.com/rhasspy/gruut) - Tokenizer, text cleaner, and phonemizer for many human languages.
+- [zdict](https://github.com/zdict/zdict) - CLI dictionary framework mainly focus on any kind of online dictionary.

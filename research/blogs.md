@@ -224,3 +224,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Sairin](https://github.com/djyde/sairin) - Blog engine based on GitHub issue with the power of Next.js ISR.
 - [Beam](https://github.com/planetscale/beam) - Simple message board for your organization or project. ([HN](https://news.ycombinator.com/item?id=30457960)) ([Intro](https://planetscale.com/blog/increasing-planetscale-plan-limits-to-include-billions-of-reads)) -
 - [Indie Microblogging book](https://github.com/microdotblog/indie-microblogging)
+- [Ask HN: Are blog comments a thing of the past? (2022)](https://news.ycombinator.com/item?id=30853565)

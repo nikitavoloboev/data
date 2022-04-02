@@ -52,3 +52,4 @@
 - [Stitches Mixins](https://github.com/joe-bell/stitches-mixins) - Shorthand utils for Stitches.
 - [Token CSS](https://github.com/tokencss/tokencss)
 - [split-classnames](https://github.com/remorses/split-classnames) - Splits long className attributes to make them more readable.
+- [TypeScript language service plugin for CSS Modules](https://github.com/mrmckeb/typescript-plugin-css-modules)

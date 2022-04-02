@@ -1,5 +1,7 @@
 # [Slack](https://slack.com)
 
+Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack apps.
+
 ## Bots
 
 - [Monorobot](https://github.com/ahrefs/monorobot) - Slack bot for monorepos. ([Article](https://tech.ahrefs.com/monorobot-a-slack-bot-for-monorepos-374260e2ca43))
@@ -66,3 +68,4 @@
 - [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging and web API client in Elixir.
 - [Stabilize, Modularize, Modernize: Scaling Slack’s Mobile Codebases (2022)](https://slack.engineering/stabilize-modularize-modernize-scaling-slacks-mobile-codebases-2/)
 - [Collaborate with kindness: Etiquette tips in Slack (2022)](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack) ([HN](https://news.ycombinator.com/item?id=30835070))
+- [Action Slack Notifier](https://github.com/actions-ecosystem/action-slack-notifier) - GitHub Action to send notifications to Slack.

@@ -107,3 +107,4 @@
 - [zchunk](https://github.com/zchunk/zchunk) - Compressed file format that splits the file into independent chunks.
 - [Pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go.
 - [WarpDrive Go](https://github.com/quackduck/warpdrive-go) - Warp across your filesystem in ~5 ms.
+- [HashFS](https://github.com/dgilland/hashfs) - Content-addressable file management system.

@@ -93,3 +93,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [mx-puppet-slack](https://github.com/Sorunome/mx-puppet-slack) - Slack puppeting bridge for Matrix.
 - [Matrix Video Chat](https://call.element.io/)
 - [Element Call for macOS](https://github.com/pixlwave/Element-Call-macOS) - Wrapper app for Element Call that adds support for Camera & Microphone toggling via keyboard.
+- [Matrix Highlight](https://github.com/DanilaFe/matrix-highlight) - Decentralized and federated way of annotating the web based on Matrix.

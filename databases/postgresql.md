@@ -1,6 +1,6 @@
 # [PostgreSQL](https://www.postgresql.org)
 
-[Internals of PostgreSQL](https://www.interdb.jp/pg/) is great. [Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs.
+[Internals of PostgreSQL](https://www.interdb.jp/pg/) is great. [Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs. [Citus](https://github.com/citusdata/citus) seems neat.
 
 ## Notes
 
@@ -450,5 +450,11 @@
 - [Supabase Cheat Sheet](https://supabase-cheatsheet.vercel.app/) - Cheat Sheets for anyone starting with Supabase + PostgreSQL. ([Code](https://github.com/lawrencecchen/supabase-cheatsheet))
 - [pg_plan_guarantee](https://github.com/gurjeet/pg_plan_guarantee) - Postgres Query Optimizer Extension that guarantees your desired plan will not change. ([HN](https://news.ycombinator.com/item?id=30825069))
 - [Index Adviser](https://github.com/gurjeet/pg_adviser) - Postgres extension that helps you find potentially useful indexes.
-- [Postgres 15 will support MERGE](https://www.postgresql.org/docs/devel/sql-merge.html)
+- [Postgres 15 will support MERGE](https://www.postgresql.org/docs/devel/sql-merge.html) ([Article](https://www.depesz.com/2022/03/31/waiting-for-postgresql-15-add-support-for-merge-sql-command/))
 - [Understanding connection URI strings in PostgreSQL](https://www.prisma.io/dataguide/postgresql/short-guides/connection-uris)
+- [Supabase Enterprise (2022)](https://supabase.com/blog/2022/03/30/supabase-enterprise)
+- [Supabase Edge Functions (2022)](https://supabase.com/blog/2022/03/31/supabase-edge-functions) ([HN](https://news.ycombinator.com/item?id=30868849))
+- [Postgrator CLI](https://github.com/MattiLehtinen/postgrator-cli) - PostgreSQL, MySQL and MS SQL database schema migration tool using plain SQL and JS files.
+- [Postgres Container Apps (beta)](https://blog.crunchydata.com/blog/announcing-postgres-container-apps-easy-deploy-postgres-apps) ([HN](https://news.ycombinator.com/item?id=30867644))
+- [pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremnetal View Maintenance) implementation as a PostgreSQL extension.
+- [PostgreSQL Database Management System](https://github.com/sraoss/pgsql-ivm)

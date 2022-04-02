@@ -107,3 +107,5 @@
 - [Minecraft High-Performance Redstone Server](https://github.com/MCHPR/MCHPRS)
 - [Minecraft XR](https://github.com/Sorenon/MCXR) - VR minecraft mod using OpenXR and fabric.
 - [GDLauncher](https://gdevs.io/) - Custom Minecraft Launcher. ([Code](https://github.com/gorilla-devs/GDLauncher))
+- [Minecraft:HACKED](https://github.com/LiveOverflow/minecraft-hacked) - Video series exploring various technical areas of Minecraft.
+- [wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) - Rust-based replacement for the default Minecraft renderer.

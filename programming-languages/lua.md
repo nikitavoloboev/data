@@ -109,3 +109,4 @@
 - [RapidJSON bindings for Lua](https://github.com/xpol/lua-rapidjson)
 - [GoLua](https://github.com/arnodel/golua) - Lua compiler / runtime in Go.
 - [WebAssembly Lua](https://github.com/ysugimoto/webassembly-lua) - Write and compile WebAssembly code with Lua.
+- [Hush](https://github.com/hush-shell/hush) - Unix shell scripting language inspired by Lua.

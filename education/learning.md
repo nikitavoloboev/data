@@ -205,3 +205,5 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Celebrate tiny learning milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/)
 - [Codedamn](https://codedamn.com/) - Learn full-stack web development with interactive courses.
 - [Edrys](https://edrys.org/) - Next Generation of Remote Teaching Software. ([HN](https://github.com/edrys-org/edrys)) ([HN](https://news.ycombinator.com/item?id=30728064))
+- [Ask HN: What bits of fundamental knowledge are 10x productivity multipliers? (2022)](https://news.ycombinator.com/item?id=30853807)
+- [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases.

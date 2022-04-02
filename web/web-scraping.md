@@ -170,3 +170,4 @@
 - [Apify SDK](https://github.com/apify/apify-ts) - Scalable web crawling and scraping library for JavaScript.
 - [Extracting web page content using Readability.js and shot-scraper (2022)](https://til.simonwillison.net/shot-scraper/readability)
 - [Texting Robots: Taming robots.txt with Rust and 34 million tests (2022)](https://state.smerity.com/smerity/state/01FZ3813Q79VTTVDHWHFA2A15E) ([Reddit](https://www.reddit.com/r/rust/comments/tqkmo5/texting_robots_taming_robotstxt_with_rust_and_34/))
+- [Scraping Instagram (2022)](https://scrapingfish.com/blog/scraping-instagram) ([HN](https://news.ycombinator.com/item?id=30868738))

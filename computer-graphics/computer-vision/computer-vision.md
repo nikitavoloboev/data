@@ -1,5 +1,7 @@
 # Computer vision
 
+[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat.
+
 ## Links
 
 - [OpenCV](https://github.com/opencv/opencv) - Open Source Computer Vision Library. ([Web](https://opencv.org/)) ([OpenCV Course](https://www.youtube.com/watch?v=oXlwWbU8l2o))
@@ -656,3 +658,16 @@
 - [OpenCV JS Web Worker](https://github.com/vinissimus/opencv-js-webworker) - Getting started with OpenCV compiled to Webassembly and loaded in a worker.
 - [Learning Graph Regularisation for Guided Super-Resolution (2022)](https://arxiv.org/abs/2203.14297) ([Code](https://github.com/prs-eth/graph-super-resolution))
 - [Video Polyp Segmentation: A Deep Learning Perspective (2022)](https://arxiv.org/abs/2203.14291) ([Code](https://github.com/GewelsJI/VPS))
+- [Adjacent Context Coordination Network for Salient Object Detection in Optical Remote Sensing Images (2022)](https://arxiv.org/abs/2203.13664) ([Code](https://github.com/MathLee/ACCoNet))
+- [HybridNets: End-to-End Perception Network (2022)](https://arxiv.org/abs/2203.09035) ([Code](https://github.com/datvuthanh/HybridNets))
+- [HDR-NeRF: High Dynamic Range Neural Radiance Fields (2022)](https://shsf0817.github.io/hdr-nerf/) ([Code](https://github.com/shsf0817/hdr-nerf))
+- [AdaMixer: A Fast-Converging Query-Based Object Detector (2022)](https://arxiv.org/abs/2203.16507) ([Code](https://github.com/MCG-NJU/AdaMixer))
+- [MixFormer: End-to-End Tracking with Iterative Mixed Attention (2022)](https://arxiv.org/abs/2203.11082) ([Code](https://github.com/MCG-NJU/MixFormer))
+- [Bringing Old Films Back to Life (2022)](http://raywzy.com/Old_Film/) ([Code](https://github.com/raywzy/Bringing-Old-Films-Back-to-Life))
+- [Extracting Triangular 3D Models, Materials, and Lighting From Images (2022)](https://nvlabs.github.io/nvdiffrec/) ([Code](https://github.com/NVlabs/nvdiffrec))
+- [LiT: Zero-Shot Transfer with Locked-image text Tuning (2021)](https://arxiv.org/abs/2111.07991) ([Tweet](https://twitter.com/giffmana/status/1508400604082806785))
+- [LAFITE: Towards Language-Free Training for Text-to-Image Generation (2021)](https://arxiv.org/abs/2111.13792) ([Code](https://github.com/drboog/Lafite))
+- [Neural 3D Video Synthesis from Multi-view Video (2022)](https://neural-3d-video.github.io/) ([Code](https://github.com/facebookresearch/Neural_3D_Video))
+- [ToFu: Topologically Consistent Multi-View Face Inference Using Volumetric Sampling (2021)](https://github.com/tianyeli/tofu)
+- [Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning (2019)](https://arxiv.org/abs/1904.01786) ([Code](https://github.com/ShichenLiu/SoftRas))
+- [FrankMocap: A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator (2021)](https://github.com/facebookresearch/frankmocap)

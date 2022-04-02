@@ -39,3 +39,4 @@
 - [under-pressure](https://github.com/fastify/under-pressure) - Measure process load with automatic handling of "Service Unavailable" plugin for Fastify.
 - [fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static file as fast as possible.
 - [fastify-shopify-graphql-proxy](https://github.com/Asjas/fastify-shopify-graphql-proxy) - Fastify plugin to proxy requests to the Shopify GraphQL API.
+- [Envuso](https://github.com/Envuso/framework) - Backend framework focusing building apis using Fastify and MongoDB support.

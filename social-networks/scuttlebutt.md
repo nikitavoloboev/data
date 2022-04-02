@@ -21,3 +21,4 @@
 - [scratch](https://github.com/nanomonkey/scratch) - Production recipe sharing tool built on Secure Scuttlebutt as a decentralized database.
 - [Guide to developing with secure-scuttlebutt](https://github.com/nichoth/ssb-field-guide)
 - [erlbutt](https://github.com/cmoid/erlbutt) - Erlang prototype of scuttlebutt protocol.
+- [ssb-http-auth-client](https://github.com/ssb-ngi-pointer/ssb-http-auth-client) - Secret-stack plugin to implement Sign-in with SSB over HTTP.

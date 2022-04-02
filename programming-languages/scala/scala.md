@@ -1,5 +1,7 @@
 # [Scala](https://www.scala-lang.org/)
 
+[Lichess](https://github.com/lichess-org/lila) is amazing Chess service that's built with Scala.
+
 ## Notes
 
 - [Scala enables abstractions which aren’t possible and/or not nearly as elegantly expressed in Kotlin due to for example the lack of native higher-kinded type (HKT), typeclasses, structural intersection/union type lattice, operator overloading, path dependent types and robust pattern matching in Kotlin (and probably many other nuances such a value types which are ostensibly useful for example for efficiently emulating new type system features)](https://www.reddit.com/r/scala/comments/ixjjmf/dotty_becomes_scala_3/)

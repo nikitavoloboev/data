@@ -22,3 +22,5 @@
 - [Apple’s $1,599 Studio Display vs. Other Monitors: You Won’t Get What You Pay For (2022)](https://www.wsj.com/articles/apples-1-599-studio-display-vs-other-monitors-you-wont-get-what-you-pay-for-11647521601) ([Tweet](https://twitter.com/JoannaStern/status/1504443171127894024))
 - [Lunar](https://lunar.fyi/) - Change monitor brightness, volume, input and colors. ([HN](https://news.ycombinator.com/item?id=30776300))
 - [Best monitor arms for Mac (or PC) external displays (2022)](https://9to5mac.com/2022/03/25/best-monitor-arms-for-mac-or-pc-external-displays/)
+- [The smallest and worst HDMI display (2022)](https://mitxela.com/projects/ddc-oled) ([HN](https://news.ycombinator.com/item?id=30869140))
+- [I didn't return my Apple Studio Display (2022)](https://cfenollosa.com/blog/i-didnt-return-my-apple-studio-display.html) ([HN](https://news.ycombinator.com/item?id=30878736))

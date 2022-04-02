@@ -5,6 +5,7 @@
 ## Examples of nice docs
 
 - [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))
+- [Fly Docs](https://fly.io/docs/) ([Code](https://github.com/superfly/docs))
 - [Hoppscotch Docs](https://docs.hoppscotch.io/) ([Code](https://github.com/hoppscotch/docs))
 - [Next MDX](https://www.next-mdx.org/)
 - [Algolia Docs](https://www.algolia.com/doc/)
@@ -24,6 +25,7 @@
 - [Datadog Docs](https://docs.datadoghq.com/) ([Code](https://github.com/DataDog/documentation))
 - [Strapi Docs](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) ([Code](https://github.com/strapi/documentation))
 - [Increase API Reference](https://increase.com/documentation#api-reference)
+- [Stacks Docs](https://docs.stacks.co/) ([Code](https://github.com/stacks-network/docs))
 
 ## Notes
 

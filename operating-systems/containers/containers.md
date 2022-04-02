@@ -202,3 +202,4 @@
 - [qemu-user-static](https://github.com/multiarch/qemu-user-static) - Enable an execution of different multi-architecture containers by QEMU and binfmt_misc.
 - [Symphony](https://github.com/marhkb/symphony) - Podman desktop application.
 - [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications in Docker or podman containers.
+- [SPINUP](https://github.com/spinup-host/spinup) - Open source alternative to AWS RDS, Cloud SQL. Creates multiple containers through docker-compose.

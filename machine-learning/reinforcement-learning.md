@@ -330,3 +330,5 @@
 - [Gold](https://github.com/aunum/gold) - Reinforcement Learning in Go.
 - [MetaGym](https://github.com/PaddlePaddle/MetaGym) - Collection of Reinforcement Learning / Meta Reinforcement Learning Environments.
 - [Melting Pot](https://github.com/deepmind/meltingpot) - Suite of test scenarios for multi-agent reinforcement learning.
+- [CQL](https://github.com/young-geng/CQL) - Simple and modular implementation of the Conservative Q Learning and Soft Actor Critic algorithm in PyTorch.
+- [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments (2017)](https://arxiv.org/abs/1706.02275) ([Code](https://github.com/xuehy/pytorch-maddpg))

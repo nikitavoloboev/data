@@ -89,3 +89,4 @@
 - [Component Encyclopedia | Storybook](https://storybook.js.org/showcase) - Reference thousands of components from leading UI engineering teams.
 - [Smart Interface Design Patterns – 100 Smart Interface Design Patterns & Live Examples. 6h Video + UX Training. (2022)](https://smart-interface-design-patterns.com/)
 - [Interaction Testing with Storybook (2022)](https://storybook.js.org/blog/interaction-testing-with-storybook/) ([Reddit](https://www.reddit.com/r/reactjs/comments/t0fe4a/storybook_interaction_testing_in_beta/))
+- [Claymorphism: Will It Stick Around? UI Trends (2022)](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) ([HN](https://news.ycombinator.com/item?id=30852884))

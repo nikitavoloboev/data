@@ -14,3 +14,4 @@
 - [How to make any immutable data structure distributed](https://www.unison-lang.org/articles/distributed-datasets/core-idea/) ([HN](https://news.ycombinator.com/item?id=29452424))
 - [unison.rs](https://github.com/jaredly/unison.rs) - Experimental runtime for unison code, written in rust, compiled to wasm for use in the browser.
 - [Unison in 2021, 2022 and beyond: year in review and future plans](https://www.unisonweb.org/2022/02/10/unison-2021-year-in-review/)
+- [JIT compilation is coming to Unison: an early progress report](https://www.unison-lang.org/blog/jit-announce/)

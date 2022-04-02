@@ -30,6 +30,7 @@
 - [Nothing is more permanent than a “temporary” government program.](https://twitter.com/elonmusk/status/1468685877970935809)
 - [The way I approach policy—what creates systemic risk to our country? My biggest concern is the demographic crisis: too few people having kids, causing fiscal insolvency. If that means subsidizing childcare & parental leave, then we have to do it.](https://twitter.com/nikitabier/status/1491847339715092521)
 - [The state will never be better than we require it to be.](https://twitter.com/Snowden/status/1493646944094371842)
+- [Democracy guarantees regular small revolutions instead of occasional big ones.](https://twitter.com/paulg/status/1509302933464178697)
 
 ## Links
 
@@ -116,3 +117,5 @@
 - [Notes on Nationalism (1945)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/) ([HN](https://news.ycombinator.com/item?id=30575455))
 - [The Network State: How To Start a New Country , Srinivasan, Balaji (2022)](https://www.amazon.com/dp/B09VPKZR3G) ([Tweet](https://twitter.com/balajis/status/1504852745609637893))
 - [The user experience problems of quadratic voting (2022)](https://timdaub.github.io/2022/03/27/the-user-experience-problems-of-quadratic-voting/) ([HN](https://news.ycombinator.com/item?id=30822489))
+- [Corruption Has Shaped History. Why Do We Still Ignore It? (2022)](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it) ([HN](https://news.ycombinator.com/item?id=30865974))
+- [CONSUL](https://consulproject.org/en/) - Open Government and E-Participation Web Software. ([Code](https://github.com/consul/consul))

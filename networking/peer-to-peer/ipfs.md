@@ -97,3 +97,6 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Bootcamp](https://github.com/adlrocha/ipfs-bootcamp)
 - [IPFS Camp](https://camp.ipfs.io/) - 3 day hacker retreat designed for the builders of the Distributed Web. ([Code](https://github.com/ipfs/camp))
 - [Performance Evaluation of IPFS in Private Networks (2021)](https://dl.acm.org/doi/fullHtml/10.1145/3456146.3456159) ([HN](https://news.ycombinator.com/item?id=30797568))
+- [go-path](https://github.com/ipfs/go-path) - Utilities for dealing with IPFS paths.
+- [Bacalhau](https://github.com/filecoin-project/bacalhau) - Compute over Data framework for IPFS & Filecoin.
+- [IPFS Only Hash](https://github.com/alanshaw/ipfs-only-hash) - Just enough code to calculate the IPFS hash for some data.

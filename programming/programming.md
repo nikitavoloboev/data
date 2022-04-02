@@ -542,3 +542,6 @@
 - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
 - [What's in a Good Error Message? (2022)](https://www.morling.dev/blog/whats-in-a-good-error-message/) ([Lobsters](https://lobste.rs/s/pllm4v/what_s_good_error_message))
 - [Abstraction: Not What You Think It Is (2022)](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html) ([Lobsters](https://lobste.rs/s/d1jkw5/abstraction_not_what_you_think_it_is))
+- [The shape of data](https://www.scattered-thoughts.net/writing/the-shape-of-data/) ([Lobsters](https://lobste.rs/s/qhsta6/shape_data))
+- [Oil Is Being Implemented "Middle Out" (2022)](https://www.oilshell.org/blog/2022/03/middle-out.html) ([Lobsters](https://lobste.rs/s/s2remb/oil_is_being_implemented_middle_out))
+- [Awesome Bugs](https://github.com/Julian/awesome-bugs) - Collection of bizarre, funny or obscure bugs in our software and hardware.

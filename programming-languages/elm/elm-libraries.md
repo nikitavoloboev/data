@@ -8,6 +8,7 @@
 - [Elm Animator](https://github.com/mdgriffith/elm-animator) - Timeline-based animation engine for Elm.
 - [elm-vegaLite](https://github.com/gicentre/elm-vegalite) - Vega-Lite Integration for functional declarative visualization.
 - [elm-charts](https://github.com/terezka/elm-charts) - Create SVG charts in Elm. ([Web](https://elm-charts.org/))
+- [Elm UI](https://github.com/gdotdesign/elm-ui) - UI library for making web applications with Elm.
 
 ## Style
 
@@ -28,8 +29,9 @@
 
 ## Links
 
-- [Elm Packages search](https://package.elm-lang.org/)
+- [Elm Packages search](https://package.elm-lang.org/) ([Code](https://github.com/elm/package.elm-lang.org))
 - [Elm CodeGen](https://github.com/mdgriffith/elm-codegen) - Elm package and CLI tool for generating Elm code.
 - [elm-docset](https://github.com/pdamoc/elm-docset) - Elm Dash Docset generator.
 - [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - esbuild plugin for building elm projects.
 - [elm-verify-examples](https://github.com/stoeffel/elm-verify-examples) - Verify examples in your docs.
+- [elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies.

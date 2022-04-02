@@ -53,3 +53,5 @@
 - [How did Europe become the richest part of the world?](https://aeon.co/essays/how-did-europe-become-the-richest-part-of-the-world) ([HN](https://news.ycombinator.com/item?id=30742048))
 - [Russia's invasion of Ukraine accelerates Europe's energy transition (2022)](https://twitter.com/ntsafos/status/1505248550975938560)
 - [Wealth Inequality and Homeownership in Europe](https://www.jstor.org/stable/10.15609/annaeconstat2009.136.0027)
+- [Hoog - YouTube](https://www.youtube.com/c/Hoogromulus/videos)
+- [EU will have issues for not embracing AI and focusing on regulation](https://twitter.com/punk6529/status/1509832349986562048)

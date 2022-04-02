@@ -137,3 +137,7 @@
 - [Learning R for visualizing humanities data](https://jilltxt.net/?p=5111)
 - [R Weekly](https://rweekly.org/) - Blogs to Learn R from the Community. ([Code](https://github.com/rweekly/rweekly.org))
 - [callr](https://github.com/r-lib/callr) - Call R from R.
+- [graphlayouts](https://github.com/schochastics/graphlayouts) - New layout algorithms for network visualizations in R.
+- [R/igraph](https://github.com/igraph/rigraph) - R package of the igraph network analysis library.
+- [ggspatial](https://github.com/paleolimbot/ggspatial) - Enhancing spatial visualization in ggplot2.
+- [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.

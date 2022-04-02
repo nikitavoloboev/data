@@ -105,3 +105,7 @@
 - [fluent](https://github.com/rogerkeays/racket-fluent) - UNIX style pipes and a lambda shorthand syntax to make your Racket code more readable.
 - [Improving Logging With Racket (2022)](https://www.grinning-cat.com/post/improving-logging-with-racket/)
 - [Dependency Management in Racket Applications (2020)](https://alex-hhh.github.io/2020/05/dependency-management-in-racket-applications.html)
+- [typesetting](https://github.com/mbutterick/typesetting) - Document-layout tools.
+- [sci](https://github.com/soegaard/sci) - Racket libraries for scientific computing.
+- [racket-analysis](https://github.com/sorawee/racket-analysis) - Analysis of Racket code base.
+- [racket-review](https://github.com/Bogdanp/racket-review) - Linter for Racket.

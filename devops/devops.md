@@ -156,3 +156,7 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [EaseProbe](https://github.com/megaease/easeprobe) - Simple, standalone, and lightWeight tool that can do health/status checking, written in Go.
 - [Porter](https://porter.sh/) - Enables you to package your application artifact, client tools, configuration and deployment logic together as a versioned bundle that you can distribute, and install with a single command. ([Code](https://github.com/getporter/porter))
 - [Fiberplane](https://fiberplane.dev/) - Collaborative notebooks for debugging your incidents. ([GitHub](https://github.com/fiberplane))
+- [Fundamentals & Deployment (2022)](https://underjord.io/fundamentals-and-deployment.html) ([HN](https://news.ycombinator.com/item?id=30756854))
+- [Entropy](https://github.com/odpf/entropy) - Framework to safely and predictably create, change, and improve modern cloud applications and infrastructure using familiar languages, tools, and engineering practices.
+- [Firefly](https://www.gofirefly.io/) - Bring your cloud up-to-code. ([GitHub](https://github.com/gofireflyio))
+- [bldr](https://github.com/siderolabs/bldr) - Tool to build and package software distributions. Build process runs in buildkit (or docker buildx), build result can be exported as container image.

@@ -45,6 +45,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Zodios](https://github.com/ecyrbe/zodios) - TypeScript HTTP client with zod validation.
 - [teeny-request](https://github.com/googleapis/teeny-request) - Like request, but tiny. Fetch under the hood.
 - [mini-throttle](https://github.com/github/mini-throttle) - Small JavaScript throttle & debounce implementation.
+- [Express Zod API](https://github.com/RobinTail/express-zod-api) - Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 
 ## Test
 
@@ -412,6 +413,14 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Got Scraping](https://github.com/apify/got-scraping) - HTTP client made for scraping based on got.
 - [Adze](https://github.com/AJStacy/adze) - Library for shaping your JavaScript logs.
 - [vk-js](https://github.com/VKCOM/vkjs) - VK shared JS libs.
+- [ast-node-finder](https://github.com/rajasegar/ast-node-finder) - AST Node Find api automatically generated from code.
+- [tst-reflect](https://github.com/Hookyns/tst-reflect) - Advanced TypeScript runtime reflection system.
+- [parse-openapi](https://github.com/webpro/parse-openapi) - OpenAPI v3 parser.
+- [node-interval-tree](https://github.com/ShieldBattery/node-interval-tree) - Interval Tree data structure.
+- [Floggy](https://github.com/jasonkuhrt/floggy) - Universal structured event-oriented logging for libraries & applications.
+- [Functionless](https://github.com/sam-goodwin/functionless) - TypeScript plugin that transforms TypeScript code into Service-to-Service (aka. "functionless") integrations.
+- [get-tsconfig](https://github.com/privatenumber/get-tsconfig) - Find and parse the tsconfig.json file from a directory path.
+- [user-flow](https://github.com/push-based/user-flow) - CLI to write and run user-flows in typesript without boilerplate.
 
 ## Links
 
@@ -463,3 +472,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [docx](https://github.com/dolanmiu/docx) - Easily generate .docx files with JS/TS. Works for Node and on the Browser. ([Docs](https://docx.js.org/#/))
 - [Stardazed Web Streams Implementation](https://github.com/stardazed/sd-streams)
 - [Tsify](https://github.com/madonoharu/tsify) - Library for generating TypeScript definitions from rust code.
+- [query-registry](https://github.com/velut/node-query-registry) - Query the npm registry for packuments, manifests, packages and download counts.
+- [Easiest way today to build a library in typescript and publish it on npm in all formats people use (2022)](https://twitter.com/oleg008/status/1510006191296061441)

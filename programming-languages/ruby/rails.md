@@ -142,3 +142,5 @@
 - [Advanced topics in Rails (2022)](https://www.reddit.com/r/rails/comments/tok7of/what_would_you_consider_advanced_topics_in_rails/)
 - [Semantic Logger](https://github.com/reidmorrison/semantic_logger) - Feature rich logging framework, and replacement for existing Ruby & Rails loggers.
 - [Responders](https://github.com/heartcombo/responders) - Set of Rails responders to dry up your application.
+- [Hotwire::Livereload](https://github.com/kirillplatonov/hotwire-livereload) - Live reload for Hotwire Rails apps.
+- [Primer ViewComponents](https://github.com/primer/view_components) - ViewComponents for the Primer Design System.

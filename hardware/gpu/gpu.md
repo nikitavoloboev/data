@@ -99,3 +99,4 @@
 - [NVIDIA Warp](https://github.com/NVIDIA/warp) - Python framework for writing high-performance simulation and graphics code.
 - [nvblox](https://github.com/nvidia-isaac/nvblox) - Signed Distance Functions (SDFs) on NVIDIA GPUs.
 - [Sparse Voxel Octree (Vulkan Version)](https://github.com/AdamYuan/SparseVoxelOctree) - GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
+- [Ask HN: How does a CPU communicate with a GPU? (2022)](https://news.ycombinator.com/item?id=30860259)

@@ -146,3 +146,4 @@
 - [Dito](https://www.dito.so/) - Design your post once then apply the same design for Instagram, Facebook, Twitter, LinkedIn and Pinterest in one click.
 - [Circles](https://oncircles.com/) - Private app for the most important people in your life. ([HN](https://news.ycombinator.com/item?id=30175863))
 - [Most things shared are a lie or can be completely unverifiable in times of conflict (2022)](https://twitter.com/ggreenwald/status/1497939823260168193)
+- [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyze followers | following with their details.

@@ -1,6 +1,6 @@
 # Computer Science
 
-[Coding Interview University](https://github.com/jwasham/coding-interview-university) & [this self learning guide](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) are great overviews of CS.
+[Coding Interview University](https://github.com/jwasham/coding-interview-university), [Self learning CS](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) & [Rust CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) are great overviews of CS.
 
 ## Notes
 
@@ -185,3 +185,5 @@
 - [Self-learning-Computer-Science](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)
 - [Awesome Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 - [Generalized Partial Computation bibliography](https://github.com/yallop/generalized-partial-computation-bibliography)
+- [Algebraic Shift Register Sequences (2009)](http://www.cs.uky.edu/~klapper/pdf/algebraic.pdf)
+- [Computer Science Curriculum with Rust flavor](https://github.com/AbdesamedBendjeddou/Rusty-CS)

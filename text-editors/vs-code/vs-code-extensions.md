@@ -149,6 +149,7 @@ Below is a list of extensions I use.
 - [vscode-cli](https://marketplace.visualstudio.com/items?itemName=pkosta2006.vscode-cli) - Execute vscode command from vscode command prompt.
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Preview Graphviz (DOT) files.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
+- [Quarto](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) - Extension for the Quarto scientific and technical publishing system. ([Code](https://github.com/quarto-dev/quarto-vscode))
 - [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity useful commands to vscode.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
 - [Smart Clicks](https://github.com/antfu/vscode-smart-clicks) - Smart selection with double clicks for VS Code.
@@ -307,6 +308,7 @@ Below is a list of extensions I use.
 
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 - [VSCode Lua Format](https://github.com/Koihik/vscode-lua-format)
+- [Local Lua Debugger](https://github.com/tomblind/local-lua-debugger-vscode) - Simple Lua debugger which requires no additional dependencies.
 
 ## Elm
 
@@ -441,6 +443,10 @@ Below is a list of extensions I use.
 ## PureScript
 
 - [PureScript IDE](https://marketplace.visualstudio.com/items?itemName=nwolverson.ide-purescript) ([Code](https://github.com/nwolverson/vscode-ide-purescript))
+
+## ReScript
+
+- [ReScript](https://github.com/rescript-lang/rescript-vscode) - Official VSCode plugin for ReScript.
 
 ## Django
 

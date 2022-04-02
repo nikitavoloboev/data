@@ -98,6 +98,7 @@
 - [Banners](https://github.com/noatpad/obsidian-banners) - Obsidian plugin to add banner images (and icons) to your notes.
 - [Chat View Plugin](https://github.com/adifyr/obsidian-chat-view) - Quickly and easily create elegant Chat UIs in your Markdown Files.
 - [Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames) - Turns web apps into panes using iframes with custom styling.
+- [Obsidian-Charts](https://github.com/phibr0/obsidian-charts) - Create interactive Charts in Obsidian.
 
 ## Themes
 
@@ -143,3 +144,4 @@
 - [Obsidian SSG Blog](https://github.com/A/obsidian-blog) - Simple blog generated from Obsidian Map Of Content notes.
 - [Obsidian Releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [Create multiple websites from one Obsidian vault](https://starfallprojects.co.uk/blog/obsidian-monorepo/)
+- [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) - Publish your notes in your own personal digital garden.

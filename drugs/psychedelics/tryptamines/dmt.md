@@ -82,3 +82,4 @@
 - [QT's DMT Extraction Guide](https://www.erowid.org/chemicals/dmt/extraction_guide1/dmt_extraction_guide1.shtml) ([Reddit](https://www.reddit.com/r/researchchemicals/comments/rgboh9/which_rc_gives_the_most_similar_effects_to/))
 - [Noman's DMT tek](https://wiki.dmt-nexus.me/Noman%27s_tek)
 - [Why doesn't DMT teach me anything? (2022)](https://www.reddit.com/r/RationalPsychonaut/comments/rzpix5/why_doesnt_dmt_teach_me_anything/)
+- [DMT has been found in the human brain, cerebrospinal fluid, lungs](https://www.reddit.com/r/Psychonaut/comments/ttabbh/dmt_not_proven_to_be_in_human_brain/)

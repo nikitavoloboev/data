@@ -162,6 +162,7 @@
 - [zio-json](https://github.com/zio/zio-json) - Fast, secure JSON library with tight ZIO integration.
 - [Ficus](https://github.com/iheartradio/ficus) - Lightweight companion to Typesafe config that makes it more Scala-friendly.
 - [Colossus](https://github.com/tumblr/colossus) - Lightweight I/O framework for building Scala services.
+- [Futiles](https://github.com/johanandren/futiles) - Missing utils for working with Scala Futures.
 
 ## Links
 
@@ -182,3 +183,4 @@
 - [Modeling & Building PayRoll Engine Using Functional Effects System With ZIO Asynchronous, Concurrent, ZIO Scala FP Library. (2022)](https://www.linkedin.com/pulse/modeling-building-payroll-engine-using-functional-effects-otun/)
 - [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
 - [Binary Compatibility Code Examples & Explanation](https://github.com/jatcwang/binary-compatibility-guide) - Guide + Examples to help you better maintain binary compatibility for your Scala library releases.
+- [Scala Diagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code.

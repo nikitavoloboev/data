@@ -116,6 +116,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [deepnotes-editor](https://github.com/mukeshsoni/deepnotes-editor) - Workflowy like editor built with draft-js.
 - [Nib](https://github.com/nib-edit/nib) - Wysiwyg / Text editor components built using React and Prosemirror. ([Web](http://www.nibedit.com/index.html))
 - [React Monaco Editor](https://github.com/jaywcjlove/react-monacoeditor)
+- [rust-monaco](https://github.com/siku2/rust-monaco) - Rust WASM bindings for the Monaco Editor.
+- [codemirror-blocks](https://github.com/bootstrapworld/codemirror-blocks) - Library for building language-specific, CodeMirror-friendly editors that are a11y-friendly.
 
 ## Links
 

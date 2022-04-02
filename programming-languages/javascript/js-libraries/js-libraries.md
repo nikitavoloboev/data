@@ -95,6 +95,7 @@
 - [sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator.
 - [yargs-parser](https://github.com/yargs/yargs-parser) - Mighty option parser used by yargs.
 - [boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
+- [command-line-args](https://github.com/75lb/command-line-args) - Mature, feature-complete library to parse command-line options.
 
 ## ML
 
@@ -161,6 +162,7 @@
 - [level-web-stream](https://github.com/Level/web-stream) - Read from an abstract-level database using Web Streams.
 - [iron-store](https://github.com/vvo/iron-store) - In-memory, signed and encrypted JavaScript store.
 - [Keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
+- [Quickgres](https://github.com/kig/quickgres) - Native-JS PostgreSQL client library.
 
 ## React
 
@@ -604,7 +606,7 @@
 - [Acorn-JSX](https://github.com/acornjs/acorn-jsx) - Alternative, faster React.js JSX parser.
 - [Tempura](https://github.com/lukeed/tempura) - Light, crispy, and delicious template engine.
 - [async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe) - Async cache with dedupe support.
-- [DOM to Image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas.
+- [DOM to Image](https://github.com/1904labs/dom-to-image-more) - Generates an image from a DOM node using HTML5 canvas.
 - [Dinero.js](https://github.com/dinerojs/dinero.js) - Create, calculate, and format money safely in JavaScript and TypeScript.
 - [proxied-worker](https://github.com/WebReflection/proxied-worker) - Tiny utility to asynchronously drive a namespace exposed through a Worker.
 - [FZF for JavaScript](https://github.com/ajitid/fzf-for-js) - Do fuzzy matching using FZF algorithm in JavaScript. ([Web](https://fzf.netlify.app/))
@@ -857,6 +859,12 @@
 - [modern-async](https://github.com/nicolas-van/modern-async) - Modern JavaScript tooling library for asynchronous operations using async/await, promises and async generators.
 - [BSL](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything.
 - [flatqueue](https://github.com/mourner/flatqueue) - Very fast and simple JavaScript priority queue.
+- [Hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+- [json-tree](https://github.com/lmenezes/json-tree) - JS library that creates an HTML navigable tree from JSON object.
+- [Easy Dates](https://github.com/sandypockets/easy-dates) - Super lightweight library for working with dates.
+- [multistream](https://github.com/feross/multistream) - Stream that emits multiple other streams one after another.
+- [unified-language-server](https://github.com/unifiedjs/unified-language-server) - Create a language server based on unified ecosystems.
+- [ESQuery](https://github.com/estools/esquery) - ECMAScript AST query library.
 
 ## Links
 

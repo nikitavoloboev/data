@@ -211,3 +211,6 @@
 - [React Native Screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
 - [React Native New Architecture Sample](https://github.com/react-native-community/RNNewArchitectureApp) - Collection of sample React Native Apps that will show you how to use the New Architecture (Fabric & TurboModules) step-by-step.
 - [React Native Awesome Video Player](https://github.com/alantoa/react-native-reanimated-player) - React native video control component, built upon Reanimted v2 & react-native-gesture-handle.
+- [React Native OneSignal SDK](https://github.com/OneSignal/react-native-onesignal) - Free email, sms, push notification, and in-app message service for mobile apps. ([Expo Plugin](https://onesignal.com/blog/our-onesignal-expo-plugin-is-now-available/))
+- [React Native New Architecture Library Samples](https://github.com/cipolleschi/RNNewArchitectureLibraries) - Collection of sample React Native Libraries that will show you how to use the New Architecture (Fabric & TurboModules) step-by-step.
+- [Electrode Native](https://github.com/electrode-io/electrode-native) - Platform to ease integration&delivery of React Native apps in existing mobile applications.

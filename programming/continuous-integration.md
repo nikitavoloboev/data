@@ -1,5 +1,7 @@
 # Continuous Integration
 
+[Dagger](https://dagger.io/) seems nice.
+
 ## Notes
 
 - [Fully-automated seamless CI/CD is the goal.](https://twitter.com/fuzzychef/status/1369325657084289029)
@@ -84,3 +86,4 @@
 - [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)
 - [Lightning-fast CI with nixbuild.net (2022)](https://blog.nixbuild.net/posts/2022-03-16-lightning-fast-ci-with-nixbuild-net.html)
 - [Homu](https://github.com/rust-lang/homu) - Bot that integrates with GitHub and your favorite continuous integration service.
+- [Dagger](https://dagger.io/) - Build powerful CI/CD pipelines quickly, then run them anywhere. ([Code](https://github.com/dagger/dagger)) ([Intro](https://dagger.io/blog/public-launch-announcement)) ([HN](https://news.ycombinator.com/item?id=30857012))

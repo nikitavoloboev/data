@@ -1,6 +1,6 @@
 # React components
 
-[Ladle](https://github.com/tajo/ladle) is nice tool to develop/share react components.
+[Ladle](https://github.com/tajo/ladle) is nice tool to develop/share react components. [How to use Props in React](https://www.robinwieruch.de/react-pass-props-to-component/) is a good guide.
 
 ## Notes
 
@@ -286,6 +286,8 @@
 - [react-helmet-async](https://github.com/staylor/react-helmet-async) - Thread-safe Helmet for React 16+ and friends.
 - [compose-providers](https://github.com/SevenOutman/compose-providers) - Compose your React provider components to avoid boilerplates.
 - [GitLanding](https://github.com/thieryw/gitlanding) - Create a beautiful landing page for your GitHub projects.
+- [react-text-loop-next](https://github.com/samarmohan/react-text-loop-next) - Animate words in your headings.
+- [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 
 ## Links
 
@@ -328,3 +330,4 @@
 - [React Fast Accordion](https://github.com/ShivamJoker/React-fast-accordion) - Dynamic, fast & zero dependency accordions for React. ([Reddit](https://www.reddit.com/r/reactjs/comments/sxnuli/my_new_library_is_now_out_reactfastaccordion_zero/))
 - [LocatorJS](https://www.locatorjs.com/) - Click on any component to go to code. ([Code](https://github.com/infi-pc/locatorjs))
 - [Ladle](https://github.com/tajo/ladle) - Environment to develop, test and share your React components faster. ([Web](https://www.ladle.dev/)) ([Intro](https://www.ladle.dev/blog/introducing-ladle/))
+- [How to use Props in React (2022)](https://www.robinwieruch.de/react-pass-props-to-component/)

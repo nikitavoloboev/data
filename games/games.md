@@ -163,6 +163,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [NoPixel](https://nopixel.fandom.com/wiki/NoPixel_Community) - Grand Theft Auto V role-play server.
 - [SkyWeaver](https://www.skyweaver.net/) - Trading Card Game from Another Dimension.
 - [Tetr.io](https://tetr.io/) ([HN](https://news.ycombinator.com/item?id=29728892))
+- [Downpour](https://downpour.games/) - Game making tool for phones. ([HN](https://news.ycombinator.com/item?id=30858728)) ([Article](https://v21.io/blog/announcing-downpour))
 
 ## Recommendations
 
@@ -286,3 +287,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.
 - [Mutagen](https://github.com/Mutagen-Modding/Mutagen) - C# library for analyzing, modifying, and creating Bethesda mods.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves.
+- [Strangemood](https://www.strangemood.org/) - Decentralized marketplace for software licenses: an app store. Mostly for games. ([Code](https://github.com/strangemoodfoundation/strangemood))

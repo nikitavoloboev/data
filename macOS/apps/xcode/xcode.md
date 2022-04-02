@@ -100,3 +100,4 @@
 - [unxip](https://github.com/saagarjha/unxip) - Fast Xcode unarchiver.
 - [xcresource](https://github.com/faberNovel/xcresource-cli) - Xcode resource manager. Use it to download Xcode templates or snippets from git repositories.
 - [Build Graph for Xcode](https://apps.apple.com/az/app/build-graph-for-xcode/id1592897820) ([Article](https://habr.com/ru/company/dododev/blog/657007/))
+- [rules_xcodeproj](https://github.com/buildbuddy-io/rules_xcodeproj) - Bazel rules for generating Xcode projects.

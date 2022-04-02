@@ -172,3 +172,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Numary Ledger](https://github.com/numary/ledger) - Programmable financial ledger that provides a foundation for money-moving applications.
 - [Why Moneyball is the best movie about trading ever made](https://twitter.com/AgustinLebron3/status/1505588577446490112)
 - [Антикризисный риск-менеджмент личных финансов](https://github.com/codez0mb1e/resistance)
+- [Sage](https://github.com/JohnStarich/sage) - Download from your banks and credit cards straight to your computer.

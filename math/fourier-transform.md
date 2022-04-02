@@ -41,3 +41,4 @@
 - [Understanding Fast Fourier Transforms](https://vanhunteradams.com/FFT/FFT.html) ([HN](https://news.ycombinator.com/item?id=30391306))
 - [Discrete Fourier Transform (DFT/FFT) implementations](https://github.com/Inokinoki/ParallelFFT) - Implementations of DFT/FFT in CUDA and Apple Metal.
 - [Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html) ([Tweet](https://twitter.com/Rainmaker1973/status/1500090365587689477))
+- [NFFT.jl](https://github.com/JuliaMath/NFFT.jl) - Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).

@@ -325,7 +325,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Ethox](https://github.com/HeroicKatora/ethox) - Standalone library for user-space networking and unikernel systems with a focus on speeed and stability.
 - [Netmiko](https://github.com/ktbyers/netmiko) - Multi-vendor library to simplify Paramiko SSH connections to network devices.
 - [Gomiko](https://github.com/Ali-aqrabawi/gomiko) - Go implementation of Netmiko.
-- [hBPF](https://github.com/rprinz08/hBPF) - Extended Berkley Packet Filter (eBPF) CPU written entirely in Python3 for PC and FPGA.
+- [hBPF](https://github.com/rprinz08/hBPF) - eBPF in Hardware. ([HN](https://news.ycombinator.com/item?id=30877449))
 - [Comparing Open Source BGP Stacks (2021)](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
 - [Open IP over VHF/UHF 5 (2021)](https://www.rowetel.com/?p=7898) ([HN](https://news.ycombinator.com/item?id=29022189))
 - [Linux, Netlink, and Go - Part 1: netlink (2017)](https://mdlayher.com/blog/linux-netlink-and-go-part-1-netlink/)
@@ -444,3 +444,9 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [5G Skeptic (2022)](https://www.tbray.org/ongoing/When/202x/2022/03/26/Is-5G-BS) ([HN](https://news.ycombinator.com/item?id=30821504))
 - [Computer Networks From Scratch](https://www.networksfromscratch.com/) ([HN](https://news.ycombinator.com/item?id=30824357))
 - [Always Online: STUN servers](https://github.com/pradt2/always-online-stun) - List of publicly available STUN servers, refreshed every hour.
+- [Optimizing Magic Firewall’s IP lists (2022)](https://blog.cloudflare.com/magic-firewall-optimizing-ip-lists/)
+- [You “Own” 16 Milion+ IPv4 Addresses! (2022)](https://cj.rs/blog/tips/you-own-16-milion-ipv4-addresses/)
+- [Cloudflare RPKI Validator Tools and Libraries](https://github.com/cloudflare/cfrpki)
+- [Hexagon](https://github.com/maxall41/hexagon) - Terminal based Homelab dashboard so you can monitor all the apps you run locally and remember them.
+- [traceroute-caller](https://github.com/m-lab/traceroute-caller) - Sidecar service which runs traceroute after a connection closes.
+- [Scout](https://github.com/liamg/scout) - URL fuzzer and spider for discovering undisclosed VHOSTS, files and directories on a web server.

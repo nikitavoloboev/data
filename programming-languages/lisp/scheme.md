@@ -74,3 +74,4 @@
 - [lviv](https://github.com/kwantam/lviv) - Stack-based RPN functional programming language. Written in Scheme.
 - [Waffle](https://github.com/playXE/waffle-scheme) - Simple Scheme implementation with bytecode VM.
 - [Fiddle](https://github.com/maxsnew/modal-scheme) - Scheme-like CBPV language with Racket Interoperability.
+- [agda2scheme](https://github.com/jespercockx/agda2scheme) - Agda backend for Chez Scheme.

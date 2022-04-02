@@ -24,3 +24,4 @@
 - [p5-Svelte](https://github.com/tonyketcham/p5-svelte) - Easily add p5 sketches to a Svelte project.
 - [p5-notebook](https://github.com/jtpio/p5-notebook) - Minimal Jupyter Notebook UI for p5.js kernels.
 - [p5.capture](https://github.com/tapioca24/p5.capture) - Super easy recording for p5.js animations.
+- [p5.fab](https://github.com/machineagency/p5.fab) - P5.js library for 3D printing.

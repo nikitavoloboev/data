@@ -98,3 +98,4 @@
 - [R3F-Perf](https://github.com/utsuboco/r3f-perf) - Easily monitor your ThreeJS performances.
 - [ThreeJS GPU path tracer](https://github.com/gkjohnson/three-gpu-pathtracer) - Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.
 - [MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line.
+- [Alien.js](https://github.com/pschroen/alien.js) - MVC design pattern for building single-page applications with ES modules and three.js.

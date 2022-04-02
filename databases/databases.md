@@ -56,7 +56,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
 - [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.
 - [Sonnerie](https://github.com/njaard/sonnerie) - Simple timeseries database.
-- [Dolt](https://github.com/dolthub/dolt) - Git for Data. SQL database that you can fork, clone, branch, merge. ([HN](https://news.ycombinator.com/item?id=26370572))
+- [Dolt](https://github.com/dolthub/dolt) - Git for Data. SQL database that you can fork, clone, branch, merge. ([HN](https://news.ycombinator.com/item?id=26370572)) ([Web](https://www.dolthub.com/))
 - [Crux](https://github.com/juxt/crux) - Open source document database with bitemporal graph queries. ([Website](https://opencrux.com/)) ([Article](https://jorin.me/crux-as-general-purpose-database/)) ([HN](https://news.ycombinator.com/item?id=23493163))
 - [LokiJS](https://github.com/techfort/LokiJS) - Document oriented database written in JavaScript.
 - [terrier](https://github.com/cmu-db/terrier) - Carnegie Mellon's new database system project that is replacing [Peloton](https://github.com/cmu-db/peloton).
@@ -214,6 +214,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [LotusDB](https://github.com/flower-corp/lotusdb) - Fast k/v database compatible with LSM tree and B+ tree.
 - [CnosDB](https://github.com/cnosdb/cnosdb) - Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
 - [Nubostore](https://nubo.app/nubostore) - Data store like Firestore and Algolia all in one.
+- [Surge](https://github.com/surgedb/surge) - Fastest next-gen NoSQL db.
 
 ## Tools
 
@@ -390,7 +391,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [We deleted the production database by accident (2020)](https://keepthescore.co/blog/posts/deleting_the_production_database/) ([HN](https://news.ycombinator.com/item?id=24813795)) ([Lobsters](https://lobste.rs/s/awtxlo/we_deleted_production_database_by))
 - [Cuckoo Index](https://github.com/google/cuckoo-index) - Lightweight Secondary Index Structure.
 - [DBML](https://www.dbml.org/home/) - Database Markup Language. ([Code](https://github.com/holistics/dbml))
-- [MindsDB](https://www.mindsdb.com/) - Open-Source Predictive AI layer for existing databases. ([Docs](https://docs.mindsdb.com/)) ([Docs code](https://github.com/mindsdb/mindsdb-docs)) ([Code](https://github.com/mindsdb/mindsdb))
+- [MindsDB](https://www.mindsdb.com/) - Open-Source Predictive AI layer for existing databases. ([Docs](https://docs.mindsdb.com/)) ([Docs code](https://github.com/mindsdb/mindsdb-docs)) ([Code](https://github.com/mindsdb/mindsdb)) ([Using QuestDB as a datasource for MindsDB](https://github.com/questdb/mindsdb-tutorial))
 - [Migrating Data When You Never Erase History (2020)](https://jorin.me/migrating-data-when-you-never-erase-history/)
 - [Thesis: Partial State in Dataflow-Based Materialized Views (2020)](https://www.youtube.com/watch?v=GctxvSPIfr8)
 - [Universal Relation Data Modelling Considered Harmful (2020)](https://www.enterprisedb.com/blog/universal-relation-data-modelling-considered-harmful) ([Lobsters](https://lobste.rs/s/xaozez/thesis_partial_state_dataflow_based))
@@ -564,4 +565,6 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [IMDBench](https://github.com/edgedb/imdbench) - Benchmarking ORMs with realistic queries.
 - [Migrations Done Well: Typical Migration Approaches](https://blog.pragmaticengineer.com/typical-migration-approaches/)
 - [Database Meetup by SPLVM](https://github.com/Microsoft-Distributed-System-Meetup/database-meetup)
-- [Writing a document database from scratch in Go: Lucene-like filters and indexes (2022)](https://notes.eatonphil.com/documentdb.html) ([Lobsters](https://lobste.rs/s/9hwnup/writing_document_database_from_scratch)) ([HN](https://news.ycombinator.com/item?id=30835444))
+- [Writing a document database from scratch in Go: Lucene-like filters and indexes (2022)](https://notes.eatonphil.com/documentdb.html) ([Lobsters](https://lobste.rs/s/9hwnup/writing_document_database_from_scratch)) ([HN](https://news.ycombinator.com/item?id=30835444)) ([Code](https://github.com/eatonphil/docdb))
+- [Architecture of a Database System (2007)](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [Kerchunk](https://github.com/fsspec/kerchunk) - Cloud-friendly access to archival data.

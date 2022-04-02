@@ -198,3 +198,6 @@
 - [Browsers should build features into the browser to make JS libraries smaller or completely unnecessary](https://twitter.com/justinfagnani/status/1505331764213927936)
 - [Beam](https://www.hellobeam.com/) - New way to collect your thoughts and experience the Internet. ([Twitter](https://twitter.com/getonbeam))
 - [fibridge - Access huge files in the user's browser externally over HTTP (2019)](https://iobio.io/2019/06/12/introducing-fibridge/) ([Code](https://github.com/anderspitman/fibridge-proxy-rs))
+- [Beam](https://beamapp.co/) - New way to collect your thoughts and experience the Internet.
+- [Cache and Prizes (2022)](https://infrequently.org/2022/03/cache-and-prizes/)
+- [BroadcastChannel](https://github.com/pubkey/broadcast-channel) - Send data across multiple browser-tabs or nodejs-processes + LeaderElection over the channels.

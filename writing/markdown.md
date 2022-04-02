@@ -121,3 +121,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [embedmd](https://github.com/campoy/embedmd) - Embed code into markdown and keep everything in sync.
 - [Awesome Lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists.
 - [docsQL](https://github.com/peterbe/docsql) - Getting an overview over your Markdown file in your Jamstack site.
+- [tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter.

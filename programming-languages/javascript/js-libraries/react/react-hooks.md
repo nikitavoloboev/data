@@ -175,6 +175,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [React Tidy](https://github.com/webNeat/react-tidy) - Collection of atomic, independent, typed, tested and documented React custom hooks.
 - [use-interactions](https://github.com/kitten/use-interactions) - Reusable and common web interactions with WCAG accessibility criteria for React.
 - [y-presence](https://github.com/nimeshnayaju/y-presence) - Easy way to add presence (live cursors/avatars) to any react application using react hooks.
+- [form-builder](https://github.com/zero-one-group/form-builder) - Lightweight react hook library to simplify approach in building formik form.
 
 ## Code
 
@@ -257,3 +258,4 @@ useEffect(() => {
 - [Micro State Management with React Hooks (2022)](https://www.packtpub.com/product/micro-state-management-with-react-hooks/9781801812375) ([Code](https://github.com/PacktPublishing/Micro-State-Management-with-React-Hooks))
 - [Hooks Considered Harmful (2022)](https://labs.factorialhr.com/posts/hooks-considered-harmful) ([HN](https://news.ycombinator.com/item?id=30753127))
 - [Effective React Query Keys (2021)](https://tkdodo.eu/blog/effective-react-query-keys)
+- [SWR with Axios](https://github.com/s1gr1d/example.react-swr-axios) - Simple, scalable example for using SWR with Axios in your React application.

@@ -22,7 +22,7 @@
 - [Tink](https://github.com/google/tink) - Multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [Ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust.
 - [dalek cryptography](https://github.com/dalek-cryptography) - Fast, safe, pure-rust elliptic curve cryptography.
-- [Trillian](https://github.com/google/trillian) - Transparent, highly scalable and cryptographically verifiable data store.
+- [Trillian](https://github.com/google/trillian) - Transparent, highly scalable and cryptographically verifiable data store. ([Examples](https://github.com/google/trillian-examples))
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
 - [Elliptic Curve Cryptography Explained (2019)](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/) ([HN](https://news.ycombinator.com/item?id=27301651))
 - [The Latest Developments in Cryptography Webinar](https://www.youtube.com/watch?v=eQdkZRLD09M)

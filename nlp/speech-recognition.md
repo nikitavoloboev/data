@@ -113,3 +113,4 @@
 - [rVADfast](https://github.com/zhenghuatan/rVADfast) - Python library for an unsupervised, fast method for robust voice activity detection.
 - [NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - Research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc.
 - [Speech Super-resolution Evaluation and Benchmarking](https://github.com/haoheliu/ssr_eval)
+- [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/) ([HN](https://news.ycombinator.com/item?id=30850596))

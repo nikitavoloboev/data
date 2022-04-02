@@ -332,3 +332,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Ask HN: Are you using actors in production? Why/Why not? (2022)](https://news.ycombinator.com/item?id=30745047)
 - [A Typed Programming Language: The Semantics of Rank Polymorphism (2020)](https://ccs.neu.edu/~jrslepak/Dissertation.pdf)
 - [OneLinerHub](https://onelinerhub.com/) - Open source code library. ([Code](https://github.com/Onelinerhub/onelinerhub))
+- [Uniform Structured Syntax, Metaprogramming and Run-time Compilation](https://m00natic.github.io/lisp/manual-jit.html)
+- [Most interesting languages to learn (from)? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tsqamc/most_interesting_languages_to_learn_from/)

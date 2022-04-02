@@ -291,3 +291,4 @@
 - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature) ([HN](https://news.ycombinator.com/item?id=30666352))
 - [Nonlinear Dynamics: Concise Introduction Interlaced with Code (2022)](https://link.springer.com/book/10.1007/978-3-030-91032-7) ([Code](https://github.com/JuliaDynamics/NonlinearDynamicsTextbook))
 - [Misconceptions that are common among physics students (2022)](https://www.reddit.com/r/AskPhysics/comments/tmm1xz/what_are_some_misconceptions_that_are_common/)
+- [ELI5: Why is a Planck’s length the smallest possible distance?](https://www.reddit.com/r/explainlikeimfive/comments/tsompf/eli5_why_is_a_plancks_length_the_smallest/)
