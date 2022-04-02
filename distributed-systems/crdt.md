@@ -19,7 +19,7 @@
 - [CRDTs wiki](https://crdt.tech/) ([Code](https://github.com/ept/crdt-website))
 - [Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 - [Local-first packages & explorations](https://github.com/jaredly/local-first)
-- [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. ([Tweet](https://twitter.com/steveruizok/status/1421865156724805639)) ([HN](https://news.ycombinator.com/item?id=30412550))
+- [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically. ([Tweet](https://twitter.com/steveruizok/status/1421865156724805639)) ([HN](https://news.ycombinator.com/item?id=30412550)) ([Docs](https://automerge.org/docs/hello/)) ([HN](https://news.ycombinator.com/item?id=30881016))
 - [Automergeable](https://github.com/jeffa5/automergeable)
 - [Automerge in Rust](https://github.com/alexjg/automerge-rs)
 - [Automerge persistent](https://github.com/jeffa5/automerge-persistent)

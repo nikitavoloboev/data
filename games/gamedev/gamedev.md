@@ -243,3 +243,5 @@
 - [IndieGameDev](https://indiegamedev.net/) - Solo, Hobby, and Indie Developers.
 - [LDtk](https://ldtk.io/) - 2D level editor. ([LDtk Rust Library](https://github.com/estivate/ldtk_rust))
 - [Eldiron](https://github.com/markusmoenig/Eldiron) - Cross platform classic RPG game creator written in Rust. ([Web](https://eldiron.com/))
+- [Learn 3D Computer Graphics Programming from scratch](https://pikuma.com/courses/learn-3d-computer-graphics-programming)
+- [Creating a Game Physics Engine with C++](https://pikuma.com/courses/game-physics-engine-programming)

@@ -326,3 +326,4 @@
 - [Dockerized build environments for C/C++ projects (2022)](https://www.youtube.com/watch?v=B0DptqheF5I)
 - [Automatic Serialization in C++ for Game Engines (2022)](https://indiegamedev.net/2022/03/28/automatic-serialization-in-cpp-for-game-engines/) ([Reddit](https://www.reddit.com/r/cpp/comments/tqm818/automatic_serialization_in_c_for_game_engines/))
 - [Cling](https://github.com/vgvassilev/cling) - Interactive C++ interpreter.
+- [Lifetime annotations for C++ (2022)](https://discourse.llvm.org/t/rfc-lifetime-annotations-for-c/61377)
