@@ -49,3 +49,5 @@
 - [eslint_d](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet.
 - [eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Additional ESLint rules for ESLint directive comments.
 - [eslint-config-typed-fp](https://github.com/danielnixon/eslint-config-typed-fp) - Opinionated ESLint config to encourage pure(ish), typeful functional programming in TypeScript.
+- [ESLint Interactive](https://github.com/mizdra/eslint-interactive) - CLI tool to fix huge number of ESLint errors.
+- [Anthony Fu's Eslint config](https://github.com/antfu/eslint-config)

@@ -531,6 +531,8 @@
 - [SMTPClient](https://github.com/aviks/SMTPClient.jl) - Send emails from Julia.
 - [MarketTechnicals.jl](https://github.com/JuliaQuant/MarketTechnicals.jl) - Technical analysis of financial time series in Julia.
 - [AeroMDAO](https://github.com/GodotMisogi/AeroMDAO.jl) - Toolbox meant for aircraft design analyses.
+- [Julia Buildkite](https://github.com/JuliaCI/julia-buildkite) - Buildkite configuration files for Base Julia CI.
+- [PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - Wrapper for the Julia programming language, compatible with the JuliaAudio family of packages.
 
 ## Links
 

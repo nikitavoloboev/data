@@ -454,3 +454,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Plaintext Productivity](https://plaintext-productivity.net/) ([HN](https://news.ycombinator.com/item?id=30745524))
 - [Programmable Notes](https://maggieappleton.com/programmatic-notes) ([HN](https://news.ycombinator.com/item?id=30814964))
 - [zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line.
+- [xit](https://xit.jotaen.net/) - Plain-text file format for todos and check lists. ([Spec](https://github.com/jotaen/xit)) ([HN](https://news.ycombinator.com/item?id=30879327))

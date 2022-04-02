@@ -244,6 +244,7 @@
 - [SPPageController](https://github.com/ivanvorobei/SPPageController) - Mimicrate to UIPageViewController. Has native system and scroll view paging. Support scroll to page and layout margins from container.
 - [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.
 - [ZLImageEditor](https://github.com/longitachi/ZLImageEditor) - Powerful image editor framework. Supports graffiti, cropping, mosaic, text stickers, image stickers, filters.
+- [TouchInspector](https://github.com/jtrivedi/TouchInspector) - Drop-in package that helps you visualize and debug touches on iOS and iPadOS.
 
 ## macOS
 

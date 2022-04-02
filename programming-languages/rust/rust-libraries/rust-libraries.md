@@ -1666,6 +1666,7 @@
 - [voprf](https://github.com/novifinancial/voprf) - Implementation of a verifiable oblivious pseudorandom function.
 - [serde-big-array](https://github.com/est31/serde-big-array) - Big array helper for serde.
 - [Prop](https://github.com/advancedresearch/prop) - Propositional logic with types in Rust.
+- [ispc-rs](https://github.com/Twinklebear/ispc-rs) - Rust library for build scripts to compile ISPC code into a Rust library.
 
 ## Cargo Plugins
 

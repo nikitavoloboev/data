@@ -89,3 +89,4 @@
 - [Team Library Component Browser](https://www.figma.com/community/plugin/813970431341620710/Team-Library-Component-Browser) - List, browse, and create instance your team library (and local) components. ([Code](https://github.com/ryonakae/figma-plugin-team-library-component-browser))
 - [Figma Plugin Helper functions](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - Collection of useful helper functions to import to your Figma plugin project.
 - [Storybook Figma Plugin](https://storybook.js.org/blog/figma-plugin-beta/) - Connect stories to design components.
+- [FireJet](https://www.firejet.io/) - Export Figma to Typescript Code (React).

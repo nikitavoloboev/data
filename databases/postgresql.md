@@ -458,3 +458,4 @@
 - [Postgres Container Apps (beta)](https://blog.crunchydata.com/blog/announcing-postgres-container-apps-easy-deploy-postgres-apps) ([HN](https://news.ycombinator.com/item?id=30867644))
 - [pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremnetal View Maintenance) implementation as a PostgreSQL extension.
 - [PostgreSQL Database Management System](https://github.com/sraoss/pgsql-ivm)
+- [Postgres connection pooler](https://github.com/coder543/roundabout) - Alternative to PgBouncer.

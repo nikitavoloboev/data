@@ -217,3 +217,4 @@
 - [Docker optimization guide: 8 tricks to optimize your Docker image size (2022)](https://www.augmentedmind.de/2022/02/06/optimize-docker-image-size/)
 - [Good Karma Kit](https://github.com/ArchiveBox/good-karma-kit) - Docker Compose bundle to run on servers with spare CPU, RAM, disk, and bandwidth to help the world. Includes Tor, ArchiveWarrior, BOINC, and more. ([HN](https://news.ycombinator.com/item?id=30830808))
 - [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Allows using docker containers for functional and integration testing.
+- [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services.

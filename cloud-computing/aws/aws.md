@@ -317,3 +317,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Stacktape](https://stacktape.com/) - DevOps-free application development. ([Code](https://github.com/stacktape/stacktape))
 - [ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability.
 - [AWS Encryption SDK for JavaScript](https://github.com/aws/aws-encryption-sdk-javascript)
+- [Typescript 2 ASL Transpiler](https://github.com/OlafConijn/ts2asl)

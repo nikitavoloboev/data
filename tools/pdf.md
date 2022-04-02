@@ -50,3 +50,4 @@
 - [react-pdf-highlighter](https://github.com/agentcooper/react-pdf-highlighter) - React library that provides annotation experience for PDF documents on web.
 - [WASM-PDF](https://github.com/jussiniinikoski/wasm-pdf) - Generate PDF files with JavaScript and WASM.
 - [PDFIO](https://github.com/sambitdash/PDFIO.jl) - PDF Reader Library for Native Julia.
+- [gopdf](https://github.com/signintech/gopdf) - Simple library for generating PDF written in Go.

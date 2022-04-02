@@ -216,3 +216,4 @@
 - [BoxyHQ](https://boxyhq.com/) - Open-source alternative to Auth0/WorkOS. ([HN](https://news.ycombinator.com/item?id=30767084))
 - [Authlib](https://github.com/lepture/authlib) - Ultimate Python library in building OAuth and OpenID Connect servers. ([Web](https://authlib.org/))
 - [Simplest possible OAuth authentication with Auth0 (2022)](https://til.simonwillison.net/auth0/oauth-with-auth0)
+- [SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node. ([Docs](https://simplewebauthn.dev/docs/))

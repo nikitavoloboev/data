@@ -288,6 +288,7 @@
 - [GitLanding](https://github.com/thieryw/gitlanding) - Create a beautiful landing page for your GitHub projects.
 - [react-text-loop-next](https://github.com/samarmohan/react-text-loop-next) - Animate words in your headings.
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS.
+- [Formspree React](https://github.com/formspree/formspree-react) - React component library for Formspree.
 
 ## Links
 

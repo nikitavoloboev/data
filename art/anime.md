@@ -33,3 +33,4 @@
 - [Real Cascade U-Nets for Anime Image Super Resolution](https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md)
 - [Anime Photography in the Cel Era (2020)](https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography) ([HN](https://news.ycombinator.com/item?id=30403219))
 - [Azuki](https://www.azuki.co/) - All-you-can-read manga subscription. ([HN](https://news.ycombinator.com/item?id=30804169))
+- [KCC](https://github.com/ciromattia/kcc) - Comic and manga converter for ebook readers.

@@ -75,3 +75,4 @@
 - [Socklab](https://github.com/drakkar-lig/socklab) - Interactive tool to learn about the socket API for UDP and TCP, without having to actually write C code.
 - [Benchmark TCP bandwidth and latency with Rust](https://github.com/LorenzoMartini/rust-tcp-io-perf)
 - [TCP Checker](https://github.com/tevino/tcp-shaker) - Performing TCP handshake without ACK in Go, useful for health checking, that is SYN, SYN-ACK, RST.
+- [pync](https://github.com/brenw0rth/pync) - Arbitrary TCP and UDP connections and listens (Netcat for Python).
