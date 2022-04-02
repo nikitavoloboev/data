@@ -421,6 +421,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Functionless](https://github.com/sam-goodwin/functionless) - TypeScript plugin that transforms TypeScript code into Service-to-Service (aka. "functionless") integrations.
 - [get-tsconfig](https://github.com/privatenumber/get-tsconfig) - Find and parse the tsconfig.json file from a directory path.
 - [user-flow](https://github.com/push-based/user-flow) - CLI to write and run user-flows in typesript without boilerplate.
+- [ts-bus](https://github.com/ryardley/ts-bus) - Lightweight JavaScript/TypeScript event bus to help manage your application architecture.
 
 ## Links
 
