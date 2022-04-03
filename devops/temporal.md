@@ -21,3 +21,4 @@
 - [Temporal raises $103M in Series B funding (2022)](https://docs.temporal.io/blog/series-b-announcement-open-letter/) ([HN](https://news.ycombinator.com/item?id=30365301))
 - [Maxim and Samar on Gremlin's Build Things Podcast (2021)](https://docs.temporal.io/blog/gremlin-podcast/)
 - [Temporal Server docker-compose files](https://github.com/temporalio/docker-compose) - Docker-compose files that enable you to run a local instance of the Temporal Server.
+- [Temporal TS Samples](https://github.com/temporalio/samples-typescript)

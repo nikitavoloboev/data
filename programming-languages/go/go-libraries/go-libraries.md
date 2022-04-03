@@ -1497,6 +1497,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Koazee](https://github.com/wesovilabs/koazee) - StreamLike, Immutable, Lazy Loading and smart Go Library to deal with slices.
 - [Gcfg](https://github.com/go-gcfg/gcfg) - Read INI-style configuration files into Go structs; supports user-defined types and subsections.
 - [radar](https://github.com/thedevsaddam/radar) - Help to debug nested function call and Trace current file/line.
+- [Sture](https://github.com/HotPotatoC/sture) - Collection of data structures based on Go 1.18+ Generics (Stack, Queue, Linked List, etc.).
 
 ## Links
 

@@ -273,6 +273,7 @@
 - [sparkle](https://github.com/tweag/sparkle) - Apache Spark applications in Haskell.
 - [eliminators](https://github.com/RyanGlScott/eliminators) - Dependently typed elimination functions using singletons.
 - [typed-process](https://github.com/fpco/typed-process) - Alternative API for processes, featuring more type safety.
+- [text](https://github.com/haskell/text) - Library for space- and time-efficient operations over Unicode text.
 
 ## Notes
 
