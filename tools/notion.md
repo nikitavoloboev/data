@@ -100,3 +100,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Exporter](https://github.com/yannbolliger/notion-exporter) - CLI tool and TypeScript library for exporting Markdown and CSV files from any Notion.so page.
 - [Next.js example blog powered by Notion Public API](https://github.com/samuelkraft/notion-blog-nextjs)
 - [Eleventy Notion Starter](https://github.com/thiagomgd/eleventy_notion_starter)
+- [tonari's Notion-backed blog](https://github.com/tonarino/blog)

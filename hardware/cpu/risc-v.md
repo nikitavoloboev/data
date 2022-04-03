@@ -158,3 +158,4 @@
 - [Cross-Compiling Rust for RISC-V (2022)](https://danielmangum.com/posts/risc-v-bytes-rust-cross-compilation/) ([HN](https://news.ycombinator.com/item?id=30754080))
 - [Coffer](https://github.com/jwnhy/coffer) - RISC-V Trusted Execution Environment.
 - [VRoom](https://moonbaseotago.github.io/about/) - High end RISC-V implementation. ([HN](https://news.ycombinator.com/item?id=30755716)) ([Code](https://github.com/MoonbaseOtago/vroom))
+- [NaxRiscv](https://github.com/SpinalHDL/NaxRiscv) - RISC-V core.
