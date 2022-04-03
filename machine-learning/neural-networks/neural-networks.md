@@ -284,3 +284,4 @@
 - [Neural Networks are not the only universal approximators, so why are they so uniquely effective? (2022)](https://www.reddit.com/r/MachineLearning/comments/tqjd3w/d_neural_networks_are_not_the_only_universal/)
 - [Awesome Spiking Neural Networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks)
 - [Transformers for software engineers (2022)](https://blog.nelhage.com/post/transformers-for-software-engineers/) ([HN](https://news.ycombinator.com/item?id=30883636))
+- [Exploring Neural Networks Visually in the Browser (2022)](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/)

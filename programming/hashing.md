@@ -63,3 +63,4 @@
 - [multihash](https://github.com/multiformats/multihash) - Protocol for differentiating outputs from various well-established cryptographic hash functions, addressing size + encoding considerations.
 - [SHA-256 explained step-by-step visually](https://sha256algorithm.com/) ([Code](https://github.com/dmarman/sha256algorithm)) ([HN](https://news.ycombinator.com/item?id=30244534))
 - [ImageHash](https://github.com/JohannesBuchner/imagehash) - Python Perceptual Image Hashing Module. Image hashes tell whether two images look nearly identical.
+- [UMASH](https://github.com/backtrace-labs/umash) - Fast almost universal 64-bit string hash.

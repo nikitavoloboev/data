@@ -1096,3 +1096,4 @@
 - [A DSL for state machines in Swift (2021)](https://twittemb.github.io/posts/2021-02-13-StateMachineDSL/)
 - [OSLog and Unified logging as recommended by Apple (2020)](https://www.avanderlee.com/debugging/oslog-unified-logging/)
 - [Exploring MusicKit (2022)](https://rudrank.gumroad.com/l/musickit/early)
+- [Layout Framework Benchmark](https://github.com/layoutBox/LayoutFrameworkBenchmark) - Benchmark the performances of various Swift layout frameworks (autolayout, UIStackView, PinLayout, LayoutKit, FlexLayout, Yoga, ...).

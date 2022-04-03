@@ -96,6 +96,7 @@
 - [yargs-parser](https://github.com/yargs/yargs-parser) - Mighty option parser used by yargs.
 - [boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
 - [command-line-args](https://github.com/75lb/command-line-args) - Mature, feature-complete library to parse command-line options.
+- [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 
 ## ML
 
@@ -865,6 +866,8 @@
 - [multistream](https://github.com/feross/multistream) - Stream that emits multiple other streams one after another.
 - [unified-language-server](https://github.com/unifiedjs/unified-language-server) - Create a language server based on unified ecosystems.
 - [ESQuery](https://github.com/estools/esquery) - ECMAScript AST query library.
+- [Prexit](https://github.com/porsager/prexit) - Graceful way to shutdown / handle process exit.
+- [Codsen JS packages](https://github.com/codsen/codsen)
 
 ## Links
 

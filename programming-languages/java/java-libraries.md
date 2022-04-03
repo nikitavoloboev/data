@@ -46,6 +46,7 @@
 - [Jodd](https://github.com/oblac/jodd) - Set of micro-frameworks and developer-friendly tools and utilities. ([Web](https://jodd.org/)) ([HN](https://news.ycombinator.com/item?id=29971182))
 - [LZ4 Java](https://github.com/lz4/lz4-java) - LZ4 compression for Java.
 - [ta4j](https://github.com/ta4j/ta4j) - Java library for technical analysis. ([HN](https://news.ycombinator.com/item?id=30408321))
+- [LMAX Disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library.
 
 ## Links
 

@@ -22,6 +22,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Cuery](https://github.com/Schniz/cuery) - Composable SQL query builder using template literals.
 - [pg-to-ts](https://github.com/danvk/pg-to-ts) - Generate TypeScript interface definitions from your Postgres schema.
 - [gokv](https://github.com/esm-dev/gokv) - Global Key-Value store for serverless at edge that is built on top of Cloudflare edge network. Druable, low-latency, and easy to use.
+- [postgres-schema-ts](https://github.com/nettofarah/postgres-schema-ts) - Convert Postgres schemas into TypeScript interfaces.
 
 ## Web
 

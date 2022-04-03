@@ -568,3 +568,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [alloys](https://github.com/abigger87/alloys) - Modularized, Cross-Domain Fungible ERC721 Kinks.
 - [metamask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets.
 - [Book about Ethereum](https://eth2.incessant.ink/book/00__introduction/00__foreword.html) ([Code](https://github.com/smartcontracts/eth2-book))
+- [Hypernet Protocol](https://github.com/GoHypernet/hypernet-protocol) - Instantly finalized, blockchain-based payments with a privacy-preserving, sybil-resistant, "non-fungible" identity registry framework.
