@@ -286,3 +286,5 @@
 - [WebAssembly in my browser desktop environment (2022)](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc) ([HN](https://news.ycombinator.com/item?id=30827497))
 - [Spin](https://github.com/fermyon/spin) - Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly. ([Docs](https://spin.fermyon.dev/)) ([Intro](https://www.fermyon.com/blog/introducing-spin)) ([HN](https://news.ycombinator.com/item?id=30875310))
 - [Wala](https://github.com/CalmSystem/wala) - Language trying to simplify WebAssembly Text syntax while keeping the full expressiveness and retro-compatibility.
+- [WASI Experimental Toolkit](https://github.com/fermyon/wasi-experimental-toolkit) - Experimental interfaces for commonly used WebAssembly functionality.
+- [Fermyon Technologies](https://www.fermyon.com/) - Building open source, WebAssembly-powered cloud tools.

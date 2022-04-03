@@ -868,6 +868,7 @@
 - [ESQuery](https://github.com/estools/esquery) - ECMAScript AST query library.
 - [Prexit](https://github.com/porsager/prexit) - Graceful way to shutdown / handle process exit.
 - [Codsen JS packages](https://github.com/codsen/codsen)
+- [Word Cloud Layout](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 
 ## Links
 

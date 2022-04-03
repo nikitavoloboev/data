@@ -7,3 +7,4 @@
 - [Scaling product analytics built on ClickHouse](https://posthog.com/blog/secrets-of-posthog-query-performance) ([HN](https://news.ycombinator.com/item?id=30766563))
 - [ClickHouse Go](https://github.com/uptrace/go-clickhouse)
 - [ClickHouse Backup](https://github.com/AlexAkulov/clickhouse-backup) - Tool for easy ClickHouse backup and restore with cloud storages support.
+- [ClickHouse Docs](https://clickhouse.com/docs/en/) ([Code](https://github.com/ClickHouse/clickhouse-docs))

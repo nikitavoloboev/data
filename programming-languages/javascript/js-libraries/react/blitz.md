@@ -24,3 +24,4 @@
 - [The application stack: Blitz (2021)](https://blog.placemark.io/2021/05/10/blitz.html)
 - [Building an Absence Tracker with Blitz JS and Chakra UI (2020)](https://www.youtube.com/watch?v=bJmFwle8Ax0)
 - [1UpBlitz](https://www.1upblitz.com/) - SaaS starter for Blitz.js.
+- [Future of Blitz (2022)](https://blitzjs.com/docs/blitz-pivot)

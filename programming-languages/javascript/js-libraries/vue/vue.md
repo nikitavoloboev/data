@@ -130,3 +130,5 @@
 - [Easily integrate Firebase into your Nuxt project](https://github.com/nuxt-community/firebase-module)
 - [nuxt-feed-module](https://github.com/maciejpedzich/nuxt-feed-module) - Nuxt 3 compatible module for generating RSS feeds.
 - [Vue Composable Starter](https://github.com/Tahul/vue-composable-starter) - Minimalist starting point for your next Vue 3 composable.
+- [Blitzar](https://github.com/CyCraft/blitzar) - Generate Vue Forms and Data-tables fast with a simple JSON-like syntax.
+- [Magnetar](https://github.com/CyCraft/magnetar) - Framework-agnostic syncing solution that auto-connects any DB/API with your local data store and has optimistic-UI built in.

@@ -46,3 +46,4 @@
 - [Help Censored Users – Run a Tor Bridge (2022)](https://blog.torproject.org/run-a-bridge-campaign/) ([HN](https://news.ycombinator.com/item?id=30566093))
 - [Shrek](https://github.com/innix/shrek) - Vanity .onion address generator written in Go.
 - [ExitGather](https://github.com/uforia/exitgather) - Python script to generate a list of IP addresses being used as TOR and VPN exit nodes.
+- [Tor Relay Availability Checker](https://github.com/ValdikSS/tor-relay-scanner) - For using it as a bridge in countries with censorship.

@@ -201,3 +201,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Secret Garden](https://secretgarden.fm/)
 - [Raudio](https://raudio-project.github.io/) - Open platform for hosting and streaming music. ([Code](https://github.com/raudio-project/raudio-server)) ([Lobsters](https://lobste.rs/s/bm9rxh/announcing_raudio_platform_for_hosting))
 - [Horrible edge cases when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html) ([HN](https://news.ycombinator.com/item?id=30892811))
+- [Shelf](https://shelf.barrowclift.me/) - Beautifully display your record collection on the Internet. ([Code](https://github.com/barrowclift/shelf))

@@ -500,3 +500,5 @@
 - [kconfig-hardened-check](https://github.com/a13xp0p0v/kconfig-hardened-check) - Tool for checking the security hardening options of the Linux kernel.
 - [eBPF Instruction Sets (2021)](https://pchaigno.github.io/bpf/2021/10/20/ebpf-instruction-sets.html)
 - [Fox Ear](https://github.com/KernelErr/foxear) - Linux process behavior trace tool powered by eBPF.
+- [MyLFS](https://github.com/krglaws/MyLFS) - Bash script to build my own Linux distro based on LFS + BLFS. ([Reddit](https://www.reddit.com/r/linux/comments/tuq1p3/i_made_this_bash_script_to_build_linux_from/))
+- [Automated Linux From Scratch](https://www.linuxfromscratch.org/alfs/)

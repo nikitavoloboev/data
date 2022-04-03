@@ -1045,6 +1045,7 @@
 - [Swift Async Algorithms](https://github.com/apple/swift-async-algorithms) ([Intro](https://www.swift.org/blog/swift-async-algorithms/))
 - [Bagbutik](https://github.com/MortenGregersen/Bagbutik) - Generated Swift code for the App Store Connect API based on the official OpenAPI spec.
 - [Expression](https://github.com/nicklockwood/Expression) - Cross-platform Swift library for evaluating mathematical expressions at runtime.
+- [Flow](https://github.com/danielctull-playground/Flow) - Type built on Swift concurrency which can be chained like AsyncSequence or a Combine Publisher with the guarantee that only one value will come through the chain.
 
 ## Other (not lib)
 

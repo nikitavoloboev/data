@@ -14,3 +14,5 @@
 - [EdgeDB RFCs](https://github.com/edgedb/rfcs)
 - [EdgeDB Go](https://github.com/edgedb/edgedb-go)
 - [EdgeDB Python](https://github.com/edgedb/edgedb-python)
+- [The architecture of EdgeDB — Fantix King (2022)](https://www.youtube.com/watch?v=vSXrB0TmUkE)
+- [A farewell to ORMs — Colin McDonnell | EdgeDB Day (2022)](https://www.youtube.com/watch?v=6LqbBF0KAXE)

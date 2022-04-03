@@ -36,3 +36,6 @@
 - [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters.
 - [Cloudblock](https://github.com/chadgeary/cloudblock) - End-to-end DNS encryption with DNS-based ad-blocking, built in the cloud automatically using Terraform with Ansible.
 - [Mullvad DNS Ad Block](https://github.com/mullvad/dns-adblock) - Ad-blocking, tracker blocking, and custom rules for our DNS ad-blocking service.
+- [AntiRTDPI](https://github.com/dzhidzhoev/AntiRTDPI) - MacOS kernel extension helping to neutralise Rostelecom's passive DPI.
+- [Zapret](https://github.com/bol-van/zapret) - Обход DPI в Linux.
+- [python-adblock](https://github.com/ArniDagur/python-adblock) - Python wrapper for Brave's adblocking library, which is written in Rust.

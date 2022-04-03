@@ -550,3 +550,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [How the Rus became the Russians, slavic history explained](https://www.youtube.com/watch?v=U_2h16AYMMQ)
 - [ЛЮДИ / НЕ ЛЮДИ](https://human-nonhuman.info/) - Знаменитости о войне в Украине.
 - [«Главный вопрос нашего поколения — не только о том, как нам оставаться достойными людьми при фашизме. Это вопрос, как нам объединяться» (2022)](https://meduza.io/feature/2022/04/01/glavnyy-vopros-nashego-pokoleniya-ne-tolko-o-tom-kak-nam-ostavatsya-dostoynymi-lyudmi-pri-fashizme-eto-vopros-kak-nam-ob-edinyatsya)
+- [“Russia cannot afford to lose, so we need a kind of a victory”: Sergey Karaganov on what Putin wants (2022)](https://www.newstatesman.com/world/europe/ukraine/2022/04/russia-cannot-afford-to-lose-so-we-need-a-kind-of-a-victory-sergey-karaganov-on-what-putin-wants) ([Tweet](https://twitter.com/nfergus/status/1510239889480069121))

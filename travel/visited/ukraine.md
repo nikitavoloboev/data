@@ -122,4 +122,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Volodymyr Zelensky on why Ukraine must defeat Putin (2022)](https://www.economist.com/europe/2022/03/27/volodymyr-zelensky-in-his-own-words) ([Web](https://www.economist.com/europe/volodymyr-zelensky-on-why-ukraine-must-defeat-putin/21808448)) ([Tweet](https://twitter.com/ukraine_world/status/1508339304090718217))
 - [How Putin managed to derussify East Ukraine in just 8 years](https://twitter.com/kamilkazani/status/1504103672019513345)
 - [Напрямок](https://napryamok.org/ru) - Помощь людям во время войны.
-- [Mass executions of civilians in Ukraine (2022)](https://www.reddit.com/r/neoliberal/comments/tuu0aj/mass_executions_of_civilians_in_ukraine/)
+- [Mass executions of civilians in Ukraine (2022)](https://www.reddit.com/r/neoliberal/comments/tuu0aj/mass_executions_of_civilians_in_ukraine/) ([Reddit](https://www.reddit.com/r/worldnews/comments/tv0emr/rworldnews_live_thread_russian_invasion_of/?sort=top))

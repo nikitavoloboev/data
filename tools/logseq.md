@@ -8,3 +8,5 @@
 - [Logseq Marketplace packages](https://github.com/logseq/marketplace) - Packages manager for Logseq marketplace plugins.
 - [SmartBlocks for Logseq](https://github.com/sawhney17/logseq-smartblocks)
 - [Logseq Interstitial journaling](https://github.com/QWxleA/logseq-interstitial-heading-plugin) - Insert an interstitial heading in your daily note.
+- [Logseq Twitter Extractor Plugin](https://github.com/sawhney17/logseq-twitter-extractor) - Logseq plugin to extract tweets. Optionally tag the tweet's author as well.
+- [Logseq Github Plugin](https://github.com/sawhney17/logseq-github-plugin) - Plugin to fetch stuff from github like active issues etc.

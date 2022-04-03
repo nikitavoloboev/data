@@ -247,3 +247,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [My macOS keyboard shortcuts (2022)](https://www.jamieonkeys.dev/posts/keyboard-shortcuts/) ([HN](https://news.ycombinator.com/item?id=30876934))
 - [Asahi Linux installer](https://github.com/AsahiLinux/asahi-installer)
 - [Infinite Mac](https://system7.app/)
+- [Mac pfctl Port Forwarding](https://salferrarello.com/mac-pfctl-port-forwarding/)

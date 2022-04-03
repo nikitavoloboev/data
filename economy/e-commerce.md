@@ -144,3 +144,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Shopify’s Evolution (2022)](https://stratechery.com/2022/shopifys-evolution/)
 - [Gorgias](https://www.gorgias.com/) - Customer Service Made Easy for Online Stores. ([Twitter](https://twitter.com/gorgiasio))
 - [Karrio](https://www.karrio.io/) - Open Source, On-prem or Private cloud Shipping API. ([Code](https://github.com/karrioapi/karrio))
+- [Fairify](https://www.fairify.io/) - Sustainable shopping made easy.

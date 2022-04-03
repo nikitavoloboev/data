@@ -121,3 +121,4 @@
 - [Icons in Pure CSS (2021)](https://antfu.me/posts/icons-in-pure-css)
 - [SPSettingsIcons](https://github.com/sparrowcode/SPSettingsIcons) - Generate settings icons by Apple's SF Symbols.
 - [Unicons](https://iconscout.com/unicons) - 4500+ Free Vector Icons. ([Code](https://github.com/Iconscout/unicons))
+- [Pepicons](https://pepicons.com/) - Icon-set of over one hundred retro icons inspired by the 80's. ([Code](https://github.com/CyCraft/pepicons))

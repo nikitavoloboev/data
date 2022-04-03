@@ -424,6 +424,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [get-tsconfig](https://github.com/privatenumber/get-tsconfig) - Find and parse the tsconfig.json file from a directory path.
 - [user-flow](https://github.com/push-based/user-flow) - CLI to write and run user-flows in typesript without boilerplate.
 - [ts-bus](https://github.com/ryardley/ts-bus) - Lightweight JavaScript/TypeScript event bus to help manage your application architecture.
+- [transformer-open-graph](https://github.com/donavon/transformer-open-graph) - Extracts Open Graph metadata from a URL and create an HTML preview.
+- [Merge anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. Fully TypeScript supported.
+- [is What?](https://github.com/mesqueeb/is-what) - Simple & small JS type check functions. It's fully TypeScript supported.
+- [Case anything](https://github.com/mesqueeb/case-anything) - 14 case changing functions.
 
 ## Links
 

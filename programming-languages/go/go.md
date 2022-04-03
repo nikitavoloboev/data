@@ -747,3 +747,5 @@ if err != nil {
 - [Generics Can Be Fast (If They’re Value Types) (2022)](https://www.dolthub.com/blog/2022-04-01-fast-generics/) ([Reddit](https://www.reddit.com/r/golang/comments/tu264v/generics_can_make_your_go_code_faster/))
 - [How Go Mitigates Supply Chain Attacks (2022)](https://go.dev/blog/supply-chain) ([Lobsters](https://lobste.rs/s/ipzpte/how_go_mitigates_supply_chain_attacks)) ([HN](https://news.ycombinator.com/item?id=30869261))
 - [Faster sorting with Go generics (2022)](https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/) ([HN](https://news.ycombinator.com/item?id=30888125))
+- [Rethinking Visual Programming with Go (2022)](https://divan.dev/posts/visual_programming_go/)
+- [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns.

@@ -191,3 +191,4 @@
 - [Neural Neighbor Style Transfer](https://github.com/nkolkin13/NeuralNeighborStyleTransfer)
 - [CLIPstyler: Image Style Transfer with a Single Text Condition (2021)](https://arxiv.org/abs/2112.00374) ([Code](https://github.com/cyclomon/CLIPstyler))
 - [AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation](https://github.com/Ha0Tang/AttentionGAN)
+- [DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis (2019)](https://arxiv.org/abs/1904.01310) ([Code](https://github.com/MinfengZhu/DM-GAN))

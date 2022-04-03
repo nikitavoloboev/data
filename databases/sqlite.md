@@ -2,7 +2,7 @@
 
 [Litestream](https://github.com/benbjohnson/litestream) & [Postlite](https://github.com/benbjohnson/postlite) are neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite. [SQLite](https://github.com/stainless-steel/sqlite), [Rusqlite](https://github.com/rusqlite/rusqlite), [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) are great SQLite libs for Rust. [sqlc](https://github.com/kyleconroy/sqlc) is nice for Go.
 
-I currently start all my projects with SQLite DB if I need any kind of persistence. Then move to [Postgres](postgresql.md) if SQLite is not enough for some reason.
+I currently start all my projects with SQLite DB if I need any kind of persistence. Then move to [EdgeDB](edgedb.md)/[Postgres](postgresql.md) if SQLite is not enough for some reason.
 
 ## Notes
 

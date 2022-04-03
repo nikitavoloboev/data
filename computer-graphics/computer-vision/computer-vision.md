@@ -672,3 +672,5 @@
 - [Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning (2019)](https://arxiv.org/abs/1904.01786) ([Code](https://github.com/ShichenLiu/SoftRas))
 - [FrankMocap: A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator (2021)](https://github.com/facebookresearch/frankmocap)
 - [Reddit Place Script 2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place.
+- [A Unified Objective for Novel Class Discovery (2021)](https://arxiv.org/abs/2108.08536) ([Code](https://github.com/DonkeyShot21/UNO))
+- [Papers and Datasets about Point Cloud](https://github.com/zhulf0804/3D-PointCloud)

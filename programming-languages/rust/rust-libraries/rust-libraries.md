@@ -1671,6 +1671,8 @@
 - [ispc-rs](https://github.com/Twinklebear/ispc-rs) - Rust library for build scripts to compile ISPC code into a Rust library.
 - [rustscript](https://github.com/faern/rustscript) - Use Rust as a scripting language.
 - [ena](https://github.com/rust-lang/ena) - Implementation of union-find in Rust; extracted from (and used by) rustc.
+- [stacker](https://github.com/rust-lang/stacker) - Manual segmented stacks for Rust.
+- [tokenizations](https://github.com/explosion/tokenizations) - Robust and Fast tokenizations alignment library for Rust and Python.
 
 ## Cargo Plugins
 

@@ -114,3 +114,4 @@
 - [NeuralSpeech](https://github.com/microsoft/NeuralSpeech) - Research project in Microsoft Research Asia focusing on neural network based speech processing, including automatic speech recognition (ASR), text to speech (TTS), etc.
 - [Speech Super-resolution Evaluation and Benchmarking](https://github.com/haoheliu/ssr_eval)
 - [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/) ([HN](https://news.ycombinator.com/item?id=30850596))
+- [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques (2021)](https://arxiv.org/abs/2104.00931) ([Code](https://github.com/mindslab-ai/assem-vc))

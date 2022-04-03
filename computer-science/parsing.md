@@ -68,7 +68,7 @@
 - [On Parsers](https://wiki.alopex.li/OnParsers) ([Lobsters](https://lobste.rs/s/7it43u/on_parsers))
 - [Casual Parsing in JavaScript (2021)](https://www.brandons.me/blog/casual-parsing-javascript)
 - [Parser generators vs. handwritten parsers: surveying major language implementations in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html) ([HN](https://news.ycombinator.com/item?id=28258945)) ([Lobsters](https://lobste.rs/s/10pkib/parser_generators_vs_handwritten))
-- [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format)) ([HN](https://news.ycombinator.com/item?id=30715406))
+- [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format)) ([HN](https://news.ycombinator.com/item?id=30715406)) ([IDE](https://ide.kaitai.io/)) ([HN](https://news.ycombinator.com/item?id=30894111))
 - [Parser toolkit](https://github.com/MasterQ32/parser-toolkit) - Toolkit that makes it easier to write recursive-descent parsers in Zig.
 - [TatSu Jobs](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF.
 - [Progger](https://github.com/Jezza/progger) - Simple set of parser and lexer tools. Built on top of logos and bumpalo.
@@ -99,3 +99,4 @@
 - [From Precedence Climbing to Pratt Parsing (2016)](https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm)
 - [Favorite approach to lexical analysis (i.e. turning a stream of bytes/characters into a stream of tokens)](https://twitter.com/typeswitch/status/1507756887537815558)
 - [How to write a linter using tree-sitter in an hour (2022)](https://siraben.dev/2022/03/22/tree-sitter-linter.html) ([HN](https://news.ycombinator.com/item?id=30822544))
+- [ppx_match_seq](https://github.com/nojb/ppx_match_seq) - Syntax for Seq.t parsers.

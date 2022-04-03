@@ -110,3 +110,4 @@
 - [zlib](https://github.com/haskell/zlib) - Compression and decompression in the gzip and zlib format.
 - [QOI — The Quite OK Image Format](https://qoiformat.org/) ([HN](https://news.ycombinator.com/item?id=30885668))
 - [littleZip](https://github.com/Nexxkinn/littleZip) - Memory-friendly basic zip compression, decompression, and single file extraction for deno framework.
+- [Libarchivejs](https://github.com/nika-begiashvili/libarchivejs) - Archive tool for browser which can extract various types of compression.
