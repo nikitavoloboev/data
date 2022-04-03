@@ -371,3 +371,4 @@
 - [The Guild](https://www.the-guild.dev/) - Modern API Platform and ecosystem that scales. ([Code](https://github.com/the-guild-org/the-guild-website))
 - [Why isn't there a swagger/openapi for binary formats? (2022)](http://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi)
 - [Why we chose NanoIDs for PlanetScale's API (2022)](https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api)
+- [Yaade](https://github.com/EsperoTech/yaade) - Open-source, self-hosted, collaborative API development environment. ([HN](https://news.ycombinator.com/item?id=30895372))

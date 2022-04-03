@@ -12,3 +12,4 @@
 - [How I stopped worrying about WordPress bugs with Jamstack (2021)](https://medium.com/@anshu_79279/how-i-stopped-worrying-about-wordpress-bugs-with-jamstack-b4ee8823eba8)
 - [WordPress Gutenberg](https://wordpress.org/gutenberg/) - Block Editor project for WordPress and beyond. ([Code](https://github.com/WordPress/gutenberg))
 - [How WordPress and Tumblr are keeping the internet weird (2022)](https://www.theverge.com/2022/3/15/22977857/wordpress-tumblr-simplenote-internet-automattic-matt-mullenweg-interview)
+- [What are you doing, WordPress.com? (2022)](https://rootprivileges.net/2022/04/03/what-are-you-doing-wordpress-com/) ([HN](https://news.ycombinator.com/item?id=30894980))

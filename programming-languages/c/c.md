@@ -225,3 +225,4 @@
 - [c2go](https://github.com/goplus/c2go) - Convert C to Go.
 - [Implementing cosine in C from scratch (2020)](https://austinhenley.com/blog/cosine.html) ([HN](https://news.ycombinator.com/item?id=30844872))
 - [Writing a C Compiler Book](https://nostarch.com/writing-c-compiler) ([Article](https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html))
+- [Kate's C AMA (2022)](https://twitter.com/thingskatedid/status/1510451564749619203)

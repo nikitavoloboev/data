@@ -179,3 +179,4 @@
 - [Postgrator](https://github.com/rickbergfalk/postgrator) - PostgreSQL, MySQL, and SQL Server migration tool using plain sql scripts.
 - [Animate SQL](https://animatesql.com/) - Visualize SQL Queries. ([HN](https://news.ycombinator.com/item?id=30836647))
 - [RestQ](https://github.com/ivanceras/restq) - Compacting the SQL into the URL rest API.
+- [Is SQL going out of fashion? (2022)](https://twitter.com/troutgirl/status/1510050777015889923)

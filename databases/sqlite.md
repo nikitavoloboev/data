@@ -174,3 +174,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [SQLite Foreign Data Wrapper for PostgreSQL](https://github.com/pgspider/sqlite_fdw)
 - [Postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. ([HN](https://news.ycombinator.com/item?id=30875837))
 - [A database for 2022](https://tailscale.com/blog/database-for-2022/) ([Tweet](https://twitter.com/simonw/status/1510022364553101312)) ([HN](https://news.ycombinator.com/item?id=30883015)) ([Lobsters](https://lobste.rs/s/t5a0et/database_for_2022))
+- [SQLite B-Tree Module](https://sqlite.org/btreemodule.html) ([HN](https://news.ycombinator.com/item?id=30894913))

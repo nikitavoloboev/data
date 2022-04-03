@@ -185,3 +185,4 @@
 - [Example implementation of Algorithm W for Hindley-Milner type inference](https://github.com/mgrabmueller/AlgorithmW)
 - [Type-Theoretic Signatures for Algebraic Theories and Inductive Types](https://github.com/AndrasKovacs/thesis/blob/main/src/thesis.pdf)
 - [Usable type system for call by push-value](https://github.com/LightAndLight/cbpv)
+- [Type Theory Forall - #16 Agda, K Axiom, HoTT, Rewrite Theory (2022)](https://www.typetheoryforall.com/2022/04/02/16-Agda,-K-Axiom,-HoTT,-Rewrite-Theory-(Jesper-Cockx).html#c359641b)

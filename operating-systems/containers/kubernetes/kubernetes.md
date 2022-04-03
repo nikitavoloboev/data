@@ -680,3 +680,5 @@
 - [selinuxd](https://github.com/containers/selinuxd) - Daemon that has the purpose of installing and removing policies as they are laid in a specific directory.
 - [Kubernetes Rollout Operator](https://github.com/grafana/rollout-operator) - Coordinates the rollout of pods between different StatefulSets within a specific namespace.
 - [Operator Registry](https://github.com/operator-framework/operator-registry) - Runs in a Kubernetes or OpenShift cluster to provide operator catalog data to Operator Lifecycle Manager.
+- [Kubernetes API is a regular HTTP REST API. How to add a new request handler. (2022)](https://twitter.com/iximiuz/status/1510230271613976578)
+- [Working with Kubernetes API (2022)](https://iximiuz.com/en/series/working-with-kubernetes-api/) ([Tweet](https://twitter.com/iximiuz/status/1510275987086446594))

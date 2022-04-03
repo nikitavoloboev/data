@@ -43,3 +43,4 @@
 - [Kotlin Language Server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE.
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin. ([Docs](https://detekt.github.io/detekt/))
 - [Kotlin Algorithms and Design Patterns](https://github.com/KiberneticWorm/Kotlin-Algorithms-and-Design-Patterns)
+- [Crash course on the Kotlin compiler (2022)](https://hinchman-amanda.medium.com/crash-course-on-the-kotlin-compiler-1-frontend-parsing-phase-9898490d922b)

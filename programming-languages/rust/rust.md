@@ -748,3 +748,4 @@
 - [Anyone using rust in production? what do you do? (2022)](https://www.reddit.com/r/rust/comments/ts605e/anyone_using_rust_in_production_what_do_you_do/)
 - [Why Rust mutexes look like they do (2022)](https://cliffle.com/blog/rust-mutexes/) ([Reddit](https://www.reddit.com/r/rust/comments/tug7fs/why_rust_mutexes_look_like_they_do/)) ([Lobsters](https://lobste.rs/s/3xpd1q/why_rust_mutexes_look_like_they_do))
 - [Futures Nostalgia (2022)](https://fasterthanli.me/articles/futures-nostalgia)
+- [Arenas and Rust (2021)](https://blog.reverberate.org/2021/12/19/arenas-and-rust.html)

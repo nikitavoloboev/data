@@ -898,3 +898,4 @@
 - [Pre-allocated lists in Python (2022)](https://rednafi.github.io/reflections/pre-allocated-lists-in-python.html) ([HN](https://news.ycombinator.com/item?id=30828523))
 - [Python Package Template](https://github.com/allenai/python-package-template)
 - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
+- [Pallets Projects](https://palletsprojects.com/) - Collection of Python web development libraries. ([GitHub](https://github.com/pallets/))

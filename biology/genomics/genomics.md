@@ -155,4 +155,4 @@
 - [mashtree](https://github.com/lskatz/mashtree) - Create a tree using Mash distances.
 - [Orpheum](https://github.com/czbiohub/orpheum) - Python package for directly translating RNA-seq reads into coding protein sequence.
 - [SHAPEwarp](https://github.com/dincarnato/SHAPEwarp) - SHAPE-guided RNA structural homology search.
-- [The complete sequence of human genome](https://www.science.org/toc/science/376/6588)
+- [The complete sequence of human genome](https://www.science.org/toc/science/376/6588) ([Article](https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/)) ([HN](https://news.ycombinator.com/item?id=30888988))

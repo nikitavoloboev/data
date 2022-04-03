@@ -288,3 +288,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Mutagen](https://github.com/Mutagen-Modding/Mutagen) - C# library for analyzing, modifying, and creating Bethesda mods.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves.
 - [Strangemood](https://www.strangemood.org/) - Decentralized marketplace for software licenses: an app store. Mostly for games. ([Code](https://github.com/strangemoodfoundation/strangemood))
+- [Valve Software Archive](https://valvearchive.com/) ([HN](https://news.ycombinator.com/item?id=30894163))

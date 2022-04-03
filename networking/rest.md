@@ -2,6 +2,10 @@
 
 I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 
+## Notes
+
+- [Can turn any REST endpoint into a GraphQL API by using stepzen](https://twitter.com/gethackteam/status/1510530560086654980)
+
 ## Links
 
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go.

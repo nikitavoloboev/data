@@ -931,3 +931,5 @@
 - [What NPM Should Do Today To Stop A New Colors Attack Tomorrow (2022)](https://research.swtch.com/npm-colors) ([Lobsters](https://lobste.rs/s/btw27b/what_npm_should_do_today_stop_new_colors))
 - [only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project.
 - [Keymaster](https://github.com/madrobby/keymaster) - Simple micro-library for defining and dispatching keyboard shortcuts in web applications.
+- [sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list.
+- [What are Weak Links in the npm Supply Chain? (2021)](https://arxiv.org/abs/2112.10165v2)

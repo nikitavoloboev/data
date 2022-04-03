@@ -2,7 +2,7 @@
 
 > Distributed consensus platform with meta-consensus capability
 
-I love that Tezos has an [efficient working proof of stake consensus algorithm](https://tezos.gitlab.io/008/proof_of_stake.html) and the [governance of the chain is fully decentralized too so community decides in which direction the chain policies can go](https://www.reddit.com/r/tezos/comments/p8kdta/tezos_marketing_is_amazing_does_the_tech_back_it/).
+I love that Tezos has an [efficient working proof of stake consensus algorithm](https://tezos.gitlab.io/008/proof_of_stake.html) and the [governance of the chain is fully decentralized too so community decides in which direction the chain policies can go](https://www.reddit.com/r/tezos/comments/p8kdta/tezos_marketing_is_amazing_does_the_tech_back_it/). [Here](https://twitter.com/ArthurB/status/1510347752068325380) is a good overview.
 
 ## Applications
 
@@ -94,3 +94,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [MicSE](https://github.com/kupl/MicSE) - Tool for automatically verifying and testing Tezos smart contracts written in Michelson.
 - [A six-fold improvement in the Merkle tree storage for Tezos (2022)](https://medium.com/tezedge/prevent-the-loss-of-baking-rewards-with-the-6-times-faster-and-more-stable-tezedge-context-storage-ade5714228b5)
 - [Learn how to create NFTs on Tezos using Taquito and Pinata](https://github.com/claudebarde/taquito-pinata-tezos-nft)
+- [Tezos for the outsider](https://twitter.com/ArthurB/status/1510347752068325380)
