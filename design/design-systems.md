@@ -97,6 +97,7 @@
 - [USWDS: The United States Web Design System](https://designsystem.digital.gov/) ([HN](https://news.ycombinator.com/item?id=30844002))
 - [Mdash](https://m-docs.org/) - Design system that fully embraces web standards. ([Code](https://github.com/jfbrennan/m-))
 - [PIXIV Design System](https://github.com/pixiv/charcoal)
+- [Europa Component Library](https://ec.europa.eu/component-library/) ([Code](https://github.com/ec-europa/europa-component-library))
 
 ## Notes
 

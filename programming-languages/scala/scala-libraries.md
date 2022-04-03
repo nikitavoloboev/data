@@ -56,6 +56,7 @@
 ## Graphics
 
 - [Doodle](https://github.com/creativescala/doodle) - Compositional vector graphics in Scala / Scala.JS.
+- [Minart](https://github.com/JD557/minart) - Minimal scala library to draw images in a JVM/Javascript/Native canvas.
 
 ## Error
 

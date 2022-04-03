@@ -336,3 +336,4 @@
 - [FIGARO: Generating Symbolic Music with Fine-Grained Artistic Control (2022)](https://arxiv.org/abs/2201.10936) ([Code](https://github.com/dvruette/figaro))
 - [elm-music-theory](https://github.com/duncanmalashock/elm-music-theory) - Toolkit for musical ideas.
 - [How 'Dune' Composer Hans Zimmer Created the Oscar-Nominated Score (2022)](https://www.youtube.com/watch?v=93A1ryc-WW0)
+- [Visualizations with Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API) ([Tweet](https://twitter.com/addyosmani/status/1510689878769512450))
