@@ -144,3 +144,4 @@
 - [Responders](https://github.com/heartcombo/responders) - Set of Rails responders to dry up your application.
 - [Hotwire::Livereload](https://github.com/kirillplatonov/hotwire-livereload) - Live reload for Hotwire Rails apps.
 - [Primer ViewComponents](https://github.com/primer/view_components) - ViewComponents for the Primer Design System.
+- [Brakeman](https://github.com/presidentbeef/brakeman) - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.

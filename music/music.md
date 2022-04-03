@@ -200,5 +200,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Pianos.pub](https://pianos.pub/) - Website to find public pianos. ([HN](https://news.ycombinator.com/item?id=30811648)) ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/tqahd2/i_travel_a_lot_and_seek_out_public_pianos_to_play/))
 - [Secret Garden](https://secretgarden.fm/)
 - [Raudio](https://raudio-project.github.io/) - Open platform for hosting and streaming music. ([Code](https://github.com/raudio-project/raudio-server)) ([Lobsters](https://lobste.rs/s/bm9rxh/announcing_raudio_platform_for_hosting))
-- [Horrible edge cases when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html) ([HN](https://news.ycombinator.com/item?id=30892811))
+- [Horrible edge cases when dealing with music (2022)](https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html) ([HN](https://news.ycombinator.com/item?id=30892811)) ([Reddit](https://www.reddit.com/r/programming/comments/tv9atw/horrible_edge_cases_to_consider_when_dealing_with/))
 - [Shelf](https://shelf.barrowclift.me/) - Beautifully display your record collection on the Internet. ([Code](https://github.com/barrowclift/shelf))

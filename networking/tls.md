@@ -80,3 +80,4 @@
 - [qtls](https://github.com/marten-seemann/qtls-go1-18) - Modified version of the standard library's TLS implementation, modified for the QUIC protocol.
 - [Cero](https://github.com/glebarez/cero) - Scrape domain names from SSL certificates of arbitrary hosts.
 - [Implementing a toy version of TLS 1.3 (2022)](https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/) ([HN](https://news.ycombinator.com/item?id=30782701))
+- [Feilich](https://github.com/Luukdegram/feilich) - Small, no dependency, TLS 1.3 implementation in Zig, for Zig.

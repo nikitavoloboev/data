@@ -163,6 +163,7 @@
 - [How side effects work in FP](https://chadnauseam.com/coding/random/how-side-effects-work-in-fp/) ([HN](https://news.ycombinator.com/item?id=30762281))
 - [Monads (2022)](https://blog.ploeh.dk/2022/03/28/monads/) ([Lobsters](https://lobste.rs/s/bip7oc/monads))
 - [Two Vexing Problems in Functional Programming (2022)](https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html) ([HN](https://news.ycombinator.com/item?id=30878534))
+- [Functional Programming Is Boring](https://github.com/danieljharvey/functional-programming-is-boring) - Short course on Functional Programming in Typescript.
 
 ## Images
 

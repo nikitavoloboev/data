@@ -534,6 +534,7 @@
 - [Julia Buildkite](https://github.com/JuliaCI/julia-buildkite) - Buildkite configuration files for Base Julia CI.
 - [PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - Wrapper for the Julia programming language, compatible with the JuliaAudio family of packages.
 - [ShiftedArrays](https://github.com/JuliaArrays/ShiftedArrays.jl) - Lazy shifted arrays for data analysis in Julia.
+- [MomentClosure.jl](https://github.com/augustinas1/MomentClosure.jl) - Tools to generate and study moment equations for any chemical reaction network using various moment closure approximations.
 
 ## Links
 
