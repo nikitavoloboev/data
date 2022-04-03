@@ -350,3 +350,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [PCLSRing: Keeping Process State Modular](http://fare.tunes.org/tmp/emergent/pclsr.htm) ([HN](https://news.ycombinator.com/item?id=30800414))
 - [IPC-Bench](https://github.com/goldsborough/ipc-bench) - Benchmarks for Inter-Process-Communication Techniques.
 - [libtree](https://github.com/haampie/libtree) - ldd as a tree.
+- [Hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications. Procfile is a simple format to specify types of processes your application provides.

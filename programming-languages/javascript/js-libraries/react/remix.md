@@ -112,3 +112,4 @@
 - [Remix - Full Context Review (2022)](https://www.fullcontextdevelopment.com/blog/remix-full-context-review)
 - [Remix - Web Standards Are Cool Again (2022)](https://www.simplethread.com/remix-web-standards-are-cool-again/)
 - [Intro To Remix Series](https://dev.to/aaronksaunders/series/16332)
+- [Remix Guide](https://remix.guide/discover)

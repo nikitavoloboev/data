@@ -103,3 +103,4 @@
 - [KMinion](https://github.com/cloudhut/kminion) - Prometheus Exporter for Apache Kafka.
 - [Kafka Python client](https://github.com/dpkp/kafka-python)
 - [upstash-kafka](https://github.com/upstash/upstash-kafka) - HTTP based Kafka Client for Serverless and Edge Functions.
+- [KafkaJS](https://github.com/tulios/kafkajs) - Modern Apache Kafka client for node.js.

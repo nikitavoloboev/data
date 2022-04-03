@@ -54,7 +54,7 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database.
 - [GRDB.swift](https://github.com/groue/GRDB.swift) - Toolkit for SQLite databases, with a focus on application development. ([Web](http://groue.github.io/GRDB.swift/))
 - [edge-sql](https://sql.lspgn.workers.dev/) - Serverless edge worker embedding SQLite using Cloudflare Workers and WASM. ([Code](https://github.com/lspgn/edge-sql)) ([HN](https://news.ycombinator.com/item?id=25842999))
-- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. ([Why I Built Litestream (2021)](https://litestream.io/blog/why-i-built-litestream/)) ([HN](https://news.ycombinator.com/item?id=26103776)) ([Lobsters](https://lobste.rs/s/bplm1x/why_i_built_litestream))
+- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite. ([Why I Built Litestream (2021)](https://litestream.io/blog/why-i-built-litestream/)) ([HN](https://news.ycombinator.com/item?id=26103776)) ([Lobsters](https://lobste.rs/s/bplm1x/why_i_built_litestream)) ([Web](https://litestream.io/))
 - [Rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite. ([HN](https://news.ycombinator.com/item?id=25871605)) ([Article](https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/)) ([Talk](https://www.youtube.com/watch?v=JLlIAWjvHxM)) ([Lobsters](https://lobste.rs/s/marmcc/rqlite_distributed_database_built_on)) ([Articles](https://www.philipotoole.com/tag/rqlite/)) ([pyrqlite](https://github.com/rqlite/pyrqlite))
 - [SQLite CREATE TABLE Parser](https://github.com/marcobambini/sqlite-createtable-parser)
 - [sqlite-transform](https://github.com/simonw/sqlite-transform) - Tool for running transformations on columns in a SQLite database.
@@ -175,3 +175,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Postlite](https://github.com/benbjohnson/postlite) - Postgres wire compatible SQLite proxy. ([HN](https://news.ycombinator.com/item?id=30875837))
 - [A database for 2022](https://tailscale.com/blog/database-for-2022/) ([Tweet](https://twitter.com/simonw/status/1510022364553101312)) ([HN](https://news.ycombinator.com/item?id=30883015)) ([Lobsters](https://lobste.rs/s/t5a0et/database_for_2022))
 - [SQLite B-Tree Module](https://sqlite.org/btreemodule.html) ([HN](https://news.ycombinator.com/item?id=30894913))
+- [SQLite Database File Format](https://www.sqlite.org/fileformat.html)
