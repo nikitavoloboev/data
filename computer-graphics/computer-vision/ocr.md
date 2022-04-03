@@ -28,3 +28,4 @@
 - [CalamariOCR](https://github.com/Calamari-OCR/calamari) - Line based ATR Engine based on OCRopy.
 - [Rust WebAssembly OCR experiments (2022)](https://hugopeixoto.net/articles/rust-wasm-ocr-experiments.html)
 - [Paperless-NGX](https://github.com/paperless-ngx/paperless-ngx) - Supercharged version of paperless: scan, index and archive all your physical documents. ([HN](https://news.ycombinator.com/item?id=30852035))
+- [scan2drive](https://github.com/stapelberg/scan2drive) - Go program (with a web interface) for scanning, converting and uploading physical documents to Google Drive.

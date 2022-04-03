@@ -1,6 +1,6 @@
 # Markdown
 
-Markdown is amazing and such an awesome way to format the text you write. I am using most of the features from it where appropriate.
+[goldmark](https://github.com/yuin/goldmark) is a nice markdown parser in Go.
 
 ## Notes
 

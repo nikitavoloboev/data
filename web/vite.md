@@ -47,3 +47,4 @@
 - [vite-ssr-next-auth](https://github.com/s-kris/vite-ssr-next-auth) - Sample repo to make next-auth work with vite-plugin-ssr.
 - [vite-dts](https://github.com/alloc/vite-dts) - Generate a .d.ts module for both .es and .cjs entry points when using Vite's lib mode.
 - [Vitamin](https://github.com/wtchnm/Vitamin) - Opinionated Vite starter template.
+- [Eslint plugin for vitest](https://github.com/veritem/eslint-plugin-vitest)

@@ -1047,6 +1047,7 @@
 - [Bagbutik](https://github.com/MortenGregersen/Bagbutik) - Generated Swift code for the App Store Connect API based on the official OpenAPI spec.
 - [Expression](https://github.com/nicklockwood/Expression) - Cross-platform Swift library for evaluating mathematical expressions at runtime.
 - [Flow](https://github.com/danielctull-playground/Flow) - Type built on Swift concurrency which can be chained like AsyncSequence or a Combine Publisher with the guarantee that only one value will come through the chain.
+- [DictionaryBuilder](https://github.com/spacenation/swift-dictionary-builder) - Dictionary result builder for Swift.
 
 ## Other (not lib)
 

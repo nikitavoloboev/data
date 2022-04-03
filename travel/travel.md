@@ -111,3 +111,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Welcome To My Garden](https://welcometomygarden.org/) - Not-for-profit network of citizens offering free camping spots in their gardens to slow travellers. ([Code](https://github.com/WelcometoMyGarden/welcometomygarden))
 - [Unbundling Airbnb (2022)](https://www.peterfabor.com/posts/unbundling-airbnb) ([HN](https://news.ycombinator.com/item?id=30855187))
 - [The Safest Low-Tax Countries in the World](https://www.youtube.com/watch?v=SleuUmzZ9S4)
+- [Small World](https://smallworld.kiwi/) - Stay in touch with your friends around the world. ([Code](https://github.com/devonzuegel/smallworld))

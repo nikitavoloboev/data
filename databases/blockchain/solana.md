@@ -239,3 +239,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Swap API for Solana - Jupiter Doc](https://docs.jup.ag/jupiter-api/swap-api-for-solana) ([Tweet](https://twitter.com/JupiterExchange/status/1507359195523592195))
 - [Whiteboard Series with NEAR | Ep: 2 Anatoly Yakovenko from Solana (2019)](https://www.youtube.com/watch?v=rKGhbC6Uync)
 - [Expo, React Native & Solana Web3 Boilerplate](https://github.com/jferrer/solacademy-wallet)
+- [Solana Auditing and Security Resources](https://github.com/0xsanny/solsec)

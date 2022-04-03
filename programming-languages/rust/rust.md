@@ -538,7 +538,7 @@
 - [Dealing with Out-of-Memory Conditions in Rust (2021)](https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/) ([HN](https://news.ycombinator.com/item?id=28168188))
 - [My Rust development workflow (after 2+ years) (2021)](https://kerkour.com/blog/rust-development-workflow/)
 - [How to create small Docker images for Rust (2021)](https://kerkour.com/blog/rust-small-docker-image/)
-- [Black Hat Rust Book](https://academy.kerkour.com/black-hat-rust?coupon=GITHUB) ([Code](https://github.com/skerkour/black-hat-rust))
+- [Black Hat Rust Book](https://academy.kerkour.com/black-hat-rust?coupon=GITHUB) ([Code](https://github.com/skerkour/black-hat-rust)) ([Bonuses](https://github.com/black-hat-rust-bonuses/black-hat-rust-bonuses))
 - [How to write slow Rust code (2021)](https://renato.athaydes.com/posts/how-to-write-slow-rust-code.html) - How I tried to port Lisp code to Rust and managed to get a much slower program. ([HN](https://news.ycombinator.com/item?id=28034072))
 - [Rust Cryptography Interest Group (RCIG)](https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo) - Coordination repo for all things Rust Cryptography oriented.
 - [Rust Cloud Native](https://rust-cloud-native.github.io/) - Collection of resources about cloud native Rust. ([Code](https://github.com/rust-cloud-native/rust-cloud-native.github.io)) ([HN](https://news.ycombinator.com/item?id=28049787))
@@ -747,6 +747,6 @@
 - [What use cases does Rust cover better than Go? (2022)](https://www.reddit.com/r/rust/comments/ts8ptq/what_use_cases_does_rust_cover_better_than_go/)
 - [Anyone using rust in production? what do you do? (2022)](https://www.reddit.com/r/rust/comments/ts605e/anyone_using_rust_in_production_what_do_you_do/)
 - [Why Rust mutexes look like they do (2022)](https://cliffle.com/blog/rust-mutexes/) ([Reddit](https://www.reddit.com/r/rust/comments/tug7fs/why_rust_mutexes_look_like_they_do/)) ([Lobsters](https://lobste.rs/s/3xpd1q/why_rust_mutexes_look_like_they_do))
-- [Futures Nostalgia (2022)](https://fasterthanli.me/articles/futures-nostalgia)
+- [Futures Nostalgia (2022)](https://fasterthanli.me/articles/futures-nostalgia) ([Reddit](https://www.reddit.com/r/rust/comments/tv0f37/future_nostalgia/))
 - [Arenas and Rust (2021)](https://blog.reverberate.org/2021/12/19/arenas-and-rust.html)
 - [Do you prefer functional programming style when using rust? (2022)](https://www.reddit.com/r/rust/comments/tv8spd/do_you_guys_prefer_functional_programming_style/)

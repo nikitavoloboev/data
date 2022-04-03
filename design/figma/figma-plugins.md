@@ -90,3 +90,4 @@
 - [Figma Plugin Helper functions](https://github.com/figma-plugin-helper-functions/figma-plugin-helpers) - Collection of useful helper functions to import to your Figma plugin project.
 - [Storybook Figma Plugin](https://storybook.js.org/blog/figma-plugin-beta/) - Connect stories to design components.
 - [FireJet](https://www.firejet.io/) - Export Figma to Typescript Code (React).
+- [Figma ML](https://github.com/dusskapark/figma-ml) - Design System Plugin Made with TensorFlow JS - like spell check for design.

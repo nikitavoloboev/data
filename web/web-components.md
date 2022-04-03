@@ -1,6 +1,6 @@
 # [Web Components](https://www.webcomponents.org/introduction)
 
-[Lit](https://lit.dev/) & [Catalyst](https://github.github.io/catalyst/) (used by GitHub) are interesting.
+[Lit](https://lit.dev/), [Catalyst](https://github.github.io/catalyst/) (used by GitHub) & [Shoelace](https://shoelace.style/) are interesting.
 
 ## Notes
 

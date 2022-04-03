@@ -305,3 +305,4 @@
 - [What made the NES so interesting? (2022)](https://nicole.express/2022/the-nes-as-an-artifact.html) ([HN](https://news.ycombinator.com/item?id=30816668))
 - [PipelineC](https://github.com/JulianKemmerer/PipelineC) - C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language construct/compiler feature.
 - [PDL](https://github.com/apl-cornell/PDL) - Hardware Pipeline Description Language.
+- [LDgraphy - Laser Direct Lithography](https://github.com/hzeller/ldgraphy) - Simple Laser Direct Lithography / Laser Direct Imaging for PCB manufacturing.

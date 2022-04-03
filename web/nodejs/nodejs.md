@@ -348,3 +348,4 @@
 - [DeAsync.js](https://github.com/abbr/deasync) - Turns async function into sync via JavaScript wrapper of Node event loop.
 - [Strom](https://github.com/lewisdiamond/stromjs) - Dependency-free stream utils for Node.js.
 - [synckit](https://github.com/rx-ts/synckit) - Perform async work synchronously in Node.js using worker_threads with first-class TypeScript support.
+- [Node "exports" field explanation](https://github.com/sheremet-va/dual-packaging)

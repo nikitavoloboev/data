@@ -380,3 +380,4 @@ Awesome List
 - [Encites](https://github.com/cutenode/encites) - Fetches GitHub Activtiy, providing an API for that activity and rendering it prettily in Markdown.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub CLI dashboard for pull requests and issues.
 - [gh2md](https://github.com/mattduck/gh2md) - Export GitHub repository issues, pull requests and comments to markdown.
+- [GrepHub](https://grephub.com/lodash/lodash) - Search GitHub repositories with regexes. ([Code](https://github.com/hmarr/grephub))

@@ -100,3 +100,4 @@ I especially like the distinction of distributing content over distributing link
 - [go-path](https://github.com/ipfs/go-path) - Utilities for dealing with IPFS paths.
 - [Bacalhau](https://github.com/filecoin-project/bacalhau) - Compute over Data framework for IPFS & Filecoin.
 - [IPFS Only Hash](https://github.com/alanshaw/ipfs-only-hash) - Just enough code to calculate the IPFS hash for some data.
+- [is-ipfs](https://github.com/ipfs-shipyard/is-ipfs) - Set of utilities to help identify IPFS resources.

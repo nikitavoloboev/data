@@ -97,6 +97,7 @@
 - [boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
 - [command-line-args](https://github.com/75lb/command-line-args) - Mature, feature-complete library to parse command-line options.
 - [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
+- [minimist](https://github.com/substack/minimist) - Parse argument options.
 
 ## ML
 

@@ -39,3 +39,4 @@
 - [AntiRTDPI](https://github.com/dzhidzhoev/AntiRTDPI) - MacOS kernel extension helping to neutralise Rostelecom's passive DPI.
 - [Zapret](https://github.com/bol-van/zapret) - Обход DPI в Linux.
 - [python-adblock](https://github.com/ArniDagur/python-adblock) - Python wrapper for Brave's adblocking library, which is written in Rust.
+- [hBlock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
