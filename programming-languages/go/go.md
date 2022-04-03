@@ -749,3 +749,4 @@ if err != nil {
 - [Faster sorting with Go generics (2022)](https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/) ([HN](https://news.ycombinator.com/item?id=30888125))
 - [Rethinking Visual Programming with Go (2022)](https://divan.dev/posts/visual_programming_go/)
 - [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns.
+- [Quick tip: Easy test assertions with Go generics (2022)](https://www.alexedwards.net/blog/easy-test-assertions-with-go-generics) ([Reddit](https://www.reddit.com/r/golang/comments/tv711c/quick_tip_easy_test_assertions_with_go_generics/))

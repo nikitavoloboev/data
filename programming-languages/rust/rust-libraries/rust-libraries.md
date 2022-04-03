@@ -1673,6 +1673,7 @@
 - [ena](https://github.com/rust-lang/ena) - Implementation of union-find in Rust; extracted from (and used by) rustc.
 - [stacker](https://github.com/rust-lang/stacker) - Manual segmented stacks for Rust.
 - [tokenizations](https://github.com/explosion/tokenizations) - Robust and Fast tokenizations alignment library for Rust and Python.
+- [systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information/statistics.
 
 ## Cargo Plugins
 

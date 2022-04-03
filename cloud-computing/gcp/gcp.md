@@ -81,3 +81,4 @@
 - [Google Kubernetes Cluster review tool](https://github.com/google/gke-policy-automation) - Validates selected GKE cluster against set of REGO policies.
 - [TPU Starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPUs.
 - [Time limited, auto-expiring group memberships for users on Google Cloud](https://github.com/salrashid123/iam_autorevoke)
+- [Configure Google production keys for Auth0](https://github.com/natbat/pillarpointstewards/issues/52) ([Tweet](https://twitter.com/simonw/status/1510642840149250055))

@@ -123,3 +123,5 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [How Putin managed to derussify East Ukraine in just 8 years](https://twitter.com/kamilkazani/status/1504103672019513345)
 - [Напрямок](https://napryamok.org/ru) - Помощь людям во время войны.
 - [Mass executions of civilians in Ukraine (2022)](https://www.reddit.com/r/neoliberal/comments/tuu0aj/mass_executions_of_civilians_in_ukraine/) ([Reddit](https://www.reddit.com/r/worldnews/comments/tv0emr/rworldnews_live_thread_russian_invasion_of/?sort=top))
+- [Horrors of Ukrainian people from Russian invasion](https://twitter.com/IKoshiw/status/1510510003152732162)
+- [More Horrors of Ukrainian people from Russian invasion](https://twitter.com/jmkorhonen/status/1510173898679197697)

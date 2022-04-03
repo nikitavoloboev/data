@@ -438,3 +438,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices. ([Web](https://libimobiledevice.org/))
 - [WWDC Session Notes](https://github.com/HARlBO/WWDC)
 - [PlaybookAccessibilitySnapshot](https://github.com/playbook-ui/accessibility-snapshot-ios) - Library for generating snapshot images of components managed by Playbook with accessibility labels.
+- [Test-Driven iOS Development with Swift Book (2022)](https://www.packtpub.com/product/test-driven-ios-development-with-swift-fourth-edition/9781803232485)
