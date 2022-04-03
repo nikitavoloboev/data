@@ -76,3 +76,4 @@ Here are tools I use for streaming:
 - [Twincy](https://github.com/goncy/twincy) - See all chat messages and click one to feature it on the stream.
 - [OBS Plugin: Background Removal](https://github.com/royshil/obs-backgroundremoval)
 - [Stream your audio](https://streamyouraudio.com/) - Live stream audio from your computer to this website as easily as possible. ([Code](https://github.com/schollz/streamyouraudio))
+- [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch) - Swaps video ads for an ad-free stream.

@@ -10,6 +10,7 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) - Vanguard FTSE All-World UCITS ETF USD Accumulation. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
 - [VBILX](https://finance.yahoo.com/quote/VBILX/) - Vanguard Intermediate-Term Bond Index Fund.
 - [VTSAX](https://finance.yahoo.com/quote/VTSAX/) - Vanguard Total Stock Market Index Fund Admiral.
+- [VTWAX](https://finance.yahoo.com/quote/VTWAX/) - Vanguard Total World Stock Index Fund Admiral.
 - [VASGX](https://finance.yahoo.com/quote/vasgx/) - Vanguard LifeStrategy Growth Fund Investor.
 - [VWINX](https://finance.yahoo.com/quote/vwinx/) - Vanguard Wellesley Income Fund Investor.
 - [S&P 500](https://finance.yahoo.com/quote/%5EGSPC/) - Tracking the performance of 500 large companies listed on stock exchanges in the United States.
@@ -253,3 +254,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [stonky](https://github.com/jkwill87/stonky) - Command line dashboard for monitoring stocks.
 - [Investing books](https://www.reddit.com/r/Bogleheads/comments/tdg583/im_getting_a_book_reading_list_together_so_far_i/)
 - [Investor Math and Statistics (2022)](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)
+- [The one fund to hold in Roth IRA (2022)](https://www.reddit.com/r/Bogleheads/comments/tvac39/if_you_are_34_years_old_and_only_want_to_have_one/)

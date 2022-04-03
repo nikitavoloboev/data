@@ -245,6 +245,7 @@
 - [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication.
 - [ZLImageEditor](https://github.com/longitachi/ZLImageEditor) - Powerful image editor framework. Supports graffiti, cropping, mosaic, text stickers, image stickers, filters.
 - [TouchInspector](https://github.com/jtrivedi/TouchInspector) - Drop-in package that helps you visualize and debug touches on iOS and iPadOS.
+- [SwiftAlertView](https://github.com/dinhquan/SwiftAlertView) - Powerful AlertView library written in Swift.
 
 ## macOS
 

@@ -67,3 +67,4 @@
 - [Blender CAD Tools](https://github.com/EleotleCram/blender-cad-tools)
 - [Differential Growth for Blender](https://github.com/inca/blender-differential-growth)
 - [Tissue](https://github.com/alessandro-zomparelli/tissue) - Blender's add-on for computational design.
+- [Embark Blender Tools](https://github.com/EmbarkStudios/blender-tools) - Blender add-on containing workflow tools for game development, created and maintained by Embark Studios.

@@ -44,7 +44,7 @@
 - [Infura](https://infura.io/) - Ethereum & IPFS APIs. Develop now on Web 3.0.
 - [Aragon](https://aragon.org/) - Gives internet communities unprecedented power to organize around shared values and resources.
 - [73 and Web3](https://github.com/sagmom3/73-and-web3)
-- [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/)
+- [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/) ([Code](https://github.com/cryptoanarchywiki/cryptoanarchywiki.github.io))
 - [IPLD](https://ipld.io/) - Data model of the content-addressable web. ([GitHub](https://github.com/ipld)) ([Code](https://github.com/ipld/ipld))
 - [Resources about the general concepts around decentralization (2020)](https://merveilles.town/@jrc03c/104823469834829652)
 - [Our Networks](https://ournetworks.ca/) - Conference about the past, present, and future of building our own network infrastructures.

@@ -70,3 +70,4 @@
 - [Gruut](https://github.com/rhasspy/gruut) - Tokenizer, text cleaner, and phonemizer for many human languages.
 - [zdict](https://github.com/zdict/zdict) - CLI dictionary framework mainly focus on any kind of online dictionary.
 - [DeepL Python Library](https://github.com/DeepLcom/deepl-python) - Python library for the DeepL language translation API.
+- [Wordle Global - 62 languages available](https://wordle.global/) ([Code](https://github.com/Hugo0/wordle))

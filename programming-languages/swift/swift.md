@@ -283,3 +283,4 @@
 - [Swift Evolution Browser](https://github.com/YusukeHosonuma/Swift-Evolution-Browser)
 - [Getting started with CloudKit (2022)](https://swiftwithmajid.com/2022/03/22/getting-started-with-cloudkit/)
 - [DrString](https://github.com/dduan/DrString) - Finds issues in your Swift docstrings and fixes them for you.
+- [Don’t use a protocol when a struct would do a better job (2022)](https://codeinswift.io/ios-swift-protocol-is-not-always-a-solution-95bba0541d6d)
