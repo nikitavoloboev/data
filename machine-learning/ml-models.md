@@ -72,3 +72,4 @@
 - [ORMB](https://github.com/kleveross/ormb) - Docker for Your ML/DL Models Based on OCI Artifacts.
 - [Spaces - Hugging Face](https://huggingface.co/spaces) ([Tweet](https://twitter.com/abidlabs/status/1505987504851197956))
 - [Nanit’s AI Development Process (2022)](https://engineering.nanit.com/nanits-ai-development-process-improve-your-model-quality-time-to-market-and-culture-b824cefcd75a)
+- [ailia SDK ML Models](https://github.com/axinc-ai/ailia-models)

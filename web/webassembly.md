@@ -285,3 +285,4 @@
 - [How to create minimal WASM module](https://github.com/ern0/howto-wasm-minimal) ([Tweet](https://twitter.com/simonw/status/1508503086091825153))
 - [WebAssembly in my browser desktop environment (2022)](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc) ([HN](https://news.ycombinator.com/item?id=30827497))
 - [Spin](https://github.com/fermyon/spin) - Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly. ([Docs](https://spin.fermyon.dev/)) ([Intro](https://www.fermyon.com/blog/introducing-spin)) ([HN](https://news.ycombinator.com/item?id=30875310))
+- [Wala](https://github.com/CalmSystem/wala) - Language trying to simplify WebAssembly Text syntax while keeping the full expressiveness and retro-compatibility.

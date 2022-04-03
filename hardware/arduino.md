@@ -41,3 +41,4 @@
 - [Seeeduino XIAO - Arduino Microcontroller - SAMD21 Cortex M0+](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) ([corne-xiao](https://github.com/lehmanju/corne-xiao))
 - [Surfboard](https://sfbd.is/) - CodeSandbox for Arduino.
 - [Arduino Library Manager list](https://github.com/arduino/library-registry)
+- [Arduino Cryptography Library](https://github.com/rweather/arduinolibs)

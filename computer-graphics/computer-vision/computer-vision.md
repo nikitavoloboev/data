@@ -671,3 +671,4 @@
 - [ToFu: Topologically Consistent Multi-View Face Inference Using Volumetric Sampling (2021)](https://github.com/tianyeli/tofu)
 - [Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning (2019)](https://arxiv.org/abs/1904.01786) ([Code](https://github.com/ShichenLiu/SoftRas))
 - [FrankMocap: A Strong and Easy-to-use Single View 3D Hand+Body Pose Estimator (2021)](https://github.com/facebookresearch/frankmocap)
+- [Reddit Place Script 2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place.
