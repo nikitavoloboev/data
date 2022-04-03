@@ -236,4 +236,4 @@
 - [One way to archive web pages](https://twitter.com/masukomi/status/1507460071265280001)
 - [Hyntax](https://github.com/mykolaharmash/hyntax) - Straightforward HTML parser for JavaScript.
 - [Those HTML Attributes You Never Use (2022)](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
-- [Picture perfect images with the modern <img> element (2022)](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
+- [Picture perfect images with the modern img element (2022)](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
