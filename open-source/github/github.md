@@ -379,3 +379,4 @@ Awesome List
 - [Find CVE PoCs on GitHub](https://github.com/trickest/find-gh-poc)
 - [Encites](https://github.com/cutenode/encites) - Fetches GitHub Activtiy, providing an API for that activity and rendering it prettily in Markdown.
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub CLI dashboard for pull requests and issues.
+- [gh2md](https://github.com/mattduck/gh2md) - Export GitHub repository issues, pull requests and comments to markdown.

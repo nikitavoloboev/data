@@ -391,3 +391,4 @@
 - [The Tao of IETF: A Novice's Guide to the Internet Engineering Task Force](https://www.ietf.org/about/participate/tao/) ([Code](https://github.com/ietf/tao))
 - [pkgroll](https://github.com/privatenumber/pkgroll) - Zero-config JS bundler for ESM, CommonJS, and .d.ts outputs.
 - [Quick way to test out or show off features within DevTools](https://bgrins.github.io/devtools-demos/) ([Code](https://github.com/bgrins/devtools-demos))
+- [100 Cool Web Moments](https://developer.chrome.com/100/)

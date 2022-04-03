@@ -440,6 +440,10 @@ Below is a list of extensions I use.
 
 - [VSCode Zig](https://github.com/ziglang/vscode-zig)
 
+## Go
+
+- [gotest-snippets](https://marketplace.visualstudio.com/items?itemName=Gauntface.gotest-snippets) - Snippets to make writing tests for Go a little easier. ([Code](https://github.com/gauntface/gotest-snippets))
+
 ## PureScript
 
 - [PureScript IDE](https://marketplace.visualstudio.com/items?itemName=nwolverson.ide-purescript) ([Code](https://github.com/nwolverson/vscode-ide-purescript))
