@@ -44,3 +44,4 @@ I try learn new habits proactively by building systems and thought processes tha
 - [In praise of habits](https://psyche.co/ideas/in-praise-of-habits-so-much-more-than-mindless-reflexes) ([HN](https://news.ycombinator.com/item?id=28085526))
 - [dijo](https://github.com/nerdypepper/dijo) - Scriptable, curses-based, digital habit tracker.
 - [Harsh Taskmaster](https://github.com/wakatara/harsh) - Habit tracking for geeks. A minimalist, command line tool for tracking and understanding your habits.
+- [How habits form backed by research](https://www.reddit.com/r/science/comments/tuxmi7/research_concludes_that_six_ingredients_are_key/)

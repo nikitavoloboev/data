@@ -33,3 +33,4 @@
 - [Grocery delivery “dark stores” in Amsterdam (2022)](https://arstechnica.com/tech-policy/2022/02/grocery-delivery-dark-stores-in-amsterdam-have-residents-hopping-mad/) ([HN](https://news.ycombinator.com/item?id=30406995))
 - [Open Kamer](https://www.openkamer.org/) - Insight into the Dutch parliament. ([Code](https://github.com/openkamer/openkamer))
 - [Software Engineer Salaries in the Netherlands: 500 total compensation data points (2022)](https://www.youtube.com/watch?v=-yYMV7m3wxY) ([Reddit](https://www.reddit.com/r/cscareerquestionsEU/comments/tbyi9v/software_engineer_salaries_in_the_netherlands_500/))
+- [Why The Netherlands Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=lP-G-inkkDg)

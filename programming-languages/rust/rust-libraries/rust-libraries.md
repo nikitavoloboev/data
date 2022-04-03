@@ -44,6 +44,7 @@
 - [tui-realm](https://github.com/veeso/tui-realm) - Tui-rs framework to build stateful applications with a React/Elm inspired approach.
 - [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
 - [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
+- [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
 
 ## Web
 
@@ -611,6 +612,7 @@
 - [bytecoding](https://github.com/nn1ks/bytecoding) - Derive macro for encoding and decoding instructions and operands as bytecode.
 - [Venial](https://github.com/PoignardAzur/venial) - Lightweight parsing for Rust proc macros.
 - [duplicate](https://github.com/Emoun/duplicate) - Macros for code duplication with substitution.
+- [const_format_crates](https://github.com/rodrimati1992/const_format_crates) - Compile-time string formatting.
 
 ## Math
 
@@ -1667,6 +1669,8 @@
 - [serde-big-array](https://github.com/est31/serde-big-array) - Big array helper for serde.
 - [Prop](https://github.com/advancedresearch/prop) - Propositional logic with types in Rust.
 - [ispc-rs](https://github.com/Twinklebear/ispc-rs) - Rust library for build scripts to compile ISPC code into a Rust library.
+- [rustscript](https://github.com/faern/rustscript) - Use Rust as a scripting language.
+- [ena](https://github.com/rust-lang/ena) - Implementation of union-find in Rust; extracted from (and used by) rustc.
 
 ## Cargo Plugins
 
@@ -1840,3 +1844,4 @@
 - [Crubit](https://github.com/google/crubit) - C++/Rust Bidirectional Interop Tool.
 - [Nice ways to parse & get data from JSON](https://www.reddit.com/r/rust/comments/ttomov/is_there_a_prettier_way_to_parse_get_data_from/)
 - [rust-audit](https://github.com/Shnatsel/rust-audit) - Make production Rust binaries auditable.
+- [Are we GUI yet?](http://www.areweguiyet.com/) - State of building user interfaces in Rust. ([Code](https://github.com/areweguiyet/areweguiyet))

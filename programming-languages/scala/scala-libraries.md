@@ -16,6 +16,7 @@
 
 ## CLI
 
+- [MainArgs](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
 - [decline](https://github.com/bkirwi/decline) - Composable command-line parser for Scala.
 - [zio-cli](https://github.com/zio/zio-cli) - Rapidly build powerful command-line applications powered by ZIO.
 
@@ -163,6 +164,7 @@
 - [Ficus](https://github.com/iheartradio/ficus) - Lightweight companion to Typesafe config that makes it more Scala-friendly.
 - [Colossus](https://github.com/tumblr/colossus) - Lightweight I/O framework for building Scala services.
 - [Futiles](https://github.com/johanandren/futiles) - Missing utils for working with Scala Futures.
+- [spray-json](https://github.com/spray/spray-json) - Lightweight, clean and simple JSON implementation in Scala.
 
 ## Links
 

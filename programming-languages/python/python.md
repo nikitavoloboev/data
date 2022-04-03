@@ -456,3 +456,4 @@ for i, _ in enumerate(nums):
 - [How to compare floats in Python (2022)](https://davidamos.dev/the-right-way-to-compare-floats-in-python/) ([HN](https://news.ycombinator.com/item?id=30856434))
 - [hpython](https://github.com/qfpl/hpython) - Haskell-based language tools for Python.
 - [How is PyPy Tested? (2022)](https://www.pypy.org/posts/2022/04/how-is-pypy-tested.html)
+- [pyupgrade](https://github.com/asottile/pyupgrade) - Tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.

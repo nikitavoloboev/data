@@ -285,3 +285,4 @@
 - [Awesome Spiking Neural Networks](https://github.com/vvvityaaa/awesome-spiking-neural-networks)
 - [Transformers for software engineers (2022)](https://blog.nelhage.com/post/transformers-for-software-engineers/) ([HN](https://news.ycombinator.com/item?id=30883636))
 - [Exploring Neural Networks Visually in the Browser (2022)](https://cprimozic.net/blog/neural-network-experiments-and-visualizations/)
+- [Neural Network Visualization in the Browser](https://nn-viz.ameo.design/) - Neural network library written from scratch in Rust along with a web-based application for building + training neural networks + visualizing their outputs. ([Code](https://github.com/Ameobea/neural-network-from-scratch))

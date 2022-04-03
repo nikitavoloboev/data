@@ -53,3 +53,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Upt](https://github.com/sigoden/upt) - Universal Package-management Tool for Windows, macOS and Linux.
 - [mpm](https://github.com/kdeldycke/meta-package-manager) - Meta Package Manager. One CLI for all package managers.
 - [trdl](https://github.com/werf/trdl) - Universal package manager delivering new versions of your application from a trusted TUF repository. ([Web](https://trdl.dev/))
+- [pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.

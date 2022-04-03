@@ -120,3 +120,4 @@
 - [SwiftUI App Icon Generator App for iOS & macOS Catalyst](https://github.com/alfianlosari/AppIconGenerator)
 - [Icons in Pure CSS (2021)](https://antfu.me/posts/icons-in-pure-css)
 - [SPSettingsIcons](https://github.com/sparrowcode/SPSettingsIcons) - Generate settings icons by Apple's SF Symbols.
+- [Unicons](https://iconscout.com/unicons) - 4500+ Free Vector Icons. ([Code](https://github.com/Iconscout/unicons))

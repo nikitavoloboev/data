@@ -76,3 +76,4 @@
 - [Benchmark TCP bandwidth and latency with Rust](https://github.com/LorenzoMartini/rust-tcp-io-perf)
 - [TCP Checker](https://github.com/tevino/tcp-shaker) - Performing TCP handshake without ACK in Go, useful for health checking, that is SYN, SYN-ACK, RST.
 - [pync](https://github.com/brenw0rth/pync) - Arbitrary TCP and UDP connections and listens (Netcat for Python).
+- [udp-over-tcp](https://github.com/mullvad/udp-over-tcp) - Library (and binaries) for tunneling UDP datagrams over a TCP stream.

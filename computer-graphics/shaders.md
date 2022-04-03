@@ -73,3 +73,4 @@
 - [Shader Park](https://github.com/shader-park/shader-park-core) - JavaScript framework for creating real-time 2D and 3D shaders. JS -> Shader. ([Web](https://shaderpark.com/)) ([HN](https://news.ycombinator.com/item?id=30655287))
 - [Wombat](https://github.com/BrianSharpe/Wombat) - Efficient texture-free GLSL procedural noise library.
 - [Shaderity](https://github.com/actnwit/shaderity) - Useful shader toolset.
+- [Rendering Point Clouds with Compute Shaders](https://github.com/m-schuetz/compute_rasterizer)

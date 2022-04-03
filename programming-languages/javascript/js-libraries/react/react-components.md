@@ -289,6 +289,7 @@
 - [react-text-loop-next](https://github.com/samarmohan/react-text-loop-next) - Animate words in your headings.
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 - [Formspree React](https://github.com/formspree/formspree-react) - React component library for Formspree.
+- [rediagram](https://github.com/kamiazya/rediagram) - Markup and draw your system diagrams with React.
 
 ## Links
 

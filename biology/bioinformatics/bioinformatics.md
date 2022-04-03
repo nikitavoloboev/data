@@ -199,3 +199,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [FastFold](https://github.com/hpcaitech/FastFold) - Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters.
 - [Graphormer](https://github.com/microsoft/Graphormer) - Deep learning package that allows researchers and developers to train custom models for molecule modeling tasks.
 - [Strobealign](https://github.com/ksahlin/StrobeAlign) - Fast short-read aligner. It achieves the speedup by using a dynamic seed size obtained from syncmer-thinned strobemers.
+- [Bioinformatics training materials](https://github.com/sib-swiss/training-collection)

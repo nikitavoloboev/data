@@ -508,3 +508,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Sloughi](https://github.com/01walid/sloughi) - Tiny crate to make it easy to share and apply Git hooks for Rust projects. Inspired by Husky.
 - [git-workspace](https://github.com/orf/git-workspace) - Sync personal and work git repositories from multiple providers.
 - [Comet](https://github.com/liamg/comet) - CLI tool that helps you to use conventional commits with git.
+- [dunk](https://github.com/darrenburns/dunk) - Prettier git diffs.
+- [Git Module](https://github.com/gogs/git-module) - Go module for Git access through shell commands.

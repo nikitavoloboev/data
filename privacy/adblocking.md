@@ -35,3 +35,4 @@
 - [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html) ([HN](https://news.ycombinator.com/item?id=30411049))
 - [AdGuard Filters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters.
 - [Cloudblock](https://github.com/chadgeary/cloudblock) - End-to-end DNS encryption with DNS-based ad-blocking, built in the cloud automatically using Terraform with Ansible.
+- [Mullvad DNS Ad Block](https://github.com/mullvad/dns-adblock) - Ad-blocking, tracker blocking, and custom rules for our DNS ad-blocking service.

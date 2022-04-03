@@ -344,3 +344,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [ot-builder](https://github.com/ot-builder/monorepo) - TypeScript library that manipulates OpenType fonts.
 - [Google Fonts Complete](https://github.com/jonathantneal/google-fonts-complete) - Complete list of Google Web Fonts and their sources.
 - [Coldtype](https://github.com/goodhertz/coldtype) - Cross-platform display typography in python.
+- [Font Dimensions](https://fvar.unsoundscapes.com/) - Visualize dimensions of a variable font in the browser. ([Code](https://github.com/w0rm/elm-font-dimensions))

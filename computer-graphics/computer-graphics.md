@@ -221,3 +221,4 @@
 - [Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)](http://nothings.org/gamedev/ssao/)
 - [Computer Graphics : Spring 2022](http://15462.courses.cs.cmu.edu/spring2022/)
 - [Scotty3D](https://github.com/CMU-Graphics/Scotty3D) - 3D graphics software package includes components for interactive mesh editing, realistic path tracing, and dynamic animation.
+- [Glad](https://glad.dav1d.de/) - Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. ([Code](https://github.com/Dav1dde/glad))

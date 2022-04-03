@@ -142,4 +142,4 @@
 - [Hal9](https://hal9.com/) - Bring Your Data to Life. ([Code](https://github.com/hal9ai/hal9ai))
 - [Bloxs](https://github.com/mljar/bloxs) - Display your data in an attractive way in your notebook.
 - [Dash Cytoscape](https://github.com/plotly/dash-cytoscape) - Dash component library for creating interactive and customizable networks in Python, wrapped around Cytoscape.js.
-- [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14) ([HN](https://news.ycombinator.com/item?id=30891230))
+- [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14) ([HN](https://news.ycombinator.com/item?id=30891230)) ([Code](https://github.com/johntellsall/shotglass))

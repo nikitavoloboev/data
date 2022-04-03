@@ -81,3 +81,4 @@ Is logical theory of computable functions.
 - [Lambda Calculus in 400 Bytes (2022)](https://justine.lol/lambda/) ([HN](https://news.ycombinator.com/item?id=30493713))
 - [seq](https://github.com/robrix/seq) - µµ̃ calculus with pretty-printing and evaluating interpreters.
 - [Lambda Calculus in JS](https://github.com/xieyuheng/lambda)
+- [minitt-rs](https://github.com/owo-lang/minitt-rs) - Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust.

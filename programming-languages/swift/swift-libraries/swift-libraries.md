@@ -265,6 +265,7 @@
 - [SimplyCoreAudio](https://github.com/rnine/SimplyCoreAudio) - Swift framework that aims to make Core Audio use less tedious in macOS.
 - [STTextView](https://github.com/krzyzanowskim/STTextView) - TextKit2 text view without NSTextView baggage.
 - [NSToolbar](https://github.com/marioaguzman/toolbar) - Programmatically constructing an NSToolbar (AppKit) for macOS.
+- [AppKitFocusOverlay](https://github.com/dagronf/AppKitFocusOverlay) - Add hotkey(s) to display the key focus path for any window in your AppKit application.
 
 ## Web
 
@@ -462,6 +463,8 @@
 - [UIPilot](https://github.com/canopas/UIPilot) - Typesafe SwiftUI navigation library. ([Reddit](https://www.reddit.com/r/iOSProgramming/comments/tei596/swiftui_complex_navigation_made_easier_with/))
 - [StatefulTabView](https://github.com/NicholasBellucci/StatefulTabView) - SwiftUI TabView that retains the state of each tab as well as some other goodies.
 - [SwiftTabler](https://github.com/openalloc/SwiftTabler) - Multi-platform SwiftUI component for tabular data.
+- [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - Lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only.
+- [ShapeUp](https://github.com/ryanlintott/ShapeUp) - Make shapes and cut corners in SwiftUI.
 
 ## Test
 

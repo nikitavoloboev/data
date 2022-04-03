@@ -754,3 +754,4 @@
 - [Randomized Smoothing of All Shapes and Sizes (2020)](https://decentdescent.org/rs4a1.html) ([Code](https://github.com/tonyduan/rs4a))
 - [Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems (2021)](https://arxiv.org/abs/2109.15142) ([Code](https://github.com/LCS2-IIITD/TransEvolve))
 - [Deep Maths - machine learning and mathematics (2022)](https://www.youtube.com/watch?v=wbJQTtjlM_w)
+- [Manim Machine Learning](https://github.com/helblazer811/ManimMachineLearning) - Focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.

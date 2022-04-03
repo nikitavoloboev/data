@@ -79,6 +79,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys.
 - [Serenity Tools](https://github.com/SerenityNotes/serenity-tools) - Collection of tools to build secure Apps.
+- [opaque-ts](https://github.com/cloudflare/opaque-ts) - TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol.
 
 ## Other
 
