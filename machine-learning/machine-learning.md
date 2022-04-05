@@ -755,3 +755,5 @@
 - [Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems (2021)](https://arxiv.org/abs/2109.15142) ([Code](https://github.com/LCS2-IIITD/TransEvolve))
 - [Deep Maths - machine learning and mathematics (2022)](https://www.youtube.com/watch?v=wbJQTtjlM_w)
 - [Manim Machine Learning](https://github.com/helblazer811/ManimMachineLearning) - Focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
+- [Anyscale](https://www.anyscale.com/) - Effortlessly develop, scale and deploy AI, at any scale. ([GitHub](https://github.com/anyscale))
+- [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting (2021)](https://arxiv.org/abs/2106.13008) ([Code](https://github.com/thuml/Autoformer))

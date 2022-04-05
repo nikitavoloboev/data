@@ -82,6 +82,7 @@
 - [NeuralAttentionlib.jl](https://github.com/chengchingwen/NeuralAttentionlib.jl) - Reusable functionality for defining custom attention/transformer layers.
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) - Surrogate modeling and optimization for scientific machine learning (SciML).
 - [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting in Julia.
+- [SimpleNeRF](https://github.com/rejuvyesh/SimpleNeRF.jl)
 
 ## Math
 
@@ -344,7 +345,7 @@
 - [BlockArrays.jl](https://github.com/JuliaArrays/BlockArrays.jl) - BlockArrays for Julia.
 - [InteractiveAudio](https://github.com/cduck/InteractiveAudio.jl) - Julia package to generate and play audio while dynamically changing the underlying code in real time.
 - [GFlops.jl](https://github.com/triscale-innov/GFlops.jl) - Estimate the absolute performance of a piece of Julia code.
-- [VectorizationBase](https://github.com/chriselrod/VectorizationBase.jl) - Library providing basic SIMD support in Julia.
+- [VectorizationBase](https://github.com/JuliaSIMD/VectorizationBase.jl) - Library providing basic SIMD support in Julia.
 - [InplaceOps.jl](https://github.com/simonbyrne/InplaceOps.jl) - Convenient macros for in-place matrix operations in Julia.
 - [PGFPlotsX](https://github.com/KristofferC/PGFPlotsX.jl) - Julia package to generate publication quality figures using the LaTeX library PGFPlots.
 - [AcceleratedArrays.jl](https://github.com/andyferris/AcceleratedArrays.jl) - Arrays with acceleration indices.

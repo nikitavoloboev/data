@@ -56,3 +56,4 @@ Here is a list of various things I track for my own use and reference.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool for the command line.
 - [Nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google.
 - [QuantifiedMe](https://github.com/ErikBjare/quantifiedme) - Loading and plotting of various Quantified Self data sources.
+- [klog](https://github.com/jotaen/klog) - Command line tool for time tracking in a human-readable, plain-text file format. ([Web](https://klog.jotaen.net/))

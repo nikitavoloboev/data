@@ -153,3 +153,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Compute@Edge default starter kit for AssemblyScript](https://github.com/fastly/compute-starter-kit-assemblyscript-default)
 - [Serverless Rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
 - [Serverless Framework Hexagonal Template](https://github.com/serverlesspolska/serverless-hexagonal-template)
+- [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast.

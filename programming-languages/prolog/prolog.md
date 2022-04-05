@@ -54,3 +54,4 @@
 - [50 Years of Prolog and Beyond (2022)](https://arxiv.org/abs/2201.10816) ([HN](https://news.ycombinator.com/item?id=30096930))
 - [Bringing Prolog to the masses](https://github.com/TheClause/learn-prolog)
 - [Marelle](https://github.com/larsyencken/marelle) - Test-driven system administration in SWI-Prolog, in the style of Babushka.
+- [A Tour of Prolog (2022)](https://www.youtube.com/watch?v=8XUutFBbUrg)

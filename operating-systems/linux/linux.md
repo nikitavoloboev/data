@@ -1,5 +1,7 @@
 # [Linux](https://github.com/torvalds/linux)
 
+[The Linux Programming Interface](https://man7.org/tlpi/) book seems nice so as the many resources [found here](https://twitter.com/bradfitz/status/1495066999587627011).
+
 ## Distributions
 
 - [Alpine Linux](https://www.alpinelinux.org/) - Security-oriented, lightweight Linux distribution based on musl libc and busybox. ([GitHub](https://github.com/alpinelinux))
@@ -85,7 +87,7 @@
 - [Linux distros without systemd (2019)](https://ungleich.ch/en-us/cms/blog/2019/05/20/linux-distros-without-systemd/) ([HN](https://news.ycombinator.com/item?id=19960165))
 - [Show HN: ZeroHTTPd: A web server to teach Linux performance, with benchmarks](https://unixism.net/2019/04/linux-applications-performance-introduction/) ([HN](https://news.ycombinator.com/item?id=20081488))
 - [The Definitive Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) ([HN](https://news.ycombinator.com/item?id=23668186))
-- [The Linux Programming Interface book (2010)](http://man7.org/tlpi/)
+- [The Linux Programming Interface](https://man7.org/tlpi/) - Detailed guide and reference for Linux and UNIX system programming.
 - [Karabinux](https://github.com/acheronfail/karabinux) - Attempt to port (as much as possible) the functionality of Karabiner Elements to Linux.
 - [syzkaller](https://github.com/google/syzkaller) - Unsupervised coverage-guided kernel fuzzer.
 - [What's the best approach to learn Linux and its internals? (2019)](https://lobste.rs/s/8qhpaa/what_s_best_approach_learn_linux_its)
@@ -503,3 +505,5 @@
 - [MyLFS](https://github.com/krglaws/MyLFS) - Bash script to build my own Linux distro based on LFS + BLFS. ([Reddit](https://www.reddit.com/r/linux/comments/tuq1p3/i_made_this_bash_script_to_build_linux_from/))
 - [Automated Linux From Scratch](https://www.linuxfromscratch.org/alfs/)
 - [Booster](https://github.com/anatol/booster) - Specially crafted small root filesystem that mounted at the early stages of Linux OS boot process.
+- [Boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor (TCP) for spawning reverse shells.
+- [How to diagnose a mysterious process that’s taking too much CPU, memory, IO, etc?](https://twitter.com/alexxubyte/status/1500881250201976832)

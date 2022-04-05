@@ -4,6 +4,8 @@ I use [Spark](https://sparkmailapp.com) email client connected to various [Gmail
 
 I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters) and unsubscribe from anything that brings no value and only adds noise.
 
+[gmailctl](https://github.com/mbrt/gmailctl) is a useful tool for setting up email filters.
+
 ## Notes
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)

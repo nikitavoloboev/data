@@ -101,3 +101,4 @@ I especially like the distinction of distributing content over distributing link
 - [Bacalhau](https://github.com/filecoin-project/bacalhau) - Compute over Data framework for IPFS & Filecoin.
 - [IPFS Only Hash](https://github.com/alanshaw/ipfs-only-hash) - Just enough code to calculate the IPFS hash for some data.
 - [is-ipfs](https://github.com/ipfs-shipyard/is-ipfs) - Set of utilities to help identify IPFS resources.
+- [Get started Building Web3 Apps with Cloudflare (2021)](https://blog.cloudflare.com/get-started-web3/)

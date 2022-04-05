@@ -4,6 +4,7 @@
 
 - [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)
 - [Energy can be converted to mass, and vice-versa. This is how nuclear power works: when a heavy nucleus breaks up into smaller parts, the sum of the parts is less massive than the original nucleus. That lost mass is actually contained in the kinetic energy of the particles, or in photons depending on the type of decay.](https://www.reddit.com/r/askscience/comments/b6g96g/do_black_holes_destroy_energy/)
+- [The more I study nuclear technology the more I think that every problem of today's nuclear tech has a potential solution that has already been identified. They just haven't been brought to market, because the market is sclerotic.](https://twitter.com/jasoncrawford/status/1397649744726413317)
 
 ## Links
 
@@ -57,3 +58,4 @@
 - [Controlling the nuclear fusion plasma in a tokamak with reinforcement learning (2022)](https://deepmind.com/blog/article/Accelerating-fusion-science-through-learned-plasma-control) ([HN](https://news.ycombinator.com/item?id=30379973))
 - [Nuclear War Survival Skills (1987)](http://oism.org/nwss/nwss.pdf) ([HN](https://news.ycombinator.com/item?id=30533432))
 - [Developers of small modular reactors hope their time has come (2022)](https://www.economist.com/science-and-technology/developers-of-small-modular-reactors-hope-their-time-has-come/21808321) ([HN](https://news.ycombinator.com/item?id=30787076))
+- [How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe (2022)](https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/) ([HN](https://news.ycombinator.com/item?id=30902890))

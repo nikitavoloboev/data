@@ -187,6 +187,8 @@
 - [Puget](https://github.com/greglook/puget) - Clojure library for printing Clojure and EDN values.
 - [utf8](https://github.com/pjstadig/utf8) - Byte vector backed, utf8 strings for Clojure.
 - [fast.csv](https://github.com/bsless/fast.csv) - Fast implementation of CSV writing in Clojure, for when you need to write big files fast.
+- [clojure.data.csv](https://github.com/clojure/data.csv) - CSV reader/writer to/from Clojure data structures.
+- [pretty](https://github.com/AvisoNovate/pretty) - Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions.
 
 ## Links
 

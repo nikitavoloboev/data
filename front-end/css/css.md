@@ -475,3 +475,4 @@ all: unset
 - [Load Config](https://github.com/postcss/postcss-load-config) - Autoload Config for PostCSS.
 - [CSS Contain and Content Visibility](https://github.com/push-based/css-contain-research)
 - [Microtip](https://microtip.vercel.app/) - Modern, minimal and accessible CSS tooptips. ([Code](https://github.com/ghosh/microtip))
+- [Avoiding layout shift by putting the CSS in charge (2021)](https://www.youtube.com/watch?v=7EKEav7Io5Y) ([Tweet](https://twitter.com/jaffathecake/status/1472857506087116801))

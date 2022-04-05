@@ -78,3 +78,4 @@
 - [Basics of the Unix Philosophy](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
 - [makeself](https://github.com/megastep/makeself) - Make self-extractable archives on Unix.
 - [Advanced Programming in the UNIX Environment](https://people.cs.nctu.edu.tw/~chuang/courses/unixprog/) ([Code](https://github.com/ss8651twtw/Unix-Programming))
+- [A Brief Introduction to termios (2009)](https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/)

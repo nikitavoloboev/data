@@ -20,3 +20,4 @@ I visualize topics and their relations as an [interactive mind map](https://my.m
 - [IOctopus](https://ioctopus.online/) - Online Mind mapping.
 - [JS Mind map](https://github.com/madhank93/js-mindmap)
 - [The Mind Map Book](https://www.2uo.de/Books/the-mind-map-book/) ([HN](https://news.ycombinator.com/item?id=30551922))
+- [Learn about Concept Maps](https://cmap.ihmc.us/docs/learn.php) ([HN](https://news.ycombinator.com/item?id=30903140))

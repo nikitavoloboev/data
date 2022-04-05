@@ -186,3 +186,4 @@
 - [Type-Theoretic Signatures for Algebraic Theories and Inductive Types](https://github.com/AndrasKovacs/thesis/blob/main/src/thesis.pdf)
 - [Usable type system for call by push-value](https://github.com/LightAndLight/cbpv)
 - [Type Theory Forall - #16 Agda, K Axiom, HoTT, Rewrite Theory (2022)](<https://www.typetheoryforall.com/2022/04/02/16-Agda,-K-Axiom,-HoTT,-Rewrite-Theory-(Jesper-Cockx).html#c359641b>)
+- [Why Don't More Languages Offer Flow Typing? (2022)](https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing) ([HN](https://news.ycombinator.com/item?id=30907178))

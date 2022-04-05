@@ -13,6 +13,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [Focal](https://github.com/grammarly/focal) - Type safe, expressive and composable state management for React applications.
 - [resso](https://github.com/nanxiaobei/resso) - Reactive shared store of React. No extra re-render.
 - [statin](https://github.com/tomasklaen/statin) - Simple and tiny reactive state library.
+- [Synergies](https://github.com/lukasbach/synergies) - Create a performant distributed context state by synergyzing atomar context pieces and composing reusable state logic.
 
 ## DB
 
@@ -175,7 +176,8 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [React Tidy](https://github.com/webNeat/react-tidy) - Collection of atomic, independent, typed, tested and documented React custom hooks.
 - [use-interactions](https://github.com/kitten/use-interactions) - Reusable and common web interactions with WCAG accessibility criteria for React.
 - [y-presence](https://github.com/nimeshnayaju/y-presence) - Easy way to add presence (live cursors/avatars) to any react application using react hooks.
-- [form-builder](https://github.com/zero-one-group/form-builder) - Lightweight react hook library to simplify approach in building formik form.
+- [form-builder](https://github.com/zero-one-group/form-builder) - Lightweight react hook library to simplify approach in building Formik form.
+- [usePortal](https://github.com/alex-cory/react-useportal) - React hook for Portals.
 
 ## Code
 

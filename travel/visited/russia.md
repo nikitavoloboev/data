@@ -71,6 +71,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - ["What were you given 10 years for?" – "For nothing!" – "Don't lie to us here, now! Everybody knows 'for nothing' is 3 years."](https://news.ycombinator.com/item?id=30542596)
 - [Если вы серьезно используете слово "нация" как объяснение каких-то психологических характеристик людей (даже положительных), живущих на одной территории или связанных родственники отношениями, то внутри вас есть ростки национализма или он сам](https://twitter.com/doctormongol/status/1504334709760929794)
 - [Свободный мир не понимает что требовать от россиян революции - это как требовать от заключённых зоны строгого режима скинуть охрану и самим себя освободить. И это не считая того, что половина зэков освобождаться не хочет.](https://twitter.com/exel_lence/status/1507984048613834757)
+- [Отдельно я конечно хуею с того, что все свои на 100% нацистские действия Россия гордо называет анти-нацистскими. Воистину, черное стало белым, и зрители телевизора не видят подвоха от слова совсем. Я думал, антиутопии преувеличивают, а оказывается, это буквально так рабоатет.](https://twitter.com/nikitonsky/status/1510976978748420096)
 
 ## Links
 
@@ -550,5 +551,8 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [How the Rus became the Russians, slavic history explained](https://www.youtube.com/watch?v=U_2h16AYMMQ)
 - [ЛЮДИ / НЕ ЛЮДИ](https://human-nonhuman.info/) - Знаменитости о войне в Украине.
 - [«Главный вопрос нашего поколения — не только о том, как нам оставаться достойными людьми при фашизме. Это вопрос, как нам объединяться» (2022)](https://meduza.io/feature/2022/04/01/glavnyy-vopros-nashego-pokoleniya-ne-tolko-o-tom-kak-nam-ostavatsya-dostoynymi-lyudmi-pri-fashizme-eto-vopros-kak-nam-ob-edinyatsya)
-- [“Russia cannot afford to lose, so we need a kind of a victory”: Sergey Karaganov on what Putin wants (2022)](https://www.newstatesman.com/world/europe/ukraine/2022/04/russia-cannot-afford-to-lose-so-we-need-a-kind-of-a-victory-sergey-karaganov-on-what-putin-wants) ([Tweet](https://twitter.com/nfergus/status/1510239889480069121))
+- [“Russia cannot afford to lose, so we need a kind of a victory”: Sergey Karaganov on what Putin wants (2022)](https://www.newstatesman.com/world/europe/ukraine/2022/04/russia-cannot-afford-to-lose-so-we-need-a-kind-of-a-victory-sergey-karaganov-on-what-putin-wants) ([Tweet](https://twitter.com/nfergus/status/1510239889480069121)) ([Tweet](https://twitter.com/TarasKuzio/status/1510725131949289472))
 - [Katyn - WWII's Forgotten Massacre](https://www.youtube.com/watch?v=f2djnWw751s)
+- [Ivan the Terrible terminates autonomy of Veliky Novgorod](https://twitter.com/EasyRid04682094/status/1510558112813666304)
+- [How can Russia become a normal European country?](https://www.reddit.com/r/neoliberal/comments/tvhprl/how_can_russia_become_a_normal_european_country/)
+- [У Русских картина мира иная, где Россия всегда жертва](https://twitter.com/levwalkin/status/1510827427106222084)

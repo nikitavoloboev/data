@@ -1,6 +1,6 @@
 # Embedded systems
 
-[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) is useful book.
+[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) is useful book. [TinyGo](https://github.com/tinygo-org/tinygo) is nice.
 
 ## Interesting chips
 
@@ -170,3 +170,4 @@
 - [Bytecode interpreters for tiny computers (2007)](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html) ([HN](https://news.ycombinator.com/item?id=30421621))
 - [Embedded Rust on Espressif Book](https://espressif-trainings.ferrous-systems.com/) ([Code](https://github.com/ferrous-systems/espressif-trainings))
 - [Jacdac](https://microsoft.github.io/jacdac-docs/) - Plug-and-Play for Microcontrollers. ([Code](https://github.com/microsoft/jacdac))
+- [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/) ([HN](https://news.ycombinator.com/item?id=30913359))

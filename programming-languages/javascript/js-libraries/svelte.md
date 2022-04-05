@@ -209,3 +209,5 @@
 - [Svelte Material UI](https://sveltematerialui.com/) ([Code](https://github.com/hperrin/svelte-material-ui))
 - [SvelteUI](https://github.com/Brisklemonade/svelteui) - Component library for building fully functional & accessible web applications.
 - [Svelte Writable Derived](https://github.com/PixievoltNo1/svelte-writable-derived) - Two-way data-transforming stores for Svelte.
+- [Awesome SvelteKit](https://github.com/one-aalam/awesome-svelte-kit)
+- [Made with Svelte](https://madewithsvelte.com/)

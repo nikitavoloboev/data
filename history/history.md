@@ -189,3 +189,5 @@
 - [Best books written by WW1 and WW2 veterans](https://www.reddit.com/r/suggestmeabook/comments/tklohp/what_are_the_best_books_written_by_ww1_and_ww2/)
 - [Alfred Eisenstaedt BBC Master Photographers (1983)](https://www.youtube.com/watch?v=xdfOo4yh6c0)
 - [The British Empire Was Much Worse Than You Realize (2022)](https://www.newyorker.com/magazine/2022/04/04/the-british-empire-was-much-worse-than-you-realize-caroline-elkinss-legacy-of-violence) ([HN](https://news.ycombinator.com/item?id=30836606))
+- [When Mongols Set Out to Conquer the World, There Was One Limiting Factor: Grass](https://www.historynet.com/mongols-on-the-march-the-logistics-of-grass/) ([HN](https://news.ycombinator.com/item?id=30886110))
+- [A fresh take on why Octavian won the war against Antony and Cleopatra (2022)](https://arstechnica.com/gaming/2022/04/a-fresh-take-on-why-octavian-won-the-war-against-antony-and-cleopatra/)

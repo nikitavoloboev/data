@@ -750,3 +750,6 @@
 - [Futures Nostalgia (2022)](https://fasterthanli.me/articles/futures-nostalgia) ([Reddit](https://www.reddit.com/r/rust/comments/tv0f37/future_nostalgia/))
 - [Arenas and Rust (2021)](https://blog.reverberate.org/2021/12/19/arenas-and-rust.html)
 - [Do you prefer functional programming style when using rust? (2022)](https://www.reddit.com/r/rust/comments/tv8spd/do_you_guys_prefer_functional_programming_style/)
+- [Understanding the Strategy Pattern](https://asthasr.github.io/posts/understanding-strategy-pattern/) ([Lobsters](https://lobste.rs/s/25gi0x/understanding_strategy_pattern))
+- [What is your favorite Rust specific feature that you miss in other languages? (2022)](https://www.reddit.com/r/rust/comments/tvppqz/what_is_your_favourite_rust_specific_feature_that/)
+- [Myths and Legends about Integer Overflow in Rust (2016)](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/) ([Lobsters](https://lobste.rs/s/k1zxi1/myths_legends_about_integer_overflow))

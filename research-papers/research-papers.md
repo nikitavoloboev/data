@@ -174,3 +174,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [The arXiv of the future will not look like the arXiv (2022)](https://ar5iv.labs.arxiv.org/html/1709.07020) ([HN](https://news.ycombinator.com/item?id=30834395))
 - [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 - [arxiv-collector](https://github.com/djsutherland/arxiv-collector) - Little Python script to collect LaTeX sources for upload to the arXiv.
+- [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Plugin that will automatically download PDFs of zotero items from sci-hub.
+- [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs.

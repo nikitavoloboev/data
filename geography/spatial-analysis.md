@@ -169,3 +169,7 @@
 - [tippecanoe](https://github.com/protomaps/tippecanoe) - Builds vector tilesets from large (or small) collections of GeoJSON, FlatGeobuf, or CSV features.
 - [Making a maps app from scratch](https://twitter.com/jsngr/status/1508557309538017280)
 - [tile-cover](https://github.com/mapbox/tile-cover) - Generate the minimum number of tiles to cover a GeoJSON geometry.
+- [Awesome Earth Observation Code](https://github.com/acgeospatial/awesome-earthobservation-code)
+- [Shareloc](https://github.com/CNES/shareloc) - Simple remote sensing geometric library.
+- [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native) - C++ library that powers customizable vector maps in native applications on multiple platforms.
+- [StaticMaps-gl](https://github.com/trailbehind/StaticMaps-gl) - Static map rendering with mapbox-gl.

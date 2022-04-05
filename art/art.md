@@ -211,6 +211,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Raoul Marks](https://www.instagram.com/raoul_marks/) ([Web](http://www.raoulmarks.com/))
 - [Zi Xu](https://www.zixu.co/)
+- [Claude Monet](https://twitter.com/artistmonet)
 - [Jackie Ferrentino](https://jackieferrentino.com/) ([IG](https://www.instagram.com/hullojackie/))
 - [Michael Kozlowski](https://www.instagram.com/mpkoz/)
 - [Alice Zhang](https://www.instagram.com/alicexz/)
@@ -512,3 +513,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tolkien's Paintings](https://www.tolkienestate.com/painting/) ([HN](https://news.ycombinator.com/item?id=30764886))
 - [Who is your favorite artist working today?](https://twitter.com/natfriedman/status/1507751018578079745)
 - [Metropolitan Museum Of Art](https://metmuseum.vercel.app/) ([Code](https://github.com/r1/MET))
+- [UbuWeb](https://www.ubu.com/) - Library consisting of hundreds of thousands of freely downloadable avant-garde artifacts.

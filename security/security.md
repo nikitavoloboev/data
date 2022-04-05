@@ -220,7 +220,8 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Nym Privacy Platform](https://github.com/nymtech/nym) - Provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials. ([Web](https://nymtech.net/))
 - [Living Off Trusted Sites](https://lots-project.com/) - List of legitimate domains that can be abused by attackers. ([Tweet](https://twitter.com/mrd0x/status/1459210707321380874))
 - [I hate password rules (2021)](https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html) ([HN](https://news.ycombinator.com/item?id=29239587))
-- [trufflehog3](https://github.com/feeltheajf/trufflehog3) - Find secrets in your codebase.
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place. ([Web](https://trufflesecurity.com/))
+- [trufflehog3](https://github.com/feeltheajf/trufflehog3) - Enhanced version of the truffleHog scanner.
 - [Accidentally a hacker (2020)](https://www.vladionescu.me/posts/how-i-became-a-hacker/)
 - [How Monzo protects its most sensitive secrets from the most determined attackers (2021)](https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets) ([HN](https://news.ycombinator.com/item?id=29265760))
 - [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
@@ -273,6 +274,7 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [bom (Bill of Materials)](https://github.com/kubernetes-sigs/bom) - Create SPDX-compliant Bill of Materials.
 - [OSSF Security Tooling](https://github.com/ossf/wg-security-tooling)
 - [EnvKey](https://www.envkey.com/) - End-To-End Encrypted Environments. ([Code](https://github.com/envkey/envkey))
-- [How we secure Monzo’s banking platform (2022)](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform)
+- [How we secure Monzo’s banking platform (2022)](https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform) ([HN](https://news.ycombinator.com/item?id=30876527))
 - [relic](https://github.com/sassoftware/relic) - Multi-tool and server for package signing and working with hardware security modules (HSMs).
 - [Trickest](https://trickest.com/) - Workflow-powered solution for Bug Bounty, Pentesting, SecOps.
+- [Secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.

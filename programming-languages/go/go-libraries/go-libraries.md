@@ -130,6 +130,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Web
 
+- [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
 - [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
@@ -168,7 +169,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
-- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate))
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/))
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
@@ -301,6 +302,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-ipam](https://github.com/metal-stack/go-ipam) - Module to handle IP address management. It can operate on networks, prefixes and IPs.
 - [Extemplate](https://github.com/dannyvankooten/extemplate) - Wrapper package for Go's template/html to allow for easy file-based template inheritance.
 - [echo-swagger](https://github.com/swaggo/echo-swagger) - Echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
+- [Go Seamless Restart](https://github.com/rs/seamless) - Seamless restart / zero-downtime deploy for Go servers.
 
 ## GraphQL
 
@@ -450,6 +452,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [agecache](https://github.com/segmentio/agecache) - LRU cache with support for max age.
 - [chartmuseum/storage](https://github.com/chartmuseum/storage) - Go library providing a common interface for working across multiple storage backends.
 - [go-blockservice](https://github.com/ipfs/go-blockservice) - Seamless interface to both local and remote storage backends.
+- [GORM Data Types](https://github.com/go-gorm/datatypes)
+- [sqlite](https://gitlab.com/cznic/sqlite) - CGo-free port of SQLite.
 
 ## ML
 
@@ -1498,6 +1502,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gcfg](https://github.com/go-gcfg/gcfg) - Read INI-style configuration files into Go structs; supports user-defined types and subsections.
 - [radar](https://github.com/thedevsaddam/radar) - Help to debug nested function call and Trace current file/line.
 - [Sture](https://github.com/HotPotatoC/sture) - Collection of data structures based on Go 1.18+ Generics (Stack, Queue, Linked List, etc.).
+- [MessagePack](https://github.com/shamaton/msgpack) - Easier, faster, but extendable MessagePack Serializer for Go.
+- [IceCream-Go](https://github.com/WAY29/icecream-go) - Go port of Python's IceCream. Makes print debugging a little sweeter.
+- [Go Data Structures](https://github.com/nsnikhil/go-datastructures) - Port/build well known and commonly used data structures to Go.
 
 ## Links
 

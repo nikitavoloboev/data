@@ -132,3 +132,4 @@
 - [Vue Composable Starter](https://github.com/Tahul/vue-composable-starter) - Minimalist starting point for your next Vue 3 composable.
 - [Blitzar](https://github.com/CyCraft/blitzar) - Generate Vue Forms and Data-tables fast with a simple JSON-like syntax.
 - [Magnetar](https://github.com/CyCraft/magnetar) - Framework-agnostic syncing solution that auto-connects any DB/API with your local data store and has optimistic-UI built in.
+- [Quasar Framework](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time. ([Web](https://quasar.dev/))

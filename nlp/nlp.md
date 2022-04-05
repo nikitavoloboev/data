@@ -516,3 +516,7 @@
 - [Classy Classification](https://github.com/Pandora-Intelligence/classy-classification) - Easy and intuitive approach to few-shot classification using sentence-transformers or spaCy models, or zero-shot classificaiton with Huggingface.
 - [Sphere](https://github.com/facebookresearch/Sphere) - Web-scale retrieval for knowledge-intensive NLP.
 - [muTransformers](https://github.com/microsoft/mutransformers) - Common Huggingface transformers in maximal update parametrization (µP).
+- [Event Extraction papers](https://github.com/BaptisteBlouin/EventExtractionPapers) - List of NLP resources focused on event extraction task.
+- [Summarization Papers](https://github.com/xcfcode/Summarization-Papers)
+- [GLID-3](https://github.com/Jack000/glid-3) - Combination of OpenAI GLIDE, Latent Diffusion and CLIP.
+- [Optimum Transformers](https://github.com/AlekseyKorshuk/optimum-transformers) - Accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime.

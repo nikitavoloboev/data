@@ -160,3 +160,4 @@
 - [twprs](https://github.com/travisbrown/twprs) - Twitter profile tools for Rust.
 - [How to Download Twitter Spaces That Aren't Yours](https://www.swyx.io/download-twitter-spaces/)
 - [Bookmarks lookup and Notion](https://github.com/twitterdev/Bookmarks-Notion-Notebook) ([Tweet](https://twitter.com/suhemparack/status/1507100523534565376))
+- [Jack Dorsey has regrets about building Twitter (2022)](https://twitter.com/jack/status/1510314535671922689) ([HN](https://news.ycombinator.com/item?id=30899950))

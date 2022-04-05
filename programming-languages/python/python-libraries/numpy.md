@@ -29,3 +29,4 @@
 - [numpy-stl](https://github.com/WoLpH/numpy-stl) - Simple library to make working with STL files (and 3D objects in general) fast and easy.
 - [libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files.
 - [NumS](https://github.com/nums-project/nums) - Library that translates Python and NumPy to optimized distributed systems code.
+- [Differentiable Neural Computer in Numpy](https://github.com/krocki/dnc) - Simple RNN, LSTM and Differentiable Neural Computer in pure Numpy.

@@ -28,6 +28,8 @@
 - [Louis CK - On Dating - Men the number one threat to women](https://www.youtube.com/watch?v=yRzs7v0do_Q)
 - [Too Old for Drugs](https://www.youtube.com/watch?v=l_8PPLd1P3o)
 - [Louis CK - being broke](https://www.youtube.com/watch?v=Y_-1l_SlA7c)
+- [Louis.C.K. - dating at 45](https://www.youtube.com/watch?v=8njkM84Hp9c)
+- [Sincerely Louis CK](https://www.youtube.com/watch?v=LOS9KB2qoRI)
 
 ## Links
 
@@ -38,3 +40,4 @@
 - [Which British comedian do you absolutely love and why? (2021)](https://www.reddit.com/r/AskUK/comments/r13ghh/which_british_comedian_do_you_absolutely_love_and/)
 - [Уроки Юмора - YouTube](https://www.youtube.com/playlist?list=PL070gAGePM0uYM_UxxMYWVYFHAZOjRweo)
 - [Greatest standup bits of all-time (2022)](https://www.reddit.com/r/Standup/comments/ttwekb/greatest_bits_of_alltime/)
+- [What's your favorite stand-up comedy bit of all time? (2022)](https://twitter.com/brad_frost/status/1509858744469016577)

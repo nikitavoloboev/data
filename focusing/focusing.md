@@ -110,3 +110,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: Have OCD, suffering from extreme procrastination, please help? (2022)](https://news.ycombinator.com/item?id=30313215)
 - [Ask HN: Any scientifically proven techniques to boost concentration? (2022)](https://news.ycombinator.com/item?id=30473322)
 - [How to Do Less (2022)](https://alexturek.com/2022-03-07-How-to-do-less/) ([HN](https://news.ycombinator.com/item?id=30642596))
+- [Ask HN: How do I develop focus? (2022)](https://news.ycombinator.com/item?id=30905620)

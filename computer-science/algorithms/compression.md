@@ -111,3 +111,5 @@
 - [QOI — The Quite OK Image Format](https://qoiformat.org/) ([HN](https://news.ycombinator.com/item?id=30885668))
 - [littleZip](https://github.com/Nexxkinn/littleZip) - Memory-friendly basic zip compression, decompression, and single file extraction for deno framework.
 - [Libarchivejs](https://github.com/nika-begiashvili/libarchivejs) - Archive tool for browser which can extract various types of compression.
+- [lz4dec](https://github.com/Siguza/lz4dec) - LZ4 block decompressor written in arm64 assembly.
+- [Packing Bits For Compression (2022)](https://www.youtube.com/watch?v=74co_YG39Bw)

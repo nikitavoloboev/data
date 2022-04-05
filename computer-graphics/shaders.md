@@ -74,3 +74,4 @@
 - [Wombat](https://github.com/BrianSharpe/Wombat) - Efficient texture-free GLSL procedural noise library.
 - [Shaderity](https://github.com/actnwit/shaderity) - Useful shader toolset.
 - [Rendering Point Clouds with Compute Shaders](https://github.com/m-schuetz/compute_rasterizer)
+- [Visualizing Complex Numbers Using GLSL (2022)](https://hturan.com/writing/complex-numbers-glsl)

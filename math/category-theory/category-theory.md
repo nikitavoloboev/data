@@ -153,6 +153,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory Applied to Functional Programming](https://jpvillaisaza.co/cain/cain.pdf) ([Code](https://github.com/jpvillaisaza/cain))
 - [Understanding Visualization: A Formal Approach using Category Theory and Semiotics (2013)](https://arxiv.org/abs/1311.4376)
 - [With Category Theory, Mathematics Escapes from Equality (2019)](https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/) ([HN](https://news.ycombinator.com/item?id=30809385))
+- [Category theory diagram](https://github.com/Nertsal/categories) - Implements some basic Category theory in the form of a diagram with the intention to help to visualize and understand the concepts in Category theory.
 
 ## Images
 

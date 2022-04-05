@@ -199,7 +199,7 @@
 - [React Native Interactive Walkthrough](https://github.com/tribefyhq/react-native-interactive-walkthrough)
 - [Deep dive into React Native JSI (2022)](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06)
 - [React Native Toast Message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native.
-- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100)) ([Tweet](https://twitter.com/FernandoTheRojo/status/1503457235929862154))
+- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100)) ([Tweet](https://twitter.com/FernandoTheRojo/status/1503457235929862154)) ([Example App Code](https://github.com/marklawlor/solito-tailwind))
 - [An update on the New Architecture Rollout (2022)](https://reactnative.dev/blog/2022/03/15/an-update-on-the-new-architecture-rollout)
 - [React Native Image Modal](https://github.com/dev-yakuza/react-native-image-modal)
 - [Avoid Keyboard in React Native Like a Pro](https://www.netguru.com/blog/avoid-keyboard-react-native) ([Tweet](https://twitter.com/sebastienlorber/status/1504027856854306816))
@@ -214,3 +214,5 @@
 - [React Native OneSignal SDK](https://github.com/OneSignal/react-native-onesignal) - Free email, sms, push notification, and in-app message service for mobile apps. ([Expo Plugin](https://onesignal.com/blog/our-onesignal-expo-plugin-is-now-available/))
 - [React Native New Architecture Library Samples](https://github.com/cipolleschi/RNNewArchitectureLibraries) - Collection of sample React Native Libraries that will show you how to use the New Architecture (Fabric & TurboModules) step-by-step.
 - [Electrode Native](https://github.com/electrode-io/electrode-native) - Platform to ease integration&delivery of React Native apps in existing mobile applications.
+- [React Native Push Notification API for iOS](https://github.com/react-native-push-notification/ios)
+- [TailwindCSS React Native](https://github.com/marklawlor/tailwindcss-react-native)

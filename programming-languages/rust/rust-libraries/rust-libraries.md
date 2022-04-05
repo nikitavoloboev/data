@@ -62,6 +62,7 @@
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter)) ([HN](https://news.ycombinator.com/item?id=30470809)) ([Reddit](https://www.reddit.com/r/rust/comments/t1bim5/announcing_actix_web_v40/))
 - [actix-web-flash-messages](https://github.com/LukeMathWalker/actix-web-flash-messages) - Flash messages for actix-web.
+- [actix-web-grants](https://github.com/DDtKey/actix-web-grants) - Authorization extension for actix-web to validate user permissions.
 - [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) - Structured diagnostics for actix-web applications.
 - [actix-web-lab](https://github.com/robjtede/actix-web-lab) - Experimental extractors, middleware, and other extras for possible inclusion in Actix Web.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
@@ -328,6 +329,7 @@
 - [vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
 - [Graphics](https://github.com/PistonDevelopers/graphics) - Library for 2D graphics, written in Rust, that works with multiple back-ends.
 - [Planetarium](https://github.com/ravenexp/planetarium) - Sub-pixel precision light spot rendering library for astronomy and video tracking applications.
+- [piet-metal](https://github.com/linebender/piet-metal) - Experimental Metal-based GPU renderer for piet 2D graphics.
 
 ## Games
 
@@ -484,6 +486,7 @@
 - [vHost](https://github.com/rust-vmm/vhost) - Pure rust library for vDPA, vhost and vhost-user.
 - [caps](https://github.com/lucab/caps-rs) - Pure-Rust library to work with Linux capabilities.
 - [InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and emulating inputs.
+- [daemonize-me](https://github.com/DarthUdp/daemonize-me) - Rust library to ease the task of creating daemons.
 
 ## Embedded
 
@@ -501,6 +504,7 @@
 - [esp-hal](https://github.com/esp-rs/esp-hal) - Experimental no_std HAL targeting ESP devices.
 - [assert_no_alloc](https://github.com/Windfisch/rust-assert-no-alloc) - Custom Rust allocator allowing to temporarily disable memory (de)allocations for a thread. Aborts or prints a warning if allocating although forbidden.
 - [defmt-bbq](https://github.com/jamesmunns/defmt-bbq) - Highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+- [nrf-softdevice](https://github.com/embassy-rs/nrf-softdevice) - Rust bindings for Nordic Semiconductor nRF series SoftDevices.
 
 ## ML
 
@@ -623,6 +627,7 @@
 - [sprs](https://github.com/vbarrielle/sprs) - Sparse linear algebra library for rust.
 - [Mathbox](https://github.com/freedeaths/mathbox-rs) - Collection of math tools for Rust.
 - [geometry-predicates](https://github.com/elrnv/geometry-predicates-rs) - Rust solution to efficient exact geometry predicates used widely for computational geometry.
+- [meval](https://github.com/rekka/meval-rs) - Math expression parser and evaluation library for Rust.
 
 ## Other
 
@@ -1674,6 +1679,7 @@
 - [stacker](https://github.com/rust-lang/stacker) - Manual segmented stacks for Rust.
 - [tokenizations](https://github.com/explosion/tokenizations) - Robust and Fast tokenizations alignment library for Rust and Python.
 - [systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information/statistics.
+- [Symbolic Stack Machines](https://github.com/WilfredTA/symbolic-stack-machines) - Library for implementing symbolically executable stack-based virtual machines.
 
 ## Cargo Plugins
 
@@ -1848,3 +1854,4 @@
 - [Nice ways to parse & get data from JSON](https://www.reddit.com/r/rust/comments/ttomov/is_there_a_prettier_way_to_parse_get_data_from/)
 - [rust-audit](https://github.com/Shnatsel/rust-audit) - Make production Rust binaries auditable.
 - [Are we GUI yet?](http://www.areweguiyet.com/) - State of building user interfaces in Rust. ([Code](https://github.com/areweguiyet/areweguiyet))
+- [A Rust web server / frontend setup like it's 2022 (with axum and yew)](https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/) ([Reddit](https://www.reddit.com/r/rust/comments/tvqlhd/a_rust_server_frontend_setup_like_its_2022_with/))

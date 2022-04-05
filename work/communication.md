@@ -177,3 +177,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ask HN: If you used to be socially awkward and shy, how did you improve? (2022)](https://news.ycombinator.com/item?id=30814248)
 - [Epistemic legibility: being easy to argue with is a virtue (2022)](https://acesounderglass.com/2022/02/07/epistemic-legibility/) ([HN](https://news.ycombinator.com/item?id=30802349))
 - [The phones of Ukrainian president Zelensky (2022)](https://www.electrospaces.net/2022/03/the-phones-of-ukrainian-president.html) ([HN](https://news.ycombinator.com/item?id=30840029))
+- [If you could only ask one single question of everyone you meet from now on, what would you ask?](https://twitter.com/patrick_oshag/status/1510583155597709314)

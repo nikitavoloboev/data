@@ -120,7 +120,7 @@
 - [Irydium](https://github.com/irydium/irydium) - Interactive documents and data visualizations in markdown. ([Web](https://irydium.dev/))
 - [Data Visualization: attribute types and their graphical elements (2021)](https://robertodip.com/blog/data-visualization-marks-and-channels/)
 - [Mermaid Live Editor](https://mermaid.live/) - Online FlowChart & Diagrams Editor. ([Code](https://github.com/mermaid-js/mermaid-live-editor))
-- [Percival](https://github.com/ekzhang/percival) - Declarative data query and visualization language.
+- [Percival](https://github.com/ekzhang/percival) - Declarative data query and visualization language. ([Web](https://percival.ink/))
 - [Ask HN: What is the best book on data visualization in 2021?](https://news.ycombinator.com/item?id=29457470)
 - [Plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash. ([Docs](https://plotly.com/javascript/))
 - [Data Commons](https://datacommons.org/) - Aggregates data from a wide range of sources into a unified database to make it more accessible and useful.

@@ -42,3 +42,4 @@
 - [Surfboard](https://sfbd.is/) - CodeSandbox for Arduino.
 - [Arduino Library Manager list](https://github.com/arduino/library-registry)
 - [Arduino Cryptography Library](https://github.com/rweather/arduinolibs)
+- [Sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos.

@@ -15,6 +15,7 @@
 - [ANSITerminal](https://github.com/pakLebah/ANSITerminal) - Swift library to access features of ANSI terminal on Unixes console (Linux and Mac).
 - [CLISpinner](https://github.com/kiliankoe/CLISpinner) - 60+ spinners for use in the terminal.
 - [Chalk](https://github.com/mxcl/Chalk) - Terminal colors using Swift 5’s string interpolation extensions.
+- [Motor](https://github.com/flintprocessor/Motor) - Swift cli spinner. Simple and fully customizable.
 
 ## Animation
 
@@ -246,6 +247,7 @@
 - [ZLImageEditor](https://github.com/longitachi/ZLImageEditor) - Powerful image editor framework. Supports graffiti, cropping, mosaic, text stickers, image stickers, filters.
 - [TouchInspector](https://github.com/jtrivedi/TouchInspector) - Drop-in package that helps you visualize and debug touches on iOS and iPadOS.
 - [SwiftAlertView](https://github.com/dinhquan/SwiftAlertView) - Powerful AlertView library written in Swift.
+- [WebViewKit](https://github.com/danielsaidi/WebViewKit) - Adds a WebView to SwiftUI.
 
 ## macOS
 
@@ -309,6 +311,7 @@
 - [DocumentID](https://github.com/1amageek/DocumentID) - FirebaseFirestoreSwift's library for lightweight use of DocumentIDs in SwiftUI.
 - [Albatross](https://github.com/kevinzhow/albatross) - Swift webhook handler which designed to translate and forward Github Webhook to Other Webhook.
 - [HTMLString](https://github.com/alexisakers/HTMLString) - Escape and unescape HTML entities in Swift.
+- [Socket](https://github.com/PureSwift/Socket) - Swift async/await based socket.
 
 ## SwiftUI
 
@@ -1048,6 +1051,7 @@
 - [Expression](https://github.com/nicklockwood/Expression) - Cross-platform Swift library for evaluating mathematical expressions at runtime.
 - [Flow](https://github.com/danielctull-playground/Flow) - Type built on Swift concurrency which can be chained like AsyncSequence or a Combine Publisher with the guarantee that only one value will come through the chain.
 - [DictionaryBuilder](https://github.com/spacenation/swift-dictionary-builder) - Dictionary result builder for Swift.
+- [Inject](https://github.com/krzysztofzablocki/Inject) - Hot reloading workflow helper that enables you to save hours of time each week, regardless if you are using UIKit, AppKit or SwiftUI.
 
 ## Other (not lib)
 
@@ -1103,3 +1107,6 @@
 - [OSLog and Unified logging as recommended by Apple (2020)](https://www.avanderlee.com/debugging/oslog-unified-logging/)
 - [Exploring MusicKit (2022)](https://rudrank.gumroad.com/l/musickit/early)
 - [Layout Framework Benchmark](https://github.com/layoutBox/LayoutFrameworkBenchmark) - Benchmark the performances of various Swift layout frameworks (autolayout, UIStackView, PinLayout, LayoutKit, FlexLayout, Yoga, ...).
+- [CloudKit Samples: Queries](https://github.com/apple/cloudkit-sample-queries)
+- [CloudKit Samples: Core Data with CloudKit](https://github.com/apple/cloudkit-sample-coredatasync)
+- [Swift Sample Distributed Actors Transport](https://github.com/apple/swift-sample-distributed-actors-transport)

@@ -51,3 +51,4 @@
 - [eslint-config-typed-fp](https://github.com/danielnixon/eslint-config-typed-fp) - Opinionated ESLint config to encourage pure(ish), typeful functional programming in TypeScript.
 - [ESLint Interactive](https://github.com/mizdra/eslint-interactive) - CLI tool to fix huge number of ESLint errors.
 - [Anthony Fu's Eslint config](https://github.com/antfu/eslint-config)
+- [eslint-plugin-d](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Now with CI support.

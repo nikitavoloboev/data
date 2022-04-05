@@ -75,6 +75,7 @@
 ## Math
 
 - [arithmoi](https://github.com/Bodigrim/arithmoi) - Number theory: primes, arithmetic functions, modular computations, special sequences.
+- [vector-sized](https://github.com/expipiplus1/vector-sized) - Exports a newtype tagging the vectors from the vector package with a type-level natural representing their size.
 
 ## Crypto
 
@@ -274,6 +275,7 @@
 - [eliminators](https://github.com/RyanGlScott/eliminators) - Dependently typed elimination functions using singletons.
 - [typed-process](https://github.com/fpco/typed-process) - Alternative API for processes, featuring more type safety.
 - [text](https://github.com/haskell/text) - Library for space- and time-efficient operations over Unicode text.
+- [eff](https://github.com/lexi-lambda/eff) - Implementation of an extensible effect system for Haskell. ([Effect semantics zoo](https://github.com/lexi-lambda/eff/blob/master/notes/semantics-zoo.md)) ([Reddit](https://www.reddit.com/r/haskell/comments/tvrx4r/the_effect_system_semantics_zoo/))
 
 ## Notes
 

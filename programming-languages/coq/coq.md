@@ -133,3 +133,4 @@
 - [Falso](https://github.com/clarus/falso) - Proof of false in Coq. ([HN](https://news.ycombinator.com/item?id=9259790))
 - [ChickBlog](https://github.com/clarus/coq-chick-blog) - Blog engine written and proven in Coq.
 - [Practical Aspects of Monadic Equational Reasoning in Coq (2022)](https://prg.is.titech.ac.jp/wp-content/uploads/2022/03/saito2022ppl.pdf)
+- [Making Weak Memory Models Fair using Coq](https://github.com/weakmemory/fairness)

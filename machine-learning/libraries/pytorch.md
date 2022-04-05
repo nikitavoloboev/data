@@ -155,7 +155,7 @@
 - [PyTorch Loss Functions: Guide (2020)](https://neptune.ai/blog/pytorch-loss-functions)
 - [David's Tips on How to Read PyTorch](https://github.com/davidbau/how-to-read-pytorch)
 - [MeshCNN in PyTorch](https://github.com/ranahanocka/MeshCNN) - General-purpose deep neural network for 3D triangular meshes, which can be used for tasks such as 3D shape classification or segmentation.
-- [tinygrad](https://github.com/geohot/tinygrad) - Something in between a PyTorch and a karpathy/micrograd. ([tinygrad: tiny efficientnet is recognize cat?](https://www.youtube.com/watch?v=BFqQpBlkX74))
+- [tinygrad](https://github.com/geohot/tinygrad) - Something in between a PyTorch and a karpathy/micrograd. ([tinygrad: tiny efficientnet is recognize cat?](https://www.youtube.com/watch?v=BFqQpBlkX74)) ([HN](https://news.ycombinator.com/item?id=30909719))
 - [Lucent](https://github.com/greentfrapp/lucent) - Lucid library adapted for PyTorch.
 - [pytorch-pfn-extras](https://github.com/pfnet/pytorch-pfn-extras) - Supplementary components to accelerate research and development in PyTorch.
 - [PyHessian](https://github.com/amirgholami/PyHessian) - PyTorch library for second-order based analysis and training of Neural Networks.
@@ -365,3 +365,6 @@
 - [baukit](https://github.com/davidbau/baukit) - Kit of David's secret tools to help with productive research prototyping with PyTorch.
 - [Cyclemoid PyTorch](https://github.com/rasbt/cyclemoid-pytorch) - Implementation of the cyclemoid activation function for PyTorch.
 - [Graph Embedding](https://github.com/zyx423/Graph-Embeddding) - Reimplementation of Graph Embedding methods by PyTorch.
+- [Distributed PyTorch Lightning Training on Ray](https://github.com/ray-project/ray_lightning)
+- [Lightning Pose](https://github.com/danbider/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised convolutional networks.
+- [Disent](https://github.com/nmichlo/disent) - Modular VAE disentanglement framework for python built with PyTorch Lightning.

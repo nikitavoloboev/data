@@ -240,6 +240,7 @@
 - [pytest-parallel](https://github.com/browsertron/pytest-parallel) - Pytest plugin for parallel and concurrent testing.
 - [pytest_httpserver](https://github.com/csernazs/pytest-httpserver) - HTTP server for pytest.
 - [testing.postgresql](https://github.com/tk0miya/testing.postgresql) - Automatically setups a postgresql instance in a temporary directory, and destroys it after testing.
+- [pytest-insta](https://github.com/vberlier/pytest-insta) - Practical snapshot testing plugin for pytest.
 
 ## Error
 
@@ -794,6 +795,13 @@
 - [aiometer](https://github.com/florimondmanca/aiometer) - Python concurrency scheduling library, compatible with asyncio and trio.
 - [tune-sklearn](https://github.com/ray-project/tune-sklearn) - Drop-in replacement for Scikit-Learn’s model selection module (GridSearchCV, RandomizedSearchCV) with cutting edge hyperparameter tuning techniques.
 - [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers.
+- [PILKit](https://github.com/matthewwithanm/pilkit) - Utilities and processors built for, and on top of PIL.
+- [Instakit](https://github.com/fish2000/instakit) - Image processors and filters for use with ImageKit.
+- [async-stripe](https://github.com/bhch/async-stripe) - Asynchronous wrapper around Stripe's official python library.
+- [lox](https://github.com/BrianPugh/lox) - Threading and multiprocessing made easy.
+- [pydags](https://github.com/DavidTorpey/pydags) - Simple, lightweight, extensible DAG framework for Python with a Kubeflow-like API.
+- [spaudiopy](https://github.com/chris-hld/spaudiopy) - Spatial Audio Python Package.
+- [Arroyo](https://github.com/getsentry/arroyo) - Python library for working with streaming data.
 
 ## Links
 

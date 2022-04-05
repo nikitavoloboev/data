@@ -36,3 +36,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [Securely Yours, Love Password Managers (2021)](https://cyberlit.co/blog/securely-yours-love-password-managers) ([HN](https://news.ycombinator.com/item?id=30635676))
 - [SSH and Git, meet 1Password (2022)](https://blog.1password.com/1password-ssh-agent/)
 - [1Password Developer Tools](https://1password.com/developers/)
+- [Securely publish npm packages with 1Password](https://twitter.com/erikras/status/1493896963733041153)

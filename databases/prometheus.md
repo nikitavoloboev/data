@@ -69,3 +69,4 @@
 - [Grafana Mimir](https://grafana.com/oss/mimir/) - Horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. ([Code](https://github.com/grafana/mimir)) ([HN](https://news.ycombinator.com/item?id=30854734))
 
 - [Prometheus SQL Exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
+- [prometheus-web](https://github.com/marigold-dev/prometheus-web) - Helpers to use the prometheus library with different web frameworks.

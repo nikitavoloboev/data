@@ -70,3 +70,4 @@
 - [Avoiding the Top Nginx Configuration Mistakes (2022)](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 - [Vouch Proxy](https://github.com/vouch/vouch-proxy) - SSO and OAuth / OIDC login solution for Nginx using the auth_request module.
 - [Nginx Common Useful Configuration](https://github.com/tldr-devops/nginx-common-configuration) ([HN](https://news.ycombinator.com/item?id=30871242))
+- [Improving NGINX Performance with Kernel TLS and SSL_sendfile (2021)](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/) ([HN](https://news.ycombinator.com/item?id=30902744))

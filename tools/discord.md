@@ -135,3 +135,4 @@
 - [miku](https://github.com/NinoDiscord/miku) - Tiny, stateless microservice to notify that your Discord bot is going under maintenance, made in Go.
 - [Valkyrie](https://github.com/sentrionic/Valkyrie) - Discord clone using React and Go.
 - [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Lightweight Discord wrapper made in Tauri.
+- [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) - Completely native Discord client for macOS built 100% in Swift and SwiftUI.

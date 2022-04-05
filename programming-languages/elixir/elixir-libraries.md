@@ -26,6 +26,7 @@
 - [Ueberauth](https://github.com/ueberauth/ueberauth) - Elixir Authentication System for Plug-based Web Applications.
 - [Temple](https://github.com/mhanberg/temple) - HTML DSL for Elixir and Phoenix.
 - [NimbleTOTP](https://github.com/dashbitco/nimble_totp) - Tiny Elixir library for time-based one time passwords (TOTP).
+- [Canary](https://github.com/cpjk/canary) - Elixir authorization and resource-loading library for Plug applications.
 
 ## DB
 

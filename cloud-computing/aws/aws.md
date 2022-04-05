@@ -318,3 +318,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability.
 - [AWS Encryption SDK for JavaScript](https://github.com/aws/aws-encryption-sdk-javascript)
 - [Typescript 2 ASL Transpiler](https://github.com/OlafConijn/ts2asl)
+- [Cloud Governance with CDK using Aspects (2022)](https://www.nearform.com/blog/cloud-governance-with-cdk-using-aspects/)
+- [10 CloudWatch Logs Insights examples for serverless applications (2022)](https://dev.to/aws-heroes/10-cloudwatch-logs-insights-examples-for-serverless-applications-4293)
+- [Biggest mistakes you see startups making in AWS](https://twitter.com/jrhunt/status/1511174998894931971)

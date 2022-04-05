@@ -132,6 +132,7 @@
 - [WagsI](https://github.com/mikesol/wagsi) - 100% browser-based interactive live audio coding environment.
 - [web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API.
 - [Melo](https://github.com/mistodon/melo) - Music notation language and compiler to MIDI.
+- [strudel](https://github.com/tidalcycles/strudel) - Port of tidalcycles to JavaScript.
 
 ## Inspiration
 

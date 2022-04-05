@@ -171,6 +171,7 @@
 - [lockfree](https://github.com/ocaml-multicore/lockfree) - Lock-free data structures for multicore OCaml.
 - [Backward Lists](https://github.com/RedPRL/ocaml-bwd) - Defines backward lists that are isomorphic to lists.
 - [bistro](https://github.com/pveber/bistro) - Library to build and execute typed scientific workflows.
+- [domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Multicore OCaml.
 
 ## Links
 

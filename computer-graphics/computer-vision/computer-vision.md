@@ -674,3 +674,9 @@
 - [Reddit Place Script 2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place.
 - [A Unified Objective for Novel Class Discovery (2021)](https://arxiv.org/abs/2108.08536) ([Code](https://github.com/DonkeyShot21/UNO))
 - [Papers and Datasets about Point Cloud](https://github.com/zhulf0804/3D-PointCloud)
+- [On the Importance of Asymmetry for Siamese Representation Learning (2022)](https://arxiv.org/abs/2204.00613) ([Code](https://github.com/facebookresearch/asym-siam))
+- [REGTR: End-to-end Point Cloud Correspondences with Transformers](https://github.com/yewzijian/RegTR)
+- [A Closer Look at Local Aggregation Operators in Point Cloud Analysis (2020)](https://arxiv.org/abs/2007.01294) ([Code](https://github.com/zeliu98/CloserLook3D))
+- [Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries (2022)](https://arxiv.org/abs/2203.15355) ([Code](https://github.com/clovaai/puridiver))
+- [Perception Prioritized Training of Diffusion Models (2022)](https://arxiv.org/abs/2204.00227) ([Code](https://github.com/jychoi118/P2-weighting))
+- [VisualBERT: A Simple and Performant Baseline for Vision and Language (2019)](https://arxiv.org/abs/1908.03557) ([Code](https://github.com/uclanlp/visualbert))

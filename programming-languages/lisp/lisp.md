@@ -182,3 +182,5 @@
 - [Sjsonnet](https://github.com/databricks/sjsonnet) - JVM implementation of the Jsonnet configuration language.
 - [rs-lisp](https://github.com/ktfth/rs-lisp) - Small lisp interpreter written in Rust.
 - [Why we need Lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines) ([HN](https://news.ycombinator.com/item?id=30811592))
+- [LISP 1.5 implementation on Gauche](https://github.com/shirok/Gauche-lisp15)
+- [Lurk](https://github.com/lurk-lang/lurk-rs) - Statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.

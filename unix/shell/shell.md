@@ -29,7 +29,7 @@ All active variables can be seen by running `env`.
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Remote shell that automatically reconnects without interrupting the session.
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
 - [What does your shell prompt look like? (2019)](https://lobste.rs/s/x5ioqm/what_does_your_shell_prompt_look_like)
-- [direnv](https://direnv.net/) - Unclutter your .profile. ([Code](https://github.com/direnv/direnv))
+- [direnv](https://direnv.net/) - Unclutter your .profile. ([Code](https://github.com/direnv/direnv)) ([Lobsters](https://lobste.rs/s/uevjtl/direnv_unclutter_your_profile))
 - [mask](https://github.com/jakedeichert/mask) - CLI task runner defined by a simple markdown file.
 - [Purs](https://github.com/xcambar/purs) - Pure-inspired prompt in Rust.
 - [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
@@ -204,3 +204,5 @@ All active variables can be seen by running `env`.
 - [sd](https://github.com/ianthehenry/sd) - Cozy nest for your scripts.
 - [svg-term](https://github.com/marionebl/svg-term) - Share terminal sessions via SVG and CSS.
 - [Redo](https://github.com/barthr/redo) - Command line application to easily create reusable functions in your own shell. ([HN](https://news.ycombinator.com/item?id=30878935))
+- [The Day of a new Command-Line Interface: Shell (2022)](https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/)
+- [Crab](https://github.com/dabapps/crab) - Simple unix toolkit for working with local development environments.

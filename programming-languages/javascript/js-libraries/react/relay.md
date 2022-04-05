@@ -37,3 +37,4 @@ Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextj
 - [Introducing the new Relay compiler](https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/) ([Tweet](https://twitter.com/RelayFramework/status/1468704982702739464))
 - [prisma-cursor-pagination](https://github.com/zoontek/prisma-cursor-pagination) - Relay cursor pagination helpers for Prisma. ([Tweet](https://twitter.com/cpojer/status/1497401706048471046))
 - [Building Relay Modern](https://wincent.com/blog/relay-modern)
+- [async-graphql-relay](https://github.com/oscartbeaumont/async-graphql-relay) - Relay support for async-graphql.

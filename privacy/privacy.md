@@ -44,7 +44,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [The Secretive Company That Might End Privacy as We Know It (2020)](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) ([Tweet](https://twitter.com/kevinakwok/status/1218621849971507200))
 - [Am I Unique?](https://amiunique.org/) - Aims at studying the diversity of browser fingerprints and providing developers with data to help them design good defenses. ([HN](https://news.ycombinator.com/item?id=22148512))
 - [How do you talk to "I have nothing to hide" people? (2020)](https://lobste.rs/s/6yrndd/how_do_you_talk_i_have_nothing_hide_people)
-- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - Curated checklist of tips to protect your dgital security and privacy.
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - Curated checklist of tips to protect your dgital security and privacy. ([HN](https://news.ycombinator.com/item?id=30902426))
 - [The Case for Privacy Optimism (2020)](https://benmgarfinkel.wordpress.com/2020/03/09/privacy-optimism-2/)
 - [Energized Protection - block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether.
 - [Programming Framework for Differential Privacy with Accuracy Concentration Bounds (2019)](https://arxiv.org/pdf/1909.07918.pdf)

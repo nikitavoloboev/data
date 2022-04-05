@@ -684,3 +684,5 @@
 - [Working with Kubernetes API (2022)](https://iximiuz.com/en/series/working-with-kubernetes-api/) ([Tweet](https://twitter.com/iximiuz/status/1510275987086446594))
 - [Kubernetes Release Tooling](https://github.com/kubernetes/release) - Release infrastructure for Kubernetes and related components.
 - [StackRox Kubernetes Security Platform](https://github.com/stackrox/stackrox) - Performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+- [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.
+- [kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive.

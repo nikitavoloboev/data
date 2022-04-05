@@ -392,3 +392,5 @@
 - [pkgroll](https://github.com/privatenumber/pkgroll) - Zero-config JS bundler for ESM, CommonJS, and .d.ts outputs.
 - [Quick way to test out or show off features within DevTools](https://bgrins.github.io/devtools-demos/) ([Code](https://github.com/bgrins/devtools-demos))
 - [100 Cool Web Moments](https://developer.chrome.com/100/)
+- [MDN DOM and Web API Doc Examples](https://github.com/mdn/dom-examples)
+- [Web Security Essentials: MITM, CSRF, and XSS](https://egghead.io/courses/web-security-essentials-mitm-csrf-and-xss)

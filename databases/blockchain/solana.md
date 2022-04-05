@@ -240,3 +240,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Whiteboard Series with NEAR | Ep: 2 Anatoly Yakovenko from Solana (2019)](https://www.youtube.com/watch?v=rKGhbC6Uync)
 - [Expo, React Native & Solana Web3 Boilerplate](https://github.com/jferrer/solacademy-wallet)
 - [Solana Auditing and Security Resources](https://github.com/0xsanny/solsec)
+- [security.txt for Solana Contracts](https://github.com/neodyme-labs/solana-security-txt)
+- [Geyser plugins for Solana](https://github.com/rpcpool/solana-geyser-park)

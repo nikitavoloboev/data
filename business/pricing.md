@@ -82,3 +82,4 @@
 - [Ask HN: How to provide a free trial without being abused? (2022)](https://news.ycombinator.com/item?id=30800350)
 - [Ask HN: What is the sensible way to sell offline desktop applications? (2022)](https://news.ycombinator.com/item?id=30847990)
 - [Can automate sales](https://twitter.com/levelsio/status/1509504268914794502)
+- [Successful companies who only ever have a single transaction per customer (2022)](https://twitter.com/adamwathan/status/1511128528342953984)

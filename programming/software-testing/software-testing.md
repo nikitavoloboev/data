@@ -138,3 +138,4 @@
 - [Three Rules of TDD](https://github.com/wix/tdd-katas)
 - [End to End CI Tests in Minutes with Netlify, Playwright & Github Actions (2021)](https://tone-row.com/blog/e2e-ci-testing-netlify-playwright-github-actions)
 - [How do you check quality of each release (2022)](https://twitter.com/GergelyOrosz/status/1507282293970325506)
+- [ZAP (Report Anything Protocol)](https://github.com/zaptst/zap) - Streamable structured interface for real time reporting of developer tools.

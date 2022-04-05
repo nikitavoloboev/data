@@ -381,3 +381,5 @@ Awesome List
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub CLI dashboard for pull requests and issues.
 - [gh2md](https://github.com/mattduck/gh2md) - Export GitHub repository issues, pull requests and comments to markdown.
 - [GrepHub](https://grephub.com/lodash/lodash) - Search GitHub repositories with regexes. ([Code](https://github.com/hmarr/grephub))
+- [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://ghe.clickhouse.tech/) ([Code](https://github.com/ClickHouse/github-explorer))
+- [Find pull requests that modify a file path in the terminal](https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal/)

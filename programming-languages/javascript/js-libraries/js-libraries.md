@@ -870,6 +870,8 @@
 - [Prexit](https://github.com/porsager/prexit) - Graceful way to shutdown / handle process exit.
 - [Codsen JS packages](https://github.com/codsen/codsen)
 - [Word Cloud Layout](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
+- [encoding.js](https://github.com/polygonplanet/encoding.js) - Convert or detect character encoding in JavaScript.
+- [Sugar High](https://github.com/huozhi/sugar-high) - Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped.
 
 ## Links
 
@@ -935,3 +937,4 @@
 - [Keymaster](https://github.com/madrobby/keymaster) - Simple micro-library for defining and dispatching keyboard shortcuts in web applications.
 - [sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list.
 - [What are Weak Links in the npm Supply Chain? (2021)](https://arxiv.org/abs/2112.10165v2)
+- [qpind](https://github.com/Intevel/qpind) - Install dependecies quick & programmatically.

@@ -29,3 +29,6 @@
 - [argamak](https://github.com/tynanbe/argamak) - Gleam library for tensor maths.
 - [A Portrait of the Language Designer as a Young Man: Interview with Louis Pilfold (2021)](https://serokell.io/blog/interview-with-louis-pilfold)
 - [tree-sitter-gleam](https://github.com/gleam-lang/tree-sitter-gleam)
+- [gleam_cowboy_websockets](https://github.com/vstreame/gleam_cowboy_websockets)
+- [httpc](https://github.com/gleam-lang/httpc) - Make requests to HTTP servers with httpc.
+- [Elli](https://github.com/gleam-lang/elli) - Gleam HTTP service adapter for the Elli web server.

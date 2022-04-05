@@ -88,6 +88,10 @@
 
 - [ML++](https://github.com/novak-99/MLPP) - Library created to revitalize C++ as a machine learning front end.
 
+## Math
+
+- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra. ([HN](https://news.ycombinator.com/item?id=30906376))
+
 ## Other
 
 - [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
@@ -366,6 +370,8 @@
 - [OpenDHT](https://github.com/savoirfairelinux/opendht) - Lightweight C++17 Distributed Hash Table implementation.
 - [Kokkos](https://github.com/kokkos/kokkos-kernels) - C++ Performance Portability Programming EcoSystem: Math Kernels - Provides BLAS, Sparse BLAS and Graph Kernels.
 - [BOUT++](https://github.com/boutproject/BOUT-dev) - Framework for writing fluid and plasma simulations in curvilinear geometry.
+- [HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software.
+- [Voro++](https://github.com/chr1shr/voro) - Three-dimensional Voronoi cell library in C++.
 
 ## Links
 

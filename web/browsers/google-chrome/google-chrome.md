@@ -86,3 +86,4 @@ And here are Chrome extensions I use:
 - [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli) - CLI for your next Chrome Extension.
 - [Unclutter Browser Extension](https://github.com/lindylearn/unclutter) - Browser extension to simplify web pages and hide distracting things like hide cookie banners, auto-playing videos, sidebars, etc.
 - [Successful chrome extension SaaS (2022)](https://twitter.com/coreyhainesco/status/1506269475078766596)
+- [Form troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - Chrome extension to find and fix common form problems.

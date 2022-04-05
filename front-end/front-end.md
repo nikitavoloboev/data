@@ -90,3 +90,4 @@
 - [Smart Interface Design Patterns – 100 Smart Interface Design Patterns & Live Examples. 6h Video + UX Training. (2022)](https://smart-interface-design-patterns.com/)
 - [Interaction Testing with Storybook (2022)](https://storybook.js.org/blog/interaction-testing-with-storybook/) ([Reddit](https://www.reddit.com/r/reactjs/comments/t0fe4a/storybook_interaction_testing_in_beta/))
 - [Claymorphism: Will It Stick Around? UI Trends (2022)](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) ([HN](https://news.ycombinator.com/item?id=30852884))
+- [30 popular communities and influencers about Front-End Development (2022)](https://blog.bloghound.social/30-popular-communities-and-influencers-about-front-end-development-april-2022/)

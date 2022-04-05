@@ -55,3 +55,4 @@
 - [Graph Theory and Linear Algebra (2017)](https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf) ([HN](https://news.ycombinator.com/item?id=30455711))
 - [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
 - [Spectral Graph Theory Book](https://bookstore.ams.org/cbms-92)
+- [Graph Notebook: easily query and visualize graphs](https://github.com/aws/graph-notebook)

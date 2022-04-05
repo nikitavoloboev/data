@@ -288,3 +288,4 @@
 - [Wala](https://github.com/CalmSystem/wala) - Language trying to simplify WebAssembly Text syntax while keeping the full expressiveness and retro-compatibility.
 - [WASI Experimental Toolkit](https://github.com/fermyon/wasi-experimental-toolkit) - Experimental interfaces for commonly used WebAssembly functionality.
 - [Fermyon Technologies](https://www.fermyon.com/) - Building open source, WebAssembly-powered cloud tools.
+- [Amalgamated WebAssembly Test Suite](https://github.com/WebAssembly/testsuite)

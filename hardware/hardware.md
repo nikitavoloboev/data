@@ -306,3 +306,4 @@
 - [PipelineC](https://github.com/JulianKemmerer/PipelineC) - C-like hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language construct/compiler feature.
 - [PDL](https://github.com/apl-cornell/PDL) - Hardware Pipeline Description Language.
 - [LDgraphy - Laser Direct Lithography](https://github.com/hzeller/ldgraphy) - Simple Laser Direct Lithography / Laser Direct Imaging for PCB manufacturing.
+- [Go THDL](https://github.com/m-kru/go-thdl) - Tool for easing the work with hardware description languages.

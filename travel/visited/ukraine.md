@@ -126,3 +126,7 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Horrors of Ukrainian people from Russian invasion](https://twitter.com/IKoshiw/status/1510510003152732162)
 - [More Horrors of Ukrainian people from Russian invasion](https://twitter.com/jmkorhonen/status/1510173898679197697)
 - [Civilian Harm in Ukraine TimeMap](https://ukraine.bellingcat.com/) ([Code](https://github.com/bellingcat/ukraine-timemap))
+- [What happened in Bucha under Russian invaders](https://twitter.com/kolezev/status/1510831013961818113)
+- [Battle of Kyiv Summary (2022)](https://twitter.com/tomiahonen/status/1510276474175115281)
+- [Sam Harris / Ian Bremmer - How Does the War in Ukraine End? (2022)](https://www.samharris.org/podcasts/making-sense-episodes/277-how-does-the-war-in-ukraine-end)
+- [Жители Бучи о действиях российских военных во время оккупации](https://twitter.com/CurrentTimeTv/status/1511062799249600517)

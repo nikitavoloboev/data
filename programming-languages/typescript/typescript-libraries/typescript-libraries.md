@@ -47,6 +47,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [teeny-request](https://github.com/googleapis/teeny-request) - Like request, but tiny. Fetch under the hood.
 - [mini-throttle](https://github.com/github/mini-throttle) - Small JavaScript throttle & debounce implementation.
 - [Express Zod API](https://github.com/RobinTail/express-zod-api) - Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
+- [Spot](https://github.com/airtasker/spot) - Concise, developer-friendly way to describe your API contract.
 
 ## Test
 
@@ -428,6 +429,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Merge anything](https://github.com/mesqueeb/merge-anything) - Merge objects & other types recursively. Fully TypeScript supported.
 - [is What?](https://github.com/mesqueeb/is-what) - Simple & small JS type check functions. It's fully TypeScript supported.
 - [Case anything](https://github.com/mesqueeb/case-anything) - 14 case changing functions.
+- [TS Plus std lib](https://github.com/ts-plus/stdlib)
+- [expressive-ts](https://github.com/IMax153/expressive-ts) - Functional programming library designed to simplify building complex regular expressions.
+- [graphics-ts](https://github.com/gcanti/graphics-ts) - Functional bindings for the HTML Canvas API.
+- [Effect-TS - Printer](https://github.com/Effect-TS/printer)
 
 ## Links
 
@@ -481,3 +486,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Tsify](https://github.com/madonoharu/tsify) - Library for generating TypeScript definitions from rust code.
 - [query-registry](https://github.com/velut/node-query-registry) - Query the npm registry for packuments, manifests, packages and download counts.
 - [Easiest way today to build a library in typescript and publish it on npm in all formats people use (2022)](https://twitter.com/oleg008/status/1510006191296061441)
+- [dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file.

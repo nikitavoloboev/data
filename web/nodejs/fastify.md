@@ -41,3 +41,4 @@
 - [fastify-shopify-graphql-proxy](https://github.com/Asjas/fastify-shopify-graphql-proxy) - Fastify plugin to proxy requests to the Shopify GraphQL API.
 - [Envuso](https://github.com/Envuso/framework) - Backend framework focusing building apis using Fastify and MongoDB support.
 - [fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) - Low overhead rate limiter for your routes.
+- [Fastify Benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.

@@ -58,6 +58,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Living a good life is largely just being around people with good vibes.](https://twitter.com/zachtratar/status/1440552661460258816)
 - [The secret successful people don't want you to know? You can literally walk away from anything or anyone that doesn't make you happy and start over.](https://twitter.com/elizalian/status/1463953252500729856)
 - [I’ve found only 4 things that increase my baseline happiness: 1. Time outside, ideally in nature. 2. Physical activity, preferably rigorous. 3. Meaningful relationships, with lots of play. 4. Work that has purpose, where I have agency.](https://twitter.com/ankurnagpal/status/1476574206435418121)
+- [There’s a difference between being happy and being distracted from sadness](https://twitter.com/McKeeZach/status/1510561036017049602)
 
 ## Links
 

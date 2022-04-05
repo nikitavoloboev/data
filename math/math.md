@@ -349,3 +349,4 @@
 - [So you want to study mathematics (2022)](https://www.susanrigetti.com/math) ([HN](https://news.ycombinator.com/item?id=30591177))
 - [Savage Computer Algebra System](https://github.com/p-e-w/savage)
 - [The Open-Source Mathematics Degree](https://github.com/shanirivers/open-source-mathematics-degree)
+- [The best books for mathematics enthusiasts](https://shepherd.com/best-books/for-mathematics-enthusiasts)

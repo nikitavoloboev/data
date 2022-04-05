@@ -74,3 +74,4 @@
 - [Любимые Мультфильмы](https://twitter.com/sienduk/status/1495706117489446916)
 - [Ask HN: How to quickly animate system sketches and 2D diagrams? (2022)](https://news.ycombinator.com/item?id=30631993)
 - [Animation course with Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
+- [animate-presence](https://github.com/natemoo-re/animate-presence) - Effortless element entrance/exit animations.

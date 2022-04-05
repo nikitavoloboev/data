@@ -94,3 +94,5 @@
 - [grpc-actix](https://github.com/m10io/grpc-actix) - Fast, actor-based gRPC implementation in Rust.
 - [REST <-> gRPC gateway library implementation with OpenResty](https://github.com/ysugimoto/lua-resty-grpc-gateway)
 - [ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protoc Plugin for generating TypeScript Declarations.
+- [gRPC-WASM](https://github.com/johanbrandhorst/grpc-wasm) - gRPC-Web implementation in Go, built using the WASM architecture target.
+- [gRPC Rich Error Model](https://github.com/markelog/grpc-rich-error-model) - Server implementation of gRPC Rich Error Model in Node.js.

@@ -545,3 +545,4 @@
 - [The shape of data](https://www.scattered-thoughts.net/writing/the-shape-of-data/) ([Lobsters](https://lobste.rs/s/qhsta6/shape_data))
 - [Oil Is Being Implemented "Middle Out" (2022)](https://www.oilshell.org/blog/2022/03/middle-out.html) ([Lobsters](https://lobste.rs/s/s2remb/oil_is_being_implemented_middle_out))
 - [Awesome Bugs](https://github.com/Julian/awesome-bugs) - Collection of bizarre, funny or obscure bugs in our software and hardware.
+- [Krun](https://github.com/softdevteam/krun) - High fidelity benchmark runner.

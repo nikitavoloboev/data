@@ -4,7 +4,7 @@ I love using [macOS](../macOS/macOS.md) as my personal OS.
 
 And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
 
-[MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) course is great.
+[MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) course is great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
 
 ## Interesting OSes
 
@@ -351,3 +351,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [IPC-Bench](https://github.com/goldsborough/ipc-bench) - Benchmarks for Inter-Process-Communication Techniques.
 - [libtree](https://github.com/haampie/libtree) - ldd as a tree.
 - [Hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications. Procfile is a simple format to specify types of processes your application provides.
+- [Resources to learn OS concepts (2022)](https://twitter.com/bradfitz/status/1495066999587627011)

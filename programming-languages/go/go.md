@@ -750,3 +750,6 @@ if err != nil {
 - [Rethinking Visual Programming with Go (2022)](https://divan.dev/posts/visual_programming_go/)
 - [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) - Practical concurrency guide in Go, communication by channels, patterns.
 - [Quick tip: Easy test assertions with Go generics (2022)](https://www.alexedwards.net/blog/easy-test-assertions-with-go-generics) ([Reddit](https://www.reddit.com/r/golang/comments/tv711c/quick_tip_easy_test_assertions_with_go_generics/))
+- [Go Generics for Field Level Database Encryption (2022)](https://engineering.kablamo.com.au/posts/2022/field-level-data-encryption-in-go)
+- [Where can I learn about pointer & goroutines in depth? (2022)](https://www.reddit.com/r/golang/comments/tveev1/where_can_i_learn_about_pointer_goroutines_in/)
+- [Best Go books for 2022](https://bitfieldconsulting.com/golang/best-books)

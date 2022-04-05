@@ -17,3 +17,4 @@
 - [RedwoodJS Web Code](https://github.com/redwoodjs/redwoodjs.com)
 - [RedwoodJS 1.0 launch](https://twitter.com/redwoodjs/status/1506705583939883008)
 - [RedwoodJS - Deploy target CI](https://github.com/redwoodjs/deploy-target-ci) - Testing supported RedwoodJS deploy targets using canary packages.
+- [RedwoodJS Reaches 1.0 Today (2022)](https://v1launchweek.redwoodjs.com/) ([HN](https://news.ycombinator.com/item?id=30907119))

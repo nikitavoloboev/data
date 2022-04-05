@@ -201,3 +201,4 @@
 - [Beam](https://beamapp.co/) - New way to collect your thoughts and experience the Internet.
 - [Cache and Prizes (2022)](https://infrequently.org/2022/03/cache-and-prizes/)
 - [BroadcastChannel](https://github.com/pubkey/broadcast-channel) - Send data across multiple browser-tabs or nodejs-processes + LeaderElection over the channels.
+- [Malvon](https://github.com/Malvion/Malvon) - New macOS Web Browser.

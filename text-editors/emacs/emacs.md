@@ -104,3 +104,4 @@ Might give it a go sometime.
 - [Building an Intelligent Emacs (2022)](https://ianyepan.github.io/posts/emacs-ide/) ([HN](https://news.ycombinator.com/item?id=30308272))
 - [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
 - [22 years of Emacs](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/) ([Lobsters](https://lobste.rs/s/zhwlfz/22_years_emacs))
+- [Emacs Builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.

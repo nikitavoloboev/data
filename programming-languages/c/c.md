@@ -227,3 +227,5 @@
 - [Writing a C Compiler Book](https://nostarch.com/writing-c-compiler) ([Article](https://norasandler.com/2022/03/29/Write-a-C-Compiler-the-Book.html))
 - [Kate's C AMA (2022)](https://twitter.com/thingskatedid/status/1510451564749619203)
 - [Haskell C Compiler](https://github.com/NunoDasNeves/haskell-c-compiler) - Learning Haskell for the first time and using it to write a simple C compiler.
+- [I wrote a peephole optimizer for QBE (2022)](https://briancallahan.net/blog/20220330.html) ([Lobsters](https://lobste.rs/s/jztimq/i_wrote_peephole_optimizer_for_qbe))
+- [When FFI Function Calls Beat Native C (2018)](https://nullprogram.com/blog/2018/05/27/) ([HN](https://news.ycombinator.com/item?id=30895444))

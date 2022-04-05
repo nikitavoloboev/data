@@ -192,3 +192,5 @@
 - [CLIPstyler: Image Style Transfer with a Single Text Condition (2021)](https://arxiv.org/abs/2112.00374) ([Code](https://github.com/cyclomon/CLIPstyler))
 - [AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation](https://github.com/Ha0Tang/AttentionGAN)
 - [DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis (2019)](https://arxiv.org/abs/1904.01310) ([Code](https://github.com/MinfengZhu/DM-GAN))
+- [StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN (2022)](https://arxiv.org/abs/2203.04036) ([Code](https://github.com/FeiiYin/StyleHEAT))
+- [DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation (2022)](https://github.com/gwang-kim/DiffusionCLIP)

@@ -109,3 +109,4 @@
 - [sci](https://github.com/soegaard/sci) - Racket libraries for scientific computing.
 - [racket-analysis](https://github.com/sorawee/racket-analysis) - Analysis of Racket code base.
 - [racket-review](https://github.com/Bogdanp/racket-review) - Linter for Racket.
+- [Embedding of some of SQL into Racket](https://github.com/rmculpepper/sql)

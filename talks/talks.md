@@ -79,3 +79,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [What is the best speech of all time?](https://twitter.com/patrick_oshag/status/1499175362827272198)
 - [How to Read a Teleprompter without Looking Creepy](https://www.youtube.com/watch?v=tjfyM2k6Gg4)
 - [Tech talks don’t have to be boring (2022)](https://billwadge.com/2022/03/10/tech-talks-dont-have-to-be-boring-follow-these-simple-rules/) ([HN](https://news.ycombinator.com/item?id=30641096))
+- [Lessons from taking a speech class](https://twitter.com/coles_nicholas_/status/1511052555995934721)

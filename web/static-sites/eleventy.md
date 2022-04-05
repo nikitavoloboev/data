@@ -43,3 +43,4 @@
 - [eleventy-dev-server](https://github.com/11ty/eleventy-dev-server) - Minimal, modern, generic, hot-reloading local web server to help web developers.
 - [Eleventy Vue Plugin](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy.
 - [Generate Social Image Covers With Eleventy And Node-Canvas (2022)](https://pqina.nl/blog/generate-social-image-covers-with-eleventy-and-node-canvas/)
+- [Rocket](https://github.com/modernweb-dev/rocket) - Modern web setup for static sites with a sprinkle of JavaScript. ([Web](https://rocket.modern-web.dev/))

@@ -255,3 +255,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Synapse](https://synapseprotocol.com/landing) - DeFi's Multi-Chain Bridge.
 - [The Axie Infinity hack, what happened, and why people keep talking about bridges (2022)](https://blog.mollywhite.net/axie-hack/)
 - [The Infinite Exploitation Of Cryptocurrency (2022)](https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency)
+- [The Simple English Argument Against Crypto](https://www.stephendiehl.com/blog/simple.html)

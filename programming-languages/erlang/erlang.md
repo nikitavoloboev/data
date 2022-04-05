@@ -135,3 +135,4 @@
 - [gpb](https://github.com/tomas-abrahamsson/gpb) - Google Protobuf implementation for Erlang.
 - [Erlang online resources](https://gist.github.com/macintux/6349828)
 - [codec-beam](https://github.com/kofigumbs/codec-beam) - Generate Erlang VM byte code from Haskell.
+- [How private are Erlang private functions? (2018)](https://medium.com/about-erlang/how-private-are-erlang-private-functions-36382c6abfa4)
