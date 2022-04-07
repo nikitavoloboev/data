@@ -77,3 +77,4 @@
 - [Polkadot Portfolio](https://github.com/kianenigma/polkadot-portfolio) - CLI tool to find all your bags of tokens im the highly complicated world of Polkadot Ecosystem.
 - [Exercises to learn substrate](https://github.com/rusty-crewmates/substrate-tutorials)
 - [Sub-script](https://github.com/Neopallium/sub-script) - Scripting interface for substrate nodes.
+- [Polkadot Basic Notifications](https://github.com/kianenigma/polkadot-basic-notification) - Basic, account-based, multi-transport notification service for the Polkadot ecosystem.

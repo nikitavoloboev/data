@@ -325,3 +325,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon CloudWatch Agent](https://github.com/aws/amazon-cloudwatch-agent)
 - [S3 Account Search](https://github.com/WeAreCloudar/s3-account-search) - Tool lets you find the account id an S3 bucket belongs too.
 - [aws-sso-util](https://github.com/benkehoe/aws-sso-util) - Making life with AWS SSO a little easier.
+- [Cloudy](https://github.com/skyrpex/cloudy) - Set of constructs for the AWS Cloud Development Kit that aim to improve the DX by providing a faster and type-safe code environment.

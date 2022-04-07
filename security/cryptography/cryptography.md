@@ -161,3 +161,4 @@
 - [Keychain-PKCS11](https://github.com/kenh/keychain-pkcs11) - Shared library that implements a PKCS#11 interface to the Apple Security framework.
 - [liblithium](https://github.com/teslamotors/liblithium) - Lightweight and portable cryptography library.
 - [Researchers Identify ‘Master Problem’ Underlying All Cryptography (2022)](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/) ([HN](https://news.ycombinator.com/item?id=30934721))
+- [Secret Colors: A Gentle Introduction to Cryptography](https://roundrobin.pub/pages/secret-colors-announcement)

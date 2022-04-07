@@ -290,3 +290,5 @@
 - [Fermyon Technologies](https://www.fermyon.com/) - Building open source, WebAssembly-powered cloud tools.
 - [Amalgamated WebAssembly Test Suite](https://github.com/WebAssembly/testsuite)
 - [WASM Builders](https://www.wasm.builders/)
+- [TWA](https://github.com/keith2018/TWA) - Tiny pure C++ WebAssembly runtime.
+- [inline-webassembly](https://github.com/dorin131/inline-webassembly) - Inline WebAssembly (text format) into JS.

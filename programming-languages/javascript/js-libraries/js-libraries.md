@@ -888,6 +888,7 @@
 - [Diff Match Patch](https://github.com/JackuB/diff-match-patch) - High-performance library in multiple languages that manipulates plain text.
 - [Nitro](https://github.com/unjs/nitro) - Build and deploy universal JavaScript servers.
 - [Channel](https://github.com/NodeGuy/channel) - Go-like channels for JavaScript.
+- [big-json](https://github.com/DonutEspresso/big-json) - Stream based implementation of JSON.parse and JSON.stringify.
 
 ## Links
 

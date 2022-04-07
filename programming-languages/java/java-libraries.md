@@ -63,3 +63,4 @@
 - [What Java Modules Are About (2021)](https://inside.java/2021/09/10/what-are-modules-about/) ([HN](https://news.ycombinator.com/item?id=28489881))
 - [Ask HN: Does Java need a modern Java UI toolkit for desktop/web? (2022)](https://news.ycombinator.com/item?id=30789337)
 - [Reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem. ([Web](https://reposilite.com/))
+- [Hash, displace, and compress: Perfect hashing with Java (2022)](https://www.andreinc.net/2022/03/15/perfect-hashing-with-java)

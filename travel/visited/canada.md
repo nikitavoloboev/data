@@ -10,3 +10,4 @@
 - [Why the Canadian Tech Scene Doesn’t Work (2021)](https://alexdanco.com/2021/01/11/why-the-canadian-tech-scene-doesnt-work/) ([HN](https://news.ycombinator.com/item?id=25742623))
 - [Good business banks in Canada (2021)](https://twitter.com/jasoncwarner/status/1441246039990673408)
 - [The issues I wish we cared about in Canada (2021)](https://danso.ca/blog/what-i-wish-we-cared-about/)
+- [Canada to ban foreigners from buying homes (2022)](https://www.bloomberg.com/news/articles/2022-04-06/canada-to-ban-some-foreigners-from-buying-homes-as-prices-soar) ([HN](https://news.ycombinator.com/item?id=30945444))

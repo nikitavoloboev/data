@@ -55,3 +55,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [trdl](https://github.com/werf/trdl) - Universal package manager delivering new versions of your application from a trusted TUF repository. ([Web](https://trdl.dev/))
 - [pacaptr](https://github.com/rami3l/pacaptr) - Pacman-like syntax wrapper for many package managers.
 - [Switching from pyenv, rbenv, goenv and nvm to asdf](https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf) ([HN](https://news.ycombinator.com/item?id=30917354))
+- [Grove](https://github.com/tristanisham/grove) - Modern package manager and software installer.

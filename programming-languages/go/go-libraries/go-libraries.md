@@ -170,6 +170,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
 - [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/))
+- [Fiber Swagger](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
@@ -329,6 +330,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. It features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time.
 - [sniper](https://github.com/recoilme/sniper) - Simple and efficient thread-safe key/value store for Go.
 - [Bun](https://github.com/uptrace/bun) - Simple and performant ORM for SQL. ([Web](https://bun.uptrace.dev/))
 - [GORM SQLite](https://github.com/glebarez/sqlite) - Pure-go (without cgo) implementation of SQLite driver for GORM.
@@ -558,6 +560,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Error
 
+- [Errors](https://github.com/bnkamalesh/errors) - Drop-in replacement for Go errors, with some added sugar! Unwrap user-friendly messages, HTTP status code, easy wrapping with multiple error types.
 - [errors](https://github.com/juju/errors) - Provides an easy way to annotate errors without losing the original error context.
 - [panicwrap](https://github.com/mitchellh/panicwrap) - Go library for catching and handling panics in Go applications.
 - [multierr](https://github.com/andreyvit/multierr) - Merges multiple errors into a single error value in idiomatic Go way.
@@ -570,6 +573,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [semgroup](https://github.com/fatih/semgroup) - Provides synchronization and error propagation, for groups of goroutines working on subtasks of a common task.
 - [errors](https://github.com/alecthomas/errors) - Simple error wrapping package that automatically adds source locations to errors.
 - [Benchmarking Go errors](https://github.com/nikolaydubina/go-bench-errors)
+- [go-serum](https://github.com/serum-errors/go-serum) - Implementation of the Serum Errors Specification for use in Go development.
 
 ## Other
 
@@ -1525,6 +1529,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [libcnb](https://github.com/buildpacks/libcnb) - Language binding for the Cloud Native Buildpack Buildpack and Extension specifications.
 - [Pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays.
 - [atomic](https://github.com/natefinch/atomic) - Go package for atomic file writing.
+- [dedup](https://github.com/klauspost/dedup) - Streaming Deduplication package for Go.
+- [readahead](https://github.com/klauspost/readahead) - Asynchronous read-ahead for Go readers.
+- [go-dataloader](https://github.com/yckao/go-dataloader) - Clean, safe, user-friendly dataloader, written in Go with generics.
 
 ## Links
 

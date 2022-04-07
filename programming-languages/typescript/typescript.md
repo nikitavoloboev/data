@@ -240,6 +240,7 @@
 - [Great TS projects with code to learn from](https://twitter.com/mpocock1/status/1507721235270189057)
 - [A brief walkthrough on how TypeScript implemented Inlay Hints (2022)](https://www.huy.rocks/everyday/03-24-2022-typescript-source-code-walkthrough-inlayhints)
 - [Ultimate TypeScript Thread (2022)](https://twitter.com/mpocock1/status/1509964736275927042)
+- [TypeScript as fast as Rust: TypeScript++](https://zaplib.com/docs/blog_ts++.html) ([HN](https://news.ycombinator.com/item?id=30947680))
 
 ## Images
 

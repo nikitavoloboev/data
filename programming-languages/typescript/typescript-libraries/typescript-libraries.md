@@ -495,3 +495,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [query-registry](https://github.com/velut/node-query-registry) - Query the npm registry for packuments, manifests, packages and download counts.
 - [Easiest way today to build a library in typescript and publish it on npm in all formats people use (2022)](https://twitter.com/oleg008/status/1510006191296061441)
 - [dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file.
+- [package-bundler](https://github.com/benduran/package-bundler) - CLI for compiling and bundling your TypeScript to ESM & CJS, with deep exports support.

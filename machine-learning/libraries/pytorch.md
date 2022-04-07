@@ -371,3 +371,4 @@
 - [MQBench](https://github.com/ModelTC/MQBench) - Open-source model quantization toolkit based on PyTorch fx.
 - [Self-supervised learning tutorial: Implementing SimCLR with PyTorch lightning (2022)](https://theaisummer.com/simclr/) ([Code](https://github.com/The-AI-Summer/simclr))
 - [PyTracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
+- [TorchDynamo](https://github.com/facebookresearch/torchdynamo) - Python-level JIT compiler designed to make unmodified PyTorch programs faster.

@@ -70,3 +70,4 @@
 - [basicsynbio](https://github.com/LondonBiofoundry/basicsynbio) - Open-source Python package to facilitate BASIC DNA assembly workflows.
 - [REPP](https://github.com/Lattice-Automation/repp) - Tool for DNA assembly.
 - [DNA Analysis in Rust (2022)](https://www.sotr.blog/articles/dna-analysis)
+- [Patchwork](https://github.com/fethalen/Patchwork) - Alignment-based retrieval and concatenation of phylogenetic markers from whole genome sequence (WGS) data.

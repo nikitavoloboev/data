@@ -188,3 +188,4 @@
 - [Cookiecutter Jupyter Book](https://github.com/executablebooks/cookiecutter-jupyter-book) - Cookiecutter template for a simple jupyter book.
 - [nbprocess](https://github.com/fastai/nbprocess) - Process and export Jupyter Notebooks fast.
 - [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - Jupyter Notebook integration of Vizzu.
+- [Nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.

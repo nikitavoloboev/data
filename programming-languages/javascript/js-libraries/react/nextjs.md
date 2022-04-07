@@ -71,6 +71,7 @@
 - [Materio](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free) - Powerful & Comprehensive free Next.js React admin template based on MUI.
 - [Irvan Malik's NextJS Blog](https://github.com/irvanmalik48/blog)
 - [Image Gallery with Next.js, Supabase, and Tailwind CSS](https://github.com/leerob/image-gallery-supabase-tailwind-nextjs)
+- [Lightweight Next.js Portfolio site template](https://github.com/eggheadio/portfolio-template-and-challenge)
 
 ## NextJS plugins
 

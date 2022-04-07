@@ -112,3 +112,4 @@
 - [Embedding of some of SQL into Racket](https://github.com/rmculpepper/sql)
 - [Prototypes: Object Orientation, Functionally](https://github.com/metareflection/poof)
 - [Syndicate](https://github.com/tonyg/syndicate) - Networked, Concurrent, Functional Programming Language for interactive programs.
+- [Rake](https://github.com/uwplse/rake) - Compiling DSLs to high-level hardware instructions.

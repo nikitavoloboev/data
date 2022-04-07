@@ -1,5 +1,7 @@
 # Internationalization
 
+[SimpleLocalize](https://simplelocalize.io/) is nice.
+
 ## Notes
 
 - [Made i18n strictly typed and every time I render a string that is not translated yet - typescript shows an error, so I can't forget it.](https://twitter.com/oleg008/status/1456205531153055755)
@@ -38,3 +40,4 @@
 - [Tolgee JS](https://github.com/tolgee/tolgee-js) - Provides ability to easily manage localization texts directly in context of web application developed by you.
 - [SimpleLocalize](https://simplelocalize.io/) - Translation Management for software projects. ([CLI](https://github.com/simplelocalize/simplelocalize-cli))
 - [FormatJS](https://github.com/formatjs/formatjs) - Internationalize your web apps on the client & server. ([Web](https://formatjs.io/))
+- [Phrasebook](https://github.com/loveholidays/phrasebook) - Significantly smaller drop in replacement for react-i18next.

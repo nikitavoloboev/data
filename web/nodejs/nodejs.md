@@ -354,3 +354,4 @@
 - [Better Queue for NodeJS](https://github.com/diamondio/better-queue)
 - [valienv](https://github.com/zoontek/valienv) - Simple environment variables validator for Node.js and web browsers.
 - [meta-fetcher](https://github.com/rocktimsaikia/meta-fetcher) - Simple metadata scrapper for node.js.
+- [Nightwatch.js](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API.

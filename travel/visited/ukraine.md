@@ -135,3 +135,4 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Полноценная война с Россией начнется через пару лет - Алексей Арестович (2019)](https://www.youtube.com/watch?v=H50ho9Dlrms)
 - [Игра Путина рассчитана до 2030 года, "веселье" только наступает – Алексей Арестович (2018)](https://www.youtube.com/watch?v=jIwpJXlT2I0)
 - [У Кремля три варианта для Украины, любой устроит Путина – Алексей Арестович (2018)](https://www.youtube.com/watch?v=n7xCO2HHJj0)
+- [Алексей Арестович про методы работы спецслужб (2017)](https://www.youtube.com/watch?v=uDg_fvcig9I)

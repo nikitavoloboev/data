@@ -158,7 +158,7 @@
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 - [ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM.
 - [racket-wasm](https://github.com/Bogdanp/racket-wasm) - WASM tooling in Racket.
-- [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly.
+- [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly. ([Docs](https://zaplib.com/docs/introduction.html))
 - [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
 - [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
 - [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
@@ -402,6 +402,7 @@
 - [color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate.
 - [woah](https://github.com/alilleybrinker/woah) - Result type that differentiates between local errors (which can be handled) and fatal errors (which can't).
 - [Core Error](https://github.com/core-error/core-error) - Traits for working with Error in std-less environments.
+- [Serum Errors](https://github.com/serum-errors/serum-spec) - Specification for human-readable, machine-managable, observable/serializable/cross-language errors and error handling.
 
 ## IO
 
@@ -464,6 +465,8 @@
 - [Cryptoxide](https://github.com/typed-io/cryptoxide) - Crypto primitives in pure rust - wasm compatible.
 - [rust-hpke](https://github.com/rozbb/rust-hpke) - Implementation of the HPKE hybrid encryption standard.
 - [minisign-verify](https://github.com/jedisct1/rust-minisign-verify) - Small, zero-dependencies Rust crate to verify Minisign signatures.
+- [Trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware.
+- [Rust-Crypto](https://github.com/DaGenix/rust-crypto) - Rust implementation of various common cryptographic algorithms.
 
 ## Linux
 
@@ -629,6 +632,8 @@
 - [const_format_crates](https://github.com/rodrimati1992/const_format_crates) - Compile-time string formatting.
 - [document-features](https://github.com/slint-ui/document-features) - Extract documentation for the feature flags from comments in Cargo.toml.
 - [postfix-macros](https://github.com/est31/postfix-macros) - Postfix macros on stable Rust.
+- [doc-comment](https://github.com/GuillaumeGomez/doc-comment) - Write doc comments from macros.
+- [syn-file-expand](https://github.com/vi/syn-file-expand) - Rust library to scan files and expand (make modules inline) multi-file crates source code as a single tree.
 
 ## Math
 
@@ -1700,6 +1705,8 @@
 - [vaultrs](https://github.com/jmgilman/vaultrs) - Asynchronous Rust client library for the Hashicorp Vault API.
 - [VDF](https://github.com/poanetwork/vdf) - Verifiable Delay Functions in Rust.
 - [TreeFlat](https://github.com/mamcx/tree-flat) - Simplest way to build & traverse a pre-order Tree in Rust.
+- [sarif-rs](https://github.com/psastras/sarif-rs) - Rust projects for interacting with the SARIF format.
+- [tasky](https://github.com/yoshuawuyts/tasky) - Fluent async task spawning experiments.
 
 ## Cargo Plugins
 

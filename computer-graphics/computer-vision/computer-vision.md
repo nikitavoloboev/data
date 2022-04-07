@@ -692,3 +692,4 @@
 - [EMOCA: Emotion Driven Monocular Face Capture and Animation (2022)](https://github.com/radekd91/emoca)
 - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation (2022)](https://arxiv.org/abs/2203.13161) ([Code](https://github.com/alvinliu0/HA2G))
 - [FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset](http://www.liuyebin.com/faceverse/faceverse.html) ([Code](https://github.com/LizhenWangT/FaceVerse))
+- [PointCLIP: Point Cloud Understanding by CLIP (2022)](https://arxiv.org/abs/2112.02413) ([Code](https://github.com/ZrrSkywalker/PointCLIP))

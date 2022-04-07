@@ -317,3 +317,4 @@
 - [XGBoost-Ray](https://github.com/ray-project/xgboost_ray) - Distributed backend for XGBoost, built on top of distributed computing framework Ray.
 - [Easy Parallel Library](https://github.com/alibaba/EasyParallelLibrary) - General and efficient library for distributed model training.
 - [MetricFlow](https://github.com/transform-data/metricflow) - Allows you to define, build, and maintain metrics in code.
+- [HuggingFace Evaluate](https://github.com/huggingface/evaluate)

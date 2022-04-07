@@ -755,3 +755,4 @@
 - [Myths and Legends about Integer Overflow in Rust (2016)](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/) ([Lobsters](https://lobste.rs/s/k1zxi1/myths_legends_about_integer_overflow))
 - [Rust. How do I start?](https://github.com/jondot/rust-how-do-i-start)
 - [Rust Lang Roadmap for 2024](https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html) ([Reddit](https://www.reddit.com/r/rust/comments/twkjqt/rust_lang_roadmap_for_2024_inside_rust_blog/)) ([HN](https://news.ycombinator.com/item?id=30915056))
+- [Rust Secure Code Working Group](https://github.com/rust-secure-code/wg)

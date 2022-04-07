@@ -200,3 +200,4 @@
 - [DNS Leak Test](https://bash.ws/dnsleak) - Shows DNS leaks and your external IP. If you use the same ASN for DNS and connection - you have no leak. ([Code](https://github.com/macvk/dnsleaktest))
 - [Encrypted DNS Server](https://github.com/DNSCrypt/encrypted-dns-server) - Easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [ZeroNS](https://github.com/zerotier/zeronsd) - DNS server for ZeroTier users.
+- [crt.sh](https://crt.sh/) - Certificate Search.

@@ -214,3 +214,4 @@
 - [Carbon Icons Svelte](https://carbon-icons-svelte.onrender.com/) - Carbon Design System SVG icons as Svelte components. ([Code](https://github.com/carbon-design-system/carbon-icons-svelte))
 - [Svelte Infinite Loading](https://github.com/skayo/svelte-infinite-loading) - Infinite scroll component for Svelte apps.
 - [SvelteKit Component Library](https://github.com/rodneylab/sveltekit-components)
+- [Svelte i18next](https://github.com/NishuGoel/svelte-i18next) - Internationalization for svelte framework. Based on i18next ecosystem.

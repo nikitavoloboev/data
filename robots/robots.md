@@ -155,3 +155,4 @@
 - [Index Pick and Place](https://github.com/index-machines/index) - Open source pick and place machine to aid in Mid-Scale Manufacturing.
 - [From rigid to soft to biological robots (2022)](https://www.youtube.com/watch?v=UxVOvf1uM64)
 - [iSDF: Real-Time Neural Signed Distance Fields for Robot Perception (2022)](https://joeaortiz.github.io/iSDF/) ([Code](https://github.com/facebookresearch/iSDF))
+- [CHAMP](https://github.com/chvmp/champ) - Open source development framework for building new quadrupedal robots and developing new control algorithms.

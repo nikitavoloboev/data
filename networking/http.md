@@ -232,3 +232,4 @@
 - [Deprecation HTTP Header Field](https://github.com/ietf-wg-httpapi/deprecation-header)
 - [The surprising complexity of interpreting X-Forwarded-For safely (2022)](https://www.brainonfire.net/blog/2022/03/04/understanding-using-xff/)
 - [HTTP Feeds](https://www.http-feeds.org/) - Asynchronous event streaming and data replication with plain HTTP APIs. ([Code](https://github.com/http-feeds/http-feeds)) ([HN](https://news.ycombinator.com/item?id=30904220))
+- [HTTP Script Executor](https://github.com/iamd3vil/http-script-executor) - Simple HTTP server to execute scripts. Executing a script on a remote instance by issuing a HTTP request. This eliminates the need to configure SSH.

@@ -1066,6 +1066,7 @@
 - [Mercato](https://github.com/tikhop/Mercato) - Lightweight StoreKit 2 Wrapper.
 - [HeckelDiff](https://github.com/mcudich/HeckelDiff) - Fast Swift diffing library.
 - [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Lightweight Swift Library that provides an easy way to work with location-related functionalities.
+- [Feedbacks](https://github.com/CombineCommunity/Feedbacks) - Tool to build feedback loops within a Swift based application. Feedbacks relies on Combine and is compatible with SwiftUI and UIKit.
 
 ## Other (not lib)
 

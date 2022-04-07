@@ -511,3 +511,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [dunk](https://github.com/darrenburns/dunk) - Prettier git diffs.
 - [Git Module](https://github.com/gogs/git-module) - Go module for Git access through shell commands.
 - [git-meta](https://github.com/twosigma/git-meta) - Allows developers to work with extremely large codebases. Build your own monorepo using Git submodules.
+- [Git Leave](https://github.com/MrNossiom/git-leave) - Check for unsaved or uncommitted changes on your machine.
+- [Use Git tactically (2022)](https://stackoverflow.blog/2022/04/06/use-git-tactically/) ([HN](https://news.ycombinator.com/item?id=30943478))

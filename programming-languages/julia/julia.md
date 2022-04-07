@@ -122,3 +122,4 @@
 - [Juliaup](https://github.com/JuliaLang/juliaup) - Julia installer and version multiplexer.
 - [Why We Use Julia, 10 Years Later (2022)](https://julialang.org/blog/2022/02/10years/) ([HN](https://news.ycombinator.com/item?id=30337515))
 - [Optimizing Julia code (2022)](https://huijzer.xyz/posts/inference/)
+- [Julia 100 Exercises](https://github.com/RoyiAvital/Julia100Exercises) - Set of introductory exercises for Julia. Based on 100 NumPy Exercises.

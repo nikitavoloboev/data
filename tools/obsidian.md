@@ -99,6 +99,8 @@
 - [Chat View Plugin](https://github.com/adifyr/obsidian-chat-view) - Quickly and easily create elegant Chat UIs in your Markdown Files.
 - [Custom Frames](https://github.com/Ellpeck/ObsidianCustomFrames) - Turns web apps into panes using iframes with custom styling.
 - [Obsidian-Charts](https://github.com/phibr0/obsidian-charts) - Create interactive Charts in Obsidian.
+- [Longform](https://github.com/kevboh/longform) - Plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
+- [Pluck](https://github.com/kevboh/obsidian-pluck) - Quickly create notes in Obsidian from web pages.
 
 ## Themes
 

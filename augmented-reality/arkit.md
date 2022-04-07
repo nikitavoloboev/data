@@ -21,3 +21,4 @@
 - [Augmented reality face filters with iOS - Roxana Jula (2021)](https://www.youtube.com/watch?v=xSLDST-a6qU)
 - [SCNRecorder](https://github.com/gorastudio/SCNRecorder) - Allows you to record videos and to capture images from ARSCNView, SCNView and ARView (RealityKit) without sacrificing performance.
 - [ARKitScenes - A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data (2021)](https://openreview.net/forum?id=tjZjv_qh_CE) ([Code](https://github.com/apple/ARKitScenes))
+- [ofxARKit](https://github.com/sortofsleepy/ofxARKit) - Starting point for openFramworks and ARKit experimenting.

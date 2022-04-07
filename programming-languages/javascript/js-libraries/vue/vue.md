@@ -134,3 +134,4 @@
 - [Magnetar](https://github.com/CyCraft/magnetar) - Framework-agnostic syncing solution that auto-connects any DB/API with your local data store and has optimistic-UI built in.
 - [Quasar Framework](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time. ([Web](https://quasar.dev/))
 - [unplugin-vue-define-options](https://github.com/sxzz/unplugin-vue-define-options) - Introduce a macro in script setup, defineOptions, to use Options API in script setup.
+- [Veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible.

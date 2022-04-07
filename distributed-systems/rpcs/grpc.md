@@ -99,3 +99,4 @@
 - [Whisk GRPC web library](https://github.com/whisklabs/grpc-ts)
 - [Reverse proxy gRPC via Traefik](https://github.com/LdDl/traefik-grpc-reverse-proxy)
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPC and REST+Swagger APIs in Go.
+- [grpc-build](https://github.com/stefandanaita/grpc-build) - Flexible way to manage protobuf files and generate the gRPC code required by tonic.

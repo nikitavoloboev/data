@@ -13,6 +13,10 @@
 - [Blank Solito Example Monorepo](https://github.com/flexbox/react-native-nextjs-monorepo)
 - [Billy](https://github.com/lyqht/Billy) - Bill Tracker App, made with React Native + Typescript.
 
+## Notes
+
+- Never use the <Text\> component directly. Instead, create your own abstraction so you don't repeat yourself with font name, font size or colors each time and it's easier to change properties at any point.
+
 ## Links
 
 - [React Native DOM](https://github.com/vincentriemer/react-native-dom)

@@ -18,3 +18,4 @@
 - [FoundationDB Rust Client](https://github.com/foundationdb-rs/foundationdb-rs)
 - [High contention allocator for FoundationDB (2018)](https://activesphere.com/blog/2018/08/05/high-contention-allocator)
 - [Time Series and FoundationDB. Millions of writes/s and 10x compression in under 2,000 lines of Go](https://github.com/richardartoul/tsdb-layer)
+- [FoundationDB Client API for Tokio](https://github.com/fdb-rs/fdb)

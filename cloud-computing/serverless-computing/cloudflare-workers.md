@@ -138,3 +138,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Cloudflare file hosting](https://github.com/judge2020/cloudflare-file-hosting) - Uses Workers KV to enable Cloudflare as a file host.
 - [React 18's streams running on Cloudflare workers](https://github.com/threepointone/react-lazy-ssr-workers)
 - [TypeScript template for Cloudflare Workers](https://github.com/cloudflare/worker-typescript-template)
+- [Mantle - Serverless Maps using Lambda or Cloudflare Workers (2022)](https://protomaps.com/blog/serverless-self-hosted-maps/) ([HN](https://news.ycombinator.com/item?id=30948255))

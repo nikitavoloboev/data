@@ -219,3 +219,4 @@
 - [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Allows using docker containers for functional and integration testing.
 - [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services.
 - [dockprom](https://github.com/stefanprodan/dockprom) - Monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter and alerting with AlertManager.
+- [go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects.

@@ -77,3 +77,4 @@
 - [Frelatage](https://github.com/Rog3rSm1th/Frelatage) - Coverage-based Python fuzzing library which can be used to fuzz python code.
 - [Banana Fuzzer](https://github.com/rezer0dai/bananafzz) - Modulable, loop based, poc gen, code cov, platform agnostic, race oriented.
 - [Awesome Grammar Fuzzing](https://github.com/Microsvuln/Awesome-Grammar-Fuzzing)
+- [sfuzz](https://github.com/seal9055/sfuzz) - JIT compiler / Fuzzer.

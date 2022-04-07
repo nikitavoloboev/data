@@ -394,3 +394,4 @@
 - [100 Cool Web Moments](https://developer.chrome.com/100/)
 - [MDN DOM and Web API Doc Examples](https://github.com/mdn/dom-examples)
 - [Web Security Essentials: MITM, CSRF, and XSS](https://egghead.io/courses/web-security-essentials-mitm-csrf-and-xss)
+- [Web Maker](https://webmaker.app/) - Blazing fast & offline web playground in your browser. ([Code](https://github.com/chinchang/web-maker))

@@ -30,3 +30,4 @@
 - [Neurosymbolic Programming (2021)](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) ([HN](https://news.ycombinator.com/item?id=30631907))
 - [A Conversational Paradigm for Program Synthesis (2022)](https://arxiv.org/abs/2203.13474) ([Code](https://github.com/salesforce/CodeGen))
 - [Formal_ML](https://github.com/IBM/FormalML) - Formalization of Machine Learning Theory with Applications to Program Synthesis.
+- [VIBES (Verified, Incremental Binary Editing with Synthesis)](https://github.com/draperlaboratory/VIBES) - Tool that uses program synthesis and constraint programming techniques to compile a source-level patch and insert it into a preexisting binary program.

@@ -145,3 +145,4 @@
 - [Tools for visualizing a codebase](https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14) ([HN](https://news.ycombinator.com/item?id=30891230)) ([Code](https://github.com/johntellsall/shotglass))
 - [Explained Visually](https://setosa.io/ev/) - Making hard ideas intuitive inspired the work of Bret Victor's Explorable Explanations. ([Code](https://github.com/vicapow/explained-visually))
 - [VegaFusion](https://github.com/vegafusion/vegafusion) - Serverside acceleration for the Vega visualization grammar.
+- [datasette-dashboards](https://github.com/rclement/datasette-dashboards) - Datasette plugin providing data dashboards from metadata.

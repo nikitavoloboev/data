@@ -132,6 +132,7 @@
 - [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
 - [Coinbase Rust](https://github.com/j16r/coinbase-rs)
+- [Last.fm and Libre.fm Python](https://github.com/pylast/pylast)
 - [Toggl Python](https://github.com/matthewdowney/TogglPy)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Gfycat Python](https://github.com/ankeshanand/py-gfycat)
@@ -200,7 +201,7 @@
 - [Stoplight Studio](https://stoplight.io/studio) - Design APIs 10x faster with our free OpenAPI editor. Prototype and share your API within minutes. ([Code](https://github.com/stoplightio/studio))
 - [WorkOS](https://workos.com/) - APIs for enterprise features like SSO/SAML. ([HN](https://news.ycombinator.com/item?id=22607402))
 - [NoCodeAPI](https://nocodeapi.com/) - Quickly set-up third party application APIs.
-- [Pipedream](https://pipedream.com/) - Develop any workflow, based on any trigger. Workflows are code, which you can run for free. ([Code](https://github.com/PipedreamHQ/pipedream))
+- [Pipedream](https://pipedream.com/) - AWS Lambda + Zapier alternative .Develop any workflow, based on any trigger. Workflows are code, which you can run for free. ([Code](https://github.com/PipedreamHQ/pipedream)) ([HN](https://news.ycombinator.com/item?id=30941740))
 - [An Introduction to APIs](https://zapier.com/learn/apis/)
 - [Paragon](https://www.useparagon.com/) - Visually create production-ready API workflows. ([HN](https://news.ycombinator.com/item?id=22813834))
 - [Saasify](https://saasify.sh/) - Handles all of the SaaS boilerplate, including user accounts, subscription billing, developer docs, and a polished marketing site.

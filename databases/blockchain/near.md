@@ -18,3 +18,4 @@
 - [Generic ERC-20/NEP-141 connector for Rainbow Bridge](https://github.com/aurora-is-near/rainbow-token-connector)
 - [NEAR API JS](https://github.com/near/near-api-js) - JavaScript/TypeScript library for development of DApps on the NEAR platform.
 - [NEAR Smart Contracts Plugins](https://github.com/aurora-is-near/near-plugins)
+- [NEAR Wallet Selector](https://github.com/near/wallet-selector) - Wallet modal that allows users to interact with NEAR dApps with a selection of available wallets.

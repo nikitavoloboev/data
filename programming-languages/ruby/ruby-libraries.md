@@ -14,6 +14,7 @@
 - [GitHub::DS](https://github.com/github/github-ds) - Collection of Ruby libraries for working with SQL on top of ActiveRecord's connection.
 - [Extralite](https://github.com/digital-fabric/extralite) - Fast Ruby gem for working with SQLite3 databases. ([Article](https://noteflakes.com/articles/2021-12-15-extralite))
 - [MiniSql](https://github.com/discourse/mini_sql) - Minimal, fast, safe SQL executor.
+- [pg_query](https://github.com/pganalyze/pg_query) - Ruby extension to parse, deparse and normalize SQL queries using the PostgreSQL query parser.
 
 ## Web
 
@@ -60,6 +61,7 @@
 - [Treetop](https://github.com/cjheath/treetop) - Ruby-based parsing DSL based on parsing expression grammars.
 - [attr-gather](https://github.com/ianks/attr-gather) - Provides a process to fetch information from many data sources in a fully parallelized fashion.
 - [Kiba ETL](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby.
+- [algorithms](https://github.com/kanwei/algorithms) - Ruby algorithms and data structures. C extensions.
 
 ## Links
 
