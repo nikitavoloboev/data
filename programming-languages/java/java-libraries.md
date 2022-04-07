@@ -25,6 +25,10 @@
 
 - [Mockito](https://github.com/mockito/mockito) - Most popular mocking framework for Java. ([Web](https://site.mockito.org/))
 
+## ML
+
+- [Deep Java Library (DJL)](https://github.com/deepjavalibrary/djl) - Open-source, high-level, engine-agnostic Java framework for deep learning.
+
 ## Other
 
 - [bifurcan](https://github.com/lacuna/bifurcan) - Impure functional data structures.
@@ -58,3 +62,4 @@
 - [Jar Jar Links](https://github.com/shevek/jarjar) - Utility that makes it easy to repackage Java libraries and embed them into your own distribution.
 - [What Java Modules Are About (2021)](https://inside.java/2021/09/10/what-are-modules-about/) ([HN](https://news.ycombinator.com/item?id=28489881))
 - [Ask HN: Does Java need a modern Java UI toolkit for desktop/web? (2022)](https://news.ycombinator.com/item?id=30789337)
+- [Reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem. ([Web](https://reposilite.com/))

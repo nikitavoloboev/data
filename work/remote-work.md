@@ -85,7 +85,7 @@
 - [Ask HN: How do you switch off from work, particularly when WFH? (2020)](https://news.ycombinator.com/item?id=24196433)
 - [Remoteleaf](https://remoteleaf.com/) - Receive hand-picked remote jobs delivered straight to your inbox.
 - [Why do so many people want us back in the office? (2020)](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/) ([HN](https://news.ycombinator.com/item?id=24452280))
-- [Remotive](https://remotive.io/) - Remote Jobs in Programming, Support, Design and more.
+- [Remotive](https://remotive.com/) - Remote Jobs in Programming, Support, Design and more. ([Becoming Remotive.com](https://blog.remotive.com/remotive-dot-com/))
 - [Remote Technology Jobs by Standard Resume](https://standardresume.co/remote-jobs)
 - [Getting noticed as a remote engineer (2020)](https://triplebyte.com/blog/getting-noticed-as-a-remote-engineer-and-why-it-matters/) ([HN](https://news.ycombinator.com/item?id=24702397))
 - [Slite Remote Coaching](https://slite.com/remote-chat) - Schedule a 30 min chat to untangle remote work.

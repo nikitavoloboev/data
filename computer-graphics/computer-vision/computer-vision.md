@@ -680,3 +680,15 @@
 - [Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries (2022)](https://arxiv.org/abs/2203.15355) ([Code](https://github.com/clovaai/puridiver))
 - [Perception Prioritized Training of Diffusion Models (2022)](https://arxiv.org/abs/2204.00227) ([Code](https://github.com/jychoi118/P2-weighting))
 - [VisualBERT: A Simple and Performant Baseline for Vision and Language (2019)](https://arxiv.org/abs/1908.03557) ([Code](https://github.com/uclanlp/visualbert))
+- [MultiMAE: Multi-modal Multi-task Masked Autoencoders (2022)](https://arxiv.org/abs/2204.01678) ([Code](https://github.com/EPFL-VILAB/MultiMAE))
+- [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction (2021)](https://arxiv.org/abs/2106.10689) ([Code](https://github.com/Totoro97/NeuS))
+- [Towards Open World Object Detection (2021)](https://arxiv.org/abs/2103.02603) ([Code](https://github.com/JosephKJ/OWOD))
+- [Transformer in Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision) - Recent Transformer-based CV and related works.
+- [Shunted Self-Attention via Multi-Scale Token Aggregation (2021)](https://arxiv.org/abs/2111.15193) ([Code](https://github.com/OliverRensu/Shunted-Transformer))
+- [Space-Time Correspondence as a Contrastive Random Walk (2020)](https://ajabri.github.io/videowalk/) ([Code](https://github.com/ajabri/videowalk))
+- [MaskGIT: Masked Generative Image Transformer (2022)](https://arxiv.org/abs/2202.04200) ([Code](https://github.com/google-research/maskgit))
+- [EasyCV](https://github.com/alibaba/EasyCV) - All-in-one computer vision toolbox based on PyTorch.
+- [Unleashing Vanilla Vision Transformer with Masked Image Modeling for Object Detection (2022)](https://arxiv.org/abs/2204.02964) ([Code](https://github.com/hustvl/MIMDet))
+- [EMOCA: Emotion Driven Monocular Face Capture and Animation (2022)](https://github.com/radekd91/emoca)
+- [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation (2022)](https://arxiv.org/abs/2203.13161) ([Code](https://github.com/alvinliu0/HA2G))
+- [FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset](http://www.liuyebin.com/faceverse/faceverse.html) ([Code](https://github.com/LizhenWangT/FaceVerse))

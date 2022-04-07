@@ -82,4 +82,4 @@ Is logical theory of computable functions.
 - [seq](https://github.com/robrix/seq) - µµ̃ calculus with pretty-printing and evaluating interpreters.
 - [Lambda Calculus in JS](https://github.com/xieyuheng/lambda)
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) - Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust.
-- [λ-2D: An Exploration of Drawing as Programming Language, Featuring Ideas from Lambda Calculus](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/)
+- [λ-2D: An Exploration of Drawing as Programming Language, Featuring Ideas from Lambda Calculus](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/) ([HN](https://news.ycombinator.com/item?id=30932552))

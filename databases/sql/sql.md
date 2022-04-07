@@ -180,3 +180,4 @@
 - [Animate SQL](https://animatesql.com/) - Visualize SQL Queries. ([HN](https://news.ycombinator.com/item?id=30836647))
 - [RestQ](https://github.com/ivanceras/restq) - Compacting the SQL into the URL rest API.
 - [Is SQL going out of fashion? (2022)](https://twitter.com/troutgirl/status/1510050777015889923)
+- [ReadySet](https://readyset.io/) - Same database, (much) faster queries. SQL caching engine. ([Intro](https://blog.readyset.io/posts/introducing-readyset)) ([HN](https://news.ycombinator.com/item?id=30922082))

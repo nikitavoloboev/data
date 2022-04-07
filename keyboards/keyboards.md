@@ -152,3 +152,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [clavier](https://github.com/MaxHalford/clavier) - Measure edit distance based on keyboard layout.
 - [Ask HN: What are some good keyboards? (2022)](https://news.ycombinator.com/item?id=30549628)
 - [Down the mechanical keyboard rabbit hole (2022)](https://fowlie.github.io/2022/02/25/keyboards-rabbit-hole/) ([HN](https://news.ycombinator.com/item?id=30719263))
+- [Ergogen](https://ergogen.xyz/) - Keyboard generator that aims to provide a common configuration format to describe ergonomic 2D layouts, and generate automatic plates, cases, and (un-routed) PCBs for them. ([Code](https://github.com/ergogen/ergogen))

@@ -4,6 +4,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 
 ## DB
 
+- [SchemaRT](https://github.com/codemariner/schemart) - Generate TypeScript runtime types from your database schema.
 - [joist-ts](https://github.com/stephenh/joist-ts) - TypeScript ORM for Postgres.
 - [atdatabases](https://github.com/ForbesLindesay/atdatabases) - TypeScript clients for databases that prevent SQL Injection. ([Web](https://www.atdatabases.org/))
 - [Mammoth](https://github.com/Ff00ff/mammoth) - Type-safe Postgres query builder for TypeScript.
@@ -23,6 +24,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pg-to-ts](https://github.com/danvk/pg-to-ts) - Generate TypeScript interface definitions from your Postgres schema.
 - [gokv](https://github.com/esm-dev/gokv) - Global Key-Value store for serverless at edge that is built on top of Cloudflare edge network. Druable, low-latency, and easy to use.
 - [postgres-schema-ts](https://github.com/nettofarah/postgres-schema-ts) - Convert Postgres schemas into TypeScript interfaces.
+- [lru-ttl-cache](https://github.com/rafikalid/lru-ttl-cache) - Super fast Optimized in memory LRU and TTL cache. Can store permanent entries too.
 
 ## Web
 
@@ -48,6 +50,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [mini-throttle](https://github.com/github/mini-throttle) - Small JavaScript throttle & debounce implementation.
 - [Express Zod API](https://github.com/RobinTail/express-zod-api) - Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [Spot](https://github.com/airtasker/spot) - Concise, developer-friendly way to describe your API contract.
+- [PostHTML Render](https://github.com/posthtml/posthtml-render) - Render PostHTMLTree to HTML/XML.
 
 ## Test
 
@@ -433,6 +436,11 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [expressive-ts](https://github.com/IMax153/expressive-ts) - Functional programming library designed to simplify building complex regular expressions.
 - [graphics-ts](https://github.com/gcanti/graphics-ts) - Functional bindings for the HTML Canvas API.
 - [Effect-TS - Printer](https://github.com/Effect-TS/printer)
+- [Json Function](https://github.com/aykutkardas/Json-Function) - Allows you to use methods such as schema, innerJoin, where, limit, select, orderBy on JSON data.
+- [astx](https://github.com/codemodsquad/astx) - Structural search and replace for JavaScript and TypeScript.
+- [psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js.
+- [Redo](https://github.com/re-do/re-po) - Set of devtools that make it easier to build and test JS/TS. ([Docs](https://redo.dev/docs/model/intro/))
+- [Immerhin](https://github.com/webstudio-is/immerhin) - Send patches around to keep the system in sync.
 
 ## Links
 

@@ -49,6 +49,7 @@
 - [litestream](https://github.com/akoutmos/litestream) - Wraps Litestream so that SQLite databases can be easily backed up.
 - [Paper Trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [ExAudit](https://github.com/ZennerIoT/ex_audit) - Ecto auditing library that transparently tracks changes and can revert them.
+- [DataSchema](https://github.com/Adzz/data_schema) - Declarative schemas for data transformations.
 
 ## Test
 
@@ -156,6 +157,8 @@
 - [Envy](https://github.com/BlakeWilliams/envy) - Elixir library to load environment variables from .env and environment specific env files.
 - [ExWaiter](https://github.com/baldwindavid/ex_waiter) - Helper for waiting on asynchronous conditions to be met.
 - [Rollbax](https://github.com/ForzaElixir/rollbax) - Exception tracking and logging from Elixir to Rollbar.
+- [Xray](https://github.com/fireproofsocks/xray) - Academic exploration of strings and encodings in Elixir.
+- [PromEx](https://github.com/akoutmos/prom_ex) - Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards.
 
 ## Links
 

@@ -246,3 +246,4 @@
 - [Learn 3D Computer Graphics Programming from scratch](https://pikuma.com/courses/learn-3d-computer-graphics-programming)
 - [Creating a Game Physics Engine with C++](https://pikuma.com/courses/game-physics-engine-programming)
 - [Elden Ring Succeeds by Ignoring 20 Years of Open-World Design (2022)](https://www.gamedeveloper.com/blogs/how-elden-ring-succeeds-by-ignoring-20-years-of-open-world-design) ([HN](https://news.ycombinator.com/item?id=30878278))
+- [Ask HN: Why is visual programming so popular for game programming? (2022)](https://news.ycombinator.com/item?id=30937201)

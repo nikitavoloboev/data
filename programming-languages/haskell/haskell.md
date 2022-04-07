@@ -399,3 +399,5 @@
 - [Great Haskell code bases to study (2022)](https://twitter.com/hillelogram/status/1507806325304172546)
 - [Functional Programming for Physics Geeks (2022)](https://nostarch.com/functional-programming-physics-geeks) ([Reddit](https://www.reddit.com/r/haskell/comments/tpsbti/new_early_access_book_functional_programming_for/))
 - [More thoughts on the Expression Problem in Haskell (2018)](https://eli.thegreenplace.net/2018/more-thoughts-on-the-expression-problem-in-haskell/)
+- [GHCJS](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler that uses the GHC API.
+- [Haskell.org Website Code](https://github.com/haskell-infra/www.haskell.org)

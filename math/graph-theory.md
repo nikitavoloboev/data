@@ -56,3 +56,4 @@
 - [Spectral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/)
 - [Spectral Graph Theory Book](https://bookstore.ams.org/cbms-92)
 - [Graph Notebook: easily query and visualize graphs](https://github.com/aws/graph-notebook)
+- [The Transformer Network for the Traveling Salesman Problem (2021)](https://arxiv.org/abs/2103.03012) ([Code](https://github.com/xbresson/TSP_Transformer))

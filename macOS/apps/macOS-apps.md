@@ -138,6 +138,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Nimble](https://github.com/scade-platform/Nimble) - Lightweight native macOS editor based on everything we love about our favorite editors and IDEs.
 - [Doughnut](https://github.com/dyerc/Doughnut) - Podcast app. For Mac.
 - [Collected App](https://github.com/RoyalIcing/CollectedApp)
+- [NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app".
 
 ## Other interesting apps
 
@@ -237,3 +238,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [IBM Notifier](https://github.com/IBM/mac-ibm-notifications) - macOS agent used to display custom notifications and alerts to the end .
 - [Ask HN: Book Recommendation for macOS Development (2022)](https://news.ycombinator.com/item?id=30753584) ([Lobsters](https://lobste.rs/s/hjk1gx/book_recommendation_for_macos))
 - [Show your desktop & dock (2022)](https://twitter.com/avstorm/status/1506721880752984077)
+- [Mac software I love](https://gist.github.com/devnoname120/4767a0aa18879217170fd0c68809fc24)

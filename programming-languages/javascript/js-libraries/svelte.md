@@ -211,3 +211,6 @@
 - [Svelte Writable Derived](https://github.com/PixievoltNo1/svelte-writable-derived) - Two-way data-transforming stores for Svelte.
 - [Awesome SvelteKit](https://github.com/one-aalam/awesome-svelte-kit)
 - [Made with Svelte](https://madewithsvelte.com/)
+- [Carbon Icons Svelte](https://carbon-icons-svelte.onrender.com/) - Carbon Design System SVG icons as Svelte components. ([Code](https://github.com/carbon-design-system/carbon-icons-svelte))
+- [Svelte Infinite Loading](https://github.com/skayo/svelte-infinite-loading) - Infinite scroll component for Svelte apps.
+- [SvelteKit Component Library](https://github.com/rodneylab/sveltekit-components)

@@ -68,7 +68,7 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
 - [Solana Validators](https://www.validators.app/)
 - [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/)) ([Guide](https://docs.solana.com/developing/clients/javascript-api))
-- [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex)) ([Metaplex Program Library](https://github.com/metaplex-foundation/metaplex-program-library))
+- [Metaplex](https://www.metaplex.com/) - Own your own NFT storefront. ([Code](https://github.com/metaplex-foundation/metaplex)) ([Metaplex Program Library](https://github.com/metaplex-foundation/metaplex-program-library)) ([GitHub](https://github.com/metaplex-foundation)) ([JS SDK](https://github.com/metaplex-foundation/js-next))
 - [HAPI](https://solana.com/ecosystem/hapi) - Cross-chain protocol, aimed at creating new cybersecurity standards for DeFi market by providing real-time data on stolen funds and compromised wallets.
 - [First impressions of Rust programming on Solana (2021)](https://brson.github.io/2021/06/08/rust-on-solana)
 - [Is Solana the Ethereum Killer? w/ Anatoly Yakovenko (2021)](https://www.youtube.com/watch?v=qYH6J4sE7hs)

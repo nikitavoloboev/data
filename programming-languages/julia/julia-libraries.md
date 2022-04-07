@@ -83,6 +83,7 @@
 - [Surrogates.jl](https://github.com/SciML/Surrogates.jl) - Surrogate modeling and optimization for scientific machine learning (SciML).
 - [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting in Julia.
 - [SimpleNeRF](https://github.com/rejuvyesh/SimpleNeRF.jl)
+- [CFMMRouter](https://github.com/bcc-research/CFMMRouter.jl) - Fast solver for the CFMM Routing problem.
 
 ## Math
 
@@ -212,7 +213,7 @@
 
 ## Web
 
-- [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/))
+- [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/)) ([Web](https://genieframework.com/)) ([HN](https://news.ycombinator.com/item?id=30929873))
 - [Elixir for AWS Lambda](https://github.com/amolenaar/elixir_lambda)
 - [Diana.jl](https://github.com/neomatrixcode/Diana.jl) - GraphQL for Julia.
 - [WebAPI.jl](https://github.com/eliascarv/WebAPI.jl) - Abstraction of two Julia packages: HTTP.jl and JSON3.jl. These abstractions allow you to develop APIs in Julia in a simpler and more readable way.
@@ -269,7 +270,7 @@
 - [Automa.jl](https://github.com/BioJulia/Automa.jl) - Julia code generator for regular expressions.
 - [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Plotting and data visualization system written in Julia.
 - [FastTransforms.jl](https://github.com/JuliaApproximation/FastTransforms.jl) - Julia package for fast orthogonal polynomial transforms.
-- [ModelingToolkit.jl](https://github.com/JuliaDiffEq/ModelingToolkit.jl) - Toolkit for modeling and creating DSLs for Scientific Computing in Julia.
+- [ModelingToolkit.jl](https://github.com/JuliaDiffEq/ModelingToolkit.jl) - Toolkit for modeling and creating DSLs for Scientific Computing in Julia. ([Internals of ModelingToolkit](https://www.youtube.com/watch?v=ZFoQihr3xLs))
 - [Zygote](https://github.com/FluxML/Zygote.jl) - Intimate Affection Auditor.
 - [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) - Forward Mode Automatic Differentiation for Julia.
 - [Omega.jl](https://github.com/zenna/Omega.jl) - Causal, Higher-Order, Probabilistic Programming.
@@ -536,6 +537,9 @@
 - [PortAudio.jl](https://github.com/JuliaAudio/PortAudio.jl) - Wrapper for the Julia programming language, compatible with the JuliaAudio family of packages.
 - [ShiftedArrays](https://github.com/JuliaArrays/ShiftedArrays.jl) - Lazy shifted arrays for data analysis in Julia.
 - [MomentClosure.jl](https://github.com/augustinas1/MomentClosure.jl) - Tools to generate and study moment equations for any chemical reaction network using various moment closure approximations.
+- [AxisKeys.jl](https://github.com/mcabbott/AxisKeys.jl) - Defines a thin wrapper which, alongside any array, stores a vector of "keys" for each dimension.
+- [StaticLint](https://github.com/julia-vscode/StaticLint.jl) - Static Code Analysis for Julia.
+- [NestedTuples](https://github.com/cscherrer/NestedTuples.jl) - Tools for making it easier to work with nested tuples and nested named tuples.
 
 ## Links
 

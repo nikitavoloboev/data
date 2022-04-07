@@ -619,3 +619,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library.
 - [Mephisto](https://mephisto.ai/) - Tools for managing crowdsourcing tasks from the inception through to data packaging for research use. ([Code](https://github.com/facebookresearch/Mephisto))
 - [I Heart Microscopes (2022)](https://www.hillelwayne.com/post/microscopy/) ([HN](https://news.ycombinator.com/item?id=30882754))
+- [Ask HN: Share your personal site (2022)](https://news.ycombinator.com/item?id=30934529)

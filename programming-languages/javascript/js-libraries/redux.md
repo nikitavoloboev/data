@@ -97,3 +97,4 @@ There are [better approaches to manage state in React now](https://twitter.com/k
 - [Should we be teaching Redux in 2022?](https://www.reddit.com/r/reactjs/comments/squatd/should_we_be_teaching_redux_in_2022/)
 - [Redux Toolkit v1.8: new "listener" side effects middleware](https://github.com/reduxjs/redux-toolkit/releases/tag/v1.8.0) ([Reddit](https://www.reddit.com/r/reactjs/comments/t3lpx9/redux_toolkit_v18_new_listener_side_effects/))
 - [Redux is pointless when using react query / Apollo client / swr](https://twitter.com/zachcodes/status/1501573905374400512)
+- [Writing Redux Reducers in Rust (2022)](https://fiberplane.dev/blog/writing-redux-reducers-in-rust/) ([Reddit](https://www.reddit.com/r/programming/comments/txi3py/writing_redux_reducers_in_rust/))

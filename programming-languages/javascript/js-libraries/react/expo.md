@@ -32,3 +32,4 @@
 - [Utilities for using THREE.js on Expo](https://github.com/expo/expo-three)
 - [Building a Cross-Platform Web & Mobile App from the Ground Up (2022)](https://ambrook.com/blog/building-a-cross-platform-web-and-mobile-app-from-the-ground-up)
 - [Comprehensive intro to the entire Expo ecosystem (2022)](https://twitter.com/mauro_codes/status/1504495062180323338)
+- [expo/match-media](https://github.com/expo/match-media) - Universal polyfill for match media API using Expo APIs on mobile.

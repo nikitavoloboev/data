@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community.
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community. [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) are great.
 
 ## Notes
 
@@ -757,3 +757,9 @@
 - [Manim Machine Learning](https://github.com/helblazer811/ManimMachineLearning) - Focused on providing animations and visualizations of common machine learning concepts with the Manim Community Library.
 - [Anyscale](https://www.anyscale.com/) - Effortlessly develop, scale and deploy AI, at any scale. ([GitHub](https://github.com/anyscale))
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting (2021)](https://arxiv.org/abs/2106.13008) ([Code](https://github.com/thuml/Autoformer))
+- [On the Bottleneck of Graph Neural Networks and its Practical Implications (2021)](https://arxiv.org/abs/2006.05205) ([Code](https://github.com/tech-srl/bottleneck))
+- [ML Notebooks](https://github.com/dair-ai/ML-Notebooks) - Series of code examples for all sorts of machine learning tasks and applications.
+- [Awesome Semi-Supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning)
+- [FedScale: Benchmarking Model and System Performance of Federated Learning at Scale (2021)](https://arxiv.org/abs/2105.11367) ([Code](https://github.com/SymbioticLab/FedScale))
+- [Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting (2021)](https://arxiv.org/abs/2010.04456) ([Code](https://github.com/yuan-yin/APHYNITY))
+- [Understand transformer architectures (2022)](https://twitter.com/michael_nielsen/status/1511853865150287873)

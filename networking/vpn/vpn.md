@@ -60,3 +60,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Cloak](https://github.com/cbeuw/Cloak) - Censorship circumvention tool to evade detection by authoritarian state adversaries.
 - [Amnezia VPN](https://github.com/amnezia-vpn/desktop-client) - Best client for self-hosted VPN (Desktop+Mobile).
 - [No more VPN. Introducting Cloudflare Tunnel (2022)](https://www.sakowi.cz/blog/cloudflared-docker-compose-tutorial)
+- [PairMesh](https://github.com/pairmesh/pairmesh) - Next-generation security Mesh VPN implementation based on Go.

@@ -158,7 +158,7 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [DBHub.io](https://dbhub.io/) - SQLite storage "in the cloud". ([Code](https://github.com/sqlitebrowser/dbhub.io))
 - [wasm-sqlite](https://github.com/rkusa/wasm-sqlite) - SQLite compiled to WASM with pluggable page storage.
 - [Using SQLite and Datasette with Fly Volumes (2022)](https://simonwillison.net/2022/Feb/15/fly-volumes/)
-- [LumoSQL](https://github.com/LumoSQL/lumosql) - Modification of SQLite embedded data storage library. Offers multiple backend storage systems selectable by the user and proposes other integrity and security features.
+- [LumoSQL](https://github.com/LumoSQL/lumosql) - Modification of SQLite embedded data storage library. Offers multiple backend storage systems selectable by the user and proposes other integrity and security features. ([HN](https://news.ycombinator.com/item?id=30895916))
 - [BFT-SQLITE](https://github.com/davebryson/bftdb) - Tendermint + Sqlite3 = BFT Database Replication.
 - [Litestream Read Replica Demo](https://github.com/benbjohnson/litestream-read-replica-demo) - Demo application for running live read replication on fly.io with Litestream.
 - [Google Drive to SQLite](https://github.com/simonw/google-drive-to-sqlite) - Create a SQLite database containing metadata from Google Drive. ([HN](https://news.ycombinator.com/item?id=30417411))
@@ -176,3 +176,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [A database for 2022](https://tailscale.com/blog/database-for-2022/) ([Tweet](https://twitter.com/simonw/status/1510022364553101312)) ([HN](https://news.ycombinator.com/item?id=30883015)) ([Lobsters](https://lobste.rs/s/t5a0et/database_for_2022))
 - [SQLite B-Tree Module](https://sqlite.org/btreemodule.html) ([HN](https://news.ycombinator.com/item?id=30894913))
 - [SQLite Database File Format](https://www.sqlite.org/fileformat.html)
+- [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) - SQLite virtual table extension to expose Parquet files as SQL tables.

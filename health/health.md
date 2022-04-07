@@ -67,3 +67,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [How to maintain a healthy brain (2021)](https://psyche.co/guides/how-to-maintain-a-healthy-brain-to-reduce-the-risk-of-dementia) ([HN](https://news.ycombinator.com/item?id=29120920))
 - [Ask HN: Any weird tips for weight loss? (2022)](https://news.ycombinator.com/item?id=30617118)
 - [Зачем увлажнять воздух?](https://twitter.com/Emelittences/status/1508111467220017166)
+- [What’s a beauty hack that you swear by?](https://www.reddit.com/r/AskWomen/comments/tx6q24/whats_a_beauty_hack_that_you_swear_by/)

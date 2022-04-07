@@ -77,3 +77,5 @@ Here are tools I use for streaming:
 - [OBS Plugin: Background Removal](https://github.com/royshil/obs-backgroundremoval)
 - [Stream your audio](https://streamyouraudio.com/) - Live stream audio from your computer to this website as easily as possible. ([Code](https://github.com/schollz/streamyouraudio))
 - [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch) - Swaps video ads for an ad-free stream.
+- [End the Streaming Struggle with Plex (2022)](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/) ([HN](https://news.ycombinator.com/item?id=30922711))
+- [srtrelay](https://github.com/voc/srtrelay) - Streaming-Relay for the SRT-protocol.

@@ -278,3 +278,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [relic](https://github.com/sassoftware/relic) - Multi-tool and server for package signing and working with hardware security modules (HSMs).
 - [Trickest](https://trickest.com/) - Workflow-powered solution for Bug Bounty, Pentesting, SecOps.
 - [Secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
+- [Dotenv Vault](https://github.com/dotenv-org/dotenv-vault) - Securely syncs secrets and app configuration across your machines, environments, and team members.

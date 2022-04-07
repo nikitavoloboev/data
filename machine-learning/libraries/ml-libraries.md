@@ -34,7 +34,7 @@
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 - [TensorNetwork](https://github.com/google/TensorNetwork) - Library for easy and efficient manipulation of tensor networks.
 - [lambda-ml](https://github.com/cloudkj/lambda-ml) - Small machine learning library aimed at providing simple, concise implementations of machine learning techniques and utilities.
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python module for machine learning built on top of SciPy. ([Tutorials](https://scikit-learn.org/stable/tutorial/index.html)) ([Course](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)) ([Web](https://scikit-learn.org/dev/index.html)) ([HN](https://news.ycombinator.com/item?id=28521992))
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python module for machine learning built on top of SciPy. ([Tutorials](https://scikit-learn.org/stable/tutorial/index.html)) ([Course](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)) ([Web](https://scikit-learn.org/dev/index.html)) ([HN](https://news.ycombinator.com/item?id=28521992)) ([Examples](https://scikit-learn.org/stable/auto_examples/index.html))
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Powerful Automated Machine Learning python library.
 - [Mlxtend (machine learning extensions)](https://github.com/rasbt/mlxtend) - Python library of useful tools for the day-to-day data science tasks.
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - Framework for Privacy Preserving Machine Learning built on PyTorch.
@@ -316,3 +316,4 @@
 - [DPU Utilities](https://github.com/microsoft/dpu-utils) - Utilities used by the Deep Program Understanding team.
 - [XGBoost-Ray](https://github.com/ray-project/xgboost_ray) - Distributed backend for XGBoost, built on top of distributed computing framework Ray.
 - [Easy Parallel Library](https://github.com/alibaba/EasyParallelLibrary) - General and efficient library for distributed model training.
+- [MetricFlow](https://github.com/transform-data/metricflow) - Allows you to define, build, and maintain metrics in code.

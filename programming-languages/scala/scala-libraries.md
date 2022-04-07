@@ -166,6 +166,7 @@
 - [Colossus](https://github.com/tumblr/colossus) - Lightweight I/O framework for building Scala services.
 - [Futiles](https://github.com/johanandren/futiles) - Missing utils for working with Scala Futures.
 - [spray-json](https://github.com/spray/spray-json) - Lightweight, clean and simple JSON implementation in Scala.
+- [sconfig](https://github.com/ekrich/sconfig) - Configuration library written in Scala which is a direct translation of the original widely used Java library.
 
 ## Links
 
@@ -187,3 +188,5 @@
 - [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
 - [Binary Compatibility Code Examples & Explanation](https://github.com/jatcwang/binary-compatibility-guide) - Guide + Examples to help you better maintain binary compatibility for your Scala library releases.
 - [Scala Diagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code.
+- [panopticon-tui](https://github.com/ScalaConsultants/panopticon-tui) - Terminal UI observability and diagnostic tool for Scala applications.
+- [zio-akka-quickstart](https://github.com/ScalaConsultants/zio-akka-quickstart.g8) - Giter8 template for a fully functional, ready to deploy microservice ZIO, Akka HTTP and Slick.

@@ -173,3 +173,7 @@
 - [Shareloc](https://github.com/CNES/shareloc) - Simple remote sensing geometric library.
 - [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native) - C++ library that powers customizable vector maps in native applications on multiple platforms.
 - [StaticMaps-gl](https://github.com/trailbehind/StaticMaps-gl) - Static map rendering with mapbox-gl.
+- [geospatial](https://github.com/giswqs/geospatial) - Collection of Python packages for geosptial analysis and data visualization.
+- [pg_tileserv](https://github.com/CrunchyData/pg_tileserv) - Thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.
+- [geospatial-ml](https://github.com/giswqs/geospatial-ml) - Collection of Python packages for geospatial analysis and machine learning.
+- [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.

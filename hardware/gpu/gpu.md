@@ -100,3 +100,5 @@
 - [nvblox](https://github.com/nvidia-isaac/nvblox) - Signed Distance Functions (SDFs) on NVIDIA GPUs.
 - [Sparse Voxel Octree (Vulkan Version)](https://github.com/AdamYuan/SparseVoxelOctree) - GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.
 - [Ask HN: How does a CPU communicate with a GPU? (2022)](https://news.ycombinator.com/item?id=30860259)
+- [GPU Top](https://github.com/rib/gputop) - GPU profiling tool.
+- [Jetson Nano Developer Kit | Getting Started](https://github.com/uburuntu/jetson-startup)

@@ -285,3 +285,4 @@
 - [DrString](https://github.com/dduan/DrString) - Finds issues in your Swift docstrings and fixes them for you.
 - [Don’t use a protocol when a struct would do a better job (2022)](https://codeinswift.io/ios-swift-protocol-is-not-always-a-solution-95bba0541d6d)
 - [Hot Reloading in Swift (2022)](https://merowing.info/2022/04/hot-reloading-in-swift/)
+- [Introduce embedded development using Swift (2022)](https://forums.swift.org/t/introduce-embedded-development-using-swift/56573)

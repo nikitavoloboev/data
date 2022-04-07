@@ -4,7 +4,7 @@
 
 I think Russia and most of its people are beautiful and kind but Russian government and all its supporters are the worst. Freedom is being oppressed, the status quo is built and supported on foundation of aggression and fear. Can't voice your opinion publicly without being jailed or beaten. Such society can't flourish and the only way out is eventual migration (which is not easy to do sadly).
 
-I don't live in Russia and genuinely don't feel good to ever live in Russia under the current regime (paying tax in such country is not ethical I feel). I hope to do everything that's in my power to somehow educate and mobilize the majority of Russians to actually gain some kind of financial independence. As I genuinely think that is the only way you can actually think freely. When you live in near poverty or with limited opportunity, it's hard to think rationally. The government propaganda feeds of this helplessness, shows it's not your fault. It's 'The West'. Or someone else. You don't have time nor money to actually go and investigate the truth. Majority of Russians never left Russia and with the current [hell Russia unleashed on Ukraine](https://www.youtube.com/watch?v=mQRTKvoLAEM), this situation won't get better.
+I don't live in Russia and genuinely don't feel good to ever live in Russia under the current regime (paying tax in such country is not ethical I feel). I hope to do everything that's in my power to somehow educate and mobilize the majority of Russians to actually gain some kind of financial independence. As I genuinely think that is the only way you can actually think freely. When you live in near poverty or with limited opportunity, it's hard to think rationally. The government propaganda feeds of this helplessness, shows it's not your fault. It's 'The West'. Or someone else. You don't have time nor money to actually go and investigate the truth. Majority of Russians never left Russia and with the current [hell Russia unleashed on Ukraine](https://www.youtube.com/watch?v=mQRTKvoLAEM), this [situation won't get better](https://www.youtube.com/watch?v=jIwpJXlT2I0).
 
 I don't know how to solve this crisis. I only know that hate, anger and aggression is never the answer. I can't imagine European police beating or jailing people for voicing opinions on the street. It just doesn't make sense.
 
@@ -72,6 +72,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Если вы серьезно используете слово "нация" как объяснение каких-то психологических характеристик людей (даже положительных), живущих на одной территории или связанных родственники отношениями, то внутри вас есть ростки национализма или он сам](https://twitter.com/doctormongol/status/1504334709760929794)
 - [Свободный мир не понимает что требовать от россиян революции - это как требовать от заключённых зоны строгого режима скинуть охрану и самим себя освободить. И это не считая того, что половина зэков освобождаться не хочет.](https://twitter.com/exel_lence/status/1507984048613834757)
 - [Отдельно я конечно хуею с того, что все свои на 100% нацистские действия Россия гордо называет анти-нацистскими. Воистину, черное стало белым, и зрители телевизора не видят подвоха от слова совсем. Я думал, антиутопии преувеличивают, а оказывается, это буквально так рабоатет.](https://twitter.com/nikitonsky/status/1510976978748420096)
+- [Российская пропаганда работает не по принципу навязывания единственно верной точки зрения, линии партии. напротив, она стремится разрушить доверие чему-либо вообще. Поэтому противоречащие друг другу версии событий, которые подряд вылетают из провластных каналов — это не слабость, так и задумано.](https://twitter.com/emiliacioran/status/1511026544608698373)
 
 ## Links
 
@@ -556,3 +557,7 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Ivan the Terrible terminates autonomy of Veliky Novgorod](https://twitter.com/EasyRid04682094/status/1510558112813666304)
 - [How can Russia become a normal European country?](https://www.reddit.com/r/neoliberal/comments/tvhprl/how_can_russia_become_a_normal_european_country/)
 - [У Русских картина мира иная, где Россия всегда жертва](https://twitter.com/levwalkin/status/1510827427106222084)
+- [Vladimir Pozner: How the United States Created Vladimir Putin (2018)](https://www.youtube.com/watch?v=8X7Ng75e5gQ)
+- [Is this how Russia ends? (2022)](https://the.ink/p/is-this-how-russia-ends) ([HN](https://news.ycombinator.com/item?id=30931130))
+- [Алексей Ракша: «Если у вас нет людей, вы не будете империей» (2022)](https://www.youtube.com/watch?v=mzIfOzApmPk)
+- [Тараканы! — ...И ничего кроме правды (2021)](https://www.youtube.com/watch?v=20TOpQQxbnk) ([Tweet](https://twitter.com/EvgenyFeldman/status/1511678296425119746))

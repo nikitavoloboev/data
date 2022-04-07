@@ -1,5 +1,7 @@
 # JS libraries
 
+[PnPm](https://pnpm.io/) is nice package manager.
+
 ## Web Dev frameworks
 
 - [Next.js](https://github.com/vercel/next.js) - Framework for server-rendered or statically-exported React apps.
@@ -178,6 +180,7 @@
 
 - [Elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain JS.
 - [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript.
+- [Tiny WebCrypto](https://github.com/fabiospampinato/tiny-webcrypto) - Tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
 
 ## Other
 
@@ -872,6 +875,19 @@
 - [Word Cloud Layout](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 - [encoding.js](https://github.com/polygonplanet/encoding.js) - Convert or detect character encoding in JavaScript.
 - [Sugar High](https://github.com/huozhi/sugar-high) - Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped.
+- [jsperf.dev](https://github.com/jsperfdev/jsperf.dev) - Monorepo collection of JavaScript performance libraries.
+- [flatstr](https://github.com/davidmarkclements/flatstr) - Flattens the underlying C structures of a concatenated JavaScript string.
+- [ipaddr.js](https://github.com/whitequark/ipaddr.js) - IPv6 and IPv4 address manipulation library.
+- [DataGridXL](https://github.com/datagridxl/datagridxl2) - Excel-like Experience for Web Apps. ([Web](https://www.datagridxl.com/)) ([HN](https://news.ycombinator.com/item?id=30919257))
+- [rope-sequence](https://github.com/marijnh/rope-sequence) - Persistent sequence data structure.
+- [Wild Wild Path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
+- [get-dep-tree](https://github.com/ljharb/get-dep-tree) - Get a dependency tree for a package.
+- [debugging-stream](https://github.com/mafintosh/debugging-stream) - Debug streams, by adding latency etc.
+- [Simple Statistics](https://github.com/simple-statistics/simple-statistics) - JavaScript implementation of descriptive, regression, and inference statistics.
+- [Simple Linear Regression](https://github.com/mljs/regression-simple-linear)
+- [Diff Match Patch](https://github.com/JackuB/diff-match-patch) - High-performance library in multiple languages that manipulates plain text.
+- [Nitro](https://github.com/unjs/nitro) - Build and deploy universal JavaScript servers.
+- [Channel](https://github.com/NodeGuy/channel) - Go-like channels for JavaScript.
 
 ## Links
 
@@ -938,3 +954,4 @@
 - [sdc-check](https://github.com/mbalabash/sdc-check) - Easy-to-use tool to inform you about potential risks in your project dependencies list.
 - [What are Weak Links in the npm Supply Chain? (2021)](https://arxiv.org/abs/2112.10165v2)
 - [qpind](https://github.com/Intevel/qpind) - Install dependecies quick & programmatically.
+- [narn](https://github.com/joeldenning/narn) - CLI that detects whether your current npm package is using npm, yarn, or pnpm.

@@ -124,3 +124,5 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [PythonTeX](https://github.com/gpoore/pythontex) - Execute Python and other code in LaTeX documents, or typeset it with syntax highlighting.
 - [latexindent.pl](https://github.com/cmhughes/latexindent.pl) - Perl script to add indentation (leading horizontal space) to LaTeX files.
 - [TeX Live](https://tug.org/texlive/) - TeX Users Group.
+- [Tufte Algorithms Book Template](https://github.com/sisl/tufte_algorithms_book) - Template for textbooks in the same style as Algorithms for Optimization.
+- [MTTeX](https://github.com/wilbowma/mttex) - LaTeX package for formatting meta-theory.

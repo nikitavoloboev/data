@@ -79,7 +79,7 @@
 - [Vue Konva](https://github.com/konvajs/vue-konva) - JavaScript library for drawing complex canvas graphics using Vue.
 - [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 - [Vant](https://github.com/youzan/vant) - Mobile UI Components built on Vue.
-- [Nuxt](https://nuxtjs.org/) - Hybrid Vue Framework. ([Code](https://github.com/nuxt/framework)) ([Nuxt 3 Public Beta Launch with Q&A](https://www.youtube.com/watch?v=kXHuaCNfYEY))
+- [Nuxt](https://nuxtjs.org/) - Hybrid Vue Framework. ([Code](https://github.com/nuxt/framework)) ([Nuxt 3 Public Beta Launch with Q&A](https://www.youtube.com/watch?v=kXHuaCNfYEY)) ([Docs](https://v3.nuxtjs.org/getting-started/quick-start))
 - [iles](https://github.com/ElMassimo/iles) - Islands of interactivity with Vue in Vite.js.
 - [Nuxt 3 Starter](https://github.com/productfrontenddeveloper/nuxt3-app) - Nuxt3, Tailwindcss, Sass, Headless UI, Vue.
 - [Vue Bleeding Edge](https://github.com/aldy505/vue-bleeding-edge) - Aiming to simulate Nuxt 3 without using Nuxt.
@@ -133,3 +133,4 @@
 - [Blitzar](https://github.com/CyCraft/blitzar) - Generate Vue Forms and Data-tables fast with a simple JSON-like syntax.
 - [Magnetar](https://github.com/CyCraft/magnetar) - Framework-agnostic syncing solution that auto-connects any DB/API with your local data store and has optimistic-UI built in.
 - [Quasar Framework](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time. ([Web](https://quasar.dev/))
+- [unplugin-vue-define-options](https://github.com/sxzz/unplugin-vue-define-options) - Introduce a macro in script setup, defineOptions, to use Options API in script setup.

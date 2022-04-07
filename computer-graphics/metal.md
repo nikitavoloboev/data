@@ -39,10 +39,12 @@
 - [MetalFilters](https://github.com/alexiscn/MetalFilters) - Instagram filters implemented in Metal.
 - [MetalEDR-iOS](https://github.com/Naituw/MetalEDR-iOS) - Demo of using Metal to render EDR / HDR content on iOS platform. ([Tweet](https://twitter.com/ChristianSelig/status/1450214423612862464))
 - [Metal Camera](https://github.com/gsurma/metal_camera) - iOS metal camera with GPU shaders.
-- [Metal-cpp](https://github.com/bkaradzic/metal-cpp) - Low-overhead C++ interface for Metal.. ([Docs](https://developer.apple.com/metal/cpp/)) ([HN](https://news.ycombinator.com/item?id=29289761))
+- [Metal-cpp](https://github.com/bkaradzic/metal-cpp) - Low-overhead C++ interface for Metal.. ([Docs](https://developer.apple.com/metal/cpp/)) ([HN](https://news.ycombinator.com/item?id=29289761)) ([Tweet](https://twitter.com/gavkar/status/1511874338898599944))
 - [Metal.jl](https://github.com/JuliaGPU/Metal.jl) - Metal programming in Julia.
 - [nvim-metals](https://github.com/scalameta/nvim-metals) - Metals plugin for Nvim.
 - [MetalCoreGraphics](https://github.com/s1ddok/MetalCoreGraphics) - Combine the power of Metal and CoreGraphics by sharing resource memory.
 - [Ask HN: Why did Apple create their half-baked Metal instead of using Vulkan? (2022)](https://news.ycombinator.com/item?id=30755407)
 - [OpenCL on Metal (2022)](https://threedots.ovh/blog/2022/03/opencl-on-metal-1-get_global_id/)
 - [Metal Library Archive](https://github.com/YuAo/MetalLibraryArchive) - Extract Metal functions from .metallib files.
+- [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with async / await in Swift & Metal.
+- [Metal by Tutorials](https://www.raywenderlich.com/books/metal-by-tutorials) ([Code](https://github.com/raywenderlich/met-materials))

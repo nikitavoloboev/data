@@ -105,3 +105,4 @@ Might give it a go sometime.
 - [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
 - [22 years of Emacs](https://arjenwiersma.nl/writeups/emacs/22-years-of-emacs/) ([Lobsters](https://lobste.rs/s/zhwlfz/22_years_emacs))
 - [Emacs Builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.
+- [What’s New in Emacs 28.1? (2022)](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1) ([HN](https://news.ycombinator.com/item?id=30930816))

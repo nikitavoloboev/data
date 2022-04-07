@@ -36,7 +36,7 @@ All active variables can be seen by running `env`.
 - [Nu Shell](https://github.com/nushell/nushell) - Modern, GitHub-era shell written in Rust. ([HN](https://news.ycombinator.com/item?id=20783006))
 - [Collection of pure POSIX sh alternatives to external processes](https://github.com/dylanaraps/pure-sh-bible)
 - [Lobsters: What does your shell prompt look like? (2019)](https://lobste.rs/s/skoapt/what_does_your_shell_prompt_look_like)
-- [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
+- [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line. ([HN](https://news.ycombinator.com/item?id=30925843))
 - [Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 - [What Is a Shell? (2019)](https://yunchi.dev/posts/what-is-a-shell/)
 - [Lobsters: What shell do you use? (2019)](https://lobste.rs/s/tjjfnz/what_shell_do_you_use)
@@ -142,7 +142,7 @@ All active variables can be seen by running `env`.
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 - [How to replace a string with sed in current and recursive subdirectories](https://victoria.dev/blog/how-to-replace-a-string-with-sed-in-current-and-recursive-subdirectories/)
 - [Gufo](https://github.com/Piervit/gufo) - Modern shell language.
-- [Warp](https://www.warp.dev/) - Fast, Rust-based terminal. ([HN](https://news.ycombinator.com/item?id=27835057)) ([Issues](https://github.com/warpdotdev/warp))
+- [Warp](https://www.warp.dev/) - Fast, Rust-based terminal. ([HN](https://news.ycombinator.com/item?id=27835057)) ([Issues](https://github.com/warpdotdev/warp)) ([HN](https://news.ycombinator.com/item?id=30921231))
 - [How Warp Works (2021)](https://blog.warp.dev/how-warp-works/) ([Lobsters](https://lobste.rs/s/16pj8p/how_warp_works))
 - [TStream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal. ([Web](https://www.tstream.club/))
 - [; echo "Shell Injection" (2021)](https://matklad.github.io//2021/07/30/shell-injection.html) ([Lobsters](https://lobste.rs/s/v0zrtr/echo_shell_injection)) ([HN](https://news.ycombinator.com/item?id=28105100))
@@ -206,3 +206,4 @@ All active variables can be seen by running `env`.
 - [Redo](https://github.com/barthr/redo) - Command line application to easily create reusable functions in your own shell. ([HN](https://news.ycombinator.com/item?id=30878935))
 - [The Day of a new Command-Line Interface: Shell (2022)](https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/)
 - [Crab](https://github.com/dabapps/crab) - Simple unix toolkit for working with local development environments.
+- [Nice scripting languages](https://twitter.com/mgattozzi/status/1511036916615069705)

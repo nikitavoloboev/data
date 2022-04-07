@@ -144,3 +144,7 @@
 - [Django Postgres Metrics](https://github.com/django-postgres-metrics/django-postgres-metrics) - Django application that exposes a bunch of PostgreSQL database metrics.
 - [django-stubs](https://github.com/typeddjango/django-stubs) - Type stubs and a custom mypy plugin to provide more precise static types and type inference for Django framework.
 - [Django Channels Rest Framework](https://github.com/LostMoa/djangochannelsrestframework) - Provides a DRF like interface for building channels-v3 websocket consumers.
+- [django-structlog](https://github.com/jrobichaud/django-structlog) - Structured Logging for Django.
+- [Django FastAPI ORM](https://github.com/kigawas/fastapi-django)
+- [Djantic](https://github.com/jordaneremieff/djantic) - Pydantic models for Django.
+- [nango](https://github.com/nicois/nango) - Streamlining Django forms to provide all the wins of single-page-applications without the pain.

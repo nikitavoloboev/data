@@ -383,3 +383,5 @@ Awesome List
 - [GrepHub](https://grephub.com/lodash/lodash) - Search GitHub repositories with regexes. ([Code](https://github.com/hmarr/grephub))
 - [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://ghe.clickhouse.tech/) ([Code](https://github.com/ClickHouse/github-explorer))
 - [Find pull requests that modify a file path in the terminal](https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal/)
+- [GateRepo](https://github.com/Anish-Agnihotri/GateRepo) - Token-gated GitHub Repositories.
+- [github-pewpew](https://adrianmato.com/pewpew) - Clean up your unused repos via CLI. ([Code](https://github.com/adrianmg/github-pewpew))

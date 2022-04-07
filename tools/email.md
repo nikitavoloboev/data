@@ -129,7 +129,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Candymail](https://github.com/bdcorps/candymail) - Email Automation for Node.js. ([HN](https://news.ycombinator.com/item?id=25578834))
 - [Imapsync](https://imapsync.lamiral.info/) - IMAP transfers tool. ([Code](https://github.com/imapsync/imapsync))
 - [rust-imap](https://github.com/jonhoo/rust-imap) - IMAP client library for Rust.
-- [mnm](https://mnmnotmail.org/) - Open source project to replace email & SMTP. ([HN](https://news.ycombinator.com/item?id=25804869)) ([Code](https://github.com/networkimprov/mnm))
+- [mnm](https://mnmnotmail.org/) - Open source project to replace email & SMTP. ([HN](https://news.ycombinator.com/item?id=25804869)) ([Code](https://github.com/networkimprov/mnm)) ([Client Code](https://github.com/networkimprov/mnm-hammer))
 - [Umbriel](https://github.com/diego3g/umbriel) - Email marketing platform built with Node.js, TypeScript and DDD concepts.
 - [ProtonMail](https://protonmail.com/) - Secure Email. Based in Switzerland. ([ProtonMail Bridge](https://github.com/ProtonMail/proton-bridge)) ([GitHub](https://github.com/ProtonMail))
 - [Mailgun.js](https://github.com/mailgun/mailgun-js) - JavaScript SDK for Mailgun.
@@ -228,3 +228,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [MJML](https://github.com/mjmlio/mjml) - Framework that makes responsive-email easy. ([Web](https://mjml.io/))
 - [Groups.io](https://groups.io/) - Email Groups, Supercharged.
 - [Inbox Shield](https://leavemealone.app/shield/) - Easily screen which emails land in your inbox and stay focused on what matters.
+- [email-seems-valid](https://github.com/Earnifi/email-seems-valid) - Offline email validation - JS or TS.

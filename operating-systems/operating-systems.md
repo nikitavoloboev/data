@@ -352,3 +352,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [libtree](https://github.com/haampie/libtree) - ldd as a tree.
 - [Hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications. Procfile is a simple format to specify types of processes your application provides.
 - [Resources to learn OS concepts (2022)](https://twitter.com/bradfitz/status/1495066999587627011)
+- [Dynamic Tracing Guide](https://illumos.org/books/dtrace/bookinfo.html)

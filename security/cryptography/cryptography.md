@@ -158,3 +158,6 @@
 - [Oblivious Message Retrieval (2021)](https://eprint.iacr.org/2021/1256)
 - [SHA-256 Project](https://github.com/oconnor663/sha256_project) - Learn how hash functions work by implementing one yourself. ([HN](https://news.ycombinator.com/item?id=30809352))
 - [The Joy Of Duplexes (2022)](https://codahale.com//the-joy-of-duplexes/)
+- [Keychain-PKCS11](https://github.com/kenh/keychain-pkcs11) - Shared library that implements a PKCS#11 interface to the Apple Security framework.
+- [liblithium](https://github.com/teslamotors/liblithium) - Lightweight and portable cryptography library.
+- [Researchers Identify ‘Master Problem’ Underlying All Cryptography (2022)](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/) ([HN](https://news.ycombinator.com/item?id=30934721))

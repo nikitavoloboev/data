@@ -178,6 +178,9 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [y-presence](https://github.com/nimeshnayaju/y-presence) - Easy way to add presence (live cursors/avatars) to any react application using react hooks.
 - [form-builder](https://github.com/zero-one-group/form-builder) - Lightweight react hook library to simplify approach in building Formik form.
 - [usePortal](https://github.com/alex-cory/react-useportal) - React hook for Portals.
+- [useDelayedRender](https://github.com/pacocoursey/use-delayed-render) - React hook for delaying the render and unmount of a component.
+- [onClickOutside](https://github.com/wellyshen/react-cool-onclickoutside) - React hook to listen for clicks outside of the component(s).
+- [react-sage](https://github.com/meinstein/react-sage) - Handy-dandy React hooks.
 
 ## Code
 

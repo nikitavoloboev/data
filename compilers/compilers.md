@@ -208,3 +208,4 @@
 - [mdec](https://github.com/mborgerson/mdec) - Decompilation as a Service. Explore multiple decompilers and compare their output with minimal effort. Upload binary, get decompilation.
 - [BacCaml](https://github.com/prg-titech/baccaml) - Meta-hybrid JIT compiler mixing trace- and method-based compilation strategies.
 - [QBE](http://c9x.me/compile/) - Compiler Backend. ([Code](https://github.com/8l/qbe))
+- [Hand-optimizing the TCC code generator (2022)](https://briancallahan.net/blog/20220406.html)

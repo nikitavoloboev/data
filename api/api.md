@@ -85,6 +85,7 @@
 - [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
 - [Slack Go 5](https://github.com/shomali11/slacker) - Slack Bot Framework in Go.
 - [Slack Julia](https://github.com/aviks/SlackSDK.jl)
+- [Slack Deno](https://github.com/slackapi/deno-slack-api)
 - [Stripe Go](https://github.com/stripe/stripe-go)
 - [Stripe Rust](https://github.com/arlyon/async-stripe) - Asynchronous Rust API bindings for the Stripe HTTP API.
 - [Yandex Music Python](https://github.com/MarshalX/yandex-music-api)
@@ -351,7 +352,8 @@
 - [Sphinx AutoAPI](https://github.com/readthedocs/sphinx-autoapi) - New approach to API documentation in Sphinx.
 - [OpenAPI Codegen](https://github.com/fabien0102/openapi-codegen) - Tool for generating code base on an OpenAPI schema.
 - [API design guidelines](https://twitter.com/markdalgleish/status/1494591964934668289)
-- [Oxide Computer generated third party Rust API clients](https://github.com/oxidecomputer/third-party-api-clients)
+- [Oxide Rust](https://github.com/oxidecomputer/third-party-api-clients)
+- [Oxide Go](https://github.com/oxidecomputer/oxide.go)
 - [Keploy](https://github.com/keploy/keploy) - No code API testing platform. Create unit tests and mocks from API calls.
 - [Postman Code Generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman.
 - [Docgen](https://github.com/thedevsaddam/docgen) - Transform your postman collection to HTML/Markdown documentation.

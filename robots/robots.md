@@ -151,3 +151,7 @@
 - [LiDAR-Camera Calibration using 3D-3D Point correspondences (2017)](https://arxiv.org/abs/1705.09785) ([Code](https://github.com/ankitdhall/lidar_camera_calibration))
 - [Continuum Robot Examples](https://github.com/JohnDTill/ContinuumRobotExamples) - Incremental guide to continuum robot mathematical modeling and numerical implementation.
 - [Tutorial: Tools for Robotic Reinforcement Learning (2022)](https://araffin.github.io/tools-for-robotic-rl-icra2022/) ([Code](https://github.com/araffin/tools-for-robotic-rl-icra2022))
+- [SymForce](https://github.com/symforce-org/symforce) - Fast symbolic computation, code generation, and nonlinear optimization for robotics. ([Docs](https://symforce.org/))
+- [Index Pick and Place](https://github.com/index-machines/index) - Open source pick and place machine to aid in Mid-Scale Manufacturing.
+- [From rigid to soft to biological robots (2022)](https://www.youtube.com/watch?v=UxVOvf1uM64)
+- [iSDF: Real-Time Neural Signed Distance Fields for Robot Perception (2022)](https://joeaortiz.github.io/iSDF/) ([Code](https://github.com/facebookresearch/iSDF))

@@ -8,6 +8,8 @@ Go promotes composition over inheritance.
 
 [Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to [learn Go](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/).
 
+[GoReleaser](https://github.com/goreleaser/goreleaser) is useful for publishing.
+
 ## Commenting Go code
 
 - Comments documenting declarations should be full sentences.

@@ -248,6 +248,7 @@
 - [TouchInspector](https://github.com/jtrivedi/TouchInspector) - Drop-in package that helps you visualize and debug touches on iOS and iPadOS.
 - [SwiftAlertView](https://github.com/dinhquan/SwiftAlertView) - Powerful AlertView library written in Swift.
 - [WebViewKit](https://github.com/danielsaidi/WebViewKit) - Adds a WebView to SwiftUI.
+- [StickyTabBarViewController](https://github.com/emrepun/StickyTabBarViewController) - Sticky and Collapsible View on top of tab bar.
 
 ## macOS
 
@@ -269,6 +270,7 @@
 - [STTextView](https://github.com/krzyzanowskim/STTextView) - TextKit2 text view without NSTextView baggage.
 - [NSToolbar](https://github.com/marioaguzman/toolbar) - Programmatically constructing an NSToolbar (AppKit) for macOS.
 - [AppKitFocusOverlay](https://github.com/dagronf/AppKitFocusOverlay) - Add hotkey(s) to display the key focus path for any window in your AppKit application.
+- [MenuBuilder](https://github.com/j-f1/MenuBuilder) - Swift Function Builder for creating NSMenuItems.
 
 ## Web
 
@@ -469,6 +471,7 @@
 - [SwiftTabler](https://github.com/openalloc/SwiftTabler) - Multi-platform SwiftUI component for tabular data.
 - [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - Lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only.
 - [ShapeUp](https://github.com/ryanlintott/ShapeUp) - Make shapes and cut corners in SwiftUI.
+- [SwiftUI Animation](https://github.com/Arvindcs/SwiftUI-Animation)
 
 ## Test
 
@@ -496,6 +499,7 @@
 - [Spectre](https://github.com/kylef/Spectre) - BDD Framework and test runner for Swift projects and playgrounds.
 - [GeometryWriter](https://github.com/heestand-xyz/GeometryWriter) - GeometryWriter writes the minimum frame to a View.
 - [SwiftParamTest](https://github.com/YusukeHosonuma/SwiftParamTest) - Parameterized test for Swift.
+- [Shock](https://github.com/justeat/Shock) - HTTP mocking framework written in Swift.
 
 ## API
 
@@ -530,6 +534,10 @@
 - [SwiftyGif](https://github.com/kirualex/SwiftyGif) - High performance & easy to use GIF engine.
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library. ([Fork](https://github.com/UnGast/SkiaKit))
 - [GLTFKit2](https://github.com/warrenm/GLTFKit2) - Efficient glTF loader and exporter for Objective-C and Swift.
+
+## Crypto
+
+- [Elliptic Curve Key Pair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave on iOS and MacOS.
 
 ## WebSocket
 
@@ -1052,6 +1060,12 @@
 - [Flow](https://github.com/danielctull-playground/Flow) - Type built on Swift concurrency which can be chained like AsyncSequence or a Combine Publisher with the guarantee that only one value will come through the chain.
 - [DictionaryBuilder](https://github.com/spacenation/swift-dictionary-builder) - Dictionary result builder for Swift.
 - [Inject](https://github.com/krzysztofzablocki/Inject) - Hot reloading workflow helper that enables you to save hours of time each week, regardless if you are using UIKit, AppKit or SwiftUI.
+- [TimeLapseBuilder](https://github.com/acj/TimeLapseBuilder-Swift) - Build a movie from JPEG images in Swift using AVFoundation.
+- [OSCKit](https://github.com/orchetect/OSCKit) - Open Sound Control (OSC) library written in Swift.
+- [SwiftRoaring](https://github.com/RoaringBitmap/SwiftRoaring) - Swift wrapper for CRoaring.
+- [Mercato](https://github.com/tikhop/Mercato) - Lightweight StoreKit 2 Wrapper.
+- [HeckelDiff](https://github.com/mcudich/HeckelDiff) - Fast Swift diffing library.
+- [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Lightweight Swift Library that provides an easy way to work with location-related functionalities.
 
 ## Other (not lib)
 
@@ -1110,3 +1124,4 @@
 - [CloudKit Samples: Queries](https://github.com/apple/cloudkit-sample-queries)
 - [CloudKit Samples: Core Data with CloudKit](https://github.com/apple/cloudkit-sample-coredatasync)
 - [Swift Sample Distributed Actors Transport](https://github.com/apple/swift-sample-distributed-actors-transport)
+- [Swift Documentation Extract](https://github.com/swift-biome/swift-documentation-extract) - SPM plugin for generating symbolgraphs and cataloging DocC documentation.

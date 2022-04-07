@@ -321,3 +321,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Cloud Governance with CDK using Aspects (2022)](https://www.nearform.com/blog/cloud-governance-with-cdk-using-aspects/)
 - [10 CloudWatch Logs Insights examples for serverless applications (2022)](https://dev.to/aws-heroes/10-cloudwatch-logs-insights-examples-for-serverless-applications-4293)
 - [Biggest mistakes you see startups making in AWS](https://twitter.com/jrhunt/status/1511174998894931971)
+- [aws-auth](https://github.com/keikoproj/aws-auth) - Makes the management of the aws-auth config map for EKS Kubernetes clusters easier.
+- [Amazon CloudWatch Agent](https://github.com/aws/amazon-cloudwatch-agent)
+- [S3 Account Search](https://github.com/WeAreCloudar/s3-account-search) - Tool lets you find the account id an S3 bucket belongs too.
+- [aws-sso-util](https://github.com/benkehoe/aws-sso-util) - Making life with AWS SSO a little easier.

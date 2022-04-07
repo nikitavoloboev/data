@@ -146,3 +146,6 @@
 - [Primer ViewComponents](https://github.com/primer/view_components) - ViewComponents for the Primer Design System.
 - [Brakeman](https://github.com/presidentbeef/brakeman) - Static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 - [Ruby on Whales: Dockerizing Ruby and Rails development (2022)](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development)
+- [Hotrails](https://www.hotrails.dev/) - Learn modern Ruby on Rails with Hotwire.
+- [PgSearch](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search.
+- [Simplify Rails Views Using ViewComponents with Tailwind CSS and RSpec (2022)](https://stefcoetzee.com/rails-viewcomponent-rspec-tailwind)

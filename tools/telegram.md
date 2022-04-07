@@ -36,7 +36,8 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
 - [Rust Telegram Bot Library](https://github.com/telegram-rs/telegram-bot)
 - [telegram-bot-simple](https://github.com/fizruk/telegram-bot-simple) - Easy to use library for building Telegram bots in Haskell.
-- [Telegram C++](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API provides an HTTP API for creating Telegram Bots.
+- [Telegram Bot API in C++](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API provides an HTTP API for creating Telegram Bots.
+- [Telegram Bot API Docker](https://github.com/aiogram/telegram-bot-api)
 - [Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too.
 - [banana](https://github.com/Smertig/banana) - C++ Telegram Bot API library.
 - [TelegraML](https://github.com/nv-vn/TelegraML) - OCaml implementation of the Telegram Bot API.
@@ -199,3 +200,5 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [MTCute](https://github.com/mtcute/mtcute) - Library for MTProto in TypeScript.
 - [Telegram Payment Bots in 2022](https://blog.invitemember.com/telegram-payment-bots-guide/)
 - [InviteMember Blog](https://blog.invitemember.com/) - Telegram Subscription Business Resource.
+- [Telegram Limits](https://limits.tginfo.me/en) - Describes Telegram limitations. ([Code](https://github.com/tginfo/Telegram-Limits))
+- [Telegram Local](https://github.com/Olegt0rr/telegram-local) - Example of Telegram local API and aiogram 3.x.

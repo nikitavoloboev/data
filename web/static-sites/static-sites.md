@@ -67,6 +67,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [tinypages](https://github.com/Borrus-sudo/tinypages) - Vite based SSG, using markdown interpolated with Preact components to build MPA websites tiny and fast.
 - [StaticSite](https://github.com/objcio/StaticSite) - Helper functions to generate a static site in Swift.
 - [Radish](https://github.com/jakelazaroff/radish) - Delightful React-based static site generator that outputs plain HTML & CSS.
+- [Markata](https://markata.dev/) - Plugins all the way down static site generator. ([Code](https://github.com/WaylonWalker/markata))
 
 ## Notes
 

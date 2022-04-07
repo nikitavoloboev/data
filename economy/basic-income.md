@@ -23,3 +23,4 @@ Technology and automation will not stop and more things will be automated with e
 - [European Citizen's Initiative for Unconditional Basic Income](https://eci.ec.europa.eu/014/public/#/screen/home) ([HN](https://news.ycombinator.com/item?id=25579529))
 - [Jain Family Institute](https://www.jainfamilyinstitute.org/) - Applied research organization in the social sciences.
 - [Universal Basic Income Is Superior to a $15 Minimum Wage (2019)](https://basicincometoday.com/opinion-universal-basic-income-is-superior-to-a-15-minimum-wage/) ([HN](https://news.ycombinator.com/item?id=25971227))
+- [Would a universal basic income lead to inflation? (2022)](https://news.ycombinator.com/item?id=30943530)

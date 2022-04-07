@@ -170,3 +170,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What are the actual differences between a casual relationship and a serious relationship? (2022)](https://www.reddit.com/r/datingoverthirty/comments/tl191p/what_are_the_actual_differences_between_a_casual/)
 - [36 Questions - How to fall in love with anyone](http://36questionsinlove.com/)
 - [Ask HN: How do you find peers in your field who care about their craft? (2022)](https://news.ycombinator.com/item?id=30858942)
+- [How is dating typically like in your country? (2022)](https://www.reddit.com/r/AskEurope/comments/twqwey/how_is_dating_typically_like_in_your_country/)

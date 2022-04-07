@@ -289,3 +289,4 @@
 - [WASI Experimental Toolkit](https://github.com/fermyon/wasi-experimental-toolkit) - Experimental interfaces for commonly used WebAssembly functionality.
 - [Fermyon Technologies](https://www.fermyon.com/) - Building open source, WebAssembly-powered cloud tools.
 - [Amalgamated WebAssembly Test Suite](https://github.com/WebAssembly/testsuite)
+- [WASM Builders](https://www.wasm.builders/)

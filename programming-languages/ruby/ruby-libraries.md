@@ -17,6 +17,7 @@
 
 ## Web
 
+- [Falcon](https://github.com/socketry/falcon) - High-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.
 - [Qeweney](https://github.com/digital-fabric/qeweney) - Cross-library feature rich HTTP request / response API. ([Article](https://noteflakes.com/articles/2021-12-03-qeweney))
 - [Vite Ruby](https://github.com/ElMassimo/vite_ruby) - Vite.js in Ruby, bringing joy to your JavaScript experience. ([Web](https://vite-ruby.netlify.app/))
 - [Rodauth](https://github.com/jeremyevans/rodauth) - Ruby's Most Advanced Authentication Framework.
@@ -50,12 +51,15 @@
 - [MemoWise](https://github.com/panorama-ed/memo_wise) - Wise choice for Ruby memoization.
 - [Zhong](https://github.com/nickelser/zhong) - Useful, reliable distributed cron. Uses Redis to acquire exclusive locks on jobs, as well as recording when they last ran.
 - [unparser](https://github.com/mbj/unparser) - Turn Ruby AST into semantically equivalent Ruby source.
-- [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby. ([Web](https://sidekiq.org/))
+- [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby. ([Web](https://sidekiq.org/)) ([Happy 10th Birthday, Sidekiq](https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/)) ([HN](https://news.ycombinator.com/item?id=30917740))
 - [Polyphony](https://github.com/digital-fabric/polyphony) - Fine-Grained Concurrency for Ruby. ([Signal handling in concurrent apps with Ruby and Polyphony](https://noteflakes.com/articles/2021-11-23-signal-handling))
 - [ValueSemantics](https://github.com/tomdalling/value_semantics) - Gem for making value classes, with lightweight validation and coercion.
 - [Liquid::C](https://github.com/Shopify/liquid-c) - Liquid performance extension in C. ([Article](https://shopify.engineering/refactor-path-to-faster-rendering-liquid-c))
 - [Ruby Facets](https://github.com/rubyworks/facets) - Collection of general purpose method extensions and standard additions for the Ruby programming language.
 - [Orchestra](https://github.com/ntl/orchestra) - Seamlessly chain multiple command or query objects together with a simple, lightweight framework.
+- [Treetop](https://github.com/cjheath/treetop) - Ruby-based parsing DSL based on parsing expression grammars.
+- [attr-gather](https://github.com/ianks/attr-gather) - Provides a process to fetch information from many data sources in a fully parallelized fashion.
+- [Kiba ETL](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby.
 
 ## Links
 
@@ -70,3 +74,4 @@
 - [Magnus](https://github.com/matsadler/magnus) - Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby code from a Rust binary. ([Reddit](https://www.reddit.com/r/ruby/comments/tuwlcz/magnus_ruby_bindings_for_rust/))
 - [Steep](https://github.com/soutaro/steep) - Gradual Typing for Ruby.
 - [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries. ([GitHub](https://github.com/dry-rb))
+- [rbx](https://github.com/ianks/rb-sys) - Framework for developing safe Ruby extensions in Rust.

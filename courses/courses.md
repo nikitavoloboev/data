@@ -57,3 +57,4 @@
 - [NUSMods](https://github.com/nusmodifications/nusmods) - Official course catalogue, module search and timetable builder for the National University of Singapore.
 - [Otus](https://otus.ru/) - Courses for professionals.
 - [CourseKit](https://coursekit.dev/) - Headless Online Video Course Platform for Developers. ([Code](https://github.com/course-kit/client))
+- [Notes on teaching & chairs (2022)](https://tomcritchlow.com/2022/04/06/teaching/)

@@ -110,3 +110,5 @@
 - [Java Development on an Apple M1 – A One Year Review (2022)](https://rieckpil.de/java-development-on-an-apple-m1-a-one-year-review/) ([HN](https://news.ycombinator.com/item?id=30799686))
 - [JEP 419: Foreign Function and Memory API](https://openjdk.java.net/jeps/419) ([HN](https://news.ycombinator.com/item?id=30812156))
 - [Ask HN: What is a modern Java environment? (2022)](https://news.ycombinator.com/item?id=30841581)
+- [JEP 425: Virtual Threads (Preview)](https://openjdk.java.net/jeps/425) ([Lobsters](https://lobste.rs/s/5nukey/jep_425_virtual_threads_preview))
+- [rules_graal](https://github.com/andyscott/rules_graal) - Turn a JVM binary into a native binary.

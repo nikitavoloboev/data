@@ -34,3 +34,4 @@
 - [Solid Search for Community Solid Server](https://github.com/ontola/solid-search-community-server) - Adds full-text search to Community Solid Server. Powered by atomic-server.
 - [Blitz](https://github.com/dimensionhq/blitz) - Fast, simple and efficient state management for SolidJS apps.
 - [solid-boundaries](https://github.com/everweij/solid-boundaries) - Utility to track the boundaries of html-elements in SolidJS.
+- [i18next for Solid](https://github.com/mbarzda/solid-i18next)

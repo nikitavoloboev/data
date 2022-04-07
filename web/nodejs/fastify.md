@@ -42,3 +42,5 @@
 - [Envuso](https://github.com/Envuso/framework) - Backend framework focusing building apis using Fastify and MongoDB support.
 - [fastify-rate-limit](https://github.com/fastify/fastify-rate-limit) - Low overhead rate limiter for your routes.
 - [Fastify Benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
+- [fastify-error](https://github.com/fastify/fastify-error) - Small utility, used by Fastify itself, for generating consistent error objects across your codebase and plugins.
+- [GraphQL server with Fastify and Mercurius workshop](https://github.com/nearform/the-graphql-workshop)

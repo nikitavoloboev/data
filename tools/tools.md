@@ -175,6 +175,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
+- [Code Climate](https://codeclimate.com/) - Empower Engineering Excellence with Data.
 - [Dico.app](https://dico.app/) - Manage static content for your web app with ease. ([GitHub](https://github.com/dico-app))
 - [Boon](https://boon.tv/) - Build your members community.
 - [Typebot](https://typebot.io/) - Open-source conversational apps builder. ([Code](https://github.com/baptisteArno/typebot.io)) ([HN](https://news.ycombinator.com/item?id=30811499))
@@ -245,6 +246,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [FocusTask](https://focustask.app/) - Organize your life.
+- [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Webstudio](https://webstudio.is/) - Open Source Visual Development Platform for Developers, Designers and cross-functional teams. ([Code](https://github.com/webstudio-is/webstudio-designer)) ([Issues](https://github.com/webstudio-is/webstudio))
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.

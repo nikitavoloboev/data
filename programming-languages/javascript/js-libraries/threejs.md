@@ -99,3 +99,6 @@
 - [ThreeJS GPU path tracer](https://github.com/gkjohnson/three-gpu-pathtracer) - Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.
 - [MeshLine](https://github.com/spite/THREE.MeshLine) - Mesh replacement for THREE.Line.
 - [Alien.js](https://github.com/pschroen/alien.js) - MVC design pattern for building single-page applications with ES modules and three.js.
+- [ThreeJS-water](https://github.com/martinRenou/threejs-water) - Evan Wallace's webgl-water demo using ThreeJS.
+- [Three.V8](https://github.com/fynv/Three.V8) - Embeddable 3D Rendering Engine with JS.
+- [Infinite World Generation](https://github.com/JDihlmann/infty) - Demo of the wave form collapse (WFC) algorithm with react three fiber and web assembly (WASM).

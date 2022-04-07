@@ -199,3 +199,4 @@
 - [certutils](https://github.com/caiguanhao/certutils) - Wildcard certificates tools: Obtain certbot's (Let's Encrypt) wildcard certificates by updating DNS TXT records and answering stupid certbot questions for you.
 - [DNS Leak Test](https://bash.ws/dnsleak) - Shows DNS leaks and your external IP. If you use the same ASN for DNS and connection - you have no leak. ([Code](https://github.com/macvk/dnsleaktest))
 - [Encrypted DNS Server](https://github.com/DNSCrypt/encrypted-dns-server) - Easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
+- [ZeroNS](https://github.com/zerotier/zeronsd) - DNS server for ZeroTier users.

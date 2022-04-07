@@ -256,3 +256,6 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [The Axie Infinity hack, what happened, and why people keep talking about bridges (2022)](https://blog.mollywhite.net/axie-hack/)
 - [The Infinite Exploitation Of Cryptocurrency (2022)](https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency)
 - [The Simple English Argument Against Crypto](https://www.stephendiehl.com/blog/simple.html)
+- [Crypto Index Fund Bot](https://github.com/iloveitaly/crypto-index-fund-bot) - Bot which purchases a index of cryptocurrencies. A self-managed Vanguard VTI for crypto assets.
+- [Nebula Protocol](https://docs.neb.money/) - DeFi's flexible & efficient passive asset management protocol. ([Twitter](https://twitter.com/nebula_protocol)) ([Protocol Contracts](https://github.com/nebula-protocol/nebula-contracts))
+- [Enhanced crypto data](https://cybernetic.dev/) - Using Svelte.js and Three.js.

@@ -144,3 +144,4 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [Ask HN: How do I get over constant failure? (2022)](https://news.ycombinator.com/item?id=29863974)
 - [Do things, tell people (2012)](http://carl.flax.ie/dothingstellpeople.html) ([HN](https://news.ycombinator.com/item?id=30193714))
 - [Unlearning perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/) ([HN](https://news.ycombinator.com/item?id=30223559))
+- [Ask HN: How to Combat Imposter Syndrome?](https://news.ycombinator.com/item?id=30924209)

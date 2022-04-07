@@ -203,3 +203,7 @@
 - [Symphony](https://github.com/marhkb/symphony) - Podman desktop application.
 - [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications in Docker or podman containers.
 - [SPINUP](https://github.com/spinup-host/spinup) - Open source alternative to AWS RDS, Cloud SQL. Creates multiple containers through docker-compose.
+- [Firecracker microVM Init](https://github.com/alexellis/firecracker-init-lab) - Build a Firecracker microVM from a container image, starting a custom Go init process.
+- [LXC](https://github.com/lxc/lxc) - Well-known and heavily tested low-level Linux container runtime.
+- [Running a Container off the Host /usr/](https://0pointer.net/blog/running-an-container-off-the-host-usr.html)
+- [Reference implementation of the Cloud Native Buildpacks lifecycle](https://github.com/buildpacks/lifecycle)

@@ -190,6 +190,11 @@
 - [file-existence-action](https://github.com/andstor/file-existence-action) - GitHub Action to check for file existence.
 - [Invoke AWS Lambda](https://github.com/gagoar/invoke-aws-lambda) - Allows you to synchronously invoke a Lambda function and get the response (if desired).
 - [Use Herald Action](https://github.com/gagoar/use-herald-action) - Allows you to add comments, reviewers and assignees to a pull request depending on rules you define.
+- [PR Custom Review](https://github.com/paritytech/pr-custom-review) - GitHub Action for complex pull request approval cases that are not currently supported by the Branch protection feature in GitHub.
+- [Get GitHub release information](https://github.com/cardinalby/git-get-release-action) - Allows you to get release information by release id, tag, commit SHA (current commit or specified).
+- [Add to Project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub Actions.
+- [Code Climate Action](https://github.com/paambaati/codeclimate-action) - GitHub action that publishes your code coverage to Code Climate.
+- [Debug via SSH](https://github.com/luchihoratiu/debug-via-ssh) - Allows you to connect to a GitHub Actions runner via SSH for interactive debugging using ngrok.
 
 ## Go
 
@@ -253,6 +258,10 @@
 
 - [Set up OCaml](https://github.com/ocaml/setup-ocaml) - Set up an OCaml and opam environment and add to PATH.
 - [OCaml CI Actions](https://github.com/smorimoto/ocaml-actions)
+
+## Clojure
+
+- [setup-clojure](https://github.com/DeLaGuardo/setup-clojure) - Sets up Clojure tools environment for using in GitHub Actions.
 
 ## C++
 
@@ -343,6 +352,7 @@
 ## Notes
 
 - [Can use Github Actions to schedule commands with cron.](https://twitter.com/virtualkirill/status/1282232476291624960)
+- [If you want to share files/folders between jobs on GitHub actions, cache them using the current run id as the key so you can restore the cache on dependent jobs. This is much faster than uploading/downloading artifacts.](https://twitter.com/diegohaz/status/1511433132930707457)
 
 ## Links
 
@@ -447,3 +457,4 @@
 - [Organization workflows app](https://github.com/SvanBoxel/organization-workflows) - Allows you to run GitHub Actions workflows across multiple repositories, which is not yet natively supported.
 - [Debug your GitHub Actions by using SSH](https://github.com/lhotari/action-upterm)
 - [Save time with partial re-runs in GitHub Actions (2022)](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)
+- [We use GitHub Actions to build GitHub (2022)](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/) ([HN](https://news.ycombinator.com/item?id=30920543))

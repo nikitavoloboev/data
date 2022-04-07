@@ -121,3 +121,4 @@
 - [Fisk](https://github.com/tenderlove/fisk) - Pure Ruby assembler.
 - [Parser](https://github.com/whitequark/parser) - Ruby parser.
 - [Thanos](https://github.com/redneckbeard/thanos) - Ruby -> Go at the snap of your fingers.
+- [Please stop calling it "magic" (2017)](https://zverok.space/blog/2017-10-22-stop-magic.html) ([Lobsters](https://lobste.rs/s/3odol5/please_stop_calling_it_magic))

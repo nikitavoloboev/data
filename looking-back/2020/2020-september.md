@@ -82,7 +82,7 @@ Came across another public company wiki, this time by [Gumroad](https://www.noti
 
 [Every day should be a mental health day.](https://twitter.com/techgirl1908/status/1309214827030540288)
 
-I 😻 [Remotive](https://remotive.io/) site design. So cute. Found it out through [MakeHub](https://makehub.io/).
+I 😻 [Remotive](https://remotive.com/) site design. So cute. Found it out through [MakeHub](https://makehub.io/).
 
 In 5 days I will send out my first newsletter. Excited. Would be curious to see how the format of the newsletter will evolve with time. I think the initial send out will be greatly influenced by [Gwern's newsletter](https://www.gwern.net/tags/newsletter) layout. Some links, some music. Some personal thoughts. Some photos. And a little boost for the next month to keep myself and maybe others going in chasing their dreams.
 

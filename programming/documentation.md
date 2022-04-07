@@ -26,6 +26,7 @@
 - [Strapi Docs](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html) ([Code](https://github.com/strapi/documentation))
 - [Increase API Reference](https://increase.com/documentation#api-reference)
 - [Stacks Docs](https://docs.stacks.co/) ([Code](https://github.com/stacks-network/docs))
+- [Nebula Docs](https://docs.neb.money/)
 
 ## Notes
 
@@ -163,3 +164,4 @@
 - [nbdoc: Authoring With Notebooks](https://outerbounds.github.io/nbdoc-docusaurus/) ([Code](https://github.com/outerbounds/nbdoc-docusaurus)) ([Tweet](https://twitter.com/HamelHusain/status/1507383929774305282))
 - [doc-builder](https://github.com/huggingface/doc-builder) - Package used to build the documentation of our Hugging Face repos.
 - [Vale](https://github.com/marc2332/vale) - Static documentation generator, designed for speed, simplicity and readability.
+- [Paradox](https://github.com/lightbend/paradox) - Markdown documentation tool for software projects.

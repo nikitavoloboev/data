@@ -49,3 +49,4 @@
 - [Vitamin](https://github.com/wtchnm/Vitamin) - Opinionated Vite starter template.
 - [Eslint plugin for vitest](https://github.com/veritem/eslint-plugin-vitest)
 - [Adding CDN Caching to a Vite Build (2022)](https://css-tricks.com/adding-cdn-caching-to-a-vite-build/)
+- [Vite SSR Relay](https://github.com/XiNiHa/vite-ssr-relay) - Vite SSR framework with support for React SSR streaming and Relay.

@@ -70,3 +70,5 @@
 
 - [Prometheus SQL Exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus.
 - [prometheus-web](https://github.com/marigold-dev/prometheus-web) - Helpers to use the prometheus library with different web frameworks.
+- [Prometheus metric storage](https://github.com/cowprotocol/prometheus-metric-storage) - Derive macro to instantiate and register prometheus metrics without having to write tons of boilerplate code.
+- [Apache Exporter for Prometheus](https://github.com/Lusitaniae/apache_exporter)

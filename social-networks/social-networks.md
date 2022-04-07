@@ -147,3 +147,4 @@
 - [Circles](https://oncircles.com/) - Private app for the most important people in your life. ([HN](https://news.ycombinator.com/item?id=30175863))
 - [Most things shared are a lie or can be completely unverifiable in times of conflict (2022)](https://twitter.com/ggreenwald/status/1497939823260168193)
 - [Sterra](https://github.com/novitae/sterraxcyl) - Instagram OSINT tool to export and analyze followers | following with their details.
+- [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522) ([HN](https://news.ycombinator.com/item?id=30917474))

@@ -368,3 +368,6 @@
 - [Distributed PyTorch Lightning Training on Ray](https://github.com/ray-project/ray_lightning)
 - [Lightning Pose](https://github.com/danbider/lightning-pose) - Accelerated pose estimation and tracking using semi-supervised convolutional networks.
 - [Disent](https://github.com/nmichlo/disent) - Modular VAE disentanglement framework for python built with PyTorch Lightning.
+- [MQBench](https://github.com/ModelTC/MQBench) - Open-source model quantization toolkit based on PyTorch fx.
+- [Self-supervised learning tutorial: Implementing SimCLR with PyTorch lightning (2022)](https://theaisummer.com/simclr/) ([Code](https://github.com/The-AI-Summer/simclr))
+- [PyTracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.

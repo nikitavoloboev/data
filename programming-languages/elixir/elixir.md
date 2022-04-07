@@ -146,3 +146,5 @@
 - [Elixir Code Smells](https://github.com/lucasvegi/Elixir-Code-Smells)
 - [Terp](https://github.com/smpoulsen/terp) - Functional programming language with lisp syntax and ML semantics that runs on the BEAM.
 - [Tips for Improving Your Elixir Configuration (2022)](https://felt.com/blog/elixir-configuration)
+- [Exploring Options for Storing Custom Data in Ecto (2022)](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
+- [Elixir Web Code](https://github.com/elixir-lang/elixir-lang.github.com)

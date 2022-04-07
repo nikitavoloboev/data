@@ -122,3 +122,4 @@
 - [Awesome Lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists.
 - [docsQL](https://github.com/peterbe/docsql) - Getting an overview over your Markdown file in your Jamstack site.
 - [tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter.
+- [Clarktown](https://github.com/askonomm/clarktown) - Zero-dependency, pure-Clojure Markdown parser.

@@ -38,3 +38,4 @@ I share some [recipes I like](recipes.md).
 - [What meals do you keep ingredients on hand to make often?](https://twitter.com/chrisbiscardi/status/1466814242280009730)
 - [100R — cooking](https://100r.co/site/cooking.html) ([Tweet](https://merveilles.town/web/statuses/107732201204446822))
 - [Cooking for Engineers](http://www.cookingforengineers.com/) ([HN](https://news.ycombinator.com/item?id=30797907))
+- [Learn how to master the art of baking the programmer way](https://github.com/hendricius/the-bread-code)

@@ -74,3 +74,5 @@
 - [Ground Zero](https://github.com/forked-from-1kasper/ground_zero) - Library provides computable HITs, variation of Cubical Type Theory using them, and some other math.
 - [Lean 4 Metaprogramming Book](https://github.com/arthurpaulino/lean4-metaprogramming-book)
 - [Lean verbose](https://github.com/PatrickMassot/lean-verbose) - Controlled natural language tactics for Lean.
+- [BUM](https://github.com/forked-from-1kasper/bump) - Lean 4 Package Manager.
+- [Simple bidirectional type-checker in Lean 4](https://github.com/gabriel-fallen/bidirectional-demo)

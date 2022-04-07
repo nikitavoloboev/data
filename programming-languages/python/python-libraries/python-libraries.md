@@ -1,5 +1,7 @@
 # Python libraries
 
+[atoti Project Template](https://github.com/atoti/project-template) is nice.
+
 ## Web
 
 - [aiosonic](https://github.com/sonic182/aiosonic) - Very fast Python asyncio http client.
@@ -130,6 +132,7 @@
 - [PyTermGUI](https://github.com/bczsalba/pytermgui) - Simple yet powerful TUI framework for your Python (3.7+) applications.
 - [Colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python.
 - [jsonargparse](https://github.com/omni-us/jsonargparse) - Parsing of command line options, yaml/jsonnet config files and/or environment variables based on argparse.
+- [ArgBind](https://github.com/pseeth/argbind) - Build CLIs via docstrings and type annotations, with YAML support.
 
 ## DB
 
@@ -241,6 +244,7 @@
 - [pytest_httpserver](https://github.com/csernazs/pytest-httpserver) - HTTP server for pytest.
 - [testing.postgresql](https://github.com/tk0miya/testing.postgresql) - Automatically setups a postgresql instance in a temporary directory, and destroys it after testing.
 - [pytest-insta](https://github.com/vberlier/pytest-insta) - Practical snapshot testing plugin for pytest.
+- [pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 
 ## Error
 
@@ -802,6 +806,10 @@
 - [pydags](https://github.com/DavidTorpey/pydags) - Simple, lightweight, extensible DAG framework for Python with a Kubeflow-like API.
 - [spaudiopy](https://github.com/chris-hld/spaudiopy) - Spatial Audio Python Package.
 - [Arroyo](https://github.com/getsentry/arroyo) - Python library for working with streaming data.
+- [PyGOD](https://github.com/pygod-team/pygod) - Python Library for Graph Outlier Detection (Anomaly Detection).
+- [deczoo](https://github.com/FBruzzesi/deczoo) - Zoo for decorators.
+- [fingerprints](https://github.com/alephdata/fingerprints) - Make it easier to compare and cross-reference the names of companies and people by applying strong normalisation.
+- [DataFusion in Python](https://github.com/datafusion-contrib/datafusion-python)
 
 ## Links
 
@@ -907,3 +915,8 @@
 - [Python Package Template](https://github.com/allenai/python-package-template)
 - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 - [Pallets Projects](https://palletsprojects.com/) - Collection of Python web development libraries. ([GitHub](https://github.com/pallets/))
+- [Example application code for the python architecture book](https://github.com/cosmicpython/code)
+- [Python f-strings Are More Powerful Than You Might Think (2022)](https://martinheinz.dev/blog/70)
+- [Py-Pkgs-Cookiecutter](https://github.com/py-pkgs/py-pkgs-cookiecutter) - Cookiecutter template for Python packages.
+- [pygrep-hooks](https://github.com/pre-commit/pygrep-hooks) - Collection of fast, cheap, regex based pre-commit hooks.
+- [atoti Project Template](https://github.com/atoti/project-template) - Template from which atoti projects intending to go into production can start.

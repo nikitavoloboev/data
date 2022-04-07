@@ -334,3 +334,5 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [YouTube video production tips (2022)](https://twitter.com/simonw/status/1505237327353827329)
 - [Better Dev Screencasts](https://www.betterdevscreencasts.com/) - Helping developers create better screencasts.
 - [OS-NVR](https://github.com/OSNVR/OS-NVR) - Mobile-friendly extensible CCTV system.
+- [nginx-lua-m](https://github.com/Amondo/nginx-lua-mp4) - On-demand video transcoding module for nginx and OpenResty with upstream support.
+- [Towards An End-to-End Framework for Flow-Guided Video Inpainting (2022)](https://arxiv.org/abs/2204.02663) ([Code](https://github.com/MCG-NKU/E2FGVI))

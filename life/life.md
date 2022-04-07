@@ -115,3 +115,6 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Advice in navigating late 20's and early 30's](https://www.reddit.com/r/slatestarcodex/comments/td9xct/looking_for_advice_in_navigating_late_20s_and/)
 - [Ask HN: What do you wish you had done/known in your 30s? (2022)](https://news.ycombinator.com/item?id=30782994)
 - [Most expensive mistake you've made in your career, and what did you learn from it?](https://twitter.com/swyx/status/1507379280891809792)
+- [I decided that I must live my life on my terms](https://news.ycombinator.com/item?id=30918495)
+- [Men, what are some hard to swallow pills?](https://www.reddit.com/r/AskMen/comments/twvydp/men_what_are_some_hard_to_swallow_pills/)
+- [Ask HN: What do you think is all this? (this reality, existence, space-time, us) (2022)](https://news.ycombinator.com/item?id=30928647)

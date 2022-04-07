@@ -134,3 +134,5 @@
 - [ChickBlog](https://github.com/clarus/coq-chick-blog) - Blog engine written and proven in Coq.
 - [Practical Aspects of Monadic Equational Reasoning in Coq (2022)](https://prg.is.titech.ac.jp/wp-content/uploads/2022/03/saito2022ppl.pdf)
 - [Making Weak Memory Models Fair using Coq](https://github.com/weakmemory/fairness)
+- [Relation Algebra for Coq](https://github.com/damien-pous/relation-algebra)
+- [Mathematics of Rigid Body Transformationss using Coq and MathComp](https://github.com/affeldt-aist/coq-robot)

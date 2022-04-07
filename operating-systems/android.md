@@ -65,3 +65,4 @@
 - [dadb](https://github.com/mobile-dev-inc/dadb) - Kotlin/Java library to connect directly to an Android device without an adb binary or an ADB server. ([Article](https://blog.mobile.dev/our-first-open-source-project-54cd8edc452f)) ([Tweet](https://twitter.com/GergelyOrosz/status/1465363032171847681))
 - [Android Nixpkgs](https://github.com/tadfisher/android-nixpkgs) - Nix-packaged Android SDK.
 - [Chucker](https://github.com/ChuckerTeam/chucker) - HTTP inspector for Android & OkHTTP (like Charles but on device).
+- [Introducing Focus, a new open source Gradle plugin (2022)](https://dropbox.tech/mobile/introducing-focus-a-new-open-source-gradle-plugin)

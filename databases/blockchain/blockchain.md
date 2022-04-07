@@ -365,3 +365,6 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [tea](https://tea.xyz/) - Toolkit that builds the Internet.
 - [A Comparison of Heterogeneous Blockchain Networks (2022)](https://medium.com/@arikan/a-comparison-of-heterogeneous-blockchain-networks-4bf7ff2fe279) ([Tweet](https://twitter.com/el33th4xor/status/1507686380658429957))
 - [Matchstick](https://github.com/LimeChain/matchstick) - Unit testing framework for The Graph protocol.
+- [0Chain](https://0chain.net/) - Decentralized blockchain-based storage platform with built-in privacy and security compliance. It provides high performance, enforceable SLAs, choice of providers for all enterprise grade applications. ([Code](https://github.com/0chain/0chain))
+- [Blobber](https://github.com/0chain/blobber) - Storage provider (blobber) interface to the blockchain and consumers of storage.
+- [Kernel Community](https://www.kernel.community/en/) - Custom web3 educational community. ([Code](https://github.com/kernel-community/kernel-v2))

@@ -229,3 +229,5 @@
 - [Haskell C Compiler](https://github.com/NunoDasNeves/haskell-c-compiler) - Learning Haskell for the first time and using it to write a simple C compiler.
 - [I wrote a peephole optimizer for QBE (2022)](https://briancallahan.net/blog/20220330.html) ([Lobsters](https://lobste.rs/s/jztimq/i_wrote_peephole_optimizer_for_qbe))
 - [When FFI Function Calls Beat Native C (2018)](https://nullprogram.com/blog/2018/05/27/) ([HN](https://news.ycombinator.com/item?id=30895444))
+- [Advanced Optimization and New Capabilities of GCC 11](https://documentation.suse.com/sbp/server-linux/pdf/SBP-GCC-11_color_en.pdf)
+- [Tiny C Projects](https://github.com/francisrstokes/tiny-c-projects) - Collection of small C projects - usually a minimal example of something interesting.

@@ -1,5 +1,9 @@
 # [Unreal Engine](https://www.unrealengine.com/en-US/)
 
+## OSS games
+
+- [Epic Survival Game](https://github.com/tomlooman/EpicSurvivalGame) - Third-person survival game for Unreal Engine 4 made entirely in C++. ([Article](https://www.tomlooman.com/unreal-engine-cpp-survival-sample-game/))
+
 ## Links
 
 - [A first look at Unreal Engine 5 (2020)](https://www.unrealengine.com/en-US/blog/a-first-look-at-unreal-engine-5) ([HN](https://news.ycombinator.com/item?id=23167794))
@@ -19,3 +23,6 @@
 - [Voxel Plugin](https://github.com/Phyronnaz/VoxelPlugin) - Allows to create fully volumetric, entirely destructible, infinite worlds in Unreal Engine. ([Web](https://voxelplugin.com/))
 - [Real-Time Strategy Plugin for Unreal Engine 4](https://github.com/npruehs/ue4-rts)
 - [Attempt to make Unreal Engine 4 projects more consistent](https://github.com/Allar/ue5-style-guide)
+- [Unreal Engine 5 is now available (2022)](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available) ([HN](https://news.ycombinator.com/item?id=30920345))
+- [Professional Game Development in C++ and Unreal Engine Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15)
+- [Unreal Engine 5.0 Release Notes](https://docs.unrealengine.com/5.0/en-US/unreal-engine-5-0-release-notes/)

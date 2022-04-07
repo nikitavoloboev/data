@@ -145,3 +145,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Gorgias](https://www.gorgias.com/) - Customer Service Made Easy for Online Stores. ([Twitter](https://twitter.com/gorgiasio))
 - [Karrio](https://www.karrio.io/) - Open Source, On-prem or Private cloud Shipping API. ([Code](https://github.com/karrioapi/karrio))
 - [Fairify](https://www.fairify.io/) - Sustainable shopping made easy.
+- [Bolt](https://www.bolt.com/) - Makes Ecommerce better with One-Click Checkout and CheckoutOS.

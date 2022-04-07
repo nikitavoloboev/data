@@ -158,3 +158,4 @@
 - [Your SSR is slow & your dev tools are lying to you (2022)](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056) ([Reddit](https://www.reddit.com/r/javascript/comments/tkflwp/your_ssr_is_slow_your_devtools_are_lying_to_you/))
 - [WebPageTest-API-Recipes](https://github.com/WebPageTest/WebPageTest-API-Recipes) - Collection of useful recipes for the WebPageTest API.
 - [Performance insights panel](https://twitter.com/jecfish/status/1509849613473226752)
+- [Optimising Largest Contentful Paint (2022)](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)

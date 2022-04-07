@@ -130,3 +130,8 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [Battle of Kyiv Summary (2022)](https://twitter.com/tomiahonen/status/1510276474175115281)
 - [Sam Harris / Ian Bremmer - How Does the War in Ukraine End? (2022)](https://www.samharris.org/podcasts/making-sense-episodes/277-how-does-the-war-in-ukraine-end)
 - [Жители Бучи о действиях российских военных во время оккупации](https://twitter.com/CurrentTimeTv/status/1511062799249600517)
+- [«Они просто пришли, убили кучу народа, разнесли город и ушли» (2022)](https://istories.media/reportages/2022/04/05/oni-prosto-prishli-ubili-kuchu-naroda-raznesli-gorod-i-ushli/)
+- [Как этнический национализм "прикончит" Украину и почему Украину нужно переименовать в "Русь-Украина" (2019)](https://www.youtube.com/watch?v=8qBou5zHOH4)
+- [Полноценная война с Россией начнется через пару лет - Алексей Арестович (2019)](https://www.youtube.com/watch?v=H50ho9Dlrms)
+- [Игра Путина рассчитана до 2030 года, "веселье" только наступает – Алексей Арестович (2018)](https://www.youtube.com/watch?v=jIwpJXlT2I0)
+- [У Кремля три варианта для Украины, любой устроит Путина – Алексей Арестович (2018)](https://www.youtube.com/watch?v=n7xCO2HHJj0)

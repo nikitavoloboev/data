@@ -1,5 +1,7 @@
 # [Protocol buffers](https://developers.google.com/protocol-buffers/)
 
+[pbkit](https://pbkit.dev/) is nice.
+
 ## Links
 
 - [prototool](https://github.com/uber/prototool) - Your Swiss Army Knife for Protocol Buffers.
@@ -54,3 +56,5 @@
 - [Protoflex](https://github.com/teidesu/protoflex) - Modern JavaScript library for working with arbitrary Protobuf data.
 - [DataFusion + Substrait](https://github.com/datafusion-contrib/datafusion-substrait) - Substrait provides a cross-language serialization format for relational algebra, based on protocol buffers.
 - [protoc-gen-prost](https://github.com/neoeinstein/protoc-gen-prost) - protoc plugin that generates code using the Prost! code generation engine.
+- [pbkit](https://github.com/pbkit/pbkit) - Protobuf toolkit written in Deno/TypeScript. ([Web](https://pbkit.dev/)) ([HN](https://news.ycombinator.com/item?id=30903675))
+- [csproto](https://github.com/CrowdStrike/csproto) - CrowdStrike's Protocol Buffers library.

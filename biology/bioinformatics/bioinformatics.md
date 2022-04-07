@@ -201,3 +201,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [Strobealign](https://github.com/ksahlin/StrobeAlign) - Fast short-read aligner. It achieves the speedup by using a dynamic seed size obtained from syncmer-thinned strobemers.
 - [Bioinformatics training materials](https://github.com/sib-swiss/training-collection)
 - [3 Key Questions to Think About When Designing Proteins Computationally (2022)](https://www.blopig.com/blog/2022/03/computational-protein-design-key-methodological-considerations/) ([Tweet](https://twitter.com/AlissaHummer/status/1509592894658723841))
+- [AIMSim](https://github.com/VlachosGroup/AIMSim) - Tool for visualizing diversity in your molecular data-set using structural fingerprints.

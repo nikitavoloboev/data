@@ -91,3 +91,5 @@
 - [Storybook Figma Plugin](https://storybook.js.org/blog/figma-plugin-beta/) - Connect stories to design components.
 - [FireJet](https://www.firejet.io/) - Export Figma to Typescript Code (React).
 - [Figma ML](https://github.com/dusskapark/figma-ml) - Design System Plugin Made with TensorFlow JS - like spell check for design.
+- [Figma Widgets Docs](https://www.figma.com/widget-docs/intro/)
+- [Color Compass](https://www.figma.com/community/plugin/754415266574382747/Color-Compass) - Quickly navigate the color spectrum with designer-focused accuracy. ([Code](https://github.com/jaclyntan/figma-color-compass))

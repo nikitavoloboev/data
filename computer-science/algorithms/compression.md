@@ -113,3 +113,4 @@
 - [Libarchivejs](https://github.com/nika-begiashvili/libarchivejs) - Archive tool for browser which can extract various types of compression.
 - [lz4dec](https://github.com/Siguza/lz4dec) - LZ4 block decompressor written in arm64 assembly.
 - [Packing Bits For Compression (2022)](https://www.youtube.com/watch?v=74co_YG39Bw)
+- [How LCEVC works – A new approach to video compression](https://www.lcevc.org/how-lcevc-works/) ([HN](https://news.ycombinator.com/item?id=30905736))

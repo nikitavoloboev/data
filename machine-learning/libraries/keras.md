@@ -27,3 +27,4 @@
 - [Keras in Rust](https://github.com/conradludgate/keras-rs)
 - [Keras implement of flow-based models](https://github.com/bojone/flow)
 - [Keras/TensorFlow attention models](https://github.com/leondgarse/keras_cv_attention_models)
+- [Keras Hypetune](https://github.com/cerlymarco/keras-hypetune) - Friendly python package for Keras Hyperparameters Tuning based only on NumPy and Hyperopt.

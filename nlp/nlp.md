@@ -520,3 +520,10 @@
 - [Summarization Papers](https://github.com/xcfcode/Summarization-Papers)
 - [GLID-3](https://github.com/Jack000/glid-3) - Combination of OpenAI GLIDE, Latent Diffusion and CLIP.
 - [Optimum Transformers](https://github.com/AlekseyKorshuk/optimum-transformers) - Accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime.
+- [Pathways Language Model (PaLM): Scaling to 540B parameters (2022)](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html) ([HN](https://news.ycombinator.com/item?id=30908941)) ([Code](https://github.com/lucidrains/PaLM-pytorch))
+- [A Divide-and-Conquer Approach to the Summarization of Long Documents (2020)](https://arxiv.org/abs/2004.06190) ([Code](https://github.com/AlexGidiotis/DANCER-summ))
+- [Resources for learning about Text Mining and Natural Language Processing](https://github.com/stepthom/text_mining_resources)
+- [LinkBERT: Pretraining Language Models with Document Links (2022)](https://arxiv.org/abs/2203.15827) ([Code](https://github.com/michiyasunaga/LinkBERT))
+- [Dall-E 2 (2022)](https://openai.com/dall-e-2/) ([HN](https://news.ycombinator.com/item?id=30932095)) ([Tweet](https://twitter.com/sama/status/1511724264629678084)) ([Tweet](https://twitter.com/OpenAI/status/1511714511673126914)) ([Code](https://github.com/rish-16/dalle2-pytorch)) ([Code](https://github.com/lucidrains/DALLE2-pytorch)) ([Code](https://github.com/openai/dalle-2-preview))
+- [Variations of the Similarity Function of TextRank for Automated Summarization (2016)](https://arxiv.org/abs/1602.03606) ([Code](https://github.com/summanlp/textrank))
+- [Logic-Guided Data Augmentation and Regularization for Consistent Question Answering (2020)](https://arxiv.org/abs/2004.10157) ([Code](https://github.com/AkariAsai/logic_guided_qa))

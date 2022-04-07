@@ -88,3 +88,5 @@
 - [Homu](https://github.com/rust-lang/homu) - Bot that integrates with GitHub and your favorite continuous integration service.
 - [Dagger](https://dagger.io/) - Build powerful CI/CD pipelines quickly, then run them anywhere. ([Code](https://github.com/dagger/dagger)) ([Intro](https://dagger.io/blog/public-launch-announcement)) ([HN](https://news.ycombinator.com/item?id=30857012))
 - [We don’t use a staging environment (2022)](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment) ([HN](https://news.ycombinator.com/item?id=30899362))
+- [Spacelift](https://spacelift.io/) - Flexible CI/CD for Infrastructure as Code. ([GitHub](https://github.com/spacelift-io)) ([CLI](https://github.com/spacelift-io/spacectl))
+- [Creating one CI to rule them all, with Fedor Korotkov, founder and CTO of Cirrus Labs (2022)](https://about.sourcegraph.com/podcast/fedor-korotkov/)

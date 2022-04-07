@@ -2,7 +2,7 @@
 
 I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [minimize the damage I induce on our planet](https://twitter.com/dino_comics/status/1433485733101293576).
 
-All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066). [This](https://twitter.com/ben_j_todd/status/1494660872152784897) is a nice thread on effective way to tackle climate change.
+All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066). [This](https://twitter.com/ben_j_todd/status/1494660872152784897) is a nice thread on effective way to tackle climate change. So as [this comment and the steps inside](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/i3i34t5/?utm_source=reddit&utm_medium=web2x&context=3).
 
 ## Notes
 
@@ -171,3 +171,5 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Awesome Sustainability Jobs](https://github.com/pogopaule/awesome-sustainability-jobs)
 - [We can do better than “same, but electric” (2022)](https://climateer.substack.com/p/better-than-fossil) ([HN](https://news.ycombinator.com/item?id=30838132))
 - [Climate Change 2022: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf)
+- [UN warns Earth 'firmly on track toward an unlivable world' (2022)](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/)
+- [Climate Change 2022: Mitigation of Climate Change](https://www.ipcc.ch/report/ar6/wg3/)

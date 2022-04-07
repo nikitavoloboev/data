@@ -78,3 +78,4 @@
 - [Awesome 3D Generation](https://github.com/justimyhxu/awesome-3D-generation)
 - [SolveSpace](https://solvespace.com/index.pl) - Parametric 2D/3D CAD. ([Code](https://github.com/solvespace/solvespace))
 - [DEODR](https://github.com/martinResearch/DEODR) - Differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces.
+- [PyViz3D](https://github.com/francisengelmann/PyViz3D) - Python package to visualize 3D scenes directly in your browser.

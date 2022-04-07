@@ -118,6 +118,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [React Monaco Editor](https://github.com/jaywcjlove/react-monacoeditor)
 - [rust-monaco](https://github.com/siku2/rust-monaco) - Rust WASM bindings for the Monaco Editor.
 - [codemirror-blocks](https://github.com/bootstrapworld/codemirror-blocks) - Library for building language-specific, CodeMirror-friendly editors that are a11y-friendly.
+- [DraftJS Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - High quality plugins with great UX on top of DraftJS.
 
 ## Links
 

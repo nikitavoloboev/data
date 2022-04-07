@@ -1,6 +1,6 @@
 # [Rust](https://www.rust-lang.org/en-US/)
 
-[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) are nice too.
+[Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
 
 ## Templates
 
@@ -753,3 +753,5 @@
 - [Understanding the Strategy Pattern](https://asthasr.github.io/posts/understanding-strategy-pattern/) ([Lobsters](https://lobste.rs/s/25gi0x/understanding_strategy_pattern))
 - [What is your favorite Rust specific feature that you miss in other languages? (2022)](https://www.reddit.com/r/rust/comments/tvppqz/what_is_your_favourite_rust_specific_feature_that/)
 - [Myths and Legends about Integer Overflow in Rust (2016)](https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/) ([Lobsters](https://lobste.rs/s/k1zxi1/myths_legends_about_integer_overflow))
+- [Rust. How do I start?](https://github.com/jondot/rust-how-do-i-start)
+- [Rust Lang Roadmap for 2024](https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html) ([Reddit](https://www.reddit.com/r/rust/comments/twkjqt/rust_lang_roadmap_for_2024_inside_rust_blog/)) ([HN](https://news.ycombinator.com/item?id=30915056))

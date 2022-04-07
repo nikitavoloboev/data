@@ -31,3 +31,4 @@
 - [jest-fast-check](https://github.com/dubzzz/jest-fast-check) - Property based testing for Jest based on fast-check.
 - [spy4js](https://github.com/fdc-viktor-luft/spy4js) - Optimize your tests with helpful debug messages.
 - [Jest Preview](https://github.com/nvh95/jest-preview) - Preview your HTML code while using Jest.
+- [jest-runner-groups](https://github.com/eugene-manuilov/jest-runner-groups) - Test runner that allows you to tag your tests and execute specific groups of tests with Jest.

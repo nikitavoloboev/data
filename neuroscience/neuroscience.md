@@ -106,6 +106,7 @@
 - [A global timing mechanism regulates cell-type-specific wiring programmes (2022)](https://www.nature.com/articles/s41586-022-04418-5) ([Tweet](https://twitter.com/Saumya_JA1N/status/1496584124827848704))
 - [A Thousand Brains - book review & summary (2021)](https://plugaru.org/2021/03/10/a-thousand-brains/)
 - [Brains and algorithms partially converge in natural language processing (2022)](https://www.nature.com/articles/s42003-022-03036-1)
+- [New Brain Maps Can Predict Behaviors (2021)](https://www.quantamagazine.org/new-brain-maps-can-predict-behaviors-20211206/)
 
 ## Images
 

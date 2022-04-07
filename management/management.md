@@ -192,3 +192,4 @@
 - [Trunk and Branches Model for Scaling Infrastructure Organizations](https://lethain.com/trunk-and-branches/)
 - [The Big List of Engineering Management Resources (2022)](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 - [Hard to work with (2022)](https://lethain.com/hard-to-work-with/) ([HN](https://news.ycombinator.com/item?id=30861707))
+- [The Anatomy of a 1:1 (2022)](https://cate.blog/2022/04/04/the-anatomy-of-a-11/)

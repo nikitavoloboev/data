@@ -290,6 +290,12 @@
 - [react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 - [Formspree React](https://github.com/formspree/formspree-react) - React component library for Formspree.
 - [rediagram](https://github.com/kamiazya/rediagram) - Markup and draw your system diagrams with React.
+- [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React.
+- [React Terminal](https://github.com/bony2023/react-terminal) - React component that renders a Terminal.
+- [ReactSSML](https://github.com/andrelandgraf/react-ssml-dom) - Utilize the full power of React to develop voice UIs.
+- [Tiny UI](https://github.com/wangdicoder/tiny-ui) - Friendly UI Component Set for React.
+- [React Spotify Web Playback SDK](https://github.com/y-hiraoka/react-spotify-web-playback-sdk) - React wrapper for Spotify Web Playback SDK.
+- [Font Picker for React](https://github.com/samuelmeuli/font-picker-react) - Font selector component for Google Fonts.
 
 ## Links
 

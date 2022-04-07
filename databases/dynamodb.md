@@ -4,6 +4,7 @@
 
 ## OSS DynamoDB apps
 
+- [DynamoDB Instagram](https://github.com/alexdebrie/dynamodb-instagram)
 - [Note Service (Next Generation)](https://github.com/deeheber/note-service-next-generation) - GraphQL CRUD API built using AWS AppSync, Lambda, DynamoDB, CDK, Typescript.
 
 ## Notes

@@ -118,3 +118,4 @@
 - [Leetcode has taught me that I'm a bad engineer (2022)](https://news.ycombinator.com/item?id=29804607)
 - [happygirlzt - YouTube](https://www.youtube.com/c/happygirlzt/videos) ([Illustrations](https://github.com/happygirlzt/algorithm-illustrations))
 - [Rosetta Code problems in Rust](https://github.com/rust-rosetta/rust-rosetta)
+- [Linkedin Quiz Answers, Skill Assessments Test](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([Code](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))

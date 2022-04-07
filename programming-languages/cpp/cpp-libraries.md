@@ -7,6 +7,7 @@
 - [Command Interface](https://github.com/empirical-soft/command-interface) - Add a command-line interface to any C++ program. ([HN](https://news.ycombinator.com/item?id=28886328))
 - [Argh](https://github.com/adishavit/argh) - Minimalist argument handler.
 - [CLI11](https://github.com/CLIUtils/CLI11) - Command line parser for C++11.
+- [libcargs](https://github.com/likle/cargs) - Command line argument library for C/C++.
 
 ## Test
 
@@ -372,6 +373,8 @@
 - [BOUT++](https://github.com/boutproject/BOUT-dev) - Framework for writing fluid and plasma simulations in curvilinear geometry.
 - [HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software.
 - [Voro++](https://github.com/chr1shr/voro) - Three-dimensional Voronoi cell library in C++.
+- [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - C++ fully cross-platform BLE library designed for simplicity and ease of use.
+- [zstr](https://github.com/mateidavid/zstr) - C++ header-only ZLib wrapper.
 
 ## Links
 

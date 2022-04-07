@@ -336,3 +336,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Most interesting languages to learn (from)? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tsqamc/most_interesting_languages_to_learn_from/)
 - [Surprising Weak-Ref Implementations: Swift, Obj-C, C++, Rust, and Vale (2022)](https://verdagon.dev/blog/surprising-weak-refs)
 - [Programming Languages Design: Ultimate Bundle](https://www.dmitrysoshnikov.education/p/programming-languages-design-ultimate-bundle2)
+- [It-Depends](https://github.com/trailofbits/it-depends) - Tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages and arbitrary source code repositories.
+- [treequery](https://github.com/mergestat/treequery) - Run Tree-sitter queries on source code.
+- [Awesome Codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you.
+- [Spoofax](https://www.spoofax.dev/) - Open-source language designer's workbench with everything you need for designing your next textual (domain-specific) programming language. ([Code](https://github.com/metaborg/spoofax))

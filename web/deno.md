@@ -207,3 +207,4 @@
 - [Pip Deno](https://github.com/denosaurs/python.mod.land) - Import any python module into deno as long as you have it installed locally.
 - [Deno Wanted Modules](https://github.com/denoland/wanted_modules/issues)
 - [Using the DOM with Deno](https://github.com/kitsonk/dom_examples) - Examples of using the DOM under Deno.
+- [Entire website in a single JavaScript file (2022)](https://deno.com/blog/a-whole-website-in-a-single-js-file) ([HN](https://news.ycombinator.com/item?id=30933831))

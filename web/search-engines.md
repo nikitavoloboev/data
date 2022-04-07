@@ -222,3 +222,4 @@
 - [I Built A Snappy Static Full-text Search with WebAssembly, Rust, Next.js, and Xor Filters (2022)](https://dawchihliou.github.io/articles/i-built-a-snappy-full-text-search-with-webassembly-rust-nextjs-and-xor-filters)
 - [Instant Meilisearch](https://github.com/meilisearch/instant-meilisearch) - Search client to use Meilisearch with InstantSearch.
 - [ndx](https://github.com/ndx-search/ndx) - Full text indexing and searching library.
+- [The Next Google (2022)](https://dkb.io/post/the-next-google) ([HN](https://news.ycombinator.com/item?id=30921628))

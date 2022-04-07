@@ -8,3 +8,4 @@
 - [Stephen Wolfram on Computer Language Design, SMP, Mathematica, and Wolfram Language (2020)](https://www.infoq.com/podcasts/wolfram-language-mathematica/)
 - [Wolfram Application Server](https://www.wolfram.com/application-server/) - Scalable Deployment of Wolfram-Powered Web Applications.
 - [Ask HN: Whatever happened to Wolfram Alpha? (2021)](https://news.ycombinator.com/item?id=29131931)
+- [It’s Time to Launch the Wolfram Institute (2022)](https://writings.stephenwolfram.com/2022/04/weve-got-a-science-opportunity-overload-its-time-to-launch-the-wolfram-institute/) ([HN](https://news.ycombinator.com/item?id=30940813))

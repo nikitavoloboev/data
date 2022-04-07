@@ -90,3 +90,5 @@
 - [CertiGC](https://github.com/CertiGraph/CertiGC) - Formally verified generational garbage collector.
 - [How Much Memory Is My Program Really Using? (2022)](https://blog.dnmfarrell.com/post/how-much-memory-is-my-program-really-using/)
 - [TinyGC (Tiny Garbage Collector)](https://github.com/ivmai/tinygc) - Implementation of the subset of API of the well-known Boehm-Demers-Weiser Conservative GC.
+- [The Tower of Weakenings: Memory Models For Everyone (2022)](https://gankra.github.io/blah/tower-of-weakenings/) ([Reddit](https://www.reddit.com/r/rust/comments/tx6h0m/the_tower_of_weakenings_memory_models_for_everyone/))
+- [Understanding Memory Allocation Size Limitations with Level Zero (2022)](https://jjfumero.github.io/posts/2022/04/understanding-memory-allocation-size-limitations-with-levelzero/)

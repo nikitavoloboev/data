@@ -455,3 +455,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Programmable Notes](https://maggieappleton.com/programmatic-notes) ([HN](https://news.ycombinator.com/item?id=30814964))
 - [zk](https://github.com/sirupsen/zk) - Zettelkasten on the command-line.
 - [xit](https://xit.jotaen.net/) - Plain-text file format for todos and check lists. ([Spec](https://github.com/jotaen/xit)) ([HN](https://news.ycombinator.com/item?id=30879327))
+- [chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - CLI toolkit for extracting and working with your digital history.
+- [25+ years of personal knowledge management (2022)](https://dsebastien.net/blog/2022-04-03-25-years-of-personal-knowledge-management) ([HN](https://news.ycombinator.com/item?id=30903940))

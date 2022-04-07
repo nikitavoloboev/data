@@ -434,7 +434,7 @@
 - [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/) ([HN](https://news.ycombinator.com/item?id=28384121))
 - [Chart Releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases.
 - [Kubescape](https://github.com/armosec/kubescape) - First tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA. ([HN](https://news.ycombinator.com/item?id=28419103))
-- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
+- [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator) ([Code](https://github.com/learnk8s/kubernetes-instance-calculator-data))
 - [A visual guide on troubleshooting Kubernetes deployments (2021)](https://learnk8s.io/troubleshooting-deployments) ([Tweet](https://twitter.com/manekinekko/status/1434808198532370432))
 - [Kalm](https://github.com/kalmhq/kalm) - Ready to use internal tools for your Kubernetes cluster. ([Web](https://kalm.dev/))
 - [Kubernetes Best Practices 101](https://github.com/diegolnasc/kubernetes-best-practices)
@@ -686,3 +686,6 @@
 - [StackRox Kubernetes Security Platform](https://github.com/stackrox/stackrox) - Performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
 - [Shipper](https://github.com/bookingcom/shipper) - Kubernetes native multi-cluster canary or blue-green rollouts using Helm.
 - [kaar](https://github.com/kris-nova/kaar) - Kubernetes Application Archive.
+- [Kubectl Grep](https://github.com/guessi/kubectl-grep) - Filter Kubernetes resources by matching their names.
+- [KubeKey](https://github.com/kubesphere/kubekey) - Open-source lightweight tool for deploying Kubernetes clusters.
+- [OPAL](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent.

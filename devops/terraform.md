@@ -149,3 +149,5 @@
 - [Terraform Provider for Okta](https://github.com/okta/terraform-provider-okta)
 - [Stripe Terraform Provider](https://github.com/lukasaron/terraform-provider-stripe)
 - [Terraform Provider Cloudvision Portal (CVP)](https://github.com/aristanetworks/terraform-provider-cloudvision)
+- [Terraform Provider Iterative (TPI)](https://github.com/iterative/terraform-provider-iterative) - Easily run experiments (data+code) in the cloud (AWS, GCP, Azure, K8s) at low cost (spot instance recovery).
+- [Terrafunk](https://github.com/JasonPodgorny/terrafunk) - Utility that allows you to execute terraform and terragrunt functions from the command line for quick tests.

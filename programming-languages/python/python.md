@@ -459,3 +459,4 @@ for i, _ in enumerate(nums):
 - [pyupgrade](https://github.com/asottile/pyupgrade) - Tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
 - [Cython Is 20 (2022)](http://blog.behnel.de/posts/cython-is-20/) ([HN](https://news.ycombinator.com/item?id=30904430))
 - [snekbox](https://github.com/python-discord/snekbox) - Easy, safe evaluation of arbitrary Python code.
+- [Yet another Python JIT.](https://github.com/eliphatfs/yapyjit)

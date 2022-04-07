@@ -45,3 +45,4 @@ I keep a [list of all board games I played & want to play](https://boardgamegeek
 - [61 Best Board Games to Buy in 2021](https://arstechnica.com/gaming/2021/12/best-board-games-buying-guide/)
 - [Best Board Games 2021](https://www.nytimes.com/wirecutter/reviews/board-games-we-love/)
 - [Diving into BoardGameGeek (2022)](https://jvanelteren.github.io/blog/2022/01/19/boardgames.html) ([HN](https://news.ycombinator.com/item?id=30040739))
+- [piecepackr](https://github.com/piecepackr/piecepackr) - Board Game Graphics in R.

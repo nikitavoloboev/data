@@ -44,6 +44,10 @@ Below is a list of plugins I use.
 
 - [SublimeNix](https://github.com/wmertens/sublime-nix) - Nix syntax highlighting.
 
+## Web
+
+- [Sublime REST Client](https://github.com/yeraydiazdiaz/sublime-rest-client) - REST client for Sublime Text 4.
+
 ## Looks
 
 - [Dracula Pro](https://draculatheme.com/pro/)

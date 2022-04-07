@@ -141,3 +141,5 @@
 - [R/igraph](https://github.com/igraph/rigraph) - R package of the igraph network analysis library.
 - [ggspatial](https://github.com/paleolimbot/ggspatial) - Enhancing spatial visualization in ggplot2.
 - [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
+- [ggtree](https://github.com/YuLab-SMU/ggtree) - R package for visualization of phylogenetic trees with their annotation data.
+- [corrr](https://github.com/tidymodels/corrr) - Explore correlations in R.

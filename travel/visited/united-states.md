@@ -121,3 +121,4 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [Solar Power/Batteries are 60% of planned new U.S. electric generation capacity (2022)](https://www.eia.gov/todayinenergy/detail.php?id=51518) ([HN](https://news.ycombinator.com/item?id=30597672))
 - [Why can’t America build quickly anymore? (2022)](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/) ([HN](https://news.ycombinator.com/item?id=30734062))
 - [Way to USA](https://waytousa.org/) ([Tweet](https://twitter.com/AlexSukhorukov_/status/1506293063345393682))
+- [2022 US Federal Budget Outlays](https://observablehq.com/@john-guerra/us-federal-budget-outlays)

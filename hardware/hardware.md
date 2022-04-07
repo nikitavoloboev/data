@@ -307,3 +307,6 @@
 - [PDL](https://github.com/apl-cornell/PDL) - Hardware Pipeline Description Language.
 - [LDgraphy - Laser Direct Lithography](https://github.com/hzeller/ldgraphy) - Simple Laser Direct Lithography / Laser Direct Imaging for PCB manufacturing.
 - [Go THDL](https://github.com/m-kru/go-thdl) - Tool for easing the work with hardware description languages.
+- [SLEIGH Library](https://github.com/lifting-bits/sleigh) - SLEIGH is a language used to describe the semantics of instruction sets of general-purpose microprocessors.
+- [USB-C hubs and my slow descent into madness (2021)](https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html) ([Reddit](https://www.reddit.com/r/hardware/comments/twuxtj/usbc_hubs_and_my_slow_descent_into_madness/)) ([HN](https://news.ycombinator.com/item?id=30911598))
+- [Bareflank PAL (Processor/Peripheral Abstraction Layer)](https://github.com/Bareflank/pal) - Bareflank Processor Abstraction Layer.

@@ -70,3 +70,4 @@
 - [RISC Zero](https://github.com/risc0/risc0) - Zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
 - [Awesome Zero Knowledge](https://github.com/ventali/awesome-zk)
 - [Arbibot RPS](https://github.com/botdad/arbirps) - On chain rock paper scissors game using zero knowledge proofs for hiding plays.
+- [zkSNARKS tutorial: practical beginner's guide to creating, proving, and verifying zkSNARKs in your contracts](https://github.com/jstoxrocky/zksnarks_example)

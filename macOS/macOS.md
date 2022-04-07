@@ -248,3 +248,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Asahi Linux installer](https://github.com/AsahiLinux/asahi-installer)
 - [Infinite Mac](https://system7.app/)
 - [Mac pfctl Port Forwarding](https://salferrarello.com/mac-pfctl-port-forwarding/)
+- [MACVZ](https://github.com/mac-vz/macvz) - macOS Virtualization for Linux.

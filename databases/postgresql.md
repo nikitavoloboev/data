@@ -459,3 +459,7 @@
 - [pg_ivm](https://github.com/sraoss/pg_ivm) - IVM (Incremnetal View Maintenance) implementation as a PostgreSQL extension.
 - [PostgreSQL Database Management System](https://github.com/sraoss/pgsql-ivm)
 - [Postgres connection pooler](https://github.com/coder543/roundabout) - Alternative to PgBouncer.
+- [E-Maj](https://github.com/dalibo/emaj) - PostgreSQL extension that tracks updates on tables sets with rollback capabilities.
+- [pg_migrate](https://github.com/phillbaker/pg_migrate) - Perform schema changes in PostgreSQL with minimal locks.
+- [How Postgres Chooses Which Index To Use For A Query (2022)](https://pganalyze.com/blog/how-postgres-chooses-index)
+- [Postgres everywhere. SQLite is embedded everywhere. Will Postgres follow suit? (2022)](https://www.infoworld.com/article/3655953/postgres-everywhere.html)

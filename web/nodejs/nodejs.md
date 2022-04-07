@@ -2,6 +2,8 @@
 
 [Tao of Node](https://alexkondov.com/tao-of-node/) is useful. [Broken Promises](https://www.youtube.com/watch?v=XV-u_Ow47s0) is a great talk on JS promises.
 
+[H3](https://github.com/unjs/h3) is nice.
+
 ## Notes
 
 - [I use package.json scripts as entrypoints to custom JS scripts. Make is a build tool, not a meta-shellscript format.](https://news.ycombinator.com/item?id=26978206)
@@ -117,7 +119,7 @@
 - [@hapi/lab](https://github.com/hapijs/lab) - Node test utility.
 - [live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Node.js module that allows you to install, uninstall and load any node package at runtime from npm registry.
 - [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
-- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.js.org/en/motivation))
+- [PnPm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.io/motivation)) ([Web](https://pnpm.io/)) ([HN](https://news.ycombinator.com/item?id=30919487))
 - [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
 - [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust. ([Docs](https://napi.rs/)) ([Web Code](https://github.com/napi-rs/website)) ([Tweet](https://twitter.com/Brooooook_lyn/status/1458961303897141249))
 - [Template project for writing node package with napi-rs](https://github.com/napi-rs/package-template)
@@ -349,3 +351,6 @@
 - [Strom](https://github.com/lewisdiamond/stromjs) - Dependency-free stream utils for Node.js.
 - [synckit](https://github.com/rx-ts/synckit) - Perform async work synchronously in Node.js using worker_threads with first-class TypeScript support.
 - [Node "exports" field explanation](https://github.com/sheremet-va/dual-packaging)
+- [Better Queue for NodeJS](https://github.com/diamondio/better-queue)
+- [valienv](https://github.com/zoontek/valienv) - Simple environment variables validator for Node.js and web browsers.
+- [meta-fetcher](https://github.com/rocktimsaikia/meta-fetcher) - Simple metadata scrapper for node.js.

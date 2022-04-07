@@ -8,6 +8,7 @@
 - [Apollo Kotlin](https://github.com/apollographql/apollo-kotlin) - Strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 - [Ktor](https://github.com/ktorio/ktor) - Asynchronous framework for creating microservices, web applications and more.
 - [KVision](https://github.com/rjaros/kvision) - Object oriented web framework for Kotlin/JS.
+- [kotlinx.html](https://github.com/Kotlin/kotlinx.html) - Kotlin DSL for HTML.
 
 ## Graphics
 

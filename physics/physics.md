@@ -293,3 +293,4 @@
 - [Misconceptions that are common among physics students (2022)](https://www.reddit.com/r/AskPhysics/comments/tmm1xz/what_are_some_misconceptions_that_are_common/)
 - [ELI5: Why is a Planck’s length the smallest possible distance?](https://www.reddit.com/r/explainlikeimfive/comments/tsompf/eli5_why_is_a_plancks_length_the_smallest/)
 - [What I learned as a hired consultant to autodidact physicists (2016)](https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists) ([HN](https://news.ycombinator.com/item?id=30908084))
+- [Twenty-five years of nanoscale thermodynamics (2022)](https://www.nature.com/articles/d41586-022-00869-y) ([Tweet](https://twitter.com/seanmcarroll/status/1511797026224173059))

@@ -510,3 +510,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Comet](https://github.com/liamg/comet) - CLI tool that helps you to use conventional commits with git.
 - [dunk](https://github.com/darrenburns/dunk) - Prettier git diffs.
 - [Git Module](https://github.com/gogs/git-module) - Go module for Git access through shell commands.
+- [git-meta](https://github.com/twosigma/git-meta) - Allows developers to work with extremely large codebases. Build your own monorepo using Git submodules.

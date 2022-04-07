@@ -11,6 +11,7 @@
 - [Messages Clone](https://github.com/marcusfrdk/messages-clone) - iOS Messages app clone I created in React Native.
 - [React Native WYSIWYG](https://github.com/shakogegia/markdown-editor) - React Native markdown editor.
 - [Blank Solito Example Monorepo](https://github.com/flexbox/react-native-nextjs-monorepo)
+- [Billy](https://github.com/lyqht/Billy) - Bill Tracker App, made with React Native + Typescript.
 
 ## Links
 
@@ -216,3 +217,8 @@
 - [Electrode Native](https://github.com/electrode-io/electrode-native) - Platform to ease integration&delivery of React Native apps in existing mobile applications.
 - [React Native Push Notification API for iOS](https://github.com/react-native-push-notification/ios)
 - [TailwindCSS React Native](https://github.com/marklawlor/tailwindcss-react-native)
+- [React Native Awesome Gallery](https://github.com/Flair-Dev/react-native-awesome-gallery) - Performant, native-like, and well-customizable gallery for React Native.
+- [React Native BigNumber](https://github.com/margelo/react-native-bignumber) - Fastest Big Number library for React Native.
+- [React Native Vector Image](https://github.com/oblador/react-native-vector-image) - iOS/Android native vector assets generated from SVG.
+- [React Native TableView List](https://github.com/jacobp100/react-native-tableview-list) - SectionList-like component backed by a UITableView (iOS only).
+- [React Native Material You](https://github.com/Assembless/react-native-material-you) - Material You native module for React Native.

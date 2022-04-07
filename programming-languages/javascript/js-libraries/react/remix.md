@@ -33,6 +33,8 @@
 - [Hacker News Clone Remix/React](https://github.com/clintonwoo/hackernews-remix-react)
 - [Remix TS Tailwind Quick Start](https://github.com/resir014/remix-typescript-tailwind-quickstart)
 - [Remix + React 18 Streaming](https://github.com/jacob-ebey/remix-react-18-streaming)
+- [Remix GraphCMS Doc Starter](https://github.com/GraphCMS/docs-starter)
+- [Remix on the Bun runtime](https://github.com/jacob-ebey/remix-bun)
 
 ## Plugins
 
@@ -113,3 +115,4 @@
 - [Remix - Web Standards Are Cool Again (2022)](https://www.simplethread.com/remix-web-standards-are-cool-again/)
 - [Intro To Remix Series](https://dev.to/aaronksaunders/series/16332)
 - [Remix Guide](https://remix.guide/discover)
+- [Remix Validity State](https://github.com/brophdawg11/remix-validity-state) - Enhanced HTML Inputs for Remix.

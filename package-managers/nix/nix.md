@@ -324,3 +324,9 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix tutorials](https://github.com/mhwombat/nix-for-numbskulls)
 - [Spongix](https://github.com/input-output-hk/spongix) - Proxy for Nix Caching.
 - [Nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image.
+- [Summer of Nix](https://summer.nixos.org/)
+- [Cache evaluation of nix functions](https://github.com/DavHau/nix-eval-cache)
+- [nix-bundle-exe](https://github.com/3noch/nix-bundle-exe) - Simple Nix derivation to bundle Mach-O (macOS) and ELF (Linux) executables into a relocatable directory structure.
+- [deploy-flake](https://github.com/antifuchs/deploy-flake) - Tool for deploying nix flakes to remote systems.
+- [Nix Flakes: Exposing and using NixOS Modules (2022)](https://christine.website/blog/nix-flakes-3-2022-04-07)
+- [NixEL](https://github.com/kamadorueda/nixel) - Lexer, Parser, Abstract Syntax Tree and Concrete Syntax Tree for the Nix Expressions Language.

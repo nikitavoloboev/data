@@ -113,3 +113,5 @@
 - [Your pocket-sized cloud with a Raspberry Pi (2022)](https://blog.alexellis.io/your-pocket-sized-cloud/) ([Video](https://www.youtube.com/watch?v=HTgUCm9RedU))
 - [CustomPiOS](https://github.com/guysoft/CustomPiOS) - Raspberry Pi and other ARM devices distribution builder.
 - [EuroPi](https://github.com/Allen-Synthesis/EuroPi) - Reprogrammable Eurorack module based on the Raspberry Pi Pico.
+- [dockerpi](https://github.com/lukechilds/dockerpi) - Virtualised Raspberry Pi inside a Docker image.
+- [NixOS on the Raspberry Pi Zero W](https://github.com/cyber-murmel/nixos-rpi-zero-w)

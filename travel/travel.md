@@ -2,6 +2,8 @@
 
 I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=PLfO1QINjvak9KoBetr7ThGHVB2owBLH1C) travel vlog (it's in Russian). What's amazing is how he mixes in atmospheric music with nice edits of both the city and his standup and voice audios of people he talked to.
 
+[Here](https://open.spotify.com/track/2k750ut7R7B2M2oWZtE2jC) is a nice song to listen to when walking some new city in evening.
+
 ## Notes
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
@@ -112,3 +114,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Unbundling Airbnb (2022)](https://www.peterfabor.com/posts/unbundling-airbnb) ([HN](https://news.ycombinator.com/item?id=30855187))
 - [The Safest Low-Tax Countries in the World](https://www.youtube.com/watch?v=SleuUmzZ9S4)
 - [Small World](https://smallworld.kiwi/) - Stay in touch with your friends around the world. ([Code](https://github.com/devonzuegel/smallworld))
+- [Flight Penguin](https://flightpenguin.com/) - Taking the Pain out of Flight Search. ([HN](https://news.ycombinator.com/item?id=30920891))

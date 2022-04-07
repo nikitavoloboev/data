@@ -29,3 +29,4 @@
 - [Rust WebAssembly OCR experiments (2022)](https://hugopeixoto.net/articles/rust-wasm-ocr-experiments.html)
 - [Paperless-NGX](https://github.com/paperless-ngx/paperless-ngx) - Supercharged version of paperless: scan, index and archive all your physical documents. ([HN](https://news.ycombinator.com/item?id=30852035))
 - [scan2drive](https://github.com/stapelberg/scan2drive) - Go program (with a web interface) for scanning, converting and uploading physical documents to Google Drive.
+- [docTR](https://github.com/mindee/doctr) - Optical Character Recognition made seamless & accessible to anyone, powered by TensorFlow 2 & PyTorch.

@@ -507,3 +507,6 @@
 - [Booster](https://github.com/anatol/booster) - Specially crafted small root filesystem that mounted at the early stages of Linux OS boot process.
 - [Boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor (TCP) for spawning reverse shells.
 - [How to diagnose a mysterious process that’s taking too much CPU, memory, IO, etc?](https://twitter.com/alexxubyte/status/1500881250201976832)
+- [kvmtool](https://github.com/kvmtool/kvmtool) - Lightweight tool for hosting KVM guests.
+- [KUtrace](https://github.com/dicksites/KUtrace) - Extremely low-overhead Linux kernel tracing facility for observing all
+the execution time on all cores of a multi-core processor.

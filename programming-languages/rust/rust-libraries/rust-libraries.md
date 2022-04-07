@@ -45,6 +45,7 @@
 - [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
 - [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
 - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
+- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time.
 
 ## Web
 
@@ -139,6 +140,11 @@
 - [rsocket-rust](https://github.com/rsocket/rsocket-rust) - RSocket Rust Implementation using Tokio.
 - [Aliri](https://github.com/neoeinstein/aliri) - Web API access control for Rust.
 - [ipnet](https://github.com/krisprice/ipnet) - IpNet, Ipv4Net, and Ipv6Net types and methods for Rust.
+- [utoipa](https://github.com/juhaku/utoipa) - Auto generated OpenAPI documentation.
+- [packet](https://github.com/meh/rust-packet) - Network packet handling for Rust.
+- [tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation.
+- [tide-trace](https://github.com/No9/tide-trace) - Minimum overhead USDT middleware to dynamically trace tide with BPF or DTrace.
+- [mt-dom](https://github.com/ivanceras/mt-dom) - Generic virtual DOM implementation for rust.
 
 ## WASM
 
@@ -375,7 +381,8 @@
 - [Yare](https://github.com/foresterre/yare) - Lean parametrized testing library for Rust.
 - [tracing-test](https://github.com/dbrgn/tracing-test) - Access and evaluate tracing logs in async and sync tests.
 - [cov-mark](https://github.com/matklad/cov-mark) - Verify that your tests exercise the conditions you think they are exercising.
-- [test-log](https://github.com/d-e-s-o/test-log) - Crate that takes care of automatically initializing logging and/or tracing for Rust .
+- [test-log](https://github.com/d-e-s-o/test-log) - Crate that takes care of automatically initializing logging and/or tracing for Rust.
+- [Coppers](https://github.com/ThijsRay/coppers) - Custom test harnass for Rust that measures the energy usage of your test suite. ([HN](https://news.ycombinator.com/item?id=30918318))
 
 ## Error
 
@@ -487,6 +494,7 @@
 - [caps](https://github.com/lucab/caps-rs) - Pure-Rust library to work with Linux capabilities.
 - [InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and emulating inputs.
 - [daemonize-me](https://github.com/DarthUdp/daemonize-me) - Rust library to ease the task of creating daemons.
+- [zbus](https://github.com/zeenix/zbus) - Rust API for D-Bus communication.
 
 ## Embedded
 
@@ -505,6 +513,8 @@
 - [assert_no_alloc](https://github.com/Windfisch/rust-assert-no-alloc) - Custom Rust allocator allowing to temporarily disable memory (de)allocations for a thread. Aborts or prints a warning if allocating although forbidden.
 - [defmt-bbq](https://github.com/jamesmunns/defmt-bbq) - Highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
 - [nrf-softdevice](https://github.com/embassy-rs/nrf-softdevice) - Rust bindings for Nordic Semiconductor nRF series SoftDevices.
+- [Wifi on ESP32C3 (on bare-metal Rust)](https://github.com/bjoernQ/esp32c3-wifi-rs)
+- [nrf-usbd](https://github.com/nrf-rs/nrf-usbd) - Driver for the USBD peripheral in nRF microcontrollers.
 
 ## ML
 
@@ -617,6 +627,8 @@
 - [Venial](https://github.com/PoignardAzur/venial) - Lightweight parsing for Rust proc macros.
 - [duplicate](https://github.com/Emoun/duplicate) - Macros for code duplication with substitution.
 - [const_format_crates](https://github.com/rodrimati1992/const_format_crates) - Compile-time string formatting.
+- [document-features](https://github.com/slint-ui/document-features) - Extract documentation for the feature flags from comments in Cargo.toml.
+- [postfix-macros](https://github.com/est31/postfix-macros) - Postfix macros on stable Rust.
 
 ## Math
 
@@ -836,6 +848,7 @@
 - [merkle-tree-stream](https://github.com/datrs/merkle-tree-stream) - Stream that generates a merkle tree based on the incoming data.
 - [async-graphql](https://github.com/sunli829/async-graphql) - GraphQL server library that fully supports async/await and is easy to use. ([Examples](https://github.com/async-graphql/examples))
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
+- [comrak-wasm](https://github.com/lucacasonato/comrak-wasm) - WASM bindings for the comrak markdown renderer.
 - [generational-arena](https://github.com/fitzgen/generational-arena) - Safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
 - [printpdf](https://github.com/fschutt/printpdf) - Library designed for creating printable PDF documents.
 - [rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications.
@@ -1680,6 +1693,13 @@
 - [tokenizations](https://github.com/explosion/tokenizations) - Robust and Fast tokenizations alignment library for Rust and Python.
 - [systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information/statistics.
 - [Symbolic Stack Machines](https://github.com/WilfredTA/symbolic-stack-machines) - Library for implementing symbolically executable stack-based virtual machines.
+- [ZeroGc](https://github.com/DuckLogic/zerogc) - Zero overhead tracing garbage collection for rust.
+- [nc](https://github.com/XuShaohua/nc) - Execute system call directly without std or libc.
+- [snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - Rust bindings of snmalloc.
+- [Serde Lite](https://github.com/operutka/serde-lite) - General-purpose serialization/de-serialization library.
+- [vaultrs](https://github.com/jmgilman/vaultrs) - Asynchronous Rust client library for the Hashicorp Vault API.
+- [VDF](https://github.com/poanetwork/vdf) - Verifiable Delay Functions in Rust.
+- [TreeFlat](https://github.com/mamcx/tree-flat) - Simplest way to build & traverse a pre-order Tree in Rust.
 
 ## Cargo Plugins
 

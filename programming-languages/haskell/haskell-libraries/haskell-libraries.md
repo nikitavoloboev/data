@@ -276,6 +276,9 @@
 - [typed-process](https://github.com/fpco/typed-process) - Alternative API for processes, featuring more type safety.
 - [text](https://github.com/haskell/text) - Library for space- and time-efficient operations over Unicode text.
 - [eff](https://github.com/lexi-lambda/eff) - Implementation of an extensible effect system for Haskell. ([Effect semantics zoo](https://github.com/lexi-lambda/eff/blob/master/notes/semantics-zoo.md)) ([Reddit](https://www.reddit.com/r/haskell/comments/tvrx4r/the_effect_system_semantics_zoo/))
+- [Scalable records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields). ([Article](https://well-typed.com/blog/2022/04/large-anon/))
+- [record-dot-preprocessor](https://github.com/ndmitchell/record-dot-preprocessor) - Preprocessor for a Haskell record syntax using dot.
+- [HasCal](https://github.com/Gabriel439/HasCal) - Haskell embedding of PlusCal.
 
 ## Notes
 
@@ -311,3 +314,4 @@
 - [thax](https://github.com/tek/thax) - Create haskell tags from nix dependencies.
 - [Pure Print-Style Debugging in Haskell (2022)](https://medium.com/pragmatic-programmers/pure-print-style-debugging-in-haskell-c4c5d4f39afa) ([Lobsters](https://lobste.rs/s/iwkrig/pure_print_style_debugging_haskell))
 - [Foliage](https://github.com/andreabedini/foliage) - Tool to create custom Haskell package repositories, in a fully reproducible way.
+- [hackage-db](https://github.com/NixOS/hackage-db) - Provide access to the Hackage database via Data.Map.

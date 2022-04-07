@@ -39,3 +39,4 @@
 - [bloc](https://github.com/felangel/bloc) - Predictable state management library that helps implement the BLoC design pattern.
 - [dwds](https://github.com/dart-lang/webdev) - CLI for Dart web development.
 - [ClojureDart](https://github.com/Tensegritics/ClojureDart) - Port of Clojure that compiles to Dart.
+- [Artemis](https://github.com/comigor/artemis) - Build dart types from GraphQL schemas and queries.

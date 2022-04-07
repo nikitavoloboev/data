@@ -59,3 +59,4 @@
 - [Nuclear War Survival Skills (1987)](http://oism.org/nwss/nwss.pdf) ([HN](https://news.ycombinator.com/item?id=30533432))
 - [Developers of small modular reactors hope their time has come (2022)](https://www.economist.com/science-and-technology/developers-of-small-modular-reactors-hope-their-time-has-come/21808321) ([HN](https://news.ycombinator.com/item?id=30787076))
 - [How to Keep 600 Kilograms of Kazakh Highly Enriched Uranium Safe (2022)](https://warontherocks.com/2022/04/project-sapphire-how-to-keep-600-tons-of-kazakh-highly-enriched-uranium-safe/) ([HN](https://news.ycombinator.com/item?id=30902890))
+- [First Light (Oxford University spinout) achieves nuclear fusion](https://firstlightfusion.com/media/fusion) ([HN](https://news.ycombinator.com/item?id=30917750))

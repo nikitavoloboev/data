@@ -122,3 +122,5 @@
 - [SPSettingsIcons](https://github.com/sparrowcode/SPSettingsIcons) - Generate settings icons by Apple's SF Symbols.
 - [Unicons](https://iconscout.com/unicons) - 4500+ Free Vector Icons. ([Code](https://github.com/Iconscout/unicons))
 - [Pepicons](https://pepicons.com/) - Icon-set of over one hundred retro icons inspired by the 80's. ([Code](https://github.com/CyCraft/pepicons))
+- [Everything Starts as a Square method for icon design](https://twitter.com/jamesm/status/1501184842364510212) ([Part 2](https://twitter.com/jamesm/status/1511815490624233473))
+- [App Icon Endpoint](https://github.com/EvanBacon/app-icon-endpoint) - Cloud function to generate basic icons, splash screens, and favicons.

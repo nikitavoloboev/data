@@ -40,6 +40,7 @@
 - [ocaml_sql_query](https://github.com/yawaramin/ocaml_sql_query) - Functional-style SQLite queries for OCaml.
 - [epiSQL](https://github.com/paurkedal/episql) - SQL schema parser and code generator.
 - [PGX](https://github.com/arenadotio/pgx) - Pure OCaml PostgreSQL client library.
+- [Sequoia](https://github.com/andrenth/sequoia) - Type-safe query builder for OCaml.
 
 ## Bindings
 
@@ -172,6 +173,7 @@
 - [Backward Lists](https://github.com/RedPRL/ocaml-bwd) - Defines backward lists that are isomorphic to lists.
 - [bistro](https://github.com/pveber/bistro) - Library to build and execute typed scientific workflows.
 - [domainslib](https://github.com/ocaml-multicore/domainslib) - Parallel Programming over Multicore OCaml.
+- [Conformist](https://github.com/oxidizing/conformist) - Schema definition and validation with support for decoding to bridge the gap between runtime types and static types.
 
 ## Links
 

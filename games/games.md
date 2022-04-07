@@ -53,6 +53,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Looptap](https://looptap.vasanthv.com/) - Minimal game to waste your time. ([HN](https://news.ycombinator.com/item?id=29921419))
 - [Squabble](https://squabble.me/) - Multiplayer Wordle Royale. ([HN](https://news.ycombinator.com/item?id=30190004))
 - [Quordle](https://www.quordle.com/#/) - Four Wordles in One. ([HN](https://news.ycombinator.com/item?id=30373342))
+- [Krunker](https://krunker.io/) - Fast 3D Shooter in Browser.
 
 ## Awesome OSS games
 
@@ -187,6 +188,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What's your favorite video game of all time? (2022)](https://www.reddit.com/r/AskMen/comments/swaycl/whats_your_favourite_videogame_of_all_time/)
 - [Ask HN: What are you favorite games? (2022)](https://news.ycombinator.com/item?id=30477328)
 - [List of underrated titles on PS4 (2022)](https://www.reddit.com/r/PS4/comments/tdnlgw/a_fat_list_of_underrated_titles_on_ps4/)
+- [What is your most favorite Playstation game of all time? (2022)](https://www.reddit.com/r/PS4/comments/txh5a2/what_is_your_most_favorite_playstation_game_of/)
 
 ## Links
 

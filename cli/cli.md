@@ -113,3 +113,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Fig Manual Pages](https://fig.io/manual) - Beautiful, community-driven documentation for 300+ CLI tools.
 - [csvlens](https://github.com/YS-L/csvlens) - CSV file viewer in the command line.
 - [Difftastic](https://github.com/Wilfred/difftastic) - Diff tool that compares files based on their syntax. ([HN](https://news.ycombinator.com/item?id=30841244))
+- [Goreman](https://github.com/mattn/goreman) - Manage Procfile-based applications.

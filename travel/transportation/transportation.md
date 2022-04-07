@@ -2,6 +2,7 @@
 
 ## Interesting cars
 
+- [Lucid Air](https://www.youtube.com/watch?v=JxuB4H6uCq8)
 - [Citroën Karin (1980)](https://twitter.com/emhaasch/status/1394798032223277058)
 - [Hyundai Grandeur Heritage EV Concept](https://twitter.com/slate_akita/status/1458822858122088452)
 
@@ -41,3 +42,4 @@
 - [Why are semi trucks in the US and Europe so different? (2018)](https://nodum.org/why-semi-trucks-in-us-and-europe-are-so-different/) ([HN](https://news.ycombinator.com/item?id=30193469))
 - [TIER](https://www.tier.app/en/) - Change mobility for good.
 - [What's a hidden Tesla trick more people should know about?](https://twitter.com/Model3Owners/status/1498740769825435653)
+- [Lucid Motors](https://www.lucidmotors.com/) - Luxury Electric Cars.

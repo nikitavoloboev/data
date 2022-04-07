@@ -55,3 +55,4 @@
 - [Bringing Prolog to the masses](https://github.com/TheClause/learn-prolog)
 - [Marelle](https://github.com/larsyencken/marelle) - Test-driven system administration in SWI-Prolog, in the style of Babushka.
 - [A Tour of Prolog (2022)](https://www.youtube.com/watch?v=8XUutFBbUrg)
+- [Prolamb](https://github.com/bkrn/prolamb) - SWI-Prolog bootstrap for the AWS Lambda provided runtime.

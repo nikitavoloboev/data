@@ -132,7 +132,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
 - [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
-- [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate))
+- [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate)) ([Examples](https://github.com/gin-gonic/examples))
 - [Gin-OAuth2](https://github.com/zalando/gin-oauth2) - Middleware for Gin Framework users who also want to use OAuth2.
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community.
 - [sessions](https://github.com/gin-contrib/sessions) - Gin middleware for session management.
@@ -303,6 +303,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Extemplate](https://github.com/dannyvankooten/extemplate) - Wrapper package for Go's template/html to allow for easy file-based template inheritance.
 - [echo-swagger](https://github.com/swaggo/echo-swagger) - Echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [Go Seamless Restart](https://github.com/rs/seamless) - Seamless restart / zero-downtime deploy for Go servers.
+- [GoLobby Router](https://github.com/golobby/router) - Lightweight yet powerful HTTP router for Go.
 
 ## GraphQL
 
@@ -454,6 +455,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-blockservice](https://github.com/ipfs/go-blockservice) - Seamless interface to both local and remote storage backends.
 - [GORM Data Types](https://github.com/go-gorm/datatypes)
 - [sqlite](https://gitlab.com/cznic/sqlite) - CGo-free port of SQLite.
+- [Golobby ORM](https://github.com/golobby/orm) - Lightweight yet powerful, fast, customizable, type-safe object-relational mapper for Go.
+- [lockfree](https://github.com/dustinxie/lockfree) - Go lock-free concurrent Hashmap.
 
 ## ML
 
@@ -1505,6 +1508,23 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [MessagePack](https://github.com/shamaton/msgpack) - Easier, faster, but extendable MessagePack Serializer for Go.
 - [IceCream-Go](https://github.com/WAY29/icecream-go) - Go port of Python's IceCream. Makes print debugging a little sweeter.
 - [Go Data Structures](https://github.com/nsnikhil/go-datastructures) - Port/build well known and commonly used data structures to Go.
+- [go-msgauth](https://github.com/emersion/go-msgauth) - Go library for DKIM, DMARC and Authentication-Results.
+- [Config](https://github.com/golobby/config) - Lightweight yet powerful configuration manager for Go projects.
+- [Container](https://github.com/golobby/container) - Lightweight yet powerful IoC dependency injection container for Go projects.
+- [onion](https://github.com/goraz/onion) - Layer based configuration for Go.
+- [Base36](https://github.com/martinlindhe/base36) - Base36 encoding and decoding, which is useful to represent large integers in a case-insensitive alphanumeric way.
+- [well](https://github.com/cybozu-go/well) - Go framework for well-behaving commands.
+- [go-saga](https://github.com/itimofeev/go-saga) - Saga pattern implementation in Go.
+- [go-jsonnet](https://github.com/google/go-jsonnet) - Jsonnet in pure Go.
+- [Knative Common Packages](https://github.com/knative/pkg)
+- [streaming-runtime-go](https://github.com/vladimirvivien/streaming-runtime-go)
+- [Splunk Distribution of OpenTelemetry Go](https://github.com/signalfx/splunk-otel-go)
+- [H3-Go](https://github.com/uber/h3-go) - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+- [Go FFmpeg Bindings](https://github.com/3d0c/gmf)
+- [Go Gumroad](https://github.com/caarlos0/go-gumroad) - Easily check licenses against Gumroad's API.
+- [libcnb](https://github.com/buildpacks/libcnb) - Language binding for the Cloud Native Buildpack Buildpack and Extension specifications.
+- [Pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays.
+- [atomic](https://github.com/natefinch/atomic) - Go package for atomic file writing.
 
 ## Links
 
@@ -1589,3 +1609,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Code examples for learning](https://github.com/betNevS/code-examples)
 - [Go mod's lesser known features](https://verdverm.com/go-mods/) ([HN](https://news.ycombinator.com/item?id=30872168))
 - [Using Go for traditional Web application development examples (2022)](https://www.reddit.com/r/golang/comments/ttwole/anyone_here_using_go_for_more_traditional_web/?sort=top)
+- [Get familiar with workspaces (2022)](https://go.dev/blog/get-familiar-with-workspaces)
+- [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go struct definitions from example JSON.

@@ -16,3 +16,5 @@
 - [Terrajet Grafana Provider](https://github.com/grafana/crossplane-provider-grafana) - Crossplane provider that is built using Terrajet code generation tools and exposes XRM-conformant managed resources for the Grafana API.
 - [Embed Grafana for Your Customers in React (2022)](https://fusebit.io/blog/grafana-in-react/)
 - [Grafana Community Kubernetes Helm Charts](https://github.com/grafana/helm-charts)
+- [WebSocket Data Source for Grafana](https://github.com/golioth/grafana-websocket-plugin) - WebSocket data source plugin for real time data updates in Grafana Dashboards.
+- [Meta Queries Plugin for Grafana](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.

@@ -75,3 +75,4 @@
 - [Vulkan tutorial written in Rust using Ash](https://github.com/adrien-ben/vulkan-tutorial-rs)
 - [Vulkan Haskell](https://github.com/achirkin/vulkan) - Low-level low-overhead haskell bindings to vulkan API.
 - [Niagara](https://github.com/zeux/niagara) - Vulkan renderer written from scratch on stream.
+- [volk](https://github.com/zeux/volk) - Meta loader for Vulkan API.

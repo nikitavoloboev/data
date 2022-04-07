@@ -30,6 +30,7 @@
 - [Hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure.
 - [Sablono](https://github.com/r0man/sablono) - Lisp/Hiccup style templating for Facebook’s React in ClojureScript.
 - [re-stated](https://github.com/mainej/re-stated) - Small and powerful toolset that brings state machines to re-frame.
+- [Coast](https://github.com/coast-framework/coast) - Fullest full stack Clojure web framework. ([Web](https://coast.swlkr.com/)) ([HN](https://news.ycombinator.com/item?id=30917772))
 
 ## DB
 
@@ -55,6 +56,7 @@
 - [deep-diamond](https://github.com/uncomplicate/deep-diamond) - Fast Clojure Tensor & Deep Learning library.
 - [DataLinguist](https://github.com/simongray/datalinguist) - Stanford CoreNLP in idiomatic Clojure.
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - Clojure high performance data processing system.
+- [GoodGuesser](https://github.com/drcode/good-guesser) - Approximate a single numerical value using arbitrary input data, given human-labeled examples.
 
 ## CLI
 
@@ -71,6 +73,7 @@
 - [spec-coerce](https://github.com/wilkerlucio/spec-coerce) - Clojure(script) library designed to leverage your specs to coerce your information into correct types.
 - [coax](https://github.com/exoscale/coax) - Clojure.spec coercion library for clj(s).
 - [clojure.test](https://github.com/clojure-expectations/clojure-test) - Clojure.test-compatible version of the classic Expectations testing library.
+- [RCF](https://github.com/hyperfiddle/rcf) - REPL-first, async test macro for Clojure/Script.
 
 ## Graphics
 
@@ -203,3 +206,5 @@
 - [Clojure Garden](https://github.com/clojure-garden/clojure-garden) - Navigator in the Clojure ecosystem.
 - [Snowball](https://github.com/phronmophobic/snowball) - View the sizes of your dependencies.
 - [mobiletest](https://github.com/phronmophobic/mobiletest) - Example of building a clojure library for iOS with graalvm native-image.
+- [Grease](https://github.com/phronmophobic/grease) - Example of building a clojure library for iOS with graalvm native-image.
+- [Clojure calling C](https://github.com/saikyun/native-image-clojure-c) - Call C from Clojure using GraalVM -- then compile a binary using native-image.

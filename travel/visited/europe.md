@@ -55,3 +55,4 @@
 - [Wealth Inequality and Homeownership in Europe](https://www.jstor.org/stable/10.15609/annaeconstat2009.136.0027)
 - [Hoog - YouTube](https://www.youtube.com/c/Hoogromulus/videos)
 - [EU will have issues for not embracing AI and focusing on regulation](https://twitter.com/punk6529/status/1509832349986562048)
+- [Cost of employment for companies in different EU countries (2022)](https://twitter.com/GergelyOrosz/status/1511394247500566533)

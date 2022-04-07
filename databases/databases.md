@@ -215,6 +215,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [CnosDB](https://github.com/cnosdb/cnosdb) - Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
 - [Nubostore](https://nubo.app/nubostore) - Data store like Firestore and Algolia all in one.
 - [Surge](https://github.com/surgedb/surge) - Fastest next-gen NoSQL db.
+- [StarfishQL](https://github.com/SeaQL/starfish-ql) - Graph database and query engine to enable graph analysis and visualization on the web. ([Web](https://www.sea-ql.org/StarfishQL/))
+- [SingleStore](https://www.singlestore.com/) - Unified database for data-intensive applications. ([Twitter](https://twitter.com/SingleStoreDB)) ([Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb/))
 
 ## Tools
 
@@ -273,6 +275,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [MaxScale](https://github.com/mariadb-corporation/MaxScale) - Intelligent database proxy. ([Docs](https://github.com/mariadb-corporation/MaxScale/wiki))
 - [Couchbase](https://www.couchbase.com/) - Modern Database for Enterprise Applications.
 - [Couchbase Mobile](https://www.couchbase.com/products/mobile) - SQLite Alternative. ([C++ Client](https://github.com/couchbase/couchbase-lite-core))
+- [Morph](https://github.com/mattermost/morph) - Database migration tool that helps you to apply your migrations. Written with Go.
+- [loadgen](https://github.com/crazycs520/loadgen) - Generate database load.
 
 ## Notes
 
@@ -568,3 +572,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Writing a document database from scratch in Go: Lucene-like filters and indexes (2022)](https://notes.eatonphil.com/documentdb.html) ([Lobsters](https://lobste.rs/s/9hwnup/writing_document_database_from_scratch)) ([HN](https://news.ycombinator.com/item?id=30835444)) ([Code](https://github.com/eatonphil/docdb))
 - [Architecture of a Database System (2007)](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [Kerchunk](https://github.com/fsspec/kerchunk) - Cloud-friendly access to archival data.
+- [Klepto](https://github.com/hellofresh/klepto) - Tool for copying and anonymising data.

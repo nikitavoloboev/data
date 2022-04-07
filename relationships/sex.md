@@ -66,7 +66,7 @@
 - [What are things that woman find sexy that men rarely do?](https://www.reddit.com/r/sexover30/comments/nu4oju/what_are_some_things_that_i_can_try_to_get_my/)
 - [Is G-spot actually just an internal part of clitoris?](https://www.reddit.com/r/sexover30/comments/nosd53/is_gspot_actually_just_an_internal_part_of/)
 - [Exploring Queerness By Switching Up My Vibrators (2021)](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-- [Future of Sex](https://futureofsex.net/) - Latest news on how tech is expanding sexuality.
+- [Future of Sex](https://futureofsex.net/) - Latest news on how tech is expanding sexuality. ([Twitter](https://twitter.com/FutureofSex))
 - [Scarleteen](https://www.scarleteen.com/) - Sex Education For The Real World.
 - [How do girls cum?](https://www.reddit.com/r/NoStupidQuestions/comments/nyqpcf/how_do_girls_cum_what_comes_out_and_how_long_does/)
 - [Tips on fingering (2021)](https://www.reddit.com/r/sexover30/comments/o6jp58/tips_on_fingering/)
@@ -100,3 +100,4 @@
 - [101 Kinky Things Even You Can Do](https://101kinkythings.com/)
 - [Sex Work: Last Week Tonight with John Oliver (HBO) (2022)](https://www.youtube.com/watch?v=-gd8yUptg0Q)
 - [Contraceptive pill for males is 99% effective in preventing pregnancy (2022)](https://www.reddit.com/r/Futurology/comments/tksxt4/a_99_effective_birth_control_pill_for_men_could/) ([HN](https://news.ycombinator.com/item?id=30796368))
+- [Vaginal Orgasms](https://www.reddit.com/r/sexover30/comments/twhzkd/vaginal_orgasms/)

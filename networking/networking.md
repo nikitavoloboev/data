@@ -455,3 +455,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [How 90's dial-up Internet worked, and let's make our own ISP. (2022)](https://www.youtube.com/watch?v=Je8lwcUPBys)
 - [Aeron](https://github.com/real-logic/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 - [firewalld](https://github.com/firewalld/firewalld) - Firewall daemon with D-Bus interface.
+- [IPIP.NET](http://en.ipip.net/) - IP Database  based on real time BGP/ASN data analytics.
+- [bore](https://github.com/ekzhang/bore) - Simple CLI tool for making tunnels to localhost.
+- [Beyond POSIX - Adventures in Alternative Networking APIs (2022)](https://www.infoq.com/presentations/posix-networking-api/)
+- [5G, Wi-Fi, mmWave and wireline in a single gateway SoC](https://www.nxp.com/docs/en/white-paper/LA1575FAMILYWP.pdf)
