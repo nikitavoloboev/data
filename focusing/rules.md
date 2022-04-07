@@ -242,7 +242,7 @@
 ## Social
 
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-- Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) (only if it's better than without) across all profiles. Don't change it often.
+- Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) (if it looks better with) across all profiles. Don't change it often.
 - Add appropriate short description with link to personal site.
 - Use same username on all services. Preferred (`nikivi`). If service requires full name, use it (`nikitavoloboev`). If `nikivi` is taken, can use `nikiv` or `nikiv_`.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.

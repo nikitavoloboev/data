@@ -1,6 +1,6 @@
 # User Experience
 
-[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great.
+[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) book is a staple.
 
 ## Notes
 

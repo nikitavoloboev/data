@@ -105,3 +105,4 @@
 - [Awesome Self Supervised GNN](https://github.com/ChandlerBang/awesome-self-supervised-gnn) - Papers about pretraining and self-supervised learning on Graph Neural Networks (GNN).
 - [ptgnn](https://github.com/microsoft/ptgnn) - PyTorch Graph Neural Network Library.
 - [BrainGB](https://github.com/HennyJie/BrainGB) - Unified, modular, scalable, and reproducible framework established for brain network analysis with GNNs. ([Web](https://brainnet.us/))
+- [Equilibrium Aggregation (2022)](https://fabianfuchsml.github.io/equilibriumaggregation/)
