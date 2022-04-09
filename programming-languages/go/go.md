@@ -755,3 +755,4 @@ if err != nil {
 - [Go Generics for Field Level Database Encryption (2022)](https://engineering.kablamo.com.au/posts/2022/field-level-data-encryption-in-go)
 - [Where can I learn about pointer & goroutines in depth? (2022)](https://www.reddit.com/r/golang/comments/tveev1/where_can_i_learn_about_pointer_goroutines_in/)
 - [Best Go books for 2022](https://bitfieldconsulting.com/golang/best-books)
+- [A Deep Dive Into Go Concurrency (2022)](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)

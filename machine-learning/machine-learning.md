@@ -764,3 +764,5 @@
 - [Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting (2021)](https://arxiv.org/abs/2010.04456) ([Code](https://github.com/yuan-yin/APHYNITY))
 - [Understand transformer architectures (2022)](https://twitter.com/michael_nielsen/status/1511853865150287873)
 - [The Future of Machine Learning Tools (2021)](https://skok.ai/machine%20learning/tools/2021/12/06/the-future-of-machine-learning-tools.html)
+- [Transformers Are All You Need: Quick tour through the most popular Neural Net architecture (2022)](https://www.pinecone.io/learn/transformers/)
+- [Transformers in Time Series](https://github.com/qingsongedu/time-series-transformers-review) - Curated list of awesome resources (paper, code, data, etc.) on transformers in time series.

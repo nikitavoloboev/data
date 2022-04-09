@@ -129,6 +129,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Verifiers](https://github.com/PxyUp/verifiers) - Small library for verify async function response.
 - [Got](https://github.com/ysmood/got) - Enjoyable Go test framework.
 - [Be](https://github.com/carlmjohnson/be) - Generic testing helper for Go.
+- [qt](https://github.com/go-quicktest/qt) - Quick helpers for testing Go applications using generics.
 
 ## Web
 
@@ -315,7 +316,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [gqlparser](https://github.com/vektah/gqlparser) - Port of the parser from graphql-js into Go.
 - [genqlient](https://github.com/Khan/genqlient) - Truly type-safe Go GraphQL client. ([Article](https://blog.khanacademy.org/genqlient-a-truly-type-safe-go-graphql-client/)) ([Article](https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/))
-- [gqlgen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/))
+- [GQLGen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/)) ([GQLGen PG TODO Example](https://github.com/oshalygin/gqlgen-pg-todo-example))
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.
 - [Tutone](https://github.com/newrelic/tutone) - Generate Go types from GraphQL schema introspection.
@@ -540,6 +541,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [xsum](https://github.com/sclevine/xsum) - More useful checksums using Merkle Trees.
 - [go-tfhe](https://github.com/thedonutfactory/go-tfhe) - Go implementation of TFHE Encrypted Computation Scheme.
 - [BLS12-381](https://github.com/kilic/bls12-381) - High Speed BLS12-381 Implementation in Go.
+- [Disco](https://github.com/mimoo/disco) - Protocol to encrypt communications and a cryptographic library based on Disco.
 
 ## Linux
 
@@ -1628,3 +1630,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go struct definitions from example JSON.
 - [Tutorial: Create a Go module](https://go.dev/doc/tutorial/create-module) ([Code](https://github.com/andrewmcwatters/greetings))
 - [Generation of SLSA3+ provenance for Go binaries](https://github.com/slsa-framework/slsa-github-generator-go)
+- [Structured configuration in Go (2022)](https://andrewpillar.com/programming/2022/04/09/structured-configuration-in-go/)

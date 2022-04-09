@@ -566,3 +566,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Crticial of Russia sources list (2022)](https://twitter.com/plant__woman/status/1512083500203077640)
 - [Russia’s certificate authority for sanctioned organizations (2022)](https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6)
 - [Григорий Юдин: «Это диверсия против страны» // «Скажи Гордеевой» (2022)](https://www.youtube.com/watch?v=BNTDs8x2Zwk)
+- [МИРЗАЛИЗАДЕ – выгнали из России, Комиссаренко, мем о Лукашенко и молчание стендаперов (2022)](https://www.youtube.com/watch?v=I1MuaXugHhw)

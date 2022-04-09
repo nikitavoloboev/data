@@ -243,3 +243,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [security.txt for Solana Contracts](https://github.com/neodyme-labs/solana-security-txt)
 - [Geyser plugins for Solana](https://github.com/rpcpool/solana-geyser-park)
 - [Solana AccountsDB Connector](https://github.com/ckamm/solana-accountsdb-connector)
+- [SolDev](https://soldev.app/)

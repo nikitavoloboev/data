@@ -18,6 +18,7 @@
 - [Reflex-DOM](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects.
 - [immortal](https://github.com/UnkindPartition/immortal) - Small library to create threads that never die.
 - [retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail.
+- [jose](https://github.com/frasertweedale/hs-jose) - Haskell JOSE and JWT library.
 
 ## DB
 

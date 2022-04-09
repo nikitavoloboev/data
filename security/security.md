@@ -178,7 +178,7 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Canonicalization Attacks Against MACs and Signatures (2021)](https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/) ([Lobsters](https://lobste.rs/s/felalp/canonicalization_attacks_against_macs))
 - [Elkeid](https://github.com/bytedance/Elkeid) - Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
 - [One Bad Apple (2021)](https://www.hackerfactor.com/blog/index.php?/archives/929-One-Bad-Apple.html) ([HN](https://news.ycombinator.com/item?id=28110159))
-- [Sniptt](https://www.sniptt.com/) - The secret manager built for developers. ([Code](https://github.com/sniptt-official/ots))
+- [Sniptt](https://www.sniptt.com/) - The secret manager built for developers. ([Code](https://github.com/sniptt-official/ots)) ([CLI](https://github.com/sniptt-official/snip))
 - [go-tuf](https://github.com/theupdateframework/go-tuf) - Go implementation of The Update Framework (TUF), a framework for securing software update systems.
 - [Another free CA as an alternative to Let's Encrypt (2021)](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/) ([HN](https://news.ycombinator.com/item?id=28244246))
 - [RBAC like it was meant to be (2021)](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/)

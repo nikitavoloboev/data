@@ -145,3 +145,4 @@ Learning to build [startups](startups/startups.md).
 - [A new kind of equity program (2022)](https://www.getcruise.com/news/a-new-kind-of-equity-program) ([HN](https://news.ycombinator.com/item?id=30727278))
 - [Accounting for SaaS and swords (2022)](https://bam.kalzumeus.com/archive/accounting-for-saas-and-swords/)
 - [Ask HN: What do you do when competition signs up for your service? (2022)](https://news.ycombinator.com/item?id=30812066)
+- [Your First Business Should Be A Spreadsheet (2021)](https://endler.dev/2021/first-business/)

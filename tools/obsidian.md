@@ -102,6 +102,7 @@
 - [Longform](https://github.com/kevboh/longform) - Plugin for Obsidian that helps you write and edit novels, screenplays, and other long projects.
 - [Pluck](https://github.com/kevboh/obsidian-pluck) - Quickly create notes in Obsidian from web pages.
 - [Sekund](https://www.sekund.io/) - SaaS and an Obsidian plugin that let you share your notes and collaborate with others without leaving your beloved thinking environment. ([Code](https://github.com/Sekund/sekund-plugin-react))
+- [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) - Obsidian plugin for viewing an image.
 
 ## Themes
 

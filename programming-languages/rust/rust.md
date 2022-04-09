@@ -758,3 +758,4 @@
 - [Rust Secure Code Working Group](https://github.com/rust-secure-code/wg)
 - [Rust 1.60.0 (2022)](https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html) ([Reddit](https://www.reddit.com/r/rust/comments/tydta1/announcing_rust_1600/)) ([HN](https://news.ycombinator.com/item?id=30944709)) ([Lobsters](https://lobste.rs/s/btxn0i/announcing_rust_1_60_0))
 - [Instant::now() what? (2022)](https://blog.iximeow.net/now_what.html)
+- [A Practical Analysis of Rust's Concurrency Story (2019)](https://arxiv.org/abs/1904.12210)

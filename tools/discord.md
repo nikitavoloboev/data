@@ -82,6 +82,7 @@
 - [Conflict](https://github.com/YodaLightsabr/conflict) - JavaScript UI framework for Discord bots.
 - [zCord](https://github.com/fengb/zCord) - Zig Discord API with zero allocations in the critical path.
 - [Discord Bot Template](https://github.com/Fyko/bot-template)
+- [discord-interactions](https://github.com/discord/discord-interactions-js) - JS/Node helpers for Discord Interactions.
 
 ## Notes
 

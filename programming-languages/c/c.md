@@ -231,3 +231,4 @@
 - [When FFI Function Calls Beat Native C (2018)](https://nullprogram.com/blog/2018/05/27/) ([HN](https://news.ycombinator.com/item?id=30895444))
 - [Advanced Optimization and New Capabilities of GCC 11](https://documentation.suse.com/sbp/server-linux/pdf/SBP-GCC-11_color_en.pdf)
 - [Tiny C Projects](https://github.com/francisrstokes/tiny-c-projects) - Collection of small C projects - usually a minimal example of something interesting.
+- [Old C code – how to upgrade it? (2022)](https://news.ycombinator.com/item?id=30957273)

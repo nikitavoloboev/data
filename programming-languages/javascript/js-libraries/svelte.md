@@ -216,3 +216,4 @@
 - [SvelteKit Component Library](https://github.com/rodneylab/sveltekit-components)
 - [Svelte i18next](https://github.com/NishuGoel/svelte-i18next) - Internationalization for svelte framework. Based on i18next ecosystem.
 - [SvelteKit SVG Plugin](https://github.com/poppa/sveltekit-svg) - Makes it possible to import SVG files as Svelte components, inline SVG code or urls.
+- [Rich Harris - The Road to SvelteKit 1.0 (2022)](https://www.youtube.com/watch?v=s6a1pbTVcUs)

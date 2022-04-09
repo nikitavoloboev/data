@@ -410,6 +410,7 @@ Here are few more things I liked, design wise.
 - [Monica Powell](https://www.aboutmonica.com/)
 - [David Sancho](https://sancho.dev/)
 - [Ben Adam](https://benadam.me/)
+- [Katie Langerman](https://www.langermank.com/)
 - [Samurai](https://simurai.com/)
 - [Andreas Klinger](https://klinger.io/) ([Code](https://github.com/andreasklinger/klinger-io))
 - [Molly White](https://www.mollywhite.net/) ([Code](https://github.com/molly/website-v2))

@@ -11,7 +11,7 @@
 
 - [Luau](https://luau-lang.org/) - Fast, small, safe, gradually typed embeddable scripting language derived from Lua. ([Code](https://github.com/Roblox/luau)) ([HN](https://news.ycombinator.com/item?id=29097692))
 - [Luacheck](https://github.com/luarocks/luacheck) - Tool for linting and static analysis of Lua code.
-- [Fennel](https://fennel-lang.org/) - Programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Code](https://github.com/bakpakin/Fennel)) ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale)) ([HN](https://news.ycombinator.com/item?id=24390904)) ([FennelConf](https://conf.fennel-lang.org/))
+- [Fennel](https://fennel-lang.org/) - Programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system. ([Code](https://github.com/bakpakin/Fennel)) ([Rationale](https://fennel-lang.org/rationale)) ([Lobsters](https://lobste.rs/s/6bphbw/fennel_programming_language_rationale)) ([HN](https://news.ycombinator.com/item?id=24390904)) ([FennelConf](https://conf.fennel-lang.org/)) ([Fennel: The Practical Lisp](https://www.mattroelle.com/fennel-the-practical-lisp))
 - [rlua](https://github.com/kyren/rlua) - High level bindings between Rust and Lua.
 - [How to Lua and C - a short novel (2018)](https://sepisoad.com/blog/how%20to%20lua%20and%20c%20-%20a%20short%20novel.html)
 - [Code Formatter for Lua](https://github.com/trixnz/lua-fmt) - Pretty-printer for Lua code, written in TypeScript and deeply inspired by prettier.

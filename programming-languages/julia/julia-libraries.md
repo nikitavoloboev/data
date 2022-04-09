@@ -551,6 +551,9 @@
 - [ThreadedArrays](https://github.com/tkf/ThreadedArrays.jl) - "Easy" parallelism injection.
 - [ParallelMagics](https://github.com/JuliaFolds/ParallelMagics.jl) - Safe parallelism using compiler analysis.
 - [CounterfactualExplanations](https://github.com/pat-alt/CounterfactualExplanations.jl) - Package for Counterfactual Explanations and Algorithmic Recourse in Julia.
+- [ReferenceFrameRotations](https://github.com/JuliaSpace/ReferenceFrameRotations.jl) - Toolbox to represent 3D rotations of coordinate frames for Julia language.
+- [StructEquality](https://github.com/jolin-io/StructEquality.jl) - Equality for struct types as you would expect it.
+- [PkgCleanup](https://github.com/giordano/PkgCleanup.jl) - Garbage collects packages and artifacts that are no longer reachable.
 
 ## Links
 

@@ -962,3 +962,4 @@
 - [qpind](https://github.com/Intevel/qpind) - Install dependecies quick & programmatically.
 - [narn](https://github.com/joeldenning/narn) - CLI that detects whether your current npm package is using npm, yarn, or pnpm.
 - [knitwork](https://github.com/unjs/knitwork) - Utilities to generate JavaScript code.
+- [JSDoc](https://github.com/jsdoc/jsdoc) - API documentation generator for JavaScript. ([Web](https://jsdoc.app/))

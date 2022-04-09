@@ -36,3 +36,4 @@
 - [OpenGL/Vulkan Interop](https://github.com/nvpro-samples/gl_vk_simple_interop) - Display an image created by Vulkan compute shader, with OpenGL.
 - [Lightmapper](https://github.com/ands/lightmapper) - C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light.
 - [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)
+- [GLFM](https://github.com/brackeen/glfm) - Write OpenGL ES code in C/C++ without writing platform-specific code.

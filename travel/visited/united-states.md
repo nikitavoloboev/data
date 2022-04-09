@@ -122,3 +122,5 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [Why can’t America build quickly anymore? (2022)](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/) ([HN](https://news.ycombinator.com/item?id=30734062))
 - [Way to USA](https://waytousa.org/) ([Tweet](https://twitter.com/AlexSukhorukov_/status/1506293063345393682))
 - [2022 US Federal Budget Outlays](https://observablehq.com/@john-guerra/us-federal-budget-outlays)
+- [Changing jobs during the Great Resignation (2022)](https://www.adamconrad.dev/blog/changing-jobs-during-the-great-resignation/) ([HN](https://news.ycombinator.com/item?id=30959875))
+- [The United States Digital Corps](https://digitalcorps.gsa.gov/about/) ([HN](https://news.ycombinator.com/item?id=30958919))

@@ -119,3 +119,4 @@
 - [The user experience problems of quadratic voting (2022)](https://timdaub.github.io/2022/03/27/the-user-experience-problems-of-quadratic-voting/) ([HN](https://news.ycombinator.com/item?id=30822489))
 - [Corruption Has Shaped History. Why Do We Still Ignore It? (2022)](https://aeon.co/essays/corruption-has-shaped-history-why-do-we-still-ignore-it) ([HN](https://news.ycombinator.com/item?id=30865974))
 - [CONSUL](https://consulproject.org/en/) - Open Government and E-Participation Web Software. ([Code](https://github.com/consul/consul))
+- [The true purpose of propaganda (2022)](https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda?s=r) ([HN](https://news.ycombinator.com/item?id=30962199))

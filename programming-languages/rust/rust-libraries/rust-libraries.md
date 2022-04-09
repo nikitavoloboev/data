@@ -521,6 +521,7 @@
 - [nrf-softdevice](https://github.com/embassy-rs/nrf-softdevice) - Rust bindings for Nordic Semiconductor nRF series SoftDevices.
 - [Wifi on ESP32C3 (on bare-metal Rust)](https://github.com/bjoernQ/esp32c3-wifi-rs)
 - [nrf-usbd](https://github.com/nrf-rs/nrf-usbd) - Driver for the USBD peripheral in nRF microcontrollers.
+- [alloc-cortex-m](https://github.com/rust-embedded/alloc-cortex-m) - Heap allocator for Cortex-M processors.
 
 ## ML
 
@@ -1715,6 +1716,7 @@
 - [HashCorp Vault Rust API Client](https://github.com/ChrisMacNaughton/vault-rs)
 - [rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [jwalk](https://github.com/jessegrosjean/jwalk) - Filesystem walk performed in parallel with streamed and sorted results.
+- [LaunchDarkly Server-Side SDK for Rust](https://github.com/launchdarkly/rust-server-sdk)
 
 ## Cargo Plugins
 

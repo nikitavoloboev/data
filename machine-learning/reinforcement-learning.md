@@ -336,3 +336,4 @@
 - [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://sites.google.com/view/mappo) ([Code](https://github.com/marlbenchmark/on-policy))
 - [Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning (2021)](https://arxiv.org/abs/2111.04714) ([Code](https://github.com/kschweig/OfflineRL))
 - [or-gym](https://github.com/hubbs5/or-gym) - Environments for OR and RL Research.
+- [AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) - Next generation deep reinforcement learning tookit.

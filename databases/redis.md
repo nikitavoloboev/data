@@ -125,3 +125,4 @@
 - [Redis Stack](https://redis.io/docs/stack/) ([HN](https://news.ycombinator.com/item?id=30863327))
 - [RESP.app](https://resp.app/) - Cross-platform Developer GUI for Redis. ([Code](https://github.com/uglide/RedisDesktopManager))
 - [rdb](https://github.com/HDT3213/rdb) - Go implemented Redis RDB parser for secondary development and memory analysis.
+- [Redis Puts (Almost) Everything Under a Single Module (2022)](https://thenewstack.io/redis-puts-almost-everything-under-a-single-module/)

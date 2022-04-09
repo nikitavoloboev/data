@@ -94,3 +94,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Framed](https://framed.wtf/) - Daily movie guessing game.
 - [Perfect Moments in "Bad" Movies](https://www.youtube.com/watch?v=h5Y8whMzlwo)
 - [Great movies to watch](https://twitter.com/anothercohen/status/1511140485443862531)
+- [Great movie posters](https://twitter.com/InsaneLetterbox/status/1512547287939141642)
