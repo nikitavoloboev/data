@@ -198,6 +198,7 @@
 - [pretty](https://github.com/AvisoNovate/pretty) - Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions.
 - [viz.clj](https://github.com/scicloj/viz.clj) - Data Visualization Clojure library for beginners.
 - [LaTTe-Kernel](https://github.com/latte-central/latte-kernel) - Small kernel of the LaTTe proof assistant in Clojure(script).
+- [insn](https://github.com/jgpc42/insn) - Functional JVM bytecode generation for Clojure.
 
 ## Links
 

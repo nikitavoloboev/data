@@ -1717,6 +1717,7 @@
 - [rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
 - [jwalk](https://github.com/jessegrosjean/jwalk) - Filesystem walk performed in parallel with streamed and sorted results.
 - [LaunchDarkly Server-Side SDK for Rust](https://github.com/launchdarkly/rust-server-sdk)
+- [Choir](https://github.com/kvark/choir) - Task Orchestration Framework.
 
 ## Cargo Plugins
 

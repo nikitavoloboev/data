@@ -1,6 +1,6 @@
 # [Tailwind CSS](https://tailwindcss.com/)
 
-[Tailwind UI](https://tailwindui.com/) & [Meraki UI](https://merakiui.com/components/) have nice components.
+[Tailwind UI](https://tailwindui.com/), [Meraki UI](https://merakiui.com/components/) & [TailwindCSS Radix](https://tailwindcss-radix.vercel.app/) have nice components.
 
 ## Notes
 
@@ -114,7 +114,7 @@
 - [Create a Responsive Navbar using React and Tailwind (2021)](https://dev.to/franciscomendes10866/create-a-responsive-navbar-using-react-and-tailwind-3768)
 - [You don't need SVG! Creating animated loaders for content with Tailwind CSS (2021)](https://dev.to/koddr/you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0)
 - [People creating awesome Tailwind content (2021)](https://twitter.com/adamwathan/status/1460411877893287938)
-- [TailwindCSS Radix](https://github.com/ecklf/tailwindcss-radix) - TailwindCSS plugin that helps styling radix state.
+- [TailwindCSS Radix](https://tailwindcss-radix.vercel.app/) - Utilities and variants for styling Radix state. ([Code](https://github.com/ecklf/tailwindcss-radix))
 - [Tailwind TS Generator](https://github.com/mathieutu/tailwind-ts) - Generate Tailwind type from your own configuration.
 - [Tailwind CSS v3.0 (2021)](https://tailwindcss.com/blog/tailwindcss-v3) ([HN](https://news.ycombinator.com/item?id=29501110)) ([Tweet](https://twitter.com/tailwindcss/status/1469011535569821702))
 - [What's new in Tailwind CSS v3.0? (2021)](https://www.youtube.com/watch?v=mSC6GwizOag)

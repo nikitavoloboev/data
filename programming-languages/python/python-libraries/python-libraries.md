@@ -136,6 +136,7 @@
 - [jsonargparse](https://github.com/omni-us/jsonargparse) - Parsing of command line options, yaml/jsonnet config files and/or environment variables based on argparse.
 - [ArgBind](https://github.com/pseeth/argbind) - Build CLIs via docstrings and type annotations, with YAML support.
 - [targ](https://github.com/piccolo-orm/targ) - Build a Python CLI for your app, just using type hints and docstrings.
+- [rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with Rich.
 
 ## DB
 

@@ -111,3 +111,4 @@
 - [WebAssembly Lua](https://github.com/ysugimoto/webassembly-lua) - Write and compile WebAssembly code with Lua.
 - [Hush](https://github.com/hush-shell/hush) - Unix shell scripting language inspired by Lua.
 - [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
+- [JSON.lua](https://github.com/rxi/json.lua) - Lightweight JSON library for Lua.

@@ -2,6 +2,8 @@
 
 [spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
+[DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) is fascinating.
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)

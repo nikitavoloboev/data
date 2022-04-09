@@ -138,3 +138,4 @@
 - [How private are Erlang private functions? (2018)](https://medium.com/about-erlang/how-private-are-erlang-private-functions-36382c6abfa4)
 - [Erlang Handbook](https://github.com/esl/erlang-handbook)
 - [power_shell](https://github.com/WhatsApp/power_shell) - Advanced system-wide Erlang shell capabilities. Evaluates Erlang code loaded from the module debug information, or source file.
+- [Erlang Image Manipulation Process](https://github.com/processone/eimp)

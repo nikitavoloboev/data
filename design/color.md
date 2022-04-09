@@ -151,3 +151,4 @@
 - [Nord Palette](https://www.nordtheme.com/) - Arctic, north-bluish color palette. ([Code](https://github.com/arcticicestudio/nord))
 - [uiGradients](https://uigradients.com/) - Beautiful colored gradients. ([Code](https://github.com/ghosh/uiGradients))
 - [Stripe Gradient Effect](https://stripe-gradient.vercel.app/) ([Code](https://github.com/febriliankr/stripe-gradient))
+- [Pigmnts](https://github.com/blenderskool/pigmnts) - Color palette generator from an image using WebAssesmbly and Rust.

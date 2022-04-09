@@ -114,3 +114,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [csvlens](https://github.com/YS-L/csvlens) - CSV file viewer in the command line.
 - [Difftastic](https://github.com/Wilfred/difftastic) - Diff tool that compares files based on their syntax. ([HN](https://news.ycombinator.com/item?id=30841244))
 - [Goreman](https://github.com/mattn/goreman) - Manage Procfile-based applications.
+- [Testing your CLI](https://github.com/google/go-cmdtest) - Go package simplifies testing of command-line interfaces.
