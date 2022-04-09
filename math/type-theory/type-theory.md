@@ -189,3 +189,4 @@
 - [Why Don't More Languages Offer Flow Typing? (2022)](https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing) ([HN](https://news.ycombinator.com/item?id=30907178))
 - [Henk: Pure Type System](https://github.com/5HT/henk)
 - [Cofibrations in Cartecian Cubical Type Theory](https://github.com/RedPRL/kado)
+- [Core Gallifrey Interpreter](https://github.com/apl-cornell/gallifrey-proto-interp)

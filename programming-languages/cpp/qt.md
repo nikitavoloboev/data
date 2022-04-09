@@ -31,3 +31,4 @@
 - [qmetaobject-rs](https://github.com/woboq/qmetaobject-rs) - Integrate Qml and Rust by building the QMetaObject at compile time.
 - [CXX-Qt](https://github.com/KDAB/cxx-qt) - Safe Rust bindings for Qt. ([Web](https://www.kdab.com/cxx-qt/)) ([HN](https://news.ycombinator.com/item?id=30525752)) ([Reddit](https://www.reddit.com/r/rust/comments/t4xof1/cxxqt_safe_rust_bindings_for_qt/))
 - [Python and Qt Simplified. Create a Python GUI in Minutes](https://build-system.fman.io/) ([HN](https://news.ycombinator.com/item?id=30819136))
+- [Qt Creator](https://github.com/qt-creator/qt-creator) - Cross-platform Qt IDE.

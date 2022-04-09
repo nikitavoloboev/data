@@ -161,3 +161,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Firefly](https://www.gofirefly.io/) - Bring your cloud up-to-code. ([GitHub](https://github.com/gofireflyio))
 - [bldr](https://github.com/siderolabs/bldr) - Tool to build and package software distributions. Build process runs in buildkit (or docker buildx), build result can be exported as container image.
 - [Boost Note](https://boostnote.io/) - Document driven project management tool that maximizes remote DevOps team velocity. ([Code](https://github.com/BoostIO/BoostNote-App))
+- [arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.

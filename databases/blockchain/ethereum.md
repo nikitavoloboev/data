@@ -577,3 +577,10 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum Roadmap FAQ](https://github.com/timbeiko/eth-roadmap-faq)
 - [Uniswap Default Token List](https://github.com/Uniswap/default-token-list)
 - [Free Eth Node](https://free-eth-node.com/) - Start projects quickly on any EVM network. ([Code](https://github.com/Earnifi/free-eth-node))
+- [Privacy & Scaling Explorations in Ethereum](https://twitter.com/PrivacyScaling)
+- [Interep](https://kovan.interep.link/) - System that allows DApps or services to verify users' reputation without exposing their identities. ([Code](https://github.com/interep-project/reputation-service))
+- [Starknet multisig](https://github.com/eqlabs/starknet-multisig) - Multi-signature functionality for StarkNet.
+- [ds-test](https://github.com/dapphub/ds-test) - Assertions, equality checks and other test helpers.
+- [Trustus](https://github.com/ZeframLou/trustus) - Trust-minimized method for accessing offchain data onchain.
+- [solver](https://github.com/EVM-SMT/solver) - Proof first, evm specific smt solver.
+- [Check the Chain (ctc)](https://github.com/fei-protocol/checkthechain) - Tool for historical data analysis of Ethereum and other EVM chains.

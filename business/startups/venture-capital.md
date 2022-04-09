@@ -146,3 +146,4 @@
 - [Sten Tamkivi](https://tamkivi.com/)
 - [Banana Capital](https://www.bananacapital.vc/) - Investing in global tech companies from pre-seed to pre-IPO. ([Twitter](https://twitter.com/BananaCap_))
 - [Voyager](https://www.voyagervc.com/) - Invests in early-stage climate technology companies creating the foundation of a decarbonized global economy. ([Twitter](https://twitter.com/VoyagerVC))
+- [Must reads in VC space (2022)](https://twitter.com/michellebkwok/status/1512445423364894726)

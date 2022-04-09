@@ -1,6 +1,6 @@
 # Computer vision
 
-[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat.
+[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch).
 
 ## Links
 
@@ -693,3 +693,12 @@
 - [Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation (2022)](https://arxiv.org/abs/2203.13161) ([Code](https://github.com/alvinliu0/HA2G))
 - [FaceVerse: a Fine-grained and Detail-controllable 3D Face Morphable Model from a Hybrid Dataset](http://www.liuyebin.com/faceverse/faceverse.html) ([Code](https://github.com/LizhenWangT/FaceVerse))
 - [PointCLIP: Point Cloud Understanding by CLIP (2022)](https://arxiv.org/abs/2112.02413) ([Code](https://github.com/ZrrSkywalker/PointCLIP))
+- [DaViT: Dual Attention Vision Transformers (2022)](https://arxiv.org/abs/2204.03645) ([Code](https://github.com/dingmyu/davit))
+- [DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generative Transformers (2022)](https://arxiv.org/abs/2202.04053) ([Code](https://github.com/j-min/DallEval))
+- [Recovering 3D Human Mesh from Monocular Images: A Survey (2022)](https://arxiv.org/abs/2203.01923) ([Code](https://github.com/tinatiansjz/hmr-survey))
+- [Video Diffusion Models (2022)](https://arxiv.org/abs/2204.03458v1) ([Web](https://video-diffusion.github.io/)) ([Code](https://github.com/lucidrains/video-diffusion-pytorch))
+- [MaxViT: Multi-Axis Vision Transformer (2022)](https://arxiv.org/abs/2204.01697) ([Code](https://github.com/ChristophReich1996/MaxViT))
+- [Unified Contrastive Learning in Image-Text-Label Space (2022)](https://arxiv.org/abs/2204.03610) ([Code](https://github.com/microsoft/UniCL))
+- [RePOSE: Fast 6D Object Pose Refinement via Deep Texture Rendering (2021)](https://arxiv.org/abs/2104.00633) ([Code](https://github.com/sh8/RePOSE))
+- [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition (2021)](https://arxiv.org/abs/2103.12579) ([Code](https://github.com/BIT-DA/MetaSAug))
+- [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation (2022)](https://arxiv.org/abs/2203.07615) ([Code](https://github.com/chunbolang/BAM))

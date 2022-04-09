@@ -2,7 +2,7 @@
 
 I keep a [Notion page](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431) of research papers I am reading and want to read.
 
-[Zotero](https://www.zotero.org/) is neat.
+[Zotero](https://www.zotero.org/) is neat. [Papers We Love](https://github.com/papers-we-love/papers-we-love) is a great community.
 
 Below is a list of research papers I read with a link to my own notes of the paper.
 
@@ -176,3 +176,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv-collector](https://github.com/djsutherland/arxiv-collector) - Little Python script to collect LaTeX sources for upload to the arXiv.
 - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Plugin that will automatically download PDFs of zotero items from sci-hub.
 - [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs.
+- [Reading academic computer science papers (2022)](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/) ([HN](https://news.ycombinator.com/item?id=30951889))

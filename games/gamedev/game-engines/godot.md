@@ -59,3 +59,4 @@
 - [Exporting Blender models for Godot (2020)](https://tam7t.com/blender-godot-export/)
 - [Godot Manager](https://github.com/eumario/godot-manager) - Project, Version and Addons/Plugins manager for Godot Game Engine. ([Reddit](https://www.reddit.com/r/godot/comments/tj62bj/godot_manager_v010_release/))
 - [Godot Console](https://github.com/quentincaffeino/godot-console) - In-game console for Godot 3.
+- [DecalCo](https://github.com/Master-J/DecalCo) - Shader based decal solution for the Godot game engine.

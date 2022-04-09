@@ -510,3 +510,4 @@
 - [kvmtool](https://github.com/kvmtool/kvmtool) - Lightweight tool for hosting KVM guests.
 - [KUtrace](https://github.com/dicksites/KUtrace) - Extremely low-overhead Linux kernel tracing facility for observing all
 the execution time on all cores of a multi-core processor.
+- [Ask HN: Why is there no Linux distro that “just works” like macOS? (2022)](https://news.ycombinator.com/item?id=30966582)

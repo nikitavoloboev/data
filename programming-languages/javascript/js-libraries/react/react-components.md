@@ -296,6 +296,7 @@
 - [Tiny UI](https://github.com/wangdicoder/tiny-ui) - Friendly UI Component Set for React.
 - [React Spotify Web Playback SDK](https://github.com/y-hiraoka/react-spotify-web-playback-sdk) - React wrapper for Spotify Web Playback SDK.
 - [Font Picker for React](https://github.com/samuelmeuli/font-picker-react) - Font selector component for Google Fonts.
+- [dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.
 
 ## Links
 
@@ -340,3 +341,4 @@
 - [Ladle](https://github.com/tajo/ladle) - Environment to develop, test and share your React components faster. ([Web](https://www.ladle.dev/)) ([Intro](https://www.ladle.dev/blog/introducing-ladle/))
 - [How to use Props in React (2022)](https://www.robinwieruch.de/react-pass-props-to-component/)
 - [From Rust to TypeScript: Lifetime Analysis for React Component Architecture (2022)](https://valand.dev/blog/post/from-rust-to-typescript-lifetime-analysis) ([Tweet](https://twitter.com/acemarke/status/1486359294127792131))
+- [How to Detect Long Press Gestures in JavaScript Events in React (2022)](https://spacejelly.dev/posts/how-to-detect-long-press-gestures-in-javascript-events-in-react/)

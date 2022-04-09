@@ -14,3 +14,4 @@
 - [How To Become a Freelancer in Sweden](https://github.com/nabati/freelancing-in-sweden)
 - [How to enjoy life in Sweden (2022)](https://twitter.com/sofi_t_deveaux/status/1477369316131717131?s=28)
 - [FIRE Sweden Reddit](https://www.reddit.com/r/firesweden/)
+- [Sweden sends just 1% of its trash to landfills](https://reasonstobecheerful.world/waste-to-energy-sweden-power-plants/) ([HN](https://news.ycombinator.com/item?id=30955589))

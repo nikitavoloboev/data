@@ -229,3 +229,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Ask HN: Are blog comments a thing of the past? (2022)](https://news.ycombinator.com/item?id=30853565)
 - [Mataroa Blog](https://mataroa.blog/) - Minimal blogging platform with export as first-class feature. ([Code](https://github.com/sirodoht/mataroa)) ([HN](https://news.ycombinator.com/item?id=30896661))
 - [devto](https://github.com/shihanng/devto) - Publish to dev.to from your terminal.
+- [Ask HN: Why Blog at All? (2022)](https://news.ycombinator.com/item?id=30965485)

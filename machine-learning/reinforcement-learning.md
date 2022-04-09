@@ -334,3 +334,5 @@
 - [Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments (2017)](https://arxiv.org/abs/1706.02275) ([Code](https://github.com/xuehy/pytorch-maddpg))
 - [TorchRL](https://github.com/facebookresearch/rl) - Modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://sites.google.com/view/mappo) ([Code](https://github.com/marlbenchmark/on-policy))
+- [Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning (2021)](https://arxiv.org/abs/2111.04714) ([Code](https://github.com/kschweig/OfflineRL))
+- [or-gym](https://github.com/hubbs5/or-gym) - Environments for OR and RL Research.

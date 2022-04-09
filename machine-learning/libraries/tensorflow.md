@@ -107,3 +107,4 @@
 - [TensorFlow Similarity](https://github.com/tensorflow/similarity) - Python package focused on making similarity learning quick and easy.
 - [TensorFlow Text](https://github.com/tensorflow/text) - Text processing in TensorFlow.
 - [Vision Transformer Cookbook with TensorFlow](https://github.com/taki0112/vit-tensorflow)
+- [Tensorflow Transformers](https://github.com/legacyai/tf-transformers) - State of the art faster Transformer with Tensorflow 2.0 ( NLP, Computer Vision, Audio ).

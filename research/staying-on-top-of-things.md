@@ -179,6 +179,7 @@ And these Discord servers:
 - [U.S.-China Perception Monitor](https://uscnpm.org/)
 - [New Lines Magazine](https://newlinesmag.com/)
 - [Truthout](https://truthout.org/) - Fearless, Independent News & Analysis.
+- [Reasons to be Cheerful](https://reasonstobecheerful.world/)
 
 ### Other
 

@@ -355,3 +355,6 @@
 - [valienv](https://github.com/zoontek/valienv) - Simple environment variables validator for Node.js and web browsers.
 - [meta-fetcher](https://github.com/rocktimsaikia/meta-fetcher) - Simple metadata scrapper for node.js.
 - [Nightwatch.js](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API.
+- [cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions.
+- [nat-api](https://github.com/alxhotel/nat-api) - Fast port mapping with UPnP and NAT-PMP.
+- [watch-dependency-graph](https://github.com/front-of-house/watch-dependency-graph) - Small Node.js file watcher for watching dependency trees.

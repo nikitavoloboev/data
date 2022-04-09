@@ -241,6 +241,8 @@
 - [A brief walkthrough on how TypeScript implemented Inlay Hints (2022)](https://www.huy.rocks/everyday/03-24-2022-typescript-source-code-walkthrough-inlayhints)
 - [Ultimate TypeScript Thread (2022)](https://twitter.com/mpocock1/status/1509964736275927042)
 - [TypeScript as fast as Rust: TypeScript++](https://zaplib.com/docs/blog_ts++.html) ([HN](https://news.ycombinator.com/item?id=30947680))
+- [DSL built with TypeScript type system to query structured objects](https://github.com/anuraghazra/typelevel-parser)
+- [Awesome TypeScript Derived Languages](https://github.com/orta/awesome-typescript-derived-languages)
 
 ## Images
 

@@ -353,3 +353,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications. Procfile is a simple format to specify types of processes your application provides.
 - [Resources to learn OS concepts (2022)](https://twitter.com/bradfitz/status/1495066999587627011)
 - [Dynamic Tracing Guide](https://illumos.org/books/dtrace/bookinfo.html)
+- [dryad](https://github.com/m4b/dryad) - Almost-parallel, semi-functioning, dynamic linker experiment, written in Rust.
+- [A Policy-Free System-Call Layer For The Hedron Microhypervisor](https://github.com/phip1611/diplomarbeit-impl) - Runtime system in Rust for a microkernel that enables unmodified Linux applications. ([Reddit](https://www.reddit.com/r/rust/comments/tyza70/ive_written_a_runtime_system_in_rust_for_a/))
+- [System paper reading notes](https://github.com/pentium3/sys_reading)

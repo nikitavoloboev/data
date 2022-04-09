@@ -107,3 +107,5 @@
 - [Hot-code reloading on macOS/arm64 with Zig (2022)](http://www.jakubkonka.com/2022/03/16/hcs-zig.html) ([HN](https://news.ycombinator.com/item?id=30716177))
 - [wazm](https://github.com/fengb/wazm) - Web Assembly Zig Machine.
 - [Looking at Zig Programming Language (2022)](https://codecs.multimedia.cx/2022/02/looking-at-zig-programming-language/) ([HN](https://news.ycombinator.com/item?id=30919305))
+- [I Believe Zig Has Function Colors (2022)](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/) ([Lobsters](https://lobste.rs/s/mw1f3s/i_believe_zig_has_function_colors)) ([HN](https://news.ycombinator.com/item?id=30965805))
+- [Zig Bit Twiddling Hacks](https://github.com/cryptocode/bithacks)

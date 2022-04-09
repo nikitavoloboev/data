@@ -154,3 +154,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless Rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
 - [Serverless Framework Hexagonal Template](https://github.com/serverlesspolska/serverless-hexagonal-template)
 - [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast.
+- [Lumigo](https://lumigo.io/) - Serverless Monitoring and Troubleshooting Platform. ([CLI](https://github.com/lumigo-io/lumigo-CLI))

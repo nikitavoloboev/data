@@ -112,6 +112,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Engauge Digitizer](http://markummitchell.github.io/engauge-digitizer/) - Extracts data points from images of graphs. ([Code](https://github.com/markummitchell/engauge-digitizer))
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
+- [Similar Pictures](https://www.similar.pictures/) - Similar image finder on disk.
 - [Hookdeck](https://hookdeck.com/) - Infrastructure to Consume Webhooks. ([HN](https://news.ycombinator.com/item?id=28063597))
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
@@ -162,6 +163,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
 - [Git.io](https://git.io/) - URL shortener by GitHub.
+- [FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government.
 - [SkyOffice](https://sky-office.co/) - Immersive virtual office built with Phaser, React, Redux, PeerJS, and Colyseus. ([Code](https://github.com/kevinshen56714/SkyOffice))
 - [OpenReplay](https://openreplay.com/) - Open-Source Session Replay. ([Code](https://github.com/openreplay/openreplay))
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable. ([Web](https://about.sourcegraph.com/)) ([CLI](https://github.com/sourcegraph/src-cli)) ([Article](https://dev.to/sourcegraph/sourcegraph-code-search-the-developers-treasure-trove-3ach))
@@ -289,6 +291,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Gotenberg](https://gotenberg.dev/) - Docker-powered stateless API for PDF files. ([Code](https://github.com/gotenberg/gotenberg))
 - [Macrov](https://www.usemacro.com/) - Checklists, reimagined - supercharge your team’s processes.
 - [Readup](https://readup.com/) - Social Reading.
+- [Feedback Fin](https://github.com/rowyio/feedbackfin) - Open-source widget to collect feedback anywhere on your website. Lightweight and tiny. ([Web](https://www.feedbackfin.com/))
 - [Stackby](https://stackby.com/) - Spreadsheets Databases and APIs in single workspace. ([HN](https://news.ycombinator.com/item?id=26601502))
 - [Bloom](https://bloom.sh/) - All-in-one workspace. Open Source Inbox, Calendar, Files, Contacts & much more. ([Code](https://github.com/skerkour/bloom))
 - [ConfigCat](https://configcat.com/) - Feature flags for teams. ([JS SDK](https://github.com/configcat/js-sdk)) ([Go SDK](https://github.com/configcat/go-sdk))

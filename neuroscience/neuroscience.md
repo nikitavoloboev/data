@@ -1,5 +1,7 @@
 # Neuroscience
 
+[Computational Neuroscience course](https://compneuro.neuromatch.io/tutorials/intro.html) & [xcorr notebooks](https://xcorr.net/) are great.
+
 ## Notes
 
 - [Tools are interpreted by the brain as an extension of the human body.](https://twitter.com/provisionalidea/status/1392854515347513351)
@@ -71,7 +73,7 @@
 - [Neurons Act Not As Complex, Multi-Unit Processing Systems (2020)](https://www.resonancescience.org/blog/Neurons-Act-Not-As-Simple-Logic-Gates-But-As-Complex-Multi-Unit-Processing-Systems) ([Tweet](https://twitter.com/IntuitMachine/status/1395564948751802368))
 - [An Atlas of Cortical Arealization Identifies Dynamic Molecular Signatures (2021)](https://www.biorxiv.org/content/10.1101/2021.05.17.444528v2)
 - [Nowakowski Lab](https://nowakowski-lab.squarespace.com/)
-- [Patrick J. Mineault's research on neuroscience, ML](https://xcorr.net/)
+- [Patrick J. Mineault's research on neuroscience, ML](https://xcorr.net/) ([Code](https://github.com/patrickmineault/xcorr-notebooks))
 - [A Browsable Petascale Reconstruction of the Human Cortex (2021)](https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html)
 - [Toolmakers aim to untangle fundamental challenges in neuroscience (2021)](https://neuroscience.stanford.edu/news/wu-tsai-neuro-advances-big-idea-initiatives-to-next-level)
 - [Network Neuroscience](https://netneurosci.github.io/networks2021satellite/)
@@ -107,6 +109,12 @@
 - [A Thousand Brains - book review & summary (2021)](https://plugaru.org/2021/03/10/a-thousand-brains/)
 - [Brains and algorithms partially converge in natural language processing (2022)](https://www.nature.com/articles/s42003-022-03036-1)
 - [New Brain Maps Can Predict Behaviors (2021)](https://www.quantamagazine.org/new-brain-maps-can-predict-behaviors-20211206/)
+- [Big neuro ideas](https://github.com/patrickmineault/big-neuro-ideas) - Ongoing journal club for the study of big ideas in neuroscience.
+- [Neuromatch Academy: Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html) ([Code](https://github.com/NeuromatchAcademy/course-content))
+- [NeuroDataScience ORIGAMI Research Group](https://neurodatascience.github.io/) ([GitHub](https://github.com/neurodatascience/))
+- [The Neuro - McGill University](https://www.mcgill.ca/neuro/) ([Twitter](https://twitter.com/TheNeuro_MNI))
+- [Nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
+- [tedana](https://github.com/ME-ICA/tedana) - TE-dependent analysis of multi-echo fMRI.
 
 ## Images
 

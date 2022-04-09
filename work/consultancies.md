@@ -77,6 +77,7 @@
 - [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design Studio.
 - [9elements](https://9elements.com/) - Digital product and design studio. ([GitHub](https://github.com/9elements))
 - [cycraft](https://cycraft.co/)
+- [Self Aware](https://selfaware.studio/) - Digital studio that crafts lively and inclusive experiences for the web.
 
 ## DB
 

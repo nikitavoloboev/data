@@ -27,6 +27,8 @@
 - [Temple](https://github.com/mhanberg/temple) - HTML DSL for Elixir and Phoenix.
 - [NimbleTOTP](https://github.com/dashbitco/nimble_totp) - Tiny Elixir library for time-based one time passwords (TOTP).
 - [Canary](https://github.com/cpjk/canary) - Elixir authorization and resource-loading library for Plug applications.
+- [Riverside](https://github.com/lyokato/riverside) - Plain WebSocket Server Framework for Elixir.
+- [ElixirRetry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 
 ## DB
 

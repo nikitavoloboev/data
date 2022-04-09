@@ -146,3 +146,4 @@
 - [Twitter Bluesky: A Self-Authenticating Social Protocol (2022)](https://blueskyweb.xyz/blog/3-6-2022-a-self-authenticating-social-protocol) ([Tweet](https://twitter.com/bluesky/status/1511811080879702019)) ([HN](https://news.ycombinator.com/item?id=30937578))
 - [Witter Bluesky community repo](https://github.com/blueskyCommunity/aozora)
 - [Decentraland Awesome Repository](https://github.com/decentraland-scenes/Awesome-Repository) - Links to examples and tutorials to help you get started building Decentraland scenes and other content.
+- [Decentralization for Web3 Builders: Principles, Models, How (2022)](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/) ([Tweet](https://twitter.com/milesjennings/status/1512106060898660352))

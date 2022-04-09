@@ -82,10 +82,12 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Monaco Editor Components](https://github.com/TypeFox/monaco-components) - Lit components for Monaco Editor.
 - [Smith](https://github.com/IGI-111/Smith) - Simple text editor written in Rust.
 - [Kisa](https://github.com/greenfork/kisa) - Hackable and batteries-included text editor of the new world.
+- [Zas Editor](https://www.zeditor.app/) ([HN](https://news.ycombinator.com/item?id=30952084))
+- [Pepper](https://github.com/vamolessa/pepper) - Simple and opinionated modal code editor for your terminal.
 
 ## Web
 
-- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils)) ([prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown))
+- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools)) ([View Component](https://github.com/ProseMirror/prosemirror-view)) ([Utils library for ProseMirror](https://github.com/atlassian/prosemirror-utils)) ([prosemirror-markdown](https://github.com/ProseMirror/prosemirror-markdown)) ([ProseMirror Examples](https://github.com/ccorcos/prosemirror-examples))
 - [Pragmatic ProseMirror guide](https://github.com/PierBover/prosemirror-cookbook)
 - [rich-markdown-editor](https://github.com/outline/rich-markdown-editor) - React and Prosemirror based editor that powers Outline and can also be used for displaying content in a read-only fashion.
 - [Remirror](https://github.com/remirror/remirror) - ProseMirror toolkit for React. ([Web](https://remirror.io/))
@@ -121,6 +123,12 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [DraftJS Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - High quality plugins with great UX on top of DraftJS.
 - [Megadraft](https://github.com/globocom/megadraft) - Rich Text editor built on top of Facebook's Draft.JS featuring a nice default base of components and extensibility.
 - [CodeMirror Search](https://github.com/codemirror/search) - Search functionality for the CodeMirror code editor.
+- [Monaco TailwindCSS](https://github.com/remcohaszing/monaco-tailwindcss) - TailwindCSS intellisense support in Monaco editor.
+- [Rich Text Helpers](https://github.com/GraphCMS/rich-text) - Companion packages for GraphCMS's Rich Text Field.
+
+## Notes
+
+- [Zas Editor uses text-storage data structure, syntax highlighting and search features are written in Rust, and the UI is written in Swift since we wanted to create a native macOS experience. The Swift and Rust code talk to each other using C FFI, and no, that doesn’t take away the safety features of both languages. We’re using the Rope data structure for text representation, and the tree-sitter parser for syntax highlighting and some smart features like file outline, local renaming and symbol search. All other language features are powered by LSP servers (rust-analzyer and gopls).](https://news.ycombinator.com/item?id=30952084)
 
 ## Links
 
@@ -195,3 +203,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [OpenSumi](https://github.com/opensumi/core) - Framework helps you quickly build Cloud or Desktop IDE products.
 - [Betting on CodeMirror (2022)](https://blog.replit.com/codemirror)
 - [Portable Text Spec](https://github.com/portabletext/portabletext) - JSON based rich text specification for modern content editing platforms.
+- [Bear App](https://bear.app/) - Private Markdown Editor for iPhone, iPad and Mac. ([Bear Power Pack](https://github.com/sbusso/Bear-Power-Pack))

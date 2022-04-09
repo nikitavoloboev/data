@@ -135,3 +135,5 @@
 - [Quasar Framework](https://github.com/quasarframework/quasar) - Build high-performance VueJS user interfaces in record time. ([Web](https://quasar.dev/))
 - [unplugin-vue-define-options](https://github.com/sxzz/unplugin-vue-define-options) - Introduce a macro in script setup, defineOptions, to use Options API in script setup.
 - [Veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible.
+- [Vue Starport](https://github.com/antfu/vue-starport) - Shared component across routes with animations.
+- [v-shared-element](https://github.com/justintaddei/v-shared-element) - Declarative shared-element transitions for Vue.js.

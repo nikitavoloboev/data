@@ -342,3 +342,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Spoofax](https://www.spoofax.dev/) - Open-source language designer's workbench with everything you need for designing your next textual (domain-specific) programming language. ([Code](https://github.com/metaborg/spoofax))
 - [Codestat.dev](https://codestat.dev/) - Stats from 2M open-source repositories.  ([HN](https://news.ycombinator.com/item?id=30940251)) ([Code](https://github.com/sourcegraph/codestat.dev))
 - [Copybara](https://github.com/google/copybara) - Tool for transforming and moving code between repositories. Used at Google.
+- [Ott](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi.

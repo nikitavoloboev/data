@@ -75,3 +75,4 @@
 - [Ask HN: How to quickly animate system sketches and 2D diagrams? (2022)](https://news.ycombinator.com/item?id=30631993)
 - [Animation course with Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim)
 - [animate-presence](https://github.com/natemoo-re/animate-presence) - Effortless element entrance/exit animations.
+- [GSAP - GreenSock](https://greensock.com/gsap/) - Onal-grade JavaScript animation for the modern web. ([Tweet](https://twitter.com/cassiecodes/status/1512367969703444481))

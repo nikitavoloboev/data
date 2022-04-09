@@ -164,3 +164,5 @@
 - [Thread Helper](https://threadhelper.com/) - Serendipity engine on the Twitter sidebar. ([Code](https://github.com/threadhelper/threadhelper))
 - [Tweetscape](https://github.com/rooteco/tweetscape) - Supercharged Twitter Feed.
 - [Twitter API v2 code](https://github.com/sofiapinto/Twitter-API-v2-code) - Scripts that can be used to retrieve data from Twitter API v2.
+- [Stabletweet](https://github.com/markjaquith/stabletweet) - Cloudflare Worker proxy for checking whether a tweet exists.
+- [Advanced Twitter Search Tips](https://twitter.com/TessaRDavis/status/1512402324102291467)

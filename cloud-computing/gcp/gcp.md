@@ -82,3 +82,4 @@
 - [TPU Starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPUs.
 - [Time limited, auto-expiring group memberships for users on Google Cloud](https://github.com/salrashid123/iam_autorevoke)
 - [Configure Google production keys for Auth0](https://github.com/natbat/pillarpointstewards/issues/52) ([Tweet](https://twitter.com/simonw/status/1510642840149250055))
+- [Google API Extensions for Go](https://github.com/googleapis/gax-go)

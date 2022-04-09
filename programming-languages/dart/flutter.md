@@ -92,3 +92,4 @@
 - [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for Flutter apps.
 - [Coding an Instagram Clone With Flutter and Feeds (2022)](https://getstream.io/blog/instagram-clone-flutter/)
 - [Monarch](https://monarchapp.io/) - Tool for building Flutter widgets in isolation. ([Code](https://github.com/Dropsource/monarch))
+- [GraphQL Flutter](https://github.com/zino-hofmann/graphql-flutter) - GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.

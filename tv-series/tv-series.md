@@ -47,3 +47,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Российские сериалы последних лет которые стоит посмотреть (2022)](https://twitter.com/polina_txt/status/1481557960476270592)
 - [Русский сериал, за который вам не стыдно](https://twitter.com/eg0r_pomid0r/status/1484225834294693893)
 - [Sci-Fi movie/show recommendations (2022)](https://www.reddit.com/r/scifi/comments/tr519d/looking_for_scifi_movieshow_recommendations/)
+- [Nice HBO series](https://twitter.com/pmarca/status/1512618519866667014)

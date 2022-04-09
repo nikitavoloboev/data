@@ -84,6 +84,9 @@
 - [XGBoost.jl](https://github.com/dmlc/XGBoost.jl) - eXtreme Gradient Boosting in Julia.
 - [SimpleNeRF](https://github.com/rejuvyesh/SimpleNeRF.jl)
 - [CFMMRouter](https://github.com/bcc-research/CFMMRouter.jl) - Fast solver for the CFMM Routing problem.
+- [ExplainableAI.jl](https://github.com/adrhill/ExplainableAI.jl) - XAI in Julia using Flux.
+- [NoiseRobustDifferentiation.jl](https://github.com/adrhill/NoiseRobustDifferentiation.jl) - Total Variation Regularized Numerical Differentiation.
+- [MethodOfLines.jl](https://github.com/SciML/MethodOfLines.jl) - Automatic Finite Difference PDE solving with Julia SciML.
 
 ## Math
 
@@ -188,6 +191,7 @@
 - [BioAlignments.jl](https://github.com/BioJulia/BioAlignments.jl) - Sequence alignment tools.
 - [BioSequences](https://github.com/BioJulia/BioSequences.jl) - Biological sequences for the julia language.
 - [pangraph](https://github.com/neherlab/pangraph) - Bioinformatic toolkit to align large sets of closely related genomes into a graph data structure.
+- [GeneDrive.jl](https://github.com/vnvasquez/GeneDrive.jl) - Julia package designed for simulating biological dynamics and control.
 
 ## Computer Vision
 
@@ -540,6 +544,13 @@
 - [AxisKeys.jl](https://github.com/mcabbott/AxisKeys.jl) - Defines a thin wrapper which, alongside any array, stores a vector of "keys" for each dimension.
 - [StaticLint](https://github.com/julia-vscode/StaticLint.jl) - Static Code Analysis for Julia.
 - [NestedTuples](https://github.com/cscherrer/NestedTuples.jl) - Tools for making it easier to work with nested tuples and nested named tuples.
+- [LinearMaps](https://github.com/JuliaLinearAlgebra/LinearMaps.jl) - Julia package for defining and working with linear maps.
+- [Glob](https://github.com/vtjnash/Glob.jl) - Posix-compliant file name pattern matching.
+- [ComputedFieldTypes](https://github.com/vtjnash/ComputedFieldTypes.jl) - Build types in Julia where some fields have computed types.
+- [ImageInTerminal](https://github.com/JuliaImages/ImageInTerminal.jl) - Julia package for displaying images in the terminal using ANSI colors and Unicode characters.
+- [ThreadedArrays](https://github.com/tkf/ThreadedArrays.jl) - "Easy" parallelism injection.
+- [ParallelMagics](https://github.com/JuliaFolds/ParallelMagics.jl) - Safe parallelism using compiler analysis.
+- [CounterfactualExplanations](https://github.com/pat-alt/CounterfactualExplanations.jl) - Package for Counterfactual Explanations and Algorithmic Recourse in Julia.
 
 ## Links
 

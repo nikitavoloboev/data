@@ -26,3 +26,4 @@
 - [AURA: Ada User Repository Annex](https://aura-docs.readthedocs.io/en/latest/) - Native package manager and build system for Ada. ([Article](https://annexi-strayline.com/blog/posts/4)) ([HN](https://news.ycombinator.com/item?id=29115620))
 - [Ada on any ARM Cortex-M device, in just a couple minutes (2021)](https://blog.adacore.com/ada-on-any-arm-cortex-m-device-in-just-a-couple-minutes)
 - [Lessons from Learning Ada in 2021](https://fosdem.org/2022/schedule/event/ada_outsiders_guide/) ([HN](https://news.ycombinator.com/item?id=30270994))
+- [Hacking the Linux Kernel in Ada (2022)](https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-1/)

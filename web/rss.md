@@ -149,3 +149,4 @@
 - [Feed reader library which abstracts the feed management process? (2022)](https://lobste.rs/s/wlxptu/feed_reader_library_which_abstracts_feed)
 - [Big News: Newsletters + RSS iOS app](https://apps.apple.com/gb/app/big-news-newsletters-rss/id1582306019)
 - [Make RSS full text](https://fulltextrssplz.whtsky.me/) ([Code](https://github.com/whtsky/fulltextrssplz))
+- [RSS Finder](https://github.com/ggkovacs/rss-finder) - Find RSS feeds url.

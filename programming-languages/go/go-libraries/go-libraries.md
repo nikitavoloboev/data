@@ -2,6 +2,8 @@
 
 Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM.
 
+- [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
+
 ## CLI
 
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
@@ -169,7 +171,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
-- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/))
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs))
 - [Fiber Swagger](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
@@ -305,6 +307,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [echo-swagger](https://github.com/swaggo/echo-swagger) - Echo middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [Go Seamless Restart](https://github.com/rs/seamless) - Seamless restart / zero-downtime deploy for Go servers.
 - [GoLobby Router](https://github.com/golobby/router) - Lightweight yet powerful HTTP router for Go.
+- [netns](https://github.com/vishvananda/netns) - Simple network namespace handling for go.
+- [fastudp](https://github.com/shaoyuan1943/fastudp) - Fast implementation of UDP.
+- [go-redoc](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
 
 ## GraphQL
 
@@ -1532,6 +1537,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [dedup](https://github.com/klauspost/dedup) - Streaming Deduplication package for Go.
 - [readahead](https://github.com/klauspost/readahead) - Asynchronous read-ahead for Go readers.
 - [go-dataloader](https://github.com/yckao/go-dataloader) - Clean, safe, user-friendly dataloader, written in Go with generics.
+- [replaylog](https://github.com/alecthomas/replaylog) - Type safe implementation of an op replay log.
+- [csvparser](https://github.com/plagioriginal/csvparser) - Fast, easy-of-use and dependency free custom mapping from .csv data into Go structs.
+- [Sparse Merkle Tree](https://github.com/aergoio/SMT) - Performance oriented implementation of a binary SMT with parallel update, node batching and storage shortcuts.
 
 ## Links
 
@@ -1618,3 +1626,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Using Go for traditional Web application development examples (2022)](https://www.reddit.com/r/golang/comments/ttwole/anyone_here_using_go_for_more_traditional_web/?sort=top)
 - [Get familiar with workspaces (2022)](https://go.dev/blog/get-familiar-with-workspaces)
 - [gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go struct definitions from example JSON.
+- [Tutorial: Create a Go module](https://go.dev/doc/tutorial/create-module) ([Code](https://github.com/andrewmcwatters/greetings))
+- [Generation of SLSA3+ provenance for Go binaries](https://github.com/slsa-framework/slsa-github-generator-go)

@@ -110,3 +110,4 @@
 - [openssh-keys](https://github.com/coreos/openssh-keys) - Rust library to handle OpenSSH public keys.
 - [ShellHub](https://www.shellhub.io/) - Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing. ([Code](https://github.com/shellhub-io/shellhub))
 - [SSH Slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH.
+- [Tunnel-SSH](https://github.com/agebrock/tunnel-ssh) - Easy SSH tunneling.

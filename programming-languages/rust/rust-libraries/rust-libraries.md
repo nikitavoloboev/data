@@ -145,12 +145,13 @@
 - [tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation.
 - [tide-trace](https://github.com/No9/tide-trace) - Minimum overhead USDT middleware to dynamically trace tide with BPF or DTrace.
 - [mt-dom](https://github.com/ivanceras/mt-dom) - Generic virtual DOM implementation for rust.
+- [udp-socket](https://github.com/mxinden/udp-socket) - Advanced udp socket.
 
 ## WASM
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
-- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg))
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup))
 - [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
@@ -158,7 +159,7 @@
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 - [ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM.
 - [racket-wasm](https://github.com/Bogdanp/racket-wasm) - WASM tooling in Racket.
-- [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly. ([Docs](https://zaplib.com/docs/introduction.html))
+- [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly. ([Docs](https://zaplib.com/docs/)) ([HN](https://news.ycombinator.com/item?id=30960509))
 - [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
 - [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
 - [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
@@ -264,6 +265,7 @@
 - [rocksdb-rs](https://github.com/rust-lib-project/calibur) - Rust version of RocksDB.
 - [mysql](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust.
 - [Lru Time Cache](https://github.com/maidsafe/lru_time_cache) - LRU cache settable via size or time to live.
+- [map-to-const](https://github.com/rnag/map-to-const) - Easily convert `HashMap<K, V>` to constant `[(K, V); N]` values.
 
 ## Video
 
@@ -383,6 +385,7 @@
 - [cov-mark](https://github.com/matklad/cov-mark) - Verify that your tests exercise the conditions you think they are exercising.
 - [test-log](https://github.com/d-e-s-o/test-log) - Crate that takes care of automatically initializing logging and/or tracing for Rust.
 - [Coppers](https://github.com/ThijsRay/coppers) - Custom test harnass for Rust that measures the energy usage of your test suite. ([HN](https://news.ycombinator.com/item?id=30918318))
+- [libtest-mimic](https://github.com/LukasKalbertodt/libtest-mimic) - Write your own test harness that looks and behaves like the built-in test harness.
 
 ## Error
 
@@ -664,7 +667,7 @@
 - [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax and the [futures](https://crates.io/crates/futures) crate.
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to \*nix APIs.
 - [wasmi](https://github.com/paritytech/wasmi) - Wasm interpreter in Rust.
-- [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust.
+- [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust. ([Parallelizing graph search with Rayon](https://tavianator.com/2022/parallel_graph_search.html)) ([Reddit](https://www.reddit.com/r/rust/comments/tz4lcy/parallelizing_graph_search_with_rayon/))
 - [libfringe](https://github.com/edef1c/libfringe) - Rust library implementing safe, lightweight context switches, without relying on kernel services.
 - [rust-url](https://github.com/servo/rust-url) - URL parser for Rust.
 - [Rust-Postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for Rust.
@@ -1707,6 +1710,11 @@
 - [TreeFlat](https://github.com/mamcx/tree-flat) - Simplest way to build & traverse a pre-order Tree in Rust.
 - [sarif-rs](https://github.com/psastras/sarif-rs) - Rust projects for interacting with the SARIF format.
 - [tasky](https://github.com/yoshuawuyts/tasky) - Fluent async task spawning experiments.
+- [libavif](https://github.com/njaard/libavif-rs) - Rust AVIF Decoder and Encoder crate.
+- [arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust.
+- [HashCorp Vault Rust API Client](https://github.com/ChrisMacNaughton/vault-rs)
+- [rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
+- [jwalk](https://github.com/jessegrosjean/jwalk) - Filesystem walk performed in parallel with streamed and sorted results.
 
 ## Cargo Plugins
 
@@ -1774,6 +1782,7 @@
 - [cargo-feature](https://github.com/Riey/cargo-feature) - Cargo plugin to manage dependency features.
 - [cargo-rx](https://github.com/rnag/cargo-rx) - Simple, modern fuzzy finder tool to run examples in a Cargo project.
 - [cargo-options](https://github.com/messense/cargo-options) - Reusable common Cargo command line options.
+- [cargo-subcommand](https://github.com/dvc94ch/cargo-subcommand) - Library for implementing cargo subcommands.
 
 ## Links
 
@@ -1882,3 +1891,7 @@
 - [rust-audit](https://github.com/Shnatsel/rust-audit) - Make production Rust binaries auditable.
 - [Are we GUI yet?](http://www.areweguiyet.com/) - State of building user interfaces in Rust. ([Code](https://github.com/areweguiyet/areweguiyet))
 - [A Rust web server / frontend setup like it's 2022 (with axum and yew)](https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/) ([Reddit](https://www.reddit.com/r/rust/comments/tvqlhd/a_rust_server_frontend_setup_like_its_2022_with/))
+- [macro_railroad extension](https://github.com/lukaslueg/macro_railroad_ext) - Display syntax-diagrams for Rust-macros on docs.rs and doc.rust-lang.org.
+- [Rust Universal Template](https://github.com/Rightpoint/rust-universal-template) - Template for creating Rust libraries with bindings to iOS, Android, WebAssembly and more.
+- [Rust to iOS](https://github.com/wojteklu/rust-to-ios) - Example project for building a library for iOS in Rust.
+- [rustdoc: Recent UI and UX changes in generated documentation (2022)](https://blog.guillaume-gomez.fr/articles/2022-04-08+rustdoc%3A+Recent+UI+and+UX+changes+in+generated+documentation) ([Reddit](https://www.reddit.com/r/rust/comments/tz61oq/walk_around_latest_rustdoc_ui_changes_in_the_last/))

@@ -30,3 +30,5 @@
 - [Why I Like D (2022)](https://aradaelli.com/blog/why-i-like-d/) ([HN](https://news.ycombinator.com/item?id=29863557))
 - [Compile-Time Sort in D (2017)](https://dlang.org/blog/2017/06/05/compile-time-sort-in-d/) ([HN](https://news.ycombinator.com/item?id=30317408))
 - [Using the GCC Static Analyzer on the D Programming Language (2022)](https://dlang.org/blog/2022/01/14/using-the-gcc-static-analyzer-on-the-d-programming-language/)
+- [Inochi2D](https://github.com/Inochi2D/inochi2d) - Library for real time 2D puppet animation and the reference implementation of the Inochi2D Puppet standard.
+- [LDC](https://github.com/ldc-developers/ldc) - LLVM-based D Compiler.

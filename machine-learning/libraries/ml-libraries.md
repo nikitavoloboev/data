@@ -318,3 +318,6 @@
 - [Easy Parallel Library](https://github.com/alibaba/EasyParallelLibrary) - General and efficient library for distributed model training.
 - [MetricFlow](https://github.com/transform-data/metricflow) - Allows you to define, build, and maintain metrics in code.
 - [HuggingFace Evaluate](https://github.com/huggingface/evaluate)
+- [PADL](https://github.com/lf1-io/padl) - Pipeline Abstractions for Deep Learning.
+- [Vertex AI SDK for Python](https://github.com/googleapis/python-aiplatform) - Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning.
+- [Tempo](https://github.com/SeldonIO/tempo) - MLOps Python Library.

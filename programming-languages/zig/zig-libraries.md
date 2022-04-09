@@ -36,6 +36,7 @@
 - [zig-cairo](https://github.com/jackdbd/zig-cairo) - Thin wrapper for the cairo 2D graphics library.
 - [ZGL](https://github.com/ziglibs/zgl) - Zig OpenGL Bindings.
 - [brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platform games, simulations, engines and editors.
+- [Phyz](https://github.com/silversquirl/phyz) - 2D game physics for Zig.
 
 ## WASM
 

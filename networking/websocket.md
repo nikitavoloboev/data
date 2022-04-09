@@ -87,3 +87,4 @@
 - [Socket.IO](https://socket.io/) - Bidirectional and low-latency communication for every platform. ([Code](https://github.com/socketio/socket.io)) ([Spec](https://github.com/socketio/socket.io-protocol))
 - [Realtime | Supabase](https://multiplayer.dev/) - Offer basically Phoenix Channels and Presence as a service.
 - [wasmws](https://github.com/tarndt/wasmws) - WASM Websockets for Go applications.
+- [ewebsock](https://github.com/rerun-io/ewebsock) - Rust Websocket client that compiles to both native and web.

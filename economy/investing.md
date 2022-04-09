@@ -256,3 +256,5 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Investor Math and Statistics (2022)](https://www.reddit.com/r/Bogleheads/comments/tq0ii9/investor_math_and_statistics/)
 - [The one fund to hold in Roth IRA (2022)](https://www.reddit.com/r/Bogleheads/comments/tvac39/if_you_are_34_years_old_and_only_want_to_have_one/)
 - [Tools to use for long term investing (2022)](https://twitter.com/brian_lovin/status/1512144546896891910)
+- [IBKR Traders' Academy](https://tradersacademy.online/)
+- [Where to safely invest money for long term? (2022)](https://twitter.com/moizali/status/1512423716474560512)

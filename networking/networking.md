@@ -459,3 +459,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [bore](https://github.com/ekzhang/bore) - Simple CLI tool for making tunnels to localhost.
 - [Beyond POSIX - Adventures in Alternative Networking APIs (2022)](https://www.infoq.com/presentations/posix-networking-api/)
 - [5G, Wi-Fi, mmWave and wireline in a single gateway SoC](https://www.nxp.com/docs/en/white-paper/LA1575FAMILYWP.pdf)
+- [liwasc](https://pojntfx.github.io/liwasc/) - High-performance network and port scanner. It can quickly give you a overview of the nodes in your network, the services that run on them and manage their power status. ([Code](https://github.com/pojntfx/liwasc))

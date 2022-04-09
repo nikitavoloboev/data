@@ -219,3 +219,4 @@
 - [SimpleWebAuthn](https://github.com/MasterKale/SimpleWebAuthn) - WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers and Node. ([Docs](https://simplewebauthn.dev/docs/))
 - [policy](https://github.com/opcr-io/policy) - CLI for managing authorization policies.
 - [Bearer tokens are just awful (2022)](https://mjg59.dreamwidth.org/59353.html) ([HN](https://news.ycombinator.com/item?id=30916192))
+- [Netlify Identity Widget](https://identity.netlify.com/) - Zero config, framework free Netlify Identity widget. ([Code](https://github.com/netlify/netlify-identity-widget))

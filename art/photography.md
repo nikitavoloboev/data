@@ -204,3 +204,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Have iPhone cameras become too smart?](https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart) ([HN](https://news.ycombinator.com/item?id=30754912))
 - [Kodak factory tour: How does Kodak make film?](https://www.youtube.com/watch?v=HQKy1KJpSVc) ([HN](https://news.ycombinator.com/item?id=30785978))
 - [My free-software photography workflow (2022)](https://blog.fidelramos.net/photography/photography-workflow) ([HN](https://news.ycombinator.com/item?id=30904845))
+- [Winter 2021/2022 by Adam Manninen](https://www.adammanninen.com/winter-20212022)

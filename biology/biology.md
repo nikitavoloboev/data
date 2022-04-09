@@ -116,3 +116,4 @@
 - [Symmetry found in biology](https://twitter.com/evoluchico/status/1503307804043583488)
 - [A journey to the center of our cells](https://www.newyorker.com/magazine/2022/03/07/a-journey-to-the-center-of-our-cells) ([HN](https://news.ycombinator.com/item?id=30713797))
 - [Understanding the collective intelligence of cells (2022)](https://www.youtube.com/watch?v=MdOHSUMb214) ([Tweet](https://twitter.com/drmichaellevin/status/1506970875890962441))
+- [Ask HN: Which algorithms based on biological ideas do you know? (2022)](https://news.ycombinator.com/item?id=30955837)

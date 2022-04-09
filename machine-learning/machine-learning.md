@@ -763,3 +763,4 @@
 - [FedScale: Benchmarking Model and System Performance of Federated Learning at Scale (2021)](https://arxiv.org/abs/2105.11367) ([Code](https://github.com/SymbioticLab/FedScale))
 - [Augmenting Physical Models with Deep Networks for Complex Dynamics Forecasting (2021)](https://arxiv.org/abs/2010.04456) ([Code](https://github.com/yuan-yin/APHYNITY))
 - [Understand transformer architectures (2022)](https://twitter.com/michael_nielsen/status/1511853865150287873)
+- [The Future of Machine Learning Tools (2021)](https://skok.ai/machine%20learning/tools/2021/12/06/the-future-of-machine-learning-tools.html)

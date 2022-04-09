@@ -50,6 +50,8 @@
 - [Oat++](https://github.com/oatpp/oatpp) - Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [libhttpserver](https://github.com/etr/libhttpserver) - C++ library for building high performance RESTful web servers.
 - [async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp) - Simple thread-based asynchronous TCP & UDP Socket classes in C++.
+- [mockturtle](https://github.com/lsils/mockturtle) - C++ logic network library.
+- [Wt](https://github.com/emweb/wt) - C++ Web Toolkit.
 
 ## Graphics
 
@@ -375,6 +377,8 @@
 - [Voro++](https://github.com/chr1shr/voro) - Three-dimensional Voronoi cell library in C++.
 - [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - C++ fully cross-platform BLE library designed for simplicity and ease of use.
 - [zstr](https://github.com/mateidavid/zstr) - C++ header-only ZLib wrapper.
+- [uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library.
+- [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - Smallest public printf implementation for its feature set.
 
 ## Links
 

@@ -65,3 +65,4 @@
 - [tinka-hs](https://github.com/atennapel/tinka-hs) - Dependently typed programming language written in Haskell.
 - [Cedille](https://github.com/cedille/cedille) - Dependently typed programming languages based on the Calculus of Dependent Lambda Eliminations. ([Web](https://cedille.github.io/))
 - [Mini-TT](https://github.com/bollu/minitt) - Curricula for learning how to implement dependently typed languages by recursive paper-chasing.
+- [MiniJuvix](https://github.com/heliaxdev/minijuvix) - Dependently functional programming language for writing efficient formally-verified validity predicates, which can be deployed to various distributed ledgers.

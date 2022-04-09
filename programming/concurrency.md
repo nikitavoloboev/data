@@ -42,3 +42,4 @@ Concurrency is the composition of independently executing computations.
 - [KAIST CS431: Concurrent Programming](https://github.com/kaist-cp/cs431)
 - [Structured Concurrency](https://250bpm.com/blog:71/) ([HN](https://news.ycombinator.com/item?id=30720980))
 - [Structured (Synchronous) Concurrency](https://fsantanna.github.io/structured-concurrency.html)
+- [A Flexible Type System for Fearless Concurrency (2022)](https://www.cs.cornell.edu/andru/papers/gallifrey-types/) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/tyiztq/a_flexible_type_system_for_fearless_concurrency/))

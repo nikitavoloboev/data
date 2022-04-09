@@ -41,3 +41,4 @@
 - [Aspect Build Systems](https://www.aspect.dev/) - Expert Bazel consulting. ([GitHub](https://github.com/aspect-build))
 - [Bazel Central Registry](https://github.com/bazelbuild/bazel-central-registry) - Central registry of Bazel modules for the Bzlmod external dependency system.
 - [Jazelle](https://github.com/uber-web/jazelle) - Incremental, cacheable builds for large JavaScript monorepos using Bazel.
+- [Bazel watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.

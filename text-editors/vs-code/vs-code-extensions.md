@@ -502,7 +502,7 @@ Below is a list of extensions I use.
 - [Iridium](https://github.com/Idered/iridium) - Growing collection of VS Code extensions with a fancy name.
 - [Writing a Visual Studio Code Completion Provider (2021)](https://blog.dendron.so/notes/IThOx1Oag1r0JAglpiDLp/)
 - [Publish Extensions to Open VSX](https://github.com/open-vsx/publish-extensions) - CI script for publishing open-source VS Code extensions to open-vsx.org.
-- [Webview UI Toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - Component library for building webview-based extensions in Visual Studio Code. ([Web](https://microsoft.github.io/vscode-webview-ui-toolkit/?path=/story/docs-introduction--page))
+- [Webview UI Toolkit](https://github.com/microsoft/vscode-webview-ui-toolkit) - Component library for building webview-based extensions in Visual Studio Code. ([Web](https://microsoft.github.io/vscode-webview-ui-toolkit/?path=/story/docs-introduction--page)) ([Tweet](https://twitter.com/hawkticehurst/status/1512139185796239373))
 - [Anycode](https://github.com/microsoft/vscode-anycode) - Tree-sitter-based language extension that inaccurately implements popular features like "Outline & Breadcrumbs", "Go to Symbol in Workspace", "Document Highlights" and more..
 - [Ask HN: What extensions/packs of VS Code are must for web/developers to install? (2021)](https://news.ycombinator.com/item?id=29278370)
 - [Opinionated list of essential VS Code extensions (2021)](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions) ([Reddit](https://www.reddit.com/r/vscode/comments/qy2hfu/what_vs_code_extensions_do_you_use_heres_my_list/))

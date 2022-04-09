@@ -10,7 +10,7 @@
 - [Setting up containers, load balancing, and service discovery on light hardware](https://medium.com/@dan.ellis/you-dont-need-1mm-for-a-distributed-system-70901d4741e1)
 - [Ask HN: Any recommended resources to develop system thinking? (2018)](https://news.ycombinator.com/item?id=16704850)
 - [Distributed Systems in One Lesson by Tim Berglund (2017)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
-- [Traefik](https://github.com/traefik/traefik) - Modern HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Hello World with Traefik](https://theorangeone.net/posts/hello-world-with-traefik/))
+- [Traefik](https://github.com/traefik/traefik) - Modern HTTP reverse proxy and load balancer that makes deploying microservices easy. ([Hello World with Traefik](https://theorangeone.net/posts/hello-world-with-traefik/)) ([Awesome](https://github.com/lfache/awesome-traefik))
 - [Traefik Training course resources](https://github.com/56kcloud/traefik-training) ([Web](https://www.thebyte.io/traefik-training))
 - [Kit](https://github.com/go-kit/kit) - Standard library for microservices written in Go. ([kit-auth](https://github.com/al8n/kit-auth))
 - [Fear and Loathing in Lock-Free Programming (2017)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c)

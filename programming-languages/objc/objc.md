@@ -60,3 +60,4 @@
 - [An Approach for Migrating From Objective-C to Swift (2022)](https://www.steveonstuff.com/2022/01/13/migrating-from-objc-to-swift.html)
 - [Objective Ninja](https://github.com/jonpalmisc/ObjectiveNinja) - Binary Ninja plugin & workflow to help analyze Objective-C code.
 - [ktool](https://github.com/cxnder/ktool) - MachO/ObjC Analysis + Editing toolkit.
+- [Objective-C in Rust](https://github.com/madsmtm/objc2)

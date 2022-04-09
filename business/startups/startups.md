@@ -367,6 +367,7 @@
 - [Ranking YC Companies with a Neural Net (2022)](https://evjang.com/2022/04/02/yc-rank.html) ([HN](https://news.ycombinator.com/item?id=30894490))
 - [Elon Musk's 2003 Stanford University Entrepreneurial Thought Leaders Lecture](https://www.youtube.com/watch?v=afZTrfvB2AQ)
 - [The Things We Did Not Do While Reaching $2M ARR (2022)](https://missiveapp.com/blog/the-things-we-did-not-do) ([HN](https://news.ycombinator.com/item?id=30935709))
+- [What software engineers can learn from the rapid collapse of Fast (2022)](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) ([HN](https://news.ycombinator.com/item?id=30947595))
 
 ## Images
 

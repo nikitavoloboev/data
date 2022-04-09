@@ -196,6 +196,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Raphael Sprenger](https://garden.raphaelsprenger.de/index.html)
 - [Личная вики](https://ndrewnee.gitbook.io/wiki/)
 - [Boris Mann](https://bmannconsulting.com/)
+- [Yu-An Chan's wiki](https://alanchan.netlify.app/index.html)
 - [The Wise Opportunist](https://opportunist.luseeds.com/)
 - [Constantin Campean's Almanacs](https://github.com/costinEEST/almanacs)
 - [Allen Lee's Digital Brain](https://github.com/ale0sx/brains)
@@ -457,3 +458,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [xit](https://xit.jotaen.net/) - Plain-text file format for todos and check lists. ([Spec](https://github.com/jotaen/xit)) ([HN](https://news.ycombinator.com/item?id=30879327))
 - [chronicle-etl](https://github.com/chronicle-app/chronicle-etl) - CLI toolkit for extracting and working with your digital history.
 - [25+ years of personal knowledge management (2022)](https://dsebastien.net/blog/2022-04-03-25-years-of-personal-knowledge-management) ([HN](https://news.ycombinator.com/item?id=30903940))
+- [Heptabase](https://heptabase.com/) - Note-taking tool for visual learning.

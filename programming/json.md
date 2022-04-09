@@ -116,3 +116,4 @@
 - [Understanding jq's reduce function (2022)](https://qmacro.org/2022/03/25/understanding-jq-s-reduce-function/)
 - [GJSON Playground](https://gjson.dev/) - GJSON provides a fast and simple way to search a JSON document. ([Code](https://github.com/tidwall/gjson-play))
 - [Jaggr](https://github.com/rs/jaggr) - Command line tool to aggregate in real time a series of JSON logs.
+- [JSON API Normalize](https://github.com/dbrekalo/json-api-normalize) - Simple way to traverse datasets based on JSON API specification. Lightweight JS library with simple and powerful API.

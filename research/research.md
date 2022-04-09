@@ -1,5 +1,7 @@
 # Research
 
+[Good Research Code Handbook](https://goodresearch.dev/) is useful.
+
 ## How I research
 
 The most useful thing that has helped me be more productive in uncovering new and interesting things is to do things with a purpose. Research included.

@@ -62,6 +62,7 @@
 - [attr-gather](https://github.com/ianks/attr-gather) - Provides a process to fetch information from many data sources in a fully parallelized fashion.
 - [Kiba ETL](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby.
 - [algorithms](https://github.com/kanwei/algorithms) - Ruby algorithms and data structures. C extensions.
+- [Numo::NArray](https://github.com/ruby-numo/numo-narray) - Numerical N-dimensional Array class for fast processing and easy manipulation of multi-dimensional numerical data, similar to numpy.ndaray.
 
 ## Links
 

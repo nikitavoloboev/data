@@ -72,6 +72,7 @@
 - [Irvan Malik's NextJS Blog](https://github.com/irvanmalik48/blog)
 - [Image Gallery with Next.js, Supabase, and Tailwind CSS](https://github.com/leerob/image-gallery-supabase-tailwind-nextjs)
 - [Lightweight Next.js Portfolio site template](https://github.com/eggheadio/portfolio-template-and-challenge)
+- [Next.js site w/ a blank custom Nextra theme (w/Tailwind)](https://github.com/jaredpalmer/nextra-blank-custom-theme)
 
 ## NextJS plugins
 
@@ -345,3 +346,4 @@
 - [Vercel Style Guide](https://github.com/vercel/style-guide) - Home of Vercel's style guide, which includes configs for popular linting and styling tools.
 - [How DoorDash improved Web Page Performance and scaled with Next.JS (2022)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
 - [Storybook Addon Next](https://github.com/RyanClementsHax/storybook-addon-next) - No config Storybook addon that makes Next.js features just work in Storybook.
+- [Vulcan Next](https://github.com/VulcanJS/vulcan-next) - Build GraphQL-based applications with Next.js. ([Docs](https://vulcan-next.vercel.app/))

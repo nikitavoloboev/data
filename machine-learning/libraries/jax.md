@@ -13,3 +13,4 @@
 - [GPax](https://github.com/google-research/gpax) - Jax/Flax codebase for Gaussian processes including meta and multi-task Gaussian processes.
 - [jax-fenics-adjoint](https://github.com/IvanYashchuk/jax-fenics-adjoint) - Differentiable interface to FEniCS/Firedrake for JAX using dolfin-adjoint/pyadjoint.
 - [jax-ekf](https://github.com/brentyi/jax-ekf) - Generic EKF, with support for non-Euclidean manifolds.
+- [PaLM - Jax](https://github.com/lucidrains/PaLM-jax) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways - in Jax.

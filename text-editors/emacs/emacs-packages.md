@@ -40,3 +40,4 @@
 - [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.
 - [Ecaml](https://github.com/janestreet/ecaml) - Writing Emacs plugin in OCaml.
 - [Elegant Emacs](https://github.com/rougier/elegant-emacs) - Minimal consistent vanilla Emacs (i.e. no package) and yet elegant.
+- [Modern Org Style](https://github.com/minad/org-modern)

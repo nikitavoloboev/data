@@ -34,6 +34,7 @@
 
 ## DB
 
+- [Toucan](https://github.com/metabase/toucan) - High-level Clojure library for defining application models and retrieving them from a DB.
 - [Asami](https://github.com/threatgrid/asami) - An in memory graph store for Clojure and ClojureScript. ([Talk](https://www.youtube.com/watch?v=-XegX_K6w-o))
 - [Yesql](https://github.com/krisajenkins/yesql) - Clojure library for using SQL.
 - [suricatta](https://github.com/funcool/suricatta) - High level sql toolkit for clojure.
@@ -50,6 +51,9 @@
 - [Carmine](https://github.com/ptaoussanis/carmine) - Pure-Clojure Redis client & message queue.
 - [clj-leveldb](https://github.com/Factual/clj-leveldb) - Clojure bindings for LevelDB.
 - [SQLingvo](https://github.com/r0man/sqlingvo) - Clojure & ClojureScript DSL for SQL.
+- [MoneySQL](https://github.com/camsaul/moneysql) - Experimental drop-in replacement for HoneySQL.
+- [conman](https://github.com/luminus-framework/conman) - Helper library for managing database connections.
+- [Codax](https://github.com/dscarpetti/codax) - Idiomatic transactional embedded database for clojure.
 
 ## ML
 
@@ -192,6 +196,8 @@
 - [fast.csv](https://github.com/bsless/fast.csv) - Fast implementation of CSV writing in Clojure, for when you need to write big files fast.
 - [clojure.data.csv](https://github.com/clojure/data.csv) - CSV reader/writer to/from Clojure data structures.
 - [pretty](https://github.com/AvisoNovate/pretty) - Library for helping print things prettily, in Clojure - ANSI fonts, formatted exceptions.
+- [viz.clj](https://github.com/scicloj/viz.clj) - Data Visualization Clojure library for beginners.
+- [LaTTe-Kernel](https://github.com/latte-central/latte-kernel) - Small kernel of the LaTTe proof assistant in Clojure(script).
 
 ## Links
 
@@ -208,3 +214,4 @@
 - [mobiletest](https://github.com/phronmophobic/mobiletest) - Example of building a clojure library for iOS with graalvm native-image.
 - [Grease](https://github.com/phronmophobic/grease) - Example of building a clojure library for iOS with graalvm native-image.
 - [Clojure calling C](https://github.com/saikyun/native-image-clojure-c) - Call C from Clojure using GraalVM -- then compile a binary using native-image.
+- [lein-native-image](https://github.com/taylorwood/lein-native-image) - Leiningen plugin to build GraalVM native images.

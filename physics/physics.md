@@ -294,4 +294,4 @@
 - [ELI5: Why is a Planck’s length the smallest possible distance?](https://www.reddit.com/r/explainlikeimfive/comments/tsompf/eli5_why_is_a_plancks_length_the_smallest/)
 - [What I learned as a hired consultant to autodidact physicists (2016)](https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists) ([HN](https://news.ycombinator.com/item?id=30908084))
 - [Twenty-five years of nanoscale thermodynamics (2022)](https://www.nature.com/articles/d41586-022-00869-y) ([Tweet](https://twitter.com/seanmcarroll/status/1511797026224173059))
-- [Fermilab Says Particle Is Heavy Enough to Break the Standard Model (2022)](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/)
+- [W boson mass may be 0.1% larger than predicted by the standard model (2022)](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/) ([Reddit](https://www.reddit.com/r/Physics/comments/tyjgsu/w_boson_mass_may_be_01_larger_than_predicted_by/)) ([HN](https://news.ycombinator.com/item?id=30955033))

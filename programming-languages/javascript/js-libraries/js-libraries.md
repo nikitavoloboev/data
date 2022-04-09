@@ -68,11 +68,12 @@
 - [$mol](https://github.com/hyoo-ru/mam_mol) - Fastest reactive micro-modular compact flexible lazy ui web framework.
 - [Reflex](https://github.com/mozilla/reflex) - Functional reactive UI library.
 - [Gestalt](https://github.com/gestaltjs/gestalt) - Modern opinionated and batteries-included NodeJS framework for building web sites and apps.
-- [Logux Core](https://github.com/logux/core) - New way to connect client and server. Instead of sending HTTP requests (e.g., AJAX and GraphQL) it synchronizes log of operations between client, server, and other clients.
+- [Logux Core](https://github.com/logux/core) - New way to connect client and server. Instead of sending HTTP requests (e.g., AJAX and GraphQL) it synchronizes log of operations between client, server, and other clients.
 - [set-dom](https://github.com/DylanPiercey/set-dom) - Lightweight DOM diffing with plain old HTML.
 - [Ralix](https://github.com/ralixjs/ralix) - Micro framework for building and organizing your front-end.
 - [rawth](https://github.com/GianlucaGuarini/rawth) - Pure functional isomorphic router based on streams.
 - [Corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend. ([Web](https://corset.dev/))
+- [hdot](https://github.com/willmartian/hdot) - Zero-dependency, buildless, terse, and type-safe way to write HTML in JavaScript.
 
 ## Animation
 
@@ -889,6 +890,10 @@
 - [Nitro](https://github.com/unjs/nitro) - Build and deploy universal JavaScript servers.
 - [Channel](https://github.com/NodeGuy/channel) - Go-like channels for JavaScript.
 - [big-json](https://github.com/DonutEspresso/big-json) - Stream based implementation of JSON.parse and JSON.stringify.
+- [FPO](https://github.com/getify/FPO) - FP library for JavaScript. Supports named-argument style methods.
+- [cacheable-request](https://github.com/jaredwray/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+- [pocket.io](https://github.com/WebReflection/pocket.io) - Minimalistic version of socket.io that weights about 1K instead of 60K.
+- [escape-goat](https://github.com/sindresorhus/escape-goat) - Escape a string for use in HTML or the inverse.
 
 ## Links
 
@@ -956,3 +961,4 @@
 - [What are Weak Links in the npm Supply Chain? (2021)](https://arxiv.org/abs/2112.10165v2)
 - [qpind](https://github.com/Intevel/qpind) - Install dependecies quick & programmatically.
 - [narn](https://github.com/joeldenning/narn) - CLI that detects whether your current npm package is using npm, yarn, or pnpm.
+- [knitwork](https://github.com/unjs/knitwork) - Utilities to generate JavaScript code.

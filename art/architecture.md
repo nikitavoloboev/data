@@ -87,3 +87,4 @@
 - [How do you design a 100-year home in Accra?](https://twitter.com/equartey/status/1484959390084042759)
 - [Best books about building a house](https://twitter.com/ehn/status/1506494510528102401)
 - [Parametric Architecture](https://parametric-architecture.com/link-in-bio/) ([Twitter](https://twitter.com/parametricarch))
+- [Linear Magazine](https://linear-magazine.com/) - Magazine for the architecturally curious. ([Twitter](https://twitter.com/linear_magazine))

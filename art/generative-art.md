@@ -216,3 +216,5 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [What is this thing called Generative Art? (2022)](https://rustfest.global/session/46-what-is-this-thing-called-generative-art/)
 - [Noon Silk's generative drawings](https://github.com/silky/fashion)
 - [GenerateMe](https://github.com/tsulej/GenerateMe) - Processing scripts used to generative glitch / art / design.
+- [Ode to the macOS Drift screensaver that runs in the browser](https://github.com/sandydoo/flux)
+- [Generative Design Library for Processing 3](https://github.com/generative-design/GenerativeDesignLibrary3)

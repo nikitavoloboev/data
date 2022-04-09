@@ -2,9 +2,9 @@
 
 > Below is mostly [my opinion](https://twitter.com/eeberquist/status/1504516448156274695) on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 8 to Cyprus and then eventually Netherlands. Most of my opinion is thus formed on my visits to Russia, what I read and the things I talk about with some Russians there and abroad).
 
-Russian culture and history is fascinating. It's genuinely tragic how the monstrosities [Russian government unleashed on Ukraine](https://ukraine.bellingcat.com/) were allowed to happen. It's hard to say how many inside Russia support this aggression as saying anything negative towards this massacre of Ukrainian people is punishable by prison. I hope it's low but the limited evidence we do have suggests otherwise.
+Russian culture and history is fascinating. It's genuinely tragic how the monstrosities [Russian government unleashed on Ukraine](https://ukraine.bellingcat.com/) were allowed to happen. It's [hard to say how many inside Russia support this aggression](https://www.youtube.com/watch?v=BNTDs8x2Zwk) as saying anything negative towards this massacre of Ukrainian people is punishable by prison. I hope it's low but the limited evidence we do have suggests otherwise.
 
-That said, Russia has absolutely beautiful nature. The people are varied and many like to think of them as 'outside of politics' which makes sense given that voicing your opinion more actively in form of protest can land you in jail. Russian government [uses fear and oppression to hold itself together](https://www.youtube.com/watch?v=jIwpJXlT2I0) for all these years as well as massive amounts of money it gets from the natural resource sales. It's genuinely sad to see as such a huge country can't flourish and live to its full potential. Nor can most people migrate as they have no finances to support such a move.
+That said, Russia has absolutely beautiful nature. The people are varied and many like to think of themselves as 'outside of politics' which makes sense given that voicing your opinion more actively in form of protest can land you in jail. Russian government [uses fear and oppression to hold itself together](https://www.youtube.com/watch?v=jIwpJXlT2I0) for all these years as well as massive amounts of money it gets from the natural resource sales. It's genuinely sad to see as such a huge country can't flourish and live to its full potential. Nor can most people migrate as they have no finances to support such a move.
 
 I don't live in Russia and don't feel good to ever live in Russia under the current regime (paying tax in such country is not ethical I feel). I hope to do everything that's in my power to somehow educate and mobilize the majority of Russians to actually gain some kind of financial independence. It's the only way I see in how to make a real change in this country. Only when you can truly think freely without having to base your entire life around how to earn enough money just to survive, can some rich social discourse be built. Russian propaganda is quite effective in shifting blame on things that you have no control over (or so it makes you think).
 
@@ -12,7 +12,7 @@ I don't know how to solve this crisis. I only know that hate, anger and aggressi
 
 I am certain there will be a point in time where a small glimpse of freedom and hope will be brought about in Russia (be it through death of Putin or something else). In that case Russian society should do its best to fully change how government operates, specifically so that presidential ability can never grow to the extent of a dictatorship. And perhaps some regions should grow more autonomous. It doesn't make sense that main decisions for entire country are based in one place (Moscow).
 
-It would be nice if other countries were more welcome in welcoming students and high valued workers from Russia in their countries. More investments in free education, end to end encrypted chats, [anonymous globally supported currencies](../../cryptocurrencies/monero.md), better online privacy tools can also accelerate to the free and prosperous Russia.
+It would be nice if other countries were more welcome in welcoming students and high valued workers from Russia in their countries. More investments in free education, end to end encrypted chats, [anonymous globally supported currencies](../../cryptocurrencies/monero.md), better online privacy tools can also accelerate the free and prosperous Russia.
 
 I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/lists/1351120526220152839).
 
@@ -563,3 +563,6 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Is this how Russia ends? (2022)](https://the.ink/p/is-this-how-russia-ends) ([HN](https://news.ycombinator.com/item?id=30931130))
 - [Алексей Ракша: «Если у вас нет людей, вы не будете империей» (2022)](https://www.youtube.com/watch?v=mzIfOzApmPk)
 - [Тараканы! — ...И ничего кроме правды (2021)](https://www.youtube.com/watch?v=20TOpQQxbnk) ([Tweet](https://twitter.com/EvgenyFeldman/status/1511678296425119746))
+- [Crticial of Russia sources list (2022)](https://twitter.com/plant__woman/status/1512083500203077640)
+- [Russia’s certificate authority for sanctioned organizations (2022)](https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6)
+- [Григорий Юдин: «Это диверсия против страны» // «Скажи Гордеевой» (2022)](https://www.youtube.com/watch?v=BNTDs8x2Zwk)

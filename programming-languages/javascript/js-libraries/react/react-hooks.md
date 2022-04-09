@@ -181,6 +181,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useDelayedRender](https://github.com/pacocoursey/use-delayed-render) - React hook for delaying the render and unmount of a component.
 - [onClickOutside](https://github.com/wellyshen/react-cool-onclickoutside) - React hook to listen for clicks outside of the component(s).
 - [react-sage](https://github.com/meinstein/react-sage) - Handy-dandy React hooks.
+- [useSSE](https://github.com/kmoskwiak/useSSE) - Perform asynchronous effects both on client and serve side.
 
 ## Code
 

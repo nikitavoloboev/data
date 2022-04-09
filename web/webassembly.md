@@ -292,3 +292,5 @@
 - [WASM Builders](https://www.wasm.builders/)
 - [TWA](https://github.com/keith2018/TWA) - Tiny pure C++ WebAssembly runtime.
 - [inline-webassembly](https://github.com/dorin131/inline-webassembly) - Inline WebAssembly (text format) into JS.
+- [Stack Switching Proposal for WebAssembly](https://github.com/WebAssembly/stack-switching)
+- [Marine](https://github.com/fluencelabs/marine) - General purpose WASM runtime that could be used in different scenarios, especially in programs based on the entity component system (ECS) pattern or plugin architecture.

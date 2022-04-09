@@ -326,3 +326,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [S3 Account Search](https://github.com/WeAreCloudar/s3-account-search) - Tool lets you find the account id an S3 bucket belongs too.
 - [aws-sso-util](https://github.com/benkehoe/aws-sso-util) - Making life with AWS SSO a little easier.
 - [Cloudy](https://github.com/skyrpex/cloudy) - Set of constructs for the AWS Cloud Development Kit that aim to improve the DX by providing a faster and type-safe code environment.
+- [Altimeter](https://github.com/tableau/altimeter) - Graph AWS resources in Neptune.
+- [python_fasts3](https://github.com/joshuarobinson/python_fasts3) - Fast S3 in Python using Rust.
+- [AWS RDS Terraform module](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS.

@@ -756,3 +756,5 @@
 - [Rust. How do I start?](https://github.com/jondot/rust-how-do-i-start)
 - [Rust Lang Roadmap for 2024](https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html) ([Reddit](https://www.reddit.com/r/rust/comments/twkjqt/rust_lang_roadmap_for_2024_inside_rust_blog/)) ([HN](https://news.ycombinator.com/item?id=30915056))
 - [Rust Secure Code Working Group](https://github.com/rust-secure-code/wg)
+- [Rust 1.60.0 (2022)](https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html) ([Reddit](https://www.reddit.com/r/rust/comments/tydta1/announcing_rust_1600/)) ([HN](https://news.ycombinator.com/item?id=30944709)) ([Lobsters](https://lobste.rs/s/btxn0i/announcing_rust_1_60_0))
+- [Instant::now() what? (2022)](https://blog.iximeow.net/now_what.html)

@@ -35,3 +35,7 @@
 - [Blitz](https://github.com/dimensionhq/blitz) - Fast, simple and efficient state management for SolidJS apps.
 - [solid-boundaries](https://github.com/everweij/solid-boundaries) - Utility to track the boundaries of html-elements in SolidJS.
 - [i18next for Solid](https://github.com/mbarzda/solid-i18next)
+- [Solid FLIP](https://github.com/otonashixav/solid-flip) - Lightweight transition library for Solid.
+- [Solid Playground](https://playground.solidjs.com/) - Quickly discover what the solid compiler will generate from your JSX template. ([Code](https://github.com/solidjs/solid-playground))
+- [solid-utils](https://github.com/amoutonbrady/solid-utils) - Ultimate companion of all your solid-js applications.
+- [Solid Slider](https://github.com/davedbase/solid-slider) - Carousel/slider implementation for SolidJS.

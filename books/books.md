@@ -299,6 +299,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Suggest a book to someone who has lost all hope in the world (2022)](https://www.reddit.com/r/suggestmeabook/comments/tmkooe/suggest_a_book_to_someone_who_has_lost_all_hope/)
 - [Ask HN: Which book can attract anyone towards your field of study? (2022)](https://news.ycombinator.com/item?id=30822339)
 - [Best books on Science Fiction and Philosophy recommended by Eric Schwitzgebel](https://fivebooks.com/best-books/science-fiction-and-philosophy-eric-schwitzgebel/)
+- [Suggest three books that will make me like your favorite author (2022)](https://www.reddit.com/r/suggestmeabook/comments/tyc7c9/suggest_three_books_that_will_make_me_like_your/)
+- [Your last 10/10 read (2022)](https://www.reddit.com/r/suggestmeabook/comments/tyxoml/your_last_1010_read/)
 
 ## Interesting Prose Books
 

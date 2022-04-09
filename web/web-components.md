@@ -82,3 +82,4 @@
 - [webcomponent](https://github.com/richardanaya/webcomponent) - Web component library for rust.
 - [Reactive Controllers feature in Lit 2](https://twitter.com/buildWithLit/status/1507032453080305665) - Lets you integrate state manager logic across components.
 - [WebComponent Router](https://github.com/ryansolid/webcomponent-router) - Nested router based on HTML Web Components.
+- [Custom Elements Manifest](https://github.com/webcomponents/custom-elements-manifest) - File format for describing custom elements.

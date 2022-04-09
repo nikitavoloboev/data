@@ -84,3 +84,4 @@ Is logical theory of computable functions.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) - Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust.
 - [λ-2D: An Exploration of Drawing as Programming Language, Featuring Ideas from Lambda Calculus](https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/) ([HN](https://news.ycombinator.com/item?id=30932552))
 - [Ultimate Calculus](https://github.com/VictorTaelin/ultimate-calculus) - Optimal, full λ-calculus evaluator that doesn't rely on interaction combinators and can be implemented in 150 lines.
+- [λC+](https://github.com/aellym0/lambdacplus) - Proof assistant based on the Calculus of Constructions.

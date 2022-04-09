@@ -193,3 +193,4 @@
 - [The Big List of Engineering Management Resources (2022)](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 - [Hard to work with (2022)](https://lethain.com/hard-to-work-with/) ([HN](https://news.ycombinator.com/item?id=30861707))
 - [The Anatomy of a 1:1 (2022)](https://cate.blog/2022/04/04/the-anatomy-of-a-11/)
+- [Agile and the Long Crisis of Software (2022)](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/) ([Tweet](https://twitter.com/miriamkp/status/1512141868150116366))

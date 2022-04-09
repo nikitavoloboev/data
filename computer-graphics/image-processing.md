@@ -171,3 +171,4 @@
 - [image-js](https://github.com/image-js/image-js) - Image processing and manipulation in JavaScript.
 - [IIIF | International Image Interoperability Framework](https://iiif.io/) ([Awesome](https://github.com/IIIF/awesome-iiif))
 - [Comparing images in Go](https://github.com/vitali-fedulov/images3)
+- [SAIL](https://github.com/HappySeaFox/sail) - Format-agnostic cross-platform image decoding library providing rich APIs, from one-liners to complex use cases with custom I/O sources.

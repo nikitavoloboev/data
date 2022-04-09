@@ -441,6 +441,9 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [psd](https://github.com/webtoon/psd) - Blazing fast, zero-dependency PSD parser for the web and Node.js.
 - [Redo](https://github.com/re-do/re-po) - Set of devtools that make it easier to build and test JS/TS. ([Docs](https://redo.dev/docs/model/intro/))
 - [Immerhin](https://github.com/webstudio-is/immerhin) - Send patches around to keep the system in sync.
+- [typed-struct](https://github.com/sarakusha/typed-struct) - TypeScript utility library for creating objects that store their properties in a buffer for serialization/deserialization.
+- [remote-ui](https://github.com/Shopify/remote-ui) - Allows you to create custom component APIs in JavaScript that can be used to render UI from a context other than the UI thread, like a web worker.
+- [martha](https://github.com/selfawarestudio/martha) - Tiny collection of convenient JavaScript utilities.
 
 ## Links
 
@@ -496,3 +499,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Easiest way today to build a library in typescript and publish it on npm in all formats people use (2022)](https://twitter.com/oleg008/status/1510006191296061441)
 - [dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file.
 - [package-bundler](https://github.com/benduran/package-bundler) - CLI for compiling and bundling your TypeScript to ESM & CJS, with deep exports support.
+- [package-check](https://github.com/skypackjs/package-check) - Quality score checker for npm packages.

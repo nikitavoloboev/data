@@ -168,3 +168,4 @@
 - [Paper at 10 (2022)](https://www.andy.works/words/paper-at-10)
 - [Checking in on Fast (2021)](https://chrisfrantz.com/checking-in-on-fast/) ([Tweet](https://twitter.com/frantzfries/status/1370237866979233794))
 - [Design of This Website (2021)](https://www.gwern.net/Design) ([HN](https://news.ycombinator.com/item?id=30928081))
+- [Creating a Zoom UI (2021)](https://www.steveruiz.me/posts/zoom-ui)

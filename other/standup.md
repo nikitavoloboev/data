@@ -30,6 +30,7 @@
 - [Louis CK - being broke](https://www.youtube.com/watch?v=Y_-1l_SlA7c)
 - [Louis.C.K. - dating at 45](https://www.youtube.com/watch?v=8njkM84Hp9c)
 - [Sincerely Louis CK](https://www.youtube.com/watch?v=LOS9KB2qoRI)
+- [Taylor Tomlinson Stand-Up: Anti-Depressants, Settling Down](https://www.youtube.com/watch?v=dW8jny6_724)
 
 ## Links
 

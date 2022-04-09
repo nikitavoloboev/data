@@ -201,3 +201,4 @@
 - [Encrypted DNS Server](https://github.com/DNSCrypt/encrypted-dns-server) - Easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server.
 - [ZeroNS](https://github.com/zerotier/zeronsd) - DNS server for ZeroTier users.
 - [crt.sh](https://crt.sh/) - Certificate Search.
+- [cli53](https://github.com/barnybug/cli53) - Command line tool for Amazon Route 53.

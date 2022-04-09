@@ -95,3 +95,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [A six-fold improvement in the Merkle tree storage for Tezos (2022)](https://medium.com/tezedge/prevent-the-loss-of-baking-rewards-with-the-6-times-faster-and-more-stable-tezedge-context-storage-ade5714228b5)
 - [Learn how to create NFTs on Tezos using Taquito and Pinata](https://github.com/claudebarde/taquito-pinata-tezos-nft)
 - [Tezos for the outsider](https://twitter.com/ArthurB/status/1510347752068325380)
+- [Nix flakes for Tezos](https://github.com/marigold-dev/tezos-nix)

@@ -207,3 +207,5 @@ All active variables can be seen by running `env`.
 - [The Day of a new Command-Line Interface: Shell (2022)](https://arcan-fe.com/2022/04/02/the-day-of-a-new-command-line-interface-shell/)
 - [Crab](https://github.com/dabapps/crab) - Simple unix toolkit for working with local development environments.
 - [Nice scripting languages](https://twitter.com/mgattozzi/status/1511036916615069705)
+- [Pipr](https://github.com/elkowar/pipr) - Tool to interactively write shell pipelines.
+- [Terminal Colors](https://github.com/termstandard/colors) - Color standards for terminal emulators.

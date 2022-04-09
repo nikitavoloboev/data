@@ -95,3 +95,5 @@
 - [TransmissionRemote](https://github.com/selim-mustafaev/TransmissionRemote) - macOS client for transmission daemon (using RPC API).
 - [lava_torrent](https://github.com/ttlajus/lava_torrent) - Library for parsing/encoding/creating bencode and .torrent files.
 - [Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
+- [webtorrent-health](https://github.com/alxhotel/webtorrent-health) - Get health info about a webtorrent file or magnet link.
+- [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - Simple, robust, BitTorrent tracker (client & server) implementation.

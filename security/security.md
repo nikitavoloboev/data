@@ -279,3 +279,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Trickest](https://trickest.com/) - Workflow-powered solution for Bug Bounty, Pentesting, SecOps.
 - [Secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [Dotenv Vault](https://github.com/dotenv-org/dotenv-vault) - Securely syncs secrets and app configuration across your machines, environments, and team members.
+- [Starbase](https://github.com/JupiterOne/starbase) - Graph-based security analysis for everyone.
+- [Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice (2021)](https://dys2p.com/en/2021-12-tamper-evident-protection.html)

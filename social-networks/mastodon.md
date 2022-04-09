@@ -26,3 +26,4 @@
 - [Mastodon iOS App Code](https://github.com/mastodon/mastodon-ios)
 - [tootstream](https://github.com/magicalraccoon/tootstream) - Command line interface for interacting with Mastodon instances.
 - [Mastodon 3.5 (2022)](https://blog.joinmastodon.org/2022/03/mastodon-3.5/) ([HN](https://news.ycombinator.com/item?id=30862612))
+- [Mastodon Glitch Edition](https://glitch-soc.github.io/docs/) - Friendly fork of the open-source social media software Mastodon. ([Code](https://github.com/glitch-soc/mastodon))

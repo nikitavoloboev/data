@@ -126,3 +126,6 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TeX Live](https://tug.org/texlive/) - TeX Users Group.
 - [Tufte Algorithms Book Template](https://github.com/sisl/tufte_algorithms_book) - Template for textbooks in the same style as Algorithms for Optimization.
 - [MTTeX](https://github.com/wilbowma/mttex) - LaTeX package for formatting meta-theory.
+- [TinyTeX](https://github.com/yihui/tinytex) - Lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live.
+- [Galley of Tikz drawings](https://github.com/walmes/Tikz)
+- [Neat LaTeX tricks (2022)](https://twitter.com/gpxl_/status/1511922614842761216)

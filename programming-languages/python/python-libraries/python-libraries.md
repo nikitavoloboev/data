@@ -55,6 +55,8 @@
 - [PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [aiolimiter](https://github.com/mjpieters/aiolimiter) - Efficient implementation of a rate limiter for asyncio.
 - [OpenAPI Python Client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI.
+- [WARCIO](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO.
+- [Warctools](https://github.com/internetarchive/warctools) - Command line tools and libraries for handling and manipulating WARC files (and HTTP contents).
 
 ## ML
 
@@ -133,6 +135,7 @@
 - [Colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python.
 - [jsonargparse](https://github.com/omni-us/jsonargparse) - Parsing of command line options, yaml/jsonnet config files and/or environment variables based on argparse.
 - [ArgBind](https://github.com/pseeth/argbind) - Build CLIs via docstrings and type annotations, with YAML support.
+- [targ](https://github.com/piccolo-orm/targ) - Build a Python CLI for your app, just using type hints and docstrings.
 
 ## DB
 
@@ -810,6 +813,8 @@
 - [deczoo](https://github.com/FBruzzesi/deczoo) - Zoo for decorators.
 - [fingerprints](https://github.com/alephdata/fingerprints) - Make it easier to compare and cross-reference the names of companies and people by applying strong normalisation.
 - [DataFusion in Python](https://github.com/datafusion-contrib/datafusion-python)
+- [PrettyTable](https://github.com/jazzband/prettytable) - Display tabular data in a visually appealing ASCII table format.
+- [holpy](https://github.com/bzhan/holpy) - Implementation of higher-order logic in Python.
 
 ## Links
 
@@ -920,3 +925,5 @@
 - [Py-Pkgs-Cookiecutter](https://github.com/py-pkgs/py-pkgs-cookiecutter) - Cookiecutter template for Python packages.
 - [pygrep-hooks](https://github.com/pre-commit/pygrep-hooks) - Collection of fast, cheap, regex based pre-commit hooks.
 - [atoti Project Template](https://github.com/atoti/project-template) - Template from which atoti projects intending to go into production can start.
+- [package-stats](https://github.com/simonw/package-stats) - Download statistics for my PyPI packages.
+- [pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite) - Load data about Python packages from PyPI into SQLite.

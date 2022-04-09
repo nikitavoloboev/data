@@ -4,6 +4,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 
 [Database Internals](https://www.databass.dev/) & [Designing Data-Intensive Applications](https://dataintensive.net/) are great books on databases.
 
+[Metabase](https://github.com/metabase/metabase) is a great SQL queries visualizer.
+
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
@@ -217,6 +219,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Surge](https://github.com/surgedb/surge) - Fastest next-gen NoSQL db.
 - [StarfishQL](https://github.com/SeaQL/starfish-ql) - Graph database and query engine to enable graph analysis and visualization on the web. ([Web](https://www.sea-ql.org/StarfishQL/))
 - [SingleStore](https://www.singlestore.com/) - Unified database for data-intensive applications. ([Twitter](https://twitter.com/SingleStoreDB)) ([Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb/))
+- [Apache Impala](https://github.com/apache/impala) - Lightning-fast, distributed SQL queries for petabytes of data stored in Apache Hadoop clusters.
+- [RisingWave](https://github.com/singularity-data/risingwave) - Cloud-native streaming database that uses SQL as the interface language.
 
 ## Tools
 

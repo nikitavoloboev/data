@@ -69,3 +69,4 @@ Spend more time with ones you care about. Be [aware of your ego](../consciousnes
 - [Hidetaka Miyazaki sees death as a feature, not a bug](https://www.newyorker.com/culture/persons-of-interest/hidetaka-miyazaki-sees-death-as-a-feature-not-a-bug) ([HN](https://news.ycombinator.com/item?id=30522706))
 - [Regrets of the Dying (2010)](https://bronnieware.com/blog/regrets-of-the-dying/) ([HN](https://news.ycombinator.com/item?id=30593302))
 - [Mourning loss as a remote team](https://www.sofuckingagile.com/blog/mourning-loss-as-a-remote-team) ([HN](https://news.ycombinator.com/item?id=30811187))
+- [Life does flash before your eyes, when you die](https://hyperallergic.com/720694/science-confirms-that-life-flashes-before-the-eyes-upon-death/)

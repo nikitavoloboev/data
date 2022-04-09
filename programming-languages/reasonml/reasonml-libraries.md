@@ -36,6 +36,7 @@
 - [Jzon](https://github.com/nkrkv/jzon) - ReScript library to encode and decode JSON data with type safety.
 - [re-fp](https://github.com/snatvb/re-fp) - Functional programming library for ReScript.
 - [ReSchema](https://github.com/rescriptbr/reschema) - Schema validation made easy for ReScript.
+- [ReScript Collections](https://github.com/reason-seoul/rescript-collection) - Fast and efficient, persistent immutable collection for JS written in 100% ReScript.
 
 ## Links
 

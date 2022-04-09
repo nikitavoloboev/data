@@ -314,6 +314,7 @@
 - [Albatross](https://github.com/kevinzhow/albatross) - Swift webhook handler which designed to translate and forward Github Webhook to Other Webhook.
 - [HTMLString](https://github.com/alexisakers/HTMLString) - Escape and unescape HTML entities in Swift.
 - [Socket](https://github.com/PureSwift/Socket) - Swift async/await based socket.
+- [DOMKit](https://github.com/swiftwasm/DOMKit) - Type-safe access to DOM APIs from Swift.
 
 ## SwiftUI
 

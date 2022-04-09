@@ -156,3 +156,5 @@
 - [From rigid to soft to biological robots (2022)](https://www.youtube.com/watch?v=UxVOvf1uM64)
 - [iSDF: Real-Time Neural Signed Distance Fields for Robot Perception (2022)](https://joeaortiz.github.io/iSDF/) ([Code](https://github.com/facebookresearch/iSDF))
 - [CHAMP](https://github.com/chvmp/champ) - Open source development framework for building new quadrupedal robots and developing new control algorithms.
+- [Urdfpy](https://github.com/mmatl/urdfpy) - Python parser for URDFs.
+- [SimNet: Enabling Robust Unknown Object Manipulation from Pure Synthetic Data via Stereo (2021)](https://arxiv.org/abs/2106.16118) ([Code](https://github.com/ToyotaResearchInstitute/simnet))

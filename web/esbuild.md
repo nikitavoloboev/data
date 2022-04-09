@@ -7,3 +7,4 @@
 - [esbuild-plugin-global-externals](https://github.com/fal-works/esbuild-plugin-global-externals) - esbuild plugin for replacing imports with global variables.
 - [esbuild-server](https://github.com/oblador/esbuild-server) - Fast, lightweight and powerful development server for esbuild.
 - [nanobundle](https://github.com/cometkim/nanobundle) - Build tool for libraries, powered by esbuild.
+- [Tauque](https://github.com/CTNicholas/tauque) - Zero-config JS/TS bundler with serious pulling power. Uses esbuild.

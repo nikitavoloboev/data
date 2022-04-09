@@ -1,6 +1,8 @@
 # [React Native](https://facebook.github.io/react-native/)
 
-[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts.
+[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts. [React Native Url Router](https://github.com/software-mansion-labs/react-native-url-router) is neat router.
+
+[zART-Stack](https://github.com/KATT/zart) seems nice.
 
 ## Nice OSS RN apps
 
@@ -204,7 +206,7 @@
 - [React Native Interactive Walkthrough](https://github.com/tribefyhq/react-native-interactive-walkthrough)
 - [Deep dive into React Native JSI (2022)](https://engineering.teknasyon.com/deep-dive-into-react-native-jsi-5fbad4ea8f06)
 - [React Native Toast Message](https://github.com/calintamas/react-native-toast-message) - Animated toast message component for React Native.
-- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100)) ([Tweet](https://twitter.com/FernandoTheRojo/status/1503457235929862154)) ([Example App Code](https://github.com/marklawlor/solito-tailwind))
+- [Solito](https://github.com/nandorojo/solito) - React Native + Next.js, unified. ([Docs](https://solito.dev/)) ([HN](https://news.ycombinator.com/item?id=30678100)) ([Tweet](https://twitter.com/FernandoTheRojo/status/1503457235929862154)) ([Example App Code](https://github.com/marklawlor/solito-tailwind)) ([Example Monorepo](https://github.com/jonsamp/my-solito-app))
 - [An update on the New Architecture Rollout (2022)](https://reactnative.dev/blog/2022/03/15/an-update-on-the-new-architecture-rollout)
 - [React Native Image Modal](https://github.com/dev-yakuza/react-native-image-modal)
 - [Avoid Keyboard in React Native Like a Pro](https://www.netguru.com/blog/avoid-keyboard-react-native) ([Tweet](https://twitter.com/sebastienlorber/status/1504027856854306816))
@@ -226,3 +228,6 @@
 - [React Native Vector Image](https://github.com/oblador/react-native-vector-image) - iOS/Android native vector assets generated from SVG.
 - [React Native TableView List](https://github.com/jacobp100/react-native-tableview-list) - SectionList-like component backed by a UITableView (iOS only).
 - [React Native Material You](https://github.com/Assembless/react-native-material-you) - Material You native module for React Native.
+- [React Native Image Header Scroll View](https://github.com/bamlab/react-native-image-header-scroll-view) - ScrollView with an image in header which becomes a navbar.
+- [React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context) - Flexible way to handle safe area insets in JS.
+- [React Native Hold Menu](https://github.com/enesozturk/react-native-hold-menu) - Performant, easy to use hold to open context menu for React Native powered by Reanimated.

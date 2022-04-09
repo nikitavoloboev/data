@@ -15,6 +15,9 @@
 - [haskell-wasm](https://github.com/SPY/haskell-wasm) - Haskell WebAssembly Toolkit.
 - [Morpheus GraphQL](https://github.com/morpheusgraphql/morpheus-graphql) - Haskell GraphQL API, Client and Tools.
 - [http-streams](https://github.com/aesiniath/http-streams) - Haskell HTTP client library for use with io-streams.
+- [Reflex-DOM](https://github.com/reflex-frp/reflex-dom) - Web applications without callbacks or side-effects.
+- [immortal](https://github.com/UnkindPartition/immortal) - Small library to create threads that never die.
+- [retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail.
 
 ## DB
 
@@ -279,6 +282,8 @@
 - [Scalable records](https://github.com/well-typed/large-records) - Library to support efficient compilation of large records (linear in the number of record fields). ([Article](https://well-typed.com/blog/2022/04/large-anon/))
 - [record-dot-preprocessor](https://github.com/ndmitchell/record-dot-preprocessor) - Preprocessor for a Haskell record syntax using dot.
 - [HasCal](https://github.com/Gabriel439/HasCal) - Haskell embedding of PlusCal.
+- [semirings](https://github.com/chessai/semirings) - Semirings and \*-semirings of types in base/haskell-platform.
+- [Generic Boltzmann Brain](https://github.com/maciej-bendkowski/generic-boltzmann-brain) - Template Haskell library which allows its users to automatically generate efficient multi-parametric analytic Boltzmann samplers for algebraic data types.
 
 ## Notes
 

@@ -188,7 +188,7 @@
 - [timesnap](https://github.com/tungs/timesnap) - Node.js program that takes screenshots at smooth intervals of web pages with JavaScript animations.
 - [Userscript Proxy](https://github.com/SimonAlling/userscript-proxy) - Built around mitmproxy and acts as a MITM, injecting userscripts into web pages as they flow through it.
 - [Hyperbeam API](https://www.hyperbeam.dev/) - Embed Multiplayer Web Browsers. ([HN](https://news.ycombinator.com/item?id=30433104))
-- [Reliably Send an HTTP Request as a User Leaves a Page (2022)](https://css-tricks.com/send-an-http-request-on-page-exit/)
+- [Reliably Send an HTTP Request as a User Leaves a Page (2022)](https://css-tricks.com/send-an-http-request-on-page-exit/) ([HN](https://news.ycombinator.com/item?id=30942555))
 - [CreepJS](https://abrahamjuliot.github.io/creepjs/) - Creepy device and browser fingerprinting. ([Code](https://github.com/abrahamjuliot/creepjs))
 - [EU plans to mandate less secure certificates in browsers (2022)](https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers) ([Lobsters](https://lobste.rs/s/ae6zsw/eu_plans_mandate_less_secure))
 - [Using files with browsers, in reality (2022)](https://macwright.com/2022/03/04/browsers-and-files.html)
@@ -202,3 +202,4 @@
 - [Cache and Prizes (2022)](https://infrequently.org/2022/03/cache-and-prizes/)
 - [BroadcastChannel](https://github.com/pubkey/broadcast-channel) - Send data across multiple browser-tabs or nodejs-processes + LeaderElection over the channels.
 - [Malvon](https://github.com/Malvion/Malvon) - New macOS Web Browser.
+- [Demodal](https://github.com/AliasIO/demodal) - Browser extension that automatically removes content blocking modals including paywalls, discount offers, promts to sign up or enter your email address and more.

@@ -42,3 +42,4 @@
 - [MovForth](https://github.com/Reschivon/movForth) - Compiler for the Forth language using LLVM.
 - [lbForth](https://github.com/larsbrinkhoff/lbForth) - Self-hosting metacompiled Forth, bootstrapping from a few lines of C.
 - [microCore](https://github.com/microCore-VHDL/microCore) - Hardware/software co-design environment based on Forth and VHDL.
+- [STOICAL](https://github.com/mikewarot/stoical) - Forth like language, but better.

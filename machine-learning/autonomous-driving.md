@@ -59,3 +59,4 @@
 - [Awesome CARLA](https://github.com/Amin-Tgz/awesome-CARLA) - CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems.
 - [CamLiFlow: Bidirectional Camera-LiDAR Fusion for Joint Optical Flow and Scene Flow Estimation (2022)](https://arxiv.org/abs/2111.10502) ([Code](https://github.com/MCG-NJU/CamLiFlow))
 - [YOLOP: You Only Look Once for Panoptic Driving Perception (2022)](https://arxiv.org/abs/2108.11250) ([Code](https://github.com/hustvl/YOLOP))
+- [Learning from All Vehicles (2022)](https://arxiv.org/abs/2203.11934) ([Code](https://github.com/dotchen/LAV))

@@ -109,6 +109,7 @@
 ## Web
 
 - Performance check - use [WebPageTest](https://webpagetest.org/)
+- [Feedback Fin](https://github.com/rowyio/feedbackfin) for collecting feedback.
 
 ## Design System
 

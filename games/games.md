@@ -54,6 +54,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Squabble](https://squabble.me/) - Multiplayer Wordle Royale. ([HN](https://news.ycombinator.com/item?id=30190004))
 - [Quordle](https://www.quordle.com/#/) - Four Wordles in One. ([HN](https://news.ycombinator.com/item?id=30373342))
 - [Krunker](https://krunker.io/) - Fast 3D Shooter in Browser.
+- [Eight Colors](https://eightcolors.net/) - Puzzle Game in HTML5. ([HN](https://news.ycombinator.com/item?id=30956775))
 
 ## Awesome OSS games
 

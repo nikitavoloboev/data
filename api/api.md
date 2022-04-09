@@ -134,6 +134,7 @@
 - [Coinbase Rust](https://github.com/j16r/coinbase-rs)
 - [Last.fm and Libre.fm Python](https://github.com/pylast/pylast)
 - [Toggl Python](https://github.com/matthewdowney/TogglPy)
+- [Chromecast Node](https://github.com/alxhotel/chromecast-api)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [Gfycat Python](https://github.com/ankeshanand/py-gfycat)
 - [TikTok Python](https://github.com/davidteather/TikTok-Api) - Unofficial API.
@@ -152,6 +153,7 @@
 - [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile instagram API.
 - [Fastly Go](https://github.com/fastly/go-fastly)
+- [CoinGecko Go](https://github.com/superoo7/go-gecko)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [Iron Fish](https://github.com/iron-fish/ironfish-api) - Public Iron Fish API.
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
@@ -186,6 +188,7 @@
 
 - [API should be only sending values it actually has or at least not null but same type values: e.g. items array should never turn null even if empty but rather an empty array.](https://twitter.com/oleg008/status/1444223180185481217)
 - [APIs should be built around the needs of the consumers, not the providers](https://twitter.com/andrewingram/status/1446055084773740545)
+- [Treat users as "busy" rather than "idiots". Don't underestimate users. Build libraries, not (just) scripts. Teach by example. With this perspective, good API design falls into place: 1. Layered API with good defaults. 2. Short high-currency examples. 3. Paced introduction to more concepts.](https://twitter.com/soumithchintala/status/1512273107976962048)
 
 ## Links
 

@@ -139,6 +139,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Doughnut](https://github.com/dyerc/Doughnut) - Podcast app. For Mac.
 - [Collected App](https://github.com/RoyalIcing/CollectedApp)
 - [NativeYoutube](https://github.com/Aayush9029/NativeYoutube) - Personal App that turned into "alpha released app".
+- [Schemes](https://github.com/helje5/Schemes) - List apps with their registered schemes in macOS Launch Services.
 
 ## Other interesting apps
 
@@ -188,6 +189,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Quiver](https://happenapps.com/#quiver) - Programmer's Notebook.
 - [SOL](https://github.com/ospfranco/sol) - macOS global command palette. Raycast/Spotlight alternative.
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ([CLI](https://github.com/sindresorhus/one-thing))
+- [SF Menu Bar](https://apps.apple.com/app/id1615595104) - Browse Apple's collection of over 3,300 SF Symbols and quickly copy a symbol's name to the clipboard.
 
 ## Links
 
@@ -239,3 +241,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Ask HN: Book Recommendation for macOS Development (2022)](https://news.ycombinator.com/item?id=30753584) ([Lobsters](https://lobste.rs/s/hjk1gx/book_recommendation_for_macos))
 - [Show your desktop & dock (2022)](https://twitter.com/avstorm/status/1506721880752984077)
 - [Mac software I love](https://gist.github.com/devnoname120/4767a0aa18879217170fd0c68809fc24)
+- [Why Remotion is a native macOS app (not Electron) (2021)](https://www.remotion.com/blog/why-remotion-is-a-native-macos-app-not-electron) ([HN](https://news.ycombinator.com/item?id=30956846))

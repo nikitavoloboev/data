@@ -122,3 +122,4 @@
 - [Parser](https://github.com/whitequark/parser) - Ruby parser.
 - [Thanos](https://github.com/redneckbeard/thanos) - Ruby -> Go at the snap of your fingers.
 - [Please stop calling it "magic" (2017)](https://zverok.space/blog/2017-10-22-stop-magic.html) ([Lobsters](https://lobste.rs/s/3odol5/please_stop_calling_it_magic))
+- [Ruby 3.2 preview 1 with support for WASM compilation (2022)](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=30947793))

@@ -55,3 +55,4 @@
 - [Excalidraw Slides](https://excalidraw-slides.netlify.app/) - Create slides using Excalidraw. ([Code](https://github.com/scastiel/excalidraw-slides))
 - [tlsides](https://www.tlslides.com/) - Create slides using tldraw. ([Code](https://github.com/nimeshnayaju/tlslides))
 - [Template for RevealJS talk slides using Pug, KaTeX, Stylus, CoffeeScript, SVG Tiler, SVG.js](https://github.com/edemaine/reveal-pug-talk)
+- [slipshow](https://github.com/panglesd/slipshow) - Engine for displaying slips, the next-gen version of slides.

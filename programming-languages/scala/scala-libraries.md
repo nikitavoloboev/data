@@ -167,6 +167,8 @@
 - [Futiles](https://github.com/johanandren/futiles) - Missing utils for working with Scala Futures.
 - [spray-json](https://github.com/spray/spray-json) - Lightweight, clean and simple JSON implementation in Scala.
 - [sconfig](https://github.com/ekrich/sconfig) - Configuration library written in Scala which is a direct translation of the original widely used Java library.
+- [Akka Stream Contrib](https://github.com/akka/akka-stream-contrib)
+- [Jsoniter Scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs.
 
 ## Links
 

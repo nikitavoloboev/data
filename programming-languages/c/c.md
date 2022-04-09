@@ -161,7 +161,7 @@
 - [Libdill: Structured Concurrency for C (2016)](http://libdill.org/structured-concurrency.html) ([HN](https://news.ycombinator.com/item?id=27357295))
 - [Goodbye C++, Hello C (2021)](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html) ([HN](https://news.ycombinator.com/item?id=27637266))
 - [CompCert](https://github.com/AbsInt/CompCert) - Formally-verified C compiler. ([Web](https://compcert.org/)) ([HN](https://news.ycombinator.com/item?id=27648735))
-- [When static makes your C code 10 times faster (2021)](https://mazzo.li/posts/c-performance-anecdote.html) ([HN](https://news.ycombinator.com/item?id=27729377))
+- [When static makes your C code 10 times faster (2021)](https://mazzo.li/posts/c-performance-anecdote.html) ([HN](https://news.ycombinator.com/item?id=27729377)) ([Lobsters](https://lobste.rs/s/puknrj/when_static_makes_your_c_code_10_times))
 - [Goodbye C developers: The future of programming with certified program synthesis (2021)](https://gopiandcode.uk/logs/log-certified-synthesis.html) ([Lobsters](https://lobste.rs/s/yl1klr/goodbye_c_developers_future_programming))
 - [Macros on Steroids, Or: How Can Pure C Benefit From Metaprogramming (2021)](https://hirrolot.github.io/posts/macros-on-steroids-or-how-can-pure-c-benefit-from-metaprogramming.html)
 - [CGuard: Efficient Spatial Safety for C (2021)](https://arxiv.org/pdf/2107.10533.pdf)

@@ -156,3 +156,4 @@
 - [THESAN](https://www.thesan-project.com/thesan.html) - Simulated how the first stars lit up & heated the universe in the first billion years after the Big Bang.
 - [Разбор радиоизображений MeerKAT — что находится прямо в сердце Млечного Пути (2022)](https://habr.com/ru/post/649997/)
 - [Bizarre space circle captured in unprecedented detail (2022)](https://www.nature.com/articles/d41586-022-00861-6) ([HN](https://news.ycombinator.com/item?id=30833890))
+- [Astronomers just discovered the farthest object in the known universe (2022)](https://www.livescience.com/farthest-astronomical-object-ever-seen) ([HN](https://news.ycombinator.com/item?id=30960668))

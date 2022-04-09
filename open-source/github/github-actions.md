@@ -195,6 +195,7 @@
 - [Add to Project](https://github.com/actions/add-to-project) - Automate adding issues and pull requests to GitHub Actions.
 - [Code Climate Action](https://github.com/paambaati/codeclimate-action) - GitHub action that publishes your code coverage to Code Climate.
 - [Debug via SSH](https://github.com/luchihoratiu/debug-via-ssh) - Allows you to connect to a GitHub Actions runner via SSH for interactive debugging using ngrok.
+- [semantic-release/github](https://github.com/semantic-release/github) - Publish a GitHub release and comment on released Pull Requests/Issues.
 
 ## Go
 
@@ -209,6 +210,7 @@
 - [Revive Action](https://github.com/morphy2k/revive-action) - Lint your Go code with Revive.
 - [goreadme](https://github.com/posener/goreadme) - Generate readme file from Go doc. Available as GitHub action.
 - [x](https://github.com/go-faster/x) - Go faster reusable workflows.
+- [coverage-badge-go](https://github.com/tj-actions/coverage-badge-go) - Generate coverage badge for go modules.
 
 ## Rust
 
@@ -243,6 +245,7 @@
 - [pkg-size action](https://github.com/pkg-size/action) - GitHub Action for getting automated size reports on your pull-requests.
 - [actions-package-update](https://github.com/taichi/actions-package-update) - Keeps npm dependencies up-to-date by making pull requests from GitHub Actions or CI.
 - [Setup pnpm](https://github.com/pnpm/action-setup) - Install pnpm package manager.
+- [Build and Tag action](https://github.com/JasonEtco/build-and-tag-action) - GitHub Action for publishing JavaScript Actions.
 
 ## TS
 
@@ -284,6 +287,7 @@
 ## Kubernetes
 
 - [GitHub Action for Kubernetes CLI](https://github.com/steebchen/kubectl) - Provides kubectl for GitHub Actions.
+- [setup-minikube](https://github.com/medyagh/setup-minikube) - Run minikube in github actions, continuous integration against Kubernetes in github actions.
 
 ## Nix
 
