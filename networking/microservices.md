@@ -104,3 +104,4 @@
 - [Microservices: Why Are We Doing This? (2022)](https://michaeldehaan.substack.com/p/microservices-why-are-we-doing-this) ([HN](https://news.ycombinator.com/item?id=30758723))
 - [Authorization in a Microservices World (2022)](https://www.alexanderlolis.com/authorization-in-a-microservices-world) ([HN](https://news.ycombinator.com/item?id=30878926))
 - [Migrate from Monolith to Microservices (2020)](https://www.split.io/blog/migrate-monolith-to-microservices/) ([Tweet](https://twitter.com/davekarow/status/1486048106332319744))
+- [Apache ShenYu](https://shenyu.apache.org/) - High-performance, multi-protocol, extensible, responsive API Gateway. ([Code](https://github.com/apache/incubator-shenyu))

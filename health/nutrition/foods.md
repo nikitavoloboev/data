@@ -153,3 +153,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Crop Map Generation](https://github.com/nasaharvest/crop-mask) - End-to-end workflow for generating high resolution cropland maps.
 - [How could the war in Ukraine impact global food supplies? (2022)](https://ourworldindata.org/ukraine-russia-food)
 - [What food surprised you with how healthy it is?](https://www.reddit.com/r/nutrition/comments/tunr9w/what_food_surprised_you_with_how_healthy_it_is/)
+- [What are some toxic foods for the body that a lot of people eat? (2022)](https://www.reddit.com/r/nutrition/comments/tzt194/what_are_some_toxic_foods_for_the_body_that_a_lot/)

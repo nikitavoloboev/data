@@ -338,3 +338,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [nginx-lua-m](https://github.com/Amondo/nginx-lua-mp4) - On-demand video transcoding module for nginx and OpenResty with upstream support.
 - [Towards An End-to-End Framework for Flow-Guided Video Inpainting (2022)](https://arxiv.org/abs/2204.02663) ([Code](https://github.com/MCG-NKU/E2FGVI))
 - [Video Hub App](https://videohubapp.com/en/) - Fastest way to browse and search for videos on your computer. ([Code](https://github.com/whyboris/Video-Hub-App))
+- [Anno.so](https://anno.so/) - Annotate, comment & share your videos. ([HN](https://news.ycombinator.com/item?id=30968391))

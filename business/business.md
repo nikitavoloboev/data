@@ -146,3 +146,4 @@ Learning to build [startups](startups/startups.md).
 - [Accounting for SaaS and swords (2022)](https://bam.kalzumeus.com/archive/accounting-for-saas-and-swords/)
 - [Ask HN: What do you do when competition signs up for your service? (2022)](https://news.ycombinator.com/item?id=30812066)
 - [Your First Business Should Be A Spreadsheet (2021)](https://endler.dev/2021/first-business/)
+- [What are some lesser-known industries that's dominated by just 1-3 companies? (2022)](https://www.reddit.com/r/stocks/comments/tzoif7/what_are_some_lesserknown_industries_thats/)

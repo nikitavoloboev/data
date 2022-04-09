@@ -6,7 +6,7 @@ I publish most of my work and make it open source for other people to use and re
 
 [Here](../../sharing/my-github.md) you can find all the repositories I shared.
 
-[GitHub CLI](https://github.com/cli/cli) is useful.
+[GitHub CLI](https://github.com/cli/cli) is useful. One thing I want to do is meet top GitHub contributors from different countries and talk with them. [Git Stars](https://git-stars.com/users) provides a neat tool for that.
 
 ## Interesting GitHub Bios
 
@@ -385,3 +385,4 @@ Awesome List
 - [Find pull requests that modify a file path in the terminal](https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal/)
 - [GateRepo](https://github.com/Anish-Agnihotri/GateRepo) - Token-gated GitHub Repositories.
 - [github-pewpew](https://adrianmato.com/pewpew) - Clean up your unused repos via CLI. ([Code](https://github.com/adrianmg/github-pewpew))
+- [Git Stars](https://git-stars.com/) - Discover your ranking on GitHub. ([Code](https://github.com/pgrimaud/git-stars))

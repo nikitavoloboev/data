@@ -149,3 +149,4 @@
 - [Obsidian Releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [Create multiple websites from one Obsidian vault](https://starfallprojects.co.uk/blog/obsidian-monorepo/)
 - [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) - Publish your notes in your own personal digital garden.
+- [Obsidian Remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.

@@ -148,3 +148,4 @@
 - [Django FastAPI ORM](https://github.com/kigawas/fastapi-django)
 - [Djantic](https://github.com/jordaneremieff/djantic) - Pydantic models for Django.
 - [nango](https://github.com/nicois/nango) - Streamlining Django forms to provide all the wins of single-page-applications without the pain.
+- [Django PostgreSQL Materialized View Example](https://github.com/s-kust/django-postgresql-view) - Example of how to use a PostgreSQL materialized view in Django to speed up a complex query.

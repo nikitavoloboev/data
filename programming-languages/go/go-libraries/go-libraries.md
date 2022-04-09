@@ -130,6 +130,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Got](https://github.com/ysmood/got) - Enjoyable Go test framework.
 - [Be](https://github.com/carlmjohnson/be) - Generic testing helper for Go.
 - [qt](https://github.com/go-quicktest/qt) - Quick helpers for testing Go applications using generics.
+- [assert](https://github.com/alecthomas/assert) - Simple assertion library using Go generics.
 
 ## Web
 

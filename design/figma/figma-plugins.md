@@ -93,3 +93,4 @@
 - [Figma ML](https://github.com/dusskapark/figma-ml) - Design System Plugin Made with TensorFlow JS - like spell check for design.
 - [Figma Widgets Docs](https://www.figma.com/widget-docs/intro/)
 - [Color Compass](https://www.figma.com/community/plugin/754415266574382747/Color-Compass) - Quickly navigate the color spectrum with designer-focused accuracy. ([Code](https://github.com/jaclyntan/figma-color-compass))
+- [Figma Plugin starter with Rollup bundler](https://github.com/presenta-software/figma-rollup-plugin)

@@ -230,3 +230,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Inbox Shield](https://leavemealone.app/shield/) - Easily screen which emails land in your inbox and stay focused on what matters.
 - [email-seems-valid](https://github.com/Earnifi/email-seems-valid) - Offline email validation - JS or TS.
 - [MailCatcher](https://mailcatcher.me/) - Runs a super simple SMTP server which catches any message sent to it to display in a web interface. ([Code](https://github.com/sj26/mailcatcher))
+- [gmail-yaml-filters](https://github.com/mesozoic/gmail-yaml-filters) - Quick tool for generating Gmail filters from YAML rules.

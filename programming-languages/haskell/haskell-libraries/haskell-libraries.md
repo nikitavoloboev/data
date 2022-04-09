@@ -285,6 +285,9 @@
 - [HasCal](https://github.com/Gabriel439/HasCal) - Haskell embedding of PlusCal.
 - [semirings](https://github.com/chessai/semirings) - Semirings and \*-semirings of types in base/haskell-platform.
 - [Generic Boltzmann Brain](https://github.com/maciej-bendkowski/generic-boltzmann-brain) - Template Haskell library which allows its users to automatically generate efficient multi-parametric analytic Boltzmann samplers for algebraic data types.
+- [These](https://github.com/haskellari/these) - Either-or-both data type, with corresponding hybrid error/writer monad transformer.
+- [Prettyprinter](https://github.com/quchen/prettyprinter) - Modern, extensible and well-documented prettyprinter.
+- [perfect-vector-shuffle](https://github.com/Boarders/perfect-vector-shuffle) - Library for performing shuffles on vectors.
 
 ## Notes
 

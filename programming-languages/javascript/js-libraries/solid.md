@@ -39,3 +39,4 @@
 - [Solid Playground](https://playground.solidjs.com/) - Quickly discover what the solid compiler will generate from your JSX template. ([Code](https://github.com/solidjs/solid-playground))
 - [solid-utils](https://github.com/amoutonbrady/solid-utils) - Ultimate companion of all your solid-js applications.
 - [Solid Slider](https://github.com/davedbase/solid-slider) - Carousel/slider implementation for SolidJS.
+- [SolidHack 2022](https://hack.solidjs.com/) ([Code](https://github.com/solidjs/solidhack-submissions))

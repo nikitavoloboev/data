@@ -702,3 +702,4 @@
 - [RePOSE: Fast 6D Object Pose Refinement via Deep Texture Rendering (2021)](https://arxiv.org/abs/2104.00633) ([Code](https://github.com/sh8/RePOSE))
 - [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition (2021)](https://arxiv.org/abs/2103.12579) ([Code](https://github.com/BIT-DA/MetaSAug))
 - [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation (2022)](https://arxiv.org/abs/2203.07615) ([Code](https://github.com/chunbolang/BAM))
+- [MAXIM: Multi-Axis MLP for Image Processing (2022)](https://arxiv.org/abs/2201.02973) ([Code](https://github.com/google-research/maxim))

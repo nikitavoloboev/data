@@ -766,3 +766,4 @@
 - [The Future of Machine Learning Tools (2021)](https://skok.ai/machine%20learning/tools/2021/12/06/the-future-of-machine-learning-tools.html)
 - [Transformers Are All You Need: Quick tour through the most popular Neural Net architecture (2022)](https://www.pinecone.io/learn/transformers/)
 - [Transformers in Time Series](https://github.com/qingsongedu/time-series-transformers-review) - Curated list of awesome resources (paper, code, data, etc.) on transformers in time series.
+- [SRBench: A Living Benchmark for Symbolic Regression (2022)](https://cavalab.org/srbench/) ([Code](https://github.com/cavalab/srbench))
