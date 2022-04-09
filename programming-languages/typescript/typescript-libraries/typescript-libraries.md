@@ -85,6 +85,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Serenity Tools](https://github.com/SerenityNotes/serenity-tools) - Collection of tools to build secure Apps.
 - [opaque-ts](https://github.com/cloudflare/opaque-ts) - TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol.
 
+## Error
+
+- [ts-pojo-error](https://github.com/skarab42/ts-pojo-error) - Type safe pojo error will help you to easily create typed and serializable error.
+
 ## Other
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.
@@ -444,6 +448,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typed-struct](https://github.com/sarakusha/typed-struct) - TypeScript utility library for creating objects that store their properties in a buffer for serialization/deserialization.
 - [remote-ui](https://github.com/Shopify/remote-ui) - Allows you to create custom component APIs in JavaScript that can be used to render UI from a context other than the UI thread, like a web worker.
 - [martha](https://github.com/selfawarestudio/martha) - Tiny collection of convenient JavaScript utilities.
+- [tson](https://github.com/skarab42/tson) - Type Safe Object Notation & Validation.
 
 ## Links
 
@@ -500,3 +505,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [dtsgenerator](https://github.com/horiuchi/dtsgenerator) - TypeScript d.ts file generate from JSON Schema file.
 - [package-bundler](https://github.com/benduran/package-bundler) - CLI for compiling and bundling your TypeScript to ESM & CJS, with deep exports support.
 - [package-check](https://github.com/skypackjs/package-check) - Quality score checker for npm packages.
+- [TypeScript Definitions to Markdown](https://github.com/skarab42/ts-to-md) - VS Code extension that helps you to export your TypeScript definitions in Markdown format.

@@ -690,3 +690,4 @@
 - [KubeKey](https://github.com/kubesphere/kubekey) - Open-source lightweight tool for deploying Kubernetes clusters.
 - [OPAL](https://github.com/permitio/opal) - Policy and data administration, distribution, and real-time updates on top of Open Policy Agent.
 - [Service mesh for Kubernetes and beyond. gRPC API bindings repo for Linkerd 2.x.](https://github.com/linkerd/linkerd2-proxy-api)
+- [Kubernetes Cluster Federation](https://github.com/kubernetes-sigs/kubefed) - Allows you to coordinate the configuration of multiple Kubernetes clusters from a single set of APIs in a hosting cluster.

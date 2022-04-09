@@ -8,6 +8,10 @@ The Gist of Redux is a follows:
 
 There are [better approaches to manage state in React now](https://twitter.com/kamyshev_dev/status/1441736479240122372). [Sometimes Redux can be useful](https://www.reddit.com/r/reactjs/comments/s4hxd2/how_do_you_know_if_a_project_will_need_redux/) perhaps.
 
+## OSS Redux apps
+
+- [NextJS + Redux template](https://github.com/iShibi/nextjs-template)
+
 ## Notes
 
 - OwnPops is something your component receives from the parent. StateProps is something your component receives from the Redux store.
