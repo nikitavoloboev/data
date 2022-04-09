@@ -42,3 +42,4 @@
 - [Denoising diffusion probabilistic models](https://github.com/acids-ircam/diffusion_models) - Series of tutorial notebooks on denoising diffusion probabilistic models in PyTorch.
 - [Probabilistic Machine Learning Book (2022)](https://mitpress.mit.edu/books/probabilistic-machine-learning) ([Tweet](https://twitter.com/sirbayes/status/1493644368070123520))
 - [Miking DPPL](https://github.com/miking-lang/miking-dppl) - Framework for developing probabilistic programming languages (PPLs) using Miking.
+- [ZhuSuan](https://github.com/thu-ml/zhusuan) - Probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow.

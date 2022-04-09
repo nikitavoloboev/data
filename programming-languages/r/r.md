@@ -143,3 +143,5 @@
 - [ggraph](https://github.com/thomasp85/ggraph) - Grammar of Graph Graphics.
 - [ggtree](https://github.com/YuLab-SMU/ggtree) - R package for visualization of phylogenetic trees with their annotation data.
 - [corrr](https://github.com/tidymodels/corrr) - Explore correlations in R.
+- [ggstamp](https://github.com/EvaMaeRey/ggstamp) - Convenience functions for creating annotation layers in the ggplot2 and grammar of graphics framework.
+- [kittyR](https://github.com/IndrajeetPatil/kittyR) - Kitty pictures and meows from R console.

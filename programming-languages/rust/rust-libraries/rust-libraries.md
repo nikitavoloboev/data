@@ -1718,6 +1718,10 @@
 - [jwalk](https://github.com/jessegrosjean/jwalk) - Filesystem walk performed in parallel with streamed and sorted results.
 - [LaunchDarkly Server-Side SDK for Rust](https://github.com/launchdarkly/rust-server-sdk)
 - [Choir](https://github.com/kvark/choir) - Task Orchestration Framework.
+- [mime_guess](https://github.com/abonander/mime_guess) - MIME type guessing of file extensions for Rust.
+- [mini-fs](https://github.com/germangb/mini-fs) - Extensible virtual filesystem for the application layer.
+- [rc-zip](https://github.com/rust-compress/rc-zip) - Pure rust zip & zip64 reading and writing.
+- [Chicon](https://github.com/bnjjj/chicon-rs) - File abstraction system for Rust.
 
 ## Cargo Plugins
 

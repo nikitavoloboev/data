@@ -379,3 +379,4 @@
 - [Why we chose NanoIDs for PlanetScale's API (2022)](https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api)
 - [Yaade](https://github.com/EsperoTech/yaade) - Open-source, self-hosted, collaborative API development environment. ([HN](https://news.ycombinator.com/item?id=30895372))
 - [Reservation-style rate limiting APIs (2022)](https://brandur.org/fragments/reservation-api)
+- [Bad Magic](https://github.com/smartrent/badmagic) - Swagger-UI alternative that allows developers to visualize and test their API resources from a convenient web interface.

@@ -92,3 +92,4 @@
 - [Baresip WebRTC Demo](https://github.com/baresip/baresip-webrtc)
 - [Snowflake](https://github.com/keroserene/snowflake) - WebRTC Pluggable Transport.
 - [WHIP - WebRTC HTTP ingest protocol](https://github.com/wish-wg/webrtc-http-ingest-protocol)
+- [node-webrtc](https://github.com/node-webrtc/node-webrtc) - Node.js Native Addon that provides bindings to WebRTC.

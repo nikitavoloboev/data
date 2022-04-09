@@ -964,3 +964,4 @@
 - [narn](https://github.com/joeldenning/narn) - CLI that detects whether your current npm package is using npm, yarn, or pnpm.
 - [knitwork](https://github.com/unjs/knitwork) - Utilities to generate JavaScript code.
 - [JSDoc](https://github.com/jsdoc/jsdoc) - API documentation generator for JavaScript. ([Web](https://jsdoc.app/))
+- [Shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports.

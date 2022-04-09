@@ -1127,3 +1127,4 @@
 - [CloudKit Samples: Core Data with CloudKit](https://github.com/apple/cloudkit-sample-coredatasync)
 - [Swift Sample Distributed Actors Transport](https://github.com/apple/swift-sample-distributed-actors-transport)
 - [Swift Documentation Extract](https://github.com/swift-biome/swift-documentation-extract) - SPM plugin for generating symbolgraphs and cataloging DocC documentation.
+- [Data Caching with NSCache (2021)](https://mattrighetti.com/2021/06/16/data-caching-nscache.html)

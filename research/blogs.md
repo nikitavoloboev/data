@@ -115,6 +115,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Rik Huijzer](https://huijzer.xyz/)
 - [Nelson Elhage](https://blog.nelhage.com/)
 - [Bjango](https://bjango.com/articles/)
+- [Mattia Righetti](https://mattrighetti.com/)
 
 ## Notes
 

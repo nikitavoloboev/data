@@ -147,3 +147,5 @@ Learning to build [startups](startups/startups.md).
 - [Ask HN: What do you do when competition signs up for your service? (2022)](https://news.ycombinator.com/item?id=30812066)
 - [Your First Business Should Be A Spreadsheet (2021)](https://endler.dev/2021/first-business/)
 - [What are some lesser-known industries that's dominated by just 1-3 companies? (2022)](https://www.reddit.com/r/stocks/comments/tzoif7/what_are_some_lesserknown_industries_thats/)
+- [The 5 Dumbest Company Buyouts in History (2021)](https://www.youtube.com/watch?v=9Uh8Pz43KtQ)
+- [What was the smartest Corporate Buyout of All Time? (2020)](https://www.youtube.com/watch?v=XFEW4rr1xb0)

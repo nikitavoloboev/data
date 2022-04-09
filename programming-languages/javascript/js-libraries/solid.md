@@ -40,3 +40,4 @@
 - [solid-utils](https://github.com/amoutonbrady/solid-utils) - Ultimate companion of all your solid-js applications.
 - [Solid Slider](https://github.com/davedbase/solid-slider) - Carousel/slider implementation for SolidJS.
 - [SolidHack 2022](https://hack.solidjs.com/) ([Code](https://github.com/solidjs/solidhack-submissions))
+- [solid-spring](https://github.com/Aslemammad/solid-spring) - Port of react-spring, for SolidJS.

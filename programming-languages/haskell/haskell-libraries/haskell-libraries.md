@@ -288,6 +288,7 @@
 - [These](https://github.com/haskellari/these) - Either-or-both data type, with corresponding hybrid error/writer monad transformer.
 - [Prettyprinter](https://github.com/quchen/prettyprinter) - Modern, extensible and well-documented prettyprinter.
 - [perfect-vector-shuffle](https://github.com/Boarders/perfect-vector-shuffle) - Library for performing shuffles on vectors.
+- [cron](https://github.com/MichaelXavier/cron) - Cron data structure and parser for Haskell.
 
 ## Notes
 

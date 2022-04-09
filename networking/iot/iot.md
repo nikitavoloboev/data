@@ -85,3 +85,4 @@
 - [EMQ](https://www.emqx.com/en) - Modern Data Infrastructure for IoT. ([GitHub](https://github.com/emqx)) ([Twitter](https://twitter.com/EMQTech))
 - [thin-edge.io](https://thin-edge.io/) - Open edge framework for lightweight IoT devices. ([Code](https://github.com/thin-edge/thin-edge.io))
 - [Seeed Studio Bazaar](https://www.seeedstudio.com/) - IoT Hardware enabler.
+- [Nexus](https://github.com/mobius-home/nexus) - Centralized server for collecting IoT metric data for Elixir/Nerves devices using Mobius.

@@ -35,6 +35,7 @@
 - [Remix + React 18 Streaming](https://github.com/jacob-ebey/remix-react-18-streaming)
 - [Remix GraphCMS Doc Starter](https://github.com/GraphCMS/docs-starter)
 - [Remix on the Bun runtime](https://github.com/jacob-ebey/remix-bun)
+- [Remix on AWS API Gateway v2 & Lambda](https://github.com/m14t/remix-run-apigateway)
 
 ## Plugins
 

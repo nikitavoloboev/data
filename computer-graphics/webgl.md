@@ -93,3 +93,4 @@
 - [Drawing with circles](https://phqb.github.io/circle_drawing/) ([HN](https://news.ycombinator.com/item?id=30530376))
 - [WebGl 2D Scatterplot with Regl](https://github.com/flekschas/regl-scatterplot)
 - [WebGL Usage Patterns at Squarespace (2022)](https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw)
+- [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu/) ([HN](https://news.ycombinator.com/item?id=30965352))

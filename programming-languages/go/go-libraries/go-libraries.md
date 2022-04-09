@@ -1543,6 +1543,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [replaylog](https://github.com/alecthomas/replaylog) - Type safe implementation of an op replay log.
 - [csvparser](https://github.com/plagioriginal/csvparser) - Fast, easy-of-use and dependency free custom mapping from .csv data into Go structs.
 - [Sparse Merkle Tree](https://github.com/aergoio/SMT) - Performance oriented implementation of a binary SMT with parallel update, node batching and storage shortcuts.
+- [packit](https://github.com/paketo-buildpacks/packit) - Provides primitives for implementing a Cloud Native Buildpack according to the specification.
 
 ## Links
 

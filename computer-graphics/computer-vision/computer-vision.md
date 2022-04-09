@@ -703,3 +703,4 @@
 - [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition (2021)](https://arxiv.org/abs/2103.12579) ([Code](https://github.com/BIT-DA/MetaSAug))
 - [Learning What Not to Segment: A New Perspective on Few-Shot Segmentation (2022)](https://arxiv.org/abs/2203.07615) ([Code](https://github.com/chunbolang/BAM))
 - [MAXIM: Multi-Axis MLP for Image Processing (2022)](https://arxiv.org/abs/2201.02973) ([Code](https://github.com/google-research/maxim))
+- [Tensil tutorial for YOLO v4 Tiny on Ultra96 V2 (2022)](https://k155la3.blog/2022/04/04/tensil-tutorial-for-yolo-v4-tiny-on-ultra96-v2/)

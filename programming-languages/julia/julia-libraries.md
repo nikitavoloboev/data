@@ -87,6 +87,7 @@
 - [ExplainableAI.jl](https://github.com/adrhill/ExplainableAI.jl) - XAI in Julia using Flux.
 - [NoiseRobustDifferentiation.jl](https://github.com/adrhill/NoiseRobustDifferentiation.jl) - Total Variation Regularized Numerical Differentiation.
 - [MethodOfLines.jl](https://github.com/SciML/MethodOfLines.jl) - Automatic Finite Difference PDE solving with Julia SciML.
+- [Yota.jl](https://github.com/dfdx/Yota.jl) - Reverse-mode automatic differentiation in Julia.
 
 ## Math
 

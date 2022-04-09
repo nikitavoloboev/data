@@ -192,3 +192,4 @@
 - [State restoration in SwiftUI (2022)](https://swiftwithmajid.com/2022/03/10/state-restoration-in-swiftui/)
 - [SwiftUI Concurrency Essentials](https://peterfriese.dev/posts/swiftui-concurrency-essentials-part1/) ([Code](https://github.com/peterfriese/SwiftUI-Concurrency-Essentials))
 - [WWDC22 artwork in SwiftUI](https://github.com/atrinh0/wwdc22)
+- [SwiftUI and CoreData: The MVVM Way (2021)](https://mattrighetti.com/2021/02/03/swiftui-and-coredata-mvvm.html)

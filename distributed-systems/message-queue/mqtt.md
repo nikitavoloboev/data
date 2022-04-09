@@ -38,3 +38,4 @@
 - [Mqttrs](https://github.com/00imvj00/mqttrs) - Rust crate (library) to write MQTT protocol clients and servers.
 - [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
 - [Mochi MQTT](https://github.com/mochi-co/mqtt) - Embeddable lightweight, high-performance Go MQTT Server (broker) for IoT and PubSub.
+- [Jackalope](https://github.com/smartrent/jackalope) - Opinionated MQTT client library based on Tortoise MQTT.

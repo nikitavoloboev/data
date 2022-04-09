@@ -118,3 +118,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [I decided that I must live my life on my terms](https://news.ycombinator.com/item?id=30918495)
 - [Men, what are some hard to swallow pills?](https://www.reddit.com/r/AskMen/comments/twvydp/men_what_are_some_hard_to_swallow_pills/)
 - [Ask HN: What do you think is all this? (this reality, existence, space-time, us) (2022)](https://news.ycombinator.com/item?id=30928647)
+- [Ask HN: What do you do to recharge after a day of work? (2022)](https://news.ycombinator.com/item?id=30969437)

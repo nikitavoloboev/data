@@ -23,3 +23,4 @@
 - [Bevy Intro Tutorials - YouTube](https://www.youtube.com/playlist?list=PLT_D88-MTFOPPl75g4WshL1Gx2bnGTUkz)
 - [Bevy Jam](https://itch.io/jam/bevy-jam-1)
 - [Jam Bevy Jam](https://github.com/killercup/marmalade) - Bevy game for the first Bevy Jam.
+- [Composable Alternatives to Bevy's RunCriteria, States, FixedTimestep](https://github.com/IyesGames/iyes_loopless)

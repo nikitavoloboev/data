@@ -6,7 +6,7 @@ Spent most of the time in Costa by the beach writing code. I want to create some
 
 ## Listened
 
-Discovered [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) this month too, [she is great](https://open.spotify.com/track/0YRYs1HSkie0eZ02ON4euX). Got a new goal of listening to [this song](https://open.spotify.com/track/2k750ut7R7B2M2oWZtE2jC) while walking in some new city in evening.
+Discovered [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) this month, [she is great](https://open.spotify.com/track/0YRYs1HSkie0eZ02ON4euX). Got a new goal of listening to [this song](https://open.spotify.com/track/2k750ut7R7B2M2oWZtE2jC) while walking in some new city in evening.
 
 ![](https://i.imgur.com/xYQEhPM.png)
 
