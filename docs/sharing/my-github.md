@@ -1,3 +1,7 @@
+---
+title: My GitHub
+---
+
 # My [GitHub](https://github.com/nikitavoloboev) repositories
 
 ## Learn Anything
