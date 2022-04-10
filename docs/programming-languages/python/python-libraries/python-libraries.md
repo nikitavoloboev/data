@@ -930,3 +930,4 @@
 - [package-stats](https://github.com/simonw/package-stats) - Download statistics for my PyPI packages.
 - [pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite) - Load data about Python packages from PyPI into SQLite.
 - [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage) - Docstring coverage analysis and rating for Python.
+- [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python.

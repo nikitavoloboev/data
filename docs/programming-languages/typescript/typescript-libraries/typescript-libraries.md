@@ -506,3 +506,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [package-bundler](https://github.com/benduran/package-bundler) - CLI for compiling and bundling your TypeScript to ESM & CJS, with deep exports support.
 - [package-check](https://github.com/skypackjs/package-check) - Quality score checker for npm packages.
 - [TypeScript Definitions to Markdown](https://github.com/skarab42/ts-to-md) - VS Code extension that helps you to export your TypeScript definitions in Markdown format.
+- [rev-dep](https://github.com/jayu/rev-dep) - File dependency debugging tool for TypeScript projects.
