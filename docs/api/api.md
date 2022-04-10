@@ -153,6 +153,7 @@
 - [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
 - [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile instagram API.
 - [Fastly Go](https://github.com/fastly/go-fastly)
+- [Incident.io Go](https://github.com/andygrunwald/go-incident)
 - [CoinGecko Go](https://github.com/superoo7/go-gecko)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [Iron Fish](https://github.com/iron-fish/ironfish-api) - Public Iron Fish API.
