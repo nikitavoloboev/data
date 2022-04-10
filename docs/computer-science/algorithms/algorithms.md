@@ -107,6 +107,7 @@
 - [Algorithm Wiki | Interactive algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/)
 - [Advanced Algorithms (CS 224) (2022)](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html)
 - [Restartable sequences with the polysemic null segment selector (2018)](https://pvk.ca/Blog/2018/08/25/restartable-sequences-with-the-polysemic-null-segment-selector/)
+- [Engineering In-place (Shared-memory) Sorting Algorithms (2020)](https://arxiv.org/abs/2009.13569) ([Code](https://github.com/ips4o/ips2ra))
 
 ## Images
 

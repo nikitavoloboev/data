@@ -692,3 +692,6 @@
 - [Service mesh for Kubernetes and beyond. gRPC API bindings repo for Linkerd 2.x.](https://github.com/linkerd/linkerd2-proxy-api)
 - [Kubernetes Cluster Federation](https://github.com/kubernetes-sigs/kubefed) - Allows you to coordinate the configuration of multiple Kubernetes clusters from a single set of APIs in a hosting cluster.
 - [Zeitgeist](https://github.com/kubernetes-sigs/zeitgeist) - Language-agnostic dependency checker that keeps track of external dependencies across your project and ensure they're up-to-date.
+- [MPI Operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.).
+- [Node Feature Discovery Operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator) - Operator for managing Node Feature Discovery deployment.
+- [Node Feature Discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes.

@@ -473,6 +473,7 @@
 - [Camera-SwiftUI](https://github.com/rorodriguez116/Camera-SwiftUI) - Lightweight camera library for quick integration with SwiftUI - iOS/iPadOS only.
 - [ShapeUp](https://github.com/ryanlintott/ShapeUp) - Make shapes and cut corners in SwiftUI.
 - [SwiftUI Animation](https://github.com/Arvindcs/SwiftUI-Animation)
+- [Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) - Declarative state management and dependency injection library for SwiftUI x Concurrency.
 
 ## Test
 

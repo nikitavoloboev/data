@@ -816,6 +816,7 @@
 - [DataFusion in Python](https://github.com/datafusion-contrib/datafusion-python)
 - [PrettyTable](https://github.com/jazzband/prettytable) - Display tabular data in a visually appealing ASCII table format.
 - [holpy](https://github.com/bzhan/holpy) - Implementation of higher-order logic in Python.
+- [Quart-Trio](https://github.com/pgjones/quart-trio) - Extension for Quart to support the Trio event loop.
 
 ## Links
 

@@ -1546,6 +1546,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Sparse Merkle Tree](https://github.com/aergoio/SMT) - Performance oriented implementation of a binary SMT with parallel update, node batching and storage shortcuts.
 - [packit](https://github.com/paketo-buildpacks/packit) - Provides primitives for implementing a Cloud Native Buildpack according to the specification.
 - [go-multiaddr](https://github.com/multiformats/go-multiaddr) - Composable and future-proof network addresses.
+- [Go-Attestation](https://github.com/google/go-attestation) - Abstracts remote attestation operations across a variety of platforms and TPMs, enabling remote validation of machine identity and state.
+- [Go-TPM](https://github.com/google/go-tpm) - Go library that communicates directly with a TPM device.
+- [packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec.
 
 ## Links
 

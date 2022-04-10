@@ -50,6 +50,7 @@
 - [Detector for Docker Socket (DDS)](https://github.com/aws-containers/kubectl-detector-for-docker-socket) - kubectl plugin to detect if active Kubernetes workloads are mounting the docker socket (docker.sock) volume.
 - [krelay](https://github.com/knight42/krelay) - Better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
 - [kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) - kubectl plugin that show the subject that's currently authenticated as.
+- [kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect) - Kubectl plugin to list pod containers' status.
 
 ## Operators
 

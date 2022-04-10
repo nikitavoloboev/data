@@ -149,3 +149,5 @@
 - [Djantic](https://github.com/jordaneremieff/djantic) - Pydantic models for Django.
 - [nango](https://github.com/nicois/nango) - Streamlining Django forms to provide all the wins of single-page-applications without the pain.
 - [Django PostgreSQL Materialized View Example](https://github.com/s-kust/django-postgresql-view) - Example of how to use a PostgreSQL materialized view in Django to speed up a complex query.
+- [Django Debug Toolbar](https://github.com/jazzband/django-debug-toolbar) - Configurable set of panels that display various debug information about the current request/response.
+- [Django Ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django.

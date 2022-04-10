@@ -1,3 +1,7 @@
+---
+title: Tmux
+---
+
 # [Tmux](http://en.wikipedia.org/wiki/Tmux)
 
 ## Links

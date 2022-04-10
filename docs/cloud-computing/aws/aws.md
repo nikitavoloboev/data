@@ -1,3 +1,7 @@
+---
+title: AWS
+---
+
 # [AWS](https://aws.amazon.com/)
 
 AWS is genuinely pretty amazing for what it allows you to do. It also has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) seems nice.

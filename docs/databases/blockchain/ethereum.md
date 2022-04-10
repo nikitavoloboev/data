@@ -585,3 +585,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [solver](https://github.com/EVM-SMT/solver) - Proof first, evm specific smt solver.
 - [Check the Chain (ctc)](https://github.com/fei-protocol/checkthechain) - Tool for historical data analysis of Ethereum and other EVM chains.
 - [Underhanded Solidity Contest](https://underhanded.soliditylang.org/) ([Code](https://github.com/ethereum/solidity-underhanded-contest))
+- [ERC721K](https://github.com/kadenzipfel/ERC721K) - Maximally efficient, minimalist ERC-721 implementation.

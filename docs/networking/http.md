@@ -235,3 +235,4 @@
 - [HTTP Script Executor](https://github.com/iamd3vil/http-script-executor) - Simple HTTP server to execute scripts. Executing a script on a remote instance by issuing a HTTP request. This eliminates the need to configure SSH.
 - [Candy](https://github.com/owenthereal/candy) - Zero-config reverse proxy server. It makes proxying applications with local top-leveled domains as frictionless as possible.
 - [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) - Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only.
+- [Server Mockr](https://github.com/boschni/server-mockr) - Mock HTTP APIs for rapid development and reliable testing.

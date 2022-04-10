@@ -290,6 +290,7 @@
 - [Prettyprinter](https://github.com/quchen/prettyprinter) - Modern, extensible and well-documented prettyprinter.
 - [perfect-vector-shuffle](https://github.com/Boarders/perfect-vector-shuffle) - Library for performing shuffles on vectors.
 - [cron](https://github.com/MichaelXavier/cron) - Cron data structure and parser for Haskell.
+- [schematic](https://github.com/typeable/schematic) - Type-safe JSON spec and validation tool.
 
 ## Notes
 

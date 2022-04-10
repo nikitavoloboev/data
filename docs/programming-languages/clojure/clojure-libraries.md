@@ -62,6 +62,11 @@
 - [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset) - Clojure high performance data processing system.
 - [GoodGuesser](https://github.com/drcode/good-guesser) - Approximate a single numerical value using arbitrary input data, given human-labeled examples.
 
+## GraphQL
+
+- [Lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
+- [Plusinia](https://github.com/vlaaad/plusinia) - Solution to N+1 problem in Lacinia.
+
 ## CLI
 
 - [bbb](https://github.com/nikvdp/bbb) - Low friction, quick and easy way to develop CLI tools in Clojure that you can distribute as self-contained static binaries.
@@ -201,6 +206,7 @@
 - [insn](https://github.com/jgpc42/insn) - Functional JVM bytecode generation for Clojure.
 - [transcriptor](https://github.com/cognitect-labs/transcriptor) - Convert REPL interactions into example-based tests.
 - [deps-bin](https://github.com/ericdallo/deps-bin) - Clojure library that builds an embedded executable jar.
+- [lsp4clj](https://github.com/clojure-lsp/lsp4clj) - LSP base support for any LSP that is implemented in Clojure.
 
 ## Links
 

@@ -1,3 +1,7 @@
+---
+title: DNA
+---
+
 # [DNA](http://en.wikipedia.org/wiki/DNA)
 
 ## Notes

@@ -386,3 +386,4 @@ Awesome List
 - [GateRepo](https://github.com/Anish-Agnihotri/GateRepo) - Token-gated GitHub Repositories.
 - [github-pewpew](https://adrianmato.com/pewpew) - Clean up your unused repos via CLI. ([Code](https://github.com/adrianmg/github-pewpew))
 - [Git Stars](https://git-stars.com/) - Discover your ranking on GitHub. ([Code](https://github.com/pgrimaud/git-stars))
+- [gid](https://github.com/k-nasa/gid) - Help project managers and project owners with easy-to-understand views of github issue dependencies.

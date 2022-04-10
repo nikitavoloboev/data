@@ -114,3 +114,4 @@
 - [Text Generation from Knowledge Graphs with Graph Transformers (2019)](https://arxiv.org/abs/1904.02342) ([Code](https://github.com/rikdz/GraphWriter))
 - [KBLRN : End-to-End Learning of Knowledge Base Representations with Latent, Relational, and Numerical Features (2017)](https://arxiv.org/abs/1709.04676) ([Code](https://github.com/mniepert/mmkb))
 - [wikicodex](https://github.com/keroserene/wikicodex) - Knowledge graph traversal interface for Wikipedia.
+- [LinkedDataHub](https://github.com/AtomGraph/LinkedDataHub) - Open source software you can use to manage data, create visualizations and build apps on RDF Knowledge Graphs.

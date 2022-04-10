@@ -1,4 +1,8 @@
-# [Venture capital](https://en.wikipedia.org/wiki/Venture_capital)
+---
+title: Venture Capital
+---
+
+# [Venture Capital](https://en.wikipedia.org/wiki/Venture_capital)
 
 ## Notes
 

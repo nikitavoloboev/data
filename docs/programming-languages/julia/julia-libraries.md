@@ -557,6 +557,7 @@
 - [ReferenceFrameRotations](https://github.com/JuliaSpace/ReferenceFrameRotations.jl) - Toolbox to represent 3D rotations of coordinate frames for Julia language.
 - [StructEquality](https://github.com/jolin-io/StructEquality.jl) - Equality for struct types as you would expect it.
 - [PkgCleanup](https://github.com/giordano/PkgCleanup.jl) - Garbage collects packages and artifacts that are no longer reachable.
+- [BatchedRoutines](https://github.com/Roger-luo/BatchedRoutines.jl) - Batched routines (BLAS, LAPACK, etc.) for multi-dimensional arrays.
 
 ## Links
 

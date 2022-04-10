@@ -1,3 +1,7 @@
+---
+title: DAOs
+---
+
 # [DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 
 ## Interesting

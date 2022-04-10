@@ -45,7 +45,7 @@
 - [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
 - [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
 - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
-- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time.
+- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 
 ## Web
 
@@ -167,7 +167,7 @@
 
 ## GUI
 
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri)) ([Docs Code](https://github.com/tauri-apps/tauri-docs))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri)) ([Docs Code](https://github.com/tauri-apps/tauri-docs)) ([Tauri Plugin Store](https://github.com/tauri-apps/tauri-plugin-store))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
@@ -414,6 +414,7 @@
 ## iOS
 
 - [cargo-cocoapods](https://github.com/bbqsrc/cargo-cocoapods) - Bundle Cargo crates for use with macOS/iOS in Xcode.
+- [uikit-sys](https://github.com/simlay/uikit-sys) - Rust bindings to to iOS UIKit Objective-C framework.
 
 ## UI
 

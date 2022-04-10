@@ -83,6 +83,7 @@ Here are few more things I liked, design wise.
 - [Pointless](https://ptls.dev/)
 - [Lunadio](https://www.lunadio.com/)
 - [Expa](https://www.expa.com/)
+- [Kagi Search](https://kagi.com/)
 - [Dogstudio](https://dogstudio.co/)
 - [hyperlink.academy](https://hyperlink.academy/)
 - [Point-Free](https://www.pointfree.co/)

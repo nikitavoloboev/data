@@ -104,3 +104,4 @@
 - [Three.V8](https://github.com/fynv/Three.V8) - Embeddable 3D Rendering Engine with JS.
 - [Infinite World Generation](https://github.com/JDihlmann/infty) - Demo of the wave form collapse (WFC) algorithm with react three fiber and web assembly (WASM).
 - [Personal vite starter for react-three-fiber projects](https://github.com/mattrossman/r3f-vite)
+- [ThreeJS Helpers](https://github.com/gsimone/things)
