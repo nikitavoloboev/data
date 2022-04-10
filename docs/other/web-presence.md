@@ -41,7 +41,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev)
 - [Kaggle](https://www.kaggle.com/nikitavoloboev)
 - [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6)
-- [Wiki](https://wiki.nikitavoloboev.xyz)
+- [Wiki](https://wiki.nikiv.dev)
 - [Khan Academy](https://khanacademy.org/profile/nikivi)
 - [Quizlet](https://quizlet.com/nikitavoloboev)
 

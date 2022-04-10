@@ -1,6 +1,6 @@
-# [My Knowledge Wiki 🌿](https://wiki.nikitavoloboev.xyz)
+# [My Knowledge Wiki 🌿](https://wiki.nikiv.dev)
 
-This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
+This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online wiki](https://wiki.nikiv.dev) built with [Docusaurus](https://docusaurus.io) on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
 

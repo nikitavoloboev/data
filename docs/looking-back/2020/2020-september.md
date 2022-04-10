@@ -16,7 +16,7 @@ Since then I haven't stopped writing. Well, I haven't done a proper post, like t
 
 Few reasons for it but mostly I hate Medium too much to write another post there and I still haven't gotten around to rebuilding my personal website. So using [Buttondown Email](https://buttondown.email/) as a way to get myself to write long form again. In form of these reflections on the past month. Things I've done & thought about. Things I want to tackle next.
 
-[Looking back](https://wiki.nikitavoloboev.xyz/looking-back) is my personal journal I conduct publicly. I try to be quite open with my struggles and the few successes I get in life. Writing for me is a process of healing. I write it down so I clean up my mind from past baggage. I want to live now and in the moment but I also want to respect the past and learn from it.
+[Looking back](../looking-back.md) is my personal journal I conduct publicly. I try to be quite open with my struggles and the few successes I get in life. Writing for me is a process of healing. I write it down so I clean up my mind from past baggage. I want to live now and in the moment but I also want to respect the past and learn from it.
 
 This first look back is partly inspired by [Gwern's newsletter](https://www.gwern.net/tags/newsletter) & few other newsletters I follow that I did get the time to read. Speaking of newsletters, here is what's inside my Spark email client right now.
 
