@@ -4,6 +4,7 @@
 
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.
 - [`<form method=post>` is good to communicate a mutation.](https://twitter.com/ryanflorence/status/1370403183822921731)
+- [When I work on a website, I set the body to contenteditable="true". This allows you to edit all text on the page, which I find helpful to improve the content, and also enables spell checking.](https://www.reddit.com/r/programming/comments/tzmqua/those_html_attributes_you_never_use/)
 
 ## Code
 
@@ -235,7 +236,7 @@
 - [html2runes](https://github.com/spacecowboy/html2runes) - HTML to Text converter program written in Rust.
 - [One way to archive web pages](https://twitter.com/masukomi/status/1507460071265280001)
 - [Hyntax](https://github.com/mykolaharmash/hyntax) - Straightforward HTML parser for JavaScript.
-- [Those HTML Attributes You Never Use (2022)](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/) ([HN](https://news.ycombinator.com/item?id=30887445))
+- [Those HTML Attributes You Never Use (2022)](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/) ([HN](https://news.ycombinator.com/item?id=30887445)) ([Reddit](https://www.reddit.com/r/programming/comments/tzmqua/those_html_attributes_you_never_use/))
 - [Picture perfect images with the modern img element (2022)](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
 - [How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List (2022)](https://www.smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/)
 - [Designing Better Breadcrumbs (2022)](https://www.smashingmagazine.com/2022/04/designing-better-breadcrumbs/)

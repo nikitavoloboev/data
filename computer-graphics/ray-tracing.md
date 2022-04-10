@@ -106,3 +106,4 @@
 - [How to add thousands of lights to your renderer and not die in the process (2022)](http://www.zyanidelab.com/how-to-add-thousands-of-lights-to-your-renderer/) ([HN](https://news.ycombinator.com/item?id=30795858))
 - [gatling](https://github.com/pablode/gatling) - Hydra-enabled GPU path tracer that supports MaterialX.
 - [Ashes](https://github.com/but0n/Ashes) - WebGL2.0 3D Engine - RayTracing.
+- [Ray tracing, a 4 year retrospective (2022)](https://interplayoflight.wordpress.com/2022/04/09/raytracing-a-4-year-retrospective/)

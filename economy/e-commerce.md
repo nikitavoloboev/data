@@ -68,7 +68,7 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Ecommerce Site Search Best Practices for 2021](https://searchnode.com/blog/ecommerce-site-search-best-practices/)
 - [RetentionX](https://www.retentionx.com/) - AI for Shopify.
 - [Accept payments with Stripe Checkout](https://github.com/stripe-samples/checkout-one-time-payments) - Shows you how to integrate with Stripe Checkout.
-- [Stripe](https://stripe.com/) - Online payment processing for internet businesses. ([Stripe Samples](https://github.com/stripe-samples))
+- [Stripe](https://stripe.com/) - Online payment processing for internet businesses. ([Stripe Samples](https://github.com/stripe-samples)) ([Stripe 2021 Business Update](https://stripe.com/files/stripe-2021-update.pdf)) ([HN](https://news.ycombinator.com/item?id=30957966))
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) - Easy Way to Sell Digital Products.
 - [Sane Shopify](https://github.com/good-idea/sane-shopify) - Connect Sanity and the Shopify Storefront API.
 - [How curation is reinventing e-commerce (2021)](https://maried.substack.com/p/how-curation-is-reinventing-e-commerce)

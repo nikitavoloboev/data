@@ -175,6 +175,7 @@
 - [PiecewiseLinearOpt](https://github.com/joehuchette/PiecewiseLinearOpt.jl) - Solve optimization problems containing piecewise linear functions.
 - [FixedPointNumbers](https://github.com/JuliaMath/FixedPointNumbers.jl) - Implements fixed-point number types.
 - [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) - Online Algorithms for Statistics, Models, and Big Data Viz.
+- [Survival.jl](https://github.com/JuliaStats/Survival.jl) - Survival analysis in Julia.
 
 ## NLP
 

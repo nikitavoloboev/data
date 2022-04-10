@@ -78,3 +78,4 @@
 - [Steep](https://github.com/soutaro/steep) - Gradual Typing for Ruby.
 - [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries. ([GitHub](https://github.com/dry-rb))
 - [rbx](https://github.com/ianks/rb-sys) - Framework for developing safe Ruby extensions in Rust.
+- [sorbet-typed](https://github.com/sorbet/sorbet-typed) - Central repository for sharing type definitions for Ruby gems.

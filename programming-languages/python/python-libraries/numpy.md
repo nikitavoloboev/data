@@ -30,3 +30,4 @@
 - [libnpy](https://github.com/llohse/libnpy) - C++ library for reading and writing of numpy's .npy files.
 - [NumS](https://github.com/nums-project/nums) - Library that translates Python and NumPy to optimized distributed systems code.
 - [Differentiable Neural Computer in Numpy](https://github.com/krocki/dnc) - Simple RNN, LSTM and Differentiable Neural Computer in pure Numpy.
+- [A basic introduction to NumPy's einsum](https://ajcr.net/Basic-guide-to-einsum/) ([HN](https://news.ycombinator.com/item?id=30972389))

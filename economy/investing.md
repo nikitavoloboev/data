@@ -1,12 +1,13 @@
 # Investing
 
-I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/). I also hold & stake [Solana](../databases/blockchain/solana.md).
+I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/). I also hold & stake [Solana](../databases/blockchain/solana.md).
 
 ## Interesting ETFs
 
 - [VT](https://finance.yahoo.com/quote/vt/) - Vanguard Total World Stock Index Fund.
 - [VTI](https://finance.yahoo.com/quote/VTI/) - Vanguard Total Stock Market ETF.
 - [VOO](https://finance.yahoo.com/quote/VOO/) - Vanguard S&P 500 ETF. ([Reddit](https://www.reddit.com/r/stocks/comments/sxts24/what_would_you_do_if_you_inherited_a_million/hxtysn7/?context=3))
+- [VXUS](https://finance.yahoo.com/quote/VXUS/) - Vanguard Total Intl Stock Idx Fund.
 - [VWCE](https://finance.yahoo.com/quote/VWCE.DE/) - Vanguard FTSE All-World UCITS ETF USD Accumulation. ([Reddit](https://www.reddit.com/r/eupersonalfinance/comments/qv75by/investing_800_yearly_into_vusa_as_a_polish/))
 - [VBILX](https://finance.yahoo.com/quote/VBILX/) - Vanguard Intermediate-Term Bond Index Fund.
 - [VTSAX](https://finance.yahoo.com/quote/VTSAX/) - Vanguard Total Stock Market Index Fund Admiral.
@@ -258,3 +259,4 @@ I invest in stocks/ETFs using [Interactive Brokers](https://ibkr.com/referral/ni
 - [Tools to use for long term investing (2022)](https://twitter.com/brian_lovin/status/1512144546896891910)
 - [IBKR Traders' Academy](https://tradersacademy.online/)
 - [Where to safely invest money for long term? (2022)](https://twitter.com/moizali/status/1512423716474560512)
+- [Solid blue chip stocks to buy (2022)](https://www.reddit.com/r/stocks/comments/tznfdl/30k_want_to_buy_some_blue_chips_what_do_you/)

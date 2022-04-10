@@ -162,6 +162,7 @@
 - [Xray](https://github.com/fireproofsocks/xray) - Academic exploration of strings and encodings in Elixir.
 - [PromEx](https://github.com/akoutmos/prom_ex) - Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards.
 - [Grizzly](https://github.com/smartrent/grizzly) - Elixir library for Z-Wave.
+- [Brex.Result](https://github.com/brexhq/result) - Provides tools to handle three common return values in Elixir.
 
 ## Links
 

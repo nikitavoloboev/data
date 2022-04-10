@@ -48,3 +48,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Русский сериал, за который вам не стыдно](https://twitter.com/eg0r_pomid0r/status/1484225834294693893)
 - [Sci-Fi movie/show recommendations (2022)](https://www.reddit.com/r/scifi/comments/tr519d/looking_for_scifi_movieshow_recommendations/)
 - [Nice HBO series](https://twitter.com/pmarca/status/1512618519866667014)
+- [What TV Show would you erase from your memory so you could watch it for the first time again? (2022)](https://www.reddit.com/r/NetflixBestOf/comments/tzgv6i/request_what_tv_show_would_you_erase_from_your/)
