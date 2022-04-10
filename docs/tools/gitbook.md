@@ -1,6 +1,10 @@
+---
+title: GitBook
+---
+
 # [GitBook](https://www.gitbook.com)
 
-The tool I use to render all the markdown files in this wiki.
+I once used this tool to render the markdown files in this wiki. It's a great tool but at some point my builds started breaking for unknown reasons so I migrated to [Docusaurus](https://docusaurus.io).
 
 In my opinion this is the future of book and publishing in general. Being able to put writing under Git and have such an awesome way to render what you write and have a builtin search ready to use, all for free is incredible.
 

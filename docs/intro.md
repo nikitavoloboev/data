@@ -50,7 +50,7 @@ Don't be afraid to create one of your own and share what you know with the world
 
 ## Contributing
 
-If you found a mistake anywhere, I would appreciate your help. GitBook provides a quick way to open GitHub page for any entry so you can make changes and submit a PR.
+If you found a mistake anywhere, I would appreciate your help. Each page has `Edit this page` text you can press and submit PR with your changes.
 
 I'd love to hear any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
