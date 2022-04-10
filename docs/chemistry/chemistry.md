@@ -1,3 +1,7 @@
+---
+title: Chemistry
+---
+
 # [Chemistry](http://en.wikipedia.org/wiki/Chemistry)
 
 [Alexander Shulgin](http://en.wikipedia.org/wiki/Alexander_Shulgin) and [David E. Nichols](http://en.wikipedia.org/wiki/David_E._Nichols) are amazing.

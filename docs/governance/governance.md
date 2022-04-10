@@ -1,3 +1,7 @@
+---
+title: Governance
+---
+
 # [Governance](https://en.wikipedia.org/wiki/Governance)
 
 ## Notes

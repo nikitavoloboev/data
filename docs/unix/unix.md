@@ -1,3 +1,7 @@
+---
+title: Unix
+---
+
 # [Unix](http://en.wikipedia.org/wiki/Unix)
 
 [Unix philosophy is to make everything composable with lots of tiny individual programs doing one thing and communicating through text outputs.](https://twitter.com/chigbarg/status/1466497684953440259)

@@ -1,3 +1,7 @@
+---
+title: Anki
+---
+
 # [Anki](https://apps.ankiweb.net)
 
 Anki is an awesome app that uses [spaced repetition learning](http://en.wikipedia.org/wiki/Spaced_repetition) to memorize and learn things efficiently.

@@ -1,3 +1,7 @@
+---
+title: IRC
+---
+
 # [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
 I spend some time on [Freenode](https://freenode.net/) as it has many useful channels and people that can help you.
