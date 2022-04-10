@@ -1,0 +1,1904 @@
+# Rust libraries
+
+## CLI
+
+- [argi](https://github.com/Owez/argi) - Argument parsing for the future.
+- [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
+- [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
+- [fncmd](https://github.com/yuhr/fncmd) - Opinionated command line parser frontend that wraps around clap.
+- [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
+- [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
+- [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
+- [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
+- [StructOpt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
+- [pico-args](https://github.com/RazrFalcon/pico-args) - Ultra simple CLI arguments parser.
+- [termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
+- [Comfy-table](https://github.com/Nukesor/comfy-table) - Library for building beautiful terminal tables with automatic content wrapping.
+- [owo-colors](https://github.com/jam1garner/owo-colors) - Zero-allocation no_std-compatible zero-cost way to add color to your Rust terminal.
+- [Console Engine](https://github.com/VincentFoulon80/console_engine) - Simple terminal framework to draw things and manage user input.
+- [console](https://github.com/mitsuhiko/console) - Library for Rust that provides access to various terminal features so you can build nicer looking command line interfaces.
+- [termimad](https://github.com/Canop/termimad) - Library to display rich (Markdown) snippets and texts in a rust terminal application.
+- [indicatif](https://github.com/mitsuhiko/indicatif) - Rust library for indicating progress in command line applications to users.
+- [xshell](https://github.com/matklad/xshell) - Provides a set of cross-platform utilities for writing ergonomic "bash" scripts.
+- [devx](https://github.com/elastio/devx) - Collection of utilities for writing your own dev scripts.
+- [RustyLine](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust.
+- [seahorse](https://github.com/ksk001100/seahorse) - Minimal CLI framework written in Rust.
+- [conch-parser](https://github.com/ipetkov/conch-parser) - Rust library for parsing Unix shell commands.
+- [cli-table](https://github.com/devashishdxt/cli-table) - Rust crate for printing tables on command line.
+- [youchoose](https://github.com/nathom/youchoose) - Lightweight terminal menu for Rust.
+- [Lexopt](https://github.com/blyxxyz/lexopt) - Minimalist pedantic command line parser.
+- [Tuikit](https://github.com/lotabout/tuikit) - Tool kit for writing TUI applications in Rust.
+- [argv](https://github.com/dtolnay/argv) - Command line arguments by reference.
+- [ansi_colours](https://github.com/mina86/ansi_colours) - Rust, C and C++ library for converting between 24-bit sRGB colors and ANSI terminal 8-bit palette.
+- [Cursive](https://github.com/gyscos/cursive) - TUI (Text User Interface) library for rust.
+- [CtrlC](https://github.com/Detegr/rust-ctrlc) - Simple easy to use wrapper around Ctrl-C signal.
+- [expectrl](https://github.com/zhiburt/expectrl) - Library for automating and testing interactive applications.
+- [Rink](https://github.com/DioxusLabs/rink) - Build reactive terminal user interfaces using Rust and Dioxus.
+- [Update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust. Checks for a new version on Crates.io, GitHub, and PyPI.
+- [argfile](https://github.com/rust-cli/argfile) - Load additional CLI args from file.
+- [textplots](https://github.com/loony-bean/textplots-rs) - Terminal plotting library for Rust.
+- [Spinners](https://github.com/FGRibreau/spinners) - + Elegant terminal spinners for Rust.
+- [Bunt](https://github.com/LukasKalbertodt/bunt) - Simple macro-based terminal colors and styles.
+- [superconsole](https://github.com/facebookincubator/superconsole) - Component-based framework for building Rust TUIs.
+- [terminal-keycode](https://github.com/substack/terminal-keycode.rs) - Convert bytes from a terminal into keycodes.
+- [tui-realm](https://github.com/veeso/tui-realm) - Tui-rs framework to build stateful applications with a React/Elm inspired approach.
+- [spinach](https://github.com/etienne-napoleone/spinach) - Practical spinner for Rust.
+- [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
+- [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
+- [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time.
+
+## Web
+
+- [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
+- [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
+- [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/))
+- [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
+- [ntex](https://github.com/ntex-rs/ntex) - Framework for composable networking services.
+- [Sauron](https://github.com/ivanceras/sauron) - Versatile web framework and library for building client-side and server-side web applications. ([HN clone in Sauron](https://github.com/ivanceras/hackernews-sauron))
+- [Isahc](https://github.com/sagebind/isahc) - Practical HTTP client that is fun to use.
+- [tide-acme](https://github.com/http-rs/tide-acme) - Automatic HTTPS certificates for Tide, via Let's Encrypt and ACME tls-alpn-01 challenges.
+- [preroll](https://github.com/eaze/preroll) - Easy boilerplate utilities for Rust http services which use async-std, Tide, Surf, and friends. ([Tweet](https://twitter.com/Fishrock123/status/1374072772737998848))
+- [Routerify](https://github.com/routerify/routerify) - Provides a lightweight, idiomatic, composable and modular router implementation with middleware support for the Rust HTTP library hyper.rs.
+- [H2](https://github.com/hyperium/h2) - Tokio aware, HTTP/2.0 client & server implementation for Rust.
+- [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
+- [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework ([Jelly - Starter template for actix-web projects](https://github.com/secretkeysio/jelly-actix-web-starter)) ([HN](https://news.ycombinator.com/item?id=30470809)) ([Reddit](https://www.reddit.com/r/rust/comments/t1bim5/announcing_actix_web_v40/))
+- [actix-web-flash-messages](https://github.com/LukeMathWalker/actix-web-flash-messages) - Flash messages for actix-web.
+- [actix-web-grants](https://github.com/DDtKey/actix-web-grants) - Authorization extension for actix-web to validate user permissions.
+- [tracing-actix-web](https://github.com/LukeMathWalker/tracing-actix-web) - Structured diagnostics for actix-web applications.
+- [actix-web-lab](https://github.com/robjtede/actix-web-lab) - Experimental extractors, middleware, and other extras for possible inclusion in Actix Web.
+- [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
+- [Seed](https://github.com/seed-rs/seed) - Rust framework for creating web apps. ([HN](https://news.ycombinator.com/item?id=28567714))
+- [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
+- [Tide WebSockets](https://github.com/http-rs/tide-websockets) - Experimental websockets handler for tide based on async-tungstenite.
+- [websocket-lite](https://github.com/1tgr/rust-websocket-lite) - Fast, low-overhead WebSocket client.
+- [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
+- [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
+- [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
+- [warp](https://github.com/seanmonstar/warp) - Super-easy, composable, web server framework for warp speeds.
+- [HTTP](https://github.com/hyperium/http) - Rust HTTP types.
+- [httparse](https://github.com/seanmonstar/httparse) - Push parser for the HTTP 1.x protocol in Rust.
+- [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
+- [Mendes](https://github.com/djc/mendes) - Rust web toolkit for impatient perfectionists.
+- [Roa](https://github.com/Hexilee/roa) - Async web framework inspired by koajs, lightweight but powerful.
+- [rweb](https://github.com/kdy1/rweb) - Yet another web server framework for rust.
+- [Tower Web](https://github.com/carllerche/tower-web) - Web framework for Rust with a focus on removing boilerplate.
+- [http-types](https://github.com/http-rs/http-types) - Common types for HTTP operations.
+- [Dropshot](https://github.com/oxidecomputer/dropshot) - General-purpose crate for exposing REST APIs from a Rust program.
+- [localghost](https://github.com/mild-times/localghost) - Ergonomic Rust bindings to the Web platform.
+- [hyper-rustls](https://github.com/ctz/hyper-rustls) - Integration between the rustls TLS stack and the hyper HTTP library.
+- [biscuit-rust](https://github.com/CleverCloud/biscuit-rust) - Rust implementation of the Biscuit authorization token.
+- [OpenMLS](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol.
+- [Tower](https://github.com/tower-rs/tower) - Library of modular and reusable components for building robust networking clients and servers.
+- [gql_client](https://github.com/arthurkhlghatyan/gql-client-rs) - Minimal GraphQL client for Rust.
+- [Cynic](https://github.com/obmarg/cynic) - Bring your own types GraphQL client library for Rust. ([Docs](https://cynic-rs.dev/))
+- [Hyperdrive](https://github.com/dac-gmbh/hyperdrive) - Declarative HTTP request routing, guarding and decoding.
+- [tame-oidc](https://github.com/EmbarkStudios/tame-oidc) - Small OAuth crate that follows the sans-io approach.
+- [jsonwebtoken](https://github.com/Keats/jsonwebtoken) - JWT lib in rust.
+- [MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework. ([Podcast](https://blog.abor.dev/p/moonzoon)) ([HN](https://news.ycombinator.com/item?id=27155639))
+- [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
+- [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
+- [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server))
+- [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
+- [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
+- [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi)) ([Poem Grants](https://github.com/DDtKey/poem-grants))
+- [darpi](https://github.com/darpi-rs/darpi) - Rust web framework with safety and speed in mind.
+- [Vial](https://github.com/xvxx/vial) - Micro micro-framework for rust. ([Docs](https://vial.rs/))
+- [Nuts](https://github.com/jakmeier/nuts) - Library that offers a simple publish-subscribe API, featuring decoupled creation of the publisher and the subscriber.
+- [javascriptcore-rs](https://github.com/tauri-apps/javascriptcore-rs) - JavaScriptCore bindings and wrappers for Rust.
+- [Wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
+- [webkit2gtk](https://github.com/tauri-apps/webkit2gtk-rs) - Rust bindings and wrappers for webkit2gtk.
+- [Catnip](https://github.com/demikernel/catnip) - Fast User-Space TCP/UDP Stack.
+- [Capsule](https://github.com/capsule-rs/capsule) - Framework for network function development.
+- [webview2](https://github.com/sopium/webview2) - Rust bindings for WebView2.
+- [lol-async](https://github.com/jbr/lol-async) - Provides an awkward async interface for cloudflare/lol-html.
+- [Reqwasm](https://github.com/hamza1311/reqwasm) - HTTP requests library for WASM Apps.
+- [Cookie](https://github.com/SergioBenitez/cookie-rs) - HTTP cookie parsing and cookie jar management for Rust.
+- [backoff](https://github.com/ihrwein/backoff) - Small crate which allows you to retry operations according to backoff policies.
+- [rust-jwt](https://github.com/durch/rust-jwt) - Very simple JWT generation lib.
+- [Avalanche](https://github.com/DJankauskas/avalanche) - Rust library for building performant Web apps.
+- [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more. ([Docs](https://dioxuslabs.com/guide/)) ([TODO App Example](https://github.com/JunichiSugiura/rust-ecs-todomvc))
+- [webview_rust](https://github.com/webview/webview_rust) - Rust Bindings to webview.
+- [rsass](https://github.com/kaj/rsass) - SASS reimplemented in rust with nom.
+- [connect-rs](https://github.com/sachanganesh/connect-rs) - Message-queue abstraction over async network streams.
+- [Tower HTTP](https://github.com/tower-rs/tower-http) - HTTP specific Tower utilities.
+- [MatchIt](https://github.com/ibraheemdev/matchit) - Blazing fast URL router and path matcher for Rust.
+- [async-session](https://github.com/http-rs/async-session) - Async session support with pluggable middleware.
+- [Rust Web Audio API](https://github.com/orottier/web-audio-api-rs) - Rust implementation of the Web Audio API, for use in non-browser contexts.
+- [zeroconf](https://github.com/windy1/zeroconf-rs) - Cross-platform library that wraps underlying ZeroConf/mDNS implementations such as Bonjour or Avahi, providing an easy and idiomatic way to both register and browse services.
+- [uds](https://github.com/tormol/uds) - Unix domain sockets Rust library that supports abstract addresses, fd-passing, SOCK_SEQPACKET sockets and more.
+- [Yamux](https://github.com/libp2p/rust-yamux) - Stream multiplexer over reliable, ordered connections such as TCP/IP.
+- [Silkenweb](https://github.com/silkenweb/silkenweb) - Library for writing reactive single page web apps.
+- [reqwest-middleware](https://github.com/TrueLayer/reqwest-middleware) - Wrapper around reqwest to allow for client middleware chains.
+- [rust-otp](https://github.com/TimDumol/rust-otp) - Rust library for performing the HMAC-based One-Time Password (HOTP) and Time-based One-Time Password (TOTP) algorithms.
+- [axum-live-view](https://github.com/davidpdrsn/axum-live-view) - Real-time user experiences with server-rendered HTML.
+- [protocol](https://github.com/dylanmckay/protocol) - Easy protocol definitions in Rust.
+- [rust-socketio](https://github.com/1c3t3a/rust-socketio) - Implementation of a socket.io client written in the Rust.
+- [reqsign](https://github.com/Xuanwo/reqsign) - Signing HTTP requests without heavy SDKs.
+- [Spectre](https://github.com/niklaslong/spectre) - Lightweight toolkit for analysing p2p network topologies.
+- [bifrost](https://github.com/ShisoftResearch/bifrost) - Pure rust building block for distributed systems.
+- [rsocket-rust](https://github.com/rsocket/rsocket-rust) - RSocket Rust Implementation using Tokio.
+- [Aliri](https://github.com/neoeinstein/aliri) - Web API access control for Rust.
+- [ipnet](https://github.com/krisprice/ipnet) - IpNet, Ipv4Net, and Ipv6Net types and methods for Rust.
+- [utoipa](https://github.com/juhaku/utoipa) - Auto generated OpenAPI documentation.
+- [packet](https://github.com/meh/rust-packet) - Network packet handling for Rust.
+- [tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - Schedule tasks on Tokio using cron-like annotation.
+- [tide-trace](https://github.com/No9/tide-trace) - Minimum overhead USDT middleware to dynamically trace tide with BPF or DTrace.
+- [mt-dom](https://github.com/ivanceras/mt-dom) - Generic virtual DOM implementation for rust.
+- [udp-socket](https://github.com/mxinden/udp-socket) - Advanced udp socket.
+
+## WASM
+
+- [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
+- [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup))
+- [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
+- [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+- [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
+- [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
+- [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
+- [ehttp](https://github.com/emilk/ehttp) - Minimal Rust HTTP client for both native and WASM.
+- [racket-wasm](https://github.com/Bogdanp/racket-wasm) - WASM tooling in Racket.
+- [Zaplib](https://github.com/Zaplib/zaplib) - Open-source library for speeding up web applications using Rust and WebAssembly. ([Docs](https://zaplib.com/docs/)) ([HN](https://news.ycombinator.com/item?id=30960509))
+- [wee_alloc](https://github.com/rustwasm/wee_alloc) - Wasm-Enabled, Elfin Allocator.
+- [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
+- [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
+- [xtask-wasm](https://github.com/rustminded/xtask-wasm) - Customizable subcommands to build your WASM projects using xtask.
+
+## GUI
+
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri)) ([Docs Code](https://github.com/tauri-apps/tauri-docs))
+- [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
+- [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
+- [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.
+- [skulpin](https://github.com/aclysma/skulpin) - Easy option for drawing hardware-accelerated 2D by combining vulkan and skia.
+- [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
+- [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
+- [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
+- [Piet](https://github.com/linebender/piet) - Abstraction for 2D graphics. ([Piet text layout API](http://www.cmyr.net/blog/piet-text-work.html))
+- [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer. ([Piet-GPU Progress: Clipping](https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html)) ([HN](https://news.ycombinator.com/item?id=30462322))
+- [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
+- [gpucanvas](https://github.com/cytecbg/gpucanvas) - Antialiased 2D vector drawing library written in rust.
+- [fltk-rs](https://github.com/MoAlyousef/fltk-rs) - Rust bindings for the FLTK GUI library.
+- [Thyme](https://github.com/Grokmoo/thyme) - Themable Immediate Mode User Interface Toolkit in Rust.
+- [Slint](https://github.com/slint-ui/slint) - Toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. ([Web](https://slint-ui.com/)) ([HN](https://news.ycombinator.com/item?id=24919571)) ([Reddit](https://www.reddit.com/r/rust/comments/sp3wix/blog_sixtyfps_becomes_slint/)) ([HN](https://news.ycombinator.com/item?id=30298534))
+- [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
+- [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
+- [tiny-skia](https://github.com/RazrFalcon/tiny-skia) - Tiny Skia subset ported to Rust.
+- [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
+- [RAUI](https://github.com/PsichiX/raui) - Rust implementation of Renderer Agnostic User Interface.
+- [Spline](https://github.com/linebender/spline) - Implements a new spline designed and optimized for interactive design of 2D curves.
+- [Terra](https://github.com/fintelia/terra) - Large scale terrain rendering library written in Rust.
+- [Ochre](https://github.com/glowcoil/ochre) - Highly portable GPU-accelerated vector graphics. ([Talk](https://rustfest.global/session/23-ochre-highly-portable-gpu-accelerated-vector-graphics/))
+- [glyph-brush](https://github.com/alexheretic/glyph-brush) - Fast GPU cached text rendering.
+- [Speedy2D](https://github.com/QuantumBadger/Speedy2D) - Rust library for hardware accelerated drawing of 2D shapes, images, and text, with an easy to use API.
+- [Skui](https://github.com/skui-org/skui) - Skia-based C++ UI framework.
+- [nuklear-rust](https://github.com/snuk182/nuklear-rust) - Bindings to the Nuklear 2D immediate GUI library.
+- [Tuix](https://github.com/geom3trik/tuix) - Cross-platform GUI toolkit written in Rust.
+- [Elvis](https://github.com/clearloop/elvis) - WASM UI library.
+- [egui-gizmo](https://github.com/urholaukkarinen/egui-gizmo) - 3d transformation gizmo built on top of the egui library.
+- [VIZIA](https://github.com/geom3trik/VIZIA) - Declarative GUI library written in Rust.
+- [Panoramix](https://github.com/PoignardAzur/panoramix) - Prototype implementation of reactive UI in rust.
+
+## DB
+
+- [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
+- [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
+- [Diesel Derive Enum](https://github.com/adwhit/diesel-derive-enum) - Use Rust enums directly with diesel ORM.
+- [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
+- [Rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust.
+- [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) - Simple schema migration library for rusqlite using user_version instead of an SQL table to maintain the current schema version.
+- [serde_rusqlite](https://github.com/twistedfall/serde_rusqlite) - Serialize/deserialize rusqlite rows.
+- [Wundergraph](https://github.com/weiznich/wundergraph) - Provides a platform to easily expose your database through a GraphQL interface.
+- [bolt-rs](https://github.com/lucis-fluxum/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust.
+- [sqlparser-rs](https://github.com/ballista-compute/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust.
+- [PickleDB](https://github.com/seladb/pickledb-rs) - Lightweight and simple key-value store written in Rust.
+- [TQL](https://github.com/antoyo/tql) - Compile-time ORM, inspired by Django ORM, written in Rust.
+- [postgrest-rs](https://github.com/supabase/postgrest-rs) - PostgREST client-side library.
+- [RustRocks](https://github.com/bh1xuw/rust-rocks) - RocksDB binding for Rust.
+- [Cask](https://github.com/andresilva/cask) - Fast key-value store written in Rust.
+- [Buzz Rust](https://github.com/cloudfuse-io/buzz-rust) - Serverless query engine.
+- [wickdb](https://github.com/Fullstop000/wickdb) - Pure Rust LSM-tree based embedded storage engine.
+- [acid-store](https://github.com/lostatc/acid-store) - Library for secure, deduplicated, transactional, and verifiable data storage.
+- [SeaQuery](https://github.com/SeaQL/sea-query) - Database agnostic runtime query builder for Rust.
+- [DharmaDB](https://github.com/sushrut141/DharmaDB) - Persistent, fault tolerant key-value store written in Rust.
+- [typed-sql](https://github.com/matthunz/typed-sql) - Zero-cost ORM with fast compile times. ([Reddit](https://www.reddit.com/r/rust/comments/njbt9s/announcing_typedsql_beta_zerocost_orm_with_fast/))
+- [merk](https://github.com/nomic-io/merk) - High-performance Merkle key/value store.
+- [Scooby](https://github.com/despawnerer/scooby) - Rust SQL query builder with a pleasant fluent API closely imitating actual SQL.
+- [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust. ([Rocket with SeaORM example app](https://github.com/SeaQL/sea-orm/tree/master/examples/rocket_example)) ([HN](https://news.ycombinator.com/item?id=29509867))
+- [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
+- [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
+- [influxdb-rust](https://github.com/influxdb-rs/influxdb-rust) - Rust Client for the InfluxDB Time Series Database.
+- [clickhouse-rs](https://github.com/suharev7/clickhouse-rs) - Asynchronous Yandex ClickHouse client library for Rust.
+- [Tesseract](https://github.com/tesseract-olap/tesseract) - ROLAP engine for web applications, in Rust.
+- [dgraph-tonic](https://github.com/selmeci/dgraph-tonic) - Async/Sync gRPC client for Dgraph DB.
+- [ScyllaDB Rust Driver](https://github.com/scylladb/scylla-rust-driver) - Async CQL driver for Rust, optimized for Scylla.
+- [Quaint](https://github.com/prisma/quaint) - SQL Query AST and Visitor for Rust.
+- [lsm_engine](https://github.com/NavyaZaveri/lsm_engine) - Rust implementation of a key-value store with Log-Structured Merge Trees.
+- [hotpot-db](https://github.com/drbh/hotpot-db) - Easy to use database system. Uses SQLite3.
+- [redis-serde](https://github.com/OneSignal/serde-redis) - Serde support for redis-rs.
+- [redis_serde_json](https://github.com/clia/redis_serde_json) - Derive to store and retrieve JSON values in redis encoded using serde.
+- [tiny-lsm](https://github.com/spacejam/tiny-lsm) - Super simple in-memory blocking LSM for constant-size keys and values.
+- [Rexie](https://github.com/devashishdxt/rexie) - Easy-to-use, futures based wrapper around IndexedDB that compiles to webassembly.
+- [Fang](https://github.com/ayrat555/fang) - Background job processing library for Rust. It uses Postgres DB as a task queue.
+- [async-redis-session](https://github.com/jbr/async-redis-session) - redis-backed session store for async-session.
+- [Pot](https://github.com/khonsulabs/pot) - Concise storage format, written for BonsaiDb.
+- [pg_query.rs](https://github.com/pganalyze/pg_query.rs) - Rust library to parse, deparse and normalize SQL queries using the PostgreSQL query parser.
+- [clickhouse.rs](https://github.com/loyd/clickhouse.rs) - Typed client for ClickHouse.
+- [FuzzyTrie](https://github.com/VictorBulba/fuzzy_trie) - Key-value collection to make fuzzy searches.
+- [codd](https://github.com/salmans/codd) - Library for evaluating typed relational expressions in a monotonically growing minimal database in memory.
+- [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust.
+- [OpenDAL](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
+- [persistentcache-rs](https://github.com/stefan-k/persistentcache-rs) - Macros for persistently caching function calls using files or Redis.
+- [ODBC-API](https://github.com/pacman82/odbc-api) - Rust ODBC bindings. Open standard to connect to a variety of data sources.
+- [datom-rs](https://github.com/LutrisEng/datom-rs) - Open-source database inspired by Datomic.
+- [diesel_async](https://github.com/weiznich/diesel_async) - Diesel async connection implementation.
+- [SQLite](https://github.com/stainless-steel/sqlite) - Provides an interface to SQLite.
+- [Syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust.
+- [xql](https://github.com/arch-mage/xql) - SQL query builder for sqlx.
+- [Oxide Crucible](https://github.com/oxidecomputer/crucible) - Prototype storage service.
+- [rbatis](https://github.com/rbatis/rbatis) - Highly Performant,Safe,Dynamic SQL (Compile time) ORM framework written in Rust.
+- [memo-map](https://github.com/mitsuhiko/memo-map) - Concurrent insert only hash map.
+- [Endorphin](https://github.com/ArtBlnd/endorphin) - Key-Value based in-memory cache library which supports Custom Expiration Policies.
+- [Nebuchadnezzar](https://github.com/ShisoftResearch/Nebuchadnezzar) - High Performance Key-Value Store.
+- [CannyLS](https://github.com/frugalos/cannyls) - Embedded persistent key-value storage for Rust that is optimized for random-access workload and huge-capacity HDD.
+- [rocksdb-rs](https://github.com/rust-lib-project/calibur) - Rust version of RocksDB.
+- [mysql](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust.
+- [Lru Time Cache](https://github.com/maidsafe/lru_time_cache) - LRU cache settable via size or time to live.
+- [map-to-const](https://github.com/rnag/map-to-const) - Easily convert `HashMap<K, V>` to constant `[(K, V); N]` values.
+
+## Video
+
+- [rust-ac-ffmpeg](https://github.com/angelcam/rust-ac-ffmpeg) - Rust wrapper for FFmpeg libraries.
+- [Nightfall](https://github.com/Dusk-Labs/nightfall) - Easy to use lib for creating on-demand transcoding sessions for efficient media playback.
+
+## Graphics
+
+- [Miniquad](https://github.com/not-fl3/miniquad) - Safe and cross-platform rendering library focused on portability and low-end platforms support.
+- [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API. ([Gfx-Rs: The Big Picture](https://gfx-rs.github.io/2020/11/16/big-picture.html))
+- [rspirv](https://github.com/gfx-rs/rspirv) - Rust implementation of SPIR-V module processing functionalities.
+- [cgmath-rs](https://github.com/rustgd/cgmath) - Linear algebra and mathematics library for computer graphics.
+- [aljabar](https://github.com/maplant/aljabar) - Extremely generic linear algebra library for Rust.
+- [raqote](https://github.com/jrmuizel/raqote) - Pure Rust 2D Graphics Library.
+- [Kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [ncollide](https://github.com/rustsim/ncollide) - 2 and 3-dimensional collision detection library in Rust.
+- [imgui-rs](https://github.com/Gekkio/imgui-rs) - Rust bindings for dear imgui.
+- [luminance](https://github.com/phaazon/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework.
+- [Gate](https://github.com/SergiusIW/gate) - Specialized 2D game library.
+- [ultraviolet](https://github.com/termhn/ultraviolet) - Wide linear algebra crate for games and graphics.
+- [pixels](https://github.com/parasyte/pixels) - Tiny hardware-accelerated pixel frame buffer.
+- [kurbo](https://github.com/linebender/kurbo) - Rust library for manipulating curves.
+- [Rust-SDL2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust.
+- [femtovg](https://github.com/femtovg/femtovg) - Antialiased 2D vector drawing library written in Rust.
+- [glow](https://github.com/grovesNL/glow) - Set of bindings to run GL anywhere and avoid target-specific code.
+- [Rust GPU](https://github.com/EmbarkStudios/rust-gpu) - Making Rust a first-class language and ecosystem for GPU code. ([HN](https://news.ycombinator.com/item?id=24858172)) ([HN 2](https://news.ycombinator.com/item?id=24870039)) ([Example Shaders](https://github.com/LykenSol/rust-gpu-shadertoys))
+- [Rend3](https://github.com/BVE-Reborn/rend3) - Easy to use, customizable, efficient 3D renderer library built on wgpu.
+- [Conrod](https://github.com/PistonDevelopers/conrod) - Easy-to-use, 2D GUI library written entirely in Rust.
+- [Peach](https://github.com/flmng0/peach) - Processing-esque sandboxing framework for Rust.
+- [Rendiation](https://github.com/mikialex/rendiation) - Group of crates that can be composed to impl graphics project.
+- [Building Blocks](https://github.com/bonsairobo/building-blocks) - Voxel library for real-time applications.
+- [Relm4](https://github.com/AaronErhardt/relm4) - Idiomatic GUI library inspired by Elm and based on gtk4-rs.
+- [wgpu-pbr](https://github.com/tedsta/wgpu-pbr) - Implementation of PBR using wgpu-rs.
+- [Kludgine](https://github.com/khonsulabs/kludgine) - 2d game engine written in rust atop of wgpu.
+- [Blue Engine](https://github.com/ElhamAryanpur/BlueEngine) - General-purpose, easy-to-use, fast, extendable, secure, and portable graphics engine written in rust.
+- [Flou](https://github.com/Asha20/flou) - Flowchart description language. ([Docs](https://asha20.github.io/flou/)) ([Reddit](https://www.reddit.com/r/rust/comments/qrgjky/excited_to_share_my_first_crate_flou_a_flowchart/))
+- [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
+- [dolly](https://github.com/h3r2tic/dolly) - Composable camera rigs.
+- [gpgpu](https://github.com/UpsettingBoy/gpgpu-rs) - Simple GPGPU framework for Rust built on top of wgpu.
+- [jpeg-decoder](https://github.com/image-rs/jpeg-decoder) - Rust library for decoding JPEGs.
+- [raster.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
+- [geo-svg](https://github.com/lelongg/geo-svg) - Generate SVG strings from geo-types.
+- [Limelight](https://github.com/drifting-in-space/limelight) - WebGL2 wrapper with a focus on making high-performance WebAssembly graphics code easier to write and maintain.
+- [Kayak UI](https://github.com/StarArawn/kayak_ui) - Declarative UI that can be used to make user interfaces in Rust primarily targeting games.
+- [Plexus](https://github.com/olson-sean-k/plexus) - Polygonal mesh processing.
+- [Genmesh](https://github.com/gfx-rs/genmesh) - Library of mesh generation utilities.
+- [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
+- [Morphorm](https://github.com/geom3trik/morphorm) - UI layout engine written in Rust.
+- [poll-promise](https://github.com/EmbarkStudios/poll-promise) - Rust promise for games and immediate mode GUIs.
+- [Zeno](https://github.com/dfrg/zeno) - High performance, low level 2D path rasterization library in pure Rust.
+- [Image](https://github.com/Brooooooklyn/Image) - Image processing library.
+- [fast_image_resize](https://github.com/Cykooz/fast_image_resize) - Rust library for fast image resizing with using of SIMD instructions.
+- [descent](https://github.com/sjb3d/descent) - Toy library for neural networks in Rust using Vulkan compute shaders.
+- [spectra](https://github.com/phaazon/spectra) - Rust demoscene engine.
+- [ocl](https://github.com/cogciprocate/ocl) - OpenCL for Rust.
+- [rgx](https://github.com/cloudhead/rgx) - Modern mid-level 2D graphics library.
+- [vger-rs](https://github.com/audulus/vger-rs) - 2D GPU renderer for dynamic UIs.
+- [delaunator-rs](https://github.com/mourner/delaunator-rs) - Fast 2D Delaunay triangulation in Rust. A port of Delaunator.
+- [Egui Node Graph](https://github.com/setzer22/egui_node_graph) - Build your node graph applications in Rust, using egui.
+- [Softy](https://github.com/elrnv/softy) - Simulation tools for animating interacting soft objects.
+- [vtkio](https://github.com/elrnv/vtkio) - Visualization ToolKit (VTK) file parser and writer.
+- [rui](https://github.com/audulus/rui) - Rust UI library, inspired by SwiftUI. ([Reddit](https://www.reddit.com/r/rust/comments/t4cyp6/rui_experimental_declarative_rust_ui_library/))
+- [Screen 13](https://github.com/attackgoat/screen-13) - Easy-to-use 2D/3D rendering engine in the spirit of QBasic.
+- [image-gif](https://github.com/image-rs/image-gif) - GIF encoding and decoding library.
+- [cavalier_contours](https://github.com/jbuckmccready/cavalier_contours) - 2D polyline/shape library for offsetting, combining, etc.
+- [rust-rgb](https://github.com/kornelski/rust-rgb) - Struct RGB for sharing pixels between crates.
+- [wgpu_glyph](https://github.com/hecrj/wgpu_glyph) - Fast text renderer for wgpu, powered by glyph_brush.
+- [Poloto](https://github.com/tiby312/poloto) - 2D plotting library that outputs graphs to SVG that can be styled using CSS.
+- [vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience.
+- [Graphics](https://github.com/PistonDevelopers/graphics) - Library for 2D graphics, written in Rust, that works with multiple back-ends.
+- [Planetarium](https://github.com/ravenexp/planetarium) - Sub-pixel precision light spot rendering library for astronomy and video tracking applications.
+- [piet-metal](https://github.com/linebender/piet-metal) - Experimental Metal-based GPU renderer for piet 2D graphics.
+
+## Games
+
+- [Tetra](https://github.com/17cupsofcoffee/tetra) - Simple 2D game framework written in Rust.
+- [Emergent AI](https://github.com/PsichiX/emergent) - Toolset for producing emergent gameplay for games written in Rust.
+- [Renet](https://github.com/lucaspoffo/renet) - Collection of rust crates to create Server/Client networked games.
+
+## Test
+
+- [faux](https://github.com/nrxus/faux) - Traitless Mocking Library for Rust.
+- [Drill](https://github.com/fcsonline/drill) - HTTP load testing application written in Rust inspired by Ansible syntax.
+- [Loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
+- [Mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust.
+- [ctest](https://github.com/gnzlbg/ctest) - Automated testing of FFI bindings in Rust.
+- [Mockall](https://github.com/asomers/mockall) - Powerful mock object library for Rust.
+- [rstest](https://github.com/la10736/rstest) - Uses procedural macros to help you on writing fixtures and table-based tests.
+- [Proptest](https://github.com/AltSysrq/proptest) - Hypothesis-like property testing for Rust.
+- [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - Cargo subcommand to build and test all feature flag combinations.
+- [Fuzzcheck](https://github.com/loiclec/fuzzcheck-rs) - Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions.
+- [k9](https://github.com/aaronabramov/k9) - Rust Testing Library.
+- [expect-test](https://github.com/rust-analyzer/expect-test) - Minimalistic snapshot testing for Rust.
+- [QuickCheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
+- [httpmock](https://github.com/alexliesenfeld/httpmock) - HTTP mocking library for Rust.
+- [iai](https://github.com/bheisler/iai) - Experimental One-shot Benchmark Framework in Rust.
+- [Test Case](https://github.com/frondeus/test-case) - Rust procedural macro attribute for adding test cases easily.
+- [rutenspitz](https://github.com/jakubadamw/rutenspitz) - Procedural macro to be used for testing/fuzzing stateful models against a semantically equivalent but obviously correct implementation.
+- [Pretty Assertions](https://github.com/colin-kiegel/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
+- [Shuttle](https://github.com/awslabs/shuttle) - Library for testing concurrent Rust code.
+- [build-fs-tree](https://github.com/KSXGitHub/build-fs-tree) - Generate a filesystem tree from a macro or a YAML tree.
+- [afl.rs](https://github.com/rust-fuzz/afl.rs) - Fuzzing Rust code with AFLplusplus.
+- [heckcheck](https://github.com/yoshuawuyts/heckcheck) - Heckin small test generator.
+- [rust-counter-strings](https://github.com/thomaschaplin/rust-counter-strings) - Counter strings generator written in rust to help aid software testing.
+- [Cucumber Rust](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
+- [test-fuzz](https://github.com/trailofbits/test-fuzz) - Make fuzzing Rust easy.
+- [Grillon](https://github.com/theredfish/grillon) - Elegant and natural way to approach end-to-end HTTP API testing in Rust.
+- [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
+- [Golden Tests](https://github.com/jfecher/golden-tests) - Golden file testing library for rust.
+- [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - Mutation testing tool for Rust.
+- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust. ([Tweet](https://twitter.com/sunshowers6/status/1493283867297337345)) ([Reddit](https://www.reddit.com/r/rust/comments/sshvzy/cargonextest_a_new_test_runner_for_rust_projects/))
+- [assay](https://github.com/mgattozzi/assay) - Super powered testing macro for Rust.
+- [rusty-fork](https://github.com/AltSysrq/rusty-fork) - Run Rust tests in isolated subprocesses.
+- [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.
+- [Yare](https://github.com/foresterre/yare) - Lean parametrized testing library for Rust.
+- [tracing-test](https://github.com/dbrgn/tracing-test) - Access and evaluate tracing logs in async and sync tests.
+- [cov-mark](https://github.com/matklad/cov-mark) - Verify that your tests exercise the conditions you think they are exercising.
+- [test-log](https://github.com/d-e-s-o/test-log) - Crate that takes care of automatically initializing logging and/or tracing for Rust.
+- [Coppers](https://github.com/ThijsRay/coppers) - Custom test harnass for Rust that measures the energy usage of your test suite. ([HN](https://news.ycombinator.com/item?id=30918318))
+- [libtest-mimic](https://github.com/LukasKalbertodt/libtest-mimic) - Write your own test harness that looks and behaves like the built-in test harness.
+
+## Error
+
+- [eyre](https://github.com/yaahc/eyre) - Trait object based error handling type for easy idiomatic error handling and reporting in Rust applications.
+- [derive(Error)](https://github.com/dtolnay/thiserror) - Provides a convenient derive macro for the standard library's std::error::Error trait.
+- [Fehler](https://github.com/withoutboats/fehler) - Library to add support for "throwing functions" to Rust through procedural macros.
+- [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
+- [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
+- [SNAFU](https://github.com/shepmaster/snafu) - Easily assign underlying errors into domain-specific errors while adding context.
+- [some-error](https://github.com/jam1garner/some-error) - Library for creating and using anonymous sum types as errors.
+- [Srcerr](https://github.com/azriel91/srcerr) - User friendly errors from source data.
+- [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
+- [panic-persist](https://github.com/jamesmunns/panic-persist) - Writes panic messages to a section of RAM.
+- [better-panic](https://github.com/mitsuhiko/better-panic) - Gives you pretty backtraces for panics.
+- [thisdiagnostic](https://github.com/zkat/thisdiagnostic) - Rust library for adding rich diagnostic metadata to errors.
+- [miette](https://github.com/zkat/miette) - Fancy upgrade to std::error::Error.
+- [color-eyre](https://github.com/yaahc/color-eyre) - Custom hooks for colorful human oriented error reports via panics and the eyre crate.
+- [woah](https://github.com/alilleybrinker/woah) - Result type that differentiates between local errors (which can be handled) and fatal errors (which can't).
+- [Core Error](https://github.com/core-error/core-error) - Traits for working with Error in std-less environments.
+- [Serum Errors](https://github.com/serum-errors/serum-spec) - Specification for human-readable, machine-managable, observable/serializable/cross-language errors and error handling.
+
+## IO
+
+- [Mio](https://github.com/tokio-rs/mio) - Metal IO library.
+
+## iOS
+
+- [cargo-cocoapods](https://github.com/bbqsrc/cargo-cocoapods) - Bundle Cargo crates for use with macOS/iOS in Xcode.
+
+## UI
+
+- [Iced](https://github.com/hecrj/iced/) - Cross-platform GUI library for Rust, inspired by Elm. ([HN](https://news.ycombinator.com/item?id=28326125))
+- [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
+- [Druid](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit. ([Some reflections on the Druid architecture](http://www.cmyr.net/blog/druid-architecture.html)) ([Dynamic widget sketches](http://www.cmyr.net/blog/druid-dynamism.html))
+- [flutter-rs](https://github.com/gliheng/flutter-rs) - Build flutter desktop app in dart & rust.
+- [Moxie](https://github.com/anp/moxie) - Lightweight platform-agnostic tools for declarative UI.
+- [OrbTk](https://github.com/redox-os/orbtk) - Rust UI-Toolkit.
+
+## Crypto
+
+- [subtle](https://github.com/dalek-cryptography/subtle) - Pure-Rust traits and utilities for constant-time cryptographic implementations.
+- [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
+- [bellman](https://github.com/zkcrypto/bellman) - Crate for building zk-SNARK circuits.
+- [bellperson](https://github.com/filecoin-project/bellperson) - Crate for building zk-SNARK circuits. Fork of the great bellman library.
+- [Spartan](https://github.com/microsoft/Spartan) - High-speed zkSNARKs without trusted setup.
+- [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
+- [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order). ([HN](https://news.ycombinator.com/item?id=25434349))
+- [RustCrypto: Elliptic Curves](https://github.com/RustCrypto/elliptic-curves)
+- [poly-commit](https://github.com/scipr-lab/poly-commit) - Rust library for polynomial commitments.
+- [Marlin](https://github.com/scipr-lab/marlin) - Rust library for the Marlin preprocessing zkSNARK.
+- [STHash](https://github.com/jedisct1/rust-sthash) - Fast, keyed, cryptographic hash function designed to process large, possibly untrusted data.
+- [arkworks::algebra](https://github.com/arkworks-rs/algebra) - Libraries for finite field, elliptic curve, and polynomial arithmetic.
+- [pairing](https://github.com/zkcrypto/pairing) - Crate for using pairing-friendly elliptic curves.
+- [Monotree](https://github.com/thyeem/monotree) - Optimized Sparse Merkle Tree in Rust.
+- [Cupcake](https://github.com/facebookresearch/Cupcake) - Rust library for lattice-based additive homomorphic encryption.
+- [orion](https://github.com/orion-rs/orion) - Usable, easy and safe pure-Rust crypto.
+- [Curv](https://github.com/ZenGo-X/curv) - Rust language general purpose elliptic curve cryptography.
+- [serde-encrypt](https://github.com/laysakura/serde-encrypt) - Encrypts all the Serialize.
+- [PLONK](https://github.com/dusk-network/plonk) - Pure Rust implementation of the PLONK proving system over BLS12-381.
+- [Tofn](https://github.com/axelarnetwork/tofn) - Threshold cryptography library in Rust.
+- [RustCrypto: Utilities](https://github.com/RustCrypto/utils) - Utility crates used in RustCrypto.
+- [Verkle Trie](https://github.com/crate-crypto/rust-verkle)
+- [ed25519-dalek](https://github.com/dalek-cryptography/ed25519-dalek) - Fast and efficient ed25519 signing and verification in Rust.
+- [curve25519-dalek](https://github.com/dalek-cryptography/curve25519-dalek) - Pure-Rust implementation of group operations on Ristretto and Curve25519.
+- [dryoc](https://github.com/brndnmtthws/dryoc) - Pure-Rust, general-purpose cryptography library.
+- [RustCrypto: block ciphers](https://github.com/RustCrypto/block-ciphers) - Collection of block ciphers and block modes written in pure Rust.
+- [Curves](https://github.com/arkworks-rs/curves) - Implementations of popular elliptic curves.
+- [ark-circom](https://github.com/gakonst/ark-circom) - Arkworks bindings to Circom's R1CS, for Groth16 Proof and Witness generation in Rust.
+- [r1cs](https://github.com/mir-protocol/r1cs) - Rust library for building R1CS gadgets over prime fields, which are useful in SNARKs and other argument systems.
+- [Cipher-crypt](https://github.com/arosspope/cipher-crypt) - Library of historic cryptographic algorithms implemented in rust.
+- [BigInt](https://github.com/RustCrypto/crypto-bigint) - Cryptographic Big Integers.
+- [gravity-rs](https://github.com/gendx/gravity-rs) - Rust implementation of the Gravity-post-quantum signature schemes.
+- [MACs](https://github.com/RustCrypto/MACs) - Message authentication code algorithms written in pure Rust.
+- [RustCrypto: Formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: PKCS, PKIX.
+- [crypto-hash](https://github.com/malept/crypto-hash) - Rust wrapper for OS-level cryptographic hash functions.
+- [vodozemac](https://github.com/matrix-org/vodozemac) - Rust reimplementation of the functionality of libolm, a cryptographic library used for end-to-end encryption in Matrix.
+- [Blind RSA signatures](https://github.com/jedisct1/rust-blind-rsa-signatures) - Author-blinded RSASSA-PSS RSAE signatures.
+- [RustCrypto: Traits](https://github.com/RustCrypto/traits) - Collection of traits which describe functionality of cryptographic primitives.
+- [RustCrypto: Password Hashes](https://github.com/RustCrypto/password-hashes) - Password hashing functions / KDFs.
+- [Cryptoxide](https://github.com/typed-io/cryptoxide) - Crypto primitives in pure rust - wasm compatible.
+- [rust-hpke](https://github.com/rozbb/rust-hpke) - Implementation of the HPKE hybrid encryption standard.
+- [minisign-verify](https://github.com/jedisct1/rust-minisign-verify) - Small, zero-dependencies Rust crate to verify Minisign signatures.
+- [Trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware.
+- [Rust-Crypto](https://github.com/DaGenix/rust-crypto) - Rust implementation of various common cryptographic algorithms.
+
+## Linux
+
+- [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
+- [libkrun](https://github.com/containers/libkrun) - Dynamic library providing KVM-based process isolation capabilities.
+- [io-uring](https://github.com/tokio-rs/io-uring) - Linux IO Uring.
+- [shmem-ipc](https://github.com/diwic/shmem-ipc) - Rust high-performance communication between untrusted processes on Linux.
+- [perf-event](https://github.com/jimblandy/perf-event) - Rust interface to Linux performance monitoring.
+- [RedBPF](https://github.com/ingraind/redbpf) - Rust library for building and running BPF/eBPF modules.
+- [iou](https://github.com/ringbahn/iou) - Rust interface to io_uring.
+- [Aya](https://github.com/alessandrod/aya) - eBPF library for the Rust programming language, built with a focus on developer experience and operability. ([Article](https://confused.ai/posts/announcing-aya))
+- [sev](https://github.com/enarx/sev) - Implementation of AMD Secure Encrypted Virtualization (SEV) APIs.
+- [pam](https://github.com/1wilkens/pam) - Safe Rust API to the Linux Pluggable Authentication Modules (PAM).
+- [rust-bcc](https://github.com/rust-bpf/rust-bcc) - Idiomatic Rust bindings for the BPF compiler collection.
+- [kvm-ioctls](https://github.com/rust-vmm/kvm-ioctls) - Provides safe wrappers over the KVM API, a set of ioctls used for creating and configuring Virtual Machines (VMs) on Linux.
+- [reverie](https://github.com/reverie-rs/reverie) - Trace and intercept linux syscalls.
+- [BlueR](https://github.com/bluez/bluer) - Rust interface to the Linux Bluetooth protocol stack (BlueZ).
+- [oxidebpf](https://github.com/redcanaryco/oxidebpf) - Rust library for managing eBPF programs.
+- [inotify-rs](https://github.com/hannobraun/inotify-rs) - Idiomatic inotify wrapper for Rust.
+- [Netlink](https://github.com/little-dude/netlink) - netlink libraries for rust.
+- [libbpf-rs](https://github.com/libbpf/libbpf-rs) - Minimal and opinionated eBPF tooling for the Rust ecosystem.
+- [cgroups-rs](https://github.com/kata-containers/cgroups-rs) - Native Rust library for managing control groups under Linux.
+- [Rust iptables](https://github.com/yaa110/rust-iptables) - Bindings for iptables application in Linux.
+- [listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation.
+- [libseccomp-rs](https://github.com/libseccomp-rs/libseccomp-rs) - Rust Language Bindings for the libseccomp Library.
+- [libsystemd](https://github.com/lucab/libsystemd-rs) - Pure-Rust client library to work with systemd.
+- [vHost](https://github.com/rust-vmm/vhost) - Pure rust library for vDPA, vhost and vhost-user.
+- [caps](https://github.com/lucab/caps-rs) - Pure-Rust library to work with Linux capabilities.
+- [InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and emulating inputs.
+- [daemonize-me](https://github.com/DarthUdp/daemonize-me) - Rust library to ease the task of creating daemons.
+- [zbus](https://github.com/zeenix/zbus) - Rust API for D-Bus communication.
+
+## Embedded
+
+- [volatile-register](https://github.com/japaric/volatile-register) - Volatile access to memory mapped hardware registers.
+- [stm32f7xx-hal](https://github.com/stm32-rs/stm32f7xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F7 family.
+- [embedded-svc](https://github.com/esp-rs/embedded-svc) - Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.).
+- [RPPAL](https://github.com/golemparts/rppal) - Rust library that provides access to the Raspberry Pi's GPIO, I2C, PWM, SPI and UART peripherals.
+- [Infrared](https://github.com/jkristell/infrared) - Infrared remote control library for embedded Rust.
+- [embed-c](https://github.com/zdimension/embed-c) - Allows you to embed C code inside Rust code files.
+- [stm32l4xx-hal](https://github.com/stm32-rs/stm32l4xx-hal) - Hardware abstraction layer for the stm32l432xx series chips written in rust.
+- [lm3s6965](https://github.com/japaric/lm3s6965) - Minimal device crate for the LM3S6965 (Cortex-M3) microcontroller.
+- [fugit](https://github.com/korken89/fugit) - Provides a comprehensive library of `Duration` and `Instant` for the handling of time in embedded systems, doing all it can at compile time.
+- [esp32-hal](https://github.com/esp-rs/esp32-hal) - Hardware abstraction layer for the esp32 written in Rust.
+- [stm32-eth](https://github.com/stm32-rs/stm32-eth) - Embedded Ethernet driver in Rust.
+- [esp-hal](https://github.com/esp-rs/esp-hal) - Experimental no_std HAL targeting ESP devices.
+- [assert_no_alloc](https://github.com/Windfisch/rust-assert-no-alloc) - Custom Rust allocator allowing to temporarily disable memory (de)allocations for a thread. Aborts or prints a warning if allocating although forbidden.
+- [defmt-bbq](https://github.com/jamesmunns/defmt-bbq) - Highly efficient logging framework that targets resource-constrained devices, like microcontrollers.
+- [nrf-softdevice](https://github.com/embassy-rs/nrf-softdevice) - Rust bindings for Nordic Semiconductor nRF series SoftDevices.
+- [Wifi on ESP32C3 (on bare-metal Rust)](https://github.com/bjoernQ/esp32c3-wifi-rs)
+- [nrf-usbd](https://github.com/nrf-rs/nrf-usbd) - Driver for the USBD peripheral in nRF microcontrollers.
+- [alloc-cortex-m](https://github.com/rust-embedded/alloc-cortex-m) - Heap allocator for Cortex-M processors.
+
+## ML
+
+- [autograph](https://github.com/charles-r-earp/autograph) - Machine Learning Library for Rust.
+- [Neuronika](https://github.com/neuronika/neuronika) - Tensors and dynamic neural networks in pure Rust.
+- [Juice](https://github.com/spearow/juice) - Hacker's Machine Learning Engine.
+- [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
+- [L2](https://github.com/bkkaggle/L2) - PyTorch-style Tensor+Autograd library written in Rust.
+- [Fwumious Wabbit](https://github.com/outbrain/fwumious_wabbit) - Fast on-line machine learning toolkit written in Rust.
+- [Mushin](https://github.com/c0dearm/mushin) - Compile-time creation of neural networks.
+- [Alumina](https://github.com/millardjn/alumina) - Deep learning library for rust.
+- [bhtsne](https://github.com/frjnn/bhtsne) - Parallel Barnes-Hut t-SNE implementation written in Rust.
+- [ONNX Runtime](https://github.com/nbigaouette/onnxruntime-rs) - Rust wrapper for Microsoft's ONNX Runtime.
+- [HAL](https://github.com/jramapuram/hal) - Rust based Cross-GPU Machine Learning.
+- [Cogent](https://github.com/JonathanWoollett-Light/cogent) - Simple neural network library for classification written in Rust.
+- [tongrams-rs](https://github.com/kampersanda/tongrams-rs) - Rust port of tongrams to index and query large language models in compressed space.
+- [Rust OpenCV bindings](https://github.com/twistedfall/opencv-rust)
+- [video-toolbox-sys](https://github.com/bschwind/video-toolbox-sys) - Rust bindings to Apple's Video Toolbox framework.
+
+## macOS
+
+- [mach](https://github.com/fitzgen/mach) - Rust interface to the Mach 3.0 kernel that underlies macOS.
+- [Cacao](https://github.com/ryanmcgrath/cacao) - Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS).
+- [Fruity](https://github.com/nvzqz/fruity) - Rusty bindings for Apple libraries.
+- [core-foundation-rs](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS.
+- [Plist](https://github.com/ebarnard/rust-plist) - Rusty plist parser.
+- [oslog](https://github.com/steven-joruk/oslog) - Rust wrapper around Apple's unified logging system.
+- [rust-security-framework](https://github.com/kornelski/rust-security-framework) - Bindings to the macOS Security.framework.
+- [ahv](https://github.com/Thog/ahv) - Apple Hypervisor crate for Apple Silicon.
+- [macho-unwind-info](https://github.com/mstange/macho-unwind-info) - Parser for Apple's Compact Unwinding Format, which is used in the \_\_unwind_info section of mach-O binaries.
+- [rust-icns](https://github.com/mdsteele/rust-icns) - Rust library for encoding/decoding Apple Icon Image (.icns) files.
+- [DmgWiz](https://github.com/citruz/dmgwiz) - Extract filesystem data from DMG files.
+
+## Macros
+
+- [Readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules.
+- [cfg-if](https://github.com/alexcrichton/cfg-if) - If/elif-like macro for Rust #[cfg] statements.
+- [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+- [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
+- [rabbithole-rs](https://github.com/UkonnRa/rabbithole-rs) - Nearly well-typed, user-friendly JSON:API type system, with an easy-to-use Macro System to help you modelling the your data.
+- [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
+- [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
+- [partial_application](https://github.com/Emerentius/partial_application) - Partial function application macro for Rust.
+- [macro_railroad](https://github.com/lukaslueg/macro_railroad) - Library to generate syntax diagrams for Rust macros.
+- [genco](https://github.com/udoprog/genco) - Whitespace-aware quasiquoter for beautiful code generation.
+- [num-derive](https://github.com/rust-num/num-derive) - Procedural macros to derive numeric traits in Rust.
+- [Horrorshow](https://github.com/Stebalien/horrorshow-rs) - Macro-based html builder for rust.
+- [pipeline.rs](https://github.com/johannhof/pipeline.rs) - Macro collection to pipe your functions calls, like in F# or Elixir.
+- [timed](https://github.com/y2kappa/timed) - Rust crate to time your function using derive annotations.
+- [paste](https://github.com/dtolnay/paste) - Macros for all your token pasting needs.
+- [Darling](https://github.com/TedDriggs/darling) - Rust proc-macro attribute parser.
+- [unseemly](https://github.com/paulstansifer/unseemly) - Macros have types. ([Web](https://unseemly.github.io/))
+- [seq-macro](https://github.com/dtolnay/seq-macro) - Macro to repeat sequentially indexed copies of a fragment of code.
+- [Automod](https://github.com/dtolnay/automod) - Pull in every source file in a directory as a module.
+- [Aquamarine](https://github.com/mersinvald/aquamarine) - Inline diagrams for rustdoc with mermade.js.
+- [Velcro](https://github.com/peterjoel/velcro) - Macros for conveniently initializing collections from Rust's std and iterators.
+- [if_chain](https://github.com/lambda-fairy/if_chain) - Macro for writing nested `if let` expressions.
+- [proc-macro-crate](https://github.com/bkchr/proc-macro-crate) - Providing support for $crate in procedural macros.
+- [typestate](https://github.com/rustype/typestate-rs) - Provides developers with a macro to design typestated objects.
+- [Educe](https://github.com/magiclen/educe) - Provides procedural macros to help you implement Rust-built-in traits quickly.
+- [no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic.
+- [spez](https://github.com/m-ou-se/spez) - Macro to specialize on the type of an expression.
+- [lazy-regex](https://github.com/Canop/lazy-regex) - Macro for when you're tired of the regex creation boilerplate.
+- [Arraygen](https://github.com/theypsilon/arraygen) - Derive macro for generating arrays from struct fields.
+- [flamer](https://github.com/llogiq/flamer) - Compiler plugin to insert flame calls.
+- [bitflags](https://github.com/bitflags/bitflags) - Macro to generate structures which behave like bitflags.
+- [nightly-crimes](https://github.com/m-ou-se/nightly-crimes) - Allow you to enable nightly features on the stable compiler.
+- [rust-delegate](https://github.com/Kobzol/rust-delegate) - Rust method delegation with less boilerplate.
+- [blanket](https://github.com/althonos/blanket) - Simple Rust macro to derive blanket implementations for your traits.
+- [rustversion](https://github.com/dtolnay/rustversion) - Provides macros for conditional compilation according to rustc compiler version.
+- [plex](https://github.com/goffrie/plex) - Parser and lexer generator as a Rust procedural macro.
+- [momo](https://github.com/llogiq/momo) - Rust proc_macro_attribute to outline conversions from generic functions.
+- [fixed-map](https://github.com/udoprog/fixed-map) - Map implementation that relies on fixed-size storage derived by a procedural macro.
+- [smlang](https://github.com/korken89/smlang-rs) - State Machine Language DSL procedural macro for Rust.
+- [ergo-pin](https://github.com/Nemo157/ergo-pin-rs) - Ergonomic stack pinning for Rust.
+- [duang](https://github.com/xiaoniu-578fa6bff964d005/duang) - Use macro to provide default parameter and named parameter in Rust.
+- [self_cell](https://github.com/Voultapher/self_cell) - Safe-to-use proc-macro-free self-referential structs in stable Rust.
+- [impls](https://github.com/nvzqz/impls) - Rust macro to determine if a type implements a logical trait expression.
+- [rust-derive-macro-guide](https://github.com/imbolc/rust-derive-macro-guide) - Simple derive macros in Rust.
+- [reflect](https://github.com/dtolnay/reflect) - Compile-time reflection API for developing robust procedural macros.
+- [parse-display](https://github.com/frozenlib/parse-display) - Procedural macro to implement Display and FromStr using common settings.
+- [Derivative](https://github.com/mcarton/rust-derivative) - Set of alternative `derive` attributes for Rust.
+- [enum-as-inner](https://github.com/bluejekyll/enum-as-inner) - Macros for deriving as functions to access Enums as their inner components.
+- [Debug Plotter](https://github.com/fabianboesiger/debug-plotter) - Rust crate that provides a convenient macro to quickly plot variables.
+- [Supertype](https://github.com/zephraph/supertype) - Macro that strives to make it easier to derive a subset of a type from another type.
+- [arrayref](https://github.com/droundy/arrayref) - Two macros for taking array references in rust.
+- [macro-attr](https://github.com/DanielKeep/rust-custom-derive) - Custom derivation macro for Rust.
+- [deepsize](https://github.com/Aeledfyr/deepsize) - Trait and derive macro to recursively find the size of an object and the size of allocations that it owns.
+- [async-recursion](https://github.com/dcchut/async-recursion) - Procedural macro for recursive async functions.
+- [byteme](https://github.com/breuHQ/byteme) - Proc-macro to get Vec<u8\> from struct and vise versa.
+- [Cute](https://github.com/mattgathu/cute) - Macro for Python-esque list comprehensions in Rust.
+- [real_async_trait](https://github.com/4lDO2/real-async-trait-rs) - Proc macro for real async traits.
+- [Enum Variant Type](https://github.com/azriel91/enum_variant_type) - Proc macro derive to generate structs from enum variants.
+- [sscanf](https://github.com/mich101mich/sscanf) - Rust crate with a sscanf (inverse of format!()) Macro based on Regex.
+- [js-macros](https://github.com/vultix/js-macros) - Quickly prototype Rust procedural macros using JavaScript or TypeScript.
+- [valq](https://github.com/jiftechnify/valq) - Macros for querying and extracting value from structured data by JavaScript-like syntax.
+- [num_enum](https://github.com/illicitonion/num_enum) - Procedural macros to make inter-operation between primitives and enums easier.
+- [macro_rules_attribute](https://github.com/danielhenrymantilla/macro_rules_attribute-rs) - Use declarative macros as proc_macro attributes or derives.
+- [throttle_my_fn](https://github.com/fredmorcos/throttle_my_fn) - Rust attribute macro to throttle the execution of functions.
+- [test-span](https://github.com/apollographql/test-span) - Macro and utilities to do snapshot tests on tracing spans.
+- [Modular Bitfields](https://github.com/Robbepop/modular-bitfield) - Macro to generate bitfields for structs that allow for modular use of enums.
+- [rust-mdo](https://github.com/TeXitoi/rust-mdo) - Monadic do notation for rust using macro and duck typing.
+- [derive-into-owned](https://github.com/koivunej/derive-into-owned) - Procedural macro for deriving helper methods for types with Cow fields.
+- [derive-where](https://github.com/ModProg/derive-where) - Derive macro to simplify deriving standard and other traits with custom generic type bounds.
+- [expander](https://github.com/drahnr/expander) - Expands a proc-macro into a file, and uses a include! directive in place.
+- [Sugars](https://github.com/GrayJack/sugars) - Nice Rust macros for better writing.
+- [litrs](https://github.com/LukasKalbertodt/litrs) - Parsing and inspecting Rust literals (particularly useful for proc macros).
+- [rustic-c](https://github.com/ry00001/rustic-c) - Macro to write C inside Rust.
+- [bytecoding](https://github.com/nn1ks/bytecoding) - Derive macro for encoding and decoding instructions and operands as bytecode.
+- [Venial](https://github.com/PoignardAzur/venial) - Lightweight parsing for Rust proc macros.
+- [duplicate](https://github.com/Emoun/duplicate) - Macros for code duplication with substitution.
+- [const_format_crates](https://github.com/rodrimati1992/const_format_crates) - Compile-time string formatting.
+- [document-features](https://github.com/slint-ui/document-features) - Extract documentation for the feature flags from comments in Cargo.toml.
+- [postfix-macros](https://github.com/est31/postfix-macros) - Postfix macros on stable Rust.
+- [doc-comment](https://github.com/GuillaumeGomez/doc-comment) - Write doc comments from macros.
+- [syn-file-expand](https://github.com/vi/syn-file-expand) - Rust library to scan files and expand (make modules inline) multi-file crates source code as a single tree.
+
+## Math
+
+- [Lair](https://github.com/vinesystems/lair) - Linear Algebra in Rust.
+- [Friedrich](https://github.com/nestordemeure/friedrich) - Rust implementation of Gaussian Process regression.
+- [hnsw](https://github.com/rust-cv/hnsw) - Hierarchical Navigable Small World Graph for fast ANN search.
+- [statrs](https://github.com/statrs-dev/statrs) - Statistical computation library for Rust.
+- [sprs](https://github.com/vbarrielle/sprs) - Sparse linear algebra library for rust.
+- [Mathbox](https://github.com/freedeaths/mathbox-rs) - Collection of math tools for Rust.
+- [geometry-predicates](https://github.com/elrnv/geometry-predicates-rs) - Rust solution to efficient exact geometry predicates used widely for computational geometry.
+- [meval](https://github.com/rekka/meval-rs) - Math expression parser and evaluation library for Rust.
+
+## Other
+
+- [Serde](https://github.com/serde-rs/serde) - Serialization framework for Rust. ([Docs](https://serde.rs/)) ([HN](https://news.ycombinator.com/item?id=28869970))
+- [serde-reflection](https://github.com/novifinancial/serde-reflection) - Rust libraries and tools to help with interoperability and testing of serialization formats based on Serde.
+- [Miniserde](https://github.com/dtolnay/miniserde) - Data structure serialization library with several opposite design goals from Serde.
+- [Microserde](https://github.com/cloudhead/microserde) - Miniserde minus the dependencies.
+- [Abomonation](https://github.com/TimelyDataflow/abomonation) - Mortifying serialization library for Rust.
+- [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter. ([HN](https://news.ycombinator.com/item?id=25956502)) ([Maturin - Build and publish crates with pyo3](https://github.com/PyO3/maturin))
+- [Actix](https://github.com/actix/actix) - Actor framework for Rust. ([Examples](https://github.com/actix/examples))
+- [Actix Extras](https://github.com/actix/actix-extras) - Collection of additional crates supporting the actix and actix-web frameworks.
+- [Tokio](https://github.com/tokio-rs/tokio) - Runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers. ([Web](https://tokio.rs/)) ([Tokio Console](https://tokio.rs/blog/2021-12-announcing-tokio-console)) ([HN](https://news.ycombinator.com/item?id=29594389))
+- [Tokio Metrics](https://github.com/tokio-rs/tokio-metrics) - Utilities for collecting metrics from a Tokio application.
+- [nom](https://github.com/Geal/nom) - Parser combinators library. ([Tutorial](https://github.com/benkay86/nom-tutorial)) ([Building a CEDICT parser in Rust with Nom](https://briankung.dev/2021/12/07/building-a-cedict-parser-in-rust-with-nom/)) ([Error recovery with parser combinators (using nom)](https://eyalkalderon.com/blog/nom-error-recovery/)) ([Parsing Text with Nom](https://blog.adamchalmers.com/nom-chars/)) ([HN](https://news.ycombinator.com/item?id=29897328))
+- [nom-derive](https://github.com/rust-bakery/nom-derive) - Declarative parsing for Rust, using a custom derive and nom.
+- [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
+- [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax and the [futures](https://crates.io/crates/futures) crate.
+- [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to \*nix APIs.
+- [wasmi](https://github.com/paritytech/wasmi) - Wasm interpreter in Rust.
+- [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust. ([Parallelizing graph search with Rayon](https://tavianator.com/2022/parallel_graph_search.html)) ([Reddit](https://www.reddit.com/r/rust/comments/tz4lcy/parallelizing_graph_search_with_rayon/))
+- [libfringe](https://github.com/edef1c/libfringe) - Rust library implementing safe, lightweight context switches, without relying on kernel services.
+- [rust-url](https://github.com/servo/rust-url) - URL parser for Rust.
+- [Rust-Postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for Rust.
+- [im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust.
+- [Juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
+- [juniper-eager-loading](https://github.com/davidpdrsn/juniper-eager-loading) - Library for avoiding N+1 query bugs with Juniper.
+- [Logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers.
+- [Librsvg](https://github.com/GNOME/librsvg) - SVG rendering library.
+- [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+- [rustls](https://github.com/ctz/rustls) - Modern TLS library in Rust.
+- [Rusoto](https://www.rusoto.org/) - AWS SDK for Rust.
+- [Rand](https://github.com/rust-random/rand) - Rust library for random number generation.
+- [noise-rs](https://github.com/Razaekel/noise-rs) - Procedural noise generation library for Rust.
+- [Rust-AV](https://github.com/rust-av/rust-av) - Multimedia Toolkit written in pure rust.
+- [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
+- [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
+- [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux. ([Fork](https://github.com/tezedge/redux-rs))
+- [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
+- [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.
+- [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
+- [tikv-jemallocator](https://github.com/tikv/jemallocator) - Simplified fork of jemallocator focus on server.
+- [cargo-asm](https://github.com/gnzlbg/cargo-asm) - Cargo subcommand showing the assembly or llvm-ir generated for Rust code.
+- [Crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust.
+- [evmap](https://github.com/jonhoo/rust-evmap) - Lock-free, eventually consistent, concurrent multi-value map.
+- [Headless Chrome](https://github.com/atroche/rust-headless-chrome) - Puppeteer for Rust.
+- [rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack.
+- [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs.
+- [MAY](https://github.com/Xudong-Huang/may) - Rust stackful coroutine library.
+- [Ditto](https://github.com/alex-shapiro/ditto) - CRDTs for common data structures like maps, vecs, sets, text, and JSON.
+- [self_update](https://github.com/jaemk/self_update) - Provides updaters for updating rust executables in-place from various release distribution backends.
+- [libc](https://github.com/rust-lang/libc) - Raw FFI bindings to platforms' system libraries.
+- [Svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG.
+- [cbindgen](https://github.com/eqrion/cbindgen) - Project for generating C bindings from Rust code.
+- [Bincode](https://github.com/TyOverby/bincode) - Binary encoder / decoder implementation in Rust.
+- [Hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log. ([Web](https://hypercore-protocol.org/)) ([HN](https://news.ycombinator.com/item?id=25407193))
+- [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - Rust wrapper for rocksdb.
+- [futures-rs](https://github.com/rust-lang-nursery/futures-rs) - Zero-cost asynchronous programming in Rust.
+- [hashbrown](https://github.com/Amanieu/hashbrown) - Rust port of Google's high-performance SwissTable hash map, adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
+- [Rust-WebSocket](https://github.com/websockets-rs/rust-websocket) - Provides a framework for dealing with WebSocket connections (both clients and servers).
+- [Ramhorns](https://github.com/maciejhirsz/ramhorns) - Experimental Mustache template engine implementation in pure Rust.
+- [rust-notifica](https://github.com/frewsxcv/rust-notifica) - Small, cross-platform Rust crate for sending system notifications.
+- [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - Pull parser for CommonMark, written in Rust. It comes with a simple command-line tool, useful for rendering to HTML, and is also designed to be easy to use from as a library.
+- [Image](https://github.com/image-rs/image) - Encoding and decoding images in Rust.
+- [fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust.
+- [Runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software.
+- [miri](https://github.com/rust-lang/miri) - Interpreter for Rust's mid-level intermediate representation.
+- [Tide](https://github.com/rustasync/tide) - Empowering everyone to build HTTP Services.
+- [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
+- [maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust. ([HN](https://news.ycombinator.com/item?id=24552107))
+- [panic-never](https://github.com/japaric/panic-never) - This crate guarantees that your application is free of panicking branches.
+- [graphql_client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust.
+- [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.
+- [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
+- [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust. ([Web](https://nannou.cc/)) ([HN](https://news.ycombinator.com/item?id=25343356))
+- [Criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust. ([Improving Criterion.rs](https://www.tweag.io/blog/2022-03-03-criterion-rs/))
+- [Cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command-line wrapper for using libFuzzer. Easy to use, no need to recompile LLVM.
+- [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
+- [pg-extend-rs](https://github.com/bluejekyll/pg-extend-rs) - Rust based Postgres extension.
+- [Hiher](https://github.com/bodil/higher) - Higher kinded types and other bad ideas for Rust.
+- [cargo-geiger](https://github.com/anderejd/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
+- [Surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust.
+- [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library. ([Article](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/))
+- [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
+- [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules. ([Web](https://neon-bindings.com/))
+- [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
+- [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
+- [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
+- [Syn](https://github.com/dtolnay/syn) - Parsing library for parsing a stream of Rust tokens into a syntax tree of Rust source code.
+- [Emu](https://github.com/calebwin/emu) - Framework/compiler for GPU acceleration of Rust, GPU programming.
+- [Coroutine I/O](https://github.com/zonyitoo/coio-rs) - Coroutine scheduling with work-stealing algorithm.
+- [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust.
+- [geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust.
+- [hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map.
+- [nalgebra](https://github.com/rustsim/nalgebra) - Linear algebra library for Rust.
+- [envy](https://github.com/softprops/envy) - Deserialize env vars into typesafe structs with rust.
+- [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust.
+- [Dataloader](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using futures.
+- [Specs](https://github.com/amethyst/specs) - Entity-Component System written in Rust.
+- [euclid](https://github.com/servo/euclid) - Small library for geometric types with a focus on 2d graphics and layout.
+- [Notify](https://github.com/notify-rs/notify) - Cross-platform filesystem notification library for Rust.
+- [notify-rust](https://github.com/hoodie/notify-rust) - Send Desktop Notifications on linux and bsd.
+- [color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust.
+- [r2d2](https://github.com/sfackler/r2d2) - Generic connection pool for Rust.
+- [Rust-PHF](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust.
+- [Signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal.
+- [partial-io](https://github.com/facebookincubator/rust-partial-io) - Rust library that provides helpers for testing resilience of IO operations.
+- [Amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
+- [Constellation](https://github.com/constellation-rs/constellation) - Distributed programming for Rust.
+- [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations.
+- [Evcxr](https://github.com/google/evcxr) - Rust REPL and Jupyter Kernel. ([HN](https://news.ycombinator.com/item?id=25921894))
+- [Declarative Dataflow](https://github.com/comnik/declarative-dataflow) - Reactive query engine built on differential dataflow.
+- [refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
+- [Juggernaut](https://github.com/afshinm/juggernaut) - Experimental Neural Network written in Rust.
+- [Riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
+- [bitvec](https://github.com/bitvecto-rs/bitvec) - Crate for managing memory bit by bit.
+- [rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust <-\> Python bindings.
+- [Vicuna](https://github.com/PocketDerm/vicuna) - AWS Lambdas in Rust made simple.
+- [quicksilver](https://github.com/ryanisaacg/quicksilver) - Simple game framework for 2D games on desktop and web.
+- [refpool](https://github.com/bodil/refpool) - Efficient memory pool mechanism for Rust.
+- [lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API.
+- [mitosis](https://github.com/Manishearth/mitosis) - Spawn processes with arbitrary closures in rust.
+- [prettytable-rs](https://github.com/phsym/prettytable-rs) - Rust library to print aligned and formatted tables.
+- [unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
+- [Chrono](https://github.com/chronotope/chrono) - Date and time library for Rust.
+- [iqlusion crates](https://github.com/iqlusioninc/crates) - Collection of open source Rust crates from iqlusion.
+- [bnf](https://github.com/shnewto/bnf) - Parse BNF grammar definitions.
+- [quick-protobuf](https://github.com/tafia/quick-protobuf) - Rust implementation of protobuf parser.
+- [Deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await.
+- [cuneiform](https://github.com/vertexclique/cuneiform) - Cache optimizations for Rust, revived from the slabs of Sumer.
+- [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust. ([Web](https://insta.rs/))
+- [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
+- [Rusty V8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine.
+- [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
+- [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++. ([Docs](https://cxx.rs/)) ([HN](https://news.ycombinator.com/item?id=30627495))
+- [cxx-async](https://github.com/pcwalton/cxx-async) - Rust crate that extends the cxx library to provide seamless interoperability between asynchronous Rust code using async/await and C++20 coroutines using co_await.
+- [Duct](https://github.com/oconnor663/duct.rs) - Rust library for shelling out and making pipelines.
+- [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust.
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library. ([Awesome](https://github.com/rofrol/awesome-wgpu-rs))
+- [rio](https://github.com/spacejam/rio) - Pure rust io_uring library, built on libc, thread & async friendly, misuse resistant.
+- [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
+- [Interact](https://github.com/interact-rs/interact) - Framework for friendly online introspection of the running program state in an intuitive command-line interactive way.
+- [faster](https://github.com/AdamNiederer/faster) - SIMD for humans.
+- [rust-crdt](https://github.com/rust-crdt/rust-crdt) - Collection of well-tested, serializable CRDTs for Rust. ([HN](https://news.ycombinator.com/item?id=24795001))
+- [JSON-RPC](https://github.com/paritytech/jsonrpc) - Rust implementation of JSON-RPC 2.0 Specification. Transport-agnostic core and transport servers for http, ipc, websockets and tcp.
+- [yaml-rust](https://github.com/chyh1990/yaml-rust) - Pure rust YAML implementation.
+- [directories](https://github.com/soc/directories-rs) - Mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows.
+- [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model. ([HN](https://news.ycombinator.com/item?id=22403713)) ([Web](https://bastion.rs/))
+- [Desse](https://github.com/devashishdxt/desse) - Ultra fast binary serialization and deserialization for types with a constant size (known at compile time).
+- [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram_rust) - Port of HdrHistogram to Rust.
+- [ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust.
+- [RMP](https://github.com/3Hren/msgpack-rust) - Pure Rust MessagePack implementation.
+- [fasteval](https://github.com/likebike/fasteval) - Fast and safe evaluation of algebraic expressions.
+- [wasmparser](https://github.com/bytecodealliance/wasmparser) - Simple event-driven library for parsing WebAssembly binary files.
+- [RoaringBitmap](https://github.com/RoaringBitmap/roaring-rs) - Roaring bitmap implementation for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/t4x31c/roaringrs_bettercompressed_bitsets_is_seeing_the/))
+- [Graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust.
+- [Rowan](https://github.com/rust-analyzer/rowan) - Library for lossless syntax trees, inspired in part by Swift's libsyntax.
+- [Tera](https://github.com/Keats/tera) - Template engine for Rust based on Jinja2/Django.
+- [LibreAuth](https://github.com/breard-r/libreauth) - Collection of tools for user authentication.
+- [BoringAuth](https://github.com/ThinkAlexandria/BoringAuth) - Collection of tools for user authentication.
+- [log](https://github.com/rust-lang/log) - Logging implementation for Rust.
+- [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust.
+- [enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust.
+- [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+- [GraphCore](https://github.com/metamolecular/graphcore) - Provides primitives and traversals for working with graphs.
+- [Async trait methods](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods.
+- [compiler-builtins](https://github.com/rust-lang/compiler-builtins) - Porting `compiler-rt` intrinsics to Rust.
+- [gtk](https://github.com/gtk-rs/gtk) - Rust bindings and wrappers for GLib, GDK 3, GTK+ 3 and Cairo.
+- [tokio-beanstalkd](https://github.com/bIgBV/tokio-beanstalkd) - Asynchronous client library for interacting with the Beanstalkd work queue.
+- [octopus](https://github.com/jackdoe/octopus_query) - Query engine for arrays of integers.
+- [Serde YAML](https://github.com/dtolnay/serde-yaml) - Strongly typed YAML library for Rust.
+- [shiplift](https://github.com/softprops/shiplift) - Rust interface for maneuvering docker containers.
+- [Adapton](https://github.com/Adapton/adapton.rust) - General-purpose abstractions for incremental computing, in Rust.
+- [rust-objc](https://github.com/SSheldon/rust-objc) - Objective-C Runtime bindings and wrapper for Rust.
+- [rust-block](https://github.com/SSheldon/rust-block) - Rust interface for Apple's C language extension of blocks.
+- [rust-dispatch](https://github.com/SSheldon/rust-dispatch) - Rust wrapper for Apple's Grand Central Dispatch.
+- [indextree](https://github.com/saschagrunert/indextree) - Arena based tree structure by using indices instead of reference counted pointers.
+- [markedit](https://github.com/Michael-F-Bryan/markedit) - Library for manipulating unstructured Markdown documents.
+- [plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust.
+- [Parze](https://github.com/zesterer/parze) - Clean, efficient parser combinator.
+- [Flume](https://github.com/zesterer/flume) - Blazingly fast multi-producer, single-consumer channel.
+- [juniper-from-schema](https://github.com/davidpdrsn/juniper-from-schema) - Schema first GraphQL in Rust with Juniper.
+- [stringsext](https://github.com/getreu/stringsext) - Find multi-byte-encoded strings in binary data.
+- [byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
+- [genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
+- [libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+- [num](https://github.com/rust-num/num) - Collection of numeric types and traits for Rust.
+- [hecs](https://github.com/Ralith/hecs) - Provides a high-performance, minimalist entity-component-system (ECS) world.
+- [intrusive-collections](https://github.com/Amanieu/intrusive-rs) - Intrusive collections for Rust.
+- [froggy](https://github.com/kvark/froggy) - Component Graph System experiment.
+- [Legion](https://github.com/TomGillen/legion) - Aims to be a feature rich high performance ECS library for Rust game projects with minimal boilerplate.
+- [derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options.
+- [async-task](https://github.com/async-rs/async-task) - Task abstraction for building executors. ([Article](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html))
+- [lz4 bindings](https://github.com/bozaro/lz4-rs) - LZ4 is a very fast lossless compression algorithm.
+- [SM](https://github.com/rustic-games/sm) - Static State Machine library.
+- [parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects.
+- [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
+- [etcd](https://github.com/discord/rust-etcd) - etcd client library for Rust.
+- [RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - Rust library for drawing plots, powered by Gnuplot.
+- [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
+- [inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration.
+- [rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust.
+- [CFG Aliases](https://github.com/katharostech/cfg_aliases) - Tiny utility to help save you a lot of effort with long winded `#[cfg()]` checks in Rust.
+- [salsa](https://github.com/salsa-rs/salsa) - Generic framework for on-demand, incrementalized computation.
+- [Bytes](https://github.com/tokio-rs/bytes) - Utility library for working with bytes.
+- [Internment](https://github.com/droundy/internment) - Interning of data in rust.
+- [merkle-tree-stream](https://github.com/datrs/merkle-tree-stream) - Stream that generates a merkle tree based on the incoming data.
+- [async-graphql](https://github.com/sunli829/async-graphql) - GraphQL server library that fully supports async/await and is easy to use. ([Examples](https://github.com/async-graphql/examples))
+- [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
+- [comrak-wasm](https://github.com/lucacasonato/comrak-wasm) - WASM bindings for the comrak markdown renderer.
+- [generational-arena](https://github.com/fitzgen/generational-arena) - Safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
+- [printpdf](https://github.com/fschutt/printpdf) - Library designed for creating printable PDF documents.
+- [rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications.
+- [llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures.
+- [tinyvec](https://github.com/Lokathor/tinyvec) - 100% safe crate of vec-like types.
+- [time](https://github.com/time-rs/time) - Simple time handling in Rust.
+- [regex-automata](https://github.com/BurntSushi/regex-automata) - Low level regular expression library that uses deterministic finite automata.
+- [syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
+- [glam](https://github.com/bitshifter/glam-rs) - Simple and fast linear algebra library for games and graphics.
+- [rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust.
+- [libloading](https://github.com/nagisa/rust_libloading) - Better library for loading dynamic libraries.
+- [NumToA](https://github.com/mmstick/numtoa) - Efficient method of heaplessly converting numbers into their string representations, storing the representation within a reusable byte array.
+- [OsStr Bytes](https://github.com/dylni/os_str_bytes) - Traits for converting between byte sequences and platform-native strings.
+- [biscuit](https://github.com/lawliet89/biscuit) - JOSE (JSON Web Token) Library for Rust.
+- [Nano ID](https://github.com/nikolay-govorov/nanoid) - Tiny, secure, URL-friendly, unique string ID generator for Rust.
+- [mac-notification-sys](https://github.com/h4llow3En/mac-notification-sys) - Simple wrapper to deliver or schedule macOS Notifications in Rust.
+- [semval](https://github.com/slowtec/semval) - Semantic validation for Rust.
+- [parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
+- [gimli](https://github.com/gimli-rs/gimli) - Lazy, zero-copy parser for the DWARF debugging format.
+- [hamt-rs](https://github.com/michaelwoerister/hamt-rs) - Persistent Map Implementation based on Hash Array Mapped Tries.
+- [rust-native-tls](https://github.com/sfackler/rust-native-tls) - Abstraction over platform-specific TLS implementations.
+- [itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
+- [validator](https://github.com/Keats/validator) - Simple validation for Rust structs.
+- [sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully complient with IEEE 1800-2017.
+- [Serde JSON](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust.
+- [Rustbreak](https://github.com/TheNeikos/rustbreak) - Simple, fast and easy to use self-contained single file storage for Rust.
+- [Curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust.
+- [libm](https://github.com/rust-lang/libm) - Port of MUSL's libm to Rust.
+- [smol](https://github.com/stjepang/smol) - Small and fast async runtime for Rust.
+- [Colorous](https://github.com/dtolnay/colorous) - Color schemes for charts and maps.
+- [Termion](https://github.com/redox-os/termion) - Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
+- [object](https://github.com/gimli-rs/object) - Unified interface for reading and writing object file formats.
+- [no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic.
+- [rustc-demangle](https://github.com/alexcrichton/rustc-demangle) - Demangling for Rust symbols, written in Rust.
+- [Rust Typed Builder](https://github.com/idanarye/rust-typed-builder) - Creates a compile-time verified builder.
+- [Tether](https://github.com/quadrupleslap/tether) - Barebones Electron-ish library for Rust.
+- [event-listener](https://github.com/stjepang/event-listener) - Notify async tasks or threads.
+- [cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization.
+- [tsunami](https://github.com/jonhoo/tsunami) - Rust crate for running one-off cloud jobs.
+- [proc-macro2](https://github.com/alexcrichton/proc-macro2) - Wrapper around the procedural macro API of the compiler's proc_macro crate.
+- [Rust Quasi-Quoting](https://github.com/dtolnay/quote) - Provides the quote! macro for turning Rust syntax tree data structures into tokens of source code.
+- [displaydoc](https://github.com/yaahc/displaydoc) - Derive macro for implementing the display Trait via a doc comment and string interpolation.
+- [simple-mutex](https://github.com/stjepang/simple-mutex) - Simple mutex, faster than std and smaller than parking_lot.
+- [remem](https://github.com/rylev/remem) - Utility for reusing memory.
+- [aho-corasick](https://github.com/BurntSushi/aho-corasick) - Library for finding occurrences of many patterns at once with SIMD acceleration in some cases.
+- [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code.
+- [socket2-rs](https://github.com/alexcrichton/socket2-rs) - Provide as direct as possible access to the system's functionality for sockets as possible.
+- [heapless](https://github.com/japaric/heapless) - Static friendly data structures that don't require dynamic memory allocation.
+- [Arise](https://github.com/learnmerust/arise) - Run a process "forever"; Run a process and spawn it when it dies.
+- [easy-parallel](https://github.com/stjepang/easy-parallel) - Run closures in parallel.
+- [Askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust.
+- [libprobe](https://github.com/cuviper/rust-libprobe) - Static probes for Rust.
+- [Multiversion](https://github.com/calebzulawski/multiversion) - Function multiversioning framework for Rust.
+- [Kuchiki](https://github.com/kuchiki-rs/kuchiki) - HTML/XML tree manipulation library for Rust.
+- [Deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing.
+- [Session Types](https://github.com/Munksgaard/session-types) - Implementation of session types for Rust.
+- [binread](https://github.com/jam1garner/binread) - Rust crate for helping parse structs from binary data using macro magic.
+- [simdeez](https://github.com/jackmott/simdeez) - Library that abstracts over SIMD instruction sets, including ones with differing widths.
+- [SIMDNoise](https://github.com/jackmott/rust-simd-noise) - Super fast SIMD noise library for Rust.
+- [Josephine](https://github.com/asajeffrey/josephine) - Using JavaScript to safely manage the lifetimes of Rust data.
+- [Colored](https://github.com/mackwic/colored) - Coloring terminal so simple you already know how to do it.
+- [Salva](https://github.com/rustsim/salva) - 2 and 3-dimensional particle-based fluid simulation engine for games and animations.
+- [hdf5](https://github.com/aldanor/hdf5-rust) - HDF5 for Rust.
+- [Schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code.
+- [rusturn](https://github.com/sile/rusturn) - Rust Implementation of TURN server and client.
+- [safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code.
+- [positioned-io](https://github.com/vasi/positioned-io) - Read and write from offsets in Rust.
+- [jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust.
+- [json_typegen](https://github.com/evestera/json_typegen) - Rust types from JSON samples.
+- [pathfinding](https://github.com/samueltardieu/pathfinding) - Implements several pathfinding, flow, and graph algorithms in Rust.
+- [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8.
+- [cron](https://github.com/zslayton/cron) - Cron expression parser in Rust.
+- [Lelet](https://github.com/win-t/lelet) - Task executor that inspired by golang runtime.
+- [relibc](https://github.com/redox-os/relibc) - Portable POSIX C standard library written in Rust. It is under heavy development, and currently supports Redox and Linux.
+- [wasm-mt](https://github.com/w3reality/wasm-mt) - Multithreading library for Rust and WebAssembly.
+- [Simba](https://github.com/rustsim/simba) - SIMD algebra for Rust.
+- [render](https://github.com/render-rs/render.rs) - Safe and simple template engine with the ergonomics of JSX.
+- [memmap2](https://github.com/RazrFalcon/memmap2-rs) - Cross-platform Rust API for memory mapped IO.
+- [bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel.
+- [sdfu](https://github.com/termhn/sdfu) - Signed Distance Field Utilities.
+- [webrtc-audio-processing](https://github.com/tonarino/webrtc-audio-processing) - Wrapper around PulseAudio's repackaging of WebRTC's AudioProcessing module.
+- [Elfkit](https://github.com/aep/elfkit) - Rust elf parsing, manipulation and (re)linking toolkit.
+- [owning-ref-rs](https://github.com/Kimundi/owning-ref-rs) - Library for creating references that carry their owner with them.
+- [Nuclei](https://github.com/vertexclique/nuclei) - Proactive IO system which is runtime agnostic and can work with any runtime. ([Lobsters](https://lobste.rs/s/qzuwsl/nuclei_proactive_io_runtime_system))
+- [Autocxx](https://github.com/google/autocxx) - Tool for calling C++ from Rust in a heavily automated, but safe, fashion. ([Reddit](https://www.reddit.com/r/rust/comments/iefeum/googleautocxx_calling_c_from_rust_in_a_heavily/))
+- [Scipio](https://github.com/DataDog/scipio) - Cooperative Thread-per-Core crate for Rust & Linux based on io_uring. ([Article](https://www.datadoghq.com/blog/engineering/introducing-scipio/)) ([HN](https://news.ycombinator.com/item?id=24976533))
+- [Rust command-line library](https://github.com/rust-shell-script/rust_cmd_lib) ([HN](https://news.ycombinator.com/item?id=24249646))
+- [rustcommon](https://github.com/twitter/rustcommon) - Common Twitter Rust lib.
+- [rust-dominator](https://github.com/Pauan/rust-dominator) - Zero cost declarative DOM library using FRP signals for Rust.
+- [maplit](https://github.com/bluss/maplit) - Rust container / collection literal macros for HashMap, HashSet, BTreeMap, BTreeSet.
+- [cio](https://github.com/oxidecomputer/cio) - Set of Rust libraries for accessing various APIs for doing CIO jobs. ([Automated CIO](https://blog.jessfraz.com/post/the-automated-cio/))
+- [ocaml-interop](https://github.com/simplestaking/ocaml-interop) - OCaml<-\>Rust FFI with an emphasis on safety.
+- [fs-err](https://github.com/andrewhickman/fs-err) - Simple wrapper around filesystem operations to provide more helpful error messages.
+- [ring-compat](https://github.com/RustCrypto/ring-compat) - Compatibility crate for using RustCrypto's traits with the cryptographic algorithm implementations from ring.
+- [untrusted.rs](https://github.com/briansmith/untrusted) - Safe, fast, zero-panic, zero-crashing, zero-allocation parsing of untrusted inputs in Rust.
+- [rust-dangerous](https://github.com/avitex/rust-dangerous) - Rust library for safely and explicitly parsing user-generated data.
+- [magick-rust](https://github.com/nlfiedler/magick-rust) - Rust bindings for ImageMagick.
+- [indoc](https://github.com/dtolnay/indoc) - Indented document literals for Rust.
+- [libgoblin](https://github.com/m4b/goblin) - Impish, cross-platform binary parsing crate, written in Rust.
+- [com-rs](https://github.com/microsoft/com-rs) - Rust Crate for Creating and Consuming COM APIs.
+- [Headcrab](https://github.com/headcrab-rs/headcrab) - Modern Rust debugging library. ([The Soul of a New Debugger](http://nbaksalyar.github.io/2020/07/12/soul-of-a-new-debugger.html))
+- [rust-dlopen](https://github.com/szymonwieloch/rust-dlopen) - Rust library for opening and working with dynamic link libraries.
+- [rust-lazysort](https://github.com/benashford/rust-lazysort) - Iterate in a lazily achieved sorted order.
+- [decimal](https://github.com/alkis/decimal) - Decimal Floating Point arithmetic for rust.
+- [declio](https://github.com/agausmann/declio) - Declarative I/O serialization library.
+- [rye](https://github.com/mpdn/rye) - Minimal, x86-64-only experiment into adding fibers to Rust.
+- [stdsimd](https://github.com/rust-lang/stdsimd) - Rust's standard library portable SIMD API.
+- [act-zero](https://github.com/Diggsey/act-zero) - Actor system for Rust.
+- [Scones](https://github.com/joshua-maros/scones) - Quick and powerful constructor/builder generation in Rust.
+- [rustls-native-certs](https://github.com/ctz/rustls-native-certs) - Integration with OS certificate stores for rustls.
+- [Tokio Tls](https://github.com/tokio-rs/tls) - Collection of Tokio based TLS libraries.
+- [shared-arena](https://github.com/sebastiencs/shared-arena) - Thread-safe & efficient memory pool.
+- [random_color](https://github.com/elementh/random_color) - Rust crate for generating random attractive colors.
+- [flexi_logger](https://github.com/emabee/flexi_logger) - Flexible logger for rust programs that can write to stderr or to log files.
+- [spin-rs](https://github.com/mvdnes/spin-rs) - Spin-based synchronization primitives.
+- [Tremor](https://github.com/tremor-rs/tremor-runtime) - Event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation. ([Web](https://www.tremor.rs/)) ([v0.9 release](https://www.tremor.rs/blog/2020-10-16-v09-release/))
+- [uom](https://github.com/iliekturtles/uom) - Units of measurement -- type-safe zero-cost dimensional analysis.
+- [tar-rs](https://github.com/alexcrichton/tar-rs) - Tar file reading/writing for Rust.
+- [Rio](https://github.com/oxigraph/rio) - RDF parsers library.
+- [mles-rs](https://github.com/jq-rs/mles-rs) - Distributed publish-subscribe data service and Mles protocol reference implementation on Rust, Tokio and Serde.
+- [sharded-slab](https://github.com/hawkw/sharded-slab) - Lock-free concurrent slab. Provide pre-allocated storage for many instances of a single data type.
+- [inline-c](https://github.com/Hywan/inline-c-rs) - Write and execute C code inside Rust.
+- [includedir](https://github.com/tilpner/includedir) - Include a whole directory tree at compile time.
+- [strsim-rs](https://github.com/dguo/strsim-rs) - Rust implementations of string similarity metrics.
+- [uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI. ([HN](https://news.ycombinator.com/item?id=24888307))
+- [OpenTelemetry-Rust](https://github.com/open-telemetry/opentelemetry-rust) - OpenTelemetry API and SDK for Rust.
+- [cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library. ([Article](https://blog.sunfishcode.online/introducing-cap-std/)) ([Lobsters](https://lobste.rs/s/rlwby3/introducing_cap_std_capability_based))
+- [Fuzzy Matcher](https://github.com/lotabout/fuzzy-matcher) - Fuzzy Matching Library for Rust.
+- [dirs-next](https://github.com/xdg-rs/dirs) - Low-level library that provides config/cache/data paths.
+- [generator-rs](https://github.com/Xudong-Huang/generator-rs) - Rust stackful generator library.
+- [image2](https://github.com/zshipko/image2-rs) - Image processing library for Rust.
+- [ZEXE](https://github.com/scipr-lab/zexe) - Rust library for decentralized private computation.
+- [cargo-flash](https://github.com/probe-rs/cargo-flash) - Cargo extension for programming microcontrollers.
+- [object](https://github.com/gimli-rs/object) - Unified interface for reading and writing object file formats.
+- [fancy-regex](https://github.com/fancy-regex/fancy-regex) - Rust library for regular expressions using "fancy" features like look-around and backreferences.
+- [rust-base64](https://github.com/marshallpierce/rust-base64) - base64, in rust.
+- [scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors.
+- [rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust.
+- [anchors](https://github.com/lord/anchors) - Self adjusting computations in rust.
+- [gpu-allocator](https://github.com/Traverse-Research/gpu-allocator) - Memory allocator written in pure Rust for GPU memory in Vulkan and in the future DirectX 12.
+- [rspirv-reflect](https://github.com/Traverse-Research/rspirv-reflect) - Minimal SPIR-V reflection library.
+- [rkv](https://github.com/mozilla/rkv) - Simple, humane, typed Rust interface to LMDB.
+- [difference.rs](https://github.com/johannhof/difference.rs) - Rust text diffing library with built-in diffing assertion.
+- [liquid-rust](https://github.com/cobalt-org/liquid-rust) - Liquid templating for Rust.
+- [vmap-rs](https://github.com/kalamay/vmap-rs) - Cross-platform library for fast and safe memory-mapped IO in Rust.
+- [metrics](https://github.com/metrics-rs/metrics) - Metrics ecosystem for Rust.
+- [primordial](https://github.com/enarx/primordial) - Low-level CPU primitives.
+- [rkyv](https://github.com/djkoloski/rkyv) - Zero-copy deserialization framework for Rust.
+- [Sparse merkle tree](https://github.com/jjyr/sparse-merkle-tree) - Optimized sparse merkle tree.
+- [X.509 Parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
+- [swanky](https://github.com/GaloisInc/swanky) - Suite of rust libraries for secure multi-party computation.
+- [lingua-rs](https://github.com/pemistahl/lingua-rs) - Accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike. ([Python](https://github.com/messense/lingua-py))
+- [fastrand](https://github.com/smol-rs/fastrand) - Simple and fast random number generator.
+- [Kompact](https://github.com/kompics/kompact) - Component System in Rust.
+- [faerie](https://github.com/m4b/faerie) - Magical ELF and Mach-o object file writer backend.
+- [extendr](https://github.com/extendr/extendr) - Low-level R library bindings.
+- [bumpalo](https://github.com/fitzgen/bumpalo) - Fast bump allocation arena for Rust.
+- [r0](https://github.com/rust-embedded/r0) - Memory initialization code written in Rust.
+- [Lunatic](https://github.com/lunatic-solutions/lunatic) - Erlang inspired runtime for WebAssembly. ([Web](https://lunatic.solutions/)) ([HN](https://news.ycombinator.com/item?id=26367029)) ([Lobsters](https://lobste.rs/s/2m7hak/lunatic_erlang_inspired_runtime_for_all)) ([HN](https://news.ycombinator.com/item?id=28008737))
+- [Kira](https://github.com/tesselode/kira) - Library for expressive game audio.
+- [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
+- [infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature.
+- [pretty-env-logger](https://github.com/seanmonstar/pretty-env-logger) - Pretty, easy-to-use logger for Rust.
+- [grmtools](https://github.com/softdevteam/grmtools) - Suite of Rust libraries and binaries for parsing text, both at compile-time, and run-time.
+- [HashRing](https://github.com/jeromefroe/hashring-rs) - Minimal implementation of consistent hashing.
+- [inherent](https://github.com/dtolnay/inherent) - Make trait methods callable without the trait in scope.
+- [nanoserde](https://github.com/not-fl3/nanoserde) - Serialisation library with zero dependencies.
+- [coca](https://github.com/teryror/coca) - Allocation-free data structures that make do with the memory they're given. ([Reddit](https://www.reddit.com/r/rust/comments/t6npfj/announcing_coca_v030_allocationfree_data/))
+- [typed-index-collections](https://github.com/zheland/typed-index-collections) - Typed index version of Rust slice and Vec containers.
+- [slotmap](https://github.com/orlp/slotmap) - Slotmap data structure for Rust.
+- [Erased Serde](https://github.com/dtolnay/erased-serde) - Type-erased Serialize, Serializer and Deserializer traits.
+- [hyphenation](https://github.com/tapeinosyne/hyphenation) - Text hyphenation for Rust.
+- [genovo](https://github.com/innoave/genevo) - Execute genetic algorithm (GA) simulations in a customizable and extensible way.
+- [dhat](https://github.com/nnethercote/dhat-rs) - Heap profiling and ad hoc profiling for Rust programs.
+- [Polonius](https://github.com/rust-lang/polonius) - Core library that models the borrow check.
+- [Thermite SIMD](https://github.com/raygon-renderer/thermite) - SIMD library focused on providing portable SIMD acceleration of SoA (Structure of Arrays) algorithms.
+- [generic-array](https://github.com/fizyk20/generic-array) - Generic array types in Rust.
+- [numeric-array](https://github.com/novacrazy/numeric-array) - Wrapper around generic-array that adds efficient numeric trait implementations.
+- [par-stream](https://github.com/jerry73204/par-stream) - Asynchronous Parallel Stream for Rust.
+- [triple-buffer](https://github.com/HadrienG2/triple-buffer) - Implementation of triple buffering written in Rust.
+- [linked-list-allocator](https://github.com/phil-opp/linked-list-allocator) - Create a static allocator.
+- [claim](https://github.com/svartalf/rust-claim) - Assertion macros toolkit for Rust.
+- [reformation](https://github.com/hukumka/reformation) - Parsing via regular expressions using format syntax.
+- [rust-fasthash](https://github.com/flier/rust-fasthash) - Suite of non-cryptographic hash functions for Rust.
+- [GilRs](https://github.com/Arvamer/gilrs) - Game Input Library for Rust.
+- [rendezvous_hash](https://github.com/sile/rendezvous_hash) - Rust implementation of Rendezvous hashing algorithm.
+- [quanta](https://github.com/metrics-rs/quanta) - Speed timing library, useful for getting the current time very quickly.
+- [JMESPath Rust](https://github.com/jmespath/jmespath.rs) - Rust implementation of JMESPath, a query language for JSON.
+- [stream-cancel](https://github.com/jonhoo/stream-cancel) - Rust library for interrupting asynchronous streams.
+- [Mutation](https://github.com/zesterer/mutation) - Unleash the power of nightly Rust to write code that's generic over mutation.
+- [evmap](https://github.com/jonhoo/evmap) - Lock-free, eventually consistent, concurrent multi-value map.
+- [RustFFT](https://github.com/ejmahler/RustFFT) - Mixed-radix FFT library written in pure Rust.
+- [RIPP (Rust Inner Pairing Products)](https://github.com/arkworks-rs/ripp) - Rust library for proofs about inner pairing products, and applications built atop these.
+- [fake-rs](https://github.com/cksac/fake-rs) - Rust library for generating fake data.
+- [Xactor](https://github.com/sunli829/xactor) - Rust actors framework based on async-std.
+- [Failsafe](https://github.com/dmexe/failsafe-rs) - Circuit breaker implementation for rust.
+- [rust-ascii](https://github.com/tomprogrammer/rust-ascii) - ASCII-only equivalents to `char`, `str` and `String`.
+- [varint-simd](https://github.com/as-com/varint-simd) - SIMD-accelerated varint encoder and decoder in Rust.
+- [ndarray-linalg](https://github.com/rust-ndarray/ndarray-linalg) - Linear algebra package for rust-ndarray using LAPACK binding.
+- [Merkle Storage](https://github.com/fafk/merkle_storage) - Key-value git-like storage with full history backed by RocksDB.
+- [arcode-rs](https://github.com/cgburgess/arcode-rs) - Arithmetic coder for Rust.
+- [heck](https://github.com/withoutboats/heck) - Case conversion library.
+- [kApp](https://github.com/kettle11/kapp) - Pure Rust window and input library for Windows, Mac, and Web.
+- [predicates-rs](https://github.com/assert-rs/predicates-rs) - Implementation of boolean-valued predicate functions in Rust.
+- [assert_cmd](https://github.com/assert-rs/assert_cmd) - Assert process::Command - Easy command initialization and assertions.
+- [toml-rs](https://github.com/alexcrichton/toml-rs) - TOML encoding/decoding library for Rust.
+- [Real-Time Ring Buffer](https://github.com/mgeier/rtrb) - Wait-free single-producer single-consumer ring buffer for Rust.
+- [daggy](https://github.com/mitchmindtree/daggy) - Directed acyclic graph data structure for Rust.
+- [LibHoare](https://github.com/nrc/libhoare) - Design by contract style assertions for Rust.
+- [crc32fast](https://github.com/srijs/rust-crc32fast) - Fast, SIMD-accelerated CRC32 (IEEE) checksum computation in Rust.
+- [Ouroboros](https://github.com/joshua-maros/ouroboros) - Easy self-referential struct generation for Rust.
+- [Gazebo](https://github.com/facebookincubator/gazebo) - Rust library containing a collection of small well-tested primitives.
+- [Arcon](https://github.com/cda-group/arcon) - Runtime for Writing Streaming Applications in Rust.
+- [joinery](https://github.com/Lucretiel/joinery) - Rust library for generically joining iterables with a separator.
+- [rpmalloc-rs](https://github.com/EmbarkStudios/rpmalloc-rs) - Cross-platform Rust global memory allocator using rpmalloc.
+- [shadow-rs](https://github.com/baoyachi/shadow-rs) - Build-time information stored in your binary.
+- [jni-rs](https://github.com/jni-rs/jni-rs) - Rust bindings to the Java Native Interface.
+- [Plotly](https://github.com/igiagkiozis/plotly) - Plotting library for Rust powered by Plotly.js
+- [Spiril](https://github.com/Jeffail/spiril) - Rust library for genetic algorithms.
+- [cstree](https://github.com/domenicquirl/cstree) - Library for creating and working with concrete syntax trees (CSTs).
+- [Cocoon](https://github.com/fadeevab/cocoon) - Simple and relyable secure storage with strong encryption and format validation.
+- [BitReader](https://github.com/irauta/bitreader) - Helper type to extract strings of bits from a slice of bytes.
+- [Rust FUSE](https://github.com/zargony/fuse-rs) - Rust library for filesystems in userspace (FUSE).
+- [bpfs](https://github.com/bparli/bpfs) - Rust In-Memory Filesystem.
+- [flize](https://github.com/xacrimon/flize) - Non global, configurable and fast concurrent resource reclamation.
+- [num-traits](https://github.com/rust-num/num-traits) - Numeric traits for generic mathematics in Rust.
+- [mlua](https://github.com/khvzak/mlua) - High level Lua bindings to Rust with async/await support..
+- [victoria-dom](https://github.com/khvzak/victoria-dom) - Minimalistic HTML parser with CSS selectors.
+- [MultiQueue2](https://github.com/abbychau/multiqueue2) - Fast MPMC Broadcast Queue.
+- [Linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans.
+- [hold_my_beer](https://github.com/Jake-Shadle/hold_my_beer) - Don't let unsafe get you down.
+- [rusty-sandbox](https://github.com/myfreeweb/rusty-sandbox) - Sandboxing library for Rust.
+- [etcd-client](https://github.com/etcdv3/etcd-client) - etcd v3 API client for Rust. It provides asynchronous client backed by tokio and tonic.
+- [alga](https://github.com/dimforge/alga) - Abstract algebra for Rust.
+- [Postcard](https://github.com/jamesmunns/postcard) - no_std + serde compatible message library for Rust.
+- [soa-derive](https://github.com/lumol-org/soa-derive) - Array of Struct to Struct of Array helpers in Rust.
+- [bacon](https://github.com/aftix/bacon) - Scientific Computing in Rust. ([Article](https://aftix.xyz/home/bacon/))
+- [slab](https://github.com/carllerche/slab) - Pre-allocated storage for a uniform data type.
+- [Cuckoo Filter](https://github.com/axiomhq/rust-cuckoofilter) - Bloom filter replacement for approximated set-membership queries.
+- [QuantMath](https://github.com/MarcusRainbow/QuantMath) - Financial maths library for risk-neutral pricing and risk. ([HN](https://news.ycombinator.com/item?id=25814113))
+- [Egg](https://github.com/egraphs-good/egg) - Flexible, high-performance e-graph library. ([Web](https://egraphs-good.github.io/)) ([Talk](https://www.youtube.com/watch?v=LKELTEOFY-s)) ([HN](https://news.ycombinator.com/item?id=26587209))
+- [Codegen](https://github.com/carllerche/codegen) - Provides an builder API to assist in generating Rust code.
+- [similar](https://github.com/mitsuhiko/similar) - High level diffing library for rust based on diffs.
+- [x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
+- [lz4_flex](https://github.com/PSeitz/lz4_flex) - Pure Rust implementation of raw LZ4 compression/decompression.
+- [Stakker](https://github.com/uazu/stakker) - Lightweight low-level single-threaded actor runtime.
+- [Vicis](https://github.com/maekawatoshiki/vicis) - Manipulate LLVM-IR in Pure Rust.
+- [tryhard](https://github.com/EmbarkStudios/tryhard) - Easily retry futures.
+- [visualizer2](https://github.com/Rahix/visualizer2) - Audio Visualization in Rust.
+- [rtt-target](https://github.com/mvirkkunen/rtt-target) - Target side implementation of the RTT (Real-Time Transfer) I/O protocol.
+- [shuffling-allocator](https://github.com/fitzgen/shuffling-allocator)
+- [governor](https://github.com/antifuchs/governor) - Library for regulating the flow of data.
+- [flurry](https://github.com/jonhoo/flurry) - Port of Java's ConcurrentHashMap to Rust.
+- [fast-float](https://github.com/aldanor/fast-float-rust) - Super-fast decimal number parser from strings into floats.
+- [saifish](https://github.com/Kogia-sima/sailfish) - Simple, small, and extremely fast template engine for Rust. ([Docs](https://sailfish.netlify.app/en/))
+- [async-task](https://github.com/smol-rs/async-task) - Task abstraction for building executors.
+- [Minitrace](https://github.com/tikv/minitrace-rust) - High-performance timeline tracing library for Rust, used by TiKV.
+- [freeverb-rs](https://github.com/irh/freeverb-rs) - Rust implementation of the Freeverb algorithm.
+- [Trie](https://github.com/paritytech/trie) - Generic implementation of the Base-16 Modified Merkle Tree ("Trie") data structure.
+- [config-rs](https://github.com/mehcode/config-rs) - Layered configuration system for Rust applications (with strong support for 12-factor applications).
+- [countme](https://github.com/matklad/countme) - Library to quickly get the live/total/max counts of allocated instances.
+- [btleplug](https://github.com/deviceplug/btleplug) - Rust Cross-Platform Host-Side Bluetooth LE Access Library.
+- [sysinfo](https://github.com/GuillaumeGomez/sysinfo) - System handler to interact with processes.
+- [Peroxide](https://github.com/Axect/Peroxide) - Rust numeric library contains linear algebra, numerical analysis, statistics and machine learning tools with R, MATLAB, Python like macros.
+- [Embassy](https://github.com/akiles/embassy) - Rust embedded async tools.
+- [uniffi](https://github.com/mozilla/uniffi-rs) - Multi-language bindings generator for rust.
+- [gaol](https://github.com/servo/gaol) - Cross-platform application sandboxing for Rust.
+- [auto_enums](https://github.com/taiki-e/auto_enums) - Library for to allow multiple return types by automatically generated enum.
+- [pin-project](https://github.com/taiki-e/pin-project) - Crate for safe and ergonomic pin-projection.
+- [deepspeech-rs](https://github.com/RustAudio/deepspeech-rs) - Rust bindings of Mozilla's DeepSpeech library.
+- [alloca-rs](https://github.com/playXE/alloca-rs) - Mostly safe no_std wrapper for alloca in Rust.
+- [CPAL](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust.
+- [Tokenizer](https://github.com/meilisearch/Tokenizer) - Library used by Meilisearch to tokenize queries and documents.
+- [dtoa](https://github.com/dtolnay/dtoa) - Fast functions for printing floating-point primitives to an io::Write.
+- [Symphonia](https://github.com/pdeljanov/Symphonia) - Rust audio decoding and media demuxing library supporting OGG, FLAC, MP3, and WAV.
+- [treediff-rs](httops://github.com/Byron/treediff-rs) - Library to compare arbitrary structured data of the same type, efficiently.
+- [replace_with](https://github.com/alecmocatta/replace_with) - Temporarily take ownership of a value at a mutable location, and replace it with a new value based on the old one.
+- [Moka](https://github.com/moka-rs/moka) - Fast, concurrent cache library for Rust.
+- [nonblockinghashmap](https://github.com/rlei/nonblockinghashmap) - Non-blocking hash map in Rust.
+- [thread_io](https://github.com/markschl/thread_io) - Rust crate for performing I/O in background thread.
+- [LRU Cache](https://github.com/jeromefroe/lru-rs) - Implementation of a LRU cache in Rust.
+- [Aper](https://github.com/aper-dev/aper) - Synchronized state machines for Rust over WebSockets.
+- [Parry](https://github.com/dimforge/parry) - 2D and 3D collision-detection library for Rust.rs.
+- [meio](https://github.com/rillrate/meio) - Async actor framework for Rust.
+- [Decimal](https://github.com/paupino/rust-decimal) - Decimal Implementation written in pure Rust suitable for financial calculations.
+- [message-io](https://github.com/lemunozm/message-io) - Event-driven message library for building network applications easy and fast.
+- [GraphQL Parser](https://github.com/graphql-rust/graphql-parser) - Parser, formatter and AST for graphql query and schema definition language for rust.
+- [multer-rs](https://github.com/rousan/multer-rs) - Async parser for multipart/form-data content-type in Rust.
+- [conch-runtime](https://github.com/ipetkov/conch-runtime) - Rust library/runtime for executing Unix shell commands.
+- [rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust.
+- [async-io](https://github.com/smol-rs/async-io) - Async I/O and timers.
+- [stroke-rs](https://github.com/dorianprill/stroke-rs) - Zero-allocation library providing const-generic implementations of Bézier curves, B-Spline curves.
+- [j4rs](https://github.com/astonbitecode/j4rs) - Java for Rust.
+- [autocfg](https://github.com/cuviper/autocfg) - Rust library for build scripts to automatically configure code based on compiler support.
+- [Figment](https://github.com/SergioBenitez/Figment) - Semi-hierarchical configuration library for Rust.
+- [Arbitrary](https://github.com/rust-fuzz/arbitrary) - Trait for generating structured data from arbitrary, unstructured input.
+- [RRT](https://github.com/openrr/rrt) - Rapidly-exploring Random Tree library in Rust.
+- [storage-poc](https://github.com/matthieu-m/storage-poc) - Exploration of using Storage instead of Allocator to parameterize collections in Rust.
+- [safe-transmute-rs](https://github.com/nabijaczleweli/safe-transmute-rs) - Safe-guarded transmute for Rust.
+- [partialdebug](https://github.com/dimpolo/partialdebug) - Derive Debug for types where not all fields implement Debug.
+- [wide](https://github.com/Lokathor/wide) - Crate to help you go wide. By which I mean use SIMD stuff.
+- [Tailcall](https://github.com/alecdotninja/tailcall) - Safe, zero-cost tail recursion for stable Rust.
+- [async-imap](https://github.com/async-email/async-imap) - Async IMAP implementation in Rust.
+- [nachricht](https://github.com/yasammez/nachricht) - Self-describing data interchange format.
+- [Enumflags](https://github.com/NieDzejkob/enumflags2) - Rust library for efficiently representing sets of data-less enums.
+- [cooper](https://github.com/fpagliughi/cooper-rs) - Simple in-process Actor library in Rust.
+- [Mtrx](https://github.com/MayorMonty/mtrx) - Type-safe matrix operations using Rust's const generics.
+- [Rustwide](https://github.com/rust-lang/rustwide) - Execute your code on the Rust ecosystem.
+- [array-init](https://github.com/Manishearth/array-init) - Safe wrapper for initializing arrays.
+- [voladdress](https://github.com/rust-console/voladdress) - Crate to make volatile memory operations easy to work with.
+- [bb8](https://github.com/djc/bb8) - Full-featured connection pool, designed for asynchronous connections (using tokio).
+- [Sophia](https://github.com/pchampin/sophia_rs) - Rust toolkit for RDF and Linked Data.
+- [switchyard](https://github.com/BVE-Reborn/switchyard) - Real-time compute-focused async executor with job pools, thread-local data, and priorities.
+- [tokio-uring](https://github.com/tokio-rs/tokio-uring) - tokio-uring backed runtime for Rust.
+- [rust-iterators](https://github.com/rustomax/rust-iterators) - Basic Rust iterator usage.
+- [uluru](https://github.com/servo/uluru) - Simple, fast, LRU cache implementation.
+- [Typetag](https://github.com/dtolnay/typetag) - Serde serializable and deserializable trait objects.
+- [popol](https://github.com/cloudhead/popol) - Minimal non-blocking I/O for Rust.
+- [escher](https://github.com/petrosagg/escher) - Self-referencial structs using async stacks.
+- [dipa](https://github.com/chinedufn/dipa) - Makes it easy to efficiently delta encode large Rust data structures.
+- [Scribe](https://github.com/jmacdonald/scribe) - Text editor toolkit.
+- [mint](https://github.com/kvark/mint) - Math Interoperability Types.
+- [niffler](https://github.com/luizirber/niffler) - Simple and transparent support for compressed files.
+- [zstd-rs](https://github.com/gyscos/zstd-rs) - Rust binding for the zstd compression library.
+- [markup.rs](https://github.com/utkarshkukreti/markup.rs) - Blazing fast, type-safe template engine for Rust.
+- [argmin](https://github.com/argmin-rs/argmin) - Mathematical optimization in pure Rust.
+- [trait-set](https://github.com/popzxc/trait-set) - Trait aliases on stable Rust.
+- [String Interner](https://github.com/Robbepop/string-interner) - Data structure to efficiently intern, cache and restore strings.
+- [simdutf8](https://github.com/rusticstuff/simdutf8) - SIMD-accelerated UTF-8 validation for Rust.
+- [biquad](https://github.com/korken89/biquad-rs) - Rust library for digital second order IIR filtrers, also known as biquads.
+- [Deltoid](https://github.com/jjpe/deltoid) - Type-driven rust library that can be used to calculate deltas.
+- [ipc-channel](https://github.com/servo/ipc-channel) - Multiprocess drop-in replacement for Rust channels.
+- [Prepona](https://github.com/maminrayej/prepona) - Graph crate with simplicity in mind.
+- [delay-timer](https://github.com/BinChengZhao/delay-timer) - Time-manager of delayed tasks.
+- [jsonschema](https://github.com/Stranger6667/jsonschema-rs) - JSON Schema validation library.
+- [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
+- [profiling](https://github.com/aclysma/profiling) - Provides a very thin abstraction over instrumented profiling crates like puffin, optick, tracy, and superluminal-perf.
+- [ocaml-rs](https://github.com/zshipko/ocaml-rs) - OCaml extensions in Rust.
+- [gumdrop](https://github.com/murarth/gumdrop) - Rust option parser with custom derive support.
+- [memchr](https://github.com/BurntSushi/memchr) - Optimized string search routines for Rust.
+- [Scalable Concurrent Containers](https://github.com/wvwwvwwv/scalable-concurrent-containers) - Scalable concurrent data structures for database management systems.
+- [lexical](https://github.com/Alexhuszagh/rust-lexical) - Fast lexical conversion routines for both std and no_std environments.
+- [Drop-Merge-Sort](https://github.com/emilk/drop-merge-sort) - Adaptive sorting algorithm.
+- [Sauce](https://github.com/DanCardin/sauce) - Context specific everything.
+- [tokio-console](https://github.com/tokio-rs/console) - Diagnostics and debugging tool for asynchronous Rust programs.
+- [jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await.
+- [bytemuck](https://github.com/Lokathor/bytemuck) - Crate for mucking around with piles of bytes.
+- [heed](https://github.com/Kerollmops/heed) - Fully typed LMDB/MDBX wrapper with minimum overhead.
+- [FUSE-Rust](https://github.com/cberner/fuser) - Rust library crate for easy implementation of FUSE filesystems in userspace.
+- [micromath](https://github.com/tarcieri/micromath) - Embedded Rust arithmetic, 2D/3D vector, and statistics library.
+- [Ordered Floats](https://github.com/reem/rust-ordered-float) - Provides several wrapper types for Ord and Eq implementations on f64.
+- [sorbus](https://github.com/CAD97/sorbus) - Generic "green" syntax tree implementation.
+- [Pointer Utils](https://github.com/CAD97/pointer-utils) - Collection of small utilities for working with pointer types in Rust.
+- [Valuable](https://github.com/tokio-rs/valuable) - Provides object-safe value inspection. Use cases include passing structured data to trait objects and object-safe serialization.
+- [semver](https://github.com/dtolnay/semver) - Parser and evaluator for Cargo's flavor of Semantic Versioning.
+- [hashed-permutation](https://github.com/afnanenayet/hashed-permutation) - An implementation of Kensler's hashed permutation algorithm.
+- [Array2D](https://github.com/HarrisonMc555/array2d) - Statically-sized two-dimensional array written in Rust.
+- [Ropey](https://github.com/cessen/ropey) - utf8 text rope for manipulating and editing large texts.
+- [Twoway](https://github.com/bluss/twoway) - Fast substring search for strings and byte strings, using the two-way algorithm.
+- [serde-diff](https://github.com/amethyst/serde-diff) - Utility for comparing two structs and re-applying the differences to other structs.
+- [Sluice](https://github.com/sagebind/sluice) - Asynchronous byte buffers and pipes for concurrent I/O programming.
+- [terminusdb-store](https://github.com/terminusdb/terminusdb-store) - Tokio-enabled data store for triple data.
+- [async-attributes](https://github.com/async-rs/async-attributes) - Experimental language-level polyfills for Async Rust.
+- [speedy](https://github.com/koute/speedy) - Fast binary serialization framework.
+- [serde_with](https://github.com/jonasbb/serde_with) - Custom de/serialization functions for Rust's serde using the with-annotation.
+- [tabled](https://github.com/zhiburt/tabled) - Easy to use library for pretty print tables of Rust structs and enums.
+- [async-stream](https://github.com/tokio-rs/async-stream) - Asynchronous streams for Rust using async & await notation.
+- [Concread](https://github.com/kanidm/concread) - Concurrently Readable Data Structures for Rust.
+- [cap](https://github.com/alecmocatta/cap) - Allocator that can track and limit memory usage.
+- [Instant Distance](https://github.com/InstantDomain/instant-distance) - Fast approximate nearest neighbor searching in Rust, based on HNSW index.
+- [static-rc](https://github.com/matthieu-m/static-rc) - Compile-time reference counting.
+- [async raft](https://github.com/async-raft/async-raft) - Implementation of the Raft distributed consensus protocol using the Tokio framework.
+- [arrow-rs](https://github.com/apache/arrow-rs) - Native Rust implementation of Apache Arrow.
+- [gtmpl-rust](https://github.com/fiji-flo/gtmpl-rust) - Go text/template for rust.
+- [rust-x86](https://github.com/gz/rust-x86) - Rust library to use x86 (amd64) specific functionality and registers.
+- [granne](https://github.com/granne/granne) - Graph-based Approximate Nearest Neighbor Search.
+- [Polars](https://github.com/pola-rs/polars) - Fast multi-threaded DataFrame library in Rust and Python. ([Web](https://www.pola.rs/)) ([HN](https://news.ycombinator.com/item?id=29584698))
+- [TransIter](https://github.com/neithernut/transiter) - Iterator suitable for navigating recursive structures and DAGs in rust.
+- [stdx](https://github.com/brson/stdx) - Missing batteries of Rust.
+- [Exocore](https://github.com/appaquet/exocore) - Distributed applications framework with private and encrypted data storage.
+- [rodio](https://github.com/RustAudio/rodio) - Rust audio playback library.
+- [segvec](https://github.com/mccolljr/segvec) - SegVec data structure for rust. Similar to Vec, but allocates memory in chunks of increasing size.
+- [confy](https://github.com/rust-cli/confy) - Zero-boilerplate configuration management in Rust.
+- [flatparse](https://github.com/AndrasKovacs/flatparse) - Fast parsing from bytestrings.
+- [Live Reload](https://github.com/porglezomp-misc/live-reloading-rs) - Live reloading for Rust programming.
+- [Iftree](https://github.com/evolutics/iftree) - Include many files in your Rust code for self-contained binaries.
+- [Ariadne](https://github.com/zesterer/ariadne) - Fancy error diagnostics & reporting crate.
+- [Chumsky](https://github.com/zesterer/chumsky) - Friendly parser combinator crate that makes writing LL(1) parsers with error recovery easy.
+- [async-backplane](https://github.com/irrustible/async-backplane) - Easy, Erlang-inspired fault-tolerance framework for Rust Futures.
+- [Eventuals](https://github.com/edgeandnode/eventuals) - Eventually consistent values for Rust.
+- [cargo-profile](https://github.com/kdy1/cargo-profile) - Profiling rust program made easy.
+- [Arrow2](https://github.com/jorgecarleitao/arrow2) - Transmute-free Rust library to work with the Arrow format.
+- [beef](https://github.com/maciejhirsz/beef) - Faster, more compact implementation of std::borrow::Cow.
+- [uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
+- [QuantLib](https://github.com/piquette/quantlib) - Idiomatic rust implementation of the QuantLib C++ quantitative finance library.
+- [dynamic_reload](https://github.com/emoon/dynamic_reload) - Dynamic reloading of shared libraries.
+- [rosc](https://github.com/klingtnet/rosc) - OSC library for Rust.
+- [Y CRDT](https://github.com/yjs/y-crdt)
+- [Hora](https://github.com/hora-search/hora) - Approximate nearest neighbor search algorithm library. ([Web](https://horasearch.com/))
+- [fork](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon) using the fork and setsid syscalls.
+- [peekread](https://github.com/orlp/peekread) - Allows you to take an arbitrary Read stream and 'peek ahead' into the stream without consuming the original stream.
+- [Dialectic](https://github.com/boltlabs-inc/dialectic) - Transport-polymorphic, asynchronous session types for Rust.
+- [MRML](https://github.com/jdrouet/mrml) - Reimplementation of the nice MJML markup language in Rust.
+- [p2panda](https://github.com/p2panda/p2panda) - Provides all tools required to write a client for the p2panda network.
+- [log4rs](https://github.com/estk/log4rs) - Highly configurable logging framework for Rust.
+- [executor](https://github.com/richardanaya/executor) - Minimalistic async/await executor for Rust.
+- [wait-timeout](https://github.com/alexcrichton/wait-timeout) - Waiting on a child process with a timeout in Rust.
+- [getrandom](https://github.com/rust-random/getrandom) - Small cross-platform library to securely get random data (entropy).
+- [stdarch](https://github.com/rust-lang/stdarch) - Rust's standard library SIMD components.
+- [Gallium](https://github.com/ComLarsic/gallium_ecs) - Simple entity-component-system crate for rust with serialization support.
+- [dyn-clone](https://github.com/dtolnay/dyn-clone) - Clone trait that is object-safe.
+- [Obake](https://github.com/doctorn/obake) - Versioned data-structures for Rust.
+- [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Concurrency extensions for Future.
+- [Hypergraph](https://github.com/yamafaktory/hypergraph) - Data structure library to generate directed hypergraphs.
+- [cast](https://github.com/japaric/cast.rs) - Ergonomic, checked cast functions for primitive types.
+- [Cambria](https://github.com/Actyx/cambria) - Use lenses to maintain forwards and backwards compatibility with your software.
+- [async-wormhole](https://github.com/lunatic-solutions/async-wormhole) - Allows you to .await async calls in non-async functions, like extern "C" or JIT generated code.
+- [extend](https://github.com/davidpdrsn/extend) - Create extensions for types you don't own with extension traits but without the boilerplate.
+- [Enterpolation](https://github.com/NicolasKlenert/enterpolation) - Library for creating and computing interpolations, extrapolations and smoothing of generic data points.
+- [rust-sgx](https://github.com/fortanix/rust-sgx) - Fortanix Rust Enclave Development Platform.
+- [tonari-actor](https://github.com/tonarino/actor) - Minimalist actor framework aiming for high performance and simplicity.
+- [Strum](https://github.com/Peternator7/strum) - Set of macros and traits for working with enums and strings easier in Rust.
+- [detour-rs](https://github.com/darfink/detour-rs) - Cross-platform detour library written in Rust.
+- [EVLRU](https://github.com/Bajix/evlru) - Eventually consistent LRU designed for lock-free concurrent reads.
+- [io-lifetimes](https://github.com/sunfishcode/io-lifetimes) - Low-level I/O ownership and borrowing library.
+- [Parity SCALE Codec](https://github.com/paritytech/parity-scale-codec) - Lightweight, efficient, binary serialization and deserialization codec.
+- [bson](https://github.com/mongodb/bson-rust) - Encoding and decoding support for BSON in Rust.
+- [unsafe-io](https://github.com/sunfishcode/unsafe-io) - Non-owning unsafe I/O.
+- [system-interface](https://github.com/bytecodealliance/system-interface) - Extensions to the Rust standard library.
+- [utf8-io](https://github.com/sunfishcode/utf8-io) - Traits and types for UTF-8 I/O.
+- [avro-rs](https://github.com/flavray/avro-rs) - Library for working with Apache Avro in Rust.
+- [Rust Amplify](https://github.com/LNP-BP/rust-amplify) - Amplifying Rust language capabilities: multiple generic trait implementations, type wrappers, derive macros.
+- [spsc-bip-buffer](https://github.com/utaal/spsc-bip-buffer) - Single-producer single-consumer circular buffer that always supports writing a contiguous chunk of data.
+- [Tree-Buf](https://github.com/That3Percent/tree-buf) - Data-oriented, data-driven serializer built for real-world data.
+- [AnyMap](https://github.com/chris-morgan/anymap) - Safe and convenient store for one value of each type.
+- [ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types.
+- [HashiCorp-LRU](https://github.com/al8n/hashicorp-lru) - Contains three LRU based cache, LRUCache, TwoQueueCache and AdaptiveCache.
+- [compact_str](https://github.com/ParkMyCar/compact_str) - Memory efficient immutable string type that can store up to 24\* bytes on the stack.
+- [Heph](https://github.com/Thomasdezeeuw/heph) - Actor framework for Rust based on asynchronous functions.
+- [slog-rs](https://github.com/slog-rs/slog) - Structured, contextual, extensible, composable logging for Rust.
+- [winit](https://github.com/rust-windowing/winit) - Cross-platform window creation and management in Rust.
+- [xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash.
+- [RFD](https://github.com/PolyMeilex/rfd) - Rusty File Dialog.
+- [Pollster](https://github.com/zesterer/pollster) - Minimal async executor that lets you block on a future.
+- [packed_simd](https://github.com/rust-lang/packed_simd) - Portable Packed SIMD Vectors for Rust standard library.
+- [Bardecoder](https://github.com/piderman314/bardecoder) - Detect and decode QR Codes, written in 100% Rust.
+- [Lagoon](https://github.com/zesterer/lagoon) - Thread pool crate with an array of features.
+- [MiniJinja](https://github.com/mitsuhiko/minijinja) - Powerful but minimal dependency template engine for Rust which is based on the syntax and behavior of the Jinja2 template engine.
+- [moveit](https://github.com/google/moveit) - Library for safe, in-place construction of Rust (and C++!) objects.
+- [binrw](https://github.com/jam1garner/binrw) - Rust crate for helping parse and rebuild binary data using macro magic.
+- [Remain](https://github.com/dtolnay/remain) - Compile-time checks that an enum or match is written in sorted order.
+- [good_lp](https://github.com/rust-or/good_lp) - Linear Programming for Rust, with an user-friendly API.
+- [atomic_refcell](https://github.com/bholley/atomic_refcell) - Threadsafe RefCell for Rust.
+- [freqfs](https://docs.rs/freqfs/) - In-memory filesystem cache for Rust. ([HN](https://news.ycombinator.com/item?id=28721815))
+- [stack-graphs](https://github.com/github/stack-graphs) - Rust implementation of stack graphs.
+- [debug-ignore](https://github.com/sunshowers/debug-ignore) - Newtype wrapper that causes Debug impls to skip a field.
+- [subprocess](https://github.com/hniksic/rust-subprocess) - Execution of and interaction with external processes and pipelines.
+- [Enarx Keep Loader](https://github.com/enarx/enarx-keepldr) - Provides the enarx-keepldr executable which loads static-pie binaries into an Enarx Keep.
+- [ArcSwap](https://github.com/vorner/arc-swap) - Support atomic operations on Arc itself.
+- [Oddio](https://github.com/Ralith/oddio) - Game-oriented audio library.
+- [async-process](https://github.com/smol-rs/async-process) - Async interface for working with processes.
+- [tough](https://github.com/awslabs/tough) - Rust libraries and tools for using and generating TUF repositories.
+- [Typical](https://github.com/stepchowfun/typical) - Algebraic data types for data interchange.
+- [Swap Queue](https://github.com/Bajix/swap-queue-rs) - Queue designed for buffer swapping instead of task popping.
+- [csv](https://github.com/BurntSushi/rust-csv) - CSV parser for Rust, with Serde support.
+- [schemafy](https://github.com/Marwes/schemafy) - Rust crate which can take a JSON schema and generate Rust types which are serializable with serde.
+- [creativity](https://github.com/utilForever/creativity) - Creative Coding Framework based on Entity Component System (ECS) written in Rust.
+- [tap](https://github.com/myrrlyn/tap) - Generic extensions for tapping values in Rust.
+- [sp-im](https://github.com/yatima-inc/sp-im) - Immutable no_std collection datatypes suitable for use within Substrate.
+- [nats.rs](https://github.com/nats-io/nats.rs) - Rust client for NATS, the cloud native messaging system.
+- [hashconsing](https://github.com/AdrienChampion/hashconsing) - Rust hashconsing library.
+- [safe_index](https://github.com/AdrienChampion/safe_index) - Safe indexing in Rust.
+- [unixstring](https://github.com/vrmiguel/unixstring) - FFI-friendly null-terminated byte string.
+- [spmc](https://github.com/seanmonstar/spmc) - Single-Producer, Multiple-Consumer channel for Rust.
+- [Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 encoding framework with per scene quality encoding.
+- [Rubble](https://github.com/jonas-schievink/rubble) - BLE stack for embedded Rust.
+- [Stretto](https://github.com/al8n/stretto) - High performance thread-safe memory-bound Rust cache.
+- [Caches](https://github.com/al8n/caches-rs) - Rust implementation for popular caches.
+- [TwoX-Hash](https://github.com/shepmaster/twox-hash) - Rust implementation of the XXHash algorithm.
+- [atomic-rs](https://github.com/Amanieu/atomic-rs) - Generic Atomic<T\> type for Rust.
+- [Dissimilar](https://github.com/dtolnay/dissimilar) - Diff library with semantic cleanup.
+- [waihona](https://github.com/bisoncorps/waihona) - Rust library for performing basic cloud storage actions across major cloud providers e.g aws.
+- [simple_logger](https://github.com/borntyping/rust-simple_logger) - Rust logger that prints all messages with a readable output format.
+- [rs-merkle](https://github.com/antouhou/rs-merkle) - Most advanced Merkle tree library for Rust.
+- [bidiff](https://github.com/divvun/bidiff) - Set of rust crates that generate and apply patches for arbitrary binary files.
+- [FutureSDR](https://github.com/FutureSDR/FutureSDR) - Async SDR Runtime for Heterogeneous Architectures.
+- [ghost](https://github.com/dtolnay/ghost) - Define your own PhantomData.
+- [gltf](https://github.com/gltf-rs/gltf) - Crate for loading glTF 2.0.
+- [Sparsey](https://github.com/LechintanTudor/sparsey) - Sparse set-based Entity Component System with lots of features and nice syntax.
+- [rquickjs](https://github.com/DelSkayn/rquickjs) - High level bindings the QuickJS JavaScript engine.
+- [holyhashmap](https://github.com/jasonwhite/holyhashmap) - Hash map with stable indices.
+- [async-socket](https://github.com/xpepermint/async-socket-rs) - General-purpose asynchronous socket stream.
+- [Remoc](https://github.com/ENQT-GmbH/remoc) - Remote multiplexed objects and channels for Rust.
+- [delta-rs](https://github.com/delta-io/delta-rs) - Native Rust library for Delta Lake, with bindings into Python and Ruby. ([Diving into Delta-rs: kafka-delta-ingest (2021)](https://www.youtube.com/watch?v=mLmsZ3qYfB0))
+- [rust-lapper](https://github.com/sstadick/rust-lapper) - Rust implementation of a fast, easy, interval tree library nim-lapper.
+- [sigstore-rs](https://github.com/sigstore/sigstore-rs) - Rust crate for sigstore.
+- [image-png](https://github.com/image-rs/image-png) - PNG Decoder/Encoder.
+- [streamline](https://github.com/NAlexPear/streamline) - Reversible streaming state machine library for Rust.
+- [num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust.
+- [async-tungstenite](https://github.com/sdroege/async-tungstenite) - Asynchronous WebSockets for async-std, tokio, gio and any std Futures runtime.
+- [FastCDC](https://github.com/nlfiedler/fastcdc-rs) - Implements the "FastCDC" content defined chunking algorithm in pure Rust.
+- [whorl](https://github.com/mgattozzi/whorl) - Single file, std only, async Rust executor.
+- [threadpool](https://github.com/rust-threadpool/rust-threadpool) - Thread pool for running a number of jobs on a fixed set of worker threads.
+- [Mimalloc Rust](https://github.com/purpleprotocol/mimalloc_rust) - Rust wrapper over Microsoft's MiMalloc memory allocator.
+- [distant](https://github.com/chipsenkbeil/distant) - Remotely edit files and run programs.
+- [Mononym](https://github.com/maybevoid/mononym) - Type-level named values with partial dependent type support in Rust. ([Article](https://maybevoid.com/blog/mononym-part-1/))
+- [Lambek](https://github.com/maybevoid/lambek) - Type-Level Programming in Rust.
+- [SmolStr](https://github.com/rust-analyzer/smol_str)
+- [ATAT](https://github.com/BlackbirdHQ/atat) - no_std crate for parsing AT commands.
+- [Shipyard](https://github.com/leudz/shipyard) - Entity Component System focused on usability and speed.
+- [sallyport](https://github.com/enarx/sallyport) - API for the hypervisor-microkernel boundary.
+- [Threadfin](https://github.com/sagebind/threadfin) - Thread pool for running multiple tasks on a configurable group of threads.
+- [eventually-rs](https://github.com/get-eventually/eventually-rs) - Event Sourcing for Rust.
+- [Foca](https://github.com/caio/foca) - Gossip-based cluster membership discovery (SWIM).
+- [CloudEvents SDK Rust](https://github.com/cloudevents/sdk-rust)
+- [rust-cached-path](https://github.com/epwalsh/rust-cached-path) - Rust utility for accessing both local and remote files through a unified interface.
+- [gray-matter-rs](https://github.com/the-alchemists-of-arland/gray-matter-rs) - Tool for easily extracting front matter out of a string.
+- [srt-rs](https://github.com/russelltg/srt-rs) - SRT implementation in Rust.
+- [hotwatch](https://github.com/francesca64/hotwatch) - Rust library for conveniently watching and handling file changes.
+- [tiny_id](https://github.com/paulgb/tiny_id) - Rust library for generating non-sequential, tightly-packed short IDs.
+- [libmacchina](https://github.com/Macchina-CLI/libmacchina) - Library providing access to all sorts of system information.
+- [nebari](https://github.com/khonsulabs/nebari) - Pure Rust database implementation using an append-only B-Tree file format.
+- [rustix](https://github.com/bytecodealliance/rustix) - Safe Rust bindings to POSIX-ish APIs.
+- [abi_stable_crates](https://github.com/rodrimati1992/abi_stable_crates) - Rust-to-Rust ffi,ffi-safe equivalents of std types,and creating libraries loaded at startup.
+- [gaffer](https://github.com/survemobility/gaffer) - Prioritized, parallel job scheduler with concurrent exclusion, job merging, recurring jobs and load limiting for lower priorities.
+- [Cadence](https://github.com/56quarters/cadence) - Extensible Statsd client for Rust.
+- [arrayvec](https://github.com/bluss/arrayvec) - Vector with a fixed capacity.
+- [open-rs](https://github.com/Byron/open-rs) - Open a path or URL with the system-defined program.
+- [evalexpr](https://github.com/ISibboI/evalexpr) - Expression evaluator and tiny scripting language in Rust.
+- [SPIR-Q](https://github.com/PENGUINLIONG/spirq-rs) - Light weight SPIR-V reflection library.
+- [Pythonize](https://github.com/davidhewitt/pythonize) - Serializer for Rust's serde ecosystem, which can convert Rust objects to Python values and back.
+- [enumset](https://github.com/Lymia/enumset) - Library for compact bit sets based on enums.
+- [pom](https://github.com/J-F-Liu/pom) - PEG parser combinators created using operator overloading without macros.
+- [path-to-error](https://github.com/dtolnay/path-to-error) - Find out path at which a deserialization error occurred.
+- [ulid-rs](https://github.com/dylanhart/ulid-rs) - Rust implementation of the ulid project which provides Universally Unique Lexicographically Sortable Identifiers.
+- [resize](https://github.com/PistonDevelopers/resize) - Image resampling library in pure Rust.
+- [backtrace-rs](https://github.com/rust-lang/backtrace-rs) - Library for acquiring backtraces at runtime for Rust.
+- [lrpeg](https://github.com/seanyoung/lrpeg) - Left Recursive PEG for rust. ([Article](https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/))
+- [dynstack](https://github.com/archshift/dynstack) - Stack for rust trait objects that minimizes allocations.
+- [Streamson](https://github.com/shenek/streamson) - Memory efficient handling of large JSON data.
+- [bytelines](https://github.com/whitfin/bytelines) - Read input lines as byte slices for high efficiency.
+- [fronma](https://github.com/r7kamura/fronma) - Front Matter parser for Rust.
+- [ta](https://github.com/greyblake/ta-rs) - Technical analysis library for Rust.
+- [Wait Map](https://github.com/withoutboats/waitmap) - Async/await concurrency primitive implemented as a concurrent hashmap.
+- [Encoding](https://github.com/lifthrasiir/rust-encoding) - Character encoding support for Rust.
+- [Pbjson](https://github.com/influxdata/pbjson) - Auto-generate serde implementations for prost types.
+- [griddle](https://github.com/jonhoo/griddle) - HashMap variant that spreads resize load across inserts.
+- [rust-s3](https://github.com/durch/rust-s3) - Rust library for interfacing with AWS S3 and other API compatible services.
+- [rust-bigtable](https://github.com/durch/rust-bigtable) - Rust library for working with Google Bigtable Data API.
+- [rust-goauth](https://github.com/durch/rust-goauth) - Crate for authenticating Server to Server Apps for Google Cloud Engine.
+- [rust-bloom-filter](https://github.com/jedisct1/rust-bloom-filter) - Fast Bloom filter implementation in Rust.
+- [Typenum](https://github.com/paholg/typenum) - Compile time numbers in Rust.
+- [boolinator](https://github.com/DanielKeep/rust-boolinator) - Provides the Boolinator trait, which lets you use Option and Result-style combinators with bools.
+- [Ciborium](https://github.com/enarx/ciborium) - CBOR serialization and deserialization implementations for serde.
+- [Rust Onig](https://github.com/rust-onig/rust-onig) - Rust bindings for the Oniguruma regex library.
+- [region-rs](https://github.com/darfink/region-rs) - Cross-platform virtual memory API.
+- [hidapi](https://github.com/ruabmbua/hidapi-rs) - Rust bindings for the hidapi C library.
+- [cascara](https://github.com/selmeci/cascara) - Implementation of TinyLFU cache.
+- [Ustr](https://github.com/anderslanglands/ustr) - Fast, FFI-friendly string interning for Rust.
+- [Inflector](https://github.com/whatisinternet/Inflector) - Rust inflection library.
+- [Frunk](https://github.com/lloydmeta/frunk) - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.
+- [twilio-rs](https://github.com/neil-lobracco/twilio-rs) - Twilio library for Rust.
+- [annotate-snippets](https://github.com/rust-lang/annotate-snippets-rs) - Rust library for annotation of programming code slices.
+- [iceoryx-rs](https://github.com/eclipse-iceoryx/iceoryx-rs) - Rust wrapper for Eclipse iceoryx - true zero-copy inter-process-communication.
+- [FLAME](https://github.com/llogiq/flame) - Intrusive flamegraph profiling tool for rust.
+- [async-ffi](https://github.com/oxalica/async-ffi) - FFI-compatible futures.
+- [rust-sidekiq](https://github.com/spk/rust-sidekiq) - Rust Sidekiq Client.
+- [generic-str](https://github.com/conradludgate/generic-str) - One true string type in Rust.
+- [CGlue](https://github.com/h33p/cglue) - Rust ABI safe code generator.
+- [cl-traits](https://github.com/c410-f3r/cl-traits) - Library that generalizes collections.
+- [kaze](https://github.com/yupferris/kaze) - HDL embedded in Rust.
+- [tokio-file](https://github.com/asomers/tokio-file) - Asynchronous file I/O for Tokio.
+- [Calm I/O](https://github.com/myrrlyn/calm_io) - Calm I/O operations for Rust.
+- [GeoZero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
+- [efg](https://github.com/dtolnay/efg) - Conditional compilation using boolean expression syntax, rather than any(), all(), not().
+- [Monoio](https://github.com/bytedance/monoio) - Thread-per-core Rust runtime with io_uring. ([HN](https://news.ycombinator.com/item?id=29493340))
+- [btree](https://github.com/wspeirs/btree) - On-Disk B+ Tree implemented in Rust.
+- [CoreMIDI](https://github.com/chris-zen/coremidi) - CoreMIDI library for Rust. ([Article](http://chris-zen.github.io/software/2017/01/05/coremidi-rust-library.html))
+- [node-replication](https://github.com/vmware/node-replication) - Operation-log based approach for data replication.
+- [scapegoat](https://github.com/tnballo/scapegoat) - Safe, embedded-friendly ordered set/map via a scapegoat tree. Validated against BTreeSet/BTreeMap.
+- [hackfn](https://github.com/dtolnay/hackfn) - Fake implementation of `std::ops::Fn` for user-defined data types.
+- [thingbuf](https://github.com/hawkw/thingbuf) - In-place allocation-reusing queues for Rust.
+- [serde-aux](https://github.com/vityafx/serde-aux) - Auxiliary serde library.
+- [typed-arena](https://github.com/SimonSapin/rust-typed-arena) - Fast (but limited) allocation arena for values of a single type.
+- [rust-coroutines](https://github.com/losfair/rust-coroutines) - 'Native' stackful coroutine library for Rust.
+- [nom_locate](https://github.com/fflorent/nom_locate) - Special input type for nom to locate tokens.
+- [libsecp256k1](https://github.com/paritytech/libsecp256k1) - Pure Rust Implementation of secp256k1.
+- [daachorse](https://github.com/legalforce-research/daachorse) - Fast implementation of the Aho-Corasick algorithm using the compact double-array data structure.
+- [cdchunking-rs](https://github.com/remram44/cdchunking-rs) - Content-Defined Chunking for Rust.
+- [serde_bytes](https://github.com/serde-rs/bytes) - Wrapper types to enable optimized handling of &[u8] and Vec<u8\>.
+- [rsx](https://github.com/victorporof/rsx) - Advanced JSX-like templating for Rust.
+- [simplelog](https://github.com/Drakulix/simplelog.rs) - Simple Logging Facility for Rust.
+- [unwinding](https://github.com/nbdd0121/unwinding) - Stack unwinding library in Rust.
+- [fpRust](https://github.com/TeaEntityLab/fpRust) - Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust.
+- [static-assertions-rs](https://github.com/nvzqz/static-assertions-rs) - Ensure correct assumptions about constants, types, and more in Rust.
+- [Type Freak](https://github.com/jerry73204/rust-type-freak) - Collection of typed data structures, trait operators and aliases.
+- [ufmt](https://github.com/japaric/ufmt) - Smaller, faster and panic-free alternative to core::fmt.
+- [rcgen](https://github.com/est31/rcgen) - Simple Rust library to generate X.509 certificates.
+- [DateTime](https://github.com/notquiteamonad/date_time) - High-Level Date and Time for Rust.
+- [futures-batch](https://github.com/mre/futures-batch) - Adaptor that chunks up completed futures in a stream and flushes them after a timeout or when the buffer is full.
+- [SeqLock](https://github.com/Amanieu/seqlock) - Reader-writer lock that provides extremely fast read access without starving writers.
+- [nanorand](https://github.com/Absolucy/nanorand-rs) - Tiny, fast, zero-dep library for random number generation.
+- [const-concat](https://github.com/Vurich/const-concat) - Const string concatenation.
+- [eos](https://github.com/Rapptz/eos) - Simple and easy to use datetime library for Rust.
+- [acacia](https://github.com/edibopp/acacia) - Spatial tree library written in Rust.
+- [Carboxyl](https://github.com/edibopp/carboxyl) - Functional Reactive Programming library for Rust.
+- [rust-fsm](https://github.com/eugene-babichenko/rust-fsm) - Finite state machine framework for Rust with readable specifications.
+- [rustracing](https://github.com/sile/rustracing) - OpenTracing API for Rust.
+- [thread_local](https://github.com/Amanieu/thread_local-rs) - Per-object thread-local storage for Rust.
+- [stackful](https://github.com/nbdd0121/stackful) - Free conversion between async and sync in Rust.
+- [rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+- [capnproto-rust](https://github.com/capnproto/capnproto-rust) - Cap'n Proto for Rust.
+- [staticvec](https://github.com/slightlyoutofphase/staticvec) - Implements a fixed-capacity stack-allocated Vec alternative backed by an array, using const generics.
+- [destream](https://github.com/haydnv/destream) - Rust library for asynchronous stream (de)serialization.
+- [freqache](https://github.com/haydnv/freqache) - Thread-safe Rust LFU cache which supports a custom eviction policy.
+- [freqfs](https://github.com/haydnv/freqfs) - In-memory filesystem cache layer based on tokio::fs, with least-frequently-used eviction.
+- [arrform](https://github.com/Simsys/arrform) - String formatting in Rust without memory allocator.
+- [rust-signals](https://github.com/Pauan/rust-signals) - Zero-cost functional reactive Signals for Rust.
+- [butte](https://github.com/butte-rs/butte) - Rust-native Flatbuffers.
+- [Rumpsteak](https://github.com/zakcutner/rumpsteak) - Session types for asynchronous communication between multiple parties.
+- [SuperStruct](https://github.com/sigp/superstruct) - Rust library for versioned data types.
+- [Typic](https://github.com/jswrenn/typic) - Type-safe transmutations between layout-compatible types.
+- [Uncertain](https://github.com/dyedgreen/uncertain) - Fast and correct computations with uncertain values.
+- [Fastmurmur3](https://github.com/kurtbuilds/fastmurmur3) - Fast, non-cryptographic hash function.
+- [Castaway](https://github.com/sagebind/castaway) - Safe, zero-cost downcasting for limited compile-time specialization.
+- [lzma-rs](https://github.com/gendx/lzma-rs) - LZMA decoder/encoder written in pure Rust.
+- [sucds](https://github.com/kampersanda/sucds) - Succinct data structures in Rust.
+- [mih-rs](https://github.com/kampersanda/mih-rs) - Rust implementation of multi-index hashing for neighbor searches on binary codes in the Hamming space.
+- [extent](https://github.com/graydon/extent) - Replacement for std::ops::{Range,RangeInclusive}.
+- [teloc](https://github.com/p0lunin/teloc) - Simple, compile-time DI framework for Rust.
+- [rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions.
+- [dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) - Dynamic assembler written in Rust for Rust.
+- [rexpect](https://github.com/philippkeller/rexpect) - Spawn, control, and respond to expected patterns of child applications and processes, enabling the automation of interactions and testing.
+- [OptArgs](https://github.com/jkelleyrtp/optargs) - Easy-to-use optional function arguments for Rust.
+- [Pipette](https://github.com/jkelleyrtp/pipette) - Tiny crate mimicking Elixir's pipe operator for Rust without macros.
+- [openraft](https://github.com/datafuselabs/openraft) - Advanced Raft using the Tokio framework.
+- [arcstr](https://github.com/thomcc/arcstr) - Better reference counted strings for Rust.
+- [fmmap](https://github.com/al8n/fmmap) - Flexible and convenient high-level mmap for zero-copy file I/O.
+- [tap-rs](https://github.com/darfink/tap-rs) - Exposing tapping functionality for all types, and extended functionality for Option, Result & Future. Often useful for logging.
+- [ezio](https://github.com/nrc/ezio) - Easy IO for Rust.
+- [NormPath](https://github.com/dylni/normpath) - More reliable path manipulation.
+- [Process Control](https://github.com/dylni/process_control) - Methods for ergonomically running processes with timeouts.
+- [print_bytes](https://github.com/dylni/print_bytes) - Print bytes as losslessly as possible.
+- [Quit](https://github.com/dylni/quit) - Exit cleanly with an exit code.
+- [elasticlunr-rs](https://github.com/mattico/elasticlunr-rs) - Partial port of elasticlunr to Rust. Intended to be used for generating compatible search indices.
+- [STM32-HAL](https://github.com/David-OConnor/stm32-hal) - Provides access to STM32 peripherals in Rust.
+- [incrementalmerkletree](https://github.com/zcash/incrementalmerkletree) - Append-only merkle tree which is always pruned, along with incremental, fast-forwarding witnesses.
+- [atoi-rs](https://github.com/pacman82/atoi-rs) - Parse integers directly from `[u8]` slices in safe code.
+- [kolor](https://github.com/BoxDragon/kolor) - Color space conversion math made simple.
+- [blaze-rs](https://github.com/blaze-init/blaze-rs) - Blaze core based on arrow-datafusion for blazing-fast execution.
+- [genio](https://github.com/Kixunil/genio) - Type safe, low level replacement for `std::io`.
+- [crc](https://github.com/mrhooray/crc-rs) - Rust implementation of CRC (16, 32, 64) with support of various standards.
+- [kdtree](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
+- [mobc](https://github.com/importcjj/mobc) - Generic connection pool for Rust with async/await support.
+- [pariter](https://github.com/dpc/pariter) - Parallel iterator processing library for Rust.
+- [Ergex](https://github.com/deadpixi/ergex) - Regular expression library that does a few things rather differently from many other libraries.
+- [memmap](https://github.com/danburkert/memmap-rs) - Rust library for cross-platform memory mapped IO.
+- [eventador-rs](https://github.com/sachanganesh/eventador-rs) - Lock-free Pub/Sub event-bus inspired by the LMAX Disruptor.
+- [uAsync](https://github.com/kprotty/uasync) - Fast, forbid(unsafe_code), no dependency, async executor.
+- [Sentry SDK for Rust](https://github.com/getsentry/sentry-rust)
+- [prettyplease](https://github.com/dtolnay/prettyplease) - Minimal `syn` syntax tree pretty-printer.
+- [slab_tree](https://github.com/iwburns/slab-tree) - vec-backed tree structure with tree-specific generational indexes.
+- [id_tree](https://github.com/iwburns/id-tree) - Library for creating and modifying Tree structures.
+- [camino](https://github.com/camino-rs/camino) - UTF-8 encoded paths.
+- [rust-t1ha](https://github.com/flier/rust-t1ha) - Rust implementation for T1HA (Fast Positive Hash).
+- [Rust-Dpdk](https://github.com/flier/rust-dpdk) - Rust bindings to DPDK.
+- [Auto Launch](https://github.com/zzzgydi/auto-launch) - Auto launch any application or executable at startup.
+- [Thalo](https://github.com/thalo-rs/thalo) - Event sourcing framework for building microservices. ([Reddit](https://www.reddit.com/r/rust/comments/sbvpn1/thalors_event_sourcing_in_rust/))
+- [tinyjson](https://github.com/rhysd/tinyjson) - Simple JSON parser/generator for Rust.
+- [turbulence](https://github.com/kyren/turbulence) - Multiplexed, optionally reliable, async, transport agnostic, reactor agnostic networking library for games.
+- [libffi-rs](https://github.com/tov/libffi-rs) - Rust bindings for libffi.
+- [Hound](https://github.com/ruuda/hound) - wav encoding and decoding library in Rust.
+- [async-compression](https://github.com/Nemo157/async-compression) - Adaptors between compression crates and Rust's async IO types.
+- [async-trait-static](https://github.com/tiannian/async-trait-static) - Features like `async-trait`, avoid using `Box` and `dyn`.
+- [rust-fallible-iterator](https://github.com/sfackler/rust-fallible-iterator) - "Fallible" iterators for Rust.
+- [Leapfrog](https://github.com/robclu/leapfrog) - Lock-free concurrent and single-threaded hash map implementations using Leapfrog probing. Currently the highest performance concurrent HashMap in Rust.
+- [Counter](https://github.com/coriolinus/counter-rs) - Simple object to count Rust iterables.
+- [art](https://github.com/komora-io/art) - Adaptive Radix Trie implementation for fixed-length keys.
+- [futures-intrusive](https://github.com/Matthias247/futures-intrusive) - Synchronization primitives for Futures and async/await based on intrusive collections.
+- [syntree](https://github.com/udoprog/syntree) - Memory efficient syntax tree for language developers.
+- [Open Graphic Image Writer](https://github.com/keiya01/og_image_writer) - Generate Open Graphic Image with CSS-like API.
+- [crash-handling](https://github.com/EmbarkStudios/crash-handling) - Set of utility crates for catching and handling crashes.
+- [D-Bus](https://github.com/diwic/dbus-rs) - D-Bus binding for the Rust language.
+- [Deser](https://github.com/mitsuhiko/deser) - Experimental serialization system for Rust. ([Reddit](https://www.reddit.com/r/rust/comments/slbbfx/show_rrust_deser_an_experimental_serialization/))
+- [rpki](https://github.com/NLnetLabs/rpki-rs) - Library for Validating and Creating RPKI Data.
+- [Seize](https://github.com/ibraheemdev/seize) - Fast, efficient, and robust memory reclamation for concurrent data structures.
+- [timediff](https://github.com/lryong/timediff) - Rust library for printing human readable, relative time differences.
+- [qcms](https://github.com/FirefoxGraphics/qcms) - Firefox's library for transforming image data between ICC profiles.
+- [rustplotlib](https://github.com/askanium/rustplotlib) - Pure Rust visualization library inspired by D3.js.
+- [Subotai](https://github.com/PabloMansanet/subotai) - Kademlia based Distributed Hash Table in Rust.
+- [extreme](https://github.com/spacejam/extreme) - Extremely boring async function runner, written in 44 lines of 0-dependency Rust.
+- [linked_hash_set](https://github.com/alexheretic/linked-hash-set) - Rust HashSet with insertion ordering.
+- [Elfo](https://github.com/elfo-rs/elfo) - Another actor system.
+- [Triomphe](https://github.com/Manishearth/triomphe) - Fork of std::sync::Arc with lots of utilities useful for FFI.
+- [Taplo](https://github.com/tamasfe/taplo) - TOML toolkit written in Rust.
+- [Pipe Trait](https://github.com/KSXGitHub/pipe-trait) - Make it possible to chain regular functions.
+- [relative-path](https://github.com/udoprog/relative-path) - Portable relative UTF-8 paths for Rust.
+- [kiam](https://github.com/WaffleLapkin/kiam) - Better syntax for if/else chains.
+- [FlagSet](https://github.com/enarx/flagset) - Rust data types and a macro for generating enumeration-based bit flags.
+- [eventsource-stream](https://github.com/jpopesculian/eventsource-stream) - Basic building block for building an Eventsource from a Stream of bytes array like objects.
+- [bugreport](https://github.com/sharkdp/bugreport) - Rust library to collect system and environment information for bug reports.
+- [QBE IR for Rust](https://github.com/garritfra/qbe-rs) - QBE IR in natural Rust data structures. ([Lobsters](https://lobste.rs/s/qtncal/qbe_ir_for_rust))
+- [rluau](https://github.com/Vurv78/rluau) - Idiomatic Luau bindings in 100% Rust.
+- [Fluvio Future](https://github.com/infinyon/future-aio) - Advanced futures library.
+- [radium](https://github.com/bitvecto-rs/radium) - Provides abstractions and graceful degradation for behavior that must be shared-mutable, but merely may use atomic instructions to do so.
+- [xtra](https://github.com/Restioson/xtra) - Tiny, fast, and safe actor framework. Modelled around Actix.
+- [Human Time](https://github.com/tailhook/humantime) - Parser and formatter for std::time::{SystemTime, Duration}.
+- [bytecheck](https://github.com/rkyv/bytecheck) - Memory validation framework for Rust.
+- [sentry-contrib-breakpad](https://github.com/EmbarkStudios/sentry-contrib-rust) - Small library to integrate native crash dump handling with Sentry, without relying on sentry-native.
+- [Queen](https://github.com/danclive/queen) - Message bus.
+- [queen-io](https://github.com/danclive/queen-io) - I/O library for Rust.
+- [approx](https://github.com/brendanzab/approx) - Approximate floating point equality comparisons and assertions.
+- [knuffel](https://github.com/tailhook/knuffel) - Rust KDL parser and derive implementation.
+- [bitsvec](https://github.com/PsiACE/bitsvec) - Bit vector with the Rust standard library's portable SIMD API.
+- [Parquet2](https://github.com/jorgecarleitao/parquet2) - Fastest and safest Rust implementation of parquet. `unsafe` free. Integration-tested against pyarrow.
+- [ELBUS](https://github.com/alttch/elbus) - Rust-native IPC broker.
+- [rust-cpp](https://github.com/mystor/rust-cpp) - Embed C++ code directly in Rust.
+- [js-sandbox](https://github.com/Bromeon/js-sandbox) - Securely embed JavaScript code into a Rust application.
+- [cedarwood](https://github.com/MnO2/cedarwood) - Efficiently-updatable double-array trie in Rust.
+- [rustc-hash](https://github.com/rust-lang/rustc-hash) - Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure.
+- [webbrowser](https://github.com/amodm/webbrowser-rs) - Rust library to open URLs in the web browsers available on a platform.
+- [sbahn](https://github.com/estebank/sbahn) - Pure Rust Distributed Hash Table.
+- [string-cache](https://github.com/servo/string-cache) - String interning for Rust.
+- [rust-atomicwrites](https://github.com/untitaker/rust-atomicwrites) - Atomic file-writes.
+- [queue-file](https://github.com/ing-systems/queue-file) - Lightning-fast, transactional, file-based FIFO.
+- [zstd-rs](https://github.com/KillingSpark/zstd-rs) - Feature-complete decoder for the zstd compression format.
+- [atomic-memcpy](https://github.com/taiki-e/atomic-memcpy) - Byte-wise atomic memcpy.
+- [resource](https://github.com/mistodon/resource) - Rust macros for statically including resources in release mode, but dynamically loading them in debug mode.
+- [Rust Statsd](https://github.com/markstory/rust-statsd) - StatsD client implementation of statsd in rust.
+- [ghost-collections](https://github.com/matthieu-m/ghost-collections) - Safe collections written in stable Rust, based on GhostCell and StaticRc.
+- [crc64fast](https://github.com/tikv/crc64fast) - SIMD accelerated CRC-64-ECMA computation.
+- [trackable](https://github.com/sile/trackable) - Provides a way to track objects manually as an alternative to mechanisms like backtracing.
+- [rust-alloc-no-stdlib](https://github.com/dropbox/rust-alloc-no-stdlib) - Interface to a generic allocator so a no_std rust library can allocate memory, with, or without stdlib being linked.
+- [tz-rs](https://github.com/x-hgg-x/tz-rs) - Pure Rust reimplementation of libc functions localtime, gmtime and mktime. ([Reddit](https://www.reddit.com/r/rust/comments/svvpo3/announcing_tzrs_a_reimplementation_of_libc/))
+- [authenticator-rs](https://github.com/mozilla/authenticator-rs) - Rust library for interacting with CTAP1/CTAP2 Security Keys.
+- [Oneshot](https://github.com/faern/oneshot) - Oneshot Rust channel working both in and between sync and async environments.
+- [smartstring](https://github.com/bodil/smartstring) - Compact inlined strings.
+- [futures-lite](https://github.com/smol-rs/futures-lite) - Futures, streams, and async I/O combinators.
+- [TOM](https://github.com/matklad/tom) - Format-preserving TOML parser in Rust.
+- [ibig](https://github.com/tczajka/ibig-rs) - Big integer library in Rust with good performance.
+- [jod-thread](https://github.com/matklad/jod-thread) - std::thread which joins on drop by default.
+- [TSZ](https://github.com/jeromefroe/tsz-rs) - Crate for time series compression based upon Facebook's Gorilla whitepaper.
+- [rust-charts](https://github.com/nobrayner/rust-charts) - Xstate-like statechart library.
+- [Notan](https://github.com/Nazariglez/notan) - Cross-platform multimedia layer.
+- [Interprocess](https://github.com/kotauskas/interprocess) - Multifunctional cross-platform interprocess communication toolkit for Rust.
+- [Archery](https://github.com/orium/archery) - Abstract over the atomicity of reference-counting pointers in rust.
+- [async-rdma](https://github.com/datenlord/async-rdma) - Framework for writing RDMA applications with high-level abstraction and asynchronous APIs.
+- [scopeguard](https://github.com/bluss/scopeguard) - Rust crate for a convenient RAII scope guard.
+- [blocking](https://github.com/smol-rs/blocking) - Thread pool for isolating blocking I/O in async programs.
+- [spdlog-rs](https://github.com/SpriteOvO/spdlog-rs) - Fast and combinable Rust logging crate.
+- [decimal](https://github.com/invariant-labs/decimal) - Rust library for fixed point number.
+- [rubato](https://github.com/HEnquist/rubato) - Audio sample rate conversion library for Rust.
+- [Stackdump](https://github.com/tweedegolf/stackdump) - Set of rust crates for making stack dumps and getting stack traces out of them.
+- [corosensei](https://github.com/Amanieu/corosensei) - Fast and safe implementation of stackful coroutines in Rust.
+- [Sixbit](https://github.com/graydon/sixbit) - Crate for small packed strings.
+- [String](https://github.com/carllerche/string) - UTF-8 encoded string with configurable byte storage.
+- [byte-strings-rs](https://github.com/danielhenrymantilla/byte-strings-rs) - Rust zero-cost byte strings manipulation, for a better and safer FFI.
+- [ArrayString](https://github.com/paulocsanz/arraystring) - Fixed capacity stack based generic string that works on stable.
+- [is_executable](https://github.com/fitzgen/is_executable) - Is there an executable file at the given path?
+- [autodiff](https://github.com/elrnv/autodiff) - Auto differentiation library.
+- [online](https://github.com/jesusprubio/online) - Library to check your Internet connectivity.
+- [haphazard](https://github.com/jonhoo/haphazard) - Hazard pointers in Rust.
+- [rusty-money](https://github.com/varunsrin/rusty_money) - Handles the messy parts of dealing with money like rounding, precision, parsing and internationalization.
+- [bkt](https://github.com/dimo414/bkt) - Subprocess caching utility, available as a command line binary and a Rust library.
+- [swift-rs](https://github.com/Brendonovich/swift-rs) - Call Swift functions from Rust with ease.
+- [Congee](https://github.com/XiangpengHao/congee) - Concurrent ART (adaptive radix tree).
+- [CRustAL](https://github.com/achreto/crustal) - Library for Assembling C/C++ Code from Rust.
+- [celerity](https://github.com/BrainiumLLC/celerity) - Buttery smooth animation toolkit.
+- [extrasafe](https://github.com/boustrophedon/extrasafe) - Make your code extra-safe by voluntarily dropping privileges.
+- [rust-stats](https://github.com/BurntSushi/rust-stats) - Basic statistical functions on streams for Rust.
+- [splines](https://github.com/phaazon/splines) - Spline interpolation made easy.
+- [akin](https://github.com/LyonSyonII/akin) - Rust crate for writing repetitive code easier and faster.
+- [rust-media](https://github.com/pcwalton/rust-media) - Free, comprehensive, and portable video/audio streaming library for Rust.
+- [exif-rs](https://github.com/kamadak/exif-rs) - Exif parsing library written in pure Rust.
+- [rangemap](https://github.com/jeffparsons/rangemap) - Map data structure whose keys are stored as ranges.
+- [flexstr](https://github.com/nu11ptr/flexstr) - Immutable, clone-efficient String replacement for Rust.
+- [minstant](https://github.com/tikv/minstant) - Performant time measuring in Rust.
+- [Liquid Rust](https://github.com/fan-tom/liquid-rust) - Attempt to implement Liquid Types type checker for Rust code.
+- [RiteLinked](https://github.com/dataslime/ritelinked) - HashMap-like containers that hold their key-value pairs in a user controllable order.
+- [blurhash-rs](https://github.com/Raincal/blurhash-rs) - Pure Rust implementation of Blurhash.
+- [Voracious sort](https://github.com/lakwet/voracious_sort) - Voracious radix sort.
+- [qoi-rust](https://github.com/aldanor/qoi-rust) - Very fast encoder/decoder for QOI image format in pure and safe Rust.
+- [Atomig](https://github.com/LukasKalbertodt/atomig) - Generic and convenient std atomics.
+- [kay](https://github.com/aeplay/kay) - High-performance actor system framework for Rust.
+- [podman-api](https://github.com/vv9k/podman-api-rs) - Rust interface to Podman.
+- [Boxcar](https://github.com/ibraheemdev/boxcar) - Concurrent, append-only vector.
+- [Calloop](https://github.com/Smithay/calloop) - Callback-based Event Loop.
+- [rust-fnv](https://github.com/servo/rust-fnv) - Fowler–Noll–Vo hash function.
+- [LibRapid](https://github.com/LibRapid/LibRapidRust) - Highly optimized derivative of the LibRapid C++ library.
+- [Fraction](https://github.com/dnsl48/fraction) - Lossless fractions and decimals; drop-in float replacement.
+- [Tardis](https://github.com/ideal-world/tardis) - Elegant, clean Rust development framework.
+- [TrapFrame-rs](https://github.com/rcore-os/trapframe-rs) - Handle Trap Frame across kernel and user space on multiple ISAs.
+- [rust-tuf](https://github.com/theupdateframework/rust-tuf) - Rust implementation of The Update Framework (TUF).
+- [Layout](https://github.com/nadavrot/layout) - Renders graphs. Graphviz Implementation in Rust. ([HN](https://news.ycombinator.com/item?id=30715168))
+- [bigjson](https://github.com/sunli829/bigjson)
+- [GJSON](https://github.com/tidwall/gjson.rs) - Get JSON values quickly - JSON parser for Rust.
+- [coap-rs](https://github.com/Covertness/coap-rs) - Constrained Application Protocol(CoAP) library implemented in Rust.
+- [prae](https://github.com/teenjuna/prae) - Better way to define types that require validation.
+- [Drpc](https://github.com/darkrpc/drpc) - Correct, high performance, robust, easy use Remote invocation framework.
+- [fast_log](https://github.com/rbatis/fast_log) - Log implementation for extreme speed, using Crossbeam to double the efficiency.
+- [mco](https://github.com/co-rs/mco) - Rust Async Coroutine Runtime that combines speed and ease to use.
+- [operational-transform](https://github.com/spebern/operational-transform-rs) - Library for Operational Transformation.
+- [rename-future](https://github.com/ArtBlnd/rename-future) - Can name anonymous Future from async fn without dyn or Box.
+- [Serde Pickle](https://github.com/birkenfeld/serde-pickle) - Rust library for parsing and generating Python pickle streams.
+- [envconfig-rs](https://github.com/greyblake/envconfig-rs) - Initialize config structure from environment variables in Rust without boilerplate.
+- [SuppaFTP](https://github.com/veeso/suppaftp) - Super FTP/FTPS client library for Rust.
+- [Lightning](https://github.com/ShisoftResearch/Lightning) - Set of lock-free data structures.
+- [Moniker](https://github.com/brendanzab/moniker) - Makes it simple to track variables across nested scopes in programming language implementations.
+- [Hydroflow](https://github.com/hydro-project/hydroflow) - Hydro's low-level dataflow runtime.
+- [zip-rs](https://github.com/zip-rs/zip) - Zip library for rust which supports reading and writing of simple ZIP files.
+- [gpx](https://github.com/georust/gpx) - Rust read/write support for GPS Exchange Format (GPX).
+- [art-rs](https://github.com/Lagrang/art-rs) - Adaptive Radix Tree.
+- [Zestors](https://github.com/Zestors/zestors) - Simple, fast and flexible actor framework for building robust distributed applications, heavily inspired by Erlang.
+- [id-arena](https://github.com/fitzgen/id-arena) - Simple, id-based arena.
+- [Textwrap](https://github.com/mgeisler/textwrap) - Library for wrapping and indenting text.
+- [cfixed-string](https://github.com/emoon/cfixed-string) - Pass Rust strings to C with potentially not needing heap allocation.
+- [Node Crunch](https://github.com/willi-kappler/node_crunch) - Allows to distribute computations across several nodes.
+- [sendable](https://github.com/hniksic/sendable) - Wrapper around Rc safe to send to a different thread.
+- [itoa](https://github.com/dtolnay/itoa) - Fast functions for printing integer primitives to an io::Write.
+- [rust-ftp](https://github.com/mattnenterprise/rust-ftp) - FTP client for Rust.
+- [rkyv_codec](https://github.com/zyansheep/rkyv_codec) - Simple async codec for rkyv. Reuses streaming buffer for maximum speed.
+- [usync](https://github.com/kprotty/usync) - Small, fast, synchronization primitives.
+- [Texting Robots](https://github.com/Smerity/texting_robots) - Library for parsing robots.txt files.
+- [futures_codec](https://github.com/matthunz/futures-codec) - Utilities for encoding and decoding frames with async/await.
+- [Zelf](https://github.com/usamoi/zelf) - Zero-allocation ELF parser.
+- [tendril](https://github.com/servo/tendril) - Compact string type for zero-copy parsing.
+- [strength_reduce](https://github.com/ejmahler/strength_reduce) - Implements integer division and modulo via "arithmetic strength reduction".
+- [AutoPilot](https://github.com/autopilot-rs/autopilot-rs) - Simple, cross-platform GUI automation module for Rust.
+- [device_query](https://github.com/ostrosco/device_query) - Simple library to query mouse and keyboard inputs on demand without a window.
+- [palette](https://github.com/Ogeon/palette) - Rust library for linear color calculations and conversion.
+- [capstone-rs](https://github.com/capstone-rust/capstone-rs) - Bindings to the capstone library disassembly framework.
+- [Rust Atelier](https://github.com/johnstonskj/rust-atelier) - Rust native library and tools for the AWS Smithy Interface Definition Language.
+- [Rusb](https://github.com/a1ien/rusb) - Safe Rust wrapper for libusb.
+- [volatile](https://github.com/rust-osdev/volatile) - Wraps a reference to any copy-able type and allows for volatile memory access to wrapped value.
+- [voprf](https://github.com/novifinancial/voprf) - Implementation of a verifiable oblivious pseudorandom function.
+- [serde-big-array](https://github.com/est31/serde-big-array) - Big array helper for serde.
+- [Prop](https://github.com/advancedresearch/prop) - Propositional logic with types in Rust.
+- [ispc-rs](https://github.com/Twinklebear/ispc-rs) - Rust library for build scripts to compile ISPC code into a Rust library.
+- [rustscript](https://github.com/faern/rustscript) - Use Rust as a scripting language.
+- [ena](https://github.com/rust-lang/ena) - Implementation of union-find in Rust; extracted from (and used by) rustc.
+- [stacker](https://github.com/rust-lang/stacker) - Manual segmented stacks for Rust.
+- [tokenizations](https://github.com/explosion/tokenizations) - Robust and Fast tokenizations alignment library for Rust and Python.
+- [systemstat](https://github.com/unrelentingtech/systemstat) - Rust library for getting system information/statistics.
+- [Symbolic Stack Machines](https://github.com/WilfredTA/symbolic-stack-machines) - Library for implementing symbolically executable stack-based virtual machines.
+- [ZeroGc](https://github.com/DuckLogic/zerogc) - Zero overhead tracing garbage collection for rust.
+- [nc](https://github.com/XuShaohua/nc) - Execute system call directly without std or libc.
+- [snmalloc-rs](https://github.com/SchrodingerZhu/snmalloc-rs) - Rust bindings of snmalloc.
+- [Serde Lite](https://github.com/operutka/serde-lite) - General-purpose serialization/de-serialization library.
+- [vaultrs](https://github.com/jmgilman/vaultrs) - Asynchronous Rust client library for the Hashicorp Vault API.
+- [VDF](https://github.com/poanetwork/vdf) - Verifiable Delay Functions in Rust.
+- [TreeFlat](https://github.com/mamcx/tree-flat) - Simplest way to build & traverse a pre-order Tree in Rust.
+- [sarif-rs](https://github.com/psastras/sarif-rs) - Rust projects for interacting with the SARIF format.
+- [tasky](https://github.com/yoshuawuyts/tasky) - Fluent async task spawning experiments.
+- [libavif](https://github.com/njaard/libavif-rs) - Rust AVIF Decoder and Encoder crate.
+- [arrow-odbc](https://github.com/pacman82/arrow-odbc) - Fill Apache Arrow record batches from an ODBC data source in Rust.
+- [HashCorp Vault Rust API Client](https://github.com/ChrisMacNaughton/vault-rs)
+- [rust-minidump](https://github.com/rust-minidump/rust-minidump) - Type definitions, parsing, and analysis for the minidump file format.
+- [jwalk](https://github.com/jessegrosjean/jwalk) - Filesystem walk performed in parallel with streamed and sorted results.
+- [LaunchDarkly Server-Side SDK for Rust](https://github.com/launchdarkly/rust-server-sdk)
+- [Choir](https://github.com/kvark/choir) - Task Orchestration Framework.
+- [mime_guess](https://github.com/abonander/mime_guess) - MIME type guessing of file extensions for Rust.
+- [mini-fs](https://github.com/germangb/mini-fs) - Extensible virtual filesystem for the application layer.
+- [rc-zip](https://github.com/rust-compress/rc-zip) - Pure rust zip & zip64 reading and writing.
+- [Chicon](https://github.com/bnjjj/chicon-rs) - File abstraction system for Rust.
+
+## Cargo Plugins
+
+- [shuttle](https://github.com/getsynth/shuttle) - Deploy Rust apps with a single Cargo command. ([Web](https://www.shuttle.rs/))
+- [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
+- [cargo-c](https://github.com/lu-zero/cargo-c) - Cargo C-ABI helpers.
+- [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to help you manage large dependency graphs.
+- [cargo-edit](https://github.com/killercup/cargo-edit) - Utility for managing cargo dependencies from the command line.
+- [cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries.
+- [cargo-outdated](https://github.com/kbknapp/cargo-outdated) - Cargo subcommand for displaying when Rust dependencies are out of date.
+- [cargo-modules](https://github.com/regexident/cargo-modules) - Cargo plugin for showing a tree-like overview of a crate's modules.
+- [cargo-tree](https://github.com/sfackler/cargo-tree) - Cargo subcommand that visualizes a crate's dependency graph in a tree-like format.
+- [cargo cache](https://github.com/matthiaskrgr/cargo-cache) - Manage cargo cache (\${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively.
+- [stack-sizes](https://github.com/japaric/stack-sizes) - Tools to print stack usage information emitted by LLVM in human readable format.
+- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling mistakes.
+- [cargo-lipo](https://github.com/TimNN/cargo-lipo) - Cargo subcommand to automatically create universal libraries for iOS.
+- [cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion.
+- [rust-script](https://github.com/fornwall/rust-script) - Rust files and expressions as scripts without any setup or compilation step. ([Web](https://rust-script.org/))
+- [cargo-limit](https://github.com/alopatindev/cargo-limit) - Cargo with less noise: warnings are skipped until errors are fixed, etc.
+- [cargo-deadlinks](https://github.com/deadlinks/cargo-deadlinks) - Check your cargo doc documentation for broken links.
+- [cargo-osha](https://github.com/icefoxen/cargo-osha) - Cargo plugin to list unsafe code in a Rust project.
+- [Cargo Wipe](https://github.com/mihai-dinculescu/cargo-wipe) - Recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path.
+- [cargo xtask](https://github.com/matklad/cargo-xtask) - Way to add free-form automation to a Rust project, a-la make, npm run or bespoke bash scripts.
+- [cargo-binutils](https://github.com/rust-embedded/cargo-binutils) - Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain.
+- [cargo-embed](https://github.com/probe-rs/cargo-embed) - Cargo extension for working with microcontrollers.
+- [cargo makedocs](https://github.com/Bunogi/cargo-makedocs) - Cargo subcommand to build documentation for development easier.
+- [cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide some options useful for testing and continuous integration.
+- [probe-run](https://github.com/knurling-rs/probe-run) - Run embedded programs just like native ones.
+- [cargo-up](https://github.com/pksunkara/cargo-up) - Automatically upgrade breaking changes.
+- [cargo-update](https://github.com/nabijaczleweli/cargo-update) - cargo subcommand for checking and applying updates to installed executables.
+- [cargo-mobile](https://github.com/BrainiumLLC/cargo-mobile) - Rust on mobile made easy.
+- [Cargo-sweep](https://github.com/holmgr/cargo-sweep) - Cargo subcommand for cleaning up unused build files generated by Cargo.
+- [cargo-supply-chain](https://github.com/rust-secure-code/cargo-supply-chain) - Gather author, contributor and publisher data on crates in your dependency graph.
+- [Cargo Wharf](https://github.com/denzp/cargo-wharf) - Cacheable and efficient Docker images builder for Rust.
+- [cargo-deb](https://github.com/kornelski/cargo-deb) - Cargo subcommand that generates Debian packages from information in Cargo.toml.
+- [Cargo Remote](https://github.com/sgeisler/cargo-remote) - Cargo subcommand to compile rust projects remotely.
+- [cargo-breaking](https://github.com/iomentum/cargo-breaking) - Compares a crate's public API between two different branches, shows what changed, and suggests the next version according to semver.
+- [cargo-first-page](https://github.com/cecton/cargo-firstpage) - Shows only the first page of rustc output.
+- [Cargo Bisection](https://github.com/rust-lang/cargo-bisect-rustc) - Bisects rustc, either nightlies or CI artifacts.
+- [cargo-edit-locally](https://github.com/alexcrichton/cargo-edit-locally) - Subcommand to easily edit crate dependencies locally.
+- [cargo-patch](https://github.com/mettke/cargo-patch) - Cargo Subcommand which allows patching dependencies using patch files.
+- [cargo-llvm-cov](https://github.com/taiki-e/cargo-llvm-cov) - Cargo subcommand to easily use LLVM source-based code coverage.
+- [Cargo rdme](https://github.com/orium/cargo-rdme) - Cargo command to create the readme.md from your crate's documentation.
+- [cargo-script](https://github.com/DanielKeep/cargo-script) - Cargo subcommand designed to let people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem.
+- [cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects.
+- [rhack](https://github.com/nakabonne/rhack) - Temporary edit external crates that your project depends on.
+- [Highway-rs](https://github.com/nickbabcock/highway-rs) - Native Rust port of Google's HighwayHash. Makes use of SIMD instructions for a fast and strong hash function.
+- [cargo-depgraph](https://github.com/jplatte/cargo-depgraph) - Creates dependency graphs for cargo projects using cargo metadata and graphviz.
+- [cargo-build-deps](https://github.com/nacardin/cargo-build-deps) - Cargo subcommand to build dependencies, helps speed up docker builds by allowing dependencies to be built earlier and cached.
+- [cargo-intraconv](https://github.com/poliorcetics/cargo-intraconv) - Simple helper to transform Markdown links to intra-doc links in Rust projects when appropriate.
+- [cargo-xcodebuild](https://github.com/Gordon-F/cargo-xcodebuild) - Helps cargo build and run apps for iOS.
+- [cargo-strip](https://github.com/guedou/cargo-strip) - Cargo subcommand that reduces the size of Rust binaries using the strip command.
+- [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - cargo subcommand, that runs valgrind and collects its output in a helpful manner.
+- [cargo-license](https://github.com/onur/cargo-license) - Cargo subcommand to see license of dependencies.
+- [cargo-build-tree](https://github.com/Nemo157/cargo-build-tree)
+- [cargo-msrv](https://github.com/foresterre/cargo-msrv) - Find the minimum supported Rust version (MSRV) for your project.
+- [cargo-local-install](https://github.com/MaulingMonkey/cargo-local-install) - Wraps `cargo install` for better local, non-conflicting installation.
+- [cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker. ([Reddit](https://www.reddit.com/r/rust/comments/stq51v/announcing_cargozigbuild_compile_cargo_project/))
+- [cargo run-wasm](https://github.com/rukai/cargo-run-wasm) - Run WASM applications and examples in the browser.
+- [cargo-quickinstall](https://github.com/alsuren/cargo-quickinstall) - Pre-compiled binary packages for `cargo install`.
+- [cargo-diet](https://github.com/the-lean-crate/cargo-diet) - Help computing 'optimal' include directives for your Cargo.toml manifest.
+- [reloady](https://github.com/anirudhb/reloady) - Simple and performant hot-reloading for Rust.
+- [cargo-temp](https://github.com/yozhgoor/cargo-temp) - CLI tool that allows you to create a new rust project in a temporary directory with already installed dependencies.
+- [cargo-bom](https://github.com/sensorfu/cargo-bom) - Bill of Materials for Rust Crates.
+- [cargo-feature](https://github.com/Riey/cargo-feature) - Cargo plugin to manage dependency features.
+- [cargo-rx](https://github.com/rnag/cargo-rx) - Simple, modern fuzzy finder tool to run examples in a Cargo project.
+- [cargo-options](https://github.com/messense/cargo-options) - Reusable common Cargo command line options.
+- [cargo-subcommand](https://github.com/dvc94ch/cargo-subcommand) - Library for implementing cargo subcommands.
+
+## Links
+
+- [Docs.rs](https://docs.rs/) - Search rust packages. ([Code](https://github.com/rust-lang/docs.rs))
+- [Lib.rs](https://lib.rs/) - Fast, lightweight, opinionated, unofficial alternative to crates.io. ([Code](https://gitlab.com/crates.rs/crates.rs)) ([Reddit](https://www.reddit.com/r/rust/comments/r4f9cj/ysk_about_librs_a_pretty_alternative_to_cratesio/))
+- [Some more rust packages](https://github.com/yoshuawuyts/knowledge/blob/dd5cbf2d68bb85fa2e150a607b3267c2d36bc37b/computers/rust/packages.md)
+- [Curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
+- [Crates that don't exist, but should](https://github.com/dtolnay/request-for-implementation)
+- [Aelve Rust packages search](https://codesearch.aelve.com/rust) - Grep over package repositories.
+- [Overview of Rust error handling libraries (2019)](https://blog.yoshuawuyts.com/error-handling-survey/) ([HN](https://news.ycombinator.com/item?id=21606221))
+- [Quickly generate Dash docsets for third-party Rust crates](https://github.com/cmyr/rust-dash-docset-gen)
+- [Interact with crates.io from the command-line](https://github.com/Byron/crates-io-cli-rs)
+- [Rustsim](https://rustsim.org/) - Rust crates for numerical simulation.
+- [linkify](https://github.com/robinst/linkify) - Rust library to find links such as URLs and email addresses in plain text, handling surrounding punctuation correctly.
+- [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+- [cargo-workspaces](https://github.com/pksunkara/cargo-workspaces) - Tool for managing cargo workspaces and their packages, inspired by lerna.
+- [cargo-guppy](https://github.com/facebookincubator/cargo-guppy) - Track and query Cargo dependency graphs.
+- [Ktra](https://github.com/moriturus/ktra) - Your Little Cargo Registry.
+- [RustSec](https://rustsec.org/) - Security advisory database for Rust crates published through crates.io. ([Code](https://github.com/RustSec/advisory-db))
+- [Language development libraries for Rust](https://github.com/Kixiron/rust-langdev)
+- [cargo-cacher](https://github.com/ChrisMacNaughton/cargo-cacher) - Caching server for crates + cargo.
+- [Expose a Rust Library to Other Languages (2021)](https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html)
+- [rust-semverver](https://github.com/rust-lang/rust-semverver) - Automatic checking for semantic versioning in library crates.
+- [Against Packaging Rust Crates (2021)](https://fy.blackhats.net.au/blog/html/2021/02/16/against_packaging_rust_crates.html) ([Lobsters](https://lobste.rs/s/unaq3j/against_packaging_rust_crates))
+- [Starter code for writing procedural macros in Rust](https://github.com/SergioBenitez/proc-macro-starter)
+- [crates.io database dum](https://github.com/dtolnay/db-dump) - Library for scripting analyses against crates.io's database dumps.
+- [Crater](https://github.com/rust-lang/crater) - Tool to run experiments across parts of the Rust ecosystem.
+- [Alexandrie](https://github.com/Hirevo/alexandrie) - Modular alternative crate registry for Rust suitable for use with Cargo.
+- [Cargo Release](https://github.com/sunng87/cargo-release) - Cargo subcommand "release": everything about releasing a rust crate.
+- [The most underrated but useful Rust standard library type (2021)](https://dev.to/thepuzzlemaker/the-most-underrated-but-useful-rust-standard-library-type-59b1) ([Lobsters](https://lobste.rs/s/8oq6km/most_underrated_useful_rust_standard))
+- [Carnet](https://github.com/kutometa/carnet) - Small tool that imposes additional security constraints on Rust's official package manager, Cargo.
+- [rust-trending](https://github.com/pbzweihander/rust-trending) - Twitter bot to tweet trending Rust libraries.
+- [nocargo](https://github.com/oxalica/nocargo) - Cargo in nix.
+- [What are the most "professional" crates? (2021)](https://www.reddit.com/r/rust/comments/nsvyxq/what_are_the_most_professional_crates/)
+- [Cargo tally](https://github.com/dtolnay/cargo-tally) - Graph the number of crates that depend on your crate over time.
+- [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust)
+- [Rust Libs Team](https://github.com/rust-lang/libs-team) - Maintains and manages the Rust standard library, and makes sure crates in the Rust organization are maintained.
+- [Doku](https://github.com/anixe/doku) - Framework for building documentation with code-as-data methodology in mind.
+- [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration) - Library to easily and effortlessly integrate Cargo projects with Nix.
+- [version-sync](https://github.com/mgeisler/version-sync) - Keep your Version Numbers in Sync with Cargo.toml.
+- [Rust core for native Android and iOS apps](https://github.com/ivanschuetz/rust_android_ios) - How to use a shared Rust core in native Android and iOS apps.
+- [Roogle](https://roogle.hkmatsumoto.com/) - Rust API search engine, which allows you to search functions by names and type signatures. ([Code](https://github.com/hkmatsumoto/roogle))
+- [Panamax](https://github.com/panamax-rs/panamax) - Tool to mirror the Rust and crates.io repositories, for offline usage of rustup and cargo.
+- [How often is each Clippy lint suppressed on crates.io](https://github.com/dtolnay/noisy-clippy)
+- [chartered](https://github.com/w4/chartered) - Private, authenticated cargo registry.
+- [Awesome Rust Machine Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning) - List of machine learning libraries written in Rust.
+- [Registry index for crates.io](https://github.com/rust-lang/crates.io-index)
+- [Rust web frameworks, a new look? (discussion) (2021)](https://www.reddit.com/r/rust/comments/q1vzsx/rust_web_frameworks_a_new_look_discussion/)
+- [Rust: Does the published crate match the upstream source? (2021)](https://codeandbitters.com/published-crate-analysis/) ([HN](https://news.ycombinator.com/item?id=28827648))
+- [Whats your favorite open source Rust project that needs more recognition? (2021)](https://www.reddit.com/r/rust/comments/q69sna/whats_your_favourite_open_source_rust_project/)
+- [Rust Bindings Working Group](https://github.com/vfx-rs/organization) - Dedicated to creating a foundation for C and Rust bindings for C++ libraries used by the media and entertainment industry.
+- [A 2021 Survey of Rust GUI Libraries](https://www.boringcactus.com/2021/10/24/2021-survey-of-rust-gui-libraries.html) ([Lobsters](https://lobste.rs/s/hmvrcj/2021_survey_rust_gui_libraries))
+- [import-cargo](https://github.com/edolstra/import-cargo) - Function for fetching the crates listed in a Cargo lock file.
+- [rust-crates-index](https://github.com/frewsxcv/rust-crates-index) - Rust library for retrieving and interacting with the crates.io index.
+- [Plugins in Rust: Reducing the Pain with Dependencies (2021)](https://nullderef.com/blog/plugin-abi-stable/)
+- [Typify](https://github.com/oxidecomputer/typify) - JSON Schema -\> Rust type converter.
+- [Dylint](https://github.com/trailofbits/dylint) - Tool for running Rust lints from dynamic libraries.
+- [cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies.
+- [Meili crates browser](https://crates.meilisearch.com/) - Expose all crates from crates.io with MeiliSearch. ([Code](https://github.com/meilisearch/demo-finding-crates))
+- [Backdooring Rust crates for fun and profit (2021)](https://kerkour.com/rust-crate-backdoor/) ([Lobsters](https://lobste.rs/s/cjt83n/backdooring_rust_crates_for_fun_profit)) ([HN](https://news.ycombinator.com/item?id=29265765))
+- [Rust LibHunt](https://rust.libhunt.com/) - Your go-to Rust Toolbox. ([Twitter](https://twitter.com/RustLibHunt))
+- [dep_doc](https://github.com/scrabsha/dep-doc) - Add a cute dependency declaration snippet in your crate documentation.
+- [tracing-tree](https://github.com/davidbarsky/tracing-tree) - Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console.
+- [Pinning in plain English (2021)](https://blog.schichler.dev/pinning-in-plain-english-ckwdq3pd0065zwks10raohh85) ([HN](https://news.ycombinator.com/item?id=29359521))
+- [Build environment for third-party Rust crates](https://github.com/rust-lang/crates-build-env)
+- [cargo2nix](https://github.com/cargo2nix/cargo2nix) - Build Rust crates with Nix.
+- [Async Applied](https://github.com/benkay86/async-applied) - Practical examples of the Rust async ecosystem.
+- [image-rs](https://github.com/image-rs) - Image libraries for Rust.
+- [Whack-a-Dep](https://github.com/diem/whackadep) - Managing Rust dependencies via a dashboard.
+- [Universe](https://github.com/rvolosatovs/universe) - Centralized documentation for Rust crates Roma uses.
+- [Linking to a private repo in Cargo.toml](https://gist.github.com/kestein/87d8bb9cef187c0d02d733138a0a4454)
+- [cargo-api](https://github.com/crate-ci/cargo-api) - Interact with the crate's API.
+- [rustfilt](https://github.com/luser/rustfilt) - Demangle Rust symbols.
+- [simd](https://github.com/Nugine/simd) - SIMD-accelerated operations.
+- [rust-cli](https://github.com/yoshuawuyts/rust-cli) - Rust CLI prototype.
+- [Rust asynchronous examples](https://github.com/gendx/rust-async-examples)
+- [escargot](https://github.com/crate-ci/escargot) - Cargo API written in Paris.
+- [Meuse](https://github.com/mcorbin/meuse) - Private Cargo crate registry, for Rust.
+- [Porting Rust's std to rustix (2022)](https://blog.sunfishcode.online/port-std-to-rustix/) ([HN](https://news.ycombinator.com/item?id=29793377)) ([Reddit](https://www.reddit.com/r/rust/comments/rvnc6y/porting_rusts_std_to_rustix/)) ([Lobsters](https://lobste.rs/s/piqbfw/porting_rust_s_std_rustix))
+- [The rustdoc book](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
+- [Corrosion](https://github.com/corrosion-rs/corrosion) - Marrying Rust and CMake - Easy Rust and C/C++ Integration.
+- [Pin, Unpin, and why Rust needs them (2021)](https://blog.adamchalmers.com/pin-unpin/)
+- [Traits Working Group](https://github.com/rust-lang/wg-traits)
+- [Serverless Rust](https://github.com/nmoutschen/awesome-serverless-rust) - Curated list of resources for using Rust with serverless technologies.
+- [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
+- [Rust has a small standard library (and that's ok) (2022)](https://blog.nindalf.com/posts/rust-stdlib/) ([Reddit](https://www.reddit.com/r/programming/comments/sg7p51/rust_has_a_small_standard_library_and_thats_ok/)) ([HN](https://news.ycombinator.com/item?id=30138065))
+- [Rust serialization benchmark](https://github.com/djkoloski/rust_serialization_benchmark)
+- [Create Rust App](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. ([HN](https://news.ycombinator.com/item?id=30228325))
+- [What are your must install crates when starting a new project? (2022)](https://www.reddit.com/r/rust/comments/slg9d2/what_are_your_must_install_crates_when_starting_a/)
+- [A Plugin System in Rust](https://nullderef.com/series/rust-plugins/)
+- [release-plz](https://github.com/MarcoIeni/release-plz) - Release to Github and crates.io.
+- [Compile-time checked Builder pattern derive macro with zero-memory overhead](https://github.com/estebank/makeit) ([Tweet](https://twitter.com/ekuber/status/1493647808754294789))
+- [Diplomat](https://github.com/rust-diplomat/diplomat) - Experimental Rust tool for generating FFI definitions allowing many other languages to call Rust code.
+- [clawbang](https://github.com/chrisdickinson/clawbang) - Command line interface meant to bridge the gap between Rust and shell scripting.
+- [Rusts Module System Explained (2021)](https://aloso.github.io/2021/03/28/module-system.html)
+- [Rust's Universes (2021)](https://aloso.github.io/2021/03/10/rusts-universes.html)
+- [cmake-rs](https://github.com/alexcrichton/cmake-rs) - Rust build dependency for running cmake.
+- [Full-Stack Clean Architecture with Rust](https://github.com/flosse/clean-architecture-with-rust)
+- [rust-musl-cross](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross.
+- [absolution](https://github.com/Manishearth/absolution) - "Freedom from syn": Proc macro tools for operating on token trees.
+- [Best and worse cases of error handling code in rust (2022)](https://twitter.com/yaahc_/status/1506799278211014658)
+- [Rust parsing dynamic JSON (2022)](https://www.ahmadrosid.com/blog/rust-parsing-dynamic-json)
+- [x](https://github.com/cloudpeers/x) - Cross compile rust to any platform.
+- [Crubit](https://github.com/google/crubit) - C++/Rust Bidirectional Interop Tool.
+- [Nice ways to parse & get data from JSON](https://www.reddit.com/r/rust/comments/ttomov/is_there_a_prettier_way_to_parse_get_data_from/)
+- [rust-audit](https://github.com/Shnatsel/rust-audit) - Make production Rust binaries auditable.
+- [Are we GUI yet?](http://www.areweguiyet.com/) - State of building user interfaces in Rust. ([Code](https://github.com/areweguiyet/areweguiyet))
+- [A Rust web server / frontend setup like it's 2022 (with axum and yew)](https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/) ([Reddit](https://www.reddit.com/r/rust/comments/tvqlhd/a_rust_server_frontend_setup_like_its_2022_with/))
+- [macro_railroad extension](https://github.com/lukaslueg/macro_railroad_ext) - Display syntax-diagrams for Rust-macros on docs.rs and doc.rust-lang.org.
+- [Rust Universal Template](https://github.com/Rightpoint/rust-universal-template) - Template for creating Rust libraries with bindings to iOS, Android, WebAssembly and more.
+- [Rust to iOS](https://github.com/wojteklu/rust-to-ios) - Example project for building a library for iOS in Rust.
+- [rustdoc: Recent UI and UX changes in generated documentation (2022)](https://blog.guillaume-gomez.fr/articles/2022-04-08+rustdoc%3A+Recent+UI+and+UX+changes+in+generated+documentation) ([Reddit](https://www.reddit.com/r/rust/comments/tz61oq/walk_around_latest_rustdoc_ui_changes_in_the_last/))
