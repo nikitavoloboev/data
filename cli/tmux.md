@@ -26,3 +26,4 @@
 - [Chaakoo](https://github.com/pallavJha/chaakoo) - Slice and dice your TMUX windows and panes.
 - [Useful Tmux Configuration Examples (2021)](https://dev.to/iggredible/useful-tmux-configuration-examples-k3g)
 - [The Tao of Tmux (2017)](https://leanpub.com/the-tao-of-tmux/read)
+- [tmux.nvim](https://github.com/spywhere/tmux.nvim) - Turning Neovim into a terminal multiplexer. ([HN](https://news.ycombinator.com/item?id=30971946))

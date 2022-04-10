@@ -547,3 +547,4 @@
 - [Awesome Bugs](https://github.com/Julian/awesome-bugs) - Collection of bizarre, funny or obscure bugs in our software and hardware.
 - [Krun](https://github.com/softdevteam/krun) - High fidelity benchmark runner.
 - [Speeding up software with faster hardware: tradeoffs and alternatives (2022)](https://pythonspeed.com/articles/fixing-performance-with-hardware/)
+- [Ask HN: How to improve as a struggling junior swe? (2022)](https://news.ycombinator.com/item?id=30974544)
