@@ -197,6 +197,7 @@
 - [Debug via SSH](https://github.com/luchihoratiu/debug-via-ssh) - Allows you to connect to a GitHub Actions runner via SSH for interactive debugging using ngrok.
 - [semantic-release/github](https://github.com/semantic-release/github) - Publish a GitHub release and comment on released Pull Requests/Issues.
 - [Auto Update](https://github.com/tibdex/auto-update) - Automatically keep pull requests with auto-merge enabled up to date with their base branch.
+- [GitHub Action Required Labels](https://github.com/mheap/github-action-required-labels) - Allows you to fail the build if/unless a certain combination of labels are applied to a pull request.
 
 ## Go
 

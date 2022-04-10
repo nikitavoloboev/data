@@ -101,3 +101,4 @@
 - [Sex Work: Last Week Tonight with John Oliver (HBO) (2022)](https://www.youtube.com/watch?v=-gd8yUptg0Q)
 - [Contraceptive pill for males is 99% effective in preventing pregnancy (2022)](https://www.reddit.com/r/Futurology/comments/tksxt4/a_99_effective_birth_control_pill_for_men_could/) ([HN](https://news.ycombinator.com/item?id=30796368))
 - [Vaginal Orgasms](https://www.reddit.com/r/sexover30/comments/twhzkd/vaginal_orgasms/)
+- [One thing that changed your sex life forever?](https://www.reddit.com/r/sex/comments/u05bc1/whats_the_one_thing_that_changed_your_sex_life/)

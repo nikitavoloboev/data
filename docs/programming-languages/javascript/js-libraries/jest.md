@@ -33,3 +33,4 @@
 - [Jest Preview](https://github.com/nvh95/jest-preview) - Preview your HTML code while using Jest.
 - [jest-runner-groups](https://github.com/eugene-manuilov/jest-runner-groups) - Test runner that allows you to tag your tests and execute specific groups of tests with Jest.
 - [jest-dom](https://github.com/testing-library/jest-dom) - Custom jest matchers to test the state of the DOM.
+- [Jest HTML Reporter](https://github.com/dkelosky/jest-stare) - Takes summary test results from jest and parses them into an HTML file for improved readability and filtering.

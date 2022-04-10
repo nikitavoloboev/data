@@ -148,3 +148,6 @@
 - [Tips for Improving Your Elixir Configuration (2022)](https://felt.com/blog/elixir-configuration)
 - [Exploring Options for Storing Custom Data in Ecto (2022)](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
 - [Elixir Web Code](https://github.com/elixir-lang/elixir-lang.github.com)
+- [OTP Course](https://grox.io/language/otp/course) - OTP is the heart and soul of Elixir’s concurrency and reliability.
+- [Designing Elixir Systems with OTP Book (2019)](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
+- [Decode the Coding Interview in Elixir: Real-World Examples](https://www.educative.io/courses/decode-the-coding-interview-elixir)

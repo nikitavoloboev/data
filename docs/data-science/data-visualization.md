@@ -147,3 +147,4 @@
 - [VegaFusion](https://github.com/vegafusion/vegafusion) - Serverside acceleration for the Vega visualization grammar.
 - [datasette-dashboards](https://github.com/rclement/datasette-dashboards) - Datasette plugin providing data dashboards from metadata.
 - [Webviz](https://webviz.io/) - Visualizing robotics data in the browser. ([Code](https://github.com/cruise-automation/webviz))
+- [Atlas](https://github.com/IQTLabs/atlas) - Visualization tool for creating customizable, interactive graphs in a browser using Python and Dash Cytoscape.

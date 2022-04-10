@@ -3,6 +3,7 @@
 ## Example sites
 
 - [My Room in 3D](https://my-room-in-3d.vercel.app/) ([Code](https://github.com/brunosimon/my-room-in-3d)) ([HN](https://news.ycombinator.com/item?id=28496650))
+- [Solar Storm](https://solarstorm.netlify.app/) - Audio reactive scene built with React Three Fiber. ([Code](https://github.com/winkerVSbecks/solarstorm))
 
 ## Links
 
@@ -102,3 +103,4 @@
 - [ThreeJS-water](https://github.com/martinRenou/threejs-water) - Evan Wallace's webgl-water demo using ThreeJS.
 - [Three.V8](https://github.com/fynv/Three.V8) - Embeddable 3D Rendering Engine with JS.
 - [Infinite World Generation](https://github.com/JDihlmann/infty) - Demo of the wave form collapse (WFC) algorithm with react three fiber and web assembly (WASM).
+- [Personal vite starter for react-three-fiber projects](https://github.com/mattrossman/r3f-vite)

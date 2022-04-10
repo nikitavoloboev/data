@@ -1722,6 +1722,9 @@
 - [mini-fs](https://github.com/germangb/mini-fs) - Extensible virtual filesystem for the application layer.
 - [rc-zip](https://github.com/rust-compress/rc-zip) - Pure rust zip & zip64 reading and writing.
 - [Chicon](https://github.com/bnjjj/chicon-rs) - File abstraction system for Rust.
+- [bet](https://github.com/Canop/bet) - Build and evaluate binary expression trees.
+- [audio-graph](https://github.com/m-hilgendorf/audio-graph) - Data structures and algorithms for audio graphs.
+- [rainout](https://github.com/RustyDAW/rainout) - Cross-platform audio and MIDI IO.
 
 ## Cargo Plugins
 
@@ -1790,6 +1793,7 @@
 - [cargo-rx](https://github.com/rnag/cargo-rx) - Simple, modern fuzzy finder tool to run examples in a Cargo project.
 - [cargo-options](https://github.com/messense/cargo-options) - Reusable common Cargo command line options.
 - [cargo-subcommand](https://github.com/dvc94ch/cargo-subcommand) - Library for implementing cargo subcommands.
+- [cargo-bump](https://github.com/wraithan/cargo-bump) - The command cargo bump which bumps the current version in your Cargo.toml.
 
 ## Links
 

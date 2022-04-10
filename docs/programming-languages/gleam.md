@@ -32,3 +32,4 @@
 - [gleam_cowboy_websockets](https://github.com/vstreame/gleam_cowboy_websockets)
 - [httpc](https://github.com/gleam-lang/httpc) - Make requests to HTTP servers with httpc.
 - [Elli](https://github.com/gleam-lang/elli) - Gleam HTTP service adapter for the Elli web server.
+- [ids](https://github.com/rvcas/ids) - Unique IDs for Gleam.

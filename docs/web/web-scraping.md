@@ -173,3 +173,4 @@
 - [Scraping Instagram (2022)](https://scrapingfish.com/blog/scraping-instagram) ([HN](https://news.ycombinator.com/item?id=30868738))
 - [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) - Scrapes Linkedin User Data.
 - [Aeon](https://github.com/leinelissen/aeon) - Scan the internet for your personal information and modify or remove it.
+- [article-parser](https://github.com/ndaidong/article-parser) - Extract main article, main image and meta data from URL.

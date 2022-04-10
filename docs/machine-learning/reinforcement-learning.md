@@ -338,3 +338,4 @@
 - [or-gym](https://github.com/hubbs5/or-gym) - Environments for OR and RL Research.
 - [AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) - Next generation deep reinforcement learning tookit.
 - [SuperSonic](https://github.com/HuantWang/SUPERSONIC) - Automating reinforcement learning architecture design for code optimization.
+- [panda-gym](https://github.com/qgallouedec/panda-gym) - OpenAI/gym robotic environments based on PyBullet physics engine.

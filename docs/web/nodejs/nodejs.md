@@ -358,3 +358,4 @@
 - [cron-parser](https://github.com/harrisiirak/cron-parser) - Node.js library for parsing crontab instructions.
 - [nat-api](https://github.com/alxhotel/nat-api) - Fast port mapping with UPnP and NAT-PMP.
 - [watch-dependency-graph](https://github.com/front-of-house/watch-dependency-graph) - Small Node.js file watcher for watching dependency trees.
+- [deoptigate](https://github.com/thlorenz/deoptigate) - Investigates v8/Node.js function deoptimizations.

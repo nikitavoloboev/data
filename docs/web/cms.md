@@ -27,7 +27,7 @@
 - [Tensei](https://tenseijs.com/) - Open source Node.js Headless CMS. ([Code](https://github.com/tenseijs/tensei))
 - [Netlify CMS](https://www.netlifycms.org/) - Open-Source Content Management System. ([Code](https://github.com/netlify/netlify-cms))
 - [Prismic CMS](https://prismic.io/) - Headless Website Builder for Jamstack. ([Slice Machine](https://github.com/prismicio/slice-machine))
-- [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS. ([Next.js starter](https://github.com/GraphCMS/reference-marketing-website))
+- [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS. ([Next.js starter](https://github.com/GraphCMS/reference-marketing-website)) ([GraphCMS Management SDK](https://github.com/GraphCMS/management-sdk))
 - [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))
 - [New Strapi live demo: FoodAdvisor v2 using Strapi & Next.js (2021)](https://strapi.io/blog/foodadvisor-v2)
 - [Contentlayer](https://github.com/contentlayerdev/contentlayer) - Turns your content into data - making it super easy to import MD(X) and CMS content in your app. ([Web](https://www.contentlayer.dev/))

@@ -249,3 +249,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Infinite Mac](https://system7.app/)
 - [Mac pfctl Port Forwarding](https://salferrarello.com/mac-pfctl-port-forwarding/)
 - [MACVZ](https://github.com/mac-vz/macvz) - macOS Virtualization for Linux.
+- [Network Quality Server](https://github.com/network-quality/server) - Share example servers that can be used by the networkQuality command line tool available in macOS 12.

@@ -10,3 +10,4 @@
 - [deepnightLibs](https://github.com/deepnight/deepnightLibs) - General purpose libs I use in all my Haxe projects.
 - [StablexUI](https://github.com/RealyUniqueName/StablexUI) - UI engine for Haxe OpenFL designed to give as much freedom as possible in customizing UI.
 - [haxeui-core](https://github.com/haxeui/haxeui-core) - Core library of the HaxeUI framework.
+- [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL. ([Web](https://haxeflixel.com/))

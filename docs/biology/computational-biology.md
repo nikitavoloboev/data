@@ -1,3 +1,7 @@
+---
+title: Computational biology
+---
+
 # [Computational biology](https://en.wikipedia.org/wiki/Computational_biology)
 
 ## Links

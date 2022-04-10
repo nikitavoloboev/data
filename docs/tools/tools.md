@@ -176,6 +176,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md).
 - [Increment.me](https://www.increment.me/) - Easily get anonymous feedback on anything. ([HN](https://news.ycombinator.com/item?id=25029904))
 - [CommandBar](https://www.commandbar.com/) - Searchbar, with one big difference. Its results include commands.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [Remark42](https://github.com/umputun/remark42) - Self-hosted, lightweight and simple (yet functional) comment engine, which doesn't spy on users. ([Web](https://remark42.com/))
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Code Climate](https://codeclimate.com/) - Empower Engineering Excellence with Data.
 - [Dico.app](https://dico.app/) - Manage static content for your web app with ease. ([GitHub](https://github.com/dico-app))

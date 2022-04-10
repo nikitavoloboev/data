@@ -200,6 +200,7 @@
 - [LaTTe-Kernel](https://github.com/latte-central/latte-kernel) - Small kernel of the LaTTe proof assistant in Clojure(script).
 - [insn](https://github.com/jgpc42/insn) - Functional JVM bytecode generation for Clojure.
 - [transcriptor](https://github.com/cognitect-labs/transcriptor) - Convert REPL interactions into example-based tests.
+- [deps-bin](https://github.com/ericdallo/deps-bin) - Clojure library that builds an embedded executable jar.
 
 ## Links
 

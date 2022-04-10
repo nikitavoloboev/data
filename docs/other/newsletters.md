@@ -83,3 +83,4 @@
 - [Awesome Quincy Larson Email Archive](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
 - [Laravel Digest](https://github.com/hmones/laravel-digest) - Simple way to convert your emails into configurable digests.
 - [Brail](https://github.com/sinclairnick/brail) - Framework built on NextJS for developing email templates in React, and returning HTML that is compatible with major email clients.
+- [Journal Ghost Theme](https://github.com/TryGhost/Journal) - Newsletter theme for Ghost.

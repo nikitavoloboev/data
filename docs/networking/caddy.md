@@ -48,3 +48,4 @@
 - [Caddy SSH](https://github.com/mohammed90/caddy-ssh) - General-purpose, extensible, modular, memory-safe SSH server built in Go. ([Intro](https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/)) ([HN](https://news.ycombinator.com/item?id=30830749))
 - [Caddy NGINX Config Adapter](https://github.com/caddyserver/nginx-adapter) - Run Caddy with your NGINX config.
 - [Transform Encoder Module for Caddy's Logger](https://github.com/caddyserver/transform-encoder) - Log encoder module for custom log formats.
+- [caddy-jsonselect-encoder](https://github.com/leodido/caddy-jsonselect-encoder) - Pick what to log in JSON format.

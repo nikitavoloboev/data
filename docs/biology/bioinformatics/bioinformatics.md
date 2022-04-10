@@ -1,3 +1,7 @@
+---
+title: Bioinformatics
+---
+
 # [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics)
 
 Personally quite excited about developments of [Foregen](https://www.foregen.org/) & am donating to the cause. Regenerating tissue/organs fully is incredibly exciting.

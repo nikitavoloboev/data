@@ -512,3 +512,6 @@
 the execution time on all cores of a multi-core processor.
 - [Ask HN: Why is there no Linux distro that “just works” like macOS? (2022)](https://news.ycombinator.com/item?id=30966582)
 - [CoreOS Installer](https://github.com/coreos/coreos-installer) - Installer for CoreOS disk images.
+- [melange](https://github.com/chainguard-dev/melange) - Build APKs from source code.
+- [bpf](https://github.com/mildsunrise/node_bpf) - eBPF / libbpf bindings for Node.js.
+- [bpfcc](https://github.com/mildsunrise/node_bpfcc) - BPF Compiler Collection (BCC) frontend for Node.js.

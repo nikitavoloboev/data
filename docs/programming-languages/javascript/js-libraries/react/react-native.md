@@ -231,3 +231,4 @@
 - [React Native Image Header Scroll View](https://github.com/bamlab/react-native-image-header-scroll-view) - ScrollView with an image in header which becomes a navbar.
 - [React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context) - Flexible way to handle safe area insets in JS.
 - [React Native Hold Menu](https://github.com/enesozturk/react-native-hold-menu) - Performant, easy to use hold to open context menu for React Native powered by Reanimated.
+- [React Native Swipeable Panel](https://github.com/enesozturk/rn-swipeable-panel) - Swipeable, easy to use bottom panel for your React Native projects.

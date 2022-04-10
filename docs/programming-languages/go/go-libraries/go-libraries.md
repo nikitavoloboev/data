@@ -466,6 +466,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [sqlite](https://gitlab.com/cznic/sqlite) - CGo-free port of SQLite.
 - [Golobby ORM](https://github.com/golobby/orm) - Lightweight yet powerful, fast, customizable, type-safe object-relational mapper for Go.
 - [lockfree](https://github.com/dustinxie/lockfree) - Go lock-free concurrent Hashmap.
+- [satomic](https://github.com/dhui/satomic) - Go package that makes managing nested SQL transactions/savepoints easier.
 
 ## ML
 
@@ -1544,6 +1545,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [csvparser](https://github.com/plagioriginal/csvparser) - Fast, easy-of-use and dependency free custom mapping from .csv data into Go structs.
 - [Sparse Merkle Tree](https://github.com/aergoio/SMT) - Performance oriented implementation of a binary SMT with parallel update, node batching and storage shortcuts.
 - [packit](https://github.com/paketo-buildpacks/packit) - Provides primitives for implementing a Cloud Native Buildpack according to the specification.
+- [go-multiaddr](https://github.com/multiformats/go-multiaddr) - Composable and future-proof network addresses.
 
 ## Links
 

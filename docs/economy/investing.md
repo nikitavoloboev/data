@@ -2,6 +2,8 @@
 
 I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/). I also hold & stake [Solana](../databases/blockchain/solana.md).
 
+[Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro.
+
 ## Interesting ETFs
 
 - [VT](https://finance.yahoo.com/quote/vt/) - Vanguard Total World Stock Index Fund.
@@ -260,3 +262,6 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [IBKR Traders' Academy](https://tradersacademy.online/)
 - [Where to safely invest money for long term? (2022)](https://twitter.com/moizali/status/1512423716474560512)
 - [Solid blue chip stocks to buy (2022)](https://www.reddit.com/r/stocks/comments/tznfdl/30k_want_to_buy_some_blue_chips_what_do_you/)
+- [The Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/)
+- [Bogleheads Blog](https://www.bogleheads.org/blog/)
+- [What are the best books about investing, finance, or money management? (2022)](https://www.reddit.com/r/Bogleheads/comments/u0gpp4/what_are_the_best_books_about_investing_finance/)

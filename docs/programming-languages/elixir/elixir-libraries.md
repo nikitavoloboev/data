@@ -72,6 +72,8 @@
 - [Vexil](https://github.com/Ovyerus/vexil) - Elixir flag parser that does just enough.
 - [Artificery](https://github.com/bitwalker/artificery) - Toolkit for creating terminal user interfaces in Elixir.
 - [ExTermbox](https://github.com/ndreynolds/ex_termbox) - Low-level termbox bindings for Elixir.
+- [ExCLI](https://github.com/danhper/ex_cli) - User friendly CLI apps for Elixir.
+- [CliSpinners](https://github.com/blackode/elixir_cli_spinners) - Spinnig Animations for Command Line Applications.
 
 ## Math
 

@@ -75,3 +75,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Simplicity of IRC (2022)](https://susam.net/maze/simplicity-of-irc.html) ([Lobsters](https://lobste.rs/s/lfiask/simplicity_irc)) ([HN](https://news.ycombinator.com/item?id=29862550))
 - [Design and Prototypical Implementation of an IRC Chat Server in Erlang OTP (2022)](https://www.linuxjournal.com/content/design-and-prototypical-implementation-irc-chat-server-erlang-otp)
 - [miniircd](https://github.com/jrosdahl/miniircd) - Very simple Internet Relay Chat (IRC) server.
+- [autobrr](https://github.com/autobrr/autobrr) - Monitors IRC announce channels to get releases as soon as they are available with good filtering.

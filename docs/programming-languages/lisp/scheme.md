@@ -75,3 +75,4 @@
 - [Waffle](https://github.com/playXE/waffle-scheme) - Simple Scheme implementation with bytecode VM.
 - [Fiddle](https://github.com/maxsnew/modal-scheme) - Scheme-like CBPV language with Racket Interoperability.
 - [agda2scheme](https://github.com/jespercockx/agda2scheme) - Agda backend for Chez Scheme.
+- [The Reasoned Schemer Book (2018)](https://mitpress.mit.edu/books/reasoned-schemer-second-edition) ([Code](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd))

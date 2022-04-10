@@ -113,3 +113,4 @@
 - [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
 - [JSON.lua](https://github.com/rxi/json.lua) - Lightweight JSON library for Lua.
 - [Lua HTTP](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
+- [LOOM](https://github.com/cloudflare/loom) - Easier to read LuaJIT dumps.

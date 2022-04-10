@@ -63,6 +63,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Rose](https://t.me/MissRose_bot) - Powerful telegram bot to help you manage your groups.
 - [Remix](https://github.com/callsmusic/remix) - Operational and exprimental Telegram music bot.
 - [LyAdminBot](https://t.me/LyAdminBot) - Бот для администрирования групп. ([Code](https://github.com/LyoSU/LyAdminBot))
+- [Telegram File Stream Bot](https://github.com/EverythingSuckz/TG-FileStreamBot) - Will give you stream links for Telegram files without the need of waiting till the download completes.
 - [shell-bot](https://github.com/botgram/shell-bot) - Telegram bot that executes commands and sends the live output.
 - [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 - [TgDev](https://tgdev.io/) - Telegram bots development.

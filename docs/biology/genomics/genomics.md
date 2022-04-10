@@ -1,3 +1,7 @@
+---
+title: Genomics
+---
+
 # [Genomics](https://en.wikipedia.org/wiki/Genomics)
 
 ## Links

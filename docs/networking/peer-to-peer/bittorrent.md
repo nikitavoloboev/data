@@ -97,3 +97,5 @@
 - [Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages](https://github.com/HDVinnie/Torrent-Tracker-Platforms)
 - [webtorrent-health](https://github.com/alxhotel/webtorrent-health) - Get health info about a webtorrent file or magnet link.
 - [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - Simple, robust, BitTorrent tracker (client & server) implementation.
+- [magnetfinder](https://github.com/xel86/magnetfinder) - Multi-threaded CLI torrent scraper for displaying searched for magnet links; tailored for use with plex & ssh.
+- [qBittorrent CLI](https://github.com/ludviglundgren/qbittorrent-cli) - CLI to manage qBittorrent. Add torrents, reannounce and import from other clients.

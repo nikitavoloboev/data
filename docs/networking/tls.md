@@ -83,3 +83,4 @@
 - [Feilich](https://github.com/Luukdegram/feilich) - Small, no dependency, TLS 1.3 implementation in Zig, for Zig.
 - [What is TLS fingerprinting? (2022)](https://fingerprintjs.com/blog/what-is-tls-fingerprinting-transport-layer-security/)
 - [GoSSL](https://github.com/yakuter/gossl) - Cross platform, easy to use SSL tool written with native Go.
+- [uTLS](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.

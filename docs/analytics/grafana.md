@@ -1,3 +1,7 @@
+---
+title: Grafana
+---
+
 # [Grafana](https://grafana.com/)
 
 ## Links

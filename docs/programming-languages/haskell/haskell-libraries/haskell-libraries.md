@@ -58,6 +58,7 @@
 - [Haskeline](https://github.com/judah/haskeline) - Haskell library for line input in command-line programs.
 - [unbeliever](https://github.com/aesiniath/unbeliever) - Library for writing command-line applications, be they tools or long-running daemons.
 - [butcher](https://github.com/lspitzner/butcher) - Chops a command or program invocation into digestable pieces.
+- [vty](https://github.com/jtdaugherty/vty) - High-level ncurses alternative written in Haskell.
 
 ## Error
 

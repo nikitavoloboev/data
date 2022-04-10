@@ -43,3 +43,4 @@
 - [Fourier Transform, explained in one sentence](https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html) ([Tweet](https://twitter.com/Rainmaker1973/status/1500090365587689477))
 - [NFFT.jl](https://github.com/JuliaMath/NFFT.jl) - Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).
 - [How Wavelets Allow Researchers to Transform, and Understand, Data (2022)](https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/)
+- [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform (2022)](https://arxiv.org/abs/2203.02395) ([Code](https://github.com/rishikksh20/iSTFTNet-pytorch))

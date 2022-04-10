@@ -493,7 +493,7 @@
 - [Things you can’t do in Rust (and what to do instead) (2021)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/) ([Reddit](https://www.reddit.com/r/rust/comments/nclaru/things_you_cant_do_in_rust_and_what_to_do_instead/)) ([HN](https://news.ycombinator.com/item?id=27164000))
 - [Debugging rust application inside Linux container (2021)](https://blog.erebe.dev/blog/debug-rust-aplication-inside-container/index.html)
 - [Naming Your Lifetimes (2021)](https://www.possiblerust.com/pattern/naming-your-lifetimes)
-- [Rust Web Development (2021)](https://www.manning.com/books/rust-web-development) ([Reddit](https://www.reddit.com/r/rust/comments/nhu9h9/the_rust_web_development_book_is_now_in_meap/))
+- [Rust Web Development (2021)](https://www.manning.com/books/rust-web-development) ([Reddit](https://www.reddit.com/r/rust/comments/nhu9h9/the_rust_web_development_book_is_now_in_meap/)) ([Code](https://github.com/Rust-Web-Development/code))
 - [Rust books you read and liked? (2021)](https://www.reddit.com/r/rust/comments/ni8kw3/what_other_rust_books_besides_the_book_have_you/)
 - [mutagen](https://github.com/llogiq/mutagen) - Breaking your Rust code for fun & profit.
 - [Awesome Rust Security](https://github.com/ex0dus-0x/awesome-rust-security)
@@ -759,3 +759,4 @@
 - [Rust 1.60.0 (2022)](https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html) ([Reddit](https://www.reddit.com/r/rust/comments/tydta1/announcing_rust_1600/)) ([HN](https://news.ycombinator.com/item?id=30944709)) ([Lobsters](https://lobste.rs/s/btxn0i/announcing_rust_1_60_0))
 - [Instant::now() what? (2022)](https://blog.iximeow.net/now_what.html)
 - [A Practical Analysis of Rust's Concurrency Story (2019)](https://arxiv.org/abs/1904.12210)
+- [Hands-On Microservices with Rust Book (2019)](https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758) ([Code](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust))

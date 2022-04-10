@@ -895,6 +895,7 @@
 - [pocket.io](https://github.com/WebReflection/pocket.io) - Minimalistic version of socket.io that weights about 1K instead of 60K.
 - [escape-goat](https://github.com/sindresorhus/escape-goat) - Escape a string for use in HTML or the inverse.
 - [Template Parts](https://github.com/github/template-parts) - Implementation of the Template Parts proposal.
+- [Iterators](https://github.com/stdlib-js/iter) - Standard library iterator utilities.
 
 ## Links
 

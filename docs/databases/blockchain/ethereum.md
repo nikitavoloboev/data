@@ -584,3 +584,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Trustus](https://github.com/ZeframLou/trustus) - Trust-minimized method for accessing offchain data onchain.
 - [solver](https://github.com/EVM-SMT/solver) - Proof first, evm specific smt solver.
 - [Check the Chain (ctc)](https://github.com/fei-protocol/checkthechain) - Tool for historical data analysis of Ethereum and other EVM chains.
+- [Underhanded Solidity Contest](https://underhanded.soliditylang.org/) ([Code](https://github.com/ethereum/solidity-underhanded-contest))

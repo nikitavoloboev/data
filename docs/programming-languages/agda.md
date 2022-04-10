@@ -78,3 +78,4 @@
 - [OTT](https://github.com/effectfully/OTT) - Observational Type Theory as an Agda library.
 - [UALib](https://github.com/ualib/ualib.github.io) - Agda Universal Algebra Library.
 - [Fair termination in Agda](https://github.com/boystrange/FairTermination)
+- [System F-omega normalization by hereditary substitution in Agda](https://github.com/AndrasKovacs/system-f-omega)
