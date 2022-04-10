@@ -313,3 +313,4 @@
 - [RFC: Intent to Ship React 18](https://github.com/reactjs/rfcs/blob/react-18/text/0000-react-18.md) ([HN](https://news.ycombinator.com/item?id=30790909))
 - [React v18.0 (2022)](https://reactjs.org/blog/2022/03/29/react-v18.html) ([HN](https://news.ycombinator.com/item?id=30844414)) ([Tweet](https://twitter.com/reactjs/status/1508838714180612100))
 - [React Advanced Useful Tricks (2022)](https://www.reddit.com/r/reactjs/comments/tvm31o/reactjs_advanced_useful_tricks/)
+- [Preferred way to handle success, loading states in React (2022)](https://www.reddit.com/r/reactjs/comments/u0em5s/handling_success_loading_nodata_and_error_states/)

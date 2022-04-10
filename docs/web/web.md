@@ -346,6 +346,7 @@
 - [Web3 Is Not Decentralization](https://invisibleup.com/articles/38/) ([HN](https://news.ycombinator.com/item?id=29492851))
 - [Advent of UI Components](https://www.silvestar.codes/side-projects/advent/)
 - [ReplayWeb.page](https://replayweb.page/) - Explore and Replay Interactive Archived Webpages Directly in your Browser. ([Code](https://github.com/webrecorder/replayweb.page))
+- [wabac.js](https://github.com/webrecorder/wabac.js) - Web Archive Browsing Augmentation Client.
 - [Avoiding Internet Centralization (2021)](https://mnot.github.io/avoiding-internet-centralization/draft-nottingham-avoiding-internet-centralization.html) ([HN](https://news.ycombinator.com/item?id=29500035))
 - [Future of web focuses (2021)](https://twitter.com/levie/status/1473500689645010945)
 - [How my website works (2022)](https://brianlovin.com/writing/how-my-website-works)

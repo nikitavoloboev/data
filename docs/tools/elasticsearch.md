@@ -60,3 +60,4 @@
 - [Blaze](https://github.com/unidentifieddeveloper/blaze) - Blazing fast exporter for your Elasticsearch data.
 - [Export Data from ElasticSearch to CSV by Raw or Lucene Query](https://github.com/pteich/elastic-query-export)
 - [Elastic App Search](https://www.elastic.co/app-search/) - Build search applications with Elastic. ([JS client](https://github.com/elastic/app-search-javascript))
+- [ElasticSearch.jl](https://github.com/lotcher/ElasticSearch.jl) - ElasticSearch client for Julia.

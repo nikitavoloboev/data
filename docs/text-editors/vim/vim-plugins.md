@@ -308,3 +308,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Pynvim](https://github.com/neovim/pynvim) - Python client and plugin host for Nvim.
 - [Neovim package specification](https://github.com/nvim-lua/nvim-package-specification)
 - [Vim Color Schemes](https://vimcolorschemes.com/) ([HN](https://news.ycombinator.com/item?id=30885471))
+- [Neogen](https://github.com/danymat/neogen) - Better annotation generator. Supports multiple languages and annotation conventions.

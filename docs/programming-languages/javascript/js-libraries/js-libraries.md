@@ -168,6 +168,7 @@
 - [iron-store](https://github.com/vvo/iron-store) - In-memory, signed and encrypted JavaScript store.
 - [Keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [Quickgres](https://github.com/kig/quickgres) - Native-JS PostgreSQL client library.
+- [invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object.
 
 ## React
 

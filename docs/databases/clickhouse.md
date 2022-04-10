@@ -10,3 +10,4 @@
 - [ClickHouse Docs](https://clickhouse.com/docs/en/) ([Code](https://github.com/ClickHouse/clickhouse-docs))
 - [Что нужно знать об архитектуре ClickHouse / Алексей Зателепин (Яндекс) (2018)](https://www.youtube.com/watch?v=PLMSA_gDdyM)
 - [A Fast Intro to Fast Query with ClickHouse, by Robert Hodges (2019)](https://www.youtube.com/watch?v=_vSw3WO2mMY)
+- [FluxPipe](https://github.com/lmangani/fluxpipe) - Experimental indepenent Flux API for ClickHouse and other embedded datasources.

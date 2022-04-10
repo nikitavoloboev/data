@@ -541,6 +541,7 @@
 - [tongrams-rs](https://github.com/kampersanda/tongrams-rs) - Rust port of tongrams to index and query large language models in compressed space.
 - [Rust OpenCV bindings](https://github.com/twistedfall/opencv-rust)
 - [video-toolbox-sys](https://github.com/bschwind/video-toolbox-sys) - Rust bindings to Apple's Video Toolbox framework.
+- [Rust AutoML](https://github.com/cmccomb/rust-automl) - Automated Machine Learning in Rust.
 
 ## macOS
 
@@ -1726,6 +1727,7 @@
 - [bet](https://github.com/Canop/bet) - Build and evaluate binary expression trees.
 - [audio-graph](https://github.com/m-hilgendorf/audio-graph) - Data structures and algorithms for audio graphs.
 - [rainout](https://github.com/RustyDAW/rainout) - Cross-platform audio and MIDI IO.
+- [munge](https://github.com/djkoloski/munge) - Makes it easy and safe to destructure raw pointers, MaybeUninits, Cells, and Pins.
 
 ## Cargo Plugins
 
@@ -1795,6 +1797,7 @@
 - [cargo-options](https://github.com/messense/cargo-options) - Reusable common Cargo command line options.
 - [cargo-subcommand](https://github.com/dvc94ch/cargo-subcommand) - Library for implementing cargo subcommands.
 - [cargo-bump](https://github.com/wraithan/cargo-bump) - The command cargo bump which bumps the current version in your Cargo.toml.
+- [Cargo spec](https://github.com/mimoo/cargo-specification) - Tool to turn your code into a specification.
 
 ## Links
 

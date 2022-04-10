@@ -210,3 +210,4 @@
 - [Entire website in a single JavaScript file (2022)](https://deno.com/blog/a-whole-website-in-a-single-js-file) ([HN](https://news.ycombinator.com/item?id=30933831))
 - [dom-jsx-runtime](https://github.com/jed/dom-jsx-runtime) - Tiny library that turns JSX into DOM operations.
 - [deno-systray](https://github.com/wobsoriano/deno-systray) - Cross-platform systray library for Deno using the go systray library.
+- [Sprinter](https://github.com/jeff-hykin/sprinter) - Run deno subprocesses faster.

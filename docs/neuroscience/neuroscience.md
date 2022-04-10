@@ -115,6 +115,7 @@
 - [The Neuro - McGill University](https://www.mcgill.ca/neuro/) ([Twitter](https://twitter.com/TheNeuro_MNI))
 - [Nilearn](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python.
 - [tedana](https://github.com/ME-ICA/tedana) - TE-dependent analysis of multi-echo fMRI.
+- [Neuro-Nav](https://github.com/awjuliani/neuro-nav) - Set of neuroscience inspired navigation and decision making tasks.
 
 ## Images
 
