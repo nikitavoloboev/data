@@ -897,6 +897,7 @@
 - [escape-goat](https://github.com/sindresorhus/escape-goat) - Escape a string for use in HTML or the inverse.
 - [Template Parts](https://github.com/github/template-parts) - Implementation of the Template Parts proposal.
 - [Iterators](https://github.com/stdlib-js/iter) - Standard library iterator utilities.
+- [MojiScript](https://github.com/joelnet/MojiScript) - Async-first, opinionated, and functional library.
 
 ## Links
 
@@ -967,3 +968,4 @@
 - [knitwork](https://github.com/unjs/knitwork) - Utilities to generate JavaScript code.
 - [JSDoc](https://github.com/jsdoc/jsdoc) - API documentation generator for JavaScript. ([Web](https://jsdoc.app/))
 - [Shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports.
+- [Import maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports.

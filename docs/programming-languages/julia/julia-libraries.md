@@ -177,6 +177,7 @@
 - [FixedPointNumbers](https://github.com/JuliaMath/FixedPointNumbers.jl) - Implements fixed-point number types.
 - [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) - Online Algorithms for Statistics, Models, and Big Data Viz.
 - [Survival.jl](https://github.com/JuliaStats/Survival.jl) - Survival analysis in Julia.
+- [StatsKit.jl](https://github.com/JuliaStats/StatsKit.jl) - Convenience meta-package to load essential packages for statistics.
 
 ## NLP
 

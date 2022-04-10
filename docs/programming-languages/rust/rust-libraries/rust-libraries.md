@@ -1729,6 +1729,7 @@
 - [audio-graph](https://github.com/m-hilgendorf/audio-graph) - Data structures and algorithms for audio graphs.
 - [rainout](https://github.com/RustyDAW/rainout) - Cross-platform audio and MIDI IO.
 - [munge](https://github.com/djkoloski/munge) - Makes it easy and safe to destructure raw pointers, MaybeUninits, Cells, and Pins.
+- [rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux).
 
 ## Cargo Plugins
 

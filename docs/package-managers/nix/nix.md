@@ -335,3 +335,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix Flakes: Exposing and using NixOS Modules (2022)](https://christine.website/blog/nix-flakes-3-2022-04-07)
 - [NixEL](https://github.com/kamadorueda/nixel) - Lexer, Parser, Abstract Syntax Tree and Concrete Syntax Tree for the Nix Expressions Language.
 - [Why nix is great as a build tool (2022)](https://news.ycombinator.com/item?id=30959774)
+- [Nix grammar for tree-sitter](https://github.com/cstrahan/tree-sitter-nix)

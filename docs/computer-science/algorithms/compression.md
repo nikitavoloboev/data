@@ -116,4 +116,4 @@
 - [How LCEVC works – A new approach to video compression](https://www.lcevc.org/how-lcevc-works/) ([HN](https://news.ycombinator.com/item?id=30905736))
 - [zstd-wasm](https://github.com/bokuweb/zstd-wasm) - Zstandard for browser, Node.js and Deno.
 - [Crash Course on Data Compression](https://github.com/jermp/data_compression_course)
-- [Silly Image Compression Idea (2022)](https://snufk.in/blog/silly-compression.html)
+- [Silly Image Compression Idea (2022)](https://snufk.in/blog/silly-compression.html) ([HN](https://news.ycombinator.com/item?id=30979085))

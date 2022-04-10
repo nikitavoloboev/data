@@ -449,6 +449,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [remote-ui](https://github.com/Shopify/remote-ui) - Allows you to create custom component APIs in JavaScript that can be used to render UI from a context other than the UI thread, like a web worker.
 - [martha](https://github.com/selfawarestudio/martha) - Tiny collection of convenient JavaScript utilities.
 - [tson](https://github.com/skarab42/tson) - Type Safe Object Notation & Validation.
+- [TypeStream](https://github.com/scopashq/typestream) - Next-generation data transformation framework for TypeScript that puts developer experience first.
 
 ## Links
 

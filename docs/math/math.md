@@ -350,3 +350,4 @@
 - [Savage Computer Algebra System](https://github.com/p-e-w/savage)
 - [The Open-Source Mathematics Degree](https://github.com/shanirivers/open-source-mathematics-degree)
 - [The best books for mathematics enthusiasts](https://shepherd.com/best-books/for-mathematics-enthusiasts)
+- [My Mathematics PhD research workflow: LaTeX notes and instant PDF referencing (2022)](https://castel.dev/post/research-workflow/) ([HN](https://news.ycombinator.com/item?id=30981592))

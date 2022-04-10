@@ -202,6 +202,7 @@ title: GitHub actions
 - [semantic-release/github](https://github.com/semantic-release/github) - Publish a GitHub release and comment on released Pull Requests/Issues.
 - [Auto Update](https://github.com/tibdex/auto-update) - Automatically keep pull requests with auto-merge enabled up to date with their base branch.
 - [GitHub Action Required Labels](https://github.com/mheap/github-action-required-labels) - Allows you to fail the build if/unless a certain combination of labels are applied to a pull request.
+- [Nested GitHub Runners Action](https://github.com/dougcalobrisi/nested-github-runners-action) - GitHub Action to run multiple self-hosted runners in a hosted GitHub Runner.
 
 ## Go
 
