@@ -2,9 +2,9 @@
 
 This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online wiki](https://wiki.nikiv.dev) built with [Docusaurus](https://docusaurus.io) on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
+If this is your first time visiting this wiki, take a look [here](https://wiki.nikiv.dev/meta/) as it describes this wiki, its structure and goals.
 
-Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md) & their relations visualized.
+Below are my notes & their relations visualized.
 
 ![](https://i.imgur.com/SbhfKGm.png)
 
@@ -29,17 +29,17 @@ You can access any note from this wiki super fast using [Alfred My Mind](https:/
 
 ## Other things I wrote and shared
 
-I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
+I share my knowledge in longer form by [writing articles](https://wiki.nikiv.dev/sharing/my-articles) and making [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
 
-I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
+I also love [writing code](https://wiki.nikiv.dev/sharing/my-github) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
 
-[Here](sharing/sharing.md) you can find all the things I made and shared thus far.
+[Here](https://wiki.nikiv.dev/sharing/) you can find all the things I made and shared thus far.
 
 ## Grow your own digital garden 🌱
 
 Such wikis are also called [digital gardens](https://joelhooks.com/digital-garden). There is a [DigitalGardens community on Reddit](https://www.reddit.com/r/DigitalGardens/) which discusses tools to maintain & create these wikis. As well as how to use them to develop [new transformative tools for thought](https://numinous.productions/ttft/).
 
-I collected a list of [wikis I liked the most](other/wiki-workflow.md#similar-wikis-i-liked) for inspiration.
+I collected a list of [wikis I liked the most](https://wiki.nikiv.dev/other/wiki-workflow#similar-wikis-i-liked) for inspiration.
 
 Don't be afraid to create one of your own and share what you know with the world.
 
