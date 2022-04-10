@@ -58,3 +58,4 @@
 - [protoc-gen-prost](https://github.com/neoeinstein/protoc-gen-prost) - protoc plugin that generates code using the Prost! code generation engine.
 - [pbkit](https://github.com/pbkit/pbkit) - Protobuf toolkit written in Deno/TypeScript. ([Web](https://pbkit.dev/)) ([HN](https://news.ycombinator.com/item?id=30903675))
 - [csproto](https://github.com/CrowdStrike/csproto) - CrowdStrike's Protocol Buffers library.
+- [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript.

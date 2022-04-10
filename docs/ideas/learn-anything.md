@@ -1,3 +1,7 @@
+---
+title: Learn Anything
+---
+
 # [Learn Anything](https://learn-anything.xyz)
 
 Learn Anything is currently the main project I am working on.
