@@ -1,3 +1,7 @@
+---
+title: Agda
+---
+
 # [Agda](https://github.com/agda/agda)
 
 ## Links

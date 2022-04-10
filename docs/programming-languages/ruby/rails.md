@@ -1,3 +1,7 @@
+---
+title: Rails
+---
+
 # [Rails](https://github.com/rails/rails)
 
 [Bullet Train Rails template](https://bullettrain.co/) seems nice.

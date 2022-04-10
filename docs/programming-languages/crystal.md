@@ -1,3 +1,7 @@
+---
+title: Crystal
+---
+
 # [Crystal](https://crystal-lang.org/)
 
 ## Links

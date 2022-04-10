@@ -1,3 +1,7 @@
+---
+title: ClickHouse
+---
+
 # [ClickHouse](https://clickhouse.com/)
 
 ## Links

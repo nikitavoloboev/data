@@ -1,3 +1,7 @@
+---
+title: Tezos
+---
+
 # [Tezos](https://tezos.com/)
 
 > Distributed consensus platform with meta-consensus capability

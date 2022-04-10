@@ -1,3 +1,7 @@
+---
+title: JavaScript for Automation
+---
+
 # [JavaScript for Automation](https://developer.apple.com/library/content/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)
 
 ## Code

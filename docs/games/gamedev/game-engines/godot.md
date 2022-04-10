@@ -1,3 +1,7 @@
+---
+title: Godot
+---
+
 # [Godot](https://godotengine.org/)
 
 [This Week in Godot](https://thisweekingodot.com/) is nice newsletter.

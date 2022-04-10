@@ -1,3 +1,7 @@
+---
+title: iOS Shortcuts
+---
+
 # [iOS Shortcuts](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios)
 
 ## Links

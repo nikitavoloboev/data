@@ -1,3 +1,7 @@
+---
+title: Quantum computing
+---
+
 # [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
 
 [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) is good intro.

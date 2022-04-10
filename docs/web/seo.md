@@ -1,3 +1,7 @@
+---
+title: Search Engine Optimization
+---
+
 # [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization)
 
 ## Notes

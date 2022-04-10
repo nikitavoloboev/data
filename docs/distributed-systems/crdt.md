@@ -1,3 +1,7 @@
+---
+title: Conflict-free replicated data type
+---
+
 # [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 
 [Liveblocks](https://github.com/liveblocks/liveblocks) is a neat application of CRDTs.

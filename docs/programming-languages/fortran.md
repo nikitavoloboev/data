@@ -1,3 +1,7 @@
+---
+title: Fortran
+---
+
 # [Fortran](https://fortran-lang.org/)
 
 ## Notes

@@ -1,3 +1,7 @@
+---
+title: Little Snitch
+---
+
 # [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 
 ## Links

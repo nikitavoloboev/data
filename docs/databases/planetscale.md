@@ -1,3 +1,7 @@
+---
+title: Planetscale
+---
+
 # [Planetscale](https://planetscale.com/)
 
 > MySQL-compatible serverless database platform

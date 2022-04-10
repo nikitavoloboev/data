@@ -1,3 +1,7 @@
+---
+title: Sublime Text
+---
+
 # [Sublime Text](https://www.sublimetext.com)
 
 Use this editor in addition to [VS Code](../vs-code/vs-code.md) and [Neovim](../vim/vim.md) for its blazing fast speed of opening files.

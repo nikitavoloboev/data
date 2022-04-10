@@ -1,3 +1,7 @@
+---
+title: Ethereum
+---
+
 # [Ethereum](https://www.ethereum.org)
 
 Ethereum is a virtual machine built using a blockchain (spread around many clients) that lets you create and run smart contracts (arbitrary code) that then run in perpetuity.

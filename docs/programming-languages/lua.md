@@ -1,3 +1,7 @@
+---
+title: Lua
+---
+
 # [Lua](https://www.lua.org)
 
 [Fennel](https://github.com/bakpakin/Fennel) is interesting.

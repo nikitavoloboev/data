@@ -1,3 +1,7 @@
+---
+title: 2Do
+---
+
 # [2Do](https://www.2doapp.com/)
 
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:

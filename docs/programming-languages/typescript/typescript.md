@@ -1,3 +1,7 @@
+---
+title: TypeScript
+---
+
 # [TypeScript](https://www.typescriptlang.org/)
 
 [TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros. [Execute Program](https://www.executeprogram.com/) & [Advanced TypeScript](https://www.mattpocock.com/) courses are amazing too.

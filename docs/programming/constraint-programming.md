@@ -1,3 +1,7 @@
+---
+title: Constraint programming
+---
+
 # [Constraint programming](https://en.wikipedia.org/wiki/Constraint_programming)
 
 ## Links

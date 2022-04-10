@@ -1,3 +1,7 @@
+---
+title: PureScript
+---
+
 # [PureScript](http://www.purescript.org/)
 
 ## Links

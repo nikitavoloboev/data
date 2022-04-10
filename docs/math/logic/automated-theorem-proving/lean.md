@@ -1,3 +1,7 @@
+---
+title: Lean
+---
+
 # [Lean](https://leanprover.github.io/)
 
 > Open source theorem prover and programming language being developed at Microsoft Research.

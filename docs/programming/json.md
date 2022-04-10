@@ -1,3 +1,7 @@
+---
+title: JSON
+---
+
 # [JSON](https://www.json.org)
 
 ## Notes
@@ -54,7 +58,7 @@
 - [JSON-LD Schema](https://github.com/mulesoft-labs/json-ld-schema) - Simple schema validation for linked data.
 - [Build a JSON Schema with functions](https://github.com/wittydeveloper/functional-json-schema)
 - [cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C. ([HN](https://news.ycombinator.com/item?id=30302933))
-- [JSONLint](https://jsonlint.com/) - JSON Validator.
+- [JSONLint](https://jsonlint.com/) - JSON Validator. ([Code](https://github.com/circlecell/jsonlint.com)) ([CLI](https://github.com/zaach/jsonlint))
 - [JSON With Commas and Comments (2021)](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) ([HN](https://news.ycombinator.com/item?id=26224255))
 - [HuJSON](https://github.com/tailscale/hujson) - JSON for Humans (comments and trailing commas).
 - [An Exploration of JSON Interoperability Vulnerabilities (2021)](https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities)

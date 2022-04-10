@@ -1,3 +1,7 @@
+---
+title: Rust
+---
+
 # [Rust](https://www.rust-lang.org/en-US/)
 
 [Rust Book](https://doc.rust-lang.org/book/) & [Rust in Action](https://www.manning.com/books/rust-in-action) are great. [Rust for JS Devs](https://rustforjs.dev) & [Zero To Prod](https://www.zero2prod.com/index.html) are nice too. You can also use [this brief starter guide](https://github.com/jondot/rust-how-do-i-start).
@@ -760,3 +764,4 @@
 - [Instant::now() what? (2022)](https://blog.iximeow.net/now_what.html)
 - [A Practical Analysis of Rust's Concurrency Story (2019)](https://arxiv.org/abs/1904.12210)
 - [Hands-On Microservices with Rust Book (2019)](https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758) ([Code](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust))
+- [What Is Rust's unsafe? (2019)](https://nora.codes/post/what-is-rusts-unsafe/) ([HN](https://news.ycombinator.com/item?id=30979484))

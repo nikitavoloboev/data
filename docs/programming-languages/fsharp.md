@@ -1,3 +1,7 @@
+---
+title: F#
+---
+
 # [F#](https://github.com/dotnet/fsharp)
 
 ## Links

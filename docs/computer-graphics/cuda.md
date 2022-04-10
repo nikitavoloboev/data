@@ -1,3 +1,7 @@
+---
+title: CUDA
+---
+
 # [CUDA](https://developer.nvidia.com/cuda-zone)
 
 ## Links

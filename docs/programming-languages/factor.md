@@ -1,3 +1,7 @@
+---
+title: Factor
+---
+
 # [Factor](https://factorcode.org/)
 
 ## Links

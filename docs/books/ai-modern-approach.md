@@ -1,3 +1,7 @@
+---
+title: Artificial Intelligence - A Modern Approach
+---
+
 # [Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence)
 
 - A rational agent is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome.

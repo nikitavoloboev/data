@@ -1,3 +1,7 @@
+---
+title: Brew
+---
+
 # [Brew](https://brew.sh/)
 
 ## Notes

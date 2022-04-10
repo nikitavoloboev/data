@@ -1,3 +1,7 @@
+---
+title: Obsidian
+---
+
 # [Obsidian](https://obsidian.md/)
 
 ## Plugins
@@ -103,6 +107,10 @@
 - [Pluck](https://github.com/kevboh/obsidian-pluck) - Quickly create notes in Obsidian from web pages.
 - [Sekund](https://www.sekund.io/) - SaaS and an Obsidian plugin that let you share your notes and collaborate with others without leaving your beloved thinking environment. ([Code](https://github.com/Sekund/sekund-plugin-react))
 - [Image Toolkit](https://github.com/sissilab/obsidian-image-toolkit) - Obsidian plugin for viewing an image.
+- [Omnisearch for Obsidian](https://github.com/scambier/obsidian-omnisearch) - Fast, unobtrusive, and "intelligent" search interface for Obsidian.
+- [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) - Add improved navigation, formatting, and manipulation to markdown tables in Obsidian.
+- [Recent Files](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files.
+- [Ledger](https://github.com/tgrosinger/ledger-obsidian) - Personal finance tracking and planning, from the comfort of Obsidian.
 
 ## Themes
 

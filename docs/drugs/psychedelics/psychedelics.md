@@ -1,3 +1,7 @@
+---
+title: Psychedelics
+---
+
 # [Psychedelics](https://psychonautwiki.org/w/index.php?title=Psychedelic)
 
 Exploring my mind has always been one of the most interesting things in life for me.

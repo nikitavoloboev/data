@@ -1,3 +1,7 @@
+---
+title: Program synthesis
+---
+
 # [Program synthesis](https://en.wikipedia.org/wiki/Program_synthesis)
 
 ## Links

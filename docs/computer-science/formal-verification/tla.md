@@ -1,3 +1,7 @@
+---
+title: TLA+
+---
+
 # [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 
 ## Notes

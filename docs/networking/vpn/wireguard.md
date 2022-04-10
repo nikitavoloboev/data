@@ -1,3 +1,7 @@
+---
+title: WireGuard
+---
+
 # [WireGuard](https://openwrt.org/docs/guide-user/services/vpn/wireguard)
 
 ## Links

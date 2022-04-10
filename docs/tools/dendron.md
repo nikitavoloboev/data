@@ -1,3 +1,7 @@
+---
+title: Dendron
+---
+
 # [Dendron](https://dendron.so/)
 
 > Open-source, local-first, markdown-based, note-taking tool built on top of VSCode.

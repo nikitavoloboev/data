@@ -1,3 +1,7 @@
+---
+title: Go
+---
+
 # [Go](https://golang.org)
 
 Go is currently my favorite programming language.
@@ -756,3 +760,4 @@ if err != nil {
 - [Where can I learn about pointer & goroutines in depth? (2022)](https://www.reddit.com/r/golang/comments/tveev1/where_can_i_learn_about_pointer_goroutines_in/)
 - [Best Go books for 2022](https://bitfieldconsulting.com/golang/best-books)
 - [A Deep Dive Into Go Concurrency (2022)](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)
+- [Breaking the Monolith at Twitch: Part One (2022)](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/) ([Reddit](https://www.reddit.com/r/golang/comments/u0ipym/breaking_the_monolith_at_twitch_part_one/))

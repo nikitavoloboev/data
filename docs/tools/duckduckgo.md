@@ -1,3 +1,7 @@
+---
+title: DuckDuckGo
+---
+
 # [DuckDuckGo](https://duckduckgo.com)
 
 Pretty amazing search engine that respects user's privacy.

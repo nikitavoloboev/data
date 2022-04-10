@@ -1,3 +1,7 @@
+---
+title: EdgeDB
+---
+
 # [EdgeDB](https://www.edgedb.com/)
 
 ## Links

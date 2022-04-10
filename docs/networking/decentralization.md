@@ -1,3 +1,7 @@
+---
+title: Decentralization
+---
+
 # [Decentralization](http://en.wikipedia.org/wiki/Decentralization)
 
 ## Notes

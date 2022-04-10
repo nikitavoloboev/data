@@ -1,3 +1,7 @@
+---
+title: Ember.js
+---
+
 # [Ember.js](https://emberjs.com/)
 
 ## Links

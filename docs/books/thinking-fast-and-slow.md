@@ -1,3 +1,7 @@
+---
+title: Thinking, fast and slow
+---
+
 # [Thinking, fast and slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
 ## Introduction

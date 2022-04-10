@@ -1,3 +1,7 @@
+---
+title: Spatial analysis
+---
+
 # [Spatial analysis](https://en.wikipedia.org/wiki/Spatial_analysis)
 
 [This article](https://ciechanow.ski/gps/) on GPS is fascinating.

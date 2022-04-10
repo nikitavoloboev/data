@@ -151,3 +151,4 @@
 - [OTP Course](https://grox.io/language/otp/course) - OTP is the heart and soul of Elixir’s concurrency and reliability.
 - [Designing Elixir Systems with OTP Book (2019)](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
 - [Decode the Coding Interview in Elixir: Real-World Examples](https://www.educative.io/courses/decode-the-coding-interview-elixir)
+- [Shooting Yourself in the Foot with GenServers (2021)](https://tylerayoung.com/2021/12/02/shooting-yourself-in-the-foot-with-genservers/)

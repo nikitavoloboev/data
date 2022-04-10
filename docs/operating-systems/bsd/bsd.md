@@ -1,3 +1,7 @@
+---
+title: BSD
+---
+
 # [BSD](http://en.wikipedia.org/wiki/Berkeley_Software_Distribution)
 
 [FreeBSD](https://www.freebsd.org/) and [OpenBSD](https://www.openbsd.org) are interesting.

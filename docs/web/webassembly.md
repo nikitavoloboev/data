@@ -1,3 +1,7 @@
+---
+title: WebAssembly
+---
+
 # [WebAssembly](https://webassembly.org/)
 
 [Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library. [WebAssembly Weekly](https://wasmweekly.news/) is good newsletter to stay up to date on WASM.

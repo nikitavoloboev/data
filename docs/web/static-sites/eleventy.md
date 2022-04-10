@@ -1,3 +1,7 @@
+---
+title: Eleventy
+---
+
 # [Eleventy](https://www.11ty.dev/)
 
 ## Templates

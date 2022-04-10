@@ -1,3 +1,7 @@
+---
+title: Blender
+---
+
 # [Blender](https://www.blender.org)
 
 > Free and open source 3D creation suite.

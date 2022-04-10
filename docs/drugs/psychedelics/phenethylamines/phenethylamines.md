@@ -1,3 +1,7 @@
+---
+title: Phenethylamines
+---
+
 # [Phenethylamines](https://psychonautwiki.org/w/index.php?title=Phenethylamine)
 
 ## Interesting

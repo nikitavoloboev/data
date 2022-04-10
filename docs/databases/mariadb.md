@@ -1,3 +1,7 @@
+---
+title: MariaDB
+---
+
 # [MariaDB](https://mariadb.com/)
 
 ## Links

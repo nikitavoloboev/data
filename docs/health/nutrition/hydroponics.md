@@ -1,3 +1,7 @@
+---
+title: Hydroponics
+---
+
 # [Hydroponics](https://en.wikipedia.org/wiki/Hydroponics)
 
 ## Links

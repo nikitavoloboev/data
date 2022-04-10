@@ -1,3 +1,7 @@
+---
+title: Matrix
+---
+
 # [Matrix](https://matrix.org)
 
 Matrix is kind of like a federated IRC system and [Element](https://element.io) is a web and mobile interface to the Matrix system.

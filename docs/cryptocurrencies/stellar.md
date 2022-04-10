@@ -1,3 +1,7 @@
+---
+title: Stellar
+---
+
 # [Stellar](https://www.stellar.org)
 
 ## Links

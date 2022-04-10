@@ -1,3 +1,7 @@
+---
+title: Raycast
+---
+
 # [Raycast](https://www.raycast.com/)
 
 ## Extensions

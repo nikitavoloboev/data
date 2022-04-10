@@ -1,3 +1,7 @@
+---
+title: Research chemicals
+---
+
 # [Research chemicals](https://psychonautwiki.org/w/index.php?title=Research_chemicals)
 
 ## Interesting

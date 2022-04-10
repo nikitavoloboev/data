@@ -232,3 +232,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [MailCatcher](https://mailcatcher.me/) - Runs a super simple SMTP server which catches any message sent to it to display in a web interface. ([Code](https://github.com/sj26/mailcatcher))
 - [gmail-yaml-filters](https://github.com/mesozoic/gmail-yaml-filters) - Quick tool for generating Gmail filters from YAML rules.
 - [MailAuth](https://github.com/postalsys/mailauth) - Command line utility and a Node.js library for email authentication.
+- [An Ode to Apple’s Hide My Email (2022)](https://empty.coffee/an-ode-to-apples-hide-my-email/) ([HN](https://news.ycombinator.com/item?id=30979563))

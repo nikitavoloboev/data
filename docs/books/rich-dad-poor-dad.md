@@ -1,3 +1,7 @@
+---
+title: Rich dad poor dad
+---
+
 # [Rich dad poor dad](http://goodreads.com/book/show/69571)
 
 - The author basically implies you need to let your money work for you.

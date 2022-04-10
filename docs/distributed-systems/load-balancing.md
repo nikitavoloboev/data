@@ -1,3 +1,7 @@
+---
+title: Load balancing
+---
+
 # [Load balancing](<https://en.wikipedia.org/wiki/Load_balancing_(computing)>)
 
 ## Links

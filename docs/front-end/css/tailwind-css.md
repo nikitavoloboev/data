@@ -1,3 +1,7 @@
+---
+title: Tailwind CSS
+---
+
 # [Tailwind CSS](https://tailwindcss.com/)
 
 [Tailwind UI](https://tailwindui.com/), [Meraki UI](https://merakiui.com/components/) & [TailwindCSS Radix](https://tailwindcss-radix.vercel.app/) have nice components.

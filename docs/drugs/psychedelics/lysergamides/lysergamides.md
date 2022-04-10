@@ -1,3 +1,7 @@
+---
+title: Lysergamides
+---
+
 # [Lysergamides](https://psychonautwiki.org/wiki/Lysergamide)
 
 ## Interesting

@@ -1,3 +1,7 @@
+---
+title: Speech recognition
+---
+
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
 ## Notes

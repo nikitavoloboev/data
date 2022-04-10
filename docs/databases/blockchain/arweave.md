@@ -1,3 +1,7 @@
+---
+title: Arweave
+---
+
 # [Arweave](https://www.arweave.org/)
 
 > Novel data storage blockchain protocol enabling a permanent serverless web and creating truly permanent data storage for the first time.

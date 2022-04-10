@@ -1,3 +1,7 @@
+---
+title: Minecraft
+---
+
 # [Minecraft](https://www.minecraft.net/en-us/)
 
 ## Notes

@@ -1,3 +1,7 @@
+---
+title: Fourier transform
+---
+
 # [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform)
 
 ## Links

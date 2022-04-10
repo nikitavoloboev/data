@@ -1,3 +1,7 @@
+---
+title: Hasura
+---
+
 # [Hasura](https://hasura.io)
 
 ## Links

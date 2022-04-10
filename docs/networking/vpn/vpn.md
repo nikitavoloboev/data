@@ -1,3 +1,7 @@
+---
+title: VPN
+---
+
 # [VPN](http://en.wikipedia.org/wiki/Virtual_private_network)
 
 [WireGuard](wireguard.md) & [Tailscale](https://tailscale.com/) are great although not strictly a VPN. I personally use [Mullvad](https://mullvad.net/en/) for whenever I need a VPN.

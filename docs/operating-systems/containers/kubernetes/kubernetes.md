@@ -1,3 +1,7 @@
+---
+title: Kubernetes
+---
+
 # [Kubernetes](https://kubernetes.io/)
 
 [Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s.

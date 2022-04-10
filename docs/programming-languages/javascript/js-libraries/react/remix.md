@@ -1,3 +1,7 @@
+---
+title: Remix
+---
+
 # [Remix](https://remix.run/)
 
 > Framework for building better websites using modern web standards and best practices

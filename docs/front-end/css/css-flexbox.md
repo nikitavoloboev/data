@@ -1,3 +1,7 @@
+---
+title: CSS Flexbox
+---
+
 # [CSS Flexbox](https://www.google.com/search?q=flexbox&hl=en&safe=off)
 
 [Flexbox Froggy](https://flexboxfroggy.com/) is great.

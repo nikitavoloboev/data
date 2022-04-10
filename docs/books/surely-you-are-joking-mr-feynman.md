@@ -1,3 +1,7 @@
+---
+title: Surely you are joking Mr Feynman
+---
+
 # [Surely you are joking Mr Feynman](http://goodreads.com/book/show/5544)
 
 ## Part 1 - From far rockaway to MIT

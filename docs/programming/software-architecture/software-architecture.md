@@ -1,3 +1,7 @@
+---
+title: Software architecture
+---
+
 # [Software architecture](https://en.wikipedia.org/wiki/Software_architecture)
 
 I love the idea of [building truly offline first software where backend failing isn't a big deal. All operations are done locally (fast), then sync deltas to server](https://twitter.com/_vojto/status/1466540419404247043). Like [Replicache](https://replicache.dev/). Good example of such app is [Linear](https://linear.app/).

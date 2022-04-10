@@ -1,3 +1,7 @@
+---
+title: Blockchain
+---
+
 # [Blockchain](http://en.wikipedia.org/wiki/Blockchain)
 
 Blockchain is an [immutable linked list of hashes that uses some consensus system like proof of stake (or other methods) to decide which blocks (transactions or runnable code) are added next](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).

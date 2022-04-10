@@ -1,3 +1,7 @@
+---
+title: XState
+---
+
 # [XState](https://xstate.js.org/)
 
 I [model state machines by first listing events (press/do something), tasks (side effects, split by services (long running and you care about them ending) and actions (sync, take no time at all)) together with lifecycle (when it's active)](https://www.youtube.com/watch?v=wykDyFwr8Lk). Services can spawn events.

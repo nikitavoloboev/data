@@ -1,3 +1,7 @@
+---
+title: V
+---
+
 # [V](https://github.com/vlang/v)
 
 ## Links

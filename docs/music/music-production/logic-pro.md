@@ -1,3 +1,7 @@
+---
+title: Logic Pro
+---
+
 # [Logic Pro](https://www.apple.com/logic-pro/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Racket
+---
+
 # [Racket](https://racket-lang.org/)
 
 [Racket News](https://racket-news.com/) is great way to stay up to date on Racket.

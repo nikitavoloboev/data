@@ -1,3 +1,7 @@
+---
+title: GPU
+---
+
 # [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 
 ## Links

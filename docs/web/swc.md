@@ -1,3 +1,7 @@
+---
+title: swc
+---
+
 # [swc](https://github.com/swc-project/swc)
 
 > Super-fast TS/JS compiler written in rust

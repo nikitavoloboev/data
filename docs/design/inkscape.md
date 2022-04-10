@@ -1,3 +1,7 @@
+---
+title: Inkscape
+---
+
 # [Inkscape](https://inkscape.org/)
 
 ## Links

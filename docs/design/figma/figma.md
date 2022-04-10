@@ -1,3 +1,7 @@
+---
+title: Figma
+---
+
 # [Figma](https://www.figma.com)
 
 ## Kits

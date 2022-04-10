@@ -1,3 +1,7 @@
+---
+title: RISC-V
+---
+
 # [RISC-V](https://en.wikipedia.org/wiki/RISC-V)
 
 ## Links

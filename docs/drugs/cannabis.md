@@ -1,3 +1,7 @@
+---
+title: Cannabis
+---
+
 # [Cannabis](https://psychonautwiki.org/wiki/Cannabis)
 
 ## Notes

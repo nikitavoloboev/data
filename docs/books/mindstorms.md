@@ -1,3 +1,7 @@
+---
+title: Mindstorms
+---
+
 # [Mindstorms](http://goodreads.com/book/show/703532)
 
 ## Foreword

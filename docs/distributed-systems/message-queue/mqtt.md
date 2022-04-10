@@ -1,3 +1,7 @@
+---
+title: MQTT
+---
+
 # [MQTT](http://mqtt.org/)
 
 > Transport layer protocol between embedded devices and services.

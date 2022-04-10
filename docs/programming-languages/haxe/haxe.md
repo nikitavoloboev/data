@@ -1,3 +1,7 @@
+---
+title: Haxe
+---
+
 # [Haxe](https://haxe.org/)
 
 ## Links

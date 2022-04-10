@@ -1,3 +1,7 @@
+---
+title: JAMstack
+---
+
 # [JAMstack](https://jamstack.org/)
 
 ## Links

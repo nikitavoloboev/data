@@ -1,3 +1,7 @@
+---
+title: Babashka
+---
+
 # [Babashka](https://github.com/babashka/babashka)
 
 ## Links

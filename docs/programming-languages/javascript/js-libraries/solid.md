@@ -1,3 +1,7 @@
+---
+title: SolidJS
+---
+
 # [SolidJS](https://www.solidjs.com/)
 
 > Simple and performant reactivity for building user interfaces

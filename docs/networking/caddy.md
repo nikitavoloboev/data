@@ -1,3 +1,7 @@
+---
+title: Caddy
+---
+
 # [Caddy](https://caddyserver.com/)
 
 > Production-ready open-source web server that is fast, easy to use, and makes you more productive.

@@ -1,3 +1,7 @@
+---
+title: Qt
+---
+
 # [Qt](https://www.qt.io/)
 
 ## Qt OSS apps

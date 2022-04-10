@@ -1,3 +1,7 @@
+---
+title: Type Theory
+---
+
 # [Type Theory](http://en.wikipedia.org/wiki/Type_theory)
 
 ## Notes

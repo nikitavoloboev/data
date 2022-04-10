@@ -1,3 +1,7 @@
+---
+title: Apollo GraphQL
+---
+
 # [Apollo GraphQL](https://www.apollographql.com/)
 
 ## Links

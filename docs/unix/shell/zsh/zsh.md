@@ -1,3 +1,7 @@
+---
+title: Zsh
+---
+
 # [Zsh](http://en.wikipedia.org/wiki/Z_shell)
 
 My shell of choice. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/tree/master/zsh).

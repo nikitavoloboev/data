@@ -1,3 +1,7 @@
+---
+title: Temporal
+---
+
 # [Temporal](https://temporal.io/)
 
 > Open source microservice orchestration platform for writing durable workflows as code

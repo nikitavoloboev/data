@@ -1,3 +1,7 @@
+---
+title: Alan Watts
+---
+
 # [Alan Watts](http://www.alanwatts.com)
 
 Alan Watts is one of my favorite people I wish I knew. Fortunately he wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts) and did [many talks](https://www.youtube.com/results?search_query=alan+watts).

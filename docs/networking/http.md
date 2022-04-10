@@ -1,3 +1,7 @@
+---
+title: HTTP
+---
+
 # [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
 [Caddy](https://caddyserver.com/) is great.

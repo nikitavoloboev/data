@@ -1,3 +1,7 @@
+---
+title: Observability
+---
+
 # [Observability](https://en.wikipedia.org/wiki/Observability)
 
 ## Links

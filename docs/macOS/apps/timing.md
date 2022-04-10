@@ -1,3 +1,7 @@
+---
+title: Timing
+---
+
 # [Timing](https://timingapp.com/?lang=en)
 
 I once used Timing app to fully automate tracking time I spend on my computer.

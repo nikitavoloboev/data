@@ -1,3 +1,7 @@
+---
+title: Crafting interpreters
+---
+
 # [Crafting interpreters](https://craftinginterpreters.com)
 
 ## Chapter 1

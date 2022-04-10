@@ -1,3 +1,7 @@
+---
+title: Logseq
+---
+
 # [Logseq](https://logseq.com/)
 
 > Privacy-first, open-source knowledge base.

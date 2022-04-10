@@ -1,3 +1,7 @@
+---
+title: Queueing theory
+---
+
 # [Queueing theory](https://en.wikipedia.org/wiki/Queueing_theory)
 
 ## Links

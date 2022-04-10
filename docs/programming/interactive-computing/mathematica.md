@@ -1,3 +1,7 @@
+---
+title: Wolfram Mathematica
+---
+
 # [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
 ## Links

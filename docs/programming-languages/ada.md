@@ -1,3 +1,7 @@
+---
+title: Ada
+---
+
 # [Ada](https://www.adacore.com/about-ada)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Opiates
+---
+
 # [Opiates](https://psychonautwiki.org/w/index.php?title=Opioid)
 
 Best to not ever take opiates if you can avoid it.

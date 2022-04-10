@@ -1,3 +1,7 @@
+---
+title: Assembly
+---
+
 # [Assembly](http://en.wikipedia.org/wiki/Assembly_language)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Self
+---
+
 # [Self](https://selflanguage.org/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Tryptamines
+---
+
 # [Tryptamines](https://psychonautwiki.org/w/index.php?title=Tryptamine)
 
 This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/05/psychedelic-tryptamine-chemistry/) is a great read.

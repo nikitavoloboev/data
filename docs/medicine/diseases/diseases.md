@@ -1,3 +1,7 @@
+---
+title: Diseases
+---
+
 # [Diseases](https://en.wikipedia.org/wiki/Disease)
 
 ## Interesting diseases

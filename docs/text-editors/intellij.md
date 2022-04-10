@@ -1,3 +1,7 @@
+---
+title: IntelliJ IDEA
+---
+
 # [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 Don't use it any more as I don't write Java/Kotlin and love VS Code.

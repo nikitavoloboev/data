@@ -1,3 +1,7 @@
+---
+title: Slack
+---
+
 # [Slack](https://slack.com)
 
 Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack apps.

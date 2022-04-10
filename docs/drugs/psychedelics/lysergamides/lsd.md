@@ -1,3 +1,7 @@
+---
+title: LSD
+---
+
 # [LSD](https://psychonautwiki.org/w/index.php?title=LSD)
 
 ## Notes

@@ -21,7 +21,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [sqltyper](https://github.com/akheron/sqltyper) - TypeScript types for raw PostgreSQL queries.
 - [Owl](https://github.com/quirrel-dev/owl) - High-performance, redis-backed job queueing library originally built for Quirrel.
 - [Cuery](https://github.com/Schniz/cuery) - Composable SQL query builder using template literals.
-- [pg-to-ts](https://github.com/danvk/pg-to-ts) - Generate TypeScript interface definitions from your Postgres schema.
+- [pg-to-ts](https://github.com/danvk/pg-to-ts) - Generate TypeScript interface definitions from your Postgres schema. ([Example App](https://github.com/danvk/crudely-typed))
 - [gokv](https://github.com/esm-dev/gokv) - Global Key-Value store for serverless at edge that is built on top of Cloudflare edge network. Druable, low-latency, and easy to use.
 - [postgres-schema-ts](https://github.com/nettofarah/postgres-schema-ts) - Convert Postgres schemas into TypeScript interfaces.
 - [lru-ttl-cache](https://github.com/rafikalid/lru-ttl-cache) - Super fast Optimized in memory LRU and TTL cache. Can store permanent entries too.

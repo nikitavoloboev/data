@@ -1,3 +1,7 @@
+---
+title: Fuzzing
+---
+
 # [Fuzzing](https://owasp.org/www-community/Fuzzing)
 
 ## Links

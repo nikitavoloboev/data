@@ -1,3 +1,7 @@
+---
+title: Elasticsearch
+---
+
 # [Elasticsearch](https://www.elastic.co/)
 
 ## Links

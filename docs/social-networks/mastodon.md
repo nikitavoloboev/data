@@ -1,3 +1,7 @@
+---
+title: Mastodon
+---
+
 # [Mastodon](https://joinmastodon.org/)
 
 ## Interesting communities

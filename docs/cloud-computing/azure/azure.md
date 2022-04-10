@@ -1,3 +1,7 @@
+---
+title: Azure
+---
+
 # [Azure](https://azure.microsoft.com/en-us/)
 
 ## Links

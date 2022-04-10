@@ -1,3 +1,7 @@
+---
+title: SQL
+---
+
 # [SQL](http://en.wikipedia.org/wiki/SQL)
 
 [dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips.

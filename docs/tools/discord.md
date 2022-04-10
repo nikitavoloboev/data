@@ -1,3 +1,7 @@
+---
+title: Discord
+---
+
 # [Discord](https://discord.com)
 
 [Harmony](https://github.com/harmonyland/harmony) is nice bot library.

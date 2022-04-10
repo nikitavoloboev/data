@@ -1,3 +1,7 @@
+---
+title: Probabilistic programming
+---
+
 # [Probabilistic programming](http://www.probabilistic-programming.org/wiki/Home)
 
 ## Link

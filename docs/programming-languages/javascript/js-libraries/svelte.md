@@ -1,3 +1,7 @@
+---
+title: Svelte
+---
+
 # [Svelte](https://svelte.dev/)
 
 ## Example sites

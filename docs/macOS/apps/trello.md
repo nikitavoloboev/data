@@ -1,3 +1,7 @@
+---
+title: Trello
+---
+
 # [Trello](https://trello.com)
 
 I once used it to manage projects before Notion came along.

@@ -1,3 +1,7 @@
+---
+title: QUIC
+---
+
 # [QUIC](https://quicwg.org/)
 
 ## Links

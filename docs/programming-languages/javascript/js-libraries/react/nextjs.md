@@ -1,3 +1,7 @@
+---
+title: Next.js
+---
+
 # [Next.js](https://github.com/vercel/next.js)
 
 ## Example sites

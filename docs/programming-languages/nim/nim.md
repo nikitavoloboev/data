@@ -1,3 +1,7 @@
+---
+title: Nim
+---
+
 # [Nim](https://nim-lang.org/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: VS Code
+---
+
 # [VS Code](https://github.com/Microsoft/vscode)
 
 My favorite editor that I use to write code in. I use [many extensions](vs-code-extensions.md) for it.

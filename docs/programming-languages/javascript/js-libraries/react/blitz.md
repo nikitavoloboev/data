@@ -1,3 +1,7 @@
+---
+title: Blitz.js
+---
+
 # [Blitz.js](https://blitzjs.com/)
 
 > Built on Next.js — Inspired by Ruby on Rails — New Fullstack Data Layer

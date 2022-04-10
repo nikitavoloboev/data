@@ -1,3 +1,7 @@
+---
+title: ZNC
+---
+
 # [ZNC](https://wiki.znc.in/ZNC)
 
 ## Interesting Modules

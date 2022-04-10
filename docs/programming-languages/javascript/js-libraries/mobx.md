@@ -1,3 +1,7 @@
+---
+title: MobX
+---
+
 # [MobX](https://github.com/mobxjs/mobx)
 
 ## Notes

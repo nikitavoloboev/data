@@ -1,3 +1,7 @@
+---
+title: Message queue
+---
+
 # [Message queue](https://en.wikipedia.org/wiki/Message_queue)
 
 ## Links

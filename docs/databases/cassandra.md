@@ -1,3 +1,7 @@
+---
+title: Cassandra DB
+---
+
 # [Cassandra DB](http://cassandra.apache.org/)
 
 > Highly-scalable partitioned row store. Rows are organized into tables with a required primary key

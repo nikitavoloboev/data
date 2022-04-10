@@ -1,3 +1,7 @@
+---
+title: Futhark
+---
+
 # [Futhark](https://futhark-lang.org/#)
 
 ## Links

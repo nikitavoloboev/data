@@ -1,3 +1,7 @@
+---
+title: Field-programmable gate array
+---
+
 # [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
 
 ## Links

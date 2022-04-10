@@ -1,3 +1,7 @@
+---
+title: IPFS
+---
+
 # [IPFS](https://ipfs.io)
 
 Is [interesting](https://blog.neocities.org/blog/2015/09/08/its-time-for-the-distributed-web.html).

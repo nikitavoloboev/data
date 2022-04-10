@@ -1,3 +1,7 @@
+---
+title: Language Server Protocol
+---
+
 # [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Links

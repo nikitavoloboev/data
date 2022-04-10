@@ -1,3 +1,7 @@
+---
+title: Clojure
+---
+
 # [Clojure](https://clojure.org)
 
 [Try Clojure](https://tryclojure.org/) is nice.

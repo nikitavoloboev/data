@@ -1,3 +1,7 @@
+---
+title: Combine Framework
+---
+
 # [Combine Framework](https://developer.apple.com/documentation/combine)
 
 ## OSS Combine apps

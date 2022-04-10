@@ -1,3 +1,7 @@
+---
+title: Textual
+---
+
 # [Textual](https://www.codeux.com/textual/)
 
 I like IRC even though Discord is a strictly superior experience. I currently use Matrix and [Element](https://element.io) client to connect to IRC Freenode channels I care about.

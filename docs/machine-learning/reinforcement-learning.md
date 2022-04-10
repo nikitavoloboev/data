@@ -1,3 +1,7 @@
+---
+title: Reinforcement learning
+---
+
 # [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
 [Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl) & [Ray](https://github.com/ray-project/ray) seem nice.
@@ -339,3 +343,4 @@
 - [AI-Optimizer](https://github.com/TJU-DRL-LAB/AI-Optimizer) - Next generation deep reinforcement learning tookit.
 - [SuperSonic](https://github.com/HuantWang/SUPERSONIC) - Automating reinforcement learning architecture design for code optimization.
 - [panda-gym](https://github.com/qgallouedec/panda-gym) - OpenAI/gym robotic environments based on PyBullet physics engine.
+- [Huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms.

@@ -1,3 +1,7 @@
+---
+title: Dependent types
+---
+
 # [Dependent types](https://wiki.haskell.org/Dependent_type)
 
 ## Links

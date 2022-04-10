@@ -1,3 +1,7 @@
+---
+title: Standard ML
+---
+
 # [Standard ML](https://en.wikipedia.org/wiki/Standard_ML)
 
 [CakeML](https://cakeml.org/) is neat.

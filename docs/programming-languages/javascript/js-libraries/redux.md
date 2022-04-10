@@ -1,3 +1,7 @@
+---
+title: Redux
+---
+
 # [Redux](https://redux.js.org)
 
 The Gist of Redux is a follows:

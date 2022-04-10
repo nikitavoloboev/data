@@ -1,3 +1,7 @@
+---
+title: Cosmos
+---
+
 # [Cosmos](https://cosmos.network/)
 
 ## Links

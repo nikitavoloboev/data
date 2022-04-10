@@ -1,3 +1,7 @@
+---
+title: Neo4j
+---
+
 # [Neo4j](https://neo4j.com/)
 
 ## Links

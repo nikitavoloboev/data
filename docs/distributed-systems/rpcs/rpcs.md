@@ -1,3 +1,7 @@
+---
+title: Remote Procedure Calls
+---
+
 # [Remote Procedure Calls](https://en.wikipedia.org/wiki/Remote_procedure_call)
 
 ## Links

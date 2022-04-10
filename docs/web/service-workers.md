@@ -1,3 +1,7 @@
+---
+title: Service workers
+---
+
 # [Service workers](https://developers.google.com/web/fundamentals/primers/service-workers)
 
 ## Links

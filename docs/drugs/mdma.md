@@ -1,3 +1,7 @@
+---
+title: MDMA
+---
+
 # [MDMA](https://psychonautwiki.org/wiki/MDMA)
 
 ## Notes

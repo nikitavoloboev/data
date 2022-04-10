@@ -1,3 +1,7 @@
+---
+title: Automatic differentiation
+---
+
 # [Automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
 
 ## Links

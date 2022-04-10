@@ -1,3 +1,7 @@
+---
+title: Astro
+---
+
 # [Astro](https://astro.build/)
 
 ## OSS Astro sites

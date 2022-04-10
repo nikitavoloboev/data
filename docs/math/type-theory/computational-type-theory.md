@@ -1,3 +1,7 @@
+---
+title: Computational type theory
+---
+
 # [Computational type theory](http://www.scholarpedia.org/article/Computational_type_theory)
 
 ## Links

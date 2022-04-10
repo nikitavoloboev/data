@@ -1,3 +1,7 @@
+---
+title: RxJS
+---
+
 # [RxJS](https://github.com/ReactiveX/rxjs)
 
 ## Links

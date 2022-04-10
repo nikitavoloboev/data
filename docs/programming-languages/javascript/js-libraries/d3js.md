@@ -1,3 +1,7 @@
+---
+title: Data-Driven Documents
+---
+
 # [Data-Driven Documents](https://d3js.org/)
 
 ## Links

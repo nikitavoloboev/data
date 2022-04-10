@@ -1,3 +1,7 @@
+---
+title: Ink
+---
+
 # [Ink](https://github.com/thesephist/ink)
 
 ## Links

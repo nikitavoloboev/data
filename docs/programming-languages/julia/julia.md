@@ -1,3 +1,7 @@
+---
+title: Julia
+---
+
 # [Julia](https://julialang.org/)
 
 ## Links

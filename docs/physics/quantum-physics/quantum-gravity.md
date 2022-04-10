@@ -1,3 +1,7 @@
+---
+title: Quantum gravity
+---
+
 # [Quantum gravity](https://en.wikipedia.org/wiki/Quantum_gravity)
 
 ## Links

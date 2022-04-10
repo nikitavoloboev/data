@@ -1,3 +1,7 @@
+---
+title: Hazel
+---
+
 # [Hazel](https://www.noodlesoft.com)
 
 I once used Hazel to sort things in `~/Downloads` folder.

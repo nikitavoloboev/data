@@ -1,3 +1,7 @@
+---
+title: SQLite
+---
+
 # [SQLite](https://www.sqlite.org/index.html)
 
 [Litestream](https://github.com/benbjohnson/litestream) & [Postlite](https://github.com/benbjohnson/postlite) are neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite. [SQLite](https://github.com/stainless-steel/sqlite), [Rusqlite](https://github.com/rusqlite/rusqlite), [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) are great SQLite libs for Rust. [sqlc](https://github.com/kyleconroy/sqlc) is nice for Go. [GRDB](https://github.com/groue/GRDB.swift) is nice for Swift.
@@ -177,3 +181,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [SQLite B-Tree Module](https://sqlite.org/btreemodule.html) ([HN](https://news.ycombinator.com/item?id=30894913))
 - [SQLite Database File Format](https://www.sqlite.org/fileformat.html)
 - [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) - SQLite virtual table extension to expose Parquet files as SQL tables.
+- [Litestream Read Replica Example](https://github.com/benbjohnson/litestream-read-replica-example) - Example of how to setup and deploy a multi-node SQLite database using Litestream's live read replication feature.

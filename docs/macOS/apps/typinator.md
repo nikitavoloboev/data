@@ -1,3 +1,7 @@
+---
+title: Typinator
+---
+
 # [Typinator](http://www.ergonis.com/products/typinator/)
 
 Used the app [previously](https://github.com/nikitavoloboev/knowledge/blob/27bdf4e90829c7f5fafe61fdaf57f0d13a2d15ed/macOS/apps/typinator.md) to automate text expansions. Now use [Alfred](alfred/alfred.md) (simple expansions) & [Keyboard Maestro](keyboard-maestro/keyboard-maestro.md) (complex) instead.

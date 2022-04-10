@@ -1,3 +1,7 @@
+---
+title: NEAR Protocol
+---
+
 # [NEAR Protocol](https://near.org/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Roam Research
+---
+
 # [Roam Research](https://roamresearch.com/)
 
 [Reflect](https://reflect.app/)/[RemNote](https://www.remnote.com/) is a cleaner implementation of Roam's biderectional linking. I personally use [Obsidian](https://obsidian.md/)/[SublimeText](https://www.sublimetext.com/). [Nota](https://nota.md/) is neat too.

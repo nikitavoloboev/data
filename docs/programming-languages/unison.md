@@ -1,3 +1,7 @@
+---
+title: Unison
+---
+
 # [Unison](https://github.com/unisonweb/unison)
 
 > Next generation programming language, currently in development. ([Website](https://www.unisonweb.org/))

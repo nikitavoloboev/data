@@ -1,3 +1,7 @@
+---
+title: Prometheus
+---
+
 # [Prometheus](https://prometheus.io/)
 
 ## Links

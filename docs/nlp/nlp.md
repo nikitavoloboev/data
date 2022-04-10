@@ -534,3 +534,4 @@
 - [Towards Understanding and Mitigating Social Biases in Language Models (2021)](https://arxiv.org/abs/2106.13219) ([Code](https://github.com/pliang279/LM_bias))
 - [DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization (2021)](https://arxiv.org/abs/2109.02492) ([Code](https://github.com/microsoft/DialogLM))
 - [Humanloop Programmatic](https://programmatic.humanloop.com/) - Create large high-quality datasets for NLP in minutes. No hand labelling required. ([HN](https://news.ycombinator.com/item?id=30955699))
+- [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (2022)](https://socraticmodels.github.io/)

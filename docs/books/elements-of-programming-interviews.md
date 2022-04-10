@@ -1,3 +1,7 @@
+---
+title: Elements of programming interviews
+---
+
 # [Elements of programming interviews](http://goodreads.com/book/show/16253895)
 
 ## Chapter 1 - strategies for a great interview

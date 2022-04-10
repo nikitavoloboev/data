@@ -1,3 +1,7 @@
+---
+title: Combinatorial optimization
+---
+
 # [Combinatorial optimization](https://en.wikipedia.org/wiki/Combinatorial_optimization)
 
 ## Links

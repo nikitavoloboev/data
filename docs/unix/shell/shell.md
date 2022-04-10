@@ -1,3 +1,7 @@
+---
+title: Unix Shell
+---
+
 # [Unix Shell](http://en.wikipedia.org/wiki/Unix_shell)
 
 ## Variables

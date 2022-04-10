@@ -1,3 +1,7 @@
+---
+title: JavaScript
+---
+
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 
 ## Notes

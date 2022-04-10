@@ -1,3 +1,7 @@
+---
+title: Nix
+---
+
 # [Nix](https://github.com/NixOS/nix)
 
 [nix.dev](https://nix.dev/) & [Nix One Pager](https://github.com/tazjin/nix-1p) are great places to start learning/using Nix. [How to learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) series is great too.

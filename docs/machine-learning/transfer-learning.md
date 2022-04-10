@@ -1,3 +1,7 @@
+---
+title: Transfer learning
+---
+
 # [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning)
 
 ## Links

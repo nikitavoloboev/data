@@ -1,3 +1,7 @@
+---
+title: Sublime Text plugins
+---
+
 # [Sublime Text](https://www.sublimetext.com) plugins
 
 Below is a list of plugins I use.

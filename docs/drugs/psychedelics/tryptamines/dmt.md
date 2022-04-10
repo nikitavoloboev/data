@@ -1,3 +1,7 @@
+---
+title: DMT
+---
+
 # [DMT](https://psychonautwiki.org/w/index.php?title=DMT)
 
 ## Notes

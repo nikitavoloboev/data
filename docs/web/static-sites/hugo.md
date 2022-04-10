@@ -1,3 +1,7 @@
+---
+title: Hugo
+---
+
 # [Hugo](https://gohugo.io)
 
 I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minimal theme](https://github.com/calintat/minimal).

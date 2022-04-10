@@ -1,3 +1,7 @@
+---
+title: CSS
+---
+
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 [Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts.

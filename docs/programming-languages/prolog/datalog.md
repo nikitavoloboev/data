@@ -1,3 +1,7 @@
+---
+title: Datalog
+---
+
 # [Datalog](https://docs.racket-lang.org/datalog/)
 
 ## Links

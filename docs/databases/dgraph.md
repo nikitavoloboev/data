@@ -1,3 +1,7 @@
+---
+title: Dgraph
+---
+
 # [Dgraph](https://dgraph.io/)
 
 > Fast, Transactional, Distributed Graph Database.

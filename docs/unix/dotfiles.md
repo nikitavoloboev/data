@@ -1,3 +1,7 @@
+---
+title: Dotfiles
+---
+
 # [Dotfiles](https://dotfiles.github.io)
 
 Dotfiles are all the hidden settings and configuration files you have on your Unix system.

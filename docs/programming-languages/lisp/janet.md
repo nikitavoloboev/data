@@ -1,3 +1,7 @@
+---
+title: Janet
+---
+
 # [Janet](https://janet-lang.org/)
 
 ## Links

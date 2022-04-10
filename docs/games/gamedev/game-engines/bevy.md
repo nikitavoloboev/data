@@ -1,3 +1,7 @@
+---
+title: Bevy Engine
+---
+
 # [Bevy Engine](https://bevyengine.org/)
 
 ## OSS Bevy apps

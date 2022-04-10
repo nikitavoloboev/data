@@ -1,3 +1,7 @@
+---
+title: Mesh networking
+---
+
 # [Mesh networking](https://en.wikipedia.org/wiki/Mesh_networking)
 
 ## Links

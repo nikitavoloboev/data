@@ -1,3 +1,7 @@
+---
+title: Zulip
+---
+
 # [Zulip](https://zulipchat.com/)
 
 ## Links

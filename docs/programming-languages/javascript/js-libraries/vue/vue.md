@@ -1,3 +1,7 @@
+---
+title: Vue.js
+---
+
 # [Vue.js](https://vuejs.org)
 
 ## Built with Vue

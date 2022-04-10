@@ -1,3 +1,7 @@
+---
+title: Optical character recognition
+---
+
 # [Optical character recognition](https://en.wikipedia.org/wiki/Optical_character_recognition)
 
 ## Links

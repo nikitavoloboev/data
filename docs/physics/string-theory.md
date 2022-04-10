@@ -1,3 +1,7 @@
+---
+title: String theory
+---
+
 # [String theory](http://en.wikipedia.org/wiki/String_theory)
 
 ## Notes

@@ -1,3 +1,7 @@
+---
+title: React
+---
+
 # [React](https://reactjs.org)
 
 [Official React docs](https://beta.reactjs.org/) are great.

@@ -1,3 +1,7 @@
+---
+title: Affinity Designer
+---
+
 # [Affinity Designer](https://affinity.serif.com/)
 
 ## Links

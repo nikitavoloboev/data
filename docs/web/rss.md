@@ -1,3 +1,7 @@
+---
+title: RSS
+---
+
 # [RSS](https://en.wikipedia.org/wiki/RSS)
 
 ## Notes

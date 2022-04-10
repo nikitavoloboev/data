@@ -1,3 +1,7 @@
+---
+title: Polkadot
+---
+
 # [Polkadot](https://polkadot.network/)
 
 ## Links

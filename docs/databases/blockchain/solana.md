@@ -1,3 +1,7 @@
+---
+title: Solana
+---
+
 # [Solana](https://solana.com/)
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.

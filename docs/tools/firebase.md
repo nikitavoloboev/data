@@ -1,3 +1,7 @@
+---
+title: Firebase
+---
+
 # [Firebase](https://firebase.google.com/)
 
 ## Notes

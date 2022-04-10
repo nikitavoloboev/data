@@ -1,3 +1,7 @@
+---
+title: Haskell
+---
+
 # [Haskell](https://www.haskell.org)
 
 [This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date.

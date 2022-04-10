@@ -1,3 +1,7 @@
+---
+title: RabbitMQ
+---
+
 # [RabbitMQ](https://www.rabbitmq.com/)
 
 ## Links

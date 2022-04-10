@@ -1,3 +1,7 @@
+---
+title: Contacts
+---
+
 # [Contacts](https://support.apple.com/guide/contacts/welcome/mac)
 
 I use Contacts app as a contact book of people I both know and people I am interested in.

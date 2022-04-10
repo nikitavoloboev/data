@@ -1,3 +1,7 @@
+---
+title: Brain Computer Interfaces
+---
+
 # [Brain Computer Interfaces](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
 
 ## Notes

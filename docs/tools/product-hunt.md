@@ -1,3 +1,7 @@
+---
+title: Product Hunt
+---
+
 # [Product Hunt](https://www.producthunt.com)
 
 Product Hunt is genuinely quite an awesome website for sharing and finding different _products_ that people have built.

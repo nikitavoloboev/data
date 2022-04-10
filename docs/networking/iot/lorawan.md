@@ -1,3 +1,7 @@
+---
+title: LoRaWAN
+---
+
 # [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/)
 
 [The Things Network](https://www.thethingsnetwork.org/) is nice project together with their [Things Stack server](https://github.com/TheThingsNetwork/lorawan-stack).

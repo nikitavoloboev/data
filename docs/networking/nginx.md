@@ -1,3 +1,7 @@
+---
+title: Nginx
+---
+
 # [Nginx](https://www.nginx.com/)
 
 ## Modules

@@ -1,3 +1,7 @@
+---
+title: Notion
+---
+
 # [Notion](https://www.notion.so)
 
 Use it for projects as a wiki of docs, notes, todos. I [share most boards in public](../sharing/my-notion.md). [Super](https://super.so/) is neat tool.

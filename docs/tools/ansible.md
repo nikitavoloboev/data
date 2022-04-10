@@ -1,3 +1,7 @@
+---
+title: Ansible
+---
+
 # [Ansible](https://www.ansible.com)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Programming in Haskell
+---
+
 # [Programming in Haskell](https://www.goodreads.com/book/show/912217)
 
 ## Foreword

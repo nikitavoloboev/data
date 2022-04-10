@@ -1,3 +1,7 @@
+---
+title: Group theory
+---
+
 # [Group theory](https://en.wikipedia.org/wiki/Group_theory)
 
 ## Links

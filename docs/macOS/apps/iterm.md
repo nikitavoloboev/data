@@ -1,3 +1,7 @@
+---
+title: iTerm
+---
+
 # [iTerm](https://www.iterm2.com/)
 
 Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.

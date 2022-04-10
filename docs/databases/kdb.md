@@ -1,3 +1,7 @@
+---
+title: Kdb+
+---
+
 # [Kdb+](https://kx.com/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Tao
+---
+
 # [Tao](https://en.wikipedia.org/wiki/Tao)
 
 ## Notes

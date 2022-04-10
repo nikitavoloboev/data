@@ -1,3 +1,7 @@
+---
+title: Monero
+---
+
 # [Monero](https://www.getmonero.org/)
 
 ## Notes
@@ -11,7 +15,7 @@
 
 - [What is Monero? XMR Explained with Animations (2021)](https://www.youtube.com/watch?v=B7sLnmlZ-kU)
 - [Why Monero (2021)](https://benkaiser.dev/why-monero/) ([HN](https://news.ycombinator.com/item?id=28517870))
-- [Mastering Monero](https://masteringmonero.com/)
+- [Mastering Monero](https://masteringmonero.com/) ([Code](https://github.com/monerobook/monerobook))
 - [Zero to Monero](https://www.getmonero.org/library/Zero-to-Monero-2-0-0.pdf)
 - [Monero Code](https://github.com/monero-project/monero)
 - [Melo.tools](https://melo.tools/) - Hub of free Monero tools.

@@ -1,3 +1,7 @@
+---
+title: GSOC
+---
+
 # [GSOC](https://summerofcode.withgoogle.com)
 
 Pretty amazing way to spend a Summer if you are a student.

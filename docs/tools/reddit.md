@@ -1,3 +1,7 @@
+---
+title: Reddit
+---
+
 # [Reddit](https://www.reddit.com/)
 
 ## Bots

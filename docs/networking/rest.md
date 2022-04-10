@@ -1,3 +1,7 @@
+---
+title: REST
+---
+
 # [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).

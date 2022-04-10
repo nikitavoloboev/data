@@ -1,3 +1,7 @@
+---
+title: TON
+---
+
 # [TON](https://ton.org/)
 
 ## Links

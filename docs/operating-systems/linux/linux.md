@@ -1,3 +1,7 @@
+---
+title: Linux
+---
+
 # [Linux](https://github.com/torvalds/linux)
 
 [The Linux Programming Interface](https://man7.org/tlpi/) book seems nice so as the many resources [found here](https://twitter.com/bradfitz/status/1495066999587627011).

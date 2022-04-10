@@ -1,3 +1,7 @@
+---
+title: NixOS
+---
+
 # [NixOS](https://nixos.org)
 
 NixOS is a Linux distro built around the Nix package system. Nix is built around the idea of immutability. It makes all packages immutable by giving them their own directory identified by a hash that is derived from ALL of that package's dependencies. This has a number of desirable properties:

@@ -1,3 +1,7 @@
+---
+title: Array programming
+---
+
 # [Array programming](https://en.wikipedia.org/wiki/Array_programming)
 
 ## Links

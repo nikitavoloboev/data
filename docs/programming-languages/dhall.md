@@ -1,3 +1,7 @@
+---
+title: Dhall
+---
+
 # [Dhall](https://github.com/dhall-lang/dhall-lang) configuration language
 
 ## Links

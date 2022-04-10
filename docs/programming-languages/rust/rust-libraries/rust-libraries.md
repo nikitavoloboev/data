@@ -266,6 +266,7 @@
 - [mysql](https://github.com/blackbeam/rust-mysql-simple) - Mysql client library implemented in rust.
 - [Lru Time Cache](https://github.com/maidsafe/lru_time_cache) - LRU cache settable via size or time to live.
 - [map-to-const](https://github.com/rnag/map-to-const) - Easily convert `HashMap<K, V>` to constant `[(K, V); N]` values.
+- [Rust Dual Interface for q/kdb+](https://github.com/diamondrod/kdbplus) - Dual q/kdb+ interface for API to build a shared library and an IPC client.
 
 ## Video
 

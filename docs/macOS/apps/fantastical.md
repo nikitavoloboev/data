@@ -1,3 +1,7 @@
+---
+title: Fantastical
+---
+
 # [Fantastical](https://flexibits.com/fantastical)
 
 I use the app to manage events in my life I sync with Google Calendar.

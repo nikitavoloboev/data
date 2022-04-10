@@ -1,3 +1,7 @@
+---
+title: Signal processing
+---
+
 # [Signal processing](https://en.wikipedia.org/wiki/Signal_processing)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: gRPC
+---
+
 # [gRPC](https://grpc.io)
 
 [gRPC UI](https://github.com/fullstorydev/grpcui) & [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.

@@ -1,3 +1,7 @@
+---
+title: Redwood
+---
+
 # [Redwood](https://redwoodjs.com/)
 
 > Opinionated, full stack, serverless JAMstack web application framework

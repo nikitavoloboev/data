@@ -1,3 +1,7 @@
+---
+title: WebGPU
+---
+
 # [WebGPU](https://en.wikipedia.org/wiki/WebGPU)
 
 ## Links

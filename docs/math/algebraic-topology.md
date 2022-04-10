@@ -1,3 +1,7 @@
+---
+title: Algebraic topology
+---
+
 # [Algebraic topology](https://en.wikipedia.org/wiki/Algebraic_topology)
 
 ## Links

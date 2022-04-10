@@ -1,3 +1,7 @@
+---
+title: Smalltalk
+---
+
 # [Smalltalk](https://squeak.org/)
 
 ## Links

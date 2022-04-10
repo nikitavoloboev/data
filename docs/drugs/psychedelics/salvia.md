@@ -1,3 +1,7 @@
+---
+title: Salvia
+---
+
 # [Salvia](https://psychonautwiki.org/w/index.php?title=Salvinorin_A)
 
 Salvia is the only drug I tried thus far that gave me a true [ego death experience](../../consciousness/ego.md).

@@ -1,3 +1,7 @@
+---
+title: Satisfiability modulo theories
+---
+
 # [Satisfiability modulo theories](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories)
 
 ## Links

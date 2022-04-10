@@ -1,3 +1,7 @@
+---
+title: Automated theorem proving
+---
+
 # [Automated theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving)
 
 [Lean](lean.md) is [great](https://www.youtube.com/watch?v=Dp-mQ3HxgDE). [Kind](https://github.com/Kindelia/Kind) looks awesome too.

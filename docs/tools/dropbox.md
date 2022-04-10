@@ -1,3 +1,7 @@
+---
+title: Dropbox
+---
+
 # [Dropbox](https://www.dropbox.com)
 
 Dropbox is a pretty amazing service to share and keep files on the cloud. There is always privacy risks involved unless you put encrypted files in there but it is still undeniably great service.

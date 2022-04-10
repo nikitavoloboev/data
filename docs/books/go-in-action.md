@@ -1,3 +1,7 @@
+---
+title: Go in action
+---
+
 # [Go in action](https://www.goodreads.com/book/show/22727352-go-in-action)
 
 # Chapter 2 - quick start

@@ -1,3 +1,7 @@
+---
+title: Scuttlebutt
+---
+
 # [Scuttlebutt](https://www.scuttlebutt.nz)
 
 ## Links

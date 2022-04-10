@@ -1,3 +1,7 @@
+---
+title: Cypress
+---
+
 # [Cypress](https://www.cypress.io/)
 
 > JavaScript End to End Testing Framework

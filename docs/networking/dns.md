@@ -1,3 +1,7 @@
+---
+title: DNS
+---
+
 # [DNS](http://en.wikipedia.org/wiki/Domain_Name_System)
 
 ## Notes

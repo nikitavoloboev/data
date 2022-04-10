@@ -1,3 +1,7 @@
+---
+title: Jupyter Notebooks
+---
+
 # [Jupyter Notebooks](https://jupyter.org/)
 
 ## Extensions

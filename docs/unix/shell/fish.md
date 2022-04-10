@@ -1,3 +1,7 @@
+---
+title: Fish Shell
+---
+
 # [Fish Shell](https://fishshell.com/)
 
 ## Links

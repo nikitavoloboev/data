@@ -1,3 +1,7 @@
+---
+title: D
+---
+
 # [D](https://dlang.org)
 
 ## Links

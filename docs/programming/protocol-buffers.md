@@ -1,3 +1,7 @@
+---
+title: Protocol buffers
+---
+
 # [Protocol buffers](https://developers.google.com/protocol-buffers/)
 
 [pbkit](https://pbkit.dev/) is nice.

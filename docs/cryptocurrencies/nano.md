@@ -1,3 +1,7 @@
+---
+title: Nano
+---
+
 # [Nano](https://nano.org/)
 
 > Peer-to-peer digital currency with fast & cheap transactions.

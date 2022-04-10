@@ -1,3 +1,7 @@
+---
+title: Dissociatives
+---
+
 # [Dissociatives](https://psychonautwiki.org/w/index.php?title=Dissociative)
 
 ## Interesting

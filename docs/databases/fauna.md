@@ -1,3 +1,7 @@
+---
+title: Fauna
+---
+
 # [Fauna](https://fauna.com/)
 
 > Data API for modern applications

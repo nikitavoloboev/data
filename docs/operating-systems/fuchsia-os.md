@@ -1,3 +1,7 @@
+---
+title: Fuchsia OS
+---
+
 # [Fuchsia OS](https://fuchsia.dev/)
 
 ## Notes

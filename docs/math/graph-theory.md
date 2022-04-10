@@ -1,3 +1,7 @@
+---
+title: Graph theory
+---
+
 # [Graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 
 ## Links

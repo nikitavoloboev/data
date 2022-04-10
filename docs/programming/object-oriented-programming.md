@@ -1,3 +1,7 @@
+---
+title: Object-oriented programming
+---
+
 # [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
 I prefer more [data oriented programming](https://www.reddit.com/r/Zig/comments/r0l3uz/a_practical_guide_to_applying_dataoriented_design/) than [OO](https://twitter.com/ChevyRay/status/1506406647291293697).

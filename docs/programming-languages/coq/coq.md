@@ -1,3 +1,7 @@
+---
+title: Coq
+---
+
 # [Coq](https://coq.inria.fr/)
 
 ## Links

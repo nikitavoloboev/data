@@ -1,3 +1,7 @@
+---
+title: Brave new world
+---
+
 # [Brave new world](http://goodreads.com/book/show/5129)
 
 - It's a dystopia in a less obvious way than 1984 is. It's a vision of society where nothing matters because everything is permitted and everything is great.

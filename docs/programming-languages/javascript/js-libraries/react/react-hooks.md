@@ -1,3 +1,7 @@
+---
+title: React Hooks
+---
+
 # [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for more complex state handling. [React Query](https://react-query.tanstack.com/) is great for web requests & caching. [ahooks](https://ahooks.js.org/) has many useful hooks too.

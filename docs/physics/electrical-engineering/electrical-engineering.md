@@ -1,3 +1,7 @@
+---
+title: Electrical engineering
+---
+
 # [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
 
 ## Links

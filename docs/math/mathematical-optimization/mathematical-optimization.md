@@ -1,3 +1,7 @@
+---
+title: Mathematical optimization
+---
+
 # [Mathematical optimization](https://en.wikipedia.org/wiki/Convex_optimization)
 
 ## Links

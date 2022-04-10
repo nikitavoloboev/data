@@ -1,3 +1,7 @@
+---
+title: Wolfram Alpha
+---
+
 # [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ## Links

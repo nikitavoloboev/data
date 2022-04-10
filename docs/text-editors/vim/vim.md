@@ -1,3 +1,7 @@
+---
+title: Vim
+---
+
 # [Vim](https://www.vim.org/)
 
 The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.

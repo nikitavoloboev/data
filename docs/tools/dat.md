@@ -1,3 +1,7 @@
+---
+title: Dat
+---
+
 # [Dat](https://datproject.org/)
 
 ## Links

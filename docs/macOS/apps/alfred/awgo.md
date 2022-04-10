@@ -1,3 +1,7 @@
+---
+title: AwGo
+---
+
 # [AwGo](https://github.com/deanishe/awgo)
 
 An awesome library to make Alfred Workflows made by [Deanishe](https://github.com/deanishe).

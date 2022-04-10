@@ -1,3 +1,7 @@
+---
+title: Erlang
+---
+
 # [Erlang](https://www.erlang.org/)
 
 ## Notes

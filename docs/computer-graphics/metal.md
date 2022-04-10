@@ -1,3 +1,7 @@
+---
+title: Metal
+---
+
 # [Metal](https://developer.apple.com/metal/)
 
 [Alloy](https://github.com/s1ddok/Alloy) is nice lib.

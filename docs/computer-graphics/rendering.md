@@ -1,3 +1,7 @@
+---
+title: Rendering
+---
+
 # [Rendering](<https://en.wikipedia.org/wiki/Rendering_(computer_graphics)>)
 
 ## Links

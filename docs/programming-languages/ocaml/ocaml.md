@@ -1,3 +1,7 @@
+---
+title: OCaml
+---
+
 # [OCaml](https://ocaml.org)
 
 ## Notes

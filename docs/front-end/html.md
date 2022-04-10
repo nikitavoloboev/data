@@ -1,3 +1,7 @@
+---
+title: HTML
+---
+
 # [HTML](https://developer.mozilla.org/kab/docs/Web/HTML)
 
 ## Notes

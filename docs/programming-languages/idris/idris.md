@@ -1,3 +1,7 @@
+---
+title: Idris
+---
+
 # [Idris](https://www.idris-lang.org/)
 
 ## Links

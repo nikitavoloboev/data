@@ -1,3 +1,7 @@
+---
+title: Bézier curves
+---
+
 # [Bézier curves](https://en.wikipedia.org/wiki/B%C3%A9zier_curve)
 
 ## Links

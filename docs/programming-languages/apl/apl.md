@@ -1,3 +1,7 @@
+---
+title: APL
+---
+
 # [APL](<https://en.wikipedia.org/wiki/APL_(programming_language)>)
 
 ## Links

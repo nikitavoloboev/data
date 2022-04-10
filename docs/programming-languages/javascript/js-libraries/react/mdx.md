@@ -1,3 +1,7 @@
+---
+title: MDX
+---
+
 # [MDX](https://github.com/mdx-js/mdx)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Apache Kafka
+---
+
 # [Apache Kafka](https://kafka.apache.org/)
 
 [This talk](https://www.youtube.com/watch?v=UEg40Te8pnE) is good intro.

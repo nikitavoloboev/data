@@ -1,3 +1,7 @@
+---
+title: Web workers
+---
+
 # [Web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
 [Partytown](https://github.com/BuilderIO/partytown) is neat.

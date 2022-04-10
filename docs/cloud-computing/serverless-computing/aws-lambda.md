@@ -1,3 +1,7 @@
+---
+title: AWS Lambda
+---
+
 # [AWS Lambda](https://aws.amazon.com/lambda/)
 
 ## Notes

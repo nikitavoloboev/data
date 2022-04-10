@@ -1,3 +1,7 @@
+---
+title: Mind for numbers
+---
+
 # [Mind for numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) - [Review](https://www.goodreads.com/review/show/1223423349)
 
 - The diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any area. (As opposed to the Focused mode, which would have its light cast very strongly in a single area but very weakly everywhere else.

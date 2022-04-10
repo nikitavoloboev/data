@@ -1,3 +1,7 @@
+---
+title: Geometric algebra
+---
+
 # [Geometric algebra](https://en.wikipedia.org/wiki/Geometric_algebra)
 
 ## Links

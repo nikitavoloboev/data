@@ -1,3 +1,7 @@
+---
+title: Redis
+---
+
 # [Redis](https://redis.io/)
 
 [Hosting Redis on Fly](https://github.com/fly-apps/redis) is nice.

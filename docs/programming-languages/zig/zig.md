@@ -1,3 +1,7 @@
+---
+title: Zig
+---
+
 # [Zig](https://ziglang.org/)
 
 ## Notes

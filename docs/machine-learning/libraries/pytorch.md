@@ -1,3 +1,7 @@
+---
+title: PyTorch
+---
+
 # [PyTorch](http://pytorch.org/)
 
 ## Notes

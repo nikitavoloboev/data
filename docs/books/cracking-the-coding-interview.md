@@ -1,3 +1,7 @@
+---
+title: Cracking the coding interview
+---
+
 # [Cracking the coding interview](https://www.goodreads.com/book/show/12544648)
 
 ## Chapter 1 - arrays and strings

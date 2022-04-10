@@ -1,3 +1,7 @@
+---
+title: CSS Grid
+---
+
 # [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 [Grid Garden](https://cssgridgarden.com/) is great intro. [CSS Grid Generator](https://cssgrid-generator.netlify.app/) is useful tool.

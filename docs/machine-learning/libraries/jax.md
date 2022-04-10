@@ -1,3 +1,7 @@
+---
+title: JAX
+---
+
 # [JAX](https://github.com/google/jax)
 
 ## Links

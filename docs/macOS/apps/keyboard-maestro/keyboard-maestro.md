@@ -1,3 +1,7 @@
+---
+title: Keyboard Maestro
+---
+
 # [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 
 Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.

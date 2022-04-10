@@ -1,3 +1,7 @@
+---
+title: Ray tracing
+---
+
 # [Ray tracing](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)>)
 
 [This](https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/) is nice intro.

@@ -1,3 +1,7 @@
+---
+title: Eloquent ruby
+---
+
 # [Eloquent ruby](http://goodreads.com/book/show/9364729)
 
 ## Chapter 1 - write code that looks like ruby

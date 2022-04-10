@@ -1,3 +1,7 @@
+---
+title: WebSocket
+---
+
 # [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
 [soketi](https://github.com/soketi/soketi) is great.

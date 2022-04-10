@@ -1549,6 +1549,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go-Attestation](https://github.com/google/go-attestation) - Abstracts remote attestation operations across a variety of platforms and TPMs, enabling remote validation of machine identity and state.
 - [Go-TPM](https://github.com/google/go-tpm) - Go library that communicates directly with a TPM device.
 - [packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec.
+- [DefSec](https://github.com/aquasecurity/defsec) - Set of tools for scanning IaC and configuration files.
 
 ## Links
 

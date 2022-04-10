@@ -1,3 +1,7 @@
+---
+title: Wordpress
+---
+
 # [Wordpress](https://wordpress.com)
 
 ## Links

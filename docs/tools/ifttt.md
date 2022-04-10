@@ -1,3 +1,7 @@
+---
+title: IFTTT
+---
+
 # [IFTTT](https://ifttt.com)
 
 I use a few IFTTT triggers:

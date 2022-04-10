@@ -1,3 +1,7 @@
+---
+title: VS Code extensions
+---
+
 # [VS Code](https://github.com/Microsoft/vscode) extensions
 
 Below is a list of extensions I use.

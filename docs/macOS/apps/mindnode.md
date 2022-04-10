@@ -1,3 +1,7 @@
+---
+title: MindNode
+---
+
 # [MindNode](https://mindnode.com/)
 
 An application which allowed me to originally create [all of the maps](https://www.dropbox.com/sh/df7lxpsizx0ukd7/AAAUZzX55vnfZMqTRuhzJbWwa?dl=0) for [Learn Anything](https://learn-anything.xyz).

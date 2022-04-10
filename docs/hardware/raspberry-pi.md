@@ -1,3 +1,7 @@
+---
+title: Raspberry Pi
+---
+
 # [Raspberry Pi](https://www.raspberrypi.org/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Dynamic programming
+---
+
 # [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 
 ## Links

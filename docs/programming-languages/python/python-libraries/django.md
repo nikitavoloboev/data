@@ -1,3 +1,7 @@
+---
+title: Django
+---
+
 # [Django](https://www.djangoproject.com/)
 
 ## OSS Django Apps

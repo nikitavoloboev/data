@@ -1,3 +1,7 @@
+---
+title: Ableton
+---
+
 # [Ableton](https://www.ableton.com/en/)
 
 ## Links

@@ -1,3 +1,7 @@
+---
+title: Vite
+---
+
 # [Vite](https://vitejs.dev/)
 
 ## Links

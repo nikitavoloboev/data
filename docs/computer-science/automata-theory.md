@@ -1,3 +1,7 @@
+---
+title: Automata theory
+---
+
 # [Automata theory](https://en.wikipedia.org/wiki/Automata_theory)
 
 ## Links

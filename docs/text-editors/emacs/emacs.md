@@ -1,3 +1,7 @@
+---
+title: Emacs
+---
+
 # [Emacs](https://www.gnu.org/software/emacs/)
 
 Emacs is an interesting editor that I haven't checked out still.

@@ -1,3 +1,7 @@
+---
+title: Nearest neighbor search
+---
+
 # [Nearest neighbor search](https://en.wikipedia.org/wiki/Nearest_neighbor_search)
 
 ## Links

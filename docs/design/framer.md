@@ -1,3 +1,7 @@
+---
+title: Framer
+---
+
 # [Framer](https://www.framer.com/)
 
 ## Links

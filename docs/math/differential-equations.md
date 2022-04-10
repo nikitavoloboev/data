@@ -1,3 +1,7 @@
+---
+title: Differential equations
+---
+
 # [Differential equations](https://en.wikipedia.org/wiki/Differential_equation)
 
 ## Links

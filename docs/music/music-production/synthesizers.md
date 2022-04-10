@@ -1,3 +1,7 @@
+---
+title: Synthesizers
+---
+
 # [Synthesizers](https://en.wikipedia.org/wiki/Synthesizer)
 
 ## Interesting

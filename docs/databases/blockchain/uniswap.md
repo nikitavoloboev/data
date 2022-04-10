@@ -1,3 +1,7 @@
+---
+title: Uniswap
+---
+
 # [Uniswap](https://uniswap.org/)
 
 > Fully decentralized protocol for automated liquidity provision on Ethereum

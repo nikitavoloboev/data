@@ -1,3 +1,7 @@
+---
+title: ActivityPub
+---
+
 # [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)
 
 ## Links

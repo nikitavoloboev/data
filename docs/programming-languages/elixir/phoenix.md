@@ -1,3 +1,7 @@
+---
+title: Phoenix framework
+---
+
 # [Phoenix framework](https://github.com/phoenixframework/phoenix)
 
 > Productive web framework that does not compromise speed or maintainability.

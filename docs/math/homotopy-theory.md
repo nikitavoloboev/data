@@ -1,3 +1,7 @@
+---
+title: Homotopy theory
+---
+
 # [Homotopy theory](https://ncatlab.org/nlab/show/homotopy+theory)
 
 ## Links

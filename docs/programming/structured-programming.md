@@ -1,3 +1,7 @@
+---
+title: Structured programming
+---
+
 # [Structured programming](https://en.wikipedia.org/wiki/Structured_programming)
 
 ## Links

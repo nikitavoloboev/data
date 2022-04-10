@@ -1,3 +1,7 @@
+---
+title: 1Password
+---
+
 # [1Password](https://1password.com)
 
 Generate all of my passwords with it and keep everything in a secured and encrypted vault kept secure by my one master password.

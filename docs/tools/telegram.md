@@ -1,3 +1,7 @@
+---
+title: Telegram
+---
+
 # [Telegram](https://telegram.org)
 
 Telegram is the best messenger that exists right now. I use it for personal messaging, following many group chats & channels. I run a [channel of my own too where I post a stream of things I liked & thought about](https://t.me/niki_log).
