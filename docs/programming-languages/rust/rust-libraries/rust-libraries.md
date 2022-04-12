@@ -649,6 +649,7 @@
 - [syn-file-expand](https://github.com/vi/syn-file-expand) - Rust library to scan files and expand (make modules inline) multi-file crates source code as a single tree.
 - [version](https://github.com/nulldatamap/version) - Simple macro that returns the version of the crate as a string.
 - [assert-json-diff](https://github.com/davidpdrsn/assert-json-diff) - Easily compare two JSON values and get great output.
+- [cascade](https://github.com/InquisitivePenguin/cascade) - Dart-like cascade expressions in Rust.
 
 ## Math
 
