@@ -39,3 +39,4 @@
 - [Bump](https://github.com/wader/bump) - Generic version tracking and update tool.
 - [Generating A Changelog](https://github.com/Kong/changelog-generator) - Changelog generator focused on ease of use and flexibility.
 - [Ask HN: Do you pull and run code as part of code review? (2022)](https://news.ycombinator.com/item?id=30577735)
+- [Contractual SemVer](https://github.com/pschanely/contractual-semver) - Uses the idea of Software contracts to let authors rigorously define "backwards compatability" for their libraries.

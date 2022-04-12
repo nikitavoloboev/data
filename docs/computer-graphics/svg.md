@@ -137,3 +137,4 @@
 - [svg_stack](https://github.com/astraw/svg_stack) - Combine multiple SVG elements into a single SVG element.
 - [svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer.
 - [svg2rough.js](https://github.com/fskpf/svg2roughjs) - Utilizes Rough.js to convert an SVG to a hand-drawn visualization.
+- [Ideal SVG exports](https://bjango.com/articles/svgexports/)

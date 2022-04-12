@@ -469,3 +469,4 @@ title: PostgreSQL
 - [Postgres everywhere. SQLite is embedded everywhere. Will Postgres follow suit? (2022)](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
 - [icu_ext](https://github.com/dverite/icu_ext) - PostgreSQL extension (in C) to expose functionality from the ICU library.
 - [pg-simplify-inflector](https://github.com/graphile/pg-simplify-inflector) - Simplifies the graphile-build-pg inflector to trim the `ByFooIdAndBarId` from relations.
+- [Multiranges in PostgreSQL 14 (2022)](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)

@@ -165,7 +165,10 @@
 - [Two Vexing Problems in Functional Programming (2022)](https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html) ([HN](https://news.ycombinator.com/item?id=30878534))
 - [Functional Programming Is Boring](https://github.com/danieljharvey/functional-programming-is-boring) - Short course on Functional Programming in Typescript.
 - [Notes on Functional Programming and related topics](https://github.com/siraben/fp-notes)
+- [Theory and Applications of Lenses and Optics](https://github.com/bgavran/Lens_Resources)
+
 
 ## Images
 
 ![](https://i.imgur.com/nSrcdxd.png)
+

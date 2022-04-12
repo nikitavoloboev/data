@@ -247,9 +247,11 @@ title: TypeScript
 - [TypeScript as fast as Rust: TypeScript++](https://zaplib.com/docs/blog_ts++.html) ([HN](https://news.ycombinator.com/item?id=30947680))
 - [DSL built with TypeScript type system to query structured objects](https://github.com/anuraghazra/typelevel-parser)
 - [Awesome TypeScript Derived Languages](https://github.com/orta/awesome-typescript-derived-languages)
+- [TypeScript/How the compiler compiles (2022)](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 
 ## Images
 
 ![](https://i.imgur.com/APrrI2V.png)
 
 > TypeScript’s type hierarchy
+

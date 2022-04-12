@@ -339,3 +339,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Video Hub App](https://videohubapp.com/en/) - Fastest way to browse and search for videos on your computer. ([Code](https://github.com/whyboris/Video-Hub-App))
 - [Anno.so](https://anno.so/) - Annotate, comment & share your videos. ([HN](https://news.ycombinator.com/item?id=30968391))
 - [VidStab](https://github.com/georgmartius/vid.stab) - Video stabilization library which can be plugged-in with Ffmpeg and Transcode.
+- [How I make tip videos for Twitter](https://twitter.com/mpocock1/status/1513821402159276036)

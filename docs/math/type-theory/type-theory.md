@@ -195,3 +195,4 @@ title: Type Theory
 - [Cofibrations in Cartecian Cubical Type Theory](https://github.com/RedPRL/kado)
 - [Core Gallifrey Interpreter](https://github.com/apl-cornell/gallifrey-proto-interp)
 - [LaTeX code for a paper on lean's type theory](https://github.com/digama0/lean-type-theory)
+- [Anders: Cubical Type Checker](https://github.com/forked-from-1kasper/anders)
