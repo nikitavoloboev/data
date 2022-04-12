@@ -132,7 +132,7 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Jeli](https://www.jeli.io/) - Dedicated Incident Analysis Platform.
 - [Zero](https://getzero.dev/) - Opinionated infrastructure to take you from idea to production on day one. ([Code](https://github.com/commitdev/zero))
 - [ClusterDev](https://cluster.dev/) - Cloud Management and Automation Framework. ([Code](https://github.com/shalb/cluster.dev))
-- [Deployment from Scratch](https://deploymentfromscratch.com/) - Complete guide to web application deployment. ([HN](https://news.ycombinator.com/item?id=29540808))
+- [Deployment from Scratch](https://deploymentfromscratch.com/) - Complete guide to web application deployment. ([HN](https://news.ycombinator.com/item?id=29540808)) ([One year of sales](https://nts.strzibny.name/one-year-of-sales/))
 - [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response.
 - [Cloudkeeper](https://github.com/someengineering/cloudkeeper) - “housekeeping for clouds” - find leaky resources, manage quota limits, detect drift and clean up.
 - [Atomist](https://atomist.com/) - Keep Your Containerized Applications Safe. ([GitHub](https://github.com/atomist))
@@ -162,3 +162,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [bldr](https://github.com/siderolabs/bldr) - Tool to build and package software distributions. Build process runs in buildkit (or docker buildx), build result can be exported as container image.
 - [Boost Note](https://boostnote.io/) - Document driven project management tool that maximizes remote DevOps team velocity. ([Code](https://github.com/BoostIO/BoostNote-App))
 - [arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
+- [Open Build Service](https://openbuildservice.org/) - Generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. ([CLI](https://github.com/openSUSE/osc))

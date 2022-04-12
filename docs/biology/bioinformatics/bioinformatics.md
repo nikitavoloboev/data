@@ -207,3 +207,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [3 Key Questions to Think About When Designing Proteins Computationally (2022)](https://www.blopig.com/blog/2022/03/computational-protein-design-key-methodological-considerations/) ([Tweet](https://twitter.com/AlissaHummer/status/1509592894658723841))
 - [AIMSim](https://github.com/VlachosGroup/AIMSim) - Tool for visualizing diversity in your molecular data-set using structural fingerprints.
 - [ProteInfer](https://github.com/google-research/proteinfer) - Approach for predicting the functional properties of protein sequences using deep neural networks.
+- [Learning inverse folding from millions of predicted structures (2022)](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1) ([Code](https://github.com/facebookresearch/esm/tree/main/examples/inverse_folding)) ([Tweet](https://twitter.com/alexrives/status/1513602065557340162))

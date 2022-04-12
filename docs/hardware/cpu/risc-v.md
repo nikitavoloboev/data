@@ -165,3 +165,4 @@ title: RISC-V
 - [NaxRiscv](https://github.com/SpinalHDL/NaxRiscv) - RISC-V core.
 - [YARVI](https://github.com/tommythorn/yarvi) - RISC-V Implementation.
 - [FlatRv](https://github.com/losfair/FlatRv) - Cross-platform RISC-V interpreter that implements the RV32IMA instruction set.
+- [RISC-V Formal Verification Framework](https://github.com/SymbioticEDA/riscv-formal)

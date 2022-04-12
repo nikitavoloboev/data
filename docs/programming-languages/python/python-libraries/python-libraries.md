@@ -817,6 +817,11 @@
 - [PrettyTable](https://github.com/jazzband/prettytable) - Display tabular data in a visually appealing ASCII table format.
 - [holpy](https://github.com/bzhan/holpy) - Implementation of higher-order logic in Python.
 - [Quart-Trio](https://github.com/pgjones/quart-trio) - Extension for Quart to support the Trio event loop.
+- [Smart Cache](https://github.com/andrewgazelka/smart-cache) - Python caching library that is persistent and uses bytecode analysis to determine re-evaluation.
+- [Squirrel Core](https://github.com/merantix-momentum/squirrel-core) - Share, load, and transform data in a collaborative, flexible, and efficient way.
+- [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) - Read one-dimensional barcodes and QR codes from Python.
+- [Odak](https://github.com/kunguz/odak) - Scientific computing library for optics, computer graphics and visual perception.
+- [embedding_reader](https://github.com/rom1504/embedding-reader) - Efficiently read embedding in streaming from any filesystem.
 
 ## Links
 

@@ -149,6 +149,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [RequestID](https://github.com/gin-contrib/requestid) - Request ID middleware for Gin Framework.
 - [ginpprof](https://github.com/DeanThompson/ginpprof) - Wrapper for golang web framework gin to use net/http/pprof easily.
 - [Fizz](https://github.com/wI2L/fizz) - Gin wrapper with OpenAPI 3 spec generation.
+- [Gin Framework Metrics Middleware](https://github.com/kylesliu/gin_exporter)
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.
@@ -312,6 +313,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [netns](https://github.com/vishvananda/netns) - Simple network namespace handling for go.
 - [fastudp](https://github.com/shaoyuan1943/fastudp) - Fast implementation of UDP.
 - [go-redoc](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
+- [pub0sub](https://github.com/itzmeanjan/pub0sub) - Fast, Lightweight Pub/Sub over TCP, QUIC - powered by Async I/O.
 
 ## GraphQL
 
@@ -467,6 +469,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Golobby ORM](https://github.com/golobby/orm) - Lightweight yet powerful, fast, customizable, type-safe object-relational mapper for Go.
 - [lockfree](https://github.com/dustinxie/lockfree) - Go lock-free concurrent Hashmap.
 - [satomic](https://github.com/dhui/satomic) - Go package that makes managing nested SQL transactions/savepoints easier.
+- [gorocksdb](https://github.com/applinskinner/gorocksdb) - Go wrapper for RocksDB.
 
 ## ML
 
@@ -1218,6 +1221,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go.
 - [go-memexec](https://github.com/amenzhinsky/go-memexec) - Small library that executes code from the memory.
 - [Stateless](https://github.com/qmuntal/stateless) - Create state machines and lightweight state machine-based workflows directly in Go code.
+- [go-maquina](https://github.com/soypat/go-maquina) - Create finite-state machines in Go. Inspired by stateless.
 - [gltf](https://github.com/qmuntal/gltf) - Go module for efficient and robust serialization/deserialization of glTF 2.0.
 - [NFF-Go](https://github.com/intel-go/nff-go) - Set of libraries for creating and deploying cloud-native Network Functions (NFs).
 - [Functional Programming Core Libraries](https://github.com/go-functional/core)
@@ -1550,6 +1554,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go-TPM](https://github.com/google/go-tpm) - Go library that communicates directly with a TPM device.
 - [packageurl-go](https://github.com/package-url/packageurl-go) - Go implementation of the package url spec.
 - [DefSec](https://github.com/aquasecurity/defsec) - Set of tools for scanning IaC and configuration files.
+- [Gotext](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
+- [yyjson-go](https://github.com/zchee/yyjson-go) - Go port of yyjson, A high performance JSON library.
 
 ## Links
 

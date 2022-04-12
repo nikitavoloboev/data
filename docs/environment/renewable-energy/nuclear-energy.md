@@ -1,3 +1,7 @@
+---
+title: Nuclear energy
+---
+
 # [Nuclear energy](https://en.wikipedia.org/wiki/Nuclear_power)
 
 ## Notes

@@ -13,6 +13,7 @@ title: Expo
 ## Notes
 
 - [‘expo init’ is the blanket solution to most config issues](https://twitter.com/FernandoTheRojo/status/1455397012841631744)
+- [If you "eject" your Expo app, you can still use EAS Build, Submit, and Update. EAS is the best way to build and deliver your native app, regardless of how it was made.](https://twitter.com/Baconbrix/status/1513603854063095810)
 
 ## Links
 

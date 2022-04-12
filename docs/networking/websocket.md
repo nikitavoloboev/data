@@ -89,6 +89,6 @@ title: WebSocket
 - [Web Socket for Productivity in Rust (2022)](https://www.ahmadrosid.com/blog/rust-websocket)
 - [ezsockets](https://github.com/gbaranski/ezsockets) - Composable WebSockets made easy, for Rust.
 - [Socket.IO](https://socket.io/) - Bidirectional and low-latency communication for every platform. ([Code](https://github.com/socketio/socket.io)) ([Spec](https://github.com/socketio/socket.io-protocol))
-- [Realtime | Supabase](https://multiplayer.dev/) - Offer basically Phoenix Channels and Presence as a service.
+- [Realtime | Supabase](https://multiplayer.dev/) - Offer basically Phoenix Channels and Presence as a service. ([HN](https://news.ycombinator.com/item?id=30992587))
 - [wasmws](https://github.com/tarndt/wasmws) - WASM Websockets for Go applications.
 - [ewebsock](https://github.com/rerun-io/ewebsock) - Rust Websocket client that compiles to both native and web.

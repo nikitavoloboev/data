@@ -43,6 +43,7 @@
 - [SikuliX](https://github.com/RaiMan/SikuliX1) - Automates anything you see on the screen of your desktop computer. ([HN](https://news.ycombinator.com/item?id=30317313))
 - [Director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery.
 - [Drone footage of Tesla factory (2022)](https://www.youtube.com/watch?v=7-4yOx1CnXE) ([HN](https://news.ycombinator.com/item?id=30961370))
+- [Modular Assembly Innovations](https://modularai.com/)
 
 ## Images
 

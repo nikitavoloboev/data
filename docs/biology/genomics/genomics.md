@@ -163,3 +163,4 @@ title: Genomics
 - [cuteSV](https://github.com/tjiangHIT/cuteSV) - Long read based human genomic structural variation detection with cuteSV.
 - [pyfastx](https://github.com/lmdu/pyfastx) - Robust python module for fast random access to sequences from plain and gzipped FASTA/Q file.
 - [Winnowmap](https://github.com/marbl/Winnowmap) - Long read / genome alignment software.
+- [MGEfinder](https://github.com/bhattlab/MGEfinder) - Toolbox for identifying mobile genetic element (MGE) insertions from short-read sequencing data of bacterial isolates.

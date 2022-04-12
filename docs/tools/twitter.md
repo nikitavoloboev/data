@@ -171,3 +171,5 @@ title: Twitter
 - [Stabletweet](https://github.com/markjaquith/stabletweet) - Cloudflare Worker proxy for checking whether a tweet exists.
 - [Advanced Twitter Search Tips](https://twitter.com/TessaRDavis/status/1512402324102291467)
 - [Better TweetDeck](https://better.tw/) - Take TweetDeck to the next level. ([Code](https://github.com/eramdam/BetterTweetDeck))
+- [Twitter Bookmarks Search WebExtension](https://github.com/flybayer/twitter-bookmarks-search)
+- [Twitter Card Image Generator](https://github.com/Ladicle/tcardgen) - Generate Twitter card (OGP) images for your blog posts.

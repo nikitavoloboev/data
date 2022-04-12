@@ -122,6 +122,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Gina](https://github.com/lambdalisue/gina.vim) - Asynchronously control git repositories.
 - [Codi](https://github.com/metakirby5/codi.vim) - Interactive scratchpad for hackers.
 - [Vinegar](https://github.com/tpope/vim-vinegar) - Enhances netrw.
+- [command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope.
 - [Dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer.
 - [Startup Time](https://github.com/tweekmonster/startuptime.vim) - Profile startup time.
 - [Sneak](https://github.com/justinmk/vim-sneak) - Jump to any location specified by two characters.
@@ -238,6 +239,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
 - [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within vim.
 - [Neogit](https://github.com/TimUntersberger/neogit) - Magit for neovim.
+- [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers.
 
 ## Markdown
 

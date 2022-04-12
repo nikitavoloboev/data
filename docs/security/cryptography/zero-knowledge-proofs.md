@@ -1,3 +1,7 @@
+---
+title: Zero knowledge proofs
+---
+
 # [Zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
 ## Links
@@ -71,3 +75,4 @@
 - [Awesome Zero Knowledge](https://github.com/ventali/awesome-zk)
 - [Arbibot RPS](https://github.com/botdad/arbirps) - On chain rock paper scissors game using zero knowledge proofs for hiding plays.
 - [zkSNARKS tutorial: practical beginner's guide to creating, proving, and verifying zkSNARKs in your contracts](https://github.com/jstoxrocky/zksnarks_example)
+- [Jellyfish cryptographic library](https://github.com/EspressoSystems/jellyfish) - Rust Implementation of the PLONK ZKP System and Extensions.

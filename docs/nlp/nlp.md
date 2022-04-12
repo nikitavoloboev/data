@@ -535,3 +535,8 @@
 - [DialogLM: Pre-trained Model for Long Dialogue Understanding and Summarization (2021)](https://arxiv.org/abs/2109.02492) ([Code](https://github.com/microsoft/DialogLM))
 - [Humanloop Programmatic](https://programmatic.humanloop.com/) - Create large high-quality datasets for NLP in minutes. No hand labelling required. ([HN](https://news.ycombinator.com/item?id=30955699))
 - [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language (2022)](https://socraticmodels.github.io/)
+- [Second order effects of the rise of large language models (2022)](https://twitter.com/russelljkaplan/status/1513128005828165634)
+- [Simple Annotated implementation of GPT-NeoX in PyTorch](https://github.com/labmlai/neox)
+- [BLEURT: Learning Robust Metrics for Text Generation (2020)](https://arxiv.org/abs/2004.04696) ([Code](https://github.com/google-research/bleurt))
+- [Bootleg](https://hazyresearch.stanford.edu/bootleg/) - Self-supervised named entity disambiguation (NED) system that links mentions in text to entities in a knowledge base. ([Code](https://github.com/HazyResearch/bootleg))
+- [DALL-E in Mesh-TensorFlow](https://github.com/EleutherAI/DALLE-mtf)

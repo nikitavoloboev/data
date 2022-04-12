@@ -111,3 +111,5 @@ There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/statu
 - [Awesome PhD](https://github.com/helenahartmann/awesome-PhD)
 - [I think US college education is nearer to collapsing than it appears (2022)](https://twitter.com/sama/status/1505597901011005442) ([HN](https://news.ycombinator.com/item?id=30744925))
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
+- [Agora Flat Online Classroom](https://flat.whiteboard.agora.io/en/) ([Code](https://github.com/netless-io/flat))
+- [Building e-learning applications with Daily (2022)](https://www.daily.co/blog/building-e-learning-applications-with-daily/)

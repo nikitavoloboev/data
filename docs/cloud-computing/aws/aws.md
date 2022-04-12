@@ -4,7 +4,7 @@ title: AWS
 
 # [AWS](https://aws.amazon.com/)
 
-AWS is genuinely pretty amazing for what it allows you to do. It also has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) seems nice.
+AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice.
 
 ## Interesting
 
@@ -333,3 +333,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Altimeter](https://github.com/tableau/altimeter) - Graph AWS resources in Neptune.
 - [python_fasts3](https://github.com/joshuarobinson/python_fasts3) - Fast S3 in Python using Rust.
 - [AWS RDS Terraform module](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS.
+- [goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3.

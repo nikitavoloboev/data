@@ -705,3 +705,8 @@
 - [MAXIM: Multi-Axis MLP for Image Processing (2022)](https://arxiv.org/abs/2201.02973) ([Code](https://github.com/google-research/maxim))
 - [Tensil tutorial for YOLO v4 Tiny on Ultra96 V2 (2022)](https://k155la3.blog/2022/04/04/tensil-tutorial-for-yolo-v4-tiny-on-ultra96-v2/)
 - [UNITER: UNiversal Image-TExt Representation Learning (2020)](https://arxiv.org/abs/1909.11740) ([Code](https://github.com/ChenRocks/UNITER))
+- [Consistent Depth of Moving Objects in Video (2021)](https://dynamic-video-depth.github.io/) ([Code](https://github.com/google/dynamic-video-depth))
+- [Bridging Video-text Retrieval with Multiple Choice Questions (2022)](https://arxiv.org/abs/2201.04850) ([Code](https://github.com/TencentARC/MCQ))
+- [Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation (2020)](https://arxiv.org/abs/2001.08735) ([Code](https://github.com/hytseng0509/CrossDomainFewShot))
+- [BACON: Band-limited Coordinate Networks for Multiscale Scene Representation (2022)](https://arxiv.org/abs/2112.04645) ([Code](https://github.com/computational-imaging/bacon))
+- [Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results (2022)](https://arxiv.org/abs/2204.03475) ([Code](https://github.com/Alibaba-MIIL/Solving_ImageNet))

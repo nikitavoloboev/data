@@ -107,3 +107,4 @@
 - [EasyBuild](https://easybuild.io/) - Software build and installation framework that allows you to manage (scientific) software on High Performance Computing (HPC) systems in an efficient way. ([Code](https://github.com/easybuilders/easybuild)) ([EasyBuild Configs](https://github.com/easybuilders/easybuild-easyconfigs))
 - [Advantages of Monorepos](https://danluu.com/monorepo/) ([HN](https://news.ycombinator.com/item?id=30945613))
 - [Bash Cache Buildkite Plugin](https://github.com/Automattic/bash-cache-buildkite-plugin) - Caching plugin that can be invoked from your build script.
+- [BuildCache](https://github.com/mbitsnbites/buildcache) - Advanced compiler accelerator that caches and reuses build results to avoid unnecessary re-compilations, and thereby speeding up the build process.

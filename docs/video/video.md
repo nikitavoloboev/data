@@ -91,7 +91,6 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Ask HN: Is it too late to start creating content on YouTube? (2020)](https://news.ycombinator.com/item?id=23444750)
 - [Cloudflare TV](https://cloudflare.tv/live) ([HN](https://news.ycombinator.com/item?id=23451334)) ([Article](https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/))
 - [VideoJS Plus](https://github.com/Pong420/videojs-plus) - Extension and skin for video.js.
-- [Daily.co](https://www.daily.co/) - 1-click video chat API.
 - [Thoughts on future of video & Zoom (2020)](https://twitter.com/gokulr/status/1269326413489815553)
 - [Unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface and Library to remove silent parts of a media file.
 - [toobnix](https://toobnix.org/) - Federated video service.

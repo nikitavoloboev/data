@@ -203,6 +203,14 @@ title: GitHub actions
 - [Auto Update](https://github.com/tibdex/auto-update) - Automatically keep pull requests with auto-merge enabled up to date with their base branch.
 - [GitHub Action Required Labels](https://github.com/mheap/github-action-required-labels) - Allows you to fail the build if/unless a certain combination of labels are applied to a pull request.
 - [Nested GitHub Runners Action](https://github.com/dougcalobrisi/nested-github-runners-action) - GitHub Action to run multiple self-hosted runners in a hosted GitHub Runner.
+- [Throttle](https://github.com/robyoung/throttle) - GitHub action for serializing jobs across workflow runs and more with Google Cloud Storage.
+- [Toot, together](https://github.com/joschi/toot-together) - GitHub action to toot from a repository.
+- [Open Issue Action](https://github.com/GuillaumeFalourd/open-issue-action) - GitHub Action to open a new issue on ANY GitHub repository that the PAT has access to.
+- [branch-names](https://github.com/tj-actions/branch-names) - GitHub action to retrieve the current branch or tag names with support for all events.
+- [BuildCache Action](https://github.com/mikehardy/buildcache-action) - GitHub Action to install and configure BuildCache for faster compilation.
+- [QEMU Action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support.
+- [Deploy-Pages](https://github.com/actions/deploy-pages) - Deploys artifacts to GitHub Pages.
+- [Prow Github Actions](https://github.com/jpmcb/prow-github-actions) - Slash commands, jobs, and chat-ops for Github actions inspired by Kubernetes Prow.
 
 ## Go
 
@@ -290,6 +298,7 @@ title: GitHub actions
 - [setup-kind](https://github.com/engineerd/setup-kind) - Setup KinD (Kubernetes in Docker) with a single GitHub Action.
 - [GitHub Action to set up Docker Buildx](https://github.com/docker/setup-buildx-action)
 - [bake-action](https://github.com/docker/bake-action) - GitHub Action to use Docker Buildx Bake as a high-level build command.
+- [repo2docker](https://github.com/jupyterhub/repo2docker-action) - GitHub action to build data science environment images with repo2docker and push them to registries.
 
 ## Kubernetes
 
@@ -337,6 +346,7 @@ title: GitHub actions
 ## Scala
 
 - [Scala Steward](https://github.com/scala-steward-org/scala-steward-action) - Github Action to launch Scala Steward in your repository.
+- [Setup Scala](https://github.com/olafurpg/setup-scala) - GitHub Action to install Java via Jabba and sbt.
 
 ## Electron
 

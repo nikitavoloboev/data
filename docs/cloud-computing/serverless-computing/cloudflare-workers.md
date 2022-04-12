@@ -143,3 +143,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [React 18's streams running on Cloudflare workers](https://github.com/threepointone/react-lazy-ssr-workers)
 - [TypeScript template for Cloudflare Workers](https://github.com/cloudflare/worker-typescript-template)
 - [Mantle - Serverless Maps using Lambda or Cloudflare Workers (2022)](https://protomaps.com/blog/serverless-self-hosted-maps/) ([HN](https://news.ycombinator.com/item?id=30948255))
+- [Cloudflare metrics worker](https://github.com/vanadium23/cf-metrics) - Send your page views from Cloudflare worker to InfluxDB.

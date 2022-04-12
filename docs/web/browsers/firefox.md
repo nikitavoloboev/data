@@ -1,3 +1,7 @@
+---
+title: Firefox
+---
+
 # [Firefox](https://www.mozilla.org/en-US/firefox/)
 
 ## Firefox internal links

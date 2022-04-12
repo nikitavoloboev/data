@@ -69,7 +69,7 @@ title: Speech recognition
 - [INTERSPEECH 2021](https://www.interspeech2021.org/)
 - [WER are we?](https://github.com/syhw/wer_are_we) - Tracking states of the art(s) and recent results on speech recognition.
 - [GigaSpeech](https://github.com/SpeechColab/GigaSpeech) - Large, modern dataset for speech recognition.
-- [Coqui STT](https://github.com/coqui-ai/STT) - Deep learning toolkit for Speech-to-Text, battle-tested in research and production.
+- [Coqui STT](https://github.com/coqui-ai/STT) - Deep learning toolkit for Speech-to-Text, battle-tested in research and production. ([Docs](https://stt.readthedocs.io/en/latest/)) ([Rust lib](https://github.com/tazz4843/coqui-stt))
 - [Coqui](https://coqui.ai/) - Startup providing open speech tech for everyone. ([GitHub](https://github.com/coqui-ai))
 - [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora) - List of accessible speech corpora for ASR, TTS, and other Speech Technologies.
 - [An Overview of Multi-Task Learning in Speech Recognition (2020)](http://jrmeyer.github.io/asr/2020/03/21/overview-mtl-in-asr.html)
@@ -119,3 +119,4 @@ title: Speech recognition
 - [Speech Super-resolution Evaluation and Benchmarking](https://github.com/haoheliu/ssr_eval)
 - [Real Time Speech Recognition with Gradio](https://gradio.app/real_time_speech_recognition/) ([HN](https://news.ycombinator.com/item?id=30850596))
 - [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques (2021)](https://arxiv.org/abs/2104.00931) ([Code](https://github.com/mindslab-ai/assem-vc))
+- [CoVoST: A Large-Scale Multilingual Speech-To-Text Translation Corpus](https://github.com/facebookresearch/covost)

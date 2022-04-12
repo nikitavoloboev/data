@@ -154,6 +154,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Inferno](https://www.vitanuova.com/inferno/) - Small operating system for building cross platform distributed systems. ([HN](https://news.ycombinator.com/item?id=30714509))
 - [Makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes-like OS on seL4.
 - [MOROS](https://github.com/vinc/moros) - Obscure Rust Operating System.
+- [House](https://github.com/dls/house) - Haskell Operating System. ([Video](https://www.youtube.com/watch?v=ZXGQL-qkNWY))
 
 ## Notes
 

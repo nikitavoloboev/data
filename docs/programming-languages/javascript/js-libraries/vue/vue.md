@@ -141,3 +141,4 @@ title: Vue.js
 - [Veaury](https://github.com/devilwjp/veaury) - Use React in Vue3 and Vue3 in React, And as perfect as possible.
 - [Vue Starport](https://github.com/antfu/vue-starport) - Shared component across routes with animations.
 - [v-shared-element](https://github.com/justintaddei/v-shared-element) - Declarative shared-element transitions for Vue.js.
+- [Vite Plugin Vue](https://github.com/underfin/vite-plugin-vue2)

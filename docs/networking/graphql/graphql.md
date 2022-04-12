@@ -313,3 +313,4 @@ title: GraphQL
 - [GraphDoc](https://graphdoc.io/) - Instant, beautiful docs for your GraphQL API. ([Code](https://github.com/launchport/graphdoc))
 - [Rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources. ([Web](https://rejoiner.io/))
 - [GraphQL-Server](https://github.com/graphql-python/graphql-server) - Base library that serves as a helper for building GraphQL servers or integrations into existing web frameworks using GraphQL-Core.
+- [Grafbase](https://grafbase.com/) - Deploy globally fast GraphQL APIs with a top-notch developer experience.

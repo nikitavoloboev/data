@@ -6,6 +6,10 @@ title: swc
 
 > Super-fast TS/JS compiler written in rust
 
+## Notes
+
+- [AST Explorer supports swc](https://twitter.com/jantimon/status/1513451535916838914)
+
 ## Links
 
 - [swc plugins](https://github.com/swc-project/plugins)

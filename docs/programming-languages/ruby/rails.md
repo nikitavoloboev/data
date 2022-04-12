@@ -9,6 +9,7 @@ title: Rails
 ## Notes
 
 - [Render.com can host Rails code bases nicely](https://twitter.com/signalnerve/status/1462171434147532801)
+- [I found in Rails that my controllers stopped mapping 1:1 to my models very quickly, but rather mapped to the URL of the UI.](https://twitter.com/ryanflorence/status/1513210933442596864)
 
 ## Links
 
@@ -153,3 +154,4 @@ title: Rails
 - [Hotrails](https://www.hotrails.dev/) - Learn modern Ruby on Rails with Hotwire.
 - [PgSearch](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search.
 - [Simplify Rails Views Using ViewComponents with Tailwind CSS and RSpec (2022)](https://stefcoetzee.com/rails-viewcomponent-rspec-tailwind)
+- [Lookbook](https://github.com/allmarkedup/lookbook) - Native development UI for ViewComponent.

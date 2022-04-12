@@ -48,6 +48,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Pokémon Showdown](https://pokemonshowdown.com/) - Pokémon battle simulator. ([Code](https://github.com/smogon/pokemon-showdown))
 - [Prince of Persia in JavaScript](https://princejs.com/) ([HN](https://news.ycombinator.com/item?id=29710538)) ([Code](https://github.com/oklemenz/PrinceJS))
 - [Wordle](https://www.nytimes.com/games/wordle/index.html) - Daily word game. ([HN](https://news.ycombinator.com/item?id=30293297)) ([Wordle Archive](https://metzger.media/games/wordle-archive/)) ([Wordle Is a Love Story](https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html))
+- [hello wordl](https://hellowordl.net/) - Wordle but you can play forever. ([Code](https://github.com/lynn/hello-wordl))
 - [Word Master](https://octokatherine.github.io/word-master/) - Heavily inspired by Wordle. Word guessing game similar to Mastermind. ([Code](https://github.com/octokatherine/word-master))
 - [Worldledge](https://github.com/rauchg/wordledge) - Implementation of Wordle to help you learn Next.js and Vercel.
 - [Looptap](https://looptap.vasanthv.com/) - Minimal game to waste your time. ([HN](https://news.ycombinator.com/item?id=29921419))
@@ -148,6 +149,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Open Golf](https://github.com/mgerdes/Open-Golf) - Cross-platform minigolf game written in C. ([HN](https://news.ycombinator.com/item?id=30789387))
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source re-implementation of RollerCoaster Tycoon 2. ([Web](https://openrct2.io/))
 - [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) - Limit-removing enhanced-resolution Doom source port based on Chocolate Doom. ([HN](https://news.ycombinator.com/item?id=29882027))
+- [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
 
 ## Awesome games (other)
 

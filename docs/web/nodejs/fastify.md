@@ -49,3 +49,5 @@ title: Fastify
 - [fastify-error](https://github.com/fastify/fastify-error) - Small utility, used by Fastify itself, for generating consistent error objects across your codebase and plugins.
 - [GraphQL server with Fastify and Mercurius workshop](https://github.com/nearform/the-graphql-workshop)
 - [fastify-isolate](https://github.com/mcollina/fastify-isolate) - Loads a fastify plugin into a separate V8 isolate.
+- [GraphQL Fastify Server](https://github.com/rpvsilva/graphql-fastify-server) - Implementation of GraphQL.
+- [GraphQL Fastify Client](https://github.com/rpvsilva/graphql-fastify-client)

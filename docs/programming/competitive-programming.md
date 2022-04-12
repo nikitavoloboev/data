@@ -44,3 +44,4 @@
 - [CodeContests](https://github.com/deepmind/code_contests) - Competitive programming dataset for machine-learning. This dataset was used when training AlphaCode.
 - [AlphaCode as a dog speaking mediocre English (2022)](https://scottaaronson.blog/?p=6288) ([HN](https://news.ycombinator.com/item?id=30230867))
 - [LeetCode Ranking](https://github.com/mintutu/leetcode-country-ranking) - Find Leetcode ranking by country, username.
+- [MAXimal](http://e-maxx.ru/) ([Code](https://github.com/e-maxx-eng/e-maxx-eng))

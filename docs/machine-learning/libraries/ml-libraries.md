@@ -322,3 +322,5 @@
 - [Vertex AI SDK for Python](https://github.com/googleapis/python-aiplatform) - Python SDK for Vertex AI, a fully managed, end-to-end platform for data science and machine learning.
 - [Tempo](https://github.com/SeldonIO/tempo) - MLOps Python Library.
 - [LightFM](https://github.com/lyst/lightfm) - Python implementation of LightFM, a hybrid recommendation algorithm.
+- [fklearn](https://github.com/nubank/fklearn) - Functional Machine Learning.
+- [Transformer PhysX](https://github.com/zabaras/transformer-physx) - Transformers for modeling physical systems.

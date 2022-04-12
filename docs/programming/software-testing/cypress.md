@@ -51,3 +51,4 @@ title: Cypress
 - [My favorite Cypress plugins (2021)](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)
 - [Cypress Tips Advent Calendar 2021](https://cypresstips.substack.com/p/my-favorite-cypress-plugins-part)
 - [Stop writing nextTick in your component tests](https://jess.sh/blog/stop-writing-next-tick)
+- [Combining Storybook, Cypress and Jest Code Coverage](https://github.com/penx/storybook-code-coverage)

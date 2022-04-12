@@ -44,3 +44,4 @@
 - [Arduino Cryptography Library](https://github.com/rweather/arduinolibs)
 - [Sbus](https://github.com/bolderflight/sbus) - Arduino and CMake library for communicating with SBUS receivers and servos.
 - [AVR Arduino Zig](https://github.com/FireFox317/avr-arduino-zig)
+- [TaskManagerIO](https://github.com/davetcc/TaskManagerIO) - Task, event, scheduling, and interrupt marshalling library for Arduino and mbed boards.

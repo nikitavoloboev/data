@@ -213,3 +213,5 @@ All active variables can be seen by running `env`.
 - [Nice scripting languages](https://twitter.com/mgattozzi/status/1511036916615069705)
 - [Pipr](https://github.com/elkowar/pipr) - Tool to interactively write shell pipelines.
 - [Terminal Colors](https://github.com/termstandard/colors) - Color standards for terminal emulators.
+- [asciinema virtual terminal](https://github.com/asciinema/vt-rs)
+- [asciinema-rs](https://github.com/LegNeato/asciinema-rs) - Asciinema client written in Rust.

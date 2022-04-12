@@ -149,3 +149,4 @@
 - [gProfiler](https://github.com/Granulate/gprofiler) - System-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - [Apple Silicon Guide](https://github.com/mikeroyal/Apple-Silicon-Guide)
 - [Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison (2022)](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/) ([HN](https://news.ycombinator.com/item?id=30923153))
+- [Crash course introduction to parallelism: Multithreading (2022)](https://johnysswlab.com/crash-course-introduction-to-parallelism-multithreading/) ([Reddit](https://www.reddit.com/r/cpp/comments/u0nwnl/for_beginners_a_crash_course_introduction_to/))

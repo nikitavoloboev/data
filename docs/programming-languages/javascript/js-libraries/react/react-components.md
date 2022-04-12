@@ -297,6 +297,10 @@
 - [React Spotify Web Playback SDK](https://github.com/y-hiraoka/react-spotify-web-playback-sdk) - React wrapper for Spotify Web Playback SDK.
 - [Font Picker for React](https://github.com/samuelmeuli/font-picker-react) - Font selector component for Google Fonts.
 - [dayzed](https://github.com/deseretdigital/dayzed) - Primitives to build simple, flexible, WAI-ARIA compliant React date-picker components.
+- [React Infinite Scroll](https://github.com/ankeetmaini/react-infinite-scroll-component) - Awesome Infinite Scroll component in react.
+- [React Fast Marquee](https://github.com/justin-chu/react-fast-marquee) - Lightweight React component that utilizes the power of CSS animations to create silky smooth marquees.
+- [React Mentions](https://github.com/signavio/react-mentions) - React component that let's you mention people in a textarea like you are used to on Facebook or Twitter.
+- [Selecto.js](https://github.com/daybrush/selecto) - Component that allows you to select elements in the drag area using the mouse or touch.
 
 ## Links
 

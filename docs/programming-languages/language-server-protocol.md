@@ -25,3 +25,4 @@ title: Language Server Protocol
 - [A simple tool kit helping you create language server with Rust (2022)](https://www.reddit.com/r/rust/comments/sszwvz/a_simple_tool_kit_helping_you_create_language/)
 - [Boilerplate for a rust language server powered by tower-lsp](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate)
 - [pygls](https://github.com/openlawlibrary/pygls) - Pythonic generic implementation of the Language Server Protocol.
+- [Linol](https://github.com/c-cube/linol) - Wrapper around the OCaml `lsp` library to make it easier to write LSP servers.

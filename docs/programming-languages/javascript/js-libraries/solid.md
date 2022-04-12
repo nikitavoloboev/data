@@ -11,6 +11,7 @@ title: SolidJS
 ## OSS apps
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
+- [Solid Storefront](https://github.com/zaiste/solid-storefront) - Open-source e-commerce storefront in Solid.js with TypeScript, GraphQL, URQL & Tailwind CSS.
 
 ## Links
 

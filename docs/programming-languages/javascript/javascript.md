@@ -426,3 +426,4 @@ if (
 - [JS Event Loop Visualizer](https://www.jsv9000.app/) ([Tweet](https://twitter.com/elmd_/status/1508743380859338768))
 - [Google Closure Compiler NPM](https://github.com/google/closure-compiler-npm) - Check, compile, optimize and compress JavaScript with Closure-Compiler.
 - [unminify](https://github.com/xfthhxk/unminify) - Unminifies JS stacktrace errors.
+- [JavaScript on GraalVM](https://github.com/oracle/graaljs) - High performance implementation of the JavaScript programming language. Built on the GraalVM by Oracle Labs.

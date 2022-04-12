@@ -44,3 +44,4 @@
 - [Infinite series reveal the unity of mathematics (2022)](https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/) ([HN](https://news.ycombinator.com/item?id=30214878))
 - [Number Sets](https://thinkzone.wlonk.com/Numbers/NumberSets.htm)
 - [Complex Numbers in Rust (2022)](https://www.sotr.blog/articles/complex-numbers)
+- [Predicting Prime Numbers Using Cartesian Genetic Programming](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.565.6802&rep=rep1&type=pdf)

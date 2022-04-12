@@ -699,3 +699,8 @@ title: Kubernetes
 - [MPI Operator](https://github.com/kubeflow/mpi-operator) - Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.).
 - [Node Feature Discovery Operator](https://github.com/kubernetes-sigs/node-feature-discovery-operator) - Operator for managing Node Feature Discovery deployment.
 - [Node Feature Discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - Node feature discovery for Kubernetes.
+- [Kepler (Kubernetes-based Efficient Power Level Exporter)](https://github.com/sustainable-computing-io/kepler) - Uses eBPF to probe energy related system stats and exports as Prometheus metrics.
+- [Tekton TaskGroup Custom Task](https://github.com/openshift-pipelines/tekton-task-group) - Allows to group Task together as a Task.
+- [Container Runtime Interface (CRI)](https://github.com/kubernetes/cri-api) - Plugin interface which enables kubelet to use a wide variety of container runtimes.
+- [Kyma](https://kyma-project.io/) - Easy way to extend enterprise applications on Kubernetes. ([Code](https://github.com/kyma-project/kyma))
+- [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize RBAC roles for the specified subject (ServiceAccount, User and Group).

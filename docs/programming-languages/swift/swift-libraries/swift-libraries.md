@@ -315,6 +315,7 @@
 - [HTMLString](https://github.com/alexisakers/HTMLString) - Escape and unescape HTML entities in Swift.
 - [Socket](https://github.com/PureSwift/Socket) - Swift async/await based socket.
 - [DOMKit](https://github.com/swiftwasm/DOMKit) - Type-safe access to DOM APIs from Swift.
+- [Arachne](https://github.com/artemisia-absynthium/arachne) - Networking layer for apps using Swift Concurrency.
 
 ## SwiftUI
 
@@ -475,6 +476,7 @@
 - [SwiftUI Animation](https://github.com/Arvindcs/SwiftUI-Animation)
 - [Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) - Declarative state management and dependency injection library for SwiftUI x Concurrency.
 - [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols) - High readable code with SFSymbols.
+- [Color Kit](https://github.com/kieranb662/SwiftUI-Color-Kit) - SwiftUI Color Pickers, Gradient Pickers And All The Utilities Needed To Make Your Own.
 
 ## Test
 
@@ -1070,6 +1072,7 @@
 - [HeckelDiff](https://github.com/mcudich/HeckelDiff) - Fast Swift diffing library.
 - [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Lightweight Swift Library that provides an easy way to work with location-related functionalities.
 - [Feedbacks](https://github.com/CombineCommunity/Feedbacks) - Tool to build feedback loops within a Swift based application. Feedbacks relies on Combine and is compatible with SwiftUI and UIKit.
+- [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) - Fast & Lightweight MsgPack Serializer & Deserializer for Swift.
 
 ## Other (not lib)
 

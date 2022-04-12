@@ -37,3 +37,4 @@ title: MDX
 - [MDX Pretty Code](https://github.com/atomiks/mdx-pretty-code) - Simply beautiful syntax highlighting for your MDX docs.
 - [Type Checking MDX in Storybook](https://github.com/Yama-Tomo/type-checking-MDX-in-storybook)
 - [Awesome MDX](https://github.com/mdx-js/awesome)
+- [MDX Debugger](https://github.com/pomber/mdx-debugger) - Dev tool to inspect the ast transformations done remark and rehype plugins during MDX compilation.

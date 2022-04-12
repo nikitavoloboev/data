@@ -1,5 +1,7 @@
 # Nomad
 
+[Nomad Capitalist](https://www.youtube.com/c/nomadcapitalist/videos) is a nice channel.
+
 ## Links
 
 - [Going nomad](https://krausefx.com/blog/going-nomad)
@@ -13,3 +15,4 @@
 - [Most Liked Places with Many Nomads for Families to Live](https://nomadlist.com/most-liked-places-with-many-nomads-for-families-to-live)
 - [Where would be an awesome place to work remotely (with a family) for a month? (2021)](https://twitter.com/Austen/status/1419332623420198919)
 - [Ask HN: Where can I live off 1k USD per month? (2021)](https://news.ycombinator.com/item?id=28309520)
+- [Nomad Capitalist - YouTube](https://www.youtube.com/c/nomadcapitalist/videos)

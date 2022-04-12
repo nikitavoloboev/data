@@ -109,3 +109,5 @@
 - [WarpDrive Go](https://github.com/quackduck/warpdrive-go) - Warp across your filesystem in ~5 ms.
 - [HashFS](https://github.com/dgilland/hashfs) - Content-addressable file management system.
 - [The Unexpected Importance of the Trailing Slash (2022)](https://tookmund.com/2022/04/importance-of-the-trailing-slash) ([HN](https://news.ycombinator.com/item?id=30965200))
+- [pingfs](https://github.com/yarrick/pingfs) - File system where the data is stored only in the Internet itself,
+as ICMP Echo packets (pings) traveling from you to remote servers and back again.

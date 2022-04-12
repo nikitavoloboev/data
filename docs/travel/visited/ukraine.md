@@ -1,10 +1,10 @@
 # Ukraine
 
-It's unfortunate [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russian](russia.md) 'leaders' decisions. Instead of [wasting lives and finances](https://www.reddit.com/r/worldnews/comments/svv2oj/biden_says_hes_now_convinced_putin_has_decided_to/hxifwk0/?context=3) on [waging war](https://twitter.com/ChrisMurphyCT/status/1494428782823890944) on both its neighbors and its own citizens, it would be great if they focused in improving the well being of the population.
+It's unfortunate [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russian](russia.md) 'leaders' decisions. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://twitter.com/ChrisMurphyCT/status/1494428782823890944) on both its neighbors and its own citizens, it would be great if they focused on improving the well being of the population.
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
-I hope once Putin finally loses power, Russia stops unlawfully occupying and harassing Ukraine and pays for the damage it inflicted on the country.
+I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt.
 
 ## Links
 
@@ -137,3 +137,6 @@ I hope once Putin finally loses power, Russia stops unlawfully occupying and har
 - [У Кремля три варианта для Украины, любой устроит Путина – Алексей Арестович (2018)](https://www.youtube.com/watch?v=n7xCO2HHJj0)
 - [Алексей Арестович про методы работы спецслужб (2017)](https://www.youtube.com/watch?v=uDg_fvcig9I)
 - [Мариуполь после](https://twitter.com/ian_matveev/status/1512077114660442118)
+- [Mariupol](https://twitter.com/MaximEristavi/status/1513576913431941135)
+- [Мама опознает тело сына, сброшенное в колодец в Киевской области](https://twitter.com/CurrentTimeTv/status/1513559140551041027)
+- [Bucha’s Month of Terror (2022)](https://twitter.com/bariweiss/status/1513586017441181696)

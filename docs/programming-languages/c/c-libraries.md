@@ -54,6 +54,10 @@
 
 - [Calcium](https://github.com/fredrik-johansson/calcium) - Exact real and complex numbers in C.
 
+## Crypto
+
+- [libmongocrypt](https://github.com/mongodb/libmongocrypt) - C library for Client Side Encryption.
+
 ## Other
 
 - [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc implementation that emphasizes fragmentation avoidance and scalable concurrency support.

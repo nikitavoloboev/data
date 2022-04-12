@@ -56,7 +56,7 @@
 - [presta](https://github.com/sure-thing/presta) - Hyper minimal framework for the modern web. ([Web](https://presta.run/))
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
 - [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play)) ([Tweet](https://twitter.com/jlengstorf/status/1442707241627385860))
-- [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients.
+- [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients. ([Examples](https://github.com/logux/examples))
 - [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews)) ([Exploring Qwik, the Resumable Framework](https://www.youtube.com/watch?v=gT5NWKZZPQM)) ([Building Qwik w/ Misko Hevery](https://www.youtube.com/watch?v=lY6e7Hw4uVo)) ([Tweet](https://twitter.com/_egoistlily/status/1495002599342620672))
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
@@ -898,6 +898,8 @@
 - [Template Parts](https://github.com/github/template-parts) - Implementation of the Template Parts proposal.
 - [Iterators](https://github.com/stdlib-js/iter) - Standard library iterator utilities.
 - [MojiScript](https://github.com/joelnet/MojiScript) - Async-first, opinionated, and functional library.
+- [destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse.
+- [ensdomains/ui](https://github.com/ensdomains/ui) - Reusable functions and components for the ENS apps.
 
 ## Links
 

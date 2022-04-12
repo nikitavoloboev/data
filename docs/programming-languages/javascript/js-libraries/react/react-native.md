@@ -6,7 +6,7 @@ title: React Native
 
 [Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts. [React Native Url Router](https://github.com/software-mansion-labs/react-native-url-router) is neat router.
 
-[zART-Stack](https://github.com/KATT/zart) seems nice.
+[zART-Stack](https://github.com/KATT/zart) & [React Native template with goodies](https://github.com/gabrielmoncea/react-native-template) seem like nice starters.
 
 ## Nice OSS RN apps
 
@@ -18,6 +18,9 @@ title: React Native
 - [React Native WYSIWYG](https://github.com/shakogegia/markdown-editor) - React Native markdown editor.
 - [Blank Solito Example Monorepo](https://github.com/flexbox/react-native-nextjs-monorepo)
 - [Billy](https://github.com/lyqht/Billy) - Bill Tracker App, made with React Native + Typescript.
+- [Starter shell for React Native project with Detox tests running on Github Actions](https://github.com/edvinasbartkus/react-native-detox-github-actions)
+- [React Native Template TypeScript with Goodies](https://github.com/gabrielmoncea/react-native-template)
+- [React Native Template Strong](https://github.com/svbutko/react-native-template-strong) - Quick, opinionated, documented and strong beginning for your next project.
 
 ## Notes
 
@@ -236,3 +239,5 @@ title: React Native
 - [React Native Safe Area Context](https://github.com/th3rdwave/react-native-safe-area-context) - Flexible way to handle safe area insets in JS.
 - [React Native Hold Menu](https://github.com/enesozturk/react-native-hold-menu) - Performant, easy to use hold to open context menu for React Native powered by Reanimated.
 - [React Native Swipeable Panel](https://github.com/enesozturk/rn-swipeable-panel) - Swipeable, easy to use bottom panel for your React Native projects.
+- [React Native Sodium JSI](https://github.com/standardnotes/react-native-sodium-jsi) - Precompiled binaries of libsodium will be linked by default.
+- [React Native SHA library](https://github.com/henrhie/react-native-sha) - Fast Secure Hash Algorithm solution for React Native with direct C++ bindings.

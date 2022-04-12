@@ -74,3 +74,4 @@
 - [WordPlay](https://wordplay.com/daily) - Word guessing game similar to the web game Wordle.
 - [Machine Translate](https://machinetranslate.org/) - Open resources and community for machine translation. ([Code](https://github.com/machinetranslate/machinetranslate.org))
 - [Wordle Analyzer](https://wordle-analyzer.com/) ([Code](https://github.com/jakearchibald/wordle-analyzer/))
+- [Chatterbug](https://chatterbug.com/en/) - Learn Languages Online and Talk with Native Speakers.

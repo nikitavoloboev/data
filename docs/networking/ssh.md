@@ -111,3 +111,4 @@
 - [ShellHub](https://www.shellhub.io/) - Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing. ([Code](https://github.com/shellhub-io/shellhub))
 - [SSH Slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH.
 - [Tunnel-SSH](https://github.com/agebrock/tunnel-ssh) - Easy SSH tunneling.
+- [Warpgate](https://github.com/Eugeny/warpgate) - Smart SSH bastion host for Linux that can be used with any SSH client.

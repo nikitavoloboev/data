@@ -76,3 +76,5 @@ title: Prometheus
 - [prometheus-web](https://github.com/marigold-dev/prometheus-web) - Helpers to use the prometheus library with different web frameworks.
 - [Prometheus metric storage](https://github.com/cowprotocol/prometheus-metric-storage) - Derive macro to instantiate and register prometheus metrics without having to write tons of boilerplate code.
 - [Apache Exporter for Prometheus](https://github.com/Lusitaniae/apache_exporter)
+- [Prometheus Compliance Tests](https://github.com/prometheus/compliance) - Set of tests to check compliance with various Prometheus interfaces.
+- [prometheus-query](https://github.com/samber/prometheus-query-js) - JavaScript client for Prometheus query API.

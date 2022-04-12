@@ -8,6 +8,7 @@ title: Discord
 
 ## Bots
 
+- [SafetyJim](https://github.com/Samoxive/SafetyJim) - Moderation bot for discord.
 - [YAGPDB](https://github.com/botlabs-gg/yagpdb) - Multifunctional, modular Discord bot. ([Web](https://yagpdb.xyz/))
 - [Skyra](https://github.com/skyra-project/skyra) - All-in-one multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability. ([Web](https://skyra.pw/))
 - [Shinpuru](https://github.com/zekroTJA/shinpuru) - Discord Bot with backups, moderation, karma ranking, a starboard, code execution, raid alerting, a web interface, twitch notifications and more.
@@ -145,3 +146,4 @@ title: Discord
 - [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) - Completely native Discord client for macOS built 100% in Swift and SwiftUI.
 - [Sentry Webhook](https://github.com/auguwu/sentry-webhook) - Simple webhook worker for Sentry to output events in a Discord channel.
 - [How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku (2022)](https://www.youtube.com/watch?v=Wtqq0-yYKps)
+- [Enmity](https://github.com/enmity-mod/enmity) - iOS Discord client modification.

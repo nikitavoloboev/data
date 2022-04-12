@@ -1,3 +1,7 @@
+---
+title: Safari
+---
+
 # [Safari](https://www.apple.com/lae/safari/)
 
 My favorite browser. It is incredibly fast & cares about my privacy unlike Chrome.

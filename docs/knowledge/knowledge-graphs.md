@@ -115,3 +115,5 @@
 - [KBLRN : End-to-End Learning of Knowledge Base Representations with Latent, Relational, and Numerical Features (2017)](https://arxiv.org/abs/1709.04676) ([Code](https://github.com/mniepert/mmkb))
 - [wikicodex](https://github.com/keroserene/wikicodex) - Knowledge graph traversal interface for Wikipedia.
 - [LinkedDataHub](https://github.com/AtomGraph/LinkedDataHub) - Open source software you can use to manage data, create visualizations and build apps on RDF Knowledge Graphs.
+- [System Graph](https://system.com/graph) - Free, open, and living public resource that aims to explain how anything in the world is connected to everything else.
+- [Knowledge Infused Decoding (2021)](https://openreview.net/forum?id=upnDJ7itech) ([Code](https://github.com/microsoft/KID))

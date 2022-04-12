@@ -265,3 +265,7 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [The Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/)
 - [Bogleheads Blog](https://www.bogleheads.org/blog/)
 - [What are the best books about investing, finance, or money management? (2022)](https://www.reddit.com/r/Bogleheads/comments/u0gpp4/what_are_the_best_books_about_investing_finance/)
+- [Tai](https://github.com/fremantle-industries/tai) - Composable, real time, market data and trade execution toolkit. Built with Elixir.
+- [Prop](https://github.com/fremantle-industries/prop) - Open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
+- [Workbench](https://github.com/fremantle-industries/workbench) - Manage your trading operation across a distributed cluster.
+- [History](https://github.com/fremantle-industries/history) - Download and warehouse historical trading data.

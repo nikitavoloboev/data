@@ -49,6 +49,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [Michael Lingelbach](https://github.com/mjlbach/dotfiles)
 - [Peter Piekarczyk](https://github.com/peterpme/dotfiles)
 - [Andrew Gallant](https://github.com/BurntSushi/dotfiles)
+- [Nick Nisi](https://github.com/nicknisi/dotfiles) - Vim, zsh, git, homebrew, neovim.
 
 ## Links
 

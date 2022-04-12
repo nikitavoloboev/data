@@ -221,6 +221,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [SingleStore](https://www.singlestore.com/) - Unified database for data-intensive applications. ([Twitter](https://twitter.com/SingleStoreDB)) ([Flexible Parallelism in SingleStoreDB](https://www.singlestore.com/blog/flexible-parallelism-in-singlestoredb/))
 - [Apache Impala](https://github.com/apache/impala) - Lightning-fast, distributed SQL queries for petabytes of data stored in Apache Hadoop clusters.
 - [RisingWave](https://github.com/singularity-data/risingwave) - Cloud-native streaming database that uses SQL as the interface language.
+- [RunKV](https://github.com/MrCroxx/RunKV) - Experimental cloud-native distributed KV engine for OLTP workload.
 
 ## Tools
 

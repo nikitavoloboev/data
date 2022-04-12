@@ -1,3 +1,7 @@
+---
+title: Stylish
+---
+
 # [Stylish](https://userstyles.org) themes
 
 I once used [Cascadea](https://cascadea.app) Safari Extension to change the looks of sites to have darker colors. The extension lets you import any of [Stylish themes](https://userstyles.org). Here is a [download of all the Cascadea styles I used](https://www.dropbox.com/s/dcnhujryt0ydft5/Cascadea%20Styles.sdb?dl=1). For sites I didn't modify with Cascadea, I ran [Dark Reader](https://darkreader.org/) extension which automatically turns all websites dark although with some performance overhead.

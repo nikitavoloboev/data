@@ -54,3 +54,5 @@ title: Electron
 - [Best way to build Electron apps with security in mind](https://github.com/reZach/secure-electron-template)
 - [Electron DevTools Installer](https://github.com/MarshallOfSound/electron-devtools-installer) - Easy way to ensure Chrome DevTools extensions into Electron.
 - [Ask HN: Why aren't there any real alternatives to Electron? (2022)](https://news.ycombinator.com/item?id=30810724)
+- [Create Svelte+Electron App](https://github.com/soulehshaikh99/create-svelte-electron-app)
+- [Electron Inject](https://github.com/tintinweb/electron-inject) - Inject JavaScript into closed source electron applications e.g. to enable developer tools for debugging.

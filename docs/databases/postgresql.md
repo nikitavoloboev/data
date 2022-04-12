@@ -467,3 +467,5 @@ title: PostgreSQL
 - [pg_migrate](https://github.com/phillbaker/pg_migrate) - Perform schema changes in PostgreSQL with minimal locks.
 - [How Postgres Chooses Which Index To Use For A Query (2022)](https://pganalyze.com/blog/how-postgres-chooses-index)
 - [Postgres everywhere. SQLite is embedded everywhere. Will Postgres follow suit? (2022)](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
+- [icu_ext](https://github.com/dverite/icu_ext) - PostgreSQL extension (in C) to expose functionality from the ICU library.
+- [pg-simplify-inflector](https://github.com/graphile/pg-simplify-inflector) - Simplifies the graphile-build-pg inflector to trim the `ByFooIdAndBarId` from relations.

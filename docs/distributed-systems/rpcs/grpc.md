@@ -4,7 +4,7 @@ title: gRPC
 
 # [gRPC](https://grpc.io)
 
-[gRPC UI](https://github.com/fullstorydev/grpcui) & [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
+[gRPC UI](https://github.com/fullstorydev/grpcui), [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) & [Wombat](https://github.com/rogchap/wombat) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
 
 ## Links
 
@@ -105,3 +105,4 @@ title: gRPC
 - [clay](https://github.com/utrack/clay) - Minimal server platform for gRPC and REST+Swagger APIs in Go.
 - [grpc-build](https://github.com/stefandanaita/grpc-build) - Flexible way to manage protobuf files and generate the gRPC code required by tonic.
 - [gRPC Kit](https://github.com/chainguard-dev/go-grpc-kit) - Utility methods for gRPC.
+- [falafel](https://github.com/lightninglabs/falafel) - Go tool to generate go APIs for gRPC services for use on mobile/WASM platforms.

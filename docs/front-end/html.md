@@ -244,3 +244,4 @@ title: HTML
 - [Picture perfect images with the modern img element (2022)](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/)
 - [How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List (2022)](https://www.smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/)
 - [Designing Better Breadcrumbs (2022)](https://www.smashingmagazine.com/2022/04/designing-better-breadcrumbs/)
+- [HTML to Text](https://github.com/html-to-text/node-html-to-text) - Advanced converter that parses HTML and returns beautiful text.

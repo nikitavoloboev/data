@@ -233,3 +233,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [gmail-yaml-filters](https://github.com/mesozoic/gmail-yaml-filters) - Quick tool for generating Gmail filters from YAML rules.
 - [MailAuth](https://github.com/postalsys/mailauth) - Command line utility and a Node.js library for email authentication.
 - [An Ode to Apple’s Hide My Email (2022)](https://empty.coffee/an-ode-to-apples-hide-my-email/) ([HN](https://news.ycombinator.com/item?id=30979563))
+- [Email OAuth 2.0 Proxy](https://github.com/simonrob/email-oauth2-proxy) - IMAP/SMTP proxy that transparently adds OAuth 2.0 authentication for client applications that don't support this method.
+- [go-milter](https://github.com/emersion/go-milter) - Go library to write mail filters.

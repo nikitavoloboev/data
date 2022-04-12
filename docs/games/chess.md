@@ -187,3 +187,6 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Lichess Variants](https://lichess.org/variant) - Crazyhouse, Chess960, King of the Hill, Three-Check, etc.
 - [chs](https://github.com/nickzuber/chs) - Play chess against the Stockfish engine in your terminal.
 - [Avalanche](https://github.com/SnowballSH/Avalanche) - Chess Engine written in Zig with neural evaluations.
+- [The Secrets of Zugzwang in Chess, Math and Pizzas](https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/)
+- [lila-ws](https://github.com/lichess-org/lila-ws) - Lichess' websocket server.
+- [lila-http](https://github.com/lichess-org/lila-http) - Take some of the HTTP load away from lila.

@@ -33,3 +33,5 @@ title: Standard ML
 - [sml-server](https://github.com/diku-dk/sml-server) - Web server infrastructure for Standard ML.
 - [sml-parseq](https://github.com/shwestrick/sml-parseq) - Standard ML library for parallel sequences.
 - [MPL](https://github.com/MPLLang/mpl) - MaPLe compiler for Parallel ML.
+- [I'm ready: Let the 100 year programs begin](http://len.falken.directory/p-lang/100-year-programs.txt) ([Lobsters](https://lobste.rs/s/zygrvh/i_m_ready_let_100_year_programs_begin))
+- [Lexer and parser generators for Standard ML, OCaml, and Haskell](https://github.com/kcrary/cmtool)

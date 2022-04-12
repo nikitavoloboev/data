@@ -207,6 +207,9 @@
 - [transcriptor](https://github.com/cognitect-labs/transcriptor) - Convert REPL interactions into example-based tests.
 - [deps-bin](https://github.com/ericdallo/deps-bin) - Clojure library that builds an embedded executable jar.
 - [lsp4clj](https://github.com/clojure-lsp/lsp4clj) - LSP base support for any LSP that is implemented in Clojure.
+- [Chisel](https://github.com/janherich/chisel) - 3D modelling & slicing software written in Clojure, where you work directly from Clojure REPL, primary by specifying parametric curves & patches.
+- [build-clj](https://github.com/seancorfield/build-clj) - Common build tasks abstracted into a library.
+- [Tea-Time](https://github.com/aphyr/tea-time) - Lightweight Clojure task scheduler.
 
 ## Links
 

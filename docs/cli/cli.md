@@ -115,3 +115,6 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Difftastic](https://github.com/Wilfred/difftastic) - Diff tool that compares files based on their syntax. ([HN](https://news.ycombinator.com/item?id=30841244))
 - [Goreman](https://github.com/mattn/goreman) - Manage Procfile-based applications.
 - [Testing your CLI](https://github.com/google/go-cmdtest) - Go package simplifies testing of command-line interfaces.
+- [Periscope](https://github.com/anishathalye/periscope) - Gives you "duplicate vision" to help you organize and de-duplicate your files without losing data.
+- [Wiki CLI](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI.
+- [tush](https://github.com/darius/tush) - Literate testing for command-line programs.

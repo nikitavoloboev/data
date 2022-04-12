@@ -111,6 +111,8 @@ title: Obsidian
 - [Advanced Tables](https://github.com/tgrosinger/advanced-tables-obsidian) - Add improved navigation, formatting, and manipulation to markdown tables in Obsidian.
 - [Recent Files](https://github.com/tgrosinger/recent-files-obsidian) - Display a list of most recently opened files.
 - [Ledger](https://github.com/tgrosinger/ledger-obsidian) - Personal finance tracking and planning, from the comfort of Obsidian.
+- [Quick Explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar.
+- [Obsidian Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 
 ## Themes
 

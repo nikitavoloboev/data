@@ -51,6 +51,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Express Zod API](https://github.com/RobinTail/express-zod-api) - Typescript library to help you get an API server up and running with I/O schema validation and custom middlewares in minutes.
 - [Spot](https://github.com/airtasker/spot) - Concise, developer-friendly way to describe your API contract.
 - [PostHTML Render](https://github.com/posthtml/posthtml-render) - Render PostHTMLTree to HTML/XML.
+- [Ionic](https://ionic.io/) - Enterprise App Development & Delivery Platform. ([Code](https://github.com/ionic-team/ionic-framework)) ([Twitter](https://twitter.com/Ionicframework)) ([Tweet](https://twitter.com/93alan/status/1512587338962116611))
 
 ## Test
 
@@ -450,6 +451,13 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [martha](https://github.com/selfawarestudio/martha) - Tiny collection of convenient JavaScript utilities.
 - [tson](https://github.com/skarab42/tson) - Type Safe Object Notation & Validation.
 - [TypeStream](https://github.com/scopashq/typestream) - Next-generation data transformation framework for TypeScript that puts developer experience first.
+- [unmeta](https://github.com/unjs/unmeta) - Simple tools for interacting with HTML metadata tags.
+- [Scene.js](https://github.com/daybrush/scenejs) - JavaScript & CSS timeline-based animation library.
+- [Scena](https://github.com/daybrush/scena) - Component that represents the timeline of Scene.js. You can control time, properties, and items.
+- [egjs-agent](https://github.com/naver/egjs-agent) - Extracts browser and operating system information from the user agent string or user agent object(userAgentData).
+- [Qufl](https://github.com/Mahamed-Belkheir/qufl) - JWT authentication library that supports refresh tokens.
+- [ts-macros](https://github.com/GoogleFeud/ts-macros) - Custom typescript transformer which implements function macros.
+- [CronosJS](https://github.com/jaclarke/cronosjs) - Cron based task scheduler for node and the browser, with extended syntax and timezone support.
 
 ## Links
 

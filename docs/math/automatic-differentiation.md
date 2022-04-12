@@ -32,3 +32,4 @@ title: Automatic differentiation
 - [ad](https://github.com/ekmett/ad) - Package that provides an intuitive API for Automatic Differentiation (AD) in Haskell.
 - [Automatic Differentiation: Inverse Accumulation Mode (2019)](https://openreview.net/forum?id=Bygj2Ys6IS)
 - [ImplicitDifferentiation.jl](https://github.com/gdalle/ImplicitDifferentiation.jl) - Automatic differentiation of implicit functions.
+- [Pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation.

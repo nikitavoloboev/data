@@ -178,6 +178,7 @@
 - [OnlineStats.jl](https://github.com/joshday/OnlineStats.jl) - Online Algorithms for Statistics, Models, and Big Data Viz.
 - [Survival.jl](https://github.com/JuliaStats/Survival.jl) - Survival analysis in Julia.
 - [StatsKit.jl](https://github.com/JuliaStats/StatsKit.jl) - Convenience meta-package to load essential packages for statistics.
+- [Multivariate Polynomials](https://github.com/JuliaAlgebra/MultivariatePolynomials.jl) - Interface for manipulating multivariate polynomials.
 
 ## NLP
 
@@ -221,7 +222,7 @@
 
 ## Web
 
-- [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/)) ([Web](https://genieframework.com/)) ([HN](https://news.ycombinator.com/item?id=30929873))
+- [Genie](https://github.com/GenieFramework/Genie.jl) - Highly productive Julia web framework. ([Docs](https://genieframework.github.io/Genie.jl/dev/)) ([Web](https://genieframework.com/)) ([HN](https://news.ycombinator.com/item?id=30929873)) ([Tutorial for hosting a Genie app on JuliaHub](https://github.com/JuliaComputing/GenieAppTutorial.jl))
 - [Elixir for AWS Lambda](https://github.com/amolenaar/elixir_lambda)
 - [Diana.jl](https://github.com/neomatrixcode/Diana.jl) - GraphQL for Julia.
 - [WebAPI.jl](https://github.com/eliascarv/WebAPI.jl) - Abstraction of two Julia packages: HTTP.jl and JSON3.jl. These abstractions allow you to develop APIs in Julia in a simpler and more readable way.
@@ -559,6 +560,7 @@
 - [StructEquality](https://github.com/jolin-io/StructEquality.jl) - Equality for struct types as you would expect it.
 - [PkgCleanup](https://github.com/giordano/PkgCleanup.jl) - Garbage collects packages and artifacts that are no longer reachable.
 - [BatchedRoutines](https://github.com/Roger-luo/BatchedRoutines.jl) - Batched routines (BLAS, LAPACK, etc.) for multi-dimensional arrays.
+- [JunctionTrees](https://github.com/mroavi/JunctionTrees.jl) -  Metaprogramming-based implementation of the junction tree algorithm.
 
 ## Links
 

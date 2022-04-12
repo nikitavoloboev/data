@@ -95,3 +95,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Perfect Moments in "Bad" Movies](https://www.youtube.com/watch?v=h5Y8whMzlwo)
 - [Great movies to watch](https://twitter.com/anothercohen/status/1511140485443862531)
 - [Great movie posters](https://twitter.com/InsaneLetterbox/status/1512547287939141642)
+- [Arguably "great " movies that would have no chance of being made today because of social or political climate? (2022)](https://www.reddit.com/r/MovieSuggestions/comments/u0ycv2/arguably_great_movies_that_would_have_no_chance/)

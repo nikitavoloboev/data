@@ -155,3 +155,5 @@ title: Django
 - [Django PostgreSQL Materialized View Example](https://github.com/s-kust/django-postgresql-view) - Example of how to use a PostgreSQL materialized view in Django to speed up a complex query.
 - [Django Debug Toolbar](https://github.com/jazzband/django-debug-toolbar) - Configurable set of panels that display various debug information about the current request/response.
 - [Django Ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django.
+- [Django Admin Interface](https://github.com/fabiocaccamo/django-admin-interface) - Modern responsive flat admin interface customizable by the admin itself.
+- [Django Step by Step](https://github.com/briancaffey/django-step-by-step) - Django + Vue reference project that focuses on developer tooling and CI/CD + IaC.

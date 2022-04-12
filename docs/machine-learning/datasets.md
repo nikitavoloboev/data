@@ -161,3 +161,4 @@
 - [Google Research Datasets](https://github.com/google-research-datasets)
 - [MetaShift: A Dataset of Datasets for Evaluating Distribution Shifts and Training Conflicts (2022)](https://github.com/Weixin-Liang/MetaShift)
 - [CVSS: A Massively Multilingual Speech-to-Speech Translation Corpus](https://github.com/google-research-datasets/cvss)
+- [Squirrel Datasets Core](https://github.com/merantix-momentum/squirrel-datasets-core)

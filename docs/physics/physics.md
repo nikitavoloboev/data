@@ -295,3 +295,4 @@
 - [What I learned as a hired consultant to autodidact physicists (2016)](https://aeon.co/ideas/what-i-learned-as-a-hired-consultant-for-autodidact-physicists) ([HN](https://news.ycombinator.com/item?id=30908084))
 - [Twenty-five years of nanoscale thermodynamics (2022)](https://www.nature.com/articles/d41586-022-00869-y) ([Tweet](https://twitter.com/seanmcarroll/status/1511797026224173059))
 - [W boson mass may be 0.1% larger than predicted by the standard model (2022)](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/) ([Reddit](https://www.reddit.com/r/Physics/comments/tyjgsu/w_boson_mass_may_be_01_larger_than_predicted_by/)) ([HN](https://news.ycombinator.com/item?id=30955033))
+- [Ludwig Boltzmann's inventions](https://twitter.com/MarkusDeserno/status/1512822212646125569)

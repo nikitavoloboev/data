@@ -203,3 +203,5 @@
 - [BroadcastChannel](https://github.com/pubkey/broadcast-channel) - Send data across multiple browser-tabs or nodejs-processes + LeaderElection over the channels.
 - [Malvon](https://github.com/Malvion/Malvon) - New macOS Web Browser.
 - [Demodal](https://github.com/AliasIO/demodal) - Browser extension that automatically removes content blocking modals including paywalls, discount offers, promts to sign up or enter your email address and more.
+- [Erik](https://github.com/phimage/Erik) - Headless browser based on WebKit and HTML parser Kanna.
+- [Browser Pool](https://github.com/apify/browser-pool) - Node.js library to easily manage and rotate a pool of web browsers, using any of the popular browser automation libraries like Puppeteer, Playwright, or SecretAgent.

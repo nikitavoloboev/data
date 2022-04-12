@@ -233,3 +233,5 @@
 - [Tiny C Projects](https://github.com/francisrstokes/tiny-c-projects) - Collection of small C projects - usually a minimal example of something interesting.
 - [Old C code – how to upgrade it? (2022)](https://news.ycombinator.com/item?id=30957273)
 - [Minipeg](https://ach.srht.site/minipeg) - Parser generator for C.
+- [C72](https://github.com/vegesm/c72) - Port of the earliest C compiler to x86 (2021). ([HN](https://news.ycombinator.com/item?id=30981549))
+- [C17 compiler written from scratch in C](https://github.com/lasarus/C-Compiler)

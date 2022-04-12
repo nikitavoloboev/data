@@ -139,6 +139,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [You can escape emoji search keyboard by clicking on the original text box](https://twitter.com/nateparrott/status/1460327450416664587)
 - On Google Maps iOS you can double tap & then with one finger swipe up/down to zoom on/out.
 - [Pan gesture to bulk select items on iOS is great](https://twitter.com/Gavmn/status/1504838363181830146)
+- [Buffer Editor](https://buffereditor.com/) - Code and text editor for iPhone, iPad and iPad Pro.
 
 ## Links
 
@@ -444,3 +445,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [SignTools](https://github.com/SignTools/SignTools) - Free, self-hosted, cross-platform service to sign and install iOS apps, all without a computer.
 - [SQLite on iOS: The MVVM Way (2022)](https://mattrighetti.com/2022/03/02/use-sqlite-in-ios.html)
 - [Building an (almost entirely) rust iOS app using uikit-sys (2020)](https://simlay.net/posts/using-uikit-sys/)
+- [acextract](https://github.com/bartoszj/acextract) - Tool to list and extract content from Assets.car files.

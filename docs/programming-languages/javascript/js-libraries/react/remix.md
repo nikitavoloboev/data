@@ -60,6 +60,7 @@ title: Remix
 - [If you're using Remix you don't need react-query/Apollo/redux or even axios for making network requests. It's all handled for you + much more by the framework.](https://twitter.com/kentcdodds/status/1463994662281048074)
 - [Moving back to the server it makes GraphQL less interesting since you can get faster access to your db via Prisma and direct db connection.](https://twitter.com/jmarbutt/status/1464003898973339656)
 - [Remix is fundamentally built from nested routes.](https://twitter.com/mjackson/status/1466515470282989570)
+- [I like to have my loaders/actions be "thin controllers", no business logic just: 1. Validate the request (redirect if not authed, etc). 2. Parse the request (params, form data, etc.) 3. Call out to models (but contain no business logic). 4. Return response.](https://twitter.com/ryanflorence/status/1513211890612142086)
 
 ## Links
 

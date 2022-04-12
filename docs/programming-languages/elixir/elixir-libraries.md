@@ -65,6 +65,7 @@
 ## ML
 
 - [Axon](https://github.com/elixir-nx/axon) - Nx-powered Neural Networks. ([HN](https://news.ycombinator.com/item?id=26737956))
+- [Scholar](https://github.com/elixir-nx/scholar) - Machine learning tools built on top of Nx.
 
 ## CLI
 
@@ -165,6 +166,7 @@
 - [PromEx](https://github.com/akoutmos/prom_ex) - Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards.
 - [Grizzly](https://github.com/smartrent/grizzly) - Elixir library for Z-Wave.
 - [Brex.Result](https://github.com/brexhq/result) - Provides tools to handle three common return values in Elixir.
+- [Combination](https://github.com/seantanly/elixir-combination) - Simple combinatorics library providing combination and permutation.
 
 ## Links
 

@@ -282,3 +282,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Starbase](https://github.com/JupiterOne/starbase) - Graph-based security analysis for everyone.
 - [Random Mosaic – Detecting unauthorized physical access with beans, lentils and colored rice (2021)](https://dys2p.com/en/2021-12-tamper-evident-protection.html)
 - [HackerOne](https://www.hackerone.com/) - Hacker-Powered Security, Bug Bounties, and Pentests. ([Go Client](https://github.com/liamg/hackerone))
+- [Grapl](https://www.graplsecurity.com/) - Graph platform for Detection and Response. ([Code](https://github.com/grapl-security/grapl))
+- [PARSEC](https://github.com/parallaxsecond/parsec) - Open-source initiative to provide a common API to hardware security and cryptographic services in a platform-agnostic way.

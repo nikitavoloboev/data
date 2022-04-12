@@ -50,6 +50,7 @@
 ## Web
 
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
+- [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
 - [Rocket](https://github.com/SergioBenitez/Rocket) - Async web framework for Rust with a focus on usability, security, extensibility, and speed. ([Web](https://rocket.rs/)) ([Article](https://tech.marksblogg.com/rocket-rust-web-framework.html)) ([Review](https://kevincox.ca/2022/01/01/rocket-review/))
 - [Salvo](https://github.com/salvo-rs/salvo) - Simple Rust web framework.
@@ -339,6 +340,7 @@
 - [Graphics](https://github.com/PistonDevelopers/graphics) - Library for 2D graphics, written in Rust, that works with multiple back-ends.
 - [Planetarium](https://github.com/ravenexp/planetarium) - Sub-pixel precision light spot rendering library for astronomy and video tracking applications.
 - [piet-metal](https://github.com/linebender/piet-metal) - Experimental Metal-based GPU renderer for piet 2D graphics.
+- [AkariRender](https://github.com/shiinamiyuki/akari_render) - High Performance CPU/GPU Physically Based Renderer.
 
 ## Games
 
@@ -387,6 +389,7 @@
 - [test-log](https://github.com/d-e-s-o/test-log) - Crate that takes care of automatically initializing logging and/or tracing for Rust.
 - [Coppers](https://github.com/ThijsRay/coppers) - Custom test harnass for Rust that measures the energy usage of your test suite. ([HN](https://news.ycombinator.com/item?id=30918318))
 - [libtest-mimic](https://github.com/LukasKalbertodt/libtest-mimic) - Write your own test harness that looks and behaves like the built-in test harness.
+- [arbtest](https://github.com/matklad/arbtest) - Minimalist property-based testing library.
 
 ## Error
 
@@ -419,7 +422,7 @@
 
 ## UI
 
-- [Iced](https://github.com/hecrj/iced/) - Cross-platform GUI library for Rust, inspired by Elm. ([HN](https://news.ycombinator.com/item?id=28326125))
+- [Iced](https://github.com/iced-rs/iced) - Cross-platform GUI library for Rust, inspired by Elm. ([HN](https://news.ycombinator.com/item?id=28326125)) ([HN](https://news.ycombinator.com/item?id=30983024))
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
 - [Druid](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit. ([Some reflections on the Druid architecture](http://www.cmyr.net/blog/druid-architecture.html)) ([Dynamic widget sketches](http://www.cmyr.net/blog/druid-dynamism.html))
 - [flutter-rs](https://github.com/gliheng/flutter-rs) - Build flutter desktop app in dart & rust.
@@ -503,6 +506,7 @@
 - [InputBot](https://github.com/obv-mikhail/InputBot) - Rust library for creating global hotkeys, and emulating inputs.
 - [daemonize-me](https://github.com/DarthUdp/daemonize-me) - Rust library to ease the task of creating daemons.
 - [zbus](https://github.com/zeenix/zbus) - Rust API for D-Bus communication.
+- [libbpf-sys](https://github.com/libbpf/libbpf-sys) - Rust bindings to libbpf from the Linux kernel.
 
 ## Embedded
 
@@ -524,6 +528,7 @@
 - [Wifi on ESP32C3 (on bare-metal Rust)](https://github.com/bjoernQ/esp32c3-wifi-rs)
 - [nrf-usbd](https://github.com/nrf-rs/nrf-usbd) - Driver for the USBD peripheral in nRF microcontrollers.
 - [alloc-cortex-m](https://github.com/rust-embedded/alloc-cortex-m) - Heap allocator for Cortex-M processors.
+- [Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 
 ## ML
 
@@ -557,6 +562,7 @@
 - [macho-unwind-info](https://github.com/mstange/macho-unwind-info) - Parser for Apple's Compact Unwinding Format, which is used in the \_\_unwind_info section of mach-O binaries.
 - [rust-icns](https://github.com/mdsteele/rust-icns) - Rust library for encoding/decoding Apple Icon Image (.icns) files.
 - [DmgWiz](https://github.com/citruz/dmgwiz) - Extract filesystem data from DMG files.
+- [mach2](https://github.com/JohnTitor/mach2) - Rust interface to the user-space API of the Mach 3.0 kernel exposed in /usr/include/mach that underlies macOS and is linked via libSystem.
 
 ## Macros
 
@@ -641,6 +647,8 @@
 - [postfix-macros](https://github.com/est31/postfix-macros) - Postfix macros on stable Rust.
 - [doc-comment](https://github.com/GuillaumeGomez/doc-comment) - Write doc comments from macros.
 - [syn-file-expand](https://github.com/vi/syn-file-expand) - Rust library to scan files and expand (make modules inline) multi-file crates source code as a single tree.
+- [version](https://github.com/nulldatamap/version) - Simple macro that returns the version of the crate as a string.
+- [assert-json-diff](https://github.com/davidpdrsn/assert-json-diff) - Easily compare two JSON values and get great output.
 
 ## Math
 
@@ -1730,6 +1738,12 @@
 - [rainout](https://github.com/RustyDAW/rainout) - Cross-platform audio and MIDI IO.
 - [munge](https://github.com/djkoloski/munge) - Makes it easy and safe to destructure raw pointers, MaybeUninits, Cells, and Pins.
 - [rdev](https://github.com/Narsil/rdev) - Simple library to listen and send events to keyboard and mouse (MacOS, Windows, Linux).
+- [unic-langid](https://github.com/zbraniecki/unic-locale) - Meta-crate contains two basic crates for Unicode Language Identifier and Locale manipulation.
+- [fibers](https://github.com/dwango/fibers-rs) - Rust library to execute a number of lightweight asynchronous tasks (a.k.a, fibers) based on futures and mio.
+- [Finny](https://github.com/hashmismatch/finny.rs) - Hierarchical Finite State Machines for Rust.
+- [Mustache](https://github.com/nickel-org/rust-mustache) - Framework-agnostic way to render logic-free views.
+- [segment-tree](https://github.com/Darksonn/segment-tree) - Rust implementation of two segment trees and a fenwick tree.
+- [IO Bluetooth](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
 
 ## Cargo Plugins
 
@@ -1800,6 +1814,7 @@
 - [cargo-subcommand](https://github.com/dvc94ch/cargo-subcommand) - Library for implementing cargo subcommands.
 - [cargo-bump](https://github.com/wraithan/cargo-bump) - The command cargo bump which bumps the current version in your Cargo.toml.
 - [Cargo spec](https://github.com/mimoo/cargo-specification) - Tool to turn your code into a specification.
+- [cargo-lambda](https://github.com/cargo-lambda/cargo-lambda) - Cargo subcommand to help you work with AWS Lambda.
 
 ## Links
 
@@ -1912,3 +1927,4 @@
 - [Rust Universal Template](https://github.com/Rightpoint/rust-universal-template) - Template for creating Rust libraries with bindings to iOS, Android, WebAssembly and more.
 - [Rust to iOS](https://github.com/wojteklu/rust-to-ios) - Example project for building a library for iOS in Rust.
 - [rustdoc: Recent UI and UX changes in generated documentation (2022)](https://blog.guillaume-gomez.fr/articles/2022-04-08+rustdoc%3A+Recent+UI+and+UX+changes+in+generated+documentation) ([Reddit](https://www.reddit.com/r/rust/comments/tz61oq/walk_around_latest_rustdoc_ui_changes_in_the_last/))
+- [Check Rust docs with GitHub actions (2022)](http://www.gadom.ski/2022/02/24/check-docs-rust.html)

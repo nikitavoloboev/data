@@ -23,3 +23,6 @@ title: Redwood
 - [RedwoodJS - Deploy target CI](https://github.com/redwoodjs/deploy-target-ci) - Testing supported RedwoodJS deploy targets using canary packages.
 - [RedwoodJS Reaches 1.0 (2022)](https://v1launchweek.redwoodjs.com/) ([HN](https://news.ycombinator.com/item?id=30907119))
 - [Redwood Gitpod Starter](https://github.com/redwoodjs/gitpod-starter)
+- [Example Todo app written with Redwood](https://github.com/redwoodjs/example-todo)
+- [Redwood Startup Showcase: v1 Launch Week (2022)](https://www.youtube.com/watch?v=B0CP0aAePsI) ([Tweet](https://twitter.com/swyx/status/1512843957947932675))
+- [RedwoodJS Intro (2022)](https://www.youtube.com/watch?v=m_3I9mufZfs)

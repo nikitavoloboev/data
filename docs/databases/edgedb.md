@@ -23,3 +23,4 @@ title: EdgeDB
 - [Building a Database with Python - Yury Selivanov (2022)](https://www.youtube.com/watch?v=b9G6U5tt_qk)
 - [EdgeDB MCU sandbox](https://github.com/colinhacks/edgedb-movies) - Sandbox for playing with EdgeDB and the EdgeQL query builder in a Next.js environment.
 - [Full Stack FastAPI and EdgeDB](https://github.com/kurtrottmann/simple-stack-fastapi-edgedb)
+- [EdgeDB Studio](https://github.com/edgedb/edgedb-studio)

@@ -130,3 +130,4 @@ title: Redis
 - [RESP.app](https://resp.app/) - Cross-platform Developer GUI for Redis. ([Code](https://github.com/uglide/RedisDesktopManager))
 - [rdb](https://github.com/HDT3213/rdb) - Go implemented Redis RDB parser for secondary development and memory analysis.
 - [Redis Puts (Almost) Everything Under a Single Module (2022)](https://thenewstack.io/redis-puts-almost-everything-under-a-single-module/)
+- [Redis S2Geo](https://github.com/sulewicz/redis-s2geo) - Simple Redis Module for geospatial queries, which utilizes S2 Region Coverer algorithm for indexing.

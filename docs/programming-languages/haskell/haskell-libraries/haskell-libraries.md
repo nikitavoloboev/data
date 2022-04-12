@@ -81,6 +81,7 @@
 
 - [arithmoi](https://github.com/Bodigrim/arithmoi) - Number theory: primes, arithmetic functions, modular computations, special sequences.
 - [vector-sized](https://github.com/expipiplus1/vector-sized) - Exports a newtype tagging the vectors from the vector package with a type-level natural representing their size.
+- [Statistics](https://github.com/haskell/statistics) - Fast, high quality library for computing with statistics in Haskell.
 
 ## Crypto
 

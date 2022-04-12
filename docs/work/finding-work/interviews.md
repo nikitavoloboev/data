@@ -164,3 +164,4 @@
 - [Backend SWE interview questions](https://github.com/tamhoang1412/backend-swe-interview-questions)
 - [Ask HN: When did 7 interviews become “normal”? (2022)](https://news.ycombinator.com/item?id=30889019)
 - [Exit Interviews Are a Trap (2022)](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/) ([HN](https://news.ycombinator.com/item?id=30908551))
+- [Brandon Rohrer's interviewing AMA/tips](https://twitter.com/_brohrer_/status/1513274151800389641)

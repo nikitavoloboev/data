@@ -4,6 +4,8 @@ title: PyTorch
 
 # [PyTorch](http://pytorch.org/)
 
+[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) is neat.
+
 ## Notes
 
 - [torch.fx allows you to write composable transformations in Python that take in PyTorch code and output PyTorch code](https://twitter.com/cHHillee/status/1367621538791317504)
@@ -377,3 +379,7 @@ title: PyTorch
 - [PyTracking](https://github.com/visionml/pytracking) - Visual tracking library based on PyTorch.
 - [TorchDynamo](https://github.com/facebookresearch/torchdynamo) - Python-level JIT compiler designed to make unmodified PyTorch programs faster.
 - [Einops Extensions](https://github.com/lucidrains/einops-exts) - Implementation of some personal helper functions for Einops.
+- [TorchOpt](https://github.com/metaopt/TorchOpt) - High-performance optimizer library built upon PyTorch for easy implementation of functional optimization and gradient-based meta-learning.
+- [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) - Segmentation toolbox for EM connectomics.
+- [TedNet](https://github.com/tnbar/tednet) - PyTorch Toolkit for Tensor Decomposition Networks.
+- [TorchData: PyTorch Composable Data loading utility library (2022)](https://aniketmaurya.com/pytorch/2022/04/09/TorchData.html)

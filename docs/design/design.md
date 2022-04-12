@@ -230,3 +230,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Marvel](https://marvelapp.com/) - Rapid prototyping, testing and handoff for modern design teams.
 - [Tome](https://beta.tome.app/) - Storytelling tool for work.
 - [Who is hiring designers (2022)](https://twitter.com/jsngr/status/1507035119457951745)
+- [UI8](https://ui8.net/) - UI Design Resources, UI Kits, Wireframes, Icons and More.
+- [What’s the hello world of product design?](https://twitter.com/jsngr/status/1513516639039500288)

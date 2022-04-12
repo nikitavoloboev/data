@@ -8,3 +8,4 @@ Portugal is [great](https://twitter.com/tomazstolfa/status/1454441367359430663).
 - [Places to visit in Portugal (2021)](https://twitter.com/andreasklinger/status/1458125885249294339)
 - [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
 - [Portugal's Startup Ecosystem (2021)](https://idcportugal.com/wp-content/uploads/2021/Startup_Final.pdf)
+- [Nice places to work from, good food in Portugal](https://twitter.com/monicalent/status/1513236925234225153)

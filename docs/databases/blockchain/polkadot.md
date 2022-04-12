@@ -82,3 +82,4 @@ title: Polkadot
 - [Exercises to learn substrate](https://github.com/rusty-crewmates/substrate-tutorials)
 - [Sub-script](https://github.com/Neopallium/sub-script) - Scripting interface for substrate nodes.
 - [Polkadot Basic Notifications](https://github.com/kianenigma/polkadot-basic-notification) - Basic, account-based, multi-transport notification service for the Polkadot ecosystem.
+- [Tidechain](https://github.com/tidelabs/tidechain) - Backbone of the TIDE ecosystem. Built on Substrate.

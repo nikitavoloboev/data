@@ -224,3 +224,5 @@ title: Docker
 - [Dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services.
 - [dockprom](https://github.com/stefanprodan/dockprom) - Monitoring solution for Docker hosts and containers with Prometheus, Grafana, cAdvisor, NodeExporter and alerting with AlertManager.
 - [go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects.
+- [Docker Compose Buildkite Plugin](https://github.com/buildkite-plugins/docker-compose-buildkite-plugin) - Buildkite plugin that lets you build, run and push build steps using Docker Compose.
+- [docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic) - Magic shim for Docker credential helpers.

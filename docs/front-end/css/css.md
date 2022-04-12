@@ -4,7 +4,7 @@ title: CSS
 
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts.
+[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) is a good read.
 
 ## Nice templates
 
@@ -483,3 +483,4 @@ all: unset
 - [Cascade](https://raphaelbastide.com/cascade/) - CSS to sound live coding system.
 - [PostCSS](https://postcss.org/) - Tool for transforming CSS with JavaScript. ([Code](https://github.com/postcss/postcss)) ([Web Code](https://github.com/postcss/postcss.org))
 - [Rust implementation of CSS Syntax Level 3](https://github.com/servo/rust-cssparser)
+- [Create a rad loading animation with CSS](https://twitter.com/jh3yy/status/1513599688662044684)

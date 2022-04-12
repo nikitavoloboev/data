@@ -8,6 +8,7 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 
 - Visiting subreddits of cities/countries you are going to as well as the respective `AskA..` communities is great way to know about a place. [AskARussian](https://www.reddit.com/r/AskARussian/) is one such subreddit, it links to more similar subreddits in the sidebar.
 - [You can use the minus syntax to exclude results in Google Maps.](https://twitter.com/conradev/status/1376219194010656769)
+- [Freedom is the new flex. International travel > Car. One suitcase > Wardrobe. Location independence > Mortgage. Freedom to move > Material items. Self fulfillment > Social approval.](https://twitter.com/AlexNapierNomad/status/1513233187123699718)
 
 ## Links
 
@@ -115,3 +116,6 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [The Safest Low-Tax Countries in the World](https://www.youtube.com/watch?v=SleuUmzZ9S4)
 - [Small World](https://smallworld.kiwi/) - Stay in touch with your friends around the world. ([Code](https://github.com/devonzuegel/smallworld))
 - [Flight Penguin](https://flightpenguin.com/) - Taking the Pain out of Flight Search. ([HN](https://news.ycombinator.com/item?id=30920891))
+- [Van life (cancer edition) finale](https://imgur.com/gallery/prUy1Kt) ([HN](https://news.ycombinator.com/item?id=30983714))
+- [Nomad Passport Index: The World's Best Passports](https://nomadcapitalist.com/nomad-passport-index/)
+- [Why Not All Passports are Created Equal (2022)](https://www.youtube.com/watch?v=Qpi1OlRmFIM)

@@ -1,3 +1,7 @@
+---
+title: Bazel
+---
+
 # [Bazel](https://bazel.build)
 
 ## Links

@@ -17,6 +17,7 @@
 ## Jetpack Compose
 
 - [Multiplatform Compose](https://github.com/cl3m/multiplatform-compose) - Kotlin library to use Jetpack Compose in Android and iOS. Allow to write UI for both in Kotin.
+- [Mosaic](https://github.com/JakeWharton/mosaic) - Tool for building console UI in Kotlin using the Jetpack Compose compiler/runtime.
 
 ## Test
 
@@ -64,6 +65,8 @@
 - [Textricator](https://github.com/measuresforjustice/textricator) - Tool to extract text from documents and generate structured data.
 - [Komposable Architecture](https://github.com/toggl/komposable-architecture) - Kotlin implementation of Point-Free's composable architecture.
 - [Kastree](https://github.com/cretz/kastree) - Simple library to manipulate Kotlin source code as a set of AST objects.
+- [Stately](https://github.com/touchlab/Stately) - State utility library to facilitate state management in Kotlin Multiplatform.
+- [Aurora](https://github.com/kirill-grouchnikov/aurora) - Building modern, elegant and fast Compose Desktop applications.
 
 ## Links
 

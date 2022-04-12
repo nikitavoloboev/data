@@ -372,3 +372,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [0Chain](https://0chain.net/) - Decentralized blockchain-based storage platform with built-in privacy and security compliance. It provides high performance, enforceable SLAs, choice of providers for all enterprise grade applications. ([Code](https://github.com/0chain/0chain))
 - [Blobber](https://github.com/0chain/blobber) - Storage provider (blobber) interface to the blockchain and consumers of storage.
 - [Kernel Community](https://www.kernel.community/en/) - Custom web3 educational community. ([Code](https://github.com/kernel-community/kernel-v2))
+- [Espresso Systems](https://www.espressosys.com/) - Single-shot scaling and privacy solution. ([GitHub](https://github.com/EspressoSystems))
+- [ette](https://github.com/itzmeanjan/ette) - EVM-based Blockchain Indexer, with historical data query & real-time notification support.
+- [Clarity REPL](https://github.com/hirosystems/clarity-repl) - Read-Eval-Print Loop implementation for Clarity.
+- [Slurpee](https://github.com/fremantle-industries/slurpee) - GUI frontend to manage blockchain ingestion with slurp.

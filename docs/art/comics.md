@@ -18,3 +18,4 @@
 - [Polina Gurtovaya's Comics](https://speakerdeck.com/hellsquirrel/)
 - [Pretends to be Drawing](https://ptbd.jwels.berlin/)
 - [The Oatmeal](https://www.theoatmeal.com/) - Comics by Matthew Inman.
+- [Dilbert Feed](https://github.com/mlafeldt/dilbert-feed) - Enjoy Dilbert in your RSS feed reader without any ads.

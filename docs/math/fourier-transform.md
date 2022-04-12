@@ -48,3 +48,5 @@ title: Fourier transform
 - [NFFT.jl](https://github.com/JuliaMath/NFFT.jl) - Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT).
 - [How Wavelets Allow Researchers to Transform, and Understand, Data (2022)](https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-understand-data-20211013/)
 - [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform (2022)](https://arxiv.org/abs/2203.02395) ([Code](https://github.com/rishikksh20/iSTFTNet-pytorch))
+- [Fourier Series Visualisation in SwiftUI](https://github.com/simonboots/SwiftUIFourierSeries)
+- [Flatiron Institute Nonuniform Fast Fourier Transform library: FINUFFT](https://github.com/flatironinstitute/finufft)

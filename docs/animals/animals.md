@@ -40,6 +40,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Sea Otters hold hands with their friends and family members whilst sleeping. This is so they don't drift apart, and lose each other.](https://twitter.com/gunsnrosesgirl3/status/1449373228242198533)
 - [hedgehog dust-bathing](https://twitter.com/Rainmaker1973/status/1459931869110226951)
 - [foxes: us](https://twitter.com/qonqon_biyori/status/1459849427934269440)
+- [Katzen](https://twitter.com/alex_wohlrab/status/1512750950330642432)
 
 ## Notes
 
@@ -125,3 +126,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [All About Cats](https://allaboutcats.com/) - Cat Friendly Community.
 - [Why have female animals evolved such wild genitals? (2022)](https://www.smithsonianmag.com/science-nature/why-have-female-animals-evolved-such-wild-genitals-180979813/) ([HN](https://news.ycombinator.com/item?id=30874206))
 - [How Intelligent Are Cats?](http://messybeast.com/intelligence.htm) ([HN](https://news.ycombinator.com/item?id=30975378))
+- [Cats in zero-g lose their auto-righting reflex](https://www.youtube.com/watch?v=O9XtK6R1QAk) ([HN](https://news.ycombinator.com/item?id=30990575))

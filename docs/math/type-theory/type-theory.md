@@ -194,3 +194,4 @@ title: Type Theory
 - [Henk: Pure Type System](https://github.com/5HT/henk)
 - [Cofibrations in Cartecian Cubical Type Theory](https://github.com/RedPRL/kado)
 - [Core Gallifrey Interpreter](https://github.com/apl-cornell/gallifrey-proto-interp)
+- [LaTeX code for a paper on lean's type theory](https://github.com/digama0/lean-type-theory)

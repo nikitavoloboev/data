@@ -20,3 +20,4 @@ title: JAX
 - [PaLM - Jax](https://github.com/lucidrains/PaLM-jax) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways - in Jax.
 - [Pre-trained image classification models for Jax/Haiku](https://github.com/abarcel/haikumodels)
 - [Flaxformer: transformer architectures in JAX/Flax](https://github.com/google/flaxformer)
+- [KFAC-JAX - Second Order Optimization with Approximate Curvature in JAX](https://github.com/deepmind/kfac-jax)

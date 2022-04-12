@@ -363,3 +363,6 @@ title: Node.js
 - [nat-api](https://github.com/alxhotel/nat-api) - Fast port mapping with UPnP and NAT-PMP.
 - [watch-dependency-graph](https://github.com/front-of-house/watch-dependency-graph) - Small Node.js file watcher for watching dependency trees.
 - [deoptigate](https://github.com/thlorenz/deoptigate) - Investigates v8/Node.js function deoptimizations.
+- [node-http-proxy](https://github.com/http-party/node-http-proxy) - HTTP programmable proxying library that supports websockets. Suitable for implementing components such as reverse proxies and load balancers.
+- [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/) ([HN](https://news.ycombinator.com/item?id=30988034)) ([Lobsters](https://lobste.rs/s/ngzszd/nodejs_packages_don_t_deserve_your_trust))
+- [Web standard IO APIs implemented for NodeJS](https://github.com/web-std/io)

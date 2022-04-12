@@ -75,3 +75,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [VSCode Web](https://github.com/Felx-B/vscode-web) - Visual Studio Code for browser.
 - [nix-devcontainer](https://github.com/xtruder/nix-devcontainer) - Swiss army knife container for vscode development environments.
 - [File Nesting Config for VS Code](https://github.com/antfu/vscode-file-nesting-config)
+- [CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform terminal app from Visual Studio Code.

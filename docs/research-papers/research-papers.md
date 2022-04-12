@@ -177,3 +177,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub) - Plugin that will automatically download PDFs of zotero items from sci-hub.
 - [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs.
 - [Reading academic computer science papers (2022)](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/) ([HN](https://news.ycombinator.com/item?id=30951889))
+- [ArXiv-Miner](https://github.com/valayDave/arxiv-miner) - Toolkit for mining research papers on CS ArXiv.
+- [SimBiber](https://github.com/MLNLP-World/SimBiber) - Tool for simplifying bibtex with official info.

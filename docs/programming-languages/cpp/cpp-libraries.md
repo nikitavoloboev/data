@@ -80,6 +80,7 @@
 - [Velox](https://github.com/facebookincubator/velox) - C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 - [Supersonic](https://github.com/google/supersonic) - Ultra-fast, column oriented query engine library written in C++.
 - [SQLite ORM](https://github.com/fnc12/sqlite_orm) - Light header only library for modern C++.
+- [rocksdb](https://github.com/Level/rocksdb) - Pure C++ Node.js RocksDB binding. An abstract-leveldown compliant store.
 
 ## Crypto
 
@@ -379,6 +380,9 @@
 - [zstr](https://github.com/mateidavid/zstr) - C++ header-only ZLib wrapper.
 - [uvw](https://github.com/skypjack/uvw) - Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library.
 - [nanoprintf](https://github.com/charlesnicholson/nanoprintf) - Smallest public printf implementation for its feature set.
+- [fgt](https://github.com/gadomski/fgt) - Fast Gauss transforms.
+- [Coherent Point Drift (CPD)](https://github.com/gadomski/cpd) - C++ implementation of the Coherent Point Drift point set registration algorithm.
+- [lex](https://github.com/PG1003/lex) - C++ library for Lua style pattern matching.
 
 ## Links
 

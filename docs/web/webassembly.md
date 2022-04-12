@@ -6,6 +6,8 @@ title: WebAssembly
 
 [Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library. [WebAssembly Weekly](https://wasmweekly.news/) is good newsletter to stay up to date on WASM.
 
+[This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice.
+
 ## Links
 
 - [WebAssemblyLanguages](https://github.com/AppCypher/WebAssemblyLanguages)
@@ -286,7 +288,7 @@ title: WebAssembly
 - [Recommendations when publishing a WASM library (2022)](https://nickb.dev/blog/recommendations-when-publishing-a-wasm-library) ([HN](https://news.ycombinator.com/item?id=30829170))
 - [Providers at Fiberplane (2022)](https://fiberplane.dev/blog/fiberplane-providers/)
 - [fp-bindgen](https://github.com/fiberplane/fp-bindgen) - Bindings generator for full-stack WASM plugins.
-- [How to create minimal WASM module](https://github.com/ern0/howto-wasm-minimal) ([Tweet](https://twitter.com/simonw/status/1508503086091825153))
+- [How to create minimal WASM module](https://github.com/ern0/howto-wasm-minimal) ([Tweet](https://twitter.com/simonw/status/1508503086091825153)) ([HN](https://news.ycombinator.com/item?id=30991235))
 - [WebAssembly in my browser desktop environment (2022)](https://www.wasm.builders/dustinbrett/webassembly-in-my-browser-desktop-environment-3alc) ([HN](https://news.ycombinator.com/item?id=30827497))
 - [Spin](https://github.com/fermyon/spin) - Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly. ([Docs](https://spin.fermyon.dev/)) ([Intro](https://www.fermyon.com/blog/introducing-spin)) ([HN](https://news.ycombinator.com/item?id=30875310))
 - [Wala](https://github.com/CalmSystem/wala) - Language trying to simplify WebAssembly Text syntax while keeping the full expressiveness and retro-compatibility.
@@ -298,3 +300,4 @@ title: WebAssembly
 - [inline-webassembly](https://github.com/dorin131/inline-webassembly) - Inline WebAssembly (text format) into JS.
 - [Stack Switching Proposal for WebAssembly](https://github.com/WebAssembly/stack-switching)
 - [Marine](https://github.com/fluencelabs/marine) - General purpose WASM runtime that could be used in different scenarios, especially in programs based on the entity component system (ECS) pattern or plugin architecture.
+- [SMK (Simple multimedia kit)](https://github.com/ArthurSonzogni/smk) - Simple multimedia kit - C++ WebAssembly.

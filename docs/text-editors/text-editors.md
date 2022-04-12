@@ -204,3 +204,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Betting on CodeMirror (2022)](https://blog.replit.com/codemirror)
 - [Portable Text Spec](https://github.com/portabletext/portabletext) - JSON based rich text specification for modern content editing platforms.
 - [Bear App](https://bear.app/) - Private Markdown Editor for iPhone, iPad and Mac. ([Bear Power Pack](https://github.com/sbusso/Bear-Power-Pack))
+- [Ask HN: Editing remote code locally: Best practices? (2022)](https://news.ycombinator.com/item?id=30987770)

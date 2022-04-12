@@ -1,3 +1,7 @@
+---
+title: Chrome DevTools
+---
+
 # [Chrome DevTools](https://developer.chrome.com/devtools)
 
 ## Notes

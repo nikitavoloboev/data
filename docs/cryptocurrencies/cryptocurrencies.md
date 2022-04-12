@@ -260,3 +260,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Nebula Protocol](https://docs.neb.money/) - DeFi's flexible & efficient passive asset management protocol. ([Twitter](https://twitter.com/nebula_protocol)) ([Protocol Contracts](https://github.com/nebula-protocol/nebula-contracts))
 - [Enhanced crypto data](https://cybernetic.dev/) - Using Svelte.js and Three.js.
 - [If Wolf of Wall Street were about crypto](https://www.youtube.com/watch?v=KHEZCXfyxjU)
+- [Configurable Asset Privacy (CAP) protocol](https://github.com/EspressoSystems/cap) - Library in the Jellyfish ecosystem.
+- [Rube](https://github.com/fremantle-industries/rube) - Multi-chain DeFi development toolkit for Elixir.

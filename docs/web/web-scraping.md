@@ -174,3 +174,10 @@
 - [Linkedin Scraper](https://github.com/joeyism/linkedin_scraper) - Scrapes Linkedin User Data.
 - [Aeon](https://github.com/leinelissen/aeon) - Scan the internet for your personal information and modify or remove it.
 - [article-parser](https://github.com/ndaidong/article-parser) - Extract main article, main image and meta data from URL.
+- [Apify SDK](https://github.com/apify/apify-js) - Scalable web crawling and scraping library for JavaScript.
+- [WebParsy](https://github.com/joseconstela/webparsy) - Node.JS library and cli for scraping websites using Puppeteer (or not) and YAML definitions.
+- [Hext](https://github.com/html-extract/hext) - Domain-specific language for extracting structured data from HTML documents.
+- [AutoScrape](https://github.com/brandonrobertz/autoscrape-py) - Automated, programming-free web scraper for interactive sites.
+- [Portia](https://github.com/scrapinghub/portia) - Tool that allows you to visually scrape websites without any programming knowledge required.
+- [Surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator.
+- [Ayakashi](https://github.com/ayakashi-io/ayakashi) - Next generation web scraping framework.

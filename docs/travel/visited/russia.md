@@ -567,3 +567,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [Russia’s certificate authority for sanctioned organizations (2022)](https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6)
 - [Григорий Юдин: «Это диверсия против страны» // «Скажи Гордеевой» (2022)](https://www.youtube.com/watch?v=BNTDs8x2Zwk)
 - [МИРЗАЛИЗАДЕ – выгнали из России, Комиссаренко, мем о Лукашенко и молчание стендаперов (2022)](https://www.youtube.com/watch?v=I1MuaXugHhw)
+- [If there were three things you could change in Russia, what would it be? (2022)](https://www.reddit.com/r/AskARussian/comments/u1524d/if_there_were_three_things_you_could_change_in/)

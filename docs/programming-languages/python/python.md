@@ -464,3 +464,5 @@ for i, _ in enumerate(nums):
 - [Cython Is 20 (2022)](http://blog.behnel.de/posts/cython-is-20/) ([HN](https://news.ycombinator.com/item?id=30904430))
 - [snekbox](https://github.com/python-discord/snekbox) - Easy, safe evaluation of arbitrary Python code.
 - [Yet another Python JIT.](https://github.com/eliphatfs/yapyjit)
+- [Ask HN: Python Programming Books (2022)](https://news.ycombinator.com/item?id=30980813)
+- [Best of Python Developer Tools](https://github.com/ml-tooling/best-of-python-dev) - Ranked list of awesome python developer tools and libraries. Updated weekly.

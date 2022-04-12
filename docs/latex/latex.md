@@ -133,3 +133,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [TinyTeX](https://github.com/yihui/tinytex) - Lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live.
 - [Galley of Tikz drawings](https://github.com/walmes/Tikz)
 - [Neat LaTeX tricks (2022)](https://twitter.com/gpxl_/status/1511922614842761216)
+- [Template for LaTeX-based Network Diagrams](https://github.com/mbugert/latex-network-diagram-template)

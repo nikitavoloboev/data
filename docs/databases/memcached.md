@@ -19,3 +19,4 @@ title: Memcached
 - [gomemcached](https://github.com/couchbase/gomemcached) - memcached binary protocol toolkit in go.
 - [Memcached Exporter for Prometheus](https://github.com/prometheus/memcached_exporter)
 - [memcache-async](https://github.com/vavrusa/memcache-async) - No-frills async memcached client for Rust.
+- [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API.

@@ -31,3 +31,5 @@ title: Ada
 - [Ada on any ARM Cortex-M device, in just a couple minutes (2021)](https://blog.adacore.com/ada-on-any-arm-cortex-m-device-in-just-a-couple-minutes)
 - [Lessons from Learning Ada in 2021](https://fosdem.org/2022/schedule/event/ada_outsiders_guide/) ([HN](https://news.ycombinator.com/item?id=30270994))
 - [Hacking the Linux Kernel in Ada (2022)](https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-1/)
+- [GNAT Studio](https://github.com/AdaCore/gnatstudio) - Lightweight, extensible IDE, intended to develop high-integrity software in Ada and SPARK, with support for C and C++ as well.
+- [SPARK](https://github.com/AdaCore/spark2014) - Software development technology specifically designed for engineering high-reliability applications.

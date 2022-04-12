@@ -767,3 +767,6 @@
 - [Transformers Are All You Need: Quick tour through the most popular Neural Net architecture (2022)](https://www.pinecone.io/learn/transformers/)
 - [Transformers in Time Series](https://github.com/qingsongedu/time-series-transformers-review) - Curated list of awesome resources (paper, code, data, etc.) on transformers in time series.
 - [SRBench: A Living Benchmark for Symbolic Regression (2022)](https://cavalab.org/srbench/) ([Code](https://github.com/cavalab/srbench))
+- [How FAANG etc. architect their recommendation systems at scale](https://blog.fennel.ai/p/real-world-recommendation-system)
+- [BigScience Research Workshop](https://bigscience.huggingface.co/)
+- [SmallScience](https://github.com/SeanNaren/SmallScience) - My journey to training a large(ish) transformer model.

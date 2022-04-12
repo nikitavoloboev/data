@@ -125,3 +125,4 @@
 - [Everything Starts as a Square method for icon design](https://twitter.com/jamesm/status/1501184842364510212) ([Part 2](https://twitter.com/jamesm/status/1511815490624233473))
 - [App Icon Endpoint](https://github.com/EvanBacon/app-icon-endpoint) - Cloud function to generate basic icons, splash screens, and favicons.
 - [PWA Icon Generator](https://github.com/HackyDev/pwa-icons-generator)
+- [Core Icons Library](https://ui8.net/oleg-pf/products/core-i-lib)

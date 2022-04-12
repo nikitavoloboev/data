@@ -119,6 +119,7 @@
 ## ML
 
 - [Principia Labs](https://principialabs.co.uk/) ([GitHub](https://github.com/principia-labs))
+- [Merantix Momentum](https://merantix-momentum.com/) ([GitHub](https://github.com/merantix-momentum))
 
 ## Embedded
 
@@ -224,6 +225,7 @@
 - [magicstack](http://magic.io/) - Experts in modern reactive web. ([GitHub](https://github.com/MagicStack))
 - [Black Square Media](https://blacksquaremedia.com/) ([GitHub](https://github.com/bsm))
 - [Uptech Studio](https://www.uptechstudio.com/) - Product, Design, and Development. ([GitHub](https://github.com/uptech))
+- [Element 84](https://www.element84.com/) ([GitHub](https://github.com/Element84))
 
 ## Notes
 

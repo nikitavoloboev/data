@@ -2,7 +2,7 @@
 
 [Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs.
 
-[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs.
+[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks.
 
 ## Other
 
@@ -120,6 +120,7 @@
 - [LinkedIn Node](https://github.com/eilonmore/linkedin-private-api)
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
+- [pyiCloud](https://github.com/picklepete/pyicloud) - Python + iCloud wrapper to access iPhone and Calendar data.
 - [Spotify TS](https://github.com/adamgrieger/spotify-web-api-ts) - Isomorphic TypeScript wrapper for Spotify's Web API.
 - [Spotify TS 2](https://github.com/tspotify/tspotify)
 - [Spotify TS 3](https://github.com/backtrackapp/spotify.js)

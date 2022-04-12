@@ -519,3 +519,4 @@ the execution time on all cores of a multi-core processor.
 - [melange](https://github.com/chainguard-dev/melange) - Build APKs from source code.
 - [bpf](https://github.com/mildsunrise/node_bpf) - eBPF / libbpf bindings for Node.js.
 - [bpfcc](https://github.com/mildsunrise/node_bpfcc) - BPF Compiler Collection (BCC) frontend for Node.js.
+- [musl-dynamic](https://github.com/distroless/musl-dynamic) - Distroless image for running dynamically-linked musl binaries.

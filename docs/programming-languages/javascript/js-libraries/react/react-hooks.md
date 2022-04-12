@@ -186,6 +186,8 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [onClickOutside](https://github.com/wellyshen/react-cool-onclickoutside) - React hook to listen for clicks outside of the component(s).
 - [react-sage](https://github.com/meinstein/react-sage) - Handy-dandy React hooks.
 - [useSSE](https://github.com/kmoskwiak/useSSE) - Perform asynchronous effects both on client and serve side.
+- [useTilg](https://github.com/shuding/tilg) - Magical React Hook to help you debug your components.
+- [event](https://github.com/bit-about/event) - Tiny and powerful hook-based event system for React.
 
 ## Code
 

@@ -249,6 +249,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [FocusTask](https://focustask.app/) - Organize your life.
+- [Culture Amp](https://www.cultureamp.com/) - Employee feedback platform. ([GitHub](https://github.com/cultureamp))
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Webstudio](https://webstudio.is/) - Open Source Visual Development Platform for Developers, Designers and cross-functional teams. ([Code](https://github.com/webstudio-is/webstudio-designer)) ([Issues](https://github.com/webstudio-is/webstudio))
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree.
@@ -579,6 +580,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [CloudEvents](https://cloudevents.io/) - Specification for describing event data in a common way. ([GitHub](https://github.com/cloudevents)) ([Go SDK](https://github.com/cloudevents/sdk-go)) ([TS SDK](https://github.com/cloudevents/sdk-javascript)) ([Spec](https://github.com/cloudevents/spec))
 - [Readwise Reader](https://readwise.io/read) - First read-it-later app built for power readers. ([Tweet](https://twitter.com/homsiT/status/1435715039508500485))
 - [Pinry](https://github.com/pinry/pinry) - Tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. ([Docs](https://docs.getpinry.com/))
+- [Shaark](https://github.com/MarceauKa/shaark) - Self-hosted platform to keep and share your content: web links, posts, passwords and pictures. All of your data can be private, public or both and can be browsed by tags or all-in-one search.
 
 ## Notes
 

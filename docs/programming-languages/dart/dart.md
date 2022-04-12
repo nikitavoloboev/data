@@ -45,3 +45,4 @@ title: Dart
 - [ClojureDart](https://github.com/Tensegritics/ClojureDart) - Port of Clojure that compiles to Dart.
 - [Artemis](https://github.com/comigor/artemis) - Build dart types from GraphQL schemas and queries.
 - [Bones_API](https://github.com/Colossus-Services/bones_api) - Simple and easy API framework, with routes and HTTP Server.
+- [Logger](https://github.com/leisim/logger) - Small, easy to use and extensible logger which prints beautiful logs.

@@ -81,3 +81,4 @@ title: Vulkan API
 - [Niagara](https://github.com/zeux/niagara) - Vulkan renderer written from scratch on stream.
 - [volk](https://github.com/zeux/volk) - Meta loader for Vulkan API.
 - [lava](https://github.com/liblava/liblava) - Modern and easy-to-use library for the Vulkan API.
+- [Sierra](https://github.com/arcana-engine/sierra) - Vulkan-lite GPU API.
