@@ -210,6 +210,10 @@
 - [Chisel](https://github.com/janherich/chisel) - 3D modelling & slicing software written in Clojure, where you work directly from Clojure REPL, primary by specifying parametric curves & patches.
 - [build-clj](https://github.com/seancorfield/build-clj) - Common build tasks abstracted into a library.
 - [Tea-Time](https://github.com/aphyr/tea-time) - Lightweight Clojure task scheduler.
+- [Aero](https://github.com/juxt/aero) - Small library for explicit, intentful configuration.
+- [Charred](https://github.com/cnuernber/charred) - Efficient character-based file parsing for CSV and JSON formats.
+- [Knossos](https://github.com/jepsen-io/knossos) - Verifies the linearizability of experimentally accessible histories.
+- [dtype-next](https://github.com/cnuernber/dtype-next) - Clojure library designed to aid in the implementation of high performance algorithms and systems.
 
 ## Links
 

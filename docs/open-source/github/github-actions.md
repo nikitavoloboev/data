@@ -210,7 +210,8 @@ title: GitHub actions
 - [BuildCache Action](https://github.com/mikehardy/buildcache-action) - GitHub Action to install and configure BuildCache for faster compilation.
 - [QEMU Action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support.
 - [Deploy-Pages](https://github.com/actions/deploy-pages) - Deploys artifacts to GitHub Pages.
-- [Prow Github Actions](https://github.com/jpmcb/prow-github-actions) - Slash commands, jobs, and chat-ops for Github actions inspired by Kubernetes Prow.
+- [Prow Github Actions](https://github.com/jpmcb/prow-github-actions) - Slash commands, jobs, and chat-ops for GitHub actions inspired by Kubernetes Prow.
+- [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests) - GitHub status check that ensures your pull requests follow the Conventional Commits spec.
 
 ## Go
 

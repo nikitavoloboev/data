@@ -120,6 +120,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [CocoaHub](https://cocoahub.app/) - Events, news and articles related to Apple's programming ecosystem in the palm of your hand.
 - [Quick Capture](https://quickcapture.xyz/) - Frictionless note taking on iOS.
 - [Honk](https://honk.me/) - Chat in real-time with friends.
+- [Apple Pay Cash Animation in iOS](https://github.com/jtrivedi/Apple-Cash-Animation) ([Tweet](https://twitter.com/jmtrivedi/status/1513555700495966208))
 
 ## Notes
 

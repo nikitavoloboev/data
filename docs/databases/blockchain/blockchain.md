@@ -376,3 +376,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [ette](https://github.com/itzmeanjan/ette) - EVM-based Blockchain Indexer, with historical data query & real-time notification support.
 - [Clarity REPL](https://github.com/hirosystems/clarity-repl) - Read-Eval-Print Loop implementation for Clarity.
 - [Slurpee](https://github.com/fremantle-industries/slurpee) - GUI frontend to manage blockchain ingestion with slurp.
+- [Shade Protocol](https://shadeprotocol.io/) - Array of connected privacy-preserving DeFi applications built on Secret Network. ([Code](https://github.com/securesecrets/shade))

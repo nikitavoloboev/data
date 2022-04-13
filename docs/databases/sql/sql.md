@@ -185,3 +185,4 @@ title: SQL
 - [RestQ](https://github.com/ivanceras/restq) - Compacting the SQL into the URL rest API.
 - [Is SQL going out of fashion? (2022)](https://twitter.com/troutgirl/status/1510050777015889923)
 - [ReadySet](https://readyset.io/) - Same database, (much) faster queries. SQL caching engine. ([Intro](https://blog.readyset.io/posts/introducing-readyset)) ([HN](https://news.ycombinator.com/item?id=30922082))
+- [Surveying 10+ SQL parser libraries in a few high-level languages (2022)](https://datastation.multiprocess.io/blog/2022-04-11-sql-parsers.html)

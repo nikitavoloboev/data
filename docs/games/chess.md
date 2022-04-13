@@ -16,6 +16,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Boris Gelfand](https://www.chess.com/member/remontada2017)
 - [Richard Rapport](https://www.chess.com/players/richard-rapport)
 - [Dmitry Andreikin](https://www.chess.com/players/dmitry-andreikin)
+- [Luis Supi](https://www.chess.com/member/lpsupi) ([Video](https://www.youtube.com/watch?v=BlqpD0cj6dA))
 
 ## Favorite games
 

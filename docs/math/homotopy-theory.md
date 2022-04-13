@@ -43,3 +43,4 @@ title: Homotopy theory
 - [Learning Material for Univalent Mathematics and the UniMath library](https://github.com/UniMath/Schools)
 - [The HoTT Game](https://github.com/thehottgame/TheHoTTGame) ([Article](https://homotopytypetheory.org/2021/12/01/the-hott-game/))
 - [Cubical 1lab](https://cubical.1lab.dev/) - Formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory. ([Code](https://github.com/plt-amy/cubical-1lab))
+- [Homotopy Type Theory Course](https://www.cs.cmu.edu/~rwh/courses/hott/) ([Notes](https://github.com/RobertHarper/hott-notes))

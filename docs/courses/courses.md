@@ -43,7 +43,7 @@
 - [What's happening in the online education market broadly, and cohort-based courses specifically (2021)](https://twitter.com/fortelabs/status/1369754186967965697)
 - [How Josh Comeau pulled off a $500.000 Course Launch (2021)](https://renenauheimer.substack.com/p/how-josh-comeau-pulled-off-a-500000) ([HN](https://news.ycombinator.com/item?id=26692410))
 - [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Cross-platform python based utility to download courses from Udemy for personal offline use.
-- [CourseLift](https://courselift.com/) - Build and Launch Courses That Sell.
+- [CourseLift](https://courselift.com/) - Build and Launch Courses That Sell. ([Showcase](https://www.youtube.com/watch?v=kEf23_Th-vw))
 - [In Online Ed, Content Is No Longer King—Cohorts Are (2021)](https://future.a16z.com/cohort-based-courses/)
 - [Slip](https://www.slip.so/) - Build and sell interactive programming courses. ([HN](https://news.ycombinator.com/item?id=28141462)) ([GitHub](https://github.com/slipHQ)) ([Tweet](https://twitter.com/KennethCassel/status/1470438097284390916))
 - [Stepik Course Catalog](https://stepik.org/catalog)

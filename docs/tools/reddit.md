@@ -63,3 +63,4 @@ title: Reddit
 - [How We Built r/Place (2017)](https://www.redditinc.com/blog/how-we-built-rplace/) ([HN](https://news.ycombinator.com/item?id=30918440)) ([Lobsters](https://lobste.rs/s/tial7p/how_we_built_r_place_2017))
 - [2022 Place Atlas](https://place-atlas.stefanocoding.me/) - Aiming to catalog all the artworks created during Reddit's 2022 /r/place event. ([Code](https://github.com/Codixer/place-atlas))
 - [Redditle](https://redditle.com/) - Reddit-only Google Search. ([HN](https://news.ycombinator.com/item?id=30946792)) ([Code](https://github.com/greentfrapp/redditle))
+- [Photon Reddit](https://photon-reddit.com/) - Clean and modern Reddit desktop web client. ([Code](https://github.com/ArthurHeitmann/photon-reddit))

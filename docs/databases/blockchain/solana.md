@@ -249,3 +249,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana AccountsDB Connector](https://github.com/ckamm/solana-accountsdb-connector)
 - [SolDev](https://soldev.app/)
 - [Anchor Test UI](https://github.com/0xPratik/anchor-UI) - User Interface for calling a program's instructions.
+- [Shank](https://github.com/metaplex-foundation/shank) - Extracts IDL from Solana Rust contracts.

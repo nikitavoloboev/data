@@ -63,3 +63,4 @@ title: Protocol buffers
 - [pbkit](https://github.com/pbkit/pbkit) - Protobuf toolkit written in Deno/TypeScript. ([Web](https://pbkit.dev/)) ([HN](https://news.ycombinator.com/item?id=30903675))
 - [csproto](https://github.com/CrowdStrike/csproto) - CrowdStrike's Protocol Buffers library.
 - [protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript.
+- [protoletariat](https://github.com/cpcloud/protoletariat) - Protocol Buffers for the rest of us.

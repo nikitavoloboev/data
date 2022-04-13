@@ -590,3 +590,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Check the Chain (ctc)](https://github.com/fei-protocol/checkthechain) - Tool for historical data analysis of Ethereum and other EVM chains.
 - [Underhanded Solidity Contest](https://underhanded.soliditylang.org/) ([Code](https://github.com/ethereum/solidity-underhanded-contest))
 - [ERC721K](https://github.com/kadenzipfel/ERC721K) - Maximally efficient, minimalist ERC-721 implementation.
+- [StarkNet Cairo 101](https://github.com/l-henri/starknet-cairo-101) - Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts.

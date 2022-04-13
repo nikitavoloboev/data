@@ -1745,6 +1745,7 @@
 - [Mustache](https://github.com/nickel-org/rust-mustache) - Framework-agnostic way to render logic-free views.
 - [segment-tree](https://github.com/Darksonn/segment-tree) - Rust implementation of two segment trees and a fenwick tree.
 - [IO Bluetooth](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
+- [mp4](https://github.com/alfg/mp4-rust) - MP4 reader and writer library in Rust.
 
 ## Cargo Plugins
 

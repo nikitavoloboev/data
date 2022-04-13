@@ -561,6 +561,7 @@
 - [PkgCleanup](https://github.com/giordano/PkgCleanup.jl) - Garbage collects packages and artifacts that are no longer reachable.
 - [BatchedRoutines](https://github.com/Roger-luo/BatchedRoutines.jl) - Batched routines (BLAS, LAPACK, etc.) for multi-dimensional arrays.
 - [JunctionTrees](https://github.com/mroavi/JunctionTrees.jl) -  Metaprogramming-based implementation of the junction tree algorithm.
+- [LineSearches](https://github.com/JuliaNLSolvers/LineSearches.jl) - Line search methods for optimization and root-finding.
 
 ## Links
 

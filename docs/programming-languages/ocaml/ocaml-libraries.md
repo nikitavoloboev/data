@@ -25,6 +25,7 @@ title: OCaml libraries
 - [Mutaml](https://github.com/jmid/mutaml) - Mutation Tester for OCaml.
 - [Crowbar](https://github.com/stedolan/crowbar) - Property fuzzing for OCaml.
 - [qtest](https://github.com/vincent-hugot/qtest) - Inline (Unit) Tests for OCaml.
+- [QCheck](https://github.com/c-cube/qcheck) - Property-based testing for OCaml.
 
 ## Science
 

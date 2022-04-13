@@ -351,3 +351,4 @@ title: Next.js
 - [How DoorDash improved Web Page Performance and scaled with Next.JS (2022)](https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/)
 - [Storybook Addon Next](https://github.com/RyanClementsHax/storybook-addon-next) - No config Storybook addon that makes Next.js features just work in Storybook.
 - [Vulcan Next](https://github.com/VulcanJS/vulcan-next) - Build GraphQL-based applications with Next.js. ([Docs](https://vulcan-next.vercel.app/))
+- [Rust and WebAssembly Serverless Functions in Vercel](https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/) ([Code](https://github.com/second-state/vercel-wasm-runtime))

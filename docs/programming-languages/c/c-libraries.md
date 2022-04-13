@@ -144,3 +144,4 @@
 - [SDL_sound](https://github.com/icculus/SDL_sound) - Abstract soundfile decoder.
 - [musl libc](https://musl.libc.org/) - C standard library implementation for Linux. ([Wiki](https://wiki.musl-libc.org/)) ([Wiki Code](https://github.com/somasis/musl-wiki))
 - [PDCLib](https://github.com/DevSolar/pdclib) - Public Domain C Library.
+- [Shine](https://github.com/toots/shine) - Fast fixed-point mp3 encoding.

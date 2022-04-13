@@ -822,6 +822,7 @@
 - [pyzbar](https://github.com/NaturalHistoryMuseum/pyzbar) - Read one-dimensional barcodes and QR codes from Python.
 - [Odak](https://github.com/kunguz/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [embedding_reader](https://github.com/rom1504/embedding-reader) - Efficiently read embedding in streaming from any filesystem.
+- [Parsing](https://github.com/MagicStack/parsing) - Implements an LR(1) parser generator, as well as the runtime support for using a generated parser, via the Lr and Glr parser drivers.
 
 ## Links
 

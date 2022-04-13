@@ -38,3 +38,4 @@
 - [IOb-cache](https://github.com/IObundle/iob-cache) - High-performance configurable open-source Verilog cache.
 - [VeriGPU](https://github.com/hughperkins/VeriGPU) - OpenSource GPU, in Verilog, loosely based on RISC-V ISA.
 - [Asicle](https://github.com/htfab/asicle) - Wordle implemented in Verilog.
+- [Verilog rules for Bazel](https://github.com/Lightelligence/rules_verilog)

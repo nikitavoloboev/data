@@ -34,3 +34,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Scientists watch a memory form in the brain of a living fish](https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/) ([HN](https://news.ycombinator.com/item?id=30572633))
 - [Electric fields, not individual neurons, may hold information in memory: study (2022)](https://picower.mit.edu/news/neurons-are-fickle-electric-fields-are-more-reliable-information) ([HN](https://news.ycombinator.com/item?id=30662626))
 - [In Praise of Memorization](http://www.pearlleff.com/in-praise-of-memorization) ([HN](https://news.ycombinator.com/item?id=30763003))
+- [Human brain compresses working memories into low-res ‘summaries’ (2022)](https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/) ([HN](https://news.ycombinator.com/item?id=31002179))

@@ -14,7 +14,7 @@
 - [GitHub::DS](https://github.com/github/github-ds) - Collection of Ruby libraries for working with SQL on top of ActiveRecord's connection.
 - [Extralite](https://github.com/digital-fabric/extralite) - Fast Ruby gem for working with SQLite3 databases. ([Article](https://noteflakes.com/articles/2021-12-15-extralite))
 - [MiniSql](https://github.com/discourse/mini_sql) - Minimal, fast, safe SQL executor.
-- [pg_query](https://github.com/pganalyze/pg_query) - Ruby extension to parse, deparse and normalize SQL queries using the PostgreSQL query parser.
+- [pg_query](https://github.com/pganalyze/pg_query) - Ruby extension to parse, deparse and normalize SQL queries using the PostgreSQL query parser. ([pg_query 2.0](https://pganalyze.com/blog/pg-query-2-0-postgres-query-parser))
 
 ## Web
 

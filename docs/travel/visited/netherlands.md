@@ -34,3 +34,4 @@
 - [Open Kamer](https://www.openkamer.org/) - Insight into the Dutch parliament. ([Code](https://github.com/openkamer/openkamer))
 - [Software Engineer Salaries in the Netherlands: 500 total compensation data points (2022)](https://www.youtube.com/watch?v=-yYMV7m3wxY) ([Reddit](https://www.reddit.com/r/cscareerquestionsEU/comments/tbyi9v/software_engineer_salaries_in_the_netherlands_500/))
 - [Why The Netherlands Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=lP-G-inkkDg)
+- [Good sources for in-depth reporting in NL (2022)](https://www.reddit.com/r/Netherlands/comments/u2jf5r/what_is_a_good_source_for_indepth_reporting_in_nl/)

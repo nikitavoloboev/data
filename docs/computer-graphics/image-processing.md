@@ -174,3 +174,4 @@
 - [SAIL](https://github.com/HappySeaFox/sail) - Format-agnostic cross-platform image decoding library providing rich APIs, from one-liners to complex use cases with custom I/O sources.
 - [JPEG XL reference implementation](https://github.com/libjxl/libjxl)
 - [Image Similarity Measures](https://github.com/up42/image-similarity-measures) - Implementation of eight evaluation metrics to access the similarity between two images.
+- [Toolbox repository to help evaluate various methods that perform image matching from a pair of images](https://github.com/GrumpyZhou/image-matching-toolbox)

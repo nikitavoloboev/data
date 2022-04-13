@@ -766,3 +766,4 @@ title: Rust
 - [Hands-On Microservices with Rust Book (2019)](https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758) ([Code](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust))
 - [What Is Rust's unsafe? (2019)](https://nora.codes/post/what-is-rusts-unsafe/) ([HN](https://news.ycombinator.com/item?id=30979484))
 - [Achievement unlocked: rustc segfault](https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44) ([HN](https://news.ycombinator.com/item?id=30980984))
+- [How to speed up the Rust compiler in April 2022](https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html) ([Reddit](https://www.reddit.com/r/rust/comments/u2deqd/how_to_speed_up_the_rust_compiler_in_april_2022/))

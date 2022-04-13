@@ -223,3 +223,4 @@
 - [Scotty3D](https://github.com/CMU-Graphics/Scotty3D) - 3D graphics software package includes components for interactive mesh editing, realistic path tracing, and dynamic animation.
 - [Glad](https://glad.dav1d.de/) - Multi-Language GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs. ([Code](https://github.com/Dav1dde/glad))
 - [Why are 2D vector graphics so much harder than 3D? (2019)](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/) ([HN](https://news.ycombinator.com/item?id=30901537))
+- [Neural Volumes: Learning Dynamic Renderable Volumes from Images (2019)](https://arxiv.org/abs/1906.07751) ([Code](https://github.com/facebookresearch/neuralvolumes))

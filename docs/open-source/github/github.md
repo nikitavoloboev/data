@@ -393,3 +393,4 @@ Awesome List
 - [gid](https://github.com/k-nasa/gid) - Help project managers and project owners with easy-to-understand views of github issue dependencies.
 - [GitHub Webhook to Telegram](https://github.com/dashezup/github-webhook-to-telegram) - Receive GitHub webhook events and send to Telegram chats with AIOHTTP through Telegram Bot API.
 - [Octokit Webhooks](https://github.com/octokit/webhooks) - Machine-readable, always up-to-date GitHub Webhooks specifications.
+- [Codespaces Network Bridge](https://github.com/github/gh-net) - GitHub CLI extension that allows to bridge network between a Codespace and your local machine.

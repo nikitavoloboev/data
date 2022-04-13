@@ -80,3 +80,4 @@ Here are tools I use for streaming:
 - [End the Streaming Struggle with Plex (2022)](https://www.plex.tv/en-gb/blog/end-the-streaming-struggle-with-plex/) ([HN](https://news.ycombinator.com/item?id=30922711))
 - [srtrelay](https://github.com/voc/srtrelay) - Streaming-Relay for the SRT-protocol.
 - [Mapping the Twitch Universe (2021)](https://www.youtube.com/watch?v=m8XJUoKI_yU)
+- [Watch People Doing the Thing (2022)](https://earthly.dev/blog/golang-streamers/) ([Lobsters](https://lobste.rs/s/mls3ve/watch_people_doing_thing))

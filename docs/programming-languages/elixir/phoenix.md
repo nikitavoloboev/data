@@ -85,3 +85,4 @@ title: Phoenix framework
 - [Phoenix LiveView Cursors (2022)](https://koenvangilst.nl/blog/phoenix-liveview-cursors) ([Reddit](https://www.reddit.com/r/elixir/comments/tezcjr/a_tutorial_for_creating_a_live_cursors_feature_as/))
 - [Real World Phoenix](https://github.com/szTheory/real-world-phoenix) - Learn from Phoenix apps written by experienced developers.
 - [Exzeitable](https://github.com/alanvardy/exzeitable) - Dynamically updating, searchable, sortable datatables with Phoenix LiveView.
+- [Building a Streaming Music Service with Phoenix and Elixir (2022)](https://lofi.limo/blog/building-a-streaming-music-service-with-phoenix-and-elixir) ([Lobsters](https://lobste.rs/s/brqjad/building_streaming_music_service_with))
