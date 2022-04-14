@@ -155,3 +155,5 @@ title: Terraform
 - [Terraform Provider Cloudvision Portal (CVP)](https://github.com/aristanetworks/terraform-provider-cloudvision)
 - [Terraform Provider Iterative (TPI)](https://github.com/iterative/terraform-provider-iterative) - Easily run experiments (data+code) in the cloud (AWS, GCP, Azure, K8s) at low cost (spot instance recovery).
 - [Terrafunk](https://github.com/JasonPodgorny/terrafunk) - Utility that allows you to execute terraform and terragrunt functions from the command line for quick tests.
+- [Terraform Functions, Expressions, Loops (Examples)](https://spacelift.io/blog/terraform-functions-expressions-loops)
+- [5 Ways to Manage Terraform at Scale – Best Practices](https://spacelift.io/blog/5-ways-to-manage-terraform-at-scale)
