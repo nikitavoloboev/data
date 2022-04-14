@@ -126,3 +126,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: How did you overcome perfectionism? (2022)](https://news.ycombinator.com/item?id=30589374)
 - [Nailing Your First Launch – Adam Wathan (2018)](https://www.youtube.com/watch?v=ajrDxZRpP9M) ([Tweet](https://twitter.com/mpocock1/status/1507491400392318983))
 - [Ask HN: Have you created programs for only your personal use? (2022)](https://news.ycombinator.com/item?id=31018836)
+- [Startup Ideas Generator - a big startup ideas database made by real people (2022)](https://floppyapp.com/idea/)
