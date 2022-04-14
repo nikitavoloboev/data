@@ -142,6 +142,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Schemes](https://github.com/helje5/Schemes) - List apps with their registered schemes in macOS Launch Services.
 - [Hacker News client for macOS](https://github.com/mattrighetti/HNReaderApp)
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites. ([Web](http://selfcontrolapp.com/))
+- [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through timezones.
 
 ## Other interesting apps
 

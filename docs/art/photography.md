@@ -1,6 +1,6 @@
 # Photography
 
-Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/) is inspiring.
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/) & [Polina Washington](https://www.instagram.com/polina.washington/) are inspiring.
 
 [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) is great workshop.
 
@@ -206,3 +206,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [My free-software photography workflow (2022)](https://blog.fidelramos.net/photography/photography-workflow) ([HN](https://news.ycombinator.com/item?id=30904845))
 - [Winter 2021/2022 by Adam Manninen](https://www.adammanninen.com/winter-20212022)
 - [Taking Pictures the Hard Way: Documentation of my journey into analog film photography (2022)](https://blog.brixit.nl/getting-into-analog-photography/) ([HN](https://news.ycombinator.com/item?id=30989034))
+- [Apple unveils the best photos from the Shot on iPhone Macro Challenge (2022)](https://www.apple.com/newsroom/2022/04/apple-unveils-the-best-photos-from-the-shot-on-iphone-macro-challenge/) ([HN](https://news.ycombinator.com/item?id=31014194))

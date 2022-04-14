@@ -243,3 +243,4 @@
 - [Rill Data](https://www.rilldata.com/) - Fully Managed Apache Druid as a Service. ([Rill Developer](https://github.com/rilldata/rill-developer))
 - [Glean](https://glean.io/) - Fast data insights for your team.
 - [Dash Enterprise App Gallery](https://dash.gallery/Portal/) ([Code](https://github.com/plotly/dash-sample-apps))
+- [Comprehensive, original, insightful, and otherwise interesting data science blogs (2022)](https://www.narrator.ai/blog/comprehensive-original-insightful-and-otherwise-interesting-data-science-blogs/)

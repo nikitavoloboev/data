@@ -111,6 +111,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Link Preview Bot](https://t.me/linkpreviewbot) - Generates link previews for all links in messages. ([Code](https://github.com/KnorpelSenf/link-preview-bot))
 - [Telegram Bot Microservice](https://github.com/raisultan/tg-bot-service) - Basis for extendable, high-performance Telegram Bot microservice.
 - [TRTMP](https://github.com/callsmusic/trtmp) - Bot for streaming in Telegram live streams.
+- [Alerter](https://github.com/ultram4rine/alerter) - Telegram and Matrix bot for alerts from Alertmanager.
 
 ## Notes
 

@@ -540,3 +540,4 @@
 - [BLEURT: Learning Robust Metrics for Text Generation (2020)](https://arxiv.org/abs/2004.04696) ([Code](https://github.com/google-research/bleurt))
 - [Bootleg](https://hazyresearch.stanford.edu/bootleg/) - Self-supervised named entity disambiguation (NED) system that links mentions in text to entities in a knowledge base. ([Code](https://github.com/HazyResearch/bootleg))
 - [DALL-E in Mesh-TensorFlow](https://github.com/EleutherAI/DALLE-mtf)
+- [A few things to try with DALL·E (2022)](https://www.bramadams.dev/projects/dalle-tricks) ([HN](https://news.ycombinator.com/item?id=31009129))

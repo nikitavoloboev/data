@@ -208,3 +208,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [AIMSim](https://github.com/VlachosGroup/AIMSim) - Tool for visualizing diversity in your molecular data-set using structural fingerprints.
 - [ProteInfer](https://github.com/google-research/proteinfer) - Approach for predicting the functional properties of protein sequences using deep neural networks.
 - [Learning inverse folding from millions of predicted structures (2022)](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1) ([Code](https://github.com/facebookresearch/esm/tree/main/examples/inverse_folding)) ([Tweet](https://twitter.com/alexrives/status/1513602065557340162))
+- [What's next for AlphaFold and the AI protein-folding revolution (2022)](https://www.nature.com/articles/d41586-022-00997-5)

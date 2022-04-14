@@ -383,3 +383,4 @@ title: PyTorch
 - [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) - Segmentation toolbox for EM connectomics.
 - [TedNet](https://github.com/tnbar/tednet) - PyTorch Toolkit for Tensor Decomposition Networks.
 - [TorchData: PyTorch Composable Data loading utility library (2022)](https://aniketmaurya.com/pytorch/2022/04/09/TorchData.html)
+- [Equivariant Steerable CNNs Library for PyTorch](https://github.com/QUVA-Lab/escnn)

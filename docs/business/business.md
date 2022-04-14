@@ -149,3 +149,4 @@ Learning to build [startups](startups/startups.md).
 - [What are some lesser-known industries that's dominated by just 1-3 companies? (2022)](https://www.reddit.com/r/stocks/comments/tzoif7/what_are_some_lesserknown_industries_thats/)
 - [The 5 Dumbest Company Buyouts in History (2021)](https://www.youtube.com/watch?v=9Uh8Pz43KtQ)
 - [What was the smartest Corporate Buyout of All Time? (2020)](https://www.youtube.com/watch?v=XFEW4rr1xb0)
+- [Success and Failure at Pebble (2022)](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)

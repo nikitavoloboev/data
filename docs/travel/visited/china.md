@@ -78,3 +78,5 @@ China alongside [Russia](russia.md) and [many more countries](https://worldpopul
 - [Enemies of My Enemy (2022)](https://www.foreignaffairs.com/articles/2021-02-14/china-new-world-order-enemies-my-enemy) ([Reddit](https://www.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/))
 - [My Experience Working and Living in China (2022)](https://frankzliu.com/blog/my-experience-living-and-working-in-china-part-i) ([HN](https://news.ycombinator.com/item?id=30624579))
 - [The Unintended Consequences of China Leapfrogging to Mobile Internet (2022)](https://yiqinfu.github.io/posts/walled-gardens-china/) ([HN](https://news.ycombinator.com/item?id=30866438))
+- [Why is war in Ukraine rather an opportunity for China, despite all the risks and challenges (2022)](https://twitter.com/AlexGabuev/status/1514172721873276933)
+- [The Great Translation Movement Twitter](https://twitter.com/TGTM_Official) - Fourth estate, wanderer, Chinese information.

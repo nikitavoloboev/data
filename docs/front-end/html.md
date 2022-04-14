@@ -9,6 +9,8 @@ title: HTML
 - As a general rule, if there will be only one such element on the page, you can use an id. Otherwise, use a class.
 - [`<form method=post\>` is good to communicate a mutation.](https://twitter.com/ryanflorence/status/1370403183822921731)
 - [When I work on a website, I set the body to contenteditable="true". This allows you to edit all text on the page, which I find helpful to improve the content, and also enables spell checking.](https://www.reddit.com/r/programming/comments/tzmqua/those_html_attributes_you_never_use/)
+- `span is an inline div, it doesn't go to a new line`.
+- `use span for text, div for everything else (buttons, lines etc.)`
 
 ## Code
 
@@ -44,6 +46,18 @@ title: HTML
 ```html
 <!-- line break -->
 <br />
+```
+
+## Examples
+
+```html
+<!-- to see difference of span with inline -->
+<p>
+Hi<span> I'm inline</span>
+</p>
+<p>
+Hi<div>oh no break</div>
+</p>
 ```
 
 ## Links
@@ -176,7 +190,7 @@ title: HTML
 - [Does shadow DOM improve style performance? (2021)](https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/)
 - [Don't attach tooltips to document.body](https://atfzl.com/don-t-attach-tooltips-to-document-body) ([HN](https://news.ycombinator.com/item?id=28230977))
 - [Accessible autocomplete](https://github.com/alphagov/accessible-autocomplete) - Autocomplete component, built to be accessible.
-- [DOM Testing Library](https://github.com/testing-library/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices.
+- [DOM Testing Library](https://github.com/testing-library/dom-testing-library) - Simple and complete DOM testing utilities that encourage good testing practices. ([Docs](https://testing-library.com/docs/)) ([Discord](https://discord.gg/testing-library))
 - [On the <dl\> (2021)](https://benmyers.dev/blog/on-the-dl/)
 - [LazyHTML](https://github.com/cloudflare/lazyhtml) - HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner.
 - [tiny-vdom](https://github.com/aidenybai/tiny-vdom) - Smallest possible virtual DOM implementation.

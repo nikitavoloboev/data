@@ -231,3 +231,4 @@
 - [Grease](https://github.com/phronmophobic/grease) - Example of building a clojure library for iOS with graalvm native-image.
 - [Clojure calling C](https://github.com/saikyun/native-image-clojure-c) - Call C from Clojure using GraalVM -- then compile a binary using native-image.
 - [lein-native-image](https://github.com/taylorwood/lein-native-image) - Leiningen plugin to build GraalVM native images.
+- [Hash Array Mapped Tries in Clojure](https://github.com/frenchy64/optimized-kw-maps)

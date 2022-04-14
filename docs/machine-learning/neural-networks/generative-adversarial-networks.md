@@ -202,3 +202,4 @@ title: Generative adversarial networks
 - [Style Transformer for Image Inversion and Editing (2022)](https://arxiv.org/abs/2203.07932) ([Code](https://github.com/sapphire497/style-transformer))
 - [This Repository Does Not Exist](https://github.com/paulbricman/thisrepositorydoesnotexist) - Curated list of awesome projects which use Machine Learning to generate synthetic content.
 - [Stitch it in Time: GAN-Based Facial Editing of Real Videos (2022)](https://stitch-time.github.io/) ([Code](https://github.com/rotemtzaban/STIT))
+- [Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data (2022)](https://arxiv.org/abs/2204.04950) ([Code](https://github.com/FriedRonaldo/Primitives-PS))

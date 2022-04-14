@@ -125,3 +125,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: What is something exciting you're working on? (2022)](https://news.ycombinator.com/item?id=30419926)
 - [Ask HN: How did you overcome perfectionism? (2022)](https://news.ycombinator.com/item?id=30589374)
 - [Nailing Your First Launch – Adam Wathan (2018)](https://www.youtube.com/watch?v=ajrDxZRpP9M) ([Tweet](https://twitter.com/mpocock1/status/1507491400392318983))
+- [Ask HN: Have you created programs for only your personal use? (2022)](https://news.ycombinator.com/item?id=31018836)

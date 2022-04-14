@@ -9,7 +9,7 @@
 - [changesets](https://github.com/atlassian/changesets) - Way to manage your versioning and changelogs with a focus on multi-package repositories.
 - [Ask HN: Do you ever truly use your revision history? (2020)](https://news.ycombinator.com/item?id=22516414)
 - [Data Version Control](https://github.com/iterative/dvc) - Git for Data & Models.
-- [EdenSCM](https://github.com/facebookexperimental/eden) - Cross-platform, highly scalable source control management system.
+- [EdenSCM](https://github.com/facebookexperimental/eden) - Cross-platform, highly scalable source control management system. ([HN](https://news.ycombinator.com/item?id=31006003))
 - [Fossil](https://www.fossil-scm.org/home/doc/trunk/www/index.wiki) - Simple, high-reliability, distributed software configuration management system. ([HN](https://news.ycombinator.com/item?id=24643200)) ([HN](https://news.ycombinator.com/item?id=30815693))
 - [Darcs, friendly version control](https://darcsbook.acmelabs.space/) ([Lobsters](https://lobste.rs/s/zgpvwq/darcs_friendly_version_control))
 - [Sentimental Versioning](http://sentimentalversioning.org/) ([HN](https://news.ycombinator.com/item?id=24751264))

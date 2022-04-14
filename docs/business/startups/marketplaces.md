@@ -1,5 +1,9 @@
 # Marketplaces
 
+## Notes
+
+- [Roblox has insane markup on its in-game currency.](https://www.reddit.com/r/virtualreality/comments/u2csan/meta_plans_to_take_nearly_50_of_creators_earnings/i4ihtlr/?utm_source=reddit&utm_medium=web2x&context=3)
+
 ## Links
 
 - [Marketplace Resource Stash](https://thinkbox.io/#resourcestash)

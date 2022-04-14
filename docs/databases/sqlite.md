@@ -182,3 +182,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [SQLite Database File Format](https://www.sqlite.org/fileformat.html)
 - [sqlite-parquet-vtable](https://github.com/cldellow/sqlite-parquet-vtable) - SQLite virtual table extension to expose Parquet files as SQL tables.
 - [Litestream Read Replica Example](https://github.com/benbjohnson/litestream-read-replica-example) - Example of how to setup and deploy a multi-node SQLite database using Litestream's live read replication feature.
+- [numbsql](https://github.com/cpcloud/numbsql) - Run Numba compiled functions into SQLite.

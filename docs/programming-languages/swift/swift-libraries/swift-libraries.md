@@ -1073,6 +1073,7 @@
 - [SwiftLocation](https://github.com/malcommac/SwiftLocation) - Lightweight Swift Library that provides an easy way to work with location-related functionalities.
 - [Feedbacks](https://github.com/CombineCommunity/Feedbacks) - Tool to build feedback loops within a Swift based application. Feedbacks relies on Combine and is compatible with SwiftUI and UIKit.
 - [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) - Fast & Lightweight MsgPack Serializer & Deserializer for Swift.
+- [RoughSwift](https://github.com/onmyway133/RoughSwift) - Create hand-drawn, sketchy, comic shape in Swift.
 
 ## Other (not lib)
 

@@ -124,3 +124,4 @@ title: OCaml
 - [2021 at OCamlPro](https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro)
 - [OCaml 4.14.0 (2022)](https://discuss.ocaml.org/t/ocaml-4-14-0-is-released/9600)
 - [camlboot](https://github.com/Ekdohibs/camlboot) - OCaml bootstrap experiment.
+- [Everything in OCaml, a blog generated and served in OCaml using MirageOS](https://blog.osau.re/articles/blog_requiem.html)

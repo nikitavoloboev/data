@@ -17,6 +17,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Richard Rapport](https://www.chess.com/players/richard-rapport)
 - [Dmitry Andreikin](https://www.chess.com/players/dmitry-andreikin)
 - [Luis Supi](https://www.chess.com/member/lpsupi) ([Video](https://www.youtube.com/watch?v=BlqpD0cj6dA))
+- [Praggnanandhaa Rameshbabu](https://www.chess.com/member/rpragchess) ([Video](https://www.youtube.com/watch?v=tybMHzGtTlA))
 
 ## Favorite games
 
@@ -191,3 +192,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [The Secrets of Zugzwang in Chess, Math and Pizzas](https://www.quantamagazine.org/the-secrets-of-zugzwang-in-chess-math-and-pizzas-20220408/)
 - [lila-ws](https://github.com/lichess-org/lila-ws) - Lichess' websocket server.
 - [lila-http](https://github.com/lichess-org/lila-http) - Take some of the HTTP load away from lila.
+- [Hanging Pawns - YouTube](https://www.youtube.com/c/HangingPawns/videos)
+- [BotLi](https://github.com/codingforhelp/Lichess-Bot) - Bot for Lichess.
+- [lichess-bot](https://github.com/ShailChoksi/lichess-bot) - Bridge between Lichess Bot API and bots.
+- [Lichess.org API](https://lichess.org/api#operation/apiStreamEvent) - Play on Lichess as a bot. Allows engine play.

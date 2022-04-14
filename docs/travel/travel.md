@@ -119,3 +119,5 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Van life (cancer edition) finale](https://imgur.com/gallery/prUy1Kt) ([HN](https://news.ycombinator.com/item?id=30983714))
 - [Nomad Passport Index: The World's Best Passports](https://nomadcapitalist.com/nomad-passport-index/)
 - [Why Not All Passports are Created Equal (2022)](https://www.youtube.com/watch?v=Qpi1OlRmFIM)
+- [Explore World](https://www.explordle.com/map/wor) - Guess where you are based on video feed.  ([HN](https://news.ycombinator.com/item?id=30970911))
+- [Places with "bad reputations" you enjoyed? (2022)](https://www.reddit.com/r/solotravel/comments/u2kav6/places_with_bad_reputations_you_enjoyed/)

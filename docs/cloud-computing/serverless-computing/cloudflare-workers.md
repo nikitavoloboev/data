@@ -145,3 +145,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Mantle - Serverless Maps using Lambda or Cloudflare Workers (2022)](https://protomaps.com/blog/serverless-self-hosted-maps/) ([HN](https://news.ycombinator.com/item?id=30948255))
 - [Cloudflare metrics worker](https://github.com/vanadium23/cf-metrics) - Send your page views from Cloudflare worker to InfluxDB.
 - [Cloudflare KV Action](https://github.com/zentered/cloudflare-kv-action) - Put and get values from Cloudflare KV.
+- [GraphQL Yoga for Cloudflare Workers (Wrangler template)](https://github.com/the-guild-org/yoga-cloudflare-workers-template)

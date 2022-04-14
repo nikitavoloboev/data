@@ -72,3 +72,4 @@ title: Automata theory
 - [On the Concept of Motion (2022)](https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/)
 - [Buttons as Finite Automata](https://web.stanford.edu/class/archive/cs/cs103/cs103.1142/button-fsm/) ([HN](https://news.ycombinator.com/item?id=30775365))
 - [Conway's Game of Life: Mathematics and Construction](https://conwaylife.com/book/) ([Code](https://github.com/nathanieljohnston/game-of-life-book))
+- [Conway's Game of Life – Mathematics and Construction](https://conwaylife.com/book/conway_life_book.pdf) ([HN](https://news.ycombinator.com/item?id=31000502))

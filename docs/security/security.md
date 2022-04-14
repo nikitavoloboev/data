@@ -284,3 +284,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [HackerOne](https://www.hackerone.com/) - Hacker-Powered Security, Bug Bounties, and Pentests. ([Go Client](https://github.com/liamg/hackerone))
 - [Grapl](https://www.graplsecurity.com/) - Graph platform for Detection and Response. ([Code](https://github.com/grapl-security/grapl))
 - [PARSEC](https://github.com/parallaxsecond/parsec) - Open-source initiative to provide a common API to hardware security and cryptographic services in a platform-agnostic way.
+- [SecurityZines](https://securityzines.com/)

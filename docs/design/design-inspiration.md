@@ -32,6 +32,7 @@ Here are few more things I liked, design wise.
 - [Iron Fish](https://ironfish.network/)
 - [Centra](https://www.centra.com/)
 - [Solend](https://solend.fi/)
+- [Darkroom](https://darkroom.co/)
 - [Phantom](https://phantom.app/)
 - [Arrival](https://arrival.com/)
 - [Framer](https://www.framer.com/)
@@ -166,6 +167,7 @@ Here are few more things I liked, design wise.
 
 ## Blogs
 
+- [Darkroom](https://darkroom.co/blog)
 - [Majid](https://swiftwithmajid.com/) ([Code](https://github.com/mecid/mecid.github.io))
 - [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)

@@ -119,4 +119,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Wiki CLI](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI.
 - [tush](https://github.com/darius/tush) - Literate testing for command-line programs.
 - [-h --help -help help --? -? ???? (2022)](https://blog.craftyguy.net/cmdline-help/) ([Lobsters](https://lobste.rs/s/9e7yoy/h_help_help_help)) ([HN](https://news.ycombinator.com/item?id=30991834))
-- [A list of new(ish) command line tools (2022)](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/)
+- [New(ish) command line tools (2022)](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) ([HN](https://news.ycombinator.com/item?id=31009313))

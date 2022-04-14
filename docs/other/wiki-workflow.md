@@ -460,3 +460,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [25+ years of personal knowledge management (2022)](https://dsebastien.net/blog/2022-04-03-25-years-of-personal-knowledge-management) ([HN](https://news.ycombinator.com/item?id=30903940))
 - [Heptabase](https://heptabase.com/) - Note-taking tool for visual learning.
 - [My Org Roam Notes Workflow (2021)](https://hugocisneros.com/blog/my-org-roam-notes-workflow/) ([HN](https://news.ycombinator.com/item?id=30965343))
+- [todo.txt format](https://github.com/todotxt/todo.txt) - Complete primer on the whys and hows of todo.txt.

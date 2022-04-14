@@ -70,3 +70,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [yadm](https://yadm.io/) - Yet Another Dotfiles Manager. ([Code](https://github.com/TheLocehiliosan/yadm))
 - [Ask HN: Dotfiles Management Tools? (2021)](https://news.ycombinator.com/item?id=26867467)
 - [dfm](https://github.com/CGamesPlay/dfm) - Dotfile manager with 0 dependencies, minimal configuration, and automatic cleanup.
+- [A Dotfile History (2022)](https://myme.no/posts/2022-04-11-a-dotfile-history.html) ([HN](https://news.ycombinator.com/item?id=31001126))

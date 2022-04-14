@@ -163,3 +163,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Boost Note](https://boostnote.io/) - Document driven project management tool that maximizes remote DevOps team velocity. ([Code](https://github.com/BoostIO/BoostNote-App))
 - [arx](https://github.com/solidsnack/arx) - Bundles code and a job to run for local or remote execution.
 - [Open Build Service](https://openbuildservice.org/) - Generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. ([CLI](https://github.com/openSUSE/osc))
+- [JReleaser](https://github.com/jreleaser/jreleaser) - Release projects quickly and easily. ([Web](https://jreleaser.org/))

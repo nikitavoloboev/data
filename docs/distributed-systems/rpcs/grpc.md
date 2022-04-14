@@ -106,3 +106,4 @@ title: gRPC
 - [grpc-build](https://github.com/stefandanaita/grpc-build) - Flexible way to manage protobuf files and generate the gRPC code required by tonic.
 - [gRPC Kit](https://github.com/chainguard-dev/go-grpc-kit) - Utility methods for gRPC.
 - [falafel](https://github.com/lightninglabs/falafel) - Go tool to generate go APIs for gRPC services for use on mobile/WASM platforms.
+- [GRPC consul resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy-pluggable full-feature GRPC resolver for services registered in Consul.

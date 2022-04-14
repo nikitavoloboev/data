@@ -122,3 +122,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Static Starter Boilerplate](https://www.staticstarter.com/) - Build Better & Faster Websites Today.
 - [Static Web Server](https://github.com/joseluisq/static-web-server) - Blazing fast and asynchronous web server for static files-serving.
 - [Bookshop](https://github.com/CloudCannon/bookshop) - Component development workflow for static websites.
+- [A tiny Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website) ([HN](https://news.ycombinator.com/item?id=31003395))

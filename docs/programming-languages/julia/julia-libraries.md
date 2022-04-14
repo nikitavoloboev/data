@@ -562,6 +562,7 @@
 - [BatchedRoutines](https://github.com/Roger-luo/BatchedRoutines.jl) - Batched routines (BLAS, LAPACK, etc.) for multi-dimensional arrays.
 - [JunctionTrees](https://github.com/mroavi/JunctionTrees.jl) -  Metaprogramming-based implementation of the junction tree algorithm.
 - [LineSearches](https://github.com/JuliaNLSolvers/LineSearches.jl) - Line search methods for optimization and root-finding.
+- [SimpleChains](https://github.com/PumasAI/SimpleChains.jl) - Only supports simple chains, but it intends to be fast for small problems on the CPU.
 
 ## Links
 

@@ -1746,6 +1746,7 @@
 - [segment-tree](https://github.com/Darksonn/segment-tree) - Rust implementation of two segment trees and a fenwick tree.
 - [IO Bluetooth](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
 - [mp4](https://github.com/alfg/mp4-rust) - MP4 reader and writer library in Rust.
+- [PyO3-File](https://github.com/omerbenamram/pyo3-file) - Small helper library for working with python file-like objects with rust.
 
 ## Cargo Plugins
 

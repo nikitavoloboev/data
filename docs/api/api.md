@@ -125,7 +125,7 @@
 - [Spotify TS 2](https://github.com/tspotify/tspotify)
 - [Spotify TS 3](https://github.com/backtrackapp/spotify.js)
 - [Spotify Go](https://github.com/zmb3/spotify)
-- [Spotify GraphQL](https://github.com/wittydeveloper/spotify-graphql) - GraphQL schema for Spotify WebAPI.
+- [Spotify GraphQL](https://github.com/charlypoly/spotify-graphql) - GraphQL schema for Spotify WebAPI.
 - [Spotify Python](https://github.com/plamere/spotipy)
 - [Spotify Rust](https://github.com/librespot-org/librespot)
 - [Spotify Rust 2](https://github.com/plietar/librespot)
@@ -382,3 +382,4 @@
 - [Yaade](https://github.com/EsperoTech/yaade) - Open-source, self-hosted, collaborative API development environment. ([HN](https://news.ycombinator.com/item?id=30895372))
 - [Reservation-style rate limiting APIs (2022)](https://brandur.org/fragments/reservation-api)
 - [Bad Magic](https://github.com/smartrent/badmagic) - Swagger-UI alternative that allows developers to visualize and test their API resources from a convenient web interface.
+- [The complete guide to protecting your APIs with OAuth2 (2022)](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/)

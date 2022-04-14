@@ -937,3 +937,4 @@
 - [pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite) - Load data about Python packages from PyPI into SQLite.
 - [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage) - Docstring coverage analysis and rating for Python.
 - [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python.
+- [Python f-string guide](https://fstring.help/)
