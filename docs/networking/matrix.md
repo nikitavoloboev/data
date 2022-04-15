@@ -101,3 +101,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Playing with Matrix: Conduit and Synapse (2022)](https://akselmo.dev/2022/04/01/Playing-with-Matrix-Conduit-and-Synapse.html)
 - [Matrix.to](https://matrix.to/) - Simple stateless privacy-protecting URL redirecting service for Matrix. ([Code](https://github.com/matrix-org/matrix.to))
 - [Element X iOS](https://github.com/vector-im/element-x-ios) - Matrix client provided by Element and based on the Matrix Rust SDK.
+- [Matrix React SDK](https://github.com/matrix-org/matrix-react-sdk)

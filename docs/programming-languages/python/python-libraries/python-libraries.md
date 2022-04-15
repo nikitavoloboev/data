@@ -824,6 +824,7 @@
 - [Odak](https://github.com/kunguz/odak) - Scientific computing library for optics, computer graphics and visual perception.
 - [embedding_reader](https://github.com/rom1504/embedding-reader) - Efficiently read embedding in streaming from any filesystem.
 - [Parsing](https://github.com/MagicStack/parsing) - Implements an LR(1) parser generator, as well as the runtime support for using a generated parser, via the Lr and Glr parser drivers.
+- [Dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Module that helps you to diff and patch dictionaries.
 
 ## Links
 

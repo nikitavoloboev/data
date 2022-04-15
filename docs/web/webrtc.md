@@ -99,3 +99,4 @@ title: WebRTC
 - [node-webrtc](https://github.com/node-webrtc/node-webrtc) - Node.js Native Addon that provides bindings to WebRTC.
 - [How and why Daily is using Rust for our WebRTC APIs (2022)](https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/)
 - [Daily.co](https://www.daily.co/) - WebRTC video and audio APIs for every developer.
+- [WebRTC Remote Control](https://github.com/topheman/webrtc-remote-control) - Abstraction layer above peerjs that will let you be more productive at making WebRTC data channels based apps.

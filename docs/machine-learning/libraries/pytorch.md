@@ -387,3 +387,5 @@ title: PyTorch
 - [PyTorch C++ inference with LibTorch](https://github.com/BIGBALLON/PyTorch-CPP)
 - [pl_cross](https://github.com/SkafteNicki/pl_cross) - Cross validation in PyTorch lightning made easy.
 - [diffsptk](https://github.com/sp-nitech/diffsptk) - Differentiable version of SPTK based on the PyTorch framework.
+- [minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with PyTorch.
+- [torchdistX](https://github.com/pytorch/torchdistx) - Torch Distributed Experimental.

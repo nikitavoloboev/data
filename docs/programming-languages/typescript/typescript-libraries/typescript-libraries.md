@@ -459,6 +459,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Qufl](https://github.com/Mahamed-Belkheir/qufl) - JWT authentication library that supports refresh tokens.
 - [ts-macros](https://github.com/GoogleFeud/ts-macros) - Custom typescript transformer which implements function macros.
 - [CronosJS](https://github.com/jaclarke/cronosjs) - Cron based task scheduler for node and the browser, with extended syntax and timezone support.
+- [Schemawax](https://github.com/michaljanocko/schemawax) - Tiny typed data decoder—get to the DNA of your data.
 
 ## Links
 

@@ -169,6 +169,7 @@
 - [sconfig](https://github.com/ekrich/sconfig) - Configuration library written in Scala which is a direct translation of the original widely used Java library.
 - [Akka Stream Contrib](https://github.com/akka/akka-stream-contrib)
 - [Jsoniter Scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs.
+- [Staged Program Analyzers](https://github.com/Kraks/sai) - Improving the performance of static analysis by meta-programming/multi-stage programming.
 
 ## Links
 

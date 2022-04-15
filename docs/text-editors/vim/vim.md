@@ -302,3 +302,4 @@ zz
 - [Vim University](https://github.com/wincent/vim-university) - Curriculum for leveling up your Vim.
 - [Why I love Vim: It’s the lesser-known features that make it so amazing (2016)](https://www.freecodecamp.org/news/learn-linux-vim-basic-features-19134461ab85/)
 - [Interview with a VIM Enthusiast 2022](https://www.youtube.com/watch?v=9n1dtmzqnCU)
+- [Git Jump to Vim Quickfix (2022)](https://evantravers.com/articles/2022/04/14/git-jump-to-vim-quickfix/)
