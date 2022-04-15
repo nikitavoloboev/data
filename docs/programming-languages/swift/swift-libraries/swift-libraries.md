@@ -249,6 +249,7 @@
 - [SwiftAlertView](https://github.com/dinhquan/SwiftAlertView) - Powerful AlertView library written in Swift.
 - [WebViewKit](https://github.com/danielsaidi/WebViewKit) - Adds a WebView to SwiftUI.
 - [StickyTabBarViewController](https://github.com/emrepun/StickyTabBarViewController) - Sticky and Collapsible View on top of tab bar.
+- [NotSwiftUI](https://github.com/Jonas1197/notSwiftUI) - Designed to help you create UI components quickly and efficiently with code.
 
 ## macOS
 

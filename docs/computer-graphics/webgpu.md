@@ -58,3 +58,4 @@ title: WebGPU
 - [go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU.
 - [wgpu Graphics Programming in Rust: Step-by-Step](https://github.com/jack1232/wgpu-step-by-step)
 - [WebGPU Conformance Test Suite](https://github.com/gpuweb/cts)
+- [WebGPU Webpack + TypeScript Starter](https://github.com/Twinklebear/webgpu-webpack-typescript-starter) - Starter template for WebGPU development using webpack and TypeScript.

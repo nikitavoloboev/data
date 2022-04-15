@@ -344,3 +344,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Copybara](https://github.com/google/copybara) - Tool for transforming and moving code between repositories. Used at Google.
 - [Ott](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi.
 - [PL Papers You Might Love Newsletter](https://newsletter.papersyoumightlove.pl/)
+- [ogma](https://github.com/kdr-aus/ogma) - Scripting language focused on processing tabular data.

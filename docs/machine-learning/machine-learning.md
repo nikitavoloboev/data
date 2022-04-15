@@ -772,3 +772,4 @@
 - [SmallScience](https://github.com/SeanNaren/SmallScience) - My journey to training a large(ish) transformer model.
 - [Temporal Spike Sequence Learning via Backpropagation for Deep Spiking Neural Networks (TSSL-BP)](https://proceedings.neurips.cc/paper/2020/hash/8bdb5058376143fa358981954e7626b8-Abstract.html) ([Code](https://github.com/stonezwr/TSSL-BP))
 - [Recommender Systems, Not Just Recommender Models (2022)](https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
+- [Reading Lists of Machine Learning, Natural Language Processing and etc.](https://github.com/IsaacChanghau/DL-NLP-Readings)

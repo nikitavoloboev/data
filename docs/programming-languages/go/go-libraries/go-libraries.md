@@ -1646,3 +1646,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Generation of SLSA3+ provenance for Go binaries](https://github.com/slsa-framework/slsa-github-generator-go)
 - [Structured configuration in Go (2022)](https://andrewpillar.com/programming/2022/04/09/structured-configuration-in-go/)
 - [How to install Go modules](https://go.dev/ref/mod#go-install)
+- [GoMajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.

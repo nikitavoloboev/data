@@ -514,3 +514,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Leave](https://github.com/MrNossiom/git-leave) - Check for unsaved or uncommitted changes on your machine.
 - [Use Git tactically (2022)](https://stackoverflow.blog/2022/04/06/use-git-tactically/) ([HN](https://news.ycombinator.com/item?id=30943478))
 - [Git Katas](https://github.com/eficode-academy/git-katas) - Set of exercises for deliberate Git Practice.
+- [Git Mirror](https://github.com/bachp/git-mirror) - Watch a GitLab or GitHub groups and keep it in sync with external git repositories.

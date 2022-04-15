@@ -2,7 +2,7 @@
 
 Below is a list of music artists I like. I attach my favorite songs from these artists.
 
-If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani](http://haniarani.com/), [GoGo Penguin](https://gogopenguin.co.uk/) or [Big Thief](https://bigthief.net/) play live, do it. ♥️
+If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani](http://haniarani.com/), [Agnes Obel](https://www.agnesobel.com/), [GoGo Penguin](https://gogopenguin.co.uk/) or [Big Thief](https://bigthief.net/) play live, do it. ♥️
 
 [This](https://www.youtube.com/watch?v=kFRdoYfZYUY) performance by Hania Rani is truly incredible.
 

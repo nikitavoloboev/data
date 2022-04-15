@@ -466,3 +466,4 @@ for i, _ in enumerate(nums):
 - [Yet another Python JIT.](https://github.com/eliphatfs/yapyjit)
 - [Ask HN: Python Programming Books (2022)](https://news.ycombinator.com/item?id=30980813)
 - [Best of Python Developer Tools](https://github.com/ml-tooling/best-of-python-dev) - Ranked list of awesome python developer tools and libraries. Updated weekly.
+- [Faster CPython: Notes on making CPython faster](https://faster-cpython.readthedocs.io/) ([Code](https://github.com/vstinner/faster_cpython))

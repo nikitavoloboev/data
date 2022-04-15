@@ -112,3 +112,4 @@
 - [pingfs](https://github.com/yarrick/pingfs) - File system where the data is stored only in the Internet itself,
 as ICMP Echo packets (pings) traveling from you to remote servers and back again.
 - [Merged FS: Compose Multiple Go Filesystems](https://github.com/yalue/merged_fs)
+- [composefs - a file system for container images (2021)](https://www.scrivano.org/posts/2021-10-26-compose-fs/)

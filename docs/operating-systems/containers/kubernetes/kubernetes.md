@@ -705,3 +705,4 @@ title: Kubernetes
 - [Kyma](https://kyma-project.io/) - Easy way to extend enterprise applications on Kubernetes. ([Code](https://github.com/kyma-project/kyma))
 - [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize RBAC roles for the specified subject (ServiceAccount, User and Group).
 - [Beetle](https://github.com/Clivern/Beetle) - Kubernetes multi-cluster deployment automation service.
+- [Nubenetes: Awesome Kubernetes & Cloud](https://nubenetes.com/) ([Code](https://github.com/nubenetes/awesome-kubernetes))

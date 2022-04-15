@@ -67,3 +67,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine) ([HN](https://news.ycombinator.com/item?id=30858202))
 - [What’s everyone favorite 2 drug combination](https://www.reddit.com/r/Psychonaut/comments/tt7qt6/whats_everyone_favourite_2_drug_combination/)
 - [Salvum](https://salvum.love/) - Consolidates harm reduction resources in one place. ([Code](https://github.com/NoahSaso/salvum))
+- [Movies with accurate“drug trip sequences”](https://www.reddit.com/r/MovieSuggestions/comments/u3q6ux/movies_with_accuratedrug_trip_sequences/)

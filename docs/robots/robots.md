@@ -159,3 +159,4 @@
 - [Urdfpy](https://github.com/mmatl/urdfpy) - Python parser for URDFs.
 - [SimNet: Enabling Robust Unknown Object Manipulation from Pure Synthetic Data via Stereo (2021)](https://arxiv.org/abs/2106.16118) ([Code](https://github.com/ToyotaResearchInstitute/simnet))
 - [OpenMower](https://github.com/ClemensElflein/OpenMower) - DIY Smart Mowing Robot for Everyone. ([Video](https://www.youtube.com/watch?v=BSF04i3zNGw)) ([HN](https://news.ycombinator.com/item?id=31014160))
+- [ODriveHardware](https://github.com/madcowswe/ODriveHardware) - High performance motor control.

@@ -710,3 +710,4 @@
 - [Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation (2020)](https://arxiv.org/abs/2001.08735) ([Code](https://github.com/hytseng0509/CrossDomainFewShot))
 - [BACON: Band-limited Coordinate Networks for Multiscale Scene Representation (2022)](https://arxiv.org/abs/2112.04645) ([Code](https://github.com/computational-imaging/bacon))
 - [Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results (2022)](https://arxiv.org/abs/2204.03475) ([Code](https://github.com/Alibaba-MIIL/Solving_ImageNet))
+- [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering (2021)](https://www.vincentsitzmann.com/lfns/) ([Code](https://github.com/vsitzmann/light-field-networks))

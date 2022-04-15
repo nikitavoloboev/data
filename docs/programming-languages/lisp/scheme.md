@@ -81,3 +81,4 @@ title: Scheme
 - [agda2scheme](https://github.com/jespercockx/agda2scheme) - Agda backend for Chez Scheme.
 - [The Reasoned Schemer Book (2018)](https://mitpress.mit.edu/books/reasoned-schemer-second-edition) ([Code](https://github.com/TheReasonedSchemer2ndEd/CodeFromTheReasonedSchemer2ndEd))
 - [Haskeme](https://github.com/jumper149/haskeme) - Compiler translates Scheme source code written with I-Expressions (indented expressions) into S-Expressions (symbolic expressions).
+- [Bob](https://github.com/eliben/bobscheme) - Implementation of Scheme in Python and C++.
