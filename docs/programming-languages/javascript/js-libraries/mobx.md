@@ -38,3 +38,4 @@ title: MobX
 - [MobX Easy Form](https://github.com/hrastnik/mobx-easy-form) - Simple and performant form library built with MobX.
 - [mobx-vue-lite](https://github.com/mobxjs/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
 - [mobx-async-toolkit](https://github.com/alan2207/mobx-async-toolkit) - Toolkit for handling async operations in MobX stores.
+- [Understanding MobX](https://github.com/jeromepl/understanding-mobx) - Minimalist implementation of MobX to better understand its inner workings.
