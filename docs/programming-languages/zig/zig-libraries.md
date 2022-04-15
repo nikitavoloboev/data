@@ -6,6 +6,7 @@
 - [Zig Argument Parser](https://github.com/MasterQ32/zig-args) - Simple-to-use argument parser with struct-based config.
 - [mibu](https://github.com/xyaman/mibu) - Pure Zig library for low-level terminal manipulation.
 - [zig-cli](https://github.com/sam701/zig-cli) - Simple package for building command line apps in Zig.
+- [zig-arg](https://github.com/PrajwalCH/zig-arg) - clap-rs inspired arg parser library for zig that supports both subcommand, nested subcommand and flag.
 
 ## Web
 

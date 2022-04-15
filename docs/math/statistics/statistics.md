@@ -154,3 +154,4 @@
 - [Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/basic-modeling) ([Tweet](https://twitter.com/rickasaurus/status/1503021666179461122))
 - [Regression, a Friendly Guide Book (2022)](https://www.manning.com/books/regression-a-friendly-guide) ([Code](https://github.com/mbrudd/regression))
 - [Improving forecasting by learning quantile functions (2022)](https://www.amazon.science/blog/improving-forecasting-by-learning-quantile-functions)
+- [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics](https://crypto.stanford.edu/prio/)

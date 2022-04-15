@@ -83,3 +83,4 @@ title: Conflict-free replicated data type
 - [A highly-available move operation for replicated trees](https://martin.kleppmann.com/papers/move-op.pdf) ([HN](https://news.ycombinator.com/item?id=30811072))
 - [Testing CRDTs in Rust, From Theory to Practice (2022)](https://www.ditto.live/blog/testing-crdts-in-rust-from-theory-to-practice) ([Lobsters](https://lobste.rs/s/uzuizm/testing_crdts_rust_from_theory_practice))
 - [CRDTs](https://github.com/orbitdb/crdts) - Library of Conflict-Free Replicated Data Types for JavaScript.
+- [CRDT Swift](https://github.com/bluk/CRDT) - Convergent and Commutative Replicated Data Types implementation in Swift.
