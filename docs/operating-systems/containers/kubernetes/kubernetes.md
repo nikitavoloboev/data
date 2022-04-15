@@ -706,3 +706,5 @@ title: Kubernetes
 - [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize RBAC roles for the specified subject (ServiceAccount, User and Group).
 - [Beetle](https://github.com/Clivern/Beetle) - Kubernetes multi-cluster deployment automation service.
 - [Nubenetes: Awesome Kubernetes & Cloud](https://nubenetes.com/) ([Code](https://github.com/nubenetes/awesome-kubernetes))
+- [KubeRay](https://github.com/ray-project/kuberay) - Toolkit to run Ray applications on Kubernetes.
+- [GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio](https://github.com/stefanprodan/gitops-istio)

@@ -2,6 +2,7 @@
 
 ## Web
 
+- [IWNET](https://github.com/Softmotions/iwnet) - Pure C Asynchronous HTTP library with websockets, SSL, routing.
 - [facil.io](https://github.com/boazsegev/facil.io) - C micro-framework for web applications.
 - [libart](https://github.com/armon/libart) - Adaptive Radix Trees implemented in C.
 - [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C. ([HN](https://news.ycombinator.com/item?id=21777401))
@@ -145,3 +146,4 @@
 - [musl libc](https://musl.libc.org/) - C standard library implementation for Linux. ([Wiki](https://wiki.musl-libc.org/)) ([Wiki Code](https://github.com/somasis/musl-wiki))
 - [PDCLib](https://github.com/DevSolar/pdclib) - Public Domain C Library.
 - [Shine](https://github.com/toots/shine) - Fast fixed-point mp3 encoding.
+- [Portable Snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.

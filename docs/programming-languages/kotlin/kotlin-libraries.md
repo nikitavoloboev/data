@@ -67,6 +67,7 @@
 - [Kastree](https://github.com/cretz/kastree) - Simple library to manipulate Kotlin source code as a set of AST objects.
 - [Stately](https://github.com/touchlab/Stately) - State utility library to facilitate state management in Kotlin Multiplatform.
 - [Aurora](https://github.com/kirill-grouchnikov/aurora) - Building modern, elegant and fast Compose Desktop applications.
+- [Okio](https://github.com/square/okio) - Modern I/O library for Android, Java, and Kotlin Multiplatform.
 
 ## Links
 

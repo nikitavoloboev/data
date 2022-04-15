@@ -470,3 +470,4 @@ title: PostgreSQL
 - [icu_ext](https://github.com/dverite/icu_ext) - PostgreSQL extension (in C) to expose functionality from the ICU library.
 - [pg-simplify-inflector](https://github.com/graphile/pg-simplify-inflector) - Simplifies the graphile-build-pg inflector to trim the `ByFooIdAndBarId` from relations.
 - [Multiranges in PostgreSQL 14 (2022)](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
+- [SupaDB](https://www.supadb.dev/) - Connect and play with Supabase REST API / GraphQL easily. ([Code](https://github.com/zernonia/supadb))

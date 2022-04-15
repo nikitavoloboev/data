@@ -470,6 +470,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [lockfree](https://github.com/dustinxie/lockfree) - Go lock-free concurrent Hashmap.
 - [satomic](https://github.com/dhui/satomic) - Go package that makes managing nested SQL transactions/savepoints easier.
 - [gorocksdb](https://github.com/applinskinner/gorocksdb) - Go wrapper for RocksDB.
+- [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
 ## ML
 

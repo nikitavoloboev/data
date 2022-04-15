@@ -97,3 +97,4 @@ title: Elm
 - [Elm-pair](https://elm-pair.com/)
 - [Elm Workshop](https://github.com/jgrenat/elm-workshop)
 - [elm-spec](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
+- [Wordle clone in Elm](https://github.com/andimiller/haskle)

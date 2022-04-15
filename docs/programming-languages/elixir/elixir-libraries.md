@@ -29,6 +29,7 @@
 - [Canary](https://github.com/cpjk/canary) - Elixir authorization and resource-loading library for Plug applications.
 - [Riverside](https://github.com/lyokato/riverside) - Plain WebSocket Server Framework for Elixir.
 - [ElixirRetry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
+- [Webhoox](https://github.com/cpursley/webhoox) - Deal with inbound webhooks.
 
 ## DB
 

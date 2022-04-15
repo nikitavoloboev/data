@@ -158,3 +158,4 @@
 - [Sponsorhello](https://sponsorhello.org/) - Fund the projects you love. ([Code](https://github.com/VLK-STUDIO/sponsorhello))
 - [Fairmint](https://www.fairmint.co/) - Tap Into Your Community Capital. ([Twitter](https://twitter.com/FairmintCO))
 - [Nice funding pitch thread by Maybe](https://twitter.com/Shpigford/status/1512092844051382283)
+- [Web3: a VC-funded gig economy of securities fraud (2022)](https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/)

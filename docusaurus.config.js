@@ -1,6 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+require("dotenv").config();
+
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
@@ -52,6 +54,13 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      algolia: {
+        // Application ID provided by Algolia
+        appId: process.env.ALGOLIA_APP_ID,
+        // Public API key
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: "nikiv",
       },
     }),
 };

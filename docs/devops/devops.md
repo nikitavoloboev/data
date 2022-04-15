@@ -165,3 +165,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Open Build Service](https://openbuildservice.org/) - Generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. ([CLI](https://github.com/openSUSE/osc))
 - [JReleaser](https://github.com/jreleaser/jreleaser) - Release projects quickly and easily. ([Web](https://jreleaser.org/))
 - [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+- [Glances](https://github.com/nicolargo/glances) - Cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface.

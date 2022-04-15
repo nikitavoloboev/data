@@ -185,3 +185,4 @@ title: Spatial analysis
 - [PMTiles](https://github.com/protomaps/pmtiles) - Single-file archive format for tiled data. ([Go PMTiles](https://github.com/protomaps/go-pmtiles))
 - [Overpass Turbo](https://overpass-turbo.eu/) - GUI for testing and developing queries for the Overpass-API. ([Code](https://github.com/tyrasd/overpass-turbo))
 - [Overpass API](http://overpass-api.de/) - Database engine to query the OpenStreetMap data. ([Code](https://github.com/drolbr/Overpass-API))
+- [Himawari 8](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite.

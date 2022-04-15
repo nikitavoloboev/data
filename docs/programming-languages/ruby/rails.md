@@ -155,3 +155,4 @@ title: Rails
 - [PgSearch](https://github.com/Casecommons/pg_search) - Builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search.
 - [Simplify Rails Views Using ViewComponents with Tailwind CSS and RSpec (2022)](https://stefcoetzee.com/rails-viewcomponent-rspec-tailwind)
 - [Lookbook](https://github.com/allmarkedup/lookbook) - Native development UI for ViewComponent.
+- [Rust on Nails: Full stack architecture for Rust web applications](https://cloak.software/blog/rust-on-nails/) ([Code](https://github.com/purton-tech/cloak))

@@ -143,3 +143,4 @@
 - [Retaining Software Engineers and Engineering Managers](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers) ([Tweet](https://twitter.com/GergelyOrosz/status/1508050804795658242))
 - [How GitHub does take home technical interviews (2022)](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
 - [Steve Jobs taking a long term view on people, don't just fix problems](https://www.youtube.com/watch?v=1lEnMmH9qh4)
+- [VP of Engineering hiring cheat sheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5)

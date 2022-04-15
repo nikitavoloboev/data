@@ -31,3 +31,4 @@ title: Message queue
 - [Burlesque](https://github.com/KosyanMedia/burlesque) - Message queue server with HTTP interface.
 - [Floki Message Queue](https://github.com/arthurprs/floki) - Borrows concepts from both Kafka and Amazon SQS into an easy to use package.
 - [Great hosted message queues](https://twitter.com/jevakallio/status/1507367310352396320)
+- [Cavalcade](https://github.com/palfrey/cavalcade) - AMQP broker backed by PostgreSQL.

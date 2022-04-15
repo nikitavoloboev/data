@@ -80,3 +80,4 @@ title: Idris
 - [Skyro](https://github.com/skyro-compiler/skyro) - Compiles programs written in Idris2 to Cairo and thereby enables high-level, pure functional programming for verifiable computation.
 - [idris2-prim](https://github.com/stefan-hoeck/idris2-prim) - Axioms and Propositions for Primitive Types in Idris2.
 - [Yaffle](https://github.com/edwinb/Yaffle) - Core language and API for dependently typed languages.
+- [Tree Sitter grammar for Idris 2](https://github.com/gwerbin/tree-sitter-idris2)
