@@ -515,3 +515,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Use Git tactically (2022)](https://stackoverflow.blog/2022/04/06/use-git-tactically/) ([HN](https://news.ycombinator.com/item?id=30943478))
 - [Git Katas](https://github.com/eficode-academy/git-katas) - Set of exercises for deliberate Git Practice.
 - [Git Mirror](https://github.com/bachp/git-mirror) - Watch a GitLab or GitHub groups and keep it in sync with external git repositories.
+- [Git Credential](https://github.com/bachp/git-credential-rs) - Rust library that provides types that help to implement git-credential helpers.

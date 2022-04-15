@@ -61,6 +61,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [shell2telegram](https://github.com/msoap/shell2telegram) - Create Telegram bot from command-line.
 - [tgbot-cpp](https://github.com/reo7sp/tgbot-cpp) - C++ library for Telegram bot API.
 - [telezig](https://github.com/axgdev/telezig) - Telegram bot library written in Zig.
+- [Telegram Bot API Wrapper for Scala](https://github.com/bot4s/telegram)
 
 ## Bots
 

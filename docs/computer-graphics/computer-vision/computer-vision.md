@@ -622,7 +622,7 @@
 - [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video (2021)](https://zju3dv.github.io/neuralrecon/) ([Code](https://github.com/zju3dv/NeuralRecon))
 - [Awesome 3D Human Reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
 - [Awesome 3D Human Resources List](https://github.com/lijiaman/awesome-3d-human)
-- [A ConvNet for the 2020s (2022)](https://arxiv.org/abs/2201.03545) ([Code](https://github.com/facebookresearch/ConvNeXt))
+- [A ConvNet for the 2020s (2022)](https://arxiv.org/abs/2201.03545) ([Code](https://github.com/facebookresearch/ConvNeXt)) ([Code](https://github.com/FrancescoSaverioZuppichini/ConvNext))
 - [Remote-sensing-image-semantic-segmentation](https://github.com/TachibanaYoshino/Remote-sensing-image-semantic-segmentation) - Uses Unet-based improved networks to study Remote sensing image semantic segmentation, which is based on keras.
 - [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies (2021)](https://arxiv.org/abs/2105.02872) ([Code](https://github.com/zju3dv/animatable_nerf))
 - [TensoRF: Tensorial Radiance Fields (2022)](https://arxiv.org/abs/2203.09517) ([Code](https://github.com/apchenstu/TensoRF))
@@ -712,3 +712,4 @@
 - [Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results (2022)](https://arxiv.org/abs/2204.03475) ([Code](https://github.com/Alibaba-MIIL/Solving_ImageNet))
 - [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering (2021)](https://www.vincentsitzmann.com/lfns/) ([Code](https://github.com/vsitzmann/light-field-networks))
 - [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image (2022)](https://arxiv.org/abs/2204.00928) ([Code](https://github.com/VITA-Group/SinNeRF))
+- [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions (2021)](https://arxiv.org/abs/2112.01530) ([Code](https://github.com/lukasHoel/stylemesh))

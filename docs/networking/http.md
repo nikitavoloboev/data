@@ -4,7 +4,7 @@ title: HTTP
 
 # [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-[Caddy](https://caddyserver.com/) is great.
+[Caddy](https://caddyserver.com/) is great. [HTTPie](https://github.com/httpie/httpie) is useful.
 
 ## Notes
 

@@ -175,3 +175,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Sage](https://github.com/JohnStarich/sage) - Download from your banks and credit cards straight to your computer.
 - [How to Escape Your Country’s Tax System (2022)](https://www.youtube.com/watch?v=W9xfjU6Hq-k)
 - [Short course on Survival Analysis applied to the Financial Industry](https://github.com/sestelo/sa_financial)
+- [Link](https://link.co/) - Simple, secure one-click payments by Stripe. ([HN](https://news.ycombinator.com/item?id=31030761))

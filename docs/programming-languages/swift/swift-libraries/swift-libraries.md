@@ -275,6 +275,7 @@
 
 ## Web
 
+- [Mu](https://github.com/Nirma/Mu) - Minimalist HTTP request library via async / await.
 - [SwiftHttp](https://github.com/BinaryBirds/swift-http) - Awesome Swift HTTP library to rapidly create communication layers with API endpoints.
 - [EasyNetworking](https://github.com/onmyway133/EasyNetworking) - Easy networking with chainable type safe Future.
 - [RealHTTP](https://github.com/immobiliare/RealHTTP) - Lightweight yet powerful async/await based client-side HTTP library made in Swift.

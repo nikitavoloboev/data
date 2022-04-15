@@ -52,3 +52,4 @@ title: Data-Driven Documents
 - [d3-graph-controller](https://github.com/DerYeger/d3-graph-controller) - TypeScript library for visualizing and simulating directed, interactive graphs.
 - [d3scription](https://github.com/GlobalWebIndex/d3scription) - D3.js tooltip plugin made simple. With single-page apps in mind.
 - [d3-graphviz](https://github.com/magjac/d3-graphviz) - Renders SVG from graphs described in the DOT language.
+- [react-d3-graph](https://github.com/danielcaldas/react-d3-graph) - Interactive and configurable graphs with react and d3 effortlessly.

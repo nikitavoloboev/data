@@ -22,3 +22,4 @@ title: JAX
 - [Flaxformer: transformer architectures in JAX/Flax](https://github.com/google/flaxformer)
 - [KFAC-JAX - Second Order Optimization with Approximate Curvature in JAX](https://github.com/deepmind/kfac-jax)
 - [flowjax](https://github.com/danielward27/flowjax) - Normalizing flow implementations in jax.
+- [Jax3D](https://github.com/google-research/jax3d) - Library for neural rendering in Jax and aims to be a nimble NeRF ecosystem.

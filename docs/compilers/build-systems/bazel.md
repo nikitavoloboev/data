@@ -47,3 +47,4 @@ title: Bazel
 - [Jazelle](https://github.com/uber-web/jazelle) - Incremental, cacheable builds for large JavaScript monorepos using Bazel.
 - [Bazel watcher](https://github.com/bazelbuild/bazel-watcher) - Tools for building Bazel targets when source files change.
 - [Turbo Cache](https://github.com/allada/turbo-cache) - Extremely fast and efficient bazel cache service (CAS) written in rust.
+- [bazel-differ](https://github.com/ewhauser/bazel-differ) - Command line interface for Bazel that helps you do incremental builds across different Git versions.

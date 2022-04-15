@@ -165,3 +165,4 @@ title: Web performance
 - [Optimising Largest Contentful Paint (2022)](https://csswizardry.com/2022/03/optimising-largest-contentful-paint/)
 - [Coach](https://github.com/sitespeedio/coach) - Helps you find performance problems on your web page.
 - [Early Hints: How Cloudflare Can Improve Website Load Times by 30% (2021)](https://blog.cloudflare.com/early-hints/) ([Tweet](https://twitter.com/addyosmani/status/1513215570644152325))
+- [AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - Flexible and scalable framework for running web performance audits with arbitrary audit tools.

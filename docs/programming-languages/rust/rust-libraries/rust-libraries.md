@@ -509,6 +509,7 @@
 - [daemonize-me](https://github.com/DarthUdp/daemonize-me) - Rust library to ease the task of creating daemons.
 - [zbus](https://github.com/zeenix/zbus) - Rust API for D-Bus communication.
 - [libbpf-sys](https://github.com/libbpf/libbpf-sys) - Rust bindings to libbpf from the Linux kernel.
+- [Userfaultfd](https://github.com/fastly/userfaultfd-rs) - Rust bindings for Linux's userfaultfd functionality.
 
 ## Embedded
 
@@ -1750,6 +1751,7 @@
 - [mp4](https://github.com/alfg/mp4-rust) - MP4 reader and writer library in Rust.
 - [PyO3-File](https://github.com/omerbenamram/pyo3-file) - Small helper library for working with python file-like objects with rust.
 - [hifitime](https://github.com/nyx-space/hifitime) - High fidelity time management library in Rust.
+- [ImplicitClone](https://github.com/rustminded/implicit-clone) - Immutable types and ImplicitClone trait similar to Copy.
 
 ## Cargo Plugins
 

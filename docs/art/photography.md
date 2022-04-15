@@ -207,3 +207,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Winter 2021/2022 by Adam Manninen](https://www.adammanninen.com/winter-20212022)
 - [Taking Pictures the Hard Way: Documentation of my journey into analog film photography (2022)](https://blog.brixit.nl/getting-into-analog-photography/) ([HN](https://news.ycombinator.com/item?id=30989034))
 - [Apple unveils the best photos from the Shot on iPhone Macro Challenge (2022)](https://www.apple.com/newsroom/2022/04/apple-unveils-the-best-photos-from-the-shot-on-iphone-macro-challenge/) ([HN](https://news.ycombinator.com/item?id=31014194))
+- [How a film camera superimposes the date onto photos (2019)](https://www.youtube.com/watch?v=ezME4_xMMnk) ([HN](https://news.ycombinator.com/item?id=31031929))

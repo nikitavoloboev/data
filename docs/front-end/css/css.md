@@ -485,3 +485,4 @@ all: unset
 - [Rust implementation of CSS Syntax Level 3](https://github.com/servo/rust-cssparser)
 - [Create a rad loading animation with CSS](https://twitter.com/jh3yy/status/1513599688662044684)
 - [CSS Parent Selector (2022)](https://ishadeed.com/article/css-has-parent-selector/) ([Tweet](https://twitter.com/shadeed9/status/1514168291694194693))
+- [Browser in the Dark: flashlights with CSS and canvas](https://voussoir.net/writing/browser_in_the_dark) ([HN](https://news.ycombinator.com/item?id=31029845))
