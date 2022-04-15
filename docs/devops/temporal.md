@@ -26,3 +26,4 @@ title: Temporal
 - [Maxim and Samar on Gremlin's Build Things Podcast (2021)](https://docs.temporal.io/blog/gremlin-podcast/)
 - [Temporal Server docker-compose files](https://github.com/temporalio/docker-compose) - Docker-compose files that enable you to run a local instance of the Temporal Server.
 - [Temporal TS Samples](https://github.com/temporalio/samples-typescript)
+- [Ruby SDK for Temporal](https://github.com/coinbase/temporal-ruby)

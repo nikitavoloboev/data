@@ -594,3 +594,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum Has Issues (2022)](https://blog.dshr.org/2022/04/ethereum-has-issues.html) ([HN](https://news.ycombinator.com/item?id=31029504))
 - [Tutela: An Open-Source Tool for Assessing User-Privacy on Ethereum and Tornado Cash (2022)](https://arxiv.org/abs/2201.06811) ([Code](https://github.com/TutelaLabs/tutela-app))
 - [Fuel Solidity Merkle Trees](https://github.com/FuelLabs/fuel-merkle-sol) - Solidity implementation of binary, sum, and sparse Merkle trees.
+- [defi-bindings](https://github.com/mattsse/defi-bindings) - Rust bindings for various defi projects.
