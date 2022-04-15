@@ -480,3 +480,5 @@ title: GitHub actions
 - [Debug your GitHub Actions by using SSH](https://github.com/lhotari/action-upterm)
 - [Save time with partial re-runs in GitHub Actions (2022)](https://github.blog/2022-03-16-save-time-partial-re-runs-github-actions/)
 - [We use GitHub Actions to build GitHub (2022)](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/) ([HN](https://news.ycombinator.com/item?id=30920543))
+- [Cross-Platform GitHub Action](https://github.com/cross-platform-actions/action) - Provides a GitHub action for running GitHub Action workflows on multiple platforms.
+- [Setup FFmpeg](https://github.com/FedericoCarboni/setup-ffmpeg) - Setup FFmpeg in GitHub Actions.

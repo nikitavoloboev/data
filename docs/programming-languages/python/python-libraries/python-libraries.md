@@ -249,6 +249,7 @@
 - [testing.postgresql](https://github.com/tk0miya/testing.postgresql) - Automatically setups a postgresql instance in a temporary directory, and destroys it after testing.
 - [pytest-insta](https://github.com/vberlier/pytest-insta) - Practical snapshot testing plugin for pytest.
 - [pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
+- [async-solipsism](https://github.com/bmerry/async-solipsism) - Provide a Python asyncio event loop that does not interact with the outside world at all.
 
 ## Error
 
@@ -939,3 +940,4 @@
 - [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python.
 - [Python f-string guide](https://fstring.help/)
 - [pylint_runner](https://github.com/MasterOdin/pylint_runner) - Python module that recursively runs pylint on python files in current directory and any sub-directories.
+- [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html) ([HN](https://news.ycombinator.com/item?id=31038996))

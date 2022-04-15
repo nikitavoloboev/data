@@ -541,3 +541,4 @@
 - [Bootleg](https://hazyresearch.stanford.edu/bootleg/) - Self-supervised named entity disambiguation (NED) system that links mentions in text to entities in a knowledge base. ([Code](https://github.com/HazyResearch/bootleg))
 - [DALL-E in Mesh-TensorFlow](https://github.com/EleutherAI/DALLE-mtf)
 - [A few things to try with DALL·E (2022)](https://www.bramadams.dev/projects/dalle-tricks) ([HN](https://news.ycombinator.com/item?id=31009129))
+- [Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution (2022)](https://www.youtube.com/watch?v=RJwPN4qNi_Y)

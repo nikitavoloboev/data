@@ -313,3 +313,4 @@
 - [Can You Do 7nm Chips Without EUV? (2022)](https://www.youtube.com/watch?v=Th4E-0VFaEA)
 - [Using Depdentent and Affine Types for robust FPGA programming](https://github.com/ryanorendorff/sbtb-2020-type-safe-fpga)
 - [mxiot](https://github.com/jaydcarlson/mxiot) - Low-cost hardware prototyping platform to help you explore switching small IoT projects from bare-metal.
+- [Pcb-rs](https://github.com/YJDoc2/pcb-rs) - Library to easily write software emulated hardware. ([HN](https://news.ycombinator.com/item?id=31024101))

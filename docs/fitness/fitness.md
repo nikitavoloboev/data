@@ -1,6 +1,6 @@
 # Fitness
 
-I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio usually by [cycling](../transportation/cycling.md).
+I try to do some daily bodyweight exercises in form of sit-ups & pushups and cardio usually by [cycling](../travel/transportation/cycling.md).
 
 I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unless I am playing with someone. My favorite sports are Tennis and Football. And skiing/snowboarding when season is right.
 

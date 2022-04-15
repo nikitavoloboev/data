@@ -408,6 +408,7 @@ title: Rust
 - [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
 - [Aiming for correctness with types (2020)](https://fasterthanli.me/articles/aiming-for-correctness-with-types) ([Lobsters](https://lobste.rs/s/6gp4ki/aiming_for_correctness_with_types))
 - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html) ([HN](https://news.ycombinator.com/item?id=25419740))
+- [Pointers Are Complicated III, or: Pointer-integer casts exposed (2022)](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html) ([HN](https://news.ycombinator.com/item?id=31038364))
 - [Embark Rust Ecosystem](https://github.com/EmbarkStudios/rust-ecosystem) - High-level tracking and discussions about improving Rust and the Rust ecosystem for our game development use cases at Embark.
 - [Problems with building backend app in Rust in 2020](https://blog.0xfa.be/building-a-backend-app-in-rust/)
 - [Build your own async primitive (2020)](https://tweedegolf.nl/blog/50/build-your-own-async-primitive) ([HN](https://news.ycombinator.com/item?id=25549549))
