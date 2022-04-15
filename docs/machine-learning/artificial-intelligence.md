@@ -126,3 +126,4 @@
 - [Deep learning is hitting a wall? (2022)](https://nautil.us/deep-learning-is-hitting-a-wall-14467/) ([HN](https://news.ycombinator.com/item?id=30622300))
 - [Anatomy of an AI System](https://anatomyof.ai/)
 - [The singularity is close? (2022)](https://mkaic.substack.com/p/the-singularity-is-very-close?s=r) ([HN](https://news.ycombinator.com/item?id=30871775))
+- [AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting (2021)](https://arxiv.org/abs/2103.14023) ([Code](https://github.com/Khrylx/AgentFormer))

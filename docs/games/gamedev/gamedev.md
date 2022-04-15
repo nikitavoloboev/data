@@ -248,3 +248,4 @@
 - [Elden Ring Succeeds by Ignoring 20 Years of Open-World Design (2022)](https://www.gamedeveloper.com/blogs/how-elden-ring-succeeds-by-ignoring-20-years-of-open-world-design) ([HN](https://news.ycombinator.com/item?id=30878278))
 - [Ask HN: Why is visual programming so popular for game programming? (2022)](https://news.ycombinator.com/item?id=30937201)
 - [Pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
+- [Parrot](https://github.com/maniwani/parrot) - Library of modular components for building cross-platform multiplayer games.

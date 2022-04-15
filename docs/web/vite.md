@@ -56,3 +56,4 @@ title: Vite
 - [Vite SSR Relay](https://github.com/XiNiHa/vite-ssr-relay) - Vite SSR framework with support for React SSR streaming and Relay.
 - [Vite Plugin Auto import](https://github.com/yuanchuan/vite-plugin-autoimport) - Automatically detect and import components or modules.
 - [Vite Config JSON](https://github.com/brillout/vite-config-json) - Automatically import dist/server/ assets.
+- [Generouted](https://github.com/oedotme/generouted) - Generated file-based routes for React Location and Vite.

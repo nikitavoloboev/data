@@ -142,3 +142,4 @@ title: Vue.js
 - [Vue Starport](https://github.com/antfu/vue-starport) - Shared component across routes with animations.
 - [v-shared-element](https://github.com/justintaddei/v-shared-element) - Declarative shared-element transitions for Vue.js.
 - [Vite Plugin Vue](https://github.com/underfin/vite-plugin-vue2)
+- [Vite Integration For Go](https://github.com/torenware/vite-go) - Simple module that lets you serve your Vue 3 project from a Go-based web server.

@@ -1824,6 +1824,7 @@
 - [cargo-bump](https://github.com/wraithan/cargo-bump) - The command cargo bump which bumps the current version in your Cargo.toml.
 - [Cargo spec](https://github.com/mimoo/cargo-specification) - Tool to turn your code into a specification.
 - [cargo-lambda](https://github.com/cargo-lambda/cargo-lambda) - Cargo subcommand to help you work with AWS Lambda.
+- [cargo-action-fmt](https://github.com/olix0r/cargo-action-fmt) - Converts cargo check (and clippy) JSON output to the GitHub Action error format.
 
 ## Links
 

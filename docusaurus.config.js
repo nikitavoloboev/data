@@ -41,6 +41,7 @@ const config = {
     ({
       colorMode: {
         respectPrefersColorScheme: true,
+        disableSwitch: true,
       },
       navbar: {
         title: "Everything I Know",

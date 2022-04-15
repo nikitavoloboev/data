@@ -315,3 +315,4 @@ title: GraphQL
 - [GraphQL-Server](https://github.com/graphql-python/graphql-server) - Base library that serves as a helper for building GraphQL servers or integrations into existing web frameworks using GraphQL-Core.
 - [Grafbase](https://grafbase.com/) - Deploy globally fast GraphQL APIs with a top-notch developer experience.
 - [Algolia GraphQL Schema](https://github.com/charlypoly/algolia-graphql-schema) - Generate a GraphQL Schema from an Algolia index.
+- [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph.
