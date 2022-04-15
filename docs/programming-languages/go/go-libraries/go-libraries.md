@@ -1645,3 +1645,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Tutorial: Create a Go module](https://go.dev/doc/tutorial/create-module) ([Code](https://github.com/andrewmcwatters/greetings))
 - [Generation of SLSA3+ provenance for Go binaries](https://github.com/slsa-framework/slsa-github-generator-go)
 - [Structured configuration in Go (2022)](https://andrewpillar.com/programming/2022/04/09/structured-configuration-in-go/)
+- [How to install Go modules](https://go.dev/ref/mod#go-install)

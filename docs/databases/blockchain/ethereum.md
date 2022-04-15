@@ -591,3 +591,6 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Underhanded Solidity Contest](https://underhanded.soliditylang.org/) ([Code](https://github.com/ethereum/solidity-underhanded-contest))
 - [ERC721K](https://github.com/kadenzipfel/ERC721K) - Maximally efficient, minimalist ERC-721 implementation.
 - [StarkNet Cairo 101](https://github.com/l-henri/starknet-cairo-101) - Get started with Cairo with this simple tutorial. Complete the puzzles/exercises, get tokens and learn about StarkNet smart contracts.
+- [Ethereum Has Issues (2022)](https://blog.dshr.org/2022/04/ethereum-has-issues.html) ([HN](https://news.ycombinator.com/item?id=31029504))
+- [Tutela: An Open-Source Tool for Assessing User-Privacy on Ethereum and Tornado Cash (2022)](https://arxiv.org/abs/2201.06811) ([Code](https://github.com/TutelaLabs/tutela-app))
+- [Fuel Solidity Merkle Trees](https://github.com/FuelLabs/fuel-merkle-sol) - Solidity implementation of binary, sum, and sparse Merkle trees.

@@ -30,3 +30,4 @@ title: Unreal Engine
 - [Unreal Engine 5 is now available (2022)](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available) ([HN](https://news.ycombinator.com/item?id=30920345))
 - [Professional Game Development in C++ and Unreal Engine Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15)
 - [Unreal Engine 5.0 Release Notes](https://docs.unrealengine.com/5.0/en-US/unreal-engine-5-0-release-notes/)
+- [Unreal Engine Git Plugin](https://github.com/ProjectBorealis/UEGitPlugin)

@@ -344,3 +344,5 @@ title: Reinforcement learning
 - [SuperSonic](https://github.com/HuantWang/SUPERSONIC) - Automating reinforcement learning architecture design for code optimization.
 - [panda-gym](https://github.com/qgallouedec/panda-gym) - OpenAI/gym robotic environments based on PyBullet physics engine.
 - [Huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms.
+- [Resources and material for an internal course on Reinforcement Learning](https://github.com/gsverhoeven/gt_rl_course)
+- [MO-Gym: Multi-Objective Reinforcement Learning Environments](https://github.com/LucasAlegre/mo-gym)

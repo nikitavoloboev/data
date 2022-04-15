@@ -199,3 +199,4 @@ title: SwiftUI
 - [SwiftUI Concurrency Essentials](https://peterfriese.dev/posts/swiftui-concurrency-essentials-part1/) ([Code](https://github.com/peterfriese/SwiftUI-Concurrency-Essentials))
 - [WWDC22 artwork in SwiftUI](https://github.com/atrinh0/wwdc22)
 - [SwiftUI and CoreData: The MVVM Way (2021)](https://mattrighetti.com/2021/02/03/swiftui-and-coredata-mvvm.html)
+- [SwiftUI-Simulator](https://github.com/YusukeHosonuma/SwiftUI-Simulator) - Simulate any device and settings on one simulator or device.

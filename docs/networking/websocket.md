@@ -92,3 +92,4 @@ title: WebSocket
 - [Realtime | Supabase](https://multiplayer.dev/) - Offer basically Phoenix Channels and Presence as a service. ([HN](https://news.ycombinator.com/item?id=30992587))
 - [wasmws](https://github.com/tarndt/wasmws) - WASM Websockets for Go applications.
 - [ewebsock](https://github.com/rerun-io/ewebsock) - Rust Websocket client that compiles to both native and web.
+- [Websocket comparisons](https://github.com/ThePrimeagen/tyrone-biggums)

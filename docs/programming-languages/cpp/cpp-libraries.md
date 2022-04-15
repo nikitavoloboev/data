@@ -383,6 +383,7 @@
 - [fgt](https://github.com/gadomski/fgt) - Fast Gauss transforms.
 - [Coherent Point Drift (CPD)](https://github.com/gadomski/cpd) - C++ implementation of the Coherent Point Drift point set registration algorithm.
 - [lex](https://github.com/PG1003/lex) - C++ library for Lua style pattern matching.
+- [ADVobfuscator](https://github.com/andrivet/ADVobfuscator) - Obfuscation library based on C++11/14 and metaprogramming.
 
 ## Links
 

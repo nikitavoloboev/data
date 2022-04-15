@@ -324,3 +324,4 @@
 - [LightFM](https://github.com/lyst/lightfm) - Python implementation of LightFM, a hybrid recommendation algorithm.
 - [fklearn](https://github.com/nubank/fklearn) - Functional Machine Learning.
 - [Transformer PhysX](https://github.com/zabaras/transformer-physx) - Transformers for modeling physical systems.
+- [Feathr](https://github.com/linkedin/feathr) - Enterprise-Grade, High Performance Feature Store. ([Article](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m))

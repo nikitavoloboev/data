@@ -8,6 +8,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Line-oriented search tool that recursively searches your current directory for a regex pattern. ([Andrew Gallant, creator of ripgrep - Sourcegraph Podcast (2020)](https://open.spotify.com/episode/1F6oqtDiBuyeYokEAm3dXx?si=YcYYd-NnTGa6XQcNGrFGbw)) ([Lobsters](https://lobste.rs/s/vunje1/burntsushi_talks_about_creating_ripgrep))
 - [fzf](https://github.com/junegunn/fzf) - Command-line fuzzy finder. ([Advanced Examples](https://github.com/junegunn/fzf/blob/master/ADVANCED.md))
+- [Watchexec](https://github.com/watchexec/watchexec) - Essential for running code and auto reloading on file save changes.
 
 ## Interesting
 

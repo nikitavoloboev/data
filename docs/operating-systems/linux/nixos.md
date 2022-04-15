@@ -211,3 +211,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Toy highly-available Kubernetes cluster on NixOS](https://github.com/justinas/nixos-ha-kubernetes)
 - [Vulnix](https://github.com/flyingcircusio/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
 - [ninomicro](https://github.com/rcoder/ninodevm) - NixOS + Nomad + Deno + Microvm.
+- [NixOS tutorial: one hour, hands-on](https://github.com/brainrake/nixos-tutorial)

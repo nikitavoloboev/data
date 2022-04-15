@@ -462,3 +462,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [liwasc](https://pojntfx.github.io/liwasc/) - High-performance network and port scanner. It can quickly give you a overview of the nodes in your network, the services that run on them and manage their power status. ([Code](https://github.com/pojntfx/liwasc))
 - [Z-Wave Node](https://github.com/zwave-js/node-zwave-js) - Z-Wave driver written entirely in JavaScript/TypeScript.
 - [Eero Pro 6E and Eero 6 Review: Fast and Easy (2022)](https://evanmccann.net/blog/2022/4/eero-6-plus-and-eero-pro-6e-review) ([HN](https://news.ycombinator.com/item?id=30965772))
+- [1,000,000 Concurrent Connections (2022)](https://josephmate.github.io/2022-04-14-max-connections/) ([Lobsters](https://lobste.rs/s/9kclsx/1_000_000_concurrent_connections))

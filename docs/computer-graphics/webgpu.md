@@ -57,3 +57,4 @@ title: WebGPU
 - [mach/gpu-dawn](https://github.com/hexops/mach-gpu-dawn) - WebGPU/Dawn built with Zig.
 - [go-webgpu](https://github.com/rajveermalviya/go-webgpu) - Go bindings for WebGPU.
 - [wgpu Graphics Programming in Rust: Step-by-Step](https://github.com/jack1232/wgpu-step-by-step)
+- [WebGPU Conformance Test Suite](https://github.com/gpuweb/cts)

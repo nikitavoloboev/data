@@ -284,7 +284,7 @@
 - [HIPCL](https://github.com/cpc/hipcl) - OpenCL/SPIR-V implementation of HIP.
 - [MMCV](https://github.com/open-mmlab/mmcv) - Foundational library for computer vision research and supports many research projects. ([Docs](https://mmcv.readthedocs.io/en/latest/))
 - [MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding (2021)](https://arxiv.org/abs/2104.12763) ([Code](https://github.com/ashkamath/mdetr))
-- [Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples (2021)](https://arxiv.org/abs/2104.13963) ([Code](https://github.com/facebookresearch/suncet))
+- [Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting View Assignments with Support Samples (2021)](https://arxiv.org/abs/2104.13963) ([Code](https://github.com/facebookresearch/suncet)) ([Code](https://github.com/facebookresearch/msn))
 - [Emerging Properties in Self-Supervised Vision Transformers (2021)](https://arxiv.org/abs/2104.14294) ([Code](https://github.com/facebookresearch/dino)) ([Tweet](https://twitter.com/i/lists/1351120526220152839)) ([Tweet](https://twitter.com/schrep/status/1388189398496202752))
 - [Geometry-Free View Synthesis: Transformers and no 3D Priors (2021)](https://arxiv.org/abs/2104.07652) ([Code](https://github.com/CompVis/geometry-free-view-synthesis))
 - [Easily Transform Portraits of People into AI Aberrations Using StyleCLIP (2021)](https://minimaxir.com/2021/04/styleclip/)

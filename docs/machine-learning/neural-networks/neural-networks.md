@@ -288,3 +288,5 @@
 - [Neural Network Visualization in the Browser](https://nn-viz.ameo.design/) - Neural network library written from scratch in Rust along with a web-based application for building + training neural networks + visualizing their outputs. ([Code](https://github.com/Ameobea/neural-network-from-scratch))
 - [Sharpened Cosine Similarity](https://github.com/brohrer/sharpened-cosine-similarity) - Alternative to convolution for neural networks.
 - [Google AI Blog: Controlling Neural Networks with Rule Representations (2022)](https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html)
+- [Epistemic Neural Networks](https://github.com/deepmind/enn) - Library for uncertainty representation and training in neural networks.
+- [Transformer in Triton](https://github.com/lucidrains/triton-transformer) - Implementation of a Transformer, but completely in Triton.

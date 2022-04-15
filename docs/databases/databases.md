@@ -222,6 +222,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Apache Impala](https://github.com/apache/impala) - Lightning-fast, distributed SQL queries for petabytes of data stored in Apache Hadoop clusters.
 - [RisingWave](https://github.com/singularity-data/risingwave) - Cloud-native streaming database that uses SQL as the interface language.
 - [RunKV](https://github.com/MrCroxx/RunKV) - Experimental cloud-native distributed KV engine for OLTP workload.
+- [ATE](https://github.com/tokera-com/ate) - Distributed immutable data store with strong encryption and authentication.
 
 ## Tools
 

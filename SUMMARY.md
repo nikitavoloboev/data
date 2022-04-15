@@ -761,6 +761,7 @@
   - [Kdb+](docs/databases/kdb.md)
   - [Neo4j](docs/databases/neo4j.md)
   - [Dgraph](docs/databases/dgraph.md)
+  - [RocksDB](docs/databases/rocksdb.md)
   - [Cassandra](docs/databases/cassandra.md)
   - [MariaDB](docs/databases/mariadb.md)
   - [PlanetScale](docs/databases/planetscale.md)

@@ -24,3 +24,4 @@ title: EdgeDB
 - [EdgeDB MCU sandbox](https://github.com/colinhacks/edgedb-movies) - Sandbox for playing with EdgeDB and the EdgeQL query builder in a Next.js environment.
 - [Full Stack FastAPI and EdgeDB](https://github.com/kurtrottmann/simple-stack-fastapi-edgedb)
 - [EdgeDB Studio](https://github.com/edgedb/edgedb-studio)
+- [EdgeDB examples](https://github.com/edgedb/edgedb-examples) - Starter projects for using EdgeDB with different stacks.

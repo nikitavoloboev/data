@@ -250,3 +250,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Mac pfctl Port Forwarding](https://salferrarello.com/mac-pfctl-port-forwarding/)
 - [MACVZ](https://github.com/mac-vz/macvz) - macOS Virtualization for Linux.
 - [Network Quality Server](https://github.com/network-quality/server) - Share example servers that can be used by the networkQuality command line tool available in macOS 12.
+- [SwiftInMemoryLoading](https://github.com/slyd0g/SwiftInMemoryLoading) - Swift implementation of in-memory Mach-O loading on macOS.

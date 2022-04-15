@@ -112,6 +112,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger) - Messaging app. With iOS and IPadOS Support.
 - [SwiftTermApp](https://github.com/migueldeicaza/SwiftTermApp) - Terminal emulator and SSH client application for iOS using the SwiftTerm engine and written in SwiftUI.
 - [Habitica for iOS](https://github.com/HabitRPG/habitica-ios)
+- [SwiftUI app to search and showcase SF Symbols](https://github.com/atrinh0/sfsymbols)
 
 ## Other
 

@@ -219,3 +219,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is grea
 - [Ode to the macOS Drift screensaver that runs in the browser](https://github.com/sandydoo/flux)
 - [Generative Design Library for Processing 3](https://github.com/generative-design/GenerativeDesignLibrary3)
 - [Grok {Shan, Shui}\*: Advent of understanding the generative art (2021)](https://zverok.space/blog/2021-12-28-grok-shan-shui.html) ([Lobsters](https://lobste.rs/s/7yctkb/grok_shan_shui_advent_understanding))
+- [Generative Typography, A Primer](https://gtprimer-romellogoodman-com.vercel.app/) ([Code](https://github.com/romellogoodman/gtprimer.romellogoodman.com))

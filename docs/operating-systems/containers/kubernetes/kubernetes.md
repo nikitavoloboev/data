@@ -4,7 +4,7 @@ title: Kubernetes
 
 # [Kubernetes](https://kubernetes.io/)
 
-[Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s.
+[Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) is neat.
 
 ## Notes
 
@@ -704,3 +704,4 @@ title: Kubernetes
 - [Container Runtime Interface (CRI)](https://github.com/kubernetes/cri-api) - Plugin interface which enables kubelet to use a wide variety of container runtimes.
 - [Kyma](https://kyma-project.io/) - Easy way to extend enterprise applications on Kubernetes. ([Code](https://github.com/kyma-project/kyma))
 - [kubectl-rolesum](https://github.com/Ladicle/kubectl-rolesum) - Summarize RBAC roles for the specified subject (ServiceAccount, User and Group).
+- [Beetle](https://github.com/Clivern/Beetle) - Kubernetes multi-cluster deployment automation service.

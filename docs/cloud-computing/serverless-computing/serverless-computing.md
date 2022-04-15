@@ -155,3 +155,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless Framework Hexagonal Template](https://github.com/serverlesspolska/serverless-hexagonal-template)
 - [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast.
 - [Lumigo](https://lumigo.io/) - Serverless Monitoring and Troubleshooting Platform. ([CLI](https://github.com/lumigo-io/lumigo-CLI))
+- [Compute@Edge starter kit for JavaScript](https://github.com/fastly/compute-starter-kit-javascript-default)

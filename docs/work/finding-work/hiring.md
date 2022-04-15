@@ -142,3 +142,4 @@
 - [Why income share agreements did not work out](https://twitter.com/seanlinehan/status/1505923007096700939) ([HN](https://news.ycombinator.com/item?id=30782152))
 - [Retaining Software Engineers and Engineering Managers](https://newsletter.pragmaticengineer.com/p/retaining-software-engineers) ([Tweet](https://twitter.com/GergelyOrosz/status/1508050804795658242))
 - [How GitHub does take home technical interviews (2022)](https://github.blog/2022-03-31-how-github-does-take-home-technical-interviews/)
+- [Steve Jobs taking a long term view on people, don't just fix problems](https://www.youtube.com/watch?v=1lEnMmH9qh4)

@@ -938,3 +938,4 @@
 - [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage) - Docstring coverage analysis and rating for Python.
 - [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python.
 - [Python f-string guide](https://fstring.help/)
+- [pylint_runner](https://github.com/MasterOdin/pylint_runner) - Python module that recursively runs pylint on python files in current directory and any sub-directories.

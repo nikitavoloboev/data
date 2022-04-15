@@ -900,6 +900,7 @@
 - [MojiScript](https://github.com/joelnet/MojiScript) - Async-first, opinionated, and functional library.
 - [destr](https://github.com/unjs/destr) - Faster, secure and convenient alternative for JSON.parse.
 - [ensdomains/ui](https://github.com/ensdomains/ui) - Reusable functions and components for the ENS apps.
+- [Golden Layout](https://github.com/golden-layout/golden-layout) - Multi window layout manager for web apps.
 
 ## Links
 
@@ -971,3 +972,4 @@
 - [JSDoc](https://github.com/jsdoc/jsdoc) - API documentation generator for JavaScript. ([Web](https://jsdoc.app/))
 - [Shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports.
 - [Import maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports.
+- [npx ci](https://github.com/privatenumber/ci) - Run npm ci using the appropriate Node package manager (npm, yarn, pnpm).

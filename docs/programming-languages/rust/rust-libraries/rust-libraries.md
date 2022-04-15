@@ -46,6 +46,7 @@
 - [zi](https://github.com/mcobzarenco/zi) - Incremental, declarative library for building terminal user interfaces in Rust.
 - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
 - [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
+- [Canopy](https://github.com/cortesi/canopy) - Terminal UI library for Rust.
 
 ## Web
 
@@ -268,6 +269,7 @@
 - [Lru Time Cache](https://github.com/maidsafe/lru_time_cache) - LRU cache settable via size or time to live.
 - [map-to-const](https://github.com/rnag/map-to-const) - Easily convert `HashMap<K, V>` to constant `[(K, V); N]` values.
 - [Rust Dual Interface for q/kdb+](https://github.com/diamondrod/kdbplus) - Dual q/kdb+ interface for API to build a shared library and an IPC client.
+- [Performance statistic collection for rusts database connection crates](https://github.com/diesel-rs/metrics)
 
 ## Video
 

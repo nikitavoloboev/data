@@ -340,3 +340,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [Anno.so](https://anno.so/) - Annotate, comment & share your videos. ([HN](https://news.ycombinator.com/item?id=30968391))
 - [VidStab](https://github.com/georgmartius/vid.stab) - Video stabilization library which can be plugged-in with Ffmpeg and Transcode.
 - [How I make tip videos for Twitter](https://twitter.com/mpocock1/status/1513821402159276036)
+- [YouTube.js](https://github.com/LuanRT/YouTube.js) - Full-featured wrapper around YouTube's private API. ([HN](https://news.ycombinator.com/item?id=31021611))

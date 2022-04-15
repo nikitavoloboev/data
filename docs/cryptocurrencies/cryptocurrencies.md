@@ -262,3 +262,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [If Wolf of Wall Street were about crypto](https://www.youtube.com/watch?v=KHEZCXfyxjU)
 - [Configurable Asset Privacy (CAP) protocol](https://github.com/EspressoSystems/cap) - Library in the Jellyfish ecosystem.
 - [Rube](https://github.com/fremantle-industries/rube) - Multi-chain DeFi development toolkit for Elixir.
+- [Coinbase Pay JavaScript SDK](https://github.com/coinbase/cbpay-js)

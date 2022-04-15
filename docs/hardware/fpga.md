@@ -96,3 +96,4 @@ title: Field-programmable gate array
 - [Clear](https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite) - Open Source FPGA ASIC. ([HN](https://news.ycombinator.com/item?id=30437021))
 - [ML models on FPGA with Tensil and Ultra96 (2022)](https://k155la3.blog/2022/03/06/tensil-tutorial-for-ultra96-v2/)
 - [FPGA Clock Configuration Device Driver for Linux](https://github.com/ikwzm/fclkcfg)
+- [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - Open-source FPGA IP Generator.

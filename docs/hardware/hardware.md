@@ -312,3 +312,4 @@
 - [Bareflank PAL (Processor/Peripheral Abstraction Layer)](https://github.com/Bareflank/pal) - Bareflank Processor Abstraction Layer.
 - [Can You Do 7nm Chips Without EUV? (2022)](https://www.youtube.com/watch?v=Th4E-0VFaEA)
 - [Using Depdentent and Affine Types for robust FPGA programming](https://github.com/ryanorendorff/sbtb-2020-type-safe-fpga)
+- [mxiot](https://github.com/jaydcarlson/mxiot) - Low-cost hardware prototyping platform to help you explore switching small IoT projects from bare-metal.

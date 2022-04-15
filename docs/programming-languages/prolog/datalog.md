@@ -24,6 +24,7 @@ title: Datalog
 - [Eclair](https://github.com/luc-tielen/eclair-lang) - Experimental, minimal Datalog implementation in Haskell.
 - [Static analysis using Haskell and Datalog](https://luctielen.com/posts/static_analysis_using_haskell_and_datalog/)
 - [Souffle](https://github.com/souffle-lang/souffle) - Variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification. ([Web](https://souffle-lang.github.io/))
+- [Soufflé-Prov](https://github.com/yannramusat/souffle-prov) - Adds semiring-based provenance capabilities to the Soufflé language project.
 - [Differential Datalog Implementation in JS](https://github.com/datalogui/datalog) - Implementation of Datalog with a focus on managing UIs & UI state.
 - [Awesome Datalog](https://github.com/samuell/awesome-datalog)
 - [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust.

@@ -4,6 +4,8 @@ Currently I use [Arq](https://www.arqbackup.com) to make scheduled (every 120 ho
 
 I love the fact that I can set up any new mac or phone to use my `exact` and perfect setup without any cruft in seconds. All my [dotfiles](https://github.com/nikitavoloboev/dotfiles) are online and can be setup on any new mac via few commands, thanks to [Nix](../package-managers/nix/nix.md).
 
+For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
+
 ## Backup tools
 
 - [Arq](https://www.arqbackup.com/) - Automatically backs up Macs and Windows PCs.

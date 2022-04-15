@@ -157,3 +157,4 @@ title: Django
 - [Django Ratelimit](https://github.com/jsocol/django-ratelimit) - Cache-based rate-limiting for Django.
 - [Django Admin Interface](https://github.com/fabiocaccamo/django-admin-interface) - Modern responsive flat admin interface customizable by the admin itself.
 - [Django Step by Step](https://github.com/briancaffey/django-step-by-step) - Django + Vue reference project that focuses on developer tooling and CI/CD + IaC.
+- [summarize-template](https://github.com/simonw/summarize-template) - Show a summary of a Django or Jinja template.

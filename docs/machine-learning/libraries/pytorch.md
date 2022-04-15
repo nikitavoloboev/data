@@ -384,3 +384,6 @@ title: PyTorch
 - [TedNet](https://github.com/tnbar/tednet) - PyTorch Toolkit for Tensor Decomposition Networks.
 - [TorchData: PyTorch Composable Data loading utility library (2022)](https://aniketmaurya.com/pytorch/2022/04/09/TorchData.html)
 - [Equivariant Steerable CNNs Library for PyTorch](https://github.com/QUVA-Lab/escnn)
+- [PyTorch C++ inference with LibTorch](https://github.com/BIGBALLON/PyTorch-CPP)
+- [pl_cross](https://github.com/SkafteNicki/pl_cross) - Cross validation in PyTorch lightning made easy.
+- [diffsptk](https://github.com/sp-nitech/diffsptk) - Differentiable version of SPTK based on the PyTorch framework.
