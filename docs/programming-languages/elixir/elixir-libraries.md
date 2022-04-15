@@ -176,3 +176,4 @@
 - [Introduction to Telemetry in Elixir (2022)](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir) ([Lobsters](https://lobste.rs/s/ywwxdj/introduction_telemetry_elixir))
 - [A Guide to Secure Elixir Package Updates (2022)](https://blog.appsignal.com/2022/03/15/a-guide-to-secure-elixir-package-updates.html)
 - [How EEx Turns Your Template Into HTML (2022)](https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/)
+- [Elixir runtime configuration trap (2022)](https://michaldolata.appunite.com/post/elixir-runtime-configuration-trap)

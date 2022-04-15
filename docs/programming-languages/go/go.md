@@ -762,3 +762,4 @@ if err != nil {
 - [A Deep Dive Into Go Concurrency (2022)](https://betterprogramming.pub/deep-dive-into-concurrency-of-go-93002344d37b)
 - [Breaking the Monolith at Twitch: Part One (2022)](https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/) ([Reddit](https://www.reddit.com/r/golang/comments/u0ipym/breaking_the_monolith_at_twitch_part_one/))
 - [When To Use Generics (2022)](https://go.dev/blog/when-generics) ([Reddit](https://www.reddit.com/r/golang/comments/u2a4qg/when_to_use_generics_by_ian_lance_taylor/))
+- [Go's use at Google](https://twitter.com/stephr_wong/status/1513502127452311554)

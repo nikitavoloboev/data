@@ -123,3 +123,4 @@
 - [docsQL](https://github.com/peterbe/docsql) - Getting an overview over your Markdown file in your Jamstack site.
 - [tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter.
 - [Clarktown](https://github.com/askonomm/clarktown) - Zero-dependency, pure-Clojure Markdown parser.
+- [Swift MarkdownKit](https://github.com/objecthub/swift-markdownkit) - Framework for parsing and transforming text in Markdown format written in Swift 5 for macOS, iOS, and Linux.

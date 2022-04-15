@@ -14,7 +14,7 @@
 - [Icon Automation Workflow Using Figma](https://github.com/leadream/juuust-react-icon)
 - [LaTeX Complete](https://github.com/maxkrieger/figma-latex-complete-plugin) - Put LaTeX into your figma documents.
 - [The 15 best Figma plugins for designers (so far) (2019)](https://uxdesign.cc/the-15-best-figma-plugins-for-designers-so-far-84332ab1a61)
-- [SPELLL](https://spelll.design/) - Spelling & grammar checker for Figma.
+- [SPELLL](https://spelll.design/) - Spelling & grammar checker for Figma. ([Extension](https://www.figma.com/community/plugin/754026612866636376/SPELLL---Spelling-%26-Grammar-Checking-for-Figma-%26-FigJam))
 - [React Figma](https://github.com/react-figma/react-figma) - Render React components to Figma.
 - [Scripter](https://www.figma.com/community/plugin/757836922707087381/Scripter) - Speed up your workflow or experiment with the Figma API through scripts. ([Code](https://github.com/rsms/scripter))
 - [Figma Import](https://packages.framer.com/package/lily/figma-import) - Import any frame from Figma as an image.

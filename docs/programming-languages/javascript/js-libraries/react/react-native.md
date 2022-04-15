@@ -241,3 +241,4 @@ title: React Native
 - [React Native Swipeable Panel](https://github.com/enesozturk/rn-swipeable-panel) - Swipeable, easy to use bottom panel for your React Native projects.
 - [React Native Sodium JSI](https://github.com/standardnotes/react-native-sodium-jsi) - Precompiled binaries of libsodium will be linked by default.
 - [React Native SHA library](https://github.com/henrhie/react-native-sha) - Fast Secure Hash Algorithm solution for React Native with direct C++ bindings.
+- [React Native Reorderable List](https://github.com/omahili/react-native-reorderable-list) - Reorderable list for React Native applications, powered by Reanimated 2.

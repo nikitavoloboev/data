@@ -1747,6 +1747,7 @@
 - [IO Bluetooth](https://github.com/Wodann/io-bluetooth-rs) - Cross-platform Bluetooth library for Rust.
 - [mp4](https://github.com/alfg/mp4-rust) - MP4 reader and writer library in Rust.
 - [PyO3-File](https://github.com/omerbenamram/pyo3-file) - Small helper library for working with python file-like objects with rust.
+- [hifitime](https://github.com/nyx-space/hifitime) - High fidelity time management library in Rust.
 
 ## Cargo Plugins
 

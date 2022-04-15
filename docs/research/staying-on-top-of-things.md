@@ -180,6 +180,7 @@ And these Discord servers:
 - [New Lines Magazine](https://newlinesmag.com/)
 - [Truthout](https://truthout.org/) - Fearless, Independent News & Analysis.
 - [Reasons to be Cheerful](https://reasonstobecheerful.world/)
+- [openDemocracy](https://www.opendemocracy.net/en/odr/) - Independent media platform covering world affairs, ideas and culture. ([Twitter](https://twitter.com/opendemocracy))
 
 ### Other
 

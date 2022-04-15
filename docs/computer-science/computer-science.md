@@ -190,3 +190,4 @@
 - [Wordle is NP-hard (2022)](https://arxiv.org/abs/2203.16713) ([Reddit](https://www.reddit.com/r/programming/comments/tuzr2r/wordle_is_nphard/))
 - [On One-way Functions and Kolmogorov Complexity (2020)](https://arxiv.org/abs/2009.11514)
 - [Notes on realizability](https://github.com/andrejbauer/notes-on-realizability)
+- [Computer Science Open Data (2022)](https://jeffhuang.com/computer-science-open-data/)
