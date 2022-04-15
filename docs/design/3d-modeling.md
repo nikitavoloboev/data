@@ -80,3 +80,4 @@
 - [DEODR](https://github.com/martinResearch/DEODR) - Differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces.
 - [PyViz3D](https://github.com/francisengelmann/PyViz3D) - Python package to visualize 3D scenes directly in your browser.
 - [r3DPhoto](https://www.r3dphoto.app/) - Turn Photos into 3D Models. ([HN](https://news.ycombinator.com/item?id=30971542))
+- [SolidPython](https://github.com/SolidCode/SolidPython) - Python frontend for solid modelling that compiles to OpenSCAD.

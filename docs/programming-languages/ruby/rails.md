@@ -156,3 +156,4 @@ title: Rails
 - [Simplify Rails Views Using ViewComponents with Tailwind CSS and RSpec (2022)](https://stefcoetzee.com/rails-viewcomponent-rspec-tailwind)
 - [Lookbook](https://github.com/allmarkedup/lookbook) - Native development UI for ViewComponent.
 - [Rust on Nails: Full stack architecture for Rust web applications](https://cloak.software/blog/rust-on-nails/) ([Code](https://github.com/purton-tech/cloak))
+- [maybe_later](https://github.com/testdouble/maybe_later) - Run code after the current Rack response or Rails action completes.

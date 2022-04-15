@@ -205,3 +205,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Kaleidosync](https://www.kaleidosync.com/) - WebGL Spotify visualizer made with Vue, D3, and Three.js. ([Code](https://github.com/zachwinter/kaleidosync)) ([HN](https://news.ycombinator.com/item?id=30929909))
 - [spotify-mini](https://github.com/rocktimsaikia/spotify-mini) - Tiny Spotify client for node.js exposing some useful methods to get your latest Spotify status.
 - [OneTagger](https://github.com/Marekkon5/onetagger) - Cross-platform music tagger written in Rust, Vue.js and Quasar.
+- [Spotify Song Recommender](https://github.com/BobbyWilt/Spotify_Song_Recommender)

@@ -122,3 +122,4 @@ title: JSON
 - [Jaggr](https://github.com/rs/jaggr) - Command line tool to aggregate in real time a series of JSON logs.
 - [JSON API Normalize](https://github.com/dbrekalo/json-api-normalize) - Simple way to traverse datasets based on JSON API specification. Lightweight JS library with simple and powerful API.
 - [JSON Schema Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - Language agnostic test suite for the JSON Schema specifications.
+- [The fastest tools for querying large JSON datasets](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb) ([HN](https://news.ycombinator.com/item?id=31004563))
