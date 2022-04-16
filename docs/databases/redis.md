@@ -6,6 +6,10 @@ title: Redis
 
 [Hosting Redis on Fly](https://github.com/fly-apps/redis) is nice.
 
+## Notes
+
+- [Redis is great for shared memory across service instances. Solves the 'how can I make every instance of this app aware of something' problem. Examples: Session store backed by redis. Cache layer backed by redis. Async atomic Job queue.](https://twitter.com/bcomnes/status/1515000087163781120)
+
 ## Links
 
 - [Scaling a High-traffic Rate Limiting Stack With Redis Cluster](https://brandur.org/redis-cluster)
