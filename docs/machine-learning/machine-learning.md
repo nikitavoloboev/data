@@ -774,3 +774,4 @@
 - [Recommender Systems, Not Just Recommender Models (2022)](https://medium.com/nvidia-merlin/recommender-systems-not-just-recommender-models-485c161c755e)
 - [Reading Lists of Machine Learning, Natural Language Processing and etc.](https://github.com/IsaacChanghau/DL-NLP-Readings)
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions (2021)](https://arxiv.org/abs/2102.05379) ([Code](https://github.com/didriknielsen/argmax_flows))
+- [The Principles of Deep Learning Theory (2021)](https://arxiv.org/abs/2106.10165)

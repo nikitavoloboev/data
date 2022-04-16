@@ -227,3 +227,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [In defense of simple architectures](https://danluu.com/simple-architectures/) ([HN](https://news.ycombinator.com/item?id=30936189))
 - [Ask HN: How to Learn Software Architecture? (2022)](https://news.ycombinator.com/item?id=30913173)
 - [Ask HN: Where can I see many examples of real companies' software architecture? (2022)](https://news.ycombinator.com/item?id=30986893)
+- [Good sample multi-tier web apps for demos (2022)](https://twitter.com/ibuildthecloud/status/1515088692431360003)

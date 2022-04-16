@@ -222,3 +222,4 @@ title: Svelte
 - [SvelteKit SVG Plugin](https://github.com/poppa/sveltekit-svg) - Makes it possible to import SVG files as Svelte components, inline SVG code or urls.
 - [Rich Harris - The Road to SvelteKit 1.0 (2022)](https://www.youtube.com/watch?v=s6a1pbTVcUs)
 - [KitDocs](https://kit-docs.svelteness.dev/docs/getting-started/introduction) - Documentation integration for SvelteKit. ([Code](https://github.com/svelteness/kit-docs))
+- [Thoughts on maturity of Svelte/SvelteKit (2022)](https://twitter.com/htmleverything/status/1515000240134242309)

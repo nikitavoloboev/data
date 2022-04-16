@@ -1,3 +1,7 @@
+---
+title: Docusaurus
+---
+
 # [Docusaurus](https://docusaurus.io/)
 
 ## Links
