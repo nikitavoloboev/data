@@ -155,3 +155,4 @@
 - [Whatamesh](https://whatamesh.vercel.app/) - Easily create mesh gradients like Stripe. ([Code](https://github.com/jordienr/whatamesh))
 - [color-contrast](https://github.com/hturan/color-contrast) - Visualizing relative luminance contrast within sRGB colorspace.
 - [Reasonable Colors](https://reasonable.work/colors/) - Open-source color system for building accessible, nice-looking color palettes. ([Code](https://github.com/matthewhowell/reasonable-colors))
+- [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - Extract prominent colors from an image.
