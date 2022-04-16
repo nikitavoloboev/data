@@ -28,3 +28,4 @@ title: Bevy Engine
 - [Bevy Jam](https://itch.io/jam/bevy-jam-1)
 - [Jam Bevy Jam](https://github.com/killercup/marmalade) - Bevy game for the first Bevy Jam.
 - [Composable Alternatives to Bevy's RunCriteria, States, FixedTimestep](https://github.com/IyesGames/iyes_loopless)
+- [Bevy 0.7 (2022)](https://bevyengine.org/news/bevy-0-7/) ([HN](https://news.ycombinator.com/item?id=31043668))

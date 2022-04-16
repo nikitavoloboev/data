@@ -166,3 +166,6 @@ title: RISC-V
 - [YARVI](https://github.com/tommythorn/yarvi) - RISC-V Implementation.
 - [FlatRv](https://github.com/losfair/FlatRv) - Cross-platform RISC-V interpreter that implements the RV32IMA instruction set.
 - [RISC-V Formal Verification Framework](https://github.com/SymbioticEDA/riscv-formal)
+- [Flute](https://github.com/bluespec/Flute) - RISC-V CPU, simple 5-stage in-order pipeline, for low-end applications needing MMUs and some performance.
+- [RISCV-ISA-Spec](https://github.com/rsnikhil/Forvis_RISCV-ISA-Spec) - Formal specification of RISC-V Instruction Set.
+- [Snitch System](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system.

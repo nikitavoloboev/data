@@ -903,6 +903,7 @@
 - [Golden Layout](https://github.com/golden-layout/golden-layout) - Multi window layout manager for web apps.
 - [nano-memoize](https://github.com/anywhichway/nano-memoize) - Faster than fast, smaller than micro ... nano-memoizer.
 - [YAML](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML.
+- [JW Player](https://github.com/jwplayer/jwplayer) - Solution for seamless video playback across browsers and media types.
 
 ## Links
 

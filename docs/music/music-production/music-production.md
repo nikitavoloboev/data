@@ -343,3 +343,4 @@
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) ([Code](https://github.com/mdn/webaudio-examples))
 - [Elementary Audio](https://www.elementary.audio/) - Modern platform for writing high performance audio software. ([HN](https://news.ycombinator.com/item?id=30990874))
 - [Bintracker](https://github.com/bintracker/bintracker) - Hackable Chiptune Audio Workstation for the 21st Century.
+- [Erased Notes](https://erasednotes.com/) - Creative MIDI Devices for Ableton Live.

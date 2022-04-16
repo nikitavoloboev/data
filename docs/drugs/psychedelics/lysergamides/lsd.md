@@ -40,3 +40,4 @@ title: LSD
 - [LSD degrades hippocampal spatial representations and suppresses hippocampal-visual cortical interactions (2021)](<https://www.cell.com/cell-reports/pdf/S2211-1247(21)01163-3.pdf>)
 - [Pharmacokinetics and subjective effects of 1P‐LSD in humans after oral and intravenous administration (2020)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/dta.2821)
 - [What are the phenomological and physiological differences in LSD-25 and analogues like 1P-LSD?](https://www.reddit.com/r/RationalPsychonaut/comments/u0d15c/what_are_the_phenomological_and_physiological/)
+- [Hamilton's Pharmacopeia: Ultra LSD](https://www.youtube.com/watch?v=BHjcrqAijqI)

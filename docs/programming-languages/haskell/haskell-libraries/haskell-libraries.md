@@ -292,6 +292,7 @@
 - [perfect-vector-shuffle](https://github.com/Boarders/perfect-vector-shuffle) - Library for performing shuffles on vectors.
 - [cron](https://github.com/MichaelXavier/cron) - Cron data structure and parser for Haskell.
 - [schematic](https://github.com/typeable/schematic) - Type-safe JSON spec and validation tool.
+- [configurant](https://github.com/patrickt/configurant) - Haskell library for loading configuation data from environment variables.
 
 ## Notes
 

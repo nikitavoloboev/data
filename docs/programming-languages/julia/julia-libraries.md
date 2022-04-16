@@ -89,6 +89,7 @@
 - [MethodOfLines.jl](https://github.com/SciML/MethodOfLines.jl) - Automatic Finite Difference PDE solving with Julia SciML.
 - [Yota.jl](https://github.com/dfdx/Yota.jl) - Reverse-mode automatic differentiation in Julia.
 - [DLPack.jl](https://github.com/pabloferz/DLPack.jl) - Julia wrapper for DLPack.
+- [ConstraintLearning](https://github.com/JuliaConstraints/ConstraintLearning.jl) - Julia package for people that love to learn new things about constraints.
 
 ## Math
 
@@ -179,6 +180,7 @@
 - [Survival.jl](https://github.com/JuliaStats/Survival.jl) - Survival analysis in Julia.
 - [StatsKit.jl](https://github.com/JuliaStats/StatsKit.jl) - Convenience meta-package to load essential packages for statistics.
 - [Multivariate Polynomials](https://github.com/JuliaAlgebra/MultivariatePolynomials.jl) - Interface for manipulating multivariate polynomials.
+- [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) - Julia Basket of Hand-Picked Krylov Methods.
 
 ## NLP
 

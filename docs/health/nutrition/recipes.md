@@ -25,6 +25,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Jollof Rice Recipe](https://cooking.nytimes.com/recipes/1018069-jollof-rice)
 - [Pantry Pasta](https://www.youtube.com/watch?v=AHgsNybwusc)
 - [Veg Biryani Recipe](https://www.indianhealthyrecipes.com/veg-biryani/)
+- [Homemade custard recipe](https://www.bbcgoodfood.com/recipes/homemade-custard)
 
 ## Links
 

@@ -196,3 +196,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [BotLi](https://github.com/codingforhelp/Lichess-Bot) - Bot for Lichess.
 - [lichess-bot](https://github.com/ShailChoksi/lichess-bot) - Bridge between Lichess Bot API and bots.
 - [Lichess.org API](https://lichess.org/api#operation/apiStreamEvent) - Play on Lichess as a bot. Allows engine play.
+- [Pleco](https://github.com/sfleischman105/Pleco) - Rust-based re-write of the Stockfish Chess Engine.
