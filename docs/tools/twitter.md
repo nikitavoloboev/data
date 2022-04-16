@@ -22,6 +22,7 @@ title: Twitter
 - [Each day on twitter there is one main character. The goal is to never be it.](https://twitter.com/maplecocaine/status/1080665226410889217)
 - [How to become a tech twitter influencer in five easy steps: 1. be relatable 2. keep a regular posting schedule 3. engage with your followers 4. go on podcasts!](https://twitter.com/ctrlshifti/status/1476086483245101056)
 - [Twitter has useful "from people you follow" search filter](https://twitter.com/Gavmn/status/1507371911310807043)
+- [New Twitter CEO Checklist: 1. Open-source the algorithm. 2. Eliminate all bots. 3. Restore free speech.](https://twitter.com/DavidSacks/status/1515363131249213444)
 
 ## Links
 

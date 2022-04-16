@@ -113,3 +113,4 @@ title: Zig
 - [Looking at Zig Programming Language (2022)](https://codecs.multimedia.cx/2022/02/looking-at-zig-programming-language/) ([HN](https://news.ycombinator.com/item?id=30919305))
 - [I Believe Zig Has Function Colors (2022)](https://gavinhoward.com/2022/04/i-believe-zig-has-function-colors/) ([Lobsters](https://lobste.rs/s/mw1f3s/i_believe_zig_has_function_colors)) ([HN](https://news.ycombinator.com/item?id=30965805))
 - [Zig Bit Twiddling Hacks](https://github.com/cryptocode/bithacks)
+- [Zig self-hosted compiler can now build itself (2022)](https://github.com/ziglang/zig/pull/11442) ([HN](https://news.ycombinator.com/item?id=31052029)) ([Lobsters](https://lobste.rs/s/0j45v4/zig_self_hosted_compiler_can_now_build))

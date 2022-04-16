@@ -151,3 +151,4 @@ Learning to build [startups](startups/startups.md).
 - [What was the smartest Corporate Buyout of All Time? (2020)](https://www.youtube.com/watch?v=XFEW4rr1xb0)
 - [Success and Failure at Pebble (2022)](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)
 - [Elon Musks' bid on Twitter explained (2022)](https://twitter.com/gavinjohnadams/status/1514622570850664448)
+- [Default Alive or Default Dead? (2015)](http://www.paulgraham.com/aord.html) ([Tweet](https://twitter.com/karrisaarinen/status/1514348234818265089))

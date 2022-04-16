@@ -764,3 +764,4 @@ if err != nil {
 - [When To Use Generics (2022)](https://go.dev/blog/when-generics) ([Reddit](https://www.reddit.com/r/golang/comments/u2a4qg/when_to_use_generics_by_ian_lance_taylor/))
 - [Go's use at Google](https://twitter.com/stephr_wong/status/1513502127452311554)
 - [A Study of Real-World Data Races in Go (2022)](https://arxiv.org/abs/2204.00764)
+- [Building a Golang JSON HTTP Server (2021)](https://earthly.dev/blog/golang-http/)

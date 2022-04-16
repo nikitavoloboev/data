@@ -427,3 +427,4 @@ if (
 - [Google Closure Compiler NPM](https://github.com/google/closure-compiler-npm) - Check, compile, optimize and compress JavaScript with Closure-Compiler.
 - [unminify](https://github.com/xfthhxk/unminify) - Unminifies JS stacktrace errors.
 - [JavaScript on GraalVM](https://github.com/oracle/graaljs) - High performance implementation of the JavaScript programming language. Built on the GraalVM by Oracle Labs.
+- [I Avoid Async/Await (2022)](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e) ([HN](https://news.ycombinator.com/item?id=31050650))

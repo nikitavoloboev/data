@@ -318,7 +318,7 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://d
 - [Baby's First AWS Deployment (2022)](https://blog.verygoodsoftwarenotvirus.ru/posts/babys-first-aws/)
 - [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
 - [Soto S3 Transfer](https://github.com/soto-project/soto-s3-file-transfer) - Make uploading and downloading of files to AWS S3 easy.
-- [Stacktape](https://stacktape.com/) - DevOps-free application development. ([Code](https://github.com/stacktape/stacktape))
+- [Stacktape](https://stacktape.com/) - DevOps-free application development. ([Code](https://github.com/stacktape/stacktape)) ([HN](https://news.ycombinator.com/item?id=31014247))
 - [ElectricEye](https://github.com/jonrau1/ElectricEye) - Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability.
 - [AWS Encryption SDK for JavaScript](https://github.com/aws/aws-encryption-sdk-javascript)
 - [Typescript 2 ASL Transpiler](https://github.com/OlafConijn/ts2asl)
@@ -334,3 +334,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://d
 - [python_fasts3](https://github.com/joshuarobinson/python_fasts3) - Fast S3 in Python using Rust.
 - [AWS RDS Terraform module](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS.
 - [goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3.
+- [Scaling containers on AWS in 2022](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)

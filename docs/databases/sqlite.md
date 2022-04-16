@@ -12,6 +12,7 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)
 - [SQLite now has first class support for JSON.](https://lobste.rs/s/gdu6pt/sqlite_release_3_38_0)
+- [SQLite has amazing full text search](https://twitter.com/SebastianSzturo/status/1515297367335247877)
 
 ## Links
 
@@ -184,3 +185,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Litestream Read Replica Example](https://github.com/benbjohnson/litestream-read-replica-example) - Example of how to setup and deploy a multi-node SQLite database using Litestream's live read replication feature.
 - [numbsql](https://github.com/cpcloud/numbsql) - Run Numba compiled functions into SQLite.
 - [Migrating from SQLite to PostgreSQL](https://bytebase.com/blog/database-migration-sqlite-to-postgresql) ([HN](https://news.ycombinator.com/item?id=31038614))
+- [Golang SQLite database/sql (2022)](https://earthly.dev/blog/golang-sqlite/)

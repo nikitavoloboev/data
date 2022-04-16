@@ -31,6 +31,10 @@
 
 - [Wiola](https://www.instagram.com/rapsodia_w/)
 
+## Notes
+
+- [Building housing more densely doesn't mean you have to sacrifice open space, light, or air. Older cities have long taught us this. The notion that a private yard is the only way to get outdoor space is wrong & antiquated](https://twitter.com/Cobylefko/status/1514798732490915846)
+
 ## Links
 
 - [Tiny Houses Subreddit](https://www.reddit.com/r/tinyhouses)

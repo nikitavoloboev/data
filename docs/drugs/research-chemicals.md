@@ -57,3 +57,4 @@ title: Research chemicals
 - [RC that everyone should try at least once? (2022)](https://www.reddit.com/r/researchchemicals/comments/srv4ih/whats_an_rc_that_everyone_should_try_at_least_once/)
 - [Research Equipment Starter Packs](https://www.reddit.com/r/researchchemicals/comments/sust0u/research_equipment_starter_packs_v2/)
 - [Best functional RC stims](https://www.reddit.com/r/researchchemicals/comments/thmodp/best_functional_rc_stim/)
+- [What are some of your favorite RC? (2022)](https://www.reddit.com/r/researchchemicals/comments/u4myz1/what_are_some_of_your_favourite_rc/)

@@ -8,6 +8,7 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [US has exit tax when renouncing citizenship if net worth is $2m+ or high federal taxes or not compliant; easier to leave before triggering. If just leaving to live overseas, you still must file and pay USA subject to exclusions, treaties, credits, etc](https://twitter.com/nomadcapitalist/status/1454574254566019080)
 - [If the USA had a core KPI, it would be immigration. It has a monopoly on ambitious migrants—if that disappears, the product inevitably fails.](https://twitter.com/cpaik/status/1459534475042435083)
 - [Puerto Rico due to Act 60 decree allows you to pay no capital gains for 15 years, while keeping US citizenship.](https://www.reddit.com/r/fatFIRE/comments/rj6iju/moving_form_switzerland_to_the_beautiful_united/)
+- [Allowing 54 units/acre as-of-right citywide would solve most US cities' housing affordability crisis in a span of like two years.](https://twitter.com/mnolangray/status/1515081757883731971)
 
 ## Links
 
@@ -126,3 +127,5 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [The United States Digital Corps](https://digitalcorps.gsa.gov/about/) ([HN](https://news.ycombinator.com/item?id=30958919))
 - [Americans Angry They Can’t Give up Citizenship (2022)](https://www.youtube.com/watch?v=4EQ8Z1aN2Cc)
 - [How the USA Passport Ranked 41st (2022)](https://www.youtube.com/watch?v=8Bbo5FabtvA)
+- [US will have highest personal tax out of all developed world countries](https://www.youtube.com/watch?v=kyPdcnkWgL8)
+- [America’s Highest Earners And Their Taxes Revealed (2022)](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)

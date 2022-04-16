@@ -709,3 +709,4 @@ title: Kubernetes
 - [KubeRay](https://github.com/ray-project/kuberay) - Toolkit to run Ray applications on Kubernetes.
 - [GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio](https://github.com/stefanprodan/gitops-istio)
 - [kubert](https://github.com/olix0r/kubert) - Rust Kubernetes runtime helpers. Based on kube-rs.
+- [Stateless Kubernetes overlay networks with IPv6 (2021)](https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6)

@@ -1,5 +1,9 @@
 # Data Visualization
 
+## Nice examples
+
+- [America’s Highest Earners And Their Taxes Revealed](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)
+
 ## Links
 
 - [Vega](http://vega.github.io/) - Declarative format for creating, saving, and sharing visualization designs. ([Code](https://github.com/vega/vega))

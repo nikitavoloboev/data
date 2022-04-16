@@ -86,3 +86,5 @@ title: Phoenix framework
 - [Real World Phoenix](https://github.com/szTheory/real-world-phoenix) - Learn from Phoenix apps written by experienced developers.
 - [Exzeitable](https://github.com/alanvardy/exzeitable) - Dynamically updating, searchable, sortable datatables with Phoenix LiveView.
 - [Building a Streaming Music Service with Phoenix and Elixir (2022)](https://lofi.limo/blog/building-a-streaming-music-service-with-phoenix-and-elixir) ([Lobsters](https://lobste.rs/s/brqjad/building_streaming_music_service_with))
+- [React in LiveView: How and Why? (2022)](https://stephenbussey.com/2022/04/13/react-in-liveview-how-and-why.html)
+- [Real-Time Phoenix: Build Highly Scalable Systems with Channels by Stephen Bussey](https://pragprog.com/titles/sbsockets/real-time-phoenix/)
