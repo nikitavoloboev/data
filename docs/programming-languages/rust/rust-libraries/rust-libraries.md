@@ -1756,6 +1756,7 @@
 - [hifitime](https://github.com/nyx-space/hifitime) - High fidelity time management library in Rust.
 - [ImplicitClone](https://github.com/rustminded/implicit-clone) - Immutable types and ImplicitClone trait similar to Copy.
 - [libvirt Rust](https://github.com/libvirt/libvirt-rust) - Rust bindings to the libvirt C library.
+- [postage-rs](https://github.com/austinjones/postage-rs) - Feature-rich, portable async channel library.
 
 ## Cargo Plugins
 

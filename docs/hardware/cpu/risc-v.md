@@ -170,3 +170,4 @@ title: RISC-V
 - [RISCV-ISA-Spec](https://github.com/rsnikhil/Forvis_RISCV-ISA-Spec) - Formal specification of RISC-V Instruction Set.
 - [Snitch System](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system.
 - [JavaScript RISC-V ISA Simulator. Boots Linux in a web-browser](https://github.com/riscv-software-src/riscv-angel)
+- [RVScript](https://github.com/fwsGonzo/rvscript) - Fast RISC-V-based scripting backend for game engines.

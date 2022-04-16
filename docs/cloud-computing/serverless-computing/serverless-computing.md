@@ -156,3 +156,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Nitric Serverless Framework](https://nitric.io/) - Build Cloud-Native Apps Fast.
 - [Lumigo](https://lumigo.io/) - Serverless Monitoring and Troubleshooting Platform. ([CLI](https://github.com/lumigo-io/lumigo-CLI))
 - [Compute@Edge starter kit for JavaScript](https://github.com/fastly/compute-starter-kit-javascript-default)
+- [Serverless Rust Demo](https://github.com/aws-samples/serverless-rust-demo) - Simple serverless application built in Rust. It consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.

@@ -472,3 +472,4 @@ title: PostgreSQL
 - [Multiranges in PostgreSQL 14 (2022)](https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/)
 - [SupaDB](https://www.supadb.dev/) - Connect and play with Supabase REST API / GraphQL easily. ([Code](https://github.com/zernonia/supadb))
 - [IaSQL](https://github.com/iasql/iasql-engine) - Manage cloud infrastructure as data in a hosted PostgreSQL database. ([Web](https://iasql.com/))
+- [SQL views for Dune Analytics](https://github.com/duneanalytics/abstractions)

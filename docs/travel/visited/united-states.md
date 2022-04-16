@@ -1,6 +1,6 @@
 # United States
 
-Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614736132603909) for speaking the truth.
+Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614736132603909) for speaking the truth. I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer)'s analysis in regards to US foreign policy.
 
 ## Notes
 

@@ -27,3 +27,4 @@ title: EdgeDB
 - [EdgeDB examples](https://github.com/edgedb/edgedb-examples) - Starter projects for using EdgeDB with different stacks.
 - [EdgeQL: A primer — Victor Petrovykh (2022)](https://www.youtube.com/watch?v=W6oQXK9cckk)
 - [EdgeDB Editor Plugin](https://github.com/edgedb/edgedb-editor-plugin)
+- [Full-stack EdgeDB + Next.js application](https://github.com/colinhacks/edgedb-nextjs-blog)

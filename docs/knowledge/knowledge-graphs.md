@@ -117,3 +117,4 @@
 - [LinkedDataHub](https://github.com/AtomGraph/LinkedDataHub) - Open source software you can use to manage data, create visualizations and build apps on RDF Knowledge Graphs.
 - [System Graph](https://system.com/graph) - Free, open, and living public resource that aims to explain how anything in the world is connected to everything else.
 - [Knowledge Infused Decoding (2021)](https://openreview.net/forum?id=upnDJ7itech) ([Code](https://github.com/microsoft/KID))
+- [Unigraph](https://unigraph.dev/) - Organize, relate, and discover everything in your life on your knowledge graph, all in one workspace. ([Twitter](https://twitter.com/GetUnigraph))

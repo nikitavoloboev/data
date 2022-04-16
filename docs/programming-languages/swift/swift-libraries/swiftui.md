@@ -200,3 +200,5 @@ title: SwiftUI
 - [WWDC22 artwork in SwiftUI](https://github.com/atrinh0/wwdc22)
 - [SwiftUI and CoreData: The MVVM Way (2021)](https://mattrighetti.com/2021/02/03/swiftui-and-coredata-mvvm.html)
 - [SwiftUI-Simulator](https://github.com/YusukeHosonuma/SwiftUI-Simulator) - Simulate any device and settings on one simulator or device.
+- [SwiftUI Spring Animations Cheat Sheet for Developers](https://github.com/GetStream/swiftui-spring-animations)
+- [SwiftUI: iOS UI Library](https://github.com/amosgyamfi/swiftui-ios-ui-library)

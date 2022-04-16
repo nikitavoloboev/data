@@ -166,9 +166,8 @@
 - [Functional Programming Is Boring](https://github.com/danieljharvey/functional-programming-is-boring) - Short course on Functional Programming in Typescript.
 - [Notes on Functional Programming and related topics](https://github.com/siraben/fp-notes)
 - [Theory and Applications of Lenses and Optics](https://github.com/bgavran/Lens_Resources)
-
+- [schmu](https://github.com/tjammer/schmu) - Small, mostly functional programming language which compiles to native code.
 
 ## Images
 
 ![](https://i.imgur.com/nSrcdxd.png)
-

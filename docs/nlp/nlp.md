@@ -542,3 +542,4 @@
 - [DALL-E in Mesh-TensorFlow](https://github.com/EleutherAI/DALLE-mtf)
 - [A few things to try with DALL·E (2022)](https://www.bramadams.dev/projects/dalle-tricks) ([HN](https://news.ycombinator.com/item?id=31009129))
 - [Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution (2022)](https://www.youtube.com/watch?v=RJwPN4qNi_Y)
+- [Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution (2021)](https://arxiv.org/abs/2106.06361) ([Code](https://github.com/thunlp/BkdAtk-LWS))
