@@ -269,3 +269,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Prop](https://github.com/fremantle-industries/prop) - Open and opinionated trading platform using productive & familiar open source libraries and tools for strategy research, execution and operation.
 - [Workbench](https://github.com/fremantle-industries/workbench) - Manage your trading operation across a distributed cluster.
 - [History](https://github.com/fremantle-industries/history) - Download and warehouse historical trading data.
+- [go-trader](https://github.com/robaho/go-trader) - Financial exchange written in Go, designed for algorithmic trading tests.

@@ -169,3 +169,4 @@ title: RISC-V
 - [Flute](https://github.com/bluespec/Flute) - RISC-V CPU, simple 5-stage in-order pipeline, for low-end applications needing MMUs and some performance.
 - [RISCV-ISA-Spec](https://github.com/rsnikhil/Forvis_RISCV-ISA-Spec) - Formal specification of RISC-V Instruction Set.
 - [Snitch System](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system.
+- [JavaScript RISC-V ISA Simulator. Boots Linux in a web-browser](https://github.com/riscv-software-src/riscv-angel)

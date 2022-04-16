@@ -384,3 +384,4 @@
 - [Bad Magic](https://github.com/smartrent/badmagic) - Swagger-UI alternative that allows developers to visualize and test their API resources from a convenient web interface.
 - [The complete guide to protecting your APIs with OAuth2 (2022)](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/)
 - [Building a stateless API proxy (2019)](https://blog.thea.codes/building-a-stateless-api-proxy/) ([Tweet](https://twitter.com/simonw/status/1515304201013764101))
+- [Request](https://github.com/aiocat/request) - Open-source api development application for minimalists.

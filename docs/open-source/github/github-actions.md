@@ -212,6 +212,7 @@ title: GitHub actions
 - [Deploy-Pages](https://github.com/actions/deploy-pages) - Deploys artifacts to GitHub Pages.
 - [Prow Github Actions](https://github.com/jpmcb/prow-github-actions) - Slash commands, jobs, and chat-ops for GitHub actions inspired by Kubernetes Prow.
 - [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests) - GitHub status check that ensures your pull requests follow the Conventional Commits spec.
+- [Assign Author](https://github.com/technote-space/assign-author) - GitHub Actions to assign author to issue or PR.
 
 ## Go
 

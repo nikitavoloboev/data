@@ -1,6 +1,6 @@
 # Swift libraries
 
-[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study.
+[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management.
 
 ## CLI
 

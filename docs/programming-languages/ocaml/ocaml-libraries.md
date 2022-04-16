@@ -181,6 +181,7 @@ title: OCaml libraries
 - [Conformist](https://github.com/oxidizing/conformist) - Schema definition and validation with support for decoding to bridge the gap between runtime types and static types.
 - [ocaml-crunch](https://github.com/mirage/ocaml-crunch) - Convert a filesystem into a static OCaml module.
 - [Ocaml protoc plugin](https://github.com/issuu/ocaml-protoc-plugin)
+- [ocaml-rust](https://github.com/LaurentMazare/ocaml-rust) - Safe OCaml-Rust Foreign Function Interface.
 
 ## Links
 

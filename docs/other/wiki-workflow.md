@@ -461,3 +461,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Heptabase](https://heptabase.com/) - Note-taking tool for visual learning.
 - [My Org Roam Notes Workflow (2021)](https://hugocisneros.com/blog/my-org-roam-notes-workflow/) ([HN](https://news.ycombinator.com/item?id=30965343))
 - [todo.txt format](https://github.com/todotxt/todo.txt) - Complete primer on the whys and hows of todo.txt.
+- [Harika](https://github.com/quolpr/harika) - Offline-first, performance-focused note taking app for organizing your knowledge database.

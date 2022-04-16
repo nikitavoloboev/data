@@ -461,6 +461,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [CronosJS](https://github.com/jaclarke/cronosjs) - Cron based task scheduler for node and the browser, with extended syntax and timezone support.
 - [Schemawax](https://github.com/michaljanocko/schemawax) - Tiny typed data decoder—get to the DNA of your data.
 - [hmans/signal](https://github.com/hmans/signal) - Signals represent distinct signals -- or events -- that allow interested parties to add callbacks to them that will be evoked whenever the signal is emitted.
+- [fly-node-api](https://github.com/remorses/fly-node-api) - Type safe API client for the Fly.io Graphql API.
 
 ## Links
 

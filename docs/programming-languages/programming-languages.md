@@ -340,9 +340,10 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [treequery](https://github.com/mergestat/treequery) - Run Tree-sitter queries on source code.
 - [Awesome Codemods](https://github.com/jelmer/awesome-codemods) - Curated list of tools that can fix your code for you.
 - [Spoofax](https://www.spoofax.dev/) - Open-source language designer's workbench with everything you need for designing your next textual (domain-specific) programming language. ([Code](https://github.com/metaborg/spoofax))
-- [Codestat.dev](https://codestat.dev/) - Stats from 2M open-source repositories.  ([HN](https://news.ycombinator.com/item?id=30940251)) ([Code](https://github.com/sourcegraph/codestat.dev))
+- [Codestat.dev](https://codestat.dev/) - Stats from 2M open-source repositories. ([HN](https://news.ycombinator.com/item?id=30940251)) ([Code](https://github.com/sourcegraph/codestat.dev))
 - [Copybara](https://github.com/google/copybara) - Tool for transforming and moving code between repositories. Used at Google.
 - [Ott](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi.
 - [PL Papers You Might Love Newsletter](https://newsletter.papersyoumightlove.pl/)
 - [ogma](https://github.com/kdr-aus/ogma) - Scripting language focused on processing tabular data.
 - [massCode](https://github.com/massCodeIO/massCode) - Free and open source code snippets manager for developers.
+- [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage))

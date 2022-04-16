@@ -18,6 +18,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [resso](https://github.com/nanxiaobei/resso) - Reactive shared store of React. No extra re-render.
 - [statin](https://github.com/tomasklaen/statin) - Simple and tiny reactive state library.
 - [Synergies](https://github.com/lukasbach/synergies) - Create a performant distributed context state by synergyzing atomar context pieces and composing reusable state logic.
+- [Create React State](https://github.com/mfbx9da4/create-react-state) - React state management you already know how to use.
 
 ## DB
 

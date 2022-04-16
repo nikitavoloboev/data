@@ -394,3 +394,4 @@ Awesome List
 - [GitHub Webhook to Telegram](https://github.com/dashezup/github-webhook-to-telegram) - Receive GitHub webhook events and send to Telegram chats with AIOHTTP through Telegram Bot API.
 - [Octokit Webhooks](https://github.com/octokit/webhooks) - Machine-readable, always up-to-date GitHub Webhooks specifications.
 - [Codespaces Network Bridge](https://github.com/github/gh-net) - GitHub CLI extension that allows to bridge network between a Codespace and your local machine.
+- [GitHub Changelog](https://github.com/chelnak/gh-changelog) - Opinionated GitHub Cli extension for creating changelogs that adhere to the keep a changelog specification.

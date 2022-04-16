@@ -4,7 +4,7 @@ title: Discord
 
 # [Discord](https://discord.com)
 
-[Harmony](https://github.com/harmonyland/harmony) is nice bot library.
+[Harmony](https://github.com/harmonyland/harmony) & [Discord.ts](https://github.com/oceanroleplay/discord.ts) seem like nice bot libraries.
 
 ## Bots
 
