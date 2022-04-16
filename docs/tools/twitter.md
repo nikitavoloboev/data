@@ -176,3 +176,4 @@ title: Twitter
 - [Twitter Card Image Generator](https://github.com/Ladicle/tcardgen) - Generate Twitter card (OGP) images for your blog posts.
 - [twintent](https://github.com/sheepla/twintent) - Small instant tweeting command.
 - [Twitter API open evolution](https://github.com/twitterdev/open-evolution) - Open evolution proposals for the Twitter API.
+- [Twitter Scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.

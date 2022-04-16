@@ -169,6 +169,7 @@
 - [Brex.Result](https://github.com/brexhq/result) - Provides tools to handle three common return values in Elixir.
 - [Combination](https://github.com/seantanly/elixir-combination) - Simple combinatorics library providing combination and permutation.
 - [Mogrify](https://github.com/elixir-mogrify/mogrify) - Image processing in Elixir.
+- [Jetstream](https://github.com/mmmries/jetstream) - Elixir client for NATS Jetstream.
 
 ## Links
 

@@ -122,6 +122,7 @@
 - [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js.
 - [JSVerify](https://github.com/jsverify/jsverify) - Property-based checking. Like QuickCheck.
 - [brittle](https://github.com/davidmarkclements/brittle) - TAP test runner built for modern times.
+- [fake-timers](https://github.com/sinonjs/fake-timers) - Fake setTimeout and friends (collectively known as "timers"). Useful in your JavaScript tests.
 
 ## Graphics
 
