@@ -166,3 +166,4 @@
 - [Vale](https://github.com/marc2332/vale) - Static documentation generator, designed for speed, simplicity and readability.
 - [Paradox](https://github.com/lightbend/paradox) - Markdown documentation tool for software projects.
 - [Vercel has nice changelog](https://twitter.com/mschoening/status/1514635315117367302)
+- [StrictDoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.

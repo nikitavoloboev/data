@@ -161,3 +161,5 @@
 - [OpenMower](https://github.com/ClemensElflein/OpenMower) - DIY Smart Mowing Robot for Everyone. ([Video](https://www.youtube.com/watch?v=BSF04i3zNGw)) ([HN](https://news.ycombinator.com/item?id=31014160))
 - [ODriveHardware](https://github.com/madcowswe/ODriveHardware) - High performance motor control.
 - [PyTorch Robot Kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics)
+- [ROS Best Practices, Conventions and Tricks](https://rsl.ethz.ch/education-students/lectures/ros.html) ([Code](https://github.com/leggedrobotics/ros_best_practices))
+- [ANYbotics](https://www.anybotics.com/) - Autonomous Legged Robots for Industrial Inspection. ([GitHub](https://github.com/ANYbotics))
