@@ -55,6 +55,7 @@
 - [conman](https://github.com/luminus-framework/conman) - Helper library for managing database connections.
 - [Codax](https://github.com/dscarpetti/codax) - Idiomatic transactional embedded database for clojure.
 - [asami](https://github.com/quoll/asami) - Graph database, for Clojure and ClojureScript.
+- [flint](https://github.com/yetanalytics/flint) - Clojure(Script) DSL for creating SPARQL query and update strings.
 
 ## ML
 

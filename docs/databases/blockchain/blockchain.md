@@ -378,3 +378,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Slurpee](https://github.com/fremantle-industries/slurpee) - GUI frontend to manage blockchain ingestion with slurp.
 - [Shade Protocol](https://shadeprotocol.io/) - Array of connected privacy-preserving DeFi applications built on Secret Network. ([Code](https://github.com/securesecrets/shade))
 - [Resources for building blockchain from scratch](https://twitter.com/m1guelpf/status/1515093241112190978)
+- [KILT Protocol](https://www.kilt.io/) - Blockchain identity protocol for issuing self-sovereign, anonymous, verifiable credentials and decentralized identifiers. ([Code](https://github.com/KILTprotocol/mashnet-node))

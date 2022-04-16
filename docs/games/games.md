@@ -150,6 +150,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source re-implementation of RollerCoaster Tycoon 2. ([Web](https://openrct2.io/))
 - [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) - Limit-removing enhanced-resolution Doom source port based on Chocolate Doom. ([HN](https://news.ycombinator.com/item?id=29882027))
 - [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
+- [Free Heroes of Might and Magic II](https://github.com/ihhub/fheroes2) - Recreation of HoMM2 game engine.
 
 ## Awesome games (other)
 

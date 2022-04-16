@@ -195,6 +195,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [neural.love](https://neural.love/) - Online video and image enhancement powered by AI.
 - [Jam](https://jamshelf.com/) - Self-Hosted Clubhouse. ([Code](https://github.com/jam-systems/jam)) ([HN](https://news.ycombinator.com/item?id=29493894))
 - [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
+- [InvenTree](https://github.com/inventree/InvenTree) - Open-source Inventory Management System which provides powerful low-level stock control and part tracking.
 - [Cerca](https://github.com/cblgh/cerca) - Lean forum software in Go.
 - [image-duplicate-remover](https://github.com/paazmaya/image-duplicate-remover) - Remove duplicate images.
 - [ntfy.sh](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop via PUT/POST. ([Docs](https://ntfy.sh/)) ([HN](https://news.ycombinator.com/item?id=29715464))

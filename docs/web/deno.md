@@ -4,7 +4,7 @@ title: Deno
 
 # [Deno](https://github.com/denoland/deno)
 
-[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm.
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager.
 
 ## Links
 
@@ -215,3 +215,4 @@ title: Deno
 - [dom-jsx-runtime](https://github.com/jed/dom-jsx-runtime) - Tiny library that turns JSX into DOM operations.
 - [deno-systray](https://github.com/wobsoriano/deno-systray) - Cross-platform systray library for Deno using the go systray library.
 - [Sprinter](https://github.com/jeff-hykin/sprinter) - Run deno subprocesses faster.
+- [Merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for Deno.

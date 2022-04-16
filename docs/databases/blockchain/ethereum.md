@@ -597,3 +597,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [defi-bindings](https://github.com/mattsse/defi-bindings) - Rust bindings for various defi projects.
 - [ETH Basic Typescript Starter](https://github.com/nezz0746/typescript-eth-starter)
 - [Create React Native dApp](https://github.com/cawfree/create-react-native-dapp)
+- [Cairo ZK Verifier in Nock](https://github.com/uqbar-dao/zock)

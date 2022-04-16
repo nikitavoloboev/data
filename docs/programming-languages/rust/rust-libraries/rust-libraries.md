@@ -148,6 +148,7 @@
 - [tide-trace](https://github.com/No9/tide-trace) - Minimum overhead USDT middleware to dynamically trace tide with BPF or DTrace.
 - [mt-dom](https://github.com/ivanceras/mt-dom) - Generic virtual DOM implementation for rust.
 - [udp-socket](https://github.com/mxinden/udp-socket) - Advanced udp socket.
+- [Fast SOCKS5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio).
 
 ## WASM
 
@@ -532,6 +533,7 @@
 - [nrf-usbd](https://github.com/nrf-rs/nrf-usbd) - Driver for the USBD peripheral in nRF microcontrollers.
 - [alloc-cortex-m](https://github.com/rust-embedded/alloc-cortex-m) - Heap allocator for Cortex-M processors.
 - [Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
+- [nrf-hal](https://github.com/nrf-rs/nrf-hal) - HAL for the nRF51, nRF52 and nRF91 families of microcontrollers.
 
 ## ML
 
@@ -1753,6 +1755,7 @@
 - [PyO3-File](https://github.com/omerbenamram/pyo3-file) - Small helper library for working with python file-like objects with rust.
 - [hifitime](https://github.com/nyx-space/hifitime) - High fidelity time management library in Rust.
 - [ImplicitClone](https://github.com/rustminded/implicit-clone) - Immutable types and ImplicitClone trait similar to Copy.
+- [libvirt Rust](https://github.com/libvirt/libvirt-rust) - Rust bindings to the libvirt C library.
 
 ## Cargo Plugins
 

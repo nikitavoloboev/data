@@ -207,3 +207,4 @@
 - [LXC](https://github.com/lxc/lxc) - Well-known and heavily tested low-level Linux container runtime.
 - [Running a Container off the Host /usr/](https://0pointer.net/blog/running-an-container-off-the-host-usr.html)
 - [Reference implementation of the Cloud Native Buildpacks lifecycle](https://github.com/buildpacks/lifecycle)
+- [Podman Desktop Companion](https://iongion.github.io/podman-desktop-companion/) ([Code](https://github.com/iongion/podman-desktop-companion)) ([HN](https://news.ycombinator.com/item?id=31055475))

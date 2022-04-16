@@ -10,3 +10,4 @@ title: V
 - [Awesome V](https://github.com/vlang/awesome-v)
 - [VLS](https://github.com/vlang/vls) - V Language Server.
 - [V UI](https://github.com/vlang/ui) - Cross-platform UI library written in V.
+- [V's package manager](https://vpm.vlang.io/) ([Code](https://github.com/vlang/vpm))

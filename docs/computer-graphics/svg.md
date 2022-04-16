@@ -139,3 +139,4 @@
 - [svg2rough.js](https://github.com/fskpf/svg2roughjs) - Utilizes Rough.js to convert an SVG to a hand-drawn visualization.
 - [Ideal SVG exports](https://bjango.com/articles/svgexports/)
 - [Chunky SVG](https://github.com/mmmries/chunky_svg) - Elixir library for generating SVG images.
+- [svg-sprite](https://github.com/svg-sprite/svg-sprite) - Low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types.

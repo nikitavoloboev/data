@@ -150,3 +150,4 @@ fi
 - [Workflow Development](https://intersect.rknight.me/macos/alfred/workflow-development/)
 - [Alfred Workflows (Rust)](https://github.com/rust-playground/alfred-workflows-rs)
 - [Updated Third-Party Python 2 Workflows](https://github.com/alfredapp/updated-third-party-python2-workflows)
+- [Alfred-Workflow](https://github.com/NorthIsUp/alfred-workflow-py3) - Full-featured library for writing Alfred 3 & 4 workflows.

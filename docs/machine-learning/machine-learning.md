@@ -775,3 +775,4 @@
 - [Reading Lists of Machine Learning, Natural Language Processing and etc.](https://github.com/IsaacChanghau/DL-NLP-Readings)
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions (2021)](https://arxiv.org/abs/2102.05379) ([Code](https://github.com/didriknielsen/argmax_flows))
 - [The Principles of Deep Learning Theory (2021)](https://arxiv.org/abs/2106.10165) ([HN](https://news.ycombinator.com/item?id=31051540))
+- [Understanding the Limitations of Variational Mutual Information Estimators (2019)](https://arxiv.org/abs/1910.06222) ([Code](https://github.com/ermongroup/smile-mi-estimator))

@@ -12,3 +12,4 @@ title: esbuild
 - [esbuild-server](https://github.com/oblador/esbuild-server) - Fast, lightweight and powerful development server for esbuild.
 - [nanobundle](https://github.com/cometkim/nanobundle) - Build tool for libraries, powered by esbuild.
 - [Tauque](https://github.com/CTNicholas/tauque) - Zero-config JS/TS bundler with serious pulling power. Uses esbuild.
+- [esbuild-minify-templates](https://github.com/maxmilton/esbuild-minify-templates) - Minify template literal strings as part of an esbuild powered build process.
