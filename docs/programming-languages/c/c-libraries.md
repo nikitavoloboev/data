@@ -13,6 +13,7 @@
 - [PicoHTTPParser](https://github.com/h2o/picohttpparser) - Tiny, primitive, fast HTTP request/response parser.
 - [picoev](https://github.com/kazuho/picoev) - Tiny, lightning fast event loop for network applications.
 - [Onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications.
+- [xHTTP](https://github.com/cozis/xHTTP) - HTTP server library in a single C file. ([HN](https://news.ycombinator.com/item?id=31047082))
 
 ## GUI
 

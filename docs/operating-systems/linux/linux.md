@@ -521,3 +521,4 @@ the execution time on all cores of a multi-core processor.
 - [bpfcc](https://github.com/mildsunrise/node_bpfcc) - BPF Compiler Collection (BCC) frontend for Node.js.
 - [musl-dynamic](https://github.com/distroless/musl-dynamic) - Distroless image for running dynamically-linked musl binaries.
 - [Linux Hardware Database](https://linux-hardware.org/) ([HN](https://news.ycombinator.com/item?id=31014306))
+- [systeroid](https://github.com/orhun/systeroid) - More powerful alternative to sysctl with a terminal user interface.

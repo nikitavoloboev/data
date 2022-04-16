@@ -157,3 +157,4 @@ title: Quantum computing
 - [Quantastica](https://quantastica.com/) - Bridge between quantum and classical worlds.
 - [Scott Aaronson: Quantum Computing | Lex Fridman Podcast (2020)](https://www.youtube.com/watch?v=uX5t8EivCaM)
 - [Quantum Simulator implemented](https://github.com/Eurus-Holmes/Quantum-Simulator)
+- [Two-qubit silicon quantum processor with operation fidelity exceeding 99% (2022)](https://www.science.org/doi/10.1126/sciadv.abn5130) ([HN](https://news.ycombinator.com/item?id=31044211))

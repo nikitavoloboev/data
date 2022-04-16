@@ -595,3 +595,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Tutela: An Open-Source Tool for Assessing User-Privacy on Ethereum and Tornado Cash (2022)](https://arxiv.org/abs/2201.06811) ([Code](https://github.com/TutelaLabs/tutela-app))
 - [Fuel Solidity Merkle Trees](https://github.com/FuelLabs/fuel-merkle-sol) - Solidity implementation of binary, sum, and sparse Merkle trees.
 - [defi-bindings](https://github.com/mattsse/defi-bindings) - Rust bindings for various defi projects.
+- [ETH Basic Typescript Starter](https://github.com/nezz0746/typescript-eth-starter)
+- [Create React Native dApp](https://github.com/cawfree/create-react-native-dapp)

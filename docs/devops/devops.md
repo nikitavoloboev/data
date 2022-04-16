@@ -166,3 +166,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [JReleaser](https://github.com/jreleaser/jreleaser) - Release projects quickly and easily. ([Web](https://jreleaser.org/))
 - [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Glances](https://github.com/nicolargo/glances) - Cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface.
+- [OpenStack Glance](https://github.com/openstack/glance) - OpenStack project that provides services and associated libraries to store, browse, share, distribute and manage bootable disk images.

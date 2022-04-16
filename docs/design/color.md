@@ -156,3 +156,4 @@
 - [color-contrast](https://github.com/hturan/color-contrast) - Visualizing relative luminance contrast within sRGB colorspace.
 - [Reasonable Colors](https://reasonable.work/colors/) - Open-source color system for building accessible, nice-looking color palettes. ([Code](https://github.com/matthewhowell/reasonable-colors))
 - [node-vibrant](https://github.com/Vibrant-Colors/node-vibrant) - Extract prominent colors from an image.
+- [color.js](https://github.com/luukdv/color.js) - Extract colors from an image.
