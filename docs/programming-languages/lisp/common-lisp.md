@@ -98,3 +98,4 @@
 - [Common Lisp Cheat Sheet](https://github.com/ashok-khanna/lisp-notes)
 - [CL-JavaScript](https://github.com/akapav/js) - JavaScript compiler for Common Lisp.
 - [Alloy](https://github.com/Shirakumo/alloy) - User interface toolkit.
+- [Using SBCL Common Lisp as a Dynamic Library (2022)](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html) ([HN](https://news.ycombinator.com/item?id=31054796))

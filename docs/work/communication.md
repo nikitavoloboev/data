@@ -182,3 +182,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Bonfire](https://bonfirenetworks.org/) - Self-host your online community and shape your experience at the most granular level: add and remove features, change behaviours and appearance, tune, swap or turn off algorithms. ([Code](https://github.com/bonfire-networks/bonfire-app))
 - [Much of our waking life is spent in a desperate struggle to persuade others that we are not what we fear ourselves to be.](https://twitter.com/Kpaxs/status/1510286880515903490)
 - [The Endgames of Bad Faith Communication (2022)](https://consilienceproject.org/endgames-of-bad-communication/)
+- [Be Less Technical (2022)](https://www.sequential.dev/posts/be-less-technical/) ([HN](https://news.ycombinator.com/item?id=31046268))

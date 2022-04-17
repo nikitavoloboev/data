@@ -187,3 +187,4 @@
 - [Lisp in Five Days](https://github.com/triumphantomato/LispInFiveDays)
 - [Bio](https://github.com/cryptocode/bio) - Lisp dialect written in Zig.
 - [Hedgehog](https://github.com/sbp/hedgehog) - Concise implementation of a lisp-like language for low-end and embedded devices.
+- [Lisp Variations](https://github.com/namin/lisp-variations) - Variations on lisp, exploring reflection.

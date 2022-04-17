@@ -152,7 +152,7 @@
 - [Space Itself Is Expanding: Gravity and General Relativity Explained (2015)](https://medium.com/@davidlevitt/space-itself-is-expanding-gravity-and-general-relativity-explained-6395aa2e4d69)
 - [The female mathematician who changed the course of physics—but couldn’t get a job (2015)](https://arstechnica.com/science/2015/05/the-female-mathematician-who-changed-the-course-of-physics-but-couldnt-get-a-job/)
 - [Theoretical Physics Reference](https://www.theoretical-physics.com/dev/index.html) - Open source theoretical physics book. ([Web](https://www.theoretical-physics.com/)) ([Code](https://github.com/certik/theoretical-physics))
-- [A New Map of the Standard Model of Particle Physics (2020)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/) ([HN](https://news.ycombinator.com/item?id=24877612))
+- [A New Map of the Standard Model of Particle Physics (2020)](https://www.quantamagazine.org/a-new-map-of-the-standard-model-of-particle-physics-20201022/) ([HN](https://news.ycombinator.com/item?id=24877612)) ([HN](https://news.ycombinator.com/item?id=31055798))
 - [What is Energy? Is Energy conserved? (2020)](https://www.youtube.com/watch?v=ZYM6HMLgIKA)
 - [Why no one has measured the speed of light (2020)](https://www.youtube.com/watch?v=pTn6Ewhb27k)
 - [How to Become a Good Theoretical Physicist](https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html)

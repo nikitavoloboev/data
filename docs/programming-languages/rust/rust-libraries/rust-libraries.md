@@ -709,7 +709,7 @@
 - [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
 - [tikv-jemallocator](https://github.com/tikv/jemallocator) - Simplified fork of jemallocator focus on server.
 - [cargo-asm](https://github.com/gnzlbg/cargo-asm) - Cargo subcommand showing the assembly or llvm-ir generated for Rust code.
-- [Crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust.
+- [Crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust. ([HN](https://news.ycombinator.com/item?id=31037971)) ([RFCs](https://github.com/crossbeam-rs/rfcs)) ([Wiki](https://github.com/crossbeam-rs/rfcs/wiki))
 - [evmap](https://github.com/jonhoo/rust-evmap) - Lock-free, eventually consistent, concurrent multi-value map.
 - [Headless Chrome](https://github.com/atroche/rust-headless-chrome) - Puppeteer for Rust.
 - [rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack.

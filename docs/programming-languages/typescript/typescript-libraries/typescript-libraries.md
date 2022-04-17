@@ -52,6 +52,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Spot](https://github.com/airtasker/spot) - Concise, developer-friendly way to describe your API contract.
 - [PostHTML Render](https://github.com/posthtml/posthtml-render) - Render PostHTMLTree to HTML/XML.
 - [Ionic](https://ionic.io/) - Enterprise App Development & Delivery Platform. ([Code](https://github.com/ionic-team/ionic-framework)) ([Twitter](https://twitter.com/Ionicframework)) ([Tweet](https://twitter.com/93alan/status/1512587338962116611))
+- [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
 
 ## Test
 
@@ -462,6 +463,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Schemawax](https://github.com/michaljanocko/schemawax) - Tiny typed data decoder—get to the DNA of your data.
 - [hmans/signal](https://github.com/hmans/signal) - Signals represent distinct signals -- or events -- that allow interested parties to add callbacks to them that will be evoked whenever the signal is emitted.
 - [fly-node-api](https://github.com/remorses/fly-node-api) - Type safe API client for the Fly.io Graphql API.
+- [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
+- [mem](https://github.com/sindresorhus/mem) - Memoize functions - An optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 
 ## Links
 

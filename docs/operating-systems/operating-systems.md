@@ -4,7 +4,7 @@ I love using [macOS](../macOS/macOS.md) as my personal OS.
 
 And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
 
-[MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) course is great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
+[MIT OS Engineering](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) (with [code](https://github.com/PKUFlyingPig/MIT6.S081-2020fall)) & [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) courses are great. Many more nice resources can be [found here](https://twitter.com/bradfitz/status/1495066999587627011).
 
 ## Interesting OSes
 
@@ -155,6 +155,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes-like OS on seL4.
 - [MOROS](https://github.com/vinc/moros) - Obscure Rust Operating System.
 - [House](https://github.com/dls/house) - Haskell Operating System. ([Video](https://www.youtube.com/watch?v=ZXGQL-qkNWY))
+- [Zen](https://github.com/AndreaOrru/zen) - Experimental operating system written in Zig.
 
 ## Notes
 

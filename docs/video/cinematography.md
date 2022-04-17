@@ -41,3 +41,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Most movies look the same. Here’s why (2022)](https://www.youtube.com/watch?v=7I11sKqkCfA)
 - [Why Dune's Editing Feels Different (2022)](https://www.youtube.com/watch?v=7_z-BwZeuQs)
 - [Why The Batman Is So Beautiful (2022)](https://www.youtube.com/watch?v=STynLl-2FqU)
+- [Why Better Call Saul is Brilliant](https://www.youtube.com/watch?v=AwvJ-77O_uk)

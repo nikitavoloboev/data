@@ -46,6 +46,10 @@
 - [wasmer-zig](https://github.com/zigwasm/wasmer-zig) - Zig bindings for the Wasmer WebAssembly runtime.
 - [zig-wasm3](https://github.com/alichay/zig-wasm3) - Zig bindings (and build system integration) for Wasm3.
 
+## macOS
+
+- [ZigKit](https://github.com/kubkon/ZigKit) - Native Zig bindings for low-level macOS frameworks.
+
 ## Math
 
 - [VecFns](https://github.com/omaraaa/VecFns) - Automatic Vector Math Functions In Zig.

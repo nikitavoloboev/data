@@ -6,7 +6,7 @@ I also drink an occasional coffee although I try avoid it as it disrupts my slee
 
 ## Interesting drinks
 
-- [Club-Mate](https://www.club-mate.de/en/)
+- [Club-Mate](https://www.club-mate.de/en/) ([How to Make Club-Mate](https://www.youtube.com/watch?v=ozVhUmkQIW4))
 - [MAKAvA delighted ice tea](https://www.makava.at/)
 - [Sweet Liberty’s Pina Colada](https://www.washingtonpost.com/recipes/sweet-libertys-pina-colada/15979/)
 - [Surely](https://www.hisurely.com/) - Non-Alcoholic Wine.

@@ -251,3 +251,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Anchor Test UI](https://github.com/0xPratik/anchor-UI) - User Interface for calling a program's instructions.
 - [Shank](https://github.com/metaplex-foundation/shank) - Extracts IDL from Solana Rust contracts.
 - [Solana Workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana.
+- [DeployDAO Verified Program Builder](https://github.com/DeployDAO/verified-programs-builder) - Runs Solana builds of GitHub repos, emitting program artifacts as results.

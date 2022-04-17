@@ -252,3 +252,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Network Quality Server](https://github.com/network-quality/server) - Share example servers that can be used by the networkQuality command line tool available in macOS 12.
 - [SwiftInMemoryLoading](https://github.com/slyd0g/SwiftInMemoryLoading) - Swift implementation of in-memory Mach-O loading on macOS.
 - [fetch-them-macos-headers](https://github.com/ziglang/fetch-them-macos-headers) - Utility for fetching minimal macOS libc headers.
+- [SwiftAuthorizationSample](https://github.com/trilemma-dev/SwiftAuthorizationSample) - Swift sample app for running privileged operations on macOS using a helper tool.

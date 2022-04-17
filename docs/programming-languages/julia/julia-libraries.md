@@ -562,9 +562,10 @@
 - [StructEquality](https://github.com/jolin-io/StructEquality.jl) - Equality for struct types as you would expect it.
 - [PkgCleanup](https://github.com/giordano/PkgCleanup.jl) - Garbage collects packages and artifacts that are no longer reachable.
 - [BatchedRoutines](https://github.com/Roger-luo/BatchedRoutines.jl) - Batched routines (BLAS, LAPACK, etc.) for multi-dimensional arrays.
-- [JunctionTrees](https://github.com/mroavi/JunctionTrees.jl) -  Metaprogramming-based implementation of the junction tree algorithm.
+- [JunctionTrees](https://github.com/mroavi/JunctionTrees.jl) - Metaprogramming-based implementation of the junction tree algorithm.
 - [LineSearches](https://github.com/JuliaNLSolvers/LineSearches.jl) - Line search methods for optimization and root-finding.
 - [SimpleChains](https://github.com/PumasAI/SimpleChains.jl) - Only supports simple chains, but it intends to be fast for small problems on the CPU.
+- [REPLTreeViews.jl](https://github.com/pfitzseb/REPLTreeViews.jl) - Provides an experimental macro to interactively show complex data structures in the REPL.
 
 ## Links
 

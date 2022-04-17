@@ -143,3 +143,4 @@ title: Vue.js
 - [v-shared-element](https://github.com/justintaddei/v-shared-element) - Declarative shared-element transitions for Vue.js.
 - [Vite Plugin Vue](https://github.com/underfin/vite-plugin-vue2)
 - [Vite Integration For Go](https://github.com/torenware/vite-go) - Simple module that lets you serve your Vue 3 project from a Go-based web server.
+- [Minimal GraphQL Client + Code Generation for Nuxt](https://github.com/Diizzayy/nuxt-graphql-client)

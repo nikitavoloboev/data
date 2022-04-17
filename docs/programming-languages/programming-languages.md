@@ -347,3 +347,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [ogma](https://github.com/kdr-aus/ogma) - Scripting language focused on processing tabular data.
 - [massCode](https://github.com/massCodeIO/massCode) - Free and open source code snippets manager for developers.
 - [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage))
+- [Course on Metaprogramming](https://github.com/namin/metaprogramming)

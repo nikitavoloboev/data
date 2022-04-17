@@ -226,3 +226,4 @@ title: Docker
 - [go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects.
 - [Docker Compose Buildkite Plugin](https://github.com/buildkite-plugins/docker-compose-buildkite-plugin) - Buildkite plugin that lets you build, run and push build steps using Docker Compose.
 - [docker-credential-magic](https://github.com/docker-credential-magic/docker-credential-magic) - Magic shim for Docker credential helpers.
+- [Dockerfile Utilities](https://github.com/rcjsuen/dockerfile-utils) - Library and command line interface for formatting and linting Dockerfiles.

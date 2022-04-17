@@ -235,3 +235,5 @@
 - [Minipeg](https://ach.srht.site/minipeg) - Parser generator for C.
 - [C72](https://github.com/vegesm/c72) - Port of the earliest C compiler to x86 (2021). ([HN](https://news.ycombinator.com/item?id=30981549))
 - [C17 compiler written from scratch in C](https://github.com/lasarus/C-Compiler)
+- [Neatcc](https://github.com/aligrudi/neatcc) - Small arm/x86(-64) C compiler.
+- [C-implemented C compiler](https://github.com/bobrippling/ucc-c-compiler)

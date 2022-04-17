@@ -210,3 +210,4 @@
 - [QBE](http://c9x.me/compile/) - Compiler Backend. ([Code](https://github.com/8l/qbe))
 - [Hand-optimizing the TCC code generator (2022)](https://briancallahan.net/blog/20220406.html)
 - [Why Compilers Don’t Autocorrect “Obvious” Parse Errors (2022)](https://chelseatroy.com/2022/03/11/why-compilers-dont-autocorrect-obvious-parse-errors/) ([HN](https://news.ycombinator.com/item?id=30965572))
+- [Squint](https://github.com/HPCguy/Squint) - Peephole optimizer for stack VM compilers.

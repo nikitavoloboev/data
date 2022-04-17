@@ -95,3 +95,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Brain doesn't slow down until your 60s – later than we thought](https://www.newscientist.com/article/2308810-your-brain-doesnt-slow-down-until-your-60s-later-than-we-thought/) ([HN](https://news.ycombinator.com/item?id=30394136))
 - [Old Age and Creativity (2022)](https://inference-review.com/article/old-age-and-creativity) ([HN](https://news.ycombinator.com/item?id=30631462))
 - [Turning back the clock: Human skin cells de-aged by 30 years in trial (2022)](https://news.sky.com/story/turning-back-the-clock-human-skin-cells-de-aged-by-30-years-in-trial-12584866) ([HN](https://news.ycombinator.com/item?id=30960470))
+- [The brain expands and shrinks over time](https://www.nature.com/articles/d41586-022-00971-1) ([HN](https://news.ycombinator.com/item?id=31048591))

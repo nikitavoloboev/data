@@ -55,3 +55,4 @@
 - [pdfboxing](https://github.com/dotemacs/pdfboxing) - Clojure PDF manipulation library & wrapper for PDFBox.
 - [PDFKit](https://github.com/foliojs/pdfkit) - JavaScript PDF generation library for Node and the browser.
 - [Express PDF Generator Service](https://github.com/isneezy/pdf-generator-service)
+- [PDF::Reader](https://github.com/yob/pdf-reader) - Implements a PDF parser conforming as much as possible to the PDF specification from Adobe.

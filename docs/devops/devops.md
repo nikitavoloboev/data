@@ -167,3 +167,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [90 Days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [Glances](https://github.com/nicolargo/glances) - Cross-platform monitoring tool which aims to present a large amount of monitoring information through a curses or Web based interface.
 - [OpenStack Glance](https://github.com/openstack/glance) - OpenStack project that provides services and associated libraries to store, browse, share, distribute and manage bootable disk images.
+- [Regula](https://github.com/fugue/regula) - Tool that evaluates infrastructure as code files for potential AWS, Azure, Google Cloud, and Kubernetes security and compliance violations prior to deployment. ([Docs](https://regula.dev/))

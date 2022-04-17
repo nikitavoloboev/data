@@ -167,6 +167,7 @@
 - [Notes on Functional Programming and related topics](https://github.com/siraben/fp-notes)
 - [Theory and Applications of Lenses and Optics](https://github.com/bgavran/Lens_Resources)
 - [schmu](https://github.com/tjammer/schmu) - Small, mostly functional programming language which compiles to native code.
+- [A Taste of Roc — Richard Feldman (2021)](https://www.youtube.com/watch?v=6qzWm_eoUXM)
 
 ## Images
 

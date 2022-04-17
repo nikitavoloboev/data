@@ -173,6 +173,7 @@
 - [pgspecial](https://github.com/dbcli/pgspecial) - API to execute meta-commands (AKA "special", or "backslash commands") on PostgreSQL.
 - [DuckDB Foreign Data Wrapper for PostgreSQL](https://github.com/alitrack/duckdb_fdw)
 - [Ibis BigQuery](https://github.com/ibis-project/ibis-bigquery) - BigQuery backend for Ibis.
+- [Arrowdantic](https://github.com/jorgecarleitao/arrowdantic) - Small Python library backed by a mature Rust implementation of Apache Arrow.
 
 ## GUI
 
@@ -825,6 +826,7 @@
 - [embedding_reader](https://github.com/rom1504/embedding-reader) - Efficiently read embedding in streaming from any filesystem.
 - [Parsing](https://github.com/MagicStack/parsing) - Implements an LR(1) parser generator, as well as the runtime support for using a generated parser, via the Lr and Glr parser drivers.
 - [Dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Module that helps you to diff and patch dictionaries.
+- [Norbert](https://github.com/sigsep/norbert) - Painless Wiener filters for audio separation.
 
 ## Links
 
