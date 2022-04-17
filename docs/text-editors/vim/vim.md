@@ -305,3 +305,4 @@ zz
 - [Git Jump to Vim Quickfix (2022)](https://evantravers.com/articles/2022/04/14/git-jump-to-vim-quickfix/)
 - [Neovim 0.7 (2022)](https://news.ycombinator.com/item?id=31039569)
 - [What's New in Neovim 0.7 (2022)](https://gpanders.com/blog/whats-new-in-neovim-0-7/)
+- [Learnings after 500 commits to my vimrc (2022)](https://iamsang.com/en/2022/04/13/vimrc/)

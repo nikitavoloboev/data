@@ -302,3 +302,4 @@ title: WebAssembly
 - [Marine](https://github.com/fluencelabs/marine) - General purpose WASM runtime that could be used in different scenarios, especially in programs based on the entity component system (ECS) pattern or plugin architecture.
 - [SMK (Simple multimedia kit)](https://github.com/ArthurSonzogni/smk) - Simple multimedia kit - C++ WebAssembly.
 - [LZ4 WASM](https://github.com/gorhill/lz4-wasm) - LZ4 block format encoder/decoder: a WebAssembly implementation.
+- [wasmdec](https://github.com/wwwg/wasmdec) - WebAssembly to C decompiler.

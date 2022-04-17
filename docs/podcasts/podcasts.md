@@ -100,6 +100,7 @@ It includes:
 - [Tools & Craft – Notion](https://www.notion.so/blog/topic/podcast)
 - [Core Intuition](https://coreint.org/) - Podcast about indie software development for the Mac, iOS and other Apple technologies. ([Twitter](https://twitter.com/coreint))
 - [The Lunar Society](https://anchor.fm/dwarkeshpatel) - Host Dwarkesh Patel interviews economists, scientists, and philosophers about their big ideas.
+- [SmartLess](https://www.smartless.com/) - Comedy podcast hosted by Sean Hayes, Jason Bateman & Will Arnett. ([Twitter](https://twitter.com/SmartLess?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 

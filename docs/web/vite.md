@@ -57,3 +57,4 @@ title: Vite
 - [Vite Plugin Auto import](https://github.com/yuanchuan/vite-plugin-autoimport) - Automatically detect and import components or modules.
 - [Vite Config JSON](https://github.com/brillout/vite-config-json) - Automatically import dist/server/ assets.
 - [Generouted](https://github.com/oedotme/generouted) - Generated file-based routes for React Location and Vite.
+- [Vite SSG Sitemap](https://github.com/jbaubree/vite-ssg-sitemap) - Sitemap generator working with vite-ssg.

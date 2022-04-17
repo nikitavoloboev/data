@@ -82,7 +82,7 @@
 - [Trandoshan](https://github.com/creekorful/trandoshan) - Fast, highly configurable, cloud native dark web crawler.
 - [ralger](https://github.com/feddelegrand7/ralger) - Makes it easy to scrape a website with R.
 - [Scraping HN content with declarative programming](https://pathom3.wsscode.com/docs/tutorials/hacker-news-scraper/)
-- [snscrape](https://github.com/JustAnotherArchivist/snscrape) - Social networking service scraper in Python.
+- [snscrape](https://github.com/JustAnotherArchivist/snscrape) - Social networking service scraper in Python. ([Fork](https://github.com/bellingcat/snscrape))
 - [qwarc](https://github.com/JustAnotherArchivist/qwarc) - Framework for rapidly archiving a large number of URLs with little overhead.
 - [select.rs](https://github.com/utkarshkukreti/select.rs) - Rust library to extract useful data from HTML documents, suitable for web scraping.
 - [Scrapera](https://github.com/DarshanDeshpande/Scrapera) - Provides access to a variety of scraper scripts for most commonly used machine learning and data science domains.

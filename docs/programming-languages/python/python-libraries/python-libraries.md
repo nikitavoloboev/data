@@ -945,3 +945,4 @@
 - [Python f-string guide](https://fstring.help/)
 - [pylint_runner](https://github.com/MasterOdin/pylint_runner) - Python module that recursively runs pylint on python files in current directory and any sub-directories.
 - [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html) ([HN](https://news.ycombinator.com/item?id=31038996))
+- [conda-tree](https://github.com/rvalieris/conda-tree) - Conda dependency tree helper.

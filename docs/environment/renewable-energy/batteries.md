@@ -30,3 +30,4 @@
 - [1k-cycle lithium-sulfur battery could quintuple electric vehicle ranges (2022)](https://news.umich.edu/1000-cycle-lithium-sulfur-battery-could-quintuple-electric-vehicle-ranges/) ([HN](https://news.ycombinator.com/item?id=30146843))
 - [On‐Chip Batteries for Dust‐Sized Computers (2022)](https://onlinelibrary.wiley.com/doi/10.1002/aenm.202103641)
 - [Not dodgy at all and long overdue – user replaceable batteries (2022)](https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/) ([HN](https://news.ycombinator.com/item?id=30660953))
+- [Stabilization of gamma sulfur enables 4000 cycle Li-S batteries (2022)](https://www.nature.com/articles/s42004-022-00626-2.pdf) ([HN](https://news.ycombinator.com/item?id=31060183))
