@@ -36,3 +36,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [I'm running self-hosted conferences, full-time. (2022)](https://media.handmade-seattle.com/self-hosted-conference/)
 - [Meetup Toolkit](https://github.com/hybridcattt/meetup-toolkit) - Collection of resources to make organizing meetups easier.
 - [Onin](https://onin.co/) - Plan events without leaving the chat. ([Twitter](https://twitter.com/onin))
+- [entrofy](https://github.com/dhuppenkothen/entrofy) - Participant selection for workshops and conferences made easy. Selection of participants for meetings as a discrete optimization problem.

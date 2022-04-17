@@ -16,7 +16,7 @@ title: Dependent types
 - [Juvix](https://github.com/cryptiumlabs/juvix) - More elegant language for a more civilized age. ([Reddit](https://www.reddit.com/r/haskell/comments/czierr/juvix_dependentlinearlytyped_core_language_with/))
 - [sixty](https://github.com/ollef/sixty) - Dependent type checker using normalisation by evaluation.
 - [Formality](https://github.com/moonad/Formality) - Efficient dependently-typed systems programming language and proof assistant. ([HN](https://news.ycombinator.com/item?id=18230148))
-- [Certified Programming with Dependent types](http://adam.chlipala.net/cpdt/)
+- [Certified Programming with Dependent types](http://adam.chlipala.net/cpdt/) ([PDF](http://adam.chlipala.net/cpdt/cpdt.pdf)) ([Code](https://github.com/hargoniX/cpdt-lean))
 - [voile-rs](https://github.com/owo-lang/voile-rs) - Dependently-typed programming language with a non-dependent version of row-polymorphism, meta variable resolution and implicit parameter syntax.
 - [Approximate Normalization for Gradual Dependent Types (2019)](https://www.youtube.com/watch?v=e4FeQCabuOQ)
 - [A Dependently Typed Language (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/dependently-typed-language/)
