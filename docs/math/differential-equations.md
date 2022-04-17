@@ -38,3 +38,4 @@ title: Differential equations
 - [FEniCSx](https://fenicsproject.org/) - Computing platform for solving partial differential equations (PDEs).
 - [DOLFINx](https://github.com/FEniCS/dolfinx) - Computational environment of FEniCSx and implements the FEniCS Problem Solving Environment in Python and C++.
 - [PyTorch Implementation of Differentiable SDE Solvers](https://github.com/google-research/torchsde)
+- [Probabilistic Numerics for Differential Equations | Nathanael Bosch (2021)](https://www.youtube.com/watch?v=EMFl6ytP3iQ)

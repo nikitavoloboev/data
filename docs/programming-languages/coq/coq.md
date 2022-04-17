@@ -140,3 +140,4 @@ title: Coq
 - [Making Weak Memory Models Fair using Coq](https://github.com/weakmemory/fairness)
 - [Relation Algebra for Coq](https://github.com/damien-pous/relation-algebra)
 - [Mathematics of Rigid Body Transformationss using Coq and MathComp](https://github.com/affeldt-aist/coq-robot)
+- [Country-Fried Coq: Overly- Formalized Nonstandard Arithmetic (2022)](http://sigtbd.csail.mit.edu/pubs/2022/sigtbd22-paper7.pdf)

@@ -367,3 +367,4 @@ title: Node.js
 - [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/) ([HN](https://news.ycombinator.com/item?id=30988034)) ([Lobsters](https://lobste.rs/s/ngzszd/nodejs_packages_don_t_deserve_your_trust))
 - [Web standard IO APIs implemented for NodeJS](https://github.com/web-std/io)
 - [c8](https://github.com/bcoe/c8) - Output coverage reports using Node.js' built in coverage.
+- [Node.js 18 Introduces Prefix-Only Core Modules (2022)](https://fusebit.io/blog/node-18-prefix-only-modules/)
