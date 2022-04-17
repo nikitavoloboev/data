@@ -215,3 +215,4 @@ All active variables can be seen by running `env`.
 - [Terminal Colors](https://github.com/termstandard/colors) - Color standards for terminal emulators.
 - [asciinema virtual terminal](https://github.com/asciinema/vt-rs)
 - [asciinema-rs](https://github.com/LegNeato/asciinema-rs) - Asciinema client written in Rust.
+- [Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)

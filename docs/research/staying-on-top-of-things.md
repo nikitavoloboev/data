@@ -260,3 +260,4 @@ And these Discord servers:
 - [Ask HN: How do you keep up with replies to comment threads on HN? (2022)](https://news.ycombinator.com/item?id=30977112)
 - [HN Replies](https://hnreplies.com/) - Email Notifications for Hacker News Comment Replies. ([HN](https://news.ycombinator.com/item?id=30979295))
 - [HN Go lib](https://github.com/matthewmueller/hackernews) - Simple Hacker News client for Go.
+- [Subreply News](https://subreply.com/news) - English-only, public forum that has nothing in common with ancient and untrustworthy social networks.

@@ -51,6 +51,26 @@ const config = {
         },
         items: [
           {
+            href: "https://nikitavoloboev.xyz",
+            position: "left",
+            label: "🏡",
+          },
+          {
+            href: "https://twitter.com/nikitavoloboev",
+            position: "left",
+            label: "🐦",
+          },
+          {
+            href: "https://github.com/nikitavoloboev",
+            position: "left",
+            label: "🐙",
+          },
+          {
+            href: "https://www.instagram.com/nikitavoloboev/",
+            position: "left",
+            label: "📷",
+          },
+          {
             href: "https://github.com/nikitavoloboev/knowledge",
             position: "right",
             className: "header-github-link",

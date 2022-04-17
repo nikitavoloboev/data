@@ -144,3 +144,4 @@ title: Vue.js
 - [Vite Plugin Vue](https://github.com/underfin/vite-plugin-vue2)
 - [Vite Integration For Go](https://github.com/torenware/vite-go) - Simple module that lets you serve your Vue 3 project from a Go-based web server.
 - [Minimal GraphQL Client + Code Generation for Nuxt](https://github.com/Diizzayy/nuxt-graphql-client)
+- [Vue Stripe Menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe.
