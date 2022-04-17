@@ -15,3 +15,4 @@ title: ClickHouse
 - [Что нужно знать об архитектуре ClickHouse / Алексей Зателепин (Яндекс) (2018)](https://www.youtube.com/watch?v=PLMSA_gDdyM)
 - [A Fast Intro to Fast Query with ClickHouse, by Robert Hodges (2019)](https://www.youtube.com/watch?v=_vSw3WO2mMY)
 - [FluxPipe](https://github.com/lmangani/fluxpipe) - Experimental indepenent Flux API for ClickHouse and other embedded datasources.
+- [Tool to collect performance reports in JSON format from TeamCity, insert into ClickHouse and visualize](https://github.com/JetBrains/ij-perf-report-aggregator)
