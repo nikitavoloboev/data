@@ -270,3 +270,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Workbench](https://github.com/fremantle-industries/workbench) - Manage your trading operation across a distributed cluster.
 - [History](https://github.com/fremantle-industries/history) - Download and warehouse historical trading data.
 - [go-trader](https://github.com/robaho/go-trader) - Financial exchange written in Go, designed for algorithmic trading tests.
+- [Bazaar](https://github.com/fabianboesiger/bazaar) - Rust crate for algorithmic futures trading.

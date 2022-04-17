@@ -315,6 +315,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [fastudp](https://github.com/shaoyuan1943/fastudp) - Fast implementation of UDP.
 - [go-redoc](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
 - [pub0sub](https://github.com/itzmeanjan/pub0sub) - Fast, Lightweight Pub/Sub over TCP, QUIC - powered by Async I/O.
+- [go-libp2p-webtransport](https://github.com/marten-seemann/go-libp2p-webtransport)
 
 ## GraphQL
 

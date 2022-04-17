@@ -52,22 +52,22 @@ const config = {
         items: [
           {
             href: "https://nikitavoloboev.xyz",
-            position: "left",
+            position: "right",
             label: "🏡",
           },
           {
             href: "https://twitter.com/nikitavoloboev",
-            position: "left",
+            position: "right",
             label: "🐦",
           },
           {
             href: "https://github.com/nikitavoloboev",
-            position: "left",
+            position: "right",
             label: "🐙",
           },
           {
             href: "https://www.instagram.com/nikitavoloboev/",
-            position: "left",
+            position: "right",
             label: "📷",
           },
           {

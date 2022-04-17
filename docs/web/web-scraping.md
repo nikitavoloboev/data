@@ -1,6 +1,6 @@
 # Web scraping
 
-[shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) is [neat](https://til.simonwillison.net/shot-scraper/readability).
+[shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) is [neat](https://til.simonwillison.net/shot-scraper/readability). [Colly](https://github.com/gocolly/colly) too.
 
 ## Links
 
