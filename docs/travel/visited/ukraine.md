@@ -140,3 +140,4 @@ I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the 
 - [Mariupol](https://twitter.com/MaximEristavi/status/1513576913431941135)
 - [Мама опознает тело сына, сброшенное в колодец в Киевской области](https://twitter.com/CurrentTimeTv/status/1513559140551041027)
 - [Bucha’s Month of Terror (2022)](https://twitter.com/bariweiss/status/1513586017441181696)
+- [Summary of what happened to Ukraine between 2014-2022](https://twitter.com/EvgenyFeldman/status/1515519704886124545)

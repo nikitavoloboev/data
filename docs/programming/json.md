@@ -4,6 +4,8 @@ title: JSON
 
 # [JSON](https://www.json.org)
 
+[Quicktype](https://quicktype.io/) is nice tool for building models from JSON.
+
 ## Notes
 
 - [I wish JSON.parse had an option to allow comments and trailing commas. There's a whole world of config files in companies that the built in platform can't handle. Installing jsonc or json5 is one of the first things I do everywhere.](https://twitter.com/ElliottZ/status/1442524500365508616)

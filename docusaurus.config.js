@@ -51,14 +51,14 @@ const config = {
         },
         items: [
           {
-            href: "https://twitter.com/nikitavoloboev",
-            position: "right",
-            label: "🐦",
-          },
-          {
             href: "https://www.instagram.com/nikitavoloboev/",
             position: "right",
             label: "📷",
+          },
+          {
+            href: "https://twitter.com/nikitavoloboev",
+            position: "right",
+            label: "🐦",
           },
           {
             href: "https://github.com/nikitavoloboev",
