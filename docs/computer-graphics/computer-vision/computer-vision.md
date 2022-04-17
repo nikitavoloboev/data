@@ -719,3 +719,4 @@
 - [ZeroCap: Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic (2022)](https://arxiv.org/abs/2111.14447) ([Code](https://github.com/YoadTew/zero-shot-image-to-text))
 - [EasyMocap](https://github.com/zju3dv/EasyMocap) - Open-source toolbox for markerless human motion capture from RGB videos.
 - [QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation (2022)](https://arxiv.org/abs/2203.08483) ([Code](https://github.com/sapphire497/query-selected-attention))
+- [PolarMask: Single Shot Instance Segmentation with Polar Representation (2019)](https://arxiv.org/abs/1909.13226) ([Code](https://github.com/xieenze/PolarMask))

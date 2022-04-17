@@ -18,6 +18,7 @@
 - [WebDev with Stefan](https://www.stefanjudis.com/newsletter/)
 - [Console](https://console.substack.com/) - Free weekly round-up of open-source projects.
 - [Morning Brew](https://www.morningbrew.com/daily) - Daily email newsletter covering the latest news from Wall St. to Silicon Valley.
+- [Oversharing | Ali Griswold](https://oversharing.substack.com/)
 
 ## Notes
 

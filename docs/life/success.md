@@ -145,3 +145,4 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [Do things, tell people (2012)](http://carl.flax.ie/dothingstellpeople.html) ([HN](https://news.ycombinator.com/item?id=30193714))
 - [Unlearning perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/) ([HN](https://news.ycombinator.com/item?id=30223559))
 - [Ask HN: How to Combat Imposter Syndrome?](https://news.ycombinator.com/item?id=30924209)
+- [That Mountain You’ve Been Climbing Doesn’t Exist (2022)](https://www.schlaf.co/mountain/) ([Tweet](https://twitter.com/schlaf/status/1514940437123022850))

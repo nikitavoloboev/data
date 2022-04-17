@@ -311,3 +311,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Neovim package specification](https://github.com/nvim-lua/nvim-package-specification)
 - [Vim Color Schemes](https://vimcolorschemes.com/) ([HN](https://news.ycombinator.com/item?id=30885471))
 - [Neogen](https://github.com/danymat/neogen) - Better annotation generator. Supports multiple languages and annotation conventions.
+- [typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - Lua plugin, written in TypeScript, to write TypeScript (Lua optional).

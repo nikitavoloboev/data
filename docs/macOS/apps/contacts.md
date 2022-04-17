@@ -12,6 +12,10 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 I add `[` to contacts that are top/favorite. I also add `del` as part of the name contacts that are temporary. I then cleanup these contacts when they are no longer needed. i.e. You need to add person to Contacts just to send someone a WhatsApp message. Or agency contact for a place I rent.
 
+## Notes
+
+- [It's a common mistake for founders to hire or give stock to someone for access to their Rolodex of powerful contacts. The value of such lists is always exaggerated. And if you build something great, the powerful will seek you out anyway; that's how they got to be powerful. If you build something great, a network of contacts will naturally grow out of it. And if you don't, no network can save you anyway.](https://twitter.com/paulg/status/1515636109765656584)
+
 ## Links
 
 - [Monica](https://www.monicahq.com/) - Personal CRM. Remember everything about your friends, family and business relationships. ([Code](https://github.com/monicahq/monica))

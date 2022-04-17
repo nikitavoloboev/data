@@ -60,3 +60,4 @@ title: Combine Framework
 - [Networking with Combine and SwiftUI](https://peterfriese.dev/posts/swiftui-combine-networking-gettingstarted/) ([Code](https://github.com/peterfriese/SwiftUI-Combine-Applied))
 - [Recombine](https://github.com/ReSwift/Recombine) - Deeply opinionated Redux-like implementation of the unidirectional data flow architecture in Swift.
 - [Getting started with Apple Combine](https://github.com/tailec/CombineExamples)
+- [Merge](https://github.com/vmanot/Merge) - Robust task management and concurrency utilities built atop Combine.

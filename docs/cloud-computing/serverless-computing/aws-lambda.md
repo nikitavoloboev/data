@@ -123,3 +123,5 @@ title: AWS Lambda
 - [AWS Lambda Function URLs: Built-In HTTPS Endpoints for Lambda (2022)](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/) ([HN](https://news.ycombinator.com/item?id=30937433))
 - [aws-lambda-events](https://github.com/LegNeato/aws-lambda-events) - Rust event types for AWS Lambda.
 - [Cookiecutter SAM template for Lambda functions in Rust](https://github.com/aws-samples/cookiecutter-aws-sam-rust)
+- [Serverless Webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless Framework plugin to build your lambda functions with Webpack.
+- [serverless-layers](https://github.com/agutoli/serverless-layers) - Serverless.js plugin that implements AWS Lambda Layers which reduces drastically lambda size, warm-up and deployment time.

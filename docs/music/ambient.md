@@ -36,3 +36,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [White Noise Improves Learning](https://pubmed.ncbi.nlm.nih.gov/24345178/) ([HN](https://news.ycombinator.com/item?id=30600616))
 - [Lofimusic.app](https://lofimusic.app/) - Installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios. ([Code](https://github.com/maxence-charriere/lofimusic))
 - [Noisedash](https://github.com/KevinThomas0/noisedash) - Self-hostable web tool for generating ambient noises.
+- [Nightwave Plaza](https://plaza.one/) - Online Vaporwave Radio.

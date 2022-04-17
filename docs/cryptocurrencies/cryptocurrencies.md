@@ -41,6 +41,7 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [No one company or person should have unilateral control over our social and financial infrastructure on the internet. Crypto provides a viable technical path to actually achieve that in practice.](https://twitter.com/js_horne/status/1498731784393089033)
 - [Crypto"currencies" aren't currencies for very obvious reasons. They economics are deflationary, the transaction throughput doesn't scale, are too volatile to conduct commerce in and there's no mechanism for the volatility to ever subside.](https://twitter.com/smdiehl/status/1502938255326601218)
 - [The U.S. is not “behind China on crypto.” CBDCs are not crypto – they’re a government surveillance tool. Crypto creates freedom, it doesn’t destroy it.](https://twitter.com/RepTomEmmer/status/1509247510132502529)
+- [Always use a cold wallet to store your valuables. Never give out verification codes to anyone. Protect your information, don't give out your phone number or your personal email. Caller information is easy to spoof. Companies like Apple will never call you.](https://twitter.com/Serpent/status/1515545819197616131)
 
 ## Links
 

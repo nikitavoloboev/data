@@ -17,3 +17,4 @@
 - [Ask HN: Where can I live off 1k USD per month? (2021)](https://news.ycombinator.com/item?id=28309520)
 - [Nomad Capitalist - YouTube](https://www.youtube.com/c/nomadcapitalist/videos)
 - [Nomad Capitalist Book](https://nomadcapitalist.com/book/)
+- [Robert Kiyosaki’s Thoughts on Entrepreneurship (2022)](https://www.youtube.com/watch?v=u4UtdCuvCz4)

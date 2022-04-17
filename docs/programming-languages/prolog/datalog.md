@@ -27,7 +27,7 @@ title: Datalog
 - [Soufflé-Prov](https://github.com/yannramusat/souffle-prov) - Adds semiring-based provenance capabilities to the Soufflé language project.
 - [Differential Datalog Implementation in JS](https://github.com/datalogui/datalog) - Implementation of Datalog with a focus on managing UIs & UI state.
 - [Awesome Datalog](https://github.com/samuell/awesome-datalog)
-- [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust.
+- [Scallop](https://github.com/scallop-lang/scallop-v1) - Scalable differentiable probabilistic Datalog engine, with Rust. ([Web](https://scallop-lang.github.io/)) ([Tweet](https://twitter.com/AI4Code/status/1515470577422766081))
 - [Datalog Racket package](https://github.com/racket/datalog)
 - [datalog-ts](https://github.com/vilterp/datalog-ts) - Datalog interpreter and UI in TypeScript. ([Web](https://datalog-typechecker.netlify.app/))
 - [Is Datalog a good language for authorization? (2022)](https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/) ([Lobsters](https://lobste.rs/s/2jw5e2/is_datalog_good_language_for))

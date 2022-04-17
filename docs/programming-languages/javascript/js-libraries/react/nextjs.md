@@ -352,3 +352,4 @@ title: Next.js
 - [Storybook Addon Next](https://github.com/RyanClementsHax/storybook-addon-next) - No config Storybook addon that makes Next.js features just work in Storybook.
 - [Vulcan Next](https://github.com/VulcanJS/vulcan-next) - Build GraphQL-based applications with Next.js. ([Docs](https://vulcan-next.vercel.app/))
 - [Rust and WebAssembly Serverless Functions in Vercel](https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/) ([Code](https://github.com/second-state/vercel-wasm-runtime))
+- [Generate Open Graph images for your static Next.js site (2020)](https://phiilu.com/generate-open-graph-images-for-your-static-next-js-site) ([Tweet](https://twitter.com/mattgperry/status/1515651942940303361))

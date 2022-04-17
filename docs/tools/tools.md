@@ -208,6 +208,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [UI Bakery](https://uibakery.io/) - Build internal tools faster than ever.
 - [Convoy](https://getconvoy.io/) - Fast & secure webhooks service. It receives event data from a HTTP API and sends these event data to the configured endpoints. ([Code](https://github.com/frain-dev/convoy))
 - [Help Scout](https://www.helpscout.com/) - Simple Customer Service Software and Education.
+- [IT Tools](https://it-tools.tech/) - Handy tools for developers. ([Code](https://github.com/CorentinTh/it-tools))
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.

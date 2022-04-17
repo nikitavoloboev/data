@@ -8,7 +8,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 
 ## State
 
-- [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React.
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))
 - [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 - [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
 - [idyl](https://github.com/pacocoursey/idyl) - Merge ideas from zustand + swr + valtio into a simple shared state.

@@ -150,3 +150,4 @@
 - [One App – Two Worlds: This Is TikTok in Russia and Ukraine](https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522) ([HN](https://news.ycombinator.com/item?id=30917474))
 - [instauto](https://github.com/mifi/instauto) - Instagram bot / automation library written in JavaScript for Node.js.
 - [Thoughts on free speech with respect to social networks (Twitter/Reddit)](https://twitter.com/yishan/status/1514938507407421440) ([HN](https://news.ycombinator.com/item?id=31044693))
+- [Slow Social](https://slowsocial.us/) - Social network built for friends, not influencers. ([HN](https://news.ycombinator.com/item?id=31054029))

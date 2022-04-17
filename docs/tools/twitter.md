@@ -178,3 +178,4 @@ title: Twitter
 - [Twitter API open evolution](https://github.com/twitterdev/open-evolution) - Open evolution proposals for the Twitter API.
 - [Twitter Scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [Twitter Graph](https://github.com/eleurent/twitter-graph) - Fetch and visualize the graph of your Twitter friends and followers.
+- [Titter](https://github.com/dabit3/titter) - Decentralized Twitter prototype built with GraphQL, Next.js, Ceramic, Arweave, and Bundlr.

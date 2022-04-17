@@ -250,6 +250,7 @@
 - [WebViewKit](https://github.com/danielsaidi/WebViewKit) - Adds a WebView to SwiftUI.
 - [StickyTabBarViewController](https://github.com/emrepun/StickyTabBarViewController) - Sticky and Collapsible View on top of tab bar.
 - [NotSwiftUI](https://github.com/Jonas1197/notSwiftUI) - Designed to help you create UI components quickly and efficiently with code.
+- [Switches Animations](https://github.com/jwd-ali/Switch-Animations) - Animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX.
 
 ## macOS
 

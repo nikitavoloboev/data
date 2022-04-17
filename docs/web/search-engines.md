@@ -224,3 +224,4 @@
 - [ndx](https://github.com/ndx-search/ndx) - Full text indexing and searching library.
 - [The Next Google (2022)](https://dkb.io/post/the-next-google) ([HN](https://news.ycombinator.com/item?id=30921628))
 - [Groonga](https://groonga.org/) - Open-source full text search engine and column store. ([Code](https://github.com/groonga/groonga))
+- [Three areas where Google Search lags behind competitors: code, cooking, travel (2022)](https://www.surgehq.ai//blog/google-search-is-falling-behind) ([HN](https://news.ycombinator.com/item?id=31020229))

@@ -69,3 +69,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Best books to start reading philosophy? (2022)](https://www.reddit.com/r/suggestmeabook/comments/suawcd/best_books_to_start_reading_philosophy/)
 - [Technical Debt of the West](https://meltingasphalt.com/technical-debt-of-the-west/) ([HN](https://news.ycombinator.com/item?id=30403354))
 - [New Philosophy Books - Five Books Expert Recommendations](https://fivebooks.com/category/philosophy/new-philosophy-books/)
+- [Rosa Luxemburg](https://plato.stanford.edu/entries/luxemburg/)

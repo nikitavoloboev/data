@@ -213,3 +213,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [InviteMember Blog](https://blog.invitemember.com/) - Telegram Subscription Business Resource.
 - [Telegram Limits](https://limits.tginfo.me/en) - Describes Telegram limitations. ([Code](https://github.com/tginfo/Telegram-Limits))
 - [Telegram Local](https://github.com/Olegt0rr/telegram-local) - Example of Telegram local API and aiogram 3.x.
+- [Telegram bots - From idea to production by Ferran Jovell (2022)](https://www.youtube.com/watch?v=JwivVaKa6ak) ([Code](http://jovell.dev/telegram-heroku-template))
