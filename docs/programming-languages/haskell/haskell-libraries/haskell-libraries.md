@@ -294,6 +294,7 @@
 - [schematic](https://github.com/typeable/schematic) - Type-safe JSON spec and validation tool.
 - [configurant](https://github.com/patrickt/configurant) - Haskell library for loading configuation data from environment variables.
 - [hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications.
+- [type-eq](https://github.com/glaebhoerl/type-eq) - Type equality evidence you can carry around.
 
 ## Notes
 

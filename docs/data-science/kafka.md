@@ -109,3 +109,4 @@ title: Apache Kafka
 - [upstash-kafka](https://github.com/upstash/upstash-kafka) - HTTP based Kafka Client for Serverless and Edge Functions.
 - [KafkaJS](https://github.com/tulios/kafkajs) - Modern Apache Kafka client for node.js.
 - [Kafka for Kubernetes](https://github.com/Yolean/kubernetes-kafka) - Kafka cluster as Kubernetes StatefulSet, plain manifests and config.
+- [Greyhound](https://github.com/wix/greyhound) - Rich Kafka client library in Scala.

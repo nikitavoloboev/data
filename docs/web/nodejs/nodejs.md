@@ -366,3 +366,4 @@ title: Node.js
 - [node-http-proxy](https://github.com/http-party/node-http-proxy) - HTTP programmable proxying library that supports websockets. Suitable for implementing components such as reverse proxies and load balancers.
 - [NodeJS packages don't deserve your trust](https://josephg.com/blog/node-sandbox/) ([HN](https://news.ycombinator.com/item?id=30988034)) ([Lobsters](https://lobste.rs/s/ngzszd/nodejs_packages_don_t_deserve_your_trust))
 - [Web standard IO APIs implemented for NodeJS](https://github.com/web-std/io)
+- [c8](https://github.com/bcoe/c8) - Output coverage reports using Node.js' built in coverage.

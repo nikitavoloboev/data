@@ -480,6 +480,7 @@
 - [SFReadableSymbols](https://github.com/YusukeHosonuma/SFReadableSymbols) - High readable code with SFSymbols.
 - [Color Kit](https://github.com/kieranb662/SwiftUI-Color-Kit) - SwiftUI Color Pickers, Gradient Pickers And All The Utilities Needed To Make Your Own.
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
+- [TextView](https://github.com/SwiftUI-Plus/TextView) - SwiftUI multi-line TextView implementation including support for auto-sizing. (iOS).
 
 ## Test
 

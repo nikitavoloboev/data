@@ -259,3 +259,4 @@ And these Discord servers:
 - [Ask HN: What do you want from the news? (2022)](https://news.ycombinator.com/item?id=30785786)
 - [Ask HN: How do you keep up with replies to comment threads on HN? (2022)](https://news.ycombinator.com/item?id=30977112)
 - [HN Replies](https://hnreplies.com/) - Email Notifications for Hacker News Comment Replies. ([HN](https://news.ycombinator.com/item?id=30979295))
+- [HN Go lib](https://github.com/matthewmueller/hackernews) - Simple Hacker News client for Go.

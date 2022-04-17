@@ -31,3 +31,4 @@ title: Unreal Engine
 - [Professional Game Development in C++ and Unreal Engine Course](https://courses.tomlooman.com/p/unrealengine-cpp?coupon_code=COMMUNITY15)
 - [Unreal Engine 5.0 Release Notes](https://docs.unrealengine.com/5.0/en-US/unreal-engine-5-0-release-notes/)
 - [Unreal Engine Git Plugin](https://github.com/ProjectBorealis/UEGitPlugin)
+- [Community Mass Sample](https://github.com/Megafunk/MassSample) - Understanding of Unreal Engine 5's experimental Entity Component System (ECS) plugin with a small sample project.

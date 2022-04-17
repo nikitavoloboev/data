@@ -192,3 +192,4 @@
 - [Notes on realizability](https://github.com/andrejbauer/notes-on-realizability)
 - [Computer Science Open Data (2022)](https://jeffhuang.com/computer-science-open-data/)
 - [The Hardness of the Lemmings Game](http://dimacs.rutgers.edu/~graham/pubs/papers/cormodelemmings.pdf)
+- [Algorithms and Data Structures – Transition systems](https://cs.au.dk/~gerth/dADS1-12/daimi-fn64.pdf)

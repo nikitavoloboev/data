@@ -146,3 +146,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Cloudflare metrics worker](https://github.com/vanadium23/cf-metrics) - Send your page views from Cloudflare worker to InfluxDB.
 - [Cloudflare KV Action](https://github.com/zentered/cloudflare-kv-action) - Put and get values from Cloudflare KV.
 - [GraphQL Yoga for Cloudflare Workers (Wrangler template)](https://github.com/the-guild-org/yoga-cloudflare-workers-template)
+- [Itty Durable](https://github.com/kwhitley/itty-durable) - Cloudflare Durable Objects + Itty Router = shorter code.

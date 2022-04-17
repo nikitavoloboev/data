@@ -1943,3 +1943,4 @@
 - [rustdoc: Recent UI and UX changes in generated documentation (2022)](https://blog.guillaume-gomez.fr/articles/2022-04-08+rustdoc%3A+Recent+UI+and+UX+changes+in+generated+documentation) ([Reddit](https://www.reddit.com/r/rust/comments/tz61oq/walk_around_latest_rustdoc_ui_changes_in_the_last/))
 - [Check Rust docs with GitHub actions (2022)](http://www.gadom.ski/2022/02/24/check-docs-rust.html)
 - [ffi-gen](https://github.com/cloudpeers/ffi-gen) - Call rust from any language.
+- [Is Rust Web Yet?](https://www.arewewebyet.org/) ([Code](https://github.com/rust-lang/arewewebyet)) ([HN](https://news.ycombinator.com/item?id=24940650)) ([HN](https://news.ycombinator.com/item?id=31056433))

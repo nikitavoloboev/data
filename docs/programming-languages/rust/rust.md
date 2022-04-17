@@ -72,7 +72,6 @@ title: Rust
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code. ([Solutions](https://github.com/alexxroche/rustlings-idiomatic-solutions))
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html) ([Lobsters](https://lobste.rs/s/td0qze/learning_rust_with_entirely_too_many)) ([HN](https://news.ycombinator.com/item?id=30326130))
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
-- [Rust. Are we web yet?](http://www.arewewebyet.org/) ([Code](https://github.com/rust-lang/arewewebyet)) ([HN](https://news.ycombinator.com/item?id=24940650))
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
 - [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq)
 - [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
