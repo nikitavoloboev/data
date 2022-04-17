@@ -147,3 +147,4 @@
 - [Ask HN: Has remote work made you move to a new location or consider it? (2021)](https://news.ycombinator.com/item?id=29724108)
 - [Company retreat/offsite location startups](https://twitter.com/LauraBehrensWu/status/1505704558789464066)
 - [Ask HN: Good books on managing a hybrid/remote team? (2022)](https://news.ycombinator.com/item?id=30956245)
+- [Ask HN: Has remote work made you procrastinate more? (2022)](https://news.ycombinator.com/item?id=31058930)

@@ -113,6 +113,7 @@ title: Obsidian
 - [Ledger](https://github.com/tgrosinger/ledger-obsidian) - Personal finance tracking and planning, from the comfort of Obsidian.
 - [Quick Explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar.
 - [Obsidian Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
+- [Scroll Offset](https://github.com/lijyze/scroll-offset) - Plugin can keep a defined distance before and after cursor, just like scrolloff in vim of cursor surrounding lines in VS-Code.
 
 ## Themes
 

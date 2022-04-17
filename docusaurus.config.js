@@ -49,6 +49,14 @@ const config = {
           alt: "My Site Logo",
           src: "img/logo.svg",
         },
+        items: [
+          {
+            href: "https://github.com/nikitavoloboev/knowledge",
+            position: "right",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
+          },
+        ],
       },
       prism: {
         theme: lightCodeTheme,

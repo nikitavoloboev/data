@@ -518,3 +518,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Credential](https://github.com/bachp/git-credential-rs) - Rust library that provides types that help to implement git-credential helpers.
 - [Radicle](https://app.radicle.network/) - Enables developers to securely collaborate on software over a peer-to-peer network built on Git. ([Web Code](https://github.com/radicle-dev/radicle-interface))
 - [GitDB](https://github.com/gitpython-developers/gitdb) - Allows you to access bare git repositories for reading and writing.
+- [gitsu](https://github.com/matsuyoshi30/gitsu) - Switch git user easily.

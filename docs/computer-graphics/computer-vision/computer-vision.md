@@ -715,3 +715,4 @@
 - [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions (2021)](https://arxiv.org/abs/2112.01530) ([Code](https://github.com/lukasHoel/stylemesh))
 - [Neighborhood Attention Transformer (2022)](https://arxiv.org/abs/2204.07143) ([Code](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer))
 - [3D Surface Reconstruction From Multi-Date Satellite Images (2021)](https://arxiv.org/abs/2102.02502) ([Code](https://github.com/SBCV/SatelliteSurfaceReconstruction))
+- [Decoupling Makes Weakly Supervised Local Feature Better (2022)](https://arxiv.org/abs/2201.02861) ([Code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat))

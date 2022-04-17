@@ -1559,6 +1559,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Gotext](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
 - [yyjson-go](https://github.com/zchee/yyjson-go) - Go port of yyjson, A high performance JSON library.
 - [GOMAD](https://github.com/medmouine/gomad) - Lightweight functional data and side effects manipulation patterns in Go with no dependencies.
+- [Song2](https://github.com/matsuyoshi30/song2) - Fast Gaussian Blur in Go.
 
 ## Links
 

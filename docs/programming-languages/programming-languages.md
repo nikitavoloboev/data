@@ -348,3 +348,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [massCode](https://github.com/massCodeIO/massCode) - Free and open source code snippets manager for developers.
 - [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage))
 - [Course on Metaprogramming](https://github.com/namin/metaprogramming)
+- [Germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code.

@@ -326,7 +326,7 @@
 - [DALL·E Mini](https://github.com/borisdayma/dalle-mini) - Generate images from a text prompt.
 - [Jury](https://github.com/obss/jury) - Evaluation for Natural Language Generation.
 - [Rubrix](https://github.com/recognai/rubrix) - Free and open-source tool to explore, label, and monitor data for NLP projects.
-- [Knowledge Neurons in Pretrained Transformers (2021)](https://arxiv.org/abs/2104.08696) ([Code](https://github.com/EleutherAI/knowledge-neurons))
+- [Knowledge Neurons in Pretrained Transformers (2021)](https://arxiv.org/abs/2104.08696) ([Code](https://github.com/EleutherAI/knowledge-neurons)) ([Code](https://github.com/Hunter-DDM/knowledge-neurons))
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) - Open source implementation of OpenAI's CLIP (Contrastive Language-Image Pre-training).
 - [Improving Named Entity Recognition by External Context Retrieving and Cooperative Learning (2021)](https://arxiv.org/abs/2105.03654) ([Code](https://github.com/Alibaba-NLP/CLNER))
 - [Can a Fruit Fly Learn Word Embeddings? (2021)](https://arxiv.org/abs/2101.06887)
@@ -543,3 +543,4 @@
 - [A few things to try with DALL·E (2022)](https://www.bramadams.dev/projects/dalle-tricks) ([HN](https://news.ycombinator.com/item?id=31009129))
 - [Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution (2022)](https://www.youtube.com/watch?v=RJwPN4qNi_Y)
 - [Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution (2021)](https://arxiv.org/abs/2106.06361) ([Code](https://github.com/thunlp/BkdAtk-LWS))
+- [Simple and Effective Multi-Paragraph Reading Comprehension (2017)](https://arxiv.org/abs/1710.10723) ([Code](https://github.com/allenai/document-qa))

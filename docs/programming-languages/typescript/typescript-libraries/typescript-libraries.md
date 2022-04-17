@@ -465,6 +465,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [fly-node-api](https://github.com/remorses/fly-node-api) - Type safe API client for the Fly.io Graphql API.
 - [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - An optimization used to speed up consecutive function calls by caching the result of calls with identical input.
+- [paintkit](https://github.com/seanchas116/paintkit) - UI components and utilities for graphics editors or similar apps.
 
 ## Links
 

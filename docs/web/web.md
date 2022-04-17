@@ -1,6 +1,6 @@
 # Web
 
-[Full stack open](https://fullstackopen.com/en/) is nice course.
+[Full stack open](https://fullstackopen.com/en/) is nice course. I use [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) currently for building web sites. [Svelte](../programming-languages/javascript/js-libraries/svelte.md), [SolidJS](../programming-languages/javascript/js-libraries/solid.md) & [Qwik](https://github.com/BuilderIO/qwik) are great frameworks.
 
 ## Notes
 

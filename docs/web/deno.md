@@ -216,3 +216,4 @@ title: Deno
 - [deno-systray](https://github.com/wobsoriano/deno-systray) - Cross-platform systray library for Deno using the go systray library.
 - [Sprinter](https://github.com/jeff-hykin/sprinter) - Run deno subprocesses faster.
 - [Merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for Deno.
+- [Doing It All With Deno (2022)](https://www.sitepen.com/blog/doing-it-all-with-deno) ([Code](https://github.com/SitePen/deno-todos-blog))

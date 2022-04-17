@@ -396,3 +396,4 @@ Awesome List
 - [Codespaces Network Bridge](https://github.com/github/gh-net) - GitHub CLI extension that allows to bridge network between a Codespace and your local machine.
 - [GitHub Changelog](https://github.com/chelnak/gh-changelog) - Opinionated GitHub Cli extension for creating changelogs that adhere to the keep a changelog specification.
 - [GitHub backup repositories](https://github.com/hukenovs/github_backup) - Save your repos and list of stargazers & list of forks for them.
+- [GitHub Scoped Creds](https://github.com/yuvipanda/gh-scoped-creds) - Provide fine-grained push access to GitHub from a JupyterHub.

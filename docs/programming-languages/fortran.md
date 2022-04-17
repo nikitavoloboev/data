@@ -22,3 +22,4 @@ title: Fortran
 - [Flang](https://github.com/flang-compiler/flang) - Fortran language front-end designed for integration with LLVM.
 - [fortls](https://github.com/gnikit/fortls) - Fortran Language Server.
 - [The State of Fortran (2022)](https://arxiv.org/abs/2203.15110) ([HN](https://news.ycombinator.com/item?id=30935633))
+- [Fortran to WebAssembly](https://github.com/StarGate01/Full-Stack-Fortran)
