@@ -466,6 +466,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - An optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 - [paintkit](https://github.com/seanchas116/paintkit) - UI components and utilities for graphics editors or similar apps.
+- [Monadic Event Stream](https://github.com/mostjs/core) - High-performance reactive event stream programming that powers Most.
 
 ## Links
 

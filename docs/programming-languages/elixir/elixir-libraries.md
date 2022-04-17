@@ -170,6 +170,8 @@
 - [Combination](https://github.com/seantanly/elixir-combination) - Simple combinatorics library providing combination and permutation.
 - [Mogrify](https://github.com/elixir-mogrify/mogrify) - Image processing in Elixir.
 - [Jetstream](https://github.com/mmmries/jetstream) - Elixir client for NATS Jetstream.
+- [ExImageInfo](https://github.com/Group4Layers/ex_image_info) - Elixir library to parse images (binaries) and get the dimensions (size), detected mime-type.
+- [NifIo](https://github.com/rusterlium/NifIo) - Rustler example. Implements file IO in a NIF.
 
 ## Links
 

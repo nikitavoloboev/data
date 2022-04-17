@@ -174,6 +174,7 @@
 - [DuckDB Foreign Data Wrapper for PostgreSQL](https://github.com/alitrack/duckdb_fdw)
 - [Ibis BigQuery](https://github.com/ibis-project/ibis-bigquery) - BigQuery backend for Ibis.
 - [Arrowdantic](https://github.com/jorgecarleitao/arrowdantic) - Small Python library backed by a mature Rust implementation of Apache Arrow.
+- [static_ondisk_kv](https://github.com/rom1504/static-ondisk-kv) - Simple and fast implementation of a static on disk kv, in python.
 
 ## GUI
 
