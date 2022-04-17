@@ -167,6 +167,7 @@
 - [witgen](https://github.com/bnjjj/witgen) - Library to generate .wit files for WebAssembly in Rust.
 - [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
 - [xtask-wasm](https://github.com/rustminded/xtask-wasm) - Customizable subcommands to build your WASM projects using xtask.
+- [wasmy](https://github.com/henrylee2cn/wasmy) - Easily customize my WASM app.
 
 ## GUI
 
@@ -1759,6 +1760,7 @@
 - [postage-rs](https://github.com/austinjones/postage-rs) - Feature-rich, portable async channel library.
 - [SIMD JSON for Rust](https://github.com/simd-lite/simd-json)
 - [linkmap-rs](https://github.com/everettjf/linkmap-rs) - Linkmap file parse library for rust.
+- [dirs](https://github.com/dirs-dev/dirs-rs) - Low-level library that provides config/cache/data paths.
 
 ## Cargo Plugins
 

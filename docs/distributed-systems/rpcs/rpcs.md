@@ -50,3 +50,4 @@ title: Remote Procedure Calls
 - [A Critique of the Remote Procedure Call Paradigm - 30 years later](https://blog.carlosgaldino.com/a-critique-of-the-remote-procedure-call-paradigm-30-years-later.html)
 - [tRPC Playground](https://github.com/sachinraja/trpc-playground) - Playground for running tRPC queries in the browser.
 - [A Critique of the Remote Procedure Call Paradigm (1988)](https://www.cs.vu.nl/~ast/Publications/Papers/euteco-1988.pdf) ([HN](https://news.ycombinator.com/item?id=30976140))
+- [eRPC](https://github.com/henrylee2cn/erpc) - Efficient, extensible and easy-to-use RPC framework. Suitable for RPC, Microservice, Peer-to-Peer, IM, Game and other fields.

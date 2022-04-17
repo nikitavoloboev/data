@@ -468,6 +468,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [paintkit](https://github.com/seanchas116/paintkit) - UI components and utilities for graphics editors or similar apps.
 - [Monadic Event Stream](https://github.com/mostjs/core) - High-performance reactive event stream programming that powers Most.
 - [lazy](https://github.com/ricokahler/lazy) - Small, useful set of methods for lazy iteration of iterables.
+- [untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
 
 ## Links
 

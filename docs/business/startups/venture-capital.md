@@ -4,6 +4,8 @@ title: Venture Capital
 
 # [Venture Capital](https://en.wikipedia.org/wiki/Venture_capital)
 
+Curious how [Sequoia VC](https://www.sequoiacap.com/our-companies/) is so successful.
+
 ## Notes
 
 - [Tons of cash in VC => founders have leverage => founders prefer to do 1st meetings over zoom, easier to parallel process more firms/create momentum => zoom is default for first meetings. In-person is saved for the end/close.](https://twitter.com/zebulgar/status/1376251459574976513)

@@ -1566,6 +1566,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [recursive fs](https://github.com/forensicanalysis/recursivefs) - Recursive io/fs file system package.
 - [Rig](https://github.com/k0sproject/rig) - Go package for multi-protocol and multi-os remote host communication.
 - [xor](https://github.com/go-faster/xor) - Implements XOR operations on byte slices.
+- [gust](https://github.com/henrylee2cn/gust) - Go ergonomic declarative generics module inspired by Rust.
+- [goutil](https://github.com/henrylee2cn/goutil) - Go common tool functions and components.
+- [go-tagexpr](https://github.com/bytedance/go-tagexpr) - Interesting go struct tag expression syntax for field validation, etc.
+- [logtags](https://github.com/cockroachdb/logtags) - Key/value annotations for Go contexts.
 
 ## Links
 
@@ -1657,3 +1661,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Structured configuration in Go (2022)](https://andrewpillar.com/programming/2022/04/09/structured-configuration-in-go/)
 - [How to install Go modules](https://go.dev/ref/mod#go-install)
 - [GoMajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.
+- [Go analysis support for CodeQL](https://github.com/github/codeql-go)

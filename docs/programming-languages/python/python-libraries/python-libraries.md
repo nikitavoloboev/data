@@ -57,6 +57,7 @@
 - [OpenAPI Python Client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI.
 - [WARCIO](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO.
 - [Warctools](https://github.com/internetarchive/warctools) - Command line tools and libraries for handling and manipulating WARC files (and HTTP contents).
+- [OpenAPI Spec validator](https://github.com/p1c2u/openapi-spec-validator)
 
 ## ML
 

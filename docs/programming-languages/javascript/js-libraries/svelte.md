@@ -224,3 +224,4 @@ title: Svelte
 - [KitDocs](https://kit-docs.svelteness.dev/docs/getting-started/introduction) - Documentation integration for SvelteKit. ([Code](https://github.com/svelteness/kit-docs))
 - [Thoughts on maturity of Svelte/SvelteKit (2022)](https://twitter.com/htmleverything/status/1515000240134242309)
 - [Sveltin](https://github.com/sveltinio/sveltin) - Smartest Way to Build SvelteKit powered static websites. ([Web](https://sveltin.io/))
+- [Svelte-Splitpanes](https://github.com/orefalo/svelte-splitpanes) - Create resizable view panels in Svelte 3, a radical new approach to building user interfaces.

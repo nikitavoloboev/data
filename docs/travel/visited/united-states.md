@@ -129,3 +129,4 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [How the USA Passport Ranked 41st (2022)](https://www.youtube.com/watch?v=8Bbo5FabtvA)
 - [US will have highest personal tax out of all developed world countries](https://www.youtube.com/watch?v=kyPdcnkWgL8)
 - [America’s Highest Earners And Their Taxes Revealed (2022)](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)
+- [The Entire History of Silicon Valley (2022)](https://www.youtube.com/watch?v=hpLUFQfwYVY)
