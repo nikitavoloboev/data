@@ -354,7 +354,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Introduction to the Zettelkasten Method (2020)](https://zettelkasten.de/introduction/) ([HN](https://news.ycombinator.com/item?id=24916536))
 - [How I remember everything I learn (2020)](https://dev.to/aurelio/how-i-remember-everything-i-learn-19mi)
 - [Digital gardens let you cultivate your own little bit of the internet (2020)](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) ([HN](https://news.ycombinator.com/item?id=24996780))
-- [Standard Notes](https://standardnotes.org/) - Free, open-source, and completely encrypted notes app. ([Code](https://github.com/standardnotes/web)) ([HN](https://news.ycombinator.com/item?id=26838992)) ([App](https://app.standardnotes.org/))
+- [Standard Notes](https://standardnotes.org/) - Free, open-source, and completely encrypted notes app. ([Code](https://github.com/standardnotes/web)) ([HN](https://news.ycombinator.com/item?id=26838992)) ([App](https://app.standardnotes.org/)) ([Awesome](https://github.com/jonhadfield/awesome-standard-notes))
 - [Linked knowledge greatest links](https://scrapbox.io/benfoden/Linked_knowledge_greatest_links)
 - [Information Storage and Archiving strategies (2020)](https://strikingloo.github.io/wiki-articles/information-storage/archiving)
 - [zettel](https://github.com/hackstream/zettel) - Notes organizer - based on Zettelkasten methodology. Written in Go.

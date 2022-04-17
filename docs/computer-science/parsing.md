@@ -101,3 +101,4 @@
 - [How to write a linter using tree-sitter in an hour (2022)](https://siraben.dev/2022/03/22/tree-sitter-linter.html) ([HN](https://news.ycombinator.com/item?id=30822544))
 - [ppx_match_seq](https://github.com/nojb/ppx_match_seq) - Syntax for Seq.t parsers.
 - [Tour of Parser-Printers: Introduction (2022)](https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction) ([HN](https://news.ycombinator.com/item?id=30990463))
+- [py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library.

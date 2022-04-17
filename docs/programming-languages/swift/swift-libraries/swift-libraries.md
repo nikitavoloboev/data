@@ -1080,6 +1080,7 @@
 - [SwiftMsgPack](https://github.com/malcommac/SwiftMsgPack) - Fast & Lightweight MsgPack Serializer & Deserializer for Swift.
 - [RoughSwift](https://github.com/onmyway133/RoughSwift) - Create hand-drawn, sketchy, comic shape in Swift.
 - [StoreHelper](https://github.com/russell-archer/StoreHelper) - Swift Package Manager (SPM) package that enables developers to easily add in-app purchase support to iOS 15/macOS 12 SwiftUI apps.
+- [Mirai](https://github.com/moriturus/Mirai) - Provides Rust-styled Future.
 
 ## Other (not lib)
 

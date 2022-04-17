@@ -163,3 +163,4 @@
 - [PyTorch Robot Kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics)
 - [ROS Best Practices, Conventions and Tricks](https://rsl.ethz.ch/education-students/lectures/ros.html) ([Code](https://github.com/leggedrobotics/ros_best_practices))
 - [ANYbotics](https://www.anybotics.com/) - Autonomous Legged Robots for Industrial Inspection. ([GitHub](https://github.com/ANYbotics))
+- [Hero 2.0, an ultra-low cost 3D-printed robotics platform](https://www.wevolver.com/article/hero-20-an-ultra-low-cost-3d-printed-robotics-platform-could-open-swarm-robotics-experimentation-up-to-all) ([HN](https://news.ycombinator.com/item?id=31057382))

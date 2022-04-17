@@ -296,6 +296,7 @@
 - [hfsnotify](https://github.com/haskell-fswatch/hfsnotify) - Unified Haskell interface for basic file system notifications.
 - [type-eq](https://github.com/glaebhoerl/type-eq) - Type equality evidence you can carry around.
 - [hoopl](https://github.com/haskell/hoopl) - Higher-order optimization library.
+- [Zip](https://github.com/mrkkrp/zip) - Efficient library for manipulating zip archives.
 
 ## Notes
 

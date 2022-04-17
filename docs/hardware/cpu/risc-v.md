@@ -171,3 +171,4 @@ title: RISC-V
 - [Snitch System](https://github.com/pulp-platform/snitch) - Lean but mean RISC-V system.
 - [JavaScript RISC-V ISA Simulator. Boots Linux in a web-browser](https://github.com/riscv-software-src/riscv-angel)
 - [RVScript](https://github.com/fwsGonzo/rvscript) - Fast RISC-V-based scripting backend for game engines.
+- [Opening a UDP Socket in RISC-V Assembly (2022)](https://danielmangum.com/risc-v-tips/2022-05-14-opening-a-udp-socket-risc-v/)

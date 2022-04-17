@@ -550,3 +550,4 @@
 - [Ask HN: How to improve as a struggling junior swe? (2022)](https://news.ycombinator.com/item?id=30974544)
 - [Write Errors That Don't Make Me Think (2020)](https://docs.temporal.io/blog/error-message-design/)
 - [Errors are constructed, not discovered (2022)](https://ferd.ca/errors-are-constructed-not-discovered.html)
+- [Programming Study Path](https://github.com/joebew42/study-path)

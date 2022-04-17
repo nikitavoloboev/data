@@ -710,3 +710,4 @@ title: Kubernetes
 - [GitOps recipe for Progressive Delivery with Flux v2, Flagger and Istio](https://github.com/stefanprodan/gitops-istio)
 - [kubert](https://github.com/olix0r/kubert) - Rust Kubernetes runtime helpers. Based on kube-rs.
 - [Stateless Kubernetes overlay networks with IPv6 (2021)](https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6)
+- [keptn](https://keptn.sh/) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications. ([Code](https://github.com/keptn/keptn))

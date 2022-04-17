@@ -118,3 +118,4 @@ title: LLVM
 - [Apple LLVM fork](https://github.com/apple/llvm-project)
 - [LLVM Guide](https://github.com/mikeroyal/LLVM-Guide)
 - [McSema](https://github.com/lifting-bits/mcsema) - Framework for lifting x86, amd64, aarch64, sparc32, and sparc64 program binaries to LLVM bitcode.
+- [Peephole Optimizer (For QBE): Studying the LLVM and GCC Optimizers (2022)](https://briancallahan.net/blog/20220417.html)

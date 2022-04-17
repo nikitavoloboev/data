@@ -286,3 +286,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [PARSEC](https://github.com/parallaxsecond/parsec) - Open-source initiative to provide a common API to hardware security and cryptographic services in a platform-agnostic way.
 - [SecurityZines](https://securityzines.com/)
 - [Fugue](https://www.fugue.co/) - Cloud Infrastructure Security & Compliance from Code to Runtime. ([GitHub](https://github.com/fugue))
+- [Curiefense](https://github.com/curiefense/curiefense) - Unified, open source platform protecting cloud native applications.

@@ -467,6 +467,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - An optimization used to speed up consecutive function calls by caching the result of calls with identical input.
 - [paintkit](https://github.com/seanchas116/paintkit) - UI components and utilities for graphics editors or similar apps.
 - [Monadic Event Stream](https://github.com/mostjs/core) - High-performance reactive event stream programming that powers Most.
+- [lazy](https://github.com/ricokahler/lazy) - Small, useful set of methods for lazy iteration of iterables.
 
 ## Links
 
@@ -526,3 +527,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript Definitions to Markdown](https://github.com/skarab42/ts-to-md) - VS Code extension that helps you to export your TypeScript definitions in Markdown format.
 - [rev-dep](https://github.com/jayu/rev-dep) - File dependency debugging tool for TypeScript projects.
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
+- [npx link](https://github.com/privatenumber/link) - Safer version of npm link.

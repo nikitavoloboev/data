@@ -77,6 +77,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-shell](https://github.com/progrium/go-shell) - Library to write "shelling out" Go code more shell-like, while remaining idiomatic to Go.
 - [Qalam](https://github.com/iskaa02/qalam) - Go library for easy terminal styling.
 - [Boa](https://github.com/elewis787/boa) - Cobra command styled usage and help component powered by bubbletea.
+- [console](https://github.com/containerd/console) - Go package for dealing with consoles. Light on deps and a simple API.
 
 ## Test
 
@@ -589,6 +590,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [errors](https://github.com/alecthomas/errors) - Simple error wrapping package that automatically adds source locations to errors.
 - [Benchmarking Go errors](https://github.com/nikolaydubina/go-bench-errors)
 - [go-serum](https://github.com/serum-errors/go-serum) - Implementation of the Serum Errors Specification for use in Go development.
+- [errors](https://github.com/go-faster/errors) - Clear go error wrapping with caller.
 
 ## Other
 
@@ -1561,6 +1563,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [yyjson-go](https://github.com/zchee/yyjson-go) - Go port of yyjson, A high performance JSON library.
 - [GOMAD](https://github.com/medmouine/gomad) - Lightweight functional data and side effects manipulation patterns in Go with no dependencies.
 - [Song2](https://github.com/matsuyoshi30/song2) - Fast Gaussian Blur in Go.
+- [recursive fs](https://github.com/forensicanalysis/recursivefs) - Recursive io/fs file system package.
+- [Rig](https://github.com/k0sproject/rig) - Go package for multi-protocol and multi-os remote host communication.
+- [xor](https://github.com/go-faster/xor) - Implements XOR operations on byte slices.
 
 ## Links
 

@@ -53,3 +53,4 @@ title: Metal
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) - Edit images and video with async / await in Swift & Metal.
 - [Metal by Tutorials](https://www.raywenderlich.com/books/metal-by-tutorials) ([Code](https://github.com/raywenderlich/met-materials))
 - [Learn Metal using metal-cpp](https://github.com/LeeTeng2001/metal-cpp-cmake)
+- [AppleSpectrogram](https://github.com/techpro-studio/AppleSpectrogram) - C++ 17 Spectrogram based on Apple's Accelerate and Metal frameworks..
