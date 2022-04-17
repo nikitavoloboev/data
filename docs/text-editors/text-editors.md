@@ -125,7 +125,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [CodeMirror Search](https://github.com/codemirror/search) - Search functionality for the CodeMirror code editor.
 - [Monaco TailwindCSS](https://github.com/remcohaszing/monaco-tailwindcss) - TailwindCSS intellisense support in Monaco editor.
 - [Rich Text Helpers](https://github.com/GraphCMS/rich-text) - Companion packages for GraphCMS's Rich Text Field.
-- [Lexical](https://github.com/facebook/lexical) - Extensible text editor framework that provides excellent reliability, accessibility and performance. ([HN](https://news.ycombinator.com/item?id=31019778))
+- [Lexical](https://github.com/facebook/lexical) - Extensible text editor framework that provides excellent reliability, accessibility and performance. ([HN](https://news.ycombinator.com/item?id=31019778)) ([Reddit](https://www.reddit.com/r/reactjs/comments/u4zv7p/lexical_an_extensible_text_editor_framework/))
 - [CodeMirror Basic Setup](https://github.com/codemirror/basic-setup) - Example configuration for the CodeMirror code editor.
 
 ## Notes

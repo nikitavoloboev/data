@@ -598,3 +598,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [ETH Basic Typescript Starter](https://github.com/nezz0746/typescript-eth-starter)
 - [Create React Native dApp](https://github.com/cawfree/create-react-native-dapp)
 - [Cairo ZK Verifier in Nock](https://github.com/uqbar-dao/zock)
+- [Ghost Contract](https://github.com/0xKitsune/Ghost-Contract) - Minimalistic contract to execute a payload and make the code size of the msg.sender appear to be 0.

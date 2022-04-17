@@ -28,6 +28,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [grammY Tests](https://github.com/dcdunkan/tests) - Write tests for your Telegram Bots made using grammY.
 - [grammY Fluent](https://github.com/the-moebius/grammy-fluent) - Fluent localization system integration for grammY Telegram bot framework.
 - [grammY validator](https://github.com/grammyjs/validator) - Validation logic for Telegram Web Bots and Login Widgets.
+- [grammY port of NestJS Telegraf](https://github.com/grammyjs/nestjs)
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))

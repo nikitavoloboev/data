@@ -722,6 +722,7 @@
   - [Libra](docs/cryptocurrencies/libra.md)
   - [TON](docs/cryptocurrencies/ton.md)
   - [Monero](docs/cryptocurrencies/monero.md)
+  - [Avalanche](docs/cryptocurrencies/avalanche.md)
 - [Privacy](docs/privacy/privacy.md)
   - [Freedom](docs/privacy/freedom.md)
   - [Self hosting](docs/privacy/self-hosting.md)

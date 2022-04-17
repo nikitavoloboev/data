@@ -97,3 +97,4 @@ title: Field-programmable gate array
 - [ML models on FPGA with Tensil and Ultra96 (2022)](https://k155la3.blog/2022/03/06/tensil-tutorial-for-ultra96-v2/)
 - [FPGA Clock Configuration Device Driver for Linux](https://github.com/ikwzm/fclkcfg)
 - [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - Open-source FPGA IP Generator.
+- [LUNA](https://github.com/greatscottgadgets/luna) - USB multitool + Amaranth HDL framework for monitoring, hacking, and developing USB devices.
