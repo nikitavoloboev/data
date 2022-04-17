@@ -189,6 +189,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useSSE](https://github.com/kmoskwiak/useSSE) - Perform asynchronous effects both on client and serve side.
 - [useTilg](https://github.com/shuding/tilg) - Magical React Hook to help you debug your components.
 - [event](https://github.com/bit-about/event) - Tiny and powerful hook-based event system for React.
+- [useForm](https://github.com/veritem/useform) - Tiny hook that make react forms easy.
 
 ## Code
 
