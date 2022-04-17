@@ -123,3 +123,4 @@ title: JSON
 - [JSON API Normalize](https://github.com/dbrekalo/json-api-normalize) - Simple way to traverse datasets based on JSON API specification. Lightweight JS library with simple and powerful API.
 - [JSON Schema Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - Language agnostic test suite for the JSON Schema specifications.
 - [The fastest tools for querying large JSON datasets](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb) ([HN](https://news.ycombinator.com/item?id=31004563))
+- [JSON Hero](https://jsonhero.io/) - Beautiful JSON viewer. ([Code](https://github.com/jsonhero-io/jsonhero-web))

@@ -212,6 +212,7 @@ And these Discord servers:
 ## Notes
 
 - [Code scripts machines, media scripts human beings.](https://twitter.com/visualizevalue/status/1383108890213105669)
+- [Whenever you find yourself on the side of the majority, it is time to pause and reflect.](http://www.twainquotes.com/Majority.html)
 
 ## Links
 

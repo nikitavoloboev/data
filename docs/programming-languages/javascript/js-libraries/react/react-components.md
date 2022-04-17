@@ -301,6 +301,7 @@
 - [React Fast Marquee](https://github.com/justin-chu/react-fast-marquee) - Lightweight React component that utilizes the power of CSS animations to create silky smooth marquees.
 - [React Mentions](https://github.com/signavio/react-mentions) - React component that let's you mention people in a textarea like you are used to on Facebook or Twitter.
 - [Selecto.js](https://github.com/daybrush/selecto) - Component that allows you to select elements in the drag area using the mouse or touch.
+- [React RND](https://github.com/bokuweb/react-rnd) - Resizable and draggable component for React.
 
 ## Links
 

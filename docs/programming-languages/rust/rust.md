@@ -428,7 +428,7 @@ title: Rust
 - [Comparison of Rust async and Linux thread context switch time and memory use](https://github.com/jimblandy/context-switch) ([HN](https://news.ycombinator.com/item?id=26110612))
 - [A New Backend for Cranelift, Part 1: Instruction Selection (2019)](https://cfallin.org/blog/2020/09/18/cranelift-isel-1/) ([Part 2](https://cfallin.org/blog/2021/01/22/cranelift-isel-2/))
 - [For the Love of Macros (2021)](https://matklad.github.io//2021/02/14/for-the-love-of-macros.html)
-- [Command Line Applications in Rust Book](https://rust-cli.github.io/book/) ([Code](https://github.com/rust-cli/book))
+- [Command Line Applications in Rust Book](https://rust-cli.github.io/book/) ([Code](https://github.com/rust-cli/book)) ([Code](https://github.com/japanese-goblinn/rust-cli))
 - [Rust CLI Project Template](https://github.com/ssokolow/rust-cli-boilerplate) - Base project template for comfortably building small but reliable utilities in the Rust programming language.
 - [Implementing flat_map in Rust (2020)](https://www.eltonpinto.me/blog/posts/implementing_flatmap_in_rust/)
 - [Ask the Expert: Rust at Microsoft (2021)](https://www.youtube.com/watch?v=1uAsA1hm52I)

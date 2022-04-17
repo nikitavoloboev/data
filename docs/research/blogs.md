@@ -117,6 +117,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Bjango](https://bjango.com/articles/)
 - [Mattia Righetti](https://mattrighetti.com/)
 - [Dwarkesh Patel](https://dwarkeshpatel.com/)
+- [Gregory Anders](https://gpanders.com/)
 
 ## Notes
 

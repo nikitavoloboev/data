@@ -390,3 +390,4 @@ title: PyTorch
 - [minDiffusion](https://github.com/cloneofsimo/minDiffusion) - Self-contained, minimalistic implementation of diffusion models with PyTorch.
 - [torchdistX](https://github.com/pytorch/torchdistx) - Torch Distributed Experimental.
 - [grafog](https://github.com/rish-16/grafog) - Graph Data Augmentation Library for PyTorch Geometric.
+- [High-fidelity performance metrics for generative models in PyTorch](https://github.com/toshas/torch-fidelity)
