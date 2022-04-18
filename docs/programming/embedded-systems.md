@@ -171,3 +171,4 @@
 - [Embedded Rust on Espressif Book](https://espressif-trainings.ferrous-systems.com/) ([Code](https://github.com/ferrous-systems/espressif-trainings))
 - [Jacdac](https://microsoft.github.io/jacdac-docs/) - Plug-and-Play for Microcontrollers. ([Code](https://github.com/microsoft/jacdac))
 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/) ([HN](https://news.ycombinator.com/item?id=30913359))
+- [FreeRTOS](https://www.freertos.org/) - Real-time operating system kernel for embedded devices that has been ported to 35 microcontroller platforms. ([Rust wrapper](https://github.com/hashmismatch/freertos.rs))

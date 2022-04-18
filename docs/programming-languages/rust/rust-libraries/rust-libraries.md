@@ -1765,6 +1765,9 @@
 - [linkmap-rs](https://github.com/everettjf/linkmap-rs) - Linkmap file parse library for rust.
 - [dirs](https://github.com/dirs-dev/dirs-rs) - Low-level library that provides config/cache/data paths.
 - [serde-bridge](https://github.com/Xuanwo/serde-bridge) - Bridge between serde types.
+- [JSON spanned value](https://github.com/MaulingMonkey/json-spanned-value) - Track the origin of your JSON values for better error reporting.
+- [rustrict](https://github.com/finnbear/rustrict) - Sophisticated profanity filter for Rust.
+- [packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs) - Bit-level packing and unpacking for Rust.
 
 ## Cargo Plugins
 

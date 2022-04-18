@@ -58,3 +58,4 @@ title: Vite
 - [Vite Config JSON](https://github.com/brillout/vite-config-json) - Automatically import dist/server/ assets.
 - [Generouted](https://github.com/oedotme/generouted) - Generated file-based routes for React Location and Vite.
 - [Vite SSG Sitemap](https://github.com/jbaubree/vite-ssg-sitemap) - Sitemap generator working with vite-ssg.
+- [Micro Vite](https://github.com/sapphi-red/micro-vite) - Create a minimal Vite like tool in 350 lines.

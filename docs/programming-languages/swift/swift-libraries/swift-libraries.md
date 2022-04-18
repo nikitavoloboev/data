@@ -543,6 +543,7 @@
 - [Swift ORM](https://github.com/prisma-ai/Sworm) - CoreData based Swift ORM.
 - [RapidLMDB](https://github.com/tannerdsilva/RapidLMDB) - Fast and efficient LMDB wrapper for Swift.
 - [supabase-swift](https://github.com/supabase-community/supabase-swift) - Swift client for Supabase.
+- [Vapor provider for RediStack](https://github.com/vapor/redis)
 
 ## Graphics
 

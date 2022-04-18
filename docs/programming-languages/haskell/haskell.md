@@ -407,3 +407,4 @@ title: Haskell
 - [Haskell.org Website Code](https://github.com/haskell-infra/www.haskell.org)
 - [From Partitions to Wordle - Type Safety with Phantom Types (2022)](https://www.morrowm.com/posts/2022-04-04-phantom.html)
 - [Categorifier](https://github.com/con-kitty/categorifier) - Defining novel interpretations of Haskell programs.
+- [Applied Haskell Syllabus](https://www.fpcomplete.com/haskell/syllabus/)

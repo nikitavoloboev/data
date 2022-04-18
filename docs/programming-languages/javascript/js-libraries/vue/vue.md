@@ -4,6 +4,8 @@ title: Vue.js
 
 # [Vue.js](https://vuejs.org)
 
+[Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client.
+
 ## Built with Vue
 
 - [Nuxt.js Hacker News](https://github.com/nuxt/hackernews)
@@ -147,3 +149,7 @@ title: Vue.js
 - [Minimal GraphQL Client + Code Generation for Nuxt](https://github.com/Diizzayy/nuxt-graphql-client)
 - [Vue Stripe Menu](https://github.com/oleksiikhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe.
 - [Vue Devtools](https://devtools.vuejs.org/) - Browser devtools extension for debugging Vue.js applications. ([Code](https://github.com/vuejs/devtools))
+- [Villus](https://github.com/logaretm/villus) - Tiny and fast GraphQL client for Vue.js.
+- [vee-validate](https://github.com/logaretm/vee-validate) - Form Validation for Vue.js.
+- [vue-adaptive-utils](https://github.com/logaretm/vue-adaptive-utils) - Deliver empathetic experiences to your users by adapting to their capabilities.
+- [Vuetify](https://vuetifyjs.com/en/) - Material Design Framework for Vue.js. ([Code](https://github.com/vuetifyjs/vuetify)) ([Awesome](https://github.com/vuetifyjs/awesome-vuetify))

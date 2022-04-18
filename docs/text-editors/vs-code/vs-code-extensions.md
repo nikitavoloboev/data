@@ -71,6 +71,7 @@ Below is a list of extensions I use.
 - [ModalEdit](https://github.com/johtela/vscode-modaledit) - Configurable Modal Editing in VS Code.
 - [Scotch](https://marketplace.visualstudio.com/items?itemName=samipdahal.Scotch) - Code search for Python, JavaScript, Java, and Go. ([Web](https://sdpmas.github.io/Scotch/))
 - [Macros](https://marketplace.visualstudio.com/items?itemName=EXCEEDSYSTEM.vscode-macros) - Add a simple JavaScript macro features to your VSCode. ([Code](https://github.com/exceedsystem/vscode-macros))
+- [Settings Toggle](https://marketplace.visualstudio.com/items?itemName=z0al.settings-toggle) - Effortlessly Toggle Settings in Visual Studio Code. ([Code](https://github.com/z0al/settings-toggle))
 - [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad) - Play interactive coding tutorials in your editor. ([Code](https://github.com/coderoad/coderoad-vscode)) ([Docs](https://coderoad.github.io/docs/overview))
 - [Partial Diff](https://marketplace.visualstudio.com/items?itemName=ryu1kn.partial-diff) - Compare (diff) text selections within a file, across files, or to the clipboard. ([Code](https://github.com/ryu1kn/vscode-partial-diff))
 - [Stepsize](https://marketplace.visualstudio.com/items?itemName=Stepsize.stepsize) - Issue tracker in IDE. ([Web](https://www.stepsize.com/)) ([Twitter](https://twitter.com/StepsizeHQ))

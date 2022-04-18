@@ -471,6 +471,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
 - [scroll-snap](https://github.com/lucafalasco/scroll-snap) - Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behavior.
 - [Google Maps JavaScript API Loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
+- [sum-types](https://github.com/unsplash/sum-types) - Safe, ergonomic, non-generic sum types in TypeScript.
 
 ## Links
 

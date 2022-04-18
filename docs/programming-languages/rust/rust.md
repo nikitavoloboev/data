@@ -768,3 +768,4 @@ title: Rust
 - [Achievement unlocked: rustc segfault](https://gist.github.com/luqmana/be1af5b64d2cda5a533e3e23a7830b44) ([HN](https://news.ycombinator.com/item?id=30980984))
 - [How to speed up the Rust compiler in April 2022](https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html) ([Reddit](https://www.reddit.com/r/rust/comments/u2deqd/how_to_speed_up_the_rust_compiler_in_april_2022/))
 - [Rust Cheat Sheet](https://github.com/alhassy/RustCheatSheet/blob/main/RustCheatSheet.org)
+- [ICE (Internal Compiler Error)](https://github.com/matthiaskrgr/icemaker) - Small program to automatically find crashes in the rust compiler using rustcs own tests and different feature flags.

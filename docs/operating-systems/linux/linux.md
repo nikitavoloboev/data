@@ -522,3 +522,4 @@ the execution time on all cores of a multi-core processor.
 - [musl-dynamic](https://github.com/distroless/musl-dynamic) - Distroless image for running dynamically-linked musl binaries.
 - [Linux Hardware Database](https://linux-hardware.org/) ([HN](https://news.ycombinator.com/item?id=31014306))
 - [systeroid](https://github.com/orhun/systeroid) - More powerful alternative to sysctl with a terminal user interface.
+- [Where Linux's load average comes from in the kernel (2022)](https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom)

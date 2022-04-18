@@ -133,6 +133,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Be](https://github.com/carlmjohnson/be) - Generic testing helper for Go.
 - [qt](https://github.com/go-quicktest/qt) - Quick helpers for testing Go applications using generics.
 - [assert](https://github.com/alecthomas/assert) - Simple assertion library using Go generics.
+- [DDD in Go](https://github.com/percybolmer/ddd-go)
 
 ## Web
 
@@ -1571,6 +1572,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [goutil](https://github.com/henrylee2cn/goutil) - Go common tool functions and components.
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - Interesting go struct tag expression syntax for field validation, etc.
 - [logtags](https://github.com/cockroachdb/logtags) - Key/value annotations for Go contexts.
+- [protoscan](https://github.com/paulmach/protoscan) - Low-level reader for protocol buffers encoded data in Go.
 
 ## Links
 

@@ -4,7 +4,7 @@ title: GraphQL
 
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper) & [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006) look interesting too.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006) & [GQty](https://github.com/gqty-dev/gqty) look interesting too.
 
 ## Notes
 

@@ -2,7 +2,7 @@
 
 [Linear API](https://developers.linear.app/docs) is interestingly made. [Stripe](https://stripe.com/docs/api) has nice API docs too. Currently looking into [Apiker](https://github.com/hodgef/apiker) for releasing my APIs.
 
-[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks.
+[Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks. [tRPC](https://github.com/trpc/trpc) is nice for API access.
 
 ## Other
 

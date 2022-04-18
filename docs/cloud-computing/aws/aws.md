@@ -335,3 +335,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://d
 - [AWS RDS Terraform module](https://github.com/terraform-aws-modules/terraform-aws-rds) - Terraform module which creates RDS resources on AWS.
 - [goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3.
 - [Scaling containers on AWS in 2022](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
+- [FP Complete AWS Foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform.

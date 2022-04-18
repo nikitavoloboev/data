@@ -32,4 +32,4 @@ title: Message queue
 - [Floki Message Queue](https://github.com/arthurprs/floki) - Borrows concepts from both Kafka and Amazon SQS into an easy to use package.
 - [Great hosted message queues](https://twitter.com/jevakallio/status/1507367310352396320)
 - [Cavalcade](https://github.com/palfrey/cavalcade) - AMQP broker backed by PostgreSQL.
-- [A Message Queue in Shell](https://pencil.toast.cafe/wt2om7i8t7)
+- [A Message Queue in Shell](https://pencil.toast.cafe/wt2om7i8t7) ([Lobsters](https://lobste.rs/s/p2hlkz/message_queue_shell))

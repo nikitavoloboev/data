@@ -6,6 +6,8 @@ title: Deno
 
 [Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager.
 
+Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
+
 ## Links
 
 - [Deno Manual](https://deno.land/manual) ([Code](https://github.com/denoland/manual))
@@ -217,3 +219,4 @@ title: Deno
 - [Sprinter](https://github.com/jeff-hykin/sprinter) - Run deno subprocesses faster.
 - [Merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for Deno.
 - [Doing It All With Deno (2022)](https://www.sitepen.com/blog/doing-it-all-with-deno) ([Code](https://github.com/SitePen/deno-todos-blog))
+- [Deno Cheat Sheet](https://oscarotero.com/deno/) ([Code](https://github.com/oscarotero/deno-cheatsheet))

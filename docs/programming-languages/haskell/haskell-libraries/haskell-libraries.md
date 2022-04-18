@@ -65,6 +65,7 @@
 - [eio](https://github.com/kowainik/eio) - IO with Exceptions tracked on the type-level.
 - [on-error](https://github.com/Simspace/on-error) - Clearly-delineated error-handling.
 - [annotated-exception](https://github.com/parsonsmatt/annotated-exception) - Provides a special AnnotatedException type which allows you to decorate Haskell exceptions with additional information.
+- [safe-exceptions](https://github.com/fpco/safe-exceptions) - Safe, consistent, and easy exception handling.
 
 ## Graphics
 
@@ -297,6 +298,8 @@
 - [type-eq](https://github.com/glaebhoerl/type-eq) - Type equality evidence you can carry around.
 - [hoopl](https://github.com/haskell/hoopl) - Higher-order optimization library.
 - [Zip](https://github.com/mrkkrp/zip) - Efficient library for manipulating zip archives.
+- [hermes](https://github.com/velveteer/hermes) - Haskell library for fast, memory-efficient decoding of JSON documents using the simdjson C++ library.
+- [inline-c](https://github.com/fpco/inline-c)
 
 ## Notes
 
