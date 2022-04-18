@@ -398,3 +398,4 @@ Awesome List
 - [GitHub backup repositories](https://github.com/hukenovs/github_backup) - Save your repos and list of stargazers & list of forks for them.
 - [GitHub Scoped Creds](https://github.com/yuvipanda/gh-scoped-creds) - Provide fine-grained push access to GitHub from a JupyterHub.
 - [GitHub Platform Code Samples](https://github.com/github/platform-samples)
+- [retrogen](https://github.com/cutenode/retrogen) - Tool for generating retrospectives for GitHub activity.

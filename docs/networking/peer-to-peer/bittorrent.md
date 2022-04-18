@@ -103,3 +103,4 @@ title: BitTorrent
 - [bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - Simple, robust, BitTorrent tracker (client & server) implementation.
 - [magnetfinder](https://github.com/xel86/magnetfinder) - Multi-threaded CLI torrent scraper for displaying searched for magnet links; tailored for use with plex & ssh.
 - [qBittorrent CLI](https://github.com/ludviglundgren/qbittorrent-cli) - CLI to manage qBittorrent. Add torrents, reannounce and import from other clients.
+- [libtorrent-daemon](https://github.com/arvidn/libtorrent-daemon) - BitTorrent client specifically made for servers.

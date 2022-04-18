@@ -86,3 +86,4 @@ title: Figma
 - [Untitled UI](https://www.untitledui.com/) - Figma UI Kit and Design System.
 - [24 Best Figma UI Kits and Design Systems (2022)](https://www.untitledui.com/blog/figma-ui-kits)
 - [Prototyping Tips & Hacks – Figma](https://www.figma.com/community/file/1093462921212055775)
+- [Animating mesh gradients in Figma](https://twitter.com/zander_supafast/status/1516000032591425538)

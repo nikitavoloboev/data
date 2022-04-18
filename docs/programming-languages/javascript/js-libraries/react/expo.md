@@ -4,6 +4,8 @@ title: Expo
 
 # [Expo](https://expo.io/)
 
+[EAS monorepo example](https://github.com/byCedric/eas-monorepo-example) seems like a useful start.
+
 ## Example OSS apps
 
 - [Turborepo starter with Expo and tRPC](https://github.com/gunnnnii/turbo-expo-trpc-starter)
@@ -39,3 +41,4 @@ title: Expo
 - [Comprehensive intro to the entire Expo ecosystem (2022)](https://twitter.com/mauro_codes/status/1504495062180323338)
 - [expo/match-media](https://github.com/expo/match-media) - Universal polyfill for match media API using Expo APIs on mobile.
 - [Simplify Expo releases with Standard Version (2020)](https://dev.to/bycedric/simplify-expo-releases-with-standard-version-2f4o)
+- [EAS monorepo example](https://github.com/byCedric/eas-monorepo-example) - Enterprise-ready Expo Application Service monorepo with code sharing.

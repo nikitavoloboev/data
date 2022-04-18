@@ -472,6 +472,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [scroll-snap](https://github.com/lucafalasco/scroll-snap) - Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behavior.
 - [Google Maps JavaScript API Loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
 - [sum-types](https://github.com/unsplash/sum-types) - Safe, ergonomic, non-generic sum types in TypeScript.
+- [tsPEG](https://github.com/EoinDavey/tsPEG) - PEG Parser Generator for TypeScript.
+- [InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 
 ## Links
 

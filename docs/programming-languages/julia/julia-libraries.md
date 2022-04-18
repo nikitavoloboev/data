@@ -181,6 +181,7 @@
 - [StatsKit.jl](https://github.com/JuliaStats/StatsKit.jl) - Convenience meta-package to load essential packages for statistics.
 - [Multivariate Polynomials](https://github.com/JuliaAlgebra/MultivariatePolynomials.jl) - Interface for manipulating multivariate polynomials.
 - [Krylov.jl](https://github.com/JuliaSmoothOptimizers/Krylov.jl) - Julia Basket of Hand-Picked Krylov Methods.
+- [SuiteSparseGraphBLAS.jl](https://github.com/JuliaSparse/SuiteSparseGraphBLAS.jl) - Fast, general sparse linear algebra and graph computation package, based on SuiteSparse:GraphBLAS.
 
 ## NLP
 

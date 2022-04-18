@@ -1,6 +1,6 @@
 # Configuration management
 
-[Nickel](https://github.com/tweag/nickel) is interesting.
+[Nickel](https://github.com/tweag/nickel) & [Doppler](https://www.doppler.com/) are interesting.
 
 ## Links
 
@@ -55,3 +55,4 @@
 - [TOML](https://toml.io/en/) - Tom's Obvious Minimal Language. ([Lobsters](https://lobste.rs/s/mkcjiz/toml_tom_s_obvious_minimal_language))
 - [hcl2json](https://github.com/tmccombs/hcl2json) - Convert from HCL to JSON.
 - [zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to manage environment variables in CLI.
+- [Doppler](https://www.doppler.com/) - Sync environment variables at scale. ([Docs](https://docs.doppler.com/docs)) ([CLI](https://github.com/DopplerHQ/cli))

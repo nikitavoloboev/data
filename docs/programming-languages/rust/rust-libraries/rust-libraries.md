@@ -1768,6 +1768,7 @@
 - [JSON spanned value](https://github.com/MaulingMonkey/json-spanned-value) - Track the origin of your JSON values for better error reporting.
 - [rustrict](https://github.com/finnbear/rustrict) - Sophisticated profanity filter for Rust.
 - [packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs) - Bit-level packing and unpacking for Rust.
+- [moro](https://github.com/nikomatsakis/moro) - Experiments with structured concurrency in Rust.
 
 ## Cargo Plugins
 

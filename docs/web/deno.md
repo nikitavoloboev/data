@@ -220,3 +220,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 - [Merlin](https://github.com/crewdevio/merlin) - Testing and Benchmarking framework for Deno.
 - [Doing It All With Deno (2022)](https://www.sitepen.com/blog/doing-it-all-with-deno) ([Code](https://github.com/SitePen/deno-todos-blog))
 - [Deno Cheat Sheet](https://oscarotero.com/deno/) ([Code](https://github.com/oscarotero/deno-cheatsheet))
+- [Exec](https://github.com/gpasq/deno-exec) - Easy way to execute external scripts.
