@@ -245,3 +245,4 @@ title: React Native
 - [React Native SVG](https://github.com/react-native-svg/react-native-svg) - SVG library for React Native, React Native Web, and plain React web projects.
 - [React Native Turbo Starter](https://github.com/talknagish/react-native-turbo-starter)
 - [Multiple entry points for React Native Storybook (2022)](https://dev.to/dannyhw/multiple-entry-points-for-react-native-storybook-4dkp)
+- [React Native Turbo Secure Storage](https://github.com/ospfranco/turbo-secure-storage) - Turbo-module to securely store data, uses Keychain on iOS and KeyStore on Android.

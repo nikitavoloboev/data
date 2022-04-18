@@ -182,6 +182,7 @@ title: OCaml libraries
 - [ocaml-crunch](https://github.com/mirage/ocaml-crunch) - Convert a filesystem into a static OCaml module.
 - [Ocaml protoc plugin](https://github.com/issuu/ocaml-protoc-plugin)
 - [ocaml-rust](https://github.com/LaurentMazare/ocaml-rust) - Safe OCaml-Rust Foreign Function Interface.
+- [shared-block-ring](https://github.com/mirage/shared-block-ring) - Simple on-disk fixed length queue.
 
 ## Links
 

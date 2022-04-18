@@ -65,3 +65,4 @@ title: Godot
 - [Godot Console](https://github.com/quentincaffeino/godot-console) - In-game console for Godot 3.
 - [DecalCo](https://github.com/Master-J/DecalCo) - Shader based decal solution for the Godot game engine.
 - [Godot Visual Effects](https://github.com/GDQuest/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
+- [ArcadiaGodot](https://github.com/arcadia-unity/ArcadiaGodot) - Integration of the Clojure Programming Language with the Godot game engine.

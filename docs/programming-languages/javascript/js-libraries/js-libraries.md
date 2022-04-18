@@ -978,3 +978,4 @@
 - [Shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports.
 - [Import maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports.
 - [npx ci](https://github.com/privatenumber/ci) - Run npm ci using the appropriate Node package manager (npm, yarn, pnpm).
+- [bug-versions](https://github.com/cnpm/bug-versions) - Collect all bug versions on npm package.

@@ -38,6 +38,7 @@
 - [ZGL](https://github.com/ziglibs/zgl) - Zig OpenGL Bindings.
 - [brucelib](https://github.com/hazeycode/brucelib) - Monorepo of modules for programming cross-platform games, simulations, engines and editors.
 - [Phyz](https://github.com/silversquirl/phyz) - 2D game physics for Zig.
+- [glTF parser](https://github.com/kooparse/zgltf) - glTF 2.0 parser written in Zig, aiming to replace the use of some C/C++ libraries.
 
 ## WASM
 

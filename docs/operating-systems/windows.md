@@ -49,3 +49,4 @@
 - [Windows Defender is enough, if you harden it (2022)](https://0ut3r.space/2022/03/06/windows-defender/) ([HN](https://news.ycombinator.com/item?id=30580444))
 - [The Windows OS needs a change in priorities (2022)](https://den.dev/blog/windows-priority-shuffle/) ([HN](https://news.ycombinator.com/item?id=30747332))
 - [Using Windows after 15 years on Linux (2022)](https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/) ([HN](https://news.ycombinator.com/item?id=30944438))
+- [How to Run Windows 11 on M1 Mac, for Free (2022)](https://osxdaily.com/2022/04/14/how-run-windows-11-m1-mac/)

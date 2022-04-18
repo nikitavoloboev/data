@@ -170,3 +170,4 @@
 - [Design of This Website (2021)](https://www.gwern.net/Design) ([HN](https://news.ycombinator.com/item?id=30928081))
 - [Creating a Zoom UI (2021)](https://www.steveruiz.me/posts/zoom-ui)
 - [Designing dark mode without the headaches (2022)](https://www.shortwave.com/blog/dark-mode/)
+- [Types of Deceptive Design](https://www.deceptive.design/types) ([HN](https://news.ycombinator.com/item?id=31066658))

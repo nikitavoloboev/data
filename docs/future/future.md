@@ -101,3 +101,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [The Future is Vast: Longtermism’s perspective on humanity’s past, present, and future (2022)](https://ourworldindata.org/longtermism)
 - [What does the world look like in a decade if you're wildly successful in your mission?](https://twitter.com/packyM/status/1506990727548575746)
 - [Ask HN: Software with biggest potential for positive impact in 5 years? (2022)](https://news.ycombinator.com/item?id=30829003)
+- [Elon Musk: A future worth getting excited about (2022)](https://www.youtube.com/watch?v=YRvf00NooN8)

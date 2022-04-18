@@ -118,3 +118,4 @@
 - [Interview with Senior JS Developer in 2022](https://www.youtube.com/watch?v=Uo3cL4nrGOk) ([Reddit](https://www.reddit.com/r/programming/comments/t5smoi/js_funny_interview_should_you_learn_jsnopeis/))
 - [Interview with Junior JS Developer in 2022](https://www.youtube.com/watch?v=-9jttTSSDzc)
 - [Anti Putin funny rap](https://twitter.com/STusyaA/status/1505044733936160768)
+- [Midwest FurFest](https://www.youtube.com/watch?v=3RFun58Gt7A)

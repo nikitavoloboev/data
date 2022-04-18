@@ -151,6 +151,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) - Limit-removing enhanced-resolution Doom source port based on Chocolate Doom. ([HN](https://news.ycombinator.com/item?id=29882027))
 - [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
 - [Free Heroes of Might and Magic II](https://github.com/ihhub/fheroes2) - Recreation of HoMM2 game engine.
+- [Cytopia](https://github.com/CytopiaTeam/Cytopia) - Free, open source retro pixel-art city building game with a big focus on mods. ([Web](https://www.cytopia.net/))
 
 ## Awesome games (other)
 

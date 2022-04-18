@@ -368,3 +368,4 @@ title: Node.js
 - [Web standard IO APIs implemented for NodeJS](https://github.com/web-std/io)
 - [c8](https://github.com/bcoe/c8) - Output coverage reports using Node.js' built in coverage.
 - [Node.js 18 Introduces Prefix-Only Core Modules (2022)](https://fusebit.io/blog/node-18-prefix-only-modules/)
+- [Nexe](https://github.com/nexe/nexe) - Create a single executable out of your node.js apps.

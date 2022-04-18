@@ -1761,6 +1761,7 @@
 - [SIMD JSON for Rust](https://github.com/simd-lite/simd-json)
 - [linkmap-rs](https://github.com/everettjf/linkmap-rs) - Linkmap file parse library for rust.
 - [dirs](https://github.com/dirs-dev/dirs-rs) - Low-level library that provides config/cache/data paths.
+- [serde-bridge](https://github.com/Xuanwo/serde-bridge) - Bridge between serde types.
 
 ## Cargo Plugins
 

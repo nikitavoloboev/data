@@ -765,3 +765,4 @@ if err != nil {
 - [Go's use at Google](https://twitter.com/stephr_wong/status/1513502127452311554)
 - [A Study of Real-World Data Races in Go (2022)](https://arxiv.org/abs/2204.00764)
 - [Building a Golang JSON HTTP Server (2021)](https://earthly.dev/blog/golang-http/)
+- [Golang dev with Kubernetes, Helm and Skaffold (2022)](https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/)

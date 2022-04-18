@@ -235,3 +235,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [An Ode to Apple’s Hide My Email (2022)](https://empty.coffee/an-ode-to-apples-hide-my-email/) ([HN](https://news.ycombinator.com/item?id=30979563))
 - [Email OAuth 2.0 Proxy](https://github.com/simonrob/email-oauth2-proxy) - IMAP/SMTP proxy that transparently adds OAuth 2.0 authentication for client applications that don't support this method.
 - [go-milter](https://github.com/emersion/go-milter) - Go library to write mail filters.
+- [Got Your Back (GYB)](https://github.com/GAM-team/got-your-back) - Command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.

@@ -345,3 +345,4 @@
 - [Bintracker](https://github.com/bintracker/bintracker) - Hackable Chiptune Audio Workstation for the 21st Century.
 - [Erased Notes](https://erasednotes.com/) - Creative MIDI Devices for Ableton Live.
 - [MuseScore](https://musescore.org/en) - Free music composition and notation software. ([Code](https://github.com/musescore/MuseScore))
+- [Online music/voice separator based on neural nets](https://mvsep.com/)

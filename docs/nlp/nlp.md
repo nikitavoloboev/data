@@ -2,7 +2,7 @@
 
 [spaCy](https://spacy.io/) & [Fairseq](https://github.com/pytorch/fairseq) are interesting libraries. [Natural Language Processing with Transformers Book](https://transformersbook.com/) is nice book. [Hugging Face NLP Course](https://huggingface.co/course/chapter1/1) is probably the best NLP intro out there.
 
-[DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) is fascinating.
+[DALL·E 2](https://openai.com/dall-e-2/) is fascinating. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
 
 ## Notes
 
@@ -544,3 +544,4 @@
 - [Google's 540B PaLM Language Model & OpenAI's DALL-E 2 Text-to-Image Revolution (2022)](https://www.youtube.com/watch?v=RJwPN4qNi_Y)
 - [Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution (2021)](https://arxiv.org/abs/2106.06361) ([Code](https://github.com/thunlp/BkdAtk-LWS))
 - [Simple and Effective Multi-Paragraph Reading Comprehension (2017)](https://arxiv.org/abs/1710.10723) ([Code](https://github.com/allenai/document-qa))
+- [Researchers Glimpse How AI Gets So Good at Language Processing (2022)](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)

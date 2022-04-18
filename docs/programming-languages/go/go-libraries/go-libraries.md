@@ -1,8 +1,8 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM. [Ristretto](https://github.com/outcaste-io/ristretto) is great cache lib.
 
-- [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
+[Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
 
 ## CLI
 
@@ -474,6 +474,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [satomic](https://github.com/dhui/satomic) - Go package that makes managing nested SQL transactions/savepoints easier.
 - [gorocksdb](https://github.com/applinskinner/gorocksdb) - Go wrapper for RocksDB.
 - [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
+- [pgproto3](https://github.com/jackc/pgproto3) - Encoder and decoder of the PostgreSQL wire protocol version 3. Can be used as a foundation for PostgreSQL drivers, proxies, mock servers, load balancers and more.
 
 ## ML
 

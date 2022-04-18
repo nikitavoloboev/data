@@ -320,6 +320,10 @@
 - [DOMKit](https://github.com/swiftwasm/DOMKit) - Type-safe access to DOM APIs from Swift.
 - [Arachne](https://github.com/artemisia-absynthium/arachne) - Networking layer for apps using Swift Concurrency.
 
+## WASM
+
+- [Web](https://github.com/swifweb/web) - Write your website in pure Swift with power of WebAssembly. DOM, CSS and all the WebAPIs are available out of the box.
+
 ## SwiftUI
 
 - [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca)) ([Tweet](https://twitter.com/pointfreeco/status/1389614299832741891))

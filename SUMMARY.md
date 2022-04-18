@@ -525,6 +525,7 @@
   - [VPN](docs/networking/vpn/vpn.md)
     - [WireGuard](docs/networking/vpn/wireguard.md)
   - [GraphQL](docs/networking/graphql/graphql.md)
+    - [PostGraphile](docs/networking/graphql/postgraphile.md)
     - [Apollo GraphQL](docs/networking/graphql/apollo-graphql.md)
     - [Hasura](docs/networking/graphql/hasura.md)
   - [SSH](docs/networking/ssh.md)

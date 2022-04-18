@@ -16,6 +16,7 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Don't worry about life' uncertainties. It will all be good.](https://twitter.com/SkarSkarSkar/status/1441394710510141448)
 - [At 40, I've done some of the best work I've ever done and my pay has been better than ever. I'm 52 now and the trend has only gotten better. Why? Its because at 40, I had a much deeper understanding of the tech, I understood of the whole business process and I had the maturity to deal with people in a productive way. You won't find all of those in a 25 year old developer. The only way that age becomes a detriment is if you do not grow. I worked with someone my age who only strong skills are a large enterprise storage system. He is a dinosaur and his future is limited. That's not his age, its the way he chose to build is CV. Age is just number guys. Stay current, keep learning and stay strong.](https://news.ycombinator.com/item?id=28757964)
 - [One challenge of people living longer: they cling to power longer, remaining in control of the most important institutions far past peak competency.](https://twitter.com/benhamner/status/1474456394426241029)
+- [Over the years, I have become convinced that much of the observed age-correlated cognitive decline in people younger than ~70 results from voluntary life choices, such as settling into fixed behavioral patterns (e.g. doing the same thing over and over for decades) and lack of exposure to new stimuli. It's the case for some physical activities as well: almost all people's actual performance degrades way, way faster, than their potential peak performance.](https://news.ycombinator.com/item?id=31068388)
 
 ## Links
 
@@ -96,3 +97,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Old Age and Creativity (2022)](https://inference-review.com/article/old-age-and-creativity) ([HN](https://news.ycombinator.com/item?id=30631462))
 - [Turning back the clock: Human skin cells de-aged by 30 years in trial (2022)](https://news.sky.com/story/turning-back-the-clock-human-skin-cells-de-aged-by-30-years-in-trial-12584866) ([HN](https://news.ycombinator.com/item?id=30960470))
 - [The brain expands and shrinks over time](https://www.nature.com/articles/d41586-022-00971-1) ([HN](https://news.ycombinator.com/item?id=31048591))
+- [Mental speed is high until age 60 (2022)](https://www.nature.com/articles/s41562-021-01282-7) ([HN](https://news.ycombinator.com/item?id=31068388))
