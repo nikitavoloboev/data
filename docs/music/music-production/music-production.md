@@ -341,7 +341,7 @@
 - [Live Piano](https://livepiano.ctnicholas.dev/) - Multiplayer live piano built with Liveblocks in React/Next.js. ([Code](https://github.com/CTNicholas/liveblocks-live-piano-next-js))
 - [Nils Frahm demonstrates the Palm Mute Pedal](https://www.youtube.com/watch?v=h0s3Y-dBYgA)
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) ([Code](https://github.com/mdn/webaudio-examples))
-- [Elementary Audio](https://www.elementary.audio/) - Modern platform for writing high performance audio software. ([HN](https://news.ycombinator.com/item?id=30990874))
+- [Elementary Audio](https://www.elementary.audio/) - Modern platform for writing high performance audio software. ([HN](https://news.ycombinator.com/item?id=30990874)) ([Docs](https://www.elementary.audio/docs)) ([Examples](https://elemaudio.github.io/web-examples/)) ([Examples Code](https://github.com/elemaudio/web-examples/))
 - [Bintracker](https://github.com/bintracker/bintracker) - Hackable Chiptune Audio Workstation for the 21st Century.
 - [Erased Notes](https://erasednotes.com/) - Creative MIDI Devices for Ableton Live.
 - [MuseScore](https://musescore.org/en) - Free music composition and notation software. ([Code](https://github.com/musescore/MuseScore))

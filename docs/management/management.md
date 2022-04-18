@@ -196,3 +196,4 @@
 - [The Anatomy of a 1:1 (2022)](https://cate.blog/2022/04/04/the-anatomy-of-a-11/)
 - [Agile and the Long Crisis of Software (2022)](https://logicmag.io/clouds/agile-and-the-long-crisis-of-software/) ([Tweet](https://twitter.com/miriamkp/status/1512141868150116366))
 - [How to give the right amount of context when managing](https://twitter.com/wes_kao/status/1505559811785646086)
+- [Ask HN: How does Apple achieve both secrecy and quality for a release? (2022)](https://news.ycombinator.com/item?id=31073754)

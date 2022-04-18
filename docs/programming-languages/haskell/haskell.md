@@ -408,3 +408,4 @@ title: Haskell
 - [From Partitions to Wordle - Type Safety with Phantom Types (2022)](https://www.morrowm.com/posts/2022-04-04-phantom.html)
 - [Categorifier](https://github.com/con-kitty/categorifier) - Defining novel interpretations of Haskell programs.
 - [Applied Haskell Syllabus](https://www.fpcomplete.com/haskell/syllabus/)
+- [stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier.

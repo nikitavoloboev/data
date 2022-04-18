@@ -183,6 +183,7 @@ title: OCaml libraries
 - [Ocaml protoc plugin](https://github.com/issuu/ocaml-protoc-plugin)
 - [ocaml-rust](https://github.com/LaurentMazare/ocaml-rust) - Safe OCaml-Rust Foreign Function Interface.
 - [shared-block-ring](https://github.com/mirage/shared-block-ring) - Simple on-disk fixed length queue.
+- [ocaml-protoc](https://github.com/mransan/ocaml-protoc) - Protobuf Compiler for OCaml.
 
 ## Links
 

@@ -951,3 +951,4 @@
 - [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html) ([HN](https://news.ycombinator.com/item?id=31038996))
 - [conda-tree](https://github.com/rvalieris/conda-tree) - Conda dependency tree helper.
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file.
+- [autoflake8](https://github.com/fsouza/autoflake8) - Removes unused imports and unused variables from Python code.

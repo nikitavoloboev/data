@@ -51,3 +51,4 @@ title: Fastify
 - [fastify-isolate](https://github.com/mcollina/fastify-isolate) - Loads a fastify plugin into a separate V8 isolate.
 - [GraphQL Fastify Server](https://github.com/rpvsilva/graphql-fastify-server) - Implementation of GraphQL.
 - [GraphQL Fastify Client](https://github.com/rpvsilva/graphql-fastify-client)
+- [Fastify Redis Cache](https://github.com/d3or/fastify-redis-cache) - Example repo for setting up cache with fastify and redis.

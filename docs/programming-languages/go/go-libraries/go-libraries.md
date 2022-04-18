@@ -328,6 +328,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.
 - [Tutone](https://github.com/newrelic/tutone) - Generate Go types from GraphQL schema introspection.
 - [go-graphql](https://github.com/mjarkk/go-graphql) - Different approach to making graphql servers in Go.
+- [fluentgraphql](https://github.com/mergestat/fluentgraphql) - Fluent GraphQL client library in Go.
 
 ## Flag parsing
 

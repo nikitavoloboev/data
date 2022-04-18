@@ -328,3 +328,4 @@
 - [To what extent can Rust be used for Machine Learning? (2022)](https://www.reddit.com/r/MachineLearning/comments/u3bu3e/d_to_what_extent_can_rust_be_used_for_machine/)
 - [Vectorflow](https://github.com/Netflix/vectorflow) - Minimalist neural network library optimized for sparse data and single machine environments.
 - [D2Go](https://github.com/facebookresearch/d2go) - Toolkit for efficient deep learning.
+- [Slideflow](https://github.com/jamesdolezal/slideflow) - Deep learning pipeline for histology image analysis, with both Tensorflow and PyTorch support.

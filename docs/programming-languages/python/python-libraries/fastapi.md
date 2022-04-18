@@ -21,3 +21,4 @@ title: FastAPI
 - [FastAPI Tag](https://github.com/yezz123/fastapi-tag) - Documented & Enhance the Metadata of your API.
 - [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities on top of FastAPI.
 - [FastAPI Microservice Patterns (2020)](https://florian-kromer.medium.com/fastapi-microservice-patterns-3052c1241019) ([Code](https://github.com/fkromer/fastapi-microservice-patterns))
+- [FastAPI with Observability](https://github.com/Blueswen/fastapi-observability) - Telemetry FastAPI application with three pillars of observability on Grafana.

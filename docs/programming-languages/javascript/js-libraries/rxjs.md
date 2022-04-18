@@ -24,3 +24,4 @@ title: RxJS
 - [Media Queries with RxJS (2021)](https://notiz.dev/blog/media-observable)
 - [RxSandbox](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
 - [Awesome RxJS](https://github.com/ichpuchtli/awesome-rxjs)
+- [React-RxJS](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS.
