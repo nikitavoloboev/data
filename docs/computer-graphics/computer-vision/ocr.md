@@ -35,3 +35,4 @@ title: Optical character recognition
 - [scan2drive](https://github.com/stapelberg/scan2drive) - Go program (with a web interface) for scanning, converting and uploading physical documents to Google Drive.
 - [docTR](https://github.com/mindee/doctr) - Optical Character Recognition made seamless & accessible to anyone, powered by TensorFlow 2 & PyTorch.
 - [RapidOCR](https://github.com/RapidAI/RapidOCR) - Cross platform OCR Library based on PaddleOCR & OnnxRuntime.
+- [meme_finder](https://github.com/mwaitzman/meme_finder) - Find locally-saved memes via their meme text using OCR. Written in Rust.

@@ -172,3 +172,4 @@ title: RISC-V
 - [JavaScript RISC-V ISA Simulator. Boots Linux in a web-browser](https://github.com/riscv-software-src/riscv-angel)
 - [RVScript](https://github.com/fwsGonzo/rvscript) - Fast RISC-V-based scripting backend for game engines.
 - [Opening a UDP Socket in RISC-V Assembly (2022)](https://danielmangum.com/risc-v-tips/2022-05-14-opening-a-udp-socket-risc-v/)
+- [RISC-V Torture Test](https://github.com/ucb-bar/riscv-torture)

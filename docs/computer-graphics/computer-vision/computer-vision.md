@@ -722,3 +722,6 @@
 - [PolarMask: Single Shot Instance Segmentation with Polar Representation (2019)](https://arxiv.org/abs/1909.13226) ([Code](https://github.com/xieenze/PolarMask))
 - [Latent Video Transformer (2020)](https://arxiv.org/abs/2006.10704) ([Code](https://github.com/rakhimovv/lvt))
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (2020)](https://arxiv.org/abs/2003.08934) ([JAX Code](https://github.com/unixpickle/learn-nerf))
+- [A Latent Transformer for Disentangled Face Editing in Images and Videos (2021)](https://arxiv.org/abs/2106.11895) ([Code](https://github.com/InterDigitalInc/latent-transformer))
+- [Photorealistic Style Transfer via Wavelet Transforms (2019)](https://arxiv.org/abs/1903.09760) ([Code](https://github.com/clovaai/WCT2))
+- [Probing ViTs](https://github.com/sayakpaul/probing-vits)

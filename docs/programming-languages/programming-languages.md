@@ -349,3 +349,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [CodeImage](https://codeimage.dev/) - Create elegant screenshots of your source code. ([Code](https://github.com/riccardoperra/codeimage))
 - [Course on Metaprogramming](https://github.com/namin/metaprogramming)
 - [Germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code.
+- [10 papers that all PhD students in programming languages ought to know](https://github.com/nuprl/10PL)

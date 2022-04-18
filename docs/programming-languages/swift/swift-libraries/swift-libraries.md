@@ -1,6 +1,6 @@
 # Swift libraries
 
-[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets.
+[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets. [Cache](https://github.com/hyperoslo/Cache) is nice lib for caching.
 
 ## CLI
 
@@ -486,6 +486,7 @@
 - [Color Kit](https://github.com/kieranb662/SwiftUI-Color-Kit) - SwiftUI Color Pickers, Gradient Pickers And All The Utilities Needed To Make Your Own.
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [TextView](https://github.com/SwiftUI-Plus/TextView) - SwiftUI multi-line TextView implementation including support for auto-sizing. (iOS).
+- [SwiftTipJar](https://github.com/dkasaj/SwiftTipJar) - Swift package that lets you have a tip jar running in minutes.
 
 ## Test
 
@@ -541,6 +542,7 @@
 - [Cirrus](https://github.com/jayhickey/Cirrus) - Simple CloudKit sync for Codable Swift models.
 - [Swift ORM](https://github.com/prisma-ai/Sworm) - CoreData based Swift ORM.
 - [RapidLMDB](https://github.com/tannerdsilva/RapidLMDB) - Fast and efficient LMDB wrapper for Swift.
+- [supabase-swift](https://github.com/supabase-community/supabase-swift) - Swift client for Supabase.
 
 ## Graphics
 

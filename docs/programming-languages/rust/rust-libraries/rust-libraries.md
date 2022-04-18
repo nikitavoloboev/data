@@ -47,6 +47,7 @@
 - [Modern Terminal](https://github.com/kamadorueda/modern-terminal) - Rust library for rich text and beautiful formatting.
 - [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [Canopy](https://github.com/cortesi/canopy) - Terminal UI library for Rust.
+- [Rustea](https://github.com/lazops/rustea) - Easy-to-use TUI crate for Rust, based off of the Elm architecture.
 
 ## Web
 
@@ -394,6 +395,8 @@
 - [Coppers](https://github.com/ThijsRay/coppers) - Custom test harnass for Rust that measures the energy usage of your test suite. ([HN](https://news.ycombinator.com/item?id=30918318))
 - [libtest-mimic](https://github.com/LukasKalbertodt/libtest-mimic) - Write your own test harness that looks and behaves like the built-in test harness.
 - [arbtest](https://github.com/matklad/arbtest) - Minimalist property-based testing library.
+- [Fazi](https://github.com/landaire/fazi) - Drop-in replacement for libfuzzer.
+- [serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialized Rust tests.
 
 ## Error
 
@@ -1949,3 +1952,4 @@
 - [Check Rust docs with GitHub actions (2022)](http://www.gadom.ski/2022/02/24/check-docs-rust.html)
 - [ffi-gen](https://github.com/cloudpeers/ffi-gen) - Call rust from any language.
 - [Is Rust Web Yet?](https://www.arewewebyet.org/) ([Code](https://github.com/rust-lang/arewewebyet)) ([HN](https://news.ycombinator.com/item?id=24940650)) ([HN](https://news.ycombinator.com/item?id=31056433))
+- [Rust Web Framework Benchmarks](https://github.com/programatik29/rust-web-benchmarks)

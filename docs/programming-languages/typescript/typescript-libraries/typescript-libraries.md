@@ -469,6 +469,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Monadic Event Stream](https://github.com/mostjs/core) - High-performance reactive event stream programming that powers Most.
 - [lazy](https://github.com/ricokahler/lazy) - Small, useful set of methods for lazy iteration of iterables.
 - [untyped](https://github.com/unjs/untyped) - Generate types and markdown from a config object.
+- [scroll-snap](https://github.com/lucafalasco/scroll-snap) - Snap page when user stops scrolling, with a customizable configuration and a consistent cross browser behavior.
+- [Google Maps JavaScript API Loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
 
 ## Links
 

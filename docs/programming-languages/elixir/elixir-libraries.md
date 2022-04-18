@@ -30,6 +30,7 @@
 - [Riverside](https://github.com/lyokato/riverside) - Plain WebSocket Server Framework for Elixir.
 - [ElixirRetry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 - [Webhoox](https://github.com/cpursley/webhoox) - Deal with inbound webhooks.
+- [Hologram](https://github.com/bartblast/hologram) - Full stack isomorphic Elixir web framework that can be used on top of Phoenix.
 
 ## DB
 

@@ -109,3 +109,4 @@
 - [Segment Trees](https://en.algorithmica.org/hpc/data-structures/segment-trees/)
 - [Functional Queues](https://vfoley.xyz/functional-queues/)
 - [Data Structures and Algorithms in Go](https://github.com/paliimx/Data-Structures-and-Algorithms)
+- [Roaring Bitmaps](https://roaringbitmap.org/) - Compressed bitmaps. They can be hundreds of times faster.

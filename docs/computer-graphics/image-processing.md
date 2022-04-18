@@ -176,3 +176,4 @@
 - [Image Similarity Measures](https://github.com/up42/image-similarity-measures) - Implementation of eight evaluation metrics to access the similarity between two images.
 - [Toolbox repository to help evaluate various methods that perform image matching from a pair of images](https://github.com/GrumpyZhou/image-matching-toolbox)
 - [SSIM.JS](https://github.com/obartra/ssim) - JavaScript Image Comparison.
+- [Imger](https://github.com/Ernyoke/Imger) - Collection of image processing algorithms written in pure Go.

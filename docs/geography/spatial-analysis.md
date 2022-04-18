@@ -186,3 +186,4 @@ title: Spatial analysis
 - [Overpass Turbo](https://overpass-turbo.eu/) - GUI for testing and developing queries for the Overpass-API. ([Code](https://github.com/tyrasd/overpass-turbo))
 - [Overpass API](http://overpass-api.de/) - Database engine to query the OpenStreetMap data. ([Code](https://github.com/drolbr/Overpass-API))
 - [Himawari 8](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite.
+- [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) - Julia Protocol for Geospatial Data.

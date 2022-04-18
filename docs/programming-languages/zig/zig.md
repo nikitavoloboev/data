@@ -4,6 +4,8 @@ title: Zig
 
 # [Zig](https://ziglang.org/)
 
+[Ziglings](https://github.com/ratfactor/ziglings) is nice for learning.
+
 ## Notes
 
 - [Zig compiler pipeline is: tokenize -> parse -> astgen -> sema -> codegen](https://twitter.com/andy_kelley/status/1388268643075563520)

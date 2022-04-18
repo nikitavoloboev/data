@@ -386,3 +386,4 @@
 - [Building a stateless API proxy (2019)](https://blog.thea.codes/building-a-stateless-api-proxy/) ([Tweet](https://twitter.com/simonw/status/1515304201013764101))
 - [Request](https://github.com/aiocat/request) - Open-source api development application for minimalists.
 - [Fusebit](https://fusebit.io/) - Build integrations for your app with ease.
+- [OpenAPI Validator](https://github.com/IBM/openapi-validator) - Configurable and extensible validator/linter for OpenAPI documents.

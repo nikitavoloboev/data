@@ -127,3 +127,4 @@
 - [Anatomy of an AI System](https://anatomyof.ai/)
 - [The singularity is close? (2022)](https://mkaic.substack.com/p/the-singularity-is-very-close?s=r) ([HN](https://news.ycombinator.com/item?id=30871775))
 - [AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting (2021)](https://arxiv.org/abs/2103.14023) ([Code](https://github.com/Khrylx/AgentFormer))
+- [Off Belief Learning (2022)](https://ai.facebook.com/blog/teaching-ai-to-be-more-collaborative-with-humans-without-learning-directly-from-them/)

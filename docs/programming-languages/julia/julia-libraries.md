@@ -566,6 +566,7 @@
 - [LineSearches](https://github.com/JuliaNLSolvers/LineSearches.jl) - Line search methods for optimization and root-finding.
 - [SimpleChains](https://github.com/PumasAI/SimpleChains.jl) - Only supports simple chains, but it intends to be fast for small problems on the CPU.
 - [REPLTreeViews.jl](https://github.com/pfitzseb/REPLTreeViews.jl) - Provides an experimental macro to interactively show complex data structures in the REPL.
+- [Tricks](https://github.com/oxinabox/Tricks.jl) - Cunning tricks though the Julia compiler internals.
 
 ## Links
 

@@ -206,3 +206,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [spotify-mini](https://github.com/rocktimsaikia/spotify-mini) - Tiny Spotify client for node.js exposing some useful methods to get your latest Spotify status.
 - [OneTagger](https://github.com/Marekkon5/onetagger) - Cross-platform music tagger written in Rust, Vue.js and Quasar.
 - [Spotify Song Recommender](https://github.com/BobbyWilt/Spotify_Song_Recommender)
+- [Colibri Lossless](https://colibri-lossless.com/) - Mac Music & Audio Player - FLAC, DSD, BS2B, Gapless.

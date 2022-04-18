@@ -326,3 +326,4 @@
 - [Transformer PhysX](https://github.com/zabaras/transformer-physx) - Transformers for modeling physical systems.
 - [Feathr](https://github.com/linkedin/feathr) - Enterprise-Grade, High Performance Feature Store. ([Article](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m))
 - [To what extent can Rust be used for Machine Learning? (2022)](https://www.reddit.com/r/MachineLearning/comments/u3bu3e/d_to_what_extent_can_rust_be_used_for_machine/)
+- [Vectorflow](https://github.com/Netflix/vectorflow) - Minimalist neural network library optimized for sparse data and single machine environments.

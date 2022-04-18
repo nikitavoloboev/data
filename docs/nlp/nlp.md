@@ -545,3 +545,5 @@
 - [Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution (2021)](https://arxiv.org/abs/2106.06361) ([Code](https://github.com/thunlp/BkdAtk-LWS))
 - [Simple and Effective Multi-Paragraph Reading Comprehension (2017)](https://arxiv.org/abs/1710.10723) ([Code](https://github.com/allenai/document-qa))
 - [Researchers Glimpse How AI Gets So Good at Language Processing (2022)](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)
+- [Cornell Conversational Analysis Toolkit (ConvoKit)](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Toolkit for extracting conversational features and analyzing social phenomena in conversations.
+- [UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models (2022)](https://arxiv.org/abs/2201.05966) ([Code](https://github.com/HKUNLP/UnifiedSKG))

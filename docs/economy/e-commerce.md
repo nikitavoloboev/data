@@ -147,3 +147,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Fairify](https://www.fairify.io/) - Sustainable shopping made easy.
 - [Bolt](https://www.bolt.com/) - Makes Ecommerce better with One-Click Checkout and CheckoutOS.
 - [Replo](https://www.replo.app/) - Shopify pages without the dev time.
+- [Trove](https://trove.co/) - Do the hard work behind Circular Shopping.

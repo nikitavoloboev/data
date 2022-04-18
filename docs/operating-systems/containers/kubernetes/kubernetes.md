@@ -644,7 +644,7 @@ title: Kubernetes
 - [Knative Reconciler Test](https://github.com/knative-sandbox/reconciler-test) - Behavior driven reconciler testing framework.
 - [KUTTL](https://github.com/kudobuilder/kuttl) - Designed for testing operators, however it can declaratively test any kubernetes objects.
 - [KET](https://github.com/riita10069/ket) - Simplest testing framework for Kubernetes controller.
-- [Pixie](https://px.dev/) - Kubernetes Monitoring, Application Debug Platform.
+- [Pixie](https://px.dev/) - Kubernetes Monitoring, Application Debug Platform. ([Demos](https://github.com/pixie-io/pixie-demos))
 - [Reloaderai](https://github.com/stakater/Reloader) - Kubernetes controller to watch changes in ConfigMap and Secrets.
 - [Speed Limits for Rolling Restarts in Kubernetes (2021)](https://alexklibisz.com/2021/07/20/speed-limits-for-rolling-restarts-in-kubernetes.html)
 - [ktail](https://github.com/atombender/ktail) - Tool to easily tail Kubernetes logs.

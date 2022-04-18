@@ -107,3 +107,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [tonari's Notion-backed blog](https://github.com/tonarino/blog)
 - [Notion Draw](https://github.com/nickzuber/notion-draw)
 - [Notion Utils](https://github.com/iansinnott/notion-utils)
+- [arXiv to Notion](https://github.com/wangjksjtu/arxiv2notionplus)

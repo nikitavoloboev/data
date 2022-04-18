@@ -33,6 +33,7 @@
 - [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.
 - [Slick](https://github.com/slick/slick) - Modern database query and access library for Scala. Allows you to work with stored data almost as if you were using Scala collections. ([Web](https://scala-slick.org/))
 - [redis4cats](https://github.com/profunktor/redis4cats) - Redis client built on top of Cats Effect, Fs2 and Lettuce.
+- [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Scala Native wrapper of the SQLite C library.
 
 ## Math
 

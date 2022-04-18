@@ -32,3 +32,4 @@ title: Unity
 - [r2modman](https://github.com/ebkr/r2modmanPlus) - Simple and easy to use mod manager for several Unity games using Thunderstore.
 - [Hyper-realistic digital humans in Unity](https://unity.com/demos/enemies) ([HN](https://news.ycombinator.com/item?id=30769560))
 - [Facebook SDK for Unity](https://github.com/facebook/facebook-sdk-for-unity)
+- [Unity Fur Shader](https://github.com/Sorumi/UnityFurShader)

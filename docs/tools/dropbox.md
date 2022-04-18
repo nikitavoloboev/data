@@ -27,3 +27,4 @@ I also use Dropbox for sharing configuration of various apps.
 - [Replacing Dropbox in favor of DigitalOcean spaces (2021)](https://mitjafelicijan.com/replacing-dropbox-in-favor-of-digitalocean-spaces.html) ([HN](https://news.ycombinator.com/item?id=25909336))
 - [Maestral](https://maestral.app/) - Open source Dropbox client. ([Code](https://github.com/samschott/maestral)) ([HN](https://news.ycombinator.com/item?id=30831214))
 - [Dropbox Sync does not natively support Apple Silicon](https://twitter.com/mitchellh/status/1453394500848537605) ([Reddit](https://www.reddit.com/r/apple/comments/qh6or2/dropbox_doesnt_support_apple_silicon_natively_yet/)) ([HN](https://news.ycombinator.com/item?id=29026304)) ([Tweet](https://twitter.com/marcoarment/status/1453735403626766341))
+- [git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - Transparent bidirectional bridge between Git and Dropbox.

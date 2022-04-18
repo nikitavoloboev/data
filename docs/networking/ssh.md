@@ -113,3 +113,4 @@
 - [Tunnel-SSH](https://github.com/agebrock/tunnel-ssh) - Easy SSH tunneling.
 - [Warpgate](https://github.com/Eugeny/warpgate) - Smart SSH bastion host for Linux that can be used with any SSH client.
 - [ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - Democratic SSH certificate authority.
+- [Trove's SSH Bastion](https://github.com/notion/bastion)

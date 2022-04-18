@@ -50,3 +50,4 @@
 - [Little Planet Procedural](https://github.com/alan-luo/planetprocedural) - 2d procedural planet generator inspired by No Man's Sky.
 - [City Generator](https://watabou.github.io/city-generator/) ([HN](https://news.ycombinator.com/item?id=30338074))
 - [Pixray](https://github.com/pixray/pixray) - Image generation system.
+- [Terrain generation experiment](https://github.com/kettle11/open_world_game)

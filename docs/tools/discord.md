@@ -48,6 +48,8 @@ title: Discord
 - [discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - Simple discord bot that helps you getting started within discord.py.
 - [nextcord](https://github.com/alii/nextcord) - TypeScript serverless Discord bot using Next.js.
 - [imgdl](https://github.com/Fyko/imgdl-bot) - Discord bot to recursively download images from a Discord channel.
+- [DoseBot](https://github.com/dosebotredux/DosebotRedux) - Harm reduction Discord bot, used to provide users with a variety of useful harm reduction information from PsychonautWiki.
+- [RaidProtect](https://github.com/raidprotect/raidprotect) - Moderate your Discord server easily.
 
 ## Libraries
 

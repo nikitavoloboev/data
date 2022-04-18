@@ -551,3 +551,4 @@
 - [Write Errors That Don't Make Me Think (2020)](https://docs.temporal.io/blog/error-message-design/)
 - [Errors are constructed, not discovered (2022)](https://ferd.ca/errors-are-constructed-not-discovered.html)
 - [Programming Study Path](https://github.com/joebew42/study-path)
+- [Complexity and Granularity (2014)](https://caseymuratori.com/blog_0016)

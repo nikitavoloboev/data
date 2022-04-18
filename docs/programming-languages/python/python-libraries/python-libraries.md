@@ -58,6 +58,7 @@
 - [WARCIO](https://github.com/webrecorder/warcio) - Streaming WARC/ARC library for fast web archive IO.
 - [Warctools](https://github.com/internetarchive/warctools) - Command line tools and libraries for handling and manipulating WARC files (and HTTP contents).
 - [OpenAPI Spec validator](https://github.com/p1c2u/openapi-spec-validator)
+- [Uplink](https://github.com/prkumar/uplink) - Declarative HTTP Client for Python.
 
 ## ML
 
@@ -138,6 +139,7 @@
 - [ArgBind](https://github.com/pseeth/argbind) - Build CLIs via docstrings and type annotations, with YAML support.
 - [targ](https://github.com/piccolo-orm/targ) - Build a Python CLI for your app, just using type hints and docstrings.
 - [rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with Rich.
+- [Rich CLI](https://github.com/Textualize/rich-cli) - Command line toolbox for fancy output in the terminal.
 
 ## DB
 
@@ -829,6 +831,7 @@
 - [Parsing](https://github.com/MagicStack/parsing) - Implements an LR(1) parser generator, as well as the runtime support for using a generated parser, via the Lr and Glr parser drivers.
 - [Dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Module that helps you to diff and patch dictionaries.
 - [Norbert](https://github.com/sigsep/norbert) - Painless Wiener filters for audio separation.
+- [titus-isolate](https://github.com/Netflix-Skunkworks/titus-isolate) - Enables the isolated and efficient use of compute resources in a multi-tenant container environment.
 
 ## Links
 
@@ -947,3 +950,4 @@
 - [pylint_runner](https://github.com/MasterOdin/pylint_runner) - Python module that recursively runs pylint on python files in current directory and any sub-directories.
 - [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html) ([HN](https://news.ycombinator.com/item?id=31038996))
 - [conda-tree](https://github.com/rvalieris/conda-tree) - Conda dependency tree helper.
+- [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file.
