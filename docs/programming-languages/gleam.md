@@ -33,3 +33,4 @@
 - [httpc](https://github.com/gleam-lang/httpc) - Make requests to HTTP servers with httpc.
 - [Elli](https://github.com/gleam-lang/elli) - Gleam HTTP service adapter for the Elli web server.
 - [ids](https://github.com/rvcas/ids) - Unique IDs for Gleam.
+- [mist](https://github.com/rawhat/mist) - Nice, basic gleam web server.

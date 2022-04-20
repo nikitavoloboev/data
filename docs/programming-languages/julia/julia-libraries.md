@@ -90,6 +90,7 @@
 - [Yota.jl](https://github.com/dfdx/Yota.jl) - Reverse-mode automatic differentiation in Julia.
 - [DLPack.jl](https://github.com/pabloferz/DLPack.jl) - Julia wrapper for DLPack.
 - [ConstraintLearning](https://github.com/JuliaConstraints/ConstraintLearning.jl) - Julia package for people that love to learn new things about constraints.
+- [FluxPrune](https://github.com/darsnack/FluxPrune.jl) - Pruning framework and methods for Flux.
 
 ## Math
 
@@ -568,6 +569,7 @@
 - [SimpleChains](https://github.com/PumasAI/SimpleChains.jl) - Only supports simple chains, but it intends to be fast for small problems on the CPU.
 - [REPLTreeViews.jl](https://github.com/pfitzseb/REPLTreeViews.jl) - Provides an experimental macro to interactively show complex data structures in the REPL.
 - [Tricks](https://github.com/oxinabox/Tricks.jl) - Cunning tricks though the Julia compiler internals.
+- [Parameters](https://github.com/mauro3/Parameters.jl) - Types with default field values, keyword constructors and (un-)pack macros.
 
 ## Links
 

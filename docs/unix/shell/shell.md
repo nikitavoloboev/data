@@ -217,3 +217,4 @@ All active variables can be seen by running `env`.
 - [asciinema-rs](https://github.com/LegNeato/asciinema-rs) - Asciinema client written in Rust.
 - [Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)
 - [ACME Shell script: acme.sh](https://github.com/acmesh-official/acme.sh) - Pure Unix shell script implementing ACME client protocol.
+- [The Front-End Developer's Guide to the Terminal (2022)](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)

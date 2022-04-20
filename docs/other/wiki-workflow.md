@@ -1,8 +1,8 @@
 # My workflow in writing and maintaining this wiki
 
-The entire wiki is one folder that you can find on [GitHub](https://github.com/nikitavoloboev/knowledge). It has many folders with subfolders or entries inside.
+The entire wiki is open source on [GitHub](https://github.com/nikitavoloboev/knowledge). Everything is [authored with markdown](https://github.com/nikitavoloboev/knowledge/tree/main/docs). On every commit, [Vercel](https://vercel.com) that is hooked up to the GitHub repo runs [Docusaurus](https://docusaurus.io) and new version of wiki is published.
 
-The order with which GitBook renders the files in the sidebar to your left is defined in [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md).
+The order of items in sidebar is alphabetical. Previously I used [GitBook](https://www.gitbook.com/) for publishing and that used [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md) file for custom order of items in sidebar.
 
 I write and edit all the markdown files in this wiki from [Sublime Text](../text-editors/sublime-text/sublime-text.md) with [Vim mode](https://github.com/guillermooo/Six).
 
@@ -14,15 +14,17 @@ This workflow also searches through all folders in this wiki and lets me create 
 
 I also wrote a [comment that goes in more detail over the ways I update the wiki](https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki#c_vczr1n).
 
+I use [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) to search for wiki entry to open/share. I plan to improve this system a lot going forward.
+
 ## Editing on iOS
 
-I place this [knowledge](https://github.com/nikitavoloboev/knowledge) folder in Dropbox. Then I use [Ulysses](https://ulyssesapp.com) iOS app to edit this entire wiki from the app by adding it as an external folder. Ulysses indexes the entire wiki so I can jump to any file in the folder in seconds and make an edit.
+I open the [docs part of the GitHub repo](https://github.com/nikitavoloboev/knowledge/tree/main/docs) folder in [Obsidian Mobile](https://obsidian.md/mobile). This lets me edit the wiki on the go. Most times I write messages to myself on Telegram and transfer it later to my wiki on mac.
 
-I can't however push changes live from iOS so I do that from mac.
+## Making notes on books/papers
 
-## Making notes on books
+When reading books/papers, I annotate PDF files with [Preview](https://en.wikipedia.org/wiki/Preview_(macOS)) and ePub files with [Books app](https://www.apple.com/apple-books/). Once I read the book/paper I transfer the annotations to the markdown file and connect the file to wiki. I often write a review on Goodreads and add the review and notes I made to [books](../books/books.md).
 
-When reading books, I annotate over the PDF with [PDF Expert](https://pdfexpert.com). Once I read the book I transfer the annotations to the markdown file and connect the file to wiki. Then write a review on Goodreads and add the review and notes I made to [books](../books/books.md).
+This system needs improvement though and I want to try using [Readwise](https://readwise.io/) and more automation for both reading things more efficiently and taking notes.
 
 ## Using this wiki
 

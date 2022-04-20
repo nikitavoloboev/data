@@ -114,3 +114,5 @@
 - [Warpgate](https://github.com/Eugeny/warpgate) - Smart SSH bastion host for Linux that can be used with any SSH client.
 - [ssh-cert-authority](https://github.com/cloudtools/ssh-cert-authority) - Democratic SSH certificate authority.
 - [Trove's SSH Bastion](https://github.com/notion/bastion)
+- [sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python.
+- [Working Remotely? Pair SSH with Teleport (2022)](https://haydenjames.io/working-remotely-pair-ssh-with-teleport/) ([HN](https://news.ycombinator.com/item?id=31061905))

@@ -48,3 +48,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [ProsePainter](https://www.prosepainter.com/) - Tool to 'paint with words'. ([Tweet](https://twitter.com/StudioMorphogen/status/1496578337791045632))
 - [Pixel Art Together](https://pixelart.liveblocks.app/) - Multiplayer pixel art editor powered by Liveblocks. ([Code](https://github.com/liveblocks/pixel-art-together))
 - [One-line drawings (2022)](https://schollz.com/blog/one-line/)
+- [Real reason why you can’t paint loosely yet](https://www.youtube.com/watch?v=GAsiyybzu2Q)

@@ -52,3 +52,5 @@ title: Signal processing
 - [A Crash Course in the Fundamentals of Audio (2010)](http://www.co-bw.com/Index_Audio_Course.htm)
 - [HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement (2022)](https://arxiv.org/abs/2203.13086) ([Code](https://github.com/rishikksh20/HiFiplusplus-pytorch))
 - [HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection (2022)](https://arxiv.org/abs/2202.00874) ([Code](https://github.com/RetroCirce/HTS-Audio-Transformer))
+- [Universal's Audible Watermark](https://www.mattmontag.com/music/universals-audible-watermark) ([HN](https://news.ycombinator.com/item?id=31080999))
+- [Deep Learning for Audio (DLA)](https://github.com/markovka17/dla)

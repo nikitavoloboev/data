@@ -107,3 +107,4 @@
 - [BrainGB](https://github.com/HennyJie/BrainGB) - Unified, modular, scalable, and reproducible framework established for brain network analysis with GNNs. ([Web](https://brainnet.us/))
 - [Equilibrium Aggregation (2022)](https://fabianfuchsml.github.io/equilibriumaggregation/)
 - [Awesome resources on Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks)
+- [Graph Neural Networks with convolutional ARMA filters (2021)](https://arxiv.org/abs/1901.01343) ([Code](https://github.com/xnuohz/ARMA-dgl))

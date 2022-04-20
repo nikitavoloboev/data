@@ -303,6 +303,7 @@
 - [Selecto.js](https://github.com/daybrush/selecto) - Component that allows you to select elements in the drag area using the mouse or touch.
 - [React RND](https://github.com/bokuweb/react-rnd) - Resizable and draggable component for React.
 - [React Motion Router](https://github.com/nxtexe/react-motion-router) - Declarative routing library for React with page transitions and animations.
+- [React Square Web Payments SDK](https://github.com/weareseeed/react-square-web-payments-sdk) - Easily create PCI-compliant inputs to accept payments online with the Square Payments API.
 
 ## Links
 

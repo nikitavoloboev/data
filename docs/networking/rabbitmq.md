@@ -31,3 +31,4 @@ title: RabbitMQ
 - [Rabbit](https://github.com/nsweeting/rabbit) - Build Elixir applications with RabbitMQ.
 - [Using a High-Level RabbitMQ Client in Go (2021)](https://qvault.io/golang/connecting-to-rabbitmq-in-golang-easy/)
 - [AMQPStorm](https://github.com/eandersson/amqpstorm) - Thread-safe Python RabbitMQ Client & Management library.
+- [Messaging with RabbitMQ :: Learn how to create a simple publish-and-subscribe application with Spring and RabbitMQ](https://github.com/spring-guides/gs-messaging-rabbitmq)

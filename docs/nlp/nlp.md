@@ -4,6 +4,8 @@
 
 [DALL·E 2](https://openai.com/dall-e-2/) is fascinating. Trying to understand [DALL-E in PyTorch](https://github.com/lucidrains/DALLE-pytorch) implementation.
 
+[Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/) is a nice intro.
+
 ## Notes
 
 - [Figuring out correctly when/what to escalate to a human would change customer service more than anything else.](https://twitter.com/_abhisheksankar/status/1441793453864620044)
@@ -547,3 +549,6 @@
 - [Researchers Glimpse How AI Gets So Good at Language Processing (2022)](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)
 - [Cornell Conversational Analysis Toolkit (ConvoKit)](https://github.com/CornellNLP/Cornell-Conversational-Analysis-Toolkit) - Toolkit for extracting conversational features and analyzing social phenomena in conversations.
 - [UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models (2022)](https://arxiv.org/abs/2201.05966) ([Code](https://github.com/HKUNLP/UnifiedSKG))
+- [exBERT](https://github.com/bhoov/exbert) - Visual Analysis Tool to Explore Learned Representations in Transformers Models.
+- [How DALL-E 2 Works (2022)](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) ([HN](https://news.ycombinator.com/item?id=31084312))
+- [Getting started with NLP for absolute beginners (2022)](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/)

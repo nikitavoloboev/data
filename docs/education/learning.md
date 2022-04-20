@@ -209,3 +209,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Awesome Concepts](https://github.com/lukasz-madon/awesome-concepts) - Awesome list about all kinds of interesting topics: Laws, Principles, Mental Models, Cognitive Biases.
 - [Ask HN: I'm interested in so many disciplines, but what can I do with that? (2022)](https://news.ycombinator.com/item?id=30928105)
 - [Ask HN: Have you invested in self-development and done inner work? (2022)](https://news.ycombinator.com/item?id=30931979)
+- [What's your favorite Wikipedia page?](https://twitter.com/waitbutwhy/status/1516503921849561088)

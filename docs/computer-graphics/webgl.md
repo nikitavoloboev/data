@@ -94,3 +94,4 @@
 - [WebGl 2D Scatterplot with Regl](https://github.com/flekschas/regl-scatterplot)
 - [WebGL Usage Patterns at Squarespace (2022)](https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw)
 - [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu/) ([HN](https://news.ycombinator.com/item?id=30965352))
+- [glMatrix](https://github.com/toji/gl-matrix) - JavaScript Matrix and Vector library for High Performance WebGL apps.

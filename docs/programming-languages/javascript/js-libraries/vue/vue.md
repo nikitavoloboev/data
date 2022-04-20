@@ -153,3 +153,4 @@ title: Vue.js
 - [vee-validate](https://github.com/logaretm/vee-validate) - Form Validation for Vue.js.
 - [vue-adaptive-utils](https://github.com/logaretm/vue-adaptive-utils) - Deliver empathetic experiences to your users by adapting to their capabilities.
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framework for Vue.js. ([Code](https://github.com/vuetifyjs/vuetify)) ([Awesome](https://github.com/vuetifyjs/awesome-vuetify))
+- [Vue Virtual Scroller](https://github.com/Akryum/vue-virtual-scroller) - Blazing fast scrolling of any amount of data.

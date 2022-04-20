@@ -288,3 +288,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Fugue](https://www.fugue.co/) - Cloud Infrastructure Security & Compliance from Code to Runtime. ([GitHub](https://github.com/fugue))
 - [Curiefense](https://github.com/curiefense/curiefense) - Unified, open source platform protecting cloud native applications.
 - [amber](https://github.com/fpco/amber) - Manage secret values in-repo via public key cryptography.
+- [secrets](https://github.com/sirwart/secrets) - Command-line tool to prevent committing secret keys into your source code.

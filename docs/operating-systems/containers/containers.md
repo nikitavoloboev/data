@@ -41,7 +41,7 @@
 - [Container technologies at Coinbase: Why Kubernetes is not part of our stack (2020)](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) ([HN](https://news.ycombinator.com/item?id=23460066))
 - [Kata Containers](https://github.com/kata-containers/kata-containers) - Open source container runtime, building lightweight virtual machines that seamlessly plug into the containers ecosystem.
 - [dumb-init](https://github.com/Yelp/dumb-init) - Simple process supervisor and init system designed to run as PID 1 inside minimal container environments (such as Docker).
-- [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/)) ([Why and How to Use containerd from the Command Line](https://iximiuz.com/en/))
+- [containerd](https://github.com/containerd/containerd) - Industry-standard container runtime with an emphasis on simplicity, robustness and portability. ([Web](https://containerd.io/)) ([Why and How to Use containerd from the Command Line](https://iximiuz.com/en/)) ([Web Code](https://github.com/containerd/containerd.io))
 - [Rust extensions for containerd](https://github.com/containerd/rust-extensions)
 - [Clair](https://github.com/quay/clair) - Vulnerability Static Analysis for Containers.
 - [GCR Cleaner](https://github.com/sethvargo/gcr-cleaner) - Delete untagged image refs in Google Container Registry, as a service.
@@ -208,3 +208,4 @@
 - [Running a Container off the Host /usr/](https://0pointer.net/blog/running-an-container-off-the-host-usr.html)
 - [Reference implementation of the Cloud Native Buildpacks lifecycle](https://github.com/buildpacks/lifecycle)
 - [Podman Desktop Companion](https://iongion.github.io/podman-desktop-companion/) ([Code](https://github.com/iongion/podman-desktop-companion)) ([HN](https://news.ycombinator.com/item?id=31055475))
+- [Container Layer Analyzer](https://github.com/dcermak/container-layer-sizes) - Visualizer of container layer sizes.

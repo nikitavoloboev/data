@@ -18,3 +18,4 @@ title: ClickHouse
 - [Tool to collect performance reports in JSON format from TeamCity, insert into ClickHouse and visualize](https://github.com/JetBrains/ij-perf-report-aggregator)
 - [ClickHouse SQLAlchemy](https://github.com/cloudflare/sqlalchemy-clickhouse)
 - [ClickHouse SQLAlchemy](https://github.com/xzkostyan/clickhouse-sqlalchemy)
+- [ClickHouse Python Driver](https://github.com/mymarilyn/clickhouse-driver)

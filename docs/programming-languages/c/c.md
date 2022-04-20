@@ -237,3 +237,5 @@
 - [C17 compiler written from scratch in C](https://github.com/lasarus/C-Compiler)
 - [Neatcc](https://github.com/aligrudi/neatcc) - Small arm/x86(-64) C compiler.
 - [C-implemented C compiler](https://github.com/bobrippling/ucc-c-compiler)
+- [A blog that is a single executable binary (2022)](https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary) ([HN](https://news.ycombinator.com/item?id=31081049))
+- [Tiny C Compiler](https://github.com/mirror/tinycc) - Smallest ANSI C compiler.

@@ -80,3 +80,4 @@
 - [Kubernetes Operators With ZIO by Josip Grgurica (2022)](https://www.youtube.com/watch?v=Ppw_IkHfqy8)
 - [Rust Kubernetes operator example](https://github.com/Pscheidl/rust-kubernetes-operator-example) - Example of a Kubernetes operator implemented in Rust.
 - [Knative Sample Controller](https://github.com/knative-sandbox/sample-controller) - Template project for writing your own controller using the Knative helper libraries.
+- [Kopf](https://github.com/nolar/kopf) - Python framework to write Kubernetes operators in just a few lines of code.

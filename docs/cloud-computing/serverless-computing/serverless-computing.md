@@ -157,3 +157,5 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Lumigo](https://lumigo.io/) - Serverless Monitoring and Troubleshooting Platform. ([CLI](https://github.com/lumigo-io/lumigo-CLI))
 - [Compute@Edge starter kit for JavaScript](https://github.com/fastly/compute-starter-kit-javascript-default)
 - [Serverless Rust Demo](https://github.com/aws-samples/serverless-rust-demo) - Simple serverless application built in Rust. It consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.
+- [Supabase Functions Relay](https://github.com/supabase/functions-relay) - API gateway which is run before any edge function is invoked.
+- [After 5 years, I'm out of the serverless compute cult (2022)](https://dev.to/brentmitchell/after-5-years-im-out-of-the-serverless-compute-cult-3f6d)

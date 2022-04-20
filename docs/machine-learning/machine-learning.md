@@ -109,7 +109,7 @@
 - [Solution of assignment in 2011 Stanford Machine Learning Class](https://github.com/everpeace/ml-class-assignments)
 - [Autocompletion with deep learning (2019)](https://tabnine.com/blog/deep)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- [Python Machine Learning book](https://www.goodreads.com/book/show/25545994-python-machine-learning) ([Code](https://github.com/rasbt/python-machine-learning-book-2nd-edition))
+- [Python Machine Learning Book (2019)](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750) ([3rd edition code](https://github.com/rasbt/python-machine-learning-book-3rd-edition)) ([2nd edition code](https://github.com/rasbt/python-machine-learning-book-2nd-edition))
 - [ML and DS Applications in Industry](https://github.com/firmai/industry-machine-learning) - Curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
@@ -777,3 +777,5 @@
 - [The Principles of Deep Learning Theory (2021)](https://arxiv.org/abs/2106.10165) ([HN](https://news.ycombinator.com/item?id=31051540))
 - [Understanding the Limitations of Variational Mutual Information Estimators (2019)](https://arxiv.org/abs/1910.06222) ([Code](https://github.com/ermongroup/smile-mi-estimator))
 - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) - Each puzzle asks you to reimplement one function in the NumPy standard library without magic.
+- [ACM FAccT - 2022 Accepted Papers](https://facctconference.org/2022/acceptedpapers.html)
+- [How Attention works, in the field of artificial intelligence](https://github.com/lucidrains/attention)

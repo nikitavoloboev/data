@@ -164,3 +164,4 @@
 - [Secret Colors: A Gentle Introduction to Cryptography](https://roundrobin.pub/pages/secret-colors-announcement)
 - [Web Cryptography API Examples](https://github.com/diafygi/webcrypto-examples)
 - [Elliptic Curve Cryptography: A Basic Introduction (2020)](https://blog.boot.dev/cryptography/elliptic-curve-cryptography/) ([HN](https://news.ycombinator.com/item?id=31040571))
+- [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.

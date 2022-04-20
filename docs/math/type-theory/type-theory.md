@@ -197,3 +197,4 @@ title: Type Theory
 - [LaTeX code for a paper on lean's type theory](https://github.com/digama0/lean-type-theory)
 - [Anders: Cubical Type Checker](https://github.com/forked-from-1kasper/anders)
 - [Type checker in Haskell](https://github.com/fxdpntthm/type-checker)
+- [Implementing XTT, from the papers "A cubical language for Bishop sets" and "Cubical syntax for reflection-free extensional equality"](https://github.com/mb64/xtt)

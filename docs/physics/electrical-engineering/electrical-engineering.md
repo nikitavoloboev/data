@@ -105,3 +105,4 @@ title: Electrical engineering
 - [The making of a PCB (2022)](https://blog.drogue.io/pcb-part-1/)
 - [Ngspice](https://github.com/ngspice/ngspice) - Mixed-level/mixed-signal circuit simulator.
 - [Catherine's digital logic AMA (2022)](https://twitter.com/whitequark/status/1510525555191558150)
+- [3M tape with anisotropic z-axis electrical conductivity](https://www.3m.com/3M/en_US/p/d/b10167835/) ([HN](https://news.ycombinator.com/item?id=31060526))

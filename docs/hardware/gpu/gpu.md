@@ -106,3 +106,4 @@ title: GPU
 - [Ask HN: How does a CPU communicate with a GPU? (2022)](https://news.ycombinator.com/item?id=30860259)
 - [GPU Top](https://github.com/rib/gputop) - GPU profiling tool.
 - [Jetson Nano Developer Kit | Getting Started](https://github.com/uburuntu/jetson-startup)
+- [GPU Performance API for AMD GPUs](https://github.com/GPUOpen-Tools/gpu_performance_api)

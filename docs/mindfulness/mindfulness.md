@@ -61,3 +61,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Othership](https://apps.apple.com/ca/app/othership-breathing-app/id1590348936) - Guided Breathwork App. ([Tweet](https://twitter.com/robbiebent1/status/1471503360729628677))
 - [Ask HN: What is your spiritual practice? (2021)](https://news.ycombinator.com/item?id=29700445)
 - [Ask HN: Have you had any real benefits from apps like Headspace, Fabulous, etc? (2022)](https://news.ycombinator.com/item?id=30976971)
+- [You can only respond to what you notice](https://every.to/superorganizers/you-can-only-respond-to-what-you-notice)

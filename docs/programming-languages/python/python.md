@@ -468,3 +468,4 @@ for i, _ in enumerate(nums):
 - [Best of Python Developer Tools](https://github.com/ml-tooling/best-of-python-dev) - Ranked list of awesome python developer tools and libraries. Updated weekly.
 - [Faster CPython: Notes on making CPython faster](https://faster-cpython.readthedocs.io/) ([Code](https://github.com/vstinner/faster_cpython))
 - [JyNI](https://github.com/Stewori/JyNI) - Enables Jython to load native CPython extensions.
+- [Python for Microcontrollers Newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter)

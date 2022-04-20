@@ -342,3 +342,4 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 - [How I make tip videos for Twitter](https://twitter.com/mpocock1/status/1513821402159276036)
 - [YouTube.js](https://github.com/LuanRT/YouTube.js) - Full-featured wrapper around YouTube's private API. ([HN](https://news.ycombinator.com/item?id=31021611))
 - [Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O and Webcam Streaming in Go. ([HN](https://news.ycombinator.com/item?id=31053274))
+- [MovieGo](https://github.com/mowshon/moviego) - Go library for video editing.

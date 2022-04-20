@@ -118,6 +118,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Mattia Righetti](https://mattrighetti.com/)
 - [Dwarkesh Patel](https://dwarkeshpatel.com/)
 - [Gregory Anders](https://gpanders.com/)
+- [Loophole Letters](https://loophole-letters.vercel.app/)
 
 ## Notes
 
@@ -235,3 +236,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Ask HN: Why Blog at All? (2022)](https://news.ycombinator.com/item?id=30965485)
 - [IndieBlog.page](https://indieblog.page/) - Discover the IndieWeb, one blog post at a time. ([HN](https://news.ycombinator.com/item?id=31002171))
 - [An overly complicated blog (2022)](https://n14n.dev/articles/2022/an-overly-complicated-blog/)
+- [Ask HN: Why is Substack so popular? (2022)](https://news.ycombinator.com/item?id=31083165)

@@ -98,3 +98,4 @@ title: Field-programmable gate array
 - [FPGA Clock Configuration Device Driver for Linux](https://github.com/ikwzm/fclkcfg)
 - [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - Open-source FPGA IP Generator.
 - [LUNA](https://github.com/greatscottgadgets/luna) - USB multitool + Amaranth HDL framework for monitoring, hacking, and developing USB devices.
+- [Simplifying FPGA management in Docker](https://github.com/inaccel/docker)

@@ -554,6 +554,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-tfhe](https://github.com/thedonutfactory/go-tfhe) - Go implementation of TFHE Encrypted Computation Scheme.
 - [BLS12-381](https://github.com/kilic/bls12-381) - High Speed BLS12-381 Implementation in Go.
 - [Disco](https://github.com/mimoo/disco) - Protocol to encrypt communications and a cryptographic library based on Disco.
+- [libhydrogen-go](https://github.com/someburner/libhydrogen-go) - Go wrapper for libhydrogen.
 
 ## Linux
 
@@ -1574,6 +1575,12 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-tagexpr](https://github.com/bytedance/go-tagexpr) - Interesting go struct tag expression syntax for field validation, etc.
 - [logtags](https://github.com/cockroachdb/logtags) - Key/value annotations for Go contexts.
 - [protoscan](https://github.com/paulmach/protoscan) - Low-level reader for protocol buffers encoded data in Go.
+- [Garr](https://github.com/line/garr) - Collection of high performance, thread-safe, lock-free go data structures.
+- [go-libjpeg](https://github.com/pixiv/go-libjpeg) - Go binding for LibJpeg.
+- [tracing-go](https://github.com/bwplotka/tracing-go) - Pragmatic and minimalistic module for collecting and exporting trace data from the Go code.
+- [go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
+- [Tokenizer](https://github.com/bzick/tokenizer) - Tokenizer (lexer) for Go.
+- [pipe](https://github.com/preslavrachev/pipe) - Simple and somewhat idiomatic way of constructing easy-to-glance-at pipes for sequential processes.
 
 ## Links
 

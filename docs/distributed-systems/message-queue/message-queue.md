@@ -33,3 +33,4 @@ title: Message queue
 - [Great hosted message queues](https://twitter.com/jevakallio/status/1507367310352396320)
 - [Cavalcade](https://github.com/palfrey/cavalcade) - AMQP broker backed by PostgreSQL.
 - [A Message Queue in Shell](https://pencil.toast.cafe/wt2om7i8t7) ([Lobsters](https://lobste.rs/s/p2hlkz/message_queue_shell))
+- [SAQ](https://github.com/tobymao/saq) - Simple Async Queues. Simple and performant job queueing framework built on top of asyncio and redis.

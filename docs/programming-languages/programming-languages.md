@@ -350,3 +350,6 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Course on Metaprogramming](https://github.com/namin/metaprogramming)
 - [Germanium](https://github.com/matsuyoshi30/germanium) - Generate image from source code.
 - [10 papers that all PhD students in programming languages ought to know](https://github.com/nuprl/10PL)
+- [LanguageTool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages.
+- [Compile time evaluation in Nim, Zig, Rust and C++ (2022)](https://castillodel.github.io/compile-time-evaluation/) ([Reddit](https://www.reddit.com/r/Zig/comments/u6f05z/compile_time_evaluation_in_nim_zig_rust_and_c/))
+- [Prybar](https://github.com/replit/prybar) - Universal interpreter front-end. Same interface, same REPL, different languages.

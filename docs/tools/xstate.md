@@ -34,3 +34,4 @@ I [model state machines by first listing events (press/do something), tasks (sid
 - [Visually Create State Machines with XState (2022)](https://www.learnwithjason.dev/visually-create-state-machines)
 - [Mailbox](https://github.com/huan/mailbox) - Turns XState Machine into a Real Actor.
 - [Simple model-based-development example using Xstate (and svelte, playwright)](https://github.com/DavKato/model-based-development)
+- [XSystem](https://github.com/christoph-fricke/xsystem) - Building Blocks for XState-based Actor Systems.

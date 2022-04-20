@@ -194,3 +194,4 @@ title: Jupyter Notebooks
 - [ipyvizzu](https://github.com/vizzuhq/ipyvizzu) - Jupyter Notebook integration of Vizzu.
 - [Nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [Jupyter Server Proxy](https://github.com/jupyterhub/jupyter-server-proxy) - Jupyter notebook server extension to proxy web services.
+- [nbgrader](https://github.com/jupyter/nbgrader) - System for assigning and grading notebooks.

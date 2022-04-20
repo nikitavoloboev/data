@@ -2,6 +2,8 @@
 
 I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter) is nice too.
 
+[Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great.
+
 ## Notes
 
 - [You can make your default branch `staging`, and assign it a custom domain. Using Vercel.](https://twitter.com/rauchg/status/1383072230536404996)
@@ -170,3 +172,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Regula](https://github.com/fugue/regula) - Tool that evaluates infrastructure as code files for potential AWS, Azure, Google Cloud, and Kubernetes security and compliance violations prior to deployment. ([Docs](https://regula.dev/))
 - [Awesome Site Reliability Engineering Tools](https://github.com/SquadcastHub/awesome-sre-tools)
 - [SRE Cheat Sheet](https://github.com/shibumi/SRE-cheat-sheet)
+- [Massdriver](https://www.massdriver.cloud/) - Effortless DevOps.

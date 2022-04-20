@@ -4,7 +4,7 @@ title: Protocol buffers
 
 # [Protocol buffers](https://developers.google.com/protocol-buffers/)
 
-[pbkit](https://pbkit.dev/) is nice.
+[pbkit](https://pbkit.dev/) & [buf](https://github.com/bufbuild/buf) are nice.
 
 ## Links
 

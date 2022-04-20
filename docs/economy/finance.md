@@ -177,3 +177,5 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Short course on Survival Analysis applied to the Financial Industry](https://github.com/sestelo/sa_financial)
 - [Link](https://link.co/) - Simple, secure one-click payments by Stripe. ([HN](https://news.ycombinator.com/item?id=31030761))
 - [Buy. Borrow. Die. | How The Rich Stay Rich](https://www.youtube.com/watch?v=4_XFqwN9zLU)
+- [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future. Plan for Financial Independence. ([HN](https://news.ycombinator.com/item?id=31083093))
+- [Ramp](https://ramp.com/) - Corporate cards and finance automation that scales with you.

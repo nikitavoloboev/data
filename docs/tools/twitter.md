@@ -179,3 +179,5 @@ title: Twitter
 - [Twitter Scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
 - [Twitter Graph](https://github.com/eleurent/twitter-graph) - Fetch and visualize the graph of your Twitter friends and followers.
 - [Titter](https://github.com/dabit3/titter) - Decentralized Twitter prototype built with GraphQL, Next.js, Ceramic, Arweave, and Bundlr.
+- [Back to the Future of Twitter (2022)](https://stratechery.com/2022/back-to-the-future-of-twitter/) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/u6rfsi/back_to_the_future_of_twitter/))
+- [Twitter API v2 Plugin Token Refresher](https://github.com/alkihis/twitter-api-v2-plugin-token-refresher)

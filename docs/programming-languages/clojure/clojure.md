@@ -219,3 +219,5 @@ title: Clojure
 - [Setting Up VS Code For Clojure And Overtone Development (2022)](https://savo.rocks/posts/setting-up-vs-code-for-clojure-and-overtone-development/)
 - [Clojure meets GraalVM](https://github.com/clj-easy/graalvm-clojure) - Set of "hello world" projects to verify which Clojure libraries do actually compile and produce native images under GraalVM.
 - [Calcit Editor](https://github.com/Cirru/calcit-editor) - Intuitive S-expressions editing for Clojure(Script).
+- [Portal](https://djblue.github.io/portal/) - Clojure tool to navigate through your data. ([Code](https://github.com/djblue/portal))
+- [Clojure and Doom Emacs on a brand new M1 computer (2022)](https://www.arthurbrrs.me/clojure-doom-emacs-m1) ([HN](https://news.ycombinator.com/item?id=31064724))

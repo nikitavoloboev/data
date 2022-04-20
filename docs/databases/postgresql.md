@@ -476,3 +476,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [IaSQL](https://github.com/iasql/iasql-engine) - Manage cloud infrastructure as data in a hosted PostgreSQL database. ([Web](https://iasql.com/))
 - [SQL views for Dune Analytics](https://github.com/duneanalytics/abstractions)
 - [Pgeon](https://github.com/0x0L/pgeon) - Fast data retrieval from a PostgreSQL database into Apache Arrow format.
+- [How we upgraded our 4TB PostgreSQL database (2022)](https://retool.com/blog/how-we-upgraded-postgresql-database/) ([HN](https://news.ycombinator.com/item?id=31084147))

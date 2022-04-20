@@ -54,3 +54,4 @@ title: Smalltalk
 - [Pharo](https://pharo.org/) - Dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk. ([Code](https://github.com/pharo-project/pharo))
 - [PySOM](https://github.com/smarr/PySOM) - Simple Object Machine Smalltalk.
 - [Stargate](https://github.com/ba-st/Stargate) - Library supporting the creation of HTTP based RESTful APIs.
+- [Carp inside Glamorous Toolkit](https://github.com/carpentry-org/gt4carp)

@@ -64,6 +64,7 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [When confronted with a problem I don’t understand: don’t just guess. Investigate.](https://twitter.com/optshiftk/status/1449031889096830977)
 - [The first step to solve any problem is to recognize what problem spaces you are in.](https://twitter.com/rakyll/status/1455986549288439812)
 - [Tell me what would have to be true to do x by y.](https://twitter.com/Austen/status/1510003537152937985)
+- [Debugging technique I've been perfecting recently: when it's late at night and I've been banging my head on some bug (but have my mind fully wrapped around the symptoms), go to sleep. In the morning, usually solve it within 15 minutes. Subconscious really knows what it's doing.](https://twitter.com/gdb/status/1516526650216751106)
 
 ## Links
 

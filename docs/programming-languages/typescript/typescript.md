@@ -124,7 +124,7 @@ title: TypeScript
 - [End-to-End TypeScript: Database, Backend, API, and Frontend (2020)](https://www.youtube.com/watch?v=GrnBXhsr0ng)
 - [TypeScript Transformer Handbook](https://github.com/madou/typescript-transformer-handbook)
 - [How does the TypeScript team try to avoid negative effects on the JS ecosystem? (2020)](https://www.youtube.com/watch?v=8qm49TyMUPI)
-- [TypeChallenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
+- [TypeChallenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge. ([Solutions](https://ghaiklor.github.io/type-challenges-solutions/en/)) ([Solutions Code](https://github.com/ghaiklor/type-challenges-solutions))
 - [Insights from Adopting TypeScript at Scale (2020)](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/) ([Tweet](https://twitter.com/robpalmer2/status/1326057162221760512)) ([HN](https://news.ycombinator.com/item?id=25043541))
 - [TypeScript splits the atom A first look at TS 4.1's new template literal types (2020)](https://effectivetypescript.com/2020/11/05/template-literal-types/)
 - [TypeScript Coverage Report](httpsn://github.com/alexcanessa/typescript-coverage-report) - Node command line tool for generating TypeScript coverage reports.

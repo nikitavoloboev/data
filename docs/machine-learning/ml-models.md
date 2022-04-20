@@ -1,5 +1,7 @@
 # ML Models
 
+[Tangram] & (https://github.com/tangramdotdev/tangram) [PostgresML](https://github.com/postgresml/postgresml) seem neat.
+
 ## Links
 
 - [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures](https://github.com/astorfi/lip-reading-deeplearning)
@@ -76,3 +78,5 @@
 - [BentoML](https://www.bentoml.com/) - Simplify Model Deployment. ([GitHub](https://github.com/bentoml/))
 - [bentoctl](https://github.com/bentoml/bentoctl) - Fast model deployment with BentoML on cloud platforms.
 - [ModelCenter](https://github.com/OpenBMB/ModelCenter) - Efficient, Low-Resource, Distributed transformer implementation based on BMTrain.
+- [PostgresML](https://github.com/postgresml/postgresml) - End-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+- [UniLM AI](https://github.com/facebookresearch/data2vec_vision) - Pre-trained models across tasks (understanding, generation and translation), languages, and modalities.

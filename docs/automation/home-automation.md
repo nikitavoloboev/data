@@ -65,3 +65,4 @@
 - [Garbage Collection](https://github.com/bruxy70/Garbage-Collection) - Custom Home Assistant sensor for scheduling garbage collection (or other regularly re-occurring events - weekly on given days, semi-weekly or monthly).
 - [Mushroom Cards](https://github.com/piitaya/lovelace-mushroom) - Collection of cards for Home Assistant Lovelace UI.
 - [SmartRent](https://smartrent.com/) - Enterprise smart home automation company. ([GitHub](https://github.com/smartrent))
+- [Monitoring My Garage Door With a Raspberry Pi, Rust, and a 13Mb Linux System (2022)](https://www.wezm.net/v2/posts/2022/garage-door-monitor/)

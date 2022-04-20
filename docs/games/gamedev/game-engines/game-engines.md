@@ -110,6 +110,7 @@
 - [CosPlay](https://github.com/nivanov/cosplay) - 2D ASCII game engine written in Scala3. ([Web](https://cosplayengine.com/))
 - [ammo.js](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 - [Kohi Engine](https://github.com/travisvroman/kohi) - Made as part of the Kohi Game Engine series on YouTube, where we make a game engine from the ground up using C and Vulkan.
+- [Exile](https://github.com/TheNumbat/Exile) - Handmade-style voxel engine & game.
 
 ## Physics engines
 

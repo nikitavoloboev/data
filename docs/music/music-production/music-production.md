@@ -21,7 +21,7 @@
 - [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
 - [Renoise](https://www.renoise.com/) - Digital Audio Workstation with a unique top-down approach.
 - [Overtone](https://overtone.github.io/) - Open source audio environment designed to explore new musical ideas from synthesis and sampling to instrument building, live-coding and collaborative jamming. ([HN](https://news.ycombinator.com/item?id=30752148)) ([Basic Setup](https://savo.rocks/posts/overtone-basic-setup/)) ([Starting your Computer Music Journey with Clojure and Overtone in Emacs](https://savo.rocks/posts/starting-your-computer-music-journey-with-clojure-and-overtone-in-emacs/))
-- [Tidal Cycles](http://tidalcycles.org/) - Live coding music with Algorithmic patterns. ([Code](https://github.com/tidalcycles/Tidal))
+- [Tidal Cycles](https://tidalcycles.org/) - Live coding music with Algorithmic patterns. ([Code](https://github.com/tidalcycles/Tidal))
 - [Music Grid](https://music-grid.surge.sh/) - Simple music grid web app in which you can tap on cells to create music. ([HN](https://news.ycombinator.com/item?id=23512297)) ([Code](https://github.com/irshadshalu/music-grid))
 - [mosh](https://github.com/jamesb93/mosh) - Small command-line application written in Nim for 'moshing' data into audio.
 - [OCellator](http://kevinmahoney.co.uk/ocellator/) - Lispy synth language with structural editor. ([Lobsters](https://lobste.rs/s/td8ddx/ocellator_lispy_synth_language_with))
@@ -133,6 +133,9 @@
 - [web-audio-api](https://github.com/audiojs/web-audio-api) - Node.js implementation of Web audio API.
 - [Melo](https://github.com/mistodon/melo) - Music notation language and compiler to MIDI.
 - [strudel](https://github.com/tidalcycles/strudel) - Port of tidalcycles to JavaScript.
+- [rhythmical](https://github.com/felixroos/rhythmical) - Language to parse and manipulate musical rhythms with JS.
+- [jazzband](https://felixroos.github.io/jazzband/) - Virtual Jazz Band that can play chord symbols via Web Audio API. ([Code](https://github.com/felixroos/jazzband))
+- [Strudel REPL](https://strudel.tidalcycles.org/) - Live coding environment that brings the ideas of Tidal Cycles to the browser. ([Intro](https://loophole-letters.vercel.app/strudel))
 
 ## Inspiration
 
@@ -346,3 +349,4 @@
 - [Erased Notes](https://erasednotes.com/) - Creative MIDI Devices for Ableton Live.
 - [MuseScore](https://musescore.org/en) - Free music composition and notation software. ([Code](https://github.com/musescore/MuseScore))
 - [Online music/voice separator based on neural nets](https://mvsep.com/)
+- [Rhythmical Alternations (2022)](https://loophole-letters.vercel.app/rhythmical-alternations)

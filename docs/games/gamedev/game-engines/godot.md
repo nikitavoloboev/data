@@ -66,3 +66,4 @@ title: Godot
 - [DecalCo](https://github.com/Master-J/DecalCo) - Shader based decal solution for the Godot game engine.
 - [Godot Visual Effects](https://github.com/GDQuest/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
 - [ArcadiaGodot](https://github.com/arcadia-unity/ArcadiaGodot) - Integration of the Clojure Programming Language with the Godot game engine.
+- [Qarminer](https://github.com/qarmin/Qarminer) - Fuzzer which finds crashes, memory leaks and undefined behaviors in Godot Engine.

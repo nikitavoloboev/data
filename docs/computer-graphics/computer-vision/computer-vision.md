@@ -725,3 +725,8 @@
 - [A Latent Transformer for Disentangled Face Editing in Images and Videos (2021)](https://arxiv.org/abs/2106.11895) ([Code](https://github.com/InterDigitalInc/latent-transformer))
 - [Photorealistic Style Transfer via Wavelet Transforms (2019)](https://arxiv.org/abs/1903.09760) ([Code](https://github.com/clovaai/WCT2))
 - [Probing ViTs](https://github.com/sayakpaul/probing-vits)
+- [Dense Depth Priors for Neural Radiance Fields from Sparse Input Views (2021)](https://arxiv.org/abs/2112.03288) ([Code](https://github.com/barbararoessle/dense_depth_priors_nerf))
+- [Self-Supervised Models are Continual Learners (2021)](https://arxiv.org/abs/2112.04215) ([Code](https://github.com/DonkeyShot21/cassle))
+- [Mask Transfiner for High-Quality Instance Segmentation (2022)](https://www.vis.xyz/pub/transfiner/) ([Code](https://github.com/SysCV/transfiner))
+- [An Extendable, Efficient and Effective Transformer-based Object Detector (2022)](https://github.com/naver-ai/vidt)
+- [Learned Queries for Efficient Local Attention (2021)](https://arxiv.org/abs/2112.11435) ([Code](https://github.com/moabarar/qna))

@@ -53,3 +53,4 @@
 - [trrs](https://github.com/acheronfail/trrs) - CLI tool to transform data between different encodings.
 - [Ask HN: Is there a tool to generate binary protocol figures out of a spec? (2022)](https://news.ycombinator.com/item?id=30895905)
 - [Plain Text - Dylan Beattie (2021)](https://www.youtube.com/watch?v=_mZBa3sqTrI)
+- [Low Complexity Communication Codec (LC3)](https://github.com/google/liblc3)

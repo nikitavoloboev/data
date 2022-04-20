@@ -352,3 +352,5 @@
 - [The best books for mathematics enthusiasts](https://shepherd.com/best-books/for-mathematics-enthusiasts)
 - [My Mathematics PhD research workflow: LaTeX notes and instant PDF referencing (2022)](https://castel.dev/post/research-workflow/) ([HN](https://news.ycombinator.com/item?id=30981592))
 - [LaTeX code for some of my lecture notes](https://github.com/gillescastel/lecture-notes)
+- [Interactive Videos to Explain Quaternions](https://eater.net/quaternions) ([HN](https://news.ycombinator.com/item?id=31083042))
+- [There’s more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/) ([HN](https://news.ycombinator.com/item?id=31086970))

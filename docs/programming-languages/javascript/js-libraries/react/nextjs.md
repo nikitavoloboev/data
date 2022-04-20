@@ -6,6 +6,7 @@ title: Next.js
 
 ## Example sites
 
+- [Next.js + Tailwind CSS Netflix Redesign](https://github.com/lukef7fywmrp/netflix-redesign)
 - [Skill Recordings Projects](https://github.com/skillrecordings/products) - Using Turborepo and pnpm to create a monorepo working environment for multiple applications and a shared common core library.
 - [Open Source Raid Guild](https://github.com/OpenSourceRaidGuild/website) - Built with Next.js and the "T3 Stack". ([Tweet](https://twitter.com/hybrid_alex/status/1495053117687222275))
 - [Platforms Starter Kit](https://github.com/vercel/platforms) - Template for site builders and low-code tools.

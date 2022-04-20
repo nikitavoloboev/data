@@ -39,3 +39,4 @@ title: Jest
 - [jest-dom](https://github.com/testing-library/jest-dom) - Custom jest matchers to test the state of the DOM.
 - [Jest HTML Reporter](https://github.com/dkelosky/jest-stare) - Takes summary test results from jest and parses them into an HTML file for improved readability and filtering.
 - [Jest Image Snapshot](https://github.com/americanexpress/jest-image-snapshot) - Jest matcher for image comparisons. Most commonly used for visual regression testing.
+- [jest-snapshots-svg](https://github.com/jest-community/jest-snapshots-svg) - Take a React Native component tree, and render it into an SVG.

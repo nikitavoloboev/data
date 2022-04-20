@@ -157,3 +157,4 @@ title: Scala
 - [Scala Type Classes From Scratch (2021)](https://alexklibisz.com/2021/06/18/scala-typeclasses-from-scratch.html)
 - [tree-sitter-scala](https://github.com/tree-sitter/tree-sitter-scala) - Scala grammar for tree-sitter.
 - [Scala Cookbook: Recipes for Object-Oriented and Functional Programming](http://scalacookbook.com/)
+- [Scala OOFP Design Sample (2022)](https://alexn.org/blog/2022/04/18/scala-oop-design-sample/) ([Reddit](https://www.reddit.com/r/scala/comments/u6gps1/scala_oofp_design_sample/))

@@ -13,3 +13,4 @@ title: Cosmos
 - [CosmWasm smart contracts for InterChain DAOs](https://github.com/DA0-DA0/dao-contracts)
 - [Anchor Money Market Contracts](https://github.com/Anchor-Protocol/money-market-contracts) - Rust and CosmWasm implementation of the Anchor Protocol money market on the Terra blockchain.
 - [Terrain](https://github.com/iboss-ptk/terrain) - Terra development environment for better smart contract development experience.
+- [CosmWasm Optimizing Compiler](https://github.com/CosmWasm/rust-optimizer) - Docker build with a locked set of dependencies to produce reproducible builds of cosmwasm smart contracts.

@@ -9,6 +9,7 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [If the USA had a core KPI, it would be immigration. It has a monopoly on ambitious migrants—if that disappears, the product inevitably fails.](https://twitter.com/cpaik/status/1459534475042435083)
 - [Puerto Rico due to Act 60 decree allows you to pay no capital gains for 15 years, while keeping US citizenship.](https://www.reddit.com/r/fatFIRE/comments/rj6iju/moving_form_switzerland_to_the_beautiful_united/)
 - [Allowing 54 units/acre as-of-right citywide would solve most US cities' housing affordability crisis in a span of like two years.](https://twitter.com/mnolangray/status/1515081757883731971)
+- [Average US billionaire effectively pays a 3.4% tax rate while the average worker pays 25%.](https://twitter.com/JoshuaPotash/status/1516078047740502026)
 
 ## Links
 
@@ -130,3 +131,4 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [US will have highest personal tax out of all developed world countries](https://www.youtube.com/watch?v=kyPdcnkWgL8)
 - [America’s Highest Earners And Their Taxes Revealed (2022)](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)
 - [The Entire History of Silicon Valley (2022)](https://www.youtube.com/watch?v=hpLUFQfwYVY)
+- [The Ultimate Birb Guide to Chicago (2022)](https://birb.substack.com/p/the-ultimate-birb-guide-to-chicago?s=r) ([Tweet](https://twitter.com/Bonecondor/status/1516216998836977666))

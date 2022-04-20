@@ -1,9 +1,10 @@
 # Documentation
 
-[nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) looks nice.
+Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) looks nice too.
 
 ## Examples of nice docs
 
+- [Netlify Docs](https://docs.netlify.com/)
 - [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))
 - [Fly Docs](https://fly.io/docs/) ([Code](https://github.com/superfly/docs))
 - [Hoppscotch Docs](https://docs.hoppscotch.io/) ([Code](https://github.com/hoppscotch/docs))

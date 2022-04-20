@@ -570,3 +570,4 @@ With that said, no matter what country/community I get to live in, I try to [do 
 - [If there were three things you could change in Russia, what would it be? (2022)](https://www.reddit.com/r/AskARussian/comments/u1524d/if_there_were_three_things_you_could_change_in/)
 - [«Объединяет телевизор, а не Пушкин». Интервью Александра Роднянского (2022)](https://www.youtube.com/watch?v=vvPHcjfeIII)
 - [Great thread on Russian 90's history](https://twitter.com/kamilkazani/status/1513681957749596162)
+- [China and Russia's economies combined are in fact likely about 35% of the world's economy when taking PPP into account](https://twitter.com/RnaudBertrand/status/1513005692986175498)

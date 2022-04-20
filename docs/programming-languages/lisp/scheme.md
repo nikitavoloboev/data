@@ -83,3 +83,7 @@ title: Scheme
 - [Haskeme](https://github.com/jumper149/haskeme) - Compiler translates Scheme source code written with I-Expressions (indented expressions) into S-Expressions (symbolic expressions).
 - [Bob](https://github.com/eliben/bobscheme) - Implementation of Scheme in Python and C++.
 - [Braces](https://github.com/certainty/braces) - Toy scheme compiler and VM in rust.
+- [miniKanren with symbolic constraints](https://github.com/webyrd/miniKanren-with-symbolic-constraints)
+- [miniKanren with symbolic constraints with better performance](https://github.com/webyrd/faster-miniKanren)
+- [tinyKanren](https://github.com/yinwang0/tinyKanren) - Simplified version of the original miniKanren.
+- [CLP(Rosette) on top of miniKanren](https://github.com/chansey97/clprosette-miniKanren)

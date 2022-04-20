@@ -140,6 +140,7 @@
 - [targ](https://github.com/piccolo-orm/targ) - Build a Python CLI for your app, just using type hints and docstrings.
 - [rich-click](https://github.com/ewels/rich-click) - Format click help output nicely with Rich.
 - [Rich CLI](https://github.com/Textualize/rich-cli) - Command line toolbox for fancy output in the terminal.
+- [click-params](https://github.com/click-contrib/click_params) - Bunch of click parameters to use.
 
 ## DB
 
@@ -178,6 +179,7 @@
 - [Ibis BigQuery](https://github.com/ibis-project/ibis-bigquery) - BigQuery backend for Ibis.
 - [Arrowdantic](https://github.com/jorgecarleitao/arrowdantic) - Small Python library backed by a mature Rust implementation of Apache Arrow.
 - [static_ondisk_kv](https://github.com/rom1504/static-ondisk-kv) - Simple and fast implementation of a static on disk kv, in python.
+- [SQLGlot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler.
 
 ## GUI
 
@@ -255,6 +257,7 @@
 - [pytest-insta](https://github.com/vberlier/pytest-insta) - Practical snapshot testing plugin for pytest.
 - [pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [async-solipsism](https://github.com/bmerry/async-solipsism) - Provide a Python asyncio event loop that does not interact with the outside world at all.
+- [pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose) - Spin up Docker containers during your integration tests automatically.
 
 ## Error
 
@@ -832,6 +835,7 @@
 - [Dictdiffer](https://github.com/inveniosoftware/dictdiffer) - Module that helps you to diff and patch dictionaries.
 - [Norbert](https://github.com/sigsep/norbert) - Painless Wiener filters for audio separation.
 - [titus-isolate](https://github.com/Netflix-Skunkworks/titus-isolate) - Enables the isolated and efficient use of compute resources in a multi-tenant container environment.
+- [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Python library to analyze molecular dynamics simulations.
 
 ## Links
 
@@ -952,3 +956,5 @@
 - [conda-tree](https://github.com/rvalieris/conda-tree) - Conda dependency tree helper.
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file.
 - [autoflake8](https://github.com/fsouza/autoflake8) - Removes unused imports and unused variables from Python code.
+- [µPipenv](https://github.com/thoth-station/micropipenv) - Lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output.
+- [pypi-deps-db](https://github.com/DavHau/pypi-deps-db) - Dependency database for python packages on pypi.

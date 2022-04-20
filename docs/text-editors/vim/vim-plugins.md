@@ -106,6 +106,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
 - [Polyglot](https://github.com/sheerun/vim-polyglot) - Solid language pack.
+- [Formatter.nvim](https://github.com/mhartington/formatter.nvim) - Format runner for neovim, written in Lua.
 - [Auto save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk.
 - [Ag](https://github.com/rking/ag.vim) - Plugin for the_silver_searcher, 'ag'.
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
@@ -123,6 +124,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Gina](https://github.com/lambdalisue/gina.vim) - Asynchronously control git repositories.
 - [Codi](https://github.com/metakirby5/codi.vim) - Interactive scratchpad for hackers.
 - [Vinegar](https://github.com/tpope/vim-vinegar) - Enhances netrw.
+- [Dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces.
 - [command_center.nvim](https://github.com/FeiyouG/command_center.nvim) - Create and manage keybindings and commands in a more organized manner, and search them quickly through Telescope.
 - [Dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer.
 - [Startup Time](https://github.com/tweekmonster/startuptime.vim) - Profile startup time.

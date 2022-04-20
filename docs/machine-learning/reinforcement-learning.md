@@ -346,3 +346,4 @@ title: Reinforcement learning
 - [Huskarl](https://github.com/danaugrs/huskarl) - Deep Reinforcement Learning Framework + Algorithms.
 - [Resources and material for an internal course on Reinforcement Learning](https://github.com/gsverhoeven/gt_rl_course)
 - [MO-Gym: Multi-Objective Reinforcement Learning Environments](https://github.com/LucasAlegre/mo-gym)
+- [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills (2018)](https://xbpeng.github.io/projects/DeepMimic/index.html) ([Code](https://github.com/xbpeng/DeepMimic))

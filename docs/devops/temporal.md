@@ -27,3 +27,4 @@ title: Temporal
 - [Temporal Server docker-compose files](https://github.com/temporalio/docker-compose) - Docker-compose files that enable you to run a local instance of the Temporal Server.
 - [Temporal TS Samples](https://github.com/temporalio/samples-typescript)
 - [Ruby SDK for Temporal](https://github.com/coinbase/temporal-ruby)
+- [Temporal Electronic Signature](https://github.com/Devessier/temporal-electronic-signature) - Demonstration of Temporal Node.js SDK used with XState to write workflows.

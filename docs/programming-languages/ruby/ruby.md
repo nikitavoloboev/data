@@ -124,3 +124,4 @@
 - [Please stop calling it "magic" (2017)](https://zverok.space/blog/2017-10-22-stop-magic.html) ([Lobsters](https://lobste.rs/s/3odol5/please_stop_calling_it_magic))
 - [Ruby 3.2 preview 1 with support for WASM compilation (2022)](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=30947793))
 - [Why Ruby Has Symbols (2022)](https://dmitrytsepelev.dev/why-has-ruby-symbols) ([HN](https://news.ycombinator.com/item?id=31024363))
+- [Opal](https://github.com/opal/opal) - Ruby to JavaScript source-to-source compiler.

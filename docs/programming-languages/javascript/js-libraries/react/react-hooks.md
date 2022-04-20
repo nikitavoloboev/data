@@ -190,6 +190,8 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useTilg](https://github.com/shuding/tilg) - Magical React Hook to help you debug your components.
 - [event](https://github.com/bit-about/event) - Tiny and powerful hook-based event system for React.
 - [useForm](https://github.com/veritem/useform) - Tiny hook that make react forms easy.
+- [react-cancelable](https://github.com/vladagurets/react-cancelable) - Make cancelable requests with react-hooks.
+- [useTimeline](https://github.com/marcoripa96/use-timeline) - Enchanced useState hook which keeps track of the states history, allowing you to undo and redo states.
 
 ## Code
 

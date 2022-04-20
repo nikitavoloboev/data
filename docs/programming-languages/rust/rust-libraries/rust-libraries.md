@@ -169,6 +169,7 @@
 - [parquet-wasm](https://github.com/kylebarron/parquet-wasm) - Rust-based WASM reader for Parquet files.
 - [xtask-wasm](https://github.com/rustminded/xtask-wasm) - Customizable subcommands to build your WASM projects using xtask.
 - [wasmy](https://github.com/henrylee2cn/wasmy) - Easily customize my WASM app.
+- [WASM Timer](https://github.com/tomaka/wasm-timer) - Abstraction over std::time::Instant and tokio_timer that works on WASM.
 
 ## GUI
 
@@ -230,7 +231,7 @@
 - [typed-sql](https://github.com/matthunz/typed-sql) - Zero-cost ORM with fast compile times. ([Reddit](https://www.reddit.com/r/rust/comments/njbt9s/announcing_typedsql_beta_zerocost_orm_with_fast/))
 - [merk](https://github.com/nomic-io/merk) - High-performance Merkle key/value store.
 - [Scooby](https://github.com/despawnerer/scooby) - Rust SQL query builder with a pleasant fluent API closely imitating actual SQL.
-- [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust. ([Rocket with SeaORM example app](https://github.com/SeaQL/sea-orm/tree/master/examples/rocket_example)) ([HN](https://news.ycombinator.com/item?id=29509867))
+- [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust. ([Rocket with SeaORM example app](https://github.com/SeaQL/sea-orm/tree/master/examples/rocket_example)) ([HN](https://news.ycombinator.com/item?id=29509867)) ([Web](https://www.sea-ql.org/SeaORM/)) ([Docs Code](https://github.com/SeaQL/seaql.github.io))
 - [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
 - [influxdb-rust](https://github.com/influxdb-rs/influxdb-rust) - Rust Client for the InfluxDB Time Series Database.
@@ -482,6 +483,7 @@
 - [minisign-verify](https://github.com/jedisct1/rust-minisign-verify) - Small, zero-dependencies Rust crate to verify Minisign signatures.
 - [Trussed](https://github.com/trussed-dev/trussed) - Modern Cryptographic Firmware.
 - [Rust-Crypto](https://github.com/DaGenix/rust-crypto) - Rust implementation of various common cryptographic algorithms.
+- [RustCrypto AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data (AEAD) Algorithms.
 
 ## Linux
 
@@ -1769,6 +1771,12 @@
 - [rustrict](https://github.com/finnbear/rustrict) - Sophisticated profanity filter for Rust.
 - [packed_struct.rs](https://github.com/hashmismatch/packed_struct.rs) - Bit-level packing and unpacking for Rust.
 - [moro](https://github.com/nikomatsakis/moro) - Experiments with structured concurrency in Rust.
+- [unicycle](https://github.com/udoprog/unicycle) - Scheduler for driving a large number of futures.
+- [fs2](https://github.com/danburkert/fs2-rs) - Extended utilities for working with files and filesystems in Rust.
+- [Corundum](https://github.com/NVSL/Corundum) - Persistent Memory Programming Library in Rust.
+- [serde-this-or-that](https://github.com/rnag/serde-this-or-that) - Custom deserialization for fields that can be specified as multiple types.
+- [linemux](https://github.com/jmagnuson/linemux) - Asynchronous tailing library in Rust.
+- [JWT](https://github.com/mikkyang/rust-jwt) - JSON Web Token library for Rust.
 
 ## Cargo Plugins
 
@@ -1841,6 +1849,7 @@
 - [Cargo spec](https://github.com/mimoo/cargo-specification) - Tool to turn your code into a specification.
 - [cargo-lambda](https://github.com/cargo-lambda/cargo-lambda) - Cargo subcommand to help you work with AWS Lambda.
 - [cargo-action-fmt](https://github.com/olix0r/cargo-action-fmt) - Converts cargo check (and clippy) JSON output to the GitHub Action error format.
+- [rusty-hook](https://github.com/swellaby/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
 
 ## Links
 

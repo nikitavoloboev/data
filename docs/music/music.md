@@ -207,3 +207,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [OneTagger](https://github.com/Marekkon5/onetagger) - Cross-platform music tagger written in Rust, Vue.js and Quasar.
 - [Spotify Song Recommender](https://github.com/BobbyWilt/Spotify_Song_Recommender)
 - [Colibri Lossless](https://colibri-lossless.com/) - Mac Music & Audio Player - FLAC, DSD, BS2B, Gapless.
+- [oggify](https://github.com/pisto/oggify) - Download Spotify tracks to Ogg Vorbis.
+- [Sonixd](https://github.com/jeffvli/sonixd) - Full-featured Subsonic/Jellyfin compatible desktop music player.

@@ -428,3 +428,4 @@ if (
 - [unminify](https://github.com/xfthhxk/unminify) - Unminifies JS stacktrace errors.
 - [JavaScript on GraalVM](https://github.com/oracle/graaljs) - High performance implementation of the JavaScript programming language. Built on the GraalVM by Oracle Labs.
 - [I Avoid Async/Await (2022)](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e) ([HN](https://news.ycombinator.com/item?id=31050650))
+- [Shift AST](https://shift-ast.org/) - ECMAScript parser that produces a Shift format AST. ([Code](https://github.com/shapesecurity/shift-parser-js)) ([Bending JavaScript with shift-ast](https://loophole-letters.vercel.app/shift-ast))

@@ -241,3 +241,4 @@ title: HTTP
 - [local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) - Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only.
 - [Server Mockr](https://github.com/boschni/server-mockr) - Mock HTTP APIs for rapid development and reliable testing.
 - [http-mirror-pipeline](https://github.com/ShimmerGlass/http-mirror-pipeline) - Tool to mirror HTTP request for continuous testing and benchmarking, replayable logging.
+- [httpstat.us](https://httpstat.us/) - Simple service for generating different HTTP codes.

@@ -56,3 +56,5 @@ title: Electron
 - [Ask HN: Why aren't there any real alternatives to Electron? (2022)](https://news.ycombinator.com/item?id=30810724)
 - [Create Svelte+Electron App](https://github.com/soulehshaikh99/create-svelte-electron-app)
 - [Electron Inject](https://github.com/tintinweb/electron-inject) - Inject JavaScript into closed source electron applications e.g. to enable developer tools for debugging.
+- [Electron Quick Start for Mac App Store](https://github.com/steve981cr/electron-quickstart-mas)
+- [ToDesktop](https://www.todesktop.com/) - Convert your Web App to a Desktop App in 2 minutes. ([Twitter](https://twitter.com/ToDesktop))

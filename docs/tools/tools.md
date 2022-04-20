@@ -252,6 +252,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
 - [FocusTask](https://focustask.app/) - Organize your life.
+- [prettierd](https://github.com/fsouza/prettierd) - Prettier, as a daemon, for ludicrous formatting speed.
 - [Culture Amp](https://www.cultureamp.com/) - Employee feedback platform. ([GitHub](https://github.com/cultureamp))
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Webstudio](https://webstudio.is/) - Open Source Visual Development Platform for Developers, Designers and cross-functional teams. ([Code](https://github.com/webstudio-is/webstudio-designer)) ([Issues](https://github.com/webstudio-is/webstudio))

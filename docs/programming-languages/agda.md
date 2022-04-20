@@ -84,3 +84,5 @@ title: Agda
 - [Fair termination in Agda](https://github.com/boystrange/FairTermination)
 - [System F-omega normalization by hereditary substitution in Agda](https://github.com/AndrasKovacs/system-f-omega)
 - [Quotient types in cubical Agda](https://github.com/kcsmnt0/quotient)
+- [Verified (cubical) free monads](https://github.com/mb64/cubical-free-monads)
+- [Sikkel](https://github.com/JorisCeulemans/sikkel) - Agda library that allows a user to program in multimode simple type theories.

@@ -6,6 +6,7 @@ title: NestJS
 
 ## Links
 
+- [NestJS Docs](https://docs.nestjs.com/) ([Code](https://github.com/nestjs/docs.nestjs.com))
 - [NestJS Crash Course: Everything you need to know! (2021)](https://www.youtube.com/watch?v=2n3xS89TJMI)
 - [NestJS Mono repo starter](https://github.com/scopsy/nestjs-monorepo-starter) - Full-stack nestjs starter project. Includes authorization, authentication, MongoDB, Redis queue support, Crons jobs, and end-to-end testing.
 - [nestjs-graphql-dataloader](https://github.com/TreeMan360/nestjs-graphql-dataloader) - Easily add dataloader to a nestjs/graphql 7+ application with automatic sequencing and a template method.

@@ -126,3 +126,4 @@
 - [App Icon Endpoint](https://github.com/EvanBacon/app-icon-endpoint) - Cloud function to generate basic icons, splash screens, and favicons.
 - [PWA Icon Generator](https://github.com/HackyDev/pwa-icons-generator)
 - [Core Icons Library](https://ui8.net/oleg-pf/products/core-i-lib)
+- [Core Line - Pro Icons Set](https://www.streamlinehq.com/icons/ui-line-pro) - 2026 customizable PNGs, SVGs, PDFs.

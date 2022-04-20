@@ -391,3 +391,6 @@ title: PyTorch
 - [torchdistX](https://github.com/pytorch/torchdistx) - Torch Distributed Experimental.
 - [grafog](https://github.com/rish-16/grafog) - Graph Data Augmentation Library for PyTorch Geometric.
 - [High-fidelity performance metrics for generative models in PyTorch](https://github.com/toshas/torch-fidelity)
+- [Denoising Diffusion Probabilistic Models in PyTorch](https://github.com/rosinality/denoising-diffusion-pytorch)
+- [PyTorch Geometric Install Helper](https://github.com/mberr/pytorch-geometric-installer)
+- [PyTorch Benchmarks](https://github.com/pytorch/benchmark) - Collection of open source benchmarks used to evaluate PyTorch performance.

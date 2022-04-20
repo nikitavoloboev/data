@@ -4,7 +4,9 @@ title: CSS
 
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) is a good read.
+[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) & [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/?ck_subscriber_id=368968743) are good reads.
+
+Often use [these CSS loaders](https://uiball.com/loaders/).
 
 ## Nice templates
 
@@ -487,3 +489,4 @@ all: unset
 - [CSS Parent Selector (2022)](https://ishadeed.com/article/css-has-parent-selector/) ([Tweet](https://twitter.com/shadeed9/status/1514168291694194693))
 - [Browser in the Dark: flashlights with CSS and canvas](https://voussoir.net/writing/browser_in_the_dark) ([HN](https://news.ycombinator.com/item?id=31029845))
 - [Declarative design (2022)](https://adactio.com/journal/18982)
+- [Loaders | UI Ball](https://uiball.com/loaders/) - Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. ([Code](https://github.com/GriffinJohnston/uiball-loaders))

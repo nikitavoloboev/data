@@ -1,5 +1,7 @@
 # Data processing
 
+[Ibis](https://github.com/ibis-project/ibis) seems nice.
+
 ## Links
 
 - [Bigslice](https://bigslice.io/) - System for fast, large-scale, serverless data processing using Go.

@@ -464,3 +464,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Eero Pro 6E and Eero 6 Review: Fast and Easy (2022)](https://evanmccann.net/blog/2022/4/eero-6-plus-and-eero-pro-6e-review) ([HN](https://news.ycombinator.com/item?id=30965772))
 - [1,000,000 Concurrent Connections (2022)](https://josephmate.github.io/2022-04-14-max-connections/) ([Lobsters](https://lobste.rs/s/9kclsx/1_000_000_concurrent_connections))
 - [Benchmark for implementation of servers that support 1m connections](https://github.com/smallnest/1m-go-tcp-server)
+- [Useful Wireless Links](https://github.com/skhomm/useful-wireless-links)
+- [nmapAutomator](https://github.com/21y4d/nmapAutomator) - Automate the process of enumeration & recon that is run every time, and instead focus our attention on real pentesting.
+- [Occamy](https://github.com/changkun/occamy) - Modern remote desktop proxy written in Go.

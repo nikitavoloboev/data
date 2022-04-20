@@ -4,6 +4,10 @@ title: Unity
 
 # [Unity](https://unity.com/)
 
+## Notes
+
+- [Unreal Engine is likely an always better choice than Unity](https://twitter.com/cmuratori/status/1514420516286709760).
+
 ## Links
 
 - [Unity Learn](https://learn.unity.com/) ([HN](https://news.ycombinator.com/item?id=22687062))

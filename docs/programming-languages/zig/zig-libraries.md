@@ -67,6 +67,10 @@
 
 - [Marble](https://github.com/cryptocode/marble) - Metamorphic testing library for Zig.
 
+## iOS
+
+- [Zig Deploy](https://github.com/kubkon/zig-deploy) - Deploy your iOS apps written with Zig.
+
 ## Other
 
 - [Zig ECS](https://github.com/prime31/zig-ecs)
@@ -123,3 +127,4 @@
 - [Deps.zig](https://github.com/silversquirl/deps.zig) - Dependency manager for Zig.
 - [Zig Package Repository](https://zig.pm/) - Community-maintained repository of zig packages. ([Code](https://github.com/ziglibs/repository))
 - [zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.
+- [Zig Async Demo](https://github.com/andrewrk/zig-async-demo) - Comparing concurrent code example programs between other languages and Zig.

@@ -151,3 +151,4 @@
 - [Evaluating Graviton 2 for data-intensive applications: Arm vs. Intel comparison (2022)](https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/) ([HN](https://news.ycombinator.com/item?id=30923153))
 - [Crash course introduction to parallelism: Multithreading (2022)](https://johnysswlab.com/crash-course-introduction-to-parallelism-multithreading/) ([Reddit](https://www.reddit.com/r/cpp/comments/u0nwnl/for_beginners_a_crash_course_introduction_to/))
 - [cpu](https://github.com/u-root/cpu) - CPU command in Go, inspired by the Plan 9 CPU command.
+- [Inside the Apple-1's shift-register memory (2022)](http://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)

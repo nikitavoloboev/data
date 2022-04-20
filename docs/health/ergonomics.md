@@ -44,6 +44,11 @@
 - [Nice setup with pad for keyboard](https://twitter.com/lukeredpath/status/1453723374862045186)
 - [Apple Event lounge](https://twitter.com/jamesjgill/status/1450146286833913860)
 - [Hakim's dual screen setup](https://twitter.com/hakimel/status/1466016817730633734)
+- [Nice office with open windows](https://twitter.com/zander_supafast/status/1516417998868860932)
+
+## Notes
+
+- [When you’re using your phone, stop using your pinky as an anchor. It’s destroying your wrist and aggravating your ulnar nerve.](https://twitter.com/MrsBundrige/status/1450103066250911745)
 
 ## Links
 

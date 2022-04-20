@@ -53,6 +53,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [PostHTML Render](https://github.com/posthtml/posthtml-render) - Render PostHTMLTree to HTML/XML.
 - [Ionic](https://ionic.io/) - Enterprise App Development & Delivery Platform. ([Code](https://github.com/ionic-team/ionic-framework)) ([Twitter](https://twitter.com/Ionicframework)) ([Tweet](https://twitter.com/93alan/status/1512587338962116611))
 - [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
+- [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
 
 ## Test
 
@@ -474,6 +475,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [sum-types](https://github.com/unsplash/sum-types) - Safe, ergonomic, non-generic sum types in TypeScript.
 - [tsPEG](https://github.com/EoinDavey/tsPEG) - PEG Parser Generator for TypeScript.
 - [InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+- [flocky](https://github.com/devoxa/flocky) - Utility library with clarity and efficiency at the core. 0 dependencies.
+- [trace-mapping](https://github.com/jridgewell/trace-mapping) - Trace the original position through a source map.
 
 ## Links
 

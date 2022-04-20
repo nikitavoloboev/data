@@ -118,6 +118,8 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TRTMP](https://github.com/callsmusic/trtmp) - Bot for streaming in Telegram live streams.
 - [Alerter](https://github.com/ultram4rine/alerter) - Telegram and Matrix bot for alerts from Alertmanager.
 - [Syntax Highlighter Bot](https://github.com/dcdunkan/syntax-highlighter-bot)
+- [grammYdocsbot](https://github.com/grammyjs/docs-bot) - Telegram bot to let you search grammY docs inline.
+- [Telegram Web Bots Demo](https://github.com/zubiden/tg-web-bot-demo)
 
 ## Notes
 
@@ -215,3 +217,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Limits](https://limits.tginfo.me/en) - Describes Telegram limitations. ([Code](https://github.com/tginfo/Telegram-Limits))
 - [Telegram Local](https://github.com/Olegt0rr/telegram-local) - Example of Telegram local API and aiogram 3.x.
 - [Telegram bots - From idea to production by Ferran Jovell (2022)](https://www.youtube.com/watch?v=JwivVaKa6ak) ([Code](http://jovell.dev/telegram-heroku-template))
+- [React Telegram Login](https://github.com/hprobotic/react-telegram-login) - React Telegram Login Widget Component.

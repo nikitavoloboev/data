@@ -119,7 +119,7 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
 - ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
 - [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://press.stripe.com/#working-in-public) ([Article](https://nayafia.substack.com/p/22-working-in-public)) ([Notes](https://twitter.com/devonzuegel/status/1292212683748585473)) ([Summary](https://blas.com/working-in-public/))
-- [I Just Hit \$100,000/yr On GitHub Sponsors. Here’s How I Did It! (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it) ([HN](https://news.ycombinator.com/item?id=23613719))
+- [I Just Hit $100k/Yr on GitHub Sponsors (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it) ([HN](https://news.ycombinator.com/item?id=23613719)) ([HN](https://news.ycombinator.com/item?id=31085385))
 - [Libraries.io](https://libraries.io/) - Open Source Discovery Service. ([Code](https://github.com/librariesio/libraries.io))
 - [Open Source Sustainability (2020)](https://dev.to/erikras/open-source-sustainability-3pjf)
 - [Ethical Source: Open Source, Evolved](https://ethicalsource.dev/) ([Comment](https://news.ycombinator.com/item?id=23737855))

@@ -75,3 +75,4 @@ title: Synthesizers
 - [Stargate DAW](https://github.com/stargateaudio/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor.
 - [Diffsynth - a Differentiable Musical Synthesizer in PyTorch](https://github.com/hyakuchiki/diffsynth)
 - [MiniDexed](https://github.com/probonopd/MiniDexed) - Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=31062237))
+- [DIY Modular Synth (2021)](https://loophole-letters.vercel.app/diy-modular-synth)

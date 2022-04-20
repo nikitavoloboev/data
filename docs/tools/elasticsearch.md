@@ -67,3 +67,6 @@ title: Elasticsearch
 - [Export Data from ElasticSearch to CSV by Raw or Lucene Query](https://github.com/pteich/elastic-query-export)
 - [Elastic App Search](https://www.elastic.co/app-search/) - Build search applications with Elastic. ([JS client](https://github.com/elastic/app-search-javascript))
 - [ElasticSearch.jl](https://github.com/lotcher/ElasticSearch.jl) - ElasticSearch client for Julia.
+- [Building a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
+- [Elastic Agent](https://github.com/elastic/elastic-agent) - Single, unified way to add monitoring for logs, metrics, and other types of data to a host.
+- [What is the difference between Lucene and Elasticsearch](https://stackoverflow.com/questions/27793721/what-is-the-difference-between-lucene-and-elasticsearch/27793910#27793910)

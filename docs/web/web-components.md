@@ -88,3 +88,4 @@ title: Web Components
 - [WebComponent Router](https://github.com/ryansolid/webcomponent-router) - Nested router based on HTML Web Components.
 - [Custom Elements Manifest](https://github.com/webcomponents/custom-elements-manifest) - File format for describing custom elements.
 - [HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/) - Introduction to Web Components. ([Code](https://github.com/davatron5000/htmlwithsuperpowers))
+- [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows you to easily put a Dark Mode toggle or switch on your site.

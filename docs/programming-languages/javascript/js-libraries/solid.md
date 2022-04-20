@@ -49,3 +49,4 @@ title: SolidJS
 - [Solid Ninja Keys](https://github.com/wobsoriano/solid-ninja-keys) - Add cmd+k interface to your solid site.
 - [SolidJS plugin for Preview.js](https://github.com/fwouts/previewjs-solid-plugin)
 - [Solid JSX](https://github.com/high1/solid-jsx) - Use mdx or xdm with solid-js.
+- [Solid-Blocks](https://github.com/atk/solid-blocks) - UI building blocks for SolidJS.

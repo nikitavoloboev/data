@@ -560,6 +560,10 @@
 
 - [Sync WebSocket Vapor](https://github.com/nerdsupremacist/SyncWebSocketVapor) - Web Socket Server Support for Sync.
 
+## Math
+
+- [Matft](https://github.com/jjjkkkjjj/Matft) - Numpy-like library in Swift. Function name and usage is similar to Numpy.
+
 ## Other
 
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
@@ -1088,6 +1092,7 @@
 - [RoughSwift](https://github.com/onmyway133/RoughSwift) - Create hand-drawn, sketchy, comic shape in Swift.
 - [StoreHelper](https://github.com/russell-archer/StoreHelper) - Swift Package Manager (SPM) package that enables developers to easily add in-app purchase support to iOS 15/macOS 12 SwiftUI apps.
 - [Mirai](https://github.com/moriturus/Mirai) - Provides Rust-styled Future.
+- [AnyObservableObject](https://github.com/marty-suzuki/AnyObservableObject)
 
 ## Other (not lib)
 

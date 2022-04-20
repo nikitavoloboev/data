@@ -3,6 +3,8 @@
 ## Notes
 
 - [This is the reason why the word observer is cursed. Because it leads to people to conclude consciousness and other wrong concepts are associated with the results. All that happens is a measurement, an interaction or interference, so no, you dont need a conscious observer, because the act of measurement is what interacts with the wave function, it happens irregardless of being made by a dog, a tardigrade or a computer, because anything that measures the wave function is interfering with it.](https://www.reddit.com/r/quantum/comments/lqtxa6/does_the_observer_effect_only_happens_if_the/)
+- [If you have just one half of an entangled pair, it is impossible to know if the other has been measured, even if you measure your half.](https://www.reddit.com/r/AskPhysics/comments/u77r7v/why_does_quantum_teleportation_not_allow_faster/)
+- [Quantum teleportation requires entanglement, but the communication of state (horribly misnamed “teleportation”) takes place by ordinary means, typically a laser. The communication doesn’t exceed the speed of light. The idea that quantum state transfer (“teleportation”) takes place at FTL speeds is just a misconception.](https://www.reddit.com/r/AskPhysics/comments/u77r7v/why_does_quantum_teleportation_not_allow_faster/)
 
 ## Links
 

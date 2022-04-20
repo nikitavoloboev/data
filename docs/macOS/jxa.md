@@ -114,3 +114,4 @@ Application("Google Chrome Canary").windows[0].activeTab.execute({
 - [How To Use “VS Code” for JXA, with Keyboard Maestro (2019)](https://forum.keyboardmaestro.com/t/how-to-use-vs-code-for-jxa-with-keyboard-maestro/15281)
 - [How to find JXA actions for apps](https://forum.keyboardmaestro.com/t/how-to-use-vs-code-for-jxa-with-keyboard-maestro/15281/26)
 - [The unexpected return of JavaScript for Automation (2021)](https://scriptingosx.com/2021/11/the-unexpected-return-of-javascript-for-automation/) ([HN](https://news.ycombinator.com/item?id=29327349))
+- [JXA TS/Node packages](https://github.com/JXA-userland/JXA)

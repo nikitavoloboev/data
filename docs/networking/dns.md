@@ -209,3 +209,5 @@ title: DNS
 - [What I learned from making a DNS client in Rust](https://blog.adamchalmers.com/making-a-dns-client/) ([HN](https://news.ycombinator.com/item?id=30983245)) ([Reddit](https://www.reddit.com/r/rust/comments/u0uyjd/what_i_learned_from_making_a_dns_client_in_rust/))
 - [Dingo](https://github.com/adamchalmers/dingo) - Command-line DNS client using bitvec, nom and RFC 1035.
 - [Dynamic DNS with Docker, Go and Bind9](https://github.com/dprandzioch/docker-ddns)
+- [Erlang DNS Server](https://github.com/dnsimple/erldns) - Serve DNS authoritative responses with Erlang.
+- [libdns](https://github.com/libdns/libdns) - Universal DNS provider APIs for Go.

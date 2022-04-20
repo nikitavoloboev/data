@@ -24,6 +24,7 @@
 - [GitHub Julia](https://github.com/JuliaWeb/GitHub.jl)
 - [GitHub OCaml](https://github.com/tmcgilchrist/ocaml-gitlab)
 - [GitHub Haskell](https://github.com/phadej/github)
+- [GitHub R](https://github.com/r-lib/gh)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
@@ -133,6 +134,7 @@
 - [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
 - [Coinbase Rust](https://github.com/j16r/coinbase-rs)
+- [Replit Container SDK](https://github.com/replit/crosis) - JavaScript client that speaks Replit's container protocol.
 - [Last.fm and Libre.fm Python](https://github.com/pylast/pylast)
 - [Toggl Python](https://github.com/matthewdowney/TogglPy)
 - [Chromecast Node](https://github.com/alxhotel/chromecast-api)
@@ -173,6 +175,7 @@
 - [Medium API](https://github.com/Medium/medium-api-docs)
 - [Backblaze Go](https://github.com/kurin/blazer)
 - [Paddle Go](https://github.com/Fakerr/go-paddle)
+- [Paddle TS](https://github.com/devoxa/paddle-sdk) - SDK to interface with the API and web hooks from Paddle.
 - [PyTrends](https://github.com/GeneralMills/pytrends) - Unofficial API for Google Trends.
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Typeform JS SDK](https://github.com/Typeform/js-api-client)
@@ -185,6 +188,7 @@
 - [Rick and Morty API](https://github.com/afuh/rick-and-morty-api) - RESTful and GraphQL API based on the television show Rick and Morty.
 - [Dog API](https://dog.ceo/dog-api/)
 - [Square Node](https://github.com/square/square-nodejs-sdk) ([Release](https://developer.squareup.com/blog/announcing-the-new-square-node-js-sdk/))
+- [Square Web SDK](https://github.com/square/web-sdk)
 
 ## Notes
 

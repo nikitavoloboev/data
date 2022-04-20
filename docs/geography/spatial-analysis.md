@@ -83,7 +83,7 @@ title: Spatial analysis
 - [jsgeoda](https://github.com/GeoDaCenter/jsgeoda) - JavaScript library for spatial data analysis using webAssembly.
 - [geodiff](https://github.com/lutraconsulting/geodiff) - Library for handling diffs for geospatial data.
 - [Organic Maps](https://organicmaps.app/) - Fast detailed offline maps for travelers, tourists, hikers and cyclists. ([Code](https://github.com/organicmaps/organicmaps))
-- [MapLibre](https://maplibre.org/) - Open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL .([HN](https://news.ycombinator.com/item?id=27605656)) ([Code](https://github.com/maplibre/maplibre-gl-js))
+- [MapLibre](https://maplibre.org/) - Open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL .([HN](https://news.ycombinator.com/item?id=27605656)) ([Code](https://github.com/maplibre/maplibre-gl-js)) ([GitHub](https://github.com/maplibre))
 - [Restgis](https://restgis.com/) - Free tool/API to get geographic data for any location (GeoJSON/SVG).
 - [Building a Spatial Index Supporting Rectangular Range Query using Hilbert Curve (2021)](https://sequentialread.com/building-a-spatial-index-supporting-range-query-using-space-filling-hilbert-curve/) ([Lobsters](https://lobste.rs/s/h9pvmp/building_spatial_index_supporting))
 - [Descartes Labs](https://descarteslabs.com/) - Geospatial Analytics Platform | Satellite Imagery | Remote Sensing.
@@ -187,3 +187,6 @@ title: Spatial analysis
 - [Overpass API](http://overpass-api.de/) - Database engine to query the OpenStreetMap data. ([Code](https://github.com/drolbr/Overpass-API))
 - [Himawari 8](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite.
 - [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) - Julia Protocol for Geospatial Data.
+- [GeoBlaze](https://github.com/GeoTIFF/geoblaze) - Blazing Fast JavaScript Raster Processing Engine. ([Web](http://geoblaze.io/))
+- [Geocube](https://github.com/airbusgeo/geocube) - Geo-spatial imagery database designed as a serverless service to serve processing pipelines of satellite images at large scale.
+- [Mapr](https://github.com/maplibre/maplibre-rs) - Native cross platform maps in Rust using WebGPU. ([HN](https://news.ycombinator.com/item?id=31086087))

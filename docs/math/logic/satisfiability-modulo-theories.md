@@ -49,3 +49,4 @@ title: Satisfiability modulo theories
 - [SMBC](https://github.com/c-cube/smbc) - Experimental model finder/SMT solver for functional programming.
 - [Cvc5: Versatile and Industrial-Strength SMT Solver (2022)](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
 - [JavaSMT](https://github.com/sosy-lab/java-smt) - Unified Java API for SMT solvers.
+- [Yices 2](https://github.com/SRI-CSL/yices2) - Solver for Satisfiability Modulo Theories (SMT) problems. ([Web](https://yices.csl.sri.com/))

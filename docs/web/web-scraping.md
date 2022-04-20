@@ -181,3 +181,4 @@
 - [Portia](https://github.com/scrapinghub/portia) - Tool that allows you to visually scrape websites without any programming knowledge required.
 - [Surgeon](https://github.com/gajus/surgeon) - Declarative DOM extraction expression evaluator.
 - [Ayakashi](https://github.com/ayakashi-io/ayakashi) - Next generation web scraping framework.
+- [CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data (2019)](https://arxiv.org/abs/1911.00359) ([Code](https://github.com/facebookresearch/cc_net))

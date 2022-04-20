@@ -56,6 +56,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Quordle](https://www.quordle.com/#/) - Four Wordles in One. ([HN](https://news.ycombinator.com/item?id=30373342))
 - [Krunker](https://krunker.io/) - Fast 3D Shooter in Browser.
 - [Eight Colors](https://eightcolors.net/) - Puzzle Game in HTML5. ([HN](https://news.ycombinator.com/item?id=30956775))
+- [18xx.Games](https://18xx.games/) - Platform for playing 18xx games online. ([Code](https://github.com/tobymao/18xx))
 
 ## Awesome OSS games
 
@@ -152,6 +153,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
 - [Free Heroes of Might and Magic II](https://github.com/ihhub/fheroes2) - Recreation of HoMM2 game engine.
 - [Cytopia](https://github.com/CytopiaTeam/Cytopia) - Free, open source retro pixel-art city building game with a big focus on mods. ([Web](https://www.cytopia.net/)) ([HN](https://news.ycombinator.com/item?id=31066478))
+- [Herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype/technical demo written in Clojure and ClojureScript.
 
 ## Awesome games (other)
 

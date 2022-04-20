@@ -214,6 +214,8 @@ title: GitHub actions
 - [Semantic Pull Requests](https://github.com/zeke/semantic-pull-requests) - GitHub status check that ensures your pull requests follow the Conventional Commits spec.
 - [Assign Author](https://github.com/technote-space/assign-author) - GitHub Actions to assign author to issue or PR.
 - [setup-amber](https://github.com/psibi/setup-amber) - GitHub action to install and cache the amber tool.
+- [Issues Helper](https://github.com/actions-cool/issues-helper) - GitHub Action easily helps you automatically manage issues.
+- [Upstream Issue Action](https://github.com/antfu/action-upstream-issue)
 
 ## Go
 
