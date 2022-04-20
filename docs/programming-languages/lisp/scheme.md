@@ -87,3 +87,4 @@ title: Scheme
 - [miniKanren with symbolic constraints with better performance](https://github.com/webyrd/faster-miniKanren)
 - [tinyKanren](https://github.com/yinwang0/tinyKanren) - Simplified version of the original miniKanren.
 - [CLP(Rosette) on top of miniKanren](https://github.com/chansey97/clprosette-miniKanren)
+- [FLISP](https://github.com/fjames86/flisp) - Scheme-like Lisp interpreter that can also run as an operating system.

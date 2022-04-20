@@ -316,3 +316,4 @@
 - [Pcb-rs](https://github.com/YJDoc2/pcb-rs) - Library to easily write software emulated hardware. ([HN](https://news.ycombinator.com/item?id=31024101))
 - [List of awesome open source hardware tools](https://github.com/aolofsson/awesome-hardware-tools)
 - [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware)
+- [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard) ([HN](https://news.ycombinator.com/item?id=31089677))

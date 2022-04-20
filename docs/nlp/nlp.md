@@ -552,3 +552,4 @@
 - [exBERT](https://github.com/bhoov/exbert) - Visual Analysis Tool to Explore Learned Representations in Transformers Models.
 - [How DALL-E 2 Works (2022)](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) ([HN](https://news.ycombinator.com/item?id=31084312))
 - [Getting started with NLP for absolute beginners (2022)](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/)
+- [EasyNLP](https://github.com/alibaba/EasyNLP) - Comprehensive and Easy-to-use NLP Toolkit.

@@ -958,3 +958,4 @@
 - [autoflake8](https://github.com/fsouza/autoflake8) - Removes unused imports and unused variables from Python code.
 - [µPipenv](https://github.com/thoth-station/micropipenv) - Lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output.
 - [pypi-deps-db](https://github.com/DavHau/pypi-deps-db) - Dependency database for python packages on pypi.
+- [pydocstyle](https://github.com/PyCQA/pydocstyle) - Static analysis tool for checking compliance with Python docstring conventions.

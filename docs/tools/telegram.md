@@ -120,6 +120,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Syntax Highlighter Bot](https://github.com/dcdunkan/syntax-highlighter-bot)
 - [grammYdocsbot](https://github.com/grammyjs/docs-bot) - Telegram bot to let you search grammY docs inline.
 - [Telegram Web Bots Demo](https://github.com/zubiden/tg-web-bot-demo)
+- [Syntax Highlighter WebApp](https://github.com/dcdunkan/tg-webapp-syntax-highlighter) - Syntax highlighter bot based on Telegram's WebApp update.
 
 ## Notes
 

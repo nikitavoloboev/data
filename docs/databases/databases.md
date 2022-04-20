@@ -223,7 +223,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [RisingWave](https://github.com/singularity-data/risingwave) - Cloud-native streaming database that uses SQL as the interface language.
 - [RunKV](https://github.com/MrCroxx/RunKV) - Experimental cloud-native distributed KV engine for OLTP workload.
 - [ATE](https://github.com/tokera-com/ate) - Distributed immutable data store with strong encryption and authentication.
-- [YDB](https://github.com/ydb-platform/ydb) - Open-source Distributed SQL Database that combines high availability and scalability with strict consistency and ACID transactions. ([Web](https://ydb.tech/)) ([HN](https://news.ycombinator.com/item?id=31081272))
+- [YDB](https://github.com/ydb-platform/ydb) - Open-source Distributed SQL Database that combines high availability and scalability with strict consistency and ACID transactions. ([Web](https://ydb.tech/)) ([HN](https://news.ycombinator.com/item?id=31081272)) ([Python SDK](https://github.com/ydb-platform/ydb-python-sdk)) ([Go SDK](https://github.com/ydb-platform/ydb-go-sdk))
 
 ## Tools
 

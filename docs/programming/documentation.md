@@ -169,3 +169,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Vercel has nice changelog](https://twitter.com/mschoening/status/1514635315117367302)
 - [StrictDoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
 - [SourceDocs](https://github.com/SourceDocs/SourceDocs) - Generate Markdown documentation from source code.
+- [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language.

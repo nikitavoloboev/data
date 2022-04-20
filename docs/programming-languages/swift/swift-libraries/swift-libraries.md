@@ -487,6 +487,7 @@
 - [SwiftUI Drawer](https://github.com/maustinstar/swiftui-drawer) - SwiftUI bottom-up controller, like in the Maps app. Drag to expand or minimize.
 - [TextView](https://github.com/SwiftUI-Plus/TextView) - SwiftUI multi-line TextView implementation including support for auto-sizing. (iOS).
 - [SwiftTipJar](https://github.com/dkasaj/SwiftTipJar) - Swift package that lets you have a tip jar running in minutes.
+- [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView) - Scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 
 ## Test
 
@@ -1093,6 +1094,7 @@
 - [StoreHelper](https://github.com/russell-archer/StoreHelper) - Swift Package Manager (SPM) package that enables developers to easily add in-app purchase support to iOS 15/macOS 12 SwiftUI apps.
 - [Mirai](https://github.com/moriturus/Mirai) - Provides Rust-styled Future.
 - [AnyObservableObject](https://github.com/marty-suzuki/AnyObservableObject)
+- [CloudKit + Codable](https://github.com/insidegui/CloudKitCodable)
 
 ## Other (not lib)
 

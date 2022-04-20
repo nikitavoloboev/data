@@ -222,3 +222,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 - [Deno Cheat Sheet](https://oscarotero.com/deno/) ([Code](https://github.com/oscarotero/deno-cheatsheet))
 - [Exec](https://github.com/gpasq/deno-exec) - Easy way to execute external scripts.
 - [Netlify Edge Functions: A new serverless runtime powered by Deno (2022)](https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions) ([HN](https://news.ycombinator.com/item?id=31084301))
+- [Oak Middleware JWT](https://github.com/halvardssm/oak-middleware-jwt)
+- [Deno RESTful API using OAK](https://github.com/asad-mlbd/deno-api-starter-oak)

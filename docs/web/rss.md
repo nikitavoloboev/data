@@ -154,3 +154,4 @@ title: RSS
 - [Big News: Newsletters + RSS iOS app](https://apps.apple.com/gb/app/big-news-newsletters-rss/id1582306019)
 - [Make RSS full text](https://fulltextrssplz.whtsky.me/) ([Code](https://github.com/whtsky/fulltextrssplz))
 - [RSS Finder](https://github.com/ggkovacs/rss-finder) - Find RSS feeds url.
+- [RSS to TG](https://github.com/recoilme/rss2tg) - Monitor RSS list by words list and post new links to telegram.

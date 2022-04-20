@@ -329,3 +329,4 @@
 - [Vectorflow](https://github.com/Netflix/vectorflow) - Minimalist neural network library optimized for sparse data and single machine environments.
 - [D2Go](https://github.com/facebookresearch/d2go) - Toolkit for efficient deep learning.
 - [Slideflow](https://github.com/jamesdolezal/slideflow) - Deep learning pipeline for histology image analysis, with both Tensorflow and PyTorch support.
+- [Forte](https://github.com/asyml/forte) - Bring good software engineering to your ML solutions, starting from Data.

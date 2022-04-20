@@ -83,3 +83,4 @@ title: Vulkan API
 - [lava](https://github.com/liblava/liblava) - Modern and easy-to-use library for the Vulkan API.
 - [Sierra](https://github.com/arcana-engine/sierra) - Vulkan-lite GPU API.
 - [Zig vulkan renderer](https://github.com/Avokadoen/zig_vulkan)
+- [Vulkan Helpers](https://github.com/jpbruyere/vkhelpers) - Vulkan c helper library.

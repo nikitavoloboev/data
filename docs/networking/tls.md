@@ -88,3 +88,4 @@ title: TLS
 - [What is TLS fingerprinting? (2022)](https://fingerprintjs.com/blog/what-is-tls-fingerprinting-transport-layer-security/)
 - [GoSSL](https://github.com/yakuter/gossl) - Cross platform, easy to use SSL tool written with native Go.
 - [uTLS](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
+- [TLS Encrypted Client Hello](https://github.com/tlswg/draft-ietf-tls-esni)

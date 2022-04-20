@@ -137,3 +137,4 @@ title: Redis
 - [Redis S2Geo](https://github.com/sulewicz/redis-s2geo) - Simple Redis Module for geospatial queries, which utilizes S2 Region Coverer algorithm for indexing.
 - [Reimplementation of Redis in Rust](https://github.com/unrealhoang/memds)
 - [Redis-Tagging](https://github.com/smrchy/redis-tagging) - NodeJS library based helper to tag (sorted) items with Redis.
+- [Resque](https://github.com/resque/resque) - Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.

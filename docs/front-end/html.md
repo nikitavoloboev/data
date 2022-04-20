@@ -260,3 +260,5 @@ Hi<div>oh no break</div>
 - [Designing Better Breadcrumbs (2022)](https://www.smashingmagazine.com/2022/04/designing-better-breadcrumbs/)
 - [HTML to Text](https://github.com/html-to-text/node-html-to-text) - Advanced converter that parses HTML and returns beautiful text.
 - [Why the GOV.UK Design System team changed the input type for numbers (2022)](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/)
+- [HTML Rewriter](https://github.com/worker-tools/html-rewriter) - WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browsers, etc.
+- [HTMLJS-Parser](https://github.com/marko-js/htmljs-parser) - HTML parser recognizes content and string placeholders and allows JavaScript expressions as attribute values.

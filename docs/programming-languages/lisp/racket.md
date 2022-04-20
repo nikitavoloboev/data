@@ -119,3 +119,4 @@ title: Racket
 - [Rake](https://github.com/uwplse/rake) - Compiling DSLs to high-level hardware instructions.
 - [Zuo](https://github.com/racket/zuo) - Tiny Racket for Scripting.
 - [Racket gains new build system using tiny Scheme implementation Zuo](https://github.com/racket/racket/pull/4179) ([Lobsters](https://lobste.rs/s/ax4iyv/racket_gains_new_build_system_using_tiny))
+- [collections](https://github.com/lexi-lambda/racket-collections) - Generic collections API for Racket.

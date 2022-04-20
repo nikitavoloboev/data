@@ -81,3 +81,4 @@ title: Shaders
 - [Visualizing Complex Numbers Using GLSL (2022)](https://hturan.com/writing/complex-numbers-glsl)
 - [ShaderGraph](https://github.com/unconed/shadergraph) - Library for linking together GLSL snippets into stand-alone shaders. It is mainly meant to build complicated shaders 100% programmatically.
 - [Taichi Voxel Challenge](https://github.com/yuanming-hu/voxel-art)
+- [MiniShadertoy](http://xem.github.io/MiniShadertoy/) - Tiny webGL shader playground. ([Code](https://github.com/xem/MiniShadertoy))

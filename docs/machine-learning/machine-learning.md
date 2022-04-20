@@ -779,3 +779,4 @@
 - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) - Each puzzle asks you to reimplement one function in the NumPy standard library without magic.
 - [ACM FAccT - 2022 Accepted Papers](https://facctconference.org/2022/acceptedpapers.html)
 - [How Attention works, in the field of artificial intelligence](https://github.com/lucidrains/attention)
+- [Awesome Weak-Shot Learning](https://github.com/bcmi/Awesome-Weak-Shot-Learning)

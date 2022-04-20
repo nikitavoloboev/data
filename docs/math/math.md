@@ -354,3 +354,4 @@
 - [LaTeX code for some of my lecture notes](https://github.com/gillescastel/lecture-notes)
 - [Interactive Videos to Explain Quaternions](https://eater.net/quaternions) ([HN](https://news.ycombinator.com/item?id=31083042))
 - [There’s more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/) ([HN](https://news.ycombinator.com/item?id=31086970))
+- [Bad but interesting mathematical notation idea (2022)](https://blog.plover.com/math/se/notation.html) ([HN](https://news.ycombinator.com/item?id=31087533))

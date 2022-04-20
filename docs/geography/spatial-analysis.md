@@ -190,3 +190,4 @@ title: Spatial analysis
 - [GeoBlaze](https://github.com/GeoTIFF/geoblaze) - Blazing Fast JavaScript Raster Processing Engine. ([Web](http://geoblaze.io/))
 - [Geocube](https://github.com/airbusgeo/geocube) - Geo-spatial imagery database designed as a serverless service to serve processing pipelines of satellite images at large scale.
 - [Mapr](https://github.com/maplibre/maplibre-rs) - Native cross platform maps in Rust using WebGPU. ([HN](https://news.ycombinator.com/item?id=31086087))
+- [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery (2022)](https://tech.marksblogg.com/faster-geospatial-enrichment.html) ([HN](https://news.ycombinator.com/item?id=31093376))

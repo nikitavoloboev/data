@@ -109,6 +109,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Martian Mono](https://github.com/evilmartians/mono) - Free and open-source monospaced font from Evil Martians.
 - [SFMono Square](https://github.com/delphinus/homebrew-sfmono-square) - Based on SF Mono, and added glyphs for Japanese & patched for Nerd Fonts.
 - [Sono](https://github.com/sursly/sono) - Soft monospace variable font.
+- [Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk) - Sans serif typeface with a contemporary appearance intended for both text and display.
 
 ## Links
 

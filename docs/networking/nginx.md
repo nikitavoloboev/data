@@ -76,3 +76,4 @@ title: Nginx
 - [Nginx Common Useful Configuration](https://github.com/tldr-devops/nginx-common-configuration) ([HN](https://news.ycombinator.com/item?id=30871242))
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile (2021)](https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/) ([HN](https://news.ycombinator.com/item?id=30902744))
 - [ngx_upstream_jdomain](https://github.com/nicholaschiasson/ngx_upstream_jdomain) - Asynchronous domain name resolution module for nginx upstream.
+- [Zestginx](https://github.com/ZestProjects/zestginx) - Modern, performant, and secure NGINX distribution packed with features.
