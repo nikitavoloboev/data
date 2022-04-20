@@ -224,6 +224,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [RunKV](https://github.com/MrCroxx/RunKV) - Experimental cloud-native distributed KV engine for OLTP workload.
 - [ATE](https://github.com/tokera-com/ate) - Distributed immutable data store with strong encryption and authentication.
 - [YDB](https://github.com/ydb-platform/ydb) - Open-source Distributed SQL Database that combines high availability and scalability with strict consistency and ACID transactions. ([Web](https://ydb.tech/)) ([HN](https://news.ycombinator.com/item?id=31081272)) ([Python SDK](https://github.com/ydb-platform/ydb-python-sdk)) ([Go SDK](https://github.com/ydb-platform/ydb-go-sdk))
+- [ForestDB](https://github.com/couchbase/forestdb) - Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie.
 
 ## Tools
 
@@ -580,3 +581,5 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Architecture of a Database System (2007)](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [Kerchunk](https://github.com/fsspec/kerchunk) - Cloud-friendly access to archival data.
 - [Klepto](https://github.com/hellofresh/klepto) - Tool for copying and anonymising data.
+- [Databases to keep an eye on (2022)](https://pradeepchhetri.xyz/databasestokeepaneyeon/)
+- [QuestDB: Fast Open Source Time Series Database (Vlad Ilyushchenko) (2022)](https://www.youtube.com/watch?v=AxxutZ0v3HE)

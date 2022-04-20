@@ -115,6 +115,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [SwiftUI app to search and showcase SF Symbols](https://github.com/atrinh0/sfsymbols)
 - [AudioPerfLab](https://github.com/Ableton/AudioPerfLab) - App for exploring real-time audio performance on iPhone and iPad.
 - [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS)
+- [Podcast iOS app](https://github.com/rafaelclaycon/PodcastApp) - Made with Swift and SwiftUI.
 
 ## Other
 

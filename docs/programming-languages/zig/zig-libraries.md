@@ -117,6 +117,7 @@
 - [uuid6-zig](https://github.com/jdknezek/uuid6-zig) - UUIDv6 implemented in Zig.
 - [zig-docker](https://github.com/nektro/zig-docker) - Zig bindings for the Docker Engine API.
 - [zlog](https://github.com/candrewlee14/zlog) - Zero-allocation log library for Zig.
+- [mustache-zig](https://github.com/batiati/mustache-zig) - Logic-less templates for Zig.
 
 ## Links
 

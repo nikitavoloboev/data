@@ -32,6 +32,7 @@
 - [Elegant Chaos](https://elegantchaos.com/) - Mac and iOS software development, consultancy, debugging, and contracting.
 - [Nice Photon](https://nicephoton.com/) - Make iOS apps. ([GitHub](https://github.com/nicephoton))
 - [Xmartlabs](https://xmartlabs.com/) ([GitHub](https://github.com/xmartlabs))
+- [Windmill](http://madebywindmill.com/)
 
 ## Node
 
@@ -226,6 +227,7 @@
 - [Black Square Media](https://blacksquaremedia.com/) ([GitHub](https://github.com/bsm))
 - [Uptech Studio](https://www.uptechstudio.com/) - Product, Design, and Development. ([GitHub](https://github.com/uptech))
 - [Element 84](https://www.element84.com/) ([GitHub](https://github.com/Element84))
+- [fourTheorem](https://www.fourtheorem.com/)
 
 ## Notes
 

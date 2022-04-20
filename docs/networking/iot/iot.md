@@ -86,3 +86,4 @@
 - [thin-edge.io](https://thin-edge.io/) - Open edge framework for lightweight IoT devices. ([Code](https://github.com/thin-edge/thin-edge.io))
 - [Seeed Studio Bazaar](https://www.seeedstudio.com/) - IoT Hardware enabler.
 - [Nexus](https://github.com/mobius-home/nexus) - Centralized server for collecting IoT metric data for Elixir/Nerves devices using Mobius.
+- [Azure IoT SDK for Rust](https://github.com/damienpontifex/azure-iot-sdk-rs) - Self developed library to interact with Azure IoT Hub using MQTT protocol.

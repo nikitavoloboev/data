@@ -229,3 +229,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Open Source Alternatives to Proprietary Software](https://www.opensourcealternative.to/)
 - [Ask HN: Do you contribute to open source projects? (2022)](https://news.ycombinator.com/item?id=30765596)
 - [OSS Database](https://ossdatabase.com/) - Open source alternatives to popular software. ([Code](https://github.com/prithvi16/ossdatabase))
+- [Open Source Software Insight](https://ossinsight.io/) - Explore deep insights from 4,500,000,000+ GitHub Events. ([Code](https://github.com/pingcap/ossinsight))

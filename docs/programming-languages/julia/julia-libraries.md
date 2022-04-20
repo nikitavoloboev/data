@@ -91,6 +91,7 @@
 - [DLPack.jl](https://github.com/pabloferz/DLPack.jl) - Julia wrapper for DLPack.
 - [ConstraintLearning](https://github.com/JuliaConstraints/ConstraintLearning.jl) - Julia package for people that love to learn new things about constraints.
 - [FluxPrune](https://github.com/darsnack/FluxPrune.jl) - Pruning framework and methods for Flux.
+- [ReactiveMP.jl](https://github.com/biaslab/ReactiveMP.jl) - Julia package for automatic Bayesian inference on a factor graph with reactive message passing.
 
 ## Math
 

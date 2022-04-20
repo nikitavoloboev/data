@@ -92,3 +92,5 @@
 - [Best books about building a house](https://twitter.com/ehn/status/1506494510528102401)
 - [Parametric Architecture](https://parametric-architecture.com/link-in-bio/) ([Twitter](https://twitter.com/parametricarch))
 - [Linear Magazine](https://linear-magazine.com/) - Magazine for the architecturally curious. ([Twitter](https://twitter.com/linear_magazine))
+- [Detailed Assemblies for an Airtight Small Home (2022)](https://www.finehomebuilding.com/2022/04/19/detailed-assemblies-for-an-airtight-small-home) ([HN](https://news.ycombinator.com/item?id=31091851))
+- [Fine Homebuilding](https://www.finehomebuilding.com/)

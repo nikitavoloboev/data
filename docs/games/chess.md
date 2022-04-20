@@ -44,6 +44,7 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Chess With Friends](https://rootshirechess.glitch.me/) - Play chess and video chat with your friends at the same time, no login required. ([HN](https://news.ycombinator.com/item?id=22790728))
 - [Let's write a tiny chess engine in Go](https://zserge.com/posts/carnatus/) ([Code](https://github.com/zserge/carnatus))
 - [Stockfish](https://github.com/official-stockfish/Stockfish) - Strong open source chess engine. ([Web](https://stockfishchess.org/)) ([macOS app](https://github.com/daylen/stockfish-mac)) ([Changelog](https://abrok.eu/stockfish/)) ([Stockfish 12 on Lichess](https://lichess.org/blog/X9uXyxUAANCqN1OF/stockfish-12-on-lichess)) ([HN](https://news.ycombinator.com/item?id=27733455))
+- [Stockfish Testing Framework](https://tests.stockfishchess.org/tests)
 - [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)
 - [What is 5D chess? (2020)](https://en.chessbase.com/post/what-on-earth-is-5d-chess) ([HN](https://news.ycombinator.com/item?id=24054313))
 - [Chess Board HTML Element](https://justinfagnani.github.io/chessboard-element/) ([Code](https://github.com/justinfagnani/chessboard-element/))

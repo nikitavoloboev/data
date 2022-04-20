@@ -490,3 +490,4 @@ all: unset
 - [Browser in the Dark: flashlights with CSS and canvas](https://voussoir.net/writing/browser_in_the_dark) ([HN](https://news.ycombinator.com/item?id=31029845))
 - [Declarative design (2022)](https://adactio.com/journal/18982)
 - [Loaders | UI Ball](https://uiball.com/loaders/) - Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. ([Code](https://github.com/GriffinJohnston/uiball-loaders))
+- [The Future of CSS: CSS Toggles (2022)](https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/)

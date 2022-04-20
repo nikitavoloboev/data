@@ -4,7 +4,7 @@ title: AWS
 
 # [AWS](https://aws.amazon.com/)
 
-AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice.
+AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice. [SLIC Starter](https://github.com/fourTheorem/slic-starter) seems great as AWS serverless starter.
 
 ## Interesting
 
@@ -336,3 +336,7 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://d
 - [goproxy-s3](https://github.com/rakyll/goproxy-s3) - Go proxy that serves from S3.
 - [Scaling containers on AWS in 2022](https://www.vladionescu.me/posts/scaling-containers-on-aws-in-2022/)
 - [FP Complete AWS Foundation](https://github.com/fpco/terraform-aws-foundation) - Establish a solid Foundation on AWS with these modules for Terraform.
+- [Cross-account / cross-domain EventBridge example](https://github.com/fourTheorem/cross-account-eventbridge) - Demonstration of using EventBridge across accounts to publish cross-domain application events.
+- [SLIC Starter](https://github.com/fourTheorem/slic-starter) - Complete starter project for production-grade serverless applications on AWS.
+- [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Easy alarms and dashboards for Lambda, DynamoDB, API Gateway, Kinesis, Step Functions and more.
+- [AI as a Service: Serverless machine learning with AWS (2020)](https://www.manning.com/books/ai-as-a-service) ([Code](https://github.com/fourTheorem/ai-as-a-service))

@@ -141,3 +141,4 @@
 - [ZAP (Report Anything Protocol)](https://github.com/zaptst/zap) - Streamable structured interface for real time reporting of developer tools.
 - [How to run end-to-end tests 10x faster with firecracker (2022)](https://webapp.io/blog/github-actions-10x-faster-with-firecracker/)
 - [Ask HN: How do you keep track of software requirements and test them? (2022)](https://news.ycombinator.com/item?id=31083131)
+- [Storybook Test Runner](https://github.com/storybookjs/test-runner) - Turn stories into executable tests.

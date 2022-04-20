@@ -302,6 +302,8 @@
 - [inline-c](https://github.com/fpco/inline-c)
 - [pretty-show](https://github.com/yav/pretty-show) - Tools for working with derived Show instances in Haskell.
 - [Chapelure](https://github.com/Haskell-Chapelure/chapelure) - Diagnostic library for Haskell.
+- [mtl](https://github.com/haskell/mtl) - Monad Transformer Library.
+- [doctemplates](https://github.com/jgm/doctemplates) - Text templating system used by pandoc.
 
 ## Notes
 

@@ -63,3 +63,4 @@
 - [Objective-C in Rust](https://github.com/madsmtm/objc2)
 - [Using bindgen to generate Rust bindings for Objective-c (2020)](https://simlay.net/posts/rust-bindgen-objc-support/)
 - [Compile and debug objective-c runtime](https://github.com/Jeswang/objc4-532.2)
+- [ObjCGraphView](https://github.com/trailofbits/ObjCGraphView) - Objective-C Binary Ninja plugin.

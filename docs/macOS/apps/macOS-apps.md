@@ -144,6 +144,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - Mac app to block your own access to distracting websites. ([Web](http://selfcontrolapp.com/))
 - [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through time zones.
 - [Seashore](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
+- [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 
 ## Other interesting apps
 

@@ -54,3 +54,5 @@ title: Signal processing
 - [HTS-AT: A Hierarchical Token-Semantic Audio Transformer for Sound Classification and Detection (2022)](https://arxiv.org/abs/2202.00874) ([Code](https://github.com/RetroCirce/HTS-Audio-Transformer))
 - [Universal's Audible Watermark](https://www.mattmontag.com/music/universals-audible-watermark) ([HN](https://news.ycombinator.com/item?id=31080999))
 - [Deep Learning for Audio (DLA)](https://github.com/markovka17/dla)
+- [Finding Similarities in Music Using Stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_AB_Joins.html#Finding-Similarities-in-Music-Using-STUMPY) ([HN](https://news.ycombinator.com/item?id=31092512))
+- [SigPy](https://github.com/mikgroup/sigpy) - Python package for signal processing, with emphasis on iterative methods.

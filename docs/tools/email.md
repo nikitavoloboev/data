@@ -4,7 +4,7 @@ I use [Spark](https://sparkmailapp.com) email client connected to various [Gmail
 
 I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters) and unsubscribe from anything that brings no value and only adds noise.
 
-[gmailctl](https://github.com/mbrt/gmailctl) is a useful tool for setting up email filters.
+[gmailctl](https://github.com/mbrt/gmailctl) is a useful tool for setting up email filters. I use [Postmark Email Templates](https://github.com/wildbit/postmark-templates) often.
 
 ## Notes
 

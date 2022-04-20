@@ -6,6 +6,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## CLI
 
+- [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.
 - [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
 - [bubblelister](https://github.com/treilik/bubblelister) - bubble to list your structs in a bubbletea program.
@@ -78,6 +79,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Qalam](https://github.com/iskaa02/qalam) - Go library for easy terminal styling.
 - [Boa](https://github.com/elewis787/boa) - Cobra command styled usage and help component powered by bubbletea.
 - [console](https://github.com/containerd/console) - Go package for dealing with consoles. Light on deps and a simple API.
+- [Spinner](https://github.com/leaanthony/spinner) - Simple, configurable, multi-platform terminal spinner.
 
 ## Test
 
@@ -1582,6 +1584,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Tokenizer](https://github.com/bzick/tokenizer) - Tokenizer (lexer) for Go.
 - [pipe](https://github.com/preslavrachev/pipe) - Simple and somewhat idiomatic way of constructing easy-to-glance-at pipes for sequential processes.
 - [Pion RTCP](https://github.com/pion/rtcp) - Go implementation of RTCP.
+- [Debme](https://github.com/leaanthony/debme) - embed.FS wrapper providing additional functionality.
+- [Slicer](https://github.com/leaanthony/slicer) - Utility class for handling slices.
+- [Go ANSI Parser](https://github.com/leaanthony/go-ansi-parser) - Converts strings with ANSI escape codes into a slice of structs that represent styled text.
+- [go-mp4](https://github.com/abema/go-mp4) - Go library for reading and writing MP4.
 
 ## Links
 

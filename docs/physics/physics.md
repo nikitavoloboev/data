@@ -2,6 +2,8 @@
 
 [This](https://www.susanrigetti.com/physics) & [this Reddit thread](https://www.reddit.com/r/AskPhysics/comments/sxrg4q/how_can_i_learn_physics_on_my_own/) are nice places to start learning physics. I like reading [AskPhysics subreddit](https://www.reddit.com/r/AskPhysics/).
 
+I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s work most fascinating.
+
 ## Notes
 
 - What is energy?

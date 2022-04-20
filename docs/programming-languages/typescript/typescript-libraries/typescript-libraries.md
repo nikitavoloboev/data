@@ -477,6 +477,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [InversifyJS](https://github.com/inversify/InversifyJS) - Powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 - [flocky](https://github.com/devoxa/flocky) - Utility library with clarity and efficiency at the core. 0 dependencies.
 - [trace-mapping](https://github.com/jridgewell/trace-mapping) - Trace the original position through a source map.
+- [TypeScript-JSON](https://github.com/samchon/typescript-json) - 2x faster JSON stringify function with only one line.
 
 ## Links
 

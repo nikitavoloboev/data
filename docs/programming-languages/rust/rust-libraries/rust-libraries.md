@@ -274,6 +274,7 @@
 - [map-to-const](https://github.com/rnag/map-to-const) - Easily convert `HashMap<K, V>` to constant `[(K, V); N]` values.
 - [Rust Dual Interface for q/kdb+](https://github.com/diamondrod/kdbplus) - Dual q/kdb+ interface for API to build a shared library and an IPC client.
 - [Performance statistic collection for rusts database connection crates](https://github.com/diesel-rs/metrics)
+- [vec-map](https://github.com/contain-rs/vec-map) - Simple map based on a vector for small integer keys.
 
 ## Video
 

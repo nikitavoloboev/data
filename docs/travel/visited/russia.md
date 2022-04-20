@@ -547,3 +547,5 @@ I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/
 - [«Объединяет телевизор, а не Пушкин». Интервью Александра Роднянского (2022)](https://www.youtube.com/watch?v=vvPHcjfeIII)
 - [Great thread on Russian 90's history](https://twitter.com/kamilkazani/status/1513681957749596162)
 - [China and Russia's economies combined are in fact likely about 35% of the world's economy when taking PPP into account](https://twitter.com/RnaudBertrand/status/1513005692986175498)
+- [Новая Газета. Европа](https://novayagazeta.eu/) ([Twitter](https://twitter.com/novayagazeta_eu))
+- [Как мы открыли и закрыли магазин феминистского мерча (2022)](https://journal.tinkoff.ru/fem-merch/)

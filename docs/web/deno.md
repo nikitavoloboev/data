@@ -224,3 +224,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 - [Netlify Edge Functions: A new serverless runtime powered by Deno (2022)](https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions) ([HN](https://news.ycombinator.com/item?id=31084301))
 - [Oak Middleware JWT](https://github.com/halvardssm/oak-middleware-jwt)
 - [Deno RESTful API using OAK](https://github.com/asad-mlbd/deno-api-starter-oak)
+- [Authorization Server Implementation in Deno](https://github.com/authlete/deno-oak-oauth-server)
+- [Oak Sessions](https://github.com/jcs224/oak_sessions) - Cookie-based web sessions with the Oak framework.

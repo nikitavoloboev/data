@@ -394,3 +394,4 @@ title: PyTorch
 - [Denoising Diffusion Probabilistic Models in PyTorch](https://github.com/rosinality/denoising-diffusion-pytorch)
 - [PyTorch Geometric Install Helper](https://github.com/mberr/pytorch-geometric-installer)
 - [PyTorch Benchmarks](https://github.com/pytorch/benchmark) - Collection of open source benchmarks used to evaluate PyTorch performance.
+- [Torchprofile](https://github.com/zhijian-liu/torchprofile) - General and accurate MACs / FLOPs profiler for PyTorch models.

@@ -251,6 +251,7 @@
 - [StickyTabBarViewController](https://github.com/emrepun/StickyTabBarViewController) - Sticky and Collapsible View on top of tab bar.
 - [NotSwiftUI](https://github.com/Jonas1197/notSwiftUI) - Designed to help you create UI components quickly and efficiently with code.
 - [Switches Animations](https://github.com/jwd-ali/Switch-Animations) - Animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX.
+- [TempiFFT](https://github.com/jscalo/tempi-fft) - Real-time audio input and FFT written entirely in Swift for iOS.
 
 ## macOS
 
@@ -319,6 +320,7 @@
 - [Socket](https://github.com/PureSwift/Socket) - Swift async/await based socket.
 - [DOMKit](https://github.com/swiftwasm/DOMKit) - Type-safe access to DOM APIs from Swift.
 - [Arachne](https://github.com/artemisia-absynthium/arachne) - Networking layer for apps using Swift Concurrency.
+- [Swift runtime for Fastly Compute@Edge](https://github.com/AndrewBarba/swift-compute-runtime)
 
 ## WASM
 
@@ -488,6 +490,7 @@
 - [TextView](https://github.com/SwiftUI-Plus/TextView) - SwiftUI multi-line TextView implementation including support for auto-sizing. (iOS).
 - [SwiftTipJar](https://github.com/dkasaj/SwiftTipJar) - Swift package that lets you have a tip jar running in minutes.
 - [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView) - Scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
+- [SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer) - Super-light modifier that adds a shimmering effect to any SwiftUI View.
 
 ## Test
 
@@ -545,6 +548,7 @@
 - [RapidLMDB](https://github.com/tannerdsilva/RapidLMDB) - Fast and efficient LMDB wrapper for Swift.
 - [supabase-swift](https://github.com/supabase-community/supabase-swift) - Swift client for Supabase.
 - [Vapor provider for RediStack](https://github.com/vapor/redis)
+- [CloudKit + Codable](https://github.com/insidegui/CloudKitCodable)
 
 ## Graphics
 
@@ -1094,7 +1098,6 @@
 - [StoreHelper](https://github.com/russell-archer/StoreHelper) - Swift Package Manager (SPM) package that enables developers to easily add in-app purchase support to iOS 15/macOS 12 SwiftUI apps.
 - [Mirai](https://github.com/moriturus/Mirai) - Provides Rust-styled Future.
 - [AnyObservableObject](https://github.com/marty-suzuki/AnyObservableObject)
-- [CloudKit + Codable](https://github.com/insidegui/CloudKitCodable)
 
 ## Other (not lib)
 

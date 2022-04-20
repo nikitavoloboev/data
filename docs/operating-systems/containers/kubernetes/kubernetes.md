@@ -713,3 +713,4 @@ title: Kubernetes
 - [keptn](https://keptn.sh/) - Cloud-native application life-cycle orchestration. Keptn automates your SLO-driven multi-stage delivery and operations & remediation of your applications. ([Code](https://github.com/keptn/keptn))
 - [The Missing Kubernetes Type System (2022)](https://danielmangum.com/posts/the-missing-kubernetes-type-system/) ([HN](https://news.ycombinator.com/item?id=31062666))
 - [kpt](https://github.com/GoogleContainerTools/kpt) - Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
+- [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - CoreDNS plugin to resolve all types of external Kubernetes resources.

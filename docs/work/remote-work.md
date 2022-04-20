@@ -16,6 +16,7 @@
 - [Steve Jobs and I became close friends. We went for long walks at Castle Rock State Park, shared meals and wide-ranging conversations about life and design. We bounced ideas off each other. Sometimes he would start a conversation with "Here's a crazy idea...", and the idea would go back and forth and evolve into a serious discussion, or occasionally a workable design. Steve listened to me and challenged me. His support at Apple allowed me to made a difference in the world](https://focusmark.hashnode.dev/what-worries-me-about-remote-work)
 - [Linear does nice all team bake/cook together over zoom once a quarter](https://twitter.com/karrisaarinen/status/1453821275307077646)
 - [A single in person meeting with a coworker brought me closer to them than a year of weekly zoom 1:1s. claiming there’s no difference feels delusional to me.](https://twitter.com/gem_ray/status/1455218628358402048)
+- [Meetings create alignment. The minute after a meeting you start drifting. Drift is higher in low-trust environments. Too many (long) meetings are a sign of dysfunctional organizations. Either there is no trust, no alignment, or neither.](https://twitter.com/cpojer/status/1516745858741862406)
 
 ## Links
 

@@ -197,6 +197,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [List of underrated titles on PS4 (2022)](https://www.reddit.com/r/PS4/comments/tdnlgw/a_fat_list_of_underrated_titles_on_ps4/)
 - [What is your most favorite Playstation game of all time? (2022)](https://www.reddit.com/r/PS4/comments/txh5a2/what_is_your_most_favorite_playstation_game_of/)
 - [What is in your opinion one MUST play game from the last 20 years? (2022)](https://www.reddit.com/r/patientgamers/comments/u5j9cb/what_is_in_your_opinion_one_must_play_game_from/)
+- [What are you currently playing on PS?](https://www.reddit.com/r/PS4/comments/u7ieii/what_are_you_currently_playing/)
 
 ## Links
 

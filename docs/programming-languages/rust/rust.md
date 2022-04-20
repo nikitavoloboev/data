@@ -770,3 +770,4 @@ title: Rust
 - [Rust Cheat Sheet](https://github.com/alhassy/RustCheatSheet/blob/main/RustCheatSheet.org)
 - [ICE (Internal Compiler Error)](https://github.com/matthiaskrgr/icemaker) - Small program to automatically find crashes in the rust compiler using rustcs own tests and different feature flags.
 - [Rewriting sysctl in Rust: systeroid (2022)](https://blog.orhun.dev/rewriting-sysctl-in-rust/) ([HN](https://news.ycombinator.com/item?id=31060939))
+- [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Tutorial for the Rust language. ([Code](https://github.com/RalfJung/rust-101))

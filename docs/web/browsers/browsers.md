@@ -206,3 +206,5 @@
 - [Erik](https://github.com/phimage/Erik) - Headless browser based on WebKit and HTML parser Kanna.
 - [Browser Pool](https://github.com/apify/browser-pool) - Node.js library to easily manage and rotate a pool of web browsers, using any of the popular browser automation libraries like Puppeteer, Playwright, or SecretAgent.
 - [Header generator](https://github.com/apify/header-generator) - NodeJs package for generating browser-like headers.
+- [Priority Hints](https://wicg.github.io/priority-hints/) - Browser API to enable developers signal the priorities of the resources they need to download. ([Code](https://github.com/WICG/priority-hints))
+- [BrowserBench.org](https://browserbench.org/) - Browser Benchmarks.

@@ -246,3 +246,4 @@
 - [Comprehensive, original, insightful, and otherwise interesting data science blogs (2022)](https://www.narrator.ai/blog/comprehensive-original-insightful-and-otherwise-interesting-data-science-blogs/)
 - [datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel) - Datasette plugin for publishing data using Vercel.
 - [Tad](https://www.tadviewer.com/) - Desktop application for viewing and analyzing tabular data. ([Code](https://github.com/antonycourtney/tad))
+- [Ask HN: Which new skills for a data science career? (2022)](https://news.ycombinator.com/item?id=31093910)

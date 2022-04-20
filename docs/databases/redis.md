@@ -138,3 +138,4 @@ title: Redis
 - [Reimplementation of Redis in Rust](https://github.com/unrealhoang/memds)
 - [Redis-Tagging](https://github.com/smrchy/redis-tagging) - NodeJS library based helper to tag (sorted) items with Redis.
 - [Resque](https://github.com/resque/resque) - Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
+- [Webdis](https://github.com/nicolasff/webdis) - Redis HTTP interface with JSON output. ([Web](https://webd.is/))

@@ -6,6 +6,7 @@
 - [Don't spend 3 days automating something you can manually do in 20 min.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
 - [Chief Automation Officer will be a highly paid and much coveted exec position in the future at all companies.](https://twitter.com/bentossell/status/1461665360806035456)
 - [Anything done asynchronously is a form of automation. You're replicating your current self to be available for a task in the future, w/o the need to be there.](https://twitter.com/stephsmithio/status/1378818155837976579)
+- [Working automated systems evolve from working manual systems. But only some manual systems work.](https://news.ycombinator.com/item?id=31073352)
 
 ## Links
 
@@ -44,6 +45,7 @@
 - [Director](https://github.com/ovh/celery-director) - Simple and rapid framework to build workflows with Celery.
 - [Drone footage of Tesla factory (2022)](https://www.youtube.com/watch?v=7-4yOx1CnXE) ([HN](https://news.ycombinator.com/item?id=30961370))
 - [Modular Assembly Innovations](https://modularai.com/)
+- [Automation is the serialization of understanding (2022)](https://changelog.com/posts/automation-is-the-serialization-of-understanding) ([HN](https://news.ycombinator.com/item?id=31073352))
 
 ## Images
 

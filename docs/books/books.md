@@ -530,3 +530,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Librarian](https://github.com/portah/librarian) - Index, search, read ebooks - pdf, epub.
 - [Docland](https://github.com/mpazik/docland) - Application that allows a user to display, organize, search and store all the articles and ebooks a person has ever read, together with personal annotations and comments.
 - [How Neuromancer formed the Cyberpunk Aesthetics](https://sabukaru.online/articles/how-neuromancer-birthed-cyberpunk) ([HN](https://news.ycombinator.com/item?id=30918411))
+- [Goodreads book parser in NodeJS](https://github.com/shakogegia/goodreads-parser)

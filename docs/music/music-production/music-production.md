@@ -136,6 +136,8 @@
 - [rhythmical](https://github.com/felixroos/rhythmical) - Language to parse and manipulate musical rhythms with JS.
 - [jazzband](https://felixroos.github.io/jazzband/) - Virtual Jazz Band that can play chord symbols via Web Audio API. ([Code](https://github.com/felixroos/jazzband))
 - [Strudel REPL](https://strudel.tidalcycles.org/) - Live coding environment that brings the ideas of Tidal Cycles to the browser. ([Intro](https://loophole-letters.vercel.app/strudel))
+- [Csound-expression](https://github.com/spell-music/csound-expression) - Haskell Framework for Electronic Music.
+- [Gwion](https://github.com/Gwion/Gwion) - Strongly-timed musical programming language. ([Docs](https://gwion.github.io/Gwion/))
 
 ## Inspiration
 

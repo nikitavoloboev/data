@@ -1,5 +1,7 @@
 # Marketing
 
+[How to drive SaaS product adoption](https://blog.driftly.app/saas-product-adoption/) article is nice.
+
 ## Nice ads
 
 - [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)
@@ -166,6 +168,7 @@
 - [30x500](https://30x500.com/academy/) - Learn to Launch Profitable Products. ([Twitter](https://twitter.com/30x500))
 - [Principles of online marketing](https://twitter.com/david_perell/status/1496510849388666886)
 - [Ask HN: What will it take to destroy the ads market? (2022)](https://news.ycombinator.com/item?id=30671023)
+- [How to drive SaaS product adoption in 2022](https://blog.driftly.app/saas-product-adoption/)
 
 ## Images
 

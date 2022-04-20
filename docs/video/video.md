@@ -4,6 +4,8 @@ I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMK
 
 [Descript](https://www.descript.com/) is amazing for video editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself).
 
+Prefer [Google Meet](https://meet.google.com/) for video calls.
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.

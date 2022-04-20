@@ -19,3 +19,5 @@ title: ClickHouse
 - [ClickHouse SQLAlchemy](https://github.com/cloudflare/sqlalchemy-clickhouse)
 - [ClickHouse SQLAlchemy](https://github.com/xzkostyan/clickhouse-sqlalchemy)
 - [ClickHouse Python Driver](https://github.com/mymarilyn/clickhouse-driver)
+- [ClickHouse Keeper](https://pradeepchhetri.xyz/clickhousekeeper/) - Alternative to Apache ZooKeeper.
+- [ClickHouse vs TimescaleDB (2021)](https://pradeepchhetri.xyz/clickhousevstimescaledb/)
