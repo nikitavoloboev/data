@@ -4,7 +4,7 @@ title: Deno
 
 # [Deno](https://github.com/denoland/deno)
 
-[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager.
+[Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager. [Peko](https://github.com/sebringrose/peko) seems nice as a web framework.
 
 Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 

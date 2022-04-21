@@ -50,3 +50,4 @@ title: Satisfiability modulo theories
 - [Cvc5: Versatile and Industrial-Strength SMT Solver (2022)](https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf)
 - [JavaSMT](https://github.com/sosy-lab/java-smt) - Unified Java API for SMT solvers.
 - [Yices 2](https://github.com/SRI-CSL/yices2) - Solver for Satisfiability Modulo Theories (SMT) problems. ([Web](https://yices.csl.sri.com/))
+- [Factorio SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers.

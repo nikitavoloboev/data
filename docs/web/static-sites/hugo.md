@@ -85,3 +85,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Building a blog from scratch in 2022 using Hugo, Docker and a bit of Python (2022)](https://blog.ioces.com/matt/posts/everything-old-is-new-again/) ([HN](https://news.ycombinator.com/item?id=30718757))
 - [Hugo Bookshop Starter](https://github.com/CloudCannon/hugo-bookshop-starter) - Starter template for a new Hugo site using Bookshop.
 - [A Hugo Survival Guide (2022)](https://janert.me/guides/hugo-survival-guide/)
+- [SQLite FTS5-based search engine for Hugo pages](https://github.com/fazalmajid/fts5index)

@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community. [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) are great.
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community. [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) & [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU) are great.
 
 ## Notes
 
@@ -780,3 +780,5 @@
 - [ACM FAccT - 2022 Accepted Papers](https://facctconference.org/2022/acceptedpapers.html)
 - [How Attention works, in the field of artificial intelligence](https://github.com/lucidrains/attention)
 - [Awesome Weak-Shot Learning](https://github.com/bcmi/Awesome-Weak-Shot-Learning)
+- [Ultimate Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
+- [What are Diffusion Models? (2022)](https://www.youtube.com/watch?v=fbLgFrlTnGU)

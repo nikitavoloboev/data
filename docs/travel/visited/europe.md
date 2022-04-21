@@ -57,3 +57,4 @@
 - [EU will have issues for not embracing AI and focusing on regulation](https://twitter.com/punk6529/status/1509832349986562048)
 - [Cost of employment for companies in different EU countries (2022)](https://twitter.com/GergelyOrosz/status/1511394247500566533)
 - [What is the Eurodollar System? (2020)](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf) ([HN](https://news.ycombinator.com/item?id=30974598))
+- [Best lower tax countries to move to in Europe (2022)](https://www.reddit.com/r/EuropeFIRE/comments/u7ukpy/best_lower_tax_countries_to_move_to_in_europe/)

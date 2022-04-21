@@ -126,3 +126,4 @@
 - [Swift MarkdownKit](https://github.com/objecthub/swift-markdownkit) - Framework for parsing and transforming text in Markdown format written in Swift 5 for macOS, iOS, and Linux.
 - [Graph Docs CLI](https://github.com/mattpocock/graph-docs-cli) - Revolutionize your docs using knowledge graphs built from Markdown.
 - [CommonMark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript.
+- [book-summary](https://github.com/dvogt23/book-summary) - Automatically creates a SUMMARY.md file for your book (mdbook/gitbook).

@@ -80,3 +80,4 @@ China alongside [Russia](russia.md) and [many more countries](https://worldpopul
 - [The Unintended Consequences of China Leapfrogging to Mobile Internet (2022)](https://yiqinfu.github.io/posts/walled-gardens-china/) ([HN](https://news.ycombinator.com/item?id=30866438))
 - [Why is war in Ukraine rather an opportunity for China, despite all the risks and challenges (2022)](https://twitter.com/AlexGabuev/status/1514172721873276933)
 - [The Great Translation Movement Twitter](https://twitter.com/TGTM_Official) - Fourth estate, wanderer, Chinese information.
+- [This photo triggered China's Cultural Revolution (2020)](https://www.youtube.com/watch?v=kXByOrRrO7c)

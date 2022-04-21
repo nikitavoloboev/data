@@ -9,6 +9,7 @@ title: Fastify
 ## OSS Fastify APIs/Apps
 
 - [Notes API using PostgreSQL, Prisma, and Fastify](https://github.com/iShibi/notes-api)
+- [Fastify Preact SSR](https://github.com/sebringrose/fastify-preact-ssr) - Fastify server-side renders Preact to html and serves with a Preact client.js bundle for DOM hydration.
 
 ## Links
 

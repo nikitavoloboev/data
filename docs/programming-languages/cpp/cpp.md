@@ -12,7 +12,7 @@
 - [C++ resources](https://github.com/MattPD/cpplinks)
 - [Immer](https://github.com/arximboldi/immer) - Postmodern immutable and persistent data structures for C++. ([Paper](https://dl.acm.org/doi/10.1145/3110260))
 - [C++ Build Process Explained](https://github.com/green7ea/cpp-compilation)
-- [IKOS](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation.
+- [IKOS](https://github.com/NASA-SW-VnV/ikos) - Static analyzer for C/C++ based on the theory of Abstract Interpretation. ([HN](https://news.ycombinator.com/item?id=31100483))
 - [cget](https://github.com/pfultz2/cget) - C++ package retrieval.
 - [Is C++ fast? (2019)](https://zeuxcg.org/2019/01/17/is-c-fast/)
 - [In-depth: Functional programming in C++ (2012)](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) ([HN](https://news.ycombinator.com/item?id=18968101)) ([HN 2](https://news.ycombinator.com/item?id=25562800))

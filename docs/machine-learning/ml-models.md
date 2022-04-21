@@ -1,6 +1,6 @@
 # ML Models
 
-[Tangram] & (https://github.com/tangramdotdev/tangram) [PostgresML](https://github.com/postgresml/postgresml) seem neat.
+[Tangram] & (https://github.com/tangramdotdev/tangram) [PostgresML](https://github.com/postgresml/postgresml) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
 
 ## Links
 
@@ -52,7 +52,7 @@
 - [PrimeHub](https://github.com/InfuseAI/primehub) - Toil-free multi-tenancy machine learning platform in your Kubernetes cluster. ([Docs](https://docs.primehub.io/))
 - [MLeap](https://github.com/combust/mleap) - Deploy ML Pipelines to Production. ([Docs](https://combust.github.io/mleap-docs/))
 - [ServingMLFastCelery](https://github.com/jonathanreadshaw/ServingMLFastCelery) - Working example for serving a ML model using FastAPI and Celery.
-- [Cog](https://github.com/replicate/cog) - Containers for machine learning.
+- [Cog](https://github.com/replicate/cog) - Containers for machine learning. ([HN](https://news.ycombinator.com/item?id=31105507))
 - [Explaining Machine Learning Models: A Non-Technical Guide to Interpreting SHAP Analyses (2021)](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 - [Improving a Machine Learning System Is Hard (2021)](https://danshiebler.com/2021-11-06-ml-systems-1/)
 - [Removal-based explanations](https://github.com/iancovert/removal-explanations) - Lightweight implementation of removal-based explanations for ML models.
@@ -80,3 +80,4 @@
 - [ModelCenter](https://github.com/OpenBMB/ModelCenter) - Efficient, Low-Resource, Distributed transformer implementation based on BMTrain.
 - [PostgresML](https://github.com/postgresml/postgresml) - End-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 - [UniLM AI](https://github.com/facebookresearch/data2vec_vision) - Pre-trained models across tasks (understanding, generation and translation), languages, and modalities.
+- [Domino](https://github.com/HazyResearch/domino) - Discover slices of data on which your models underperform.

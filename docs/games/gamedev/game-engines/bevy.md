@@ -31,3 +31,4 @@ title: Bevy Engine
 - [Bevy 0.7 (2022)](https://bevyengine.org/news/bevy-0-7/) ([HN](https://news.ycombinator.com/item?id=31043668))
 - [Blender Bevy Toolkit](https://github.com/sdfgeoff/blender_bevy_toolkit) - Blender addon and bevy plugin to use Blender as an editor for Bevy.
 - [bevy-fly-camera](https://github.com/mcpar-land/bevy_fly_camera) - Standard flying camera in Bevy.
+- [Bevy Voxel Cone Tracing](https://github.com/cryscan/bevy-hikari)

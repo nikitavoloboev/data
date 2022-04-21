@@ -174,3 +174,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [SRE Cheat Sheet](https://github.com/shibumi/SRE-cheat-sheet)
 - [Massdriver](https://www.massdriver.cloud/) - Effortless DevOps.
 - [Checkup](https://github.com/checkupjs/checkup) - Gather static analysis insights for your projects.
+- [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Web](https://gatus.io/))

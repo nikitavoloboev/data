@@ -12,3 +12,4 @@ title: Hydroponics
 - [What elements does a plant need to grow?](https://github.com/hydromisc/hydromisc/blob/master/doc/nutrient-design.md) ([HN](https://news.ycombinator.com/item?id=29242215))
 - [Hydromisc](https://github.com/hydromisc/hydromisc) - Open hardware to measure EC and pH, drive pumps, and otherwise manage a mid-size hydroponic grow over Wi-Fi.
 - [Hydroponics - Low-tech Lab](https://wiki.lowtechlab.org/wiki/Hydroponie/en)
+- [Can You Grow Rice Hydroponically?](https://hydroponicsspace.com/can-you-grow-rice-hydroponically/)

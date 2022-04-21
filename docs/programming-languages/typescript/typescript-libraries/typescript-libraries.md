@@ -478,6 +478,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [flocky](https://github.com/devoxa/flocky) - Utility library with clarity and efficiency at the core. 0 dependencies.
 - [trace-mapping](https://github.com/jridgewell/trace-mapping) - Trace the original position through a source map.
 - [TypeScript-JSON](https://github.com/samchon/typescript-json) - 2x faster JSON stringify function with only one line.
+- [Delta](https://github.com/quilljs/delta) - Simple, yet expressive format that can be used to describe contents and changes.
 
 ## Links
 
@@ -538,3 +539,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [rev-dep](https://github.com/jayu/rev-dep) - File dependency debugging tool for TypeScript projects.
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
 - [npx link](https://github.com/privatenumber/link) - Safer version of npm link.
+- [Anton Gilgur's TS library template](https://github.com/agilgur5/ts-library-base)

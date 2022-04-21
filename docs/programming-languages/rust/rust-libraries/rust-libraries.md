@@ -275,6 +275,7 @@
 - [Rust Dual Interface for q/kdb+](https://github.com/diamondrod/kdbplus) - Dual q/kdb+ interface for API to build a shared library and an IPC client.
 - [Performance statistic collection for rusts database connection crates](https://github.com/diesel-rs/metrics)
 - [vec-map](https://github.com/contain-rs/vec-map) - Simple map based on a vector for small integer keys.
+- [async-postgres](https://github.com/Hexilee/async-postgres) - Runtime-independent asynchronus PostgreSQL client.
 
 ## Video
 
@@ -1778,6 +1779,8 @@
 - [serde-this-or-that](https://github.com/rnag/serde-this-or-that) - Custom deserialization for fields that can be specified as multiple types.
 - [linemux](https://github.com/jmagnuson/linemux) - Asynchronous tailing library in Rust.
 - [JWT](https://github.com/mikkyang/rust-jwt) - JSON Web Token library for Rust.
+- [async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel.
+- [fs_extra](https://github.com/webdesus/fs_extra) - Rust library that provides additional functionality not present in std::fs.
 
 ## Cargo Plugins
 

@@ -320,6 +320,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-redoc](https://github.com/mvrilo/go-redoc) - Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
 - [pub0sub](https://github.com/itzmeanjan/pub0sub) - Fast, Lightweight Pub/Sub over TCP, QUIC - powered by Async I/O.
 - [go-libp2p-webtransport](https://github.com/marten-seemann/go-libp2p-webtransport)
+- [g8](https://github.com/TwiN/g8) - Go library for protecting your HTTP handlers.
 
 ## GraphQL
 
@@ -479,6 +480,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gorocksdb](https://github.com/applinskinner/gorocksdb) - Go wrapper for RocksDB.
 - [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 - [pgproto3](https://github.com/jackc/pgproto3) - Encoder and decoder of the PostgreSQL wire protocol version 3. Can be used as a foundation for PostgreSQL drivers, proxies, mock servers, load balancers and more.
+- [gocache](https://github.com/TwiN/gocache) - High performance and lightweight in-memory cache library with LRU and FIFO support as well as memory-usage-based-eviction.
 
 ## ML
 

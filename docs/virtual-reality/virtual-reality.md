@@ -70,3 +70,4 @@ I enjoy playing [In Death: Unchained](https://www.oculus.com/experiences/quest/2
 - [Mondradiko](https://github.com/mondradiko/mondradiko) - Future-proof VR engine for creating multiplayer virtual reality experiences.
 - [My First 80 Days of VR for Exercise](https://www.nathanlippi.com/blog/digital-dojo) ([HN](https://news.ycombinator.com/item?id=30402020))
 - [Lifecast](https://www.lifecastvr.com/) - 3D video for VR. ([HN](https://news.ycombinator.com/item?id=30675861))
+- [Simular VR: Lenses and Schematics (2022)](https://simulavr.com/blog/lenses-and-vxr-schematics/) ([HN](https://news.ycombinator.com/item?id=31101156))

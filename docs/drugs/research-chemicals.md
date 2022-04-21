@@ -58,3 +58,4 @@ title: Research chemicals
 - [Research Equipment Starter Packs](https://www.reddit.com/r/researchchemicals/comments/sust0u/research_equipment_starter_packs_v2/)
 - [Best functional RC stims](https://www.reddit.com/r/researchchemicals/comments/thmodp/best_functional_rc_stim/)
 - [What are some of your favorite RC? (2022)](https://www.reddit.com/r/researchchemicals/comments/u4myz1/what_are_some_of_your_favourite_rc/)
+- [Good rcs/drugs with a simple/small chemical structure](https://www.reddit.com/r/researchchemicals/comments/u7txak/any_good_rcsdrugs_with_a_simplesmall_chemical/)

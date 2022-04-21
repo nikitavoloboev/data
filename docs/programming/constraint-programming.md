@@ -14,3 +14,4 @@ title: Constraint programming
 - [LUME Kiwi](https://github.com/lume/kiwi) - Fast TypeScript implementation of the Cassowary constraint solving algorithm, based on the seminal Cassowary paper.
 - [Conjure](https://github.com/conjure-cp/conjure) - Automated modelling tool for Constraint Programming.
 - [Nutcracker](https://github.com/TomasMikula/nutcracker) - Problem solving à la carte.
+- [Ask HN: Do you use an optimization solver? Which one? Do you like it? (2022)](https://news.ycombinator.com/item?id=31099186)

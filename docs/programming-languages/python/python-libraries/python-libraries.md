@@ -258,6 +258,7 @@
 - [pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [async-solipsism](https://github.com/bmerry/async-solipsism) - Provide a Python asyncio event loop that does not interact with the outside world at all.
 - [pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose) - Spin up Docker containers during your integration tests automatically.
+- [pytest-memray](https://github.com/bloomberg/pytest-memray) - Pytest plugin for easy integration of memray.
 
 ## Error
 
@@ -949,7 +950,6 @@
 - [package-stats](https://github.com/simonw/package-stats) - Download statistics for my PyPI packages.
 - [pypi-to-sqlite](https://github.com/simonw/pypi-to-sqlite) - Load data about Python packages from PyPI into SQLite.
 - [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage) - Docstring coverage analysis and rating for Python.
-- [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python.
 - [Python f-string guide](https://fstring.help/)
 - [pylint_runner](https://github.com/MasterOdin/pylint_runner) - Python module that recursively runs pylint on python files in current directory and any sub-directories.
 - [Generate Python extensions using Nim language](https://ramanlabs.in/static/blog/Generate_Python_extensions_using_Nim_language.html) ([HN](https://news.ycombinator.com/item?id=31038996))

@@ -239,3 +239,4 @@
 - [C-implemented C compiler](https://github.com/bobrippling/ucc-c-compiler)
 - [A blog that is a single executable binary (2022)](https://www.andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary) ([HN](https://news.ycombinator.com/item?id=31081049))
 - [Tiny C Compiler](https://github.com/mirror/tinycc) - Smallest ANSI C compiler.
+- [Awesome tooling for Bazel users of the C language family](https://github.com/hedronvision/bazel-compile-commands-extractor)

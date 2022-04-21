@@ -36,3 +36,4 @@ I often switch between `Week` and `Month` views.
 - [Amie](https://www.amie.so/) - Joyful productivity. Schedule time for todos, events, and contacts.
 - [datasette-ics](https://github.com/simonw/datasette-ics) - Datasette plugin for outputting iCalendar files.
 - [Bloben App](https://github.com/nibdo/bloben-app) - Self-hosted server-client Calendar and Tasks application for connecting to CalDav servers. ([HN](https://news.ycombinator.com/item?id=30929022))
+- [iCalendar in Rust](https://github.com/hoodie/icalendar-rs)

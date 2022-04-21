@@ -248,10 +248,10 @@ title: TypeScript
 - [DSL built with TypeScript type system to query structured objects](https://github.com/anuraghazra/typelevel-parser)
 - [Awesome TypeScript Derived Languages](https://github.com/orta/awesome-typescript-derived-languages)
 - [TypeScript/How the compiler compiles (2022)](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
+- [Type-Level TypeScript Workshop](https://github.com/gvergnaud/type-level-typescript-workshop)
 
 ## Images
 
 ![](https://i.imgur.com/APrrI2V.png)
 
 > TypeScript’s type hierarchy
-

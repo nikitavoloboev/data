@@ -77,3 +77,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Tesla Anti-Handbook Handbook](https://twitter.com/alex_avoigt/status/1462953513890336771)
 - [Polite Technology](https://polite.technology/preview)
 - [Awesome Culture](https://github.com/expede/awesome-culture)
+- [Benefits as a Reflection of Values / Oxide (2022)](https://oxide.computer/blog/benefits-as-a-reflection-of-values) ([Tweet](https://twitter.com/ilianathewitch/status/1516835248671059973))

@@ -252,3 +252,5 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Shank](https://github.com/metaplex-foundation/shank) - Extracts IDL from Solana Rust contracts.
 - [Solana Workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana.
 - [DeployDAO Verified Program Builder](https://github.com/DeployDAO/verified-programs-builder) - Runs Solana builds of GitHub repos, emitting program artifacts as results.
+- [Solana Playground](https://beta.solpg.io/) ([Code](https://github.com/solana-playground/solana-playground))
+- [Solana AccountsDB Plugin Postgres](https://github.com/solana-labs/solana-accountsdb-plugin-postgres) - Implements a plugin storing account data to a PostgreSQL database to illustrate how a plugin can be developed to work with Solana validators using the Plugin Framework.

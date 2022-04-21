@@ -180,3 +180,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ArXiv-Miner](https://github.com/valayDave/arxiv-miner) - Toolkit for mining research papers on CS ArXiv.
 - [SimBiber](https://github.com/MLNLP-World/SimBiber) - Tool for simplifying bibtex with official info.
 - [Research Papers right from python](https://github.com/petermr/pygetpapers)
+- [Zotodo](https://github.com/wbthomason/zotodo) - Zotero plugin to make Todoist tasks for papers added to Zotero.

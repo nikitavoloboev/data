@@ -94,3 +94,4 @@ title: WebSocket
 - [ewebsock](https://github.com/rerun-io/ewebsock) - Rust Websocket client that compiles to both native and web.
 - [Websocket comparisons](https://github.com/ThePrimeagen/tyrone-biggums)
 - [bufferutil](https://github.com/websockets/bufferutil) - WebSocket buffer utils.
+- [Thor](https://github.com/observing/thor) - WebSocket benchmarking/load generator.

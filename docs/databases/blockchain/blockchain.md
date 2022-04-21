@@ -380,3 +380,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Resources for building blockchain from scratch](https://twitter.com/m1guelpf/status/1515093241112190978)
 - [KILT Protocol](https://www.kilt.io/) - Blockchain identity protocol for issuing self-sovereign, anonymous, verifiable credentials and decentralized identifiers. ([Code](https://github.com/KILTprotocol/mashnet-node))
 - [Real TPS](https://realtps.net/) - Measures the current number of transactions per second committed by various blockchains. ([Code](https://github.com/Aimeedeer/realtps))
+- [Privy](https://www.privy.io/) - Simple APIs to manage user data off-chain. ([Twitter](https://twitter.com/privy_io))

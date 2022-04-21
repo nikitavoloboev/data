@@ -186,3 +186,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [numbsql](https://github.com/cpcloud/numbsql) - Run Numba compiled functions into SQLite.
 - [Migrating from SQLite to PostgreSQL](https://bytebase.com/blog/database-migration-sqlite-to-postgresql) ([HN](https://news.ycombinator.com/item?id=31038614))
 - [Golang SQLite database/sql (2022)](https://earthly.dev/blog/golang-sqlite/)
+- [SQLite WASM](https://github.com/kbumsik/sqlite-wasm) - Run SQLite on the web, using WebAssembly.

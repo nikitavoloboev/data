@@ -345,3 +345,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [YouTube.js](https://github.com/LuanRT/YouTube.js) - Full-featured wrapper around YouTube's private API. ([HN](https://news.ycombinator.com/item?id=31021611))
 - [Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O and Webcam Streaming in Go. ([HN](https://news.ycombinator.com/item?id=31053274))
 - [MovieGo](https://github.com/mowshon/moviego) - Go library for video editing.
+- [Why every Johnny Harris video goes viral (2022)](https://www.youtube.com/watch?v=dIKsEhX-vyU)

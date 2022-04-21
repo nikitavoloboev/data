@@ -154,3 +154,4 @@
 - [Shooting Yourself in the Foot with GenServers (2021)](https://tylerayoung.com/2021/12/02/shooting-yourself-in-the-foot-with-genservers/)
 - [Taking Hashrocket's "Ultimate Elixir CI" to the Next Level (2022)](https://felt.com/blog/hashrocket-ultimate-elixir-to-the-next-level)
 - [What is a GenServer? (2021)](https://stephenbussey.com/2021/07/02/what-is-a-genserver.html)
+- [Writing Shell Scripts Using Elixir (2022)](https://akoutmos.com/post/elixir-shell-scripts/)

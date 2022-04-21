@@ -519,3 +519,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Radicle](https://app.radicle.network/) - Enables developers to securely collaborate on software over a peer-to-peer network built on Git. ([Web Code](https://github.com/radicle-dev/radicle-interface))
 - [GitDB](https://github.com/gitpython-developers/gitdb) - Allows you to access bare git repositories for reading and writing.
 - [gitsu](https://github.com/matsuyoshi30/gitsu) - Switch git user easily.
+- [diff-explore](https://github.com/jason0x43/diff-explore) - Terminal program to explore git diffs.

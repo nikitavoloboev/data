@@ -140,6 +140,7 @@ title: Next.js
 - [next-static-paths](https://github.com/Schniz/next-static-paths) - Statically prevent 404s in your Next.js applications using TypeScript.
 - [nextjs-redirect](https://github.com/pablopunk/nextjs-redirect) - Redirect to any URL in NextJS both in client and server.
 - [Next.js API OG Image](https://github.com/neg4n/next-api-og-image) - Generate open-graph images dynamically in HTML or React using Next.js API Routes. Suitable for serverless environment.
+- [next-dx](https://github.com/souporserious/next-dx) - Enhance NextJS development with utilities for local and remote content.
 
 ## Notes
 

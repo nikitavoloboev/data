@@ -175,6 +175,7 @@
 - [NifIo](https://github.com/rusterlium/NifIo) - Rustler example. Implements file IO in a NIF.
 - [Hush](https://github.com/gordalina/hush) - Runtime configuration loader for Elixir applications.
 - [Stripe for Elixir](https://github.com/beam-community/stripity_stripe)
+- [Solid](https://github.com/edgurgel/solid) - Liquid template engine in Elixir.
 
 ## Links
 

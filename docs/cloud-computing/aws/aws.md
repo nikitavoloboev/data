@@ -4,7 +4,7 @@ title: AWS
 
 # [AWS](https://aws.amazon.com/)
 
-AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice. [SLIC Starter](https://github.com/fourTheorem/slic-starter) seems great as AWS serverless starter.
+AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://github.com/aws/aws-cdk), [Digger](https://digger.dev/) & [ts2asl](https://github.com/Stedi/ts2asl) are nice. [SLIC Starter](https://github.com/fourTheorem/slic-starter) seems great as AWS serverless starter.
 
 ## Interesting
 
@@ -340,3 +340,5 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [Digger](https://d
 - [SLIC Starter](https://github.com/fourTheorem/slic-starter) - Complete starter project for production-grade serverless applications on AWS.
 - [SLIC Watch](https://github.com/fourTheorem/slic-watch) - Easy alarms and dashboards for Lambda, DynamoDB, API Gateway, Kinesis, Step Functions and more.
 - [AI as a Service: Serverless machine learning with AWS (2020)](https://www.manning.com/books/ai-as-a-service) ([Code](https://github.com/fourTheorem/ai-as-a-service))
+- [aws-account-shredder](https://github.com/openshift/aws-account-shredder) - Repository to audit, service, and clean up leftover AWS resources.
+- [AWS EKS ASG Rolling Update Handler](https://github.com/TwiN/aws-eks-asg-rolling-update-handler) - Handles rolling upgrades for AWS ASGs for EKS.

@@ -17,3 +17,4 @@ title: Astro
 - [Astro Themes & Integrations (2022)](https://astro.build/blog/themes-and-integrations/) ([Tweet](https://twitter.com/n_moore/status/1511778064753172483))
 - [Astro-Solid Hacker News](https://github.com/ryansolid/astro-solid-hackernews)
 - [Astro SPA](https://github.com/RafidMuhymin/astro-spa) - Astro JS component that turns a website into an SPA and boost performance using various techniques.
+- [Astro Starter Kit: Minimal](https://github.com/bholmesdev/stream-overlays)

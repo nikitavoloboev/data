@@ -1098,6 +1098,7 @@
 - [StoreHelper](https://github.com/russell-archer/StoreHelper) - Swift Package Manager (SPM) package that enables developers to easily add in-app purchase support to iOS 15/macOS 12 SwiftUI apps.
 - [Mirai](https://github.com/moriturus/Mirai) - Provides Rust-styled Future.
 - [AnyObservableObject](https://github.com/marty-suzuki/AnyObservableObject)
+- [UpdateAvailableKit](https://github.com/SwapnanilDhol/UpdateAvailableKit) - Easy way to check if the installed app has an update available.
 
 ## Other (not lib)
 

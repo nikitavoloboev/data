@@ -909,6 +909,7 @@
 - [SimpleBar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 - [PEG.js](https://github.com/pegjs/pegjs) - Parser generator for JavaScript.
 - [Yjs Protocols](https://github.com/yjs/y-protocols) - Binary encoding protocols for syncing, awareness, and history information.
+- [radix3](https://github.com/unjs/radix3) - Lightweight and fast router for JavaScript based on Radix Tree.
 
 ## Links
 

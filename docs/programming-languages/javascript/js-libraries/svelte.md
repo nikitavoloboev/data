@@ -226,3 +226,4 @@ title: Svelte
 - [Sveltin](https://github.com/sveltinio/sveltin) - Smartest Way to Build SvelteKit powered static websites. ([Web](https://sveltin.io/))
 - [Svelte-Splitpanes](https://github.com/orefalo/svelte-splitpanes) - Create resizable view panels in Svelte 3, a radical new approach to building user interfaces.
 - [Simplify data fetching in SvelteKit with page endpoints (2022)](https://baptiste.devessier.fr/writing/simplify-data-fetching-in-sveltekit-with-page-endpoints/)
+- [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)

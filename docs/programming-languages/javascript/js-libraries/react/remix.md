@@ -8,6 +8,7 @@ title: Remix
 
 ## OSS Remix apps
 
+- [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template)
 - [Remix Blues Stack](https://github.com/remix-run/blues-stack) - Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
 - [Remix Indie Stack](https://github.com/remix-run/indie-stack) - Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [Remix Grunge Stack](https://github.com/remix-run/grunge-stack) - Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.

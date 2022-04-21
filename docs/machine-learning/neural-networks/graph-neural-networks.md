@@ -108,3 +108,4 @@
 - [Equilibrium Aggregation (2022)](https://fabianfuchsml.github.io/equilibriumaggregation/)
 - [Awesome resources on Graph Neural Networks](https://github.com/GRAND-Lab/Awesome-Graph-Neural-Networks)
 - [Graph Neural Networks with convolutional ARMA filters (2021)](https://arxiv.org/abs/1901.01343) ([Code](https://github.com/xnuohz/ARMA-dgl))
+- [Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation (2021)](https://arxiv.org/abs/2110.08727) ([Code](https://github.com/snap-research/graphless-neural-networks))

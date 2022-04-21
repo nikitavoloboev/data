@@ -15,6 +15,10 @@ title: BitTorrent
 - [What's the best current public index/crawler to find torrents? (2019)](https://www.reddit.com/r/trackers/comments/ebz8w9/whats_the_best_current_public_indexcrawler_to/)
 - [12 Best Torrent Sites](https://www.vpnmentor.com/blog/10-best-torrent-websites/)
 
+## Notes
+
+- [NAS + Plex + Remote Transmission is great combo.](https://twitter.com/jasonpjason/status/1516594279287865353)
+
 ## Links
 
 - [Transmission](https://transmissionbt.com/) - Fast, easy, and free BitTorrent client. ([Code](https://github.com/transmission/transmission))

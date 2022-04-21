@@ -196,3 +196,4 @@ title: Jupyter Notebooks
 - [Jupyter Server Proxy](https://github.com/jupyterhub/jupyter-server-proxy) - Jupyter notebook server extension to proxy web services.
 - [nbgrader](https://github.com/jupyter/nbgrader) - System for assigning and grading notebooks.
 - [Blockly extension for JupyterLab](https://github.com/QuantStack/jupyterlab-blockly)
+- [nbstripout](https://github.com/kynan/nbstripout) - Strip output from Jupyter and IPython notebooks.

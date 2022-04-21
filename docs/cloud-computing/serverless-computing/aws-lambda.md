@@ -4,6 +4,8 @@ title: AWS Lambda
 
 # [AWS Lambda](https://aws.amazon.com/lambda/)
 
+[Serverless framework](https://www.serverless.com/) seems nice.
+
 ## Notes
 
 - [I just reduced latency by \~ 10x by bumping memory from default to \~1GB. w/ provisioned concurrency brought the request time down to around 30ms w DDB](https://twitter.com/dabit3/status/1299846109448282112)
@@ -125,3 +127,4 @@ title: AWS Lambda
 - [Cookiecutter SAM template for Lambda functions in Rust](https://github.com/aws-samples/cookiecutter-aws-sam-rust)
 - [Serverless Webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless Framework plugin to build your lambda functions with Webpack.
 - [serverless-layers](https://github.com/agutoli/serverless-layers) - Serverless.js plugin that implements AWS Lambda Layers which reduces drastically lambda size, warm-up and deployment time.
+- [Introducing multi-service deployments via Serverless Framework Compose (2022)](https://www.serverless.com/blog/serverless-framework-compose-multi-service-deployments)
