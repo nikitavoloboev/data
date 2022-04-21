@@ -215,7 +215,13 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [List of Exobrain Blogs and Digital Gardens](https://irosyadi.gitbook.io/irosyadi/app/exobrain-digital-garden)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other. ([Code](https://github.com/XXIIVV/webring))
+
+Other wiki compilations:
+
+* [Maggie Appleton's compilation](https://github.com/MaggieAppleton/digital-gardeners)
+* [Richard Litt's compilation](https://github.com/RichardLitt/meta-knowledge)
 - [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain)
+* [Best-of Digital Gardens](https://github.com/lyz-code/best-of-digital-gardens)
 
 ## Wiki software
 
