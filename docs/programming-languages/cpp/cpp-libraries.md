@@ -388,6 +388,7 @@
 - [manif](https://github.com/artivis/manif) - Small C++11 header-only library for Lie theory.
 - [sse4-strstr](https://github.com/WojciechMula/sse4-strstr) - SIMD-friendly algorithms for substring searching.
 - [Chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations.
+- [xorstr](https://github.com/JustasMasiulis/xorstr) - Heavily vectorized c++17 compile time string encryption.
 
 ## Links
 

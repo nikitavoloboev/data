@@ -255,3 +255,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [SwiftAuthorizationSample](https://github.com/trilemma-dev/SwiftAuthorizationSample) - Swift sample app for running privileged operations on macOS using a helper tool.
 - [Exploring Mach-O (2022)](https://gpanders.com/blog/exploring-mach-o-part-1/)
 - [launch-tui](https://github.com/wecraftforfun/launch-tui) - Small TUI app to manage launchD.
+- [apple-tools](https://github.com/meme/apple-tools) - Collection of tools for working with Apple software/hardware.

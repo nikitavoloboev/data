@@ -32,3 +32,4 @@ title: Bevy Engine
 - [Blender Bevy Toolkit](https://github.com/sdfgeoff/blender_bevy_toolkit) - Blender addon and bevy plugin to use Blender as an editor for Bevy.
 - [bevy-fly-camera](https://github.com/mcpar-land/bevy_fly_camera) - Standard flying camera in Bevy.
 - [Bevy Voxel Cone Tracing](https://github.com/cryscan/bevy-hikari)
+- [bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap.

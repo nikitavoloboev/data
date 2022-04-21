@@ -317,3 +317,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Neogen](https://github.com/danymat/neogen) - Better annotation generator. Supports multiple languages and annotation conventions.
 - [typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim) - Starting point to setup some lsp related features in neovim.
+- [Viper](https://github.com/aloussase/viper) - Fast CLI plugin manager for (neo)vim.

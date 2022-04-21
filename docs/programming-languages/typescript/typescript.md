@@ -249,6 +249,7 @@ title: TypeScript
 - [Awesome TypeScript Derived Languages](https://github.com/orta/awesome-typescript-derived-languages)
 - [TypeScript/How the compiler compiles (2022)](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 - [Type-Level TypeScript Workshop](https://github.com/gvergnaud/type-level-typescript-workshop)
+- [TypeScript Congress](https://typescriptcongress.com/)
 
 ## Images
 

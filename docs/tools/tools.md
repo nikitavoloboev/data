@@ -697,3 +697,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Ask HN: What technologies greatly improve the efficiency of development? (2022)](https://news.ycombinator.com/item?id=30733384)
 - [Product Hunt's tech stack (2022)](https://twitter.com/ProductHunt/status/1507073444407619588)
 - [Toolhunt](https://www.toolhunt.dev/) - Quality dev tools that will help you ship faster.
+- [Awesome NoCode / LowCode](https://github.com/kairichard/awesome-nocode-lowcode)

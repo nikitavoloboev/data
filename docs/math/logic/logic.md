@@ -74,3 +74,4 @@
 - [Gödel's Incompleteness Theorem in Bash (2022)](https://lacker.io/math/2022/02/24/godels-incompleteness-in-bash.html) ([HN](https://news.ycombinator.com/item?id=30460458))
 - [Foundations of Dawn: The Untyped Multistack Concatenative Calculus (2022)](https://www.dawn-lang.org/posts/foundations-umcc/) ([Lobsters](https://lobste.rs/s/dymalf/foundations_dawn_untyped_multistack))
 - [Literature for logical reasoning](https://github.com/williamLyh/literature_for_logical_reasoning)
+- [Why are you being constructive? (2022)](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)

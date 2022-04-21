@@ -429,3 +429,5 @@ if (
 - [JavaScript on GraalVM](https://github.com/oracle/graaljs) - High performance implementation of the JavaScript programming language. Built on the GraalVM by Oracle Labs.
 - [I Avoid Async/Await (2022)](https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e) ([HN](https://news.ycombinator.com/item?id=31050650))
 - [Shift AST](https://shift-ast.org/) - ECMAScript parser that produces a Shift format AST. ([Code](https://github.com/shapesecurity/shift-parser-js)) ([Bending JavaScript with shift-ast](https://loophole-letters.vercel.app/shift-ast))
+- [JavaScript function composition: What’s the big deal? (2022)](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/)
+- [How not to write property tests in JavaScript (2021)](https://jrsinclair.com/articles/2021/how-not-to-write-property-tests-in-javascript/)

@@ -553,3 +553,5 @@
 - [How DALL-E 2 Works (2022)](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/) ([HN](https://news.ycombinator.com/item?id=31084312))
 - [Getting started with NLP for absolute beginners (2022)](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners/)
 - [EasyNLP](https://github.com/alibaba/EasyNLP) - Comprehensive and Easy-to-use NLP Toolkit.
+- [Reframing Human-AI Collaboration for Generating Free-Text Explanations (2021)](https://arxiv.org/abs/2112.08674) ([Tweet](https://twitter.com/mark_riedl/status/1516815203517751303))
+- [Detoxify](https://github.com/unitaryai/detoxify) - Comment Classification with PyTorch Lightning and Transformers.

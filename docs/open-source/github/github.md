@@ -399,3 +399,4 @@ Awesome List
 - [GitHub Scoped Creds](https://github.com/yuvipanda/gh-scoped-creds) - Provide fine-grained push access to GitHub from a JupyterHub.
 - [GitHub Platform Code Samples](https://github.com/github/platform-samples)
 - [retrogen](https://github.com/cutenode/retrogen) - Tool for generating retrospectives for GitHub activity.
+- [gh-grep](https://github.com/k1LoW/gh-grep) - Print lines matching a pattern in repositories using GitHub API.

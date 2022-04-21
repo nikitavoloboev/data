@@ -216,6 +216,7 @@ title: GitHub actions
 - [setup-amber](https://github.com/psibi/setup-amber) - GitHub action to install and cache the amber tool.
 - [Issues Helper](https://github.com/actions-cool/issues-helper) - GitHub Action easily helps you automatically manage issues.
 - [UpIssues](https://github.com/antfu/upissues) - Mirror issues to the upstream repos.
+- [install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
 
 ## Go
 

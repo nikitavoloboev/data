@@ -525,3 +525,4 @@ the execution time on all cores of a multi-core processor.
 - [Where Linux's load average comes from in the kernel (2022)](https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom) ([HN](https://news.ycombinator.com/item?id=31073145))
 - [Flatcar Container Linux](https://www.flatcar.org/) - Community Linux distribution designed for container workloads, with high security and low maintenance.
 - [Nebraska](https://github.com/kinvolk/nebraska) - Update manager for Flatcar Container Linux.
+- [Limbo](https://github.com/meme/limbo) - XNU in Linux userspace. Run macOS CLI tools natively on Linux. ([Tweet](https://twitter.com/oleavr/status/1516682078213087232))

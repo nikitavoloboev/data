@@ -491,6 +491,7 @@
 - [SwiftTipJar](https://github.com/dkasaj/SwiftTipJar) - Swift package that lets you have a tip jar running in minutes.
 - [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView) - Scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 - [SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer) - Super-light modifier that adds a shimmering effect to any SwiftUI View.
+- [HalfASheet](https://github.com/franklynw/HalfASheet) - SwiftUI pseudo-modal partial screen sheet, with height customization.
 
 ## Test
 

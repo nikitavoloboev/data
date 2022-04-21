@@ -520,3 +520,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitDB](https://github.com/gitpython-developers/gitdb) - Allows you to access bare git repositories for reading and writing.
 - [gitsu](https://github.com/matsuyoshi30/gitsu) - Switch git user easily.
 - [diff-explore](https://github.com/jason0x43/diff-explore) - Terminal program to explore git diffs.
+- [Getting Things Merged (2022)](https://www.tweag.io/blog/2022-04-14-getting-things-merged/)

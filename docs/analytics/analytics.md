@@ -96,3 +96,4 @@ If analytics are used, it's best to implement them server side with something li
 - [AppSignal](https://www.appsignal.com/) - Application Monitoring for Ruby on Rails, Elixir & Node.js.
 - [Offen](https://www.offen.dev/) - Fair and lightweight alternative to common web analytics tools. ([Code](https://github.com/offen/offen))
 - [Ballcone](https://github.com/dustalov/ballcone) - Fast and lightweight server-side Web analytics solution. It requires no JavaScript on your website.
+- [Fugu](https://fugu.lol/) - Simple and privacy-friendly product analytics. ([Code](https://github.com/shafy/fugu))

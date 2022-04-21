@@ -82,3 +82,4 @@ title: Fuzzing
 - [Banana Fuzzer](https://github.com/rezer0dai/bananafzz) - Modulable, loop based, poc gen, code cov, platform agnostic, race oriented.
 - [Awesome Grammar Fuzzing](https://github.com/Microsvuln/Awesome-Grammar-Fuzzing)
 - [sfuzz](https://github.com/seal9055/sfuzz) - JIT compiler / Fuzzer.
+- [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis (2022)](https://arxiv.org/abs/2203.12064) ([Code](https://github.com/Dongdongshe/K-Scheduler))

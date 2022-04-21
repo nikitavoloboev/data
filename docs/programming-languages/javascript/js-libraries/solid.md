@@ -50,3 +50,4 @@ title: SolidJS
 - [SolidJS plugin for Preview.js](https://github.com/fwouts/previewjs-solid-plugin)
 - [Solid JSX](https://github.com/high1/solid-jsx) - Use mdx or xdm with solid-js.
 - [Solid-Blocks](https://github.com/atk/solid-blocks) - UI building blocks for SolidJS.
+- [Solid + Netlify Edge functions powered by Deno HN Demo](https://github.com/solidjs/solid-hackernews/tree/netlify-edge) ([Tweet](https://twitter.com/RyanCarniato/status/1516510395787218944))

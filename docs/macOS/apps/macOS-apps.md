@@ -145,6 +145,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Clocker](https://github.com/n0shake/Clocker) - macOS app to plan and organize through time zones.
 - [Seashore](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
+- [VCam](https://github.com/vcamapp/app) - macOS app that displays an avatar using a virtual camera.
 
 ## Other interesting apps
 
@@ -195,6 +196,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [SOL](https://github.com/ospfranco/sol) - macOS global command palette. Raycast/Spotlight alternative.
 - [One Thing](https://sindresorhus.com/one-thing) - Put a single task or goal in your menu bar. ([CLI](https://github.com/sindresorhus/one-thing))
 - [SF Menu Bar](https://apps.apple.com/app/id1615595104) - Browse Apple's collection of over 3,300 SF Symbols and quickly copy a symbol's name to the clipboard.
+- [Couverture](https://ixeau.com/couverture/) - Easing Curve Editor.
 
 ## Links
 

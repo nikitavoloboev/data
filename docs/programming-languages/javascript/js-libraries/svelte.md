@@ -21,6 +21,7 @@ title: Svelte
 ## Notes
 
 - [Svelte & Cloudflare Workers have been an amazing match for a very long time.](https://twitter.com/lukeed05/status/1450200444202991618)
+- [SvelteKit supports Netlify Edge Functions. Update your packages, add `edge: true` and you're good to go.](https://twitter.com/ascorbic/status/1516904817762914307)
 
 ## Links
 

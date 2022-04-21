@@ -81,3 +81,9 @@ title: Lean
 - [Lean verbose](https://github.com/PatrickMassot/lean-verbose) - Controlled natural language tactics for Lean.
 - [BUM](https://github.com/forked-from-1kasper/bump) - Lean 4 Package Manager.
 - [Simple bidirectional type-checker in Lean 4](https://github.com/gabriel-fallen/bidirectional-demo)
+- [Maze game encoded in Lean 4 syntax](https://github.com/dwrensha/lean4-maze)
+- [Model and framework to prove formal semantics of MLIR programs in Lean4](https://github.com/opencompl/lean-mlir-semantics)
+- [Protocol buffers in Lean 4](https://github.com/zygi/lean-protoc-plugin)
+- [GAP-LEAN](https://github.com/opencompl/lean-gap) - GAP parser, pretty printer, interpreter, and formal semantics.
+- [Cryptography in Lean 4](https://github.com/joehendrix/lean-crypto)
+- [OpenGL Lean bindings](https://github.com/yatima-inc/OpenGL.lean)

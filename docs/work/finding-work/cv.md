@@ -114,3 +114,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Reactive Resume](https://rxresu.me/) - Free and open source resume builder. ([Code](https://github.com/AmruthPillai/Reactive-Resume))
 - [Mac: Open source machine and human compatible CV standard](https://github.com/getmanfred/mac) ([HN](https://news.ycombinator.com/item?id=30818877))
 - [CV tips](https://twitter.com/the2pizza/status/1509459431284789250)
+- [Unsolicited Resume Advice from a hiring manager](https://www.reddit.com/r/sysadmin/comments/u7urub/unsolicited_resume_advice_from_a_hiring_manager/)

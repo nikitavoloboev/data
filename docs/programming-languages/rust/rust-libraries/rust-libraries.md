@@ -1,5 +1,7 @@
 # Rust libraries
 
+[axum](https://github.com/tokio-rs/axum) seems nice as a web framework.
+
 ## CLI
 
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.

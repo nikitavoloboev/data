@@ -119,6 +119,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Dwarkesh Patel](https://dwarkeshpatel.com/)
 - [Gregory Anders](https://gpanders.com/)
 - [Loophole Letters](https://loophole-letters.vercel.app/)
+- [James Sinclair](https://jrsinclair.com/)
 
 ## Notes
 

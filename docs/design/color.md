@@ -159,3 +159,4 @@
 - [color.js](https://github.com/luukdv/color.js) - Extract colors from an image.
 - [Hypercolor](https://hypercolor.dev/) - Gradients for Tailwind CSS. ([Code](https://github.com/jordihales/hypercolor))
 - [Mesh Gradients inside Sketch](https://www.meshgradients.com/)
+- [Web color is still broken](https://webcolorisstillbroken.com/) ([HN](https://news.ycombinator.com/item?id=31107643))

@@ -99,3 +99,4 @@ title: Field-programmable gate array
 - [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) - Open-source FPGA IP Generator.
 - [LUNA](https://github.com/greatscottgadgets/luna) - USB multitool + Amaranth HDL framework for monitoring, hacking, and developing USB devices.
 - [Simplifying FPGA management in Docker](https://github.com/inaccel/docker)
+- [FPGA Awesome list](https://github.com/FPGA-Systems/fpga-awesome-list)

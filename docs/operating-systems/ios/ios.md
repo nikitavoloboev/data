@@ -116,6 +116,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [AudioPerfLab](https://github.com/Ableton/AudioPerfLab) - App for exploring real-time audio performance on iPhone and iPad.
 - [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS)
 - [Podcast iOS app](https://github.com/rafaelclaycon/PodcastApp) - Made with Swift and SwiftUI.
+- [DeltaUI](https://github.com/ericlewis/DeltaUI) - SwiftUI + CoreData user interface for DeltaCore & Friends.
 
 ## Other
 

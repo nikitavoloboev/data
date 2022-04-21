@@ -102,3 +102,4 @@
 - [ppx_match_seq](https://github.com/nojb/ppx_match_seq) - Syntax for Seq.t parsers.
 - [Tour of Parser-Printers: Introduction (2022)](https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction) ([HN](https://news.ycombinator.com/item?id=30990463))
 - [py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library.
+- [Handwritten Parsers & Lexers in Go (2014)](https://blog.gopheracademy.com/advent-2014/parsers-lexers/) ([Lobsters](https://lobste.rs/s/hhhiiz/handwritten_parsers_lexers_go))
