@@ -64,3 +64,5 @@
 - [Metrics For Your Web Application's Dashboards (2022)](https://sirupsen.com/metrics)
 - [sugarjazy](https://github.com/chmouel/sugarjazy) - Parse JSON logs nicely.
 - [Good log management services (2022)](https://twitter.com/buildsghost/status/1508572689820127233)
+- [All your metrics belong to influx (2022)](https://hannes.robur.coop/Posts/Monitoring)
+- [magic-trace](https://github.com/janestreet/magic-trace) - Collects and displays high-resolution traces of what a process is doing. ([HN](https://news.ycombinator.com/item?id=31121319))

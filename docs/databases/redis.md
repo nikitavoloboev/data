@@ -139,3 +139,5 @@ title: Redis
 - [Redis-Tagging](https://github.com/smrchy/redis-tagging) - NodeJS library based helper to tag (sorted) items with Redis.
 - [Resque](https://github.com/resque/resque) - Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
 - [Webdis](https://github.com/nicolasff/webdis) - Redis HTTP interface with JSON output. ([Web](https://webd.is/))
+- [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) - Official Redis GUI.
+- [Redis RDB Tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON.

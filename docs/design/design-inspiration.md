@@ -6,10 +6,11 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
-- [Scruples Studio](https://scruples.studio/)
+- [Column](https://column.com/)
 - [Glass](https://glass.photo/)
 - [Modfy](https://www.modfy.video/)
 - [Instatus](https://instatus.com/)
+- [Scruples Studio](https://scruples.studio/)
 - [Useful Books](https://www.usefulbooks.com/)
 - [BrandBird Studio](https://www.brandbird.app/)
 - [PlanetScale](https://planetscale.com/)
@@ -319,6 +320,7 @@ Here are few more things I liked, design wise.
 - [Nick Zuber](https://nickzuber.com/)
 - [Daniel Pyrathon](https://pirosb3.io/)
 - [Rob Hope](https://robhope.com/)
+- [Dylan Brouwer](https://www.dylanbrouwer.design/)
 - [Andy Sparks](https://www.andysparks.co/)
 - [Jessica Sachs](https://jess.sh/)
 - [Andrea Limjoco](http://andrealimjo.co/)

@@ -4,6 +4,8 @@ title: RSS
 
 # [RSS](https://en.wikipedia.org/wiki/RSS)
 
+Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
+
 ## Notes
 
 - Can subscribe to Pinboard via RSS.

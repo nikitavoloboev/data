@@ -8,6 +8,8 @@ I use a variation of [YNAB methodology](https://www.youneedabudget.com/method/) 
 
 In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets (good ETFs being the safest investment).
 
+[Column](https://news.ycombinator.com/item?id=31109170) seems like a nice bank.
+
 ## Ongoing subscriptions
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up.
@@ -179,3 +181,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Buy. Borrow. Die. | How The Rich Stay Rich](https://www.youtube.com/watch?v=4_XFqwN9zLU)
 - [ProjectionLab](https://projectionlab.com/) - Simulate your Financial Future. Plan for Financial Independence. ([HN](https://news.ycombinator.com/item?id=31083093))
 - [Ramp](https://ramp.com/) - Corporate cards and finance automation that scales with you.
+- [Column](https://column.com/) - Nationally charted bank for developers. ([HN](https://news.ycombinator.com/item?id=31109170)) ([Twitter](https://twitter.com/columnbank))

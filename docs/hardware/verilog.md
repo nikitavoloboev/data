@@ -39,3 +39,4 @@
 - [VeriGPU](https://github.com/hughperkins/VeriGPU) - OpenSource GPU, in Verilog, loosely based on RISC-V ISA.
 - [Asicle](https://github.com/htfab/asicle) - Wordle implemented in Verilog.
 - [Verilog rules for Bazel](https://github.com/Lightelligence/rules_verilog)
+- [cocotb](https://github.com/cocotb/cocotb) - Open source coroutine-based cosimulation testbench environment for verifying VHDL and SystemVerilog RTL using Python. ([Web](https://www.cocotb.org/))

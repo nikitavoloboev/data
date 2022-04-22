@@ -85,6 +85,7 @@
 - [Fragment](https://www.fsynth.com/) - Real-time audiovisual live coding environment.
 - [SOUL](https://soul.dev/) - Language and infrastructure for writing and deploying audio code. ([Code](https://github.com/soul-lang/SOUL))
 - [libpd](https://github.com/libpd/libpd) - Pure Data embeddable audio synthesis library.
+- [libpd-rs](https://github.com/alisomay/libpd-rs) - Safe rust abstractions over libpd-sys.
 - [Music Suite](https://github.com/music-suite/music-suite) - Language for describing music, based on Haskell.
 - [Oscen](https://github.com/reedrosenbluth/oscen) - Rust Sound Synthesis Library.
 - [Dorico for iPad](https://new.steinberg.net/dorico/ipad/) - Music Notation App.
@@ -138,6 +139,8 @@
 - [Strudel REPL](https://strudel.tidalcycles.org/) - Live coding environment that brings the ideas of Tidal Cycles to the browser. ([Intro](https://loophole-letters.vercel.app/strudel))
 - [Csound-expression](https://github.com/spell-music/csound-expression) - Haskell Framework for Electronic Music.
 - [Gwion](https://github.com/Gwion/Gwion) - Strongly-timed musical programming language. ([Docs](https://gwion.github.io/Gwion/))
+- [mep](https://github.com/alisomay/mep) - Scriptable MIDI event processor.
+- [music-fns](https://github.com/madewithlove/music-fns) - JavaScript music utility library that contains small music notation related functions.
 
 ## Inspiration
 
@@ -352,3 +355,4 @@
 - [MuseScore](https://musescore.org/en) - Free music composition and notation software. ([Code](https://github.com/musescore/MuseScore))
 - [Online music/voice separator based on neural nets](https://mvsep.com/)
 - [Rhythmical Alternations (2022)](https://loophole-letters.vercel.app/rhythmical-alternations)
+- [What chords do you need? (2022)](https://www.jefftk.com/p/what-chords-do-you-need) ([HN](https://news.ycombinator.com/item?id=31109456))

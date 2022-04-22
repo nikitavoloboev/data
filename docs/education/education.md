@@ -2,7 +2,7 @@
 
 Due to [my unpleasant time in university](university.md), I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things. One big thing I took away from my time with official education is it's never worth stressing over it.
 
-There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/status/1507112802879737864) for good reason. There should be more tools built for them. Tools like [Primer](https://primer.com/), [Khan Academy](https://www.khanacademy.org/) & [Learney](https://www.learney.me).
+There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/status/1507112802879737864) for good reason. There should be more tools built for them. Tools like [Primer](https://primer.com/), [Khan Academy](https://www.khanacademy.org/), [Learney](https://www.learney.me) & [Synthesis](https://www.synthesis.is/).
 
 ## Notes
 
@@ -81,7 +81,7 @@ There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/statu
 - [Someone has to run the fabs (2021)](https://noahpinion.substack.com/p/someone-has-to-run-the-fabs)
 - [Juni Learning](https://junilearning.com/) - Online Coding Classes for Kids.
 - [UPchieve](https://upchieve.org/) - Live tutoring for low-income students. ([HN](https://news.ycombinator.com/item?id=27118794))
-- [Synthesis](https://www.synthesis.is/) - Weekly, 1-hour enrichment program for students who want to learn how to build the future.
+- [Synthesis](https://www.synthesis.is/) - Weekly simulations for kids ages 6-14. ([Twitter](https://twitter.com/synthesischool)) ([Tweet](https://twitter.com/APompliano/status/1517180389630136323)) ([Decentralizing Education with Synthesis](https://balajis.com/synthesis/))
 - [Life lessons I wish school taught us. (2021)](https://twitter.com/Julian/status/1397281208296525833)
 - [Incentive Misalignment in Higher Education with Jason Brennan (2021)](https://overcast.fm/+a0BojqpoM)
 - [Is education no longer the ‘great equalizer’? (2021)](https://www.nytimes.com/2021/06/23/opinion/education-poverty-intervention.html) ([HN](https://news.ycombinator.com/item?id=27603039))

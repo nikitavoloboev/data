@@ -13,7 +13,7 @@ NixOS is a Linux distro built around the Nix package system. Nix is built around
 
 Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../package-managers/nix/nix.md) on macOS. And I am exploring using NixOS for servers I use.
 
-[NixOS Weekly](https://weekly.nixos.org/) is useful newsletter.
+[NixOS Weekly](https://weekly.nixos.org/) is useful newsletter. [NixOS MicroVMs](https://github.com/astro/microvm.nix) seem neat.
 
 ## Nix configs (NixOS)
 

@@ -526,3 +526,4 @@ the execution time on all cores of a multi-core processor.
 - [Flatcar Container Linux](https://www.flatcar.org/) - Community Linux distribution designed for container workloads, with high security and low maintenance.
 - [Nebraska](https://github.com/kinvolk/nebraska) - Update manager for Flatcar Container Linux.
 - [Limbo](https://github.com/meme/limbo) - XNU in Linux userspace. Run macOS CLI tools natively on Linux. ([Tweet](https://twitter.com/oleavr/status/1516682078213087232))
+- [lrun](https://github.com/quark-zju/lrun) - Run programs on Linux with resources (ex. time, memory, network, device, syscall, etc.) limited.

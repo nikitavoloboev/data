@@ -571,6 +571,8 @@
 - [REPLTreeViews.jl](https://github.com/pfitzseb/REPLTreeViews.jl) - Provides an experimental macro to interactively show complex data structures in the REPL.
 - [Tricks](https://github.com/oxinabox/Tricks.jl) - Cunning tricks though the Julia compiler internals.
 - [Parameters](https://github.com/mauro3/Parameters.jl) - Types with default field values, keyword constructors and (un-)pack macros.
+- [Karnak.jl](https://github.com/cormullion/Karnak.jl) - Small extension for the Luxor.jl package to help with constructing graph-style drawings.
+- [Maybe.jl](https://github.com/JuliaPreludes/Maybe.jl) - Optional value handling for Julia.
 
 ## Links
 

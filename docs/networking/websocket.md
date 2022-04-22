@@ -4,7 +4,7 @@ title: WebSocket
 
 # [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
-[soketi](https://github.com/soketi/soketi) is great.
+[soketi](https://github.com/soketi/soketi) & [Tungstenite](https://github.com/snapview/tungstenite-rs) are great.
 
 ## Links
 

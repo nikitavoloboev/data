@@ -35,3 +35,4 @@
 - [Azuki](https://www.azuki.co/) - All-you-can-read manga subscription. ([HN](https://news.ycombinator.com/item?id=30804169))
 - [KCC](https://github.com/ciromattia/kcc) - Comic and manga converter for ebook readers.
 - [Animechan](https://github.com/rocktimsaikia/anime-chan) - Free rest API for anime quotes.
+- [Tanoshi](https://faldez.github.io/tanoshi/) - Self hosted web manga reader. ([Code](https://github.com/faldez/tanoshi))

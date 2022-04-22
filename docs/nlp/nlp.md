@@ -528,7 +528,7 @@
 - [A Divide-and-Conquer Approach to the Summarization of Long Documents (2020)](https://arxiv.org/abs/2004.06190) ([Code](https://github.com/AlexGidiotis/DANCER-summ))
 - [Resources for learning about Text Mining and Natural Language Processing](https://github.com/stepthom/text_mining_resources)
 - [LinkBERT: Pretraining Language Models with Document Links (2022)](https://arxiv.org/abs/2203.15827) ([Code](https://github.com/michiyasunaga/LinkBERT))
-- [Dall-E 2 (2022)](https://openai.com/dall-e-2/) ([HN](https://news.ycombinator.com/item?id=30932095)) ([Tweet](https://twitter.com/sama/status/1511724264629678084)) ([Tweet](https://twitter.com/OpenAI/status/1511714511673126914)) ([Code](https://github.com/rish-16/dalle2-pytorch)) ([Code](https://github.com/lucidrains/DALLE2-pytorch)) ([Code](https://github.com/openai/dalle-2-preview)) ([Tweet](https://twitter.com/BecomingCritter/status/1511808277490896903)) ([Tweet](https://twitter.com/nickcammarata/status/1511861061988892675)) ([HN](https://news.ycombinator.com/item?id=30961385))
+- [Dall-E 2 (2022)](https://openai.com/dall-e-2/) ([HN](https://news.ycombinator.com/item?id=30932095)) ([Tweet](https://twitter.com/sama/status/1511724264629678084)) ([Tweet](https://twitter.com/OpenAI/status/1511714511673126914)) ([Code](https://github.com/rish-16/dalle2-pytorch)) ([Code](https://github.com/lucidrains/DALLE2-pytorch)) ([Code](https://github.com/openai/dalle-2-preview)) ([Tweet](https://twitter.com/BecomingCritter/status/1511808277490896903)) ([Tweet](https://twitter.com/nickcammarata/status/1511861061988892675)) ([HN](https://news.ycombinator.com/item?id=30961385)) ([Video Summary](https://www.youtube.com/watch?v=X3_LD3R_Ygs))
 - [Variations of the Similarity Function of TextRank for Automated Summarization (2016)](https://arxiv.org/abs/1602.03606) ([Code](https://github.com/summanlp/textrank))
 - [Logic-Guided Data Augmentation and Regularization for Consistent Question Answering (2020)](https://arxiv.org/abs/2004.10157) ([Code](https://github.com/AkariAsai/logic_guided_qa))
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
@@ -555,3 +555,4 @@
 - [EasyNLP](https://github.com/alibaba/EasyNLP) - Comprehensive and Easy-to-use NLP Toolkit.
 - [Reframing Human-AI Collaboration for Generating Free-Text Explanations (2021)](https://arxiv.org/abs/2112.08674) ([Tweet](https://twitter.com/mark_riedl/status/1516815203517751303))
 - [Detoxify](https://github.com/unitaryai/detoxify) - Comment Classification with PyTorch Lightning and Transformers.
+- [DLATK](https://github.com/dlatk/dlatk) - End to end human text analysis package, specifically suited for social media and social scientific applications.

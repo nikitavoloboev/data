@@ -168,6 +168,7 @@
 - [Theory and Applications of Lenses and Optics](https://github.com/bgavran/Lens_Resources)
 - [schmu](https://github.com/tjammer/schmu) - Small, mostly functional programming language which compiles to native code.
 - [A Taste of Roc — Richard Feldman (2021)](https://www.youtube.com/watch?v=6qzWm_eoUXM)
+- [Zilch](https://github.com/zilch-lang/zilch) - Statically-typed, low-level, functional programming language with some focus on runtime performance.
 
 ## Images
 

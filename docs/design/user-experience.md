@@ -171,3 +171,4 @@
 - [Creating a Zoom UI (2021)](https://www.steveruiz.me/posts/zoom-ui)
 - [Designing dark mode without the headaches (2022)](https://www.shortwave.com/blog/dark-mode/)
 - [Types of Deceptive Design](https://www.deceptive.design/types) ([HN](https://news.ycombinator.com/item?id=31066658))
+- [Computing Concepts for Designers](https://computingfordesigners.com/) - Computing concepts for designers. ([YouTube](https://www.youtube.com/channel/UC7KUkMHVfmnxCibm-oFzLPw/videos))

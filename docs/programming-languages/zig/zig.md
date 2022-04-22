@@ -117,3 +117,5 @@ title: Zig
 - [Zig Bit Twiddling Hacks](https://github.com/cryptocode/bithacks)
 - [Zig self-hosted compiler can now build itself (2022)](https://github.com/ziglang/zig/pull/11442) ([HN](https://news.ycombinator.com/item?id=31052029)) ([Lobsters](https://lobste.rs/s/0j45v4/zig_self_hosted_compiler_can_now_build))
 - [Zig interpreter written in TypeScript](https://github.com/mbrock/zigjs)
+- [Zig Web Code](https://github.com/ziglang/www.ziglang.org)
+- [Getting Started with Zig on the Raspberry Pi Pico](https://github.com/ZigEmbeddedGroup/getting-started-pico-zig)

@@ -1,5 +1,7 @@
 # Languages
 
+[DeepL Translate](https://www.deepl.com/translator) is nice.
+
 ## Links
 
 - [BabelNet](https://babelnet.org/) - Multilingual resource that covers hundreds of languages and, according to need, can be used as either an encyclopedic dictionary, or a semantic network, or a huge knowledge base.
@@ -75,3 +77,4 @@
 - [Machine Translate](https://machinetranslate.org/) - Open resources and community for machine translation. ([Code](https://github.com/machinetranslate/machinetranslate.org))
 - [Wordle Analyzer](https://wordle-analyzer.com/) ([Code](https://github.com/jakearchibald/wordle-analyzer/))
 - [Chatterbug](https://chatterbug.com/en/) - Learn Languages Online and Talk with Native Speakers.
+- [DeepL Translate](https://www.deepl.com/translator) - World's most accurate translator.

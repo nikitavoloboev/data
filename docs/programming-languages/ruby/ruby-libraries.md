@@ -63,6 +63,7 @@
 - [Kiba ETL](https://github.com/thbar/kiba) - Data processing & ETL framework for Ruby.
 - [algorithms](https://github.com/kanwei/algorithms) - Ruby algorithms and data structures. C extensions.
 - [Numo::NArray](https://github.com/ruby-numo/numo-narray) - Numerical N-dimensional Array class for fast processing and easy manipulation of multi-dimensional numerical data, similar to numpy.ndaray.
+- [sidekiq-scheduler](https://github.com/moove-it/sidekiq-scheduler) - Lightweight job scheduler extension for Sidekiq.
 
 ## Links
 

@@ -152,6 +152,8 @@
 - [mt-dom](https://github.com/ivanceras/mt-dom) - Generic virtual DOM implementation for rust.
 - [udp-socket](https://github.com/mxinden/udp-socket) - Advanced udp socket.
 - [Fast SOCKS5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio).
+- [service-io](https://github.com/lemunozm/service-io) - Build your service-server fast, easy (and without hosting).
+- [interfaces-rs](https://github.com/andrew-d/interfaces-rs) - Library to work with network interfaces in Rust.
 
 ## WASM
 
@@ -278,6 +280,8 @@
 - [Performance statistic collection for rusts database connection crates](https://github.com/diesel-rs/metrics)
 - [vec-map](https://github.com/contain-rs/vec-map) - Simple map based on a vector for small integer keys.
 - [async-postgres](https://github.com/Hexilee/async-postgres) - Runtime-independent asynchronus PostgreSQL client.
+- [Coil](https://github.com/insipx/coil) - Futures-based background work queue built with SQLx and Postgres.
+- [pg_parse](https://github.com/paupino/pg_parse) - PostgreSQL parser for Rust that uses the actual PostgreSQL server source to parse SQL queries and return the internal PostgreSQL parse tree.
 
 ## Video
 
@@ -521,6 +525,7 @@
 - [zbus](https://github.com/zeenix/zbus) - Rust API for D-Bus communication.
 - [libbpf-sys](https://github.com/libbpf/libbpf-sys) - Rust bindings to libbpf from the Linux kernel.
 - [Userfaultfd](https://github.com/fastly/userfaultfd-rs) - Rust bindings for Linux's userfaultfd functionality.
+- [gpio-cdev](https://github.com/rust-embedded/gpio-cdev) - Rust interface to the Linux GPIO Character Device API (/dev/gpiochip...).
 
 ## Embedded
 
@@ -1783,6 +1788,9 @@
 - [JWT](https://github.com/mikkyang/rust-jwt) - JSON Web Token library for Rust.
 - [async-channel](https://github.com/smol-rs/async-channel) - Async multi-producer multi-consumer channel.
 - [fs_extra](https://github.com/webdesus/fs_extra) - Rust library that provides additional functionality not present in std::fs.
+- [mtpng](https://github.com/brion/mtpng) - Parallelized PNG encoder in Rust.
+- [parquet-format-rs](https://github.com/sunchao/parquet-format-rs) - Apache Parquet format for Rust, hosting the Thrift definition file and the generated .rs file.
+- [Brotlic](https://github.com/AronParker/brotlic) - Thin wrapper around brotli.
 
 ## Cargo Plugins
 
@@ -1972,3 +1980,6 @@
 - [ffi-gen](https://github.com/cloudpeers/ffi-gen) - Call rust from any language.
 - [Is Rust Web Yet?](https://www.arewewebyet.org/) ([Code](https://github.com/rust-lang/arewewebyet)) ([HN](https://news.ycombinator.com/item?id=24940650)) ([HN](https://news.ycombinator.com/item?id=31056433))
 - [Rust Web Framework Benchmarks](https://github.com/programatik29/rust-web-benchmarks)
+- [Rust Library Team Aspirations (2022)](https://blog.rust-lang.org/inside-rust/2022/04/20/libs-aspirations.html)
+- [Qrates](https://github.com/rust-corpus/qrates) - Framework for large scale analysis of the Rust ecosystem.
+- [MiMalloc Rust](https://github.com/LemonHX/mimalloc-rust) - High Level binding for MiMalloc in Rust.

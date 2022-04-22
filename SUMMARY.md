@@ -367,6 +367,7 @@
   - [BSD](docs/operating-systems/bsd/bsd.md)
   - [Windows](docs/operating-systems/windows.md)
   - [Fuchsia OS](docs/operating-systems/fuchsia-os.md)
+  - [MirageOS](docs/operating-systems/mirageos.md)
   - [File systems](docs/operating-systems/file-systems.md)
 - [Package managers](docs/package-managers/package-managers.md)
   - [Nix](docs/package-managers/nix/nix.md)
@@ -962,3 +963,4 @@
     - [2022 January](docs/looking-back/2022/2022-january.md)
     - [2022 February](docs/looking-back/2022/2022-february.md)
     - [2022 March](docs/looking-back/2022/2022-march.md)
+    - [2022 April](docs/looking-back/2022/2022-april.md)

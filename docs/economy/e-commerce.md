@@ -148,3 +148,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Bolt](https://www.bolt.com/) - Makes Ecommerce better with One-Click Checkout and CheckoutOS.
 - [Replo](https://www.replo.app/) - Shopify pages without the dev time.
 - [Trove](https://trove.co/) - Do the hard work behind Circular Shopping.
+- [OrderBump](https://apps.shopify.com/orderbump) - Post purchase checkout upsell / cross sell / boost AOV + sales.

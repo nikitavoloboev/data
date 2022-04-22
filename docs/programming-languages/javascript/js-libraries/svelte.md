@@ -228,3 +228,6 @@ title: Svelte
 - [Svelte-Splitpanes](https://github.com/orefalo/svelte-splitpanes) - Create resizable view panels in Svelte 3, a radical new approach to building user interfaces.
 - [Simplify data fetching in SvelteKit with page endpoints (2022)](https://baptiste.devessier.fr/writing/simplify-data-fetching-in-sveltekit-with-page-endpoints/)
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)
+- [How to use Serverless Cloud with SvelteKit (2022)](https://www.serverless.com/blog/how-to-use-serverless-cloud-with-sveltekit)
+- [Svelte Reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
+- [Svelte-intl-precompile](https://github.com/cibernox/svelte-intl-precompile) - i18n library for Svelte.js that analyzes your keys at build time for max performance and minimal footprint.

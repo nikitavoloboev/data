@@ -4,7 +4,7 @@ title: GraphQL
 
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006) & [GQty](https://github.com/gqty-dev/gqty) look interesting too.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006) & [GQty](https://github.com/gqty-dev/gqty) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
 
 ## Notes
 
@@ -316,3 +316,6 @@ title: GraphQL
 - [Grafbase](https://grafbase.com/) - Deploy globally fast GraphQL APIs with a top-notch developer experience.
 - [Algolia GraphQL Schema](https://github.com/charlypoly/algolia-graphql-schema) - Generate a GraphQL Schema from an Algolia index.
 - [GraphQL Birdseye](https://github.com/Novvum/graphql-birdseye) - View any GraphQL schema as a dynamic and interactive graph.
+- [GraphQL Scraper](https://github.com/simonw/graphql-scraper) - Track changes to GraphQL APIs by git scraping their schemas.
+- [SpectaQL](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
+- [Domain Graph](https://domaingraph.io/) - Beautiful, interactive visualizations for GraphQL schemas. ([TS library](https://github.com/domain-graph/domain-graph)) ([VSCode Extension](https://github.com/domain-graph/vscode))

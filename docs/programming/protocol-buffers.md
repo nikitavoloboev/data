@@ -66,3 +66,4 @@ title: Protocol buffers
 - [protoletariat](https://github.com/cpcloud/protoletariat) - Protocol Buffers for the rest of us.
 - [protoc-gen-lint](https://github.com/ckaznocha/protoc-gen-lint) - Plug-in for Google's Protocol Buffers compiler to check .proto files for style violations.
 - [protoc-gen-go-json](https://github.com/mitchellh/protoc-gen-go-json) - Protobuf compiler plugin to generate Go JSON Marshal/Unmarshal implementations for messages using jsonpb.
+- [Protoc Gen TypeScript](https://github.com/thesayyn/protoc-gen-ts) - Compile protocol buffer messages to TypeScript.

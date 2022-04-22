@@ -4,7 +4,7 @@ title: Web Components
 
 # [Web Components](https://www.webcomponents.org/introduction)
 
-[Lit](https://lit.dev/), [Catalyst](https://github.github.io/catalyst/) (used by GitHub) & [Shoelace](https://shoelace.style/) are interesting.
+[Lit](https://lit.dev/), [Catalyst](https://github.github.io/catalyst/) (used by GitHub) & [Shoelace](https://shoelace.style/) are interesting. [Shadow](https://github.com/Zaubrik/shadow) seems like a nice template for making new web components.
 
 ## Notes
 
@@ -89,3 +89,5 @@ title: Web Components
 - [Custom Elements Manifest](https://github.com/webcomponents/custom-elements-manifest) - File format for describing custom elements.
 - [HTML with Superpowers](https://htmlwithsuperpowers.netlify.app/) - Introduction to Web Components. ([Code](https://github.com/davatron5000/htmlwithsuperpowers))
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows you to easily put a Dark Mode toggle or switch on your site.
+- [Shadow](https://github.com/Zaubrik/shadow) - Simple base class for creating fast, lightweight Web Components with htm.
+- [Web Components as Progressive Enhancement (2022)](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)

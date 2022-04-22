@@ -304,6 +304,9 @@
 - [Chapelure](https://github.com/Haskell-Chapelure/chapelure) - Diagnostic library for Haskell.
 - [mtl](https://github.com/haskell/mtl) - Monad Transformer Library.
 - [doctemplates](https://github.com/jgm/doctemplates) - Text templating system used by pandoc.
+- [Diagnose](https://github.com/Mesabloo/diagnose) - Simple library for reporting compiler/interpreter errors.
+- [list-transformer](https://github.com/Gabriel439/Haskell-List-Transformer-Library) - List monad transformer.
+- [Shelly](https://github.com/gregwebs/Shelly.hs) - Haskell shell scripting.
 
 ## Notes
 

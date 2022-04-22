@@ -76,3 +76,5 @@ title: Synthesizers
 - [Diffsynth - a Differentiable Musical Synthesizer in PyTorch](https://github.com/hyakuchiki/diffsynth)
 - [MiniDexed](https://github.com/probonopd/MiniDexed) - Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi. ([HN](https://news.ycombinator.com/item?id=31062237))
 - [DIY Modular Synth (2021)](https://loophole-letters.vercel.app/diy-modular-synth)
+- [TX–6 - teenage engineering](https://teenage.engineering/products/tx-6) ([Reddit](https://www.reddit.com/r/synthesizers/comments/u8noc6/new_teenage_engineering_mixer_is_smaller_than/))
+- [Syntakt](https://www.elektron.se/products/syntakt/) - 12 Track Drum Computer and Synthesizer.

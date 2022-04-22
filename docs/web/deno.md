@@ -227,3 +227,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 - [Authorization Server Implementation in Deno](https://github.com/authlete/deno-oak-oauth-server)
 - [Oak Sessions](https://github.com/jcs224/oak_sessions) - Cookie-based web sessions with the Oak framework.
 - [Deno for ARM64](https://github.com/LukeChannings/deno-arm64) - Docker image for Deno.
+- [Deno S3 Lite Client](https://github.com/bradenmacdonald/deno-s3-lite-client) - Lightweight S3 client for Deno.

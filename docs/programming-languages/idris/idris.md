@@ -81,3 +81,4 @@ title: Idris
 - [idris2-prim](https://github.com/stefan-hoeck/idris2-prim) - Axioms and Propositions for Primitive Types in Idris2.
 - [Yaffle](https://github.com/edwinb/Yaffle) - Core language and API for dependently typed languages.
 - [Tree Sitter grammar for Idris 2](https://github.com/gwerbin/tree-sitter-idris2)
+- [Generating Idris2 code based on Dependent State Automata diagrams](https://github.com/CodingCellist/idris2-dsa-gen)

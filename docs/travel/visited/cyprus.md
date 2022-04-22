@@ -1,5 +1,7 @@
 # Cyprus
 
+[Limassol](https://en.wikipedia.org/wiki/Limassol) is an amazing city. I especially love the sea food there. [Ocean Baskets](https://cyprus.oceanbasket.com/) has many nice chains with great food.
+
 ## Links
 
 - [Cryptocurrency in Cyprus Tax](https://www.tax-residence.com/cryptocurrency-cyprus/)

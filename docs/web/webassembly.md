@@ -304,3 +304,4 @@ title: WebAssembly
 - [wasmdec](https://github.com/wwwg/wasmdec) - WebAssembly to C decompiler.
 - [WasmNow](https://github.com/sillycross/WasmNow) - Fast WebAssembly Baseline Compiler.
 - [WebAssembly 2.0 First Working Draft](https://www.w3.org/TR/wasm-core-2/) ([HN](https://news.ycombinator.com/item?id=31086217))
+- [JavaScript Garbage Collection with WebAssembly is Possible Today](https://jott.live/markdown/js_gc_in_wasm)

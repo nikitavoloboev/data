@@ -1,6 +1,8 @@
 # United States
 
-Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614736132603909) for speaking the truth. I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer)'s analysis in regards to US foreign policy.
+Would love to live/move to US one day but they don't make it easy. It was always my dream to work at company like Apple/Tesla and they mostly/only hire in US.
+
+I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer)'s analysis in regards to US foreign policy.
 
 ## Notes
 
@@ -10,6 +12,7 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [Puerto Rico due to Act 60 decree allows you to pay no capital gains for 15 years, while keeping US citizenship.](https://www.reddit.com/r/fatFIRE/comments/rj6iju/moving_form_switzerland_to_the_beautiful_united/)
 - [Allowing 54 units/acre as-of-right citywide would solve most US cities' housing affordability crisis in a span of like two years.](https://twitter.com/mnolangray/status/1515081757883731971)
 - [Average US billionaire effectively pays a 3.4% tax rate while the average worker pays 25%.](https://twitter.com/JoshuaPotash/status/1516078047740502026)
+- [One of the things that boggles my mind about living in the US is how deeply individualism permeates every aspect of life. there’s no sense of community or a relational identity, really. It’s just every person onto their own at the end of the day. It’s very sad.](https://twitter.com/most_opppressed/status/1516802246087950338)
 
 ## Links
 
@@ -134,3 +137,4 @@ Hope USA stops [torturing journalists](https://twitter.com/60Mins/status/1508614
 - [The Ultimate Birb Guide to Chicago (2022)](https://birb.substack.com/p/the-ultimate-birb-guide-to-chicago?s=r) ([Tweet](https://twitter.com/Bonecondor/status/1516216998836977666))
 - [Employees.fyi](https://employees.fyi/) - Easily compare U.S. workforce demographic data. ([HN](https://news.ycombinator.com/item?id=31062815))
 - [Why I Will Never Come Back to the United States (2021)](https://www.youtube.com/watch?v=2Zr7j41a8X0)
+- [Who owns what in NYC?](https://whoownswhat.justfix.nyc/en/) ([Code](https://github.com/JustFixNYC/who-owns-what))

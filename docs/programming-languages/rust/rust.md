@@ -771,3 +771,5 @@ title: Rust
 - [ICE (Internal Compiler Error)](https://github.com/matthiaskrgr/icemaker) - Small program to automatically find crashes in the rust compiler using rustcs own tests and different feature flags.
 - [Rewriting sysctl in Rust: systeroid (2022)](https://blog.orhun.dev/rewriting-sysctl-in-rust/) ([HN](https://news.ycombinator.com/item?id=31060939))
 - [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Tutorial for the Rust language. ([Code](https://github.com/RalfJung/rust-101))
+- [Different 'modes' of Rust you can program in](https://twitter.com/yoshuawuyts/status/1517282615128113153)
+- [From Python into Rust Guide](https://github.com/rochacbruno/py2rs) - Quick reference guide for the Pythonista in the process of becoming a Rustacean.

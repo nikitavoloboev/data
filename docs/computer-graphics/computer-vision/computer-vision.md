@@ -730,3 +730,5 @@
 - [Mask Transfiner for High-Quality Instance Segmentation (2022)](https://www.vis.xyz/pub/transfiner/) ([Code](https://github.com/SysCV/transfiner))
 - [An Extendable, Efficient and Effective Transformer-based Object Detector (2022)](https://github.com/naver-ai/vidt)
 - [Learned Queries for Efficient Local Attention (2021)](https://arxiv.org/abs/2112.11435) ([Code](https://github.com/moabarar/qna))
+- [3D Human Pose Estimation with Spatial and Temporal Transformers (2021)](https://arxiv.org/abs/2103.10455) ([Code](https://github.com/zczcwh/PoseFormer))
+- [3D human pose estimation in video with temporal convolutions and semi-supervised training (2019)](https://arxiv.org/abs/1811.11742) ([Code](https://github.com/facebookresearch/VideoPose3D))

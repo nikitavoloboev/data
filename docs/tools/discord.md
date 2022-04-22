@@ -8,6 +8,7 @@ title: Discord
 
 ## Bots
 
+- [Needle](https://github.com/MarcusOtter/discord-needle) - Discord bot that helps you declutter your server by creating Discord threads automatically. ([Web](https://needle.gg/))
 - [SafetyJim](https://github.com/Samoxive/SafetyJim) - Moderation bot for discord.
 - [YAGPDB](https://github.com/botlabs-gg/yagpdb) - Multifunctional, modular Discord bot. ([Web](https://yagpdb.xyz/))
 - [Skyra](https://github.com/skyra-project/skyra) - All-in-one multipurpose Discord Bot designed to carry out most of your server's needs with great performance and stability. ([Web](https://skyra.pw/))
@@ -149,3 +150,4 @@ title: Discord
 - [Sentry Webhook](https://github.com/auguwu/sentry-webhook) - Simple webhook worker for Sentry to output events in a Discord channel.
 - [How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku (2022)](https://www.youtube.com/watch?v=Wtqq0-yYKps)
 - [Enmity](https://github.com/enmity-mod/enmity) - iOS Discord client modification.
+- [Accord](https://github.com/evelyneee/accord) - Faster discord client for your Mac.

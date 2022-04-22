@@ -237,3 +237,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [go-milter](https://github.com/emersion/go-milter) - Go library to write mail filters.
 - [Got Your Back (GYB)](https://github.com/GAM-team/got-your-back) - Command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [mail-builder](https://github.com/stalwartlabs/mail-builder) - E-mail builder library for Rust.
+- [blastula](https://github.com/rstudio/blastula) - Easily send great-looking HTML email messages from R.

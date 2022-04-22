@@ -910,6 +910,9 @@
 - [PEG.js](https://github.com/pegjs/pegjs) - Parser generator for JavaScript.
 - [Yjs Protocols](https://github.com/yjs/y-protocols) - Binary encoding protocols for syncing, awareness, and history information.
 - [radix3](https://github.com/unjs/radix3) - Lightweight and fast router for JavaScript based on Radix Tree.
+- [tinyqueue](https://github.com/mourner/tinyqueue) - Smallest and simplest binary heap priority queue in JavaScript.
+- [protomux](https://github.com/mafintosh/protomux) - Multiplex multiple message oriented protocols over a stream.
+- [exifr](https://github.com/MikeKovarik/exifr) - Fastest and most versatile JS EXIF reading library.
 
 ## Links
 
@@ -983,3 +986,4 @@
 - [Import maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports.
 - [npx ci](https://github.com/privatenumber/ci) - Run npm ci using the appropriate Node package manager (npm, yarn, pnpm).
 - [bug-versions](https://github.com/cnpm/bug-versions) - Collect all bug versions on npm package.
+- [npm-multi-publish](https://github.com/privatenumber/npm-multi-publish) - Publish npm package to multiple registries.

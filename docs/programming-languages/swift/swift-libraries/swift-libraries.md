@@ -252,6 +252,7 @@
 - [NotSwiftUI](https://github.com/Jonas1197/notSwiftUI) - Designed to help you create UI components quickly and efficiently with code.
 - [Switches Animations](https://github.com/jwd-ali/Switch-Animations) - Animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX.
 - [TempiFFT](https://github.com/jscalo/tempi-fft) - Real-time audio input and FFT written entirely in Swift for iOS.
+- [TTProgressHUD](https://github.com/honkmaster/TTProgressHUD) - Light weight HUD written in SwiftUI meant to display the progress of an ongoing task on iOS.
 
 ## macOS
 
@@ -321,6 +322,7 @@
 - [DOMKit](https://github.com/swiftwasm/DOMKit) - Type-safe access to DOM APIs from Swift.
 - [Arachne](https://github.com/artemisia-absynthium/arachne) - Networking layer for apps using Swift Concurrency.
 - [Swift runtime for Fastly Compute@Edge](https://github.com/AndrewBarba/swift-compute-runtime)
+- [Vapor Sitemap](https://github.com/vapor-community/vapor-sitemap) - Dynamic sitemap generator for Vapor.
 
 ## WASM
 
@@ -492,6 +494,7 @@
 - [Scaling Header Scroll View](https://github.com/exyte/ScalingHeaderScrollView) - Scroll view with a sticky header which shrinks as you scroll. Written with SwiftUI.
 - [SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer) - Super-light modifier that adds a shimmering effect to any SwiftUI View.
 - [HalfASheet](https://github.com/franklynw/HalfASheet) - SwiftUI pseudo-modal partial screen sheet, with height customization.
+- [Dux](https://github.com/jakeheis/Dux) - Guide users through your SwiftUI app with coach marks.
 
 ## Test
 

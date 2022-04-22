@@ -622,3 +622,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Share your personal site (2022)](https://news.ycombinator.com/item?id=30934529)
 - [Researchers Found Puberty Blockers Didn’t Improve Trans Kids’ Mental Health (2022)](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) ([HN](https://news.ycombinator.com/item?id=30948461))
 - [GPAC](https://gpac.wp.imt.fr/) - Modular Multimedia framework for packaging, streaming and playing your favorite content. ([Code](https://github.com/gpac/gpac))
+- [best-of](https://github.com/best-of-lists/best-of) - Discover best-of lists with awesome open-source projects on all kinds of topics.

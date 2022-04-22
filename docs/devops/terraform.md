@@ -157,3 +157,4 @@ title: Terraform
 - [Terrafunk](https://github.com/JasonPodgorny/terrafunk) - Utility that allows you to execute terraform and terragrunt functions from the command line for quick tests.
 - [Terraform Functions, Expressions, Loops (Examples)](https://spacelift.io/blog/terraform-functions-expressions-loops)
 - [5 Ways to Manage Terraform at Scale – Best Practices](https://spacelift.io/blog/5-ways-to-manage-terraform-at-scale)
+- [Learn Terraform (and AWS) by Building a Dev Environment (2022)](https://www.youtube.com/watch?v=iRaai1IBlB0)

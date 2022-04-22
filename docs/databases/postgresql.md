@@ -467,7 +467,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres connection pooler](https://github.com/coder543/roundabout) - Alternative to PgBouncer.
 - [E-Maj](https://github.com/dalibo/emaj) - PostgreSQL extension that tracks updates on tables sets with rollback capabilities.
 - [pg_migrate](https://github.com/phillbaker/pg_migrate) - Perform schema changes in PostgreSQL with minimal locks.
-- [How Postgres Chooses Which Index To Use For A Query (2022)](https://pganalyze.com/blog/how-postgres-chooses-index)
+- [How Postgres Chooses Which Index To Use For A Query (2022)](https://pganalyze.com/blog/how-postgres-chooses-index) ([HN](https://news.ycombinator.com/item?id=31115492))
 - [Postgres everywhere. SQLite is embedded everywhere. Will Postgres follow suit? (2022)](https://www.infoworld.com/article/3655953/postgres-everywhere.html)
 - [icu_ext](https://github.com/dverite/icu_ext) - PostgreSQL extension (in C) to expose functionality from the ICU library.
 - [pg-simplify-inflector](https://github.com/graphile/pg-simplify-inflector) - Simplifies the graphile-build-pg inflector to trim the `ByFooIdAndBarId` from relations.
@@ -477,3 +477,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [SQL views for Dune Analytics](https://github.com/duneanalytics/abstractions)
 - [Pgeon](https://github.com/0x0L/pgeon) - Fast data retrieval from a PostgreSQL database into Apache Arrow format.
 - [How we upgraded our 4TB PostgreSQL database (2022)](https://retool.com/blog/how-we-upgraded-postgresql-database/) ([HN](https://news.ycombinator.com/item?id=31084147))
+- [How to setup Postgres with Github Actions (2020)](https://catzkorn.dev/blog/postgres-github-actions/)
+- [A Journey to Postgres Productivity with Go (2020)](https://www.youtube.com/watch?v=AgHdVPSty7k) ([Another version](https://www.youtube.com/watch?v=ZRUEJX1fqYc))
+- [pglast](https://github.com/lelit/pglast) - PostgreSQL Languages AST and statements prettifier.

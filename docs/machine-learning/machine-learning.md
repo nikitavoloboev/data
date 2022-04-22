@@ -782,3 +782,4 @@
 - [Awesome Weak-Shot Learning](https://github.com/bcmi/Awesome-Weak-Shot-Learning)
 - [Ultimate Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [What are Diffusion Models? (2022)](https://www.youtube.com/watch?v=fbLgFrlTnGU)
+- [Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization (2020)](https://arxiv.org/abs/2009.13586)

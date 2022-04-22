@@ -18,3 +18,4 @@
 - [Nomad Capitalist - YouTube](https://www.youtube.com/c/nomadcapitalist/videos)
 - [Nomad Capitalist Book](https://nomadcapitalist.com/book/)
 - [Robert Kiyosaki’s Thoughts on Entrepreneurship (2022)](https://www.youtube.com/watch?v=u4UtdCuvCz4)
+- [What do you wish you knew about digital nomads when you started?](https://www.reddit.com/r/digitalnomad/comments/u905el/what_do_you_wish_you_knew_when_you_started/)

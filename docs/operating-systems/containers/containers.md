@@ -209,3 +209,4 @@
 - [Reference implementation of the Cloud Native Buildpacks lifecycle](https://github.com/buildpacks/lifecycle)
 - [Podman Desktop Companion](https://iongion.github.io/podman-desktop-companion/) ([Code](https://github.com/iongion/podman-desktop-companion)) ([HN](https://news.ycombinator.com/item?id=31055475))
 - [Container Layer Analyzer](https://github.com/dcermak/container-layer-sizes) - Visualizer of container layer sizes.
+- [Stacker](https://github.com/project-stacker/stacker) - Build OCI images from a declarative format.

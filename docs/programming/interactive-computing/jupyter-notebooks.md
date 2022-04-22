@@ -197,3 +197,4 @@ title: Jupyter Notebooks
 - [nbgrader](https://github.com/jupyter/nbgrader) - System for assigning and grading notebooks.
 - [Blockly extension for JupyterLab](https://github.com/QuantStack/jupyterlab-blockly)
 - [nbstripout](https://github.com/kynan/nbstripout) - Strip output from Jupyter and IPython notebooks.
+- [JupyterLab extension-cookiecutter-ts](https://github.com/jupyter-server/extension-cookiecutter) - Cookiecutter recipe for Jupyter Server extensions.

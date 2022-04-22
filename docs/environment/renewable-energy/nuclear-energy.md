@@ -4,6 +4,8 @@ title: Nuclear energy
 
 # [Nuclear energy](https://en.wikipedia.org/wiki/Nuclear_power)
 
+Nuclear energy [gets a bad reputation but its the future of renewable energy](https://twitter.com/Austen/status/1516932518288629760). Would love to invest & learn more about it.
+
 ## Notes
 
 - [If elemental power aka nuclear was discovered last week we would be going insane with joy we just solved the climate crisis.](https://twitter.com/wolfejosh/status/1448797519073484807)

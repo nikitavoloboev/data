@@ -32,3 +32,5 @@ title: Keras
 - [Keras implement of flow-based models](https://github.com/bojone/flow)
 - [Keras/TensorFlow attention models](https://github.com/leondgarse/keras_cv_attention_models)
 - [Keras Hypetune](https://github.com/cerlymarco/keras-hypetune) - Friendly python package for Keras Hyperparameters Tuning based only on NumPy and Hyperopt.
+- [KerasNLP](https://github.com/keras-team/keras-nlp) - Industry-strength Natural Language Processing workflows with Keras.
+- [Keras API Docs](https://keras.io/api/) ([Code](https://github.com/keras-team/keras-io))

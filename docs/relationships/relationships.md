@@ -172,3 +172,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Ask HN: How do you find peers in your field who care about their craft? (2022)](https://news.ycombinator.com/item?id=30858942)
 - [How is dating typically like in your country? (2022)](https://www.reddit.com/r/AskEurope/comments/twqwey/how_is_dating_typically_like_in_your_country/)
 - [Lesson you've learnt from a past relationship to never repeat in your future relationships?](https://www.reddit.com/r/AskWomen/comments/u70wkh/girls_whats_a_lesson_youve_learnt_from_a_past/)
+- [What dating mistakes do you think women make?](https://www.reddit.com/r/AskMen/comments/u9dlen/what_dating_mistakes_do_you_think_women_make/)

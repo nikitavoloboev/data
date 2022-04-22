@@ -101,6 +101,7 @@ It includes:
 - [Core Intuition](https://coreint.org/) - Podcast about indie software development for the Mac, iOS and other Apple technologies. ([Twitter](https://twitter.com/coreint))
 - [The Lunar Society](https://anchor.fm/dwarkeshpatel) - Host Dwarkesh Patel interviews economists, scientists, and philosophers about their big ideas.
 - [SmartLess](https://www.smartless.com/) - Comedy podcast hosted by Sean Hayes, Jason Bateman & Will Arnett. ([Twitter](https://twitter.com/SmartLess?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
+- [Up Only](https://uponly.tv/) - Crypto podcast with Cobie & Ledger. ([Twitter](https://twitter.com/uponlytv))
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
@@ -218,3 +219,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Spodcast](https://github.com/Yetangitu/Spodcast) - Spotify podcast to RSS proxy. ([HN](https://news.ycombinator.com/item?id=30332141))
 - [Captivate.fm](https://www.captivate.fm/) - Unlimited podcast hosting, analytics & marketing.
 - [Snipd](https://www.snipd.com/) - Highlight & Take Notes from Podcasts. ([HN](https://news.ycombinator.com/item?id=30454639))
+- [Podcast Generator](https://github.com/maragudk/podcastgenerator) - Progress podcast generator in Go.

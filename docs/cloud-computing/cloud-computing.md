@@ -36,7 +36,7 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Zeet](https://zeet.co/) - Run your code.
 - [Railway](https://railway.app/) - Develop code in a cloud that feels local. When you're ready, deploy from anywhere. ([GitHub](https://github.com/railwayapp)) ([Starters](https://github.com/railwayapp/starters)) ([CLI](https://github.com/railwayapp/cli))
 - [Flightcontrol](https://flightcontrol.dev/) - Full stack deploy platform that runs on your own cloud.
-- [Deta](https://www.deta.sh/) - Build your apps in hours, deploy them in seconds. ([Deta Space](https://deta.space/))
+- [Deta](https://www.deta.sh/) - Build your apps in hours, deploy them in seconds. ([Deta Space](https://deta.space/)) ([GitHub](https://github.com/deta)) ([Awesome](https://github.com/deta/awesome-deta))
 
 ## Other
 
@@ -110,3 +110,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Cloudflare Provider](https://github.com/pulumi/pulumi-cloudflare) - Cloudflare resource provider for Pulumi lets you use Cloudflare resources in your cloud programs.
 - [Cloud Pricing API](https://github.com/infracost/cloud-pricing-api) - GraphQL-based API that includes all public prices from AWS, Azure and Google.
 - [Mutagen](https://mutagen.io/) - Cloud-based development using your local tools. ([HN](https://news.ycombinator.com/item?id=30957156)) ([Mutagen Compose](https://github.com/mutagen-io/mutagen-compose))
+- [NooBaa](https://www.noobaa.io/) - Data federation across multiple private and public clouds. ([Code](https://github.com/noobaa/noobaa-core))

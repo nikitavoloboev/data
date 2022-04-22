@@ -36,3 +36,4 @@ title: Optical character recognition
 - [docTR](https://github.com/mindee/doctr) - Optical Character Recognition made seamless & accessible to anyone, powered by TensorFlow 2 & PyTorch.
 - [RapidOCR](https://github.com/RapidAI/RapidOCR) - Cross platform OCR Library based on PaddleOCR & OnnxRuntime.
 - [meme_finder](https://github.com/mwaitzman/meme_finder) - Find locally-saved memes via their meme text using OCR. Written in Rust.
+- [Veryfi OCR API](https://veryfi.com/receipt-ocr-api/) - OCR API for Real-Time Data Extraction from Receipts & Invoices. ([Node SDK](https://github.com/veryfi/veryfi-nodejs))

@@ -86,3 +86,4 @@ title: Agda
 - [Quotient types in cubical Agda](https://github.com/kcsmnt0/quotient)
 - [Verified (cubical) free monads](https://github.com/mb64/cubical-free-monads)
 - [Sikkel](https://github.com/JorisCeulemans/sikkel) - Agda library that allows a user to program in multimode simple type theories.
+- [Axiomatic (ZF⁻-like) set theory](https://github.com/Borschemancer/axiomatic-sets)

@@ -195,3 +195,4 @@
 - [Algorithms and Data Structures – Transition systems](https://cs.au.dk/~gerth/dADS1-12/daimi-fn64.pdf) ([HN](https://news.ycombinator.com/item?id=31037988))
 - [NandGame - Build a computer from scratch](https://nandgame.com/) ([HN](https://news.ycombinator.com/item?id=31055307))
 - [Chris Staecker - YouTube](https://www.youtube.com/c/ChrisStaecker/videos) - Videos about antique computing devices.
+- [Awesome Russian CS Books](https://github.com/true-grue/awesome-russian-cs-books)

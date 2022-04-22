@@ -479,6 +479,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [trace-mapping](https://github.com/jridgewell/trace-mapping) - Trace the original position through a source map.
 - [TypeScript-JSON](https://github.com/samchon/typescript-json) - 2x faster JSON stringify function with only one line.
 - [Delta](https://github.com/quilljs/delta) - Simple, yet expressive format that can be used to describe contents and changes.
+- [Result](https://github.com/badrap/result) - TypeScript result type taking cues from Rust's Result and Haskell's Either types.
 
 ## Links
 
@@ -540,3 +541,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Semantic Versioning for TypeScript Types](https://www.semver-ts.org/)
 - [npx link](https://github.com/privatenumber/link) - Safer version of npm link.
 - [Anton Gilgur's TS library template](https://github.com/agilgur5/ts-library-base)
+- [FP-TS resources](https://github.com/newswim/wtfp-ts)
+- [SemVer for TS in Practice](https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/)

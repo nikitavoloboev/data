@@ -4,6 +4,8 @@ title: Unix Shell
 
 # [Unix Shell](http://en.wikipedia.org/wiki/Unix_shell)
 
+Use [Warp](https://www.warp.dev/) as my terminal.
+
 ## Variables
 
 All active variables can be seen by running `env`.

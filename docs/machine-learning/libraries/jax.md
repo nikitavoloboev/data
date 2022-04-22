@@ -25,3 +25,8 @@ title: JAX
 - [Jax3D](https://github.com/google-research/jax3d) - Library for neural rendering in Jax and aims to be a nimble NeRF ecosystem.
 - [DALL·E 2 in JAX](https://github.com/lucidrains/DALLE2-jax)
 - [JAXNS](https://github.com/Joshuaalbert/jaxns) - Nested sampling in JAX.
+- [AUX](https://github.com/deepmind/dm_aux) - Audio processing library in JAX, for JAX.
+- [Nice DeepMind Jax libraries](https://twitter.com/DeepMind/status/1517146462571794433)
+- [Machine Learning with JAX - From Zero to Hero (2021)](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq)
+- [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility. ([Docs](https://flax.readthedocs.io/en/latest/))
+- [JAX talks by HuggingFace](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtQrEduYXbRz4X50mTiOi8S)

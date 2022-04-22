@@ -1,8 +1,6 @@
 # macOS
 
-macOS is my [favorite desktop operating system](https://github.com/nikitavoloboev/my-mac-os).
-
-I do wish to expand my horizons and try out Linux more. I doubt I will ever be able to move to another operating system as I have too much invested in optimizing and using macOS but I do want to take the best of all worlds. Linux is open source, has an increasingly large community of users and developers and one thing that I love about UNIX systems is that by using these systems you effectively become a developer. Because otherwise you are simply missing out on the _full experience_.
+[macOS is incredible as a personal OS](https://github.com/nikitavoloboev/my-mac-os). Would love to join Apple and contribute to the OS at some point. [Karabiner](apps/karabiner/karabiner.md) is life changing.
 
 ## Clean install
 
@@ -256,3 +254,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Exploring Mach-O (2022)](https://gpanders.com/blog/exploring-mach-o-part-1/)
 - [launch-tui](https://github.com/wecraftforfun/launch-tui) - Small TUI app to manage launchD.
 - [apple-tools](https://github.com/meme/apple-tools) - Collection of tools for working with Apple software/hardware.
+- [sudo-touchid](https://github.com/artginzburg/sudo-touchid) - Native and reliable TouchID support for sudo.

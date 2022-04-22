@@ -1,6 +1,6 @@
 # Static sites
 
-I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify](https://www.netlify.com/) to host the sites for free.
+I used [Hugo](hugo.md) once for generating static sites which I then published with [Netlify](https://www.netlify.com/). Currently I use [Remix](../../programming-languages/javascript/js-libraries/react/remix.md)/[NextJS](../../programming-languages/javascript/js-libraries/react/nextjs.md) for all my sites. [Eleventy](eleventy.md) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
 
 ## Interesting generators
 

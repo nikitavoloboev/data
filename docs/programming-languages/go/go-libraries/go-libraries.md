@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM. [Ristretto](https://github.com/outcaste-io/ristretto) is great cache lib.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM. [Ristretto](https://github.com/outcaste-io/ristretto) is great cache lib. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client.
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
 
@@ -481,6 +481,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 - [pgproto3](https://github.com/jackc/pgproto3) - Encoder and decoder of the PostgreSQL wire protocol version 3. Can be used as a foundation for PostgreSQL drivers, proxies, mock servers, load balancers and more.
 - [gocache](https://github.com/TwiN/gocache) - High performance and lightweight in-memory cache library with LRU and FIFO support as well as memory-usage-based-eviction.
+- [libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library.
 
 ## ML
 
@@ -577,6 +578,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [ethtool](https://github.com/safchain/ethtool) - Simple access to the Linux SIOCETHTOOL ioctl operations.
 - [Go eBPF](https://github.com/dropbox/goebpf) - Library to work with eBPF programs from Go.
 - [go-uring](https://github.com/godzie44/go-uring) - Linux io_uring for Go.
+- [libseccomp-go](https://github.com/seccomp/libseccomp-golang) - Easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
 
 ## Apple
 

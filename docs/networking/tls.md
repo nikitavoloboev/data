@@ -89,3 +89,5 @@ title: TLS
 - [GoSSL](https://github.com/yakuter/gossl) - Cross platform, easy to use SSL tool written with native Go.
 - [uTLS](https://github.com/refraction-networking/utls) - Fork of the Go standard TLS library, providing low-level access to the ClientHello for mimicry purposes.
 - [TLS Encrypted Client Hello](https://github.com/tlswg/draft-ietf-tls-esni)
+- [snid](https://github.com/AGWA/snid) - Lightweight proxy server that forwards TLS connections based on the server name indication (SNI) hostname.
+- [Ghostunnel](https://github.com/ghostunnel/ghostunnel) - Simple SSL/TLS proxy with mutual authentication for securing non-TLS services.

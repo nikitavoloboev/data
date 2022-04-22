@@ -76,3 +76,5 @@ title: Zero knowledge proofs
 - [Arbibot RPS](https://github.com/botdad/arbirps) - On chain rock paper scissors game using zero knowledge proofs for hiding plays.
 - [zkSNARKS tutorial: practical beginner's guide to creating, proving, and verifying zkSNARKs in your contracts](https://github.com/jstoxrocky/zksnarks_example)
 - [Jellyfish cryptographic library](https://github.com/EspressoSystems/jellyfish) - Rust Implementation of the PLONK ZKP System and Extensions.
+- [Security of ZKP projects: same but different](https://youtu.be/SCIuwh9ya8U?t=22619) ([Slides](https://www.aumasson.jp/data/talks/zksec_zk7.pdf))
+- [Zero Knowledge Summit Amsterdam 2022](https://www.youtube.com/watch?v=SCIuwh9ya8U)

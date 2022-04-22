@@ -289,3 +289,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Curiefense](https://github.com/curiefense/curiefense) - Unified, open source platform protecting cloud native applications.
 - [amber](https://github.com/fpco/amber) - Manage secret values in-repo via public key cryptography.
 - [secrets](https://github.com/sirwart/secrets) - Command-line tool to prevent committing secret keys into your source code.
+- [Certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance.

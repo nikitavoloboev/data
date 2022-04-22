@@ -114,6 +114,7 @@ title: Obsidian
 - [Quick Explorer](https://github.com/pjeby/quick-explorer) - Perform file explorer operations (and see your current file path) from the Obsidian.md title bar.
 - [Obsidian Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 - [Scroll Offset](https://github.com/lijyze/scroll-offset) - Plugin can keep a defined distance before and after cursor, just like scrolloff in vim of cursor surrounding lines in VS-Code.
+- [Jump to Link](https://github.com/mrjackphil/obsidian-jump-to-link) - Quickly navigate between links, or jump to any word on the page using hotkeys.
 
 ## Themes
 
@@ -162,3 +163,4 @@ title: Obsidian
 - [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) - Publish your notes in your own personal digital garden.
 - [Obsidian Remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.
 - [MindStone](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
+- [Mind mapping with Excalidraw in Obsidian (2021)](https://www.zsolt.blog/2021/09/mind-mapping-with-excalidraw-in-obsidian.html)

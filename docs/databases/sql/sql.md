@@ -4,7 +4,7 @@ title: SQL
 
 # [SQL](http://en.wikipedia.org/wiki/SQL)
 
-[dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips.
+[dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [GlueSQL](https://github.com/gluesql/gluesql) seems nice too.
 
 ## Notes
 
@@ -187,4 +187,5 @@ title: SQL
 - [ReadySet](https://readyset.io/) - Same database, (much) faster queries. SQL caching engine. ([Intro](https://blog.readyset.io/posts/introducing-readyset)) ([HN](https://news.ycombinator.com/item?id=30922082))
 - [Surveying 10+ SQL parser libraries in a few high-level languages (2022)](https://datastation.multiprocess.io/blog/2022-04-11-sql-parsers.html)
 - [Sneller](https://github.com/SnellerInc/sneller) - Vectorized SQL for JSON at scale: fast, simple, schemaless.
-- [Open Source SQL Parsers (2021)](https://tokern.io/blog/open-source-sql-parsers/)
+- [Open Source SQL Parsers (2021)](https://tokern.io/blog/open-source-sql-parsers/) ([HN](https://news.ycombinator.com/item?id=31107231))
+- [More SQL Parsing](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON so we can translate it for other datastores.

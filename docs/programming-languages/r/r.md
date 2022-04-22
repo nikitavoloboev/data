@@ -145,3 +145,4 @@
 - [corrr](https://github.com/tidymodels/corrr) - Explore correlations in R.
 - [ggstamp](https://github.com/EvaMaeRey/ggstamp) - Convenience functions for creating annotation layers in the ggplot2 and grammar of graphics framework.
 - [kittyR](https://github.com/IndrajeetPatil/kittyR) - Kitty pictures and meows from R console.
+- [pointblank](https://github.com/rich-iannone/pointblank) - Data quality assessment and metadata reporting for data frames and database tables.

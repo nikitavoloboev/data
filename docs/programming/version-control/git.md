@@ -521,3 +521,5 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [gitsu](https://github.com/matsuyoshi30/gitsu) - Switch git user easily.
 - [diff-explore](https://github.com/jason0x43/diff-explore) - Terminal program to explore git diffs.
 - [Getting Things Merged (2022)](https://www.tweag.io/blog/2022-04-14-getting-things-merged/)
+- [gitrevset](https://github.com/quark-zju/gitrevset) - Domain-specific-language to select commits in a git repo. Similar to Mercurial's revset.
+- [Ask HN: How are pull requests integrated in a repo with high commit frequency? (2022)](https://news.ycombinator.com/item?id=31108828)

@@ -66,7 +66,7 @@
 - [FAVO Studio](https://favostudio.com/) - Motion Design, Animation & Video.
 - [Websmyth](https://websmyth.co/) - Custom Websites For Small Businesses.
 - [PHYGITALISM](https://phygitalism.com/) - Moscow based design studio.
-- [Sensa](https://sensa.co/) - Strategy + Craft.
+- [Sensa](https://sensa.co/) - Strategy + craft with companies that shape the world such as the BBC, Forbes, Facebook, and Condé Nast. ([Twitter](https://twitter.com/sensa))
 - [BASIC](https://www.basicagency.com/) - Digital Branding & Experience Design Agency.
 - [Rejiggle](https://rejiggle.co/) - Conversion-Focused Design.
 - [Hactar](https://hactar.is/) - Product and service design for social good.
@@ -79,6 +79,7 @@
 - [9elements](https://9elements.com/) - Digital product and design studio. ([GitHub](https://github.com/9elements))
 - [cycraft](https://cycraft.co/)
 - [Self Aware](https://selfaware.studio/) - Digital studio that crafts lively and inclusive experiences for the web.
+- [Wide Awake](https://www.wideawake.studio/) - Creative consultancy with a focus on brand identity, brand direction, digital design, and illustration.
 
 ## DB
 

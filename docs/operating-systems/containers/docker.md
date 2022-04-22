@@ -230,3 +230,4 @@ title: Docker
 - [Docker Official Image packaging for Docker](https://github.com/docker-library/docker)
 - [Docker From Scratch Workshop](https://github.com/Fewbytes/rubber-docker)
 - [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral (and free) Docker image registry.
+- [Gitpod Workspace Images](https://github.com/gitpod-io/workspace-images) - Ready-to-use Docker images for gitpod.io workspaces.

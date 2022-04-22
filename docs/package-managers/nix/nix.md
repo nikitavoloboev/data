@@ -338,3 +338,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix grammar for tree-sitter](https://github.com/cstrahan/tree-sitter-nix)
 - [Generating nix store paths with arbitrary prefixes](https://github.com/infinisil/nix-store-brute)
 - [static-nix](https://github.com/jbedo/static-nix) - Statically linked version of Nix with some patches intended to ease the installation and usage of Nix on typical HPC clusters.
+- [Nix Camp](https://nix.camp/) - 2 week long Nix event. ([Twitter](https://twitter.com/nix_camp))
+- [Feedback loop](https://github.com/NorfairKing/feedback) - General purpose tool to set up good feedback loops and share them with your team.

@@ -116,3 +116,4 @@ title: Minecraft
 - [A Census of Minecraft Servers (2022)](https://blog.bithole.dev/mcmap.html) ([HN](https://news.ycombinator.com/item?id=31052254))
 - [Cobblestone-Classic](https://github.com/Patbox/Cobblestone-Classic) - Server for Minecraft Classic 0.30 written in Deno.
 - [Fabric](https://fabricmc.net/) - Lightweight, experimental modding toolchain for Minecraft.
+- [Hexalite Network](https://github.com/HexaliteNetwork/java-edition) - Modular Kotlin and Rust-based Minecraft: Java Edition network inspired by Mineclub, Origin Realms and Wynncraft.

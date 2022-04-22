@@ -1,6 +1,6 @@
 # Space
 
-[SEA](https://www.youtube.com/c/SEAmedia/videos) does lots of fascinating videos on space.
+[SEA](https://www.youtube.com/c/SEAmedia/videos) does lots of fascinating videos on space. [The End of Everything Book](https://www.astrokatie.com/book) is great.
 
 ## Notes
 
@@ -158,3 +158,5 @@
 - [Bizarre space circle captured in unprecedented detail (2022)](https://www.nature.com/articles/d41586-022-00861-6) ([HN](https://news.ycombinator.com/item?id=30833890))
 - [Astronomers just discovered the farthest object in the known universe (2022)](https://www.livescience.com/farthest-astronomical-object-ever-seen) ([HN](https://news.ycombinator.com/item?id=30960668))
 - [Stuff in Space](http://stuffin.space/) - Real time 3D map of objects in Earth orbit, visualized using WebGL. ([Code](https://github.com/jeyoder/StuffInSpace))
+- [The End of Everything Book by Katie Mack](https://www.astrokatie.com/book)
+- [If you have galaxies of the same size at different distances, beyond a certain distance, the farther away the galaxy is the BIGGER it appears in the sky](https://twitter.com/AstroKatie/status/1516548836709343238)

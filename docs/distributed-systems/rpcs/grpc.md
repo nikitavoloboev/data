@@ -107,3 +107,4 @@ title: gRPC
 - [gRPC Kit](https://github.com/chainguard-dev/go-grpc-kit) - Utility methods for gRPC.
 - [falafel](https://github.com/lightninglabs/falafel) - Go tool to generate go APIs for gRPC services for use on mobile/WASM platforms.
 - [GRPC consul resolver](https://github.com/mbobakov/grpc-consul-resolver) - Easy-pluggable full-feature GRPC resolver for services registered in Consul.
+- [gRPC-Web vs the gRPC-Gateway (2021)](https://jbrandhorst.com/post/grpc-in-the-browser/)

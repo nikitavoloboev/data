@@ -76,3 +76,5 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Design and Prototypical Implementation of an IRC Chat Server in Erlang OTP (2022)](https://www.linuxjournal.com/content/design-and-prototypical-implementation-irc-chat-server-erlang-otp)
 - [miniircd](https://github.com/jrosdahl/miniircd) - Very simple Internet Relay Chat (IRC) server.
 - [autobrr](https://github.com/autobrr/autobrr) - Monitors IRC announce channels to get releases as soon as they are available with good filtering.
+- [Matrix gateway for IRC](https://github.com/progval/matrix2051) - Connect to Matrix from your favorite IRC client.
+- [Limnoria](https://github.com/progval/Limnoria) - Robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins.

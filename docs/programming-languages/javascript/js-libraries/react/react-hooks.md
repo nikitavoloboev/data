@@ -192,6 +192,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useForm](https://github.com/veritem/useform) - Tiny hook that make react forms easy.
 - [react-cancelable](https://github.com/vladagurets/react-cancelable) - Make cancelable requests with react-hooks.
 - [useTimeline](https://github.com/marcoripa96/use-timeline) - Enchanced useState hook which keeps track of the states history, allowing you to undo and redo states.
+- [useLocationState](https://github.com/xiel/use-location-state) - Store and retrieve state from the browsers history using modern hooks.
 
 ## Code
 
@@ -275,3 +276,5 @@ useEffect(() => {
 - [Hooks Considered Harmful (2022)](https://labs.factorialhr.com/posts/hooks-considered-harmful) ([HN](https://news.ycombinator.com/item?id=30753127))
 - [Effective React Query Keys (2021)](https://tkdodo.eu/blog/effective-react-query-keys)
 - [SWR with Axios](https://github.com/s1gr1d/example.react-swr-axios) - Simple, scalable example for using SWR with Axios in your React application.
+
+d

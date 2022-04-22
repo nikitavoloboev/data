@@ -342,3 +342,5 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [AI as a Service: Serverless machine learning with AWS (2020)](https://www.manning.com/books/ai-as-a-service) ([Code](https://github.com/fourTheorem/ai-as-a-service))
 - [aws-account-shredder](https://github.com/openshift/aws-account-shredder) - Repository to audit, service, and clean up leftover AWS resources.
 - [AWS EKS ASG Rolling Update Handler](https://github.com/TwiN/aws-eks-asg-rolling-update-handler) - Handles rolling upgrades for AWS ASGs for EKS.
+- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads (2022)](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
+- [Session Manager Plugin](https://github.com/aws/session-manager-plugin) - Plugin to help you use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances.

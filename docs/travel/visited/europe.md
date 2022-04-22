@@ -1,5 +1,7 @@
 # Europe
 
+Love Europe. Specifically how varied the culture can be in such short distances.
+
 ## Links
 
 - [Ask HN: How to increase SWE salaries in Europe? (2021)](https://news.ycombinator.com/item?id=25766884)
@@ -58,3 +60,4 @@
 - [Cost of employment for companies in different EU countries (2022)](https://twitter.com/GergelyOrosz/status/1511394247500566533)
 - [What is the Eurodollar System? (2020)](https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf) ([HN](https://news.ycombinator.com/item?id=30974598))
 - [Best lower tax countries to move to in Europe (2022)](https://www.reddit.com/r/EuropeFIRE/comments/u7ukpy/best_lower_tax_countries_to_move_to_in_europe/)
+- [Does China not view Europe as an equal? (2022)](https://www.reddit.com/r/China/comments/u8uvs8/does_china_not_view_europe_as_an_equal/)

@@ -4,6 +4,8 @@ title: DMT
 
 # [DMT](https://psychonautwiki.org/w/index.php?title=DMT)
 
+I love all [tryptamines](tryptamines.md) but am yet to breakthrough on DMT. [Many say it's life changing](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/).
+
 ## Notes
 
 - [High dose of DMT. It'll be the closest thing to death without actually dying. What you realize is, on the other side of that threshold, a core piece of you will persist. Death is an illusion, consciousness exists forever/outside of time.](https://www.reddit.com/r/Psychonaut/comments/7sec24/does_any_psychedelic_allow_you_to_make_peace_with/)
@@ -40,6 +42,7 @@ title: DMT
 - [Changa smoking: Great guide](https://www.reddit.com/r/DMT/comments/arrimi/advice_about_doing_changa_dmt_for_the_first_time/)
 - [Harmaline compound inhibits the activity of the enzyme, monoamino-oxidase (MAO), which breaks down DMT. With other words, if you take a MAO inhibitor like harmaline and then take DMT, you get an extended DMT trip since the DMT is not broken down.](https://www.reddit.com/r/DMT/comments/n8hqny/alright_guys_im_throwing_in_the_towel_enough_dmt/)
 - [Take an oral MAOI next time you smoke DMT. I use harmine HCL. Perfectly legal to buy in most places, you can even buy it on Amazon. It’s a sparkly yellow powder. I take 250mg of the stuff, then wait an hour, then put like 50mg under my tongue for ten minutes. Then take two or three good pulls off the DMT pipe and it is utterly out of this fucking world. It’s like a night-and-day difference.](https://www.reddit.com/r/RationalPsychonaut/comments/rzpix5/why_doesnt_dmt_teach_me_anything/)
+- [Couple of sub breakthrough doses of DMT with another psychedelic and it is like an intensity shot for your trip, almost guaranteed to elongate it for an hour or so. Breakthrough doses are almost like being blown up by and bomb and trying to make sense of the shrapnel. It’s too confusing and I don’t really get anything from it other than mindfuck and “what the fuck was that?” It doesn’t really help me in any way other than eye candy and the feeling of being “shot into space.”](https://www.reddit.com/r/RationalPsychonaut/comments/u8la4o/why_is_dmt_treated_like_some_kind_of_special/)
 
 ## Links
 

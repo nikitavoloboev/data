@@ -125,3 +125,4 @@ title: Remix
 - [Remix Validity State](https://github.com/brophdawg11/remix-validity-state) - Enhanced HTML Inputs for Remix.
 - [Remix: The Yang to React's Yin (2022)](https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin)
 - [Remix on Netlify](https://docs.netlify.com/integrations/frameworks/remix/)
+- [Best features of Remix (2022)](https://twitter.com/AlexandroMtzG/status/1516847153422946310)

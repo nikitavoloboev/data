@@ -46,6 +46,7 @@
 - [Drone footage of Tesla factory (2022)](https://www.youtube.com/watch?v=7-4yOx1CnXE) ([HN](https://news.ycombinator.com/item?id=30961370))
 - [Modular Assembly Innovations](https://modularai.com/)
 - [Automation is the serialization of understanding (2022)](https://changelog.com/posts/automation-is-the-serialization-of-understanding) ([HN](https://news.ycombinator.com/item?id=31073352))
+- [Do10X](https://github.com/dotenx/dotenx) - Extremely simple and most flexible way to build any automation with no-code.
 
 ## Images
 

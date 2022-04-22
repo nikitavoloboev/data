@@ -319,3 +319,4 @@ title: React
 - [React Advanced Useful Tricks (2022)](https://www.reddit.com/r/reactjs/comments/tvm31o/reactjs_advanced_useful_tricks/)
 - [Preferred way to handle success, loading states in React (2022)](https://www.reddit.com/r/reactjs/comments/u0em5s/handling_success_loading_nodata_and_error_states/)
 - [Handle logic at the right place in React (2022)](https://baptiste.devessier.fr/writing/handle-logic-at-the-right-place-in-react/)
+- [React 18 Streaming. Made fully-fledged & easy.](https://github.com/brillout/react-streaming)

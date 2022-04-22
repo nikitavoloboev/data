@@ -370,3 +370,5 @@ title: Node.js
 - [Node.js 18 Introduces Prefix-Only Core Modules (2022)](https://fusebit.io/blog/node-18-prefix-only-modules/)
 - [Nexe](https://github.com/nexe/nexe) - Create a single executable out of your node.js apps.
 - [express-session](https://github.com/expressjs/session) - Simple session middleware for Express.
+- [Node Clean Architecture Template](https://github.com/JamieLivingstone/node-clean-architecture)
+- [fs-spy](https://github.com/antfu/fs-spy) - Monitoring fs accessing for Node process.

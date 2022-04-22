@@ -19,3 +19,4 @@
 - [Pretends to be Drawing](https://ptbd.jwels.berlin/)
 - [The Oatmeal](https://www.theoatmeal.com/) - Comics by Matthew Inman.
 - [Dilbert Feed](https://github.com/mlafeldt/dilbert-feed) - Enjoy Dilbert in your RSS feed reader without any ads.
+- [Codex](https://github.com/ajslater/codex) - Comic archive browser and reader.

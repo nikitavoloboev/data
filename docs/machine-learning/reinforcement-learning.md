@@ -4,7 +4,7 @@ title: Reinforcement learning
 
 # [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
-[Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl) & [Ray](https://github.com/ray-project/ray) seem nice.
+[Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl) & [Ray](https://github.com/ray-project/ray) seem nice. [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class) is great intro.
 
 ## Links
 
@@ -347,3 +347,6 @@ title: Reinforcement learning
 - [Resources and material for an internal course on Reinforcement Learning](https://github.com/gsverhoeven/gt_rl_course)
 - [MO-Gym: Multi-Objective Reinforcement Learning Environments](https://github.com/LucasAlegre/mo-gym)
 - [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills (2018)](https://xbpeng.github.io/projects/DeepMimic/index.html) ([Code](https://github.com/xbpeng/DeepMimic))
+- [SC2RL](https://github.com/Sentdex/SC2RL) - Reinforcement Learning + Starcraft 2.
+- [raylab](https://github.com/0xangelo/raylab) - Reinforcement learning algorithms in RLlib and PyTorch.
+- [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)

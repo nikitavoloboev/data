@@ -299,3 +299,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [W boson mass may be 0.1% larger than predicted by the standard model (2022)](https://www.quantamagazine.org/fermilab-says-particle-is-heavy-enough-to-break-the-standard-model-20220407/) ([Reddit](https://www.reddit.com/r/Physics/comments/tyjgsu/w_boson_mass_may_be_01_larger_than_predicted_by/)) ([HN](https://news.ycombinator.com/item?id=30955033))
 - [Ludwig Boltzmann's inventions](https://twitter.com/MarkusDeserno/status/1512822212646125569)
 - [Faster-than-light communication - Wikipedia](https://en.wikipedia.org/wiki/Faster-than-light_communication)
+- [Collection of Database and Dataset Resources in Materials Science](https://github.com/sedaoturak/data-resources-for-materials-science)

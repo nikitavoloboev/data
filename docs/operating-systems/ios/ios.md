@@ -1,8 +1,6 @@
 # iOS
 
-My [favorite mobile operating system](https://github.com/nikitavoloboev/my-ios) mostly due to me not really trying anything else.
-
-I hope to release Learn Anything on iOS soon too. That would be quite cool.
+List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-ios). [Open-Source iOS Apps list](https://github.com/dkhamsing/open-source-ios-apps) is nice.
 
 ## Nice OSS iOS Swift apps
 

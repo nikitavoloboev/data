@@ -549,3 +549,5 @@ I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/
 - [China and Russia's economies combined are in fact likely about 35% of the world's economy when taking PPP into account](https://twitter.com/RnaudBertrand/status/1513005692986175498)
 - [Новая Газета. Европа](https://novayagazeta.eu/) ([Twitter](https://twitter.com/novayagazeta_eu))
 - [Как мы открыли и закрыли магазин феминистского мерча (2022)](https://journal.tinkoff.ru/fem-merch/)
+- [The Diverse Landscape of Russia (2022)](https://www.youtube.com/watch?v=7EmTtQS2byo)
+- [The Putin Files: Yekaterina Schulmann](https://www.youtube.com/watch?v=0TDO8IWvSRw)

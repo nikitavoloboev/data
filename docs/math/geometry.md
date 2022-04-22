@@ -66,3 +66,4 @@
 - [Visual Dictionary of Special Plane Curves](http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html) ([HN](https://news.ycombinator.com/item?id=30853624))
 - [Geometry – Intellectual Mathematics](https://intellectualmathematics.com/geometry/) - Introductory geometry course for mathematics students.
 - [On Origami Classification](https://origami.kosmulski.org/blog/2022-01-29-origami-classification-part-i)
+- [RingApp](https://github.com/rschwiebert/RingApp) - Database app for ring theory.

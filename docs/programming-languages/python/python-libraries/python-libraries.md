@@ -837,6 +837,7 @@
 - [Norbert](https://github.com/sigsep/norbert) - Painless Wiener filters for audio separation.
 - [titus-isolate](https://github.com/Netflix-Skunkworks/titus-isolate) - Enables the isolated and efficient use of compute resources in a multi-tenant container environment.
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Python library to analyze molecular dynamics simulations.
+- [wrapt](https://github.com/GrahamDumpleton/wrapt) - Python module for decorators, wrappers and monkey patching.
 
 ## Links
 
@@ -959,3 +960,7 @@
 - [µPipenv](https://github.com/thoth-station/micropipenv) - Lightweight wrapper for pip to support requirements.txt, Pipenv and Poetry lock files or converting them to pip-tools compatible output.
 - [pypi-deps-db](https://github.com/DavHau/pypi-deps-db) - Dependency database for python packages on pypi.
 - [pydocstyle](https://github.com/PyCQA/pydocstyle) - Static analysis tool for checking compliance with Python docstring conventions.
+- [Python’s “Type Hints” are a bit of a disappointment to me (2022)](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html) ([HN](https://news.ycombinator.com/item?id=31114554))
+- [desugar](https://github.com/brettcannon/desugar) - Unravelling Python's syntactic sugar source code.
+- [Slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage.
+- [Sourcepy](https://github.com/dchevell/sourcepy) - Source python scripts natively inside your shell.

@@ -1,5 +1,7 @@
 # Cycling
 
+Love [VanMoof](https://www.vanmoof.com/) bikes.
+
 ## Interesting bikes
 
 - [Avail Advanced 2 (2022)](https://www.liv-cycling.com/de/avail-advanced-2-2022)

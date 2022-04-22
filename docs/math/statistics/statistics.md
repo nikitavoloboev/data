@@ -156,3 +156,4 @@
 - [Improving forecasting by learning quantile functions (2022)](https://www.amazon.science/blog/improving-forecasting-by-learning-quantile-functions)
 - [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics](https://crypto.stanford.edu/prio/)
 - [Truth and Probability by Frank P. Ramsey (1926)](http://fitelson.org/probability/ramsey.pdf) ([Tweet](https://twitter.com/snezanalawrence/status/1517079146635145217))
+- [Good books on statistics (2022)](https://www.reddit.com/r/statistics/comments/u8quta/education_i_am_looking_for_good_books_on/)

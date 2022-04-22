@@ -4,7 +4,7 @@ title: Spatial analysis
 
 # [Spatial analysis](https://en.wikipedia.org/wiki/Spatial_analysis)
 
-[This article](https://ciechanow.ski/gps/) on GPS is fascinating.
+[This article](https://ciechanow.ski/gps/) on GPS is fascinating. [Placemark](https://www.placemark.io/) is neat.
 
 ## Links
 
@@ -191,3 +191,4 @@ title: Spatial analysis
 - [Geocube](https://github.com/airbusgeo/geocube) - Geo-spatial imagery database designed as a serverless service to serve processing pipelines of satellite images at large scale.
 - [Mapr](https://github.com/maplibre/maplibre-rs) - Native cross platform maps in Rust using WebGPU. ([HN](https://news.ycombinator.com/item?id=31086087))
 - [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery (2022)](https://tech.marksblogg.com/faster-geospatial-enrichment.html) ([HN](https://news.ycombinator.com/item?id=31093376))
+- [Placemark](https://www.placemark.io/) - Create, edit, and convert the data that powers maps, in real-time with your team.

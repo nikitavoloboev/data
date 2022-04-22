@@ -209,3 +209,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Colibri Lossless](https://colibri-lossless.com/) - Mac Music & Audio Player - FLAC, DSD, BS2B, Gapless.
 - [oggify](https://github.com/pisto/oggify) - Download Spotify tracks to Ogg Vorbis.
 - [Sonixd](https://github.com/jeffvli/sonixd) - Full-featured Subsonic/Jellyfin compatible desktop music player.
+- [Record Store Day](https://recordstoreday.com/)

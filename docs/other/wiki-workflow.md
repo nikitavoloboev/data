@@ -216,6 +216,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other. ([Code](https://github.com/XXIIVV/webring))
 - [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain)
+- [Best of Digital Gardens of GitHub](https://github.com/lyz-code/best-of-digital-gardens)
 
 ## Wiki software
 
@@ -464,3 +465,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [My Org Roam Notes Workflow (2021)](https://hugocisneros.com/blog/my-org-roam-notes-workflow/) ([HN](https://news.ycombinator.com/item?id=30965343))
 - [todo.txt format](https://github.com/todotxt/todo.txt) - Complete primer on the whys and hows of todo.txt.
 - [Harika](https://github.com/quolpr/harika) - Offline-first, performance-focused note taking app for organizing your knowledge database.
+- [Digital Garden theme for Hugo](https://github.com/apvarun/digital-garden-hugo-theme)

@@ -8,6 +8,8 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 
 [Ethereum, Solana, Tezos & Avalanche are interesting blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
 
+[You should not use a blockchain unless you critically need finality in a shared context with a lot of other financial applications like exchanges, stable coin providers. If you don't need that, don't use a blockchain.](https://youtu.be/35_rr8Vf-4k?t=27635)
+
 ## Consensus algorithms
 
 - PoW: The more hashing power the more trust worthy.
@@ -305,7 +307,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [TheNFTBay: Fake, but Worth Discussing (2021)](https://www.clubnft.com/blog/the-trillion-byte-let-down) ([HN](https://news.ycombinator.com/item?id=29290156))
 - [Substrate Cumulus Parachain Template](https://github.com/substrate-developer-hub/substrate-parachain-template) - New Cumulus-based Substrate node, ready for hacking.
 - [Anoma](https://anoma.network/) - Sovereign, proof-of-stake blockchain protocol that enables private, asset-agnostic cash and private bartering among any number of parties. ([Code](https://github.com/anoma/anoma))
-- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core)) ([GitHub](https://github.com/celestiaorg)) ([Node Code](https://github.com/celestiaorg/celestia-node))
+- [Celestia](https://celestia.org/) - Pluggable consensus and data availability layer, to enable anyone to quickly deploy a decentralised blockchain without the overhead of bootstrapping a new consensus network. ([Code](https://github.com/celestiaorg/celestia-core)) ([GitHub](https://github.com/celestiaorg)) ([Node Code](https://github.com/celestiaorg/celestia-node)) ([Modular Summit (2022)](https://www.youtube.com/watch?v=35_rr8Vf-4k))
 - [Awesome Blockchain Rust](https://github.com/rust-in-blockchain/awesome-blockchain-rust)
 - [Decentralized versions of Patreon/OnlyFans (2021)](https://twitter.com/albertwenger/status/1464305621394759684)
 - [Blockchain, the amazing solution for almost nothing (2020)](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/86714927310-8f431cae) ([Reddit](https://www.reddit.com/r/programming/comments/raorbk/blockchain_the_amazing_solution_for_almost/)) ([HN](https://news.ycombinator.com/item?id=24843037))
@@ -381,3 +383,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [KILT Protocol](https://www.kilt.io/) - Blockchain identity protocol for issuing self-sovereign, anonymous, verifiable credentials and decentralized identifiers. ([Code](https://github.com/KILTprotocol/mashnet-node))
 - [Real TPS](https://realtps.net/) - Measures the current number of transactions per second committed by various blockchains. ([Code](https://github.com/Aimeedeer/realtps))
 - [Privy](https://www.privy.io/) - Simple APIs to manage user data off-chain. ([Twitter](https://twitter.com/privy_io))
+- [Zapper Studio](https://github.com/Zapper-fi/studio) - Platform which enables developers in our community to integrate Web3 applications into Zapper.

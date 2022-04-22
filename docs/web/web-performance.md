@@ -4,7 +4,7 @@ title: Web performance
 
 # [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 
-Use [WebPageTest](https://webpagetest.org/easy) to see web page performance.
+Use [WebPageTest](https://webpagetest.org/easy) to see web page performance. I personally love React with NextJS a lot and use it but am trying to explore [other solutions that are much leaner](https://twitter.com/slightlylate/status/1517163057780195331).
 
 ## Notes
 

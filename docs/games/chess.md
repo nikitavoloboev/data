@@ -7,7 +7,8 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 
 ## Nice players
 
-- [Ding Liren](https://www.chess.com/players/ding-liren)
+- [Ding Liren](https://www.chess.com/players/ding-liren) ([Video](https://www.youtube.com/watch?v=P9OHO9yRaeE))
+- [Levon Aronian](https://www.chess.com/players/levon-aronian)
 - [Fabiano Caruana](https://www.chess.com/players/fabiano-caruana)
 - [Jan-Krzysztof Duda](https://www.youtube.com/results?search_query=Jan-Krzysztof+Duda)
 - [Morozevich, Alexander](https://ratings.fide.com/profile/4116992)
@@ -198,3 +199,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [lichess-bot](https://github.com/ShailChoksi/lichess-bot) - Bridge between Lichess Bot API and bots.
 - [Lichess.org API](https://lichess.org/api#operation/apiStreamEvent) - Play on Lichess as a bot. Allows engine play.
 - [Pleco](https://github.com/sfleischman105/Pleco) - Rust-based re-write of the Stockfish Chess Engine.
+- [Principles of Chess Endgames | Introduction to Pawn Endgames | GM Naroditsky (2022)](https://www.youtube.com/watch?v=QUqq7wSLE78)

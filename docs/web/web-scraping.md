@@ -184,3 +184,4 @@
 - [CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data (2019)](https://arxiv.org/abs/1911.00359) ([Code](https://github.com/facebookresearch/cc_net))
 - [How To Use HTMLRewriter for Web Scraping (2022)](https://qwtel.com/posts/software/how-to-use-htmlrewriter-for-web-scraping/)
 - [Brozzler](https://github.com/internetarchive/brozzler) - Distributed browser-based web crawler.
+- [oEmbed Parser](https://github.com/ndaidong/oembed-parser) - Extract oEmbed data from given webpage.

@@ -39,6 +39,7 @@
 ## GraphQL
 
 - [GraphQL Kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - Libraries for running GraphQL in Kotlin.
+- [Nadel](https://github.com/atlassian-labs/nadel) - GraphQL DSL and execution engine for distributed schemas.
 
 ## Other
 
@@ -77,3 +78,4 @@
 - [Jetpack Compose Tutorials and Playground](https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials)
 - [Kotlin for JavaScript](https://kotlinlang.org/docs/js-overview.html) ([HN](https://news.ycombinator.com/item?id=30817065))
 - [Kotlin Multiplatform Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries)
+- [Knit tool](https://github.com/Kotlin/kotlinx-knit) - Kotlin source code documentation management tool.

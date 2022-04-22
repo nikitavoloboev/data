@@ -181,3 +181,5 @@ title: Twitter
 - [Titter](https://github.com/dabit3/titter) - Decentralized Twitter prototype built with GraphQL, Next.js, Ceramic, Arweave, and Bundlr.
 - [Back to the Future of Twitter (2022)](https://stratechery.com/2022/back-to-the-future-of-twitter/) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/u6rfsi/back_to_the_future_of_twitter/))
 - [Twitter API v2 Plugin Token Refresher](https://github.com/alkihis/twitter-api-v2-plugin-token-refresher)
+- [Real-time twitter graph of your friends](https://github.com/Nican/Furland)
+- [How Twitter's Algorithmic Feed Works (2022)](https://transitivebullsh.it/oss-twitter-algorithm-part-1) ([HN](https://news.ycombinator.com/item?id=31115755))

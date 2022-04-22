@@ -12,6 +12,8 @@ I visualize topics and their relations as an [interactive mind map](https://my.m
 
 ![](https://i.imgur.com/3UXdzco.png)
 
+More recently I am using [Excalidraw & Obsidian](https://www.zsolt.blog/2021/09/mind-mapping-with-excalidraw-in-obsidian.html) for making mind maps.
+
 ## Notes
 
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch.

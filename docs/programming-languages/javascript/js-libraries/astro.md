@@ -18,3 +18,4 @@ title: Astro
 - [Astro-Solid Hacker News](https://github.com/ryansolid/astro-solid-hackernews)
 - [Astro SPA](https://github.com/RafidMuhymin/astro-spa) - Astro JS component that turns a website into an SPA and boost performance using various techniques.
 - [Astro Starter Kit: Minimal](https://github.com/bholmesdev/stream-overlays)
+- [Astro Docs](https://docs.astro.build/en/getting-started/) ([Code](https://github.com/withastro/docs))

@@ -217,6 +217,7 @@ title: GitHub actions
 - [Issues Helper](https://github.com/actions-cool/issues-helper) - GitHub Action easily helps you automatically manage issues.
 - [UpIssues](https://github.com/antfu/upissues) - Mirror issues to the upstream repos.
 - [install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
+- [11ty GitHub Actions](https://github.com/bolonio/a11y-github-actions) - How to test web accessibility using GitHub Actions.
 
 ## Go
 
@@ -310,6 +311,7 @@ title: GitHub actions
 
 - [GitHub Action for Kubernetes CLI](https://github.com/steebchen/kubectl) - Provides kubectl for GitHub Actions.
 - [setup-minikube](https://github.com/medyagh/setup-minikube) - Run minikube in github actions, continuous integration against Kubernetes in github actions.
+- [Setup Helm](https://github.com/Azure/setup-helm) - Github Action for installing Helm.
 
 ## Nix
 

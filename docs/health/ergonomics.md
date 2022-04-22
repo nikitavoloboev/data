@@ -1,5 +1,7 @@
 # Ergonomics
 
+Most important thing I always try to be mindful of is keeping straight back (no slouching). Good chair / standing desk is super useful in that regard. As well as taking breaks walking/cycling or doing some sport. Straight back with some kind of exercise daily should be enough to keep my body healthy for long time I think. I try to do some kind of strength training workout weekly too.
+
 ## Chairs
 
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)

@@ -10,6 +10,7 @@ title: ML Libraries
 - [TensorFlow](tensorflow.md)
 - [Keras](keras.md)
 - [fastai](https://github.com/fastai/fastai)
+- [JAX](jax.md)
 
 ## Web
 
@@ -57,7 +58,6 @@ title: ML Libraries
 - [Deepkit](https://github.com/deepkit/deepkit) - Collaborative and real-time machine learning training suite: Experiment execution, tracking, and debugging.
 - [Sls](https://github.com/IssamLaradji/sls) - Stochastic Line Search.
 - [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment. ([Web](https://pycaret.org/))
-- [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility. ([Docs](https://flax.readthedocs.io/en/latest/))
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Python module capable of performing multi-label learning tasks.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
@@ -124,7 +124,7 @@ title: ML Libraries
 - [OneFlow](https://github.com/Oneflow-Inc/oneflow) - Performance-centered and open-source deep learning framework.
 - [DeepWalk](https://github.com/phanein/deepwalk) - Deep Learning for Graphs. ([Web](http://www.perozzi.net/projects/deepwalk/))
 - [sequitur](https://github.com/shobrook/sequitur) - Autoencoders for sequence data.
-- [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Machine learning python package for learning with noisy labels and finding label errors in datasets.
+- [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Machine learning python package for learning with noisy labels and finding label errors in datasets. ([Web](https://cleanlab.ai/)) ([Lobsters](https://lobste.rs/s/wwyeip/cleanlab_2_0_automatically_find_errors_ml))
 - [deeptime](https://github.com/deeptime-ml/deeptime) - Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
 - [Jelly Bean World](https://github.com/eaplatanios/jelly-bean-world) - Framework for experimenting with never-ending learning.
 - [Larq](https://github.com/larq/larq) - Open-source deep learning library for training neural networks with extremely low precision weights and activations, such as Binarized Neural Networks (BNNs). ([Web](https://larq.dev/))
@@ -334,3 +334,7 @@ title: ML Libraries
 - [D2Go](https://github.com/facebookresearch/d2go) - Toolkit for efficient deep learning.
 - [Slideflow](https://github.com/jamesdolezal/slideflow) - Deep learning pipeline for histology image analysis, with both Tensorflow and PyTorch support.
 - [Forte](https://github.com/asyml/forte) - Bring good software engineering to your ML solutions, starting from Data.
+- [Machine Learning(-ish) nix packages](https://github.com/rehno-lindeque/ml-pkgs)
+- [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - High-Efficient Development Toolkit for Image Segmentation.
+- [TorchSparse](https://github.com/mit-han-lab/torchsparse) - High-performance neural network library for point cloud processing.
+- [H2O](https://github.com/h2oai/h2o-3) - In-memory platform for distributed, scalable machine learning.

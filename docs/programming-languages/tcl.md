@@ -23,3 +23,4 @@ title: Tcl
 - [Why is TCL syntax so weird (2013)](https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird) ([HN](https://news.ycombinator.com/item?id=29143346))
 - [csp](https://github.com/securitykiss-com/csp) - Tcl library for Go-style concurrency based on Communicating Sequential Processes. ([HN](https://news.ycombinator.com/item?id=29421786))
 - [TclTutor 3: Computer aided instruction package for learning the Tcl language](http://www.msen.com/~clif/TclTutor.html) ([HN](https://news.ycombinator.com/item?id=30327945))
+- [History of Tcl](https://www.tcl.tk/about/history.html) ([HN](https://news.ycombinator.com/item?id=31111220))

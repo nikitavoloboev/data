@@ -1,5 +1,7 @@
 # Sex
 
+[Sex for over 30's](https://www.reddit.com/r/sexover30/) is a fun sub to read.
+
 ## Notes
 
 - [Don't have PIV sex immediately as it can be painful and unpleasant. Foreplay is important. Be gentle. Can give her an orgasm without any PIV involved easily.](https://www.reddit.com/r/AskMen/comments/mehb1d/why_is_there_this_weird_perception_that_the_sex/)

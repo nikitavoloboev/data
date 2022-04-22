@@ -150,3 +150,4 @@
 - [Ask HN: Good books on managing a hybrid/remote team? (2022)](https://news.ycombinator.com/item?id=30956245)
 - [Ask HN: Has remote work made you procrastinate more? (2022)](https://news.ycombinator.com/item?id=31058930)
 - [How to spot great remote jobs](https://andreschweighofer.com/career/how-to-spot-great-remote-jobs-the-joel-test-for-remote-work/) ([HN](https://news.ycombinator.com/item?id=31059770))
+- [Ask HN: Is Hybrid Working a Ruse? (2022)](https://news.ycombinator.com/item?id=31122002)

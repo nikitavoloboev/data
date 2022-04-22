@@ -6,6 +6,8 @@ Well implemented analytics will let you see how to optimize your system to serve
 
 If analytics are used, it's best to implement them server side with something like [Netlify](https://www.netlify.com/products/analytics/) so as to not send unnecessary JS to the client and keep pages light.
 
+[umami](https://umami.is/) seems nice for analytics.
+
 ## Notes
 
 - [Just because you can measure quantitative things doesn't mean you can ignore qualitative things.](https://twitter.com/_kamlesh_/status/1451907162867847179)

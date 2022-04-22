@@ -1,18 +1,19 @@
 # Skin care
 
-In the morning I apply [Kiehl's Ultra Facial Cream Sunscreen SPF 30](https://www.amazon.co.uk/Kiehls-Ultra-Facial-Cream-Sunscreen/dp/B01N788Z2A).
+Often times my skin care routine is just having a shower in morning or evening with a [moisturizer applied](https://instanatural.com/products/vitamin-c-moisturizer).
 
-Before sleep I shower and apply [Kiehl's Ultra Facial Overnight Hydrating Masque](https://www.amazon.co.uk/Kiehls-Facial-Overnight-Hydrating-Masque/dp/B008S5CV06) and use a clean towel on top of a pillow when sleeping.
+When I go out for long times, especially when it's sunny, I apply [some sunscreen](https://instanatural.com/pages/vitamin-c-moisturizer-with-spf-30).
 
-I never touch my face with dirty hands and try to never frown & just smile.
-
-I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.co.uk/Ultimate-Brushless-Shave-Cream-Eagle/dp/B000S92RAY), making sure not to leave off any scars in the process.
+I try and never touch my face with dirty hands together with minimizing frowning. I am overall quite happy so that part is easy.
 
 ## Interesting
 
 - [InstaNatural Vitamin C](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
 - [Aveeno Positively Radiant](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
 - [Ultra Calming Aveeno moisturizer](https://www.reddit.com/r/SkincareAddiction/comments/snoem9/which_moisture_is_best_i_have_sensitive/)
+- [Ultra Facial Cream SPF 30 – Daily Moisturizer with SPF](https://www.kiehls.com/skincare/face-moisturizers/ultra-facial-cream-spf-30/KHL398.html)
+- [Ultra Facial Overnight Hydrating Face Mask with 10.5% Squalane](https://www.kiehls.com/skincare/face-masks/ultra-facial-overnight-hydrating-face-mask-with-10.5%25-squalane/WW0187KIE.html)
+- [Kiehl's ultimate Brushless Shave Cream](https://www.amazon.co.uk/Ultimate-Brushless-Shave-Cream-Eagle/dp/B000S92RAY)
 
 ## Notes
 

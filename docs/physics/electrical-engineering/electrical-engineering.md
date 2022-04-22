@@ -106,3 +106,4 @@ title: Electrical engineering
 - [Ngspice](https://github.com/ngspice/ngspice) - Mixed-level/mixed-signal circuit simulator.
 - [Catherine's digital logic AMA (2022)](https://twitter.com/whitequark/status/1510525555191558150)
 - [3M tape with anisotropic z-axis electrical conductivity](https://www.3m.com/3M/en_US/p/d/b10167835/) ([HN](https://news.ycombinator.com/item?id=31060526))
+- [ELI 5: What's inside a light bulb?](https://www.reddit.com/r/explainlikeimfive/comments/u8ee7e/eli5_please_my_actual_5_year_old_asked_whats/)

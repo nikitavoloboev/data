@@ -4,13 +4,15 @@ title: iTerm
 
 # [iTerm](https://www.iterm2.com/)
 
+Moved to [Warp](https://www.warp.dev) terminal from iTerm.
+
 Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 
 Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
-I use [Primer GitHub theme](https://github.com/fcaldera/github-primer-iterm2) for it. And share [my iTerm preferences](https://www.dropbox.com/s/wx9ijtq4me8fttp/com.googlecode.iterm2.plist?dl=1).
+I used [Primer GitHub theme](https://github.com/fcaldera/github-primer-iterm2) for iTerm. And share [my iTerm preferences](https://www.dropbox.com/s/wx9ijtq4me8fttp/com.googlecode.iterm2.plist?dl=1).
 
-I switch between Primer Light and Primer Dark themes as I change between macOS appearances.
+I have iTerm switch between Primer Light and Primer Dark themes as I change between macOS appearances.
 
 ![](https://i.imgur.com/fih78QS.png)
 

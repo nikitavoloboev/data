@@ -120,6 +120,10 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Gregory Anders](https://gpanders.com/)
 - [Loophole Letters](https://loophole-letters.vercel.app/)
 - [James Sinclair](https://jrsinclair.com/)
+- [Cobie](https://cobie.substack.com/)
+- [Placemark](https://www.placemark.io/blog)
+- [Jeremy Tuloup](https://jtp.io/)
+- [Johan Brandhorst-Satzkorn](https://jbrandhorst.com/post/)
 
 ## Notes
 

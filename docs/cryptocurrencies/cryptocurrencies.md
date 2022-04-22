@@ -265,3 +265,4 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [Rube](https://github.com/fremantle-industries/rube) - Multi-chain DeFi development toolkit for Elixir.
 - [Coinbase Pay JavaScript SDK](https://github.com/coinbase/cbpay-js)
 - [On anti-crypto toxicity (2022)](https://blog.mollywhite.net/anti-crypto-toxicity/) ([HN](https://news.ycombinator.com/item?id=31094479))
+- [ApeCoin & the death of staking (2022)](https://cobie.substack.com/p/apecoin-and-the-death-of-staking?s=r) ([Tweet](https://twitter.com/cobie/status/1517086096173469697))

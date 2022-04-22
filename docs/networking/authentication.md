@@ -222,3 +222,4 @@
 - [Netlify Identity Widget](https://identity.netlify.com/) - Zero config, framework free Netlify Identity widget. ([Code](https://github.com/netlify/netlify-identity-widget))
 - [Localauth0](https://github.com/primait/localauth0) - Auth0 docker image for local developemnt.
 - [Auth0](https://auth0.com/) - Secure access for everyone. But not just anyone.
+- [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)

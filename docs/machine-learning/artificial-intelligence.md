@@ -1,5 +1,7 @@
 # Artificial intelligence
 
+I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI) as it gives a nice overview of what symbiosis of AI with humans can look like. Language models like [DALL·E](https://openai.com/blog/dall-e/) are fascinating. I want to be able to have a voice assistant that 'knows me' and I can asks question too that is actually good. [LA](../ideas/learn-anything.md) is a tool I am building that can eventually solve this problem as LA will know in a lot of detail which knowledge do you actually have. No other company is tracking this.
+
 ## Notes
 
 - [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
@@ -128,3 +130,4 @@
 - [The singularity is close? (2022)](https://mkaic.substack.com/p/the-singularity-is-very-close?s=r) ([HN](https://news.ycombinator.com/item?id=30871775))
 - [AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting (2021)](https://arxiv.org/abs/2103.14023) ([Code](https://github.com/Khrylx/AgentFormer))
 - [Off Belief Learning (2022)](https://ai.facebook.com/blog/teaching-ai-to-be-more-collaborative-with-humans-without-learning-directly-from-them/)
+- [The Future of Artificial Intelligence with Sam Harris and Eric Schmidt (2022)](https://overcast.fm/+KhqGdr4kI)

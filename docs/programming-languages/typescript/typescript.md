@@ -250,6 +250,8 @@ title: TypeScript
 - [TypeScript/How the compiler compiles (2022)](https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles)
 - [Type-Level TypeScript Workshop](https://github.com/gvergnaud/type-level-typescript-workshop)
 - [TypeScript Congress](https://typescriptcongress.com/)
+- [TypeScript tips and Tricks with Matt (2022)](https://www.youtube.com/watch?v=hBk4nV7q6-w)
+- [TypeScript and Set Theory (2022)](https://ivov.dev/notes/typescript-and-set-theory)
 
 ## Images
 

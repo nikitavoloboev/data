@@ -162,7 +162,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Hades](https://store.steampowered.com/app/1145360/Hades/) ([Tweet](https://twitter.com/notdetails/status/1323022661698682881))
 - [Disco Elysium](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/) ([Tweet](https://twitter.com/andreysitnik/status/1380098420598276103))
 - [I Have No Mouth, and I Must Scream](https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/) ([HN](https://news.ycombinator.com/item?id=28958140))
-- [Little Kitty, Big City](https://www.littlekittybigcity.com/)
+- [Little Kitty, Big City](https://www.littlekittybigcity.com/) ([Discord](https://discord.com/invite/Q8rpdqc))
 
 ## Other
 
@@ -198,6 +198,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What is your most favorite Playstation game of all time? (2022)](https://www.reddit.com/r/PS4/comments/txh5a2/what_is_your_most_favorite_playstation_game_of/)
 - [What is in your opinion one MUST play game from the last 20 years? (2022)](https://www.reddit.com/r/patientgamers/comments/u5j9cb/what_is_in_your_opinion_one_must_play_game_from/)
 - [What are you currently playing on PS?](https://www.reddit.com/r/PS4/comments/u7ieii/what_are_you_currently_playing/)
+- [What is your most anticipated game of 2022?](https://www.reddit.com/r/gaming/comments/u9115z/what_is_your_most_anticipated_game_of_2022/)
 
 ## Links
 

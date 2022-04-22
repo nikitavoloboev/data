@@ -2,7 +2,7 @@
 
 Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functions](https://vercel.com/docs/concepts/functions/introduction) (NextJS) & [Cloudflare Workers](https://workers.cloudflare.com/) (Rust) for [serverless workloads](https://twitter.com/algo_luca/status/1464275828519448580).
 
-[Railway](https://railway.app/) & [Fly.io](https://fly.io/) are incredible platforms too.
+[Railway](https://railway.app/) & [Fly.io](https://fly.io/) are incredible platforms too. [Serverless Application Stack](https://jbrandhorst.com/post/serverless-application-stack/) is nice overview.
 
 ## Notes
 
@@ -159,3 +159,5 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless Rust Demo](https://github.com/aws-samples/serverless-rust-demo) - Simple serverless application built in Rust. It consists of an API Gateway backed by four Lambda functions and a DynamoDB table for storage.
 - [Supabase Functions Relay](https://github.com/supabase/functions-relay) - API gateway which is run before any edge function is invoked.
 - [After 5 years, I'm out of the serverless compute cult (2022)](https://dev.to/brentmitchell/after-5-years-im-out-of-the-serverless-compute-cult-3f6d)
+- [Serverless Application Stack (2021)](https://jbrandhorst.com/post/serverless-application-stack/)
+- [Edge Functions on Netlify Examples](https://edge-functions-examples.netlify.app/)

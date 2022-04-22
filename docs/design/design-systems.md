@@ -1,6 +1,6 @@
 # Design systems
 
-[Primer](https://primer.style/), [Vercel](https://vercel.com/design) & [Radix Primitives](https://github.com/radix-ui/primitives) are my favorite.
+[Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/) & [Polaris](https://polaris.shopify.com/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list.
 
 ## Interesting design systems
 
@@ -181,3 +181,4 @@
 - [The Practical Guide to Naming Design Tokens (2022)](https://uxdesign.cc/naming-design-tokens-9454818ed7cb)
 - [Specify](https://specifyapp.com/) - Design Data Platform. ([Twitter](https://twitter.com/specifyapp))
 - [Storybook Design Token Addon](https://github.com/UX-and-I/storybook-design-token)
+- [Brand Site Design](https://www.brandsite.design/) - Collection of purpose-built, digital, accessible guidelines from global brands.

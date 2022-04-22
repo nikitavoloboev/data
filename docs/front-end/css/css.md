@@ -4,7 +4,7 @@ title: CSS
 
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) & [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/?ck_subscriber_id=368968743) are good reads.
+[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/), [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) & [Defensive CSS](https://ishadeed.com/article/defensive-css/) are good reads.
 
 Often use [these CSS loaders](https://uiball.com/loaders/).
 
