@@ -196,3 +196,4 @@
 - [Alternate History Forum](https://www.alternatehistory.com/forum/)
 - [Which podcast, in your opinion, does a great job of historical storytelling while balancing historical accuracy and entertainment? (2022)](https://www.reddit.com/r/AskHistorians/comments/u6t634/historians_of_raskhistorians_which_podcast_in/)
 - [Real Time History - YouTube](https://www.youtube.com/c/realtimehistory/videos)
+- [Ask HN: Best way to learn about computing history (2022)](https://news.ycombinator.com/item?id=31095360)
