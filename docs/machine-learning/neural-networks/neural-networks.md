@@ -290,3 +290,4 @@
 - [Google AI Blog: Controlling Neural Networks with Rule Representations (2022)](https://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html)
 - [Epistemic Neural Networks](https://github.com/deepmind/enn) - Library for uncertainty representation and training in neural networks.
 - [Transformer in Triton](https://github.com/lucidrains/triton-transformer) - Implementation of a Transformer, but completely in Triton.
+- [This AI Does Not Exist](https://thisaidoesnotexist.com/) - Generate realistic descriptions of made-up machine learning models. ([Code](https://github.com/thesephist/modelexicon))
