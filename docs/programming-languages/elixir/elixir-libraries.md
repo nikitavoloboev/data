@@ -176,6 +176,8 @@
 - [Hush](https://github.com/gordalina/hush) - Runtime configuration loader for Elixir applications.
 - [Stripe for Elixir](https://github.com/beam-community/stripity_stripe)
 - [Solid](https://github.com/edgurgel/solid) - Liquid template engine in Elixir.
+- [MerkleTree](https://github.com/yosriady/merkle_tree) - Merkle Tree implementation in pure Elixir.
+- [Entity Component System](https://github.com/yosriady/ecs)
 
 ## Links
 

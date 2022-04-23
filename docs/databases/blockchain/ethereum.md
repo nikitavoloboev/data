@@ -601,3 +601,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ghost Contract](https://github.com/0xKitsune/Ghost-Contract) - Minimalistic contract to execute a payload and make the code size of the msg.sender appear to be 0.
 - [Vortex](https://github.com/akropolisio/vortex) - On-chain basis trading strategy that aims to generate long-term, sustainable and rewarding yields while remaining market-neutral.
 - [Awesome Ethereum Diagrams](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) - Curated list of Ethereum infographics - L1, L2, Oracles, Defi.
+- [Auditing Smart Contracts with Slither and Echidna (2022)](https://yos.io/2022/02/20/audit-smart-contracts-with-slither-and-echidna/)
+- [Continuous Token](https://github.com/yosriady/continuous-token) - ERC20 Continuous Token backed by bonding curves and an automated market maker contract.

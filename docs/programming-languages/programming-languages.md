@@ -354,3 +354,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Compile time evaluation in Nim, Zig, Rust and C++ (2022)](https://castillodel.github.io/compile-time-evaluation/) ([Reddit](https://www.reddit.com/r/Zig/comments/u6f05z/compile_time_evaluation_in_nim_zig_rust_and_c/))
 - [Prybar](https://github.com/replit/prybar) - Universal interpreter front-end. Same interface, same REPL, different languages.
 - [Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
+- [Reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
