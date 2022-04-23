@@ -13,6 +13,7 @@ Use [WebPageTest](https://webpagetest.org/easy) to see web page performance. I p
 - [Page speed factors and how to increase it: 1. User's Network: deploy to edge, move code to server for smaller bundles. 2. Server Network and Code: fast regional DBs, caching. 3. Asset Waterfall: Load in parallel, don't chain. 4. Parse/eval: move code to server for smaller bundles.](https://twitter.com/ryanflorence/status/1479111475683737610)
 - [Cache dashboard data in Redis on server instead of react-query in the browser. Revalidate it after requests (on an interval so you don't overwork it with high traffic). Expire + push into the cache after writes. Backend investment will yield far greater perf than client.](https://twitter.com/ryanflorence/status/1499160939589173248)
 - [Often times a “slow” website is literally because it is loading megabytes of 3rd party crap when the app logic itself can be <200kb using any framework. That 5kb you save by not having to use a state management lib is insignificant compared to these. The difference made by choice of framework is insignificant if the payload is dominated by 3rd party bloat.](https://twitter.com/youyuxi/status/1509422910020075521)
+- [Have database and app hosted off the same region as each other.](https://twitter.com/buildsghost/status/1517573869858525184)
 
 ## Links
 

@@ -81,3 +81,4 @@ China alongside [Russia](russia.md) and [many more countries](https://worldpopul
 - [Why is war in Ukraine rather an opportunity for China, despite all the risks and challenges (2022)](https://twitter.com/AlexGabuev/status/1514172721873276933)
 - [The Great Translation Movement Twitter](https://twitter.com/TGTM_Official) - Fourth estate, wanderer, Chinese information.
 - [This photo triggered China's Cultural Revolution (2020)](https://www.youtube.com/watch?v=kXByOrRrO7c)
+- [Stay Awesome China - Full Documentary (2022)](https://www.youtube.com/watch?v=mSie5A3LWgI)

@@ -213,7 +213,7 @@
 ## DB
 
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
-- [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
+- [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder. ([Reddit](https://www.reddit.com/r/rust/comments/u9hdho/diesel_200_rc0/))
 - [Diesel Derive Enum](https://github.com/adwhit/diesel-derive-enum) - Use Rust enums directly with diesel ORM.
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
 - [Rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust.
@@ -549,6 +549,7 @@
 - [alloc-cortex-m](https://github.com/rust-embedded/alloc-cortex-m) - Heap allocator for Cortex-M processors.
 - [Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 - [nrf-hal](https://github.com/nrf-rs/nrf-hal) - HAL for the nRF51, nRF52 and nRF91 families of microcontrollers.
+- [Embedded SD/MMC](https://github.com/rust-embedded-community/embedded-sdmmc-rs) - SD/MMC library with FAT16/FAT32 support, suitable for Embedded Rust systems.
 
 ## ML
 

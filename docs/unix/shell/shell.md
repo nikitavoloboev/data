@@ -148,7 +148,7 @@ All active variables can be seen by running `env`.
 - [4 Useful fzf Tricks for Your Terminal (2021)](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
 - [How to replace a string with sed in current and recursive subdirectories](https://victoria.dev/blog/how-to-replace-a-string-with-sed-in-current-and-recursive-subdirectories/)
 - [Gufo](https://github.com/Piervit/gufo) - Modern shell language.
-- [Warp](https://www.warp.dev/) - Fast, Rust-based terminal. ([HN](https://news.ycombinator.com/item?id=27835057)) ([Issues](https://github.com/warpdotdev/warp)) ([HN](https://news.ycombinator.com/item?id=30921231))
+- [Warp](https://www.warp.dev/) - Fast, Rust-based terminal. ([HN](https://news.ycombinator.com/item?id=27835057)) ([Issues](https://github.com/warpdotdev/Warp/issues)) ([HN](https://news.ycombinator.com/item?id=30921231))
 - [How Warp Works (2021)](https://blog.warp.dev/how-warp-works/) ([Lobsters](https://lobste.rs/s/16pj8p/how_warp_works))
 - [TStream](https://github.com/qnkhuat/tstream) - Live streaming from your terminal. ([Web](https://www.tstream.club/))
 - [; echo "Shell Injection" (2021)](https://matklad.github.io//2021/07/30/shell-injection.html) ([Lobsters](https://lobste.rs/s/v0zrtr/echo_shell_injection)) ([HN](https://news.ycombinator.com/item?id=28105100))

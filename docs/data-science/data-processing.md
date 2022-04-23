@@ -94,3 +94,4 @@
 - [Streamify](https://github.com/ankurchavda/streamify) - Data pipeline with Kafka, Spark Streaming, dbt, Docker, Airflow, Terraform, GCP and much more.
 - [DTL](https://getdtl.org/) - Language and JavaScript lib to transform and manipulate data. ([HN](https://news.ycombinator.com/item?id=31098205))
 - [Hawk](https://github.com/gelisam/hawk) - Haskell text processor for the command-line.
+- [Alternatives to pandas library](https://twitter.com/lalleal/status/1511400363622121482)

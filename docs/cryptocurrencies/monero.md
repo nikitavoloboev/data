@@ -4,6 +4,10 @@ title: Monero
 
 # [Monero](https://www.getmonero.org/)
 
+The fact that most/all blockchains have public ledger where each transaction is logged and everyone knows who sent coins to who makes it impossible to use as actual money. If decentralized global currency can be a thing in its own right. Right now as all blockchains are public and fully decentralized peer to peer exchanges are not a popular thing yet, [this will happen](https://twitter.com/maxseddon/status/1517543882120212482).
+
+I am curious what society where everyone agreed to use only anonymous currencies can look like. Probably chaos as then there will be no incentives (especially forceable like we have now with the government) to actually contribute to something good to society for some definition of 'good'. Roads, health care, free access to food seem essential in any society. The most beautiful thing about a coin like Monero in my opinion is that it lets you safely escape and transact openly with anyone in the world even if government can try to stop you.
+
 ## Notes
 
 - [Can buy Monero on Kraken/KuCoin/TradeOgre and transfer it out (to Exodus/Cake wallet).](https://www.reddit.com/r/CryptoCurrency/comments/qrwwpw/what_cryptocurrencies_have_you_personally_found/)

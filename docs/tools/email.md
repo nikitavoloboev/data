@@ -15,6 +15,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [The only two laws for writing any email: 1. Be Valuable 2. Be Interesting](https://www.linkedin.com/pulse/only-two-laws-writing-any-email-henry-taylor/)
 - After meetings, its great to send a list of actionable items for all those involved as a summary.
 - [If you want to avoid 95% of promo spam in your inbox, just set up a Gmail filter that moves any email with the word "Unsubscribe" into a separate folder.](https://twitter.com/Julian/status/1387159799503065090)
+- [Don't have a tough conversation over email. No matter how tempting it may be.](https://twitter.com/jasonlk/status/1517258294087192576)
 
 ## Links
 

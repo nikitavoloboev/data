@@ -168,6 +168,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Ferreira's Wiki](https://github.com/slowernews/notebook)
 - [マリウス](https://xn--gckvb8fzb.com/)
+- [Kirill Gorbachyonok's Wiki](https://github.com/japanese-goblinn/knowledge-base)
 - [Zac's digital garden](https://zacjones.dev/) ([Code](https://github.com/zacjones93/zacs-digital-garden))
 - [Robb Knight's Wiki](https://intersect.rknight.me/) ([Code](https://github.com/rknightuk/intersect))
 - [Edward Yerburgh's CS Notes](https://notes.eddyerburgh.me/) ([Code](https://github.com/eddyerburgh/notes))

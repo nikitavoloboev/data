@@ -247,3 +247,4 @@
 - [datasette-publish-vercel](https://github.com/simonw/datasette-publish-vercel) - Datasette plugin for publishing data using Vercel.
 - [Tad](https://www.tadviewer.com/) - Desktop application for viewing and analyzing tabular data. ([Code](https://github.com/antonycourtney/tad))
 - [Ask HN: Which new skills for a data science career? (2022)](https://news.ycombinator.com/item?id=31093910)
+- [5 Minimalist Tips for Data Scientists to reduce frustration while working with Pandas](https://laszlo.substack.com/p/5-minimalist-tips-for-data-scientists?s=w)

@@ -68,7 +68,7 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Multicoin Capital: Technical Scalability Creates Social Scalability (2021)](https://multicoin.capital/2021/05/25/technical-scalability-creates-social-scalability/) ([Tweet](https://twitter.com/KyleSamani/status/1397602061932433411))
 - [Solana Season Hackathon](https://solana.com/solanaszn)
 - [Solana Ecosystem](https://solana.com/ecosystem) ([Code](https://github.com/solana-labs/ecosystem))
-- [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana. ([Marinade.finance on liquid staking](https://www.youtube.com/watch?v=WaLkb0K3zAE))
+- [Marinade](https://marinade.finance/) - Liquid staking protocol built on Solana. ([Marinade.finance on liquid staking](https://www.youtube.com/watch?v=WaLkb0K3zAE)) ([Discord](https://discord.com/invite/6EtUf4Euu6))
 - [Which validator to choose for SOL? (2021)](https://www.reddit.com/r/solana/comments/nplupv/when_staking_sol_on_solflare_how_do_i_know_which/)
 - [Solana Validators](https://www.validators.app/)
 - [Solana JavaScript API](https://github.com/solana-labs/solana-web3.js) ([Docs](https://solana-labs.github.io/solana-web3.js/)) ([Guide](https://docs.solana.com/developing/clients/javascript-api))

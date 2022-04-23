@@ -6,6 +6,7 @@
 - [The road to hell is paved with special features for special customers.](https://twitter.com/mostalive/status/1415983044935274506)
 - [Minimalism in product design isn't about minimizing the product. It's about minimizing what's going on in the head of the person using it.](https://twitter.com/bob_burrough/status/1133452727525171200)
 - [You never win in product by doing more, you win in product by doing more with less.](https://twitter.com/BrianNorgard/status/1442143121286914057)
+- [Every product org should have at least one senior+ engineer who isn’t beholden to a roadmap and who just goes around making little quality of life improvements everywhere.](https://twitter.com/aweary/status/1517493894543552513)
 
 ## Links
 

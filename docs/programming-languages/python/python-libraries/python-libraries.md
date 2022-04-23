@@ -839,6 +839,10 @@
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Python library to analyze molecular dynamics simulations.
 - [wrapt](https://github.com/GrahamDumpleton/wrapt) - Python module for decorators, wrappers and monkey patching.
 
+## Notes
+
+- [But Pandas clicked for me when I realized that Pandas methods output is usually either a pd.Series or a pd.DataFrame . Then, it's just a matter of integrating Pandas code with the wider Python ecosystem.](https://twitter.com/JacopoAttolini/status/1517655551328587776)
+
 ## Links
 
 - [PyPi](https://pypi.org/) - Repository of software for the Python programming language. ([Code](https://github.com/pypa/warehouse))

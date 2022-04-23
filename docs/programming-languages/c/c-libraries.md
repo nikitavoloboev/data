@@ -150,3 +150,4 @@
 - [Portable Snippets](https://github.com/nemequ/portable-snippets) - Collection of miscellaneous portable C snippets.
 - [Async.h](https://github.com/naasking/async.h) - Stackless Async Subroutines for C.
 - [libreactor](https://github.com/fredrikwidlund/libreactor) - Extendable event driven high performance C-abstractions.
+- [Tiny Rust libc](https://github.com/rust-embedded-community/tinyrlibc) - Tiny C library written in Rust.
