@@ -968,3 +968,4 @@
 - [desugar](https://github.com/brettcannon/desugar) - Unravelling Python's syntactic sugar source code.
 - [Slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage.
 - [Sourcepy](https://github.com/dchevell/sourcepy) - Source python scripts natively inside your shell.
+- [Caching slow functions in Python](https://antonz.org/functools-cache/)

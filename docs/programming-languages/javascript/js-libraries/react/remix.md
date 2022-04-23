@@ -55,6 +55,7 @@ title: Remix
 - [remix-i18next](https://github.com/sergiodxa/remix-i18next) - Easiest way to translate your Remix apps.
 - [remix-etag](https://github.com/donavon/remix-etag) - Makes adding an ETag header to a response easy.
 - [Remix Domains](https://github.com/SeasonedSoftware/remix-domains) - Keep your Business Logic appart from your actions/loaders plumbing.
+- [Remix Sentry](https://github.com/jacob-ebey/remix-sentry) - Example showing using Sentry with Remix.
 
 ## Notes
 

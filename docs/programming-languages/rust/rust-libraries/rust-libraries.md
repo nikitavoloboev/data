@@ -1985,3 +1985,4 @@
 - [Qrates](https://github.com/rust-corpus/qrates) - Framework for large scale analysis of the Rust ecosystem.
 - [MiMalloc Rust](https://github.com/LemonHX/mimalloc-rust) - High Level binding for MiMalloc in Rust.
 - [Rust traits and dependency injection (2022)](https://jmmv.dev/2022/04/rust-traits-and-dependency-injection.html) ([Lobsters](https://lobste.rs/s/yqm4uc/rust_traits_dependency_injection))
+- [Fleet](https://github.com/dimensionhq/fleet) - Blazing fast build tool for Rust. Compiling with Fleet is up-to 5x faster than with cargo. ([Web](https://fleet.rs/)) ([Reddit](https://www.reddit.com/r/rust/comments/ua09tc/experimental_fleet_a_build_tool_for_rust_thats/))

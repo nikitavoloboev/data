@@ -123,3 +123,4 @@ I love [Видеожурнал "Суп"](https://www.youtube.com/playlist?list=P
 - [Places with "bad reputations" you enjoyed? (2022)](https://www.reddit.com/r/solotravel/comments/u2kav6/places_with_bad_reputations_you_enjoyed/)
 - [My 10 Favorite Countries (After Visiting Them All) (2022)](https://www.youtube.com/watch?v=dYQYL1TCKMY)
 - [Kindred](https://livekindred.com/) - Members-only Home Swapping Network. ([Twitter](https://twitter.com/live_kindred))
+- [Лучшие страны для эмиграции вместо Грузии и Турции (2022)](https://www.youtube.com/watch?v=M7IJRWxpqB0)

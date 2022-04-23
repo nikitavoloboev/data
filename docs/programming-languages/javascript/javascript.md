@@ -431,3 +431,4 @@ if (
 - [Shift AST](https://shift-ast.org/) - ECMAScript parser that produces a Shift format AST. ([Code](https://github.com/shapesecurity/shift-parser-js)) ([Bending JavaScript with shift-ast](https://loophole-letters.vercel.app/shift-ast))
 - [JavaScript function composition: What’s the big deal? (2022)](https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/)
 - [How not to write property tests in JavaScript (2021)](https://jrsinclair.com/articles/2021/how-not-to-write-property-tests-in-javascript/)
+- [Find what JavaScript variables are leaking into the global scope (2022)](https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/)

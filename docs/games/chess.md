@@ -200,3 +200,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Lichess.org API](https://lichess.org/api#operation/apiStreamEvent) - Play on Lichess as a bot. Allows engine play.
 - [Pleco](https://github.com/sfleischman105/Pleco) - Rust-based re-write of the Stockfish Chess Engine.
 - [Principles of Chess Endgames | Introduction to Pawn Endgames | GM Naroditsky (2022)](https://www.youtube.com/watch?v=QUqq7wSLE78)
+- [Stockfish WASM](https://github.com/lichess-org/stockfish.wasm) - WebAssembly port of the strong chess engine Stockfish.
