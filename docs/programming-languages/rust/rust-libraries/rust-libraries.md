@@ -1984,3 +1984,4 @@
 - [Rust Library Team Aspirations (2022)](https://blog.rust-lang.org/inside-rust/2022/04/20/libs-aspirations.html)
 - [Qrates](https://github.com/rust-corpus/qrates) - Framework for large scale analysis of the Rust ecosystem.
 - [MiMalloc Rust](https://github.com/LemonHX/mimalloc-rust) - High Level binding for MiMalloc in Rust.
+- [Rust traits and dependency injection (2022)](https://jmmv.dev/2022/04/rust-traits-and-dependency-injection.html) ([Lobsters](https://lobste.rs/s/yqm4uc/rust_traits_dependency_injection))
