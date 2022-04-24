@@ -34,3 +34,4 @@
 - [Elli](https://github.com/gleam-lang/elli) - Gleam HTTP service adapter for the Elli web server.
 - [ids](https://github.com/rvcas/ids) - Unique IDs for Gleam.
 - [mist](https://github.com/rawhat/mist) - Nice, basic gleam web server.
+- [Introducing the Gleam language server (2022)](https://gleam.run/news/v0.21-introducing-the-gleam-language-server/)
