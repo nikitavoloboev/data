@@ -25,3 +25,4 @@
 - [Localization Schemes: A Framework for Proving Mixing Bounds for Markov Chains (2022)](https://arxiv.org/abs/2203.04163)
 - [Introduction to Automatic Backward Filtering Forward Guiding (2022)](https://arxiv.org/abs/2203.04155)
 - [Book: Markov Chains for Programmers](https://czekster.github.io/markov/) ([Code](https://github.com/czekster/markov)) ([HN](https://news.ycombinator.com/item?id=30877958))
+- [Generic markov chain implementation in Rust](https://github.com/aatxe/markov)

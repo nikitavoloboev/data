@@ -127,6 +127,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 ## Notes
 
 - [Telegram messages are server side encrypted and those encryption keys are never stored in the same data center but spread across several.](https://www.reddit.com/r/Telegram/comments/q3lv6f/with_the_recent_epik_and_twitch_leaks_whats_going/)
+- [Don't use Telegram for private incriminating conversations. Telegram leak messages to governments like Russia/Iran/Belarus.](https://twitter.com/matsapulina/status/1518186028208689152)
 
 ## Links
 
@@ -221,3 +222,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Local](https://github.com/Olegt0rr/telegram-local) - Example of Telegram local API and aiogram 3.x.
 - [Telegram bots - From idea to production by Ferran Jovell (2022)](https://www.youtube.com/watch?v=JwivVaKa6ak) ([Code](http://jovell.dev/telegram-heroku-template))
 - [React Telegram Login](https://github.com/hprobotic/react-telegram-login) - React Telegram Login Widget Component.
+- [Безопасен ли Телеграм? (2022)](https://www.youtube.com/watch?v=Cgu-TB0SnRA)

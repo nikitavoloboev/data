@@ -8,6 +8,10 @@ title: Deno
 
 Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 
+## Notes
+
+- [module entry point is mod.ts, application entry point is main.ts](https://discord.com/channels/684898665143206084/689420767620104201/967754431540129812)
+
 ## Links
 
 - [Deno Manual](https://deno.land/manual) ([Code](https://github.com/denoland/manual))

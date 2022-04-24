@@ -255,3 +255,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [launch-tui](https://github.com/wecraftforfun/launch-tui) - Small TUI app to manage launchD.
 - [apple-tools](https://github.com/meme/apple-tools) - Collection of tools for working with Apple software/hardware.
 - [sudo-touchid](https://github.com/artginzburg/sudo-touchid) - Native and reliable TouchID support for sudo.
+- [SendKeys](https://github.com/socsieng/sendkeys) - macOS command line application used to automate the keystrokes and mouse events.

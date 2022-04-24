@@ -87,3 +87,4 @@ title: Lean
 - [GAP-LEAN](https://github.com/opencompl/lean-gap) - GAP parser, pretty printer, interpreter, and formal semantics.
 - [Cryptography in Lean 4](https://github.com/joehendrix/lean-crypto)
 - [OpenGL Lean bindings](https://github.com/yatima-inc/OpenGL.lean)
+- [Fermat's Last Theorem for regular primes](https://github.com/leanprover-community/flt-regular)
