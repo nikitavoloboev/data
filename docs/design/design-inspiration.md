@@ -766,7 +766,7 @@ Here are few more things I liked, design wise.
 - [Shaan Puri](https://www.shaanpuri.com/)
 - [Jake Runzer](https://jakerunzer.com/) ([Code](https://github.com/coffee-cup/jakerunzer-com))
 - [Ink & Switch](https://www.inkandswitch.com/index.html)
-- [Tonsky](https://tonsky.me/)
+- [Tonsky](https://tonsky.me/) ([Code](https://github.com/tonsky/tonsky.github.io))
 - [Isobit](https://www.isobit.io)
 - [Jeremy Keith](https://adactio.com/)
 - [Connor Sears](http://connor.town/) - Clean.

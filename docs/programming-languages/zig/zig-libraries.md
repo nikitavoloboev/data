@@ -130,3 +130,4 @@
 - [Zig Package Repository](https://zig.pm/) - Community-maintained repository of zig packages. ([Code](https://github.com/ziglibs/repository))
 - [zig-build-repos](https://github.com/marler8997/zig-build-repos) - Enables build.zig files to depend on git repositories.
 - [Zig Async Demo](https://github.com/andrewrk/zig-async-demo) - Comparing concurrent code example programs between other languages and Zig.
+- [Minimal Web Assembly example using Zig's build system](https://github.com/meheleventyone/zig-wasm-test)

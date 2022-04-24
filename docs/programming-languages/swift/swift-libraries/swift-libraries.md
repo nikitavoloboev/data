@@ -253,6 +253,7 @@
 - [Switches Animations](https://github.com/jwd-ali/Switch-Animations) - Animate switch collection, Add Beautiful Customise Switch in your application to boost UI and UX.
 - [TempiFFT](https://github.com/jscalo/tempi-fft) - Real-time audio input and FFT written entirely in Swift for iOS.
 - [TTProgressHUD](https://github.com/honkmaster/TTProgressHUD) - Light weight HUD written in SwiftUI meant to display the progress of an ongoing task on iOS.
+- [JustLog](https://github.com/justeat/JustLog) - Takes logging on iOS to the next level. It supports console, file and remote Logstash logging via TCP socket with no effort.
 
 ## macOS
 

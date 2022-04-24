@@ -115,6 +115,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS)
 - [Podcast iOS app](https://github.com/rafaelclaycon/PodcastApp) - Made with Swift and SwiftUI.
 - [DeltaUI](https://github.com/ericlewis/DeltaUI) - SwiftUI + CoreData user interface for DeltaCore & Friends.
+- [Template iOS application using Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
 
 ## Other
 

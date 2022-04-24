@@ -115,3 +115,4 @@ as ICMP Echo packets (pings) traveling from you to remote servers and back again
 - [composefs - a file system for container images (2021)](https://www.scrivano.org/posts/2021-10-26-compose-fs/)
 - [Rust FAT FS](https://github.com/rafalh/rust-fatfs) - FAT file system library implemented in Rust.
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Open source cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust.
+- [CharybdeFS](https://github.com/scylladb/charybdefs) - ScyllaDB fault injection filesystem.

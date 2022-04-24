@@ -201,3 +201,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Pleco](https://github.com/sfleischman105/Pleco) - Rust-based re-write of the Stockfish Chess Engine.
 - [Principles of Chess Endgames | Introduction to Pawn Endgames | GM Naroditsky (2022)](https://www.youtube.com/watch?v=QUqq7wSLE78)
 - [Stockfish WASM](https://github.com/lichess-org/stockfish.wasm) - WebAssembly port of the strong chess engine Stockfish.
+- [ShareChess](https://sharechess.github.io/) - Free, open source website that allows you to share chess games as self-contained replay links. ([Code](https://github.com/sharechess/sharechess))

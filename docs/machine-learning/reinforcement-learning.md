@@ -350,3 +350,4 @@ title: Reinforcement learning
 - [SC2RL](https://github.com/Sentdex/SC2RL) - Reinforcement Learning + Starcraft 2.
 - [raylab](https://github.com/0xangelo/raylab) - Reinforcement learning algorithms in RLlib and PyTorch.
 - [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+- [OpenAI Gym environment designed for training RL agents to control the flight of a two-dimensional drone](https://github.com/mareo1208/Drone-2d-custom-gym-env-for-reinforcement-learning)

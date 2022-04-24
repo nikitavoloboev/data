@@ -62,3 +62,4 @@ title: Prolog
 - [Prolamb](https://github.com/bkrn/prolamb) - SWI-Prolog bootstrap for the AWS Lambda provided runtime.
 - [NLProlog](https://github.com/leonweber/nlprolog) - Neural Logic Reasoning for Question Answering.
 - [egglog](https://github.com/philzook58/egglog) - Prolog like syntax for egg.
+- [Web Prolog](https://github.com/Web-Prolog/swi-web-prolog) - SWI-Prolog implementation of Web Prolog.

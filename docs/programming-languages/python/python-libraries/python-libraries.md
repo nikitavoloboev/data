@@ -838,6 +838,7 @@
 - [titus-isolate](https://github.com/Netflix-Skunkworks/titus-isolate) - Enables the isolated and efficient use of compute resources in a multi-tenant container environment.
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Python library to analyze molecular dynamics simulations.
 - [wrapt](https://github.com/GrahamDumpleton/wrapt) - Python module for decorators, wrappers and monkey patching.
+- [FstStr](https://github.com/dmort27/fststr) - Small library providing a string-oriented Python interface to OpenFST.
 
 ## Notes
 

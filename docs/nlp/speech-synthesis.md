@@ -65,3 +65,4 @@
 - [Deep Learning for Emotional Text-to-speech](https://github.com/Emotional-Text-to-Speech/dl-for-emo-tts) - Summary on our attempts at using Deep Learning approaches for Emotional Text to Speech.
 - [Nix-TTS](https://github.com/rendchevi/nix-tts) - Incredibly Lightweight End-to-End Text-to-Speech Model via Non End-to-End Distillation.
 - [xVA Synth](https://github.com/DanRuta/xVA-Synth) - Machine learning based speech synthesis Electron app, with voices from specific characters from video games.
+- [Bandwidth Extension is All You Need (2021)](https://ieeexplore.ieee.org/document/9413575) ([Code](https://github.com/brentspell/hifi-gan-bwe))

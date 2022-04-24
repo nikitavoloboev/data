@@ -164,3 +164,4 @@ title: Obsidian
 - [Obsidian Remote](https://github.com/sytone/obsidian-remote) - Run Obsidian.md in a browser via a docker container.
 - [MindStone](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [Mind mapping with Excalidraw in Obsidian (2021)](https://www.zsolt.blog/2021/09/mind-mapping-with-excalidraw-in-obsidian.html)
+- [How to Boost your Productivity for Scientific Research (2022)](https://universvm.medium.com/how-to-boost-your-productivity-for-scientific-research-using-obsidian-fe85c98c63c8)

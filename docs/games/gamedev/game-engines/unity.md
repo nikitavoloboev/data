@@ -37,3 +37,4 @@ title: Unity
 - [Hyper-realistic digital humans in Unity](https://unity.com/demos/enemies) ([HN](https://news.ycombinator.com/item?id=30769560))
 - [Facebook SDK for Unity](https://github.com/facebook/facebook-sdk-for-unity)
 - [Unity Fur Shader](https://github.com/Sorumi/UnityFurShader)
+- [2 Years of Learning Game Development in Unity (2022)](https://www.youtube.com/watch?v=8fcy0_FQ_OA)

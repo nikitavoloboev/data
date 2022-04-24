@@ -126,7 +126,7 @@
 - [What can managers do to help colleague that came back from a burnout to reintegrate better (2021)](https://twitter.com/pmarquees/status/1387704907025747970)
 - [Staying on the path to high performing teams (2018)](https://lethain.com/durably-excellent-teams/) ([HN](https://news.ycombinator.com/item?id=27092326))
 - [Thoughts on Stripe's lack of managers (2021)](https://twitter.com/cjc/status/1392657326318833667)
-- [The Managers Handbook](https://themanagershandbook.com/)
+- [The Managers Handbook](https://themanagershandbook.com/) ([HN](https://news.ycombinator.com/item?id=31094373))
 - [The Manager's Path Book](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
 - [Building Self-Managed Teams: A Case Study from Riot Games (2021)](https://codingsans.com/blog/self-managed-teams) ([HN](https://news.ycombinator.com/item?id=27207107))
 - [What’s the best thing a manager has ever done for you? (2021)](https://twitter.com/joulee/status/1398029642443853824)

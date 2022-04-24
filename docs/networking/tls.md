@@ -76,7 +76,7 @@ title: TLS
 - [async-native-tls](https://github.com/async-email/async-native-tls) - Asynchronous Native TLS.
 - [Ask HN: What's your solution for SSL on internal servers? (2022)](https://news.ycombinator.com/item?id=30272101)
 - [Transport Layer Security (5/6) (2022)](https://blog.bithole.dev/tls.html)
-- [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.ulfheim.net/)
+- [The Illustrated TLS 1.3 Connection: Every Byte Explained](https://tls13.ulfheim.net/) ([Code](https://github.com/syncsynchalt/illustrated-tls13))
 - [Bulletproof TLS and PKI (2022)](https://www.feistyduck.com/books/bulletproof-tls-and-pki/) - Understanding and deploying SSL/TLS and PKI to secure servers and web applications.
 - [tls-scan](https://github.com/prbinu/tls-scan) - Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven ).
 - [tincan-tls](https://github.com/syncsynchalt/tincan-tls) - Clean room implementation of TLS 1.3.

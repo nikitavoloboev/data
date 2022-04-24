@@ -298,6 +298,10 @@
 - Use package manager to install things. Keep packages updated.
 - Change OS appearance where appropriate (light interface in sunny areas, dark otherwise). Light is preferred as it's easier to keep focus with lighter backgrounds (more stimulating).
 
+## Video
+
+- Add time stamps to videos released on YouTube.
+
 ## Trello
 
 - Order of importance for cards: **Watching** -> **Next** -> No label.

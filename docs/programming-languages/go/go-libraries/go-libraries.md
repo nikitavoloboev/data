@@ -482,6 +482,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pgproto3](https://github.com/jackc/pgproto3) - Encoder and decoder of the PostgreSQL wire protocol version 3. Can be used as a foundation for PostgreSQL drivers, proxies, mock servers, load balancers and more.
 - [gocache](https://github.com/TwiN/gocache) - High performance and lightweight in-memory cache library with LRU and FIFO support as well as memory-usage-based-eviction.
 - [libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library.
+- [DALI](https://github.com/mibk/dali) - Thin layer over Go's database/sql.
 
 ## ML
 

@@ -307,6 +307,7 @@
 - [Diagnose](https://github.com/Mesabloo/diagnose) - Simple library for reporting compiler/interpreter errors.
 - [list-transformer](https://github.com/Gabriel439/Haskell-List-Transformer-Library) - List monad transformer.
 - [Shelly](https://github.com/gregwebs/Shelly.hs) - Haskell shell scripting.
+- [binary](https://github.com/kolmodin/binary) - Efficient, pure binary serialisation using ByteStrings in Haskell.
 
 ## Notes
 
