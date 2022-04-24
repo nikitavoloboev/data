@@ -603,3 +603,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Awesome Ethereum Diagrams](https://github.com/dgeorgiev06/awesome-ethereum-diagrams) - Curated list of Ethereum infographics - L1, L2, Oracles, Defi.
 - [Auditing Smart Contracts with Slither and Echidna (2022)](https://yos.io/2022/02/20/audit-smart-contracts-with-slither-and-echidna/)
 - [Continuous Token](https://github.com/yosriady/continuous-token) - ERC20 Continuous Token backed by bonding curves and an automated market maker contract.
+- [UniswapV2 clone made in educational purposes](https://github.com/Jeiwan/zuniswapv2)
+- [Programming DeFi: Uniswap V2 (2022)](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)

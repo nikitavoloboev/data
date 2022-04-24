@@ -71,3 +71,4 @@
 - [Why Tokyo Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=zysL_lkdtys)
 - [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/) ([HN](https://news.ycombinator.com/item?id=30818253))
 - [Awesome Japanese](https://github.com/yudataguy/Awesome-Japanese) - Curated list of Japanese language learning resources.
+- [Вторая Мировая война с точки зрения Японии. Почему Япония проиграла?](https://www.youtube.com/watch?v=eWrstRfalnw)

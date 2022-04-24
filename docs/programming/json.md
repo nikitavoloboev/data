@@ -128,3 +128,4 @@ title: JSON
 - [JSON Hero](https://jsonhero.io/) - Beautiful JSON viewer. ([Code](https://github.com/jsonhero-io/jsonhero-web))
 - [JSONata](https://github.com/jsonata-js/jsonata) - JSON query and transformation language. ([Web](https://jsonata.org/))
 - [jsonpack](https://github.com/rgcl/jsonpack) - Compression algorithm for JSON.
+- [edit-json](https://github.com/grantila/edit-json) - Edit JSON text in-place for a minimal diff.

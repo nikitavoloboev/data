@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) & [sqlingo](https://github.com/lqs/sqlingo) seem like a nice ORMs. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client.
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
 
@@ -347,6 +347,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
 - [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. It features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time.
 - [sniper](https://github.com/recoilme/sniper) - Simple and efficient thread-safe key/value store for Go.
 - [Bun](https://github.com/uptrace/bun) - Simple and performant ORM for SQL. ([Web](https://bun.uptrace.dev/))
@@ -483,6 +484,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gocache](https://github.com/TwiN/gocache) - High performance and lightweight in-memory cache library with LRU and FIFO support as well as memory-usage-based-eviction.
 - [libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library.
 - [DALI](https://github.com/mibk/dali) - Thin layer over Go's database/sql.
+- [Go ORM Benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for +10 Go ORMs.
 
 ## ML
 
@@ -1686,3 +1688,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [How to install Go modules](https://go.dev/ref/mod#go-install)
 - [GoMajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.
 - [Go analysis support for CodeQL](https://github.com/github/codeql-go)
+- [Notify](https://github.com/nikoksr/notify) - Dead simple Go library for sending notifications to various messaging services.

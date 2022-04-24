@@ -178,6 +178,7 @@
 - [Solid](https://github.com/edgurgel/solid) - Liquid template engine in Elixir.
 - [MerkleTree](https://github.com/yosriady/merkle_tree) - Merkle Tree implementation in pure Elixir.
 - [Entity Component System](https://github.com/yosriady/ecs)
+- [Blex](https://github.com/gyson/blex) - Fast Bloom filter with concurrent accessibility, powered by :atomics module.
 
 ## Links
 

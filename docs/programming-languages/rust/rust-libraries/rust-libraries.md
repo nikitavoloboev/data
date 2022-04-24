@@ -257,7 +257,7 @@
 - [clickhouse.rs](https://github.com/loyd/clickhouse.rs) - Typed client for ClickHouse.
 - [FuzzyTrie](https://github.com/VictorBulba/fuzzy_trie) - Key-value collection to make fuzzy searches.
 - [codd](https://github.com/salmans/codd) - Library for evaluating typed relational expressions in a monotonically growing minimal database in memory.
-- [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust.
+- [redb](https://github.com/cberner/redb) - Embedded key-value database in pure Rust. ([Reddit](https://www.reddit.com/r/rust/comments/uahh4y/redb_high_performance_embedded_keyvalue_database/))
 - [OpenDAL](https://github.com/datafuselabs/opendal) - Open Data Access Layer that connect the whole world together.
 - [persistentcache-rs](https://github.com/stefan-k/persistentcache-rs) - Macros for persistently caching function calls using files or Redis.
 - [ODBC-API](https://github.com/pacman82/odbc-api) - Rust ODBC bindings. Open standard to connect to a variety of data sources.

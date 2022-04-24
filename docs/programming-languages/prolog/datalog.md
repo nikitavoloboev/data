@@ -32,3 +32,4 @@ title: Datalog
 - [datalog-ts](https://github.com/vilterp/datalog-ts) - Datalog interpreter and UI in TypeScript. ([Web](https://datalog-typechecker.netlify.app/))
 - [Is Datalog a good language for authorization? (2022)](https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/) ([Lobsters](https://lobste.rs/s/2jw5e2/is_datalog_good_language_for))
 - [Reactive Datalog for Datomic - Nikolas Göbel (2018)](https://www.youtube.com/watch?v=ZgqFlowyfTA)
+- [TML (Tau Meta-Language)](https://github.com/IDNI/TML) - Variant of Datalog.

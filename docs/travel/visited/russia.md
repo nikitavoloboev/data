@@ -2,7 +2,7 @@
 
 > Below is mostly [my opinion](https://twitter.com/eeberquist/status/1504516448156274695) on how things in Russia are (hindsight is that I never truly lived in Russia, just was born there and left when 8 to Cyprus and then eventually Netherlands. Most of my opinion is thus formed on my visits to Russia, what I learn online and the things I talk about with Russians still in Russia and abroad).
 
-Russian culture and history is interesting but full of human rights abuses. It's tragic how the monstrosities [Russian government unleashed on Ukraine](https://ukraine.bellingcat.com/) were allowed to happen. It's [hard to say how many inside Russia support this aggression](https://www.youtube.com/watch?v=BNTDs8x2Zwk) as saying anything negative towards this [massacre of Ukrainian people](https://twitter.com/IlvesToomas/status/1517570512116981760) is punishable by prison. I hope it's low but the [limited evidence we do have suggests otherwise](https://www.youtube.com/watch?v=xMldh1B3OEw).
+Russian culture and history is [fascinating](https://www.youtube.com/watch?v=9Lx0dGvE4LI) but full of tragedies. It's tragic how the monstrosities [Russian government unleashed on Ukraine](https://ukraine.bellingcat.com/) were allowed to happen. It's [hard to say how many inside Russia support this aggression](https://www.youtube.com/watch?v=BNTDs8x2Zwk) as saying anything negative towards this [massacre of Ukrainian people](https://twitter.com/IlvesToomas/status/1517570512116981760) is punishable by prison. I hope it's low but the [limited evidence we do have suggests otherwise](https://www.youtube.com/watch?v=xMldh1B3OEw).
 
 The people of Russia are varied and many like to think of themselves as 'outside of politics' which makes sense given that voicing your opinion more actively in form of protest can land you in jail. Russian government [uses fear and oppression to hold itself together](https://www.youtube.com/watch?v=jIwpJXlT2I0) for all these years as well as massive amounts of money it gets from the natural resource sales. It's genuinely sad to see as such a huge country can't flourish and live to its full potential. Nor can most people migrate as they have no finances to support such a move.
 
@@ -16,7 +16,7 @@ Total disregard for human freedoms spills over to total disregard for Russia's b
 
 It would be nice if other countries were more welcome in welcoming students and high valued workers from Russia in their countries. More investments in free education, end to end encrypted chats, [anonymous globally supported currencies](../../cryptocurrencies/monero.md), better online privacy tools can also accelerate the free and prosperous Russia. I hope. It boggles my mind how a government only propped up by mindless goons with sticks still manages to exist.
 
-I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/lists/1351120526220152839).
+I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/lists/1351120526220152839). Specifically [Max Seddon](https://twitter.com/maxseddon) does nice summaries often.
 
 ## Notes
 
@@ -346,7 +346,7 @@ I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/
 - [30 лет «шоковой терапии»: Сергей Гуриев о том, что пошло не так в 91-м и кто виноват (2021)](https://www.youtube.com/watch?v=qhOKQPA0llk)
 - [Чем опасно для режима усиление силовиков? Похоже, элиты начали истреблять сами себя (2021)](https://www.youtube.com/watch?v=mnK2O6UkMv8)
 - [Kremlin.ru](http://www.kremlin.ru/)
-- [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе.
+- [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе.  ([Data](https://github.com/nextgis/memorial_data))
 - [Личное дело каждого](https://dostup.memo.ru/)
 - [Введение в феминизм](https://twitter.com/SunnySwamp/status/1388833195353903111)
 - [Душняк. Советский диссидент Александр Подрабинек об издевательствах над Навальным (2021)](https://theins.ru/opinions/aleksandr-podrabinek/246355)
@@ -551,3 +551,5 @@ I get most of my updates on Russia from my [Twitter List](https://twitter.com/i/
 - [Как мы открыли и закрыли магазин феминистского мерча (2022)](https://journal.tinkoff.ru/fem-merch/)
 - [The Diverse Landscape of Russia (2022)](https://www.youtube.com/watch?v=7EmTtQS2byo)
 - [The Putin Files: Yekaterina Schulmann](https://www.youtube.com/watch?v=0TDO8IWvSRw)
+- [Гражданская война в России 1917-1922. История на карте](https://www.youtube.com/watch?v=E4J9sg431lw)
+- [Российская Империя 1700-1917. История на карте](https://www.youtube.com/watch?v=9Lx0dGvE4LI)

@@ -34,3 +34,4 @@ title: Message queue
 - [Cavalcade](https://github.com/palfrey/cavalcade) - AMQP broker backed by PostgreSQL.
 - [A Message Queue in Shell](https://pencil.toast.cafe/wt2om7i8t7) ([Lobsters](https://lobste.rs/s/p2hlkz/message_queue_shell))
 - [SAQ](https://github.com/tobymao/saq) - Simple Async Queues. Simple and performant job queueing framework built on top of asyncio and redis.
+- [Bull Dashboard](https://github.com/felixmosh/bull-board) - UI built on top of Bull or BullMQ to help you visualize your queues and their jobs.
