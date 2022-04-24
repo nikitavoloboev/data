@@ -155,3 +155,4 @@ title: Vue.js
 - [Vuetify](https://vuetifyjs.com/en/) - Material Design Framework for Vue.js. ([Code](https://github.com/vuetifyjs/vuetify)) ([Awesome](https://github.com/vuetifyjs/awesome-vuetify))
 - [Vue Virtual Scroller](https://github.com/Akryum/vue-virtual-scroller) - Blazing fast scrolling of any amount of data.
 - [Origin.js](https://github.com/originjs/origin.js) - Simple and powerful Vue.js web application framework that provides a complete set of web project solutions based on Vue.js.
+- [Dashibase](https://github.com/Dashibase/dashibase) - No-code tool to build user dashboards supported by Supabase.
