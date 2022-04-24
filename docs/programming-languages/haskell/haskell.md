@@ -409,3 +409,4 @@ title: Haskell
 - [Categorifier](https://github.com/con-kitty/categorifier) - Defining novel interpretations of Haskell programs.
 - [Applied Haskell Syllabus](https://www.fpcomplete.com/haskell/syllabus/)
 - [stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier.
+- [Generalizing Folds in Haskell (2022)](https://danilafe.com/blog/haskell_catamorphisms/)

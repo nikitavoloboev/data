@@ -19,4 +19,4 @@ title: Libra
 - [HN: Diem – A rebrand of Facebook Libra (2020)](https://news.ycombinator.com/item?id=25323090)
 - [Libra White Paper v2](https://wp.diem.com/en-US/wp-content/uploads/sites/23/2020/04/Libra_WhitePaperV2_April2020.pdf)
 - [Diem Devs Discord](https://discord.com/invite/dZyenBj)
-- [Move Language Code](https://github.com/diem/move)
+- [Move Language Code](https://github.com/diem/move) ([Fork?](https://github.com/move-language/move))

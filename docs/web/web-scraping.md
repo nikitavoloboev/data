@@ -185,3 +185,4 @@
 - [How To Use HTMLRewriter for Web Scraping (2022)](https://qwtel.com/posts/software/how-to-use-htmlrewriter-for-web-scraping/)
 - [Brozzler](https://github.com/internetarchive/brozzler) - Distributed browser-based web crawler.
 - [oEmbed Parser](https://github.com/ndaidong/oembed-parser) - Extract oEmbed data from given webpage.
+- [Proxy scraper and checker](https://github.com/iw4p/proxy-scraper) - Scrape more than 1K HTTP proxies in less than 2 seconds.

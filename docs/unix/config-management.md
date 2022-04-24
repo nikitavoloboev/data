@@ -57,3 +57,4 @@
 - [zenv](https://github.com/m-mizutani/zenv) - Enhanced env command to manage environment variables in CLI.
 - [Doppler](https://www.doppler.com/) - Sync environment variables at scale. ([Docs](https://docs.doppler.com/docs)) ([CLI](https://github.com/DopplerHQ/cli))
 - [Modenv](https://github.com/kurtbuilds/modenv) - CLI to easily manage .env files and keep them consistent. It is simple, fast, error resistant, and composable.
+- [envplat](https://github.com/envplat/envplat) - Self-hosted environment variable management platform.

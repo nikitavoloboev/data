@@ -839,6 +839,7 @@
 - [MDAnalysis](https://github.com/MDAnalysis/mdanalysis) - Python library to analyze molecular dynamics simulations.
 - [wrapt](https://github.com/GrahamDumpleton/wrapt) - Python module for decorators, wrappers and monkey patching.
 - [FstStr](https://github.com/dmort27/fststr) - Small library providing a string-oriented Python interface to OpenFST.
+- [FElupe](https://github.com/adtzlr/felupe) - Finite Element Analysis.
 
 ## Notes
 

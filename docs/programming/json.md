@@ -127,3 +127,4 @@ title: JSON
 - [The fastest tools for querying large JSON datasets](https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb) ([HN](https://news.ycombinator.com/item?id=31004563))
 - [JSON Hero](https://jsonhero.io/) - Beautiful JSON viewer. ([Code](https://github.com/jsonhero-io/jsonhero-web))
 - [JSONata](https://github.com/jsonata-js/jsonata) - JSON query and transformation language. ([Web](https://jsonata.org/))
+- [jsonpack](https://github.com/rgcl/jsonpack) - Compression algorithm for JSON.

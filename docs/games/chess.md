@@ -203,3 +203,4 @@ Loved watching [Queen's Gambit](https://trakt.tv/shows/the-queen-s-gambit). I pl
 - [Stockfish WASM](https://github.com/lichess-org/stockfish.wasm) - WebAssembly port of the strong chess engine Stockfish.
 - [ShareChess](https://sharechess.github.io/) - Free, open source website that allows you to share chess games as self-contained replay links. ([Code](https://github.com/sharechess/sharechess))
 - [How much does fast thinking matter in Lichess games? (2022)](https://emiruz.com/post/2022-04-15-lichess1/) ([HN](https://news.ycombinator.com/item?id=31114742))
+- [Chess Coordinates trainer](https://github.com/c00/chess-exclam)

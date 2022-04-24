@@ -1593,6 +1593,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Slicer](https://github.com/leaanthony/slicer) - Utility class for handling slices.
 - [Go ANSI Parser](https://github.com/leaanthony/go-ansi-parser) - Converts strings with ANSI escape codes into a slice of structs that represent styled text.
 - [go-mp4](https://github.com/abema/go-mp4) - Go library for reading and writing MP4.
+- [xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 
 ## Links
 

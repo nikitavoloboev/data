@@ -474,3 +474,4 @@ for i, _ in enumerate(nums):
 - [Evrone Python Guidelines](https://github.com/evrone/evrone-python-guidelines/blob/master/EN.md)
 - [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python. ([Tweet](https://twitter.com/1st1/status/1516859294896906241)) ([HN](https://news.ycombinator.com/item?id=31102089))
 - [Modeling and Simulation in Python (2022)](https://nostarch.com/modeling-and-simulation-python)
+- [MicroPython in Docker Containers (2022)](https://bhave.sh/micropython-docker/)

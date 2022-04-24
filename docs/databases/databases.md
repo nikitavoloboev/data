@@ -286,6 +286,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Couchbase Mobile](https://www.couchbase.com/products/mobile) - SQLite Alternative. ([C++ Client](https://github.com/couchbase/couchbase-lite-core))
 - [Morph](https://github.com/mattermost/morph) - Database migration tool that helps you to apply your migrations. Written with Go.
 - [loadgen](https://github.com/crazycs520/loadgen) - Generate database load.
+- [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application.
 
 ## Notes
 

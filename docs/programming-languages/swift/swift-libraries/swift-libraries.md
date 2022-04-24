@@ -1104,6 +1104,7 @@
 - [Mirai](https://github.com/moriturus/Mirai) - Provides Rust-styled Future.
 - [AnyObservableObject](https://github.com/marty-suzuki/AnyObservableObject)
 - [UpdateAvailableKit](https://github.com/SwapnanilDhol/UpdateAvailableKit) - Easy way to check if the installed app has an update available.
+- [SwiftDSSocket](https://github.com/csujedihy/SwiftDSSocket) - Swift based asynchronous socket framework built atop DispatchSource.
 
 ## Other (not lib)
 
