@@ -6,6 +6,9 @@ I practice self reflection (via journaling) & meditation (walks in nature) to ge
 
 ## Notes
 
+- [Neurons are transition systems which are exchanging and converting and optimizing abstract "resources", from which you can build homotopy types from neural codes representing stimuli spaces and then hopefully qualia.](https://twitter.com/drbeefsupreme/status/1518084355037536256)
+- [You can think of mental computation as two stages: the first activates a set of controllers that activate features (functions) and links them into a network, the second propagates activation patterns through the network. Features are released by deactivating their controller.](https://twitter.com/Plinz/status/1518062698600497152)
+- [Emergence is a relationship between models. A model is the recreation of an observed pattern as a causal structure. A causal structure is a network of transitions that are conditional on state. An algorithm represents causal structure in a form that can be reasoned about.](https://twitter.com/Plinz/status/1518335581104730112)
 - [LSD and DMT (Ayahuasca) made me realize that "I" am an illusion. My ego is afraid of death, but I am not my ego. Think about it: anything that is mine is not I. I am the subject, my things are my objects. So I am not my body, my car, my house, my clothes, my ego. So what am I?](https://www.reddit.com/r/Psychonaut/comments/7sec24/does_any_psychedelic_allow_you_to_make_peace_with/)
 - [There is no end to consciousness and no end goal.](https://www.reddit.com/r/Psychonaut/comments/7lu9wr/what_is_the_end_goal_of_consiousness_is_it_to_all/)
   - Goals are things that can keep the experiencer engaged in the experience and are creations to add spice to reality and existence.

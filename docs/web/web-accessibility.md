@@ -98,3 +98,4 @@
 - [A11yAutomation](https://a11y-automation.dev/) - Tracking the available automation for accessibility. ([Code](https://github.com/MelSumner/a11y-automation))
 - [Deep Dive On Accessibility Testing](https://smashingconf.com/online-workshops/workshops/manuel-matuzovic-apr)
 - [Accessible React Forms (2022)](https://www.carlrippon.com/accessible-react-forms/)
+- [Best JS frameworks/libraries for web accessibility (2022)](https://twitter.com/simonw/status/1518296889837252609)

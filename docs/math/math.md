@@ -356,3 +356,4 @@
 - [There’s more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/) ([HN](https://news.ycombinator.com/item?id=31086970))
 - [Bad but interesting mathematical notation idea (2022)](https://blog.plover.com/math/se/notation.html) ([HN](https://news.ycombinator.com/item?id=31087533))
 - [Things I would like to see in a computer algebra system (2022)](https://fredrikj.net/blog/2022/04/things-i-would-like-to-see-in-a-computer-algebra-system/) ([HN](https://news.ycombinator.com/item?id=31101332))
+- [Oldest mathematical text that you have seriously engaged with a substantial portion of?](https://twitter.com/JulietteBruce12/status/1518312216298098688)

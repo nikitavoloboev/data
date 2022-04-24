@@ -128,6 +128,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 - [Telegram messages are server side encrypted and those encryption keys are never stored in the same data center but spread across several.](https://www.reddit.com/r/Telegram/comments/q3lv6f/with_the_recent_epik_and_twitch_leaks_whats_going/)
 - [Don't use Telegram for private incriminating conversations. Telegram leak messages to governments like Russia/Iran/Belarus.](https://twitter.com/matsapulina/status/1518186028208689152)
+- [Когда я спросила об этом адвоката (адвокат по уголовкам, не политический), она сказала, что "то, что телеграм течет - давно уже не секрет, но почему-то никто это не обсуждает".](https://twitter.com/matsapulina/status/1518186054746091520)
 
 ## Links
 
