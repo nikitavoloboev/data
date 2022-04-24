@@ -231,3 +231,4 @@ title: Svelte
 - [How to use Serverless Cloud with SvelteKit (2022)](https://www.serverless.com/blog/how-to-use-serverless-cloud-with-sveltekit)
 - [Svelte Reveal](https://github.com/DaveKeehl/svelte-reveal) - Svelte action that leverages the Intersection Observer API to trigger reveal on scroll transitions.
 - [Svelte-intl-precompile](https://github.com/cibernox/svelte-intl-precompile) - i18n library for Svelte.js that analyzes your keys at build time for max performance and minimal footprint.
+- [Svelte Package template](https://github.com/Tropix126/sveltekit-package-template) - Barebones project that provides the essentials for writing highly-optimized, reusable packages in Svelte.

@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM. [Ristretto](https://github.com/outcaste-io/ristretto) is great cache lib. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) seems like a nice ORM. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client.
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
 

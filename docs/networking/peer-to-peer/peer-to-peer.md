@@ -69,6 +69,7 @@
 - [p2p Git Portal](https://github.com/happybeing/p2p-git-portal-poc) - GitHub like portal which can be hosted on peer-to-peer or static storage, initially targeting Safe Network.
 - [Hyperbeam](https://github.com/mafintosh/hyperbeam) - 1-1 end-to-end encrypted internet pipe powered by Hyperswarm. ([HN](https://news.ycombinator.com/item?id=25407174))
 - [Nostr](https://github.com/fiatjaf/nostr) - Simple open protocol that is able to create a censorship-resistant global "social" network. ([Lobsters](https://lobste.rs/s/bxguql/nostr_notes_other_stuff_transmitted_by)) ([HN](https://news.ycombinator.com/item?id=29749061)) ([Intro](https://wiki.wellorder.net/post/nostr-intro/)) ([Lobsters](https://lobste.rs/s/mv74ka/nostr_introduction))
+- [Nauka](https://github.com/basantagoswami/nauka) - Decentralized social network using Nostr.
 - [QuantumGate](https://github.com/kareldonk/QuantumGate) - Peer-to-peer (P2P) communications protocol, library and API written in C++. ([Web](http://www.quantumgate.org/))
 - [Beaker browser](https://beakerbrowser.com/) - Experimental peer to peer web browser. ([HN](https://news.ycombinator.com/item?id=25753908))
 - [Probablistic P2P Content Moderation (2021)](https://generativist.falsifiable.com/metaverse/probablistic-p2p-content-moderation)

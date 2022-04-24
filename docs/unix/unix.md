@@ -84,3 +84,4 @@ title: Unix
 - [Advanced Programming in the UNIX Environment](https://people.cs.nctu.edu.tw/~chuang/courses/unixprog/) ([Code](https://github.com/ss8651twtw/Unix-Programming))
 - [A Brief Introduction to termios (2009)](https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/)
 - [daemonize](https://github.com/bmc/daemonize) - Command line utility to run a program as a Unix daemon.
+- [Scripts to extend the Unix environment](https://github.com/thrig/scripts)

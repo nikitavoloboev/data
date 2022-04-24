@@ -78,3 +78,4 @@ title: Nginx
 - [ngx_upstream_jdomain](https://github.com/nicholaschiasson/ngx_upstream_jdomain) - Asynchronous domain name resolution module for nginx upstream.
 - [Zestginx](https://github.com/ZestProjects/zestginx) - Modern, performant, and secure NGINX distribution packed with features.
 - [NGINX JavaScript examples](https://github.com/nginx/njs-examples)
+- [nginxfmt](https://github.com/jamesog/nginxfmt) - Nginx configuration formatter, inspired by gofmt.

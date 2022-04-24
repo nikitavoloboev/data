@@ -146,3 +146,4 @@
 - [ggstamp](https://github.com/EvaMaeRey/ggstamp) - Convenience functions for creating annotation layers in the ggplot2 and grammar of graphics framework.
 - [kittyR](https://github.com/IndrajeetPatil/kittyR) - Kitty pictures and meows from R console.
 - [pointblank](https://github.com/rich-iannone/pointblank) - Data quality assessment and metadata reporting for data frames and database tables.
+- [r3dmol](https://github.com/swsoyee/r3dmol) - R package for visualizing molecular data in 3D.

@@ -4,7 +4,7 @@ title: Swift
 
 # [Swift](https://developer.apple.com/swift/)
 
-[Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great. [Advanced Swift Book](https://www.objc.io/books/advanced-swift/) together with [other books by objc.io](https://www.objc.io/books/) are amazing too.
+[Point-Free](https://www.pointfree.co/) together with [their blog](https://www.pointfree.co/blog) are great. [Advanced Swift Book](https://www.objc.io/books/advanced-swift/) together with [other books by objc.io](https://www.objc.io/books/) are amazing too. [Lickability Swift Best Practices Guide](https://github.com/Lickability/swift-best-practices) is a nice read.
 
 ## OSS Swift CLI tools
 

@@ -42,6 +42,7 @@ title: Jupyter Notebooks
 - [jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor) - JupyterLab extension providing, SQL formatter, auto-completion, syntax highlighting, Spark SQL and Trino.
 - [SQLite kernel for JupyterLite running in the browser](https://github.com/jupyterlite/xeus-sqlite-kernel)
 - [Emblaze](https://github.com/cmudig/emblaze) - Interactive Jupyter notebook widget for visually comparing embedding spaces.
+- [JupyterLab S3 Browser](https://github.com/IBM/jupyterlab-s3-browser) - JupyterLab extension for browsing S3-compatible object storage.
 
 ## Links
 

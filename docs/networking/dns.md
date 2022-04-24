@@ -4,6 +4,8 @@ title: DNS
 
 # [DNS](http://en.wikipedia.org/wiki/Domain_Name_System)
 
+[How DNS Works](https://wizardzines.com/zines/dns/) is great.
+
 ## Notes
 
 - [`dig +noall +answer DOMAIN` will get just the DNS info you want.](https://twitter.com/b0rk/status/1387490109168173057)
@@ -211,3 +213,4 @@ title: DNS
 - [Dynamic DNS with Docker, Go and Bind9](https://github.com/dprandzioch/docker-ddns)
 - [Erlang DNS Server](https://github.com/dnsimple/erldns) - Serve DNS authoritative responses with Erlang.
 - [libdns](https://github.com/libdns/libdns) - Universal DNS provider APIs for Go.
+- [How DNS Works](https://wizardzines.com/zines/dns/)

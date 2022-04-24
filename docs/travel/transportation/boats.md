@@ -24,3 +24,4 @@
 - [13 years sailing around the world](http://blog.mailasail.com/wildfox) ([HN](https://news.ycombinator.com/item?id=30084217))
 - [Busy Doing Nothing by Rek & Devine](https://hundredrabbits.itch.io/busy-doing-nothing)
 - [Zen and the Art of Boat Building (2014)](https://www.yachtmollymawk.com/2014/11/zen-and-the-art-of-boat-building/)
+- [Lürssen Yachts](https://www.lurssen.com/en/)

@@ -6,7 +6,7 @@ title: Deno
 
 [Deploying Deno on Fly.io](https://fly.io/docs/getting-started/deno/) is great. [Deno by Example](https://examples.deno.land/) is good intro. [dnt](https://github.com/denoland/dnt) is nice tool to deploy to npm. [Trex](https://github.com/crewdevio/Trex) seems like a neat package manager. [Peko](https://github.com/sebringrose/peko) seems nice as a web framework.
 
-Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
+Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](https://www.youtube.com/watch?v=SYkzk_j3yb0) is a nice intro.
 
 ## Notes
 
@@ -232,3 +232,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often.
 - [Oak Sessions](https://github.com/jcs224/oak_sessions) - Cookie-based web sessions with the Oak framework.
 - [Deno for ARM64](https://github.com/LukeChannings/deno-arm64) - Docker image for Deno.
 - [Deno S3 Lite Client](https://github.com/bradenmacdonald/deno-s3-lite-client) - Lightweight S3 client for Deno.
+- [Deno - HTTP 203 (2021)](https://www.youtube.com/watch?v=SYkzk_j3yb0)

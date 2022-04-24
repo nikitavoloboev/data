@@ -77,6 +77,7 @@
 
 - [convoluted](https://github.com/jonascarpay/convoluted) - Dependently typed convolutional neural networks.
 - [Easytensor](https://github.com/achirkin/easytensor) - Many-dimensional type-safe numeric ops.
+- [HLearn](https://github.com/mikeizbicki/HLearn) - Homomorphic machine learning.
 
 ## Math
 

@@ -162,6 +162,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
+- [LogSnag](https://logsnag.com/) - Real-time feed of events for your projects.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Kukkee](https://www.kukkee.com/) - Open source Doodle alternative. ([Code](https://github.com/Kukkee/Kukkee)
 - [FormSG](https://github.com/opengovsg/FormSG) - Form builder for the Singapore Government.

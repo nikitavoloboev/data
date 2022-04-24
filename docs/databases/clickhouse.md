@@ -21,3 +21,4 @@ title: ClickHouse
 - [ClickHouse Python Driver](https://github.com/mymarilyn/clickhouse-driver)
 - [ClickHouse Keeper](https://pradeepchhetri.xyz/clickhousekeeper/) - Alternative to Apache ZooKeeper.
 - [ClickHouse vs TimescaleDB (2021)](https://pradeepchhetri.xyz/clickhousevstimescaledb/)
+- [Graphite cluster backend with ClickHouse support](https://github.com/go-graphite/graphite-clickhouse)

@@ -189,3 +189,4 @@ title: SQL
 - [Sneller](https://github.com/SnellerInc/sneller) - Vectorized SQL for JSON at scale: fast, simple, schemaless.
 - [Open Source SQL Parsers (2021)](https://tokern.io/blog/open-source-sql-parsers/) ([HN](https://news.ycombinator.com/item?id=31107231))
 - [More SQL Parsing](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON so we can translate it for other datastores.
+- [Analyzing iMessage with SQL (2022)](https://arctype.com/blog/search-imessage/)

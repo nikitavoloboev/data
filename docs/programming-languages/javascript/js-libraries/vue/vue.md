@@ -8,6 +8,7 @@ title: Vue.js
 
 ## Built with Vue
 
+- [Nuxt 3 Minimal Starter with ESLint](https://github.com/Diizzayy/n3-starter)
 - [Nuxt.js Hacker News](https://github.com/nuxt/hackernews)
 - [Travel App, Native-like Page Transitions](https://github.com/sdras/page-transitions-travelapp)
 - [Vue Advanced Chat](https://github.com/antoine92190/vue-advanced-chat) - Beautiful chat rooms component made with Vue.js.
@@ -156,3 +157,4 @@ title: Vue.js
 - [Vue Virtual Scroller](https://github.com/Akryum/vue-virtual-scroller) - Blazing fast scrolling of any amount of data.
 - [Origin.js](https://github.com/originjs/origin.js) - Simple and powerful Vue.js web application framework that provides a complete set of web project solutions based on Vue.js.
 - [Dashibase](https://github.com/Dashibase/dashibase) - No-code tool to build user dashboards supported by Supabase.
+- [Vue Schema.org for Automated Google Rich Results](https://github.com/harlan-zw/vue-schema-org)

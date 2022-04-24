@@ -598,3 +598,4 @@
 - [LocalRegistry](https://github.com/GunnarFarneback/LocalRegistry.jl) - Create and maintain local registries for Julia packages.
 - [jluna](https://github.com/Clemapfel/jluna) - Julia ⭤ C++ Wrapper with Focus on Modernity, Safety and Ease of Use. ([Reddit](https://www.reddit.com/r/cpp/comments/tcvi0s/jluna_a_new_julia_c_wrapper/))
 - [Julia Compiler Plugins](https://github.com/JuliaCompilerPlugins)
+- [Julia on HPC systems](https://github.com/hlrs-tasc/julia-on-hpc-systems) - Information on how to set up Julia on HPC systems.

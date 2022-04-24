@@ -220,3 +220,4 @@ All active variables can be seen by running `env`.
 - [Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)
 - [ACME Shell script: acme.sh](https://github.com/acmesh-official/acme.sh) - Pure Unix shell script implementing ACME client protocol.
 - [The Front-End Developer's Guide to the Terminal (2022)](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/) ([HN](https://news.ycombinator.com/item?id=31094510))
+- [Textualize](https://www.textualize.io/) - Framework for building Text User Interface applications. ([HN](https://news.ycombinator.com/item?id=31143327)) ([Web Code](https://github.com/Textualize/textualize.io))

@@ -449,6 +449,7 @@
   - [My file system](docs/unix/my-file-system.md)
   - [Dotfiles](docs/unix/dotfiles.md)
   - [Configuration management](docs/unix/config-management.md)
+  - [Warp](docs/unix/shell/warp.md)
 - [Web](docs/web/web.md)
   - [Browsers](docs/web/browsers/browsers.md)
     - [Safari](docs/web/browsers/safari.md)

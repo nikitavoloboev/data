@@ -389,6 +389,7 @@ Here are few more things I liked, design wise.
 - [Chris Penner](https://chrispenner.ca/)
 - [Lydia Hallie](https://www.lydiahallie.io/)
 - [Michael Nielsen](https://michaelnielsen.org/)
+- [Sindre Sorhus](https://sindresorhus.com/) ([Code](https://github.com/sindresorhus/sindresorhus.github.com))
 - [Liam Cooke](https://liamcooke.com/)
 - [Lawrence Kesteloot](https://www.teamten.com/lawrence/)
 - [Kitze](https://kitze.io/)

@@ -119,3 +119,4 @@
 - [Silly Image Compression Idea (2022)](https://snufk.in/blog/silly-compression.html) ([HN](https://news.ycombinator.com/item?id=30979085))
 - [go-unarr](https://github.com/gen2brain/go-unarr) - Go bindings for unarr (decompression library for RAR, TAR, ZIP and 7z archives).
 - [libzip](https://github.com/nih-at/libzip) - C library for reading, creating, and modifying zip archives.
+- [The smallest 256x256 single-color PNG file, and where you've seen it](https://www.mjt.me.uk/posts/smallest-png/)
