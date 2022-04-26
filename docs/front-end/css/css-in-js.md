@@ -53,3 +53,4 @@
 - [Token CSS](https://github.com/tokencss/tokencss)
 - [split-classnames](https://github.com/remorses/split-classnames) - Splits long className attributes to make them more readable.
 - [TypeScript language service plugin for CSS Modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
+- [Rainbow Sprinkles](https://github.com/wayfair-incubator/rainbow-sprinkles) - Dynamic, theme-driven, style props for vanilla-extract.

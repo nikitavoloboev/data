@@ -373,3 +373,6 @@ title: Node.js
 - [Node Clean Architecture Template](https://github.com/JamieLivingstone/node-clean-architecture)
 - [fs-spy](https://github.com/antfu/fs-spy) - Monitoring fs accessing for Node process.
 - [args-flags](https://github.com/souporserious/args-flags) - Simple command line argument parser for Node.
+- [Node.js Modules Team](https://github.com/nodejs/modules)
+- [Node Addon API Module](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++.
+- [Lad](https://github.com/ladjs/lad) - Node.js web framework.

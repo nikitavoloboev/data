@@ -110,6 +110,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [SFMono Square](https://github.com/delphinus/homebrew-sfmono-square) - Based on SF Mono, and added glyphs for Japanese & patched for Nerd Fonts.
 - [Sono](https://github.com/sursly/sono) - Soft monospace variable font.
 - [Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk) - Sans serif typeface with a contemporary appearance intended for both text and display.
+- [Arima Font Family](https://github.com/NDISCOVER/Arima-Font)
 
 ## Links
 
@@ -349,3 +350,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Coldtype](https://github.com/goodhertz/coldtype) - Cross-platform display typography in python.
 - [Font Dimensions](https://fvar.unsoundscapes.com/) - Visualize dimensions of a variable font in the browser. ([Code](https://github.com/w0rm/elm-font-dimensions))
 - [Design With FontForge](http://designwithfontforge.com/en-US/index.html) - Book about how to design new typefaces with FontForge. ([Code](https://github.com/fontforge/designwithfontforge.com))
+- [Best Font for Online Reading: No Single Answer (2022)](https://www.nngroup.com/articles/best-font-for-online-reading/) ([HN](https://news.ycombinator.com/item?id=31156018))

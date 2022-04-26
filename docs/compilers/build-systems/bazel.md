@@ -49,3 +49,4 @@ title: Bazel
 - [Turbo Cache](https://github.com/allada/turbo-cache) - Extremely fast and efficient bazel cache service (CAS) written in rust.
 - [bazel-differ](https://github.com/ewhauser/bazel-differ) - Command line interface for Bazel that helps you do incremental builds across different Git versions.
 - [Starlark Language](https://docs.bazel.build/versions/main/skylark/language.html) - Python-inspired configuration language. Used by Bazel. ([Starlark LSP](https://github.com/tilt-dev/starlark-lsp))
+- [Awesome Bazel](https://github.com/jin/awesome-bazel)

@@ -338,3 +338,4 @@ title: ML Libraries
 - [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - High-Efficient Development Toolkit for Image Segmentation.
 - [TorchSparse](https://github.com/mit-han-lab/torchsparse) - High-performance neural network library for point cloud processing.
 - [H2O](https://github.com/h2oai/h2o-3) - In-memory platform for distributed, scalable machine learning.
+- [Ranger](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer) - Synergistic optimizer using RAdam (Rectified Adam), Gradient Centralization and LookAhead in one code base.

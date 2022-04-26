@@ -340,3 +340,8 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [static-nix](https://github.com/jbedo/static-nix) - Statically linked version of Nix with some patches intended to ease the installation and usage of Nix on typical HPC clusters.
 - [Nix Camp](https://nix.camp/) - 2 week long Nix event. ([Twitter](https://twitter.com/nix_camp))
 - [Feedback loop](https://github.com/NorfairKing/feedback) - General purpose tool to set up good feedback loops and share them with your team.
+- [make-wrapper](https://github.com/polygon/make-wrapper) - makeWrapper and wrapProgram freed from Nix build system.
+- [Semantic linter for Nix using tree-sitter](https://github.com/siraben/nix-lint)
+- [Nix flakes, and how to convert to them](https://garnix.io/blog/converting-to-flakes)
+- [Toros](https://github.com/kamadorueda/toros) - Implementation of Nix in Rust.
+- [nix-shell, but make it lovely (2022)](https://t-ravis.com/post/nix/nix-make/)

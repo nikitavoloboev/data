@@ -38,3 +38,4 @@ Amsterdam is my favorite city I've lived in thus far. I also love how every city
 - [Why The Netherlands Is Insanely Well Designed (2022)](https://www.youtube.com/watch?v=lP-G-inkkDg)
 - [Good sources for in-depth reporting in NL (2022)](https://www.reddit.com/r/Netherlands/comments/u2jf5r/what_is_a_good_source_for_indepth_reporting_in_nl/)
 - [Crypto tax in NL (2022)](https://www.reddit.com/r/Netherlands/comments/u5k8b8/crypto_taxes_decoded/)
+- [Impact of 30% tax ruling in NL going away (2022)](https://twitter.com/GergelyOrosz/status/1518582378230427648)

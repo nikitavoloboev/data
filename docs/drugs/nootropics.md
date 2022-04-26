@@ -6,7 +6,7 @@ title: Nootropics
 
 Sleep, exercise & and proper nutrition are the most important things you can do for ultimate mental performance combined with focused mindfulness.
 
-There are also few nootropics you can take to in some way boost your mental ability and focus.
+There are also [few nootropics you can take to in some way boost your mental ability and focus](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/).
 
 ## Interesting
 
@@ -28,3 +28,4 @@ There are also few nootropics you can take to in some way boost your mental abil
 - [How to increase dopamine receptors (2021)](https://www.reddit.com/r/Nootropics/comments/o5iibc/how_to_increase_dopamine_receptors/)
 - [Limitless like pill (2021)](https://www.reddit.com/r/researchchemicals/comments/q5fe9l/if_you_were_to_submit_your_combination_of_drugs/)
 - [Drugs that can safely boost serotonin and(or) dopamine (2021)](https://www.reddit.com/r/researchchemicals/comments/qknegv/are_there_any_research_chems_or_drugs_in_general/)
+- [What is the most interesting nootropic or most mind blowing one (2022)](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/)

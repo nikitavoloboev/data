@@ -95,3 +95,4 @@
 - [Implementing a safe garbage collector in Rust (2022)](https://coredumped.dev/2022/04/11/implementing-a-safe-garbage-collector-in-rust/) ([Reddit](https://www.reddit.com/r/rust/comments/u21w97/implementing_a_safe_garbage_collector_in_rust/))
 - [GC workbench](https://github.com/wingo/gcbench) - Workspace for experimenting with garbage collectors.
 - [Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)](https://atp.fm/205-chris-lattner-interview-transcript#gc) ([HN](https://news.ycombinator.com/item?id=31139610))
+- [Low-Latency, High-Throughput Garbage Collection (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)

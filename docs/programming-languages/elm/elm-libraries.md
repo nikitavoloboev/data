@@ -35,3 +35,4 @@
 - [esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - esbuild plugin for building elm projects.
 - [elm-verify-examples](https://github.com/stoeffel/elm-verify-examples) - Verify examples in your docs.
 - [elm-json](https://github.com/zwilias/elm-json) - Install, upgrade and uninstall Elm dependencies.
+- [ElmBook](https://github.com/dtwrks/elm-book) - Rich documentation builder for Elm applications and packages. Inspired by Storybook and HexDocs.

@@ -147,3 +147,6 @@
 - [kittyR](https://github.com/IndrajeetPatil/kittyR) - Kitty pictures and meows from R console.
 - [pointblank](https://github.com/rich-iannone/pointblank) - Data quality assessment and metadata reporting for data frames and database tables.
 - [r3dmol](https://github.com/swsoyee/r3dmol) - R package for visualizing molecular data in 3D.
+- [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
+- [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
+- [Efficient R programming (2021)](https://csgillespie.github.io/efficientR/) ([Code](https://github.com/csgillespie/efficientR))

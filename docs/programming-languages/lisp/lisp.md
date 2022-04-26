@@ -188,3 +188,4 @@
 - [Bio](https://github.com/cryptocode/bio) - Lisp dialect written in Zig.
 - [Hedgehog](https://github.com/sbp/hedgehog) - Concise implementation of a lisp-like language for low-end and embedded devices.
 - [Lisp Variations](https://github.com/namin/lisp-variations) - Variations on lisp, exploring reflection.
+- [l2l](https://github.com/meric/l2l) - Language that is a superset of Lisp and Lua.

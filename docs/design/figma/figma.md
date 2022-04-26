@@ -87,3 +87,5 @@ title: Figma
 - [24 Best Figma UI Kits and Design Systems (2022)](https://www.untitledui.com/blog/figma-ui-kits)
 - [Prototyping Tips & Hacks – Figma](https://www.figma.com/community/file/1093462921212055775)
 - [Animating mesh gradients in Figma](https://twitter.com/zander_supafast/status/1516000032591425538)
+- [Designing 3D lines in Figma](https://twitter.com/zander_supafast/status/1518538432901001216)
+- [Nice Figma guides](https://twitter.com/disco_lu/status/1518527499667451906)

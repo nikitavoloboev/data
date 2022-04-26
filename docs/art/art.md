@@ -516,3 +516,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [UbuWeb](https://www.ubu.com/) - Library consisting of hundreds of thousands of freely downloadable avant-garde artifacts.
 - [Japanese Screens in Miniature (1960)](https://blogs.library.duke.edu/preservation/2022/04/13/miniature-screens/)
 - [Playgrounds](https://weareplaygrounds.nl/)
+- [Multimodal Art](https://multimodal.art/)

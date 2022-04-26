@@ -146,3 +146,4 @@ title: Erlang
 - [erlperf](https://github.com/max-au/erlperf) - Collection of tools useful for Erlang profiling, tracing, memory analysis and more. Scalability and performance inspection.
 - [spg](https://github.com/max-au/spg) - Scalable Process Groups.
 - [argparse](https://github.com/max-au/argparse) - Command line parser for Erlang.
+- [spell1](https://github.com/rvirding/spell1) - LL(1) parser generator for Erlang and LFE.

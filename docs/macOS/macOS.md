@@ -256,3 +256,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [apple-tools](https://github.com/meme/apple-tools) - Collection of tools for working with Apple software/hardware.
 - [sudo-touchid](https://github.com/artginzburg/sudo-touchid) - Native and reliable TouchID support for sudo.
 - [SendKeys](https://github.com/socsieng/sendkeys) - macOS command line application used to automate the keystrokes and mouse events.
+- [How macOS manages M1 CPU cores (2022)](https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/) ([HN](https://news.ycombinator.com/item?id=31151393))

@@ -164,3 +164,4 @@
 - [Squirrel Datasets Core](https://github.com/merantix-momentum/squirrel-datasets-core)
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) - Dataset of 2D imagery, 3D point cloud data, and 3D vehicle bounding box labels all generated using the Grand Theft Auto 5 game engine.
 - [Relative Human (RH)](https://github.com/Arthur151/Relative_Human) - Multi-person in-the-wild RGB images with rich human annotations.
+- [CSV Base](https://csvbase.com/) - Turn CSV files into read+write APIs. ([Code](https://github.com/calpaterson/csvbase))

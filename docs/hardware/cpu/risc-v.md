@@ -47,7 +47,7 @@ title: RISC-V
 - [RIOS Lab](https://rioslab.org/) - Developing open source IP and software that helps make the RISC-V ecosystem world-class.
 - [RISC-V: What’s Missing and Who’s Competing (2020)](https://semiengineering.com/risc-v-whats-missing-and-whos-competing/) ([HN](https://news.ycombinator.com/item?id=24602264))
 - [Bluespec](https://bluespec.com/) - Open Source RISC-V Cores and Tools.
-- [Bluespec Compiler](https://github.com/B-Lang-org/bsc) - Compiler, simulator, and tools for the Bluespec Hardware Description Language.
+- [Bluespec Compiler](https://github.com/B-Lang-org/bsc) - Compiler, simulator, and tools for the Bluespec Hardware Description Language. ([Contributed libraries and utilities](https://github.com/B-Lang-org/bsc-contrib))
 - [DANA](https://github.com/bu-icsg/dana) - Chisel3 implementation of a fully connected neural network accelerator, DANA, supporting inference or learning.
 - [Writing a RISC-V Emulator from Scratch in 10 Steps](https://github.com/d0iasm/book.rvemu)
 - [Modernising RISC OS in 2020: is there hope for the ancient ARM OS? (2020)](https://liam-on-linux.livejournal.com/73983.html) ([Lobsters](https://lobste.rs/s/wh5bzl/modernising_risc_os_2020_is_there_hope_for))

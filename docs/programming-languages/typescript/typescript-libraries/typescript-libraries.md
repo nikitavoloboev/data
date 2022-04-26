@@ -25,6 +25,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [gokv](https://github.com/esm-dev/gokv) - Global Key-Value store for serverless at edge that is built on top of Cloudflare edge network. Druable, low-latency, and easy to use.
 - [postgres-schema-ts](https://github.com/nettofarah/postgres-schema-ts) - Convert Postgres schemas into TypeScript interfaces.
 - [lru-ttl-cache](https://github.com/rafikalid/lru-ttl-cache) - Super fast Optimized in memory LRU and TTL cache. Can store permanent entries too.
+- [cachu](https://github.com/azurydev/cachu) - Simple, Minimalistic KV Cache.
 
 ## Web
 
@@ -480,6 +481,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript-JSON](https://github.com/samchon/typescript-json) - 2x faster JSON stringify function with only one line.
 - [Delta](https://github.com/quilljs/delta) - Simple, yet expressive format that can be used to describe contents and changes.
 - [Result](https://github.com/badrap/result) - TypeScript result type taking cues from Rust's Result and Haskell's Either types.
+- [OpenRPC Client JS](https://github.com/open-rpc/client-js) - Browser-compatible JSON-RPC client with multiple transports.
+- [LZ-UTF8](https://github.com/rotemdan/lzutf8.js) - High-performance JavaScript string compression library.
 
 ## Links
 

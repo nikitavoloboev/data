@@ -40,3 +40,4 @@
 - [USDZ App](https://usdz.app/) - Web app to turn photos into 3D AR models. ([HN](https://news.ycombinator.com/item?id=29764785))
 - [A-Frame component using 3D-Tiles](https://github.com/nytimes/aframe-loader-3dtiles-component)
 - [Compass Mode. Hold the phone up for AR, down for compass](https://twitter.com/AndrewHartAR/status/1499061786565386243)
+- [Portal-ble: make augmented reality apps that are hands-on interactive](https://portalble.cs.brown.edu/)

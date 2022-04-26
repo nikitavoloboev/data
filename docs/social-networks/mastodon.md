@@ -32,3 +32,4 @@ title: Mastodon
 - [Mastodon 3.5 (2022)](https://blog.joinmastodon.org/2022/03/mastodon-3.5/) ([HN](https://news.ycombinator.com/item?id=30862612))
 - [Mastodon Glitch Edition](https://glitch-soc.github.io/docs/) - Friendly fork of the open-source social media software Mastodon. ([Code](https://github.com/glitch-soc/mastodon))
 - [Tooty](https://github.com/cblgh/tooty) - Custom mastodon client, intend solely for posting.
+- [Kat's Mastodon Quickstart for Twitter Users](https://dev.to/zkat/kat-s-mastodon-quickstart-for-twitter-users-39db)

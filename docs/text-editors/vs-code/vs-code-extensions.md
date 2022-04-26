@@ -103,6 +103,7 @@ Below is a list of extensions I use.
 - [Tidier](https://github.com/mausworks/tidier) - Tools for keeping your projects tidier.
 - [Terminal Command Keys](https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys) - Assign a terminal command to a keybinding. ([Code](https://github.com/petekinnecom/terminal-command-keys))
 - [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/microsoft/codetour))
+- [Data Preview](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-preview) - Extension for importing, viewing, slicing, dicing, charting & exporting large JSON array/config, YAML, Apache Arrow, Avro, Parquet & Excel data files. ([Code](https://github.com/RandomFractals/vscode-data-preview))
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) ([Code](https://github.com/hediet/vscode-drawio)) ([HN](https://news.ycombinator.com/item?id=24686707))
 - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools) - Extended CMake support. ([Code](https://github.com/microsoft/vscode-cmake-tools))
 - [VSCode Essentials](https://marketplace.visualstudio.com/items?itemName=jabacchetta.vscode-essentials) - Turn VSCode into a supercharged IDE. ([Code](https://github.com/jabacchetta/vscode-essentials))

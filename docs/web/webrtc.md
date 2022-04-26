@@ -101,3 +101,5 @@ title: WebRTC
 - [Daily.co](https://www.daily.co/) - WebRTC video and audio APIs for every developer.
 - [WebRTC Remote Control](https://github.com/topheman/webrtc-remote-control) - Abstraction layer above peerjs that will let you be more productive at making WebRTC data channels based apps.
 - [Stunner](https://github.com/firefart/stunner) - Tool to test and exploit STUN, TURN and TURN over TCP servers.
+- [DetectRTC](https://github.com/muaz-khan/DetectRTC) - Is WebRTC Supported In Your Browser?
+- [Offline Browser Sync](https://github.com/pion/offline-browser-communication) - Demonstration of a browser connecting to Pion WebRTC without a signaling server.

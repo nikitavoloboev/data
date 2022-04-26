@@ -183,3 +183,5 @@ title: Twitter
 - [Twitter API v2 Plugin Token Refresher](https://github.com/alkihis/twitter-api-v2-plugin-token-refresher)
 - [Real-time twitter graph of your friends](https://github.com/Nican/Furland)
 - [How Twitter's Algorithmic Feed Works (2022)](https://transitivebullsh.it/oss-twitter-algorithm-part-1) ([HN](https://news.ycombinator.com/item?id=31115755))
+- [HN: Twitter accepts Musk's $43B offer (2022)](https://news.ycombinator.com/item?id=31153277)
+- [Twitter The Algorithm](https://github.com/twitter/the-algorithm) ([HN](https://news.ycombinator.com/item?id=31160546))

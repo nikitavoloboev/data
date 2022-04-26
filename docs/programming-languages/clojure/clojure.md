@@ -170,7 +170,7 @@ title: Clojure
 - [Fast and Elegant Clojure (2021)](https://bsless.github.io/fast-and-elegant-clojure/) ([HN](https://news.ycombinator.com/item?id=28956316))
 - [formatting-stack](https://github.com/nedap/formatting-stack) - Efficient, smart, graceful composition of Clojure formatters, linters.
 - [Clojure - Differences with other Lisps](https://clojure.org/reference/lisps) ([HN](https://news.ycombinator.com/item?id=29064942))
-- [Clerk](https://github.com/nextjournal/clerk) - Local-First Notebooks for Clojure. ([HN](https://news.ycombinator.com/item?id=29107392))
+- [Clerk](https://github.com/nextjournal/clerk) - Local-First Notebooks for Clojure. ([HN](https://news.ycombinator.com/item?id=29107392)) ([Examples and Demos](https://github.com/nextjournal/clerk-demo))
 - [Functional Composition - Chris Ford (2013)](https://www.youtube.com/watch?v=Mfsnlbd-4xQ)
 - [Efficient Recursive Levenshtein (Edit) Distance Algorithm](https://www.occasionalenthusiast.com/efficient-recursive-levenshtein-edit-distance-algorithm/) ([Lobsters](https://lobste.rs/s/ubi3eh/efficient_recursive_levenshtein_edit))
 - [Moldable Emacs: a Clojure Playground with Babashka (2021)](https://ag91.github.io/blog/2021/11/05/moldable-emacs-a-clojure-playground-with-babashka/)

@@ -97,3 +97,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Best movie to watch when you’re feeling down? (2022)](https://www.reddit.com/r/AskWomen/comments/rv8l56/whats_the_best_movie_to_watch_when_youre_feeling/)
 - [Ask HN: How to continue to be gracious about the good fortune of rich friends? (2022)](https://news.ycombinator.com/item?id=29800730)
 - [Happiness and the Art of Being](https://www.happinessofbeing.com/happiness_art_being) ([HN](https://news.ycombinator.com/item?id=30775844))
+- [Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/) ([HN](https://news.ycombinator.com/item?id=31141836))

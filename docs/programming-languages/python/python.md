@@ -475,3 +475,5 @@ for i, _ in enumerate(nums):
 - [Memray](https://github.com/bloomberg/memray) - Memory profiler for Python. ([Tweet](https://twitter.com/1st1/status/1516859294896906241)) ([HN](https://news.ycombinator.com/item?id=31102089))
 - [Modeling and Simulation in Python (2022)](https://nostarch.com/modeling-and-simulation-python)
 - [MicroPython in Docker Containers (2022)](https://bhave.sh/micropython-docker/)
+- [High Performance Python Princeton mini-course](https://github.com/henryiii/python-performance-minicourse)
+- [hickory](https://github.com/maxhumber/hickory) - Command line tool for scheduling Python scripts.

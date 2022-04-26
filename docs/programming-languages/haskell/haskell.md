@@ -410,3 +410,4 @@ title: Haskell
 - [Applied Haskell Syllabus](https://www.fpcomplete.com/haskell/syllabus/)
 - [stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier.
 - [Generalizing Folds in Haskell (2022)](https://danilafe.com/blog/haskell_catamorphisms/)
+- [When Type Annotations Are Code Too (2022)](https://blog.polybdenum.com/2022/04/25/when-type-annotations-are-code-too.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/ubd90i/when_type_annotations_are_code_too/))

@@ -104,3 +104,4 @@ title: Prisma
 - [NextJS Plugin for Prisma](https://github.com/prisma-labs/next-prisma-plugin) - Enables Hot Reloads for the Prisma Client.
 - [Database Schema Examples we strive to support in Prisma](https://github.com/prisma/database-schema-examples)
 - [Prisma + tRPC](https://github.com/SaraVieira/rssx)
+- [refract](https://github.com/cwqt/refract) - TypeScript SDK for Prisma.

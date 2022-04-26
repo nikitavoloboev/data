@@ -2,6 +2,8 @@
 
 [Digital Design and Computer Architecture course](https://safari.ethz.ch/digitaltechnik/spring2021/doku.php?id=start), [From Nand to Tetris](https://github.com/ghaiklor/nand-2-tetris) are great.
 
+[teenage engineering](https://teenage.engineering/) & [Apple](https://www.apple.com/) make gorgeous and functional devices.
+
 ## Notes
 
 - [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
@@ -317,3 +319,5 @@
 - [List of awesome open source hardware tools](https://github.com/aolofsson/awesome-hardware-tools)
 - [Awesome Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware)
 - [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard) ([HN](https://news.ycombinator.com/item?id=31089677))
+- [Ask HN: What's the most stable form of digital storage? (2022)](https://news.ycombinator.com/item?id=31149427)
+- [Awesome Semiconductor Startups](https://github.com/aolofsson/awesome-semiconductor-startups)

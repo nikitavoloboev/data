@@ -205,3 +205,4 @@ title: Generative adversarial networks
 - [Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data (2022)](https://arxiv.org/abs/2204.04950) ([Code](https://github.com/FriedRonaldo/Primitives-PS))
 - [Any-resolution Training for High-resolution Image Synthesis (2022)](https://chail.github.io/anyres-gan/) ([Code](https://github.com/chail/anyres-gan))
 - [Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning (2020)](https://arxiv.org/abs/2004.11660v2) ([Code](https://github.com/microsoft/DiscoFaceGAN))
+- [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation (2022)](https://diff-ae.github.io/) ([Code](https://github.com/phizaz/diffae))

@@ -240,3 +240,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mail-builder](https://github.com/stalwartlabs/mail-builder) - E-mail builder library for Rust.
 - [blastula](https://github.com/rstudio/blastula) - Easily send great-looking HTML email messages from R.
 - [Workflow for dealing with lots of emails](https://twitter.com/alexhillman/status/1518272222707732482)
+- [mjml-react](https://github.com/luma-team/mjml-react) - React component library to generate the HTML emails on the fly.

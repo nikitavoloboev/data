@@ -187,3 +187,5 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Migrating from SQLite to PostgreSQL](https://bytebase.com/blog/database-migration-sqlite-to-postgresql) ([HN](https://news.ycombinator.com/item?id=31038614))
 - [Golang SQLite database/sql (2022)](https://earthly.dev/blog/golang-sqlite/)
 - [SQLite WASM](https://github.com/kbumsik/sqlite-wasm) - Run SQLite on the web, using WebAssembly.
+- [Ask HN: Have you used SQLite as a primary database? (2022)](https://news.ycombinator.com/item?id=31152490)
+- [Port the SQLite parser to Go](https://github.com/kyleconroy/golite)

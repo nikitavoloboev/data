@@ -481,3 +481,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [A Journey to Postgres Productivity with Go (2020)](https://www.youtube.com/watch?v=AgHdVPSty7k) ([Another version](https://www.youtube.com/watch?v=ZRUEJX1fqYc))
 - [pglast](https://github.com/lelit/pglast) - PostgreSQL Languages AST and statements prettifier.
 - [pglogrepl](https://github.com/jackc/pglogrepl) - PostgreSQL logical replication library for Go.
+- [parquet_fdw](https://github.com/adjust/parquet_fdw) - Parquet foreign data wrapper for PostgreSQL.

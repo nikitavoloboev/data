@@ -226,6 +226,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [YDB](https://github.com/ydb-platform/ydb) - Open-source Distributed SQL Database that combines high availability and scalability with strict consistency and ACID transactions. ([Web](https://ydb.tech/)) ([HN](https://news.ycombinator.com/item?id=31081272)) ([Python SDK](https://github.com/ydb-platform/ydb-python-sdk)) ([Go SDK](https://github.com/ydb-platform/ydb-go-sdk))
 - [ForestDB](https://github.com/couchbase/forestdb) - Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie.
 - [Realm](https://realm.io/) - Mobile database: an alternative to SQLite & key-value stores. ([Code](https://github.com/realm/realm-js))
+- [Instant](https://www.instantdb.dev/) - Graph Database on the Client.
+- [Apache CouchDB](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability. ([Web](https://couchdb.apache.org/)) ([Web Code](https://github.com/apache/couchdb-www))
 
 ## Tools
 

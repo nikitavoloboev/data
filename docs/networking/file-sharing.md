@@ -109,3 +109,4 @@
 - [How to build a faster file transfer protocol (2022)](https://www.trytachyon.com/post/how-we-built-a-new-fast-file-transfer-protocol) ([HN](https://news.ycombinator.com/item?id=30813345))
 - [Spin Up Your Own No-Bullshit File Hosting Service (2021)](https://blog.orhun.dev/no-bullshit-file-hosting/)
 - [Imagik](https://github.com/BeryJu/imagik) - Fast and lightweight file server.
+- [Azury](https://azury.dev/) - Share Files the Simple Way. ([GitHub](https://github.com/azurydev))

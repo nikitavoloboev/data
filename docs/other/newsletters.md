@@ -87,3 +87,5 @@
 - [Brail](https://github.com/sinclairnick/brail) - Framework built on NextJS for developing email templates in React, and returning HTML that is compatible with major email clients.
 - [Journal Ghost Theme](https://github.com/TryGhost/Journal) - Newsletter theme for Ghost.
 - [Ask HN: What hyper-focused industry newsletters do you enjoy? (2022)](https://news.ycombinator.com/item?id=30983517)
+- [Nice newsletter services](https://twitter.com/SaraSoueidan/status/1517943394449907712)
+- [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app.

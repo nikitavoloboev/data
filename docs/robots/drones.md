@@ -16,3 +16,4 @@
 - [MAVLink Developer Guide](https://mavlink.io/en/) - Lightweight messaging protocol for communicating with drones (and between onboard drone components).
 - [MAVSDK SDK](https://github.com/mavlink/MAVSDK) - API and library for MAVLink compatible systems written in C++17.
 - [DodgeDrone: Vision-based Agile Drone Flight (ICRA 2022 Competition)](https://github.com/uzh-rpg/agile_flight)
+- [DroneSploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console.

@@ -181,3 +181,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [SimBiber](https://github.com/MLNLP-World/SimBiber) - Tool for simplifying bibtex with official info.
 - [Research Papers right from python](https://github.com/petermr/pygetpapers)
 - [Zotodo](https://github.com/wbthomason/zotodo) - Zotero plugin to make Todoist tasks for papers added to Zotero.
+- [AI Paper Collector](https://github.com/MLNLP-World/AI-Paper-collector) - Fully-automated scripts for collecting AI-related papers.

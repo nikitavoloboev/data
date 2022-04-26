@@ -211,3 +211,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [What's next for AlphaFold and the AI protein-folding revolution (2022)](https://www.nature.com/articles/d41586-022-00997-5)
 - [AlphaFill](https://github.com/PDB-REDO/alphafill) - Algorithm based on sequence and structure similarity that “transplants” missing compounds to the AlphaFold models.
 - [tiwih](https://github.com/brentp/tiwih) - Simple bioinformatics command-line tools I wished I had.
+- [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)

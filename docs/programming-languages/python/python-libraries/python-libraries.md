@@ -1,6 +1,6 @@
 # Python libraries
 
-[atoti Project Template](https://github.com/atoti/project-template) is nice.
+[atoti](https://github.com/atoti/project-template) & [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) templates seem nice.
 
 ## Web
 
@@ -840,6 +840,7 @@
 - [wrapt](https://github.com/GrahamDumpleton/wrapt) - Python module for decorators, wrappers and monkey patching.
 - [FstStr](https://github.com/dmort27/fststr) - Small library providing a string-oriented Python interface to OpenFST.
 - [FElupe](https://github.com/adtzlr/felupe) - Finite Element Analysis.
+- [Point Cloud Utils (pcu)](https://github.com/fwilliams/point-cloud-utils) - Python library for common tasks on 3D point clouds.
 
 ## Notes
 
@@ -971,3 +972,4 @@
 - [Slipcover](https://github.com/plasma-umass/slipcover) - Near Zero-Overhead Python Code Coverage.
 - [Sourcepy](https://github.com/dchevell/sourcepy) - Source python scripts natively inside your shell.
 - [Caching slow functions in Python](https://antonz.org/functools-cache/)
+- [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) - Cookiecutter template for poetry managed python projects.

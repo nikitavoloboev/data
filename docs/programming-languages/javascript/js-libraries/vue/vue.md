@@ -16,6 +16,7 @@ title: Vue.js
 - [Discord Clone](https://github.com/SOKHUONG/discord-clone)
 - [Vue Minesweeper](https://github.com/antfu/vue-minesweeper)
 - [VueTube](https://github.com/Frontesque/VueTube) - Open source YouTube client.
+- [VuePress Home Page](https://github.com/imfing/vuepress-homepage) - Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress.
 
 ## Notes
 
@@ -159,3 +160,4 @@ title: Vue.js
 - [Dashibase](https://github.com/Dashibase/dashibase) - No-code tool to build user dashboards supported by Supabase.
 - [Vue Schema.org for Automated Google Rich Results](https://github.com/harlan-zw/vue-schema-org)
 - [Why Vue doesn’t need time slicing / concurrent mode](https://github.com/vuejs/rfcs/issues/89#issuecomment-546988615) ([Tweet](https://twitter.com/AdamRackis/status/1518278855550713856))
+- [Floating Vue](https://github.com/Akryum/floating-vue) - Easy tooltips, popovers, dropdown, menus... for Vue.

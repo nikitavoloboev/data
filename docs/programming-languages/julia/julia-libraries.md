@@ -574,6 +574,7 @@
 - [Karnak.jl](https://github.com/cormullion/Karnak.jl) - Small extension for the Luxor.jl package to help with constructing graph-style drawings.
 - [Maybe.jl](https://github.com/JuliaPreludes/Maybe.jl) - Optional value handling for Julia.
 - [PythonIO.jl](https://github.com/cjdoris/PythonIO.jl) - Read and write some common Python data formats.
+- [StatProfilerHTML](https://github.com/tkluck/StatProfilerHTML.jl) - Show Julia profiling data in an explorable HTML page.
 
 ## Links
 

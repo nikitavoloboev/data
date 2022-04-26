@@ -492,3 +492,4 @@ all: unset
 - [Loaders | UI Ball](https://uiball.com/loaders/) - Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. ([Code](https://github.com/GriffinJohnston/uiball-loaders))
 - [The Future of CSS: CSS Toggles (2022)](https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/)
 - [Stylify](https://stylify.dev/) - Library that generates utility-first CSS dynamically based on what you write. ([Code](https://github.com/stylify/packages))
+- [CSS GUI](https://github.com/components-ai/css.gui) - Visual development environment for CSS.

@@ -61,6 +61,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 ## Awesome OSS games
 
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games with the Godot-Engine.
+- [Overgrowth](https://github.com/WolfireGames/overgrowth) - Open Source codebase of the game Overgrowth by Wolfire Games.
 - [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020). ([Article](https://www.tomlooman.com/action-roguelike-cpp-ue4/)) ([HN](https://news.ycombinator.com/item?id=25800771))
 - [Citybound](https://github.com/citybound/citybound) - City building game with a focus on realism, collaborative planning and simulation of microscopic details. ([HN](https://news.ycombinator.com/item?id=19583384))
 - [Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)

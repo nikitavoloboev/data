@@ -81,3 +81,4 @@
 - [Rust Kubernetes operator example](https://github.com/Pscheidl/rust-kubernetes-operator-example) - Example of a Kubernetes operator implemented in Rust.
 - [Knative Sample Controller](https://github.com/knative-sandbox/sample-controller) - Template project for writing your own controller using the Knative helper libraries.
 - [Kopf](https://github.com/nolar/kopf) - Python framework to write Kubernetes operators in just a few lines of code.
+- [kube-exec-controller](https://github.com/box/kube-exec-controller) - Admission controller service and kubectl plugin to handle container drift in K8s clusters.

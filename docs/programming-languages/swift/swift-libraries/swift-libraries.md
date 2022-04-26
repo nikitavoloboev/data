@@ -276,6 +276,7 @@
 - [NSToolbar](https://github.com/marioaguzman/toolbar) - Programmatically constructing an NSToolbar (AppKit) for macOS.
 - [AppKitFocusOverlay](https://github.com/dagronf/AppKitFocusOverlay) - Add hotkey(s) to display the key focus path for any window in your AppKit application.
 - [MenuBuilder](https://github.com/j-f1/MenuBuilder) - Swift Function Builder for creating NSMenuItems.
+- [LoginItemKit](https://github.com/chrenn/LoginItemKit) - Add non-sandboxed macOS applications to user login items.
 
 ## Web
 
@@ -1105,6 +1106,8 @@
 - [AnyObservableObject](https://github.com/marty-suzuki/AnyObservableObject)
 - [UpdateAvailableKit](https://github.com/SwapnanilDhol/UpdateAvailableKit) - Easy way to check if the installed app has an update available.
 - [SwiftDSSocket](https://github.com/csujedihy/SwiftDSSocket) - Swift based asynchronous socket framework built atop DispatchSource.
+- [SwiftScripting](https://github.com/tingraldi/SwiftScripting) - Utilities and samples to aid in using Swift with the Scripting Bridge.
+- [Narratore](https://github.com/broomburgo/Narratore) - Swift library that can be used to create and run interactive stories and narrative games.
 
 ## Other (not lib)
 

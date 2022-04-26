@@ -4,7 +4,7 @@ title: AWS Lambda
 
 # [AWS Lambda](https://aws.amazon.com/lambda/)
 
-[Serverless framework](https://www.serverless.com/) seems nice.
+[Serverless framework](https://www.serverless.com/) seems nice. [Netlify Edge Functions seem cheaper/better](https://twitter.com/swyx/status/1516508728274690054).
 
 ## Notes
 

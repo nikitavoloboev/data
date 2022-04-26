@@ -151,3 +151,5 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [GraphQL Yoga for Cloudflare Workers (Wrangler template)](https://github.com/the-guild-org/yoga-cloudflare-workers-template)
 - [Itty Durable](https://github.com/kwhitley/itty-durable) - Cloudflare Durable Objects + Itty Router = shorter code.
 - [Cloudflare Worker Recipes](https://github.com/cloudflare/worker-examples) - Examples of JavaScript you can run on Cloudflare’s worldwide network.
+- [Fastify Edge](https://github.com/galvez/fastify-edge) - Use Fastify Idioms for Writing Cloudflare Workers.
+- [darkflare](https://github.com/azurydev/darkflare) - Highly opinionated TypeScript framework for Cloudflare Workers.

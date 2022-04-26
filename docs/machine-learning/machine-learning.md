@@ -783,3 +783,6 @@
 - [Ultimate Awesome Transformer Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 - [What are Diffusion Models? (2022)](https://www.youtube.com/watch?v=fbLgFrlTnGU)
 - [Apollo: An Adaptive Parameter-wise Diagonal Quasi-Newton Method for Nonconvex Stochastic Optimization (2020)](https://arxiv.org/abs/2009.13586)
+- [Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction)
+- [The Machine Learning Job Market (2022)](https://evjang.com/2022/04/25/rome.html) ([HN](https://news.ycombinator.com/item?id=31155782))
+- [Admin-Torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers.

@@ -4,6 +4,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 
 ## Nice OSS iOS Swift apps
 
+- [BreadBuddy](https://github.com/maxhumber/BreadBuddy) - Open source recipe scheduler for iOS.
 - [News](https://github.com/dkhamsing/news) - iOS news app in the style of Apple News.
 - [The Roundtable](https://github.com/Dimillian/The-Roundtable) - Elden Ring companion iOS application in SwiftUI.
 - [Lil Wallet](https://github.com/jordansinger/lil-wallet)
@@ -116,6 +117,8 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Podcast iOS app](https://github.com/rafaelclaycon/PodcastApp) - Made with Swift and SwiftUI.
 - [DeltaUI](https://github.com/ericlewis/DeltaUI) - SwiftUI + CoreData user interface for DeltaCore & Friends.
 - [Template iOS application using Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
+- [KeePassium Password Manager iOS](https://github.com/keepassium/KeePassium)
+- [WWDC22 Swift Student Challenge Submission](https://github.com/henribredt/Typography-WWDC22)
 
 ## Other
 
@@ -451,3 +454,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [SQLite on iOS: The MVVM Way (2022)](https://mattrighetti.com/2022/03/02/use-sqlite-in-ios.html)
 - [Building an (almost entirely) rust iOS app using uikit-sys (2020)](https://simlay.net/posts/using-uikit-sys/)
 - [acextract](https://github.com/bartoszj/acextract) - Tool to list and extract content from Assets.car files.
+- [App Clip Code Generator macOS App](https://github.com/alfianlosari/AppClipCodeGenerator)

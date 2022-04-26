@@ -344,7 +344,7 @@ title: Kubernetes
 - [sample-apiserver](https://github.com/kubernetes/sample-apiserver) - Demonstration of how to use the k8s.io/apiserver library to build a functional API server.
 - [Kubernetes 101 series retrospective, and a new book (2021)](https://www.jeffgeerling.com/blog/2021/kubernetes-101-series-retrospective-and-new-book)
 - [Kubernetes, Pods, Kubernetes Pod Concepts (2021)](https://releaseapp.io/blog/kubernetes-pods-advanced-concepts-explained)
-- [Helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts.
+- [Helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot.
 - [GetIstio](https://github.com/tetratelabs/getistio) - Integration, and lifecycle management CLI tool that ensures the use of supported and trusted versions of Istio.
 - [Kubernetes Internals](https://github.com/shubheksha/kubernetes-internals) - Collection of resources that discuss the inner workings of Kubernetes.
 - [Serverless Kubernetes (2021)](https://cto.ai/blog/announcing-cto-ai-kubernetes-paas/) ([HN](https://news.ycombinator.com/item?id=26170612))
@@ -714,3 +714,4 @@ title: Kubernetes
 - [The Missing Kubernetes Type System (2022)](https://danielmangum.com/posts/the-missing-kubernetes-type-system/) ([HN](https://news.ycombinator.com/item?id=31062666))
 - [kpt](https://github.com/GoogleContainerTools/kpt) - Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
 - [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - CoreDNS plugin to resolve all types of external Kubernetes resources.
+- [kubectl-explore](https://github.com/keisku/kubectl-explore) - Better kubectl explain with the fuzzy finder.

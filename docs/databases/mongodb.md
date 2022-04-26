@@ -50,3 +50,4 @@ title: MongoDB
 - [MGOB](https://github.com/stefanprodan/mgob) - MongoDB backup automation tool built with Go.
 - [Prometheus MongoDB query exporter](https://github.com/raffis/mongodb-query-exporter)
 - [MongoX](https://github.com/aminalaee/mongox) - Familiar async Python MongoDB ODM.
+- [Qmgo](https://github.com/qiniu/qmgo) - Go driver for MongoDB.

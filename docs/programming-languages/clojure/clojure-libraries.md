@@ -235,3 +235,5 @@
 - [Clojure calling C](https://github.com/saikyun/native-image-clojure-c) - Call C from Clojure using GraalVM -- then compile a binary using native-image.
 - [lein-native-image](https://github.com/taylorwood/lein-native-image) - Leiningen plugin to build GraalVM native images.
 - [Hash Array Mapped Tries in Clojure](https://github.com/frenchy64/optimized-kw-maps)
+- [clay](https://github.com/scicloj/clay) - Tiny Clojure tool for a dynamic workflow with some of the more serious visual tools.
+- [clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects.

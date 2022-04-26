@@ -25,3 +25,5 @@ title: RxJS
 - [RxSandbox](https://github.com/kwonoj/rx-sandbox) - Marble diagram DSL based test suite for RxJS.
 - [Awesome RxJS](https://github.com/ichpuchtli/awesome-rxjs)
 - [React-RxJS](https://github.com/re-rxjs/react-rxjs) - React bindings for RxJS.
+- [system.reactive - What are the Hot and Cold observables?](https://stackoverflow.com/questions/2521277/what-are-the-hot-and-cold-observables)
+- [RX Use](https://github.com/streamich/rx-use) - RxJS DOM sensors.

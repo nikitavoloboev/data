@@ -18,6 +18,7 @@ title: OCaml libraries
 - [Tiny_httpd](https://github.com/c-cube/tiny_httpd) - Minimal HTTP server using good old threads + blocking IO, with small request router.
 - [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) - OCaml library for HTTP clients and servers using Lwt or Async.
 - [Async_http](https://github.com/anuragsoni/async_http) - Simple HTTP server for async applications.
+- [Pollinate](https://github.com/marigold-dev/pollinate) - Platform agnostic OCaml library for P2P communications using UDP and Bin_prot.
 
 ## Test
 
@@ -185,6 +186,7 @@ title: OCaml libraries
 - [shared-block-ring](https://github.com/mirage/shared-block-ring) - Simple on-disk fixed length queue.
 - [ocaml-protoc](https://github.com/mransan/ocaml-protoc) - Protobuf Compiler for OCaml.
 - [Diskuv Box](https://github.com/diskuv/diskuvbox) - Basic, cross-platform set of commands to manipulate and query the file system.
+- [raylib-ocaml](https://github.com/tjammer/raylib-ocaml) - OCaml bindings for raylib, a simple and easy-to-use library to enjoy video games programming.
 
 ## Links
 
@@ -195,3 +197,4 @@ title: OCaml libraries
 - [Sherlocode](https://sherlocode.com/) - Search across 17 million lines of OCaml available on opam using grep. ([Code](https://github.com/art-w/sherlocode))
 - [Camlidl](https://github.com/xavierleroy/camlidl) - Stub code generator for OCaml/C interface.
 - [Reusable Effect-Based Components](https://github.com/RedPRL/algaeff)
+- [opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations.

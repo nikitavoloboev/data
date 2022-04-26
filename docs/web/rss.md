@@ -159,3 +159,4 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [RSS to TG](https://github.com/recoilme/rss2tg) - Monitor RSS list by words list and post new links to telegram.
 - [Inoreader](https://www.inoreader.com/) - Web-based content and RSS feed reader. ([Discord](https://discord.gg/urgt548q9Q)) ([HN](https://news.ycombinator.com/item?id=31142633))
 - [Ask HN: What are you using for a RSS Reader? (2022)](https://news.ycombinator.com/item?id=31141160)
+- [What's your preferred RSS Reader? (2022)](https://twitter.com/simonw/status/1518618079328055296)

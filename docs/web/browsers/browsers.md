@@ -208,3 +208,4 @@
 - [Header generator](https://github.com/apify/header-generator) - NodeJs package for generating browser-like headers.
 - [Priority Hints](https://wicg.github.io/priority-hints/) - Browser API to enable developers signal the priorities of the resources they need to download. ([Code](https://github.com/WICG/priority-hints))
 - [BrowserBench.org](https://browserbench.org/) - Browser Benchmarks.
+- [Project Fugu API showcase (2022)](https://developer.chrome.com/blog/fugu-showcase/) ([List](https://tomayac.github.io/fugu-showcase/data/)) ([Code](https://github.com/tomayac/fugu-showcase))

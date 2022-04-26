@@ -2,6 +2,7 @@
 
 ## Recruitment tests
 
+- [Technical challenge @ MUI for React](https://github.com/mui/react-technical-challenge)
 - [Cloudflare General Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment)
 - [Cloudflare Systems Assignment](https://github.com/cloudflare-hiring/cloudflare-2020-systems-engineering-assignment)
 - [Guardian Coding Exercises](https://github.com/guardian/coding-exercises)

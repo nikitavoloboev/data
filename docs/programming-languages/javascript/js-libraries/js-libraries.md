@@ -913,6 +913,7 @@
 - [tinyqueue](https://github.com/mourner/tinyqueue) - Smallest and simplest binary heap priority queue in JavaScript.
 - [protomux](https://github.com/mafintosh/protomux) - Multiplex multiple message oriented protocols over a stream.
 - [exifr](https://github.com/MikeKovarik/exifr) - Fastest and most versatile JS EXIF reading library.
+- [libhoney](https://github.com/honeycombio/libhoney-js) - Node.js module for sending events to Honeycomb, a service for debugging your software in production.
 
 ## Links
 

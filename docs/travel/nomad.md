@@ -19,3 +19,4 @@
 - [Nomad Capitalist Book](https://nomadcapitalist.com/book/)
 - [Robert Kiyosaki’s Thoughts on Entrepreneurship (2022)](https://www.youtube.com/watch?v=u4UtdCuvCz4)
 - [What do you wish you knew about digital nomads when you started?](https://www.reddit.com/r/digitalnomad/comments/u905el/what_do_you_wish_you_knew_when_you_started/)
+- [Share the biggest problem you face living as a digital nomad (2022)](https://www.reddit.com/r/digitalnomad/comments/uba7pn/share_the_biggest_problem_you_face_living_as_a/)

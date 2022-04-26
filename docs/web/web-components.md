@@ -91,3 +91,4 @@ title: Web Components
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - Custom element that allows you to easily put a Dark Mode toggle or switch on your site.
 - [Shadow](https://github.com/Zaubrik/shadow) - Simple base class for creating fast, lightweight Web Components with htm.
 - [Web Components as Progressive Enhancement (2022)](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)
+- [Atomico](https://github.com/atomicojs/atomico) - Micro-library for creating web components using only functions, hooks and virtual-dom.

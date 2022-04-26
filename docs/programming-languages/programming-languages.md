@@ -355,3 +355,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Prybar](https://github.com/replit/prybar) - Universal interpreter front-end. Same interface, same REPL, different languages.
 - [Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 - [Reple](https://github.com/BenBrock/reple) - "Replay-based" REPLs for compiled languages.
+- [Sphinx](https://github.com/mwerezak/sphinx-lang) - Dynamically typed programming language that is inspired by Lua and Python, and implemented entirely in Rust. ([HN](https://news.ycombinator.com/item?id=31149332))

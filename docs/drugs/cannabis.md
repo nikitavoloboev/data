@@ -4,6 +4,8 @@ title: Cannabis
 
 # [Cannabis](https://psychonautwiki.org/wiki/Cannabis)
 
+Use [Mighty+](https://www.storz-bickel.com/en-us/mighty-plus) when I occasionally use weed, goes especially well with [psychedelics](psychedelics/psychedelics.md). I start vape at 185-190C and end sessions at 210-220C.
+
 ## Notes
 
 - [The things you are doing aren’t because of cannabis. I can do those things sober. It’s the surrendering that’s doing it. It’s the being still, silent and surrendering. You are pulling your consciousness away from the world and into your own awareness and body. Cannabis puts the feedback of your consciousness on blast so it’s easier to do, but in no way do you need it. It’s just things are more subtle when you are sober.](https://www.reddit.com/r/Psychonaut/comments/8bdt36/how_to_use_cannabis_as_a_very_potent_psychedelic/)

@@ -29,3 +29,4 @@ title: p5.js
 - [p5-notebook](https://github.com/jtpio/p5-notebook) - Minimal Jupyter Notebook UI for p5.js kernels.
 - [p5.capture](https://github.com/tapioca24/p5.capture) - Super easy recording for p5.js animations.
 - [p5.fab](https://github.com/machineagency/p5.fab) - P5.js library for 3D printing.
+- [Port to p5.js of Nature of Code examples](https://github.com/nature-of-code/noc-examples-p5.js)

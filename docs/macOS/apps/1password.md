@@ -42,3 +42,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [1Password Developer Tools](https://1password.com/developers/)
 - [Securely publish npm packages with 1Password](https://twitter.com/erikras/status/1493896963733041153)
 - [1Password Bookmarks](https://github.com/dteare/opbookmarks) - Export 1Password item metadata to support 3rd party app integrations using the 1Password CLI.
+- [1Password Alfred Workflow](https://github.com/alfredapp/1password-workflow) - Search and open your 1Password items.

@@ -604,6 +604,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Benchmarking Go errors](https://github.com/nikolaydubina/go-bench-errors)
 - [go-serum](https://github.com/serum-errors/go-serum) - Implementation of the Serum Errors Specification for use in Go development.
 - [errors](https://github.com/go-faster/errors) - Clear go error wrapping with caller.
+- [failpoint](https://github.com/pingcap/failpoint) - Fail points are used to add code points where errors may be injected in a user controlled fashion.
 
 ## Other
 
@@ -1596,6 +1597,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go ANSI Parser](https://github.com/leaanthony/go-ansi-parser) - Converts strings with ANSI escape codes into a slice of structs that represent styled text.
 - [go-mp4](https://github.com/abema/go-mp4) - Go library for reading and writing MP4.
 - [xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
+- [go-bitfield](https://github.com/ipfs/go-bitfield) - Simple bitfield package that's about 2-3x faster than using big.Ints from the standard library.
+- [semver for Go](https://github.com/blang/semver) - Semantic Versioning (semver) library written in Go.
+- [goprocess](https://github.com/jbenet/goprocess) - Like Context, but with good close semantics.
 
 ## Links
 
@@ -1689,3 +1693,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [GoMajor](https://github.com/icholy/gomajor) - Go tool for major version upgrades.
 - [Go analysis support for CodeQL](https://github.com/github/codeql-go)
 - [Notify](https://github.com/nikoksr/notify) - Dead simple Go library for sending notifications to various messaging services.
+- [Crimes with Go Generics (2022)](https://christine.website/blog/gonads-2022-04-24) ([HN](https://news.ycombinator.com/item?id=31149801))
+- [Nice overview of go web frameworks / resources](https://www.reddit.com/r/golang/comments/ub742v/golang_future_web_frameworks/i63x1lq/?utm_source=reddit&utm_medium=web2x&context=3)

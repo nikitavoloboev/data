@@ -248,3 +248,5 @@ title: React Native
 - [Multiple entry points for React Native Storybook (2022)](https://dev.to/dannyhw/multiple-entry-points-for-react-native-storybook-4dkp)
 - [React Native Turbo Secure Storage](https://github.com/ospfranco/turbo-secure-storage) - Turbo-module to securely store data, uses Keychain on iOS and KeyStore on Android.
 - [React Native Media Query](https://github.com/kasinskas/react-native-media-query) - Media queries for react-native and react-native-web.
+- [React Native Portal](https://github.com/gorhom/react-native-portal) - Simplified portal implementation for React Native & Web.
+- [React Native Virtualized Grid](https://github.com/heineiuo/react-native-virtualized-grid)

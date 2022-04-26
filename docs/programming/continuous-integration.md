@@ -91,3 +91,4 @@
 - [Spacelift](https://spacelift.io/) - Flexible CI/CD for Infrastructure as Code. ([GitHub](https://github.com/spacelift-io)) ([CLI](https://github.com/spacelift-io/spacectl))
 - [Creating one CI to rule them all, with Fedor Korotkov, founder and CTO of Cirrus Labs (2022)](https://about.sourcegraph.com/podcast/fedor-korotkov/)
 - [Polar Signals](https://www.polarsignals.com/) - Continuous profiling project for applications and infrastructure. ([GitHub](https://github.com/polarsignals))
+- [Zadig](https://github.com/koderover/zadig) - Cloud native, distributed, developer-oriented continuous delivery product.

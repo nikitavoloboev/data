@@ -174,6 +174,7 @@
 - [xtask-wasm](https://github.com/rustminded/xtask-wasm) - Customizable subcommands to build your WASM projects using xtask.
 - [wasmy](https://github.com/henrylee2cn/wasmy) - Easily customize my WASM app.
 - [WASM Timer](https://github.com/tomaka/wasm-timer) - Abstraction over std::time::Instant and tokio_timer that works on WASM.
+- [WABT-RS](https://github.com/pepyakin/wabt-rs) - WABT bindings for Rust.
 
 ## GUI
 
@@ -361,6 +362,10 @@
 - [Tetra](https://github.com/17cupsofcoffee/tetra) - Simple 2D game framework written in Rust.
 - [Emergent AI](https://github.com/PsichiX/emergent) - Toolset for producing emergent gameplay for games written in Rust.
 - [Renet](https://github.com/lucaspoffo/renet) - Collection of rust crates to create Server/Client networked games.
+
+## GraphQL
+
+- [Generate Rust code from GraphQL schema](https://github.com/yumemi-inc/codegen-for-async-graphql)
 
 ## Test
 

@@ -111,3 +111,5 @@ title: Apache Kafka
 - [Kafka for Kubernetes](https://github.com/Yolean/kubernetes-kafka) - Kafka cluster as Kubernetes StatefulSet, plain manifests and config.
 - [Greyhound](https://github.com/wix/greyhound) - Rich Kafka client library in Scala.
 - [kaskade](https://github.com/sauljabin/kaskade) - Kafka text user interface in style.
+- [kafkacrypto](https://github.com/tmcqueen-materials/kafkacrypto) - End-to-End Message Layer Encryption for Kafka.
+- [Kafka Docker Playground](https://github.com/vdesabou/kafka-docker-playground) - Fully automated Apache Kafka and Confluent Docker based examples.

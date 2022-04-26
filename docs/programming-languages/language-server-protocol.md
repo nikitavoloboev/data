@@ -26,3 +26,4 @@ title: Language Server Protocol
 - [Boilerplate for a rust language server powered by tower-lsp](https://github.com/IWANABETHATGUY/tower-lsp-boilerplate)
 - [pygls](https://github.com/openlawlibrary/pygls) - Pythonic generic implementation of the Language Server Protocol.
 - [Linol](https://github.com/c-cube/linol) - Wrapper around the OCaml `lsp` library to make it easier to write LSP servers.
+- [Why LSP? (2022)](https://matklad.github.io//2022/04/25/why-lsp.html) ([HN](https://news.ycombinator.com/item?id=31151048))

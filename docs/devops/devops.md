@@ -176,3 +176,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Checkup](https://github.com/checkupjs/checkup) - Gather static analysis insights for your projects.
 - [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Web](https://gatus.io/))
 - [Lightweight Cluster/Cloud VM Job Management](https://github.com/mle-infrastructure/mle-scheduler)
+- [Echoes HQ](https://www.echoeshq.com/) - Developer-friendly activity reports.

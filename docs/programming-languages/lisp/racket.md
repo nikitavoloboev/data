@@ -121,3 +121,4 @@ title: Racket
 - [Racket gains new build system using tiny Scheme implementation Zuo](https://github.com/racket/racket/pull/4179) ([Lobsters](https://lobste.rs/s/ax4iyv/racket_gains_new_build_system_using_tiny))
 - [collections](https://github.com/lexi-lambda/racket-collections) - Generic collections API for Racket.
 - [raco-env-lib](https://github.com/samdphillips/raco-pkg-env) - Virtualenv like tool for Racket.
+- [RacketScript Playground](https://github.com/racketscript/racketscript-playground)

@@ -391,3 +391,4 @@
 - [Request](https://github.com/aiocat/request) - Open-source api development application for minimalists.
 - [Fusebit](https://fusebit.io/) - Build integrations for your app with ease.
 - [OpenAPI Validator](https://github.com/IBM/openapi-validator) - Configurable and extensible validator/linter for OpenAPI documents.
+- [Hyper](https://hyper.io/) - One consistent, frictionless API to manage data, cache, storage, search, and queue services. ([Hyper Remix Stack](https://blog.hyper.io/introducing-the-alternative-stack/)) ([Code](https://github.com/hyper63/hyper))

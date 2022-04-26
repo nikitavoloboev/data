@@ -85,3 +85,4 @@ For programming, [Walrus](https://github.com/Clivern/Walrus) seems nice.
 - [Blobbackup](https://blobbackup.com/) - Private, Secure Computer Backups. ([Code](https://github.com/blobbackup/blobbackup)) ([HN](https://news.ycombinator.com/item?id=30577625))
 - [Backblaze B2 JavaScript Client](https://github.com/benaubin/b2-js)
 - [Blackbox](https://github.com/lemonsaurus/blackbox) - Magically save your database backups and critical logs in your favorite cloud storage provider.
+- [bacup](https://github.com/galeone/bacup) - Easy-to-use backup tool designed for servers - written in Rust.

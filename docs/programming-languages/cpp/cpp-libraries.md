@@ -389,6 +389,7 @@
 - [sse4-strstr](https://github.com/WojciechMula/sse4-strstr) - SIMD-friendly algorithms for substring searching.
 - [Chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations.
 - [xorstr](https://github.com/JustasMasiulis/xorstr) - Heavily vectorized c++17 compile time string encryption.
+- [transwarp](https://github.com/bloomen/transwarp) - Header-only C++ library for task concurrency.
 
 ## Links
 

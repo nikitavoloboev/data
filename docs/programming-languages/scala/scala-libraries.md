@@ -34,6 +34,7 @@
 - [Slick](https://github.com/slick/slick) - Modern database query and access library for Scala. Allows you to work with stored data almost as if you were using Scala collections. ([Web](https://scala-slick.org/))
 - [redis4cats](https://github.com/profunktor/redis4cats) - Redis client built on top of Cats Effect, Fs2 and Lettuce.
 - [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Scala Native wrapper of the SQLite C library.
+- [Scalding](https://github.com/twitter/scalding) - Scala library that makes it easy to specify Hadoop MapReduce jobs.
 
 ## Math
 

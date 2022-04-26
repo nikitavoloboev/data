@@ -82,3 +82,4 @@
 - [r3DPhoto](https://www.r3dphoto.app/) - Turn Photos into 3D Models. ([HN](https://news.ycombinator.com/item?id=30971542))
 - [SolidPython](https://github.com/SolidCode/SolidPython) - Python frontend for solid modelling that compiles to OpenSCAD.
 - [Exponentially Better Rotations (2022)](https://thenumbat.github.io/Exponential-Rotations/)
+- [Thread on the early days of 3D modelling (2022)](https://twitter.com/delaneykingrox/status/1518033756460044288)
