@@ -118,6 +118,7 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Good copywriting: Here's your problem. Here's the benefit of solving it. Here's why what you've tried has failed. And by the way here's a product that will help you solve it.](https://twitter.com/dickiebush/status/1445375496636743682)
 - [Immature poets imitate. Mature poets steal.](https://twitter.com/JamesSACorey/status/1447686904636342272)
 - [Amazon has a philosophy called "Work Backwards." Employees start projects by writing the press release, which clarifies a bunch of product decisions. Writers can work backwards too. Write the tweet people will use to share your article before you write the article itself.](https://twitter.com/david_perell/status/1504468715659677705)
+- [Give up on saying anything new. Most people haven’t read my old stuff. Play the hits. I constantly remind myself that if I think I'm just sharing the same ideas over and over again... it doesn't matter, because no one is paying me enough attention to notice!](https://twitter.com/simonw/status/1518976308432097280)
 
 ## Links
 

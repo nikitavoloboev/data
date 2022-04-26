@@ -10,3 +10,4 @@ title: Ember.js
 - [Embroider](https://github.com/embroider-build/embroider) - Compiling Ember apps into spec-compliant, modern JavaScript.
 - [Awesome Ember.js](https://github.com/ember-community-russia/awesome-ember)
 - [Ember RFCs](https://emberjs.github.io/rfcs/)
+- [Introducing @use (2020)](https://www.pzuraq.com/blog/introducing-use)

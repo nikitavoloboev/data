@@ -23,3 +23,4 @@ title: WebKit
 - [WebKit's proposal for animations (screen updates) with a variable frame rate](https://github.com/WebKit/explainers/tree/main/animation-frame-rate) ([Tweet](https://twitter.com/grorgwork/status/1470776139991982087))
 - [Safari now supports File System Access API with private origin (2022)](https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/) ([HN](https://news.ycombinator.com/item?id=30394737))
 - [Introducing the WebKit FTL JIT (2014)](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
+- [Non-interactive Elements with the inert attribute (2022)](https://webkit.org/blog/12578/non-interactive-elements-with-the-inert-attribute/)

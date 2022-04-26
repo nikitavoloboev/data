@@ -2,7 +2,7 @@
 
 I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like. I also keep a [list of artists & art I liked](../art/art.md).
 
-Here are few more things I liked, design wise.
+Here are few more things I liked, design wise. [Linear is pretty great](https://linear.app/features) (gradient, boxes, layout).
 
 ## Websites
 
@@ -10,6 +10,7 @@ Here are few more things I liked, design wise.
 - [Glass](https://glass.photo/)
 - [Modfy](https://www.modfy.video/)
 - [Instatus](https://instatus.com/)
+- [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370)) ([Features](https://linear.app/features))
 - [Scruples Studio](https://scruples.studio/)
 - [Useful Books](https://www.usefulbooks.com/)
 - [BrandBird Studio](https://www.brandbird.app/)
@@ -38,7 +39,6 @@ Here are few more things I liked, design wise.
 - [Arrival](https://arrival.com/)
 - [Framer](https://www.framer.com/)
 - [Fast](https://www.fast.co/)
-- [Linear](https://linear.app/) ([Tweet](https://twitter.com/Stammy/status/1333466442235322370))
 - [Apple](https://www.apple.com/)
 - [Primer](https://www.withprimer.com/)
 - [Dune Analytics](https://dune.xyz/home)

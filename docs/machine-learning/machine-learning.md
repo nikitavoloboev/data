@@ -786,3 +786,4 @@
 - [Awesome Conformal Prediction](https://github.com/valeman/awesome-conformal-prediction)
 - [The Machine Learning Job Market (2022)](https://evjang.com/2022/04/25/rome.html) ([HN](https://news.ycombinator.com/item?id=31155782))
 - [Admin-Torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers.
+- [Sampling with Mirrored Stein Operators (2022)](https://arxiv.org/abs/2106.12506) ([Code](https://github.com/thjashin/mirror-stein-samplers)) ([Tweet](https://twitter.com/thjashin/status/1518973853678153728))

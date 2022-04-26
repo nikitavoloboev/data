@@ -37,3 +37,4 @@ title: Apollo GraphQL
 - [apollo-upload-client](https://github.com/jaydenseric/apollo-upload-client) - Terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request.
 - [Apollo HTTP Data Source](https://github.com/StarpTech/apollo-datasource-http) - Optimized JSON HTTP Data Source for Apollo Server.
 - [Svelte Apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
+- [The story behind Apollo Kotlin 3 codegen (2022)](https://www.apollographql.com/blog/mobile/kotlin/the-story-behind-apollo-kotlin-3-codegen/)

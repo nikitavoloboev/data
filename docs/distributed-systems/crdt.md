@@ -85,3 +85,4 @@ title: Conflict-free replicated data type
 - [CRDTs](https://github.com/orbitdb/crdts) - Library of Conflict-Free Replicated Data Types for JavaScript.
 - [CRDT Swift](https://github.com/bluk/CRDT) - Convergent and Commutative Replicated Data Types implementation in Swift.
 - [Python CRDT](https://github.com/anshulahuja98/python3-crdt) - Python library for CRDTs (Conflict-free Replicated Data types).
+- [Designing Data Structures for Collaborative Apps (2022)](https://mattweidner.com/2022/02/10/collaborative-data-design.html)

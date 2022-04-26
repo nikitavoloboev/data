@@ -186,3 +186,4 @@ title: Twitter
 - [HN: Twitter accepts Musk's $43B offer (2022)](https://news.ycombinator.com/item?id=31153277)
 - [HN: Twitter The Algorithm](https://news.ycombinator.com/item?id=31160546)
 - [Parse Tweet Archive Python Script](https://github.com/mshea/Parse-Twitter-Archive)
+- [Elon Conquers The Twitterverse (2022)](https://bariweiss.substack.com/p/elon-conquers-the-twitterverse?s=w) ([Tweet](https://twitter.com/micsolana/status/1518980601197608960))

@@ -150,3 +150,4 @@
 - [reprex](https://github.com/tidyverse/reprex) - Render bits of R code for sharing, e.g., on GitHub or StackOverflow.
 - [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
 - [Efficient R programming (2021)](https://csgillespie.github.io/efficientR/) ([Code](https://github.com/csgillespie/efficientR))
+- [Cargo Framework](https://github.com/dbdahl/cargo-framework) - Framework is provided to transparently develop R packages using Rust with minimal overhead, and more wrappers are easily added.

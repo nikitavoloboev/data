@@ -1,5 +1,7 @@
 # Parsing
 
+[Tree-sitter](https://tree-sitter.github.io/tree-sitter/) is neat.
+
 ## Links
 
 - [Crowdsourcing the evolution of text parsing with unified (2018)](https://medium.com/unifiedjs/collectively-evolving-through-crowdsourcing-22c359ea95cc)
@@ -103,3 +105,4 @@
 - [Tour of Parser-Printers: Introduction (2022)](https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction) ([HN](https://news.ycombinator.com/item?id=30990463))
 - [py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library.
 - [Handwritten Parsers & Lexers in Go (2014)](https://blog.gopheracademy.com/advent-2014/parsers-lexers/) ([Lobsters](https://lobste.rs/s/hhhiiz/handwritten_parsers_lexers_go))
+- [Binary build of tree-sitter for apple platforms](https://github.com/krzyzanowskim/tree-sitter-xcframework)

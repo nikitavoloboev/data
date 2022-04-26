@@ -116,3 +116,4 @@ title: Java
 - [Ask HN: What is a modern Java environment? (2022)](https://news.ycombinator.com/item?id=30841581)
 - [JEP 425: Virtual Threads (Preview)](https://openjdk.java.net/jeps/425) ([Lobsters](https://lobste.rs/s/5nukey/jep_425_virtual_threads_preview))
 - [rules_graal](https://github.com/andyscott/rules_graal) - Turn a JVM binary into a native binary.
+- [GraalVM 22.1: Developer experience improvements, Apple Silicon builds, and more (2022)](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066) ([HN](https://news.ycombinator.com/item?id=31168001))

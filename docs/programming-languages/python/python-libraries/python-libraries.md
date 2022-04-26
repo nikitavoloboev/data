@@ -843,6 +843,7 @@
 - [FElupe](https://github.com/adtzlr/felupe) - Finite Element Analysis.
 - [Point Cloud Utils (pcu)](https://github.com/fwilliams/point-cloud-utils) - Python library for common tasks on 3D point clouds.
 - [pynput](https://github.com/moses-palmer/pynput) - Allows you to control and monitor input devices.
+- [Reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python. ([Web](https://reloadium.io/))
 
 ## Notes
 

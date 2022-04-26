@@ -11,6 +11,7 @@ title: Python
 - [Global interpreter lock (or GIL) is a mutex that protects access to Python objects, preventing multiple threads from executing Python bytecodes at once.](https://wiki.python.org/moin/GlobalInterpreterLock)
 - [Create separate enviornments in Conda for each program to avoid dependency issues.](https://www.reddit.com/r/bioinformatics/comments/n2fwz4/what_is_something_that_you_realized_that_entirely/)
 - [Tricks to speed up python: 1. asyncio.gather argument ordering by IO wait time (no C). 2. Shared filters in SQLAlchemy Core (no C). 3. Custom construction of Pandas DataFrame from asyncpg.Record-s (with C). 4. Iterating lists without GIL in Cython (with C). 5. Zero-copy (de)serialization data structure (no C). 6. Replacing pandas groupby with pure numpy (no C).](https://www.reddit.com/r/programming/comments/so9luw/how_we_optimized_python_api_server_code_100x/)
+- ["gradual typing" is often difficult to implement in established Python packages. The issue is that it runs entirely counter to the "Easier to Ask for Forgiveness than Permission" (EAFP) coding style long advocated in the Python language.](https://twitter.com/jakevdp/status/1518659999844630528)
 
 ## Code
 

@@ -1058,6 +1058,7 @@
 - [bumpalo](https://github.com/fitzgen/bumpalo) - Fast bump allocation arena for Rust.
 - [r0](https://github.com/rust-embedded/r0) - Memory initialization code written in Rust.
 - [Lunatic](https://github.com/lunatic-solutions/lunatic) - Erlang inspired runtime for WebAssembly. ([Web](https://lunatic.solutions/)) ([HN](https://news.ycombinator.com/item?id=26367029)) ([Lobsters](https://lobste.rs/s/2m7hak/lunatic_erlang_inspired_runtime_for_all)) ([HN](https://news.ycombinator.com/item?id=28008737))
+- [Lunatic Rust Lib](https://github.com/lunatic-solutions/rust-lib) - Higher level Rust wrappers for low level Lunatic syscalls.
 - [Kira](https://github.com/tesselode/kira) - Library for expressive game audio.
 - [rust-brotli](https://github.com/dropbox/rust-brotli) - Brotli compressor and decompressor written in rust that optionally avoids the stdlib.
 - [infer](https://github.com/bojand/infer) - Small crate to infer file and MIME type by checking the magic number signature.

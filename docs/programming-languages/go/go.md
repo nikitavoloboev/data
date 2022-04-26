@@ -64,7 +64,7 @@ if err != nil {
 ## Links
 
 - [Tour of Go](https://tour.golang.org) ([Solutions](https://github.com/golang/tour/tree/master/solutions))
-- [Effective Go](https://golang.org/doc/effective_go) ([HN](https://news.ycombinator.com/item?id=28735620))
+- [Effective Go](https://go.dev/doc/effective_go) ([HN](https://news.ycombinator.com/item?id=28735620)) ([HN](https://news.ycombinator.com/item?id=31167935))
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Go proverbs](https://go-proverbs.github.io/)
 - [Go internals](https://github.com/teh-cmc/go-internals)
