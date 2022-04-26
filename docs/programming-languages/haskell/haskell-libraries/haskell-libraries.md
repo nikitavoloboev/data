@@ -346,3 +346,5 @@
 - [Foliage](https://github.com/andreabedini/foliage) - Tool to create custom Haskell package repositories, in a fully reproducible way.
 - [hackage-db](https://github.com/NixOS/hackage-db) - Provide access to the Hackage database via Data.Map.
 - [Introduction to Doctests in Haskell (2022)](https://serokell.io/blog/doctests-in-haskell)
+- [calligraphy](https://github.com/jonascarpay/calligraphy) - Haskell call graph/source code visualizer.
+- [Pier](https://github.com/judah/pier) - Command-line tool for building Haskell projects.

@@ -575,6 +575,7 @@
 - [Maybe.jl](https://github.com/JuliaPreludes/Maybe.jl) - Optional value handling for Julia.
 - [PythonIO.jl](https://github.com/cjdoris/PythonIO.jl) - Read and write some common Python data formats.
 - [StatProfilerHTML](https://github.com/tkluck/StatProfilerHTML.jl) - Show Julia profiling data in an explorable HTML page.
+- [ProximalAlgorithms.jl](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl) - Proximal algorithms for non-smooth optimization in Julia.
 
 ## Links
 

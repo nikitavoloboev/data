@@ -404,3 +404,4 @@ Awesome List
 - [gh-grep](https://github.com/k1LoW/gh-grep) - Print lines matching a pattern in repositories using GitHub API.
 - [Extract Changelog Release](https://github.com/nonara/extract-changelog-release) - Extract release notes from latest entry in standard-version changelog.
 - [GitHub to SQLite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database.
+- [Starred](https://github.com/juev/starred) - Creating your own Awesome List by GitHub stars.

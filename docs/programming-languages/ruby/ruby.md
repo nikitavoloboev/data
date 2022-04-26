@@ -125,3 +125,4 @@
 - [Ruby 3.2 preview 1 with support for WASM compilation (2022)](https://www.ruby-lang.org/en/news/2022/04/03/ruby-3-2-0-preview1-released/) ([HN](https://news.ycombinator.com/item?id=30947793))
 - [Why Ruby Has Symbols (2022)](https://dmitrytsepelev.dev/why-has-ruby-symbols) ([HN](https://news.ycombinator.com/item?id=31024363))
 - [Opal](https://github.com/opal/opal) - Ruby to JavaScript source-to-source compiler.
+- [Ruby grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-ruby)

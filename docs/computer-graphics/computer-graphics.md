@@ -28,7 +28,7 @@
 - [Cellular Forms](https://github.com/fogleman/CellularForms) - Implementation of Andy Lomas' Cellular Forms.
 - [Physically Based Rendering](https://github.com/Nadrin/PBR) - Implementation of physically based shading model & image based lighting in various graphics APIs. ([Web](http://www.pbr-book.org/))
 - [graphics-resources](https://github.com/mattdesl/graphics-resources) - Few of my bookmarks related to game development and realtime graphics programming.
-- [Magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization.
+- [Magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. ([HN](https://news.ycombinator.com/item?id=31141320))
 - [Pathfinder](https://github.com/servo/pathfinder) - Fast, practical, GPU-based rasterizer for fonts and vector graphics using OpenGL 3.0+, OpenGL ES 3.0+, or Metal.
 - [Braid](https://capra.cs.cornell.edu/braid/) - Experimental heterogeneous programming language with an application to real-time graphics. ([Code](https://github.com/cucapra/braid))
 - [SwiftShader](https://github.com/google/swiftshader) - High-performance CPU-based implementation of the Vulkan, OpenGL ES, and Direct3D 9 graphics APIs.

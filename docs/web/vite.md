@@ -60,3 +60,4 @@ title: Vite
 - [Vite SSG Sitemap](https://github.com/jbaubree/vite-ssg-sitemap) - Sitemap generator working with vite-ssg.
 - [Micro Vite](https://github.com/sapphi-red/micro-vite) - Create a minimal Vite like tool in 350 lines.
 - [Vite-React Devtools Extension](https://github.com/jacksteamdev/crx-react-devtools)
+- [Vite Plugin Turbosnap](https://github.com/IanVS/vite-plugin-turbosnap) - Enables the use of Chromatic Turbosnap in vite storybook projects.

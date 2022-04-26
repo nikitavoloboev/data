@@ -184,4 +184,5 @@ title: Twitter
 - [Real-time twitter graph of your friends](https://github.com/Nican/Furland)
 - [How Twitter's Algorithmic Feed Works (2022)](https://transitivebullsh.it/oss-twitter-algorithm-part-1) ([HN](https://news.ycombinator.com/item?id=31115755))
 - [HN: Twitter accepts Musk's $43B offer (2022)](https://news.ycombinator.com/item?id=31153277)
-- [Twitter The Algorithm](https://github.com/twitter/the-algorithm) ([HN](https://news.ycombinator.com/item?id=31160546))
+- [HN: Twitter The Algorithm](https://news.ycombinator.com/item?id=31160546)
+- [Parse Tweet Archive Python Script](https://github.com/mshea/Parse-Twitter-Archive)

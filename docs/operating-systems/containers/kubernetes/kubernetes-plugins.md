@@ -51,6 +51,8 @@
 - [krelay](https://github.com/knight42/krelay) - Better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
 - [kubectl-whoami](https://github.com/rajatjindal/kubectl-whoami) - kubectl plugin that show the subject that's currently authenticated as.
 - [kubectl-pod-inspect](https://github.com/jpriebe/kubectl-pod-inspect) - Kubectl plugin to list pod containers' status.
+- [kubectl-decoder](https://github.com/flavio/kubectl-decoder) - Kubectl pluging that decodes Kubernetes Secrets - done with WebAssembly and WASI.
+- [kubectl-kubewarden](https://github.com/flavio/kubectl-kubewarden) - Experimental kubectl plugin that interacts with a Kubewarden instance deployed on top of a Kubernetes cluster.
 
 ## Operators
 
@@ -82,3 +84,5 @@
 - [Knative Sample Controller](https://github.com/knative-sandbox/sample-controller) - Template project for writing your own controller using the Knative helper libraries.
 - [Kopf](https://github.com/nolar/kopf) - Python framework to write Kubernetes operators in just a few lines of code.
 - [kube-exec-controller](https://github.com/box/kube-exec-controller) - Admission controller service and kubectl plugin to handle container drift in K8s clusters.
+- [Helm Diff Plugin](https://github.com/databus23/helm-diff) - Helm plugin that shows a diff explaining what a helm upgrade would change.
+- [krew-wasm](https://github.com/flavio/krew-wasm) - Offers a way to write and distribute kubectl plugins based on WebAssembly.

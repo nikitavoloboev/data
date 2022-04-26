@@ -227,3 +227,4 @@
 - [Three areas where Google Search lags behind competitors: code, cooking, travel (2022)](https://www.surgehq.ai//blog/google-search-is-falling-behind) ([HN](https://news.ycombinator.com/item?id=31020229))
 - [Giggle](https://github.com/dan-lovelace/giggle) - Self-hosted, customizable and ad-free Google Search experience. ([HN](https://news.ycombinator.com/item?id=31067354))
 - [Fast Autocomplete Search for Your Website](https://simonwillison.net/2018/Dec/19/fast-autocomplete-search/)
+- [Spyglass](https://github.com/a5huynh/spyglass) - Personal, self-hosted search engine.

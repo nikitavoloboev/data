@@ -36,3 +36,4 @@ title: Automatic differentiation
 - [Automatic Differentiation Handbook](https://github.com/bob-carpenter/ad-handbook)
 - [Differentiable Programming – A Simple Introduction](https://www.assemblyai.com/blog/differentiable-programming-a-simple-introduction/) ([HN](https://news.ycombinator.com/item?id=31000709))
 - [Aude](https://github.com/advancedresearch/aude) - Automated differentiation solver with a Lisp-like functional programming language.
+- [PyNeuraLogic](https://github.com/LukasZahradnik/PyNeuraLogic) - Lets you use Python to write Differentiable Logic Programs.

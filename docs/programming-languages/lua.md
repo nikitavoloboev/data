@@ -113,10 +113,10 @@ title: Lua
 - [RapidJSON bindings for Lua](https://github.com/xpol/lua-rapidjson)
 - [GoLua](https://github.com/arnodel/golua) - Lua compiler / runtime in Go.
 - [WebAssembly Lua](https://github.com/ysugimoto/webassembly-lua) - Write and compile WebAssembly code with Lua.
-- [Hush](https://github.com/hush-shell/hush) - Unix shell scripting language inspired by Lua.
 - [binser](https://github.com/bakpakin/binser) - Customizable Lua Serializer.
 - [JSON.lua](https://github.com/rxi/json.lua) - Lightweight JSON library for Lua.
 - [Lua HTTP](https://github.com/daurnimator/lua-http) - HTTP Library for Lua. Supports HTTP(S) 1.0, 1.1 and 2.0; client and server.
 - [LOOM](https://github.com/cloudflare/loom) - Easier to read LuaJIT dumps.
 - [wasm2lua](https://github.com/SwadicalRag/wasm2lua) - Converting WASM into Lua.
 - [lua.go](https://github.com/zxh0/lua.go) - Toy Lua 5.3 implementation written in Go.
+- [inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables.

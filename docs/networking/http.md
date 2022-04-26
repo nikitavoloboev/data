@@ -245,3 +245,4 @@ title: HTTP
 - [Tracking HTTP/2 Prioritization Issues](https://github.com/andydavies/http2-prioritization-issues) - Tracks issues / notes for HTTP/2 prioritization across browsers, CDNs and servers.
 - [http_bench](https://github.com/linkxzhou/http_bench) - Go HTTP stress test tool, support single and distributed.
 - [HTTP API Development Tools](https://github.com/yosriady/api-development-tools) - Collection of useful resources for building RESTful HTTP+JSON APIs.
+- [Flash](https://flash.siwalik.in/) - Test service to mock slow server responses. ([Code](https://github.com/siwalikm/Flash))

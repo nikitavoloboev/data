@@ -343,6 +343,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Auth
 
+- [Goth](https://github.com/markbates/goth) - Multi-Provider Authentication for Go. Simple, clean, and idiomatic way to write authentication packages for Go web applications.
 - [go-srp](https://github.com/opencoff/go-srp) - SRP-6a implementation in Go.
 
 ## DB
@@ -1600,6 +1601,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-bitfield](https://github.com/ipfs/go-bitfield) - Simple bitfield package that's about 2-3x faster than using big.Ints from the standard library.
 - [semver for Go](https://github.com/blang/semver) - Semantic Versioning (semver) library written in Go.
 - [goprocess](https://github.com/jbenet/goprocess) - Like Context, but with good close semantics.
+- [nursery](https://github.com/arunsworld/nursery) - Structured Concurrency in Go.
 
 ## Links
 

@@ -53,6 +53,7 @@
 
 ## Web
 
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial))
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
@@ -103,7 +104,6 @@
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server))
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi)) ([Poem Grants](https://github.com/DDtKey/poem-grants))
@@ -283,6 +283,7 @@
 - [async-postgres](https://github.com/Hexilee/async-postgres) - Runtime-independent asynchronus PostgreSQL client.
 - [Coil](https://github.com/insipx/coil) - Futures-based background work queue built with SQLx and Postgres.
 - [pg_parse](https://github.com/paupino/pg_parse) - PostgreSQL parser for Rust that uses the actual PostgreSQL server source to parse SQL queries and return the internal PostgreSQL parse tree.
+- [tokio-rusqlite](https://github.com/programatik29/tokio-rusqlite) - Asynchronous handle for rusqlite library.
 
 ## Video
 
@@ -1992,3 +1993,4 @@
 - [MiMalloc Rust](https://github.com/LemonHX/mimalloc-rust) - High Level binding for MiMalloc in Rust.
 - [Rust traits and dependency injection (2022)](https://jmmv.dev/2022/04/rust-traits-and-dependency-injection.html) ([Lobsters](https://lobste.rs/s/yqm4uc/rust_traits_dependency_injection))
 - [Fleet](https://github.com/dimensionhq/fleet) - Blazing fast build tool for Rust. Compiling with Fleet is up-to 5x faster than with cargo. ([Web](https://fleet.rs/)) ([Reddit](https://www.reddit.com/r/rust/comments/ua09tc/experimental_fleet_a_build_tool_for_rust_thats/))
+- [Default Arguments and Label-based Overloading (2022)](https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/)

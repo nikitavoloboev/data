@@ -180,6 +180,7 @@
 - [Arrowdantic](https://github.com/jorgecarleitao/arrowdantic) - Small Python library backed by a mature Rust implementation of Apache Arrow.
 - [static_ondisk_kv](https://github.com/rom1504/static-ondisk-kv) - Simple and fast implementation of a static on disk kv, in python.
 - [SQLGlot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler.
+- [sqlakeyset](https://github.com/djrobstep/sqlakeyset) - Keyset-based paging for SQLAlchemy (both ORM and core).
 
 ## GUI
 
@@ -841,6 +842,7 @@
 - [FstStr](https://github.com/dmort27/fststr) - Small library providing a string-oriented Python interface to OpenFST.
 - [FElupe](https://github.com/adtzlr/felupe) - Finite Element Analysis.
 - [Point Cloud Utils (pcu)](https://github.com/fwilliams/point-cloud-utils) - Python library for common tasks on 3D point clouds.
+- [pynput](https://github.com/moses-palmer/pynput) - Allows you to control and monitor input devices.
 
 ## Notes
 

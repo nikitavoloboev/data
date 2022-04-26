@@ -75,3 +75,4 @@ title: Blender
 - [Runway Blender Models](https://github.com/charmbracelet/runway)
 - [Cats Blender Plugin](https://github.com/absolute-quantum/cats-blender-plugin) - Tool designed to shorten steps needed to import and optimize models into VRChat.
 - [Web Viewer for Blender](https://github.com/elia-orsini/BlenderWebViewer)
+- [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) - Addon and nodes for working with structural biology and molecular data in Blender.

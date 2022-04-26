@@ -115,9 +115,11 @@ title: Obsidian
 - [Obsidian Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 - [Scroll Offset](https://github.com/lijyze/scroll-offset) - Plugin can keep a defined distance before and after cursor, just like scrolloff in vim of cursor surrounding lines in VS-Code.
 - [Jump to Link](https://github.com/mrjackphil/obsidian-jump-to-link) - Quickly navigate between links, or jump to any word on the page using hotkeys.
+- [Database folder](https://github.com/RafaelGB/obsidian-bd-folder) - Obsidian Plugin to Allow Notion like database based on folders.
 
 ## Themes
 
+- [Prism](https://github.com/damiankorcz/Prism-Theme) - Comprehensive, Highly-Customizable and Elegant Light/Dark Theme for Obsidian.
 - [Obsidian HIG Theme](https://github.com/gavinmn/obsidian-HIG) - Obsidian theme designed to fit in with the Human Interface Guidelines.
 - [Things Theme](https://github.com/colineckert/obsidian-things)
 - [Sanctum](https://github.com/jdanielmourao/obsidian-sanctum) - Minimalist theme with the aim of creating a serene space of retreat, for thought and uninterrupted work.

@@ -88,3 +88,4 @@ title: Agda
 - [Sikkel](https://github.com/JorisCeulemans/sikkel) - Agda library that allows a user to program in multimode simple type theories.
 - [Axiomatic (ZF⁻-like) set theory](https://github.com/Borschemancer/axiomatic-sets)
 - [Univalent classical mathematics in Cubical Agda](https://github.com/kangrongji/cubical-classics)
+- [Dependently typed Algorithm M and friends](https://github.com/effectfully/STLC)

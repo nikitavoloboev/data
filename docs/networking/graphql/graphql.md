@@ -4,7 +4,7 @@ title: GraphQL
 
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006) & [GQty](https://github.com/gqty-dev/gqty) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty) & [Pothos GraphQL](https://github.com/hayes/pothos) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
 
 ## Notes
 
@@ -319,3 +319,4 @@ title: GraphQL
 - [GraphQL Scraper](https://github.com/simonw/graphql-scraper) - Track changes to GraphQL APIs by git scraping their schemas.
 - [SpectaQL](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 - [Domain Graph](https://domaingraph.io/) - Beautiful, interactive visualizations for GraphQL schemas. ([TS library](https://github.com/domain-graph/domain-graph)) ([VSCode Extension](https://github.com/domain-graph/vscode))
+- [Pothos GraphQL](https://github.com/hayes/pothos) - Library for creating GraphQL schemas in typescript using a strongly typed code first approach. ([Docs](https://pothos-graphql.dev/))

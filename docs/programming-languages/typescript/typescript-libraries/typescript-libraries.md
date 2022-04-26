@@ -56,6 +56,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
 - [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
 
+## GraphQL
+
+- [GraphQL Query Builder](https://github.com/atulmy/gql-query-builder) - Simple helper function to generate GraphQL queries using plain JavaScript Objects (JSON).
+
 ## Test
 
 - [TS auto mock](https://github.com/Typescript-TDD/ts-auto-mock) - Typescript transformer to unlock automatic mock creation for interfaces and classes.
@@ -483,6 +487,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Result](https://github.com/badrap/result) - TypeScript result type taking cues from Rust's Result and Haskell's Either types.
 - [OpenRPC Client JS](https://github.com/open-rpc/client-js) - Browser-compatible JSON-RPC client with multiple transports.
 - [LZ-UTF8](https://github.com/rotemdan/lzutf8.js) - High-performance JavaScript string compression library.
+- [flat-drop-files](https://github.com/placemark/flat-drop-files) - Normalize the DataTransferItems interface from a drop event.
+- [Injectable TS](https://github.com/raveclassic/injectable-ts) - Purely-functional strictly-typed IoC/DI for TypeScript.
 
 ## Links
 

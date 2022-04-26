@@ -376,3 +376,4 @@ title: Node.js
 - [Node.js Modules Team](https://github.com/nodejs/modules)
 - [Node Addon API Module](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++.
 - [Lad](https://github.com/ladjs/lad) - Node.js web framework.
+- [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.

@@ -147,6 +147,7 @@
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 - [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
+- [Instagram Go](https://github.com/Davincible/goinsta) - Unofficial Instagram API written in Go. Updated recently.
 - [Instagram Python](https://github.com/adw0rd/instagrapi) - Fastest and powerful Python library for Instagram Private API.
 - [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) - Instagram Private API Swift.
 - [Instagram Private API in Python](https://github.com/ping/instagram_private_api)

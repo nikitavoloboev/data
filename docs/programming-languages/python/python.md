@@ -477,3 +477,4 @@ for i, _ in enumerate(nums):
 - [MicroPython in Docker Containers (2022)](https://bhave.sh/micropython-docker/)
 - [High Performance Python Princeton mini-course](https://github.com/henryiii/python-performance-minicourse)
 - [hickory](https://github.com/maxhumber/hickory) - Command line tool for scheduling Python scripts.
+- [Why Python Data Classes Are Awesome (2022)](https://www.youtube.com/watch?v=CvQ7e6yUtnw)

@@ -194,6 +194,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useTimeline](https://github.com/marcoripa96/use-timeline) - Enchanced useState hook which keeps track of the states history, allowing you to undo and redo states.
 - [useLocationState](https://github.com/xiel/use-location-state) - Store and retrieve state from the browsers history using modern hooks.
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
+- [useSvelteStore](https://github.com/Crisfole/react-use-svelte-store) - Use svelte stores in react with hooks.
 
 ## Code
 

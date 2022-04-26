@@ -82,3 +82,4 @@ China alongside [Russia](russia.md) and [many more countries](https://worldpopul
 - [The Great Translation Movement Twitter](https://twitter.com/TGTM_Official) - Fourth estate, wanderer, Chinese information.
 - [This photo triggered China's Cultural Revolution (2020)](https://www.youtube.com/watch?v=kXByOrRrO7c)
 - [Stay Awesome China - Full Documentary (2022)](https://www.youtube.com/watch?v=mSie5A3LWgI)
+- [Are Things Truly That Bad In China? (2022)](https://www.reddit.com/r/China/comments/ubl5qa/are_things_truly_that_bad_in_china/)

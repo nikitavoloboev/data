@@ -732,3 +732,4 @@
 - [Learned Queries for Efficient Local Attention (2021)](https://arxiv.org/abs/2112.11435) ([Code](https://github.com/moabarar/qna))
 - [3D Human Pose Estimation with Spatial and Temporal Transformers (2021)](https://arxiv.org/abs/2103.10455) ([Code](https://github.com/zczcwh/PoseFormer))
 - [3D human pose estimation in video with temporal convolutions and semi-supervised training (2019)](https://arxiv.org/abs/1811.11742) ([Code](https://github.com/facebookresearch/VideoPose3D))
+- [MC-Calib: A generic and robust calibration toolbox for multi-camera systems (2022)](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001818) ([Code](https://github.com/rameau-fr/MC-Calib))

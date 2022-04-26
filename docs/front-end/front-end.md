@@ -92,3 +92,4 @@
 - [Claymorphism: Will It Stick Around? UI Trends (2022)](https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/) ([HN](https://news.ycombinator.com/item?id=30852884))
 - [30 popular communities and influencers about Front-End Development (2022)](https://blog.bloghound.social/30-popular-communities-and-influencers-about-front-end-development-april-2022/)
 - [Frontend Component Architecture](https://gos.si/blog/frontend-component-architecture/)
+- [Style-free components for all the frameworks](https://github.com/milkui/components)

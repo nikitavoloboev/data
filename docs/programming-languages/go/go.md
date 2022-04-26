@@ -80,7 +80,7 @@ if err != nil {
 - [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/)
 - [Golang interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Go in 5 minutes](https://github.com/arschles/go-in-5-minutes)
-- [Learn Go with tests](https://github.com/quii/learn-go-with-tests) ([Web](https://quii.gitbook.io/learn-go-with-tests/))
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) ([Code](https://github.com/quii/learn-go-with-tests)) ([HN](https://news.ycombinator.com/item?id=31163709))
 - [Using Instruments to profile Go programs](https://rakyll.org/instruments/)
 - [Design Philosophy On Packaging](https://www.ardanlabs.com/blog/2017/02/design-philosophy-on-packaging.html)
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
@@ -767,3 +767,4 @@ if err != nil {
 - [Building a Golang JSON HTTP Server (2021)](https://earthly.dev/blog/golang-http/)
 - [Golang dev with Kubernetes, Helm and Skaffold (2022)](https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/)
 - [PMGO](https://github.com/struCoder/pmgo) - Process manager for Go applications.
+- [The Go Programming Language and Environment (2022)](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)

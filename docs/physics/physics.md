@@ -300,3 +300,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Ludwig Boltzmann's inventions](https://twitter.com/MarkusDeserno/status/1512822212646125569)
 - [Faster-than-light communication - Wikipedia](https://en.wikipedia.org/wiki/Faster-than-light_communication)
 - [Collection of Database and Dataset Resources in Materials Science](https://github.com/sedaoturak/data-resources-for-materials-science)
+- [Lectures on Faster-than-Light Travel and Time Travel (2019)](https://arxiv.org/abs/1907.04178) ([HN](https://news.ycombinator.com/item?id=31156276))

@@ -159,3 +159,4 @@ title: Terraform
 - [5 Ways to Manage Terraform at Scale – Best Practices](https://spacelift.io/blog/5-ways-to-manage-terraform-at-scale)
 - [Learn Terraform (and AWS) by Building a Dev Environment (2022)](https://www.youtube.com/watch?v=iRaai1IBlB0)
 - [Pulumi as an alternative for Terraform? (2022)](https://www.reddit.com/r/devops/comments/ua3oby/pulumi_as_an_alternative_for_terraform/)
+- [Terraform Plugin Go](https://github.com/hashicorp/terraform-plugin-go) - Low-level Go binding for the Terraform protocol for integrations to be built on top of.

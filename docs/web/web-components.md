@@ -92,3 +92,4 @@ title: Web Components
 - [Shadow](https://github.com/Zaubrik/shadow) - Simple base class for creating fast, lightweight Web Components with htm.
 - [Web Components as Progressive Enhancement (2022)](https://cloudfour.com/thinks/web-components-as-progressive-enhancement/)
 - [Atomico](https://github.com/atomicojs/atomico) - Micro-library for creating web components using only functions, hooks and virtual-dom.
+- [Innovating beyond libraries and frameworks (2022)](https://nilsnh.no/2022/04/09/innovating-beyond-libraries-and-frameworks/)

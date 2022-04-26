@@ -345,3 +345,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Nix flakes, and how to convert to them](https://garnix.io/blog/converting-to-flakes)
 - [Toros](https://github.com/kamadorueda/toros) - Implementation of Nix in Rust.
 - [nix-shell, but make it lovely (2022)](https://t-ravis.com/post/nix/nix-make/)
+- [Nix Security Packages](https://github.com/juliosueiras-nix/nix-security)

@@ -129,3 +129,4 @@ title: JSON
 - [JSONata](https://github.com/jsonata-js/jsonata) - JSON query and transformation language. ([Web](https://jsonata.org/))
 - [jsonpack](https://github.com/rgcl/jsonpack) - Compression algorithm for JSON.
 - [edit-json](https://github.com/grantila/edit-json) - Edit JSON text in-place for a minimal diff.
+- [Zq: An Easier (and Faster) Alternative to Jq](https://www.brimdata.io/blog/introducing-zq/) ([HN](https://news.ycombinator.com/item?id=31166956))

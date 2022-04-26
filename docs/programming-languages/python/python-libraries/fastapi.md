@@ -24,3 +24,4 @@ title: FastAPI
 - [FastAPI with Observability](https://github.com/Blueswen/fastapi-observability) - Telemetry FastAPI application with three pillars of observability on Grafana.
 - [FastAPI + SQLModel + Alembic](https://github.com/testdrivenio/fastapi-sqlmodel-alembic) - Sample FastAPI project that uses async SQLAlchemy, SQLModel, Postgres, Alembic, and Docker.
 - [Feature rich robust FastAPI template](https://github.com/s3rius/FastAPI-template)
+- [FastAPI Security](https://github.com/jacobsvante/fastapi-security) - Add authentication and authorization to your FastAPI app via dependencies.

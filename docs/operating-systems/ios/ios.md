@@ -119,6 +119,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Template iOS application using Modular Architecture](https://github.com/kudoleh/iOS-Modular-Architecture)
 - [KeePassium Password Manager iOS](https://github.com/keepassium/KeePassium)
 - [WWDC22 Swift Student Challenge Submission](https://github.com/henribredt/Typography-WWDC22)
+- [Pegboard](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - Creative workspace with node-based editor built-in. Purely written in SwiftUI.
 
 ## Other
 
@@ -455,3 +456,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Building an (almost entirely) rust iOS app using uikit-sys (2020)](https://simlay.net/posts/using-uikit-sys/)
 - [acextract](https://github.com/bartoszj/acextract) - Tool to list and extract content from Assets.car files.
 - [App Clip Code Generator macOS App](https://github.com/alfianlosari/AppClipCodeGenerator)
+- [Expanding Apple Ecosystem Access with Open Source, Multi Platform Code Signing (2022)](https://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/) ([Lobsters](https://lobste.rs/s/8p6hyt/expanding_apple_ecosystem_access_with))

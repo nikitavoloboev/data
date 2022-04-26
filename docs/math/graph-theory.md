@@ -61,3 +61,4 @@ title: Graph theory
 - [Spectral Graph Theory Book](https://bookstore.ams.org/cbms-92)
 - [Graph Notebook: easily query and visualize graphs](https://github.com/aws/graph-notebook)
 - [The Transformer Network for the Traveling Salesman Problem (2021)](https://arxiv.org/abs/2103.03012) ([Code](https://github.com/xbresson/TSP_Transformer))
+- [Elegant six-page proof reveals the emergence of random structure (2022)](https://www.quantamagazine.org/elegant-six-page-proof-reveals-the-emergence-of-random-structure-20220425/) ([HN](https://news.ycombinator.com/item?id=31162576))

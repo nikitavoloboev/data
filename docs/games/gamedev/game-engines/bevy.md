@@ -33,3 +33,4 @@ title: Bevy Engine
 - [bevy-fly-camera](https://github.com/mcpar-land/bevy_fly_camera) - Standard flying camera in Bevy.
 - [Bevy Voxel Cone Tracing](https://github.com/cryscan/bevy-hikari)
 - [bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap.
+- [Bevy Steamworks SDK](https://github.com/HouraiTeahouse/bevy-steamworks)

@@ -107,3 +107,4 @@ title: GPU
 - [GPU Top](https://github.com/rib/gputop) - GPU profiling tool.
 - [Jetson Nano Developer Kit | Getting Started](https://github.com/uburuntu/jetson-startup)
 - [GPU Performance API for AMD GPUs](https://github.com/GPUOpen-Tools/gpu_performance_api)
+- [A Driver on the GPU (2022)](https://www.basnieuwenhuizen.nl/a-driver-on-the-gpu/)

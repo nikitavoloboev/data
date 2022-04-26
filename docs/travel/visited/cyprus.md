@@ -11,3 +11,4 @@
 - [Cyprus Tax Calculator](https://www.cyprustaxcalculator.com/) ([Tweet](https://twitter.com/AlexSukhorukov_/status/1464255193663561728))
 - [Cyprus Tax Calculator 2](https://www.qnta.biz/resources/cyprus-tax/tax-calculators/gross-to-net-salary)
 - [Как получить ВНЖ на Кипре (2022)](https://twitter.com/AlexSukhorukov_/status/1496499407302406162)
+- [Переезд на Кипр: кому подойдет жизнь на острове (2022)](https://www.youtube.com/watch?v=BRgvbKOnocI)

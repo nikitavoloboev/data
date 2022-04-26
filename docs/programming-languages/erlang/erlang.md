@@ -147,3 +147,5 @@ title: Erlang
 - [spg](https://github.com/max-au/spg) - Scalable Process Groups.
 - [argparse](https://github.com/max-au/argparse) - Command line parser for Erlang.
 - [spell1](https://github.com/rvirding/spell1) - LL(1) parser generator for Erlang and LFE.
+- [Type-Based Optimizations in the JIT (2022)](https://www.erlang.org/blog/type-based-optimizations-in-the-jit/)
+- [Eir Project](https://github.com/eirproject/eir) - Erlang compiler and IR implemented in Rust.

@@ -557,3 +557,4 @@
 - [Detoxify](https://github.com/unitaryai/detoxify) - Comment Classification with PyTorch Lightning and Transformers.
 - [DLATK](https://github.com/dlatk/dlatk) - End to end human text analysis package, specifically suited for social media and social scientific applications.
 - [Language modeling via stochastic processes (2022)](https://arxiv.org/abs/2203.11370) ([Code](https://github.com/rosewang2008/language_modeling_via_stochastic_processes))
+- [An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling (2022)](https://arxiv.org/abs/2109.13023) ([Code](https://github.com/Wangpeiyi9979/ESD))

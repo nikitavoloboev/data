@@ -235,3 +235,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno - HTTP 203 (2021)](https://www.youtube.com/watch?v=SYkzk_j3yb0)
 - [Deno utility functions](https://github.com/tyrchen/deno-utils)
 - [Ruck](https://github.com/jaydenseric/ruck) - Open source buildless React web application framework for Deno. ([Web](https://ruck.tech/))
+- [Deno.js CORS middleware](https://github.com/tajpouria/cors)
