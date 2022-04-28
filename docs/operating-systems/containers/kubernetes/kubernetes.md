@@ -716,3 +716,4 @@ title: Kubernetes
 - [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - CoreDNS plugin to resolve all types of external Kubernetes resources.
 - [kubectl-explore](https://github.com/keisku/kubectl-explore) - Better kubectl explain with the fuzzy finder.
 - [Kubent](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs.
+- [oom-bonker](https://github.com/patrickeasters/oom-bonker) - Delightfully silly way to be alerted when your Kubernetes containers run out of memory.

@@ -1,6 +1,6 @@
 # TypeScript libraries
 
-I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai). [ncu](https://github.com/raineorshine/npm-check-updates) is nice for updating packages.
+I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai). [ncu](https://github.com/raineorshine/npm-check-updates) is nice for updating packages. [Rush stack](https://github.com/microsoft/rushstack) + [pnpm](https://pnpm.io/) are amazing.
 
 ## DB
 
@@ -105,7 +105,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [morphic-ts](https://github.com/sledorze/morphic-ts) - Adresses the pain of writing and maintaining derived code for business logic.
 - [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
 - [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
-- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts)) ([Cheat Sheet](https://github.com/inato/fp-ts-cheatsheet))
+- [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript. ([Functional TypeScript With fp-ts](https://functional.christmas/2020/12)) ([eslint-plugin-fp-ts](https://github.com/buildo/eslint-plugin-fp-ts)) ([Cheat Sheet](https://github.com/inato/fp-ts-cheatsheet)) ([Learn fp-ts](https://github.com/zanza00/learn-fp-ts))
 - [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
 - [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding. ([Web](https://gcanti.github.io/io-ts/))
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
@@ -489,6 +489,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [LZ-UTF8](https://github.com/rotemdan/lzutf8.js) - High-performance JavaScript string compression library.
 - [flat-drop-files](https://github.com/placemark/flat-drop-files) - Normalize the DataTransferItems interface from a drop event.
 - [Injectable TS](https://github.com/raveclassic/injectable-ts) - Purely-functional strictly-typed IoC/DI for TypeScript.
+- [Scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code.
+- [TypeScript JSON Decoder](https://github.com/tskj/typescript-json-decoder) - Library for decoding untrusted data as it comes in to your system, inspired by elm-json-decode.
 
 ## Links
 
@@ -553,3 +555,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [FP-TS resources](https://github.com/newswim/wtfp-ts)
 - [SemVer for TS in Practice](https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/)
 - [Wireit](https://github.com/google/wireit) - Upgrades your npm scripts to make them smarter and more efficient.
+- [Misusing TypeScript Assertion Functions for Fun and Profit (2022)](https://v5.chriskrycho.com/journal/misusing-typescript-assertion-functions-for-fun-and-profit/)

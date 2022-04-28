@@ -6,7 +6,7 @@ title: PostgreSQL
 
 [Internals of PostgreSQL](https://www.interdb.jp/pg/) is great. [Postgres.js](https://github.com/porsager/postgres) & [Prisma](https://www.prisma.io/docs/concepts/database-connectors/postgresql) are neat ORMs. Looking into [EdgeDB](edgedb.md) now as it builds on top of Postgres and has [many nice features](https://www.youtube.com/watch?v=6LqbBF0KAXE). [Citus](https://github.com/citusdata/citus) seems neat too.
 
-Want to try build something on top of [pgproto3](https://github.com/jackc/pgproto3).
+Want to try build something on top of [pgproto3](https://github.com/jackc/pgproto3). Also trying out [pgx](https://github.com/jackc/pgx) as a Go lib to query Postgres.
 
 ## Notes
 

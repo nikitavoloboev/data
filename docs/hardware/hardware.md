@@ -321,3 +321,4 @@
 - [Framework Laptop Mainboard](https://github.com/FrameworkComputer/Mainboard) ([HN](https://news.ycombinator.com/item?id=31089677))
 - [Ask HN: What's the most stable form of digital storage? (2022)](https://news.ycombinator.com/item?id=31149427)
 - [Awesome Semiconductor Startups](https://github.com/aolofsson/awesome-semiconductor-startups)
+- [Omicron](https://github.com/oxidecomputer/omicron) - Oxide control plane.

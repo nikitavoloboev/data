@@ -385,3 +385,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Privy](https://www.privy.io/) - Simple APIs to manage user data off-chain. ([Twitter](https://twitter.com/privy_io))
 - [Zapper Studio](https://github.com/Zapper-fi/studio) - Platform which enables developers in our community to integrate Web3 applications into Zapper.
 - [Blockchain Is Dangerous Nonsense (2022)](https://www.eisfunke.com/article/blockchain-technology.html) ([HN](https://news.ycombinator.com/item?id=31190062))
+- [Trampoline Framework](https://github.com/WilfredTA/trampoline) - Complete dapp development framework for Nervos Network.

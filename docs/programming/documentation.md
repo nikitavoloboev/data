@@ -170,3 +170,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [StrictDoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
 - [SourceDocs](https://github.com/SourceDocs/SourceDocs) - Generate Markdown documentation from source code.
 - [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language.
+- [Squeak](https://github.com/PostHog/squeak) - Q&A widget for your docs.

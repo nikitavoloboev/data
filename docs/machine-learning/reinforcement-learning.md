@@ -352,3 +352,4 @@ title: Reinforcement learning
 - [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
 - [OpenAI Gym environment designed for training RL agents to control the flight of a two-dimensional drone](https://github.com/mareo1208/Drone-2d-custom-gym-env-for-reinforcement-learning)
 - [Hands-on Reinforcement Learning course](https://github.com/Paulescu/hands-on-rl)
+- [Rocket League Gym](https://github.com/lucas-emery/rocket-league-gym) - Gym-like environment for Reinforcement Learning in Rocket League.

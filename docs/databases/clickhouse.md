@@ -23,3 +23,4 @@ title: ClickHouse
 - [ClickHouse vs TimescaleDB (2021)](https://pradeepchhetri.xyz/clickhousevstimescaledb/)
 - [Graphite cluster backend with ClickHouse support](https://github.com/go-graphite/graphite-clickhouse)
 - [Presentations, meetups and talks about ClickHouse](https://github.com/ClickHouse/clickhouse-presentations)
+- [Pillar](https://github.com/balance-platform/pillar) - Elixir library client for work with ClickHouse.

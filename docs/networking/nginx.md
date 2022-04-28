@@ -82,3 +82,4 @@ title: Nginx
 - [Ledge](https://github.com/ledgetech/ledge) - RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis.
 - [Lua Resty HTTP](https://github.com/ledgetech/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua.
 - [Lua Resty Redis Connector](https://github.com/ledgetech/lua-resty-redis-connector) - Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel.
+- [Tailscale Authentication for NGINX (2022)](https://tailscale.com/blog/tailscale-auth-nginx/)

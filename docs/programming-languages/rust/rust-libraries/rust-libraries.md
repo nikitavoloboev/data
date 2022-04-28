@@ -284,6 +284,7 @@
 - [Coil](https://github.com/insipx/coil) - Futures-based background work queue built with SQLx and Postgres.
 - [pg_parse](https://github.com/paupino/pg_parse) - PostgreSQL parser for Rust that uses the actual PostgreSQL server source to parse SQL queries and return the internal PostgreSQL parse tree.
 - [tokio-rusqlite](https://github.com/programatik29/tokio-rusqlite) - Asynchronous handle for rusqlite library.
+- [InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs) - Easy-use client to InfluxDB.
 
 ## Video
 
@@ -576,6 +577,7 @@
 - [Rust OpenCV bindings](https://github.com/twistedfall/opencv-rust)
 - [video-toolbox-sys](https://github.com/bschwind/video-toolbox-sys) - Rust bindings to Apple's Video Toolbox framework.
 - [Rust AutoML](https://github.com/cmccomb/rust-automl) - Automated Machine Learning in Rust.
+- [Orkhon](https://github.com/vertexclique/orkhon) - ML Inference Framework and Server Runtime.
 
 ## macOS
 
@@ -1803,6 +1805,8 @@
 - [RefCast](https://github.com/dtolnay/ref-cast) - Safely cast &T to &U where the struct U contains a single field of type T.
 - [qcell](https://github.com/uazu/qcell) - Statically-checked alternatives to RefCell and RwLock.
 - [chitchat](https://github.com/quickwit-oss/chitchat) - Decentralized cluster membership in Rust. ([Article](https://quickwit.io/blog/chitchat/)) ([HN](https://news.ycombinator.com/item?id=31190586))
+- [numanji](https://github.com/bastion-rs/numanji) - Local-affinity first NUMA-aware allocator with optional fallback.
+- [Lever](https://github.com/vertexclique/lever) - Pillars for Transactional Systems and Data Grids.
 
 ## Cargo Plugins
 
@@ -1877,6 +1881,7 @@
 - [cargo-action-fmt](https://github.com/olix0r/cargo-action-fmt) - Converts cargo check (and clippy) JSON output to the GitHub Action error format.
 - [rusty-hook](https://github.com/swellaby/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
 - [cargo-clone](https://github.com/JanLikar/cargo-clone) - Cargo subcommand to fetch the source code of a Rust crate.
+- [Cargo Structure](https://github.com/ramon54321/cargo-structure) - Utility for analyzing the structure of a cargo project.
 
 ## Links
 

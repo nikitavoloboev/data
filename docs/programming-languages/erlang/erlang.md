@@ -150,3 +150,4 @@ title: Erlang
 - [Type-Based Optimizations in the JIT (2022)](https://www.erlang.org/blog/type-based-optimizations-in-the-jit/)
 - [Eir Project](https://github.com/eirproject/eir) - Erlang compiler and IR implemented in Rust.
 - [Introducing Rebar3 TypEr (2022)](https://tech.nextroll.com/blog/dev/2022/04/27/rebar3-typer.html)
+- [erl_ast](https://github.com/sile/erl_ast) - Rust library for working with Abstract Syntax Trees of Erlang programs.

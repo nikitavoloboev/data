@@ -121,3 +121,4 @@ title: Speech recognition
 - [Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques (2021)](https://arxiv.org/abs/2104.00931) ([Code](https://github.com/mindslab-ai/assem-vc))
 - [CoVoST: A Large-Scale Multilingual Speech-To-Text Translation Corpus](https://github.com/facebookresearch/covost)
 - [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction (2022)](https://arxiv.org/abs/2201.02184) ([Code](https://github.com/facebookresearch/av_hubert))
+- [Real Time Speech Enhancement in the Waveform Domain (2020)](https://arxiv.org/abs/2006.12847) ([Code](https://github.com/facebookresearch/denoiser))

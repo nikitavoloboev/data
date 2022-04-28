@@ -144,3 +144,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [First Steps to Getting Started in Open Source Research (2021)](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/) ([Tweet](https://twitter.com/EliotHiggins/status/1502292286285168643))
 - [Balaji Srinivasan: The Network State (2022)](https://overcast.fm/+Oxea-zIg0)
 - [BioRender Poster Builder](https://biorender.com/poster-builder)
+- [Astera Institute](https://astera.org/) - Empower visionary, high-leverage science and technology projects with the capacity to create transformative progress for human civilization.

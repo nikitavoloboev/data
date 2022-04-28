@@ -4,7 +4,7 @@ title: Web performance
 
 # [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 
-Use [WebPageTest](https://webpagetest.org/easy) to see web page performance. I personally love React with NextJS a lot and use it but am trying to explore [other solutions that are much leaner](https://twitter.com/slightlylate/status/1517163057780195331).
+Use [WebPageTest](https://webpagetest.org/) to see web page performance. I personally love React with NextJS a lot and use it but am trying to explore [other solutions that are much leaner](https://twitter.com/slightlylate/status/1517163057780195331).
 
 ## Notes
 
@@ -14,6 +14,7 @@ Use [WebPageTest](https://webpagetest.org/easy) to see web page performance. I p
 - [Cache dashboard data in Redis on server instead of react-query in the browser. Revalidate it after requests (on an interval so you don't overwork it with high traffic). Expire + push into the cache after writes. Backend investment will yield far greater perf than client.](https://twitter.com/ryanflorence/status/1499160939589173248)
 - [Often times a “slow” website is literally because it is loading megabytes of 3rd party crap when the app logic itself can be <200kb using any framework. That 5kb you save by not having to use a state management lib is insignificant compared to these. The difference made by choice of framework is insignificant if the payload is dominated by 3rd party bloat.](https://twitter.com/youyuxi/status/1509422910020075521)
 - [Have database and app hosted off the same region as each other.](https://twitter.com/buildsghost/status/1517573869858525184)
+- [Few things will teach you more about web development than running your web app through WebPageTest, and working to fix everything that sucks.](https://twitter.com/slightlylate/status/1519690020449177600)
 
 ## Links
 

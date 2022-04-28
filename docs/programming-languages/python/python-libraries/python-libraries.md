@@ -977,3 +977,4 @@
 - [Sourcepy](https://github.com/dchevell/sourcepy) - Source python scripts natively inside your shell.
 - [Caching slow functions in Python](https://antonz.org/functools-cache/)
 - [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) - Cookiecutter template for poetry managed python projects.
+- [Hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management. ([HN](https://news.ycombinator.com/item?id=31190027))

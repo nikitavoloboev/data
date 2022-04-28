@@ -5,7 +5,7 @@ Most important thing I always try to be mindful of is keeping straight back (no 
 ## Chairs
 
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)
-- [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/) ([Tweet](https://twitter.com/ow/status/1463234007295004680))
+- [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/) ([Tweet](https://twitter.com/ow/status/1463234007295004680)) ([Tweet](https://twitter.com/thekitze/status/1519627519158276097))
 - [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/) ([Tweet](https://twitter.com/AndrewProjDent/status/1452986311141363719))
 - [Capisco Ergonomic Office Chair](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733))
 - [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))

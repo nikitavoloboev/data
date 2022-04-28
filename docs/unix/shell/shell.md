@@ -224,3 +224,4 @@ All active variables can be seen by running `env`.
 - [An Introduction to the Unix Shell](https://cscie26.dce.harvard.edu/~dce-lib113/reference/unix/bourne_shell.pdf)
 - [Hush](https://github.com/hush-shell/hush) - Unix shell scripting language inspired by Lua. ([Docs](https://hush-shell.github.io/)) ([Lobsters](https://lobste.rs/s/go010u/guide_hush_shell_scripting_language)) ([HN](https://news.ycombinator.com/item?id=31163083))
 - [webhookd](https://github.com/ncarlier/webhookd) - Simple webhook server launching shell scripts.
+- [Extraterm](https://github.com/sedwards2009/extraterm) - Swiss army chainsaw of terminal emulators.

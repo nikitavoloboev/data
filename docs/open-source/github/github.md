@@ -406,3 +406,4 @@ Awesome List
 - [GitHub to SQLite](https://github.com/dogsheep/github-to-sqlite) - Save data from GitHub to a SQLite database.
 - [Starred](https://github.com/juev/starred) - Creating your own Awesome List by GitHub stars.
 - [What do you want GitHub to focus on? (2022)](https://twitter.com/rakyll/status/1519019723375058944)
+- [Automatically opening issues when tracked file content changes (2022)](https://simonwillison.net/2022/Apr/28/issue-on-changes/)

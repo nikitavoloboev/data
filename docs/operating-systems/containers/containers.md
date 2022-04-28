@@ -210,3 +210,6 @@
 - [Podman Desktop Companion](https://iongion.github.io/podman-desktop-companion/) ([Code](https://github.com/iongion/podman-desktop-companion)) ([HN](https://news.ycombinator.com/item?id=31055475))
 - [Container Layer Analyzer](https://github.com/dcermak/container-layer-sizes) - Visualizer of container layer sizes.
 - [Stacker](https://github.com/project-stacker/stacker) - Build OCI images from a declarative format.
+- [TD-shim](https://github.com/confidential-containers/td-shim) - Confidential Containers Shim Firmware.
+- [Confidential Containers](https://github.com/confidential-containers) - Open source community working to enable cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data.
+- [image-rs](https://github.com/confidential-containers/image-rs) - Container Images Rust Crate.

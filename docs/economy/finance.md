@@ -187,3 +187,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [NLP papers applicable to financial markets](https://github.com/maximedb/nlp_papers)
 - [Deep Finance](https://github.com/sangyx/deep-finance) - Datasets, papers and books on AI & Finance.
 - [Do very rich people bother with a pension? (2022)](https://www.reddit.com/r/UKPersonalFinance/comments/ubis8o/do_very_rich_people_bother_with_a_pension/)
+- [Fintopea](https://www.fintopea.com/) - Free financial visualizations of publicly listed companies.

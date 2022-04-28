@@ -589,3 +589,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Databases to keep an eye on (2022)](https://pradeepchhetri.xyz/databasestokeepaneyeon/)
 - [QuestDB: Fast Open Source Time Series Database (Vlad Ilyushchenko) (2022)](https://www.youtube.com/watch?v=AxxutZ0v3HE)
 - [Vectorization in OLAP Databases (2022)](https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/)
+- [Nice cheap hosted databases (2022)](https://twitter.com/mattgperry/status/1519609372288110593)

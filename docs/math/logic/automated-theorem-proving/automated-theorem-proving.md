@@ -29,3 +29,4 @@ title: Automated theorem proving
 - [Cicada Language](https://cicada-lang.org/) - Dependently typed programming language and an interactive theorem prover.
 - [Holbert](https://github.com/liamoc/holbert) - Graphical interactive proof assistant designed for education.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) - Tool for constructing finite models for first-order theories.
+- [Timothy Gowers's research on automated theorem proving](https://twitter.com/wtgowers/status/1519613183857762304)

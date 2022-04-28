@@ -36,3 +36,4 @@ title: Mastodon
 - [HN: Mastodon (2022)](https://news.ycombinator.com/item?id=31164135)
 - [Mastodon-Twitter Crossposter](https://github.com/renatolond/mastodon-twitter-poster)
 - [Twitter buyout puts Mastodon into spotlight (2022)](https://blog.joinmastodon.org/2022/04/twitter-buyout-puts-mastodon-into-spotlight/) ([HN](https://news.ycombinator.com/item?id=31175527))
+- [Pinafore](https://pinafore.social/) - Alternative web client for Mastodon. ([Code](https://github.com/nolanlawson/pinafore))

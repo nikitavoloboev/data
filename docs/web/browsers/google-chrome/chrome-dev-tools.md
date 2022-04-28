@@ -38,3 +38,4 @@ title: Chrome DevTools
 - [chobitsu](https://github.com/liriliri/chobitsu) - Chrome devtools protocol JavaScript implementation.
 - [DevTools Tips](https://devtoolstips.org/) - Collection of useful cross-browser DevTools tips. ([Code](https://github.com/captainbrosset/devtools-tips))
 - [Replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder.
+- [Detecting memory leaks in chrome dev tools](https://twitter.com/mgechev/status/1519534448227803138)

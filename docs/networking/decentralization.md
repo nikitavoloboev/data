@@ -152,3 +152,4 @@ title: Decentralization
 - [Decentraland Awesome Repository](https://github.com/decentraland-scenes/Awesome-Repository) - Links to examples and tutorials to help you get started building Decentraland scenes and other content.
 - [Decentralization for Web3 Builders: Principles, Models, How (2022)](https://future.a16z.com/web3-decentralization-models-framework-principles-how-to/) ([Tweet](https://twitter.com/milesjennings/status/1512106060898660352))
 - [Tailscale CEO Avery Pennarun on rebuilding the internet (2022)](https://frontier.is/newsletters/networking-opportunity/)
+- [Open Data Fabric](https://github.com/open-data-fabric/open-data-fabric) - Open protocol for decentralized exchange and transformation of data. ([Docs](https://docs.kamu.dev/odf/))

@@ -1,5 +1,7 @@
 # Social networks
 
+[How to run a small social network site for your friends](https://runyourown.social/) is a neat guide.
+
 ## Notes
 
 - [Facebook has recruited one of the world’s top AI teams, led by Yann LeCun. Their work and Google's are the equivalent of tobacco companies engineering cigarettes to ensure that nicotine hits a smoker's brain more quickly. Facebook and other social networks are the cigarette companies of the mind. Cigarettes blackened our lungs with tar, and social media blacken our brains with distraction, alienation, envy, and loneliness.](https://news.ycombinator.com/item?id=15421704)

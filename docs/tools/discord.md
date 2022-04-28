@@ -151,3 +151,6 @@ title: Discord
 - [How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku (2022)](https://www.youtube.com/watch?v=Wtqq0-yYKps)
 - [Enmity](https://github.com/enmity-mod/enmity) - iOS Discord client modification.
 - [Accord](https://github.com/evelyneee/accord) - Faster discord client for your Mac.
+- [RainCache](https://github.com/DasWolke/RainCache) - Simple and modular discord caching library.
+- [SnowTransfer](https://github.com/DasWolke/SnowTransfer) - Minimalistic REST client for the discord API.
+- [CloudStorm](https://github.com/DasWolke/CloudStorm) - Modular discord gateway library for microservice oriented bots.

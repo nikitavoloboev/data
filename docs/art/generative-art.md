@@ -1,6 +1,6 @@
 # Generative art
 
-This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is great intro.
+This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is great intro. [WEIRD-A](https://github.com/inconvergent/weird) is great framework.
 
 ## Links
 

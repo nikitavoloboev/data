@@ -350,6 +350,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
 - [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. It features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time.
 - [sniper](https://github.com/recoilme/sniper) - Simple and efficient thread-safe key/value store for Go.
@@ -1605,6 +1606,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [semver for Go](https://github.com/blang/semver) - Semantic Versioning (semver) library written in Go.
 - [goprocess](https://github.com/jbenet/goprocess) - Like Context, but with good close semantics.
 - [nursery](https://github.com/arunsworld/nursery) - Structured Concurrency in Go.
+- [fp-go](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Go 1.18+ generics.
+- [Underscore](https://github.com/rjNemo/underscore) - Useful functional programming helpers for Go 1.18 and beyond.
 
 ## Links
 
@@ -1701,3 +1704,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Crimes with Go Generics (2022)](https://christine.website/blog/gonads-2022-04-24) ([HN](https://news.ycombinator.com/item?id=31149801))
 - [Nice overview of go web frameworks / resources](https://www.reddit.com/r/golang/comments/ub742v/golang_future_web_frameworks/i63x1lq/?utm_source=reddit&utm_medium=web2x&context=3)
 - [Making Faster B-Trees with Go Generics (2022)](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/) ([HN](https://news.ycombinator.com/item?id=31182645)) ([Reddit](https://www.reddit.com/r/golang/comments/ud9l2v/shaving_40_off_googles_btree_implementation_with/))
+- [Go JSON Schema Reflection](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types.

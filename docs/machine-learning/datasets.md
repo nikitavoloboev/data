@@ -165,3 +165,4 @@
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) - Dataset of 2D imagery, 3D point cloud data, and 3D vehicle bounding box labels all generated using the Grand Theft Auto 5 game engine.
 - [Relative Human (RH)](https://github.com/Arthur151/Relative_Human) - Multi-person in-the-wild RGB images with rich human annotations.
 - [CSV Base](https://csvbase.com/) - Turn CSV files into read+write APIs. ([Code](https://github.com/calpaterson/csvbase))
+- [A Dataset and Explorer for 3D Signed Distance Functions (2022)](https://tovacinni.github.io/sdf-explorer/) ([Code](https://github.com/tovacinni/sdf-explorer))

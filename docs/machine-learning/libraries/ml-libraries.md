@@ -339,3 +339,5 @@ title: ML Libraries
 - [TorchSparse](https://github.com/mit-han-lab/torchsparse) - High-performance neural network library for point cloud processing.
 - [H2O](https://github.com/h2oai/h2o-3) - In-memory platform for distributed, scalable machine learning.
 - [Ranger](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer) - Synergistic optimizer using RAdam (Rectified Adam), Gradient Centralization and LookAhead in one code base.
+- [Unseal](https://github.com/TomFrederik/unseal) - Mechanistic Interpretability for Transformer Models.
+- [ANTsPy](https://github.com/ANTsX/ANTsPy) - Advanced Normalization Tools in Python.

@@ -96,3 +96,4 @@
 - [GC workbench](https://github.com/wingo/gcbench) - Workspace for experimenting with garbage collectors.
 - [Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)](https://atp.fm/205-chris-lattner-interview-transcript#gc) ([HN](https://news.ycombinator.com/item?id=31139610))
 - [Low-Latency, High-Throughput Garbage Collection (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)
+- [Distilling the Real Cost of Production Garbage Collectors (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf) ([HN](https://news.ycombinator.com/item?id=31192261))

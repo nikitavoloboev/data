@@ -1,5 +1,7 @@
 # Compression
 
+[compress](https://github.com/klauspost/compress) is a nice Go package for compression.
+
 ## Notes
 
 - [Can compress PNG images well with pngquant.](https://twitter.com/michaelvillar/status/1445079263208787969)

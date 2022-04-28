@@ -179,6 +179,7 @@
 - [MerkleTree](https://github.com/yosriady/merkle_tree) - Merkle Tree implementation in pure Elixir.
 - [Entity Component System](https://github.com/yosriady/ecs)
 - [Blex](https://github.com/gyson/blex) - Fast Bloom filter with concurrent accessibility, powered by :atomics module.
+- [Talos](https://github.com/balance-platform/talos) - Elixir parameter validation library. Simple and extensible.
 
 ## Links
 

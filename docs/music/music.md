@@ -212,3 +212,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Record Store Day](https://recordstoreday.com/)
 - [Your well-known artist + their underrated album or song](https://twitter.com/dan_abramov/status/1517539624456970243)
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [Tuner](https://tommygeiger.com/tuner/) - Spotify playlist generator. ([Code](https://github.com/tommygeiger/tuner))

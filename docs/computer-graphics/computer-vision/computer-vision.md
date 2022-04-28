@@ -735,3 +735,4 @@
 - [MC-Calib: A generic and robust calibration toolbox for multi-camera systems (2022)](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001818) ([Code](https://github.com/rameau-fr/MC-Calib))
 - [Understanding The Robustness in Vision Transformers (2022)](https://arxiv.org/abs/2204.12451) ([Code](https://github.com/NVlabs/FAN))
 - [Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation (2021)](https://arxiv.org/abs/2111.14826) ([Code](https://github.com/liuzechun/Nonuniform-to-Uniform-Quantization))
+- [Tackling multiple tasks with a single visual language model (2022)](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) ([Code](https://github.com/lucidrains/flamingo-pytorch)) ([Tweet](https://twitter.com/DeepMind/status/1519686445258231811))

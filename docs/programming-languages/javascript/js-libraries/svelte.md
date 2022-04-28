@@ -235,3 +235,4 @@ title: Svelte
 - [Svelte-intl-precompile](https://github.com/cibernox/svelte-intl-precompile) - i18n library for Svelte.js that analyzes your keys at build time for max performance and minimal footprint.
 - [Svelte Package template](https://github.com/Tropix126/sveltekit-package-template) - Barebones project that provides the essentials for writing highly-optimized, reusable packages in Svelte.
 - [Svelte Markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser that renders into Svelte Components.
+- [Bookit](https://github.com/leveluptuts/bookit) - UI component explorer designed specifically for Svelte Kit.

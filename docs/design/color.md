@@ -160,3 +160,5 @@
 - [Hypercolor](https://hypercolor.dev/) - Gradients for Tailwind CSS. ([Code](https://github.com/jordihales/hypercolor))
 - [Mesh Gradients inside Sketch](https://www.meshgradients.com/)
 - [Web color is still broken](https://webcolorisstillbroken.com/) ([HN](https://news.ycombinator.com/item?id=31107643))
+- [OKLCH Color Picker](https://oklch.evilmartians.io/)
+- [Why OKLCH is the future of colors in CSS](https://slides.com/ai/oklch-css)
