@@ -6,7 +6,7 @@ Well implemented analytics will let you see how to optimize your system to serve
 
 If analytics are used, it's best to implement them server side with something like [Netlify](https://www.netlify.com/products/analytics/) so as to not send unnecessary JS to the client and keep pages light.
 
-[umami](https://umami.is/) seems nice for analytics.
+[umami](https://umami.is/) seems nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read.
 
 ## Notes
 
@@ -99,3 +99,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Offen](https://www.offen.dev/) - Fair and lightweight alternative to common web analytics tools. ([Code](https://github.com/offen/offen))
 - [Ballcone](https://github.com/dustalov/ballcone) - Fast and lightweight server-side Web analytics solution. It requires no JavaScript on your website.
 - [Fugu](https://fugu.lol/) - Simple and privacy-friendly product analytics. ([Code](https://github.com/shafy/fugu))
+- [Product Analytics from Scratch (2022)](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/)

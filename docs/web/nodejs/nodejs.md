@@ -377,3 +377,4 @@ title: Node.js
 - [Node Addon API Module](https://github.com/nodejs/node-addon-api) - Module for using Node-API from C++.
 - [Lad](https://github.com/ladjs/lad) - Node.js web framework.
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
+- [Piston](https://github.com/engineer-man/piston) - High performance general purpose code execution engine.

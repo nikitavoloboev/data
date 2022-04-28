@@ -6,7 +6,7 @@ title: Cloudflare workers
 
 Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [Wrangler](https://github.com/cloudflare/wrangler2) & [Miniflare](https://github.com/cloudflare/miniflare) are useful ([nice template for it](https://github.com/mrbbot/miniflare-typescript-esbuild-jest)).
 
-[Hono](https://github.com/honojs/hono) & [Worktop](https://github.com/lukeed/worktop) seem like nice web frameworks built on top of Cloudflare workers.
+[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)) & [Worktop](https://github.com/lukeed/worktop) seem like nice web frameworks built on top of Cloudflare workers.
 
 ## OSS tools build with CW
 

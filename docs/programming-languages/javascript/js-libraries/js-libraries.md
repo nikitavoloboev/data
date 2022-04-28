@@ -915,6 +915,7 @@
 - [protomux](https://github.com/mafintosh/protomux) - Multiplex multiple message oriented protocols over a stream.
 - [exifr](https://github.com/MikeKovarik/exifr) - Fastest and most versatile JS EXIF reading library.
 - [libhoney](https://github.com/honeycombio/libhoney-js) - Node.js module for sending events to Honeycomb, a service for debugging your software in production.
+- [ejs](https://github.com/mde/ejs) - Embedded JavaScript templates.
 
 ## Links
 
@@ -989,4 +990,4 @@
 - [npx ci](https://github.com/privatenumber/ci) - Run npm ci using the appropriate Node package manager (npm, yarn, pnpm).
 - [bug-versions](https://github.com/cnpm/bug-versions) - Collect all bug versions on npm package.
 - [npm-multi-publish](https://github.com/privatenumber/npm-multi-publish) - Publish npm package to multiple registries.
-- [Four Eras of JavaScript Frameworks (2022)](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks)
+- [Four Eras of JavaScript Frameworks (2022)](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks) ([HN](https://news.ycombinator.com/item?id=31176910))

@@ -552,3 +552,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Anton Gilgur's TS library template](https://github.com/agilgur5/ts-library-base)
 - [FP-TS resources](https://github.com/newswim/wtfp-ts)
 - [SemVer for TS in Practice](https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/)
+- [Wireit](https://github.com/google/wireit) - Upgrades your npm scripts to make them smarter and more efficient.

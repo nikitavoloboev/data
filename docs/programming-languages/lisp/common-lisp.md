@@ -101,3 +101,4 @@
 - [Using SBCL Common Lisp as a Dynamic Library (2022)](https://mstmetent.blogspot.com/2022/04/using-lisp-libraries-from-other.html) ([HN](https://news.ycombinator.com/item?id=31054796))
 - [How to create a new Common Lisp project (with project generator) (2022)](https://www.youtube.com/watch?v=XFc513MJjos)
 - [Common Lisp Resources (2022)](https://lisp-journey.gitlab.io/resources/) ([HN](https://news.ycombinator.com/item?id=31120359))
+- [Tutorial Series to learn Common Lisp quickly](https://github.com/rabbibotton/clog/blob/main/LEARN.md) ([HN](https://news.ycombinator.com/item?id=31178737))

@@ -321,6 +321,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pub0sub](https://github.com/itzmeanjan/pub0sub) - Fast, Lightweight Pub/Sub over TCP, QUIC - powered by Async I/O.
 - [go-libp2p-webtransport](https://github.com/marten-seemann/go-libp2p-webtransport)
 - [g8](https://github.com/TwiN/g8) - Go library for protecting your HTTP handlers.
+- [gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go.
+- [Bud](https://github.com/livebud/bud) - Full stack Go Framework for Prolific Web Developers.
 
 ## GraphQL
 
@@ -606,6 +608,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-serum](https://github.com/serum-errors/go-serum) - Implementation of the Serum Errors Specification for use in Go development.
 - [errors](https://github.com/go-faster/errors) - Clear go error wrapping with caller.
 - [failpoint](https://github.com/pingcap/failpoint) - Fail points are used to add code points where errors may be injected in a user controlled fashion.
+- [Go Result](https://github.com/bobfang1992/go-result) - Simple result type in Go 1.18.
 
 ## Other
 
@@ -1697,3 +1700,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Notify](https://github.com/nikoksr/notify) - Dead simple Go library for sending notifications to various messaging services.
 - [Crimes with Go Generics (2022)](https://christine.website/blog/gonads-2022-04-24) ([HN](https://news.ycombinator.com/item?id=31149801))
 - [Nice overview of go web frameworks / resources](https://www.reddit.com/r/golang/comments/ub742v/golang_future_web_frameworks/i63x1lq/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Making Faster B-Trees with Go Generics (2022)](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/) ([HN](https://news.ycombinator.com/item?id=31182645)) ([Reddit](https://www.reddit.com/r/golang/comments/ud9l2v/shaving_40_off_googles_btree_implementation_with/))

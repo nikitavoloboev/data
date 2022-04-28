@@ -1800,6 +1800,9 @@
 - [mtpng](https://github.com/brion/mtpng) - Parallelized PNG encoder in Rust.
 - [parquet-format-rs](https://github.com/sunchao/parquet-format-rs) - Apache Parquet format for Rust, hosting the Thrift definition file and the generated .rs file.
 - [Brotlic](https://github.com/AronParker/brotlic) - Thin wrapper around brotli.
+- [RefCast](https://github.com/dtolnay/ref-cast) - Safely cast &T to &U where the struct U contains a single field of type T.
+- [qcell](https://github.com/uazu/qcell) - Statically-checked alternatives to RefCell and RwLock.
+- [chitchat](https://github.com/quickwit-oss/chitchat) - Decentralized cluster membership in Rust. ([Article](https://quickwit.io/blog/chitchat/)) ([HN](https://news.ycombinator.com/item?id=31190586))
 
 ## Cargo Plugins
 
@@ -1873,6 +1876,7 @@
 - [cargo-lambda](https://github.com/cargo-lambda/cargo-lambda) - Cargo subcommand to help you work with AWS Lambda.
 - [cargo-action-fmt](https://github.com/olix0r/cargo-action-fmt) - Converts cargo check (and clippy) JSON output to the GitHub Action error format.
 - [rusty-hook](https://github.com/swellaby/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
+- [cargo-clone](https://github.com/JanLikar/cargo-clone) - Cargo subcommand to fetch the source code of a Rust crate.
 
 ## Links
 
@@ -1995,3 +1999,4 @@
 - [Rust traits and dependency injection (2022)](https://jmmv.dev/2022/04/rust-traits-and-dependency-injection.html) ([Lobsters](https://lobste.rs/s/yqm4uc/rust_traits_dependency_injection))
 - [Fleet](https://github.com/dimensionhq/fleet) - Blazing fast build tool for Rust. Compiling with Fleet is up-to 5x faster than with cargo. ([Web](https://fleet.rs/)) ([Reddit](https://www.reddit.com/r/rust/comments/ua09tc/experimental_fleet_a_build_tool_for_rust_thats/))
 - [Default Arguments and Label-based Overloading (2022)](https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/)
+- [Measuring the coverage of a rust program in GitHub Actions (2022)](https://blog.balthazar-rouberol.com/measuring-the-coverage-of-a-rust-program-in-github-actions)

@@ -172,3 +172,4 @@ Use [WebPageTest](https://webpagetest.org/easy) to see web page performance. I p
 - [AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - Flexible and scalable framework for running web performance audits with arbitrary audit tools.
 - [Making the world’s fastest website, and other mistakes (2022)](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 - [Hydration is pure overhead (2022)](https://www.builder.io/blog/hydration-is-pure-overhead) ([HN](https://news.ycombinator.com/item?id=31101271)) ([Tweet](https://twitter.com/mhevery/status/1516844814792224770))
+- [BundleMon](https://github.com/LironEr/bundlemon) - Monitor your bundle size.

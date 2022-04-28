@@ -241,3 +241,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [blastula](https://github.com/rstudio/blastula) - Easily send great-looking HTML email messages from R.
 - [Workflow for dealing with lots of emails](https://twitter.com/alexhillman/status/1518272222707732482)
 - [mjml-react](https://github.com/luma-team/mjml-react) - React component library to generate the HTML emails on the fly.
+- [Ask HN: Why can't I host my own email? (2022)](https://news.ycombinator.com/item?id=31180379)

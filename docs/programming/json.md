@@ -130,3 +130,5 @@ title: JSON
 - [jsonpack](https://github.com/rgcl/jsonpack) - Compression algorithm for JSON.
 - [edit-json](https://github.com/grantila/edit-json) - Edit JSON text in-place for a minimal diff.
 - [Zq: An Easier (and Faster) Alternative to Jq](https://www.brimdata.io/blog/introducing-zq/) ([HN](https://news.ycombinator.com/item?id=31166956))
+- [jaq](https://github.com/01mf02/jaq) - jq clone focused on correctness, speed, and simplicity.
+- [gq](https://github.com/hherman1/gq) - jq but using go instead. ([HN](https://news.ycombinator.com/item?id=31181898))

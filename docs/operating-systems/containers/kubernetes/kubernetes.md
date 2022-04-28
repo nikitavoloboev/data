@@ -715,3 +715,4 @@ title: Kubernetes
 - [kpt](https://github.com/GoogleContainerTools/kpt) - Git-native, schema-aware, extensible client-side tool for packaging, customizing, validating, and applying Kubernetes resources.
 - [k8s_gateway](https://github.com/ori-edge/k8s_gateway) - CoreDNS plugin to resolve all types of external Kubernetes resources.
 - [kubectl-explore](https://github.com/keisku/kubectl-explore) - Better kubectl explain with the fuzzy finder.
+- [Kubent](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs.

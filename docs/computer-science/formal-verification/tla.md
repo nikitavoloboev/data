@@ -55,3 +55,4 @@ title: TLA+
 - [Dockerfile for building the TLA+ tools](https://github.com/talex5/tla)
 - [modelator-py](https://github.com/informalsystems/modelator-py) - Utilities for the TLA+ ecosystem and model-based testing using TLA+.
 - [TLA Sequence Diagram](https://github.com/eras/tlsd) - Generate (message) sequence diagrams from TLA+ state traces.
+- [TLA+ Specification of Flexible Paxos](https://github.com/fpaxos/fpaxos-tlaplus)

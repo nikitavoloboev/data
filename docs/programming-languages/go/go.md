@@ -767,4 +767,5 @@ if err != nil {
 - [Building a Golang JSON HTTP Server (2021)](https://earthly.dev/blog/golang-http/)
 - [Golang dev with Kubernetes, Helm and Skaffold (2022)](https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/)
 - [PMGO](https://github.com/struCoder/pmgo) - Process manager for Go applications.
-- [The Go Programming Language and Environment (2022)](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext)
+- [The Go Programming Language and Environment (2022)](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) ([HN](https://news.ycombinator.com/item?id=31173395))
+- [Beating grep with Go (2022)](https://healeycodes.com/beating-grep-with-go) ([Lobsters](https://lobste.rs/s/qxwmrh/beating_grep_with_go))

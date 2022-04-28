@@ -89,3 +89,4 @@ title: Lean
 - [OpenGL Lean bindings](https://github.com/yatima-inc/OpenGL.lean)
 - [Fermat's Last Theorem for regular primes](https://github.com/leanprover-community/flt-regular)
 - [Lean-to](https://github.com/bollu/lean-to) - Jupyter shelter for your Lean4 code.
+- [Lean 4 as a scripting language in Houdini](https://github.com/lecopivo/HouLean)

@@ -524,3 +524,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [gitrevset](https://github.com/quark-zju/gitrevset) - Domain-specific-language to select commits in a git repo. Similar to Mercurial's revset.
 - [Ask HN: How are pull requests integrated in a repo with high commit frequency? (2022)](https://news.ycombinator.com/item?id=31108828)
 - [FlyCode](https://www.flycode.com/) - Git-Based Copy and Translations Editor for Web Apps. ([HN](https://news.ycombinator.com/item?id=31166924))
+- [How to write a Git commit message (2014)](https://cbea.ms/git-commit/) ([HN](https://news.ycombinator.com/item?id=31173484))

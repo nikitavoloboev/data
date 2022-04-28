@@ -416,6 +416,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 - [Fixmie](https://fixmie.com/) - Automated code fixes.
 - [Magicsheets](https://www.magicsheets.io/) - Machine Learning in your spreadsheet. ([HN](https://news.ycombinator.com/item?id=28643834))
+- [PanDiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc.
 - [Orca](https://getorca.org/) - Build modern community apps with React and Node. ([Code](https://github.com/ElevenSymbols/orca))
 - [Upptime](https://upptime.js.org/) - GitHub-powered open-source uptime monitor and status page. ([Code](https://github.com/upptime/upptime)) ([HN](https://news.ycombinator.com/item?id=25553445))
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.

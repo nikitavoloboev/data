@@ -160,3 +160,5 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [Inoreader](https://www.inoreader.com/) - Web-based content and RSS feed reader. ([Discord](https://discord.gg/urgt548q9Q)) ([HN](https://news.ycombinator.com/item?id=31142633))
 - [Ask HN: What are you using for a RSS Reader? (2022)](https://news.ycombinator.com/item?id=31141160)
 - [What's your preferred RSS Reader? (2022)](https://twitter.com/simonw/status/1518618079328055296)
+- [feedpushr](https://github.com/ncarlier/feedpushr) - Simple feed aggregator service with sugar on top.
+- [ReadFlow](https://about.readflow.app/) - Read your Internet article flow in one place with complete peace of mind and freedom. ([Code](https://github.com/ncarlier/readflow))

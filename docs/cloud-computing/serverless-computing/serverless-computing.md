@@ -161,3 +161,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [After 5 years, I'm out of the serverless compute cult (2022)](https://dev.to/brentmitchell/after-5-years-im-out-of-the-serverless-compute-cult-3f6d)
 - [Serverless Application Stack (2021)](https://jbrandhorst.com/post/serverless-application-stack/)
 - [Edge Functions on Netlify Examples](https://edge-functions-examples.netlify.app/)
+- [Fastly Compute@Edge starter kit with Hono](https://github.com/honojs/compute-starter-kit)

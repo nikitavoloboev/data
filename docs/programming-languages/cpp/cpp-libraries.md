@@ -390,6 +390,7 @@
 - [Chrono](https://github.com/projectchrono/chrono) - High-performance C++ library for multiphysics and multibody dynamics simulations.
 - [xorstr](https://github.com/JustasMasiulis/xorstr) - Heavily vectorized c++17 compile time string encryption.
 - [transwarp](https://github.com/bloomen/transwarp) - Header-only C++ library for task concurrency.
+- [Serdepp](https://github.com/injae/serdepp) - C++ serialize and deserialize adaptor library like rust serde.rs.
 
 ## Links
 

@@ -149,3 +149,4 @@ title: Erlang
 - [spell1](https://github.com/rvirding/spell1) - LL(1) parser generator for Erlang and LFE.
 - [Type-Based Optimizations in the JIT (2022)](https://www.erlang.org/blog/type-based-optimizations-in-the-jit/)
 - [Eir Project](https://github.com/eirproject/eir) - Erlang compiler and IR implemented in Rust.
+- [Introducing Rebar3 TypEr (2022)](https://tech.nextroll.com/blog/dev/2022/04/27/rebar3-typer.html)

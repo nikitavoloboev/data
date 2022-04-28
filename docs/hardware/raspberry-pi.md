@@ -119,3 +119,4 @@ title: Raspberry Pi
 - [EuroPi](https://github.com/Allen-Synthesis/EuroPi) - Reprogrammable Eurorack module based on the Raspberry Pi Pico.
 - [dockerpi](https://github.com/lukechilds/dockerpi) - Virtualised Raspberry Pi inside a Docker image.
 - [NixOS on the Raspberry Pi Zero W](https://github.com/cyber-murmel/nixos-rpi-zero-w)
+- [External graphics cards work on the Raspberry Pi (2022)](https://www.jeffgeerling.com/blog/2022/external-graphics-cards-work-on-raspberry-pi) ([Lobsters](https://lobste.rs/s/ihxrlv/external_graphics_cards_work_on))

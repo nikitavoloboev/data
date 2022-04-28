@@ -192,3 +192,4 @@ title: Spatial analysis
 - [Mapr](https://github.com/maplibre/maplibre-rs) - Native cross platform maps in Rust using WebGPU. ([HN](https://news.ycombinator.com/item?id=31086087))
 - [Faster Geospatial Enrichment: PostgreSQL vs. ClickHouse vs. BigQuery (2022)](https://tech.marksblogg.com/faster-geospatial-enrichment.html) ([HN](https://news.ycombinator.com/item?id=31093376))
 - [Placemark](https://www.placemark.io/) - Create, edit, and convert the data that powers maps, in real-time with your team.
+- [Using LEOs and GEOs (2022)](https://www.potaroo.net/ispcol/2022-04/leogeo.html) ([HN](https://news.ycombinator.com/item?id=31190247))

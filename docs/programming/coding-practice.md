@@ -38,6 +38,7 @@
 - [Python & Java](https://github.com/qiyuangong/leetcode)
 - [C](https://github.com/begeekmyfriend/leetCode)
 - [C++](https://github.com/lzl124631x/LeetCode)
+- [C++ 2](https://github.com/wisdompeak/LeetCode)
 - [Swift](https://github.com/soapyigu/LeetCode-Swift)
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
 - [Swift 3](https://github.com/BugenZhao/LeetCode.playground)

@@ -50,3 +50,4 @@ I prefer [tRPC](https://trpc.io/) or [GraphQL](graphql/graphql.md).
 - [How to build a Dockerized RESTful API application using Go](https://github.com/learning-cloud-native-go/myapp)
 - [SOFA](https://github.com/Urigo/SOFA) - Best way to create REST APIs - Generate RESTful APIs from your GraphQL Server.
 - [PactumJS](https://github.com/pactumjs/pactum) - REST API Testing Tool for all levels in a Test Pyramid.
+- [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/) ([Code](https://github.com/zalando/restful-api-guidelines))

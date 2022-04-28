@@ -59,3 +59,5 @@ Here is a list of various things I track for my own use and reference.
 - [klog](https://github.com/jotaen/klog) - Command line tool for time tracking in a human-readable, plain-text file format. ([Web](https://klog.jotaen.net/))
 - [HomeSheet](https://homesheet.co/) - Home Inventory Software. ([HN](https://news.ycombinator.com/item?id=30919445))
 - [Orbit](https://timeinorbit.com/) - Time Tracking & Invoicing. ([Twitter](https://twitter.com/timeinorbit))
+- [FxLifeSheet](https://howisfelix.today/?) - Tracking the key metrics of my life. ([Code](https://github.com/KrauseFx/FxLifeSheet))
+- [I put my whole life into a single database (2022)](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) ([HN](https://news.ycombinator.com/item?id=31186696))

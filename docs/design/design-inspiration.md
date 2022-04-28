@@ -464,6 +464,7 @@ Here are few more things I liked, design wise. [Linear is pretty great](https://
 - [Monica Lent](https://monicalent.com/)
 - [Daniel Hollick](https://alcohollick.com/)
 - [Hugo Zapata](https://hugozap.com/)
+- [Felix Krause](https://krausefx.com/)
 - [Lota Plezere](https://ninuce.github.io/)
 - [Victoria Drake](https://victoria.dev/) ([Code](https://github.com/victoriadrake/victoriadrake.github.io))
 - [Matthias Ott](https://matthiasott.com/)

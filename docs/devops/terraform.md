@@ -121,7 +121,7 @@ title: Terraform
 - [Terraform Provider for ArgoCD](https://github.com/oboukili/terraform-provider-argocd)
 - [Terraform Controller](https://github.com/oam-dev/terraform-controller) - Kubernetes Controller for Terraform.
 - [m1-terraform-provider-helper](https://github.com/kreuzwerker/m1-terraform-provider-helper) - CLI to support with downloading and compiling terraform providers for Mac with M1 chip.
-- [Terraform provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify) - Manage playlists.
+- [Terraform Provider for Spotify](https://github.com/conradludgate/terraform-provider-spotify) - Manage playlists. ([HN](https://news.ycombinator.com/item?id=31187391))
 - [Terraform State Mover](https://github.com/mbode/terraform-state-mover) - Helps refactoring terraform code by offering an interactive prompt for the terraform state mv command.
 - [How GitHub uses Terraform/Consul/Vault](https://www.hashicorp.com/case-studies/github)
 - [TerraHub](https://github.com/tfxor/terrahub) - Terraform Automation and Orchestration Tool.
@@ -160,3 +160,4 @@ title: Terraform
 - [Learn Terraform (and AWS) by Building a Dev Environment (2022)](https://www.youtube.com/watch?v=iRaai1IBlB0)
 - [Pulumi as an alternative for Terraform? (2022)](https://www.reddit.com/r/devops/comments/ua3oby/pulumi_as_an_alternative_for_terraform/)
 - [Terraform Plugin Go](https://github.com/hashicorp/terraform-plugin-go) - Low-level Go binding for the Terraform protocol for integrations to be built on top of.
+- [Unknown Values: The Secret to Terraform Plan (2021)](https://log.martinatkins.me/2021/06/14/terraform-plan-unknown-values/) ([HN](https://news.ycombinator.com/item?id=31175498))

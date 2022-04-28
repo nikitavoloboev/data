@@ -493,3 +493,4 @@ all: unset
 - [The Future of CSS: CSS Toggles (2022)](https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/)
 - [Stylify](https://stylify.dev/) - Library that generates utility-first CSS dynamically based on what you write. ([Code](https://github.com/stylify/packages))
 - [CSS GUI](https://github.com/components-ai/css.gui) - Visual development environment for CSS.
+- [18 GitHub Repositories to Become a CSS Master (2022)](https://madza.hashnode.dev/18-github-repositories-to-become-a-css-master)

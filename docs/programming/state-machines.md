@@ -29,3 +29,4 @@
 - [Rabia: Simplifying State-Machine Replication Through Randomization (2021)](https://dl.acm.org/doi/10.1145/3477132.3483582) ([Code](https://github.com/haochenpan/rabia))
 - [Modelling Statecharts: A step-by-step guide (2022)](https://www.youtube.com/watch?v=wykDyFwr8Lk)
 - [State Machine Replication, and Why You Should Care (2022)](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/) ([HN](https://news.ycombinator.com/item?id=31100023))
+- [Zag](https://zagjs.com/) - UI components powered by Finite State Machines. ([Code](https://github.com/chakra-ui/zag)) ([Docs Code](https://github.com/chakra-ui/zag-docs))

@@ -173,3 +173,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [How is dating typically like in your country? (2022)](https://www.reddit.com/r/AskEurope/comments/twqwey/how_is_dating_typically_like_in_your_country/)
 - [Lesson you've learnt from a past relationship to never repeat in your future relationships?](https://www.reddit.com/r/AskWomen/comments/u70wkh/girls_whats_a_lesson_youve_learnt_from_a_past/)
 - [What dating mistakes do you think women make?](https://www.reddit.com/r/AskMen/comments/u9dlen/what_dating_mistakes_do_you_think_women_make/)
+- [Допускаете, что у вас может не быть в дальнейшем семьи/детей/партнёра/партнёрши?](https://twitter.com/tomnaya_satana/status/1519009634408873988)
+- [Men who no longer date and are okay with it, why? (2022)](https://www.reddit.com/r/AskMen/comments/uce8ux/men_who_no_longer_date_and_are_okay_with_it_why/)

@@ -228,3 +228,5 @@
 - [Giggle](https://github.com/dan-lovelace/giggle) - Self-hosted, customizable and ad-free Google Search experience. ([HN](https://news.ycombinator.com/item?id=31067354))
 - [Fast Autocomplete Search for Your Website](https://simonwillison.net/2018/Dec/19/fast-autocomplete-search/)
 - [Spyglass](https://github.com/a5huynh/spyglass) - Personal, self-hosted search engine.
+- [Susper](https://susper.com/) - Decentralized Search Engine that uses the peer to peer system YaCy and Apache Solr to crawl and index search results. ([Code](https://github.com/fossasia/susper.com))
+- [Google This](https://github.com/LuanRT/google-this) - Simple yet powerful module to retrieve organic search results and much more from Google.

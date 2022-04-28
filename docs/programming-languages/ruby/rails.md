@@ -159,3 +159,4 @@ title: Rails
 - [maybe_later](https://github.com/testdouble/maybe_later) - Run code after the current Rack response or Rails action completes.
 - [notifications-rails](https://github.com/jonhue/notifications-rails) - Flexible notification library supporting the delivery to external services, rendering in various environments, and user configuration by category.
 - [Performance at GitHub: deferring stats with rack.after_reply (2022)](https://github.blog/2022-04-11-performance-at-github-deferring-stats-with-rack-after_reply/)
+- [Ask HN: Is Ruby on Rails still relevant? (2022)](https://news.ycombinator.com/item?id=31170481)

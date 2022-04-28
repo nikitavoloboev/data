@@ -53,3 +53,4 @@ title: Caddy
 - [Caddy NGINX Config Adapter](https://github.com/caddyserver/nginx-adapter) - Run Caddy with your NGINX config.
 - [Transform Encoder Module for Caddy's Logger](https://github.com/caddyserver/transform-encoder) - Log encoder module for custom log formats.
 - [caddy-jsonselect-encoder](https://github.com/leodido/caddy-jsonselect-encoder) - Pick what to log in JSON format.
+- [Caddy v2.5.0 (2022)](https://github.com/caddyserver/caddy/releases/tag/v2.5.0) ([HN](https://news.ycombinator.com/item?id=31170280))

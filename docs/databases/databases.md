@@ -228,6 +228,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Realm](https://realm.io/) - Mobile database: an alternative to SQLite & key-value stores. ([Code](https://github.com/realm/realm-js))
 - [Instant](https://www.instantdb.dev/) - Graph Database on the Client.
 - [Apache CouchDB](https://github.com/apache/couchdb) - Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability. ([Web](https://couchdb.apache.org/)) ([Web Code](https://github.com/apache/couchdb-www))
+- [PranaDB](https://github.com/cashapp/pranadb) - Distributed streaming database, designed from the outset to be horizontally scalable.
 
 ## Tools
 
@@ -575,7 +576,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Building data-centric apps with a reactive relational database (2022)](https://riffle.systems/essays/prelude/) ([Tweet](https://twitter.com/nschiefer/status/1499075134715531266)) ([Tweet](https://twitter.com/geoffreylitt/status/1499083601387864069))
 - [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work) ([HN](https://news.ycombinator.com/item?id=30594233))
 - [Database Naming Convention](https://github.com/RootSoft/Database-Naming-Convention)
-- [RepliByte](https://github.com/Qovery/replibyte) - Simplest Way To Synchronize Your Cloud Databases.
+- [RepliByte](https://github.com/Qovery/replibyte) - Tool to seed your dev database with real data. ([HN](https://news.ycombinator.com/item?id=31165538))
 - [Amazon Aurora: Design Considerations + On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes (2022)](https://muratbuffalo.blogspot.com/2022/03/amazon-aurora-design-considerations-and.html?m=1)
 - [SQL/NoSQL DB Guide](https://github.com/mikeroyal/SQL-NoSQL-Guide)
 - [IMDBench](https://github.com/edgedb/imdbench) - Benchmarking ORMs with realistic queries.
@@ -587,3 +588,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Klepto](https://github.com/hellofresh/klepto) - Tool for copying and anonymising data.
 - [Databases to keep an eye on (2022)](https://pradeepchhetri.xyz/databasestokeepaneyeon/)
 - [QuestDB: Fast Open Source Time Series Database (Vlad Ilyushchenko) (2022)](https://www.youtube.com/watch?v=AxxutZ0v3HE)
+- [Vectorization in OLAP Databases (2022)](https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/)

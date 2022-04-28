@@ -733,3 +733,5 @@
 - [3D Human Pose Estimation with Spatial and Temporal Transformers (2021)](https://arxiv.org/abs/2103.10455) ([Code](https://github.com/zczcwh/PoseFormer))
 - [3D human pose estimation in video with temporal convolutions and semi-supervised training (2019)](https://arxiv.org/abs/1811.11742) ([Code](https://github.com/facebookresearch/VideoPose3D))
 - [MC-Calib: A generic and robust calibration toolbox for multi-camera systems (2022)](https://www.sciencedirect.com/science/article/abs/pii/S1077314221001818) ([Code](https://github.com/rameau-fr/MC-Calib))
+- [Understanding The Robustness in Vision Transformers (2022)](https://arxiv.org/abs/2204.12451) ([Code](https://github.com/NVlabs/FAN))
+- [Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation (2021)](https://arxiv.org/abs/2111.14826) ([Code](https://github.com/liuzechun/Nonuniform-to-Uniform-Quantization))

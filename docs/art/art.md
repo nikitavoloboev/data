@@ -517,3 +517,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Japanese Screens in Miniature (1960)](https://blogs.library.duke.edu/preservation/2022/04/13/miniature-screens/)
 - [Playgrounds](https://weareplaygrounds.nl/)
 - [Multimodal Art](https://multimodal.art/)
+- [Искусство тонких черт: иллюстрации художника Shal.E (2022)](https://disgustingmen.com/art/illyustratsii-hudozhnika-shal-e/)

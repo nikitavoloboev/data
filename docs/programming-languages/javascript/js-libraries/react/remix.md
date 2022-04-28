@@ -44,6 +44,7 @@ title: Remix
 
 ## Plugins
 
+- [Remix Routes](https://github.com/yesmeck/remix-routes) - Typesafe routing for your Remix apps.
 - [remix-redis-session](https://github.com/DAlperin/remix-redis-session) - Simple library to use redis as your session backing store in your remix project.
 - [Remix Auth - Supabase Strategy](https://github.com/mitchelvanbever/remix-auth-supabase-strategy)
 - [OAuth2Strategy](https://github.com/sergiodxa/remix-auth-oauth2) - OAuth2Strategy for Remix Auth.

@@ -134,7 +134,7 @@
 - [Elixir Thrift](https://github.com/pinterest/elixir-thrift)
 - [Uncharted](https://github.com/unchartedelixir/uncharted) - Simple Elixir charting library that generates easy to customize charts.
 - [Rustic Result](https://github.com/linkdd/rustic_result) - Result monad for Elixir inspired by Rust Result type. ([HN](https://news.ycombinator.com/item?id=28913884))
-- [Explorer](https://github.com/elixir-nx/explorer) - Dataframes for Elixir.
+- [Explorer](https://github.com/elixir-nx/explorer) - Dataframes for Elixir. ([Intro](https://www.cigrainger.com/posts/introducing-explorer/))
 - [Burrito](https://github.com/burrito-elixir/burrito) - Cross-Platform Elixir Deployments.
 - [ex_cldr](https://github.com/elixir-cldr/cldr) - Elixir implementation of CLDR/ICU.
 - [TypedStruct](https://github.com/ejpcmac/typed_struct) - Library for defining structs with a type without writing boilerplate code.
@@ -189,3 +189,4 @@
 - [A Guide to Secure Elixir Package Updates (2022)](https://blog.appsignal.com/2022/03/15/a-guide-to-secure-elixir-package-updates.html)
 - [How EEx Turns Your Template Into HTML (2022)](https://www.mitchellhanberg.com/how-eex-turns-your-template-into-html/)
 - [Elixir runtime configuration trap (2022)](https://michaldolata.appunite.com/post/elixir-runtime-configuration-trap)
+- [Lettuce](https://github.com/gilacost/lettuce) - Code watcher for elixir projects.

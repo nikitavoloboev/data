@@ -42,6 +42,7 @@ title: Gatsby JS
 - [gatsby-plugin-s3](https://github.com/jariz/gatsby-plugin-s3) - Deploy your gatsby site to a S3 bucket.
 - [gatsby-remark-embedder](https://github.com/MichaelDeBoey/gatsby-remark-embedder) - Gatsby Remark plugin to embed well known services by their URL.
 - [gatsby-plugin-typegen](https://github.com/cometkim/gatsby-plugin-typegen) - High-performance TypeScript/Flow code generation for GatsbyJS queries.
+- [Gatsby Plugin Next](https://github.com/hightouchio/gatsby-plugin-next) - Gatsby plugin for incremental migration to Next.js by polyfilling Next.js APIs.
 
 ## Links
 

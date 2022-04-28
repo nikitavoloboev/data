@@ -34,3 +34,5 @@ title: Mastodon
 - [Tooty](https://github.com/cblgh/tooty) - Custom mastodon client, intend solely for posting.
 - [Kat's Mastodon Quickstart for Twitter Users](https://dev.to/zkat/kat-s-mastodon-quickstart-for-twitter-users-39db)
 - [HN: Mastodon (2022)](https://news.ycombinator.com/item?id=31164135)
+- [Mastodon-Twitter Crossposter](https://github.com/renatolond/mastodon-twitter-poster)
+- [Twitter buyout puts Mastodon into spotlight (2022)](https://blog.joinmastodon.org/2022/04/twitter-buyout-puts-mastodon-into-spotlight/) ([HN](https://news.ycombinator.com/item?id=31175527))

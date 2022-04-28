@@ -4,6 +4,8 @@ I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shel
 
 I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I also [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
 
+Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/) on iPad.
+
 ## Awesome Online games
 
 - [WikiBattle](https://wikibattle.me/) - 1v1 race who first reaches a randomly selected article.
@@ -200,6 +202,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [What is in your opinion one MUST play game from the last 20 years? (2022)](https://www.reddit.com/r/patientgamers/comments/u5j9cb/what_is_in_your_opinion_one_must_play_game_from/)
 - [What are you currently playing on PS?](https://www.reddit.com/r/PS4/comments/u7ieii/what_are_you_currently_playing/)
 - [What is your most anticipated game of 2022?](https://www.reddit.com/r/gaming/comments/u9115z/what_is_your_most_anticipated_game_of_2022/)
+- [Open-World RPG Recommendations (2022)](https://www.reddit.com/r/PS5/comments/ud2rhc/need_openworld_rpg_recommendations/)
 
 ## Links
 
@@ -303,3 +306,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - Backup tool for PC game saves.
 - [Strangemood](https://www.strangemood.org/) - Decentralized marketplace for software licenses: an app store. Mostly for games. ([Code](https://github.com/strangemoodfoundation/strangemood))
 - [Valve Software Archive](https://valvearchive.com/) ([HN](https://news.ycombinator.com/item?id=30894163))
+- [Can you be sure to clear a line at Tetris? (2022)](https://a3nm.net/blog/adversarial_tetris.html)

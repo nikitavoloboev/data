@@ -260,3 +260,4 @@
 - [Your computer is a distributed system](http://catern.com/compdist.html) ([HN](https://news.ycombinator.com/item?id=30855419))
 - [Consul at Fly.io (2022)](https://fly.io/blog/a-foolish-consistency/) ([Lobsters](https://lobste.rs/s/spvdwx/consul_at_fly_io)) ([HN](https://news.ycombinator.com/item?id=30857047))
 - [MatrixCube](https://github.com/matrixorigin/matrixcube) - Fundamental Building Block for Elastic Storage With Strong Consistency and Reliability.
+- [A Brief History of High Availability (2021)](https://www.cockroachlabs.com/blog/brief-history-high-availability/) ([HN](https://news.ycombinator.com/item?id=31166079))

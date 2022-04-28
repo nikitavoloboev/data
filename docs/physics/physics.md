@@ -301,3 +301,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Faster-than-light communication - Wikipedia](https://en.wikipedia.org/wiki/Faster-than-light_communication)
 - [Collection of Database and Dataset Resources in Materials Science](https://github.com/sedaoturak/data-resources-for-materials-science)
 - [Lectures on Faster-than-Light Travel and Time Travel (2019)](https://arxiv.org/abs/1907.04178) ([HN](https://news.ycombinator.com/item?id=31156276))
+- [It took me 10 years to understand entropy (2022)](https://www.cantorsparadise.com/it-took-me-10-years-to-understand-entropy-here-is-what-i-learned-b2d51e8ccd4c) ([HN](https://news.ycombinator.com/item?id=31164725))

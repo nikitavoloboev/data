@@ -195,7 +195,7 @@
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) (2020)](http://jalammar.github.io/illustrated-gpt2/)
 - [A Primer in BERTology: What we know about how BERT works (2020)](https://arxiv.org/abs/2002.12327) ([HN](https://news.ycombinator.com/item?id=25043280))
 - [GPT Neo](https://github.com/EleutherAI/gpt-neo/) - Open-source GPT model, with pretrained 1.3B & 2.7B weight models. ([HN](https://news.ycombinator.com/item?id=26534000))
-- [Text Synth](https://bellard.org/textsynth/) - Text completion using the GPT-2 language model.
+- [TextSynth](https://textsynth.com/) - Bellard's free GPT-NeoX-20B, GPT-J playground and paid API. ([Playground](https://textsynth.com/playground.html)) ([HN](https://news.ycombinator.com/item?id=31175291))
 - [How to Go from NLP in 1 Language to NLP in N Languages in One Shot (2020)](https://x.ai/how-to-go-from-nlp-in-1-language-to-nlp-in-n-languages-in-one-shot/)
 - [Contextualized Topic Models](https://github.com/MilaNLProc/contextualized-topic-models) - Family of topic models that use pre-trained representations of language (e.g., BERT) to support topic modeling.
 - [Language Style Transfer](https://github.com/shentianxiao/language-style-transfer) - Code for [Style Transfer from Non-Parallel Text by Cross-Alignment](https://arxiv.org/abs/1705.09655) paper.
@@ -558,3 +558,4 @@
 - [DLATK](https://github.com/dlatk/dlatk) - End to end human text analysis package, specifically suited for social media and social scientific applications.
 - [Language modeling via stochastic processes (2022)](https://arxiv.org/abs/2203.11370) ([Code](https://github.com/rosewang2008/language_modeling_via_stochastic_processes))
 - [An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling (2022)](https://arxiv.org/abs/2109.13023) ([Code](https://github.com/Wangpeiyi9979/ESD))
+- [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization (2021)](https://arxiv.org/abs/1911.03437) ([Code](https://github.com/archinetai/smart-pytorch))

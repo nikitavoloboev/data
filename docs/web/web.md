@@ -377,7 +377,7 @@
 - [Notes on the small web (2022)](https://felix.plesoianu.ro/web/in-the-small.html)
 - [How to use undocumented web APIs (2022)](https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/)
 - [Webhooked](https://github.com/42Atomys/webhooked) - Web hook receiver on steroids.
-- [Functional Web App (FWA)](https://fwa.dev/)
+- [Functional Web App (FWA)](https://fwa.dev/) - Architectural pattern for building web applications and APIs. ([Code](https://github.com/functional-web-app/fwa.dev))
 - [Rendering Patterns](https://www.patterns.dev/posts/rendering-patterns/)
 - [BBS](https://github.com/net4people/bbs/issues) - Forum for discussing Internet censorship circumvention.
 - [uncover](https://github.com/projectdiscovery/uncover) - Quickly discover exposed hosts on the internet using multiple search engine.

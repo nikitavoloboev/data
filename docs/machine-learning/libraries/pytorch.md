@@ -396,3 +396,4 @@ title: PyTorch
 - [PyTorch Benchmarks](https://github.com/pytorch/benchmark) - Collection of open source benchmarks used to evaluate PyTorch performance.
 - [Torchprofile](https://github.com/zhijian-liu/torchprofile) - General and accurate MACs / FLOPs profiler for PyTorch models.
 - [K Means using PyTorch](https://github.com/subhadarship/kmeans_pytorch)
+- [surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - Library to inspect itermediate layers of PyTorch models. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/uddtfk/p_surgeonpytorch_a_small_library_to_inspect/))

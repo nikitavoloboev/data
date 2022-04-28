@@ -252,6 +252,7 @@ title: TypeScript
 - [TypeScript Congress](https://typescriptcongress.com/)
 - [TypeScript tips and Tricks with Matt (2022)](https://www.youtube.com/watch?v=hBk4nV7q6-w)
 - [TypeScript and Set Theory (2022)](https://ivov.dev/notes/typescript-and-set-theory)
+- [TypeScript Error Translator](https://ts-error-translator.vercel.app/) - Translate your TypeScript errors into plain English. ([Code](https://github.com/mattpocock/ts-error-translator))
 
 ## Images
 

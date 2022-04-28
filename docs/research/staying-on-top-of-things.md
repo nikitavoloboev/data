@@ -262,3 +262,5 @@ And these Discord servers:
 - [HN Replies](https://hnreplies.com/) - Email Notifications for Hacker News Comment Replies. ([HN](https://news.ycombinator.com/item?id=30979295))
 - [HN Go lib](https://github.com/matthewmueller/hackernews) - Simple Hacker News client for Go.
 - [Subreply News](https://subreply.com/news) - English-only, public forum that has nothing in common with ancient and untrustworthy social networks.
+- [Sqwok](https://sqwok.im/) - Social chat alternative to Twitter and Reddit. ([HN](https://news.ycombinator.com/item?id=31160302))
+- [Ask HN: Do you feel overwhelmed by the amount of information? (2022)](https://news.ycombinator.com/item?id=31185038)

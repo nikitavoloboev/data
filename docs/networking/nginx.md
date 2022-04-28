@@ -79,3 +79,6 @@ title: Nginx
 - [Zestginx](https://github.com/ZestProjects/zestginx) - Modern, performant, and secure NGINX distribution packed with features.
 - [NGINX JavaScript examples](https://github.com/nginx/njs-examples)
 - [nginxfmt](https://github.com/jamesog/nginxfmt) - Nginx configuration formatter, inspired by gofmt.
+- [Ledge](https://github.com/ledgetech/ledge) - RFC compliant and ESI capable HTTP cache for Nginx / OpenResty, backed by Redis.
+- [Lua Resty HTTP](https://github.com/ledgetech/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua.
+- [Lua Resty Redis Connector](https://github.com/ledgetech/lua-resty-redis-connector) - Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel.

@@ -141,3 +141,4 @@ title: Redis
 - [Webdis](https://github.com/nicolasff/webdis) - Redis HTTP interface with JSON output. ([Web](https://webd.is/))
 - [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) - Official Redis GUI.
 - [Redis RDB Tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON.
+- [Lua Resty qless](https://github.com/ledgetech/lua-resty-qless) - Lua binding to Qless (Queue / Pipeline management) for OpenResty / Redis.

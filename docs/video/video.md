@@ -346,3 +346,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Vidio](https://github.com/AlexEidt/Vidio) - FFmpeg wrapper providing simple, cross-platform Video I/O and Webcam Streaming in Go. ([HN](https://news.ycombinator.com/item?id=31053274))
 - [MovieGo](https://github.com/mowshon/moviego) - Go library for video editing.
 - [Why every Johnny Harris video goes viral (2022)](https://www.youtube.com/watch?v=dIKsEhX-vyU)
+- [Ask HN: Which small video editor do you use? (2022)](https://news.ycombinator.com/item?id=31179678)

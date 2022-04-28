@@ -177,3 +177,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Gatus](https://github.com/TwiN/gatus) - Automated service health dashboard. ([Web](https://gatus.io/))
 - [Lightweight Cluster/Cloud VM Job Management](https://github.com/mle-infrastructure/mle-scheduler)
 - [Echoes HQ](https://www.echoeshq.com/) - Developer-friendly activity reports.
+- [Gasper](https://github.com/sdslabs/gasper) - Intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.
