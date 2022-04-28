@@ -145,3 +145,5 @@ I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the 
 - [«В процессе потеряла сознание и даже этому рада». Что мы знаем об изнасилованиях, совершенных в Украине российскими солдатами (2022)](https://zona.media/article/2022/04/17/rape)
 - [Photojournalist describes what Russia left behind in Bucha: ‘It’s apocalyptic’ (2022)](https://news.yahoo.com/photojournalist-describes-what-russia-left-behind-in-bucha-its-apocalyptic-090001901.html) ([Tweet](https://twitter.com/IlvesToomas/status/1517570512116981760))
 - [My story of the evacuation of the inhabitants of Mariupol](https://www.youtube.com/watch?v=OUtK2lLLRK4)
+- [Детей обезболивали перед смертью. Исповедь Андрея Сербина — врача с Левого берега Мариуполя (2022)](https://svoi.city/articles/208734/ispoved-vracha-s-levogo-berega-mariupolya)
+- [Photos from Mariupol](https://twitter.com/kinvshchuk/status/1518858568010768384)

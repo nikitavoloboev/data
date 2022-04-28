@@ -44,3 +44,4 @@
 - [Awesome ReScript](https://github.com/fhammerschmidt/awesome-rescript)
 - [PPX_ts](https://github.com/green-labs/ppx_ts) - ReScript preprocessor, which helps generating helper types to bind to typescript modules.
 - [ReScript Brazil](https://github.com/rescriptbr)
+- [ReScript Project Template](https://github.com/rescript-lang/rescript-project-template)

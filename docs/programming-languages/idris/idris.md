@@ -82,3 +82,4 @@ title: Idris
 - [Yaffle](https://github.com/edwinb/Yaffle) - Core language and API for dependently typed languages.
 - [Tree Sitter grammar for Idris 2](https://github.com/gwerbin/tree-sitter-idris2)
 - [Generating Idris2 code based on Dependent State Automata diagrams](https://github.com/CodingCellist/idris2-dsa-gen)
+- [Idris2 Hashable](https://github.com/Z-snails/Idris2-hashable) - Interface for types that can be hashed.

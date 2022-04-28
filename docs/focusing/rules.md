@@ -21,8 +21,8 @@
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
 - Always seek to improve and change myself, not others. [Grass is not greener on the other side, it's greener where you water it](https://coachcarly.com/blogs/the-grass-isnt-greener-on-the-other-side-its-greener-where-you-water-it/). Don't dwell on imperfections, find beauty in everything.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories.
-- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Let past go. Don't fixate on anything (people/items/..). Anything outside of this moment is imagination. Move onwards. Live through each moment.
+- Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories. Be a great friend.
+- Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Don't fixate on anything (people/items/..). Anything outside of this moment is imagination. Move onwards. Live each moment. Let past go.
 - Happiness comes from being grateful and appreciative for what I already have. Don't waste time trying to measure my success/happiness by what anyone else thinks it should be.
 - [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close [relationships](../relationships/relationships.md). Look towards the [future](../future/future.md). Be optimistic. Appreciate what I have.
 

@@ -48,3 +48,4 @@
 - [Observable notebook backups](https://github.com/endpointservices/observable-notebooks)
 - [BlocklyML](https://blocklyml.herokuapp.com/) - Simple visual programming Tool for python and ML. Built on Google Blockly. ([Code](https://github.com/chekoduadarsh/BlocklyML))
 - [Crosscut: Drawing Dynamic Models (2022)](https://www.inkandswitch.com/crosscut/)
+- [Awesome Flow-Based Programming (FBP) Resources](https://github.com/samuell/awesome-fbp)

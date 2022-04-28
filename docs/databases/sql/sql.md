@@ -191,3 +191,4 @@ title: SQL
 - [More SQL Parsing](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON so we can translate it for other datastores.
 - [Analyzing iMessage with SQL (2022)](https://arctype.com/blog/search-imessage/)
 - [Balsa](https://github.com/balsa-project/balsa) - Learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine.
+- [Learn BigQuery](https://scosco.github.io/learn-bigquery/)
