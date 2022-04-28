@@ -124,3 +124,5 @@
 - [libzip](https://github.com/nih-at/libzip) - C library for reading, creating, and modifying zip archives.
 - [The smallest 256x256 single-color PNG file, and where you've seen it](https://www.mjt.me.uk/posts/smallest-png/)
 - [Efficient Compression Tool](https://github.com/fhanau/Efficient-Compression-Tool) - C++ file optimizer. It supports PNG, JPEG, GZIP and ZIP files.
+- [WASM PNG Image compressor](https://github.com/antelle/wasm-image-compressor)
+- [libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers.

@@ -1,5 +1,7 @@
 # Data Visualization
 
+[Vega](https://vega.github.io/) is great.
+
 ## Nice examples
 
 - [America’s Highest Earners And Their Taxes Revealed](https://projects.propublica.org/americas-highest-incomes-and-taxes-revealed/)
@@ -152,3 +154,4 @@
 - [datasette-dashboards](https://github.com/rclement/datasette-dashboards) - Datasette plugin providing data dashboards from metadata.
 - [Webviz](https://webviz.io/) - Visualizing robotics data in the browser. ([Code](https://github.com/cruise-automation/webviz))
 - [Atlas](https://github.com/IQTLabs/atlas) - Visualization tool for creating customizable, interactive graphs in a browser using Python and Dash Cytoscape.
+- [Scalable Vega](https://github.com/vega/scalable-vega) - Demo of scaling Vega to millions of records.

@@ -64,7 +64,7 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Aleph.js](https://github.com/postui/aleph.js) - React Framework in Deno, inspired by Next.js. ([Web](https://alephjs.org/)) ([Web Code](https://github.com/alephjs/alephjs.org))
 - [Deno WASM](https://github.com/sanderhahn/deno_wasm) - Deno WASM experiments.
 - [deno_swc](https://github.com/nestdotland/deno_swc) - SWC compiler for Deno.
-- [denoify](https://github.com/garronej/denoify) - Node to Deno Transpiler.
+- [denoify](https://github.com/garronej/denoify) - Node to Deno Transpiler. ([Example](https://github.com/garronej/my_dummy_npm_and_deno_module))
 - [Deno Cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for Deno.
 - [Kopo Cli](https://github.com/littletof/kopo-cli) - Deno registry browser in the terminal.
 - [Stampede](https://github.com/bashovski/stampede) - Deno REST framework/eco-system. ([HN](https://news.ycombinator.com/item?id=25094724))
