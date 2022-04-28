@@ -607,3 +607,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Programming DeFi: Uniswap V2 (2022)](https://jeiwan.net/posts/programming-defi-uniswapv2-1/)
 - [Simple, fast, and modern dApp for minting NFTs](https://github.com/kjmczk/nextjs-nft-mint-dapp)
 - [Sourcify](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service.
+- [Yield Protocol Vault v2](https://github.com/yieldprotocol/vault-v2) - Collateralized Debt Engine for zero-coupon bonds, loosely integrated with YieldSpace Automated Market Makers.
