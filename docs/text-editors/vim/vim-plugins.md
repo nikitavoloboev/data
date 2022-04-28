@@ -318,3 +318,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) - Lua plugin, written in TypeScript, to write TypeScript (Lua optional).
 - [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim) - Starting point to setup some lsp related features in neovim.
 - [Viper](https://github.com/aloussase/viper) - Fast CLI plugin manager for (neo)vim.
+- [nvim-rs](https://github.com/KillTheMule/nvim-rs) - Rust library for neovim clients.

@@ -391,7 +391,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Gatsby Starter Book](https://github.com/SaraVieira/gatsby-starter-book) - Gatsby starter focused on simplicity to help you create books.
 - [How Chekhov invented the modern short story (2020)](https://www.newstatesman.com/culture/books/2020/08/how-chekhov-invented-modern-short-story) ([HN](https://news.ycombinator.com/item?id=24380587))
 - [I Want to Fix Goodreads (2020)](http://prepend.com/culture/2020/09/fixing_goodreads.html) ([HN](https://news.ycombinator.com/item?id=24454221))
-- [DeDRM tools for ebooks](https://github.com/apprenticeharper/DeDRM_tools) - Remove DRM from ebooks.
+- [DeDRM tools for ebooks](https://github.com/apprenticeharper/DeDRM_tools) - Remove DRM from ebooks. ([Fork](https://github.com/noDRM/DeDRM_tools))
 - [Writing a book: is it worth it? (2020)](https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html) ([HN](https://news.ycombinator.com/item?id=24628549))
 - [Searchable Library of book summaries](https://blas.com/books/searchable-library/)
 - [The Book Trail](https://www.thebooktrail.com/) - Match your next read to your destination with The Literary Travel Agency.

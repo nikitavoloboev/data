@@ -291,3 +291,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [secrets](https://github.com/sirwart/secrets) - Command-line tool to prevent committing secret keys into your source code.
 - [Certify](https://github.com/johanbrandhorst/certify) - Automatic client and server certificate distribution and maintenance.
 - [IOTA Stronghold](https://github.com/iotaledger/stronghold.rs) - Secret management engine written in rust.
+- [Package Analysis](https://github.com/ossf/package-analysis) - Components to aid in the analysis of open source packages, in particular to look for malicious software.

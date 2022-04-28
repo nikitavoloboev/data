@@ -1807,6 +1807,7 @@
 - [chitchat](https://github.com/quickwit-oss/chitchat) - Decentralized cluster membership in Rust. ([Article](https://quickwit.io/blog/chitchat/)) ([HN](https://news.ycombinator.com/item?id=31190586))
 - [numanji](https://github.com/bastion-rs/numanji) - Local-affinity first NUMA-aware allocator with optional fallback.
 - [Lever](https://github.com/vertexclique/lever) - Pillars for Transactional Systems and Data Grids.
+- [byte-slice-cast](https://github.com/sdroege/byte-slice-cast) - Safely cast slices of one built-in fundamental number type to another.
 
 ## Cargo Plugins
 

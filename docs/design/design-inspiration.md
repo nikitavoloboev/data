@@ -435,6 +435,7 @@ Here are few more things I liked, design wise. [Linear is pretty great](https://
 - [Sage Abdullah](https://laymonage.com/)
 - [Royal Icing](https://icing.space/) ([GitHub](https://github.com/RoyalIcing))
 - [Tim Chang](https://www.timcchang.com/)
+- [Cory Etzkorn](https://www.coryetzkorn.com/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)
 - [Gift Egwuenu](https://www.giftegwuenu.dev/) ([Code](https://github.com/lauragift21/giftegwuenu.dev))

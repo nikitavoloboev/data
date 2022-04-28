@@ -230,3 +230,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Good sample multi-tier web apps for demos (2022)](https://twitter.com/ibuildthecloud/status/1515088692431360003)
 - [More control with idempotency (2022)](https://buttondown.email/krcah/archive/more-control-with-idempotency/)
 - [Examples of web apps built with Entity Component System (2022)](https://twitter.com/DasSurma/status/1516390506472824834)
+- [Simple Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)

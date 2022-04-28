@@ -17,3 +17,4 @@ title: Logseq
 - [Logseq miA theme](https://github.com/playerofgames/logseq-mia-theme) - Logseq theme inspired by macOS and iA Writer.
 - [Logseq Cinematograph](https://github.com/QWxleA/cinematograph) - Logseq Plugin to streamline Youtube note taking.
 - [Logseq Docs](https://docs.logseq.com/#/page/Contents) ([Code](https://github.com/logseq/docs))
+- [Open Logseq in VS Code](https://github.com/rebornix/logseq-open-in-code) - Open and edit Logseq pages and config files in VS Code.

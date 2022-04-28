@@ -30,3 +30,4 @@ title: JAX
 - [Machine Learning with JAX - From Zero to Hero (2021)](https://www.youtube.com/playlist?list=PLBoQnSflObckOARbMK9Lt98Id0AKcZurq)
 - [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility. ([Docs](https://flax.readthedocs.io/en/latest/))
 - [JAX talks by HuggingFace](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtQrEduYXbRz4X50mTiOi8S)
+- [Homomorphic Encryption in JAX](https://github.com/nkandpa2/he_jax)

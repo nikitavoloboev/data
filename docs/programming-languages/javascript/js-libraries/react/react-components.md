@@ -305,6 +305,7 @@
 - [React Motion Router](https://github.com/nxtexe/react-motion-router) - Declarative routing library for React with page transitions and animations.
 - [React Square Web Payments SDK](https://github.com/weareseeed/react-square-web-payments-sdk) - Easily create PCI-compliant inputs to accept payments online with the Square Payments API.
 - [React Page Visibility](https://github.com/pgilad/react-page-visibility) - Declarative, nested, stateful, isomorphic page visibility for React.
+- [React Idle Timer](https://github.com/SupremeTechnopriest/react-idle-timer) - User activity timer component. ([Web](https://idletimer.dev/))
 
 ## Links
 

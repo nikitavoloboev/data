@@ -86,3 +86,4 @@
 - [kube-exec-controller](https://github.com/box/kube-exec-controller) - Admission controller service and kubectl plugin to handle container drift in K8s clusters.
 - [Helm Diff Plugin](https://github.com/databus23/helm-diff) - Helm plugin that shows a diff explaining what a helm upgrade would change.
 - [krew-wasm](https://github.com/flavio/krew-wasm) - Offers a way to write and distribute kubectl plugins based on WebAssembly.
+- [Kubernetes Replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces.

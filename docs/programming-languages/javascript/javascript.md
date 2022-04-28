@@ -433,3 +433,4 @@ if (
 - [How not to write property tests in JavaScript (2021)](https://jrsinclair.com/articles/2021/how-not-to-write-property-tests-in-javascript/)
 - [Find what JavaScript variables are leaking into the global scope (2022)](https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/)
 - [Building a JavaScript Bundler (2022)](https://cpojer.net/posts/building-a-javascript-bundler)
+- [ECMAScript proposal: do expressions](https://github.com/tc39/proposal-do-expressions)

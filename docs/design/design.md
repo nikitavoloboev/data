@@ -235,3 +235,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [When your portfolio is a brand in itself (2020)](https://vanschneider.com/blog/when-your-portfolio-is-a-brand-in-itself/)
 - [Design for Developers Book (2022)](https://www.manning.com/books/design-for-developers)
 - [Vectornator](https://www.vectornator.io/) - Create sophisticated illustrations, beautiful interface designs, amazing layouts. ([Twitter](https://twitter.com/vectornator)) ([GitHub](https://github.com/LinearityGmbH))
+- [Parametric Design course](https://github.com/FH-Potsdam/teaching-parametric-design)

@@ -356,3 +356,4 @@
 - [Online music/voice separator based on neural nets](https://mvsep.com/)
 - [Rhythmical Alternations (2022)](https://loophole-letters.vercel.app/rhythmical-alternations)
 - [What chords do you need? (2022)](https://www.jefftk.com/p/what-chords-do-you-need) ([HN](https://news.ycombinator.com/item?id=31109456))
+- [ChucK](https://chuck.stanford.edu/) - Strongly-Timed Music Programming Language. ([Code](https://github.com/ccrma/chuck))

@@ -113,3 +113,4 @@ title: Apache Kafka
 - [kaskade](https://github.com/sauljabin/kaskade) - Kafka text user interface in style.
 - [kafkacrypto](https://github.com/tmcqueen-materials/kafkacrypto) - End-to-End Message Layer Encryption for Kafka.
 - [Kafka Docker Playground](https://github.com/vdesabou/kafka-docker-playground) - Fully automated Apache Kafka and Confluent Docker based examples.
+- [AWS Serverless Kafka (2022)](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/)

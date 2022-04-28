@@ -242,3 +242,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [IndieBlog.page](https://indieblog.page/) - Discover the IndieWeb, one blog post at a time. ([HN](https://news.ycombinator.com/item?id=31002171))
 - [An overly complicated blog (2022)](https://n14n.dev/articles/2022/an-overly-complicated-blog/)
 - [Ask HN: Why is Substack so popular? (2022)](https://news.ycombinator.com/item?id=31083165)
+- [Cool Things People Do With Their Blogs (2022)](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)

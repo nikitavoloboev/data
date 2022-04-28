@@ -29,7 +29,7 @@ title: Zero knowledge proofs
 - [rapidsnark](https://github.com/iden3/rapidsnark) - zkSnark proof generation.
 - [An approximate introduction to how zk-SNARKs are possible (2021)](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [OpenZKP](https://github.com/0xProject/OpenZKP) - Pure Rust implementations of Zero-Knowledge Proof systems.
-- [zkp](https://github.com/dalek-cryptography/zkp) - Experimental zero-knowledge proof compiler in Rust macros.
+- [zkp](https://github.com/dalek-cryptography/zkp) - Experimental zero-knowledge proof compiler in Rust macros. ([Fork](https://github.com/zkcrypto/zkp))
 - [Zero Knowledge Proof - Numberphile (2021)](https://www.youtube.com/watch?v=5ovdoxnfFVc)
 - [Serving up zero-knowledge proofs (2021)](https://blog.trailofbits.com/2021/02/19/serving-up-zero-knowledge-proofs/)
 - [Leo](https://github.com/AleoHQ/leo) - Functional, statically-typed programming language built for writing private applications.

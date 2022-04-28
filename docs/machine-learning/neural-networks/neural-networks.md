@@ -292,3 +292,4 @@
 - [Transformer in Triton](https://github.com/lucidrains/triton-transformer) - Implementation of a Transformer, but completely in Triton.
 - [This AI Does Not Exist](https://thisaidoesnotexist.com/) - Generate realistic descriptions of made-up machine learning models. ([Code](https://github.com/thesephist/modelexicon))
 - [Perplexity](https://github.com/andrew-johnson-4/perplexity) - Language is a notational semantic for documenting neural networks through diagrams.
+- [Meta-AF: Meta-Learning for Adaptive Filters](https://github.com/adobe-research/MetaAF)

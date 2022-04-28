@@ -26,6 +26,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [postgres-schema-ts](https://github.com/nettofarah/postgres-schema-ts) - Convert Postgres schemas into TypeScript interfaces.
 - [lru-ttl-cache](https://github.com/rafikalid/lru-ttl-cache) - Super fast Optimized in memory LRU and TTL cache. Can store permanent entries too.
 - [cachu](https://github.com/azurydev/cachu) - Simple, Minimalistic KV Cache.
+- [IndexedDB KeyStore](https://github.com/fission-suite/keystore-idb) - In-browser key management with IndexedDB and the Web Crypto API.
 
 ## Web
 
@@ -491,6 +492,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Injectable TS](https://github.com/raveclassic/injectable-ts) - Purely-functional strictly-typed IoC/DI for TypeScript.
 - [Scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code.
 - [TypeScript JSON Decoder](https://github.com/tskj/typescript-json-decoder) - Library for decoding untrusted data as it comes in to your system, inspired by elm-json-decode.
+- [Network Idle](https://github.com/SupremeTechnopriest/network-idle) - Detect when the browser's network requests are idle.
 
 ## Links
 

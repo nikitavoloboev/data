@@ -109,3 +109,4 @@ title: BitTorrent
 - [qBittorrent CLI](https://github.com/ludviglundgren/qbittorrent-cli) - CLI to manage qBittorrent. Add torrents, reannounce and import from other clients.
 - [libtorrent-daemon](https://github.com/arvidn/libtorrent-daemon) - BitTorrent client specifically made for servers.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Multi-platform, free software BitTorrent client that includes an integrated media player.
+- [Transmission Exporter for Prometheus](https://github.com/metalmatze/transmission-exporter)

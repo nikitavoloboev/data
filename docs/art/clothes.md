@@ -60,3 +60,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Ripndip Clothes](https://www.ripndipclothing.com/)
 - [Carlo Pazolini](https://pazolini.com/int)
 - [Outfittor](https://outfittor.com/) - Random Outfit Generator. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/thsbx5/i_made_a_website_that_suggests_random_outfits_its/))
+- [Что из одежды вы предпочитаете?](https://twitter.com/liiving_cool/status/1519415874259755010)

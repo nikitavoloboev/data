@@ -119,3 +119,4 @@
 - [Knowledge Infused Decoding (2021)](https://openreview.net/forum?id=upnDJ7itech) ([Code](https://github.com/microsoft/KID))
 - [Unigraph](https://unigraph.dev/) - Organize, relate, and discover everything in your life on your knowledge graph, all in one workspace. ([Twitter](https://twitter.com/GetUnigraph))
 - [Relationship extraction for knowledge graph creation from biomedical literature (2022)](https://arxiv.org/abs/2201.01647)
+- [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph)
