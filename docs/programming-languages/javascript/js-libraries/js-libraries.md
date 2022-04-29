@@ -916,6 +916,7 @@
 - [exifr](https://github.com/MikeKovarik/exifr) - Fastest and most versatile JS EXIF reading library.
 - [libhoney](https://github.com/honeycombio/libhoney-js) - Node.js module for sending events to Honeycomb, a service for debugging your software in production.
 - [ejs](https://github.com/mde/ejs) - Embedded JavaScript templates.
+- [Delaunator](https://github.com/mapbox/delaunator) - Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
 
 ## Links
 

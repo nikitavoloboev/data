@@ -188,3 +188,5 @@
 - [Proxy scraper and checker](https://github.com/iw4p/proxy-scraper) - Scrape more than 1K HTTP proxies in less than 2 seconds.
 - [Toutatis](https://github.com/megadose/toutatis) - Tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more.
 - [Crawl Original Google Images & Youtube Videos](https://github.com/thaoshibe/crawl-original-google-images)
+- [OnlyFans DataScraper](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account.
+- [Shot Scraper Template](https://github.com/simonw/shot-scraper-template) - Quickly create a new GitHub repository that takes automated screenshots of a web page using shot-scraper.

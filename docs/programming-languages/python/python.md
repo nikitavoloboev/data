@@ -479,3 +479,5 @@ for i, _ in enumerate(nums):
 - [High Performance Python Princeton mini-course](https://github.com/henryiii/python-performance-minicourse)
 - [hickory](https://github.com/maxhumber/hickory) - Command line tool for scheduling Python scripts.
 - [Why Python Data Classes Are Awesome (2022)](https://www.youtube.com/watch?v=CvQ7e6yUtnw)
+- [When Python can’t thread: a deep-dive into the GIL’s impact (2022)](https://pythonspeed.com/articles/python-gil/) ([Lobsters](https://lobste.rs/s/9hj80j/when_python_can_t_thread_deep_dive_into_gil))
+- [You Should Compile Your Python And Here’s Why (2022)](https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html)

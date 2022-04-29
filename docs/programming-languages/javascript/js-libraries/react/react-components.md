@@ -306,6 +306,7 @@
 - [React Square Web Payments SDK](https://github.com/weareseeed/react-square-web-payments-sdk) - Easily create PCI-compliant inputs to accept payments online with the Square Payments API.
 - [React Page Visibility](https://github.com/pgilad/react-page-visibility) - Declarative, nested, stateful, isomorphic page visibility for React.
 - [React Idle Timer](https://github.com/SupremeTechnopriest/react-idle-timer) - User activity timer component. ([Web](https://idletimer.dev/))
+- [React Forked DND](https://github.com/react-forked/dnd) - Beautiful and accessible drag and drop for lists with React.
 
 ## Links
 

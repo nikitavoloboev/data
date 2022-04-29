@@ -252,6 +252,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [mobile.dev](https://www.mobile.dev/) - New standard for mobile development. ([Twitter](https://twitter.com/mobile__dev))
 - [Buildanevent.com](https://buildanevent.com/) - Simple, fast, modular event builder. ([Article](https://www.timcchang.com/posts/buildanevent))
 - [Lustre](https://lustre.ai/) - Find the best product for your budget.
+- [linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service.
 - [FocusTask](https://focustask.app/) - Organize your life.
 - [prettierd](https://github.com/fsouza/prettierd) - Prettier, as a daemon, for ludicrous formatting speed.
 - [Culture Amp](https://www.cultureamp.com/) - Employee feedback platform. ([GitHub](https://github.com/cultureamp))

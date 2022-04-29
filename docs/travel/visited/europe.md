@@ -62,3 +62,4 @@ Love Europe. Specifically how varied the culture can be in such short distances.
 - [Best lower tax countries to move to in Europe (2022)](https://www.reddit.com/r/EuropeFIRE/comments/u7ukpy/best_lower_tax_countries_to_move_to_in_europe/)
 - [Does China not view Europe as an equal? (2022)](https://www.reddit.com/r/China/comments/u8uvs8/does_china_not_view_europe_as_an_equal/)
 - [What has EU given us in terms of tech recently? (2022)](https://twitter.com/eigenrobot/status/1519026972831141896)
+- [Europe holidays | The Guardian](https://www.theguardian.com/travel/europe)

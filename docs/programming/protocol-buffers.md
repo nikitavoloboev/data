@@ -68,3 +68,4 @@ title: Protocol buffers
 - [protoc-gen-go-json](https://github.com/mitchellh/protoc-gen-go-json) - Protobuf compiler plugin to generate Go JSON Marshal/Unmarshal implementations for messages using jsonpb.
 - [Protoc Gen TypeScript](https://github.com/thesayyn/protoc-gen-ts) - Compile protocol buffer messages to TypeScript.
 - [FHIR Protocol Buffers](https://github.com/google/fhir)
+- [tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) - tree-sitter grammar for protocol buffer files (proto3).

@@ -37,3 +37,4 @@
 - [You can have geothermal power everywhere if you drill deep enough (2022)](https://www.treehugger.com/geothermal-drilling-technology-quaise-energy-5219924) ([HN](https://news.ycombinator.com/item?id=30465227))
 - [What are the safest and cleanest sources of energy? (2020)](https://ourworldindata.org/safest-sources-of-energy) ([Tweet](https://twitter.com/robertwiblin/status/1509128529270775811))
 - [Quaise Energy](https://www.quaise.energy/) - Unlocking the true power of clean geothermal energy. ([HN](https://news.ycombinator.com/item?id=30972073))
+- [I built an open-source, AI-powered solar panel that's 95% optimal (2022)](https://www.jackogrady.me/reinforcement-learning-solar/research-summary) ([HN](https://news.ycombinator.com/item?id=31197170))

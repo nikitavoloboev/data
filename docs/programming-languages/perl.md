@@ -4,6 +4,8 @@ title: Perl
 
 # [Perl](https://www.perl.org/)
 
+[Higher-Order Perl](https://hop.perl.plover.com/) is a nice book.
+
 ## Links
 
 - [Announcing Perl 7 (2020)](https://www.perl.com/article/announcing-perl-7/) ([HN](https://news.ycombinator.com/item?id=23629477)) ([Reddit](https://www.reddit.com/r/programming/comments/hf3jt4/announcing_perl_7/)) ([Lobsters](https://lobste.rs/s/ccczjr/announcing_perl_7))
@@ -47,3 +49,4 @@ title: Perl
 - [Venus](https://github.com/cpanery/venus) - OO Standard Library for Perl 5. ([Lobsters](https://lobste.rs/s/94vv6t/venus_oo_standard_library_for_perl_5))
 - [Perl Saved the Human Genome Project (1996)](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) ([HN](https://news.ycombinator.com/item?id=30327812))
 - [Higher-Order Perl: Transforming Programs with Programs](https://hop.perl.plover.com/book/)
+- [Higher-Order Perl Book](https://hop.perl.plover.com/) ([HN](https://news.ycombinator.com/item?id=31201399))

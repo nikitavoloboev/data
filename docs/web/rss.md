@@ -163,3 +163,4 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [feedpushr](https://github.com/ncarlier/feedpushr) - Simple feed aggregator service with sugar on top.
 - [ReadFlow](https://about.readflow.app/) - Read your Internet article flow in one place with complete peace of mind and freedom. ([Code](https://github.com/ncarlier/readflow))
 - [Svelte Pod](https://github.com/spences10/svelte-pod) - Podcast player in using SvelteKit.
+- [Increasing the surface area of blogging (2022)](https://tomcritchlow.com/2022/04/21/new-rss/) ([HN](https://news.ycombinator.com/item?id=31186346))

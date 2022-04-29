@@ -85,3 +85,4 @@ title: Vulkan API
 - [Zig vulkan renderer](https://github.com/Avokadoen/zig_vulkan)
 - [Vulkan Helpers](https://github.com/jpbruyere/vkhelpers) - Vulkan c helper library.
 - [Walnut](https://github.com/TheCherno/Walnut) - Simple application framework for Vulkan and Dear ImGui apps.
+- [vulkanalia](https://github.com/KyleMayes/vulkanalia) - Vulkan bindings for Rust.

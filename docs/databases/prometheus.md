@@ -79,3 +79,4 @@ title: Prometheus
 - [Prometheus Compliance Tests](https://github.com/prometheus/compliance) - Set of tests to check compliance with various Prometheus interfaces.
 - [prometheus-query](https://github.com/samber/prometheus-query-js) - JavaScript client for Prometheus query API.
 - [Nightingale](https://github.com/didi/nightingale) - Enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
+- [Promviz](https://github.com/nghialv/promviz) - Visualize the traffic of your clusters in real time from Prometheus data.

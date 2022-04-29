@@ -6,7 +6,7 @@ title: WebAssembly
 
 [Wasmer](https://docs.wasmer.io/) is great runtime to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library. [WebAssembly Weekly](https://wasmweekly.news/) is good newsletter to stay up to date on WASM.
 
-[This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice.
+[This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice. Looking into trying out [AssemblyScript](https://github.com/AssemblyScript/assemblyscript).
 
 ## Links
 
@@ -305,3 +305,4 @@ title: WebAssembly
 - [WasmNow](https://github.com/sillycross/WasmNow) - Fast WebAssembly Baseline Compiler.
 - [WebAssembly 2.0 First Working Draft](https://www.w3.org/TR/wasm-core-2/) ([HN](https://news.ycombinator.com/item?id=31086217))
 - [JavaScript Garbage Collection with WebAssembly is Possible Today](https://jott.live/markdown/js_gc_in_wasm)
+- [Entropy source API for WASI](https://github.com/WebAssembly/wasi-random)

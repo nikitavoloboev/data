@@ -18,3 +18,4 @@ title: Logseq
 - [Logseq Cinematograph](https://github.com/QWxleA/cinematograph) - Logseq Plugin to streamline Youtube note taking.
 - [Logseq Docs](https://docs.logseq.com/#/page/Contents) ([Code](https://github.com/logseq/docs))
 - [Open Logseq in VS Code](https://github.com/rebornix/logseq-open-in-code) - Open and edit Logseq pages and config files in VS Code.
+- [nbb-logseq](https://github.com/logseq/nbb-logseq) - Provides easy CLJS scripting on Node.js for Logseq.

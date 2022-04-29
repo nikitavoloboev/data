@@ -35,3 +35,4 @@ Some interesting words I like:
 - [Measuring the Similarity between Short English Phrases using Recurrent Neural Networks (2017)](https://ijdykeman.github.io/ml/2017/10/30/comparing-phrases.html)
 - [List Of English Words](https://github.com/dwyl/english-words) - Text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion.
 - [The writers who translated Goethe became some of the best writers in English (2022)](https://www.neh.gov/article/cult-goethe) ([HN](https://news.ycombinator.com/item?id=30523802))
+- [Urban Dictionary Word List](https://github.com/mattbierner/urban-dictionary-word-list)

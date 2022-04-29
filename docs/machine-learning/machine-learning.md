@@ -776,7 +776,7 @@
 - [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions (2021)](https://arxiv.org/abs/2102.05379) ([Code](https://github.com/didriknielsen/argmax_flows))
 - [The Principles of Deep Learning Theory (2021)](https://arxiv.org/abs/2106.10165) ([HN](https://news.ycombinator.com/item?id=31051540))
 - [Understanding the Limitations of Variational Mutual Information Estimators (2019)](https://arxiv.org/abs/1910.06222) ([Code](https://github.com/ermongroup/smile-mi-estimator))
-- [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) - Each puzzle asks you to reimplement one function in the NumPy standard library without magic.
+- [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your PyTorch. ([Tweet](https://twitter.com/srush_nlp/status/1516066504885915655))
 - [ACM FAccT - 2022 Accepted Papers](https://facctconference.org/2022/acceptedpapers.html)
 - [How Attention works, in the field of artificial intelligence](https://github.com/lucidrains/attention)
 - [Awesome Weak-Shot Learning](https://github.com/bcmi/Awesome-Weak-Shot-Learning)
@@ -788,3 +788,4 @@
 - [Admin-Torch](https://github.com/microsoft/admin-torch) - Understanding the Difficulty of Training Transformers.
 - [Sampling with Mirrored Stein Operators (2022)](https://arxiv.org/abs/2106.12506) ([Code](https://github.com/thjashin/mirror-stein-samplers)) ([Tweet](https://twitter.com/thjashin/status/1518973853678153728))
 - [data2vec and the future of multimodal learning (2022)](https://towardsdatascience.com/data2vec-and-the-future-of-multimodal-learning-f33f9c781f48)
+- [Mapping Fair ML](https://github.com/summerscope/mapping-fair-ml) - Curated list of links and resources for Fair ML and Data Ethics.

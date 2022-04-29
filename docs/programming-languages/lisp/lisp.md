@@ -189,3 +189,4 @@
 - [Hedgehog](https://github.com/sbp/hedgehog) - Concise implementation of a lisp-like language for low-end and embedded devices.
 - [Lisp Variations](https://github.com/namin/lisp-variations) - Variations on lisp, exploring reflection.
 - [l2l](https://github.com/meric/l2l) - Language that is a superset of Lisp and Lua.
+- [Why Lisp macros are cool, a Perl perspective (2005)](http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html) ([HN](https://news.ycombinator.com/item?id=31199992))

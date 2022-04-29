@@ -39,3 +39,4 @@ title: NestJS
 - [NestJs JWT - Access Tokens & Refresh Tokens (2021)](https://www.youtube.com/watch?v=uAKzFhE3rxU)
 - [Terminus NestJS](https://github.com/nestjs/terminus)
 - [NestJS-Spelunker](https://github.com/jmcdo29/nestjs-spelunker) - NestJS Module for generating a NestJS Applications Module Dependency Graph.
+- [Functional-NestJS](https://github.com/ltnscp9028/functional-nestjs) - Functional Programming with NestJS, Prisma. Immutable, pure, stateless.

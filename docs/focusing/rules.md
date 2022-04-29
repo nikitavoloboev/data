@@ -320,6 +320,7 @@
 - Buy transport (plane/train) & accommodation for future events/conferences/travels as soon as possible (when I am sure I am attending event/place).
 - Proof check dates before buying tickets. Don't prepare large liquids (> 100ml) in planes.
 - Check in online as early as possible.
+- [Move and live in countries with upwards momentum](https://www.youtube.com/watch?v=olayjvzrqIo). Don't be a slave to old legacy brands/countries.
 
 ## Giving talks
 

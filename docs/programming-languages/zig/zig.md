@@ -119,3 +119,4 @@ title: Zig
 - [Zig interpreter written in TypeScript](https://github.com/mbrock/zigjs)
 - [Zig Web Code](https://github.com/ziglang/www.ziglang.org)
 - [Getting Started with Zig on the Raspberry Pi Pico](https://github.com/ZigEmbeddedGroup/getting-started-pico-zig)
+- [Minimal example showing how HTML5's canvas, WASM memory and Zig can interact](https://github.com/daneelsan/minimal-zig-wasm-canvas)

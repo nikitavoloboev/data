@@ -6,6 +6,8 @@ I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unl
 
 I try to not sit for prolonged times (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
 
+[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it.
+
 ## Notes
 
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.

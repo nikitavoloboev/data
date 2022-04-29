@@ -177,3 +177,4 @@
 - [Toolbox repository to help evaluate various methods that perform image matching from a pair of images](https://github.com/GrumpyZhou/image-matching-toolbox)
 - [SSIM.JS](https://github.com/obartra/ssim) - JavaScript Image Comparison.
 - [Imger](https://github.com/Ernyoke/Imger) - Collection of image processing algorithms written in pure Go.
+- [Hide a photo inside another photo (2022)](https://www.avestura.dev/blog/hide-a-photo-inside-another-photo) ([HN](https://news.ycombinator.com/item?id=31197897))

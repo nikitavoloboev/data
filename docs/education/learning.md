@@ -210,3 +210,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: I'm interested in so many disciplines, but what can I do with that? (2022)](https://news.ycombinator.com/item?id=30928105)
 - [Ask HN: Have you invested in self-development and done inner work? (2022)](https://news.ycombinator.com/item?id=30931979)
 - [What's your favorite Wikipedia page?](https://twitter.com/waitbutwhy/status/1516503921849561088)
+- [Bits of advice I wish I had known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) ([HN](https://news.ycombinator.com/item?id=31199300))

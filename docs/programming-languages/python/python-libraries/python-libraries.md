@@ -979,3 +979,5 @@
 - [Cookiecutter Poetry](https://github.com/fpgmaas/cookiecutter-poetry) - Cookiecutter template for poetry managed python projects.
 - [Hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management. ([HN](https://news.ycombinator.com/item?id=31190027))
 - [cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary boilerplate for packaging and building projects separate from the code you intentionally write.
+- [sigstore-python](https://github.com/sigstore/sigstore-python) - Codesigning tool for Python packages.
+- [Python Monorepo](https://github.com/dermidgen/python-monorepo) - Example of scaffolding and tooling for a Python based monorepo.

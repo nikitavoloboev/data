@@ -4,7 +4,7 @@ I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shel
 
 I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I also [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
 
-Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/) on iPad.
+Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.leagueoflegends.com/en-gb/) on iPad. If I ever make a small game, [itch.io](https://itch.io/) seems like a great marketplace.
 
 ## Awesome Online games
 
@@ -63,7 +63,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 ## Awesome OSS games
 
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games with the Godot-Engine.
-- [Overgrowth](https://github.com/WolfireGames/overgrowth) - Open Source codebase of the game Overgrowth by Wolfire Games.
+- [Overgrowth](https://github.com/WolfireGames/overgrowth) - Open Source codebase of the game Overgrowth by Wolfire Games. ([HN](https://news.ycombinator.com/item?id=31164287))
 - [ActionRoguelike](https://github.com/tomlooman/ActionRoguelike) - Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020). ([Article](https://www.tomlooman.com/action-roguelike-cpp-ue4/)) ([HN](https://news.ycombinator.com/item?id=25800771))
 - [Citybound](https://github.com/citybound/citybound) - City building game with a focus on realism, collaborative planning and simulation of microscopic details. ([HN](https://news.ycombinator.com/item?id=19583384))
 - [Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)
@@ -225,7 +225,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Dockerfile for terraria](https://github.com/ryansheehan/terraria)
 - [GG|](https://ggapp.io/) - Video Game Collection Tracker.
 - [Factory Planner](https://github.com/ClaudeMetz/FactoryPlanner) - Mod for Factorio. It allows you to plan out your production in detail.
-- [Itch.io](https://itch.io/) - Install, update and play indie games. ([Code](https://github.com/itchio/itch)) ([App](https://itch.io/app))
+- [Itch.io](https://itch.io/) - Install, update and play indie games. ([Code](https://github.com/itchio/itch)) ([App](https://itch.io/app)) ([GitHub](https://github.com/itchio)) ([Twitter](https://twitter.com/itchio))
 - [TrueSkill](https://trueskill.org/) - Rating system among game players. ([Code](https://github.com/sublee/trueskill))
 - [How To Get Worse At StarCraft II (2020)](https://illiteracyhasdownsides.com/2020/06/13/how-to-get-worse-at-starcraft-ii/)
 - [Deus Ex at 20: The oral history of a pivotal PC game (2020)](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/) ([HN](https://news.ycombinator.com/item?id=23599411))

@@ -161,3 +161,4 @@ title: Vue.js
 - [Vue Schema.org for Automated Google Rich Results](https://github.com/harlan-zw/vue-schema-org)
 - [Why Vue doesn’t need time slicing / concurrent mode](https://github.com/vuejs/rfcs/issues/89#issuecomment-546988615) ([Tweet](https://twitter.com/AdamRackis/status/1518278855550713856))
 - [Floating Vue](https://github.com/Akryum/floating-vue) - Easy tooltips, popovers, dropdown, menus... for Vue.
+- [Vite Plugin Vue Inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser automatically.

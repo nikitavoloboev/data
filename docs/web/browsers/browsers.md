@@ -210,3 +210,4 @@
 - [BrowserBench.org](https://browserbench.org/) - Browser Benchmarks.
 - [Project Fugu API showcase (2022)](https://developer.chrome.com/blog/fugu-showcase/) ([List](https://tomayac.github.io/fugu-showcase/data/)) ([Code](https://github.com/tomayac/fugu-showcase))
 - [Beacon Browser](https://github.com/imperviousinc/beacon) - First-class browsing experience for a decentralized internet built with web technologies and secured without third parties. ([HN](https://news.ycombinator.com/item?id=31163077))
+- [DiskerNet](https://github.com/crisdosyago/Diskernet) - Searchable offline archive of browser history. ([HN](https://news.ycombinator.com/item?id=31165688))

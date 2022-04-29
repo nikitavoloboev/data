@@ -189,3 +189,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [SQLite WASM](https://github.com/kbumsik/sqlite-wasm) - Run SQLite on the web, using WebAssembly.
 - [Ask HN: Have you used SQLite as a primary database? (2022)](https://news.ycombinator.com/item?id=31152490)
 - [Port the SQLite parser to Go](https://github.com/kyleconroy/golite)
+- [Awesome SQLite](https://github.com/sqlsite/awesome-sqlite) ([HN](https://news.ycombinator.com/item?id=31201731))

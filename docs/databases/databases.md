@@ -260,7 +260,6 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
 - [CloudBeaver](https://cloudbeaver.io/) - Database Management from Browser. ([Code](https://github.com/dbeaver/cloudbeaver))
 - [DbGate](https://dbgate.org/) - Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. ([Code](https://github.com/dbgate/dbgate))
-- [Snaplet](https://www.snaplet.dev/) - Work with your database as easily as your code.
 - [Condenser](https://github.com/TonicAI/condenser) - Database subsetting tool.
 - [NocoDB](https://www.nocodb.com/) - Turns your SQL database into a Nocode platform. Free & Open Source. ([Code](https://github.com/nocodb/nocodb)) ([HN](https://news.ycombinator.com/item?id=27303783))
 - [Owoof](https://github.com/sqwishy/owoof) - Program for querying and modifying information in a datalog-like format backed by SQLite.

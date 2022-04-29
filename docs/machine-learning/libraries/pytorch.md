@@ -4,7 +4,7 @@ title: PyTorch
 
 # [PyTorch](http://pytorch.org/)
 
-[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) is neat.
+[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) is neat. [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) is great intro.
 
 ## Notes
 
@@ -398,3 +398,4 @@ title: PyTorch
 - [K Means using PyTorch](https://github.com/subhadarship/kmeans_pytorch)
 - [surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - Library to inspect itermediate layers of PyTorch models. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/uddtfk/p_surgeonpytorch_a_small_library_to_inspect/))
 - [PyMDE](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch.
+- [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - Modular, Configuration-Driven Framework for Knowledge Distillation.

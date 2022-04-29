@@ -12,3 +12,4 @@ France has some [beautiful songs](https://open.spotify.com/track/5oDNfTnNClOyD40
 - [How I learned French in 12 months (2020)](https://runwes.com/2020/02/11/howilearnedfrench.html) ([HN](https://news.ycombinator.com/item?id=30467597))
 - [Voting in France: Paper ballots, cast in person; no machines (2022)](https://abcnews.go.com/International/wireStory/voting-france-paper-ballots-cast-person-machines-83954517) ([HN](https://news.ycombinator.com/item?id=30956246))
 - [Is Paris Overrated? (my thoughts after living here for 2 years) (2021)](https://www.youtube.com/watch?v=rRgwis2kt9Y)
+- [France holidays | Travel | The Guardian](https://www.theguardian.com/travel/france)

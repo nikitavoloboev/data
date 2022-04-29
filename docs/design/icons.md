@@ -1,5 +1,7 @@
 # Icons
 
+[App Icon Book](https://www.appiconbook.com/) is a nice read.
+
 ## Nice icons
 
 - [App Store Icon (macOS Big Sur)](https://dribbble.com/shots/12238938-The-App-Store-Icon-macOS-Big-Sur)

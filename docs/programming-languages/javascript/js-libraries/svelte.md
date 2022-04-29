@@ -236,3 +236,4 @@ title: Svelte
 - [Svelte Package template](https://github.com/Tropix126/sveltekit-package-template) - Barebones project that provides the essentials for writing highly-optimized, reusable packages in Svelte.
 - [Svelte Markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser that renders into Svelte Components.
 - [Bookit](https://github.com/leveluptuts/bookit) - UI component explorer designed specifically for Svelte Kit.
+- [Svelte IntelliJ IDE Plugin](https://github.com/tomblachut/svelte-intellij)

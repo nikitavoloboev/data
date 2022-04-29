@@ -56,3 +56,5 @@ title: ESLint
 - [ESLint Interactive](https://github.com/mizdra/eslint-interactive) - CLI tool to fix huge number of ESLint errors.
 - [Anthony Fu's Eslint config](https://github.com/antfu/eslint-config)
 - [eslint-plugin-d](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Now with CI support.
+- [ESLint rules extracted from SonarJS](https://github.com/rx-ts/eslint-plugin-sonar)
+- [SonarJS rules for ESLint](https://github.com/SonarSource/eslint-plugin-sonarjs)

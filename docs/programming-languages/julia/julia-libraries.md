@@ -92,6 +92,7 @@
 - [ConstraintLearning](https://github.com/JuliaConstraints/ConstraintLearning.jl) - Julia package for people that love to learn new things about constraints.
 - [FluxPrune](https://github.com/darsnack/FluxPrune.jl) - Pruning framework and methods for Flux.
 - [ReactiveMP.jl](https://github.com/biaslab/ReactiveMP.jl) - Julia package for automatic Bayesian inference on a factor graph with reactive message passing.
+- [TensorNetworkAD](https://github.com/under-Peter/TensorNetworkAD.jl) - Algorithms that combine tensor network methods with automatic differentiation.
 
 ## Math
 
@@ -576,6 +577,7 @@
 - [PythonIO.jl](https://github.com/cjdoris/PythonIO.jl) - Read and write some common Python data formats.
 - [StatProfilerHTML](https://github.com/tkluck/StatProfilerHTML.jl) - Show Julia profiling data in an explorable HTML page.
 - [ProximalAlgorithms.jl](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl) - Proximal algorithms for non-smooth optimization in Julia.
+- [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) - Word cloud generator in Julia.
 
 ## Links
 

@@ -2,6 +2,8 @@
 
 There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
+[Crafting Interpreters](https://craftinginterpreters.com/) is an amazing book.
+
 ## Notes
 
 - [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)
@@ -330,7 +332,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [List of new budding programming languages and their interesting features (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/thcqko/a_list_of_new_budding_programming_languages_and/)
 - [Generics syntax in different languages (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tibrzi/generics_syntax_in_different_languages/)
 - [Ask HN: Are you using actors in production? Why/Why not? (2022)](https://news.ycombinator.com/item?id=30745047)
-- [A Typed Programming Language: The Semantics of Rank Polymorphism (2020)](https://ccs.neu.edu/~jrslepak/Dissertation.pdf)
+- [A Typed Programming Language: The Semantics of Rank Polymorphism (2020)](https://ccs.neu.edu/~jrslepak/Dissertation.pdf) ([Paper](https://arxiv.org/abs/1907.00509))
 - [OneLinerHub](https://onelinerhub.com/) - Open source code library. ([Code](https://github.com/Onelinerhub/onelinerhub))
 - [Uniform Structured Syntax, Metaprogramming and Run-time Compilation](https://m00natic.github.io/lisp/manual-jit.html)
 - [Most interesting languages to learn (from)? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/tsqamc/most_interesting_languages_to_learn_from/)

@@ -46,7 +46,7 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Run Book / Operations Manual template for modern software systems](https://github.com/SkeltonThatcher/run-book-template)
 - [How I write backends](https://github.com/fpereiro/backendlore) ([HN](https://news.ycombinator.com/item?id=22106482)) ([Reddit](https://www.reddit.com/r/programming/comments/es7uej/how_i_write_backends/))
 - [Universal Design Pattern (2008)](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) ([HN](https://news.ycombinator.com/item?id=337746))
-- [The 12 Factor App](https://www.12factor.net/) - Methodology for building software-as-a-service apps. ([Code](https://github.com/heroku/12factor))
+- [The 12 Factor App](https://12factor.net/) - Methodology for building software-as-a-service apps. ([Code](https://github.com/heroku/12factor)) ([HN](https://news.ycombinator.com/item?id=31198956))
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
 - [The Cloud (2019)](https://txt.black/~jack/cloud.txt) ([HN](https://news.ycombinator.com/item?id=20639359))
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)

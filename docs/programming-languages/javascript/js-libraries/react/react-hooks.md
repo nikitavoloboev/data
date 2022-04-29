@@ -195,6 +195,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useLocationState](https://github.com/xiel/use-location-state) - Store and retrieve state from the browsers history using modern hooks.
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
 - [useSvelteStore](https://github.com/Crisfole/react-use-svelte-store) - Use svelte stores in react with hooks.
+- [useUndoable](https://github.com/Infinium8/useUndoable) - React hook for undo/redo functionality.
 
 ## Code
 

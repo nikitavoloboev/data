@@ -1,6 +1,6 @@
 # Swift libraries
 
-[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets. [Cache](https://github.com/hyperoslo/Cache) is nice lib for caching.
+[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets. [Cache](https://github.com/hyperoslo/Cache) is nice lib for caching. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) is nice too.
 
 ## CLI
 
@@ -1108,6 +1108,8 @@
 - [SwiftDSSocket](https://github.com/csujedihy/SwiftDSSocket) - Swift based asynchronous socket framework built atop DispatchSource.
 - [SwiftScripting](https://github.com/tingraldi/SwiftScripting) - Utilities and samples to aid in using Swift with the Scripting Bridge.
 - [Narratore](https://github.com/broomburgo/Narratore) - Swift library that can be used to create and run interactive stories and narrative games.
+- [KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS video player.
+- [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - Better way to deal with JSON data in Swift.
 
 ## Other (not lib)
 

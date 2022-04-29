@@ -45,7 +45,7 @@
 - [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectual quality and performance.
 - [CRYENGINE](https://github.com/CRYTEK/CRYENGINE/) - Powerful real-time game development platform created by Crytek. ([HN](https://news.ycombinator.com/item?id=23660099))
 - [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
-- [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
+- [OpenRA](https://www.openra.net/) - Open-source RTS game engine for games such as Command and Conquer. ([Code](https://github.com/OpenRA/OpenRA)) ([HN](https://news.ycombinator.com/item?id=31197091))
 - [Richter](https://github.com/cormac-obrien/richter) - Modern implementation of the Quake engine in Rust. ([Web](http://c-obrien.org/richter/))
 - [PlayCanvas](https://playcanvas.com/) - Fast and lightweight JavaScript game engine built on WebGL and glTF. ([Code](https://github.com/playcanvas/engine)) ([HN](https://news.ycombinator.com/item?id=24018097))
 - [Excalibur](https://github.com/excaliburjs/Excalibur) - Simple 2D HTML5 game engine written in TypeScript.

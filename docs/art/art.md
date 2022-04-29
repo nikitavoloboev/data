@@ -300,10 +300,11 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Photography
 
-- [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
+- [Gosse Bouma](https://www.instagram.com/gosse_bouma/)
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
+- [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
 - [Christophe Jacrot](https://www.instagram.com/christophe.jacrot/)
 - [Elena Chernyshova](https://www.instagram.com/elena.chernyshova.photography/)
 - [John Wingfield](https://www.instagram.com/johnwingfield/)

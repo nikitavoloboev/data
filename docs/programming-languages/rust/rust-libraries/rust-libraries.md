@@ -1808,6 +1808,7 @@
 - [numanji](https://github.com/bastion-rs/numanji) - Local-affinity first NUMA-aware allocator with optional fallback.
 - [Lever](https://github.com/vertexclique/lever) - Pillars for Transactional Systems and Data Grids.
 - [byte-slice-cast](https://github.com/sdroege/byte-slice-cast) - Safely cast slices of one built-in fundamental number type to another.
+- [clang-rs](https://github.com/KyleMayes/clang-rs) - Idiomatic Rust wrapper for libclang.
 
 ## Cargo Plugins
 
@@ -2006,3 +2007,4 @@
 - [Fleet](https://github.com/dimensionhq/fleet) - Blazing fast build tool for Rust. Compiling with Fleet is up-to 5x faster than with cargo. ([Web](https://fleet.rs/)) ([Reddit](https://www.reddit.com/r/rust/comments/ua09tc/experimental_fleet_a_build_tool_for_rust_thats/))
 - [Default Arguments and Label-based Overloading (2022)](https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/)
 - [Measuring the coverage of a rust program in GitHub Actions (2022)](https://blog.balthazar-rouberol.com/measuring-the-coverage-of-a-rust-program-in-github-actions)
+- [Pyroscope Profiler](https://github.com/pyroscope-io/pyroscope-rs) - Pyroscope Profiler for Rust. Profile your Rust applications.
