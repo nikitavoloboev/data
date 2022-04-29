@@ -230,6 +230,7 @@
 - [Uptech Studio](https://www.uptechstudio.com/) - Product, Design, and Development. ([GitHub](https://github.com/uptech))
 - [Element 84](https://www.element84.com/) ([GitHub](https://github.com/Element84))
 - [fourTheorem](https://www.fourtheorem.com/)
+- [Ubik](https://ubik.sh/)
 
 ## Notes
 

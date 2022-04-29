@@ -9,6 +9,7 @@ title: Web Components
 ## Notes
 
 - [Interoperability is best delivered via web components. Platform features are more resilient too. Web components will outlast any framework.](https://twitter.com/zachleat/status/1468961751748136972)
+- [One of the most powerful things people tend to write off about Web Components is that they properly package styles with their logic. That, as well as providing a strict CSS API.](https://twitter.com/techytacos/status/1520140205453324288)
 
 ## Links
 

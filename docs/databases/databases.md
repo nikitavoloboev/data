@@ -589,3 +589,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [QuestDB: Fast Open Source Time Series Database (Vlad Ilyushchenko) (2022)](https://www.youtube.com/watch?v=AxxutZ0v3HE)
 - [Vectorization in OLAP Databases (2022)](https://aneesh.mataroa.blog/blog/vectorization-in-olap-databases/)
 - [Nice cheap hosted databases (2022)](https://twitter.com/mattgperry/status/1519609372288110593)
+- [trustfall](https://github.com/obi1kenobi/trustfall) - Query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc.

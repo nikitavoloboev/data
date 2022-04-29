@@ -110,3 +110,4 @@ title: Electrical engineering
 - [Electronics Explained: Fundamentals for Engineers, Technicians, and Makers (2018)](https://www.sciencedirect.com/book/9780128116418/electronics-explained) ([HN](https://news.ycombinator.com/item?id=31163871))
 - [How I learned electronics (2022)](https://www.youtube.com/watch?v=Bgrubw6B_us) ([HN](https://news.ycombinator.com/item?id=31167652))
 - [Sign-off review checklist for PCB designs](https://github.com/azonenberg/pcb-checklist)
+- [How Electricity Actually Works (2022)](https://www.youtube.com/watch?v=oI_X2cMHNe0) ([Reddit](https://www.reddit.com/r/videos/comments/uensdo/how_electricity_actually_works_veritasium/))

@@ -360,3 +360,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Sphinx](https://github.com/mwerezak/sphinx-lang) - Dynamically typed programming language that is inspired by Lua and Python, and implemented entirely in Rust. ([HN](https://news.ycombinator.com/item?id=31149332))
 - [What's a good general-purpose programming language? (2022)](https://www.avestura.dev/blog/ideal-programming-language) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/uc9hsl/whats_a_good_generalpurpose_programming_language/))
 - [Inform 7](https://github.com/ganelson/inform) - Programming language for creating interactive fiction, using natural language syntax. ([HN](https://news.ycombinator.com/item?id=31196063))
+- [Scopes](https://sr.ht/~duangle/scopes/) - Retargetable programming language & infrastructure.

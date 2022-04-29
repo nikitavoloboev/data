@@ -212,3 +212,4 @@
 - [Why Compilers Don’t Autocorrect “Obvious” Parse Errors (2022)](https://chelseatroy.com/2022/03/11/why-compilers-dont-autocorrect-obvious-parse-errors/) ([HN](https://news.ycombinator.com/item?id=30965572))
 - [Squint](https://github.com/HPCguy/Squint) - Peephole optimizer for stack VM compilers.
 - [raddsl](https://github.com/true-grue/raddsl) - Tools for rapid prototyping of DSL compilers.
+- [Compiler Adventures, part 1: No-op Instructions (2022)](https://medium.com/@predrag.gruevski/compiler-adventures-part-1-no-op-instructions-c084358c7864) ([Tweet](https://twitter.com/PredragGruevski/status/1489282449498640388))

@@ -1,6 +1,6 @@
 # United States
 
-Would love to live/move to US one day but they don't make it easy. It was always my dream to work at company like Apple/Tesla and they mostly/only hire in US.
+Would love to live/move to US one day but [they don't make it easy](https://twitter.com/Noahpinion/status/1520132242672029696). It was always my dream to work at company like Apple/Tesla and they mostly/only hire in US.
 
 I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mearsheimer)'s analysis in regards to US foreign policy.
 

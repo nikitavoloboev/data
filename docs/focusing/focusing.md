@@ -2,6 +2,8 @@
 
 I define a set of [rules](rules.md) (with [6 daily habits](habits.md)), [processes](processes.md) & [goals](goals.md) for myself to follow. They all act as a framework for how I lead my life and [keep my focus](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html).
 
+[Motivation is a byproduct of action, not the catalyst for it. When you just can’t bring yourself to start, that’s when it’s most important to just do it — it always completely fixes how you're feeling.](https://twitter.com/adamwathan/status/1520153298023636993)
+
 ## Focusing on what's important
 
 I use [2Do](../macOS/apps/2do.md) as my personal task manager. I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.

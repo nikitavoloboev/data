@@ -982,3 +982,4 @@
 - [cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary boilerplate for packaging and building projects separate from the code you intentionally write.
 - [sigstore-python](https://github.com/sigstore/sigstore-python) - Codesigning tool for Python packages.
 - [Python Monorepo](https://github.com/dermidgen/python-monorepo) - Example of scaffolding and tooling for a Python based monorepo.
+- [typing_copilot](https://github.com/obi1kenobi/typing_copilot) - Helper for starting to type-hint large codebases with mypy.
