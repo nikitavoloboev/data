@@ -6,6 +6,8 @@ title: GraphQL
 
 [GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty) & [Pothos GraphQL](https://github.com/hayes/pothos) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
 
+- [One Week GraphQL](https://oneweekgraphql.com/) is great course.
+
 ## Notes
 
 - [GraphQL creators are (I think) unanimous in their skepticism of tools that bring GraphQL directly to your database or ORM, because they just provide carte blanche access to your entire data model, without actually giving API design proper consideration.](https://twitter.com/andrewingram/status/1289623898493816832)
@@ -321,3 +323,4 @@ title: GraphQL
 - [Domain Graph](https://domaingraph.io/) - Beautiful, interactive visualizations for GraphQL schemas. ([TS library](https://github.com/domain-graph/domain-graph)) ([VSCode Extension](https://github.com/domain-graph/vscode))
 - [Pothos GraphQL](https://github.com/hayes/pothos) - Library for creating GraphQL schemas in typescript using a strongly typed code first approach. ([Docs](https://pothos-graphql.dev/))
 - [Quest](https://github.com/alexmacarthur/graphql-quest) - Ultra-minimal library for making GraphQL requests in the browser and Node.
+- [One Week GraphQL](https://oneweekgraphql.com/) - Build a fullstack eCommerce application with GraphQL Yoga, Prisma, Planetscale, Next.js, Tailwind CSS, & Stripe Checkout. ([Code](https://github.com/OneWeekGraphQL/OneWeekGraphQL-Final))
