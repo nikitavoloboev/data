@@ -1708,3 +1708,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Nice overview of go web frameworks / resources](https://www.reddit.com/r/golang/comments/ub742v/golang_future_web_frameworks/i63x1lq/?utm_source=reddit&utm_medium=web2x&context=3)
 - [Making Faster B-Trees with Go Generics (2022)](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/) ([HN](https://news.ycombinator.com/item?id=31182645)) ([Reddit](https://www.reddit.com/r/golang/comments/ud9l2v/shaving_40_off_googles_btree_implementation_with/))
 - [Go JSON Schema Reflection](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types.
+- [Taming SQL and ORMs with sqlc (2022)](https://encore.dev/blog/go-get-it-001-sqlc)
