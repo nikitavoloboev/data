@@ -99,3 +99,4 @@ title: Flutter
 - [GraphQL Flutter](https://github.com/zino-hofmann/graphql-flutter) - GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
 - [Flutter UI design (animation) challenges](https://github.com/watery-desert/flutter-apps)
 - [Flutter plugin for interacting with iOS StoreKit and Android Billing Library](https://github.com/memspace/iap)
+- [sqflite](https://github.com/tekartik/sqflite) - SQLite plugin for Flutter. Supports iOS, Android and MacOS.

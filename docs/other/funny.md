@@ -119,3 +119,4 @@
 - [Interview with Junior JS Developer in 2022](https://www.youtube.com/watch?v=-9jttTSSDzc)
 - [Anti Putin funny rap](https://twitter.com/STusyaA/status/1505044733936160768)
 - [Midwest FurFest](https://www.youtube.com/watch?v=3RFun58Gt7A)
+- [Tech TikTok - Is this really programming? | React](https://www.youtube.com/watch?v=RNfw23LkFn8)

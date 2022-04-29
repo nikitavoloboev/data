@@ -217,6 +217,7 @@
 - [Charred](https://github.com/cnuernber/charred) - Efficient character-based file parsing for CSV and JSON formats.
 - [Knossos](https://github.com/jepsen-io/knossos) - Verifies the linearizability of experimentally accessible histories.
 - [dtype-next](https://github.com/cnuernber/dtype-next) - Clojure library designed to aid in the implementation of high performance algorithms and systems.
+- [Omniconf](https://github.com/grammarly/omniconf) - Configuration library for Clojure that favors explicitness.
 
 ## Links
 

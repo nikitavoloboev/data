@@ -307,6 +307,7 @@
 - [React Page Visibility](https://github.com/pgilad/react-page-visibility) - Declarative, nested, stateful, isomorphic page visibility for React.
 - [React Idle Timer](https://github.com/SupremeTechnopriest/react-idle-timer) - User activity timer component. ([Web](https://idletimer.dev/))
 - [React Forked DND](https://github.com/react-forked/dnd) - Beautiful and accessible drag and drop for lists with React.
+- [React in out text area](https://github.com/igeligel/react-in-out-textarea) - Simple React.js component that is like Google Translate.
 
 ## Links
 

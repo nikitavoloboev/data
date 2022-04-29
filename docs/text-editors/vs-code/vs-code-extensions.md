@@ -299,7 +299,7 @@ Below is a list of extensions I use.
 ## Clojure
 
 - [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode) - Integrated REPL, linting, inline eval and more for VSCode. Powered by Cider & nRepl.
-- [Joyride](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.joyride) - Modify your editor by executing ClojureScript code in your REPL adn/or run scripts via keyboard shortcuts you choose. ([Code](https://github.com/BetterThanTomorrow/joyride))
+- [Joyride](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.joyride) - Modify your editor by executing ClojureScript code in your REPL adn/or run scripts via keyboard shortcuts you choose. ([Code](https://github.com/BetterThanTomorrow/joyride)) ([HN](https://news.ycombinator.com/item?id=31203024))
 
 ## Ruby
 

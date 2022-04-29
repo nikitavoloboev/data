@@ -25,6 +25,7 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [California Dreamin' - Once Upon A Time In Hollywood](https://www.youtube.com/watch?v=j76nnfv01ig)
 - [Succession (2021) | Season 3 Official Trailer](https://www.youtube.com/watch?v=kevqiiYNFrc)
 - [Will & Louisa | Don't forget about me](https://www.youtube.com/watch?v=kDvmNts2NsA)
+- [Nathaniel Drew](https://www.youtube.com/c/nathanieldrewofficial/videos)
 
 ## Favorite clips
 

@@ -320,3 +320,4 @@ title: GraphQL
 - [SpectaQL](https://github.com/anvilco/spectaql) - Autogenerate static GraphQL API documentation.
 - [Domain Graph](https://domaingraph.io/) - Beautiful, interactive visualizations for GraphQL schemas. ([TS library](https://github.com/domain-graph/domain-graph)) ([VSCode Extension](https://github.com/domain-graph/vscode))
 - [Pothos GraphQL](https://github.com/hayes/pothos) - Library for creating GraphQL schemas in typescript using a strongly typed code first approach. ([Docs](https://pothos-graphql.dev/))
+- [Quest](https://github.com/alexmacarthur/graphql-quest) - Ultra-minimal library for making GraphQL requests in the browser and Node.

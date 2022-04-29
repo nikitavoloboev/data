@@ -111,3 +111,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Cloud Pricing API](https://github.com/infracost/cloud-pricing-api) - GraphQL-based API that includes all public prices from AWS, Azure and Google.
 - [Mutagen](https://mutagen.io/) - Cloud-based development using your local tools. ([HN](https://news.ycombinator.com/item?id=30957156)) ([Mutagen Compose](https://github.com/mutagen-io/mutagen-compose))
 - [NooBaa](https://www.noobaa.io/) - Data federation across multiple private and public clouds. ([Code](https://github.com/noobaa/noobaa-core))
+- [Open Source PaaS List](https://github.com/guettli/open-source-paas)

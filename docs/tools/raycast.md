@@ -4,7 +4,7 @@ title: Raycast
 
 # [Raycast](https://www.raycast.com/)
 
-Looking into building plugins for Raycast to compare it to Alfred I use a lot of. [SOL](https://github.com/ospfranco/sol) & [Script Kit](https://www.scriptkit.com/) seem neat too.
+Looking into building plugins for Raycast to compare it to [Alfred](../macOS/apps/alfred/alfred.md) I use a lot of. [SOL](https://github.com/ospfranco/sol) & [Script Kit](https://www.scriptkit.com/) seem neat too.
 
 ## Extensions
 

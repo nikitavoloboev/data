@@ -160,7 +160,7 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Leverage, Liquidation and Insurance Funds (2021)](https://www.machow.ski/posts/leverage_liquidation_and_insurance_funds/)
 - [On Being Broke](https://thomasjbevan.substack.com/p/on-being-broke) ([HN](https://news.ycombinator.com/item?id=30234518))
 - [Plaid](https://plaid.com/en-eu/) - Enabling all companies to build fintech solutions. ([GitHub](https://github.com/plaid)) ([Docs](https://plaid.com/docs/)) ([React Plaid Link](https://github.com/plaid/react-plaid-link))
-- [Actual](https://actualbudget.com/) - Super fast privacy-focused app for managing your finances. ([GitHub](https://github.com/actualbudget))
+- [Actual](https://actualbudget.com/) - Super fast privacy-focused app for managing your finances. ([GitHub](https://github.com/actualbudget)) ([Code](https://github.com/actualbudget/actual)) ([Tweet](https://twitter.com/jlongster/status/1520063046101700610)) ([Going open source](https://actualbudget.com/open-source)) ([HN](https://news.ycombinator.com/item?id=31206536))
 - [Finality does not exist in payments (2022)](https://bam.kalzumeus.com/archive/no-payments-are-final/) ([HN](https://news.ycombinator.com/item?id=30350547))
 - [Financial advice after a decade in tech (2022)](https://www.reddit.com/r/cscareerquestions/comments/swdgiq/financial_advice_after_a_decade_in_tech/)
 - [Quick breakdown of what SWIFT is and why it matters](https://twitter.com/SahilBloom/status/1496861068945154056) ([HN](https://news.ycombinator.com/item?id=30456026))

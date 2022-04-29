@@ -7,6 +7,7 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 ## Notes
 
 - [At the end of the day people won't remember what you said or did, they will remember how you made them feel.](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
+- [Whenever you have a crush ask yourself: Do you crush on her specifically or do you just yearn for intimacy? Could any other pretty girl take her place or not? Most of the time, you just tell yourself she is special because you feel like she is available. Stop doing that. Life gets much easier.](https://www.reddit.com/r/AskMen/comments/uehxa6/whats_a_hard_truth_young_men_need_to_learn_as/)
 - [Marriage is not something you "do", it's something you make. One of the foremost requirements going in to a marriage is that both partners understand this. You will marry the right person if you change your axioms.](https://news.ycombinator.com/item?id=24260004)
 - [Finding the "right" person for marriage is pretty selfish. Be the right person. Try to strive to be the best person you can be and give grace when issues happen. Issues will happen. How you respond to them will result in the outcome of happiness of marriage.](https://news.ycombinator.com/item?id=24260004)
 - [Lack of effort equals not ready](https://www.reddit.com/r/datingoverthirty/comments/mvkf5e/lack_of_effort_equals_not_ready/)

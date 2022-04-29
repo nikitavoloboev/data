@@ -121,3 +121,4 @@ You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.ht
 - [Ask HN: What do you think is all this? (this reality, existence, space-time, us) (2022)](https://news.ycombinator.com/item?id=30928647)
 - [Ask HN: What do you do to recharge after a day of work? (2022)](https://news.ycombinator.com/item?id=30969437)
 - [Micropia - Amsterdam museum](https://www.micropia.nl/en/)
+- [What's a hard truth young men need to learn as soon as possible?](https://www.reddit.com/r/AskMen/comments/uehxa6/whats_a_hard_truth_young_men_need_to_learn_as/)

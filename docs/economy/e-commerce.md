@@ -149,3 +149,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Replo](https://www.replo.app/) - Shopify pages without the dev time.
 - [Trove](https://trove.co/) - Do the hard work behind Circular Shopping.
 - [OrderBump](https://apps.shopify.com/orderbump) - Post purchase checkout upsell / cross sell / boost AOV + sales.
+- [McMaster-Carr](https://www.mcmaster.com/) - American supplier of hardware, tools, raw materials, industrial materials, and maintenance equipment.
