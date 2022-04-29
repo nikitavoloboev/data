@@ -353,3 +353,4 @@ title: Reinforcement learning
 - [OpenAI Gym environment designed for training RL agents to control the flight of a two-dimensional drone](https://github.com/mareo1208/Drone-2d-custom-gym-env-for-reinforcement-learning)
 - [Hands-on Reinforcement Learning course](https://github.com/Paulescu/hands-on-rl)
 - [Rocket League Gym](https://github.com/lucas-emery/rocket-league-gym) - Gym-like environment for Reinforcement Learning in Rocket League.
+- [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book "Foundations of Deep Reinforcement Learning".

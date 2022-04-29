@@ -369,6 +369,7 @@
 - [The Things We Did Not Do While Reaching $2M ARR (2022)](https://missiveapp.com/blog/the-things-we-did-not-do) ([HN](https://news.ycombinator.com/item?id=30935709))
 - [What software engineers can learn from the rapid collapse of Fast (2022)](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) ([HN](https://news.ycombinator.com/item?id=30947595))
 - [On Deck’s Top 100 Companies of 2022](https://www.beondeck.com/post/on-decks-top-companies-2022)
+- [YC Vibe Check](https://ycvibecheck.com/) - Semantic search over every YC company ever. ([Code](https://github.com/thesephist/ycvibecheck))
 
 ## Images
 

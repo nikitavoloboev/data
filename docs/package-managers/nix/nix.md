@@ -346,3 +346,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Toros](https://github.com/kamadorueda/toros) - Implementation of Nix in Rust.
 - [nix-shell, but make it lovely (2022)](https://t-ravis.com/post/nix/nix-make/)
 - [Nix Security Packages](https://github.com/juliosueiras-nix/nix-security)
+- [harmonia](https://github.com/helsinki-systems/harmonia) - Nix binary cache implemented in rust using libnix-store.

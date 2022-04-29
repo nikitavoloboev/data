@@ -89,3 +89,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [How do you keep track of online recipes you want to make in the future?](https://twitter.com/hels/status/1496122916836200451)
 - [MyRecipes](https://www.myrecipes.com/) - Recipes, Dinner Ideas and Menus.
 - [CMU's Recipe Archive](https://www.cs.cmu.edu/~mjw/recipes/) ([HN](https://news.ycombinator.com/item?id=30814323))
+- [CookTime](https://letscooktime.com/) - Recipe index. ([HN](https://news.ycombinator.com/item?id=31201528))

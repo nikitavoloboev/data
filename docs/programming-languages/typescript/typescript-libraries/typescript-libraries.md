@@ -494,6 +494,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript JSON Decoder](https://github.com/tskj/typescript-json-decoder) - Library for decoding untrusted data as it comes in to your system, inspired by elm-json-decode.
 - [Network Idle](https://github.com/SupremeTechnopriest/network-idle) - Detect when the browser's network requests are idle.
 - [immer-yjs](https://github.com/sep2/immer-yjs) - Combine immer & y.js.
+- [InfluxDB JS](https://github.com/influxdata/influxdb-client-js)
 
 ## Links
 

@@ -45,7 +45,7 @@ title: Lean
 - [Lean HOL](https://github.com/nyuichi/LeanHOL) - Tiny implementation of higher-order logic proof assistant in lean.
 - [Formal [Lean] Proof of the Independence of the Continuum Hypothesis (2021)](https://arxiv.org/abs/2102.02901)
 - [Formalising Mathematics: An Introduction (2021)](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/) ([HN](https://news.ycombinator.com/item?id=26214593))
-- [lean4-cli](https://github.com/mhuisi/lean4-cli) - A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.
+- [lean4-cli](https://github.com/mhuisi/lean4-cli) - A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments. ([Fork](https://github.com/yatima-inc/Cli.lean))
 - [Lean reference type-checker](https://github.com/leanprover/tc)
 - [Formal ML](https://github.com/google/formal-ml) - LEAN library for proving foundational results in measure theory, probability, statistics, and machine learning, based upon mathlib.
 - [Lean 4 course Theorem prover lab: applications in programming languages](https://github.com/IPDSnelting/tba-2021)
@@ -90,3 +90,8 @@ title: Lean
 - [Fermat's Last Theorem for regular primes](https://github.com/leanprover-community/flt-regular)
 - [Lean-to](https://github.com/bollu/lean-to) - Jupyter shelter for your Lean4 code.
 - [Lean 4 as a scripting language in Houdini](https://github.com/lecopivo/HouLean)
+- [HTTP.lean](https://github.com/yatima-inc/Http.lean) - Uses Socket.lean to create basic HTTP functionality.
+- [Lean 4 Socket](https://github.com/xubaiw/Socket.lean) - Implementation of socket programming for Lean 4.
+- [Unicode.lean](https://github.com/xubaiw/Unicode.lean) - Unicode related operations for Lean 4.
+- [Parsec.lean](https://github.com/yatima-inc/Parsec.lean) - Parser combinators for Lean.
+- [Nix expressions and derivations in lean](https://github.com/Anderssorby/Nix.lean)

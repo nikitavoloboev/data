@@ -79,3 +79,4 @@ title: Zero knowledge proofs
 - [Security of ZKP projects: same but different](https://youtu.be/SCIuwh9ya8U?t=22619) ([Slides](https://www.aumasson.jp/data/talks/zksec_zk7.pdf))
 - [Zero Knowledge Summit Amsterdam 2022](https://www.youtube.com/watch?v=SCIuwh9ya8U)
 - [Curated list of ZK resources and links](https://github.com/ingonyama-zk/ingopedia)
+- [Zk app boilerplate](https://github.com/wanseob/zkp-app-boilerplate) - Build your zkp app with typescript, hardhat, circom, and snarkjs.

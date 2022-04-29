@@ -83,3 +83,4 @@
 - [Domino](https://github.com/HazyResearch/domino) - Discover slices of data on which your models underperform.
 - [Merlin](https://github.com/gojek/merlin) - Kubernetes-friendly ML model management, deployment, and serving.
 - [Baseten](https://www.baseten.co/) - Build ML-powered applications. ([HN](https://news.ycombinator.com/item?id=31169193))
+- [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.

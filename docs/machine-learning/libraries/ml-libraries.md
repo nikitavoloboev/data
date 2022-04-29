@@ -341,3 +341,4 @@ title: ML Libraries
 - [Ranger](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer) - Synergistic optimizer using RAdam (Rectified Adam), Gradient Centralization and LookAhead in one code base.
 - [Unseal](https://github.com/TomFrederik/unseal) - Mechanistic Interpretability for Transformer Models.
 - [ANTsPy](https://github.com/ANTsX/ANTsPy) - Advanced Normalization Tools in Python.
+- [FasterTransformer Backend](https://github.com/triton-inference-server/fastertransformer_backend) - Triton backend for the FasterTransformer.

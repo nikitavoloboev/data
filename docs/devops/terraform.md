@@ -162,3 +162,4 @@ title: Terraform
 - [Terraform Plugin Go](https://github.com/hashicorp/terraform-plugin-go) - Low-level Go binding for the Terraform protocol for integrations to be built on top of.
 - [Unknown Values: The Secret to Terraform Plan (2021)](https://log.martinatkins.me/2021/06/14/terraform-plan-unknown-values/) ([HN](https://news.ycombinator.com/item?id=31175498))
 - [NS1 Terraform Provider](https://github.com/ns1-terraform/terraform-provider-ns1)
+- [Terraform in Terraform](https://github.com/weakpixel/terraform-provider-tfcli) - Execute Modules directly from the Terraform Registry.

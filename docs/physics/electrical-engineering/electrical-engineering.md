@@ -109,3 +109,4 @@ title: Electrical engineering
 - [ELI 5: What's inside a light bulb?](https://www.reddit.com/r/explainlikeimfive/comments/u8ee7e/eli5_please_my_actual_5_year_old_asked_whats/)
 - [Electronics Explained: Fundamentals for Engineers, Technicians, and Makers (2018)](https://www.sciencedirect.com/book/9780128116418/electronics-explained) ([HN](https://news.ycombinator.com/item?id=31163871))
 - [How I learned electronics (2022)](https://www.youtube.com/watch?v=Bgrubw6B_us) ([HN](https://news.ycombinator.com/item?id=31167652))
+- [Sign-off review checklist for PCB designs](https://github.com/azonenberg/pcb-checklist)

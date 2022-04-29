@@ -109,3 +109,4 @@ title: Three.js
 - [Infinite World Generation](https://github.com/JDihlmann/infty) - Demo of the wave form collapse (WFC) algorithm with react three fiber and web assembly (WASM).
 - [Personal vite starter for react-three-fiber projects](https://github.com/mattrossman/r3f-vite)
 - [ThreeJS Helpers](https://github.com/gsimone/things)
+- [ThreeJS Line object with variable width](https://github.com/vasturiano/three-fatline)

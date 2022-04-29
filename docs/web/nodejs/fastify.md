@@ -55,3 +55,4 @@ title: Fastify
 - [Fastify Redis Cache](https://github.com/d3or/fastify-redis-cache) - Example repo for setting up cache with fastify and redis.
 - [GraphQL Caching Demystified | Matteo Collina (2022)](https://www.youtube.com/watch?v=5aaAHYs_gEs)
 - [Fluent API to generate JSON schemas](https://github.com/fastify/fluent-json-schema)
+- [Fastify Swagger](https://github.com/fastify/fastify-swagger) - Swagger documentation generator for Fastify.

@@ -13,6 +13,7 @@
 - [Play Framework](https://github.com/playframework/playframework) - High Velocity Web Framework. ([Bootstrap Template](https://github.com/innFactory/bootstrap-play2))
 - [ff4s](https://github.com/buntec/ff4s) - Purely functional web frontend framework for Scala.js.
 - [Tyrian](https://github.com/PurpleKingdomGames/tyrian) - Elm-inspired Scala UI library for Scala 3.
+- [guardrail](https://github.com/guardrail-dev/guardrail) - Principled code generation from OpenAPI specifications.
 
 ## CLI
 

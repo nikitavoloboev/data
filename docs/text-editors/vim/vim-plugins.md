@@ -319,3 +319,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [LSP Zero](https://github.com/VonHeikemen/lsp-zero.nvim) - Starting point to setup some lsp related features in neovim.
 - [Viper](https://github.com/aloussase/viper) - Fast CLI plugin manager for (neo)vim.
 - [nvim-rs](https://github.com/KillTheMule/nvim-rs) - Rust library for neovim clients.
+- [Max's neovim config](https://github.com/max397574/NeovimConfig)

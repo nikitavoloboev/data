@@ -1,5 +1,7 @@
 # Speech synthesis
 
+[TorToiSe](https://github.com/neonbjb/tortoise-tts) is nice.
+
 ## Links
 
 - [Deepvoice3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models.
@@ -66,3 +68,4 @@
 - [Nix-TTS](https://github.com/rendchevi/nix-tts) - Incredibly Lightweight End-to-End Text-to-Speech Model via Non End-to-End Distillation.
 - [xVA Synth](https://github.com/DanRuta/xVA-Synth) - Machine learning based speech synthesis Electron app, with voices from specific characters from video games.
 - [Bandwidth Extension is All You Need (2021)](https://ieeexplore.ieee.org/document/9413575) ([Code](https://github.com/brentspell/hifi-gan-bwe))
+- [TorToiSe](https://github.com/neonbjb/tortoise-tts) - Multi-voice TTS system trained with an emphasis on quality.

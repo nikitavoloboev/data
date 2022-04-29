@@ -559,3 +559,4 @@
 - [Language modeling via stochastic processes (2022)](https://arxiv.org/abs/2203.11370) ([Code](https://github.com/rosewang2008/language_modeling_via_stochastic_processes))
 - [An Enhanced Span-based Decomposition Method for Few-Shot Sequence Labeling (2022)](https://arxiv.org/abs/2109.13023) ([Code](https://github.com/Wangpeiyi9979/ESD))
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization (2021)](https://arxiv.org/abs/1911.03437) ([Code](https://github.com/archinetai/smart-pytorch))
+- [DataLab](https://github.com/ExpressAI/DataLab) - Unified platform that allows for NLP researchers to perform a number of data-related tasks in an efficient and easy-to-use manner.

@@ -344,3 +344,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [AWS EKS ASG Rolling Update Handler](https://github.com/TwiN/aws-eks-asg-rolling-update-handler) - Handles rolling upgrades for AWS ASGs for EKS.
 - [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads (2022)](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
 - [Session Manager Plugin](https://github.com/aws/session-manager-plugin) - Plugin to help you use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances.
+- [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) - Amazon's light-weight library for chaos engineering on AWS. It can be used for EC2 and ECS (with EC2 launch type).

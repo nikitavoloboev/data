@@ -1810,6 +1810,8 @@
 - [byte-slice-cast](https://github.com/sdroege/byte-slice-cast) - Safely cast slices of one built-in fundamental number type to another.
 - [clang-rs](https://github.com/KyleMayes/clang-rs) - Idiomatic Rust wrapper for libclang.
 - [rust-psutil](https://github.com/rust-psutil/rust-psutil) - Process and system monitoring library for Rust.
+- [fast-ctc-decode](https://github.com/nanoporetech/fast-ctc-decode) - Blitzing Fast CTC Beam Search Decoder.
+- [Nomad Rust](https://github.com/nomad-xyz/rust) - Rust work for nomad actors.
 
 ## Cargo Plugins
 

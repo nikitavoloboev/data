@@ -87,3 +87,4 @@
 - [Helm Diff Plugin](https://github.com/databus23/helm-diff) - Helm plugin that shows a diff explaining what a helm upgrade would change.
 - [krew-wasm](https://github.com/flavio/krew-wasm) - Offers a way to write and distribute kubectl plugins based on WebAssembly.
 - [Kubernetes Replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces.
+- [Helm Templexer](https://github.com/hendrikmaus/helm-templexer) - Render Helm charts for multiple environments using explicit configuration.

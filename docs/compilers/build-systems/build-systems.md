@@ -1,5 +1,7 @@
 # Build systems
 
+[Nx](https://nx.dev/) & [Turborepo](https://turborepo.org/) are nice.
+
 ## Links
 
 - [Please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible builds. ([Web](https://please.build/))
@@ -110,3 +112,4 @@
 - [BuildCache](https://github.com/mbitsnbites/buildcache) - Advanced compiler accelerator that caches and reuses build results to avoid unnecessary re-compilations, and thereby speeding up the build process.
 - [Improve Build Times in Less Time (2022)](https://speakerdeck.com/zacsweers/improve-build-times-in-less-time)
 - [wharf](https://github.com/itchio/wharf) - Protocol for incrementally transferring software builds over the network using minimal time/bandwidth. ([Lobsters](https://lobste.rs/s/szzej7/wharf_protocol_quickly_transfer))
+- [e3](https://github.com/AdaCore/e3-core) - Python framework to ease the development of portable automated build systems (compilation, dependencies management, binary code packaging, and automated testing).

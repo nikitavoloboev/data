@@ -328,7 +328,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [gqlparser](https://github.com/vektah/gqlparser) - Port of the parser from graphql-js into Go.
 - [genqlient](https://github.com/Khan/genqlient) - Truly type-safe Go GraphQL client. ([Article](https://blog.khanacademy.org/genqlient-a-truly-type-safe-go-graphql-client/)) ([Article](https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/))
-- [GQLGen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/)) ([GQLGen PG TODO Example](https://github.com/oshalygin/gqlgen-pg-todo-example))
+- [GQLGen](https://github.com/99designs/gqlgen) - Library for quickly creating strictly typed graphql servers in golang. ([Docs](https://gqlgen.com/)) ([GQLGen PG TODO Example](https://github.com/oshalygin/gqlgen-pg-todo-example)) ([Demo Code](https://github.com/bkonkle/go-example-caster-api))
 - [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
 - [GGql](https://github.com/UHN/ggql) - GraphQL implementation for Go.
 - [Tutone](https://github.com/newrelic/tutone) - Generate Go types from GraphQL schema introspection.
@@ -586,6 +586,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go eBPF](https://github.com/dropbox/goebpf) - Library to work with eBPF programs from Go.
 - [go-uring](https://github.com/godzie44/go-uring) - Linux io_uring for Go.
 - [libseccomp-go](https://github.com/seccomp/libseccomp-golang) - Easy to use, platform independent, interface to the Linux Kernel's syscall filtering mechanism.
+- [go-evdev](https://github.com/holoplot/go-evdev) - Go support for the Linux evdev interface.
 
 ## Apple
 
@@ -1608,6 +1609,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [nursery](https://github.com/arunsworld/nursery) - Structured Concurrency in Go.
 - [fp-go](https://github.com/repeale/fp-go) - Collection of Functional Programming helpers powered by Go 1.18+ generics.
 - [Underscore](https://github.com/rjNemo/underscore) - Useful functional programming helpers for Go 1.18 and beyond.
+- [Conflux Go API](https://github.com/Conflux-Chain/go-conflux-sdk)
+- [go-find](https://github.com/jaytaylor/go-find) - Programmatically accessible Go implementation of the \*nix `find` command.
 
 ## Links
 

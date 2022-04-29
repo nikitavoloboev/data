@@ -154,3 +154,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Cloudflare Worker Recipes](https://github.com/cloudflare/worker-examples) - Examples of JavaScript you can run on Cloudflare’s worldwide network.
 - [Fastify Edge](https://github.com/galvez/fastify-edge) - Use Fastify Idioms for Writing Cloudflare Workers.
 - [darkflare](https://github.com/azurydev/darkflare) - Highly opinionated TypeScript framework for Cloudflare Workers.
+- [build-worker](https://github.com/brillout/build-worker) - Build your Cloudflare Workers with esbuild.

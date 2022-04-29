@@ -303,6 +303,7 @@ Below is a list of extensions I use.
 
 ## Ruby
 
+- [VS Code Shopify Ruby](https://github.com/Shopify/vscode-shopify-ruby) - Opinionated and auto-configured set of extensions for Ruby development.
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support.
 
 ## Rust
