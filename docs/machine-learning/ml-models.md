@@ -84,3 +84,4 @@
 - [Merlin](https://github.com/gojek/merlin) - Kubernetes-friendly ML model management, deployment, and serving.
 - [Baseten](https://www.baseten.co/) - Build ML-powered applications. ([HN](https://news.ycombinator.com/item?id=31169193))
 - [Triton Inference Server](https://github.com/triton-inference-server/server) - Provides a cloud and edge inferencing solution optimized for both CPUs and GPUs.
+- [Feature Store](https://databricks.com/product/feature-store) - Feature store co-designed with a data platform and MLOps framework. ([Announcement](https://databricks.com/blog/2022/04/29/announcing-general-availability-of-databricks-feature-store.html))

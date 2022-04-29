@@ -223,3 +223,4 @@ title: Clojure
 - [Clojure and Doom Emacs on a brand new M1 computer (2022)](https://www.arthurbrrs.me/clojure-doom-emacs-m1) ([HN](https://news.ycombinator.com/item?id=31064724))
 - [Scittle](https://github.com/babashka/scittle) - Small Clojure Interpreter exposed for usage in browser script tags.
 - [Packaging Clojure for Production (2022)](https://www.metosin.fi/blog/packaging-clojure/)
+- [Clay](https://scicloj.github.io/clay/) - Way to write Clojure data science notebook value renderers that are portable across the land.

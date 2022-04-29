@@ -75,3 +75,4 @@
 - [Paul Graham's lessons to kids](https://twitter.com/paulg/status/1506917041177075715)
 - [BookVine](https://www.bookvine.io/) - Help find age appropriate books for kids aged 6 to 14. ([HN](https://news.ycombinator.com/item?id=30821434))
 - [Building Things and Raising Children (2022)](https://www.swiftjectivec.com/building-things-and-raising-children/)
+- [Ask HN: It's 2022. Where should I direct the youths to learn about programming?](https://news.ycombinator.com/item?id=31209644)

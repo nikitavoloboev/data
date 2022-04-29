@@ -63,3 +63,4 @@ title: Prolog
 - [NLProlog](https://github.com/leonweber/nlprolog) - Neural Logic Reasoning for Question Answering.
 - [egglog](https://github.com/philzook58/egglog) - Prolog like syntax for egg.
 - [Web Prolog](https://github.com/Web-Prolog/swi-web-prolog) - SWI-Prolog implementation of Web Prolog.
+- [Ask HN: What are some interesting examples of Prolog? (2022)](https://news.ycombinator.com/item?id=31210466)

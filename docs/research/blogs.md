@@ -243,3 +243,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [An overly complicated blog (2022)](https://n14n.dev/articles/2022/an-overly-complicated-blog/)
 - [Ask HN: Why is Substack so popular? (2022)](https://news.ycombinator.com/item?id=31083165)
 - [Cool Things People Do With Their Blogs (2022)](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)
+- [lists.sh](https://lists.sh/) - Microblog for lists. ([Code](https://github.com/neurosnap/lists.sh)) ([HN](https://news.ycombinator.com/item?id=31154567))

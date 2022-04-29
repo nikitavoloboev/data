@@ -81,3 +81,4 @@
 - [Crypter](https://github.com/HR/Crypter) - Innovative, convenient and secure encryption app.
 - [OPAQUE](https://github.com/novifinancial/opaque-ke) - Asymmetric password-authenticated key exchange protocol.
 - [akd](https://github.com/novifinancial/akd) - Implementation of an auditable key directory (also known as a verifiable registry).
+- [Ask HN: CLI Tool for File Encryption? (2022)](https://news.ycombinator.com/item?id=31204523)
