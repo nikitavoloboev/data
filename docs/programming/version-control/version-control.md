@@ -43,3 +43,4 @@
 - [Ask HN: Do you pull and run code as part of code review? (2022)](https://news.ycombinator.com/item?id=30577735)
 - [Contractual SemVer](https://github.com/pschanely/contractual-semver) - Uses the idea of Software contracts to let authors rigorously define "backwards compatability" for their libraries. ([Lobsters](https://lobste.rs/s/vr7m10/contractual_semver))
 - [Conventional Commits Parser](https://github.com/conventional-commits/parser)
+- [Version Locking for Notebook Imports / Observable](https://observablehq.com/@observablehq/version-locking-for-notebook-imports)

@@ -14,3 +14,4 @@ title: Crystal
 - [Crystal 1.0 – What to expect (2021)](https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html) ([HN](https://news.ycombinator.com/item?id=26545082))
 - [Crystal 1.2.0 (2021)](https://crystal-lang.org/2021/10/14/1.2.0-released.html) ([HN](https://news.ycombinator.com/item?id=28872769))
 - [Ask HN: The Crystal programming language – what are your impressions? (2022)](https://news.ycombinator.com/item?id=31192826)
+- [Crystalline](https://github.com/elbywan/crystalline) - Language Server Protocol implementation for Crystal.

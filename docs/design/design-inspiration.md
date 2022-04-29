@@ -150,6 +150,7 @@ Here are few more things I liked, design wise. [Linear is pretty great](https://
 - [Rekki](https://rekki.com/)
 - [Dala](https://dala.craftedbygc.com/)
 - [IStories](https://istories.media/en/)
+- [Google I/O 2022](https://io.google/2022/)
 - [Numinus](https://numinus.ca/)
 - [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)

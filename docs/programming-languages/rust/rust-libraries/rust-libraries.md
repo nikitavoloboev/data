@@ -1,6 +1,6 @@
 # Rust libraries
 
-[axum](https://github.com/tokio-rs/axum) seems nice as a web framework.
+[axum](https://github.com/tokio-rs/axum) seems nice as a web framework. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection.
 
 ## CLI
 

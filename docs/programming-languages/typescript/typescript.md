@@ -254,6 +254,7 @@ title: TypeScript
 - [TypeScript and Set Theory (2022)](https://ivov.dev/notes/typescript-and-set-theory)
 - [TypeScript Error Translator](https://ts-error-translator.vercel.app/) - Translate your TypeScript errors into plain English. ([Code](https://github.com/mattpocock/ts-error-translator))
 - [SonarJS](https://github.com/SonarSource/SonarJS) - Static code analyzer for JavaScript, TypeScript and CSS languages.
+- [Advanced TypeScript with Matt (2022)](https://www.youtube.com/watch?v=F7O4gA0GXqI)
 
 ## Images
 

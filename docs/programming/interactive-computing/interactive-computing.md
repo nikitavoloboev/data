@@ -1,5 +1,7 @@
 # Interactive computing
 
+[Observable Notebooks](https://observablehq.com/) are amazing.
+
 ## Links
 
 - [Jupyter Interactive Notebook](https://github.com/jupyter/notebook) - Web-based notebook environment for interactive computing.

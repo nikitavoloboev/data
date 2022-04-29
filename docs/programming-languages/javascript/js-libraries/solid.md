@@ -52,3 +52,4 @@ title: SolidJS
 - [Solid-Blocks](https://github.com/atk/solid-blocks) - UI building blocks for SolidJS.
 - [Solid + Netlify Edge functions powered by Deno HN Demo](https://github.com/solidjs/solid-hackernews/tree/netlify-edge) ([Tweet](https://twitter.com/RyanCarniato/status/1516510395787218944))
 - [Solid Aria](https://github.com/solidjs-community/solid-aria) - Library of high-quality primitives that help you build accessible user interfaces with SolidJS.
+- [Motion One for Solid](https://motion.dev/solid/quick-start) - Combines Solid's amazing performance with declarative WAAPI animations, independent transforms, springs, stagger, and more. ([Tweet](https://twitter.com/motiondotdev/status/1520025108403863554))

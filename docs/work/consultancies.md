@@ -6,6 +6,7 @@
 - [Galois](https://galois.com/) - Develops technology to guarantee the trustworthiness of systems where failure is unacceptable. ([GitHub](https://github.com/GaloisInc/))
 - [Akveo](https://www.akveo.com/) - Delivering Web & Mobile Solutions.
 - [Spaceship Studio](https://spaceship.studio/) - Web & mobile development, strategy, and training.
+- [Margelo](https://margelo.io/) - Elite App Development and Contracting Agency - aka the "React Native Avengers". ([Twitter](https://twitter.com/margelo_io)) ([GitHub](https://github.com/margelo))
 
 ## React
 

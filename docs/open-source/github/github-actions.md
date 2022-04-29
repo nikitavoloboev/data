@@ -220,6 +220,7 @@ title: GitHub actions
 - [11ty GitHub Actions](https://github.com/bolonio/a11y-github-actions) - How to test web accessibility using GitHub Actions.
 - [install-gh-release](https://github.com/jaxxstorm/action-install-gh-release) - GitHub Action to install the GitHub Release binaries.
 - [Comment Pull Request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request.
+- [Coursier cache action](https://github.com/coursier/cache-action) - GitHub action to save / restore the coursier / sbt / mill / Ammonite caches of your build.
 
 ## Go
 

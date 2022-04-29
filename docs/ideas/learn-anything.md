@@ -16,7 +16,7 @@ A kind of Netflix for learning. And as its open source too, anyone who knows how
 
 ![](https://raw.githubusercontent.com/learn-anything/2017-release/master/media/header.png)
 
-In short, I want to make a tool that sits somewhere inbetween [Raindrop](https://raindrop.io/)/[Pinboard](https://pinboard.in/popular/) for bookmarks. Mixed in with [Learney](https://app.learney.me)/[MapOfReddit](https://anvaka.github.io/map-of-reddit/) for visualization of topics.
+In short, I want to make a tool that sits somewhere inbetween [Raindrop](https://raindrop.io/)/[Pinboard](https://pinboard.in/popular/) for bookmarks. Mixed in with [Learney](https://app.learney.me)/[MapOfReddit](https://anvaka.github.io/map-of-reddit/) for visualization of topics. Or someone said, create a [Google Maps but for navigating information space](https://twitter.com/MatthewWSiu/status/1519906295603675143).
 
 ## New design
 
