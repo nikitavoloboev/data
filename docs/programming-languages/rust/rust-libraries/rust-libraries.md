@@ -1809,6 +1809,7 @@
 - [Lever](https://github.com/vertexclique/lever) - Pillars for Transactional Systems and Data Grids.
 - [byte-slice-cast](https://github.com/sdroege/byte-slice-cast) - Safely cast slices of one built-in fundamental number type to another.
 - [clang-rs](https://github.com/KyleMayes/clang-rs) - Idiomatic Rust wrapper for libclang.
+- [rust-psutil](https://github.com/rust-psutil/rust-psutil) - Process and system monitoring library for Rust.
 
 ## Cargo Plugins
 

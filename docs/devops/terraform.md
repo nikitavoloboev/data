@@ -161,3 +161,4 @@ title: Terraform
 - [Pulumi as an alternative for Terraform? (2022)](https://www.reddit.com/r/devops/comments/ua3oby/pulumi_as_an_alternative_for_terraform/)
 - [Terraform Plugin Go](https://github.com/hashicorp/terraform-plugin-go) - Low-level Go binding for the Terraform protocol for integrations to be built on top of.
 - [Unknown Values: The Secret to Terraform Plan (2021)](https://log.martinatkins.me/2021/06/14/terraform-plan-unknown-values/) ([HN](https://news.ycombinator.com/item?id=31175498))
+- [NS1 Terraform Provider](https://github.com/ns1-terraform/terraform-provider-ns1)

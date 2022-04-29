@@ -609,3 +609,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Sourcify](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service.
 - [Yield Protocol Vault v2](https://github.com/yieldprotocol/vault-v2) - Collateralized Debt Engine for zero-coupon bonds, loosely integrated with YieldSpace Automated Market Makers.
 - [Awesome Diamonds](https://github.com/mudgen/awesome-diamonds) - Curated list of awesome EIP2535 Diamonds resources, libraries, tools and more.
+- [Giza](https://github.com/lambdaclass/giza) - Rust implementation of the Cairo VM.

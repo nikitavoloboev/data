@@ -737,3 +737,5 @@
 - [Nonuniform-to-Uniform Quantization: Towards Accurate Quantization via Generalized Straight-Through Estimation (2021)](https://arxiv.org/abs/2111.14826) ([Code](https://github.com/liuzechun/Nonuniform-to-Uniform-Quantization))
 - [Tackling multiple tasks with a single visual language model (2022)](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model) ([Code](https://github.com/lucidrains/flamingo-pytorch)) ([Tweet](https://twitter.com/DeepMind/status/1519686445258231811))
 - [Associating Objects with Transformers for Video Object Segmentation (2021)](https://arxiv.org/abs/2106.02638) ([Code](https://github.com/z-x-yang/AOT))
+- [Simple multi-dataset detection](https://github.com/xingyizhou/UniDet) - Object detection on multiple datasets with an automatically learned unified label space.
+- [Learning Texture Transformer Network for Image Super-Resolution (2020)](https://arxiv.org/abs/2006.04139) ([Code](https://github.com/researchmm/TTSR))

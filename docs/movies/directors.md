@@ -36,3 +36,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Guy Ritchie - How a non-famous clip maker SNATCHed at a chance (Documentary)](https://www.youtube.com/watch?v=v2ftzRsTjTk)
 - [Inside Jojo Rabbit - Behind the Scenes](https://www.youtube.com/watch?v=c0f4RRoKLCU)
 - [Taika Waititi's creative career](https://twitter.com/vilbbit/status/1516484799883579395)
+- [What directors unique vision do you believe viewers are truly missing out on if they've never seen?](https://www.reddit.com/r/Letterboxd/comments/ue239d/what_directors_unique_vision_do_you_believe/)
