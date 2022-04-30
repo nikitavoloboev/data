@@ -111,3 +111,4 @@
 - [Data Structures and Algorithms in Go](https://github.com/paliimx/Data-Structures-and-Algorithms)
 - [Roaring Bitmaps](https://roaringbitmap.org/) - Compressed bitmaps. They can be hundreds of times faster.
 - [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time (2022)](https://arxiv.org/abs/2203.00671) ([HN](https://news.ycombinator.com/item?id=31149038))
+- [Are tagged unions overrated? (2021)](https://typesanitizer.com/blog/tagged-unions.html)

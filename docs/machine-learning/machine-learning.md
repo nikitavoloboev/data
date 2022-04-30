@@ -792,3 +792,4 @@
 - [Open Source MLOps](https://github.com/fuzzylabs/awesome-open-mlops) - Fuzzy Labs guide to the universe of free and open source MLOps tools.
 - [Why train when you can optimize?](https://justinmeiners.github.io/why-train-when-you-can-optimize/) ([HN](https://news.ycombinator.com/item?id=31205689)) ([Code](https://github.com/justinmeiners/why-train-when-you-can-optimize))
 - [Data Engineering & Machine Learning Knowledge Hub](https://github.com/abhishek-ch/around-dataengineering)
+- [Graph Contrastive Learning with Augmentations (2020)](https://arxiv.org/abs/2010.13902) ([Code](https://github.com/Shen-Lab/GraphCL))

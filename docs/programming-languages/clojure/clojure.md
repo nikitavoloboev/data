@@ -224,3 +224,4 @@ title: Clojure
 - [Scittle](https://github.com/babashka/scittle) - Small Clojure Interpreter exposed for usage in browser script tags.
 - [Packaging Clojure for Production (2022)](https://www.metosin.fi/blog/packaging-clojure/)
 - [Clay](https://scicloj.github.io/clay/) - Way to write Clojure data science notebook value renderers that are portable across the land.
+- [ClojureC](https://github.com/schani/clojurec) - Clojure implementation on top of C.

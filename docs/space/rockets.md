@@ -24,3 +24,4 @@
 - [SpaceX’s monstrous, dirt-cheap Starship may transform space travel (2022)](https://www.economist.com/science-and-technology/2022/02/19/spacexs-monstrous-dirt-cheap-starship-may-transform-space-travel) ([HN](https://news.ycombinator.com/item?id=30379271))
 - [No one knows why the most used spacecraft propulsion system works (2022)](https://twitter.com/lougrims/status/1516013489722216450) ([HN](https://news.ycombinator.com/item?id=31070721))
 - [A helicopter will try to catch a rocket booster mid-air (2022)](https://spectrum.ieee.org/rocket-booster-rocket-lab) ([HN](https://news.ycombinator.com/item?id=31075075))
+- [How do you power a rocket engine? (2022)](https://everydayastronaut.com/rocket-engine-cycles/) ([HN](https://news.ycombinator.com/item?id=31215149))

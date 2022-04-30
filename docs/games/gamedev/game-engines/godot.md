@@ -67,3 +67,4 @@ title: Godot
 - [Godot Visual Effects](https://github.com/GDQuest/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
 - [ArcadiaGodot](https://github.com/arcadia-unity/ArcadiaGodot) - Integration of the Clojure Programming Language with the Godot game engine.
 - [Qarminer](https://github.com/qarmin/Qarminer) - Fuzzer which finds crashes, memory leaks and undefined behaviors in Godot Engine.
+- [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - 2D Terrain Tool for Godot.

@@ -38,3 +38,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Onin](https://onin.co/) - Plan events without leaving the chat. ([Twitter](https://twitter.com/onin))
 - [entrofy](https://github.com/dhuppenkothen/entrofy) - Participant selection for workshops and conferences made easy. Selection of participants for meetings as a discrete optimization problem.
 - [Astral Ship](https://astralship.org/) - Innovative pirateship for a change-maker collective. ([Twitter](https://twitter.com/theastralship))
+- [Con Event](https://bangbangcon.com/) - Two days of ten-minute talks to celebrate the joyous, exciting, and surprising moments in computing.

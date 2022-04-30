@@ -361,3 +361,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What's a good general-purpose programming language? (2022)](https://www.avestura.dev/blog/ideal-programming-language) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/uc9hsl/whats_a_good_generalpurpose_programming_language/))
 - [Inform 7](https://github.com/ganelson/inform) - Programming language for creating interactive fiction, using natural language syntax. ([HN](https://news.ycombinator.com/item?id=31196063)) ([OSS release post](https://intfiction.org/t/inform-7-v10-1-0-is-now-open-source/55674))
 - [Scopes](https://sr.ht/~duangle/scopes/) - Retargetable programming language & infrastructure.
+- [Scope Sets as a Piñata for Name Resolution (2021)](https://typesanitizer.com/blog/scope-sets.html)
+- [Principled Ad-Hoc Polymorphism (2018)](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)

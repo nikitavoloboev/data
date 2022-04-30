@@ -116,6 +116,7 @@ title: Obsidian
 - [Scroll Offset](https://github.com/lijyze/scroll-offset) - Plugin can keep a defined distance before and after cursor, just like scrolloff in vim of cursor surrounding lines in VS-Code.
 - [Jump to Link](https://github.com/mrjackphil/obsidian-jump-to-link) - Quickly navigate between links, or jump to any word on the page using hotkeys.
 - [Database folder](https://github.com/RafaelGB/obsidian-bd-folder) - Obsidian Plugin to Allow Notion like database based on folders.
+- [Paste PNG to JPEG](https://github.com/musug/obsidian-paste-png-to-jpeg) - When pasting screenshots into obsidian notes, convert the images to JPEG and compress them.
 
 ## Themes
 

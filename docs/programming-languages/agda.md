@@ -89,3 +89,4 @@ title: Agda
 - [Axiomatic (ZF⁻-like) set theory](https://github.com/Borschemancer/axiomatic-sets)
 - [Univalent classical mathematics in Cubical Agda](https://github.com/kangrongji/cubical-classics)
 - [Dependently typed Algorithm M and friends](https://github.com/effectfully/STLC)
+- [Experimenting on ornamentation in Agda via reflection](https://github.com/Zekt/Type-Embellishment)

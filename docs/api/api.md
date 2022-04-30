@@ -183,6 +183,7 @@
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
 - [Typeform JS SDK](https://github.com/Typeform/js-api-client)
 - [Twitch GraphQL](https://github.com/ColeWalker/twitch-graphql)
+- [Twitch Rust](https://github.com/Emilgardis/twitch_api2)
 - [Finage](https://docs.finage.co.uk/#/) - Stock,Currency and Crypto Real-Time API.
 - [Vonage API](https://developer.nexmo.com/) - Everything you need to build connected applications. ([Code](https://github.com/Nexmo/nexmo-developer))
 - [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/)

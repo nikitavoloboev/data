@@ -1112,6 +1112,7 @@
 - [KSPlayer](https://github.com/kingslay/KSPlayer) - iOS/macOS/tvOS video player.
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - Better way to deal with JSON data in Swift.
 - [EnumKit](https://github.com/gringoireDM/EnumKit) - Library that gives you the ability to simply access an enum associated value, without having to use pattern matching.
+- [Toledo](https://github.com/valentinradu/Toledo) - Dependency injection library for Swift that statically generates resolvers at compile-time.
 
 ## Other (not lib)
 

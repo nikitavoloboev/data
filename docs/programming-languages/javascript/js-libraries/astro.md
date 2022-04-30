@@ -21,3 +21,4 @@ title: Astro
 - [Astro Docs](https://docs.astro.build/en/getting-started/) ([Code](https://github.com/withastro/docs))
 - [Astro parser for ESLint](https://github.com/ota-meshi/astro-eslint-parser)
 - [Astro Firebase](https://github.com/thepassle/astro-firebase) - Deploy your server-side rendered (SSR) Astro app to Firebase.
+- [Astro Starter Kit: Minimal](https://github.com/thepassle/astro-service-worker)

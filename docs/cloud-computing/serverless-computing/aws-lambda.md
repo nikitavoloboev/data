@@ -131,3 +131,4 @@ title: AWS Lambda
 - [Automatically Detect Operational Issues in Lambda Functions with Amazon DevOps Guru for Serverless (2022)](https://aws.amazon.com/blogs/aws/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
 - [Running Containers on AWS Lambda (2022)](https://earthly.dev/blog/aws-lambda-docker/) ([HN](https://news.ycombinator.com/item?id=31182099))
 - [Holy Lambda](https://github.com/FieryCod/holy-lambda) - Extraordinary simple, performant, and extensible custom AWS Lambda runtime for Clojure.
+- [Best practices for optimizing Lambda functions (2022)](https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions) ([HN](https://news.ycombinator.com/item?id=31215328))

@@ -95,3 +95,4 @@
 - [WebGL Usage Patterns at Squarespace (2022)](https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw)
 - [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu/) ([HN](https://news.ycombinator.com/item?id=30965352))
 - [glMatrix](https://github.com/toji/gl-matrix) - JavaScript Matrix and Vector library for High Performance WebGL apps.
+- [HTML GL](https://github.com/PixelsCommander/HTML-GL) - Solves "the slow DOM problem" by creating WebGL representations of DOM elements and hiding actual DOM after.

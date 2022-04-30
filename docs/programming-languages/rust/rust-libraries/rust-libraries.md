@@ -681,6 +681,7 @@
 - [version](https://github.com/nulldatamap/version) - Simple macro that returns the version of the crate as a string.
 - [assert-json-diff](https://github.com/davidpdrsn/assert-json-diff) - Easily compare two JSON values and get great output.
 - [cascade](https://github.com/InquisitivePenguin/cascade) - Dart-like cascade expressions in Rust.
+- [Impl-tools](https://github.com/kas-gui/impl-tools) - Set of helper macros.
 
 ## Math
 
@@ -1813,7 +1814,8 @@
 - [rust-psutil](https://github.com/rust-psutil/rust-psutil) - Process and system monitoring library for Rust.
 - [fast-ctc-decode](https://github.com/nanoporetech/fast-ctc-decode) - Blitzing Fast CTC Beam Search Decoder.
 - [Nomad Rust](https://github.com/nomad-xyz/rust) - Rust work for nomad actors.
-- [Shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency lnjection Library for Rust.
+- [Shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency injection Library for Rust.
+- [async_nursery](https://github.com/najamelan/async_nursery) - Primitive for structured concurrency.
 
 ## Cargo Plugins
 
@@ -1889,6 +1891,7 @@
 - [rusty-hook](https://github.com/swellaby/rusty-hook) - Git hook utility for Rust codebases that lets you run any script for any git hook.
 - [cargo-clone](https://github.com/JanLikar/cargo-clone) - Cargo subcommand to fetch the source code of a Rust crate.
 - [Cargo Structure](https://github.com/ramon54321/cargo-structure) - Utility for analyzing the structure of a cargo project.
+- [cargo-trace](https://github.com/dvc94ch/cargo-trace) - Flamegraphing tool for perf events.
 
 ## Links
 

@@ -99,3 +99,4 @@ title: LoRaWAN
 - [Ebook: Guide to LoRaWAN](https://www.nexpcb.com/lorawan-guide)
 - [Private, Secure and Uncensorable Messaging Over a LoRa Mesh (2022)](https://unsigned.io/private-messaging-over-lora/) ([Reddit](https://www.reddit.com/r/darknetplan/comments/tq8v6d/private_secure_and_uncensorable_messaging_over_a/))
 - [Reticulum](https://github.com/markqvist/Reticulum) - Self-configuring, encrypted and resilient mesh for LoRa, packet radio, WiFi and everything in between. ([HN](https://news.ycombinator.com/item?id=30870187))
+- [RNode Firmware](https://github.com/markqvist/RNode_Firmware) - Firmware for the LoRa interface RNode.

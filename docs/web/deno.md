@@ -237,3 +237,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Ruck](https://github.com/jaydenseric/ruck) - Open source buildless React web application framework for Deno. ([Web](https://ruck.tech/))
 - [Deno.js CORS middleware](https://github.com/tajpouria/cors)
 - [Denocker](https://github.com/Oursin/denocker) - Docker client library for Deno.
+- [Fast Forward](https://github.com/c4spar/deno-fast-forward) - Easy to use ffmpeg module for Deno.
