@@ -185,3 +185,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Be Less Technical (2022)](https://www.sequential.dev/posts/be-less-technical/) ([HN](https://news.ycombinator.com/item?id=31046268))
 - [Difficult Conversations: How to Discuss What Matters Most by Douglas Stone](https://www.goodreads.com/en/book/show/774088.Difficult_Conversations)
 - [Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson](https://www.goodreads.com/en/book/show/15014)
+- [Not Rocket Science (Meeting Edition) (2021)](https://typesanitizer.com/blog/not-rocket-science.html)
