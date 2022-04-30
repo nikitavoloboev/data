@@ -790,3 +790,5 @@
 - [data2vec and the future of multimodal learning (2022)](https://towardsdatascience.com/data2vec-and-the-future-of-multimodal-learning-f33f9c781f48)
 - [Mapping Fair ML](https://github.com/summerscope/mapping-fair-ml) - Curated list of links and resources for Fair ML and Data Ethics.
 - [Open Source MLOps](https://github.com/fuzzylabs/awesome-open-mlops) - Fuzzy Labs guide to the universe of free and open source MLOps tools.
+- [Why train when you can optimize?](https://justinmeiners.github.io/why-train-when-you-can-optimize/) ([HN](https://news.ycombinator.com/item?id=31205689)) ([Code](https://github.com/justinmeiners/why-train-when-you-can-optimize))
+- [Data Engineering & Machine Learning Knowledge Hub](https://github.com/abhishek-ch/around-dataengineering)

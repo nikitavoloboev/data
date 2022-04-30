@@ -86,3 +86,4 @@ title: TCP
 - [ilock](https://doc.huc.fr.eu.org/en/monitor/iblock-openbsd/) - Detect TCP connections, on specific ports, in order to block the corresponding IP addresses, through Packet Filter.
 - [get-port-please](https://github.com/unjs/get-port-please) - Get an available TCP port to listen.
 - [TCP Server GUI](https://github.com/AlexxNB/TCPServerGUI) - TCP Server with GUI to debug tcp connections.
+- [Accord](https://github.com/LoipesMas/accord) - Instant messaging chat system in Rust over TCP with encryption.

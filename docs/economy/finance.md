@@ -189,3 +189,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Do very rich people bother with a pension? (2022)](https://www.reddit.com/r/UKPersonalFinance/comments/ubis8o/do_very_rich_people_bother_with_a_pension/)
 - [Fintopea](https://www.fintopea.com/) - Free financial visualizations of publicly listed companies. ([Code](https://github.com/RaymondMoay/fintopea)) ([HN](https://news.ycombinator.com/item?id=31192956))
 - [Polygon.io](https://polygon.io/) - Stock Market Data APIs.
+- [Best payment processor out there that acts as a merchant of record (2022)](https://twitter.com/adamwathan/status/1520371027771117568)

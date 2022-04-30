@@ -136,6 +136,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [qt](https://github.com/go-quicktest/qt) - Quick helpers for testing Go applications using generics.
 - [assert](https://github.com/alecthomas/assert) - Simple assertion library using Go generics.
 - [DDD in Go](https://github.com/percybolmer/ddd-go)
+- [cover](https://github.com/nikandfor/cover) - Go cover tool for maximum productivity.
 
 ## Web
 

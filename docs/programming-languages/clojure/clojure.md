@@ -58,7 +58,7 @@ title: Clojure
 - [Clojure Distilled](https://yogthos.net/ClojureDistilled.html)
 - [Clojure for Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 - [Introduction to Clojure – Modern dialect of Lisp (2013)](https://www.creativeapplications.net/tutorials/introduction-to-clojure-part-1/)
-- [ClojureRS](https://github.com/Tko1/ClojureRS) - Clojure, implemented atop Rust.
+- [ClojureRS](https://github.com/clojure-rs/ClojureRS) - Clojure, implemented atop Rust. ([HN](https://news.ycombinator.com/item?id=31214294))
 - [Joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter. ([Web](https://joker-lang.org/)) ([HN](https://news.ycombinator.com/item?id=28397893))
 - [4Clojure](http://www.4clojure.com/) - Resource to help fledgling clojurians learn the language through interactive problems. ([Code](https://github.com/4clojure/4clojure))
 - [History of Clojure – Rich Hickey](https://clojure.org/about/history) ([HN](https://news.ycombinator.com/item?id=23418699))

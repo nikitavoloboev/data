@@ -188,3 +188,4 @@ title: Twitter
 - [Parse Tweet Archive Python Script](https://github.com/mshea/Parse-Twitter-Archive)
 - [Elon Conquers The Twitterverse (2022)](https://bariweiss.substack.com/p/elon-conquers-the-twitterverse?s=w) ([Tweet](https://twitter.com/micsolana/status/1518980601197608960))
 - [Search your Twitter Bookmarks](https://github.com/twitterdev/bookmarks-search)
+- [Why Twitter is a Musk-Have (2022)](https://blog.lopp.net/why-twitter-musk-have/)

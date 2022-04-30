@@ -846,6 +846,7 @@
 - [Reloadium](https://github.com/reloadware/reloadium) - Advanced hot reloading for Python. ([Web](https://reloadium.io/)) ([HN](https://news.ycombinator.com/item?id=31168069))
 - [Multiformats](https://github.com/hashberg-io/multiformats) - Python implementation of multiformat protocols.
 - [colorlog](https://github.com/borntyping/python-colorlog) - Colored formatter for the python logging module.
+- [pydantic-core](https://github.com/samuelcolvin/pydantic-core) - Core validation logic for pydantic written in rust.
 
 ## Notes
 

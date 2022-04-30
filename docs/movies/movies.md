@@ -101,3 +101,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Funny movies list](https://twitter.com/thekitze/status/1515265308931596293)
 - [Movie that can make me cry](https://www.reddit.com/r/MovieSuggestions/comments/u4pext/looking_for_a_movie_that_can_make_me_cry/)
 - [The Critical Drinker - YouTube](https://www.youtube.com/c/TheCriticalDrinker/videos)
+- [Movies that require significant brain usage (2022)](https://www.reddit.com/r/MovieSuggestions/comments/uevryz/request_for_movies_that_require_significant_brain/)

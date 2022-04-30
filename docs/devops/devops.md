@@ -178,4 +178,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Lightweight Cluster/Cloud VM Job Management](https://github.com/mle-infrastructure/mle-scheduler)
 - [Echoes HQ](https://www.echoeshq.com/) - Developer-friendly activity reports.
 - [Gasper](https://github.com/sdslabs/gasper) - Intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.
-- [Post-Incident Review on the Atlassian April 2022 outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage)
+- [Post-Incident Review on the Atlassian April 2022 Outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage) ([Lobsters](https://lobste.rs/s/0zqnvu/post_incident_review_on_atlassian_april)) ([HN](https://news.ycombinator.com/item?id=31210469))

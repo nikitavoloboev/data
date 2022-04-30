@@ -51,6 +51,7 @@ title: Discord
 - [imgdl](https://github.com/Fyko/imgdl-bot) - Discord bot to recursively download images from a Discord channel.
 - [DoseBot](https://github.com/dosebotredux/DosebotRedux) - Harm reduction Discord bot, used to provide users with a variety of useful harm reduction information from PsychonautWiki.
 - [RaidProtect](https://github.com/raidprotect/raidprotect) - Moderate your Discord server easily.
+- [Discord bot backed by a web app example](https://github.com/with-heart/discord-bot-webapp-example)
 
 ## Libraries
 

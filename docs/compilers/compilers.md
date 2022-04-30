@@ -213,3 +213,4 @@
 - [Squint](https://github.com/HPCguy/Squint) - Peephole optimizer for stack VM compilers.
 - [raddsl](https://github.com/true-grue/raddsl) - Tools for rapid prototyping of DSL compilers.
 - [Compiler Adventures, part 1: No-op Instructions (2022)](https://medium.com/@predrag.gruevski/compiler-adventures-part-1-no-op-instructions-c084358c7864) ([Tweet](https://twitter.com/PredragGruevski/status/1489282449498640388))
+- [A compiler's users (2021)](https://typesanitizer.com/blog/a-compilers-users-p1.html)

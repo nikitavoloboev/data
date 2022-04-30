@@ -212,3 +212,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [What's your favorite Wikipedia page?](https://twitter.com/waitbutwhy/status/1516503921849561088)
 - [Bits of advice I wish I had known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/) ([HN](https://news.ycombinator.com/item?id=31199300))
 - [What question do you ask to find if someone knows your field? (2022)](https://twitter.com/engineers_feed/status/1520087496528302080)
+- [Ask HN: What's on your learning list? (2022)](https://news.ycombinator.com/item?id=31214599)

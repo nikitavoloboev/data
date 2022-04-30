@@ -351,3 +351,4 @@
 - [calligraphy](https://github.com/jonascarpay/calligraphy) - Haskell call graph/source code visualizer.
 - [Pier](https://github.com/judah/pier) - Command-line tool for building Haskell projects.
 - [Introduction to Haskell Typeclasses (2022)](https://serokell.io/blog/haskell-typeclasses)
+- [AWS Lambda Haskell Runtime](https://github.com/theam/aws-lambda-haskell-runtime)

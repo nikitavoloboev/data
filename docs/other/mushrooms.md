@@ -2,6 +2,10 @@
 
 [Mycelium](https://www.micropia.nl/en/discover/microbiology/mycelium/) is fascinating.
 
+## Notes
+
+- [We think of mushrooms as being "the fungus" but really a mushroom is just a temporary structure that the fungus, which a network of hyphae buried in the substrate, builds to disperse its spores. They're like a protrusion from an unseen world into ours.](https://twitter.com/NotBrunoAgain/status/1520055622997270534)
+
 ## Links
 
 - [Мухоморная лихорадка. Почему в России стало модно есть ядовитые грибы (2021)](https://www.youtube.com/watch?v=FqXjVJ92wVs)

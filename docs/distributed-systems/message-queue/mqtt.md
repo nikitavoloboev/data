@@ -44,3 +44,4 @@ title: MQTT
 - [Mochi MQTT](https://github.com/mochi-co/mqtt) - Embeddable lightweight, high-performance Go MQTT Server (broker) for IoT and PubSub.
 - [Jackalope](https://github.com/smartrent/jackalope) - Opinionated MQTT client library based on Tortoise MQTT.
 - [mqttclient](https://github.com/jiejieTop/mqttclient) - High-performance, high-stability, cross-platform MQTT client.
+- [MQTT Broker](https://github.com/bschwind/mqtt-broker) - Tokio-based MQTT v5 broker written in pure Rust.

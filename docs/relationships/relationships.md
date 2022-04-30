@@ -176,3 +176,4 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [What dating mistakes do you think women make?](https://www.reddit.com/r/AskMen/comments/u9dlen/what_dating_mistakes_do_you_think_women_make/)
 - [Допускаете, что у вас может не быть в дальнейшем семьи/детей/партнёра/партнёрши?](https://twitter.com/tomnaya_satana/status/1519009634408873988)
 - [Men who no longer date and are okay with it, why? (2022)](https://www.reddit.com/r/AskMen/comments/uce8ux/men_who_no_longer_date_and_are_okay_with_it_why/)
+- [Joe Rogan - Does Polyamory Work?](https://www.youtube.com/watch?v=c7IK-uuJfUc)

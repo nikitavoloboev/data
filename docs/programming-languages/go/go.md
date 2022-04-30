@@ -769,4 +769,5 @@ if err != nil {
 - [PMGO](https://github.com/struCoder/pmgo) - Process manager for Go applications.
 - [The Go Programming Language and Environment (2022)](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) ([HN](https://news.ycombinator.com/item?id=31173395))
 - [Beating grep with Go (2022)](https://healeycodes.com/beating-grep-with-go) ([Lobsters](https://lobste.rs/s/qxwmrh/beating_grep_with_go))
-- [Lies we tell ourselves to keep using Go (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) ([HN](https://news.ycombinator.com/item?id=31205072)) ([Tweet](https://twitter.com/fasterthanlime/status/1520037787763884038))
+- [Lies we tell ourselves to keep using Go (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) ([HN](https://news.ycombinator.com/item?id=31205072)) ([Tweet](https://twitter.com/fasterthanlime/status/1520037787763884038)) ([Reddit](https://www.reddit.com/r/programming/comments/uenpw2/lies_we_tell_ourselves_to_keep_using_golang/))
+- [Experience Report: 6 months of Go (2022)](https://typesanitizer.com/blog/go-experience-report.html)

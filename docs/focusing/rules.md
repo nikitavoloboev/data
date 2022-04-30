@@ -244,7 +244,7 @@
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 - Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) (if it looks better with) across all profiles. Don't change it often.
 - Add appropriate short description with link to personal site.
-- Use same username on all services. Preferred (`nikivi`). If service requires full name, use it (`nikitavoloboev`). If `nikivi` is taken, can use `nikiv` or `nikiv_`.
+- Use same username on all services. Preferred (`nikiv`). If service requires full name, use it (`nikitavoloboev`). If `nikiv` is taken, use `nikivi` or `nikiv_`.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 - Quality of followers > Quantity. Try cultivate positive online experiences. Filter out negativity.
 - Don't be afraid to express myself (without hurting someone deliberately) out of fear I will get unfollowed/blocked/mocked. It's just [their opinion/tastes](https://www.youtube.com/watch?v=Z-xI1384Ry4), I have mine. Feel free.
