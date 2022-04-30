@@ -143,3 +143,4 @@ title: Redis
 - [Redis RDB Tools](https://github.com/sripathikrishnan/redis-rdb-tools) - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON.
 - [Lua Resty qless](https://github.com/ledgetech/lua-resty-qless) - Lua binding to Qless (Queue / Pipeline management) for OpenResty / Redis.
 - [SRH](https://github.com/hiett/serverless-redis-http) - HTTP-based Redis pooler. Access Redis from serverless without overloading connection limits.
+- [RedisInsight](https://github.com/RedisInsight/RedisInsight) - Developer GUI for Redis, by Redis.

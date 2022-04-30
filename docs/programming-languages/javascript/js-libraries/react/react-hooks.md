@@ -23,6 +23,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 ## DB
 
 - [Use Supabase](https://github.com/gbibeaul/use-supabase) - Simple zero dependencies package that gives you access to your Supabase client.
+- [react-supabase](https://github.com/tmm/react-supabase) - React Hooks library for Supabase.
 
 ## Other
 

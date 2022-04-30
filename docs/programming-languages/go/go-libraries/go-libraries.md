@@ -1611,6 +1611,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Underscore](https://github.com/rjNemo/underscore) - Useful functional programming helpers for Go 1.18 and beyond.
 - [Conflux Go API](https://github.com/Conflux-Chain/go-conflux-sdk)
 - [go-find](https://github.com/jaytaylor/go-find) - Programmatically accessible Go implementation of the \*nix `find` command.
+- [ZenQ](https://github.com/alphadose/ZenQ) - Thread-safe queue faster than Go's native channels.
 
 ## Links
 

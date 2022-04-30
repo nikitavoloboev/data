@@ -130,3 +130,4 @@ title: Remix
 - [Remix on Netlify](https://docs.netlify.com/integrations/frameworks/remix/)
 - [Best features of Remix (2022)](https://twitter.com/AlexandroMtzG/status/1516847153422946310)
 - [Remix | Backend For Frontend](https://remix.run/docs/en/v1/guides/bff)
+- [rmx-cli](https://github.com/kiliman/rmx-cli) - CLI tool for Remix applications.

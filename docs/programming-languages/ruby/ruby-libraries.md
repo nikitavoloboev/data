@@ -82,3 +82,4 @@
 - [rbx](https://github.com/ianks/rb-sys) - Framework for developing safe Ruby extensions in Rust.
 - [sorbet-typed](https://github.com/sorbet/sorbet-typed) - Central repository for sharing type definitions for Ruby gems.
 - [Serverless Rack](https://github.com/logandk/serverless-rack) - Serverless plugin to deploy Ruby Rack applications (Sinatra/Rails/Padrino/Cuba etc.) and bundle gems.
+- [What Would be Your Ideal Ruby Tech Stack (2022)](https://www.reddit.com/r/ruby/comments/ueptad/what_would_be_your_ideal_ruby_tech_stack/)

@@ -121,3 +121,4 @@ title: Lua
 - [lua.go](https://github.com/zxh0/lua.go) - Toy Lua 5.3 implementation written in Go.
 - [inspect.lua](https://github.com/kikito/inspect.lua) - Human-readable representation of Lua tables.
 - [Luacheck](https://github.com/mpeterv/luacheck) - Tool for linting and static analysis of Lua code.
+- [MiniLua](https://github.com/edubart/minilua) - Lua contained in a single header to be bundled in C/C++ applications with ease.

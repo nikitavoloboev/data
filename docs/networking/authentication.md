@@ -224,3 +224,4 @@
 - [Auth0](https://auth0.com/) - Secure access for everyone. But not just anyone.
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
 - [Pritunl-Zero](https://github.com/pritunl/pritunl-zero) - Zero trust system that provides secure authenticated access to internal services from untrusted networks without the use of a VPN.
+- [Infra](https://infrahq.com/) - Single sign-on for your infrastructure. ([Code](https://github.com/infrahq/infra))

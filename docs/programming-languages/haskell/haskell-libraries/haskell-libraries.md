@@ -52,6 +52,7 @@
 - [Higher-order QuickCheck](https://github.com/Lysxia/quickcheck-higherorder) - QuickCheck extension for properties of higher-order values.
 - [checkers](https://github.com/haskell-checkers/checkers) - Check properties on standard classes and data structures.
 - [cabal-doctest](https://github.com/haskellari/cabal-doctest) - Setup.hs helper for doctest running.
+- [Inspection Testing](https://github.com/nomeata/inspection-testing) - GHC plugin allows you to embed assertions about the intermediate code into your Haskell code, and have them checked by GHC.
 
 ## CLI
 

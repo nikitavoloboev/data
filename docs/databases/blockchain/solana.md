@@ -256,3 +256,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana AccountsDB Plugin Postgres](https://github.com/solana-labs/solana-accountsdb-plugin-postgres) - Implements a plugin storing account data to a PostgreSQL database to illustrate how a plugin can be developed to work with Solana validators using the Plugin Framework.
 - [Monolithic vs Modular blockchain debate with Solana founder (2022)](https://youtu.be/35_rr8Vf-4k?t=27635)
 - [Glow JS](https://github.com/luma-team/glow-js) - Integrate the Glow Solana Wallet into your dApp.
+- [Solana Development Course](https://github.com/Unboxed-Software/solana-course)

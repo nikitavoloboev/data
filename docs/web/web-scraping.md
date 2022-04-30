@@ -191,3 +191,6 @@
 - [OnlyFans DataScraper](https://github.com/DIGITALCRIMINAL/OnlyFans) - Scrape all the media from an OnlyFans account.
 - [Shot Scraper Template](https://github.com/simonw/shot-scraper-template) - Quickly create a new GitHub repository that takes automated screenshots of a web page using shot-scraper.
 - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots) ([HN](https://news.ycombinator.com/item?id=31205139))
+- [All the Places](https://github.com/alltheplaces/alltheplaces) - Set of spiders and scrapers to extract location information from places that post their location on the internet.
+- [Spider](https://github.com/madeindjs/spider) - Multithreaded Web spider crawler written in Rust.
+- [Scrapism 2022 course](https://github.com/antiboredom/scrapism-spring-2022)

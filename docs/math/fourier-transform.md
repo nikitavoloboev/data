@@ -50,3 +50,4 @@ title: Fourier transform
 - [iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform (2022)](https://arxiv.org/abs/2203.02395) ([Code](https://github.com/rishikksh20/iSTFTNet-pytorch))
 - [Fourier Series Visualisation in SwiftUI](https://github.com/simonboots/SwiftUIFourierSeries)
 - [Flatiron Institute Nonuniform Fast Fourier Transform library: FINUFFT](https://github.com/flatironinstitute/finufft)
+- [FourierTransforms.jl](https://github.com/eschnett/FourierTransforms.jl) - Fast Fourier Transforms implement in pure Julia.

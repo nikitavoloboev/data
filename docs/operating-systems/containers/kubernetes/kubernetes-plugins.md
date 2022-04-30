@@ -88,3 +88,4 @@
 - [krew-wasm](https://github.com/flavio/krew-wasm) - Offers a way to write and distribute kubectl plugins based on WebAssembly.
 - [Kubernetes Replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets & config maps across namespaces.
 - [Helm Templexer](https://github.com/hendrikmaus/helm-templexer) - Render Helm charts for multiple environments using explicit configuration.
+- [kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - View running kubernetes information about multi-container pods and sidecars.

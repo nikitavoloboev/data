@@ -537,6 +537,7 @@
 
 ## Embedded
 
+- [Drogue Device](https://github.com/drogue-iot/drogue-device) - Async framework written in Rust for safe and efficient embedded applications.
 - [volatile-register](https://github.com/japaric/volatile-register) - Volatile access to memory mapped hardware registers.
 - [stm32f7xx-hal](https://github.com/stm32-rs/stm32f7xx-hal) - Rust embedded-hal HAL for all MCUs in the STM32 F7 family.
 - [embedded-svc](https://github.com/esp-rs/embedded-svc) - Rust APIs and abstractions for various embedded services (WiFi, Network, Httpd, Logging, etc.).
@@ -1812,6 +1813,7 @@
 - [rust-psutil](https://github.com/rust-psutil/rust-psutil) - Process and system monitoring library for Rust.
 - [fast-ctc-decode](https://github.com/nanoporetech/fast-ctc-decode) - Blitzing Fast CTC Beam Search Decoder.
 - [Nomad Rust](https://github.com/nomad-xyz/rust) - Rust work for nomad actors.
+- [Shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency lnjection Library for Rust.
 
 ## Cargo Plugins
 

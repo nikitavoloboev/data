@@ -237,3 +237,4 @@ title: Svelte
 - [Svelte Markdown](https://github.com/pablo-abc/svelte-markdown) - Markdown parser that renders into Svelte Components.
 - [Bookit](https://github.com/leveluptuts/bookit) - UI component explorer designed specifically for Svelte Kit.
 - [Svelte IntelliJ IDE Plugin](https://github.com/tomblachut/svelte-intellij)
+- [Svelte Persistent store](https://github.com/MacFJA/svelte-persistent-store) - Svelte store that keep its value through pages and reloads.

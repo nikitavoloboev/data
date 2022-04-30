@@ -100,3 +100,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Ballcone](https://github.com/dustalov/ballcone) - Fast and lightweight server-side Web analytics solution. It requires no JavaScript on your website.
 - [Fugu](https://fugu.lol/) - Simple and privacy-friendly product analytics. ([Code](https://github.com/shafy/fugu))
 - [Product Analytics from Scratch (2022)](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/)
+- [In-Memory Analytics with Apache Arrow (2022)](https://www.packtpub.com/product/in-memory-analytics-with-apache-arrow/9781801071031) ([Code](https://github.com/PacktPublishing/In-Memory-Analytics-with-Apache-Arrow-))

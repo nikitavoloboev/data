@@ -4,7 +4,7 @@ title: Kubernetes
 
 # [Kubernetes](https://kubernetes.io/)
 
-[Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) is neat.
+[Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) & [Infra](https://github.com/infrahq/infra) are neat.
 
 ## Notes
 

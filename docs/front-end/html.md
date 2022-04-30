@@ -264,3 +264,4 @@ Hi<div>oh no break</div>
 - [HTMLJS-Parser](https://github.com/marko-js/htmljs-parser) - HTML parser recognizes content and string placeholders and allows JavaScript expressions as attribute values.
 - [Open Graph Image as a Service](https://dev.zaubrik.com/portrait/) ([Code](https://github.com/Zaubrik/portrait))
 - [jtml](https://github.com/github/jtml) - Write HTML in JavaScript, using template-tags.
+- [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.

@@ -241,3 +241,4 @@
 - [Tiny C Compiler](https://github.com/mirror/tinycc) - Smallest ANSI C compiler.
 - [Awesome tooling for Bazel users of the C language family](https://github.com/hedronvision/bazel-compile-commands-extractor)
 - [The Lost Art of Structure Packing (2014)](http://www.catb.org/esr/structure-packing/) ([HN](https://news.ycombinator.com/item?id=31182449))
+- [Self-hosting C compiler](https://github.com/kukrimate/cc3)

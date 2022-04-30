@@ -56,3 +56,4 @@ title: Fastify
 - [GraphQL Caching Demystified | Matteo Collina (2022)](https://www.youtube.com/watch?v=5aaAHYs_gEs)
 - [Fluent API to generate JSON schemas](https://github.com/fastify/fluent-json-schema)
 - [Fastify Swagger](https://github.com/fastify/fastify-swagger) - Swagger documentation generator for Fastify.
+- [Fastify SSR Workshop](https://github.com/galvez/the-fastify-ssr-workshop)

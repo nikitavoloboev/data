@@ -130,3 +130,4 @@ title: AWS Lambda
 - [Introducing multi-service deployments via Serverless Framework Compose (2022)](https://www.serverless.com/blog/serverless-framework-compose-multi-service-deployments)
 - [Automatically Detect Operational Issues in Lambda Functions with Amazon DevOps Guru for Serverless (2022)](https://aws.amazon.com/blogs/aws/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
 - [Running Containers on AWS Lambda (2022)](https://earthly.dev/blog/aws-lambda-docker/) ([HN](https://news.ycombinator.com/item?id=31182099))
+- [Holy Lambda](https://github.com/FieryCod/holy-lambda) - Extraordinary simple, performant, and extensible custom AWS Lambda runtime for Clojure.
