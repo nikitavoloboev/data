@@ -1616,6 +1616,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [fasthash](https://github.com/segmentio/fasthash) - Go package porting the standard hashing algorithms to a more efficient implementation.
 - [SegmentIO Go generic data structures](https://github.com/segmentio/datastructures)
 - [Honeypot](https://github.com/silverton-io/honeypot) - Lightweight event collection system.
+- [sdf](https://github.com/soypat/sdf) - Go library for signed distance function shape generation.
 
 ## Links
 

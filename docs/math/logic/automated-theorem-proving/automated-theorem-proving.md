@@ -30,3 +30,4 @@ title: Automated theorem proving
 - [Holbert](https://github.com/liamoc/holbert) - Graphical interactive proof assistant designed for education.
 - [Rusty Razor](https://github.com/salmans/rusty-razor) - Tool for constructing finite models for first-order theories.
 - [Timothy Gowers's research on automated theorem proving](https://twitter.com/wtgowers/status/1519613183857762304)
+- [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) - Fast, brute force, automatic theorem prover for first order logic.

@@ -36,3 +36,4 @@
 - [Kleenex](https://kleenexlang.org/) - Programming language for stream processing of data in a regular domain. ([Code](https://github.com/diku-kmc/kleenexlang))
 - [Callysto](https://github.com/vertexclique/callysto) - Stream processing framework.
 - [Database Stream Processor](https://github.com/vmware/database-stream-processor) - Streaming and Incremental Computation Framework.
+- [Conduit](https://github.com/ConduitIO/conduit) - Data Integration for Production Data Stores.

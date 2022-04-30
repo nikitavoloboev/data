@@ -145,3 +145,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Balaji Srinivasan: The Network State (2022)](https://overcast.fm/+Oxea-zIg0)
 - [BioRender Poster Builder](https://biorender.com/poster-builder)
 - [Astera Institute](https://astera.org/) - Empower visionary, high-leverage science and technology projects with the capacity to create transformative progress for human civilization.
+- [Advanced Research Community](https://github.com/advancedresearch/advancedresearch.github.io)
