@@ -102,3 +102,4 @@
 - [How to create a new Common Lisp project (with project generator) (2022)](https://www.youtube.com/watch?v=XFc513MJjos)
 - [Common Lisp Resources (2022)](https://lisp-journey.gitlab.io/resources/) ([HN](https://news.ycombinator.com/item?id=31120359))
 - [Tutorial Series to learn Common Lisp quickly](https://github.com/rabbibotton/clog/blob/main/LEARN.md) ([HN](https://news.ycombinator.com/item?id=31178737))
+- [Trial](https://github.com/Shirakumo/trial) - Game engine written in Common Lisp.
