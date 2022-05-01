@@ -1,6 +1,6 @@
 # Computer Science
 
-[Coding Interview University](https://github.com/jwasham/coding-interview-university), [Self learning CS](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) & [Rust CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) are great overviews of CS.
+[Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flane/FICS/), [Coding Interview University](https://github.com/jwasham/coding-interview-university), [Self learning CS](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) & [Rust CS](https://github.com/AbdesamedBendjeddou/Rusty-CS) are great overviews of CS.
 
 ## Notes
 
@@ -196,3 +196,4 @@
 - [NandGame - Build a computer from scratch](https://nandgame.com/) ([HN](https://news.ycombinator.com/item?id=31055307))
 - [Chris Staecker - YouTube](https://www.youtube.com/c/ChrisStaecker/videos) - Videos about antique computing devices.
 - [Awesome Russian CS Books](https://github.com/true-grue/awesome-russian-cs-books)
+- [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flane/FICS/)

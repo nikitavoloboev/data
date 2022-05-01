@@ -111,3 +111,4 @@ Might give it a go sometime.
 - [Emacs Builds](https://github.com/jimeh/emacs-builds) - Self-contained Emacs.app builds for macOS, with native-compilation support in nightly builds.
 - [What’s New in Emacs 28.1? (2022)](https://www.masteringemacs.org/article/whats-new-in-emacs-28-1) ([HN](https://news.ycombinator.com/item?id=30930816))
 - [Emacs Configuration Generator](https://emacs.amodernist.com/) ([HN](https://news.ycombinator.com/item?id=31083515))
+- [First Steps with Nix - Building emacs (2021)](https://www.heinrichhartmann.com/posts/2021-08-08-nix-emacs/)
