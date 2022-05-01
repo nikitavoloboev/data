@@ -721,3 +721,4 @@ title: Kubernetes
 - [Antrea](https://github.com/antrea-io/antrea) - Kubernetes networking based on Open vSwitch.
 - [kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease.
 - [OpenFeature Specification](https://github.com/open-feature/spec) - Cloud Native Feature Flag Management.
+- [Plain Kubernetes Secrets are fine (2022)](https://www.macchaffee.com/blog/2022/k8s-secrets/)
