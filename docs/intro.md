@@ -34,7 +34,7 @@ I [update the notes](other/wiki-workflow.md) daily. I use the website and the [s
 
 The content being markdown files [found here](https://github.com/nikitavoloboev/knowledge/tree/main/docs), which after every commit to the [GitHub repo](https://github.com/nikitavoloboev/knowledge) builds the website using [Docusaurus](tools/docusaurus.md) and publishes it to [wiki.nikiv.dev](https://wiki.nikiv.dev) from which you are likely reading this page.
 
-The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep too. For example take [programming languages](programming-languages/programming-languages.md), it's top level folder (you can see [all the folders and the structure of them here](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md)). All of these pages are part of programming languages:
+The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep. For example take [programming languages](programming-languages/programming-languages.md), it's top level folder (you can see [all the folders and structure of them here](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md)). All of these pages are part of programming languages:
 
 ![](https://i.imgur.com/wBj77ch.png)
 
@@ -50,11 +50,9 @@ Lots of this content will one day live or co exist with [Learn Anything](ideas/l
 
 If you use mac, [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) plugin is incredible. I plan to make both the plugin and this setup with the wiki reusable by anyone.
 
-I am not alone in sharing all my knowledge online in form of a wiki. An ever growing (ideally always up to date) storage of knowledge on all topics.
+Most often I share my life on [Twitter](https://twitter.com/nikitavoloboev) (most everything), [Instagram](https://www.instagram.com/nikitavoloboev/) (photos, stories from life, Q&A's) and also [Telegram](https://t.me/niki_log) (raw and more private thoughts/photos/updates I don't necessarily want to push to all my follower's feeds).
 
-Most often I share my life with [Twitter](https://twitter.com/nikitavoloboev) (most everything), [Instagram](https://www.instagram.com/nikitavoloboev/) (photos, stories from life, Q&A's) and also [Telegram](https://t.me/niki_log) (raw and more private thoughts/photos/updates I don't necessarily want to push to all my follower's feeds).
-
-I also want to learn to write well written [articles](sharing/my-articles.md) and making [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
+I also want to learn to write well written [articles](sharing/my-articles.md) and make high quality [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
 
 And of course I love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev). I also love [Reddit](https://reddit.com/user/nikivi), [HN](https://news.ycombinator.com/user?id=nikivi) & [Lobsters](https://lobste.rs/u/nikivi) as far as communities go.
 
@@ -62,7 +60,7 @@ And of course I love [writing code](sharing/my-github.md) that solves various pr
 
 That was long. 😺
 
-I tried to write it as both a reference you can skim to get the best understand utilize how to use this wiki or ideally inspire you to make a wiki of your own. There are [many great wikis out there](other/wiki-workflow.md#similar-wikis-i-liked) and the list grows with every day. [All the tools are there](other/wiki-workflow.md).
+I tried to write it as both a reference you can skim to get the best info on how to use this wiki or ideally inspire you to make a wiki of your own. There are [many great wikis out there](other/wiki-workflow.md#similar-wikis-i-liked) and the list grows with every day. [All the tools are there](other/wiki-workflow.md).
 
 ## Must read pages
 

@@ -8,7 +8,7 @@ I write and edit all the markdown files in this wiki from [Sublime Text](../text
 
 I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows#personal-workflows) to quickly search through all the `.md` files that are found in this wiki.
 
-![](https://i.imgur.com/JUMpYzb.png)
+![](https://i.imgur.com/t8oHfjO.png)
 
 This workflow also searches through all folders in this wiki and lets me create new folders inside those folders or create new entries (md files) inside the folders.
 

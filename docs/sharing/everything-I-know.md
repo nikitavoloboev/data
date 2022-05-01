@@ -1,6 +1,6 @@
 # Everything I know
 
-Page of what things I consider myself knowledgeable of. Similar in spirit to [Dan's post on things he doesn't know](https://overreacted.io/things-i-dont-know-as-of-2018/).
+Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's post on things he doesn't know](https://overreacted.io/things-i-dont-know-as-of-2018/).
 
 - [Karabiner](macOS/apps/karabiner/karabiner.md): How to bind keys on mac.
 - [macOS](macOS/macOS.md): How to operate it very fast. Especially with apps like [KM](../macOS/apps/keyboard-maestro/keyboard-maestro.md), [Alfred](macOS/apps/alfred/alfred.md), [VSCode](text-editors/vs-code/vs-code.md).
