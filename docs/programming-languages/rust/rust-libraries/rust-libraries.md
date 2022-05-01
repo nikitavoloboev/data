@@ -358,6 +358,7 @@
 - [Planetarium](https://github.com/ravenexp/planetarium) - Sub-pixel precision light spot rendering library for astronomy and video tracking applications.
 - [piet-metal](https://github.com/linebender/piet-metal) - Experimental Metal-based GPU renderer for piet 2D graphics.
 - [AkariRender](https://github.com/shiinamiyuki/akari_render) - High Performance CPU/GPU Physically Based Renderer.
+- [raylib-rs](https://github.com/deltaphc/raylib-rs) - Rust bindings for raylib.
 
 ## Games
 

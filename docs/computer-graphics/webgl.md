@@ -96,3 +96,4 @@
 - [Persepolis of ancient Persia rendered in WebGL](https://persepolis.getty.edu/) ([HN](https://news.ycombinator.com/item?id=30965352))
 - [glMatrix](https://github.com/toji/gl-matrix) - JavaScript Matrix and Vector library for High Performance WebGL apps.
 - [HTML GL](https://github.com/PixelsCommander/HTML-GL) - Solves "the slow DOM problem" by creating WebGL representations of DOM elements and hiding actual DOM after.
+- [G](https://github.com/antvis/g) - Powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
