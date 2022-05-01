@@ -1,5 +1,9 @@
 # My Workflow
 
+One of my bigger passions in life is being able to do more with less. [Life is short](http://paulgraham.com/vb.html) and I want to [maximize the fun outcomes in life](https://twitter.com/waitbutwhy/status/1367871165319049221).
+
+In spirit of maximizing outcomes, I want more amazing, kind and happy humans all around the globe and I want to do my part in making a dent on the world. My workflow below is what makes me move faster in life, I hope it helps/inspires you too in some way. ♥️
+
 ## Life
 
 - [Rules](../focusing/rules.md) - Lessons learned encoded as rules.
