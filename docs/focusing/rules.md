@@ -23,7 +23,7 @@
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories. Be a great friend.
 - Learn from the past. Don't make same mistakes. Don't dwell on what has happened or what I can't change. Don't fixate on anything (people/items/..). Anything outside of this moment is imagination. Move onwards. Live each moment. Let past go.
-- Happiness comes from being grateful and appreciative for what I already have. Don't waste time trying to measure my success/happiness by what anyone else thinks it should be.
+- Happiness comes from being grateful and appreciative for what I already have. Don't waste time trying to measure my success/happiness by what anyone else thinks it should be. Try and live by my own rules/values.
 - [Be happy](../life/happiness.md). Love myself. Be playful. Make new nice memories and enjoy each moment in life. Savor close [relationships](../relationships/relationships.md). Look towards the [future](../future/future.md). Be optimistic. Appreciate what I have.
 
 ## Health

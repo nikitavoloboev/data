@@ -483,3 +483,4 @@ for i, _ in enumerate(nums):
 - [You Should Compile Your Python And Here’s Why (2022)](https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html) ([HN](https://news.ycombinator.com/item?id=31200989))
 - [Compact word vectors with Bloom embeddings (2022)](https://explosion.ai/blog/bloom-embeddings)
 - [PyScript](https://github.com/pyscript/pyscript) - Pythonic alternative to Scratch, JSFiddle or other "easy to use" programming frameworks.
+- [Strange and odd python snippets explained](https://github.com/pablogsal/python-horror-show)

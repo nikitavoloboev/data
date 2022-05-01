@@ -363,3 +363,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Scopes](https://sr.ht/~duangle/scopes/) - Retargetable programming language & infrastructure.
 - [Scope Sets as a Piñata for Name Resolution (2021)](https://typesanitizer.com/blog/scope-sets.html)
 - [Principled Ad-Hoc Polymorphism (2018)](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)
+- [Langbot](https://github.com/mortie/langbot) - Run code from many programming languages.

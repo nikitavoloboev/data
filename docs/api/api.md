@@ -58,6 +58,7 @@
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
 - [Cloudflare Rust](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
 - [Cloudflare Node](https://github.com/cloudflare/node-cloudflare)
+- [YouTube Search Python](https://github.com/alexmercerind/youtube-search-python) - Search for YouTube videos, channels & playlists. Get video & playlist information using link. Get search suggestions.
 - [GIPHY SDKs](https://github.com/Giphy/giphy-js)
 - [OpenAI JS](https://github.com/Njerschow/openai-api) - Tiny client module for the openAI API.
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.

@@ -57,3 +57,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Switching from pyenv, rbenv, goenv and nvm to asdf](https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf) ([HN](https://news.ycombinator.com/item?id=30917354))
 - [Grove](https://github.com/tristanisham/grove) - Modern package manager and software installer.
 - [binary-install](https://github.com/EverlastingBugstopper/binary-install) - Install binary applications via npm.
+- [Latest.cat](https://latest.cat/) - Find the latest version of your favorite software. ([Code](https://github.com/patrick91/latest.cat))

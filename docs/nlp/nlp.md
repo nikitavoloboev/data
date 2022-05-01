@@ -561,3 +561,4 @@
 - [SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization (2021)](https://arxiv.org/abs/1911.03437) ([Code](https://github.com/archinetai/smart-pytorch))
 - [DataLab](https://github.com/ExpressAI/DataLab) - Unified platform that allows for NLP researchers to perform a number of data-related tasks in an efficient and easy-to-use manner.
 - [Limitations of DALL-E](https://twitter.com/benjamin_hilton/status/1520032772072607747) ([HN](https://news.ycombinator.com/item?id=31218915))
+- [AutoPrompt](https://github.com/ucinlp/autoprompt) - Automatic Prompt Construction for Masked Language Models.

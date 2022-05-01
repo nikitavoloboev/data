@@ -610,3 +610,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Yield Protocol Vault v2](https://github.com/yieldprotocol/vault-v2) - Collateralized Debt Engine for zero-coupon bonds, loosely integrated with YieldSpace Automated Market Makers.
 - [Awesome Diamonds](https://github.com/mudgen/awesome-diamonds) - Curated list of awesome EIP2535 Diamonds resources, libraries, tools and more.
 - [Giza](https://github.com/lambdaclass/giza) - Rust implementation of the Cairo VM.
+- [Lightweight Lua EVM](https://github.com/transmissions11/levm)
+- [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor) - Ethereum Solidity Language customized for developers and auditors using Visual Studio Code.

@@ -528,3 +528,4 @@ the execution time on all cores of a multi-core processor.
 - [Limbo](https://github.com/meme/limbo) - XNU in Linux userspace. Run macOS CLI tools natively on Linux. ([Tweet](https://twitter.com/oleavr/status/1516682078213087232))
 - [lrun](https://github.com/quark-zju/lrun) - Run programs on Linux with resources (ex. time, memory, network, device, syscall, etc.) limited.
 - [Xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime.
+- [RAUC](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux. ([Web](https://rauc.io/))

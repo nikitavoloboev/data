@@ -42,7 +42,7 @@ I once thought flowers were useless but I learned with time. Flowers as an act o
 
 As relationship progresses, you can sometimes take your partner and love for granted. The more obvious example of such disregard is stopping putting effort into making yourself look great and looking after yourself in more broad terms. Solution here is not taking your partner for granted. And genuinely trying to be the best version of yourself at no cost of anyone. This applies for men especially but don't be afraid to share how you really feel with your partner. The worst thing you can do is suppressing your emotions out of fear of something. If you are in this position, remember the above, go from the position of love always. Be honest and communicate it all. Be kind and if something doesn't work out, first try to make it work. If nothing works out, move on. No such thing as lost time. There is only time well lived, your lessons, the ever present moment you are in and your thoughts of what the future holds. Nothing else matters as much. Your emotions are transitory. You are just an observer. Even to your own thoughts. It's what you act on that matters. And how it makes you feel.
 
-**7. Be interested and fascinated your partner genuinely. Be happier together.**
+**7. Be interested and fascinated by your partner genuinely. Be happier together.**
 
 Direct consequence of being in love with a person is being genuinely fascinated by how your partner thinks and lives. And showing and sharing this fascination.
 
@@ -231,3 +231,6 @@ I also share [my thoughts on finding romantic partners](seduction.md).
 - [Тред про историю полиамории](https://twitter.com/mpojarsky/status/1520500067823718401)
 - [Red Flags Men Should never Ignore (From Bad Signs To The Worst)](https://www.youtube.com/watch?v=r3WDAjRPv9E)
 - [Why am I so scared of Polyamory? (2022)](https://www.reddit.com/r/relationship_advice/comments/ufnk64/why_am_i_so_scared_of_polyamory/)
+- [More Than Two: A Practical Guide to Ethical Polyamory by Franklin Veaux (2014)](https://www.goodreads.com/book/show/21955937-more-than-two)
+- [Map of Non-Monogamy by Franklin Veaux](https://www.xeromag.com/nonmonogamy.html)
+- [Franklin Veaux's web page](https://www.xeromag.com/)

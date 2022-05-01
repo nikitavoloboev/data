@@ -480,7 +480,7 @@ Here are few more things I liked, design wise. [Linear is pretty great](https://
 - [Tilman](https://tilman.dev/)
 - [Timmy O'Mahony](https://timmyomahony.com/)
 - [Eric Bailey](https://ericwbailey.design/) ([Code](https://github.com/ericwbailey/ericwbailey.design))
-- [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
+- [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com-V2))
 - [Alex Bainter](https://alexbainter.com/)
 - [Eliza SJ](https://www.elizasj.com/)
 - [Nick Reese](https://nicholasreese.com/)

@@ -34,7 +34,7 @@ Having said all of above, I think the most effective approach is having a great 
 4. Don't be narcissistic. Us, not just you.
 5. Show love.
 6. Smell nice. Look after yourself.
-7. Be interested and fascinated your partner genuinely. Be happier together.
+7. Be interested and fascinated by your partner genuinely. Be happier together.
 
 ## Notes
 

@@ -1,6 +1,6 @@
 # Sex
 
-[Sex for over 30's](https://www.reddit.com/r/sexover30/) is a fun sub to read.
+[Sex for over 30's](https://www.reddit.com/r/sexover30/) is a fun sub to read. [This interview](https://www.youtube.com/watch?v=j-VhOfuzq9k) was quite interesting.
 
 ## Notes
 
@@ -104,3 +104,4 @@
 - [Contraceptive pill for males is 99% effective in preventing pregnancy (2022)](https://www.reddit.com/r/Futurology/comments/tksxt4/a_99_effective_birth_control_pill_for_men_could/) ([HN](https://news.ycombinator.com/item?id=30796368))
 - [Vaginal Orgasms](https://www.reddit.com/r/sexover30/comments/twhzkd/vaginal_orgasms/)
 - [One thing that changed your sex life forever?](https://www.reddit.com/r/sex/comments/u05bc1/whats_the_one_thing_that_changed_your_sex_life/)
+- [Mr Lucky POV - Austen Summers Podcast (2021)](https://www.youtube.com/watch?v=j-VhOfuzq9k)

@@ -24,3 +24,4 @@ title: Web workers
 - [react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers.
 - [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) ([HN](https://news.ycombinator.com/item?id=29427959))
 - [Full Preact app rendering in a Web Worker](https://github.com/developit/preact-worker-demo)
+- [Workly](https://github.com/pshihn/workly) - Simple way to move a stand-alone function/class to a worker thread.

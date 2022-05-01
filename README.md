@@ -27,7 +27,7 @@ This garden is quite literally my digital brain. It includes my thoughts, notes 
 
 I [update the notes](https://wiki.nikiv.dev/other/wiki-workflow) daily. I use the website and the [search plugin](https://github.com/nikitavoloboev/alfred-my-mind) I built for it together with the search bar above in right corner (or CMD+K hotkey) to query the content inside.
 
-The content being markdown files [found here](https://github.com/nikitavoloboev/knowledge/tree/main/docs), which after every commit to the [GitHub repo](https://github.com/nikitavoloboev/knowledge) builds the website using [Docusaurus](tools/docusaurus.md) and publishes it to [wiki.nikiv.dev](https://wiki.nikiv.dev) from which you are likely reading this page.
+The content being markdown files [found here](https://github.com/nikitavoloboev/knowledge/tree/main/docs), which after every commit to the [GitHub repo](https://github.com/nikitavoloboev/knowledge) builds the website using [Docusaurus](https://wiki.nikiv.dev/tools/docusaurus) and publishes it to [wiki.nikiv.dev](https://wiki.nikiv.dev) from which you are likely reading this page.
 
 The way I structure each page often looks the same and follows a structure. The sidebar you see on the left is sorted alphabetically. It's nested too. Many top level folders are nested quite deep. For example take [programming languages](https://wiki.nikiv.dev/programming-languages/), it's top level folder (you can see [all the folders and structure of them here](https://github.com/nikitavoloboev/knowledge/blob/main/SUMMARY.md)). All of these pages are part of programming languages:
 
@@ -62,7 +62,7 @@ I tried to write it as both a reference you can skim to get the best info on how
 There's 1,000+ pages in here and lots of them I think are interesting. But these few can be nice starts for a read:
 
 - [Karabiner](https://wiki.nikiv.dev/macOS/apps/karabiner/) as it describes a genuinely life changing tool that makes updating this wiki and operating my mac at fast speeds possible
-- [VSCode](https://wiki.nikiv.dev/text-editors/vs-code/) & [Sublime Text](https://wiki.nikiv.dev/text-editors/sublime-text/) for similar reason as Karabiner, life changing tools. I use Sublime Text for [editing this wiki](https://wiki.nikiv.dev/other/wiki-workflow) and VSCode for writing [code](https://wiki.nikiv.dev/programming/). Mostly [TypeScript](https://wiki.nikiv.dev/programming-languages/typescript/) and [Go](https://wiki.nikiv.dev/programming-languages/go/go.md) now.
+- [VSCode](https://wiki.nikiv.dev/text-editors/vs-code/) & [Sublime Text](https://wiki.nikiv.dev/text-editors/sublime-text/) for similar reason as Karabiner, life changing tools. I use Sublime Text for [editing this wiki](https://wiki.nikiv.dev/other/wiki-workflow) and VSCode for writing [code](https://wiki.nikiv.dev/programming/). Mostly [TypeScript](https://wiki.nikiv.dev/programming-languages/typescript/) and [Go](https://wiki.nikiv.dev/programming-languages/go) now.
 - [Happiness](https://wiki.nikiv.dev/life/happiness) includes my lessons I learned for how to live a happier life
 - [Focusing](https://wiki.nikiv.dev/focusing/) as it's a very important page for me. It links to other important to me pages: [Rules](https://wiki.nikiv.dev/focusing/rules) & [Habits](https://wiki.nikiv.dev/focusing/habits). These 2 pages are essentially a summary of my life as far as my value system / lessons learned / habits go.
 - [Relationships](https://wiki.nikiv.dev/relationships/) is another important to me area in life as I want to be someone friends think fondly of and it contains my thoughts on that
@@ -71,7 +71,7 @@ There's 1,000+ pages in here and lots of them I think are interesting. But these
 
 There is a lot more out there but I think above is a good start. Hope you find some of it interesting. ♥️
 
-As far as tech goes, my current obsessions, [goals](https://wiki.nikiv.dev/focusing/goals) and [ideas](https://wiki.nikiv.dev/ideas/) for how to live a [better future](https://wiki.nikiv.dev/future/) are [learning](https://wiki.nikiv.dev/education/learning) more of [React](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/) and [Go](https://wiki.nikiv.dev/programming-languages/go/)/[Swift](https://wiki.nikiv.dev/programming-languages/swift/) to build [amazing experiences](https://wiki.nikiv.dev/design/design-inspiration.md).
+As far as tech goes, my current obsessions, [goals](https://wiki.nikiv.dev/focusing/goals) and [ideas](https://wiki.nikiv.dev/ideas/) for how to live a [better future](https://wiki.nikiv.dev/future/) are [learning](https://wiki.nikiv.dev/education/learning) more of [React](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/) and [Go](https://wiki.nikiv.dev/programming-languages/go/)/[Swift](https://wiki.nikiv.dev/programming-languages/swift/) to build [amazing experiences](https://wiki.nikiv.dev/design/design-inspiration).
 
 ## Content Structure
 

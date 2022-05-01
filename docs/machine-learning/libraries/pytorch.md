@@ -399,3 +399,4 @@ title: PyTorch
 - [surgeon-pytorch](https://github.com/archinetai/surgeon-pytorch) - Library to inspect itermediate layers of PyTorch models. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/uddtfk/p_surgeonpytorch_a_small_library_to_inspect/))
 - [PyMDE](https://github.com/cvxgrp/pymde) - Minimum-distortion embedding with PyTorch.
 - [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) - Modular, Configuration-Driven Framework for Knowledge Distillation.
+- [PyTorch on Angel](https://github.com/Angel-ML/PyTorch-On-Angel) - Arming PyTorch with a powerful Parameter Server, which enable PyTorch to train very big models.

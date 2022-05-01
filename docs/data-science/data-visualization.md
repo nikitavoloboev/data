@@ -155,3 +155,4 @@
 - [Webviz](https://webviz.io/) - Visualizing robotics data in the browser. ([Code](https://github.com/cruise-automation/webviz))
 - [Atlas](https://github.com/IQTLabs/atlas) - Visualization tool for creating customizable, interactive graphs in a browser using Python and Dash Cytoscape.
 - [Scalable Vega](https://github.com/vega/scalable-vega) - Demo of scaling Vega to millions of records.
+- [gridviz](https://github.com/eurostat/gridviz) - JavaScript library for visualizing large amounts of gridded data client-side, through the power of WebGL.

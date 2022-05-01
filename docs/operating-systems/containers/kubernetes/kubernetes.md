@@ -719,3 +719,5 @@ title: Kubernetes
 - [oom-bonker](https://github.com/patrickeasters/oom-bonker) - Delightfully silly way to be alerted when your Kubernetes containers run out of memory.
 - [punch](https://github.com/datapunchorg/punch) - Fully automated one-click experience for people to create Cloud and Kubernetes environment to run their Data Analytics workload like Apache Spark.
 - [Antrea](https://github.com/antrea-io/antrea) - Kubernetes networking based on Open vSwitch.
+- [kubewarden-controller](https://github.com/kubewarden/kubewarden-controller) - Manage admission policies in your Kubernetes cluster with ease.
+- [OpenFeature Specification](https://github.com/open-feature/spec) - Cloud Native Feature Flag Management.

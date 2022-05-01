@@ -126,6 +126,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Telegram Web Bots Demo](https://github.com/zubiden/tg-web-bot-demo)
 - [Syntax Highlighter WebApp](https://github.com/dcdunkan/tg-webapp-syntax-highlighter) - Syntax highlighter bot based on Telegram's WebApp update.
 - [PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot) - Telegram Parmanent Files Store Bot.
+- [Captcha](https://github.com/teknologi-umum/captcha) - Telegram Bot written in Go.
 
 ## Notes
 

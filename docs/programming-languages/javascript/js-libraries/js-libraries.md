@@ -918,6 +918,7 @@
 - [ejs](https://github.com/mde/ejs) - Embedded JavaScript templates.
 - [Delaunator](https://github.com/mapbox/delaunator) - Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
 - [unist-util-select](https://github.com/syntax-tree/unist-util-select) - Utility to select unist nodes with CSS-like selectors.
+- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - Detection of elements in view port & smooth scrolling with parallax effects. ([Code](https://github.com/locomotivemtl/locomotive-scroll))
 
 ## Links
 
