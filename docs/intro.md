@@ -44,7 +44,7 @@ Take [React Hooks](programming-languages/javascript/js-libraries/react/react-hoo
 
 As you can see, React Hooks is part of [React](programming-languages/javascript/js-libraries/react/react.md) which is part of [JS libraries](programming-languages/javascript/js-libraries/js-libraries.md) (big file) which is part of [JavaScript](programming-languages/javascript/javascript.md) and JavaScript as a language is part of top level [programming languages](programming-languages/programming-languages.md) I mentioned above. There are tons more folders like this. The way I include what's part of what is subject to my interpretation so it might be confusing to some.
 
-What I would suggest if this is the first time you came across this wiki and genuinely want to learn something new is to scroll the sidebar on the left or search for something, more likely then note I wrote something about it.
+What I would suggest if this is the first time you came across this wiki and genuinely want to learn something new is to scroll the sidebar on the left or search for something, more likely then not, I wrote something about it.
 
 Lots of this content will one day live or co exist with [Learn Anything](ideas/learn-anything.md) project I work on.
 
@@ -76,7 +76,7 @@ There's 1,000+ pages in here and lots of them I think are interesting. But these
 
 There is a lot more out there but I think above is a good start. Hope you find some of it interesting. ♥️
 
-As far as tech goes, my current obsessions, [goals](focusing/goals.md) and [ideas](ideas/ideas.md) for how to live a [better future](future/future.md) are [learning](education/learning.md) more of [React](programming-languages/javascript/js-libraries/react/react.md) and [Go](programming-languages/go/go.md)/[Swift](programming-languages/swift/swift.md) to build amazing experiences.
+As far as tech goes, my current obsessions, [goals](focusing/goals.md) and [ideas](ideas/ideas.md) for how to live a [better future](future/future.md) are [learning](education/learning.md) more of [React](programming-languages/javascript/js-libraries/react/react.md) and [Go](programming-languages/go/go.md)/[Swift](programming-languages/swift/swift.md) to build [amazing experiences](design/design-inspiration.md).
 
 ## Content Structure
 

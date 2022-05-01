@@ -39,7 +39,7 @@ Take [React Hooks](https://wiki.nikiv.dev/programming-languages/javascript/js-li
 
 As you can see, React Hooks is part of [React](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/) which is part of [JS libraries](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/) (big file) which is part of [JavaScript](https://wiki.nikiv.dev/programming-languages/javascript/) and JavaScript as a language is part of top level [programming languages](https://wiki.nikiv.dev/programming-languages/) I mentioned above. There are tons more folders like this. The way I include what's part of what is subject to my interpretation so it might be confusing to some.
 
-What I would suggest if this is the first time you came across this wiki and genuinely want to learn something new is to scroll the sidebar on the left or search for something, more likely then note I wrote something about it.
+What I would suggest if this is the first time you came across this wiki and genuinely want to learn something new is to scroll the sidebar on the left or search for something, more likely then not, I wrote something about it.
 
 Lots of this content will one day live or co exist with [Learn Anything](https://wiki.nikiv.dev/ideas/learn-anything) project I work on.
 
@@ -71,7 +71,7 @@ There's 1,000+ pages in here and lots of them I think are interesting. But these
 
 There is a lot more out there but I think above is a good start. Hope you find some of it interesting. ♥️
 
-As far as tech goes, my current obsessions, [goals](https://wiki.nikiv.dev/focusing/goals) and [ideas](https://wiki.nikiv.dev/ideas/) for how to live a [better future](https://wiki.nikiv.dev/future/) are [learning](https://wiki.nikiv.dev/education/learning) more of [React](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/) and [Go](https://wiki.nikiv.dev/programming-languages/go/)/[Swift](https://wiki.nikiv.dev/programming-languages/swift/) to build amazing experiences.
+As far as tech goes, my current obsessions, [goals](https://wiki.nikiv.dev/focusing/goals) and [ideas](https://wiki.nikiv.dev/ideas/) for how to live a [better future](https://wiki.nikiv.dev/future/) are [learning](https://wiki.nikiv.dev/education/learning) more of [React](https://wiki.nikiv.dev/programming-languages/javascript/js-libraries/react/) and [Go](https://wiki.nikiv.dev/programming-languages/go/)/[Swift](https://wiki.nikiv.dev/programming-languages/swift/) to build [amazing experiences](https://wiki.nikiv.dev/design/design-inspiration.md).
 
 ## Content Structure
 
