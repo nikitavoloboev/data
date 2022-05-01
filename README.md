@@ -2,7 +2,7 @@
 
 This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online wiki](https://wiki.nikiv.dev) built with [Docusaurus](https://docusaurus.io) on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](https://wiki.nikiv.dev/meta/) as it describes this wiki, its structure and goals.
+If this is your first time visiting this wiki, take a look [here](#getting-started) as it describes this wiki, its structure and goals.
 
 Below are my notes & their relations visualized.
 
@@ -10,7 +10,7 @@ Below are my notes & their relations visualized.
 
 ![](https://i.imgur.com/ODDdwde.png)
 
-This wiki is large. 100,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
+This wiki is large. 100,000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc))
 
 ```
 ~/Dropbox/Write/knowledge
@@ -20,6 +20,9 @@ This wiki is large. 100,000+ lines of markdown large (calculated with [loc](http
 --------------------------------------------------------------------------------
  Markdown               1000        95000         5000            0        100000
 ```
+
+## Getting started
+
 
 ## Using the wiki well
 

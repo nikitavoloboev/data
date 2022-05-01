@@ -34,3 +34,4 @@ title: ActivityPub
 - [Towards a Greater Federated Architecture (2022)](https://deadsuperhero.com/new-fediverse-architecture/)
 - [Pubcast](https://github.com/pubcast/pubcast) - ActivityPub based podcasting platform.
 - [What Is the Fediverse?](https://framatube.org/w/4294a720-f263-4ea4-9392-cf9cea4d5277) ([HN](https://news.ycombinator.com/item?id=31192737))
+- [Hyperspace](https://hyperspace.marquiskurt.net/) - Fluffiest client for the Fediverse. ([GitHub](https://github.com/hyperspacedev))

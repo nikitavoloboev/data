@@ -1,11 +1,59 @@
 # Relationships
 
-Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore conflicts. Try not to argue on same topics and resolve issues when they arise at their root. Truly acknowledge and apologize for mistakes made. Don't be cruel. Treat your partner and everyone with respect.
+Below is what I think is a nice overview of my thoughts on what I think makes for successful and happy relationships of any kind but especially romantic.
 
-[All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship. [Dr. Ramani](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/) is also great.
+I am 27 now so I have a lot to learn still but I genuinely just want to be a nice person and maximize the amount of fun and novel experiences I get to live through in this life. Below list I think maximizes that goal in some broad strokes systematic way. I have some [other rules](../focusing/rules.md) I note down too that help me a lot.
+
+> At the end of the day people won't remember what you said or did, they will remember how you made them feel.
+
+**1. Be honest. Be kind. Be empathetic.**
+
+Put above in short because I think it summarizes everything well. You have to be honest and communicate everything. A conflict is not you fighting with another person. It's you and her/him fighting to solve the issue/conflict whatever it may be. The hardest part is identifying what the issue is and being honest about it.
+
+More important than being honest is being kind through everything. You should really try to never hurt the person even if you are hurt/depressed yourself. If how you honestly feel about a person will hurt the person, often times it's best not say it and just leave the relationship. Of course explanation is in order if it's a very long term relationship but even the truth is that some relationships just don't work out and there is nothing you nor her/him can do about it. It's probably either loss of physical attraction or loss of interest in spending time with the person or both.
+
+**2. Don't avoid/ignore conflicts. Communicate everything.**
+
+Mentioned above briefly but the goal of relationships in my eyes should be to grow and enjoy life together. That's it. Anything less than that is an issue. And sometimes you can't properly enjoy life due to some recurring issues, arguing or bad moods/looks. Talk it out. Speak your mind and show that it's you and her vs this problem. You want this to work out and you are open to everything unless it crosses your personal boundaries/values. Try and fix any issues that arise at their root.
+
+Truly acknowledge and apologize for mistakes made. Don't be cruel. Treat your partner and everyone with respect.
+
+**3. Be open to change but respect your own and your partner's personal boundaries.**
+
+Everyone has some personal boundary. For some it could be cheating in whatever form (talking flirtatiously is already cheating to many). With respect to wanting to cheat, always respect your partner and discuss it but be ready to quit the relationship at this point as many are against any kind of [polyamory](https://en.wikipedia.org/wiki/Polyamory). It's better than doing something potentially hurtful behind someone's back and then being found out on it. The latter is narcissistic behavior. Narcissistic behavior in general is very important to study. [Dr. Ramani](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/) is amazing resource on it as she has [many videos](https://www.youtube.com/c/DoctorRamani/videos) analyzing narcissistic behavior.
+
+**4. Don't be narcissistic. Us, not just you.**
+
+If you do make a mistake. Genuinely apologize and learn from it so as to not repeat it again. Never be cruel. And always treat your partner with respect. Speaking of narcissistic abuse, this [testimony by Johnny Depp](https://www.youtube.com/watch?v=4JTpvORujak) portraying alleged abuse of Amber Heard is a good read of how narcissistic can be catastrophic to your own self worth. It's best to detect narcissistic early from either side of the relationship. Talk it out and try to fix it and become a better person not just for your partner but for yourself. I personally was narcissistic in many ways in my relationship. For example when I felt sad or depressed, I would ignore my partner and not listen to her because I 'have bigger problems' or I want to show my unhappiness to get comfort. This applied when I had depression ([from uni days, hated many of uni courses, being super poor and not believing in myself or my ability to actually earn money in this world](../education/university.md)), now I don't do this. Don't ignore the feelings and hurt of your partner.
+
+If your partner wants comfort, show it. If your partner wants to talk, talk it out. Show love.
+
+**5. Show love.**
+
+Should actually be the first point as it is the most important thing in successful and happy relationships I think. Everyone should feel loved. What's the point of a relationship otherwise?
+
+Showing love implies you actually genuinely love the other person. If you don't, just leave. Life is too short for this.
+
+Showing love means trying your best to bring the other person up. Show happiness and gratitude for spending life together. Compliment her/him. Take walks. Go on dates, short and big. My favorite activity with my partner is to simply go for a walk and take a coffee together in some place outside. Discuss the day and your plans. You are a team after all.
+
+I once thought flowers were useless but I learned with time. Flowers as an act of love is amazing in itself but also once you do buy flowers for your partner, you then put them in your home. This improves the atmosphere at home as flowers are lovely but it's also a subtle reminder to your partner that you are loved and cared for.
+
+**6. Smell nice. Look after yourself.**
+
+As relationship progresses, you can sometimes can take your partner and love for granted. The more obvious example of such disregard is stopping or making yourself look great and looking after yourself in more broad terms. Solution here is not taking your partner for granted. And genuinely trying to be the best version of yourself at no cost of anyone. This applies for men especially but don't be afraid to share how you really feel with your partner. The worst thing you can do is suppressing your emotions out of fear of something. If you are in this position, remember the above, go from the position of love always. Be honest and communicate it all. Be kind and if something doesn't work out, first try to make it work. If nothing works out, move on. No such thing as lost time. There is only time well lived, your lessons, the ever present moment you are in and your thoughts of what the future holds. Nothing else is real. Your emotions are transitory. You are just an observer. Even to your own thoughts. It's what you act on that matters. And how it makes you feel.
+
+**7. Be interested and fascinated your partner genuinely. Be happier together.**
+
+Direct consequence of being in love with a person is being genuinely fascinated by how your partner thinks and lives. And showing and sharing this fascination.
+
+--
+
+With respect to talking to new people and continuing and maintaining interest in conversation. Asking good questions is key. Being honest and humble in your replies to her/his questions. Be lighthearted and high spirited. You are happy to be here right now and talking about whatever the thing is. I met many people with whom I can really talk about anything and enjoy it. Listening to [various podcasts](../podcasts/podcasts.md) is amazing for practicing asking interesting questions and maintaining conversations.
 
 ## Notes
 
+- [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
+- [Dr. Ramani is amazing](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/)
 - [At the end of the day people won't remember what you said or did, they will remember how you made them feel.](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
 - [Whenever you have a crush ask yourself: Do you crush on her specifically or do you just yearn for intimacy? Could any other pretty girl take her place or not? Most of the time, you just tell yourself she is special because you feel like she is available. Stop doing that. Life gets much easier.](https://www.reddit.com/r/AskMen/comments/uehxa6/whats_a_hard_truth_young_men_need_to_learn_as/)
 - [Marriage is not something you "do", it's something you make. One of the foremost requirements going in to a marriage is that both partners understand this. You will marry the right person if you change your axioms.](https://news.ycombinator.com/item?id=24260004)
@@ -177,3 +225,5 @@ Be honest, kind and empathetic. Communicate everything. Don't avoid/ignore confl
 - [Допускаете, что у вас может не быть в дальнейшем семьи/детей/партнёра/партнёрши?](https://twitter.com/tomnaya_satana/status/1519009634408873988)
 - [Men who no longer date and are okay with it, why? (2022)](https://www.reddit.com/r/AskMen/comments/uce8ux/men_who_no_longer_date_and_are_okay_with_it_why/)
 - [Joe Rogan - Does Polyamory Work?](https://www.youtube.com/watch?v=c7IK-uuJfUc)
+- [Тред про историю полиамории](https://twitter.com/mpojarsky/status/1520500067823718401)
+- [Red Flags Men Should never Ignore (From Bad Signs To The Worst)](https://www.youtube.com/watch?v=r3WDAjRPv9E)

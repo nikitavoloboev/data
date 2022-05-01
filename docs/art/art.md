@@ -300,6 +300,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Photography
 
+- [Emilio Morenatti](https://www.instagram.com/emilio_morenatti/) ([Twitter](https://twitter.com/EmilioMorenatti))
 - [Luke](https://www.instagram.com/watchluke/) ([Web](https://www.watchluke.com/))
 - [Gosse Bouma](https://www.instagram.com/gosse_bouma/)
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)

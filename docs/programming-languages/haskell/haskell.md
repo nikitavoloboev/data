@@ -414,3 +414,4 @@ title: Haskell
 - [So Long Surrogates: How We Moved to UTF-8 in Haskell (2022)](https://www.channable.com/tech/so-long-surrogatesa) ([HN](https://news.ycombinator.com/item?id=31181595))
 - [An opinionated beginner's guide to Haskell in mid-2019](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 - [10 Commandments: Compiler in Haskell Edition (2018)](https://typesanitizer.com/blog/10-commandments.html)
+- [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html)

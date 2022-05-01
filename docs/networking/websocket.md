@@ -95,3 +95,4 @@ title: WebSocket
 - [Websocket comparisons](https://github.com/ThePrimeagen/tyrone-biggums)
 - [bufferutil](https://github.com/websockets/bufferutil) - WebSocket buffer utils.
 - [Thor](https://github.com/observing/thor) - WebSocket benchmarking/load generator.
+- [Axum Typed WebSockets](https://github.com/davidpdrsn/axum-typed-websockets) - axum::extract::ws with type safe messages.

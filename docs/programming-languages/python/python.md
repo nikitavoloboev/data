@@ -482,3 +482,4 @@ for i, _ in enumerate(nums):
 - [When Python can’t thread: a deep-dive into the GIL’s impact (2022)](https://pythonspeed.com/articles/python-gil/) ([Lobsters](https://lobste.rs/s/9hj80j/when_python_can_t_thread_deep_dive_into_gil))
 - [You Should Compile Your Python And Here’s Why (2022)](https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html) ([HN](https://news.ycombinator.com/item?id=31200989))
 - [Compact word vectors with Bloom embeddings (2022)](https://explosion.ai/blog/bloom-embeddings)
+- [PyScript](https://github.com/pyscript/pyscript) - Pythonic alternative to Scratch, JSFiddle or other "easy to use" programming frameworks.

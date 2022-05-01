@@ -470,3 +470,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [My upgrade to 25 Gbit/s Fiber To The Home (2022)](https://michael.stapelberg.ch/posts/2022-04-23-fiber7-25gbit-upgrade/) ([Lobsters](https://lobste.rs/s/ufctcb/my_upgrade_25_gbit_s_fiber_home)) ([HN](https://news.ycombinator.com/item?id=31134534))
 - [Defined Networking](https://www.defined.net/#/) - Extend network access with on-demand, encrypted tunnels between any hosts on any network. ([Twitter](https://twitter.com/definednet))
 - [gVisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - New network stack based on gVisor.
+- [Shuttle](https://github.com/sipt/shuttle) - Web proxy in Go with amazing features.

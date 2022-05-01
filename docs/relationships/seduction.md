@@ -1,15 +1,42 @@
 # Seduction
 
-One of the most valuable books I read on the topic of dating and relationships is [Models](https://www.goodreads.com/book/show/12633800-models). It states that the most important thing in any kind of relationship is honesty. In regards to seduction it is being honest with your intentions. The other important thing is being independent and focusing on developing yourself above all else. It's often the case that if the person feels required to be in a relationship, he/she will be at a disadvantage and will show weakness. Your feelings and self worth should never be defined by anyone but you. It is hard/impossible to be your true self if you are trying to impress anyone for fear of losing them. If the relationship or first encounter doesn't work out, don't dwell on it and move on.
+Have a long term partner I love now but at some point I was reading a bit about seduction and was interested in it. One of the books that really changed how I thought about meeting women and anyone else really is [Models](https://www.goodreads.com/book/show/12633800-models). The basic gist is that honesty is everything. Be honest with your intentions and where you want things to progress. Focus on yourself above all. Everything is a journey. Never focus on results but the process of it. That means not fearing having your ego hurt by losses. There is nothing that can impact how you feel but yourself.
 
-Being honest with your intentions together with awareness that the worst cases that can happen will often have no affect on your life at the end of the day brings confidence. The hardest part in doing anything in life including approaching new people to spark a conversation with is the fear of being rejected or some feeling of failure. The worst case that can happen when trying to meet someone is that they will be busy or may simply not want to talk to you and all you will get is valuable experience. Rejection and failure is natural and how humans grow. No one truly cares about your rejection except yourself and that feeling of dwelling on the past is simply a waste of time. Take your learnings and move on. Be yourself and take the chances presented to you.
+It also taught me about importance of independence in all aspects. Your feelings and self worth should never be defined by anyone but you. It is hard/impossible to be your true self if you are trying to impress anyone for fear of losing them. If the relationship or first encounter doesn't work out, don't dwell on it and move on.
 
-For first dates or encounters, I find it nice to get to know each other by asking few questions and getting to know them a little and then arranging to meet for a more prolonged time if all feels well. You will know a lot more about each other by talking in real life together over coffee or walk than anything else. For services like Tinder where you get to chat when both of you 'swiped on each other', it can be as simple as saying `You are fun. Want to meet for coffee? 😊` after some time. [Coffee and walks are often the best dates](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/). The focus of the date should just be to get together, make sure you didn't misrepresent yourselves, connect a little, become comfortable in one another's company. Something that can be short if needed, but can be extended if things are going well.
+Being honest with your intentions together with awareness that the worst cases that can happen will often have no affect on your life at the end of the day brings confidence. Confidence in knowing that everything is a learning opportunity and that life is a matter of [maximizing future positive outcomes](https://twitter.com/waitbutwhy/status/1367871165319049221).
 
-Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/devonzuegel/status/1087575749949673472). It's often best to approach people you find interesting in real life and asking questions be it for romantic or non romantic reasons. Don't be creepy and make sure the other person feels at ease and wants to talk with you. Try and diversify your life and get into more social hobbies where you get to meet new people often.
+That is the mental side of this at least. If you have this covered and [look and feel great](https://www.youtube.com/watch?v=eamhOiWmUro) (look after yourself by [eating well](../health/nutrition/nutrition.md) (whole foods, no sugar), [exercising](fitness/fitness.md), look after your [skin](../health/skin-care.md)). There are more practical things you can do to get better. The most important thing is making new approaches (respectful and understanding of the setting) and learning from each experience. And that doesn't mean flirting with everyone. It's simply getting to know everyone and showing your interest if there is.
+
+Nowadays most everyone meets online. This makes cold approaches such as approaching a man/woman on the street to say you find them interesting/cute more effective as most/everyone will be surprised and most often pleasantly so unless they are very busy or in some bad mood and thus will be annoyed. And in such worst case, they will let you know this quickly so cut the communication and apologize if need be.
+
+Of course the best time to approach and meet anyone is in some appropriate setting like an event or some party. Again this doesn't mean meeting just for the purpose of flirting. I talk to everyone because I am genuinely fascinated by most every human I meet and read about. So I always love meeting and talking in person. For cases of flirting, the main things to focus on are (in my opinion):
+
+1. Be confident and interesting above all.
+2. Be calm and not rushy in the way you talk and move.
+3. Don't be afraid to hold eye contact for longer times.
+4. Focus on making the girl feel a positive emotional connection. Usually through being funny and lighthearted in how you talk.
+5. Be more clear with your intentions, indirectly works best (show you are interested/into the person without saying it).
+
+This applies to both in person and messaging (above but minus the eye contact part and plus for use of fancy animated stickers on [Telegram](../tools/telegram.md) to express yourself more).
+
+As for date ideas and how to get dates online. Dating apps like Tinder/Bumble can bring [mixed results](https://twitter.com/devonzuegel/status/1087575749949673472) and the focus there is to have a list of great photos above all with some short interesting bio. Busy cities work best for online dating apps.
+
+For chatting, above mentioned advice applies but the goal with online dating is to meet in person as soon as possible if there is a connection and you like the person. You will know more from a brief or if lucky longer period of time you are on a date getting [coffee or taking a walk](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/) then messaging online for days. As you both swiped on each other, the other person is already interested unless they just seek validation and want some compliments sent their way (supposedly lots do really just want this). Some may find it too forward to meet soon for fear of safety but the advice of proposing to meet IRL sooner applies only if you do it when both will feel right when you propose this. I often wrote `You are fun. Would love to meet you for coffee some time and talk. What do you think? 😊` or some variation of it. Also moving the conversation to a more real chat app like Telegram is also best done as soon as possible if there is some mutual interest often as a result of a good date/meet.
+
+Above applies for trying to get a romantic relationship. [Relationships](relationships.md) especially ones that are romantic are much more interesting and fascinating to learn to get better at. I shared things I've learned about having more happy relationships in my wiki here. In summary it's:
+
+1. Be honest. Be kind. Be empathetic.
+2. Don't avoid/ignore conflicts. Communicate everything.
+3. Be open to change but respect your own and your partner's personal boundaries.
+4. Don't be narcissistic. Us, not just you.
+5. Show love.
+6. Smell nice. Look after yourself.
+7. Be interested and fascinated your partner genuinely. Be happier together.
 
 ## Notes
 
+- [Play to win, not to lose. That is focus on the wins, disregard/learn from the losses. Commit to it. Let go and do it for yourself above all. Don't focus on results, focus on having fun. Set your goals and enjoy the process. Fully let go.](https://www.youtube.com/watch?v=9WHNU520SvU)
 - It is better to exchange Instagram accounts with girls you've approached than trying to share phone numbers.
 - The best dates you can go to are ones where you can easily share a conversation together.
 - [“Nice” is subjective. Typically, the guys who consider themselves the “nice guy” are the ones who do what they think is nice with an added contingency, as if buying a meal or being a normal human being means they deserve affection and adoration from a girl. Nice guys don’t finish last, disingenuous guys do. The douche bags get girls because they do what they want, not what they think the girl wants. Moral of the story: be genuine and be your own human being, not what you think people want or expect you to be.](https://www.reddit.com/r/dating_advice/comments/99uixo/nice_guys_finish_last/)
@@ -77,3 +104,10 @@ Dating apps like Tinder/Bumble are often a [waste of time](https://twitter.com/d
 - [Women who have Tinder/bar hookups, how do you make sure you are doing it safely? (2021)](https://www.reddit.com/r/AskWomen/comments/o9ajq3/women_who_have_tinderbar_hookups_how_do_you_make/)
 - [Take your chance. Don't wait.](https://twitter.com/blockfolio/status/1412537766974570498)
 - [Oscar Isaac's arm kiss](https://twitter.com/christinalefou/status/1434251480979157000)
+- [Rating Men's Seduction Systems (2021)](https://www.youtube.com/watch?v=ohFg5VrQZhI)
+- [Social circle game](https://www.reddit.com/r/seduction/comments/7hto5a/social_circle_game/)
+- [Tricks to better talk with women](https://www.youtube.com/watch?v=9WHNU520SvU)
+- [Karisma King - YouTube](https://www.youtube.com/c/KarismaKing/videos)
+- [Reacting to terrible women's dating advice](https://www.youtube.com/watch?v=H297KONa-qo)
+- [Steps to take to make yourself more attractive to others (2022)](https://www.youtube.com/watch?v=eamhOiWmUro)
+- [Learning and succeeding in seducing girls in social settings flow chart (2022)](https://www.youtube.com/watch?v=cZZZPAXjeKc)

@@ -4,7 +4,7 @@ title: Cannabis
 
 # [Cannabis](https://psychonautwiki.org/wiki/Cannabis)
 
-Use [Mighty+](https://www.storz-bickel.com/en-us/mighty-plus) when I occasionally use weed, goes especially well with [psychedelics](psychedelics/psychedelics.md). I start vape at 185-190C and end sessions at 210-220C.
+Use [Mighty+](https://www.storz-bickel.com/en-us/mighty-plus) when I occasionally use weed, goes especially well with [psychedelics](psychedelics/psychedelics.md). I start vape at 190-200C and end sessions at 210-220C.
 
 ## Notes
 

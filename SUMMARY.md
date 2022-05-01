@@ -1,7 +1,5 @@
 # Summary
 
-- [Meta](docs/meta/meta.md)
-  - [Reference](docs/meta/reference.md)
 - [Sharing](docs/sharing/sharing.md)
   - [Everything I know](docs/sharing/everything-I-know.md)
   - [My Workflow](docs/sharing/my-workflow.md)

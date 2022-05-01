@@ -1816,6 +1816,7 @@
 - [Nomad Rust](https://github.com/nomad-xyz/rust) - Rust work for nomad actors.
 - [Shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency injection Library for Rust.
 - [async_nursery](https://github.com/najamelan/async_nursery) - Primitive for structured concurrency.
+- [Halfbrown HashMap](https://github.com/Licenser/halfbrown) - Multi backend HashMap for higher performance on different key space sizes.
 
 ## Cargo Plugins
 

@@ -254,3 +254,4 @@ title: React Native
 - [React Native iOS Popover](https://github.com/dominicstop/react-native-ios-popover) - React native wrapper component to use the native iOS popover by wrapping a react native view inside a UIViewController and presenting it.
 - [React Native Graph](https://github.com/margelo/react-native-graph) - Beautiful, high-performance Graphs and Charts for React Native.
 - [React Native Smooth Picker](https://github.com/rdhox/react-native-smooth-picker)
+- [React Native Keyboard Controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Platform agnostic keyboard manager.

@@ -77,3 +77,5 @@ I do monthly reflections on life here. Comes as part of [my newsletter](https://
 ## [2017](2017/2017.md)
 
 > Interesting year. Learn Anything was born. Started writing this wiki.
+
+Before 2017 I wrote [day evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) for some time. First using pen on [Cube Calendar](https://www.thecubecalendar.com/en/news) I got as a gift and then digitally in app called [Day One](https://dayoneapp.com).

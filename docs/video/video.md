@@ -349,3 +349,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Why every Johnny Harris video goes viral (2022)](https://www.youtube.com/watch?v=dIKsEhX-vyU)
 - [Ask HN: Which small video editor do you use? (2022)](https://news.ycombinator.com/item?id=31179678)
 - [Coplay](https://github.com/Justineo/coplay) - Synchronizing video play between two peers.
+- [Cut the crap](https://github.com/jappeace/cut-the-crap) - Automatic video editing program for streamers.

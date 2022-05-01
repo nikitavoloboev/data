@@ -232,7 +232,7 @@
 ## Wiki
 
 - Treat wiki as my digital brain. Share everything I know or need to reference. [Reflect on life](../looking-back/looking-back.md).
-- Have [unified structure](../meta/reference.md) for all pages.
+- Have unified structure for all pages.
 - Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists).
 
 ## Share files

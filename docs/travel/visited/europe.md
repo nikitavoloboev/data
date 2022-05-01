@@ -1,6 +1,10 @@
 # Europe
 
-Love Europe. Specifically how varied the culture can be in such short distances.
+Love Europe. Specifically how varied the culture can be in such short distances. I am not too fond of how high the tax is for many EU countries is though given the benefits you get for this tax money aren't that great in my opinion.
+
+There are [many nice EU countries with lower tax](https://www.youtube.com/watch?v=qnUa3BZLoSA) though that you can work from.
+
+I am also curious how you can make EU political system more efficient, right now it seems incredibly messy.
 
 ## Links
 
@@ -63,3 +67,4 @@ Love Europe. Specifically how varied the culture can be in such short distances.
 - [Does China not view Europe as an equal? (2022)](https://www.reddit.com/r/China/comments/u8uvs8/does_china_not_view_europe_as_an_equal/)
 - [What has EU given us in terms of tech recently? (2022)](https://twitter.com/eigenrobot/status/1519026972831141896)
 - [Europe holidays | The Guardian](https://www.theguardian.com/travel/europe)
+- [Europe’s Most Tax-Friendly Countries for Remote Workers (2022)](https://www.youtube.com/watch?v=qnUa3BZLoSA)
