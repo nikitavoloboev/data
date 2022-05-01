@@ -495,6 +495,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Network Idle](https://github.com/SupremeTechnopriest/network-idle) - Detect when the browser's network requests are idle.
 - [immer-yjs](https://github.com/sep2/immer-yjs) - Combine immer & y.js.
 - [InfluxDB JS](https://github.com/influxdata/influxdb-client-js)
+- [ts-case-convert](https://github.com/RossWilliams/ts-case-convert) - Convert between camelCase and snake_case while preserving typescript information.
 
 ## Links
 

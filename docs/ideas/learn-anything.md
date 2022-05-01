@@ -28,4 +28,4 @@ If you want to help out, we have a [Discord server](https://discord.gg/bxtD8x6aN
 
 ## Links
 
-- [LA Docs](https://docs.learn-anything.xyz) - Includes roadmap, notes.
+- [LA Docs](https://www.notion.so/learnany/Public-b3b8e046a6bc44549367b84423360b93) - Includes roadmap, notes.
