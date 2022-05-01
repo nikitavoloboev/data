@@ -87,6 +87,7 @@ I want to:
 - [Allen](https://allenleein.github.io/1930/01/01/knowledge-base.html) ([Code](https://github.com/allenleein/knowledge-base))
 - [Full-stack web development notes](https://github.com/8483/notes)
 - [Max Masnick](https://maxmasnick.com/kb/)
+- [Uncurled](https://un.curl.dev/) - Wiki by Daniel Stenberg. ([Code](https://github.com/bagder/uncurled))
 - [Leon Bambrick](https://til.secretgeek.net/) ([Code](https://github.com/secretGeek/today-i-learned))
 - [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
 - [Harrison's Wiki](https://wiki.harrison.dev/)
