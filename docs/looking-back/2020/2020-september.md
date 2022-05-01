@@ -24,7 +24,7 @@ This first look back is partly inspired by [Gwern's newsletter](https://www.gwer
 
 Spark nicely organizes emails into 3 categories: `people`, `notifications` and `newsletters`. The first 2 I actually manage to get to 0 often enough. But newsletters, it's crazy. I actually want to build a dedicated native email client focusing specifically around newsletter consumption. There are some newsletters I value more than others, those will go into `1.` folder. The rest will go into `2.`. I do the same for RSS feeds I subscribe too and Twitter. And Reddit. This priority system is amazing. I might actually do this already with emails by adding certain newsletters into `1.` folder and consuming that. 🤔 Some thoughts aloud.
 
-There's lots of things I have optimized over the years and it's truly incredible getting to experience all the mental models & tools working in unison. It's something I want to focus on in the coming month, probably even next one if I get time. But I want to finally release my personal site, start a proper blog with nice design. Start making courses, YouTube videos as there is lots I want to teach. My goals are actually [public](https://wiki.nikitavoloboev.xyz/focusing/goals). Separated into 2 sections: Action & Theme. The theme part is [nicely described by CGP Grey](https://www.youtube.com/watch?v=NVGuFdX5guE).
+There's lots of things I have optimized over the years and it's truly incredible getting to experience all the mental models & tools working in unison. It's something I want to focus on in the coming month, probably even next one if I get time. But I want to finally release my personal site, start a proper blog with nice design. Start making courses, YouTube videos as there is lots I want to teach. My goals are actually [public](../../focusing/goals.md). Separated into 2 sections: Action & Theme. The theme part is [nicely described by CGP Grey](https://www.youtube.com/watch?v=NVGuFdX5guE).
 
 ## What actually happened in September
 
@@ -45,10 +45,6 @@ The song I am listening to now as I write this is [Lina](https://open.spotify.co
 ## Shows / Movies
 
 Loved [Ted Lasso](https://trakt.tv/shows/ted-lasso), [Logan Lucky](https://letterboxd.com/film/logan-lucky/) & [Knives Out](https://letterboxd.com/film/knives-out-2019/).
-
-## ❤️💛💚
-
-Don't want to keep these look backs long, we all have things to do. If you want to dive deeper, there's some [raw notes in wiki I had for this month](https://wiki.nikitavoloboev.xyz/looking-back/2020/2020-september) and more generally my wiki has gotten **a lot** larger. 32,062 lines of markdown as of this day. Can't wait to finally move the links from it to LA.
 
 ## Logs
 

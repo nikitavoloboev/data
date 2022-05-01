@@ -408,3 +408,4 @@ Awesome List
 - [What do you want GitHub to focus on? (2022)](https://twitter.com/rakyll/status/1519019723375058944)
 - [Automatically opening issues when tracked file content changes (2022)](https://simonwillison.net/2022/Apr/28/issue-on-changes/)
 - [GitHub webhook events toolset for Node.js](https://github.com/octokit/webhooks.js)
+- [Ask HN: Do you rewrite pull requests? (2022)](https://news.ycombinator.com/item?id=31225599)
