@@ -578,6 +578,7 @@
 - [StatProfilerHTML](https://github.com/tkluck/StatProfilerHTML.jl) - Show Julia profiling data in an explorable HTML page.
 - [ProximalAlgorithms.jl](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl) - Proximal algorithms for non-smooth optimization in Julia.
 - [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) - Word cloud generator in Julia.
+- [RemoteREPL](https://github.com/c42f/RemoteREPL.jl) - Connect a REPL to a remote Julia process.
 
 ## Links
 
