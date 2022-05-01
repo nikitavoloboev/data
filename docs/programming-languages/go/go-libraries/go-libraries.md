@@ -1617,6 +1617,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [SegmentIO Go generic data structures](https://github.com/segmentio/datastructures)
 - [Honeypot](https://github.com/silverton-io/honeypot) - Lightweight event collection system.
 - [sdf](https://github.com/soypat/sdf) - Go library for signed distance function shape generation.
+- [Huego](https://github.com/amimof/huego) - Extensive Philips Hue client library for Go with an emphasis on simplicity.
 
 ## Links
 
