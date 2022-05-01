@@ -9,7 +9,7 @@ This is my personal wiki where I share [everything I know](sharing/everything-I-
 
 If this is your first time visiting this wiki, take a look [here](#getting-started) as it describes this wiki, its structure and goals.
 
-Below are my notes & their relations visualized.
+Below are my 1,000+ notes & their relations visualized.
 
 ![](https://i.imgur.com/SbhfKGm.png)
 
