@@ -75,3 +75,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Action Slack Notifier](https://github.com/actions-ecosystem/action-slack-notifier) - GitHub Action to send notifications to Slack.
 - [JSX Slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX. ([Web](https://jsx-slack.netlify.app/))
 - [Linen](https://www.linen.dev/) - Make your Slack community Google-searchable. ([HN](https://news.ycombinator.com/item?id=31168882))
+- [Slack Ruby Bot Ruby library](https://github.com/slack-ruby/slack-ruby-bot)

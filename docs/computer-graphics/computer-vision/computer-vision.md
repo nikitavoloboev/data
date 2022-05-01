@@ -739,3 +739,7 @@
 - [Associating Objects with Transformers for Video Object Segmentation (2021)](https://arxiv.org/abs/2106.02638) ([Code](https://github.com/z-x-yang/AOT))
 - [Simple multi-dataset detection](https://github.com/xingyizhou/UniDet) - Object detection on multiple datasets with an automatically learned unified label space.
 - [Learning Texture Transformer Network for Image Super-Resolution (2020)](https://arxiv.org/abs/2006.04139) ([Code](https://github.com/researchmm/TTSR))
+- [Balanced MSE for Imbalanced Visual Regression (2022)](https://arxiv.org/abs/2203.16427) ([Code](https://github.com/jiawei-ren/BalancedMSE))
+- [Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions (2022)](https://arxiv.org/abs/2203.17234) ([Code](https://github.com/nv-nguyen/template-pose))
+- [Action-Conditioned 3D Human Motion Synthesis with Transformer VAE (2021)](https://arxiv.org/abs/2104.05670) ([Code](https://github.com/Mathux/ACTOR))
+- [CoMoGAN: continuous model-guided image-to-image translation (2021)](https://arxiv.org/abs/2103.06879) ([Code](https://github.com/cv-rits/CoMoGAN))

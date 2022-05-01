@@ -414,6 +414,7 @@
 - [arbtest](https://github.com/matklad/arbtest) - Minimalist property-based testing library.
 - [Fazi](https://github.com/landaire/fazi) - Drop-in replacement for libfuzzer.
 - [serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialized Rust tests.
+- [bolero](https://github.com/camshaft/bolero) - Fuzz and property testing front-end for Rust.
 
 ## Error
 
@@ -1818,6 +1819,7 @@
 - [Shaku](https://github.com/AzureMarker/shaku) - Compile Time Dependency injection Library for Rust.
 - [async_nursery](https://github.com/najamelan/async_nursery) - Primitive for structured concurrency.
 - [Halfbrown HashMap](https://github.com/Licenser/halfbrown) - Multi backend HashMap for higher performance on different key space sizes.
+- [ferros](https://github.com/auxoncorp/ferros) - Rust-based userland which also adds compile-time assurances to seL4 development.
 
 ## Cargo Plugins
 

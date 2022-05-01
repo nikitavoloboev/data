@@ -24,7 +24,9 @@ As for date ideas and how to get dates online. Dating apps like Tinder/Bumble ca
 
 For chatting, above mentioned advice applies but the goal with online dating is to meet in person as soon as possible if there is a connection and you like the person. You will know more from a brief or if lucky longer period of time you are on a date getting [coffee or taking a walk](https://www.reddit.com/r/datingoverthirty/comments/nc9k7o/first_date_ideas/) then messaging online for days. As you both swiped on each other, the other person is already interested unless they just seek validation and want some compliments sent their way (supposedly lots do really just want this). Some may find it too forward to meet soon for fear of safety but the advice of proposing to meet IRL sooner applies only if you do it when both will feel right when you propose this. I often wrote `You are fun. Would love to meet you for coffee some time and talk. What do you think? 😊` or some variation of it. Also moving the conversation to a more real chat app like Telegram is also best done as soon as possible if there is some mutual interest often as a result of a good date/meet.
 
-Above applies for trying to get a romantic relationship. [Relationships](relationships.md) especially ones that are romantic are much more interesting and fascinating to learn to get better at. I shared things I've learned about having more happy relationships [in my wiki here](relationships.md). In summary it's:
+Having said all of above, I think the most effective approach is having a great aesthetic Instagram and doing cold approaches. There is too much flakiness involved with online dating. [This discussion](https://www.youtube.com/watch?v=ZZS2CczndCI) covers the current state of dating quite well together with what works and what doesn't. Again, not sure how useful above info is as I have been outside of dating for quite a while now, this is mostly advice I kind of internalized from what I've read and learned via my one 7 year+ long term relationship and the few dates I've done before that.
+
+[Relationships](relationships.md) of any kind especially ones that are romantic are truly fascinating to learn to get better at. I shared things I've learned about having more happy relationships [in my wiki here](relationships.md). In summary it's:
 
 1. Be honest. Be kind. Be empathetic.
 2. Don't avoid/ignore conflicts. Communicate everything.
@@ -111,3 +113,5 @@ Above applies for trying to get a romantic relationship. [Relationships](relatio
 - [Reacting to terrible women's dating advice](https://www.youtube.com/watch?v=H297KONa-qo)
 - [Steps to take to make yourself more attractive to others (2022)](https://www.youtube.com/watch?v=eamhOiWmUro)
 - [Learning and succeeding in seducing girls in social settings flow chart (2022)](https://www.youtube.com/watch?v=cZZZPAXjeKc)
+- [Discussing dating in America (2022)](https://www.youtube.com/watch?v=ZZS2CczndCI)
+- [Austen Summers - YouTube](https://www.youtube.com/c/AustenSummers/videos)

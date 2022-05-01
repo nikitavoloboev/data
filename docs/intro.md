@@ -69,7 +69,7 @@ There's 1,000+ pages in here and lots of them I think are interesting. But these
 - [Karabiner](macOS/apps/karabiner/karabiner.md) as it describes a genuinely life changing tool that makes updating this wiki and operating my mac at fast speeds possible
 - [VSCode](text-editors/vs-code/vs-code.md) & [Sublime Text](text-editors/sublime-text/sublime-text.md) for similar reason as Karabiner, life changing tools. I use Sublime Text for [editing this wiki](other/wiki-workflow.md) and VSCode for writing [code](programming/programming.md). Mostly [TypeScript](programming-languages/typescript/typescript.md) and [Go](programming-languages/go/go.md) now.
 - [Happiness](life/happiness.md) includes my lessons I learned for how to live a happier life
-- [Focusing](focusing/focusing.md) as it's a very important page for me. It links to other important to me pages: [Rules](focusing/rules.md) & [Habits](focusing/habits.md). These 2 pages are essentially a summary of my life as far as value system / lessons learned / habits go.
+- [Focusing](focusing/focusing.md) as it's a very important page for me. It links to other important to me pages: [Rules](focusing/rules.md) & [Habits](focusing/habits.md). These 2 pages are essentially a summary of my life as far as my value system / lessons learned / habits go.
 - [Relationships](relationships/relationships.md) is another important to me area in life as I want to be someone friends think fondly of and it contains my thoughts on that
 - [My Workflow](sharing/my-workflow.md) includes a summary of what I use in life.
 - [Looking Back](looking-back/looking-back.md) as it's my life diary. It includes a lot of how I felt, what I thought about and did at any point in time starting from 2017 when I first started writing a journal.

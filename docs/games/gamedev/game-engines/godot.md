@@ -68,3 +68,5 @@ title: Godot
 - [ArcadiaGodot](https://github.com/arcadia-unity/ArcadiaGodot) - Integration of the Clojure Programming Language with the Godot game engine.
 - [Qarminer](https://github.com/qarmin/Qarminer) - Fuzzer which finds crashes, memory leaks and undefined behaviors in Godot Engine.
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - 2D Terrain Tool for Godot.
+- [GDScript and Godot client for real-time Phoenix Framework Channels](https://github.com/alfredbaudisch/GodotPhoenixChannels)
+- [Godex](https://github.com/GodotECS/godex) - Godot Engine ECS library.

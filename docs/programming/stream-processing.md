@@ -37,3 +37,4 @@
 - [Callysto](https://github.com/vertexclique/callysto) - Stream processing framework.
 - [Database Stream Processor](https://github.com/vmware/database-stream-processor) - Streaming and Incremental Computation Framework.
 - [Conduit](https://github.com/ConduitIO/conduit) - Data Integration for Production Data Stores.
+- [StreamX](https://github.com/streamxhub/streamx) - Make stream processing easier.

@@ -129,6 +129,7 @@ I also share [my thoughts on finding romantic partners](seduction.md).
 - [The backwards thing about “networking” in your early years is that it feels like you should connect w/ high profile, successful people. In reality, those people are so checked out & won’t be able to do anything for you. Instead, spend your time talking to new, undiscovered folks.](https://twitter.com/nikitabier/status/1501578192355692544)
 - [If it doesn’t feel right, you don’t need an excuse to leave. You don’t need explanations etc.](https://www.reddit.com/r/NarcissisticAbuse/comments/tatur5/strongest_boundary_created_since_your_nex/)
 - [First date is for putting your best foot forward. The second date is where you reveal any potential deal breakers.](https://www.reddit.com/r/datingoverthirty/comments/tda8js/how_to_address_stis/)
+- [Poly person shouldn't lead a monogamous person on. Don't be in a polyamorous relationship if it makes you unhappy. There is plenty of people out there who will happily be in a mono relationship with you.](https://www.reddit.com/r/relationship_advice/comments/ufnk64/why_am_i_so_scared_of_polyamory/)
 
 ## Links
 
@@ -229,3 +230,4 @@ I also share [my thoughts on finding romantic partners](seduction.md).
 - [Joe Rogan - Does Polyamory Work?](https://www.youtube.com/watch?v=c7IK-uuJfUc)
 - [Тред про историю полиамории](https://twitter.com/mpojarsky/status/1520500067823718401)
 - [Red Flags Men Should never Ignore (From Bad Signs To The Worst)](https://www.youtube.com/watch?v=r3WDAjRPv9E)
+- [Why am I so scared of Polyamory? (2022)](https://www.reddit.com/r/relationship_advice/comments/ufnk64/why_am_i_so_scared_of_polyamory/)

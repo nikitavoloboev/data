@@ -87,3 +87,4 @@
 - [Seeed Studio Bazaar](https://www.seeedstudio.com/) - IoT Hardware enabler.
 - [Nexus](https://github.com/mobius-home/nexus) - Centralized server for collecting IoT metric data for Elixir/Nerves devices using Mobius.
 - [Azure IoT SDK for Rust](https://github.com/damienpontifex/azure-iot-sdk-rs) - Self developed library to interact with Azure IoT Hub using MQTT protocol.
+- [GridDB](https://github.com/griddb/griddb) - Database for IoT with both NoSQL interface and SQL Interface.

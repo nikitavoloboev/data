@@ -103,3 +103,4 @@
 - [Common Lisp Resources (2022)](https://lisp-journey.gitlab.io/resources/) ([HN](https://news.ycombinator.com/item?id=31120359))
 - [Tutorial Series to learn Common Lisp quickly](https://github.com/rabbibotton/clog/blob/main/LEARN.md) ([HN](https://news.ycombinator.com/item?id=31178737))
 - [Trial](https://github.com/Shirakumo/trial) - Game engine written in Common Lisp.
+- [srcweave](https://github.com/justinmeiners/srcweave) - Literate programming system for any language.

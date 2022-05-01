@@ -51,3 +51,4 @@ title: Satisfiability modulo theories
 - [JavaSMT](https://github.com/sosy-lab/java-smt) - Unified Java API for SMT solvers.
 - [Yices 2](https://github.com/SRI-CSL/yices2) - Solver for Satisfiability Modulo Theories (SMT) problems. ([Web](https://yices.csl.sri.com/))
 - [Factorio SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers.
+- [ParaFROST](https://github.com/muhos/ParaFROST) - Parallel SAT Solver with GPU Accelerated Inprocessing.
