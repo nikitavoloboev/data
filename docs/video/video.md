@@ -2,7 +2,7 @@
 
 I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are quite outdated).
 
-[Descript](https://www.descript.com/) is amazing for video editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself).
+[Descript](https://www.descript.com/) is amazing for video editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself). [YT-DLP](https://github.com/yt-dlp/yt-dlp) is great for downloading videos from the web.
 
 Prefer [Google Meet](https://meet.google.com/) for video calls.
 
@@ -350,3 +350,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Ask HN: Which small video editor do you use? (2022)](https://news.ycombinator.com/item?id=31179678)
 - [Coplay](https://github.com/Justineo/coplay) - Synchronizing video play between two peers.
 - [Cut the crap](https://github.com/jappeace/cut-the-crap) - Automatic video editing program for streamers.
+- [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl (using the yt-dlp fork) with playlist support.

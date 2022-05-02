@@ -94,3 +94,4 @@
 - [Frontend Component Architecture](https://gos.si/blog/frontend-component-architecture/)
 - [Style-free components for all the frameworks](https://github.com/milkui/components)
 - [Architecture for a maintainable UI](https://github.com/feature-driven-architecture/spec)
+- [A "lawful" framework for styling/formatting UIs? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/ugb7e8/a_lawful_framework_for_stylingformatting_uis/)

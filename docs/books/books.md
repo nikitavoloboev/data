@@ -303,6 +303,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Your last 10/10 read (2022)](https://www.reddit.com/r/suggestmeabook/comments/tyxoml/your_last_1010_read/)
 - [Saddest book you’ve ever read (fiction)](https://www.reddit.com/r/suggestmeabook/comments/u3kp3s/name_the_saddest_book_youve_ever_read_fiction/)
 - [Novels you think have great reread value (2022)](https://www.reddit.com/r/suggestmeabook/comments/u8l9fy/what_novels_do_you_think_have_really_great_reread/)
+- [Deep and Interesting Graphic Novels (2022)](https://www.reddit.com/r/suggestmeabook/comments/uga8k0/deep_and_interesting_graphic_novels/)
 
 ## Interesting Prose Books
 

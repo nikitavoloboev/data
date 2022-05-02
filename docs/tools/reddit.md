@@ -65,3 +65,4 @@ title: Reddit
 - [Redditle](https://redditle.com/) - Reddit-only Google Search. ([HN](https://news.ycombinator.com/item?id=30946792)) ([Code](https://github.com/greentfrapp/redditle))
 - [Photon Reddit](https://photon-reddit.com/) - Clean and modern Reddit desktop web client. ([Code](https://github.com/ArthurHeitmann/photon-reddit))
 - [Reddit Save](https://github.com/samirelanduk/reddit-save) - Python utility for backing up your reddit upvoted/saved stuff.
+- [Reddit Video Downloader](https://redditsave.com/) - Download Reddit videos with sound audio.
