@@ -324,3 +324,4 @@ title: GraphQL
 - [Pothos GraphQL](https://github.com/hayes/pothos) - Library for creating GraphQL schemas in typescript using a strongly typed code first approach. ([Docs](https://pothos-graphql.dev/))
 - [Quest](https://github.com/alexmacarthur/graphql-quest) - Ultra-minimal library for making GraphQL requests in the browser and Node.
 - [One Week GraphQL](https://oneweekgraphql.com/) - Build a fullstack eCommerce application with GraphQL Yoga, Prisma, Planetscale, Next.js, Tailwind CSS, & Stripe Checkout. ([Code](https://github.com/OneWeekGraphQL/OneWeekGraphQL-Final))
+- [Hypothesis GraphQL](https://github.com/Stranger6667/hypothesis-graphql) - Generate arbitrary queries matching your GraphQL schema, and use them to verify your backend implementation.

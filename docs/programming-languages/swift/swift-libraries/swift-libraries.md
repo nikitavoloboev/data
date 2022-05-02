@@ -502,6 +502,7 @@
 - [HalfASheet](https://github.com/franklynw/HalfASheet) - SwiftUI pseudo-modal partial screen sheet, with height customization.
 - [Dux](https://github.com/jakeheis/Dux) - Guide users through your SwiftUI app with coach marks.
 - [ViewController](https://github.com/ZeeZide/ViewController) - MVC for SwiftUI. ViewController's for SwiftUI.
+- [Model3DView](https://github.com/frzi/Model3DView) - Render 3D models with SwiftUI effortlessly.
 
 ## Test
 

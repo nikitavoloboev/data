@@ -1829,6 +1829,7 @@
 - [completion](https://github.com/SabrinaJewson/completion) - Utilities for writing completion-based asynchronous code.
 - [Sphinx](https://github.com/nymtech/sphinx) - Sphinx implementation in Rust.
 - [ff](https://github.com/zkcrypto/ff) - Traits and utilities for working with finite fields.
+- [refl](https://github.com/Centril/refl) - Provides a refl encoding which you can use to provide a proof witness that one type is equivalent (identical) to another type.
 
 ## Cargo Plugins
 

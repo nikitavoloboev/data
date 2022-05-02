@@ -10,7 +10,7 @@
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.
 - [Bottle](https://github.com/bottlepy/bottle) - Fast and simple micro-framework for python web-applications. ([Docs](http://bottlepy.org/docs/dev/))
 - [Pyramid](https://github.com/Pylons/pyramid) - Small, fast, down-to-earth, open source Python web framework.
-- [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
+- [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required. ([Web](https://plotly.com/dash/)) ([Awesome](https://github.com/ucg8j/awesome-dash))
 - [web.py](https://github.com/webpy/webpy) - Web framework for python that is as simple as it is powerful.
 - [HTTPX](https://github.com/encode/httpx) - Next generation HTTP client for Python.
 - [baseplate.py](https://github.com/reddit/baseplate.py) - Reddit's python service framework. ([Docs](https://baseplate.readthedocs.io/en/stable/))

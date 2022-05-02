@@ -164,3 +164,4 @@ title: Terraform
 - [NS1 Terraform Provider](https://github.com/ns1-terraform/terraform-provider-ns1)
 - [Terraform in Terraform](https://github.com/weakpixel/terraform-provider-tfcli) - Execute Modules directly from the Terraform Registry.
 - [Aiven Terraform Provider](https://github.com/aiven/terraform-provider-aiven)
+- [Sentry Terraform Provider](https://github.com/jianyuan/terraform-provider-sentry)

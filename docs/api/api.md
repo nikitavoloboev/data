@@ -4,6 +4,8 @@
 
 [Redocusaurus](https://github.com/rohit-gohri/redocusaurus) seems nice for API docs. [Svix](https://www.svix.com/) is great for webhooks. [tRPC](https://github.com/trpc/trpc) is nice for API access.
 
+Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://github.com/Kapeli/Dash-Alfred-Workflow) on macOS for searching docs.
+
 ## Other
 
 - [OpenAI API](https://openai.com/api/)
