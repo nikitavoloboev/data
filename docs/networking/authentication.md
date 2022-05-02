@@ -225,3 +225,4 @@
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
 - [Pritunl-Zero](https://github.com/pritunl/pritunl-zero) - Zero trust system that provides secure authenticated access to internal services from untrusted networks without the use of a VPN.
 - [Infra](https://infrahq.com/) - Single sign-on for your infrastructure. ([Code](https://github.com/infrahq/infra))
+- [Online Identity (2022)](https://ja3k.com/blog/onid.html) ([HN](https://news.ycombinator.com/item?id=31216393))
