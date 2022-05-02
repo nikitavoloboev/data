@@ -154,3 +154,5 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [How could the war in Ukraine impact global food supplies? (2022)](https://ourworldindata.org/ukraine-russia-food)
 - [What food surprised you with how healthy it is?](https://www.reddit.com/r/nutrition/comments/tunr9w/what_food_surprised_you_with_how_healthy_it_is/)
 - [What are some toxic foods for the body that a lot of people eat? (2022)](https://www.reddit.com/r/nutrition/comments/tzt194/what_are_some_toxic_foods_for_the_body_that_a_lot/)
+- [Fruits and vegetables are less nutritious than they used to be (2022)](https://www.nationalgeographic.com/magazine/article/fruits-and-vegetables-are-less-nutritious-than-they-used-to-be) ([HN](https://news.ycombinator.com/item?id=31229335))
+- [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security (2022)](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge) ([HN](https://news.ycombinator.com/item?id=31232814))

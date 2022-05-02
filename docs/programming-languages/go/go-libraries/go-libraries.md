@@ -1,6 +1,6 @@
 # Go libraries
 
-Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) & [sqlingo](https://github.com/lqs/sqlingo) seem like a nice ORMs. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client.
+Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) & [sqlingo](https://github.com/lqs/sqlingo) seem like a nice ORMs. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client. [ZenQ](https://github.com/alphadose/ZenQ) is a nice queue lib.
 
 [Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
 
@@ -1618,6 +1618,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Honeypot](https://github.com/silverton-io/honeypot) - Lightweight event collection system.
 - [sdf](https://github.com/soypat/sdf) - Go library for signed distance function shape generation.
 - [Huego](https://github.com/amimof/huego) - Extensive Philips Hue client library for Go with an emphasis on simplicity.
+- [gcon](https://github.com/jonbodner/gcon) - Simple library to add async/await to Go using generics and closures.
 
 ## Links
 
@@ -1717,3 +1718,5 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go JSON Schema Reflection](https://github.com/invopop/jsonschema) - Generate JSON Schemas from Go types.
 - [Taming SQL and ORMs with sqlc (2022)](https://encore.dev/blog/go-get-it-001-sqlc)
 - [Charm’s meta configuration files](https://github.com/charmbracelet/meta) - Includes nice GoReleaser config.
+- [Dependabot bundler](https://github.com/Skarlso/dependabot-bundler) - Bundle Dependabot PRs into a single PR for Go projects.
+- [gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go.

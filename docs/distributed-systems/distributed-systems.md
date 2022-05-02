@@ -263,3 +263,4 @@
 - [A Brief History of High Availability (2021)](https://www.cockroachlabs.com/blog/brief-history-high-availability/) ([HN](https://news.ycombinator.com/item?id=31166079))
 - [Artillery](https://github.com/bastion-rs/artillery) - Fire-forged cluster management & Distributed data protocol.
 - [Principles of Distributed Computing (lecture collection)](https://disco.ethz.ch/courses/podc_allstars/)
+- [Distributed Systems Shibboleths (2022)](https://jolynch.github.io/posts/distsys_shibboleths/) ([HN](https://news.ycombinator.com/item?id=31217802))

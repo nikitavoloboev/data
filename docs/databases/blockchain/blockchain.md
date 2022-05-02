@@ -84,7 +84,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Mechanism design challenges in cryptocurrency and blockchains by Buterin Slides](https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ/edit#slide=id.p)
 - [Edward Snowden Explains Blockchain to His Lawyer — and the Rest of Us](https://www.aclu.org/blog/privacy-technology/internet-privacy/edward-snowden-explains-blockchain-his-lawyer-and-rest-us)
 - [EOS](https://github.com/EOSIO/eos) - Open source smart contract platform.
-- [The Graph](https://thegraph.com/) - Indexing protocol for querying networks like Ethereum and IPFS. ([2019 Keynote](https://www.youtube.com/watch?v=fZcbWkrTMtg)) ([Twitter](https://twitter.com/graphprotocol)) ([CLI](https://github.com/graphprotocol/graph-cli)) ([Code](https://github.com/graphprotocol/contracts))
+- [The Graph](https://thegraph.com/) - Indexing protocol for querying networks like Ethereum and IPFS. ([2019 Keynote](https://www.youtube.com/watch?v=fZcbWkrTMtg)) ([Twitter](https://twitter.com/graphprotocol)) ([CLI](https://github.com/graphprotocol/graph-cli)) ([Code](https://github.com/graphprotocol/contracts)) ([Docs](https://thegraph.com/docs/en/)) ([Docs Code](https://github.com/graphprotocol/docs))
 - [IELE Semantics](https://github.com/runtimeverification/iele-semantics) - Semantics of Virtual Machine for IELE prototype blockchain.
 - [Why Blockchain Could (One Day) Topple Google (2017)](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
 - [Squeezer Framework](https://github.com/SqueezerIO/squeezer) - Build serverless dApps.

@@ -201,6 +201,7 @@
 
 - [pygmsh](https://github.com/nschloe/pygmsh) - Provides useful abstractions from Gmsh's own Python interface so you can create complex geometries more easily.
 - [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
+- [mesh_to_sdf](https://github.com/marian42/mesh_to_sdf) - Calculate signed distance fields for arbitrary meshes.
 
 ## Crypto
 
@@ -986,3 +987,4 @@
 - [sigstore-python](https://github.com/sigstore/sigstore-python) - Codesigning tool for Python packages.
 - [Python Monorepo](https://github.com/dermidgen/python-monorepo) - Example of scaffolding and tooling for a Python based monorepo.
 - [typing_copilot](https://github.com/obi1kenobi/typing_copilot) - Helper for starting to type-hint large codebases with mypy.
+- [Dataclasses JSON](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON.

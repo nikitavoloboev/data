@@ -98,3 +98,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [Turning back the clock: Human skin cells de-aged by 30 years in trial (2022)](https://news.sky.com/story/turning-back-the-clock-human-skin-cells-de-aged-by-30-years-in-trial-12584866) ([HN](https://news.ycombinator.com/item?id=30960470))
 - [The brain expands and shrinks over time](https://www.nature.com/articles/d41586-022-00971-1) ([HN](https://news.ycombinator.com/item?id=31048591))
 - [Mental speed is high until age 60 (2022)](https://www.nature.com/articles/s41562-021-01282-7) ([HN](https://news.ycombinator.com/item?id=31068388))
+- [HN: Getting hired after fifty (2022)](https://news.ycombinator.com/item?id=31217439)

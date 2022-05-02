@@ -190,3 +190,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Fintopea](https://www.fintopea.com/) - Free financial visualizations of publicly listed companies. ([Code](https://github.com/RaymondMoay/fintopea)) ([HN](https://news.ycombinator.com/item?id=31192956))
 - [Polygon.io](https://polygon.io/) - Stock Market Data APIs.
 - [Best payment processor out there that acts as a merchant of record (2022)](https://twitter.com/adamwathan/status/1520371027771117568)
+- [Beancount](https://github.com/beancount/beancount) - Double-Entry Accounting from Text Files. ([Rust Tooling](https://github.com/twilco/beancount))

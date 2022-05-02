@@ -306,3 +306,4 @@ title: WebAssembly
 - [WebAssembly 2.0 First Working Draft](https://www.w3.org/TR/wasm-core-2/) ([HN](https://news.ycombinator.com/item?id=31086217))
 - [JavaScript Garbage Collection with WebAssembly is Possible Today](https://jott.live/markdown/js_gc_in_wasm)
 - [Entropy source API for WASI](https://github.com/WebAssembly/wasi-random)
+- [Awesome WASI](https://github.com/wasmerio/awesome-wasi)

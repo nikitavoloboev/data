@@ -57,7 +57,7 @@
 - [Haptic](https://github.com/heyheyhello/haptic) - Reactive web rendering in TSX with no virtual DOM, no compilers, and no magic.
 - [Astro](https://github.com/snowpackjs/astro) - Build faster websites with less client-side JavaScript. ([Web](https://astro.build/)) ([HN](https://news.ycombinator.com/item?id=27440553)) ([Look at Building with Astro](https://css-tricks.com/a-look-at-building-with-astro/)) ([Play](https://astro.build/play)) ([Tweet](https://twitter.com/jlengstorf/status/1442707241627385860))
 - [Logux Client](https://github.com/logux/client) - New way to connect client and server. Instead of sending HTTP requests, it synchronizes log of operations between client, server, and other clients. ([Examples](https://github.com/logux/examples))
-- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews)) ([Exploring Qwik, the Resumable Framework](https://www.youtube.com/watch?v=gT5NWKZZPQM)) ([Building Qwik w/ Misko Hevery](https://www.youtube.com/watch?v=lY6e7Hw4uVo)) ([Tweet](https://twitter.com/_egoistlily/status/1495002599342620672))
+- [Qwik](https://github.com/BuilderIO/qwik) - DOM-Centric, Resumable Web-App Framework. ([HN Demo](https://github.com/ryansolid/qwik-hackernews)) ([Exploring Qwik, the Resumable Framework](https://www.youtube.com/watch?v=gT5NWKZZPQM)) ([Building Qwik w/ Misko Hevery](https://www.youtube.com/watch?v=lY6e7Hw4uVo)) ([Tweet](https://twitter.com/_egoistlily/status/1495002599342620672)) ([Build Resumable Apps with Qwik](https://www.youtube.com/watch?v=_PDpoJUacuc))
 - [CalDOM](https://github.com/dumijay/CalDOM) - Agnostic, reactive & minimalist (3kb) JavaScript UI library with direct access to native DOM. ([Web](https://caldom.org/))
 - [Trimmings](https://github.com/postlight/trimmings) - Zero-configuration JavaScript library that adds a layer of smooth and fast in-page interaction to your web pages.
 - [Piral](https://piral.io/) - Easily build a next generation portal application using microfrontends. ([Code](https://github.com/smapiot/piral))
@@ -919,6 +919,7 @@
 - [Delaunator](https://github.com/mapbox/delaunator) - Incredibly fast JavaScript library for Delaunay triangulation of 2D points.
 - [unist-util-select](https://github.com/syntax-tree/unist-util-select) - Utility to select unist nodes with CSS-like selectors.
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - Detection of elements in view port & smooth scrolling with parallax effects. ([Code](https://github.com/locomotivemtl/locomotive-scroll))
+- [LiquidJS](https://github.com/harttle/liquidjs) - Simple, expressive and safe template engine. ([Web](https://liquidjs.com/))
 
 ## Links
 

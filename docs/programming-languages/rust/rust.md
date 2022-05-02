@@ -773,3 +773,5 @@ title: Rust
 - [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - Tutorial for the Rust language. ([Code](https://github.com/RalfJung/rust-101))
 - [Different 'modes' of Rust you can program in](https://twitter.com/yoshuawuyts/status/1517282615128113153)
 - [From Python into Rust Guide](https://github.com/rochacbruno/py2rs) - Quick reference guide for the Pythonista in the process of becoming a Rustacean.
+- [Benchmarking and analyzing Rust performance (2022)](https://www.notamonadtutorial.com/benchmarking-and-analyzing-rust-performance-with-criterion-and-iai/)
+- [Rust from 0 to 80% for JavaScript Developers (2022)](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/) ([HN](https://news.ycombinator.com/item?id=31220791))

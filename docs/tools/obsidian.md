@@ -169,3 +169,4 @@ title: Obsidian
 - [Mind mapping with Excalidraw in Obsidian (2021)](https://www.zsolt.blog/2021/09/mind-mapping-with-excalidraw-in-obsidian.html)
 - [How to Boost your Productivity for Scientific Research (2022)](https://universvm.medium.com/how-to-boost-your-productivity-for-scientific-research-using-obsidian-fe85c98c63c8)
 - [What clever Obsidian tricks have you found? (2022)](https://www.reddit.com/r/ObsidianMD/comments/uaxzhf/what_clever_obsidian_tricks_have_you_found/)
+- [Modular CSS Layout for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)

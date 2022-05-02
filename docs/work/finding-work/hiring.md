@@ -57,6 +57,7 @@
 - [Hiring more won’t make you go faster because the output of your projects follows a power law. When constrained by people, you focus on the 1-2 most critical bottlenecks. When you have extra people they work on non-bottlenecks, which does nothing to increase overall speed.](https://twitter.com/chrismanfrank/status/1492316698287824900)
 - [If the CEO of a company is not spending >25% of their time recruiting, than that is a lifestyle business.](https://twitter.com/auren/status/1498490020524666880)
 - [Deadly mistake for founders and organizational leaders is to treat hiring a large team as a sign of success. Hiring should be treated as a last resort when your business will start failing without more engineers, sales people or customer success people. Otherwise you’re Fast.](https://twitter.com/Carnage4Life/status/1515536521884942339)
+- [Biggest mistake founders make is they don't let go of under-performing hires quick enough. Then they do it wrong. Be direct. It should not be a surprise. It should be a continuation from prior discussions. No fluff, no excuses, be clear, state the facts.](https://twitter.com/HarryStebbings/status/1521116776238665730)
 
 ## Links
 

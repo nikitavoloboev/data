@@ -969,3 +969,4 @@ Here are few more things I liked, design wise. [Linear is pretty great](https://
 - [A Showcase Of Lovely Little Websites (2021)](https://www.smashingmagazine.com/2021/11/showcase-lovely-little-websites/)
 - [Ask HN: What are the best-designed things you've ever used? (2021)](https://news.ycombinator.com/item?id=29353980)
 - [Ask HN: What is the most unique website you’ve come across on the internet? (2022)](https://news.ycombinator.com/item?id=30440123)
+- [Ask HN: What are your favorite examples of elegant software? (2022)](https://news.ycombinator.com/item?id=31230903)

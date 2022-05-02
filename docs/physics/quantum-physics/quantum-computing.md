@@ -159,3 +159,4 @@ title: Quantum computing
 - [Quantum Simulator implemented](https://github.com/Eurus-Holmes/Quantum-Simulator)
 - [Two-qubit silicon quantum processor with operation fidelity exceeding 99% (2022)](https://www.science.org/doi/10.1126/sciadv.abn5130) ([HN](https://news.ycombinator.com/item?id=31044211))
 - [SpinQ Gemini: a desktop quantum computing platform for education and research](https://epjquantumtechnology.springeropen.com/track/pdf/10.1140/epjqt/s40507-021-00109-8.pdf)
+- [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Julia package for the quantum computation and quantum simulation based on the neutral-atom architecture.

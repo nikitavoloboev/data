@@ -214,3 +214,4 @@ title: DNS
 - [Erlang DNS Server](https://github.com/dnsimple/erldns) - Serve DNS authoritative responses with Erlang.
 - [libdns](https://github.com/libdns/libdns) - Universal DNS provider APIs for Go.
 - [How DNS Works](https://wizardzines.com/zines/dns/)
+- [dness](https://github.com/nickbabcock/dness) - Dynamic DNS client.

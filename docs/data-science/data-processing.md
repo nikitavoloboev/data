@@ -96,3 +96,4 @@
 - [Hawk](https://github.com/gelisam/hawk) - Haskell text processor for the command-line.
 - [Alternatives to pandas library](https://twitter.com/lalleal/status/1511400363622121482)
 - [Zed](https://github.com/brimdata/zed) - Tooling for super-structured data: a new and easier way to manipulate data. ([Web](https://zed.brimdata.io/))
+- [Fast Analysis with DuckDB + PyArrow (2022)](https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html) - Trying out some new speedy tools for data analysis.

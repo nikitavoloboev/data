@@ -242,3 +242,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Workflow for dealing with lots of emails](https://twitter.com/alexhillman/status/1518272222707732482)
 - [mjml-react](https://github.com/luma-team/mjml-react) - React component library to generate the HTML emails on the fly.
 - [Ask HN: Why can't I host my own email? (2022)](https://news.ycombinator.com/item?id=31180379)
+- [Inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. ([Web](https://www.inbucket.org/))

@@ -328,6 +328,7 @@
 - [Swift runtime for Fastly Compute@Edge](https://github.com/AndrewBarba/swift-compute-runtime)
 - [Vapor Sitemap](https://github.com/vapor-community/vapor-sitemap) - Dynamic sitemap generator for Vapor.
 - [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
+- [Vapor Routing](https://github.com/pointfreeco/vapor-routing) - Routing library for Vapor with a focus on type safety, composition and URL generation.
 
 ## WASM
 
@@ -500,6 +501,7 @@
 - [SwiftUI-Shimmer](https://github.com/markiv/SwiftUI-Shimmer) - Super-light modifier that adds a shimmering effect to any SwiftUI View.
 - [HalfASheet](https://github.com/franklynw/HalfASheet) - SwiftUI pseudo-modal partial screen sheet, with height customization.
 - [Dux](https://github.com/jakeheis/Dux) - Guide users through your SwiftUI app with coach marks.
+- [ViewController](https://github.com/ZeeZide/ViewController) - MVC for SwiftUI. ViewController's for SwiftUI.
 
 ## Test
 
@@ -1116,6 +1118,7 @@
 - [EnumKit](https://github.com/gringoireDM/EnumKit) - Library that gives you the ability to simply access an enum associated value, without having to use pattern matching.
 - [Toledo](https://github.com/valentinradu/Toledo) - Dependency injection library for Swift that statically generates resolvers at compile-time.
 - [Concurrent Sequence](https://github.com/dfed/swift-concurrent-sequence) - Collection of operations on Swift sequences that execute concurrently.
+- [Swift URL Routing](https://github.com/pointfreeco/swift-url-routing) - Bidirectional router with more type safety and less fuss.
 
 ## Other (not lib)
 
@@ -1176,3 +1179,4 @@
 - [Swift Sample Distributed Actors Transport](https://github.com/apple/swift-sample-distributed-actors-transport)
 - [Swift Documentation Extract](https://github.com/swift-biome/swift-documentation-extract) - SPM plugin for generating symbolgraphs and cataloging DocC documentation.
 - [Data Caching with NSCache (2021)](https://mattrighetti.com/2021/06/16/data-caching-nscache.html)
+- [xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support.

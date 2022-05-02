@@ -240,3 +240,6 @@ title: Svelte
 - [Svelte Persistent store](https://github.com/MacFJA/svelte-persistent-store) - Svelte store that keep its value through pages and reloads.
 - [SvelteKitAuth](https://github.com/Dan6erbond/sk-auth) - Authentication library for use with SvelteKit featuring built-in OAuth providers and zero restriction customization.
 - [Square Svelte Store](https://github.com/square/svelte-store) - Builds upon Svelte's default store behavior to empower your app to reactively respond to asynchronous data.
+- [Svelte Error Boundary](https://github.com/CrownFramework/svelte-error-boundary)
+- [Svelte component to render markdown](https://github.com/ssssota/svelte-exmarkdown)
+- [Svelte Portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component.

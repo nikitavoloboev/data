@@ -75,6 +75,7 @@
 - [Go slow until you have a great product. Then go fast. The economic efficiency gains from a great product compound everywhere. If you go fast too early, you will fail. Once you have nailed product, go so fast that it scares everyone. If you don’t go fast enough, you will fail.](https://twitter.com/laserlikemike/status/1458796718947024898)
 - [If you don’t have the right founders at the start, you’re dead. If you do and you doubt them when things get hard, you’re dead. Work with founders in which you have absolute faith and then back them no matter what — win or die, together.](https://twitter.com/laserlikemike/status/1474013084574306304)
 - [If you're not embarrassed by the first version of your product, you've launched too late.](https://news.ycombinator.com/item?id=30589374)
+- [Many young companies are slow/late to implement regular performance reviews - I always recommend they do sooner vs later.](https://twitter.com/Farshchi/status/1521124687375347713)
 
 ## Links
 

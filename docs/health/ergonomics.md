@@ -84,3 +84,4 @@ Most important thing I always try to be mindful of is keeping straight back (no 
 - [Best features of a perfect home office (2021)](https://twitter.com/patrick_oshag/status/1454421428632231939)
 - [Ask HN: How Is Your Neck? (2022)](https://news.ycombinator.com/item?id=30403555)
 - [Ask HN: What office chair do you use for long hour sitting? (2022)](https://news.ycombinator.com/item?id=30955797)
+- [Fix Wrist Pain with Decompression & 3 Stretches](https://www.youtube.com/watch?v=OLV03UgOLRE)

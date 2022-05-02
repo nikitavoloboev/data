@@ -62,3 +62,4 @@ title: Vite
 - [Vite-React Devtools Extension](https://github.com/jacksteamdev/crx-react-devtools)
 - [Vite Plugin Turbosnap](https://github.com/IanVS/vite-plugin-turbosnap) - Enables the use of Chromatic Turbosnap in vite storybook projects.
 - [Histoire](https://histoire.dev/) - Fast stories powered by Vite. ([Vue 3 examples](https://vue3.examples.histoire.dev/)) ([Twitter](https://twitter.com/histoire_dev))
+- [Vite Plugin Cem](https://github.com/Kamiapp-fr/vite-plugin-cem) - Custom elements manifest builder for ViteJS.

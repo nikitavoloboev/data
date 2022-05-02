@@ -173,6 +173,7 @@
 - [Akka Stream Contrib](https://github.com/akka/akka-stream-contrib)
 - [Jsoniter Scala](https://github.com/plokhotnyuk/jsoniter-scala) - Scala macros for compile-time generation of safe and ultra-fast JSON codecs.
 - [Staged Program Analyzers](https://github.com/Kraks/sai) - Improving the performance of static analysis by meta-programming/multi-stage programming.
+- [Play JSON](https://github.com/playframework/play-json) - Powerful Scala JSON library, originally developed by the Play team.
 
 ## Links
 

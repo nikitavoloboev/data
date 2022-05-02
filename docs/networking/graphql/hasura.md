@@ -29,3 +29,4 @@ title: Hasura
 - [Building an offline first web app with RxDB & Hasura (2020)](https://hasura.io/blog/building-an-offline-first-web-app-with-rxdb-hasura/)
 - [Hasura Auth](https://github.com/nhost/hasura-auth) - Users are stored in Postgres and accessed via GraphQL.
 - [QikTrak](https://github.com/chrisnurse/qik-trak) - Zero touch solution to automatically configure database tracking in Hasura GraphQL.
+- [ra-data-hasura](https://github.com/hasura/ra-data-hasura) - GraphQL data provider for react-admin tailored to target Hasura GraphQL endpoints.

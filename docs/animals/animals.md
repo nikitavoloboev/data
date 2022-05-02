@@ -1,9 +1,10 @@
 # Animals
 
-I love all animals. And I am sad that some people decide to eat them and not let them live a fulfilling & happy life.
+I love all animals. And I am sad that some people decide to eat them and not [let them live a fulfilling & happy life](../environment/veganism.md).
 
 ## Lovely animals
 
+- [Indian giant squirrel](https://twitter.com/obscure_otd/status/1520773905946136576)
 - [Dogs](https://en.wikipedia.org/wiki/Dog)
 - [Cats](https://en.wikipedia.org/wiki/Cat)
   - [Ragamuffin](https://en.wikipedia.org/wiki/Ragamuffin_cat)
@@ -128,3 +129,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [How Intelligent Are Cats?](http://messybeast.com/intelligence.htm) ([HN](https://news.ycombinator.com/item?id=30975378))
 - [Cats in zero-g lose their auto-righting reflex](https://www.youtube.com/watch?v=O9XtK6R1QAk) ([HN](https://news.ycombinator.com/item?id=30990575))
 - [Mammals - Our World in Data](https://ourworldindata.org/mammals) ([Tweet](https://twitter.com/_HannahRitchie/status/1518578889534148609))
+- [Obscure Animal Of The Day Twitter](https://twitter.com/obscure_otd)

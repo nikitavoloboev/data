@@ -169,6 +169,7 @@
 - [schmu](https://github.com/tjammer/schmu) - Small, mostly functional programming language which compiles to native code.
 - [A Taste of Roc — Richard Feldman (2021)](https://www.youtube.com/watch?v=6qzWm_eoUXM)
 - [Zilch](https://github.com/zilch-lang/zilch) - Statically-typed, low-level, functional programming language with some focus on runtime performance.
+- [At the boundaries, applications aren't functional (2022)](https://blog.ploeh.dk/2022/05/02/at-the-boundaries-applications-arent-functional/)
 
 ## Images
 

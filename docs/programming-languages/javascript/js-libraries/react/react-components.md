@@ -308,6 +308,7 @@
 - [React Idle Timer](https://github.com/SupremeTechnopriest/react-idle-timer) - User activity timer component. ([Web](https://idletimer.dev/))
 - [React Forked DND](https://github.com/react-forked/dnd) - Beautiful and accessible drag and drop for lists with React.
 - [React in out text area](https://github.com/igeligel/react-in-out-textarea) - Simple React.js component that is like Google Translate.
+- [Reakit](https://reakit.io/) - Toolkit for building accessible web apps with React. ([Code](https://github.com/ariakit/ariakit))
 
 ## Links
 

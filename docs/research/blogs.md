@@ -126,6 +126,8 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Johan Brandhorst-Satzkorn](https://jbrandhorst.com/post/)
 - [Varun Gandhi](https://typesanitizer.com/blog/index.html)
 - [Haskell for all](https://www.haskellforall.com/)
+- [Akshay Oppiliappan](https://peppe.rs/)
+- [Sabrina Jewson](https://sabrinajewson.org/blog/)
 
 ## Notes
 

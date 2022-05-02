@@ -97,3 +97,4 @@
 - [Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)](https://atp.fm/205-chris-lattner-interview-transcript#gc) ([HN](https://news.ycombinator.com/item?id=31139610))
 - [Low-Latency, High-Throughput Garbage Collection (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf)
 - [Distilling the Real Cost of Production Garbage Collectors (2022)](https://users.cecs.anu.edu.au/~steveb/pubs/papers/lbo-ispass-2022.pdf) ([HN](https://news.ycombinator.com/item?id=31192261))
+- [Forgetting about the problem of memory (2022)](https://davmac.wordpress.com/2022/04/30/forgetting-about-the-problem-of-memory/) ([Lobsters](https://lobste.rs/s/3njgz4/forgetting_about_problem_memory))

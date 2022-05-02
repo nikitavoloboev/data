@@ -4,6 +4,8 @@ title: Three.js
 
 # [Three.js](https://threejs.org/)
 
+[Ektogamat ThreeJS Boilerplate](https://github.com/ektogamat/threejs-andy-bolierplate) is nice.
+
 ## Example sites
 
 - [My Room in 3D](https://my-room-in-3d.vercel.app/) ([Code](https://github.com/brunosimon/my-room-in-3d)) ([HN](https://news.ycombinator.com/item?id=28496650))
@@ -110,3 +112,6 @@ title: Three.js
 - [Personal vite starter for react-three-fiber projects](https://github.com/mattrossman/r3f-vite)
 - [ThreeJS Helpers](https://github.com/gsimone/things)
 - [ThreeJS Line object with variable width](https://github.com/vasturiano/three-fatline)
+- [Discover three.js](https://discoverthreejs.com/) ([Code](https://github.com/looeee/discoverthreejs-site))
+- [threejs-csg](https://github.com/looeee/threejs-csg) - Constructive Solid Geometry for three.js, ES6 + BufferGeometry.
+- [Ektogamat ThreeJS Boilerplate](https://github.com/ektogamat/threejs-andy-bolierplate)

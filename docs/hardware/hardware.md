@@ -322,3 +322,4 @@
 - [Ask HN: What's the most stable form of digital storage? (2022)](https://news.ycombinator.com/item?id=31149427)
 - [Awesome Semiconductor Startups](https://github.com/aolofsson/awesome-semiconductor-startups)
 - [Omicron](https://github.com/oxidecomputer/omicron) - Oxide control plane.
+- [The X-Ray Tech That Reveals Chip Designs (2022)](https://spectrum.ieee.org/chip-x-ray)

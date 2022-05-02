@@ -103,3 +103,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [HSE University](https://www.hse.ru/en/)
 - [Ask HN: How to make the most out of time at university? (2022)](https://news.ycombinator.com/item?id=30345059)
 - [Education Toolkit](https://github.com/huggingface/education-toolkit) - Toolkit that university instructors can use to easily prepare labs, homework, or classes.
+- [Tell HN: People underestimate the effect of colleges in making lifelong friends (2022)](https://news.ycombinator.com/item?id=31217939)

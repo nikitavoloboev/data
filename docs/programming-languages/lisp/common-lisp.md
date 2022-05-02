@@ -104,3 +104,4 @@
 - [Tutorial Series to learn Common Lisp quickly](https://github.com/rabbibotton/clog/blob/main/LEARN.md) ([HN](https://news.ycombinator.com/item?id=31178737))
 - [Trial](https://github.com/Shirakumo/trial) - Game engine written in Common Lisp.
 - [srcweave](https://github.com/justinmeiners/srcweave) - Literate programming system for any language.
+- [Lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility.

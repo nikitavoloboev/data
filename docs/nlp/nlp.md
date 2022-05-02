@@ -562,3 +562,4 @@
 - [DataLab](https://github.com/ExpressAI/DataLab) - Unified platform that allows for NLP researchers to perform a number of data-related tasks in an efficient and easy-to-use manner.
 - [Limitations of DALL-E](https://twitter.com/benjamin_hilton/status/1520032772072607747) ([HN](https://news.ycombinator.com/item?id=31218915))
 - [AutoPrompt](https://github.com/ucinlp/autoprompt) - Automatic Prompt Construction for Masked Language Models.
+- [DALL·E Flow](https://github.com/jina-ai/dalle-flow) - Human-in-the-Loop workflow for creating HD images from text.

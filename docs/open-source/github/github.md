@@ -409,3 +409,5 @@ Awesome List
 - [Automatically opening issues when tracked file content changes (2022)](https://simonwillison.net/2022/Apr/28/issue-on-changes/)
 - [GitHub webhook events toolset for Node.js](https://github.com/octokit/webhooks.js)
 - [Ask HN: Do you rewrite pull requests? (2022)](https://news.ycombinator.com/item?id=31225599)
+- [Reposaur](https://github.com/reposaur/reposaur) - Audit your GitHub data using custom policies written in Rego.
+- [giss](https://github.com/mantono/giss) - List GitHub issues from the command line.

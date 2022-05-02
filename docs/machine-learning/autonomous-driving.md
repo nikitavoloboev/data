@@ -61,3 +61,4 @@
 - [YOLOP: You Only Look Once for Panoptic Driving Perception (2022)](https://arxiv.org/abs/2108.11250) ([Code](https://github.com/hustvl/YOLOP))
 - [Learning from All Vehicles (2022)](https://arxiv.org/abs/2203.11934) ([Code](https://github.com/dotchen/LAV))
 - [OpenCDA](https://github.com/ucla-mobility/OpenCDA) - Generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
+- [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers (2022)](https://arxiv.org/abs/2203.17270) ([Code](https://github.com/zhiqi-li/BEVFormer))

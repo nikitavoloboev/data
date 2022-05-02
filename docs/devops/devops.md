@@ -1,6 +1,6 @@
 # DevOps
 
-I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter) is nice too.
+I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter) & [Backstage](https://backstage.io/) are nice too.
 
 [Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great.
 
@@ -180,3 +180,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Gasper](https://github.com/sdslabs/gasper) - Intelligent Platform as a Service (PaaS) used for deploying and managing applications and databases in any cloud topology.
 - [Post-Incident Review on the Atlassian April 2022 Outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage) ([Lobsters](https://lobste.rs/s/0zqnvu/post_incident_review_on_atlassian_april)) ([HN](https://news.ycombinator.com/item?id=31210469))
 - [Founding Uber SRE](https://lethain.com/founding-uber-sre/) ([HN](https://news.ycombinator.com/item?id=31199551))
+- [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)

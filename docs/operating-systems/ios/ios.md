@@ -459,3 +459,5 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Expanding Apple Ecosystem Access with Open Source, Multi Platform Code Signing (2022)](https://gregoryszorc.com/blog/2022/04/25/expanding-apple-ecosystem-access-with-open-source,-multi-platform-code-signing/) ([Lobsters](https://lobste.rs/s/8p6hyt/expanding_apple_ecosystem_access_with))
 - [Bypassing hotspot limits on iOS (2022)](https://blog.cyrusroshan.com/post/phone-data-hotspot)
 - [FLEX](https://github.com/FLEXTool/FLEX) - In-app debugging and exploration tools for iOS development.
+- [network_ios](https://github.com/holzschu/network_ios) - Extension to ios_system, doing network-based commands.
+- [Lua language, patched so it can be called from iOS apps](https://github.com/holzschu/lua_ios)

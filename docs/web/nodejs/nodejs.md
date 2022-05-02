@@ -379,3 +379,4 @@ title: Node.js
 - [node-tap](https://github.com/tapjs/node-tap) - Test Anything Protocol tools for node.
 - [Piston](https://github.com/engineer-man/piston) - High performance general purpose code execution engine.
 - [Sort Package.json](https://github.com/keithamus/sort-package-json) - Sort an Object or package.json based on the well-known package.json keys.
+- [pnpm monorepo example](https://github.com/jkomyno/pnpm-monorepo-example) - Opinionated Node.js monorepo example with pnpm, turborepo, and jest.

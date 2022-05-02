@@ -174,3 +174,4 @@ title: RISC-V
 - [Opening a UDP Socket in RISC-V Assembly (2022)](https://danielmangum.com/risc-v-tips/2022-05-14-opening-a-udp-socket-risc-v/)
 - [RISC-V Torture Test](https://github.com/ucb-bar/riscv-torture)
 - [SBI](https://github.com/repnop/sbi) - Rust library to interface with the RISC-V Supervisor Binary Interface.
+- [RISC V Emulator](https://github.com/LowLevelJavaScript/RISC-V-Emulator)

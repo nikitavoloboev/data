@@ -115,3 +115,4 @@ title: Apache Kafka
 - [Kafka Docker Playground](https://github.com/vdesabou/kafka-docker-playground) - Fully automated Apache Kafka and Confluent Docker based examples.
 - [AWS Serverless Kafka (2022)](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/)
 - [kafkaproxy](https://github.com/dajudge/kafkaproxy) - Reverse proxy for the wire protocol of Apache Kafka.
+- [Karapace](https://github.com/aiven/karapace) - Your Kafka essentials in one tool. Serving all your Apache Kafka® HTTP needs. ([Web](https://karapace.io/))

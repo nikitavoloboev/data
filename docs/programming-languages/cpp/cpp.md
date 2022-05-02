@@ -1,5 +1,7 @@
 # C++
 
+Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://news.ycombinator.com/item?id=31232722). [Qb](https://github.com/codecat/qb) does seem interesting though for simplifying the build system for C++ at least.
+
 ## Notes
 
 - [C++ is a fucking nightmare. There's 5 ways to do everything, ie because of historical reasons. Endless rules about shit like coercions, etc etc.](https://twitter.com/AdamRackis/status/1441233740248719361)
@@ -330,3 +332,5 @@
 - [Asynchronous I/O and Coroutines for Smooth Data Streaming (2022)](https://speakerdeck.com/rollbear/o-and-coroutines-for-smooth-data-streaming-2067ad42-9d0b-40ee-964e-bcca3f9e1e04)
 - [Programming in C/C++ Efficiently course (2021)](https://github.com/ShiqiYu/CPP)
 - [fccf](https://github.com/p-ranav/fccf) - Fast C/C++ Code Finder.
+- [Qb](https://github.com/codecat/qb) - Zero-configuration build system to quickly build C/C++ projects. ([HN](https://news.ycombinator.com/item?id=31216899))
+- [Ask HN: Learn C++11 or Rust in 2022?](https://news.ycombinator.com/item?id=31232722)

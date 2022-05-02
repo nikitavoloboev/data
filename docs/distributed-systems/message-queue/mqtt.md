@@ -45,3 +45,4 @@ title: MQTT
 - [Jackalope](https://github.com/smartrent/jackalope) - Opinionated MQTT client library based on Tortoise MQTT.
 - [mqttclient](https://github.com/jiejieTop/mqttclient) - High-performance, high-stability, cross-platform MQTT client.
 - [MQTT Broker](https://github.com/bschwind/mqtt-broker) - Tokio-based MQTT v5 broker written in pure Rust.
+- [MQTT TUI](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.

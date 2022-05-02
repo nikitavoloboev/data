@@ -307,3 +307,4 @@ zz
 - [What's New in Neovim 0.7 (2022)](https://gpanders.com/blog/whats-new-in-neovim-0-7/)
 - [Learnings after 500 commits to my vimrc (2022)](https://iamsang.com/en/2022/04/13/vimrc/)
 - [Neovim 0.7 Release (2022)](https://github.com/neovim/neovim/releases/tag/v0.7.0) ([HN](https://news.ycombinator.com/item?id=31039569))
+- [Learn Neovim The Practical Way (2021)](https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f) ([Code](https://github.com/alpha2phi/neovim-for-beginner))

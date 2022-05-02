@@ -6,6 +6,8 @@ title: Next.js
 
 ## Example sites
 
+- [Next.js Commerce starter kit](https://nextjs.org/commerce)
+- [NextJS full stack starter](https://github.com/SaraVieira/next-fullstack-starter)
 - [Turborepo starter with pnpm (Remix/NextJS)](https://github.com/mcansh/turborepo-remix)
 - [Next.js + Tailwind CSS Netflix Redesign](https://github.com/lukef7fywmrp/netflix-redesign)
 - [Skill Recordings Projects](https://github.com/skillrecordings/products) - Using Turborepo and pnpm to create a monorepo working environment for multiple applications and a shared common core library.
@@ -357,3 +359,4 @@ title: Next.js
 - [Vulcan Next](https://github.com/VulcanJS/vulcan-next) - Build GraphQL-based applications with Next.js. ([Docs](https://vulcan-next.vercel.app/))
 - [Rust and WebAssembly Serverless Functions in Vercel](https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/) ([Code](https://github.com/second-state/vercel-wasm-runtime))
 - [Generate Open Graph images for your static Next.js site (2020)](https://phiilu.com/generate-open-graph-images-for-your-static-next-js-site) ([Tweet](https://twitter.com/mattgperry/status/1515651942940303361))
+- [Picking the right rendering strategy in NextJS](https://twitter.com/housecor/status/1521100361213386757)

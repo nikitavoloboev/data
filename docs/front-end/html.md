@@ -265,3 +265,4 @@ Hi<div>oh no break</div>
 - [Open Graph Image as a Service](https://dev.zaubrik.com/portrait/) ([Code](https://github.com/Zaubrik/portrait))
 - [jtml](https://github.com/github/jtml) - Write HTML in JavaScript, using template-tags.
 - [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
+- [Under-Engineered Multi-Selects (2022)](https://adrianroselli.com/2022/05/under-engineered-multi-selects.html)

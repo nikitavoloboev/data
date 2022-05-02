@@ -360,7 +360,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Sunday Sites](https://sundaysites.cafe/) - Place to write code and socialize. A couple of sundays a month, we meet on Zoom and write HTML for around two hours.
 - [How does a gas pump know to shut itself off? (1981)](https://www.straightdope.com/21341412/how-does-a-gas-pump-know-to-shut-itself-off) ([HN](https://news.ycombinator.com/item?id=24741029))
 - [Hacker News Lists](https://news.ycombinator.com/lists) - Top HN users/threads/..
-- [Fonoster](https://github.com/fonoster/fonoster) - Open Source Twilio Alternative. Engage with your customer with voice or messaging with a single easy-to-use platform. ([Docs](https://fonoster.github.io/fonos/)) ([Web](https://fonoster.com/))
+- [Fonoster](https://github.com/fonoster/fonoster) - Open Source Twilio Alternative. Engage with your customer with voice or messaging with a single easy-to-use platform. ([Docs](https://fonoster.github.io/fonos/)) ([Web](https://fonoster.com/)) ([HN](https://news.ycombinator.com/item?id=31229642))
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [hncheck](https://github.com/brandur/hncheck) - Simple app that checks to see if something under one of your domains has been submitted to HN, and emails you if it has. ([Runner](https://github.com/brandur/hncheck-runner))
 - [pure JS WiFi QR Code Generator](https://qifi.org/)
@@ -623,3 +623,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Researchers Found Puberty Blockers Didn’t Improve Trans Kids’ Mental Health (2022)](https://jessesingal.substack.com/p/researchers-found-puberty-blockers) ([HN](https://news.ycombinator.com/item?id=30948461))
 - [GPAC](https://gpac.wp.imt.fr/) - Modular Multimedia framework for packaging, streaming and playing your favorite content. ([Code](https://github.com/gpac/gpac))
 - [best-of](https://github.com/best-of-lists/best-of) - Discover best-of lists with awesome open-source projects on all kinds of topics.
+- [Manifold Markets](https://manifold.markets/) - Lets anyone create a prediction market on any topic. ([Code](https://github.com/manifoldmarkets/manifold))

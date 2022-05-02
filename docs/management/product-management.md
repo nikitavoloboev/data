@@ -92,3 +92,4 @@
 - [Strategy is not X (2022)](https://www.umr.io/blog/strategy-is-not-x) ([HN](https://news.ycombinator.com/item?id=30719787))
 - [PM interview resources (2022)](https://twitter.com/lennysan/status/1513623140269580292)
 - [Buzzfeed Product Design Documentation](https://github.com/buzzfeed/design)
+- [Questions to ask for creating 'user stories'](https://twitter.com/lauraklein/status/1520908876790468609)

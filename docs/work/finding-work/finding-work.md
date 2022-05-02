@@ -30,6 +30,8 @@ My other favorite way of finding interesting work opportunities is meeting and i
 
 I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f4225788b144da49a0c2ee37576507c).
 
+Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1519908090983841793) are horrible.
+
 ## Notes
 
 - Sort by newest jobs in websites and check regularly and apply then.
@@ -161,3 +163,4 @@ I track jobs I found interesting in [Notion](https://www.notion.so/Jobs-8f422578
 - [Who is Hiring?](https://whoishiring.io/)
 - [Techmap.io](https://techmap.io/) - Find Companies using Technologies you Love!.
 - [Ask HN: Dealing with Career Mistakes (2022)](https://news.ycombinator.com/item?id=31203186)
+- [Ask HN: Companies hiring for a 4-day workweek? (2022)](https://news.ycombinator.com/item?id=31231690)

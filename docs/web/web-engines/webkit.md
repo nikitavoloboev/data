@@ -25,3 +25,4 @@ title: WebKit
 - [Introducing the WebKit FTL JIT (2014)](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
 - [Non-interactive Elements with the inert attribute (2022)](https://webkit.org/blog/12578/non-interactive-elements-with-the-inert-attribute/)
 - [iOS WebKit Debug Proxy](https://github.com/google/ios-webkit-debug-proxy) - DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
+- [Improving CSS Variables in WebKit (2022)](https://engineering.widen.com/blog/Improving-CSS-Variables-in-WebKit/)

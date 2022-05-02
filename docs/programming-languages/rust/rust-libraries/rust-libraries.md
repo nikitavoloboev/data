@@ -50,6 +50,8 @@
 - [bpaf](https://github.com/pacak/bpaf) - Parse command line arguments by composing a parser from the components optimized for flexibility and compilation time. ([Reddit](https://www.reddit.com/r/rust/comments/u0f57x/yet_another_command_line_argument_parser_bpaf_040/))
 - [Canopy](https://github.com/cortesi/canopy) - Terminal UI library for Rust.
 - [Rustea](https://github.com/lazops/rustea) - Easy-to-use TUI crate for Rust, based off of the Elm architecture.
+- [promptio](https://github.com/ynqa/promptio) - Toolkit for building your own interactive command-line tools in Rust.
+- [paris](https://github.com/0x20F/paris) - Simple way to output beautiful text in your CLI applications.
 
 ## Web
 
@@ -154,6 +156,7 @@
 - [Fast SOCKS5](https://github.com/dizda/fast-socks5) - Fast SOCKS5 client/server implementation written in Rust async/.await (with tokio).
 - [service-io](https://github.com/lemunozm/service-io) - Build your service-server fast, easy (and without hosting).
 - [interfaces-rs](https://github.com/andrew-d/interfaces-rs) - Library to work with network interfaces in Rust.
+- [async-net](https://github.com/smol-rs/async-net) - Async networking primitives for TCP/UDP/Unix communication.
 
 ## WASM
 
@@ -684,6 +687,7 @@
 - [assert-json-diff](https://github.com/davidpdrsn/assert-json-diff) - Easily compare two JSON values and get great output.
 - [cascade](https://github.com/InquisitivePenguin/cascade) - Dart-like cascade expressions in Rust.
 - [Impl-tools](https://github.com/kas-gui/impl-tools) - Set of helper macros.
+- [inline-proc](https://github.com/SabrinaJewson/inline-proc) - Inline procedural macros for Rust.
 
 ## Math
 
@@ -1820,6 +1824,11 @@
 - [async_nursery](https://github.com/najamelan/async_nursery) - Primitive for structured concurrency.
 - [Halfbrown HashMap](https://github.com/Licenser/halfbrown) - Multi backend HashMap for higher performance on different key space sizes.
 - [ferros](https://github.com/auxoncorp/ferros) - Rust-based userland which also adds compile-time assurances to seL4 development.
+- [Raml](https://github.com/m4b/raml) - OCaml runtime and FFI bindings directly in Rust.
+- [drop-bin](https://github.com/SabrinaJewson/drop-bin) - Defer running expensive destructors until later.
+- [completion](https://github.com/SabrinaJewson/completion) - Utilities for writing completion-based asynchronous code.
+- [Sphinx](https://github.com/nymtech/sphinx) - Sphinx implementation in Rust.
+- [ff](https://github.com/zkcrypto/ff) - Traits and utilities for working with finite fields.
 
 ## Cargo Plugins
 
@@ -2021,3 +2030,5 @@
 - [Measuring the coverage of a rust program in GitHub Actions (2022)](https://blog.balthazar-rouberol.com/measuring-the-coverage-of-a-rust-program-in-github-actions)
 - [Pyroscope Profiler](https://github.com/pyroscope-io/pyroscope-rs) - Pyroscope Profiler for Rust. Profile your Rust applications.
 - [How hard upgrading a Rust JWT library could be? (2022)](https://blog.orhun.dev/upgrading-rust-jwt/)
+- [The Better Alternative to Lifetime GATs (2022)](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
+- [Async destructors, async genericity and completion futures (2022)](https://sabrinajewson.org/blog/async-drop)

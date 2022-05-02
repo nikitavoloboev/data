@@ -2,6 +2,8 @@
 
 I used [Hugo](hugo.md) once for generating static sites which I then published with [Netlify](https://www.netlify.com/). Currently I use [Remix](../../programming-languages/javascript/js-libraries/react/remix.md)/[NextJS](../../programming-languages/javascript/js-libraries/react/nextjs.md) for all my sites. [Eleventy](eleventy.md) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
 
+I liked [this article](https://sabrinajewson.org/blog/building-this-site) on building a minimal static site generator in Rust.
+
 ## Interesting generators
 
 - [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
@@ -123,3 +125,4 @@ I used [Hugo](hugo.md) once for generating static sites which I then published w
 - [Static Web Server](https://github.com/joseluisq/static-web-server) - Blazing fast and asynchronous web server for static files-serving.
 - [Bookshop](https://github.com/CloudCannon/bookshop) - Component development workflow for static websites.
 - [A tiny Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website) ([HN](https://news.ycombinator.com/item?id=31003395))
+- [Building a static site with Rust guide (2022)](https://sabrinajewson.org/blog/building-this-site)

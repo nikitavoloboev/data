@@ -496,6 +496,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [immer-yjs](https://github.com/sep2/immer-yjs) - Combine immer & y.js.
 - [InfluxDB JS](https://github.com/influxdata/influxdb-client-js)
 - [ts-case-convert](https://github.com/RossWilliams/ts-case-convert) - Convert between camelCase and snake_case while preserving typescript information.
+- [Starbeam](https://github.com/wycats/starbeam) - Library for building reactive data systems that integrate natively with UI frameworks such as React, Vue, Svelte or Ember.
 
 ## Links
 

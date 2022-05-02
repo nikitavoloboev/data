@@ -176,3 +176,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [I liked the idea of carbon offsets until I tried to explain it (2022)](https://climateer.substack.com/p/avoided-emissions) ([HN](https://news.ycombinator.com/item?id=30988390))
 - [Frontier](https://frontierclimate.com/) - Advance market commitment to accelerate carbon removal. ([Tweet](https://twitter.com/stripe/status/1513850236929822722))
 - [I finally understand methane lifetimes (2022)](https://climateer.substack.com/p/methane-lifetime?s=r) ([HN](https://news.ycombinator.com/item?id=31204302))
+- [A mental model for combating climate change (2022)](https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66)

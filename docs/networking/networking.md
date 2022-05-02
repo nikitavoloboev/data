@@ -471,4 +471,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Defined Networking](https://www.defined.net/#/) - Extend network access with on-demand, encrypted tunnels between any hosts on any network. ([Twitter](https://twitter.com/definednet))
 - [gVisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock) - New network stack based on gVisor.
 - [Shuttle](https://github.com/sipt/shuttle) - Web proxy in Go with amazing features.
-- [I won free load testing (2022)](https://fasterthanli.me/articles/i-won-free-load-testing)
+- [I won free load testing (2022)](https://fasterthanli.me/articles/i-won-free-load-testing) ([HN](https://news.ycombinator.com/item?id=31230457))
+- [Creating and deploying a tiny proxy server on Vercel in 10 minutes (2022)](https://mmazzarolo.com/blog/2022-02-05-creating-and-deploying-a-proxy-server-in-5-minutes/)
+- [GOSNIFF](https://github.com/c-grimshaw/gosniff) - Textual User-Interface Network Sniffer.

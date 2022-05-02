@@ -1,6 +1,6 @@
 # Animation
 
-[Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) is great.
+[Framer Motion](https://www.framer.com/motion/) & [Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) are great.
 
 ## Links
 
@@ -78,3 +78,4 @@
 - [GSAP - GreenSock](https://greensock.com/gsap/) - Onal-grade JavaScript animation for the modern web. ([Tweet](https://twitter.com/cassiecodes/status/1512367969703444481))
 - [Animation. For everyone.](https://www.eatmy.art/) - Create hand-drawn GIFs on paper.
 - [MotionScape](https://github.com/GetStream/motionscape-app) - Animations playground as a developer.
+- [Craft cutting-edge UIs with Framer Motion](https://samselikoff.com/framer-motion-course)

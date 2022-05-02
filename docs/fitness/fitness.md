@@ -63,3 +63,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Acute aerobic exercise to recover from mental exhaustion](https://pubmed.ncbi.nlm.nih.gov/34516957/) ([HN](https://news.ycombinator.com/item?id=30360522))
 - [Apart from diet and exercise, What increased your energy levels drastically (2022)](https://www.reddit.com/r/AskMen/comments/svaymv/men_apart_from_diet_and_exercise_what_increased/)
 - [Do you lose muscle when you eat enough protein but don’t work out?](https://www.reddit.com/r/nutrition/comments/u1zcs9/do_you_lose_muscle_when_you_eat_enough_protein/)
+- [FitTrackee](https://github.com/SamR1/FitTrackee) - Simple self-hosted workout/activity tracker.

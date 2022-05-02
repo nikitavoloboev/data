@@ -22,7 +22,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 
 ## Bot libraries
 
-- [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene))
+- [grammY](https://grammy.dev/) - Telegram Bot Framework in TS. ([Code](https://github.com/grammyjs/grammY)) ([Examples](https://github.com/grammyjs/examples)) ([Parse Mode plugin for grammY](https://github.com/grammyjs/parse-mode)) ([Basic Scene](https://github.com/KnightNiwrem/basic-scene)) ([Awesome](https://github.com/grammyjs/awesome-grammY))
 - [Create grammY apps](https://github.com/grammyjs/create-grammy) - Create grammY apps with one command.
 - [grammY runner](https://github.com/grammyjs/runner) - ScalTelegram bot starter based on grammYe grammY bots.
 - [Telegram bot starter based on grammY](https://github.com/Borodutch/telegram-bot-starter)
@@ -127,6 +127,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Syntax Highlighter WebApp](https://github.com/dcdunkan/tg-webapp-syntax-highlighter) - Syntax highlighter bot based on Telegram's WebApp update.
 - [PyroFilesStoreBot](https://github.com/AbirHasan2005/PyroFilesStoreBot) - Telegram Parmanent Files Store Bot.
 - [Captcha](https://github.com/teknologi-umum/captcha) - Telegram Bot written in Go.
+- [Scan Tool Bot](https://github.com/bot-base/scan-tool-bot) - Scan a QR code with a camera.
 
 ## Notes
 

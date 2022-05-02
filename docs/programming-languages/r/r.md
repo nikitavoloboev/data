@@ -153,3 +153,4 @@
 - [Cargo Framework](https://github.com/dbdahl/cargo-framework) - Framework is provided to transparently develop R packages using Rust with minimal overhead, and more wrappers are easily added.
 - [WikidataR](https://github.com/TS404/WikidataR) - R package for the Wikidata API.
 - [storr](https://github.com/richfitz/storr) - Object cacher for R.
+- [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R.

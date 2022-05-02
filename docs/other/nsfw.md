@@ -1,5 +1,7 @@
 # NSFW
 
+Many people still have bad stigma attached of people sharing nudes in public but I think that's changing. Communities/initiatives like [SitnikFriday](https://t.me/sitnikfriday) where every Friday you can share (on [Twitter](https://twitter.com/search?q=sitnikfriday)) your body do well in reducing the fear in people's minds that it's something unnatural or even provocative to share photos you like of yourself, no matter the clothes you wear.
+
 ## Reddit
 
 - [2600+ NSFW subs](https://www.reddit.com/r/copypasta/comments/ffedbn/an_automatically_categorized_list_of_2600_nsfw/)

@@ -17,3 +17,4 @@
 - [MAVSDK SDK](https://github.com/mavlink/MAVSDK) - API and library for MAVLink compatible systems written in C++17.
 - [DodgeDrone: Vision-based Agile Drone Flight (ICRA 2022 Competition)](https://github.com/uzh-rpg/agile_flight)
 - [DroneSploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console.
+- [Pixy](https://pixy.com/) - Snap's Mini Drone Camera.

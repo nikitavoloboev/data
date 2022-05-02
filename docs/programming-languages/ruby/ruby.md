@@ -126,3 +126,4 @@
 - [Why Ruby Has Symbols (2022)](https://dmitrytsepelev.dev/why-has-ruby-symbols) ([HN](https://news.ycombinator.com/item?id=31024363))
 - [Opal](https://github.com/opal/opal) - Ruby to JavaScript source-to-source compiler.
 - [Ruby grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-ruby)
+- [Fasterer](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool.

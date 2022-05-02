@@ -4,6 +4,8 @@ title: Governance
 
 # [Governance](https://en.wikipedia.org/wiki/Governance)
 
+It's hard to care about politics when [so much of it is empty words and empty dialogues](https://twitter.com/RoryStewartUK/status/1521092481479282689). Not sure how to change it though.
+
 ## Notes
 
 - [Government should just get out of the way and not impede progress.](https://www.youtube.com/watch?v=lSD_vpfikbE)

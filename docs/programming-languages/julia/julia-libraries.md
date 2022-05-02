@@ -93,6 +93,7 @@
 - [FluxPrune](https://github.com/darsnack/FluxPrune.jl) - Pruning framework and methods for Flux.
 - [ReactiveMP.jl](https://github.com/biaslab/ReactiveMP.jl) - Julia package for automatic Bayesian inference on a factor graph with reactive message passing.
 - [TensorNetworkAD](https://github.com/under-Peter/TensorNetworkAD.jl) - Algorithms that combine tensor network methods with automatic differentiation.
+- [BetaML](https://github.com/sylvaticus/BetaML.jl) - Beta Machine Learning Toolkit.
 
 ## Math
 
@@ -579,6 +580,8 @@
 - [ProximalAlgorithms.jl](https://github.com/JuliaFirstOrder/ProximalAlgorithms.jl) - Proximal algorithms for non-smooth optimization in Julia.
 - [WordCloud.jl](https://github.com/guo-yong-zhi/WordCloud.jl) - Word cloud generator in Julia.
 - [RemoteREPL](https://github.com/c42f/RemoteREPL.jl) - Connect a REPL to a remote Julia process.
+- [JuliennedArrays](https://github.com/bramtayl/JuliennedArrays.jl) - Type stable array slicing.
+- [ProfileView.jl](https://github.com/timholy/ProfileView.jl) - Visualization of Julia profiling data.
 
 ## Links
 

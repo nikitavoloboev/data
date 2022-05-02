@@ -594,3 +594,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [trustfall](https://github.com/obi1kenobi/trustfall) - Query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc.
 - [DatabaseConsistency](https://github.com/djezzzl/database_consistency) - Tool to find inconsistency between models schema and database constraints.
 - [There's always an events table (2022)](https://brandur.org/fragments/events)
+- [Rohmu](https://github.com/aiven/rohmu) - Python library for building backup tools for databases providing functionality for compression, encryption and transferring data between the database and an object storage.

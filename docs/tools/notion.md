@@ -109,3 +109,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [Notion Utils](https://github.com/iansinnott/notion-utils)
 - [arXiv to Notion](https://github.com/wangjksjtu/arxiv2notionplus)
 - [Notion Graph View](https://github.com/stevedsun/notion-graph-view) - Generate a roam research like network graph view from your Notion pages.
+- [Notion Backups](https://github.com/notionblog/notion-backups) - Automatic backups for your Notion workspaces.

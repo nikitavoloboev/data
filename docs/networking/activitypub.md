@@ -28,7 +28,7 @@ title: ActivityPub
 - [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - ActivityPub social network server, written in Go.
 - [activity](https://github.com/go-fed/activity) - Complete ActivityStreams-based ontologies plus middleware handlers implementing ActivityPub in Go.
 - [FChan](https://fchan.xyz/) - Federated image board based on ActivityPub. ([Server](https://github.com/FChannel0/FChannel-Server))
-- [Misskey](https://github.com/syuilo/misskey) - Alternative Fediverse software that also uses ActivityPub. ([Mastodon Is Dead, Long Live Misskey](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)) ([HN](https://news.ycombinator.com/item?id=28994074))
+- [Misskey](https://github.com/misskey-dev/misskey) - Alternative Fediverse software that also uses ActivityPub. ([Mastodon Is Dead, Long Live Misskey](https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey)) ([HN](https://news.ycombinator.com/item?id=28994074))
 - [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)
 - [Immers Server](https://github.com/immers-space/immers) - ActivityPub federated social media server for the metaverse.
 - [Towards a Greater Federated Architecture (2022)](https://deadsuperhero.com/new-fediverse-architecture/)

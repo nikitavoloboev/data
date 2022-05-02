@@ -111,3 +111,4 @@ title: Electrical engineering
 - [How I learned electronics (2022)](https://www.youtube.com/watch?v=Bgrubw6B_us) ([HN](https://news.ycombinator.com/item?id=31167652))
 - [Sign-off review checklist for PCB designs](https://github.com/azonenberg/pcb-checklist)
 - [How Electricity Actually Works (2022)](https://www.youtube.com/watch?v=oI_X2cMHNe0) ([Reddit](https://www.reddit.com/r/videos/comments/uensdo/how_electricity_actually_works_veritasium/))
+- [Fritzing](https://fritzing.org/) - Electronic Design Automation software with a low entry barrier, suited for the needs of makers and hobbyists. ([Code](https://github.com/fritzing/fritzing-app)) ([GitHub](https://github.com/fritzing)) ([HN](https://news.ycombinator.com/item?id=31235109))

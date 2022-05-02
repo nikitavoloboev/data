@@ -1,6 +1,8 @@
 # China
 
-China alongside [Russia](russia.md) and [many more countries](https://worldpopulationreview.com/country-rankings/dictatorship-countries) needs to [move to a proper democracy](https://www.reddit.com/r/China/comments/u7weif/xi_jinping_must_step_down_dissatisfaction_with_xi/).
+China alongside [Russia](russia.md) and [many more countries](https://worldpopulationreview.com/country-rankings/dictatorship-countries) needs to [move to a proper democracy](https://www.reddit.com/r/China/comments/u7weif/xi_jinping_must_step_down_dissatisfaction_with_xi/). Having said that, China [seems to be doing well financially](https://www.reddit.com/r/AskEconomics/comments/ug1czj/what_has_made_china_so_rich_in_the_last_40_years/) despite all its attacks on freedoms.
+
+Cities like Shanghai and Guangzhou fascinate me, would love to live there one day or at least visit.
 
 ## Notes
 
@@ -83,3 +85,4 @@ China alongside [Russia](russia.md) and [many more countries](https://worldpopul
 - [This photo triggered China's Cultural Revolution (2020)](https://www.youtube.com/watch?v=kXByOrRrO7c)
 - [Stay Awesome China - Full Documentary (2022)](https://www.youtube.com/watch?v=mSie5A3LWgI)
 - [Are Things Truly That Bad In China? (2022)](https://www.reddit.com/r/China/comments/ubl5qa/are_things_truly_that_bad_in_china/)
+- [What has made China so rich in the last 40 years? (2022)](https://www.reddit.com/r/AskEconomics/comments/ug1czj/what_has_made_china_so_rich_in_the_last_40_years/)

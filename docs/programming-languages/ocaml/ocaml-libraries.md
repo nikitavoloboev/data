@@ -72,6 +72,10 @@ title: OCaml libraries
 
 - [ocaml-uring](https://github.com/ocaml-multicore/ocaml-uring) - Bindings to io_uring for OCaml.
 
+## Crypto
+
+- [Cryptokit](https://github.com/xavierleroy/cryptokit) - Library of cryptographic primitives (ciphers, hashes, etc) for OCaml.
+
 ## Other
 
 - [OCamlbuild](https://github.com/ocaml/ocamlbuild) - Generic build tool, that has built-in rules for building OCaml library and programs.
