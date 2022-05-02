@@ -160,3 +160,4 @@ title: Django
 - [summarize-template](https://github.com/simonw/summarize-template) - Show a summary of a Django or Jinja template.
 - [Rasters for Django](https://github.com/geodesign/django-raster) - Raster data integration for Django projects with a PostGIS database backend.
 - [Anatomy of a Django/HTMX Project (2022)](https://danjacob.net/posts/anatomyofdjangohtmxproject/) ([HN](https://news.ycombinator.com/item?id=31104095))
+- [snapshot-queries](https://github.com/cedar-team/snapshot-queries) - Capture all SQL statements executed via Django and SqlAlchemy ORM queries.

@@ -192,3 +192,4 @@ title: SQL
 - [Analyzing iMessage with SQL (2022)](https://arctype.com/blog/search-imessage/)
 - [Balsa](https://github.com/balsa-project/balsa) - Learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine.
 - [Learn BigQuery](https://scosco.github.io/learn-bigquery/)
+- [SQL Graphviz](https://github.com/rm-hull/sql_graphviz) - Python 3 script that generates a Graphviz visualization of a SQL schema dump.
