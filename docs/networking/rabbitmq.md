@@ -33,3 +33,4 @@ title: RabbitMQ
 - [AMQPStorm](https://github.com/eandersson/amqpstorm) - Thread-safe Python RabbitMQ Client & Management library.
 - [Messaging with RabbitMQ :: Learn how to create a simple publish-and-subscribe application with Spring and RabbitMQ](https://github.com/spring-guides/gs-messaging-rabbitmq)
 - [Migrating from Kafka to RabbitMQ at SimpleBet: Why and How (2021)](https://www.youtube.com/watch?v=dmBdFh5N1g4)
+- [buneary](https://github.com/dominikbraun/buneary) - Easy-to-use CLI client for RabbitMQ.

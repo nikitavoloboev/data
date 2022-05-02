@@ -1830,6 +1830,9 @@
 - [Sphinx](https://github.com/nymtech/sphinx) - Sphinx implementation in Rust.
 - [ff](https://github.com/zkcrypto/ff) - Traits and utilities for working with finite fields.
 - [refl](https://github.com/Centril/refl) - Provides a refl encoding which you can use to provide a proof witness that one type is equivalent (identical) to another type.
+- [rust-dht](https://github.com/dtantsur/rust-dht) - Kademlia-based DHT implementation for Rust.
+- [OpenStack SDK for Rust](https://github.com/dtantsur/rust-openstack)
+- [Asynchronous OpenStack session and authentication](https://github.com/dtantsur/rust-osauth)
 
 ## Cargo Plugins
 

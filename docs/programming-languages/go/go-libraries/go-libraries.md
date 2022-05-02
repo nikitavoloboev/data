@@ -180,7 +180,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
-- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs)) ([Fiber OpenTelemetry](https://github.com/psmarcin/fiber-opentelemetry))
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp. ([Examples](https://github.com/gofiber/recipes)) ([Awesome](https://github.com/gofiber/awesome-fiber)) ([Fiber Boilerplate](https://github.com/sujit-baniya/fiber-boilerplate)) ([Building microservices in Go with Fiber (2022)](https://blog.logrocket.com/building-microservices-go-fiber/)) ([Docs](https://docs.gofiber.io/)) ([Docs Code](https://github.com/gofiber/docs)) ([Fiber OpenTelemetry](https://github.com/psmarcin/fiber-opentelemetry)) ([GoFiber Docker Boilerplate](https://github.com/gofiber/boilerplate))
 - [Fiber Swagger](https://github.com/arsmn/fiber-swagger) - Fiber middleware to automatically generate RESTful API documentation with Swagger 2.0.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
@@ -1720,3 +1720,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Charm’s meta configuration files](https://github.com/charmbracelet/meta) - Includes nice GoReleaser config.
 - [Dependabot bundler](https://github.com/Skarlso/dependabot-bundler) - Bundle Dependabot PRs into a single PR for Go projects.
 - [gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go.
+- [A gentle introduction to generics in Go (2022)](https://dominikbraun.io/blog/a-gentle-introduction-to-generics-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/ugno5d/a_gentle_introduction_to_generics_in_go/))

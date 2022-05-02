@@ -334,3 +334,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [fccf](https://github.com/p-ranav/fccf) - Fast C/C++ Code Finder.
 - [Qb](https://github.com/codecat/qb) - Zero-configuration build system to quickly build C/C++ projects. ([HN](https://news.ycombinator.com/item?id=31216899))
 - [Ask HN: Learn C++11 or Rust in 2022?](https://news.ycombinator.com/item?id=31232722)
+- [borrow-cpp](https://github.com/shuaimu/borrow-cpp) - Rust-style borrow checker for C++, with (partial) static check.

@@ -555,3 +555,4 @@
 - [The USE Method](https://brendangregg.com/usemethod.html) - Methodology for analyzing the performance of any system.
 - [Computer Systems Learning Resources A Recommended List (2022)](https://github.com/ZhenbangYou/Computer-Systems-Learning-Resources-A-Recommended-List/blob/main/Computer_Systems_Learning_Resources.pdf)
 - [Stop Using Todo for Everything](https://goldin.io/blog/stop-using-todo) ([HN](https://news.ycombinator.com/item?id=31235289))
+- [Ask HN: What helped you get good at programming? (2022)](https://news.ycombinator.com/item?id=31240927)

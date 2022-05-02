@@ -181,6 +181,8 @@
 - [Blex](https://github.com/gyson/blex) - Fast Bloom filter with concurrent accessibility, powered by :atomics module.
 - [Talos](https://github.com/balance-platform/talos) - Elixir parameter validation library. Simple and extensible.
 - [Faker](https://github.com/elixirs/faker) - Pure Elixir library for generating fake data.
+- [Tarearbol](https://github.com/am-kantox/tarearbol) - Lightweight task manager, allowing retries, callbacks, assurance that the task succeeded, and more.
+- [Telemetria](https://github.com/am-kantox/telemetria) - Helper application that simplifies and standardizes telemetry usage.
 
 ## Links
 

@@ -82,3 +82,4 @@
 - [OPAQUE](https://github.com/novifinancial/opaque-ke) - Asymmetric password-authenticated key exchange protocol.
 - [akd](https://github.com/novifinancial/akd) - Implementation of an auditable key directory (also known as a verifiable registry).
 - [Ask HN: CLI Tool for File Encryption? (2022)](https://news.ycombinator.com/item?id=31204523)
+- [wage](https://github.com/str4d/wage) - WASM package and web app for encrypting and decrypting age-encrypted files, powered by rage. ([Web](https://rage-encry.pt/))

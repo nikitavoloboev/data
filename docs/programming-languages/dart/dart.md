@@ -42,7 +42,7 @@ title: Dart
 - [Brick](https://github.com/GetDutchie/brick) - Intuitive way to work with persistent data in Dart.
 - [bloc](https://github.com/felangel/bloc) - Predictable state management library that helps implement the BLoC design pattern.
 - [dwds](https://github.com/dart-lang/webdev) - CLI for Dart web development.
-- [ClojureDart](https://github.com/Tensegritics/ClojureDart) - Port of Clojure that compiles to Dart.
+- [ClojureDart](https://github.com/Tensegritics/ClojureDart) - Port of Clojure that compiles to Dart. ([How to guide](https://github.com/Liverm0r/HowToClojureDart))
 - [Artemis](https://github.com/comigor/artemis) - Build dart types from GraphQL schemas and queries.
 - [Bones_API](https://github.com/Colossus-Services/bones_api) - Simple and easy API framework, with routes and HTTP Server.
 - [Logger](https://github.com/leisim/logger) - Small, easy to use and extensible logger which prints beautiful logs.

@@ -1,6 +1,6 @@
 # Netherlands
 
-Amsterdam is my favorite city I've lived in thus far. I also love how every city in NL is easily reachable by train and how cycling infrastructure is so well developed.
+Amsterdam is my favorite city I've lived in thus far. I love how every city in NL is easily reachable by train and how cycling infrastructure is so well developed.
 
 ## Notes
 

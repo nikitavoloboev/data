@@ -612,3 +612,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Giza](https://github.com/lambdaclass/giza) - Rust implementation of the Cairo VM.
 - [Lightweight Lua EVM](https://github.com/transmissions11/levm)
 - [Solidity Visual Developer](https://github.com/ConsenSys/vscode-solidity-auditor) - Ethereum Solidity Language customized for developers and auditors using Visual Studio Code.
+- [Ethereum gas optimization tips (2022)](https://twitter.com/WillPapper/status/1520592312379658241)

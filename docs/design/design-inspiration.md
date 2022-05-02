@@ -2,7 +2,7 @@
 
 I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like. I also keep a [list of artists & art I liked](../art/art.md).
 
-Here are few more things I liked, design wise. [Linear is pretty great](https://linear.app/features) (gradient, boxes, layout).
+Below are sites/apps whose design I liked. [Linear is pretty great](https://linear.app/features) (gradient, boxes, layout). [This HN thread on elegant software](https://news.ycombinator.com/item?id=31230903) is a good read too.
 
 ## Websites
 

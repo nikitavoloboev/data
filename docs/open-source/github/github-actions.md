@@ -494,3 +494,4 @@ title: GitHub actions
 - [We use GitHub Actions to build GitHub (2022)](https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/) ([HN](https://news.ycombinator.com/item?id=30920543))
 - [Cross-Platform GitHub Action](https://github.com/cross-platform-actions/action) - Provides a GitHub action for running GitHub Action workflows on multiple platforms.
 - [Setup FFmpeg](https://github.com/FedericoCarboni/setup-ffmpeg) - Setup FFmpeg in GitHub Actions.
+- [How we sharded our test suite for 10x faster runs on GitHub Actions (2022)](https://www.edgedb.com/blog/how-we-sharded-our-test-suite-for-10x-faster-runs-on-github-actions)

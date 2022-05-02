@@ -123,3 +123,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [New(ish) command line tools (2022)](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) ([HN](https://news.ycombinator.com/item?id=31009313))
 - [ff](https://github.com/vishaltelangre/ff) - Find files by name, fast.
 - [cexec](https://github.com/mrusme/cexec) - Run commands and cache their output for a specific amount of time.
+- [Hoard](https://github.com/Hyde46/hoard) - CLI command organizer written in rust.

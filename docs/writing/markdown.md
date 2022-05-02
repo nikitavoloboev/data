@@ -127,3 +127,4 @@
 - [Graph Docs CLI](https://github.com/mattpocock/graph-docs-cli) - Revolutionize your docs using knowledge graphs built from Markdown.
 - [CommonMark.js](https://github.com/commonmark/commonmark.js) - CommonMark parser and renderer in JavaScript.
 - [book-summary](https://github.com/dvogt23/book-summary) - Automatically creates a SUMMARY.md file for your book (mdbook/gitbook).
+- [md](https://github.com/am-kantox/md) - Stream-aware markdown parser with custom syntax setting.

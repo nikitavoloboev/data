@@ -415,3 +415,4 @@ title: Haskell
 - [An opinionated beginner's guide to Haskell in mid-2019](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 - [10 Commandments: Compiler in Haskell Edition (2018)](https://typesanitizer.com/blog/10-commandments.html)
 - [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html)
+- [Haskell, Lua, and Fennel (2022)](http://jackkelly.name/blog/archives/2022/05/01/haskell_lua_and_fennel/)

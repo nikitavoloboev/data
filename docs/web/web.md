@@ -402,4 +402,4 @@
 - [Tooling to archive web pages](https://github.com/kachkaev/special-internet-archive)
 - [Thin Backend](https://thin.dev/) - Blazing Fast Universal Web App Backend for Single Page Apps. ([HN](https://news.ycombinator.com/item?id=31164799)) ([Code](https://github.com/digitallyinduced/thin-backend))
 - [Build Excellent Websites](https://buildexcellentwebsit.es/) - Be the browser’s mentor, not its micromanager.
-- [CodingCat.dev](https://codingcat.dev/) - Purrfect Web Tutorials. ([Code](https://github.com/CodingCatDev/codingcat.dev)) ([Twitter](https://twitter.com/CodingCatDev))
+- [CodingCat.dev](https://codingcat.dev/) - Purrfect Web Tutorials. ([Code](https://github.com/CodingCatDev/codingcat.dev)) ([Twitter](https://twitter.com/CodingCatDev)) ([Videos](https://www.youtube.com/channel/UCD5oDjUZTYM13irzpRjnVeQ/videos))
