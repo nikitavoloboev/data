@@ -78,7 +78,7 @@
 - [BentoML](https://www.bentoml.com/) - Simplify Model Deployment. ([GitHub](https://github.com/bentoml/))
 - [bentoctl](https://github.com/bentoml/bentoctl) - Fast model deployment with BentoML on cloud platforms.
 - [ModelCenter](https://github.com/OpenBMB/ModelCenter) - Efficient, Low-Resource, Distributed transformer implementation based on BMTrain.
-- [PostgresML](https://github.com/postgresml/postgresml) - End-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+- [PostgresML](https://github.com/postgresml/postgresml) - End-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. ([Web](https://postgresml.org/)) ([HN](https://news.ycombinator.com/item?id=31238396))
 - [UniLM AI](https://github.com/facebookresearch/data2vec_vision) - Pre-trained models across tasks (understanding, generation and translation), languages, and modalities.
 - [Domino](https://github.com/HazyResearch/domino) - Discover slices of data on which your models underperform.
 - [Merlin](https://github.com/gojek/merlin) - Kubernetes-friendly ML model management, deployment, and serving.

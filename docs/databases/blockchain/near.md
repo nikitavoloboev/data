@@ -25,3 +25,5 @@ title: NEAR Protocol
 - [NEAR Wallet Selector](https://github.com/near/wallet-selector) - Wallet modal that allows users to interact with NEAR dApps with a selection of available wallets.
 - [Decentral Bank](https://decentral-bank.finance/) - Decentralized organization developing and supporting NEAR-native stablecoins.
 - [USN](https://github.com/DecentralBankDAO/usn) - NEAR-native USD stable coin.
+- [NEAR NFT-Tutorial](https://github.com/near-examples/nft-tutorial)
+- [Examples for building on the NEAR blockchain](https://github.com/near-examples)

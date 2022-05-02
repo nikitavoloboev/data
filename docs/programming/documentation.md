@@ -171,3 +171,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [SourceDocs](https://github.com/SourceDocs/SourceDocs) - Generate Markdown documentation from source code.
 - [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language.
 - [Squeak](https://github.com/PostHog/squeak) - Q&A widget for your docs.
+- [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.

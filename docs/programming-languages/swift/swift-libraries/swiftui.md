@@ -205,3 +205,4 @@ title: SwiftUI
 - [Example similar to the button transform in the Measure App](https://github.com/philipcdavis/swiftui-halfsheet-transform-example)
 - [Best ways to communicate events 'up' to parent UIKit view controller](https://twitter.com/ChristianSelig/status/1516436641019310080)
 - [Simple SwiftUI](https://github.com/twostraws/simple-swiftui) - Collection of small SwiftUI sample projects.
+- [Send Events from SwiftUI to UIKit and Vice Versa (2022)](https://www.swiftjectivec.com/events-from-swiftui-to-uikit-and-vice-versa/)

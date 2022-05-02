@@ -795,3 +795,4 @@
 - [Graph Contrastive Learning with Augmentations (2020)](https://arxiv.org/abs/2010.13902) ([Code](https://github.com/Shen-Lab/GraphCL))
 - [Pseudo Numerical Methods for Diffusion Models on Manifolds (2022)](https://openreview.net/forum?id=PlKWVd2yBkY) ([Code](https://github.com/luping-liu/PNDM))
 - [Practical MLOps Book (2021)](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) ([Code](https://github.com/paiml/practical-mlops-book))
+- [Disco Diffusion](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for the generation of AI Art and Animations.

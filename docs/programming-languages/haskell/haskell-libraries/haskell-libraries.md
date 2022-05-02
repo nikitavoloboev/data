@@ -37,6 +37,7 @@
 - [oso](https://github.com/circuithub/oso) - Haskell bindings to the Polar query engine and Oso authorization library.
 - [haskell-relational-record](https://github.com/khibino/haskell-relational-record) - Includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.
 - [HieDb](https://github.com/wz1000/HieDb) - Generates a references DB from .hie files.
+- [PostgreSQL Binary](https://github.com/nikita-volkov/postgresql-binary) - Encoders and decoders for the PostgreSQL's binary format.
 
 ## Test
 
@@ -312,6 +313,7 @@
 - [binary](https://github.com/kolmodin/binary) - Efficient, pure binary serialisation using ByteStrings in Haskell.
 - [configurator](https://github.com/bos/configurator) - Haskell library supporting flexible, dynamic file-based configuration.
 - [deepseq](https://github.com/haskell/deepseq) - Deep evaluation of data structures.
+- [binary-parser](https://github.com/nikita-volkov/binary-parser) - Highly-efficient but limited parser API specialised for bytestrings.
 
 ## Notes
 

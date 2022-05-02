@@ -47,6 +47,7 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Curiosity, thoroughness, humility and empathy.](https://twitter.com/fasterthanlime/status/1464544526673063936)
 - [Have a culture where reducing technical debt is celebrated as much as launching new products.](https://twitter.com/rakyll/status/1465439634700177408)
 - [The best values are choices, and emphasize the tradeoff you’re willing to make. If someone else couldn’t reasonably adopt the opposite value (“stability over speed”) the value isn’t distinguishing - it’s a baseline expectation.](https://twitter.com/parkerconrad/status/1507824245815975936)
+- [One of the key tools Satya Nadella used to turn around Microsoft was an emphasis on growth mindset over a fixed mindset. A growth mindset is a culture of curiosity, asking questions and listening. A fixed mindset is focused on being right and making statements versus learning.](https://twitter.com/Carnage4Life/status/1521086896943734785)
 
 ## Links
 

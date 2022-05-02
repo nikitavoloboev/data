@@ -128,6 +128,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Haskell for all](https://www.haskellforall.com/)
 - [Akshay Oppiliappan](https://peppe.rs/)
 - [Sabrina Jewson](https://sabrinajewson.org/blog/)
+- [Swiftjective-C](https://www.swiftjectivec.com/)
 
 ## Notes
 

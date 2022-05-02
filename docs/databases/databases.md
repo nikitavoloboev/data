@@ -231,6 +231,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [PranaDB](https://github.com/cashapp/pranadb) - Distributed streaming database, designed from the outset to be horizontally scalable.
 - [eyros](https://github.com/peermaps/eyros) - Multi-dimensional interval database.
 - [AntidoteDB](https://github.com/AntidoteDB/antidote) - Planet scale, highly available, transactional database built on CRDT technology. ([Web](https://www.antidotedb.eu/))
+- [DarkBird](https://github.com/Rustixir/darkbird) - Document oriented, high concurrency in-memory Storage, also persist data to disk to avoid loss any data.
 
 ## Tools
 

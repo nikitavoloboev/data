@@ -775,3 +775,7 @@ title: Rust
 - [From Python into Rust Guide](https://github.com/rochacbruno/py2rs) - Quick reference guide for the Pythonista in the process of becoming a Rustacean.
 - [Benchmarking and analyzing Rust performance (2022)](https://www.notamonadtutorial.com/benchmarking-and-analyzing-rust-performance-with-criterion-and-iai/)
 - [Rust from 0 to 80% for JavaScript Developers (2022)](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/) ([HN](https://news.ycombinator.com/item?id=31220791))
+- [Rust Meetup Linz](https://rust-linz.at/) ([Twitter](https://twitter.com/rustlinz))
+- [Async Rust: Portability and Interoperability - Nick Cameron (2022)](https://www.youtube.com/watch?v=jxxLQsxJve8)
+- [An O(1) Generic Blog Post About Rust (2022)](https://peterkos.me/rust-const-generics/) ([HN](https://news.ycombinator.com/item?id=31238942))
+- [Single Page Applications using Rust (2020)](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)

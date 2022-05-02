@@ -484,3 +484,4 @@ for i, _ in enumerate(nums):
 - [Compact word vectors with Bloom embeddings (2022)](https://explosion.ai/blog/bloom-embeddings)
 - [PyScript](https://github.com/pyscript/pyscript) - Run Python in your HTML. ([Web](https://pyscript.net/)) ([Intro](https://www.anaconda.com/blog/pyscript-python-in-the-browser)) ([HN](https://news.ycombinator.com/item?id=31225193)) ([HN](https://news.ycombinator.com/item?id=31217337))
 - [Strange and odd python snippets explained](https://github.com/pablogsal/python-horror-show)
+- [How the Cinder JIT’s function inliner helps us optimize Instagram (2022)](https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/)

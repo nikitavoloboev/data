@@ -52,3 +52,4 @@ title: Satisfiability modulo theories
 - [Yices 2](https://github.com/SRI-CSL/yices2) - Solver for Satisfiability Modulo Theories (SMT) problems. ([Web](https://yices.csl.sri.com/))
 - [Factorio SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers.
 - [ParaFROST](https://github.com/muhos/ParaFROST) - Parallel SAT Solver with GPU Accelerated Inprocessing.
+- [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.

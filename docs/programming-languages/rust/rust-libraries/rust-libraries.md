@@ -1905,6 +1905,7 @@
 - [cargo-clone](https://github.com/JanLikar/cargo-clone) - Cargo subcommand to fetch the source code of a Rust crate.
 - [Cargo Structure](https://github.com/ramon54321/cargo-structure) - Utility for analyzing the structure of a cargo project.
 - [cargo-trace](https://github.com/dvc94ch/cargo-trace) - Flamegraphing tool for perf events.
+- [build-info](https://github.com/danielschemmel/build-info) - Collects build-information of your Rust crate.
 
 ## Links
 

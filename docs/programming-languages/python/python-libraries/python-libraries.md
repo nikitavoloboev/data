@@ -850,6 +850,7 @@
 - [pydantic-core](https://github.com/samuelcolvin/pydantic-core) - Core validation logic for pydantic written in rust.
 - [Concepts](https://github.com/xflr6/concepts) - Formal Concept Analysis with Python.
 - [PecanPy](https://github.com/krishnanlab/PecanPy) - Fast, parallelized, memory efficient, and cache-optimized Python implementation of node2vec.
+- [Phantom types](https://github.com/antonagestam/phantom-types) - Help you make illegal states unrepresentable and avoid shotgun parsing by enabling you to practice "Parse, don't validate".
 
 ## Notes
 

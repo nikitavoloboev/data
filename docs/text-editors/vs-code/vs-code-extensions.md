@@ -244,6 +244,7 @@ Below is a list of extensions I use.
 - [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite) - VS Code for Vite. ([Code](https://github.com/antfu/vscode-vite))
 - [Typehole](https://marketplace.visualstudio.com/items?itemName=rikurouvila.typehole) - Automatically generate TypeScript types and interfaces for all serializable runtime values. ([Code](https://github.com/rikukissa/typehole))
 - [Typescript Destructure](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin) - Set of source actions which significantly simplify object destructuring. ([Code](https://github.com/tusaeff/vscode-typescript-destructure-plugin))
+- [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator) - TypeScript errors, translated for humans.
 
 ## DB
 
