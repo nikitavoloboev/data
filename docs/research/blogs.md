@@ -125,6 +125,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Jeremy Tuloup](https://jtp.io/)
 - [Johan Brandhorst-Satzkorn](https://jbrandhorst.com/post/)
 - [Varun Gandhi](https://typesanitizer.com/blog/index.html)
+- [Haskell for all](https://www.haskellforall.com/)
 
 ## Notes
 

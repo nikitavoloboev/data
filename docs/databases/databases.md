@@ -593,3 +593,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Nice cheap hosted databases (2022)](https://twitter.com/mattgperry/status/1519609372288110593)
 - [trustfall](https://github.com/obi1kenobi/trustfall) - Query engine, which can be used to query any data source or combination of data sources: databases, APIs, raw files (JSON, CSV, etc.), git version control, etc.
 - [DatabaseConsistency](https://github.com/djezzzl/database_consistency) - Tool to find inconsistency between models schema and database constraints.
+- [There's always an events table (2022)](https://brandur.org/fragments/events)
