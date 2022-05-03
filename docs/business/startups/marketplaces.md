@@ -30,3 +30,4 @@
 - [Lessons Learnt Building for the Atlassian Marketplace (2021)](https://engineering.kablamo.com.au/posts/2021/lessons-learnt-building-for-the-atlassian-marketplace)
 - [Promoted](https://www.promoted.ai/) - Search and feed ranking for marketplaces. ([HN](https://news.ycombinator.com/item?id=29071609))
 - [That broken tech/content culture cycle (2022)](https://anildash.com/2022/02/09/the-stupid-tech-content-culture-cycle/)
+- [Airbnb after covid business recovery](https://twitter.com/bchesky/status/1521582440783007745)

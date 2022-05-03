@@ -417,3 +417,4 @@ title: Haskell
 - [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html)
 - [Haskell, Lua, and Fennel (2022)](http://jackkelly.name/blog/archives/2022/05/01/haskell_lua_and_fennel/)
 - [Companies That Use Haskell in Production (2022)](https://serokell.io/blog/top-software-written-in-haskell) ([HN](https://news.ycombinator.com/item?id=31247149))
+- [Introduction to Haskell IO (2013)](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html)

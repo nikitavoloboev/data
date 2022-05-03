@@ -69,3 +69,4 @@ title: Protocol buffers
 - [Protoc Gen TypeScript](https://github.com/thesayyn/protoc-gen-ts) - Compile protocol buffer messages to TypeScript.
 - [FHIR Protocol Buffers](https://github.com/google/fhir)
 - [tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) - tree-sitter grammar for protocol buffer files (proto3).
+- [Logging protobuf messages](https://twitter.com/bernhardsson/status/1521585629406052355)

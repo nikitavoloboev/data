@@ -214,3 +214,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [What question do you ask to find if someone knows your field? (2022)](https://twitter.com/engineers_feed/status/1520087496528302080)
 - [Ask HN: What's on your learning list? (2022)](https://news.ycombinator.com/item?id=31214599)
 - [Ask HN: Teach me something new (2022)](https://news.ycombinator.com/item?id=31204611)
+- [What is the most amazing thing you know?](https://twitter.com/gunsnrosesgirl3/status/1521581674588483585)

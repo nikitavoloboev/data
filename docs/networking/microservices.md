@@ -105,3 +105,4 @@
 - [Migrate from Monolith to Microservices (2020)](https://www.split.io/blog/migrate-monolith-to-microservices/) ([Tweet](https://twitter.com/davekarow/status/1486048106332319744))
 - [Apache ShenYu](https://shenyu.apache.org/) - High-performance, multi-protocol, extensible, responsive API Gateway. ([Code](https://github.com/apache/incubator-shenyu))
 - [Nacos](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+- [5 key elements of successful monolith-to-microservices migrations (2022)](https://about.sourcegraph.com/blog/monolith-microservices-migration/)

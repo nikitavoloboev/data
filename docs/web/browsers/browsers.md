@@ -214,3 +214,4 @@
 - [Web Design Pirate](https://github.com/Dalimil/Web-Design-Pirate) - DevTools Extension to fast and easy way to copy full HTML widgets, components, and parts of web design.
 - [Video Search For YouTube](https://github.com/masasron/Video-Search-For-YouTube) - Search the textual content of any YouTube video.
 - [Life of a Pixel (2020)](https://www.youtube.com/watch?v=K2QHdgAKP-s)
+- [UA gotta be kidding (2022)](https://bkardell.com/blog/UAGottaBeKidding.html) ([Lobsters](https://lobste.rs/s/wpxdqi/ua_gotta_be_kidding))

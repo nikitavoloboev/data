@@ -2,7 +2,7 @@
 
 I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [minimize the damage I induce on our planet](https://twitter.com/dino_comics/status/1433485733101293576).
 
-All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066) together with a [global ban / high tax on plastics](https://twitter.com/living_marble/status/1509545853966434306). [This](https://twitter.com/ben_j_todd/status/1494660872152784897) is a nice thread on effective way to tackle climate change. So as [this comment and the steps inside](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/i3i34t5/?utm_source=reddit&utm_medium=web2x&context=3).
+All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066) together with a [global ban / high tax on plastics](https://twitter.com/living_marble/status/1509545853966434306). [This](https://twitter.com/ben_j_todd/status/1494660872152784897) is a nice thread on effective way to tackle climate change. So as [this comment and the steps inside](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/i3i34t5/?utm_source=reddit&utm_medium=web2x&context=3). Also [cutting emissions is of utmost importance](https://twitter.com/Peters_Glen/status/1521384059745800193).
 
 ## Notes
 
@@ -177,3 +177,4 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Frontier](https://frontierclimate.com/) - Advance market commitment to accelerate carbon removal. ([Tweet](https://twitter.com/stripe/status/1513850236929822722))
 - [I finally understand methane lifetimes (2022)](https://climateer.substack.com/p/methane-lifetime?s=r) ([HN](https://news.ycombinator.com/item?id=31204302))
 - [A mental model for combating climate change (2022)](https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66)
+- [Should cut emissions](https://twitter.com/Peters_Glen/status/1521384059745800193)

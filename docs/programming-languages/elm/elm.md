@@ -99,3 +99,4 @@ title: Elm
 - [elm-spec](https://github.com/brian-watkins/elm-spec) - Describe the behavior of Elm programs.
 - [Wordle clone in Elm](https://github.com/andimiller/haskle)
 - [Elm Project Template with Vite](https://github.com/duncanmalashock/elm-project-template)
+- [State of Elm 2022](https://state-of-elm.lamdera.app/)

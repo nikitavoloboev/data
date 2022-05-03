@@ -6,6 +6,8 @@ title: XState
 
 I [model state machines by first listing events (press/do something), tasks (side effects, split by services (long running and you care about them ending) and actions (sync, take no time at all)) together with lifecycle (when it's active)](https://www.youtube.com/watch?v=wykDyFwr8Lk). Services can spawn events.
 
+This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI) & [docs](https://xstate.js.org/docs/guides/start.html) are great.
+
 ## Notes
 
 - [When should you use XState? When you have something complex to build, with: 1. Many side effects, especially long-running ones like call recording. 2. Sequences of things that MUST happen in a certain order (choose devices, record, preview). Either dead simple (useState) or everything else (XState).](https://twitter.com/mpocock1/status/1451486390911373314)
@@ -36,3 +38,4 @@ I [model state machines by first listing events (press/do something), tasks (sid
 - [Simple model-based-development example using Xstate (and svelte, playwright)](https://github.com/DavKato/model-based-development)
 - [XSystem](https://github.com/christoph-fricke/xsystem) - Building Blocks for XState-based Actor Systems.
 - [AdonisJS + Petite Vue + XState](https://github.com/Devessier/adonisjs-petitevue-xstate)
+- [Official Beginner’s Guide to XState in React - YouTube](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI)

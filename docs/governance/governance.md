@@ -127,3 +127,4 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [CONSUL](https://consulproject.org/en/) - Open Government and E-Participation Web Software. ([Code](https://github.com/consul/consul))
 - [The true purpose of propaganda (2022)](https://robkhenderson.substack.com/p/the-true-purpose-of-propaganda?s=r) ([HN](https://news.ycombinator.com/item?id=30962199))
 - [The New Governors: The People, Rules, and Processes Governing Online Speech](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf)
+- [PayPal's IndyMedia Wipeout (2022)](https://taibbi.substack.com/p/paypals-indymedia-wipeout?s=r) ([Tweet](https://twitter.com/samecwilliams/status/1521587066592710658))
