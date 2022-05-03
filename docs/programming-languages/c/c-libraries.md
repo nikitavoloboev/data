@@ -59,6 +59,7 @@
 ## Crypto
 
 - [libmongocrypt](https://github.com/mongodb/libmongocrypt) - C library for Client Side Encryption.
+- [SipHash](https://github.com/veorq/SipHash) - Family of pseudorandom functions (PRFs) optimized for speed on short messages.
 
 ## Other
 

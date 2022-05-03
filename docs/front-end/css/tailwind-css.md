@@ -146,3 +146,4 @@ title: Tailwind CSS
 - [Tailwind Labeled Groups](https://github.com/onmax/tailwindcss-labeled-groups) - Plugin that allows to create multiple groups utilities such as group-card or group-1 and works with Tailwind 3 features and all variations.
 - [Tailwind Admin Template](https://github.com/davidgrzyb/tailwind-admin-template) - Admin dashboard template built with Tailwind and Alpine.js.
 - [Lemon Design](https://github.com/albingroen/lemon-design-react) - React component library based on Tailwind CSS.
+- [Tailwind CSS Logical](https://github.com/stevecochrane/tailwindcss-logical) - CSS Logical Properties and Values plugin for Tailwind CSS.

@@ -1,6 +1,6 @@
 # Embedded systems
 
-[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) is useful book. [TinyGo](https://github.com/tinygo-org/tinygo) is nice.
+[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) is useful book. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
 
 ## Interesting chips
 
@@ -172,3 +172,7 @@
 - [Jacdac](https://microsoft.github.io/jacdac-docs/) - Plug-and-Play for Microcontrollers. ([Code](https://github.com/microsoft/jacdac))
 - [Rust on Espressif chips Q1 2022](https://mabez.dev/blog/posts/esp-rust-04-04-2022/) ([HN](https://news.ycombinator.com/item?id=30913359))
 - [FreeRTOS](https://www.freertos.org/) - Real-time operating system kernel for embedded devices that has been ported to 35 microcontroller platforms. ([Rust wrapper](https://github.com/hashmismatch/freertos.rs))
+- [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) - Framework for ARM Cortex-M microcontrollers. ([Docs](https://rtic.rs/1/book/en/)) ([Examples](https://github.com/rtic-rs/rtic-examples))
+- [modm](https://github.com/modm-io/modm) - C++20 library generator for AVR and ARM Cortex-M devices. ([Docs](https://modm.io/))
+- [Curated device data for all AVR and ARM Cortex-M devices](https://github.com/modm-io/modm-devices)
+- [Accurate Micro- and Nanosecond Delay in modm (2021)](https://blog.salkinium.com/modm-delay/)

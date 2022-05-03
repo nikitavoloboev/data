@@ -50,3 +50,4 @@ title: Bazel
 - [bazel-differ](https://github.com/ewhauser/bazel-differ) - Command line interface for Bazel that helps you do incremental builds across different Git versions.
 - [Starlark Language](https://docs.bazel.build/versions/main/skylark/language.html) - Python-inspired configuration language. Used by Bazel. ([Starlark LSP](https://github.com/tilt-dev/starlark-lsp))
 - [Awesome Bazel](https://github.com/jin/awesome-bazel)
+- [bazel-diff](https://github.com/Tinder/bazel-diff) - Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building.

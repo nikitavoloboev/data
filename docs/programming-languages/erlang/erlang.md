@@ -152,3 +152,4 @@ title: Erlang
 - [Introducing Rebar3 TypEr (2022)](https://tech.nextroll.com/blog/dev/2022/04/27/rebar3-typer.html)
 - [erl_ast](https://github.com/sile/erl_ast) - Rust library for working with Abstract Syntax Trees of Erlang programs.
 - [WhatsApp Raft](https://github.com/WhatsApp/waraft) - Erlang implementation of RAFT from WhatsApp.
+- [Erlang grammar for tree-sitter](https://github.com/the-mikedavis/tree-sitter-erlang)

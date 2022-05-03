@@ -39,3 +39,4 @@ title: Mastodon
 - [Pinafore](https://pinafore.social/) - Alternative web client for Mastodon. ([Code](https://github.com/nolanlawson/pinafore))
 - [Choosing a server - Mastodon](https://joinmastodon.org/communities)
 - [Chica](https://github.com/hyperspacedev/chica) - Swift package for connecting to Mastodon and Twitter simultaneously.
+- [Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)

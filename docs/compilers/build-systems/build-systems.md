@@ -114,3 +114,4 @@
 - [wharf](https://github.com/itchio/wharf) - Protocol for incrementally transferring software builds over the network using minimal time/bandwidth. ([Lobsters](https://lobste.rs/s/szzej7/wharf_protocol_quickly_transfer))
 - [e3](https://github.com/AdaCore/e3-core) - Python framework to ease the development of portable automated build systems (compilation, dependencies management, binary code packaging, and automated testing).
 - [Turbocache](https://turbocache.vercel.app/) - Simple remote cache server for Turborepo. ([Code](https://github.com/promer94/turbocache))
+- [lbuild](https://github.com/modm-io/lbuild) - Generic, modular code generator in Python 3.

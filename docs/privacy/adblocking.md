@@ -41,3 +41,4 @@
 - [python-adblock](https://github.com/ArniDagur/python-adblock) - Python wrapper for Brave's adblocking library, which is written in Rust.
 - [hBlock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [pihole-block-unblock](https://github.com/harvp0wn/pihole-block-unblock) - Simple script to block and unblock websites with pihole. You can automate with cron.
+- [Collection of online trackers](https://github.com/danielcuthbert/trackers)

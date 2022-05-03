@@ -42,3 +42,4 @@ title: Expo
 - [expo/match-media](https://github.com/expo/match-media) - Universal polyfill for match media API using Expo APIs on mobile.
 - [Simplify Expo releases with Standard Version (2020)](https://dev.to/bycedric/simplify-expo-releases-with-standard-version-2f4o)
 - [EAS monorepo example](https://github.com/byCedric/eas-monorepo-example) - Enterprise-ready Expo Application Service monorepo with code sharing.
+- [Hooks for React Native web and Expo](https://github.com/EvanBacon/react-native-web-hooks)

@@ -35,3 +35,4 @@ Love [VanMoof](https://www.vanmoof.com/) bikes.
 - [11 rules for buying an ebike, and the 11 ebikes to buy now (2021)](https://ryanj.substack.com/p/ebikes?s=r)
 - [Folding bicycle small enough to fit in hand luggage](https://www.kwigglebike.com/en_US/) ([HN](https://news.ycombinator.com/item?id=30771928))
 - [Vanmoofer](https://vanmoofer.com/) - Everything we know about VanMoof's upcoming eBikes. ([Twitter](https://twitter.com/VanMooferNews))
+- [The future of urban transport is e-bikes (2022)](https://www.youtube.com/watch?v=avtXplu8wHM)

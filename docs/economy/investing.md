@@ -275,3 +275,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [quick_trade](https://github.com/VladKochetov007/quick_trade) - Convenient script for trading with python.
 - [Strike.Market](https://strike.market/) - Stock research website with next-gen alternative data. ([HN](https://news.ycombinator.com/item?id=31108379))
 - [Ask HN: What tech companies/industries will do well in a recession? (2022)](https://news.ycombinator.com/item?id=31180508)
+- [Automated Fundamental Analysis via Python](https://github.com/faizancodes/Automated-Fundamental-Analysis) - Python program rates stocks out of 100 based on valuation, profitability, growth, and price performance metrics, relative to sector.

@@ -3,6 +3,7 @@
 ## Web
 
 - [Mint](https://github.com/elixir-mint/mint) - Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2.
+- [Mint.WebSocket](https://github.com/elixir-mint/mint_web_socket) - HTTP/1 and HTTP/2 WebSocket support for Mint.
 - [Req](https://github.com/wojtekmach/req) - HTTP client with a focus on ease of use and composability, built on top of Finch.
 - [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
 - [Ash](https://github.com/ash-project/ash) - Resource based framework for building Elixir applications.
@@ -55,6 +56,7 @@
 - [ExAudit](https://github.com/ZennerIoT/ex_audit) - Ecto auditing library that transparently tracks changes and can revert them.
 - [DataSchema](https://github.com/Adzz/data_schema) - Declarative schemas for data transformations.
 - [Fields](https://github.com/dwyl/fields) - Collection of commonly used fields implemented as custom Ecto types with validation, sanitizing and encryption/hashing.
+- [Spear](https://github.com/NFIBrokerage/spear) - Sharp EventStoreDB 20+ client backed by Mint.
 
 ## Test
 

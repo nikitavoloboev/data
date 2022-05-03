@@ -65,3 +65,4 @@
 - [Compile and debug objective-c runtime](https://github.com/Jeswang/objc4-532.2)
 - [ObjCGraphView](https://github.com/trailofbits/ObjCGraphView) - Objective-C Binary Ninja plugin.
 - [The Brilliance of “nil” in Objective-C (2022)](https://collindonnell.com/2022/04/28/the-brilliance-of-nil-in-objective-c/) ([HN](https://news.ycombinator.com/item?id=31202292))
+- [Debuggable ObjC runtime](https://github.com/RetVal/objc-runtime)

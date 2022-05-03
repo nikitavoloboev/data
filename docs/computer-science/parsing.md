@@ -106,3 +106,4 @@
 - [py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library.
 - [Handwritten Parsers & Lexers in Go (2014)](https://blog.gopheracademy.com/advent-2014/parsers-lexers/) ([Lobsters](https://lobste.rs/s/hhhiiz/handwritten_parsers_lexers_go))
 - [Binary build of tree-sitter for apple platforms](https://github.com/krzyzanowskim/tree-sitter-xcframework)
+- [TSPM](https://github.com/helix-editor/tspm) - Open-source tree-sitter package manager.

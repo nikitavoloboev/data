@@ -84,3 +84,4 @@ title: Polkadot
 - [Polkadot Basic Notifications](https://github.com/kianenigma/polkadot-basic-notification) - Basic, account-based, multi-transport notification service for the Polkadot ecosystem.
 - [Tidechain](https://github.com/tidelabs/tidechain) - Backbone of the TIDE ecosystem. Built on Substrate.
 - [Diener](https://github.com/bkchr/diener) - Tool for easily changing Substrate or Polkadot dependency versions.
+- [Substrate Front End Template](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot.js API + React based template for building Substrate Front Ends.

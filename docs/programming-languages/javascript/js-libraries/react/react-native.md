@@ -255,3 +255,4 @@ title: React Native
 - [React Native Graph](https://github.com/margelo/react-native-graph) - Beautiful, high-performance Graphs and Charts for React Native.
 - [React Native Smooth Picker](https://github.com/rdhox/react-native-smooth-picker)
 - [React Native Keyboard Controller](https://github.com/kirillzyusko/react-native-keyboard-controller) - Platform agnostic keyboard manager.
+- [New Relic React Native Module](https://github.com/huynqbibabo/react-native-newrelic)

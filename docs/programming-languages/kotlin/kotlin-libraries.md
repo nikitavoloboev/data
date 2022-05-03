@@ -71,6 +71,7 @@
 - [Okio](https://github.com/square/okio) - Modern I/O library for Android, Java, and Kotlin Multiplatform.
 - [Reaktive](https://github.com/badoo/Reaktive) - Kotlin multi-platform implementation of Reactive Extensions.
 - [Orbit](https://github.com/orbit/orbit) - Virtual actor framework for building distributed systems.
+- [konform](https://github.com/konform-kt/konform) - Portable validations for Kotlin.
 
 ## Links
 

@@ -5,6 +5,7 @@
 ## Web
 
 - [Robyn](https://github.com/sansyrox/robyn) - Async python web server written in rust.
+- [Xpresso](https://github.com/adriangb/xpresso) - Composable Python ASGI web framework.
 - [aiosonic](https://github.com/sonic182/aiosonic) - Very fast Python asyncio http client.
 - [BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework and HTTP client for Python asyncio.
 - [urllib3](https://github.com/urllib3/urllib3) - Python HTTP library with thread-safe connection pooling, file post support, user friendly, and more.

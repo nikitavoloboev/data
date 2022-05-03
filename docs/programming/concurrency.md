@@ -1,6 +1,6 @@
 # Concurrency
 
-Concurrency is the composition of independently executing computations.
+Concurrency is the composition of independently executing computations. [Real-Time Interrupt-driven Concurrency](https://rtic.rs/1/book/en/) is a great read.
 
 ## Notes
 
