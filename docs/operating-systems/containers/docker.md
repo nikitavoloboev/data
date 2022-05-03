@@ -231,3 +231,4 @@ title: Docker
 - [Docker From Scratch Workshop](https://github.com/Fewbytes/rubber-docker)
 - [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral (and free) Docker image registry.
 - [Gitpod Workspace Images](https://github.com/gitpod-io/workspace-images) - Ready-to-use Docker images for gitpod.io workspaces.
+- [Drone Docker](https://github.com/drone-plugins/drone-docker) - Drone plugin for publishing Docker images using Docker-in-Docker.

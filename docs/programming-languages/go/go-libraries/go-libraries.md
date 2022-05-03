@@ -612,6 +612,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [errors](https://github.com/go-faster/errors) - Clear go error wrapping with caller.
 - [failpoint](https://github.com/pingcap/failpoint) - Fail points are used to add code points where errors may be injected in a user controlled fashion.
 - [Go Result](https://github.com/bobfang1992/go-result) - Simple result type in Go 1.18.
+- [try](https://github.com/dsnet/try) - Simplified error handling in Go.
 
 ## Other
 
@@ -1619,6 +1620,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [sdf](https://github.com/soypat/sdf) - Go library for signed distance function shape generation.
 - [Huego](https://github.com/amimof/huego) - Extensive Philips Hue client library for Go with an emphasis on simplicity.
 - [gcon](https://github.com/jonbodner/gcon) - Simple library to add async/await to Go using generics and closures.
+- [Go Time](https://github.com/golang/time) - Go supplementary time packages.
 
 ## Links
 
@@ -1721,3 +1723,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Dependabot bundler](https://github.com/Skarlso/dependabot-bundler) - Bundle Dependabot PRs into a single PR for Go projects.
 - [gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go.
 - [A gentle introduction to generics in Go (2022)](https://dominikbraun.io/blog/a-gentle-introduction-to-generics-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/ugno5d/a_gentle_introduction_to_generics_in_go/))
+- [Go Debug](https://github.com/golang/debug) - Utilities and libraries for debugging Go programs.

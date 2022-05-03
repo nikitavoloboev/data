@@ -1,6 +1,8 @@
 # iOS
 
-List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-ios). [Open-Source iOS Apps list](https://github.com/dkhamsing/open-source-ios-apps) is nice.
+List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-ios). [Open-Source iOS Apps list](https://github.com/dkhamsing/open-source-ios-apps) is nice list.
+
+[A Best-in-Class iOS App](https://www.bestinclassiosapp.com/) is great book.
 
 ## Nice OSS iOS Swift apps
 
@@ -461,3 +463,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [FLEX](https://github.com/FLEXTool/FLEX) - In-app debugging and exploration tools for iOS development.
 - [network_ios](https://github.com/holzschu/network_ios) - Extension to ios_system, doing network-based commands.
 - [Lua language, patched so it can be called from iOS apps](https://github.com/holzschu/lua_ios)
+- [A Best-in-Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/) ([Tweet](https://twitter.com/JordanMorgan10/status/1521477940625694731))

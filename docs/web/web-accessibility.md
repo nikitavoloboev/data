@@ -100,3 +100,4 @@
 - [Accessible React Forms (2022)](https://www.carlrippon.com/accessible-react-forms/)
 - [Best JS frameworks/libraries for web accessibility (2022)](https://twitter.com/simonw/status/1518296889837252609)
 - [Series of HTML test cases to determine how specific elements are announced in different screen reader / browser combinations](https://russmaxdesign.github.io/accessible-forms/) ([Code](https://github.com/russmaxdesign/accessible-forms))
+- [focus-lock](https://github.com/theKashey/focus-lock) - A11y util for scoping a focus.

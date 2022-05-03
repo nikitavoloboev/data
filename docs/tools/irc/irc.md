@@ -4,15 +4,15 @@ title: IRC
 
 # [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
 
-I spend some time on [Freenode](https://freenode.net/) as it has many useful channels and people that can help you.
+Don't spend time on IRC any more as it's UX is not great.
 
-I like IRC even though Discord is a strictly superior experience. I currently use Matrix and [Element](https://element.io) client to connect to IRC Freenode channels I care about.
-
-Previously I used [Textual](../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
-
-Here are IRC channels I frequent:
+I have [Matrix](../networking/matrix.md) with [Element](https://element.io) setup to connect to some [Freenode](https://freenode.net/) channels.
 
 ![](https://i.imgur.com/rrI7FIp.png)
+
+Although not sure how active they are still.
+
+I once used [Textual](../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
 
 ## IRC commands
 
@@ -23,9 +23,7 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 
 ## Notes
 
-- If I ever get issues with logging in and me being Guest. I can:
-  - `/msg NickServ RELEASE <nickname> <password>`
-  - `/nick nikivi` my nick
+- If I ever get issues with logging in and me being Guest. I can: 1. `/msg NickServ RELEASE <nickname> <password>` 2. `/nick nikivi` my nick
 
 ## Links
 

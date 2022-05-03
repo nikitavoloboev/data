@@ -244,3 +244,4 @@ title: Svelte
 - [Svelte component to render markdown](https://github.com/ssssota/svelte-exmarkdown)
 - [Svelte Portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component.
 - [SvelteKit Embed components](https://github.com/spences10/sveltekit-embed)
+- [Svelte(Kit) TypeScript Showcase + general TypeScript tips](https://github.com/ivanhofer/sveltekit-typescript-showcase)

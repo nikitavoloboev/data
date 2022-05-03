@@ -242,3 +242,5 @@
 - [Awesome tooling for Bazel users of the C language family](https://github.com/hedronvision/bazel-compile-commands-extractor)
 - [The Lost Art of Structure Packing (2014)](http://www.catb.org/esr/structure-packing/) ([HN](https://news.ycombinator.com/item?id=31182449))
 - [Self-hosting C compiler](https://github.com/kukrimate/cc3)
+- [Minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s) ([HN](https://news.ycombinator.com/item?id=31244150))
+- [Set of minimal dependency bootstrap binaries](https://github.com/oriansj/stage0) - Goal of creating a bootstrapping path to a C compiler capable of compiling GCC, with only the explicit requirement of a single 1 KByte binary or less.

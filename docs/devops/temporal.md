@@ -28,3 +28,4 @@ title: Temporal
 - [Temporal TS Samples](https://github.com/temporalio/samples-typescript)
 - [Ruby SDK for Temporal](https://github.com/coinbase/temporal-ruby)
 - [Temporal Electronic Signature](https://github.com/Devessier/temporal-electronic-signature) - Demonstration of Temporal Node.js SDK used with XState to write workflows.
+- [Linking your Microservices with Workflows (2022)](https://www.youtube.com/watch?v=mAlkxjfeWYk)

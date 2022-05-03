@@ -797,3 +797,4 @@
 - [Practical MLOps Book (2021)](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) ([Code](https://github.com/paiml/practical-mlops-book))
 - [Disco Diffusion](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for the generation of AI Art and Animations.
 - [The Annotated Transformer: Attention is All You Need](http://nlp.seas.harvard.edu/annotated-transformer/) ([Code](https://github.com/harvardnlp/annotated-transformer))
+- [Metaseq](https://github.com/facebookresearch/metaseq) - Codebase for working with Open Pre-trained Transformers.

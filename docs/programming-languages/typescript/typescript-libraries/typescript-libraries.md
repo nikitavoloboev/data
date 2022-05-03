@@ -499,6 +499,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Starbeam](https://github.com/wycats/starbeam) - Library for building reactive data systems that integrate natively with UI frameworks such as React, Vue, Svelte or Ember. ([HN](https://news.ycombinator.com/item?id=31234147))
 - [factoria](https://github.com/phanan/factoria) - Simplistic model factory for Node/JavaScript.
 - [oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option\<T\> and Result\<T, E\>, implemented for TypeScript.
+- [typesafe-utils](https://github.com/ivanhofer/typesafe-utils) - Collection of a few small lightweight typesafe utilities.
+- [Layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development.
 
 ## Links
 

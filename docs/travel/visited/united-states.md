@@ -13,6 +13,7 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Allowing 54 units/acre as-of-right citywide would solve most US cities' housing affordability crisis in a span of like two years.](https://twitter.com/mnolangray/status/1515081757883731971)
 - [Average US billionaire effectively pays a 3.4% tax rate while the average worker pays 25%.](https://twitter.com/JoshuaPotash/status/1516078047740502026)
 - [One of the things that boggles my mind about living in the US is how deeply individualism permeates every aspect of life. there’s no sense of community or a relational identity, really. It’s just every person onto their own at the end of the day. It’s very sad.](https://twitter.com/most_opppressed/status/1516802246087950338)
+- ["Democracy" in America is and has always been "government by capital". The original idea was that private wealth should drive government rather than family nobility. That's why only landowners voted, that's why the 3/5 compromise, etc.](https://twitter.com/izs/status/1521467530098864128)
 
 ## Links
 

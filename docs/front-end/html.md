@@ -266,3 +266,4 @@ Hi<div>oh no break</div>
 - [jtml](https://github.com/github/jtml) - Write HTML in JavaScript, using template-tags.
 - [Broken Link Checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [Under-Engineered Multi-Selects (2022)](https://adrianroselli.com/2022/05/under-engineered-multi-selects.html)
+- [Progressive Enhancement and HTML Forms: use FormData (2022)](https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/)

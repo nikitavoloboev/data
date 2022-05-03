@@ -723,3 +723,4 @@ title: Kubernetes
 - [OpenFeature](https://openfeature.dev/) - Open standard for feature flags. ([Spec](https://github.com/open-feature/spec)) ([HN](https://news.ycombinator.com/item?id=31223429)) ([Community](https://github.com/open-feature/community))
 - [Plain Kubernetes Secrets are fine (2022)](https://www.macchaffee.com/blog/2022/k8s-secrets/) ([Lobsters](https://lobste.rs/s/diofsb/plain_kubernetes_secrets_are_fine))
 - [Kong Ingress Controller for Kubernetes (KIC)](https://github.com/Kong/kubernetes-ingress-controller)
+- [Don't Write Your Own Kubernetes YAML Generator (2022)](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)

@@ -212,3 +212,4 @@
 - [Beacon Browser](https://github.com/imperviousinc/beacon) - First-class browsing experience for a decentralized internet built with web technologies and secured without third parties. ([HN](https://news.ycombinator.com/item?id=31163077))
 - [DiskerNet](https://github.com/crisdosyago/Diskernet) - Searchable offline archive of browser history. ([HN](https://news.ycombinator.com/item?id=31165688))
 - [Web Design Pirate](https://github.com/Dalimil/Web-Design-Pirate) - DevTools Extension to fast and easy way to copy full HTML widgets, components, and parts of web design.
+- [Video Search For YouTube](https://github.com/masasron/Video-Search-For-YouTube) - Search the textual content of any YouTube video.

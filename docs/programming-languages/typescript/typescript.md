@@ -4,7 +4,9 @@ title: TypeScript
 
 # [TypeScript](https://www.typescriptlang.org/)
 
-[TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros. [Execute Program](https://www.executeprogram.com/) & [Advanced TypeScript](https://www.mattpocock.com/) courses are amazing too. [Type Challenges](https://github.com/type-challenges/type-challenges) are nice test for TS knowledge.
+[TS Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) & [Effective Typescript Book](https://effectivetypescript.com/) are great intros. So as [Execute Program](https://www.executeprogram.com/) & [Advanced TypeScript](https://www.mattpocock.com/) courses too. [Type Challenges](https://github.com/type-challenges/type-challenges) is a nice test for TS knowledge.
+
+[TypeScript Error Translator](https://github.com/mattpocock/ts-error-translator) is nice.
 
 ## Notes
 
@@ -81,7 +83,7 @@ title: TypeScript
 - [Stringly and Strongly typed TypeScript (2019)](https://gal.hagever.com/posts/strongly-stringly-types-in-typescript/)
 - [Type Families in Typescript (2019)](https://www.javiercasas.com/articles/typescript-type-families)
 - [TSConf 2019 Keynote - Anders Hejlsberg](https://www.youtube.com/watch?v=jmPZztKIFf4)
-- [Effective Typescript book](https://effectivetypescript.com/) ([Code](https://github.com/danvk/effective-typescript))
+- [Effective Typescript Book](https://effectivetypescript.com/) ([Code](https://github.com/danvk/effective-typescript))
 - [Effective Typescript notes](https://github.com/jsjoeio/effective-typescript-notes)
 - [TypeScript for Beginner Programmers](https://github.com/chibicode/TypeScript-for-Beginner-Programmers)
 - [TSConf Videos](https://tsconf.io/videos.html)
@@ -255,6 +257,8 @@ title: TypeScript
 - [TypeScript Error Translator](https://ts-error-translator.vercel.app/) - Translate your TypeScript errors into plain English. ([Code](https://github.com/mattpocock/ts-error-translator))
 - [SonarJS](https://github.com/SonarSource/SonarJS) - Static code analyzer for JavaScript, TypeScript and CSS languages.
 - [Advanced TypeScript with Matt (2022)](https://www.youtube.com/watch?v=F7O4gA0GXqI)
+- [Literate TS](https://github.com/danvk/literate-ts) - Statically checks TypeScript code samples in written text (blog posts, books, etc.).
+- [Ultimate TypeScript](https://ultimatecourses.com/courses/typescript) - Supercharge your skills with TypeScript by exploring the language.
 
 ## Images
 

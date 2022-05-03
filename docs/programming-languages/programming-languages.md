@@ -364,3 +364,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Scope Sets as a Piñata for Name Resolution (2021)](https://typesanitizer.com/blog/scope-sets.html)
 - [Principled Ad-Hoc Polymorphism (2018)](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)
 - [Langbot](https://github.com/mortie/langbot) - Run code from many programming languages.
+- [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))

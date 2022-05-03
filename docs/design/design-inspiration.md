@@ -477,6 +477,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Jendrik Poloczek](https://madewithtea.com/)
 - [Alex Fallenstedt](https://fallenstedt.com/)
 - [Sarah Lim](https://slim.computer/)
+- [Connor Rothschild](https://www.connorrothschild.com/) ([Code](https://github.com/connorrothschild/.com))
 - [Tilman](https://tilman.dev/)
 - [Timmy O'Mahony](https://timmyomahony.com/)
 - [Eric Bailey](https://ericwbailey.design/) ([Code](https://github.com/ericwbailey/ericwbailey.design))

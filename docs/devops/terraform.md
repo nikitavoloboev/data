@@ -165,3 +165,4 @@ title: Terraform
 - [Terraform in Terraform](https://github.com/weakpixel/terraform-provider-tfcli) - Execute Modules directly from the Terraform Registry.
 - [Aiven Terraform Provider](https://github.com/aiven/terraform-provider-aiven)
 - [Sentry Terraform Provider](https://github.com/jianyuan/terraform-provider-sentry)
+- [Terraform Plugin Log](https://github.com/hashicorp/terraform-plugin-log) - Helper module for logging from Terraform providers.

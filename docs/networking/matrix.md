@@ -17,6 +17,7 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 ## Bots
 
 - [hebbot](https://github.com/haecker-felix/hebbot) - Matrix bot which can generate "This Week in X" like blog posts.
+- [maubot](https://github.com/maubot/maubot) - Plugin-based Matrix bot system.
 
 ## Notes
 
@@ -42,7 +43,7 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Running your own secure communication service with Matrix and Jitsi (2020)](https://matrix.org/blog/2020/04/06/running-your-own-secure-communication-service-with-matrix-and-jitsi) ([HN](https://news.ycombinator.com/item?id=22802645))
 - [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust.
 - [Declarative, Decentralised, and Secure communication via Matrix, Jitsi, & NixOS (2019)](https://kaushikc.org/posts/matrix-jitsi-nixos.html)
-- [mautrix-telegram](https://github.com/tulir/mautrix-telegram) - Matrix-Telegram hybrid puppeting/relaybot bridge.
+- [mautrix-telegram](https://github.com/mautrix/telegram) - Matrix-Telegram hybrid puppeting/relaybot bridge.
 - [Maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
 - [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk)
 - [Conduit](https://conduit.rs/) - Simple, fast and reliable chat server powered by Matrix. Written in Rust. ([Code](https://gitlab.com/famedly/conduit))

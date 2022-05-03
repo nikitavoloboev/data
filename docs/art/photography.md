@@ -2,11 +2,11 @@
 
 Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/) & [Polina Washington](https://www.instagram.com/polina.washington/) are inspiring.
 
-[Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) is great workshop.
+[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on just iPhone.
 
 ## Interesting cameras
 
-- [Leica M11](https://www.youtube.com/watch?v=_9Dp-a91WIw)
+- [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black)
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)

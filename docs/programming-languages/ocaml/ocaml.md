@@ -4,6 +4,8 @@ title: OCaml
 
 # [OCaml](https://ocaml.org)
 
+[What I wish I knew when learning OCaml](https://news.ycombinator.com/item?id=31219552) is nice article.
+
 ## Notes
 
 - [Just try OCaml for a bit, you'll have trouble going back to bad languages.](https://twitter.com/TaliaRinger/status/1453244728749826048)
@@ -126,3 +128,4 @@ title: OCaml
 - [camlboot](https://github.com/Ekdohibs/camlboot) - OCaml bootstrap experiment.
 - [Everything in OCaml, a blog generated and served in OCaml using MirageOS](https://blog.osau.re/articles/blog_requiem.html)
 - [HN: New OCaml Website (2022)](https://news.ycombinator.com/item?id=31205519)
+- [What I wish I knew when learning OCaml (2018)](https://baturin.org/docs/ocaml-faq/) ([HN](https://news.ycombinator.com/item?id=31219552))

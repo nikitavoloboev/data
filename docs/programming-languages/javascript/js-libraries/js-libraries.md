@@ -171,6 +171,7 @@
 - [Keyv](https://github.com/microlinkhq/keyv) - Simple key-value storage with support for multiple backends.
 - [Quickgres](https://github.com/kig/quickgres) - Native-JS PostgreSQL client library.
 - [invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object.
+- [HashQL](https://github.com/HashQL/HashQL) - Access DB from UI.
 
 ## React
 

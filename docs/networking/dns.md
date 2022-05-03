@@ -4,7 +4,7 @@ title: DNS
 
 # [DNS](http://en.wikipedia.org/wiki/Domain_Name_System)
 
-[How DNS Works](https://wizardzines.com/zines/dns/) is great.
+[How DNS Works](https://wizardzines.com/zines/dns/) is great. [dnsx](https://github.com/projectdiscovery/dnsx) is great tool.
 
 ## Notes
 
@@ -215,3 +215,4 @@ title: DNS
 - [libdns](https://github.com/libdns/libdns) - Universal DNS provider APIs for Go.
 - [How DNS Works](https://wizardzines.com/zines/dns/)
 - [dness](https://github.com/nickbabcock/dness) - Dynamic DNS client.
+- [dnsx](https://github.com/projectdiscovery/dnsx) - Fast and multi-purpose DNS toolkit allow to run multiple DNS queries.

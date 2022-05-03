@@ -81,3 +81,4 @@ Here are tools I use for streaming:
 - [srtrelay](https://github.com/voc/srtrelay) - Streaming-Relay for the SRT-protocol.
 - [Mapping the Twitch Universe (2021)](https://www.youtube.com/watch?v=m8XJUoKI_yU)
 - [Watch People Doing the Thing (2022)](https://earthly.dev/blog/golang-streamers/) ([Lobsters](https://lobste.rs/s/mls3ve/watch_people_doing_thing))
+- [Twitchat](https://twitchat.fr/) - Full featured Twitch chat alternative to fill gaps from the official one. ([Code](https://github.com/Durss/Twitchat))

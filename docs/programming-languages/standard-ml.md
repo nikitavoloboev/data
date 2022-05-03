@@ -37,3 +37,4 @@ title: Standard ML
 - [Lexer and parser generators for Standard ML, OCaml, and Haskell](https://github.com/kcrary/cmtool)
 - [Standard ML Family](https://smlfamily.github.io/) ([HN](https://news.ycombinator.com/item?id=31055564))
 - [What was wrong with SML? (2022)](https://blog.plover.com/prog/haskell/sml-defects.html)
+- [Smackage](https://github.com/standardml/smackage) - Package manager for Standard ML libraries.

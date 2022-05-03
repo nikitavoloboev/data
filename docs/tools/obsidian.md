@@ -117,6 +117,7 @@ title: Obsidian
 - [Jump to Link](https://github.com/mrjackphil/obsidian-jump-to-link) - Quickly navigate between links, or jump to any word on the page using hotkeys.
 - [Database folder](https://github.com/RafaelGB/obsidian-bd-folder) - Obsidian Plugin to Allow Notion like database based on folders.
 - [Paste PNG to JPEG](https://github.com/musug/obsidian-paste-png-to-jpeg) - When pasting screenshots into obsidian notes, convert the images to JPEG and compress them.
+- [ExcaliBrain](https://github.com/zsviczian/excalibrain) - Graph view to navigate your Obsidian vault.
 
 ## Themes
 

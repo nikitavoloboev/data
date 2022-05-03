@@ -434,3 +434,4 @@ if (
 - [Find what JavaScript variables are leaking into the global scope (2022)](https://mmazzarolo.com/blog/2022-02-14-find-what-javascript-variables-are-leaking-into-the-global-scope/)
 - [Building a JavaScript Bundler (2022)](https://cpojer.net/posts/building-a-javascript-bundler) ([HN](https://news.ycombinator.com/item?id=31165509))
 - [ECMAScript proposal: do expressions](https://github.com/tc39/proposal-do-expressions)
+- [Meticulous](https://meticulous.ai/) - Catch JavaScript errors before they hit prod. ([HN](https://news.ycombinator.com/item?id=31236066))

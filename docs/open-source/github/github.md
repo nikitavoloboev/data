@@ -411,3 +411,4 @@ Awesome List
 - [Ask HN: Do you rewrite pull requests? (2022)](https://news.ycombinator.com/item?id=31225599)
 - [Reposaur](https://github.com/reposaur/reposaur) - Audit your GitHub data using custom policies written in Rego.
 - [giss](https://github.com/mantono/giss) - List GitHub issues from the command line.
+- [Hits](https://hits.dwyl.com/) - Easy way to know how many people are viewing your GitHub projects. ([Code](https://github.com/dwyl/hits))

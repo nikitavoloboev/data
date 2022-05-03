@@ -564,3 +564,5 @@
 - [AutoPrompt](https://github.com/ucinlp/autoprompt) - Automatic Prompt Construction for Masked Language Models.
 - [DALL·E Flow](https://github.com/jina-ai/dalle-flow) - Human-in-the-Loop workflow for creating HD images from text.
 - [Recon NER](https://github.com/kabirkhan/recon) - Debug and correct annotated Named Entity Recognition (NER) data for inconsitencies and get insights on improving the quality of your data.
+- [CausalNLP](https://github.com/amaiya/causalnlp) - Practical toolkit for causal inference with text as treatment, outcome, or "controlled-for" variable.
+- [OPT: Open Pre-trained Transformer Language Models (2022)](https://arxiv.org/abs/2205.01068) - Meta's 175B parameter language model. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/uh5e2f/r_meta_is_releasing_a_175b_parameter_language/))

@@ -1,5 +1,7 @@
 # Newsletters
 
+[listmonk](https://listmonk.app/) is great.
+
 ## Interesting
 
 - [The Pragmatic Engineer](https://www.pragmaticengineer.com/)
@@ -39,7 +41,7 @@
 - [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper via Amazon SES.
 - [Digester](https://digester.app/) - Allows you to get updates when you want them.
 - [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/)
-- [Buttondown](https://buttondown.email/) - Small, elegant tool for producing newsletters.
+- [Buttondown](https://buttondown.email/) - Small, elegant tool for producing newsletters. ([HN](https://news.ycombinator.com/item?id=31247392))
 - [How (and why) you should tag subscribers to your tech blog (2020)](https://monicalent.com/blog/2020/05/04/tag-and-segment-convertkit-hugo-gatsby/)
 - [Economics of a daily newsletter run on sponsorships (2020)](https://twitter.com/Harris_Bryan/status/1259426257747488773)
 - [The Tech Powering the Morning Brew Machine (2020)](https://medium.com/the-mission/the-tech-powering-the-morning-brew-machine-b7e8cd82121)

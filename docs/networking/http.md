@@ -248,3 +248,4 @@ title: HTTP
 - [Flash](https://flash.siwalik.in/) - Test service to mock slow server responses. ([Code](https://github.com/siwalikm/Flash))
 - [http-cache-middleware](https://github.com/BackendStack21/http-cache-middleware) - High performance connect-like HTTP cache middleware for Node.js. So your latency can decrease to single digit milliseconds.
 - [Keeping things fresh with stale-while-revalidate (2019)](https://web.dev/stale-while-revalidate/)
+- [SimpleHTTPserver](https://github.com/projectdiscovery/simplehttpserver) - Go alternative of python SimpleHTTPServer.

@@ -117,3 +117,4 @@
 - [Fritter](https://github.com/beakerbrowser/fritter) - Example application that demonstrates how to build peer-to-peer Web applications with Beaker Browser, Dat, and WebDB.
 - [Why Hypercore?](https://github.com/pfrazee/why-hypercore)
 - [go-libp2p-peerstore](https://github.com/libp2p/go-libp2p-peerstore) - Object to manage peers, their addresses, and other metadata about them.
+- [Async Wordle game solely on P2P](https://github.com/p2p-games/wordle)

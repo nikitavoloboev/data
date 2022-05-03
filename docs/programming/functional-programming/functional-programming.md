@@ -1,5 +1,7 @@
 # Functional programming
 
+[Effekt](https://github.com/effekt-lang/effekt) seems like a neat language.
+
 ## Notes
 
 - [A monad is an abstraction that can be used to parametrize code with the way how computations are sequenced. A monad can also be seen as design pattern, that sometimes makes your code more readable (and, more often, less readable).](https://binaryanalysisplatform.github.io/bap/api/master/Monads.Std.html)
