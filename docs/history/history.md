@@ -199,3 +199,4 @@
 - [Ask HN: Best way to learn about computing history (2022)](https://news.ycombinator.com/item?id=31095360)
 - [Suez Crisis 1956](https://www.youtube.com/watch?v=lLvqZ1ufLwk)
 - [Easy History - YouTube](https://www.youtube.com/c/EasyHistory/videos)
+- [Why Did Hitler Invade The Soviet Union?](https://www.youtube.com/watch?v=d9vuxteqAis)

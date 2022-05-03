@@ -191,3 +191,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Port the SQLite parser to Go](https://github.com/kyleconroy/golite)
 - [Awesome SQLite](https://github.com/sqlsite/awesome-sqlite) ([HN](https://news.ycombinator.com/item?id=31201731))
 - [How to Corrupt an SQLite Database File](https://sqlite.org/howtocorrupt.html) ([HN](https://news.ycombinator.com/item?id=31214131))
+- [Simple declarative schema migration for SQLite (2022)](https://david.rothlis.net/declarative-schema-migration-for-sqlite/) ([HN](https://news.ycombinator.com/item?id=31249823))

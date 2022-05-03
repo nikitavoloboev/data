@@ -1,6 +1,6 @@
 # Browsers
 
-[Web Browser Engineering](https://browser.engineering/) & [Inside look at modern web browser](https://twitter.com/addyosmani/status/1492398000500404227) are great resources.
+[Web Browser Engineering](https://browser.engineering/) & [Inside look at modern web browser](https://twitter.com/addyosmani/status/1492398000500404227) are great resources. [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) is a great watch too.
 
 ## Notes
 
@@ -213,3 +213,4 @@
 - [DiskerNet](https://github.com/crisdosyago/Diskernet) - Searchable offline archive of browser history. ([HN](https://news.ycombinator.com/item?id=31165688))
 - [Web Design Pirate](https://github.com/Dalimil/Web-Design-Pirate) - DevTools Extension to fast and easy way to copy full HTML widgets, components, and parts of web design.
 - [Video Search For YouTube](https://github.com/masasron/Video-Search-For-YouTube) - Search the textual content of any YouTube video.
+- [Life of a Pixel (2020)](https://www.youtube.com/watch?v=K2QHdgAKP-s)

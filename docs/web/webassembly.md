@@ -307,3 +307,4 @@ title: WebAssembly
 - [JavaScript Garbage Collection with WebAssembly is Possible Today](https://jott.live/markdown/js_gc_in_wasm)
 - [Entropy source API for WASI](https://github.com/WebAssembly/wasi-random)
 - [Awesome WASI](https://github.com/wasmerio/awesome-wasi)
+- [Run WASM in Containerd](https://github.com/deislabs/runwasi) ([HN](https://news.ycombinator.com/item?id=31240718))

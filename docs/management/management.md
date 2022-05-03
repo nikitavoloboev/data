@@ -1,6 +1,8 @@
 # Management
 
-[Linear](https://linear.app/) & [Height](https://height.app/) are nice project management tools. I personally use GitHub issues for all my project management tasks.
+[Linear](https://linear.app/) & [Height](https://height.app/) are nice project management tools. I use GitHub issues for all my project management tasks. Want to build a nice desktop client app for GitHub similar to [Ship](https://www.realartists.com/blog/ship-20.html).
+
+[Basecamp Employee Handbook](https://basecamp.com/handbook) has nice ideas.
 
 ## Notes
 
@@ -198,3 +200,4 @@
 - [How to give the right amount of context when managing](https://twitter.com/wes_kao/status/1505559811785646086)
 - [Ask HN: How does Apple achieve both secrecy and quality for a release? (2022)](https://news.ycombinator.com/item?id=31073754)
 - [11 Promises from a Manager](https://twitter.com/MrEchs/status/1516024322409832450)
+- [Basecamp Employee Handbook](https://basecamp.com/handbook)
