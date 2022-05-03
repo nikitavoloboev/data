@@ -19,7 +19,7 @@ title: ActivityPub
 - [ActivityPub spec](https://w3c.github.io/activitypub/) ([Code](https://github.com/w3c/activitypub))
 - [Issues with ActivityPub (2020)](https://lobste.rs/s/ig0vsd/ask_does_lobster_have_any_plan_join#c_p6gfj9)
 - [Fediverse in 2020](https://fediverse.party/en/post/fediverse-in-2020) ([HN](https://news.ycombinator.com/item?id=25849533))
-- [Fediverse.Party](https://fediverse.party/) - Explore federated networks. ([Explore](https://fediverse.party/en/miscellaneous)) ([HN](https://news.ycombinator.com/item?id=27009468))
+- [Fediverse.Party](https://fediverse.party/) - Explore federated networks. ([Explore](https://fediverse.party/en/miscellaneous)) ([HN](https://news.ycombinator.com/item?id=27009468)) ([HN](https://news.ycombinator.com/item?id=31247145))
 - [Project idea feedback on "ActivityPub but for sandboxed general purpose computation" (2021)](https://lobste.rs/s/ojnuyg/project_idea_feedback_on_activitypub_for)
 - [FediDB](https://fedidb.org/) - Developer Tools for ActivityPub. ([HN](https://news.ycombinator.com/item?id=26539292))
 - [Ktistec](https://github.com/toddsundsted/ktistec) - Single user ActivityPub Server.

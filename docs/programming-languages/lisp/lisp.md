@@ -44,7 +44,7 @@
 - [GLISP](https://github.com/baku89/glisp) - LISP-based graphic design tool.
 - [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)
-- [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.
+- [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python. ([Docs](http://hylang.org/)) ([Why Hy?](https://docs.hylang.org/en/alpha/whyhy.html)) ([HN](https://news.ycombinator.com/item?id=31247053))
 - [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)
 - [Why is Lisp not as popular as Python? (2020)](https://lobste.rs/s/f0rlcw/why_is_lisp_not_as_popular_as_python)
 - [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet)) ([Awesome](https://github.com/ahungry/awesome-janet)) ([Why I am Janet (2021)](https://pan.earth/posts/why-i-am-janet.html)) ([Lobsters](https://lobste.rs/s/pwkit0/why_i_am_janet)) ([HN](https://news.ycombinator.com/item?id=28255116)) ([Janet VSCode Extension](https://github.com/janet-lang/vscode-janet)) ([HN](https://news.ycombinator.com/item?id=28850861))

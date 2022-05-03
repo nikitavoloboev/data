@@ -416,3 +416,4 @@ title: Haskell
 - [10 Commandments: Compiler in Haskell Edition (2018)](https://typesanitizer.com/blog/10-commandments.html)
 - [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html)
 - [Haskell, Lua, and Fennel (2022)](http://jackkelly.name/blog/archives/2022/05/01/haskell_lua_and_fennel/)
+- [Companies That Use Haskell in Production (2022)](https://serokell.io/blog/top-software-written-in-haskell) ([HN](https://news.ycombinator.com/item?id=31247149))
