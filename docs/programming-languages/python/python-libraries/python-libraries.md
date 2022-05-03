@@ -989,3 +989,4 @@
 - [Python Monorepo](https://github.com/dermidgen/python-monorepo) - Example of scaffolding and tooling for a Python based monorepo.
 - [typing_copilot](https://github.com/obi1kenobi/typing_copilot) - Helper for starting to type-hint large codebases with mypy.
 - [Dataclasses JSON](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON.
+- [flake8-pie](https://github.com/sbdchd/flake8-pie) - Flake8 extension that implements misc. lints.

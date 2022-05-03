@@ -87,3 +87,4 @@
 - [Feature Store](https://databricks.com/product/feature-store) - Feature store co-designed with a data platform and MLOps framework. ([Announcement](https://databricks.com/blog/2022/04/29/announcing-general-availability-of-databricks-feature-store.html))
 - [Auto-ViML](https://github.com/AutoViML/Auto_ViML) - Automatically Build Variant Interpretable ML models fast.
 - [Angel](https://github.com/Angel-ML/angel) - Flexible and Powerful Parameter Server for large-scale machine learning.
+- [Trainer](https://github.com/coqui-ai/Trainer) - General purpose model trainer, as flexible as it gets.

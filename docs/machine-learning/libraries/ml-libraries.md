@@ -342,3 +342,4 @@ title: ML Libraries
 - [Unseal](https://github.com/TomFrederik/unseal) - Mechanistic Interpretability for Transformer Models.
 - [ANTsPy](https://github.com/ANTsX/ANTsPy) - Advanced Normalization Tools in Python.
 - [FasterTransformer Backend](https://github.com/triton-inference-server/fastertransformer_backend) - Triton backend for the FasterTransformer.
+- [Nixtla](https://github.com/Nixtla/nixtla) - Automated time series processing and forecasting.

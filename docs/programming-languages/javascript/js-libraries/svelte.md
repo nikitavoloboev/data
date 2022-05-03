@@ -243,3 +243,4 @@ title: Svelte
 - [Svelte Error Boundary](https://github.com/CrownFramework/svelte-error-boundary)
 - [Svelte component to render markdown](https://github.com/ssssota/svelte-exmarkdown)
 - [Svelte Portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component.
+- [SvelteKit Embed components](https://github.com/spences10/sveltekit-embed)

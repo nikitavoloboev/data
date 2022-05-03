@@ -167,3 +167,4 @@ title: Genomics
 - [Assembled Genomes Compressor (AGC)](https://github.com/refresh-bio/agc) - Tool designed to compress collections of de-novo assembled genomes. It can be used for various types of datasets: short genomes (viruses) as well as long (humans).
 - [GenomeHubs](https://genomehubs.org/) - Designed to make it easy to set up and host a core set of bioinformatics tools to help research communities share and access genomic datasets for non-model organisms.
 - [Ribbon](https://genomeribbon.com/) - Genome browser that shows long reads and complex variants better. ([Code](https://github.com/MariaNattestad/Ribbon))
+- [genomepy](https://github.com/vanheeringen-lab/genomepy) - Install and use genomes & gene annotations the easy way.

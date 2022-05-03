@@ -162,7 +162,7 @@
 
 - [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
-- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup))
+- [Yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly. ([Write a Frontend app with Rust and Yew](https://www.youtube.com/watch?v=Xcdb0ydIXVg)) ([axum and yew starter](https://github.com/rksm/axum-yew-setup)) ([Yew Hooks](https://github.com/jetli/yew-hooks))
 - [Bounce](https://github.com/futursolo/bounce) - State management library for Yew.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
@@ -181,7 +181,7 @@
 
 ## GUI
 
-- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri)) ([Docs Code](https://github.com/tauri-apps/tauri-docs)) ([Tauri Plugin Store](https://github.com/tauri-apps/tauri-plugin-store))
+- [Tauri](https://github.com/tauri-apps/tauri) - Electron alternative. Build smaller, faster, and more secure desktop applications with a web frontend. ([Web](https://tauri.studio/en/)) ([HN](https://news.ycombinator.com/item?id=23769424)) ([HN](https://news.ycombinator.com/item?id=26194990)) ([HN](https://news.ycombinator.com/item?id=27155831)) ([GitHub](https://github.com/tauri-apps)) ([HN](https://news.ycombinator.com/item?id=29807022)) ([Awesome](https://github.com/tauri-apps/awesome-tauri)) ([Docs Code](https://github.com/tauri-apps/tauri-docs)) ([Tauri Plugin Store](https://github.com/tauri-apps/tauri-plugin-store)) ([React Tauri](https://github.com/mdtanrikulu/react-tauri))
 - [Tao](https://github.com/tauri-apps/tao) - Cross-platform application window creation library in Rust that supports all major platforms. Maintained for Tauri.
 - [Egui](https://github.com/emilk/egui) - Immediate mode GUI written in Rust, made for WASM. ([Example](https://github.com/hasenbanck/egui_example))
 - [rust-skia](https://github.com/rust-skia/rust-skia) - Safe Skia Bindings for Rust.

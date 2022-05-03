@@ -356,3 +356,4 @@
 - [From Rust to TypeScript: Lifetime Analysis for React Component Architecture (2022)](https://valand.dev/blog/post/from-rust-to-typescript-lifetime-analysis) ([Tweet](https://twitter.com/acemarke/status/1486359294127792131))
 - [How to Detect Long Press Gestures in JavaScript Events in React (2022)](https://spacejelly.dev/posts/how-to-detect-long-press-gestures-in-javascript-events-in-react/)
 - [Click to Component](https://github.com/ericclemmons/click-to-component) - Option+Click React components in your browser to instantly open the source in VS Code.
+- [React Primer Scripts](https://github.com/primer/react-scripts) - Toolchain to help build React components with Primer.

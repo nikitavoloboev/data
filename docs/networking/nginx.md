@@ -83,3 +83,4 @@ title: Nginx
 - [Lua Resty HTTP](https://github.com/ledgetech/lua-resty-http) - Lua HTTP client cosocket driver for OpenResty / ngx_lua.
 - [Lua Resty Redis Connector](https://github.com/ledgetech/lua-resty-redis-connector) - Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel.
 - [Tailscale Authentication for NGINX (2022)](https://tailscale.com/blog/tailscale-auth-nginx/)
+- [Crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.

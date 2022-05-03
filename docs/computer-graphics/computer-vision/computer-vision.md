@@ -744,3 +744,4 @@
 - [Action-Conditioned 3D Human Motion Synthesis with Transformer VAE (2021)](https://arxiv.org/abs/2104.05670) ([Code](https://github.com/Mathux/ACTOR))
 - [CoMoGAN: continuous model-guided image-to-image translation (2021)](https://arxiv.org/abs/2103.06879) ([Code](https://github.com/cv-rits/CoMoGAN))
 - [OpenMVS](https://github.com/cdcseacave/openMVS) - Open Multi-View Stereo reconstruction library.
+- [Sliced Recursive Transformer (2021)](https://arxiv.org/abs/2111.05297) ([Code](https://github.com/szq0214/SReT))

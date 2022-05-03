@@ -498,6 +498,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ts-case-convert](https://github.com/RossWilliams/ts-case-convert) - Convert between camelCase and snake_case while preserving typescript information.
 - [Starbeam](https://github.com/wycats/starbeam) - Library for building reactive data systems that integrate natively with UI frameworks such as React, Vue, Svelte or Ember. ([HN](https://news.ycombinator.com/item?id=31234147))
 - [factoria](https://github.com/phanan/factoria) - Simplistic model factory for Node/JavaScript.
+- [oxide.ts](https://github.com/traverse1984/oxide.ts) - Rust's Option\<T\> and Result\<T, E\>, implemented for TypeScript.
 
 ## Links
 

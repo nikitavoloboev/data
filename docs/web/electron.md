@@ -4,6 +4,8 @@ title: Electron
 
 # [Electron](https://electronjs.org/)
 
+[React Tauri](https://github.com/mdtanrikulu/react-tauri) seems like an interesting alternative for building cross platform apps.
+
 ## OSS apps
 
 - [Actual](https://github.com/actualbudget/actual) - Budgeting app. Local first architecture.

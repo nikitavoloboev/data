@@ -563,3 +563,4 @@
 - [Limitations of DALL-E](https://twitter.com/benjamin_hilton/status/1520032772072607747) ([HN](https://news.ycombinator.com/item?id=31218915))
 - [AutoPrompt](https://github.com/ucinlp/autoprompt) - Automatic Prompt Construction for Masked Language Models.
 - [DALL·E Flow](https://github.com/jina-ai/dalle-flow) - Human-in-the-Loop workflow for creating HD images from text.
+- [Recon NER](https://github.com/kabirkhan/recon) - Debug and correct annotated Named Entity Recognition (NER) data for inconsitencies and get insights on improving the quality of your data.

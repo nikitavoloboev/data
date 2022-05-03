@@ -312,7 +312,7 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres Extensions in Rust (2021)](https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/)
 - [Supabase in 6 Minutes - Building a Full Stack App with Supabase and React (2021)](https://www.youtube.com/watch?v=ogEitL8RwtQ)
 - [Postgres Conference](https://postgresconf.org/) ([Videos](https://www.youtube.com/c/PostgresConference/videos))
-- [squawk](https://github.com/sbdchd/squawk) - Linter for Postgres migrations. ([Web](https://squawkhq.com/))
+- [squawk](https://github.com/sbdchd/squawk) - Linter for PostgreSQL, focused on migrations. ([Web](https://squawkhq.com/))
 - [plum](https://github.com/sanggonlee/plum) - Lightweight tool to investigate and explore lock contention in PostgreSQL database.
 - [PostgreSQL Subtransactions Considered Harmful (2021)](https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful) ([HN](https://news.ycombinator.com/item?id=28374333))
 - [Implement Authorization using Row Level Security with Supabase (2021)](https://www.youtube.com/watch?v=Ow_Uzedfohk)
