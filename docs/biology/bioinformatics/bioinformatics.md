@@ -213,3 +213,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [tiwih](https://github.com/brentp/tiwih) - Simple bioinformatics command-line tools I wished I had.
 - [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
 - [GLUE (Graph-Linked Unified Embedding)](https://github.com/gao-lab/GLUE) - Graph-linked unified embedding for single-cell multi-omics data integration.
+- [Learning to Extend Molecular Scaffolds with Structural Motifs (2022)](https://arxiv.org/abs/2103.03864) ([Code](https://github.com/microsoft/molecule-generation))
