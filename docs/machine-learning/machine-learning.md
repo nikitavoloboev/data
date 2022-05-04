@@ -798,3 +798,4 @@
 - [Disco Diffusion](https://github.com/alembics/disco-diffusion) - Notebooks, models and techniques for the generation of AI Art and Animations.
 - [The Annotated Transformer: Attention is All You Need](http://nlp.seas.harvard.edu/annotated-transformer/) ([Code](https://github.com/harvardnlp/annotated-transformer))
 - [Metaseq](https://github.com/facebookresearch/metaseq) - Codebase for working with Open Pre-trained Transformers.
+- [Accelerating Bayesian Optimization for Biological Sequence Design with Denoising Autoencoders (2022)](https://arxiv.org/abs/2203.12742) ([Code](https://github.com/samuelstanton/lambo))

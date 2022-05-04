@@ -118,3 +118,4 @@ title: Java
 - [rules_graal](https://github.com/andyscott/rules_graal) - Turn a JVM binary into a native binary.
 - [GraalVM 22.1: Developer experience improvements, Apple Silicon builds, and more (2022)](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066) ([HN](https://news.ycombinator.com/item?id=31168001))
 - [Saga of the Parametric VM (2020)](http://cr.openjdk.java.net/~jrose/values/parametric-vm.pdf)
+- [Go's Concurrency Examples in Java 19 (2022)](https://mccue.dev/pages/5-2-22-go-concurrency-in-java) ([HN](https://news.ycombinator.com/item?id=31254005))
