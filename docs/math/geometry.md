@@ -68,3 +68,4 @@
 - [On Origami Classification](https://origami.kosmulski.org/blog/2022-01-29-origami-classification-part-i)
 - [RingApp](https://github.com/rschwiebert/RingApp) - Database app for ring theory.
 - [What are some interesting applications of differential geometry? (2022)](https://www.reddit.com/r/math/comments/ugh4o7/what_are_some_interesting_applications_of/)
+- [Explain the buzz around algebraic geometry (2022)](https://www.reddit.com/r/math/comments/uhuul2/can_anyone_explain_the_buzz_around_algebraic/)

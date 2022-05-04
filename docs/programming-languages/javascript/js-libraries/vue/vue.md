@@ -163,3 +163,5 @@ title: Vue.js
 - [Floating Vue](https://github.com/Akryum/floating-vue) - Easy tooltips, popovers, dropdown, menus... for Vue.
 - [Vite Plugin Vue Inspector](https://github.com/webfansplz/vite-plugin-vue-inspector) - Jump to local IDE source code while click the element of browser automatically.
 - [vuensight](https://github.com/martinascharrer/vuensight) - Visualize Vue.js component relationships and communication channels, i.e. props, events and slots.
+- [Nuxt UI](https://github.com/nuxt/ui) - Unified UI and Design Kit for the Nuxt.
+- [Splitpanes](https://github.com/antoniandre/splitpanes) - VueJS reliable, simple and touch-ready panes splitter / resizer.

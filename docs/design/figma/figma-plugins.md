@@ -95,3 +95,4 @@
 - [Color Compass](https://www.figma.com/community/plugin/754415266574382747/Color-Compass) - Quickly navigate the color spectrum with designer-focused accuracy. ([Code](https://github.com/jaclyntan/figma-color-compass))
 - [Figma Plugin starter with Rollup bundler](https://github.com/presenta-software/figma-rollup-plugin)
 - [Figma Export PDFs action](https://github.com/marcomontalbano/figma-export-pdfs-action) - Export content from a Figma file as PDF.
+- [Content Map](https://www.figma.com/community/widget/1094814285122843280/Content-Map) - FigJam widget to help visualize, structure, and prioritize content. ([Tweet](https://twitter.com/mirkosantangelo/status/1521557624944308224))

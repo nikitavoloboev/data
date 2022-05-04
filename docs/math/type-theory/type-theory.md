@@ -4,6 +4,8 @@ title: Type Theory
 
 # [Type Theory](http://en.wikipedia.org/wiki/Type_theory)
 
+[Here](https://twitter.com/sliminality/status/1521546506452447233) is a nice thread on what a type is.
+
 ## Notes
 
 - A value is some concrete thing, and a type is a collection of concrete things (but is itself not a concrete thing. For example any individual integer is a value, but the collection of all integers is a type. Much like elements and sets in set theory.
@@ -200,4 +202,5 @@ title: Type Theory
 - [Implementing XTT, from the papers "A cubical language for Bishop sets" and "Cubical syntax for reflection-free extensional equality"](https://github.com/mb64/xtt)
 - [Alonzo](https://github.com/groupoid/alonzo) - STLC type system.
 - [Classic Algorithm W for type inference in Haskell](https://github.com/wh5a/Algorithm-W-Step-By-Step)
-- [Introductory resources to type theory for language implementers (2022)](https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html)
+- [Introductory resources to type theory for language implementers (2022)](https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/uhgl4o/introductory_resources_to_type_theory_for/))
+- [What is a type?](https://twitter.com/sliminality/status/1521546506452447233)

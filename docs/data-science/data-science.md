@@ -249,3 +249,4 @@
 - [Ask HN: Which new skills for a data science career? (2022)](https://news.ycombinator.com/item?id=31093910)
 - [5 Minimalist Tips for Data Scientists to reduce frustration while working with Pandas](https://laszlo.substack.com/p/5-minimalist-tips-for-data-scientists?s=w)
 - [D-Tale](https://github.com/man-group/dtale) - Visualizer for pandas data structures.
+- [data-describe](https://github.com/data-describe/data-describe) - Pythonic EDA Accelerator for Data Science.

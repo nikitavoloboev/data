@@ -2,6 +2,8 @@
 
 [shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) is [neat](https://til.simonwillison.net/shot-scraper/readability). [Colly](https://github.com/gocolly/colly) too.
 
+Currently exploring [Playwright](https://playwright.dev/) together with [AutoScraper](https://github.com/alirezamika/autoscraper) for my scraping needs.
+
 ## Links
 
 - [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy))

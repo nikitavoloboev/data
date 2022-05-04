@@ -161,3 +161,4 @@ title: Quantum computing
 - [SpinQ Gemini: a desktop quantum computing platform for education and research](https://epjquantumtechnology.springeropen.com/track/pdf/10.1140/epjqt/s40507-021-00109-8.pdf)
 - [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Julia package for the quantum computation and quantum simulation based on the neutral-atom architecture.
 - [qcircuit](https://github.com/CQuIC/qcircuit) - Quantum circuit drawing application.
+- [MindQuantum](https://github.com/mindspore-ai/mindquantum) - Quantum machine learning library that can be used to build and train different quantum neural networks.

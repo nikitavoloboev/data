@@ -355,3 +355,5 @@ title: Reinforcement learning
 - [Rocket League Gym](https://github.com/lucas-emery/rocket-league-gym) - Gym-like environment for Reinforcement Learning in Rocket League.
 - [SLM Lab](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book "Foundations of Deep Reinforcement Learning".
 - [Safe Reinforcement Learning Baseline](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines)
+- [Circuit Training: An open-source framework for generating chip floor plans with distributed deep reinforcement learning](https://github.com/google-research/circuit_training)
+- [Understanding Game-Playing Agents with Natural Language Annotations (2022)](https://arxiv.org/abs/2204.07531) ([Tweet](https://twitter.com/NickATomlin/status/1521551621678899200))

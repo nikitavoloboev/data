@@ -174,3 +174,4 @@ Use [WebPageTest](https://webpagetest.org/) to see web page performance. I perso
 - [Making the world’s fastest website, and other mistakes (2022)](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 - [Hydration is pure overhead (2022)](https://www.builder.io/blog/hydration-is-pure-overhead) ([HN](https://news.ycombinator.com/item?id=31101271)) ([Tweet](https://twitter.com/mhevery/status/1516844814792224770))
 - [BundleMon](https://github.com/LironEr/bundlemon) - Monitor your bundle size.
+- [A Gentle Introduction to SSR (2022)](https://hire.jonasgalvez.com.br/2022/apr/30/a-gentle-introduction-to-ssr/) ([HN](https://news.ycombinator.com/item?id=31224226))

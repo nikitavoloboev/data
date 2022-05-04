@@ -412,3 +412,4 @@ Awesome List
 - [Reposaur](https://github.com/reposaur/reposaur) - Audit your GitHub data using custom policies written in Rego.
 - [giss](https://github.com/mantono/giss) - List GitHub issues from the command line.
 - [Hits](https://hits.dwyl.com/) - Easy way to know how many people are viewing your GitHub projects. ([Code](https://github.com/dwyl/hits))
+- [snare: a Minimalistic GitHub Webhooks Runner (2022)](https://tratt.net/laurie/blog/2022/snare.html)

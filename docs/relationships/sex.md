@@ -1,6 +1,6 @@
 # Sex
 
-[Sex for over 30's](https://www.reddit.com/r/sexover30/) is a fun sub to read. [This interview](https://www.youtube.com/watch?v=j-VhOfuzq9k) was interesting with respect to how modern no middle man sex industry operates.
+[Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read.
 
 ## Notes
 

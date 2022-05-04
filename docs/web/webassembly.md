@@ -309,3 +309,4 @@ title: WebAssembly
 - [Awesome WASI](https://github.com/wasmerio/awesome-wasi)
 - [Run WASM in Containerd](https://github.com/deislabs/runwasi) ([HN](https://news.ycombinator.com/item?id=31240718))
 - [Trickery to Tame Big WebAssembly Binaries (2022)](https://jott.live/markdown/wasm_binary_size)
+- [Wizard Engine](https://github.com/titzer/wizard-engine) - Lightweight WebAssembly virtual machine designed for teaching and research.

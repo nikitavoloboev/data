@@ -130,6 +130,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Sabrina Jewson](https://sabrinajewson.org/blog/)
 - [Swiftjective-C](https://www.swiftjectivec.com/)
 - [Niklas Hauser](https://blog.salkinium.com/)
+- [Jonas Galvez](https://hire.jonasgalvez.com.br/)
 
 ## Notes
 

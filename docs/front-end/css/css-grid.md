@@ -54,3 +54,4 @@ title: CSS Grid
 - [Learn CSS Grid the easy way (2021)](https://www.youtube.com/watch?v=rg7Fvvl3taU)
 - [Using Position Sticky With CSS Grid (2021)](https://css-tricks.com/using-position-sticky-with-css-grid/)
 - [Creating dynamic bar charts with CSS grid (2022)](https://joshcollinsworth.com/blog/css-grid-bar-charts)
+- [Walk-through of how to build a layout using CSS Grid](https://sandrok.com/blog/post/7/)

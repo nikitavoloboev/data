@@ -88,6 +88,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Katria's Doodles](https://www.instagram.com/katriadoodles/)
 - [Daniel Danger](https://www.instagram.com/tinymediaempire/)
 - [Alison Zai](https://www.instagram.com/alisonzai/)
+- [Kat Tsai](https://www.instagram.com/chuwenjie/)
 - [Xuan Loc Xuan](https://www.behance.net/xuanlocxuan)
 - [Will Quinn](https://www.instagram.com/willquinnart/)
 - [Darya Shnykina](https://www.behance.net/daryashnykina)
@@ -521,3 +522,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Playgrounds](https://weareplaygrounds.nl/)
 - [Multimodal Art](https://multimodal.art/)
 - [Искусство тонких черт: иллюстрации художника Shal.E (2022)](https://disgustingmen.com/art/illyustratsii-hudozhnika-shal-e/)
+- [Toward Modeling Creative Processes for Algorithmic Painting (2022)](https://arxiv.org/abs/2205.01605) ([Tweet](https://twitter.com/AaronHertzmann/status/1521659980813770752))

@@ -1,6 +1,6 @@
 # Version control
 
-[changesets](https://github.com/changesets/changesets) is neat tool.
+[changesets](https://github.com/changesets/changesets) is neat tool. [Graphite](https://graphite.dev/) looks useful.
 
 ## Links
 

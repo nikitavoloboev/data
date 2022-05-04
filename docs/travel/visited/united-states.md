@@ -140,3 +140,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Why I Will Never Come Back to the United States (2021)](https://www.youtube.com/watch?v=2Zr7j41a8X0)
 - [Who owns what in NYC?](https://whoownswhat.justfix.nyc/en/) ([Code](https://github.com/JustFixNYC/who-owns-what))
 - [How I Live Car-Free in Hartford, Connecticut (2022)](https://www.vice.com/en/article/g5qe97/how-i-live-car-free-in-hartford-connecticut) ([Tweet](https://twitter.com/A_W_Gordon/status/1517508933375741953))
+- [Every Bay Area House Party (2022)](https://astralcodexten.substack.com/p/every-bay-area-house-party?s=r) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/uhvf96/every_bay_area_house_party/))

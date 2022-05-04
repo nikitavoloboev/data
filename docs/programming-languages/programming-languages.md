@@ -365,3 +365,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Principled Ad-Hoc Polymorphism (2018)](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)
 - [Langbot](https://github.com/mortie/langbot) - Run code from many programming languages.
 - [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))
+- [Worst Design Decisions You've Ever Seen in Programming Languages (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/uhtxqi/worst_design_decisions_youve_ever_seen/)

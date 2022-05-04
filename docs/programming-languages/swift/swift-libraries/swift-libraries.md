@@ -1120,6 +1120,7 @@
 - [Toledo](https://github.com/valentinradu/Toledo) - Dependency injection library for Swift that statically generates resolvers at compile-time.
 - [Concurrent Sequence](https://github.com/dfed/swift-concurrent-sequence) - Collection of operations on Swift sequences that execute concurrently.
 - [Swift URL Routing](https://github.com/pointfreeco/swift-url-routing) - Bidirectional router with more type safety and less fuss.
+- [FaviconFinder](https://github.com/will-lumley/FaviconFinder) - Small swift library for iOS & macOS to detect favicons used by a website.
 
 ## Other (not lib)
 

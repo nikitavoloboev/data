@@ -106,3 +106,4 @@
 - [Apache ShenYu](https://shenyu.apache.org/) - High-performance, multi-protocol, extensible, responsive API Gateway. ([Code](https://github.com/apache/incubator-shenyu))
 - [Nacos](https://github.com/alibaba/nacos) - Easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [5 key elements of successful monolith-to-microservices migrations (2022)](https://about.sourcegraph.com/blog/monolith-microservices-migration/)
+- [Airbnb’s Microservices Architecture Journey To Quality Engineering (2022)](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)

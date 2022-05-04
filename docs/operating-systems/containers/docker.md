@@ -4,7 +4,7 @@ title: Docker
 
 # [Docker](https://www.docker.com/)
 
-[DockerSlim](https://github.com/docker-slim/docker-slim) is useful.
+[DockerSlim](https://github.com/docker-slim/docker-slim) is useful. Seems everyone is moving to [containerd](https://github.com/containerd/containerd) now.
 
 ## Links
 

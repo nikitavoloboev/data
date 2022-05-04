@@ -1,6 +1,8 @@
 # Static sites
 
-I used [Hugo](hugo.md) once for generating static sites which I then published with [Netlify](https://www.netlify.com/). Currently I use [Remix](../../programming-languages/javascript/js-libraries/react/remix.md)/[NextJS](../../programming-languages/javascript/js-libraries/react/nextjs.md) for all my sites. [Eleventy](eleventy.md) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
+I used [Hugo](hugo.md) once for generating static sites which I then published with [Netlify](https://www.netlify.com/). Currently I use [Remix](../../programming-languages/javascript/js-libraries/react/remix.md)/[NextJS](../../programming-languages/javascript/js-libraries/react/nextjs.md) for all my sites.
+
+[tinypages](https://github.com/Borrus-sudo/tinypages), [Eleventy](eleventy.md) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
 
 I liked [this article](https://sabrinajewson.org/blog/building-this-site) on building a minimal static site generator in Rust.
 

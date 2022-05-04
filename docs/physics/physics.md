@@ -303,3 +303,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Lectures on Faster-than-Light Travel and Time Travel (2019)](https://arxiv.org/abs/1907.04178) ([HN](https://news.ycombinator.com/item?id=31156276))
 - [It took me 10 years to understand entropy (2022)](https://www.cantorsparadise.com/it-took-me-10-years-to-understand-entropy-here-is-what-i-learned-b2d51e8ccd4c) ([HN](https://news.ycombinator.com/item?id=31164725))
 - [Did the W-boson just “break the standard model”? (2022)](http://backreaction.blogspot.com/2022/04/did-w-boson-just-break-standard-model.html) ([HN](https://news.ycombinator.com/item?id=31215891))
+- [Nice resource for getting up to speed on physics (2022)](https://www.reddit.com/r/AskPhysics/comments/uhf6cb/i_dropped_physics_in_high_school_im_now_super/)

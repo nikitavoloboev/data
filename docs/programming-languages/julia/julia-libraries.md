@@ -583,6 +583,7 @@
 - [RemoteREPL](https://github.com/c42f/RemoteREPL.jl) - Connect a REPL to a remote Julia process.
 - [JuliennedArrays](https://github.com/bramtayl/JuliennedArrays.jl) - Type stable array slicing.
 - [ProfileView.jl](https://github.com/timholy/ProfileView.jl) - Visualization of Julia profiling data.
+- [Observables](https://github.com/JuliaGizmos/Observables.jl) - Observables are like Refs but you can listen to changes.
 
 ## Links
 

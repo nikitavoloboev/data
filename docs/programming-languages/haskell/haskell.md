@@ -4,7 +4,7 @@ title: Haskell
 
 # [Haskell](https://www.haskell.org)
 
-[This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date.
+[This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
 
 ## OSS Haskell Tools
 
@@ -419,3 +419,4 @@ title: Haskell
 - [Companies That Use Haskell in Production (2022)](https://serokell.io/blog/top-software-written-in-haskell) ([HN](https://news.ycombinator.com/item?id=31247149))
 - [Introduction to Haskell IO (2013)](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html)
 - [Modularizing GHC (2022)](https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf) ([Reddit](https://www.reddit.com/r/haskell/comments/uhdu4l/modularizing_ghc_paper/))
+- [Leksah](https://github.com/leksah/leksah) - Haskell IDE. ([Web](http://leksah.org/))

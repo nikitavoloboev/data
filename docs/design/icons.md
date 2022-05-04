@@ -4,10 +4,13 @@
 
 ## Nice icons
 
+- [Readwise](https://twitter.com/Gavmn/status/1521531615465279488)
+- [Nice macOS app icons](https://twitter.com/AdamWhitcroft/status/1513837519456116742)
 - [App Store Icon (macOS Big Sur)](https://dribbble.com/shots/12238938-The-App-Store-Icon-macOS-Big-Sur)
 - [Bondi Icons](https://bondi-icons.com/) - Icons for your Mac.
 - [Susan Kare Icons](http://kareprints.com/)
 - [Slack icon](https://twitter.com/thatbenlifetho/status/1365390262386663424)
+- [Web Assembly Logo](https://github.com/carlosbaraza/web-assembly-logo)
 
 ## Icon designers
 

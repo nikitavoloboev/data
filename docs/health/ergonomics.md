@@ -2,12 +2,14 @@
 
 Most important thing I always try to be mindful of is keeping straight back (no slouching). Good chair / standing desk is super useful in that regard. As well as taking breaks walking/cycling or doing some sport. Straight back with some kind of exercise daily should be enough to keep my body healthy for long time I think. I try to do some kind of strength training workout weekly too.
 
+I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I like.
+
 ## Chairs
 
 - [Herman Miller Mirra 2](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/mirra-2-chairs/)
 - [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/) ([Tweet](https://twitter.com/ow/status/1463234007295004680)) ([Tweet](https://twitter.com/thekitze/status/1519627519158276097))
 - [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/) ([Tweet](https://twitter.com/AndrewProjDent/status/1452986311141363719))
-- [Capisco Ergonomic Office Chair](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733))
+- [Capisco Ergonomic](https://www.fully.com/hag-capisco-chair.html) ([Tweet](https://twitter.com/rafahari/status/1317042132205641733)) ([Tweet](https://twitter.com/rsms/status/1521765828303245313))
 - [Sukhasana](https://sukhasana.com/) - Ergonomic Desk Chairs. ([Tweet](https://twitter.com/malwareunicorn/status/1317246340984795136))
 - [Ask HN: What kind of chair are you using for WFH? (2021)](https://news.ycombinator.com/item?id=27265275)
 - [The Best Office Chair Tier List (2021)](https://www.youtube.com/watch?v=zpIPhAGHSV4)

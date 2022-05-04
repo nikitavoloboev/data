@@ -153,6 +153,7 @@ title: Next.js
 - [`export const config = { unstable_runtimeJS: false }`](https://twitter.com/muditameta/status/1301547155556052999) will allow to export a page with only HTML/CSS.
 - [Cache control headers on the response to revalidate NextJS routes. `res.setHeader(“cache-control”, “s-maxage=1, stale-while-revalidate=59”)`](https://twitter.com/leeerob/status/1402819071712841728)
 - [New Relic Next.js instrumentation](https://github.com/newrelic/newrelic-node-nextjs)
+- [Nested routes allow: 1. Your layout to preserve after navigation. 2. Subcomponents/routes to have lifecycles like the ability to load data. If your rooting tree is statically analyzable you can start fetching the nested routes data before navigation.](https://twitter.com/SachaGreif/status/1521663285061652480)
 
 ## Links
 

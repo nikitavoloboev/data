@@ -148,6 +148,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Fave New Podcasts in 2021](https://www.swyx.io/fave-podcasts-2021/)
 - [The 50 Best Podcasts of 2021 Transcend Genre Conventions](https://www.theatlantic.com/culture/archive/2021/12/best-podcasts-2021-dish-city-sporkful/621118/)
 - [Must-listen podcast episode on software engineering? (2022)](https://twitter.com/thorstenball/status/1518906995398561792)
+- [Best podcasts for software developers 2022](https://transistor.fm/dev-podcasts/)
 
 ## Notes
 

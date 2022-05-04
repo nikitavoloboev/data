@@ -49,3 +49,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Pixel Art Together](https://pixelart.liveblocks.app/) - Multiplayer pixel art editor powered by Liveblocks. ([Code](https://github.com/liveblocks/pixel-art-together))
 - [One-line drawings (2022)](https://schollz.com/blog/one-line/)
 - [Real reason why you can’t paint loosely yet](https://www.youtube.com/watch?v=GAsiyybzu2Q)
+- [Color & Light class](https://www.chuwenjie.com/class) - 7-week course on COLOR & LIGHT for illustration, BG painting, and visual development.

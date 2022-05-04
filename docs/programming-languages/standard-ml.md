@@ -38,3 +38,4 @@ title: Standard ML
 - [Standard ML Family](https://smlfamily.github.io/) ([HN](https://news.ycombinator.com/item?id=31055564))
 - [What was wrong with SML? (2022)](https://blog.plover.com/prog/haskell/sml-defects.html)
 - [Smackage](https://github.com/standardml/smackage) - Package manager for Standard ML libraries.
+- [Awesome Standard ML](https://github.com/i4ki/awesome-sml)

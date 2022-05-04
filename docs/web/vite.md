@@ -4,6 +4,8 @@ title: Vite
 
 # [Vite](https://vitejs.dev/)
 
+[tinypages](https://github.com/Borrus-sudo/tinypages) seems nice.
+
 ## Links
 
 - [vite-on-swc](https://github.com/iheyunfei/vite-on-swc)
@@ -65,3 +67,4 @@ title: Vite
 - [Vite Plugin Cem](https://github.com/Kamiapp-fr/vite-plugin-cem) - Custom elements manifest builder for ViteJS.
 - [Vite Plugin Inline CSS Modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Write CSS modules without leaving your JS.
 - [Netlify Edge Function support for Vite](https://github.com/netlify/vite-plugin-netlify-edge)
+- [Vercel Middleware for Every Vite Project (2022)](https://egoist.sh/vercel-middleware-vite)

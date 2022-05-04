@@ -1621,6 +1621,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Huego](https://github.com/amimof/huego) - Extensive Philips Hue client library for Go with an emphasis on simplicity.
 - [gcon](https://github.com/jonbodner/gcon) - Simple library to add async/await to Go using generics and closures.
 - [Go Time](https://github.com/golang/time) - Go supplementary time packages.
+- [dig](https://github.com/uber-go/dig) - Reflection based dependency injection toolkit for Go.
+- [pool](https://github.com/aeneasr/pool) - Go library for common concurrency patterns using generics.
 
 ## Links
 

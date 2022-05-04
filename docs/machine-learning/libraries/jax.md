@@ -33,3 +33,4 @@ title: JAX
 - [Homomorphic Encryption in JAX](https://github.com/nkandpa2/he_jax)
 - [JAX implementation of Learning to learn by gradient descent by gradient descent](https://github.com/teddykoker/learning-to-learn-jax)
 - [Normalizing Flows in JAX](https://github.com/ChrisWaites/jax-flows)
+- [Big Vision](https://github.com/google-research/big_vision) - Designed for training large-scale vision models on Cloud TPU VMs. Based on Jax/Flax libraries.

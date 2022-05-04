@@ -205,6 +205,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Open-World RPG Recommendations (2022)](https://www.reddit.com/r/PS5/comments/ud2rhc/need_openworld_rpg_recommendations/)
 - [What are your favorite games? Widest definition possible.](https://twitter.com/dan_abramov/status/1519835355196841984)
 - [What's The Best Playstation Game Of All Time? (2022)](https://www.reddit.com/r/PS4/comments/ug5qty/whats_the_best_playstation_game_of_all_time/)
+- [Games where the music just feels right (2022)](https://www.reddit.com/r/PS4/comments/uhlh4t/games_where_the_music_just_feels_right/)
 
 ## Links
 

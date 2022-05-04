@@ -79,3 +79,4 @@ My personal values are encoded as [rules](../../focusing/rules.md) I try to foll
 - [Polite Technology](https://polite.technology/preview)
 - [Awesome Culture](https://github.com/expede/awesome-culture)
 - [Benefits as a Reflection of Values / Oxide (2022)](https://oxide.computer/blog/benefits-as-a-reflection-of-values) ([Tweet](https://twitter.com/ilianathewitch/status/1516835248671059973))
+- [Favorite company mottos](https://twitter.com/sama/status/1521588550138929152)
