@@ -2040,3 +2040,4 @@
 - [How hard upgrading a Rust JWT library could be? (2022)](https://blog.orhun.dev/upgrading-rust-jwt/)
 - [The Better Alternative to Lifetime GATs (2022)](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
 - [Async destructors, async genericity and completion futures (2022)](https://sabrinajewson.org/blog/async-drop)
+- [Rust Nix template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support.

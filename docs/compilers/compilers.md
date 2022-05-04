@@ -215,3 +215,4 @@
 - [Compiler Adventures, part 1: No-op Instructions (2022)](https://medium.com/@predrag.gruevski/compiler-adventures-part-1-no-op-instructions-c084358c7864) ([Tweet](https://twitter.com/PredragGruevski/status/1489282449498640388))
 - [A compiler's users (2021)](https://typesanitizer.com/blog/a-compilers-users-p1.html)
 - [optir](https://github.com/jameysharp/optir) - Compiler optimizer for arbitrary control flow based on equality saturation.
+- [Mijit](https://github.com/apt1002/mijit) - Experimental JIT compiler generator.
