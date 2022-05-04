@@ -145,6 +145,7 @@ title: Next.js
 - [Next.js API OG Image](https://github.com/neg4n/next-api-og-image) - Generate open-graph images dynamically in HTML or React using Next.js API Routes. Suitable for serverless environment.
 - [next-dx](https://github.com/souporserious/next-dx) - Enhance NextJS development with utilities for local and remote content.
 - [next-pagination](https://github.com/etchteam/next-pagination) - Best damn pagination component. For Next.js.
+- [Next Layout Loader](https://github.com/ceteio/next-layout-loader) - File-system based nested layouts for next.js.
 
 ## Notes
 

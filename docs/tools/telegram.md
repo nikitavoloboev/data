@@ -231,3 +231,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [React Telegram Login](https://github.com/hprobotic/react-telegram-login) - React Telegram Login Widget Component.
 - [Безопасен ли Телеграм? (2022)](https://www.youtube.com/watch?v=Cgu-TB0SnRA)
 - [TGDB](https://github.com/dcdunkan/tgdb) - Make Telegram channels your next project's Database.
+- [Four Attacks and a Proof for Telegram (2018)](https://mtpsym.github.io/paper.pdf)

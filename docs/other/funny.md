@@ -120,3 +120,4 @@
 - [Anti Putin funny rap](https://twitter.com/STusyaA/status/1505044733936160768)
 - [Midwest FurFest](https://www.youtube.com/watch?v=3RFun58Gt7A)
 - [Tech TikTok - Is this really programming? | React](https://www.youtube.com/watch?v=RNfw23LkFn8)
+- [Kid fighting for his life](https://twitter.com/jani__gee/status/1521269627946418184)

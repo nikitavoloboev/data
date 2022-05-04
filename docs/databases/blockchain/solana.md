@@ -258,3 +258,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Glow JS](https://github.com/luma-team/glow-js) - Integrate the Glow Solana Wallet into your dApp.
 - [Solana Development Course](https://github.com/Unboxed-Software/solana-course)
 - [New Solana NFT Standard](https://github.com/glow-xyz/nftoken)
+- [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI.

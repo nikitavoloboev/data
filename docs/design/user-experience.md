@@ -173,3 +173,4 @@
 - [Types of Deceptive Design](https://www.deceptive.design/types) ([HN](https://news.ycombinator.com/item?id=31066658))
 - [Computing Concepts for Designers](https://computingfordesigners.com/) - Computing concepts for designers. ([YouTube](https://www.youtube.com/channel/UC7KUkMHVfmnxCibm-oFzLPw/videos))
 - [Fluid effects on iOS](https://twitter.com/jmtrivedi/status/1521190109617410048)
+- [Designing a Command Palette](https://plutoapp.xyz/blog/post/designing-a-command-palette/)

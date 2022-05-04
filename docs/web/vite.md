@@ -64,3 +64,4 @@ title: Vite
 - [Histoire](https://histoire.dev/) - Fast stories powered by Vite. ([Vue 3 examples](https://vue3.examples.histoire.dev/)) ([Twitter](https://twitter.com/histoire_dev))
 - [Vite Plugin Cem](https://github.com/Kamiapp-fr/vite-plugin-cem) - Custom elements manifest builder for ViteJS.
 - [Vite Plugin Inline CSS Modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Write CSS modules without leaving your JS.
+- [Netlify Edge Function support for Vite](https://github.com/netlify/vite-plugin-netlify-edge)

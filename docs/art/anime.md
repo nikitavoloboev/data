@@ -36,3 +36,4 @@
 - [KCC](https://github.com/ciromattia/kcc) - Comic and manga converter for ebook readers.
 - [Animechan](https://github.com/rocktimsaikia/anime-chan) - Free rest API for anime quotes.
 - [Tanoshi](https://faldez.github.io/tanoshi/) - Self hosted web manga reader. ([Code](https://github.com/faldez/tanoshi))
+- [Miru](https://github.com/ThaUnknown/miru) - Stream anime torrents, real-time with no waiting for downloads.

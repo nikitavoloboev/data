@@ -32,3 +32,4 @@ title: JAX
 - [JAX talks by HuggingFace](https://www.youtube.com/playlist?list=PLo2EIpI_JMQtQrEduYXbRz4X50mTiOi8S)
 - [Homomorphic Encryption in JAX](https://github.com/nkandpa2/he_jax)
 - [JAX implementation of Learning to learn by gradient descent by gradient descent](https://github.com/teddykoker/learning-to-learn-jax)
+- [Normalizing Flows in JAX](https://github.com/ChrisWaites/jax-flows)

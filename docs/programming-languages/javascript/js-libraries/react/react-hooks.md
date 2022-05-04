@@ -197,6 +197,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [jotai-form](https://github.com/jotai-labs/jotai-form)
 - [useSvelteStore](https://github.com/Crisfole/react-use-svelte-store) - Use svelte stores in react with hooks.
 - [useUndoable](https://github.com/Infinium8/useUndoable) - React hook for undo/redo functionality.
+- [useCookie](https://github.com/tylerwolff/useCookie) - React hook for managing cookies with no dependencies.
 
 ## Code
 

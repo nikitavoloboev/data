@@ -1833,6 +1833,7 @@
 - [rust-dht](https://github.com/dtantsur/rust-dht) - Kademlia-based DHT implementation for Rust.
 - [OpenStack SDK for Rust](https://github.com/dtantsur/rust-openstack)
 - [Asynchronous OpenStack session and authentication](https://github.com/dtantsur/rust-osauth)
+- [Symbolic](https://github.com/getsentry/symbolic) - Stack trace symbolication library written in Rust.
 
 ## Cargo Plugins
 

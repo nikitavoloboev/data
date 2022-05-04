@@ -30,3 +30,4 @@
 - [Modular Cognition](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up) ([HN](https://news.ycombinator.com/item?id=30740981))
 - [What Kind of Computation Is Cognition? (2022)](https://www.youtube.com/watch?v=NsID1iM8gRw)
 - [How to control the metacognition process of programming? (2022)](https://lambdaisland.com/blog/2022-02-17-the-fg-command) ([HN](https://news.ycombinator.com/item?id=30955203))
+- [Who's doing good research on cognitive science? (2022)](https://www.reddit.com/r/cogsci/comments/uhnj6d/who_are_the_big_hitters_in_cog_sci_today/)

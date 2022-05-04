@@ -771,3 +771,4 @@ if err != nil {
 - [Beating grep with Go (2022)](https://healeycodes.com/beating-grep-with-go) ([Lobsters](https://lobste.rs/s/qxwmrh/beating_grep_with_go))
 - [Lies we tell ourselves to keep using Go (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) ([HN](https://news.ycombinator.com/item?id=31205072)) ([Tweet](https://twitter.com/fasterthanlime/status/1520037787763884038)) ([Reddit](https://www.reddit.com/r/programming/comments/uenpw2/lies_we_tell_ourselves_to_keep_using_golang/))
 - [Experience Report: 6 months of Go (2022)](https://typesanitizer.com/blog/go-experience-report.html) ([Reddit](https://www.reddit.com/r/golang/comments/uff59d/experience_report_6_months_of_go/)) ([HN](https://news.ycombinator.com/item?id=31217032))
+- [A faster lexer in Go (2022)](https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/)

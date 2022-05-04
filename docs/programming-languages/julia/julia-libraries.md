@@ -94,6 +94,7 @@
 - [ReactiveMP.jl](https://github.com/biaslab/ReactiveMP.jl) - Julia package for automatic Bayesian inference on a factor graph with reactive message passing.
 - [TensorNetworkAD](https://github.com/under-Peter/TensorNetworkAD.jl) - Algorithms that combine tensor network methods with automatic differentiation.
 - [BetaML](https://github.com/sylvaticus/BetaML.jl) - Beta Machine Learning Toolkit.
+- [Lux](https://github.com/avik-pal/Lux.jl) - Explicitly Parameterized Neural Networks in Julia.
 
 ## Math
 

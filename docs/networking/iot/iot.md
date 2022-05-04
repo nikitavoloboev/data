@@ -88,3 +88,4 @@
 - [Nexus](https://github.com/mobius-home/nexus) - Centralized server for collecting IoT metric data for Elixir/Nerves devices using Mobius.
 - [Azure IoT SDK for Rust](https://github.com/damienpontifex/azure-iot-sdk-rs) - Self developed library to interact with Azure IoT Hub using MQTT protocol.
 - [GridDB](https://github.com/griddb/griddb) - Database for IoT with both NoSQL interface and SQL Interface.
+- [Coding Up an IoT PCB Design (2022)](https://www.geocene.com/tech/hardware/2022/05/03/coding-up-an-iot-pcb-design) ([HN](https://news.ycombinator.com/item?id=31255179))

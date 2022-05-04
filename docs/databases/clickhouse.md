@@ -25,3 +25,4 @@ title: ClickHouse
 - [Presentations, meetups and talks about ClickHouse](https://github.com/ClickHouse/clickhouse-presentations)
 - [Pillar](https://github.com/balance-platform/pillar) - Elixir library client for work with ClickHouse.
 - [Mogo](https://github.com/shimohq/mogo) - Light weight log visual analytic platform for ClickHouse.
+- [Install ClickHouse Faster (2022)](https://tech.marksblogg.com/install-clickhouse-faster.html)
