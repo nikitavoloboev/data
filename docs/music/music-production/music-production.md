@@ -141,6 +141,7 @@
 - [Gwion](https://github.com/Gwion/Gwion) - Strongly-timed musical programming language. ([Docs](https://gwion.github.io/Gwion/))
 - [mep](https://github.com/alisomay/mep) - Scriptable MIDI event processor.
 - [music-fns](https://github.com/madewithlove/music-fns) - JavaScript music utility library that contains small music notation related functions.
+- [CoSo by Splice](https://tools.splice.com/coso) - Music creation app that listens to your Stack of sounds and shows you loops that belong together.
 
 ## Inspiration
 
@@ -358,3 +359,4 @@
 - [What chords do you need? (2022)](https://www.jefftk.com/p/what-chords-do-you-need) ([HN](https://news.ycombinator.com/item?id=31109456))
 - [ChucK](https://chuck.stanford.edu/) - Strongly-Timed Music Programming Language. ([Code](https://github.com/ccrma/chuck))
 - [Music Enhancement via Image Translation and Vocoding](https://github.com/nkandpa2/music_enhancement)
+- [Clairnote](https://clairnote.org/) - Alternative music notation system. ([HN](https://news.ycombinator.com/item?id=31259997))

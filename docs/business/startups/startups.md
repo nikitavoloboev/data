@@ -371,10 +371,10 @@
 - [What software engineers can learn from the rapid collapse of Fast (2022)](https://newsletter.pragmaticengineer.com/p/the-scoop-fast) ([HN](https://news.ycombinator.com/item?id=30947595))
 - [On Deck’s Top 100 Companies of 2022](https://www.beondeck.com/post/on-decks-top-companies-2022)
 - [YC Vibe Check](https://ycvibecheck.com/) - Semantic search over every YC company ever. ([Code](https://github.com/thesephist/ycvibecheck))
+- [The Startup of You Book](https://www.startupofyou.com/)
 
 ## Images
 
 ![](https://i.imgur.com/KxbRBEn.png)
 
 > [Source](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
-

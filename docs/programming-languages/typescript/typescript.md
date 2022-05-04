@@ -259,6 +259,8 @@ title: TypeScript
 - [Advanced TypeScript with Matt (2022)](https://www.youtube.com/watch?v=F7O4gA0GXqI)
 - [Literate TS](https://github.com/danvk/literate-ts) - Statically checks TypeScript code samples in written text (blog posts, books, etc.).
 - [Ultimate TypeScript](https://ultimatecourses.com/courses/typescript) - Supercharge your skills with TypeScript by exploring the language.
+- [tsd-lite](https://github.com/mrazauskas/tsd-lite) - Test your TypeScript types easily.
+- [Notes on Advanced TypeScript](https://dev.to/busypeoples/series/17918)
 
 ## Images
 

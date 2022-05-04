@@ -1,6 +1,6 @@
 # Search engines
 
-[Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat.
+[Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) is great for plug and use solution.
 
 ## Links
 

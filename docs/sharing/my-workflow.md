@@ -33,7 +33,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Video
 
-- [Hangouts](https://hangouts.google.com) (preferred to [Zoom](http://zoom.us) as it works on web) or [Discord](https://discord.com) (voice/video chats)
+- [Google Meet](https://meet.google.com/) or [Discord](https://discord.com) (voice/video chats)
 
 ## Knowledge index
 
@@ -76,39 +76,40 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Tech
 
-- Static sites (landing pages) / Blogs - [NextJS](https://nextjs.org/), [Eleventy](https://www.11ty.dev) or [Hugo](https://gohugo.io).
-- Web Apps - [NextJS](https://nextjs.org/) with [Blitz](https://github.com/blitz-js/blitz)
-- Server APIs - [Go](https://golang.org/). Deployed serverless on [GCP Cloud Run](https://cloud.google.com/run/) or [AWS Lambda](https://aws.amazon.com/lambda/). TODO: [apex/rpc](https://github.com/apex/rpc) generate API clients
-- Scripts & CLI tools - [Go](https://golang.org/)
-- Database - [Postgres](https://www.postgresql.org) or [SQLite](https://www.sqlite.org). Use [Prisma](https://www.prisma.io/), [Hasura](https://hasura.io) or [Graphile Starter](https://github.com/graphile/starter) for GraphQL.
-- Auth (SSO, 2FA) - [Firebase](https://firebase.google.com/docs/auth) or [Prisma](https://v1.prisma.io/docs/1.2/reference/migration-guides/authentication-and-authorization-yaeco6ieth)
-- iOS/macOS apps - Swift/SwiftUI. Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
-- Docs - [GitBook](https://www.gitbook.com)
+- Static sites (landing pages) / Blogs - [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (with [SvelteKit](https://kit.svelte.dev/))
+- Web Apps - [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) or [SvelteKit](https://kit.svelte.dev/)
+- Server APIs - [Go](https://golang.org/). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/)
+- Scripts & CLI tools - [Deno](../web/deno.md) or [Go](../programming-languages/go/go.md)
+- Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](https://www.prisma.io/) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
+- GraphQL - [Graphile Starter](https://github.com/graphile/starter)
+- Auth (SSO, 2FA) - [Firebase Auth](https://firebase.google.com/docs/auth) if I use Firebase. Otherwise User table modeled well.
+- iOS/macOS apps - [Swift](../programming-languages/swift/swift.md)/[SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md). Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
+- Docs - [Docusaurus](../tools/docusaurus.md)
 
 ## Project tools
 
-- [GitHub](https://github.com) - Code sharing & collaboration. Issues & Roadmaps.
-- [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, Slack is ok.
+- [GitHub](https://github.com) - Code sharing & collaboration. Issues & Roadmaps. Want [Linear](https://linear.app/) level desktop client for GitHub. Like [Ship](https://www.realartists.com/blog/ship-20.html).
 - [Notion](../tools/notion.md) - Everything wiki, collaboration. Company Docs.
+- [Discord](../tools/discord.md) or [Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, maybe Slack. But it's super expensive & unusable for open communities.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
 - [Loom](https://www.loom.com/) - Video screen sharing & collaboration.
 - [Metabase](https://www.metabase.com/) - Quick insights/analytics from data. Hooks up to Postgres easily & lets you run intuitive queries & make dashboards.
 - [Google Domains](https://domains.google) - Domain purchase, handling. Gives you free email forwarding.
-- TODO: [Linear](https://linear.app/) is nice but GitHub is better integrated and is free. Just needs [Linear](https://linear.app) or [Ship](https://www.realartists.com/blog/ship-20.html) level client.
 
 ## Cloud Compute
 
-- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) depending on service needed. GCP interface is nicer.
+- [Fly](https://fly.io/) is my favorite. [Railway](https://railway.app/) too.
+- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) has many niche useful services too.
 
 ## Utility
 
 - [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
-- TODO: [G Suite](https://gsuite.google.com) not that useful compared to Notion. Can get email for free with email forwarding.
 
 ## React
 
-- State - useState (trivial data updates). useReducer + useContext (global updates, can also use [Jotai](https://github.com/react-spring/jotai)). TODO: [Zustand](https://github.com/react-spring/zustand), [MobX](https://github.com/mobxjs/mobx), [XState](https://twitter.com/DavidKPiano/status/1306572730867814401)
-- GraphQL - [Urql](https://github.com/FormidableLabs/urql) TODO: [Apollo](https://www.apollographql.com).
+- State - useState (local data updates), [XState](https://xstate.js.org/docs/) for more complex state.
+- Queries - [React Query](https://react-query.tanstack.com/)
+- GraphQL - [Urql](https://github.com/FormidableLabs/urql)
 
 ## Web
 
@@ -117,7 +118,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Design System
 
-- Components - [Chakra UI](https://github.com/chakra-ui/chakra-ui)
+- Components - [Tailwind UI](https://tailwindui.com/), [React Aria](https://react-spectrum.adobe.com/react-aria/), [Stitches](https://stitches.dev/)
 - [Storybook](https://storybook.js.org/) - View/test components on web.
 
 ## Payment
@@ -136,4 +137,4 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 ## Other
 
 - Format code automatically. [Prettier](https://prettier.io) for JS/TS/CSS/HTML/MD. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift.
-- Forms: [Reform](https://www.reform.app/)
+- Forms: Write in code. [Reform](https://www.reform.app/) looks nice.

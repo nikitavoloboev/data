@@ -97,3 +97,4 @@
 - [Style-free components for all the frameworks](https://github.com/milkui/components)
 - [Architecture for a maintainable UI](https://github.com/feature-driven-architecture/spec)
 - [A "lawful" framework for styling/formatting UIs? (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/ugb7e8/a_lawful_framework_for_stylingformatting_uis/)
+- [UIs are streaming DAGs (2022)](https://www.hytradboi.com/2022/uis-are-streaming-dags) ([HN](https://news.ycombinator.com/item?id=31217448)) ([Tweet](https://twitter.com/dustingetz/status/1520397540386091009))

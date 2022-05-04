@@ -77,3 +77,4 @@ title: WireGuard
 - [WireGuard DNS Configuration for Systemd](https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/) ([HN](https://news.ycombinator.com/item?id=30727893))
 - [esp_wireguard](https://github.com/trombik/esp_wireguard) - WireGuard Implementation for ESP-IDF.
 - [You may not need Cloudflare Tunnel. Linux is fine (2022)](https://kiwiziti.com/~matt/wireguard/) ([HN](https://news.ycombinator.com/item?id=30953744))
+- [Tailscale raises $100M to fix the Internet (2022)](https://tailscale.com/blog/series-b/) ([HN](https://news.ycombinator.com/item?id=31259950))

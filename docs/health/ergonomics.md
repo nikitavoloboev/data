@@ -87,3 +87,4 @@ I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I
 - [Ask HN: How Is Your Neck? (2022)](https://news.ycombinator.com/item?id=30403555)
 - [Ask HN: What office chair do you use for long hour sitting? (2022)](https://news.ycombinator.com/item?id=30955797)
 - [Fix Wrist Pain with Decompression & 3 Stretches](https://www.youtube.com/watch?v=OLV03UgOLRE)
+- [Nice setups (2022)](https://twitter.com/UltraLinx/status/1521861248182276098)

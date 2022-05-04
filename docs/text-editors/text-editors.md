@@ -128,6 +128,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Lexical](https://github.com/facebook/lexical) - Extensible text editor framework that provides excellent reliability, accessibility and performance. ([HN](https://news.ycombinator.com/item?id=31019778)) ([Reddit](https://www.reddit.com/r/reactjs/comments/u4zv7p/lexical_an_extensible_text_editor_framework/))
 - [CodeMirror Basic Setup](https://github.com/codemirror/basic-setup) - Example configuration for the CodeMirror code editor.
 - [ProseMirror Elements](https://github.com/guardian/prosemirror-elements) - ProseMirror plugin for adding user-defined 'elements' containing arbitrary fields to a document.
+- [Slate-yjs](https://github.com/BitPhinix/slate-yjs) - Goto collaboration solution for slate.
 
 ## Notes
 

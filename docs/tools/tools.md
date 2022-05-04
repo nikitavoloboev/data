@@ -702,3 +702,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Product Hunt's tech stack (2022)](https://twitter.com/ProductHunt/status/1507073444407619588)
 - [Toolhunt](https://www.toolhunt.dev/) - Quality dev tools that will help you ship faster.
 - [Awesome NoCode / LowCode](https://github.com/kairichard/awesome-nocode-lowcode)
+- [Ask HN: Have we screwed ourselves as software engineers? (2022)](https://news.ycombinator.com/item?id=31259206)

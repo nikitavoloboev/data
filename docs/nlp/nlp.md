@@ -568,3 +568,4 @@
 - [OPT: Open Pre-trained Transformer Language Models (2022)](https://arxiv.org/abs/2205.01068) - Meta's 175B parameter language model. ([Reddit](https://www.reddit.com/r/MachineLearning/comments/uh5e2f/r_meta_is_releasing_a_175b_parameter_language/))
 - [Bert Extractive Summarizer](https://github.com/dmmiller612/bert-extractive-summarizer) - Easy to use extractive text summarization with BERT.
 - [Dialogue Response Ranking Training with Large-Scale Human Feedback Data (2020)](https://arxiv.org/abs/2009.06978) ([Code](https://github.com/golsun/DialogRPT))
+- [LM-Debugger](https://github.com/mega002/lm-debugger) - Interactive tool for inspection and intervention in transformer-based language models.

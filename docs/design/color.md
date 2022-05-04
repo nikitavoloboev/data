@@ -162,3 +162,4 @@
 - [Web color is still broken](https://webcolorisstillbroken.com/) ([HN](https://news.ycombinator.com/item?id=31107643))
 - [OKLCH Color Picker](https://oklch.evilmartians.io/)
 - [Why OKLCH is the future of colors in CSS](https://slides.com/ai/oklch-css)
+- [The Color API](https://www.thecolorapi.com/) - Pass in any valid color and get conversion into any other format, the name of the color, placeholder images and a multitude of schemes.

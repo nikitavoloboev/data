@@ -314,6 +314,7 @@
 - [configurator](https://github.com/bos/configurator) - Haskell library supporting flexible, dynamic file-based configuration.
 - [deepseq](https://github.com/haskell/deepseq) - Deep evaluation of data structures.
 - [binary-parser](https://github.com/nikita-volkov/binary-parser) - Highly-efficient but limited parser API specialised for bytestrings.
+- [aeson-quick](https://github.com/ssadler/aeson-quick) - Haskell library for quick JSON extractions with Aeson.
 
 ## Notes
 

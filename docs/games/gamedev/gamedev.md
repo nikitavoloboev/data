@@ -31,6 +31,7 @@
 - [Paradox Interactive](https://www.paradoxplaza.com/)
 - [Big Time Studios](https://bigtime.gg/)
 - [Rocksteady](https://rocksteadyltd.com/)
+- [General Arcade](https://www.generalarcade.com/)
 - [No More Robots](https://nomorerobots.io/)
 - [Resolution Games](https://www.resolutiongames.com/)
 - [Stonemaier Games](https://stonemaiergames.com/)

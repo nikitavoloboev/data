@@ -8,6 +8,8 @@ title: Deno
 
 Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](https://www.youtube.com/watch?v=SYkzk_j3yb0) is a nice intro.
 
+[Bun](https://bun.sh/) seems like a nice competitor to Deno.
+
 ## Notes
 
 - [module entry point is mod.ts, application entry point is main.ts](https://discord.com/channels/684898665143206084/689420767620104201/967754431540129812)

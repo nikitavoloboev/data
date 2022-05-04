@@ -597,3 +597,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [There's always an events table (2022)](https://brandur.org/fragments/events)
 - [Rohmu](https://github.com/aiven/rohmu) - Python library for building backup tools for databases providing functionality for compression, encryption and transferring data between the database and an object storage.
 - [A Decent Database Service (2022)](https://steve.dignam.xyz/2022/03/19/decent-database-service/)
+- [Datascript and Datomic tutorial book](https://github.com/kristianmandrup/datascript-tutorial)

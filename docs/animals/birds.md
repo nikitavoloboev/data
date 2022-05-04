@@ -27,3 +27,4 @@
 - [Can You Identify the Birds Behind These Creepy Calls?](https://www.audubon.org/news/can-you-identify-birds-behind-these-creepy-calls)
 - [In birdsong, scientists find some parallels with human speech (2022)](https://www.smithsonianmag.com/science-nature/do-birds-have-language-180979629/) ([HN](https://news.ycombinator.com/item?id=30669789))
 - [BirdNET-Pi](https://birdnetpi.com/) - Real time acoustic bird classification system for the Raspberry Pi 4B. ([Code](https://github.com/mcguirepr89/BirdNET-Pi)) ([HN](https://news.ycombinator.com/item?id=31072485))
+- [What Birds Listen for in Birdsong](https://www.scientificamerican.com/article/what-birds-really-listen-for-in-birdsong-its-not-what-you-think/) ([HN](https://news.ycombinator.com/item?id=31233473))

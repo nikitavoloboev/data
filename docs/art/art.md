@@ -6,6 +6,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 
 ## Favorite artists
 
+- [James Jean](https://www.instagram.com/jamesjeanart/) ([Artsy](https://www.artsy.net/artist/james-jean)) ([Twitter](https://twitter.com/jamesjeanart)) ([Web](http://www.jamesjean.com/))
 - [Darek Zabrocki](https://www.darekzabrocki.com/)
 - [Joanna Karpowicz](https://joannakarpowicz.pl/)
 - [James R. Eads](http://www.jamesreads.com/art)
@@ -14,7 +15,6 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)
 - [Miles Johnston](https://www.artsy.net/artist/miles-johnston) ([IG](https://www.instagram.com/miles_art/)) ([Reddit Top Art](https://www.reddit.com/user/Miles___?sort=top))
-- [James Jean](https://www.instagram.com/jamesjeanart/) ([Artsy](https://www.artsy.net/artist/james-jean)) ([Twitter](https://twitter.com/jamesjeanart)) ([Web](http://www.jamesjean.com/))
 - [Dániel Taylor](https://www.instagram.com/mrtaylordani/)
 - [Yanjun Cheng](https://www.artstation.com/yjc)
 - [Alena Aenami](https://aenamiart.artstation.com/) ([ArtStation](https://www.artstation.com/aenamiart))

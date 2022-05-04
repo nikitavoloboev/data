@@ -140,6 +140,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## Web
 
+- [Flamego](https://github.com/flamego/flamego) - Fantastic modular Go web framework with a slim core but limitless extensibility. ([Docs](https://flamego.dev/))
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
 - [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate)) ([Examples](https://github.com/gin-gonic/examples))
@@ -353,7 +354,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
-- [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. It features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time.
+- [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. Features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time. ([Intro](https://www.polarsignals.com/blog/posts/2022/05/04/introducing-arcticdb/)) ([Tweet](https://twitter.com/PolarSignalsIO/status/1521852572717494272)) ([HN](https://news.ycombinator.com/item?id=31260597))
 - [sniper](https://github.com/recoilme/sniper) - Simple and efficient thread-safe key/value store for Go.
 - [Bun](https://github.com/uptrace/bun) - Simple and performant ORM for SQL. ([Web](https://bun.uptrace.dev/))
 - [GORM SQLite](https://github.com/glebarez/sqlite) - Pure-go (without cgo) implementation of SQLite driver for GORM.

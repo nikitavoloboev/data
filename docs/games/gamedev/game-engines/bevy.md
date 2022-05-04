@@ -35,3 +35,4 @@ title: Bevy Engine
 - [bevy_ecs_ldtk](https://github.com/Trouv/bevy_ecs_ldtk) - ECS-friendly ldtk plugin for bevy, leveraging bevy_ecs_tilemap.
 - [Bevy Steamworks SDK](https://github.com/HouraiTeahouse/bevy-steamworks)
 - [Bevy Polyline](https://github.com/ForesightMiningSoftwareCorporation/bevy_polyline) - High performance instanced polyline rendering for bevy.
+- [Bevy Debug Text Overlay](https://github.com/nicopap/bevy-debug-text-overlay) - Convenient on-screen message print macro for bevy.

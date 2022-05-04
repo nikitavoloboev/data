@@ -36,3 +36,4 @@ title: HomeKit
 - [HomeMenu](https://github.com/sonsongithub/HomeMenu) - App to control HomeKit Devices from macOS system menu.
 - [HAP-python](https://github.com/ikalchev/HAP-python) - Python implementation of the HomeKit Accessory Protocol (HAP).
 - [HomeKit Python](https://github.com/jlusiardi/homekit_python) - Python implementation to work as both HomeKit controller and accessory.
+- [HomeConMenu](https://github.com/sonsongithub/HomeConMenu) - App to control HomeKit Devices from macOS system.

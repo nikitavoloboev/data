@@ -157,6 +157,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Free Heroes of Might and Magic II](https://github.com/ihhub/fheroes2) - Recreation of HoMM2 game engine.
 - [Cytopia](https://github.com/CytopiaTeam/Cytopia) - Free, open source retro pixel-art city building game with a big focus on mods. ([Web](https://www.cytopia.net/)) ([HN](https://news.ycombinator.com/item?id=31066478))
 - [Herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype/technical demo written in Clojure and ClojureScript.
+- [Swune](https://github.com/nicklockwood/Swune) - Swift/UIKit reimplementation of the Dune II RTS game.
 
 ## Awesome games (other)
 

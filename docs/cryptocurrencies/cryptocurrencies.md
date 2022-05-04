@@ -268,3 +268,5 @@ I use [FTX](https://ftx.com/referrals#a=58425911) as my preferred crypto exchang
 - [ApeCoin & the death of staking (2022)](https://cobie.substack.com/p/apecoin-and-the-death-of-staking?s=r) ([Tweet](https://twitter.com/cobie/status/1517086096173469697))
 - [Kindelia](https://github.com/Kindelia/Kindelia) - Efficient, secure cryptocomputer.
 - [tardis-dev](https://github.com/tardis-dev/tardis-node) - Convenient access to tick-level real-time and historical cryptocurrency market data via Node.js.
+- [Crypto Index Fund - Maybe](https://maybe.co/tools/crypto-index-fund)
+- [Early Ones](https://earlyones.co/) - Get rewarded for being early and adding value to new products and services in the crypto ecosystem. ([Twitter](https://twitter.com/earlyones))

@@ -1,6 +1,8 @@
 # Blogs
 
-I use [Reeder](http://reederapp.com/mac/) to stay on top of my favorite blogs I follow which I sync with [Inoreader](https://www.inoreader.com) between phone and mac.
+I use [Inoreader](https://www.inoreader.com/) to stay on top of blogs I like.
+
+At some point I used [Reeder](https://reederapp.com/).
 
 ![](https://i.imgur.com/l0Cq6ZT.jpg)
 
@@ -12,6 +14,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 
 ## Favorite blogs
 
+- [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
 - [Overreacted by Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
@@ -70,7 +73,6 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Mark Litwintschik](https://tech.marksblogg.com/)
 - [Never Ending Books](http://www.neverendingbooks.org/)
 - [Luca Palmieri](https://www.lpalmieri.com/)
-- [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [Daniel Holden](https://theorangeduck.com/)
 - [Alarming Development](https://alarmingdevelopment.org/)
 - [Eric Jang](https://evjang.com/)

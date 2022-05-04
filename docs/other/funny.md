@@ -121,3 +121,4 @@
 - [Midwest FurFest](https://www.youtube.com/watch?v=3RFun58Gt7A)
 - [Tech TikTok - Is this really programming? | React](https://www.youtube.com/watch?v=RNfw23LkFn8)
 - [Kid fighting for his life](https://twitter.com/jani__gee/status/1521269627946418184)
+- [Funny Russian jokes](https://twitter.com/rdu1ya/status/1463517877026316297)

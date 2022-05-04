@@ -4,6 +4,8 @@ title: Observability
 
 # [Observability](https://en.wikipedia.org/wiki/Observability)
 
+[ArcticDB](https://github.com/polarsignals/arcticdb) seems useful.
+
 ## Links
 
 - [What is Observability (2021)](https://brendangregg.com/blog/2021-05-23/what-is-observability.html)

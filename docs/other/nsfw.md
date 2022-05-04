@@ -15,6 +15,11 @@ Many people still have bad stigma attached of people sharing nudes in public but
 
 - [mustation2](https://twitter.com/mustation2)
 
+## IG
+
+- [chill](http://instagram.com/thisissuperchill)
+- [Lina Scheynius](https://www.instagram.com/linascheynius/)
+
 ## Links
 
 - [Alina by Damon Loble for C-Heads](https://www.c-heads.com/2015/02/10/alina-by-damon-loble-for-c-heads/)

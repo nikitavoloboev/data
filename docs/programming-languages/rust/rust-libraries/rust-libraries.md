@@ -1834,6 +1834,8 @@
 - [OpenStack SDK for Rust](https://github.com/dtantsur/rust-openstack)
 - [Asynchronous OpenStack session and authentication](https://github.com/dtantsur/rust-osauth)
 - [Symbolic](https://github.com/getsentry/symbolic) - Stack trace symbolication library written in Rust.
+- [TinyTemplate](https://github.com/bheisler/TinyTemplate) - Minimal Lightweight Text Templating.
+- [ThreadBound](https://github.com/dtolnay/threadbound) - Make any value Sync but only available on its original thread.
 
 ## Cargo Plugins
 

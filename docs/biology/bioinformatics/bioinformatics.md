@@ -212,3 +212,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [AlphaFill](https://github.com/PDB-REDO/alphafill) - Algorithm based on sequence and structure similarity that “transplants” missing compounds to the AlphaFold models.
 - [tiwih](https://github.com/brentp/tiwih) - Simple bioinformatics command-line tools I wished I had.
 - [Awesome Bioinformatics Benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
+- [GLUE (Graph-Linked Unified Embedding)](https://github.com/gao-lab/GLUE) - Graph-linked unified embedding for single-cell multi-omics data integration.

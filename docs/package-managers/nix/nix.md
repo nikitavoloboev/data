@@ -350,3 +350,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Hercules CI Effects](https://github.com/hercules-ci/hercules-ci-effects) - Implemented by the agent are a fairly low-level interface for executing programs that interact with the Nix store, centralized state and the real world.
 - [Fractal](https://github.com/ArctarusLimited/Fractal) - Zero-compromise Kubernetes resource generation with Nix, Jsonnet and Kustomize.
 - [Union and intersection contracts are hard, actually (2022)](https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/)
+- [Proof of concept of a literate Nix flake](https://github.com/rossabaker/literate-flake)

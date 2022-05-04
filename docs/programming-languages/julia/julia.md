@@ -127,3 +127,4 @@ title: Julia
 - [Why We Use Julia, 10 Years Later (2022)](https://julialang.org/blog/2022/02/10years/) ([HN](https://news.ycombinator.com/item?id=30337515))
 - [Optimizing Julia code (2022)](https://huijzer.xyz/posts/inference/)
 - [Julia 100 Exercises](https://github.com/RoyiAvital/Julia100Exercises) - Set of introductory exercises for Julia. Based on 100 NumPy Exercises.
+- [Some special cases of method dispatch in Julia (2022)](https://bkamins.github.io/julialang/2022/04/15/dispatch.html) ([HN](https://news.ycombinator.com/item?id=31259615))
