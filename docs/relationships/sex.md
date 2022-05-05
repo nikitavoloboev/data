@@ -1,6 +1,6 @@
 # Sex
 
-[Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read.
+[Sex for over 30](https://www.reddit.com/r/sexover30/) & [HLCommunity](https://www.reddit.com/r/HLCommunity/) are fun subs to read. [David Buss's interview on Sex, Dating, Relationships, and Sex Differences](https://www.youtube.com/watch?v=sndW9hzX-wA) was fascinating.
 
 ## Notes
 
@@ -105,3 +105,5 @@
 - [Vaginal Orgasms](https://www.reddit.com/r/sexover30/comments/twhzkd/vaginal_orgasms/)
 - [One thing that changed your sex life forever?](https://www.reddit.com/r/sex/comments/u05bc1/whats_the_one_thing_that_changed_your_sex_life/)
 - [Mr Lucky POV - Austen Summers Podcast (2021)](https://www.youtube.com/watch?v=j-VhOfuzq9k)
+- [David Buss: Sex, Dating, Relationships, and Sex Differences (2022)](https://www.youtube.com/watch?v=sndW9hzX-wA)
+- [The Evolution Of Desire: Strategies of Human Mating by David Buss](https://www.goodreads.com/book/show/27491.The_Evolution_Of_Desire)

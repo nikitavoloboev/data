@@ -529,3 +529,4 @@ the execution time on all cores of a multi-core processor.
 - [lrun](https://github.com/quark-zju/lrun) - Run programs on Linux with resources (ex. time, memory, network, device, syscall, etc.) limited.
 - [Xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime.
 - [RAUC](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux. ([Web](https://rauc.io/))
+- [Linux Vendor Firmware Service (LVFS)](https://lvfs.readthedocs.io/en/latest/intro.html)

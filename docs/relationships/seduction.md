@@ -115,3 +115,4 @@ Having said all of above, I think the most effective approach is having a great 
 - [Learning and succeeding in seducing girls in social settings flow chart (2022)](https://www.youtube.com/watch?v=cZZZPAXjeKc)
 - [Discussing dating in America (2022)](https://www.youtube.com/watch?v=ZZS2CczndCI)
 - [Austen Summers - YouTube](https://www.youtube.com/c/AustenSummers/videos)
+- [Talking is easy, showing romantic interest is hard](https://www.reddit.com/r/datingoverthirty/comments/uinofn/talking_is_easy_showing_romantic_interest_is_hard/)

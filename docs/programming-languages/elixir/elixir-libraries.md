@@ -187,6 +187,7 @@
 - [Tarearbol](https://github.com/am-kantox/tarearbol) - Lightweight task manager, allowing retries, callbacks, assurance that the task succeeded, and more.
 - [Telemetria](https://github.com/am-kantox/telemetria) - Helper application that simplifies and standardizes telemetry usage.
 - [Swarm](https://github.com/bitwalker/swarm) - Easy clustering, registration, and distribution of worker processes for Erlang/Elixir.
+- [Decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic.
 
 ## Links
 

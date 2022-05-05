@@ -117,6 +117,7 @@
 - [tedana](https://github.com/ME-ICA/tedana) - TE-dependent analysis of multi-echo fMRI.
 - [Neuro-Nav](https://github.com/awjuliani/neuro-nav) - Set of neuroscience inspired navigation and decision making tasks.
 - [Relating Transformers to Modes and Neural Representations of the Hippocampal (2022)](https://arxiv.org/abs/2112.04035)
+- [How to learn Computational Neuroscience on your Own (a self-study guide) (2022)](https://www.youtube.com/watch?v=MhF3R_0LWbk)
 
 ## Images
 

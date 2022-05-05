@@ -176,3 +176,4 @@
 - [modm](https://github.com/modm-io/modm) - C++20 library generator for AVR and ARM Cortex-M devices. ([Docs](https://modm.io/))
 - [Curated device data for all AVR and ARM Cortex-M devices](https://github.com/modm-io/modm-devices)
 - [Accurate Micro- and Nanosecond Delay in modm (2021)](https://blog.salkinium.com/modm-delay/)
+- [Where are the low level system engineers? (2022)](https://twitter.com/kelseyhightower/status/1521611408885960705) ([HN](https://news.ycombinator.com/item?id=31259905))

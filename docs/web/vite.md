@@ -68,3 +68,4 @@ title: Vite
 - [Vite Plugin Inline CSS Modules](https://github.com/Bluskript/vite-plugin-inline-css-modules) - Write CSS modules without leaving your JS.
 - [Netlify Edge Function support for Vite](https://github.com/netlify/vite-plugin-netlify-edge)
 - [Vercel Middleware for Every Vite Project (2022)](https://egoist.sh/vercel-middleware-vite)
+- [Vite How to Guide](https://github.com/taowen/vite-howto)

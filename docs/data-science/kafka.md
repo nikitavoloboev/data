@@ -116,3 +116,4 @@ title: Apache Kafka
 - [AWS Serverless Kafka (2022)](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/)
 - [kafkaproxy](https://github.com/dajudge/kafkaproxy) - Reverse proxy for the wire protocol of Apache Kafka.
 - [Karapace](https://github.com/aiven/karapace) - Your Kafka essentials in one tool. Serving all your Apache Kafka® HTTP needs. ([Web](https://karapace.io/))
+- [Build a Data Streaming App for Sound & Vision (2022)](https://www.youtube.com/watch?v=P-9svLRyaSw)

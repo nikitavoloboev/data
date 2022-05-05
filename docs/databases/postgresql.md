@@ -489,3 +489,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres JSON Schema](https://github.com/gavinwahl/postgres-json-schema) - JSON Schema validation for PostgreSQL.
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard.
+- [Parquet and Postgres in the Data Lake (2022)](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake) ([HN](https://news.ycombinator.com/item?id=31253301))

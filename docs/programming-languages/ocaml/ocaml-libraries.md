@@ -202,3 +202,4 @@ title: OCaml libraries
 - [Camlidl](https://github.com/xavierleroy/camlidl) - Stub code generator for OCaml/C interface.
 - [Reusable Effect-Based Components](https://github.com/RedPRL/algaeff)
 - [opam-nix](https://github.com/tweag/opam-nix) - Turn opam-based OCaml projects into Nix derivations.
+- [Esperanto](https://github.com/dinosaure/esperanto) - Build-once run-anywhere OCaml programs.

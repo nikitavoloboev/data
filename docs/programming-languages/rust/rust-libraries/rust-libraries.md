@@ -288,6 +288,7 @@
 - [pg_parse](https://github.com/paupino/pg_parse) - PostgreSQL parser for Rust that uses the actual PostgreSQL server source to parse SQL queries and return the internal PostgreSQL parse tree.
 - [tokio-rusqlite](https://github.com/programatik29/tokio-rusqlite) - Asynchronous handle for rusqlite library.
 - [InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs) - Easy-use client to InfluxDB.
+- [Cornucopia](https://github.com/LouisGariepy/cornucopia) - Generate type-checked Rust from your PostgreSQL.
 
 ## Video
 
@@ -362,6 +363,7 @@
 - [piet-metal](https://github.com/linebender/piet-metal) - Experimental Metal-based GPU renderer for piet 2D graphics.
 - [AkariRender](https://github.com/shiinamiyuki/akari_render) - High Performance CPU/GPU Physically Based Renderer.
 - [raylib-rs](https://github.com/deltaphc/raylib-rs) - Rust bindings for raylib.
+- [Agui](https://github.com/Stumblinbear/agui) - Advanced, reactive UI library for Rust.
 
 ## Games
 

@@ -87,3 +87,4 @@ title: Vulkan API
 - [Walnut](https://github.com/TheCherno/Walnut) - Simple application framework for Vulkan and Dear ImGui apps.
 - [vulkanalia](https://github.com/KyleMayes/vulkanalia) - Vulkan bindings for Rust.
 - [Primus-vk](https://github.com/felixdoerre/primus_vk) - Vulkan GPU-offloading layer.
+- [vkroots](https://github.com/Joshua-Ashton/vkroots) - Framework for writing Vulkan layers.

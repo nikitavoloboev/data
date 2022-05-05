@@ -130,3 +130,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Cats in zero-g lose their auto-righting reflex](https://www.youtube.com/watch?v=O9XtK6R1QAk) ([HN](https://news.ycombinator.com/item?id=30990575))
 - [Mammals - Our World in Data](https://ourworldindata.org/mammals) ([Tweet](https://twitter.com/_HannahRitchie/status/1518578889534148609))
 - [Obscure Animal Of The Day Twitter](https://twitter.com/obscure_otd)
+- [“Bambi” Is Even Bleaker Than You Thought](https://www.newyorker.com/magazine/2022/01/24/bambi-is-even-bleaker-than-you-thought) ([HN](https://news.ycombinator.com/item?id=31256823))

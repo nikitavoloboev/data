@@ -11,6 +11,7 @@ I sometimes do one day fasts but not routinely. [Here](https://news.ycombinator.
 - [Seems like a lot of the benefits of calorie restriction and fasting may come from the fact consuming food produces damaging by-products, note the way you cook the food strongly influences how much of these by products come in the food itself, but your body also produces the. AGE's = Glycation products](https://news.ycombinator.com/item?id=24854571)
 - [Skipping meals while maintaining adequate nutrition is not only good for you but will make you live longer.](https://twitter.com/davidasinclair/status/1449719923337580545)
 - [Once-daily feeding is associated with better cognitive function and health in companion dogs](https://twitter.com/mkaeberlein/status/1458933929319174148)
+- [Animals, including us, are extraordinarily good at conserving energy and dealing with long periods of famine. One meal a day is a non event metabolically, and makes sense for most of us that lead a sedentary life.](https://news.ycombinator.com/item?id=31265086)
 
 ## Links
 
@@ -33,3 +34,4 @@ I sometimes do one day fasts but not routinely. [Here](https://news.ycombinator.
 - [First Controlled Human Trial Shows Cutting Calories Improves Health, Longevity (2022)](https://www.reddit.com/r/Futurology/comments/sz7v8h/first_controlled_human_trial_shows_cutting/hy2uolo/)
 - [Caloric restriction in humans reveals immunometabolic regulators of health span (2022)](https://www.science.org/doi/10.1126/science.abg7292) ([HN](https://news.ycombinator.com/item?id=30450307))
 - [The Beginner's Guide to Intermittent Fasting (2012)](https://jamesclear.com/the-beginners-guide-to-intermittent-fasting) ([HN](https://news.ycombinator.com/item?id=30625586))
+- [Science of Fasting](https://spyderdoc.substack.com/p/doctors-heart-series-part-6-science) ([HN](https://news.ycombinator.com/item?id=31265086))

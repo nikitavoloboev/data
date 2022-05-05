@@ -7,6 +7,7 @@ Like using [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Obama used 'decision memos' with choices of: 1. agree. 2. disagree 3. let's discuss](https://twitter.com/Conaw/status/1399850705435955200)
 - [Never judge a decision just by its outcome as there are many unknowns.](https://twitter.com/rob_england/status/1458386368829161472)
 - [Good decisions are made by groups, great decisions are made by individuals. When risk mitigation is the key, committees work well. When upside creation is the goal, the smaller the circle the better.](https://twitter.com/jaltma/status/1474462094183575559)
+- [Don't make decisions purely on instinct.](https://www.reddit.com/r/CrazyFuckingVideos/comments/uiafyb/dude_tries_to_save_a_suicidal_man/)
 
 ## Links
 

@@ -84,3 +84,4 @@ title: Idris
 - [Generating Idris2 code based on Dependent State Automata diagrams](https://github.com/CodingCellist/idris2-dsa-gen)
 - [Idris2 Hashable](https://github.com/Z-snails/Idris2-hashable) - Interface for types that can be hashed.
 - [Idv](https://github.com/mattpolzin/idv) - Idris Version Manager.
+- [TOML parser for Idris](https://github.com/cuddlefishie/toml-idr)

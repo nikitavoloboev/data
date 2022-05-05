@@ -121,3 +121,4 @@ title: LLVM
 - [Peephole Optimizer (For QBE): Studying the LLVM and GCC Optimizers (2022)](https://briancallahan.net/blog/20220417.html)
 - [Whole Program LLVM](https://github.com/travitch/whole-program-llvm) - Wrapper script to build whole-program LLVM bitcode files.
 - [PochiVM](https://github.com/sillycross/PochiVM) - JIT (just-in-time) code-generation framework backed by LLVM and a novel baseline compiler.
+- [Guide to Performance Debugging LLVM-based Programs (2022)](https://www.youtube.com/watch?v=lDFE-QtSIfg)

@@ -241,3 +241,6 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Denocker](https://github.com/Oursin/denocker) - Docker client library for Deno.
 - [Fast Forward](https://github.com/c4spar/deno-fast-forward) - Easy to use ffmpeg module for Deno.
 - [Reno](https://github.com/reno-router/reno) - Thin, testable routing library designed to sit on top of Deno's standard HTTP module.
+- [JavaScript Containers (2022)](https://tinyclouds.org/javascript_containers) ([HN](https://news.ycombinator.com/item?id=31262542))
+- [DenoStore](https://github.com/oslabs-beta/DenoStore) - Brings modular and low latency caching of GraphQL queries to a Deno/Oak server.
+- [Acorn](https://github.com/oakserver/acorn) - Focused RESTful server framework for Deno.

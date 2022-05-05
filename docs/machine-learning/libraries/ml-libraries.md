@@ -343,3 +343,4 @@ title: ML Libraries
 - [ANTsPy](https://github.com/ANTsX/ANTsPy) - Advanced Normalization Tools in Python.
 - [FasterTransformer Backend](https://github.com/triton-inference-server/fastertransformer_backend) - Triton backend for the FasterTransformer.
 - [Nixtla](https://github.com/Nixtla/nixtla) - Automated time series processing and forecasting.
+- [FederatedScope](https://github.com/alibaba/FederatedScope) - Easy-to-use federated learning platform.

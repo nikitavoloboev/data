@@ -324,3 +324,4 @@
 - [Omicron](https://github.com/oxidecomputer/omicron) - Oxide control plane.
 - [The X-Ray Tech That Reveals Chip Designs (2022)](https://spectrum.ieee.org/chip-x-ray)
 - [What scientists must know about hardware to write fast code](https://github.com/jakobnissen/hardware_introduction)
+- [The semiconductor bust – still coming? (2022)](https://asianometry.substack.com/p/the-semiconductor-bust-still-coming?s=r) ([HN](https://news.ycombinator.com/item?id=31264672))

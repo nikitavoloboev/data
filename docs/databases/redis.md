@@ -146,3 +146,4 @@ title: Redis
 - [RedisInsight](https://github.com/RedisInsight/RedisInsight) - Developer GUI for Redis, by Redis.
 - [RedisEdge Real-time Video Analytics](https://github.com/RedisGears/EdgeRealtimeVideoAnalytics) - Example of using Redis Streams, RedisGears, RedisAI, and RedisTimeSeries for Real-time Video Analytics.
 - [Redis Operator](https://github.com/spotahome/redis-operator) - Creates/configures/manages redis-failovers atop Kubernetes.
+- [Tidis](https://github.com/yongman/tidis) - Distributed transactional NoSQL database, Redis protocol compatible using tikv as backend.

@@ -40,3 +40,4 @@ title: PHP
 - [PHP-UP](https://github.com/masan4444/phpup) - Cross-Platform PHP version manager.
 - [Modern PHP (2022)](https://dnlytras.com/blog/modern-php/) ([HN](https://news.ycombinator.com/item?id=30786927)) ([Lobsters](https://lobste.rs/s/rllvqw/while_i_wasn_t_paying_attention_php_got))
 - [NoVerify](https://github.com/VKCOM/noverify) - Fast linter (code static analysis utility) for PHP.
+- [Can I PHP?](https://caniphp.com/) - PHP feature support by version.

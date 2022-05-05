@@ -156,3 +156,4 @@
 - [Slow Social](https://slowsocial.us/) - Social network built for friends, not influencers. ([HN](https://news.ycombinator.com/item?id=31054029))
 - [Why the Past 10 Years of American Life Have Been Uniquely Stupid (2022)](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/) ([Tweet](https://twitter.com/anneapplebaum/status/1515568528954478596))
 - [Radiopaper](https://radiopaper.com/home) - Troll-resistant public conversations. ([HN](https://news.ycombinator.com/item?id=31210680))
+- [Making friends on the internet (2022)](https://jon.bo/posts/making-friends-online/) ([HN](https://news.ycombinator.com/item?id=31242800))

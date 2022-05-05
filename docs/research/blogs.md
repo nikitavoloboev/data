@@ -12,9 +12,10 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 
 If you want to start a blog of your own, [this](https://github.com/alaq/adrien.sh) (or [this](https://github.com/leerob/leerob.io)) is a nice [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) template. Or [this](https://github.com/sw-yx/swyxkit) if you want to use [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Or [this](https://github.com/SimeonGriggs/simeonGriggs) if you want to use [Remix](../programming-languages/javascript/js-libraries/react/remix.md).
 
+[Bartosz Ciechanowski's Blog](https://ciechanow.ski/) is absolutely incredible.
+
 ## Favorite blogs
 
-- [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
 - [Overreacted by Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
@@ -23,6 +24,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Apple ML Journal](https://machinelearning.apple.com/)
 - [Tom MacWright](https://macwright.org/archive/)
 - [Evan Wallace](https://blog.figma.com/@evanwallace)
+- [Bartosz Ciechanowski](https://ciechanow.ski/)
 - [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [Sandy Maguire](http://sandymaguire.me/blog/archives/)

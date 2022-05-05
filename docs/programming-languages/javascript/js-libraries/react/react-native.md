@@ -22,6 +22,7 @@ title: React Native
 - [React Native Template TypeScript with Goodies](https://github.com/gabrielmoncea/react-native-template)
 - [React Native Template Strong](https://github.com/svbutko/react-native-template-strong) - Quick, opinionated, documented and strong beginning for your next project.
 - [React Native with Storybook template](https://github.com/dannyhw/react-native-storybook-starter)
+- [Smoothly Animated ToDo App built with React Native](https://github.com/craftzdog/react-native-animated-todo)
 
 ## Notes
 

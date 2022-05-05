@@ -997,3 +997,4 @@
 - [bug-versions](https://github.com/cnpm/bug-versions) - Collect all bug versions on npm package.
 - [npm-multi-publish](https://github.com/privatenumber/npm-multi-publish) - Publish npm package to multiple registries.
 - [Four Eras of JavaScript Frameworks (2022)](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks) ([HN](https://news.ycombinator.com/item?id=31176910))
+- [JS Framework Benchmark](https://github.com/krausest/js-framework-benchmark) - Simple benchmark for several JS frameworks.

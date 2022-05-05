@@ -58,3 +58,4 @@
 - [PDF::Reader](https://github.com/yob/pdf-reader) - Implements a PDF parser conforming as much as possible to the PDF specification from Adobe.
 - [PyPDF2](https://github.com/py-pdf/PyPDF2) - Pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files.
 - [Look Scanned](https://lookscanned.io/) - Make your PDFs look scanned. ([Code](https://github.com/rwv/lookscanned.io))
+- [Ask HN: Why is the PDF format so inaccessible? (2022)](https://news.ycombinator.com/item?id=31266661)

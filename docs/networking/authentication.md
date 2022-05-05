@@ -227,3 +227,4 @@
 - [Infra](https://infrahq.com/) - Single sign-on for your infrastructure. ([Code](https://github.com/infrahq/infra))
 - [Online Identity (2022)](https://ja3k.com/blog/onid.html) ([HN](https://news.ycombinator.com/item?id=31216393))
 - [Next-Generation Mutual Authentication with Cilium Service Mesh (2022)](https://isovalent.com/blog/post/2022-05-03-servicemesh-security)
+- [ADX](https://github.com/bluesky-social/adx) - Experiment in self-authenticating data structures for a federated social network. ([HN](https://news.ycombinator.com/item?id=31267727))

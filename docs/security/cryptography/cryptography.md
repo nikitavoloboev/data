@@ -167,3 +167,4 @@
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [Awesome TSS](https://github.com/ZenGo-X/awesome-tss) - Curated list of distributed key generation and threshold signatures implementations.
 - [Explaining Yao's Garbled Circuits (2022)](https://cronokirby.com/posts/2022/05/explaining-yaos-garbled-circuits/)
+- [Themes from Real World Crypto 2022](https://blog.trailofbits.com/2022/05/03/themes-from-real-world-crypto-2022/)

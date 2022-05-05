@@ -19,6 +19,7 @@
 - [immortal](https://github.com/UnkindPartition/immortal) - Small library to create threads that never die.
 - [retry](https://github.com/Soostone/retry) - Retry combinators for monadic actions that may fail.
 - [jose](https://github.com/frasertweedale/hs-jose) - Haskell JOSE and JWT library.
+- [network-wait](https://github.com/mbg/network-wait) - Lightweight Haskell library for waiting on networked services to become available.
 
 ## DB
 
@@ -86,6 +87,7 @@
 - [arithmoi](https://github.com/Bodigrim/arithmoi) - Number theory: primes, arithmetic functions, modular computations, special sequences.
 - [vector-sized](https://github.com/expipiplus1/vector-sized) - Exports a newtype tagging the vectors from the vector package with a type-level natural representing their size.
 - [Statistics](https://github.com/haskell/statistics) - Fast, high quality library for computing with statistics in Haskell.
+- [Data.Scientific](https://github.com/basvandijk/scientific) - Arbitrary-precision floating-point numbers represented using scientific notation.
 
 ## Crypto
 

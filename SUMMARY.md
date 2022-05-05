@@ -601,6 +601,7 @@
     - [Iran](docs/travel/visited/iran.md)
     - [United Arab Emirates](docs/travel/visited/united-arab-emirates.md)
     - [Argentina](docs/travel/visited/argentina.md)
+    - [Thailand](docs/travel/visited/thailand.md)
     - [Turkey](docs/travel/visited/turkey.md)
     - [Spain](docs/travel/visited/spain.md)
     - [Bulgaria](docs/travel/visited/bulgaria.md)
