@@ -40,7 +40,6 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Peter Roberts, immigration attorney who does work for YC and startups. AMA (2020)](https://news.ycombinator.com/item?id=23940345)
 - [Pros and cons of living in SF (2020)](https://twitter.com/wongmjane/status/1330894344228749314)
 - [MainStreet](https://mainstreet.us/) - For startups. You're owed over $50,000. We'll get it back for you.
-- [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
 - [Why I left the U.S. (2020)](https://arslan.io/2020/12/20/why-i-left-the-us/) ([Tweet](https://twitter.com/fatih/status/1340662798175580163))
 - [What would be the economic effect of cancelling all student loans in the US? (2021)](https://www.reddit.com/r/AskEconomics/comments/kwqu5c/what_would_be_the_economic_effect_of_cancelling/)
 - [Jonathan Haidt: What makes someone a Republican or a Democrat? | Andrew Yang (2021)](https://www.youtube.com/watch?v=gjufYwIbITw)

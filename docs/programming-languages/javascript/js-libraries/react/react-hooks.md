@@ -217,6 +217,7 @@ useEffect(() => {
 - [Use useState to force a render](https://twitter.com/spikebrehm/status/1386777164780036099)
 - [Every time I think I have a use case for useReducer I end up using useState with an object literal instead.](https://twitter.com/mjackson/status/1387885971589386240)
 - [React Suspense, Hooks, Server Components, TypeScript typed tuples & pattern matching proposal are nice.](https://twitter.com/jaredpalmer/status/1459543265775128579)
+- [Don't use useEffect for fire-and-forget effects. Use it for synchronization. Execute effects in event handlers.](https://twitter.com/DavidKPiano/status/1521922758581448705)
 
 ## Links
 

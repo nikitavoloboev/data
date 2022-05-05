@@ -47,3 +47,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Do we still need time zones? (2022)](https://www.reddit.com/r/slatestarcodex/comments/thzobf/do_we_still_need_time_zones/)
 - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/) ([HN](https://news.ycombinator.com/item?id=31261533))
 - [Great time travel movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/uivp1f/hi_everyone_what_are_some_of_your_best_time/)
+- [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
