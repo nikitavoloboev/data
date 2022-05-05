@@ -6,6 +6,10 @@ title: Spatial analysis
 
 [This article](https://ciechanow.ski/gps/) on GPS is fascinating. [Placemark](https://www.placemark.io/) is neat.
 
+## Notes
+
+- [Like the way Opendoor dynamically updates sidebar with homes on zooming in/out of the map.](https://www.opendoor.com/homes/atlanta)
+
 ## Links
 
 - [What’s next for Google Maps Platform (2019)](https://cloud.google.com/blog/products/maps-platform/whats-next-for-google-maps-platform)

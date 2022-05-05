@@ -29,6 +29,7 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [When choosing a living space, pick the room where light shines from two sides of the room.](https://twitter.com/david_perell/status/1322950086813429761)
 - [Custom homes will be assembled like Legos. Quick, easy, mistake-proof, and little skill required.](https://twitter.com/alexisxrivas/status/1407398419480473604)
 - [I want a good shower, good stove, warm lighting at night, foresty incense, surround sound speakers, cozy desk, sun lit during the day, and a nice bed. I actually prefer the house to be small, as I like spending most of my time in nature. Luckily this lifestyle isn't expensive.](https://twitter.com/nickcammarata/status/1437473118596083712)
+- [Minimize furniture to essentials. Art must be meaningful. I'm not going to put up posters etc. No useless kitchen gadgets. Digital plastic stuff. I hate cords, speakers, TVs, lights, things that beep and blink.](https://twitter.com/simonsarris/status/1521983183633489920)
 
 ## Links
 

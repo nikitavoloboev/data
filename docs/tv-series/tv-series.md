@@ -52,3 +52,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Best Scifi original to watch stoned (2022)](https://www.reddit.com/r/scifi/comments/u8zf4k/best_scifi_original_to_watch_stoned/)
 - [Series with good writing (2022)](https://www.reddit.com/r/NetflixBestOf/comments/uhjzbg/request_recomandation_for_a_show_with_good/)
 - [Great space series (2022)](https://www.reddit.com/r/scifi/comments/uiih27/just_finished_the_expanse_and_loved_it_looking/)
+- [Television Is in a Showrunning Crisis (2022)](https://www.vice.com/en/article/epxeze/television-is-in-a-showrunning-crisis) ([Tweet](https://twitter.com/k_trendacosta/status/1522244258186493953))

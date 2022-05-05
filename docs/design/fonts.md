@@ -4,6 +4,8 @@ My current favorite font for programming is [JetBrains Mono](https://www.jetbrai
 
 I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I love the default San Francisco Apple font for use in everything else.
 
+[Variable Fonts](https://v-fonts.com/) are neat.
+
 ## Interesting fonts
 
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens. ([Web](https://rsms.me/inter/)) ([The story behind Inter](https://overcast.fm/+HZUeSpUyE)) ([HN](https://news.ycombinator.com/item?id=28009042))
@@ -111,6 +113,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Sono](https://github.com/sursly/sono) - Soft monospace variable font.
 - [Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk) - Sans serif typeface with a contemporary appearance intended for both text and display.
 - [Arima Font Family](https://github.com/NDISCOVER/Arima-Font)
+- [SF Pro](https://v-fonts.com/fonts/sf-pro) ([Tweet](https://twitter.com/variablefonts/status/1522219878890885122))
 
 ## Links
 
@@ -145,7 +148,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typelab](https://typelab.fr/) - Type design service offering design software and bespoke type design for diverse clients.
 - [OH no Type](https://ohnotype.co/) - Oakland based type foundry.
 - [An Introduction to Variable Fonts (2019)](https://24ways.org/2019/an-introduction-to-variable-fonts/)
-- [v-fonts](https://v-fonts.com/) - Simple resource for finding and trying variable fonts.
+- [Variable Fonts](https://v-fonts.com/) - Simple resource for finding and trying variable fonts. ([Twitter](https://twitter.com/variablefonts))
 - [Variable Emojis](http://variableemojis.com/)
 - [YouTube Sans: The Making of a Typeface (2020)](https://design.google/library/youtube-sans-the-making-of-a-typeface/)
 - [Convincing-looking 90s fonts in modern browsers (2020)](https://vistaserv.net/blog/90s-fonts-modern-browsers) ([HN](https://news.ycombinator.com/item?id=23129434))

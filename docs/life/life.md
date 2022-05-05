@@ -4,6 +4,10 @@ I try to live my life [enjoying each moment](../mindfulness/mindfulness.md) and 
 
 You [probably live only one life](http://www.galactanet.com/oneoff/theegg_mod.html). So best [make it count](http://paulgraham.com/vb.html).
 
+I love the [lifestyle that Simon Sarris has](https://twitter.com/simonsarris/status/1520430508433461250). [Built their own house](https://simonsarris.medium.com/designing-a-new-old-home-part-1-cf298b58ed41) in nature. Living a [minimal life](https://twitter.com/simonsarris/status/1517251006823866368) working on code and [building things with hands](https://twitter.com/simonsarris/status/1485379943697723394). It's admirable.
+
+I try to spend as much [time with family and loved ones](https://ourworldindata.org/time-with-others-lifetime) as I can.
+
 ## Notes
 
 - [We live infinitely; the soul is the energy that cannot be destroyed and the physical body is merely a vesicle.](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)

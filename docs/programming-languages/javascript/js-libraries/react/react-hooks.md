@@ -283,3 +283,4 @@ useEffect(() => {
 - [Hooks Considered Harmful (2022)](https://labs.factorialhr.com/posts/hooks-considered-harmful) ([HN](https://news.ycombinator.com/item?id=30753127))
 - [Effective React Query Keys (2021)](https://tkdodo.eu/blog/effective-react-query-keys)
 - [SWR with Axios](https://github.com/s1gr1d/example.react-swr-axios) - Simple, scalable example for using SWR with Axios in your React application.
+- [How useEvent hook solves 'execute on mount only once' use case](https://twitter.com/dan_abramov/status/1522218410695794694)

@@ -779,3 +779,4 @@ title: Rust
 - [Async Rust: Portability and Interoperability - Nick Cameron (2022)](https://www.youtube.com/watch?v=jxxLQsxJve8)
 - [An O(1) Generic Blog Post About Rust (2022)](https://peterkos.me/rust-const-generics/) ([HN](https://news.ycombinator.com/item?id=31238942))
 - [Single Page Applications using Rust (2020)](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
+- [Bugs that the Rust compiler catches for you (2022)](https://kerkour.com/bugs-rust-compiler-helps-prevent) ([HN](https://news.ycombinator.com/item?id=31278379))

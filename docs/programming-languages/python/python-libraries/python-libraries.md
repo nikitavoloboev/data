@@ -997,3 +997,4 @@
 - [typing_copilot](https://github.com/obi1kenobi/typing_copilot) - Helper for starting to type-hint large codebases with mypy.
 - [Dataclasses JSON](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON.
 - [flake8-pie](https://github.com/sbdchd/flake8-pie) - Flake8 extension that implements misc. lints.
+- [Example pybind11 module built with a CMake-based build system](https://github.com/pybind/cmake_example)
