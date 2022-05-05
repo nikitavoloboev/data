@@ -240,3 +240,4 @@
 - [Hash Array Mapped Tries in Clojure](https://github.com/frenchy64/optimized-kw-maps)
 - [clay](https://github.com/scicloj/clay) - Tiny Clojure tool for a dynamic workflow with some of the more serious visual tools.
 - [clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects.
+- [Quickdoc](https://github.com/borkdude/quickdoc) - Quick and minimal API doc generation for Clojure.

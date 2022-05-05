@@ -34,3 +34,4 @@ title: Datalog
 - [Reactive Datalog for Datomic - Nikolas Göbel (2018)](https://www.youtube.com/watch?v=ZgqFlowyfTA)
 - [TML (Tau Meta-Language)](https://github.com/IDNI/TML) - Variant of Datalog.
 - [Datalog in JavaScript (2022)](https://www.instantdb.dev/essays/datalogjs) ([HN](https://news.ycombinator.com/item?id=31154039))
+- [datalogJS](https://github.com/stopachka/datalogJS) - Simple Datalog query engine, implemented in 100 lines of JS.

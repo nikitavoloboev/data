@@ -222,6 +222,7 @@ title: GitHub actions
 - [Comment Pull Request](https://github.com/thollander/actions-comment-pull-request) - GitHub action to comment pull request.
 - [Coursier cache action](https://github.com/coursier/cache-action) - GitHub action to save / restore the coursier / sbt / mill / Ammonite caches of your build.
 - [Issue Labeler](https://github.com/github/issue-labeler) - Label issues based on the body content of the issue.
+- [Algolia Crawler Github Action](https://github.com/algolia/algoliasearch-crawler-github-actions) - Automatically index your website to Algolia when deploying your website.
 
 ## Go
 

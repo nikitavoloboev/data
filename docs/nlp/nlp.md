@@ -572,3 +572,4 @@
 - [100 Pages of raw notes released with the language model OPT-175](https://twitter.com/schrep/status/1521850083792154624) ([HN](https://news.ycombinator.com/item?id=31260665))
 - [Unsupervised Cross-Task Generalization via Retrieval Augmentation (2022)](https://arxiv.org/abs/2204.07937) ([Code](https://github.com/INK-USC/ReCross))
 - [On Continual Model Refinement in Out-of-Distribution Data Streams (2022)](https://github.com/facebookresearch/SemanticDebugger)
+- [GLID-3-XL](https://github.com/Jack000/glid-3-xl) - 1.4B latent diffusion model from CompVis back-ported to the guided diffusion codebase.
