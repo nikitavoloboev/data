@@ -27,3 +27,4 @@ title: NEAR Protocol
 - [USN](https://github.com/DecentralBankDAO/usn) - NEAR-native USD stable coin.
 - [NEAR NFT-Tutorial](https://github.com/near-examples/nft-tutorial)
 - [Examples for building on the NEAR blockchain](https://github.com/near-examples)
+- [NEAR Lands](https://github.com/vgrichina/near-lands) - Decentralized 2D multiverse project in development using NEAR protocol.

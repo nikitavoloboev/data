@@ -2,10 +2,16 @@
 
 [How to drive SaaS product adoption](https://blog.driftly.app/saas-product-adoption/) article is nice.
 
+Think [Poolsuite](https://poolsuite.net/) does marketing incredibly well. All the products they release evoke emotion.
+
 ## Nice ads
 
 - [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)
 - [Introducing Descript](https://www.youtube.com/watch?v=Bl9wqNe5J8U)
+
+## Nice company Twitter accounts
+
+- [Poolsuite](https://twitter.com/Poolsuite)
 
 ## Notes
 

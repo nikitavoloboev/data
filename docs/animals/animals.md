@@ -131,3 +131,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Mammals - Our World in Data](https://ourworldindata.org/mammals) ([Tweet](https://twitter.com/_HannahRitchie/status/1518578889534148609))
 - [Obscure Animal Of The Day Twitter](https://twitter.com/obscure_otd)
 - [“Bambi” Is Even Bleaker Than You Thought](https://www.newyorker.com/magazine/2022/01/24/bambi-is-even-bleaker-than-you-thought) ([HN](https://news.ycombinator.com/item?id=31256823))
+- [How to resurrect a coral reef](https://www.vox.com/recode/23016412/coral-reef-restoration-climate-change) ([HN](https://news.ycombinator.com/item?id=31267214))

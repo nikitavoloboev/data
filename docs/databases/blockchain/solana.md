@@ -8,9 +8,13 @@ title: Solana
 
 Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide. [Anchor](https://book.anchor-lang.com/) is best framework.
 
-I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and transfer it to to [Phantom Wallet](https://phantom.app/). I then [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) it with [Marinade](https://marinade.finance/app/staking) & put mSOL I get from staking into [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi). If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. FTX staking is not bad too.
+I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) some in FTX itself.
 
-Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) is my favorite DeFi platform.
+If I need to use the coins, I transfer it to to [Phantom Wallet](https://phantom.app/). Staking [Marinade](https://marinade.finance/app/staking) is also great as you can use mSOL you get back in some [mSOL liquidity pool](https://marinade.finance/app/mnde) or [Solend](https://solend.fi) (not sure how useful that is) or some other way. If I need liquidity, I [unstake (slowly)](https://www.reddit.com/r/solana/comments/p1p1h1/solana_staking_is_tastier_with_marinade/h8eukyd/), get SOL back, transfer to FTX, then cash out. That is if I don't use FTX staking itself (it has issue of waiting for longer time to get funds back from unstaking).
+
+Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solana/comments/r2e6pj/hello_this_is_my_first_post_here_as_i_recently/hm4ebiy/), [Render Network](https://rendertoken.com/) is interesting too. [Raydium](https://beta.raydium.io/) looks like a great DeFi platform.
+
+I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md) including SOL as I am still trying to understand how truly useful this technology is. Thus far I see a clear use case for [Monero](../../cryptocurrencies/monero.md) to buy things safely that [government does not allow for whatever archaic reasons](../../drugs/psychedelics/psychedelics.md). I think this space moves very fast though so maybe something truly groundbreaking comes along. Perhaps it's micro transactions (currently not possible due to Mastercard/Visa monopoly on online transactions and their 3% fees).
 
 ## Apps
 
@@ -259,3 +263,4 @@ Aside from [supplying mSOL to a lending protocol](https://www.reddit.com/r/solan
 - [Solana Development Course](https://github.com/Unboxed-Software/solana-course)
 - [New Solana NFT Standard](https://github.com/glow-xyz/nftoken)
 - [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI.
+- [Cronos](https://github.com/cronos-so/cronos) - Automate on-chain programs and schedule transactions directly with the Solana validator network. ([Web](https://www.cronos.so/))

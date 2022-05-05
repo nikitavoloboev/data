@@ -51,3 +51,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Real reason why you can’t paint loosely yet](https://www.youtube.com/watch?v=GAsiyybzu2Q)
 - [Color & Light class](https://www.chuwenjie.com/class) - 7-week course on COLOR & LIGHT for illustration, BG painting, and visual development.
 - [Paint Like Arcane - Characters AND Backgrounds (2021)](https://www.youtube.com/watch?v=_WaTShr7amo)
+- [angrymikko - YouTube](https://www.youtube.com/c/angrymikko/videos) - Painting videos. Concept art and tips on how to paint stuff.

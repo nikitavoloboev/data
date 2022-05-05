@@ -4,7 +4,7 @@ title: Unix Shell
 
 # [Unix Shell](http://en.wikipedia.org/wiki/Unix_shell)
 
-Use [Warp](https://www.warp.dev/) as my terminal.
+Use [Warp](https://www.warp.dev/) as my terminal & [Zsh](zsh/zsh.md) as my shell. [Fish](fish.md) & [Oil](https://www.oilshell.org/) seem like great shell alternatives.
 
 ## Variables
 

@@ -6,6 +6,8 @@ title: Haskell
 
 [This](https://www.scs.stanford.edu/16wi-cs240h/) is a nice course. [Haskell Weekly](https://haskellweekly.news/) is nice newsletter to stay up to date. [Introduction to Haskell IO](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html) is a good entry to show what Haskell is about.
 
+[Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers) is a nice intro.
+
 ## OSS Haskell Tools
 
 - [Wordle.hs](https://github.com/jakesco/wordle-hs) - Play Wordle on the command line.
@@ -420,3 +422,4 @@ title: Haskell
 - [Introduction to Haskell IO (2013)](https://www.haskellforall.com/2013/01/introduction-to-haskell-io.html)
 - [Modularizing GHC (2022)](https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf) ([Reddit](https://www.reddit.com/r/haskell/comments/uhdu4l/modularizing_ghc_paper/)) ([HN](https://news.ycombinator.com/item?id=31250141))
 - [Leksah](https://github.com/leksah/leksah) - Haskell IDE. ([Web](http://leksah.org/))
+- [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers)

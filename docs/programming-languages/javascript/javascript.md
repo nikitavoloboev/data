@@ -435,4 +435,4 @@ if (
 - [Building a JavaScript Bundler (2022)](https://cpojer.net/posts/building-a-javascript-bundler) ([HN](https://news.ycombinator.com/item?id=31165509))
 - [ECMAScript proposal: do expressions](https://github.com/tc39/proposal-do-expressions)
 - [Meticulous](https://meticulous.ai/) - Catch JavaScript errors before they hit prod. ([HN](https://news.ycombinator.com/item?id=31236066))
-- [I fell in love with low-JS (2022)](https://edofic.com/posts/2022-01-28-low-js/) ([HN](https://news.ycombinator.com/item?id=31249181))
+- [I fell in love with low-JS (2022)](https://edofic.com/posts/2022-01-28-low-js/) ([HN](https://news.ycombinator.com/item?id=31249181)) ([Lobsters](https://lobste.rs/s/859lel/how_i_fell_love_with_low_js))

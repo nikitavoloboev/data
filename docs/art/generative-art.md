@@ -1,6 +1,6 @@
 # Generative art
 
-This [article](https://www.amygoodchild.com/blog/what-is-generative-art) is great intro. [WEIRD-A](https://github.com/inconvergent/weird) is great framework.
+This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.js demos](https://p5-demos.glitch.me/) are great intros. [WEIRD-A](https://github.com/inconvergent/weird), [Processing](../programming-languages/processing/processing.md) & [p5.js](../programming-languages/processing/p5js.md) are great frameworks.
 
 ## Links
 

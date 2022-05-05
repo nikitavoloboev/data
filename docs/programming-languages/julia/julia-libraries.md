@@ -95,6 +95,7 @@
 - [TensorNetworkAD](https://github.com/under-Peter/TensorNetworkAD.jl) - Algorithms that combine tensor network methods with automatic differentiation.
 - [BetaML](https://github.com/sylvaticus/BetaML.jl) - Beta Machine Learning Toolkit.
 - [Lux](https://github.com/avik-pal/Lux.jl) - Explicitly Parameterized Neural Networks in Julia.
+- [MuseInference.jl](https://github.com/marius311/MuseInference.jl) - Fast approximate high-dimensional hierarchical Bayesian inference.
 
 ## Math
 

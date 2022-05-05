@@ -157,6 +157,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Andrey Bogomolov](https://www.artstation.com/andreybogomolov)
 - [Ilya Milstein](https://www.instagram.com/ilyamilstein/)
 - [George Bletsis](http://www.monstertree.co.uk/)
+- [Mikko Eerola](https://www.instagram.com/angrymikko/)
 - [Federico Italiano](https://www.instagram.com/federico._.italiano/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
 - [Wu Yi](https://www.instagram.com/wuyi555/)

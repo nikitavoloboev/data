@@ -1,6 +1,6 @@
 # Investing
 
-I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/). I also hold & stake [Solana](../databases/blockchain/solana.md).
+I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/).
 
 [Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro. [Polygon.io](https://polygon.io/) seems to have nice APIs for getting financial market data.
 

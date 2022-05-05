@@ -1,10 +1,14 @@
 # Europe
 
-Love Europe. Specifically how varied the culture can be in such short distances. I am not too fond of how high the tax is for many EU countries is though given the benefits you get for this tax money aren't that great in my opinion.
+Love Europe. Specifically how varied the culture can be in such short distances together with beautiful and practical [cities that focus on humans over cars](https://twitter.com/ryanoferguson/status/1521745658855792645).
+
+I am not too fond of how high the tax is for many EU countries though given the benefits you get for this tax money aren't often as great in my opinion. I'd love to be able to dedicate what portion of my tax goes where.
 
 There are [many nice EU countries with lower tax](https://www.youtube.com/watch?v=qnUa3BZLoSA) though that you can work from.
 
 I am also curious how you can make EU political system more efficient, right now it seems incredibly messy.
+
+So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md) (think it might be part of EU again). Want to move to [Portugal](portugal.md) next.
 
 ## Links
 

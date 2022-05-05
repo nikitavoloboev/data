@@ -1843,6 +1843,7 @@
 - [ThreadBound](https://github.com/dtolnay/threadbound) - Make any value Sync but only available on its original thread.
 - [Lindera](https://github.com/lindera-morphology/lindera) - Morphological analysis library.
 - [JobScheduler](https://github.com/lholden/job_scheduler) - Simple cron-like job scheduling library for Rust.
+- [lifeguard](https://github.com/zslayton/lifeguard) - Object pool manager in Rust.
 
 ## Cargo Plugins
 

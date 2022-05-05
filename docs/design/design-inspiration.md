@@ -20,6 +20,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Leave Me Alone](https://leavemealone.app/)
 - [Replit](https://replit.com/)
 - [Pipe](https://www.pipe.com/)
+- [RainbowKit](https://www.rainbowkit.com/)
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)
 - [GOV.UK](https://www.gov.uk/)

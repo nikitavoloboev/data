@@ -123,3 +123,4 @@ title: Racket
 - [raco-env-lib](https://github.com/samdphillips/raco-pkg-env) - Virtualenv like tool for Racket.
 - [RacketScript Playground](https://github.com/racketscript/racketscript-playground)
 - [Racket v8.5 (2022)](https://blog.racket-lang.org/2022/04/racket-v8-5.html) ([HN](https://news.ycombinator.com/item?id=31230504))
+- [qi](https://github.com/countvajhula/qi) - General-purpose functional DSL.

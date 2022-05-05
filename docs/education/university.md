@@ -86,6 +86,7 @@ There are many more things that simply would not happen if I didn't try new thin
 
 - [Having the ability to go to college isn't the same as having the opportunity to go to college and i am sick of acting like it is.](https://twitter.com/_thotology/status/1387769165780504578)
 - [Pick the hardest classes that you are really interested in. don't sweat the grades.](https://twitter.com/aeyakovenko/status/1435351508963532800)
+- [Don't stress out about preparing and going to university. Don't overpay for things you can learn for free or for much cheaper.](https://twitter.com/starsandrobots/status/1522156611967586304)
 
 ## Links
 
