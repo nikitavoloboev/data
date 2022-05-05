@@ -76,7 +76,7 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Pinecone](https://github.com/matrix-org/pinecone) - Peer-to-peer overlay routing for the Matrix ecosystem. ([Article](https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network)) ([HN](https://news.ycombinator.com/item?id=27077660))
 - [Element raises $30M to boost Matrix (2021)](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix) ([HN](https://news.ycombinator.com/item?id=27969624))
 - [Matrix JavaScript SDK](https://github.com/matrix-org/matrix-js-sdk)
-- [Cinny](https://cinny.in/) - Web-based matrix client. ([Code](https://github.com/ajbura/cinny)) ([HN](https://news.ycombinator.com/item?id=27986376))
+- [Cinny](https://cinny.in/) - Web-based matrix client. ([Code](https://github.com/ajbura/cinny)) ([HN](https://news.ycombinator.com/item?id=27986376)) ([Web Code](https://github.com/cinnyapp/cinny-site))
 - [TheBoard](https://github.com/toger5/TheBoard) - Collaborative Whiteboard powered by the [matrix] protocol and infrastructure.
 - [matrix-media-repo](https://github.com/turt2live/matrix-media-repo) - Matrix media repository with multi-domain in mind.
 - [Sygnal](https://github.com/matrix-org/sygnal) - Reference Push Gateway for Matrix.

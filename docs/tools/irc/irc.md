@@ -6,13 +6,13 @@ title: IRC
 
 Don't spend time on IRC any more as it's UX is not great.
 
-I have [Matrix](../networking/matrix.md) with [Element](https://element.io) setup to connect to some [Freenode](https://freenode.net/) channels.
+I have [Matrix](../../networking/matrix.md) with [Element](https://element.io) setup to connect to some [Freenode](https://freenode.net/) channels.
 
 ![](https://i.imgur.com/rrI7FIp.png)
 
 Although not sure how active they are still.
 
-I once used [Textual](../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
+I once used [Textual](../../macOS/apps/textual.md) IRC client and [ZNC](http://en.wikipedia.org/wiki/ZNC) network bouncer (via [LunarBNC](https://lunarbnc.net)) to always keep me logged in to the servers as well as it keeping history logs when I am away.
 
 ## IRC commands
 
