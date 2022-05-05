@@ -93,3 +93,4 @@ Match all that don't have notes or twitter in input
 - [rare](https://github.com/zix99/rare) - Real time regex-extraction and aggregation into common formats such as histograms, bar graphs, numerical summaries, tables, and more.
 - [Regex Vis](https://regex-vis.com/) - Regex visualizer & editor. ([Code](https://github.com/Bowen7/regex-vis))
 - [I-Regexp](https://github.com/cabo/iregexp) - Interoperable Regexp Format.
+- [compose-regexp.js](https://github.com/compose-regexp/compose-regexp.js) - Build and compose maintainable regular expressions in JavaScript.

@@ -196,3 +196,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [All the Places](https://github.com/alltheplaces/alltheplaces) - Set of spiders and scrapers to extract location information from places that post their location on the internet.
 - [Spider](https://github.com/madeindjs/spider) - Multithreaded Web spider crawler written in Rust.
 - [Scrapism 2022 course](https://github.com/antiboredom/scrapism-spring-2022)
+- [Libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic.

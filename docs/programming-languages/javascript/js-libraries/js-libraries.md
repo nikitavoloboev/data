@@ -922,6 +922,7 @@
 - [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/) - Detection of elements in view port & smooth scrolling with parallax effects. ([Code](https://github.com/locomotivemtl/locomotive-scroll))
 - [LiquidJS](https://github.com/harttle/liquidjs) - Simple, expressive and safe template engine. ([Web](https://liquidjs.com/))
 - [Piling.js](https://github.com/flekschas/piling.js) - General framework and library for exploring thousands of small multiples. ([Web](https://piling.js.org/))
+- [Draggable](https://github.com/Shopify/draggable) - Get complete control over drag and drop behavior.
 
 ## Links
 

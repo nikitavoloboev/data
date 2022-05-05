@@ -157,6 +157,7 @@
 - [service-io](https://github.com/lemunozm/service-io) - Build your service-server fast, easy (and without hosting).
 - [interfaces-rs](https://github.com/andrew-d/interfaces-rs) - Library to work with network interfaces in Rust.
 - [async-net](https://github.com/smol-rs/async-net) - Async networking primitives for TCP/UDP/Unix communication.
+- [ginepro](https://github.com/TrueLayer/ginepro) - Client-side gRPC channel implementation for tonic.
 
 ## WASM
 
@@ -1838,6 +1839,7 @@
 - [Symbolic](https://github.com/getsentry/symbolic) - Stack trace symbolication library written in Rust.
 - [TinyTemplate](https://github.com/bheisler/TinyTemplate) - Minimal Lightweight Text Templating.
 - [ThreadBound](https://github.com/dtolnay/threadbound) - Make any value Sync but only available on its original thread.
+- [Lindera](https://github.com/lindera-morphology/lindera) - Morphological analysis library.
 
 ## Cargo Plugins
 

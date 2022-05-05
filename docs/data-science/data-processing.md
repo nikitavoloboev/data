@@ -103,3 +103,4 @@
 - [Fast Analysis with DuckDB + PyArrow (2022)](https://tech.gerardbentley.com/python/data/intermediate/2022/04/26/holy-duck.html) - Trying out some new speedy tools for data analysis.
 - [Why isn’t there a decent file format for tabular data? (2022)](https://successfulsoftware.net/2022/04/30/why-isnt-there-a-decent-file-format-for-tabular-data/) ([HN](https://news.ycombinator.com/item?id=31220841))
 - [Data Engineering Wiki](https://dataengineering.wiki/Index) ([Code](https://github.com/JPHaus/data-engineering-wiki))
+- [csv-clean](https://github.com/TimothyJones/csv-clean) - Command line tool to clean up malformed CSV files.

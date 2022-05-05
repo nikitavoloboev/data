@@ -153,3 +153,4 @@ title: Erlang
 - [erl_ast](https://github.com/sile/erl_ast) - Rust library for working with Abstract Syntax Trees of Erlang programs.
 - [WhatsApp Raft](https://github.com/WhatsApp/waraft) - Erlang implementation of RAFT from WhatsApp.
 - [Erlang grammar for tree-sitter](https://github.com/the-mikedavis/tree-sitter-erlang)
+- [erl_rpc](https://github.com/sile/erl_rpc) - Erlang RPC Client for Rust.

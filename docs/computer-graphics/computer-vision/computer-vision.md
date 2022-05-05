@@ -745,3 +745,4 @@
 - [CoMoGAN: continuous model-guided image-to-image translation (2021)](https://arxiv.org/abs/2103.06879) ([Code](https://github.com/cv-rits/CoMoGAN))
 - [OpenMVS](https://github.com/cdcseacave/openMVS) - Open Multi-View Stereo reconstruction library.
 - [Sliced Recursive Transformer (2021)](https://arxiv.org/abs/2111.05297) ([Code](https://github.com/szq0214/SReT))
+- [Neural Dual Contouring (2022)](https://arxiv.org/abs/2202.01999) ([Code](https://github.com/czq142857/NDC))

@@ -110,3 +110,4 @@
 - [Graph Neural Networks with convolutional ARMA filters (2021)](https://arxiv.org/abs/1901.01343) ([Code](https://github.com/xnuohz/ARMA-dgl))
 - [Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation (2021)](https://arxiv.org/abs/2110.08727) ([Code](https://github.com/snap-research/graphless-neural-networks))
 - [Geometric and Physical Quantities Improve E(3) Equivariant Message Passing (2021)](https://arxiv.org/abs/2110.02905) ([Code](https://github.com/RobDHess/Steerable-E3-GNN))
+- [Graph Attention Networks (2018)](https://arxiv.org/abs/1710.10903) ([Code](https://github.com/PetarV-/GAT))

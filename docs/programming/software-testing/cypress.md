@@ -54,3 +54,4 @@ title: Cypress
 - [Combining Storybook, Cypress and Jest Code Coverage](https://github.com/penx/storybook-code-coverage)
 - [Real World Testing with Cypress](https://learn.cypress.io/) ([Code](https://github.com/cypress-io/cypress-realworld-testing))
 - [Cypress Chrome Recorder](https://github.com/cypress-io/cypress-chrome-recorder) - Export Cypress Tests from Google Chrome DevTools' Recorder.
+- [Cypress Snapshot](https://github.com/cypress-io/snapshot) - Adds value / object / DOM element snapshot testing support to Cypress test runner.

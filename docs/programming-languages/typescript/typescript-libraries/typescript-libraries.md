@@ -502,6 +502,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [typesafe-utils](https://github.com/ivanhofer/typesafe-utils) - Collection of a few small lightweight typesafe utilities.
 - [Layr](https://github.com/layrjs/layr) - Dramatically simplify full‑stack development.
 - [ZXing](https://github.com/zxing-js/library) - Multi-format 1D/2D barcode image processing library, usable in JavaScript ecosystem.
+- [YFS](https://github.com/motifland/yfs) - Synchronize text files between the browser and the file system using the File System Access API and Yjs.
 
 ## Links
 

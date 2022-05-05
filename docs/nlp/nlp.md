@@ -571,3 +571,4 @@
 - [LM-Debugger](https://github.com/mega002/lm-debugger) - Interactive tool for inspection and intervention in transformer-based language models.
 - [100 Pages of raw notes released with the language model OPT-175](https://twitter.com/schrep/status/1521850083792154624) ([HN](https://news.ycombinator.com/item?id=31260665))
 - [Unsupervised Cross-Task Generalization via Retrieval Augmentation (2022)](https://arxiv.org/abs/2204.07937) ([Code](https://github.com/INK-USC/ReCross))
+- [On Continual Model Refinement in Out-of-Distribution Data Streams (2022)](https://github.com/facebookresearch/SemanticDebugger)

@@ -103,3 +103,4 @@ title: WebRTC
 - [Stunner](https://github.com/firefart/stunner) - Tool to test and exploit STUN, TURN and TURN over TCP servers.
 - [DetectRTC](https://github.com/muaz-khan/DetectRTC) - Is WebRTC Supported In Your Browser?
 - [Offline Browser Sync](https://github.com/pion/offline-browser-communication) - Demonstration of a browser connecting to Pion WebRTC without a signaling server.
+- [MockRTC](https://github.com/httptoolkit/mockrtc) - Powerful friendly WebRTC mock peer & proxy.

@@ -2,7 +2,7 @@
 
 There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
-[Crafting Interpreters](https://craftinginterpreters.com/) is an amazing book.
+[Crafting Interpreters](https://craftinginterpreters.com/) is an amazing book. [Exercism](https://exercism.org/) is a nice tool for language practice.
 
 ## Notes
 
@@ -366,3 +366,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Langbot](https://github.com/mortie/langbot) - Run code from many programming languages.
 - [Effekt](https://github.com/effekt-lang/effekt) - Research language with effect handlers and lightweight effect polymorphism. ([Web](https://effekt-lang.org/))
 - [Worst Design Decisions You've Ever Seen in Programming Languages (2022)](https://www.reddit.com/r/ProgrammingLanguages/comments/uhtxqi/worst_design_decisions_youve_ever_seen/)
+- [Exercism](https://exercism.org/) - Develop fluency in over 55 programming languages with our unique blend of learning, practice and mentoring. ([Twitter](https://twitter.com/exercism_io)) ([GitHub](https://github.com/exercism))
