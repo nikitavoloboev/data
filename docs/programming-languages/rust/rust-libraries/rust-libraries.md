@@ -52,6 +52,7 @@
 - [Rustea](https://github.com/lazops/rustea) - Easy-to-use TUI crate for Rust, based off of the Elm architecture.
 - [promptio](https://github.com/ynqa/promptio) - Toolkit for building your own interactive command-line tools in Rust.
 - [paris](https://github.com/0x20F/paris) - Simple way to output beautiful text in your CLI applications.
+- [Storyteller](https://github.com/foresterre/storyteller) - Library for working with multi-output multi-purpose user output.
 
 ## Web
 
@@ -290,6 +291,7 @@
 - [tokio-rusqlite](https://github.com/programatik29/tokio-rusqlite) - Asynchronous handle for rusqlite library.
 - [InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs) - Easy-use client to InfluxDB.
 - [Cornucopia](https://github.com/LouisGariepy/cornucopia) - Generate type-checked Rust from your PostgreSQL.
+- [marble](https://github.com/komora-io/marble) - Garbage-collecting disk-based object-store.
 
 ## Video
 
@@ -1840,6 +1842,7 @@
 - [TinyTemplate](https://github.com/bheisler/TinyTemplate) - Minimal Lightweight Text Templating.
 - [ThreadBound](https://github.com/dtolnay/threadbound) - Make any value Sync but only available on its original thread.
 - [Lindera](https://github.com/lindera-morphology/lindera) - Morphological analysis library.
+- [JobScheduler](https://github.com/lholden/job_scheduler) - Simple cron-like job scheduling library for Rust.
 
 ## Cargo Plugins
 

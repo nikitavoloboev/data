@@ -259,3 +259,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [How macOS manages M1 CPU cores (2022)](https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/) ([HN](https://news.ycombinator.com/item?id=31151393))
 - [macOS cross compiler toolchains](https://github.com/messense/homebrew-macos-cross-toolchains)
 - [macchanger](https://github.com/acrogenesis/macchanger) - Easily change your mac address.
+- [Moving a macOS window by clicking anywhere on it (2022)](https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/) ([HN](https://news.ycombinator.com/item?id=31273893))

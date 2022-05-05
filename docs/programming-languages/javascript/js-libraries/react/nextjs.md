@@ -146,6 +146,7 @@ title: Next.js
 - [next-dx](https://github.com/souporserious/next-dx) - Enhance NextJS development with utilities for local and remote content.
 - [next-pagination](https://github.com/etchteam/next-pagination) - Best damn pagination component. For Next.js.
 - [Next Layout Loader](https://github.com/ceteio/next-layout-loader) - File-system based nested layouts for next.js.
+- [Next SuperJSON](https://github.com/remorses/next-superjson) - Automatically transform your Next.js Pages to use SuperJSON, without losing swc support.
 
 ## Notes
 

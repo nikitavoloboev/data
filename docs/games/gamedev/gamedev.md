@@ -251,3 +251,4 @@
 - [Pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
 - [Parrot](https://github.com/maniwani/parrot) - Library of modular components for building cross-platform multiplayer games.
 - [Tools we use to make our game satisfactory (2022)](https://www.youtube.com/watch?v=o6ao9-UIZIQ) ([HN](https://news.ycombinator.com/item?id=31037430))
+- [Fabricated](https://github.com/markusmoenig/Fabricated) - Procedural game asset generator for macOS and iOS.

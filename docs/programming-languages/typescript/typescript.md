@@ -261,6 +261,7 @@ title: TypeScript
 - [Ultimate TypeScript](https://ultimatecourses.com/courses/typescript) - Supercharge your skills with TypeScript by exploring the language.
 - [tsd-lite](https://github.com/mrazauskas/tsd-lite) - Test your TypeScript types easily.
 - [Notes on Advanced TypeScript](https://dev.to/busypeoples/series/17918)
+- [Filtering arrays with TypeScript type guards (2022)](https://www.skovy.dev/blog/typescript-filter-array-with-type-guard?seed=ubtgvi)
 
 ## Images
 

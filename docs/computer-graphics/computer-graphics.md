@@ -225,3 +225,4 @@
 - [Why are 2D vector graphics so much harder than 3D? (2019)](https://blog.mecheye.net/2019/05/why-is-2d-graphics-is-harder-than-3d-graphics/) ([HN](https://news.ycombinator.com/item?id=30901537))
 - [Neural Volumes: Learning Dynamic Renderable Volumes from Images (2019)](https://arxiv.org/abs/1906.07751) ([Code](https://github.com/facebookresearch/neuralvolumes))
 - [Graphics Developer Roadmap](https://github.com/prographon/graphics-developer-roadmap)
+- [7GUIs](https://eugenkiss.github.io/7guis/tasks/) - Reflect as many typical (or fundamental or representative) challenges in GUI programming as possible. ([HN](https://news.ycombinator.com/item?id=31273802))

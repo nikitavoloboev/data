@@ -1,6 +1,6 @@
 # Swift libraries
 
-[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets. [Cache](https://github.com/hyperoslo/Cache) is nice lib for caching. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) is nice too.
+[FlyingFox](https://github.com/swhitty/FlyingFox) is nice for HTTP endpoints. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) is great SwiftUI framework. [Async Algorithms](https://github.com/apple/swift-async-algorithms) is a good lib to study. [Actomaton](https://github.com/inamiy/Actomaton) seems nice for state management. [Sheet](https://github.com/danielsaidi/Sheeeeeeeeet) is neat for action sheets. [Cache](https://github.com/hyperoslo/Cache) is nice lib for caching. [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) is nice too. [SwiftPrettyPrint](https://github.com/YusukeHosonuma/SwiftPrettyPrint) is useful for printing.
 
 ## CLI
 
@@ -339,7 +339,7 @@
 - [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca)) ([Tweet](https://twitter.com/pointfreeco/status/1389614299832741891))
 - [SwiftUI Navigation](https://github.com/pointfreeco/swiftui-navigation) - Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
 - [Swift Composable Presentation](https://github.com/darrarski/swift-composable-presentation) - Navigation helpers for SwiftUI applications build with ComposableArchitecture.
-- [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture.
+- [ComposableEnvironment](https://github.com/tgrapperon/swift-composable-environment) - Library to derive and compose Environment's in The Composable Architecture. ([Fork](https://github.com/CaptureContext/swift-composable-environment))
 - [TCACoordinators](https://github.com/johnpatrickmorgan/TCACoordinators) - Powerful navigation in the Composable Architecture via the coordinator pattern.
 - [Tokamak](https://github.com/TokamakUI/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly.
 - [Sync](https://github.com/nerdsupremacist/Sync) - Real-time Apps the SwiftUI way. ([Sync Example App](https://github.com/nerdsupremacist/SyncExampleApp))

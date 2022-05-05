@@ -294,3 +294,4 @@ title: Swift
 - [Swift AST Explorer](https://swift-ast-explorer.com/) - AST visualizer for Swift source code. ([Code](https://github.com/SwiftFiddle/swift-ast-explorer))
 - [Swift visitor design pattern (2022)](https://theswiftdev.com/swift-visitor-design-pattern/) ([Lobsters](https://lobste.rs/s/qzsplh/swift_visitor_design_pattern))
 - [The Golden Rules of weak self (2022)](https://chrisdownie.net/software/2022/04/10/the-golden-rules-of-weak-self/)
+- [Swift Cloud](https://swift.cloud/) - Fastest way to build and deploy server side Swift applications. ([GitHub](https://github.com/swift-cloud))

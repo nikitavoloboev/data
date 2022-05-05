@@ -29,6 +29,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [grammY Tests](https://github.com/dcdunkan/tests) - Write tests for your Telegram Bots made using grammY.
 - [grammY Fluent](https://github.com/the-moebius/grammy-fluent) - Fluent localization system integration for grammY Telegram bot framework.
 - [grammY validator](https://github.com/grammyjs/validator) - Validation logic for Telegram Web Bots and Login Widgets.
+- [grammY Conversations](https://github.com/grammyjs/conversations) - Conversational interfaces for grammY.
 - [grammY port of NestJS Telegraf](https://github.com/grammyjs/nestjs)
 - [grammY Web App Utils](https://github.com/grammyjs/web-app) - Building blocks for Telegram Web Apps.
 - [Backend for grammY Free Sessions](https://github.com/grammyjs/free-session-backend)

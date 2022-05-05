@@ -852,6 +852,10 @@
 - [Concepts](https://github.com/xflr6/concepts) - Formal Concept Analysis with Python.
 - [PecanPy](https://github.com/krishnanlab/PecanPy) - Fast, parallelized, memory efficient, and cache-optimized Python implementation of node2vec.
 - [Phantom types](https://github.com/antonagestam/phantom-types) - Help you make illegal states unrepresentable and avoid shotgun parsing by enabling you to practice "Parse, don't validate".
+- [Patito](https://github.com/kolonialno/patito) - Data modelling layer built on top of polars and pydantic.
+- [pyinspect](https://github.com/FedeClaudi/pyinspect) - Find functions when you can't remember their name.
+- [fancylog](https://github.com/adamltyson/fancylog) - Fancier logging with python.
+- [Netgraph](https://github.com/paulbrodersen/netgraph) - Drawing utilities for publication quality plots of networks.
 
 ## Notes
 

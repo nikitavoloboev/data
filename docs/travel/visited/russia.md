@@ -556,3 +556,4 @@ I have a [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 - [Игра Путина рассчитана до 2030 года](https://www.youtube.com/watch?v=jIwpJXlT2I0)
 - [Олег Ицхоки — станет ли Россия новой Северной Кореей и чего ждать от экономики в режиме изоляции (2022)](https://www.youtube.com/watch?v=Mx19PfTpVeo)
 - [Тайга.инфо](https://tayga.info/) - Главные новости Сибири.
+- [George Friedman book talk: The Storm Before The Calm (2022)](https://youtu.be/kr_iDUeFdb4?t=291)

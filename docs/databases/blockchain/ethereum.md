@@ -615,3 +615,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum gas optimization tips (2022)](https://twitter.com/WillPapper/status/1520592312379658241)
 - [Huff](https://github.com/JetJadeja/huffc) - Low level programming language for the Ethereum Virtual Machine.
 - [eth-pools-metrics](https://github.com/alrevuelta/eth-metrics) - Monitor the performance of your Ethereum 2.0 staking pool.
+- [RainbowKit](https://github.com/rainbow-me/rainbowkit) - Best way to connect a wallet. ([Web](https://www.rainbowkit.com/))

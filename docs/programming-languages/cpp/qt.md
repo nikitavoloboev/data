@@ -38,3 +38,4 @@ title: Qt
 - [Qt Creator](https://github.com/qt-creator/qt-creator) - Cross-platform Qt IDE.
 - [Lightly](https://github.com/Luwx/Lightly) - Modern style for qt applications.
 - [Qt 6.3 (2022)](https://www.qt.io/blog/qt-6.3-released) ([HN](https://news.ycombinator.com/item?id=31000876)) ([Lobsters](https://lobste.rs/s/l8i3jp/qt_6_3_released))
+- [QCoro](https://github.com/danvratil/qcoro) - C++ Coroutines for Qt.

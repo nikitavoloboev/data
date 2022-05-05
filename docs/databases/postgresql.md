@@ -490,3 +490,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard.
 - [Parquet and Postgres in the Data Lake (2022)](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake) ([HN](https://news.ycombinator.com/item?id=31253301))
+- [PostgreSQL collation (2022)](https://solovyov.net/blog/2022/postgresql-collation/)

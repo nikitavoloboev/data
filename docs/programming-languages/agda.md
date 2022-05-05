@@ -91,3 +91,4 @@ title: Agda
 - [Dependently typed Algorithm M and friends](https://github.com/effectfully/STLC)
 - [Experimenting on ornamentation in Agda via reflection](https://github.com/Zekt/Type-Embellishment)
 - [Non-dependent and dependent lenses](https://github.com/nad/dependent-lenses)
+- [Meta Cedille](https://github.com/WhatisRT/meta-cedille) - Minimalistic dependent type theory with syntactic metaprogramming.

@@ -2,6 +2,10 @@
 
 [Biscuit](https://www.biscuitsec.org/) auth token is neat.
 
+## Notes
+
+- [Always download the recovery codes when you enable 2FA.](https://news.ycombinator.com/item?id=31273229)
+
 ## Links
 
 - [Firebase Auth](https://firebase.google.com/docs/auth)

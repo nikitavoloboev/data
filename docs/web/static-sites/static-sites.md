@@ -41,7 +41,6 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Gridsome](https://gridsome.org/) - Modern Site Generator for Vue.js. ([Code](https://github.com/gridsome/gridsome))
 - [Cobalt](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust.
 - [Elder.js](https://github.com/Elderjs/elderjs) - SEO focused, Svelte Framework & Static Site Generator. ([Web](https://elderguide.com/tech/elderjs/)) ([HN](https://news.ycombinator.com/item?id=27152785))
-- [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
 - [Middleman](https://middlemanapp.com/) - Static site generator using all the shortcuts and tools in modern web development. ([Code](https://github.com/middleman/middleman))
 - [Bagatto](https://sr.ht/~subsetpark/bagatto/) - Extensible, transparent static site generator. ([Lobsters](https://lobste.rs/s/7ibntu/bagatto_extensible_transparent_static)) ([Getting Started](https://bagatto.co/guides/getting-started-with-bagatto.html)) ([Bagatto, a New Static Site Generator](https://blog.zdsmith.com/posts/bagatto-a-new-static-site-generator.html))
 - [Meli](https://github.com/getmeli/meli) - Open source platform for deploying static sites and frontend applications. ([HN](https://news.ycombinator.com/item?id=25387157)) ([Lobsters](https://lobste.rs/s/sut9hu/meli_netlify_like_platform_for_deploying))

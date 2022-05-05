@@ -47,6 +47,7 @@
 - [Modular Assembly Innovations](https://modularai.com/)
 - [Automation is the serialization of understanding (2022)](https://changelog.com/posts/automation-is-the-serialization-of-understanding) ([HN](https://news.ycombinator.com/item?id=31073352))
 - [Do10X](https://github.com/dotenx/dotenx) - Extremely simple and most flexible way to build any automation with no-code.
+- [Windmill](https://docs.windmill.dev/) - Developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts. ([Code](https://github.com/windmill-labs/windmill)) ([HN](https://news.ycombinator.com/item?id=31272793))
 
 ## Images
 

@@ -25,6 +25,7 @@ title: Svelte
 
 - [Svelte & Cloudflare Workers have been an amazing match for a very long time.](https://twitter.com/lukeed05/status/1450200444202991618)
 - [SvelteKit supports Netlify Edge Functions. Update your packages, add `edge: true` and you're good to go.](https://twitter.com/ascorbic/status/1516904817762914307)
+- [I usually create ‘components’, ‘stores’ folders under the lib folder. Then you can reference ‘$lib/components/something.svelte’ etc in your imports.](https://www.reddit.com/r/sveltejs/comments/uiv34e/if_lib_folder_can_do_the_same_that_components/)
 
 ## Links
 
@@ -245,3 +246,5 @@ title: Svelte
 - [Svelte Portal](https://github.com/romkor/svelte-portal) - Svelte component for rendering outside the DOM of parent component.
 - [SvelteKit Embed components](https://github.com/spences10/sveltekit-embed)
 - [Svelte(Kit) TypeScript Showcase + general TypeScript tips](https://github.com/ivanhofer/sveltekit-typescript-showcase)
+- [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
+- [Svelte Notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application.

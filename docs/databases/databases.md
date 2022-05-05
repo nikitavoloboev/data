@@ -232,6 +232,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [eyros](https://github.com/peermaps/eyros) - Multi-dimensional interval database.
 - [AntidoteDB](https://github.com/AntidoteDB/antidote) - Planet scale, highly available, transactional database built on CRDT technology. ([Web](https://www.antidotedb.eu/))
 - [DarkBird](https://github.com/Rustixir/darkbird) - Document oriented, high concurrency in-memory Storage, also persist data to disk to avoid loss any data.
+- [Apache Calcite](https://calcite.apache.org/) - Dynamic data management framework. ([Code](https://github.com/apache/calcite))
 
 ## Tools
 

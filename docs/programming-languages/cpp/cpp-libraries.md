@@ -393,6 +393,7 @@
 - [Serdepp](https://github.com/injae/serdepp) - C++ serialize and deserialize adaptor library like rust serde.rs.
 - [KelCoro](https://github.com/kelbon/kelcoro) - C++20 coroutine library.
 - [Eventuals](https://github.com/3rdparty/eventuals) - C++ library for writing asynchronous computations out of continuations.
+- [Albany](https://github.com/sandialabs/Albany) - Implicit, unstructured grid, finite element code for the solution and analysis of multiphysics problems.
 
 ## Links
 

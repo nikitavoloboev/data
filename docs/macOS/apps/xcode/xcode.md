@@ -108,3 +108,4 @@ title: Xcode
 - [Xcode Server SDK](https://github.com/buildasaurs/XcodeServerSDK) - Access Xcode Server API with native Swift objects.
 - [Hot reloading for iOS and macOS Xcode Projects (2022)](https://darioroa.com/posts/hot-reloading-xcode-projects/)
 - [xcparse](https://github.com/EvanBacon/xcparse) - Super fast pbxproj parser written in TypeScript.
+- [Xcode useful shortcuts list](https://github.com/chirag05k/Xcode-Shortcuts)

@@ -1,5 +1,7 @@
 # Peer to peer
 
+[PeerTube](https://github.com/Chocobozzz/PeerTube) is a great P2P app to study.
+
 ## Links
 
 - [Commonly asked questions about peer-to-peer networks & programs](https://github.com/noffle/p2p-faq/)

@@ -154,3 +154,5 @@
 - [WikidataR](https://github.com/TS404/WikidataR) - R package for the Wikidata API.
 - [storr](https://github.com/richfitz/storr) - Object cacher for R.
 - [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R.
+- [rayrender](https://github.com/tylermorganwall/rayrender) - R package for ray tracing scenes in created in R.
+- [eventloop](https://github.com/coolbutuseless/eventloop) - Event Loop in R.

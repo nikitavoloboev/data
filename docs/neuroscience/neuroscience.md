@@ -118,6 +118,14 @@
 - [Neuro-Nav](https://github.com/awjuliani/neuro-nav) - Set of neuroscience inspired navigation and decision making tasks.
 - [Relating Transformers to Modes and Neural Representations of the Hippocampal (2022)](https://arxiv.org/abs/2112.04035)
 - [How to learn Computational Neuroscience on your Own (a self-study guide) (2022)](https://www.youtube.com/watch?v=MhF3R_0LWbk)
+- [brainrender](https://github.com/brainglobe/brainrender) - Python based software for visualization of neuroanatomical and morphological data.
+- [BrainGlobe](https://brainglobe.info/) - Open python tools for morphological analyses in systems neuroscience. ([GitHub](https://github.com/brainglobe)) ([Twitter](https://twitter.com/brain_globe))
+- [Cellfinder](https://github.com/brainglobe/cellfinder) - Whole-brain cell detection, registration and analysis.
+- [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - Lightweight python module to interact with atlases for systems neuroscience.
+- [brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
+- [Morphapi](https://github.com/brainglobe/morphapi) - Lightweight python package for downloading neurons morphological reconstructions from publicly available datasets.
+- [cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images (e.g. whole mouse brain images).
+- [brainreg-segment](https://github.com/brainglobe/brainreg-segment) - Segmentation of 3D shapes in a common anatomical space.
 
 ## Images
 
