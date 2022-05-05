@@ -39,6 +39,7 @@
 - [sonar](https://github.com/arso-project/sonar-tantivy) - Search engine based on tantivy with a Node.js frontend.
 - [How to make PageRank faster (with lots of math and a hint of Python) (2020)](https://dev.to/karjudev/how-to-make-pagerank-faster-with-lots-of-math-and-a-hint-of-python-2e92)
 - [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/) ([HN](https://news.ycombinator.com/item?id=23473365))
+- [Stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites, built with Rust and WASM.
 - [Tinysearch](https://github.com/mre/tinysearch) - Tiny, full-text search engine for static websites built with Rust and WASM. ([Article](https://endler.dev/2019/tinysearch/)) ([HN](https://news.ycombinator.com/item?id=23473303))
 - [Tinysearch-Go](https://github.com/bradstimpson/tinysearch-go) - Go based WASM Tiny Search inspired by Endler.dev.
 - [Elasticlunr.js](http://elasticlunr.com/) - Lightweight full-text search engine in JavaScript for browser search and offline search. ([Code](https://github.com/weixsong/elasticlunr.js))
