@@ -857,6 +857,7 @@
 - [fancylog](https://github.com/adamltyson/fancylog) - Fancier logging with python.
 - [Netgraph](https://github.com/paulbrodersen/netgraph) - Drawing utilities for publication quality plots of networks.
 - [Lithops](https://github.com/lithops-cloud/lithops) - Python multi-cloud distributed computing framework.
+- [Barry](https://github.com/tomwhite/barry) - Fixed-memory serverless distributed N-dimensional array processing.
 
 ## Notes
 

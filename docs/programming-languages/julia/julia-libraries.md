@@ -96,6 +96,7 @@
 - [BetaML](https://github.com/sylvaticus/BetaML.jl) - Beta Machine Learning Toolkit.
 - [Lux](https://github.com/avik-pal/Lux.jl) - Explicitly Parameterized Neural Networks in Julia.
 - [MuseInference.jl](https://github.com/marius311/MuseInference.jl) - Fast approximate high-dimensional hierarchical Bayesian inference.
+- [InferOpt.jl](https://github.com/axelparmentier/InferOpt.jl) - Combinatorial optimization layers for machine learning pipelines.
 
 ## Math
 

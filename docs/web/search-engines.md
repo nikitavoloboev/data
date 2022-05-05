@@ -231,3 +231,4 @@
 - [Susper](https://susper.com/) - Decentralized Search Engine that uses the peer to peer system YaCy and Apache Solr to crawl and index search results. ([Code](https://github.com/fossasia/susper.com))
 - [Google This](https://github.com/LuanRT/google-this) - Simple yet powerful module to retrieve organic search results and much more from Google.
 - [How to block domains from search results (2022)](https://www.lkhrs.com/blog/2022/04/block-domains-from-search/) ([HN](https://news.ycombinator.com/item?id=31271969))
+- [SEAL](https://github.com/facebookresearch/SEAL) - Search Engines with Autoregressive Language models.
