@@ -236,3 +236,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design for Developers Book (2022)](https://www.manning.com/books/design-for-developers)
 - [Vectornator](https://www.vectornator.io/) - Create sophisticated illustrations, beautiful interface designs, amazing layouts. ([Twitter](https://twitter.com/vectornator)) ([GitHub](https://github.com/LinearityGmbH))
 - [Parametric Design course](https://github.com/FH-Potsdam/teaching-parametric-design)
+- [The design space in 2022 - Brief review & tools for the future](https://ninalimpi.com/posts/design-space-review-and-the-future)

@@ -237,3 +237,4 @@ I also share [my thoughts on finding romantic partners](seduction.md).
 - [More Than Two: A Practical Guide to Ethical Polyamory by Franklin Veaux (2014)](https://www.goodreads.com/book/show/21955937-more-than-two)
 - [Map of Non-Monogamy by Franklin Veaux](https://www.xeromag.com/nonmonogamy.html)
 - [Franklin Veaux's web page](https://www.xeromag.com/)
+- [Movies helpful when going through breakup](https://www.reddit.com/r/MovieSuggestions/comments/ujneqa/im_looking_for_movies_that_are_helpful_going/)

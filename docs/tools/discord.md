@@ -6,6 +6,8 @@ title: Discord
 
 [Harmony](https://github.com/harmonyland/harmony) & [Discord.ts](https://github.com/oceanroleplay/discord.ts) seem like nice bot libraries.
 
+I like the pattern that forces use of threads in channels. So any message you make to a room, thread will be made so further messages within that context are in a thread. Also you are blocked for adding new threads for ~ 1/2 minutes. [Svelte Discord server](https://svelte.dev/chat) does this well.
+
 ## Bots
 
 - [Needle](https://github.com/MarcusOtter/discord-needle) - Discord bot that helps you declutter your server by creating Discord threads automatically. ([Web](https://needle.gg/))

@@ -618,3 +618,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [RainbowKit](https://github.com/rainbow-me/rainbowkit) - Best way to connect a wallet. ([Web](https://www.rainbowkit.com/)) ([Tweet](https://twitter.com/rainbowdotme/status/1522276598925467649))
 - [ExcessivelySafeCall](https://github.com/nomad-xyz/ExcessivelySafeCall) - Solidity library helps you call untrusted contracts safely.
 - [Anvil](https://twitter.com/gakonst/status/1522282339073597440) - Blazing-fast local testnet node implementation, in Rust.
+- [mev-boost-rs](https://github.com/ralexstokes/mev-boost-rs) - Gateway for validators to connect to a network of block builders.

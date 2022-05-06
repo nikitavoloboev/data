@@ -998,3 +998,4 @@
 - [Dataclasses JSON](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON.
 - [flake8-pie](https://github.com/sbdchd/flake8-pie) - Flake8 extension that implements misc. lints.
 - [Example pybind11 module built with a CMake-based build system](https://github.com/pybind/cmake_example)
+- [Sphinx-Gallery](https://github.com/sphinx-gallery/sphinx-gallery) - Sphinx extension that builds an HTML version of any Python script and puts it into an examples gallery.

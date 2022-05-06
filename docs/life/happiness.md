@@ -60,6 +60,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [I’ve found only 4 things that increase my baseline happiness: 1. Time outside, ideally in nature. 2. Physical activity, preferably rigorous. 3. Meaningful relationships, with lots of play. 4. Work that has purpose, where I have agency.](https://twitter.com/ankurnagpal/status/1476574206435418121)
 - [There’s a difference between being happy and being distracted from sadness](https://twitter.com/McKeeZach/status/1510561036017049602)
 - [Happiness and balance is found in moderation in all things and knowing your limits.](https://www.reddit.com/r/fatFIRE/comments/uinysu/should_i_experiment_with_being_a_sugar_daddy/i7e2d12/?utm_source=reddit&utm_medium=web2x&context=3)
+- [Melancholy is the happiness of being sad.](https://www.youtube.com/watch?v=xNzPqFYcuKY)
 
 ## Links
 
