@@ -415,3 +415,4 @@ Awesome List
 - [snare: a Minimalistic GitHub Webhooks Runner (2022)](https://tratt.net/laurie/blog/2022/snare.html)
 - [What type of metrics you'd want GitHub to provide? (2022)](https://twitter.com/rakyll/status/1521936269038608384)
 - [GitHub Clean Branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits.
+- [Eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.

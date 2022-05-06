@@ -210,3 +210,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [How a film camera superimposes the date onto photos (2019)](https://www.youtube.com/watch?v=ezME4_xMMnk) ([HN](https://news.ycombinator.com/item?id=31031929))
 - [Share your favorite shots](https://twitter.com/KSivachukArt/status/1516781025887670281)
 - [Photos that make you smile](https://twitter.com/BraydenCreation/status/1516909684581621760)
+- [Infinite Images and the Latent Camera (2022)](https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY)

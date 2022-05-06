@@ -750,3 +750,4 @@
 - [CoCa: Contrastive Captioners are Image-Text Foundation Models (2022)](https://arxiv.org/abs/2205.01917) ([Code](https://github.com/lucidrains/CoCa-pytorch))
 - [Sequencer: Deep LSTM for Image Classification (2022)](https://arxiv.org/abs/2205.01972)
 - [Language Models Can See: Plugging Visual Controls in Text Generation (2022)](https://arxiv.org/abs/2205.02655) ([Code](https://github.com/yxuansu/MAGIC))
+- [flyswot](https://github.com/davanstrien/flyswot) - CLI for Hugging Face Transformers image classification models.

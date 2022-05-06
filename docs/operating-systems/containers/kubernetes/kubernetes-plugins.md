@@ -90,3 +90,4 @@
 - [Helm Templexer](https://github.com/hendrikmaus/helm-templexer) - Render Helm charts for multiple environments using explicit configuration.
 - [kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice) - View running kubernetes information about multi-container pods and sidecars.
 - [pykorm](https://github.com/Frankkkkk/pykorm) - Python Kubernetes Object-relational mapping (ORM).
+- [Helmwave](https://github.com/helmwave/helmwave) - Helm-native tool for deploy your Helm Charts. Like docker-compose for helm.
