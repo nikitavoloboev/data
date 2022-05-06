@@ -248,3 +248,5 @@ title: Svelte
 - [Svelte(Kit) TypeScript Showcase + general TypeScript tips](https://github.com/ivanhofer/sveltekit-typescript-showcase)
 - [Plenti](https://github.com/plentico/plenti) - Static Site Generator with Go backend and Svelte frontend. ([Web](https://plenti.co/))
 - [Svelte Notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application.
+- [Svelte SortableJS](https://github.com/jhubbardsf/svelte-sortablejs)
+- [Svelte Subscribe](https://github.com/bryanmylee/svelte-subscribe) - Subscribe to non top-level stores in your Svelte template.

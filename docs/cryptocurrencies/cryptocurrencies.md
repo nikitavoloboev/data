@@ -10,18 +10,18 @@ I think [FTX](https://ftx.com/referrals#a=58425911) is currently the cheapest wa
 
 ## Interesting
 
+- [Monero](monero.md) - Secure, private, untraceable cryptocurrency.
+- [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
+- [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [Nano](nano.md) - Peer-to-peer digital currency with fast & cheap transactions. ([Benefits of Nano](https://www.reddit.com/r/nanocurrency/comments/ksz0hi/all_the_benefits_of_nano_summarized/))
 - [Cardano SL](https://cardanodocs.com/introduction/)
-- [Monero](monero.md) - Secure, private, untraceable cryptocurrency.
 - [Libra](libra.md)
-- [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices. ([Web](https://www.mobilecoin.com))
 - [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
 - [dcc](https://github.com/PaulGustafson/dcc) - Proof of concept for a blockchain with variable hash functions for ASIC resistance. Decentralized cryptocurrency.
 - [Celo](https://celo.org/) - Platform for fast, secure, stable digital payments. ([GitHub](https://github.com/celo-org)) ([Code](https://github.com/celo-org/celo-monorepo)) ([Celo Blockchain Code](https://github.com/celo-org/celo-blockchain))
 - [Reserve](https://reserve.org/) - Flexible pool of stablecoins designed to reduce risk through diversification and decentralized governance. ([HN](https://news.ycombinator.com/item?id=25899418))
 - [Bolt Labs](https://boltlabs.tech/) - Instant, cheap and private payments. ([GitHub](https://github.com/boltlabs-inc))
 - [Nimiq](https://www.nimiq.com/) - Simple, secure and censorship resistant cryptocurrency. ([Code](https://github.com/nimiq/core-rs-albatross))
-- [Iron Fish](https://ironfish.network/) - Private, anonymous, and easy to use cryptocurrency. ([Code](https://github.com/iron-fish/ironfish))
 - [MobileCoin Fog](https://github.com/mobilecoinfoundation/fog) - Private payments for mobile devices. ([HN](https://news.ycombinator.com/item?id=26713953))
 - [Dagcoin](https://dagcoin.org/) - Cryptocurrency designed for using, not trading.
 - [Kitty Coin](https://kittycoin.cat/)

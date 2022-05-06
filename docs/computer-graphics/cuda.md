@@ -38,3 +38,4 @@ title: CUDA
 - [TSNE-CUDA](https://github.com/CannyLab/tsne-cuda) - GPU Accelerated t-SNE for CUDA with Python bindings.
 - [cuda-kat](https://github.com/eyalroz/cuda-kat) - CUDA kernel author's tools.
 - [CUDA Design Patterns](https://github.com/PatWie/cuda-design-patterns) - CUDA design patterns and a bit of template magic for CUDA.
+- [GPUMD](https://github.com/brucefan1983/GPUMD) - Graphics Processing Units Molecular Dynamics.

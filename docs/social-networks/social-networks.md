@@ -158,3 +158,4 @@
 - [Radiopaper](https://radiopaper.com/home) - Troll-resistant public conversations. ([HN](https://news.ycombinator.com/item?id=31210680))
 - [Making friends on the internet (2022)](https://jon.bo/posts/making-friends-online/) ([HN](https://news.ycombinator.com/item?id=31242800))
 - [Teen mental health is plummeting and social media is a major contributing cause (2022)](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf) ([HN](https://news.ycombinator.com/item?id=31268222))
+- [Ask HN: Has social media reached its saturation point? (2022)](https://news.ycombinator.com/item?id=31284537)

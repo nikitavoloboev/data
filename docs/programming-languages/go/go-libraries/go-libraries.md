@@ -1728,3 +1728,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go.
 - [A gentle introduction to generics in Go (2022)](https://dominikbraun.io/blog/a-gentle-introduction-to-generics-in-go/) ([Reddit](https://www.reddit.com/r/golang/comments/ugno5d/a_gentle_introduction_to_generics_in_go/))
 - [Go Debug](https://github.com/golang/debug) - Utilities and libraries for debugging Go programs.
+- [OpenTelemetry Auto-Instrumentation for Go](https://github.com/keyval-dev/opentelemetry-go-instrumentation)

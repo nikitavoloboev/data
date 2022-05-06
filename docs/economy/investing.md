@@ -2,7 +2,7 @@
 
 I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/).
 
-[Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro. [Polygon.io](https://polygon.io/) seems to have nice APIs for getting financial market data.
+[Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro. [Polygon.io](https://polygon.io/) seems to have nice APIs for getting financial market data. That said, [value investing seems hard to do in current climate](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/).
 
 ## Interesting ETFs
 
@@ -49,6 +49,7 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Always buy into a project and it’s fundamentals, ecosystem, growth potential. If the price goes up or down is irrelevant.](https://www.reddit.com/r/solana/comments/qlr599/how_you_decide_when_its_the_best_time_to_buy_sol/)
 - [Wall Street investing firms spend billions of dollars to decrease the latency between their computer systems by microseconds. The shorter the cables, the quicker they can make trades and squeeze money out of the market. That’s what you’re up against as an individual investor. You will not beat their teams of PhDs with state of the art equipment and algorithms. It’s best to buy the entire market and take your average returns.](https://www.reddit.com/r/Bogleheads/comments/tb2xc8/if_boglehead_philosophy_is_the_long_run_lazy/)
 - [Can liquidate gains from investing by moving tax free jurisdiction for 6 months and becoming fiscal resident there. Belgium has no capital gain tax if you can show that you weren't actively trading. Dubai is another option. Once you get the paper that you're a fiscal resident, sell your coins/stocks. You won't have to pay any tax. Open a brokerage account and invest that money in index funds (ETFs). You can then safely withdraw about 4% of your portfolio each year without jeopardizing it.](https://www.reddit.com/r/eupersonalfinance/comments/ufwen5/question_early_30s_about_200k_euros_looking_to/)
+- [Routing through IEX is retail's best bet for hitting a lit exchange and a fair price, but some brokers say they route through IEX and go through Citadel first.](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/)
 
 ## Links
 
@@ -276,3 +277,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Strike.Market](https://strike.market/) - Stock research website with next-gen alternative data. ([HN](https://news.ycombinator.com/item?id=31108379))
 - [Ask HN: What tech companies/industries will do well in a recession? (2022)](https://news.ycombinator.com/item?id=31180508)
 - [Automated Fundamental Analysis via Python](https://github.com/faizancodes/Automated-Fundamental-Analysis) - Python program rates stocks out of 100 based on valuation, profitability, growth, and price performance metrics, relative to sector.
+- [Where to put money during high inflation? (2022)](https://www.reddit.com/r/FIREUK/comments/uj7nky/with_inflation_predicted_to_hit_1025_by_the_end/)

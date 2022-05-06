@@ -159,6 +159,7 @@
 - [interfaces-rs](https://github.com/andrew-d/interfaces-rs) - Library to work with network interfaces in Rust.
 - [async-net](https://github.com/smol-rs/async-net) - Async networking primitives for TCP/UDP/Unix communication.
 - [ginepro](https://github.com/TrueLayer/ginepro) - Client-side gRPC channel implementation for tonic.
+- [fantoccini](https://github.com/jonhoo/fantoccini) - High-level API for programmatically interacting with web pages through WebDriver.
 
 ## WASM
 

@@ -510,6 +510,7 @@
 - [Social networks](docs/social-networks/social-networks.md)
   - [Scuttlebutt](docs/social-networks/scuttlebutt.md)
   - [Mastodon](docs/social-networks/mastodon.md)
+  - [Instagram](docs/social-networks/instagram.md)
 - [Networking](docs/networking/networking.md)
   - [HTTP](docs/networking/http.md)
   - [TCP](docs/networking/tcp.md)

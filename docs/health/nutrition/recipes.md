@@ -91,3 +91,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [CMU's Recipe Archive](https://www.cs.cmu.edu/~mjw/recipes/) ([HN](https://news.ycombinator.com/item?id=30814323))
 - [CookTime](https://letscooktime.com/) - Recipe index. ([HN](https://news.ycombinator.com/item?id=31201528))
 - [Recipe Yak](https://recipeyak.com/) - Place to store, share, and create recipes. ([Code](https://github.com/recipeyak/recipeyak))
+- [Recipe Hunt](https://recipehunt.app/) - Recipe Search Engine. ([HN](https://news.ycombinator.com/item?id=31284873))

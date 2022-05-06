@@ -496,3 +496,5 @@ all: unset
 - [18 GitHub Repositories to Become a CSS Master (2022)](https://madza.hashnode.dev/18-github-repositories-to-become-a-css-master)
 - [Building a combined CSS-aspect-ratio-grid (2022)](https://9elements.com/blog/combined-aspect-ratio-grid/)
 - [Turret CSS](https://turretcss.com/) - Responsive Front-end Framework for Accessible and Semantic Websites. ([Code](https://github.com/turretcss/turretcss))
+- [Is .css a bad idea? Is inlining the way forward? (2022)](https://www.youtube.com/watch?v=3sMflOp5kiQ)
+- [Ordering CSS Declarations (2022)](https://blog.jim-nielsen.com/2022/ordering-css-delcarations/) ([HN](https://news.ycombinator.com/item?id=31259627))

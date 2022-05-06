@@ -55,3 +55,4 @@
 - [Plain Text - Dylan Beattie (2021)](https://www.youtube.com/watch?v=_mZBa3sqTrI)
 - [Low Complexity Communication Codec (LC3)](https://github.com/google/liblc3)
 - [ltp](https://github.com/socketsupply/ltp) - High performance, readable, and maintainable, in-place encoding format.
+- [Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids)

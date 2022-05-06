@@ -100,6 +100,7 @@
 - [Europa Component Library](https://ec.europa.eu/component-library/) ([Code](https://github.com/ec-europa/europa-component-library))
 - [Kaizen Design System](https://cultureamp.design/) ([Code](https://github.com/cultureamp/kaizen-design-system))
 - [Backpack](https://backpack.github.io/) - Skyscanner's Design System. ([iOS Code](https://github.com/Skyscanner/backpack-ios)) ([Code](https://github.com/Skyscanner/backpack))
+- [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) - Open Source Admin Template for Chakra UI & React.
 
 ## Notes
 

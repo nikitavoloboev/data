@@ -344,3 +344,4 @@ title: ML Libraries
 - [FasterTransformer Backend](https://github.com/triton-inference-server/fastertransformer_backend) - Triton backend for the FasterTransformer.
 - [Nixtla](https://github.com/Nixtla/nixtla) - Automated time series processing and forecasting.
 - [FederatedScope](https://github.com/alibaba/FederatedScope) - Easy-to-use federated learning platform.
+- [Habitat Lab](https://github.com/facebookresearch/habitat-lab) - Modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.

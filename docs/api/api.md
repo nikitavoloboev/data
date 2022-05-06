@@ -151,15 +151,6 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 - [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
-- [Instagram Go](https://github.com/Davincible/goinsta) - Unofficial Instagram API written in Go. Updated recently.
-- [Instagram Python](https://github.com/adw0rd/instagrapi) - Fastest and powerful Python library for Instagram Private API.
-- [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) - Instagram Private API Swift.
-- [Instagram Private API in Python](https://github.com/ping/instagram_private_api)
-- [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
-- [Swiftagram](https://github.com/sbertix/Swiftagram) - Modern Swift wrapper for Instagram Private API.
-- [Instagram Private Web API client](https://github.com/jlobos/instagram-web-api)
-- [InstaLooter](https://github.com/althonos/InstaLooter) - API-less Instagram pictures and videos downloader.
-- [Goofy](https://github.com/yvessavoy/goofy) - Rust bindings to the mobile instagram API.
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Google Suggest API](https://github.com/eugeneware/suggestion)
 - [Incident.io Go](https://github.com/andygrunwald/go-incident)
@@ -401,3 +392,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Hyper](https://hyper.io/) - One consistent, frictionless API to manage data, cache, storage, search, and queue services. ([Hyper Remix Stack](https://blog.hyper.io/introducing-the-alternative-stack/)) ([Code](https://github.com/hyper63/hyper))
 - [Akita](https://docs.akita.software/) - Helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. ([CLI](https://github.com/akitasoftware/akita-cli))
 - [Public API Lists](https://github.com/public-api-lists/public-api-lists)
+- [Predator](https://github.com/Zooz/predator) - Powerful open-source platform for load testing APIs. ([Web](https://www.predator.dev/))

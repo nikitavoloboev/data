@@ -43,7 +43,7 @@ title: OCaml
 - [oskel](https://github.com/CraigFe/oskel) - Skeleton generator for OCaml projects.
 - [OCaml-CI](https://github.com/ocurrent/ocaml-ci) - CI for OCaml projects.
 - [OCurrent](https://github.com/ocurrent/ocurrent) - Allows you to specify a workflow / pipeline for keeping things up-to-date.
-- [Real World OCaml book](https://dev.realworldocaml.org/) - Functional programming for the masses. ([Code](https://github.com/realworldocaml/book))
+- [Real World OCaml Book (2021)](https://dev.realworldocaml.org/) - Functional programming for the masses. ([Code](https://github.com/realworldocaml/book)) ([HN](https://news.ycombinator.com/item?id=31272116))
 - [Domical](https://github.com/louisabraham/domical) - In-browser OCaml notebooks.
 - [Bisect_ppx](https://github.com/aantron/bisect_ppx) - Code coverage for OCaml and Reason.
 - [An in-depth Look at OCaml’s new “Best-fit” Garbage Collector Strategy (2020)](http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=22663297))

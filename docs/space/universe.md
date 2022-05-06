@@ -60,3 +60,4 @@
 - [How did early physicists know that the universe is expanding? (2022)](https://www.reddit.com/r/AskPhysics/comments/spvf5h/how_did_early_physicists_know_that_the_universe/)
 - [What were some popular theories about the origin of the Universe before we accepted the Big Bang as the best one?](https://www.reddit.com/r/askscience/comments/t6nrtj/what_were_some_popular_theories_about_the_origin/)
 - [Red Dwarfs Will Be Humanity’s Last Home Before the Universe Dies (2022)](https://medium.com/predict/red-dwarfs-will-be-humanitys-last-home-before-the-universe-dies-b567fcfa6081) ([HN](https://news.ycombinator.com/item?id=30669483))
+- [Where Do Space, Time and Gravity Come From? (2022)](https://www.quantamagazine.org/where-do-space-time-and-gravity-come-from-20220504/) ([HN](https://news.ycombinator.com/item?id=31282642))

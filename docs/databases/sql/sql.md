@@ -193,3 +193,4 @@ title: SQL
 - [Balsa](https://github.com/balsa-project/balsa) - Learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine.
 - [Learn BigQuery](https://scosco.github.io/learn-bigquery/)
 - [SQL Graphviz](https://github.com/rm-hull/sql_graphviz) - Python 3 script that generates a Graphviz visualization of a SQL schema dump.
+- [Functional Programming on Top of SQL Engines (2022)](https://www.youtube.com/watch?v=_gfK0Tn_N7w)

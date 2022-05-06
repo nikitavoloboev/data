@@ -119,7 +119,6 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 ## Design System
 
 - Components - [Tailwind UI](https://tailwindui.com/), [React Aria](https://react-spectrum.adobe.com/react-aria/), [Stitches](https://stitches.dev/)
-- [Storybook](https://storybook.js.org/) - View/test components on web.
 
 ## Payment
 

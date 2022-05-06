@@ -19,3 +19,5 @@ title: Logseq
 - [Logseq Docs](https://docs.logseq.com/#/page/Contents) ([Code](https://github.com/logseq/docs))
 - [Open Logseq in VS Code](https://github.com/rebornix/logseq-open-in-code) - Open and edit Logseq pages and config files in VS Code.
 - [nbb-logseq](https://github.com/logseq/nbb-logseq) - Provides easy CLJS scripting on Node.js for Logseq.
+- [Logseg Publish Action](https://github.com/pengx17/logseq-publish) - Publish your Logseq graph with a GitHub Action.
+- [Logseq Calendar Plugin](https://github.com/haydenull/logseq-plugin-agenda)

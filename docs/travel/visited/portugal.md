@@ -10,3 +10,4 @@ Portugal is [great](https://twitter.com/tomazstolfa/status/1454441367359430663).
 - [Portugal's Startup Ecosystem (2021)](https://idcportugal.com/wp-content/uploads/2021/Startup_Final.pdf)
 - [Nice places to work from, good food in Portugal](https://twitter.com/monicalent/status/1513236925234225153)
 - [Who to meet in Lisbon](https://twitter.com/frankdilo/status/1521417284090314753)
+- [Devouring the Heart of Portugal (2022)](https://www.damninteresting.com/devouring-the-heart-of-portugal/) ([HN](https://news.ycombinator.com/item?id=31277743))

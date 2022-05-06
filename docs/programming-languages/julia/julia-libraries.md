@@ -587,6 +587,7 @@
 - [ProfileView.jl](https://github.com/timholy/ProfileView.jl) - Visualization of Julia profiling data.
 - [Observables](https://github.com/JuliaGizmos/Observables.jl) - Observables are like Refs but you can listen to changes.
 - [TimeZones.jl](https://github.com/JuliaTime/TimeZones.jl) - IANA time zone database access for Julia.
+- [SumTypes](https://github.com/MasonProtter/SumTypes.jl) - Implementation of sum types.
 
 ## Links
 

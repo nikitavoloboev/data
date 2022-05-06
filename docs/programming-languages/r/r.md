@@ -157,3 +157,4 @@
 - [rayrender](https://github.com/tylermorganwall/rayrender) - R package for ray tracing scenes in created in R.
 - [eventloop](https://github.com/coolbutuseless/eventloop) - Event Loop in R.
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty.
+- [testthat](https://github.com/r-lib/testthat) - R package for testing.
