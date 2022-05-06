@@ -41,3 +41,4 @@ title: NestJS
 - [NestJS-Spelunker](https://github.com/jmcdo29/nestjs-spelunker) - NestJS Module for generating a NestJS Applications Module Dependency Graph.
 - [Functional-NestJS](https://github.com/ltnscp9028/functional-nestjs) - Functional Programming with NestJS, Prisma. Immutable, pure, stateless.
 - [NestJS-Pino](https://github.com/iamolegga/nestjs-pino) - Platform agnostic logger for NestJS based on Pino.
+- [Nestia](https://github.com/samchon/nestia) - Automatic SDK and Document generator for NestJS.
