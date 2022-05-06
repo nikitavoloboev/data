@@ -165,3 +165,4 @@ title: Vue.js
 - [vuensight](https://github.com/martinascharrer/vuensight) - Visualize Vue.js component relationships and communication channels, i.e. props, events and slots.
 - [Nuxt UI](https://github.com/nuxt/ui) - Unified UI and Design Kit for the Nuxt.
 - [Splitpanes](https://github.com/antoniandre/splitpanes) - VueJS reliable, simple and touch-ready panes splitter / resizer.
+- [Nuxt Content](https://github.com/nuxt/content) - File based Headless CMS for modern websites built with Nuxt. ([Docs](https://content.nuxtjs.org/))
