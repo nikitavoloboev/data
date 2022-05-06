@@ -27,3 +27,4 @@ title: Framer
 - [Framer Tips](https://framer.tips/)
 - [Motion Developer Tools](https://motion.dev/tools) ([Tweet](https://twitter.com/mattgperry/status/1505918782685921282))
 - [Framer Sites: Overlays (2022)](https://www.youtube.com/watch?v=4cQ2McgDWk0)
+- [Feature storytelling with Framer Motion (2022)](https://planetscale.com/blog/feature-storytelling-with-framer-motion)

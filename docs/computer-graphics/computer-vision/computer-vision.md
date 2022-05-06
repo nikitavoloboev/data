@@ -748,3 +748,4 @@
 - [Neural Dual Contouring (2022)](https://arxiv.org/abs/2202.01999) ([Code](https://github.com/czq142857/NDC))
 - [Awesome Deblurring](https://github.com/subeeshvasu/Awesome-Deblurring) - Curated list of resources for Image and Video Deblurring.
 - [CoCa: Contrastive Captioners are Image-Text Foundation Models (2022)](https://arxiv.org/abs/2205.01917) ([Code](https://github.com/lucidrains/CoCa-pytorch))
+- [Sequencer: Deep LSTM for Image Classification (2022)](https://arxiv.org/abs/2205.01972)

@@ -4,6 +4,8 @@ title: DAOs
 
 # [DAOs](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization)
 
+I think DAOs can be interesting for crowd funding with benefits baked in. One example of this is [buying a community mansion together](https://twitter.com/marty/status/1522312983531163649).
+
 ## Interesting
 
 - [Station](https://www.station.express/) - Connecting people and projects in Web3. ([Twitter](https://twitter.com/0xStation))

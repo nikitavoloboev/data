@@ -246,3 +246,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Acorn](https://github.com/oakserver/acorn) - Focused RESTful server framework for Deno.
 - [Tokenizer](https://github.com/denosaurs/tokenizer) - Simple tokenizer for deno.
 - [Deno Showcase](https://deno.land/showcase) - Websites, apps, and other products built with Deno.
+- [Deno needs a package manager](https://twitter.com/seldo/status/1522223551746494466)

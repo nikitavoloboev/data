@@ -12,6 +12,7 @@ I love Git and version control. And I use version control over any project I do.
 - Squash + rebase (for feature branches) are good for PRs. No one cares that it took you 20 tries to get the feature right, what matters is what went into the pull request, which is usually one commit.
 - [To me the beauty of git stems from the fact that it is an implementation of a functional data structure. It‘s a tree index that is read-only, and updating it involves creating a complete copy of the tree and giving it a new name. Then the only challenge is to make that copy as cheap as possible - for which the tree lends itself, as only the nodes on the path to the root need to get updated. As a result, you get lock-free transactions (branches) and minimal overhead. It is so beautiful in fact that when I think about systems that need to maintain long-running state in concurrent environments, my first reaction is ”split up the state into files, and maintain it through git“.](https://news.ycombinator.com/item?id=21418033)
 - [PRs with mandatory review within a company are a bit of an antipattern/red flag IMO. Cycle time automatically gets long. Even when pairing, changes can be put up for review if the authors want more feedback, so it's not a binary choice.](https://twitter.com/sanityinc/status/1313206571606978560)
+- [Git commit message tip: Describe what the code does, not what you did to the code.](https://twitter.com/iammerrick/status/1522321689232625664)
 
 ## Code
 

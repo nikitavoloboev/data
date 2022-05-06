@@ -81,6 +81,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Piccalilli](https://piccalil.li/)
 - [Espresso Systems](https://www.espressosys.com/)
 - [Exyte](https://exyte.com/)
+- [Manor DAO](https://manordao.com/)
 - [Reflect](https://reflect.app/)
 - [Dagster](https://dagster.io/)
 - [Zipcall](https://zipcall.io/)

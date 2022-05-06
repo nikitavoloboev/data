@@ -1,6 +1,6 @@
 # Data Visualization
 
-[Vega](https://vega.github.io/) is great.
+[Vega](https://vega.github.io/) is great. [Hands-On Data Visualization Book](https://handsondataviz.org/) is nice intro.
 
 ## Nice examples
 
@@ -158,3 +158,4 @@
 - [gridviz](https://github.com/eurostat/gridviz) - JavaScript library for visualizing large amounts of gridded data client-side, through the power of WebGL.
 - [tmap](https://github.com/reymond-group/tmap) - Very fast visualization library for large, high-dimensional data sets.
 - [Mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown. ([Docs](https://mermaid-js.github.io/mermaid/#/)) ([HN](https://news.ycombinator.com/item?id=31273777))
+- [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code Book](https://handsondataviz.org/) ([Code](https://github.com/handsondataviz/book))

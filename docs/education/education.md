@@ -4,6 +4,8 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 
 There is [more and more homeschoolers](https://twitter.com/fatherhoodninja/status/1507112802879737864) for good reason. There should be more tools built for them. Tools like [Primer](https://primer.com/), [Khan Academy](https://www.khanacademy.org/), [Learney](https://www.learney.me) & [Synthesis](https://www.synthesis.is/).
 
+What's wild to me is just how few people can write code. Some say it's [~ 30M](https://twitter.com/Ruchin_Kulkarni/status/1522063234378780672). Trying my best to push this number up. Being able to code is not only for the job of becoming a programmer, it's a skill that you can apply in the world of atoms too. Lots of things to be automated still.
+
 ## Notes
 
 - Try to use multiple aspects of your brain at once when learning. One of the best "learn about learning" lessons I ever had was studying jazz theory. My teacher used a four-way method of learning chords - say the name of the chord, visualize it on the keyboard, feel the shape your hands make to play the chord, and listen to the sound of the chord. I've applied this sort of approach to all sorts of skills since then.

@@ -2,7 +2,7 @@
 
 I share [YouTube playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid) (all but [Good Music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) are quite outdated).
 
-[Descript](https://www.descript.com/) is amazing for video editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself). [YT-DLP](https://github.com/yt-dlp/yt-dlp) is great for downloading videos from the web.
+[Descript](https://www.descript.com/) is amazing for video/sound editing. [Cloudflare Video is great for hosting videos](https://twitter.com/elithrar/status/1504254198111776769) (aside from [YouTube](https://youtube.com/) itself). [YT-DLP](https://github.com/yt-dlp/yt-dlp) is great for downloading videos from the web.
 
 Prefer [Google Meet](https://meet.google.com/) for video calls.
 

@@ -4,6 +4,8 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and [mini
 
 All of that is not enough though unless a [global carbon tax is implemented](https://news.ycombinator.com/item?id=29349066) together with a [global ban / high tax on plastics](https://twitter.com/living_marble/status/1509545853966434306). [This](https://twitter.com/ben_j_todd/status/1494660872152784897) is a nice thread on effective way to tackle climate change. So as [this comment and the steps inside](https://www.reddit.com/r/worldnews/comments/tww01g/un_warns_earth_firmly_on_track_toward_an/i3i34t5/?utm_source=reddit&utm_medium=web2x&context=3). Also [cutting emissions is of utmost importance](https://twitter.com/Peters_Glen/status/1521384059745800193).
 
+We also need to focus all our efforts on [halting & reversing extinctions of animals and insects](https://twitter.com/TonyJuniper/status/1522094235365052416).
+
 ## Notes
 
 - [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
@@ -11,6 +13,7 @@ All of that is not enough though unless a [global carbon tax is implemented](htt
 - [Don't tell me you are committed to net-zero 2050. Tell me how you plan to reduce emissions by at least 3% of their current value during this year, next year, and every year after that until you actually get to zero.](https://twitter.com/RARohde/status/1441397729381519360)
 - [If we actually lived in a democracy, we'd halt climate breakdown.](https://twitter.com/ClimateHuman/status/1458272108266418176)
 - [The world dumps a jaw-dropping 17.6 billion pounds (8 billion kilograms) of new plastic into the oceans each year.](https://gizmodo.com/why-trying-to-clean-up-all-the-ocean-plastic-is-pointle-1848111529)
+- [Study detects a 60% drop in flying insect populations in 20 years! Halting & reversing this is going to require a huge effort on many levels. Reconnecting & expanding habitat will be a vital part of it.](https://twitter.com/TonyJuniper/status/1522094235365052416)
 
 ## Links
 

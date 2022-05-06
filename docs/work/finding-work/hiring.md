@@ -15,6 +15,7 @@
 
 ## Nice Job pages
 
+- [Anthropic - Come work with us](https://www.anthropic.com/#careers) ([Tweet](https://twitter.com/andy_l_jones/status/1521992757803323393))
 - [Linear - In Search of Magic](https://linear.app/readme)
 - [Careers at Notion](https://www.notion.so/careers)
 - [Primer - Founding Front End Engineer](https://www.notion.so/Founding-Frontend-Engineer-San-Francisco-783c2072b9c047a88cb884babb47ef04)

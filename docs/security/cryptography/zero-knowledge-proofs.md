@@ -4,6 +4,8 @@ title: Zero knowledge proofs
 
 # [Zero knowledge proofs](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
+[RISC Zero](https://github.com/risc0/risc0) looks neat.
+
 ## Links
 
 - [ZKP in WebAssembly](https://zkwasm.kobi.one/)
