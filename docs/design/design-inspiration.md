@@ -19,6 +19,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Remix](https://remix.run/)
 - [Leave Me Alone](https://leavemealone.app/)
 - [Replit](https://replit.com/)
+- [Luma](https://lu.ma/)
 - [Pipe](https://www.pipe.com/)
 - [RainbowKit](https://www.rainbowkit.com/)
 - [Stripe](https://stripe.com/)

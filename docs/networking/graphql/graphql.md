@@ -4,9 +4,11 @@ title: GraphQL
 
 # [GraphQL](https://graphql.org/)
 
-[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/) & [URQL](https://formidable.com/open-source/urql/) are great. [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty) & [Pothos GraphQL](https://github.com/hayes/pothos) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
+Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up GraphQL APIs. [URQL](https://formidable.com/open-source/urql/) is great GraphQL react client.
 
-- [One Week GraphQL](https://oneweekgraphql.com/) is great course.
+[GraphQL Yoga](https://www.graphql-yoga.com/), [PostGraphile](https://www.graphile.org/postgraphile/), [StepZen](https://stepzen.com/), [subZero](https://subzero.cloud/), [Juniper](https://github.com/graphql-rust/juniper), [Supabase GraphQL](https://news.ycombinator.com/item?id=30846006), [GQty](https://github.com/gqty-dev/gqty) & [Pothos GraphQL](https://github.com/hayes/pothos) look interesting too. [Domain Graph](https://domaingraph.io/) seems awesome for visualizing GraphQL schemas.
+
+[One Week GraphQL](https://oneweekgraphql.com/) is great course.
 
 ## Notes
 

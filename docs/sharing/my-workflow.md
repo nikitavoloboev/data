@@ -81,7 +81,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 - Server APIs - [Go](https://golang.org/). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/)
 - Scripts & CLI tools - [Deno](../web/deno.md) or [Go](../programming-languages/go/go.md)
 - Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](https://www.prisma.io/) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
-- GraphQL - [Graphile Starter](https://github.com/graphile/starter)
+- GraphQL - [GraphJin](https://github.com/dosco/graphjin) or [Graphile Starter](https://github.com/graphile/starter)
 - Auth (SSO, 2FA) - [Firebase Auth](https://firebase.google.com/docs/auth) if I use Firebase. Otherwise User table modeled well.
 - iOS/macOS apps - [Swift](../programming-languages/swift/swift.md)/[SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md). Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
 - Docs - [Docusaurus](../tools/docusaurus.md)

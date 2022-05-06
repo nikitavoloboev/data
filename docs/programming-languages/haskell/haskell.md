@@ -423,3 +423,4 @@ title: Haskell
 - [Modularizing GHC (2022)](https://hsyl20.fr/home/files/papers/2022-ghc-modularity.pdf) ([Reddit](https://www.reddit.com/r/haskell/comments/uhdu4l/modularizing_ghc_paper/)) ([HN](https://news.ycombinator.com/item?id=31250141))
 - [Leksah](https://github.com/leksah/leksah) - Haskell IDE. ([Web](http://leksah.org/))
 - [Haskell for Working Programmers](https://github.com/liftM/haskell-for-working-programmers)
+- [Profiteur](https://github.com/jaspervdj/profiteur) - Visualizer for Haskell (GHC) prof files. ([Improving performance of your Haskell code with profiteur](https://medium.com/e-bot7-tech/improving-performance-of-your-haskell-code-with-profiteur-8d2e025b6779))

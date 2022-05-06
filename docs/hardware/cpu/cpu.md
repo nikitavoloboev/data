@@ -154,3 +154,4 @@
 - [Inside the Apple-1's shift-register memory (2022)](http://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html)
 - [The AMD Branch (Mis)predictor: New Types and Methods of Straight-Line Speculation (SLS) Vulnerabilities (2022)](https://grsecurity.net/amd_branch_mispredictor.pdf)
 - [Assembler Simulator](https://github.com/exuanbo/assembler-simulator) - Simulator of 8-bit CPU using the "Samphire" Microprocessor Simulator instruction set.
+- [Y86 Emulator](https://y86.js.org/) - Y86 pipeline CPU simulator in JavaScript. ([Code](https://github.com/shuding/y86))

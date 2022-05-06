@@ -14,6 +14,7 @@ I am curious what society where everyone agreed to use only anonymous currencies
 - [Can also buy LiteCoin on coin base, send to cake wallet address, convert to Monero.](https://www.reddit.com/r/Monero/comments/qu2dhq/monero_has_a_serious_user_friendly_problem/)
 - [Bisq can be a nice decentralized exchange to swap coins for Monero.](https://www.reddit.com/r/Monero/comments/qwuycs/kraken_no_longer_supporting_monero_in_uk/)
 - [It's very risky to hold Monero on any of the centralized exchanges. Use a wallet.](https://www.reddit.com/r/Monero/comments/rp2lpp/withdraw_your_coins_this_is_not_a_drill/)
+- [The basic idea is to encrypt amounts in a way that addition still works. This way, you can add up all the money in the system to see that it's the right amount, but without being able to see individual balances. The other idea is that addresses in Monero are actually seeds, which allow the sender to pick a random destination for the money. The private key allows the receiver to find the money and claim it. Without the private keys, it's impossible to see which funds belong to which addresses. Monero transactions also include decoys, which further confuse the flow of money. None of these methods are perfect on their own, but together they provide excellent privacy.](https://www.reddit.com/r/Monero/comments/uj0c3k/is_monero_completely_anonymous_or_as_anonymous_as/)
 
 ## Links
 
