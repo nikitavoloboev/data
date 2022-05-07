@@ -751,3 +751,4 @@
 - [Sequencer: Deep LSTM for Image Classification (2022)](https://arxiv.org/abs/2205.01972)
 - [Language Models Can See: Plugging Visual Controls in Text Generation (2022)](https://arxiv.org/abs/2205.02655) ([Code](https://github.com/yxuansu/MAGIC))
 - [flyswot](https://github.com/davanstrien/flyswot) - CLI for Hugging Face Transformers image classification models.
+- [Neural 3D Scene Reconstruction with the Manhattan-world Assumption (2022)](https://zju3dv.github.io/manhattan_sdf/) ([Code](https://github.com/zju3dv/manhattan_sdf))

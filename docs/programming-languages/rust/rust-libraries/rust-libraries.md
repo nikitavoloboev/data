@@ -570,6 +570,7 @@
 - [Verified Rust for low-level systems code](https://github.com/secure-foundations/verus)
 - [nrf-hal](https://github.com/nrf-rs/nrf-hal) - HAL for the nRF51, nRF52 and nRF91 families of microcontrollers.
 - [Embedded SD/MMC](https://github.com/rust-embedded-community/embedded-sdmmc-rs) - SD/MMC library with FAT16/FAT32 support, suitable for Embedded Rust systems.
+- [embedded-io](https://github.com/embassy-rs/embedded-io) - IO traits for embedded systems.
 
 ## ML
 
