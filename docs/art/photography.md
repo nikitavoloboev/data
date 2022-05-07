@@ -211,3 +211,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Share your favorite shots](https://twitter.com/KSivachukArt/status/1516781025887670281)
 - [Photos that make you smile](https://twitter.com/BraydenCreation/status/1516909684581621760)
 - [Infinite Images and the Latent Camera (2022)](https://mirror.xyz/herndondryhurst.eth/eZG6mucl9fqU897XvJs0vUUMnm5OITpSWN8S-6KWamY)
+- [SEO Basics for Photographers (2016)](https://jacobwgillespie.com/2016-10-07-seo-basics-for-photographers)

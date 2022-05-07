@@ -527,3 +527,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [FlyCode](https://www.flycode.com/) - Git-Based Copy and Translations Editor for Web Apps. ([HN](https://news.ycombinator.com/item?id=31166924))
 - [How to write a Git commit message (2014)](https://cbea.ms/git-commit/) ([HN](https://news.ycombinator.com/item?id=31173484))
 - [Changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
+- [git-sync](https://github.com/jacobwgillespie/git-sync) - Fast-forward outdated branches and remove merged and deleted upstream branches.

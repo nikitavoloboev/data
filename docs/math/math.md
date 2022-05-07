@@ -358,3 +358,4 @@
 - [Things I would like to see in a computer algebra system (2022)](https://fredrikj.net/blog/2022/04/things-i-would-like-to-see-in-a-computer-algebra-system/) ([HN](https://news.ycombinator.com/item?id=31101332))
 - [Oldest mathematical text that you have seriously engaged with a substantial portion of?](https://twitter.com/JulietteBruce12/status/1518312216298098688)
 - [Ask HN: Books that made you fascinated to learn more mathematics? (2022)](https://news.ycombinator.com/item?id=31245405)
+- [Are there any things in math you wish you could rename? (2022)](https://www.reddit.com/r/math/comments/ujfd27/are_there_any_things_in_math_you_wish_you_could/)

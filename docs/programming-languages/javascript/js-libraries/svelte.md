@@ -4,7 +4,7 @@ title: Svelte
 
 # [Svelte](https://svelte.dev/)
 
-[SvelteKit on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) is nice starter.
+[SvelteKit on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) is nice starter. Use [Imagetools](https://github.com/JonasKruckenberg/imagetools/) for optimizing images for use with Svelte.
 
 ## Example sites
 

@@ -25,3 +25,4 @@ title: FastAPI
 - [FastAPI + SQLModel + Alembic](https://github.com/testdrivenio/fastapi-sqlmodel-alembic) - Sample FastAPI project that uses async SQLAlchemy, SQLModel, Postgres, Alembic, and Docker.
 - [Feature rich robust FastAPI template](https://github.com/s3rius/FastAPI-template)
 - [FastAPI Security](https://github.com/jacobsvante/fastapi-security) - Add authentication and authorization to your FastAPI app via dependencies.
+- [Flask vs FastAPI? (2022)](https://www.reddit.com/r/Python/comments/ujoggf/flask_vs_fastapi/)
