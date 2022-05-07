@@ -160,6 +160,7 @@
 - [async-net](https://github.com/smol-rs/async-net) - Async networking primitives for TCP/UDP/Unix communication.
 - [ginepro](https://github.com/TrueLayer/ginepro) - Client-side gRPC channel implementation for tonic.
 - [fantoccini](https://github.com/jonhoo/fantoccini) - High-level API for programmatically interacting with web pages through WebDriver.
+- [Okapi](https://github.com/GREsau/okapi) - OpenAPI (AKA Swagger) document generation for Rust projects.
 
 ## WASM
 
@@ -410,7 +411,7 @@
 - [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [Golden Tests](https://github.com/jfecher/golden-tests) - Golden file testing library for rust.
 - [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - Mutation testing tool for Rust.
-- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust. ([Tweet](https://twitter.com/sunshowers6/status/1493283867297337345)) ([Reddit](https://www.reddit.com/r/rust/comments/sshvzy/cargonextest_a_new_test_runner_for_rust_projects/))
+- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust. ([Tweet](https://twitter.com/sunshowers6/status/1493283867297337345)) ([Reddit](https://www.reddit.com/r/rust/comments/sshvzy/cargonextest_a_new_test_runner_for_rust_projects/)) ([Docs](https://nexte.st/))
 - [assay](https://github.com/mgattozzi/assay) - Super powered testing macro for Rust.
 - [rusty-fork](https://github.com/AltSysrq/rusty-fork) - Run Rust tests in isolated subprocesses.
 - [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.
@@ -695,6 +696,7 @@
 - [cascade](https://github.com/InquisitivePenguin/cascade) - Dart-like cascade expressions in Rust.
 - [Impl-tools](https://github.com/kas-gui/impl-tools) - Set of helper macros.
 - [inline-proc](https://github.com/SabrinaJewson/inline-proc) - Inline procedural macros for Rust.
+- [Pomelo](https://github.com/rodrigorc/pomelo) - Procedural macro to create Lemon-like parsers.
 
 ## Math
 

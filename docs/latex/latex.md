@@ -135,3 +135,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Neat LaTeX tricks (2022)](https://twitter.com/gpxl_/status/1511922614842761216)
 - [Template for LaTeX-based Network Diagrams](https://github.com/mbugert/latex-network-diagram-template)
 - [LaTeX2e Kernel Code](https://github.com/latex3/latex2e)
+- [Nix configuration for building LaTeX documents](https://github.com/dnadales/nix-latex-template)

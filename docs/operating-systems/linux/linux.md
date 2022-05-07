@@ -401,7 +401,7 @@ title: Linux
 - [Beginner's Guide to eBPF Programming for Networking](https://github.com/lizrice/ebpf-networking)
 - [How does apt render its fancy progress bar? (2021)](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html) ([HN](https://news.ycombinator.com/item?id=28850036))
 - [rust-vmm Community](https://github.com/rust-vmm/community) - Open-source project that empowers the community to build custom Virtual Machine Monitors (VMMs) and hypervisors.
-- [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner. ([Code](https://github.com/mhausenblas/modern-linux.info))
+- [Learning Modern Linux](https://modern-linux.info/) - Handbook for the Cloud Native Practitioner. ([Code](https://github.com/mhausenblas/modern-linux.info)) ([Book](https://www.oreilly.com/library/view/learning-modern-linux/9781098108939/))
 - [pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger.
 - [How a simple Linux kernel memory corruption bug can lead to complete system compromise (2021)](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
 - [Rust for Linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.

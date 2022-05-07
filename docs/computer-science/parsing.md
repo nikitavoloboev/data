@@ -72,7 +72,7 @@
 - [Parser generators vs. handwritten parsers: surveying major language implementations in 2021](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html) ([HN](https://news.ycombinator.com/item?id=28258945)) ([Lobsters](https://lobste.rs/s/10pkib/parser_generators_vs_handwritten))
 - [Kaitai Struct](https://kaitai.io/) - Declarative binary format parsing language. ([Lobsters](https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format)) ([HN](https://news.ycombinator.com/item?id=30715406)) ([IDE](https://ide.kaitai.io/)) ([HN](https://news.ycombinator.com/item?id=30894111))
 - [Parser toolkit](https://github.com/MasterQ32/parser-toolkit) - Toolkit that makes it easier to write recursive-descent parsers in Zig.
-- [TatSu Jobs](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF.
+- [TatSu](https://github.com/neogeny/TatSu) - Generates Python parsers from grammars in a variation of EBNF. ([HN](https://news.ycombinator.com/item?id=31293716))
 - [Progger](https://github.com/Jezza/progger) - Simple set of parser and lexer tools. Built on top of logos and bumpalo.
 - [Types of Parser Combinators (2021)](https://sgt.hootr.club/molten-matter/types-of-parser-combinators/) ([Lobsters](https://lobste.rs/s/5agmsv/types_parser_combinators)) ([HN](https://news.ycombinator.com/item?id=29246227))
 - [Parsing Permutations (2021)](https://blog.drewolson.org/parsing-permutations)
@@ -107,3 +107,4 @@
 - [Handwritten Parsers & Lexers in Go (2014)](https://blog.gopheracademy.com/advent-2014/parsers-lexers/) ([Lobsters](https://lobste.rs/s/hhhiiz/handwritten_parsers_lexers_go))
 - [Binary build of tree-sitter for apple platforms](https://github.com/krzyzanowskim/tree-sitter-xcframework)
 - [TSPM](https://github.com/helix-editor/tspm) - Open-source tree-sitter package manager.
+- [Lola](https://github.com/keith-packard/lola) - LL parser table generator.

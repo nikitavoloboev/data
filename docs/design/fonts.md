@@ -356,3 +356,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Best Font for Online Reading: No Single Answer (2022)](https://www.nngroup.com/articles/best-font-for-online-reading/) ([HN](https://news.ycombinator.com/item?id=31156018))
 - [python-fontbro](https://github.com/fabiocaccamo/python-fontbro) - Friendly font operations on top of fontTools.
 - [Occlusion Grotesque Experimental Typeface (2021)](https://bjoernkarmann.dk/occlusion-grotesque) ([HN](https://news.ycombinator.com/item?id=31230181))
+- [Roboto but Make It Flex (2022)](https://material.io/blog/roboto-flex) ([HN](https://news.ycombinator.com/item?id=31290862))

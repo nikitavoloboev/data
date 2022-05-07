@@ -59,6 +59,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Krunker](https://krunker.io/) - Fast 3D Shooter in Browser.
 - [Eight Colors](https://eightcolors.net/) - Puzzle Game in HTML5. ([HN](https://news.ycombinator.com/item?id=30956775))
 - [18xx.Games](https://18xx.games/) - Platform for playing 18xx games online. ([Code](https://github.com/tobymao/18xx))
+- [Battle of Flags](https://www.battle-of-flags.com/) - Browser-based RTS game. ([HN](https://news.ycombinator.com/item?id=31296227))
 
 ## Awesome OSS games
 

@@ -89,3 +89,4 @@ title: Phoenix framework
 - [React in LiveView: How and Why? (2022)](https://stephenbussey.com/2022/04/13/react-in-liveview-how-and-why.html)
 - [Real-Time Phoenix: Build Highly Scalable Systems with Channels by Stephen Bussey](https://pragprog.com/titles/sbsockets/real-time-phoenix/)
 - [LiveMotion](https://github.com/benvp/live_motion) - High performance animation library for Phoenix LiveView.
+- [Sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.

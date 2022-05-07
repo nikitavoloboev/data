@@ -226,3 +226,4 @@
 - [Neural Volumes: Learning Dynamic Renderable Volumes from Images (2019)](https://arxiv.org/abs/1906.07751) ([Code](https://github.com/facebookresearch/neuralvolumes))
 - [Graphics Developer Roadmap](https://github.com/prographon/graphics-developer-roadmap)
 - [7GUIs](https://eugenkiss.github.io/7guis/tasks/) - Reflect as many typical (or fundamental or representative) challenges in GUI programming as possible. ([HN](https://news.ycombinator.com/item?id=31273802))
+- [Xilem: an architecture for UI in Rust (2022)](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html) ([HN](https://news.ycombinator.com/item?id=31297550))

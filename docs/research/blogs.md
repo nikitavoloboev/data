@@ -257,3 +257,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Ask HN: Why is Substack so popular? (2022)](https://news.ycombinator.com/item?id=31083165)
 - [Cool Things People Do With Their Blogs (2022)](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)
 - [lists.sh](https://lists.sh/) - Microblog for lists. ([Code](https://github.com/neurosnap/lists.sh)) ([HN](https://news.ycombinator.com/item?id=31154567))
+- [Is there a good “blog search” out there? (2022)](https://news.ycombinator.com/item?id=31295154)

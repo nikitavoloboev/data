@@ -133,3 +133,4 @@ title: JSON
 - [jaq](https://github.com/01mf02/jaq) - jq clone focused on correctness, speed, and simplicity.
 - [gq](https://github.com/hherman1/gq) - jq but using go instead. ([HN](https://news.ycombinator.com/item?id=31181898))
 - [An Introduction to JQ (2022)](https://earthly.dev/blog/jq-select/)
+- [Converting strings to objects with jq (2022)](https://qmacro.org/blog/posts/2022/05/06/converting-strings-to-objects-with-jq/)

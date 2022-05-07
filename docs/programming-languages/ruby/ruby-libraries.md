@@ -24,6 +24,7 @@
 - [Rodauth](https://github.com/jeremyevans/rodauth) - Ruby's Most Advanced Authentication Framework.
 - [Apia](https://github.com/krystal/apia) - API framework for building a self-documenting HTTP API in any Ruby application (including Rails).
 - [Secure Headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults.
+- [Rack](https://github.com/rack/rack) - Modular Ruby web server interface.
 
 ## macOS
 
@@ -83,3 +84,4 @@
 - [sorbet-typed](https://github.com/sorbet/sorbet-typed) - Central repository for sharing type definitions for Ruby gems.
 - [Serverless Rack](https://github.com/logandk/serverless-rack) - Serverless plugin to deploy Ruby Rack applications (Sinatra/Rails/Padrino/Cuba etc.) and bundle gems.
 - [What Would be Your Ideal Ruby Tech Stack (2022)](https://www.reddit.com/r/ruby/comments/ueptad/what_would_be_your_ideal_ruby_tech_stack/)
+- [Gel](https://github.com/gel-rb/gel) - Modern gem manager.

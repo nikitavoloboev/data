@@ -154,3 +154,4 @@
 - [Gary Schnitkey's research](https://scholar.google.com/citations?user=T2MeNqMAAAAJ)
 - [Ask HN: How can I learn macroeconomics properly? (2022)](https://news.ycombinator.com/item?id=31219253)
 - [What’s the best route to learn a solid foundation on economics? (2022)](https://www.reddit.com/r/AskEconomics/comments/ujm39z/whats_the_best_route_to_learn_a_solid_foundation/)
+- [Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) ([HN](https://news.ycombinator.com/item?id=31293784))

@@ -53,3 +53,4 @@ title: Satisfiability modulo theories
 - [Factorio SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers.
 - [ParaFROST](https://github.com/muhos/ParaFROST) - Parallel SAT Solver with GPU Accelerated Inprocessing.
 - [DRSAT](https://github.com/danielschemmel/drsat) - Daniel's Rusty SAT solver.
+- [SATurne](https://github.com/jdrprod/SATurne) - Purely functional verified SAT solver which produces proofs.

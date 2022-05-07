@@ -923,6 +923,7 @@
 - [LiquidJS](https://github.com/harttle/liquidjs) - Simple, expressive and safe template engine. ([Web](https://liquidjs.com/))
 - [Piling.js](https://github.com/flekschas/piling.js) - General framework and library for exploring thousands of small multiples. ([Web](https://piling.js.org/))
 - [Draggable](https://github.com/Shopify/draggable) - Get complete control over drag and drop behavior.
+- [Cuberto Mouse Follower](https://github.com/Cuberto/mouse-follower) - Powerful JS library to create amazing and smooth effects for the mouse cursor on your website.
 
 ## Links
 

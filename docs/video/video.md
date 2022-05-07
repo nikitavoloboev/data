@@ -351,3 +351,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Coplay](https://github.com/Justineo/coplay) - Synchronizing video play between two peers.
 - [Cut the crap](https://github.com/jappeace/cut-the-crap) - Automatic video editing program for streamers.
 - [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl (using the yt-dlp fork) with playlist support.
+- [“Figma for video editing” startups (more than 20)](https://twitter.com/JanPaul123/status/1522763020044103680)

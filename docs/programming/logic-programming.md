@@ -22,3 +22,4 @@
 - [CLP](https://github.com/triska/clpz) - Constraint Logic Programming over Integers. ([Web](https://www.metalevel.at/prolog/clpz))
 - [Neural Guided Constraint Logic Programming for Program Synthesis](https://github.com/xuexue/neuralkanren)
 - [CLP(SMT)-miniKanren](https://github.com/namin/clpsmt-miniKanren) - Canonical miniKanren implementation, augmented with CLP(SMT).
+- [Owl](https://github.com/jdrprod/owl) - Tiny logic programming language highly inspired by Prolog.

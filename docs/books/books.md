@@ -535,4 +535,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How Neuromancer formed the Cyberpunk Aesthetics](https://sabukaru.online/articles/how-neuromancer-birthed-cyberpunk) ([HN](https://news.ycombinator.com/item?id=30918411))
 - [Goodreads book parser in NodeJS](https://github.com/shakogegia/goodreads-parser)
 - [I sold 640 copies of my book in one year (2022)](https://nts.strzibny.name/one-year-of-sales/) ([HN](https://news.ycombinator.com/item?id=31153963))
-- [Petar's Virtual Bookshelf](https://petargyurov.com/bookshelf/) ([HN](https://news.ycombinator.com/item?id=31293727))
+- [Petar's Virtual Bookshelf](https://petargyurov.com/bookshelf/) ([HN](https://news.ycombinator.com/item?id=31293727)) ([Code](https://github.com/petargyurov/virtual-bookshelf))
+- [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action) - Track your reading using GitHub Actions.

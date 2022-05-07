@@ -6,7 +6,7 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 
 ## Links
 
-- [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy))
+- [Scrapy](https://github.com/scrapy/scrapy) - Fast high-level web crawling & scraping framework for Python. ([Web](https://scrapy.org/)) ([Docs](https://docs.scrapy.org/en/latest/)) ([Awesome Scrapy](https://github.com/AccordBox/awesome-scrapy)) ([Random proxy middleware](https://github.com/aivarsk/scrapy-proxies))
 - [Scrapyd](https://github.com/scrapy/scrapyd) - Service for running Scrapy spiders. ([Docs](https://scrapyd.readthedocs.io/en/stable/))
 - [ScrapydWeb](https://github.com/my8100/scrapydweb) - Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.

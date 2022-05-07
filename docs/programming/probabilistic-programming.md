@@ -47,3 +47,4 @@ title: Probabilistic programming
 - [Probabilistic Machine Learning Book (2022)](https://mitpress.mit.edu/books/probabilistic-machine-learning) ([Tweet](https://twitter.com/sirbayes/status/1493644368070123520))
 - [Miking DPPL](https://github.com/miking-lang/miking-dppl) - Framework for developing probabilistic programming languages (PPLs) using Miking.
 - [ZhuSuan](https://github.com/thu-ml/zhusuan) - Probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow.
+- [Prism](http://www.prismmodelchecker.org/) - Probabilistic Symbolic Model Checker. ([HN](https://news.ycombinator.com/item?id=31283037))
