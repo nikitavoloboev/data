@@ -317,6 +317,7 @@
 - [deepseq](https://github.com/haskell/deepseq) - Deep evaluation of data structures.
 - [binary-parser](https://github.com/nikita-volkov/binary-parser) - Highly-efficient but limited parser API specialised for bytestrings.
 - [aeson-quick](https://github.com/ssadler/aeson-quick) - Haskell library for quick JSON extractions with Aeson.
+- [NoRedInk Haskell libraries](https://github.com/NoRedInk/haskell-libraries)
 
 ## Notes
 

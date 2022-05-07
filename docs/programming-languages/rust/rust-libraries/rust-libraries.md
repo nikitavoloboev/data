@@ -1847,6 +1847,7 @@
 - [lifeguard](https://github.com/zslayton/lifeguard) - Object pool manager in Rust.
 - [rtree.rs](https://github.com/tidwall/rtree.rs) - Fast R-tree for Rust.
 - [Chomp](https://github.com/m4rw3r/chomp) - Fast monadic-style parser combinator designed to work on stable Rust.
+- [oqueue](https://github.com/dtolnay/oqueue) - Non-interleaving output queue.
 
 ## Cargo Plugins
 
