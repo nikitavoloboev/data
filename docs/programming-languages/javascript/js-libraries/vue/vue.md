@@ -4,7 +4,7 @@ title: Vue.js
 
 # [Vue.js](https://vuejs.org)
 
-[Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client.
+[Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client.
 
 ## Built with Vue
 
@@ -166,3 +166,4 @@ title: Vue.js
 - [Nuxt UI](https://github.com/nuxt/ui) - Unified UI and Design Kit for the Nuxt.
 - [Splitpanes](https://github.com/antoniandre/splitpanes) - VueJS reliable, simple and touch-ready panes splitter / resizer.
 - [Nuxt Content](https://github.com/nuxt/content) - File based Headless CMS for modern websites built with Nuxt. ([Docs](https://content.nuxtjs.org/))
+- [Vitesome](https://github.com/alvarosabu/vitesome) - Simple opinionated Vue Starter Template with Vite.js.

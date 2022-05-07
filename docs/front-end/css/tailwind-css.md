@@ -147,3 +147,4 @@ title: Tailwind CSS
 - [Tailwind Admin Template](https://github.com/davidgrzyb/tailwind-admin-template) - Admin dashboard template built with Tailwind and Alpine.js.
 - [Lemon Design](https://github.com/albingroen/lemon-design-react) - React component library based on Tailwind CSS.
 - [Tailwind CSS Logical](https://github.com/stevecochrane/tailwindcss-logical) - CSS Logical Properties and Values plugin for Tailwind CSS.
+- [Tailwind CSS Plugin Starter](https://github.com/maizzle/tailwindcss-plugin-starter) - Boilerplate for Tailwind CSS plugins.

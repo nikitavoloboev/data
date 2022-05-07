@@ -197,3 +197,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Spider](https://github.com/madeindjs/spider) - Multithreaded Web spider crawler written in Rust.
 - [Scrapism 2022 course](https://github.com/antiboredom/scrapism-spring-2022)
 - [Libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic.
+- [TikTok Scraper & Downloader](https://github.com/drawrowfly/tiktok-scraper) - Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.

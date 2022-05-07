@@ -6,7 +6,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 [gmailctl](https://github.com/mbrt/gmailctl) is a useful tool for setting up email filters. I use [Postmark Email Templates](https://github.com/wildbit/postmark-templates) often.
 
-[Brail](https://github.com/sinclairnick/brail) is nice for writing out email templates.
+[Maizzle](https://maizzle.com/) & [Brail](https://github.com/sinclairnick/brail) are nice for writing out email templates.
 
 ## Notes
 

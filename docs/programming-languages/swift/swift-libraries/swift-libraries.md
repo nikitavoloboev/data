@@ -1121,6 +1121,7 @@
 - [Concurrent Sequence](https://github.com/dfed/swift-concurrent-sequence) - Collection of operations on Swift sequences that execute concurrently.
 - [Swift URL Routing](https://github.com/pointfreeco/swift-url-routing) - Bidirectional router with more type safety and less fuss.
 - [FaviconFinder](https://github.com/will-lumley/FaviconFinder) - Small swift library for iOS & macOS to detect favicons used by a website.
+- [ComposableOpenURL](https://github.com/Shimmur/composable-open-url) - State-driven URL opening for The Composable Architecture.
 
 ## Other (not lib)
 

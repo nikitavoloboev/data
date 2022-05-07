@@ -115,3 +115,4 @@
 - [e3](https://github.com/AdaCore/e3-core) - Python framework to ease the development of portable automated build systems (compilation, dependencies management, binary code packaging, and automated testing).
 - [Turbocache](https://turbocache.vercel.app/) - Simple remote cache server for Turborepo. ([Code](https://github.com/promer94/turbocache))
 - [lbuild](https://github.com/modm-io/lbuild) - Generic, modular code generator in Python 3.
+- [rock](https://github.com/ollef/rock) - Build system inspired by Build systems à la carte.

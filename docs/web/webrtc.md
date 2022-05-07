@@ -4,7 +4,7 @@ title: WebRTC
 
 # [WebRTC](https://webrtc.org/)
 
-[Pion WebRTC](https://github.com/pion/webrtc) is nice lib.
+[Pion WebRTC](https://github.com/pion/webrtc) is nice lib. [This](https://www.youtube.com/watch?v=ogUuB--uhhw) is a nice intro.
 
 ## Links
 
@@ -104,3 +104,4 @@ title: WebRTC
 - [DetectRTC](https://github.com/muaz-khan/DetectRTC) - Is WebRTC Supported In Your Browser?
 - [Offline Browser Sync](https://github.com/pion/offline-browser-communication) - Demonstration of a browser connecting to Pion WebRTC without a signaling server.
 - [MockRTC](https://github.com/httptoolkit/mockrtc) - Powerful friendly WebRTC mock peer & proxy.
+- [How Your Video Calls Work (2022)](https://www.youtube.com/watch?v=ogUuB--uhhw)
