@@ -166,3 +166,4 @@ title: Terraform
 - [Aiven Terraform Provider](https://github.com/aiven/terraform-provider-aiven)
 - [Sentry Terraform Provider](https://github.com/jianyuan/terraform-provider-sentry)
 - [Terraform Plugin Log](https://github.com/hashicorp/terraform-plugin-log) - Helper module for logging from Terraform providers.
+- [How to setup infrastructure in Hetzner Cloud with Terraform](https://github.com/awesome-nick/tf-hetzner-example)

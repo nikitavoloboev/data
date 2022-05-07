@@ -70,3 +70,4 @@ title: Protocol buffers
 - [FHIR Protocol Buffers](https://github.com/google/fhir)
 - [tree-sitter-proto](https://github.com/mitchellh/tree-sitter-proto) - tree-sitter grammar for protocol buffer files (proto3).
 - [Logging protobuf messages](https://twitter.com/bernhardsson/status/1521585629406052355)
+- [Proto2http](https://github.com/kodiiing/proto2http) - Protocol Buffers to HTTP client code generator/converter.

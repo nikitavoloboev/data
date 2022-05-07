@@ -1845,6 +1845,7 @@
 - [Lindera](https://github.com/lindera-morphology/lindera) - Morphological analysis library.
 - [JobScheduler](https://github.com/lholden/job_scheduler) - Simple cron-like job scheduling library for Rust.
 - [lifeguard](https://github.com/zslayton/lifeguard) - Object pool manager in Rust.
+- [rtree.rs](https://github.com/tidwall/rtree.rs) - Fast R-tree for Rust.
 
 ## Cargo Plugins
 

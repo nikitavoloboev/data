@@ -250,3 +250,4 @@ title: Svelte
 - [Svelte Notifications](https://github.com/beyonk-adventures/svelte-notifications) - Svelte toast notifications component that can be used in any JS application.
 - [Svelte SortableJS](https://github.com/jhubbardsf/svelte-sortablejs)
 - [Svelte Subscribe](https://github.com/bryanmylee/svelte-subscribe) - Subscribe to non top-level stores in your Svelte template.
+- [Svelte WebSocket Store](https://github.com/arlac77/svelte-websocket-store) - Svelte store with a WebSocket backend.

@@ -1,5 +1,7 @@
 # Distributed systems
 
+[Encore](https://github.com/encoredev/encore) seems nice.
+
 ## Notes
 
 - Getting a million users is infinitely harder than scaling a system to handle a million users. Most systems could run comfortably on a Raspberry Pi
