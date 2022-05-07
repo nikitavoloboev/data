@@ -2,7 +2,7 @@
 
 I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](https://finance.yahoo.com/quote/VXUS/)) using [Interactive Brokers](https://ibkr.com/referral/nikita206) & [Trading212](https://trading212.com/).
 
-[Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro. [Polygon.io](https://polygon.io/) seems to have nice APIs for getting financial market data. That said, [value investing seems hard to do in current climate](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/).
+[Bogleheads' Guide to Investing Book](https://www.bogleheads.org/blog/portfolio/the-bogleheads-guide-to-investing/) is great intro. [Polygon.io](https://polygon.io/) seems to have nice APIs for getting financial market data. [Value investing seems hard to do](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/) thus I don't do much stock picking and focus on ETFs with historically good returns. [Time in the market beats timing the market](https://www.reddit.com/r/stocks/comments/ujwi0q/can_anyone_explain_this_market_in_simple_terms/).
 
 ## Interesting ETFs
 
@@ -50,6 +50,7 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Wall Street investing firms spend billions of dollars to decrease the latency between their computer systems by microseconds. The shorter the cables, the quicker they can make trades and squeeze money out of the market. That’s what you’re up against as an individual investor. You will not beat their teams of PhDs with state of the art equipment and algorithms. It’s best to buy the entire market and take your average returns.](https://www.reddit.com/r/Bogleheads/comments/tb2xc8/if_boglehead_philosophy_is_the_long_run_lazy/)
 - [Can liquidate gains from investing by moving tax free jurisdiction for 6 months and becoming fiscal resident there. Belgium has no capital gain tax if you can show that you weren't actively trading. Dubai is another option. Once you get the paper that you're a fiscal resident, sell your coins/stocks. You won't have to pay any tax. Open a brokerage account and invest that money in index funds (ETFs). You can then safely withdraw about 4% of your portfolio each year without jeopardizing it.](https://www.reddit.com/r/eupersonalfinance/comments/ufwen5/question_early_30s_about_200k_euros_looking_to/)
 - [Routing through IEX is retail's best bet for hitting a lit exchange and a fair price, but some brokers say they route through IEX and go through Citadel first.](https://www.reddit.com/r/investing/comments/uizkxs/the_stock_market_is_a_total_joke/)
+- [Money too much, borrow too easy. Not enough stuff, stuff now high price. Must make stuff not so high price. Must make money hard to borrow. Money hard to borrow, hard to run business, business get less money. Less employees, less spending, less economy. Soft landing win win, hard landing bad bad. What happen, nobody know.](https://www.reddit.com/r/stocks/comments/ujwi0q/can_anyone_explain_this_market_in_simple_terms/)
 
 ## Links
 
