@@ -98,7 +98,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Eclipse Theia](http://theia-ide.org) - Extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. ([Code](https://github.com/eclipse-theia/theia)) ([HN](https://news.ycombinator.com/item?id=22792258))
 - [Typewriter](https://github.com/typewriter-editor/typewriter) - Rich text editor based off of Quill.js and Ultradom, and using Svelte for UI.
 - [CodeJar](https://github.com/antonmedv/codejar) - Micro code editor.
-- [tiptap](https://www.tiptap.dev/) - Headless editor framework for web artisans. ([Code](https://github.com/scrumpy/tiptap))
+- [tiptap](https://www.tiptap.dev/) - Headless editor framework for web artisans. ([Code](https://github.com/scrumpy/tiptap)) ([Overview](https://www.youtube.com/watch?v=M7s-KMI5lCQ))
 - [Marky Marked](https://github.com/patrickfatrick/marky-marked) - Lightweight in-browser content editor combining Markdown with the typical WYSIWYG toolbar.
 - [yace](https://github.com/petersolopov/yace) - Yet another code editor for browser.
 - [Slate](https://github.com/ianstormtaylor/slate) - Completely customizable framework for building rich text editors.

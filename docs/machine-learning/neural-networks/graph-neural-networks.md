@@ -111,3 +111,4 @@
 - [Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation (2021)](https://arxiv.org/abs/2110.08727) ([Code](https://github.com/snap-research/graphless-neural-networks))
 - [Geometric and Physical Quantities Improve E(3) Equivariant Message Passing (2021)](https://arxiv.org/abs/2110.02905) ([Code](https://github.com/RobDHess/Steerable-E3-GNN))
 - [Graph Attention Networks (2018)](https://arxiv.org/abs/1710.10903) ([Code](https://github.com/PetarV-/GAT))
+- [Directed Acyclic Graph Neural Networks (2022)](https://openreview.net/forum?id=JbuYF437WB6) ([Code](https://github.com/vthost/DAGNN))

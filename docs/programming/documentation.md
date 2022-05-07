@@ -172,3 +172,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language.
 - [Squeak](https://github.com/PostHog/squeak) - Q&A widget for your docs.
 - [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
+- [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.
