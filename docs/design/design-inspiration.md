@@ -59,6 +59,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Netlify](https://www.netlify.com/)
 - [Substack](https://substack.com/)
 - [Gorgias](https://www.gorgias.com/)
+- [Tiptap Editor](https://tiptap.dev/)
 - [Psyche](https://psyche.co/)
 - [Untitled UI](https://www.untitledui.com/)
 - [SavvyCal](https://savvycal.com/home)

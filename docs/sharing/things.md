@@ -19,14 +19,6 @@
 - [Water Bottle](https://corkcicle.com/products/classic-canteen?variant=13011375620184)
 - [Revolt 0 Bike](https://www.giant-bicycles.com/int/revolt-0)
 
-## Clothes
-
-- [Wool Runner Mizzles True Black](https://www.allbirds.eu/products/mens-wool-runner-mizzles-true-black)
-- [Wool Jumper Orchid](https://www.allbirds.eu/products/mens-wool-jumper-orchid)
-- [Tee Natural Black](https://www.allbirds.eu/products/mens-trinoxo-tee-natural-black)
-- [Socks Quarters Ash](https://www.allbirds.eu/products/trino-tubers-onyx)
-- [Boxer Brief Elderberry](https://www.allbirds.eu/products/mens-trino-boxer-brief)
-
 ## Other
 
 - [Burberry London for Men cologne](https://www.fragrantica.com/perfume/Burberry/London-for-Men-804.html)

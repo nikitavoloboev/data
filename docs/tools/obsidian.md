@@ -118,6 +118,7 @@ title: Obsidian
 - [Database folder](https://github.com/RafaelGB/obsidian-bd-folder) - Obsidian Plugin to Allow Notion like database based on folders.
 - [Paste PNG to JPEG](https://github.com/musug/obsidian-paste-png-to-jpeg) - When pasting screenshots into obsidian notes, convert the images to JPEG and compress them.
 - [ExcaliBrain](https://github.com/zsviczian/excalibrain) - Graph view to navigate your Obsidian vault.
+- [Meta Title Filename](https://github.com/Snezhig/obsidian-meta-title-filename) - Let you replace filename with meta block.
 
 ## Themes
 
