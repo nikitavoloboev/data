@@ -37,6 +37,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Iron Fish](https://ironfish.network/)
 - [Centra](https://www.centra.com/)
 - [Solend](https://solend.fi/)
+- [Glow Wallet](https://glow.app/)
 - [Darkroom](https://darkroom.co/)
 - [Phantom](https://phantom.app/)
 - [Arrival](https://arrival.com/)

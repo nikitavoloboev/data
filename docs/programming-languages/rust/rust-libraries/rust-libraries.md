@@ -1,6 +1,6 @@
 # Rust libraries
 
-[axum](https://github.com/tokio-rs/axum) seems nice as a web framework. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection.
+[axum](https://github.com/tokio-rs/axum) seems nice as a web framework. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
 
 ## CLI
 
@@ -2007,7 +2007,7 @@
 - [Pin, Unpin, and why Rust needs them (2021)](https://blog.adamchalmers.com/pin-unpin/)
 - [Traits Working Group](https://github.com/rust-lang/wg-traits)
 - [Serverless Rust](https://github.com/nmoutschen/awesome-serverless-rust) - Curated list of resources for using Rust with serverless technologies.
-- [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
+- [Crane](https://github.com/ipetkov/crane) - Nix library for building cargo projects. Never build twice thanks to incremental artifact caching. ([Intro](https://ipetkov.dev/blog/introducing-crane/)) ([Lobsters](https://lobste.rs/s/yd4lmq/introducing_crane_composable_cacheable))
 - [Rust has a small standard library (and that's ok) (2022)](https://blog.nindalf.com/posts/rust-stdlib/) ([Reddit](https://www.reddit.com/r/programming/comments/sg7p51/rust_has_a_small_standard_library_and_thats_ok/)) ([HN](https://news.ycombinator.com/item?id=30138065))
 - [Rust serialization benchmark](https://github.com/djkoloski/rust_serialization_benchmark)
 - [Create Rust App](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command. ([HN](https://news.ycombinator.com/item?id=30228325))

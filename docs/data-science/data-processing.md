@@ -104,3 +104,4 @@
 - [Why isn’t there a decent file format for tabular data? (2022)](https://successfulsoftware.net/2022/04/30/why-isnt-there-a-decent-file-format-for-tabular-data/) ([HN](https://news.ycombinator.com/item?id=31220841))
 - [Data Engineering Wiki](https://dataengineering.wiki/Index) ([Code](https://github.com/JPHaus/data-engineering-wiki))
 - [csv-clean](https://github.com/TimothyJones/csv-clean) - Command line tool to clean up malformed CSV files.
+- [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.

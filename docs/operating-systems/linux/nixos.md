@@ -215,3 +215,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS tutorial: one hour, hands-on](https://github.com/brainrake/nixos-tutorial)
 - [Operating systems battle: OpenBSD vs. NixOS (2022)](https://dataswamp.org/~solene/2022-04-18-openbsd-vs-nixos.html) ([HN](https://news.ycombinator.com/item?id=31075570))
 - [Nix-Editor](https://github.com/vlinkz/nix-editor) - Command line utility for modifying NixOS configuration values.
+- [NixOS on Btrfs+tmpfs (2021)](https://cnx.srht.site/blog/butter/index.html) ([HN](https://news.ycombinator.com/item?id=31269972))

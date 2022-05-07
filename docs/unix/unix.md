@@ -85,3 +85,4 @@ title: Unix
 - [A Brief Introduction to termios (2009)](https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/)
 - [daemonize](https://github.com/bmc/daemonize) - Command line utility to run a program as a Unix daemon.
 - [Scripts to extend the Unix environment](https://github.com/thrig/scripts)
+- [Unix command line conventions over time (2022)](https://blog.liw.fi/posts/2022/05/07/unix-cli/) ([HN](https://news.ycombinator.com/item?id=31293032))
