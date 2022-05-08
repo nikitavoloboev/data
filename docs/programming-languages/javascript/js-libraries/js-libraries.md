@@ -937,7 +937,7 @@
 - [JSPM](https://jspm.org/) - ES Module Package Manager and CDN. ([GitHub](https://github.com/jspm))
 - [JSPM Generator](https://github.com/jspm/generator) - JSPM Import Map Generator.
 - [UNPKG Search](https://www.unpkgsearch.com/) - Search Engine for Unpkg Packages.
-- [bundle](https://bundle.js.org/) - Quick npm package size checker. ([Code](https://github.com/okikio/bundle))
+- [bundlejs](https://bundlejs.com) - Quick npm package size checker. ([Code](https://github.com/okikio/bundle))
 - [Dependency cruiser](https://github.com/sverweij/dependency-cruiser) - Validate and visualise dependencies. With your rules. JavaScript. TypeScript.
 - [You don't (may not) need Lodash/Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin.
 - [libnpmpublish](https://github.com/npm/libnpmpublish) - Node.js library for programmatically publishing and unpublishing npm packages.
