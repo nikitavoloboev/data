@@ -858,7 +858,7 @@
 - [Netgraph](https://github.com/paulbrodersen/netgraph) - Drawing utilities for publication quality plots of networks.
 - [Lithops](https://github.com/lithops-cloud/lithops) - Python multi-cloud distributed computing framework.
 - [Barry](https://github.com/tomwhite/barry) - Fixed-memory serverless distributed N-dimensional array processing.
-- [CDB](https://github.com/avinassh/cdb) - Disk based Log Structured Hash Table Store.
+- [CDB](https://github.com/avinassh/cdb) - Disk based Log Structured Hash Table Store. ([Lobsters](https://lobste.rs/s/cgzat4/cdb_build_your_own_persistent_key_value))
 - [lbst](https://github.com/amirouche/lbst) - Immutable Log-Balanced Search Tree.
 
 ## Notes

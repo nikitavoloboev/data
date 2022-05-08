@@ -293,3 +293,4 @@
 - [This AI Does Not Exist](https://thisaidoesnotexist.com/) - Generate realistic descriptions of made-up machine learning models. ([Code](https://github.com/thesephist/modelexicon))
 - [Perplexity](https://github.com/andrew-johnson-4/perplexity) - Language is a notational semantic for documenting neural networks through diagrams.
 - [Meta-AF: Meta-Learning for Adaptive Filters](https://github.com/adobe-research/MetaAF)
+- [Sequence Transduction with Recurrent Neural Networks (2021)](https://arxiv.org/abs/1211.3711) ([Code](https://github.com/awni/transducer))

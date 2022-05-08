@@ -25,3 +25,4 @@ title: Web workers
 - [Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API) ([HN](https://news.ycombinator.com/item?id=29427959))
 - [Full Preact app rendering in a Web Worker](https://github.com/developit/preact-worker-demo)
 - [Workly](https://github.com/pshihn/workly) - Simple way to move a stand-alone function/class to a worker thread.
+- [How to stop synchronous code in a web worker? (2022)](https://yoyo-code.com/how-to-stop-synchronous-web-worker/)

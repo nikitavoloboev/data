@@ -116,3 +116,4 @@
 - [Turbocache](https://turbocache.vercel.app/) - Simple remote cache server for Turborepo. ([Code](https://github.com/promer94/turbocache))
 - [lbuild](https://github.com/modm-io/lbuild) - Generic, modular code generator in Python 3.
 - [rock](https://github.com/ollef/rock) - Build system inspired by Build systems à la carte.
+- [Zap](https://github.com/AbstractMachinesLab/zap) - Simple, fast, and correct build system for any programming language, that uses Deno and is built in Rust.

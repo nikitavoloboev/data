@@ -724,3 +724,5 @@ title: Kubernetes
 - [Plain Kubernetes Secrets are fine (2022)](https://www.macchaffee.com/blog/2022/k8s-secrets/) ([Lobsters](https://lobste.rs/s/diofsb/plain_kubernetes_secrets_are_fine))
 - [Kong Ingress Controller for Kubernetes (KIC)](https://github.com/Kong/kubernetes-ingress-controller)
 - [Don't Write Your Own Kubernetes YAML Generator (2022)](https://matduggan.com/tips-for-making-kubernetes-yaml-less-annoying/)
+- [Kube Dev Dashboard](https://prsh9.github.io/kubectl-dashboard/) - Dev Dashboard for Kubernetes. ([Code](https://github.com/prsh9/kubectl-dashboard))
+- [Deploying Kubernetes clusters in increasingly absurd languages (2022)](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages) ([HN](https://news.ycombinator.com/item?id=31286279))
