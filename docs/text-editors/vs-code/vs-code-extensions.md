@@ -250,6 +250,7 @@ Below is a list of extensions I use.
 ## DB
 
 - [VS Code SQL Notebook](https://github.com/cmoog/vscode-sql-notebook) - Open SQL files in the VS Code Notebook interface. Execute query blocks and view output interactively.
+- [SQLTools](https://github.com/mtxr/vscode-sqltools) - Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history..
 
 ## React
 

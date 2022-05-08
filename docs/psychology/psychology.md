@@ -50,3 +50,4 @@
 - [Rage & fear you feel after the Russian invasion are ancient parts of your mind preparing](https://twitter.com/M_B_Petersen/status/1498199978640084993)
 - [Manufacturing Consent: Noam Chomsky and the Media - Feature Film](https://www.youtube.com/watch?v=EuwmWnphqII)
 - [Людмила Петрановская: «Это история про отрезание обратных связей» (2022)](https://www.youtube.com/watch?v=UN529dZLQE8)
+- [Statistical "Which Character" Personality Quiz](https://openpsychometrics.org/tests/characters/) ([Tweet](https://twitter.com/dan_abramov/status/1523104608973103104))

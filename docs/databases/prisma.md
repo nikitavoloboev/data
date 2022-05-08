@@ -105,3 +105,4 @@ title: Prisma
 - [Database Schema Examples we strive to support in Prisma](https://github.com/prisma/database-schema-examples)
 - [Prisma + tRPC](https://github.com/SaraVieira/rssx)
 - [refract](https://github.com/cwqt/refract) - TypeScript SDK for Prisma.
+- [sb-prisma](https://github.com/aiji42/sb-prisma) - Library that uses REST API of Supabase directly from the Prisma client to process databases.

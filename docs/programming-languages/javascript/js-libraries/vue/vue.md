@@ -167,3 +167,5 @@ title: Vue.js
 - [Splitpanes](https://github.com/antoniandre/splitpanes) - VueJS reliable, simple and touch-ready panes splitter / resizer.
 - [Nuxt Content](https://github.com/nuxt/content) - File based Headless CMS for modern websites built with Nuxt. ([Docs](https://content.nuxtjs.org/))
 - [Vitesome](https://github.com/alvarosabu/vitesome) - Simple opinionated Vue Starter Template with Vite.js.
+- [Nuxt Image](https://github.com/nuxt/image) - Optimized Images for Nuxt.
+- [Vue k bar](https://github.com/bytebase/vue-kbar) - Extensible command+k interface for Vue 3 applications.

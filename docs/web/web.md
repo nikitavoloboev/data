@@ -193,7 +193,7 @@
 - [Web Platform Design Principles (2020)](https://www.w3.org/TR/design-principles/)
 - [Global Internet Infrastructure Map](https://live.infrapedia.com/app)
 - [File System Access API](https://github.com/WICG/file-system-access) - Expose the file system on the user’s device, so Web apps can interoperate with the user’s native applications.
-- [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) ([HN](https://news.ycombinator.com/item?id=31299716))
 - [WebPKI-level Certificate Revocation via Multi-Level Bloom Filter Cascade](https://github.com/mozilla/crlite)
 - [Doca (Russian)](https://y-doka.site/) - HTML/CSS/JS documentation. ([Code](https://github.com/Y-Doka/y-doka.site))
 - [Moon Highway](https://moonhighway.com/) - Professional web development trainings. ([GitHub](https://github.com/MoonHighway))

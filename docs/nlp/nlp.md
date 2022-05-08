@@ -575,3 +575,4 @@
 - [GLID-3-XL](https://github.com/Jack000/glid-3-xl) - 1.4B latent diffusion model from CompVis back-ported to the guided diffusion codebase.
 - [Neutralizing Subjectivity Bias with HuggingFace Transformers (2022)](https://blog.fastforwardlabs.com/2022/05/05/neutralizing-subjectivity-bias-with-huggingface-transformers.html)
 - [Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists (2022)](https://arxiv.org/abs/2203.09192) ([Code](https://github.com/g8a9/ear)) ([Tweet](https://twitter.com/peppeatta/status/1522230686832336897))
+- [gse](https://github.com/go-ego/gse) - Go efficient multilingual NLP and text segmentation; support english, chinese, japanese and other.

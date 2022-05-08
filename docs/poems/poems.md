@@ -24,3 +24,4 @@
 - [Where to start with poetry (2021)](https://www.reddit.com/r/suggestmeabook/comments/rsnkpz/i_read_50_books_a_year_but_i_still_have_never/)
 - ["О поэтах и поэзии" - Дмитрий Быков (2022)](https://www.labirint.ru/books/831923/)
 - [Favorite poet of the 20th century?](https://www.reddit.com/r/AskARussian/comments/rzx9qy/favorite_poet_of_the_20th_century/)
+- [Robots are writing poetry, and many people can’t tell the difference (2022)](https://thewalrus.ca/ai-poetry/) ([HN](https://news.ycombinator.com/item?id=31298899))

@@ -39,3 +39,4 @@ title: CUDA
 - [cuda-kat](https://github.com/eyalroz/cuda-kat) - CUDA kernel author's tools.
 - [CUDA Design Patterns](https://github.com/PatWie/cuda-design-patterns) - CUDA design patterns and a bit of template magic for CUDA.
 - [GPUMD](https://github.com/brucefan1983/GPUMD) - Graphics Processing Units Molecular Dynamics.
+- [Some CUDA programming fun with Julia (2022)](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html) ([HN](https://news.ycombinator.com/item?id=31298218))

@@ -52,3 +52,5 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Color & Light class](https://www.chuwenjie.com/class) - 7-week course on COLOR & LIGHT for illustration, BG painting, and visual development.
 - [Paint Like Arcane - Characters AND Backgrounds (2021)](https://www.youtube.com/watch?v=_WaTShr7amo)
 - [angrymikko - YouTube](https://www.youtube.com/c/angrymikko/videos) - Painting videos. Concept art and tips on how to paint stuff.
+- [Marco Bucci - YouTube](https://www.youtube.com/user/marcobucci/videos)
+- [Marco Bucci Art Store](https://marcobucciartstore.com/)

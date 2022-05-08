@@ -26,7 +26,7 @@
 - [My Setup for Self-Hosting Dozens of Web Applications + Services on a Single Server (2021)](https://cprimozic.net/blog/my-selfhosted-websites-architecture/) ([HN](https://news.ycombinator.com/item?id=29746223)) ([Lobsters](https://lobste.rs/s/olgedg/my_setup_for_self_hosting_dozens_web))
 - [What are the top 3 most useful things that you have hosted over the years? (2022)](https://www.reddit.com/r/selfhosted/comments/sbkl5z/what_are_the_top_3_most_useful_things_that_you/)
 - [Khue's Homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services. ([Docs](https://homelab.khuedoan.com/)) ([HN](https://news.ycombinator.com/item?id=30030991))
-- [Dashy](https://dashy.to/) - Ultimate Homepage for your Homelab. ([Code](https://github.com/Lissy93/dashy))
+- [Dashy](https://dashy.to/) - Ultimate Homepage for your Homelab. ([Code](https://github.com/Lissy93/dashy)) ([HN](https://news.ycombinator.com/item?id=31284522))
 - [Start Self Hosting (2022)](https://rohanrd.xyz/posts/why-you-should-start-self-hosting/) ([HN](https://news.ycombinator.com/item?id=30781536))
 - [Self hosted tech starter pack for development of new project or startup](https://github.com/tldr-devops/startpack) ([HN](https://news.ycombinator.com/item?id=30871211))
 - [What are your Most Used Self Hosted Applications? (2022)](https://noted.lol/what-are-your-most-used-self-hosted-applications/) ([HN](https://news.ycombinator.com/item?id=31260061))

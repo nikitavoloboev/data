@@ -71,3 +71,4 @@ title: Chemistry
 - [These are real compounds (2022)](https://www.science.org/content/blog-post/these-are-real-compounds) ([HN](https://news.ycombinator.com/item?id=30781345))
 - [cmlkit](https://github.com/sirmarcel/cmlkit) - Tools for machine learning in condensed matter physics and quantum chemistry.
 - [DiffiQult](https://github.com/aspuru-guzik-group/DiffiQult) - Open source autodifferentiable quantum chemistry package.
+- [ChemPy](https://github.com/bjodah/chempy) - Package useful for chemistry written in Python.

@@ -588,6 +588,8 @@
 - [Observables](https://github.com/JuliaGizmos/Observables.jl) - Observables are like Refs but you can listen to changes.
 - [TimeZones.jl](https://github.com/JuliaTime/TimeZones.jl) - IANA time zone database access for Julia.
 - [SumTypes](https://github.com/MasonProtter/SumTypes.jl) - Implementation of sum types.
+- [JuliaPkg](https://github.com/cjdoris/pyjuliapkg) - Manage your Julia dependencies from Python.
+- [TableTransforms](https://github.com/JuliaML/TableTransforms.jl) - Transforms and pipelines with tabular data.
 
 ## Links
 

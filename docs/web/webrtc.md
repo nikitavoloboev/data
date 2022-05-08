@@ -105,4 +105,4 @@ title: WebRTC
 - [Offline Browser Sync](https://github.com/pion/offline-browser-communication) - Demonstration of a browser connecting to Pion WebRTC without a signaling server.
 - [MockRTC](https://github.com/httptoolkit/mockrtc) - Powerful friendly WebRTC mock peer & proxy.
 - [How Your Video Calls Work (2022)](https://www.youtube.com/watch?v=ogUuB--uhhw)
-- [weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
+- [Weron](https://github.com/pojntfx/weron) - Peer-to-Peer VPN Based on WebRTC Written in Go. ([HN](https://news.ycombinator.com/item?id=31297917))

@@ -4,7 +4,7 @@ title: React Native
 
 # [React Native](https://facebook.github.io/react-native/)
 
-[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts. [React Native Url Router](https://github.com/software-mansion-labs/react-native-url-router) is neat router.
+[Solito](https://github.com/nandorojo/solito) & [Expo](expo.md) are neat. [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) is slick too. [Stacks](https://mobily.github.io/stacks/) is useful for layouts. [React Native Url Router](https://github.com/software-mansion-labs/react-native-url-router) is neat router. [React Native Developer Tools](https://github.com/microsoft/rnx-kit/) is useful.
 
 [Ignite](https://github.com/infinitered/ignite), [zART-Stack](https://github.com/KATT/zart) & [React Native template with goodies](https://github.com/gabrielmoncea/react-native-template) seem like nice starters.
 
@@ -143,7 +143,7 @@ title: React Native
 - [React Native Quick SQLite](https://github.com/ospfranco/react-native-quick-sqlite) - Fastest SQLite implementation for react-native.
 - [metro-minify-esbuild](https://github.com/EvanBacon/metro-minify-esbuild) - Use ESBuild to make your React Native code bundle faster.
 - [Twitter.com's HTML, which is produced by React Native for Web, explained (2021)](https://giuseppegurgone.com/twitter-html/) ([HN](https://news.ycombinator.com/item?id=28382772))
-- [rnx-kit](https://github.com/microsoft/rnx-kit) - Tools which help developers build, deliver, and maintain React Native apps and libraries.
+- [rnx-kit](https://github.com/microsoft/rnx-kit) - Tools which help developers build, deliver, and maintain React Native apps and libraries. ([Docs](https://microsoft.github.io/rnx-kit/docs/introduction))
 - [React Native Async Storage](https://github.com/react-native-async-storage/async-storage) - Asynchronous, persistent, key-value storage system for React Native.
 - [Running React Native everywhere: The Webs (2021)](https://mmazzarolo.com/blog/2021-09-22-running-react-native-everywhere-web/)
 - [react-native-react-bridge](https://github.com/inokawa/react-native-react-bridge) - Easy way to integrate your React (or Preact) app into React Native app with WebView.

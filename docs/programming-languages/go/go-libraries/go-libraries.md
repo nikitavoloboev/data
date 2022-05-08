@@ -1626,6 +1626,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [pool](https://github.com/aeneasr/pool) - Go library for common concurrency patterns using generics.
 - [Netlify Commons](https://github.com/netlify/netlify-commons) - Core library that will add common features for our services.
 - [Grule-Rule-Engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Go.
+- [Go Immutable Radix](https://github.com/hashicorp/go-immutable-radix) - Immutable radix tree implementation in Go.
 
 ## Links
 

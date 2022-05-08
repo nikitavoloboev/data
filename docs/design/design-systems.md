@@ -1,6 +1,6 @@
 # Design systems
 
-[Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/) & [Polaris](https://polaris.shopify.com/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design.
+[Primer](https://primer.style/), [Vercel](https://vercel.com/design), [Radix Primitives](https://www.radix-ui.com/), [Polaris](https://polaris.shopify.com/) & [Mantine](https://mantine.dev/) are my favorite. [Brand Site Design](https://www.brandsite.design/) has a nice list. [Utopia](https://utopia.fyi/) is nice guideline for responsive design.
 
 ## Interesting design systems
 

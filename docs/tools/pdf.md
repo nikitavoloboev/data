@@ -60,3 +60,4 @@
 - [Look Scanned](https://lookscanned.io/) - Make your PDFs look scanned. ([Code](https://github.com/rwv/lookscanned.io))
 - [Ask HN: Why is the PDF format so inaccessible? (2022)](https://news.ycombinator.com/item?id=31266661)
 - [pdfreader](https://github.com/adrienjoly/npm-pdfreader) - Read text and parse tables from PDF files.
+- [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/) - OCR your PDF fast. ([Reddit](https://www.reddit.com/r/linux/comments/ukjocu/if_you_want_to_ocr_your_pdf_the_fastest_easiest/))

@@ -124,3 +124,4 @@ title: Lua
 - [MiniLua](https://github.com/edubart/minilua) - Lua contained in a single header to be bundled in C/C++ applications with ease.
 - [Lume](https://github.com/rxi/lume) - Lua functions geared towards game dev.
 - [LDoc](https://github.com/lunarmodules/LDoc) - Lua Documentation Tool.
+- [Hive](https://github.com/hackerer1c/hive) - Lua microservices framework written in Rust.

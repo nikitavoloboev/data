@@ -50,7 +50,7 @@ Direct consequence of being in love with a person is being genuinely fascinated 
 
 With respect to talking to new people and continuing and maintaining interest in conversation. Asking good questions is key. Being honest and humble in your replies to her/his questions. Be lighthearted and high spirited. You are happy to be here right now and talking about whatever the thing is. I met many people with whom I can really talk about anything and enjoy it. Listening to [various podcasts](../podcasts/podcasts.md) is amazing for practicing asking interesting questions and maintaining conversations.
 
-I also share [my thoughts on finding romantic partners](seduction.md).
+I also share [my thoughts on finding romantic partners](seduction.md). One fun thing to do with your partner is to do a [fictional character test and guess who got who for a show](https://twitter.com/dan_abramov/status/1523104608973103104).
 
 ## Notes
 
@@ -135,6 +135,7 @@ I also share [my thoughts on finding romantic partners](seduction.md).
 - [Have great self esteem and zero insecurities. Don't be entitled.](https://www.reddit.com/r/AskMen/comments/ugintb/guys_whove_dated_an_extremely_attractive_girl_how/)
 - [Falling in love with a woman is the easiest damned thing in the world. You’re genetically driven to do this. Liking a woman is a lot harder; you don’t usually have as much in common with her (down to societal/genetic differences) as you do with your boys. I’ve been with the same woman for 2 decades and when asked what the key to success in our relationship is it’s always the same: it’s more important that you like your spouse than that you love them! When you have to spend the vast majority of your time with someone not dancing the horizontal mambo then you’d better make damned sure that you like them and can talk to them.](https://www.reddit.com/r/AskMen/comments/ukb9m0/what_is_something_you_know_about_women_all_young/)
 - [Don't take dating advice from women. What women say they want in a man is vastly different from what they react positively to. Get dating advice from men who attract women, and use judgment and trial and error to see what works best. Grain of salt, and all that.](https://www.reddit.com/r/AskMen/comments/ukb9m0/what_is_something_you_know_about_women_all_young/)
+- [Inara Serra](https://openpsychometrics.org/tests/characters/stats/FS/3/) & [Jamie Fraser](https://openpsychometrics.org/tests/characters/stats/OL/2/) have nice character traits.
 
 ## Links
 

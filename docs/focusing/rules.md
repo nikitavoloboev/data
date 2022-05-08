@@ -346,4 +346,4 @@
 
 ## NextJS
 
-- Lowercase files for pages.
+- Lowercase files for pages. CamelCase components & files.

@@ -2,7 +2,7 @@
 
 [Lean](logic/automated-theorem-proving/lean.md), [Univalent foundations](http://en.wikipedia.org/wiki/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
 
-[So you want to study mathematics](https://www.susanrigetti.com/math) is a great intro.
+[So you want to study mathematics](https://www.susanrigetti.com/math) is a great intro. [Riemann Hypothesis](https://www.youtube.com/watch?v=zlm1aajH6gY) is a fun problem.
 
 ## Notes
 
