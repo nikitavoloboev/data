@@ -269,6 +269,10 @@
 
 - [Wasmer.jl](https://github.com/Pangoraw/Wasmer.jl) - Julia wrapper around the wasmer runtime to run Web Assembly blobs and libraries from Julia.
 
+## Quantum
+
+- [QuantumInformation](https://github.com/iitis/QuantumInformation.jl) - Julia package for numerical computation in quantum information theory.
+
 ## LaTeX
 
 - [LaTeXStrings](https://github.com/stevengj/LaTeXStrings.jl) - Make it easier to type LaTeX equations in string literals in the Julia language.

@@ -145,3 +145,5 @@ title: Coq
 - [Mechanized Theory of Event Structures](https://github.com/Event-Structures/event-struct)
 - [Few Coq typeclasses](https://github.com/tchajed/coq-classes)
 - [Mtac2](https://github.com/Mtac2/Mtac2) - Typed tactic language for Coq. ([Paper](https://plv.mpi-sws.org/mtac/))
+- [Autosubst](https://github.com/coq-community/autosubst) - Library for the Coq proof assistant which provides automation for formalizing syntactic theories with variable binders.
+- [Argosy](https://github.com/mit-pdos/argosy) - Verifying layered storage systems with recovery refinement.

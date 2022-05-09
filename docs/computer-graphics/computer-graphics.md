@@ -227,3 +227,4 @@
 - [Graphics Developer Roadmap](https://github.com/prographon/graphics-developer-roadmap)
 - [7GUIs](https://eugenkiss.github.io/7guis/tasks/) - Reflect as many typical (or fundamental or representative) challenges in GUI programming as possible. ([HN](https://news.ycombinator.com/item?id=31273802))
 - [Xilem: an architecture for UI in Rust (2022)](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html) ([HN](https://news.ycombinator.com/item?id=31297550)) ([Lobsters](https://lobste.rs/s/hyduzg/xilem_architecture_for_ui_rust))
+- [Differentiable Signed Distance Function Rendering (2022)](http://rgl.epfl.ch/publications/Vicini2022SDF) ([HN](https://news.ycombinator.com/item?id=31314051))

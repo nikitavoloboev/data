@@ -497,3 +497,4 @@ title: GitHub actions
 - [Cross-Platform GitHub Action](https://github.com/cross-platform-actions/action) - Provides a GitHub action for running GitHub Action workflows on multiple platforms.
 - [Setup FFmpeg](https://github.com/FedericoCarboni/setup-ffmpeg) - Setup FFmpeg in GitHub Actions.
 - [How we sharded our test suite for 10x faster runs on GitHub Actions (2022)](https://www.edgedb.com/blog/how-we-sharded-our-test-suite-for-10x-faster-runs-on-github-actions)
+- [Output and group custom Markdown content on the Actions run summary page (2022)](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)

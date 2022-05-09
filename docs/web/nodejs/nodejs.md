@@ -383,3 +383,4 @@ title: Node.js
 - [Which Monorepo is right for a Node.js backend? (2022)](https://medium.com/autodesk-tlv/lerna-has-gone-which-monorepo-is-right-for-a-node-js-backend-fc075cad51b0)
 - [busboy](https://github.com/mscdex/busboy) - Streaming parser for HTML form data for node.js.
 - [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/) ([Code](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition))
+- [Node.js Diagnostics Working Group](https://github.com/nodejs/diagnostics)

@@ -1854,6 +1854,7 @@
 - [Buildstructor](https://github.com/BrynCooke/buildstructor) - Derive a builder for your constructors in Rust.
 - [Ruler](https://github.com/uwplse/ruler) - Framework that uses equality saturation to automatically infer small, expressive rulesets for a domain.
 - [DLHN](https://github.com/otake84/dlhn) - Language and platform neutral binary serialization format that is inspired by JSON, CSV, MessagePack, and Protocol Buffers.
+- [futures-async-stream](https://github.com/taiki-e/futures-async-stream) - Async stream for Rust and the futures crate.
 
 ## Cargo Plugins
 

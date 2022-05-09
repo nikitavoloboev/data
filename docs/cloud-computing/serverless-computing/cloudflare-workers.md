@@ -156,3 +156,4 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [darkflare](https://github.com/azurydev/darkflare) - Highly opinionated TypeScript framework for Cloudflare Workers.
 - [build-worker](https://github.com/brillout/build-worker) - Build your Cloudflare Workers with esbuild.
 - [Reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers. ([Docs](https://reflare.js.org/))
+- [10 things I love about Wrangler v2.0 (2022)](https://blog.cloudflare.com/10-things-i-love-about-wrangler/)
