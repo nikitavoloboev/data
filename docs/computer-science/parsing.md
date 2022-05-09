@@ -108,3 +108,4 @@
 - [Binary build of tree-sitter for apple platforms](https://github.com/krzyzanowskim/tree-sitter-xcframework)
 - [TSPM](https://github.com/helix-editor/tspm) - Open-source tree-sitter package manager.
 - [Lola](https://github.com/keith-packard/lola) - LL parser table generator.
+- [Parsing / Recursive Descent Parser (2022)](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser) ([HN](https://news.ycombinator.com/item?id=31311218)) ([Lobsters](https://lobste.rs/s/rb3zjt/parsing_recursive_descent_parser))

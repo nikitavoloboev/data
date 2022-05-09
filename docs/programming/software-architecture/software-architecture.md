@@ -232,3 +232,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Examples of web apps built with Entity Component System (2022)](https://twitter.com/DasSurma/status/1516390506472824834)
 - [Simple Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)
 - [Clean Architecture Example Project](https://github.com/julien-h/clean-architecture-example) - Use-case based hexagonal architecture, or ports and adapters architecture.
+- [Design Deck](https://github.com/teivah/designdeck) - Open-source collection of 160+ system design flash cards.

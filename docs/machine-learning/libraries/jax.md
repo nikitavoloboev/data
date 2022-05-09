@@ -36,3 +36,4 @@ title: JAX
 - [Big Vision](https://github.com/google-research/big_vision) - Designed for training large-scale vision models on Cloud TPU VMs. Based on Jax/Flax libraries.
 - [Jax vs. Julia (Vs PyTorch) (2022)](https://kidger.site/thoughts/jax-vs-julia/) ([HN](https://news.ycombinator.com/item?id=31263516))
 - [minGPT in JAX](https://github.com/mgrankin/minGPT)
+- [flaxvision](https://github.com/rolandgvc/flaxvision) - Selection of neural network models ported from torchvision for JAX & Flax.

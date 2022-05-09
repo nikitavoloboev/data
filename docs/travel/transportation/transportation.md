@@ -44,3 +44,4 @@
 - [What's a hidden Tesla trick more people should know about?](https://twitter.com/Model3Owners/status/1498740769825435653)
 - [Lucid Motors](https://www.lucidmotors.com/) - Luxury Electric Cars.
 - [The Dark Side of Electric Cars (2022)](https://www.youtube.com/watch?v=2_T5DgsO0jc)
+- [I saw a cool truck today (2022)](https://theap.substack.com/p/i-saw-a-cool-truck-today?s=r) ([HN](https://news.ycombinator.com/item?id=31309595))

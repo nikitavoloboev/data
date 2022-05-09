@@ -19,6 +19,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 - [Mitchell Hashimoto](https://github.com/mitchellh/nixos-config) - Work for both Intel and Apple Silicon. ([Tweet](https://twitter.com/mitchellh/status/1452721115009191938)) ([NixOS VM on Mac Setup](https://www.youtube.com/watch?v=ubDMLoWz76U))
 - [Infrastructure](https://github.com/rvolosatovs/infrastructure) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
+- [Sridhar Ratnakumar](https://github.com/srid/nixos-config) - NixOS config, supports macOS too.
 - [Rehno Lindeque](https://github.com/rehno-lindeque/wip)
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
@@ -216,3 +217,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Operating systems battle: OpenBSD vs. NixOS (2022)](https://dataswamp.org/~solene/2022-04-18-openbsd-vs-nixos.html) ([HN](https://news.ycombinator.com/item?id=31075570))
 - [Nix-Editor](https://github.com/vlinkz/nix-editor) - Command line utility for modifying NixOS configuration values.
 - [NixOS on Btrfs+tmpfs (2021)](https://cnx.srht.site/blog/butter/index.html) ([HN](https://news.ycombinator.com/item?id=31269972))
+- [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions.

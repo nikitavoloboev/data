@@ -293,6 +293,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Morph](https://github.com/mattermost/morph) - Database migration tool that helps you to apply your migrations. Written with Go.
 - [loadgen](https://github.com/crazycs520/loadgen) - Generate database load.
 - [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application.
+- [Antares SQL](https://antares-sql.app/) - Modern, fast and productivity driven SQL client with a focus in UX. ([Code](https://github.com/antares-sql/antares))
 
 ## Notes
 
@@ -600,3 +601,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [A Decent Database Service (2022)](https://steve.dignam.xyz/2022/03/19/decent-database-service/)
 - [Datascript and Datomic tutorial book](https://github.com/kristianmandrup/datascript-tutorial)
 - [Zero downtime migrations (2022)](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html) ([HN](https://news.ycombinator.com/item?id=31269515))
+- [CaskDB](https://github.com/avinassh/py-caskdb) - Project to teach you building a key value store. ([HN](https://news.ycombinator.com/item?id=31304897))

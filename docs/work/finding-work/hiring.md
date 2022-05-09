@@ -150,3 +150,4 @@
 - [Steve Jobs taking a long term view on people, don't just fix problems](https://www.youtube.com/watch?v=1lEnMmH9qh4)
 - [VP of Engineering hiring cheat sheet](https://notion.notion.site/VP-of-Engineering-hiring-cheatsheet-f7824eb3f60748bb997f9b9b14c073a5)
 - [We Need Someone Who Has Done “It” Before (2022)](https://cutlefish.substack.com/p/tbm-1852-we-need-someone-who-has?s=r) ([HN](https://news.ycombinator.com/item?id=31190669))
+- [How to on-board properly at new jobs (2022)](https://twitter.com/wes_kao/status/1523316828164042753)

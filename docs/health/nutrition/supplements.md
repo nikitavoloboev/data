@@ -50,3 +50,4 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [What supplements do you take and why? (2021)](https://www.reddit.com/r/nutrition/comments/lzpjxq/what_supplements_do_you_take_and_why/)
 - [Ask HN: What supplements do you take? (2021)](https://news.ycombinator.com/item?id=26384702)
 - [Taking multi vitamins still a waste of money, or no? (2022)](https://www.reddit.com/r/nutrition/comments/ueu9q8/taking_multi_vitmains_still_a_waste_of_money_or_no/)
+- [Vitamin D and Depression (2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/) ([HN](https://news.ycombinator.com/item?id=31306177))

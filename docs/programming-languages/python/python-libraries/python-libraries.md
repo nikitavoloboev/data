@@ -1001,3 +1001,5 @@
 - [flake8-pie](https://github.com/sbdchd/flake8-pie) - Flake8 extension that implements misc. lints.
 - [Example pybind11 module built with a CMake-based build system](https://github.com/pybind/cmake_example)
 - [Sphinx-Gallery](https://github.com/sphinx-gallery/sphinx-gallery) - Sphinx extension that builds an HTML version of any Python script and puts it into an examples gallery.
+- [Speed up your Python using Rust](https://github.com/rochacbruno/rust-python-example)
+- [Multiple assignment and tuple unpacking improve Python code readability (2018)](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/) ([HN](https://news.ycombinator.com/item?id=31303463))

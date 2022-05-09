@@ -87,3 +87,4 @@ Is logical theory of computable functions.
 - [λC+](https://github.com/aellym0/lambdacplus) - Proof assistant based on the Calculus of Constructions.
 - [Simple, zero-dependency implementation of the untyped lambda calculus in Safe Rust](https://github.com/ljedrz/lambda_calculus)
 - [Lili](https://github.com/jdrprod/lili) - Minimalist proof checker based on a simply typed lambda-calculus.
+- [SKI combinators - AST and Evaluating](https://github.com/ngzhian/ski)

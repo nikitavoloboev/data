@@ -346,3 +346,4 @@ title: ML Libraries
 - [FederatedScope](https://github.com/alibaba/FederatedScope) - Easy-to-use federated learning platform.
 - [Habitat Lab](https://github.com/facebookresearch/habitat-lab) - Modular high-level library to train embodied AI agents across a variety of tasks, environments, and simulators.
 - [Ranger21](https://github.com/lessw2020/Ranger21) - Integrating the latest deep learning components into a single optimizer.
+- [Tevatron](https://github.com/texttron/tevatron) - Flexible toolkit for dense retrieval research and development.

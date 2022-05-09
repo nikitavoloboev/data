@@ -167,3 +167,4 @@
 - [CSV Base](https://csvbase.com/) - Turn CSV files into read+write APIs. ([Code](https://github.com/calpaterson/csvbase))
 - [A Dataset and Explorer for 3D Signed Distance Functions (2022)](https://tovacinni.github.io/sdf-explorer/) ([Code](https://github.com/tovacinni/sdf-explorer))
 - [Vega Datasets](https://github.com/vega/vega-datasets) - Collection of datasets used in Vega and Vega-Lite examples.
+- [Azimuth](https://github.com/ServiceNow/azimuth) - Open-source dataset and error analysis tool for text classification.

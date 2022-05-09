@@ -17,6 +17,7 @@ title: JavaScript
 - [JS proxy can observe a nested object for changes made to it. That means there's none of the traditional selecting or diffing.](https://twitter.com/0xca0a/status/1328756186288713730)
 - [One optimization that turned out well: storing JavaScript strings as either UTF-16 or UTF-8, depending on whats inside. It turns out this is also what JavaScript engines do, so it makes converting from a string in a JavaScript VM to a string in Bun's AST fast.](https://twitter.com/jarredsumner/status/1441876861106024449)
 - [Stop using strings concatenation to create and edit URLs in JS. All major browsers have great built-in functionality for URL parsing & manipulation.](https://twitter.com/Steve8708/status/1509280798423191554)
+- [Use arrow functions for 1-line functions only, otherwise named functions are always the best choice: better stack trace, better tracing and more readable.](https://twitter.com/ManuEomm/status/1523222905437319168)
 
 ## Code
 
@@ -436,3 +437,4 @@ if (
 - [ECMAScript proposal: do expressions](https://github.com/tc39/proposal-do-expressions)
 - [Meticulous](https://meticulous.ai/) - Catch JavaScript errors before they hit prod. ([HN](https://news.ycombinator.com/item?id=31236066))
 - [I fell in love with low-JS (2022)](https://edofic.com/posts/2022-01-28-low-js/) ([HN](https://news.ycombinator.com/item?id=31249181)) ([Lobsters](https://lobste.rs/s/859lel/how_i_fell_love_with_low_js))
+- [TodoMVC App Written in Vanilla JS in 2022](https://github.com/1Marc/todomvc-vanillajs-2022)

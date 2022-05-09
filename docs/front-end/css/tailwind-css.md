@@ -148,3 +148,4 @@ title: Tailwind CSS
 - [Lemon Design](https://github.com/albingroen/lemon-design-react) - React component library based on Tailwind CSS.
 - [Tailwind CSS Logical](https://github.com/stevecochrane/tailwindcss-logical) - CSS Logical Properties and Values plugin for Tailwind CSS.
 - [Tailwind CSS Plugin Starter](https://github.com/maizzle/tailwindcss-plugin-starter) - Boilerplate for Tailwind CSS plugins.
+- [Tailwind CSS OpenType](https://github.com/stormwarning/tailwindcss-opentype) - Tailwind CSS utility classes for advanced typographic features.

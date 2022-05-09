@@ -360,3 +360,4 @@
 - [Ask HN: Books that made you fascinated to learn more mathematics? (2022)](https://news.ycombinator.com/item?id=31245405)
 - [Are there any things in math you wish you could rename? (2022)](https://www.reddit.com/r/math/comments/ujfd27/are_there_any_things_in_math_you_wish_you_could/)
 - [Understanding Mathematics: A Study Guide](https://www.math.utah.edu/~alfeld/math.html)
+- [ReX](https://github.com/ReTeX/ReX) - Typesetting Mathematics.

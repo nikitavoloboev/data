@@ -4,7 +4,7 @@ title: Docker
 
 # [Docker](https://www.docker.com/)
 
-[DockerSlim](https://github.com/docker-slim/docker-slim) is useful. Seems everyone is moving to [containerd](https://github.com/containerd/containerd) now.
+[DockerSlim](https://github.com/docker-slim/docker-slim) is useful. Seems everyone is moving to [containerd](https://github.com/containerd/containerd) or [Colima](https://github.com/abiosoft/colima) now.
 
 ## Links
 
@@ -233,3 +233,4 @@ title: Docker
 - [Gitpod Workspace Images](https://github.com/gitpod-io/workspace-images) - Ready-to-use Docker images for gitpod.io workspaces.
 - [Drone Docker](https://github.com/drone-plugins/drone-docker) - Drone plugin for publishing Docker images using Docker-in-Docker.
 - [Docker Extensions SDK](https://github.com/docker/extensions-sdk)
+- [buildg](https://github.com/ktock/buildg) - Tool to interactively debug Dockerfile based on BuildKit.

@@ -55,3 +55,5 @@ title: SolidJS
 - [Motion One for Solid](https://motion.dev/solid/quick-start) - Combines Solid's amazing performance with declarative WAAPI animations, independent transforms, springs, stagger, and more. ([Tweet](https://twitter.com/motiondotdev/status/1520025108403863554))
 - [Solid Services](https://github.com/Exelord/solid-services) - Solid.js library adding a services layer for global shared state.
 - [Solid Proxies](https://github.com/Exelord/solid-proxies) - Solid.js library adding signaling to built-in non-primitives.
+- [Solid DND](https://github.com/thisbeyond/solid-dnd) - Lightweight, performant, extensible drag and drop toolkit for Solid. ([Web](https://solid-dnd.com/)) ([Web Code](https://github.com/thisbeyond/solid-dnd-site))
+- [Turbo Solid](https://github.com/StudioLambda/TurboSolid) - Lightweight asynchronous data management for solid.

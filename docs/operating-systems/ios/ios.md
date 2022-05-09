@@ -6,7 +6,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 
 ## Nice OSS iOS Swift apps
 
-- [Runestone](https://github.com/simonbs/Runestone) - Performant plain text editor for iOS with code editing features.
+- [Runestone](https://github.com/simonbs/Runestone) - Performant plain text editor for iOS with code editing features. ([Docs](https://docs.runestone.app/documentation/)) ([Docs Code](https://github.com/simonbs/docs.runestone.app))
 - [BreadBuddy](https://github.com/maxhumber/BreadBuddy) - Open source recipe scheduler for iOS.
 - [News](https://github.com/dkhamsing/news) - iOS news app in the style of Apple News.
 - [The Roundtable](https://github.com/Dimillian/The-Roundtable) - Elden Ring companion iOS application in SwiftUI.

@@ -528,3 +528,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [How to write a Git commit message (2014)](https://cbea.ms/git-commit/) ([HN](https://news.ycombinator.com/item?id=31173484))
 - [Changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [git-sync](https://github.com/jacobwgillespie/git-sync) - Fast-forward outdated branches and remove merged and deleted upstream branches.
+- [Git Visual](https://git-truck.github.io/) - Visualizing a Git repository. ([Code](https://github.com/git-truck/git-truck))

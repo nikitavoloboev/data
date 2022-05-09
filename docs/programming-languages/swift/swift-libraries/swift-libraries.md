@@ -330,6 +330,7 @@
 - [Vapor Sitemap](https://github.com/vapor-community/vapor-sitemap) - Dynamic sitemap generator for Vapor.
 - [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing for Swift.
 - [Vapor Routing](https://github.com/pointfreeco/vapor-routing) - Routing library for Vapor with a focus on type safety, composition and URL generation.
+- [PacketProcessor](https://github.com/dannys42/SwiftPacketProcessor) - Type-safe packet processor framework in Swift.
 
 ## WASM
 
@@ -504,6 +505,7 @@
 - [Dux](https://github.com/jakeheis/Dux) - Guide users through your SwiftUI app with coach marks.
 - [ViewController](https://github.com/ZeeZide/ViewController) - MVC for SwiftUI. ViewController's for SwiftUI.
 - [Model3DView](https://github.com/frzi/Model3DView) - Render 3D models with SwiftUI effortlessly.
+- [CompactSlider](https://github.com/buh/CompactSlider) - Control for selecting a value from a bounded linear range of values.
 
 ## Test
 

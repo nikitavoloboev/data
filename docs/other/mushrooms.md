@@ -19,3 +19,4 @@
 - [Mushrooms communicate with each other using up to 50 ‘words’, scientist claims](https://www.reddit.com/r/science/comments/txma6h/mushrooms_communicate_with_each_other_using_up_to/)
 - [Microbiology from A to Z explained - Micropia](https://www.micropia.nl/en/discover/microbiology/mycelium/)
 - [Compostable fungi-based replacement for styrofoam](https://www.soma.eco/our-materials) ([HN](https://news.ycombinator.com/item?id=31165988))
+- [Fungal Tree of Life poster](http://group.szbk.u-szeged.hu/sysbiol/nagy-laszlo-lab-poster.html) ([Tweet](https://twitter.com/laszlognagy/status/1522471810809450496))

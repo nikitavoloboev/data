@@ -780,3 +780,4 @@ title: Rust
 - [An O(1) Generic Blog Post About Rust (2022)](https://peterkos.me/rust-const-generics/) ([HN](https://news.ycombinator.com/item?id=31238942))
 - [Single Page Applications using Rust (2020)](https://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/)
 - [Bugs that the Rust compiler catches for you (2022)](https://kerkour.com/bugs-rust-compiler-helps-prevent) ([HN](https://news.ycombinator.com/item?id=31278379))
+- [Building Rust code for my OpenWrt Wi-Fi router (2022)](https://blog.dend.ro/building-rust-for-routers/) ([HN](https://news.ycombinator.com/item?id=31305048))

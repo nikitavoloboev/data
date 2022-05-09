@@ -101,3 +101,4 @@ title: Elm
 - [Elm Project Template with Vite](https://github.com/duncanmalashock/elm-project-template)
 - [State of Elm 2022](https://state-of-elm.lamdera.app/)
 - [Elm Store Pattern](https://github.com/Janiczek/elm-store-pattern)
+- [Elm Value Graph](https://lydell.github.io/elm-value-graph/) - Show how every value in an Elm application depend on each other, as a graph. ([Code](https://github.com/lydell/elm-value-graph))

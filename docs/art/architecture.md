@@ -26,6 +26,7 @@
 - [Inside Vanessa Hudgens's Enchanting L.A. Home](https://www.youtube.com/watch?v=Axg27gwEqCE)
 - [Starship House — West Coast Modern](https://www.westcoastmodern.ca/properties/starshiphouse)
 - [Forest Architectures](https://twitter.com/jasonpatricksc/status/1495077120757809155)
+- [Open space with plants](https://twitter.com/moothought/status/1523336575572086784)
 
 ## Inspiring
 
