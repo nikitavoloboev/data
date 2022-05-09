@@ -182,6 +182,7 @@
 - [static_ondisk_kv](https://github.com/rom1504/static-ondisk-kv) - Simple and fast implementation of a static on disk kv, in python.
 - [SQLGlot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler.
 - [sqlakeyset](https://github.com/djrobstep/sqlakeyset) - Keyset-based paging for SQLAlchemy (both ORM and core).
+- [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 
 ## GUI
 

@@ -233,7 +233,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Meta Meme](https://metameme.app/) - Video and Image Meme Maker. ([HN](https://news.ycombinator.com/item?id=28329444))
 - [ToolJet](https://tooljet.com/) - Build and deploy internal tools. ([Code](https://github.com/ToolJet/ToolJet)) ([HN](https://news.ycombinator.com/item?id=27421408))
 - [Lucidchart](https://www.lucidchart.com/pages/) - Online Diagram Software & Visual Solution.
-- [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes.
+- [Airplane](https://www.airplane.dev/) - Code to internal apps in minutes. ([How we use Airplane to simplify our tech infrastructure](https://lu.ma/p/CKxGL0gCZChE4OA/How-we-use-Airplane-to-simplify-our-tech-infrastructure))
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.

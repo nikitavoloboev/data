@@ -110,6 +110,7 @@
 - [Engineering In-place (Shared-memory) Sorting Algorithms (2020)](https://arxiv.org/abs/2009.13569) ([Code](https://github.com/ips4o/ips2ra))
 - [Introduction to Algorithms, Fourth Edition Book](https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition) ([Solutions](https://github.com/gzc/CLRS))
 - [Algorithms implemented in C, Rust, and Python](https://github.com/alilleybrinker/algs)
+- [Use Fast Data Algorithms (2021)](https://jolynch.github.io/posts/use_fast_data_algorithms/)
 
 ## Images
 

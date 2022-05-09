@@ -92,3 +92,4 @@ title: Agda
 - [Experimenting on ornamentation in Agda via reflection](https://github.com/Zekt/Type-Embellishment)
 - [Non-dependent and dependent lenses](https://github.com/nad/dependent-lenses)
 - [Meta Cedille](https://github.com/WhatisRT/meta-cedille) - Minimalistic dependent type theory with syntactic metaprogramming.
+- [Fragment](https://github.com/frex-project/agda-fragment) - Algebraic proof discovery in Agda.

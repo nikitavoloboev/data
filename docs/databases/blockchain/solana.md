@@ -6,7 +6,7 @@ title: Solana
 
 > Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 
-Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. [Here](https://twitter.com/ayushmenon_/status/1476294409205526534) is a nice guide. [Anchor](https://book.anchor-lang.com/) is best framework.
+Diving into [building dApps](https://hackmd.io/@ironaddicteddog/solana-starter-kit) with Solana. This [article](https://lu.ma/p/3nHEa7k5DABpzE6/The-Solana-Programming-Model) & [thread](https://twitter.com/ayushmenon_/status/1476294409205526534) are nice intro guides. [Anchor](https://book.anchor-lang.com/) is best framework.
 
 I buy SOL with [FTX](https://ftx.com/referrals#a=58425911) (SEPA transfer) and [stake](https://www.reddit.com/r/solana/comments/soeadc/where_are_you_staking_your_solana/) some in FTX itself.
 

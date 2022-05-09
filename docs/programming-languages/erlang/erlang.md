@@ -155,3 +155,4 @@ title: Erlang
 - [Erlang grammar for tree-sitter](https://github.com/the-mikedavis/tree-sitter-erlang)
 - [erl_rpc](https://github.com/sile/erl_rpc) - Erlang RPC Client for Rust.
 - [Partisan](https://github.com/lasp-lang/partisan) - Flexible, TCP-based membership system for Erlang/Elixir.
+- [Is Erlang an albatross to Elixir adoption? (2022)](https://news.ycombinator.com/item?id=31314274)

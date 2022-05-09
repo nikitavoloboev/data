@@ -131,6 +131,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [CodeMirror Basic Setup](https://github.com/codemirror/basic-setup) - Example configuration for the CodeMirror code editor.
 - [ProseMirror Elements](https://github.com/guardian/prosemirror-elements) - ProseMirror plugin for adding user-defined 'elements' containing arbitrary fields to a document.
 - [Slate-yjs](https://github.com/BitPhinix/slate-yjs) - Goto collaboration solution for slate.
+- [monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor.
 
 ## Notes
 

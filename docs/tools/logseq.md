@@ -22,3 +22,4 @@ title: Logseq
 - [Logseg Publish Action](https://github.com/pengx17/logseq-publish) - Publish your Logseq graph with a GitHub Action.
 - [Logseq Calendar Plugin](https://github.com/haydenull/logseq-plugin-agenda)
 - [10 Must Plugins for Logseq (2022)](https://www.youtube.com/watch?v=7rSs-WMF6Cg)
+- [Teletolo](https://github.com/abul4fia/teletolo) - Telegram To Logseq.

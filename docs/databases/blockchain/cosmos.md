@@ -15,3 +15,4 @@ title: Cosmos
 - [Terrain](https://github.com/iboss-ptk/terrain) - Terra development environment for better smart contract development experience.
 - [CosmWasm Optimizing Compiler](https://github.com/CosmWasm/rust-optimizer) - Docker build with a locked set of dependencies to produce reproducible builds of cosmwasm smart contracts.
 - [IBC-Go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Go.
+- [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)

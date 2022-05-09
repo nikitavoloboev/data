@@ -529,3 +529,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options.
 - [git-sync](https://github.com/jacobwgillespie/git-sync) - Fast-forward outdated branches and remove merged and deleted upstream branches.
 - [Git Visual](https://git-truck.github.io/) - Visualizing a Git repository. ([Code](https://github.com/git-truck/git-truck))
+- [git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite.

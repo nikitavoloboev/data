@@ -143,3 +143,5 @@ title: Coq
 - [Country-Fried Coq: Overly- Formalized Nonstandard Arithmetic (2022)](http://sigtbd.csail.mit.edu/pubs/2022/sigtbd22-paper7.pdf)
 - [Hydras & Co](https://github.com/coq-community/hydra-battles) - Variations on Kirby & Paris' hydra battles and other entertaining math in Coq (collaborative, documented, includes exercises).
 - [Mechanized Theory of Event Structures](https://github.com/Event-Structures/event-struct)
+- [Few Coq typeclasses](https://github.com/tchajed/coq-classes)
+- [Mtac2](https://github.com/Mtac2/Mtac2) - Typed tactic language for Coq. ([Paper](https://plv.mpi-sws.org/mtac/))

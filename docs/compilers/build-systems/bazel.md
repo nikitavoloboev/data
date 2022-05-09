@@ -51,3 +51,4 @@ title: Bazel
 - [Starlark Language](https://docs.bazel.build/versions/main/skylark/language.html) - Python-inspired configuration language. Used by Bazel. ([Starlark LSP](https://github.com/tilt-dev/starlark-lsp))
 - [Awesome Bazel](https://github.com/jin/awesome-bazel)
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building.
+- [Target Determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.

@@ -352,3 +352,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Cut the crap](https://github.com/jappeace/cut-the-crap) - Automatic video editing program for streamers.
 - [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl (using the yt-dlp fork) with playlist support.
 - [“Figma for video editing” startups (more than 20)](https://twitter.com/JanPaul123/status/1522763020044103680)
+- [Chat bubble tool for YouTube](https://github.com/craftzdog/chat-bubbles-for-yt) - Tool for recording typing animations and sounds with imitated chat UI.

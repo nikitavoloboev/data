@@ -475,3 +475,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Creating and deploying a tiny proxy server on Vercel in 10 minutes (2022)](https://mmazzarolo.com/blog/2022-02-05-creating-and-deploying-a-proxy-server-in-5-minutes/)
 - [GOSNIFF](https://github.com/c-grimshaw/gosniff) - Textual User-Interface Network Sniffer.
 - [Scapy: low level packet hacking toolkit for Python (2022)](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/) ([HN](https://news.ycombinator.com/item?id=31304178))
+- [tinysnitch](https://github.com/nathants/tinysnitch) - Interactive firewall for inbound and outbound connections.
+- [Linux Networking Scripts/Commands (2022)](https://haydenjames.io/linux-networking-commands-scripts/)

@@ -4,6 +4,8 @@ title: Reddit
 
 # [Reddit](https://www.reddit.com/)
 
+[Apollo iOS Reddit app](https://apolloapp.io/) is amazing.
+
 ## Bots
 
 - [Music recognition bot for Reddit powered by audd.io](https://github.com/AudDMusic/RedditBot)
@@ -66,3 +68,5 @@ title: Reddit
 - [Photon Reddit](https://photon-reddit.com/) - Clean and modern Reddit desktop web client. ([Code](https://github.com/ArthurHeitmann/photon-reddit))
 - [Reddit Save](https://github.com/samirelanduk/reddit-save) - Python utility for backing up your reddit upvoted/saved stuff.
 - [Reddit Video Downloader](https://redditsave.com/) - Download Reddit videos with sound audio.
+- [Related Subreddits By User/Redditor Overlap](https://subredditstats.com/subreddit-user-overlaps)
+- [Subreddit Stats](https://subredditstats.com/) - Statistics for every subreddit.

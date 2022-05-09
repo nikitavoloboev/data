@@ -206,3 +206,4 @@ title: SwiftUI
 - [Best ways to communicate events 'up' to parent UIKit view controller](https://twitter.com/ChristianSelig/status/1516436641019310080)
 - [Simple SwiftUI](https://github.com/twostraws/simple-swiftui) - Collection of small SwiftUI sample projects.
 - [Send Events from SwiftUI to UIKit and Vice Versa (2022)](https://www.swiftjectivec.com/events-from-swiftui-to-uikit-and-vice-versa/)
+- [SwiftUI Social Contributor App](https://github.com/adamrushy/social-swiftui-app) - Designed as a social way to build and learn SwiftUI.

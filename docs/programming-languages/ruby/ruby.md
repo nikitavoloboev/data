@@ -128,3 +128,4 @@
 - [Ruby grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-ruby)
 - [Fasterer](https://github.com/DamirSvrtan/fasterer) - Make your Rubies go faster with this command line tool.
 - [Standing on the shoulders of giants and leaky abstractions (2022)](https://honeyryderchuck.gitlab.io/httpx/2022/05/04/standing-on-the-shoulders-of-giants-and-leaky-abstractions.html)
+- [Embedding Truffle Languages (2022)](https://nirvdrum.com/2022/05/09/truffle-language-embedding.html)

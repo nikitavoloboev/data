@@ -252,3 +252,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Why Remotion is a native macOS app (not Electron) (2021)](https://www.remotion.com/blog/why-remotion-is-a-native-macos-app-not-electron) ([HN](https://news.ycombinator.com/item?id=30956846))
 - [CatalystToolbarMenuButton](https://github.com/steventroughtonsmith/CatalystToolbarMenuButton) - Showcasing how to build a dropdown menu toolbar button using AppKit.
 - [Designing macOS menu bar extras](https://bjango.com/articles/designingmenubarextras/)
+- [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about) ([HN](https://news.ycombinator.com/item?id=31315110))

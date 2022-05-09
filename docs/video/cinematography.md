@@ -42,3 +42,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Why Dune's Editing Feels Different (2022)](https://www.youtube.com/watch?v=7_z-BwZeuQs)
 - [Why The Batman Is So Beautiful (2022)](https://www.youtube.com/watch?v=STynLl-2FqU)
 - [Why Better Call Saul is Brilliant](https://www.youtube.com/watch?v=AwvJ-77O_uk)
+- [Pure cinema camera choice under $10k - What to pick? (2022)](https://www.reddit.com/r/videography/comments/ul7ado/pure_cinema_camera_choice_under_10k_what_to_pick/)

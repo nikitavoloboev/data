@@ -36,3 +36,4 @@
 - [Yes, Other Countries Do Housing Better, Case 2: Germany (2021)](https://www.sightline.org/2021/05/27/yes-other-countries-do-housing-better-case-2-germany/) ([HN](https://news.ycombinator.com/item?id=29721535))
 - [Resources on egovernment in Germany](https://github.com/codedust/awesome-egov-de)
 - [Berlin Apartments](https://github.com/shuding/berlin-apartments) - Information of apartments in Berlin for digital nomads.
+- [German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German.

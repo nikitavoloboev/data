@@ -233,3 +233,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Simple Framework For Mobile System Design Interviews](https://github.com/weeeBox/mobile-system-design)
 - [Clean Architecture Example Project](https://github.com/julien-h/clean-architecture-example) - Use-case based hexagonal architecture, or ports and adapters architecture.
 - [Design Deck](https://github.com/teivah/designdeck) - Open-source collection of 160+ system design flash cards.
+- [Luma's Tech Stack (2021)](https://lu.ma/p/zPamspcICt0f3q9/Lumas-Tech-Stack)
+- [System Design Repository](https://github.com/OpesanyaAdebayo/systems-design) - All things System Design. Books, Blog Posts, Interview questions etc.
