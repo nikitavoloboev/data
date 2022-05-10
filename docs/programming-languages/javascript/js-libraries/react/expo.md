@@ -8,6 +8,7 @@ title: Expo
 
 ## Example OSS apps
 
+- [Expo Starter template](https://github.com/calebnance/expo-starter)
 - [Turborepo starter with Expo and tRPC](https://github.com/gunnnnii/turbo-expo-trpc-starter)
 - [Meditation App](https://github.com/jackburrus/MeditationApp) - Built with Expo.
 - [Netflix Clone](https://github.com/calebnance/expo-netflix) - Expo / react native || web support.

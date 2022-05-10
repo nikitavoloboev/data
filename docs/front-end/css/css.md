@@ -499,3 +499,4 @@ all: unset
 - [Is .css a bad idea? Is inlining the way forward? (2022)](https://www.youtube.com/watch?v=3sMflOp5kiQ)
 - [Ordering CSS Declarations (2022)](https://blog.jim-nielsen.com/2022/ordering-css-delcarations/) ([HN](https://news.ycombinator.com/item?id=31259627))
 - [Favorite Modern CSS features (2022)](https://twitter.com/argyleink/status/1523867688849666048)
+- [CSS Stats](https://cssstats.com/) - Visualize various stats about your CSS. ([Code](https://github.com/cssstats/cssstats))

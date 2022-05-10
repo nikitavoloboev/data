@@ -119,6 +119,8 @@ title: Obsidian
 - [Paste PNG to JPEG](https://github.com/musug/obsidian-paste-png-to-jpeg) - When pasting screenshots into obsidian notes, convert the images to JPEG and compress them.
 - [ExcaliBrain](https://github.com/zsviczian/excalibrain) - Graph view to navigate your Obsidian vault.
 - [Meta Title Filename](https://github.com/Snezhig/obsidian-meta-title-filename) - Let you replace filename with meta block.
+- [Obsidian Dynamic ToC](https://github.com/Aidurber/obsidian-plugin-dynamic-toc) - Generate Tables of Contents that stay up to date with your document outline.
+- [Obsidian Tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed Obsidian usage.
 
 ## Themes
 

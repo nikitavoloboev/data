@@ -173,3 +173,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Squeak](https://github.com/PostHog/squeak) - Q&A widget for your docs.
 - [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
 - [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.
+- [Spacebook](https://spacebook.app/) - Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. ([Code](https://github.com/broeker/spacebook))

@@ -245,3 +245,4 @@
 - [Minimal C compiler in x86 assembly](https://github.com/oriansj/stage0/blob/master/stage2/cc_x86.s) ([HN](https://news.ycombinator.com/item?id=31244150))
 - [Set of minimal dependency bootstrap binaries](https://github.com/oriansj/stage0) - Goal of creating a bootstrapping path to a C compiler capable of compiling GCC, with only the explicit requirement of a single 1 KByte binary or less.
 - [A game for learning C operator precedence](https://www.devever.net/~hl/cprec) ([Lobsters](https://lobste.rs/s/4z37uj/game_for_learning_c_operator_precedence))
+- [4 integers are enough to write a Snake Game (2022)](https://www.andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-game) ([Lobsters](https://lobste.rs/s/o80uoz/4_integers_are_enough_write_snake_game))

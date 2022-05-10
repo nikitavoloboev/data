@@ -174,6 +174,7 @@
 - [At the boundaries, applications aren't functional (2022)](https://blog.ploeh.dk/2022/05/02/at-the-boundaries-applications-arent-functional/)
 - [Template for Hindley-Milner based languages](https://github.com/mbg/hindley-milner)
 - [Selective applicative functors](https://github.com/snowleopard/selective) - Abstraction between applicative functors and monads.
+- [Utrecht Advanced Functional Programming Summer School](https://uu-afp.github.io/)
 
 ## Images
 

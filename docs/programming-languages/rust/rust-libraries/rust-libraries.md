@@ -1,6 +1,6 @@
 # Rust libraries
 
-[axum](https://github.com/tokio-rs/axum) seems nice as a web framework. [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
+[axum](https://github.com/tokio-rs/axum) seems nice as a web framework ([neat template](https://github.com/joelparkerhenderson/demo-rust-axum)). [Idiomatic Rust](https://github.com/mre/idiomatic-rust) is a nice collection. Looking to try [Crane](https://ipetkov.dev/blog/introducing-crane/) for building/caching rust compiles.
 
 ## CLI
 
@@ -56,7 +56,7 @@
 
 ## Web
 
-- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma))
+- [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum))
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.

@@ -1,5 +1,7 @@
 # Figma plugins
 
+[Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) plugin is neat.
+
 ## Links
 
 - [Figma Responsify](https://github.com/brianlovin/figma-responsify) - Figma plugin to quickly test your designs across multiple device sizes.
@@ -96,3 +98,4 @@
 - [Figma Plugin starter with Rollup bundler](https://github.com/presenta-software/figma-rollup-plugin)
 - [Figma Export PDFs action](https://github.com/marcomontalbano/figma-export-pdfs-action) - Export content from a Figma file as PDF.
 - [Content Map](https://www.figma.com/community/widget/1094814285122843280/Content-Map) - FigJam widget to help visualize, structure, and prioritize content. ([Tweet](https://twitter.com/mirkosantangelo/status/1521557624944308224))
+- [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Find and fix errors in your designs.

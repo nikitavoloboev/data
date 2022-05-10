@@ -407,3 +407,5 @@
 - [Arcade](https://www.arcade.software/) - Create Interactive Product Demos.
 - [oEmbed](https://oembed.com/) - Format for allowing an embedded representation of a URL on third party sites. ([Code](https://github.com/iamcal/oembed))
 - [remark-oembed](https://github.com/agentofuser/remark-oembed) - Converts URLs surrounded by newlines into embeds.
+- [WinterCG](https://wintercg.org/) - Web-interoperable Runtimes Community Group. ([Code](https://github.com/wintercg/www))
+- [Atomic Router](https://github.com/Kelin2025/atomic-router) - Platform-agnostic router that does not break your architecture.

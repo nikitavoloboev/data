@@ -148,3 +148,4 @@ title: Coq
 - [Autosubst](https://github.com/coq-community/autosubst) - Library for the Coq proof assistant which provides automation for formalizing syntactic theories with variable binders.
 - [Argosy](https://github.com/mit-pdos/argosy) - Verifying layered storage systems with recovery refinement.
 - [Coq Performance Tests](https://github.com/coq-community/coq-performance-tests) - Library of Coq source files testing for performance regressions on Coq.
+- [xmonad in Coq](https://github.com/wouter-swierstra/xmonad)

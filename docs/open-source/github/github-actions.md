@@ -275,6 +275,10 @@ title: GitHub actions
 - [Setup pnpm](https://github.com/pnpm/action-setup) - Install pnpm package manager.
 - [Build and Tag action](https://github.com/JasonEtco/build-and-tag-action) - GitHub Action for publishing JavaScript Actions.
 
+## Web
+
+- [Cloudflare Pages GitHub Action](https://github.com/cloudflare/pages-action) - GitHub Action for creating Cloudflare Pages deployments.
+
 ## TS
 
 - [ts_ci](https://github.com/garronej/ts_ci) - Continus integration setup for TypeScript projects via GitHub Actions.

@@ -491,3 +491,4 @@ for i, _ in enumerate(nums):
 - [Modern Python Performance Considerations (2022)](https://lwn.net/SubscriberLink/893686/8978976335696804/) ([HN](https://news.ycombinator.com/item?id=31272681))
 - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html) ([HN](https://news.ycombinator.com/item?id=31306340))
 - [Spatial Environment for Python](https://python.natto.dev/) ([HN](https://news.ycombinator.com/item?id=31320335))
+- [Managing Python Versions with Pyenv (2022)](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/) ([HN](https://news.ycombinator.com/item?id=31326052))

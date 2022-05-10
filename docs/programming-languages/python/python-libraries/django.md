@@ -161,3 +161,4 @@ title: Django
 - [Rasters for Django](https://github.com/geodesign/django-raster) - Raster data integration for Django projects with a PostGIS database backend.
 - [Anatomy of a Django/HTMX Project (2022)](https://danjacob.net/posts/anatomyofdjangohtmxproject/) ([HN](https://news.ycombinator.com/item?id=31104095))
 - [snapshot-queries](https://github.com/cedar-team/snapshot-queries) - Capture all SQL statements executed via Django and SqlAlchemy ORM queries.
+- [Pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework.

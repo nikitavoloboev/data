@@ -208,3 +208,4 @@ title: SwiftUI
 - [Send Events from SwiftUI to UIKit and Vice Versa (2022)](https://www.swiftjectivec.com/events-from-swiftui-to-uikit-and-vice-versa/)
 - [SwiftUI Social Contributor App](https://github.com/adamrushy/social-swiftui-app) - Designed as a social way to build and learn SwiftUI.
 - [Handle Keyboard Presses Using SwiftUI in macOS (2022)](https://www.swiftjectivec.com/handling-keyboard-presses-in-swiftui-for-macos/)
+- [What architecture do you use for your SwiftUI apps? (2022)](https://twitter.com/dejadu13/status/1523679164397920258)

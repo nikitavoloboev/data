@@ -257,6 +257,8 @@
 - [TFManager](https://github.com/abspr/TFManager) - Add validations to your text fields, Group them together and navigate through them via keyboard's return button and accessory view.
 - [MPITextKit](https://github.com/meitu/MPITextKit) - Powerful text framework for iOS to display rich text based on TextKit, inspired by Texture and YYText.
 - [UserDefaults-Browser](https://github.com/YusukeHosonuma/UserDefaultsBrowser) - Browse and edit UserDefaults on your app.
+- [ShyView](https://github.com/MarioIannotta/ShyView) - UI component that avoids screenshots and recordings.
+- [FluidInterfaceKit](https://github.com/muukii/FluidInterfaceKit) - Framework that provides the advanced infrastructure for your iPhone apps.
 
 ## macOS
 
@@ -1129,6 +1131,10 @@
 ## Other (not lib)
 
 - [OverlayTest](https://github.com/marcomasser/OverlayTest) - Shows how to create a window that looks like the volume change indication on OS X El Capitan.
+
+## Notes
+
+- [When you want to edit a package in Swift (e.g. a dependency you have) you can (temporarily) add it as a local package and that'll take precedence over the package dependency.](https://twitter.com/chriseidhof/status/1523738036202209280)
 
 ## Links
 

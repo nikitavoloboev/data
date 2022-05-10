@@ -727,3 +727,4 @@ title: Kubernetes
 - [Kube Dev Dashboard](https://prsh9.github.io/kubectl-dashboard/) - Dev Dashboard for Kubernetes. ([Code](https://github.com/prsh9/kubectl-dashboard))
 - [Deploying Kubernetes clusters in increasingly absurd languages (2022)](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages) ([HN](https://news.ycombinator.com/item?id=31286279))
 - [kfmt](https://github.com/dippynark/kfmt) - Organizes Kubernetes manifests into a standard format.
+- [Kedro Airflow K8S Plugin](https://github.com/getindata/kedro-airflow-k8s) - Kedro Plugin to support running pipelines on Kubernetes using Airflow.

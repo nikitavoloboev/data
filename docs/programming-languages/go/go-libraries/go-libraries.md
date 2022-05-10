@@ -491,6 +491,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [libkv](https://github.com/docker/libkv) - Distributed key/value store abstraction library.
 - [DALI](https://github.com/mibk/dali) - Thin layer over Go's database/sql.
 - [Go ORM Benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for +10 Go ORMs.
+- [go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph APIs.
 
 ## ML
 
@@ -547,6 +548,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Autodiff](https://github.com/pbenner/autodiff) - Numerical library for Go. Supports automatic differentiation.
 - [go3d](https://github.com/ungerik/go3d) - Performance oriented vector and matrix math package for 2D and 3D graphics.
 - [go-moremath](https://github.com/aclements/go-moremath) - Assortment of more specialized math routines for Go.
+
+## Biology
+
+- [biostuff](https://github.com/fluhus/biostuff) - Go packages for handling biological data.
 
 ## Docker
 
@@ -1737,3 +1742,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Debug](https://github.com/golang/debug) - Utilities and libraries for debugging Go programs.
 - [OpenTelemetry Auto-Instrumentation for Go](https://github.com/keyval-dev/opentelemetry-go-instrumentation)
 - [Go code coverage to SVG treemap](https://github.com/nikolaydubina/go-cover-treemap)
+- [Go Standard library](https://pkg.go.dev/std)

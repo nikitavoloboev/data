@@ -6,6 +6,8 @@ title: Svelte
 
 [SvelteKit on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) is nice starter. Use [Imagetools](https://github.com/JonasKruckenberg/imagetools/) for optimizing images for use with Svelte.
 
+[Svelte Query](https://sveltequery.vercel.app/) is great for requests.
+
 ## Example sites
 
 - [SvelteKit, running on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge)

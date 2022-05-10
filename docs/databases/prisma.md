@@ -4,6 +4,8 @@ title: Prisma
 
 # [Prisma](https://www.prisma.io/)
 
+[Schemix](https://github.com/ridafkih/schemix) is neat.
+
 ## Links
 
 - [Prisma code](https://github.com/prisma/prisma)
@@ -107,3 +109,4 @@ title: Prisma
 - [refract](https://github.com/cwqt/refract) - TypeScript SDK for Prisma.
 - [sb-prisma](https://github.com/aiji42/sb-prisma) - Library that uses REST API of Supabase directly from the Prisma client to process databases.
 - [Prisma tRPC Generator](https://github.com/omar-dulaimi/prisma-trpc-generator)
+- [Schemix](https://github.com/ridafkih/schemix) - Allows you to programmatically create Prisma schemas using TypeScript.

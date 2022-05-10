@@ -92,3 +92,4 @@ title: Phoenix framework
 - [LiveMotion](https://github.com/benvp/live_motion) - High performance animation library for Phoenix LiveView.
 - [Sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 - [Phoenix.Swoosh](https://github.com/swoosh/phoenix_swoosh) - Provides the ability to set the HTML and/or text body of an email by rendering templates.
+- [Learn Phoenix (Web App) Framework](https://github.com/dwyl/learn-phoenix-framework)

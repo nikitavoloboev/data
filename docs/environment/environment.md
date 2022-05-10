@@ -181,3 +181,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [I finally understand methane lifetimes (2022)](https://climateer.substack.com/p/methane-lifetime?s=r) ([HN](https://news.ycombinator.com/item?id=31204302))
 - [A mental model for combating climate change (2022)](https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66)
 - [Should cut emissions](https://twitter.com/Peters_Glen/status/1521384059745800193)
+- [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data)

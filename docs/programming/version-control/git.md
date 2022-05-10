@@ -530,3 +530,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-sync](https://github.com/jacobwgillespie/git-sync) - Fast-forward outdated branches and remove merged and deleted upstream branches.
 - [Git Visual](https://git-truck.github.io/) - Visualizing a Git repository. ([Code](https://github.com/git-truck/git-truck))
 - [git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite.
+- [git-vendor](https://github.com/brettlangdon/git-vendor) - Git command for managing vendored dependencies.

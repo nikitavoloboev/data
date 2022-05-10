@@ -248,3 +248,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno Showcase](https://deno.land/showcase) - Websites, apps, and other products built with Deno.
 - [Deno needs a package manager](https://twitter.com/seldo/status/1522223551746494466)
 - [Denoflow](https://github.com/denoflow/denoflow) - Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/JavaScript codes.
+- [Deno Shield](https://shield.deno.dev/) - Badge service for Deno modules. ([Code](https://github.com/ydcjeff/shield.deno.dev))

@@ -14,6 +14,7 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Notify](https://github.com/K0IN/Notify) - Small Cloudflare worker / self hosted solution to send web push notifications with webhooks.
 - [Tauri Update Server: Hosted as a Cloudflare edge function](https://github.com/KilleenCode/tauri-update-cloudflare)
 - [Avatar](https://github.com/staticallyio/avatar) - Simple, beautiful, and high-quality avatar service on Cloudflare Workers. ([Web](https://statically.io/))
+- [Using Cloudflare Workers to proxy dev.to blog via API](https://github.com/brycedorn/blog)
 
 ## Notes
 

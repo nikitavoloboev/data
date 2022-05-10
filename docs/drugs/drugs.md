@@ -68,3 +68,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [What’s everyone favorite 2 drug combination](https://www.reddit.com/r/Psychonaut/comments/tt7qt6/whats_everyone_favourite_2_drug_combination/)
 - [Salvum](https://salvum.love/) - Consolidates harm reduction resources in one place. ([Code](https://github.com/NoahSaso/salvum))
 - [Movies with accurate“drug trip sequences”](https://www.reddit.com/r/MovieSuggestions/comments/u3q6ux/movies_with_accuratedrug_trip_sequences/)
+- [Open Drug Discovery Toolkit (ODDT)](https://github.com/oddt/oddt) - Modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc.
