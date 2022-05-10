@@ -438,3 +438,4 @@ if (
 - [Meticulous](https://meticulous.ai/) - Catch JavaScript errors before they hit prod. ([HN](https://news.ycombinator.com/item?id=31236066))
 - [I fell in love with low-JS (2022)](https://edofic.com/posts/2022-01-28-low-js/) ([HN](https://news.ycombinator.com/item?id=31249181)) ([Lobsters](https://lobste.rs/s/859lel/how_i_fell_love_with_low_js))
 - [TodoMVC App Written in Vanilla JS in 2022](https://github.com/1Marc/todomvc-vanillajs-2022)
+- [Modern JavaScript environments (2022)](https://twitter.com/wesbos/status/1524033215140446211)

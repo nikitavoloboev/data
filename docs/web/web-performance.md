@@ -4,7 +4,7 @@ title: Web performance
 
 # [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 
-Use [WebPageTest](https://webpagetest.org/) to see web page performance. I personally love React with NextJS a lot and use it but am trying to explore [other solutions that are much leaner](https://twitter.com/slightlylate/status/1517163057780195331).
+Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) tests to see web page performance. I love using [Svelte](../programming-languages/javascript/js-libraries/svelte.md) for building websites. I also use [React](../programming-languages/javascript/js-libraries/react/react.md) with [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) for more complex web apps. I try and use [lean and efficient frameworks/APIs](https://twitter.com/slightlylate/status/1517163057780195331) whenever I can.
 
 ## Notes
 
