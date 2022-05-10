@@ -492,3 +492,4 @@ for i, _ in enumerate(nums):
 - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html) ([HN](https://news.ycombinator.com/item?id=31306340))
 - [Spatial Environment for Python](https://python.natto.dev/) ([HN](https://news.ycombinator.com/item?id=31320335))
 - [Managing Python Versions with Pyenv (2022)](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/) ([HN](https://news.ycombinator.com/item?id=31326052))
+- [PyOxy Python Runner](https://pyoxidizer.readthedocs.io/en/latest/pyoxy.html) - Alternative implementation and re-imagination of the ubiquitous python command, but providing more features and control than python.
