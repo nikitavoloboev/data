@@ -175,6 +175,7 @@
 - [Template for Hindley-Milner based languages](https://github.com/mbg/hindley-milner)
 - [Selective applicative functors](https://github.com/snowleopard/selective) - Abstraction between applicative functors and monads.
 - [Utrecht Advanced Functional Programming Summer School](https://uu-afp.github.io/)
+- [Functional Programming in Bologna](https://twitter.com/fpinbo)
 
 ## Images
 

@@ -7,7 +7,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## CLI
 
 - [Clir](https://github.com/leaanthony/clir) - Simple and Clear CLI library. Dependency free.
-- [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E))
+- [Bubble Tea](https://github.com/charmbracelet/bubbletea) - Fun, functional and stateful way to build terminal apps. ([Tutorial](https://www.youtube.com/watch?v=j5p5SpqWS8E)) ([HN](https://news.ycombinator.com/item?id=31328205))
 - [Bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea. ([Non Official](https://github.com/mritd/bubbles))
 - [bubblelister](https://github.com/treilik/bubblelister) - bubble to list your structs in a bubbletea program.
 - [Bubble-table](https://github.com/Evertras/bubble-table) - Table component for the Bubble Tea framework.

@@ -372,6 +372,7 @@
 - [On Deck’s Top 100 Companies of 2022](https://www.beondeck.com/post/on-decks-top-companies-2022)
 - [YC Vibe Check](https://ycvibecheck.com/) - Semantic search over every YC company ever. ([Code](https://github.com/thesephist/ycvibecheck))
 - [The Startup of You Book](https://www.startupofyou.com/)
+- [We Need a Middle Class for Startups (2022)](https://neilthanedar.com/we-need-a-middle-class-for-startups/) ([HN](https://news.ycombinator.com/item?id=31327219))
 
 ## Images
 

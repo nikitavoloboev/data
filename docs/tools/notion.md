@@ -8,7 +8,7 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 
 ## Notes
 
-- To open Notion page directly in macOS app. Get the share link. Will look like `https://www.notion.so/nikitavoloboev/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`. Then use it but with `notion://` prefix like `open notion://nikitavoloboev/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`.
+- To open Notion page directly in macOS app. Get the share link. Will look like `https://www.notion.so/nikiv/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`. Then use it but with `notion://` prefix like `open notion://nikiv/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`.
 - [Async round of feedback on a well written Notion page is worth a thousand meetings.](https://twitter.com/linuz90/status/1440275848200802310)
 
 ## Links

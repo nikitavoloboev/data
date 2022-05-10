@@ -108,3 +108,4 @@
 - [5 key elements of successful monolith-to-microservices migrations (2022)](https://about.sourcegraph.com/blog/monolith-microservices-migration/)
 - [Airbnb’s Microservices Architecture Journey To Quality Engineering (2022)](https://medium.com/qe-unit/airbnbs-microservices-architecture-journey-to-quality-engineering-d5a490e6ba4f)
 - [clue](https://github.com/goadesign/clue) - Go packages for instrumenting microservices.
+- [Give me back my monolith (2019)](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/) ([HN](https://news.ycombinator.com/item?id=31327766))

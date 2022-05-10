@@ -262,7 +262,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Glow JS](https://github.com/luma-team/glow-js) - Integrate the Glow Solana Wallet into your dApp.
 - [Solana Development Course](https://github.com/Unboxed-Software/solana-course)
 - [New Solana NFT Standard](https://github.com/glow-xyz/nftoken)
-- [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI.
+- [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI. ([HN](https://news.ycombinator.com/item?id=31302395))
 - [Cronos](https://github.com/cronos-so/cronos) - Automate on-chain programs and schedule transactions directly with the Solana validator network. ([Web](https://www.cronos.so/))
 - [solana-deployer](https://github.com/acheroncrypto/solana-deployer) - Deploy your Solana programs during high load.
 - [Mogami](https://github.com/kin-labs/mogami) - Next generation API and SDK for Solana.

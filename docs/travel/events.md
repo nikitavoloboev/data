@@ -39,3 +39,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [entrofy](https://github.com/dhuppenkothen/entrofy) - Participant selection for workshops and conferences made easy. Selection of participants for meetings as a discrete optimization problem.
 - [Astral Ship](https://astralship.org/) - Innovative pirateship for a change-maker collective. ([Twitter](https://twitter.com/theastralship))
 - [Con Event](https://bangbangcon.com/) - Two days of ten-minute talks to celebrate the joyous, exciting, and surprising moments in computing.
+- [Rules for Conferences (2019)](https://milan.cvitkovic.net/writing/rules_for_conferences/) ([HN](https://news.ycombinator.com/item?id=31330643))

@@ -16,7 +16,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Devpost](https://devpost.com/NikitaVoloboev)
 - [Code Wars](https://www.codewars.com/users/nikitavoloboev)
 - [Docker Hub](https://hub.docker.com/u/nikivi/)
-- [GitLab](https://gitlab.com/nikitavoloboev)
+- [GitLab](https://gitlab.com/nikivi)
 - [Katacoda](https://www.katacoda.com/nikivi)
 - [Glitch](https://glitch.com/@nikitavoloboev)
 - [CodeSandbox](https://codesandbox.io/u/nikitavoloboev)
@@ -33,7 +33,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Meetup](https://www.meetup.com/members/185347053/)
 - [LinkedIn](https://www.linkedin.com/in/nikitavoloboev)
 - [Facebook](https://facebook.com/nikitavoloboev)
-- [Spectrum](https://spectrum.chat/users/nikivi)
 - [VK](https://vk.com/nikitavoloboev)
 
 ## Learn
@@ -90,10 +89,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Trakt](https://trakt.tv/users/nikitavoloboev)
 - [Grouevee](https://www.grouvee.com/user/nikivi/)
 
-## Gaming
-
-- [Steam](https://steamcommunity.com/id/nikivii/)
-
 ## Other
 
 - [Home](https://nikitavoloboev.xyz)
@@ -109,7 +104,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Things Network](https://www.thethingsnetwork.org/u/nikitavoloboev)
 - [TikTok](https://www.tiktok.com/@nikitavoloboev)
 - [KinoPoisk](https://www.kinopoisk.ru/user/6272121/)
-- [Deedmob](https://www.deedmob.com/users/3046665)
 - [Observable](https://observablehq.com/@nikitavoloboev)
 - [Slant](https://www.slant.co/users/nikivi)
 - [TripAdvisor](https://www.tripadvisor.co.uk/Profile/nikitavoloboev)
