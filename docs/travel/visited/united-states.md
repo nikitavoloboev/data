@@ -143,3 +143,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [How do you imagine the US in 2030?](https://www.reddit.com/r/AskAnAmerican/comments/ui6e55/how_do_you_imagine_the_us_in_2030/)
 - [HN: Wealthy Americans are buying second passports as a 'plan B' (2022)](https://news.ycombinator.com/item?id=31303583)
 - [No, America is not collapsing (2022)](https://noahpinion.substack.com/p/no-america-is-not-collapsing?s=r) ([HN](https://news.ycombinator.com/item?id=31325941))
+- [What facts about the United States do foreigners not believe until they come to America? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/umhysk/what_facts_about_the_united_states_do_foreigners/)

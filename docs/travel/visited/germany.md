@@ -37,3 +37,4 @@
 - [Resources on egovernment in Germany](https://github.com/codedust/awesome-egov-de)
 - [Berlin Apartments](https://github.com/shuding/berlin-apartments) - Information of apartments in Berlin for digital nomads.
 - [German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German.
+- [What is in your opinion the most beautiful building in Berlin? (2022)](https://www.reddit.com/r/berlin/comments/umels3/what_is_in_your_opinion_the_most_beautiful/)

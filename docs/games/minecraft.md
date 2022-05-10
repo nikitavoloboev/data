@@ -118,3 +118,4 @@ title: Minecraft
 - [Fabric](https://fabricmc.net/) - Lightweight, experimental modding toolchain for Minecraft.
 - [Hexalite Network](https://github.com/HexaliteNetwork/java-edition) - Modular Kotlin and Rust-based Minecraft: Java Edition network inspired by Mineclub, Origin Realms and Wynncraft.
 - [HMCL](https://github.com/huanghongxun/HMCL) - Minecraft Launcher which is multi-functional, cross-platform and popular.
+- [Ferium](https://github.com/theRookieCoder/ferium) - CLI Minecraft mod manager for mods from Modrinth, CurseForge, and Github Releases. ([Reddit](https://www.reddit.com/r/rust/comments/umcu1j/media_ferium_the_cli_minecraft_mod_manager/))

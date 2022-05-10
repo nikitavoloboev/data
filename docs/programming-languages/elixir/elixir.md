@@ -157,3 +157,4 @@
 - [Writing Shell Scripts Using Elixir (2022)](https://akoutmos.com/post/elixir-shell-scripts/)
 - [Building a CLI Application in Elixir (2022)](https://blog.davemartin.me/posts/building-a-cli-application-in-elixir/)
 - [Recognize digits using ML in Elixir (2022)](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
+- [A Guide to Event-Driven Architecture in Elixir (2022)](https://blog.appsignal.com/2022/05/10/a-guide-to-event-driven-architecture-in-elixir.html)
