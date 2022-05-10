@@ -18,7 +18,7 @@
 - [Reach UI](https://github.com/reach/reach-ui) - Accessible Foundation for React Apps and Design Systems. ([Docs](https://reach.tech/))
 - [Latitude](https://www.flexport.com/design) - Design guidelines, component documentation, styling instructions, and resources for building interfaces with Flexport’s design system. ([HN](https://news.ycombinator.com/item?id=21461579)) ([Code](https://github.com/flexport/latitude))
 - [Vercel](https://vercel.com/design) ([Code](https://github.com/nextjs-components/nextjs-components))
-- [Primer](https://primer.style/) - Design, build, and create with GitHub’s design system. ([Team](https://primer.style/about/#team/)) ([Code](https://github.com/primer/css))
+- [Primer](https://primer.style/) - Design, build, and create with GitHub’s design system. ([Team](https://primer.style/about/#team/)) ([Code](https://github.com/primer/css)) ([Links](https://styleguide.github.com/))
 - [Fannypack](https://github.com/fannypackui/fannypack) - Friendly, themeable, accessible React UI Kit built with Reakit.
 - [Braid](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group.
 - [Lunar](https://github.com/airbnb/lunar) - React toolkit and design language for Airbnb open source and internal projects.

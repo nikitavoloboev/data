@@ -27,6 +27,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [lru-ttl-cache](https://github.com/rafikalid/lru-ttl-cache) - Super fast Optimized in memory LRU and TTL cache. Can store permanent entries too.
 - [cachu](https://github.com/azurydev/cachu) - Simple, Minimalistic KV Cache.
 - [IndexedDB KeyStore](https://github.com/fission-suite/keystore-idb) - In-browser key management with IndexedDB and the Web Crypto API.
+- [Rapid-CG](https://github.com/CGamesPlay/rapid-cg) - Database access layer that relies on code generation to provide a strongly-typed database client.
 
 ## Web
 

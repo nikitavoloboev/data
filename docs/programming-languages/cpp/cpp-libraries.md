@@ -395,6 +395,7 @@
 - [Eventuals](https://github.com/3rdparty/eventuals) - C++ library for writing asynchronous computations out of continuations.
 - [Albany](https://github.com/sandialabs/Albany) - Implicit, unstructured grid, finite element code for the solution and analysis of multiphysics problems.
 - [match(it)](https://github.com/BowenFu/matchit.cpp) - Lightweight header-only pattern-matching library for C++17 with macro-free APIs.
+- [libassert](https://github.com/jeremy-rifkin/libassert) - Most over-engineered and overpowered C++ assertion library.
 
 ## Links
 

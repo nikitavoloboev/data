@@ -491,3 +491,5 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - PostgreSQL metrics monitor/dashboard.
 - [Parquet and Postgres in the Data Lake (2022)](https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake) ([HN](https://news.ycombinator.com/item?id=31253301))
 - [PostgreSQL collation (2022)](https://solovyov.net/blog/2022/postgresql-collation/)
+- [Creating JSON Extracts in Supabase (2022)](https://vhs.codeberg.page/post/creating-json-extract-supabase/) - How to upload and extract JSON using Postgres trigger functions in Supabase.
+- [Auto-Updating Materialized View in PostgreSQL (2022)](https://www.youtube.com/watch?v=GqODV9ATASU)

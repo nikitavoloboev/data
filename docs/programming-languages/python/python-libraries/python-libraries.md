@@ -861,6 +861,7 @@
 - [Barry](https://github.com/tomwhite/barry) - Fixed-memory serverless distributed N-dimensional array processing.
 - [CDB](https://github.com/avinassh/cdb) - Disk based Log Structured Hash Table Store. ([Lobsters](https://lobste.rs/s/cgzat4/cdb_build_your_own_persistent_key_value))
 - [lbst](https://github.com/amirouche/lbst) - Immutable Log-Balanced Search Tree.
+- [parsec.py](https://github.com/sighingnow/parsec.py) - Universal Python parser combinator library inspired by Parsec library of Haskell.
 
 ## Notes
 
@@ -1004,3 +1005,5 @@
 - [Sphinx-Gallery](https://github.com/sphinx-gallery/sphinx-gallery) - Sphinx extension that builds an HTML version of any Python script and puts it into an examples gallery.
 - [Speed up your Python using Rust](https://github.com/rochacbruno/rust-python-example)
 - [Multiple assignment and tuple unpacking improve Python code readability (2018)](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/) ([HN](https://news.ycombinator.com/item?id=31303463))
+- [Python documentation search](https://pythondocs.xyz/) ([HN](https://news.ycombinator.com/item?id=31317911))
+- [JSON to Pydantic](https://jsontopydantic.com/) - Tool that lets you convert JSON objects into Pydantic models. ([Code](https://github.com/brokenloop/jsontopydantic))

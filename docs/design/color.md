@@ -163,3 +163,4 @@
 - [OKLCH Color Picker](https://oklch.evilmartians.io/)
 - [Why OKLCH is the future of colors in CSS](https://slides.com/ai/oklch-css)
 - [The Color API](https://www.thecolorapi.com/) - Pass in any valid color and get conversion into any other format, the name of the color, placeholder images and a multitude of schemes.
+- [distinctipy](https://github.com/alan-turing-institute/distinctipy) - Lightweight package for generating visually distinct colors.

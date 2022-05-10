@@ -71,3 +71,4 @@ In any way, it is an interesting subject I don't know much about.
 - [New Philosophy Books - Five Books Expert Recommendations](https://fivebooks.com/category/philosophy/new-philosophy-books/)
 - [Rosa Luxemburg](https://plato.stanford.edu/entries/luxemburg/)
 - [User Disengagement](https://zerodha.tech/blog/user-disengagement/) ([HN](https://news.ycombinator.com/item?id=31283524))
+- [The Beginning of Infinity](https://thebeginningofinfinity.xyz/)

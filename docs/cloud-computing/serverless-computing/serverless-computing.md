@@ -162,3 +162,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Serverless Application Stack (2021)](https://jbrandhorst.com/post/serverless-application-stack/)
 - [Edge Functions on Netlify Examples](https://edge-functions-examples.netlify.app/)
 - [Fastly Compute@Edge starter kit with Hono](https://github.com/honojs/compute-starter-kit)
+- [Demo of server-sent events with Netlify Edge Functions](https://github.com/ascorbic/sse-demo)

@@ -214,3 +214,4 @@
 - [Confidential Containers](https://github.com/confidential-containers) - Open source community working to enable cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data.
 - [image-rs](https://github.com/confidential-containers/image-rs) - Container Images Rust Crate.
 - [agent](https://github.com/benhid/go-agent) - Tiny web-server (reverse proxy) to run functions for every incoming HTTP request.
+- [Fetchit](https://github.com/redhat-et/fetchit) - Used to manage the life cycle and configuration of Podman containers.

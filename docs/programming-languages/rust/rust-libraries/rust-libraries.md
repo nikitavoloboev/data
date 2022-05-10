@@ -425,6 +425,7 @@
 - [Fazi](https://github.com/landaire/fazi) - Drop-in replacement for libfuzzer.
 - [serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialized Rust tests.
 - [bolero](https://github.com/camshaft/bolero) - Fuzz and property testing front-end for Rust.
+- [split-test](https://github.com/mtsmfm/split-test) - Splits tests into multiple groups based on timing data to run tests in parallel.
 
 ## Error
 
@@ -572,6 +573,7 @@
 - [nrf-hal](https://github.com/nrf-rs/nrf-hal) - HAL for the nRF51, nRF52 and nRF91 families of microcontrollers.
 - [Embedded SD/MMC](https://github.com/rust-embedded-community/embedded-sdmmc-rs) - SD/MMC library with FAT16/FAT32 support, suitable for Embedded Rust systems.
 - [embedded-io](https://github.com/embassy-rs/embedded-io) - IO traits for embedded systems.
+- [Embedded-TLS](https://github.com/drogue-iot/embedded-tls) - Rust TLS 1.3 implementation for embedded devices.
 
 ## ML
 
@@ -607,6 +609,7 @@
 - [rust-icns](https://github.com/mdsteele/rust-icns) - Rust library for encoding/decoding Apple Icon Image (.icns) files.
 - [DmgWiz](https://github.com/citruz/dmgwiz) - Extract filesystem data from DMG files.
 - [mach2](https://github.com/JohnTitor/mach2) - Rust interface to the user-space API of the Mach 3.0 kernel exposed in /usr/include/mach that underlies macOS and is linked via libSystem.
+- [hv](https://github.com/cloud-hypervisor/hypervisor-framework) - High level Rust bindings for Hypervisor Framework.
 
 ## Macros
 
@@ -1855,6 +1858,8 @@
 - [Ruler](https://github.com/uwplse/ruler) - Framework that uses equality saturation to automatically infer small, expressive rulesets for a domain.
 - [DLHN](https://github.com/otake84/dlhn) - Language and platform neutral binary serialization format that is inspired by JSON, CSV, MessagePack, and Protocol Buffers.
 - [futures-async-stream](https://github.com/taiki-e/futures-async-stream) - Async stream for Rust and the futures crate.
+- [ambisonic](https://github.com/mbillingr/ambisonic) - Compose and play 3D audio in pure Rust.
+- [async-executor](https://github.com/smol-rs/async-executor)
 
 ## Cargo Plugins
 

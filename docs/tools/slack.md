@@ -76,3 +76,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [JSX Slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX. ([Web](https://jsx-slack.netlify.app/))
 - [Linen](https://www.linen.dev/) - Make your Slack community Google-searchable. ([HN](https://news.ycombinator.com/item?id=31168882))
 - [Slack Ruby Bot Ruby library](https://github.com/slack-ruby/slack-ruby-bot)
+- [The Problem with Slack at Scale (2022)](https://liorn.substack.com/p/the-problem-with-slack?s=r) ([HN](https://news.ycombinator.com/item?id=31323227))

@@ -133,6 +133,7 @@ title: Obsidian
 - [Absolve](https://github.com/mulfok/obsidian-absolve) - Theme overlay snippet for Obsidian.md.
 - [Markdown Attributes](https://github.com/valentine195/obsidian-markdown-attributes) - Add attributes to elements in Obsidian.
 - [Settings Search](https://github.com/valentine195/obsidian-settings-search) - Adds a search bar to Obsidian.md's settings.
+- [User Plugins for Obsidian](https://github.com/mnowotnik/obsidian-user-plugins) - Allows user scripts to use plugin API.
 
 ## Links
 

@@ -226,3 +226,4 @@ title: Clojure
 - [Clay](https://scicloj.github.io/clay/) - Way to write Clojure data science notebook value renderers that are portable across the land.
 - [ClojureC](https://github.com/schani/clojurec) - Clojure implementation on top of C.
 - [Docker Clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure.
+- [Fast Embeddable Clojure in C](https://github.com/Zelex/jo_lisp)

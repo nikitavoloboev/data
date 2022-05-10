@@ -29,6 +29,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nicola Samorì](http://www.nicolasamori.com/)
 - [Malika Favre](https://www.malikafavre.com/)
 - [Khius Art](https://www.artstation.com/khius)
+- [Tom Lovell](http://www.artnet.com/artists/tom-lovell/)
 - [geometrieva](https://www.instagram.com/geometrieva/)
 - [Victor Vasarely](https://en.m.wikipedia.org/wiki/Victor_Vasarely)
 - [Tomer Hanuka](http://thanuka.com/) - Illustrator and a comics artist.

@@ -106,3 +106,4 @@ title: Prisma
 - [Prisma + tRPC](https://github.com/SaraVieira/rssx)
 - [refract](https://github.com/cwqt/refract) - TypeScript SDK for Prisma.
 - [sb-prisma](https://github.com/aiji42/sb-prisma) - Library that uses REST API of Supabase directly from the Prisma client to process databases.
+- [Prisma tRPC Generator](https://github.com/omar-dulaimi/prisma-trpc-generator)

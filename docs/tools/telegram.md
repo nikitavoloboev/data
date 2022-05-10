@@ -130,6 +130,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Captcha](https://github.com/teknologi-umum/captcha) - Telegram Bot written in Go.
 - [Scan Tool Bot](https://github.com/bot-base/scan-tool-bot) - Scan a QR code with a camera.
 - [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot) - Inline bot for channels and groups.
+- [Aria/qBittorrent Telegram](https://github.com/anasty17/mirror-leech-telegram-bot)
 
 ## Notes
 

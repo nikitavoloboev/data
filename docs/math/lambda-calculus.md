@@ -88,3 +88,4 @@ Is logical theory of computable functions.
 - [Simple, zero-dependency implementation of the untyped lambda calculus in Safe Rust](https://github.com/ljedrz/lambda_calculus)
 - [Lili](https://github.com/jdrprod/lili) - Minimalist proof checker based on a simply typed lambda-calculus.
 - [SKI combinators - AST and Evaluating](https://github.com/ngzhian/ski)
+- [A DSL for λ-terms in Scala (2017)](http://mez.cl/en/lambda-dsl/)

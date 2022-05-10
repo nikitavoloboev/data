@@ -40,4 +40,4 @@ Amsterdam is my favorite city I've lived in thus far. I love how every city in N
 - [Crypto tax in NL (2022)](https://www.reddit.com/r/Netherlands/comments/u5k8b8/crypto_taxes_decoded/)
 - [Impact of 30% tax ruling in NL going away (2022)](https://twitter.com/GergelyOrosz/status/1518582378230427648)
 - [How would you rate live in the Netherlands after more than 10 years of Rutte? (2022)](https://www.reddit.com/r/Netherlands/comments/ulkn2u/how_would_you_rate_live_in_the_netherlands_after/)
-- [The Dutch city testing the future of urban life (2022)](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life)
+- [The Dutch city testing the future of urban life (2022)](https://www.bbc.com/future/article/20220404-the-dutch-city-experimenting-with-the-future-of-urban-life) ([HN](https://news.ycombinator.com/item?id=31314654))

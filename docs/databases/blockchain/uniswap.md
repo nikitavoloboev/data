@@ -15,3 +15,4 @@ title: Uniswap
 - [Hayden Adams: Uniswap – An Automated Decentralized Exchange for Ethereum (2019)](https://www.youtube.com/watch?v=xHK0QxQ5jxg)
 - [SushiSwap](https://app.sushiswap.org/) - Stake Uniswap LP tokens. ([Code](https://github.com/sushiswap/sushiswap)) ([Notes](https://twitter.com/ameensol/status/1302395863709351936))
 - [Uniswap Discord](https://discord.com/invite/FCfyBSbCU5)
+- [The Dominance of Uniswap v3 Liquidity (2022)](https://uniswap.org/blog/uniswap-v3-dominance)

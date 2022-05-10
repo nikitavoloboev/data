@@ -265,3 +265,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Sugar](https://github.com/metaplex-foundation/sugar) - Candy Machine Rust CLI.
 - [Cronos](https://github.com/cronos-so/cronos) - Automate on-chain programs and schedule transactions directly with the Solana validator network. ([Web](https://www.cronos.so/))
 - [solana-deployer](https://github.com/acheroncrypto/solana-deployer) - Deploy your Solana programs during high load.
+- [Mogami](https://github.com/kin-labs/mogami) - Next generation API and SDK for Solana.

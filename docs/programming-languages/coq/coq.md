@@ -147,3 +147,4 @@ title: Coq
 - [Mtac2](https://github.com/Mtac2/Mtac2) - Typed tactic language for Coq. ([Paper](https://plv.mpi-sws.org/mtac/))
 - [Autosubst](https://github.com/coq-community/autosubst) - Library for the Coq proof assistant which provides automation for formalizing syntactic theories with variable binders.
 - [Argosy](https://github.com/mit-pdos/argosy) - Verifying layered storage systems with recovery refinement.
+- [Coq Performance Tests](https://github.com/coq-community/coq-performance-tests) - Library of Coq source files testing for performance regressions on Coq.

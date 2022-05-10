@@ -363,3 +363,5 @@
 - [Music Enhancement via Image Translation and Vocoding](https://github.com/nkandpa2/music_enhancement)
 - [Clairnote](https://clairnote.org/) - Alternative music notation system. ([HN](https://news.ycombinator.com/item?id=31259997))
 - [Let's Make Overtone Sing Like Sonic-Pi (2022)](https://savo.rocks/posts/lets-make-overtone-sing-like-sonic-pi/)
+- [Muskit](https://github.com/SJTMusicTeam/Muskits) - Open-source music processing toolkit.
+- [Learning Music Audio Representations Via Weak Language Supervision (2022)](https://ieeexplore.ieee.org/document/9746996) ([Code](https://github.com/ilaria-manco/mulap))

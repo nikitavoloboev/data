@@ -110,3 +110,4 @@ title: BitTorrent
 - [libtorrent-daemon](https://github.com/arvidn/libtorrent-daemon) - BitTorrent client specifically made for servers.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Transmission Exporter for Prometheus](https://github.com/metalmatze/transmission-exporter)
+- [Torrents Api](https://github.com/Ryuk-me/Torrent-Api-py) - Unofficial API for various Torrent websites.

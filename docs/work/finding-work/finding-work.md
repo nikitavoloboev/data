@@ -164,3 +164,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Techmap.io](https://techmap.io/) - Find Companies using Technologies you Love!.
 - [Ask HN: Dealing with Career Mistakes (2022)](https://news.ycombinator.com/item?id=31203186)
 - [Ask HN: Companies hiring for a 4-day workweek? (2022)](https://news.ycombinator.com/item?id=31231690)
+- [Lessons learned from the recent job hunt (2022)](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/) ([HN](https://news.ycombinator.com/item?id=31302572))

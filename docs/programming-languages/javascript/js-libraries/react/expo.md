@@ -11,6 +11,8 @@ title: Expo
 - [Turborepo starter with Expo and tRPC](https://github.com/gunnnnii/turbo-expo-trpc-starter)
 - [Meditation App](https://github.com/jackburrus/MeditationApp) - Built with Expo.
 - [Netflix Clone](https://github.com/calebnance/expo-netflix) - Expo / react native || web support.
+- [Spotify UI Clone with React Native & Expo](https://github.com/calebnance/expo-spotify)
+- [MusicRoom](https://github.com/AdonisEnProvence/MusicRoom) - Cross-platform iOS, Android and Web application using React Native (Expo) and Adonis and Temporal within one monorepo.
 
 ## Notes
 

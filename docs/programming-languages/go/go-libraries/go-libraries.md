@@ -1627,6 +1627,10 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Netlify Commons](https://github.com/netlify/netlify-commons) - Core library that will add common features for our services.
 - [Grule-Rule-Engine](https://github.com/hyperjumptech/grule-rule-engine) - Rule engine implementation in Go.
 - [Go Immutable Radix](https://github.com/hashicorp/go-immutable-radix) - Immutable radix tree implementation in Go.
+- [go-monads](https://github.com/OlegStotsky/go-monads) - Implements basic Haskell monads.
+- [skipset](https://github.com/zhangyunhao116/skipset) - High-performance, scalable concurrent sorted set based on skip-list.
+- [pdqsort](https://github.com/zhangyunhao116/pdqsort) - Pattern-defeating quicksort in Go with generics.
+- [run](https://github.com/sourcegraph/run) - New way to execute commands in Go.
 
 ## Links
 

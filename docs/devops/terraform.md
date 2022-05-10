@@ -168,3 +168,4 @@ title: Terraform
 - [Terraform Plugin Log](https://github.com/hashicorp/terraform-plugin-log) - Helper module for logging from Terraform providers.
 - [How to setup infrastructure in Hetzner Cloud with Terraform](https://github.com/awesome-nick/tf-hetzner-example)
 - [Vercel Terraform Provider](https://github.com/vercel/terraform-provider-vercel)
+- [terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform Registry.

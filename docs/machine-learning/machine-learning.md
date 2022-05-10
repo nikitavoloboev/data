@@ -802,3 +802,4 @@
 - [Learning with Noisy Labels](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)
 - [Pathways: Asynchronous Distributed Dataflow for ML (2022)](https://arxiv.org/abs/2203.12533) ([Pathways: Google's New ML System](https://www.bodunhu.com/blog/posts/pathways-googles-new-ml-system/))
 - [Google AI Blog: Alpa: Automated Model-Parallel Deep Learning (2022)](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
+- [Compositional Attention: Disentangling Search and Retrieval (2021)](https://arxiv.org/abs/2110.09419) ([Code](https://github.com/sarthmit/Compositional-Attention)) ([Code](https://github.com/lucidrains/compositional-attention-pytorch))

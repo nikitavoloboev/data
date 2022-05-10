@@ -169,3 +169,4 @@ title: Genomics
 - [Ribbon](https://genomeribbon.com/) - Genome browser that shows long reads and complex variants better. ([Code](https://github.com/MariaNattestad/Ribbon))
 - [genomepy](https://github.com/vanheeringen-lab/genomepy) - Install and use genomes & gene annotations the easy way.
 - [sgkit](https://github.com/pystatgen/sgkit) - Statistical genetics toolkit in Python.
+- [Macrel](https://github.com/BigDataBiology/macrel) - Predict AMPs in (meta)genomes and peptides.

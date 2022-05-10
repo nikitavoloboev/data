@@ -104,3 +104,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Element X iOS](https://github.com/vector-im/element-x-ios) - Matrix client provided by Element and based on the Matrix Rust SDK.
 - [Matrix React SDK](https://github.com/matrix-org/matrix-react-sdk)
 - [Mautrix](https://github.com/mautrix/python) - Python 3 asyncio Matrix framework.
+- [OAuth 2.0 authentication server for Matrix](https://github.com/matrix-org/matrix-authentication-service)

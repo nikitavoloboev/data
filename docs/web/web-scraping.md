@@ -1,6 +1,6 @@
 # Web scraping
 
-[shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) is [neat](https://til.simonwillison.net/shot-scraper/readability). [Colly](https://github.com/gocolly/colly) too.
+[Scraping Fish](https://scrapingfish.com/), [shot-scraper](https://simonwillison.net/2022/Mar/14/scraping-web-pages-shot-scraper/) ([example](https://til.simonwillison.net/shot-scraper/readability)), [Colly](https://github.com/gocolly/colly) are neat.
 
 Currently exploring [Playwright](https://playwright.dev/) together with [AutoScraper](https://github.com/alirezamika/autoscraper) for my scraping needs.
 
@@ -198,3 +198,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Scrapism 2022 course](https://github.com/antiboredom/scrapism-spring-2022)
 - [Libextract](https://github.com/datalib/libextract) - Extract data from websites using basic statistical magic.
 - [TikTok Scraper & Downloader](https://github.com/drawrowfly/tiktok-scraper) - Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
+- [Scraping Airbnb (2022)](https://scrapingfish.com/blog/scraping-airbnb)

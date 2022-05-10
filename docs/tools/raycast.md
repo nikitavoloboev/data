@@ -13,6 +13,7 @@ Looking into building plugins for Raycast to compare it to [Alfred](../macOS/app
 - [GitHub](https://github.com/jclem/raycast-github)
 - [Personal Notion Raycast Extension](https://github.com/jclem/raycast-notion)
 - [1Password extension for Raycast](https://github.com/dteare/raycast-1password-extension)
+- [Sourcegraph for Raycast](https://github.com/bobheadxi/raycast-sourcegraph) - Search code, browse Notebooks, and manage Batch Changes.
 
 ## Notes
 

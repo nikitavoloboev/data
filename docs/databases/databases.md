@@ -233,6 +233,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [AntidoteDB](https://github.com/AntidoteDB/antidote) - Planet scale, highly available, transactional database built on CRDT technology. ([Web](https://www.antidotedb.eu/))
 - [DarkBird](https://github.com/Rustixir/darkbird) - Document oriented, high concurrency in-memory Storage, also persist data to disk to avoid loss any data.
 - [Apache Calcite](https://calcite.apache.org/) - Dynamic data management framework. ([Code](https://github.com/apache/calcite))
+- [PolarDB-X](https://github.com/ApsaraDB/galaxysql) - Cloud native distributed SQL Database designed for high concurrency, massive storage and complex querying scenarios.
 
 ## Tools
 
