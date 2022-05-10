@@ -1937,6 +1937,7 @@
 - [Cargo Structure](https://github.com/ramon54321/cargo-structure) - Utility for analyzing the structure of a cargo project.
 - [cargo-trace](https://github.com/dvc94ch/cargo-trace) - Flamegraphing tool for perf events.
 - [build-info](https://github.com/danielschemmel/build-info) - Collects build-information of your Rust crate.
+- [cargo-minimal-versions](https://github.com/taiki-e/cargo-minimal-versions) - Cargo subcommand for proper use of -Z minimal-versions.
 
 ## Links
 

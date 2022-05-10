@@ -558,3 +558,4 @@ I have a [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 - [Тайга.инфо](https://tayga.info/) - Главные новости Сибири.
 - [George Friedman book talk: The Storm Before The Calm (2022)](https://youtu.be/kr_iDUeFdb4?t=291)
 - [Corruption is the main cause of Russia not being rich (2022)](https://www.reddit.com/r/AskEconomics/comments/ukay2p/why_is_russia_still_poor_even_though_it_has_all/)
+- [Godfather of the Kremlin: The Decline of Russia in the Age of Gangster Capitalism by Paul Klebnikov (2001)](https://www.goodreads.com/book/show/79033.Godfather_of_the_Kremlin)

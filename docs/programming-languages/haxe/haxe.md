@@ -15,3 +15,5 @@ title: Haxe
 - [StablexUI](https://github.com/RealyUniqueName/StablexUI) - UI engine for Haxe OpenFL designed to give as much freedom as possible in customizing UI.
 - [haxeui-core](https://github.com/haxeui/haxeui-core) - Core library of the HaxeUI framework.
 - [HaxeFlixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL. ([Web](https://haxeflixel.com/))
+- [OimoPhysics](https://github.com/saharan/OimoPhysics) - Lightweight 3D physics engine.
+- [HGSL](https://github.com/saharan/HGSL) - Haxe to GL Shading Language.

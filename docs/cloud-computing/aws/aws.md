@@ -347,3 +347,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [AWSSSMChaosRunner](https://github.com/amzn/awsssmchaosrunner) - Amazon's light-weight library for chaos engineering on AWS. It can be used for EC2 and ECS (with EC2 launch type).
 - [Terraform AWS Backup](https://github.com/cloudposse/terraform-aws-backup)
 - [Terraform AWS CI/CD](https://github.com/cloudposse/terraform-aws-cicd) - Terraform Module for CI/CD with AWS Code Pipeline and Code Build.
+- [Code generator for AWS Controllers for Kubernetes](https://github.com/aws-controllers-k8s/code-generator)

@@ -531,3 +531,4 @@ the execution time on all cores of a multi-core processor.
 - [RAUC](https://github.com/rauc/rauc) - Safe and secure software updates for embedded Linux. ([Web](https://rauc.io/))
 - [Linux Vendor Firmware Service (LVFS)](https://lvfs.readthedocs.io/en/latest/intro.html)
 - [deai](https://github.com/yshui/deai) - One-stop automation system for Linux.
+- [Alpine GNU C library (glibc) Docker image](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc)

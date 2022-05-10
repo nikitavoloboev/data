@@ -127,3 +127,4 @@
 - [WASM PNG Image compressor](https://github.com/antelle/wasm-image-compressor)
 - [libimagequant](https://github.com/ImageOptim/libimagequant) - Palette quantization library that powers pngquant and other PNG optimizers.
 - [StreamVByte](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
+- [BZip3](https://github.com/kspalaiologos/bzip3) - Better, faster and stronger spiritual successor to BZip2.

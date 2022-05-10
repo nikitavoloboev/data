@@ -23,3 +23,4 @@ title: Logseq
 - [Logseq Calendar Plugin](https://github.com/haydenull/logseq-plugin-agenda)
 - [10 Must Plugins for Logseq (2022)](https://www.youtube.com/watch?v=7rSs-WMF6Cg)
 - [Teletolo](https://github.com/abul4fia/teletolo) - Telegram To Logseq.
+- [Obsidian LogSeq plugin](https://github.com/ruivieira/obsidian-plugin-logseq) - Simple plugin to make Obsidian's preview of LogSeq markdown a bit more pleasant.

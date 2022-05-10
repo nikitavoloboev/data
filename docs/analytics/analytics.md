@@ -102,3 +102,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Product Analytics from Scratch (2022)](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/)
 - [In-Memory Analytics with Apache Arrow (2022)](https://www.packtpub.com/product/in-memory-analytics-with-apache-arrow/9781801071031) ([Code](https://github.com/PacktPublishing/In-Memory-Analytics-with-Apache-Arrow-))
 - [Objectiv](https://github.com/objectiv/objectiv-analytics) - Open-source product analytics infrastructure with a generic event taxonomy. ([Web](https://objectiv.io/))
+- [Snowplow](https://github.com/snowplow/snowplow) - Enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP.

@@ -493,3 +493,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PostgreSQL collation (2022)](https://solovyov.net/blog/2022/postgresql-collation/)
 - [Creating JSON Extracts in Supabase (2022)](https://vhs.codeberg.page/post/creating-json-extract-supabase/) - How to upload and extract JSON using Postgres trigger functions in Supabase.
 - [Auto-Updating Materialized View in PostgreSQL (2022)](https://www.youtube.com/watch?v=GqODV9ATASU)
+- [Tgres](https://github.com/tgres/tgres) - Time Series in Go and PostgreSQL.

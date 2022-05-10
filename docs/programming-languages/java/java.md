@@ -119,3 +119,4 @@ title: Java
 - [GraalVM 22.1: Developer experience improvements, Apple Silicon builds, and more (2022)](https://medium.com/graalvm/graalvm-22-1-developer-experience-improvements-apple-silicon-builds-and-more-b7ac9a0f6066) ([HN](https://news.ycombinator.com/item?id=31168001))
 - [Saga of the Parametric VM (2020)](http://cr.openjdk.java.net/~jrose/values/parametric-vm.pdf)
 - [Go's Concurrency Examples in Java 19 (2022)](https://mccue.dev/pages/5-2-22-go-concurrency-in-java) ([HN](https://news.ycombinator.com/item?id=31254005))
+- [Using Java's Project Loom to build more reliable distributed systems (2022)](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31314006))

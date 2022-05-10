@@ -66,6 +66,7 @@
 - [Numo::NArray](https://github.com/ruby-numo/numo-narray) - Numerical N-dimensional Array class for fast processing and easy manipulation of multi-dimensional numerical data, similar to numpy.ndaray.
 - [sidekiq-scheduler](https://github.com/moove-it/sidekiq-scheduler) - Lightweight job scheduler extension for Sidekiq.
 - [Actor](https://github.com/sunny/actor) - Composable Ruby service objects.
+- [Alba](https://github.com/okuramasafumi/alba) - Fastest JSON serializer for Ruby.
 
 ## Links
 

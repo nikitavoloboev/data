@@ -114,13 +114,15 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Familjen Grotesk](https://github.com/Familjen-Sthlm/Familjen-Grotesk) - Sans serif typeface with a contemporary appearance intended for both text and display.
 - [Arima Font Family](https://github.com/NDISCOVER/Arima-Font)
 - [SF Pro](https://v-fonts.com/fonts/sf-pro) ([Tweet](https://twitter.com/variablefonts/status/1522219878890885122))
+- [Type With Pride: Gilbert Font Project](https://github.com/Fontself/TypeWithPride)
+- [Commissioner](https://github.com/kosbarts/Commissioner) - Variable and static sans typeface.
 
 ## Links
 
 - [Typewolf](https://www.typewolf.com) - What's trending in type. ([Site of the day](https://www.typewolf.com/site-of-the-day))
 - [Google Fonts](https://fonts.google.com) ([Code](https://github.com/google/fonts))
 - [Programming Fonts](http://app.programmingfonts.org/) - Test drive over 50 free programming fonts.
-- [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)
+- [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/) ([Code](https://github.com/ubuwaits/beautiful-web-type))
 - [Inter typeface family](https://rsms.me/inter/)
 - [Google Noto Fonts](https://www.google.com/get/noto/)
 - [The sad state of font rendering on Linux (2018)](https://pandasauce.org/post/linux-fonts/)

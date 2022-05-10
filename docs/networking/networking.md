@@ -477,3 +477,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Scapy: low level packet hacking toolkit for Python (2022)](https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/) ([HN](https://news.ycombinator.com/item?id=31304178))
 - [tinysnitch](https://github.com/nathants/tinysnitch) - Interactive firewall for inbound and outbound connections.
 - [Linux Networking Scripts/Commands (2022)](https://haydenjames.io/linux-networking-commands-scripts/)
+- [The Two Generals Problem (2022)](https://haydenjames.io/the-two-generals-problem/) ([HN](https://news.ycombinator.com/item?id=31309960))

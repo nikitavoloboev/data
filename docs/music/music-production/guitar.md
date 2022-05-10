@@ -41,3 +41,4 @@
 - [BYOD](https://github.com/Chowdhury-DSP/BYOD) - Guitar distortion plugin with a customizable signal chain that allows users to create their own guitar distortion effects.
 - [Set List](http://setlist-app.surge.sh/) - Home to all your guitar chords, in your browser. ([Code](https://github.com/arogyakoirala/setlist))
 - [Neural network emulator for guitar amplifiers](https://github.com/sdatkinson/neural-amp-modeler)
+- [Ultimate Guitar Tabs](https://www.ultimate-guitar.com/) ([Scraper](https://github.com/jers0/ultimate-guitar-scraper))

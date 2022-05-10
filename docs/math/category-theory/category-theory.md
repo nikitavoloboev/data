@@ -156,6 +156,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category theory diagram](https://github.com/Nertsal/categories) - Implements some basic Category theory in the form of a diagram with the intention to help to visualize and understand the concepts in Category theory.
 - [Dialectica Categories](https://github.com/vcvpaiva/DialecticaCategories) - Place to collect work on dialectica categories.
 - [On the the missing diagrams in Category Theory (first-person version) (2022)](https://arxiv.org/abs/2204.10630) ([Tweet](https://twitter.com/bgavran3/status/1518490598675824642))
+- [Categorical Query Language (CQL)](https://www.categoricaldata.net/) ([Code](https://github.com/CategoricalData/CQL))
 
 ## Images
 

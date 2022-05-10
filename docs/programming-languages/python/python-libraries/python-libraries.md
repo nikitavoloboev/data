@@ -862,6 +862,7 @@
 - [CDB](https://github.com/avinassh/cdb) - Disk based Log Structured Hash Table Store. ([Lobsters](https://lobste.rs/s/cgzat4/cdb_build_your_own_persistent_key_value))
 - [lbst](https://github.com/amirouche/lbst) - Immutable Log-Balanced Search Tree.
 - [parsec.py](https://github.com/sighingnow/parsec.py) - Universal Python parser combinator library inspired by Parsec library of Haskell.
+- [reparsec](https://github.com/ethframe/reparsec) - Small parsec-like parser combinators library with semi-automatic error recovery.
 
 ## Notes
 

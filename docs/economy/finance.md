@@ -192,3 +192,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Best payment processor out there that acts as a merchant of record (2022)](https://twitter.com/adamwathan/status/1520371027771117568)
 - [Beancount](https://github.com/beancount/beancount) - Double-Entry Accounting from Text Files. ([Rust Tooling](https://github.com/twilco/beancount))
 - [Stripe Financial Connections](https://stripe.com/en-gb-nl/financial-connections) ([HN](https://news.ycombinator.com/item?id=31262361))
+- [How to have a billion dollar exit with zero capital gains tax (2022)](https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/) ([HN](https://news.ycombinator.com/item?id=31320519))

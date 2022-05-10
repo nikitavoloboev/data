@@ -116,3 +116,4 @@ title: Three.js
 - [threejs-csg](https://github.com/looeee/threejs-csg) - Constructive Solid Geometry for three.js, ES6 + BufferGeometry.
 - [Ektogamat ThreeJS Boilerplate](https://github.com/ektogamat/threejs-andy-bolierplate)
 - [Reality Mixer JS](https://github.com/fabio914/reality-mixer-js) - Mixed Reality Capture module for WebXR and Three.js.
+- [three-filmic](https://github.com/donmccurdy/three-filmic) - Film emulsion-like rendering transforms for three.js.

@@ -1631,6 +1631,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [skipset](https://github.com/zhangyunhao116/skipset) - High-performance, scalable concurrent sorted set based on skip-list.
 - [pdqsort](https://github.com/zhangyunhao116/pdqsort) - Pattern-defeating quicksort in Go with generics.
 - [run](https://github.com/sourcegraph/run) - New way to execute commands in Go.
+- [lexmachine](https://github.com/timtadh/lexmachine) - Lexical Analysis Framework for Go.
 
 ## Links
 

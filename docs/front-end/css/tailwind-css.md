@@ -149,3 +149,4 @@ title: Tailwind CSS
 - [Tailwind CSS Logical](https://github.com/stevecochrane/tailwindcss-logical) - CSS Logical Properties and Values plugin for Tailwind CSS.
 - [Tailwind CSS Plugin Starter](https://github.com/maizzle/tailwindcss-plugin-starter) - Boilerplate for Tailwind CSS plugins.
 - [Tailwind CSS OpenType](https://github.com/stormwarning/tailwindcss-opentype) - Tailwind CSS utility classes for advanced typographic features.
+- [Xtend UI](https://xtendui.com/) - Custom UI made easy with simplicity and total freedom. ([Code](https://github.com/xtendui/xtendui))

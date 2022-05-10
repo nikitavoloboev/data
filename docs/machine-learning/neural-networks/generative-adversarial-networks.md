@@ -208,3 +208,4 @@ title: Generative adversarial networks
 - [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation (2022)](https://diff-ae.github.io/) ([Code](https://github.com/phizaz/diffae))
 - [StyleGAN-Human: A Data-Centric Odyssey of Human Generation](https://github.com/stylegan-human/StyleGAN-Human)
 - [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (2022)](https://openreview.net/forum?id=Czsdv-S4-w9) ([Code](https://github.com/sihyun-yu/digan))
+- [In&Out : Diverse Image Outpainting via GAN Inversion (2021)](https://arxiv.org/abs/2104.00675) ([Code](https://github.com/yccyenchicheng/InOut))

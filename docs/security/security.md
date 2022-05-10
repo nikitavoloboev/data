@@ -294,3 +294,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Package Analysis](https://github.com/ossf/package-analysis) - Components to aid in the analysis of open source packages, in particular to look for malicious software.
 - [Teller](https://tlr.dev/) - Secrets management tool for developers built in Go - never leave your command line for secrets. ([Code](https://github.com/SpectralOps/teller))
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+- [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)

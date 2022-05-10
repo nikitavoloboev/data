@@ -40,3 +40,4 @@ title: Mastodon
 - [Choosing a server - Mastodon](https://joinmastodon.org/communities)
 - [Chica](https://github.com/hyperspacedev/chica) - Swift package for connecting to Mastodon and Twitter simultaneously.
 - [Increasingly Less-Brief Guide to Mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
+- [Mastodon IP anonymization (2022)](https://libreops.cc/2022/05/09/mastodon/)

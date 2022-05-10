@@ -2,7 +2,7 @@
 
 Most important thing I always try to be mindful of is keeping straight back (no slouching). Good chair / standing desk is super useful in that regard. As well as taking breaks walking/cycling or doing some sport. Straight back with some kind of exercise daily should be enough to keep my body healthy for long time I think. I try to do some kind of strength training workout weekly too.
 
-I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I like.
+I use [HAG Capisco chair](https://twitter.com/rsms/status/1521765828303245313) I like. The most important thing I need for proper working environment is good air so I either work outside or near an open window where there's constant supply of clean air.
 
 ## Chairs
 

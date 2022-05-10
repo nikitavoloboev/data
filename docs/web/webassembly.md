@@ -311,3 +311,4 @@ title: WebAssembly
 - [Trickery to Tame Big WebAssembly Binaries (2022)](https://jott.live/markdown/wasm_binary_size)
 - [Wizard Engine](https://github.com/titzer/wizard-engine) - Lightweight WebAssembly virtual machine designed for teaching and research.
 - [TWVM](https://github.com/Becavalier/TWVM) - Tiny, lightweight and efficient WebAssembly virtual machine.
+- [Fast WASM modules](https://github.com/evanwashere/wasm)

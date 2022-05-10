@@ -162,3 +162,4 @@ title: Rails
 - [Ask HN: Is Ruby on Rails still relevant? (2022)](https://news.ycombinator.com/item?id=31170481)
 - [Spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
 - [Rails Devs](https://railsdevs.com/) - Reverse job board for Ruby on Rails developers.
+- [20 in 20 Ruby on Rails challenge](https://github.com/Deanout/20in20)

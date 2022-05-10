@@ -490,3 +490,4 @@ for i, _ in enumerate(nums):
 - [pysen](https://github.com/pfnet/pysen) - Python linting made easy.
 - [Modern Python Performance Considerations (2022)](https://lwn.net/SubscriberLink/893686/8978976335696804/) ([HN](https://news.ycombinator.com/item?id=31272681))
 - [Wordle in Python using literate programming](https://jiby.tech/project/literate_wordle/wordle.html) ([HN](https://news.ycombinator.com/item?id=31306340))
+- [Spatial Environment for Python](https://python.natto.dev/) ([HN](https://news.ycombinator.com/item?id=31320335))

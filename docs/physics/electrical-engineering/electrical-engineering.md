@@ -113,3 +113,4 @@ title: Electrical engineering
 - [How Electricity Actually Works (2022)](https://www.youtube.com/watch?v=oI_X2cMHNe0) ([Reddit](https://www.reddit.com/r/videos/comments/uensdo/how_electricity_actually_works_veritasium/))
 - [Fritzing](https://fritzing.org/) - Electronic Design Automation software with a low entry barrier, suited for the needs of makers and hobbyists. ([Code](https://github.com/fritzing/fritzing-app)) ([GitHub](https://github.com/fritzing)) ([HN](https://news.ycombinator.com/item?id=31235109))
 - [SKiDL](https://github.com/devbisme/skidl) - Module that extends Python with the ability to design electronic circuits.
+- [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)

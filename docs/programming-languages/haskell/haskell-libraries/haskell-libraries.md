@@ -319,6 +319,7 @@
 - [aeson-quick](https://github.com/ssadler/aeson-quick) - Haskell library for quick JSON extractions with Aeson.
 - [NoRedInk Haskell libraries](https://github.com/NoRedInk/haskell-libraries)
 - [fused-effects-th](https://github.com/fused-effects/fused-effects-th) - Template Haskell helpers to avoid effect boilerplate.
+- [record](https://github.com/nikita-volkov/record) - Anonymous records.
 
 ## Notes
 

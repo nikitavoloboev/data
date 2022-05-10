@@ -90,3 +90,4 @@
 - [Trainer](https://github.com/coqui-ai/Trainer) - General purpose model trainer, as flexible as it gets.
 - [onnxcustom](https://github.com/sdpython/onnxcustom) - Tutorial on how to convert machine learned models into ONNX.
 - [Vetiver](https://github.com/tidymodels/vetiver-python) - Version, share, deploy, and monitor models.
+- [Cloud TPU VMs are generally available (2022)](https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available) ([HN](https://news.ycombinator.com/item?id=31322379))
