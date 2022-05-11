@@ -45,3 +45,4 @@ title: Homotopy theory
 - [Cubical 1lab](https://cubical.1lab.dev/) - Formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory. ([Code](https://github.com/plt-amy/cubical-1lab))
 - [Homotopy Type Theory Course](https://www.cs.cmu.edu/~rwh/courses/hott/) ([Notes](https://github.com/RobertHarper/hott-notes))
 - [HoTTEST Summer School 2022](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
+- [Spartan implementation of H.O.T.T.](https://github.com/Trebor-Huang/Down-The-Path)

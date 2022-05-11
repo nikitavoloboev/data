@@ -158,3 +158,5 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [RainCache](https://github.com/DasWolke/RainCache) - Simple and modular discord caching library.
 - [SnowTransfer](https://github.com/DasWolke/SnowTransfer) - Minimalistic REST client for the discord API.
 - [CloudStorm](https://github.com/DasWolke/CloudStorm) - Modular discord gateway library for microservice oriented bots.
+- [Discord API Types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version.
+- [Crux.Gateway](https://github.com/SpaceEEC/crux_gateway) - Library providing a flexible gateway connection to the Discord API.

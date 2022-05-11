@@ -6,6 +6,7 @@ title: Flutter
 
 ## Nice Flutter apps
 
+- [I/O Pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase.
 - [Hacki](https://github.com/Livinglist/Hacki) - Simple Hacker News reader made with Flutter.
 - [Lemmur](https://github.com/krawieck/lemmur) - Mobile Client for Lemmy. Federated Reddit alternative.
 - [Gmail Clone built with Flutter](https://github.com/rodydavis/gmail_clone)

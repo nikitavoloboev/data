@@ -105,3 +105,4 @@ Matrix is kind of like a federated IRC system and [Element](https://element.io) 
 - [Matrix React SDK](https://github.com/matrix-org/matrix-react-sdk)
 - [Mautrix](https://github.com/mautrix/python) - Python 3 asyncio Matrix framework.
 - [OAuth 2.0 authentication server for Matrix](https://github.com/matrix-org/matrix-authentication-service)
+- [Matrix protocol spec](https://github.com/matrix-org/matrix-spec)

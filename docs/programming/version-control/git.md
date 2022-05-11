@@ -531,3 +531,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Visual](https://git-truck.github.io/) - Visualizing a Git repository. ([Code](https://github.com/git-truck/git-truck))
 - [git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite.
 - [git-vendor](https://github.com/brettlangdon/git-vendor) - Git command for managing vendored dependencies.
+- [smimecosign](https://github.com/wlynch/smimecosign) - Keyless Git signing with cosign.

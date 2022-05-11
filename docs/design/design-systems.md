@@ -185,3 +185,4 @@
 - [Storybook Design Token Addon](https://github.com/UX-and-I/storybook-design-token)
 - [Brand Site Design](https://www.brandsite.design/) - Collection of purpose-built, digital, accessible guidelines from global brands.
 - [Fluid Design Systems With Netlify On-demand Builders](https://github.com/georgedoescode/fluid-design-system-on-demand-builders)
+- [Multi-platform design system at Booking.com – Figma (2022)](https://www.figma.com/community/file/1105910527004188461)

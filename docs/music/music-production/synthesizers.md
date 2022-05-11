@@ -79,3 +79,5 @@ title: Synthesizers
 - [TX–6 - teenage engineering](https://teenage.engineering/products/tx-6) ([Reddit](https://www.reddit.com/r/synthesizers/comments/u8noc6/new_teenage_engineering_mixer_is_smaller_than/))
 - [Syntakt](https://www.elektron.se/products/syntakt/) - 12 Track Drum Computer and Synthesizer.
 - [Mini-Synth](https://github.com/alelouis/mini-synth) - Mini-synthesizer with modular philosophy built from scratch in Python.
+- [What's an "unpopular opinion" you have about a synth, synth manufacturer, or just the world of synths overall? (2022)](https://www.reddit.com/r/synthesizers/comments/umkmvb/whats_an_unpopular_opinion_you_have_about_a_synth/)
+- [Synthesizers Reddit Wiki](https://www.reddit.com/r/synthesizers/wiki/index)

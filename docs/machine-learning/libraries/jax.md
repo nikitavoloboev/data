@@ -37,3 +37,4 @@ title: JAX
 - [Jax vs. Julia (Vs PyTorch) (2022)](https://kidger.site/thoughts/jax-vs-julia/) ([HN](https://news.ycombinator.com/item?id=31263516))
 - [minGPT in JAX](https://github.com/mgrankin/minGPT)
 - [flaxvision](https://github.com/rolandgvc/flaxvision) - Selection of neural network models ported from torchvision for JAX & Flax.
+- [JAX version of clip guided diffusion scripts](https://github.com/nshepperd/jax-guided-diffusion)

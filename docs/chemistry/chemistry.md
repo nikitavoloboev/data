@@ -74,3 +74,4 @@ title: Chemistry
 - [ChemPy](https://github.com/bjodah/chempy) - Package useful for chemistry written in Python.
 - [RDKit](https://github.com/rdkit/rdkit) - Collection of cheminformatics and machine-learning software written in C++ and Python.
 - [Open Babel](https://github.com/openbabel/openbabel) - Chemical toolbox designed to speak the many languages of chemical data.
+- [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials)

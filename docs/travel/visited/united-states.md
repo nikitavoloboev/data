@@ -142,5 +142,5 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [Every Bay Area House Party (2022)](https://astralcodexten.substack.com/p/every-bay-area-house-party?s=r) ([Reddit](https://www.reddit.com/r/slatestarcodex/comments/uhvf96/every_bay_area_house_party/))
 - [How do you imagine the US in 2030?](https://www.reddit.com/r/AskAnAmerican/comments/ui6e55/how_do_you_imagine_the_us_in_2030/)
 - [HN: Wealthy Americans are buying second passports as a 'plan B' (2022)](https://news.ycombinator.com/item?id=31303583)
-- [No, America is not collapsing (2022)](https://noahpinion.substack.com/p/no-america-is-not-collapsing?s=r) ([HN](https://news.ycombinator.com/item?id=31325941))
+- [No, America is not collapsing (2022)](https://noahpinion.substack.com/p/no-america-is-not-collapsing?s=r) ([HN](https://news.ycombinator.com/item?id=31325941)) ([Reddit](https://www.reddit.com/r/neoliberal/comments/umr2gh/no_america_is_not_collapsing/))
 - [What facts about the United States do foreigners not believe until they come to America? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/umhysk/what_facts_about_the_united_states_do_foreigners/)

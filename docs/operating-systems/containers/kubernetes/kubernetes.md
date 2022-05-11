@@ -728,3 +728,4 @@ title: Kubernetes
 - [Deploying Kubernetes clusters in increasingly absurd languages (2022)](https://leebriggs.co.uk/blog/2022/05/04/deploying-kubernetes-clusters-in-absurd-languages) ([HN](https://news.ycombinator.com/item?id=31286279))
 - [kfmt](https://github.com/dippynark/kfmt) - Organizes Kubernetes manifests into a standard format.
 - [Kedro Airflow K8S Plugin](https://github.com/getindata/kedro-airflow-k8s) - Kedro Plugin to support running pipelines on Kubernetes using Airflow.
+- [Tekton Triggers](https://github.com/tektoncd/triggers) - Kubernetes Custom Resource Definition (CRD) controller that allows you to create Kubernetes resources based on information it extracts from event payloads.

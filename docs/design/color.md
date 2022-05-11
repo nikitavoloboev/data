@@ -160,7 +160,7 @@
 - [Hypercolor](https://hypercolor.dev/) - Gradients for Tailwind CSS. ([Code](https://github.com/jordihales/hypercolor))
 - [Mesh Gradients inside Sketch](https://www.meshgradients.com/)
 - [Web color is still broken](https://webcolorisstillbroken.com/) ([HN](https://news.ycombinator.com/item?id=31107643))
-- [OKLCH Color Picker](https://oklch.evilmartians.io/)
+- [OKLCH Color Picker](https://oklch.evilmartians.io/) ([Tweet](https://twitter.com/andrey_sitnik/status/1524378933818449920))
 - [Why OKLCH is the future of colors in CSS](https://slides.com/ai/oklch-css)
-- [The Color API](https://www.thecolorapi.com/) - Pass in any valid color and get conversion into any other format, the name of the color, placeholder images and a multitude of schemes.
+- [The Color API](https://www.thecolorapi.com/) - Pass in any valid color and get conversion into any other format, the name of the color, placeholder images and a multitude of schemes. ([Code](https://github.com/andjosh/thecolorapi))
 - [distinctipy](https://github.com/alan-turing-institute/distinctipy) - Lightweight package for generating visually distinct colors.

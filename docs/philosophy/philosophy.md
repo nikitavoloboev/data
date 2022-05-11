@@ -1,6 +1,6 @@
 # Philosophy
 
-[The Beginning of Infinity Notes](https://beginning-of-infinity.vercel.app/) are a nice read.
+[The Beginning of Infinity Notes](https://beginning-of-infinity.vercel.app/) are a nice read. [David Deutsch is fascinating](https://www.youtube.com/watch?v=b_6vYwCkIpc).
 
 ## Notes
 
@@ -68,3 +68,4 @@
 - [Rosa Luxemburg](https://plato.stanford.edu/entries/luxemburg/)
 - [User Disengagement](https://zerodha.tech/blog/user-disengagement/) ([HN](https://news.ycombinator.com/item?id=31283524))
 - [The Beginning of Infinity](https://thebeginningofinfinity.xyz/) ([Tweet](https://twitter.com/maccaw/status/1523680863044521985)) ([Code](https://github.com/team-reflect/beginning-of-infinity))
+- [David Deutsch on Multiple Worlds and Our Place in Them (2021)](https://www.youtube.com/watch?v=b_6vYwCkIpc)

@@ -120,3 +120,4 @@ title: Java
 - [Saga of the Parametric VM (2020)](http://cr.openjdk.java.net/~jrose/values/parametric-vm.pdf)
 - [Go's Concurrency Examples in Java 19 (2022)](https://mccue.dev/pages/5-2-22-go-concurrency-in-java) ([HN](https://news.ycombinator.com/item?id=31254005))
 - [Using Java's Project Loom to build more reliable distributed systems (2022)](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31314006))
+- [Wasmer Java](https://github.com/wasmerio/wasmer-java) - WebAssembly runtime for Java.

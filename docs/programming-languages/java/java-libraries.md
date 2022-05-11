@@ -11,7 +11,7 @@
 
 ## GUI
 
-- [Skija](https://github.com/JetBrains/skija) - Skia bindings for Java. Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms.
+- [Skija](https://github.com/HumbleUI/Skija) - High-quality Java bindings for Skia. Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms.
 
 ## DB
 

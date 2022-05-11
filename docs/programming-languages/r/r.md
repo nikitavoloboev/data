@@ -158,3 +158,6 @@
 - [eventloop](https://github.com/coolbutuseless/eventloop) - Event Loop in R.
 - [ggdist](https://github.com/mjskay/ggdist) - Visualizations of distributions and uncertainty.
 - [testthat](https://github.com/r-lib/testthat) - R package for testing.
+- [naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualizations for missing data.
+- [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualization of Data.
+- [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) ([Code](https://github.com/njtierney/rmd4sci))

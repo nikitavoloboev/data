@@ -6,6 +6,8 @@ title: Remix
 
 > Framework for building better websites using modern web standards and best practices
 
+[Remix + EdgeDB](https://github.com/jkcorrea/remix-chop-suey-stack) is a nice template.
+
 ## OSS Remix apps
 
 - [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template) ([Another version](https://github.com/mcansh/remix-netlify-edge-js))

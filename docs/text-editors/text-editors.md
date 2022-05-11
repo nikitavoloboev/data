@@ -133,6 +133,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Slate-yjs](https://github.com/BitPhinix/slate-yjs) - Goto collaboration solution for slate.
 - [monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor.
 - [Mira](https://github.com/spring-raining/mira) - JavaScript & Markdown live editor on your browser.
+- [Textarea Markdown](https://github.com/Resetand/textarea-markdown-editor) - UI headless simple markdown editor using only textarea.
 
 ## Notes
 

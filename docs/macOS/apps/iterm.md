@@ -47,3 +47,4 @@ My always open tabs are:
 - [Useful notifications in iTerm2 (2020)](https://cgamesplay.com/post/2020/12/09/iterm-notifications/)
 - [Remote pbcopy for iTerm2](https://github.com/skaji/remote-pbcopy-iterm2)
 - [ClusterSSH for iTerm2](https://github.com/ilikejam/csshi) ([HN](https://news.ycombinator.com/item?id=30364682))
+- [GitHub VS Code Theme for iTerm](https://github.com/cdalvaro/github-vscode-theme-iterm)

@@ -119,3 +119,4 @@ title: Apache Kafka
 - [Build a Data Streaming App for Sound & Vision (2022)](https://www.youtube.com/watch?v=P-9svLRyaSw)
 - [Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking.
 - [kcat](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka.
+- [Redpanda Data - YouTube](https://www.youtube.com/c/RedpandaData/videos)

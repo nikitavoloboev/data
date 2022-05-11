@@ -4,7 +4,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 
 [Database Internals](https://www.databass.dev/) & [Designing Data-Intensive Applications](https://dataintensive.net/) are great books on databases.
 
-[Metabase](https://github.com/metabase/metabase) is a great SQL queries visualizer.
+[Metabase](https://github.com/metabase/metabase) is a great SQL queries visualizer. [Database access optimization doc](https://docs.djangoproject.com/en/4.0/topics/db/optimization/) is a good read.
 
 ## Interesting
 
@@ -603,3 +603,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Datascript and Datomic tutorial book](https://github.com/kristianmandrup/datascript-tutorial)
 - [Zero downtime migrations (2022)](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html) ([HN](https://news.ycombinator.com/item?id=31269515))
 - [CaskDB](https://github.com/avinassh/py-caskdb) - Project to teach you building a key value store. ([HN](https://news.ycombinator.com/item?id=31304897))
+- [Database access optimization | Django Docs](https://docs.djangoproject.com/en/4.0/topics/db/optimization/)

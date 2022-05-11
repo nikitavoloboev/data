@@ -1,6 +1,6 @@
 # Documentation
 
-Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) looks nice too.
+Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [Markdoc](https://markdoc.io/) & [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) look nice too.
 
 ## Examples of nice docs
 
@@ -174,3 +174,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
 - [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.
 - [Spacebook](https://spacebook.app/) - Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. ([Code](https://github.com/broeker/spacebook))
+- [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083))

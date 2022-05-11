@@ -344,6 +344,7 @@ Below is a list of extensions I use.
 - [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) - Language Support plugin built specifically for Vue 3. ([Code](https://github.com/johnsoncodehk/volar))
 - [Vetur](https://vuejs.github.io/vetur/) - Vue tooling for VS Code. ([Code](https://github.com/vuejs/vetur))
 - [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) ([Code](https://github.com/sdras/vue-vscode-snippets))
+- [Goto Alias](https://github.com/antfu/vscode-goto-alias) - Go to Definition following alias redirections.
 
 ## Bash
 

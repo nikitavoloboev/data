@@ -74,7 +74,7 @@
 - [rawth](https://github.com/GianlucaGuarini/rawth) - Pure functional isomorphic router based on streams.
 - [Corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend. ([Web](https://corset.dev/))
 - [hdot](https://github.com/willmartian/hdot) - Zero-dependency, buildless, terse, and type-safe way to write HTML in JavaScript.
-- [SurveyJS](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library.
+- [SurveyJS](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library. ([Web](https://surveyjs.io/))
 
 ## Animation
 
@@ -1000,3 +1000,4 @@
 - [npm-multi-publish](https://github.com/privatenumber/npm-multi-publish) - Publish npm package to multiple registries.
 - [Four Eras of JavaScript Frameworks (2022)](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks) ([HN](https://news.ycombinator.com/item?id=31176910))
 - [JS Framework Benchmark](https://github.com/krausest/js-framework-benchmark) - Simple benchmark for several JS frameworks.
+- [Nice form libraries (work with JSON)](https://twitter.com/buildsghost/status/1524098282191917056)

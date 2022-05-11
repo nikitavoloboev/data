@@ -1,6 +1,6 @@
 # Containers
 
-[Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) is nice intro talk to containers.
+[Containers From Scratch](https://www.youtube.com/watch?v=8fi7uSYlOdc) is nice intro talk to containers. [Podman](https://podman.io/) is great.
 
 ## Notes
 

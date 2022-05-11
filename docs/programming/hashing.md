@@ -65,3 +65,4 @@
 - [ImageHash](https://github.com/JohannesBuchner/imagehash) - Python Perceptual Image Hashing Module. Image hashes tell whether two images look nearly identical.
 - [UMASH](https://github.com/backtrace-labs/umash) - Fast almost universal 64-bit string hash.
 - [SharedHashFile: Share Hash Tables With Stable Key Hints Stored In Memory Mapped Files Between Arbitrary Processes](https://github.com/simonhf/sharedhashfile)
+- [Hash Function Prospector](https://github.com/skeeto/hash-prospector) - Automated integer hash function discovery.

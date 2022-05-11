@@ -209,3 +209,4 @@ title: SwiftUI
 - [SwiftUI Social Contributor App](https://github.com/adamrushy/social-swiftui-app) - Designed as a social way to build and learn SwiftUI.
 - [Handle Keyboard Presses Using SwiftUI in macOS (2022)](https://www.swiftjectivec.com/handling-keyboard-presses-in-swiftui-for-macos/)
 - [What architecture do you use for your SwiftUI apps? (2022)](https://twitter.com/dejadu13/status/1523679164397920258)
+- [SwiftUI: How to use custom fonts and images in a Swift Package (2022)](https://dev.jeremygale.com/swiftui-how-to-use-custom-fonts-and-images-in-a-swift-package-cl0k9bv52013h6bnvhw76alid)

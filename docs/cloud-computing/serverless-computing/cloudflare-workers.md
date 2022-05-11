@@ -8,6 +8,8 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 
 [Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)) & [Worktop](https://github.com/lukeed/worktop) seem like nice web frameworks built on top of Cloudflare workers.
 
+Exploring building fast web apps with [Svelte](../../programming-languages/javascript/js-libraries/svelte.md) on [the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
+
 ## OSS tools build with CW
 
 - [Edge Comments](https://github.com/umstek/edge-comments) - Comments engine on the edge with Cloudflare.
@@ -159,3 +161,5 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 - [Reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers. ([Docs](https://reflare.js.org/))
 - [10 things I love about Wrangler v2.0 (2022)](https://blog.cloudflare.com/10-things-i-love-about-wrangler/)
 - [create-cloudflare](https://github.com/lukeed/create-cloudflare) - Create new Cloudflare projects with one command.
+- [Workers for Platforms: making every application on the Internet more programmable (2022)](https://blog.cloudflare.com/workers-for-platforms/) ([Tweet](https://twitter.com/KentonVarda/status/1524033314448891905))
+- [D1: Cloudflare’s First SQL Database (2022)](https://blog.cloudflare.com/introducing-d1/) ([HN](https://news.ycombinator.com/item?id=31339299))

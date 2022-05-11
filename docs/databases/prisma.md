@@ -110,3 +110,4 @@ title: Prisma
 - [sb-prisma](https://github.com/aiji42/sb-prisma) - Library that uses REST API of Supabase directly from the Prisma client to process databases.
 - [Prisma tRPC Generator](https://github.com/omar-dulaimi/prisma-trpc-generator)
 - [Schemix](https://github.com/ridafkih/schemix) - Allows you to programmatically create Prisma schemas using TypeScript.
+- [Prisma 2 GraphQL](https://github.com/zackradisic/prisma2gql) - Code generator for Prisma schema files.

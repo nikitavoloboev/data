@@ -163,3 +163,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Edge Functions on Netlify Examples](https://edge-functions-examples.netlify.app/)
 - [Fastly Compute@Edge starter kit with Hono](https://github.com/honojs/compute-starter-kit)
 - [Demo of server-sent events with Netlify Edge Functions](https://github.com/ascorbic/sse-demo)
+- [Ask HN: Options for handling state at the edge? (2022)](https://news.ycombinator.com/item?id=31342436)

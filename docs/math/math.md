@@ -362,3 +362,4 @@
 - [Understanding Mathematics: A Study Guide](https://www.math.utah.edu/~alfeld/math.html)
 - [ReX](https://github.com/ReTeX/ReX) - Typesetting Mathematics.
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+- [Jensen's inequality - Wikipedia](https://en.wikipedia.org/wiki/Jensen%27s_inequality) ([Tweet](https://twitter.com/posco/status/1524432592312827905))

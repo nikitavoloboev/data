@@ -221,6 +221,8 @@
 - [Omniconf](https://github.com/grammarly/omniconf) - Configuration library for Clojure that favors explicitness.
 - [Confair](https://github.com/magnars/confair) - Configuration library for Clojure.
 - [json-schema](https://github.com/luposlip/json-schema) - Clojure JSON Schema Validator & Generator.
+- [stringer](https://github.com/kumarshantanu/stringer) - Fast string operations for Clojure.
+- [structural](https://github.com/joinr/structural) - Destructuring plus type hinting for more performant clojure.
 
 ## Links
 

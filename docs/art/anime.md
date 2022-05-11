@@ -37,3 +37,4 @@
 - [Animechan](https://github.com/rocktimsaikia/anime-chan) - Free rest API for anime quotes.
 - [Tanoshi](https://faldez.github.io/tanoshi/) - Self hosted web manga reader. ([Code](https://github.com/faldez/tanoshi))
 - [Miru](https://github.com/ThaUnknown/miru) - Stream anime torrents, real-time with no waiting for downloads.
+- [The Anime Index](https://piracy.moe/) ([Index Code](https://github.com/ranimepiracy/index))

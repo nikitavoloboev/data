@@ -2,6 +2,10 @@
 
 [XState](../tools/xstate.md) is great.
 
+## Notes
+
+- [Most apps: Enable all user actions by default. Bugs will come from the things you didn't think about. State machines: Disable all user actions by default. Bugs come from happy paths you forgot about.](https://twitter.com/mpocock1/status/1524085641390313474)
+
 ## Links
 
 - [State Machine In Real Life](https://www.solipsys.co.uk/new/StateMachineInRealLife.html?te02lo) ([Lobsters](https://lobste.rs/s/3exvcc/state_machine_real_life)) ([HN](https://news.ycombinator.com/item?id=23050231))

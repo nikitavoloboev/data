@@ -4,6 +4,8 @@ title: Firebase
 
 # [Firebase](https://firebase.google.com/)
 
+I like the real time aspect of Firebase but not sure how well it can scale for more complex use cases. [Some say it's not that great](https://twitter.com/kieranmch/status/1524334764223836161).
+
 ## Notes
 
 - [Firebase can sometimes not sync data properly.](https://twitter.com/maccaw/status/1466506830977327105)

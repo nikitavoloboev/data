@@ -417,3 +417,4 @@ Awesome List
 - [GitHub Clean Branches](https://github.com/davidraviv/gh-clean-branches) - Safely deletes local branches with no upstream and no un-pushed commits.
 - [Eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [snare](https://github.com/softdevteam/snare) - GitHub webhooks daemon.
+- [Know your stargazers](https://github.com/nvh95/know-your-stargazers) - Know more about who starred your repository.

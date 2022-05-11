@@ -52,3 +52,5 @@ title: Bazel
 - [Awesome Bazel](https://github.com/jin/awesome-bazel)
 - [bazel-diff](https://github.com/Tinder/bazel-diff) - Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building.
 - [Target Determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
+- [rules_multirun](https://github.com/keith/rules_multirun) - Bazel rules for running multiple commands in parallel in a single bazel invocation.
+- [Example repository for how to setup a bazel build that uses rust on iOS and Android](https://github.com/keith/bazel-rust-mobile-demo)

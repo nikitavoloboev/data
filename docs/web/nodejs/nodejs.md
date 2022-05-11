@@ -384,3 +384,6 @@ title: Node.js
 - [busboy](https://github.com/mscdex/busboy) - Streaming parser for HTML form data for node.js.
 - [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/) ([Code](https://github.com/PacktPublishing/Node.js-Design-Patterns-Third-Edition))
 - [Node.js Diagnostics Working Group](https://github.com/nodejs/diagnostics)
+- [cjs-loader](https://github.com/esbuild-kit/cjs-loader) - Node.js loader for compiling ESM & TypeScript modules to CommonJS.
+- [esm-loader](https://github.com/esbuild-kit/esm-loader) - Node.js loader for compiling TypeScript modules to ESM.
+- [tsx](https://github.com/esbuild-kit/tsx) - Node.js runtime enhanced with esbuild for loading TypeScript & ESM.

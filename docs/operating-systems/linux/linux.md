@@ -166,7 +166,7 @@ title: Linux
 - [Why I Use Suckless Tools (2020)](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05) ([Lobsters](https://lobste.rs/s/kpuj8p/why_i_use_suckless_tools)) ([HN](https://news.ycombinator.com/item?id=23438510))
 - [RTLinux](https://wiki.linuxfoundation.org/realtime/start) - Hard realtime real-time operating system microkernel that runs the entire Linux operating system as a fully preemptive process.
 - [Running Linux on my Macbook (2020)](https://djhworld.github.io/post/2020/06/07/running-linux-on-my-macbook/) ([HN](https://news.ycombinator.com/item?id=23453586))
-- [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) ([Code](https://github.com/makelinux/linux_kernel_map/blob/master/srcxray.py)) ([HN](https://news.ycombinator.com/item?id=23452721))
+- [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) ([Code](https://github.com/makelinux/linux_kernel_map/blob/master/srcxray.py)) ([HN](https://news.ycombinator.com/item?id=23452721)) ([Code](https://github.com/makelinux/linux_kernel_map))
 - [Wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor.
 - [Waysmoke](https://github.com/myfreeweb/waysmoke) - Upcoming desktop shell, built primarily for the Wayfire compositor.
 - [Weylus](https://github.com/H-M-H/Weylus) - Turns your tablet or smart phone into a graphic tablet/touch screen for your computer. ([HN](https://news.ycombinator.com/item?id=23443430))
@@ -532,3 +532,4 @@ the execution time on all cores of a multi-core processor.
 - [Linux Vendor Firmware Service (LVFS)](https://lvfs.readthedocs.io/en/latest/intro.html)
 - [deai](https://github.com/yshui/deai) - One-stop automation system for Linux.
 - [Alpine GNU C library (glibc) Docker image](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc)
+- [LDT](https://github.com/makelinux/ldt) - Linux Driver Template.

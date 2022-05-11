@@ -250,3 +250,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Denoflow](https://github.com/denoflow/denoflow) - Configuration as Code, use YAML to write automated workflows that run on Deno, with any Deno modules, Typescript/JavaScript codes.
 - [Deno Shield](https://shield.deno.dev/) - Badge service for Deno modules. ([Code](https://github.com/ydcjeff/shield.deno.dev))
 - [Deno.js in Production. Key Takeaways (2022)](https://medium.com/@sdesalas/deno-js-in-production-main-takeaways-247a2fd2d198) ([HN](https://news.ycombinator.com/item?id=31326123))
+- [Ptera](https://github.com/Tak-Iwamoto/ptera) - DateTime library for Deno.

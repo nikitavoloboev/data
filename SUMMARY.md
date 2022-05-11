@@ -540,6 +540,7 @@
   - [File sharing](docs/networking/file-sharing.md)
   - [RabbitMQ](docs/networking/rabbitmq.md)
   - [ActivityPub](docs/networking/activitypub.md)
+  - [Tailscale](docs/networking/tailscale.md)
   - [Authentication](docs/networking/authentication.md)
   - [Mesh networking](docs/networking/mesh-networking.md)
   - [Wi-Fi](docs/networking/wifi.md)

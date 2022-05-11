@@ -134,3 +134,4 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [Off Belief Learning (2022)](https://ai.facebook.com/blog/teaching-ai-to-be-more-collaborative-with-humans-without-learning-directly-from-them/)
 - [The Future of Artificial Intelligence with Sam Harris and Eric Schmidt (2022)](https://overcast.fm/+KhqGdr4kI)
 - [On the Measure of Intelligence (2019)](https://arxiv.org/abs/1911.01547) ([Tweet](https://twitter.com/alexkowsik/status/1518602848421961730))
+- [NumGLUE](https://github.com/allenai/numglue) - Suite of Fundamental yet Challenging Mathematical Reasoning Tasks.

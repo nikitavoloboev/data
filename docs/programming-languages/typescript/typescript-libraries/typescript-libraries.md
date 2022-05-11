@@ -506,6 +506,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [YFS](https://github.com/motifland/yfs) - Synchronize text files between the browser and the file system using the File System Access API and Yjs.
 - [spring-easing](https://github.com/okikio/spring-easing) - Quick and easy spring animation.
 - [copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
+- [Optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno.
+- [Turbo Query](https://github.com/StudioLambda/TurboQuery) - Lightweight asynchronous data management.
 
 ## Links
 
@@ -574,3 +576,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [pkgroll](https://github.com/privatenumber/pkgroll) - Zero-config JS bundler for ESM, CommonJS, and .d.ts outputs.
 - [tsukuru](https://github.com/d-fischer/tsukuru) - Build a TypeScript package that's compatible with both CommonJS and ES Modules.
 - [changelogd](https://github.com/harlan-zw/changelogd) - Aggressively find a packages changelog (or releases) between versions.
+- [module-extractor](https://github.com/aleclarson/module-extractor) - Extract a JS/TS module and its dependencies into a new package.

@@ -110,3 +110,4 @@
 - [Lola](https://github.com/keith-packard/lola) - LL parser table generator.
 - [Parsing / Recursive Descent Parser (2022)](https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser) ([HN](https://news.ycombinator.com/item?id=31311218)) ([Lobsters](https://lobste.rs/s/rb3zjt/parsing_recursive_descent_parser))
 - [Parsing expressions by precedence climbing (2012)](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing) ([HN](https://news.ycombinator.com/item?id=31327328))
+- [From recursive descent to LR parsing (2021)](https://www.abubalay.com/blog/2021/12/31/lr-control-flow)

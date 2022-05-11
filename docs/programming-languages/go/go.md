@@ -773,3 +773,4 @@ if err != nil {
 - [Experience Report: 6 months of Go (2022)](https://typesanitizer.com/blog/go-experience-report.html) ([Reddit](https://www.reddit.com/r/golang/comments/uff59d/experience_report_6_months_of_go/)) ([HN](https://news.ycombinator.com/item?id=31217032))
 - [A faster lexer in Go (2022)](https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/) ([HN](https://news.ycombinator.com/item?id=31270142))
 - [Implementing a Merkle tree for an Immutable Verifiable Log (in Go)](https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/) ([HN](https://news.ycombinator.com/item?id=31287254))
+- [goplay: Embed Go Playground on your Website (2022)](https://ggicci.me/posts/goplay-embed-go-playground-on-your-website/) ([Code](https://github.com/ggicci/goplay))

@@ -162,3 +162,4 @@ title: Quantum computing
 - [Bloqade](https://github.com/QuEraComputing/Bloqade.jl) - Julia package for the quantum computation and quantum simulation based on the neutral-atom architecture.
 - [qcircuit](https://github.com/CQuIC/qcircuit) - Quantum circuit drawing application.
 - [MindQuantum](https://github.com/mindspore-ai/mindquantum) - Quantum machine learning library that can be used to build and train different quantum neural networks.
+- [High-performance simulator for executing QIR on GPU and CPU backends](https://github.com/qir-alliance/nwqsim)

@@ -102,3 +102,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [What does the world look like in a decade if you're wildly successful in your mission?](https://twitter.com/packyM/status/1506990727548575746)
 - [Ask HN: Software with biggest potential for positive impact in 5 years? (2022)](https://news.ycombinator.com/item?id=30829003)
 - [Elon Musk: A future worth getting excited about (2022)](https://www.youtube.com/watch?v=YRvf00NooN8)
+- [The Forgotten Stage of Human Progress (2022)](https://www.theatlantic.com/newsletters/archive/2022/05/human-progress-invention-eureka-myth/629811/) ([Tweet](https://twitter.com/DKThomp/status/1524381152827654144))

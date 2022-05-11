@@ -1127,6 +1127,8 @@
 - [Swift URL Routing](https://github.com/pointfreeco/swift-url-routing) - Bidirectional router with more type safety and less fuss.
 - [FaviconFinder](https://github.com/will-lumley/FaviconFinder) - Small swift library for iOS & macOS to detect favicons used by a website.
 - [ComposableOpenURL](https://github.com/Shimmur/composable-open-url) - State-driven URL opening for The Composable Architecture.
+- [CertificateSigningRequest](https://github.com/cbaker6/CertificateSigningRequest) - Generate a certificate signing request (CSR) programmatically on iOS/macOS/watchOS/tvOS devices.
+- [HypervisorKit](https://github.com/spevans/hypervisor-kit) - Swift library providing an interface for writing X86 hypervisors on macOS (Hypervisor.framework) and Linux (KVM).
 
 ## Other (not lib)
 

@@ -224,6 +224,7 @@ title: GitHub actions
 - [Issue Labeler](https://github.com/github/issue-labeler) - Label issues based on the body content of the issue.
 - [Algolia Crawler Github Action](https://github.com/algolia/algoliasearch-crawler-github-actions) - Automatically index your website to Algolia when deploying your website.
 - [Dependabot Auto Merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range.
+- [Create JSON](https://github.com/jsdaniell/create-json) - Create a .json file to use on other steps of the workflow.
 
 ## Go
 
@@ -263,6 +264,7 @@ title: GitHub actions
 - [PyPI publish](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI.
 - [Install Poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry.
 - [maturin-action](https://github.com/messense/maturin-action) - GitHub Action to install and run a custom maturin command.
+- [pyright-action](https://github.com/jakebailey/pyright-action) - GitHub action for pyright.
 
 ## JS
 

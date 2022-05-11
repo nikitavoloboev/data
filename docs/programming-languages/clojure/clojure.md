@@ -227,3 +227,4 @@ title: Clojure
 - [ClojureC](https://github.com/schani/clojurec) - Clojure implementation on top of C.
 - [Docker Clojure](https://github.com/Quantisan/docker-clojure) - Official Docker image for Clojure.
 - [Fast Embeddable Clojure in C](https://github.com/Zelex/jo_lisp)
+- [Refactor nREPL](https://github.com/clojure-emacs/refactor-nrepl) - nREPL middleware to support refactorings in an editor agnostic way.

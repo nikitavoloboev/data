@@ -37,3 +37,4 @@ Because that's what life is. Trying to peek under the covers of this reality onl
 - [Human brain compresses working memories into low-res ‘summaries’ (2022)](https://directorsblog.nih.gov/2022/04/12/human-brain-compresses-working-memories-into-low-res-summaries/) ([HN](https://news.ycombinator.com/item?id=31002179))
 - [LineByLine: Memorize Anything](https://www.linebyline.app/) ([HN](https://news.ycombinator.com/item?id=31178021))
 - [A single memory is stored across many connected brain regions (2022)](https://news.mit.edu/2022/single-memory-stored-across-many-connected-brain-regions-0502) ([HN](https://news.ycombinator.com/item?id=31247407))
+- [Ask HN: Is it possible to train and improve your memory and recall? (2022)](https://news.ycombinator.com/item?id=31342766)

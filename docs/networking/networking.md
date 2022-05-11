@@ -478,3 +478,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [tinysnitch](https://github.com/nathants/tinysnitch) - Interactive firewall for inbound and outbound connections.
 - [Linux Networking Scripts/Commands (2022)](https://haydenjames.io/linux-networking-commands-scripts/)
 - [The Two Generals Problem (2022)](https://haydenjames.io/the-two-generals-problem/) ([HN](https://news.ycombinator.com/item?id=31309960))
+- [LibreSSL](https://github.com/libressl-portable/portable) - Fork of OpenSSL developed by the OpenBSD project.

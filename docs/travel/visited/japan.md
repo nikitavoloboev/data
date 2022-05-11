@@ -74,3 +74,6 @@
 - [Вторая Мировая война с точки зрения Японии. Почему Япония проиграла?](https://www.youtube.com/watch?v=eWrstRfalnw)
 - [Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/) ([HN](https://news.ycombinator.com/item?id=31152365))
 - [Memento](https://github.com/ripose-jp/Memento) - mpv-based video player for studying Japanese.
+- [Japanese](https://github.com/gojp/japanese) - Go package for Japanese grammar.
+- [kana](https://github.com/gojp/kana) - Go library for converting hiragana to romaji, katakana to romaji, romaji to hiragana, and romaji to katakana.
+- [Nihongo.io](https://nihongo.io/) - Open source Japanese Dictionary written in Go. ([Code](https://github.com/gojp/nihongo))

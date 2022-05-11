@@ -109,3 +109,4 @@
 - [The Evolution Of Desire: Strategies of Human Mating by David Buss](https://www.goodreads.com/book/show/27491.The_Evolution_Of_Desire)
 - [How your phone documents your abortion experience](https://twitter.com/melissagira/status/1522308798718828544)
 - [Andrew Huberman explains sex to Lex Fridman](https://www.youtube.com/watch?v=hC_AnkSDbTI)
+- [Giving girls orgasm with just PIV](https://www.reddit.com/r/sex/comments/uml5kz/giving_her_an_orgasm_just_by_using_the_penis_and/)

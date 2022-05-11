@@ -863,6 +863,7 @@
 - [lbst](https://github.com/amirouche/lbst) - Immutable Log-Balanced Search Tree.
 - [parsec.py](https://github.com/sighingnow/parsec.py) - Universal Python parser combinator library inspired by Parsec library of Haskell.
 - [reparsec](https://github.com/ethframe/reparsec) - Small parsec-like parser combinators library with semi-automatic error recovery.
+- [pydiagrams](https://github.com/danoneata/pydiagrams) - Declarative drawing API in Python.
 
 ## Notes
 

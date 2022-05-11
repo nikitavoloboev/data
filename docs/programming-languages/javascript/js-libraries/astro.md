@@ -24,3 +24,4 @@ title: Astro
 - [Astro Starter Kit: Minimal](https://github.com/thepassle/astro-service-worker)
 - [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework.
 - [Astro.build Web Code](https://github.com/withastro/astro.build)
+- [Astro on Cloudflare Workers (2022)](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)

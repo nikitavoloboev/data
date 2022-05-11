@@ -178,7 +178,7 @@ title: React Native
 - [React Native Gesture Handler](https://github.com/software-mansion/react-native-gesture-handler) - Native-driven gesture management APIs for building best possible touch-based experiences in React Native. ([Docs](https://docs.swmansion.com/react-native-gesture-handler/)) ([2.0 release](https://blog.swmansion.com/introducing-gesture-handler-2-0-50515f1c4afc))
 - [Ant Design Mobile RN](https://github.com/ant-design/ant-design-mobile-rn) - Configurable Mobile UI specification and React-based implementation. ([Docs](https://rn.mobile.ant.design/docs/react/introduce))
 - [Implementing RTK Query in a React Native App (2021)](https://bionicjulia.com/blog/implementing-rtk-query-in-react-native-app)
-- [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - Comprehensive, low level abstraction for the Animated library API.
+- [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated) - Comprehensive, low level abstraction for the Animated library API. ([3.0 release](https://blog.swmansion.com/announcing-reanimated-3-16167428c5f7))
 - [Primer React Native SDK](https://github.com/primer-io/primer-sdk-react-native)
 - [Build a News App with React Native, GraphQL and TypeScript (2021)](https://egghead.io/courses/build-a-news-app-with-react-native-graphql-and-typescript-08814691)
 - [Sticky Item](https://github.com/gorhom/react-native-sticky-item) - Interactive sticky item inspired by Facebook Stories.
@@ -260,3 +260,4 @@ title: React Native
 - [React Native Size Matters](https://github.com/nirsky/react-native-size-matters) - Lightweight, zero-dependencies, React-Native utility belt for scaling the size of your apps UI across different sized devices.
 - [Hermes Profile Transformer](https://github.com/react-native-community/hermes-profile-transformer) - TypeScript tool for converting Hermes Sampling Profiler output to Chrome Dev Tools format.
 - [Babylon React Native](https://github.com/BabylonJS/BabylonReactNative) - Build React Native applications with the power of Babylon Native.
+- [React Native JSI Base Coder](https://github.com/jeremybarbet/react-native-jsi-base-coder) - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.

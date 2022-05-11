@@ -203,7 +203,7 @@
 - [Crochet](https://github.com/raphlinus/crochet) - Explorations in reactive UI patterns.
 - [KAS GUI](https://github.com/kas-gui/kas) - ToolKit Abstraction System. General-purpose GUI toolkit in Rust.
 - [tiny-skia](https://github.com/RazrFalcon/tiny-skia) - Tiny Skia subset ported to Rust.
-- [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
+- [Stretch](https://github.com/DioxusLabs/stretch) - High performance Flexbox implementation written in rust.
 - [RAUI](https://github.com/PsichiX/raui) - Rust implementation of Renderer Agnostic User Interface.
 - [Spline](https://github.com/linebender/spline) - Implements a new spline designed and optimized for interactive design of 2D curves.
 - [Terra](https://github.com/fintelia/terra) - Large scale terrain rendering library written in Rust.
@@ -379,6 +379,7 @@
 ## GraphQL
 
 - [Generate Rust code from GraphQL schema](https://github.com/yumemi-inc/codegen-for-async-graphql)
+- [rusty-gql](https://github.com/Tak-Iwamoto/rusty-gql) - Schema First GraphQL library for Rust.
 
 ## Test
 
@@ -700,6 +701,7 @@
 - [Impl-tools](https://github.com/kas-gui/impl-tools) - Set of helper macros.
 - [inline-proc](https://github.com/SabrinaJewson/inline-proc) - Inline procedural macros for Rust.
 - [Pomelo](https://github.com/rodrigorc/pomelo) - Procedural macro to create Lemon-like parsers.
+- [proc-easy](https://github.com/zakarumych/proc-easy) - Macros to make writing proc-macro crates easy.
 
 ## Math
 
@@ -1860,6 +1862,7 @@
 - [futures-async-stream](https://github.com/taiki-e/futures-async-stream) - Async stream for Rust and the futures crate.
 - [ambisonic](https://github.com/mbillingr/ambisonic) - Compose and play 3D audio in pure Rust.
 - [async-executor](https://github.com/smol-rs/async-executor)
+- [Driveyard](https://github.com/driveyard/driveyard) - Tools for data-oriented programming.
 
 ## Cargo Plugins
 
@@ -2066,3 +2069,5 @@
 - [The Better Alternative to Lifetime GATs (2022)](https://sabrinajewson.org/blog/the-better-alternative-to-lifetime-gats)
 - [Async destructors, async genericity and completion futures (2022)](https://sabrinajewson.org/blog/async-drop)
 - [Rust Nix template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support.
+- [How does Rust Python ffi work? (2022)](https://www.reddit.com/r/rust/comments/umr7oo/how_does_rust_python_ffi_work/)
+- [The problem of safe FFI bindings in Rust (2020)](https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust)

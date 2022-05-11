@@ -754,3 +754,4 @@
 - [Neural 3D Scene Reconstruction with the Manhattan-world Assumption (2022)](https://zju3dv.github.io/manhattan_sdf/) ([Code](https://github.com/zju3dv/manhattan_sdf))
 - [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision (2022)](https://arxiv.org/abs/2203.15625) ([Code](https://github.com/Garfield-kh/PoseTriplet))
 - [What do the Vision Transformers learn? How do they encode anything useful for image recognition? (2022)](https://twitter.com/RisingSayak/status/1515918406171914240)
+- [Integrative Few-Shot Learning for Classification and Segmentation (2022)](https://arxiv.org/abs/2203.15712) ([Code](https://github.com/dahyun-kang/ifsl))

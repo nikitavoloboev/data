@@ -4,6 +4,11 @@ title: EdgeDB
 
 # [EdgeDB](https://www.edgedb.com/)
 
+## OSS apps
+
+- [Remix+EdgeDB+Tailwind+Fly.io](https://github.com/jkcorrea/remix-chop-suey-stack)
+- [EdgeDB Remix starter](https://github.com/colinhacks/edgedb-remix-test-2)
+
 ## Links
 
 - [EdgeDB 1.0 (2022)](https://www.edgedb.com/blog/edgedb-1-0) ([HN](https://news.ycombinator.com/item?id=30290225))

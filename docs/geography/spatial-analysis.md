@@ -198,3 +198,4 @@ title: Spatial analysis
 - [Placemark](https://www.placemark.io/) - Create, edit, and convert the data that powers maps, in real-time with your team.
 - [Using LEOs and GEOs (2022)](https://www.potaroo.net/ispcol/2022-04/leogeo.html) ([HN](https://news.ycombinator.com/item?id=31190247))
 - [Local Tile Server for Geospatial Rasters](https://github.com/banesullivan/localtileserver) - Image tile server for viewing geospatial rasters with ipyleaflet and folium locally in Jupyter or remotely with CesiumJS in Flask applications.
+- [OpenMapTiles Tools](https://github.com/openmaptiles/openmaptiles-tools) - Toolbox for generating map vector tiles.
