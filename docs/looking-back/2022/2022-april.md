@@ -1,6 +1,6 @@
 # 2022 April
 
-Moved this wiki from GitBook to [Docusaurus](../..tools/docusaurus.md). Made entry to wiki more detailed and pleasant to read. It's cool to see how investing 4+ years into updating one single place for all my knowledge/references starts paying off more and more with time.
+Moved this wiki from GitBook to [Docusaurus](../../tools/docusaurus.md). Made entry to wiki more detailed and pleasant to read. It's cool to see how investing 4+ years into updating one single place for all my knowledge/references starts paying off more and more with time.
 
 Other than above, nothing too exciting happened. Working on Droppa's product. Both excited and sad that this and next month will be the last we'll see of the [Breaking Bad](https://trakt.tv/shows/breaking-bad) / [Better Call Saul](https://trakt.tv/shows/better-call-saul) story.
 
