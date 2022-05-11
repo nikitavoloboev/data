@@ -182,3 +182,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [A mental model for combating climate change (2022)](https://nanransohoff.com/A-mental-model-for-combating-climate-change-846be1769d374fa1b5b855407c93da66)
 - [Should cut emissions](https://twitter.com/Peters_Glen/status/1521384059745800193)
 - [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data)
+- [Soil: The secret world beneath our feet is mind-blowing (2022)](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future) ([HN](https://news.ycombinator.com/item?id=31301928))

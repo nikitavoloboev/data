@@ -155,7 +155,7 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Many Small Queries Are Efficient in SQLite](https://www.sqlite.org/np1queryprob.html) ([HN](https://news.ycombinator.com/item?id=29902345))
 - [sqlite3vfshttp](https://github.com/psanford/sqlite3vfshttp) - Go sqlite VFS for querying databases over http(s).
 - [Containerize Go and SQLite with Docker (2022)](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0) ([HN](https://news.ycombinator.com/item?id=29972655))
-- [Store SQLite in Cloudflare Durable Objects (2022)](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects) ([HN](https://news.ycombinator.com/item?id=30072997))
+- [Store SQLite in Cloudflare Durable Objects (2022)](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects) ([HN](https://news.ycombinator.com/item?id=30072997)) ([Code](https://github.com/rkusa/do-sqlite))
 - [sqlite-vfs](https://github.com/rkusa/sqlite-vfs) - Build SQLite virtual file systems (VFS) by implementing a simple Rust trait.
 - [SQLite Visual Query Builder](https://sql.etienne.tech/) - Help you write SQLite queries with a visual interface. ([Code](https://github.com/etienne-dldc/sqlite-visual-query-builder))
 - [One process programming notes (with Go and SQLite) (2018)](https://crawshaw.io/blog/one-process-programming-notes)
