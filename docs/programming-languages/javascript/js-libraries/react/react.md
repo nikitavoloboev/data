@@ -45,6 +45,7 @@ title: React
 - [Real use case for server rendering portions of an app: you have a perf sensitive page and need to render something that requires a business logic library that pulls in a huge dependency graph. Server render solves that.](https://twitter.com/jordwalke/status/1343174656639954944)
 - [JSX has a syntax to support generics.](https://twitter.com/0xca0a/status/1386435628737335296)
 - [Make your React app feel faster: use the onMouseDown event handler instead of onClick. Only do it for non destructive things (like tabs).](https://twitter.com/auchenberg/status/1503491230876897282)
+- [React unfortunately doesn’t have runtime fast paths that the compiler can generate fast code for.](https://twitter.com/AdamRackis/status/1524763878034448392)
 
 ## Links
 

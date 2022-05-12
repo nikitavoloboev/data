@@ -28,3 +28,7 @@
 - [Валентин Стрыкало - Наше лето](https://www.youtube.com/watch?v=byKX7Juo8rg)
 - [Валентин Стрыкало - Наше лето 2](https://www.youtube.com/watch?v=lkr04pnud2U)
 - [SHEFITA - Karma Police [Radiohead Cover]](https://www.youtube.com/watch?v=t7Xt4ObtKas)
+
+## Links
+
+- [Your favorite song covers](https://twitter.com/eurydicelives/status/1524760262942748672)

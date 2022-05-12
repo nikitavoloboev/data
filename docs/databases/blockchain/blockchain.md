@@ -389,3 +389,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [You Don't Need a Fucking Blockchain (2022)](https://cmdli.dev/blog/blockchain/) ([HN](https://news.ycombinator.com/item?id=31195445))
 - [Aleph.im](https://aleph.im/#/) - Cloud Computing for DeFi & Web3 Simplified. ([JS API](https://github.com/aleph-im/aleph-js))
 - [Interesting blockchains list](https://twitter.com/dabit3/status/1434279108872216577)
+- [Digital artists' post-bubble hopes for NFTs don't need a blockchain (2022)](https://blog.mollywhite.net/digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain/)

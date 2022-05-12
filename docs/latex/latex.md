@@ -136,3 +136,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Template for LaTeX-based Network Diagrams](https://github.com/mbugert/latex-network-diagram-template)
 - [LaTeX2e Kernel Code](https://github.com/latex3/latex2e)
 - [Nix configuration for building LaTeX documents](https://github.com/dnadales/nix-latex-template)
+- [Alternatives to TikZ for making diagrams](https://twitter.com/heidiann360/status/1524667888111656960)

@@ -205,6 +205,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Arash](https://blog.arash.codes/) ([Code](https://github.com/arashnrim/website))
 - [Linear README](https://linear.app/readme)
 - [Shaking off the Rust](https://shaking-off-the-rust-blog.vercel.app/) ([Code](https://github.com/josht-jpg/shaking-off-the-rust-blog))
+- [Molly White](https://blog.mollywhite.net/)
 
 ## Products
 

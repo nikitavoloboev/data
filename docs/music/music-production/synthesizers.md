@@ -81,3 +81,4 @@ title: Synthesizers
 - [Mini-Synth](https://github.com/alelouis/mini-synth) - Mini-synthesizer with modular philosophy built from scratch in Python.
 - [What's an "unpopular opinion" you have about a synth, synth manufacturer, or just the world of synths overall? (2022)](https://www.reddit.com/r/synthesizers/comments/umkmvb/whats_an_unpopular_opinion_you_have_about_a_synth/)
 - [Synthesizers Reddit Wiki](https://www.reddit.com/r/synthesizers/wiki/index)
+- [OP-1 field](https://news.ycombinator.com/item?id=31350896)

@@ -770,6 +770,7 @@
   - [Memcached](docs/databases/memcached.md)
   - [Kdb+](docs/databases/kdb.md)
   - [Neo4j](docs/databases/neo4j.md)
+  - [DuckDB](docs/databases/duckdb.md)
   - [Dgraph](docs/databases/dgraph.md)
   - [RocksDB](docs/databases/rocksdb.md)
   - [Cassandra](docs/databases/cassandra.md)
