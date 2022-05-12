@@ -360,3 +360,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [A Policy-Free System-Call Layer For The Hedron Microhypervisor](https://github.com/phip1611/diplomarbeit-impl) - Runtime system in Rust for a microkernel that enables unmodified Linux applications. ([Reddit](https://www.reddit.com/r/rust/comments/tyza70/ive_written_a_runtime_system_in_rust_for_a/))
 - [System paper reading notes](https://github.com/pentium3/sys_reading)
 - [sbctl](https://github.com/Foxboron/sbctl) - Secure Boot Manager.
+- [bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.

@@ -111,3 +111,4 @@
 - [Imagik](https://github.com/BeryJu/imagik) - Fast and lightweight file server.
 - [Azury](https://azury.dev/) - Share Files the Simple Way. ([GitHub](https://github.com/azurydev))
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
+- [File Uploader](https://upload.io/uploader) - JavaScript File Upload Widget. ([Code](https://github.com/upload-io/uploader))

@@ -46,3 +46,4 @@
 - [Black hole merger GW190521 may need many more black holes to explain it (2022)](https://www.syfy.com/syfy-wire/bad-astronomy-black-hole-merger-gw190521) ([Tweet](https://twitter.com/BadAstronomer/status/1503391937616879624))
 - [Visualizing Black Holes with General Relativistic Ray Tracing (2022)](https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/) ([HN](https://news.ycombinator.com/item?id=30678731))
 - [Black Holes Shown to Act Like Quantum Particles (2022)](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/) ([HN](https://news.ycombinator.com/item?id=30843723))
+- [Astronomers reveal first image of the black hole at the heart of our galaxy (2022)](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy) ([Tweet](https://twitter.com/porestar/status/1524784919767138307)) ([HN](https://news.ycombinator.com/item?id=31353677))

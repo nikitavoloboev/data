@@ -225,6 +225,7 @@ title: GitHub actions
 - [Algolia Crawler Github Action](https://github.com/algolia/algoliasearch-crawler-github-actions) - Automatically index your website to Algolia when deploying your website.
 - [Dependabot Auto Merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range.
 - [Create JSON](https://github.com/jsdaniell/create-json) - Create a .json file to use on other steps of the workflow.
+- [dependency-review-action](https://github.com/actions/dependency-review-action) - GitHub Action for detecting vulnerable dependencies in your PRs.
 
 ## Go
 

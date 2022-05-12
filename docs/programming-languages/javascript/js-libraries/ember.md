@@ -11,3 +11,4 @@ title: Ember.js
 - [Awesome Ember.js](https://github.com/ember-community-russia/awesome-ember)
 - [Ember RFCs](https://emberjs.github.io/rfcs/)
 - [Introducing @use (2020)](https://www.pzuraq.com/blog/introducing-use)
+- [Glint](https://github.com/typed-ember/glint) - TypeScript-powered tooling for Glimmer templates.

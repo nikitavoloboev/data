@@ -575,6 +575,8 @@
 - [Embedded SD/MMC](https://github.com/rust-embedded-community/embedded-sdmmc-rs) - SD/MMC library with FAT16/FAT32 support, suitable for Embedded Rust systems.
 - [embedded-io](https://github.com/embassy-rs/embedded-io) - IO traits for embedded systems.
 - [Embedded-TLS](https://github.com/drogue-iot/embedded-tls) - Rust TLS 1.3 implementation for embedded devices.
+- [ESPMonitor](https://github.com/esp-rs/espmonitor) - Cargo tool for monitoring ESP32/ESP8266 execution.
+- [microbit](https://github.com/nrf-rs/microbit) - Rust crate for BBC micro:bit development.
 
 ## ML
 
@@ -2071,3 +2073,4 @@
 - [Rust Nix template](https://github.com/srid/rust-nix-template) - Rust project template with Nix (Flakes) and VSCode support.
 - [How does Rust Python ffi work? (2022)](https://www.reddit.com/r/rust/comments/umr7oo/how_does_rust_python_ffi_work/)
 - [The problem of safe FFI bindings in Rust (2020)](https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust)
+- [Rust CI with GitHub Actions](https://github.com/BamPeers/rust-ci-github-actions-workflow)

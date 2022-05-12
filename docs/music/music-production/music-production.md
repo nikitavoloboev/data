@@ -367,3 +367,4 @@
 - [Learning Music Audio Representations Via Weak Language Supervision (2022)](https://ieeexplore.ieee.org/document/9746996) ([Code](https://github.com/ilaria-manco/mulap))
 - [Audeye](https://github.com/maxmarsc/audeye) - CLI tool to visualize the content of an audio file.
 - [VexFlow](https://www.vexflow.com/) - JavaScript library for rendering music notation and guitar tablature. ([Code](https://github.com/0xfe/vexflow))
+- [LedFx](https://www.ledfx.app/) - LED Music Visualizer. ([Code](https://github.com/LedFx/ledfx_rewrite))

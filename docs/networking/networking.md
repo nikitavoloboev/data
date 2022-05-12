@@ -479,3 +479,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Linux Networking Scripts/Commands (2022)](https://haydenjames.io/linux-networking-commands-scripts/)
 - [The Two Generals Problem (2022)](https://haydenjames.io/the-two-generals-problem/) ([HN](https://news.ycombinator.com/item?id=31309960))
 - [LibreSSL](https://github.com/libressl-portable/portable) - Fork of OpenSSL developed by the OpenBSD project.
+- [Magic NAT: everywhere, unbounded, and lower cost (2022)](https://blog.cloudflare.com/magic-nat/)

@@ -6,6 +6,8 @@ title: Web Components
 
 [Lit](https://lit.dev/), [Catalyst](https://github.github.io/catalyst/) (used by GitHub) & [Shoelace](https://shoelace.style/) are interesting. [Shadow](https://github.com/Zaubrik/shadow) seems like a nice template for making new web components.
 
+[Web Components the Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) is a nice guide.
+
 ## Notes
 
 - [Interoperability is best delivered via web components. Platform features are more resilient too. Web components will outlast any framework.](https://twitter.com/zachleat/status/1468961751748136972)

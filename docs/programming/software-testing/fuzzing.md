@@ -84,3 +84,4 @@ title: Fuzzing
 - [sfuzz](https://github.com/seal9055/sfuzz) - JIT compiler / Fuzzer.
 - [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis (2022)](https://arxiv.org/abs/2203.12064) ([Code](https://github.com/Dongdongshe/K-Scheduler))
 - [Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing)
+- [Why fuzzing with emulators is amazing](https://github.com/gamozolabs/fuzz_with_emus)

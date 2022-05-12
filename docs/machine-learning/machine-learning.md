@@ -804,3 +804,5 @@
 - [Google AI Blog: Alpa: Automated Model-Parallel Deep Learning (2022)](https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html)
 - [Compositional Attention: Disentangling Search and Retrieval (2021)](https://arxiv.org/abs/2110.09419) ([Code](https://github.com/sarthmit/Compositional-Attention)) ([Code](https://github.com/lucidrains/compositional-attention-pytorch))
 - [Awesome Active Learning](https://github.com/baifanxxx/awesome-active-learning)
+- [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022)](https://arxiv.org/abs/2205.05638) ([Code](https://github.com/r-three/t-few))
+- [Introduction to Diffusion Models for Machine Learning (2022)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/) ([HN](https://news.ycombinator.com/item?id=31355812))

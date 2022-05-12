@@ -508,6 +508,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [copycat](https://github.com/snaplet/copycat) - Generate deterministic fake values: The same input will always generate the same fake-output.
 - [Optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno.
 - [Turbo Query](https://github.com/StudioLambda/TurboQuery) - Lightweight asynchronous data management.
+- [hi18n](https://github.com/wantedly/hi18n) - Message internationalization meets immutability and type-safety.
 
 ## Links
 

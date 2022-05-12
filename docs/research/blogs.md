@@ -141,6 +141,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Russell Johnston](https://www.abubalay.com/blog)
 - [Markus Ast](https://ma.rkusa.st/)
 - [Molly White](https://blog.mollywhite.net/)
+- [Emil Kowalski](https://emilkowal.ski/)
 
 ## Notes
 

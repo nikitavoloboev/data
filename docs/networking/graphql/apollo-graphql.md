@@ -4,6 +4,10 @@ title: Apollo GraphQL
 
 # [Apollo GraphQL](https://www.apollographql.com/)
 
+## OSS Apollo apps
+
+- [Tiny Counter](https://github.com/paulnta/tinycounter) - Collaborative counter web app to keep track of multiple values.
+
 ## Links
 
 - [Apollo raises \$22 million to simplify app development (2019)](https://blog.apollographql.com/apollo-raises-22-million-to-simplify-app-development-ee30502c81b3) ([HN](https://news.ycombinator.com/item?id=20164531))
