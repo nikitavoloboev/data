@@ -1,6 +1,6 @@
 # Embedded systems
 
-[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) is useful book. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
+[Embedded Rust on Espressif](https://espressif-trainings.ferrous-systems.com/) & [Mastering Embedded Linux](https://www.thirtythreeforty.net/series/mastering-embedded-linux/) are useful reads. [TinyGo](https://github.com/tinygo-org/tinygo) is nice. [RTIC (Real-Time Interrupt-driven Concurrency)](https://github.com/rtic-rs/cortex-m-rtic) is fascinating.
 
 ## Interesting chips
 
@@ -178,3 +178,6 @@
 - [Accurate Micro- and Nanosecond Delay in modm (2021)](https://blog.salkinium.com/modm-delay/)
 - [Where are the low level system engineers? (2022)](https://twitter.com/kelseyhightower/status/1521611408885960705) ([HN](https://news.ycombinator.com/item?id=31259905))
 - [Portable Image Format (PIF)](https://github.com/gfcwfzkm/PIF-Image-Format) - Basic, bitmap-like image format with the focus on ease of use (implementation) and small size for embedded applications.
+- [Mastering Embedded Linux series](https://www.thirtythreeforty.net/series/mastering-embedded-linux/)
+- [My Business Card Runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) ([HN](https://news.ycombinator.com/item?id=21871026)) ([Code](https://github.com/thirtythreeforty/businesscard-linux))
+- [Genimage](https://github.com/pengutronix/genimage) - Tool to generate multiple file system and flash images from a tree.

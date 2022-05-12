@@ -142,6 +142,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Markus Ast](https://ma.rkusa.st/)
 - [Molly White](https://blog.mollywhite.net/)
 - [Emil Kowalski](https://emilkowal.ski/)
+- [George Hilliard](https://www.thirtythreeforty.net/)
 
 ## Notes
 
