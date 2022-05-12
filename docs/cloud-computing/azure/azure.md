@@ -35,3 +35,4 @@ title: Azure
 - [Awesome Azure Policy](https://github.com/globalbao/awesome-azure-policy)
 - [esbuild-azure-functions](https://github.com/beyerleinf/esbuild-azure-functions) - Builder for Azure Function powered by esbuild.
 - [Azure Pipelines Tasks](https://github.com/microsoft/azure-pipelines-tasks)
+- [Demo of using the Nutter for testing of Databricks notebooks in the CI/CD pipeline](https://github.com/alexott/databricks-nutter-repos-demo)

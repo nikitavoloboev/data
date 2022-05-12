@@ -6,7 +6,7 @@ title: Blockchain
 
 Blockchain is an [immutable linked list of hashes that uses some consensus system like proof of stake (or other methods) to decide which blocks (transactions or runnable code) are added next](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA).
 
-[Ethereum, Solana, Tezos & Avalanche are interesting blockchains](https://twitter.com/dabit3/status/1434279108872216577). In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
+[Solana](solana.md), [Tezos](tezos.md), [Monero](../../cryptocurrencies/monero.md) & [Avalanche](../../cryptocurrencies/avalanche.md) are interesting blockchains. In future they can let you [run web apps that run like protocols -- no company in the middle, just peer to peer networks](https://twitter.com/samecwilliams/status/1466460819508453383). In practice now, they are [mostly empty promises and lots of fraud](https://www.youtube.com/watch?v=YQ_xWvX1n9g).
 
 [You should not use a blockchain unless you critically need finality in a shared context with a lot of other financial applications like exchanges, stable coin providers. If you don't need that, don't use a blockchain.](https://youtu.be/35_rr8Vf-4k?t=27635)
 
@@ -388,3 +388,4 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Trampoline Framework](https://github.com/WilfredTA/trampoline) - Complete dapp development framework for Nervos Network.
 - [You Don't Need a Fucking Blockchain (2022)](https://cmdli.dev/blog/blockchain/) ([HN](https://news.ycombinator.com/item?id=31195445))
 - [Aleph.im](https://aleph.im/#/) - Cloud Computing for DeFi & Web3 Simplified. ([JS API](https://github.com/aleph-im/aleph-js))
+- [Interesting blockchains list](https://twitter.com/dabit3/status/1434279108872216577)

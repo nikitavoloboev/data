@@ -109,3 +109,4 @@ title: GPU
 - [GPU Performance API for AMD GPUs](https://github.com/GPUOpen-Tools/gpu_performance_api)
 - [A Driver on the GPU (2022)](https://www.basnieuwenhuizen.nl/a-driver-on-the-gpu/)
 - [wgpu-py](https://github.com/pygfx/wgpu-py) - Next generation GPU API for Python.
+- [NVIDIA Linux Open GPU Kernel Module Code](https://github.com/NVIDIA/open-gpu-kernel-modules) ([HN](https://news.ycombinator.com/item?id=31344981)) ([Article](https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/))

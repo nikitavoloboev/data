@@ -139,6 +139,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Cloudera Fast Forward Blog](https://blog.fastforwardlabs.com/)
 - [Victor Pontis](https://lu.ma/victor/posts)
 - [Russell Johnston](https://www.abubalay.com/blog)
+- [Markus Ast](https://ma.rkusa.st/)
 
 ## Notes
 

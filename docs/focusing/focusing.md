@@ -47,6 +47,7 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Humans have a few emotional needs in order to reach deep focus: 1. We need to not be distracted and we need to feel certainty that we will not be distracted. Before we are comfortable untaking the work to architect a giant mental castle, we need to feel confident that someone won't come around to kick it down. 2. At a more primitive, simian level, we need to feel that we're in a safe environment. It's hard to focus on code if you're worried that a tree is going to fall on you or a lion will drag you off into the jungle.](https://news.ycombinator.com/item?id=29028505)
 - [Energy management is so much more important than time management. what gives you energy, and what drains you? Make sure you have enough energy for the important things.](https://twitter.com/triketora/status/1489713975864528899)
 - [Once you have more than one crisis in your brain it is very very hard to focus on much of anything.](https://twitter.com/chriswilcox47/status/1496918870572945408)
+- [Managing personal motivation is the absolute hardest skill to acquire and maintain. I only know of two things that help: 1: Just start on ANYTHING every day related to your goal, and 2: Surround yourself with people doing things way cooler than yourself. Competition is good.](https://twitter.com/slimsag/status/1524418178587054080)
 
 ## Links
 

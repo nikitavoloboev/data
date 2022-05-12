@@ -4,7 +4,7 @@ title: Venture Capital
 
 # [Venture Capital](https://en.wikipedia.org/wiki/Venture_capital)
 
-Curious how [Sequoia VC](https://www.sequoiacap.com/our-companies/) is so successful.
+Curious how [Sequoia VC](https://www.sequoiacap.com/our-companies/) is so successful. [Hyper](https://hyper.com/) seems like an amazing accelerator.
 
 ## Notes
 

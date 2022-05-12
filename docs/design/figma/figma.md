@@ -89,3 +89,6 @@ title: Figma
 - [Animating mesh gradients in Figma](https://twitter.com/zander_supafast/status/1516000032591425538)
 - [Designing 3D lines in Figma](https://twitter.com/zander_supafast/status/1518538432901001216)
 - [Nice Figma guides](https://twitter.com/disco_lu/status/1518527499667451906)
+- [Everything New in Figma (2022)](https://joeyabanks.substack.com/p/baseline-7-everything-new-in-figma)
+- [Joey's Newsletter](https://joeyabanks.substack.com/)
+- [Config 2022 - YouTube](https://www.youtube.com/playlist?list=PLXDU_eVOJTx4EuiHlITE44wngcErxom6S) ([Reddit](https://www.reddit.com/r/userexperience/comments/unbznq/any_favorite_presentations_from_figmas_config/))

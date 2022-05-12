@@ -88,3 +88,4 @@ title: Google Cloud
 - [Configure Google production keys for Auth0](https://github.com/natbat/pillarpointstewards/issues/52) ([Tweet](https://twitter.com/simonw/status/1510642840149250055))
 - [Google API Extensions for Go](https://github.com/googleapis/gax-go)
 - [log](https://github.com/apsystole/log) - Go logging library for GCP App Engine, Cloud Run, Cloud Functions.
+- [gcsfs](https://github.com/fsspec/gcsfs) - Pythonic file-system interface for Google Cloud Storage.

@@ -363,3 +363,6 @@
 - [ReX](https://github.com/ReTeX/ReX) - Typesetting Mathematics.
 - [ProofWiki](https://proofwiki.org/wiki/Main_Page)
 - [Jensen's inequality - Wikipedia](https://en.wikipedia.org/wiki/Jensen%27s_inequality) ([Tweet](https://twitter.com/posco/status/1524432592312827905))
+- [Alexander Grothendieck: A Country Known Only by Name (2014)](https://inference-review.com/article/a-country-known-only-by-name)
+- [When We Cease to Understand the World (2021)](https://www.nyrb.com/products/when-we-cease-to-understand-the-world?variant=37890166784168)
+- [Alexander Grothendieck: The Mysterious Disappearance of a Revolutionary Mathematician (2022)](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)

@@ -174,4 +174,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
 - [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.
 - [Spacebook](https://spacebook.app/) - Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. ([Code](https://github.com/broeker/spacebook))
-- [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083))
+- [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083)) ([Tweet](https://twitter.com/wooorm/status/1524685332058456072))

@@ -252,3 +252,4 @@ title: HTTP
 - [go-curl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement.
 - [mod_swift](https://github.com/modswift/mod_swift) - Write Apache Modules in Swift. ([Web](http://mod-swift.org/))
 - [OpenWebhook](https://github.com/OpenWebhook/webhook-store) - Store and replay webhooks. ([Demo](https://demo.openwebhook.io/))
+- [A tale of a trailing dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)

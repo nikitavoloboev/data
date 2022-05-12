@@ -336,3 +336,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [Ask HN: Learn C++11 or Rust in 2022?](https://news.ycombinator.com/item?id=31232722)
 - [borrow-cpp](https://github.com/shuaimu/borrow-cpp) - Rust-style borrow checker for C++, with (partial) static check.
 - [Brief Descriptions of a Python to C++ Translator (2022)](https://www.oilshell.org/blog/2022/05/mycpp.html)
+- [C++ | Capture \*this in lambda expression: Timeline of change (2020)](https://www.nextptr.com/tutorial/ta1430524603/capture-this-in-lambda-expression-timeline-of-change)

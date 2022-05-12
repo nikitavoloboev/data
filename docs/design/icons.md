@@ -5,6 +5,7 @@
 ## Nice icons
 
 - [Readwise](https://twitter.com/Gavmn/status/1521531615465279488)
+- [macOS Icon Pack](https://www.krijnrijshouwer.com/icons)
 - [Nice macOS app icons](https://twitter.com/AdamWhitcroft/status/1513837519456116742)
 - [App Store Icon (macOS Big Sur)](https://dribbble.com/shots/12238938-The-App-Store-Icon-macOS-Big-Sur)
 - [Bondi Icons](https://bondi-icons.com/) - Icons for your Mac.

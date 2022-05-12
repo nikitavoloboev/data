@@ -305,6 +305,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Novels you think have great reread value (2022)](https://www.reddit.com/r/suggestmeabook/comments/u8l9fy/what_novels_do_you_think_have_really_great_reread/)
 - [Deep and Interesting Graphic Novels (2022)](https://www.reddit.com/r/suggestmeabook/comments/uga8k0/deep_and_interesting_graphic_novels/)
 - [Most interesting premise for book you've read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/uhoeg1/whats_the_most_interesting_premise_for_a_book/)
+- [Ask HN: What are some good inspirational and uplifting books? (2022)](https://news.ycombinator.com/item?id=31353995)
 
 ## Interesting Prose Books
 
@@ -537,3 +538,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [I sold 640 copies of my book in one year (2022)](https://nts.strzibny.name/one-year-of-sales/) ([HN](https://news.ycombinator.com/item?id=31153963))
 - [Petar's Virtual Bookshelf](https://petargyurov.com/bookshelf/) ([HN](https://news.ycombinator.com/item?id=31293727)) ([Code](https://github.com/petargyurov/virtual-bookshelf))
 - [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action) - Track your reading using GitHub Actions.
+- [New York Review Books](https://www.nyrb.com/)

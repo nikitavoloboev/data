@@ -949,6 +949,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 ## Pages
 
 - [Nice use of Inter font](https://the-brandidentity.com/feed/no-service-24-7s-campaign-electric-scooter-brand-unu-lets-product-talking/)
+- [Nice sign up page design](https://twitter.com/monicalent/status/1489984758142709775)
 
 ## Notes
 

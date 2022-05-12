@@ -123,3 +123,4 @@ title: Speech recognition
 - [Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction (2022)](https://arxiv.org/abs/2201.02184) ([Code](https://github.com/facebookresearch/av_hubert))
 - [Real Time Speech Enhancement in the Waveform Domain (2020)](https://arxiv.org/abs/2006.12847) ([Code](https://github.com/facebookresearch/denoiser))
 - [Vosk-Browser](https://github.com/ccoreilly/vosk-browser) - Opinionated speech recognition library for the browser using a WebAssembly build of Vosk.
+- [VocalSound: A Dataset for Improving Human Vocal Sounds Recognition](https://github.com/YuanGongND/vocalsound)

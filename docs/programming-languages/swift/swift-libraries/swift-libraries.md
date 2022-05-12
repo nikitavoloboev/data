@@ -566,6 +566,7 @@
 - [supabase-swift](https://github.com/supabase-community/supabase-swift) - Swift client for Supabase.
 - [Vapor provider for RediStack](https://github.com/vapor/redis)
 - [CloudKit + Codable](https://github.com/insidegui/CloudKitCodable)
+- [PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - PostgreSQL client library for Swift.
 
 ## Graphics
 

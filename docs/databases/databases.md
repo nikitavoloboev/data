@@ -604,3 +604,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Zero downtime migrations (2022)](https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html) ([HN](https://news.ycombinator.com/item?id=31269515))
 - [CaskDB](https://github.com/avinassh/py-caskdb) - Project to teach you building a key value store. ([HN](https://news.ycombinator.com/item?id=31304897))
 - [Database access optimization | Django Docs](https://docs.djangoproject.com/en/4.0/topics/db/optimization/)
+- [Getting started with database development (2022)](https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/)

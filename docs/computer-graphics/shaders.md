@@ -84,3 +84,4 @@ title: Shaders
 - [MiniShadertoy](http://xem.github.io/MiniShadertoy/) - Tiny webGL shader playground. ([Code](https://github.com/xem/MiniShadertoy))
 - [Rhea Grass](https://github.com/Ryan-Gee/RheaGrass) - Geometry-shader based grass for Unity's Universal Render Pipeline.
 - [Simple WebGL Fragment Shader Editor](http://editor.thebookofshaders.com/) ([Code](https://github.com/patriciogonzalezvivo/glslEditor))
+- [CrossShader](https://github.com/alaingalvan/CrossShader) - Tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
