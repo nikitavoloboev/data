@@ -324,7 +324,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-libp2p-webtransport](https://github.com/marten-seemann/go-libp2p-webtransport)
 - [g8](https://github.com/TwiN/g8) - Go library for protecting your HTTP handlers.
 - [gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go.
-- [Bud](https://github.com/livebud/bud) - Full stack Go Framework for Prolific Web Developers.
+- [Bud](https://github.com/livebud/bud) - Full stack Go Framework for Prolific Web Developers. ([HN](https://news.ycombinator.com/item?id=31371340))
 
 ## GraphQL
 
