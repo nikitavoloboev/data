@@ -191,3 +191,4 @@ I worry that if Elon Musk does take over Twitter, he will [start collaborating w
 - [Elon Conquers The Twitterverse (2022)](https://bariweiss.substack.com/p/elon-conquers-the-twitterverse?s=w) ([Tweet](https://twitter.com/micsolana/status/1518980601197608960))
 - [Search your Twitter Bookmarks](https://github.com/twitterdev/bookmarks-search)
 - [Why Twitter is a Musk-Have (2022)](https://blog.lopp.net/why-twitter-musk-have/)
+- [Twitter Financial information](https://investor.twitterinc.com/financial-information/Additional-Information-and-Where-To-Find-It/default.aspx)

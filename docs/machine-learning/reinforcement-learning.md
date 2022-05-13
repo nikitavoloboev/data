@@ -358,4 +358,4 @@ title: Reinforcement learning
 - [Circuit Training: An open-source framework for generating chip floor plans with distributed deep reinforcement learning](https://github.com/google-research/circuit_training)
 - [Understanding Game-Playing Agents with Natural Language Annotations (2022)](https://arxiv.org/abs/2204.07531) ([Tweet](https://twitter.com/NickATomlin/status/1521551621678899200))
 - [Learning to Brachiate via Simplified Model Imitation (2022)](https://brachiation-rl.github.io/brachiation/) ([Code](https://github.com/brachiation-rl/brachiation))
-- [DeepMind: A Generalist Agent (2022)](https://www.deepmind.com/publications/a-generalist-agent) ([HN](https://news.ycombinator.com/item?id=31355657))
+- [DeepMind: A Generalist Agent (2022)](https://www.deepmind.com/publications/a-generalist-agent) ([HN](https://news.ycombinator.com/item?id=31355657)) ([Tweet](https://twitter.com/DeepMind/status/1524770016259887107))

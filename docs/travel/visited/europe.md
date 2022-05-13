@@ -6,7 +6,7 @@ I am not too fond of how high the tax is for many EU countries though given the 
 
 There are [many nice EU countries with lower tax](https://www.youtube.com/watch?v=qnUa3BZLoSA) though that you can work from.
 
-I am also curious how you can make EU political system more efficient, right now it seems incredibly messy.
+I am also curious how you can make EU political system more efficient, right now it seems incredibly messy. I am not sure how to [stop the stagnation of EU financially](https://twitter.com/zebulgar/status/1525201411641856001).
 
 So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](united-kingdom.md) (think it might be part of EU again). Want to move to [Portugal](portugal.md) or [Georgia](georgia.md) next.
 
