@@ -2,7 +2,7 @@
 
 Below is a list of music artists I like. I attach my favorite songs from these artists.
 
-If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani](http://haniarani.com/), [Agnes Obel](https://www.agnesobel.com/), [GoGo Penguin](https://gogopenguin.co.uk/) or [Big Thief](https://bigthief.net/) play live, do it. ♥️
+If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani](http://haniarani.com/), [Agnes Obel](https://www.agnesobel.com/), [GoGo Penguin](https://gogopenguin.co.uk/), [Big Thief](https://bigthief.net/) or [Florence + the Machine](https://florenceandthemachine.net/) play live, do it. ♥️
 
 [This](https://www.youtube.com/watch?v=kFRdoYfZYUY) performance by Hania Rani is truly incredible.
 
@@ -11,7 +11,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp?si=i1mTFkg7SoiFNGwbkz1RNw) - [My Friend the Forest](https://open.spotify.com/track/7B0ofCHeQu2FoX7P28ZaPp?si=4DtqB8PfRAGecWdoqP1L1A) | [La](https://open.spotify.com/track/3OjWbbavamAsikThpDy2oP?si=eLa9dHH6TCaOvylRnp84fg) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8) | ["Berduxa"](https://www.youtube.com/watch?v=QWcTgkjANmc) | [Boiler Room x Dimensions Opening Concert Live Set](https://www.youtube.com/watch?v=xih8aiacRSk) | [All Numbers End](https://open.spotify.com/track/7pLoI3XJLM67CGKAnOf5M5)
 - [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD?si=_mnATsOOStyjZgNHSxcL4g) - [Leaving](https://open.spotify.com/track/5kGMJTXKSDrFRGAgeLmavm?si=TytLQ8hWSBCGb6Z8TyT8pA) | [Glass](https://www.youtube.com/watch?v=l0yRNQj2_tc) | [Esja](https://open.spotify.com/track/0DNBrEt6XVU7qsuxahUw4K?si=a9VJJ_6ETfGbUOrecNME_g) | [Malasana](https://www.youtube.com/watch?v=qoYv9H_UCvE)
 - [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) - [The City Holds My Heart](https://open.spotify.com/track/2k750ut7R7B2M2oWZtE2jC) | [Empty Note](https://open.spotify.com/track/0YRYs1HSkie0eZ02ON4euX)
-- [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) - [Long & Lost](https://open.spotify.com/track/55zTc30BLHsy3HJOspZ96K)
+- [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) - [Long & Lost](https://open.spotify.com/track/55zTc30BLHsy3HJOspZ96K) | [How Big, How Blue, How Beautiful](https://open.spotify.com/track/1svZgUprTJv3gCCDEfPSmB)
 - [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) - [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv)
 - [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) - [Apollo](https://open.spotify.com/track/4UdI4OdnxRA5pHOWZwF2bO)
 - [oqbqbo](https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHmw) - [Rei](https://open.spotify.com/track/6upreF4yNirvmHslvUSyab) | [Usnea](https://open.spotify.com/track/0LfCXIqCGLRHQ2pyp7XEO5)

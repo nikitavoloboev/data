@@ -98,3 +98,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Writing a NetBSD kernel module (2017)](https://saurvs.github.io/post/writing-netbsd-kern-mod/) ([Lobsters](https://lobste.rs/s/evdq27/writing_netbsd_kernel_module)) ([HN](https://news.ycombinator.com/item?id=30927847))
 - [NSH](https://www.nmedia.net/nsh/) - CLI intended for OpenBSD-based network appliances. ([Code](https://github.com/yellowman/nsh))
 - [OpenBSD 7.1 (2022)](https://www.openbsd.org/index.html) ([HN](https://news.ycombinator.com/item?id=31109046))
+- [Customizing NetBSD boot banners (2022)](https://www.cambus.net/customizing-netbsd-boot-banners/)

@@ -6,7 +6,7 @@ title: CSS
 
 [Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/), [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) & [Defensive CSS](https://ishadeed.com/article/defensive-css/) are good reads.
 
-Often use [these CSS loaders](https://uiball.com/loaders/). [Open Props](https://open-props.style/) are amazing.
+Often use [these CSS loaders](https://uiball.com/loaders/). [Open Props](https://open-props.style/) are amazing. Trying out new features now from recent [State of CSS](https://www.youtube.com/watch?v=Xy9ZXRRgpLk).
 
 ## Nice templates
 
@@ -500,4 +500,4 @@ all: unset
 - [Ordering CSS Declarations (2022)](https://blog.jim-nielsen.com/2022/ordering-css-delcarations/) ([HN](https://news.ycombinator.com/item?id=31259627))
 - [Favorite Modern CSS features (2022)](https://twitter.com/argyleink/status/1523867688849666048)
 - [CSS Stats](https://cssstats.com/) - Visualize various stats about your CSS. ([Code](https://github.com/cssstats/cssstats))
-- [State of CSS 2022](https://web.dev/state-of-css-2022/) ([Tweet](https://twitter.com/ChromiumDev/status/1524376275665756161))
+- [State of CSS 2022](https://web.dev/state-of-css-2022/) ([Tweet](https://twitter.com/ChromiumDev/status/1524376275665756161)) ([Video](https://www.youtube.com/watch?v=Xy9ZXRRgpLk)) ([Tweet](https://twitter.com/jaffathecake/status/1525048999287443456))

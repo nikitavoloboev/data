@@ -31,8 +31,8 @@ title: Research chemicals
 - [A Beginner's Guide to RC Psychedelics](https://www.reddit.com/r/researchchemicals/comments/7qep7b/a_beginners_guide_to_rc_psychedelics/)
 - [Ban RC in Netherlands, what substances you are going to stock up? (2019)](https://www.reddit.com/r/researchchemicals/comments/bhxh6o/ban_rc_in_netherlands_what_substances_you_are/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/cf4431/what_is_your_favorite_rc_and_why/)
-- [RareChems](https://rarechems.com/) - EU based supplier of research chemicals. Best one. [Was vendor of LizardLabs once](https://www.reddit.com/user/rarechems/comments/uo03fn/rarechems_collaboration_with_lizard_labs_is_over/).
-- [RealChems](https://realchems.com/) - EU based supplier of research chemicals.
+- [RareChems](https://rarechems.com/) - EU based supplier of research chemicals. [Was vendor of LizardLabs once](https://www.reddit.com/user/rarechems/comments/uo03fn/rarechems_collaboration_with_lizard_labs_is_over/).
+- [RealChems](https://realchems.net/) - EU based supplier of research chemicals.
 - [Chemical Collective](https://chemical-collective.com/) - US-based supplier of research chemicals.
 - [RC FAQ & Resources](https://www.reddit.com/r/researchchemicals/comments/dchpr0/faq_resources/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/ec7qwt/what_is_your_favorite_rc_and_why/)
@@ -60,3 +60,4 @@ title: Research chemicals
 - [What are some of your favorite RC? (2022)](https://www.reddit.com/r/researchchemicals/comments/u4myz1/what_are_some_of_your_favourite_rc/)
 - [Good rcs/drugs with a simple/small chemical structure](https://www.reddit.com/r/researchchemicals/comments/u7txak/any_good_rcsdrugs_with_a_simplesmall_chemical/)
 - [What is your favorite RC & why? (2022)](https://www.reddit.com/r/researchchemicals/comments/unw8dj/what_is_your_favorite_rc_why/)
+- [Retailers - Lizard Labs](https://lizardlabs.eu/retailers/)

@@ -163,3 +163,4 @@ Exploring building fast web apps with [Svelte](../../programming-languages/javas
 - [create-cloudflare](https://github.com/lukeed/create-cloudflare) - Create new Cloudflare projects with one command.
 - [Workers for Platforms: making every application on the Internet more programmable (2022)](https://blog.cloudflare.com/workers-for-platforms/) ([Tweet](https://twitter.com/KentonVarda/status/1524033314448891905))
 - [D1: Cloudflare’s First SQL Database (2022)](https://blog.cloudflare.com/introducing-d1/) ([HN](https://news.ycombinator.com/item?id=31339299))
+- [Route to Workers, automate your email processing (2022)](https://blog.cloudflare.com/announcing-route-to-workers/)

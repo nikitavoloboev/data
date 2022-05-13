@@ -179,3 +179,4 @@
 - [Imger](https://github.com/Ernyoke/Imger) - Collection of image processing algorithms written in pure Go.
 - [Hide a photo inside another photo (2022)](https://www.avestura.dev/blog/hide-a-photo-inside-another-photo) ([HN](https://news.ycombinator.com/item?id=31197897))
 - [ProxImaL](https://github.com/comp-imaging/ProxImaL) - Python-embedded modeling language for image optimization problems.
+- [Announcing the Cloudflare Images Sourcing Kit (2022)](https://blog.cloudflare.com/cloudflare-images-sourcing-kit/)

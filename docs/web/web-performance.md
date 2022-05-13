@@ -175,3 +175,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Hydration is pure overhead (2022)](https://www.builder.io/blog/hydration-is-pure-overhead) ([HN](https://news.ycombinator.com/item?id=31101271)) ([Tweet](https://twitter.com/mhevery/status/1516844814792224770))
 - [BundleMon](https://github.com/LironEr/bundlemon) - Monitor your bundle size.
 - [A Gentle Introduction to SSR (2022)](https://hire.jonasgalvez.com.br/2022/apr/30/a-gentle-introduction-to-ssr/) ([HN](https://news.ycombinator.com/item?id=31224226))
+- [The state of responsiveness on the web (2022)](https://www.youtube.com/watch?v=Mizzbsvv8Os)

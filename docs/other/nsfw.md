@@ -1,6 +1,6 @@
 # NSFW
 
-Many people still have bad stigma attached of people sharing nudes in public but I think that's changing. Communities/initiatives like [SitnikFriday](https://t.me/sitnikfriday) where every Friday you can share (on [Twitter](https://twitter.com/search?q=sitnikfriday)) your body do well in reducing the fear in people's minds that it's something unnatural or even provocative to share photos you like of yourself, no matter the clothes you wear.
+Many people still have bad stigma attached of people sharing nudes in public but I think that's changing. Communities/initiatives like [SitnikFriday](https://t.me/sitnikfriday) where every Friday you can share (on [Twitter](https://twitter.com/search?q=sitnikfriday)) your body do well in reducing the fear in people's minds that it's something unnatural or even provocative to share photos you like of yourself, no matter the clothes you wear. [James & Lola](https://twitter.com/JamesWithLola) do it in a tasteful way I think.
 
 ## Reddit
 
@@ -19,6 +19,7 @@ Many people still have bad stigma attached of people sharing nudes in public but
 
 - [chill](http://instagram.com/thisissuperchill)
 - [Lina Scheynius](https://www.instagram.com/linascheynius/)
+- [Koleso Sobaki](https://www.instagram.com/koleso_sobaki/) ([Twitter](https://twitter.com/KolesoSobaki))
 
 ## Links
 
