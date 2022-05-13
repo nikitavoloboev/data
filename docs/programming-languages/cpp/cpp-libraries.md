@@ -420,3 +420,4 @@
 - [cmake-init](https://github.com/friendlyanon/cmake-init) - Missing CMake project initializer.
 - [clang-tutor](https://github.com/banach-space/clang-tutor) - Example Clang plugins for C and C++.
 - [Conan Center](https://conan.io/center/) - Central Repository for C / C++ packages. ([Code](https://github.com/conan-io/conan-center-index))
+- [std::find() and memchr() Optimizations (2016)](https://gms.tf/stdfind-and-memchr-optimizations.html)

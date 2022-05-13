@@ -10,7 +10,7 @@ const config = {
   tagline: "Everything I know",
   url: "https://wiki.nikiv.dev",
   baseUrl: "/",
-  onBrokenLinks: "ignore",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "nikitavoloboev", // Usually your GitHub org/user name.

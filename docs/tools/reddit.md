@@ -4,7 +4,7 @@ title: Reddit
 
 # [Reddit](https://www.reddit.com/)
 
-[Apollo iOS Reddit app](https://apolloapp.io/) is amazing.
+[Apollo iOS Reddit app](https://apolloapp.io/) is amazing iOS app. [Map of Reddit](https://anvaka.github.io/map-of-reddit/) is fun to explore.
 
 ## Bots
 
@@ -71,3 +71,4 @@ title: Reddit
 - [Related Subreddits By User/Redditor Overlap](https://subredditstats.com/subreddit-user-overlaps)
 - [Subreddit Stats](https://subredditstats.com/) - Statistics for every subreddit.
 - [eternity](https://eternity.portals.sh/) - Bypass Reddit's 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database. ([Code](https://github.com/jc9108/eternity)) ([Reddit](https://www.reddit.com/r/selfhosted/comments/ulwz3v/save_your_reddit_data_saves_etc/))
+- [Map of Reddit](https://anvaka.github.io/map-of-reddit/) ([HN](https://news.ycombinator.com/item?id=31357314))
