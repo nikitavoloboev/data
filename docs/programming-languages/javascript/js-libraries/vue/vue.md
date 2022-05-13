@@ -119,7 +119,7 @@ title: Vue.js
 - [nuxtjs/partytown](https://github.com/nuxt-community/partytown-module) - Partytown integration for Nuxt.
 - [Lodash for Nuxt](https://github.com/cipami/nuxt-lodash)
 - [Vue 3 as the New Default (2022)](https://blog.vuejs.org/posts/vue-3-as-the-new-default.html) ([HN](https://news.ycombinator.com/item?id=30251115))
-- [FormKit](https://github.com/formkit/formkit) - Form authoring framework for Vue developers.
+- [FormKit](https://github.com/formkit/formkit) - Form authoring framework for Vue developers. ([Web](https://formkit.com/)) ([HN](https://news.ycombinator.com/item?id=31367543))
 - [TSConfigs for Vue projects to extend](https://github.com/vuejs/tsconfig)
 - [Algolia module for Nuxt](https://github.com/nuxt-community/algolia-module)
 - [Nuxt Starter Templates](https://github.com/nuxt/starter) - Quickly get started with a minimal Nuxt starter template.
