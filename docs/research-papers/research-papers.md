@@ -186,3 +186,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Aspire](https://github.com/allenai/aspire) - Scientific document similarity model based on matching fine-grained aspects of scientific papers.
 - [OAmg](https://oa.mg/) - Search, read and download over 200 million research papers for free.
 - [Unpaywall](https://unpaywall.org/) - Open database of 31,903,705 free scholarly articles. ([HN](https://news.ycombinator.com/item?id=31271101))
+- [Scim: Intelligent Faceted Highlights for Interactive, Multi-Pass Skimming of Scientific Papers (2022)](https://arxiv.org/abs/2205.04561) ([Tweet](https://twitter.com/rayrayfok/status/1525156505498005511))

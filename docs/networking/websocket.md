@@ -4,7 +4,7 @@ title: WebSocket
 
 # [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
-[soketi](https://github.com/soketi/soketi) & [Tungstenite](https://github.com/snapview/tungstenite-rs) are great.
+[soketi](https://github.com/soketi/soketi) & [Tungstenite](https://github.com/snapview/tungstenite-rs) are great. [Using WebSockets with Cloudflare Workers](https://developers.cloudflare.com/workers/learning/using-websockets/) is awesome.
 
 ## Links
 

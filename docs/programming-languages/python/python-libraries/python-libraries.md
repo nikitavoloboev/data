@@ -1009,3 +1009,4 @@
 - [Multiple assignment and tuple unpacking improve Python code readability (2018)](https://treyhunner.com/2018/03/tuple-unpacking-improves-python-code-readability/) ([HN](https://news.ycombinator.com/item?id=31303463))
 - [Python documentation search](https://pythondocs.xyz/) ([HN](https://news.ycombinator.com/item?id=31317911))
 - [JSON to Pydantic](https://jsontopydantic.com/) - Tool that lets you convert JSON objects into Pydantic models. ([Code](https://github.com/brokenloop/jsontopydantic))
+- [Python Asyncio tips](https://twitter.com/willmcgugan/status/1525386954510155776)

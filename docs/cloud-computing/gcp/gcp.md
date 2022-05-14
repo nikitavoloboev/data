@@ -89,3 +89,4 @@ title: Google Cloud
 - [Google API Extensions for Go](https://github.com/googleapis/gax-go)
 - [log](https://github.com/apsystole/log) - Go logging library for GCP App Engine, Cloud Run, Cloud Functions.
 - [gcsfs](https://github.com/fsspec/gcsfs) - Pythonic file-system interface for Google Cloud Storage.
+- [Litestream & Cloud Run example](https://github.com/steren/litestream-cloud-run-example)
