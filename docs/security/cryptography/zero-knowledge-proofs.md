@@ -84,3 +84,4 @@ title: Zero knowledge proofs
 - [Zk app boilerplate](https://github.com/wanseob/zkp-app-boilerplate) - Build your zkp app with typescript, hardhat, circom, and snarkjs.
 - [Zero Knowledge Proof using Hamiltonian Cycles (2016)](https://daniel.schemmel.net/post/2016/zero-knowledge-proofs-using-hamiltonian-cycles/)
 - [Zero Knowledge Proofs of Knowledge (2016)](https://daniel.schemmel.net/post/2016/zero-knowledge-proofs-of-knowledge/)
+- [zkPairing](https://github.com/yi-sun/circom-pairing) - Proof-of-concept implementations of elliptic curve pairings (in particular, the optimal Ate pairing and Tate pairing) for the BLS12-381 curve in circom.

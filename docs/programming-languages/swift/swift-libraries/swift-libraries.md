@@ -259,6 +259,7 @@
 - [UserDefaults-Browser](https://github.com/YusukeHosonuma/UserDefaultsBrowser) - Browse and edit UserDefaults on your app.
 - [ShyView](https://github.com/MarioIannotta/ShyView) - UI component that avoids screenshots and recordings.
 - [FluidInterfaceKit](https://github.com/muukii/FluidInterfaceKit) - Framework that provides the advanced infrastructure for your iPhone apps.
+- [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
 
 ## macOS
 

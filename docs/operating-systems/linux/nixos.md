@@ -218,3 +218,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nix-Editor](https://github.com/vlinkz/nix-editor) - Command line utility for modifying NixOS configuration values.
 - [NixOS on Btrfs+tmpfs (2021)](https://cnx.srht.site/blog/butter/index.html) ([HN](https://news.ycombinator.com/item?id=31269972))
 - [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions.
+- [NixOS Host](https://github.com/georgewhewell/nixos-host)

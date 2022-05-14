@@ -86,3 +86,4 @@ title: Unix
 - [daemonize](https://github.com/bmc/daemonize) - Command line utility to run a program as a Unix daemon.
 - [Scripts to extend the Unix environment](https://github.com/thrig/scripts)
 - [Unix command line conventions over time (2022)](https://blog.liw.fi/posts/2022/05/07/unix-cli/) ([HN](https://news.ycombinator.com/item?id=31293032))
+- [Dropping privileges (2022)](https://blog.habets.se/2022/03/Dropping-privileges.html)

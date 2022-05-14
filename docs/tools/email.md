@@ -246,3 +246,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Ask HN: Why can't I host my own email? (2022)](https://news.ycombinator.com/item?id=31180379)
 - [Inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. ([Web](https://www.inbucket.org/))
 - [go-mail](https://github.com/wneessen/go-mail) - Simple and easy way to send mails in Go.
+- [cmdg](https://github.com/ThomasHabets/cmdg) - Command line client to GMail.

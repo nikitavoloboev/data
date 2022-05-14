@@ -134,6 +134,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor.
 - [Mira](https://github.com/spring-raining/mira) - JavaScript & Markdown live editor on your browser.
 - [Textarea Markdown](https://github.com/Resetand/textarea-markdown-editor) - UI headless simple markdown editor using only textarea.
+- [CodeMirror View](https://github.com/codemirror/view) - DOM view component for the CodeMirror code editor.
 
 ## Notes
 

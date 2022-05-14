@@ -149,6 +149,7 @@ title: Next.js
 - [Next SuperJSON](https://github.com/remorses/next-superjson) - Automatically transform your Next.js Pages to use SuperJSON, without losing swc support.
 - [Next Super Performance](https://github.com/LukasBombach/next-super-performance) - Partial hydration for Next.js with Preact X.
 - [recma-nextjs-static-props](https://github.com/remcohaszing/recma-nextjs-static-props) - Expose top-level identifiers in Next.js app.js.
+- [Connected Next Router](https://github.com/danielr18/connected-next-router) - Redux binding for Next.js Router compatible with Next.js.
 
 ## Notes
 

@@ -532,3 +532,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git-history](https://github.com/simonw/git-history) - Tools for analyzing Git history using SQLite.
 - [git-vendor](https://github.com/brettlangdon/git-vendor) - Git command for managing vendored dependencies.
 - [smimecosign](https://github.com/wlynch/smimecosign) - Keyless Git signing with cosign.
+- [git branchstack](https://github.com/krobelus/git-branchstack) - Efficiently manage Git branches without leaving your local branch.

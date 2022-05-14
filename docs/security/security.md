@@ -295,3 +295,5 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Teller](https://tlr.dev/) - Secrets management tool for developers built in Go - never leave your command line for secrets. ([Code](https://github.com/SpectralOps/teller))
 - [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
 - [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
+- [Awesome Application Security Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)

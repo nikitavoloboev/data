@@ -22,3 +22,4 @@ If I started my local server on port 3000. This command: `ngrok http 3000` will 
 - [Setting up Cloudflare Tunnel for development (2021)](https://kirillplatonov.com/posts/setting-up-cloudflare-tunnel-for-development/)
 - [JPRQ](https://github.com/azimjohn/jprq) - Get Your Localhost Online and HTTPS. Ngrok Alternative.
 - [Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling (2019)](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html) ([HN](https://news.ycombinator.com/item?id=30891494))
+- [Rslocal](https://github.com/saltbo/rslocal) - Like ngrok built in Rust, it builds a tunnel to localhost.

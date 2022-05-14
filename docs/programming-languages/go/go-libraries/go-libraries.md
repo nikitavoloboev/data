@@ -1639,6 +1639,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [run](https://github.com/sourcegraph/run) - New way to execute commands in Go.
 - [lexmachine](https://github.com/timtadh/lexmachine) - Lexical Analysis Framework for Go.
 - [roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go.
+- [Quamina](https://github.com/timbray/quamina) - Fast pattern-matching library.
 
 ## Links
 

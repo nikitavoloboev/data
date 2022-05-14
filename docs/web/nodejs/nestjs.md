@@ -43,3 +43,4 @@ title: NestJS
 - [NestJS-Pino](https://github.com/iamolegga/nestjs-pino) - Platform agnostic logger for NestJS based on Pino.
 - [Nestia](https://github.com/samchon/nestia) - Automatic SDK and Document generator for NestJS.
 - [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Includes Prisma, email verification, Passport-JWT authentication, Swagger and more.
+- [NestJs CRUD for RESTful APIs](https://github.com/nestjsx/crud)

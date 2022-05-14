@@ -1866,6 +1866,7 @@
 - [ambisonic](https://github.com/mbillingr/ambisonic) - Compose and play 3D audio in pure Rust.
 - [async-executor](https://github.com/smol-rs/async-executor)
 - [Driveyard](https://github.com/driveyard/driveyard) - Tools for data-oriented programming.
+- [kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL.
 
 ## Cargo Plugins
 

@@ -402,3 +402,4 @@ title: PyTorch
 - [PyTorch on Angel](https://github.com/Angel-ML/PyTorch-On-Angel) - Arming PyTorch with a powerful Parameter Server, which enable PyTorch to train very big models.
 - [NITorch](https://github.com/balbasty/nitorch) - Library written in PyTorch aimed at medical image processing and analysis, with a focus on neuroimaging.
 - [torch-ppr](https://github.com/mberr/torch-ppr) - Page-Rank computation using PyTorch.
+- [PyTorch-Energizer](https://github.com/pietrolesci/pytorch-energizer) - Active learning library for PyTorch based on PyTorch-Lightning.

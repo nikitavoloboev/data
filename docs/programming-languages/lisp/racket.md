@@ -124,3 +124,4 @@ title: Racket
 - [RacketScript Playground](https://github.com/racketscript/racketscript-playground)
 - [Racket v8.5 (2022)](https://blog.racket-lang.org/2022/04/racket-v8-5.html) ([HN](https://news.ycombinator.com/item?id=31230504))
 - [qi](https://github.com/countvajhula/qi) - General-purpose functional DSL.
+- [Pycket](https://github.com/pycket/pycket) - Racket/Scheme implementation that is generated using the RPython framework.
