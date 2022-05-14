@@ -509,6 +509,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Optionals](https://github.com/OliverBrotchie/optionals) - Rust-like error handling and options for TypeScript and Deno.
 - [Turbo Query](https://github.com/StudioLambda/TurboQuery) - Lightweight asynchronous data management.
 - [hi18n](https://github.com/wantedly/hi18n) - Message internationalization meets immutability and type-safety.
+- [FortuneSheet](https://github.com/ruilisi/fortune-sheet) - Drop-in JS spreadsheet library that provides rich features like Excel and Google Sheets.
 
 ## Links
 
