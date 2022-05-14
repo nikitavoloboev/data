@@ -47,3 +47,4 @@
 - [Visualizing Black Holes with General Relativistic Ray Tracing (2022)](https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/) ([HN](https://news.ycombinator.com/item?id=30678731))
 - [Black Holes Shown to Act Like Quantum Particles (2022)](https://www.quantamagazine.org/massive-black-holes-shown-to-act-like-quantum-particles-20220329/) ([HN](https://news.ycombinator.com/item?id=30843723))
 - [Astronomers reveal first image of the black hole at the heart of our galaxy (2022)](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy) ([Tweet](https://twitter.com/porestar/status/1524784919767138307)) ([HN](https://news.ycombinator.com/item?id=31353677))
+- [Can we make a black hole? And if we could, what could we do with it? (2022)](http://backreaction.blogspot.com/2022/05/can-we-make-black-hole-and-if-we-could.html) ([HN](https://news.ycombinator.com/item?id=31377395))
