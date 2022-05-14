@@ -151,3 +151,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [OrderBump](https://apps.shopify.com/orderbump) - Post purchase checkout upsell / cross sell / boost AOV + sales.
 - [McMaster-Carr](https://www.mcmaster.com/) - American supplier of hardware, tools, raw materials, industrial materials, and maintenance equipment.
 - [Swell](https://www.swell.is/) - Headless ecommerce for everyone. ([Horizon Theme](https://www.swell.is/blog/announcing-horizon-theme)) ([Twitter](https://twitter.com/swellcommerce)) ([GitHub](https://github.com/swellstores)) ([Origin Theme](https://github.com/swellstores/origin-theme))
+- [digitec.ch](https://www.digitec.ch/en) - Online shop for all things digital.

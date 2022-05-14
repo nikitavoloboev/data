@@ -492,6 +492,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [DALI](https://github.com/mibk/dali) - Thin layer over Go's database/sql.
 - [Go ORM Benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for +10 Go ORMs.
 - [go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph APIs.
+- [sqlf](https://github.com/leporo/sqlf) - Fast SQL query builder for Go.
 
 ## ML
 
