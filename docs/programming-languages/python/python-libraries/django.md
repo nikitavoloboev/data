@@ -162,3 +162,4 @@ title: Django
 - [Anatomy of a Django/HTMX Project (2022)](https://danjacob.net/posts/anatomyofdjangohtmxproject/) ([HN](https://news.ycombinator.com/item?id=31104095))
 - [snapshot-queries](https://github.com/cedar-team/snapshot-queries) - Capture all SQL statements executed via Django and SqlAlchemy ORM queries.
 - [Pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework.
+- [Enforcing Zero Downtime Django Migrations (2022)](https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html)

@@ -200,6 +200,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useUndoable](https://github.com/Infinium8/useUndoable) - React hook for undo/redo functionality.
 - [useCookie](https://github.com/tylerwolff/useCookie) - React hook for managing cookies with no dependencies.
 - [use-clamp-text](https://github.com/drenther/use-clamp-text) - React hook to clamp multiline text to a given height in a responsive way and with extreme flexibility.
+- [useAwait](https://github.com/phytonmk/react-use-await) - React hook for handy async UI.
 
 ## Code
 

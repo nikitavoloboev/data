@@ -25,7 +25,7 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Hexo](https://github.com/hexojs/hexo) - Fast, simple & powerful blog framework, powered by Node.js.
 - [gostatic](https://github.com/piranha/gostatic) - Fast static site generator.
 - [Metalsmith](https://metalsmith.io/) - Extremely simple, pluggable static site generator. ([Code](https://github.com/segmentio/metalsmith))
-- [Soupault](https://soupault.neocities.org/) - Static website generator based on HTML rewriting. ([Code](https://github.com/dmbaturin/soupault/))
+- [Soupault](https://soupault.app/) - Static website generator based on HTML rewriting. ([Code](https://github.com/dmbaturin/soupault/))
 - [makesite.py](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders.
 - [Boom](https://github.com/RadhiFadlillah/boom) - Simple static site generator built with Go. ([Blog built with Boom](https://github.com/RadhiFadlillah/blog))
 - [Pelican](https://blog.getpelican.com/) - Static Site Generator, Powered by Python. ([Code](https://github.com/getpelican/pelican)) ([HN](https://news.ycombinator.com/item?id=24661299))
