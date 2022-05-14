@@ -110,3 +110,4 @@
 - [How your phone documents your abortion experience](https://twitter.com/melissagira/status/1522308798718828544)
 - [Andrew Huberman explains sex to Lex Fridman](https://www.youtube.com/watch?v=hC_AnkSDbTI)
 - [Giving girls orgasm with just PIV](https://www.reddit.com/r/sex/comments/uml5kz/giving_her_an_orgasm_just_by_using_the_penis_and/)
+- [Men of Reddit, what’s something most guys like during sex but don’t want to admit?](https://www.reddit.com/r/AskMen/comments/uowwg7/men_of_reddit_whats_something_most_guys_like/)

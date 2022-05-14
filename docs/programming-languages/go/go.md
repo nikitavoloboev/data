@@ -774,4 +774,4 @@ if err != nil {
 - [A faster lexer in Go (2022)](https://eli.thegreenplace.net/2022/a-faster-lexer-in-go/) ([HN](https://news.ycombinator.com/item?id=31270142))
 - [Implementing a Merkle tree for an Immutable Verifiable Log (in Go)](https://aly.arriqaaq.com/merkle-tree-and-verifiable-data-structures/) ([HN](https://news.ycombinator.com/item?id=31287254))
 - [goplay: Embed Go Playground on your Website (2022)](https://ggicci.me/posts/goplay-embed-go-playground-on-your-website/) ([Code](https://github.com/ggicci/goplay))
-- [Safer Enums (2022)](https://npf.io/2022/05/safer-enums/)
+- [Safer Enums in Go (2022)](https://npf.io/2022/05/safer-enums/) ([Lobsters](https://lobste.rs/s/mmp5em/safer_enums_go)) ([HN](https://news.ycombinator.com/item?id=31377025))

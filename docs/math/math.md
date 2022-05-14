@@ -366,3 +366,5 @@
 - [Alexander Grothendieck: A Country Known Only by Name (2014)](https://inference-review.com/article/a-country-known-only-by-name)
 - [When We Cease to Understand the World (2021)](https://www.nyrb.com/products/when-we-cease-to-understand-the-world?variant=37890166784168)
 - [Alexander Grothendieck: The Mysterious Disappearance of a Revolutionary Mathematician (2022)](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)
+- [Math & CS Books/Resources collection](https://drive.google.com/drive/folders/1_cSsxlu6j6Nngm-dArWVjqA3qL5IE5wN)
+- [Good math books to learn from ground up (2022)](https://www.reddit.com/r/learnmath/comments/uoy33b/hey_so_uh_does_anyone_know_any_good_books_to/)
