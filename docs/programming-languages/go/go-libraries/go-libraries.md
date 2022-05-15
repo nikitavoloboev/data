@@ -1746,3 +1746,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [OpenTelemetry Auto-Instrumentation for Go](https://github.com/keyval-dev/opentelemetry-go-instrumentation)
 - [Go code coverage to SVG treemap](https://github.com/nikolaydubina/go-cover-treemap)
 - [Go Standard library](https://pkg.go.dev/std)
+- [Golang Diaries: Generics (2022)](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics) ([Lobsters](https://lobste.rs/s/z7xxmm/golang_diaries_generics)) ([HN](https://news.ycombinator.com/item?id=31387312))

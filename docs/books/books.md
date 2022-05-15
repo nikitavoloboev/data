@@ -8,6 +8,8 @@ I also have bookshelves of books I [liked](https://www.goodreads.com/review/list
 
 Below are books I read (or listened) sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
+More books should be interactive and web first like [these notes](https://thebeginningofinfinity.xyz/).
+
 ### 2019
 
 - 21 Lessons for the 21st Century 🌟

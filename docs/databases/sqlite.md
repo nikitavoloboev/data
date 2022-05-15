@@ -196,3 +196,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Generated columns in SQLite](https://antonz.org/generated-columns/) ([Lobsters](https://lobste.rs/s/d5dc0h/generated_columns_sqlite))
 - [I'm all-in on server-side SQLite (2022)](https://fly.io/blog/all-in-on-sqlite-litestream/) ([HN](https://news.ycombinator.com/item?id=31318708)) ([Lobsters](https://lobste.rs/s/pb2jp4/i_m_all_on_server_side_sqlite))
 - [SQLite in Go, with and without cgo (2022)](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html) ([HN](https://news.ycombinator.com/item?id=31364166))
+- [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/) ([HN](https://news.ycombinator.com/item?id=31386330))

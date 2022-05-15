@@ -55,6 +55,7 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 ## Notes
 
 - [All Too Well](https://www.youtube.com/watch?v=tollGa3S0o8) clip/film is a nice overview of narcissistic relationship.
+- [The best way to make relationships is to do work together. All kinds of relationships, all kinds of work.](https://twitter.com/simonsarris/status/1525893480601604097)
 - [Dr. Ramani is amazing](https://www.reddit.com/r/NarcissisticAbuse/comments/svuagm/i_strongly_advise_all_of_you_to_watch_dr_ramani/)
 - [At the end of the day people won't remember what you said or did, they will remember how you made them feel.](https://www.reddit.com/r/AskMenOver30/comments/qnvwdl/what_piece_of_advice_have_you_received_that_you/)
 - [Whenever you have a crush ask yourself: Do you crush on her specifically or do you just yearn for intimacy? Could any other pretty girl take her place or not? Most of the time, you just tell yourself she is special because you feel like she is available. Stop doing that. Life gets much easier.](https://www.reddit.com/r/AskMen/comments/uehxa6/whats_a_hard_truth_young_men_need_to_learn_as/)

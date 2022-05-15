@@ -1,5 +1,7 @@
 # Game development
 
+[3D Math Primer for Graphics and Game Development](https://gamemath.com/) is great.
+
 ## Studios
 
 - [Bungie](https://www.bungie.net/) - Developer of Destiny, Halo and more.

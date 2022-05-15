@@ -111,3 +111,4 @@
 - [Andrew Huberman explains sex to Lex Fridman](https://www.youtube.com/watch?v=hC_AnkSDbTI)
 - [Giving girls orgasm with just PIV](https://www.reddit.com/r/sex/comments/uml5kz/giving_her_an_orgasm_just_by_using_the_penis_and/)
 - [Men of Reddit, what’s something most guys like during sex but don’t want to admit?](https://www.reddit.com/r/AskMen/comments/uowwg7/men_of_reddit_whats_something_most_guys_like/)
+- [Various condoms thread](https://twitter.com/stereoyana/status/1525746258354249728)

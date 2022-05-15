@@ -98,5 +98,4 @@ title: Web Components
 - [Innovating beyond libraries and frameworks (2022)](https://nilsnh.no/2022/04/09/innovating-beyond-libraries-and-frameworks/)
 - [Pinch Zoom](https://github.com/GoogleChromeLabs/pinch-zoom) - Web component for pinch zooming DOM elements.
 - [Collection of Web Components by Clever Cloud](https://github.com/CleverCloud/clever-components)
-- [Component Party](https://github.com/matschik/component-party) - Web component JS frameworks overview by their syntax and features. ([Docs](https://component-party.pages.dev/#declare-state))
 - [LS-Element](https://github.com/lsegurado/ls-element) - Web Components with TSX.

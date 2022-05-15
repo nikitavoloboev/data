@@ -25,3 +25,4 @@ title: Astro
 - [Astro ImageTools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework.
 - [Astro.build Web Code](https://github.com/withastro/astro.build)
 - [Astro on Cloudflare Workers (2022)](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
+- [Build faster websites with Astro (2022)](https://www.youtube.com/watch?v=x3hiyWikdrE)

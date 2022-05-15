@@ -61,3 +61,4 @@ title: Research chemicals
 - [Good rcs/drugs with a simple/small chemical structure](https://www.reddit.com/r/researchchemicals/comments/u7txak/any_good_rcsdrugs_with_a_simplesmall_chemical/)
 - [What is your favorite RC & why? (2022)](https://www.reddit.com/r/researchchemicals/comments/unw8dj/what_is_your_favorite_rc_why/)
 - [Retailers - Lizard Labs](https://lizardlabs.eu/retailers/)
+- [ChemResearch Reddit](https://www.reddit.com/r/ChemResearch/)

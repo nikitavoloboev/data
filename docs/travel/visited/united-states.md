@@ -144,3 +144,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [HN: Wealthy Americans are buying second passports as a 'plan B' (2022)](https://news.ycombinator.com/item?id=31303583)
 - [No, America is not collapsing (2022)](https://noahpinion.substack.com/p/no-america-is-not-collapsing?s=r) ([HN](https://news.ycombinator.com/item?id=31325941)) ([Reddit](https://www.reddit.com/r/neoliberal/comments/umr2gh/no_america_is_not_collapsing/))
 - [What facts about the United States do foreigners not believe until they come to America? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/umhysk/what_facts_about_the_united_states_do_foreigners/)
+- [What is something that everyone should know about America? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/uprh44/what_is_something_that_everyone_should_know_about/)
