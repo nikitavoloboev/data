@@ -4,6 +4,8 @@ title: JavaScript
 
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 
+[Modern JavaScript Tutorial](https://javascript.info/) is great.
+
 ## Notes
 
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
@@ -70,7 +72,7 @@ if (
 ## Links
 
 - [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
-- [Modern JavaScript Tutorial](https://javascript.info/) ([HN](https://news.ycombinator.com/item?id=25333350))
+- [Modern JavaScript Tutorial](https://javascript.info/) ([HN](https://news.ycombinator.com/item?id=25333350)) ([HN](https://news.ycombinator.com/item?id=31390742))
 - [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
 - [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)

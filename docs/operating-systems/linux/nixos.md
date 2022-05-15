@@ -220,3 +220,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions.
 - [NixOS Host](https://github.com/georgewhewell/nixos-host)
 - [NixOS: Enabling LXD virtual machines using Flakes (2022)](https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/)
+- [ragenix](https://github.com/yaxitech/ragenix) - Provides age-encrypted secrets for NixOS systems which live in the Nix store and are decrypted on system activation.

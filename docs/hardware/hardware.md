@@ -326,3 +326,4 @@
 - [The semiconductor bust – still coming? (2022)](https://asianometry.substack.com/p/the-semiconductor-bust-still-coming?s=r) ([HN](https://news.ycombinator.com/item?id=31264672))
 - [DuPont and “DuPont” connectors, and how to crimp them properly (2021)](http://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
 - [MEMS: The Second Silicon Revolution? (2022)](https://www.youtube.com/watch?v=RiRyap-EVg0)
+- [Retro-style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)

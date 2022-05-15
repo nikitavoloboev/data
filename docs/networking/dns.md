@@ -218,3 +218,4 @@ title: DNS
 - [dnsx](https://github.com/projectdiscovery/dnsx) - Fast and multi-purpose DNS toolkit allow to run multiple DNS queries.
 - [Wildcard proxy for everyone (2022)](https://blog.cloudflare.com/wildcard-proxy-for-everyone/)
 - [HAnoProxY](https://github.com/Abbas-gheydi/hanoproxy) - DNS server offering proxyless high availability and load balancing for applications.
+- [KittenDNS](https://github.com/Fusion/kittendns) - Toy DNS for hobbyists and worried people.

@@ -297,3 +297,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
 - [Awesome Application Security Checklist](https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Session](https://getsession.org/) - Onion routing based messenger. ([Code](https://github.com/oxen-io/session-desktop))
