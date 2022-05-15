@@ -219,3 +219,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS on Btrfs+tmpfs (2021)](https://cnx.srht.site/blog/butter/index.html) ([HN](https://news.ycombinator.com/item?id=31269972))
 - [systemd-nix](https://github.com/serokell/systemd-nix) - Generate systemd units from NixOS-style descriptions.
 - [NixOS Host](https://github.com/georgewhewell/nixos-host)
+- [NixOS: Enabling LXD virtual machines using Flakes (2022)](https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/)
