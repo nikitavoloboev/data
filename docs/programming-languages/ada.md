@@ -35,3 +35,4 @@ title: Ada
 - [SPARK](https://github.com/AdaCore/spark2014) - Software development technology specifically designed for engineering high-reliability applications.
 - [Augusta](https://github.com/pchapin/augusta) - Ada compiler in Scala.
 - [Ada Tutorial](https://github.com/pchapin/tutorialada)
+- [VSS](https://github.com/AdaCore/VSS) - High level string and text processing library.

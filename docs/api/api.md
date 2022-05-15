@@ -137,6 +137,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Spotify iOS SDK](https://github.com/spotify/ios-sdk)
 - [Spotify Swift](https://github.com/Peter-Schorn/SpotifyAPI)
 - [Spotify Elixir](https://github.com/jsncmgs1/spotify_ex)
+- [Rutracker Node API](https://github.com/nikityy/rutracker-api)
 - [Coinbase Rust](https://github.com/j16r/coinbase-rs)
 - [Replit Container SDK](https://github.com/replit/crosis) - JavaScript client that speaks Replit's container protocol.
 - [Last.fm and Libre.fm Python](https://github.com/pylast/pylast)

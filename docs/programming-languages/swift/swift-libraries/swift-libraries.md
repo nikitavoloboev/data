@@ -260,6 +260,7 @@
 - [ShyView](https://github.com/MarioIannotta/ShyView) - UI component that avoids screenshots and recordings.
 - [FluidInterfaceKit](https://github.com/muukii/FluidInterfaceKit) - Framework that provides the advanced infrastructure for your iPhone apps.
 - [Piano](https://github.com/saoudrizwan/Piano) - Easily play combinations of sound effects and Taptic Engine vibrations on iOS.
+- [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler for iOS with Concurrent run, failure/retry, persistence, repeat, delay and more.
 
 ## macOS
 
@@ -1131,6 +1132,7 @@
 - [ComposableOpenURL](https://github.com/Shimmur/composable-open-url) - State-driven URL opening for The Composable Architecture.
 - [CertificateSigningRequest](https://github.com/cbaker6/CertificateSigningRequest) - Generate a certificate signing request (CSR) programmatically on iOS/macOS/watchOS/tvOS devices.
 - [HypervisorKit](https://github.com/spevans/hypervisor-kit) - Swift library providing an interface for writing X86 hypervisors on macOS (Hypervisor.framework) and Linux (KVM).
+- [WebPKit](https://github.com/TimOliver/WebPKit) - Framework that extends a variety of Cocoa APIs with capabilities for encoding and decoding WebP files for all of Apple's platforms.
 
 ## Other (not lib)
 

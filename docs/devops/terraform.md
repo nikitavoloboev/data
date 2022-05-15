@@ -169,3 +169,4 @@ title: Terraform
 - [How to setup infrastructure in Hetzner Cloud with Terraform](https://github.com/awesome-nick/tf-hetzner-example)
 - [Vercel Terraform Provider](https://github.com/vercel/terraform-provider-vercel)
 - [terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform Registry.
+- [Atlas Terraform Provider](https://github.com/ariga/terraform-provider-atlas)

@@ -168,3 +168,4 @@
 - [A Dataset and Explorer for 3D Signed Distance Functions (2022)](https://tovacinni.github.io/sdf-explorer/) ([Code](https://github.com/tovacinni/sdf-explorer))
 - [Vega Datasets](https://github.com/vega/vega-datasets) - Collection of datasets used in Vega and Vega-Lite examples.
 - [Azimuth](https://github.com/ServiceNow/azimuth) - Open-source dataset and error analysis tool for text classification.
+- [audio2dataset](https://github.com/rom1504/audio2dataset) - Easily turn large sets of audio urls to an audio dataset.
