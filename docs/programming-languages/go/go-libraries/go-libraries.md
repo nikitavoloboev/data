@@ -1748,3 +1748,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go code coverage to SVG treemap](https://github.com/nikolaydubina/go-cover-treemap)
 - [Go Standard library](https://pkg.go.dev/std)
 - [Golang Diaries: Generics (2022)](https://www.tbray.org/ongoing/When/202x/2022/05/14/Golang-Generics) ([Lobsters](https://lobste.rs/s/z7xxmm/golang_diaries_generics)) ([HN](https://news.ycombinator.com/item?id=31387312))
+- [testscript, a hidden gem the Go team kept locked away](https://encore.dev/blog/testscript-hidden-testing-gem) ([Lobsters](https://lobste.rs/s/elmxfh/testscript_hidden_gem_go_team_kept_locked))

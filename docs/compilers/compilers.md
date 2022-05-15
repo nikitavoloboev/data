@@ -216,4 +216,4 @@
 - [A compiler's users (2021)](https://typesanitizer.com/blog/a-compilers-users-p1.html)
 - [optir](https://github.com/jameysharp/optir) - Compiler optimizer for arbitrary control flow based on equality saturation.
 - [Mijit](https://github.com/apt1002/mijit) - Experimental JIT compiler generator.
-- [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+- [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/uptguy/introduction_to_compilers_and_language_design/))

@@ -368,3 +368,4 @@
 - [Alexander Grothendieck: The Mysterious Disappearance of a Revolutionary Mathematician (2022)](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician)
 - [Math & CS Books/Resources collection](https://drive.google.com/drive/folders/1_cSsxlu6j6Nngm-dArWVjqA3qL5IE5wN)
 - [Good math books to learn from ground up (2022)](https://www.reddit.com/r/learnmath/comments/uoy33b/hey_so_uh_does_anyone_know_any_good_books_to/)
+- [Less known YouTube channels with a lot of math content? (2022)](https://www.reddit.com/r/math/comments/uq4zn1/less_known_youtube_channels_with_a_lot_of_math/)

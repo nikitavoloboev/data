@@ -93,3 +93,4 @@ title: Phoenix framework
 - [Sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework.
 - [Phoenix.Swoosh](https://github.com/swoosh/phoenix_swoosh) - Provides the ability to set the HTML and/or text body of an email by rendering templates.
 - [Learn Phoenix (Web App) Framework](https://github.com/dwyl/learn-phoenix-framework)
+- [Using CQRS in a simple Phoenix API with Commanded (2022)](https://dev.to/christianalexander/using-cqrs-in-a-simple-phoenix-api-with-commanded-364k)

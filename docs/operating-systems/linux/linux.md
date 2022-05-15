@@ -533,3 +533,4 @@ the execution time on all cores of a multi-core processor.
 - [deai](https://github.com/yshui/deai) - One-stop automation system for Linux.
 - [Alpine GNU C library (glibc) Docker image](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc)
 - [LDT](https://github.com/makelinux/ldt) - Linux Driver Template.
+- [Linux Accessibility: an unmaintained Mess (2022)](https://scribe.rip/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a) ([Lobsters](https://lobste.rs/s/5pf4j6/linux_accessibility_unmaintained_mess))

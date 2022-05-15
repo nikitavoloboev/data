@@ -164,3 +164,4 @@ title: Rails
 - [Rails Devs](https://railsdevs.com/) - Reverse job board for Ruby on Rails developers.
 - [20 in 20 Ruby on Rails challenge](https://github.com/Deanout/20in20)
 - [N1Loader](https://github.com/djezzzl/n1_loader) - Loader to solve N+1 issues for good. Highly recommended for GraphQL API.
+- [Hybrid development Docker Compose setup for Rails (2022)](https://nts.strzibny.name/hybrid-docker-compose-rails/)

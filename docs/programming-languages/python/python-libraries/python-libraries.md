@@ -1011,3 +1011,4 @@
 - [Python documentation search](https://pythondocs.xyz/) ([HN](https://news.ycombinator.com/item?id=31317911))
 - [JSON to Pydantic](https://jsontopydantic.com/) - Tool that lets you convert JSON objects into Pydantic models. ([Code](https://github.com/brokenloop/jsontopydantic))
 - [Python Asyncio tips](https://twitter.com/willmcgugan/status/1525386954510155776)
+- [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/) ([Lobsters](https://lobste.rs/s/twf7p3/boring_python_dependency_management))

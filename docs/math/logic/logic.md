@@ -77,3 +77,4 @@
 - [Why are you being constructive? (2022)](https://lawrencecpaulson.github.io/2022/04/20/Why-constructive.html)
 - [The Context And The Logic (2022)](https://khanlou.com/2021/02/the-context-and-the-logic/)
 - [The countable reals - Topos in which the reals are countable (2022)](https://researchseminars.org/talk/ToposInstituteColloquium/57/) ([Reddit](https://www.reddit.com/r/math/comments/uhdo6j/the_countable_reals_andrej_bauer_will_be/))
+- [Surprises in Logic (2016)](https://math.ucr.edu/home/baez/surprises.html)
