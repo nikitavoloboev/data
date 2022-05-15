@@ -35,7 +35,7 @@ title: Eleventy
 - [11ty Netlify Jumpstart](https://github.com/5t3ph/11ty-netlify-jumpstart)
 - [Smol Eleventy Starter](https://github.com/5t3ph/smol-11ty-starter)
 - [A Deep Dive Into Eleventy Static Site Generator (2021)](https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/)
-- [11ty Rocks!](https://11ty.rocks/) - Collection of Eleventy (11ty) starters, projects, plugins, and resources.
+- [11ty Rocks!](https://11ty.rocks/) - Collection of Eleventy (11ty) starters, projects, plugins, and resources. ([Code](https://github.com/5t3ph/11ty-rocks))
 - [Itsiest, Bitsiest Eleventy Tutorial (2021)](https://sia.codes/posts/itsiest-bitsiest-eleventy-tutorial/)
 - [Optimize Images in Eleventy Using Cloudinary (2021)](https://sia.codes/posts/eleventy-and-cloudinary-images/)
 - [Architecting data in Eleventy (2021)](https://sia.codes/posts/architecting-data-in-eleventy/)

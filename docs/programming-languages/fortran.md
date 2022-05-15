@@ -23,3 +23,4 @@ title: Fortran
 - [fortls](https://github.com/gnikit/fortls) - Fortran Language Server.
 - [The State of Fortran (2022)](https://arxiv.org/abs/2203.15110) ([HN](https://news.ycombinator.com/item?id=30935633))
 - [Fortran to WebAssembly](https://github.com/StarGate01/Full-Stack-Fortran)
+- [Operator precedence by textual substitution: Technique from early Fortran (2022)](https://www.kmjn.org/notes/operator_precedence_fortran.html)

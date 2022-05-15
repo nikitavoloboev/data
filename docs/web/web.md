@@ -409,3 +409,4 @@
 - [remark-oembed](https://github.com/agentofuser/remark-oembed) - Converts URLs surrounded by newlines into embeds.
 - [WinterCG](https://wintercg.org/) - Web-interoperable Runtimes Community Group. ([Code](https://github.com/wintercg/www))
 - [Atomic Router](https://github.com/Kelin2025/atomic-router) - Platform-agnostic router that does not break your architecture.
+- [What's new for the web platform (2022)](https://www.youtube.com/watch?v=5b4YcLB4DVI)

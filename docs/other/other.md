@@ -329,7 +329,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Glowing Bear](https://www.glowing-bear.org/) - WeeChat web frontend.
 - [Nord Themes](https://www.nordtheme.com/) - Arctic, north-bluish color palette.
 - [K-Stash](https://k-stash.com/) - Search engine for your useful links – for devs and researchers. ([HN](https://news.ycombinator.com/item?id=24314403))
-- [tilde.town](https://tilde.town/) - Intentional digital community for making art, socializing, and learning.
+- [tilde.town](https://tilde.town/) - Intentional digital community for making art, socializing, and learning. ([HN](https://news.ycombinator.com/item?id=31375646))
 - [press play to pause your thoughts](https://pressplaytopauseyourthoughts.com/)
 - [Recess](https://takearecess.com/) - Help people feel calm, focused, and creative despite the world around them.
 - [Big Desk Energy](https://www.bigdeskenergy.com/)

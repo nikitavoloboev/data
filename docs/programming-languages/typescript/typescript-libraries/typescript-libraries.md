@@ -510,6 +510,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Turbo Query](https://github.com/StudioLambda/TurboQuery) - Lightweight asynchronous data management.
 - [hi18n](https://github.com/wantedly/hi18n) - Message internationalization meets immutability and type-safety.
 - [FortuneSheet](https://github.com/ruilisi/fortune-sheet) - Drop-in JS spreadsheet library that provides rich features like Excel and Google Sheets.
+- [Yooda](https://github.com/ooade/yooda) - 600b validation library with custom handlers and messages.
 
 ## Links
 

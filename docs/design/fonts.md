@@ -361,3 +361,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Roboto but Make It Flex (2022)](https://material.io/blog/roboto-flex) ([HN](https://news.ycombinator.com/item?id=31290862))
 - [Yep, I created the new Avatar font](https://swelltype.com/yep-i-created-the-new-avatar-font/) ([HN](https://news.ycombinator.com/item?id=31316372))
 - [Introduction to variable fonts on the web (2022)](https://web.dev/variable-fonts/)
+- [GPU-Centered Font Rendering Directly from Glyph Outlines (2017)](https://jcgt.org/published/0006/02/02/paper.pdf)

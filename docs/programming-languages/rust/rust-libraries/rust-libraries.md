@@ -1867,6 +1867,7 @@
 - [async-executor](https://github.com/smol-rs/async-executor)
 - [Driveyard](https://github.com/driveyard/driveyard) - Tools for data-oriented programming.
 - [kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL.
+- [RustNet](https://github.com/revoltez/RustNet) - Fast and reactive distributed systems toolbox.
 
 ## Cargo Plugins
 
