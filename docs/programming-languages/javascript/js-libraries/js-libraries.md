@@ -172,6 +172,7 @@
 - [Quickgres](https://github.com/kig/quickgres) - Native-JS PostgreSQL client library.
 - [invert-kv](https://github.com/sindresorhus/invert-kv) - Invert the key/value of an object.
 - [HashQL](https://github.com/HashQL/HashQL) - Access DB from UI.
+- [heapify](https://github.com/luciopaiva/heapify) - Fastest JavaScript priority queue out there. Zero dependencies.
 
 ## React
 
@@ -924,6 +925,7 @@
 - [Piling.js](https://github.com/flekschas/piling.js) - General framework and library for exploring thousands of small multiples. ([Web](https://piling.js.org/))
 - [Draggable](https://github.com/Shopify/draggable) - Get complete control over drag and drop behavior.
 - [Cuberto Mouse Follower](https://github.com/Cuberto/mouse-follower) - Powerful JS library to create amazing and smooth effects for the mouse cursor on your website.
+- [delegate-it](https://github.com/fregante/delegate-it) - Lightweight event delegation.
 
 ## Links
 

@@ -266,3 +266,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Cronos](https://github.com/cronos-so/cronos) - Automate on-chain programs and schedule transactions directly with the Solana validator network. ([Web](https://www.cronos.so/))
 - [solana-deployer](https://github.com/acheroncrypto/solana-deployer) - Deploy your Solana programs during high load.
 - [Mogami](https://github.com/kin-labs/mogami) - Next generation API and SDK for Solana.
+- [Autopilot](https://github.com/Accrue-Finance/autopilot) - Moves your money around to get you the best yield in Solana.

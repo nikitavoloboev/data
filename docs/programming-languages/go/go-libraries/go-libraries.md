@@ -1640,6 +1640,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [lexmachine](https://github.com/timtadh/lexmachine) - Lexical Analysis Framework for Go.
 - [roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go.
 - [Quamina](https://github.com/timbray/quamina) - Fast pattern-matching library.
+- [notificator](https://github.com/0xAX/notificator) - Desktop notifications with Go.
 
 ## Links
 

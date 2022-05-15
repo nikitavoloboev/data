@@ -205,3 +205,4 @@ title: Type Theory
 - [Introductory resources to type theory for language implementers (2022)](https://www.haskellforall.com/2022/05/introductory-resources-to-type-theory.html) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/uhgl4o/introductory_resources_to_type_theory_for/))
 - [What is a type?](https://twitter.com/sliminality/status/1521546506452447233)
 - [Interactive Type Inference: Play with algorithm W in your browser](https://domdomegg.github.io/cs310/) ([Code](https://github.com/domdomegg/cs310))
+- [Stagedtt](https://github.com/RedPRL/stagedtt) - Staged Type Theory.
