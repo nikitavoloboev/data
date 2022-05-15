@@ -97,6 +97,7 @@
 - [Lux](https://github.com/avik-pal/Lux.jl) - Explicitly Parameterized Neural Networks in Julia.
 - [MuseInference.jl](https://github.com/marius311/MuseInference.jl) - Fast approximate high-dimensional hierarchical Bayesian inference.
 - [InferOpt.jl](https://github.com/axelparmentier/InferOpt.jl) - Combinatorial optimization layers for machine learning pipelines.
+- [ChainPlots](https://github.com/rmsrosa/ChainPlots.jl) - Visualization for Flux.Chain neural networks.
 
 ## Math
 
@@ -594,6 +595,7 @@
 - [SumTypes](https://github.com/MasonProtter/SumTypes.jl) - Implementation of sum types.
 - [JuliaPkg](https://github.com/cjdoris/pyjuliapkg) - Manage your Julia dependencies from Python.
 - [TableTransforms](https://github.com/JuliaML/TableTransforms.jl) - Transforms and pipelines with tabular data.
+- [EllipsisNotation.jl](https://github.com/ChrisRackauckas/EllipsisNotation.jl) - Implements the notation `..` for indexing arrays.
 
 ## Links
 

@@ -111,3 +111,4 @@ title: BitTorrent
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - Multi-platform, free software BitTorrent client that includes an integrated media player.
 - [Transmission Exporter for Prometheus](https://github.com/metalmatze/transmission-exporter)
 - [Torrents Api](https://github.com/Ryuk-me/Torrent-Api-py) - Unofficial API for various Torrent websites.
+- [Revenant](https://github.com/nikityy/revenant) - Cледим за раздачами на RuTracker для фильмов из списка на КиноПоиске.

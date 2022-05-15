@@ -88,3 +88,4 @@ title: TCP
 - [TCP Server GUI](https://github.com/AlexxNB/TCPServerGUI) - TCP Server with GUI to debug tcp connections.
 - [Accord](https://github.com/LoipesMas/accord) - Instant messaging chat system in Rust over TCP with encryption.
 - [Proximac](https://github.com/csujedihy/proximac) - Command-line open-source alternative to Proxifier. Force App to use SOCKS5 proxy.
+- [tsyncp](https://github.com/PoOnesNerfect/tsyncp) - Simple channel-like APIs over TCP streams for communications between rust services.

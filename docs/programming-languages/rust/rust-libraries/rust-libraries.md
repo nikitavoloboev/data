@@ -1868,6 +1868,7 @@
 - [Driveyard](https://github.com/driveyard/driveyard) - Tools for data-oriented programming.
 - [kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL.
 - [RustNet](https://github.com/revoltez/RustNet) - Fast and reactive distributed systems toolbox.
+- [audio](https://github.com/udoprog/audio) - Crate for working with audio in Rust.
 
 ## Cargo Plugins
 

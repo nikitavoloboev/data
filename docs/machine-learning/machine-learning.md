@@ -806,3 +806,4 @@
 - [Awesome Active Learning](https://github.com/baifanxxx/awesome-active-learning)
 - [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning (2022)](https://arxiv.org/abs/2205.05638) ([Code](https://github.com/r-three/t-few))
 - [Introduction to Diffusion Models for Machine Learning (2022)](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/) ([HN](https://news.ycombinator.com/item?id=31355812))
+- [BGU-CS-VIL/DeepDPM: "DeepDPM: Deep Clustering With An Unknown Number of Clusters" (2022)](https://arxiv.org/abs/2203.14309) ([Code](https://github.com/BGU-CS-VIL/DeepDPM))

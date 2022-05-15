@@ -255,3 +255,4 @@
 - [Tools we use to make our game satisfactory (2022)](https://www.youtube.com/watch?v=o6ao9-UIZIQ) ([HN](https://news.ycombinator.com/item?id=31037430))
 - [Fabricated](https://github.com/markusmoenig/Fabricated) - Procedural game asset generator for macOS and iOS.
 - [The Devs Were Pretty Smart To Come Up With This (2022)](https://www.youtube.com/watch?v=XNkijakpf9Y)
+- [CubbyFlow](https://github.com/CubbyFlow/CubbyFlow) - Voxel-based fluid simulation engine for computer games.
