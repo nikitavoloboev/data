@@ -44,3 +44,4 @@ title: Observability
 - [Hypertrace](https://www.hypertrace.org/) - Open source distributed tracing & observability platform. ([Code](https://github.com/hypertrace/hypertrace))
 - [Deepfence](https://deepfence.io/) - Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. ([Code](https://github.com/deepfence/ThreatMapper))
 - [AppScope](https://appscope.dev/) - General-Purpose Observable Application Telemetry System. ([Code](https://github.com/criblio/appscope))
+- [Observability is not only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres) ([HN](https://news.ycombinator.com/item?id=31387035))

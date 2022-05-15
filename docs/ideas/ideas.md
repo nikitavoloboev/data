@@ -128,3 +128,4 @@ I try to give my full attention to any ideas I am working on.
 - [Nailing Your First Launch – Adam Wathan (2018)](https://www.youtube.com/watch?v=ajrDxZRpP9M) ([Tweet](https://twitter.com/mpocock1/status/1507491400392318983))
 - [Ask HN: Have you created programs for only your personal use? (2022)](https://news.ycombinator.com/item?id=31018836)
 - [Ask HN: What small library or tool do you want that doesn’t exist? (2022)](https://news.ycombinator.com/item?id=31217300)
+- [Take my app ideas (2022)](https://austinhenley.com/blog/takemyappideas.html) ([HN](https://news.ycombinator.com/item?id=31368853))

@@ -122,3 +122,4 @@ title: Raspberry Pi
 - [External graphics cards work on the Raspberry Pi (2022)](https://www.jeffgeerling.com/blog/2022/external-graphics-cards-work-on-raspberry-pi) ([Lobsters](https://lobste.rs/s/ihxrlv/external_graphics_cards_work_on))
 - [Ask HN: Does anyone use a Raspberry Pi as your main computer? (2022)](https://news.ycombinator.com/item?id=31191817)
 - [Best Raspberry Pi Projects (2022)](https://www.tomshardware.com/features/best-raspberry-pi-projects) ([HN](https://news.ycombinator.com/item?id=31246337))
+- [Run your home on a Raspberry Pi (2022)](https://changelog.com/podcast/489) ([HN](https://news.ycombinator.com/item?id=31388870))
