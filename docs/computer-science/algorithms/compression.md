@@ -1,6 +1,6 @@
 # Compression
 
-[compress](https://github.com/klauspost/compress) is a nice Go package for compression.
+[compress](https://github.com/klauspost/compress) & [L4](https://github.com/pierrec/lz4) are nice Go packages for compression.
 
 ## Notes
 

@@ -115,3 +115,4 @@ Might give it a go sometime.
 - [First Steps with Nix - Building emacs (2021)](https://www.heinrichhartmann.com/posts/2021-08-08-nix-emacs/)
 - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html) ([HN](https://news.ycombinator.com/item?id=31320610))
 - [ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs.
+- [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/) ([HN](https://news.ycombinator.com/item?id=31394001))

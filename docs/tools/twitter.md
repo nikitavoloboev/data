@@ -192,3 +192,4 @@ I worry that if Elon Musk does take over Twitter, he will [start collaborating w
 - [Search your Twitter Bookmarks](https://github.com/twitterdev/bookmarks-search)
 - [Why Twitter is a Musk-Have (2022)](https://blog.lopp.net/why-twitter-musk-have/)
 - [Twitter Financial information](https://investor.twitterinc.com/financial-information/Additional-Information-and-Where-To-Find-It/default.aspx)
+- [Twitter Helper](https://github.com/ErikBjare/twitter-helper) - Figure out who you're following but not interacting with (no likes, replies, retweets).

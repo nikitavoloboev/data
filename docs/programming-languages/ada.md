@@ -36,3 +36,4 @@ title: Ada
 - [Augusta](https://github.com/pchapin/augusta) - Ada compiler in Scala.
 - [Ada Tutorial](https://github.com/pchapin/tutorialada)
 - [VSS](https://github.com/AdaCore/VSS) - High level string and text processing library.
+- [Ada Process API (spawn)](https://github.com/AdaCore/spawn) - Provides simple API to spawn processes and communicate with them.

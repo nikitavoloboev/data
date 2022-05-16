@@ -1,5 +1,7 @@
 # WebGL
 
+[WebGL2 Fundamentals](https://webgl2fundamentals.org/) is great read.
+
 ## Links
 
 - [Learn WebGL](http://learnwebgl.brown37.net/)

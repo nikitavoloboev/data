@@ -276,3 +276,4 @@ From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the c
 - [HN: UST Stablecoin Loses Dollar Peg (2022)](https://news.ycombinator.com/item?id=31321021)
 - [Cryptowatch](https://cryptowat.ch/) - Charting crypto markets in real time. ([GitHub](https://github.com/cryptowatch))
 - [Cautionary Tales from Cryptoland (2022)](https://hbr.org/2022/05/cautionary-tales-from-cryptoland)
+- [Computer Security 161 Cryptocurrency Lecture (2022)](https://www.youtube.com/watch?v=J9nv0Ol-R5Q)

@@ -495,3 +495,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Auto-Updating Materialized View in PostgreSQL (2022)](https://www.youtube.com/watch?v=GqODV9ATASU)
 - [Tgres](https://github.com/tgres/tgres) - Time Series in Go and PostgreSQL.
 - [Postgres-Extension.rs](https://github.com/thehydroimpulse/postgres-extension.rs) - Library to write Postgres extensions in Rust.
+- [Understand your systems like never before with traces and PostgreSQL (2022)](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/) ([HN](https://news.ycombinator.com/item?id=31397145))
+- [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication. ([Web](https://cloudnative-pg.io/))
+- [Postgres AST Deparser for Postgres](https://github.com/pyramation/postgres-ast-deparser) - Pure plpgsql AST toolkit and deparser for PostgreSQL.

@@ -394,3 +394,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Akita](https://docs.akita.software/) - Helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. ([CLI](https://github.com/akitasoftware/akita-cli))
 - [Public API Lists](https://github.com/public-api-lists/public-api-lists)
 - [Predator](https://github.com/Zooz/predator) - Powerful open-source platform for load testing APIs. ([Web](https://www.predator.dev/))
+- [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic.

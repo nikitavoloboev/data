@@ -32,6 +32,7 @@
 - [ElixirRetry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
 - [Webhoox](https://github.com/cpursley/webhoox) - Deal with inbound webhooks.
 - [Hologram](https://github.com/bartblast/hologram) - Full stack isomorphic Elixir web framework that can be used on top of Phoenix.
+- [EasyHTML](https://github.com/wojtekmach/easyhtml) - Makes it easy to work with HTML in Elixir.
 
 ## DB
 

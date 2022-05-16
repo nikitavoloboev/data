@@ -31,7 +31,8 @@ title: Research chemicals
 - [A Beginner's Guide to RC Psychedelics](https://www.reddit.com/r/researchchemicals/comments/7qep7b/a_beginners_guide_to_rc_psychedelics/)
 - [Ban RC in Netherlands, what substances you are going to stock up? (2019)](https://www.reddit.com/r/researchchemicals/comments/bhxh6o/ban_rc_in_netherlands_what_substances_you_are/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/cf4431/what_is_your_favorite_rc_and_why/)
-- [RareChems](https://rarechems.store/) - EU based supplier of research chemicals. [Was vendor of LizardLabs once](https://www.reddit.com/user/rarechems/comments/uo03fn/rarechems_collaboration_with_lizard_labs_is_over/).
+- [Lizard Labs](https://lizardlabs.eu/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds. ([Retailers](https://lizardlabs.eu/retailers/))
+- [Chem.eu](https://www.chem.eu/) - EU based supplier of research chemicals.
 - [RealChems](https://realchems.net/) - EU based supplier of research chemicals.
 - [Chemical Collective](https://chemical-collective.com/) - US-based supplier of research chemicals.
 - [RC FAQ & Resources](https://www.reddit.com/r/researchchemicals/comments/dchpr0/faq_resources/)
@@ -41,7 +42,6 @@ title: Research chemicals
 - [Most enjoyable RC's in your opinion? (2020)](https://www.reddit.com/r/researchchemicals/comments/ip4js0/most_enjoyable_rcs_in_your_opinion/)
 - [Why did you get the last chems you did? (2020)](https://www.reddit.com/r/researchchemicals/comments/irh069/why_did_you_get_the_last_chems_you_did/)
 - [Synex Synthetics](https://www.synexsynthetics.com/) - Chemical manufacturer providing specialist synthesis solutions to the global life science and chemical industries. Supply to [LizardLabs](https://lizardlabs.eu/).
-- [Lizard Labs](https://lizardlabs.eu/) - Wholesale supplier of novel lysergamides, tryptamines, phenethylamines and related compounds.
 - [Trusted RC Vendors](https://buy.research-chemicals.online/)
 - [David Nichols - Random Selections: From Research Tools to Research Chemicals (2015)](https://www.youtube.com/watch?v=iiYaFP6iQGg)
 - [I tried 122 drugs (all were lab tested) A.M.A. (2021)](https://www.reddit.com/r/researchchemicals/comments/mg03w7/i_tried_122_drugs_all_were_lab_tested_ama/)

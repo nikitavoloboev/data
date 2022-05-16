@@ -732,3 +732,5 @@ title: Kubernetes
 - [Envoy Gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
 - [Waiter](https://github.com/twosigma/waiter) - Runs, manages, and autoscales web services on Mesos and Kubernetes.
 - [Cook Scheduler](https://github.com/twosigma/Cook) - Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark.
+- [Parca Agent](https://github.com/parca-dev/parca-agent) - Always-on sampling profiler that uses eBPF to capture raw profiling data with very low overhead.
+- [WTH! Who killed my pod - Whodunit? (2021)](https://suneeta-mall.github.io/2021/03/14/wth-who-killed-my-pod.html)

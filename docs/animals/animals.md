@@ -42,6 +42,7 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [hedgehog dust-bathing](https://twitter.com/Rainmaker1973/status/1459931869110226951)
 - [foxes: us](https://twitter.com/qonqon_biyori/status/1459849427934269440)
 - [Katzen](https://twitter.com/alex_wohlrab/status/1512750950330642432)
+- [Baby ringed seal learning to swim](https://twitter.com/WholesomeMeme/status/1526155751638433792)
 
 ## Notes
 
@@ -133,3 +134,5 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [“Bambi” Is Even Bleaker Than You Thought](https://www.newyorker.com/magazine/2022/01/24/bambi-is-even-bleaker-than-you-thought) ([HN](https://news.ycombinator.com/item?id=31256823))
 - [How to resurrect a coral reef](https://www.vox.com/recode/23016412/coral-reef-restoration-climate-change) ([HN](https://news.ycombinator.com/item?id=31267214))
 - [Dog Aging Project](https://dogagingproject.org/)
+- [Cats learn the names of their friend cats in their daily lives (2022)](https://www.nature.com/articles/s41598-022-10261-5) ([HN](https://news.ycombinator.com/item?id=31396198)) ([Reddit](https://www.reddit.com/r/science/comments/uqqtmy/cats_learn_the_names_of_their_friend_cats_in/))
+- [What dogs can eat?](https://www.pawmenow.com/what-dogs-can-eat/) ([HN](https://news.ycombinator.com/item?id=31397635))

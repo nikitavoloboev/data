@@ -4,6 +4,10 @@ title: Julia
 
 # [Julia](https://julialang.org/)
 
+## Notes
+
+- [What's interesting about Julia is that because the code is all Julia, it's really easy to dig in there and find potential bugs. The standard library functions can be accessed with @edit sum(1:5) and there you go, hack away. The easier it is to look at the code, the easier it is to find issues with it.](https://news.ycombinator.com/item?id=31396861)
+
 ## Links
 
 - [XLA.jl](https://github.com/JuliaTPU/XLA.jl) - Julia on TPUs.
@@ -130,3 +134,4 @@ title: Julia
 - [Some special cases of method dispatch in Julia (2022)](https://bkamins.github.io/julialang/2022/04/15/dispatch.html) ([HN](https://news.ycombinator.com/item?id=31259615))
 - [minGPT in Julia using Flux! (2022)](https://cancandan.github.io/julia/flux/machine-learning/2022/03/30/mingpt-julia.html)
 - [Julia for Economists Bootcamp, 2022](https://github.com/cpfiffer/julia-bootcamp-2022)
+- [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/) ([HN](https://news.ycombinator.com/item?id=31396861))

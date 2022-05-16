@@ -217,3 +217,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Bear App](https://bear.app/) - Private Markdown Editor for iPhone, iPad and Mac. ([Bear Power Pack](https://github.com/sbusso/Bear-Power-Pack))
 - [Ask HN: Editing remote code locally: Best practices? (2022)](https://news.ycombinator.com/item?id=30987770)
 - [Creating a Rich Text Editor using Rust and React (2022)](https://fiberplane.dev/blog/creating-a-rich-text-editor-using-rust-and-react/)
+- [TextEditor](https://github.com/MasterQ32/TextEditor) - Backbone for text editors. No rendering, no input, but everything else. In Zig.

@@ -221,3 +221,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Host](https://github.com/georgewhewell/nixos-host)
 - [NixOS: Enabling LXD virtual machines using Flakes (2022)](https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/)
 - [ragenix](https://github.com/yaxitech/ragenix) - Provides age-encrypted secrets for NixOS systems which live in the Nix store and are decrypted on system activation.
+- [NixOS Raspberry Pi Cluster](https://github.com/hugolgst/nixos-raspberry-pi-cluster) - User-guide to create a Raspberry Pi (3B+, 4) cluster under NixOS and managed by NixOps.

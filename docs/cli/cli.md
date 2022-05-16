@@ -126,3 +126,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Hoard](https://github.com/Hyde46/hoard) - CLI command organizer written in rust.
 - [A Simple Ejectable CLI Pattern (2022)](https://hire.jonasgalvez.com.br/2022/mar/13/a-simple-ejectable-cli-pattern/)
 - [rush](https://github.com/thesephist/rush) - Command-line utility that lets you run one command on many files using a simple command template syntax.
+- [mprocs](https://github.com/pvolok/mprocs) - Runs multiple commands in parallel and shows output of each command separately.

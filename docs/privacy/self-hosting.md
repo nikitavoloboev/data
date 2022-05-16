@@ -31,3 +31,4 @@
 - [Self hosted tech starter pack for development of new project or startup](https://github.com/tldr-devops/startpack) ([HN](https://news.ycombinator.com/item?id=30871211))
 - [What are your Most Used Self Hosted Applications? (2022)](https://noted.lol/what-are-your-most-used-self-hosted-applications/) ([HN](https://news.ycombinator.com/item?id=31260061))
 - [Tipi](https://github.com/meienberger/runtipi) - Personal home server for everyone. ([Reddit](https://www.reddit.com/r/selfhosted/comments/uq5844/tipi_a_home_server_orchestrator_using_docker/))
+- [pinvault](https://github.com/raffomania/pinvault) - Personal, multi-media, distributed and social web archiving tool. Think Pinterest, mastodon, the internet archive and BitTorrent mashed up in a single app.

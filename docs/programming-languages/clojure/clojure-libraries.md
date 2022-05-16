@@ -223,6 +223,8 @@
 - [json-schema](https://github.com/luposlip/json-schema) - Clojure JSON Schema Validator & Generator.
 - [stringer](https://github.com/kumarshantanu/stringer) - Fast string operations for Clojure.
 - [structural](https://github.com/joinr/structural) - Destructuring plus type hinting for more performant clojure.
+- [tortilla](https://github.com/emlyn/tortilla) - Thin Clojure wrapper for Java APIs providing efficient and idiomatic interop.
+- [fitter](https://github.com/strojure/fitter) - System component management library for Clojure.
 
 ## Links
 

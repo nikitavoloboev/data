@@ -370,3 +370,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Starry Night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub.
 - [Wrong by Default (2022)](https://kevincox.ca/2022/05/13/wrong-by-default/)
 - [Code to Image Converter](https://codetoimg.com/) ([Code](https://github.com/rohidisdev/code-to-img))
+- [MLscript](https://github.com/hkust-taco/mlscript) - Principal Type Inference for Object-Oriented Programming in a Boolean Algebra of Types.
+- [Can you have too many programming language features? (2022)](https://www.thecodedmessage.com/posts/2022-05-11-programming-multiparadigm/)

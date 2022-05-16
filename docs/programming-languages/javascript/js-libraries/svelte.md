@@ -22,6 +22,7 @@ title: Svelte
 - [Todo With Svelte](https://github.com/appwrite/demo-todo-with-svelte) - Demo example for integrating between Appwrite & Svelte.
 - [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit.
 - [Storyblok Sveltekit example](https://github.com/jbruxelle/storyblok-sveltekit-example) - Using Sveltekit with Storyblok as a headless CMS. Queries are made using GraphQL and the kitQL library from jycouet.
+- [SvelteKit and Vendure Commerce example](https://github.com/spences10/sveltekit-vendure-commerce)
 
 ## Notes
 

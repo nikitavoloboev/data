@@ -169,3 +169,4 @@ title: Vue.js
 - [Vitesome](https://github.com/alvarosabu/vitesome) - Simple opinionated Vue Starter Template with Vite.js.
 - [Nuxt Image](https://github.com/nuxt/image) - Optimized Images for Nuxt.
 - [Vue k bar](https://github.com/bytebase/vue-kbar) - Extensible command+k interface for Vue 3 applications.
+- [Server functions RPC in client for Nuxt 3](https://github.com/antfu/nuxt-server-fn)

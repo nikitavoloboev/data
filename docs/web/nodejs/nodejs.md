@@ -388,3 +388,5 @@ title: Node.js
 - [esm-loader](https://github.com/esbuild-kit/esm-loader) - Node.js loader for compiling TypeScript modules to ESM.
 - [tsx](https://github.com/esbuild-kit/tsx) - Node.js runtime enhanced with esbuild for loading TypeScript & ESM.
 - [Node Task List](https://github.com/ruyadorno/ntl) - Interactive CLI to list and run package.json scripts.
+- [HatTip](https://github.com/hattipjs/hattip) - Like Express, but for the future.
+- [Sidewinder](https://github.com/sinclairzx81/sidewinder) - Type Safe Micro Services for Node.

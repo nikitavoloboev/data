@@ -352,3 +352,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Union and intersection contracts are hard, actually (2022)](https://www.tweag.io/blog/2022-04-28-union-intersection-contracts/)
 - [Proof of concept of a literate Nix flake](https://github.com/rossabaker/literate-flake)
 - [dev-container](https://github.com/jmgilman/dev-container) - devcontainer built on Debian and powered by Nix.
+- [nix-doc](https://github.com/lf-/nix-doc) - Interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script.

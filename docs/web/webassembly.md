@@ -312,3 +312,4 @@ title: WebAssembly
 - [Wizard Engine](https://github.com/titzer/wizard-engine) - Lightweight WebAssembly virtual machine designed for teaching and research.
 - [TWVM](https://github.com/Becavalier/TWVM) - Tiny, lightweight and efficient WebAssembly virtual machine.
 - [Fast WASM modules](https://github.com/evanwashere/wasm)
+- [WASI Sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets.

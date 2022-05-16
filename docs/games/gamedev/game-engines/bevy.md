@@ -7,6 +7,7 @@ title: Bevy Engine
 ## OSS Bevy apps
 
 - [Country Slice](https://github.com/anopara/country-slice) - Toy project, written in Rust language with Bevy's ECS and OpenGL (gl-rs and glutin).
+- [Rust Invaders](https://github.com/jeremychone-channel/rust-invaders) - Simple Rust game with the Bevy Engine.
 
 ## Links
 
@@ -38,3 +39,4 @@ title: Bevy Engine
 - [Bevy Debug Text Overlay](https://github.com/nicopap/bevy-debug-text-overlay) - Convenient on-screen message print macro for bevy.
 - [Bevy Inspector eGUI](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine.
 - [Shader Practice in Bevy](https://github.com/wilk10/shader_practice)
+- [Smooth Bevy Cameras](https://github.com/bonsairobo/smooth-bevy-cameras) - Bevy camera controllers with buttery, exponential smoothing.

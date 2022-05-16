@@ -28,3 +28,4 @@ title: FastAPI
 - [Flask vs FastAPI? (2022)](https://www.reddit.com/r/Python/comments/ujoggf/flask_vs_fastapi/)
 - [FastAPI Cloud Tasks](https://github.com/Adori/fastapi-cloud-tasks) - Strongly typed background tasks with FastAPI and Google CloudTasks.
 - [Example for FastAPI integration with SQLAlchemy ORM with PostgreSQL via asyncpg](https://github.com/grillazz/fastapi-sqlalchemy-asyncpg)
+- [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Configurable and modular Prometheus Instrumentator for your FastAPI.

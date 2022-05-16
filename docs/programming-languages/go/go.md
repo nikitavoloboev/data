@@ -777,3 +777,4 @@ if err != nil {
 - [Safer Enums in Go (2022)](https://npf.io/2022/05/safer-enums/) ([Lobsters](https://lobste.rs/s/mmp5em/safer_enums_go)) ([HN](https://news.ycombinator.com/item?id=31377025))
 - [Parallel tree running (2022)](https://flak.tedunangst.com/post/parallel-tree-running)
 - [Concurrency in Go resources](https://github.com/plagioriginal/concurrency-in-go)
+- [Calculating type sets is harder than you think (2022)](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/)

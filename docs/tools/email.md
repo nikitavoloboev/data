@@ -6,7 +6,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 [gmailctl](https://github.com/mbrt/gmailctl) is a useful tool for setting up email filters. I use [Postmark Email Templates](https://github.com/wildbit/postmark-templates) often.
 
-[Maizzle](https://maizzle.com/) & [Brail](https://github.com/sinclairnick/brail) are nice for writing out email templates.
+[Maizzle](https://maizzle.com/) & [Brail](https://github.com/sinclairnick/brail) are nice for writing out email templates. [Postal](https://github.com/postalserver/postal) is great too.
 
 ## Notes
 
@@ -247,3 +247,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Inbucket](https://github.com/inbucket/inbucket) - Disposable webmail server (similar to Mailinator) with built in SMTP, POP3, RESTful servers; no DB required. ([Web](https://www.inbucket.org/))
 - [go-mail](https://github.com/wneessen/go-mail) - Simple and easy way to send mails in Go.
 - [cmdg](https://github.com/ThomasHabets/cmdg) - Command line client to GMail.
+- [Postal](https://github.com/postalserver/postal) - Fully featured open source mail delivery platform for incoming & outgoing e-mail. ([Docs](https://docs.postalserver.io/)) ([Docs Code](https://github.com/postalserver/docs))
+- [Email Marketing Glossary](https://emailmarketingglossary.com/) - Guide to all the acronyms and terms in the email world you always wanted. ([Code](https://github.com/rodriguezcommaj/email-marketing-glossary))

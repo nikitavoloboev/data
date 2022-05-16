@@ -170,3 +170,4 @@ title: Genomics
 - [genomepy](https://github.com/vanheeringen-lab/genomepy) - Install and use genomes & gene annotations the easy way.
 - [sgkit](https://github.com/pystatgen/sgkit) - Statistical genetics toolkit in Python.
 - [Macrel](https://github.com/BigDataBiology/macrel) - Predict AMPs in (meta)genomes and peptides.
+- [Human genetic engineering is coming (2022)](https://www.theglobeandmail.com/opinion/article-human-genetic-engineering-is-coming-we-must-discuss-the-social-and/) ([HN](https://news.ycombinator.com/item?id=31382947))

@@ -426,3 +426,4 @@ title: Haskell
 - [Profiteur](https://github.com/jaspervdj/profiteur) - Visualizer for Haskell (GHC) prof files. ([Improving performance of your Haskell code with profiteur](https://medium.com/e-bot7-tech/improving-performance-of-your-haskell-code-with-profiteur-8d2e025b6779))
 - [Existential optics (2022)](https://www.tweag.io/blog/2022-05-05-existential-optics/)
 - [Haskell on a Shared-Memory Multiprocessor (2005)](https://simonmar.github.io/bib/papers/multiproc.pdf)
+- [Model Checking in Haskell, Part 1: Transition Systems and Invariants (2022)](https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html)

@@ -137,6 +137,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [assert](https://github.com/alecthomas/assert) - Simple assertion library using Go generics.
 - [DDD in Go](https://github.com/percybolmer/ddd-go)
 - [cover](https://github.com/nikandfor/cover) - Go cover tool for maximum productivity.
+- [testcase](https://github.com/adamluzsi/testcase) - Opinionated testing framework based on BDD principles.
 
 ## Web
 
@@ -352,6 +353,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 ## DB
 
+- [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - Flexible and powerful SQL string builder library plus a zero-config ORM.
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
 - [sqlingo](https://github.com/lqs/sqlingo) - Lightweight DSL & ORM which helps you to write SQL in Go.
 - [ArcticDB](https://github.com/polarsignals/arcticdb) - Embeddable columnar database written in Go. Features semi-structured schemas, and uses Apache Parquet for storage, and Apache Arrow at query time. ([Intro](https://www.polarsignals.com/blog/posts/2022/05/04/introducing-arcticdb/)) ([Tweet](https://twitter.com/PolarSignalsIO/status/1521852572717494272)) ([HN](https://news.ycombinator.com/item?id=31260597)) ([Lobsters](https://lobste.rs/s/ccla8l/arcticdb_columnar_database_for))
@@ -1642,6 +1644,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [roaring](https://github.com/RoaringBitmap/roaring) - Roaring bitmaps in Go.
 - [Quamina](https://github.com/timbray/quamina) - Fast pattern-matching library.
 - [notificator](https://github.com/0xAX/notificator) - Desktop notifications with Go.
+- [workerpool](https://github.com/cmitsakis/workerpool-go) - Worker pool library with auto-scaling, backpressure, and easy composability of pools into pipelines.
+- [xxHash](https://github.com/pierrec/xxHash) - Pure Go implementation of xxHash.
 
 ## Links
 

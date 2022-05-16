@@ -219,3 +219,4 @@ title: DNS
 - [Wildcard proxy for everyone (2022)](https://blog.cloudflare.com/wildcard-proxy-for-everyone/)
 - [HAnoProxY](https://github.com/Abbas-gheydi/hanoproxy) - DNS server offering proxyless high availability and load balancing for applications.
 - [KittenDNS](https://github.com/Fusion/kittendns) - Easy to setup, rule engine, LetsEncrypt compatible. ([HN](https://news.ycombinator.com/item?id=31391376))
+- [Tsein DNS](https://github.com/ClSlaid/TseinDNS) - Robust and high performance DNS resolver supporting multiple DNS protocols.

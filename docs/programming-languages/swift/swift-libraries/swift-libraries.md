@@ -1133,6 +1133,7 @@
 - [CertificateSigningRequest](https://github.com/cbaker6/CertificateSigningRequest) - Generate a certificate signing request (CSR) programmatically on iOS/macOS/watchOS/tvOS devices.
 - [HypervisorKit](https://github.com/spevans/hypervisor-kit) - Swift library providing an interface for writing X86 hypervisors on macOS (Hypervisor.framework) and Linux (KVM).
 - [WebPKit](https://github.com/TimOliver/WebPKit) - Framework that extends a variety of Cocoa APIs with capabilities for encoding and decoding WebP files for all of Apple's platforms.
+- [ActoCrawler](https://github.com/inamiy/ActoCrawler) - Swift Concurrency-powered crawler engine on top of Actomaton, with flexible customizability to create various HTML scrapers, image scrapers, etc.
 
 ## Other (not lib)
 

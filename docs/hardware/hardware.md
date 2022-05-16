@@ -328,3 +328,4 @@
 - [MEMS: The Second Silicon Revolution? (2022)](https://www.youtube.com/watch?v=RiRyap-EVg0)
 - [Retro-style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
 - [Framedeck](https://github.com/brickbots/framedeck) - Cyberdeck built with the framework mainboard.
+- [VoCore](https://vocore.io/) - Coin-Sized Linux Computer. ([HN](https://news.ycombinator.com/item?id=31395379))

@@ -581,3 +581,5 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [changelogd](https://github.com/harlan-zw/changelogd) - Aggressively find a packages changelog (or releases) between versions.
 - [module-extractor](https://github.com/aleclarson/module-extractor) - Extract a JS/TS module and its dependencies into a new package.
 - [DocGraph](https://github.com/souporserious/docgraph) - Topological documentation generator for JavaScript with first-class support for React.
+- [TypeScript SQL tagged template plugin](https://github.com/frigus02/typescript-sql-tagged-template-plugin) - TypeScript server plugin that adds type checking for SQL queries tagged with an sql function.
+- [suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add comments to suppress typescript type errors.

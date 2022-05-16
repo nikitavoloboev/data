@@ -233,3 +233,4 @@
 - [How to block domains from search results (2022)](https://www.lkhrs.com/blog/2022/04/block-domains-from-search/) ([HN](https://news.ycombinator.com/item?id=31271969))
 - [SEAL](https://github.com/facebookresearch/SEAL) - Search Engines with Autoregressive Language models.
 - [Oldest Search](https://www.oldestsearch.com/) - Search for the oldest result on internet.
+- [Search My Site](https://searchmysite.net/) - Open source search engine and search as a service for personal and independent websites. ([Code](https://github.com/searchmysite/searchmysite.net))

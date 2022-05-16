@@ -47,3 +47,4 @@ title: QUIC
 - [QUICHE](https://github.com/google/quiche) - Google's production-ready implementation of QUIC, HTTP/2, HTTP/3, and related protocols and tools.
 - [Illustrated QUIC Connection: Every byte explained](https://github.com/syncsynchalt/illustrated-quic)
 - [P2P-WebTransport](https://github.com/w3c/p2p-webtransport) - Interface to create and manage QUIC streams.
+- [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/rfc/rfc9250.html) ([HN](https://news.ycombinator.com/item?id=31380142))

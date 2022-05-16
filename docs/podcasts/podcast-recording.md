@@ -41,3 +41,4 @@
 - [Easiest way to record a podcast (with video for YouTube + separate, high-quality audio tracks)](https://twitter.com/mxstbr/status/1463124899044773894)
 - [My DIY Free Podcast Hosting Setup (2021)](https://www.charlieharrington.com/my-diy-free-podcast-hosting-setup)
 - [Podcasting Resources](https://github.com/filmgirl/podcasting-resources)
+- [So You Want To Make A Fiction Podcast? (2021)](http://www.0atman.com/articles/21/make-fiction-podcast)

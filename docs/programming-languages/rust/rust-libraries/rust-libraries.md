@@ -578,6 +578,7 @@
 - [Embedded-TLS](https://github.com/drogue-iot/embedded-tls) - Rust TLS 1.3 implementation for embedded devices.
 - [ESPMonitor](https://github.com/esp-rs/espmonitor) - Cargo tool for monitoring ESP32/ESP8266 execution.
 - [microbit](https://github.com/nrf-rs/microbit) - Rust crate for BBC micro:bit development.
+- [meadow](https://github.com/quietlychris/meadow) - Publish/request middleware for robotics applications, with a focus on ease-of-use.
 
 ## ML
 
@@ -706,6 +707,7 @@
 - [Pomelo](https://github.com/rodrigorc/pomelo) - Procedural macro to create Lemon-like parsers.
 - [proc-easy](https://github.com/zakarumych/proc-easy) - Macros to make writing proc-macro crates easy.
 - [rust-si](https://github.com/oli-obk/rust-si) - Rusty `scanf` (`scan!`) and inverse of `print!` (`read!`).
+- [fault-injection](https://github.com/komora-io/fault-injection) - Similar to the try! macro or ? operator, but externally controllable to inject faults during testing. ([Tweet](https://twitter.com/sadisticsystems/status/1526152556799479809))
 
 ## Math
 

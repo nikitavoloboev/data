@@ -121,3 +121,5 @@ title: Java
 - [Go's Concurrency Examples in Java 19 (2022)](https://mccue.dev/pages/5-2-22-go-concurrency-in-java) ([HN](https://news.ycombinator.com/item?id=31254005))
 - [Using Java's Project Loom to build more reliable distributed systems (2022)](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31314006))
 - [Wasmer Java](https://github.com/wasmerio/wasmer-java) - WebAssembly runtime for Java.
+- [Speeding Up Java Date Formatting With Code Generation (2022)](https://justinblank.com/experiments/speedingupdateformats.html)
+- [Justin Blank's Notebooks](https://justinblank.com/notebooks/)

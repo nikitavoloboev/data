@@ -226,6 +226,7 @@ title: GitHub actions
 - [Dependabot Auto Merge](https://github.com/ahmadnassri/action-dependabot-auto-merge) - Automatically merge Dependabot PRs when version comparison is within range.
 - [Create JSON](https://github.com/jsdaniell/create-json) - Create a .json file to use on other steps of the workflow.
 - [dependency-review-action](https://github.com/actions/dependency-review-action) - GitHub Action for detecting vulnerable dependencies in your PRs.
+- [GitHub Release On Push Action](https://github.com/rymndhng/release-on-push-action) - Github Action to create a git tag + release when pushed to main branch.
 
 ## Go
 
@@ -506,3 +507,4 @@ title: GitHub actions
 - [How we sharded our test suite for 10x faster runs on GitHub Actions (2022)](https://www.edgedb.com/blog/how-we-sharded-our-test-suite-for-10x-faster-runs-on-github-actions)
 - [Output and group custom Markdown content on the Actions run summary page (2022)](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
 - [GitHub Actions Security Best Practices (2022)](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
+- [Manual Workflow Approval](https://github.com/trstringer/manual-approval) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing.

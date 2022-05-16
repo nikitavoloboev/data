@@ -243,6 +243,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Alistair Shepherd](https://alistairshepherd.uk/)
 - [Surma](https://surma.dev/) ([Code](https://github.com/surma/surma.dev))
 - [Alain](https://alain.xyz/)
+- [SJ Zhang](https://www.sj.land/) ([Tweet](https://twitter.com/sjzhang_/status/1526189236084408324))
 - [Rauno Freiberg](https://rauno.me/)
 - [Monica Dinculescu](https://meowni.ca/)
 - [Nick Jones](https://narrowdesign.com/)

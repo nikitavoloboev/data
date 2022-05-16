@@ -77,3 +77,4 @@ title: Search Engine Optimization
 - [A Simple to Follow 6 Month SEO Plan](https://rankmakers.net/newsletter/6-month-seo-plan-issue-019/) ([HN](https://news.ycombinator.com/item?id=30647213))
 - [MarketRank: Anti-SEO Ranking Algorithm (2022)](https://dkb.io/post/market-rank) ([HN](https://news.ycombinator.com/item?id=30642387))
 - [Search Candy](https://www.searchcandy.uk/) - E-commerce SEO Consultancy.
+- [Almost all searches on my independent search engine are now from SEO spam bots (2022)](https://blog.searchmysite.net/posts/almost-all-searches-on-my-independent-search-engine-are-now-from-seo-spam-bots/) ([HN](https://news.ycombinator.com/item?id=31395231))

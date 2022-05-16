@@ -121,3 +121,4 @@
 - [Relationship extraction for knowledge graph creation from biomedical literature (2022)](https://arxiv.org/abs/2201.01647)
 - [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph)
 - [What if we had google maps but for navigating information space?](https://twitter.com/MatthewWSiu/status/1519906295603675143)
+- [OpenTapioca](https://github.com/wetneb/opentapioca) - Entity linking system for Wikidata updated by your edits in real time.

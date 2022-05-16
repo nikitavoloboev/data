@@ -15,3 +15,4 @@ title: Crystal
 - [Crystal 1.2.0 (2021)](https://crystal-lang.org/2021/10/14/1.2.0-released.html) ([HN](https://news.ycombinator.com/item?id=28872769))
 - [Ask HN: The Crystal programming language – what are your impressions? (2022)](https://news.ycombinator.com/item?id=31192826)
 - [Crystalline](https://github.com/elbywan/crystalline) - Language Server Protocol implementation for Crystal.
+- [DUO](https://github.com/azutoolkit/duo) - HTTP/2 Server written purely in Crystal.

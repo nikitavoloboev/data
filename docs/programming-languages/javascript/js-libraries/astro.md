@@ -26,3 +26,4 @@ title: Astro
 - [Astro.build Web Code](https://github.com/withastro/astro.build)
 - [Astro on Cloudflare Workers (2022)](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
 - [Build faster websites with Astro (2022)](https://www.youtube.com/watch?v=x3hiyWikdrE)
+- [Astro Collaborative Starter](https://github.com/CTNicholas/astro-collaborative-starter)

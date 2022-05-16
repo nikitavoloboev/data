@@ -90,3 +90,4 @@ title: Zero knowledge proofs
 - [Zero Knowledge Proofs of Knowledge (2016)](https://daniel.schemmel.net/post/2016/zero-knowledge-proofs-of-knowledge/)
 - [zkPairing](https://github.com/yi-sun/circom-pairing) - Proof-of-concept implementations of elliptic curve pairings (in particular, the optimal Ate pairing and Tate pairing) for the BLS12-381 curve in circom.
 - [What are Zero Knowledge Proofs (ZKPs), and how are they changing blockchain forever?](https://twitter.com/BarryFried1/status/1511742345053900800)
+- [boo-hoo](https://github.com/cronokirby/boo-hoo) - Library for Non-Interactive Zero-Knowledge Proofs of Knowledge (NIZKPoKs) for boolean circuits.

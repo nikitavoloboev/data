@@ -181,3 +181,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Post-Incident Review on the Atlassian April 2022 Outage](https://www.atlassian.com/engineering/post-incident-review-april-2022-outage) ([Lobsters](https://lobste.rs/s/0zqnvu/post_incident_review_on_atlassian_april)) ([HN](https://news.ycombinator.com/item?id=31210469))
 - [Founding Uber SRE](https://lethain.com/founding-uber-sre/) ([HN](https://news.ycombinator.com/item?id=31199551))
 - [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)
+- [How we deploy to production over 100 times a day (2022)](https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day)
