@@ -181,3 +181,4 @@
 - [Mastering Embedded Linux series](https://www.thirtythreeforty.net/series/mastering-embedded-linux/)
 - [My Business Card Runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) ([HN](https://news.ycombinator.com/item?id=21871026)) ([Code](https://github.com/thirtythreeforty/businesscard-linux))
 - [Genimage](https://github.com/pengutronix/genimage) - Tool to generate multiple file system and flash images from a tree.
+- [fiano](https://github.com/linuxboot/fiano) - Go-based tools for modifying UEFI firmware.

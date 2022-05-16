@@ -705,6 +705,7 @@
 - [inline-proc](https://github.com/SabrinaJewson/inline-proc) - Inline procedural macros for Rust.
 - [Pomelo](https://github.com/rodrigorc/pomelo) - Procedural macro to create Lemon-like parsers.
 - [proc-easy](https://github.com/zakarumych/proc-easy) - Macros to make writing proc-macro crates easy.
+- [rust-si](https://github.com/oli-obk/rust-si) - Rusty `scanf` (`scan!`) and inverse of `print!` (`read!`).
 
 ## Math
 

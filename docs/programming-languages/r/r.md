@@ -161,3 +161,6 @@
 - [naniar](https://github.com/njtierney/naniar) - Tidy data structures, summaries, and visualizations for missing data.
 - [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualization of Data.
 - [RMarkdown for Scientists](https://rmd4sci.njtierney.com/) ([Code](https://github.com/njtierney/rmd4sci))
+- [fledge](https://github.com/cynkra/fledge) - Streamline the process of versioning R packages and updating NEWS.
+- [skimr](https://github.com/ropensci/skimr) - Frictionless, pipeable approach to dealing with summary statistics.
+- [swiftr](https://github.com/hrbrmstr/swiftr) - Seamless R and Swift Integration.

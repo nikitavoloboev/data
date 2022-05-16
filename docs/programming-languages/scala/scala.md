@@ -161,3 +161,4 @@ title: Scala
 - [Querying Like It's Tomorrow by Alexander Ioffe (2022)](https://www.youtube.com/watch?v=PIu6YH2DVZM)
 - [Scastie](https://scastie.scala-lang.org/) - Interactive playground for Scala. ([Code](https://github.com/scalacenter/scastie))
 - [Scala Bootcamp](https://github.com/evolution-gaming/scala-bootcamp)
+- [Tree sitter grammar for Scala 2/3](https://github.com/susliko/tree-sitter-scala)

@@ -264,6 +264,7 @@
 - [async-solipsism](https://github.com/bmerry/async-solipsism) - Provide a Python asyncio event loop that does not interact with the outside world at all.
 - [pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose) - Spin up Docker containers during your integration tests automatically.
 - [pytest-memray](https://github.com/bloomberg/pytest-memray) - Pytest plugin for easy integration of memray.
+- [marbles](https://github.com/twosigma/marbles) - Read better test failures.
 
 ## Error
 

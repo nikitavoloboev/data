@@ -262,3 +262,4 @@ title: React Native
 - [Babylon React Native](https://github.com/BabylonJS/BabylonReactNative) - Build React Native applications with the power of Babylon Native.
 - [React Native JSI Base Coder](https://github.com/jeremybarbet/react-native-jsi-base-coder) - Base64/32/16 encoding/decoding for React Native written in C/C++ and JSI.
 - [React Native News & Tips Community / Twitter](https://twitter.com/i/communities/1509407040095068166)
+- [Stickyheader.js](https://github.com/netguru/sticky-parallax-header) - Simple React Native library, enabling to create a fully custom header for your iOS and Android apps.

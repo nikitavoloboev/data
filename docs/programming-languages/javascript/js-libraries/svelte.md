@@ -254,3 +254,4 @@ title: Svelte
 - [Svelte Subscribe](https://github.com/bryanmylee/svelte-subscribe) - Subscribe to non top-level stores in your Svelte template.
 - [Svelte WebSocket Store](https://github.com/arlac77/svelte-websocket-store) - Svelte store with a WebSocket backend.
 - [SvelteKit with Tailwind CSS (2021)](https://linu.us/sveltekit-with-tailwindcss-v3)
+- [Vite Svelte plugin to remove console logs in prod](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover)

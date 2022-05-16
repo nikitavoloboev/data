@@ -129,3 +129,4 @@ title: OCaml
 - [Everything in OCaml, a blog generated and served in OCaml using MirageOS](https://blog.osau.re/articles/blog_requiem.html)
 - [HN: New OCaml Website (2022)](https://news.ycombinator.com/item?id=31205519)
 - [What I wish I knew when learning OCaml (2018)](https://baturin.org/docs/ocaml-faq/) ([HN](https://news.ycombinator.com/item?id=31219552))
+- [MiniML](https://github.com/cmaes/miniml) - Compiler for a subset of the ML (really OCaml) language. LLVM is used as a backend.

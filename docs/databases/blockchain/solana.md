@@ -267,3 +267,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [solana-deployer](https://github.com/acheroncrypto/solana-deployer) - Deploy your Solana programs during high load.
 - [Mogami](https://github.com/kin-labs/mogami) - Next generation API and SDK for Solana.
 - [Autopilot](https://github.com/Accrue-Finance/autopilot) - Moves your money around to get you the best yield in Solana.
+- [Proof of concept program for compressing NFTs](https://github.com/jarry-xiao/candyland)

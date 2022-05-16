@@ -93,3 +93,4 @@ title: Agda
 - [Non-dependent and dependent lenses](https://github.com/nad/dependent-lenses)
 - [Meta Cedille](https://github.com/WhatisRT/meta-cedille) - Minimalistic dependent type theory with syntactic metaprogramming.
 - [Fragment](https://github.com/frex-project/agda-fragment) - Algebraic proof discovery in Agda.
+- [Theory of algebraic graphs formalized in Agda](https://github.com/algebraic-graphs/agda)

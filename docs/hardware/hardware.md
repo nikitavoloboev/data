@@ -327,3 +327,4 @@
 - [DuPont and “DuPont” connectors, and how to crimp them properly (2021)](http://www.mattmillman.com/info/crimpconnectors/dupont-and-dupont-connectors/)
 - [MEMS: The Second Silicon Revolution? (2022)](https://www.youtube.com/watch?v=RiRyap-EVg0)
 - [Retro-style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
+- [Framedeck](https://github.com/brickbots/framedeck) - Cyberdeck built with the framework mainboard.

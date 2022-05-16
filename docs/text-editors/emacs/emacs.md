@@ -12,6 +12,7 @@ Might give it a go sometime.
 
 ## Interesting configs
 
+- [Musa Al-hassy](https://github.com/alhassy/emacs.d)
 - [Radian](https://github.com/raxod502/radian) - Dotfiles that marry elegance and practicality.
 - [Rakhim](https://github.com/freetonik/emacs-dotfiles)
 - [Gregory Stein](https://github.com/gjstein/emacs.d)
@@ -113,3 +114,4 @@ Might give it a go sometime.
 - [Emacs Configuration Generator](https://emacs.amodernist.com/) ([HN](https://news.ycombinator.com/item?id=31083515))
 - [First Steps with Nix - Building emacs (2021)](https://www.heinrichhartmann.com/posts/2021-08-08-nix-emacs/)
 - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html) ([HN](https://news.ycombinator.com/item?id=31320610))
+- [ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs.

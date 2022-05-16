@@ -730,3 +730,5 @@ title: Kubernetes
 - [Kedro Airflow K8S Plugin](https://github.com/getindata/kedro-airflow-k8s) - Kedro Plugin to support running pipelines on Kubernetes using Airflow.
 - [Tekton Triggers](https://github.com/tektoncd/triggers) - Kubernetes Custom Resource Definition (CRD) controller that allows you to create Kubernetes resources based on information it extracts from event payloads.
 - [Envoy Gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway.
+- [Waiter](https://github.com/twosigma/waiter) - Runs, manages, and autoscales web services on Mesos and Kubernetes.
+- [Cook Scheduler](https://github.com/twosigma/Cook) - Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark.

@@ -493,6 +493,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go ORM Benchmarks](https://github.com/efectn/go-orm-benchmarks) - Advanced benchmarks for +10 Go ORMs.
 - [go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph APIs.
 - [sqlf](https://github.com/leporo/sqlf) - Fast SQL query builder for Go.
+- [DBX](https://github.com/storj/dbx) - Tool to generate database schemas and code to operate with it. Currently generates Go bindings to Postgres and/or SQLite.
 
 ## ML
 

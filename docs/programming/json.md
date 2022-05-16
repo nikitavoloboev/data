@@ -137,3 +137,4 @@ title: JSON
 - [Bunker](https://github.com/digital-loukoum/bunker) - Fast and compact JSON alternative to store and share data in a binary format with a friendly API.
 - [JSON Patch](http://jsonpatch.com/) ([HN](https://news.ycombinator.com/item?id=31301627))
 - [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
+- [JDOT](https://github.com/saulpw/jdot) - JSON minus Notation plus Macros.

@@ -188,6 +188,8 @@
 - [Telemetria](https://github.com/am-kantox/telemetria) - Helper application that simplifies and standardizes telemetry usage.
 - [Swarm](https://github.com/bitwalker/swarm) - Easy clustering, registration, and distribution of worker processes for Erlang/Elixir.
 - [Decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic.
+- [Ravenx](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
+- [Notifiex](https://github.com/burntcarrot/notifiex) - Simple Elixir library for sending notifications to various messaging services.
 
 ## Links
 

@@ -580,3 +580,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [tsukuru](https://github.com/d-fischer/tsukuru) - Build a TypeScript package that's compatible with both CommonJS and ES Modules.
 - [changelogd](https://github.com/harlan-zw/changelogd) - Aggressively find a packages changelog (or releases) between versions.
 - [module-extractor](https://github.com/aleclarson/module-extractor) - Extract a JS/TS module and its dependencies into a new package.
+- [DocGraph](https://github.com/souporserious/docgraph) - Topological documentation generator for JavaScript with first-class support for React.

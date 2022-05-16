@@ -467,3 +467,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Lua language, patched so it can be called from iOS apps](https://github.com/holzschu/lua_ios)
 - [A Best-in-Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/) ([Tweet](https://twitter.com/JordanMorgan10/status/1521477940625694731))
 - [FrenchKit](https://frenchkit.fr/) - Cocoa developer conference in Paris. ([Twitter](https://twitter.com/frenchkitconf))
+- [Why is MMVM the preferred design architecture for iOS apps? (2022)](https://www.reddit.com/r/iOSProgramming/comments/uqeibw/why_is_mmvm_the_preferred_design_architecture_for/)

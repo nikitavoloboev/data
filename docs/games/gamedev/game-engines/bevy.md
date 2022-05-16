@@ -37,3 +37,4 @@ title: Bevy Engine
 - [Bevy Polyline](https://github.com/ForesightMiningSoftwareCorporation/bevy_polyline) - High performance instanced polyline rendering for bevy.
 - [Bevy Debug Text Overlay](https://github.com/nicopap/bevy-debug-text-overlay) - Convenient on-screen message print macro for bevy.
 - [Bevy Inspector eGUI](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine.
+- [Shader Practice in Bevy](https://github.com/wilk10/shader_practice)

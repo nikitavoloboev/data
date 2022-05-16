@@ -113,3 +113,4 @@
 - [Graph Attention Networks (2018)](https://arxiv.org/abs/1710.10903) ([Code](https://github.com/PetarV-/GAT))
 - [Directed Acyclic Graph Neural Networks (2022)](https://openreview.net/forum?id=JbuYF437WB6) ([Code](https://github.com/vthost/DAGNN))
 - [Expressive GNNs and How To Tame Them (2022)](https://rish-16.github.io/posts/expressive-gnns/) ([Tweet](https://twitter.com/rishabh16_/status/1523223590346272768))
+- [Automated Self-Supervised Learning for Graphs (2022)](https://arxiv.org/abs/2106.05470) ([Code](https://github.com/ChandlerBang/AutoSSL))

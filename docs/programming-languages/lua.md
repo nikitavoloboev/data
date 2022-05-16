@@ -125,3 +125,4 @@ title: Lua
 - [Lume](https://github.com/rxi/lume) - Lua functions geared towards game dev.
 - [LDoc](https://github.com/lunarmodules/LDoc) - Lua Documentation Tool.
 - [Hive](https://github.com/hackerer1c/hive) - Lua microservices framework written in Rust.
+- [lua-graph](https://github.com/chen0040/lua-graph) - Graph algorithms in Lua.

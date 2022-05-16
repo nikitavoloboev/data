@@ -1198,3 +1198,4 @@
 - [Swift Documentation Extract](https://github.com/swift-biome/swift-documentation-extract) - SPM plugin for generating symbolgraphs and cataloging DocC documentation.
 - [Data Caching with NSCache (2021)](https://mattrighetti.com/2021/06/16/data-caching-nscache.html)
 - [xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support.
+- [Core Image by Example](https://github.com/frankschlegel/core-image-by-example) - Hands-on approach for getting to know all things Apple's Core Image framework can do.

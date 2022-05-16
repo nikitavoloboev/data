@@ -216,3 +216,4 @@
 - [Life of a Pixel (2020)](https://www.youtube.com/watch?v=K2QHdgAKP-s)
 - [UA gotta be kidding (2022)](https://bkardell.com/blog/UAGottaBeKidding.html) ([Lobsters](https://lobste.rs/s/wpxdqi/ua_gotta_be_kidding))
 - [Bringing page transitions to the web (2022)](https://www.youtube.com/watch?v=JCJUPJ_zDQ4)
+- [Websites that are pushing the utility of browsers forward (2022)](https://news.ycombinator.com/item?id=31393437)

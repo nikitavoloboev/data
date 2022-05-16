@@ -41,3 +41,4 @@ I am curious what society where everyone agreed to use only anonymous currencies
 - [Go Monero RPC Client](https://github.com/monero-ecosystem/go-monero-rpc-client)
 - [Detecting Monero miners with bpftrace (2022)](https://blog.px.dev/detect-monero-miners/)
 - [Mithril](https://github.com/Ragnaroek/mithril) - Pure Rust Monero Miner.
+- [Big Monero communities (2022)](https://www.reddit.com/r/Monero/comments/uq5fpn/is_there_a_bigger_monero_forum_somewhere_else_or/)

@@ -785,3 +785,4 @@ title: Rust
 - [Puzzling Strong Updates in Rust (2022)](https://whileydave.com/2022/04/27/puzzling-strong-updates-in-rust/)
 - [Rust from 0 to 80% for JavaScript Developers (2022)](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/) ([HN](https://news.ycombinator.com/item?id=31220791))
 - [Comparing Rust supply chain safety tools (2022)](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/) ([Lobsters](https://lobste.rs/s/sqw0j5/comparing_rust_supply_chain_safety_tools))
+- [Rust grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-rust)

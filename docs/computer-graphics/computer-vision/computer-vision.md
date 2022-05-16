@@ -757,3 +757,5 @@
 - [Integrative Few-Shot Learning for Classification and Segmentation (2022)](https://arxiv.org/abs/2203.15712) ([Code](https://github.com/dahyun-kang/ifsl))
 - [DeltaConv: Anisotropic Geometric Deep Learning with Exterior Calculus (2022)](https://arxiv.org/abs/2111.08799) ([Code](https://github.com/rubenwiersma/deltaconv))
 - [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis (2021)](https://arxiv.org/abs/2012.00926) ([Code](https://github.com/lucidrains/pi-GAN-pytorch))
+- [Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (2022)](https://arxiv.org/abs/2202.03052) ([Code](https://github.com/OFA-Sys/OFA))
+- [ConvMAE: Masked Convolution Meets Masked Autoencoders (2022)](https://arxiv.org/abs/2205.03892) ([Code](https://github.com/Alpha-VL/ConvMAE))

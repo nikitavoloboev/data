@@ -84,3 +84,4 @@ title: Nginx
 - [Lua Resty Redis Connector](https://github.com/ledgetech/lua-resty-redis-connector) - Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel.
 - [Tailscale Authentication for NGINX (2022)](https://tailscale.com/blog/tailscale-auth-nginx/) ([HN](https://news.ycombinator.com/item?id=31274544))
 - [Crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
+- [Nginx Language Server](https://github.com/pappasam/nginx-language-server)
