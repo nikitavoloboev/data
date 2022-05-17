@@ -294,6 +294,7 @@
 - [InfluxDBClient-rs](https://github.com/driftluo/InfluxDBClient-rs) - Easy-use client to InfluxDB.
 - [Cornucopia](https://github.com/LouisGariepy/cornucopia) - Generate type-checked Rust from your PostgreSQL.
 - [marble](https://github.com/komora-io/marble) - Garbage-collecting disk-based object-store.
+- [dilemma](https://github.com/davidpdrsn/dilemma) - SQL query builder favoring composition over compile time safety.
 
 ## Video
 
@@ -599,6 +600,7 @@
 - [video-toolbox-sys](https://github.com/bschwind/video-toolbox-sys) - Rust bindings to Apple's Video Toolbox framework.
 - [Rust AutoML](https://github.com/cmccomb/rust-automl) - Automated Machine Learning in Rust.
 - [Orkhon](https://github.com/vertexclique/orkhon) - ML Inference Framework and Server Runtime.
+- [kornia-rs](https://github.com/kornia/kornia-rs) - Low level implementations for computer vision in Rust.
 
 ## macOS
 

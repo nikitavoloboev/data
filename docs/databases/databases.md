@@ -578,7 +578,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [A Gentle Introduction to Vector Databases (2021)](https://frankzliu.com/blog/a-gentle-introduction-to-vector-databases)
 - [Exploring a database with Datasette](https://datasette.io/tutorials/explore)
 - [Have you tried rubbing a database on it?](https://www.hytradboi.com/)
-- [Building data-centric apps with a reactive relational database (2022)](https://riffle.systems/essays/prelude/) ([Tweet](https://twitter.com/nschiefer/status/1499075134715531266)) ([Tweet](https://twitter.com/geoffreylitt/status/1499083601387864069))
+- [Building data-centric apps with a reactive relational database (2022)](https://riffle.systems/essays/prelude/) ([Tweet](https://twitter.com/nschiefer/status/1499075134715531266)) ([Tweet](https://twitter.com/geoffreylitt/status/1499083601387864069)) ([Tweet](https://twitter.com/devongovett/status/1526225850739347458))
 - [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work) ([HN](https://news.ycombinator.com/item?id=30594233))
 - [Database Naming Convention](https://github.com/RootSoft/Database-Naming-Convention)
 - [RepliByte](https://github.com/Qovery/replibyte) - Tool to seed your dev database with real data. ([HN](https://news.ycombinator.com/item?id=31165538))
@@ -606,3 +606,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Database access optimization | Django Docs](https://docs.djangoproject.com/en/4.0/topics/db/optimization/)
 - [Getting started with database development (2022)](https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/)
 - [Ask HN: Free and open source distributed database written in C++ or C (2022)](https://news.ycombinator.com/item?id=31386533)
+- [Creating Distributed KV Database by Implementing Raft Consensus Using Go (2020)](https://yusufs.medium.com/creating-distributed-kv-database-by-implementing-raft-consensus-using-golang-d0884eef2e28)

@@ -156,3 +156,4 @@ title: Erlang
 - [erl_rpc](https://github.com/sile/erl_rpc) - Erlang RPC Client for Rust.
 - [Partisan](https://github.com/lasp-lang/partisan) - Flexible, TCP-based membership system for Erlang/Elixir.
 - [Is Erlang an albatross to Elixir adoption? (2022)](https://news.ycombinator.com/item?id=31314274)
+- [nuntius](https://github.com/2Latinos/nuntius) - Erlang/OTP library to mock registered processes.

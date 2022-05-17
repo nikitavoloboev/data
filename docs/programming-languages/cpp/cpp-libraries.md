@@ -398,6 +398,7 @@
 - [libassert](https://github.com/jeremy-rifkin/libassert) - Most over-engineered and overpowered C++ assertion library.
 - [MIPP](https://github.com/aff3ct/MIPP) - Portable and Open-source wrapper for vector intrinsic functions (SIMD) written in C++11.
 - [Flat](https://github.com/pubby/flat) - Flat containers for C++.
+- [AnyAny](https://github.com/kelbon/AnyAny) - C++20 library for comfortable and efficient dynamic polymorphism.
 
 ## Links
 

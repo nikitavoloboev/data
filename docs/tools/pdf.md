@@ -63,3 +63,4 @@
 - [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/) - OCR your PDF fast. ([Reddit](https://www.reddit.com/r/linux/comments/ukjocu/if_you_want_to_ocr_your_pdf_the_fastest_easiest/))
 - [Converts PDFs to dark mode](https://dark-mode-pdf.portals.sh/) ([Code](https://github.com/jc9108/dark-mode-pdf))
 - [Scholar Reader](https://github.com/allenai/scholarphi) - User interface, API, and data processing scripts for an augmented PDF reader application.
+- [Pdfmake-wrapper](https://github.com/Lugriz/pdfmake-wrapper) - Generate PDF documents in an easy and readable way.

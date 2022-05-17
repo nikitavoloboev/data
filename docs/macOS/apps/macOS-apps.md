@@ -198,6 +198,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [SF Menu Bar](https://apps.apple.com/app/id1615595104) - Browse Apple's collection of over 3,300 SF Symbols and quickly copy a symbol's name to the clipboard.
 - [Couverture](https://ixeau.com/couverture/) - Easing Curve Editor.
 - [Muzzle](https://muzzleapp.com/) - Silence embarrassing notifications.
+- [Bike](https://www.hogbaysoftware.com/bike/) - macOS Native Outliner. ([HN](https://news.ycombinator.com/item?id=31409077))
 
 ## Links
 

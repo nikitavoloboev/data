@@ -37,6 +37,8 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [The way I approach policy—what creates systemic risk to our country? My biggest concern is the demographic crisis: too few people having kids, causing fiscal insolvency. If that means subsidizing childcare & parental leave, then we have to do it.](https://twitter.com/nikitabier/status/1491847339715092521)
 - [The state will never be better than we require it to be.](https://twitter.com/Snowden/status/1493646944094371842)
 - [Democracy guarantees regular small revolutions instead of occasional big ones.](https://twitter.com/paulg/status/1509302933464178697)
+- [Corporate tax rates should 0%. All corporate profit is eventually subject to individual taxes: 1: Stock gains? Cap gains taxes. 2: Stock buy back? Cap gains taxes. 3: Dividends? Income tax. 4: Higher pay? Income tax. Companies would move their HQs and reshore boatloads of cash.](https://twitter.com/ikirigin/status/1525477426393821185)
+- [No taxes. Except a 99% inheritance tax for anything over $10m. Keep the money in the hands of people who've proven to be world-class capital allocators.](https://twitter.com/maccaw/status/1525483183071891457)
 
 ## Links
 

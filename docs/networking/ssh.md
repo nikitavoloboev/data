@@ -119,3 +119,4 @@
 - [sshconf](https://github.com/sorend/sshconf) - SSH configuration reading and modification library in Python.
 - [Working Remotely? Pair SSH with Teleport (2022)](https://haydenjames.io/working-remotely-pair-ssh-with-teleport/) ([HN](https://news.ycombinator.com/item?id=31061905))
 - [SSH SOCKS proxy but it's Tailscale (2022)](https://blog.shalman.org/ssh-socks-proxy-but-its-tailscale/)
+- [Scriptable SSH through OpenSSH](https://github.com/openssh-rust/openssh)

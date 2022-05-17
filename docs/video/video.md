@@ -356,3 +356,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Neolink](https://github.com/thirtythreeforty/neolink) - Small program that acts as a proxy between Reolink IP cameras and normal RTSP clients.
 - [Teres](https://github.com/animafps/teres) - Easily and efficiently add motion blur and or frame rate to videos through frame blending and interpolation.
 - [FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer) - Simple FFmpeg video player.
+- [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework) - Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions.

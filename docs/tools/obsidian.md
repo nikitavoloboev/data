@@ -124,6 +124,7 @@ title: Obsidian
 - [Obsidian Text Snippets Plugin](https://github.com/ArianaKhit/text-snippets-obsidian)
 - [Obsidian Image Gallery](https://github.com/lucaorio/obsidian-image-gallery) - Zero setup masonry image gallery for Obsidian.
 - [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync)
+- [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) - Use a leader-key (tmux style) for hotkeys in Obsidian.
 
 ## Themes
 

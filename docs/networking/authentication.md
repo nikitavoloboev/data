@@ -149,7 +149,7 @@
 - [jwx](https://github.com/lestrrat-go/jwx) - Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies.
 - [Tekitoi](https://github.com/jdrouet/tekitoi) - Lightweight, opensource and simple to use alternative to Auth0 and Keycloak.
 - [SAML is insecure by design (2021)](https://joonas.fi/2021/08/saml-is-insecure-by-design/) ([HN](https://news.ycombinator.com/item?id=28064835))
-- [ZITADEL](https://zitadel.ch/) - Secure Login and Access for your projects. ([Code](https://github.com/caos/zitadel))
+- [ZITADEL](https://zitadel.com/) - Best of Auth0 and Keycloak combined. Built for the serverless era. ([Code](https://github.com/zitadel/zitadel))
 - [Biscuit](https://github.com/CleverCloud/biscuit) - Delegated, decentralized, capabilities based authorization token.
 - [How does Google Authenticator work? (2021)](https://prezu.ca/post/2021-07-30-totp-1/) ([HN](https://news.ycombinator.com/item?id=28324626))
 - [Ethereum Single Sign-On (2021)](https://twitter.com/parkerhendo/status/1435033726136700934)

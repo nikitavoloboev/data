@@ -150,7 +150,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [miku](https://github.com/NinoDiscord/miku) - Tiny, stateless microservice to notify that your Discord bot is going under maintenance, made in Go.
 - [Valkyrie](https://github.com/sentrionic/Valkyrie) - Discord clone using React and Go.
 - [Discord Tauri](https://github.com/DiscordTauri/discord-tauri) - Lightweight Discord wrapper made in Tauri.
-- [Swiftcord](https://github.com/cryptoAlgorithm/Swiftcord) - Completely native Discord client for macOS built 100% in Swift and SwiftUI.
+- [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - Completely native Discord client for macOS built 100% in Swift and SwiftUI.
 - [Sentry Webhook](https://github.com/auguwu/sentry-webhook) - Simple webhook worker for Sentry to output events in a Discord channel.
 - [How I Built A Discord Bot with TypeScript, Node.js, PlanetScale, Prisma, and Heroku (2022)](https://www.youtube.com/watch?v=Wtqq0-yYKps)
 - [Enmity](https://github.com/enmity-mod/enmity) - iOS Discord client modification.
@@ -160,3 +160,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [CloudStorm](https://github.com/DasWolke/CloudStorm) - Modular discord gateway library for microservice oriented bots.
 - [Discord API Types](https://github.com/discordjs/discord-api-types) - Up to date Discord API Typings, versioned by the API version.
 - [Crux.Gateway](https://github.com/SpaceEEC/crux_gateway) - Library providing a flexible gateway connection to the Discord API.
+- [DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - Discord API implementation that powers Swiftcord.

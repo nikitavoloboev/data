@@ -156,3 +156,4 @@
 - [What’s the best route to learn a solid foundation on economics? (2022)](https://www.reddit.com/r/AskEconomics/comments/ujm39z/whats_the_best_route_to_learn_a_solid_foundation/)
 - [Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) ([HN](https://news.ycombinator.com/item?id=31293784))
 - [Inflation or Recession (2022)](https://www.lynalden.com/may-2022-newsletter/)
+- [List of unsolved problems in economics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics) ([HN](https://news.ycombinator.com/item?id=31409044))

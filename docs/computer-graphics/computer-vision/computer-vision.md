@@ -1,6 +1,6 @@
 # Computer vision
 
-[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch).
+[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) seems like a great library.
 
 ## Links
 
@@ -13,7 +13,7 @@
 - [Get started with Computer Vision, Deep Learning, and OpenCV](https://www.pyimagesearch.com/start-here/)
 - [TorchCV](https://github.com/donnyyou/torchcv) - PyTorch-Based Framework for Deep Learning in Computer Vision.
 - [AI Habitat](https://github.com/facebookresearch/habitat-sim) - Flexible, high-performance 3D simulator for Embodied AI research.
-- [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
+- [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch. ([Web](https://kornia.github.io//))
 - [Roboflow](https://roboflow.com/) - Raw images to trained computer vision model. ([Article](https://nickarner.com/notes/roboflow-memo-february-1-2021/))
 - [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.
 - [How to Convert a Picture to Numbers](https://brohrer.github.io/images_to_numbers.html)

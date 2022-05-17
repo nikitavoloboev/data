@@ -82,3 +82,5 @@ title: Synthesizers
 - [What's an "unpopular opinion" you have about a synth, synth manufacturer, or just the world of synths overall? (2022)](https://www.reddit.com/r/synthesizers/comments/umkmvb/whats_an_unpopular_opinion_you_have_about_a_synth/)
 - [Synthesizers Reddit Wiki](https://www.reddit.com/r/synthesizers/wiki/index)
 - [OP-1 field](https://news.ycombinator.com/item?id=31350896)
+- [Mika Micro](https://github.com/tesselode/mika-micro) - Small, expressive subtractive synthesizer.
+- [eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks) - Software to Hardware Prototyping for Eurorack using C++, Max/Gen~ or Faust.

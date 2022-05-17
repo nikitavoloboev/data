@@ -113,3 +113,4 @@ title: BitTorrent
 - [Torrents Api](https://github.com/Ryuk-me/Torrent-Api-py) - Unofficial API for various Torrent websites.
 - [Revenant](https://github.com/nikityy/revenant) - Cледим за раздачами на RuTracker для фильмов из списка на КиноПоиске.
 - [haze](https://github.com/cronokirby/haze) - Small BitTorrent client, written in Haskell.
+- [BitChan](https://github.com/majestrate/bitchan) - BitTorrent Image Board.

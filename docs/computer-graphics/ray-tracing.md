@@ -38,7 +38,7 @@ title: Ray tracing
 - [Embree](https://github.com/embree/embree) - Collection of high-performance ray tracing kernels, developed at Intel.
 - [C-Ray](https://github.com/VKoskiv/c-ray) - Small, simple path tracer written in C.
 - [Tungsten Renderer](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
-- [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/rtg/index.html) - High-Quality and Real-Time Rendering with DXR and Other APIs.
+- [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/rtg/index.html) - High-Quality and Real-Time Rendering with DXR and Other APIs. ([Code](https://github.com/Apress/ray-tracing-gems))
 - [Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX (2021)](https://developer.nvidia.com/blog/ray-tracing-gems-ii-available-today-as-free-digital-download/) ([Code](https://github.com/Apress/Ray-Tracing-Gems-II)) ([HN](https://news.ycombinator.com/item?id=28064615))
 - [CUDA based Ray Tracer](https://github.com/xlnx/cuda-raytracer)
 - [Saturno](https://github.com/alvarosan/saturno) - Implementation of 'Ray Tracing in One Weekend' in Rust (and wasm).

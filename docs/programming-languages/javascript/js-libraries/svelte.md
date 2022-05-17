@@ -256,3 +256,4 @@ title: Svelte
 - [Svelte WebSocket Store](https://github.com/arlac77/svelte-websocket-store) - Svelte store with a WebSocket backend.
 - [SvelteKit with Tailwind CSS (2021)](https://linu.us/sveltekit-with-tailwindcss-v3)
 - [Vite Svelte plugin to remove console logs in prod](https://github.com/jhubbardsf/vite-plugin-svelte-console-remover)
+- [Svelte Range Slider (with pips)](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips.

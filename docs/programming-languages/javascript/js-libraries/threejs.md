@@ -117,3 +117,4 @@ title: Three.js
 - [Ektogamat ThreeJS Boilerplate](https://github.com/ektogamat/threejs-andy-bolierplate)
 - [Reality Mixer JS](https://github.com/fabio914/reality-mixer-js) - Mixed Reality Capture module for WebXR and Three.js.
 - [three-filmic](https://github.com/donmccurdy/three-filmic) - Film emulsion-like rendering transforms for three.js.
+- [LunchboxJS](https://github.com/breakfast-studio/lunchboxjs) - Custom Vue 3 renderer for ThreeJS. ([Docs](https://docs.lunchboxjs.com/))

@@ -1,6 +1,6 @@
 # Microservices
 
-[Temporal](https://temporal.io) & [Kratos](https://github.com/go-kratos/kratos) seem interesting.
+[Temporal](https://temporal.io), [Kratos](https://github.com/go-kratos/kratos) & [Go Kit](https://github.com/go-kit/kit) seem interesting.
 
 ## Notes
 

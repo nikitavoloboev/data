@@ -529,3 +529,4 @@ Below is a list of extensions I use.
 - [VSCode Webview Elements](https://github.com/bendera/vscode-webview-elements) - Web component library for developing Visual Studio Code extensions.
 - [Starter template for VS Code Extension](https://github.com/antfu/starter-vscode)
 - [vscode-test](https://github.com/microsoft/vscode-test) - Testing utility for VS Code extensions.
+- [VSCode WASI](https://github.com/microsoft/vscode-wasi) - WASI implementation that uses VS Code's extension host as the implementing API.

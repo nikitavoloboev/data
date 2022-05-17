@@ -201,6 +201,7 @@ Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for 
 - [useCookie](https://github.com/tylerwolff/useCookie) - React hook for managing cookies with no dependencies.
 - [use-clamp-text](https://github.com/drenther/use-clamp-text) - React hook to clamp multiline text to a given height in a responsive way and with extreme flexibility.
 - [useAwait](https://github.com/phytonmk/react-use-await) - React hook for handy async UI.
+- [react-hooks-compose](https://github.com/helloitsjoe/react-hooks-compose) - Decouple Hooks from the presentational components that use them.
 
 ## Code
 

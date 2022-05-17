@@ -280,3 +280,5 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [Automated Fundamental Analysis via Python](https://github.com/faizancodes/Automated-Fundamental-Analysis) - Python program rates stocks out of 100 based on valuation, profitability, growth, and price performance metrics, relative to sector.
 - [Where to put money during high inflation? (2022)](https://www.reddit.com/r/FIREUK/comments/uj7nky/with_inflation_predicted_to_hit_1025_by_the_end/)
 - [Quant-MELO-Portfolio](https://github.com/pranjanpr/Quant-MELO-Portfolio) - Bayesian based architecture to evaluate the optimal weights of different stocks in a portfolio according to Global Minimum Variance and Tangency optimization problem.
+- [mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib.
+- [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.

@@ -234,3 +234,4 @@ title: Docker
 - [Drone Docker](https://github.com/drone-plugins/drone-docker) - Drone plugin for publishing Docker images using Docker-in-Docker.
 - [Docker Extensions SDK](https://github.com/docker/extensions-sdk)
 - [buildg](https://github.com/ktock/buildg) - Tool to interactively debug Dockerfile based on BuildKit.
+- [Dockit](https://github.com/ekristen/dockit) - Docker Registry Authentication Made Simple.

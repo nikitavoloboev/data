@@ -868,6 +868,7 @@
 - [pydiagrams](https://github.com/danoneata/pydiagrams) - Declarative drawing API in Python.
 - [ResolveLib](https://github.com/sarugaku/resolvelib) - Resolve abstract dependencies into concrete ones.
 - [mmh3](https://github.com/hajimes/mmh3) - Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions.
+- [Kymatio](https://github.com/kymatio/kymatio) - Wavelet scattering transforms in Python with GPU acceleration.
 
 ## Notes
 

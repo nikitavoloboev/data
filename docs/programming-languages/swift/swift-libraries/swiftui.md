@@ -6,7 +6,7 @@ title: SwiftUI
 
 [Companion for SwiftUI](https://twitter.com/JordanMorgan10/status/1500090857210486784) is useful. [Swift with Majid](https://swiftwithmajid.com/) & [Swift by Sundell](https://www.swiftbysundell.com/) are great blogs. [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) is nice newsletter.
 
-[Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) lib is neat.
+[Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) lib is neat. [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) is nice SwiftUI app to study.
 
 ## Notes
 
@@ -210,3 +210,5 @@ title: SwiftUI
 - [Handle Keyboard Presses Using SwiftUI in macOS (2022)](https://www.swiftjectivec.com/handling-keyboard-presses-in-swiftui-for-macos/)
 - [What architecture do you use for your SwiftUI apps? (2022)](https://twitter.com/dejadu13/status/1523679164397920258)
 - [SwiftUI: How to use custom fonts and images in a Swift Package (2022)](https://dev.jeremygale.com/swiftui-how-to-use-custom-fonts-and-images-in-a-swift-package-cl0k9bv52013h6bnvhw76alid)
+- [The SwiftUI render loop (2022)](https://rensbr.eu/blog/swiftui-render-loop/)
+- [Don't use escaping closures in SwiftUI (2022)](https://rensbr.eu/blog/swiftui-escaping-closures/)

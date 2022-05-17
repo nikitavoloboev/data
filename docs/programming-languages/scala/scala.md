@@ -4,7 +4,7 @@ title: Scala
 
 # [Scala](https://www.scala-lang.org/)
 
-[Lichess](https://github.com/lichess-org/lila) is amazing Chess service that's built with Scala. [Scala Bootcamp](https://github.com/evolution-gaming/scala-bootcamp) is nice.
+[Lichess](https://github.com/lichess-org/lila) is amazing Chess service that's built with Scala. [Scala Bootcamp](https://github.com/evolution-gaming/scala-bootcamp) & [Rock the JVM](https://rockthejvm.com/) courses are nice.
 
 ## Notes
 

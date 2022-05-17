@@ -884,7 +884,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps.
 - [Whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection for Go.
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go.
-- [systray](https://github.com/getlantern/systray) - Cross platform Go library to place an icon and menu in the notification area.
+- [systray](https://github.com/getlantern/systray) - Cross platform Go library to place an icon and menu in the notification area. ([Fork](https://github.com/fyne-io/systray))
 - [SemVer](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go.
 - [APNS/2](https://github.com/sideshow/apns2) - Simple, flexible and fast Apple Push Notifications on iOS, OSX and Safari using the new HTTP/2 Push provider API.
 - [sanitize](https://github.com/kennygrant/sanitize) - Provides functions for sanitizing text in golang strings.

@@ -99,4 +99,5 @@
 - [A wave function does not collapse upon detection?](https://physics.stackexchange.com/questions/697682/a-wave-function-does-not-collapse-upon-detection) ([HN](https://news.ycombinator.com/item?id=30567066))
 - [It’s time to admit quantum theory has reached a dead end (2022)](https://nautil.us/i-just-want-to-know-what-im-made-of-14367/) ([HN](https://news.ycombinator.com/item?id=30607692))
 - [Why Quantum Mechanics Is An Inconsistent Theory | Roger Penrose (2022)](https://www.youtube.com/watch?v=TSBOBJsdEuY)
-- [Puzzling Quantum Scenario Appears Not to Conserve Energy (2022)](https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/) ([HN](https://news.ycombinator.com/item?id=31397107))
+- [Puzzling Quantum Scenario Appears Not to Conserve Energy (2022)](https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/) ([HN](https://news.ycombinator.com/item?id=31397107)) ([Reddit](https://www.reddit.com/r/Physics/comments/ur34wf/puzzling_quantum_scenario_appears_not_to_conserve/))
+- [Yakir Aharonov - Wikipedia](https://en.wikipedia.org/wiki/Yakir_Aharonov) - Israeli physicist specializing in quantum physics.

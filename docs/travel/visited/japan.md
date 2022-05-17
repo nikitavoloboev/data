@@ -1,5 +1,9 @@
 # Japan
 
+## Notes
+
+- [In Tokyo, if you have a two story house in a residential neighborhood, by right you can put a restaurant/bar/boutique/workshop inside the ground floor of your house! Gives the backstreets a totally different feel to walking through a US neighborhood with nothing but residences.](https://twitter.com/McReynoldsJoe/status/1525326684374941696)
+
 ## Links
 
 - [Masashi Wakui's photos](http://masa-photo.tumblr.com/)

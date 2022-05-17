@@ -579,3 +579,4 @@
 - [BERTopic: The Future of Topic Modeling (2022)](https://www.pinecone.io/learn/bertopic/) ([HN](https://news.ycombinator.com/item?id=31341250))
 - [Unifying Language Learning Paradigms (2022)](https://arxiv.org/abs/2205.05131) ([Code](https://github.com/google-research/google-research/tree/master/ul2))
 - [GLM: General Language Model Pretraining with Autoregressive Blank Infilling (2021)](https://arxiv.org/abs/2103.10360) ([Code](https://github.com/THUDM/GLM))
+- [GPT-3 limitations (2022)](https://twitter.com/npew/status/1525900849888866307)
