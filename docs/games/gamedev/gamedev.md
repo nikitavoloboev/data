@@ -257,3 +257,4 @@
 - [The Devs Were Pretty Smart To Come Up With This (2022)](https://www.youtube.com/watch?v=XNkijakpf9Y)
 - [CubbyFlow](https://github.com/CubbyFlow/CubbyFlow) - Voxel-based fluid simulation engine for computer games.
 - [Shaku](https://github.com/RonenNess/Shaku) - Pure JavaScript framework for web games development that emphasize simplicity, flexibility and freedom.
+- [Riot Games Tech Blog: Artificial Latency for Remote Competitors (2022)](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616)

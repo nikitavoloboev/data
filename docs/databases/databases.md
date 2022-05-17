@@ -607,3 +607,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Getting started with database development (2022)](https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/)
 - [Ask HN: Free and open source distributed database written in C++ or C (2022)](https://news.ycombinator.com/item?id=31386533)
 - [Creating Distributed KV Database by Implementing Raft Consensus Using Go (2020)](https://yusufs.medium.com/creating-distributed-kv-database-by-implementing-raft-consensus-using-golang-d0884eef2e28)
+- [Super-Structured Data: Rethinking the Schema](https://www.brimdata.io/blog/super-structured-data/) ([HN](https://news.ycombinator.com/item?id=31411067))

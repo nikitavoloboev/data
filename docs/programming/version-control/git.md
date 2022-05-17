@@ -536,3 +536,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore.
 - [Ask HN: Why hasn't Git been adopted outside of software engineering? (2022)](https://news.ycombinator.com/item?id=31406550)
 - [GitArena](https://github.com/mellowagain/gitarena) - Software development platform with built-in vcs, issue tracking and code review.
+- [git-recover](https://github.com/ethomson/git-recover) -Git-recover: recover deleted files in your repository.

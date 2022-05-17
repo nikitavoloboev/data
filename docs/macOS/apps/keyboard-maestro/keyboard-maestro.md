@@ -55,3 +55,4 @@ I share [all the macros I use](km-macros.md) with the app.
 - [From TextExpander to Keyboard Maestro… again (2021)](https://leancrew.com/all-this/2021/07/from-textexpander-to-keyboard-maestro-again/)
 - [Archiving and version control for Keyboard Maestro (2021)](https://robservatory.com/archiving-and-version-control-for-keyboard-maestro/)
 - [Design Maestro](https://dmaestro.webflow.io/) - Automate your design workflow.
+- [Alfred - Conductor for Keyboard Maestro](https://www.thoughtasylum.com/alfred/alfred_conductor_for_keyboard_maestro/)
