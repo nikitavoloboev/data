@@ -236,3 +236,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [TGDB](https://github.com/dcdunkan/tgdb) - Make Telegram channels your next project's Database.
 - [Four Attacks and a Proof for Telegram (2018)](https://mtpsym.github.io/paper.pdf)
 - [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) - Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location.
+- [TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS and tvOS.

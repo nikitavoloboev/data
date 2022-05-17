@@ -18,6 +18,7 @@ title: Remix
 - [Remix Indie Stack](https://github.com/remix-run/indie-stack) - Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.
 - [Remix Grunge Stack](https://github.com/remix-run/grunge-stack) - Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.
 - [Remix Supa Fly Stack](https://github.com/rphlmr/supa-fly-stack) - Remix Stack for deploying to Fly with Supabase, authentication, testing, linting, formatting, etc.
+- [Remix DnB Stack](https://github.com/robipop22/dnb-stack) - Remix Stack for deploying to Vercel with testing, linting, formatting, structure and mock for 3rd party API integration.
 - [Remix Speed Metal Stack](https://github.com/Girish21/speed-metal-stack) - Remix Blog Stack for deploying to Fly with MDX, SQLite, testing, linting, formatting, etc.
 - [Remix RockSpec Stack](https://github.com/ShafSpecs/rockspec-stack) - Fully configurable & customizable Remix PWA stack.
 - [Azure Remix Stack](https://github.com/aaronpowell/azure-remix-stack)

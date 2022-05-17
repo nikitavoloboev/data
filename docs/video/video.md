@@ -355,3 +355,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Chat bubble tool for YouTube](https://github.com/craftzdog/chat-bubbles-for-yt) - Tool for recording typing animations and sounds with imitated chat UI.
 - [Neolink](https://github.com/thirtythreeforty/neolink) - Small program that acts as a proxy between Reolink IP cameras and normal RTSP clients.
 - [Teres](https://github.com/animafps/teres) - Easily and efficiently add motion blur and or frame rate to videos through frame blending and interpolation.
+- [FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer) - Simple FFmpeg video player.

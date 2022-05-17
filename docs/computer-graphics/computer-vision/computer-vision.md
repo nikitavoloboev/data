@@ -760,3 +760,4 @@
 - [Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (2022)](https://arxiv.org/abs/2202.03052) ([Code](https://github.com/OFA-Sys/OFA))
 - [ConvMAE: Masked Convolution Meets Masked Autoencoders (2022)](https://arxiv.org/abs/2205.03892) ([Code](https://github.com/Alpha-VL/ConvMAE))
 - [Deep Kernelized Dense Geometric Matching (2022)](https://arxiv.org/abs/2202.00667) ([Code](https://github.com/Parskatt/DKM))
+- [Unsupervised Semantic Segmentation by Distilling Feature Correspondences (2022)](https://arxiv.org/abs/2203.08414) ([Code](https://github.com/mhamilton723/STEGO))

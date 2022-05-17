@@ -62,3 +62,4 @@ title: Research chemicals
 - [What is your favorite RC & why? (2022)](https://www.reddit.com/r/researchchemicals/comments/unw8dj/what_is_your_favorite_rc_why/)
 - [Retailers - Lizard Labs](https://lizardlabs.eu/retailers/)
 - [ChemResearch Reddit](https://www.reddit.com/r/ChemResearch/)
+- [Everyone’s favorite chemical? (2022)](https://www.reddit.com/r/researchchemicals/comments/ur3doy/everyones_favorite_chemical/)

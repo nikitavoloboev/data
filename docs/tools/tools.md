@@ -704,3 +704,4 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Awesome NoCode / LowCode](https://github.com/kairichard/awesome-nocode-lowcode)
 - [Ask HN: Have we screwed ourselves as software engineers? (2022)](https://news.ycombinator.com/item?id=31259206)
 - [Secret](https://www.joinsecret.com/) - Software Deals for Startups & Entrepreneurs.
+- [Starstruck.dev](https://starstruck.dev/) - Stay up to date with the best developer tools. ([Code](https://github.com/morrisclay/starstruck.dev))

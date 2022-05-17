@@ -134,5 +134,5 @@ title: Julia
 - [Some special cases of method dispatch in Julia (2022)](https://bkamins.github.io/julialang/2022/04/15/dispatch.html) ([HN](https://news.ycombinator.com/item?id=31259615))
 - [minGPT in Julia using Flux! (2022)](https://cancandan.github.io/julia/flux/machine-learning/2022/03/30/mingpt-julia.html)
 - [Julia for Economists Bootcamp, 2022](https://github.com/cpfiffer/julia-bootcamp-2022)
-- [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/) ([HN](https://news.ycombinator.com/item?id=31396861))
+- [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/) ([HN](https://news.ycombinator.com/item?id=31396861)) ([Reddit](https://www.reddit.com/r/programming/comments/uqznl3/the_julia_language_has_a_number_of_correctness/))
 - [My Experiences with Julia](https://weissmann.pm/julialang/) ([HN](https://news.ycombinator.com/item?id=31402989))

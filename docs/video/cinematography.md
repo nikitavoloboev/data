@@ -43,3 +43,4 @@ I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls0805
 - [Why The Batman Is So Beautiful (2022)](https://www.youtube.com/watch?v=STynLl-2FqU)
 - [Why Better Call Saul is Brilliant](https://www.youtube.com/watch?v=AwvJ-77O_uk)
 - [Pure cinema camera choice under $10k - What to pick? (2022)](https://www.reddit.com/r/videography/comments/ul7ado/pure_cinema_camera_choice_under_10k_what_to_pick/)
+- [Who are some visionary cinematographers that go beyond the cinematography conventions? (2022)](https://www.reddit.com/r/TrueFilm/comments/ur0x5f/who_are_some_visionary_cinematographers_that_go/)

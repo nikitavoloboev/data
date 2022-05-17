@@ -499,3 +499,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication. ([Web](https://cloudnative-pg.io/))
 - [Postgres AST Deparser for Postgres](https://github.com/pyramation/postgres-ast-deparser) - Pure plpgsql AST toolkit and deparser for PostgreSQL.
 - [PL/pgSQL Language Server](https://github.com/UniqueVision/plpgsql-lsp)
+- [postgres-deno](https://github.com/supabase/postgres-deno) - PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.

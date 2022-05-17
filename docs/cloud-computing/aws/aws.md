@@ -348,3 +348,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Terraform AWS Backup](https://github.com/cloudposse/terraform-aws-backup)
 - [Terraform AWS CI/CD](https://github.com/cloudposse/terraform-aws-cicd) - Terraform Module for CI/CD with AWS Code Pipeline and Code Build.
 - [Code generator for AWS Controllers for Kubernetes](https://github.com/aws-controllers-k8s/code-generator)
+- [AWS Serverless Ecommerce Platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform)

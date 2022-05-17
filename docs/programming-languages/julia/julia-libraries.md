@@ -600,6 +600,7 @@
 - [EllipsisNotation.jl](https://github.com/ChrisRackauckas/EllipsisNotation.jl) - Implements the notation `..` for indexing arrays.
 - [KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) - Heterogeneous programming in Julia.
 - [LazyModules](https://github.com/johnnychen94/LazyModules.jl) - Provides package developers an alternative option to delay package loading until used.
+- [OffsetArrays.jl](https://github.com/JuliaArrays/OffsetArrays.jl) - Fortran-like arrays with arbitrary, zero or negative starting indices.
 
 ## Links
 
