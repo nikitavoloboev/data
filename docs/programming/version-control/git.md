@@ -414,7 +414,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [From a Single Repo, to Multi-Repos, to Monorepo, to Multi-Monorepo](https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/) ([HN](https://news.ycombinator.com/item?id=28220113))
 - [Octopilot](https://github.com/dailymotion-oss/octopilot) - Automate your Gitops workflow, by automatically creating/merging GitHub Pull Requests. ([Web](https://dailymotion-oss.github.io/octopilot/))
 - [Awesome git addons](https://github.com/stevemao/awesome-git-addons)
-- [forgit](https://github.com/wfxr/forgit) - Utility tool powered by fzf for using git interactively.
+- [forgit](https://github.com/wfxr/forgit) - Utility tool powered by fzf for using git interactively. ([HN](https://news.ycombinator.com/item?id=31414179))
 - [Picturing Git: Conceptions and Misconceptions (2021)](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/) ([HN](https://news.ycombinator.com/item?id=28392566))
 - [gitty](https://github.com/muesli/gitty) - CLI helper for git projects. Shows you all the relevant issues, pull requests and changes at a quick glance.
 - [git-cliff](https://github.com/orhun/git-cliff) - Generate changelog files from the Git history. ([HN](https://news.ycombinator.com/item?id=28423843)) ([Article](https://blog.orhun.dev/git-cliff-0-5-0/))

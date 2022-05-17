@@ -76,7 +76,7 @@ There's 1,000+ pages in here and lots of them I think are interesting. But these
 
 There is a lot more out there but I think above is a good start. Hope you find some of it interesting. ♥️
 
-As far as tech goes, my current obsessions, [goals](focusing/goals.md) and [ideas](ideas/ideas.md) for how to live a [better future](future/future.md) are [learning](education/learning.md) more of [React](programming-languages/javascript/js-libraries/react/react.md) and [Go](programming-languages/go/go.md)/[Swift](programming-languages/swift/swift.md) to build [amazing experiences](design/design-inspiration.md).
+As far as tech goes, my current obsessions, [goals](focusing/goals.md) and [ideas](ideas/ideas.md) for how to live a [better future](future/future.md) are [learning](education/learning.md) more of [Solid](programming-languages/javascript/js-libraries/solid.md) and [Go](programming-languages/go/go.md)/[Swift](programming-languages/swift/swift.md) to build [amazing experiences](design/design-inspiration.md).
 
 ## Content Structure
 

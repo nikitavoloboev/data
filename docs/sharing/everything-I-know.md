@@ -5,6 +5,7 @@ Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's p
 - [Karabiner](../macOS/apps/karabiner/karabiner.md): How to bind keys on mac.
 - [macOS](../macOS/macOS.md): How to operate it very fast. Especially with apps like [KM](../macOS/apps/keyboard-maestro/keyboard-maestro.md), [Alfred](../macOS/apps/alfred/alfred.md), [VSCode](../text-editors/vs-code/vs-code.md).
 - [React](../programming-languages/javascript/js-libraries/react/react.md): Love React's component model and JSX. I now try to use only [Svelte](../programming-languages/javascript/js-libraries/svelte.md) or [Solid](../programming-languages/javascript/js-libraries/solid.md) as they have better [web performance](../web/web-performance.md).
+- [Go](../programming-languages/go/go.md)/[Deno](../web/deno.md): For writing scripts and web services.
 
 ## My Workflow
 

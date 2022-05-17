@@ -287,3 +287,4 @@ useEffect(() => {
 - [Effective React Query Keys (2021)](https://tkdodo.eu/blog/effective-react-query-keys)
 - [SWR with Axios](https://github.com/s1gr1d/example.react-swr-axios) - Simple, scalable example for using SWR with Axios in your React application.
 - [How useEvent hook solves 'execute on mount only once' use case](https://twitter.com/dan_abramov/status/1522218410695794694)
+- [Questions around useEffect hook (2022)](https://twitter.com/dan_abramov/status/1526584624159555584)

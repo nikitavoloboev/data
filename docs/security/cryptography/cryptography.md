@@ -171,3 +171,4 @@
 - [Coze](https://github.com/Cyphrme/Coze) - Cryptographic JSON messaging specification designed for human readability.
 - [Some Cryptography Books I Like (2022)](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/) ([HN](https://news.ycombinator.com/item?id=31385182))
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
+- [Crypto means cryptography (2022)](https://pluralistic.net/2022/05/12/crypto-means-cryptography/)

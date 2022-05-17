@@ -6,7 +6,7 @@ title: Twitter
 
 [Simplified Twitter](https://github.com/brunolemos/simplified-twitter) is great. I like using [official Twitter TS SDK](https://github.com/twitterdev/twitter-api-typescript-sdk) for working with Twitter.
 
-I worry that if Elon Musk does take over Twitter, he will [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
+One thing I worry a bit about is how social networks can start [start collaborating with oppressive governments in the name of 'free speech'](https://twitter.com/zei_squirrel/status/1523735617732980736).
 
 ## Interesting hash tags
 

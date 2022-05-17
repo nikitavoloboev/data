@@ -144,3 +144,4 @@ source script
 - [5 Modern Bash Scripting Techniques That Only A Few Programmers Know (2022)](https://levelup.gitconnected.com/5-modern-bash-scripting-techniques-that-only-a-few-programmers-know-4abb58ddadad)
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager. ([Web](https://bpkg.sh/))
 - [Bash One liners](https://github.com/onceupon/Bash-Oneliner) - Collection of handy Bash One-Liners and terminal tricks. ([HN](https://news.ycombinator.com/item?id=31250275))
+- [CLI argument parser for Bash scripts and functions](https://bashjazz.orion3.space/cli-args.html)

@@ -92,3 +92,4 @@ title: Zero knowledge proofs
 - [What are Zero Knowledge Proofs (ZKPs), and how are they changing blockchain forever?](https://twitter.com/BarryFried1/status/1511742345053900800)
 - [boo-hoo](https://github.com/cronokirby/boo-hoo) - Library for Non-Interactive Zero-Knowledge Proofs of Knowledge (NIZKPoKs) for boolean circuits.
 - [zkGames](https://github.com/vplasencia/zkGames) - Platform that allows users to play zk (zero knowledge) games and mint an NFT as proof that they have won.
+- [Exploring Zero Knowledge: StarkWare (2022)](https://pseudotheos.mirror.xyz/Q9154CY9CFaPzy6AgSlek8-ZBA_kSF_93MTKk-opHRw)

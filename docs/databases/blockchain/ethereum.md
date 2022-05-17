@@ -622,3 +622,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [multi-sig](https://github.com/kalidao/multi-sig) - EIP-712 signed multi-signature contract with ragequit and NFT identifiers for signers.
 - [Dollar auction implementation in Solidity](https://github.com/m1guelpf/dollar-auction.sol)
 - [Foundry-Hardhat plugins](https://github.com/foundry-rs/hardhat)
+- [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - Collection of practical security-focused guides and checklists for smart contract development.
