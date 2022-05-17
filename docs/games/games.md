@@ -314,3 +314,4 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Strangemood](https://www.strangemood.org/) - Decentralized marketplace for software licenses: an app store. Mostly for games. ([Code](https://github.com/strangemoodfoundation/strangemood))
 - [Valve Software Archive](https://valvearchive.com/) ([HN](https://news.ycombinator.com/item?id=30894163))
 - [Can you be sure to clear a line at Tetris? (2022)](https://a3nm.net/blog/adversarial_tetris.html)
+- [What games do you feel are the most fun to be a evil character in?](https://www.reddit.com/r/patientgamers/comments/ureonr/what_games_do_you_feel_are_the_most_fun_to_be_a/)

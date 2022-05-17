@@ -1646,6 +1646,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [notificator](https://github.com/0xAX/notificator) - Desktop notifications with Go.
 - [workerpool](https://github.com/cmitsakis/workerpool-go) - Worker pool library with auto-scaling, backpressure, and easy composability of pools into pipelines.
 - [xxHash](https://github.com/pierrec/xxHash) - Pure Go implementation of xxHash.
+- [doublestar](https://github.com/bmatcuk/doublestar) - Path pattern matching and globbing supporting doublestar (\*\*) patterns.
 
 ## Links
 
