@@ -323,6 +323,7 @@
 - [record](https://github.com/nikita-volkov/record) - Anonymous records.
 - [transformers](https://hackage.haskell.org/package/transformers) - Concrete functor and monad transformers.
 - [Transformers-Base](https://github.com/mvv/transformers-base) - Haskell library for lifting actions from the bottom of a monad transformer stack.
+- [Registry](https://github.com/etorreborre/registry) - Components as records of functions for Haskell.
 
 ## Notes
 

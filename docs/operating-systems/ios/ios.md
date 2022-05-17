@@ -325,7 +325,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Thoughts on the App Store from developer of AltStore (2020)](http://rileytestut.com/blog/2020/10/14/thoughts-on-app-store/)
 - [Human Interface Guidelines Extras](https://github.com/sindresorhus/human-interface-guidelines-extras) - Community additions to Apple's Human Interface Guidelines.
 - [Building a Realtime Widget (2020)](https://nathantornquist.com/blog/2020/10/building-a-realtime-widget/)
-- [KTRW](https://github.com/googleprojectzero/ktrw) - iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro.
+- [KTRW](https://github.com/googleprojectzero/ktrw) - iOS kernel debugger based on a KTRR bypass for A11 iPhones; works with LLDB and IDA Pro. ([Fork](https://github.com/jsherman212/ktrw))
 - [My App Review Experiences (2020)](https://tbodt.com/2020/11/08/app-review-experiences.html)
 - [SuccessionRestore](https://github.com/Samgisaninja/SuccessionRestore) - Restore iOS devices without updating via rootfilesystem DMG.
 - [kernel exploit for Apple iOS 13.X](https://github.com/0x36/oob_events)

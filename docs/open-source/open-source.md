@@ -233,3 +233,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Ask HN: How to Monetize Open-Source Software? (2022)](https://news.ycombinator.com/item?id=31292768)
 - [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization)
 - [Monetizing your open source project using dual licensing](https://twitter.com/SachinNeravath/status/1524736567377424389)
+- [Transform to OPen Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science)

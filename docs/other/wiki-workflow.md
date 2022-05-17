@@ -151,6 +151,7 @@ I want to:
 - [Alex's Garden](https://publish.obsidian.md/alexander/1_Home/%F0%9F%8F%A0+Home)
 - [Yang Zhang CS notes](https://github.com/yang/notes)
 - [Ten Digits](https://tendigits.space/)
+- [Alex Forencich's Wiki](http://www.alexforencich.com/wiki/en/start)
 - [Luciano Strika](https://strikingloo.github.io/wiki/)
 - [Bennett Hardwick](https://bennetthardwick.com/wiki/)
 - [Micheels Learning Notes](https://learning-notes.mistermicheels.com/about/about/) ([Code](https://github.com/mistermicheels/learning-notes))
@@ -499,3 +500,4 @@ I want to:
 - [todo.txt format](https://github.com/todotxt/todo.txt) - Complete primer on the whys and hows of todo.txt.
 - [Harika](https://github.com/quolpr/harika) - Offline-first, performance-focused note taking app for organizing your knowledge database.
 - [Digital Garden theme for Hugo](https://github.com/apvarun/digital-garden-hugo-theme)
+- [Lepiter: Knowledge Mgmt and Multi-Lang Notebooks and Moldable Dev](https://lepiter.io/feenk/introducing-lepiter--knowledge-management--e2p6apqsz5npq7m4xte0kkywn/)

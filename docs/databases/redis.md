@@ -4,7 +4,7 @@ title: Redis
 
 # [Redis](https://redis.io/)
 
-[Hosting Redis on Fly](https://github.com/fly-apps/redis) is nice.
+[Hosting Redis on Fly](https://github.com/fly-apps/redis) is nice. [node-resque](https://github.com/actionhero/node-resque) is great for background jobs.
 
 ## Notes
 

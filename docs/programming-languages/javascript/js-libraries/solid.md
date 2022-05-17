@@ -6,7 +6,7 @@ title: SolidJS
 
 > Simple and performant reactivity for building user interfaces
 
-[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos). [Solid Start](https://github.com/solidjs/solid-start) is great starter template.
+[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos). [Solid Start](https://github.com/solidjs/solid-start) is great starter template. [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) is great alternative to [React Query](https://react-query.tanstack.com/).
 
 ## OSS apps
 
@@ -58,3 +58,4 @@ title: SolidJS
 - [Solid DND](https://github.com/thisbeyond/solid-dnd) - Lightweight, performant, extensible drag and drop toolkit for Solid. ([Web](https://solid-dnd.com/)) ([Web Code](https://github.com/thisbeyond/solid-dnd-site))
 - [Turbo Solid](https://github.com/StudioLambda/TurboSolid) - Lightweight asynchronous data management for solid.
 - [Solid in 100 Seconds (2022)](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
+- [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) - Creates a primitive to support abortable HTTP requests. If any reactive request options changes, the request is aborted automatically.

@@ -30,7 +30,7 @@
 - [GraphCMS](https://graphcms.com/) - API-first GraphQL Headless CMS. ([Next.js starter](https://github.com/GraphCMS/reference-marketing-website)) ([GraphCMS Management SDK](https://github.com/GraphCMS/management-sdk))
 - [FireCMS](https://github.com/Camberi/firecms) - Awesome Firestore based CMS. ([Web](https://firecms.co/))
 - [New Strapi live demo: FoodAdvisor v2 using Strapi & Next.js (2021)](https://strapi.io/blog/foodadvisor-v2)
-- [Contentlayer](https://github.com/contentlayerdev/contentlayer) - Turns your content into data - making it super easy to import MD(X) and CMS content in your app. ([Web](https://www.contentlayer.dev/)) ([Intro](https://www.contentlayer.dev/blog/beta)) ([Twitter](https://twitter.com/contentlayerdev)) ([Tweet](https://twitter.com/swyx/status/1517163485439926272))
+- [Contentlayer](https://github.com/contentlayerdev/contentlayer) - Turns your content into data - making it super easy to import MD(X) and CMS content in your app. ([Web](https://www.contentlayer.dev/)) ([Intro](https://www.contentlayer.dev/blog/beta)) ([Twitter](https://twitter.com/contentlayerdev)) ([Tweet](https://twitter.com/swyx/status/1517163485439926272)) ([Web Code](https://github.com/contentlayerdev/website))
 - [Slicknode](https://slicknode.com/) - GraphQL CMS, Headless Content Management. ([Code](https://github.com/slicknode/slicknode))
 - [Collaborative CMS options (2021)](https://twitter.com/derrickreimer/status/1453017970645602304)
 - [Craft CMS](https://craftcms.com/) - Flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. ([Code](https://github.com/craftcms/cms)) ([HN](https://news.ycombinator.com/item?id=31271668))

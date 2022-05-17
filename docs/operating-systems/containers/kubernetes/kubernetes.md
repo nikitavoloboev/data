@@ -736,3 +736,4 @@ title: Kubernetes
 - [WTH! Who killed my pod - Whodunit? (2021)](https://suneeta-mall.github.io/2021/03/14/wth-who-killed-my-pod.html)
 - [Kubedog](https://github.com/werf/kubedog) - Library to watch and follow Kubernetes resources in CI/CD deploy pipelines.
 - [Kubernetes Networking Guide](https://k8s.networkop.co.uk/) ([Code](https://github.com/networkop/k8s-networking-guide))
+- [Manage multi-tenant clusters with Flux](https://github.com/fluxcd/flux2-multi-tenancy)

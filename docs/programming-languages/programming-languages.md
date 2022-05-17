@@ -56,7 +56,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Factor](https://factorcode.org/) - Practical stack language. ([HN](https://news.ycombinator.com/item?id=22053857))
 - [Factor: a dynamic stack-based programming language paper](https://factorcode.org/slava/dls.pdf)
 - [Quine](https://rosettacode.org/wiki/Quine) - Self-referential program that can, without any external access, output its own source.
-- [comby](https://github.com/comby-tools/comby/) - Tool for structural code search and replace that supports ~every language. ([Web](https://comby.dev/)) ([Lobsters](https://lobste.rs/s/lvv8lj/comby_tool_for_changing_code))
+- [Comby](https://github.com/comby-tools/comby/) - Structural code search and replace for every language. ([Web](https://comby.dev/)) ([Lobsters](https://lobste.rs/s/lvv8lj/comby_tool_for_changing_code)) ([HN](https://news.ycombinator.com/item?id=31413533))
 - [Lobsters: What would a programming language designed from the ground-up for a multi-core world look like? (2020)](https://lobste.rs/s/mrl19l/what_would_programming_language)
 - [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
 - [What language do you prefer for new project starts? (2020)](https://lobste.rs/s/ya4ajj/what_language_do_you_prefer_for_new)
