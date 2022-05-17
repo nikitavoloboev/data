@@ -4,6 +4,8 @@ title: Next.js
 
 # [Next.js](https://github.com/vercel/next.js)
 
+Exploring [Solid](../solid.md) as a faster alternative.
+
 ## Example sites
 
 - [Next.js Commerce starter kit](https://nextjs.org/commerce)

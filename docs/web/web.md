@@ -1,6 +1,6 @@
 # Web
 
-[Full stack open](https://fullstackopen.com/en/) is nice course. I use [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (preferred) & [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) (more complex web apps). [SolidJS](../programming-languages/javascript/js-libraries/solid.md) & [Qwik](https://github.com/BuilderIO/qwik) are great frameworks too. [Bud](https://github.com/livebud/bud) looks nice too.
+[Full stack open](https://fullstackopen.com/en/) is nice course. I use [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (preferred) & [Solid](../programming-languages/javascript/js-libraries/solid.md) (when reactivity is needed, web apps etc.). [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) is okay too. [Qwik](https://github.com/BuilderIO/qwik) & [Bud](https://github.com/livebud/bud) seem nice too.
 
 ## Notes
 

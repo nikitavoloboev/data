@@ -77,7 +77,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 ## Tech
 
 - Static sites (landing pages) / Blogs - [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (with [SvelteKit](https://kit.svelte.dev/))
-- Web Apps - [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) or [SvelteKit](https://kit.svelte.dev/)
+- Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md) or [SvelteKit](https://kit.svelte.dev/).
 - Server APIs - [Go](https://golang.org/). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/)
 - Scripts & CLI tools - [Deno](../web/deno.md) or [Go](../programming-languages/go/go.md)
 - Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](https://www.prisma.io/) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
