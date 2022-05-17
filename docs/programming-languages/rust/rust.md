@@ -786,7 +786,7 @@ title: Rust
 - [Rust from 0 to 80% for JavaScript Developers (2022)](https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/) ([HN](https://news.ycombinator.com/item?id=31220791))
 - [Comparing Rust supply chain safety tools (2022)](https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/) ([Lobsters](https://lobste.rs/s/sqw0j5/comparing_rust_supply_chain_safety_tools))
 - [Rust grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-rust)
-- [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/) ([Code](https://github.com/ANSSI-FR/rust-guide))
+- [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/) ([Code](https://github.com/ANSSI-FR/rust-guide)) ([HN](https://news.ycombinator.com/item?id=31405896))
 - [Safe representation of restricted values (2022)](https://n14n.dev/articles/2022/safe-representation-of-restricted-values/)
 - [Dancing with the compiler: Rust and explicitness (2022)](https://n14n.dev/articles/2022/dancing-with-the-compiler/)
 - [Safe operations with typestate in Rust (2021)](https://n14n.dev/articles/2021/safe-operations-with-typestate-in-rust/)

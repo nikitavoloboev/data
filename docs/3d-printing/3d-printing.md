@@ -39,3 +39,4 @@
 - [Open5x: Accessible 5-axis 3D printing and conformal slicing (2022)](https://arxiv.org/abs/2202.11426) ([Code](https://github.com/FreddieHong19/Open5x))
 - [Making 3D printing truly 3D (2022)](https://phys.org/news/2022-04-3d.html) ([HN](https://news.ycombinator.com/item?id=31142051))
 - [Great 3D printers (2022)](https://twitter.com/fatih/status/1521048072322748417)
+- [Hob3l](https://github.com/moehriegitt/hob3l) - 100x Faster Slicing of SCAD Files for 3D Printing.

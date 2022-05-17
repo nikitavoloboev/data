@@ -420,3 +420,4 @@ Awesome List
 - [Know your stargazers](https://github.com/nvh95/know-your-stargazers) - Know more about who starred your repository.
 - [GitHub Markdown CSS demo](https://sindresorhus.com/github-markdown-css/) - Minimal amount of CSS to replicate the GitHub Markdown style. ([Code](https://github.com/sindresorhus/github-markdown-css))
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
+- [Awesome GitHub CLI Extensions](https://github.com/kodepandai/awesome-gh-cli-extensions)

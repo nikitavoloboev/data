@@ -54,3 +54,4 @@ title: PureScript
 - [PureScript Deku](https://github.com/mikesol/purescript-deku) - PureScript web micro-framework for apps that need to be fast.
 - [PureScript Aff Promise](https://github.com/nwolverson/purescript-aff-promise) - Simple library for interop between Aff and JavaScript promises.
 - [PureScript Spec Discovery](https://github.com/purescript-spec/purescript-spec-discovery)
+- [ResourceT](https://github.com/robertdp/purescript-resourcet) - Monad transformer for automated cleanup of resources at the end of execution.

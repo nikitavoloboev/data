@@ -6,6 +6,7 @@ title: EdgeDB
 
 ## OSS apps
 
+- [Hyperpop - EdgeDB Remix Stack](https://github.com/edgedb/remix)
 - [Remix+EdgeDB+Tailwind+Fly.io](https://github.com/jkcorrea/remix-chop-suey-stack)
 - [EdgeDB Remix starter](https://github.com/colinhacks/edgedb-remix-test-2)
 

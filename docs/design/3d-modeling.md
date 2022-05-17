@@ -1,5 +1,7 @@
 # 3D modeling
 
+[Spline](https://spline.design/) is amazing.
+
 ## Links
 
 - [Dust3D](https://github.com/huxingyi/dust3d) - Cross-platform open-source 3D modeling software.

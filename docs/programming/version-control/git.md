@@ -535,3 +535,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [git branchstack](https://github.com/krobelus/git-branchstack) - Efficiently manage Git branches without leaving your local branch.
 - [gitsign](https://github.com/sigstore/gitsign) - Keyless Git signing using Sigstore.
 - [Ask HN: Why hasn't Git been adopted outside of software engineering? (2022)](https://news.ycombinator.com/item?id=31406550)
+- [GitArena](https://github.com/mellowagain/gitarena) - Software development platform with built-in vcs, issue tracking and code review.

@@ -809,3 +809,4 @@
 - [BGU-CS-VIL/DeepDPM: "DeepDPM: Deep Clustering With An Unknown Number of Clusters" (2022)](https://arxiv.org/abs/2203.14309) ([Code](https://github.com/BGU-CS-VIL/DeepDPM))
 - [Towards a Learning-Based Query Optimizer (2022)](https://engineering.databloom.ai/2022/05/towards-learning-based-query-optimizer.html) ([HN](https://news.ycombinator.com/item?id=31376141))
 - [Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework (2021)](https://arxiv.org/abs/2106.09121)
+- [Data Distributional Properties Drive Emergent Few-Shot Learning in Transformers (2022)](https://arxiv.org/abs/2205.05055) ([Tweet](https://twitter.com/scychan_brains/status/1526514761579614209))

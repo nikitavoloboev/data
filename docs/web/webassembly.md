@@ -4,7 +4,7 @@ title: WebAssembly
 
 # [WebAssembly](https://webassembly.org/)
 
-[Wasmer](https://docs.wasmer.io/) & [wazero](https://github.com/tetratelabs/wazero) are great runtimes to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library. [WebAssembly Weekly](https://wasmweekly.news/) is good newsletter to stay up to date on WASM.
+[Wasmer](https://docs.wasmer.io/) & [Wazero](https://github.com/tetratelabs/wazero) are great runtimes to execute WebAssembly on the server. [Zaplib](https://github.com/Zaplib/zaplib) is great library. [WebAssembly Weekly](https://wasmweekly.news/) is good newsletter to stay up to date on WASM.
 
 [This guide how to create minimal WASM module](https://news.ycombinator.com/item?id=30991235) is nice. Looking into trying out [AssemblyScript](https://github.com/AssemblyScript/assemblyscript).
 
@@ -313,6 +313,6 @@ title: WebAssembly
 - [TWVM](https://github.com/Becavalier/TWVM) - Tiny, lightweight and efficient WebAssembly virtual machine.
 - [Fast WASM modules](https://github.com/evanwashere/wasm)
 - [WASI Sockets](https://github.com/WebAssembly/wasi-sockets) - WASI API proposal for managing sockets.
-- [wazero](https://github.com/tetratelabs/wazero) - Zero dependency WebAssembly runtime for Go developers. ([Web](https://wazero.io/))
+- [Wazero](https://github.com/tetratelabs/wazero) - Zero dependency WebAssembly runtime for Go developers. ([Web](https://wazero.io/)) ([HN](https://news.ycombinator.com/item?id=31405890))
 - [WebAssembly for Proxies (ABI specification)](https://github.com/proxy-wasm/spec) - Specification of the low-level Application Binary Interface (ABI) and conventions to use between L4/L7 proxies (and/or other host environments) and their extensions delivered as WebAssembly modules. ([Zig SDK](https://github.com/mathetake/proxy-wasm-zig-sdk))
 - [Karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.

@@ -6,7 +6,7 @@ title: Remix
 
 > Framework for building better websites using modern web standards and best practices
 
-[Remix + EdgeDB](https://github.com/jkcorrea/remix-chop-suey-stack) is a nice template.
+[Remix + EdgeDB](https://github.com/edgedb/remix) is a nice template.
 
 ## OSS Remix apps
 

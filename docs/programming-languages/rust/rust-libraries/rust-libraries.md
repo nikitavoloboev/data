@@ -580,6 +580,7 @@
 - [ESPMonitor](https://github.com/esp-rs/espmonitor) - Cargo tool for monitoring ESP32/ESP8266 execution.
 - [microbit](https://github.com/nrf-rs/microbit) - Rust crate for BBC micro:bit development.
 - [meadow](https://github.com/quietlychris/meadow) - Publish/request middleware for robotics applications, with a focus on ease-of-use.
+- [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (structs) from SVD files.
 
 ## ML
 
@@ -1875,6 +1876,7 @@
 - [RustNet](https://github.com/revoltez/RustNet) - Fast and reactive distributed systems toolbox.
 - [audio](https://github.com/udoprog/audio) - Crate for working with audio in Rust.
 - [sharded-log](https://github.com/komora-io/sharded-log) - Batch-oriented multi-threaded sharded log for workloads that occasionally flush logs into some other system.
+- [flate2](https://github.com/rust-lang/flate2-rs) - Streaming compression/decompression library DEFLATE-based streams in Rust.
 
 ## Cargo Plugins
 

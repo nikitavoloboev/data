@@ -163,3 +163,4 @@
 - [Hadrian](https://www.hadrian.co/) - Manufacturing the future.
 - [Travel in space in your browser](https://spaceinbrowser.com/) ([HN](https://news.ycombinator.com/item?id=31204353))
 - [Astropy](https://github.com/astropy/astropy) - Astronomy and astrophysics core library.
+- [Neat space facts (2022)](https://twitter.com/shannonmstirone/status/1526573332602269699)

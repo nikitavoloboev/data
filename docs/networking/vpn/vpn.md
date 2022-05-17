@@ -67,3 +67,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [PairMesh](https://github.com/pairmesh/pairmesh) - Next-generation security Mesh VPN implementation based on Go.
 - [TunnelKit](https://github.com/passepartoutvpn/tunnelkit) - VPN client library for Apple platforms.
 - [Pangolin](https://github.com/xitongsys/pangolin) - VPN written in Go.
+- [Smart VPN client](https://github.com/networkop/smart-vpn-client)
