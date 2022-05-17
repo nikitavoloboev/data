@@ -199,3 +199,5 @@ title: Spatial analysis
 - [Using LEOs and GEOs (2022)](https://www.potaroo.net/ispcol/2022-04/leogeo.html) ([HN](https://news.ycombinator.com/item?id=31190247))
 - [Local Tile Server for Geospatial Rasters](https://github.com/banesullivan/localtileserver) - Image tile server for viewing geospatial rasters with ipyleaflet and folium locally in Jupyter or remotely with CesiumJS in Flask applications.
 - [OpenMapTiles Tools](https://github.com/openmaptiles/openmaptiles-tools) - Toolbox for generating map vector tiles.
+- [Google Maps analogs that don't require API keys or a billing account](https://twitter.com/dan_abramov/status/1526294009412722688)
+- [SimpleSpatialGapfiller](https://github.com/Dreamlone/SSGP-toolbox) - Toolbox for filling gaps in spatial datasets (e.g. remote sensing data).

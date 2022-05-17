@@ -498,3 +498,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Understand your systems like never before with traces and PostgreSQL (2022)](https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/) ([HN](https://news.ycombinator.com/item?id=31397145))
 - [CloudNativePG](https://github.com/cloudnative-pg/cloudnative-pg) - Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication. ([Web](https://cloudnative-pg.io/))
 - [Postgres AST Deparser for Postgres](https://github.com/pyramation/postgres-ast-deparser) - Pure plpgsql AST toolkit and deparser for PostgreSQL.
+- [PL/pgSQL Language Server](https://github.com/UniqueVision/plpgsql-lsp)

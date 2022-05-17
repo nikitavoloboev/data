@@ -249,6 +249,7 @@
 - [TestEnv](https://github.com/JuliaTesting/TestEnv.jl) - Activate your test environment, so you can use your test dependencies in the REPL.
 - [ReferenceTests](https://github.com/JuliaTesting/ReferenceTests.jl) - Utility package for comparing data against reference files.
 - [HypothesisTests.jl](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
+- [PropCheck.jl](https://github.com/Seelengrab/PropCheck.jl) - Simple, thin package for property based testing.
 
 ## DB
 
@@ -598,6 +599,7 @@
 - [TableTransforms](https://github.com/JuliaML/TableTransforms.jl) - Transforms and pipelines with tabular data.
 - [EllipsisNotation.jl](https://github.com/ChrisRackauckas/EllipsisNotation.jl) - Implements the notation `..` for indexing arrays.
 - [KernelAbstractions.jl](https://github.com/JuliaGPU/KernelAbstractions.jl) - Heterogeneous programming in Julia.
+- [LazyModules](https://github.com/johnnychen94/LazyModules.jl) - Provides package developers an alternative option to delay package loading until used.
 
 ## Links
 

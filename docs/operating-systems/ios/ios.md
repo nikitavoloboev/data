@@ -469,3 +469,5 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [FrenchKit](https://frenchkit.fr/) - Cocoa developer conference in Paris. ([Twitter](https://twitter.com/frenchkitconf))
 - [Why is MMVM the preferred design architecture for iOS apps? (2022)](https://www.reddit.com/r/iOSProgramming/comments/uqeibw/why_is_mmvm_the_preferred_design_architecture_for/)
 - [Bazel iOS Workshop](https://github.com/segiddins/Bazel-iOS-Workshop)
+- [Best solutions to sync data across Apple devices (2022)](https://twitter.com/migueldeicaza/status/1526299076408508416)
+- [Open Source for iOS developers - Ivan Vorobei](https://opensource.ivanvorobei.io/)

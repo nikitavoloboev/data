@@ -169,3 +169,4 @@
 - [Vega Datasets](https://github.com/vega/vega-datasets) - Collection of datasets used in Vega and Vega-Lite examples.
 - [Azimuth](https://github.com/ServiceNow/azimuth) - Open-source dataset and error analysis tool for text classification.
 - [audio2dataset](https://github.com/rom1504/audio2dataset) - Easily turn large sets of audio urls to an audio dataset.
+- [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) - Collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types.

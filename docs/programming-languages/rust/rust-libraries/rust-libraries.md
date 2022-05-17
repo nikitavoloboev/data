@@ -1872,6 +1872,7 @@
 - [kdl-rs](https://github.com/kdl-org/kdl-rs) - Rust parser for KDL.
 - [RustNet](https://github.com/revoltez/RustNet) - Fast and reactive distributed systems toolbox.
 - [audio](https://github.com/udoprog/audio) - Crate for working with audio in Rust.
+- [sharded-log](https://github.com/komora-io/sharded-log) - Batch-oriented multi-threaded sharded log for workloads that occasionally flush logs into some other system.
 
 ## Cargo Plugins
 

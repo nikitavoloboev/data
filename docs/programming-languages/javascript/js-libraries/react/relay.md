@@ -42,3 +42,4 @@ Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextj
 - [prisma-cursor-pagination](https://github.com/zoontek/prisma-cursor-pagination) - Relay cursor pagination helpers for Prisma. ([Tweet](https://twitter.com/cpojer/status/1497401706048471046))
 - [Building Relay Modern](https://wincent.com/blog/relay-modern)
 - [async-graphql-relay](https://github.com/oscartbeaumont/async-graphql-relay) - Relay support for async-graphql.
+- [Relay React Concurrency Example](https://github.com/jantimon/next-relay-demo)

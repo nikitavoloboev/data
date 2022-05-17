@@ -320,6 +320,8 @@
 - [NoRedInk Haskell libraries](https://github.com/NoRedInk/haskell-libraries)
 - [fused-effects-th](https://github.com/fused-effects/fused-effects-th) - Template Haskell helpers to avoid effect boilerplate.
 - [record](https://github.com/nikita-volkov/record) - Anonymous records.
+- [transformers](https://hackage.haskell.org/package/transformers) - Concrete functor and monad transformers.
+- [Transformers-Base](https://github.com/mvv/transformers-base) - Haskell library for lifting actions from the bottom of a monad transformer stack.
 
 ## Notes
 

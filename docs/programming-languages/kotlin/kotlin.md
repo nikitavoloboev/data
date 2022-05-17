@@ -48,3 +48,4 @@ title: Kotlin
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin. ([Docs](https://detekt.github.io/detekt/))
 - [Kotlin Algorithms and Design Patterns](https://github.com/KiberneticWorm/Kotlin-Algorithms-and-Design-Patterns)
 - [Crash course on the Kotlin compiler (2022)](https://hinchman-amanda.medium.com/crash-course-on-the-kotlin-compiler-1-frontend-parsing-phase-9898490d922b)
+- [Toying with Kotlin's Context Receivers (2022)](https://blog.frankel.ch/kotlin-context-receivers/) ([HN](https://news.ycombinator.com/item?id=31388883))

@@ -12,6 +12,7 @@ title: Remix
 
 - [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template) ([Another version](https://github.com/mcansh/remix-netlify-edge-js))
 - [Rewinds](https://rewinds.mhaidarhanif.com/) - Remix starter kit with Tailwind family of libraries. ([Code](https://github.com/mhaidarhanif/rewinds))
+- [Remix sandbox repo for WASM and napi-rs](https://github.com/benwis/rust-remix)
 - [Remix K-pop Stack](https://github.com/netlify-templates/kpop-stack) - Remix + Supabase + Tailwind deployed on Netlify. ([Tweet](https://twitter.com/jlengstorf/status/1521209429055590401))
 - [Remix Blues Stack](https://github.com/remix-run/blues-stack) - Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
 - [Remix Indie Stack](https://github.com/remix-run/indie-stack) - Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.

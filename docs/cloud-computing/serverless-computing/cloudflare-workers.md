@@ -165,3 +165,4 @@ Exploring building fast web apps with [Svelte](../../programming-languages/javas
 - [D1: Cloudflare’s First SQL Database (2022)](https://blog.cloudflare.com/introducing-d1/) ([HN](https://news.ycombinator.com/item?id=31339299))
 - [Route to Workers, automate your email processing (2022)](https://blog.cloudflare.com/announcing-route-to-workers/)
 - [R2 API](https://github.com/proselog/r2-api) - Cloudflare worker based REST API for your R2 bucket.
+- [Cloudflare Worker to make your R2 bucket public](https://github.com/cmackenzie1/r2-public-worker)

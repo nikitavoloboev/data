@@ -129,3 +129,4 @@ It's hard to care about politics when [so much of it is empty words and empty di
 - [The New Governors: The People, Rules, and Processes Governing Online Speech](https://harvardlawreview.org/wp-content/uploads/2018/04/1598-1670_Online.pdf)
 - [PayPal's IndyMedia Wipeout (2022)](https://taibbi.substack.com/p/paypals-indymedia-wipeout?s=r) ([Tweet](https://twitter.com/samecwilliams/status/1521587066592710658))
 - [Books the government doesn't want me to read (2022)](https://www.reddit.com/r/suggestmeabook/comments/uite8o/books_the_government_doesnt_want_me_to_read/)
+- [Why Do Authoritarian Regimes Allow Citizens to Voice Opinions Publicly?](https://www.journals.uchicago.edu/doi/abs/10.1086/690303)

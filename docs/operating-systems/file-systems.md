@@ -117,4 +117,5 @@ as ICMP Echo packets (pings) traveling from you to remote servers and back again
 - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Open source cross-platform file manager, powered by a virtual distributed filesystem (VDFS) written in Rust. ([HN](https://news.ycombinator.com/item?id=31186313))
 - [CharybdeFS](https://github.com/scylladb/charybdefs) - ScyllaDB fault injection filesystem.
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your file system.
-- [memfs](https://github.com/andrewhalle/memfs) - In-memory filesystem in Rust.
+- [memfs](https://github.com/andrewhalle/memfs) - In-memory file system in Rust.
+- [Catfs](https://github.com/kahing/catfs) - Cache AnyThing file system written in Rust.

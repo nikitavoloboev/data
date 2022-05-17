@@ -3,6 +3,7 @@
 ## Interesting story folder structure
 
 - [Rosa Lobenstein](https://www.instagram.com/rosa_vonlobenstein/)
+- [Kendall](https://www.instagram.com/kendalljenner/)
 
 ## API
 

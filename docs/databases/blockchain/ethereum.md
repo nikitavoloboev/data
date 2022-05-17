@@ -620,3 +620,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Anvil](https://twitter.com/gakonst/status/1522282339073597440) - Blazing-fast local testnet node implementation, in Rust.
 - [mev-boost-rs](https://github.com/ralexstokes/mev-boost-rs) - Gateway for validators to connect to a network of block builders.
 - [multi-sig](https://github.com/kalidao/multi-sig) - EIP-712 signed multi-signature contract with ragequit and NFT identifiers for signers.
+- [Dollar auction implementation in Solidity](https://github.com/m1guelpf/dollar-auction.sol)
+- [Foundry-Hardhat plugins](https://github.com/foundry-rs/hardhat)

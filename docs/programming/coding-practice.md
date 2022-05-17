@@ -27,6 +27,7 @@
 ## LeetCode solutions
 
 - [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) - Curated list of Leetcode questions grouped by their common patterns. ([Code](https://github.com/seanprashad/leetcode-patterns))
+- [LeetCode frequently asked questions](https://github.com/olegoratovskiy/leetcode-frequently-asked-questions)
 - [Rust](https://github.com/pymongo/leetcode-rust)
 - [Go](https://github.com/austingebauer/go-leetcode) - Collection of 100+ popular LeetCode problems that I've solved in Go.
 - [Go 2](https://github.com/halfrost/LeetCode-Go)

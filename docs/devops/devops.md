@@ -182,3 +182,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [Founding Uber SRE](https://lethain.com/founding-uber-sre/) ([HN](https://news.ycombinator.com/item?id=31199551))
 - [DevSecOps Playbook](https://github.com/6mile/DevSecOps-Playbook)
 - [How we deploy to production over 100 times a day (2022)](https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day)
+- [Release](https://github.com/ossjs/release) - Minimalistic, opinionated, and predictable release automation tool.

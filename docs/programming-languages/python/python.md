@@ -485,6 +485,7 @@ for i, _ in enumerate(nums):
 - [You Should Compile Your Python And Here’s Why (2022)](https://glyph.twistedmatrix.com/2022/04/you-should-compile-your-python-and-heres-why.html) ([HN](https://news.ycombinator.com/item?id=31200989))
 - [Compact word vectors with Bloom embeddings (2022)](https://explosion.ai/blog/bloom-embeddings)
 - [PyScript](https://github.com/pyscript/pyscript) - Run Python in your HTML. ([Web](https://pyscript.net/)) ([Intro](https://www.anaconda.com/blog/pyscript-python-in-the-browser)) ([HN](https://news.ycombinator.com/item?id=31225193)) ([HN](https://news.ycombinator.com/item?id=31217337)) ([CLI](https://github.com/mattkram/pyscript-cli))
+- [PyMC in the browser using PyScript](https://github.com/twiecki/pymc-in-browser)
 - [Strange and odd python snippets explained](https://github.com/pablogsal/python-horror-show)
 - [How the Cinder JIT’s function inliner helps us optimize Instagram (2022)](https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/)
 - [pysen](https://github.com/pfnet/pysen) - Python linting made easy.
@@ -494,3 +495,5 @@ for i, _ in enumerate(nums):
 - [Managing Python Versions with Pyenv (2022)](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/) ([HN](https://news.ycombinator.com/item?id=31326052))
 - [PyOxy Python Runner](https://pyoxidizer.readthedocs.io/en/latest/pyoxy.html) - Alternative implementation and re-imagination of the ubiquitous python command, but providing more features and control than python.
 - [Python Engineer Roadmap](https://github.com/DjangoEx/python-engineer-roadmap)
+- [Why Should Async Get All The Love?: Advanced Control Flow With Threads (2022)](https://emptysqua.re/blog/why-should-async-get-all-the-love/)
+- [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp) ([HN](https://news.ycombinator.com/item?id=31405976))

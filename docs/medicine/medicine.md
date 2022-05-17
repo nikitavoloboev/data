@@ -37,3 +37,4 @@
 - [The illusion of evidence based medicine (2022)](https://www.bmj.com/content/376/bmj.o702) ([HN](https://news.ycombinator.com/item?id=30793352))
 - [PyMedPhys](https://github.com/pymedphys/pymedphys) - Open-source Medical Physics python library.
 - [Researchers discover new cell type in human lung with regenerative properties (2022)](https://news.ycombinator.com/item?id=31053044)
+- [Clinica](https://github.com/aramis-lab/clinica) - Software platform for clinical neuroimaging studies.

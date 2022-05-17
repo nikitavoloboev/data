@@ -734,3 +734,4 @@ title: Kubernetes
 - [Cook Scheduler](https://github.com/twosigma/Cook) - Fair job scheduler on Kubernetes and Mesos for batch workloads and Spark.
 - [Parca Agent](https://github.com/parca-dev/parca-agent) - Always-on sampling profiler that uses eBPF to capture raw profiling data with very low overhead.
 - [WTH! Who killed my pod - Whodunit? (2021)](https://suneeta-mall.github.io/2021/03/14/wth-who-killed-my-pod.html)
+- [Kubedog](https://github.com/werf/kubedog) - Library to watch and follow Kubernetes resources in CI/CD deploy pipelines.

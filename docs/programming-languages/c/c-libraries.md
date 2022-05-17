@@ -103,7 +103,7 @@
 - [libbacktrace](https://github.com/ianlancetaylor/libbacktrace) - C library that may be linked into a C/C++ program to produce symbolic backtraces.
 - [Datatype99](https://github.com/Hirrolot/datatype99) - C99 with sum types. ([HN](https://news.ycombinator.com/item?id=26024482))
 - [gridsort](https://github.com/scandum/gridsort) - Stable adaptive partitioning comparison sort.
-- [Common C libraries and data structures](https://github.com/tezc/sc) ([HN](https://news.ycombinator.com/item?id=26109324))
+- [Common C libraries and data structures](https://github.com/tezc/sc) ([HN](https://news.ycombinator.com/item?id=26109324)) ([HN](https://news.ycombinator.com/item?id=31404201))
 - [libco](https://github.com/higan-emu/libco) - Cooperative multithreading library written in C89.
 - [HYPRE](https://github.com/hypre-space/hypre) - Parallel solvers for sparse linear systems featuring multigrid methods. ([Web](https://computing.llnl.gov/casc/hypre/))
 - [Simple DirectMedia Layer (SDL)](https://libsdl.org/) - Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware. ([Code](https://github.com/libsdl-org/SDL))

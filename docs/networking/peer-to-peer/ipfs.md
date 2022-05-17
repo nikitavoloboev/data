@@ -107,3 +107,4 @@ I especially like the distinction of distributing content over distributing link
 - [is-ipfs](https://github.com/ipfs-shipyard/is-ipfs) - Set of utilities to help identify IPFS resources.
 - [Get started Building Web3 Apps with Cloudflare (2021)](https://blog.cloudflare.com/get-started-web3/)
 - [S4](https://github.com/anthonybudd/S4) - 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS.
+- [IPFS Gateway Monitor](https://github.com/cloudflare/ipfs-gateway-monitor) - Detect the errors and measure the response time of IPFS gateways.

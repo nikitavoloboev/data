@@ -114,3 +114,4 @@ title: Electrical engineering
 - [Fritzing](https://fritzing.org/) - Electronic Design Automation software with a low entry barrier, suited for the needs of makers and hobbyists. ([Code](https://github.com/fritzing/fritzing-app)) ([GitHub](https://github.com/fritzing)) ([HN](https://news.ycombinator.com/item?id=31235109))
 - [SKiDL](https://github.com/devbisme/skidl) - Module that extends Python with the ability to design electronic circuits.
 - [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html)
+- [Original Pong video game had no code and was built using hardware circuitry](https://www.reddit.com/r/EngineeringPorn/comments/ul49zt/the_original_pong_video_game_had_no_code_and_was/)

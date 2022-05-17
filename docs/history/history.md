@@ -128,7 +128,7 @@
 - [Summarize the 2010-2020 period in the length of a tweet](https://twitter.com/morganhousel/status/1399840530159202306)
 - [Vlogging Through History - YouTube](https://www.youtube.com/channel/UCN-p-fxcoKT4Ltg1vPZIxGQ)
 - [HN: David Dushman, last surviving Auschwitz liberator, dies aged 98 (2021)](https://news.ycombinator.com/item?id=27421527)
-- [OpenHistoricalMap](https://www.openhistoricalmap.org/) ([HN](https://news.ycombinator.com/item?id=27469715))
+- [OpenHistoricalMap](https://www.openhistoricalmap.org/) ([HN](https://news.ycombinator.com/item?id=27469715)) ([HN](https://news.ycombinator.com/item?id=31382414))
 - [Putting all your ancestors in a line and talking to them](https://twitter.com/makseest_ru/status/1402598603642658848)
 - [Why You Should Not Get a History PhD](https://www.reddit.com/r/AskHistorians/comments/96yf9h/monday_methods_why_you_should_not_get_a_history/) ([HN](https://news.ycombinator.com/item?id=27580605))
 - [Why did we wait so long for the threshing machine? (2021)](https://rootsofprogress.org/why-did-we-wait-so-long-for-the-threshing-machine) ([Tweet](https://twitter.com/antonhowes/status/1409986175369105409))

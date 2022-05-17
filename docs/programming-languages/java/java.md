@@ -123,3 +123,4 @@ title: Java
 - [Wasmer Java](https://github.com/wasmerio/wasmer-java) - WebAssembly runtime for Java.
 - [Speeding Up Java Date Formatting With Code Generation (2022)](https://justinblank.com/experiments/speedingupdateformats.html)
 - [Justin Blank's Notebooks](https://justinblank.com/notebooks/)
+- [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405) ([HN](https://news.ycombinator.com/item?id=31378896))

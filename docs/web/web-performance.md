@@ -176,3 +176,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [BundleMon](https://github.com/LironEr/bundlemon) - Monitor your bundle size.
 - [A Gentle Introduction to SSR (2022)](https://hire.jonasgalvez.com.br/2022/apr/30/a-gentle-introduction-to-ssr/) ([HN](https://news.ycombinator.com/item?id=31224226))
 - [The state of responsiveness on the web (2022)](https://www.youtube.com/watch?v=Mizzbsvv8Os)
+- [Heydon Pickering: Please Disable JavaScript To View This Site (2021)](https://www.youtube.com/watch?v=ga_byUbqvCc)

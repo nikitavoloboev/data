@@ -353,3 +353,6 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Proof of concept of a literate Nix flake](https://github.com/rossabaker/literate-flake)
 - [dev-container](https://github.com/jmgilman/dev-container) - devcontainer built on Debian and powered by Nix.
 - [nix-doc](https://github.com/lf-/nix-doc) - Interactive Nix documentation tool providing a CLI for function search, a Nix plugin for docs in the REPL, and a ctags implementation for Nix script.
+- [Flake Modules Core](https://github.com/hercules-ci/flake-modules-core) - Core of a framework for writing flakes. Assemble your flakes with modules.
+- [How to Learn Nix, Part 47: New and unimproved shells (2021)](https://ianthehenry.com/posts/how-to-learn-nix/nix-develop/)
+- [Quickly building minimal Docker containers with Nix (2021)](https://jamey.thesharps.us/2021/02/02/docker-containers-nix/)

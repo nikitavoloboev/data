@@ -135,3 +135,4 @@ title: Julia
 - [minGPT in Julia using Flux! (2022)](https://cancandan.github.io/julia/flux/machine-learning/2022/03/30/mingpt-julia.html)
 - [Julia for Economists Bootcamp, 2022](https://github.com/cpfiffer/julia-bootcamp-2022)
 - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/) ([HN](https://news.ycombinator.com/item?id=31396861))
+- [My Experiences with Julia](https://weissmann.pm/julialang/) ([HN](https://news.ycombinator.com/item?id=31402989))

@@ -411,3 +411,6 @@
 - [Atomic Router](https://github.com/Kelin2025/atomic-router) - Platform-agnostic router that does not break your architecture.
 - [What's new for the web platform (2022)](https://www.youtube.com/watch?v=5b4YcLB4DVI)
 - [Component Party](https://component-party.dev/) - Web component JS frameworks overview by their syntax and features. ([Code](https://github.com/matschik/component-party))
+- [MiniApp Standardization](https://github.com/w3c/miniapp)
+- [Preact Island](https://github.com/mwood23/preact-island) - Create your own slice of paradise on any website.
+- [Webpage List](https://webpagelist.com/) - Discover new websites. ([HN](https://news.ycombinator.com/item?id=31387592))

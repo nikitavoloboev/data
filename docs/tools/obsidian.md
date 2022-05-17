@@ -121,6 +121,9 @@ title: Obsidian
 - [Meta Title Filename](https://github.com/Snezhig/obsidian-meta-title-filename) - Let you replace filename with meta block.
 - [Obsidian Dynamic ToC](https://github.com/Aidurber/obsidian-plugin-dynamic-toc) - Generate Tables of Contents that stay up to date with your document outline.
 - [Obsidian Tabs](https://github.com/gitobsidiantutorial/obsidian-tabs) - Plugin for tabbed Obsidian usage.
+- [Obsidian Text Snippets Plugin](https://github.com/ArianaKhit/text-snippets-obsidian)
+- [Obsidian Image Gallery](https://github.com/lucaorio/obsidian-image-gallery) - Zero setup masonry image gallery for Obsidian.
+- [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync)
 
 ## Themes
 
