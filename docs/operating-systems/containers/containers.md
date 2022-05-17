@@ -216,3 +216,4 @@
 - [agent](https://github.com/benhid/go-agent) - Tiny web-server (reverse proxy) to run functions for every incoming HTTP request.
 - [Fetchit](https://github.com/redhat-et/fetchit) - Used to manage the life cycle and configuration of Podman containers.
 - [Containers from the Couch - YouTube](https://www.youtube.com/c/ContainersfromtheCouch/videos)
+- [Northstar](https://github.com/esrlabs/northstar) - Opinionated embedded container runtime prototype for Linux.

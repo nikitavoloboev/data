@@ -68,3 +68,4 @@
 - [Hades](https://github.com/Arignir/Hades) - Nintendo Game Boy Advance emulator.
 - [Binfmt](https://github.com/tonistiigi/binfmt) - Cross-platform emulator collection distributed with Docker images.
 - [Play!](https://github.com/jpd002/Play-) - PlayStation2 emulator. ([Web](https://purei.org/))
+- [Padme core](https://github.com/alexlren/padme-core) - Cross-platform gameboy emulator engine.

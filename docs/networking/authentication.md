@@ -1,6 +1,6 @@
 # Authentication
 
-[Biscuit](https://www.biscuitsec.org/) auth token is neat.
+[Biscuit](https://www.biscuitsec.org/) & [Hanko](https://www.hanko.io/) seem neat.
 
 ## Notes
 
@@ -233,3 +233,4 @@
 - [Next-Generation Mutual Authentication with Cilium Service Mesh (2022)](https://isovalent.com/blog/post/2022-05-03-servicemesh-security)
 - [ADX](https://github.com/bluesky-social/adx) - Experiment in self-authenticating data structures for a federated social network. ([HN](https://news.ycombinator.com/item?id=31267727))
 - [Tailscale Authentication with Traefik](https://github.com/kevin-hanselman/tailscale-forward-auth)
+- [Hanko](https://github.com/teamhanko/hanko) - Clean approach to user authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. ([Web](https://www.hanko.io/))

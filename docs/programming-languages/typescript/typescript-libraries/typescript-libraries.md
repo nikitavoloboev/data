@@ -57,6 +57,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Ionic](https://ionic.io/) - Enterprise App Development & Delivery Platform. ([Code](https://github.com/ionic-team/ionic-framework)) ([Twitter](https://twitter.com/Ionicframework)) ([Tweet](https://twitter.com/93alan/status/1512587338962116611))
 - [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
 - [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
+- [ApiDOM](https://github.com/swagger-api/apidom) - Semantic parser for API specifications.
 
 ## GraphQL
 

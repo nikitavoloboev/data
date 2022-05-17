@@ -21,6 +21,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Nicolas Moutschen](https://n14n.dev/)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 - [Anthony Fu](https://antfu.me/posts)
+- [Ryan Dahl](https://tinyclouds.org/)
 - [Danny Gratzer](https://jozefg.bitbucket.io/about.html)
 - [Apple ML Journal](https://machinelearning.apple.com/)
 - [Tom MacWright](https://macwright.org/archive/)
