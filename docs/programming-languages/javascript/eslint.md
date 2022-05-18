@@ -58,3 +58,4 @@ title: ESLint
 - [eslint-plugin-d](https://github.com/paleite/eslint-plugin-diff) - Run ESLint on your changed lines only. Now with CI support.
 - [ESLint rules extracted from SonarJS](https://github.com/rx-ts/eslint-plugin-sonar)
 - [SonarJS rules for ESLint](https://github.com/SonarSource/eslint-plugin-sonarjs)
+- [ESLint-Plugin-Lodash](https://github.com/wix/eslint-plugin-lodash)

@@ -361,3 +361,4 @@ title: Reinforcement learning
 - [DeepMind: A Generalist Agent (2022)](https://www.deepmind.com/publications/a-generalist-agent) ([HN](https://news.ycombinator.com/item?id=31355657)) ([Tweet](https://twitter.com/DeepMind/status/1524770016259887107))
 - [Alpha Zero and Monte Carlo Tree Search](http://joshvarty.github.io/AlphaZero/) - Absolute most basic example of AlphaZero and Monte Carlo Tree Search. ([Code](https://github.com/JoshVarty/AlphaZeroSimple))
 - [Scalable Deep Reinforcement Learning Algorithms for Mean Field Games (2022)](https://arxiv.org/abs/2203.11973)
+- [RL4Rec](https://github.com/BetsyHJ/RL4Rec) - Toolkit of Reinforcement Learning based Recommendation.

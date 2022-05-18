@@ -137,3 +137,4 @@ title: Julia
 - [The Julia language has a number of correctness flaws](https://yuri.is/not-julia/) ([HN](https://news.ycombinator.com/item?id=31396861)) ([Reddit](https://www.reddit.com/r/programming/comments/uqznl3/the_julia_language_has_a_number_of_correctness/))
 - [My Experiences with Julia](https://weissmann.pm/julialang/) ([HN](https://news.ycombinator.com/item?id=31402989))
 - [SciML Style Guide for Julia](https://github.com/SciML/SciMLStyle)
+- [Julia for Data Analysis Book (2022)](https://www.manning.com/books/julia-for-data-analysis)

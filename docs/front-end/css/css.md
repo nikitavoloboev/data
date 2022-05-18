@@ -501,3 +501,4 @@ all: unset
 - [Favorite Modern CSS features (2022)](https://twitter.com/argyleink/status/1523867688849666048)
 - [CSS Stats](https://cssstats.com/) - Visualize various stats about your CSS. ([Code](https://github.com/cssstats/cssstats))
 - [State of CSS 2022](https://web.dev/state-of-css-2022/) ([Tweet](https://twitter.com/ChromiumDev/status/1524376275665756161)) ([Video](https://www.youtube.com/watch?v=Xy9ZXRRgpLk)) ([Tweet](https://twitter.com/jaffathecake/status/1525048999287443456))
+- [The Surprising Truth About Pixels and Accessibility: should I use pixels or rems?](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) ([Tweet](https://twitter.com/JoshWComeau/status/1526548095311302662))

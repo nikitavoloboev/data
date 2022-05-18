@@ -85,3 +85,4 @@ title: Shaders
 - [Rhea Grass](https://github.com/Ryan-Gee/RheaGrass) - Geometry-shader based grass for Unity's Universal Render Pipeline.
 - [Simple WebGL Fragment Shader Editor](http://editor.thebookofshaders.com/) ([Code](https://github.com/patriciogonzalezvivo/glslEditor))
 - [CrossShader](https://github.com/alaingalvan/CrossShader) - Tool for cross compiling shaders. Convert between GLSL, HLSL, Metal Shader Language, or older versions of GLSL.
+- [Shader examples](https://github.com/danielscherzer/SHADER)

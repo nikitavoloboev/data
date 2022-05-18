@@ -791,3 +791,4 @@ title: Rust
 - [Dancing with the compiler: Rust and explicitness (2022)](https://n14n.dev/articles/2022/dancing-with-the-compiler/)
 - [Safe operations with typestate in Rust (2021)](https://n14n.dev/articles/2021/safe-operations-with-typestate-in-rust/)
 - [Safe JSON representations with Rust (2021)](https://n14n.dev/articles/2021/safe-json-representations-with-rust/)
+- [Why can't Rust have have dynamic linking of dependencies? (2022)](https://www.reddit.com/r/rust/comments/us328s/can_someone_from_the_rust_community_share_their/) ([Tweet](https://twitter.com/myrrlyn/status/1526916331202813957))

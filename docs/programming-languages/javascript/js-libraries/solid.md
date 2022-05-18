@@ -59,3 +59,4 @@ title: SolidJS
 - [Turbo Solid](https://github.com/StudioLambda/TurboSolid) - Lightweight asynchronous data management for solid.
 - [Solid in 100 Seconds (2022)](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
 - [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) - Creates a primitive to support abortable HTTP requests. If any reactive request options changes, the request is aborted automatically.
+- [Praises of SolidJS (2022)](https://twitter.com/andrewgreenh/status/1526908199386988544)
