@@ -174,7 +174,7 @@
 - [Naughty Dog at SIGGRAPH 2020](https://www.naughtydog.com/blog/naughty_dog_at_siggraph_2020)
 - [Notes on two Jonathan Blow's lectures on game design](https://dbohdan.com/wiki/jonathan-blow)
 - [I Tried Making a 3D RPG Game in JavaScript (2020)](https://www.youtube.com/watch?v=SBfZAVzbhCg)
-- [3D Math Primer for Graphics and Game Development](https://gamemath.com/) ([Tweet](https://twitter.com/ZPostFacto/status/1370032915329949707))
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/) ([Tweet](https://twitter.com/ZPostFacto/status/1370032915329949707)) ([Intro](https://gamemath.com/book/intro.html)) ([HN](https://news.ycombinator.com/item?id=31419494))
 - [Learning Machine Learning for Game Development (2021)](https://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html) ([HN](https://news.ycombinator.com/item?id=26523223))
 - [Game Pillars and Values (2021)](https://www.charliecleveland.com/game-pillars/)
 - [Demoscene: The Strangest (and Coolest) Computer Subculture](https://www.youtube.com/watch?v=VENFVhQqGls)

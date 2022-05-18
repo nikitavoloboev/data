@@ -164,3 +164,4 @@
 - [fledge](https://github.com/cynkra/fledge) - Streamline the process of versioning R packages and updating NEWS.
 - [skimr](https://github.com/ropensci/skimr) - Frictionless, pipeable approach to dealing with summary statistics.
 - [swiftr](https://github.com/hrbrmstr/swiftr) - Seamless R and Swift Integration.
+- [Fast Lane to Learning R](https://github.com/matloff/fasteR) ([HN](https://news.ycombinator.com/item?id=31385554))

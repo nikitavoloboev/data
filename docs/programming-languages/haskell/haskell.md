@@ -427,3 +427,4 @@ title: Haskell
 - [Existential optics (2022)](https://www.tweag.io/blog/2022-05-05-existential-optics/)
 - [Haskell on a Shared-Memory Multiprocessor (2005)](https://simonmar.github.io/bib/papers/multiproc.pdf)
 - [Model Checking in Haskell, Part 1: Transition Systems and Invariants (2022)](https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html)
+- [How to lower an IR? (2022)](https://luctielen.com/posts/how-to-lower-an-ir/)

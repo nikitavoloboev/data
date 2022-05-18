@@ -50,3 +50,4 @@
 - [The Windows OS needs a change in priorities (2022)](https://den.dev/blog/windows-priority-shuffle/) ([HN](https://news.ycombinator.com/item?id=30747332))
 - [Using Windows after 15 years on Linux (2022)](https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/) ([HN](https://news.ycombinator.com/item?id=30944438))
 - [How to Run Windows 11 on M1 Mac, for Free (2022)](https://osxdaily.com/2022/04/14/how-run-windows-11-m1-mac/)
+- [Free Lunch](https://github.com/auctors/free-lunch) - Curated list of free Windows software, online services and resources.

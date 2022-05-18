@@ -162,3 +162,4 @@ title: Scala
 - [Scastie](https://scastie.scala-lang.org/) - Interactive playground for Scala. ([Code](https://github.com/scalacenter/scastie))
 - [Scala Bootcamp](https://github.com/evolution-gaming/scala-bootcamp)
 - [Tree sitter grammar for Scala 2/3](https://github.com/susliko/tree-sitter-scala)
+- [You already know Monad(ic) stuff](https://blog.sake.ba/en/posts/programming/monads.html)

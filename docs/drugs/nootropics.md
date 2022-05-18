@@ -30,3 +30,4 @@ There are also [few nootropics you can take to in some way boost your mental abi
 - [Drugs that can safely boost serotonin and(or) dopamine (2021)](https://www.reddit.com/r/researchchemicals/comments/qknegv/are_there_any_research_chems_or_drugs_in_general/)
 - [What is the most interesting nootropic or most mind blowing one (2022)](https://www.reddit.com/r/Nootropics/comments/ub5i2d/what_is_the_most_interesting_nootropic_or_most/)
 - [Favorite Nootropics for Energy (2022)](https://www.reddit.com/r/Nootropics/comments/ucpfz3/favorite_nootropics_for_energy/)
+- [What are some supplements to eliminate brain fog? (2022)](https://www.reddit.com/r/Nootropics/comments/us2qgr/what_are_some_supplements_to_eliminate_brain_fog/)

@@ -118,3 +118,4 @@
 - [rock](https://github.com/ollef/rock) - Build system inspired by Build systems à la carte.
 - [Zap](https://github.com/AbstractMachinesLab/zap) - Simple, fast, and correct build system for any programming language, that uses Deno and is built in Rust.
 - [Remembering Buildtool (2022)](https://jmmv.dev/2022/05/remembering-buildtool.html)
+- [Dirsh](https://github.com/christian-blades-cb/dirsh) - Consistent hashing of directories, respects your gitignore.

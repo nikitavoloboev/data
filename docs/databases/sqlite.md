@@ -16,7 +16,7 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 
 ## Links
 
-- [Rosefinch](https://rosefinchapp.com/) - SQLite client for Mac. ([HN](https://news.ycombinator.com/item?id=29152008))
+- [Rosefinch](https://rosefinchapp.com/) - SQL client for Mac. ([HN](https://news.ycombinator.com/item?id=29152008))
 - [EXPLAIN QUERY PLAN](https://sqlite.org/eqp.html) - SQL command that is used to obtain a high-level description of the strategy or plan that SQLite uses to implement a specific SQL query.
 - [FTS5](https://www.sqlite.org/fts5.html) - SQLite virtual table module that provides full-text search functionality to database applications.
 - [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite)
@@ -198,3 +198,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [SQLite in Go, with and without cgo (2022)](https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html) ([HN](https://news.ycombinator.com/item?id=31364166))
 - [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/) ([HN](https://news.ycombinator.com/item?id=31386330))
 - [JSON and Virtual Columns in SQLite (2022)](https://antonz.org/json-virtual-columns/) ([HN](https://news.ycombinator.com/item?id=31396578))
+- [Tiny SQLite3](https://github.com/fabiospampinato/tiny-sqlite3) - Tiny cross-platform client for SQLite3, with the official precompiled binaries as the only third-party dependencies.

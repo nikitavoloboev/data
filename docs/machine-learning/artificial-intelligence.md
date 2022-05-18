@@ -135,3 +135,5 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 - [The Future of Artificial Intelligence with Sam Harris and Eric Schmidt (2022)](https://overcast.fm/+KhqGdr4kI)
 - [On the Measure of Intelligence (2019)](https://arxiv.org/abs/1911.01547) ([Tweet](https://twitter.com/alexkowsik/status/1518602848421961730))
 - [NumGLUE](https://github.com/allenai/numglue) - Suite of Fundamental yet Challenging Mathematical Reasoning Tasks.
+- [Gato – A Generalist Agent (2022)](https://arxiv.org/abs/2205.06175) ([HN](https://news.ycombinator.com/item?id=31415478))
+- [Reliance on metrics is a fundamental challenge for AI: Patterns (2022)](https://www.cell.com/patterns/fulltext/S2666-3899(22)00056-3)

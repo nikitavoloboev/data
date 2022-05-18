@@ -229,3 +229,4 @@ title: Clojure
 - [Fast Embeddable Clojure in C](https://github.com/Zelex/jo_lisp)
 - [Refactor nREPL](https://github.com/clojure-emacs/refactor-nrepl) - nREPL middleware to support refactorings in an editor agnostic way.
 - [The Dawn of Lightweight Concurrency for Java and Clojure (2022)](https://ales.rocks/notes-on-virtual-threads-and-clojure)
+- [Ideas for Clojure Network Eval API (2022)](https://tonsky.me/blog/network-eval/)

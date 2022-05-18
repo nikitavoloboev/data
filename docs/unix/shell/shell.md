@@ -228,4 +228,4 @@ All active variables can be seen by running `env`.
 - [Ask HN: Why are there so many companies trying to reinvent the terminal (badly)? (2022)](https://news.ycombinator.com/item?id=31232665)
 - [gifcast](https://github.com/dstein64/gifcast) - Converts an asciinema cast to an animated GIF.
 - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash. ([HN](https://news.ycombinator.com/item?id=31400557))
-- [Everything you ever wanted to know about terminals(but were afraid to ask)](http://xn--rpa.cc/irl/term.html) ([HN](https://news.ycombinator.com/item?id=31415937))
+- [Everything you ever wanted to know about terminals (but were afraid to ask)](http://xn--rpa.cc/irl/term.html) ([HN](https://news.ycombinator.com/item?id=31415937))

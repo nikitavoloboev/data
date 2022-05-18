@@ -542,3 +542,4 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Bookshelf Action](https://github.com/AnandChowdhary/bookshelf-action) - Track your reading using GitHub Actions.
 - [New York Review Books](https://www.nyrb.com/)
 - [Thomas' Book Notes](https://thomasmorales.com/book-notes)
+- [Kindle, ePub, and Amazon’s love of reinventing wheels (2022)](https://hackaday.com/2022/05/17/kindle-epub-and-amazons-love-of-reinventing-wheels/) ([HN](https://news.ycombinator.com/item?id=31418791))

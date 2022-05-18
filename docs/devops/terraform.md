@@ -170,3 +170,4 @@ title: Terraform
 - [Vercel Terraform Provider](https://github.com/vercel/terraform-provider-vercel)
 - [terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform Registry.
 - [Atlas Terraform Provider](https://github.com/ariga/terraform-provider-atlas)
+- [TFstate.dev](https://github.com/tfstate/github-sls-rest-api) - Terraform State Storage HTTP Backend.

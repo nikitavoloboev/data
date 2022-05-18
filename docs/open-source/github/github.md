@@ -421,3 +421,4 @@ Awesome List
 - [GitHub Markdown CSS demo](https://sindresorhus.com/github-markdown-css/) - Minimal amount of CSS to replicate the GitHub Markdown style. ([Code](https://github.com/sindresorhus/github-markdown-css))
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [Awesome GitHub CLI Extensions](https://github.com/kodepandai/awesome-gh-cli-extensions)
+- [Trailer.app](http://ptsochantaris.github.io/trailer/) - Managing Pull Requests and Issues For GitHub. ([Code](https://github.com/ptsochantaris/trailer))

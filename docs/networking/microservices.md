@@ -110,3 +110,4 @@
 - [clue](https://github.com/goadesign/clue) - Go packages for instrumenting microservices.
 - [Give me back my monolith (2019)](https://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/) ([HN](https://news.ycombinator.com/item?id=31327766))
 - [DTM (Distributed Transactions Manager)](https://github.com/dtm-labs/dtm) - Distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
+- [Kalix.io](https://www.kalix.io/) - High performance microservices and APIs. ([Article](https://www.kalix.io/blog/kalix-move-to-the-cloud-extend-to-the-edge-go-beyond))
