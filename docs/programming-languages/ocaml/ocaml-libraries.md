@@ -192,6 +192,7 @@ title: OCaml libraries
 - [Diskuv Box](https://github.com/diskuv/diskuvbox) - Basic, cross-platform set of commands to manipulate and query the file system.
 - [raylib-ocaml](https://github.com/tjammer/raylib-ocaml) - OCaml bindings for raylib, a simple and easy-to-use library to enjoy video games programming.
 - [ocplib-json-typed](https://github.com/OCamlPro/ocplib-json-typed) - Libraries for reliable manipulation JSON objects.
+- [ocaml-alg](https://github.com/smimram/ocaml-alg) - Algebraic structures in OCaml.
 
 ## Links
 

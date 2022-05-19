@@ -357,7 +357,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Library JSON - A Proposal for a Decentralized Goodreads (2020)](https://tomcritchlow.com/2020/04/15/library-json/)
 - [Springer Link](https://link.springer.com/) - Over 10 million scientific documents at your fingertips.
 - [Python script to download all Springer books](https://github.com/alexgand/springer_free_books)
-- [The Tools I Use To Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
+- [The Tools I Use To Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/) ([HN](https://news.ycombinator.com/item?id=31394719))
 - [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - Python based software to unpack Amazon / Kindlegen generated ebooks.
 - [How to write a programming book (2020)](https://www.aquicarattino.com/blog/how-write-programming-book/) ([HN](https://news.ycombinator.com/item?id=23281568))
 - [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs) ([HN](https://news.ycombinator.com/item?id=23292749))

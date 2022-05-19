@@ -95,3 +95,4 @@ title: Lean
 - [Unicode.lean](https://github.com/xubaiw/Unicode.lean) - Unicode related operations for Lean 4.
 - [Parsec.lean](https://github.com/yatima-inc/Parsec.lean) - Parser combinators for Lean.
 - [Nix expressions and derivations in lean](https://github.com/Anderssorby/Nix.lean)
+- [doc-gen4](https://github.com/leanprover/doc-gen4) - Document Generator for Lean 4.

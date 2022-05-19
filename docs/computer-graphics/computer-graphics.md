@@ -229,3 +229,4 @@
 - [Xilem: an architecture for UI in Rust (2022)](https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html) ([HN](https://news.ycombinator.com/item?id=31297550)) ([Lobsters](https://lobste.rs/s/hyduzg/xilem_architecture_for_ui_rust))
 - [Differentiable Signed Distance Function Rendering (2022)](http://rgl.epfl.ch/publications/Vicini2022SDF) ([HN](https://news.ycombinator.com/item?id=31314051)) ([Code](https://github.com/lucidrains/differentiable-SDF-pytorch))
 - [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) ([Code](https://github.com/YuqiaoZhang/LTC))
+- [Multi-platform experiments in framebuffer drawing performance (2021)](http://nuclear.mutantstargoat.com/blog/100-fbperf_experiments.html)

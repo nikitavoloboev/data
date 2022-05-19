@@ -129,4 +129,4 @@
 - [StreamVByte](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 - [BZip3](https://github.com/kspalaiologos/bzip3) - Better, faster and stronger spiritual successor to BZip2.
 - [Time-series compression algorithms, explained (2020)](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
-- [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html)
+- [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html) ([HN](https://news.ycombinator.com/item?id=31411714))

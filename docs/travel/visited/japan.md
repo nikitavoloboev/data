@@ -81,3 +81,4 @@
 - [Japanese](https://github.com/gojp/japanese) - Go package for Japanese grammar.
 - [kana](https://github.com/gojp/kana) - Go library for converting hiragana to romaji, katakana to romaji, romaji to hiragana, and romaji to katakana.
 - [Nihongo.io](https://nihongo.io/) - Open source Japanese Dictionary written in Go. ([Code](https://github.com/gojp/nihongo))
+- [Long-Term Building in Japan](https://longnow.org/ideas/02019/09/11/long-term-building-in-japan/) ([HN](https://news.ycombinator.com/item?id=31428481))

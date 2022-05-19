@@ -109,6 +109,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Payload CMS](https://payloadcms.com/)
 - [Ghostly Kisses](https://ghostlykissesmusic.com/)
 - [Raureif](https://raureif.net/)
+- [Holloway](https://www.holloway.com/)
 - [Wildbit](https://wildbit.com/)
 - [Height](https://height.app/) ([Tweet](https://twitter.com/williambout/status/1443967421975601164))
 - [Tink](https://tink.com/) ([How it's fast](https://news.ycombinator.com/item?id=27615238))

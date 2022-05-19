@@ -130,3 +130,4 @@ title: OCaml
 - [HN: New OCaml Website (2022)](https://news.ycombinator.com/item?id=31205519)
 - [What I wish I knew when learning OCaml (2018)](https://baturin.org/docs/ocaml-faq/) ([HN](https://news.ycombinator.com/item?id=31219552))
 - [MiniML](https://github.com/cmaes/miniml) - Compiler for a subset of the ML (really OCaml) language. LLVM is used as a backend.
+- [Muhokama](https://github.com/xvw/muhokama) - Simple forum built on top of Dream, Caqti, Omd, Preface, Cmdliner and other useful OCaml libraries.

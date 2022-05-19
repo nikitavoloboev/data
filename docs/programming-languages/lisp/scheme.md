@@ -89,3 +89,4 @@ title: Scheme
 - [CLP(Rosette) on top of miniKanren](https://github.com/chansey97/clprosette-miniKanren)
 - [FLISP](https://github.com/fjames86/flisp) - Scheme-like Lisp interpreter that can also run as an operating system.
 - [Schism](https://github.com/schism-lang/schism) - Compiler from Scheme to WebAssembly.
+- [thunderchez](https://github.com/ovenpasta/thunderchez) - Libraries for Chez Scheme productivity.

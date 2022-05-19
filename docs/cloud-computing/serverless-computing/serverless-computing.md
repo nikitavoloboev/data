@@ -13,7 +13,7 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 
 ## Links
 
-- [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl)) ([GitHub](https://github.com/superfly/)) ([Docs](https://fly.io/docs/)) ([Docs Code](https://github.com/superfly/docs)) ([Article](https://christine.website/blog/fly.io-heroku-replacement)) ([HN](https://news.ycombinator.com/item?id=31390506))
+- [Fly](https://fly.io/) - Deploy app servers close to your users. ([flyctl - command-line interface for fly.io](https://github.com/superfly/flyctl)) ([GitHub](https://github.com/superfly/)) ([Docs](https://fly.io/docs/)) ([Docs Code](https://github.com/superfly/docs)) ([Article](https://christine.website/blog/fly.io-heroku-replacement)) ([HN](https://news.ycombinator.com/item?id=31390506)) ([Article](https://blog.hartleybrody.com/thoughts-on-flyio/)) ([HN](https://news.ycombinator.com/item?id=31413483))
 - [Introduction to serverless applications and databases](https://www.prisma.io/dataguide/serverless/what-is-serverless)
 - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. ([HN](https://news.ycombinator.com/item?id=22512196)) ([Web](https://firecracker-microvm.github.io/)) ([HN](https://news.ycombinator.com/item?id=28893884))
 - [Firecracker: start a VM in less than a second (2021)](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/) ([HN](https://news.ycombinator.com/item?id=25883253))

@@ -116,3 +116,4 @@ Might give it a go sometime.
 - [A CEO's Guide to Emacs (2015)](https://www.fugue.co/blog/2015-11-11-guide-to-emacs.html) ([HN](https://news.ycombinator.com/item?id=31320610))
 - [ElispCheatSheet](https://github.com/alhassy/ElispCheatSheet) - Quick reference to the core language of Emacs.
 - [Advanced Techniques for Reducing Emacs Startup Time](https://blog.d46.us/advanced-emacs-startup/) ([HN](https://news.ycombinator.com/item?id=31394001))
+- [Living The Eshell Dream: A Reduction in Latency From 70 Seconds to 3 Seconds](https://tdodge.consulting/blog/eshell/background-output-thread)

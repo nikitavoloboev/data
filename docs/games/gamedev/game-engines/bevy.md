@@ -40,3 +40,5 @@ title: Bevy Engine
 - [Bevy Inspector eGUI](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine.
 - [Shader Practice in Bevy](https://github.com/wilk10/shader_practice)
 - [Smooth Bevy Cameras](https://github.com/bonsairobo/smooth-bevy-cameras) - Bevy camera controllers with buttery, exponential smoothing.
+- [Bevy Easings](https://github.com/vleue/bevy_easings) - Helpers and Plugins for Bevy.
+- [Bevy Hanabi](https://github.com/djeedai/bevy_hanabi) - GPU particle system plugin for the Bevy game engine.

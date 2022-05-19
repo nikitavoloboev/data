@@ -201,3 +201,4 @@
 - [Ask HN: How does Apple achieve both secrecy and quality for a release? (2022)](https://news.ycombinator.com/item?id=31073754)
 - [11 Promises from a Manager](https://twitter.com/MrEchs/status/1516024322409832450)
 - [Basecamp Employee Handbook](https://basecamp.com/handbook)
+- [Thoughts on OKRs (2022)](https://joeblu.com/blog/2022_05_okrs/) ([HN](https://news.ycombinator.com/item?id=31422718))

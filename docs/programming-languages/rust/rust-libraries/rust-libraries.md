@@ -711,6 +711,7 @@
 - [proc-easy](https://github.com/zakarumych/proc-easy) - Macros to make writing proc-macro crates easy.
 - [rust-si](https://github.com/oli-obk/rust-si) - Rusty `scanf` (`scan!`) and inverse of `print!` (`read!`).
 - [fault-injection](https://github.com/komora-io/fault-injection) - Similar to the try! macro or ? operator, but externally controllable to inject faults during testing. ([Tweet](https://twitter.com/sadisticsystems/status/1526152556799479809))
+- [auto-import](https://github.com/m-ou-se/auto-import) - Expands to whatever use statements you need to make the rest of the code compile.
 
 ## Math
 
@@ -1877,6 +1878,7 @@
 - [audio](https://github.com/udoprog/audio) - Crate for working with audio in Rust.
 - [sharded-log](https://github.com/komora-io/sharded-log) - Batch-oriented multi-threaded sharded log for workloads that occasionally flush logs into some other system.
 - [flate2](https://github.com/rust-lang/flate2-rs) - Streaming compression/decompression library DEFLATE-based streams in Rust.
+- [CipherCore](https://github.com/ciphermodelabs/ciphercore) - User-friendly secure computation engine based on secure multi-party computation.
 
 ## Cargo Plugins
 

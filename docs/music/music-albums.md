@@ -18,3 +18,7 @@ A list of albums I like.
 - [Electronic System - Skylab (1974)](https://www.youtube.com/watch?v=cIwDLN2X6Rs)
 - [Blood Orange - Negro Swan (2018)](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) - Loved Orlando.
 - [Pitchfork's 50 Best Albums of 2021](https://pitchfork.com/features/lists-and-guides/best-albums-2021/) ([Reddit](https://www.reddit.com/r/popheads/comments/razwhl/pitchforks_50_best_albums_of_2021/))
+
+## Links
+
+- [What album of past the 10 years do you consider a "modern classic"? (2022)](https://www.reddit.com/r/electronicmusic/comments/uskht3/what_album_of_past_the_10_years_do_you_consider_a/)

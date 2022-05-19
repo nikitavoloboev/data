@@ -194,3 +194,4 @@ title: SQL
 - [Learn BigQuery](https://scosco.github.io/learn-bigquery/)
 - [SQL Graphviz](https://github.com/rm-hull/sql_graphviz) - Python 3 script that generates a Graphviz visualization of a SQL schema dump.
 - [Functional Programming on Top of SQL Engines (2022)](https://www.youtube.com/watch?v=_gfK0Tn_N7w)
+- [What is the difference between single and double quotes in SQL?](https://stackoverflow.com/questions/1992314/what-is-the-difference-between-single-and-double-quotes-in-sql/1992331)

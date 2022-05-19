@@ -404,3 +404,5 @@ title: PyTorch
 - [torch-ppr](https://github.com/mberr/torch-ppr) - Page-Rank computation using PyTorch.
 - [PyTorch-Energizer](https://github.com/pietrolesci/pytorch-energizer) - Active learning library for PyTorch based on PyTorch-Lightning.
 - [Torchshow](https://github.com/xwying/torchshow) - Visualize PyTorch tensor in one-line of code.
+- [Accelerated PyTorch Training on M1 Mac (2022)](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/) ([HN](https://news.ycombinator.com/item?id=31424048))
+- [Metatorch](https://github.com/jworr/metatorch) - Library and framework for prototyping PyTorch models with Haskell.

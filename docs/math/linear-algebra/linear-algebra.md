@@ -70,3 +70,4 @@
 - [Matrices are graphs, and graphs are matrices](https://twitter.com/TivadarDanka/status/1502215264544296962)
 - [Vectorization, dependencies and outer loop vectorization: if you can't beat them, join them (2022)](https://johnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/)
 - [Writing your own linear algebra matrix library in C (2021)](https://www.andreinc.net/2021/01/20/writing-your-own-linear-algebra-matrix-library-in-c)
+- [The Big Six Matrix Factorizations (2022)](https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/) ([HN](https://news.ycombinator.com/item?id=31421745))

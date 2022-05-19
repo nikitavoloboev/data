@@ -374,6 +374,7 @@
 - [The Startup of You Book](https://www.startupofyou.com/)
 - [We Need a Middle Class for Startups (2022)](https://neilthanedar.com/we-need-a-middle-class-for-startups/) ([HN](https://news.ycombinator.com/item?id=31327219))
 - [How startup employees can protect themselves in a down market, questions to ask and metrics to know while evaluating startups to work at](https://youtu.be/ezOIBfZcwbQ?t=3515)
+- [I spent two years launching tiny projects (2022)](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects) ([HN](https://news.ycombinator.com/item?id=31421364))
 
 ## Images
 

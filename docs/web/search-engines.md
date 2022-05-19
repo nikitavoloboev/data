@@ -234,3 +234,4 @@
 - [SEAL](https://github.com/facebookresearch/SEAL) - Search Engines with Autoregressive Language models.
 - [Oldest Search](https://www.oldestsearch.com/) - Search for the oldest result on internet.
 - [Search My Site](https://searchmysite.net/) - Open source search engine and search as a service for personal and independent websites. ([Code](https://github.com/searchmysite/searchmysite.net))
+- [The future of search is boutique (2022)](https://future.a16z.com/the-future-of-search-is-boutique/) ([HN](https://news.ycombinator.com/item?id=31424237))
