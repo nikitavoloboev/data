@@ -6,7 +6,7 @@ Well implemented analytics will let you see how to optimize your system to serve
 
 If analytics are used, it's best to implement them server side with something like [Netlify](https://www.netlify.com/products/analytics/) so as to not send unnecessary JS to the client and keep pages light.
 
-[umami](https://umami.is/) seems nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read.
+[umami](https://umami.is/) seems nice for analytics. [Product Analytics from Scratch](https://tmfarrell.github.io/writing/2022/04/26/product_analytics_from_scratch/) is a nice read. [Databend](https://github.com/datafuselabs/databend) seems great for more serious data processing needs.
 
 ## Notes
 

@@ -94,3 +94,4 @@ title: DynamoDB
 - [Dynosaur](https://github.com/SystemFw/dynosaur) - Declarative bidirectional codecs for DynamoDb AttributeValue, SDK 2.
 - [Dynomite](https://github.com/Netflix/dynomite) - Inspired by Dynamo whitepaper, is a thin, distributed dynamo layer for different storage engines and protocols.
 - [dynamodb_lock](https://crates.io/crates/dynamodb_lock) - Distributed lock backed by DynamoDB.
+- [Amazon DynamoDB Design Patterns](https://github.com/aws-samples/amazon-dynamodb-design-patterns)

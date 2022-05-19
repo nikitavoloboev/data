@@ -150,3 +150,4 @@ title: Coq
 - [Coq Performance Tests](https://github.com/coq-community/coq-performance-tests) - Library of Coq source files testing for performance regressions on Coq.
 - [xmonad in Coq](https://github.com/wouter-swierstra/xmonad)
 - [mCoq](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq verification projects.
+- [bedrock2](https://github.com/mit-plv/bedrock2) - Work-in-progress language and compiler for verified low-level programming.

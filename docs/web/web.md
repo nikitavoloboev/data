@@ -414,3 +414,4 @@
 - [MiniApp Standardization](https://github.com/w3c/miniapp)
 - [Preact Island](https://github.com/mwood23/preact-island) - Create your own slice of paradise on any website.
 - [Webpage List](https://webpagelist.com/) - Discover new websites. ([HN](https://news.ycombinator.com/item?id=31387592))
+- [bringhome](https://github.com/papandreou/bringhome) - Download a web page to a local directory.

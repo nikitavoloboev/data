@@ -160,3 +160,4 @@
 - [Nice funding pitch thread by Maybe](https://twitter.com/Shpigford/status/1512092844051382283)
 - [Web3: a VC-funded gig economy of securities fraud (2022)](https://davidgerard.co.uk/blockchain/2022/04/11/web3-a-vc-funded-gig-economy-of-securities-violations/)
 - [Future Funding List](https://www.futurefundinglist.com/) - 65 future-oriented funding sources. ([Tweet](https://twitter.com/stephenkfrey/status/1515077349456420864))
+- [Open Grants](https://www.ogrants.org/) - List of grants that are openly available on the web. ([Code](https://github.com/ogrants/ogrants))

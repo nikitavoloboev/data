@@ -55,3 +55,4 @@ title: Data-Driven Documents
 - [react-d3-graph](https://github.com/danielcaldas/react-d3-graph) - Interactive and configurable graphs with react and d3 effortlessly.
 - [d3-array](https://github.com/d3/d3-array) - Array manipulation, ordering, searching, summarizing, etc.
 - [Data Visualization with D3 and Svelte (2021)](https://www.youtube.com/watch?v=3n0vU9YtDsg)
+- [Navio](https://github.com/john-guerra/navio) - D3 visualization widget to help summarizing, exploring and navigating large network visualizations.

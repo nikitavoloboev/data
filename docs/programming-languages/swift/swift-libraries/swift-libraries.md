@@ -1136,6 +1136,7 @@
 - [WebPKit](https://github.com/TimOliver/WebPKit) - Framework that extends a variety of Cocoa APIs with capabilities for encoding and decoding WebP files for all of Apple's platforms.
 - [ActoCrawler](https://github.com/inamiy/ActoCrawler) - Swift Concurrency-powered crawler engine on top of Actomaton, with flexible customizability to create various HTML scrapers, image scrapers, etc.
 - [Genything](https://github.com/justeattakeaway/Genything) - Library dedicated to easy and composable generation of random data, no matter how complex.
+- [Imaginary](https://github.com/hyperoslo/Imaginary) - Remote images, as easy as one, two, three.
 
 ## Other (not lib)
 
@@ -1202,3 +1203,4 @@
 - [Data Caching with NSCache (2021)](https://mattrighetti.com/2021/06/16/data-caching-nscache.html)
 - [xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support.
 - [Core Image by Example](https://github.com/frankschlegel/core-image-by-example) - Hands-on approach for getting to know all things Apple's Core Image framework can do.
+- [Awesome Swift Async Await](https://github.com/artemnovichkov/awesome-swift-async-await) - Hand-curated list of Swift async/await resources.

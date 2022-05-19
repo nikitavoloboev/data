@@ -122,3 +122,4 @@
 - [Awesome Knowledge Graph](https://github.com/totogo/awesome-knowledge-graph)
 - [What if we had google maps but for navigating information space?](https://twitter.com/MatthewWSiu/status/1519906295603675143)
 - [OpenTapioca](https://github.com/wetneb/opentapioca) - Entity linking system for Wikidata updated by your edits in real time.
+- [Side](https://github.com/facebookresearch/side) - Effort to improve citations on Wikipedia.

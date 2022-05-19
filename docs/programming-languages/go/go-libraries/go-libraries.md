@@ -2,7 +2,7 @@
 
 Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https://github.com/Massad/gin-boilerplate) is nice template)). [Go API Starter Kit](https://github.com/vardius/go-api-boilerplate) & [gorouter](https://github.com/vardius/gorouter) seem nice too. [Bun](https://github.com/uptrace/bun) & [sqlingo](https://github.com/lqs/sqlingo) seem like a nice ORMs. [Ristretto](https://github.com/outcaste-io/ristretto) & [FreeCache](https://github.com/coocood/freecache) are great cache libs. [genqlient](https://github.com/Khan/genqlient) is nice GraphQL client. [ZenQ](https://github.com/alphadose/ZenQ) is a nice queue lib.
 
-[Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro.
+[Tutorial on creating go module](https://go.dev/doc/tutorial/create-module) is great intro. [depu](https://github.com/kevwan/depu) is nice for updating dependencies.
 
 ## CLI
 
@@ -528,6 +528,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 
 - [gocalstorage](https://github.com/superloach/gocalstorage) - Go bindings for the JavaScript Storage APIs, using WASM.
 - [vert](https://github.com/norunners/vert) - WebAssembly interop between Go and JS values.
+- [WASM-Fetch](https://github.com/marwan-at-work/wasm-fetch) - Web Assembly fetch wrapper that avoids importing net/http.
 
 ## GUI
 

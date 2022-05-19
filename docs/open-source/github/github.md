@@ -422,3 +422,6 @@ Awesome List
 - [Beautify GitHub Profile](https://github.com/rzashakeri/beautify-github-profile)
 - [Awesome GitHub CLI Extensions](https://github.com/kodepandai/awesome-gh-cli-extensions)
 - [Trailer.app](http://ptsochantaris.github.io/trailer/) - Managing Pull Requests and Issues For GitHub. ([Code](https://github.com/ptsochantaris/trailer))
+- [gh install](https://github.com/redraw/gh-install) - Install GitHub release binaries from the CLI interactively.
+- [gh-foreach](https://github.com/mtoohey31/gh-foreach) - Automatically clone and execute commands across multiple GitHub repositories.
+- [gh-metrics](https://github.com/hectcastro/gh-metrics) - GitHub CLI extension that provides summary pull request metrics.

@@ -48,3 +48,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/) ([HN](https://news.ycombinator.com/item?id=31261533)) ([Lobsters](https://lobste.rs/s/tz4qsl/mechanical_watch))
 - [Great time travel movies (2022)](https://www.reddit.com/r/MovieSuggestions/comments/uivp1f/hi_everyone_what_are_some_of_your_best_time/)
 - [Who do we spend time with across our lifetime? (2020)](https://ourworldindata.org/time-with-others-lifetime) ([HN](https://news.ycombinator.com/item?id=25385833))
+- [gotz](https://github.com/merschformann/gotz) - CLI time zone info.

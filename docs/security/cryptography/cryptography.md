@@ -173,3 +173,4 @@
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 - [Crypto means cryptography (2022)](https://pluralistic.net/2022/05/12/crypto-means-cryptography/)
 - [Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022](https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/)
+- [Google open sourced PSP (hardware cryptographic offload) (2022)](https://cloud.google.com/blog/products/identity-security/announcing-psp-security-protocol-is-now-open-source) ([HN](https://news.ycombinator.com/item?id=31437033))

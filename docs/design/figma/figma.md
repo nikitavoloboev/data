@@ -93,3 +93,4 @@ title: Figma
 - [Joey's Newsletter](https://joeyabanks.substack.com/)
 - [Config 2022 - YouTube](https://www.youtube.com/playlist?list=PLXDU_eVOJTx4EuiHlITE44wngcErxom6S) ([Reddit](https://www.reddit.com/r/userexperience/comments/unbznq/any_favorite_presentations_from_figmas_config/))
 - [How to change the color of a PNG image in Figma](https://twitter.com/alvishbaldha/status/1524982238017753088)
+- [Figma Bites - YouTube](https://www.youtube.com/c/FigmaBites/videos)

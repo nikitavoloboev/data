@@ -10,7 +10,7 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
-If you want to start a blog of your own, [this](https://github.com/alaq/adrien.sh) (or [this](https://github.com/leerob/leerob.io)) is a nice [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) template. Or [this](https://github.com/sw-yx/swyxkit) if you want to use [Svelte](../programming-languages/javascript/js-libraries/svelte.md). Or [this](https://github.com/SimeonGriggs/simeonGriggs) if you want to use [Remix](../programming-languages/javascript/js-libraries/react/remix.md).
+If you want to start a blog of your own doing it with [Svelte](../programming-languages/javascript/js-libraries/svelte.md) is quite nice I found. [Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) is pretty minimal blog implementation.
 
 [Bartosz Ciechanowski's Blog](https://ciechanow.ski/) is absolutely incredible.
 
@@ -268,3 +268,4 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [lists.sh](https://lists.sh/) - Microblog for lists. ([Code](https://github.com/neurosnap/lists.sh)) ([HN](https://news.ycombinator.com/item?id=31154567))
 - [Is there a good “blog search” out there? (2022)](https://news.ycombinator.com/item?id=31295154)
 - [Scribe](https://sr.ht/~edwardloveall/scribe/) - Alternative Medium Frontend.
+- [Deno Blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging. All you need is one boilerplate JavaScript file that has 2 lines of code.

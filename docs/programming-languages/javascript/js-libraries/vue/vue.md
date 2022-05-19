@@ -4,7 +4,7 @@ title: Vue.js
 
 # [Vue.js](https://vuejs.org)
 
-[Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client.
+[Vitesome](https://github.com/alvarosabu/vitesome) is a nice template. [Villus](https://github.com/logaretm/villus) is nice Vue GraphQL client. [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) seems pretty great too.
 
 ## Built with Vue
 

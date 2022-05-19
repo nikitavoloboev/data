@@ -201,3 +201,4 @@ title: Jupyter Notebooks
 - [JupyterLab extension-cookiecutter-ts](https://github.com/jupyter-server/extension-cookiecutter) - Cookiecutter recipe for Jupyter Server extensions.
 - [nbpreview](https://github.com/paw-lu/nbpreview) - Terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [Gather for the Jupyter extension](https://github.com/microsoft/vscode-gather) - Adds the experimental Gather feature to the Jupyter extension on Python code.
+- [Jupyter Renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab.

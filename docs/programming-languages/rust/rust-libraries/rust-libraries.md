@@ -622,6 +622,7 @@
 ## Macros
 
 - [Readonly](https://github.com/dtolnay/readonly) - Struct fields that are made read-only accessible to other modules.
+- [join!](https://github.com/olegnn/join) - One macro to rule them all.
 - [cfg-if](https://github.com/alexcrichton/cfg-if) - If/elif-like macro for Rust #[cfg] statements.
 - [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
@@ -711,7 +712,7 @@
 - [proc-easy](https://github.com/zakarumych/proc-easy) - Macros to make writing proc-macro crates easy.
 - [rust-si](https://github.com/oli-obk/rust-si) - Rusty `scanf` (`scan!`) and inverse of `print!` (`read!`).
 - [fault-injection](https://github.com/komora-io/fault-injection) - Similar to the try! macro or ? operator, but externally controllable to inject faults during testing. ([Tweet](https://twitter.com/sadisticsystems/status/1526152556799479809))
-- [auto-import](https://github.com/m-ou-se/auto-import) - Expands to whatever use statements you need to make the rest of the code compile.
+- [auto-import](https://github.com/m-ou-se/auto-import) - Expands to whatever use statements you need to make the rest of the code compile. ([Tweet](https://twitter.com/m_ou_se/status/1527232843331645441))
 
 ## Math
 
@@ -1880,6 +1881,8 @@
 - [flate2](https://github.com/rust-lang/flate2-rs) - Streaming compression/decompression library DEFLATE-based streams in Rust.
 - [CipherCore](https://github.com/ciphermodelabs/ciphercore) - User-friendly secure computation engine based on secure multi-party computation.
 - [iso8601](https://github.com/badboy/iso8601) - Parsing ISO8601 dates using nom.
+- [arboard](https://github.com/1Password/arboard) - Cross-platform library for interacting with the clipboard.
+- [midir](https://github.com/Boddlnagg/midir) - Cross-platform, real time MIDI processing in Rust.
 
 ## Cargo Plugins
 

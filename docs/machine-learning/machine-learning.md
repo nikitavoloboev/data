@@ -136,7 +136,7 @@
 - [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - [Top-down, practical guide to learn AI, Deep learning and Machine Learning](https://github.com/emilwallner/How-to-learn-Deep-Learning)
 - [Most Aesthetically Pleasing ML Research Papers](https://www.reddit.com/r/MachineLearning/comments/bp6l9y/d_most_aesthetically_pleasing_ml_research_papers/)
-- [Polyaxon](https://polyaxon.com/) - Platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
+- [Polyaxon](https://polyaxon.com/) - Platform for reproducible and scalable machine learning and deep learning on Kubernetes. ([GitHub](https://github.com/polyaxon)) ([Code](https://github.com/polyaxon/polyaxon))
 - [Different projects built using fast.ai](https://forums.fast.ai/t/share-you-work-here-highlights/57140)
 - [Spell](https://spell.run/) - Fastest and most powerful end-to-end platform for machine learning and deep learning.
 - [ML portfolio tips (2019)](https://twitter.com/EmilWallner/status/1184723538810413056)
@@ -810,3 +810,4 @@
 - [Towards a Learning-Based Query Optimizer (2022)](https://engineering.databloom.ai/2022/05/towards-learning-based-query-optimizer.html) ([HN](https://news.ycombinator.com/item?id=31376141))
 - [Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework (2021)](https://arxiv.org/abs/2106.09121)
 - [Data Distributional Properties Drive Emergent Few-Shot Learning in Transformers (2022)](https://arxiv.org/abs/2205.05055) ([Tweet](https://twitter.com/scychan_brains/status/1526514761579614209))
+- [Machine Learning Specialization - DeepLearning.AI](https://www.deeplearning.ai/program/machine-learning-specialization/) ([HN](https://news.ycombinator.com/item?id=31435801))

@@ -159,3 +159,4 @@
 - [tmap](https://github.com/reymond-group/tmap) - Very fast visualization library for large, high-dimensional data sets.
 - [Mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown. ([Docs](https://mermaid-js.github.io/mermaid/#/)) ([HN](https://news.ycombinator.com/item?id=31273777))
 - [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code Book](https://handsondataviz.org/) ([Code](https://github.com/handsondataviz/book))
+- [datatile](https://github.com/polyaxon/datatile) - Library for managing, validating, summarizing, and visualizing data.

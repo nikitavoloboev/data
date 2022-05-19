@@ -39,6 +39,7 @@
 - [haskell-relational-record](https://github.com/khibino/haskell-relational-record) - Includes a joined query generator based on typefull relational algebra, and mapping tools between SQL values list and Haskell record type.
 - [HieDb](https://github.com/wz1000/HieDb) - Generates a references DB from .hie files.
 - [PostgreSQL Binary](https://github.com/nikita-volkov/postgresql-binary) - Encoders and decoders for the PostgreSQL's binary format.
+- [Rel8](https://github.com/circuithub/rel8) - Haskell library for interacting with PostgreSQL databases.
 
 ## Test
 

@@ -3,6 +3,7 @@
 ## Notes
 
 - [UI component libraries are using the term “accessible” too freely. Adding focus styles and copy-pasting some ARIA roles doesn't make your library accessible, neither does adding an “accessibility” page where you claim to conform to WCAG just because you ran a Lighthouse test.](https://twitter.com/mmatuzo/status/1462884917671604228)
+- [My big a11y tip is to learn about ARIA roles and accessible names and use a test framework that lets you select by role+name. see your app the way screen reader users do. I find a ton of a11y bugs this way](https://twitter.com/davidcrespo/status/1527321522364219402)
 
 ## Links
 
@@ -101,3 +102,4 @@
 - [Best JS frameworks/libraries for web accessibility (2022)](https://twitter.com/simonw/status/1518296889837252609)
 - [Series of HTML test cases to determine how specific elements are announced in different screen reader / browser combinations](https://russmaxdesign.github.io/accessible-forms/) ([Code](https://github.com/russmaxdesign/accessible-forms))
 - [focus-lock](https://github.com/theKashey/focus-lock) - A11y util for scoping a focus.
+- [Global Accessibility Awareness Day](https://accessibility.day/)

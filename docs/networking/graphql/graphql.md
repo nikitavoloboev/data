@@ -329,3 +329,5 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Hypothesis GraphQL](https://github.com/Stranger6667/hypothesis-graphql) - Generate arbitrary queries matching your GraphQL schema, and use them to verify your backend implementation.
 - [GraphQL Is a Trap? (2022)](https://xuorig.medium.com/graphql-is-a-trap-e83ca380aa8f) ([HN](https://news.ycombinator.com/item?id=31284846))
 - [GraphQL Auto Federate](https://github.com/nearform/graphql-auto-federate) - Automatically federate a GraphQL service.
+- [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - Scripting engine to interact with a graphql endpoint for pentesting purposes.
+- [GraphQL Middleware to add X-Ray tracing for resolvers](https://github.com/lifeomic/graphql-resolvers-xray-tracing)

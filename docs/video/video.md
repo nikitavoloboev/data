@@ -358,3 +358,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [FFmpegPlayer](https://github.com/aliakseis/FFmpegPlayer) - Simple FFmpeg video player.
 - [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework) - Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions.
 - [Using a Proper Camera as a Webcam (2022)](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html) ([HN](https://news.ycombinator.com/item?id=31411813))
+- [Hawkeye](https://github.com/cbsinteractive/hawkeye) - Detect images in a video stream and execute automated actions.

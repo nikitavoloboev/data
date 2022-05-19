@@ -249,3 +249,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [cmdg](https://github.com/ThomasHabets/cmdg) - Command line client to GMail.
 - [Postal](https://github.com/postalserver/postal) - Fully featured open source mail delivery platform for incoming & outgoing e-mail. ([Docs](https://docs.postalserver.io/)) ([Docs Code](https://github.com/postalserver/docs))
 - [Email Marketing Glossary](https://emailmarketingglossary.com/) - Guide to all the acronyms and terms in the email world you always wanted. ([Code](https://github.com/rodriguezcommaj/email-marketing-glossary))
+- [Salmon](https://github.com/moggers87/salmon) - Python Mail Server.

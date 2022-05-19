@@ -67,3 +67,4 @@
 - [The Brilliance of “nil” in Objective-C (2022)](https://collindonnell.com/2022/04/28/the-brilliance-of-nil-in-objective-c/) ([HN](https://news.ycombinator.com/item?id=31202292))
 - [Debuggable ObjC runtime](https://github.com/RetVal/objc-runtime)
 - [zig-objcrt](https://github.com/hazeycode/zig-objcrt) - Objective-C Runtime bindings for Zig.
+- [Objective-C ABI Knowledge base](https://github.com/jonpalmisc/objc-kb)

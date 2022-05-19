@@ -153,6 +153,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Aquila Network](https://aquila.network/) - Manage, share and discover smart bookmarks online. ([Awesome](https://github.com/Aquila-Network/awesome-aquila-network))
 - [Chat Analytics](https://chatanalytics.app/) - Generate insightful chat analysis reports in the browser. ([Code](https://github.com/mlomb/chat-analytics))
+- [Rallly](https://rallly.co/) - Schedule group meetings. ([Code](https://github.com/lukevella/rallly))
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Snapcode](https://snapcode.vercel.app/) - Code Snippets Manager. ([Code](https://github.com/Kholid060/snapcode))
 - [RescueTime](https://www.rescuetime.com/) - App you install on your computer and mobile devices that automatically pays attention to the apps you use. ([HN](https://news.ycombinator.com/item?id=28683597))

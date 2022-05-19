@@ -8,6 +8,7 @@ title: Obsidian
 
 - [Dual](https://github.com/Psionica/dual-obsidian-client) - Skilled virtual assistant for Obsidian. ([Article](https://paulbricman.com/thoughtware/dual))
 - [Obsidian Sample Plugin](https://github.com/obsidianmd/obsidian-sample-plugin) - Sample plugin for Obsidian.
+- [Hover Editor](https://github.com/nothingislost/obsidian-hover-editor) - Transform the Page Preview hover into a working editor instance.
 - [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve & note aging by reviewing notes using spaced repetition on Obsidian.md.
 - [Review](https://github.com/ryanjamurphy/review-obsidian) - Add the current note to a future daily note to remember to review it.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - Complex query language implementation for the Obsidian note-taking tool. ([HN](https://news.ycombinator.com/item?id=31407781))
@@ -16,6 +17,7 @@ title: Obsidian
 - [Obsidian Mind Map](https://github.com/lynchjames/obsidian-mind-map) - Obsidian plugin for displaying markdown notes as mind maps using Markmap.
 - [Recall](https://github.com/martin-jw/obsidian-recall) - Spaced Repetition System in Obsidian.
 - [Obsidian Imgur Plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com.
+- [Query Control](https://github.com/nothingislost/obsidian-query-control) - Obsidian plugin that adds controls to embedded queries.
 - [Obsidian Internal Links supercharger](https://github.com/mdelobelle/obsidian_supercharged_links) - Add attributes and context menu options to internal links.
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git.
 - [Obsidian Roundup](https://obsidianroundup.org/) - Weekly roundup of Obsidian.md tips, news & resources.
@@ -44,12 +46,14 @@ title: Obsidian
 - [BRAT (Beta Reviewers Auto-update Tester)](https://github.com/TfTHacker/obsidian42-brat) - Plugin that makes it easier for you to assist other developers with reviewing and testing their plugins.
 - [Zoottelkeeper](https://github.com/akosbalasko/zoottelkeeper-obsidian-plugin) - Automated folder-level index file generator and maintainer.
 - [Obsidian Typing](https://github.com/konodyuk/obsidian-typing) - Strict note typing for Obsidian.
+- [Key Sequence Shortcut](https://github.com/anselmwang/obsidian-key-sequence-shortcut) - Obsidian plugin, allow binding key sequences to an obsidian command.
 - [Smarter Markdown Hotkeys](https://github.com/chrisgrieser/obsidian-smarter-md-hotkeys) - Markdown hotkeys that automatically select words before applying markup.
 - [Pandoc Plugin](https://github.com/OliverBalfour/obsidian-pandoc) - Adds command palette options to export your notes to a variety of formats.
 - [CardBoard](https://github.com/roovo/obsidian-card-board) - Obsidian plugin to make working with tasks a pleasure.
 - [Metadata Extractor](https://github.com/kometenstaub/metadata-extractor) - Allows you to write Obsidian vault metadata, which is only accessible via plugin, onto the hard drive.
 - [Image Window](https://github.com/valentine195/obsidian-image-window) - Adds the ability to open images in new Obsidian windows.
 - [Obsidian Vale](https://github.com/marcusolsson/obsidian-vale) - Vale client for Obsidian.
+- [Workspaces Plus](https://github.com/nothingislost/obsidian-workspaces-plus) - Quickly switch and manage Obsidian workspaces.
 - [Obsidian AnkiBridge](https://github.com/JeppeKlitgaard/ObsidianAnkiBridge) - Anki integration for Obsidian.
 - [Hypothesis Plugin](https://github.com/weichenw/obsidian-hypothesis-plugin) - Synchronize Hypothesis web article highlights/annotations into your Obsidian Vault.
 - [RSS Reader](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian.

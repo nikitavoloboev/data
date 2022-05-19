@@ -31,3 +31,4 @@ title: Automated theorem proving
 - [Rusty Razor](https://github.com/salmans/rusty-razor) - Tool for constructing finite models for first-order theories.
 - [Timothy Gowers's research on automated theorem proving](https://twitter.com/wtgowers/status/1519613183857762304)
 - [Pocket-Prover](https://github.com/advancedresearch/pocket_prover) - Fast, brute force, automatic theorem prover for first order logic.
+- [homotopy-rs](https://github.com/homotopy-io/homotopy-rs) - Proof assistant allows the construction of composite morphisms in a finitely-generated semistrict n-category, via a point-and-click user interface.

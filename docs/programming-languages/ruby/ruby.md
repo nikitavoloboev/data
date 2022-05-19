@@ -130,3 +130,4 @@
 - [Standing on the shoulders of giants and leaky abstractions (2022)](https://honeyryderchuck.gitlab.io/httpx/2022/05/04/standing-on-the-shoulders-of-giants-and-leaky-abstractions.html)
 - [Embedding Truffle Languages (2022)](https://nirvdrum.com/2022/05/09/truffle-language-embedding.html)
 - [Making the Ruby interpreter run a program written in a natural language (2022)](https://dmitrytsepelev.dev/natural-language-programming-with-ruby)
+- [Learning Ruby: a resource list](https://github.com/fpsvogel/learn-ruby-and-cs)

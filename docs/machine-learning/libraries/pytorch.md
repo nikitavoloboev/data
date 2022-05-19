@@ -253,7 +253,6 @@ title: PyTorch
 - [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
 - [torchsynth](https://github.com/torchsynth/torchsynth) - Based upon traditional modular synthesis written in PyTorch. It is GPU-optional and differentiable. ([Docs](https://torchsynth.readthedocs.io/en/latest/))
 - [PyTorch Tabular](https://github.com/manujosephv/pytorch_tabular) - Standard framework for modelling Deep Learning Models for tabular data.
-- [functorch](https://github.com/zou3519/functorch) - Prototype of JAX-like composable function transforms for PyTorch.
 - [PyTorch implementation of EfficientDet](https://github.com/rwightman/efficientdet-pytorch)
 - [Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3](https://github.com/msminhas93/DeepLabv3FineTuning)
 - [Class Activation Map methods implemented in PyTorch](https://github.com/jacobgil/pytorch-grad-cam)

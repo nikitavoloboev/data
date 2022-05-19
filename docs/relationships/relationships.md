@@ -246,3 +246,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Franklin Veaux's web page](https://www.xeromag.com/)
 - [Movies helpful when going through breakup](https://www.reddit.com/r/MovieSuggestions/comments/ujneqa/im_looking_for_movies_that_are_helpful_going/)
 - [For those who practice ethical non-monogamy, why do you do it? (2022)](https://www.reddit.com/r/datingoverthirty/comments/umz7wz/for_those_who_practice_ethical_nonmonogamy_why_do/)
+- [Men, what makes you want to seriously date a girl? (2022)](https://www.reddit.com/r/AskMen/comments/usz6xg/men_what_makes_you_want_to_seriously_date_a_girl/)

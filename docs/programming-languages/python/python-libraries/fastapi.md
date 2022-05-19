@@ -29,3 +29,4 @@ title: FastAPI
 - [FastAPI Cloud Tasks](https://github.com/Adori/fastapi-cloud-tasks) - Strongly typed background tasks with FastAPI and Google CloudTasks.
 - [Example for FastAPI integration with SQLAlchemy ORM with PostgreSQL via asyncpg](https://github.com/grillazz/fastapi-sqlalchemy-asyncpg)
 - [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Configurable and modular Prometheus Instrumentator for your FastAPI.
+- [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi)

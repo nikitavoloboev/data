@@ -85,3 +85,4 @@ title: Idris
 - [Idris2 Hashable](https://github.com/Z-snails/Idris2-hashable) - Interface for types that can be hashed.
 - [Idv](https://github.com/mattpolzin/idv) - Idris Version Manager.
 - [TOML parser for Idris](https://github.com/cuddlefishie/toml-idr)
+- [LightClick](https://github.com/border-patrol/lightclick) - Linearly typed orchestration language for Systems-on-a-Chip Designs that supports lightweight dependent types in the form of domain-specific indexed-types.

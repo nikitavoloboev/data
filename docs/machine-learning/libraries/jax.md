@@ -38,3 +38,4 @@ title: JAX
 - [minGPT in JAX](https://github.com/mgrankin/minGPT)
 - [flaxvision](https://github.com/rolandgvc/flaxvision) - Selection of neural network models ported from torchvision for JAX & Flax.
 - [JAX version of clip guided diffusion scripts](https://github.com/nshepperd/jax-guided-diffusion)
+- [Functorch](https://github.com/pytorch/functorch) - Jax-like composable function transforms for PyTorch. ([HN](https://news.ycombinator.com/item?id=31424588))

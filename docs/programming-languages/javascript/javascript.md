@@ -441,3 +441,5 @@ if (
 - [I fell in love with low-JS (2022)](https://edofic.com/posts/2022-01-28-low-js/) ([HN](https://news.ycombinator.com/item?id=31249181)) ([Lobsters](https://lobste.rs/s/859lel/how_i_fell_love_with_low_js))
 - [TodoMVC App Written in Vanilla JS in 2022](https://github.com/1Marc/todomvc-vanillajs-2022)
 - [Modern JavaScript environments (2022)](https://twitter.com/wesbos/status/1524033215140446211)
+- [Advanced JavaScript Objects](https://github.com/carltheperson/advanced-js-objects) - E-book entirely about JavaScript objects.
+- [JavaScript Module Fragments Proposal](https://github.com/tc39/proposal-module-fragments) - Named, inline JS modules, which can be used for bundling multiple modules into a single JavaScript file.

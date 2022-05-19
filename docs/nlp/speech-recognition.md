@@ -126,3 +126,4 @@ title: Speech recognition
 - [VocalSound: A Dataset for Improving Human Vocal Sounds Recognition](https://github.com/YuanGongND/vocalsound)
 - [PANNs: Large-Scale Pretrained Audio Neural Networks for Audio Pattern Recognition](https://github.com/qiuqiangkong/audioset_tagging_cnn)
 - [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality (2022)](https://arxiv.org/abs/2205.04421) ([HN](https://news.ycombinator.com/item?id=31416098))
+- [George Hotz | Programming | speech recognition (2022)](https://www.youtube.com/watch?v=IkI5WJyEcCc)

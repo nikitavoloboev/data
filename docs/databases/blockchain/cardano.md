@@ -64,3 +64,4 @@ Cardano appears to be a [project that didn't meet its goals](https://twitter.com
 - [PyCardano](https://github.com/cffls/pycardano) - Lightweight Cardano library in Python.
 - [Making offline Cardano transactions (2022)](https://xairy.io/articles/2022/cardano-offline-wallet)
 - [Cardano Developer Portal](https://developers.cardano.org/) ([Code](https://github.com/cardano-foundation/developer-portal))
+- [Ouroboros-Network](https://github.com/input-output-hk/ouroboros-network) - Implementation of the Ouroboros family of consensus algorithms, with its networking support.

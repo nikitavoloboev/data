@@ -68,3 +68,4 @@
 - [Monitoring My Garage Door With a Raspberry Pi, Rust, and a 13Mb Linux System (2022)](https://www.wezm.net/v2/posts/2022/garage-door-monitor/)
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Open source cloud replacement for vacuum robots enabling local-only operation.
 - [AutoMoLi](https://github.com/benleb/ad-automoli) - Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features.
+- [Home Assistant Community Add-ons](https://github.com/hassio-addons/repository)

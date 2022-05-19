@@ -138,3 +138,4 @@ title: Remix
 - [Best features of Remix (2022)](https://twitter.com/AlexandroMtzG/status/1516847153422946310)
 - [Remix | Backend For Frontend](https://remix.run/docs/en/v1/guides/bff)
 - [rmx-cli](https://github.com/kiliman/rmx-cli) - CLI tool for Remix applications.
+- [Tailwind Purge-Per-Route Demo](https://github.com/brookslybrand/purge-per-route) - Demo of a Remix app with TailwindCSS classes purged per route.

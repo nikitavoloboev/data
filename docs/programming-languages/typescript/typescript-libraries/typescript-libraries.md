@@ -58,6 +58,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [htstream](https://github.com/qnighy/htstream) - Streaming HTTP parser.
 - [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
 - [ApiDOM](https://github.com/swagger-api/apidom) - Semantic parser for API specifications.
+- [ChiselStrikeai](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications.
 
 ## GraphQL
 
@@ -513,6 +514,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [FortuneSheet](https://github.com/ruilisi/fortune-sheet) - Drop-in JS spreadsheet library that provides rich features like Excel and Google Sheets.
 - [Yooda](https://github.com/ooade/yooda) - 600b validation library with custom handlers and messages.
 - [TypePipe](https://github.com/afresquet/typepipe) - Library to create pipelines with contexts and strong type checking.
+- [AutoAnimate](https://github.com/formkit/auto-animate) - Zero-config, drop-in animation utility that adds smooth transitions to your web app.
 
 ## Links
 
@@ -585,3 +587,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [DocGraph](https://github.com/souporserious/docgraph) - Topological documentation generator for JavaScript with first-class support for React.
 - [TypeScript SQL tagged template plugin](https://github.com/frigus02/typescript-sql-tagged-template-plugin) - TypeScript server plugin that adds type checking for SQL queries tagged with an sql function.
 - [suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add comments to suppress typescript type errors.
+- [TypeScript Module Toolkit](https://github.com/tsmodule/tsmodule) - Toolkit for developing pure ESM TypeScript packages that target any platform (browser, Node, etc.).

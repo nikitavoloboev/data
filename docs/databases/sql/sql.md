@@ -195,3 +195,5 @@ title: SQL
 - [SQL Graphviz](https://github.com/rm-hull/sql_graphviz) - Python 3 script that generates a Graphviz visualization of a SQL schema dump.
 - [Functional Programming on Top of SQL Engines (2022)](https://www.youtube.com/watch?v=_gfK0Tn_N7w)
 - [What is the difference between single and double quotes in SQL?](https://stackoverflow.com/questions/1992314/what-is-the-difference-between-single-and-double-quotes-in-sql/1992331)
+- [Toy Query Engine & SQL interface](https://github.com/Veeupup/naive-query-engine)
+- [DataFusion](https://github.com/apache/arrow-ballista) - Extensible query execution framework, written in Rust, that uses Apache Arrow as its in-memory format.
