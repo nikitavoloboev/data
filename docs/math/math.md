@@ -369,3 +369,4 @@
 - [Math & CS Books/Resources collection](https://drive.google.com/drive/folders/1_cSsxlu6j6Nngm-dArWVjqA3qL5IE5wN)
 - [Good math books to learn from ground up (2022)](https://www.reddit.com/r/learnmath/comments/uoy33b/hey_so_uh_does_anyone_know_any_good_books_to/)
 - [Less known YouTube channels with a lot of math content? (2022)](https://www.reddit.com/r/math/comments/uq4zn1/less_known_youtube_channels_with_a_lot_of_math/)
+- [Books on mathematical topics that deeply introduce you to the topic (2022)](https://www.reddit.com/r/math/comments/uscinq/books_on_mathematical_topics_that_really/)

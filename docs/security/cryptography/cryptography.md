@@ -172,3 +172,4 @@
 - [Some Cryptography Books I Like (2022)](https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/) ([HN](https://news.ycombinator.com/item?id=31385182))
 - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 - [Crypto means cryptography (2022)](https://pluralistic.net/2022/05/12/crypto-means-cryptography/)
+- [Guidance for Choosing an Elliptic Curve Signature Algorithm in 2022](https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/)

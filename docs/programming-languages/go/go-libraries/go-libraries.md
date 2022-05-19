@@ -1757,3 +1757,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [testscript, a hidden gem the Go team kept locked away](https://encore.dev/blog/testscript-hidden-testing-gem) ([Lobsters](https://lobste.rs/s/elmxfh/testscript_hidden_gem_go_team_kept_locked))
 - [gomodguard](https://github.com/ryancurrah/gomodguard) - Allow and block list linter for direct Go module dependencies.
 - [libc - Porting libc from C to Go](https://github.com/goplus/libc)
+- [depu](https://github.com/kevwan/depu) - Tool to check available updates of dependent packages in go.mod.

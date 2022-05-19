@@ -78,7 +78,7 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL. ([Web](https://graphile-starter.herokuapp.com/))
 - [Designing GraphQL Schemas (2019)](https://egghead.io/courses/designing-graphql-schemas-99db)
 - [graphql-santa](https://github.com/prisma-labs/graphql-santa) - GraphQL API framework. It takes a code-first approach and brings together a set of tools that provide robust type safety so that if your app compiles, you have a high degree of confidence that it works.
-- [GraphQL JIT](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
+- [GraphQL JIT](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler. ([HN](https://news.ycombinator.com/item?id=31432495))
 - [Herm](https://www.herm.dev/) - Free online workshop on everything you need to build fullstack GraphQL apps with Hasura, Next.js, and Serverless.
 - [GraphQL Tooling, Today & Tomorrow, Sean Grove, Founder @ OneGraph (2019)](https://www.youtube.com/watch?v=gAjQ1mg614o)
 - [Sqoop](https://github.com/solo-io/sqoop) - GraphQL Engine powered by Gloo.

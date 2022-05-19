@@ -83,3 +83,4 @@ One day it would be nice to own a house with a lot of windows for light like [th
 - [Advice on buying a house as opposed to investing (2022)](https://www.reddit.com/r/Bogleheads/comments/tmdm3d/is_there_a_general_boglehead_philosophy_around/)
 - [Alright, amigo, let's build some affordable housing](https://twitter.com/mu2myoc/status/1510262323176374278) ([HN](https://news.ycombinator.com/item?id=30891217))
 - [I Need to Find an Apartment (2022)](https://mattrighetti.com/2022/04/05/i-need-to-find-an-appartment.html) ([HN](https://news.ycombinator.com/item?id=30968721))
+- [Buying a House thread (2021)](https://elijahcaine.me/buying-a-house-01-lets-go-shopping/)

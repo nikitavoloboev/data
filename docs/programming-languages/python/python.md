@@ -497,3 +497,4 @@ for i, _ in enumerate(nums):
 - [Python Engineer Roadmap](https://github.com/DjangoEx/python-engineer-roadmap)
 - [Why Should Async Get All The Love?: Advanced Control Flow With Threads (2022)](https://emptysqua.re/blog/why-should-async-get-all-the-love/)
 - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp) ([HN](https://news.ycombinator.com/item?id=31405976))
+- [PikaScript](https://github.com/pikasTech/pikascript) - Ultra-lightweight Python engine that can run in 4Kb of RAM.

@@ -91,3 +91,4 @@ And here are Chrome extensions I use:
 - [Unclutter Browser Extension](https://github.com/lindylearn/unclutter) - Browser extension to simplify web pages and hide distracting things like hide cookie banners, auto-playing videos, sidebars, etc.
 - [Successful chrome extension SaaS (2022)](https://twitter.com/coreyhainesco/status/1506269475078766596)
 - [Form troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - Chrome extension to find and fix common form problems.
+- [Nice Chrome extension templates with esbuild (2022)](https://twitter.com/tylerangert/status/1527003106185207808)

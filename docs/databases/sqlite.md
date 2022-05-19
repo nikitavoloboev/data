@@ -199,3 +199,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Cron-based backup for SQLite](https://litestream.io/alternatives/cron/) ([HN](https://news.ycombinator.com/item?id=31386330))
 - [JSON and Virtual Columns in SQLite (2022)](https://antonz.org/json-virtual-columns/) ([HN](https://news.ycombinator.com/item?id=31396578))
 - [Tiny SQLite3](https://github.com/fabiospampinato/tiny-sqlite3) - Tiny cross-platform client for SQLite3, with the official precompiled binaries as the only third-party dependencies.
+- [Temporary tables in SQLite (2022)](https://antonz.org/temp-tables/)

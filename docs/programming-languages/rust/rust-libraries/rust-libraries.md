@@ -1879,6 +1879,7 @@
 - [sharded-log](https://github.com/komora-io/sharded-log) - Batch-oriented multi-threaded sharded log for workloads that occasionally flush logs into some other system.
 - [flate2](https://github.com/rust-lang/flate2-rs) - Streaming compression/decompression library DEFLATE-based streams in Rust.
 - [CipherCore](https://github.com/ciphermodelabs/ciphercore) - User-friendly secure computation engine based on secure multi-party computation.
+- [iso8601](https://github.com/badboy/iso8601) - Parsing ISO8601 dates using nom.
 
 ## Cargo Plugins
 

@@ -145,6 +145,7 @@ If you want to start a blog of your own, [this](https://github.com/alaq/adrien.s
 - [Molly White](https://blog.mollywhite.net/)
 - [Emil Kowalski](https://emilkowal.ski/)
 - [George Hilliard](https://www.thirtythreeforty.net/)
+- [Anton Zhiyanov](https://antonz.org/all/)
 
 ## Notes
 

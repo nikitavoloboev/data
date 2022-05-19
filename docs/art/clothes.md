@@ -63,3 +63,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Outfittor](https://outfittor.com/) - Random Outfit Generator. ([Reddit](https://www.reddit.com/r/InternetIsBeautiful/comments/thsbx5/i_made_a_website_that_suggests_random_outfits_its/))
 - [Что из одежды вы предпочитаете?](https://twitter.com/liiving_cool/status/1519415874259755010)
 - [Vintage clothes thread](https://twitter.com/mountainscrave/status/1521834975406043136)
+- [Clothes inspiration thread (2022)](https://twitter.com/EmilybyNight/status/1526698797471891456)

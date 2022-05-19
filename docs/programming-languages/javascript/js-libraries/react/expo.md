@@ -33,7 +33,7 @@ title: Expo
 - [expo.fyi](https://github.com/expo/fyi) - Information that you may find useful when interacting with Expo tools and service.
 - [Expo + Next.js Router + React Navigation](https://github.com/nandorojo/expo-next-react-navigation) - Set of hooks that wrap the react-navigation API that you're used to, and make it work with next/router.
 - [How to create an Expo app with serverless (2021)](https://serverless-stack.com/examples/how-to-create-an-expo-app-with-serverless.html)
-- [Introducing Expo Application Services (EAS)](https://blog.expo.dev/introducing-eas-395d4809cc6f) - Fastest way to get your Expo app from development to the app stores. ([Tweet](https://twitter.com/JI/status/1458600696752717826)) ([Tweet](https://twitter.com/baconbrix/status/1458600548152721409?s=28))
+- [Introducing Expo Application Services (EAS)](https://blog.expo.dev/introducing-eas-395d4809cc6f) - Fastest way to get your Expo app from development to the app stores. ([Tweet](https://twitter.com/JI/status/1458600696752717826)) ([Tweet](https://twitter.com/baconbrix/status/1458600548152721409))
 - [Expo Application Services CLI](https://github.com/expo/eas-cli)
 - [Expo Config Plugins](https://github.com/expo/config-plugins) - Collection of custom WIP config plugins for Expo dev clients. ([Tweet](https://twitter.com/albertgao/status/1495685282695618562))
 - [sentry-expo](https://github.com/expo/sentry-expo)

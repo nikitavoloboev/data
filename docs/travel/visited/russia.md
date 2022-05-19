@@ -419,7 +419,7 @@ I have a [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 - [The Bell](https://thebell.io/en/) ([Twitter](https://twitter.com/thebell_io))
 - [Оппозиция хочет добиться изменений в России из-за границы. Это вообще возможно? (2022)](https://www.youtube.com/watch?v=38Emt4y5LEk)
 - [Какими русскими фильмами или сериалами можно смело гордиться? (2022)](https://www.reddit.com/r/AskARussian/comments/sqr5sm/%D0%BA%D0%B0%D0%BA%D0%B8%D0%BC%D0%B8_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%BC%D0%B8_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0%D0%BC%D0%B8_%D0%B8%D0%BB%D0%B8_%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8_%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE/)
-- [Why the West’s Diplomacy With Russia Keeps Failing (2022)](https://www.theatlantic.com/ideas/archive/2022/02/lavrov-russia-diplomacy-ukraine/622075/) ([Tweet](https://twitter.com/ilvestoomas/status/1492784084862521352?s=28))
+- [Why the West’s Diplomacy With Russia Keeps Failing (2022)](https://www.theatlantic.com/ideas/archive/2022/02/lavrov-russia-diplomacy-ukraine/622075/) ([Tweet](https://twitter.com/ilvestoomas/status/1492784084862521352))
 - [Havansky's letter from prison](https://twitter.com/ksnchk/status/1461023711411191810).
 - [«Я не боюсь ни ФСБ, ни химического оружия, ни Путина», — Навальный в суде (2022)](https://www.youtube.com/watch?v=nrqWQB2bm_0) ([Transcript](https://www.instagram.com/p/CaAkGQ2MLFY/))
 - [Город председателя Наливкина (2022)](https://holod.media/2022/02/16/gorod-predsedatelya-nalivkina/)

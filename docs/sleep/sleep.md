@@ -59,3 +59,4 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [How to Fall Asleep in 120 Seconds](https://medium.com/s/story/combat-tested-training-unwind-and-sleep-anywhere-in-120-seconds-27d5307b7606)
 - [Helio Sleep](https://www.heliosleep.com/) - One-stop portal for sleep apnea. ([HN](https://news.ycombinator.com/item?id=30767471))
 - [Why Do We Die Without Sleep? (2022)](https://www.quantamagazine.org/why-do-we-die-without-sleep-20220322/)
+- [Why do we get tired and how does sleep fix it?](https://www.reddit.com/r/askscience/comments/ussma3/why_do_we_get_tired_and_how_does_sleep_fix_it/)

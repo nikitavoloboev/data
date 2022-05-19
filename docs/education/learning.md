@@ -183,7 +183,7 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Lobsters: What are you planning to learn in 2022?](https://lobste.rs/s/thsihg/what_are_you_planning_learn_2022)
 - [Against 3x Speed](https://perell.com/essay/against-3x-speed/) ([HN](https://news.ycombinator.com/item?id=29621642)) ([Lobsters](https://lobste.rs/s/iuzi3v/against_3x_speed))
 - [Ask HN: Top Skills to Learn for 2022?](https://news.ycombinator.com/item?id=29627124)
-- [Best textbooks (or comprehensive primers) which are freely available online (2021)](https://twitter.com/andy_matuschak/status/1473450143387062274?s=28)
+- [Best textbooks (or comprehensive primers) which are freely available online (2021)](https://twitter.com/andy_matuschak/status/1473450143387062274)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
 - [Feynman Technique explained](https://twitter.com/SahilBloom/status/1475096936395026434)
 - [Ask HN: Moving from tiny websites to serious tech skills? (2021)](https://news.ycombinator.com/item?id=29692160)

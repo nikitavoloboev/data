@@ -471,3 +471,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Bazel iOS Workshop](https://github.com/segiddins/Bazel-iOS-Workshop)
 - [Best solutions to sync data across Apple devices (2022)](https://twitter.com/migueldeicaza/status/1526299076408508416)
 - [Open Source for iOS developers - Ivan Vorobei](https://opensource.ivanvorobei.io/)
+- [fishhook](https://github.com/facebook/fishhook) - Library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.

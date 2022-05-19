@@ -792,3 +792,6 @@ title: Rust
 - [Safe operations with typestate in Rust (2021)](https://n14n.dev/articles/2021/safe-operations-with-typestate-in-rust/)
 - [Safe JSON representations with Rust (2021)](https://n14n.dev/articles/2021/safe-json-representations-with-rust/)
 - [Why can't Rust have have dynamic linking of dependencies? (2022)](https://www.reddit.com/r/rust/comments/us328s/can_someone_from_the_rust_community_share_their/) ([Tweet](https://twitter.com/myrrlyn/status/1526916331202813957))
+- [The Rust Borrow Checker – A Deep Dive (2022)](https://www.infoq.com/presentations/rust-borrow-checker/) ([HN](https://news.ycombinator.com/item?id=31432005))
+- [Rust: A Critical Retrospective (2022)](https://www.bunniestudios.com/blog/?p=6375) ([HN](https://news.ycombinator.com/item?id=31432908))
+- [Rust Ergonomics: Default and From (2022)](https://elijahcaine.me/rust-default-from/)

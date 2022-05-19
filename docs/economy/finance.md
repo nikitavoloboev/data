@@ -195,3 +195,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [How to have a billion dollar exit with zero capital gains tax (2022)](https://axiomalpha.com/how-to-use-the-unlimited-tax-loophole/) ([HN](https://news.ycombinator.com/item?id=31320519))
 - [Xolo Go](https://www.xolo.io/zz-en/go) - Invoice clients in the EU, USA and Canada without registering a company.
 - [Ask HN: Is There Hope for Micropayments? (2022)](https://news.ycombinator.com/item?id=31386483)
+- [Tips for financial responsibility](https://twitter.com/Rational_Answer/status/1023120471926218753)

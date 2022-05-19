@@ -8,6 +8,8 @@ title: SolidJS
 
 [Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos). [Solid Start](https://github.com/solidjs/solid-start) is great starter template. [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) is great alternative to [React Query](https://react-query.tanstack.com/).
 
+[Hope UI](https://hope-ui.com/) is nice component library.
+
 ## OSS apps
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
@@ -61,3 +63,5 @@ title: SolidJS
 - [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) - Creates a primitive to support abortable HTTP requests. If any reactive request options changes, the request is aborted automatically.
 - [Praises of SolidJS (2022)](https://twitter.com/andrewgreenh/status/1526908199386988544)
 - [Let's Learn SolidJS (2021)](https://www.youtube.com/watch?v=ZZ-a7B761Ds)
+- [Hope UI](https://github.com/fabien-ml/hope-ui) - SolidJS component library you've hoped for. ([Docs](https://hope-ui.com/docs/getting-started))
+- [Solid DSL Experiments](https://github.com/solidjs-community/solid-dsl)

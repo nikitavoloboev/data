@@ -207,3 +207,4 @@ I enjoy watching [great chess games](https://lichess.org/games) & listening to [
 - [How much does fast thinking matter in Lichess games? (2022)](https://emiruz.com/post/2022-04-15-lichess1/) ([HN](https://news.ycombinator.com/item?id=31114742))
 - [Chess Coordinates trainer](https://github.com/c00/chess-exclam)
 - [Weiawaga](https://github.com/Heiaha/Weiawaga) - UCI chess engine written in Rust.
+- [Learning Chess at 40](https://nautil.us/learning-chess-at-40-4614/) ([HN](https://news.ycombinator.com/item?id=31433914))

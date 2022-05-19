@@ -105,7 +105,7 @@ What's wild to me is just how few people can write code. Some say it's [~ 30M](h
 - [HN: California moves to recommend delaying algebra to 9th grade statewide (2021)](https://news.ycombinator.com/item?id=29324551)
 - [Courses that should be mandated in school](https://twitter.com/calvin_rosser/status/1474447730680512512)
 - [What’s your unconventional college or career advice? (2021)](https://www.reddit.com/r/slatestarcodex/comments/rp6crb/whats_your_unconventional_college_or_career_advice/)
-- [Lessons from my PhD (2021)](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html) ([Tweet](https://twitter.com/austinzhenley/status/1475595171374972931?s=28)) ([HN](https://news.ycombinator.com/item?id=29716076))
+- [Lessons from my PhD (2021)](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html) ([Tweet](https://twitter.com/austinzhenley/status/1475595171374972931)) ([HN](https://news.ycombinator.com/item?id=29716076))
 - [Completing a part-time Master's in computer science while working (2022)](https://alexanderell.is/posts/mscs/) ([HN](https://news.ycombinator.com/item?id=29867011))
 - [Teaching how to code is broken](https://neil.computer/notes/teaching-how-to-code-is-broken/) ([HN](https://news.ycombinator.com/item?id=29903202)) ([Lobsters](https://lobste.rs/s/01gogy/teaching_how_code_is_broken))
 - [How to Drop Out](https://ranprieur.com/essays/dropout.html) ([HN](https://news.ycombinator.com/item?id=30318285))

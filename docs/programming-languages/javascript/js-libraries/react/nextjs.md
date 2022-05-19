@@ -324,7 +324,7 @@ Exploring [Solid](../solid.md) as a faster alternative.
 - [Next.js X Prisma Workshop](https://github.com/m-abdelwahab/nextjs-prisma-workshop) - Build a full stack app using Next.js and Prisma.
 - [Next.js Cheat Sheet](https://gourav.io/blog/nextjs-cheatsheet)
 - [NextGraphQL.js](https://github.com/ian/next-graphql) - Zero-config GraphQL server for Next.js, supporting Vercel Serverless environment runtime.
-- [Next.js 12 (2021)](https://nextjs.org/blog/next-12) ([HN](https://news.ycombinator.com/item?id=29001721)) ([Tweet](https://twitter.com/vercel/status/1453029090106040321?s=28)) ([Keynote](https://www.youtube.com/watch?v=dMBYI7pTR4Q))
+- [Next.js 12 (2021)](https://nextjs.org/blog/next-12) ([HN](https://news.ycombinator.com/item?id=29001721)) ([Tweet](https://twitter.com/vercel/status/1453029090106040321)) ([Keynote](https://www.youtube.com/watch?v=dMBYI7pTR4Q))
 - [How Next Middleware / Edge Functions work (2021)](https://twitter.com/ascorbic/status/1453431784205701121)
 - [Streaming in Next.js - Kara Erickson (2021)](https://www.youtube.com/watch?v=Nl4OwNhh2QI)
 - ["So You Think You Can Build A Dropdown?" — Pedro Duarte (2021)](https://www.youtube.com/watch?v=lY-RQjWeweo)
@@ -368,3 +368,4 @@ Exploring [Solid](../solid.md) as a faster alternative.
 - [Rust and WebAssembly Serverless Functions in Vercel](https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/) ([Code](https://github.com/second-state/vercel-wasm-runtime))
 - [Generate Open Graph images for your static Next.js site (2020)](https://phiilu.com/generate-open-graph-images-for-your-static-next-js-site) ([Tweet](https://twitter.com/mattgperry/status/1515651942940303361))
 - [Picking the right rendering strategy in NextJS](https://twitter.com/housecor/status/1521100361213386757)
+- [Building a Mini Next.js (2022)](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)

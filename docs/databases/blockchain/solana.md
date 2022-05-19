@@ -36,7 +36,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 
 ## Links
 
-- [A Starter Kit for New Solana Developer (2021)](https://hackmd.io/@ironaddicteddog/solana-starter-kit) ([Tweet](https://twitter.com/ironaddicteddog/status/1452845276864004105?s=28))
+- [A Starter Kit for New Solana Developer (2021)](https://hackmd.io/@ironaddicteddog/solana-starter-kit) ([Tweet](https://twitter.com/ironaddicteddog/status/1452845276864004105))
 - [Solana Code](https://github.com/solana-labs/solana)
 - [Solana Reddit](https://www.reddit.com/r/solana/)
 - [Solana Core Concepts](https://www.youtube.com/watch?v=4dNuMXBjpr0)
@@ -131,7 +131,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [How to Build and Deploy a Solana Smart Contract (2021)](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 - [Treat Toolbox](https://github.com/theskeletoncrew/treat-toolbox) - Generative NFT Utility for Candy Machine / Solana.
 - [What do you do with your stables on Solana? (2021)](https://twitter.com/Melt_Dem/status/1453127401848774658)
-- [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896?s=28)
+- [Solana dev tips (2021)](https://twitter.com/exploresolands/status/1453155153343696896)
 - [Solend](https://solend.fi/) - Lend and borrow on Solana. ([GitHub](https://github.com/solendprotocol)) ([Explained](https://www.youtube.com/watch?v=qiOUgh7b8ng))
 - [Squads](https://sqds.io/) - One app for all your DAO needs. ([Twitter](https://twitter.com/squads_dapp))
 - [Program deploys in Solana](https://jstarry.notion.site/Program-deploys-29780c48794c47308d5f138074dd9838)
