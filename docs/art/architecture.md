@@ -33,6 +33,7 @@
 ## Inspiring
 
 - [Wiola](https://www.instagram.com/rapsodia_w/)
+- [Japan/architecture/design](https://instagram.com/tomosasara)
 
 ## Notes
 

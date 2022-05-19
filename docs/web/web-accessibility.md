@@ -103,3 +103,4 @@
 - [Series of HTML test cases to determine how specific elements are announced in different screen reader / browser combinations](https://russmaxdesign.github.io/accessible-forms/) ([Code](https://github.com/russmaxdesign/accessible-forms))
 - [focus-lock](https://github.com/theKashey/focus-lock) - A11y util for scoping a focus.
 - [Global Accessibility Awareness Day](https://accessibility.day/)
+- [Accessibility is Hard and Important](https://andrewwalpole.com/blog/accessibility-is-hard-and-important/)

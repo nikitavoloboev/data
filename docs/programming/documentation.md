@@ -169,7 +169,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Vercel has nice changelog](https://twitter.com/mschoening/status/1514635315117367302)
 - [StrictDoc](https://github.com/strictdoc-project/strictdoc) - Software for writing technical requirements specifications.
 - [SourceDocs](https://github.com/SourceDocs/SourceDocs) - Generate Markdown documentation from source code.
-- [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language.
+- [doctree](https://github.com/sourcegraph/doctree) - First-class library docs tool for every language. ([Video](https://www.youtube.com/watch?v=jfaZnb9A69g)) ([Tweet](https://twitter.com/slimsag/status/1527129196731871233))
 - [Squeak](https://github.com/PostHog/squeak) - Q&A widget for your docs.
 - [changelogen](https://github.com/unjs/changelogen) - Beautiful Changelogs using Conventional Commits.
 - [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - Front-end search bar for documentation with Meilisearch.

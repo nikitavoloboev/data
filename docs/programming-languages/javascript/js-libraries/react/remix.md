@@ -139,3 +139,4 @@ title: Remix
 - [Remix | Backend For Frontend](https://remix.run/docs/en/v1/guides/bff)
 - [rmx-cli](https://github.com/kiliman/rmx-cli) - CLI tool for Remix applications.
 - [Tailwind Purge-Per-Route Demo](https://github.com/brookslybrand/purge-per-route) - Demo of a Remix app with TailwindCSS classes purged per route.
+- [Remix - YouTube](https://www.youtube.com/c/Remix-Run/videos)

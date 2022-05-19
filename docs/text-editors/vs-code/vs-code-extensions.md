@@ -519,7 +519,7 @@ Below is a list of extensions I use.
 - [Ask HN: What extensions/packs of VS Code are must for web/developers to install? (2021)](https://news.ycombinator.com/item?id=29278370)
 - [Opinionated list of essential VS Code extensions (2021)](https://importthis.tech/an-opinionated-list-of-essential-vs-code-extensions) ([Reddit](https://www.reddit.com/r/vscode/comments/qy2hfu/what_vs_code_extensions_do_you_use_heres_my_list/))
 - [vscode-ext](https://github.com/CodeWithSwastik/vscode-ext) - Create VSCode Extensions with python. ([Docs](https://vscode-ext.readthedocs.io/en/latest/))
-- [VSCodeThemes](https://vscodethemes.com/) - Preview Visual Studio Code Themes.
+- [VSCodeThemes](https://vscodethemes.com/) - Preview Visual Studio Code Themes. ([Code](https://github.com/vscodethemes/web))
 - [Monkey Patch](https://github.com/iocave/monkey-patch) - Extension allowing execution of arbitrary JavaScript in VSCode browser and main process.
 - [How we built a VS Code extension with Rust, WebAssembly, and TypeScript (2022)](https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript) ([HN](https://news.ycombinator.com/item?id=29888221))
 - [Publish VS Code Extension — GitHub Action](https://github.com/HaaLeo/publish-vscode-extension) - GitHub action to publish your VS Code Extension to the Open VSX Registry or Visual Studio Marketplace.

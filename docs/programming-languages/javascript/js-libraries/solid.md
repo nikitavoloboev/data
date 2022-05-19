@@ -66,3 +66,5 @@ title: SolidJS
 - [Hope UI](https://github.com/fabien-ml/hope-ui) - SolidJS component library you've hoped for. ([Docs](https://hope-ui.com/docs/getting-started))
 - [Solid DSL Experiments](https://github.com/solidjs-community/solid-dsl)
 - [Solid Meta](https://github.com/solidjs/solid-meta) - Asynchronous SSR-ready Document Head management for Solid based on React Head.
+- [Early return in Solid](https://twitter.com/Huxpro/status/1526711254928068608)
+- [The Quest for ReactiveScript (2021)](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)

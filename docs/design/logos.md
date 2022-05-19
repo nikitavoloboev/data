@@ -18,3 +18,4 @@
 - [SVG Logos](https://svgporn.com/) - Curated collection of SVG logos for developers/DevOps/geeks. ([Code](https://github.com/gilbarbara/logos))
 - [Visual Center](https://javier.xyz/visual-center/) - Tool that will find the visual center of your images / logos. ([Code](https://github.com/javierbyte/visual-center))
 - [Generative logo design](https://components.ai/notes/logo) ([Code](https://github.com/components-ai/logo))
+- [VectorWiki](https://vectorwiki.com/) - Download 1000's of free SVG brand logos.

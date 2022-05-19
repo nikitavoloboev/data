@@ -64,3 +64,4 @@
 - [Converts PDFs to dark mode](https://dark-mode-pdf.portals.sh/) ([Code](https://github.com/jc9108/dark-mode-pdf))
 - [Scholar Reader](https://github.com/allenai/scholarphi) - User interface, API, and data processing scripts for an augmented PDF reader application.
 - [Pdfmake-wrapper](https://github.com/Lugriz/pdfmake-wrapper) - Generate PDF documents in an easy and readable way.
+- [Let's write a PDF file (2015)](https://speakerdeck.com/ange/lets-write-a-pdf-file)

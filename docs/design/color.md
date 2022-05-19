@@ -164,3 +164,4 @@
 - [Why OKLCH is the future of colors in CSS](https://slides.com/ai/oklch-css)
 - [The Color API](https://www.thecolorapi.com/) - Pass in any valid color and get conversion into any other format, the name of the color, placeholder images and a multitude of schemes. ([Code](https://github.com/andjosh/thecolorapi))
 - [distinctipy](https://github.com/alan-turing-institute/distinctipy) - Lightweight package for generating visually distinct colors.
+- [Plasma](https://royaltm.github.io/rust-plasma/) - Eye-candy pixel plasma randomized generator - for the desktop and the web. ([Code](https://github.com/royaltm/rust-plasma))
