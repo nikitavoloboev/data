@@ -167,3 +167,4 @@ Exploring building fast web apps with [Svelte](../../programming-languages/javas
 - [R2 API](https://github.com/proselog/r2-api) - Cloudflare worker based REST API for your R2 bucket.
 - [Cloudflare Worker to make your R2 bucket public](https://github.com/cmackenzie1/r2-public-worker)
 - [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers.
+- [Render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2.
