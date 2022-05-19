@@ -15,6 +15,7 @@ title: Chrome DevTools
 - [ChromeDevTools has CSS Shadow Editor](https://twitter.com/addyosmani/status/1447456939466706946)
 - [ChromeDevTools has CSS Animations inspector](https://twitter.com/addyosmani/status/1447079452987387905)
 - [Can hide scripts/assets loaded by extensions from your network tab, put "-scheme:chrome-extension" in the filter input box](https://twitter.com/threepointone/status/1446064032407080966)
+- [You can dynamically insert console.logs without touching your code. Just right-click on the line and choose "logpoint", enter the variables you want to log and hit Enter.](https://twitter.com/marvinhagemeist/status/1527356830757933058)
 
 ## Links
 

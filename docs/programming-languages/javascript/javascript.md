@@ -443,3 +443,4 @@ if (
 - [Modern JavaScript environments (2022)](https://twitter.com/wesbos/status/1524033215140446211)
 - [Advanced JavaScript Objects](https://github.com/carltheperson/advanced-js-objects) - E-book entirely about JavaScript objects.
 - [JavaScript Module Fragments Proposal](https://github.com/tc39/proposal-module-fragments) - Named, inline JS modules, which can be used for bundling multiple modules into a single JavaScript file.
+- [Design Patters in JS for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)

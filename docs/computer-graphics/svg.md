@@ -144,3 +144,4 @@
 - [SVG to TS](https://github.com/kreuzerk/svg-to-ts) - Build performant SVG icon libraries by converting raw SVG files to TypeScript that is optimized for modern tree shaking mechanisms.
 - [SVG Working Group specifications](https://github.com/w3c/svgwg)
 - [SVGPathCommander](https://github.com/thednp/svg-path-commander) - ES6+ JavaScript tools for processing and manipulating SVG path data.
+- [svgstore](https://github.com/svgstore/svgstore) - Combines multiple SVG files into one.

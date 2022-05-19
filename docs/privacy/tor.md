@@ -52,3 +52,4 @@ title: Tor Project
 - [ExitGather](https://github.com/uforia/exitgather) - Python script to generate a list of IP addresses being used as TOR and VPN exit nodes.
 - [Tor Relay Availability Checker](https://github.com/ValdikSS/tor-relay-scanner) - For using it as a bridge in countries with censorship.
 - [libtor-sys](https://github.com/MagicalBitcoin/libtor-sys) - Rust crate that builds a static version of Tor.
+- [garlicshare](https://github.com/R4yGM/garlicshare) - Private and self-hosted file sharing over the Tor network written in Go.

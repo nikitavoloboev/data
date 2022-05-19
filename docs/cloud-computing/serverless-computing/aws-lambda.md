@@ -133,3 +133,4 @@ title: AWS Lambda
 - [Holy Lambda](https://github.com/FieryCod/holy-lambda) - Extraordinary simple, performant, and extensible custom AWS Lambda runtime for Clojure.
 - [Best practices for optimizing Lambda functions (2022)](https://cloudash.dev/blog/best-practices-for-optimizing-lambda-functions) ([HN](https://news.ycombinator.com/item?id=31215328))
 - [Amazon Lambda Rust Library](https://github.com/rnag/rust.aws-cdk-lambda)
+- [Inline Image Previews with Sharp, BlurHash, and Lambda Functions (2022)](https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/)

@@ -201,3 +201,4 @@ title: Spatial analysis
 - [OpenMapTiles Tools](https://github.com/openmaptiles/openmaptiles-tools) - Toolbox for generating map vector tiles.
 - [Google Maps analogs that don't require API keys or a billing account](https://twitter.com/dan_abramov/status/1526294009412722688)
 - [SimpleSpatialGapfiller](https://github.com/Dreamlone/SSGP-toolbox) - Toolbox for filling gaps in spatial datasets (e.g. remote sensing data).
+- [Course materials for: Geospatial Data Science](https://github.com/mszell/geospatialdatascience)
