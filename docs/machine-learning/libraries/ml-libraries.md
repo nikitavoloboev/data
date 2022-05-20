@@ -350,3 +350,4 @@ title: ML Libraries
 - [mlrose](https://github.com/gkhayes/mlrose) - Python package for implementing a number of Machine Learning, Randomized Optimization and SEarch algorithms.
 - [Scikit-Learn Compiled Trees](https://github.com/ajtulloch/sklearn-compiledtrees)
 - [KotlinDL](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
+- [PGBM](https://github.com/elephaint/pgbm) - Probabilistic Gradient Boosting Machines.

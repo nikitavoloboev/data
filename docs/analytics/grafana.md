@@ -23,3 +23,4 @@ title: Grafana
 - [WebSocket Data Source for Grafana](https://github.com/golioth/grafana-websocket-plugin) - WebSocket data source plugin for real time data updates in Grafana Dashboards.
 - [Meta Queries Plugin for Grafana](https://github.com/GoshPosh/grafana-meta-queries) - Grafana plugin for calculating time period metrics like week over week, month over month and year over year etc.
 - [Grafana Tokio Console Data Source](https://github.com/grafana/grafana-tokio-console-datasource)
+- [End-to-End Monitoring with Grafana Cloud with Minimal Effort (2022)](https://martinheinz.dev/blog/72)

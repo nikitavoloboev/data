@@ -184,6 +184,7 @@
 - [sqlakeyset](https://github.com/djrobstep/sqlakeyset) - Keyset-based paging for SQLAlchemy (both ORM and core).
 - [datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [sqlvalidator](https://github.com/David-Wobrock/sqlvalidator) - SQL queries formatting, syntactic and semantic validation.
+- [pg8000](https://github.com/tlocke/pg8000) - Pure-Python PostgreSQL Driver.
 
 ## GUI
 

@@ -426,3 +426,4 @@ Awesome List
 - [gh-foreach](https://github.com/mtoohey31/gh-foreach) - Automatically clone and execute commands across multiple GitHub repositories.
 - [gh-metrics](https://github.com/hectcastro/gh-metrics) - GitHub CLI extension that provides summary pull request metrics.
 - [Fastest way to get GitHub hosted markdown while avoiding rate limiting during dev](https://twitter.com/tannerlinsley/status/1527449478269005824)
+- [gh-i](https://github.com/gennaro-tedesco/gh-i) - Search your GitHub issues interactively.

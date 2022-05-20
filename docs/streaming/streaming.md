@@ -84,3 +84,4 @@ Here are tools I use for streaming:
 - [Twitchat](https://twitchat.fr/) - Full featured Twitch chat alternative to fill gaps from the official one. ([Code](https://github.com/Durss/Twitchat))
 - [Live Streaming Architecture (2017)](https://www.youtube.com/watch?v=RvsaosnEHWc)
 - [LAL](https://github.com/q191201771/lal) - Audio/video live streaming broadcast server written in Go.
+- [VDO Ninja](https://vdo.ninja/)

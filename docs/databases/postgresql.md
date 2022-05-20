@@ -502,3 +502,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [postgres-deno](https://github.com/supabase/postgres-deno) - PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [Let's build a distributed Postgres proof of concept (2022)](https://notes.eatonphil.com/distributed-postgres.html) ([Code](https://github.com/eatonphil/waterbugdb))
 - [Storing JSONB in PostgreSQL tips](https://twitter.com/envek/status/1526922431780233218)
+- [Soft deletion with PostgreSQL: but with logic on the database! (2022)](https://evilmartians.com/chronicles/soft-deletion-with-postgresql-but-with-logic-on-the-database)

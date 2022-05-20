@@ -51,3 +51,4 @@ title: MongoDB
 - [Prometheus MongoDB query exporter](https://github.com/raffis/mongodb-query-exporter)
 - [MongoX](https://github.com/aminalaee/mongox) - Familiar async Python MongoDB ODM.
 - [Qmgo](https://github.com/qiniu/qmgo) - Go driver for MongoDB.
+- [dangoDB](https://github.com/oslabs-beta/dangoDB) - MongoDB ODM for Deno.

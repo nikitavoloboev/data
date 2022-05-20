@@ -57,3 +57,4 @@ title: Signal processing
 - [Finding Similarities in Music Using Stumpy](https://stumpy.readthedocs.io/en/latest/Tutorial_AB_Joins.html#Finding-Similarities-in-Music-Using-STUMPY) ([HN](https://news.ycombinator.com/item?id=31092512))
 - [SigPy](https://github.com/mikgroup/sigpy) - Python package for signal processing, with emphasis on iterative methods.
 - [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach (2022)](https://www.youtube.com/watch?v=0me3guauqOU) ([HN](https://news.ycombinator.com/item?id=31301401))
+- [Think DSP – Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) ([Code](https://github.com/AllenDowney/ThinkDSP))

@@ -320,7 +320,7 @@ title: PyTorch
 - [Perceiver IO](https://github.com/krasserm/perceiver-io) - PyTorch implementation of DeepMind's Perceiver IO with PyTorch Lightning scripts for distributed training.
 - [Neural network inferencing for PyTorch and TensorFlow with ONNX, WebAssembly System Interface, and WASI NN (2021)](https://radu-matei.com/blog/wasi-nn-onnx/)
 - [hamiltorch](https://github.com/AdamCobb/hamiltorch) - PyTorch-based library for Riemannian Manifold Hamiltonian Monte Carlo (RMHMC) and inference in Bayesian neural networks.
-- [Machine Learning with PyTorch and Scikit-Learn Book (2021)](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) ([Tweet](https://twitter.com/rasbt/status/1471489146355073025))
+- [Machine Learning with PyTorch and Scikit-Learn Book (2021)](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312) ([Tweet](https://twitter.com/rasbt/status/1471489146355073025)) ([Code](https://github.com/rasbt/machine-learning-book))
 - [Web Application to generate your training scripts with PyTorch Ignite](https://github.com/pytorch-ignite/code-generator)
 - [torchinterp1d](https://github.com/aliutkus/torchinterp1d) - CUDA 1-D interpolation for PyTorch.
 - [torchquad](https://github.com/esa/torchquad) - High-performance numerical integration on the GPU with PyTorch.

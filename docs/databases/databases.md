@@ -295,6 +295,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [loadgen](https://github.com/crazycs520/loadgen) - Generate database load.
 - [Sqitch](https://github.com/sqitchers/sqitch) - Database change management application.
 - [Antares SQL](https://antares-sql.app/) - Modern, fast and productivity driven SQL client with a focus in UX. ([Code](https://github.com/antares-sql/antares))
+- [Jugglr](https://github.com/oslabs-beta/Jugglr) - Test data management tool that enables reliable testing with a Docker containerized database.
 
 ## Notes
 

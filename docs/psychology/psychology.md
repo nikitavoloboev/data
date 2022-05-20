@@ -51,3 +51,4 @@
 - [Manufacturing Consent: Noam Chomsky and the Media - Feature Film](https://www.youtube.com/watch?v=EuwmWnphqII)
 - [Людмила Петрановская: «Это история про отрезание обратных связей» (2022)](https://www.youtube.com/watch?v=UN529dZLQE8)
 - [Statistical "Which Character" Personality Quiz](https://openpsychometrics.org/tests/characters/) ([Tweet](https://twitter.com/dan_abramov/status/1523104608973103104))
+- [Narcissism is rampant, so how do we address it?](https://integritytalk.substack.com/p/the-eternal-battle-for-social-influence?s=r) ([HN](https://news.ycombinator.com/item?id=31440284))
