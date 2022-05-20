@@ -216,3 +216,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Ask HN: Teach me something new (2022)](https://news.ycombinator.com/item?id=31204611)
 - [What is the most amazing thing you know?](https://twitter.com/gunsnrosesgirl3/status/1521581674588483585)
 - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
+- [My Favorite Liar (2008)](https://www.overcomingbias.com/2008/02/my-favorite-lia.html) ([HN](https://news.ycombinator.com/item?id=31445868))

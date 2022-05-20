@@ -503,3 +503,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Let's build a distributed Postgres proof of concept (2022)](https://notes.eatonphil.com/distributed-postgres.html) ([Code](https://github.com/eatonphil/waterbugdb))
 - [Storing JSONB in PostgreSQL tips](https://twitter.com/envek/status/1526922431780233218)
 - [Soft deletion with PostgreSQL: but with logic on the database! (2022)](https://evilmartians.com/chronicles/soft-deletion-with-postgresql-but-with-logic-on-the-database)
+- [Speeding up sort performance in Postgres 15 (2022)](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/) ([HN](https://news.ycombinator.com/item?id=31444558))
