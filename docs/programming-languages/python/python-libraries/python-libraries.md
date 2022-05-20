@@ -873,6 +873,7 @@
 - [PrettyPrintTree](https://github.com/AharonSambol/PrettyPrintTree) - Python library to print trees.
 - [TypedDataFrame](https://github.com/areshytko/typedframe) - Typed wrappers over pandas DataFrames with schema validation.
 - [timeseries-generator](https://github.com/Nike-Inc/timeseries-generator) - Library to generate synthetic time series data by easy-to-use factors and generator.
+- [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 
 ## Notes
 

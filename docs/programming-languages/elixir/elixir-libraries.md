@@ -58,6 +58,7 @@
 - [DataSchema](https://github.com/Adzz/data_schema) - Declarative schemas for data transformations.
 - [Fields](https://github.com/dwyl/fields) - Collection of commonly used fields implemented as custom Ecto types with validation, sanitizing and encryption/hashing.
 - [Spear](https://github.com/NFIBrokerage/spear) - Sharp EventStoreDB 20+ client backed by Mint.
+- [Yesql](https://github.com/lpil/yesql) - Elixir library for using SQL.
 
 ## Test
 

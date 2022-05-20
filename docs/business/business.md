@@ -152,3 +152,4 @@ Learning to build [startups](startups/startups.md).
 - [Success and Failure at Pebble (2022)](https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232)
 - [Elon Musks' bid on Twitter explained (2022)](https://twitter.com/gavinjohnadams/status/1514622570850664448)
 - [Default Alive or Default Dead? (2015)](http://www.paulgraham.com/aord.html) ([Tweet](https://twitter.com/karrisaarinen/status/1514348234818265089))
+- [Ask HN: 6-hour workdays more important than 4-day workweeks IMO (2022)](https://news.ycombinator.com/item?id=31445355)

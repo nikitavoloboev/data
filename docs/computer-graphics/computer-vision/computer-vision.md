@@ -762,3 +762,4 @@
 - [Deep Kernelized Dense Geometric Matching (2022)](https://arxiv.org/abs/2202.00667) ([Code](https://github.com/Parskatt/DKM))
 - [Unsupervised Semantic Segmentation by Distilling Feature Correspondences (2022)](https://arxiv.org/abs/2203.08414) ([Code](https://github.com/mhamilton723/STEGO))
 - [RecursiveMix: Mixed Learning with History (2022)](https://arxiv.org/abs/2203.06844) ([Code](https://github.com/implus/RecursiveMix-pytorch))
+- [MMDetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.

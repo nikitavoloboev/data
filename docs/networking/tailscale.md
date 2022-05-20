@@ -1,3 +1,7 @@
+---
+title: Tailscale
+---
+
 # [Tailscale](https://tailscale.com/)
 
 ## Links

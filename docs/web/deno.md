@@ -252,3 +252,6 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno.js in Production. Key Takeaways (2022)](https://medium.com/@sdesalas/deno-js-in-production-main-takeaways-247a2fd2d198) ([HN](https://news.ycombinator.com/item?id=31326123))
 - [Ptera](https://github.com/Tak-Iwamoto/ptera) - DateTime library for Deno.
 - [Bedrock](https://github.com/oslabs-beta/Bedrock) - Modular authentication library for Deno.
+- [deno_emit](https://github.com/denoland/deno_emit) - Transpile and bundle JavaScript and TypeScript in Deno and Deno Deploy.
+- [deno_numpy](https://github.com/tjosepo/deno_numpy) - NumPy for Deno.
+- [Danet](https://github.com/Savory/Danet) - Deno web framework.
