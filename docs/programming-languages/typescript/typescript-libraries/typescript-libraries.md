@@ -515,6 +515,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Yooda](https://github.com/ooade/yooda) - 600b validation library with custom handlers and messages.
 - [TypePipe](https://github.com/afresquet/typepipe) - Library to create pipelines with contexts and strong type checking.
 - [AutoAnimate](https://github.com/formkit/auto-animate) - Zero-config, drop-in animation utility that adds smooth transitions to your web app.
+- [AMQP-client.js](https://github.com/cloudamqp/amqp-client.js) - AMQP 0-9-1 TypeScript client both for Node.js and browsers (using WebSocket).
 
 ## Links
 

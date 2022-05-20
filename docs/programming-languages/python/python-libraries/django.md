@@ -163,3 +163,4 @@ title: Django
 - [snapshot-queries](https://github.com/cedar-team/snapshot-queries) - Capture all SQL statements executed via Django and SqlAlchemy ORM queries.
 - [Pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework.
 - [Enforcing Zero Downtime Django Migrations (2022)](https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html)
+- [Djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries.

@@ -158,6 +158,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [On the the missing diagrams in Category Theory (first-person version) (2022)](https://arxiv.org/abs/2204.10630) ([Tweet](https://twitter.com/bgavran3/status/1518490598675824642))
 - [Categorical Query Language (CQL)](https://www.categoricaldata.net/) ([Code](https://github.com/CategoricalData/CQL))
 - [CatsCheatSheet](https://github.com/alhassy/CatsCheatSheet) - Listing of common theorems in elementary category theory.
+- [Formalization of Category Theory in Agda](https://github.com/bgavran/Agda_Category_Theory)
 
 ## Images
 

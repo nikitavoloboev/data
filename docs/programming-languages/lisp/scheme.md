@@ -4,6 +4,8 @@ title: Scheme
 
 # [Scheme](https://call-cc.org/)
 
+[The Little Typer](https://thelittletyper.com/) is a [nice book](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/).
+
 ## Links
 
 - [The Scheme Programming Language book](https://www.scheme.com/tspl4/)
@@ -90,3 +92,4 @@ title: Scheme
 - [FLISP](https://github.com/fjames86/flisp) - Scheme-like Lisp interpreter that can also run as an operating system.
 - [Schism](https://github.com/schism-lang/schism) - Compiler from Scheme to WebAssembly.
 - [thunderchez](https://github.com/ovenpasta/thunderchez) - Libraries for Chez Scheme productivity.
+- [The Little Typer](https://thelittletyper.com/) ([Review](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/))

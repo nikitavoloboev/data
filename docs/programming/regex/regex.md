@@ -95,3 +95,4 @@ Match all that don't have notes or twitter in input
 - [I-Regexp](https://github.com/cabo/iregexp) - Interoperable Regexp Format.
 - [compose-regexp.js](https://github.com/compose-regexp/compose-regexp.js) - Build and compose maintainable regular expressions in JavaScript.
 - [flexlint](https://github.com/dalance/flexlint) - Flexible linter with rules defined by regular expression.
+- [Animating Regular Expressions With Python and Graphviz (2022)](https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a)
