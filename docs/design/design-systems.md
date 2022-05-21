@@ -101,6 +101,7 @@
 - [Kaizen Design System](https://cultureamp.design/) ([Code](https://github.com/cultureamp/kaizen-design-system))
 - [Backpack](https://backpack.github.io/) - Skyscanner's Design System. ([iOS Code](https://github.com/Skyscanner/backpack-ios)) ([Code](https://github.com/Skyscanner/backpack))
 - [Horizon UI](https://github.com/horizon-ui/horizon-ui-chakra) - Open Source Admin Template for Chakra UI & React.
+- [AriaKit](https://ariakit.org/) - Toolkit for building accessible web apps with React. ([Twitter](https://twitter.com/ariakitjs))
 
 ## Notes
 

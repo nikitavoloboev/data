@@ -26,6 +26,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Pantry Pasta](https://www.youtube.com/watch?v=AHgsNybwusc)
 - [Veg Biryani Recipe](https://www.indianhealthyrecipes.com/veg-biryani/)
 - [Homemade custard recipe](https://www.bbcgoodfood.com/recipes/homemade-custard)
+- [Premium Ceylon Cinnamon Rolls](https://www.youtube.com/watch?v=fyvMDqlfNPc)
 
 ## Links
 
@@ -93,3 +94,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Recipe Yak](https://recipeyak.com/) - Place to store, share, and create recipes. ([Code](https://github.com/recipeyak/recipeyak))
 - [Recipe Hunt](https://recipehunt.app/) - Recipe Search Engine. ([HN](https://news.ycombinator.com/item?id=31284873))
 - [Budget Bytes](https://www.budgetbytes.com/) - Delicious Recipes Designed for Small Budgets.
+- [Ciao! Kitchen - YouTube](https://www.youtube.com/c/CiaoKitchen/videos)

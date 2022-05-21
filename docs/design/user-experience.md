@@ -176,3 +176,4 @@
 - [Designing a Command Palette](https://plutoapp.xyz/blog/post/designing-a-command-palette/)
 - [Toast – Exploration of a notification component](https://emilkowal.ski/writing/toast)
 - [Tabs – Vercel's tab component with animated highlight on hover](https://emilkowal.ski/writing/tabs)
+- [Examples of great Dev UX](https://twitter.com/kelseyhightower/status/1527672023370985478)
