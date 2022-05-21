@@ -57,3 +57,4 @@ title: TLA+
 - [TLA Sequence Diagram](https://github.com/eras/tlsd) - Generate (message) sequence diagrams from TLA+ state traces.
 - [TLA+ Specification of Flexible Paxos](https://github.com/fpaxos/fpaxos-tlaplus)
 - [Fixing a MongoDB Replication Protocol Bug with TLA+ (2019)](http://tla.msr-inria.inria.fr/kuppe/2019conf/06%20-%20William%20Schultz%20-%20Strangeloop%20TLA+%20Conference%202019%20Talk.pdf)
+- [TLA+ Video Course (2021)](https://lamport.azurewebsites.net/video/videos.html)
