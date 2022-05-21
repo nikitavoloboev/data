@@ -139,3 +139,4 @@ title: JSON
 - [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax. (Similar to jq)
 - [JDOT](https://github.com/saulpw/jdot) - JSON minus Notation plus Macros.
 - [JSON object values into CSV with jq (2022)](https://qmacro.org/blog/posts/2022/05/19/json-object-values-into-csv-with-jq/)
+- [Working with JSON in Various Shells (2022)](https://blog.kellybrazil.com/2022/05/19/working-with-json-in-various-shells/)

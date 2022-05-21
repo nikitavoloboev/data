@@ -4,7 +4,7 @@ title: OCaml
 
 # [OCaml](https://ocaml.org)
 
-[What I wish I knew when learning OCaml](https://news.ycombinator.com/item?id=31219552) is nice article.
+[What I wish I knew when learning OCaml](https://news.ycombinator.com/item?id=31219552) & [OCaml FP Programming Course](https://cs3110.github.io/textbook/cover.html) are great reads.
 
 ## Notes
 

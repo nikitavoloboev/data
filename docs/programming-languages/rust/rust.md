@@ -795,3 +795,4 @@ title: Rust
 - [The Rust Borrow Checker – A Deep Dive (2022)](https://www.infoq.com/presentations/rust-borrow-checker/) ([HN](https://news.ycombinator.com/item?id=31432005))
 - [Rust: A Critical Retrospective (2022)](https://www.bunniestudios.com/blog/?p=6375) ([HN](https://news.ycombinator.com/item?id=31432908)) ([Lobsters](https://lobste.rs/s/wiavtb/rust_critical_retrospective))
 - [Rust Ergonomics: Default and From (2022)](https://elijahcaine.me/rust-default-from/)
+- [Custom Allocators in Rust (2022)](https://not-matthias.github.io/posts/rust-kernel-adventures/)

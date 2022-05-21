@@ -121,3 +121,4 @@
 - [go-libp2p-peerstore](https://github.com/libp2p/go-libp2p-peerstore) - Object to manage peers, their addresses, and other metadata about them.
 - [Async Wordle game solely on P2P](https://github.com/p2p-games/wordle)
 - [Web3 is just expensive P2P](https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/) ([HN](https://news.ycombinator.com/item?id=31396329))
+- [Aphrodite](https://github.com/tantaman/aphrodite) - Schema layer whose first goal is to make P2P & Local-First software development as easy as traditional development.

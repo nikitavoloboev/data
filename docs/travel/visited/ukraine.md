@@ -150,3 +150,4 @@ I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the 
 - [Буча: почему приходится верить (2022)](https://kolezev.ru/2022/04/04/bucha/)
 - [Ukranian artists](https://twitter.com/mashawannasay/status/1526187658325671938)
 - [Ukraine: The Latest Podcast](https://podcasts.apple.com/gb/podcast/ukraine-the-latest/id1612424182)
+- [Notes on Ukraine: I spent most of April and some of May traveling around Ukraine (2022)](https://mattlakeman.org/2022/05/15/notes-on-ukraine/)

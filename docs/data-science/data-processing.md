@@ -106,3 +106,4 @@
 - [csv-clean](https://github.com/TimothyJones/csv-clean) - Command line tool to clean up malformed CSV files.
 - [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
 - [Data Integration Guide: Techniques, Technologies, and Tools (2022)](https://airbyte.com/blog/data-integration)
+- [Mito](https://www.trymito.io/) - Mito – Excel-like interface for Pandas dataframes in Jupyter notebook. ([HN](https://news.ycombinator.com/item?id=31446236))

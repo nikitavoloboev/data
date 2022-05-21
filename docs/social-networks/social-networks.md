@@ -160,3 +160,4 @@
 - [Teen mental health is plummeting and social media is a major contributing cause (2022)](https://www.judiciary.senate.gov/imo/media/doc/Haidt%20Testimony.pdf) ([HN](https://news.ycombinator.com/item?id=31268222))
 - [Ask HN: Has social media reached its saturation point? (2022)](https://news.ycombinator.com/item?id=31284537)
 - [Trust and safety research is hard](https://twitter.com/alexstamos/status/1524204880356724736)
+- [Ourspace](https://github.com/ZeroDAO/ourspace) - Decentralized social networks and reputation systems.

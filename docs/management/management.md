@@ -202,3 +202,4 @@
 - [11 Promises from a Manager](https://twitter.com/MrEchs/status/1516024322409832450)
 - [Basecamp Employee Handbook](https://basecamp.com/handbook)
 - [Thoughts on OKRs (2022)](https://joeblu.com/blog/2022_05_okrs/) ([HN](https://news.ycombinator.com/item?id=31422718))
+- [Tasks, lists, and promises](http://rachelbythebay.com/w/2022/05/19/priority/) ([Lobsters](https://lobste.rs/s/h7v6xg/tasks_lists_promises))

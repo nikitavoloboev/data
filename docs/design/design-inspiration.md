@@ -327,6 +327,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Nicholas Jitkoff](https://nicholas.jitkoff.com/)
 - [Roxane Jammet](http://roxane.me/)
+- [Shu Ding](https://shud.in/) ([Code](https://github.com/shuding/site))
 - [Slim Lim](https://slim.computer/)
 - [Nick Zuber](https://nickzuber.com/)
 - [Daniel Pyrathon](https://pirosb3.io/)

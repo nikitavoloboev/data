@@ -29,11 +29,11 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Chat
 
-- [Telegram](https://telegram.org) - Best native messenger with great stickers.
+- [Telegram](../tools/telegram.md) - Best native messenger with great stickers.
 
 ## Video
 
-- [Google Meet](https://meet.google.com/) or [Discord](https://discord.com) (voice/video chats)
+- [Google Meet](https://meet.google.com/) or [Discord](../tools/discord.md) (voice/video chats)
 
 ## Knowledge index
 
@@ -78,9 +78,9 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 - Static sites (landing pages) / Blogs - [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (with [SvelteKit](https://kit.svelte.dev/))
 - Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md) or [SvelteKit](https://kit.svelte.dev/).
-- Server APIs - [Go](https://golang.org/). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/)
+- Server APIs - [Go](../programming-languages/go/go.md). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/)
 - Scripts & CLI tools - [Deno](../web/deno.md) or [Go](../programming-languages/go/go.md)
-- Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](https://www.prisma.io/) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
+- Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](../databases/prisma.md) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
 - GraphQL - [GraphJin](https://github.com/dosco/graphjin) or [Graphile Starter](https://github.com/graphile/starter)
 - Auth (SSO, 2FA) - [Firebase Auth](https://firebase.google.com/docs/auth) if I use Firebase. Otherwise User table modeled well.
 - iOS/macOS apps - [Swift](../programming-languages/swift/swift.md)/[SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md). Use [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture).
@@ -88,7 +88,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Project tools
 
-- [GitHub](https://github.com) - Code sharing & collaboration. Issues & Roadmaps. Want [Linear](https://linear.app/) level desktop client for GitHub. Like [Ship](https://www.realartists.com/blog/ship-20.html).
+- [GitHub](../open-source/github/github.md) - Code sharing & collaboration. Issues & Roadmaps. Want [Linear](https://linear.app/) level desktop client for GitHub. Like [Ship](https://www.realartists.com/blog/ship-20.html).
 - [Notion](../tools/notion.md) - Everything wiki, collaboration. Company Docs.
 - [Discord](../tools/discord.md) or [Telegram](../tools/telegram.md) - According to type & size of project. Small community/project, Telegram group is great. Open source or community project, Discord. More corporate, maybe Slack. But it's super expensive & unusable for open communities.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
@@ -99,7 +99,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 ## Cloud Compute
 
 - [Fly](https://fly.io/) is my favorite. [Railway](https://railway.app/) too.
-- [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) has many niche useful services too.
+- [AWS](../cloud-computing/aws/aws.md)/[GCP](../cloud-computing/gcp/gcp.md) has many niche useful services too.
 
 ## Utility
 
@@ -107,7 +107,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## React
 
-- State - useState (local data updates), [XState](https://xstate.js.org/docs/) for more complex state.
+- State - useState (local data updates), [XState](../tools/xstate.md) for more complex state.
 - Queries - [React Query](https://react-query.tanstack.com/)
 - GraphQL - [Urql](https://github.com/FormidableLabs/urql)
 
@@ -122,7 +122,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Payment
 
-- [Stripe Checkout](https://stripe.com/en-nl/payments/checkout)
+- [Stripe Checkout](https://stripe.com/payments/checkout)
 
 ## Analytics
 
@@ -135,5 +135,5 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Other
 
-- Format code automatically. [Prettier](https://prettier.io) for JS/TS/CSS/HTML/MD. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift.
+- Format code automatically. [dprint](https://dprint.dev/) for JS/TS/CSS/HTML/MD. [Black](https://github.com/psf/black) for Python. [swift-format](https://github.com/apple/swift-format) for Swift.
 - Forms: Write in code. [Reform](https://www.reform.app/) looks nice.

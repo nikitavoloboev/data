@@ -123,3 +123,4 @@
 - [happygirlzt - YouTube](https://www.youtube.com/c/happygirlzt/videos) ([Illustrations](https://github.com/happygirlzt/algorithm-illustrations))
 - [Rosetta Code problems in Rust](https://github.com/rust-rosetta/rust-rosetta)
 - [Linkedin Quiz Answers, Skill Assessments Test](https://ebazhanov.github.io/linkedin-skill-assessments-quizzes/) ([Code](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes))
+- [Ask HN: What to do about ‘Good at programming Bad at Leetcode’ (2022)](https://news.ycombinator.com/item?id=31450713)

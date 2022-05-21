@@ -147,6 +147,7 @@ If you want to start a blog of your own doing it with [Svelte](../programming-la
 - [George Hilliard](https://www.thirtythreeforty.net/)
 - [Anton Zhiyanov](https://antonz.org/all/)
 - [Andreas Kling](https://awesomekling.github.io/)
+- [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
 
 ## Notes
 

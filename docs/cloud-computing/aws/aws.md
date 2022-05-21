@@ -350,3 +350,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Code generator for AWS Controllers for Kubernetes](https://github.com/aws-controllers-k8s/code-generator)
 - [AWS Serverless Ecommerce Platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform)
 - [Sceptre](https://github.com/Sceptre/sceptre) - Tool to drive AWS CloudFormation.
+- [libaws](https://github.com/nathants/libaws) - Simpler infrastructure as code specification.

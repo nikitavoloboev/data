@@ -48,6 +48,7 @@ title: Remix
 - [Remix GraphCMS Doc Starter](https://github.com/GraphCMS/docs-starter)
 - [Remix on the Bun runtime](https://github.com/jacob-ebey/remix-bun)
 - [Remix on AWS API Gateway v2 & Lambda](https://github.com/m14t/remix-run-apigateway)
+- [Figma Remix](https://github.com/jjenzz/figma-remix)
 
 ## Plugins
 
