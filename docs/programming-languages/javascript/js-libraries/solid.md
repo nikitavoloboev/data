@@ -68,3 +68,6 @@ title: SolidJS
 - [Solid Meta](https://github.com/solidjs/solid-meta) - Asynchronous SSR-ready Document Head management for Solid based on React Head.
 - [Early return in Solid](https://twitter.com/Huxpro/status/1526711254928068608)
 - [The Quest for ReactiveScript (2021)](https://dev.to/this-is-learning/the-quest-for-reactivescript-3ka3)
+- [solid-auto-animate](https://github.com/LXSMNSYC/solid-auto-animate) - SolidJS bindings for FormKit's AutoAnimate.
+- [Solid Dev Tools](https://github.com/thetarnav/solid-devtools) - Reactivity Debugger & Devtools Chrome Extension for SolidJS.
+- [solid-register](https://github.com/atk/solid-register) - Solid.js execution environment for Node.js. Allows running and testing Solid.js browser code in Node.js.

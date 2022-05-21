@@ -23,3 +23,4 @@
 - [Poker Now](https://www.pokernow.club/) - Poker with Friends.
 - [poker-engine](https://github.com/chevtek/poker-engine) - Headless no-limit Texas Hold'em engine written completely in node.
 - [How A.I. Conquered Poker (2022)](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html) ([HN](https://news.ycombinator.com/item?id=29983043))
+- [Teach your Kids Bridge, not Poker](https://specbranch.com/posts/teach-bridge/) ([HN](https://news.ycombinator.com/item?id=31459044))

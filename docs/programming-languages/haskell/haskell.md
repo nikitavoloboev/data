@@ -429,3 +429,4 @@ title: Haskell
 - [Model Checking in Haskell, Part 1: Transition Systems and Invariants (2022)](https://benjaminselfridge.github.io/posts/2022-05-10-model-checking-1.html)
 - [How to lower an IR? (2022)](https://luctielen.com/posts/how-to-lower-an-ir/)
 - [Resources to make FP in Haskell click (2022)](https://www.reddit.com/r/haskell/comments/uu42qc/i_started_to_study_haskell_but_many_functional/)
+- [Direct Reflection for Free](https://github.com/joom/direct-reflection-for-free) - Using Data and Typeable to get a direct reflection system for free, when we're implementing a toy language in Haskell.

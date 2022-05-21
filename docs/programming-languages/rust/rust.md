@@ -796,3 +796,5 @@ title: Rust
 - [Rust: A Critical Retrospective (2022)](https://www.bunniestudios.com/blog/?p=6375) ([HN](https://news.ycombinator.com/item?id=31432908)) ([Lobsters](https://lobste.rs/s/wiavtb/rust_critical_retrospective))
 - [Rust Ergonomics: Default and From (2022)](https://elijahcaine.me/rust-default-from/)
 - [Custom Allocators in Rust (2022)](https://not-matthias.github.io/posts/rust-kernel-adventures/)
+- [Typed Type Exercise in Rust](https://github.com/andylokandy/typed-type-exercise-in-rust) - Build database expression type checker and vectorized runtime executor in type-safe Rust.
+- [What are legitimate problems with Rust? (2022)](https://www.reddit.com/r/rust/comments/uum5re/what_are_legitimate_problems_with_rust/)

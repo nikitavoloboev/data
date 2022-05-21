@@ -52,3 +52,4 @@
 - [Crosscut: Drawing Dynamic Models (2022)](https://www.inkandswitch.com/crosscut/)
 - [Awesome Flow-Based Programming (FBP) Resources](https://github.com/samuell/awesome-fbp)
 - [Livebook v0.6 - Automate and learn with smart cells by José Valim (2022)](https://www.youtube.com/watch?v=4hVIxyHxwK8) ([Tweet](https://twitter.com/josevalim/status/1524761086880276482))
+- [Observable Examples](https://github.com/observablehq/examples)
