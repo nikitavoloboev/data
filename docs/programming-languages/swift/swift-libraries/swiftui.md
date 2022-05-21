@@ -213,3 +213,4 @@ title: SwiftUI
 - [The SwiftUI render loop (2022)](https://rensbr.eu/blog/swiftui-render-loop/)
 - [Don't use escaping closures in SwiftUI (2022)](https://rensbr.eu/blog/swiftui-escaping-closures/)
 - [Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps)
+- [The SwiftUI Series](https://www.swiftuiseries.com/) - Week-long event to learn, compete and socialise in the world of SwiftUI. ([Twitter](https://twitter.com/swiftuiseries))
