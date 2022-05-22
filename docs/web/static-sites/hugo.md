@@ -4,9 +4,7 @@ title: Hugo
 
 # [Hugo](https://gohugo.io)
 
-I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minimal theme](https://github.com/calintat/minimal).
-
-[PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme is nice.
+[PaperMod](https://github.com/adityatelange/hugo-PaperMod/) theme seems nice.
 
 ## Themes
 

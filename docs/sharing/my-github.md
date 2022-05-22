@@ -23,7 +23,7 @@ title: My GitHub
 - [Learning (2019)](https://github.com/nikitavoloboev/learning) - Learn by building.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
 - [Knowledge (2017)](https://github.com/nikitavoloboev/knowledge) - Everything I know.
-- [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
+- [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev) - My personal home on the internet.
 - [AMA (2017)](https://github.com/nikitavoloboev/ama) - Ask me anything.
 - [My iOS (2016)](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing.
 - [My macOS (2016)](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.

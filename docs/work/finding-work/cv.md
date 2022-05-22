@@ -1,6 +1,6 @@
 # CV
 
-I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv).
+I made [my CV](https://nikiv.dev/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv).
 
 ## Interesting CVs
 

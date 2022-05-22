@@ -1,6 +1,6 @@
 # Ideas
 
-I share all ideas of things I want to build in [Notion](../sharing/my-notion.md) as well as sharing [all the projects I am making or have made](https://nikitavoloboev.xyz/projects).
+I share all ideas of things I want to build in [Notion](../sharing/my-notion.md) as well as sharing [all the projects I am making or have made](https://nikiv.dev/projects).
 
 Currently I am focusing my time on building [Learn Anything](learn-anything.md).
 

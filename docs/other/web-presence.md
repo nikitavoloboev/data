@@ -91,7 +91,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Other
 
-- [Home](https://nikitavoloboev.xyz)
+- [Home](https://nikiv.dev/)
 - [Keybase](https://keybase.io/nikitavoloboev)
 - [Etsy](https://www.etsy.com/people/nikitavoloboev)
 - [AngelList](https://angel.co/nikitavoloboev)

@@ -66,7 +66,7 @@ const config = {
             label: "🐙",
           },
           {
-            href: "https://nikitavoloboev.xyz",
+            href: "https://nikiv.dev",
             position: "right",
             label: "🏡",
           },

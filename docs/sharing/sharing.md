@@ -44,7 +44,7 @@ I share my goals openly. The will to live in a [better future](../future/future.
 
 I love tracking various things for my own reference.
 
-## What I am [doing now](https://nikitavoloboev.xyz/now/)
+## What I am [doing now](https://nikiv.dev/now)
 
 Lists my current location & [events](https://calendar.google.com/calendar/embed?src=vb3ao4euc3saeoj2qambtlr5vg%40group.calendar.google.com&ctz=Europe%2FAmsterdam&mode=AGENDA) I plan to attend.
 

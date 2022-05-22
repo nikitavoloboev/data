@@ -98,6 +98,6 @@ I ♥️ meeting new people so feel free to [reach out](https://twitter.com/niki
 
 ## Thank you
 
-You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared. ♥️
+You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikiv.dev/projects) I shared. ♥️
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)

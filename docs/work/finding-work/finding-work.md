@@ -6,7 +6,7 @@ I made a curated list of ways to prepare and places to look to [find work progra
 
 I use [Otta](https://otta.com/), [LinkedIn](https://www.linkedin.com) & [AngelList](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
 
-I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv).
+I made [my CV](https://nikiv.dev/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv).
 
 Sometimes the most effective way to apply is to apply directly. Go to the website of the company you want to apply to and see if there is a `Jobs` section present somewhere and apply through it. You can also send a direct email to the company's hiring management or if it's a startup, you can send an email to the Founder directly.
 
@@ -21,7 +21,7 @@ I saw you're looking for a .. at .. and I'm interested in joining your team.
 
 I attached my CV for further information, let me know if you'd be interested in talking.
 
-[Nikita](https://nikitavoloboev.xyz)
+[Nikita](https://nikiv.dev/)
 ```
 
 Never let impostor syndrome or anything else stop you from applying to your dream jobs. Most requirements placed on the job boards are not set in stone. If you know how to learn fast and know things already that are related, apply! Don't let rejections discourage you, ever. It's a numbers game and the first jobs are always the hardest to get.
