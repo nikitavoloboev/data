@@ -6,6 +6,8 @@ title: React Hooks
 
 Like [Jotai](https://jotai.org/)/[Valtio](https://github.com/pmndrs/valtio) for more complex state handling. [React Query](https://react-query.tanstack.com/) is great for web requests & caching. [ahooks](https://ahooks.js.org/) has many useful hooks too. [Tilg](https://github.com/shuding/tilg) is nice for debugging components.
 
+I now am using [Solid](../../js-libraries/solid.md) for all my web apps and static sites, so trying to port many useful hooks from here for Solid.
+
 ## State
 
 - [Jotai](https://github.com/pmndrs/jotai) - Primitive, flexible state management for React. ([How Jotai Specifies Package Entry Points](https://blog.axlight.com/posts/how-jotai-specifies-package-entry-points/)) ([Tweet](https://twitter.com/acemarke/status/1515654687780974595))

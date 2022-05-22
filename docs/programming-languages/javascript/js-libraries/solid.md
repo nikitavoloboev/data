@@ -10,6 +10,8 @@ title: SolidJS
 
 [Hope UI](https://hope-ui.com/) is nice component library.
 
+I am trying to use SolidJS for all web apps and static sites I build now.
+
 ## OSS apps
 
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)

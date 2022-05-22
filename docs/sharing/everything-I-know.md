@@ -4,8 +4,10 @@ Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's p
 
 - [Karabiner](../macOS/apps/karabiner/karabiner.md): How to bind keys on mac.
 - [macOS](../macOS/macOS.md): How to operate it very fast. Especially with apps like [KM](../macOS/apps/keyboard-maestro/keyboard-maestro.md), [Alfred](../macOS/apps/alfred/alfred.md), [VSCode](../text-editors/vs-code/vs-code.md).
-- [React](../programming-languages/javascript/js-libraries/react/react.md): Love React's component model and JSX. I now try to use only [Svelte](../programming-languages/javascript/js-libraries/svelte.md) or [Solid](../programming-languages/javascript/js-libraries/solid.md) as they have better [web performance](../web/web-performance.md).
+- [Solid](../programming-languages/javascript/js-libraries/solid.md): Learning and trying to use it for all my web apps and even static sites. Love [React](../programming-languages/javascript/js-libraries/react/react.md)'s component model and JSX but Solid is [much faster than React](https://twitter.com/nikitavoloboev/status/1528479450828087299) due to avoiding VDOM. I try to be conscious of [performance](../web/web-performance.md) in all my projects.
 - [Go](../programming-languages/go/go.md)/[Deno](../web/deno.md): For writing scripts and web services.
+- [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md): Trying to deploy everything I can on a distributed CDN. Workers with [Hono](https://github.com/honojs/hono) seem to do well.
+- [SQLite](../databases/sqlite.md): My DB of choice for all projects. I also use [Postgres](../databases/postgresql.md) and exploring [EdgeDB](../databases/edgedb.md).
 
 ## My Workflow
 

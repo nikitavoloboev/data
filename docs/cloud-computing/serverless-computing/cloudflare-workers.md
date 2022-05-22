@@ -8,7 +8,7 @@ Can build and release websites fully on [Cloudflare stack](https://twitter.com/p
 
 [Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)) & [Worktop](https://github.com/lukeed/worktop) seem like nice web frameworks built on top of Cloudflare workers.
 
-Exploring building fast web apps with [Svelte](../../programming-languages/javascript/js-libraries/svelte.md) on [the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
+Exploring building fast web apps with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
 
 ## OSS tools build with CW
 

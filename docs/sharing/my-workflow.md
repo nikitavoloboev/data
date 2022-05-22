@@ -76,9 +76,9 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 
 ## Tech
 
-- Static sites (landing pages) / Blogs - [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (with [SvelteKit](https://kit.svelte.dev/))
-- Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md) or [SvelteKit](https://kit.svelte.dev/).
-- Server APIs - [Go](../programming-languages/go/go.md). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/)
+- Static sites (landing pages) / Blogs - [Solid](../programming-languages/javascript/js-libraries/solid.md)
+- Web Apps - [Solid](../programming-languages/javascript/js-libraries/solid.md)
+- Server APIs - [Go](../programming-languages/go/go.md). Deployed on [GCP Cloud Run](https://cloud.google.com/run/) or [Fly.io](https://fly.io/) or on [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) with [Hono](https://github.com/honojs/hono).
 - Scripts & CLI tools - [Deno](../web/deno.md) or [Go](../programming-languages/go/go.md)
 - Database - [SQLite](../databases/sqlite.md) or [Postgres](../databases/postgresql.md). Use [Prisma](../databases/prisma.md) for queries. [EdgeDB](../databases/edgedb.md) is amazing too.
 - GraphQL - [GraphJin](https://github.com/dosco/graphjin) or [Graphile Starter](https://github.com/graphile/starter)

@@ -1,6 +1,6 @@
 # Functional programming
 
-[Effekt](https://github.com/effekt-lang/effekt) seems like a neat language.
+[Effekt](https://github.com/effekt-lang/effekt) seems like a neat language. [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) is a nice read.
 
 ## Notes
 
@@ -176,6 +176,7 @@
 - [Selective applicative functors](https://github.com/snowleopard/selective) - Abstraction between applicative functors and monads.
 - [Utrecht Advanced Functional Programming Summer School](https://uu-afp.github.io/)
 - [Functional Programming in Bologna](https://twitter.com/fpinbo)
+- [The Dao of Functional Programming (2022)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf)
 
 ## Images
 

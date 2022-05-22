@@ -4,7 +4,9 @@ title: React
 
 # [React](https://reactjs.org)
 
-[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [fresh](https://github.com/lucacasonato/fresh) looks interesting. Exploring using [Svelte](../../../javascript/js-libraries/svelte.md)/[Solid](../../../javascript/js-libraries/solid.md) currently as they have [better performance](../../../../web/web-performance.md).
+[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [fresh](https://github.com/lucacasonato/fresh) looks interesting.
+
+Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md).
 
 ## OSS React apps
 
