@@ -8,6 +8,8 @@ title: CSS
 
 Often use [these CSS loaders](https://uiball.com/loaders/). [Open Props](https://open-props.style/) are amazing. Trying out new features now from recent [State of CSS](https://www.youtube.com/watch?v=Xy9ZXRRgpLk).
 
+Recently been loving using [UnoCSS](https://uno.antfu.me/).
+
 ## Nice templates
 
 - [Stripe Homepage Website Made with Tailwind CSS](https://codepen.io/andreyazimov/pen/abWWeKp)
