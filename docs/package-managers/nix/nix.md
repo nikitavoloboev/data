@@ -357,3 +357,4 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [How to Learn Nix, Part 47: New and unimproved shells (2021)](https://ianthehenry.com/posts/how-to-learn-nix/nix-develop/)
 - [Quickly building minimal Docker containers with Nix (2021)](https://jamey.thesharps.us/2021/02/02/docker-containers-nix/)
 - [Nix Book](https://github.com/NixOS/nix-book) - Centralized community online learning resource for Nix.
+- [Replit - Dynamic version for Nix derivations (2021)](https://blog.replit.com/nix_dynamic_version)

@@ -290,3 +290,4 @@ useEffect(() => {
 - [SWR with Axios](https://github.com/s1gr1d/example.react-swr-axios) - Simple, scalable example for using SWR with Axios in your React application.
 - [How useEvent hook solves 'execute on mount only once' use case](https://twitter.com/dan_abramov/status/1522218410695794694)
 - [Questions around useEffect hook (2022)](https://twitter.com/dan_abramov/status/1526584624159555584)
+- [Synchronizing with Effects](https://beta-reactjs-org-git-effects-fbopensource.vercel.app/learn/synchronizing-with-effects) ([Tweet](https://twitter.com/dan_abramov/status/1528420593686745091))
