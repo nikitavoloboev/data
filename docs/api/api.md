@@ -395,3 +395,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Public API Lists](https://github.com/public-api-lists/public-api-lists)
 - [Predator](https://github.com/Zooz/predator) - Powerful open-source platform for load testing APIs. ([Web](https://www.predator.dev/))
 - [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic.
+- [Open Source API Firewall](https://github.com/wallarm/api-firewall) - Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs.

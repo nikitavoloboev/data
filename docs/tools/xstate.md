@@ -39,3 +39,4 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [XSystem](https://github.com/christoph-fricke/xsystem) - Building Blocks for XState-based Actor Systems.
 - [AdonisJS + Petite Vue + XState](https://github.com/Devessier/adonisjs-petitevue-xstate)
 - [Official Beginner’s Guide to XState in React - YouTube](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI)
+- [Robo Wizard](https://github.com/HipsterBrown/robo-wizard) - Library for building multi-step forms backed by a state machine.

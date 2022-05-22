@@ -72,3 +72,4 @@ title: SolidJS
 - [Solid Dev Tools](https://github.com/thetarnav/solid-devtools) - Reactivity Debugger & Devtools Chrome Extension for SolidJS.
 - [solid-register](https://github.com/atk/solid-register) - Solid.js execution environment for Node.js. Allows running and testing Solid.js browser code in Node.js.
 - [solid-marked](https://github.com/LXSMNSYC/solid-marked) - MDX/Markdown compiler for SolidJS.
+- [Solid Native](https://github.com/MrFoxPro/solid-nativescript-experiments) - NativeScript bindings for Solid.JS.

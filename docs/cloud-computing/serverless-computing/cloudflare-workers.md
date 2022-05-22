@@ -18,6 +18,7 @@ Exploring building fast web apps with [Svelte](../../programming-languages/javas
 - [Tauri Update Server: Hosted as a Cloudflare edge function](https://github.com/KilleenCode/tauri-update-cloudflare)
 - [Avatar](https://github.com/staticallyio/avatar) - Simple, beautiful, and high-quality avatar service on Cloudflare Workers. ([Web](https://statically.io/))
 - [Using Cloudflare Workers to proxy dev.to blog via API](https://github.com/brycedorn/blog)
+- [End-to-end encrypted chat demo using Cloudflare Workers and Durable Objects](https://github.com/zmxv/cf-e2eechat)
 
 ## Notes
 

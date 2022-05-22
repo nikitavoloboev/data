@@ -536,3 +536,4 @@ the execution time on all cores of a multi-core processor.
 - [Linux Accessibility: an unmaintained Mess (2022)](https://scribe.rip/@r.d.t.prater/linux-accessibility-an-unmaintained-mess-8fbf9decaf8a) ([Lobsters](https://lobste.rs/s/5pf4j6/linux_accessibility_unmaintained_mess))
 - [Linux for Networking Professionals Book (2021)](https://www.packtpub.com/product/linux-for-networking-professionals/9781800202399) ([Code](https://github.com/PacktPublishing/Linux-for-Networking-Professionals))
 - [Cobbler](https://github.com/cobbler/cobbler) - Linux installation server that allows for rapid setup of network installation environments.
+- [strace](https://github.com/strace/strace) - Diagnostic, debugging and instructional userspace utility for Linux.

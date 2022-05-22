@@ -35,3 +35,4 @@ I share a list of my favorite [actors](https://www.imdb.com/list/ls099077697/) &
 - [This Is What An Oscar Winning Joker Scene Looks Like](https://www.youtube.com/watch?v=kElsSj8hky4)
 - [Breaking Bad - How Bryan Cranston Perfected Walter White](https://www.youtube.com/watch?v=IceGArsT9g0)
 - [Jake Gyllenhaal Breaks Down His Career (2022)](https://www.youtube.com/watch?v=-ukSPR9JShQ)
+- [Actors who consistently make interesting films (2022)](https://www.reddit.com/r/MovieSuggestions/comments/uuuklt/actors_who_consistently_make_interesting_films/)

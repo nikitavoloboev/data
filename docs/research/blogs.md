@@ -271,3 +271,4 @@ If you want to start a blog of your own doing it with [Svelte](../programming-la
 - [Is there a good “blog search” out there? (2022)](https://news.ycombinator.com/item?id=31295154)
 - [Scribe](https://sr.ht/~edwardloveall/scribe/) - Alternative Medium Frontend.
 - [Deno Blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging. All you need is one boilerplate JavaScript file that has 2 lines of code.
+- [Blog engine in Deno](https://github.com/Xe/xn--g28h)

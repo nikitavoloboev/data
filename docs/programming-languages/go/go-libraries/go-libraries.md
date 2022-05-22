@@ -1650,6 +1650,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [xxHash](https://github.com/pierrec/xxHash) - Pure Go implementation of xxHash.
 - [doublestar](https://github.com/bmatcuk/doublestar) - Path pattern matching and globbing supporting doublestar (\*\*) patterns.
 - [debounce](https://github.com/bep/debounce) - Debouncer written in Go.
+- [Parquet](https://github.com/parsyl/parquet) - Library for reading and writing parquet files.
+- [i18n](https://github.com/kataras/i18n) - High-performant and powerful localization and internationalization support for Go.
 
 ## Links
 

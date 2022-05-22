@@ -27,3 +27,4 @@ title: Reactive programming
 - [Разбираемся в сортах реактивности](https://github.com/nin-jin/slides/blob/master/reactivity/readme.md) ([Tweet](https://twitter.com/andrey_sitnik/status/1460956157854752768))
 - [Reactive](https://github.com/YousefED/reactive) - Super simple, yet powerful and performant library for State Management / Reactive Programming.
 - [General Theory of Reactivity](https://github.com/kriskowal/gtor)
+- [Scramjet](https://github.com/scramjetorg/framework-js) - Simple reactive stream programming framework in TypeScript.
