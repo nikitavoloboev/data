@@ -1,6 +1,8 @@
 # Web
 
-[Full stack open](https://fullstackopen.com/en/) is nice course. I use [Svelte](../programming-languages/javascript/js-libraries/svelte.md) (preferred) & [Solid](../programming-languages/javascript/js-libraries/solid.md) (when reactivity is needed, web apps etc.). [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) is okay. [Qwik](https://github.com/BuilderIO/qwik) & [Bud](https://github.com/livebud/bud) (love the CLI for file generation) seem nice too.
+[Full stack open](https://fullstackopen.com/en/) is nice course. I use [Solid](../programming-languages/javascript/js-libraries/solid.md) for all web apps and static sites. Specifically I use [Solid Start](https://github.com/solidjs/solid-start) template (ports [NextJS](../programming-languages/javascript/js-libraries/react/nextjs.md) like features to Solid).
+
+[Qwik](https://github.com/BuilderIO/qwik) & [Bud](https://github.com/livebud/bud) (love the CLI for file generation) seem nice too.
 
 ## Notes
 

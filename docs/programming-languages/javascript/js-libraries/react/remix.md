@@ -6,7 +6,7 @@ title: Remix
 
 > Framework for building better websites using modern web standards and best practices
 
-[Remix + EdgeDB](https://github.com/edgedb/remix) is a nice template.
+[Remix + EdgeDB](https://github.com/edgedb/remix) is a nice template. Trying to move useful features I find from Remix into [Solid Start](https://github.com/solidjs/solid-start) as [Solid](../solid.md) has much better web performance.
 
 ## OSS Remix apps
 

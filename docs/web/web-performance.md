@@ -4,7 +4,7 @@ title: Web performance
 
 # [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 
-Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) tests to see web page performance. I love using [Svelte](../programming-languages/javascript/js-libraries/svelte.md) & [Solid](../programming-languages/javascript/js-libraries/solid.md) for building websites. I try and use [lean and efficient frameworks/APIs](https://twitter.com/slightlylate/status/1517163057780195331) whenever I can.
+Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) tests to see web page performance. I love using [Solid](../programming-languages/javascript/js-libraries/solid.md) for building both web apps and static sites. I try and use [lean and efficient frameworks/APIs](https://twitter.com/slightlylate/status/1517163057780195331) whenever I can.
 
 [Local databases that persist not just data but UI is neat concept](https://twitter.com/devongovett/status/1526225850739347458).
 

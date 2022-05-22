@@ -10,7 +10,9 @@ I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
 I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
-If you want to start a blog of your own doing it with [Svelte](../programming-languages/javascript/js-libraries/svelte.md) is quite nice I found. [Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) is pretty minimal blog implementation.
+My blog is written with [Solid](../programming-languages/javascript/js-libraries/solid.md) ([code here](https://github.com/nikitavoloboev/nikitavoloboev)).
+
+[Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) is also a pretty minimal blog implementation.
 
 [Bartosz Ciechanowski's Blog](https://ciechanow.ski/) is absolutely incredible.
 

@@ -21,7 +21,7 @@ Choosing what to learn is ideally due to making some [idea](ideas/ideas.md) I am
 
 Or I am curious about something and want to explore. Lately it's been:
 
-- [Physics](../physics/physics.md)
-- [Type Theory](../math/type-theory/type-theory.md)
-- [Svelte](../programming-languages/javascript/js-libraries/svelte.md) / [Solid](../programming-languages/javascript/js-libraries/solid.md) / [EdgeDB](../databases/edgedb.md) / [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md)
+- [Solid](../programming-languages/javascript/js-libraries/solid.md) / [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) / [EdgeDB](../databases/edgedb.md)
 - [Swift](../programming-languages/swift/swift.md) / [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md)
+- [Type Theory](../math/type-theory/type-theory.md)
+- [Physics](../physics/physics.md)
