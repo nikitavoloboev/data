@@ -256,7 +256,7 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Shank](https://github.com/metaplex-foundation/shank) - Extracts IDL from Solana Rust contracts.
 - [Solana Workbench](https://github.com/workbenchapp/solana-workbench) - Your one-stop shop for developing on Solana.
 - [DeployDAO Verified Program Builder](https://github.com/DeployDAO/verified-programs-builder) - Runs Solana builds of GitHub repos, emitting program artifacts as results.
-- [Solana Playground](https://beta.solpg.io/) ([Code](https://github.com/solana-playground/solana-playground))
+- [Solana Playground](https://beta.solpg.io/) ([Code](https://github.com/solana-playground/solana-playground)) ([Tweet](https://twitter.com/jamesrp13/status/1527800392502808576))
 - [Solana AccountsDB Plugin Postgres](https://github.com/solana-labs/solana-accountsdb-plugin-postgres) - Implements a plugin storing account data to a PostgreSQL database to illustrate how a plugin can be developed to work with Solana validators using the Plugin Framework.
 - [Monolithic vs Modular blockchain debate with Solana founder (2022)](https://youtu.be/35_rr8Vf-4k?t=27635)
 - [Glow JS](https://github.com/luma-team/glow-js) - Integrate the Glow Solana Wallet into your dApp.

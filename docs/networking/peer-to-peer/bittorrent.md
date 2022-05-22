@@ -114,3 +114,4 @@ title: BitTorrent
 - [Revenant](https://github.com/nikityy/revenant) - Cледим за раздачами на RuTracker для фильмов из списка на КиноПоиске.
 - [haze](https://github.com/cronokirby/haze) - Small BitTorrent client, written in Haskell.
 - [BitChan](https://github.com/majestrate/bitchan) - BitTorrent Image Board.
+- [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES) ([HN](https://news.ycombinator.com/item?id=31461070))

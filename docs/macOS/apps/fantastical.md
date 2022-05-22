@@ -37,3 +37,4 @@ I often switch between `Week` and `Month` views.
 - [datasette-ics](https://github.com/simonw/datasette-ics) - Datasette plugin for outputting iCalendar files.
 - [Bloben App](https://github.com/nibdo/bloben-app) - Self-hosted server-client Calendar and Tasks application for connecting to CalDav servers. ([HN](https://news.ycombinator.com/item?id=30929022))
 - [iCalendar in Rust](https://github.com/hoodie/icalendar-rs)
+- [Calm Calendar](https://calmcalendar.com/) - Work/life balance for your calendars, where it synchronizes events from one/many calendars to others, redacting details. ([Tweet](https://twitter.com/pat/status/1477909663869923329))

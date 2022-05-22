@@ -76,6 +76,7 @@
 - [If you don’t have the right founders at the start, you’re dead. If you do and you doubt them when things get hard, you’re dead. Work with founders in which you have absolute faith and then back them no matter what — win or die, together.](https://twitter.com/laserlikemike/status/1474013084574306304)
 - [If you're not embarrassed by the first version of your product, you've launched too late.](https://news.ycombinator.com/item?id=30589374)
 - [Many young companies are slow/late to implement regular performance reviews - I always recommend they do sooner vs later.](https://twitter.com/Farshchi/status/1521124687375347713)
+- [Success in startups is directly proportional to the number of hard conversations you are willing to have.](https://twitter.com/davemorin/status/1528046691068170240)
 
 ## Links
 
@@ -375,6 +376,7 @@
 - [We Need a Middle Class for Startups (2022)](https://neilthanedar.com/we-need-a-middle-class-for-startups/) ([HN](https://news.ycombinator.com/item?id=31327219))
 - [How startup employees can protect themselves in a down market, questions to ask and metrics to know while evaluating startups to work at](https://youtu.be/ezOIBfZcwbQ?t=3515)
 - [I spent two years launching tiny projects (2022)](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects) ([HN](https://news.ycombinator.com/item?id=31421364))
+- [Startups: Instead of thinking about whether you are “default alive” vs “default dead”, think about whether you are “default investable” vs “default uninvestable.”](https://twitter.com/DavidSacks/status/1528102541723979776)
 
 ## Images
 

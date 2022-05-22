@@ -133,3 +133,4 @@ title: OCaml
 - [Muhokama](https://github.com/xvw/muhokama) - Simple forum built on top of Dream, Caqti, Omd, Preface, Cmdliner and other useful OCaml libraries.
 - [OCaml 5 Tutorial](https://github.com/kayceesrk/ocaml5-tutorial) - Hands-on tutorial on the new parallelism features in OCaml 5.
 - [Concurrent Programming with Effect Handlers](https://github.com/ocamllabs/ocaml-effects-tutorial)
+- [OCaml programs are much nicer to write](https://twitter.com/wcrichton/status/1528069823212662784)

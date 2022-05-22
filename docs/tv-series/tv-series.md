@@ -54,3 +54,4 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 - [Great space series (2022)](https://www.reddit.com/r/scifi/comments/uiih27/just_finished_the_expanse_and_loved_it_looking/)
 - [Television Is in a Showrunning Crisis (2022)](https://www.vice.com/en/article/epxeze/television-is-in-a-showrunning-crisis) ([Tweet](https://twitter.com/k_trendacosta/status/1522244258186493953))
 - [What show you would say it's a hidden gem that not so many people know about? (2022)](https://www.reddit.com/r/NetflixBestOf/comments/ujaap4/discussion_what_show_you_would_say_its_a_hidden/)
+- [Назовите ваш комфортный фильм/сериал](https://twitter.com/drsy10WSbjZ3Sho/status/1528076856821424129)

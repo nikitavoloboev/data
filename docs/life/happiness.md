@@ -101,3 +101,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Happiness and the Art of Being](https://www.happinessofbeing.com/happiness_art_being) ([HN](https://news.ycombinator.com/item?id=30775844))
 - [Good genes are nice, but joy is better](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/) ([HN](https://news.ycombinator.com/item?id=31141836))
 - [Ask HN: How to break anxiety/fear-avoidance cycle? (2022)](https://news.ycombinator.com/item?id=31408431)
+- [Ask HN: What's your greatest enjoyment in life? (2022)](https://news.ycombinator.com/item?id=31462773)

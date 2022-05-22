@@ -93,3 +93,4 @@
 - [PM interview resources (2022)](https://twitter.com/lennysan/status/1513623140269580292)
 - [Buzzfeed Product Design Documentation](https://github.com/buzzfeed/design)
 - [Questions to ask for creating 'user stories'](https://twitter.com/lauraklein/status/1520908876790468609)
+- [10 metrics every PM should know like the back of their hand](https://twitter.com/aakashg0/status/1528165714196152320)
