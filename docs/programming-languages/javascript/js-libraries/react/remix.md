@@ -6,11 +6,12 @@ title: Remix
 
 > Framework for building better websites using modern web standards and best practices
 
-[Remix + EdgeDB](https://github.com/edgedb/remix) is a nice template. Trying to move useful features I find from Remix into [Solid Start](https://github.com/solidjs/solid-start) as [Solid](../solid.md) has much better web performance.
+Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful features I find from Remix into [Solid Start](https://github.com/solidjs/solid-start).
 
 ## OSS Remix apps
 
 - [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template) ([Another version](https://github.com/mcansh/remix-netlify-edge-js))
+- [Remix + EdgeDB Stack](https://github.com/edgedb/remix)
 - [Rewinds](https://rewinds.mhaidarhanif.com/) - Remix starter kit with Tailwind family of libraries. ([Code](https://github.com/mhaidarhanif/rewinds))
 - [Remix sandbox repo for WASM and napi-rs](https://github.com/benwis/rust-remix)
 - [Remix K-pop Stack](https://github.com/netlify-templates/kpop-stack) - Remix + Supabase + Tailwind deployed on Netlify. ([Tweet](https://twitter.com/jlengstorf/status/1521209429055590401))

@@ -4,7 +4,7 @@ title: Next.js
 
 # [Next.js](https://github.com/vercel/next.js)
 
-Exploring [Solid](../solid.md) as a faster alternative.
+Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful features I find from NextJS into [Solid Start](https://github.com/solidjs/solid-start).
 
 ## Example sites
 
