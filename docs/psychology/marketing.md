@@ -4,6 +4,8 @@
 
 Think [Poolsuite](https://poolsuite.net/) does marketing incredibly well. All the products they release evoke emotion.
 
+One way to do launches with possible virality is rewarding people who retweet with potential to win some amazing reward [like life time subscription](https://twitter.com/thekitze/status/1144147293786005504).
+
 ## Nice ads
 
 - [Kyrö Distillery: Presented by a naked man](https://www.youtube.com/watch?v=6Q35akNanEs)

@@ -504,6 +504,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Camille Fassett](https://www.sempervirens.io/)
 - [Matthias Endler](https://endler.dev/) ([Code](https://github.com/mre/endler.dev))
 - [Robb Knight](https://rknight.me/) ([Code](https://github.com/rknightuk/rknight.me))
+- [Alvar Lagerlöf](https://alvar.dev/)
 - [Jakub Fiala](https://www.fiala.space/)
 - [Yenly Ma](https://www.yenly.wtf/)
 - [Simeon Griggs](https://www.simeongriggs.dev/)

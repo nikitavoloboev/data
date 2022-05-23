@@ -27,6 +27,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Veg Biryani Recipe](https://www.indianhealthyrecipes.com/veg-biryani/)
 - [Homemade custard recipe](https://www.bbcgoodfood.com/recipes/homemade-custard)
 - [Premium Ceylon Cinnamon Rolls](https://www.youtube.com/watch?v=fyvMDqlfNPc)
+- [Lemon Blueberry Cake](https://carlsbadcravings.com/lemon-blueberry-cake/) ([Tweet](https://twitter.com/ferrisjabr/status/1528513907232415745))
 
 ## Links
 
@@ -95,3 +96,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Recipe Hunt](https://recipehunt.app/) - Recipe Search Engine. ([HN](https://news.ycombinator.com/item?id=31284873))
 - [Budget Bytes](https://www.budgetbytes.com/) - Delicious Recipes Designed for Small Budgets.
 - [Ciao! Kitchen - YouTube](https://www.youtube.com/c/CiaoKitchen/videos)
+- [Carlsbad Cravings](https://carlsbadcravings.com/) - Healthy & Indulgent Dinner & Slow Cooker Recipes.

@@ -418,3 +418,4 @@
 - [Webpage List](https://webpagelist.com/) - Discover new websites. ([HN](https://news.ycombinator.com/item?id=31387592))
 - [bringhome](https://github.com/papandreou/bringhome) - Download a web page to a local directory.
 - [Web Applications 101 (2022)](https://www.robinwieruch.de/web-applications/)
+- [Favorite OSS web templates (2022)](https://twitter.com/leeerob/status/1528514838380658688)

@@ -87,3 +87,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [Are Things Truly That Bad In China? (2022)](https://www.reddit.com/r/China/comments/ubl5qa/are_things_truly_that_bad_in_china/)
 - [What has made China so rich in the last 40 years? (2022)](https://www.reddit.com/r/AskEconomics/comments/ug1czj/what_has_made_china_so_rich_in_the_last_40_years/)
 - [The Fall of China (2022)](https://www.youtube.com/watch?v=OmKFt68sqQw)
+- [Why didn't China attack Taiwan? (a hypothesis) (2022)](https://twitter.com/kamilkazani/status/1528407233658249219)

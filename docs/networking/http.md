@@ -6,6 +6,14 @@ title: HTTP
 
 [Caddy](https://caddyserver.com/) is great. [HTTPie](https://github.com/httpie/httpie) & [HTTP Toolkit](https://httptoolkit.tech/) are useful.
 
+[Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)):
+
+1xx: hold on
+2xx: here you go
+3xx: go away
+4xx: you fucked up
+5xx: I fucked up
+
 ## Notes
 
 - [HTTP return codes cheat sheet: 1** Hold on 2** Here you go 3** Go away 4** You fucked up 5\*\* I fucked up](https://twitter.com/anthilemoon/status/1105972205568094208)
