@@ -12,7 +12,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 
 My blog is written with [Solid](../programming-languages/javascript/js-libraries/solid.md) ([code here](https://github.com/nikitavoloboev/nikitavoloboev)).
 
-[Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) is also a pretty minimal blog implementation.
+[Deno Blog](https://github.com/denoland/deno_blog) ([example code](https://github.com/ry/tinyclouds)) is also a pretty minimal blog implementation. [Proselog](https://github.com/proselog/proselog) looks interesting too.
 
 [Bartosz Ciechanowski's Blog](https://ciechanow.ski/) is absolutely incredible.
 
@@ -274,3 +274,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Scribe](https://sr.ht/~edwardloveall/scribe/) - Alternative Medium Frontend.
 - [Deno Blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging. All you need is one boilerplate JavaScript file that has 2 lines of code.
 - [Blog engine in Deno](https://github.com/Xe/xn--g28h)
+- [Proselog](https://proselog.com/) - Open Blogging Platform. ([Code](https://github.com/proselog/proselog))

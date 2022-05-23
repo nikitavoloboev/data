@@ -294,3 +294,4 @@
 - [Perplexity](https://github.com/andrew-johnson-4/perplexity) - Language is a notational semantic for documenting neural networks through diagrams.
 - [Meta-AF: Meta-Learning for Adaptive Filters](https://github.com/adobe-research/MetaAF)
 - [Sequence Transduction with Recurrent Neural Networks (2021)](https://arxiv.org/abs/1211.3711) ([Code](https://github.com/awni/transducer))
+- [Papers and Codes for the deep learning in hyperbolic space](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks)

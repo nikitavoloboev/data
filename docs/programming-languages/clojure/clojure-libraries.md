@@ -226,6 +226,7 @@
 - [structural](https://github.com/joinr/structural) - Destructuring plus type hinting for more performant clojure.
 - [tortilla](https://github.com/emlyn/tortilla) - Thin Clojure wrapper for Java APIs providing efficient and idiomatic interop.
 - [fitter](https://github.com/strojure/fitter) - System component management library for Clojure.
+- [tenet](https://github.com/lazy-cat-io/tenet) - Clojure(Script) library, which helps to create explicit and understandable results to unify and simplify the data flow.
 
 ## Links
 

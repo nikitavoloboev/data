@@ -43,3 +43,4 @@
 - [pihole-block-unblock](https://github.com/harvp0wn/pihole-block-unblock) - Simple script to block and unblock websites with pihole. You can automate with cron.
 - [Collection of online trackers](https://github.com/danielcuthbert/trackers)
 - [Privaxy](https://github.com/Barre/privaxy) - Ad blocking / tracker blocking by MITMing HTTPS traffic. ([HN](https://news.ycombinator.com/item?id=31432848))
+- [Pi-hole deployed into Fly.io and transported with Tailscale](https://github.com/paulsmith/fli-hole)

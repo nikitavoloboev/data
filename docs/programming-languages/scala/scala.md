@@ -163,3 +163,4 @@ title: Scala
 - [Scala Bootcamp](https://github.com/evolution-gaming/scala-bootcamp)
 - [Tree sitter grammar for Scala 2/3](https://github.com/susliko/tree-sitter-scala)
 - [You already know Monad(ic) stuff](https://blog.sake.ba/en/posts/programming/monads.html)
+- [New in Scala 3](https://github.com/bjornregnell/new-in-Scala3) - Quick tour of selected new stuff in Scala 3.

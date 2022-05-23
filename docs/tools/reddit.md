@@ -6,6 +6,8 @@ title: Reddit
 
 [Apollo iOS Reddit app](https://apolloapp.io/) is amazing iOS app. [Map of Reddit](https://anvaka.github.io/map-of-reddit/) is fun to explore.
 
+[Lemmy](https://github.com/LemmyNet/lemmy) is a nice OSS federated alternative to Reddit. Tech wise at least.
+
 ## Bots
 
 - [Music recognition bot for Reddit powered by audd.io](https://github.com/AudDMusic/RedditBot)

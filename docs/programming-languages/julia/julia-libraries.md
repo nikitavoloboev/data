@@ -99,6 +99,7 @@
 - [InferOpt.jl](https://github.com/axelparmentier/InferOpt.jl) - Combinatorial optimization layers for machine learning pipelines.
 - [ChainPlots](https://github.com/rmsrosa/ChainPlots.jl) - Visualization for Flux.Chain neural networks.
 - [FastDEQ](https://github.com/SciML/FastDEQ.jl) - Deep Equilibrium Networks (but faster!).
+- [Baysor](https://github.com/kharchenkolab/Baysor) - Bayesian Segmentation of Spatial Transcriptomics Data.
 
 ## Math
 

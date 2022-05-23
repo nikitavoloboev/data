@@ -107,3 +107,4 @@
 - [rq](https://github.com/dflemstr/rq) - Tool for doing record analysis and transformation.
 - [Data Integration Guide: Techniques, Technologies, and Tools (2022)](https://airbyte.com/blog/data-integration)
 - [Mito](https://www.trymito.io/) - Mito – Excel-like interface for Pandas dataframes in Jupyter notebook. ([HN](https://news.ycombinator.com/item?id=31446236))
+- [Tornado](https://github.com/WuerthPhoenix/tornado) - Complex Event Processor that receives reports of events from data sources such as monitoring, email, and telegram, matches them against pre-configured rules.

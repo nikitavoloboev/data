@@ -37,3 +37,4 @@ Most if not all songs in my [Focus](https://open.spotify.com/playlist/0ESjwZeTcH
 - [Lofimusic.app](https://lofimusic.app/) - Installable Progressive web app (PWA) that lists and displays famous YouTube Lo-Fi radios. ([Code](https://github.com/maxence-charriere/lofimusic))
 - [Noisedash](https://github.com/KevinThomas0/noisedash) - Self-hostable web tool for generating ambient noises.
 - [Nightwave Plaza](https://plaza.one/) - Online Vaporwave Radio.
+- [Lofi.co](https://lofi.co/) - Relax & Focus. ([HN](https://news.ycombinator.com/item?id=31470928))

@@ -927,6 +927,7 @@
 - [Cuberto Mouse Follower](https://github.com/Cuberto/mouse-follower) - Powerful JS library to create amazing and smooth effects for the mouse cursor on your website.
 - [delegate-it](https://github.com/fregante/delegate-it) - Lightweight event delegation.
 - [ip-address](https://github.com/beaugunderson/ip-address) - Library for validating and manipulating IPv4 and IPv6 addresses in JavaScript.
+- [minimatch](https://github.com/isaacs/minimatch) - Minimal matching utility.
 
 ## Links
 
