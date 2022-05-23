@@ -419,3 +419,4 @@
 - [bringhome](https://github.com/papandreou/bringhome) - Download a web page to a local directory.
 - [Web Applications 101 (2022)](https://www.robinwieruch.de/web-applications/)
 - [Favorite OSS web templates (2022)](https://twitter.com/leeerob/status/1528514838380658688)
+- [The balance has shifted away from SPAs (2022)](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/) ([HN](https://news.ycombinator.com/item?id=31459316)) ([Lobsters](https://lobste.rs/s/ygmcdv/balance_has_shifted_away_from_spas))
