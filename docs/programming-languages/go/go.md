@@ -778,3 +778,4 @@ if err != nil {
 - [Parallel tree running (2022)](https://flak.tedunangst.com/post/parallel-tree-running)
 - [Concurrency in Go resources](https://github.com/plagioriginal/concurrency-in-go)
 - [Calculating type sets is harder than you think (2022)](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/) ([HN](https://news.ycombinator.com/item?id=31395161))
+- [Operator constraints in Go (2022)](https://blog.merovius.de/posts/2022-05-23-operator-constraints/) ([HN](https://news.ycombinator.com/item?id=31482256))

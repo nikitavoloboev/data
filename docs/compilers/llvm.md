@@ -122,3 +122,4 @@ title: LLVM
 - [Whole Program LLVM](https://github.com/travitch/whole-program-llvm) - Wrapper script to build whole-program LLVM bitcode files.
 - [PochiVM](https://github.com/sillycross/PochiVM) - JIT (just-in-time) code-generation framework backed by LLVM and a novel baseline compiler.
 - [Guide to Performance Debugging LLVM-based Programs (2022)](https://www.youtube.com/watch?v=lDFE-QtSIfg)
+- [Writing an LLVM-IR compiler in Rust](https://github.com/ucarion/llvm-rust-getting-started)

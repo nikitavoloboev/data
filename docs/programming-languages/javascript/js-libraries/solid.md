@@ -17,8 +17,13 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 - [Solid Hacker News](https://github.com/solidjs/solid-hackernews)
 - [Solid Storefront](https://github.com/zaiste/solid-storefront) - Open-source e-commerce storefront in Solid.js with TypeScript, GraphQL, URQL & Tailwind CSS.
 
+## Notes
+
+- [To me the biggest difference between React and Solid is that things that can change are wrapped in signals in Solid, and in dependencies arrays in React.](https://twitter.com/fabiospampinato/status/1528537000504184834)
+
 ## Links
 
+- [SolidJS New Docs](https://docs.solidjs.com/)
 - [solid-nanostores](https://github.com/nanostores/solid) - Global state management in Solid using Nano Stores.
 - [Solid Lib Starter](https://github.com/amoutonbrady/solid-lib-starter)
 - [Solid Three, Custom Renderers, and SolidStart w/ Nikhil Saraf (2022)](https://www.youtube.com/watch?v=lsWXyyEsw7E)

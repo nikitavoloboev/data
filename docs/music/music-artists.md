@@ -222,6 +222,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 
 ## Live
 
+- [Valentino | FKA Twigs Live Performance](https://www.youtube.com/watch?v=jD78FhrR6NY)
 - [Ólafur Arnalds - A Sunrise Session with JFDR (some kind of peace)](https://www.youtube.com/watch?v=KrQV8nTCwqg)
 - [Ólafur Arnalds: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=TpO_8tk6yNQ)
 - [Ólafur Arnalds - Live at Sydney Opera House | Digital Season (2020)](https://www.youtube.com/watch?v=bcln2AL_L1M&t=18s)

@@ -40,6 +40,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Your company has a poor documentation culture. Things are slow because people don’t know how things works. Managers start micromanaging because work is slow. Leadership issues mandates. No one likes mandates, but that isn’t the problem. It was poor communication the whole time.](https://twitter.com/bryanl/status/1458160056680189958)
 - [Building something isn't very useful if you don't take the time to explain it to people.](https://twitter.com/armaniferrante/status/1473699131243773967)
 - [Every policy or process doc I write now has a section called “Reasons to Revisit.” It is essentially a reverse success criteria. Rather than a short list of things I would expect to see if the policy was successful.](https://news.ycombinator.com/item?id=30394344)
+- [Better docs tips: onboarding a core engineer, conducting user research, building conceptual visualizations with a dedicated product team throughout](https://twitter.com/jutanium/status/1528514940440612865)
 
 ## Links
 

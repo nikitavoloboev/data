@@ -482,3 +482,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Magic NAT: everywhere, unbounded, and lower cost (2022)](https://blog.cloudflare.com/magic-nat/)
 - [Real Time Streaming Protocol (RTSP)](https://en.wikipedia.org/wiki/Real_Time_Streaming_Protocol) - Application-level network protocol designed for multiplexing and packetizing multimedia transport streams.
 - [25 Gbit/s HTTP and HTTPS download speeds (2022)](https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/) ([Lobsters](https://lobste.rs/s/xdo53i/25_gbit_s_http_https_download_speeds))
+- [Meter](https://www.meter.com/) - Internet & WiFi for businesses. ([Building internet infrastructure into a utility](https://www.meter.com/blog/building-internet-infrastructure-into-a-utility)) ([Twitter](https://twitter.com/meter))

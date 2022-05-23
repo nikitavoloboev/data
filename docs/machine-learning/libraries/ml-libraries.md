@@ -351,3 +351,4 @@ title: ML Libraries
 - [Scikit-Learn Compiled Trees](https://github.com/ajtulloch/sklearn-compiledtrees)
 - [KotlinDL](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 - [PGBM](https://github.com/elephaint/pgbm) - Probabilistic Gradient Boosting Machines.
+- [Fiddle](https://github.com/google/fiddle) - Python-first configuration library particularly well suited to ML applications.

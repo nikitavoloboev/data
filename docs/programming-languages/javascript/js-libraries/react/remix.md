@@ -10,6 +10,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 ## OSS Remix apps
 
+- [Remix + Cloudflare Workers + Wrangler2 + Tailwind + ESLint + Prettier + Vitest + Playwright](https://github.com/okym-t/remix-cloudflare-workers-starterkit)
 - [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template) ([Another version](https://github.com/mcansh/remix-netlify-edge-js))
 - [Remix + EdgeDB Stack](https://github.com/edgedb/remix)
 - [Rewinds](https://rewinds.mhaidarhanif.com/) - Remix starter kit with Tailwind family of libraries. ([Code](https://github.com/mhaidarhanif/rewinds))
@@ -142,3 +143,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [rmx-cli](https://github.com/kiliman/rmx-cli) - CLI tool for Remix applications.
 - [Tailwind Purge-Per-Route Demo](https://github.com/brookslybrand/purge-per-route) - Demo of a Remix app with TailwindCSS classes purged per route.
 - [Remix - YouTube](https://www.youtube.com/c/Remix-Run/videos)
+- [Shipping to the Edge: Kent C Dodds (2022)](https://www.youtube.com/watch?v=osSaUWlgAyo)

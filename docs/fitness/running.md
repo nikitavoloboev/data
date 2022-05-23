@@ -12,4 +12,4 @@
 - [Running for nerds](https://github.com/tmcw/running-for-nerds)
 - [Wowtes](https://wowt.es/) - Customize your Strava runs, rides, and hikes to create beautiful charts.
 - [CityStrides](https://citystrides.com/) - Translate your running & walking into real-world accomplishments.
-- [‎Any Distance](https://apps.apple.com/us/app/any-distance-share-workouts/id1545233932) - Easily share your workouts through beautiful story templates. ([Twitter](https://twitter.com/anydistanceclub))
+- [Any Distance](https://apps.apple.com/us/app/any-distance-share-workouts/id1545233932) - Easily share your workouts through beautiful story templates. ([Twitter](https://twitter.com/anydistanceclub)) ([2.0 update](https://twitter.com/anydistanceclub/status/1528752024929521664))

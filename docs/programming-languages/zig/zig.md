@@ -120,3 +120,5 @@ title: Zig
 - [Zig Web Code](https://github.com/ziglang/www.ziglang.org)
 - [Getting Started with Zig on the Raspberry Pi Pico](https://github.com/ZigEmbeddedGroup/getting-started-pico-zig)
 - [Minimal example showing how HTML5's canvas, WASM memory and Zig can interact](https://github.com/daneelsan/minimal-zig-wasm-canvas)
+- [Uber Uses Zig (2022)](https://jakstys.lt/2022/how-uber-uses-zig/) ([HN](https://news.ycombinator.com/item?id=31478562))
+- [Zig PyPI distribution](https://github.com/ziglang/zig-pypi) - Zig programming language, packaged for PyPI. Lets you run Zig code from Python easily. ([Tweet](https://twitter.com/simonw/status/1528742284241408001))

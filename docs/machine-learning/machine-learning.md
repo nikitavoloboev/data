@@ -812,3 +812,4 @@
 - [Data Distributional Properties Drive Emergent Few-Shot Learning in Transformers (2022)](https://arxiv.org/abs/2205.05055) ([Tweet](https://twitter.com/scychan_brains/status/1526514761579614209))
 - [Machine Learning Specialization - DeepLearning.AI](https://www.deeplearning.ai/program/machine-learning-specialization/) ([HN](https://news.ycombinator.com/item?id=31435801))
 - [MLU-Explain](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts.
+- [Planning with Diffusion for Flexible Behavior Synthesis (2022)](https://diffusion-planning.github.io/) ([Code](https://github.com/jannerm/diffuser))

@@ -1137,6 +1137,7 @@
 - [ActoCrawler](https://github.com/inamiy/ActoCrawler) - Swift Concurrency-powered crawler engine on top of Actomaton, with flexible customizability to create various HTML scrapers, image scrapers, etc.
 - [Genything](https://github.com/justeattakeaway/Genything) - Library dedicated to easy and composable generation of random data, no matter how complex.
 - [Imaginary](https://github.com/hyperoslo/Imaginary) - Remote images, as easy as one, two, three.
+- [Injectable](https://github.com/hmlongco/Injectable) - New Dependency Injection approach for Swift and SwiftUI.
 
 ## Other (not lib)
 

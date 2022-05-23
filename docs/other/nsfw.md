@@ -7,6 +7,7 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [Nazar Elcansky](https://www.instagram.com/elcansky/) ([Web](https://app.milanote.com/1NjHr51QeXd488/elcansky?p=TQ4F6y5rXqo)) ([Twitter](https://twitter.com/elcansky))
 - [Lina Scheynius](https://www.instagram.com/linascheynius/)
 - [Koleso Sobaki](https://www.instagram.com/koleso_sobaki/) ([Twitter](https://twitter.com/KolesoSobaki))
+- [Berber Theunissen](https://www.instagram.com/theunissenberber/) ([Web](https://www.berbertheunissen.nl/))
 - [chill](https://www.instagram.com/thisissuperchill/)
 
 ## Reddit
@@ -50,3 +51,4 @@ Many people still have bad stigma attached of people sharing nudes in public but
 - [NSFW Data Scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier.
 - [nude-rs](https://github.com/kpcyrd/nude-rs) - High performance nudity detection in rust.
 - [Inside Pornhub (2022)](https://www.theverge.com/c/22925906/pornhub-mindgeek-content-moderation) ([HN](https://news.ycombinator.com/item?id=30441276))
+- [Гайд по созданию мужских нюдсов “Как не фоткать пенис?”](https://telegra.ph/Gajd-po-sozdaniyu-muzhskih-nyudsov-Kak-ne-fotkat-penis-04-25)

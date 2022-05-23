@@ -2,7 +2,7 @@
 
 List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-ios). [Open-Source iOS Apps list](https://github.com/dkhamsing/open-source-ios-apps) is nice list.
 
-[A Best-in-Class iOS App](https://www.bestinclassiosapp.com/) is great book.
+[A Best-in-Class iOS App](https://www.bestinclassiosapp.com/) is great book. [Any Distance is a neat app design wise](https://twitter.com/anydistanceclub/status/1528752024929521664).
 
 ## Nice OSS iOS Swift apps
 

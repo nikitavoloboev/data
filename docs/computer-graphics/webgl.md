@@ -101,3 +101,4 @@
 - [G](https://github.com/antvis/g) - Powerful rendering engine implemented with Canvas2D / SVG / WebGL / WebGPU.
 - [Neuroglancer](https://github.com/google/neuroglancer) - WebGL-based viewer for volumetric data.
 - [Aladino](https://github.com/luruke/aladino) - Tiny dependency-free JS library that allows to enhance your site using "shader effects".
+- [CSS vs WebGL cubes](https://flak.tedunangst.com/post/css-vs-webgl-cubes)

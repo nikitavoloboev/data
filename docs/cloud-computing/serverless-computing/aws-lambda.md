@@ -135,3 +135,4 @@ title: AWS Lambda
 - [Amazon Lambda Rust Library](https://github.com/rnag/rust.aws-cdk-lambda)
 - [Inline Image Previews with Sharp, BlurHash, and Lambda Functions (2022)](https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/)
 - [Accumulus](https://github.com/oslabs-beta/Accumulus) - AWS Lambda Monitoring and Visualization Tool.
+- [LALR](https://github.com/funnel-io/lalr) - Run lambdas through HTTP locally.

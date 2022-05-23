@@ -194,3 +194,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Twitter Financial information](https://investor.twitterinc.com/financial-information/Additional-Information-and-Where-To-Find-It/default.aspx)
 - [Twitter Helper](https://github.com/ErikBjare/twitter-helper) - Figure out who you're following but not interacting with (no likes, replies, retweets).
 - [“Free Speech” Ought to Mean More than Mocking Trans People (2022)](https://www.thebulwark.com/free-speech-ought-to-mean-more-than-mocking-trans-people/) ([Tweet](https://twitter.com/NGrossman81/status/1526524194858704897))
+- [Oxide and Friends Twitter Spaces Notes](https://github.com/oxidecomputer/twitter-spaces)

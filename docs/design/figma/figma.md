@@ -95,3 +95,4 @@ title: Figma
 - [How to change the color of a PNG image in Figma](https://twitter.com/alvishbaldha/status/1524982238017753088)
 - [Figma Bites - YouTube](https://www.youtube.com/c/FigmaBites/videos)
 - [Designing Auto Layout V4 - Joel Miller, Oscar Nilsson (Config 2022)](https://www.youtube.com/watch?v=ooximfyXFWk)
+- [Prototyper for Figma](https://prototyper.design/)
