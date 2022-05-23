@@ -359,3 +359,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework) - Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions.
 - [Using a Proper Camera as a Webcam (2022)](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html) ([HN](https://news.ycombinator.com/item?id=31411813))
 - [Hawkeye](https://github.com/cbsinteractive/hawkeye) - Detect images in a video stream and execute automated actions.
+- [HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/) ([HN](https://news.ycombinator.com/item?id=31483548))

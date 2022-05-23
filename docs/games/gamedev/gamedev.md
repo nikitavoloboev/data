@@ -259,3 +259,4 @@
 - [Shaku](https://github.com/RonenNess/Shaku) - Pure JavaScript framework for web games development that emphasize simplicity, flexibility and freedom.
 - [Riot Games Tech Blog: Artificial Latency for Remote Competitors (2022)](https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616) ([HN](https://news.ycombinator.com/item?id=31412440))
 - [Tiled](https://www.mapeditor.org/) - Flexible level editor. ([Code](https://github.com/mapeditor/tiled))
+- [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/) ([HN](https://news.ycombinator.com/item?id=31450218))

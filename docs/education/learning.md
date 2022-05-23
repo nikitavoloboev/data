@@ -219,3 +219,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [My Favorite Liar (2008)](https://www.overcomingbias.com/2008/02/my-favorite-lia.html) ([HN](https://news.ycombinator.com/item?id=31445868))
 - [Mapedia](https://mapedia.org/) - Evolution of Sci-Map.org, is a new kind of learning platform at the crossroad between Wikipedia, Google Maps and Khan Academy.
 - [Wikipedia Helper Tools](https://wiki.devs.krd/) - Helper tools for contributing to Wikipedia. ([Code](https://github.com/DevelopersTree/wiki))
+- [Ask HN: How deep do you go? (2022)](https://news.ycombinator.com/item?id=31480764)

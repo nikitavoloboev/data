@@ -537,3 +537,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Ask HN: Why hasn't Git been adopted outside of software engineering? (2022)](https://news.ycombinator.com/item?id=31406550)
 - [GitArena](https://github.com/mellowagain/gitarena) - Software development platform with built-in vcs, issue tracking and code review.
 - [git-recover](https://github.com/ethomson/git-recover) -Git-recover: recover deleted files in your repository.
+- [Proper Use of Git Tags (2022)](https://blog.aloni.org/posts/proper-use-of-git-tags/) ([HN](https://news.ycombinator.com/item?id=31480306))

@@ -115,3 +115,4 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [How to Do Less (2022)](https://alexturek.com/2022-03-07-How-to-do-less/) ([HN](https://news.ycombinator.com/item?id=30642596))
 - [Ask HN: How do I develop focus? (2022)](https://news.ycombinator.com/item?id=30905620)
 - [Ask HN: How can I stop my inbox/wishlist/bookmarks/tabs/todos from growing? (2022)](https://news.ycombinator.com/item?id=31471127)
+- [When Everything Is Important but Nothing Is Getting Done](https://sharedphysics.com/everything-is-important/) ([HN](https://news.ycombinator.com/item?id=31481888))

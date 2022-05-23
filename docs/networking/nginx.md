@@ -68,7 +68,7 @@ title: Nginx
 - [ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression.
 - [Do svidaniya, Igor, and thank you for Nginx (2022)](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/) ([HN](https://news.ycombinator.com/item?id=29985871))
 - [Ultimate Nginx Bad Bot Blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
-- [Nginx Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface.
+- [NGINX Proxy Manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface. ([HN](https://news.ycombinator.com/item?id=31454581))
 - [Optimizations: Tuning Nginx for better RPS of an HTTP API (2019)](https://rohitgupta.xyz/blog/tuning-nginx-for-better-rps-of-an-http-api/)
 - [NGINX Server Cloud Native Buildpack](https://github.com/paketo-buildpacks/nginx) - Provides the NGINX binary distribution.
 - [Avoiding the Top Nginx Configuration Mistakes (2022)](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)

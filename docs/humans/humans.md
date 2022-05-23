@@ -47,6 +47,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI (2021)](https://www.youtube.com/watch?v=DxREm3s1scA)
 - [Robert Pattinson Breaks Down His Most Iconic Characters | GQ (2022)](https://www.youtube.com/watch?v=pz52gPH3ou4)
 - [Marc Andreessen Twitter Q&A (2022)](https://twitter.com/pmarca/status/1493447426878808066)
+- [Donald Knuth on work habits, problem solving, and happiness (2020)](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/) ([HN](https://news.ycombinator.com/item?id=31482116))
 
 ## Interesting bios
 
