@@ -21,6 +21,7 @@ title: Vue.js
 ## Notes
 
 - [Enable custom formatters in Chrome DevTools when debugging Vue 3. The experience is on another level.](https://twitter.com/haoqunjiang/status/1442056332463333387)
+- [vdom and reactive are not opposite paradigms. They are apples and oranges. Vue is vdom *and* reactive. You can take Vue's reactive parts and pair it with other rendering mechanisms, e.g. `lit-html` We can also theoretically compile Vue templates into Solid-like output, while still using Vue's own reactive system. Or still using the same reactive system, but just walk the DOM and make it reactive.](https://twitter.com/youyuxi/status/1528531307604545536)
 
 ## Links
 

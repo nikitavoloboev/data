@@ -53,6 +53,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [It is possible to commit no mistakes and still lose. That is not a weakness. That is life.](https://www.reddit.com/r/AskUK/comments/rk76wl/people_of_reddit_whats_the_hardest_life_lesson/)
 - [You only fail when you choose to give up, everything else is just the journey to success.](https://www.reddit.com/r/TheGirlSurvivalGuide/comments/stgmye/what_are_some_things_a_girl_should_do_during_her/)
 - [If your work doesn't feel like a game you're gonna get smoked by the people actually having fun.](https://twitter.com/Pavel_Asparagus/status/1522245904136347649)
+- [At critical moments, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something more important and ambitious than what they might have in mind.](https://twitter.com/jamescham/status/1528245556589383680)
 
 ## Links
 

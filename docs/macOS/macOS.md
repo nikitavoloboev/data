@@ -262,3 +262,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Moving a macOS window by clicking anywhere on it (2022)](https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/) ([HN](https://news.ycombinator.com/item?id=31273893))
 - [Tart](https://github.com/cirruslabs/tart) - macOS VMs on Apple Silicon to use in CI and other automations.
 - [Scripting OS X Blog](https://scriptingosx.com/) ([Twitter](https://twitter.com/scriptingosx))
+- [macOS tips and tricks](https://saurabhs.org/macos-tips)
