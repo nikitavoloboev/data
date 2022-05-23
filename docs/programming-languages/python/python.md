@@ -499,3 +499,4 @@ for i, _ in enumerate(nums):
 - [OpenAI Codex Python to C++ Code Generator](https://github.com/alxschwrz/codex_py2cpp) ([HN](https://news.ycombinator.com/item?id=31405976))
 - [PikaScript](https://github.com/pikasTech/pikascript) - Ultra-lightweight Python engine that can run in 4Kb of RAM.
 - [Compact objects in Python](https://antonz.org/compact-objects/)
+- [Useful Python Decorators for Data Scientists (2022)](https://bytepawn.com/python-decorators-for-data-scientists.html) ([HN](https://news.ycombinator.com/item?id=31476521))

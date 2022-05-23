@@ -779,3 +779,4 @@ if err != nil {
 - [Concurrency in Go resources](https://github.com/plagioriginal/concurrency-in-go)
 - [Calculating type sets is harder than you think (2022)](https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/) ([HN](https://news.ycombinator.com/item?id=31395161))
 - [Operator constraints in Go (2022)](https://blog.merovius.de/posts/2022-05-23-operator-constraints/) ([HN](https://news.ycombinator.com/item?id=31482256))
+- [Go Nulls and SQL (2022)](https://ente.io/blog/tech/go-nulls-and-sql/) ([HN](https://news.ycombinator.com/item?id=31467077))
