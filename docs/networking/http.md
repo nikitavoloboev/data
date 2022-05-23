@@ -8,11 +8,13 @@ title: HTTP
 
 [Status code summary](https://twitter.com/tlakomy/status/1528499152472129536) ([as cats](https://http.cat/)):
 
+```
 1xx: hold on
 2xx: here you go
 3xx: go away
 4xx: you fucked up
 5xx: I fucked up
+```
 
 ## Notes
 
