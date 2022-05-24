@@ -23,3 +23,4 @@
 - [Neural Guided Constraint Logic Programming for Program Synthesis](https://github.com/xuexue/neuralkanren)
 - [CLP(SMT)-miniKanren](https://github.com/namin/clpsmt-miniKanren) - Canonical miniKanren implementation, augmented with CLP(SMT).
 - [Owl](https://github.com/jdrprod/owl) - Tiny logic programming language highly inspired by Prolog.
+- [The joy of concurrent logic programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
