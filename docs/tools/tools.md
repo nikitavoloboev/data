@@ -143,7 +143,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Float](https://www.float.com/) - Resource Planning & Management Software.
 - [Imagur](https://github.com/rubikscraft/Imagur) - Easy to use, self hostable image sharing service.
 - [OG Impact](https://ogimpact.sh/) - Free API for generating social media images. ([Code](https://github.com/chrisvxd/og-impact))
-- [Sentry](https://sentry.io/) - Application Monitoring and Error Tracking Software. ([SDK Examples](https://github.com/getsentry/examples))
+- [Sentry](https://sentry.io/) - Application Monitoring and Error Tracking Software. ([SDK Examples](https://github.com/getsentry/examples)) ([CLI](https://github.com/getsentry/sentry-cli))
 - [SheetUI](https://sheetui.com/) - Turn Google Sheets into Web Pages. ([HN](https://news.ycombinator.com/item?id=23760846))
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [Flagsmith](https://flagsmith.com/) - Open Source Feature Flag & Remote Config Service. ([Code](https://github.com/Flagsmith/flagsmith)) ([GitHub](https://github.com/Flagsmith))
@@ -425,7 +425,6 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
 - [QAReplay](https://qareplay.com/) - Record steps to reproduce effortlessly.
-- [Mathigon](https://mathigon.org/) - Smartest textbook in the world.
 - [Versus](https://versus.com/en) - Discover more than 7 million comparisons. Smartphones, Cities, Apps, Universities and much more.
 - [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting.
 - [Sheetson](https://sheetson.com/) - Instantly turn any Google Sheet into RESTful API.

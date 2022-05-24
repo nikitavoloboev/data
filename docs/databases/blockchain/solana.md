@@ -271,3 +271,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Jet V2](https://github.com/jet-lab/jet-v2) - Implementation of the Jet Protocol V2 programs for Solana.
 - [Gem Farm](https://github.com/gemworks/gem-farm) - Configurable staking for NFT Projects on Solana. ([Web](https://www.gemfarm.gg/))
 - [Consider increasing fees for writable accounts](https://github.com/solana-labs/solana/issues/21883) ([Tweet](https://twitter.com/aeyakovenko/status/1529088076810625025))
+- [Build your own store with Solana Pay](https://buildspace.so/p/build-solana-pay-store) ([Code](https://github.com/buildspace/solana-pay-starter))

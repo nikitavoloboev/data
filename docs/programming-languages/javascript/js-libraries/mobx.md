@@ -39,3 +39,4 @@ title: MobX
 - [mobx-vue-lite](https://github.com/mobxjs/mobx-vue-lite) - Lightweight Vue 3 bindings for MobX based on Composition API.
 - [mobx-async-toolkit](https://github.com/alan2207/mobx-async-toolkit) - Toolkit for handling async operations in MobX stores.
 - [Understanding MobX](https://github.com/jeromepl/understanding-mobx) - Minimalist implementation of MobX to better understand its inner workings.
+- [Intro to MobX-State-Tree and MobX-React (2022)](https://www.loom.com/share/9e3afe0547824e42bada06191e891ae1)

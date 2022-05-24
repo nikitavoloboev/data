@@ -214,4 +214,4 @@ title: SwiftUI
 - [Don't use escaping closures in SwiftUI (2022)](https://rensbr.eu/blog/swiftui-escaping-closures/)
 - [Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps)
 - [The SwiftUI Series](https://www.swiftuiseries.com/) - Week-long event to learn, compete and socialise in the world of SwiftUI. ([Twitter](https://twitter.com/swiftuiseries))
-- [SwiftUI Workarounds](https://github.com/SwiftUI-Series/workarounds)
+- [SwiftUI Workarounds](https://github.com/SwiftUI-Series/workarounds) ([Video](https://www.youtube.com/watch?v=cheFeVPwPlc))

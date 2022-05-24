@@ -28,7 +28,7 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
 - [AWS practical guide](https://github.com/open-guides/og-aws)
 - [AWS CDK (Cloud Development Kit)](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code. ([Web](https://aws.amazon.com/cdk/)) ([AWS CDK Examples](https://github.com/aws-samples/aws-cdk-examples))
-- [Serverless Stack Toolkit (SST)](https://github.com/serverless-stack/serverless-stack) - Extension of AWS CDK that allows you to build serverless apps. ([HN](https://news.ycombinator.com/item?id=26315585))
+- [Serverless Stack Toolkit (SST)](https://github.com/serverless-stack/serverless-stack) - Extension of AWS CDK that allows you to build serverless apps. ([HN](https://news.ycombinator.com/item?id=26315585)) ([Web](https://serverless-stack.com/)) ([Ideal Stack Preview](https://github.com/serverless-stack/ideal-stack-preview))
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
@@ -350,4 +350,5 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Code generator for AWS Controllers for Kubernetes](https://github.com/aws-controllers-k8s/code-generator)
 - [AWS Serverless Ecommerce Platform](https://github.com/aws-samples/aws-serverless-ecommerce-platform)
 - [Sceptre](https://github.com/Sceptre/sceptre) - Tool to drive AWS CloudFormation.
-- [libaws](https://github.com/nathants/libaws) - Simpler infrastructure as code specification.
+- [AWS Should Be Easy](https://github.com/nathants/libaws) - Simpler infrastructure as code specification. ([HN](https://news.ycombinator.com/item?id=31478189))
+- [Amazon Redshift re-invented (2022)](https://www.amazon.science/publications/amazon-redshift-re-invented) ([HN](https://news.ycombinator.com/item?id=31448846))

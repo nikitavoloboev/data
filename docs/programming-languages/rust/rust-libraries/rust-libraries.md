@@ -370,6 +370,7 @@
 - [AkariRender](https://github.com/shiinamiyuki/akari_render) - High Performance CPU/GPU Physically Based Renderer.
 - [raylib-rs](https://github.com/deltaphc/raylib-rs) - Rust bindings for raylib.
 - [Agui](https://github.com/Stumblinbear/agui) - Advanced, reactive UI library for Rust.
+- [four](https://github.com/mwalczyk/four) - 4-dimensional renderer.
 
 ## Games
 
@@ -1883,6 +1884,7 @@
 - [iso8601](https://github.com/badboy/iso8601) - Parsing ISO8601 dates using nom.
 - [arboard](https://github.com/1Password/arboard) - Cross-platform library for interacting with the clipboard.
 - [midir](https://github.com/Boddlnagg/midir) - Cross-platform, real time MIDI processing in Rust.
+- [os_info](https://github.com/stanislav-tkach/os_info) - Rust library to detect the operating system type.
 
 ## Cargo Plugins
 

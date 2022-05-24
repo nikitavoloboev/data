@@ -120,3 +120,4 @@ title: Apache Kafka
 - [Burrow](https://github.com/linkedin/Burrow) - Kafka Consumer Lag Checking.
 - [kcat](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka.
 - [Redpanda Data - YouTube](https://www.youtube.com/c/RedpandaData/videos)
+- [KafkaSSE](https://github.com/wikimedia/KafkaSSE) - Kafka Consumer to HTTP SSE/EventSource.

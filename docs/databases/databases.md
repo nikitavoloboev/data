@@ -6,6 +6,8 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 
 [Metabase](https://github.com/metabase/metabase) is a great SQL queries visualizer. [Database access optimization doc](https://docs.djangoproject.com/en/4.0/topics/db/optimization/) is a good read.
 
+[Ditto](https://www.ditto.live/) & [Replicache](https://replicache.dev/) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools.
+
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
@@ -613,3 +615,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Persistence Programming (2022)](https://queue.acm.org/detail.cfm?id=3526210&doi=10.1145/3526210)
 - [Docker DB Backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple databases types on a scheduled basis with many customizable options.
 - [Databases = Frameworks for Distributed Systems (2022)](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31459745))
+- [Ditto](https://www.ditto.live/) - Sync without Internet. ([Twitter](https://twitter.com/dittolive))

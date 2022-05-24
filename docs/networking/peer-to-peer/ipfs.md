@@ -78,7 +78,7 @@ I especially like the distinction of distributing content over distributing link
 - [rainbow](https://github.com/ipfs/rainbow) - Standalone IPFS gateway.
 - [IPFS-Nucleus](https://github.com/Peergos/ipfs-nucleus) - Minimal IPFS replacement for P2P IPLD apps.
 - [IPFS Cluster](https://github.com/ipfs/ipfs-cluster) - Automated data availability and redundancy on IPFS. ([Web](https://cluster.ipfs.io/))
-- [NFT Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. ([Video](https://www.youtube.com/watch?v=o_yVYft-7z4))
+- [NFT Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin. ([Video](https://www.youtube.com/watch?v=o_yVYft-7z4)) ([Code](https://github.com/nftstorage/nft.storage))
 - [IPFS backed storage implementation for docker/OCI registry](https://github.com/yuval-k/oci-registry-p2p)
 - [How IPFS is broken](https://fiatjaf.com/d5031e5b.html) ([HN](https://news.ycombinator.com/item?id=29656139))
 - [ipfs-ds-postgres](https://github.com/alanshaw/ipfs-ds-postgres) - PostgreSQL datastore for IPFS.
@@ -109,3 +109,4 @@ I especially like the distinction of distributing content over distributing link
 - [S4](https://github.com/anthonybudd/S4) - 100% compatible AWS S3 storage, accessed through Tor and distributed using IPFS.
 - [IPFS Gateway Monitor](https://github.com/cloudflare/ipfs-gateway-monitor) - Detect the errors and measure the response time of IPFS gateways.
 - [IPFS HTTP client in Rust](https://github.com/ferristseng/rust-ipfs-api)
+- [How We Put IPFS in Brave (2022)](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/) ([HN](https://news.ycombinator.com/item?id=31494585))

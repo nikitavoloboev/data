@@ -255,3 +255,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [deno_emit](https://github.com/denoland/deno_emit) - Transpile and bundle JavaScript and TypeScript in Deno and Deno Deploy.
 - [deno_numpy](https://github.com/tjosepo/deno_numpy) - NumPy for Deno.
 - [Danet](https://github.com/Savory/Danet) - Deno web framework.
+- [dvm](https://github.com/justjavac/dvm) - Deno Version Manager.

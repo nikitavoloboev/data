@@ -201,3 +201,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Tiny SQLite3](https://github.com/fabiospampinato/tiny-sqlite3) - Tiny cross-platform client for SQLite3, with the official precompiled binaries as the only third-party dependencies.
 - [Temporary tables in SQLite (2022)](https://antonz.org/temp-tables/)
 - [Using SQLite for multi-user multi-write app effectively](https://news.ycombinator.com/item?id=31473373)
+- [Custom distributed data warehouse using compressed SQLite DB files in S3 that were queried using Lambda functions orchestrated by PostgreSQL running a custom foreign data wrapper](https://news.ycombinator.com/item?id=31487706) ([Tweet](https://twitter.com/simonw/status/1529134311806410752))

@@ -92,3 +92,4 @@ title: TLS
 - [snid](https://github.com/AGWA/snid) - Lightweight proxy server that forwards TLS connections based on the server name indication (SNI) hostname.
 - [Ghostunnel](https://github.com/ghostunnel/ghostunnel) - Simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks (2022)](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf) ([HN](https://news.ycombinator.com/item?id=31452286))
+- [Extracting TLS keys from an unwilling application (2020)](http://m1el.github.io/oculus-tls-extract/)

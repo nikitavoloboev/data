@@ -59,6 +59,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Frugal](https://github.com/PaulBlanche/frugal) - Web framework with resource sparing in mind. ([Web](https://frugal.deno.dev/))
 - [ApiDOM](https://github.com/swagger-api/apidom) - Semantic parser for API specifications.
 - [ChiselStrikeai](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications.
+- [Boost.ts](https://github.com/mathigon/boost.js) - DOM, events and animations library for modern browsers.
 
 ## GraphQL
 
@@ -83,6 +84,10 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 ## Animation
 
 - [Motion Signals](https://github.com/tanvesh01/motion-signals) - Wrapper over Motion One.
+
+## Math
+
+- [Fermat.ts](https://github.com/mathigon/fermat.js) - Mathematics and statistics library for TypeScript.
 
 ## CLI
 
@@ -516,6 +521,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypePipe](https://github.com/afresquet/typepipe) - Library to create pipelines with contexts and strong type checking.
 - [AutoAnimate](https://github.com/formkit/auto-animate) - Zero-config, drop-in animation utility that adds smooth transitions to your web app.
 - [AMQP-client.js](https://github.com/cloudamqp/amqp-client.js) - AMQP 0-9-1 TypeScript client both for Node.js and browsers (using WebSocket).
+- [Hilbert.ts](https://github.com/mathigon/hilbert.js) - TypeScript library for expression parsing, simplification, and MathML rendering.
 
 ## Links
 

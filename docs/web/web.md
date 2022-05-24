@@ -421,3 +421,4 @@
 - [Favorite OSS web templates (2022)](https://twitter.com/leeerob/status/1528514838380658688)
 - [The balance has shifted away from SPAs (2022)](https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/) ([HN](https://news.ycombinator.com/item?id=31459316)) ([Lobsters](https://lobste.rs/s/ygmcdv/balance_has_shifted_away_from_spas))
 - [iProxy](https://github.com/xcodebuild/iProxy) - Cross platform Web debugging proxy.
+- [Local-first is going to be the next wave of web technology](https://twitter.com/maccaw/status/1528848433968209923)

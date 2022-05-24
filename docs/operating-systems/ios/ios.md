@@ -25,6 +25,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [mChat](https://github.com/realpaliy/mChat) - Real-time messaging app written in Swift for iOS devices.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
 - [ProtonMail](https://github.com/ProtonMail/ios-mail)
+- [Lyrica](https://github.com/veritem/lyrica) - iOS Lyrics Search.
 - [Sift](https://github.com/agrinman/sift-ios) - Uncover network traffic in real-time for every app on your phone.
 - [Private Internet Access](https://github.com/pia-foss/vpn-ios)
 - [Bank](https://github.com/aydenp/Bank) - Simple iOS app for viewing your bank account balance and transactions.

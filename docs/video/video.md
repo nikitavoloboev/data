@@ -361,3 +361,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Hawkeye](https://github.com/cbsinteractive/hawkeye) - Detect images in a video stream and execute automated actions.
 - [HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/) ([HN](https://news.ycombinator.com/item?id=31483548))
 - [videoconverter](https://github.com/Sciencentistguy/videoconverter) - Program to convert video files to the format and codec that I use for my Plex server.
+- [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store Files as YouTube Videos. ([HN](https://news.ycombinator.com/item?id=31495049))

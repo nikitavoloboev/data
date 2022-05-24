@@ -58,3 +58,4 @@ title: Fastify
 - [Fastify Swagger](https://github.com/fastify/fastify-swagger) - Swagger documentation generator for Fastify.
 - [Fastify SSR Workshop](https://github.com/galvez/the-fastify-ssr-workshop)
 - [The Thing About Fastify (2022)](https://hire.jonasgalvez.com.br/2022/may/02/the-thing-about-fastify/)
+- [Fastify DX](https://github.com/fastify/fastify-dx) - Full Stack Framework based on Fastify and Vite.

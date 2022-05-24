@@ -500,3 +500,4 @@ for i, _ in enumerate(nums):
 - [PikaScript](https://github.com/pikasTech/pikascript) - Ultra-lightweight Python engine that can run in 4Kb of RAM.
 - [Compact objects in Python](https://antonz.org/compact-objects/)
 - [Useful Python Decorators for Data Scientists (2022)](https://bytepawn.com/python-decorators-for-data-scientists.html) ([HN](https://news.ycombinator.com/item?id=31476521))
+- [Python Security](https://python-security.readthedocs.io/) ([Code](https://github.com/vstinner/python-security))

@@ -328,6 +328,7 @@
 - [Registry](https://github.com/etorreborre/registry) - Components as records of functions for Haskell.
 - [SuperRecord](https://github.com/agrafix/superrecord) - Supercharged anonymous records.
 - [free-accelerate](https://github.com/fizruk/free-accelerate) - Data parallel representation for free monads.
+- [mason](https://github.com/fumieval/mason) - Builder & IO library.
 
 ## Notes
 
