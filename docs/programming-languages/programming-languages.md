@@ -373,3 +373,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [MLscript](https://github.com/hkust-taco/mlscript) - Principal Type Inference for Object-Oriented Programming in a Boolean Algebra of Types.
 - [Can you have too many programming language features? (2022)](https://www.thecodedmessage.com/posts/2022-05-11-programming-multiparadigm/)
 - [Programming Languages and Theory of Computation](https://diku-dk.github.io/pltc/)
+- [Modern programming languages require generics (2022)](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics) ([HN](https://news.ycombinator.com/item?id=31492180))

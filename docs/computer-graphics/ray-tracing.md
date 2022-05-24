@@ -111,3 +111,4 @@ title: Ray tracing
 - [gatling](https://github.com/pablode/gatling) - Hydra-enabled GPU path tracer that supports MaterialX.
 - [Ashes](https://github.com/but0n/Ashes) - WebGL2.0 3D Engine - RayTracing.
 - [Ray tracing, a 4 year retrospective (2022)](https://interplayoflight.wordpress.com/2022/04/09/raytracing-a-4-year-retrospective/)
+- [Ignis](https://github.com/PearCoding/Ignis) - Experimental ray tracer for the RENEGADE project implemented with the AnyDSL compiler framework for CPU and GPU. ([Docs](https://pearcoding.github.io/Ignis/))

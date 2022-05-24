@@ -41,3 +41,4 @@
 - [Botmaker](https://botmaker.com/en/) - Conversations to Grow Your Business. ([Dev Docs](https://botmaker.com/en/developers))
 - [BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
 - [Bruxism](https://github.com/iopred/bruxism) - Chat bot for YouTube, Discord and IRC.
+- [SSR but Just for Bots (2022)](https://egoist.proselog.com/ssr-but-just-for-bots)

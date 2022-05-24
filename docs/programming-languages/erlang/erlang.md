@@ -158,3 +158,4 @@ title: Erlang
 - [Is Erlang an albatross to Elixir adoption? (2022)](https://news.ycombinator.com/item?id=31314274)
 - [nuntius](https://github.com/2Latinos/nuntius) - Erlang/OTP library to mock registered processes.
 - [Erlang/OTP 25.0 Release (2022)](https://www.erlang.org/news/157) ([HN](https://news.ycombinator.com/item?id=31421961))
+- [Ironclad](https://github.com/kvakvs/Ironclad) - Erlang type checker.

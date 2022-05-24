@@ -1,6 +1,6 @@
 # iPad
 
-Go over how I use my iPad [here](https://github.com/nikitavoloboev/my-ios#ipad).
+Go over how I use my iPad [here](https://github.com/nikitavoloboev/my-ios#ipad). [Muse](https://museapp.com/) is a nicely designed app.
 
 ## Links
 

@@ -8,6 +8,8 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 [MJML](https://mjml.io/), [Maizzle](https://maizzle.com/) & [Brail](https://github.com/sinclairnick/brail) are nice for writing out email templates. [Postal](https://github.com/postalserver/postal) is great too.
 
+I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/status/1528861135717683201) is an example of a good one.
+
 ## Notes
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)

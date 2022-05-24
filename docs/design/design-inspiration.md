@@ -181,6 +181,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Majid](https://swiftwithmajid.com/) ([Code](https://github.com/mecid/mecid.github.io))
 - [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)
+- [Prisma Blog](https://www.prisma.io/blog/)
 - [Auxon](https://blog.auxon.io/)
 - [Seph](https://josephg.com/blog/)
 - [defn.io](https://defn.io/)

@@ -603,6 +603,7 @@
 - [LazyModules](https://github.com/johnnychen94/LazyModules.jl) - Provides package developers an alternative option to delay package loading until used.
 - [OffsetArrays.jl](https://github.com/JuliaArrays/OffsetArrays.jl) - Fortran-like arrays with arbitrary, zero or negative starting indices.
 - [Adapt](https://github.com/JuliaGPU/Adapt.jl) - Allows you to "convert" wrapper types like Adjoint to be GPU compatible.
+- [ProfileCanvas](https://github.com/pfitzseb/ProfileCanvas.jl) - Exposes the HTML canvas based profile viewer UI used by the Julia extension for VS Code in the REPL and environments that can display HTML.
 
 ## Links
 

@@ -315,6 +315,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [John Wingfield](https://www.instagram.com/johnwingfield/)
 - [Maley](https://www.instagram.com/maleyphoto/)
 - [Daniel Casson](https://www.instagram.com/dpc_photography_/)
+- [Sopha](https://www.instagram.com/sophie.nva/) ([Web](https://sophianasyrova.com/))
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
 - [Craig Mod](https://www.instagram.com/craigmod/)
 - [Anna Försterling](https://www.instagram.com/anna.foersterling/)

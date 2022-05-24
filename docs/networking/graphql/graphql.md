@@ -331,3 +331,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQL Auto Federate](https://github.com/nearform/graphql-auto-federate) - Automatically federate a GraphQL service.
 - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - Scripting engine to interact with a graphql endpoint for pentesting purposes.
 - [GraphQL Middleware to add X-Ray tracing for resolvers](https://github.com/lifeomic/graphql-resolvers-xray-tracing)
+- [Proposal: GraphQL Composite Schemas Working Group](https://github.com/graphql/graphql-wg/pull/977)

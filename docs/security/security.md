@@ -84,7 +84,7 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) ([Code](https://github.com/mozilla/ssl-config-generator))
 - [OWASP Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery.
 - [tl;dr sec Newsletter](https://tldrsec.com/)
-- [Flipper Zero](https://flipperzero.one/) - Tamagochi for Hackers. ([HN](https://news.ycombinator.com/item?id=23996733)) ([HN](https://news.ycombinator.com/item?id=26405919)) ([Flipper Android App](https://github.com/Flipper-Zero/Flipper-Android-App)) ([Firmware](https://github.com/flipperdevices/flipperzero-firmware)) ([Awesome](https://github.com/djsime1/awesome-flipperzero))
+- [Flipper Zero](https://flipperzero.one/) - Tamagochi for Hackers. ([HN](https://news.ycombinator.com/item?id=23996733)) ([HN](https://news.ycombinator.com/item?id=26405919)) ([Flipper Android App](https://github.com/Flipper-Zero/Flipper-Android-App)) ([Firmware](https://github.com/flipperdevices/flipperzero-firmware)) ([Awesome](https://github.com/djsime1/awesome-flipperzero)) ([Twitter](https://twitter.com/flipper_zero)) ([Read and replay hotel key cards](https://twitter.com/runasand/status/1529047968875167744))
 - [Security@ Conference](https://www.hackerone.com/security-at)
 - [I'm Open Sourcing the Have I Been Pwned Code Base (2020)](https://www.troyhunt.com/im-open-sourcing-the-have-i-been-pwned-code-base/) ([HN](https://news.ycombinator.com/item?id=24079682))
 - [Security Research from the Microsoft Security Response Center](https://github.com/microsoft/MSRC-Security-Research)

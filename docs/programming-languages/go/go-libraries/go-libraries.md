@@ -159,6 +159,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Fizz](https://github.com/wI2L/fizz) - Gin wrapper with OpenAPI 3 spec generation.
 - [Gin Framework Metrics Middleware](https://github.com/kylesliu/gin_exporter)
 - [go-fastapi](https://github.com/sashabaranov/go-fastapi) - Library to quickly build APIs.
+- [Gin Swagger](https://github.com/mikkeloscar/gin-swagger) - DRY templates for go-swagger.
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [chizap](https://github.com/moul/chizap) - Simple zap logging middleware for go-chi.
 - [Bunrouter](https://github.com/uptrace/bunrouter) - Fast and flexible HTTP router for Go. ([Web](https://bunrouter.uptrace.dev/))

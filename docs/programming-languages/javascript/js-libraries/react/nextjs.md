@@ -369,3 +369,5 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Generate Open Graph images for your static Next.js site (2020)](https://phiilu.com/generate-open-graph-images-for-your-static-next-js-site) ([Tweet](https://twitter.com/mattgperry/status/1515651942940303361))
 - [Picking the right rendering strategy in NextJS](https://twitter.com/housecor/status/1521100361213386757)
 - [Building a Mini Next.js (2022)](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
+- [Building a Multi-Tenant Web App with Next.js (2022)](https://egoist.proselog.com/multi-tenant-nextjs-app)
+- [Next.js Layouts](https://nextjs.org/blog/layouts-rfc) - Nested routes and layouts, designed for Server Components. ([HN](https://news.ycombinator.com/item?id=31485073))

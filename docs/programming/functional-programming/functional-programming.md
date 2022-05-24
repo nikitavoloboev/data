@@ -176,7 +176,7 @@
 - [Selective applicative functors](https://github.com/snowleopard/selective) - Abstraction between applicative functors and monads.
 - [Utrecht Advanced Functional Programming Summer School](https://uu-afp.github.io/)
 - [Functional Programming in Bologna](https://twitter.com/fpinbo)
-- [The Dao of Functional Programming (2022)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) ([Code](https://github.com/BartoszMilewski/DaoFP))
+- [The Dao of Functional Programming (2022)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) ([Code](https://github.com/BartoszMilewski/DaoFP)) ([HN](https://news.ycombinator.com/item?id=31466441))
 
 ## Images
 

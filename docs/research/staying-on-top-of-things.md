@@ -181,6 +181,7 @@ And these Discord servers:
 - [Truthout](https://truthout.org/) - Fearless, Independent News & Analysis.
 - [Reasons to be Cheerful](https://reasonstobecheerful.world/)
 - [openDemocracy](https://www.opendemocracy.net/en/odr/) - Independent media platform covering world affairs, ideas and culture. ([Twitter](https://twitter.com/opendemocracy))
+- [Offscreen Magazine](https://www.offscreenmag.com/) - Independent print magazine that explores critical perspectives on technology through earnest conversations.
 
 ### Other
 

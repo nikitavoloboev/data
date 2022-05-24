@@ -8,7 +8,7 @@ title: SolidJS
 
 [Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos). [Solid Start](https://github.com/solidjs/solid-start) is great starter template. [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) is great alternative to [React Query](https://react-query.tanstack.com/).
 
-[Hope UI](https://hope-ui.com/) is nice component library.
+[Hope UI](https://hope-ui.com/) is nice component library. [Motion One for Solid](https://motion.dev/solid/quick-start) is great for animations.
 
 I am trying to use SolidJS for all web apps and static sites I build now.
 
@@ -80,3 +80,5 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 - [solid-register](https://github.com/atk/solid-register) - Solid.js execution environment for Node.js. Allows running and testing Solid.js browser code in Node.js.
 - [solid-marked](https://github.com/LXSMNSYC/solid-marked) - MDX/Markdown compiler for SolidJS.
 - [Solid Native](https://github.com/MrFoxPro/solid-nativescript-experiments) - NativeScript bindings for Solid.JS.
+- [Solid Templates (using Vite)](https://github.com/solidjs/templates)
+- [Solid Heroicons](https://github.com/amoutonbrady/solid-heroicons)

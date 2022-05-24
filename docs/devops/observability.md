@@ -47,3 +47,4 @@ title: Observability
 - [Observability is not only for SREs](https://lightstep.com/blog/observability-mythbusters-observability-not-is-only-for-sres) ([HN](https://news.ycombinator.com/item?id=31387035))
 - [Tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement.
 - [How We Built Alert Rules, Runbooks, and Dashboards to Observe Our Observability Tool (2022)](https://www.timescale.com/blog/how-we-built-alert-rules-runbooks-and-dashboards-to-observe-our-observability-tool/)
+- [Duo](https://github.com/duo-rs/duo) - Easy-to-use observability solution that provides both logging and tracing capabilities for Rust applications.

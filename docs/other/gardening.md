@@ -26,3 +26,4 @@
 - [How I grew my avocado plant from seed (2022)](https://permapeople.org/blog/2022/03/16/grow-avocado-from-seed.html) ([HN](https://news.ycombinator.com/item?id=30704388))
 - [Permapeople](https://permapeople.org/) - Find plants, trade seeds, plan crops, grow food, feed community.
 - [How to grow ergot](https://www.youtube.com/watch?v=BrKfF-G_Cug)
+- [Favorite trees](https://twitter.com/Tjdriii/status/1528788277511213057)

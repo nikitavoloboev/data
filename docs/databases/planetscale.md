@@ -21,3 +21,5 @@ title: Planetscale
 - [Instant GraphQL API for PlanetScale with StepZen (2022)](https://stepzen.com/blog/instant-graphql-api-planetscale-stepzen)
 - [The operational relational schema paradigm (2022)](https://planetscale.com/blog/the-operational-relational-schema-paradigm)
 - [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/) ([HN](https://news.ycombinator.com/item?id=31481175))
+- [Collection of PlanetScale connection examples](https://github.com/planetscale/connection-examples)
+- [PlanetScale Portals: Read-only regions (2022)](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions)

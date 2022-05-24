@@ -138,3 +138,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Nix configuration for building LaTeX documents](https://github.com/dnadales/nix-latex-template)
 - [Alternatives to TikZ for making diagrams](https://twitter.com/heidiann360/status/1524667888111656960)
 - [HEVEA](https://github.com/maranget/hevea) - Fast LaTeX to HTML translator.
+- [I hate LaTeX. I love LaTeX.](https://commutative.xyz/~miguelmurca/blog/x/illihl.html) ([HN](https://news.ycombinator.com/item?id=31490136))

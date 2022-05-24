@@ -798,3 +798,6 @@ title: Rust
 - [Custom Allocators in Rust (2022)](https://not-matthias.github.io/posts/rust-kernel-adventures/)
 - [Typed Type Exercise in Rust](https://github.com/andylokandy/typed-type-exercise-in-rust) - Build database expression type checker and vectorized runtime executor in type-safe Rust.
 - [What are legitimate problems with Rust? (2022)](https://www.reddit.com/r/rust/comments/uum5re/what_are_legitimate_problems_with_rust/)
+- [Crash reporting in Rust (2022)](https://jake-shadle.github.io/crash-reporting/) ([Tweet](https://twitter.com/Ca1ne/status/1528768858248585216))
+- [Fixing Memory Leaks in Rust (2022)](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
+- [MiniRust](https://github.com/RalfJung/minirust) - Cornerstone of my vision for a normative specification of Rust semantics.

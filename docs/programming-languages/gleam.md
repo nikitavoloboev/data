@@ -36,3 +36,4 @@
 - [mist](https://github.com/rawhat/mist) - Nice, basic gleam web server.
 - [Introducing the Gleam language server (2022)](https://gleam.run/news/v0.21-introducing-the-gleam-language-server/)
 - [bliss](https://github.com/sporto/bliss) - Experiment on making a micro web framework for Gleam.
+- [Hackney](https://github.com/gleam-lang/hackney) - Make requests to HTTP servers with Hackney.

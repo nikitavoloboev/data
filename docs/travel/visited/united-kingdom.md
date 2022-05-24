@@ -52,3 +52,4 @@
 - [Find and update company information - GOV.UK](https://find-and-update.company-information.service.gov.uk/)
 - [Getting a talent visa in the UK for mortals (2022)](https://blog.goncharov.page/getting-a-talent-visa-in-the-uk-for-mortals)
 - [Aerial Photo Explorer](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/) - Over 400,000 aerial photos in Historic England's digitized collections.
+- [London Reconnections](https://twitter.com/lonrec) - Transport analysis for London and occasionally beyond. ([Web](https://www.londonreconnections.com/))

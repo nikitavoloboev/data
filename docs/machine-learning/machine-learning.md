@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community. [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) & [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU) are great.
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community. [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) & [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU) are great. [MLU-Explain](https://mlu-explain.github.io/) is a [great ML visual explainer](https://news.ycombinator.com/item?id=31455919).
 
 ## Notes
 
@@ -811,5 +811,6 @@
 - [Scaling-up Diverse Orthogonal Convolutional Networks with a Paraunitary Framework (2021)](https://arxiv.org/abs/2106.09121)
 - [Data Distributional Properties Drive Emergent Few-Shot Learning in Transformers (2022)](https://arxiv.org/abs/2205.05055) ([Tweet](https://twitter.com/scychan_brains/status/1526514761579614209))
 - [Machine Learning Specialization - DeepLearning.AI](https://www.deeplearning.ai/program/machine-learning-specialization/) ([HN](https://news.ycombinator.com/item?id=31435801))
-- [MLU-Explain](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts.
+- [MLU-Explain](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts. ([HN](https://news.ycombinator.com/item?id=31455919))
 - [Planning with Diffusion for Flexible Behavior Synthesis (2022)](https://diffusion-planning.github.io/) ([Code](https://github.com/jannerm/diffuser))
+- [Solutions to Recommender Systems competitions](https://github.com/NVIDIA-Merlin/competitions)

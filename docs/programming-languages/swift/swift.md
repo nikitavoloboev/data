@@ -296,3 +296,4 @@ title: Swift
 - [The Golden Rules of weak self (2022)](https://chrisdownie.net/software/2022/04/10/the-golden-rules-of-weak-self/)
 - [Swift Cloud](https://swift.cloud/) - Fastest way to build and deploy server side Swift applications. ([GitHub](https://github.com/swift-cloud))
 - [ARC in Swift: Basics and beyond - WWDC21](https://developer.apple.com/videos/play/wwdc2021/10216/)
+- [plSwift](https://plswift.com/) - Swift Conference in Central Europe. ([Twitter](https://twitter.com/swift_pl))

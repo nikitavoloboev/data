@@ -763,3 +763,5 @@
 - [Unsupervised Semantic Segmentation by Distilling Feature Correspondences (2022)](https://arxiv.org/abs/2203.08414) ([Code](https://github.com/mhamilton723/STEGO))
 - [RecursiveMix: Mixed Learning with History (2022)](https://arxiv.org/abs/2203.06844) ([Code](https://github.com/implus/RecursiveMix-pytorch))
 - [MMDetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
+- [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/) ([Tweet](https://twitter.com/JeffDean/status/1528951937948741632)) ([Code](https://github.com/lucidrains/imagen-pytorch)) ([HN](https://news.ycombinator.com/item?id=31484562))
+- [An End-to-End Transformer Model for 3D Object Detection (2021)](https://arxiv.org/abs/2109.08141) ([Code](https://github.com/facebookresearch/3detr))

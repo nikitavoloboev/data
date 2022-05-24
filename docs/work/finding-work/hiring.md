@@ -18,6 +18,7 @@
 - [Anthropic - Come work with us](https://www.anthropic.com/#careers) ([Tweet](https://twitter.com/andy_l_jones/status/1521992757803323393))
 - [Linear - In Search of Magic](https://linear.app/readme)
 - [Careers at Notion](https://www.notion.so/careers)
+- [Careers - Calibre](https://calibreapp.com/careers) ([Tweet](https://twitter.com/fox/status/1528987618465067008))
 - [Primer - Founding Front End Engineer](https://www.notion.so/Founding-Frontend-Engineer-San-Francisco-783c2072b9c047a88cb884babb47ef04)
 - [Daily.co - WebRTC Video Systems Engineer](https://www.notion.so/WebRTC-Video-Systems-Engineer-288dbcdb38504286b32148d0b55f6e94)
 - [Careers at Figma](https://www.figma.com/careers/) ([Twitter](https://twitter.com/rsms/status/1274057553266139137))

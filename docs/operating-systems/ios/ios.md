@@ -472,3 +472,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Best solutions to sync data across Apple devices (2022)](https://twitter.com/migueldeicaza/status/1526299076408508416)
 - [Open Source for iOS developers - Ivan Vorobei](https://opensource.ivanvorobei.io/)
 - [fishhook](https://github.com/facebook/fishhook) - Library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
+- [Apple PLSQL viewer](https://github.com/saagarjha/EffectivePower) ([Tweet](https://twitter.com/_saagarjha/status/1528937319171887104))

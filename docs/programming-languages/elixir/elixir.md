@@ -159,3 +159,4 @@
 - [Recognize digits using ML in Elixir (2022)](https://fly.io/phoenix-files/recognize-digits-using-ml-in-elixir/)
 - [A Guide to Event-Driven Architecture in Elixir (2022)](https://blog.appsignal.com/2022/05/10/a-guide-to-event-driven-architecture-in-elixir.html)
 - [DockYard Academy Elixir Guide](https://github.com/DockYard-Academy/beta_curriculum)
+- [Livebook for Elixir: Just What the Docs Ordered (2022)](https://blog.appsignal.com/2022/05/24/livebook-for-elixir-just-what-the-docs-ordered.html)

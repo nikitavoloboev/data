@@ -92,3 +92,4 @@ And here are Chrome extensions I use:
 - [Successful chrome extension SaaS (2022)](https://twitter.com/coreyhainesco/status/1506269475078766596)
 - [Form troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - Chrome extension to find and fix common form problems.
 - [Nice Chrome extension templates with esbuild (2022)](https://twitter.com/tylerangert/status/1527003106185207808)
+- [Jiffy Reader](https://www.jiffyreader.com/) - Chrome Extension for Bionic Reading on ANY website. ([Code](https://github.com/ansh/bionic-reading))

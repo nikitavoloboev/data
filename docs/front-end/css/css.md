@@ -4,7 +4,7 @@ title: CSS
 
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/), [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) & [Defensive CSS](https://ishadeed.com/article/defensive-css/) are good reads.
+[Magic of CSS](https://adamschwartz.co/magic-of-css/) & [CSS for JS Developers](https://courses.joshwcomeau.com/css-for-js) are nice courses. [Every Layout](https://every-layout.dev/) is neat overview of most common layouts. [Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/), [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) & [Defensive CSS](https://ishadeed.com/article/defensive-css/) are good reads. [Ahmad Shadeed](https://ishadeed.com/)'s blog is incredible.
 
 Often use [these CSS loaders](https://uiball.com/loaders/). [Open Props](https://open-props.style/) are amazing. Trying out new features now from recent [State of CSS](https://www.youtube.com/watch?v=Xy9ZXRRgpLk).
 
@@ -506,3 +506,4 @@ all: unset
 - [The Surprising Truth About Pixels and Accessibility: should I use pixels or rems?](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/) ([Tweet](https://twitter.com/JoshWComeau/status/1526548095311302662))
 - [First Look At The CSS object-view-box Property (2022)](https://ishadeed.com/article/css-object-view-box/) ([Tweet](https://twitter.com/shadeed9/status/1527578257591357441?s=20&t=9O47LeqiezvlU4ZerRW67Q))
 - [Spacing in CSS (2020)](https://ishadeed.com/article/spacing-in-css/)
+- [What new property / value / CSS superpower are you most excited about? (2022)](https://twitter.com/jensimmons/status/1514712651284295685)

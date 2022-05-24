@@ -1023,3 +1023,4 @@
 - [Boring Python: dependency management (2022)](https://www.b-list.org/weblog/2022/may/13/boring-python-dependencies/) ([Lobsters](https://lobste.rs/s/twf7p3/boring_python_dependency_management))
 - [mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf) - Generate mypy stub files from protobuf specs.
 - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/) ([HN](https://news.ycombinator.com/item?id=31434078))
+- [The unreasonable effectiveness of f-strings and re.verbose (2022)](https://death.andgravity.com/f-re) ([HN](https://news.ycombinator.com/item?id=31457188))

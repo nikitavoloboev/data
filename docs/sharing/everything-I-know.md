@@ -11,7 +11,7 @@ Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's p
 
 ## My Workflow
 
-I list all the tools and my approaches to life & solving problems [here](my-workflow.md). It's constantly updating. I try to automate all the annoying things I encounter.
+I list all the [tools](../tools/tools.md) and my [approaches to life](../focusing/rules.md) & [solving problems](../research/solving-problems.md) in [my workflow](my-workflow.md). It's constantly updating. I try to automate all the annoying things I encounter.
 
 ## Learning now
 

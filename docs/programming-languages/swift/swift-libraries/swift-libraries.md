@@ -511,6 +511,7 @@
 - [ViewController](https://github.com/ZeeZide/ViewController) - MVC for SwiftUI. ViewController's for SwiftUI.
 - [Model3DView](https://github.com/frzi/Model3DView) - Render 3D models with SwiftUI effortlessly.
 - [CompactSlider](https://github.com/buh/CompactSlider) - Control for selecting a value from a bounded linear range of values.
+- [Spiral](https://github.com/buh/Spiral) - SwiftUI shape for macOS, iOS and watchOS.
 
 ## Test
 

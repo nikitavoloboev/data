@@ -124,3 +124,4 @@ title: Java
 - [Speeding Up Java Date Formatting With Code Generation (2022)](https://justinblank.com/experiments/speedingupdateformats.html)
 - [Justin Blank's Notebooks](https://justinblank.com/notebooks/)
 - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405) ([HN](https://news.ycombinator.com/item?id=31378896))
+- [A friendlier visualization of Java's JIT compiler based on control flow (2022)](https://robcasloz.github.io/blog/2022/05/24/a-friendlier-visualization-of-javas-jit-compiler-based-on-control-flow.html)

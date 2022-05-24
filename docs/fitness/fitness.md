@@ -6,7 +6,7 @@ I listen to [podcasts](../podcasts/podcasts.md) during any kind of exercise. Unl
 
 I try to not sit for prolonged times (by using a standing desk or taking breaks). Going on walks or cycling for a bit always resets my mind.
 
-[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it.
+[Sergey Kharkow](https://www.instagram.com/sergeykharkow/) has the ideal body type in my eyes but it's a lot of effort to get/maintain it. [Fitness Wiki](https://thefitness.wiki/) is a [great read](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/).
 
 ## Notes
 
@@ -65,3 +65,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [Do you lose muscle when you eat enough protein but don’t work out?](https://www.reddit.com/r/nutrition/comments/u1zcs9/do_you_lose_muscle_when_you_eat_enough_protein/)
 - [FitTrackee](https://github.com/SamR1/FitTrackee) - Simple self-hosted workout/activity tracker.
 - [How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day?s=r) ([HN](https://news.ycombinator.com/item?id=31250001))
+- [How do I go from skinny fat to a lean build?](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/)

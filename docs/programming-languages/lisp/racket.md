@@ -126,3 +126,4 @@ title: Racket
 - [qi](https://github.com/countvajhula/qi) - General-purpose functional DSL.
 - [Pycket](https://github.com/pycket/pycket) - Racket/Scheme implementation that is generated using the RPython framework.
 - [Urlang](https://github.com/soegaard/urlang) - JavaScript with a sane syntax. Written in Racket.
+- [Whalesong](https://www.hashcollision.org/whalesong/) - Racket to JavaScript Compiler. ([HN](https://news.ycombinator.com/item?id=31457045))

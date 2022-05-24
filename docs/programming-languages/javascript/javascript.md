@@ -445,3 +445,4 @@ if (
 - [JavaScript Module Fragments Proposal](https://github.com/tc39/proposal-module-fragments) - Named, inline JS modules, which can be used for bundling multiple modules into a single JavaScript file.
 - [Design Patters in JS for Humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 - [devjar](https://devjar.vercel.app/) - Bundless runtime for your ESM JavaScript project in browser. ([Code](https://github.com/huozhi/devjar))
+- [Fast way to do a JS socket API](https://twitter.com/jarredsumner/status/1529049475204849666)

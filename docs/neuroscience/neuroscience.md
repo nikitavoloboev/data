@@ -2,6 +2,8 @@
 
 [Computational Neuroscience course](https://compneuro.neuromatch.io/tutorials/intro.html) & [xcorr notebooks](https://xcorr.net/) are great.
 
+The way our brains take input from different senses (eyes, touch) and then decide how to act on the signals is pretty wild. You can [trick the brain easily too this way](https://twitter.com/Imposter_Edits/status/1528888787388223488).
+
 ## Notes
 
 - [Tools are interpreted by the brain as an extension of the human body.](https://twitter.com/provisionalidea/status/1392854515347513351)
@@ -126,6 +128,7 @@
 - [Morphapi](https://github.com/brainglobe/morphapi) - Lightweight python package for downloading neurons morphological reconstructions from publicly available datasets.
 - [cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images (e.g. whole mouse brain images).
 - [brainreg-segment](https://github.com/brainglobe/brainreg-segment) - Segmentation of 3D shapes in a common anatomical space.
+- [You can trick your brain into thinking an object is your real hand and experience pain response](https://twitter.com/Imposter_Edits/status/1528888787388223488)
 
 ## Images
 

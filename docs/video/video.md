@@ -360,3 +360,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Using a Proper Camera as a Webcam (2022)](https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html) ([HN](https://news.ycombinator.com/item?id=31411813))
 - [Hawkeye](https://github.com/cbsinteractive/hawkeye) - Detect images in a video stream and execute automated actions.
 - [HN: How to make automatic supercuts on the command line with Videogrep](https://lav.io/notes/videogrep-tutorial/) ([HN](https://news.ycombinator.com/item?id=31483548))
+- [videoconverter](https://github.com/Sciencentistguy/videoconverter) - Program to convert video files to the format and codec that I use for my Plex server.

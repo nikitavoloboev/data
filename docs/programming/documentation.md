@@ -2,8 +2,12 @@
 
 Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to write. [Markdoc](https://markdoc.io/) & [nbdoc](https://twitter.com/HamelHusain/status/1507383929774305282) look nice too.
 
+[React Docs](https://beta.reactjs.org/) is a great example of what great docs are. I love their illustrations.
+
 ## Examples of nice docs
 
+- [Linear Guide](https://linear.app/docs)
+- [React Docs](https://beta.reactjs.org/)
 - [Netlify Docs](https://docs.netlify.com/)
 - [Vue Docs](https://vuejs.org/) ([Code](https://github.com/vuejs/docs))
 - [Fly Docs](https://fly.io/docs/) ([Code](https://github.com/superfly/docs))

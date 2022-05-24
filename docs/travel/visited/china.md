@@ -1,8 +1,8 @@
 # China
 
-China alongside [Russia](russia.md) and [many more countries](https://worldpopulationreview.com/country-rankings/dictatorship-countries) needs to [move to a proper democracy](https://www.reddit.com/r/China/comments/u7weif/xi_jinping_must_step_down_dissatisfaction_with_xi/). Having said that, China [seems to be doing well financially](https://www.reddit.com/r/AskEconomics/comments/ug1czj/what_has_made_china_so_rich_in_the_last_40_years/) despite all its attacks on freedoms.
+China alongside [Russia](russia.md) and [many more countries](https://worldpopulationreview.com/country-rankings/dictatorship-countries) needs to [move to a proper democracy](https://www.reddit.com/r/China/comments/u7weif/xi_jinping_must_step_down_dissatisfaction_with_xi/). Having said that, China [seems to be improving financially](https://www.reddit.com/r/AskEconomics/comments/ug1czj/what_has_made_china_so_rich_in_the_last_40_years/) despite all its [attacks on freedoms](https://twitter.com/adrianzenz/status/1528989272031772672).
 
-Cities like Shanghai and Guangzhou fascinate me, would love to live there one day or at least visit. [Don Weinland](https://twitter.com/donweinland) shares interesting news on China.
+Cities like Shanghai and Guangzhou fascinate me, would love to live there one day or at least visit. [Don Weinland](https://twitter.com/donweinland) & [Adrian Zenz](https://twitter.com/adrianzenz) share interesting news on China.
 
 ## Notes
 

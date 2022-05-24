@@ -10,6 +10,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 
 ## Bots
 
+- [Channel Archiver](https://github.com/Sciencentistguy/discord-channel-archiver) - Small discord bot to archive the messages in a discord text channel.
 - [Needle](https://github.com/MarcusOtter/discord-needle) - Discord bot that helps you declutter your server by creating Discord threads automatically. ([Web](https://needle.gg/))
 - [SafetyJim](https://github.com/Samoxive/SafetyJim) - Moderation bot for discord.
 - [YAGPDB](https://github.com/botlabs-gg/yagpdb) - Multifunctional, modular Discord bot. ([Web](https://yagpdb.xyz/))
