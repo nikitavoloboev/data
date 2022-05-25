@@ -251,3 +251,4 @@
 - [D-Tale](https://github.com/man-group/dtale) - Visualizer for pandas data structures.
 - [data-describe](https://github.com/data-describe/data-describe) - Pythonic EDA Accelerator for Data Science.
 - [How Well Can You Kaggle with Just One Hour a Day? (2022)](https://wandb.ai/sairam6087/humpback_whale/reports/How-Well-Can-You-Kaggle-with-Just-One-Hour-a-Day---VmlldzoxNjQxMTQ4) ([HN](https://news.ycombinator.com/item?id=31269459))
+- [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) - Peter Norvig's New Book.

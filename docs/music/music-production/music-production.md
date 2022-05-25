@@ -144,6 +144,7 @@
 - [mep](https://github.com/alisomay/mep) - Scriptable MIDI event processor.
 - [music-fns](https://github.com/madewithlove/music-fns) - JavaScript music utility library that contains small music notation related functions.
 - [CoSo by Splice](https://tools.splice.com/coso) - Music creation app that listens to your Stack of sounds and shows you loops that belong together.
+- [isobar](https://github.com/ideoforms/isobar) - Python library for creating and manipulating musical patterns, designed for use in algorithmic composition, generative music and sonification.
 
 ## Inspiration
 

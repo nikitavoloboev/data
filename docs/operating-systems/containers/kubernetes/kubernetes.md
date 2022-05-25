@@ -737,3 +737,4 @@ title: Kubernetes
 - [Kubedog](https://github.com/werf/kubedog) - Library to watch and follow Kubernetes resources in CI/CD deploy pipelines.
 - [Kubernetes Networking Guide](https://k8s.networkop.co.uk/) ([Code](https://github.com/networkop/k8s-networking-guide))
 - [Manage multi-tenant clusters with Flux](https://github.com/fluxcd/flux2-multi-tenancy)
+- [RBAC-Police](https://github.com/PaloAltoNetworks/rbac-police) - Evaluate the RBAC permissions of service accounts, pods and nodes in Kubernetes clusters through policies written in Rego.

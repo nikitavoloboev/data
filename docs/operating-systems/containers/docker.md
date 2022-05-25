@@ -235,3 +235,4 @@ title: Docker
 - [Docker Extensions SDK](https://github.com/docker/extensions-sdk)
 - [buildg](https://github.com/ktock/buildg) - Tool to interactively debug Dockerfile based on BuildKit. ([Article](https://medium.com/nttlabs/buildg-a48bc851c1bb))
 - [Dockit](https://github.com/ekristen/dockit) - Docker Registry Authentication Made Simple.
+- [Fly Machines: An API for Fast-Booting VMs (2022)](https://fly.io/blog/fly-machines/) ([HN](https://news.ycombinator.com/item?id=31496744))

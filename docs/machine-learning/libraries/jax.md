@@ -39,3 +39,4 @@ title: JAX
 - [flaxvision](https://github.com/rolandgvc/flaxvision) - Selection of neural network models ported from torchvision for JAX & Flax.
 - [JAX version of clip guided diffusion scripts](https://github.com/nshepperd/jax-guided-diffusion)
 - [Functorch](https://github.com/pytorch/functorch) - Jax-like composable function transforms for PyTorch. ([HN](https://news.ycombinator.com/item?id=31424588))
+- [Ninjax](https://github.com/danijar/ninjax) - Module system for JAX that offers full state access and allows to easily combine modules from other libraries.

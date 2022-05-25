@@ -114,3 +114,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Open Source PaaS List](https://github.com/guettli/open-source-paas)
 - [Cloud Cost Control: Best Practices (2022)](https://bestcloudplatform.com/cloud-cost-control-best-practices/) ([HN](https://news.ycombinator.com/item?id=31271340))
 - [Heroku: Core Impact (2022)](https://brandur.org/nanoglyphs/033-heroku) ([HN](https://news.ycombinator.com/item?id=31391272))
+- [Nice bare cloud hardware providers (2022)](https://news.ycombinator.com/item?id=31496680)

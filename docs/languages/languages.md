@@ -78,3 +78,4 @@
 - [Wordle Analyzer](https://wordle-analyzer.com/) ([Code](https://github.com/jakearchibald/wordle-analyzer/))
 - [Chatterbug](https://chatterbug.com/en/) - Learn Languages Online and Talk with Native Speakers.
 - [DeepL Translate](https://www.deepl.com/translator) - World's most accurate translator.
+- [A History of Punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation)

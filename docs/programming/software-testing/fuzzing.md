@@ -4,6 +4,8 @@ title: Fuzzing
 
 # [Fuzzing](https://owasp.org/www-community/Fuzzing)
 
+[Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) is a nice guide.
+
 ## Links
 
 - [fluff](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
@@ -85,3 +87,4 @@ title: Fuzzing
 - [Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis (2022)](https://arxiv.org/abs/2203.12064) ([Code](https://github.com/Dongdongshe/K-Scheduler))
 - [Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing)
 - [Why fuzzing with emulators is amazing](https://github.com/gamozolabs/fuzz_with_emus)
+- [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) - Step by step fuzzing tutorial. A GitHub Security Lab initiative.
