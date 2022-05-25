@@ -40,3 +40,4 @@ This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5
 - [AdonisJS + Petite Vue + XState](https://github.com/Devessier/adonisjs-petitevue-xstate)
 - [Official Beginner’s Guide to XState in React - YouTube](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI)
 - [Robo Wizard](https://github.com/HipsterBrown/robo-wizard) - Library for building multi-step forms backed by a state machine.
+- [Backend XState Machines on Remix](https://github.com/erikras/remix-conf-2022)

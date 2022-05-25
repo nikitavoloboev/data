@@ -522,6 +522,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [AutoAnimate](https://github.com/formkit/auto-animate) - Zero-config, drop-in animation utility that adds smooth transitions to your web app.
 - [AMQP-client.js](https://github.com/cloudamqp/amqp-client.js) - AMQP 0-9-1 TypeScript client both for Node.js and browsers (using WebSocket).
 - [Hilbert.ts](https://github.com/mathigon/hilbert.js) - TypeScript library for expression parsing, simplification, and MathML rendering.
+- [QR Code Styling](https://github.com/kozakdenys/qr-code-styling) - Automatically generate your styled QR code in your web app. ([Web](https://qr-code-styling.com/))
 
 ## Links
 

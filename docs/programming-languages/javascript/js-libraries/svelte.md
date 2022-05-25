@@ -259,3 +259,4 @@ title: Svelte
 - [Svelte Range Slider (with pips)](https://github.com/simeydotme/svelte-range-slider-pips) - Multi-Thumb, Accessible, Beautiful Range Slider with Pips.
 - [Svelcro](https://github.com/oslabs-beta/Svelcro) - Svelte DevTool with a focus on rendering.
 - [Flowbite-Svelte](https://github.com/themesberg/flowbite-svelte) - Official Flowbite component library for Svelte. All interactivities are handled by Svelte. ([Web](https://flowbite-svelte.com/))
+- [Event Calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view in Svelte.

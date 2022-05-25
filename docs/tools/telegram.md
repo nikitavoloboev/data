@@ -18,7 +18,7 @@ This lets me jump between many chats instantly. For other chats I use the channe
 
 I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, swipe left and right or click. The folders are: Personal Messages (1 to 1 chats), Groups, Channels, Bots.
 
-[Telebot](https://github.com/tucnak/telebot) seems like a great Go bot framework.
+[Telebot](https://github.com/tucnak/telebot) & [grammY](https://github.com/grammyjs/grammY) are great bot libraries.
 
 ## Bot libraries
 

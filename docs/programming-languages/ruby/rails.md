@@ -166,3 +166,4 @@ title: Rails
 - [N1Loader](https://github.com/djezzzl/n1_loader) - Loader to solve N+1 issues for good. Highly recommended for GraphQL API.
 - [Hybrid development Docker Compose setup for Rails (2022)](https://nts.strzibny.name/hybrid-docker-compose-rails/)
 - [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
+- [Lograge](https://github.com/roidrage/lograge) - Taming Rails' Default Request Logging.

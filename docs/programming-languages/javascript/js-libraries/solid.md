@@ -23,7 +23,7 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 
 ## Links
 
-- [SolidJS New Docs](https://docs.solidjs.com/)
+- [SolidJS New Docs](https://docs.solidjs.com/) ([Code](https://github.com/solidjs/solid-docs-next))
 - [solid-nanostores](https://github.com/nanostores/solid) - Global state management in Solid using Nano Stores.
 - [Solid Lib Starter](https://github.com/amoutonbrady/solid-lib-starter)
 - [Solid Three, Custom Renderers, and SolidStart w/ Nikhil Saraf (2022)](https://www.youtube.com/watch?v=lsWXyyEsw7E)

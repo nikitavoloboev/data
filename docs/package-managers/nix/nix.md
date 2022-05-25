@@ -358,3 +358,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Quickly building minimal Docker containers with Nix (2021)](https://jamey.thesharps.us/2021/02/02/docker-containers-nix/)
 - [Nix Book](https://github.com/NixOS/nix-book) - Centralized community online learning resource for Nix.
 - [Replit - Dynamic version for Nix derivations (2021)](https://blog.replit.com/nix_dynamic_version)
+- [nix-serve](https://github.com/edolstra/nix-serve) - Standalone Nix binary cache server.
+- [Zicross](https://github.com/flyx/Zicross) - Nix Flake for cross-compiling and packaging for foreign systems.

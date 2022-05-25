@@ -371,3 +371,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Building a Mini Next.js (2022)](https://hire.jonasgalvez.com.br/2022/may/18/building-a-mini-next-js/)
 - [Building a Multi-Tenant Web App with Next.js (2022)](https://egoist.proselog.com/multi-tenant-nextjs-app)
 - [Next.js Layouts](https://nextjs.org/blog/layouts-rfc) - Nested routes and layouts, designed for Server Components. ([HN](https://news.ycombinator.com/item?id=31485073))
+- [High Performance Personalization with Next.js Middleware (2022)](https://www.plasmic.app/blog/nextjs-personalization) ([Reddit](https://www.reddit.com/r/nextjs/comments/ux22u0/high_performance_personalization_with_nextjs/))

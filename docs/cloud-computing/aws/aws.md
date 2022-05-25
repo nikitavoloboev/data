@@ -352,3 +352,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Sceptre](https://github.com/Sceptre/sceptre) - Tool to drive AWS CloudFormation.
 - [AWS Should Be Easy](https://github.com/nathants/libaws) - Simpler infrastructure as code specification. ([HN](https://news.ycombinator.com/item?id=31478189))
 - [Amazon Redshift re-invented (2022)](https://www.amazon.science/publications/amazon-redshift-re-invented) ([HN](https://news.ycombinator.com/item?id=31448846))
+- [Poro](https://github.com/9rnt/poro) - Scan publicly accessible assets on your AWS cloud environment.

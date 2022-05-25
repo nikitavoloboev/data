@@ -581,3 +581,4 @@
 - [GLM: General Language Model Pretraining with Autoregressive Blank Infilling (2021)](https://arxiv.org/abs/2103.10360) ([Code](https://github.com/THUDM/GLM))
 - [GPT-3 limitations (2022)](https://twitter.com/npew/status/1525900849888866307)
 - [Natural Language Processing Demystified](https://www.nlpdemystified.org/)
+- [Concise Concepts](https://github.com/Pandora-Intelligence/concise-concepts) - Contains an easy and intuitive approach to few-shot NER using most similar expansion over spaCy embeddings. Now with entity scoring.

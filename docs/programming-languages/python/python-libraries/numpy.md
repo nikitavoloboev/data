@@ -36,3 +36,4 @@ title: NumPy
 - [Differentiable Neural Computer in Numpy](https://github.com/krocki/dnc) - Simple RNN, LSTM and Differentiable Neural Computer in pure Numpy.
 - [A basic introduction to NumPy's einsum](https://ajcr.net/Basic-guide-to-einsum/) ([HN](https://news.ycombinator.com/item?id=30972389))
 - [Arkouda](https://github.com/Bears-R-Us/arkouda) - NumPy-like arrays at massive scale backed by Chapel.
+- [Bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C.

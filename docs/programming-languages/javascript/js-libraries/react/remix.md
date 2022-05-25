@@ -144,3 +144,5 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Tailwind Purge-Per-Route Demo](https://github.com/brookslybrand/purge-per-route) - Demo of a Remix app with TailwindCSS classes purged per route.
 - [Remix - YouTube](https://www.youtube.com/c/Remix-Run/videos)
 - [Shipping to the Edge: Kent C Dodds (2022)](https://www.youtube.com/watch?v=osSaUWlgAyo)
+- [Learn Remix by Building a Social Media Platform with TypeScript and Prisma (2022)](https://egghead.io/courses/learn-remix-by-building-a-social-media-platform-with-typescript-and-prisma-cddb0550)
+- [Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)

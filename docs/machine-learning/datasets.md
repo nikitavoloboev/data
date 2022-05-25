@@ -171,3 +171,4 @@
 - [audio2dataset](https://github.com/rom1504/audio2dataset) - Easily turn large sets of audio urls to an audio dataset.
 - [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) - Collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types.
 - [AudioLoader](https://github.com/KinWaiCheuk/AudioLoader) - PyTorch Dataset for Speech and Music audio.
+- [Awesome Training Data](https://github.com/diffgram/awesome-training-data)

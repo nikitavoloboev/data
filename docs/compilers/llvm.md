@@ -123,3 +123,4 @@ title: LLVM
 - [PochiVM](https://github.com/sillycross/PochiVM) - JIT (just-in-time) code-generation framework backed by LLVM and a novel baseline compiler.
 - [Guide to Performance Debugging LLVM-based Programs (2022)](https://www.youtube.com/watch?v=lDFE-QtSIfg)
 - [Writing an LLVM-IR compiler in Rust](https://github.com/ucarion/llvm-rust-getting-started)
+- [Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM.

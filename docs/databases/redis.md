@@ -151,3 +151,4 @@ title: Redis
 - [Redcon.rs](https://github.com/tidwall/redcon.rs) - Redis compatible server framework for Rust.
 - [RoseDB](https://github.com/flower-corp/rosedb) - High performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set. Similar to Redis but store values on disk.
 - [RediSearch](https://redis.io/docs/stack/search/) - Queries, secondary indexing, and full-text search for Redis. ([Go Client](https://github.com/RediSearch/redisearch-go))
+- [Redust](https://github.com/appellation/redust) - Simple Redis client & RESP parser for Rust.

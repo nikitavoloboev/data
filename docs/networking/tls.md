@@ -93,3 +93,4 @@ title: TLS
 - [Ghostunnel](https://github.com/ghostunnel/ghostunnel) - Simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [When eBPF meets TLS. Defeating TLS encryption with eBPF tricks (2022)](https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf) ([HN](https://news.ycombinator.com/item?id=31452286))
 - [Extracting TLS keys from an unwilling application (2020)](http://m1el.github.io/oculus-tls-extract/)
+- [hallucinate](https://github.com/SySS-Research/hallucinate) - One-stop TLS traffic inspection and manipulation using dynamic instrumentation.

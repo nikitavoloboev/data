@@ -332,3 +332,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap) - Scripting engine to interact with a graphql endpoint for pentesting purposes.
 - [GraphQL Middleware to add X-Ray tracing for resolvers](https://github.com/lifeomic/graphql-resolvers-xray-tracing)
 - [Proposal: GraphQL Composite Schemas Working Group](https://github.com/graphql/graphql-wg/pull/977)
+- [GraphQL Hive](https://github.com/kamilkisiela/graphql-hive) - Provides all the tools the get visibility of your GraphQL architecture at all stages, from standalone APIs to composed schemas (Federation, Stitching). ([Web](https://graphql-hive.com/))

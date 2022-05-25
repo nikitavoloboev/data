@@ -42,6 +42,7 @@ title: PureScript
 - [PureNix](https://github.com/purenix-org/purenix) - Nix backend for PureScript. Transpile PureScript code to Nix. ([Reddit](https://www.reddit.com/r/NixOS/comments/sw3zpp/purenix_write_purescript_and_transpile_it_to_nix/))
 - [Dovetail](https://github.com/paf31/dovetail) - General-purpose PureScript interpreter written in Haskell.
 - [HTTPure](https://github.com/cprussin/purescript-httpure) - Web framework written in PureScript.
+- [HTTPurple](https://github.com/sigma-andex/purescript-httpurple) - Colorful fork of the amazing HTTPure http server framework.
 - [dovetail](https://hackage.haskell.org/package/dovetail) - PureScript interpreter with a Haskell FFI.
 - [Purescript for Elm devs](https://github.com/alpacaaa/elm-to-purescript-cheatsheet)
 - [purescript2nix](https://github.com/cdepillabout/purescript2nix) - Tool for easily building PureScript projects with Nix.

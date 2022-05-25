@@ -507,3 +507,4 @@ all: unset
 - [First Look At The CSS object-view-box Property (2022)](https://ishadeed.com/article/css-object-view-box/) ([Tweet](https://twitter.com/shadeed9/status/1527578257591357441?s=20&t=9O47LeqiezvlU4ZerRW67Q))
 - [Spacing in CSS (2020)](https://ishadeed.com/article/spacing-in-css/)
 - [What new property / value / CSS superpower are you most excited about? (2022)](https://twitter.com/jensimmons/status/1514712651284295685)
+- [CSS: Absolutely positioning things relatively (2022)](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b) ([HN](https://news.ycombinator.com/item?id=31501344))

@@ -72,3 +72,4 @@ So far I lived in [Netherlands](netherlands.md), [Cyprus](cyprus.md) & [UK](unit
 - [What has EU given us in terms of tech recently? (2022)](https://twitter.com/eigenrobot/status/1519026972831141896)
 - [Europe holidays | The Guardian](https://www.theguardian.com/travel/europe)
 - [Europe’s Most Tax-Friendly Countries for Remote Workers (2022)](https://www.youtube.com/watch?v=qnUa3BZLoSA)
+- [Six Reasons to Live in Western Europe (2022)](https://www.youtube.com/watch?v=rtsik1A1FUY)

@@ -293,7 +293,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [EasyRaft](https://github.com/ksrichard/easyraft) - Easy to use Raft library to make your app distributed, highly available and fault-tolerant.
 - [Truss](https://github.com/metaverse/truss) - Helps you build go-kit microservices without having to worry about writing or maintaining boilerplate code.
 - [ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
-- [Flow](https://github.com/alexedwards/flow) - Delightfully simple, readable, and tiny HTTP router for Go web applications.
+- [Flow](https://github.com/alexedwards/flow) - Delightfully simple, readable, and tiny HTTP router for Go web applications. ([Article](https://www.alexedwards.net/blog/introducing-flow))
 - [lossy](https://github.com/cevatbarisyilmaz/lossy) - Go package to simulate bandwidth, latency and packet loss for net.PacketConn and net.Conn interfaces.
 - [net](https://github.com/golang/net) - Supplementary Go networking libraries.
 - [Swag](https://github.com/go-openapi/swag) - Helper functions for go-openapi and go-swagger projects.

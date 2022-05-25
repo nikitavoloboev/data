@@ -183,3 +183,4 @@
 - [Genimage](https://github.com/pengutronix/genimage) - Tool to generate multiple file system and flash images from a tree.
 - [fiano](https://github.com/linuxboot/fiano) - Go-based tools for modifying UEFI firmware.
 - [What frustrates you the most about developing embedded software? (2022)](https://www.reddit.com/r/embedded/comments/utocl4/what_frustrates_you_the_most_about_developing/)
+- [USD Projects and Resources](https://github.com/vfxpro99/usd-resources)

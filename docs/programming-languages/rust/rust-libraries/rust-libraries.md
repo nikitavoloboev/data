@@ -295,6 +295,7 @@
 - [Cornucopia](https://github.com/LouisGariepy/cornucopia) - Generate type-checked Rust from your PostgreSQL.
 - [marble](https://github.com/komora-io/marble) - Garbage-collecting disk-based object-store.
 - [dilemma](https://github.com/davidpdrsn/dilemma) - SQL query builder favoring composition over compile time safety.
+- [Catalytic](https://github.com/Jasperav/Catalytic) - ScyllaDB and Cassandra Object-Relation Mapper.
 
 ## Video
 

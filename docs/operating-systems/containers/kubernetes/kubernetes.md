@@ -738,3 +738,5 @@ title: Kubernetes
 - [Kubernetes Networking Guide](https://k8s.networkop.co.uk/) ([Code](https://github.com/networkop/k8s-networking-guide))
 - [Manage multi-tenant clusters with Flux](https://github.com/fluxcd/flux2-multi-tenancy)
 - [RBAC-Police](https://github.com/PaloAltoNetworks/rbac-police) - Evaluate the RBAC permissions of service accounts, pods and nodes in Kubernetes clusters through policies written in Rego.
+- [k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - Docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [Kubernetes course](https://github.com/wardviaene/kubernetes-course)

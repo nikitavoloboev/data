@@ -40,3 +40,4 @@ I try and never touch my face with dirty hands together with minimizing frowning
 - [Aesop](https://www.aesop.com/fr/en/) - Formulations for Skin, Hair & Body. ([Tweet](https://twitter.com/patagucci_girl/status/1452717137093533700))
 - [What skincare tip completely transformed your skin? (2021)](https://www.reddit.com/r/SkincareAddiction/comments/rl5g9s/misc_what_skincare_tip_completely_transformed/)
 - [How to treat ice pick acne scars](https://www.youtube.com/watch?v=bCSptjnwIiw)
+- [Is Sunscreen the New Margarine?](https://www.outsideonline.com/health/wellness/sunscreen-sun-exposure-skin-cancer-science/) - Current guidelines for sun exposure are unhealthy and unscientific.

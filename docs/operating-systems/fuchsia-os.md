@@ -24,3 +24,4 @@ title: Fuchsia OS
 - [Getting to know Fuchsia, Google's open-source operating system](https://blog.codemagic.io/fuchsia-os-preview/) ([Lobsters](https://lobste.rs/s/p8bizb/getting_know_fuchsia_google_s_open_source))
 - [Fuchsia IDL Overview](https://fuchsia.dev/fuchsia-src/concepts/fidl/overview) ([HN](https://news.ycombinator.com/item?id=30707696))
 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation) ([HN](https://news.ycombinator.com/item?id=30827210))
+- [A Kernel Hacker Meets Fuchsia OS (2022)](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/) ([HN](https://news.ycombinator.com/item?id=31497827))

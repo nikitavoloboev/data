@@ -406,3 +406,4 @@ title: PyTorch
 - [Accelerated PyTorch Training on M1 Mac (2022)](https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/) ([HN](https://news.ycombinator.com/item?id=31424048)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/usjreu/n_introducing_accelerated_pytorch_training_on_mac/))
 - [Metatorch](https://github.com/jworr/metatorch) - Library and framework for prototyping PyTorch models with Haskell.
 - [Running PyTorch on the M1 GPU (2022)](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html) ([HN](https://news.ycombinator.com/item?id=31456450))
+- [PyTorch Topological](https://github.com/aidos-lab/pytorch-topological) - Topological machine learning framework based on PyTorch.

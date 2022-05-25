@@ -242,6 +242,7 @@
 - [WebIO](https://github.com/JuliaGizmos/WebIO.jl) - Bridge between Julia and the Web.
 - [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) - Web-based GUIs for Julia.
 - [Hyperscript](https://github.com/JuliaWeb/Hyperscript.jl) - Package for working with HTML, SVG, and CSS in Julia.
+- [Oxygen](https://github.com/ndortega/Oxygen.jl) - Micro-framework built on top of the HTTP.jl library.
 
 ## Test
 
@@ -410,7 +411,7 @@
 - [NOMAD.jl](https://github.com/bbopt/NOMAD.jl) - Julia interface to the NOMAD blackbox optimization software.
 - [BayesNets](https://github.com/sisl/BayesNets.jl) - Bayesian Networks for Julia.
 - [IntervalRootFinding.jl](https://github.com/JuliaIntervals/IntervalRootFinding.jl) - Find all roots of a function in a guaranteed way with Julia.
-- [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia.
+- [DataFrames.jl](https://github.com/JuliaData/DataFrames.jl) - In-memory tabular data in Julia. ([Introduction to DataFrames.jl](https://github.com/bkamins/Julia-DataFrames-Tutorial))
 - [DrWatson](https://github.com/JuliaDynamics/DrWatson.jl) - Scientific project assistant software.
 - [Strategems](https://github.com/dysonance/Strategems.jl) - Quantitative systematic trading strategy development and backtesting in Julia.
 - [Polyester](https://github.com/JuliaSIMD/Polyester.jl) - Provides low overhead threading.

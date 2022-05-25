@@ -397,3 +397,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic.
 - [Open Source API Firewall](https://github.com/wallarm/api-firewall) - Fast and light-weight API proxy firewall for request and response validation by OpenAPI specs.
 - [Ply](https://github.com/ply-ct/ply) - API Automated Testing. ([Web](https://ply-ct.org/ply/))
+- [Automatic SDK generation from an OpenAPI definition](https://github.com/readmeio/api)

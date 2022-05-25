@@ -14,6 +14,8 @@ I publish most of my work and make it open source for other people to use and re
 
 I like to [make private contributions private on my profile](https://i.imgur.com/a6YOHKI.png) (in [GitHub settings](https://github.com/settings/profile)) as it makes the squares on the GitHub timeline view nicer to use. Wish others did it too.
 
+[gh-poi](https://github.com/seachicken/gh-poi) is useful for cleaning up already merged git branches.
+
 ## Interesting GitHub Bios
 
 - [Carlos Becker](https://github.com/caarlos0) - Auto updated list of activities + sponsors.
@@ -427,3 +429,4 @@ Awesome List
 - [gh-metrics](https://github.com/hectcastro/gh-metrics) - GitHub CLI extension that provides summary pull request metrics.
 - [Fastest way to get GitHub hosted markdown while avoiding rate limiting during dev](https://twitter.com/tannerlinsley/status/1527449478269005824)
 - [gh-i](https://github.com/gennaro-tedesco/gh-i) - Search your GitHub issues interactively.
+- [GitHub-Compare](https://github.com/anqiansong/github-compare) - Command-line tool to statistics the GitHub repositories.

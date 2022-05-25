@@ -27,3 +27,4 @@ title: Astro
 - [Astro on Cloudflare Workers (2022)](https://dev.to/thepassle/astro-on-cloudflare-workers-2ng7)
 - [Build faster websites with Astro (2022)](https://www.youtube.com/watch?v=x3hiyWikdrE)
 - [Astro Collaborative Starter](https://github.com/CTNicholas/astro-collaborative-starter)
+- [Accessible Astro Starter](https://components.accessible-astro.dev/) - Set of Accessible, easy to use, Front-end UI Components for Astro. ([Code](https://github.com/markteekman/accessible-astro-components))
