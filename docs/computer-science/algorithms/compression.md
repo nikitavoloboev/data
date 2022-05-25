@@ -131,3 +131,4 @@
 - [Time-series compression algorithms, explained (2020)](https://www.timescale.com/blog/time-series-compression-algorithms-explained/)
 - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html) ([HN](https://news.ycombinator.com/item?id=31411714))
 - [Silly Lossy Text Compression Idea (2022)](https://snufk.in/blog/silly-compression-text.html) ([HN](https://news.ycombinator.com/item?id=31435978))
+- [Lizard](https://github.com/inikep/lizard) - Efficient compression with fast decompression. ([HN](https://news.ycombinator.com/item?id=31500640))

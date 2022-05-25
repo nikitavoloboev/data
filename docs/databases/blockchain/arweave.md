@@ -51,3 +51,4 @@ title: Arweave
 - [3em](https://github.com/three-em/3em) - Blazingly fast, secure, reliable, multi-language execution environment for smart contracts inside the Arweave ecosystem.
 - [ARchivers](https://github.com/Bundlr-Network/ARchivers) - Repository for TwittAR and ARticle - Two tools which record tweets and articles - permanently storing them on Arweave via Bundlr.
 - [Awesome Arweave](https://github.com/bitruss/awesome-arweave)
+- [Akord](https://akord.com/) - Permanent storage and end-to-end encryption. ([Twitter](https://twitter.com/AkordTeam))

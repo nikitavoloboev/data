@@ -1024,3 +1024,4 @@
 - [mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf) - Generate mypy stub files from protobuf specs.
 - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/) ([HN](https://news.ycombinator.com/item?id=31434078))
 - [The unreasonable effectiveness of f-strings and re.verbose (2022)](https://death.andgravity.com/f-re) ([HN](https://news.ycombinator.com/item?id=31457188))
+- [Writing Python modules in Zig](https://www.reddit.com/r/Zig/comments/k2bv2j/writing_python_modules_in_zig/)

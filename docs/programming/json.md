@@ -140,3 +140,4 @@ title: JSON
 - [JDOT](https://github.com/saulpw/jdot) - JSON minus Notation plus Macros.
 - [JSON object values into CSV with jq (2022)](https://qmacro.org/blog/posts/2022/05/19/json-object-values-into-csv-with-jq/)
 - [Working with JSON in Various Shells (2022)](https://blog.kellybrazil.com/2022/05/19/working-with-json-in-various-shells/)
+- [JSON Forms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms. ([HN](https://news.ycombinator.com/item?id=31498533)) ([Web](https://jsonforms.io/))

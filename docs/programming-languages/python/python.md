@@ -502,3 +502,4 @@ for i, _ in enumerate(nums):
 - [Useful Python Decorators for Data Scientists (2022)](https://bytepawn.com/python-decorators-for-data-scientists.html) ([HN](https://news.ycombinator.com/item?id=31476521))
 - [Python Security](https://python-security.readthedocs.io/) ([Code](https://github.com/vstinner/python-security))
 - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html) - Summary of what features appeared in which versions of Python. ([HN](https://news.ycombinator.com/item?id=31475130))
+- [The Python GIL: Past, Present, and Future (2022)](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/)

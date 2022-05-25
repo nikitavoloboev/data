@@ -39,3 +39,4 @@
 - [German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German.
 - [What is in your opinion the most beautiful building in Berlin? (2022)](https://www.reddit.com/r/berlin/comments/umels3/what_is_in_your_opinion_the_most_beautiful/)
 - [Why Germany is hooked on Russian gas (2022)](https://www.youtube.com/watch?v=iMiQeS1XywA)
+- [Flathunter](https://github.com/flathunters/flathunter) - Telegram bot to help people with their flat search. In Germany.

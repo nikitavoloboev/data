@@ -46,3 +46,4 @@ In short, it can be summed down to this:
 - [How to get useful answers to your questions](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/) ([HN](https://news.ycombinator.com/item?id=28947926))
 - [Easy framework for how to ask (and get a yes)](https://twitter.com/wes_kao/status/1459551667540660224)
 - [Extreme questions to trigger new, better ideas (2022)](https://longform.asmartbear.com/posts/extreme-questions/)
+- [Ask HN: Where do you go to ask questions that don't fit stackexchange.com? (2022)](https://news.ycombinator.com/item?id=31491826)

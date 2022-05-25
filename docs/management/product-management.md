@@ -94,3 +94,4 @@
 - [Buzzfeed Product Design Documentation](https://github.com/buzzfeed/design)
 - [Questions to ask for creating 'user stories'](https://twitter.com/lauraklein/status/1520908876790468609)
 - [10 metrics every PM should know like the back of their hand](https://twitter.com/aakashg0/status/1528165714196152320)
+- [Stripe's model of product-led, developer-centric growth (2022)](https://lethain.com/stripe-product-led-developer-centric-growth/)

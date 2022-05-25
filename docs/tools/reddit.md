@@ -75,3 +75,4 @@ title: Reddit
 - [eternity](https://eternity.portals.sh/) - Bypass Reddit's 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database. ([Code](https://github.com/jc9108/eternity)) ([Reddit](https://www.reddit.com/r/selfhosted/comments/ulwz3v/save_your_reddit_data_saves_etc/))
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/) ([HN](https://news.ycombinator.com/item?id=31357314))
 - [Unddit](https://www.unddit.com/) - View deleted stuff from Reddit. ([Code](https://github.com/gurnec/removeddit))
+- [Tips on reducing Reddit usage](https://hanki.dev/browse-less-reddit/)

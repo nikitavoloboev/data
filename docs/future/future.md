@@ -104,3 +104,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Elon Musk: A future worth getting excited about (2022)](https://www.youtube.com/watch?v=YRvf00NooN8)
 - [The Forgotten Stage of Human Progress (2022)](https://www.theatlantic.com/newsletters/archive/2022/05/human-progress-invention-eureka-myth/629811/) ([Tweet](https://twitter.com/DKThomp/status/1524381152827654144))
 - [Vanishing People: the Population Crisis (2022)](https://www.piratewires.com/p/vanishing-people-the-population-crisis?s=w) ([Tweet](https://twitter.com/micsolana/status/1525147115902554114))
+- [Why isn’t new technology making us more productive? (2022)](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html) ([HN](https://news.ycombinator.com/item?id=31494671))

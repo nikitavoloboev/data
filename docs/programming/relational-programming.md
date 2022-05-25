@@ -15,3 +15,4 @@
 - [staged-miniKanren](https://github.com/namin/staged-miniKanren) - Staged relational interpreters: running with holes, faster.
 - [relic](https://github.com/wotbrew/relic) - Functional relational programming for Clojure/Script.
 - ["Strange Dreams of Stranger Loops" by Will Byrd (2021)](https://www.youtube.com/watch?v=AffW-7ika0E) ([Code](https://github.com/webyrd/stranger-loops-talk))
+- [μKanren: A Minimal Functional Core for Relational Programming (2013)](http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf) ([Annotated](https://github.com/ashton314/muKanren_reading))

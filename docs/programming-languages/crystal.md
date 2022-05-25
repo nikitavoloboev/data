@@ -16,3 +16,4 @@ title: Crystal
 - [Ask HN: The Crystal programming language – what are your impressions? (2022)](https://news.ycombinator.com/item?id=31192826)
 - [Crystalline](https://github.com/elbywan/crystalline) - Language Server Protocol implementation for Crystal.
 - [DUO](https://github.com/azutoolkit/duo) - HTTP/2 Server written purely in Crystal.
+- [Book: Crystal Programming](https://forum.crystal-lang.org/t/book-crystal-programming/4639) ([HN](https://news.ycombinator.com/item?id=31498146))
