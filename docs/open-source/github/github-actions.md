@@ -227,6 +227,7 @@ title: GitHub actions
 - [Create JSON](https://github.com/jsdaniell/create-json) - Create a .json file to use on other steps of the workflow.
 - [dependency-review-action](https://github.com/actions/dependency-review-action) - GitHub Action for detecting vulnerable dependencies in your PRs.
 - [GitHub Release On Push Action](https://github.com/rymndhng/release-on-push-action) - Github Action to create a git tag + release when pushed to main branch.
+- [GitHub Issue Parser](https://github.com/stefanbuck/github-issue-parser) - Use this action to convert issues into a unified JSON structure.
 
 ## Go
 

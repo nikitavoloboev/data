@@ -65,7 +65,7 @@ If you are a fan of [Succession](https://trakt.tv/shows/succession), this [scene
 - [Ask HN: How do I overcome mental laziness? (2020)](https://news.ycombinator.com/item?id=22919697)
 - [HN: Kick the Shit Out of Procrastination (2020)](https://news.ycombinator.com/item?id=22922372)
 - [Noise, Cognitive Function, and Worker Productivity (2020)](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) ([HN](https://news.ycombinator.com/item?id=23113142))
-- [GTD in 15 minutes](https://hamberg.no/gtd/) - Pragmatic Guide to Getting Things Done.
+- [GTD in 15 minutes](https://hamberg.no/gtd/) - Pragmatic Guide to Getting Things Done. ([HN](https://news.ycombinator.com/item?id=31506054))
 - [Your Theme (2020)](https://www.youtube.com/watch?v=NVGuFdX5guE)
 - [Warren Buffett's "2 List" Strategy: How to Maximize Your Focus and Master Your Priorities](https://jamesclear.com/buffett-focus)
 - [Procrastination is driven by our desire to avoid difficult emotions (2020)](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433) ([HN](https://news.ycombinator.com/item?id=23537317))

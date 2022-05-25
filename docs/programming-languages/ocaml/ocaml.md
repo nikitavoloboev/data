@@ -134,3 +134,4 @@ title: OCaml
 - [OCaml 5 Tutorial](https://github.com/kayceesrk/ocaml5-tutorial) - Hands-on tutorial on the new parallelism features in OCaml 5.
 - [Concurrent Programming with Effect Handlers](https://github.com/ocamllabs/ocaml-effects-tutorial)
 - [OCaml programs are much nicer to write](https://twitter.com/wcrichton/status/1528069823212662784)
+- [eio-console](https://github.com/patricoferris/eio-console) - Eventring-based exploration of Eio programs.

@@ -161,3 +161,4 @@
 - [Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code Book](https://handsondataviz.org/) ([Code](https://github.com/handsondataviz/book))
 - [datatile](https://github.com/polyaxon/datatile) - Library for managing, validating, summarizing, and visualizing data.
 - [loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for big data visualization.
+- [Troika JS](https://github.com/protectwise/troika) - JavaScript framework for interactive 3D and 2D visualizations.

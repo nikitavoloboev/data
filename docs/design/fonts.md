@@ -363,3 +363,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Introduction to variable fonts on the web (2022)](https://web.dev/variable-fonts/)
 - [GPU-Centered Font Rendering Directly from Glyph Outlines (2017)](https://jcgt.org/published/0006/02/02/paper.pdf)
 - [MkFont](https://github.com/Nebukam/mkfont) - Free tool to create & export fonts from existing assets. ([Docs](https://nebukam.github.io/mkfont/))
+- [Customizing Color Fonts on the Web (2022)](https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/)
