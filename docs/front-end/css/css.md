@@ -509,3 +509,6 @@ all: unset
 - [Spacing in CSS (2020)](https://ishadeed.com/article/spacing-in-css/)
 - [What new property / value / CSS superpower are you most excited about? (2022)](https://twitter.com/jensimmons/status/1514712651284295685)
 - [CSS: Absolutely positioning things relatively (2022)](https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b) ([HN](https://news.ycombinator.com/item?id=31501344))
+- [Min-Max-Value Interpolation](https://min-max-calculator.9elements.com/) - Tool that calculates the CSS clamp formula to interpolate between two values in a given viewport range. ([Code](https://github.com/9elements/min-max-calculator))
+- [global.css](https://github.com/nd55/global.css) - Personal global (Post)CSS file used in all my projects.
+- [Lesser-Known And Underused CSS Features In 2022](https://www.smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/)

@@ -1,6 +1,6 @@
 # Animation
 
-[Framer Motion](https://www.framer.com/motion/) & [Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) are great.
+[Framer Motion](https://www.framer.com/motion/), [Manim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) & [AutoAnimate](https://auto-animate.formkit.com/) are great.
 
 ## Links
 

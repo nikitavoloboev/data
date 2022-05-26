@@ -8,7 +8,7 @@ I use a variation of [YNAB methodology](https://www.youneedabudget.com/method/) 
 
 In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets (good ETFs being the safest investment).
 
-[Column](https://news.ycombinator.com/item?id=31109170) seems like a nice bank.
+[Column](https://news.ycombinator.com/item?id=31109170) seems like a nice bank. [Paddle](https://www.paddle.com/) is [nice for processing payments](https://news.ycombinator.com/item?id=31522127).
 
 ## Ongoing subscriptions
 

@@ -73,7 +73,7 @@ Success comes from [not giving up](https://twitter.com/harryhurst/status/1446523
 - [Wentworth Miller | Full Q&A (2016)](https://www.youtube.com/watch?v=TfWqONqTao4)
 - [Ask HN: How did you decide what problems to solve in your lifetime? (2019)](https://news.ycombinator.com/item?id=18837334)
 - [Arnold Schwarzenegger Inspiring Speech (2018)](https://www.youtube.com/watch?v=mNDA-o9yJNw)
-- [How To Be Successful (2019)](http://blog.samaltman.com/how-to-be-successful) ([HN](https://news.ycombinator.com/item?id=18992914))
+- [How To Be Successful (2019)](https://blog.samaltman.com/how-to-be-successful) ([HN](https://news.ycombinator.com/item?id=18992914))
 - [Play Long-term Games With Long-term People](https://startupboy.com/2019/03/19/long-term/)
 - [How to do hard things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) ([HN](https://news.ycombinator.com/item?id=19955830))
 - [David Epstein on Mastery, Specialization, and Range (2019)](https://overcast.fm/+JCRwsi4)

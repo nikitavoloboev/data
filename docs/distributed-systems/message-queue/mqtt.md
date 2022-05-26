@@ -48,3 +48,4 @@ title: MQTT
 - [MQTT TUI](https://github.com/EdJoPaTo/mqttui) - Subscribe to a MQTT Topic or publish something quickly from the terminal.
 - [Cloudflare Pub/Sub: Programmable MQTT Message Brokers (2022)](https://blog.cloudflare.com/announcing-pubsub-programmable-mqtt-messaging/) ([HN](https://news.ycombinator.com/item?id=31353452)) ([Doc](https://developers.cloudflare.com/pub-sub/))
 - [Control Esp32 from a web panel over MQTT protocol](https://github.com/fdisotto/esp32-mqtt) ([HN](https://news.ycombinator.com/item?id=31490108))
+- [MQTT NIO](https://github.com/swift-server-community/mqtt-nio) - Swift NIO MQTT v3.1.1 and v5.0 Client.
