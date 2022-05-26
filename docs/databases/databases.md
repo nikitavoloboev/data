@@ -618,3 +618,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Ditto](https://www.ditto.live/) - Sync without Internet. ([Twitter](https://twitter.com/dittolive))
 - [DBngin](https://dbngin.com/) - All-in-One Database Version Management Tool. ([Code](https://github.com/TablePlus/DBngin))
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+- [LSI: A Learned Secondary Index Structure (2022)](https://arxiv.org/abs/2205.05769)

@@ -740,3 +740,4 @@ title: Kubernetes
 - [RBAC-Police](https://github.com/PaloAltoNetworks/rbac-police) - Evaluate the RBAC permissions of service accounts, pods and nodes in Kubernetes clusters through policies written in Rego.
 - [k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - Docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [Kubernetes course](https://github.com/wardviaene/kubernetes-course)
+- [Minikube](https://minikube.sigs.k8s.io/docs/) - Quickly sets up a local Kubernetes cluster. ([HN](https://news.ycombinator.com/item?id=31509011))

@@ -170,3 +170,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Cloudflare Worker to make your R2 bucket public](https://github.com/cmackenzie1/r2-public-worker)
 - [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers.
 - [Render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2.
+- [Denoflare ♥️ R2](https://denoflare.dev/r2/)

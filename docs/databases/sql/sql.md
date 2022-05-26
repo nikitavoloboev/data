@@ -6,6 +6,8 @@ title: SQL
 
 [dsq](https://github.com/multiprocessio/dsq) is neat. [SQL Indexing and Tuning book](https://use-the-index-luke.com/) has many tips. [GlueSQL](https://github.com/gluesql/gluesql) seems nice too.
 
+[Arctype](https://arctype.com/) is a nice tool.
+
 ## Notes
 
 - High cardinality = unique. Low cardinality = less unique.
@@ -112,7 +114,7 @@ title: SQL
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
 - [Thinking in Questions with SQL (2021)](https://benjiweber.co.uk/blog/2021/03/21/thinking-in-questions-with-sql/)
 - [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices) ([HN](https://news.ycombinator.com/item?id=26762206))
-- [Arctype](https://arctype.com/) - Fast and easy-to-use SQL client.
+- [Arctype](https://arctype.com/) - Fast and easy-to-use SQL client. ([HN](https://news.ycombinator.com/item?id=31508850))
 - [Don’t we all just want to use SQL on the front end? (2021)](https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146) ([HN](https://news.ycombinator.com/item?id=26822884))
 - [TinySQL](https://github.com/tidb-incubator/tinysql) - Course designed to teach you how to implement a distributed relational database in Go.
 - [Ask HN: Is there a way to efficiently subscribe to an SQL query for changes? (2021)](https://news.ycombinator.com/item?id=26901352)

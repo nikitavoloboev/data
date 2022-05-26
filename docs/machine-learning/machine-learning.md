@@ -384,7 +384,7 @@
 - [Learn Deep Learning: Powerful Mental Models to Accelerate Your Journey (2020)](https://gumroad.com/l/learn_deep_learning) ([Tweet](https://twitter.com/radekosmulski/status/1340705699521769474))
 - [OpenNMT](https://opennmt.net/) - Open source ecosystem for neural machine translation and neural sequence learning. ([GitHub](https://github.com/OpenNMT))
 - [How much hyperparameter tuning do you typically end up doing? (2020)](https://www.reddit.com/r/MachineLearning/comments/khyk9r/d_for_those_in_the_industry_how_much/)
-- [ZenML](https://github.com/maiot-io/zenml) - Extensible, open-source MLOps framework for using production-ready Machine Learning pipelines.
+- [ZenML](https://github.com/zenml-io/zenml) - Extensible, open-source MLOps framework for using production-ready Machine Learning pipelines. ([Web](https://zenml.io/home))
 - [MIT Parallel Computing and Scientific Machine Learning course (2020)](https://github.com/mitmath/18337)
 - [Invariant Risk Minimization (2019)](https://arxiv.org/abs/1907.02893v1) ([Code](https://github.com/facebookresearch/InvariantRiskMinimization))
 - [Awesome Federated Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning)
@@ -814,3 +814,4 @@
 - [MLU-Explain](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts. ([HN](https://news.ycombinator.com/item?id=31455919))
 - [Planning with Diffusion for Flexible Behavior Synthesis (2022)](https://diffusion-planning.github.io/) ([Code](https://github.com/jannerm/diffuser))
 - [Solutions to Recommender Systems competitions](https://github.com/NVIDIA-Merlin/competitions)
+- [Recipe for a General, Powerful, Scalable Graph Transformer (2022)](https://arxiv.org/abs/2205.12454) ([Code](https://github.com/rampasek/GraphGPS))

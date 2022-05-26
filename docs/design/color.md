@@ -165,3 +165,4 @@
 - [The Color API](https://www.thecolorapi.com/) - Pass in any valid color and get conversion into any other format, the name of the color, placeholder images and a multitude of schemes. ([Code](https://github.com/andjosh/thecolorapi))
 - [distinctipy](https://github.com/alan-turing-institute/distinctipy) - Lightweight package for generating visually distinct colors.
 - [Plasma](https://royaltm.github.io/rust-plasma/) - Eye-candy pixel plasma randomized generator - for the desktop and the web. ([Code](https://github.com/royaltm/rust-plasma))
+- [Image editors often get color wrong (2022)](https://papaya.io/blog/perceptual-blending) ([HN](https://news.ycombinator.com/item?id=31511928))

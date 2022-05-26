@@ -11,6 +11,7 @@ title: Kotlin
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked by AirTags and Find My accessories. ([HN](https://news.ycombinator.com/item?id=28577951))
 - [Delight-Playground](https://github.com/kasem-sm/RocketXDelight-Playground) - Native android app made with Kotlin & Jetpack Compose with example usage of Ktor, SqlDelight, Hilt.
 - [Mobile Kotlin multiplatform project template](https://github.com/icerockdev/moko-template)
+- [My Brain](https://github.com/mhss1/MyBrain) - Open-source, All-in-one productivity app for Tasks, Notes, Calendar, Diary and Bookmarks.
 
 ## Links
 

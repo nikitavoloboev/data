@@ -317,3 +317,4 @@ title: WebAssembly
 - [WebAssembly for Proxies (ABI specification)](https://github.com/proxy-wasm/spec) - Specification of the low-level Application Binary Interface (ABI) and conventions to use between L4/L7 proxies (and/or other host environments) and their extensions delivered as WebAssembly modules. ([Zig SDK](https://github.com/mathetake/proxy-wasm-zig-sdk))
 - [Karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
 - [WASI Native Threads API](https://github.com/WebAssembly/wasi-native-threads)
+- [Content Security Policy Proposal for WebAssembly](https://github.com/WebAssembly/content-security-policy)

@@ -108,3 +108,4 @@
 - [Reverse-engineering the waveform generator in a 1969 breadboard (2022)](https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html) ([HN](https://news.ycombinator.com/item?id=30617896))
 - [IDA2Obj](https://github.com/jhftss/IDA2Obj) - Tool to implement SBI (Static Binary Instrumentation).
 - [delsum](https://github.com/8051Enthusiast/delsum) - Reverse engineer's checksum toolbox.
+- [Advanced Binary Deobfuscation](https://github.com/malrev/ABD)

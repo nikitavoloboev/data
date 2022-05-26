@@ -215,5 +215,5 @@ title: SwiftUI
 - [Exploring SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps)
 - [The SwiftUI Series](https://www.swiftuiseries.com/) - Week-long event to learn, compete and socialise in the world of SwiftUI. ([Twitter](https://twitter.com/swiftuiseries))
 - [SwiftUI Workarounds](https://github.com/SwiftUI-Series/workarounds) ([Video](https://www.youtube.com/watch?v=cheFeVPwPlc))
-- [Problems with SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/) ([Tweet](https://twitter.com/mjtsai/status/1529178695008669699)) ([HN](https://news.ycombinator.com/item?id=31504354))
+- [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/) ([Tweet](https://twitter.com/mjtsai/status/1529178695008669699)) ([HN](https://news.ycombinator.com/item?id=31504354))
 - [Markdown rendering using Text in SwiftUI (2022)](https://www.avanderlee.com/swiftui/markdown-text/)

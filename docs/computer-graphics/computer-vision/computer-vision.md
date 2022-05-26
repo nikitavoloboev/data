@@ -765,3 +765,4 @@
 - [MMDetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
 - [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/) ([Tweet](https://twitter.com/JeffDean/status/1528951937948741632)) ([Code](https://github.com/lucidrains/imagen-pytorch)) ([HN](https://news.ycombinator.com/item?id=31484562)) ([HN](https://news.ycombinator.com/item?id=31513919))
 - [An End-to-End Transformer Model for 3D Object Detection (2021)](https://arxiv.org/abs/2109.08141) ([Code](https://github.com/facebookresearch/3detr))
+- [Neural 3D Reconstruction in the Wild (2022)](https://arxiv.org/abs/2205.12955) ([Code](https://github.com/zju3dv/NeuralRecon-W))

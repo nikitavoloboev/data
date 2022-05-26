@@ -219,3 +219,4 @@
 - [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/uptguy/introduction_to_compilers_and_language_design/)) ([HN](https://news.ycombinator.com/item?id=31388741))
 - [Ask HN: Recommendation for general purpose JIT compiler (2022)](https://news.ycombinator.com/item?id=31389024)
 - [Monadic Compiler Calculation (2022)](http://www.cs.nott.ac.uk/~pszgmh/ccc3.pdf)
+- [Podcast: PhD research on meta programming and static analyzers (2022)](https://changelog.com/gotime/227)

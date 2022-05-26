@@ -230,3 +230,4 @@ All active variables can be seen by running `env`.
 - [RESH: Rich Enhanced Shell History](https://github.com/curusarn/resh) - Contextual shell history for Zsh and Bash. ([HN](https://news.ycombinator.com/item?id=31400557))
 - [Everything you ever wanted to know about terminals (but were afraid to ask)](http://xn--rpa.cc/irl/term.html) ([HN](https://news.ycombinator.com/item?id=31415937))
 - [GameShell](https://github.com/phyver/GameShell) - Game to learn (or teach) how to use standard commands in a Unix shell. ([HN](https://news.ycombinator.com/item?id=31502917))
+- [Shell Patterns for Easy Automated Code Migrations](https://will-keleher.com/posts/tricks-for-automated-code-migrations.html) ([HN](https://news.ycombinator.com/item?id=31506729))

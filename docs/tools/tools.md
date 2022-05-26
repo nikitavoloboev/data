@@ -706,3 +706,5 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Secret](https://www.joinsecret.com/) - Software Deals for Startups & Entrepreneurs.
 - [Starstruck.dev](https://starstruck.dev/) - Stay up to date with the best developer tools. ([Code](https://github.com/morrisclay/starstruck.dev))
 - [Ask HN: What developer tools would you like to see? (2022)](https://news.ycombinator.com/item?id=31466885)
+- [Ask HN: Honest thoughts on no-code or low-code solutions? (2022)](https://news.ycombinator.com/item?id=31508130)
+- [Ask HN: What fun have you had with tech recently? (2022)](https://news.ycombinator.com/item?id=31505959)

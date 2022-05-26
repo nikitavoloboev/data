@@ -172,3 +172,4 @@ title: Vue.js
 - [Vue k bar](https://github.com/bytebase/vue-kbar) - Extensible command+k interface for Vue 3 applications.
 - [Server functions RPC in client for Nuxt 3](https://github.com/antfu/nuxt-server-fn)
 - [tRPC-Nuxt](https://github.com/wobsoriano/trpc-nuxt) - End-to-end typesafe APIs with tRPC.io in Nuxt applications.
+- [Vue3 Composition API: watchEffect vs. watch (2022)](https://blog.openreplay.com/vue3-composition-api-watcheffect-vs-watch)

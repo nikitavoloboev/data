@@ -1,6 +1,6 @@
 # ML Models
 
-[Tangram](https://www.tangram.dev/) & [PostgresML](https://github.com/postgresml/postgresml) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
+[Tangram](https://www.tangram.dev/), [PostgresML](https://github.com/postgresml/postgresml) & [ZenML](https://zenml.io/home) seem neat. Using [Cog](https://github.com/replicate/cog) to package ML models.
 
 ## Links
 

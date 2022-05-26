@@ -181,3 +181,4 @@
 - [ProxImaL](https://github.com/comp-imaging/ProxImaL) - Python-embedded modeling language for image optimization problems.
 - [Announcing the Cloudflare Images Sourcing Kit (2022)](https://blog.cloudflare.com/cloudflare-images-sourcing-kit/)
 - [Deno Deploy Scale Image](https://github.com/syumai/deno-deploy-scale-image) - Image scaling app built on Deno Deploy and Go WebAssembly.
+- [Papaya](https://papaya.io/) - Image editing right in your browser.

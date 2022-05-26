@@ -624,3 +624,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Foundry-Hardhat plugins](https://github.com/foundry-rs/hardhat)
 - [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - Collection of practical security-focused guides and checklists for smart contract development.
 - [dApp Starter](https://github.com/m1guelpf/dapp-starter) - Starter kit is composed of Next.js and Tailwind CSS, with RainbowKit, ethers, & wagmi for all your web3 needs.
+- [Subspace](https://github.com/embarklabs/subspace) - Library for Reactive Dapp Development with auto syncing and caching capabilities.

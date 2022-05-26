@@ -124,3 +124,5 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Farside](https://github.com/benbusby/farside) - Redirecting service for FOSS alternative frontends.
 - [Ask HN: How to move away from Google (2022)](https://news.ycombinator.com/item?id=30859680)
 - [Hitchhiker's Guide to Online Anonymity](https://github.com/NobodySpecial256/thgtoa)
+- [Lowering the cost of anonymization (2020)](https://desfontain.es/thesis/)
+- [Janus](https://github.com/divviup/janus) - Experimental implementation of the Privacy Preserving Measurement (PPM) specification.

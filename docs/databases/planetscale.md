@@ -23,3 +23,4 @@ title: Planetscale
 - [PlanetScale: Principles for the Future Database](https://principles.planetscale.com/) ([HN](https://news.ycombinator.com/item?id=31481175))
 - [Collection of PlanetScale connection examples](https://github.com/planetscale/connection-examples)
 - [PlanetScale Portals: Read-only regions (2022)](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions) ([HN](https://news.ycombinator.com/item?id=31493881))
+- [ELT your data with PlanetScale Connect (2022)](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect) ([HN](https://news.ycombinator.com/item?id=31507819))
