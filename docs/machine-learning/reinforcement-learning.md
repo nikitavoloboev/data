@@ -362,3 +362,4 @@ title: Reinforcement learning
 - [Alpha Zero and Monte Carlo Tree Search](http://joshvarty.github.io/AlphaZero/) - Absolute most basic example of AlphaZero and Monte Carlo Tree Search. ([Code](https://github.com/JoshVarty/AlphaZeroSimple))
 - [Scalable Deep Reinforcement Learning Algorithms for Mean Field Games (2022)](https://arxiv.org/abs/2203.11973)
 - [RL4Rec](https://github.com/BetsyHJ/RL4Rec) - Toolkit of Reinforcement Learning based Recommendation.
+- [Brain Agent](https://github.com/kakaobrain/brain_agent) - Large-Scale and Multi-Task Agent Learning.

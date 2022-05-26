@@ -510,3 +510,4 @@ title: GitHub actions
 - [GitHub Actions Security Best Practices (2022)](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 - [Manual Workflow Approval](https://github.com/trstringer/manual-approval) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing.
 - [GitHub Actions job summaries (2022)](https://til.simonwillison.net/github-actions/job-summaries) ([Tweet](https://twitter.com/simonw/status/1526337395334885377))
+- [GitHub Action - Store variables between your jobs](https://github.com/UnlyEd/github-action-store-variable)

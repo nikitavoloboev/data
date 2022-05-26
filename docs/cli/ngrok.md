@@ -23,3 +23,4 @@ If I started my local server on port 3000. This command: `ngrok http 3000` will 
 - [JPRQ](https://github.com/azimjohn/jprq) - Get Your Localhost Online and HTTPS. Ngrok Alternative.
 - [Roll your own Ngrok with Nginx, Letsencrypt, and SSH reverse tunnelling (2019)](https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html) ([HN](https://news.ycombinator.com/item?id=30891494))
 - [Rslocal](https://github.com/saltbo/rslocal) - Like ngrok built in Rust, it builds a tunnel to localhost.
+- [Tunnel.pyjam.as](https://tunnel.pyjam.as/) - HTTP tunnels without custom software thanks to WireGuard. ([HN](https://news.ycombinator.com/item?id=31511445))

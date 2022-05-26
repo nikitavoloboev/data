@@ -495,6 +495,7 @@
   - [AWS](docs/cloud-computing/aws/aws.md)
     - [AWS Amplify](docs/cloud-computing/aws/aws-amplify.md)
   - [GCP](docs/cloud-computing/gcp/gcp.md)
+  - [Fly.io](docs/cloud-computing/fly-io.md)
   - [Azure](docs/cloud-computing/azure/azure.md)
 - [Front End](docs/front-end/front-end.md)
   - [HTML](docs/front-end/html.md)

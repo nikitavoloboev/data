@@ -1886,6 +1886,7 @@
 - [arboard](https://github.com/1Password/arboard) - Cross-platform library for interacting with the clipboard.
 - [midir](https://github.com/Boddlnagg/midir) - Cross-platform, real time MIDI processing in Rust.
 - [os_info](https://github.com/stanislav-tkach/os_info) - Rust library to detect the operating system type.
+- [quad-snd](https://github.com/not-fl3/quad-snd) - High-level, light-weight, and opinionated audio library.
 
 ## Cargo Plugins
 

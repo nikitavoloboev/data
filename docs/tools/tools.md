@@ -38,7 +38,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Pulse](https://pulse.so/) - Keep Remote Teams Aligned No Matter When & Where. ([Twitter](https://twitter.com/leonardofed/status/1264980016850513920))
 - [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
 - [Split](https://www.split.io/) - Feature Delivery Platform for engineering teams that want to confidently release features.
-- [Muse](https://museapp.com/) - iPad sketchbook. ([HN](https://news.ycombinator.com/item?id=24294397))
+- [Muse](https://museapp.com/) - Tool for Thought on iPad and Mac. ([HN](https://news.ycombinator.com/item?id=24294397)) ([HN](https://news.ycombinator.com/item?id=31491928)) ([HN](https://news.ycombinator.com/item?id=31494498))
 - [MentorCruise](https://mentorcruise.com/) - Connecting Mentors & Mentees in Tech.
 - [Linear](https://linear.app/) - Issue tracking tool you'll enjoy using. ([HN](https://news.ycombinator.com/item?id=23693029)) ([Awesome](https://github.com/dalys/awesome-linear)) ([CLI](https://github.com/evangodon/linear-cli))
 - [Reploy](https://getreploy.com/) - Staging environments done right. ([HN](https://news.ycombinator.com/item?id=23917956))

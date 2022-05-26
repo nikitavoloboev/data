@@ -230,3 +230,4 @@
 - [Differentiable Signed Distance Function Rendering (2022)](http://rgl.epfl.ch/publications/Vicini2022SDF) ([HN](https://news.ycombinator.com/item?id=31314051)) ([Code](https://github.com/lucidrains/differentiable-SDF-pytorch))
 - [Real-Time Polygonal-Light Shading with Linearly Transformed Cosines](https://eheitzresearch.wordpress.com/415-2/) ([Code](https://github.com/YuqiaoZhang/LTC))
 - [Multi-platform experiments in framebuffer drawing performance (2021)](http://nuclear.mutantstargoat.com/blog/100-fbperf_experiments.html)
+- [Basic fact all graphics coders should know](https://twitter.com/keenanisalive/status/1529490555893428226)

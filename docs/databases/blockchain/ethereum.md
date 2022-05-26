@@ -615,7 +615,7 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Ethereum gas optimization tips (2022)](https://twitter.com/WillPapper/status/1520592312379658241)
 - [Huff](https://github.com/JetJadeja/huffc) - Low level programming language for the Ethereum Virtual Machine.
 - [eth-pools-metrics](https://github.com/alrevuelta/eth-metrics) - Monitor the performance of your Ethereum 2.0 staking pool.
-- [RainbowKit](https://github.com/rainbow-me/rainbowkit) - Best way to connect a wallet. ([Web](https://www.rainbowkit.com/)) ([Tweet](https://twitter.com/rainbowdotme/status/1522276598925467649))
+- [RainbowKit](https://github.com/rainbow-me/rainbowkit) - Best way to connect a wallet. ([Web](https://www.rainbowkit.com/)) ([Tweet](https://twitter.com/rainbowdotme/status/1522276598925467649)) ([Examples](https://github.com/rainbow-me/rainbowkit-examples))
 - [ExcessivelySafeCall](https://github.com/nomad-xyz/ExcessivelySafeCall) - Solidity library helps you call untrusted contracts safely.
 - [Anvil](https://twitter.com/gakonst/status/1522282339073597440) - Blazing-fast local testnet node implementation, in Rust.
 - [mev-boost-rs](https://github.com/ralexstokes/mev-boost-rs) - Gateway for validators to connect to a network of block builders.
@@ -623,3 +623,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Dollar auction implementation in Solidity](https://github.com/m1guelpf/dollar-auction.sol)
 - [Foundry-Hardhat plugins](https://github.com/foundry-rs/hardhat)
 - [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - Collection of practical security-focused guides and checklists for smart contract development.
+- [dApp Starter](https://github.com/m1guelpf/dapp-starter) - Starter kit is composed of Next.js and Tailwind CSS, with RainbowKit, ethers, & wagmi for all your web3 needs.

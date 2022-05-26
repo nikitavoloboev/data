@@ -85,3 +85,4 @@ Here are tools I use for streaming:
 - [Live Streaming Architecture (2017)](https://www.youtube.com/watch?v=RvsaosnEHWc)
 - [LAL](https://github.com/q191201771/lal) - Audio/video live streaming broadcast server written in Go.
 - [VDO Ninja](https://vdo.ninja/)
+- [SonoBus](https://www.sonobus.net/) - High-quality, low-latency peer-to-peer audio. ([HN](https://news.ycombinator.com/item?id=31505323))

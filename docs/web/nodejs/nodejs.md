@@ -390,3 +390,4 @@ title: Node.js
 - [Node Task List](https://github.com/ruyadorno/ntl) - Interactive CLI to list and run package.json scripts.
 - [HatTip](https://github.com/hattipjs/hattip) - Like Express, but for the future.
 - [Sidewinder](https://github.com/sinclairzx81/sidewinder) - Type Safe Micro Services for Node.
+- [Lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.

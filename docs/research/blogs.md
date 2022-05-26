@@ -152,6 +152,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
 - [EGOIST](https://egoist.sh/)
 - [Ahmad Shadeed](https://ishadeed.com/)
+- [Anirudh Oppiliappan](https://icyphox.sh/blog/)
 
 ## Notes
 

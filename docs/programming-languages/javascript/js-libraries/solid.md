@@ -20,6 +20,7 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 ## Notes
 
 - [To me the biggest difference between React and Solid is that things that can change are wrapped in signals in Solid, and in dependencies arrays in React.](https://twitter.com/fabiospampinato/status/1528537000504184834)
+- [Components are rendered only once and are there pretty much to organize the code. The built-in components (Show, For) are awesome and should be used instead of following React-type patterns (multiple dynamic returns, map(), etc).](https://www.youtube.com/watch?v=Ilf34WjMBkU)
 
 ## Links
 
@@ -82,3 +83,4 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 - [Solid Native](https://github.com/MrFoxPro/solid-nativescript-experiments) - NativeScript bindings for Solid.JS.
 - [Solid Templates (using Vite)](https://github.com/solidjs/templates)
 - [Solid Heroicons](https://github.com/amoutonbrady/solid-heroicons)
+- [SolidJS - YouTube](https://www.youtube.com/channel/UCXsRnrbzIX8KHdf86PE241Q/videos)

@@ -19,3 +19,4 @@ title: swc
 - [swc-plugin-console-prefix](https://github.com/williamtetlow/swc-plugin-console-prefix) - SWC Transform to prefix logs. Useful for adding file and line number to logs.
 - [storybook-addon-swc](https://github.com/Karibash/storybook-addon-swc) - Storybook add-on to enable SWC builds.
 - [SWC Viewer](https://github.com/IvanRodriCalleja/swc-viewer) - CLI tool that runs a desktop application in order to give a fast visual feedback to swc developers about the transformations they are developing.
+- [SWC CSS Playground](https://swc-css.netlify.app/) ([Code](https://github.com/g-plane/swc-css-playground))

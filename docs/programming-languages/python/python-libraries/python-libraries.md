@@ -308,7 +308,7 @@
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python. ([How to use Flask with gevent (uWSGI and Gunicorn editions)](https://iximiuz.com/en/posts/flask-gevent-tutorial/))
 - [Meshio](https://github.com/nschloe/meshio) - I/O for mesh files.
 - [Streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python.
-- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing. ([How Hypothesis Works](https://hypothesis.works/articles/how-hypothesis-works/))
+- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing. ([How Hypothesis Works](https://hypothesis.works/articles/how-hypothesis-works/)) ([Web](https://hypothesis.works/)) ([Lobsters](https://lobste.rs/s/8ofiem/python_hypothesis_property_based))
 - [kombu](https://github.com/celery/kombu) - Messaging library for Python.
 - [GPUtil](https://github.com/anderskm/gputil) - Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python.
 - [anosql](https://github.com/honza/anosql) - Easy SQL in Python.
@@ -1025,3 +1025,4 @@
 - [Python Standard Library changes in recent years](https://antonz.org/python-stdlib-changes/) ([HN](https://news.ycombinator.com/item?id=31434078))
 - [The unreasonable effectiveness of f-strings and re.verbose (2022)](https://death.andgravity.com/f-re) ([HN](https://news.ycombinator.com/item?id=31457188))
 - [Writing Python modules in Zig](https://www.reddit.com/r/Zig/comments/k2bv2j/writing_python_modules_in_zig/)
+- [Import Tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library. ([HN](https://news.ycombinator.com/item?id=31507106))

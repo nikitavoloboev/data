@@ -523,6 +523,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [AMQP-client.js](https://github.com/cloudamqp/amqp-client.js) - AMQP 0-9-1 TypeScript client both for Node.js and browsers (using WebSocket).
 - [Hilbert.ts](https://github.com/mathigon/hilbert.js) - TypeScript library for expression parsing, simplification, and MathML rendering.
 - [QR Code Styling](https://github.com/kozakdenys/qr-code-styling) - Automatically generate your styled QR code in your web app. ([Web](https://qr-code-styling.com/))
+- [StableLib](https://github.com/StableLib/stablelib) - Stable library of useful TypeScript/JavaScript code.
+- [JSON Infer Types](https://github.com/jsonhero-io/json-infer-types) - Infers the type and format of JSON values.
 
 ## Links
 

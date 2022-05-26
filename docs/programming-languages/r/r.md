@@ -165,3 +165,4 @@
 - [skimr](https://github.com/ropensci/skimr) - Frictionless, pipeable approach to dealing with summary statistics.
 - [swiftr](https://github.com/hrbrmstr/swiftr) - Seamless R and Swift Integration.
 - [Fast Lane to Learning R](https://github.com/matloff/fasteR) ([HN](https://news.ycombinator.com/item?id=31385554))
+- [pak](https://github.com/r-lib/pak) - Fresh Approach to R Package Installation.

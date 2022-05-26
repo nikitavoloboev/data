@@ -781,3 +781,4 @@ if err != nil {
 - [Operator constraints in Go (2022)](https://blog.merovius.de/posts/2022-05-23-operator-constraints/) ([HN](https://news.ycombinator.com/item?id=31482256))
 - [Go Nulls and SQL (2022)](https://ente.io/blog/tech/go-nulls-and-sql/) ([HN](https://news.ycombinator.com/item?id=31467077))
 - [We Already Have Go 2 (2022)](https://christine.website/blog/we-have-go-2) ([Lobsters](https://lobste.rs/s/uh9qvb/we_already_have_go_2))
+- [Debugging Go applications with Delve Workshop](https://github.com/develersrl/debugging-with-delve)

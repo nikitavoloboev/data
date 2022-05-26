@@ -616,3 +616,5 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Docker DB Backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple databases types on a scheduled basis with many customizable options.
 - [Databases = Frameworks for Distributed Systems (2022)](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31459745))
 - [Ditto](https://www.ditto.live/) - Sync without Internet. ([Twitter](https://twitter.com/dittolive))
+- [DBngin](https://dbngin.com/) - All-in-One Database Version Management Tool. ([Code](https://github.com/TablePlus/DBngin))
+- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)

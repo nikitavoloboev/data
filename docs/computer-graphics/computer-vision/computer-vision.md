@@ -1,6 +1,6 @@
 # Computer vision
 
-[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) seems like a great library.
+[LiT (Locked-image Tuning)](https://twitter.com/giffmana/status/1508400604082806785) paper is neat. Trying to understand [Vision Transformers](https://github.com/lucidrains/vit-pytorch). [Kornia](https://github.com/kornia/kornia) seems like a great library. [Imagen](https://github.com/lucidrains/imagen-pytorch) is fascinating.
 
 ## Links
 
@@ -763,5 +763,5 @@
 - [Unsupervised Semantic Segmentation by Distilling Feature Correspondences (2022)](https://arxiv.org/abs/2203.08414) ([Code](https://github.com/mhamilton723/STEGO))
 - [RecursiveMix: Mixed Learning with History (2022)](https://arxiv.org/abs/2203.06844) ([Code](https://github.com/implus/RecursiveMix-pytorch))
 - [MMDetection3d](https://github.com/open-mmlab/mmdetection3d) - OpenMMLab's next-generation platform for general 3D object detection.
-- [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/) ([Tweet](https://twitter.com/JeffDean/status/1528951937948741632)) ([Code](https://github.com/lucidrains/imagen-pytorch)) ([HN](https://news.ycombinator.com/item?id=31484562))
+- [Imagen: Text-to-Image Diffusion Models](https://imagen.research.google/) ([Tweet](https://twitter.com/JeffDean/status/1528951937948741632)) ([Code](https://github.com/lucidrains/imagen-pytorch)) ([HN](https://news.ycombinator.com/item?id=31484562)) ([HN](https://news.ycombinator.com/item?id=31513919))
 - [An End-to-End Transformer Model for 3D Object Detection (2021)](https://arxiv.org/abs/2109.08141) ([Code](https://github.com/facebookresearch/3detr))

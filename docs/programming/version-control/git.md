@@ -1,6 +1,6 @@
 # Git
 
-I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat.
+I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git. [Josh](https://github.com/josh-project/josh) seems neat. [Think Like Git](https://tacaswell.github.io/think-like-git.html) is a great read.
 
 ## Notes
 
@@ -538,3 +538,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GitArena](https://github.com/mellowagain/gitarena) - Software development platform with built-in vcs, issue tracking and code review.
 - [git-recover](https://github.com/ethomson/git-recover) -Git-recover: recover deleted files in your repository.
 - [Proper Use of Git Tags (2022)](https://blog.aloni.org/posts/proper-use-of-git-tags/) ([HN](https://news.ycombinator.com/item?id=31480306))
+- [Think Like Git (2022)](https://tacaswell.github.io/think-like-git.html)

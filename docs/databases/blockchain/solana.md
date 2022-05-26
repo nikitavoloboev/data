@@ -273,3 +273,5 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Consider increasing fees for writable accounts](https://github.com/solana-labs/solana/issues/21883) ([Tweet](https://twitter.com/aeyakovenko/status/1529088076810625025))
 - [Build your own store with Solana Pay](https://buildspace.so/p/build-solana-pay-store) ([Code](https://github.com/buildspace/solana-pay-starter))
 - [Cardinal Protocol](https://www.cardinal.so/) - Offers numerous methods to customize the expiry and transferrability of the issued NFT.
+- [Solita](https://github.com/metaplex-foundation/solita) - Genrates an SDK API from solana contract IDL.
+- [Wonka JS](https://github.com/wonka-labs/wonka-js) - Easiest way to mint Metaplex's Candy Machine NFTs with APIs.

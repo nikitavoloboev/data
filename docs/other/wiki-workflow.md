@@ -501,3 +501,4 @@ I want to:
 - [Harika](https://github.com/quolpr/harika) - Offline-first, performance-focused note taking app for organizing your knowledge database.
 - [Digital Garden theme for Hugo](https://github.com/apvarun/digital-garden-hugo-theme)
 - [Lepiter: Knowledge Mgmt and Multi-Lang Notebooks and Moldable Dev](https://lepiter.io/feenk/introducing-lepiter--knowledge-management--e2p6apqsz5npq7m4xte0kkywn/)
+- [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground (2022)](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/) ([HN](https://news.ycombinator.com/item?id=31507132))

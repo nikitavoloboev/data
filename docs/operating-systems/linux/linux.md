@@ -537,3 +537,4 @@ the execution time on all cores of a multi-core processor.
 - [Linux for Networking Professionals Book (2021)](https://www.packtpub.com/product/linux-for-networking-professionals/9781800202399) ([Code](https://github.com/PacktPublishing/Linux-for-Networking-Professionals))
 - [Cobbler](https://github.com/cobbler/cobbler) - Linux installation server that allows for rapid setup of network installation environments.
 - [strace](https://github.com/strace/strace) - Diagnostic, debugging and instructional userspace utility for Linux.
+- [eBPF (extended Berkeley Packet Filter) Guide](https://github.com/mikeroyal/eBPF-Guide)
