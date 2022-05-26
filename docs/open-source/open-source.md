@@ -6,7 +6,7 @@ title: Open Source
 
 The key to success in open source lies in understanding that it's not just about software, it's about the people (great and clear communication with proper documentation).
 
-Dan has great tips on what it means to be [high quality software maintainers](https://twitter.com/dan_abramov/status/1463718359262973953).
+Dan has great tips on what it means to be [high quality software maintainers](https://twitter.com/dan_abramov/status/1463718359262973953). [Anthony Fu's contribution guide](https://github.com/antfu/contribute) is great.
 
 ## Nice contributing pages
 
@@ -234,3 +234,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Awesome OSS Monetization](https://github.com/PayDevs/awesome-oss-monetization)
 - [Monetizing your open source project using dual licensing](https://twitter.com/SachinNeravath/status/1524736567377424389)
 - [Transform to OPen Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science)
+- [Anthony Fu's contribution guide](https://github.com/antfu/contribute)

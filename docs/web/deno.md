@@ -256,3 +256,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [deno_numpy](https://github.com/tjosepo/deno_numpy) - NumPy for Deno.
 - [Danet](https://github.com/Savory/Danet) - Deno web framework.
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager.
+- [Deno Updater Proxy](https://github.com/lemarier/updater-deno) - Sample PoC for Tauri updater using deno deploy or cloudflare workers.

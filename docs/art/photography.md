@@ -7,6 +7,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 ## Interesting cameras
 
 - [Leica M11](https://leica-camera.com/en-int/photography/cameras/m/m11-black)
+- [Leica Q2](https://leica-camera.com/en-US/photography/cameras/q/q2-black) ([Review](https://www.youtube.com/watch?v=Mm2N8tOJSx0))
 - [Sony Alpha 1](https://alphauniverse.com/stories/sony-announces-the-alpha-1/)
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
 - [Pentax 67](https://www.reddit.com/search?q=Pentax%2067&sort=relevance&t=all)

@@ -102,3 +102,4 @@ I love that Tezos has an [efficient working proof of stake consensus algorithm](
 - [Nix flakes for Tezos](https://github.com/marigold-dev/tezos-nix)
 - [NFT Image Proxy](https://github.com/Cryptonomic/ImageProxy) - Supporting automatic content moderation for use with Tezos Wallets and other applications in the ecosystem.
 - [Teztnets](https://github.com/oxheadalpha/teztnets) - Infrastructure-as-code repo to activate and bootstrap Tezos testnets in a repeatable, automated way.
+- [Trezor Suite Monorepo](https://github.com/trezor/trezor-suite)

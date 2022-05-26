@@ -94,3 +94,4 @@
 - [NannyML](https://github.com/NannyML/nannyml) - Detecting silent model failure.
 - [Pydra - Pydantic and Hydra for configuration management of model training experiments (2022)](https://suneeta-mall.github.io/2022/03/15/hydra-pydantic-config-management-for-training-application.html)
 - [BlindAI](https://github.com/mithril-security/blindai) - Confidential AI inference server.
+- [Vertigo](https://vertigo.ai/) - AI for IoT & The Edge.

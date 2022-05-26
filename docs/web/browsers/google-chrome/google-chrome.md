@@ -93,3 +93,4 @@ And here are Chrome extensions I use:
 - [Form troubleshooter](https://github.com/GoogleChromeLabs/form-troubleshooter) - Chrome extension to find and fix common form problems.
 - [Nice Chrome extension templates with esbuild (2022)](https://twitter.com/tylerangert/status/1527003106185207808)
 - [Jiffy Reader](https://www.jiffyreader.com/) - Chrome Extension for Bionic Reading on ANY website. ([Code](https://github.com/ansh/bionic-reading))
+- [Google Chrome for AWS Lambda as a layer](https://github.com/shelfio/chrome-aws-lambda-layer) - 45 MB Google Chrome to fit inside AWS Lambda Layer compressed with Brotli.

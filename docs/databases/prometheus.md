@@ -83,3 +83,4 @@ title: Prometheus
 - [Fastly Exporter](https://github.com/fastly/fastly-exporter) - Prometheus exporter for the Fastly Real-time Analytics API.
 - [Gravel Gateway](https://github.com/sinkingpoint/prometheus-gravel-gateway) - Prometheus Push Gateway for FAAS applications.
 - [Tesla Prometheus Exporter](https://github.com/wywywywy/tesla-prometheus-exporter)
+- [CloudFlare Prometheus exporter](https://github.com/lablabs/cloudflare-exporter)

@@ -364,3 +364,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [YouTubeDrive](https://github.com/dzhang314/YouTubeDrive) - Store Files as YouTube Videos. ([HN](https://news.ycombinator.com/item?id=31495049))
 - [VideoMentions](https://videomentions.com/search) - Search YouTube based on the spoken words in videos. ([HN](https://news.ycombinator.com/item?id=31504002))
 - [Introducing Real-Time Video | Mux (2022)](https://www.mux.com/blog/introducing-real-time-video)
+- [Vertigo.ai Focus](https://vertigo.ai/focus/) - AI & GPU video CODEC that enables hi-def face to face interactions over low-bandwidth links. ([HN](https://news.ycombinator.com/item?id=31516108))

@@ -1654,6 +1654,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [debounce](https://github.com/bep/debounce) - Debouncer written in Go.
 - [Parquet](https://github.com/parsyl/parquet) - Library for reading and writing parquet files.
 - [i18n](https://github.com/kataras/i18n) - High-performant and powerful localization and internationalization support for Go.
+- [statik](https://github.com/rakyll/statik) - Embed files into a Go executable.
 
 ## Links
 

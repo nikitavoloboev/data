@@ -50,3 +50,4 @@ title: Perl
 - [Perl Saved the Human Genome Project (1996)](https://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) ([HN](https://news.ycombinator.com/item?id=30327812))
 - [Higher-Order Perl: Transforming Programs with Programs](https://hop.perl.plover.com/book/)
 - [Higher-Order Perl Book](https://hop.perl.plover.com/) ([HN](https://news.ycombinator.com/item?id=31201399))
+- [What Happened to Perl 7? (2022)](http://blogs.perl.org/users/perl_steering_council/2022/05/what-happened-to-perl-7.html) ([HN](https://news.ycombinator.com/item?id=31515787))

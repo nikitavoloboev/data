@@ -177,3 +177,4 @@
 - [Toast – Exploration of a notification component](https://emilkowal.ski/writing/toast)
 - [Tabs – Vercel's tab component with animated highlight on hover](https://emilkowal.ski/writing/tabs)
 - [Examples of great Dev UX](https://twitter.com/kelseyhightower/status/1527672023370985478)
+- [The Ultimate Guide To Push Notifications For Developers (2022)](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)

@@ -261,3 +261,4 @@
 - [Tiled](https://www.mapeditor.org/) - Flexible level editor. ([Code](https://github.com/mapeditor/tiled))
 - [Guide to implementing 2D platformers (2012)](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/) ([HN](https://news.ycombinator.com/item?id=31450218))
 - [Why did they throw the level designers under the bus?](https://www.youtube.com/watch?v=QGom--EtVfA)
+- [Behind the Pretty Frames: Elden Ring (2022)](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)

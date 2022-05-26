@@ -275,3 +275,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Cardinal Protocol](https://www.cardinal.so/) - Offers numerous methods to customize the expiry and transferrability of the issued NFT.
 - [Solita](https://github.com/metaplex-foundation/solita) - Genrates an SDK API from solana contract IDL.
 - [Wonka JS](https://github.com/wonka-labs/wonka-js) - Easiest way to mint Metaplex's Candy Machine NFTs with APIs.
+- [Most underrated builders on Solana (2022)](https://twitter.com/IcedKnife/status/1529667972880551937)
