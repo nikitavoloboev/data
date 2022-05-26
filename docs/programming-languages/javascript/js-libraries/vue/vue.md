@@ -17,6 +17,7 @@ title: Vue.js
 - [Vue Minesweeper](https://github.com/antfu/vue-minesweeper)
 - [VueTube](https://github.com/Frontesque/VueTube) - Open source YouTube client.
 - [VuePress Home Page](https://github.com/imfing/vuepress-homepage) - Elegant & friendly homepage (bio, tech portfolio, resume, doc...) template with Markdown and VuePress.
+- [Nuxt 3 + Medium (n3dium)](https://github.com/danielroe/n3dium)
 
 ## Notes
 

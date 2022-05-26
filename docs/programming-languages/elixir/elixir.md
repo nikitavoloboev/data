@@ -160,3 +160,4 @@
 - [A Guide to Event-Driven Architecture in Elixir (2022)](https://blog.appsignal.com/2022/05/10/a-guide-to-event-driven-architecture-in-elixir.html)
 - [DockYard Academy Elixir Guide](https://github.com/DockYard-Academy/beta_curriculum)
 - [Livebook for Elixir: Just What the Docs Ordered (2022)](https://blog.appsignal.com/2022/05/24/livebook-for-elixir-just-what-the-docs-ordered.html)
+- [Elixir Language Server (ElixirLS)](https://github.com/elixir-lsp/elixir-ls) ([Docs](https://elixir-lsp.github.io/elixir-ls/))

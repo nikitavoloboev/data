@@ -67,6 +67,7 @@ title: OCaml libraries
 ## Graphics
 
 - [Vg](https://github.com/dbuenzli/vg) - Declarative 2D vector graphics for OCaml.
+- [unicorn](https://github.com/art-w/unicorn) - Purely functional GUI algebra.
 
 ## Linux
 

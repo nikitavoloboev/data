@@ -133,7 +133,7 @@ title: Coq
 - [Bonak](https://github.com/artagnon/bonak) - Research project that formalizes semi-cubical types in Coq.
 - [Imp: Simple Imperative Programs](https://softwarefoundations.cis.upenn.edu/lf-current/Imp.html)
 - [Monadic Coq Compiler](https://github.com/mit-pdos/mcqc) - Alternative Coq compiler, by extraction to C++17. Written in Haskell.
-- [Noq](https://github.com/tsoding/Noq) - Simple expression transformer that is not Coq.
+- [Noq](https://github.com/tsoding/Noq) - Simple expression transformer that is not Coq. ([Dev Stream](https://www.youtube.com/watch?v=LjI8-JyR864))
 - [Falso](https://github.com/clarus/falso) - Proof of false in Coq. ([HN](https://news.ycombinator.com/item?id=9259790))
 - [ChickBlog](https://github.com/clarus/coq-chick-blog) - Blog engine written and proven in Coq.
 - [Practical Aspects of Monadic Equational Reasoning in Coq (2022)](https://prg.is.titech.ac.jp/wp-content/uploads/2022/03/saito2022ppl.pdf)

@@ -354,3 +354,5 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [Amazon Redshift re-invented (2022)](https://www.amazon.science/publications/amazon-redshift-re-invented) ([HN](https://news.ycombinator.com/item?id=31448846))
 - [Poro](https://github.com/9rnt/poro) - Scan publicly accessible assets on your AWS cloud environment.
 - [AWSS Bootstrap](https://awsbootstrap.io/) - Full stack on AWS in one click.
+- [OpenApiX](https://github.com/alma-cdk/openapix) - Combine the power of AWS CDK & OpenAPI YAML Schema Definitions.
+- [Amazon EKS Blueprints for CDK](https://github.com/aws-quickstart/cdk-eks-blueprints)

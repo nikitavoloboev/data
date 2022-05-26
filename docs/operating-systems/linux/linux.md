@@ -538,3 +538,4 @@ the execution time on all cores of a multi-core processor.
 - [Cobbler](https://github.com/cobbler/cobbler) - Linux installation server that allows for rapid setup of network installation environments.
 - [strace](https://github.com/strace/strace) - Diagnostic, debugging and instructional userspace utility for Linux.
 - [eBPF (extended Berkeley Packet Filter) Guide](https://github.com/mikeroyal/eBPF-Guide)
+- [Bad BPF](https://github.com/pathtofile/bad-bpf) - Collection of eBPF programs demonstrating bad behavior.
