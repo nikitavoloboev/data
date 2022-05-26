@@ -1,5 +1,7 @@
 # Payroll
 
+[Deel](https://www.letsdeel.com/) is [great](https://twitter.com/yongfook/status/1529731374424690688).
+
 ## Links
 
 - [Deel](https://www.letsdeel.com/) - Payroll for remote teams.

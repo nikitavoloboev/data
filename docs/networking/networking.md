@@ -484,3 +484,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [25 Gbit/s HTTP and HTTPS download speeds (2022)](https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/) ([Lobsters](https://lobste.rs/s/xdo53i/25_gbit_s_http_https_download_speeds))
 - [Meter](https://www.meter.com/) - Internet & WiFi for businesses. ([Building internet infrastructure into a utility](https://www.meter.com/blog/building-internet-infrastructure-into-a-utility)) ([Twitter](https://twitter.com/meter))
 - [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
+- [Using WebTransport (2020)](https://web.dev/webtransport/) - API offering low-latency, bidirectional, client-server messaging.

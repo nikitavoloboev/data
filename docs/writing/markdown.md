@@ -131,3 +131,4 @@
 - [github-md](https://github-md.com/) - Markdown parser API for GitHub. SWR for 2 days with revalidation every 5 minutes. ([Code](https://github.com/jacob-ebey/github-md))
 - [LetsMarkdown.com](https://letsmarkdown.com/) - Write Markdown. Together. ([Code](https://github.com/Cveinnt/LetsMarkdown.com))
 - [Free Markdown to HTML Converter](https://markdowntohtml.com/)
+- [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag) - Add Markdown to any HTML using a \<md\> tag.

@@ -400,6 +400,7 @@
 - [Flat](https://github.com/pubby/flat) - Flat containers for C++.
 - [AnyAny](https://github.com/kelbon/AnyAny) - C++20 library for comfortable and efficient dynamic polymorphism.
 - [RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++.
+- [userver](https://github.com/userver-framework/userver) - C++ Asynchronous Framework.
 
 ## Links
 

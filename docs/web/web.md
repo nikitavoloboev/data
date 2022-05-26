@@ -9,6 +9,7 @@
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.
 - [I often grab local versions of sites to experiment and learn from. You can get a site's html and all of the page's dependencies with a single wget command: `wget -H -E -k -p SOMEURL`](https://twitter.com/philhawksworth/status/1214942635300982785)
 - [Tips for keeping track of maintaining many websites as a solo-founder: 1: Re-use same architecture across all products. 2: Set up notifications for when things break. 3: Make it easy for customers to reach me. 4: Don't rely on dashboards. I'll forget to check them.](https://twitter.com/marckohlbrugge/status/1408056727057039369)
+- [When you select part of an insights graph the URL changes so you can share what you are seeing.](https://twitter.com/isamlambert/status/1529860098704650240)
 
 ## Links
 

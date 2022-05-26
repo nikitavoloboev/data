@@ -113,3 +113,5 @@ title: gRPC
 - [gRPC-Tools](https://github.com/bradleyjkemp/grpc-tools) - Suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 - [grpctl](https://github.com/joshcarp/grpctl) - Quickly generate a gRPC CLI or use gRPC reflection with ease.
 - [Go-gRPC](https://github.com/vladimirvivien/go-grpc) - Collection of gRPC and Go examples showcasing features of the framework.
+- [Camouflage](https://github.com/testinggospels/camouflage) - Backend mocking tool for HTTP, gRPC, Websockets and Thrift protocols. ([Docs](https://testinggospels.github.io/camouflage/))
+- [Why gRPC is great (2022)](https://twitter.com/kelseyhightower/status/1529573644262727680)

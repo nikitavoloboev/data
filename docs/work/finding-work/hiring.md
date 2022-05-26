@@ -12,6 +12,7 @@
 - [PFN Internship Coding Tasks](https://github.com/pfnet/intern-coding-tasks)
 - [Conduktor Coding Challenges](https://github.com/conduktor/conduktor-coding-challenge)
 - [Aztec Technical Challenge](https://github.com/AztecProtocol/interview-test)
+- [Teleport Careers](https://github.com/gravitational/careers)
 
 ## Nice Job pages
 

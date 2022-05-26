@@ -24,3 +24,4 @@ I add `[` to contacts that are top/favorite. I also add `del` as part of the nam
 - [The simple system I’m using to stay in touch with hundreds of people](https://jakobgreenfeld.com/stay-in-touch) ([HN](https://news.ycombinator.com/item?id=30329475))
 - [Nat](https://nat.app/) - Personal CRM for relationship building. ([HN](https://news.ycombinator.com/item?id=30836418))
 - [Personal CRM workflow/apps (2022)](https://twitter.com/Shpigford/status/1510650090368741378)
+- [Clay](https://clay.earth/) - Be more thoughtful with the people in your network.

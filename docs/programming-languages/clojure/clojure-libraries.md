@@ -32,6 +32,7 @@
 - [re-stated](https://github.com/mainej/re-stated) - Small and powerful toolset that brings state machines to re-frame.
 - [Coast](https://github.com/coast-framework/coast) - Fullest full stack Clojure web framework. ([Web](https://coast.swlkr.com/)) ([HN](https://news.ycombinator.com/item?id=30917772))
 - [hato](https://github.com/gnarroway/hato) - HTTP client for Clojure, wrapping JDK 11's HttpClient.
+- [Etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation.
 
 ## DB
 

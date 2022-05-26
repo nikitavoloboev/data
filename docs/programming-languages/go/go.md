@@ -783,3 +783,5 @@ if err != nil {
 - [We Already Have Go 2 (2022)](https://christine.website/blog/we-have-go-2) ([Lobsters](https://lobste.rs/s/uh9qvb/we_already_have_go_2))
 - [Debugging Go applications with Delve Workshop](https://github.com/develersrl/debugging-with-delve)
 - [Go Concurrency Exercises](https://github.com/loong/go-concurrency-exercises) - Exercises for Go's concurrency patterns.
+- [Nightly builds with GoReleaser and GitHub Actions (2022)](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f)
+- [Trail of Bits public Semgrep rules](https://github.com/trailofbits/semgrep-rules)

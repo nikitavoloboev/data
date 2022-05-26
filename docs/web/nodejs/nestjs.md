@@ -44,3 +44,5 @@ title: NestJS
 - [Nestia](https://github.com/samchon/nestia) - Automatic SDK and Document generator for NestJS.
 - [Nest Hackathon Starter](https://github.com/ahmetuysal/nest-hackathon-starter) - Includes Prisma, email verification, Passport-JWT authentication, Swagger and more.
 - [NestJs CRUD for RESTful APIs](https://github.com/nestjsx/crud)
+- [Nest GraphQL GraphQL Yoga driver](https://github.com/charlypoly/graphql-yoga-nestjs)
+- [Template repository for TypeScript backend server using NestJS/TypeORM](https://github.com/samchon/backend)

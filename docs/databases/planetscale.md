@@ -24,3 +24,4 @@ title: Planetscale
 - [Collection of PlanetScale connection examples](https://github.com/planetscale/connection-examples)
 - [PlanetScale Portals: Read-only regions (2022)](https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions) ([HN](https://news.ycombinator.com/item?id=31493881))
 - [ELT your data with PlanetScale Connect (2022)](https://planetscale.com/blog/extract-load-and-transform-your-data-with-planetscale-connect) ([HN](https://news.ycombinator.com/item?id=31507819))
+- [Introducing PlanetScale Insights: Advanced query monitoring (2022)](https://planetscale.com/blog/introducing-planetscale-insights-advanced-query-monitoring)

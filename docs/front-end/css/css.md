@@ -41,10 +41,11 @@ all: unset
 - [If you make it a rule to always use attributes instead of classes to apply CSS to element states (not variants), you’ll force yourself to make your app more accessible (Similar to React Testing Library). If you’re using CSS-in-JS this also helps create more static styles.](https://twitter.com/buildsghost/status/1389225898193293313)
 - [I feel like negative margins are probably the most under-used layout feature. Layouts become so much more manageable when an element's size in the document flow is decoupled from its visible size on screen.](https://twitter.com/markdalgleish/status/1499139693652606977)
 - [`overflow: clip` is faster than `overflow: hidden`](https://twitter.com/Steve8708/status/1503864654329958400)
+- [If your site has a dark theme, make sure to set: `:root {color-scheme: dark}` So scroll bars are also dark.](https://twitter.com/diegohaz/status/1529543787311144961)
 
 ## Links
 
-- [Code guide by @mdo](http://codeguide.co/)
+- [Code Guide](https://codeguide.co/) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
 - [CSS Reference](https://cssreference.io/)
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.

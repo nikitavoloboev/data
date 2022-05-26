@@ -163,3 +163,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Crux.Gateway](https://github.com/SpaceEEC/crux_gateway) - Library providing a flexible gateway connection to the Discord API.
 - [DiscordKit](https://github.com/SwiftcordApp/DiscordKit) - Discord API implementation that powers Swiftcord.
 - [Linen](https://www.linen.dev/) - Make your Discord community Google-searchable. ([HN](https://news.ycombinator.com/item?id=31494908))
+- [discord-drive](https://github.com/iShibi/discord-drive) - CLI tool to use Discord as a cloud storage.

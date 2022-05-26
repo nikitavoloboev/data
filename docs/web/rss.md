@@ -167,3 +167,4 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [RSS Feed Best Practices (2022)](https://kevincox.ca/2022/05/06/rss-feed-best-practices/) ([HN](https://news.ycombinator.com/item?id=31293488)) ([Lobsters](https://lobste.rs/s/lhocyn/rss_feed_best_practises))
 - [rf](https://github.com/eigenhombre/rf) - RSS/Atom Feed Scanner.
 - [RSS Aggregator for Web3](https://github.com/chainfeeds/RSSAggregatorforWeb3) - Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.
+- [mior](https://github.com/fuyufjh/mior) - Merge into one RSS.

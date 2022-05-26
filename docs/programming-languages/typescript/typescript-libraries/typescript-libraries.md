@@ -28,6 +28,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [cachu](https://github.com/azurydev/cachu) - Simple, Minimalistic KV Cache.
 - [IndexedDB KeyStore](https://github.com/fission-suite/keystore-idb) - In-browser key management with IndexedDB and the Web Crypto API.
 - [Rapid-CG](https://github.com/CGamesPlay/rapid-cg) - Database access layer that relies on code generation to provide a strongly-typed database client.
+- [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies)) ([TypeORM Tutorial](https://www.youtube.com/watch?v=sNosL578ECo))
+- [Safe-TypeORM](https://github.com/samchon/safe-typeorm) - TypeORM helper library enhancing safety in the compilation level.
 
 ## Web
 
@@ -167,7 +169,6 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [openapi-typescript](https://github.com/drwpow/openapi-typescript) - Generate TypeScript types from Swagger OpenAPI specs.
 - [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
 - [ts-simple-type](https://github.com/runem/ts-simple-type) - Relationship type checker functions for Typescript types.
-- [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. ([TypeORM naming strategies](https://github.com/tonivj5/typeorm-naming-strategies)) ([TypeORM Tutorial](https://www.youtube.com/watch?v=sNosL578ECo))
 - [newtype-ts](https://github.com/gcanti/newtype-ts) - Implementation of newtypes in TypeScript.
 - [fluent-builder](https://github.com/develohpanda/fluent-builder) - Typed, fluent builder for generating fixtures in Typescript.
 - [xstate-codegen](https://github.com/mattpocock/xstate-codegen) - Gives you 100% type-safe usage of XState in Typescript.
@@ -525,6 +526,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [QR Code Styling](https://github.com/kozakdenys/qr-code-styling) - Automatically generate your styled QR code in your web app. ([Web](https://qr-code-styling.com/))
 - [StableLib](https://github.com/StableLib/stablelib) - Stable library of useful TypeScript/JavaScript code.
 - [JSON Infer Types](https://github.com/jsonhero-io/json-infer-types) - Infers the type and format of JSON values.
+- [TSTL](https://github.com/samchon/tstl) - Standard Template Library, migrated from C++.
 
 ## Links
 

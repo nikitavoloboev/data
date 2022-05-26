@@ -132,6 +132,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Scan Tool Bot](https://github.com/bot-base/scan-tool-bot) - Scan a QR code with a camera.
 - [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot) - Inline bot for channels and groups.
 - [Aria/qBittorrent Telegram](https://github.com/anasty17/mirror-leech-telegram-bot)
+- [supapro-telegram](https://github.com/zamazan4ik/supapro-telegram) - Small bot which helps maintain C++ telegram channels.
 
 ## Notes
 
@@ -237,3 +238,5 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Four Attacks and a Proof for Telegram (2018)](https://mtpsym.github.io/paper.pdf)
 - [Telegram Trilateration](https://github.com/jkctech/Telegram-Trilateration) - Proof of concept for abusing Telegram's "People Near Me" feature and tracking people's location.
 - [TDLibKit](https://github.com/Swiftgram/TDLibKit) - Native Swift wrapper for Telegram's TDLib. Available on iOS, macOS, watchOS and tvOS.
+- [Decrypted versions of Telegram for iOS](https://github.com/MarshalX/decrypted-telegram-ios)
+- [Telegram Crawler](https://github.com/MarshalX/telegram-crawler) - Automatically detect changes made to the official Telegram sites. ([Bot](https://t.me/tgcrawl))

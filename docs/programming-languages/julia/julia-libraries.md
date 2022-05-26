@@ -605,6 +605,8 @@
 - [OffsetArrays.jl](https://github.com/JuliaArrays/OffsetArrays.jl) - Fortran-like arrays with arbitrary, zero or negative starting indices.
 - [Adapt](https://github.com/JuliaGPU/Adapt.jl) - Allows you to "convert" wrapper types like Adjoint to be GPU compatible.
 - [ProfileCanvas](https://github.com/pfitzseb/ProfileCanvas.jl) - Exposes the HTML canvas based profile viewer UI used by the Julia extension for VS Code in the REPL and environments that can display HTML.
+- [LoggingExtras](https://github.com/JuliaLogging/LoggingExtras.jl) - Composable Loggers for the Julia Logging StdLib.
+- [TerminalLoggers](https://github.com/JuliaLogging/TerminalLoggers.jl) - Logging sinks and utilites for interactive terminals.
 
 ## Links
 

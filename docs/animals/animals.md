@@ -137,3 +137,4 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Cats learn the names of their friend cats in their daily lives (2022)](https://www.nature.com/articles/s41598-022-10261-5) ([HN](https://news.ycombinator.com/item?id=31396198)) ([Reddit](https://www.reddit.com/r/science/comments/uqqtmy/cats_learn_the_names_of_their_friend_cats_in/))
 - [What dogs can eat?](https://www.pawmenow.com/what-dogs-can-eat/) ([HN](https://news.ycombinator.com/item?id=31397635))
 - [Wild medieval beliefs about animals](https://twitter.com/WeirdMedieval/status/1529054655212400640)
+- [Покажи себя и своего питомца](https://twitter.com/anastasia__liss/status/1529775469515636736)

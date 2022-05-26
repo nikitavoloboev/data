@@ -1887,6 +1887,8 @@
 - [midir](https://github.com/Boddlnagg/midir) - Cross-platform, real time MIDI processing in Rust.
 - [os_info](https://github.com/stanislav-tkach/os_info) - Rust library to detect the operating system type.
 - [quad-snd](https://github.com/not-fl3/quad-snd) - High-level, light-weight, and opinionated audio library.
+- [firec](https://github.com/blockjoy/firec) - Rust API to interact with firecracker.
+- [async-broadcast](https://github.com/smol-rs/async-broadcast) - Async multi-producer multi-consumer broadcast channel, where each consumer gets a clone of every message sent on the channel.
 
 ## Cargo Plugins
 

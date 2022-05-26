@@ -159,6 +159,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Categorical Query Language (CQL)](https://www.categoricaldata.net/) ([Code](https://github.com/CategoricalData/CQL))
 - [CatsCheatSheet](https://github.com/alhassy/CatsCheatSheet) - Listing of common theorems in elementary category theory.
 - [Formalization of Category Theory in Agda](https://github.com/bgavran/Agda_Category_Theory)
+- [Dialectica](https://github.com/vcvpaiva/Dialectica) - 2022 AMS MRC on Applied Category Theory.
 
 ## Images
 

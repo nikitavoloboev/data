@@ -264,3 +264,5 @@ title: React Native
 - [React Native News & Tips Community / Twitter](https://twitter.com/i/communities/1509407040095068166)
 - [Stickyheader.js](https://github.com/netguru/sticky-parallax-header) - Simple React Native library, enabling to create a fully custom header for your iOS and Android apps.
 - [React Native Apple Authentication](https://github.com/invertase/react-native-apple-authentication)
+- [Legend Motion](https://github.com/LegendApp/legend-motion) - Declarative animations library for React Native.
+- [React Native ESbuild](https://github.com/oblador/react-native-esbuild) - Fastest bundler for React Native.

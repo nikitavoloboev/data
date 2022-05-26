@@ -200,6 +200,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Muzzle](https://muzzleapp.com/) - Silence embarrassing notifications.
 - [Bike](https://www.hogbaysoftware.com/bike/) - macOS Native Outliner. ([HN](https://news.ycombinator.com/item?id=31409077)) ([Docs](https://bikeguide.hogbaysoftware.com/))
 - [IndigoStack](https://indigostack.app/) - native macOS app for local web development. ([HN](https://news.ycombinator.com/item?id=31485898))
+- [Sleeve](https://replay.software/sleeve) - Now playing on your Desktop. ([Tweet](https://twitter.com/brian_lovin/status/1529866374654283781))
 
 ## Links
 

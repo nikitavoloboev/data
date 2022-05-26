@@ -217,3 +217,4 @@ title: SwiftUI
 - [SwiftUI Workarounds](https://github.com/SwiftUI-Series/workarounds) ([Video](https://www.youtube.com/watch?v=cheFeVPwPlc))
 - [SwiftUI in 2022](https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/) ([Tweet](https://twitter.com/mjtsai/status/1529178695008669699)) ([HN](https://news.ycombinator.com/item?id=31504354))
 - [Markdown rendering using Text in SwiftUI (2022)](https://www.avanderlee.com/swiftui/markdown-text/)
+- [Build an Animated App with Rive and SwiftUI - Design+Code](https://designcode.io/swiftui-rive-animated-app)

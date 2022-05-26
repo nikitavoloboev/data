@@ -279,3 +279,4 @@ From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the c
 - [Computer Security 161 Cryptocurrency Lecture (2022)](https://www.youtube.com/watch?v=J9nv0Ol-R5Q)
 - [CryptoDevs Discord](https://discord.com/invite/5W5tVb3)
 - [Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list)
+- [Two thought experiments to evaluate automated stablecoins (2022)](https://vitalik.eth.limo/general/2022/05/25/stable.html) ([Tweet](https://twitter.com/VitalikButerin/status/1529850412760674304))

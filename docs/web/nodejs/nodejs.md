@@ -391,3 +391,4 @@ title: Node.js
 - [HatTip](https://github.com/hattipjs/hattip) - Like Express, but for the future.
 - [Sidewinder](https://github.com/sinclairzx81/sidewinder) - Type Safe Micro Services for Node.
 - [Lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
+- [mojo.js](https://github.com/mojolicious/mojo.js) - Real-time web framework for Node.js.

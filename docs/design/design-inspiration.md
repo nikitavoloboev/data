@@ -213,6 +213,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 
 - [Notion](https://www.notion.so)
 - [Muse](https://museapp.com/)
+- [Sleeve](https://replay.software/sleeve)
 - [Flexibits](https://flexibits.com/)
 - [Collected Notes](https://collectednotes.com/)
 - [Actual Budget](https://actualbudget.com/)
@@ -385,6 +386,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Daniel Duan](https://duan.ca/) ([Code](https://github.com/dduan/duan.ca))
 - [Fabrizio Rinaldi](https://fabriziorinaldi.com/)
 - [Milen Dzhumerov](https://milen.me/)
+- [Delba de Oliveira](https://delba.dev/) ([Code](https://github.com/delbaoliveira/website))
 - [Ben Myers](https://benmyers.dev/)
 - [Michele Riva](https://www.micheleriva.it/)
 - [Krasjet](https://krasjet.com/)

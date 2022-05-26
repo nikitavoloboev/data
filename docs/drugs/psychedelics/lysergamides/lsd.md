@@ -42,3 +42,4 @@ title: LSD
 - [What are the phenomological and physiological differences in LSD-25 and analogues like 1P-LSD?](https://www.reddit.com/r/RationalPsychonaut/comments/u0d15c/what_are_the_phenomological_and_physiological/)
 - [Hamilton's Pharmacopeia: Ultra LSD](https://www.youtube.com/watch?v=BHjcrqAijqI)
 - [Acid movies (2022)](https://www.reddit.com/r/TrueFilm/comments/ummwcj/acid_movies/)
+- [LSD Music Recs (2022)](https://www.reddit.com/r/Psychedelics/comments/uxxerh/need_music_recommendations_for_lsd/)
