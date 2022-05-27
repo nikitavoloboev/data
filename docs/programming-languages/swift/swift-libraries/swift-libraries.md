@@ -514,6 +514,7 @@
 - [CompactSlider](https://github.com/buh/CompactSlider) - Control for selecting a value from a bounded linear range of values.
 - [Spiral](https://github.com/buh/Spiral) - SwiftUI shape for macOS, iOS and watchOS.
 - [RefreshableScrollView](https://github.com/elegantchaos/RefreshableScrollView) - SwiftUI ScrollView supporting pull-to-refresh.
+- [FastList](https://github.com/elegantchaos/FastList) - Bare-bones replacement for SwiftUI List, intended to work around some of List's performance issues.
 
 ## Test
 

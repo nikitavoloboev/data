@@ -188,6 +188,5 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Not Rocket Science (Meeting Edition) (2021)](https://typesanitizer.com/blog/not-rocket-science.html)
 - [Don't Snark (2020)](https://typesanitizer.com/blog/dont-snark.html)
 - [How to Professionally Say](https://howtoprofessionallysay.akashrajpurohit.com/) - Guide for your daily professional interactions. ([Code](https://github.com/AkashRajpurohit/howtoprofessionallysay)) ([HN](https://news.ycombinator.com/item?id=31224996)) ([Reddit](https://www.reddit.com/r/programming/comments/ug5ivo/how_to_professionally_say/))
-- [Guild](https://beta.guild.host/) - Elevate your community.
 - [Ask HN: Why are people in real life so different? (2022)](https://news.ycombinator.com/item?id=31388731)
 - [How to tame your inner advice monster (2020)](https://blog.ed.ted.com/2020/07/06/how-to-tame-your-inner-advice-monster/)

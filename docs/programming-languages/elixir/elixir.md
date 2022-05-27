@@ -161,3 +161,4 @@
 - [DockYard Academy Elixir Guide](https://github.com/DockYard-Academy/beta_curriculum)
 - [Livebook for Elixir: Just What the Docs Ordered (2022)](https://blog.appsignal.com/2022/05/24/livebook-for-elixir-just-what-the-docs-ordered.html)
 - [Elixir Language Server (ElixirLS)](https://github.com/elixir-lsp/elixir-ls) ([Docs](https://elixir-lsp.github.io/elixir-ls/))
+- [Let’s write an Elixir LiveBook smart cell (2022)](https://www.rakeroutes.com/2022/05/18/let-s-write-an-elixir-livebook-smart-cell)

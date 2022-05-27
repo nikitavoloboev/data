@@ -1,10 +1,8 @@
 # Events
 
-I love meeting new people whether it be through traveling, attending events or having conversations with people online.
+I love meeting new people. Best places to meet people are usually events of some kind. As well as asking to meet for coffee or just a virtual call.
 
-Best places to meet people are usually events of some kind. As well as asking to meet for coffee.
-
-I add any person I found interesting to [my contacts](../macOS/apps/contacts.md). [Guild](https://beta.guild.host/) is a great tool for making web pages of events to attend.
+I add any person I found interesting to [my contacts](../macOS/apps/contacts.md). [Luma](https://lu.ma/) is my preferred way to organize events. [Guild](https://beta.guild.host/) seems nice too.
 
 ## Links
 
@@ -41,3 +39,5 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Con Event](https://bangbangcon.com/) - Two days of ten-minute talks to celebrate the joyous, exciting, and surprising moments in computing.
 - [Rules for Conferences (2019)](https://milan.cvitkovic.net/writing/rules_for_conferences/) ([HN](https://news.ycombinator.com/item?id=31330643))
 - [World's Fair Co](https://www.worldsfair.co/) ([Twitter](https://twitter.com/WorldsFairCo))
+- [Guild](https://beta.guild.host/) - Attend and host events.
+- [Luma](https://lu.ma/home) - Helps you foster meaningful relationships within your community through events, newsletters, and insights.

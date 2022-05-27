@@ -38,3 +38,4 @@
 - [Database Stream Processor](https://github.com/vmware/database-stream-processor) - Streaming and Incremental Computation Framework.
 - [Conduit](https://github.com/ConduitIO/conduit) - Data Integration for Production Data Stores.
 - [StreamX](https://github.com/streamxhub/streamx) - Make stream processing easier.
+- [Debezium](https://debezium.io/) - Change data capture for a variety of databases. ([Web](https://github.com/debezium/debezium))

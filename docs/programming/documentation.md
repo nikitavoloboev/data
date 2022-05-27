@@ -181,3 +181,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Spacebook](https://spacebook.app/) - Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. ([Code](https://github.com/broeker/spacebook))
 - [Markdoc](https://markdoc.io/) - Powerful, flexible, Markdown-based authoring framework. By Stripe. ([Code](https://github.com/markdoc/markdoc)) ([HN](https://news.ycombinator.com/item?id=31341083)) ([Tweet](https://twitter.com/wooorm/status/1524685332058456072))
 - [How to Make a Docs Site: Shortcuts for Busy Devs](https://github.com/jablonskidev/how-to-make-a-docs-site)
+- [How do you create documentation websites today? (2022)](https://twitter.com/mxstbr/status/1526584813301313536)

@@ -12,7 +12,7 @@ Having said that, the worst thing about living in Russia is a certain sense of u
 
 I don't want to be some armchair analyst though and I genuinely don't know a lot. The west lies a lot and have their own sophisticated propaganda machines for crafting out new 'current thing' narratives. So I just try to live my life and build great tools that hopefully accelerate the [future](../../future/future.md) where all countries are free from oppression.
 
-I have a [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Max Seddon](https://twitter.com/maxseddon) does nice summaries often.
+I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839) I fancy and use daily. For political updates, there's many accounts I like. [Max Seddon](https://twitter.com/maxseddon) does nice summaries often.
 
 ## Notes
 
@@ -50,7 +50,7 @@ I have a [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 
 ## Links
 
-- [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
+- [Mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 - [Meduza](https://meduza.io/) - Riga-based online newspaper and news aggregator in the Russian language.
 - [English Russia](https://englishrussia.com/) - Daily selected things from Russia and ex USSR countries.
 - [The Village](https://www.the-village.ru/) - Новости, люди, места, события.
@@ -566,3 +566,4 @@ I have a [Russian Twitter List](https://twitter.com/i/lists/1351120526220152839)
 - [How Russia succesfully propped up Ruble](https://www.reddit.com/r/AskARussian/comments/uonn7z/%D0%BF%D0%B0%D1%86%D0%B0%D0%BD%D1%8B_%D1%87%D1%91_%D0%B1%D0%BB%D1%8F%D1%82%D1%8C_%D1%81_%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%BC/)
 - [List of federal subjects of Russia by GDP per capita - Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_subjects_of_Russia_by_GDP_per_capita)
 - [Перестройка и 90-е. Как умерло советское кино и чем удивляли фильмы новой России](https://www.youtube.com/watch?v=5wNK3Il0pRw)
+- [Николай II. Жертва истории.](https://www.youtube.com/watch?v=EX15fX_MxqI)

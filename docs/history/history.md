@@ -200,3 +200,4 @@
 - [Suez Crisis 1956](https://www.youtube.com/watch?v=lLvqZ1ufLwk)
 - [Easy History - YouTube](https://www.youtube.com/c/EasyHistory/videos)
 - [Why Did Hitler Invade The Soviet Union?](https://www.youtube.com/watch?v=d9vuxteqAis)
+- [ЗОЛОТО: История жадности / Простые вещи](https://www.youtube.com/watch?v=6YmWCbgZuts)

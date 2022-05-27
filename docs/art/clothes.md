@@ -64,3 +64,4 @@ Love Keanus's clothes in [this interview](https://www.esquire.com/entertainment/
 - [Что из одежды вы предпочитаете?](https://twitter.com/liiving_cool/status/1519415874259755010)
 - [Vintage clothes thread](https://twitter.com/mountainscrave/status/1521834975406043136)
 - [Clothes inspiration thread (2022)](https://twitter.com/EmilybyNight/status/1526698797471891456)
+- [SHEIN](https://www.shein.com/) ([Not good for environment](https://www.youtube.com/watch?v=U4km0Cslcpg))
