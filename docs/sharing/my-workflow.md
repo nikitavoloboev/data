@@ -104,7 +104,7 @@ In spirit of maximizing outcomes, I want more amazing, kind and happy humans all
 ## Utility
 
 - [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
-- [Luma](https://lu.ma/) - Organizing online & IRL events. And manage communities.
+- [Luma](https://lu.ma/) - Organizing online & IRL events. Sending newsletter updates for events.
 
 ## React
 
