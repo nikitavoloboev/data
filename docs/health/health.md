@@ -70,3 +70,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [What’s a beauty hack that you swear by?](https://www.reddit.com/r/AskWomen/comments/tx6q24/whats_a_beauty_hack_that_you_swear_by/)
 - [Noise Pollution Hurts the Heart (2021)](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health) ([HN](https://news.ycombinator.com/item?id=30983274))
 - [Артем Никитин - об энергетиках, еде на ночь, язвах и молочке (2022)](https://www.youtube.com/watch?v=a_MtdYi9wzM)
+- [Ask HN: How can you buy high quality healthcare? (2022)](https://news.ycombinator.com/item?id=31530176)

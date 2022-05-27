@@ -146,3 +146,4 @@
 - [SVGPathCommander](https://github.com/thednp/svg-path-commander) - ES6+ JavaScript tools for processing and manipulating SVG path data.
 - [svgstore](https://github.com/svgstore/svgstore) - Combines multiple SVG files into one.
 - [Pattern Fills](http://iros.github.io/patternfills/) - Collection of SVG patterns and build scripts that allow utilizing them in SVG, CSS and D3. ([Code](https://github.com/iros/patternfills))
+- [Magical SVG Techniques (2022)](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
