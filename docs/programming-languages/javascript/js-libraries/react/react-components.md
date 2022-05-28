@@ -315,6 +315,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Reactour](https://github.com/elrumordelaluz/reactour) - Set of Assistants to travel into your React Components.
 - [react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [React Socks](https://github.com/flexdinesh/react-socks) - React library to render components only on specific viewports.
+- [Planby](https://github.com/karolkozer/planby) - React based component that lets you implement your own Timeline so fast and simple. ([Web](https://planby.netlify.app/))
 
 ## Links
 
