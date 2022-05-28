@@ -200,3 +200,4 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [TikTok Scraper & Downloader](https://github.com/drawrowfly/tiktok-scraper) - Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.
 - [Scraping Airbnb (2022)](https://scrapingfish.com/blog/scraping-airbnb)
 - [Shears](https://github.com/Pingid/shears) - Functional web scraping in TS.
+- [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) ([HN](https://news.ycombinator.com/item?id=31531694))

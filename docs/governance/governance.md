@@ -4,7 +4,7 @@ title: Governance
 
 # [Governance](https://en.wikipedia.org/wiki/Governance)
 
-It's hard to care about politics when [so much of it is empty words and empty dialogues](https://twitter.com/RoryStewartUK/status/1521092481479282689). Not sure how to change it though.
+It's hard to care about politics when [so much of it is empty words and empty dialogues](https://twitter.com/RoryStewartUK/status/1521092481479282689). Aside from constant lying and crafting false narratives, it's absurd that a lot of the people in power are over the age of 60. Such people can't in any reasonable way represent the views of the young or middle age people.
 
 ## Notes
 

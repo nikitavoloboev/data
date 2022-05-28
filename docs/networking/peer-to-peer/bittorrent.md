@@ -115,3 +115,4 @@ title: BitTorrent
 - [haze](https://github.com/cronokirby/haze) - Small BitTorrent client, written in Haskell.
 - [BitChan](https://github.com/majestrate/bitchan) - BitTorrent Image Board.
 - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES) ([HN](https://news.ycombinator.com/item?id=31461070))
+- [Zetflix](https://zetfix.online/) - Смотреть фильмы и сериалы от компании Нетфликс онлайн.

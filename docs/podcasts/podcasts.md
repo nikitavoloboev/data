@@ -151,6 +151,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Best podcasts for software developers 2022](https://transistor.fm/dev-podcasts/)
 - [Nice educational podcasts (2022)](https://www.reddit.com/r/podcasts/comments/urbz0i/im_looking_for_a_podcast_that_can_teach_me/)
 - [Nice comedy podcasts](https://www.reddit.com/r/podcasts/comments/uvmvfp/looking_for_some_comedy_podcasts/)
+- [What’s one podcast that you recommend over all others?](https://www.reddit.com/r/podcasts/comments/uyyidd/whats_one_podcast_that_you_recommend_over_all/)
 
 ## Notes
 

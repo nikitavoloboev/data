@@ -567,3 +567,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [List of federal subjects of Russia by GDP per capita - Wikipedia](https://en.wikipedia.org/wiki/List_of_federal_subjects_of_Russia_by_GDP_per_capita)
 - [Перестройка и 90-е. Как умерло советское кино и чем удивляли фильмы новой России](https://www.youtube.com/watch?v=5wNK3Il0pRw)
 - [Николай II. Жертва истории.](https://www.youtube.com/watch?v=EX15fX_MxqI)
+- [МИНАЕВ LIVE - YouTube](https://www.youtube.com/c/MINAEVLIVE/videos)

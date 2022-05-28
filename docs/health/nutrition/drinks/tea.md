@@ -20,3 +20,4 @@ I drink a lot of tea & prefer it to [coffee](coffee.md) as it doesn't give me fo
 - [Chronicles of a Bubble Tea Addict (2021)](https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict) ([HN](https://news.ycombinator.com/item?id=25975428))
 - [Herbal tea recommendations](https://twitter.com/cateliseh/status/1509400985940029443)
 - [Best Earl Grey tea brands (2022)](https://www.reddit.com/r/tea/comments/ucm112/i_have_had_many_many_earl_greys_but_this_is_by/)
+- [Cute tea/coffee mug](https://www.reddit.com/r/tea/comments/uz3z93/was_wondering_which_site_makes_the_genuine_mugs/)
