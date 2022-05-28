@@ -506,3 +506,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Speeding up sort performance in Postgres 15 (2022)](https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/) ([HN](https://news.ycombinator.com/item?id=31444558))
 - [Instant Heatmap with pg_featureserv (2022)](https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv) ([HN](https://news.ycombinator.com/item?id=31436039))
 - [PostgreSQL Anonymizer: Privacy by Design for Postgres (2022)](https://www.postgresql.org/about/news/postgresql-anonymizer-10-privacy-by-design-for-postgres-2452/)
+- [Neon](https://github.com/neondatabase/neon) - Serverless open source alternative to AWS Aurora Postgres. ([Web](https://neon.tech/)) ([HN](https://news.ycombinator.com/item?id=31536827))
