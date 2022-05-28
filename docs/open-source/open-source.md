@@ -235,3 +235,4 @@ Dan has great tips on what it means to be [high quality software maintainers](ht
 - [Monetizing your open source project using dual licensing](https://twitter.com/SachinNeravath/status/1524736567377424389)
 - [Transform to OPen Science (TOPS)](https://github.com/nasa/Transform-to-Open-Science)
 - [Anthony Fu's contribution guide](https://github.com/antfu/contribute)
+- [Creative commons and open source](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:digital-information/xcae6f4a7ff015e7d:digital-copyright-and-licenses/a/creative-commons-and-open-source)

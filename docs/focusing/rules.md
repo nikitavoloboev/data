@@ -283,8 +283,7 @@
 
 ## Licensing
 
-- License OSS code under [MIT](https://tldrlegal.com/license/mit-license) or [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-- License curated lists and everything else under [CC4](https://creativecommons.org/licenses/by/4.0/). No need for license file.
+- License OSS code and everything under [CC4](https://creativecommons.org/licenses/by/4.0/). No need for license file.
 
 ## macOS/iOS
 

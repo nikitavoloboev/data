@@ -624,3 +624,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [GPAC](https://gpac.wp.imt.fr/) - Modular Multimedia framework for packaging, streaming and playing your favorite content. ([Code](https://github.com/gpac/gpac))
 - [best-of](https://github.com/best-of-lists/best-of) - Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [Manifold Markets](https://manifold.markets/) - Lets anyone create a prediction market on any topic. ([Code](https://github.com/manifoldmarkets/manifold))
+- [The real Dune](https://www.youtube.com/watch?v=R0krUthYxF4)

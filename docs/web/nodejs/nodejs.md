@@ -123,7 +123,7 @@ title: Node.js
 - [@hapi/lab](https://github.com/hapijs/lab) - Node test utility.
 - [live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Node.js module that allows you to install, uninstall and load any node package at runtime from npm registry.
 - [Run yarn/npm scripts with fzf (2020)](https://sancho.dev/blog/better-yarn-npm-run/)
-- [PnPm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.io/motivation)) ([Web](https://pnpm.io/)) ([HN](https://news.ycombinator.com/item?id=30919487))
+- [PnPm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager. ([Docs](https://pnpm.io/motivation)) ([Web](https://pnpm.io/)) ([HN](https://news.ycombinator.com/item?id=30919487)) ([How it works](https://www.youtube.com/watch?v=r14BwUB6wZA))
 - [node-request-interceptor](https://github.com/mswjs/node-request-interceptor) - Low-level HTTP/HTTPS/XHR request interception library for Node.
 - [napi-rs](https://github.com/napi-rs/napi-rs) - Minimal library for building compiled NodeJS add-ons in Rust. ([Docs](https://napi.rs/)) ([Web Code](https://github.com/napi-rs/website)) ([Tweet](https://twitter.com/Brooooook_lyn/status/1458961303897141249))
 - [Template project for writing node package with napi-rs](https://github.com/napi-rs/package-template)
