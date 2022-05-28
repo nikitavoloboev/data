@@ -163,6 +163,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Kolide](https://www.kolide.com/) - Endpoint security solution for teams that value productivity, transparency, and employee happiness.
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together. ([Verify your Paddle.com Webhooks](https://github.com/daveagill/verify-paddle-webhook))
 - [Omnivore](https://github.com/omnivore-app/omnivore) - Complete, open source read-it-later solution for people who like text. ([Web](https://omnivore.app/))
+- [Online Spirograph Tool](https://nathanfriend.io/inspiral-web/) ([HN](https://news.ycombinator.com/item?id=31526908))
 - [LogSnag](https://logsnag.com/) - Real-time feed of events for your projects.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Kukkee](https://www.kukkee.com/) - Open source Doodle alternative. ([Code](https://github.com/Kukkee/Kukkee)
@@ -403,6 +404,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Literal](https://literal.io/) - Textual annotation management system. ([Code](https://github.com/literal-io/literal))
 - [Memberful](https://memberful.com/) - Sell memberships to your audience.
 - [Dona](https://www.dona.ai/) - A more humane to-do list.
+- [Knots 3D](https://knots3d.com/) - Learn how to tie over 150 useful knots. ([HN](https://news.ycombinator.com/item?id=31532199))
 - [Clockwise](https://www.getclockwise.com/) - Smart calendar assistant that frees up your time so you can focus on what matters.
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [Budibase](https://www.budibase.com/) - Build internal tools on your own infrastructure. ([Code](https://github.com/Budibase/budibase)) ([HN](https://news.ycombinator.com/item?id=29242466))

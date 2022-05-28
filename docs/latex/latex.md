@@ -12,7 +12,7 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 
 - [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
-- [Mathpix](https://mathpix.com/) - Convert images of math and handwriting into LaTeX and text instantly. ([GitHub](https://github.com/Mathpix))
+- [Mathpix](https://mathpix.com/) - Convert images of math and handwriting into LaTeX and text instantly. ([GitHub](https://github.com/Mathpix)) ([HN](https://news.ycombinator.com/item?id=31510341))
 - [My LaTeX Workflow: latexmk, ShareLaTeX, and StackEdit (2015)](https://jeremykun.com/2015/01/10/my-latex-workflow-latexmk-sharelatex-and-stackedit/)
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - LaTeX code for making neural networks diagrams.
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.

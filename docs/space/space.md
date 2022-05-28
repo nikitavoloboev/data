@@ -166,3 +166,4 @@
 - [Neat space facts (2022)](https://twitter.com/shannonmstirone/status/1526573332602269699)
 - [Астрофизик Сергей Попов – лекция в ЯрГУ (2022)](https://www.youtube.com/watch?v=rAHaCJz9YoE)
 - [PBS SpaceTime](https://www.pbsspacetime.com/) ([HN](https://news.ycombinator.com/item?id=31444573))
+- [Stars in distant galaxies are typically more massive (2022)](https://nbi.ku.dk/english/news/news22/new-discovery-about-distant-galaxies-stars-are-heavier-than-we-thought/) ([HN](https://news.ycombinator.com/item?id=31540540))

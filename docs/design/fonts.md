@@ -259,7 +259,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [System Font CSS](https://github.com/jonathantneal/system-font-css) - Use the native system font of the OS running the browser. ([Web](https://jonneal.dev/system-font-css/))
 - [ab-glyph](https://github.com/alexheretic/ab-glyph) - Rust API for loading, scaling, positioning and rasterizing OpenType font glyphs.
 - [Dharma Type](https://dharmatype.com/)
-- [System Font Stack](https://systemfontstack.com/) ([Code](https://github.com/tmcw/systemfontstack))
+- [System Font Stack](https://systemfontstack.com/) ([Code](https://github.com/tmcw/systemfontstack)) ([HN](https://news.ycombinator.com/item?id=31543054))
 - [Uniwidth typefaces for interface design (2021)](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 - [Operator Mono Ligatures](https://github.com/kiliman/operator-mono-lig) - Add ligatures to Operator Mono similar to Fira Code.
 - [Stop Using Icon Fonts (2021)](https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/) ([HN](https://news.ycombinator.com/item?id=26252348))

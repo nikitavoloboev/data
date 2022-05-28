@@ -45,4 +45,4 @@ Concurrency is the composition of independently executing computations. [Real-Ti
 - [A Flexible Type System for Fearless Concurrency (2022)](https://www.cs.cornell.edu/andru/papers/gallifrey-types/) ([Reddit](https://www.reddit.com/r/ProgrammingLanguages/comments/tyiztq/a_flexible_type_system_for_fearless_concurrency/))
 - [Exponential Backoff And Jitter (2022)](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 - [Fearless concurrency at a discount? (2022)](https://newsletter.papersyoumightlove.pl/archive/fearless-concurrency-at-a-discount/)
-- [Newest Stories](https://danluu.com/concurrency-bugs/)
+- [Notes on concurrency bugs (2016)](https://danluu.com/concurrency-bugs/) ([HN](https://news.ycombinator.com/item?id=31514822))
