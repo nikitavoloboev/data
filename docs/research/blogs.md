@@ -154,6 +154,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Ahmad Shadeed](https://ishadeed.com/)
 - [Anirudh Oppiliappan](https://icyphox.sh/blog/)
 - [Nate Finch](https://npf.io/)
+- [Abhinav Gupta](https://abhinavg.net/)
 
 ## Notes
 

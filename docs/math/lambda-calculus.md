@@ -89,3 +89,4 @@ Is logical theory of computable functions.
 - [Lili](https://github.com/jdrprod/lili) - Minimalist proof checker based on a simply typed lambda-calculus.
 - [SKI combinators - AST and Evaluating](https://github.com/ngzhian/ski)
 - [A DSL for λ-terms in Scala (2017)](http://mez.cl/en/lambda-dsl/)
+- [Binary Lambda Calculus evaluation engine written in Malbolge](https://github.com/kspalaiologos/blc-mb)

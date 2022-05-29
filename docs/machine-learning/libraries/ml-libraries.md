@@ -353,3 +353,4 @@ title: ML Libraries
 - [PGBM](https://github.com/elephaint/pgbm) - Probabilistic Gradient Boosting Machines.
 - [Fiddle](https://github.com/google/fiddle) - Python-first configuration library particularly well suited to ML applications.
 - [tpunicorn](https://github.com/shawwn/tpunicorn) - Python library and command-line program for managing TPUs.
+- [CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining.

@@ -308,6 +308,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Deep and Interesting Graphic Novels (2022)](https://www.reddit.com/r/suggestmeabook/comments/uga8k0/deep_and_interesting_graphic_novels/)
 - [Most interesting premise for book you've read? (2022)](https://www.reddit.com/r/suggestmeabook/comments/uhoeg1/whats_the_most_interesting_premise_for_a_book/)
 - [Ask HN: What are some good inspirational and uplifting books? (2022)](https://news.ycombinator.com/item?id=31353995)
+- [Marissa's bookshelf: favorites](https://m15y.com/bookshelf)
 
 ## Interesting Prose Books
 

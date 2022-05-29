@@ -608,6 +608,8 @@
 - [ProfileCanvas](https://github.com/pfitzseb/ProfileCanvas.jl) - Exposes the HTML canvas based profile viewer UI used by the Julia extension for VS Code in the REPL and environments that can display HTML.
 - [LoggingExtras](https://github.com/JuliaLogging/LoggingExtras.jl) - Composable Loggers for the Julia Logging StdLib.
 - [TerminalLoggers](https://github.com/JuliaLogging/TerminalLoggers.jl) - Logging sinks and utilites for interactive terminals.
+- [FastClosures](https://github.com/c42f/FastClosures.jl) - Faster closure variable capture.
+- [Accessors](https://github.com/JuliaObjects/Accessors.jl) - Update immutable data.
 
 ## Links
 

@@ -786,3 +786,6 @@ if err != nil {
 - [Nightly builds with GoReleaser and GitHub Actions (2022)](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f)
 - [Trail of Bits public Semgrep rules](https://github.com/trailofbits/semgrep-rules)
 - [Why Infer Types? (2022)](https://npf.io/2022/05/why-infer/) ([HN](https://news.ycombinator.com/item?id=31519370))
+- [exhaustruct](https://github.com/GaijinEntertainment/go-exhaustruct) - Go analyzer that finds structures with uninitialized fields.
+- [God](https://github.com/pioz/god) - Automation tool to deploy and manage Go services using systemd on GNU/Linux machines.
+- [Mock programs to test os/exec in Go (2022)](https://abhinavg.net/posts/hijack-testmain/)

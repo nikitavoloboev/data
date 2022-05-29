@@ -253,3 +253,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Email Marketing Glossary](https://emailmarketingglossary.com/) - Guide to all the acronyms and terms in the email world you always wanted. ([Code](https://github.com/rodriguezcommaj/email-marketing-glossary))
 - [Salmon](https://github.com/moggers87/salmon) - Python Mail Server.
 - [Skiff Mail](https://skiff.com/) - End-to-end encrypted email that protects your inbox and gives you the power to communicate freely. ([Code](https://github.com/skiff-org/skiff-mail))
+- [Email Permutator](https://github.com/emeth-/Email-Permutator) - Input a first name, last name, and company. Receive back a list of possible email addresses, which we then attempt to verify via a variety of methods for you.

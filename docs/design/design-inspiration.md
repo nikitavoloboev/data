@@ -549,6 +549,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Emma Goto](https://www.emgoto.com/) ([Code](https://github.com/emgoto/emgoto.com))
 - [Gianluca Brindisi](https://cloudberry.engineering/)
 - [Aristide Benoist](https://www.aristidebenoist.com/) ([Tweet](https://twitter.com/0xca0a/status/1449733784799166465))
+- [Monsieur M](https://monsieurm.fr/)
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Etienne Barbedette](https://etiennebarbedette.com/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))

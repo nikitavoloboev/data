@@ -129,6 +129,7 @@ The way our brains take input from different senses (eyes, touch) and then decid
 - [cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images (e.g. whole mouse brain images).
 - [brainreg-segment](https://github.com/brainglobe/brainreg-segment) - Segmentation of 3D shapes in a common anatomical space.
 - [You can trick your brain into thinking an object is your real hand and experience pain response](https://twitter.com/Imposter_Edits/status/1528888787388223488)
+- [NiChord](https://github.com/paulcbogdan/NiChord) - Python package for visualizing functional connectivity data.
 
 ## Images
 

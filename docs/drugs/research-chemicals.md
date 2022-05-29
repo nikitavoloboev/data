@@ -25,6 +25,7 @@ title: Research chemicals
 
 - Use tracking to make sure the order is received. Otherwise can't get refund.
 - [Scales tend to be most accurate in the middle of their range. So if a scale measures up to 10g, put a 5g weight on before weighing and do not tare.](https://www.reddit.com/r/researchchemicals/comments/jysobq/handy_tip_for_cheap_scales/)
+- [You can't be sure. But learning a bit about pharmacology, there's not much differences between 2F-DCK vs ketamine ie, and you have better chance to have higher quality 2f-dck than for Ketamine, it apply to a lot of non very obscure & new RCs, so there is not a devilish added health concern from taking 4-HO-MET over shrooms, or 2C-C over mescaline, or 6-APB over MDA, or 3-FA over meth or Adderall. You get there is a continuity between drugs of related chemical structure and pharmacology, and if you don't get a very obscure drug, and if you get higher purity, and apply strict harm reduction (reagent test, allergy test, incremental dosing, safe combos, etc) you are most likely extremely fine.](https://www.reddit.com/r/researchchemicals/comments/v0b9m4/how_do_you_feel_comfortable_using_rcs/)
 
 ## Links
 
