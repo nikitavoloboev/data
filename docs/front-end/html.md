@@ -269,3 +269,4 @@ Hi<div>oh no break</div>
 - [Progressive Enhancement and HTML Forms: use FormData (2022)](https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/)
 - [Lucid](https://github.com/chrisdone/lucid) - Clear to write, read and edit DSL for writing HTML.
 - [HTML5 Parser](https://github.com/kovidgoyal/html5-parser) - Fast C based HTML 5 parsing for python.
+- [hast-util-from-html](https://github.com/syntax-tree/hast-util-from-html) - hast utility that turns HTML into a syntax tree.

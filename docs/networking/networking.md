@@ -485,3 +485,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Meter](https://www.meter.com/) - Internet & WiFi for businesses. ([Building internet infrastructure into a utility](https://www.meter.com/blog/building-internet-infrastructure-into-a-utility)) ([Twitter](https://twitter.com/meter))
 - [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
 - [Using WebTransport (2020)](https://web.dev/webtransport/) - API offering low-latency, bidirectional, client-server messaging.
+- [vnStat](https://github.com/vergoh/vnstat) - Network traffic monitor for Linux and BSD.
+- [SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go.

@@ -327,6 +327,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [g8](https://github.com/TwiN/g8) - Go library for protecting your HTTP handlers.
 - [gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go.
 - [Bud](https://github.com/livebud/bud) - Full stack Go Framework for Prolific Web Developers. ([HN](https://news.ycombinator.com/item?id=31371340))
+- [Health](https://github.com/alexliesenfeld/health) - Simple and flexible health check library for Go.
 
 ## GraphQL
 
@@ -1656,6 +1657,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [i18n](https://github.com/kataras/i18n) - High-performant and powerful localization and internationalization support for Go.
 - [statik](https://github.com/rakyll/statik) - Embed files into a Go executable.
 - [CBOR](https://github.com/fxamacker/cbor) - Modern CBOR codec in Go.
+- [FlatBSON](https://github.com/chidiwilliams/flatbson) - Recursively flatten a Go struct using its BSON tags.
 
 ## Links
 

@@ -243,6 +243,7 @@
 - [Blink.jl](https://github.com/JuliaGizmos/Blink.jl) - Web-based GUIs for Julia.
 - [Hyperscript](https://github.com/JuliaWeb/Hyperscript.jl) - Package for working with HTML, SVG, and CSS in Julia.
 - [Oxygen](https://github.com/ndortega/Oxygen.jl) - Micro-framework built on top of the HTTP.jl library.
+- [HypertextLiteral.jl](https://github.com/JuliaPluto/HypertextLiteral.jl) - Julia library for the string interpolation of HTML and SVG.
 
 ## Test
 

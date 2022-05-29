@@ -146,3 +146,4 @@ I like [John Mearsheimer](https://www.youtube.com/results?search_query=John+Mear
 - [What facts about the United States do foreigners not believe until they come to America? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/umhysk/what_facts_about_the_united_states_do_foreigners/)
 - [What is something that everyone should know about America? (2022)](https://www.reddit.com/r/AskAnAmerican/comments/uprh44/what_is_something_that_everyone_should_know_about/)
 - [How to Stack Tax Benefits for Even More Savings (2021)](https://www.madfientist.com/stack-tax-benefits/)
+- [FreeWorld](https://www.joinfreeworld.com/) - Aims to end generational poverty and recidivism through economic mobility. ([Tweet](https://twitter.com/Austen/status/1530614256898408448))

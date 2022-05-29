@@ -156,3 +156,4 @@ Curious how [Sequoia VC](https://www.sequoiacap.com/our-companies/) is so succes
 - [Must reads in VC space (2022)](https://twitter.com/michellebkwok/status/1512445423364894726)
 - [a16z START](https://a16z.com/programs-a16z-start/) - Fuels founders at the earliest stages of company-building with 1:1 support, network introductions, and up to $1M in funding. ([Intro](https://a16z.com/2022/04/18/introducing-a6z-start/)) ([HN](https://news.ycombinator.com/item?id=31077047))
 - [The great VC pullback of 2022](https://mattturck.com/vcpullback/) ([HN](https://news.ycombinator.com/item?id=31202572))
+- [All In Syndicate](https://thesyndicate.com/allin)

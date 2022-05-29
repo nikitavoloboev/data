@@ -96,3 +96,5 @@ title: Lean
 - [Parsec.lean](https://github.com/yatima-inc/Parsec.lean) - Parser combinators for Lean.
 - [Nix expressions and derivations in lean](https://github.com/Anderssorby/Nix.lean)
 - [doc-gen4](https://github.com/leanprover/doc-gen4) - Document Generator for Lean 4.
+- [lean4-karray](https://github.com/lecopivo/lean4-karray) - Package that allows automatic C code generation for functions defined in Lean.
+- [Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalizing mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022)

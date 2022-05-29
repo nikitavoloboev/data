@@ -558,6 +558,7 @@
 ## DB
 
 - [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
+- [ActiveSQLite](https://github.com/KevinZhouRafael/ActiveSQLite) - Helper of SQLite.Swift. It can let you use SQLite.swift easily.
 - [PostgresKit](https://github.com/vapor/postgres-kit) - Non-blocking, event-driven Swift client for PostgreSQL.
 - [SqlKit](https://github.com/vapor/sql-kit) - Build SQL queries in Swift. Extensible, protocol-based design that supports DQL, DML, and DDL.
 - [SwiftDB](https://github.com/vmanot/SwiftDB) - Type-safe, SwiftUI-inspired wrapper around CoreData.

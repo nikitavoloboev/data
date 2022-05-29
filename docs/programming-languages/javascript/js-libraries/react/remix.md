@@ -52,6 +52,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Remix on AWS API Gateway v2 & Lambda](https://github.com/m14t/remix-run-apigateway)
 - [Figma Remix](https://github.com/jjenzz/figma-remix)
 - [Webflix](https://github.com/sarahdayan/webflix) - Netflix lookalike built with Remix and Algolia.
+- [Remix + WASM](https://github.com/jacob-ebey/remix-wasm-example)
 
 ## Plugins
 

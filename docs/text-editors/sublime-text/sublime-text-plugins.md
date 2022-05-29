@@ -99,3 +99,4 @@ Below is a list of plugins I use.
 
 - [Setting up Sublime Text 4 for Python (2021)](https://yeray.dev/python/setting-up-sublime-text-4-for-python)
 - [Private channel for SublimeLinter plugins](https://github.com/SublimeLinter/package_control_channel)
+- [UnitTesting](https://github.com/SublimeText/UnitTesting) - Testing Sublime Text Packages.

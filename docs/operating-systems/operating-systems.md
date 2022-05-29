@@ -361,3 +361,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [System paper reading notes](https://github.com/pentium3/sys_reading)
 - [sbctl](https://github.com/Foxboron/sbctl) - Secure Boot Manager.
 - [bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
+- [Cannoli](https://github.com/MarginResearch/cannoli) - High-performance QEMU memory and instruction tracing.

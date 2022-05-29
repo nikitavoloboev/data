@@ -801,3 +801,4 @@ title: Rust
 - [Crash reporting in Rust (2022)](https://jake-shadle.github.io/crash-reporting/) ([Tweet](https://twitter.com/Ca1ne/status/1528768858248585216))
 - [Fixing Memory Leaks in Rust (2022)](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
 - [MiniRust](https://github.com/RalfJung/minirust) - Cornerstone of my vision for a normative specification of Rust semantics.
+- [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)

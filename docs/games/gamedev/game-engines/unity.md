@@ -38,3 +38,4 @@ title: Unity
 - [Facebook SDK for Unity](https://github.com/facebook/facebook-sdk-for-unity)
 - [Unity Fur Shader](https://github.com/Sorumi/UnityFurShader)
 - [2 Years of Learning Game Development in Unity (2022)](https://www.youtube.com/watch?v=8fcy0_FQ_OA)
+- [Ultraleap Unity Plugin](https://github.com/ultraleap/UnityPlugin) - Build Unity applications using Ultraleap's hand tracking technology.

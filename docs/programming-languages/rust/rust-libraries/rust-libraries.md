@@ -1891,6 +1891,8 @@
 - [firec](https://github.com/blockjoy/firec) - Rust API to interact with firecracker.
 - [async-broadcast](https://github.com/smol-rs/async-broadcast) - Async multi-producer multi-consumer broadcast channel, where each consumer gets a clone of every message sent on the channel.
 - [miniraft](https://github.com/jackyzha0/miniraft) - Minimal implementation of the Raft consensus protocol with a focus on readability/understandability.
+- [Rust native JSON deserializer](https://github.com/jorgecarleitao/json-deserializer) - Performant Rust implementation to parse JSON by reference.
+- [Rink](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust.
 
 ## Cargo Plugins
 

@@ -178,6 +178,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [SkyWeaver](https://www.skyweaver.net/) - Trading Card Game from Another Dimension.
 - [Tetr.io](https://tetr.io/) ([HN](https://news.ycombinator.com/item?id=29728892))
 - [Downpour](https://downpour.games/) - Game making tool for phones. ([HN](https://news.ycombinator.com/item?id=30858728)) ([Article](https://v21.io/blog/announcing-downpour))
+- [Bear's Restaurant](https://daigostudio.com/bearsrestaurant/en/)
 
 ## Recommendations
 

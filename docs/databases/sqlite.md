@@ -8,6 +8,8 @@ title: SQLite
 
 I currently start all my projects with SQLite DB if I need any kind of persistence. Then move to [EdgeDB](edgedb.md)/[Postgres](postgresql.md) if SQLite is not enough for some reason. Want to try using [ws4sqlite](https://github.com/proofrock/ws4sqlite).
 
+[Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite.
+
 ## Notes
 
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)

@@ -745,6 +745,7 @@
       - [Unity](docs/games/gamedev/game-engines/unity.md)
       - [Unreal Engine](docs/games/gamedev/game-engines/unreal-engine.md)
       - [Bevy](docs/games/gamedev/game-engines/bevy.md)
+      - [Ebiten](docs/games/gamedev/game-engines/ebiten.md)
   - [Board games](docs/games/board-games.md)
   - [Chess](docs/games/chess.md)
   - [Poker](docs/games/poker.md)

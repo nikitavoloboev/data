@@ -768,3 +768,4 @@
 - [Neural 3D Reconstruction in the Wild (2022)](https://arxiv.org/abs/2205.12955) ([Code](https://github.com/zju3dv/NeuralRecon-W))
 - [Body shape and pose estimation on 3D scans of people in clothing using Ceres Solver](https://github.com/maria-korosteleva/Body-Shape-Estimation)
 - [A Survey of Visual Transformers (2021)](https://arxiv.org/abs/2111.06091) ([Code](https://github.com/liuyang-ict/awesome-visual-transformers))
+- [Nerfies: Deformable Neural Radiance Fields (2021)](https://nerfies.github.io/) ([Code](https://github.com/nerfies/nerfies.github.io))

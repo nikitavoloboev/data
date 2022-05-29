@@ -182,3 +182,4 @@
 - [Announcing the Cloudflare Images Sourcing Kit (2022)](https://blog.cloudflare.com/cloudflare-images-sourcing-kit/)
 - [Deno Deploy Scale Image](https://github.com/syumai/deno-deploy-scale-image) - Image scaling app built on Deno Deploy and Go WebAssembly.
 - [Papaya](https://papaya.io/) - Image editing right in your browser.
+- [imgdiff](https://github.com/AskAlexSharov/imgdiff) - Calculate similarity of 2 images. Supports: jpeg, png.

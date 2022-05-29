@@ -236,3 +236,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Luma's Tech Stack (2021)](https://lu.ma/p/zPamspcICt0f3q9/Lumas-Tech-Stack)
 - [System Design Repository](https://github.com/OpesanyaAdebayo/systems-design) - All things System Design. Books, Blog Posts, Interview questions etc.
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
+- [Let's build an Entity Component System from scratch (2022)](https://devlog.hexops.com/categories/build-an-ecs/) ([Tweet](https://twitter.com/slimsag/status/1530736023218561030))
