@@ -390,3 +390,5 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Aleph.im](https://aleph.im/#/) - Cloud Computing for DeFi & Web3 Simplified. ([JS API](https://github.com/aleph-im/aleph-js))
 - [Interesting blockchains list](https://twitter.com/dabit3/status/1434279108872216577)
 - [Digital artists' post-bubble hopes for NFTs don't need a blockchain (2022)](https://blog.mollywhite.net/digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain/)
+- [How to fix web3 product's UX](https://twitter.com/ybhrdwj/status/1528091057417728000)
+- [Airdropr](https://www.airdropr.com/) - Bulk send crypto and NFTs without code.

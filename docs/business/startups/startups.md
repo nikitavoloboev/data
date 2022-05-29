@@ -77,6 +77,7 @@
 - [If you're not embarrassed by the first version of your product, you've launched too late.](https://news.ycombinator.com/item?id=30589374)
 - [Many young companies are slow/late to implement regular performance reviews - I always recommend they do sooner vs later.](https://twitter.com/Farshchi/status/1521124687375347713)
 - [Success in startups is directly proportional to the number of hard conversations you are willing to have.](https://twitter.com/davemorin/status/1528046691068170240)
+- [Many aspiring entrepreneurs get stuck trying to invent a new product to sell. It's a trap. 99.9% of successful businesses sell an established product in a new way.](https://twitter.com/mikebeckhamsm/status/1529660253692129280)
 
 ## Links
 
