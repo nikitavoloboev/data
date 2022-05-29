@@ -16,6 +16,7 @@
   "dependencies": {
     "@docusaurus/core": "0.0.0-5072",
     "@docusaurus/module-type-aliases": "2.0.0-beta.21",
+    "@docusaurus/plugin-google-gtag": "2.0.0-beta.21",
     "@docusaurus/preset-classic": "0.0.0-5072",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",

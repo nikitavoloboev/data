@@ -802,3 +802,4 @@ title: Rust
 - [Fixing Memory Leaks in Rust (2022)](https://onesignal.com/blog/solving-memory-leaks-in-rust/)
 - [MiniRust](https://github.com/RalfJung/minirust) - Cornerstone of my vision for a normative specification of Rust semantics.
 - [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
+- [Builder Lite (2022)](https://matklad.github.io//2022/05/29/builder-lite.html)

@@ -1769,3 +1769,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gomodguard](https://github.com/ryancurrah/gomodguard) - Allow and block list linter for direct Go module dependencies.
 - [libc - Porting libc from C to Go](https://github.com/goplus/libc)
 - [depu](https://github.com/kevwan/depu) - Tool to check available updates of dependent packages in go.mod.
+- [Copygen](https://github.com/switchupcb/copygen) - Go generator to copy values from type to type and fields from struct to struct (copier without reflection). Generate any code based on types.

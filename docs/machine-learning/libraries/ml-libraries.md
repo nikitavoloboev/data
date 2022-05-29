@@ -352,3 +352,4 @@ title: ML Libraries
 - [KotlinDL](https://github.com/Kotlin/kotlindl) - High-level Deep Learning Framework written in Kotlin and inspired by Keras.
 - [PGBM](https://github.com/elephaint/pgbm) - Probabilistic Gradient Boosting Machines.
 - [Fiddle](https://github.com/google/fiddle) - Python-first configuration library particularly well suited to ML applications.
+- [tpunicorn](https://github.com/shawwn/tpunicorn) - Python library and command-line program for managing TPUs.

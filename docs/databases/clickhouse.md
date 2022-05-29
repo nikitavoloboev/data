@@ -27,3 +27,4 @@ title: ClickHouse
 - [Mogo](https://github.com/shimohq/mogo) - Light weight log visual analytic platform for ClickHouse.
 - [Install ClickHouse Faster (2022)](https://tech.marksblogg.com/install-clickhouse-faster.html)
 - [Daisy](https://github.com/datablade-io/daisy) - Open-source column-oriented and streaming time series database management system built on top of ClickHouse.
+- [ClickHouse data source for Grafana](https://github.com/grafana/clickhouse-datasource)
