@@ -3,6 +3,7 @@
 ## Notes
 
 - [Lessons learned on compiler development: 1. Group functions by AST node, not by pass. 2. Have a formal theory for checking types worked out in advance. 3. Don't dump the metadata for each pass directly into AST nodes.](https://twitter.com/spakhm/status/1283672210050125824)
+- [When you compile a program into an object binary, it contains references to external symbols. a linker takes all your objects (& any libraries you want to statically link) and creates a combined executable, resolving those references (by rewriting some machine code!) References to dynamic libraries are only resolved when an executable is loaded in memory to be executed, so the operating system's loader also has to modify some machine code.](https://twitter.com/typeswitch/status/1530973163517104135)
 
 ## Links
 

@@ -264,6 +264,7 @@ title: TypeScript
 - [Filtering arrays with TypeScript type guards (2022)](https://www.skovy.dev/blog/typescript-filter-array-with-type-guard?seed=ubtgvi)
 - [Modern Typescript with Examples Cheat Sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)
 - [TypeScript 4.7 (2022)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/) ([Lobsters](https://lobste.rs/s/g6mboy/announcing_typescript_4_7))
+- [Advanced TypeScript - YouTube](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b)
 
 ## Images
 

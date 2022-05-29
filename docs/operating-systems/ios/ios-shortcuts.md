@@ -39,3 +39,4 @@ title: iOS Shortcuts
 - [5 Shortcuts I Use Daily](https://matthewbischoff.com/5-shortcuts-i-use-daily/)
 - [Logger](https://www.logger.rocks/) - Console app for Shortcuts. ([Tweet](https://twitter.com/mralexhay/status/1497516908496633859)) ([Tweet](https://twitter.com/mralexhay/status/1497364623183560707))
 - [WallCreator 2.0 Adds Ability to Set Wallpapers, Save and Restore Favorites, Plus Automation Support](https://www.macstories.net/ios/wallcreator-2-0-adds-ability-to-set-wallpapers-save-and-restore-favorites-plus-automation-support/)
+- [Shortcuts with Netlify Edge Functions are powerful combo](https://twitter.com/larryhudsondev/status/1530725044435193856)
