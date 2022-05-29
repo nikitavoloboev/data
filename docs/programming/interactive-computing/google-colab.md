@@ -13,3 +13,5 @@ title: Google Colab
 - [kora](https://github.com/airesearch-in-th/kora) - Collection of tools to make programming on Google Colab easier.
 - [How to Use Google Colab with VS Code (2021)](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/amp/)
 - [Google Colab features you may have missed (2021)](https://www.youtube.com/watch?v=rNgswRZ2C1Y)
+- [Awesome colab notebooks collection for ML experiments](https://github.com/amrzv/awesome-colab-notebooks)
+- [ML Visual Art Colabs](https://github.com/dvschultz/ml-art-colabs)

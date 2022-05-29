@@ -196,3 +196,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [“Free Speech” Ought to Mean More than Mocking Trans People (2022)](https://www.thebulwark.com/free-speech-ought-to-mean-more-than-mocking-trans-people/) ([Tweet](https://twitter.com/NGrossman81/status/1526524194858704897))
 - [Oxide and Friends Twitter Spaces Notes](https://github.com/oxidecomputer/twitter-spaces)
 - [How you can reach 0 to 1000 followers on Twitter quickly](https://devvnomad.notion.site/How-you-can-reach-0-to-1000-followers-on-Twitter-quickly-928cef4051e2454290549f53303e791a)
+- [Awesome Modern Twitter API](https://github.com/andypiper/awesome-modern-twitter-api)

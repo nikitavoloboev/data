@@ -197,3 +197,4 @@
 - [Scala Diagrams](https://github.com/mikeyhu/scaladiagrams) - Generate class diagrams from scala source code.
 - [panopticon-tui](https://github.com/ScalaConsultants/panopticon-tui) - Terminal UI observability and diagnostic tool for Scala applications.
 - [zio-akka-quickstart](https://github.com/ScalaConsultants/zio-akka-quickstart.g8) - Giter8 template for a fully functional, ready to deploy microservice ZIO, Akka HTTP and Slick.
+- [Generate native-image binaries with sbt](https://github.com/scalameta/sbt-native-image)

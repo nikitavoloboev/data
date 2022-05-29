@@ -36,3 +36,4 @@ title: Azure
 - [esbuild-azure-functions](https://github.com/beyerleinf/esbuild-azure-functions) - Builder for Azure Function powered by esbuild.
 - [Azure Pipelines Tasks](https://github.com/microsoft/azure-pipelines-tasks)
 - [Demo of using the Nutter for testing of Databricks notebooks in the CI/CD pipeline](https://github.com/alexott/databricks-nutter-repos-demo)
+- [Extensions for Azure CLI 2.0](https://github.com/Azure/azure-cli-extensions)
