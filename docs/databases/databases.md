@@ -618,5 +618,6 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Databases = Frameworks for Distributed Systems (2022)](https://laplab.me/posts/databases-are-frameworks-for-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31459745))
 - [Ditto](https://www.ditto.live/) - Sync without Internet. ([Twitter](https://twitter.com/dittolive))
 - [DBngin](https://dbngin.com/) - All-in-One Database Version Management Tool. ([Code](https://github.com/TablePlus/DBngin))
-- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/)
+- [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) ([HN](https://news.ycombinator.com/item?id=31535158))
 - [LSI: A Learned Secondary Index Structure (2022)](https://arxiv.org/abs/2205.05769)
+- [Warp: Lightweight Multi-Key Transactions for Key-Value Stores (2015)](https://arxiv.org/abs/1509.07815) ([Review](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html))

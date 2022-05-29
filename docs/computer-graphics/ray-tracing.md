@@ -113,3 +113,4 @@ title: Ray tracing
 - [Ray tracing, a 4 year retrospective (2022)](https://interplayoflight.wordpress.com/2022/04/09/raytracing-a-4-year-retrospective/)
 - [Ignis](https://github.com/PearCoding/Ignis) - Experimental ray tracer for the RENEGADE project implemented with the AnyDSL compiler framework for CPU and GPU. ([Docs](https://pearcoding.github.io/Ignis/))
 - [State of the Art in Monte Carlo Ray Tracing for Realistic Image Synthesis (2001)](https://cseweb.ucsd.edu/~viscomp/classes/cse274/wi18/readings/course29sig01.pdf)
+- [Ray Optics Simulation](https://ricktu288.github.io/ray-optics/) - Open-source web app to simulate the reflection and refraction of light. ([Code](https://github.com/ricktu288/ray-optics))

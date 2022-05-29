@@ -363,3 +363,4 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [How to Detect Long Press Gestures in JavaScript Events in React (2022)](https://spacejelly.dev/posts/how-to-detect-long-press-gestures-in-javascript-events-in-react/)
 - [Click to Component](https://github.com/ericclemmons/click-to-component) - Option+Click React components in your browser to instantly open the source in VS Code.
 - [React Primer Scripts](https://github.com/primer/react-scripts) - Toolchain to help build React components with Primer.
+- [Placeholder components](https://cards.jordanscales.com/placeholders)

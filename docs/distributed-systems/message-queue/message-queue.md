@@ -38,3 +38,4 @@ title: Message queue
 - [dispenserd](https://github.com/realtux/dispenserd) - Job queue designed to be: fast, reliable, feature rich, and tailored towards the needs of developers.
 - [Message Broker](https://github.com/prodoxx/message-broker) - Simple message broker example using BullMQ and Redis (worker / queue).
 - [Valet](https://github.com/svaloumas/valet) - Job queuing service and async task runner.
+- [Bonsaimq](https://github.com/FlixCoder/bonsaimq) - Simple database message queue based on bonsaidb.
