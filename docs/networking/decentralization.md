@@ -155,3 +155,4 @@ title: Decentralization
 - [Open Data Fabric](https://github.com/open-data-fabric/open-data-fabric) - Open protocol for decentralized exchange and transformation of data. ([Docs](https://docs.kamu.dev/odf/))
 - [Four Decentralization Protocols: Introduction to decentralization protocols using JavaScript](https://leanpub.com/four-decentralisation-protocols)
 - [Decentralized Society: Finding Web3's Soul (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) ([Tweet](https://twitter.com/VitalikButerin/status/1524393952522096640))
+- [20 Web 3 podcast episodes of 2022](https://twitter.com/MishadaVinci/status/1530907361749049345)

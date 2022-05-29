@@ -356,3 +356,4 @@ AWS has a [generous free tier](https://aws.amazon.com/free/). [AWS CDK](https://
 - [AWSS Bootstrap](https://awsbootstrap.io/) - Full stack on AWS in one click.
 - [OpenApiX](https://github.com/alma-cdk/openapix) - Combine the power of AWS CDK & OpenAPI YAML Schema Definitions.
 - [Amazon EKS Blueprints for CDK](https://github.com/aws-quickstart/cdk-eks-blueprints)
+- [Graviton 3: First Impressions (2022)](https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/) ([HN](https://news.ycombinator.com/item?id=31548989))

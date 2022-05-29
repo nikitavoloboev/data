@@ -97,7 +97,7 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Ask HN: Disillusioned with the Direction of Society and Technology (2022)](https://news.ycombinator.com/item?id=30321888)
 - [Cozy futurism (2021)](https://nintil.com/cozy-futurism) ([HN](https://news.ycombinator.com/item?id=30479462))
 - [What are the generation-defining stats of today? (2022)](https://twitter.com/stephsmithio/status/1500986096745779200)
-- [Principles for Dealing with the Changing World Order by Ray Dalio (2022)](https://www.youtube.com/watch?v=xguam0TKMw8) ([HN](https://news.ycombinator.com/item?id=31014656))
+- [Principles for Dealing with the Changing World Order by Ray Dalio (2022)](https://www.youtube.com/watch?v=xguam0TKMw8) ([HN](https://news.ycombinator.com/item?id=31014656)) ([Tweet](https://twitter.com/AndrewYang/status/1530926047344066561))
 - [The Future is Vast: Longtermism’s perspective on humanity’s past, present, and future (2022)](https://ourworldindata.org/longtermism)
 - [What does the world look like in a decade if you're wildly successful in your mission?](https://twitter.com/packyM/status/1506990727548575746)
 - [Ask HN: Software with biggest potential for positive impact in 5 years? (2022)](https://news.ycombinator.com/item?id=30829003)

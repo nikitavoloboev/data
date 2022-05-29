@@ -769,3 +769,4 @@
 - [Body shape and pose estimation on 3D scans of people in clothing using Ceres Solver](https://github.com/maria-korosteleva/Body-Shape-Estimation)
 - [A Survey of Visual Transformers (2021)](https://arxiv.org/abs/2111.06091) ([Code](https://github.com/liuyang-ict/awesome-visual-transformers))
 - [Nerfies: Deformable Neural Radiance Fields (2021)](https://nerfies.github.io/) ([Code](https://github.com/nerfies/nerfies.github.io))
+- [Working notes on the role of vision papers in basic science (2022)](https://scienceplusplus.org/visions/index.html) ([Tweet](https://twitter.com/michael_nielsen/status/1530659395453202433))

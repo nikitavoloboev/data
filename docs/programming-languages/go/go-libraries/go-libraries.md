@@ -1658,6 +1658,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [statik](https://github.com/rakyll/statik) - Embed files into a Go executable.
 - [CBOR](https://github.com/fxamacker/cbor) - Modern CBOR codec in Go.
 - [FlatBSON](https://github.com/chidiwilliams/flatbson) - Recursively flatten a Go struct using its BSON tags.
+- [socks5](https://github.com/haochen233/socks5) - Go library about socks5, supports all socks5 commands.
 
 ## Links
 
