@@ -85,3 +85,4 @@ title: Synthesizers
 - [Mika Micro](https://github.com/tesselode/mika-micro) - Small, expressive subtractive synthesizer.
 - [eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks) - Software to Hardware Prototyping for Eurorack using C++, Max/Gen~ or Faust.
 - [VoiceOfFaust](https://github.com/magnetophon/VoiceOfFaust) - Turns any monophonic sound into a synthesizer, preserving the pitch and spectral dynamics of the input.
+- [Polyend](https://polyend.com/) - Enjoyable musical instruments. ([Twitter](https://twitter.com/madeinpolyend)) ([Beta Testing](https://github.com/polyend/TrackerBetaTesting))

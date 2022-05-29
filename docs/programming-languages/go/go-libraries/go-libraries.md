@@ -1655,6 +1655,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Parquet](https://github.com/parsyl/parquet) - Library for reading and writing parquet files.
 - [i18n](https://github.com/kataras/i18n) - High-performant and powerful localization and internationalization support for Go.
 - [statik](https://github.com/rakyll/statik) - Embed files into a Go executable.
+- [CBOR](https://github.com/fxamacker/cbor) - Modern CBOR codec in Go.
 
 ## Links
 

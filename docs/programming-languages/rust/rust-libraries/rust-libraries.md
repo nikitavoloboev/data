@@ -372,6 +372,7 @@
 - [raylib-rs](https://github.com/deltaphc/raylib-rs) - Rust bindings for raylib.
 - [Agui](https://github.com/Stumblinbear/agui) - Advanced, reactive UI library for Rust.
 - [four](https://github.com/mwalczyk/four) - 4-dimensional renderer.
+- [muge](https://github.com/andykswong/muge) - Minimal, Modular, Multiplatform Graphics Engine in Rust and WebAssembly.
 
 ## Games
 
@@ -1889,6 +1890,7 @@
 - [quad-snd](https://github.com/not-fl3/quad-snd) - High-level, light-weight, and opinionated audio library.
 - [firec](https://github.com/blockjoy/firec) - Rust API to interact with firecracker.
 - [async-broadcast](https://github.com/smol-rs/async-broadcast) - Async multi-producer multi-consumer broadcast channel, where each consumer gets a clone of every message sent on the channel.
+- [miniraft](https://github.com/jackyzha0/miniraft) - Minimal implementation of the Raft consensus protocol with a focus on readability/understandability.
 
 ## Cargo Plugins
 
@@ -1967,6 +1969,7 @@
 - [cargo-trace](https://github.com/dvc94ch/cargo-trace) - Flamegraphing tool for perf events.
 - [build-info](https://github.com/danielschemmel/build-info) - Collects build-information of your Rust crate.
 - [cargo-minimal-versions](https://github.com/taiki-e/cargo-minimal-versions) - Cargo subcommand for proper use of -Z minimal-versions.
+- [cargo-vet](https://github.com/bholley/cargo-vet) - Supply-chain security for Rust.
 
 ## Links
 

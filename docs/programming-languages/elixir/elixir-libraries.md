@@ -92,6 +92,10 @@
 
 - [Kino](https://github.com/livebook-dev/kino) - Client-driven interactive widgets for Livebook.
 
+## Crypto
+
+- [Cloak](https://github.com/danielberkompas/cloak) - Elixir encryption library designed for Ecto.
+
 ## Other
 
 - [GraphQL toolkit for Elixir](https://github.com/absinthe-graphql/absinthe)

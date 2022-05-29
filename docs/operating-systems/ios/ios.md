@@ -474,3 +474,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Open Source for iOS developers - Ivan Vorobei](https://opensource.ivanvorobei.io/)
 - [fishhook](https://github.com/facebook/fishhook) - Library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [Apple PLSQL viewer](https://github.com/saagarjha/EffectivePower) ([Tweet](https://twitter.com/_saagarjha/status/1528937319171887104))
+- [Assist](https://github.com/Blackjacx/Assist) - App Store Connect API access via Swift command line tool.

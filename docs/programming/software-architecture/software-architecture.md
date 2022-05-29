@@ -235,3 +235,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Design Deck](https://github.com/teivah/designdeck) - Open-source collection of 160+ system design flash cards.
 - [Luma's Tech Stack (2021)](https://lu.ma/p/zPamspcICt0f3q9/Lumas-Tech-Stack)
 - [System Design Repository](https://github.com/OpesanyaAdebayo/systems-design) - All things System Design. Books, Blog Posts, Interview questions etc.
+- [System Design Resources](https://github.com/InterviewReady/system-design-resources)

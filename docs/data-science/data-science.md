@@ -253,3 +253,4 @@
 - [How Well Can You Kaggle with Just One Hour a Day? (2022)](https://wandb.ai/sairam6087/humpback_whale/reports/How-Well-Can-You-Kaggle-with-Just-One-Hour-a-Day---VmlldzoxNjQxMTQ4) ([HN](https://news.ycombinator.com/item?id=31269459))
 - [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) - Peter Norvig's New Book.
 - [LineaPy](https://github.com/LineaLabs/lineapy) - Python package for capturing, analyzing, and automating data science workflows. ([Web](https://lineapy.org/))
+- [Amundsen](https://github.com/amundsen-io/amundsen) - Data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data.

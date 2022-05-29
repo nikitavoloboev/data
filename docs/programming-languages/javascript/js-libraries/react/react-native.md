@@ -266,3 +266,4 @@ title: React Native
 - [React Native Apple Authentication](https://github.com/invertase/react-native-apple-authentication)
 - [Legend Motion](https://github.com/LegendApp/legend-motion) - Declarative animations library for React Native.
 - [React Native ESbuild](https://github.com/oblador/react-native-esbuild) - Fastest bundler for React Native.
+- [Navigation Router](https://github.com/grahammendick/navigation) - Scene-Based Navigation for React and React Native.

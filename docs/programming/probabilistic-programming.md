@@ -48,3 +48,4 @@ title: Probabilistic programming
 - [Miking DPPL](https://github.com/miking-lang/miking-dppl) - Framework for developing probabilistic programming languages (PPLs) using Miking.
 - [ZhuSuan](https://github.com/thu-ml/zhusuan) - Probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow.
 - [Prism](http://www.prismmodelchecker.org/) - Probabilistic Symbolic Model Checker. ([HN](https://news.ycombinator.com/item?id=31283037))
+- [Conditional Diffusion Probabilistic Model for Speech Enhancement](https://github.com/neillu23/CDiffuSE) - Leverages recent advances in diffusion probabilistic models, and proposes a novel speech enhancement algorithm.

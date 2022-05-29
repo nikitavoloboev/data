@@ -527,6 +527,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [StableLib](https://github.com/StableLib/stablelib) - Stable library of useful TypeScript/JavaScript code.
 - [JSON Infer Types](https://github.com/jsonhero-io/json-infer-types) - Infers the type and format of JSON values.
 - [TSTL](https://github.com/samchon/tstl) - Standard Template Library, migrated from C++.
+- [munum](https://github.com/andykswong/munum) - Micro 3D Math Library for JavaScript and WebAssembly.
 
 ## Links
 

@@ -312,7 +312,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [David Nolen: Out of the Tarpit, Revisited (2017)](https://www.youtube.com/watch?v=7y1phdZkLw4)
 - [syncing-thesis](https://github.com/mirkokiefer/syncing-thesis) - Syncing strategies for mobile apps.
 - [Storage Performance Development Kit](https://spdk.io/) - Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
-- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) - Writing a sqlite clone from scratch in C. ([Code](https://github.com/cstack/db_tutorial))
+- [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/) - Writing a sqlite clone from scratch in C. ([Code](https://github.com/cstack/db_tutorial)) ([In Rust](https://github.com/guimingyue/db_tutorial_rust))
 - [Readings in Databases](https://github.com/rxin/db-readings) - List of papers essential to understanding databases and building new data systems.
 - [Turning the database inside-out with Apache Samza (2015)](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 - [Designing Data Intensive Applications Book](https://dataintensive.net/) - Deep dives into different types of data storage solutions, their history, and how they actually work. ([Review](https://henrikwarne.com/2019/07/27/book-review-designing-data-intensive-applications/)) ([Notes](https://twitter.com/GergelyOrosz/status/1328011263172087809)) ([Literature References](https://github.com/ept/ddia-references)) ([Review](https://tech.marksblogg.com/designing-data-intensive-applications-review.html)) ([Notes](https://github.com/ResidentMario/designing-data-intensive-applications-notes))

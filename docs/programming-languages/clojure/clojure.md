@@ -230,3 +230,4 @@ title: Clojure
 - [Refactor nREPL](https://github.com/clojure-emacs/refactor-nrepl) - nREPL middleware to support refactorings in an editor agnostic way.
 - [The Dawn of Lightweight Concurrency for Java and Clojure (2022)](https://ales.rocks/notes-on-virtual-threads-and-clojure)
 - [Ideas for Clojure Network Eval API (2022)](https://tonsky.me/blog/network-eval/)
+- [Web application using Component, Ring, Compojure, and Selmer connected to a local SQLite database](https://github.com/seancorfield/usermanager-example)

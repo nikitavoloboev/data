@@ -767,3 +767,4 @@
 - [An End-to-End Transformer Model for 3D Object Detection (2021)](https://arxiv.org/abs/2109.08141) ([Code](https://github.com/facebookresearch/3detr))
 - [Neural 3D Reconstruction in the Wild (2022)](https://arxiv.org/abs/2205.12955) ([Code](https://github.com/zju3dv/NeuralRecon-W))
 - [Body shape and pose estimation on 3D scans of people in clothing using Ceres Solver](https://github.com/maria-korosteleva/Body-Shape-Estimation)
+- [A Survey of Visual Transformers (2021)](https://arxiv.org/abs/2111.06091) ([Code](https://github.com/liuyang-ict/awesome-visual-transformers))

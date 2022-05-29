@@ -112,6 +112,7 @@
 - [Kohi Engine](https://github.com/travisvroman/kohi) - Made as part of the Kohi Game Engine series on YouTube, where we make a game engine from the ground up using C and Vulkan.
 - [Exile](https://github.com/TheNumbat/Exile) - Handmade-style voxel engine & game.
 - [OGRE](https://github.com/OGRECave/ogre) - Scene-oriented, flexible 3D engine (C++, Python, C#, Java).
+- [Ducktape](https://github.com/DucktapeEngine/Ducktape) - Open source C++ 2D & 3D game engine that focuses on being fast, and powerful. ([Web](https://ducktapeengine.github.io/))
 
 ## Physics engines
 
