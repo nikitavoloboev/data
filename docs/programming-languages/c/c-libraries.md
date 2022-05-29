@@ -42,6 +42,7 @@
 - [greatest](https://github.com/silentbicycle/greatest) - C testing library in 1 file. No dependencies, no dynamic allocation.
 - [Check](https://github.com/libcheck/check) - Unit testing framework for C.
 - [CT](https://github.com/kr/ct) - Easy Unit Testing for C.
+- [Unity Test](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C.
 
 ## CLI
 
