@@ -35,6 +35,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Components for grammY](https://github.com/bot-base/grammy-components)
 - [Backend for grammY Free Sessions](https://github.com/grammyjs/free-session-backend)
 - [grammY Free Sessions](https://github.com/grammyjs/storage-free)
+- [Markup plugin for grammY](https://github.com/Loskir/grammy-markup) - Provides telegraf-like keyboard and inline keyboard builders.
 - [botgram](https://github.com/botgram/botgram) - Microframework to build Telegram bots. ([Web](https://botgram.js.org/))
 - [Node.js Telegram Bot API](https://github.com/yagop/node-telegram-bot-api)
 - [Go bindings to Telegram API](https://github.com/go-telegram-bot-api/telegram-bot-api) ([Docs](https://go-telegram-bot-api.dev/))

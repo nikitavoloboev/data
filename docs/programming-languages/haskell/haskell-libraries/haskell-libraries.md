@@ -330,6 +330,7 @@
 - [SuperRecord](https://github.com/agrafix/superrecord) - Supercharged anonymous records.
 - [free-accelerate](https://github.com/fizruk/free-accelerate) - Data parallel representation for free monads.
 - [mason](https://github.com/fumieval/mason) - Builder & IO library.
+- [process](https://github.com/haskell/process) - Library for dealing with system processes.
 
 ## Notes
 

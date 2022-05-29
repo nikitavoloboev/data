@@ -487,3 +487,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Using WebTransport (2020)](https://web.dev/webtransport/) - API offering low-latency, bidirectional, client-server messaging.
 - [vnStat](https://github.com/vergoh/vnstat) - Network traffic monitor for Linux and BSD.
 - [SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go.
+- [Building a Budget Homelab NAS Server (2022)](https://mtlynch.io/budget-nas/) ([HN](https://news.ycombinator.com/item?id=31548829))

@@ -407,3 +407,4 @@ title: PyTorch
 - [Metatorch](https://github.com/jworr/metatorch) - Library and framework for prototyping PyTorch models with Haskell.
 - [Running PyTorch on the M1 GPU (2022)](https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html) ([HN](https://news.ycombinator.com/item?id=31456450))
 - [PyTorch Topological](https://github.com/aidos-lab/pytorch-topological) - Topological machine learning framework based on PyTorch.
+- [Optimizers](https://github.com/facebookresearch/optimizers) - PyTorch optimization algorithms.

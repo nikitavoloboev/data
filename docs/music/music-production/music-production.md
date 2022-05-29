@@ -370,3 +370,4 @@
 - [VexFlow](https://www.vexflow.com/) - JavaScript library for rendering music notation and guitar tablature. ([Code](https://github.com/0xfe/vexflow))
 - [LedFx](https://www.ledfx.app/) - LED Music Visualizer. ([Code](https://github.com/LedFx/ledfx_rewrite))
 - [Notation without bars (2022)](https://andrewyoon.art/blog/neoscore-release) ([Lobsters](https://lobste.rs/s/nxfjpc/notation_without_bars))
+- [Ask HN: Is there any Linux distro dedicated to music performance? (2022)](https://news.ycombinator.com/item?id=31549303)

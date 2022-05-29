@@ -167,3 +167,4 @@
 - [Brandon Rohrer's interviewing AMA/tips](https://twitter.com/_brohrer_/status/1513274151800389641)
 - [The best engineering interview question I've ever gotten (2022)](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/) ([HN](https://news.ycombinator.com/item?id=31065143))
 - [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews) ([HN](https://news.ycombinator.com/item?id=31544997))
+- [InterviewKit](https://interviewkit.co/) - All-in-one tool for research interviews that saves you up to 80% of time.

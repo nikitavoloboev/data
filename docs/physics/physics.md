@@ -307,3 +307,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Supersymmetry, explained visually (2022)](https://www.youtube.com/watch?v=0GUTJQCeKBE) ([Reddit](https://www.reddit.com/r/Physics/comments/uq5tpn/supersymmetry_explained_visually/))
 - [A mind-blowing explanation of symmetry | Frank Wilczek (2022)](https://www.youtube.com/watch?v=sMg4XJG2XyY)
 - [The information-theoretic foundation of thermodynamic work extraction (2022)](https://iopscience.iop.org/article/10.1088/2399-6528/ac70a7) ([Tweet](https://twitter.com/DavidDeutschOxf/status/1530199266286882816))
+- [Ask HN: How to do self-study on Physics (2022)](https://news.ycombinator.com/item?id=31549032)
