@@ -166,3 +166,4 @@
 - [Exit Interviews Are a Trap (2022)](https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/) ([HN](https://news.ycombinator.com/item?id=30908551))
 - [Brandon Rohrer's interviewing AMA/tips](https://twitter.com/_brohrer_/status/1513274151800389641)
 - [The best engineering interview question I've ever gotten (2022)](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/) ([HN](https://news.ycombinator.com/item?id=31065143))
+- [In defense of coding interviews](https://biggestfish.substack.com/p/in-defense-of-coding-interviews) ([HN](https://news.ycombinator.com/item?id=31544997))

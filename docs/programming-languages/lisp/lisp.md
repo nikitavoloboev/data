@@ -192,3 +192,4 @@
 - [Why Lisp macros are cool, a Perl perspective (2005)](http://lists.warhead.org.uk/pipermail/iwe/2005-July/000130.html) ([HN](https://news.ycombinator.com/item?id=31199992))
 - [Let's create a Lisp in Rust](https://stopa.io/post/222) ([Code](https://github.com/stopachka/risp))
 - [(Yet Another) Lisp In Go (2022)](http://johnj.com/posts/l1/) ([HN](https://news.ycombinator.com/item?id=31302086))
+- [Ask HN: What does a developer need to know to build their own Lisp from scratch? (2022)](https://news.ycombinator.com/item?id=31547765)

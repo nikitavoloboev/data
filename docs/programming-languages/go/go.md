@@ -785,3 +785,4 @@ if err != nil {
 - [Go Concurrency Exercises](https://github.com/loong/go-concurrency-exercises) - Exercises for Go's concurrency patterns.
 - [Nightly builds with GoReleaser and GitHub Actions (2022)](https://blog.goreleaser.com/nightly-builds-with-goreleaser-and-github-actions-e08c078e4d0f)
 - [Trail of Bits public Semgrep rules](https://github.com/trailofbits/semgrep-rules)
+- [Why Infer Types? (2022)](https://npf.io/2022/05/why-infer/) ([HN](https://news.ycombinator.com/item?id=31519370))

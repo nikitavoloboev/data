@@ -258,3 +258,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [dvm](https://github.com/justjavac/dvm) - Deno Version Manager.
 - [Deno Updater Proxy](https://github.com/lemarier/updater-deno) - Sample PoC for Tauri updater using deno deploy or cloudflare workers.
 - [Froebel](https://github.com/MathisBullinger/froebel) - Strictly typed TypeScript utility library. Opinionated version of lodash, but with first-class types.
+- [Deno Todos](https://github.com/jason0x43/deno-todos) - Simple Deno-based Todos app.

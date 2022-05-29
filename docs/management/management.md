@@ -203,3 +203,4 @@
 - [Basecamp Employee Handbook](https://basecamp.com/handbook)
 - [Thoughts on OKRs (2022)](https://joeblu.com/blog/2022_05_okrs/) ([HN](https://news.ycombinator.com/item?id=31422718))
 - [Tasks, lists, and promises](http://rachelbythebay.com/w/2022/05/19/priority/) ([Lobsters](https://lobste.rs/s/h7v6xg/tasks_lists_promises))
+- [High performance individuals and teams](https://pablasso.com/high-performance-individuals-and-teams/)

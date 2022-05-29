@@ -164,4 +164,5 @@ title: Django
 - [Pyngo](https://github.com/yezz123/pyngo) - Pydantic model support for Django & Django-Rest-Framework.
 - [Enforcing Zero Downtime Django Migrations (2022)](https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html)
 - [Djangox](https://github.com/wsvincent/djangox) - Django starter project with batteries.
-- [](https://www.paulox.net/2022/05/26/the-django-speaking-tour-2022/)
+- [The Django speaking tour 2022](https://www.paulox.net/2022/05/26/the-django-speaking-tour-2022/)
+- [Tetra](https://www.tetraframework.com/) - Full stack reactive component framework for Django using Alpine.js ([Code](https://github.com/samwillis/tetra))
