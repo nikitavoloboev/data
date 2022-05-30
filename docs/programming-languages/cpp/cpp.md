@@ -341,3 +341,4 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [Concepts Error Messages for Humans (2022)](https://wg21.tartanllama.xyz/P2429%20-%20Concepts%20Error%20Messages%20for%20Humans.pdf) ([Tweet](https://twitter.com/TartanLlama/status/1527327581464567809))
 - [Safety and Performance - Threadsafe Datastructures in C++ (2022)](https://sheep.horse/2022/5/safety_and_performance_-_threadsafe_datastructures.html)
 - [A Garbage-Collected Heap in C++, Shaped Like Typed Python (2022)](https://www.oilshell.org/blog/2022/05/gc-heap.html)
+- [Retrofitting Temporal Memory Safety on C++ (2022)](https://security.googleblog.com/2022/05/retrofitting-temporal-memory-safety-on-c.html) ([HN](https://news.ycombinator.com/item?id=31558796))

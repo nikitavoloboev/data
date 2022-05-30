@@ -585,6 +585,7 @@
 - [microbit](https://github.com/nrf-rs/microbit) - Rust crate for BBC micro:bit development.
 - [meadow](https://github.com/quietlychris/meadow) - Publish/request middleware for robotics applications, with a focus on ease-of-use.
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (structs) from SVD files.
+- [stm32l0xx-hal](https://github.com/stm32-rs/stm32l0xx-hal) - Hardware abstraction layer (HAL) for the STM32L0 series microcontrollers written in Rust.
 
 ## ML
 

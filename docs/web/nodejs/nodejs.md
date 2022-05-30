@@ -392,3 +392,4 @@ title: Node.js
 - [Sidewinder](https://github.com/sinclairzx81/sidewinder) - Type Safe Micro Services for Node.
 - [Lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
 - [mojo.js](https://github.com/mojolicious/mojo.js) - Real-time web framework for Node.js.
+- [better-logging](https://github.com/Olian04/better-logging) - Drop in replacement for the default logging methods of node.js.

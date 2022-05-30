@@ -930,6 +930,8 @@
 - [minimatch](https://github.com/isaacs/minimatch) - Minimal matching utility.
 - [Scroller](https://github.com/bespoyasov/scroller) - Fast, light-weight, and dependency-free content scroller.
 - [Rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda.
+- [env-schema](https://github.com/fastify/env-schema) - Validate your env variable using Ajv and dotenv.
+- [minipass](https://github.com/isaacs/minipass) - Minimal implementation of a PassThrough stream.
 
 ## Links
 

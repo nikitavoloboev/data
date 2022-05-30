@@ -375,3 +375,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Programming Languages and Theory of Computation](https://diku-dk.github.io/pltc/)
 - [Modern programming languages require generics (2022)](https://ayende.com/blog/197282-B/modern-programming-languages-require-generics) ([HN](https://news.ycombinator.com/item?id=31492180))
 - [Passerine](https://www.passerine.io/) - Small extensible programming language designed for concise expression with little code. ([Lobsters](https://lobste.rs/s/fvaycc/passerine_programming_language))
+- [StackOverflow trends](https://github.com/nschloe/so-trends)

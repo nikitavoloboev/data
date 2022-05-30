@@ -151,3 +151,4 @@ title: Coq
 - [xmonad in Coq](https://github.com/wouter-swierstra/xmonad)
 - [mCoq](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq verification projects.
 - [bedrock2](https://github.com/mit-plv/bedrock2) - Work-in-progress language and compiler for verified low-level programming.
+- [Useful scripts for dealing with Coq files](https://github.com/JasonGross/coq-scripts)

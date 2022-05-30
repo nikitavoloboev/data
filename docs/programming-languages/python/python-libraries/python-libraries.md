@@ -876,6 +876,7 @@
 - [timeseries-generator](https://github.com/Nike-Inc/timeseries-generator) - Library to generate synthetic time series data by easy-to-use factors and generator.
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [gjson-py](https://github.com/volans-/gjson-py) - Python package that provides a simple way to filter and extract data from JSON-like objects, using the GJSON syntax.
+- [thx](https://github.com/omnilib/thx) - Simple, composable command runner for Python projects.
 
 ## Notes
 
