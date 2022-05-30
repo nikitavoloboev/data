@@ -23,6 +23,7 @@ title: React Native
 - [React Native Template Strong](https://github.com/svbutko/react-native-template-strong) - Quick, opinionated, documented and strong beginning for your next project.
 - [React Native with Storybook template](https://github.com/dannyhw/react-native-storybook-starter)
 - [Smoothly Animated ToDo App built with React Native](https://github.com/craftzdog/react-native-animated-todo)
+- [Rive Animated App](https://github.com/lklima/rive-animated-app) - React Native animated app with reanimated + expo and Rive an amazing tool for interactive icons and shapes animation.
 
 ## Notes
 

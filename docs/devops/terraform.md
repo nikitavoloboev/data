@@ -177,3 +177,4 @@ title: Terraform
 - [hcdiag](https://github.com/hashicorp/hcdiag) - Simplify the collection of relevant support data for HashiCorp products.
 - [HashiCorp HCL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=HashiCorp.HCL) - HashiCorp HCL syntax. ([Code](https://github.com/hashicorp/vscode-hcl))
 - [tfcloud](https://github.com/chroju/tfcloud) - Terraform Cloud CLI tool.
+- [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.

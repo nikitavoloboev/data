@@ -128,3 +128,4 @@ title: Racket
 - [Urlang](https://github.com/soegaard/urlang) - JavaScript with a sane syntax. Written in Racket.
 - [Whalesong](https://www.hashcollision.org/whalesong/) - Racket to JavaScript Compiler. ([HN](https://news.ycombinator.com/item?id=31457045))
 - [dynamic-ffi](https://github.com/dbenoit17/dynamic-ffi) - Auto define Racket bindings to C by parsing header files.
+- [package-analysis](https://github.com/jackfirth/package-analysis) - Racket package for analyzing the Racket package ecosystem.

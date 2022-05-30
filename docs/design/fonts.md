@@ -116,6 +116,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [SF Pro](https://v-fonts.com/fonts/sf-pro) ([Tweet](https://twitter.com/variablefonts/status/1522219878890885122))
 - [Type With Pride: Gilbert Font Project](https://github.com/Fontself/TypeWithPride)
 - [Commissioner](https://github.com/kosbarts/Commissioner) - Variable and static sans typeface.
+- [Kontinentalist](https://www.typewolf.com/site-of-the-day/kontinentalist)
 
 ## Links
 

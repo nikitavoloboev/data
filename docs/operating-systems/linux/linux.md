@@ -539,3 +539,5 @@ the execution time on all cores of a multi-core processor.
 - [strace](https://github.com/strace/strace) - Diagnostic, debugging and instructional userspace utility for Linux.
 - [eBPF (extended Berkeley Packet Filter) Guide](https://github.com/mikeroyal/eBPF-Guide)
 - [Bad BPF](https://github.com/pathtofile/bad-bpf) - Collection of eBPF programs demonstrating bad behavior.
+- [libkrunfw](https://github.com/containers/libkrunfw) - Dynamic library bundling a Linux kernel in a convenient storage format.
+- [mempeek](https://github.com/gamozolabs/mempeek) - Command-line tool designed to peek around memory of a running Linux process.

@@ -815,3 +815,4 @@
 - [Planning with Diffusion for Flexible Behavior Synthesis (2022)](https://diffusion-planning.github.io/) ([Code](https://github.com/jannerm/diffuser))
 - [Solutions to Recommender Systems competitions](https://github.com/NVIDIA-Merlin/competitions)
 - [Recipe for a General, Powerful, Scalable Graph Transformer (2022)](https://arxiv.org/abs/2205.12454) ([Code](https://github.com/rampasek/GraphGPS))
+- [How to properly handle hyperparameter configs in ML repos (2022)](https://twitter.com/karpathy/status/1528808361558306817)

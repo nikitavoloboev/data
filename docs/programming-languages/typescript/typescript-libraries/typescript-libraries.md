@@ -601,3 +601,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript SQL tagged template plugin](https://github.com/frigus02/typescript-sql-tagged-template-plugin) - TypeScript server plugin that adds type checking for SQL queries tagged with an sql function.
 - [suppress-ts-errors](https://github.com/kawamataryo/suppress-ts-errors) - CLI tool to add comments to suppress typescript type errors.
 - [TypeScript Module Toolkit](https://github.com/tsmodule/tsmodule) - Toolkit for developing pure ESM TypeScript packages that target any platform (browser, Node, etc.).
+- [Typehead](https://github.com/mapbox/typehead) - Thin wrapper around ESBuild that makes it refreshingly simple to develop NPM packages using TypeScript.

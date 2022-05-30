@@ -59,3 +59,4 @@
 - [Modenv](https://github.com/kurtbuilds/modenv) - CLI to easily manage .env files and keep them consistent. It is simple, fast, error resistant, and composable.
 - [envplat](https://github.com/envplat/envplat) - Self-hosted environment variable management platform.
 - [Ask HN: How do you sync your computer’s development configurations/environment? (2022)](https://news.ycombinator.com/item?id=31517668)
+- [Kusion Configuration Language (KCL)](https://github.com/KusionStack/KCLVM) - Constraint-based record & functional language mainly used in configuration and policy scenarios.

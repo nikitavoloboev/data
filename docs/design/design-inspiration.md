@@ -8,6 +8,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 
 - [Column](https://column.com/)
 - [Glass](https://glass.photo/)
+- [Dona](https://dona.ai/)
 - [Modfy](https://www.modfy.video/)
 - [Instatus](https://instatus.com/)
 - [Primer](https://primer.com/)
@@ -992,3 +993,4 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Ask HN: What are the best-designed things you've ever used? (2021)](https://news.ycombinator.com/item?id=29353980)
 - [Ask HN: What is the most unique website you’ve come across on the internet? (2022)](https://news.ycombinator.com/item?id=30440123)
 - [Ask HN: What are your favorite examples of elegant software? (2022)](https://news.ycombinator.com/item?id=31230903)
+- [Simple but nice portfolios](https://twitter.com/bruno_simon/status/1531244873541726212)

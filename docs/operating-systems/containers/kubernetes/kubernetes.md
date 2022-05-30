@@ -743,3 +743,4 @@ title: Kubernetes
 - [Minikube](https://minikube.sigs.k8s.io/docs/) - Quickly sets up a local Kubernetes cluster. ([HN](https://news.ycombinator.com/item?id=31509011))
 - [resource-metadata](https://github.com/kmodules/resource-metadata) - API for defining metadata about Kubernetes resources.
 - [Free Kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services.
+- [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.

@@ -79,3 +79,4 @@ title: WireGuard
 - [You may not need Cloudflare Tunnel. Linux is fine (2022)](https://kiwiziti.com/~matt/wireguard/) ([HN](https://news.ycombinator.com/item?id=30953744))
 - [Tailscale raises $100M to fix the Internet (2022)](https://tailscale.com/blog/series-b/) ([HN](https://news.ycombinator.com/item?id=31259950))
 - [Compare WireGuard Mesh Tools](https://github.com/HarvsG/WireGuardMeshes)
+- [wireguard_exporter](https://github.com/kbknapp/wireguard_exporter) - Prometheus exporter for WireGuard.
