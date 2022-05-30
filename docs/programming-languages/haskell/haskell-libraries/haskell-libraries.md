@@ -21,6 +21,7 @@
 - [jose](https://github.com/frasertweedale/hs-jose) - Haskell JOSE and JWT library.
 - [network-wait](https://github.com/mbg/network-wait) - Lightweight Haskell library for waiting on networked services to become available.
 - [Biscuit](https://github.com/biscuit-auth/biscuit-haskell) - Haskell libraries providing support for the Biscuit auth toolkit.
+- [network](https://github.com/haskell/network) - Low-level networking interface.
 
 ## DB
 

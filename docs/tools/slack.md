@@ -79,3 +79,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [The Problem with Slack at Scale (2022)](https://liorn.substack.com/p/the-problem-with-slack?s=r) ([HN](https://news.ycombinator.com/item?id=31323227))
 - [Bashbot](https://github.com/mathew-fleisch/bashbot) - Slack-bot written in Go for infrastructure/devops teams.
 - [Beacon](https://github.com/dominikwilkowski/beacon) - Slack bot for non verbal cues to make it easier on your mental health to tell people you're out of action for the day.
+- [Deno Slack SDK](https://github.com/slackapi/deno-slack-sdk) - SDK for the Deno Runtime of Run on Slack Functions.

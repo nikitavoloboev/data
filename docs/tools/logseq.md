@@ -25,3 +25,5 @@ title: Logseq
 - [Teletolo](https://github.com/abul4fia/teletolo) - Telegram To Logseq.
 - [Obsidian LogSeq plugin](https://github.com/ruivieira/obsidian-plugin-logseq) - Simple plugin to make Obsidian's preview of LogSeq markdown a bit more pleasant.
 - [fireSeqSearch](https://github.com/Endle/fireSeqSearch) - Append Logseq notes while Googling.
+- [Logseq Web Parser](https://github.com/sawhney17/logseq-web-parser) - Simple plugin to parse the contents of a website and insert it under a block.
+- [Aryan Sawhney](https://aryansawhney.com/) - Writes many plugins for Logseq.

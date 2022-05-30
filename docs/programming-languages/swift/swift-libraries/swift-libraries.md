@@ -575,6 +575,7 @@
 - [Vapor provider for RediStack](https://github.com/vapor/redis)
 - [CloudKit + Codable](https://github.com/insidegui/CloudKitCodable)
 - [PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - PostgreSQL client library for Swift.
+- [Bodega](https://github.com/mergesort/Bodega) - Simple store for all your basic needs.
 
 ## Graphics
 

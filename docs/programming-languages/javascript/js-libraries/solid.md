@@ -84,3 +84,4 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 - [Solid Templates (using Vite)](https://github.com/solidjs/templates)
 - [Solid Heroicons](https://github.com/amoutonbrady/solid-heroicons)
 - [SolidJS - YouTube](https://www.youtube.com/channel/UCXsRnrbzIX8KHdf86PE241Q/videos)
+- [Carbon Components (SolidJS Port)](https://github.com/mosheduminer/carbon-components-solid)

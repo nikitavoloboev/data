@@ -929,6 +929,7 @@
 - [ip-address](https://github.com/beaugunderson/ip-address) - Library for validating and manipulating IPv4 and IPv6 addresses in JavaScript.
 - [minimatch](https://github.com/isaacs/minimatch) - Minimal matching utility.
 - [Scroller](https://github.com/bespoyasov/scroller) - Fast, light-weight, and dependency-free content scroller.
+- [Rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda.
 
 ## Links
 

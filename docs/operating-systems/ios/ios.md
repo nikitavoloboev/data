@@ -125,6 +125,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [KeePassium Password Manager iOS](https://github.com/keepassium/KeePassium)
 - [WWDC22 Swift Student Challenge Submission](https://github.com/henribredt/Typography-WWDC22)
 - [Pegboard](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - Creative workspace with node-based editor built-in. Purely written in SwiftUI.
+- [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks) - Effortlessly take control of your day with Hour Blocks: Day Planner for iOS and macOS.
 
 ## Other
 

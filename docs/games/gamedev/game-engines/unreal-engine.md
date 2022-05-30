@@ -34,3 +34,4 @@ title: Unreal Engine
 - [Community Mass Sample](https://github.com/Megafunk/MassSample) - Understanding of Unreal Engine 5's experimental Entity Component System (ECS) plugin with a small sample project.
 - [Unreal vs. Unity Opinion (2022)](https://gist.github.com/flibitijibibo/035087d8736441786b10e8c3879d50dd) ([Lobsters](https://lobste.rs/s/fcb3of/unity_unreal_engine_5)) ([HN](https://news.ycombinator.com/item?id=31064552))
 - [LuaMachine](https://github.com/rdeioris/LuaMachine) - Unreal Engine Plugin for adding Lua scripting to your projects.
+- [Houdini Engine Plugin for Unreal Engine](https://github.com/sideeffects/HoudiniEngineForUnreal)

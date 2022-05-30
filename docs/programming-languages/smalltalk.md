@@ -55,3 +55,4 @@ title: Smalltalk
 - [PySOM](https://github.com/smarr/PySOM) - Simple Object Machine Smalltalk.
 - [Stargate](https://github.com/ba-st/Stargate) - Library supporting the creation of HTTP based RESTful APIs.
 - [Carp inside Glamorous Toolkit](https://github.com/carpentry-org/gt4carp)
+- [Lisp, Smalltalk, and the power of symmetry (2014)](https://insearchofsecrets.com/2014/08/04/lisp-smalltalk-and-the-power-of-symmetry/) ([HN](https://news.ycombinator.com/item?id=31552349))

@@ -263,3 +263,4 @@
 - [Why did they throw the level designers under the bus?](https://www.youtube.com/watch?v=QGom--EtVfA)
 - [Behind the Pretty Frames: Elden Ring (2022)](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
 - [How Do Video Games Stay in Sync? (2022)](https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f) ([HN](https://news.ycombinator.com/item?id=31512257))
+- [SideFX](https://www.sidefx.com/) - Houdini - 3D modeling, animation, VFX, look development, lighting and rendering. ([GitHub](https://github.com/sideeffects))

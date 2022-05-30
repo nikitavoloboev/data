@@ -52,6 +52,7 @@
 - [async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp) - Simple thread-based asynchronous TCP & UDP Socket classes in C++.
 - [mockturtle](https://github.com/lsils/mockturtle) - C++ logic network library.
 - [Wt](https://github.com/emweb/wt) - C++ Web Toolkit.
+- [Beast](https://github.com/boostorg/beast) - HTTP and WebSocket built on Boost.Asio in C++11.
 
 ## Graphics
 

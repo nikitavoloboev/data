@@ -431,3 +431,4 @@ Awesome List
 - [gh-i](https://github.com/gennaro-tedesco/gh-i) - Search your GitHub issues interactively.
 - [GitHub-Compare](https://github.com/anqiansong/github-compare) - Command-line tool to statistics the GitHub repositories.
 - [pullsheet](https://github.com/google/pullsheet) - Generate spreadsheets based on GitHub contributions.
+- [octobors](https://github.com/EmbarkStudios/octobors) - Rust program for automerging PRs based on a few rules.

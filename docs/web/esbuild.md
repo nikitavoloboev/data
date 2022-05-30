@@ -15,3 +15,4 @@ title: esbuild
 - [esbuild-minify-templates](https://github.com/maxmilton/esbuild-minify-templates) - Minify template literal strings as part of an esbuild powered build process.
 - [esrun](https://github.com/digital-loukoum/esrun) - Simple wrapper around esbuild to execute a Typescript file.
 - [esbuild-serve](https://github.com/nativew/esbuild-serve) - Serve with live reload for esbuild.
+- [esbuild-plugin-raw](https://github.com/hannoeru/esbuild-plugin-raw) - Esbuild plugin for raw import.

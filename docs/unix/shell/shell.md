@@ -232,3 +232,4 @@ All active variables can be seen by running `env`.
 - [GameShell](https://github.com/phyver/GameShell) - Game to learn (or teach) how to use standard commands in a Unix shell. ([HN](https://news.ycombinator.com/item?id=31502917))
 - [Shell Patterns for Easy Automated Code Migrations](https://will-keleher.com/posts/tricks-for-automated-code-migrations.html) ([HN](https://news.ycombinator.com/item?id=31506729))
 - [Shell scripts should be written to be clear first](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsBeClearFirst)
+- [Writing Unit-Tests and Mocks for UNIX Shells (2022)](https://poisel.info/posts/2022-05-10-shell-unit-tests/)

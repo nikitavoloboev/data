@@ -1894,6 +1894,10 @@
 - [miniraft](https://github.com/jackyzha0/miniraft) - Minimal implementation of the Raft consensus protocol with a focus on readability/understandability.
 - [Rust native JSON deserializer](https://github.com/jorgecarleitao/json-deserializer) - Performant Rust implementation to parse JSON by reference.
 - [Rink](https://github.com/tiffany352/rink-rs) - Unit conversion tool and library written in rust.
+- [regalloc.rs](https://github.com/bytecodealliance/regalloc.rs) - Modular register allocator algorithms.
+- [tokio-file-unix](https://github.com/Rufflewind/tokio-file-unix) - Asynchronous support for epollable files via Tokio on Unix-like platforms.
+- [sento](https://github.com/jonhoo/sento) - Lock-free, append-only atomic pool.
+- [rustracing_jaeger](https://github.com/sile/rustracing_jaeger) - Jaeger tracing library for Rust.
 
 ## Cargo Plugins
 
