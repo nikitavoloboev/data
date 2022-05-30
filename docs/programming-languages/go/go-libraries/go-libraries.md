@@ -1661,6 +1661,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [FlatBSON](https://github.com/chidiwilliams/flatbson) - Recursively flatten a Go struct using its BSON tags.
 - [socks5](https://github.com/haochen233/socks5) - Go library about socks5, supports all socks5 commands.
 - [pctl](https://github.com/brandondube/pctl) - Industrial control systems in Go.
+- [Trie](https://github.com/dghubble/trie) - Fast, zero heap allocation Go Trie for runes or paths.
 
 ## Links
 

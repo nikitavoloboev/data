@@ -186,3 +186,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [StatusBase](https://github.com/zernonia/statusbase) - Uptime monitoring tool & beautiful status pages.
 - [Dagu](https://github.com/yohamta/dagu) - Self-contained, standalone No-code workflow executor that runs DAGs defined in a simple, declarative YAML format that is similar to GitHub Actions or Argo Workflows with built-in Web UI.
 - [atmos](https://github.com/cloudposse/atmos) - Universal Tool for DevOps and Cloud Automation (works with terraform, helm, helmfile, etc). ([Guide](https://atmos.tools/))
+- [Delivery CLI](https://github.com/chef-boneyard/delivery-cli) - Command line tool for the workflow capabilities in Chef Automate.

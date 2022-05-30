@@ -1902,6 +1902,7 @@
 - [jsonc-parser](https://github.com/dprint/jsonc-parser) - JSONC parser for Rust.
 - [JSON5](https://github.com/callum-oakley/json5-rs) - Rust JSON5 serializer and deserializer which speaks Serde.
 - [metered-rs](https://github.com/magnet/metered-rs) - Fast, ergonomic metrics for Rust.
+- [shellexpand](https://github.com/netvl/shellexpand) - Library for shell-like expansions of variables in strings.
 
 ## Cargo Plugins
 
@@ -2112,3 +2113,4 @@
 - [How does Rust Python ffi work? (2022)](https://www.reddit.com/r/rust/comments/umr7oo/how_does_rust_python_ffi_work/)
 - [The problem of safe FFI bindings in Rust (2020)](https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust)
 - [Rust CI with GitHub Actions](https://github.com/BamPeers/rust-ci-github-actions-workflow)
+- [Deps.rs](https://deps.rs/) - Keep your dependencies up-to-date. ([Code](https://github.com/deps-rs/deps.rs))

@@ -584,3 +584,4 @@
 - [Concise Concepts](https://github.com/Pandora-Intelligence/concise-concepts) - Contains an easy and intuitive approach to few-shot NER using most similar expansion over spaCy embeddings. Now with entity scoring.
 - [Dynamic language understanding: adaptation to new knowledge in parametric and semi-parametric models (2022)](https://www.deepmind.com/publications/dynamic-language-understanding-adaptation-to-new-knowledge-in-parametric-and-semi-parametric-models) ([Tweet](https://twitter.com/DeepMind/status/1529846251558256642))
 - [nlprule](https://github.com/bminixhofer/nlprule) - Fast, low-resource Natural Language Processing and Text Correction library written in Rust.
+- [Quark: Controllable Text Generation with Reinforced Unlearning (2022)](https://arxiv.org/abs/2205.13636) ([Tweet](https://twitter.com/rajammanabrolu/status/1531308092629012485))

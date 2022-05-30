@@ -222,3 +222,4 @@
 - [Monadic Compiler Calculation (2022)](http://www.cs.nott.ac.uk/~pszgmh/ccc3.pdf)
 - [Podcast: PhD research on meta programming and static analyzers (2022)](https://changelog.com/gotime/227)
 - [Research or articles on different, more efficient compiler designs (2022)](https://www.reddit.com/r/Compilers/comments/uxvf73/is_there_any_research_or_articles_on_different/)
+- [dewolf](https://github.com/fkie-cad/dewolf) - Research decompiler implemented as a Binary Ninja plugin and uses the MedimumLevel IL as a starting point.

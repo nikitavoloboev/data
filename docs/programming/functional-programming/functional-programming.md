@@ -179,6 +179,7 @@
 - [The Dao of Functional Programming (2022)](https://github.com/BartoszMilewski/Publications/blob/master/TheDaoOfFP/DaoFP.pdf) ([Code](https://github.com/BartoszMilewski/DaoFP)) ([HN](https://news.ycombinator.com/item?id=31466441))
 - [Teika](https://github.com/teikalang/teika) - Functional programming language.
 - [Gren](https://github.com/gren-lang/compiler) - Functional programming language with carefully managed side-effects and a strong static type system. ([Web](https://gren-lang.org/)) ([Twitter](https://twitter.com/gren_lang))
+- [Grin](https://github.com/fizruk/simple-grin) - Simple functional language.
 
 ## Images
 

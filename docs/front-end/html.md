@@ -11,6 +11,7 @@ title: HTML
 - [When I work on a website, I set the body to contenteditable="true". This allows you to edit all text on the page, which I find helpful to improve the content, and also enables spell checking.](https://www.reddit.com/r/programming/comments/tzmqua/those_html_attributes_you_never_use/)
 - `span is an inline div, it doesn't go to a new line`.
 - `use span for text, div for everything else (buttons, lines etc.)`
+- [HTML file inputs can access photos, videos, and audio captured directly by the device's camera](https://twitter.com/housecor/status/1529437325792628736)
 
 ## Code
 

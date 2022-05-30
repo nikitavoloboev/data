@@ -558,3 +558,4 @@
 - [Ask HN: What helped you get good at programming? (2022)](https://news.ycombinator.com/item?id=31240927)
 - [Dive into Systems](https://diveintosystems.org/) - Free, online textbook that serves as a gentle introduction to computer systems, computer organization, and parallel computing.
 - [Thorsten Ball - Professional Programming: The First 10 Years (2022)](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) ([HN](https://news.ycombinator.com/item?id=31407454))
+- [Why Reproductions are Required (2022)](https://antfu.me/posts/why-reproductions-are-required) ([Tweet](https://twitter.com/antfu7/status/1531306560370397185))

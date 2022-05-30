@@ -1009,3 +1009,4 @@
 - [Four Eras of JavaScript Frameworks (2022)](https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks) ([HN](https://news.ycombinator.com/item?id=31176910))
 - [JS Framework Benchmark](https://github.com/krausest/js-framework-benchmark) - Simple benchmark for several JS frameworks.
 - [Nice form libraries (work with JSON)](https://twitter.com/buildsghost/status/1524098282191917056)
+- [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.

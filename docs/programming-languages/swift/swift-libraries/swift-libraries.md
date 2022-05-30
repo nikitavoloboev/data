@@ -1145,6 +1145,7 @@
 - [Imaginary](https://github.com/hyperoslo/Imaginary) - Remote images, as easy as one, two, three.
 - [Injectable](https://github.com/hmlongco/Injectable) - New Dependency Injection approach for Swift and SwiftUI.
 - [QRCode](https://github.com/dagronf/QRCode) - Simple and quick macOS/iOS/tvOS/watchOS QR Code generator library for SwiftUI, Swift and Objective-C.
+- [Glider](https://github.com/malcommac/Glider) - Logger.
 
 ## Other (not lib)
 

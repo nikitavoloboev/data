@@ -4,7 +4,7 @@ My current favorite font for programming is [JetBrains Mono](https://www.jetbrai
 
 I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I love the default San Francisco Apple font for use in everything else.
 
-[Variable Fonts](https://v-fonts.com/) are neat.
+[Variable Fonts](https://v-fonts.com/) are neat. [Glyphs app](https://glyphsapp.com/) is [great for designing fonts](https://twitter.com/joeltalksdesign/status/1531296706792415234).
 
 ## Interesting fonts
 
@@ -272,7 +272,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Grid Systems in Graphic Design Book](https://www.goodreads.com/book/show/350962.Grid_Systems_in_Graphic_Design_Raster_Systeme_Fur_Die_Visuele_Gestaltung)
 - [Continuous Typography (2020)](https://maxkoehler.com/posts/continuous-typography/)
 - [Fontshare](https://www.fontshare.com/) - Free fonts service.
-- [Glyphs](https://glyphsapp.com/) - Mac font editor that puts you in control.
+- [Glyphs](https://glyphsapp.com/) - Mac font editor that puts you in control. ([Twitter](https://twitter.com/glyphsapp))
 - [Glyphs Python Scripts](https://github.com/mekkablue/Glyphs-Scripts)
 - [Let’s fix font size (2021)](https://tonsky.me/blog/font-size/) ([HN](https://news.ycombinator.com/item?id=26633148)) ([Lobsters](https://lobste.rs/s/nl6nd3/font_size_is_useless_let_s_fix_it))
 - [Free Font Alternatives: The Ultimate Guide (2021)](https://learnui.design/blog/ultimate-guide-similar-fonts.html)
@@ -368,3 +368,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [font-rs](https://github.com/raphlinus/font-rs) - Font renderer written (mostly) in pure, safe Rust. There is an optional SIMD module for cumulative sum, currently written in C SSE3 intrinsics.
 - [Learn the Logic of Great Typography](https://learnui.design/tools/typography-tutorial.html) ([HN](https://news.ycombinator.com/item?id=31528601))
 - [ttf2mesh](https://github.com/fetisov/ttf2mesh) - Standalone library for TrueType font tessellation. Allows to load ttf-file and convert its glyphs to 2D or 3D mesh objects without rasterization.
+- [Tips on designing monospace font](https://twitter.com/joeltalksdesign/status/1531296706792415234)

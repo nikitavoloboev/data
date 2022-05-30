@@ -10,6 +10,7 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 
 ## OSS Remix apps
 
+- [Remix + Deno + Rust -> Webassembly - The Air Metal Stack](https://github.com/benwis/air-metal-stack)
 - [Remix + Cloudflare Workers + Wrangler2 + Tailwind + ESLint + Prettier + Vitest + Playwright](https://github.com/okym-t/remix-cloudflare-workers-starterkit)
 - [Remix on Netlify Edge Functions](https://github.com/netlify/remix-edge-template) ([Another version](https://github.com/mcansh/remix-netlify-edge-js))
 - [Remix + EdgeDB Stack](https://github.com/edgedb/remix)
@@ -148,3 +149,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Shipping to the Edge: Kent C Dodds (2022)](https://www.youtube.com/watch?v=osSaUWlgAyo)
 - [Learn Remix by Building a Social Media Platform with TypeScript and Prisma (2022)](https://egghead.io/courses/learn-remix-by-building-a-social-media-platform-with-typescript-and-prisma-cddb0550)
 - [Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
+- [Adding route transition animations in Remix (2022)](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)

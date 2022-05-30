@@ -219,3 +219,4 @@ title: SwiftUI
 - [Markdown rendering using Text in SwiftUI (2022)](https://www.avanderlee.com/swiftui/markdown-text/)
 - [Build an Animated App with Rive and SwiftUI - Design+Code](https://designcode.io/swiftui-rive-animated-app)
 - [SwiftUI Tutorials Code](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials)
+- [Learning SwiftUI thread (2022)](https://twitter.com/Suhail/status/1530941012285083650)

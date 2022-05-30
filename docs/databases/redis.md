@@ -152,3 +152,4 @@ title: Redis
 - [RoseDB](https://github.com/flower-corp/rosedb) - High performance NoSQL database based on bitcask, supports string, list, hash, set, and sorted set. Similar to Redis but store values on disk.
 - [RediSearch](https://redis.io/docs/stack/search/) - Queries, secondary indexing, and full-text search for Redis. ([Go Client](https://github.com/RediSearch/redisearch-go))
 - [Redust](https://github.com/appellation/redust) - Simple Redis client & RESP parser for Rust.
+- [Redis Analysis - Part 1: Threading model (2021)](https://www.romange.com/2021/12/09/redis-analysis-part-1-threading-model/)

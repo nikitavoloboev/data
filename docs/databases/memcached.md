@@ -20,3 +20,4 @@ title: Memcached
 - [Memcached Exporter for Prometheus](https://github.com/prometheus/memcached_exporter)
 - [memcache-async](https://github.com/vavrusa/memcache-async) - No-frills async memcached client for Rust.
 - [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) - Lua memcached client driver for the ngx_lua based on the cosocket API.
+- [Dragonflydb](https://github.com/dragonflydb/dragonfly) - Modern replacement for Redis and Memcached. ([HN](https://news.ycombinator.com/item?id=31560547))

@@ -221,3 +221,4 @@ title: DNS
 - [KittenDNS](https://github.com/Fusion/kittendns) - Easy to setup, rule engine, LetsEncrypt compatible. ([HN](https://news.ycombinator.com/item?id=31391376))
 - [Tsein DNS](https://github.com/ClSlaid/TseinDNS) - Robust and high performance DNS resolver supporting multiple DNS protocols.
 - [Dename](https://github.com/DjDeveloperr/Dename) - DNS Server framework for Deno.
+- [ratelimit](https://github.com/milgradesec/ratelimit) - CoreDNS plugin that enables response rate limiting to mitigate DNS attacks.

@@ -477,3 +477,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Apple PLSQL viewer](https://github.com/saagarjha/EffectivePower) ([Tweet](https://twitter.com/_saagarjha/status/1528937319171887104))
 - [Assist](https://github.com/Blackjacx/Assist) - App Store Connect API access via Swift command line tool.
 - [Building iOS Apps with Swift, TDD & Clean Architecture](https://github.com/essentialdevelopercom/quiz-app)
+- [Как стать iOS-разработчиком и быстро выучить Swift (2022)](https://skillbox.ru/media/code/kak-vyuchit-swift-i-stat-iosrazrabotchikom-poshagovyy-plan-ot-roadmap-do-sobesedovaniy/)

@@ -163,3 +163,4 @@ title: Quantum computing
 - [qcircuit](https://github.com/CQuIC/qcircuit) - Quantum circuit drawing application.
 - [MindQuantum](https://github.com/mindspore-ai/mindquantum) - Quantum machine learning library that can be used to build and train different quantum neural networks.
 - [High-performance simulator for executing QIR on GPU and CPU backends](https://github.com/qir-alliance/nwqsim)
+- [Unitary Fund](https://unitaryhack.dev/) - Helping create a quantum technology ecosystem that benefits the most people. ([Twitter](https://twitter.com/unitaryfund))

@@ -120,3 +120,4 @@
 - [Remembering Buildtool (2022)](https://jmmv.dev/2022/05/remembering-buildtool.html)
 - [Dirsh](https://github.com/christian-blades-cb/dirsh) - Consistent hashing of directories, respects your gitignore.
 - [blight](https://github.com/trailofbits/blight) - Framework for instrumenting build tools.
+- [Improve Build Times in Less Time by Zac Sweers (2022)](https://www.youtube.com/watch?v=CkKtCuqqxHs) ([Slides](https://speakerdeck.com/zacsweers/improve-build-times-in-less-time))

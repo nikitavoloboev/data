@@ -97,3 +97,4 @@ title: WebSocket
 - [Thor](https://github.com/observing/thor) - WebSocket benchmarking/load generator.
 - [Axum Typed WebSockets](https://github.com/davidpdrsn/axum-typed-websockets) - axum::extract::ws with type safe messages.
 - [Libwebsockets](https://github.com/warmcat/libwebsockets) - Simple-to-use, pure C library providing client and server for http/1, http/2, websockets, MQTT and other protocols in a security-minded, lightweight, configurable, scalable and flexible way. ([Web](https://libwebsockets.org/))
+- [Zig WebSocket server](https://github.com/karlseguin/websocket.zig)

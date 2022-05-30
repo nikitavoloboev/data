@@ -45,3 +45,4 @@
 - [Privaxy](https://github.com/Barre/privaxy) - Ad blocking / tracker blocking by MITMing HTTPS traffic. ([HN](https://news.ycombinator.com/item?id=31432848))
 - [Pi-hole deployed into Fly.io and transported with Tailscale](https://github.com/paulsmith/fli-hole)
 - [Setting Up a Pi Hole Made My Home Network Faster (2019)](https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/) ([HN](https://news.ycombinator.com/item?id=31549238))
+- [PaesaDNS](https://github.com/milgradesec/paesadns) - Free ad-blocking and privacy focused DNS over HTTPS service.
