@@ -52,3 +52,4 @@ title: MongoDB
 - [MongoX](https://github.com/aminalaee/mongox) - Familiar async Python MongoDB ODM.
 - [Qmgo](https://github.com/qiniu/qmgo) - Go driver for MongoDB.
 - [dangoDB](https://github.com/oslabs-beta/dangoDB) - MongoDB ODM for Deno.
+- [Go Kafka gRPC MongoDB microservice example](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice)

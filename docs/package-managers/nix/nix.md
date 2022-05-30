@@ -360,3 +360,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Replit - Dynamic version for Nix derivations (2021)](https://blog.replit.com/nix_dynamic_version)
 - [nix-serve](https://github.com/edolstra/nix-serve) - Standalone Nix binary cache server.
 - [Zicross](https://github.com/flyx/Zicross) - Nix Flake for cross-compiling and packaging for foreign systems.
+- [Tutorial: Getting started with Home Manager for Nix (2021)](http://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix)
+- [A Tour of Nix Flakes (2022)](http://ghedam.at/a-tour-of-nix-flakes)

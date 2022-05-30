@@ -265,6 +265,7 @@ title: TypeScript
 - [Modern Typescript with Examples Cheat Sheet](https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet)
 - [TypeScript 4.7 (2022)](https://devblogs.microsoft.com/typescript/announcing-typescript-4-7/) ([Lobsters](https://lobste.rs/s/g6mboy/announcing_typescript_4_7))
 - [Advanced TypeScript - YouTube](https://www.youtube.com/playlist?list=PLIvujZeVDLMx040-j1W4WFs1BxuTGdI_b)
+- [type-trident](https://github.com/anuraghazra/type-trident) - Curated list of advanced type level madness.
 
 ## Images
 

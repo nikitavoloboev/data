@@ -4,6 +4,8 @@ title: Elm
 
 # [Elm](https://elm-lang.org/)
 
+[Introduction to Elm](https://guide.elm-lang.org/) is a good read.
+
 ## Links
 
 - [How to create modular Elm code that scales nicely with your app](https://github.com/evancz/elm-architecture-tutorial)
@@ -103,3 +105,4 @@ title: Elm
 - [Elm Store Pattern](https://github.com/Janiczek/elm-store-pattern)
 - [Elm Value Graph](https://lydell.github.io/elm-value-graph/) - Show how every value in an Elm application depend on each other, as a graph. ([Code](https://github.com/lydell/elm-value-graph))
 - [Fixing vulnerabilities in Elm's virtual DOM (2022)](https://jfmengels.net/virtual-dom-security-patch/)
+- [Introduction to Elm Book](https://guide.elm-lang.org/) ([Code](https://github.com/evancz/guide.elm-lang.org))

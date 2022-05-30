@@ -390,7 +390,7 @@ title: Haskell
 - [Asynchronous Exceptions in Practice (2017)](https://simonmar.github.io/posts/2017-01-24-asynchronous-exceptions.html)
 - [The Voids Of Haskell](https://github.com/graninas/The-Voids-Of-Haskell) ([Lobsters](https://lobste.rs/s/o2yrfh/voids_haskell))
 - [Zürich Friends of Haskell](https://zfoh.ch/)
-- [ZuriHac 2022](https://zfoh.ch/zurihac2022/)
+- [ZuriHac 2022](https://zfoh.ch/zurihac2022/) ([Workshop](https://github.com/serras/zurihac-workshop))
 - [About that Reader trick (2022)](https://www.micahcantor.com/blog/about-that-reader-trick/)
 - [Failing in Haskell (2022)](https://jappie.me/failing-in-haskell.html) ([HN](https://news.ycombinator.com/item?id=30477630))
 - [Lambda Diagrams](https://github.com/polux/lambda-diagrams) - Animations of lambda term reduction sequences.

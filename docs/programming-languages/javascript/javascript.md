@@ -448,3 +448,4 @@ if (
 - [Fast way to do a JS socket API](https://twitter.com/jarredsumner/status/1529049475204849666)
 - [Processing Arrays non-destructively: `for-of` vs. `.reduce()` vs. `.flatMap()` (2022)](https://2ality.com/2022/05/processing-arrays-non-destructively.html)
 - [Now and .then: Debugging Async JavaScript - Jenn Creighton (2022)](https://www.youtube.com/watch?v=V-lu0YjJYdk)
+- [JavaScript tree-sitter](https://github.com/tree-sitter/tree-sitter-javascript) - JavaScript and JSX grammar for tree-sitter.

@@ -40,3 +40,4 @@ title: MobX
 - [mobx-async-toolkit](https://github.com/alan2207/mobx-async-toolkit) - Toolkit for handling async operations in MobX stores.
 - [Understanding MobX](https://github.com/jeromepl/understanding-mobx) - Minimalist implementation of MobX to better understand its inner workings.
 - [Intro to MobX-State-Tree and MobX-React (2022)](https://www.loom.com/share/9e3afe0547824e42bada06191e891ae1)
+- [Mobx Persist Store](https://github.com/quarrant/mobx-persist-store) - Persist and rehydrate observable properties in mobx store.

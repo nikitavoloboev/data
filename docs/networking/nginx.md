@@ -86,3 +86,4 @@ title: Nginx
 - [Crossplane](https://github.com/nginxinc/crossplane) - Quick and reliable way to convert NGINX configurations into JSON and back.
 - [Nginx Language Server](https://github.com/pappasam/nginx-language-server)
 - [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures) ([HN](https://news.ycombinator.com/item?id=31436726))
+- [Built-from-source container image of NGINX](https://github.com/ricardbejarano/nginx)

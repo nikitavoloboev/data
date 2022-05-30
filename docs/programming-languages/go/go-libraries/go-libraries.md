@@ -581,6 +581,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [BLS12-381](https://github.com/kilic/bls12-381) - High Speed BLS12-381 Implementation in Go.
 - [Disco](https://github.com/mimoo/disco) - Protocol to encrypt communications and a cryptographic library based on Disco.
 - [libhydrogen-go](https://github.com/someburner/libhydrogen-go) - Go wrapper for libhydrogen.
+- [GopenPGP](https://github.com/ProtonMail/gopenpgp) - High-level OpenPGP library.
 
 ## Linux
 

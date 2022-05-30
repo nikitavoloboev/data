@@ -33,3 +33,4 @@
 - [Tipi](https://github.com/meienberger/runtipi) - Personal home server for everyone. ([Reddit](https://www.reddit.com/r/selfhosted/comments/uq5844/tipi_a_home_server_orchestrator_using_docker/))
 - [pinvault](https://github.com/raffomania/pinvault) - Personal, multi-media, distributed and social web archiving tool. Think Pinterest, mastodon, the internet archive and BitTorrent mashed up in a single app.
 - [Homarr](https://github.com/ajnart/homarr) - Simple and lightweight homepage for your server, that helps you easily access all of your services in one place.
+- [dash.](https://github.com/MauriceNino/dashdot) - Simple, modern server dashboard, primarily used by smaller private servers.

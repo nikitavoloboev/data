@@ -108,7 +108,7 @@ Blockchain is an [immutable linked list of hashes that uses some consensus syste
 - [Mechanism Design with Blockchain Enforcement (2020)](https://www.carf.e.u-tokyo.ac.jp/admin/wp-content/uploads/2020/03/F474.pdf)
 - [Ask HN: Are there any substantial examples of blockchain solving a real problem? (2020)](https://news.ycombinator.com/item?id=22914430)
 - [Deconstructing Stellar Consensus (Extended Version) (2019)](https://arxiv.org/pdf/1911.05145.pdf)
-- [ink!](https://github.com/paritytech/ink) - eDSL to write WebAssembly based smart contracts using the Rust programming language targeting Substrate blockchains.
+- [ink!](https://github.com/paritytech/ink) - eDSL to write WebAssembly based smart contracts using the Rust programming language targeting Substrate blockchains. ([Awesome](https://github.com/paritytech/awesome-ink))
 - [Experimental blockchain database](https://github.com/paritytech/parity-db)
 - [David Gerard: Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/)
 - [Build a Blockchain from Scratch in Go](https://web3coach.gumroad.com/l/build-a-blockchain-from-scratch-in-go) ([Code](https://github.com/web3coach/the-blockchain-bar))

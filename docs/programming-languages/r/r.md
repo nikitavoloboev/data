@@ -166,3 +166,4 @@
 - [swiftr](https://github.com/hrbrmstr/swiftr) - Seamless R and Swift Integration.
 - [Fast Lane to Learning R](https://github.com/matloff/fasteR) ([HN](https://news.ycombinator.com/item?id=31385554))
 - [pak](https://github.com/r-lib/pak) - Fresh Approach to R Package Installation.
+- [httr2](https://github.com/r-lib/httr2) - Make HTTP requests and process their responses. A modern reimagining of httr.

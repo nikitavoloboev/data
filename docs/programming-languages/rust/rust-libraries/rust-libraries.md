@@ -1898,6 +1898,8 @@
 - [tokio-file-unix](https://github.com/Rufflewind/tokio-file-unix) - Asynchronous support for epollable files via Tokio on Unix-like platforms.
 - [sento](https://github.com/jonhoo/sento) - Lock-free, append-only atomic pool.
 - [rustracing_jaeger](https://github.com/sile/rustracing_jaeger) - Jaeger tracing library for Rust.
+- [jsonc-parser](https://github.com/dprint/jsonc-parser) - JSONC parser for Rust.
+- [JSON5](https://github.com/callum-oakley/json5-rs) - Rust JSON5 serializer and deserializer which speaks Serde.
 
 ## Cargo Plugins
 

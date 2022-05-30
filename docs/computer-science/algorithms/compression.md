@@ -132,3 +132,4 @@
 - [Zstandard Worked Example](https://nigeltao.github.io/blog/2022/zstandard-part-1-concepts.html) ([HN](https://news.ycombinator.com/item?id=31411714))
 - [Silly Lossy Text Compression Idea (2022)](https://snufk.in/blog/silly-compression-text.html) ([HN](https://news.ycombinator.com/item?id=31435978))
 - [Lizard](https://github.com/inikep/lizard) - Efficient compression with fast decompression. ([HN](https://news.ycombinator.com/item?id=31500640))
+- [lzbase62](https://github.com/polygonplanet/lzbase62) - LZ77(LZSS) based compression algorithm in base62 for JavaScript.

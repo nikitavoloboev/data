@@ -174,3 +174,6 @@ title: Terraform
 - [Terraform should have remained stateless (2022)](https://www.bejarano.io/terraform-stateless/) ([HN](https://news.ycombinator.com/item?id=31537319))
 - [terranix](https://github.com/terranix/terranix) - terraform.json generator with a nix-like feeling.
 - [k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter.
+- [hcdiag](https://github.com/hashicorp/hcdiag) - Simplify the collection of relevant support data for HashiCorp products.
+- [HashiCorp HCL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=HashiCorp.HCL) - HashiCorp HCL syntax. ([Code](https://github.com/hashicorp/vscode-hcl))
+- [tfcloud](https://github.com/chroju/tfcloud) - Terraform Cloud CLI tool.

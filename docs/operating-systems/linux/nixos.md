@@ -223,3 +223,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [ragenix](https://github.com/yaxitech/ragenix) - Provides age-encrypted secrets for NixOS systems which live in the Nix store and are decrypted on system activation.
 - [NixOS Raspberry Pi Cluster](https://github.com/hugolgst/nixos-raspberry-pi-cluster) - User-guide to create a Raspberry Pi (3B+, 4) cluster under NixOS and managed by NixOps.
 - [Gentoo and NixOS are two sides of the same coin (2022)](https://twitter.com/EverfreeArtemis/status/1522478768840855553)
+- [Nix(OS) Thoughts (2020)](https://bicompact.space/blog/2020/06/20/nix-os-thoughts/)
