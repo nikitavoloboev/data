@@ -60,6 +60,7 @@
 - [Warctools](https://github.com/internetarchive/warctools) - Command line tools and libraries for handling and manipulating WARC files (and HTTP contents).
 - [OpenAPI Spec validator](https://github.com/p1c2u/openapi-spec-validator)
 - [Uplink](https://github.com/prkumar/uplink) - Declarative HTTP Client for Python.
+- [aiorwlock](https://github.com/aio-libs/aiorwlock) - Read/Write Lock - synchronization primitive for asyncio.
 
 ## ML
 
