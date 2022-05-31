@@ -65,3 +65,4 @@
 - [Scholar Reader](https://github.com/allenai/scholarphi) - User interface, API, and data processing scripts for an augmented PDF reader application.
 - [Pdfmake-wrapper](https://github.com/Lugriz/pdfmake-wrapper) - Generate PDF documents in an easy and readable way.
 - [Let's write a PDF file (2015)](https://speakerdeck.com/ange/lets-write-a-pdf-file)
+- [wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit).

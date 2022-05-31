@@ -238,3 +238,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [System Design Resources](https://github.com/InterviewReady/system-design-resources)
 - [Let's build an Entity Component System from scratch (2022)](https://devlog.hexops.com/categories/build-an-ecs/) ([Tweet](https://twitter.com/slimsag/status/1530736023218561030))
 - [What would you use to build a real-time sync & offline app in 2022?](https://twitter.com/_egoistlily/status/1531556999670165505)
+- [Ask HN: Visualizing software designs, especially of large systems (if at all)? (2022)](https://news.ycombinator.com/item?id=31569646)

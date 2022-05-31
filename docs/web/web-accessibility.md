@@ -104,3 +104,4 @@
 - [focus-lock](https://github.com/theKashey/focus-lock) - A11y util for scoping a focus.
 - [Global Accessibility Awareness Day](https://accessibility.day/)
 - [Accessibility is Hard and Important](https://andrewwalpole.com/blog/accessibility-is-hard-and-important/)
+- [Automate accessibility tests with Storybook (2022)](https://storybook.js.org/blog/automate-accessibility-tests-with-storybook/)

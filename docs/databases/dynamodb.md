@@ -95,3 +95,4 @@ title: DynamoDB
 - [Dynomite](https://github.com/Netflix/dynomite) - Inspired by Dynamo whitepaper, is a thin, distributed dynamo layer for different storage engines and protocols.
 - [dynamodb_lock](https://crates.io/crates/dynamodb_lock) - Distributed lock backed by DynamoDB.
 - [Amazon DynamoDB Design Patterns](https://github.com/aws-samples/amazon-dynamodb-design-patterns)
+- [How to ensure cross-region data integrity with Amazon DynamoDB global tables (2022)](https://www.stedi.com/blog/how-to-ensure-cross-region-data-integrity-with-amazon-dynamodb-global-tables)

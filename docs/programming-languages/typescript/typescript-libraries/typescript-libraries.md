@@ -530,6 +530,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [JSON Infer Types](https://github.com/jsonhero-io/json-infer-types) - Infers the type and format of JSON values.
 - [TSTL](https://github.com/samchon/tstl) - Standard Template Library, migrated from C++.
 - [munum](https://github.com/andykswong/munum) - Micro 3D Math Library for JavaScript and WebAssembly.
+- [Scroll Snap Carousel](https://github.com/Grsmto/scroll-snap-carousel) - Helper to enhance the native CSS Scroll Snap experience.
 
 ## Links
 
