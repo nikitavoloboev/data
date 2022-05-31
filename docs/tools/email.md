@@ -255,3 +255,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Skiff Mail](https://skiff.com/) - End-to-end encrypted email that protects your inbox and gives you the power to communicate freely. ([Code](https://github.com/skiff-org/skiff-mail))
 - [Email Permutator](https://github.com/emeth-/Email-Permutator) - Input a first name, last name, and company. Receive back a list of possible email addresses, which we then attempt to verify via a variety of methods for you.
 - [mail-send](https://github.com/stalwartlabs/mail-send) - E-mail delivery library for Rust with DKIM support.
+- [Send emails using Cloudflare Worker, for free](https://github.com/proselog/email-api)

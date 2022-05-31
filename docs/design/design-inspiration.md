@@ -26,6 +26,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)
 - [GOV.UK](https://www.gov.uk/)
+- [Framer Tips](https://framer.tips/)
 - [CodeSandbox Projects](https://projects.codesandbox.io/)
 - [Tailscale](https://tailscale.com/)
 - [Clubhouse](https://www.joinclubhouse.com/)

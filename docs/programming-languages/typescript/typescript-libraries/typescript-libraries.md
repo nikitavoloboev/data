@@ -2,6 +2,8 @@
 
 I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my TS libraries which I then publish with [kanpai](https://github.com/egoist/kanpai). [ncu](https://github.com/raineorshine/npm-check-updates) is nice for updating packages. [Rush stack](https://github.com/microsoft/rushstack) + [pnpm](https://pnpm.io/) are amazing.
 
+[tsup](https://tsup.egoist.sh/) is great too for bundling TS libs.
+
 ## DB
 
 - [SchemaRT](https://github.com/codemariner/schemart) - Generate TypeScript runtime types from your database schema.
@@ -536,7 +538,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more.
 - [check-dts](https://github.com/ai/check-dts) - Unit tests for TypeScript definitions in your JS open source library.
 - [LiTScript](https://github.com/johtela/litscript) - Documentation generation tool that draws inspiration from literate programming.
-- [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by esbuild.
+- [tsup](https://github.com/egoist/tsup) - Bundle your TypeScript library with no config, powered by esbuild. ([Web](https://tsup.egoist.sh/))
 - [Awesome Template Literal Types](https://github.com/ghoullier/awesome-template-literal-types)
 - [docs-ts](https://github.com/gcanti/docs-ts) - Zero-config documentation tool for TypeScript projects.
 - [tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions.
