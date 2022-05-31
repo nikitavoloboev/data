@@ -32,6 +32,7 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
   - YNAB is all about the now - about giving jobs to the money you have. Not to the money you might have later on. It is a different way of thinking, but once you make that mental shift, it comes clear and works beautifully.
 - [Invoiced has great invoice generator.](https://invoice-generator.com/#/1)
 - [IBKR trades currency for you on the actual market at whatever price it's currently trading. No fee. Perfect for exchanging FIAT.](https://www.reddit.com/r/eupersonalfinance/comments/qswoo3/exchange_400k_usd_to_eur/)
+- [After the financial crisis, banks were more tightly regulated, had to hold more capital, and the fed eventually started paying interest on excess reserves, so it should be fairly obvious that this means banks are encouraged to just park (some) of their reserves.](https://www.reddit.com/r/AskEconomics/comments/v16lhb/the_federal_reserves_balance_sheet_has_increased/)
 
 ## Links
 

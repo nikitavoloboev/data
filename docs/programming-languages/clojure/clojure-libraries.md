@@ -33,6 +33,7 @@
 - [Coast](https://github.com/coast-framework/coast) - Fullest full stack Clojure web framework. ([Web](https://coast.swlkr.com/)) ([HN](https://news.ycombinator.com/item?id=30917772))
 - [hato](https://github.com/gnarroway/hato) - HTTP client for Clojure, wrapping JDK 11's HttpClient.
 - [Etaoin](https://github.com/clj-commons/etaoin) - Pure Clojure Webdriver protocol implementation.
+- [Integrant](https://github.com/weavejester/integrant) - Clojure (and ClojureScript) micro-framework for building applications with data-driven architecture.
 
 ## DB
 

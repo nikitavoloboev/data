@@ -129,6 +129,8 @@ title: Obsidian
 - [Obsidian Image Gallery](https://github.com/lucaorio/obsidian-image-gallery) - Zero setup masonry image gallery for Obsidian.
 - [Obsidian LiveSync](https://github.com/vrtmrz/obsidian-livesync)
 - [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) - Use a leader-key (tmux style) for hotkeys in Obsidian.
+- [Lapel](https://github.com/liamcain/obsidian-lapel) - Shows a marker next to each heading to quickly distinguish between heading levels.
+- [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) - Displays a formatted reference in the sidebar for each pandoc citekey present in the current document.
 
 ## Themes
 

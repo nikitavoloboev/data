@@ -129,3 +129,5 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [What's a hard truth young men need to learn as soon as possible?](https://www.reddit.com/r/AskMen/comments/uehxa6/whats_a_hard_truth_young_men_need_to_learn_as/)
 - [Ask HN: A genie appears. What do you wish for? (2022)](https://news.ycombinator.com/item?id=31204683)
 - [Origin of life theory involving RNA–protein hybrid gets new support (2022)](https://www.nature.com/articles/d41586-022-01303-z) ([HN](https://news.ycombinator.com/item?id=31371050))
+- [Ask HN: I Am Lost in Life. How do I fix this? (2022)](https://news.ycombinator.com/item?id=31565012)
+- [Ask HN: Burnt-out, directionless but want to turn it around (2022)](https://news.ycombinator.com/item?id=31565514)

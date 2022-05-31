@@ -121,3 +121,4 @@
 - [SSH SOCKS proxy but it's Tailscale (2022)](https://blog.shalman.org/ssh-socks-proxy-but-its-tailscale/)
 - [Scriptable SSH through OpenSSH](https://github.com/openssh-rust/openssh)
 - [SSHConsole](https://github.com/jimstudt/SSHConsole) - Provides an SSH listener to your server which allows you to ssh commands to your server and receive the response back to your terminal.
+- [How to Store an SSH Key on a Yubikey (2022)](https://xeiaso.net/blog/yubikey-ssh-key-storage) ([HN](https://news.ycombinator.com/item?id=31556130))

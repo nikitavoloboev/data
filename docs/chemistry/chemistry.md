@@ -75,3 +75,5 @@ title: Chemistry
 - [RDKit](https://github.com/rdkit/rdkit) - Collection of cheminformatics and machine-learning software written in C++ and Python.
 - [Open Babel](https://github.com/openbabel/openbabel) - Chemical toolbox designed to speak the many languages of chemical data.
 - [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials)
+- [Call for a Public Open Database of All Chemical Reactions (2022)](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140)
+- [openmoltools](https://github.com/choderalab/openmoltools) - Tools for Small Molecules, Antechamber, OpenMM, and More.

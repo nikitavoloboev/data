@@ -19,6 +19,7 @@ title: TypeScript
 - [TS generics are basically functions that you invoke with <\> instead of ()... but without optional _named_ param support... and a lot of other things that I would expect from a "function"](https://twitter.com/tannerlinsley/status/1387806690364465152)
 - [If it’s hard to type via TypeScript, I should probably rethink my design.](https://twitter.com/housecor/status/1422195449277059072)
 - [Properly name your generics. Generics are basically functions you give to developers to create parameterized types.](https://twitter.com/kentcdodds/status/1441504538993696770)
+- [`noUncheckedIndexAccess` config option is useful](https://www.youtube.com/watch?v=JwZaP3pY7Zo)
 
 ## Links
 

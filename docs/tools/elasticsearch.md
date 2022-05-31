@@ -4,7 +4,7 @@ title: Elasticsearch
 
 # [Elasticsearch](https://www.elastic.co/)
 
-[Sonic](https://github.com/valeriansaliou/sonic) seems like a nice alternative.
+[Sonic](https://github.com/valeriansaliou/sonic) & [Quickwit](https://quickwit.io/) seem like nice alternatives.
 
 ## Links
 

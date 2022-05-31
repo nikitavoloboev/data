@@ -56,6 +56,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [RaidProtect](https://github.com/raidprotect/raidprotect) - Moderate your Discord server easily.
 - [Discord bot backed by a web app example](https://github.com/with-heart/discord-bot-webapp-example)
 - [Vulcan](https://github.com/Vulcan-Discord-Bot/Vulcan) - Multi-purpose discord bot built with discord.js.
+- [QiskitBot](https://github.com/infiniteregrets/QiskitBot) - Discord bot that allows you to execute Quantum Circuits, look up the IBMQ Qiskit's Documentation, and search questions on the Quantum Computing StackExchange.
 
 ## Libraries
 

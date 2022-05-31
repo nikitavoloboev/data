@@ -102,3 +102,4 @@
 - [Puzzling Quantum Scenario Appears Not to Conserve Energy (2022)](https://www.quantamagazine.org/puzzling-quantum-scenario-appears-not-to-conserve-energy-20220516/) ([HN](https://news.ycombinator.com/item?id=31397107)) ([Reddit](https://www.reddit.com/r/Physics/comments/ur34wf/puzzling_quantum_scenario_appears_not_to_conserve/))
 - [Yakir Aharonov - Wikipedia](https://en.wikipedia.org/wiki/Yakir_Aharonov) - Israeli physicist specializing in quantum physics.
 - [Chaos: The real problem with quantum mechanics (2022)](http://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html) ([HN](https://news.ycombinator.com/item?id=31544372))
+- [Is it because of quantum decoherence that people and objects don't behave like waves in the macro world?](https://www.reddit.com/r/quantum/comments/v1f47k/is_it_because_of_quantum_decoherence_that_people/)

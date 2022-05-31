@@ -221,6 +221,8 @@
 ## DB
 
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
+- [TurboSQL](https://github.com/trevyn/turbosql) - Easy local data persistence layer for Rust, backed by SQLite.
+- [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust. ([Rocket with SeaORM example app](https://github.com/SeaQL/sea-orm/tree/master/examples/rocket_example)) ([HN](https://news.ycombinator.com/item?id=29509867)) ([Web](https://www.sea-ql.org/SeaORM/)) ([Docs Code](https://github.com/SeaQL/seaql.github.io))
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder. ([Reddit](https://www.reddit.com/r/rust/comments/u9hdho/diesel_200_rc0/))
 - [Diesel Derive Enum](https://github.com/adwhit/diesel-derive-enum) - Use Rust enums directly with diesel ORM.
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
@@ -243,7 +245,6 @@
 - [typed-sql](https://github.com/matthunz/typed-sql) - Zero-cost ORM with fast compile times. ([Reddit](https://www.reddit.com/r/rust/comments/njbt9s/announcing_typedsql_beta_zerocost_orm_with_fast/))
 - [merk](https://github.com/nomic-io/merk) - High-performance Merkle key/value store.
 - [Scooby](https://github.com/despawnerer/scooby) - Rust SQL query builder with a pleasant fluent API closely imitating actual SQL.
-- [SeaORM](https://github.com/SeaQL/sea-orm) - Async & dynamic ORM for Rust. ([Rocket with SeaORM example app](https://github.com/SeaQL/sea-orm/tree/master/examples/rocket_example)) ([HN](https://news.ycombinator.com/item?id=29509867)) ([Web](https://www.sea-ql.org/SeaORM/)) ([Docs Code](https://github.com/SeaQL/seaql.github.io))
 - [pg-embed](https://github.com/faokunega/pg-embed) - Run a PostgreSQL database locally on Linux, MacOS or Windows as part of another Rust application or test.
 - [ormx](https://github.com/NyxCode/ormx) - Lightweight macros for sqlx.
 - [influxdb-rust](https://github.com/influxdb-rs/influxdb-rust) - Rust Client for the InfluxDB Time Series Database.
@@ -451,6 +452,7 @@
 - [woah](https://github.com/alilleybrinker/woah) - Result type that differentiates between local errors (which can be handled) and fatal errors (which can't).
 - [Core Error](https://github.com/core-error/core-error) - Traits for working with Error in std-less environments.
 - [Serum Errors](https://github.com/serum-errors/serum-spec) - Specification for human-readable, machine-managable, observable/serializable/cross-language errors and error handling.
+- [tracked](https://github.com/trevyn/tracked) - Stringly-typed Error that includes #[track_caller] information.
 
 ## IO
 

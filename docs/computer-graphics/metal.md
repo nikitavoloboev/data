@@ -55,3 +55,4 @@ title: Metal
 - [Learn Metal using metal-cpp](https://github.com/LeeTeng2001/metal-cpp-cmake)
 - [AppleSpectrogram](https://github.com/techpro-studio/AppleSpectrogram) - C++ 17 Spectrogram based on Apple's Accelerate and Metal frameworks..
 - [Swift 3D Game Tutorial - YouTube](https://www.youtube.com/playlist?list=PLEXt1-oJUa4BVgjZt9tK2MhV_DW7PVDsg) - Creating a game engine using Apple's Metal API. ([Code](https://github.com/twohyjr/Metal-Game-Engine-Tutorial))
+- [MSL-Hydra-Synth](https://github.com/mizt/MSL-Hydra-Synth) - Export hydra-synth as Metal shader.

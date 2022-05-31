@@ -121,3 +121,5 @@ title: Apache Kafka
 - [kcat](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka.
 - [Redpanda Data - YouTube](https://www.youtube.com/c/RedpandaData/videos)
 - [KafkaSSE](https://github.com/wikimedia/KafkaSSE) - Kafka Consumer to HTTP SSE/EventSource.
+- [BroadwayKafka](https://github.com/dashbitco/broadway_kafka) - Broadway connector for Kafka.
+- [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.

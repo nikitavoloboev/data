@@ -319,3 +319,4 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [What games do you feel are the most fun to be a evil character in?](https://www.reddit.com/r/patientgamers/comments/ureonr/what_games_do_you_feel_are_the_most_fun_to_be_a/)
 - [Morrowind 20-year anniversary book](https://mw.thenet.sk/) ([HN](https://news.ycombinator.com/item?id=31490348))
 - [Ask HN: What game you wished existed? (2022)](https://news.ycombinator.com/item?id=31503201)
+- [KaTrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo.

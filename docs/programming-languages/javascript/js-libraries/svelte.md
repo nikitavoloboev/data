@@ -23,6 +23,7 @@ title: Svelte
 - [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit.
 - [Storyblok Sveltekit example](https://github.com/jbruxelle/storyblok-sveltekit-example) - Using Sveltekit with Storyblok as a headless CMS. Queries are made using GraphQL and the kitQL library from jycouet.
 - [SvelteKit and Vendure Commerce example](https://github.com/spences10/sveltekit-vendure-commerce)
+- [Turbocharger template with Svelte, Tailwind, and TurboSQL](https://github.com/trevyn/turbocharger-template)
 
 ## Notes
 
@@ -260,3 +261,4 @@ title: Svelte
 - [Svelcro](https://github.com/oslabs-beta/Svelcro) - Svelte DevTool with a focus on rendering.
 - [Flowbite-Svelte](https://github.com/themesberg/flowbite-svelte) - Official Flowbite component library for Svelte. All interactivities are handled by Svelte. ([Web](https://flowbite-svelte.com/))
 - [Event Calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view in Svelte.
+- [Is Svelte good choice for large apps? (2022)](https://www.reddit.com/r/sveltejs/comments/v189j6/is_svelte_good_choice_for_large_apps/)

@@ -14,6 +14,7 @@ I love all animals. And I am sad that some people decide to eat them and not [le
 - [Axolotl](https://en.wikipedia.org/wiki/Axolotl)
 - [Seahorse](https://en.wikipedia.org/wiki/Seahorse) ([Reddit](https://www.reddit.com/r/askscience/comments/mqt9af/what_is_up_with_the_seahorse_it_looks_like_nature/))
 - [Vietnamese mossy frog](https://twitter.com/_cdadams_/status/1393324458895716360)
+- [Serval](https://en.wikipedia.org/wiki/Serval)
 
 ## Cute
 

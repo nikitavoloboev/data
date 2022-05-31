@@ -167,3 +167,4 @@
 - [Cloud Robotics Core](https://github.com/googlecloudrobotics/core) - Open source platform that provides infrastructure essential to building and running robotics solutions for business automation. ([Web](https://googlecloudrobotics.github.io/core/))
 - [Common path planning algorithms used in robotics](https://github.com/zhm-real/PathPlanning)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
+- [Asking robots to design stained glass windows (2022)](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design?s=r) ([HN](https://news.ycombinator.com/item?id=31564152))

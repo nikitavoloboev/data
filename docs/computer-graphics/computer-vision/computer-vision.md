@@ -770,4 +770,5 @@
 - [A Survey of Visual Transformers (2021)](https://arxiv.org/abs/2111.06091) ([Code](https://github.com/liuyang-ict/awesome-visual-transformers))
 - [Nerfies: Deformable Neural Radiance Fields (2021)](https://nerfies.github.io/) ([Code](https://github.com/nerfies/nerfies.github.io))
 - [Working notes on the role of vision papers in basic science (2022)](https://scienceplusplus.org/visions/index.html) ([Tweet](https://twitter.com/michael_nielsen/status/1530659395453202433))
-- [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers (2022)](https://github.com/THUDM/CogVideo)
+- [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers (2022)](https://github.com/THUDM/CogVideo) ([HN](https://news.ycombinator.com/item?id=31561845))
+- [Prompt-aligned Gradient for Prompt Tuning (2022)](https://arxiv.org/abs/2205.14865) ([Code](https://github.com/BeierZhu/Prompt-align))

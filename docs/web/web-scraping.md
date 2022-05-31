@@ -201,4 +201,5 @@ Currently exploring [Playwright](https://playwright.dev/) together with [AutoScr
 - [Scraping Airbnb (2022)](https://scrapingfish.com/blog/scraping-airbnb)
 - [Shears](https://github.com/Pingid/shears) - Functional web scraping in TS.
 - [Web scraping with Python open knowledge](https://github.com/reanalytics-databoutique/webscraping-open-project) ([HN](https://news.ycombinator.com/item?id=31531694))
-- [Web scraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies)
+- [Web scraping Proxy Library for Scrapy](https://github.com/reanalytics-databoutique/advanced-scrapy-proxies) ([HN](https://news.ycombinator.com/item?id=31561409))
+- [SLRP](https://github.com/nfx/slrp) - Rotating open proxy multiplexer.

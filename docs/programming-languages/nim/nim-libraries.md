@@ -28,6 +28,7 @@
 ## DB
 
 - [nimdbx](https://github.com/snej/nimdbx) - Extremely fast persistent key-value store for the Nim language, based on the amazing MDBX library.
+- [ndb/sqlite](https://github.com/xzfc/ndb.nim) - Of db_sqlite, Nim's standard library higher level SQLite database wrapper.
 
 ## Other
 

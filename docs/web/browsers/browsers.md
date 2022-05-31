@@ -221,3 +221,4 @@
 - [webext-tools](https://github.com/fregante/webext-tools) - Utility functions for Web Extensions.
 - [webext-content-scripts](https://github.com/fregante/webext-content-scripts) - Utility functions to inject content scripts from a WebExtension.
 - [Global Speed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio.
+- [Programmer Browser](https://github.com/yessGlory17/programmer-browser) - Fast-searching and space-saving browser specially designed for programmers.

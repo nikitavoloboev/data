@@ -4,7 +4,7 @@ title: DynamoDB
 
 # [DynamoDB](https://aws.amazon.com/dynamodb)
 
-[NoSQL Data Modeling with Amazon DynamoDB](https://www.youtube.com/watch?v=h7mH2Bxkc6k) is good intro talk.
+[NoSQL Data Modeling with Amazon DynamoDB](https://www.youtube.com/watch?v=h7mH2Bxkc6k) is good intro talk. [DonutDB](https://github.com/psanford/donutdb) looks nice.
 
 ## OSS DynamoDB apps
 

@@ -35,7 +35,7 @@ for i, _ in enumerate(nums):
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python. ([Article](https://engineering.fb.com/security/pysa/)) ([Web](https://pyre-check.org/)) ([HN](https://news.ycombinator.com/item?id=27107647))
 - [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
-- [WTF Python](https://github.com/satwikkansal/wtfpython) - Exploring and understanding Python through surprising snippets. ([HN](https://news.ycombinator.com/item?id=26097732))
+- [WTF Python](https://github.com/satwikkansal/wtfpython) - Exploring and understanding Python through surprising snippets. ([HN](https://news.ycombinator.com/item?id=26097732)) ([HN](https://news.ycombinator.com/item?id=31566031))
 - [My Python Development Environment, 2020 Edition (2019)](https://jacobian.org/2019/nov/11/python-environment-2020/) ([HN](https://news.ycombinator.com/item?id=21510262))
 - [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
@@ -260,7 +260,7 @@ for i, _ in enumerate(nums):
 - [VizTracer](https://github.com/gaogaotiantian/viztracer) - Low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [PyCG](https://github.com/vitsalis/pycg) - Practical Python Call Graphs.
 - [Python at Scale: Strict Modules (2019)](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834) ([HN](https://news.ycombinator.com/item?id=25462168))
-- [Python Patterns](https://github.com/faif/python-patterns) - Collection of design patterns/idioms in Python.
+- [Python Patterns](https://github.com/faif/python-patterns) - Collection of design patterns/idioms in Python. ([HN](https://news.ycombinator.com/item?id=31566025))
 - [Python Cookbook (2013)](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/) ([Code](https://github.com/dabeaz/python-cookbook))
 - [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/) - Book on basic to intermediate level Python projects.
 - [pyastinterp](https://github.com/pfalcon/pyastinterp) - Python AST interpreter (aka tree-walking interpreter) in Python. Aka meta-circular interpreter.

@@ -541,3 +541,4 @@ the execution time on all cores of a multi-core processor.
 - [Bad BPF](https://github.com/pathtofile/bad-bpf) - Collection of eBPF programs demonstrating bad behavior.
 - [libkrunfw](https://github.com/containers/libkrunfw) - Dynamic library bundling a Linux kernel in a convenient storage format.
 - [mempeek](https://github.com/gamozolabs/mempeek) - Command-line tool designed to peek around memory of a running Linux process.
+- [Async](https://github.com/romange/helio) - Modern framework for backend development based on io_uring Linux interface.

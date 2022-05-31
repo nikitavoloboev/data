@@ -156,6 +156,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Nate Finch](https://npf.io/)
 - [Abhinav Gupta](https://abhinavg.net/)
 - [Justin Jaffray](http://justinjaffray.com/posts/)
+- [Paul Masurel](https://fulmicoton.com/)
 
 ## Notes
 

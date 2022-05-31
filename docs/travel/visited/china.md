@@ -90,3 +90,4 @@ Cities like Shanghai and Guangzhou fascinate me, would love to live there one da
 - [Why didn't China attack Taiwan? (a hypothesis) (2022)](https://twitter.com/kamilkazani/status/1528407233658249219)
 - [The Xinjiang Police Files (2022)](https://www.xinjiangpolicefiles.org/) ([HN](https://news.ycombinator.com/item?id=31488436))
 - [All-In Summit: Claire Cormier Thielke on China + Q&A with Flexport's Ryan Petersen (2022)](https://www.youtube.com/watch?v=dTF-KtYWl5Q)
+- [Understanding Chinese Civilization (2022)](https://www.youtube.com/watch?v=Kf8XIxX7NEs)

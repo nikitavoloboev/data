@@ -242,7 +242,7 @@
 
 ## Social
 
-- Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
+- Respect my time. If going on dates or meeting people, make it worthwhile or not go at all. Never fear approaching / talking with someone I am interested in. Within respectful bounds (good timing / place).
 - Use [same profile photo](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) (if it looks better with) across all profiles. Don't change it often.
 - Add appropriate short description with link to personal site.
 - Use same username on all services. Preferred (`nikiv`). If service requires full name, use it (`nikitavoloboev`). If `nikiv` is taken, use `nikivi` or `nikivii`.

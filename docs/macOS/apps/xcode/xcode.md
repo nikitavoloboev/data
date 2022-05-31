@@ -110,3 +110,4 @@ title: Xcode
 - [xcparse](https://github.com/EvanBacon/xcparse) - Super fast pbxproj parser written in TypeScript.
 - [Xcode useful shortcuts list](https://github.com/chirag05k/Xcode-Shortcuts)
 - [Color themes for Xcode, TextMate and Terminal App](https://www.codethemes.net/)
+- [Xbase](https://github.com/tami5/xbase) - Xcode Neovim Replacement-ish.

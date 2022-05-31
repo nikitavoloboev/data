@@ -449,3 +449,4 @@ if (
 - [Processing Arrays non-destructively: `for-of` vs. `.reduce()` vs. `.flatMap()` (2022)](https://2ality.com/2022/05/processing-arrays-non-destructively.html)
 - [Now and .then: Debugging Async JavaScript - Jenn Creighton (2022)](https://www.youtube.com/watch?v=V-lu0YjJYdk)
 - [JavaScript tree-sitter](https://github.com/tree-sitter/tree-sitter-javascript) - JavaScript and JSX grammar for tree-sitter.
+- [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers.

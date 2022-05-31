@@ -41,3 +41,4 @@ title: JAX
 - [Functorch](https://github.com/pytorch/functorch) - Jax-like composable function transforms for PyTorch. ([HN](https://news.ycombinator.com/item?id=31424588))
 - [Ninjax](https://github.com/danijar/ninjax) - Module system for JAX that offers full state access and allows to easily combine modules from other libraries.
 - [Functional Transformer](https://github.com/awf/functional-transformer) - Pure-functional implementation of a machine learning transformer model in Python/JAX.
+- [JAX + Units](https://github.com/dfm/jpu) - Provides and interface between JAX and Pint to allow JAX to support operations with units.

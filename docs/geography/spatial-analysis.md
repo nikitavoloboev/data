@@ -203,3 +203,4 @@ title: Spatial analysis
 - [SimpleSpatialGapfiller](https://github.com/Dreamlone/SSGP-toolbox) - Toolbox for filling gaps in spatial datasets (e.g. remote sensing data).
 - [Course materials for: Geospatial Data Science](https://github.com/mszell/geospatialdatascience)
 - [gps-share](https://github.com/zeenix/gps-share) - Utility to share your GPS device on local network.
+- [pg_featureserv](https://github.com/CrunchyData/pg_featureserv) - Lightweight RESTful Geospatial Feature Server for PostGIS in Go.

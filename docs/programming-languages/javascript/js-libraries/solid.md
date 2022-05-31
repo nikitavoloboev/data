@@ -86,3 +86,6 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 - [SolidJS - YouTube](https://www.youtube.com/channel/UCXsRnrbzIX8KHdf86PE241Q/videos)
 - [Carbon Components (SolidJS Port)](https://github.com/mosheduminer/carbon-components-solid)
 - [SolidJS Effector](https://community.effector.dev/core/prerelease-version-of-effector-solid-is-now-available-for-public-use-eei)
+- [Solid Native](https://github.com/tjjfvi/solid-native) - Expands the Solid ecosystem to include development of native mobile applications.
+- [typesafe-i18n Solid](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid)
+- [Solid-Use](https://github.com/LXSMNSYC/solid-use) - Collection of SolidJS utilities.

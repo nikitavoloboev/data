@@ -119,3 +119,4 @@
 - [Ask HN: Which algorithms based on biological ideas do you know? (2022)](https://news.ycombinator.com/item?id=30955837)
 - [SciDraw](https://www.scidraw.io/) - Free repository of high quality drawings of animals, scientific setups.
 - [BioDigital](https://www.biodigital.com/) - Interactive 3D Anatomy.
+- [Rhea](https://www.rhea-db.org/) - Knowledge base for bio-chemical transformations and transport reactions.

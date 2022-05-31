@@ -300,3 +300,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Session](https://getsession.org/) - Onion routing based messenger. ([Code](https://github.com/oxen-io/session-desktop))
 - [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
 - [Publications from Trail of Bits](https://github.com/trailofbits/publications)
+- [Awesome Secure Computation](https://github.com/Jamie-Cui/awesome-secure-computation) - Paper summary for cryptography-based secure computation papers.

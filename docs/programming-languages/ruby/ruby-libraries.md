@@ -67,6 +67,7 @@
 - [sidekiq-scheduler](https://github.com/moove-it/sidekiq-scheduler) - Lightweight job scheduler extension for Sidekiq.
 - [Actor](https://github.com/sunny/actor) - Composable Ruby service objects.
 - [Alba](https://github.com/okuramasafumi/alba) - Fastest JSON serializer for Ruby.
+- [Shale](https://github.com/kgiszczak/shale) - Ruby object mapper and serializer for JSON, YAML and XML. ([HN](https://news.ycombinator.com/item?id=31567755))
 
 ## Links
 

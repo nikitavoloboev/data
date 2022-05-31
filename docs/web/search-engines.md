@@ -1,6 +1,6 @@
 # Search engines
 
-[Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) is great for plug and use solution.
+[Meilisearch](https://github.com/meilisearch/instant-meilisearch) is neat together with their [tokenizer lib](https://github.com/meilisearch/charabia) they use. More practically [DocSearch](https://docsearch.algolia.com/) is great for plug and use solution. [Tantivy](https://github.com/quickwit-oss/tantivy) & [Quickwit](https://quickwit.io/) are interesting too.
 
 ## Links
 
@@ -35,7 +35,7 @@
 - [Ask HN: Is there a search engine which excludes the world's biggest websites? (2020)](https://news.ycombinator.com/item?id=23202850)
 - [Query Combinators (2017)](https://arxiv.org/abs/1702.08409)
 - [Quickref](https://quickref.dev/) - Experimental search engine for developers. Searches a curated subset of the web: official docs and community-driven sources. ([Lobsters](https://lobste.rs/s/dji0it/experimental_search_engine_for)) ([HN](https://news.ycombinator.com/item?id=23263918))
-- [Tantivy](https://github.com/tantivy-search/tantivy) - Full text search engine library written in Rust.
+- [Tantivy](https://github.com/quickwit-oss/tantivy) - Full-text search engine library inspired by Apache Lucene and written in Rust. ([Article](https://fulmicoton.com/posts/behold-tantivy/))
 - [sonar](https://github.com/arso-project/sonar-tantivy) - Search engine based on tantivy with a Node.js frontend.
 - [How to make PageRank faster (with lots of math and a hint of Python) (2020)](https://dev.to/karjudev/how-to-make-pagerank-faster-with-lots-of-math-and-a-hint-of-python-2e92)
 - [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/) ([HN](https://news.ycombinator.com/item?id=23473365))

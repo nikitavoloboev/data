@@ -531,6 +531,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gocalstorage](https://github.com/superloach/gocalstorage) - Go bindings for the JavaScript Storage APIs, using WASM.
 - [vert](https://github.com/norunners/vert) - WebAssembly interop between Go and JS values.
 - [WASM-Fetch](https://github.com/marwan-at-work/wasm-fetch) - Web Assembly fetch wrapper that avoids importing net/http.
+- [wasmexec](https://github.com/prep/wasmexec) - Runtime-agnostic implementation of Go's wasm_exec.js in Go.
 
 ## GUI
 
@@ -628,6 +629,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [failpoint](https://github.com/pingcap/failpoint) - Fail points are used to add code points where errors may be injected in a user controlled fashion.
 - [Go Result](https://github.com/bobfang1992/go-result) - Simple result type in Go 1.18.
 - [try](https://github.com/dsnet/try) - Simplified error handling in Go.
+- [oerrs](https://github.com/OneOfOne/oerrs) - Adds an ErrorList with optional stack traces.
 
 ## Other
 
@@ -1662,6 +1664,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [socks5](https://github.com/haochen233/socks5) - Go library about socks5, supports all socks5 commands.
 - [pctl](https://github.com/brandondube/pctl) - Industrial control systems in Go.
 - [Trie](https://github.com/dghubble/trie) - Fast, zero heap allocation Go Trie for runes or paths.
+- [genh](https://github.com/OneOfOne/genh) - Generics helpers.
+- [mo](https://github.com/samber/mo) - Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...).
+- [workerpool](https://github.com/savsgio/workerpool) - Lightweight and fast worker pool with generics support.
 
 ## Links
 
@@ -1774,3 +1779,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [libc - Porting libc from C to Go](https://github.com/goplus/libc)
 - [depu](https://github.com/kevwan/depu) - Tool to check available updates of dependent packages in go.mod.
 - [Copygen](https://github.com/switchupcb/copygen) - Go generator to copy values from type to type and fields from struct to struct (copier without reflection). Generate any code based on types.
+- [struct2ts](https://github.com/OneOfOne/struct2ts) - Generate Typescript classes/interfaces out of Go structs.

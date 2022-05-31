@@ -3,6 +3,7 @@
 ## Interesting
 
 - [Raf Coffee](https://www.baristainstitute.com/blog/oksana-shaposhnikova/september-2020/raf-coffee-what-it-and-how-make-it)
+- [100% Robusta blend](https://news.ycombinator.com/item?id=31538579)
 
 ## Notes
 

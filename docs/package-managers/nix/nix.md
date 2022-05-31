@@ -362,3 +362,5 @@ sudo nix-collect-garbage --delete-older-than 30d
 - [Zicross](https://github.com/flyx/Zicross) - Nix Flake for cross-compiling and packaging for foreign systems.
 - [Tutorial: Getting started with Home Manager for Nix (2021)](http://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix)
 - [A Tour of Nix Flakes (2022)](http://ghedam.at/a-tour-of-nix-flakes)
+- [cached-nix-shell](https://github.com/xzfc/cached-nix-shell) - Instant startup time for nix-shell.
+- [Evaluating the security implications of a company-wide Nix remote builder (2021)](https://asymmetric.github.io/2021/05/31/remote-nix-builder/)
