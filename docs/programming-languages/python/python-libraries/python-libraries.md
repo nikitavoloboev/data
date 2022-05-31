@@ -877,6 +877,7 @@
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [gjson-py](https://github.com/volans-/gjson-py) - Python package that provides a simple way to filter and extract data from JSON-like objects, using the GJSON syntax.
 - [thx](https://github.com/omnilib/thx) - Simple, composable command runner for Python projects.
+- [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 
 ## Notes
 

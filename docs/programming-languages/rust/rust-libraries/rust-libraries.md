@@ -1905,6 +1905,7 @@
 - [JSON5](https://github.com/callum-oakley/json5-rs) - Rust JSON5 serializer and deserializer which speaks Serde.
 - [metered-rs](https://github.com/magnet/metered-rs) - Fast, ergonomic metrics for Rust.
 - [shellexpand](https://github.com/netvl/shellexpand) - Library for shell-like expansions of variables in strings.
+- [floatconv](https://github.com/m-ou-se/floatconv) - Fast implementations of integer/floating point conversion operations.
 
 ## Cargo Plugins
 

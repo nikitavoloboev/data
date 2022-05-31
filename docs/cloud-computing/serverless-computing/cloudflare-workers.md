@@ -6,7 +6,7 @@ title: Cloudflare workers
 
 Can build and release websites fully on [Cloudflare stack](https://twitter.com/pbteja1998/status/1496147994533679105). [Wrangler](https://github.com/cloudflare/wrangler2) & [Miniflare](https://github.com/cloudflare/miniflare) are useful ([nice template for it](https://github.com/mrbbot/miniflare-typescript-esbuild-jest)).
 
-[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)) & [Worktop](https://github.com/lukeed/worktop) seem like nice web frameworks built on top of Cloudflare workers.
+[Hono](https://github.com/honojs/hono) ([nice starter template](https://github.com/honojs/compute-starter-kit)), [Worktop](https://github.com/lukeed/worktop) & [workers Go lib](https://github.com/syumai/workers) seem like nice web frameworks built on top of Cloudflare workers.
 
 Exploring building fast web apps with [Solid](../../programming-languages/javascript/js-libraries/solid.md), [Hono](https://github.com/honojs/hono) and [D1](https://news.ycombinator.com/item?id=31339299) (replicated [SQLite](../../databases/sqlite.md)) as data store with lots of smart caching.
 

@@ -87,3 +87,4 @@ title: Nginx
 - [Nginx Language Server](https://github.com/pappasam/nginx-language-server)
 - [Nginx Modern Reference Architectures](https://github.com/nginxinc/kic-reference-architectures) ([HN](https://news.ycombinator.com/item?id=31436726))
 - [Built-from-source container image of NGINX](https://github.com/ricardbejarano/nginx)
+- [Test::Nginx](https://github.com/openresty/test-nginx) - Data-driven test scaffold for Nginx C module and Nginx/OpenResty-based libraries and applications.

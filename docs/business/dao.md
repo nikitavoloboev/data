@@ -73,3 +73,4 @@ I think DAOs can be interesting for crowd funding with benefits baked in. One ex
 - [Reimburse](https://github.com/Gajesh2007/Reimburse) - Easily track and reimburse all expenses in your DAO on Solana.
 - [Kali](https://github.com/lexDAO/Kali) - Optimized DAC Protocol.
 - [DAOPEDIA](https://daopedia.xyz/) - Wikipedia for DAOs. ([Twitter](https://twitter.com/daopedia)) ([Intro](https://twitter.com/daopedia/status/1493325234287566854))
+- [DAOs seem more like a bug than a feature](https://twitter.com/GergelyOrosz/status/1531391308757094400)
