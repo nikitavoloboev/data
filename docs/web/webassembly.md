@@ -318,3 +318,4 @@ title: WebAssembly
 - [Karmem](https://github.com/inkeliz/karmem) - Fast binary serialization format, faster than Google Flatbuffers and optimized for TinyGo and WASM.
 - [WASI Native Threads API](https://github.com/WebAssembly/wasi-native-threads)
 - [Content Security Policy Proposal for WebAssembly](https://github.com/WebAssembly/content-security-policy)
+- [How Lunatic Brings Erlang's Principles to WebAssembly (2022)](https://www.youtube.com/watch?v=M2B7VKFeF7o) ([Transcript](https://serokell.io/blog/lunatic-with-bernard-kolobara)) ([HN](https://news.ycombinator.com/item?id=31569482))

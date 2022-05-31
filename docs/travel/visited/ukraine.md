@@ -1,10 +1,10 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders decisions. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://www.youtube.com/watch?v=DBah5HNknLM) on both its neighbors and its own citizens, it would be great if everyone focused on improving the well being of the population.
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders miscalculated decisions to try and maintain a [stronghold on oil/gas exports](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y) in EU. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://www.youtube.com/watch?v=DBah5HNknLM) on both its neighbors and its own citizens, it would be great if everyone focused on improving the well being of the population.
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
-I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt.
+I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt. I wish more people in politics had the charisma and effectiveness to lead as Zelensky.
 
 ## Links
 

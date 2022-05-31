@@ -625,3 +625,5 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Simple Security Toolkit](https://github.com/nascentxyz/simple-security-toolkit) - Collection of practical security-focused guides and checklists for smart contract development.
 - [dApp Starter](https://github.com/m1guelpf/dapp-starter) - Starter kit is composed of Next.js and Tailwind CSS, with RainbowKit, ethers, & wagmi for all your web3 needs.
 - [Subspace](https://github.com/embarklabs/subspace) - Library for Reactive Dapp Development with auto syncing and caching capabilities.
+- [Act](https://github.com/ethereum/act) - Smart contract specification language.
+- [Aesthetically Pleasing Ethereum Statements](https://github.com/ricobank/apes)

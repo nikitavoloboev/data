@@ -263,6 +263,7 @@
 - [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler for iOS with Concurrent run, failure/retry, persistence, repeat, delay and more.
 - [NativeUIKit](https://github.com/sparrowcode/UIKitExtension) - Mimicrated views and controls to native Apple appearance.
 - [VFont](https://github.com/dufflink/vfont) - iOS Variable Fonts integration.
+- [Wave](https://github.com/jtrivedi/Wave) - Spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
 
 ## macOS
 
@@ -1146,6 +1147,8 @@
 - [Injectable](https://github.com/hmlongco/Injectable) - New Dependency Injection approach for Swift and SwiftUI.
 - [QRCode](https://github.com/dagronf/QRCode) - Simple and quick macOS/iOS/tvOS/watchOS QR Code generator library for SwiftUI, Swift and Objective-C.
 - [Glider](https://github.com/malcommac/Glider) - Logger.
+- [SafePresentation](https://github.com/noppefoxwolf/SafePresentation) - Throw common warnings of ViewController presentation as error.
+- [EffectsLibrary](https://github.com/GetStream/effects-library) - Allows developers to create sophisticated and realistic particle systems such as snow, fire, rain, confetti, fireworks, and smoke with no or minimal effort.
 
 ## Other (not lib)
 

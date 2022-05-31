@@ -101,6 +101,7 @@
 - [FastDEQ](https://github.com/SciML/FastDEQ.jl) - Deep Equilibrium Networks (but faster!).
 - [Baysor](https://github.com/kharchenkolab/Baysor) - Bayesian Segmentation of Spatial Transcriptomics Data.
 - [MLJLinearModels.jl](https://github.com/JuliaAI/MLJLinearModels.jl) - Generalized Linear Regressions Models (penalized regressions, robust regressions, ...).
+- [BipartiteMatching.jl](https://github.com/IsaacRudich/BipartiteMatching.jl) - Fast and scalable max cardinality matching for bipartite graphs.
 
 ## Math
 

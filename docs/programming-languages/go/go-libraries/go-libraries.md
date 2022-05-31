@@ -1667,6 +1667,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [genh](https://github.com/OneOfOne/genh) - Generics helpers.
 - [mo](https://github.com/samber/mo) - Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...).
 - [workerpool](https://github.com/savsgio/workerpool) - Lightweight and fast worker pool with generics support.
+- [sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files.
 
 ## Links
 

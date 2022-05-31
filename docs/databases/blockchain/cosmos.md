@@ -17,3 +17,4 @@ title: Cosmos
 - [IBC-Go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Go.
 - [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)
 - [Cosmos Interchain Security](https://github.com/cosmos/interchain-security)
+- [Cosmos.nix](https://github.com/informalsystems/cosmos.nix) - Nix Integration with Cosmos Projects.

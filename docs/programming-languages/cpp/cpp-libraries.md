@@ -83,6 +83,7 @@
 - [Supersonic](https://github.com/google/supersonic) - Ultra-fast, column oriented query engine library written in C++.
 - [SQLite ORM](https://github.com/fnc12/sqlite_orm) - Light header only library for modern C++.
 - [rocksdb](https://github.com/Level/rocksdb) - Pure C++ Node.js RocksDB binding. An abstract-leveldown compliant store.
+- [KVDK](https://github.com/pmem/kvdk) - Key-value store library implemented in C++ language.
 
 ## Crypto
 

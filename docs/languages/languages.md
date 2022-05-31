@@ -79,3 +79,4 @@
 - [Chatterbug](https://chatterbug.com/en/) - Learn Languages Online and Talk with Native Speakers.
 - [DeepL Translate](https://www.deepl.com/translator) - World's most accurate translator.
 - [A History of Punctuation](https://aeon.co/essays/beside-the-point-punctuation-is-dead-long-live-punctuation)
+- [Don't Wordle](https://dontwordle.com/) - Just like Wordle but the opposite. ([HN](https://news.ycombinator.com/item?id=31572258))

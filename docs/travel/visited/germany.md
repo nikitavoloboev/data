@@ -1,7 +1,5 @@
 # Germany
 
-It's a deep shame that [Germany cares so little about EU safety](https://twitter.com/KyivIndependent/status/1530807194500857856).
-
 ## Notes
 
 - [I've never met anyone how wants to start his second company in Germany after having started his first one there.](https://twitter.com/thefrankbraun/status/1341199262852538369)

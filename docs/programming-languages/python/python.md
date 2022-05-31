@@ -503,3 +503,4 @@ for i, _ in enumerate(nums):
 - [Python Security](https://python-security.readthedocs.io/) ([Code](https://github.com/vstinner/python-security))
 - [What’s in Which Python](https://nedbatchelder.com/text/which-py.html) - Summary of what features appeared in which versions of Python. ([HN](https://news.ycombinator.com/item?id=31475130))
 - [The Python GIL: Past, Present, and Future (2022)](https://www.backblaze.com/blog/the-python-gil-past-present-and-future/)
+- [What's a Python feature that is very powerful but not many people use or know about it? (2022)](https://www.reddit.com/r/Python/comments/v1rde4/whats_a_python_feature_that_is_very_powerful_but/)

@@ -744,3 +744,4 @@ title: Kubernetes
 - [resource-metadata](https://github.com/kmodules/resource-metadata) - API for defining metadata about Kubernetes resources.
 - [Free Kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services.
 - [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
+- [Astro CLI](https://github.com/astronomer/astro-cli) - CLI that makes it easy to create, test and deploy Airflow DAGs to Astronomer. ([Web](https://www.astronomer.io/)) ([GitHub](https://github.com/astronomer))

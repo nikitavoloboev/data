@@ -100,3 +100,4 @@ title: Field-programmable gate array
 - [LUNA](https://github.com/greatscottgadgets/luna) - USB multitool + Amaranth HDL framework for monitoring, hacking, and developing USB devices.
 - [Simplifying FPGA management in Docker](https://github.com/inaccel/docker)
 - [FPGA Awesome list](https://github.com/FPGA-Systems/fpga-awesome-list)
+- [w11](https://github.com/wfjm/w11) - PDP-11/70 CPU core and SoC.
