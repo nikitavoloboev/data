@@ -626,3 +626,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Manifold Markets](https://manifold.markets/) - Lets anyone create a prediction market on any topic. ([Code](https://github.com/manifoldmarkets/manifold))
 - [The real Dune](https://www.youtube.com/watch?v=R0krUthYxF4)
 - [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots with step-by-step animation.
+- [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/) ([HN](https://news.ycombinator.com/item?id=31575909))

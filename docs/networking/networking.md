@@ -488,5 +488,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [vnStat](https://github.com/vergoh/vnstat) - Network traffic monitor for Linux and BSD.
 - [SpoofDPI](https://github.com/xvzc/SpoofDPI) - Simple and fast anti-censorship tool written in Go.
 - [Building a Budget Homelab NAS Server (2022)](https://mtlynch.io/budget-nas/) ([HN](https://news.ycombinator.com/item?id=31548829))
-- [Teleforking a process onto a different computer (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/)
+- [Teleforking a process onto a different computer (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) ([HN](https://news.ycombinator.com/item?id=22987747)) ([Code](https://github.com/trishume/telefork)) ([HN](https://news.ycombinator.com/item?id=31574624))
 - [Awesome Low Latency](https://github.com/penberg/awesome-low-latency)
