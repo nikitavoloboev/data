@@ -236,3 +236,4 @@
 - [Search My Site](https://searchmysite.net/) - Open source search engine and search as a service for personal and independent websites. ([Code](https://github.com/searchmysite/searchmysite.net))
 - [The future of search is boutique (2022)](https://future.a16z.com/the-future-of-search-is-boutique/) ([HN](https://news.ycombinator.com/item?id=31424237))
 - [Meilisearch Python](https://github.com/meilisearch/meilisearch-python) - Meilisearch API client for Python developers.
+- [SPLADE: sparse neural search](https://github.com/naver/splade)

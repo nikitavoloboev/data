@@ -373,3 +373,4 @@
 - [Ask HN: Is there any Linux distro dedicated to music performance? (2022)](https://news.ycombinator.com/item?id=31549303)
 - [Resources on Music Generation with Deep Learning](https://github.com/umbrellabeach/music-generation-with-DL)
 - [Chord Melody Dataset](https://github.com/shiehn/chord-melody-dataset) - Dataset to dedicated to the relationship between chords & melodies.
+- [GEMS](https://github.com/nbw/gems) - Music sequencer on a distributed cluster. Written with Phoenix LiveView.

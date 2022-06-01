@@ -804,3 +804,4 @@ title: Rust
 - [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust)
 - [Builder Lite (2022)](https://matklad.github.io//2022/05/29/builder-lite.html)
 - [TypeRust](https://typerust.dev/) - Simple Rust playground where you can build or run your Rust code and share it with others. ([Code](https://github.com/jlkiri/typerust))
+- [Rust Concurrency Cheat Sheet](https://github.com/quambene/rust-concurrency)

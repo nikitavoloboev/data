@@ -88,3 +88,4 @@ title: Vulkan API
 - [vulkanalia](https://github.com/KyleMayes/vulkanalia) - Vulkan bindings for Rust.
 - [Primus-vk](https://github.com/felixdoerre/primus_vk) - Vulkan GPU-offloading layer.
 - [vkroots](https://github.com/Joshua-Ashton/vkroots) - Framework for writing Vulkan layers.
+- [Ray tracing glTF scene with Vulkan](https://github.com/nvpro-samples/vk_raytrace)

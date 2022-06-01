@@ -25,3 +25,4 @@ title: Fuchsia OS
 - [Fuchsia IDL Overview](https://fuchsia.dev/fuchsia-src/concepts/fidl/overview) ([HN](https://news.ycombinator.com/item?id=30707696))
 - [Fuchsia Workstation](https://fuchsia.dev/fuchsia-src/development/build/build_workstation) ([HN](https://news.ycombinator.com/item?id=30827210))
 - [A Kernel Hacker Meets Fuchsia OS (2022)](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/) ([HN](https://news.ycombinator.com/item?id=31497827))
+- [FuchsiAware](https://github.com/google/fuchsiaware) - Fuchsia Source Tree Browsing Assistance.

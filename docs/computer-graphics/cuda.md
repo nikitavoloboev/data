@@ -40,3 +40,4 @@ title: CUDA
 - [CUDA Design Patterns](https://github.com/PatWie/cuda-design-patterns) - CUDA design patterns and a bit of template magic for CUDA.
 - [GPUMD](https://github.com/brucefan1983/GPUMD) - Graphics Processing Units Molecular Dynamics.
 - [Some CUDA programming fun with Julia (2022)](https://cancandan.github.io/julia/graphics/cuda/2022/05/07/triangles.html) ([HN](https://news.ycombinator.com/item?id=31298218))
+- [CUDA Samples](https://github.com/NVIDIA/cuda-samples) - Samples for CUDA Developers which demonstrates features in CUDA Toolkit.

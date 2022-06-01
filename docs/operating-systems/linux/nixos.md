@@ -63,6 +63,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Bernardo Meurer](https://github.com/lovesegfault/nix-config)
 - [Riccardo Mazzarini](https://github.com/noib3/dotfiles)
 - [David Farley](https://github.com/dwf/dotfiles)
+- [Jeremy Schlatter](https://github.com/jeremyschlatter/nixpkgs)
 
 ## Nix configs (macOS)
 

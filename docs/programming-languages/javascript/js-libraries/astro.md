@@ -28,3 +28,4 @@ title: Astro
 - [Build faster websites with Astro (2022)](https://www.youtube.com/watch?v=x3hiyWikdrE)
 - [Astro Collaborative Starter](https://github.com/CTNicholas/astro-collaborative-starter)
 - [Accessible Astro Starter](https://components.accessible-astro.dev/) - Set of Accessible, easy to use, Front-end UI Components for Astro. ([Code](https://github.com/markteekman/accessible-astro-components))
+- [Astro RFC](https://github.com/withastro/rfcs) - Ideas, suggestions, and formal RFC proposals for the Astro project.

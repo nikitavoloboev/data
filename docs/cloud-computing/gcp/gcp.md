@@ -92,3 +92,4 @@ title: Google Cloud
 - [Litestream & Cloud Run example](https://github.com/steren/litestream-cloud-run-example)
 - [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable)
 - [Google Cloud service emulators for local development stacks](https://github.com/fullstorydev/emulators)
+- [docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - Docker credential helper for GCR users.

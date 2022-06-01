@@ -39,3 +39,4 @@ I often switch between `Week` and `Month` views.
 - [iCalendar in Rust](https://github.com/hoodie/icalendar-rs)
 - [Calm Calendar](https://calmcalendar.com/) - Work/life balance for your calendars, where it synchronizes events from one/many calendars to others, redacting details. ([Tweet](https://twitter.com/pat/status/1477909663869923329))
 - [Google Calendar Simple API](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API.
+- [Xandikos](https://github.com/jelmer/xandikos) - CalDAV/CardDAV server.

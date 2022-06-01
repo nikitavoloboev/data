@@ -263,3 +263,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Tart](https://github.com/cirruslabs/tart) - macOS VMs on Apple Silicon to use in CI and other automations.
 - [Scripting OS X Blog](https://scriptingosx.com/) ([Twitter](https://twitter.com/scriptingosx))
 - [macOS tips and tricks](https://saurabhs.org/macos-tips)
+- [HvDecompile](https://github.com/zhuowei/HvDecompile) - Decompiling macOS Hypervisor.framework by hand.

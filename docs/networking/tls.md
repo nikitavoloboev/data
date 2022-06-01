@@ -95,3 +95,4 @@ title: TLS
 - [Extracting TLS keys from an unwilling application (2020)](http://m1el.github.io/oculus-tls-extract/)
 - [hallucinate](https://github.com/SySS-Research/hallucinate) - One-stop TLS traffic inspection and manipulation using dynamic instrumentation.
 - [Mastering two way TLS](https://github.com/Hakky54/mutual-tls-ssl) - Tutorial of setting up Security for your API with one way authentication with TLS/SSL and mutual authentication.
+- [eCapture](https://github.com/ehids/ecapture) - Capture SSL/TLS text content without CA cert Using eBPF.

@@ -151,3 +151,4 @@ title: Tailwind CSS
 - [Tailwind CSS OpenType](https://github.com/stormwarning/tailwindcss-opentype) - Tailwind CSS utility classes for advanced typographic features.
 - [Xtend UI](https://xtendui.com/) - Custom UI made easy with simplicity and total freedom. ([Code](https://github.com/xtendui/xtendui))
 - [Windy Radix Palette](https://github.com/brattonross/windy-radix-palette) - Tailwind preset for bringing Radix Colors palette to Tailwind.
+- [Tailwind Components Collection](https://github.com/unlight/tailwind-components)

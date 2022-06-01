@@ -166,3 +166,4 @@ Prefer [Google Cloud Run](https://cloud.google.com/run) (Go), [Vercel API functi
 - [Ask HN: Options for handling state at the edge? (2022)](https://news.ycombinator.com/item?id=31342436)
 - [AWS Serverless Samples](https://github.com/aws-samples/serverless-samples)
 - [fasttime](https://github.com/softprops/fasttime) - Lightweight Fastly Compute@Edge runtime for running and testing WASM applications locally.
+- [Upstash](https://upstash.com/) - Serverless Data for Redis and Kafka. ([GitHub](https://github.com/upstash)) ([Twitter](https://twitter.com/upstash)) ([CLI](https://github.com/upstash/cli))

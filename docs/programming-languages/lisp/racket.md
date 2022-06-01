@@ -4,7 +4,7 @@ title: Racket
 
 # [Racket](https://racket-lang.org/)
 
-[Beautiful Racket](https://beautifulracket.com/) is great intro. [Racket News](https://racket-news.com/) is nice to stay up to date. [Zuo](https://github.com/racket/zuo) seems neat.
+[Beautiful Racket](https://beautifulracket.com/) is great intro. [Racket News](https://racket-news.com/) is nice to stay up to date. [Zuo](https://github.com/racket/zuo) & [Typed Racket](https://github.com/racket/typed-racket) seem nice.
 
 ## Links
 

@@ -95,3 +95,4 @@ title: Agda
 - [Fragment](https://github.com/frex-project/agda-fragment) - Algebraic proof discovery in Agda.
 - [Theory of algebraic graphs formalized in Agda](https://github.com/algebraic-graphs/agda)
 - [Formal verification of byzantine fault tolerant consensus in Agda](https://github.com/oracle/bft-consensus-agda)
+- [Agda Synthetic Domain Theory](https://github.com/jonsterling/agda-synthetic-domain-theory)

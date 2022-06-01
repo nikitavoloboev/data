@@ -100,3 +100,4 @@
 - [Content Map](https://www.figma.com/community/widget/1094814285122843280/Content-Map) - FigJam widget to help visualize, structure, and prioritize content. ([Tweet](https://twitter.com/mirkosantangelo/status/1521557624944308224))
 - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Find and fix errors in your designs.
 - [Figma Tokens](https://www.figmatokens.com/) - Use the power of design tokens in Figma. ([Tweet](https://twitter.com/six7/status/1529577240866041857))
+- [Figma icns/ico Generator](https://github.com/aaroniker/figma-icns-ico-generator) - Generate .icns / .ico files directly from Figma.

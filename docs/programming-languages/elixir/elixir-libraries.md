@@ -197,6 +197,8 @@
 - [Decimal](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic.
 - [Ravenx](https://github.com/acutario/ravenx) - Notification dispatch library for Elixir applications.
 - [Notifiex](https://github.com/burntcarrot/notifiex) - Simple Elixir library for sending notifications to various messaging services.
+- [Qrusty](https://github.com/nbw/qrusty) - Elixir QR Code library that leverages precompiled Rust.
+- [Lens](https://github.com/obrok/lens) - Utility for working with nested data structures.
 
 ## Links
 

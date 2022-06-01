@@ -417,7 +417,7 @@
 - [wiremock](https://github.com/LukeMathWalker/wiremock-rs) - HTTP mocking to test Rust applications.
 - [Golden Tests](https://github.com/jfecher/golden-tests) - Golden file testing library for rust.
 - [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - Mutation testing tool for Rust.
-- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust. ([Tweet](https://twitter.com/sunshowers6/status/1493283867297337345)) ([Reddit](https://www.reddit.com/r/rust/comments/sshvzy/cargonextest_a_new_test_runner_for_rust_projects/)) ([Docs](https://nexte.st/))
+- [Nextest](https://github.com/nextest-rs/nextest) - Next-generation test runner for Rust. ([Tweet](https://twitter.com/sunshowers6/status/1493283867297337345)) ([Reddit](https://www.reddit.com/r/rust/comments/sshvzy/cargonextest_a_new_test_runner_for_rust_projects/)) ([Docs](https://nexte.st/)) ([Example demonstrating build reuse and test partitioning with nextest](https://github.com/nextest-rs/reuse-build-partition-example))
 - [assay](https://github.com/mgattozzi/assay) - Super powered testing macro for Rust.
 - [rusty-fork](https://github.com/AltSysrq/rusty-fork) - Run Rust tests in isolated subprocesses.
 - [propfuzz](https://github.com/facebookincubator/propfuzz) - Rust toolkit to combine property-based testing and fuzzing.

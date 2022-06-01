@@ -256,3 +256,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [Email Permutator](https://github.com/emeth-/Email-Permutator) - Input a first name, last name, and company. Receive back a list of possible email addresses, which we then attempt to verify via a variety of methods for you.
 - [mail-send](https://github.com/stalwartlabs/mail-send) - E-mail delivery library for Rust with DKIM support.
 - [Send emails using Cloudflare Worker, for free](https://github.com/proselog/email-api)
+- [enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go.

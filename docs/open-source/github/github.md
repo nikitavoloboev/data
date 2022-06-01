@@ -433,3 +433,4 @@ Awesome List
 - [pullsheet](https://github.com/google/pullsheet) - Generate spreadsheets based on GitHub contributions.
 - [octobors](https://github.com/EmbarkStudios/octobors) - Rust program for automerging PRs based on a few rules.
 - [Diary of a spaCy project: Predicting GitHub Tags (2022)](https://explosion.ai/blog/diary-of-github-spacy-project)
+- [gh-eco](https://github.com/coloradocolby/gh-eco) - gh extension to explore the ecosystem.

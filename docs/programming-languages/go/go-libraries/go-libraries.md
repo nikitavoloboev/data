@@ -1668,6 +1668,9 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [mo](https://github.com/samber/mo) - Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...).
 - [workerpool](https://github.com/savsgio/workerpool) - Lightweight and fast worker pool with generics support.
 - [sqlparser](https://github.com/marianogappa/sqlparser) - Simple SQL parser meant for querying CSV files.
+- [Rita](https://github.com/bruth/rita) - Toolkit of various event-centric and reactive abstractions build on top of NATS.
+- [Circuit](https://github.com/cep21/circuit) - Efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
+- [WriterSeeker](https://github.com/orcaman/writerseeker) - In-memory io.WriteSeeker implementation missing in the standard lib.
 
 ## Links
 

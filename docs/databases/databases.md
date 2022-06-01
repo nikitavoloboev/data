@@ -19,7 +19,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GoLevelDB](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 - [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome))
-- [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
+- [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol. ([Awesome](https://github.com/c4pt0r/awesome-tidb))
 - [TiKV](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB. ([pd - Placement driver for TiKV](https://github.com/pingcap/pd)) ([TiKV Rust Client](https://github.com/tikv/client-rust))
 - [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends. ([Paper](https://pdos.csail.mit.edu/papers/noria:osdi18.pdf)) ([Notes](https://www.micahlerner.com/2021/03/28/noria-dynamic.html))
 - [RethinkDB](https://www.rethinkdb.com/) - Pushes JSON to your apps in realtime.

@@ -5,6 +5,7 @@
 - [Flux](https://github.com/FluxML/Flux.jl) - Elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support. ([Flux Model Zoo](https://github.com/FluxML/model-zoo)) ([Deep Learning with Flux.jl](https://juliaacademy.com/p/deep-learning-with-flux-jl)) ([Web](https://fluxml.ai/))
 - [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework. ([Tutorial](https://alan-turing-institute.github.io/MLJTutorials/)) ([HN](https://news.ycombinator.com/item?id=26774590))
 - [MLJTime](https://github.com/alan-turing-institute/MLJTime.jl) - MLJ compatible Julia toolbox for learning with time series.
+- [MLJTuning](https://github.com/JuliaAI/MLJTuning.jl) - Hyperparameter optimization for MLJ machine learning models.
 - [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
 - [TensorCast.jl](https://github.com/mcabbott/TensorCast.jl) - Lets you work with many-dimensional arrays in index notation, by defining a few macros.
 - [SDDP.jl](https://github.com/odow/SDDP.jl) - Stochastic Dual Dynamic Programming in Julia.
@@ -612,6 +613,7 @@
 - [TerminalLoggers](https://github.com/JuliaLogging/TerminalLoggers.jl) - Logging sinks and utilites for interactive terminals.
 - [FastClosures](https://github.com/c42f/FastClosures.jl) - Faster closure variable capture.
 - [Accessors](https://github.com/JuliaObjects/Accessors.jl) - Update immutable data.
+- [ParserCombinator](https://github.com/andrewcooke/ParserCombinator.jl) - Parser combinator library for Julia.
 
 ## Links
 

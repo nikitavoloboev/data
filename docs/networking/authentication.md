@@ -234,3 +234,4 @@
 - [ADX](https://github.com/bluesky-social/adx) - Experiment in self-authenticating data structures for a federated social network. ([HN](https://news.ycombinator.com/item?id=31267727))
 - [Tailscale Authentication with Traefik](https://github.com/kevin-hanselman/tailscale-forward-auth)
 - [Hanko](https://github.com/teamhanko/hanko) - Clean approach to user authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. ([Web](https://www.hanko.io/))
+- [web-auth-library](https://github.com/kriasoft/web-auth-library) - Collection of utility functions for working with Web Crypto API.
