@@ -432,3 +432,4 @@ Awesome List
 - [GitHub-Compare](https://github.com/anqiansong/github-compare) - Command-line tool to statistics the GitHub repositories.
 - [pullsheet](https://github.com/google/pullsheet) - Generate spreadsheets based on GitHub contributions.
 - [octobors](https://github.com/EmbarkStudios/octobors) - Rust program for automerging PRs based on a few rules.
+- [Diary of a spaCy project: Predicting GitHub Tags (2022)](https://explosion.ai/blog/diary-of-github-spacy-project)

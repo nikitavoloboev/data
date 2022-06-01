@@ -767,7 +767,7 @@ if err != nil {
 - [Building a Golang JSON HTTP Server (2021)](https://earthly.dev/blog/golang-http/)
 - [Golang dev with Kubernetes, Helm and Skaffold (2022)](https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/)
 - [PMGO](https://github.com/struCoder/pmgo) - Process manager for Go applications.
-- [The Go Programming Language and Environment (2022)](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) ([HN](https://news.ycombinator.com/item?id=31173395))
+- [The Go Programming Language and Environment (2022)](https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext) ([HN](https://news.ycombinator.com/item?id=31173395)) ([HN](https://news.ycombinator.com/item?id=31556382))
 - [Beating grep with Go (2022)](https://healeycodes.com/beating-grep-with-go) ([Lobsters](https://lobste.rs/s/qxwmrh/beating_grep_with_go))
 - [Lies we tell ourselves to keep using Go (2022)](https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang) ([HN](https://news.ycombinator.com/item?id=31205072)) ([Tweet](https://twitter.com/fasterthanlime/status/1520037787763884038)) ([Reddit](https://www.reddit.com/r/programming/comments/uenpw2/lies_we_tell_ourselves_to_keep_using_golang/))
 - [Experience Report: 6 months of Go (2022)](https://typesanitizer.com/blog/go-experience-report.html) ([Reddit](https://www.reddit.com/r/golang/comments/uff59d/experience_report_6_months_of_go/)) ([HN](https://news.ycombinator.com/item?id=31217032))

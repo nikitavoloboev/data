@@ -478,3 +478,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Assist](https://github.com/Blackjacx/Assist) - App Store Connect API access via Swift command line tool.
 - [Building iOS Apps with Swift, TDD & Clean Architecture](https://github.com/essentialdevelopercom/quiz-app)
 - [Как стать iOS-разработчиком и быстро выучить Swift (2022)](https://skillbox.ru/media/code/kak-vyuchit-swift-i-stat-iosrazrabotchikom-poshagovyy-plan-ot-roadmap-do-sobesedovaniy/)
+- [2022 Apple Design Award Finalists](https://developer.apple.com/design/awards/)

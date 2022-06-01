@@ -184,7 +184,7 @@
 - [Wildland](https://wildland.io/) - Open data management protocol.
 - [Data Science Fails](https://github.com/xLaszlo/datascience-fails)
 - [Building a data team at a mid-stage startup (2021)](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) ([HN](https://news.ycombinator.com/item?id=27777594))
-- [DataStation](https://datastation.multiprocess.io/) - Data IDE for Developers. ([Code](https://github.com/multiprocessio/datastation))
+- [DataStation](https://datastation.multiprocess.io/) - Data IDE for Developers. ([Code](https://github.com/multiprocessio/datastation)) ([HN](https://news.ycombinator.com/item?id=31574317))
 - [Awesome data annotation](https://github.com/taivop/awesome-data-annotation)
 - [Data Movement in Netflix Studio via Data Mesh (2021)](https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059)
 - [Small Summaries for Big Data (2020)](http://dimacs.rutgers.edu/~graham/ssbd.html)

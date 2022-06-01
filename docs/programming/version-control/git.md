@@ -541,3 +541,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Think Like Git (2022)](https://tacaswell.github.io/think-like-git.html)
 - [restack](https://github.com/abhinav/restack) - Makes interactive Git rebase nicer.
 - [gitlint](https://github.com/jorisroovers/gitlint) - Linting for your git commit messages.
+- [Git Timeline Generator](https://www.preceden.com/git) - Visualize contributions to any Git project. ([HN](https://news.ycombinator.com/item?id=31571763))
