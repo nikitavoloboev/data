@@ -510,3 +510,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Postgres Docker Container Migration Cheat Sheet (2022)](https://garrit.xyz/posts/2022-05-31-database-server-migration-cheat-sheet)
 - [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source PostgreSQL Distribution.
 - [Restore PostgreSQL database running in Docker Container (2021)](https://estebanborai.com/notes/docker-postgresql-restore-database)
+- [PG Exporter](https://github.com/Vonng/pg_exporter) - Prometheus exporter for PostgreSQL metrics.

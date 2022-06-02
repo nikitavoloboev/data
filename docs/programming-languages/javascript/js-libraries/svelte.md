@@ -265,3 +265,4 @@ title: Svelte
 - [svelvg](https://github.com/metonym/svelvg) - Convert SVG files into Svelte components with TypeScript definitions.
 - [Svelte Reactive Debugger](https://github.com/unlocomqx/svelte-reactive-debugger) - Easily monitor svelte reactive statements.
 - [Svelte Hub Docs Components](https://github.com/huggingface/hub-docs)
+- [Svelvet](https://github.com/oslabs-beta/Svelvet) - Lightweight Svelte component library for building interactive node-based flow diagrams. ([Web](https://svelvet.io/)) ([HN](https://news.ycombinator.com/item?id=31595822))

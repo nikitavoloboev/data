@@ -450,3 +450,4 @@ if (
 - [Now and .then: Debugging Async JavaScript - Jenn Creighton (2022)](https://www.youtube.com/watch?v=V-lu0YjJYdk)
 - [JavaScript tree-sitter](https://github.com/tree-sitter/tree-sitter-javascript) - JavaScript and JSX grammar for tree-sitter.
 - [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) - Popular JavaScript / React / Node / Mongo stack Interview questions and their answers.
+- [Monorepos in JavaScript and TypeScript (2022)](https://www.robinwieruch.de/javascript-monorepos/) ([HN](https://news.ycombinator.com/item?id=31596419))

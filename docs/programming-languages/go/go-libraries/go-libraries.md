@@ -1673,6 +1673,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Circuit](https://github.com/cep21/circuit) - Efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [WriterSeeker](https://github.com/orcaman/writerseeker) - In-memory io.WriteSeeker implementation missing in the standard lib.
 - [do](https://github.com/samber/do) - Dependency injection toolkit based on Go 1.18+ Generics.
+- [yaml](https://github.com/invopop/yaml) - YAML marshaling and unmarshaling support for Go.
+- [Gosl](https://github.com/cpmech/gosl) - Go scientific library.
 
 ## Links
 

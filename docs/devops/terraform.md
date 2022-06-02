@@ -179,3 +179,4 @@ title: Terraform
 - [tfcloud](https://github.com/chroju/tfcloud) - Terraform Cloud CLI tool.
 - [setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [Databricks Terraform Provider](https://github.com/databrickslabs/terraform-provider-databricks)
+- [CDK for Terraform bindings for Go](https://github.com/hashicorp/terraform-cdk-go)
