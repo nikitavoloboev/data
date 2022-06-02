@@ -585,4 +585,4 @@
 - [Dynamic language understanding: adaptation to new knowledge in parametric and semi-parametric models (2022)](https://www.deepmind.com/publications/dynamic-language-understanding-adaptation-to-new-knowledge-in-parametric-and-semi-parametric-models) ([Tweet](https://twitter.com/DeepMind/status/1529846251558256642))
 - [nlprule](https://github.com/bminixhofer/nlprule) - Fast, low-resource Natural Language Processing and Text Correction library written in Rust.
 - [Quark: Controllable Text Generation with Reinforced Unlearning (2022)](https://arxiv.org/abs/2205.13636) ([Tweet](https://twitter.com/rajammanabrolu/status/1531308092629012485))
-- [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402) ([HN](https://news.ycombinator.com/item?id=31573282)) ([Tweet](https://twitter.com/benjamin_hilton/status/1531780892972175361))
+- [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402) ([HN](https://news.ycombinator.com/item?id=31573282)) ([Tweet](https://twitter.com/benjamin_hilton/status/1531780892972175361)) ([HN](https://news.ycombinator.com/item?id=31587316))

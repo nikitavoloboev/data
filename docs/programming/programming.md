@@ -560,4 +560,4 @@
 - [Thorsten Ball - Professional Programming: The First 10 Years (2022)](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/) ([HN](https://news.ycombinator.com/item?id=31407454))
 - [Why Reproductions are Required (2022)](https://antfu.me/posts/why-reproductions-are-required) ([Tweet](https://twitter.com/antfu7/status/1531306560370397185))
 - [Search over 2000 manually curated technical deep-dives related to programming](https://abyteofcoding.com/search/)
-- [1x Engineer](https://1x.engineer/) ([HN](https://news.ycombinator.com/item?id=31568895))
+- [1x Engineer](https://1x.engineer/) ([HN](https://news.ycombinator.com/item?id=31568895)) ([Code](https://github.com/cutenode/1x.engineer))

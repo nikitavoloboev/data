@@ -75,6 +75,7 @@
 
 ## CLI
 
+- [babashka.cli](https://github.com/babashka/cli) - Easy command line processing for Clojure.
 - [bbb](https://github.com/nikvdp/bbb) - Low friction, quick and easy way to develop CLI tools in Clojure that you can distribute as self-contained static binaries.
 - [malli-cli](https://github.com/piotr-yuxuan/malli-cli) - Command-line processing.
 
@@ -250,3 +251,4 @@
 - [clay](https://github.com/scicloj/clay) - Tiny Clojure tool for a dynamic workflow with some of the more serious visual tools.
 - [clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects.
 - [Quickdoc](https://github.com/borkdude/quickdoc) - Quick and minimal API doc generation for Clojure.
+- [build.edn](https://github.com/liquidz/build.edn) - Make your Clojure library build process easy.

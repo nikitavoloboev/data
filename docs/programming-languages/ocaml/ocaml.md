@@ -135,3 +135,4 @@ title: OCaml
 - [Concurrent Programming with Effect Handlers](https://github.com/ocamllabs/ocaml-effects-tutorial)
 - [OCaml programs are much nicer to write](https://twitter.com/wcrichton/status/1528069823212662784)
 - [eio-console](https://github.com/patricoferris/eio-console) - Eventring-based exploration of Eio programs.
+- [OCaml Platform](https://github.com/tarides/ocaml-platform) - Represents the best way for developers, both new and old, to write software in OCaml.

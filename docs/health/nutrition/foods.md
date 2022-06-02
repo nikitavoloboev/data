@@ -18,69 +18,69 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 
 ## Nuts
 
-- almonds
-- hazelnuts
-- walnuts
+- [Almonds](https://en.wikipedia.org/wiki/Almond)
+- [Brazil](https://en.wikipedia.org/wiki/Brazil_nut)
+- [Hazelnuts](https://en.wikipedia.org/wiki/Hazelnut)
+- [Walnuts](https://en.wikipedia.org/wiki/Walnut)
 
 ## Vegetables
 
-- broccoli
-- carrots
-- chickpeas
-- kale
-- spinach
+- Broccoli
+- Carrots
+- Chickpeas
+- Kale
+- Spinach
 
 ## Fruits
 
-- avocados
-- bananas
-- blueberries
+- Avocados
+- Bananas
+- Blueberries
 
 ## Nuts (other)
 
-- brazil nuts
-- cashews
-- peanuts
-- pistachio nuts
+- Cashews
+- Peanuts
+- Pistachio nuts
 
 ## Vegetables (other)
 
-- arugula
+- Arugula
 
 ## Fruits (other)
 
-- grapes
-- lemons
-- peaches
+- Grapes
+- Lemons
+- Peaches
 
 ## Beans (other)
 
-- griffonia seeds
-- pinto beans
+- Griffonia seeds
+- Pinto beans
 
 ## Spices (other)
 
-- chilli's
-- curry powder
-- garlic
-- ginger
-- lentils
-- oregano
-- paprika
-- parsley
-- peppers
-- rosemary
-- sage
-- turmeric
+- Chilli's
+- Curry powder
+- Garlic
+- Ginger
+- Lentils
+- Oregano
+- Paprika
+- Parsley
+- Peppers
+- Rosemary
+- Sage
+- Turmeric
 
 ## Oils (other)
 
-- coconut oil
-- olive oil
+- Coconut oil
+- Olive oil
 
 ## Mushrooms (other)
 
-- mushrooms
+- Mushrooms
 
 ## Notes
 

@@ -191,3 +191,5 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [Ask HN: Why are people in real life so different? (2022)](https://news.ycombinator.com/item?id=31388731)
 - [How to tame your inner advice monster (2020)](https://blog.ed.ted.com/2020/07/06/how-to-tame-your-inner-advice-monster/)
 - [How To Say No](https://www.starterstory.com/how-to-say-no) - Templates to help you say no in any situation.
+- [We don't show typing status (2022)](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing) ([HN](https://news.ycombinator.com/item?id=31587139))
+- [Ask HN: Where do you go for discourse? (2022)](https://news.ycombinator.com/item?id=31582270)

@@ -96,3 +96,4 @@
 - [BlindAI](https://github.com/mithril-security/blindai) - Confidential AI inference server.
 - [Vertigo](https://vertigo.ai/) - AI for IoT & The Edge.
 - [Compair](https://github.com/rasbt/compair) - Model evaluation utilities.
+- [LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - Fast and customizable framework for automatic ML model creation (AutoML).

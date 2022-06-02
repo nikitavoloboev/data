@@ -328,6 +328,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [gldap](https://github.com/jimlambrt/gldap) - Build LDAP services w/ Go.
 - [Bud](https://github.com/livebud/bud) - Full stack Go Framework for Prolific Web Developers. ([HN](https://news.ycombinator.com/item?id=31371340))
 - [Health](https://github.com/alexliesenfeld/health) - Simple and flexible health check library for Go.
+- [Hertz](https://github.com/cloudwego/hertz) - High-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 
 ## GraphQL
 
@@ -1671,6 +1672,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Rita](https://github.com/bruth/rita) - Toolkit of various event-centric and reactive abstractions build on top of NATS.
 - [Circuit](https://github.com/cep21/circuit) - Efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
 - [WriterSeeker](https://github.com/orcaman/writerseeker) - In-memory io.WriteSeeker implementation missing in the standard lib.
+- [do](https://github.com/samber/do) - Dependency injection toolkit based on Go 1.18+ Generics.
 
 ## Links
 

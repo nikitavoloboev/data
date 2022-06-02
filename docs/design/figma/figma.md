@@ -97,3 +97,4 @@ title: Figma
 - [Designing Auto Layout V4 - Joel Miller, Oscar Nilsson (Config 2022)](https://www.youtube.com/watch?v=ooximfyXFWk)
 - [Prototyper for Figma](https://prototyper.design/)
 - [Component Properties (Case Study) – Figma](https://www.figma.com/community/file/1113141767963760931) - Learnings about Figma's Component Properties. ([Tweet](https://twitter.com/killnicole/status/1531314218296872962))
+- [What is your favorite Figma feature? (2022)](https://twitter.com/skuwamoto/status/1532206105115254784)

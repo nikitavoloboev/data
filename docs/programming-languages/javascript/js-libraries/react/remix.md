@@ -150,3 +150,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Learn Remix by Building a Social Media Platform with TypeScript and Prisma (2022)](https://egghead.io/courses/learn-remix-by-building-a-social-media-platform-with-typescript-and-prisma-cddb0550)
 - [Remix Conf 2022](https://www.youtube.com/watch?v=4_nxvVTNY9s)
 - [Adding route transition animations in Remix (2022)](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)
+- [Remix Flat Routes](https://github.com/kiliman/remix-flat-routes) - Remix package to define routes using the flat-routes convention.

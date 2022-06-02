@@ -20,6 +20,10 @@ Some maybe interesting supplements I don't take routinely but tried.
 - [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS) (1 capsule)
 - [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule)
 
+## Didn't try but have interesting nutrients
+
+- [Daily Thyroid Care Supplement](https://www.palomahealth.com/product/thyroid-supplements)
+
 ## Notes
 
 - [Pregnant women taking 1,000 mg of the omega-3 DHA had 50% fewer early preterm births than women given 200 mg. The high dose DHA also reduced feeding issues and genitourinary and neurologic problems in infants (randomized controlled trial).](https://twitter.com/foundmyfitness/status/1397251661618352133)

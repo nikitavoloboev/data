@@ -283,3 +283,4 @@ I invest in stocks/ETFs ([VTI](https://finance.yahoo.com/quote/VTI/) & [VXUS](ht
 - [mplfinance](https://github.com/matplotlib/mplfinance) - Financial Markets Data Visualization using Matplotlib.
 - [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
 - [Ask HN: How to invest savings? (2022)](https://news.ycombinator.com/item?id=31563463)
+- [Ask HN: Is the stock market's growth largely anything more than inflation? (2022)](https://news.ycombinator.com/item?id=31586325)

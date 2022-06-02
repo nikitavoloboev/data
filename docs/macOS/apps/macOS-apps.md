@@ -146,6 +146,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Seashore](https://github.com/robaho/seashore) - Easy to use macOS image editing application for the rest of us.
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [VCam](https://github.com/vcamapp/app) - macOS app that displays an avatar using a virtual camera.
+- [Telik](https://github.com/agentcooper/Telik) - macOS application to track YouTube channels and playlists.
 
 ## Other interesting apps
 
@@ -201,6 +202,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Bike](https://www.hogbaysoftware.com/bike/) - macOS Native Outliner. ([HN](https://news.ycombinator.com/item?id=31409077)) ([Docs](https://bikeguide.hogbaysoftware.com/))
 - [IndigoStack](https://indigostack.app/) - native macOS app for local web development. ([HN](https://news.ycombinator.com/item?id=31485898))
 - [Sleeve](https://replay.software/sleeve) - Now playing on your Desktop. ([Tweet](https://twitter.com/brian_lovin/status/1529866374654283781))
+- [Graphing Calculator 4](https://apps.apple.com/nl/app/graphing-calculator-4/id522175477)
 
 ## Links
 

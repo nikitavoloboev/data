@@ -4,7 +4,7 @@ title: gRPC
 
 # [gRPC](https://grpc.io)
 
-[gRPC UI](https://github.com/fullstorydev/grpcui), [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) & [Wombat](https://github.com/rogchap/wombat) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
+[Connect](https://github.com/bufbuild/connect-go), [gRPC UI](https://github.com/fullstorydev/grpcui), [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) & [Wombat](https://github.com/rogchap/wombat) are useful. [gRPC-Go](https://github.com/grpc/grpc-go) & [gRPC-TS](https://github.com/whisklabs/grpc-ts) are great too.
 
 ## Links
 
@@ -115,3 +115,4 @@ title: gRPC
 - [Go-gRPC](https://github.com/vladimirvivien/go-grpc) - Collection of gRPC and Go examples showcasing features of the framework.
 - [Camouflage](https://github.com/testinggospels/camouflage) - Backend mocking tool for HTTP, gRPC, Websockets and Thrift protocols. ([Docs](https://testinggospels.github.io/camouflage/))
 - [Why gRPC is great (2022)](https://twitter.com/kelseyhightower/status/1529573644262727680)
+- [Connect](https://github.com/bufbuild/connect-go) - Slim library for building browser and gRPC-compatible HTTP APIs. ([Article](https://buf.build/blog/connect-a-better-grpc)) ([HN](https://news.ycombinator.com/item?id=31584555)) ([Tweet](https://twitter.com/wallyqs/status/1532239194927484928))

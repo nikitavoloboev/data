@@ -249,3 +249,4 @@
 - [A lock-free, concurrent, generic queue in 32 bits (2022)](https://nullprogram.com/blog/2022/05/14/) ([HN](https://news.ycombinator.com/item?id=31384602))
 - [Logging C Functions (2022)](https://justine.lol/ftrace/) ([Lobsters](https://news.ycombinator.com/item?id=31443198))
 - [Linux and Tiny C Compiler in the browser (2022)](https://ja.nsommer.dk/articles/linux-and-tiny-c-compiler-in-the-browser-part-one.html)
+- [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md) ([HN](https://news.ycombinator.com/item?id=31581727))

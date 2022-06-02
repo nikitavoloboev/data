@@ -155,3 +155,4 @@
 - [How to on-board properly at new jobs (2022)](https://twitter.com/wes_kao/status/1523316828164042753)
 - [Don't ask for too many "must have" things in job adverts](https://twitter.com/GergelyOrosz/status/1528756093698162688)
 - [What I wish I knew about onboarding](https://eugeneyan.com/writing/onboarding/) ([HN](https://news.ycombinator.com/item?id=31540909))
+- [What Good, Cash-Strapped Hiring Looks Like (2022)](https://commoncog.com/blog/cash-strapped-hiring/) ([HN](https://news.ycombinator.com/item?id=31579275))

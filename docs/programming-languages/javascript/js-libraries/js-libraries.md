@@ -932,6 +932,8 @@
 - [Rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda.
 - [env-schema](https://github.com/fastify/env-schema) - Validate your env variable using Ajv and dotenv.
 - [minipass](https://github.com/isaacs/minipass) - Minimal implementation of a PassThrough stream.
+- [compile-json-stringify](https://github.com/nwoltman/compile-json-stringify) - Compile a JSON.stringify() function with type hints for maximum performance.
+- [hanabi](https://github.com/egoist/hanabi) - Highlight any code, in a colorful way.
 
 ## Links
 

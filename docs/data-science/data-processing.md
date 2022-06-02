@@ -110,3 +110,4 @@
 - [Tornado](https://github.com/WuerthPhoenix/tornado) - Complex Event Processor that receives reports of events from data sources such as monitoring, email, and telegram, matches them against pre-configured rules.
 - [Meet Dash-AB — The Statistics Engine of Experimentation at DoorDash (2022)](https://doordash.engineering/2022/05/24/meet-dash-ab-the-statistics-engine-of-experimentation-at-doordash/)
 - [dataPipe](https://github.com/FalconSoft/dataPipe) - Data processing and data analytics library for JavaScript.
+- [gosquito](https://github.com/livelace/gosquito) - Pluggable tool for data gathering, data processing and data transmitting to various destinations.

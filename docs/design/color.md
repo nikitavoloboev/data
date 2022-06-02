@@ -6,6 +6,7 @@
 
 - [1](https://components.ai/gradient/ZkZ7AP11YnaNf2SuDTt6?tab=editor)
 - [2](https://components.ai/gradient/p1DA8pSJI7vVfAeFkgXU?tab=editor)
+- [Arc](https://twitter.com/Gavmn/status/1531860127795425280)
 
 ## Notes
 

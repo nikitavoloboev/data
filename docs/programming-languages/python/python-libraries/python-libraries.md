@@ -1030,3 +1030,4 @@
 - [The unreasonable effectiveness of f-strings and re.verbose (2022)](https://death.andgravity.com/f-re) ([HN](https://news.ycombinator.com/item?id=31457188))
 - [Writing Python modules in Zig](https://www.reddit.com/r/Zig/comments/k2bv2j/writing_python_modules_in_zig/)
 - [Import Tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library. ([HN](https://news.ycombinator.com/item?id=31507106))
+- [Pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness.

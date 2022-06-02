@@ -320,3 +320,4 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Morrowind 20-year anniversary book](https://mw.thenet.sk/) ([HN](https://news.ycombinator.com/item?id=31490348))
 - [Ask HN: What game you wished existed? (2022)](https://news.ycombinator.com/item?id=31503201)
 - [KaTrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo.
+- [Ask HN: Favorite open source game? (2022)](https://news.ycombinator.com/item?id=31590724)

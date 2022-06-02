@@ -263,3 +263,4 @@ title: Svelte
 - [Event Calendar](https://github.com/vkurko/calendar) - Full-sized drag & drop JavaScript event calendar with resource view in Svelte.
 - [Is Svelte good choice for large apps? (2022)](https://www.reddit.com/r/sveltejs/comments/v189j6/is_svelte_good_choice_for_large_apps/)
 - [svelvg](https://github.com/metonym/svelvg) - Convert SVG files into Svelte components with TypeScript definitions.
+- [Svelte Reactive Debugger](https://github.com/unlocomqx/svelte-reactive-debugger) - Easily monitor svelte reactive statements.

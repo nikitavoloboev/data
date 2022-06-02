@@ -1,6 +1,6 @@
 # Data Science
 
-[DataStation](https://datastation.multiprocess.io/) & [Datasette](https://datasette.io/) are neat. Want to learn [Numpy](../programming-languages/python/python-libraries/numpy.md) and [scikit-learn](https://scikit-learn.org/stable/) libraries more.
+[Equals](https://equals.app/), [DataStation](https://datastation.multiprocess.io/) & [Datasette](https://datasette.io/) are neat. Want to learn [Numpy](../programming-languages/python/python-libraries/numpy.md) and [scikit-learn](https://scikit-learn.org/stable/) libraries more.
 
 ## Notes
 
@@ -254,3 +254,5 @@
 - [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) - Peter Norvig's New Book.
 - [LineaPy](https://github.com/LineaLabs/lineapy) - Python package for capturing, analyzing, and automating data science workflows. ([Web](https://lineapy.org/))
 - [Amundsen](https://github.com/amundsen-io/amundsen) - Data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [Equals](https://equals.app/) - Next generation spreadsheet with built in connections to any data warehouse, modern versioning, and collaboration. ([Twitter](https://twitter.com/heyequals)) ([Tweet](https://twitter.com/Austen/status/1532014048480329728))
+- [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution) ([HN](https://news.ycombinator.com/item?id=31585405))

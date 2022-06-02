@@ -166,3 +166,4 @@ Companies that do [location-based pay bands](https://twitter.com/kyleve/status/1
 - [Ask HN: Companies hiring for a 4-day workweek? (2022)](https://news.ycombinator.com/item?id=31231690)
 - [Lessons learned from the recent job hunt (2022)](https://www.jvt.me/posts/2022/05/02/lessons-learned-job-hunt/) ([HN](https://news.ycombinator.com/item?id=31302572))
 - [Ask HN: Recommend employers with positive social impact (2022)](https://news.ycombinator.com/item?id=31518945)
+- [Ask HN: How do you find meaningful jobs? (2022)](https://news.ycombinator.com/item?id=31586518)

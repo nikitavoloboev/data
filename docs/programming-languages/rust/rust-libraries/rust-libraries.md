@@ -297,6 +297,7 @@
 - [marble](https://github.com/komora-io/marble) - Garbage-collecting disk-based object-store.
 - [dilemma](https://github.com/davidpdrsn/dilemma) - SQL query builder favoring composition over compile time safety.
 - [Catalytic](https://github.com/Jasperav/Catalytic) - ScyllaDB and Cassandra Object-Relation Mapper.
+- [duckdb-rs](https://github.com/wangfenjin/duckdb-rs) - Ergonomic bindings to duckdb for Rust.
 
 ## Video
 

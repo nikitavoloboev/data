@@ -231,3 +231,4 @@ title: Clojure
 - [The Dawn of Lightweight Concurrency for Java and Clojure (2022)](https://ales.rocks/notes-on-virtual-threads-and-clojure)
 - [Ideas for Clojure Network Eval API (2022)](https://tonsky.me/blog/network-eval/)
 - [Web application using Component, Ring, Compojure, and Selmer connected to a local SQLite database](https://github.com/seancorfield/usermanager-example)
+- [ClojureDocs](https://clojuredocs.org/) - Community-Powered Clojure Documentation and Examples. ([Code](https://github.com/zk/clojuredocs)) ([HN](https://news.ycombinator.com/item?id=31585585))

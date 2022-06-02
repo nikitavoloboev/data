@@ -20,7 +20,7 @@ title: Field-programmable gate array
 - [Repurposing FPGA-based Products as Development Kits](https://geeklan.co.uk/files/ossg16072020-repurposing_obsolete_fpga_and_dev_kits.pdf) ([Lobsters](https://lobste.rs/s/bprw37/repurposing_fpga_based_products_as))
 - [The History, Status, and Future of FPGAs (2020)](https://queue.acm.org/detail.cfm?id=3411759) ([HN](https://news.ycombinator.com/item?id=23927992))
 - [Cheap FPGA Development Boards](https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards) ([Lobsters](https://lobste.rs/s/uqc8vi/cheap_fpga_development_boards))
-- [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA) ([HN](https://news.ycombinator.com/item?id=24252737))
+- [Build your own FPGA (2012)](http://blog.notdot.net/2012/10/Build-your-own-FPGA) ([HN](https://news.ycombinator.com/item?id=24252737)) ([HN](https://news.ycombinator.com/item?id=31557041))
 - [FPGA based mobile phone: Creating a truly open and trustable mobile communications device (2019)](https://www.youtube.com/watch?v=KuNB4ocZDXA)
 - [Reverse-engineering the first FPGA chip, the XC2064 (2020)](http://www.righto.com/2020/09/reverse-engineering-first-fpga-chip.html)
 - [FireSim](https://github.com/firesim/firesim) - Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation.

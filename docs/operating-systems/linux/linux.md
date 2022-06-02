@@ -542,3 +542,6 @@ the execution time on all cores of a multi-core processor.
 - [libkrunfw](https://github.com/containers/libkrunfw) - Dynamic library bundling a Linux kernel in a convenient storage format.
 - [mempeek](https://github.com/gamozolabs/mempeek) - Command-line tool designed to peek around memory of a running Linux process.
 - [Async](https://github.com/romange/helio) - Modern framework for backend development based on io_uring Linux interface.
+- [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html) ([HN](https://news.ycombinator.com/item?id=31592934))
+- [What’s new with io_uring (2022)](https://kernel.dk/axboe-kr2022.pdf)
+- [Kernel Recipes 2022](https://www.youtube.com/watch?v=v--rVT4RsCE)

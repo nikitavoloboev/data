@@ -8,6 +8,7 @@ title: Vue.js
 
 ## Built with Vue
 
+- [Nuxt 3 PWA](https://github.com/kevinmarrec/nuxt-pwa-module) - Zero config PWA solution for Nuxt 3.
 - [Nuxt 3 Minimal Starter with ESLint](https://github.com/Diizzayy/n3-starter)
 - [Nuxt.js Hacker News](https://github.com/nuxt/hackernews)
 - [Travel App, Native-like Page Transitions](https://github.com/sdras/page-transitions-travelapp)

@@ -116,3 +116,4 @@ title: TensorFlow
 - [Tensorflow Transformers](https://github.com/legacyai/tf-transformers) - State of the art faster Transformer with Tensorflow 2.0 ( NLP, Computer Vision, Audio ).
 - [TensorFlow Hub](https://tfhub.dev/) ([Code](https://github.com/tensorflow/tfhub.dev))
 - [TensorFlow Hub Models](https://github.com/tensorflow/hub)
+- [Middle-End Development with SvelteKit + TensorFlow.JS (2022)](https://cprimozic.net/blog/fullstack-sveltekit-recommendation-app-middle-end-development/)

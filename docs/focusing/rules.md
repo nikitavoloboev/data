@@ -7,7 +7,7 @@
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
 - First make it work. Then optimize (pretty, efficient, documented).
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document everything ([thoughts](../life/journaling.md)/[decisions](../psychology/decision-making.md)/[processes](https://twitter.com/dunkhippo33/status/1453604780996132865)/[knowledge](../other/wiki-workflow.md)). Learn/Build in public.
-- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233).
+- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233). Think positively. Be [optimistic about the future](https://twitter.com/patrickc/status/1263482890668503041).
 - Cut out noise (no analytics, likes..). No time wasted. Decide on what matters to me. Focus on it. Maximize impact & growth. Filter consumed information to optimize for signal.
 - Think from first principles. Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply. Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
@@ -19,7 +19,7 @@
 - Be consistent. Start early. Done > Perfect. [Do the simplest thing](https://www.youtube.com/watch?v=4ihL32g0IMQ). Solve problems. Take/do things slowly and methodically. [Enjoy the process](https://nikiv.dev/likes#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Complete my [6 life habits](habits.md).
 - [Don't judge/hate anyone](https://www.goodreads.com/quotes/7684047-hate-is-like-a-poison-you-make-for-your-enemy). Attempt to see another person's point of view. [Be kind](https://twitter.com/ainhoamarzol/status/1393691237107093505). Show love & empathy. Self love. [No ego](../consciousness/ego.md).
-- Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely.
+- Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Seek & give candid feedback. Respond politely. [Don't let any words/feedback hurt you](https://twitter.com/ormanclark/status/1487054377454129152).
 - Always seek to improve and change myself, not others. [Grass is not greener on the other side, it's greener where you water it](https://coachcarly.com/blogs/the-grass-isnt-greener-on-the-other-side-its-greener-where-you-water-it/). Don't dwell on imperfections, find beauty in everything.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Create & update rules based on new life experiences. Adapt each rule to suit my life best. Break off all bad habits I have. Learn new positive habits. Seek new novel experiences/relationships. Collect stories. Be a great friend.

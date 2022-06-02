@@ -192,7 +192,7 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [grepQL](https://grepql.netlify.app/) - GraphQL IDE that generates every queries from schema.
 - [Fire-GraphQL](https://firecamp.io/graphql/) - Intuitive, Slick & Fastest GraphQL playground.
 - [Kayu](https://github.com/maticzav/kayu) - TypeScript GraphQL client that lets you forget about GraphQL.
-- [GraphJin](https://github.com/dosco/graphjin) - GraphQL to SQL Compiler in Go (Postgres and MySQL). ([Web](https://graphjin.com/)) ([Docs](https://graphjin.com/docs/home/))
+- [GraphJin](https://github.com/dosco/graphjin) - GraphQL to SQL Compiler in Go (Postgres and MySQL). ([Web](https://graphjin.com/)) ([Docs](https://graphjin.com/docs/home/)) ([HN](https://news.ycombinator.com/item?id=31541219))
 - [graphql-subscriptions-client](https://github.com/lunchboxer/graphql-subscriptions-client) - Websocket client for graphql-ws protocol based on subscriptions-transport-ws.
 - [Pragma](https://pragmalang.com/) - Build Beautiful GraphQL APIs In No Time. ([Code](https://github.com/pragmalang/pragma))
 - [Lucid](https://github.com/Gossamer-React/Lucid) - Chrome Developer Tool designed to help engineers debug their React-GraphQL applications.

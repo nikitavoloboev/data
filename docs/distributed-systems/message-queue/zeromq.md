@@ -16,3 +16,4 @@ title: ZeroMQ
 - [zeromq-src-rs](https://github.com/jean-airoldie/zeromq-src-rs) - Source code and logic to build ZeroMQ from source.
 - [ocaml-zmq](https://github.com/issuu/ocaml-zmq) - ZeroMQ bindings for OCaml.
 - [Nanomsg](https://github.com/thehydroimpulse/nanomsg.rs) - Modern messaging library that is the successor to ZeroMQ.
+- [zmq4](https://github.com/pebbe/zmq4) - Go interface to ZeroMQ version 4.

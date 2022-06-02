@@ -374,3 +374,4 @@
 - [Resources on Music Generation with Deep Learning](https://github.com/umbrellabeach/music-generation-with-DL)
 - [Chord Melody Dataset](https://github.com/shiehn/chord-melody-dataset) - Dataset to dedicated to the relationship between chords & melodies.
 - [GEMS](https://github.com/nbw/gems) - Music sequencer on a distributed cluster. Written with Phoenix LiveView.
+- [Basic Pitch](https://github.com/spotify/basic-pitch) - Lightweight yet powerful audio-to-MIDI converter with pitch bend detection. ([Web](https://basicpitch.spotify.com/))

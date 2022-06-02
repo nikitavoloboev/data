@@ -205,3 +205,4 @@ title: Spatial analysis
 - [gps-share](https://github.com/zeenix/gps-share) - Utility to share your GPS device on local network.
 - [pg_featureserv](https://github.com/CrunchyData/pg_featureserv) - Lightweight RESTful Geospatial Feature Server for PostGIS in Go.
 - [Felt](https://felt.com/) - Best way to make maps on the internet. ([Tweet](https://twitter.com/felt/status/1531666570732154880)) ([Twitter](https://twitter.com/felt))
+- [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python.

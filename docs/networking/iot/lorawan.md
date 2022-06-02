@@ -102,3 +102,4 @@ title: LoRaWAN
 - [RNode Firmware](https://github.com/markqvist/RNode_Firmware) - Firmware for the LoRa interface RNode.
 - [Nomad Network](https://github.com/markqvist/NomadNet) - Off-grid, resilient mesh communication with strong encryption, forward secrecy and extreme privacy.
 - [TTGO-T-Beam](https://github.com/LilyGO/TTGO-T-Beam)
+- [N: Notkia – A Linux phone with LoRa+WiFi+BT connectivity](https://www.hackster.io/reimunotmoe/notkia-f6e772)

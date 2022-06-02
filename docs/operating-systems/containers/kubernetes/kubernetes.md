@@ -745,3 +745,5 @@ title: Kubernetes
 - [Free Kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services.
 - [ksync](https://github.com/ksync/ksync) - Sync files between your local system and a kubernetes cluster.
 - [Astro CLI](https://github.com/astronomer/astro-cli) - CLI that makes it easy to create, test and deploy Airflow DAGs to Astronomer. ([Web](https://www.astronomer.io/)) ([GitHub](https://github.com/astronomer))
+- [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs? (2022)](https://news.ycombinator.com/item?id=31580763)
+- [Kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications.

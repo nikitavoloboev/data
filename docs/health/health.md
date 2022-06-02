@@ -71,3 +71,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Noise Pollution Hurts the Heart (2021)](https://knowablemagazine.org/article/health-disease/2021/how-noise-pollution-affects-heart-health) ([HN](https://news.ycombinator.com/item?id=30983274))
 - [Артем Никитин - об энергетиках, еде на ночь, язвах и молочке (2022)](https://www.youtube.com/watch?v=a_MtdYi9wzM)
 - [Ask HN: How can you buy high quality healthcare? (2022)](https://news.ycombinator.com/item?id=31530176)
+- [Paloma](https://www.palomahealth.com/) - Online Medical Practice Focused on Hypothyroidism.
