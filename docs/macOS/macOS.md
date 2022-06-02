@@ -264,3 +264,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [Scripting OS X Blog](https://scriptingosx.com/) ([Twitter](https://twitter.com/scriptingosx))
 - [macOS tips and tricks](https://saurabhs.org/macos-tips)
 - [HvDecompile](https://github.com/zhuowei/HvDecompile) - Decompiling macOS Hypervisor.framework by hand.
+- [Rediscovering the Mac: An iPad User's Journey into macOS with the M1 Max MacBook Pro (2022)](https://www.macstories.net/stories/rediscovering-the-mac/)

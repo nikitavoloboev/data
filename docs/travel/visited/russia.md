@@ -569,3 +569,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Николай II. Жертва истории.](https://www.youtube.com/watch?v=EX15fX_MxqI)
 - [МИНАЕВ LIVE - YouTube](https://www.youtube.com/c/MINAEVLIVE/videos)
 - [Russia's Catastrophic Oil & Gas Problem (2022)](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y)
+- [Nice places to see in Russia (2022)](https://www.reddit.com/r/AskARussian/comments/v34uii/places_in_russia/)

@@ -47,3 +47,4 @@ title: Homotopy theory
 - [HoTTEST Summer School 2022](https://uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 - [Spartan implementation of H.O.T.T.](https://github.com/Trebor-Huang/Down-The-Path)
 - [HoTT notes](https://github.com/lemastero/hott-wiki)
+- [Introduction to Homotopy Type Theory (LMFI 2022)](https://github.com/herbelin/LMFI-HoTT)

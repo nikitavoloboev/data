@@ -333,3 +333,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [GraphQL Middleware to add X-Ray tracing for resolvers](https://github.com/lifeomic/graphql-resolvers-xray-tracing)
 - [Proposal: GraphQL Composite Schemas Working Group](https://github.com/graphql/graphql-wg/pull/977)
 - [GraphQL Hive](https://github.com/kamilkisiela/graphql-hive) - Provides all the tools the get visibility of your GraphQL architecture at all stages, from standalone APIs to composed schemas (Federation, Stitching). ([Web](https://graphql-hive.com/))
+- [Uploading files to GraphQL Server with URQL (2022)](https://estebanborai.com/notes/uploading-files-to-graphql-server-with-urql)

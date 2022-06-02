@@ -49,3 +49,4 @@ title: Probabilistic programming
 - [ZhuSuan](https://github.com/thu-ml/zhusuan) - Probabilistic programming library for Bayesian deep learning, generative models, based on Tensorflow.
 - [Prism](http://www.prismmodelchecker.org/) - Probabilistic Symbolic Model Checker. ([HN](https://news.ycombinator.com/item?id=31283037))
 - [Conditional Diffusion Probabilistic Model for Speech Enhancement](https://github.com/neillu23/CDiffuSE) - Leverages recent advances in diffusion probabilistic models, and proposes a novel speech enhancement algorithm.
+- [MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic PL based on pattern matching and constraint propagation, 148 examples.

@@ -29,3 +29,4 @@ title: Astro
 - [Astro Collaborative Starter](https://github.com/CTNicholas/astro-collaborative-starter)
 - [Accessible Astro Starter](https://components.accessible-astro.dev/) - Set of Accessible, easy to use, Front-end UI Components for Astro. ([Code](https://github.com/markteekman/accessible-astro-components))
 - [Astro RFC](https://github.com/withastro/rfcs) - Ideas, suggestions, and formal RFC proposals for the Astro project.
+- [astro-ixmage](https://github.com/readonlychild/astro-ixmage) - Ixmage component for Astro.

@@ -183,3 +183,4 @@ We also need to focus all our efforts on [halting & reversing extinctions of ani
 - [Should cut emissions](https://twitter.com/Peters_Glen/status/1521384059745800193)
 - [Datasets APIs and open source projects related to Climate Change](https://github.com/KKulma/climate-change-data)
 - [Soil: The secret world beneath our feet is mind-blowing (2022)](https://www.theguardian.com/environment/2022/may/07/secret-world-beneath-our-feet-mind-blowing-key-to-planets-future) ([HN](https://news.ycombinator.com/item?id=31301928))
+- [Plastic Recycling Doesn't Work and Will Never Work (2022)](https://www.theatlantic.com/ideas/archive/2022/05/single-use-plastic-chemical-recycling-disposal/661141/) ([HN](https://news.ycombinator.com/item?id=31560225))

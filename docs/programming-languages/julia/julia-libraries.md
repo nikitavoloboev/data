@@ -614,6 +614,7 @@
 - [FastClosures](https://github.com/c42f/FastClosures.jl) - Faster closure variable capture.
 - [Accessors](https://github.com/JuliaObjects/Accessors.jl) - Update immutable data.
 - [ParserCombinator](https://github.com/andrewcooke/ParserCombinator.jl) - Parser combinator library for Julia.
+- [CSV](https://github.com/JuliaData/CSV.jl) - Fast, flexible delimited file reader/writer for Julia.
 
 ## Links
 

@@ -375,3 +375,4 @@
 - [AWS Lambda Haskell Runtime](https://github.com/theam/aws-lambda-haskell-runtime)
 - [cabal-extras](https://github.com/phadej/cabal-extras) - Tool suite to aid Haskell development using `cabal-install`.
 - [Doctest](https://github.com/sol/doctest) - Test interactive Haskell examples.
+- [Flora](https://github.com/flora-pm/flora-server) - Package index for the Haskell ecosystem.

@@ -131,6 +131,7 @@ title: Obsidian
 - [Leader Hotkeys](https://github.com/tgrosinger/leader-hotkeys-obsidian) - Use a leader-key (tmux style) for hotkeys in Obsidian.
 - [Lapel](https://github.com/liamcain/obsidian-lapel) - Shows a marker next to each heading to quickly distinguish between heading levels.
 - [Pandoc Reference List](https://github.com/mgmeyers/obsidian-pandoc-reference-list) - Displays a formatted reference in the sidebar for each pandoc citekey present in the current document.
+- [Obsidian Supercharged](https://github.com/austrianKangaroo/obsidian-supercharged) - Plugin for obsidian that simplifies the use of mathematical symbols in LaTeX.
 
 ## Themes
 

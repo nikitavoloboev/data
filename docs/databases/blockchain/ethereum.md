@@ -627,3 +627,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Subspace](https://github.com/embarklabs/subspace) - Library for Reactive Dapp Development with auto syncing and caching capabilities.
 - [Act](https://github.com/ethereum/act) - Smart contract specification language.
 - [Aesthetically Pleasing Ethereum Statements](https://github.com/ricobank/apes)
+- [ethier](https://github.com/divergencetech/ethier) - Go and Solidity SDK to make Ethereum development ethier.

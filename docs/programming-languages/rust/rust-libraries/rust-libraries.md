@@ -1907,6 +1907,7 @@
 - [metered-rs](https://github.com/magnet/metered-rs) - Fast, ergonomic metrics for Rust.
 - [shellexpand](https://github.com/netvl/shellexpand) - Library for shell-like expansions of variables in strings.
 - [floatconv](https://github.com/m-ou-se/floatconv) - Fast implementations of integer/floating point conversion operations.
+- [Rust-SoapySDR](https://github.com/kevinmehall/rust-soapysdr) - Rust bindings for SoapySDR, the vendor-neutral software defined radio hardware abstraction layer.
 
 ## Cargo Plugins
 

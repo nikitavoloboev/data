@@ -93,3 +93,4 @@ title: Google Cloud
 - [Awesome Bigtable](https://github.com/zrosenbauer/awesome-bigtable)
 - [Google Cloud service emulators for local development stacks](https://github.com/fullstorydev/emulators)
 - [docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - Docker credential helper for GCR users.
+- [Setup Google Cloud SQL Proxy on macOS (2022)](https://estebanborai.com/notes/setup-google-cloud-sql-proxy-on-macos)

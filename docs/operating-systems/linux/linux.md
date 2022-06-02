@@ -545,3 +545,4 @@ the execution time on all cores of a multi-core processor.
 - [How fast are Linux pipes anyway? (2022)](https://mazzo.li/posts/fast-pipes.html) ([HN](https://news.ycombinator.com/item?id=31592934))
 - [What’s new with io_uring (2022)](https://kernel.dk/axboe-kr2022.pdf)
 - [Kernel Recipes 2022](https://www.youtube.com/watch?v=v--rVT4RsCE)
+- [bpfd](https://github.com/redhat-et/bpfd) - Prototype networking bpf loader.

@@ -296,3 +296,4 @@
 - [Sequence Transduction with Recurrent Neural Networks (2021)](https://arxiv.org/abs/1211.3711) ([Code](https://github.com/awni/transducer))
 - [Papers and Codes for the deep learning in hyperbolic space](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks)
 - [Friends don’t let friends train small diffusion models (2022)](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/) ([HN](https://news.ycombinator.com/item?id=31513714))
+- [Physicists are building neural networks out of vibrations, voltages and lasers (2022)](https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/) ([HN](https://news.ycombinator.com/item?id=31579873))

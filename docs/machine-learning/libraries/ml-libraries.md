@@ -354,3 +354,4 @@ title: ML Libraries
 - [Fiddle](https://github.com/google/fiddle) - Python-first configuration library particularly well suited to ML applications.
 - [tpunicorn](https://github.com/shawwn/tpunicorn) - Python library and command-line program for managing TPUs.
 - [CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining.
+- [COMET](https://github.com/Unbabel/COMET) - Neural Framework for MT Evaluation.

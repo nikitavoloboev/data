@@ -7,7 +7,7 @@
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
 - First make it work. Then optimize (pretty, efficient, documented).
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document everything ([thoughts](../life/journaling.md)/[decisions](../psychology/decision-making.md)/[processes](https://twitter.com/dunkhippo33/status/1453604780996132865)/[knowledge](../other/wiki-workflow.md)). Learn/Build in public.
-- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233). Think positively. Be [optimistic about the future](https://twitter.com/patrickc/status/1263482890668503041).
+- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need. [Focus on things I can control](https://twitter.com/techgirl1908/status/1450569064414388233). Think positively. Be [optimistic](https://twitter.com/patrickc/status/1263482890668503041) about the [future](../future/future.md).
 - Cut out noise (no analytics, likes..). No time wasted. Decide on what matters to me. Focus on it. Maximize impact & growth. Filter consumed information to optimize for signal.
 - Think from first principles. Learn from mistakes. [Reflect](../looking-back/looking-back.md). Adapt to changes. Think deeply. Move in right direction. [Move fast](https://news.ycombinator.com/item?id=27691586). No regrets.
 - Embrace change. Be proactive. Be bold, fearless & open. Take ownership. Never give up. Never complain.
