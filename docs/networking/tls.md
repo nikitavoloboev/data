@@ -96,3 +96,4 @@ title: TLS
 - [hallucinate](https://github.com/SySS-Research/hallucinate) - One-stop TLS traffic inspection and manipulation using dynamic instrumentation.
 - [Mastering two way TLS](https://github.com/Hakky54/mutual-tls-ssl) - Tutorial of setting up Security for your API with one way authentication with TLS/SSL and mutual authentication.
 - [eCapture](https://github.com/ehids/ecapture) - Capture SSL/TLS text content without CA cert Using eBPF.
+- [proxyboi](https://github.com/svenstaro/proxyboi) - Super simple reverse proxy with TLS support.

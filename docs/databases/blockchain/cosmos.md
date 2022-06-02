@@ -18,3 +18,4 @@ title: Cosmos
 - [Cosmos Hub (Gaia)](https://github.com/cosmos/gaia)
 - [Cosmos Interchain Security](https://github.com/cosmos/interchain-security)
 - [Cosmos.nix](https://github.com/informalsystems/cosmos.nix) - Nix Integration with Cosmos Projects.
+- [CosmWasm Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses.

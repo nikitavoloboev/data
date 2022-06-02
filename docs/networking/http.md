@@ -265,3 +265,4 @@ title: HTTP
 - [A tale of a trailing dot (2022)](https://daniel.haxx.se/blog/2022/05/12/a-tale-of-a-trailing-dot/)
 - [curl-impersonate](https://github.com/lwthiker/curl-impersonate) - Special compilation of curl that makes it impersonate real browsers.
 - [Duf](https://github.com/sigoden/duf) - Simple file server. Support static serve, search, upload, delete.
+- [WaybackProxy](https://github.com/richardg867/WaybackProxy) - HTTP proxy for tunneling requests through the Internet Archive Wayback Machine.
