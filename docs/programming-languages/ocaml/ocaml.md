@@ -136,3 +136,4 @@ title: OCaml
 - [OCaml programs are much nicer to write](https://twitter.com/wcrichton/status/1528069823212662784)
 - [eio-console](https://github.com/patricoferris/eio-console) - Eventring-based exploration of Eio programs.
 - [OCaml Platform](https://github.com/tarides/ocaml-platform) - Represents the best way for developers, both new and old, to write software in OCaml.
+- [Unboxed Types for OCaml :: Jane Street (2019)](https://www.janestreet.com/tech-talks/unboxed-types-for-ocaml/)

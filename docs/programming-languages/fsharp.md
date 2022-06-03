@@ -39,3 +39,4 @@ title: F#
 - [F# Good and Bad (2021)](https://danielbmarkham.com/f-good-and-bad/) ([HN](https://news.ycombinator.com/item?id=29571417))
 - [Fantomas](https://github.com/fsprojects/fantomas) - FSharp source code formatter.
 - [Elmish Book](https://zaid-ajaj.github.io/the-elmish-book/#/) - Practical guide to building modern and reliable web applications in F# from first principles. ([Code](https://github.com/Zaid-Ajaj/the-elmish-book))
+- [Comparing a Voxel Game in F# and Rust (2022)](https://cragwind.com/blog/posts/comparing-voxel-game-fsharp-rust/)

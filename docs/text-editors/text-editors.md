@@ -218,3 +218,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Ask HN: Editing remote code locally: Best practices? (2022)](https://news.ycombinator.com/item?id=30987770)
 - [Creating a Rich Text Editor using Rust and React (2022)](https://fiberplane.dev/blog/creating-a-rich-text-editor-using-rust-and-react/)
 - [TextEditor](https://github.com/MasterQ32/TextEditor) - Backbone for text editors. No rendering, no input, but everything else. In Zig.
+- [My Experience Building an Editor in Rust](https://jimmyhmiller.github.io/editor-experience) ([Lobsters](https://lobste.rs/s/fnoqn4/my_experience_building_editor_rust))

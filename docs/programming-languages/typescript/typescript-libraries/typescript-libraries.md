@@ -80,6 +80,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Interface-Forge](https://github.com/Goldziher/interface-forge) - Graceful mock-data and fixtures generation using TypeScript.
 - [Axon](https://github.com/oslabs-beta/axon) - Aids developers with Express.js based applications to autogenerate integration tests and Postman Collections by extracting RESTful API endpoints from your source code.
 - [uncreate](https://github.com/johannschopplich/uncreate) - Minimal, type-safe REST client using JS proxies.
+- [TSArch](https://github.com/ts-arch/ts-arch) - Architecture unit test framework for Typescript.
 
 ## Auth
 

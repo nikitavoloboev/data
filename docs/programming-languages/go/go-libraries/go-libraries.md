@@ -1675,6 +1675,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [do](https://github.com/samber/do) - Dependency injection toolkit based on Go 1.18+ Generics.
 - [yaml](https://github.com/invopop/yaml) - YAML marshaling and unmarshaling support for Go.
 - [Gosl](https://github.com/cpmech/gosl) - Go scientific library.
+- [Opt](https://github.com/aarondl/opt) - Generic optional package for Go.
 
 ## Links
 

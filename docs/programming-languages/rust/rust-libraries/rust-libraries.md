@@ -57,6 +57,7 @@
 ## Web
 
 - [Axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper. ([Article](https://tokio.rs/blog/2021-07-announcing-axum)) ([Reddit](https://www.reddit.com/r/rust/comments/ouqfg3/new_tokio_blog_post_announcing_axum_web_framework/)) ([Lobsters](https://lobste.rs/s/rfh70t/announcing_axum)) ([Example Web App](https://github.com/yuk1ty/stock-metrics)) ([Axum and SQLx App](https://github.com/launchbadge/realworld-axum-sqlx)) ([RESTful API template built with Rust](https://github.com/ndelvalle/rustapi)) ([Axum Server](https://github.com/programatik29/axum-server)) ([Tutorial For Beginners](https://github.com/programatik29/axum-tutorial)) ([Rust + Axum + Prisma template](https://github.com/aaronleopold/axum-graphql-prisma)) ([Axum, Tokio, Tower, Hyper, Serde template](https://github.com/joelparkerhenderson/demo-rust-axum))
+- [Rouille](https://github.com/tomaka/rouille) - Rust web micro-framework.
 - [hyper](https://github.com/hyperium/hyper) - Fast and correct HTTP implementation for Rust. ([Web](https://hyper.rs/)) ([Hyper's Vision](https://seanmonstar.com/post/678179333918097408/hypers-vision))
 - [Typed HTTP Headers from hyper](https://github.com/hyperium/headers)
 - [attohttpc](https://github.com/sbstp/attohttpc) - Rust lightweight HTTP 1.1 client.
@@ -557,6 +558,7 @@
 - [Userfaultfd](https://github.com/fastly/userfaultfd-rs) - Rust bindings for Linux's userfaultfd functionality.
 - [gpio-cdev](https://github.com/rust-embedded/gpio-cdev) - Rust interface to the Linux GPIO Character Device API (/dev/gpiochip...).
 - [aya-log](https://github.com/aya-rs/aya-log) - Logging library for eBPF programs.
+- [nbd-rs](https://github.com/mdlayher/nbd-rs) - Asynchronous Rust client and server implementation of the Network Block Device (NBD) protocol.
 
 ## Embedded
 
@@ -1908,6 +1910,7 @@
 - [shellexpand](https://github.com/netvl/shellexpand) - Library for shell-like expansions of variables in strings.
 - [floatconv](https://github.com/m-ou-se/floatconv) - Fast implementations of integer/floating point conversion operations.
 - [Rust-SoapySDR](https://github.com/kevinmehall/rust-soapysdr) - Rust bindings for SoapySDR, the vendor-neutral software defined radio hardware abstraction layer.
+- [substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust bindings for substrait.
 
 ## Cargo Plugins
 

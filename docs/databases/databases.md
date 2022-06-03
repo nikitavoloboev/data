@@ -621,3 +621,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) ([HN](https://news.ycombinator.com/item?id=31535158))
 - [LSI: A Learned Secondary Index Structure (2022)](https://arxiv.org/abs/2205.05769)
 - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores (2015)](https://arxiv.org/abs/1509.07815) ([Review](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html))
+- [Tuple Database](https://github.com/ccorcos/tuple-database) - Local-first, "end-user database" database. Embedded FoundationDB. Reactive indexable graph database.

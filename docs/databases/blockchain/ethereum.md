@@ -628,3 +628,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Act](https://github.com/ethereum/act) - Smart contract specification language.
 - [Aesthetically Pleasing Ethereum Statements](https://github.com/ricobank/apes)
 - [ethier](https://github.com/divergencetech/ethier) - Go and Solidity SDK to make Ethereum development ethier.
+- [Ethereum Yellow Paper Cheat Sheet](https://github.com/benjaminion/YellowPaper_CheatSheet) - Quick reference for symbols and conventions used in the Ethereum Yellow Paper.

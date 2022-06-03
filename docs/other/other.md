@@ -41,6 +41,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Hope never stopped tragedy from happening. Hope is just something we kid ourselves with because we’re scared and we don’t want to see what is right in front of our eyes.](https://twitter.com/apmassaro3/status/1495872953766010883)
 - [There’s nothing in the world more powerful than a good story. Nothing can stop it. No enemy can defeat it.](https://twitter.com/hardmaru/status/1499935502937505792)
 - [It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.](https://www.reddit.com/r/Economics/comments/toozub/perspective_russia_is_threatening_a_move_that/)
+- [Never overestimate a man who underestimates himself](https://twitter.com/ryancohen/status/1478144538757808138)
 
 ## Other
 
@@ -627,3 +628,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The real Dune](https://www.youtube.com/watch?v=R0krUthYxF4)
 - [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots with step-by-step animation.
 - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/) ([HN](https://news.ycombinator.com/item?id=31575909))
+- [The bleak spectacle of the Amber Heard-Johnny Depp trial (2022)](https://www.readthepresentage.com/p/johnny-depp-amber-heard?s=r) ([Tweet](https://twitter.com/RottenInDenmark/status/1532396377526915075))

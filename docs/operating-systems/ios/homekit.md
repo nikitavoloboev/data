@@ -37,3 +37,4 @@ title: HomeKit
 - [HAP-python](https://github.com/ikalchev/HAP-python) - Python implementation of the HomeKit Accessory Protocol (HAP).
 - [HomeKit Python](https://github.com/jlusiardi/homekit_python) - Python implementation to work as both HomeKit controller and accessory.
 - [HomeConMenu](https://github.com/sonsongithub/HomeConMenu) - App to control HomeKit Devices from macOS system.
+- [Homebridge Govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
