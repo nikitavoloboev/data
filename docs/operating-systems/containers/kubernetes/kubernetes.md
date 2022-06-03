@@ -747,3 +747,4 @@ title: Kubernetes
 - [Astro CLI](https://github.com/astronomer/astro-cli) - CLI that makes it easy to create, test and deploy Airflow DAGs to Astronomer. ([Web](https://www.astronomer.io/)) ([GitHub](https://github.com/astronomer))
 - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs? (2022)](https://news.ycombinator.com/item?id=31580763)
 - [Kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications.
+- [Stop Messing with Kubernetes Finalizers (2022)](https://martinheinz.dev/blog/74)
