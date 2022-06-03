@@ -86,3 +86,4 @@ title: Polkadot
 - [Diener](https://github.com/bkchr/diener) - Tool for easily changing Substrate or Polkadot dependency versions.
 - [Substrate Front End Template](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot.js API + React based template for building Substrate Front Ends.
 - [CESS Cumulus Encrypted Storage System](https://www.cess.cloud/) - Distributed cloud data network with user friendly ledgers, novel consensus mechanism, multiple data authenticity proof schemes, and reliable network infrastructure. ([Code](https://github.com/CESSProject/cess))
+- [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate)

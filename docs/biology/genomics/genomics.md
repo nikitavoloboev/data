@@ -174,3 +174,4 @@ title: Genomics
 - [gget](https://github.com/pachterlab/gget) - Enables efficient querying of genomic databases.
 - [Raman2RNA: Live-cell label-free prediction of single-cell RNA expression profiles by Raman microscopy (2021)](https://www.biorxiv.org/content/10.1101/2021.11.30.470655v1) - Taking a high dimensional image of the cell itself and mapping that to transcriptome training data. ([Tweet](https://twitter.com/dbgoodman/status/1528346210792112133))
 - [Awesome Nanopore](https://github.com/GoekeLab/awesome-nanopore) - List of software packages for Nanopore sequencing data analysis, including basecalling, DNA/RNA modifications.
+- [GNNome Assembly](https://github.com/lvrcek/GNNome-assembly) - Learning to untangle genome assembly with graph neural networks.

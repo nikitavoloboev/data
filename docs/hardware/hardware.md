@@ -4,6 +4,8 @@
 
 [teenage engineering](https://teenage.engineering/) & [Apple](https://www.apple.com/) make gorgeous and functional devices.
 
+[Chisel](https://www.chisel-lang.org/) seems like an amazing framework for hardware designs.
+
 ## Notes
 
 - [The next 20 years in semiconductors will be dominated by insanely large SIMD processors with massive stacked memory and network bandwidth.](https://twitter.com/aeyakovenko/status/1497462132400553989)
@@ -102,7 +104,7 @@
 - [Hardware Hacking Experiments - Several ways to extract firmware on embedded devices](https://github.com/koutto/hardware-hacking/blob/master/Hardware-Hacking-Experiments-Jeremy-Brun-Nouvion-2020.pdf)
 - [Ask HN: How to get into the chip industry? (2020)](https://news.ycombinator.com/item?id=24649959)
 - [Hardcaml](https://github.com/janestreet/hardcaml) - OCaml library for designing hardware.
-- [Chisel](https://github.com/freechipsproject/chisel3) - Hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. ([Web](https://www.chisel-lang.org/)) ([Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp)) ([Chisel Project Template](https://github.com/freechipsproject/chisel-template)) ([HN](https://news.ycombinator.com/item?id=27738281))
+- [Chisel](https://github.com/freechipsproject/chisel3) - Hardware design language that facilitates advanced circuit generation and design reuse for both ASIC and FPGA digital logic designs. ([Web](https://www.chisel-lang.org/)) ([Chisel Bootcamp](https://github.com/freechipsproject/chisel-bootcamp)) ([Chisel Project Template](https://github.com/freechipsproject/chisel-template)) ([HN](https://news.ycombinator.com/item?id=27738281)) ([Clean Template](https://github.com/schoeberl/chisel-empty))
 - [chisel-circt](https://github.com/sifive/chisel-circt) - Library to compile Chisel circuits using LLVM/MLIR (CIRCT).
 - [Chipyard](https://github.com/ucb-bar/chipyard) - Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more.
 - [PyMTL](https://github.com/pymtl/pymtl3) - Open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support.

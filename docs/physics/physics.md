@@ -309,3 +309,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [The information-theoretic foundation of thermodynamic work extraction (2022)](https://iopscience.iop.org/article/10.1088/2399-6528/ac70a7) ([Tweet](https://twitter.com/DavidDeutschOxf/status/1530199266286882816))
 - [Ask HN: How to do self-study on Physics (2022)](https://news.ycombinator.com/item?id=31549032)
 - [The Electromagnetic Spectrum](https://twitter.com/WorldAndScience/status/1529717989326696449) - All the parts of the electromagnetic spectrum are the same thing—radiation. Radiation is made up of a stream of photons—particles without mass that move in a wave pattern all at the same speed, the speed of light.
+- [Jupyter notebook with steps to rediscover the Higgs boson yourself](https://github.com/meevans1/How-to-rediscover-the-Higgs)

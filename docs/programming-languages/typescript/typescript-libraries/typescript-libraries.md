@@ -533,6 +533,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [munum](https://github.com/andykswong/munum) - Micro 3D Math Library for JavaScript and WebAssembly.
 - [Scroll Snap Carousel](https://github.com/Grsmto/scroll-snap-carousel) - Helper to enhance the native CSS Scroll Snap experience.
 - [QR Scanner](https://github.com/nimiq/qr-scanner) - Lightweight JavaScript QR Code Scanner.
+- [vali-guard](https://github.com/lforst/vali-guard) - Somewhat flexible validation library that guarantees TypeScript type-safety.
 
 ## Links
 

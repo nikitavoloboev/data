@@ -4,7 +4,7 @@ title: React
 
 # [React](https://reactjs.org)
 
-[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [fresh](https://github.com/lucacasonato/fresh) looks interesting.
+[Official React docs](https://beta.reactjs.org/) are great. [LocatorJS extension](https://www.locatorjs.com/) is useful. [fresh](https://github.com/lucacasonato/fresh) & [Plasmic](https://www.plasmic.app/) look interesting.
 
 Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for all my web apps and static sites as it has [better performance](../../../../web/web-performance.md).
 
@@ -180,7 +180,7 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Tuomas Artman: Real-time sync for web apps (2020)](https://www.youtube.com/watch?v=WxK11RsLqp4&t=2171)
 - [Ярослав Лосев – React Reconciler: как написать собственный рендерер (2020)](https://www.youtube.com/watch?v=E1G2rMKq8lc) ([Code](https://github.com/LosYear/react-reconciler-talk))
 - [New, experimental frontend for React inspired by SwiftUI](https://github.com/tvler/experimental-react-like-framework)
-- [Plasmic](https://www.plasmic.app/) - Visual UI builder for React. ([Article](https://medium.com/plasmic-app/announcing-plasmic-3bc510a97ea3))
+- [Plasmic](https://www.plasmic.app/) - Visual UI builder for React. ([Article](https://medium.com/plasmic-app/announcing-plasmic-3bc510a97ea3)) ([Twitter](https://twitter.com/plasmicapp)) ([Visually building webpages in Plasmic with Yang Zhang](https://www.youtube.com/watch?v=pcVzNR6FBAQ))
 - [Glossary of React Terms](https://reactjs.org/docs/glossary.html)
 - [Frustrated by Formik? Here's a simpler way to do forms in React (2020)](https://maxrozen.com/2020/07/23/frustrated-formik-simpler-react-forms/)
 - [Ink 3 - Build CLI apps with React (2020)](https://vadimdemedes.com/posts/ink-3)

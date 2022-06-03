@@ -75,6 +75,7 @@
 - [Corset](https://github.com/matthewp/corset) - Declarative data bindings, bring your own backend. ([Web](https://corset.dev/))
 - [hdot](https://github.com/willmartian/hdot) - Zero-dependency, buildless, terse, and type-safe way to write HTML in JavaScript.
 - [SurveyJS](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library. ([Web](https://surveyjs.io/))
+- [Helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers.
 
 ## Animation
 

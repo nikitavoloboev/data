@@ -252,3 +252,4 @@
 - [clj-nix](https://github.com/jlesquembre/clj-nix) - Nix helpers for Clojure projects.
 - [Quickdoc](https://github.com/borkdude/quickdoc) - Quick and minimal API doc generation for Clojure.
 - [build.edn](https://github.com/liquidz/build.edn) - Make your Clojure library build process easy.
+- [exoscale tools.project](https://github.com/exoscale/tools.project) - Helpers to work with our tools.deps projects.

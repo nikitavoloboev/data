@@ -374,3 +374,4 @@
 - [Ask HN: Serious mathematics books that can replace a good teacher? (2022)](https://news.ycombinator.com/item?id=31488608)
 - [Mathigon](https://mathigon.org/) - Mathematics education platform for students aged 12 to 18. ([Code](https://github.com/mathigon/textbooks))
 - [Ask HN: How to learn math from zero for adults? (2022)](https://news.ycombinator.com/item?id=31539549)
+- [Abstract math topics that made sense later (2022)](https://twitter.com/AndrewCMyers/status/1530549071093682176)

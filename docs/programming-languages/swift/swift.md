@@ -88,7 +88,7 @@ title: Swift
 - [Swift for Good](https://www.swiftforgood.com/) - 20 well-known authors and speakers are coming together to write an all-new book for Swift developers.
 - [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects.
 - [Swift Cookbook](https://github.com/melling/SwiftCookBook)
-- [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift. ([Code](https://github.com/pointfreeco/pointfreeco)) ([GitHub](https://github.com/pointfreeco))
+- [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift. ([Web Code](https://github.com/pointfreeco/pointfreeco)) ([GitHub](https://github.com/pointfreeco)) ([Code Samples](https://github.com/pointfreeco/episode-code-samples))
 - [Swift Dev](https://theswiftdev.com/) - Weekly Swift articles.
 - [tree-sitter-swift](https://github.com/tree-sitter/tree-sitter-swift) - Swift grammar for tree-sitter.
 - [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874) ([GitHub doc](https://github.com/apple/swift/blob/main/docs/CppInteroperabilityManifesto.md)) ([HN](https://news.ycombinator.com/item?id=24808968))

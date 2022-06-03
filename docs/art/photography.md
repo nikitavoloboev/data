@@ -2,7 +2,7 @@
 
 Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography). [Andre Josselin](https://www.instagram.com/josselin/), [Jake Wangner](https://www.instagram.com/jakewangner/), [Polina Washington](https://www.instagram.com/polina.washington/) & [Kseniia Vaschenko](https://www.instagram.com/kseniyavashchenko/) are inspiring.
 
-[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on just iPhone.
+[How to use Light for shootings](https://www.youtube.com/watch?v=AxhWk5xelto) & [Seeing in Black and White](https://www.youtube.com/watch?v=V8Hh8S-Z68s) are nice guides. Saving up for [Leica M11](https://www.youtube.com/watch?v=RSdLAiDb8dQ). Currently shoot on [just iPhone](https://twitter.com/levelsio/status/1532178971793797120).
 
 ## Interesting cameras
 
@@ -33,6 +33,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [As someone who enjoys street photography but is also uncomfortable taking photos of strangers, one piece of advice I would give is to go 'fishing' as opposed to 'hunting'. With hunting - you go around searching for subjects and shots and it can all feel a bit... predatory. With fishing, however, you find your spot (maybe an interesting shaft of light, or background) and then hang about waiting for people to come into frame. This allows people to see what you're doing as they walk by and can always step out of the frame if they really don't want their picture taken. I also think you get better shots since you have time to assess and try a few different perspectives on the same scene.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
 - [Think more about getting the shot and less about what anyone else thinks about you or what you are doing.](https://www.reddit.com/r/fujifilm/comments/qhmlri/x100v_my_first_time_trying_street_photography/)
 - [Take more pictures of yourself, and of the people and things you take for granted every day. These are the good old days.](https://twitter.com/swyx/status/1464873480654974981)
+- [I'd argue the current iPhone now makes better pics than an average person with a DSLR](https://twitter.com/levelsio/status/1532178971793797120)
 
 ## Links
 

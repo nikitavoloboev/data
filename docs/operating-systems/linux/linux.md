@@ -546,3 +546,4 @@ the execution time on all cores of a multi-core processor.
 - [What’s new with io_uring (2022)](https://kernel.dk/axboe-kr2022.pdf)
 - [Kernel Recipes 2022](https://www.youtube.com/watch?v=v--rVT4RsCE)
 - [bpfd](https://github.com/redhat-et/bpfd) - Prototype networking bpf loader.
+- [collectd](https://github.com/collectd/collectd) - System statistics collection daemon.

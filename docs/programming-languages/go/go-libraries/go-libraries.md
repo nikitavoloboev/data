@@ -1676,6 +1676,8 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [yaml](https://github.com/invopop/yaml) - YAML marshaling and unmarshaling support for Go.
 - [Gosl](https://github.com/cpmech/gosl) - Go scientific library.
 - [Opt](https://github.com/aarondl/opt) - Generic optional package for Go.
+- [Pion RTP](https://github.com/pion/rtp) - Go implementation of RTP.
+- [vcontext](https://github.com/coreos/vcontext) - Library for validating JSON and YAML configs in Go.
 
 ## Links
 

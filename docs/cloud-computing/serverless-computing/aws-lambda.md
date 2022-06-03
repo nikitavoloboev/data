@@ -136,3 +136,4 @@ title: AWS Lambda
 - [Inline Image Previews with Sharp, BlurHash, and Lambda Functions (2022)](https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/)
 - [Accumulus](https://github.com/oslabs-beta/Accumulus) - AWS Lambda Monitoring and Visualization Tool.
 - [LALR](https://github.com/funnel-io/lalr) - Run lambdas through HTTP locally.
+- [runtime](https://github.com/serverless/runtime) - Collection of Open Telemetry collectors we use to instrument a variety of computing platforms.

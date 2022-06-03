@@ -31,3 +31,4 @@
 - [Effective Altruism Is Not Effective (2021)](http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html) ([HN](https://news.ycombinator.com/item?id=26813763))
 - [Effective Altruism](https://www.effectivealtruism.org/) - Using reason and evidence to do the most good.
 - [Do things with direct impact. There are many opportunities!](https://twitter.com/ben_j_todd/status/1491038776159657986)
+- [Notes on Effective Altruism (2022)](https://michaelnotebook.com/eanotes/) ([Tweet](https://twitter.com/michael_nielsen/status/1532537180525973505))
