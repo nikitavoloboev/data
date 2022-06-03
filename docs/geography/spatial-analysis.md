@@ -206,3 +206,4 @@ title: Spatial analysis
 - [pg_featureserv](https://github.com/CrunchyData/pg_featureserv) - Lightweight RESTful Geospatial Feature Server for PostGIS in Go.
 - [Felt](https://felt.com/) - Best way to make maps on the internet. ([Tweet](https://twitter.com/felt/status/1531666570732154880)) ([Twitter](https://twitter.com/felt))
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python.
+- [Real-time Map](https://github.com/asynkron/realtimemap-go) - Displays real-time positions of public transport vehicles in Helsinki. Showcase for Proto.Actor - an ultra-fast distributed actors solution.

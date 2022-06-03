@@ -30,3 +30,4 @@ title: FastAPI
 - [Example for FastAPI integration with SQLAlchemy ORM with PostgreSQL via asyncpg](https://github.com/grillazz/fastapi-sqlalchemy-asyncpg)
 - [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Configurable and modular Prometheus Instrumentator for your FastAPI.
 - [FastAPI on Google Cloud Run](https://github.com/anthonycorletti/cloudrun-fastapi)
+- [Reusable utilities for FastAPI](https://github.com/dmontagu/fastapi-utils)

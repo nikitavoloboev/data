@@ -73,6 +73,7 @@
 - [Alembic](https://github.com/alembic/alembic) - Open computer graphics interchange framework. ([Web](http://www.alembic.io/))
 - [TriMesh2](https://github.com/Forceflow/trimesh2) - C++ library and set of utilities for input, output, and basic manipulation of 3D triangle meshes.
 - [Skity](https://github.com/RuiwenTang/Skity) - Open-source 2D graphics library written in C++ using OpenGL and Vulkan.
+- [OpenMfx](https://github.com/eliemichel/OpenMfx) - Low-overhead mesh-processing plug-in API for cross-software procedural effects.
 
 ## DB
 
