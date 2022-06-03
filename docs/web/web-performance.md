@@ -181,3 +181,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [Heydon Pickering: Please Disable JavaScript To View This Site (2021)](https://www.youtube.com/watch?v=ga_byUbqvCc)
 - [Don't fight the browser preload scanner (2022)](https://web.dev/preload-scanner/)
 - [Local-First Software (2019)](https://www.inkandswitch.com/local-first/) - You own your data, in spite of the cloud. ([HN](https://news.ycombinator.com/item?id=31594613))
+- [The Real Cost of UI Components (2019)](https://betterprogramming.pub/the-real-cost-of-ui-components-6d2da4aba205)

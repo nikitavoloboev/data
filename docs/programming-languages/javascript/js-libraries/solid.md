@@ -90,3 +90,4 @@ I am trying to use SolidJS for all web apps and static sites I build now.
 - [typesafe-i18n Solid](https://github.com/ivanhofer/typesafe-i18n/tree/main/packages/adapter-solid)
 - [Solid-Use](https://github.com/LXSMNSYC/solid-use) - Collection of SolidJS utilities.
 - [rollup-preset-solid](https://github.com/amoutonbrady/rollup-preset-solid) - Small opinionated preset for rollup to bundle your solid libraries with rollup.
+- [SolidJS: Past, Present, Future (2022)](https://www.youtube.com/watch?v=dOgnQ9SuKYk)

@@ -806,3 +806,4 @@ title: Rust
 - [TypeRust](https://typerust.dev/) - Simple Rust playground where you can build or run your Rust code and share it with others. ([Code](https://github.com/jlkiri/typerust))
 - [Rust Concurrency Cheat Sheet](https://github.com/quambene/rust-concurrency)
 - [Rust Is Hard, Or: The Misery of Mainstream Programming (2022)](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html) ([HN](https://news.ycombinator.com/item?id=31601040))
+- [Async Rust doesn't have to be hard (2022)](https://itsallaboutthebit.com/async-simple/) ([HN](https://news.ycombinator.com/item?id=31611456))
