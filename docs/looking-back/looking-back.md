@@ -12,6 +12,7 @@ I do monthly reflections on life here. Comes as part of [my newsletter](https://
 - [February](2022/2022-february.md)
 - [March](2022/2022-march.md)
 - [April](2022/2022-april.md)
+- [May](2022/2022-may.md)
 
 ## [2021](2021/2021.md)
 

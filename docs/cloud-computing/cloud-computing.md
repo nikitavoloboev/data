@@ -116,3 +116,4 @@ Like using [fly.io](https://fly.io/) for serverless workloads. For personal serv
 - [Heroku: Core Impact (2022)](https://brandur.org/nanoglyphs/033-heroku) ([HN](https://news.ycombinator.com/item?id=31391272))
 - [Nice bare cloud hardware providers (2022)](https://news.ycombinator.com/item?id=31496680)
 - [The Story of Heroku (2022)](https://leerob.io/blog/heroku) ([HN](https://news.ycombinator.com/item?id=31559270)) ([Tweet](https://twitter.com/leeerob/status/1531279732213485568))
+- [The Co-op Cloud](https://coopcloud.tech/) - Public interest infrastructure. Alternative to corporate clouds built by tech co-ops.

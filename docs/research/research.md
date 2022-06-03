@@ -146,3 +146,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [BioRender Poster Builder](https://biorender.com/poster-builder)
 - [Astera Institute](https://astera.org/) - Empower visionary, high-leverage science and technology projects with the capacity to create transformative progress for human civilization.
 - [Advanced Research Community](https://github.com/advancedresearch/advancedresearch.github.io)
+- [Science Is Getting Harder (2022)](https://mattsclancy.substack.com/p/science-is-getting-harder?s=r) ([HN](https://news.ycombinator.com/item?id=31598217))

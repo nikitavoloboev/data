@@ -27,6 +27,7 @@ I try to get to this future as soon as possible by setting and completing my own
 
 - [The primary ingredient for progress is optimism. The unwavering belief that something can be better is what drives the human race forward.](https://twitter.com/simonsinek/status/1461705827560136707)
 - [The idea that the future is hopeless is a bad meme that can bring down civilizations.](https://twitter.com/isabelleboemeke/status/1469059371363549184)
+- [Today's culture is just in general more driven by fear of dystopia rather than excitement about positive visions, and so everyone's first question is now "will your thing create a dystopia?". If true, I think this is unhealthy and we should just fight it head-on.](https://twitter.com/VitalikButerin/status/1532151214586048512)
 
 ## Links
 

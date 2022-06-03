@@ -157,3 +157,4 @@ I am currently using builtin MacBook keyboard and love it. I love the low key tr
 - [Ergogen](https://ergogen.xyz/) - Keyboard generator that aims to provide a common configuration format to describe ergonomic 2D layouts, and generate automatic plates, cases, and (un-routed) PCBs for them. ([Code](https://github.com/ergogen/ergogen))
 - [MVKB • Synth](https://mvkb.com/synth/)
 - [Building my first mechanical keyboard (2022)](https://not-matthias.github.io/posts/mechanical-keyboard/) ([HN](https://news.ycombinator.com/item?id=31451889))
+- [Using custom macropad with a keyboard for font designs](https://twitter.com/rsms/status/1532488827708637184)

@@ -430,3 +430,5 @@ title: Haskell
 - [How to lower an IR? (2022)](https://luctielen.com/posts/how-to-lower-an-ir/)
 - [Resources to make FP in Haskell click (2022)](https://www.reddit.com/r/haskell/comments/uu42qc/i_started_to_study_haskell_but_many_functional/)
 - [Direct Reflection for Free](https://github.com/joom/direct-reflection-for-free) - Using Data and Typeable to get a direct reflection system for free, when we're implementing a toy language in Haskell.
+- [Smooth, non-invasive Haskell Stack and Nix shell integration (2022)](https://www.tweag.io/blog/2022-06-02-haskell-stack-nix-shell/)
+- [Generate web forms from pure functions (2022)](https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html)

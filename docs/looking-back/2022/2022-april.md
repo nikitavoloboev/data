@@ -14,3 +14,12 @@ Listened a lot of [oqbqbo](https://open.spotify.com/artist/0sxuAo23kwvWKzFmJpLHm
 
 Aside from moving wiki to Docusaurus, I also released new iteration of my website on [nikiv.dev](https://nikiv.dev). So plan is to make it more usable.
 
+![](https://i.imgur.com/KTocpsc.jpg)
+
+> Wiki
+
+![](https://i.imgur.com/5ROaTMF.jpg)
+
+> Personal site
+
+

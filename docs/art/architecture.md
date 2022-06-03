@@ -13,6 +13,7 @@
 
 ## Nice places
 
+- [Richard Campbell's fancy Portland house](https://twitter.com/yatirkaaren/status/1532424881358491650)
 - [Williamsburg open place](https://twitter.com/madelinebilis/status/1327380099147165697)
 - [Living Lab House / JC Architecture](https://www.archdaily.com/923076/living-lab-house-jc-architecture)
 - [Nice office](https://twitter.com/alexhaobao/status/1388332873309061124)

@@ -126,3 +126,4 @@ title: Java
 - [Java record pattern matching in JDK 19](https://openjdk.java.net/jeps/405) ([HN](https://news.ycombinator.com/item?id=31378896))
 - [A friendlier visualization of Java's JIT compiler based on control flow (2022)](https://robcasloz.github.io/blog/2022/05/24/a-friendlier-visualization-of-javas-jit-compiler-based-on-control-flow.html)
 - [JASM](https://github.com/roscopeco/jasm) - JVM assembler for the modern age.
+- [On Java/JVM: Loom and Thread Fairness (2022)](https://www.morling.dev/blog/loom-and-thread-fairness/) ([HN](https://news.ycombinator.com/item?id=31600067))

@@ -805,3 +805,4 @@ title: Rust
 - [Builder Lite (2022)](https://matklad.github.io//2022/05/29/builder-lite.html)
 - [TypeRust](https://typerust.dev/) - Simple Rust playground where you can build or run your Rust code and share it with others. ([Code](https://github.com/jlkiri/typerust))
 - [Rust Concurrency Cheat Sheet](https://github.com/quambene/rust-concurrency)
+- [Rust Is Hard, Or: The Misery of Mainstream Programming (2022)](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html) ([HN](https://news.ycombinator.com/item?id=31601040))

@@ -570,3 +570,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [МИНАЕВ LIVE - YouTube](https://www.youtube.com/c/MINAEVLIVE/videos)
 - [Russia's Catastrophic Oil & Gas Problem (2022)](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y)
 - [Nice places to see in Russia (2022)](https://www.reddit.com/r/AskARussian/comments/v34uii/places_in_russia/)
+- [The Death of Gorshkov’s Navy: The Future of the Russian Surface Fleet (2022)](https://rusi.org/explore-our-research/publications/commentary/death-gorshkovs-navy-future-russian-surface-fleet) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/v3c2af/the_death_of_gorshkovs_navy_the_future_of_the/))

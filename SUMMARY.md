@@ -973,3 +973,4 @@
     - [2022 February](docs/looking-back/2022/2022-february.md)
     - [2022 March](docs/looking-back/2022/2022-march.md)
     - [2022 April](docs/looking-back/2022/2022-april.md)
+    - [2022 May](docs/looking-back/2022/2022-may.md)

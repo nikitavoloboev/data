@@ -4,7 +4,7 @@ I love watching interesting talks on various subjects. I also love making talks 
 
 I once made TEDx talk on mindfulness. I only have a transcript of it [here](http://telegra.ph/TED-Talk---Mindfulness-March-2016-03-28). I hope to give more talks of my own soon.
 
-I mark talks that I found interesting [here](https://github.com/learn-anything/talks).
+I mark talks that I found interesting [here](https://github.com/learn-anything/talks). For tech talks/screencasts I make, I like the format of showing it as pre-made tabs to go through ([example talk](https://youtu.be/zED9ePuht4g?t=24929)).
 
 ## Favorite
 
