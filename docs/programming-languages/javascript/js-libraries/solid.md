@@ -6,7 +6,7 @@ title: SolidJS
 
 > Simple and performant reactivity for building user interfaces
 
-[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos). [Solid Start](https://github.com/solidjs/solid-start) is great starter template. [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) is great alternative to [React Query](https://react-query.tanstack.com/).
+[Ryan Carniato](https://twitter.com/RyanCarniato) does [great YouTube videos on web/solidJS](https://www.youtube.com/c/RyanCarniato9/videos) ([SolidJS: Past, Present, Future](https://www.youtube.com/watch?v=dOgnQ9SuKYk) is insightful, especially part about [future focus](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s)). [Solid Start](https://github.com/solidjs/solid-start) is great starter template. [solid-primitives/fetch](https://www.npmjs.com/package/@solid-primitives/fetch) is great alternative to [React Query](https://react-query.tanstack.com/).
 
 [Hope UI](https://hope-ui.com/) is nice component library. [Motion One for Solid](https://motion.dev/solid/quick-start) is great for animations.
 

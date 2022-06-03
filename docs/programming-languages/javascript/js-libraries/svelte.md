@@ -6,7 +6,7 @@ title: Svelte
 
 [SvelteKit on the edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) is nice starter. Use [Imagetools](https://github.com/JonasKruckenberg/imagetools/) for optimizing images for use with Svelte.
 
-[Svelte Query](https://sveltequery.vercel.app/) is great for requests.
+[Svelte Query](https://sveltequery.vercel.app/) is great for requests. [Marko](https://markojs.com/) is a nice alternative to Svelte that's also [compiler based](https://www.youtube.com/watch?v=dOgnQ9SuKYk&t=7555s). I personally use [SolidJS](../js-libraries/solid.md) for all my web apps/sites.
 
 ## Example sites
 
