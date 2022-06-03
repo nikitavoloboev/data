@@ -10,7 +10,7 @@ title: SolidJS
 
 [Hope UI](https://hope-ui.com/) is nice component library. [Motion One for Solid](https://motion.dev/solid/quick-start) is great for animations.
 
-I am trying to use SolidJS for all web apps and static sites I build now.
+I am trying to use SolidJS for all web apps and static sites I build now. Currently that includes [my personal site](https://github.com/nikitavoloboev/nikitavoloboev) & [LA](https://github.com/learn-anything/learn-anything).
 
 ## OSS apps
 
