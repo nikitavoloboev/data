@@ -935,6 +935,8 @@
 - [compile-json-stringify](https://github.com/nwoltman/compile-json-stringify) - Compile a JSON.stringify() function with type hints for maximum performance.
 - [hanabi](https://github.com/egoist/hanabi) - Highlight any code, in a colorful way.
 - [set-cookie-parser](https://github.com/nfriedly/set-cookie-parser) - Parse HTTP set-cookie headers in JavaScript.
+- [el-transition](https://github.com/mmccall10/el-transition) - Apply Enter/Leave transitions.
+- [webreflection/json-watch](https://github.com/WebReflection/json-watch) - Proxy based alternative to json-watch module.
 
 ## Links
 

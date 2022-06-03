@@ -169,3 +169,4 @@
 - [Image editors often get color wrong (2022)](https://papaya.io/blog/perceptual-blending) ([HN](https://news.ycombinator.com/item?id=31511928))
 - [Thread about canvas rendering optimization for the OKLCH color picker](https://twitter.com/sitnikcode/status/1529880449023082498)
 - [theme-colors](https://github.com/unjs/theme-colors) - Easily generate color shades for themes.
+- [Benjamin Moore Paints as CSS Colors](https://bm.wesbos.com/)

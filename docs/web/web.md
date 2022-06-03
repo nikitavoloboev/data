@@ -424,3 +424,4 @@
 - [iProxy](https://github.com/xcodebuild/iProxy) - Cross platform Web debugging proxy.
 - [Local-first is going to be the next wave of web technology](https://twitter.com/maccaw/status/1528848433968209923)
 - [Ask HN: Why the web lately is all about JavaScript? (2022)](https://news.ycombinator.com/item?id=31539075)
+- [Ask HN: Web frameworks – which less popular frameworks are you using and why? (2022)](https://news.ycombinator.com/item?id=31607256)

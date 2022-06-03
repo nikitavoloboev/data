@@ -127,3 +127,4 @@ title: Java
 - [A friendlier visualization of Java's JIT compiler based on control flow (2022)](https://robcasloz.github.io/blog/2022/05/24/a-friendlier-visualization-of-javas-jit-compiler-based-on-control-flow.html)
 - [JASM](https://github.com/roscopeco/jasm) - JVM assembler for the modern age.
 - [On Java/JVM: Loom and Thread Fairness (2022)](https://www.morling.dev/blog/loom-and-thread-fairness/) ([HN](https://news.ycombinator.com/item?id=31600067))
+- [jlink.online](https://github.com/AdoptOpenJDK/jlink.online) - Build optimized Java runtimes in your browser.

@@ -78,3 +78,4 @@ I switch between GitHub Light and GitHub Dark themes as I change between macOS a
 - [CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform terminal app from Visual Studio Code.
 - [VS Code's Issue Triage GitHub Actions](https://github.com/microsoft/vscode-github-triage-actions)
 - [VSCodium](https://vscodium.com/) - Open Source Binaries of VSCode. ([Code](https://github.com/VSCodium/vscodium)) ([HN](https://news.ycombinator.com/item?id=31604932))
+- [Visual Studio Code Community Discussions](https://github.com/microsoft/vscode-discussions)

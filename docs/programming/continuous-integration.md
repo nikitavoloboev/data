@@ -95,3 +95,4 @@
 - [Tekton Results](https://github.com/tektoncd/results) - Aims to help users logically group CI/CD workload history and separate out long term result storage away from the Pipeline controller.
 - [Ratchet](https://github.com/sethvargo/ratchet) - Tool for improving the security of CI/CD workflows by automating the process of pinning and unpinning upstream versions.
 - [CI Free Tier Showdown (2022)](https://earthly.dev/blog/ci-comparison/)
+- [goldboot](https://github.com/goldboot/goldboot) - Provisioning bare-metal with CI.

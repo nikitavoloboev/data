@@ -612,6 +612,7 @@
 - [Rust AutoML](https://github.com/cmccomb/rust-automl) - Automated Machine Learning in Rust.
 - [Orkhon](https://github.com/vertexclique/orkhon) - ML Inference Framework and Server Runtime.
 - [kornia-rs](https://github.com/kornia/kornia-rs) - Low level implementations for computer vision in Rust.
+- [cervo](https://github.com/EmbarkStudios/cervo) - Wrapper around tract used for ML workloads in our games.
 
 ## macOS
 
@@ -1911,6 +1912,8 @@
 - [floatconv](https://github.com/m-ou-se/floatconv) - Fast implementations of integer/floating point conversion operations.
 - [Rust-SoapySDR](https://github.com/kevinmehall/rust-soapysdr) - Rust bindings for SoapySDR, the vendor-neutral software defined radio hardware abstraction layer.
 - [substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust bindings for substrait.
+- [dptree](https://github.com/teloxide/dptree) - Asynchronous event dispatch mechanism for Rust.
+- [enum-map](https://github.com/xfix/enum-map) - Library providing enum map providing type safe enum array.
 
 ## Cargo Plugins
 
@@ -1990,6 +1993,7 @@
 - [build-info](https://github.com/danielschemmel/build-info) - Collects build-information of your Rust crate.
 - [cargo-minimal-versions](https://github.com/taiki-e/cargo-minimal-versions) - Cargo subcommand for proper use of -Z minimal-versions.
 - [cargo-vet](https://github.com/bholley/cargo-vet) - Supply-chain security for Rust.
+- [cargo-criterion](https://github.com/bheisler/cargo-criterion) - Cargo extension for running Criterion.rs benchmarks.
 
 ## Links
 

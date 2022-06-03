@@ -1151,6 +1151,7 @@
 - [EffectsLibrary](https://github.com/GetStream/effects-library) - Allows developers to create sophisticated and realistic particle systems such as snow, fire, rain, confetti, fireworks, and smoke with no or minimal effort.
 - [Music Notation](https://github.com/music-notation-swift/music-notation) - Cross-Platform Music Notation API written in Swift.
 - [GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib.
+- [AsyncSequenceReader](https://github.com/mochidev/AsyncSequenceReader) - Building blocks to easily consume Swift's `AsyncSequence`.
 
 ## Other (not lib)
 
@@ -1218,3 +1219,4 @@
 - [xcframework-maker](https://github.com/darrarski/xcframework-maker) - macOS utility for converting fat-frameworks to SPM-compatible XCFramework with arm64-simulator support.
 - [Core Image by Example](https://github.com/frankschlegel/core-image-by-example) - Hands-on approach for getting to know all things Apple's Core Image framework can do.
 - [Awesome Swift Async Await](https://github.com/artemnovichkov/awesome-swift-async-await) - Hand-curated list of Swift async/await resources.
+- [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML) - Generate UML class diagrams from swift code with this Command Line Interface (CLI) and Swift Package.

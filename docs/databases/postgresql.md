@@ -511,3 +511,6 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source PostgreSQL Distribution.
 - [Restore PostgreSQL database running in Docker Container (2021)](https://estebanborai.com/notes/docker-postgresql-restore-database)
 - [PG Exporter](https://github.com/Vonng/pg_exporter) - Prometheus exporter for PostgreSQL metrics.
+- [pegsocket.js](https://github.com/alaisi/pegsocket.js) - WebSocket driver for PostgreSQL.
+- [pg_tail](https://github.com/aaparmeggiani/pg_tail) - Watches last lines of a PostgreSQL table like in a "tail -f".
+- [Useful PostgreSQL utilities](https://github.com/dataegret/pg-utils)

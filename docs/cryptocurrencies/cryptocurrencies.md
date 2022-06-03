@@ -282,3 +282,4 @@ From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the c
 - [Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list)
 - [Two thought experiments to evaluate automated stablecoins (2022)](https://vitalik.eth.limo/general/2022/05/25/stable.html) ([Tweet](https://twitter.com/VitalikButerin/status/1529850412760674304)) ([HN](https://news.ycombinator.com/item?id=31521261))
 - [Algorithmic stablecoins are provably impossible without continuous funding (2022)](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably?s=r) ([HN](https://news.ycombinator.com/item?id=31553704))
+- [Canonical Crypto](https://www.canonical.cc/) - Fund focused on investing in founders building infrastructure in web3/crypto. ([Tweet](https://twitter.com/ai/status/1532376867952631809))

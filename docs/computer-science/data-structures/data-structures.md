@@ -113,3 +113,4 @@
 - [Maximum Flow and Minimum-Cost Flow in Almost-Linear Time (2022)](https://arxiv.org/abs/2203.00671) ([HN](https://news.ycombinator.com/item?id=31149038))
 - [Are tagged unions overrated? (2021)](https://typesanitizer.com/blog/tagged-unions.html)
 - [Understanding Bloom filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/) ([HN](https://news.ycombinator.com/item?id=31545399))
+- [Data Structure Algorithms Low Level Design and High Level Design collection of resources](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD)
