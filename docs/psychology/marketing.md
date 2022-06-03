@@ -179,6 +179,7 @@ One way to do launches with possible virality is rewarding people who retweet wi
 - [How to drive SaaS product adoption in 2022](https://blog.driftly.app/saas-product-adoption/)
 - [Ask HN: Do you find it challenging to talk to your users? (2022)](https://news.ycombinator.com/item?id=31178577)
 - [LOVED: How to Rethink Marketing for Tech Products Book (2022)](https://www.svpg.com/books/loved-how-to-rethink-marketing-for-tech-products/)
+- [Of Chickens and Pigs - The Dilemma of Creator Self Promotion (2021)](https://dev.to/this-is-learning/of-chickens-and-pigs-the-dilemma-of-creator-self-promotion-51ea)
 
 ## Images
 
