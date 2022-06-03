@@ -180,3 +180,4 @@ Use [web.dev](https://web.dev/measure/) & [WebPage](https://webpagetest.org/) te
 - [The state of responsiveness on the web (2022)](https://www.youtube.com/watch?v=Mizzbsvv8Os)
 - [Heydon Pickering: Please Disable JavaScript To View This Site (2021)](https://www.youtube.com/watch?v=ga_byUbqvCc)
 - [Don't fight the browser preload scanner (2022)](https://web.dev/preload-scanner/)
+- [Local-First Software (2019)](https://www.inkandswitch.com/local-first/) - You own your data, in spite of the cloud. ([HN](https://news.ycombinator.com/item?id=31594613))

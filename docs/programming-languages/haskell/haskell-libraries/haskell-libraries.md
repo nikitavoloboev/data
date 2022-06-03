@@ -332,6 +332,7 @@
 - [free-accelerate](https://github.com/fizruk/free-accelerate) - Data parallel representation for free monads.
 - [mason](https://github.com/fumieval/mason) - Builder & IO library.
 - [process](https://github.com/haskell/process) - Library for dealing with system processes.
+- [manifolds](https://github.com/leftaroundabout/manifolds) - Coordinate-free hypersurfaces as Haskell types.
 
 ## Notes
 

@@ -1150,6 +1150,7 @@
 - [SafePresentation](https://github.com/noppefoxwolf/SafePresentation) - Throw common warnings of ViewController presentation as error.
 - [EffectsLibrary](https://github.com/GetStream/effects-library) - Allows developers to create sophisticated and realistic particle systems such as snow, fire, rain, confetti, fireworks, and smoke with no or minimal effort.
 - [Music Notation](https://github.com/music-notation-swift/music-notation) - Cross-Platform Music Notation API written in Swift.
+- [GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib.
 
 ## Other (not lib)
 

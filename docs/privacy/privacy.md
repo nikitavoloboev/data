@@ -40,7 +40,6 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Privatar](https://www.privitar.com/) - Unlock the advantage of data-driven insights while ensuring data privacy.
 - [How China Tracks Everyone | VICE on HBO (2019)](https://www.youtube.com/watch?v=CLo3e1Pak-Y)
 - [Degoogle: Alternatives to Google products, privacy tips, tricks, links](https://github.com/tycrek/degoogle) ([HN](https://news.ycombinator.com/item?id=24245817)) ([HN](https://news.ycombinator.com/item?id=30528205)) ([HN](https://news.ycombinator.com/item?id=30528205))
-- [Local-first software](https://www.inkandswitch.com/local-first.html) - You own your data, in spite of the cloud.
 - [The Secretive Company That Might End Privacy as We Know It (2020)](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) ([Tweet](https://twitter.com/kevinakwok/status/1218621849971507200))
 - [Am I Unique?](https://amiunique.org/) - Aims at studying the diversity of browser fingerprints and providing developers with data to help them design good defenses. ([HN](https://news.ycombinator.com/item?id=22148512))
 - [How do you talk to "I have nothing to hide" people? (2020)](https://lobste.rs/s/6yrndd/how_do_you_talk_i_have_nothing_hide_people)

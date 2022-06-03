@@ -138,3 +138,4 @@ title: Julia
 - [My Experiences with Julia](https://weissmann.pm/julialang/) ([HN](https://news.ycombinator.com/item?id=31402989))
 - [SciML Style Guide for Julia](https://github.com/SciML/SciMLStyle)
 - [Julia for Data Analysis Book (2022)](https://www.manning.com/books/julia-for-data-analysis)
+- [Building a transformer in Julia (2022)](https://liorsinai.github.io/coding/2022/05/18/transformers.html)

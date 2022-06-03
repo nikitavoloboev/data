@@ -12,6 +12,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [James R. Eads](http://www.jamesreads.com/art)
 - [Z.W. Gu](https://www.artstation.com/guweiz)
 - [Leland K Foster](http://www.lelandkfoster.com/)
+- [Kathy Lam](https://www.instagram.com/dawning_crow/)
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)
 - [Miles Johnston](https://www.artsy.net/artist/miles-johnston) ([IG](https://www.instagram.com/miles_art/)) ([Reddit Top Art](https://www.reddit.com/user/Miles___?sort=top))
