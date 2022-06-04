@@ -46,3 +46,4 @@
 - [AVR Arduino Zig](https://github.com/FireFox317/avr-arduino-zig)
 - [TaskManagerIO](https://github.com/davetcc/TaskManagerIO) - Task, event, scheduling, and interrupt marshalling library for Arduino and mbed boards.
 - [Running Julia bare-metal on an Arduino](https://seelengrab.github.io/articles/Running%20Julia%20baremetal%20on%20an%20Arduino/) ([HN](https://news.ycombinator.com/item?id=31481895))
+- [STM32LowPower](https://github.com/stm32duino/STM32LowPower) - Arduino Low Power library for STM32.

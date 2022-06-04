@@ -57,7 +57,7 @@ Never wrote C++, [Rust](../rust/rust.md) is much [better for new code](https://n
 - [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 - [All Algorithms implemented in C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [Introduction to C++ for Swift Developers (2019)](https://pspdfkit.com/blog/2019/intro-cpp-swift-developers/)
-- [rr](https://rr-project.org/) - C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. ([Code](https://github.com/mozilla/rr))
+- [rr](https://rr-project.org/) - C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. ([Code](https://github.com/mozilla/rr)) ([HN](https://news.ycombinator.com/item?id=31617600))
 - [#include C++](https://www.includecpp.org/) - Global, inclusive, and diverse community for developers interested in C++.
 - [C++ papers (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/#mailing2019-11)
 - [How can you be so certain? (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf) ([Lobsters](https://lobste.rs/s/hvczkz/how_can_you_be_so_certain))
