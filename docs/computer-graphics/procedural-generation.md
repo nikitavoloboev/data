@@ -53,3 +53,4 @@
 - [Terrain generation experiment](https://github.com/kettle11/open_world_game)
 - [Little Procedural Pixel Worlds](https://jason.today/little-worlds) ([HN](https://news.ycombinator.com/item?id=31481581))
 - [Plantarium](https://plant.jim-fx.com/) - Tool for the procedural generation of 3D plants. ([Code](https://github.com/jim-fx/plantarium))
+- [Rant](https://github.com/rant-lang/rant) - Dynamically-typed, multi-paradigm templating language designed primarily for procedural generation.

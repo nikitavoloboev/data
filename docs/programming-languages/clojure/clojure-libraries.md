@@ -91,6 +91,7 @@
 - [clojure.test](https://github.com/clojure-expectations/clojure-test) - Clojure.test-compatible version of the classic Expectations testing library.
 - [RCF](https://github.com/hyperfiddle/rcf) - REPL-first, async test macro for Clojure/Script.
 - [stateful-check](https://github.com/czan/stateful-check) - Stateful generative testing in Clojure.
+- [facai](https://github.com/lambdaisland/facai) - Factories for fun and profit.
 
 ## Graphics
 

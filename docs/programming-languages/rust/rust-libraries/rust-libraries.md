@@ -107,7 +107,7 @@
 - [MoonZoon](https://github.com/MoonZoon/MoonZoon) - Rust Fullstack Framework. ([Podcast](https://blog.abor.dev/p/moonzoon)) ([HN](https://news.ycombinator.com/item?id=27155639))
 - [tame-oauth](https://github.com/EmbarkStudios/tame-oauth) - Small OAuth crate that follows the sans-io approach.
 - [Trillium](https://github.com/trillium-rs/trillium) - Composable toolkit for building web applications with async rust. ([Docs](https://trillium.rs/))
-- [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive DOM library for Rust in WASM.
+- [Sycamore](https://github.com/sycamore-rs/sycamore) - Reactive library for creating web apps in Rust and WebAssembly.
 - [Perseus](https://github.com/arctic-hen7/perseus) - High-level frontend development framework for Rust with full support for SSR and SSG.
 - [Zap](https://github.com/janpaul123/zaplib) - Fast, cross-platform (web+native), GPU-based application framework, written in Rust.
 - [Poem](https://github.com/poem-web/poem) - Full-featured and easy-to-use web framework. ([Poem OpenAPI](https://github.com/poem-web/poem-openapi)) ([Poem Grants](https://github.com/DDtKey/poem-grants))
@@ -592,6 +592,7 @@
 - [meadow](https://github.com/quietlychris/meadow) - Publish/request middleware for robotics applications, with a focus on ease-of-use.
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (structs) from SVD files.
 - [stm32l0xx-hal](https://github.com/stm32-rs/stm32l0xx-hal) - Hardware abstraction layer (HAL) for the STM32L0 series microcontrollers written in Rust.
+- [webusb](https://github.com/littledivy/webusb) - WebUSB API implementation in Rust (and Deno).
 
 ## ML
 

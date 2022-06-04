@@ -152,3 +152,4 @@ Exploring [Solid](../solid.md) as a faster alternative. Trying to move useful fe
 - [Adding route transition animations in Remix (2022)](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)
 - [Remix Flat Routes](https://github.com/kiliman/remix-flat-routes) - Remix package to define routes using the flat-routes convention.
 - [Bring back to building progressive apps with Remix (2022)](https://youtu.be/zED9ePuht4g?t=24929)
+- [When To Fetch: Remixing React Router - Ryan Florence (2022)](https://www.youtube.com/watch?v=95B8mnhzoCM)
