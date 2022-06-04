@@ -820,3 +820,4 @@
 - [Machine Learning Design patterns](https://github.com/msaroufim/ml-design-patterns) - Software Architecture for ML engineers.
 - [Hopular: Modern Hopfield Networks for Tabular Data (2022)](https://arxiv.org/abs/2206.00664) ([Code](https://github.com/ml-jku/hopular))
 - [Some thoughts on machine learning with small data (2022)](https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/) ([HN](https://news.ycombinator.com/item?id=31592769))
+- [Most elegant/beautiful ideas in ML? (2022)](https://twitter.com/banburismus_/status/1532747777280593920)

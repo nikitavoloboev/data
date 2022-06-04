@@ -7,3 +7,4 @@ title: Fly.io
 ## Links
 
 - [Honkin' on the Fly (2022)](https://icyphox.sh/blog/honk-fly/)
+- [Periodic jobs on Fly.io with Supercronic](https://github.com/fly-apps/supercronic)

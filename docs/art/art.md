@@ -314,6 +314,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
 - [Christophe Jacrot](https://www.instagram.com/christophe.jacrot/)
 - [Elena Chernyshova](https://www.instagram.com/elena.chernyshova.photography/)
+- [Jeremy Perez-Cruz](https://www.instagram.com/sleepingplanes/)
 - [John Wingfield](https://www.instagram.com/johnwingfield/)
 - [Maley](https://www.instagram.com/maleyphoto/)
 - [Daniel Casson](https://www.instagram.com/dpc_photography_/)
