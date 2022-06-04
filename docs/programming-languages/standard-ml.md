@@ -40,3 +40,4 @@ title: Standard ML
 - [Smackage](https://github.com/standardml/smackage) - Package manager for Standard ML libraries.
 - [Awesome Standard ML](https://github.com/i4ki/awesome-sml)
 - [Exercism Standard ML Track](https://github.com/exercism/sml)
+- [Standard ML Grammar for Tree-sitter](https://github.com/stonebuddha/tree-sitter-sml)
