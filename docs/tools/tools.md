@@ -1,6 +1,6 @@
 # Tools
 
-Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [Toolhunt](https://www.toolhunt.dev/) has a nice tools list.
+Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [Toolhunt](https://www.toolhunt.dev/) has a nice tools list. [Uses This](https://usesthis.com/) does nice interviews on tools people use.
 
 ## Other
 

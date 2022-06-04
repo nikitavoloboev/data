@@ -377,3 +377,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Passerine](https://www.passerine.io/) - Small extensible programming language designed for concise expression with little code. ([Lobsters](https://lobste.rs/s/fvaycc/passerine_programming_language))
 - [StackOverflow trends](https://github.com/nschloe/so-trends)
 - [The appeal of bidirectional type-checking (2022)](https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html) ([Lobsters](https://lobste.rs/s/mhdvzh/appeal_bidirectional_type_checking))
+- [A Pattern Language for the LIMITS Community (2022)](https://computingwithinlimits.org/2022/papers/limits22-final-Schuler.pdf)
