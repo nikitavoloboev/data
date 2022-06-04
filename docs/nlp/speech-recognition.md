@@ -4,6 +4,8 @@ title: Speech recognition
 
 # [Speech recognition](https://github.com/daanzu/kaldi-active-grammar)
 
+[ocotillo](https://github.com/neonbjb/ocotillo) is nice.
+
 ## Notes
 
 - [Voice assistants don't seem to stick for most people is that they're actually command line interfaces, but even less discoverable because they don't provide any visible feedback at all.](https://twitter.com/simonw/status/1474418620625084420)
@@ -129,3 +131,4 @@ title: Speech recognition
 - [George Hotz | Programming | speech recognition (2022)](https://www.youtube.com/watch?v=IkI5WJyEcCc)
 - [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality (2022)](https://arxiv.org/abs/2205.04421) ([Code](https://github.com/lucidrains/natural-speech-pytorch))
 - [CoquiSTT + Signal = Love (death to voice messages) (2022)](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
+- [ocotillo](https://github.com/neonbjb/ocotillo) - PyTorch-based ML model that does state-of-the-art English speech transcription.

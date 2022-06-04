@@ -1791,3 +1791,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [depu](https://github.com/kevwan/depu) - Tool to check available updates of dependent packages in go.mod.
 - [Copygen](https://github.com/switchupcb/copygen) - Go generator to copy values from type to type and fields from struct to struct (copier without reflection). Generate any code based on types.
 - [struct2ts](https://github.com/OneOfOne/struct2ts) - Generate Typescript classes/interfaces out of Go structs.
+- [mdox](https://github.com/bwplotka/mdox) - Format your docs; autogenerate from flags or Go structs or even generate versioned website directly from markdown.

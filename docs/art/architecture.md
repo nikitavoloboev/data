@@ -10,6 +10,7 @@
 - [George Nakashima](https://nakashimawoodworkers.com/)
 - [Olivetti](https://twitter.com/danrubin/status/1365899422698270721)
 - [Sebastian Treese](https://twitter.com/SCP_Hughes/status/1383028013156200448)
+- [Albert Speer](https://nl.wikipedia.org/wiki/Albert_Speer)
 
 ## Nice places
 

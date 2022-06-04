@@ -162,6 +162,7 @@
 - [ginepro](https://github.com/TrueLayer/ginepro) - Client-side gRPC channel implementation for tonic.
 - [fantoccini](https://github.com/jonhoo/fantoccini) - High-level API for programmatically interacting with web pages through WebDriver.
 - [Okapi](https://github.com/GREsau/okapi) - OpenAPI (AKA Swagger) document generation for Rust projects.
+- [HTTP Body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait.
 
 ## WASM
 
