@@ -157,3 +157,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Fruits and vegetables are less nutritious than they used to be (2022)](https://www.nationalgeographic.com/magazine/article/fruits-and-vegetables-are-less-nutritious-than-they-used-to-be) ([HN](https://news.ycombinator.com/item?id=31229335))
 - [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security (2022)](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge) ([HN](https://news.ycombinator.com/item?id=31232814))
 - [After millennia of expansion, the world has passed ‘peak agricultural land’ (2022)](https://ourworldindata.org/peak-agriculture-land) ([HN](https://news.ycombinator.com/item?id=31570698))
+- [Ask HN: SWE who started an organic farm in Europe, where did you go? (2022)](https://news.ycombinator.com/item?id=31619263)

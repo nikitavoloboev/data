@@ -226,3 +226,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Gentoo and NixOS are two sides of the same coin (2022)](https://twitter.com/EverfreeArtemis/status/1522478768840855553)
 - [Nix(OS) Thoughts (2020)](https://bicompact.space/blog/2020/06/20/nix-os-thoughts/)
 - [systemd services & timers in NixOS (2022)](https://paperless.blog/systemd-services-and-timers-in-nixos)
+- [NixOS cheat sheet / tutorial](https://github.com/brainrake/nixos-tutorial)

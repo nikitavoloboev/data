@@ -94,3 +94,5 @@ title: Google Cloud
 - [Google Cloud service emulators for local development stacks](https://github.com/fullstorydev/emulators)
 - [docker-credential-gcr](https://github.com/GoogleCloudPlatform/docker-credential-gcr) - Docker credential helper for GCR users.
 - [Setup Google Cloud SQL Proxy on macOS (2022)](https://estebanborai.com/notes/setup-google-cloud-sql-proxy-on-macos)
+- [IAM Go](https://github.com/einride/iam-go) - Opinionated Open Source implementation of the google.iam APIs on top of Cloud Spanner.
+- [Protobuf + BigQuery + Go](https://github.com/einride/protobuf-bigquery-go) - Seamlessly save and load protocol buffers to and from BigQuery using Go.

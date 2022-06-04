@@ -80,3 +80,5 @@ title: Roam Research
 - [Roam JS Extensions](https://github.com/dvargas92495/roam-js-extensions) ([Web](https://roamjs.com/))
 - [Roam Research Access](https://kpaxs.gumroad.com/l/Kpaxs)
 - [The Fall of Roam - I don’t use Roam anymore. Why? (2022)](https://every.to/superorganizers/the-fall-of-roam) ([Tweet](https://twitter.com/danshipper/status/1492525715266355209)) ([Tweet](https://twitter.com/julianlehr/status/1492577055090692098)) ([HN](https://news.ycombinator.com/item?id=30321192)) ([HN](https://news.ycombinator.com/item?id=30320977)) ([Tweet](https://twitter.com/johnnulls/status/1493815896577478657))
+- [Bionic text Roam extension](https://roamresearch.com/#/app/Roam-En-Francais/page/H1x2XFeT8) ([Tweet](https://twitter.com/fbgallet/status/1530561822088101888))
+- [Roam Research extensions by Fabrice Gallet](https://roamresearch.com/?server-port=3333#/app/Roam-En-Francais/page/eyPmdlKZ7)

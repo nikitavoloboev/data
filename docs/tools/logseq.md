@@ -27,3 +27,4 @@ title: Logseq
 - [fireSeqSearch](https://github.com/Endle/fireSeqSearch) - Append Logseq notes while Googling.
 - [Logseq Web Parser](https://github.com/sawhney17/logseq-web-parser) - Simple plugin to parse the contents of a website and insert it under a block.
 - [Aryan Sawhney](https://aryansawhney.com/) - Writes many plugins for Logseq.
+- [Interval Hints](https://github.com/KerfuffleV2/logseq-plugin-interval-hints) - Configurable Logseq plugin to annotate deadline and scheduled times with a countdown or interval.

@@ -320,3 +320,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Viper](https://github.com/aloussase/viper) - Fast CLI plugin manager for (neo)vim.
 - [nvim-rs](https://github.com/KillTheMule/nvim-rs) - Rust library for neovim clients.
 - [Max's neovim config](https://github.com/max397574/NeovimConfig)
+- [SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) - Neovim Lua plugin providing access to the SchemaStore catalog.

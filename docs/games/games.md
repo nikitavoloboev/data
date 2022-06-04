@@ -212,6 +212,7 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [What Are You Playing This Week? (2022)](https://www.reddit.com/r/patientgamers/comments/umg1t4/what_are_you_playing_this_week/?sort=top)
 - [Best RTS games right now? (2022)](https://www.reddit.com/r/RealTimeStrategy/comments/uqqqwg/best_rts_right_now_best_rated/)
 - [Ask HN: What video games do you play during the day? (2022)](https://news.ycombinator.com/item?id=31558745)
+- [Ask HN: Non-violent video games with great stories? (2022)](https://news.ycombinator.com/item?id=31618955)
 
 ## Links
 

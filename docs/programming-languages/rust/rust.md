@@ -807,3 +807,4 @@ title: Rust
 - [Rust Concurrency Cheat Sheet](https://github.com/quambene/rust-concurrency)
 - [Rust Is Hard, Or: The Misery of Mainstream Programming (2022)](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html) ([HN](https://news.ycombinator.com/item?id=31601040))
 - [Async Rust doesn't have to be hard (2022)](https://itsallaboutthebit.com/async-simple/) ([HN](https://news.ycombinator.com/item?id=31611456))
+- [Creating a minimal ELF-64 file with Rust](https://github.com/tchajed/minimal-elf)

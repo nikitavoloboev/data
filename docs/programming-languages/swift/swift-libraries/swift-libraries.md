@@ -264,6 +264,7 @@
 - [NativeUIKit](https://github.com/sparrowcode/UIKitExtension) - Mimicrated views and controls to native Apple appearance.
 - [VFont](https://github.com/dufflink/vfont) - iOS Variable Fonts integration.
 - [Wave](https://github.com/jtrivedi/Wave) - Spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great.
+- [AnimationPlanner](https://github.com/PimCoumans/AnimationPlanner) - Chain multiple UIView animations without endlessly nesting in completion closures.
 
 ## macOS
 

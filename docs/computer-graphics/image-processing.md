@@ -183,3 +183,4 @@
 - [Deno Deploy Scale Image](https://github.com/syumai/deno-deploy-scale-image) - Image scaling app built on Deno Deploy and Go WebAssembly.
 - [Papaya](https://papaya.io/) - Image editing right in your browser.
 - [imgdiff](https://github.com/AskAlexSharov/imgdiff) - Calculate similarity of 2 images. Supports: jpeg, png.
+- [Polaroid](https://github.com/Daggy1234/polaroid) - Hyper Fast and safe image manipulation library for python . Powered by rust.

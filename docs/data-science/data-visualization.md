@@ -162,3 +162,5 @@
 - [datatile](https://github.com/polyaxon/datatile) - Library for managing, validating, summarizing, and visualizing data.
 - [loaders.gl](https://github.com/visgl/loaders.gl) - Loaders for big data visualization.
 - [Troika JS](https://github.com/protectwise/troika) - JavaScript framework for interactive 3D and 2D visualizations.
+- [bfc](https://github.com/kessler/catchart) - Industrial-grade brainfuck compiler.
+- [catchart](https://github.com/kessler/catchart) - Pipe something from command line to a chart in the browser.

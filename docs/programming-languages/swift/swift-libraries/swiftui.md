@@ -220,3 +220,5 @@ title: SwiftUI
 - [Build an Animated App with Rive and SwiftUI - Design+Code](https://designcode.io/swiftui-rive-animated-app)
 - [SwiftUI Tutorials Code](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials)
 - [Learning SwiftUI thread (2022)](https://twitter.com/Suhail/status/1530941012285083650)
+- [SwiftUI iOS Debug & HotReloading in VSCode](https://github.com/markst/hotreloading-vscode-ios)
+- [Sidebar App](https://github.com/apparata/SidebarAppTemplate) - Template repository for quickly creating boilerplate code for a SwiftUI macOS app.

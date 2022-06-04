@@ -214,7 +214,7 @@
 - [An introduction to Monzo’s data stack (2021)](https://medium.com/data-monzo/an-introduction-to-monzos-data-stack-827ae531bc99)
 - [Evidence](https://www.evidence.dev/) - Enables analysts to deliver a polished business intelligence system using SQL and markdown. ([Code](https://github.com/evidence-dev/evidence))
 - [Future of Data Work: Collaboration and No Limits (2021)](https://observablehq.com/@observablehq/future-of-data-work-collaboration-and-no-limits)
-- [Rows](https://rows.com/) - Spreadsheet where teams work faster.
+- [Rows](https://rows.com/) - Spreadsheet where teams work faster. ([Twitter](https://twitter.com/RowsHQ))
 - [RDMkit](https://rdmkit.elixir-europe.org/) - Online guide containing good data management practices applicable to research projects from the beginning to the end. ([Code](https://github.com/elixir-europe/rdmkit))
 - [Select Star](https://www.selectstar.com/) - Data discovery made easy.
 - [Data Engineering Principles - Cogent](https://cogent.co/blog/data-engineering-principles/)

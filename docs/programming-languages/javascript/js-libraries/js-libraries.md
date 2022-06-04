@@ -940,6 +940,7 @@
 - [el-transition](https://github.com/mmccall10/el-transition) - Apply Enter/Leave transitions.
 - [webreflection/json-watch](https://github.com/WebReflection/json-watch) - Proxy based alternative to json-watch module.
 - [AST Query](https://github.com/SBoudrias/AST-query) - Simple JavaScript AST modification library.
+- [Handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 
 ## Links
 

@@ -475,6 +475,7 @@ Below is a list of extensions I use.
 
 ## Theme
 
+- [Vitesse](https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse) ([Code](https://github.com/antfu/vscode-theme-vitesse))
 - [Poimandres](https://marketplace.visualstudio.com/items?itemName=pmndrs.pmndrs) - Minimal, frameless dark theme. ([Code](https://github.com/drcmda/poimandres-theme))
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) ([Code](https://github.com/sdras/night-owl-vscode-theme)) ([Web](https://night-owl-swag.netlify.app/))
 - [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) - Beautifully warm dual theme. ([Code](https://github.com/jolaleye/horizon-theme-vscode))
