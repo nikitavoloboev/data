@@ -20,6 +20,7 @@ title: TypeScript
 - [If it’s hard to type via TypeScript, I should probably rethink my design.](https://twitter.com/housecor/status/1422195449277059072)
 - [Properly name your generics. Generics are basically functions you give to developers to create parameterized types.](https://twitter.com/kentcdodds/status/1441504538993696770)
 - [`noUncheckedIndexAccess` config option is useful](https://www.youtube.com/watch?v=JwZaP3pY7Zo)
+- [`StrictNullChecks` config option is useful](https://twitter.com/tannerlinsley/status/1516598837791449091)
 
 ## Links
 

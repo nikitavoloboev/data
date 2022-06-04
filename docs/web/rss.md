@@ -168,3 +168,4 @@ Use [Inoreader](https://www.inoreader.com/) for reading/managing my RSS feeds.
 - [rf](https://github.com/eigenhombre/rf) - RSS/Atom Feed Scanner.
 - [RSS Aggregator for Web3](https://github.com/chainfeeds/RSSAggregatorforWeb3) - Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.
 - [mior](https://github.com/fuyufjh/mior) - Merge into one RSS.
+- [GORSS](https://github.com/Lallassu/gorss) - Simple RSS/Atom reader written in Go. Highly configurable and with themes.

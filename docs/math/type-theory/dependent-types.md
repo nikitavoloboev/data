@@ -76,3 +76,4 @@ title: Dependent types
 - [Dependently typed programming with finite sets](http://firsov.ee/finset/) ([Code](https://github.com/input-output-hk/agda-finset))
 - [Castle Bravo: Experimental HoTT Implementation](https://github.com/forked-from-1kasper/bravo)
 - [Magmide](https://github.com/magmide/magmide) - Dependently-typed proof language intended to make provably correct bare metal code possible for working software engineers.
+- [TeenyTT](https://github.com/TOTBWF/teenytt) - Small, didactic proof assistant designed around dependent type theory.
