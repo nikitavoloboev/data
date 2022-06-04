@@ -97,3 +97,4 @@
 - [Vertigo](https://vertigo.ai/) - AI for IoT & The Edge.
 - [Compair](https://github.com/rasbt/compair) - Model evaluation utilities.
 - [LightAutoML](https://github.com/sb-ai-lab/LightAutoML) - Fast and customizable framework for automatic ML model creation (AutoML).
+- [MLEM](https://github.com/iterative/mlem) - Version and deploy your ML models following GitOps principles. ([Web](https://mlem.ai/))

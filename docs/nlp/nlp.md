@@ -586,3 +586,4 @@
 - [nlprule](https://github.com/bminixhofer/nlprule) - Fast, low-resource Natural Language Processing and Text Correction library written in Rust.
 - [Quark: Controllable Text Generation with Reinforced Unlearning (2022)](https://arxiv.org/abs/2205.13636) ([Tweet](https://twitter.com/rajammanabrolu/status/1531308092629012485))
 - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402) ([HN](https://news.ycombinator.com/item?id=31573282)) ([Tweet](https://twitter.com/benjamin_hilton/status/1531780892972175361)) ([HN](https://news.ycombinator.com/item?id=31587316))
+- [AdaTest](https://github.com/microsoft/adatest) - Find and fix bugs in natural language machine learning models using adaptive testing.

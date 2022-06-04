@@ -250,3 +250,5 @@
 - [Logging C Functions (2022)](https://justine.lol/ftrace/) ([Lobsters](https://news.ycombinator.com/item?id=31443198))
 - [Linux and Tiny C Compiler in the browser (2022)](https://ja.nsommer.dk/articles/linux-and-tiny-c-compiler-in-the-browser-part-one.html)
 - [All About Libpas, Phil's Super Fast Malloc](https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md) ([HN](https://news.ycombinator.com/item?id=31581727))
+- [Pretty-Printable Enumerations in Pure C (2022)](https://hirrolot.github.io/posts/pretty-printable-enumerations-in-pure-c.html)
+- [Psyche-C](https://github.com/ltcmelo/psychec) - Compiler frontend for the C programming language.

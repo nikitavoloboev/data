@@ -103,6 +103,7 @@
 - [command-line-args](https://github.com/75lb/command-line-args) - Mature, feature-complete library to parse command-line options.
 - [Prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts.
 - [minimist](https://github.com/substack/minimist) - Parse argument options.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Collection of common interactive command line user interfaces.
 
 ## ML
 
@@ -938,6 +939,7 @@
 - [set-cookie-parser](https://github.com/nfriedly/set-cookie-parser) - Parse HTTP set-cookie headers in JavaScript.
 - [el-transition](https://github.com/mmccall10/el-transition) - Apply Enter/Leave transitions.
 - [webreflection/json-watch](https://github.com/WebReflection/json-watch) - Proxy based alternative to json-watch module.
+- [AST Query](https://github.com/SBoudrias/AST-query) - Simple JavaScript AST modification library.
 
 ## Links
 

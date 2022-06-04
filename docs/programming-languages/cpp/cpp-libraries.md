@@ -404,6 +404,7 @@
 - [AnyAny](https://github.com/kelbon/AnyAny) - C++20 library for comfortable and efficient dynamic polymorphism.
 - [RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++.
 - [userver](https://github.com/userver-framework/userver) - C++ Asynchronous Framework.
+- [Dash](https://github.com/baotonglu/dash) - Persistent memory friendly hashing index.
 
 ## Links
 

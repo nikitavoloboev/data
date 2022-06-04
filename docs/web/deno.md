@@ -260,3 +260,5 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Froebel](https://github.com/MathisBullinger/froebel) - Strictly typed TypeScript utility library. Opinionated version of lodash, but with first-class types.
 - [Deno Todos](https://github.com/jason0x43/deno-todos) - Simple Deno-based Todos app.
 - [Denoflate](https://github.com/hazae41/denoflate) - WebAssembly powered Deflate/Gzip/Zlib compression for Deno, written in Rust.
+- [deno-rollup](https://github.com/cmorten/deno-rollup) - Next-generation ES module bundler for Deno ported from Rollup.
+- [rollup-plugin-deno](https://github.com/egoist/rollup-plugin-deno) - Create a bundle for Deno runtime.

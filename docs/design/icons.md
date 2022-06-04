@@ -135,3 +135,5 @@
 - [Core Line - Pro Icons Set](https://www.streamlinehq.com/icons/ui-line-pro) - 2026 customizable PNGs, SVGs, PDFs.
 - [Tabler Icons](https://tabler-icons.io/) - Over 1900 vector icons for web design. ([HN](https://news.ycombinator.com/item?id=31121089))
 - [Untitled UI Icons](https://www.untitledui.com/icons) - Ultimate Figma icon library.
+- [Pixelarticons](https://pixelarticons.com/) - Beautiful open-source pixel-art icons. ([Code](https://github.com/halfmage/pixelarticons))
+- [Majesticons](https://www.majesticons.com/) - Versatile, beautiful, and scalable iconset. 760 icons each in line and solid style.

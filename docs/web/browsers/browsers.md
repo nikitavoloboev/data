@@ -217,7 +217,7 @@
 - [UA gotta be kidding (2022)](https://bkardell.com/blog/UAGottaBeKidding.html) ([Lobsters](https://lobste.rs/s/wpxdqi/ua_gotta_be_kidding))
 - [Bringing page transitions to the web (2022)](https://www.youtube.com/watch?v=JCJUPJ_zDQ4)
 - [Websites that are pushing the utility of browsers forward (2022)](https://news.ycombinator.com/item?id=31393437)
-- [Plasmo](https://www.plasmo.com/) - Develop, Test, Publish Browser Extensions. ([GitHub](https://github.com/PlasmoHQ)) ([Browser Platform Publisher](https://github.com/PlasmoHQ/bpp)) ([Examples](https://github.com/PlasmoHQ/examples))
+- [Plasmo](https://www.plasmo.com/) - Develop, Test, Publish Browser Extensions. ([GitHub](https://github.com/PlasmoHQ)) ([Browser Platform Publisher](https://github.com/PlasmoHQ/bpp)) ([Examples](https://github.com/PlasmoHQ/examples)) ([Code](https://github.com/PlasmoHQ/plasmo)) ([HN](https://news.ycombinator.com/item?id=31609896))
 - [webext-tools](https://github.com/fregante/webext-tools) - Utility functions for Web Extensions.
 - [webext-content-scripts](https://github.com/fregante/webext-content-scripts) - Utility functions to inject content scripts from a WebExtension.
 - [Global Speed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio.

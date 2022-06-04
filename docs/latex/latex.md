@@ -140,3 +140,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [HEVEA](https://github.com/maranget/hevea) - Fast LaTeX to HTML translator.
 - [I hate LaTeX. I love LaTeX.](https://commutative.xyz/~miguelmurca/blog/x/illihl.html) ([HN](https://news.ycombinator.com/item?id=31490136))
 - [Exploring Nix Flakes: Build LaTeX Documents Reproducibly (2021)](https://flyx.org/nix-flakes-latex/)
+- [unified-latex](https://github.com/siefkenj/unified-latex) - Utilities for parsing and manipulating LaTeX ASTs with the Unified.js framework.
