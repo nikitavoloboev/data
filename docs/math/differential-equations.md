@@ -39,3 +39,4 @@ title: Differential equations
 - [DOLFINx](https://github.com/FEniCS/dolfinx) - Computational environment of FEniCSx and implements the FEniCS Problem Solving Environment in Python and C++.
 - [PyTorch Implementation of Differentiable SDE Solvers](https://github.com/google-research/torchsde)
 - [Probabilistic Numerics for Differential Equations | Nathanael Bosch (2021)](https://www.youtube.com/watch?v=EMFl6ytP3iQ)
+- [heyoka.py](https://github.com/bluescarni/heyoka.py) - Python library for ODE integration via Taylor's method and LLVM.

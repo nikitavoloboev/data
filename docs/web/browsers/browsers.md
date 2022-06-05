@@ -223,3 +223,5 @@
 - [Global Speed](https://github.com/polywock/globalSpeed) - Web extension to set a default speed for video and audio.
 - [Programmer Browser](https://github.com/yessGlory17/programmer-browser) - Fast-searching and space-saving browser specially designed for programmers.
 - [Replay.io Browser Extension Architecture proof of concept](https://github.com/RecordReplay/devtools/pull/6992)
+- [Selenium Requests](https://github.com/cryzed/Selenium-Requests) - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.
+- [selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.

@@ -87,3 +87,4 @@ title: Polkadot
 - [Substrate Front End Template](https://github.com/substrate-developer-hub/substrate-front-end-template) - Polkadot.js API + React based template for building Substrate Front Ends.
 - [CESS Cumulus Encrypted Storage System](https://www.cess.cloud/) - Distributed cloud data network with user friendly ledgers, novel consensus mechanism, multiple data authenticity proof schemes, and reliable network infrastructure. ([Code](https://github.com/CESSProject/cess))
 - [Awesome Substrate](https://github.com/substrate-developer-hub/awesome-substrate)
+- [Zombienet](https://github.com/paritytech/zombienet) - CLI tool to easily spawn ephemeral Polkadot/Substrate networks and perform tests against them.

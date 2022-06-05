@@ -187,6 +187,7 @@
 - [sqlvalidator](https://github.com/David-Wobrock/sqlvalidator) - SQL queries formatting, syntactic and semantic validation.
 - [pg8000](https://github.com/tlocke/pg8000) - Pure-Python PostgreSQL Driver.
 - [iopath](https://github.com/facebookresearch/iopath) - Python library that provides common I/O interface across different storage backends.
+- [cloudpathlib](https://github.com/drivendataorg/cloudpathlib) - Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage.
 
 ## GUI
 

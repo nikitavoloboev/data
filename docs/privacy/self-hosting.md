@@ -34,3 +34,4 @@
 - [pinvault](https://github.com/raffomania/pinvault) - Personal, multi-media, distributed and social web archiving tool. Think Pinterest, mastodon, the internet archive and BitTorrent mashed up in a single app.
 - [Homarr](https://github.com/ajnart/homarr) - Simple and lightweight homepage for your server, that helps you easily access all of your services in one place.
 - [dash.](https://github.com/MauriceNino/dashdot) - Simple, modern server dashboard, primarily used by smaller private servers.
+- [MicroBin](https://github.com/szabodanika/microbin) - Tiny, self-contained, configurable paste bin and URL shortener written in Rust.

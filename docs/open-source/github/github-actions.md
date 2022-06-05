@@ -269,6 +269,7 @@ title: GitHub actions
 - [Install Poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry.
 - [maturin-action](https://github.com/messense/maturin-action) - GitHub Action to install and run a custom maturin command.
 - [pyright-action](https://github.com/jakebailey/pyright-action) - GitHub action for pyright.
+- [actions-poetry](https://github.com/abatilo/actions-poetry) - GitHub Actions for Python projects using poetry.
 
 ## JS
 
