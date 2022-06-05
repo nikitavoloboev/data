@@ -190,3 +190,4 @@
 - [Design System in 90 Days](https://superfriendly.com/design-systems/books/design-system-90-days/)
 - [Cobalt](https://cobalt-ui.pages.dev/docs/getting-started/) - Turns your design tokens into code. ([Code](https://github.com/drwpow/cobalt-ui))
 - [Awesome design language system](https://github.com/DragorWW/awesome-design-language-system)
+- [Why most design systems implode (2022)](https://storybook.js.org/blog/why-most-design-systems-implode/)

@@ -6,6 +6,8 @@ title: Tailwind CSS
 
 [Tailwind UI](https://tailwindui.com/), [Meraki UI](https://merakiui.com/components/) & [TailwindCSS Radix](https://tailwindcss-radix.vercel.app/) have nice components. [UI Devtools](https://www.ui-devtools.com/) is useful tool.
 
+[UnoCSS](https://uno.antfu.me/) is a [nice alternative](https://antfu.me/posts/reimagine-atomic-css).
+
 ## Notes
 
 - [You can get all the Tailwind JIT goodness you like just by adding a single script tag to the head of your document.](https://twitter.com/lukejacksonn/status/1393563736942825481)

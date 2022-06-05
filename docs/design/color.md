@@ -170,3 +170,4 @@
 - [Thread about canvas rendering optimization for the OKLCH color picker](https://twitter.com/sitnikcode/status/1529880449023082498)
 - [theme-colors](https://github.com/unjs/theme-colors) - Easily generate color shades for themes.
 - [Benjamin Moore Paints as CSS Colors](https://bm.wesbos.com/)
+- [How to pick the least wrong colors (2022)](https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/)

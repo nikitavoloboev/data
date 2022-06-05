@@ -530,3 +530,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Искусство тонких черт: иллюстрации художника Shal.E (2022)](https://disgustingmen.com/art/illyustratsii-hudozhnika-shal-e/)
 - [Toward Modeling Creative Processes for Algorithmic Painting (2022)](https://arxiv.org/abs/2205.01605) ([Tweet](https://twitter.com/AaronHertzmann/status/1521659980813770752))
 - [What Artists Notice](https://stopa.io/post/294)
+- [The Pixel Art Tutorial](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)

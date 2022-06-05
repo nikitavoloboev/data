@@ -72,3 +72,4 @@ These health focuses are part of my [life rules](../focusing/rules.md).
 - [Артем Никитин - об энергетиках, еде на ночь, язвах и молочке (2022)](https://www.youtube.com/watch?v=a_MtdYi9wzM)
 - [Ask HN: How can you buy high quality healthcare? (2022)](https://news.ycombinator.com/item?id=31530176)
 - [Paloma](https://www.palomahealth.com/) - Online Medical Practice Focused on Hypothyroidism.
+- [Ceiling Air Purifier](https://www.jefftk.com/p/ceiling-air-purifier)

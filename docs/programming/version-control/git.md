@@ -545,3 +545,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [Git Under the Hood (2022)](https://articles.foletta.org/post/git-under-the-hood/)
 - [switch-branch-cli](https://github.com/vadimdemedes/switch-branch-cli) - Switch Git branches by their pull request title.
 - [ugit](https://github.com/Bhupesh-V/ugit) - Undo your last oopsie in git.
+- [Git Switch and Restore: an Improved User Experience (2020)](https://tanzu.vmware.com/developer/blog/git-switch-and-restore-an-improved-user-experience/)
