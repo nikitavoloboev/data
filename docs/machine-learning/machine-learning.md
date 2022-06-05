@@ -1,6 +1,6 @@
 # Machine learning
 
-[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community. [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) & [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU) are great. [MLU-Explain](https://mlu-explain.github.io/) is a [great ML visual explainer](https://news.ycombinator.com/item?id=31455919).
+[Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community & [tools](https://twitter.com/abhi1thakur/status/1533416501792935938). [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) & [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU) are great. [MLU-Explain](https://mlu-explain.github.io/) is a [great ML visual explainer](https://news.ycombinator.com/item?id=31455919).
 
 ## Notes
 
