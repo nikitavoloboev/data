@@ -42,3 +42,4 @@
 - [FormatJS](https://github.com/formatjs/formatjs) - Internationalize your web apps on the client & server. ([Web](https://formatjs.io/))
 - [Phrasebook](https://github.com/loveholidays/phrasebook) - Significantly smaller drop in replacement for react-i18next.
 - [SimplyTranslate](https://simplytranslate.org/) - Provide fast and private translations to the user without wasting much overhead for extensive styling or JavaScript. ([Web Code](https://codeberg.org/SimpleWeb/SimplyTranslate-Web/src/branch/master/api.md)) ([Example Go CLI using it](https://github.com/fedeztk/got))
+- [Kotoba](https://github.com/top-gg/kotoba) - Re-organize your translations into multiple files and turn them into typescript declarations.

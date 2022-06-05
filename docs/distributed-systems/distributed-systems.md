@@ -267,3 +267,4 @@
 - [Distributed Systems Shibboleths (2022)](https://jolynch.github.io/posts/distsys_shibboleths/) ([HN](https://news.ycombinator.com/item?id=31217802))
 - [minicache](https://github.com/malwaredllc/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both HTTP/gRPC interfaces secured with mTLS.
 - [Sprinkle](https://github.com/dominichamon/sprinkle) - Run jobs on distributed machines easily.
+- [Fallacies of distributed systems (2022)](https://architecturenotes.co/fallacies-of-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31626132))

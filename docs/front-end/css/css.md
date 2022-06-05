@@ -515,3 +515,4 @@ all: unset
 - [Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D (2022)](https://css-tricks.com/css-hover-effects-background-masks-3d/)
 - [grass](https://github.com/connorskees/grass) - Near-feature-complete Sass compiler written purely in Rust.
 - [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
+- [100 Modern CSS Buttons](https://github.com/eludadev/css-buttons)

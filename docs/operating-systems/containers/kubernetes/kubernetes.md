@@ -748,3 +748,4 @@ title: Kubernetes
 - [Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs? (2022)](https://news.ycombinator.com/item?id=31580763)
 - [Kritis](https://github.com/grafeas/kritis) - Deploy-time Policy Enforcer for Kubernetes applications.
 - [Stop Messing with Kubernetes Finalizers (2022)](https://martinheinz.dev/blog/74)
+- [Kubernetes Reference Docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs.

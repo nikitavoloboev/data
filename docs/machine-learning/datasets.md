@@ -172,3 +172,4 @@
 - [Datasets for Entity Recognition](https://github.com/juand-r/entity-recognition-datasets) - Collection of corpora for named entity recognition (NER) and entity recognition tasks. These annotated datasets cover a variety of languages, domains and entity types.
 - [AudioLoader](https://github.com/KinWaiCheuk/AudioLoader) - PyTorch Dataset for Speech and Music audio.
 - [Awesome Training Data](https://github.com/diffgram/awesome-training-data)
+- [MIDI Dataset](https://github.com/craffel/midi-dataset) - Code for creating a dataset of MIDI ground truth.

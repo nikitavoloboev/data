@@ -50,7 +50,7 @@ title: Linux
 ## Launchers
 
 - [rofi](https://github.com/DaveDavenport/rofi) - Window switcher, application launcher and dmenu replacement.
-- [Albert](https://github.com/albertlauncher/albert) - Fast and flexible keyboard launcher.
+- [Albert](https://github.com/albertlauncher/albert) - Fast and flexible keyboard launcher. ([Web](https://albertlauncher.github.io/)) ([HN](https://news.ycombinator.com/item?id=31625407))
 
 ## Games
 

@@ -206,3 +206,5 @@ title: Type Theory
 - [What is a type?](https://twitter.com/sliminality/status/1521546506452447233)
 - [Interactive Type Inference: Play with algorithm W in your browser](https://domdomegg.github.io/cs310/) ([Code](https://github.com/domdomegg/cs310))
 - [Stagedtt](https://github.com/RedPRL/stagedtt) - Staged Type Theory.
+- [System Fω with Row-Polymorphism](https://github.com/tominated/system_f_omega)
+- [Fωμ type checker and compiler](https://github.com/polytypic/f-omega-mu)

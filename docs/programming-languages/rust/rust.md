@@ -808,3 +808,4 @@ title: Rust
 - [Rust Is Hard, Or: The Misery of Mainstream Programming (2022)](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html) ([HN](https://news.ycombinator.com/item?id=31601040))
 - [Async Rust doesn't have to be hard (2022)](https://itsallaboutthebit.com/async-simple/) ([HN](https://news.ycombinator.com/item?id=31611456)) ([Reddit](https://www.reddit.com/r/rust/comments/v44tp2/async_rust_doesnt_have_to_be_hard/))
 - [Creating a minimal ELF-64 file with Rust](https://github.com/tchajed/minimal-elf)
+- [Why Rust easily optimizes out smart pointers where C++ cannot? (2022)](https://news.ycombinator.com/item?id=31626508)

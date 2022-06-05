@@ -163,6 +163,7 @@
 - [fantoccini](https://github.com/jonhoo/fantoccini) - High-level API for programmatically interacting with web pages through WebDriver.
 - [Okapi](https://github.com/GREsau/okapi) - OpenAPI (AKA Swagger) document generation for Rust projects.
 - [HTTP Body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait.
+- [FeignHTTP](https://github.com/dxx/feignhttp) - Declarative HTTP client for rust.
 
 ## WASM
 
@@ -1917,6 +1918,7 @@
 - [substrait-rs](https://github.com/substrait-io/substrait-rs) - Rust bindings for substrait.
 - [dptree](https://github.com/teloxide/dptree) - Asynchronous event dispatch mechanism for Rust.
 - [enum-map](https://github.com/xfix/enum-map) - Library providing enum map providing type safe enum array.
+- [etcd-rs](https://github.com/lodrem/etcd-rs) - etcd client for Rust backed by tokio and tonic.
 
 ## Cargo Plugins
 

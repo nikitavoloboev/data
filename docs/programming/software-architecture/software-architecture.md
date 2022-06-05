@@ -240,3 +240,4 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [What would you use to build a real-time sync & offline app in 2022?](https://twitter.com/_egoistlily/status/1531556999670165505)
 - [Ask HN: Visualizing software designs, especially of large systems (if at all)? (2022)](https://news.ycombinator.com/item?id=31569646)
 - [Entity Component System FAQ](https://github.com/SanderMertens/ecs-faq)
+- [Ask HN: Why aren't code diagram generating tools more common? (2022)](https://news.ycombinator.com/item?id=31620002)

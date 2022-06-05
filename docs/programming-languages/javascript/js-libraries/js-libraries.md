@@ -942,6 +942,7 @@
 - [AST Query](https://github.com/SBoudrias/AST-query) - Simple JavaScript AST modification library.
 - [Handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 - [collect.js](https://github.com/ecrmnn/collect.js) - Convenient and dependency free wrapper for working with arrays and objects.
+- [typeson.js](https://github.com/dfahlander/typeson) - Preserves types over JSON, BSON or socket.io.
 
 ## Links
 
