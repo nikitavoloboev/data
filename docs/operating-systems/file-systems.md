@@ -28,7 +28,7 @@
 - [An Introduction to ZFS (2020)](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/) ([HN](https://news.ycombinator.com/item?id=25157491))
 - [vmtouch](https://hoytech.com/vmtouch/) - Portable file system cache diagnostics and control. ([Code](https://github.com/hoytech/vmtouch))
 - [Modern storage is plenty fast. It is the APIs that are bad (2020)](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a) ([HN](https://news.ycombinator.com/item?id=25217323))
-- [Supertag](https://github.com/amoffat/supertag) - Tag-based filesystem, written in Rust, for Linux and MacOS. ([Docs](https://amoffat.github.io/supertag/))
+- [Supertag](https://github.com/amoffat/supertag) - Tag-based filesystem, written in Rust, for Linux and MacOS. ([Docs](https://amoffat.github.io/supertag/)) ([Lobsters](https://lobste.rs/s/zw0jqh/supertag_tag_based_file_system_for_linux))
 - [DwarFS](https://github.com/mhx/dwarfs) - Fast high compression read-only file system.
 - [ID mapping for mounted filesystems](https://lwn.net/SubscriberLink/837566/33dbf767adaf9bd4/)
 - [Filesystem and Database are not cutting the problem space right (2020)](https://boomla.com/blog/filesystem-and-database-are-not-cutting-the-problem-space-right) ([Lobsters](https://lobste.rs/s/7vebdc/filesystem_database_are_not_cutting))

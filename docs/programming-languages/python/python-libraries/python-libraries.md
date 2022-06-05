@@ -1035,3 +1035,4 @@
 - [Writing Python modules in Zig](https://www.reddit.com/r/Zig/comments/k2bv2j/writing_python_modules_in_zig/)
 - [Import Tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library. ([HN](https://news.ycombinator.com/item?id=31507106))
 - [Pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness.
+- [Pyan3](https://github.com/davidfraser/pyan) - Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods.
