@@ -120,3 +120,4 @@ title: Minecraft
 - [HMCL](https://github.com/huanghongxun/HMCL) - Minecraft Launcher which is multi-functional, cross-platform and popular.
 - [Ferium](https://github.com/theRookieCoder/ferium) - CLI Minecraft mod manager for mods from Modrinth, CurseForge, and Github Releases. ([Reddit](https://www.reddit.com/r/rust/comments/umcu1j/media_ferium_the_cli_minecraft_mod_manager/))
 - [Vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft.
+- [Litematica](https://github.com/maruohon/litematica) - Modern client-side schematic mod for Minecraft.

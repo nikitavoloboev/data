@@ -177,3 +177,4 @@ title: Vue.js
 - [Vue3 Composition API: watchEffect vs. watch (2022)](https://blog.openreplay.com/vue3-composition-api-watcheffect-vs-watch)
 - [SlimeForm](https://github.com/LittleSound/slimeform) - Form state management and validation for Vue3.
 - [The Nuxt Web (2022)](https://twitter.com/Atinux/status/1532405883929608197)
+- [Anthony Fu - Vue, Vite, Vitest, UnoCSS (2022)](https://www.youtube.com/watch?v=At91HkUmAY0)
