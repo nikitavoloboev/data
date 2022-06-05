@@ -516,3 +516,4 @@ all: unset
 - [grass](https://github.com/connorskees/grass) - Near-feature-complete Sass compiler written purely in Rust.
 - [Stretch](https://github.com/vislyhq/stretch) - High performance flexbox implementation written in rust.
 - [100 Modern CSS Buttons](https://github.com/eludadev/css-buttons)
+- [Pure CSS image zoom using CSS primitives](https://twitter.com/jh3yy/status/1532145806278533120)

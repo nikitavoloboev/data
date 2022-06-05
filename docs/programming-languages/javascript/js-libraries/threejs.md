@@ -119,3 +119,4 @@ title: Three.js
 - [three-filmic](https://github.com/donmccurdy/three-filmic) - Film emulsion-like rendering transforms for three.js.
 - [LunchboxJS](https://github.com/breakfast-studio/lunchboxjs) - Custom Vue 3 renderer for ThreeJS. ([Docs](https://docs.lunchboxjs.com/))
 - [r3f-spline](https://github.com/splinetool/r3f-spline) - Hook to load Spline scenes into react-three-fiber.
+- [vfx](https://github.com/hmans/vfx) - Visual effects library for react-three-fiber.

@@ -2,6 +2,7 @@
 
 ## Notes
 
+- [Germany, particularly Berlin, have a pretty vibrant startup eco-system. If you are just trying ideas, there is no need to register a business (legally you only have to do this once you intend to follow through long term). You can register a business for 35€ - most cities offer this online. Registering a limited liability company is a little more complicated (you need a 1h appointment with a notary), but can be done from 500€ onwards. If you plan to do less than 50.000€ in revenue this year you qualify as a micro business and don‘t need to file or pay VAT. You only need to file an annual account within a year of the financial year ending. Cost of this starts at around 500€. Our legal system and corporate culture is set up in a way that you are very unlikely to be sued for damages. So even medium sized companies (several million in revenue) frequently operate as full liability companies.](https://news.ycombinator.com/item?id=31622265)
 - [I've never met anyone how wants to start his second company in Germany after having started his first one there.](https://twitter.com/thefrankbraun/status/1341199262852538369)
 - [Germany is pretty much the most approachable option for plenty of non-EU skilled workers, especially in IT. If you're European and you're not experienced, UK and especially Switzerland are still more restrictive from what I'm noticing. The only remaining option is Netherlands where for non-EU people opportunities seem to be less numerous and citizenship potential much less likely. Germany is definitely one of the better options even though the tax system is beyond dumb imo (if your net income is 57k you pay the same portion for taxes and social contributions as someone who earns 250k, that is laughably stupid in my view, but it doesn't change the fact that Germany has a lot to offer)](https://www.reddit.com/r/cscareerquestionsEU/comments/rmvie4/i_think_there_should_be_more_focus_on_net_salary/)
 
@@ -41,3 +42,4 @@
 - [Why Germany is hooked on Russian gas (2022)](https://www.youtube.com/watch?v=iMiQeS1XywA)
 - [Flathunter](https://github.com/flathunters/flathunter) - Telegram bot to help people with their flat search. In Germany.
 - [Irish and German people offering things](https://twitter.com/killersundymann/status/1446131283969589250)
+- [How I would start my next startup in Germany without a GmbH (2020)](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh) ([HN](https://news.ycombinator.com/item?id=31601638))

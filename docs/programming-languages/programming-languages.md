@@ -7,6 +7,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 ## Notes
 
 - [I have a very concrete approach for creating categorical models/semantics for PLs. I express the syntax as a GADT, wrap it with a free(r) monad, then work with the resulting kleisli category.](https://twitter.com/tangled_zans/status/1441434927149420547)
+- [In general, our software benefits when we use as few languages as possible, because programming languages have such powerful network effects. Embedded DSLs are usually strongly preferable to freestanding ones because we get to reuse so much knowledge and infrastructure.](https://twitter.com/lexi_lambda/status/1533445067381387268)
 
 ## Links
 

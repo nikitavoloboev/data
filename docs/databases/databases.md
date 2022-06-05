@@ -6,12 +6,13 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 
 [Metabase](https://github.com/metabase/metabase) is a great SQL queries visualizer. [Database access optimization doc](https://docs.djangoproject.com/en/4.0/topics/db/optimization/) is a good read.
 
-[Ditto](https://www.ditto.live/) & [Replicache](https://replicache.dev/) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools.
+[Ditto](https://www.ditto.live/), [Replicache](https://replicache.dev/) & [Tuple Database](https://github.com/ccorcos/tuple-database) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools.
 
 ## Interesting
 
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming SQL Database powered by Timely Dataflow. ([Web](https://materialize.io/))
 - [PlanetScale](https://www.planetscale.com/) - Database for Developers. ([HN](https://news.ycombinator.com/item?id=27197873)) ([Release Article](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers))
+- [Tuple Database](https://github.com/ccorcos/tuple-database) - Local-first, "end-user database" database. Embedded FoundationDB. Reactive indexable graph database. ([Tweet](https://twitter.com/ccorcos/status/1532185301438738433))
 - [LMDB Store](https://github.com/DoctorEvidence/lmdb-store) - Simple, efficient, ultra-fast, scalable data store wrapper for LMDB.
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage. ([Rocksplicator - RocksDB Replication](https://github.com/pinterest/rocksplicator))
@@ -621,4 +622,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Building a Cloud Database from Scratch: Why We Moved from C++ to Rust (2022)](https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/) ([HN](https://news.ycombinator.com/item?id=31535158))
 - [LSI: A Learned Secondary Index Structure (2022)](https://arxiv.org/abs/2205.05769)
 - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores (2015)](https://arxiv.org/abs/1509.07815) ([Review](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html))
-- [Tuple Database](https://github.com/ccorcos/tuple-database) - Local-first, "end-user database" database. Embedded FoundationDB. Reactive indexable graph database.
+- [MiniSQL](https://github.com/BMS-2021/MiniSQL) - Designed to be a distributed relational database system. Final project of ZJU Database System Concept course.

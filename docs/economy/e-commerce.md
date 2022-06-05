@@ -155,3 +155,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Shopify UI Extensions](https://github.com/Shopify/ui-extensions)
 - [Ask HN: Which front-end tool would you use to build an e-commerce web app today? (2022)](https://news.ycombinator.com/item?id=31506490)
 - [Ask HN: Anyone else quickly losing confidence in Amazon? (2022)](https://news.ycombinator.com/item?id=31624401)
+- [Reasons for Abondonments During Checkout](https://twitter.com/_TommyMason/status/1533375546817658882)
