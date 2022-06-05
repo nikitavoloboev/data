@@ -82,7 +82,7 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [SendGrid](https://sendgrid.com/) - Email Delivery Service.
 - [HEY](https://hey.com/) - Email client. ([Tour of the app](https://www.youtube.com/watch?v=UCeYTysLyGI)) ([The HEY Way](https://hey.com/the-hey-way/)) ([HEY Q&A AMA w/ JF + DHH](https://www.youtube.com/watch?v=6T4NwqCn6Bk))
 - [mime-db](https://github.com/jshttp/mime-db) - Media Type Database.
-- [Delta Chat](https://delta.chat/en/) - Chat over e-mail.
+- [Delta Chat](https://delta.chat/en/) - Instant E-Mail Messaging. ([GitHub](https://github.com/deltachat))
 - [Lettre](https://github.com/lettre/lettre) - Email rust library that allows creating and sending messages. ([Docs](https://lettre.at/))
 - [Abstract's Expired Trial Email](https://www.swipefiles.co/latest/file) ([Tweet](https://twitter.com/coreyhainesco/status/1275569632523350016))
 - [Advice on writing effective emails](https://rosiecampbell.me/on-writing-effective-emails)

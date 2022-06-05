@@ -117,3 +117,4 @@ title: BitTorrent
 - [BitChan](https://github.com/majestrate/bitchan) - BitTorrent Image Board.
 - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES) ([HN](https://news.ycombinator.com/item?id=31461070))
 - [Zetflix](https://zetfix.online/) - Смотреть фильмы и сериалы от компании Нетфликс онлайн.
+- [Seedbox](https://github.com/jfroment/seedbox) - Docker-powered seedbox with persistent data and more cool stuff.

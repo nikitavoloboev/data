@@ -400,3 +400,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Automatic SDK generation from an OpenAPI definition](https://github.com/readmeio/api)
 - [Paginating Requests in APIs (2020)](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c) ([HN](https://news.ycombinator.com/item?id=31541070))
 - [Thin Platforms – Stratechery (2022)](https://stratechery.com/2022/thin-platforms/)
+- [Serverless OpenAPI Documentation Plugin](https://github.com/apalchys/serverless-openapi-documentation) - Generates OpenAPI 3.0.0 documentation from serverless configuration files.

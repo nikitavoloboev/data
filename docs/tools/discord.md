@@ -167,3 +167,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [Linen](https://www.linen.dev/) - Make your Discord community Google-searchable. ([HN](https://news.ycombinator.com/item?id=31494908))
 - [discord-drive](https://github.com/iShibi/discord-drive) - CLI tool to use Discord as a cloud storage.
 - [coxir](https://github.com/satom99/coxir) - Modern Elixir wrapper for Discord.
+- [Discord Previews](https://discordpreviews.com/) - Your #1 source for the latest Discord news. ([Code](https://github.com/NurMarvin/discordpreviews.com))
