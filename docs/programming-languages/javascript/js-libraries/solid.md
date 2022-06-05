@@ -92,3 +92,4 @@ I am trying to use SolidJS for all web apps and static sites I build now. Curren
 - [rollup-preset-solid](https://github.com/amoutonbrady/rollup-preset-solid) - Small opinionated preset for rollup to bundle your solid libraries with rollup.
 - [SolidJS: Past, Present, Future (2022)](https://www.youtube.com/watch?v=dOgnQ9SuKYk)
 - [Solid JS and How its Different | Ryan Carniato (2022)](https://www.youtube.com/watch?v=O4sgwuMQns0)
+- [Solid Virtual Scroll](https://github.com/Supertigerr/solid-virtual-scroll)

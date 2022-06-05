@@ -393,3 +393,4 @@ title: Node.js
 - [Lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
 - [mojo.js](https://github.com/mojolicious/mojo.js) - Real-time web framework for Node.js.
 - [better-logging](https://github.com/Olian04/better-logging) - Drop in replacement for the default logging methods of node.js.
+- [Functions Framework for Node.js](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - Open source FaaS (Function as a Service) framework based on Express for writing portable Node.js functions.

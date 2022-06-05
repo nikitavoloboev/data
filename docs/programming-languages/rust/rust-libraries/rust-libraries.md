@@ -301,6 +301,7 @@
 - [dilemma](https://github.com/davidpdrsn/dilemma) - SQL query builder favoring composition over compile time safety.
 - [Catalytic](https://github.com/Jasperav/Catalytic) - ScyllaDB and Cassandra Object-Relation Mapper.
 - [duckdb-rs](https://github.com/wangfenjin/duckdb-rs) - Ergonomic bindings to duckdb for Rust.
+- [rust-kv](https://github.com/zshipko/rust-kv) - Embedded key/value store for Rust built on sled.
 
 ## Video
 
@@ -595,6 +596,7 @@
 - [svd2rust](https://github.com/rust-embedded/svd2rust) - Generate Rust register maps (structs) from SVD files.
 - [stm32l0xx-hal](https://github.com/stm32-rs/stm32l0xx-hal) - Hardware abstraction layer (HAL) for the STM32L0 series microcontrollers written in Rust.
 - [webusb](https://github.com/littledivy/webusb) - WebUSB API implementation in Rust (and Deno).
+- [salty](https://github.com/ycrypto/salty) - Ed25519 signatures for microcontrollers.
 
 ## ML
 

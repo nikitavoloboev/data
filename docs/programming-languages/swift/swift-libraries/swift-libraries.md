@@ -1153,6 +1153,8 @@
 - [Music Notation](https://github.com/music-notation-swift/music-notation) - Cross-Platform Music Notation API written in Swift.
 - [GzipSwift](https://github.com/1024jp/GzipSwift) - Swift framework that enables gzip/gunzip Data using zlib.
 - [AsyncSequenceReader](https://github.com/mochidev/AsyncSequenceReader) - Building blocks to easily consume Swift's `AsyncSequence`.
+- [RichTextKit](https://github.com/danielsaidi/RichTextKit) - Swift-based library for working with rich text in UIKit, AppKit and SwiftUI.
+- [BigInt](https://github.com/leif-ibsen/BigInt) - Arbitrary-precision integer arithmetic in Swift.
 
 ## Other (not lib)
 
