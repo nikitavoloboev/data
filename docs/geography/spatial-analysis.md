@@ -207,3 +207,4 @@ title: Spatial analysis
 - [Felt](https://felt.com/) - Best way to make maps on the internet. ([Tweet](https://twitter.com/felt/status/1531666570732154880)) ([Twitter](https://twitter.com/felt))
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python.
 - [Real-time Map](https://github.com/asynkron/realtimemap-go) - Displays real-time positions of public transport vehicles in Helsinki. Showcase for Proto.Actor - an ultra-fast distributed actors solution.
+- [node-gdal](https://github.com/naturalatlas/node-gdal) - Node.js bindings for GDAL (Geospatial Data Abstraction Library).

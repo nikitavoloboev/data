@@ -244,3 +244,4 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Decrypted versions of Telegram for iOS](https://github.com/MarshalX/decrypted-telegram-ios)
 - [Telegram Crawler](https://github.com/MarshalX/telegram-crawler) - Automatically detect changes made to the official Telegram sites. ([Bot](https://t.me/tgcrawl))
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls) - Async client API for the Telegram Group Calls.
+- [tg-file-id](https://github.com/smaznet/tg-file-id) - Simple nodejs module to decode file_id and file_uniq_id of telegram bots.

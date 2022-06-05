@@ -158,3 +158,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Can the World Feed Itself? Historic Fertilizer Crunch Threatens Food Security (2022)](https://www.bloombergquint.com/politics/farmers-are-struggling-to-keep-up-food-supply-as-fertilizer-prices-surge) ([HN](https://news.ycombinator.com/item?id=31232814))
 - [After millennia of expansion, the world has passed ‘peak agricultural land’ (2022)](https://ourworldindata.org/peak-agriculture-land) ([HN](https://news.ycombinator.com/item?id=31570698))
 - [Ask HN: SWE who started an organic farm in Europe, where did you go? (2022)](https://news.ycombinator.com/item?id=31619263)
+- [Pipedream Labs](https://i.pipedreamlabs.co/) - Making 30 second delivery times possible this decade w/ underground pipes. ([Twitter](https://twitter.com/pipedream_labs)) ([Tweet](https://twitter.com/thegarrettscott/status/1516499134576046087))

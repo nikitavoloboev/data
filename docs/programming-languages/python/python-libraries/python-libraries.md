@@ -880,6 +880,7 @@
 - [thx](https://github.com/omnilib/thx) - Simple, composable command runner for Python projects.
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory.
+- [csvkit](https://github.com/wireservice/csvkit) - Suite of utilities for converting to and working with CSV, the king of tabular file formats.
 
 ## Notes
 

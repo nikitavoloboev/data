@@ -334,3 +334,5 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Proposal: GraphQL Composite Schemas Working Group](https://github.com/graphql/graphql-wg/pull/977)
 - [GraphQL Hive](https://github.com/kamilkisiela/graphql-hive) - Provides all the tools the get visibility of your GraphQL architecture at all stages, from standalone APIs to composed schemas (Federation, Stitching). ([Web](https://graphql-hive.com/))
 - [Uploading files to GraphQL Server with URQL (2022)](https://estebanborai.com/notes/uploading-files-to-graphql-server-with-urql)
+- [gqlclient](https://git.sr.ht/~emersion/gqlclient) - GraphQL client and code generator for Go.
+- [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal. ([HN](https://news.ycombinator.com/item?id=31618487))
