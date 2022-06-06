@@ -1928,6 +1928,7 @@
 - [borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing.
 - [faktory-rs](https://github.com/jonhoo/faktory-rs) - Rust bindings for Faktory clients and workers.
 - [Lofty](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library.
+- [opt-rs](https://github.com/t-young31/opt-rs) - Lightweight molecular mechanics optimization code written in rust.
 
 ## Cargo Plugins
 

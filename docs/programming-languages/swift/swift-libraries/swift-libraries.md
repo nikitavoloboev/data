@@ -518,6 +518,7 @@
 - [Spiral](https://github.com/buh/Spiral) - SwiftUI shape for macOS, iOS and watchOS.
 - [RefreshableScrollView](https://github.com/elegantchaos/RefreshableScrollView) - SwiftUI ScrollView supporting pull-to-refresh.
 - [FastList](https://github.com/elegantchaos/FastList) - Bare-bones replacement for SwiftUI List, intended to work around some of List's performance issues.
+- [NavigationSearchBarModifier](https://github.com/stleamist/NavigationSearchBarModifier) - Clean way to attach a search bar with a scope bar in SwiftUI.
 
 ## Test
 

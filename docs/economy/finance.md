@@ -199,3 +199,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Tips for financial responsibility](https://twitter.com/Rational_Answer/status/1023120471926218753)
 - [Stripe App Marketplace](https://marketplace.stripe.com/) ([HN](https://news.ycombinator.com/item?id=31494001)) ([Tweet](https://twitter.com/auchenberg/status/1529131505364062208))
 - [Ask HN: How do you record your personal finances? (2022)](https://news.ycombinator.com/item?id=31605741)
+- [Awesome Systematic Trading](https://github.com/wangzhe3224/awesome-systematic-trading)

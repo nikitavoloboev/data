@@ -13,6 +13,7 @@
 - [Angelina (@mimilinism)](https://www.instagram.com/mimilinism/)
 - [Sasha Hain](https://www.instagram.com/ianhain/)
 - [mus.tattoo](https://www.instagram.com/mus.tattoo/)
+- [Alisa Sayapina](https://www.instagram.com/sayapski/)
 
 ## Interesting artists
 

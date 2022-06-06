@@ -333,6 +333,7 @@
 - [mason](https://github.com/fumieval/mason) - Builder & IO library.
 - [process](https://github.com/haskell/process) - Library for dealing with system processes.
 - [manifolds](https://github.com/leftaroundabout/manifolds) - Coordinate-free hypersurfaces as Haskell types.
+- [chimera](https://github.com/Bodigrim/chimera) - Lazy infinite compact streams with cache-friendly O(1) indexing and applications for memoization.
 
 ## Notes
 

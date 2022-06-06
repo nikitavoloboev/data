@@ -193,3 +193,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [How To Say No](https://www.starterstory.com/how-to-say-no) - Templates to help you say no in any situation.
 - [We don't show typing status (2022)](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing) ([HN](https://news.ycombinator.com/item?id=31587139))
 - [Ask HN: Where do you go for discourse? (2022)](https://news.ycombinator.com/item?id=31582270)
+- [Советы по знакомству тред](https://twitter.com/M0rtyMerr/status/1533816456827260928)

@@ -77,3 +77,11 @@ title: Chemistry
 - [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials)
 - [Call for a Public Open Database of All Chemical Reactions (2022)](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01140)
 - [openmoltools](https://github.com/choderalab/openmoltools) - Tools for Small Molecules, Antechamber, OpenMM, and More.
+- [autodE](https://github.com/duartegroup/autodE) - Automated reaction profile generation.
+- [molfunc](https://github.com/duartegroup/molfunc) - Python tool for functionalization of 3D molecules.
+- [Morfeus](https://github.com/kjelljorner/morfeus) - Python package for calculating molecular features.
+- [C++ Programming Tutorial in Chemistry](https://github.com/CrawfordGroup/ProgrammingProjects)
+- [NWChem](https://github.com/nwchemgit/nwchem) - Open Source High-Performance Computational Chemistry.
+- [Psi4](https://github.com/psi4/psi4) - Open-Source Quantum Chemistry – an electronic structure package in C++ driven by Python.
+- [xtb](https://github.com/grimme-lab/xtb) - Semiempirical Extended Tight-Binding Program Package.
+- [PENSA](https://github.com/drorlab/pensa) - Protein Ensemble Analysis.

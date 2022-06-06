@@ -268,6 +268,7 @@
 - [DBInterface.jl](https://github.com/JuliaDatabases/DBInterface.jl) - Database interface definitions for Julia.
 - [SQLREPL.jl](https://github.com/c42f/SQLREPL.jl) - Julia REPL mode for SQL.
 - [LibPQ](https://github.com/invenia/LibPQ.jl) - Julia wrapper for libpq.
+- [SQLStrings](https://github.com/JuliaComputing/SQLStrings.jl) - Safe interpolations for SQL query strings.
 
 ## Error
 
@@ -616,6 +617,7 @@
 - [Accessors](https://github.com/JuliaObjects/Accessors.jl) - Update immutable data.
 - [ParserCombinator](https://github.com/andrewcooke/ParserCombinator.jl) - Parser combinator library for Julia.
 - [CSV](https://github.com/JuliaData/CSV.jl) - Fast, flexible delimited file reader/writer for Julia.
+- [LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - Native Julia code for lattice QCD with dynamical fermions in 4 dimension.
 
 ## Links
 

@@ -126,6 +126,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [WWDC22 Swift Student Challenge Submission](https://github.com/henribredt/Typography-WWDC22)
 - [Pegboard](https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor) - Creative workspace with node-based editor built-in. Purely written in SwiftUI.
 - [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks) - Effortlessly take control of your day with Hour Blocks: Day Planner for iOS and macOS.
+- [Life Progress](https://github.com/tienphaw/LifeProgress) - Friendly reminder that you're not gonna live forever.
 
 ## Other
 
@@ -480,3 +481,4 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Building iOS Apps with Swift, TDD & Clean Architecture](https://github.com/essentialdevelopercom/quiz-app)
 - [Как стать iOS-разработчиком и быстро выучить Swift (2022)](https://skillbox.ru/media/code/kak-vyuchit-swift-i-stat-iosrazrabotchikom-poshagovyy-plan-ot-roadmap-do-sobesedovaniy/)
 - [2022 Apple Design Award Finalists](https://developer.apple.com/design/awards/)
+- [react-xib](https://github.com/EvanBacon/react-xib) - React for Apple Interface Builder. This is useful for creating complex Apple Launch Screens (Splash Screens).

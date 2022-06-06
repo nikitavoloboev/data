@@ -409,3 +409,4 @@ title: PyTorch
 - [PyTorch Topological](https://github.com/aidos-lab/pytorch-topological) - Topological machine learning framework based on PyTorch.
 - [Optimizers](https://github.com/facebookresearch/optimizers) - PyTorch optimization algorithms.
 - [MinT](https://github.com/dpressel/mint) - Minimal Transformer Library and Tutorials.
+- [Apple Neural Engine (ANE) Transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE.

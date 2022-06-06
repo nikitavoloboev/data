@@ -183,3 +183,4 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [How to Make a Docs Site: Shortcuts for Busy Devs](https://github.com/jablonskidev/how-to-make-a-docs-site)
 - [How do you create documentation websites today? (2022)](https://twitter.com/mxstbr/status/1526584813301313536)
 - [What Fields](https://whatfields.com/) - Way to quickly write & share documentation for anything (API, database etc).
+- [Useful resources for folks building docs in open source](https://twitter.com/rachelnabors/status/1533856532571594758)

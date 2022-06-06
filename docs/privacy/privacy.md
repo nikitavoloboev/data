@@ -125,3 +125,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Hitchhiker's Guide to Online Anonymity](https://github.com/NobodySpecial256/thgtoa)
 - [Lowering the cost of anonymization (2020)](https://desfontain.es/thesis/)
 - [Janus](https://github.com/divviup/janus) - Experimental implementation of the Privacy Preserving Measurement (PPM) specification.
+- [GAFAM](https://github.com/nickspaargaren/no-google) - Completely block Google and its services.

@@ -120,3 +120,4 @@ title: Three.js
 - [LunchboxJS](https://github.com/breakfast-studio/lunchboxjs) - Custom Vue 3 renderer for ThreeJS. ([Docs](https://docs.lunchboxjs.com/))
 - [r3f-spline](https://github.com/splinetool/r3f-spline) - Hook to load Spline scenes into react-three-fiber.
 - [vfx](https://github.com/hmans/vfx) - Visual effects library for react-three-fiber.
+- [Modern ThreeJS with Vite (2022)](https://www.youtube.com/watch?v=TiWRM3J5FlI)

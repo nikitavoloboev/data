@@ -45,3 +45,4 @@ No longer need to remember passwords and I now have a unique password for every 
 - [1Password Alfred Workflow](https://github.com/alfredapp/1password-workflow) - Search and open your 1Password items.
 - [apg-go](https://github.com/wneessen/apg-go) - Automated Password Generator in Go.
 - [Rust SDK for 1Password Connect](https://github.com/bsodmike/connect-sdk-rust)
+- [op-js](https://github.com/1Password/op-js) - JS library powered by the 1Password CLI.

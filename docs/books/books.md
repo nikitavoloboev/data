@@ -311,6 +311,7 @@ More books should be interactive and web first like [these notes](https://thebeg
 - [Marissa's bookshelf: favorites](https://m15y.com/bookshelf)
 - [Books by women that every man should read](https://www.theguardian.com/books/2022/may/28/books-by-women-that-every-man-should-read-chosen-by-ian-mcewan-salman-rushdie-richard-curtis-and-more)
 - [Ask HN: Books like “Crafting interpreters” or “The ray tracer challenge”? (2022)](https://news.ycombinator.com/item?id=31571734)
+- [Посоветуйте книгу, от которой вы не могли отлипнуть](https://twitter.com/whyyouvika/status/1533709166706995200)
 
 ## Interesting Prose Books
 
