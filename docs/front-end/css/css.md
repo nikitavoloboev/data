@@ -46,7 +46,7 @@ all: unset
 ## Links
 
 - [Code Guide](https://codeguide.co/) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-- [CSS Reference](https://cssreference.io/)
+- [CSS Reference](https://cssreference.io/) - Free visual guide to the most popular CSS properties. ([Code](https://github.com/jgthms/css-reference))
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.
 - [CSS Puns](https://saijogeorge.com/css-puns/)
@@ -518,3 +518,4 @@ all: unset
 - [100 Modern CSS Buttons](https://github.com/eludadev/css-buttons)
 - [Pure CSS image zoom using CSS primitives](https://twitter.com/jh3yy/status/1532145806278533120)
 - [Paper Prototype CSS (2022)](https://shkspr.mobi/blog/2022/06/paper-prototype-css/)
+- [Moonshine CSS](https://github.com/Econify/moonshine-css) - High-proof atomic CSS framework.

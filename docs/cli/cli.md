@@ -129,3 +129,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [mprocs](https://github.com/pvolok/mprocs) - Runs multiple commands in parallel and shows output of each command separately.
 - [CLET](https://github.com/node-modules/clet) - Command Line E2E Testing.
 - [climod](https://github.com/nixosbrasil/climod) - Modular generated command line interfaces using the same technology as the NixOS module system.
+- [The sort --key Trick](https://www.gwern.net/Sort)

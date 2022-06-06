@@ -58,3 +58,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Koko](https://www.kokocares.org/) - Online Suicide Prevention Kit. ([HN](https://news.ycombinator.com/item?id=30813527))
 - [Ask HN: Beating depression with or without anti-depressants? (2022)](https://news.ycombinator.com/item?id=30923701)
 - [Тюрьма травмы: когнитивные искажения в чрезвычайной ситуации (2022)](https://www.youtube.com/watch?v=WOUcSv7A8_0)
+- [Ask HN: Have You Burned Out? (2022)](https://news.ycombinator.com/item?id=31642123)

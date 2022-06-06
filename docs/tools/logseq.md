@@ -28,3 +28,4 @@ title: Logseq
 - [Logseq Web Parser](https://github.com/sawhney17/logseq-web-parser) - Simple plugin to parse the contents of a website and insert it under a block.
 - [Aryan Sawhney](https://aryansawhney.com/) - Writes many plugins for Logseq.
 - [Interval Hints](https://github.com/KerfuffleV2/logseq-plugin-interval-hints) - Configurable Logseq plugin to annotate deadline and scheduled times with a countdown or interval.
+- [OpenAI GPT3 plugin](https://github.com/briansunter/logseq-plugin-gpt3-openai) - Plugin for GPT-3 AI assisted note taking in Logseq.

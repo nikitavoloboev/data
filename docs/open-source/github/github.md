@@ -434,3 +434,4 @@ Awesome List
 - [octobors](https://github.com/EmbarkStudios/octobors) - Rust program for automerging PRs based on a few rules.
 - [Diary of a spaCy project: Predicting GitHub Tags (2022)](https://explosion.ai/blog/diary-of-github-spacy-project)
 - [gh-eco](https://github.com/coloradocolby/gh-eco) - gh extension to explore the ecosystem.
+- [Jasper](https://jasperapp.io/) - Flexible and powerful issue reader for GitHub. ([Code](https://github.com/jasperapp/jasper))

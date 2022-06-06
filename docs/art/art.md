@@ -177,6 +177,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Viktor Vasnetsov](https://en.wikipedia.org/wiki/Viktor_Vasnetsov)
 - [Nicholas Kole](https://www.instagram.com/nicholaskole/) ([Web](https://www.nicholaskole.art/))
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
+- [Bas Uterwijk](https://www.instagram.com/ganbrood/)
 - [Milton Glaser](https://www.miltonglaser.com/the-work/)
 - [Daniel Riise](https://www.instagram.com/nostalgictree/)
 - [Andrey Tkachenko](https://atdesign.com/)

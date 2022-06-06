@@ -10,6 +10,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Glass](https://glass.photo/)
 - [Amie](https://amie.so/)
 - [Dona](https://dona.ai/)
+- [Dask](https://www.dask.org/)
 - [Modfy](https://www.modfy.video/)
 - [Instatus](https://instatus.com/)
 - [Primer](https://primer.com/)

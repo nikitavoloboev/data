@@ -136,6 +136,7 @@ I can then on macOS use ⌘ + 1/2/3 to switch between the folders. And on iOS, s
 - [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot) - Inline bot for channels and groups.
 - [Aria/qBittorrent Telegram](https://github.com/anasty17/mirror-leech-telegram-bot)
 - [supapro-telegram](https://github.com/zamazan4ik/supapro-telegram) - Small bot which helps maintain C++ telegram channels.
+- [НЯН](https://github.com/NyanNyanovich/nyan) - Автоматический агрегатор новостей в Телеграме / Automatic news aggregator of Russian news in Telegram.
 
 ## Notes
 

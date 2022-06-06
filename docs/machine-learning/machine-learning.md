@@ -822,3 +822,4 @@
 - [Some thoughts on machine learning with small data (2022)](https://niklasriewald.com/2022/06/02/some-thoughts-on-machine-learning-with-small-data/) ([HN](https://news.ycombinator.com/item?id=31592769))
 - [Most elegant/beautiful ideas in ML? (2022)](https://twitter.com/banburismus_/status/1532747777280593920)
 - [Apple Silicon DL benchmarks](https://github.com/tcapelle/apple_m1_pro_python) - Collection of ML scripts to test the M1 Pro MacBook Pro.
+- [Post-Modern ML Stack](https://github.com/jacopotagliabue/post-modern-stack)

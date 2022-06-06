@@ -1926,6 +1926,8 @@
 - [SendWrapper](https://github.com/thk1/send_wrapper) - Implements a wrapper type called SendWrapper which allows you to move around non-Send types between threads.
 - [num-integer](https://github.com/rust-num/num-integer) - Integer trait and functions for Rust.
 - [borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing.
+- [faktory-rs](https://github.com/jonhoo/faktory-rs) - Rust bindings for Faktory clients and workers.
+- [Lofty](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library.
 
 ## Cargo Plugins
 

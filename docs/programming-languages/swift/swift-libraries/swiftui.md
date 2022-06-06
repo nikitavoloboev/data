@@ -12,6 +12,7 @@ title: SwiftUI
 
 - [Setting a random background color is a great way to detect an accidental SwiftUI loop.](https://twitter.com/steipete/status/1379483193708052480)
 - [SwiftUI is basically just a wrapper around UIKit. You can use UIHostingController to show SwiftUI views inside UIKit hierarchy, and UIViewRepresentable to wrap UIView in a SwiftUI View.](https://www.reddit.com/r/swift/comments/r4houz/can_you_combine_swiftui_and_uikit_together/)
+- [HStack, VStack, ZStack, and Grid (among many others) conform to Layout, which means you can dynamically switch between them at runtime without re-creating the children, preserving animations](https://twitter.com/harlanhaskins/status/1533907604707061760)
 
 ## Links
 

@@ -125,3 +125,4 @@ title: LLVM
 - [Writing an LLVM-IR compiler in Rust](https://github.com/ucarion/llvm-rust-getting-started)
 - [Rock](https://github.com/Champii/Rock) - Native language with Rust & LLVM.
 - [High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM (2022)](https://blog.regehr.org/archives/2148)
+- [Formal-Methods-Based Bugfinding for LLVM’s AArch64 Back End (2022)](https://blog.regehr.org/archives/2265) ([HN](https://news.ycombinator.com/item?id=31642147))

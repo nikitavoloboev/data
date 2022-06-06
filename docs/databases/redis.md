@@ -153,3 +153,5 @@ title: Redis
 - [RediSearch](https://redis.io/docs/stack/search/) - Queries, secondary indexing, and full-text search for Redis. ([Go Client](https://github.com/RediSearch/redisearch-go))
 - [Redust](https://github.com/appellation/redust) - Simple Redis client & RESP parser for Rust.
 - [Redis Analysis - Part 1: Threading model (2021)](https://www.romange.com/2021/12/09/redis-analysis-part-1-threading-model/)
+- [Redis PubSub](https://github.com/soundxyz/redis-pubsub) - Full type-safe Redis PubSub with Zod.
+- [RedisRaft](https://github.com/RedisLabs/redisraft) - Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.

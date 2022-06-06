@@ -102,3 +102,4 @@
 - [Figma Tokens](https://www.figmatokens.com/) - Use the power of design tokens in Figma. ([Tweet](https://twitter.com/six7/status/1529577240866041857))
 - [Figma icns/ico Generator](https://github.com/aaroniker/figma-icns-ico-generator) - Generate .icns / .ico files directly from Figma.
 - [Fae.dev](https://www.fae.dev/) - Figma design to high quality code.
+- [Figma Selector](https://github.com/reiddraper/figma-selector)

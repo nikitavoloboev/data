@@ -220,3 +220,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Share your IG accounts (2022)](https://twitter.com/uchilka_nastya/status/1524847124302778373)
 - [Humans being confounded by color photography (2022)](https://www.laphamsquarterly.org/roundtable/new-look-same-great-look) ([HN](https://news.ycombinator.com/item?id=31404489))
 - [Where do you share your photos now? (2022)](https://twitter.com/rsms/status/1526599598239690752)
+- [Obscura](https://obscura.camera/) - Pro camera features, for everyone.

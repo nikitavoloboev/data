@@ -221,3 +221,4 @@ This [article](https://www.amygoodchild.com/blog/what-is-generative-art) & [p5.j
 - [Grok {Shan, Shui}\*: Advent of understanding the generative art (2021)](https://zverok.space/blog/2021-12-28-grok-shan-shui.html) ([Lobsters](https://lobste.rs/s/7yctkb/grok_shan_shui_advent_understanding))
 - [Generative Typography, A Primer](https://gtprimer-romellogoodman-com.vercel.app/) ([Code](https://github.com/romellogoodman/gtprimer.romellogoodman.com))
 - [Generative Art in Processing](https://github.com/whitegreen/GenerativeArt)
+- [That Creative Code Page](https://thatcreativecode.page/) - Illustrated catalog of useful creative coding algorithms & techniques.

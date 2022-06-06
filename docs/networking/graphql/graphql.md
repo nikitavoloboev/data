@@ -336,3 +336,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [Uploading files to GraphQL Server with URQL (2022)](https://estebanborai.com/notes/uploading-files-to-graphql-server-with-urql)
 - [gqlclient](https://git.sr.ht/~emersion/gqlclient) - GraphQL client and code generator for Go.
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal. ([HN](https://news.ycombinator.com/item?id=31618487))
+- [graphql-request-profiler](https://github.com/Econify/graphql-request-profiler) - Easy to use GraphQL performance analysis utility for tracing resolver execution time.

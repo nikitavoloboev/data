@@ -4,7 +4,7 @@
 
 ## Links
 
-- [The Probability and Statistics Cookbook](http://statistics.zone/)
+- [The Probability and Statistics Cookbook](http://statistics.zone/) ([HN](https://news.ycombinator.com/item?id=31640229))
 - [Ask HN: What are your favorite statistics and probability textbooks? (2018)](https://news.ycombinator.com/item?id=17474646)
 - [Statistics with R Specialization course](https://www.coursera.org/specializations/statistics)
 - [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://statisticswithjulia.org/) ([HN](https://news.ycombinator.com/item?id=20420686)) ([Code](https://github.com/h-Klok/StatsWithJuliaBook))
