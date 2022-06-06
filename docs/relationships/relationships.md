@@ -141,6 +141,7 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [Mono people think that polyamory is all about sex. It's typical.](https://www.reddit.com/r/polyamory/comments/uo1on2/some_mono_people_are_so_rude/)
 - [I think maybe one part of breakups people underestimate is how people in love develop their own sort of language and a rich shared world of characters and motifs. & then when the relationship ends there’s a special loneliness in realizing you’ll never speak that language again.](https://twitter.com/jzux/status/1526346570127532039)
 - [People did not tend to develop romantic interest in partners whose attributes matched their a priori ideal preferences.](https://twitter.com/robinhanson/status/1530953923112091648)
+- [In an argument with a loved one, “winning” is often losing. You have to let go of trying to win and instead try to understand. As soon as you stop trying to win, that’s the moment you find win/win.](https://news.ycombinator.com/item?id=31625095)
 
 ## Links
 

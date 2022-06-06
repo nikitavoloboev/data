@@ -623,3 +623,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [LSI: A Learned Secondary Index Structure (2022)](https://arxiv.org/abs/2205.05769)
 - [Warp: Lightweight Multi-Key Transactions for Key-Value Stores (2015)](https://arxiv.org/abs/1509.07815) ([Review](http://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transactions.html))
 - [MiniSQL](https://github.com/BMS-2021/MiniSQL) - Designed to be a distributed relational database system. Final project of ZJU Database System Concept course.
+- [Ask HN: What are interesting new developments in databases related fields? (2022)](https://news.ycombinator.com/item?id=31633015)

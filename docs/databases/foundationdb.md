@@ -24,3 +24,4 @@ title: FoundationDB
 - [Time Series and FoundationDB. Millions of writes/s and 10x compression in under 2,000 lines of Go](https://github.com/richardartoul/tsdb-layer) ([HN](https://news.ycombinator.com/item?id=31540521))
 - [FoundationDB Client API for Tokio](https://github.com/fdb-rs/fdb) ([Intro](https://fdb-rs.github.io/blog/introducing-fdb-crate/))
 - [Awesome FoundationDB](https://github.com/FoundationDB/awesome-foundationdb) - List of FoundationDB resources.
+- [FoundationDB Exporter](https://github.com/aikoven/foundationdb-exporter) - Prometheus exporter for FoundationDB.

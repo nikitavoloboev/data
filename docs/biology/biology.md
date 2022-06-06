@@ -120,3 +120,4 @@
 - [SciDraw](https://www.scidraw.io/) - Free repository of high quality drawings of animals, scientific setups.
 - [BioDigital](https://www.biodigital.com/) - Interactive 3D Anatomy.
 - [Rhea](https://www.rhea-db.org/) - Knowledge base for bio-chemical transformations and transport reactions.
+- [Glycowork](https://github.com/BojarLab/glycowork) - Package for processing and analyzing glycans and their role in biology.

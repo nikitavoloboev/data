@@ -405,6 +405,7 @@
 - [RxCpp](https://github.com/ReactiveX/RxCpp) - Reactive Extensions for C++.
 - [userver](https://github.com/userver-framework/userver) - C++ Asynchronous Framework.
 - [Dash](https://github.com/baotonglu/dash) - Persistent memory friendly hashing index.
+- [Crab](https://github.com/seahorn/crab) - C++ Library for Building Program Static Analyses.
 
 ## Links
 

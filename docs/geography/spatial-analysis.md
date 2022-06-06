@@ -208,3 +208,4 @@ title: Spatial analysis
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analytics for Python.
 - [Real-time Map](https://github.com/asynkron/realtimemap-go) - Displays real-time positions of public transport vehicles in Helsinki. Showcase for Proto.Actor - an ultra-fast distributed actors solution.
 - [node-gdal](https://github.com/naturalatlas/node-gdal) - Node.js bindings for GDAL (Geospatial Data Abstraction Library).
+- [Instagram Location Search](https://github.com/bellingcat/instagram-location-search) - Finds Instagram location IDs near a specified latitude and longitude.

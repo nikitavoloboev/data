@@ -365,3 +365,4 @@ title: Reinforcement learning
 - [Brain Agent](https://github.com/kakaobrain/brain_agent) - Large-Scale and Multi-Task Agent Learning.
 - [Julia Reinforcement Learning Algorithms](https://github.com/fabio-4/JuliaRL)
 - [Border](https://github.com/taku-y/border) - Reinforcement learning library in Rust.
+- [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem (2022)](https://arxiv.org/abs/2205.14953) ([HN](https://news.ycombinator.com/item?id=31628359))

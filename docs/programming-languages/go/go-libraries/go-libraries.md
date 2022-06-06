@@ -138,6 +138,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [DDD in Go](https://github.com/percybolmer/ddd-go)
 - [cover](https://github.com/nikandfor/cover) - Go cover tool for maximum productivity.
 - [testcase](https://github.com/adamluzsi/testcase) - Opinionated testing framework based on BDD principles.
+- [gotestlist](https://github.com/crazy-max/gotestlist) - List tests in the given Go packages.
 
 ## Web
 
