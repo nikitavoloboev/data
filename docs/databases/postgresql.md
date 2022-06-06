@@ -514,3 +514,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pegsocket.js](https://github.com/alaisi/pegsocket.js) - WebSocket driver for PostgreSQL.
 - [pg_tail](https://github.com/aaparmeggiani/pg_tail) - Watches last lines of a PostgreSQL table like in a "tail -f".
 - [Useful PostgreSQL utilities](https://github.com/dataegret/pg-utils)
+- [pg_plugins](https://github.com/michaelpq/pg_plugins) - Gathering of template plugins for PostgreSQL: background workers, logical replication things, etc.

@@ -9,6 +9,7 @@ title: Unix
 ## Notes
 
 - `/dev/tty` is a synonym for the controlling terminal (if any) of the current process.
+- [Major theme of The Art of Unix Programming is to separate policy (what to do) from mechanism (how to do it). Policy is things like business rules that change rapidly in response to the real world; often policy for daemons like Nginx are entirely defined in config files. Mechanism on the other hand changes much slower, typically you write once and then only need minor bug fixes and other maintenance. Often this looks like library code such as a HTTP request parser. It’s good to write integration tests to verify policy code, and unit tests to verify mechanism.](https://lobste.rs/s/rgqg1v/what_functions_why_functions)
 
 ## Links
 

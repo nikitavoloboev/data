@@ -432,3 +432,4 @@ title: Haskell
 - [Direct Reflection for Free](https://github.com/joom/direct-reflection-for-free) - Using Data and Typeable to get a direct reflection system for free, when we're implementing a toy language in Haskell.
 - [Smooth, non-invasive Haskell Stack and Nix shell integration (2022)](https://www.tweag.io/blog/2022-06-02-haskell-stack-nix-shell/)
 - [Generate web forms from pure functions (2022)](https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html)
+- [Unboxed types and primitive operations](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/primitives.html) ([Lobsters](https://lobste.rs/s/xxlvq8/unboxed_types_primitive_operations))

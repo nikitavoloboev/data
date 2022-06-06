@@ -355,3 +355,4 @@ title: ML Libraries
 - [tpunicorn](https://github.com/shawwn/tpunicorn) - Python library and command-line program for managing TPUs.
 - [CLAP](https://github.com/LAION-AI/CLAP) - Contrastive Language-Audio Pretraining.
 - [COMET](https://github.com/Unbabel/COMET) - Neural Framework for MT Evaluation.
+- [Magnitude](https://github.com/plasticityai/magnitude) - Feature-packed Python package and vector storage file format for utilizing vector embeddings in machine learning models.

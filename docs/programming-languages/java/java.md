@@ -128,3 +128,4 @@ title: Java
 - [JASM](https://github.com/roscopeco/jasm) - JVM assembler for the modern age.
 - [On Java/JVM: Loom and Thread Fairness (2022)](https://www.morling.dev/blog/loom-and-thread-fairness/) ([HN](https://news.ycombinator.com/item?id=31600067))
 - [jlink.online](https://github.com/AdoptOpenJDK/jlink.online) - Build optimized Java runtimes in your browser.
+- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.

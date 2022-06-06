@@ -222,3 +222,4 @@ title: DNS
 - [Tsein DNS](https://github.com/ClSlaid/TseinDNS) - Robust and high performance DNS resolver supporting multiple DNS protocols.
 - [Dename](https://github.com/DjDeveloperr/Dename) - DNS Server framework for Deno.
 - [ratelimit](https://github.com/milgradesec/ratelimit) - CoreDNS plugin that enables response rate limiting to mitigate DNS attacks.
+- [DNS.toys](https://www.dns.toys/) - DNS server that offers useful utilities and services over the DNS protocol. ([Code](https://github.com/knadh/dns.toys)) ([Lobsters](https://lobste.rs/s/baxd5m/useful_utilities_toys_over_dns))

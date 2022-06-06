@@ -71,3 +71,4 @@ title: Vite
 - [Vite How to Guide](https://github.com/taowen/vite-howto)
 - [vite-vercel](https://github.com/egoist/vite-vercel) - Adding Vercel middleware support to your Vite project.
 - [vite-plugin-environment](https://github.com/ElMassimo/vite-plugin-environment) - Easily expose environment variables in Vite.js.
+- [vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite.

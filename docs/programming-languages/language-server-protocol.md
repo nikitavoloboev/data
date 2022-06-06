@@ -27,3 +27,4 @@ title: Language Server Protocol
 - [pygls](https://github.com/openlawlibrary/pygls) - Pythonic generic implementation of the Language Server Protocol.
 - [Linol](https://github.com/c-cube/linol) - Wrapper around the OCaml `lsp` library to make it easier to write LSP servers.
 - [Why LSP? (2022)](https://matklad.github.io//2022/04/25/why-lsp.html) ([HN](https://news.ycombinator.com/item?id=31151048))
+- [Monorepo of packages related to LSP](https://github.com/qualified/lsps)

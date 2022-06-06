@@ -97,3 +97,4 @@ Match all that don't have notes or twitter in input
 - [flexlint](https://github.com/dalance/flexlint) - Flexible linter with rules defined by regular expression.
 - [Animating Regular Expressions With Python and Graphviz (2022)](https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a)
 - [Web tool to evaluate rust regular expressions](https://2fd.github.io/rust-regex-playground/) ([Code](https://github.com/2fd/rust-regex-playground))
+- [super-regex](https://github.com/sindresorhus/super-regex) - Make a regular expression time out if it takes too long to execute.

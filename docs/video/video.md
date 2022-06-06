@@ -366,3 +366,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Introducing Real-Time Video | Mux (2022)](https://www.mux.com/blog/introducing-real-time-video)
 - [Vertigo.ai Focus](https://vertigo.ai/focus/) - AI & GPU video CODEC that enables hi-def face to face interactions over low-bandwidth links. ([HN](https://news.ycombinator.com/item?id=31516108))
 - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Friend to help you build Ffmpeg commands. ([HN](https://news.ycombinator.com/item?id=31557809))
+- [Video codecs and 4k (2022)](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)

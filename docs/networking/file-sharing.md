@@ -113,3 +113,4 @@
 - [share-cli](https://github.com/marionebl/share-cli) - Quickly share files from your command line.
 - [File Uploader](https://upload.io/uploader) - JavaScript File Upload Widget. ([Code](https://github.com/upload-io/uploader))
 - [leaves](https://github.com/leaves-host/leaves) - Self-hostable file hosting service.
+- [RiftShare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing. ([Docs](https://riftshare.app/))

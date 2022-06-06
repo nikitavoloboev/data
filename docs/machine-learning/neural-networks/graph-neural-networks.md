@@ -116,3 +116,4 @@
 - [Automated Self-Supervised Learning for Graphs (2022)](https://arxiv.org/abs/2106.05470) ([Code](https://github.com/ChandlerBang/AutoSSL))
 - [Graph Neural PDEs](https://github.com/twitter-research/graph-neural-pde)
 - [Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs (2022)](https://arxiv.org/abs/2202.04579) ([Review](https://www.youtube.com/watch?v=JiQmkhsbRwk))
+- [Sampling for Heterogeneous GNNs](https://github.com/Eurus-Holmes/Heterogeneous_Sampling)

@@ -629,3 +629,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Animated Knots](https://www.animatedknots.com/) - Learn how to tie knots with step-by-step animation.
 - [Find Wikipedia photos needed near you](https://wikishootme.toolforge.org/) ([HN](https://news.ycombinator.com/item?id=31575909))
 - [The bleak spectacle of the Amber Heard-Johnny Depp trial (2022)](https://www.readthepresentage.com/p/johnny-depp-amber-heard?s=r) ([Tweet](https://twitter.com/RottenInDenmark/status/1532396377526915075))
+- [Mime](https://mime.nathanferns.xyz/) - Edit and Generate Memes. ([Code](https://github.com/nathanielfernandes/mime))

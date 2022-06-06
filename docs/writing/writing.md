@@ -284,3 +284,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Writing for Engineers (2022)](https://www.heinrichhartmann.com/posts/writing/)
 - [Goodwrite](https://goodwrite.app/) - Writing app that uses deep learning AI to make your writing smarter, safer and fairer.
 - [Tools for a Culture of Writing (2021)](https://matt.blwt.io/post/tools-for-a-culture-of-writing/) ([HN](https://news.ycombinator.com/item?id=31163877))
+- [Ask HN: Examples of good technical writing? (2022)](https://news.ycombinator.com/item?id=31630915)

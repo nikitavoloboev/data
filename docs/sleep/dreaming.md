@@ -36,3 +36,4 @@ In order to have lucid dreams you need two do three things consistently:
 ## Links
 
 - [The Overfitted Brain: Dreams evolved to assist generalization (2020)](https://arxiv.org/abs/2007.09560) ([Tweet](https://twitter.com/RuneKvist/status/1460524352726831104))
+- [Heightened dream recall ability linked to increased creativity, connectivity](https://www.psypost.org/2022/05/heightened-dream-recall-ability-linked-to-increased-creativity-and-functional-brain-connectivity-63139) ([HN](https://news.ycombinator.com/item?id=31621900))

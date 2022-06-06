@@ -47,6 +47,7 @@ title: OCaml libraries
 - [epiSQL](https://github.com/paurkedal/episql) - SQL schema parser and code generator.
 - [PGX](https://github.com/arenadotio/pgx) - Pure OCaml PostgreSQL client library.
 - [Sequoia](https://github.com/andrenth/sequoia) - Type-safe query builder for OCaml.
+- [rel](https://github.com/dbuenzli/rel) - Relational database programming for OCaml.
 
 ## Bindings
 

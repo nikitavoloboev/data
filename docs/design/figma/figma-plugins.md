@@ -101,3 +101,4 @@
 - [Design Lint](https://www.figma.com/community/plugin/801195587640428208/Design-Lint) - Find and fix errors in your designs.
 - [Figma Tokens](https://www.figmatokens.com/) - Use the power of design tokens in Figma. ([Tweet](https://twitter.com/six7/status/1529577240866041857))
 - [Figma icns/ico Generator](https://github.com/aaroniker/figma-icns-ico-generator) - Generate .icns / .ico files directly from Figma.
+- [Fae.dev](https://www.fae.dev/) - Figma design to high quality code.

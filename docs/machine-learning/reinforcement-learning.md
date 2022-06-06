@@ -364,3 +364,4 @@ title: Reinforcement learning
 - [RL4Rec](https://github.com/BetsyHJ/RL4Rec) - Toolkit of Reinforcement Learning based Recommendation.
 - [Brain Agent](https://github.com/kakaobrain/brain_agent) - Large-Scale and Multi-Task Agent Learning.
 - [Julia Reinforcement Learning Algorithms](https://github.com/fabio-4/JuliaRL)
+- [Border](https://github.com/taku-y/border) - Reinforcement learning library in Rust.

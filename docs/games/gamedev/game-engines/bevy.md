@@ -43,3 +43,4 @@ title: Bevy Engine
 - [Bevy Easings](https://github.com/vleue/bevy_easings) - Helpers and Plugins for Bevy.
 - [Bevy Hanabi](https://github.com/djeedai/bevy_hanabi) - GPU particle system plugin for the Bevy game engine.
 - [bevy_dioxus](https://github.com/JunichiSugiura/bevy_dioxus) - Write Cross-platform application with React-like decralative UI framework and scalable ECS architecture all in Rust.
+- [bvy](https://github.com/cart/bvy) - Make Bevy more ergonomic.

@@ -1,5 +1,7 @@
 # SVG
 
+[SVGator](https://www.svgator.com/) is nice.
+
 ## Links
 
 - [Zdog](https://zzz.dog/) - Flat, round, designer-friendly pseudo-3D engine.
@@ -148,3 +150,4 @@
 - [Pattern Fills](http://iros.github.io/patternfills/) - Collection of SVG patterns and build scripts that allow utilizing them in SVG, CSS and D3. ([Code](https://github.com/iros/patternfills))
 - [Magical SVG Techniques (2022)](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 - [How to use P3 colors with SVGs (2022)](https://evilmartians.com/chronicles/how-to-use-p3-colors-in-svg)
+- [SVGator](https://www.svgator.com/) - Free SVG Animation Creator Online - No Coding.

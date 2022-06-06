@@ -36,3 +36,4 @@
 - [Ask HN: How do you handle negotiation (2022)](https://news.ycombinator.com/item?id=30773362)
 - [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 - [Ask HN: What should I bring up during salary negotiation as a junior developer? (2022)](https://news.ycombinator.com/item?id=31038133)
+- [Valuable salary negotiation advice](https://github.com/petermekhaeil/salary-negotiating)

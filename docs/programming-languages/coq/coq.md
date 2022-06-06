@@ -153,3 +153,6 @@ title: Coq
 - [bedrock2](https://github.com/mit-plv/bedrock2) - Work-in-progress language and compiler for verified low-level programming.
 - [Useful scripts for dealing with Coq files](https://github.com/JasonGross/coq-scripts)
 - [Coq Universe](https://github.com/ejgallego/coq-universe) - Aim to provide a composed build of all active Coq developments in existence.
+- [Formal proof of the Odd Order Theorem in Coq](https://github.com/math-comp/odd-order)
+- [Paramcoq](https://github.com/coq-community/paramcoq) - Coq plugin providing commands for generating parametricity statements.
+- [Gaia](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics in Coq.

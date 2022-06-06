@@ -269,6 +269,7 @@
 - [pytest-docker-compose](https://github.com/pytest-docker-compose/pytest-docker-compose) - Spin up Docker containers during your integration tests automatically.
 - [pytest-memray](https://github.com/bloomberg/pytest-memray) - Pytest plugin for easy integration of memray.
 - [marbles](https://github.com/twosigma/marbles) - Read better test failures.
+- [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 
 ## Error
 
@@ -882,6 +883,7 @@
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory.
 - [csvkit](https://github.com/wireservice/csvkit) - Suite of utilities for converting to and working with CSV, the king of tabular file formats.
+- [Intake](https://github.com/intake/intake) - Lightweight package for finding, investigating, loading and disseminating data.
 
 ## Notes
 
@@ -1036,3 +1038,4 @@
 - [Import Tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library. ([HN](https://news.ycombinator.com/item?id=31507106))
 - [Pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness.
 - [Pyan3](https://github.com/davidfraser/pyan) - Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods.
+- [dumb-pypi](https://github.com/chriskuehl/dumb-pypi) - PyPI generator, backed entirely by static files.

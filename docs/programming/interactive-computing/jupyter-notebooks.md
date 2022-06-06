@@ -202,3 +202,4 @@ title: Jupyter Notebooks
 - [nbpreview](https://github.com/paw-lu/nbpreview) - Terminal viewer for Jupyter notebooks. It's like cat for ipynb files.
 - [Gather for the Jupyter extension](https://github.com/microsoft/vscode-gather) - Adds the experimental Gather feature to the Jupyter extension on Python code.
 - [Jupyter Renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab.
+- [execnb](https://github.com/fastai/execnb) - Execute a jupyter notebook, fast, without needing jupyter.

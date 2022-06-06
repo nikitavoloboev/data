@@ -152,7 +152,7 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
 - [Learn Git branching](https://learngitbranching.js.org/) ([Code](https://github.com/pcottle/learnGitBranching)) ([HN](https://news.ycombinator.com/item?id=24586436))
 - [Gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories.
-- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service. ([Web](https://gitea.io/en-us/))
+- [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service. ([Web](https://gitea.io/en-us/)) ([HN](https://news.ycombinator.com/item?id=31628939))
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
 - [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history.

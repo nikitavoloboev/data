@@ -72,7 +72,7 @@
 ## Links
 
 - [RubyGems](https://rubygems.org/) - Library packaging and distribution for Ruby. ([Code](https://github.com/rubygems/rubygems))
-- [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries.
+- [dry-rb](https://dry-rb.org/) - Collection of next-generation Ruby libraries. ([Exploring dry-rb - Intuition of Results](https://dev.to/baweaver/exploring-dryrb-intuition-of-results-1lnd))
 - [Anyway Config](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications.
 - [Debugging Ruby Libraries (2021)](https://maximomussini.com/posts/debugging-ruby-libraries/)
 - [Writing Ruby gem native extensions in Rust (2022)](https://briankung.dev/2022/01/31/sneak-preview-writing-ruby-gem-native-extensions-in-rust/)

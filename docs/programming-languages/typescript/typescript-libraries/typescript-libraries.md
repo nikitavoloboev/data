@@ -64,6 +64,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ApiDOM](https://github.com/swagger-api/apidom) - Semantic parser for API specifications.
 - [ChiselStrikeai](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications.
 - [Boost.ts](https://github.com/mathigon/boost.js) - DOM, events and animations library for modern browsers.
+- [gaxios](https://github.com/googleapis/gaxios) - HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight. Supports proxies and all sorts of other stuff.
 
 ## GraphQL
 
@@ -107,6 +108,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [noble-ed25519](https://github.com/paulmillr/noble-ed25519) - Fastest JS implementation of ed25519 / ristretto255. High-security, auditable, 0-dependency EDDSA signatures and public keys.
 - [Serenity Tools](https://github.com/SerenityNotes/serenity-tools) - Collection of tools to build secure Apps.
 - [opaque-ts](https://github.com/cloudflare/opaque-ts) - TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol.
+- [charm.js](https://github.com/jedisct1/charm.js) - Tiny, self-contained cryptography library, implementing authenticated encryption and keyed hashing.
 
 ## Error
 

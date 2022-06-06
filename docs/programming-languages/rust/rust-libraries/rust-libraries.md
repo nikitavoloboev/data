@@ -597,6 +597,8 @@
 - [stm32l0xx-hal](https://github.com/stm32-rs/stm32l0xx-hal) - Hardware abstraction layer (HAL) for the STM32L0 series microcontrollers written in Rust.
 - [webusb](https://github.com/littledivy/webusb) - WebUSB API implementation in Rust (and Deno).
 - [salty](https://github.com/ycrypto/salty) - Ed25519 signatures for microcontrollers.
+- [esp8266-wifi-serial](https://github.com/alekseysidorov/esp8266-wifi-serial) - Driver to work with the esp8266 module over the serial port.
+- [embuild](https://github.com/esp-rs/embuild) - Build support for embedded Rust: Cargo integration with other embedded build ecosystems & tools, like PlatformIO, CMake and kconfig.
 
 ## ML
 
@@ -1921,6 +1923,9 @@
 - [dptree](https://github.com/teloxide/dptree) - Asynchronous event dispatch mechanism for Rust.
 - [enum-map](https://github.com/xfix/enum-map) - Library providing enum map providing type safe enum array.
 - [etcd-rs](https://github.com/lodrem/etcd-rs) - etcd client for Rust backed by tokio and tonic.
+- [SendWrapper](https://github.com/thk1/send_wrapper) - Implements a wrapper type called SendWrapper which allows you to move around non-Send types between threads.
+- [num-integer](https://github.com/rust-num/num-integer) - Integer trait and functions for Rust.
+- [borsh-rs](https://github.com/near/borsh-rs) - Rust implementation of Binary Object Representation Serializer for Hashing.
 
 ## Cargo Plugins
 

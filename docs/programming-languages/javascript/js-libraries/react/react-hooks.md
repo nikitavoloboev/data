@@ -204,6 +204,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [use-clamp-text](https://github.com/drenther/use-clamp-text) - React hook to clamp multiline text to a given height in a responsive way and with extreme flexibility.
 - [useAwait](https://github.com/phytonmk/react-use-await) - React hook for handy async UI.
 - [react-hooks-compose](https://github.com/helloitsjoe/react-hooks-compose) - Decouple Hooks from the presentational components that use them.
+- [react-use-event-hook](https://github.com/scottrippey/react-use-event-hook) - Same as React's useCallback, but returns a stable reference.
 
 ## Code
 

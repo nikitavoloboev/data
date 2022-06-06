@@ -67,6 +67,7 @@
 - [Recommendation I give everybody starting up in tech is: read the source. No matter what, read code.](https://twitter.com/matteocollina/status/1455581471859744770)
 - [Function should have one goal. It’s okay for it to do more than a single thing (even without splitting) as long as any codepath taken through it achieves the same goal, and doesn’t do things unrelated to that goal.](https://twitter.com/dan_abramov/status/1462119010523303940)
 - [In your comments, write what you did and why, record your level of petulance (REALLY) and the StackOverflow link that made you realize something](https://gomakethings.com/how-to-write-good-comments/)
+- [If you want to learn programming better, don't immediately go and search for solution. Try and solve problem yourself given what you know. Then search and compare solutions.](https://www.youtube.com/watch?v=cgXfWo42gig)
 
 ## Links
 

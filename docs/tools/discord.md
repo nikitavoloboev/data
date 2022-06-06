@@ -98,6 +98,7 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [zCord](https://github.com/fengb/zCord) - Zig Discord API with zero allocations in the critical path.
 - [Discord Bot Template](https://github.com/Fyko/bot-template)
 - [discord-interactions](https://github.com/discord/discord-interactions-js) - JS/Node helpers for Discord Interactions.
+- [Megane](https://github.com/brussell98/megane) - Framework for large multi-process Discord bots.
 
 ## Notes
 
@@ -168,3 +169,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [discord-drive](https://github.com/iShibi/discord-drive) - CLI tool to use Discord as a cloud storage.
 - [coxir](https://github.com/satom99/coxir) - Modern Elixir wrapper for Discord.
 - [Discord Previews](https://discordpreviews.com/) - Your #1 source for the latest Discord news. ([Code](https://github.com/NurMarvin/discordpreviews.com))
+- [Discord Resources](https://discordresources.com/) - Constantly updated list of the most useful Discord Resources. ([Code](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki))

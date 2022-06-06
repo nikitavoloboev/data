@@ -93,3 +93,4 @@ I am trying to use SolidJS for all web apps and static sites I build now. Curren
 - [SolidJS: Past, Present, Future (2022)](https://www.youtube.com/watch?v=dOgnQ9SuKYk)
 - [Solid JS and How its Different | Ryan Carniato (2022)](https://www.youtube.com/watch?v=O4sgwuMQns0)
 - [Solid Virtual Scroll](https://github.com/Supertigerr/solid-virtual-scroll)
+- [Solid Cached Resource](https://github.com/yonathan06/solid-cached-resource) - Cache Solidjs resources by key (derived from the resource source).

@@ -159,6 +159,7 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
 - [Iron Fish](https://github.com/iron-fish/ironfish-api) - Public Iron Fish API.
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
+- [Microsoft Graph SDK for Go](https://github.com/microsoftgraph/msgraph-sdk-go)
 - [GitLab Node](https://github.com/jdalrymple/gitbeaker) - GitLab API NodeJS library with full support of all the Gitlab API services.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
 - [GitLab Go 2](https://github.com/profclems/glab)
@@ -401,3 +402,4 @@ Love using [Dash](https://kapeli.com/dash) and it's [Alfred workflow](https://gi
 - [Paginating Requests in APIs (2020)](https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c) ([HN](https://news.ycombinator.com/item?id=31541070))
 - [Thin Platforms – Stratechery (2022)](https://stratechery.com/2022/thin-platforms/)
 - [Serverless OpenAPI Documentation Plugin](https://github.com/apalchys/serverless-openapi-documentation) - Generates OpenAPI 3.0.0 documentation from serverless configuration files.
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Free Fake REST API. ([Code](https://github.com/typicode/jsonplaceholder))

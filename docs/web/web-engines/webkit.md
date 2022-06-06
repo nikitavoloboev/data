@@ -27,3 +27,4 @@ title: WebKit
 - [iOS WebKit Debug Proxy](https://github.com/google/ios-webkit-debug-proxy) - DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [Improving CSS Variables in WebKit (2022)](https://engineering.widen.com/blog/Improving-CSS-Variables-in-WebKit/)
 - [New WebKit Features in Safari 15.5 (2022)](https://webkit.org/blog/12669/new-webkit-features-in-safari-15-5/) ([HN](https://news.ycombinator.com/item?id=31400969))
+- [Concurrent JavaScript: It can work! (2017)](https://webkit.org/blog/7846/concurrent-javascript-it-can-work/)

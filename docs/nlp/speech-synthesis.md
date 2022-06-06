@@ -71,3 +71,5 @@
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts) - Multi-voice TTS system trained with an emphasis on quality.
 - [Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech (2020)](https://arxiv.org/abs/2005.05106) ([Code](https://github.com/AppleHolic/multiband_melgan))
 - [UnivNet: A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation (2021)](https://arxiv.org/abs/2106.07889) ([Code](https://github.com/mindslab-ai/univnet))
+- [TikTok TTS](https://weilbyte.github.io/tiktok-tts/) - Generate the funny TiKTok lady voice (& more) in your browser. ([Code](https://github.com/Weilbyte/tiktok-tts))
+- [TikTok Text-to-speech API](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API.

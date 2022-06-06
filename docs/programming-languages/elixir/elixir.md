@@ -164,3 +164,4 @@
 - [Let’s write an Elixir LiveBook smart cell (2022)](https://www.rakeroutes.com/2022/05/18/let-s-write-an-elixir-livebook-smart-cell)
 - [Algebraic Data Types in Elixir (2022)](https://blog.appsignal.com/2022/05/31/algebraic-data-types-in-elixir.html) ([HN](https://news.ycombinator.com/item?id=31568098))
 - [The Problem With Elixir’s `with` (2022)](http://stratus3d.com/blog/2022/06/01/the-problem-with-elixirs-with/)
+- [What do you not like about Elixir? (2022)](https://www.reddit.com/r/elixir/comments/v58tpg/what_do_you_not_like_about_elixir/)

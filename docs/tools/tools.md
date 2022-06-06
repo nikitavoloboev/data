@@ -494,7 +494,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.
 - [Serf](https://github.com/hashicorp/serf) - Service orchestration and management tool.
 - [ClickUp](https://clickup.com/) - One app to replace them all.
-- [Assembled](https://www.assembled.com/) - Modern Workforce Management Platform.
+- [Assembled](https://www.assembled.com/) - Modern Workforce Management Platform. ([Twitter](https://twitter.com/assembledhq))
 - [Crisp](https://crisp.chat/en/) - Give your customer messaging experience a human touch.
 - [Polynote](https://github.com/polynote/polynote) - Better notebook for Scala (and more). ([Article](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)) ([HN](https://news.ycombinator.com/item?id=21337260))
 - [Airbridge](https://airbridge.app/) - Calendar built for people, not companies.

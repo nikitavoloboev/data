@@ -80,3 +80,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Bashbot](https://github.com/mathew-fleisch/bashbot) - Slack-bot written in Go for infrastructure/devops teams.
 - [Beacon](https://github.com/dominikwilkowski/beacon) - Slack bot for non verbal cues to make it easier on your mental health to tell people you're out of action for the day.
 - [Deno Slack SDK](https://github.com/slackapi/deno-slack-sdk) - SDK for the Deno Runtime of Run on Slack Functions.
+- [Dispatch](https://www.dispatch.do/) - Priority Inbox for Slack that lets you focus on what's most important.

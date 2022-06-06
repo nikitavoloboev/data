@@ -810,3 +810,4 @@ title: Rust
 - [Creating a minimal ELF-64 file with Rust](https://github.com/tchajed/minimal-elf)
 - [Why Rust easily optimizes out smart pointers where C++ cannot? (2022)](https://news.ycombinator.com/item?id=31626508)
 - [Arc and Mutex in Rust (2022)](https://itsallaboutthebit.com/arc-mutex/)
+- [Algorithms implemented in Rust, explained](https://github.com/TianyiShi2001/Algorithms)

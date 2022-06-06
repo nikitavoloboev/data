@@ -137,6 +137,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Mira](https://github.com/spring-raining/mira) - JavaScript & Markdown live editor on your browser.
 - [Textarea Markdown](https://github.com/Resetand/textarea-markdown-editor) - UI headless simple markdown editor using only textarea.
 - [CodeMirror View](https://github.com/codemirror/view) - DOM view component for the CodeMirror code editor.
+- [highlighted-code](https://github.com/WebReflection/highlighted-code) - Textarea builtin extend to automatically provide code highlights based on one of the languages available via highlight.js.
 
 ## Notes
 

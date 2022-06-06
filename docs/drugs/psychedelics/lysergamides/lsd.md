@@ -43,3 +43,5 @@ title: LSD
 - [Hamilton's Pharmacopeia: Ultra LSD](https://www.youtube.com/watch?v=BHjcrqAijqI)
 - [Acid movies (2022)](https://www.reddit.com/r/TrueFilm/comments/ummwcj/acid_movies/)
 - [LSD Music Recs (2022)](https://www.reddit.com/r/Psychedelics/comments/uxxerh/need_music_recommendations_for_lsd/)
+- [LSD microdosing does not appear to improve mood or cognitive ability: study (2022)](https://www.psypost.org/2022/06/lsd-microdosing-does-not-appear-to-improve-mood-or-cognitive-ability-according-to-new-placebo-controlled-study-63277) ([HN](https://news.ycombinator.com/item?id=31632680))
+- [The single best thing to do while tripping on LSD](https://www.reddit.com/r/LSD/comments/sbowfl/the_single_best_thing_to_do_while_tripping_on_lsd/)

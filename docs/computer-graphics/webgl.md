@@ -104,3 +104,5 @@
 - [CSS vs WebGL cubes](https://flak.tedunangst.com/post/css-vs-webgl-cubes)
 - [React Ape](https://github.com/raphamorim/react-ape) - React Renderer to build UI interfaces using canvas/WebGL.
 - [mugl](https://github.com/andykswong/mugl) - Micro WebGL Library for JavaScript and WebAssembly.
+- [Collection of WebGL sketches](https://github.com/yiwenl/Sketches)
+- [Earcut](https://github.com/mapbox/earcut) - Fastest and smallest JavaScript polygon triangulation library for your WebGL apps.

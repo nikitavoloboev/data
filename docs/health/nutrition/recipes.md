@@ -97,3 +97,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Budget Bytes](https://www.budgetbytes.com/) - Delicious Recipes Designed for Small Budgets.
 - [Ciao! Kitchen - YouTube](https://www.youtube.com/c/CiaoKitchen/videos)
 - [Carlsbad Cravings](https://carlsbadcravings.com/) - Healthy & Indulgent Dinner & Slow Cooker Recipes.
+- [Chez Grater](https://github.com/dfithian/chez-grater) - Scrape and parse recipe blogs to skip the ads.

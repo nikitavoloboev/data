@@ -218,3 +218,4 @@ Personally quite excited about developments of [Foregen](https://www.foregen.org
 - [MUSCLE](https://github.com/rcedgar/muscle) - Widely-used software for making multiple alignments of biological sequences.
 - [fastBio](https://github.com/ahoarfrost/fastBio) - Deep learning library for biological sequences. Extension of Fastai and PyTorch.
 - [glosim](https://github.com/lab-cosmo/glosim) - Python package to compute similarities between molecules and structures.
+- [Bioontologies](https://github.com/biopragmatics/bioontologies) - Unified access to biomedical ontologies.

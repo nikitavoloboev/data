@@ -376,3 +376,4 @@
 - [GEMS](https://github.com/nbw/gems) - Music sequencer on a distributed cluster. Written with Phoenix LiveView.
 - [Basic Pitch](https://github.com/spotify/basic-pitch) - Lightweight yet powerful audio-to-MIDI converter with pitch bend detection. ([Web](https://basicpitch.spotify.com/))
 - [Never Before Heard Sounds](https://heardsounds.com/) - Expressive AI Music Tools. ([Tweet](https://twitter.com/yotammann/status/1532446436314402817))
+- [CLAP](https://github.com/free-audio/clap) - Stands for CLever Audio Plugin. It is an audio plugin ABI which defines a standard for Digital Audio Workstations and audio plugins (synthesizers, audio effects, ...) to work together.
