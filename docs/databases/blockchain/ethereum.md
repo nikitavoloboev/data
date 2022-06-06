@@ -629,3 +629,4 @@ It is quite useless however due to it having [too high fees](https://twitter.com
 - [Aesthetically Pleasing Ethereum Statements](https://github.com/ricobank/apes)
 - [ethier](https://github.com/divergencetech/ethier) - Go and Solidity SDK to make Ethereum development ethier.
 - [Ethereum Yellow Paper Cheat Sheet](https://github.com/benjaminion/YellowPaper_CheatSheet) - Quick reference for symbols and conventions used in the Ethereum Yellow Paper.
+- [OpenZeppelin Contracts for Cairo](https://github.com/OpenZeppelin/cairo-contracts) - Library for secure smart contract development written in Cairo for StarkNet, a decentralized ZK Rollup.

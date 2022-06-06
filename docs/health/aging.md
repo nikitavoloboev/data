@@ -102,3 +102,4 @@ I personally don't plan to live for long once my body starts truly breaking down
 - [On Longevity (2022)](https://eriktorenberg.substack.com/p/on-longevity?s=r) ([HN](https://news.ycombinator.com/item?id=31239422))
 - [True Age by Morgan Levine (2022)](https://www.penguinrandomhouse.com/books/659627/true-age-by-morgan-levine/) ([Reddit](https://www.reddit.com/r/longevity/comments/uhpv7i/morgan_levine_who_works_on_aging_clocks_has/))
 - [On Aging Alone (2021)](https://thewalrus.ca/on-aging-alone/) ([HN](https://news.ycombinator.com/item?id=31454286))
+- [Scientists Discover Ways of Making Old Blood New Again](https://news.cuanschutz.edu/news-stories/scientists-discover-ways-of-making-old-blood-new-again) ([HN](https://news.ycombinator.com/item?id=31636246))

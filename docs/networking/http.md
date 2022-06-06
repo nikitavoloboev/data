@@ -267,3 +267,4 @@ title: HTTP
 - [Duf](https://github.com/sigoden/duf) - Simple file server. Support static serve, search, upload, delete.
 - [WaybackProxy](https://github.com/richardg867/WaybackProxy) - HTTP proxy for tunneling requests through the Internet Archive Wayback Machine.
 - [http-server](https://github.com/EstebanBorai/http-server) - Simple and configurable command-line HTTP server.
+- [hit](https://github.com/hbagdi/hit) - Tool to make and manage HTTP requests. ([Intro](https://hit.yolo42.com/blog/say-hello-to-hit/))
