@@ -41,3 +41,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [World's Fair Co](https://www.worldsfair.co/) ([Twitter](https://twitter.com/WorldsFairCo))
 - [Guild](https://beta.guild.host/) - Attend and host events.
 - [Luma](https://lu.ma/home) - Helps you foster meaningful relationships within your community through events, newsletters, and insights.
+- [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
