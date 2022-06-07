@@ -147,6 +147,7 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [Notarize](https://github.com/macmade/Notarize) - Notarization status monitoring tool for macOS, supporting multiple developer accounts.
 - [VCam](https://github.com/vcamapp/app) - macOS app that displays an avatar using a virtual camera.
 - [Telik](https://github.com/agentcooper/Telik) - macOS application to track YouTube channels and playlists.
+- [macOS Push Tester App](https://github.com/rakutentech/macos-push-tester) - Allows you to send push notifications through APNS (Apple Push Notification Service) and receive them on a device.
 
 ## Other interesting apps
 

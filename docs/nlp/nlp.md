@@ -588,3 +588,4 @@
 - [DALL-E 2 has a secret language](https://twitter.com/giannis_daras/status/1531693093040230402) ([HN](https://news.ycombinator.com/item?id=31573282)) ([Tweet](https://twitter.com/benjamin_hilton/status/1531780892972175361)) ([HN](https://news.ycombinator.com/item?id=31587316))
 - [AdaTest](https://github.com/microsoft/adatest) - Find and fix bugs in natural language machine learning models using adaptive testing.
 - [Diffusion-LM Improves Controllable Text Generation (2022)](https://arxiv.org/abs/2205.14217) ([Code](https://github.com/XiangLi1999/Diffusion-LM)) ([Tweet](https://twitter.com/percyliang/status/1533977616666923008))
+- [RnG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering (2021)](https://arxiv.org/abs/2109.08678) ([Code](https://github.com/salesforce/rng-kbqa))

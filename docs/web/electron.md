@@ -61,3 +61,4 @@ title: Electron
 - [Electron Inject](https://github.com/tintinweb/electron-inject) - Inject JavaScript into closed source electron applications e.g. to enable developer tools for debugging.
 - [Electron Quick Start for Mac App Store](https://github.com/steve981cr/electron-quickstart-mas)
 - [ToDesktop](https://www.todesktop.com/) - Convert your Web App to a Desktop App in 2 minutes. ([Twitter](https://twitter.com/ToDesktop))
+- [Svelte Electron Boilerplate](https://github.com/ptkdev-boilerplate/svelte-electron-boilerplate)

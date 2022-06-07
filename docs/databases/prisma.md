@@ -112,3 +112,4 @@ title: Prisma
 - [Schemix](https://github.com/ridafkih/schemix) - Allows you to programmatically create Prisma schemas using TypeScript.
 - [Prisma 2 GraphQL](https://github.com/zackradisic/prisma2gql) - Code generator for Prisma schema files.
 - [Prisma JSON Server Generator](https://github.com/omar-dulaimi/prisma-json-server-generator) - Prisma generator that automates creating a JSON file that can be run as a server from your Prisma schema.
+- [Prisma Yup Generator](https://github.com/omar-dulaimi/prisma-yup-generator) - Prisma 2+ generator to emit Yup schemas from your Prisma schema.

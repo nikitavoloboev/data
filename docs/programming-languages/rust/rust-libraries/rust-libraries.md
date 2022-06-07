@@ -164,6 +164,7 @@
 - [Okapi](https://github.com/GREsau/okapi) - OpenAPI (AKA Swagger) document generation for Rust projects.
 - [HTTP Body](https://github.com/hyperium/http-body) - Asynchronous HTTP body trait.
 - [FeignHTTP](https://github.com/dxx/feignhttp) - Declarative HTTP client for rust.
+- [Tokamak](https://github.com/jkelleyrtp/tokamak) - Simple WebFramework for real time apps.
 
 ## WASM
 
@@ -380,6 +381,7 @@
 - [Agui](https://github.com/Stumblinbear/agui) - Advanced, reactive UI library for Rust.
 - [four](https://github.com/mwalczyk/four) - 4-dimensional renderer.
 - [muge](https://github.com/andykswong/muge) - Minimal, Modular, Multiplatform Graphics Engine in Rust and WebAssembly.
+- [glyphon](https://github.com/grovesNL/glyphon) - Fast, simple 2D text rendering for wgpu.
 
 ## Games
 
@@ -1934,6 +1936,7 @@
 - [opt-rs](https://github.com/t-young31/opt-rs) - Lightweight molecular mechanics optimization code written in rust.
 - [Malachite](https://github.com/mhogrefe/malachite) - Arbitrary-precision arithmetic library for Rust.
 - [upon](https://github.com/rossmacarthur/upon) - Simple, powerful template engine.
+- [Stateful](https://github.com/mdeloof/stateful) - Ergonomic state machines for designing event-driven systems.
 
 ## Cargo Plugins
 

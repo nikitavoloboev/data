@@ -42,3 +42,4 @@
 - [BotD](https://github.com/fingerprintjs/BotD) - Bot detection library that runs in the browser. Identify JavaScript bots, browser spoofing, virtual machines and much more.
 - [Bruxism](https://github.com/iopred/bruxism) - Chat bot for YouTube, Discord and IRC.
 - [SSR but Just for Bots (2022)](https://egoist.proselog.com/ssr-but-just-for-bots)
+- [Botway](https://github.com/abdfnx/botway) - Generate, build, handle and deploy your own bot with your favorite language, for Discord, or Telegram, or Slack.

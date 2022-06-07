@@ -140,3 +140,4 @@ title: Julia
 - [Julia for Data Analysis Book (2022)](https://www.manning.com/books/julia-for-data-analysis)
 - [Building a transformer in Julia (2022)](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
 - [Julia parser for Lezer](https://github.com/lezer-parser/julia)
+- [StaticTools](https://github.com/brenhinkeller/StaticTools.jl) - Enabling StaticCompiler.jl-based compilation of (some) Julia code to standalone native binaries by avoiding GC allocations and llvmcall-ing all the things.

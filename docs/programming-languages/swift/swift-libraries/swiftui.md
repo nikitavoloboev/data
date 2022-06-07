@@ -224,3 +224,4 @@ title: SwiftUI
 - [SwiftUI iOS Debug & HotReloading in VSCode](https://github.com/markst/hotreloading-vscode-ios)
 - [Sidebar App](https://github.com/apparata/SidebarAppTemplate) - Template repository for quickly creating boilerplate code for a SwiftUI macOS app.
 - [SwiftUI sample code from WWDC22](https://github.com/apple/sample-food-truck)
+- [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16)

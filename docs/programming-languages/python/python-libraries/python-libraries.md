@@ -275,6 +275,10 @@
 
 - [rescue](https://github.com/idmitrievsky/rescue) - Type-safe exceptions for Python.
 
+## Embedded
+
+- [Atmel AVR](https://github.com/platformio/platform-atmelavr) - Development platform for PlatformIO.
+
 ## Other
 
 - [Click](https://click.palletsprojects.com/en/) - Create beautiful command line interfaces in a composable way with as little code as necessary. ([click-man - Create man pages for click applications](https://github.com/click-contrib/click-man)) ([Code](https://github.com/pallets/click)) ([Article](https://www.assemblyai.com/blog/the-definitive-guide-to-python-click))
@@ -884,6 +888,7 @@
 - [aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory.
 - [csvkit](https://github.com/wireservice/csvkit) - Suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [Intake](https://github.com/intake/intake) - Lightweight package for finding, investigating, loading and disseminating data.
+- [wikirepo](https://github.com/andrewtavis/wikirepo) - Python based Wikidata framework for easy dataframe extraction.
 
 ## Notes
 

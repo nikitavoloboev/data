@@ -42,3 +42,4 @@ title: JAX
 - [Ninjax](https://github.com/danijar/ninjax) - Module system for JAX that offers full state access and allows to easily combine modules from other libraries.
 - [Functional Transformer](https://github.com/awf/functional-transformer) - Pure-functional implementation of a machine learning transformer model in Python/JAX.
 - [JAX + Units](https://github.com/dfm/jpu) - Provides and interface between JAX and Pint to allow JAX to support operations with units.
+- [Infinite Recommendation Networks (∞-AE) in JAX](https://github.com/noveens/infinite_ae_cf)

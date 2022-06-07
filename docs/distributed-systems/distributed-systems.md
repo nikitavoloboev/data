@@ -269,3 +269,4 @@
 - [Sprinkle](https://github.com/dominichamon/sprinkle) - Run jobs on distributed machines easily.
 - [Fallacies of distributed systems (2022)](https://architecturenotes.co/fallacies-of-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=31626132))
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/) ([Code](https://github.com/mixu/distsysbook))
+- [Bistro](https://github.com/facebookarchive/bistro) - Fast, flexible toolkit for scheduling and running distributed tasks.

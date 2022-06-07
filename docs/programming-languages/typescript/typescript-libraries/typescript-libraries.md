@@ -540,6 +540,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [proxy-hooks](https://github.com/Borrus-sudo/proxy-hooks) - Zero dependency JS proxy wrapper for ease of use with first class TS support.
 - [Emery](https://github.com/Thinkmill/emery) - Polish for the rough parts of TypeScript.
 - [jsx-view](https://github.com/colelawrence/jsx-view)
+- [better-ajv-errors](https://github.com/apideck-libraries/better-ajv-errors) - Human-friendly JSON Schema validation for APIs.
+- [iterate-all](https://github.com/suchipi/iterate-all) - Converts an iterable, iterable of Promises, or async iterable into a Promise of an Array.
 
 ## Links
 

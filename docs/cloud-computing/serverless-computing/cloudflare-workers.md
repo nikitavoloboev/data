@@ -172,3 +172,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2.
 - [Denoflare ♥️ R2](https://denoflare.dev/r2/)
 - [HyperDurable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction.
+- [worker-prolog](https://github.com/guregu/worker-prolog) - Serverless Prolog for Cloudflare Workers.

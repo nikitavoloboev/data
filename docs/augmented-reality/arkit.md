@@ -28,3 +28,4 @@ title: ARKit
 - [ofxARKit](https://github.com/sortofsleepy/ofxARKit) - Starting point for openFramworks and ARKit experimenting.
 - [Face Mesh with ARKit](https://github.com/appcoda/Face-Mesh)
 - [Reality Shaders](https://github.com/mattbierner/reality-shaders-example) - Demonstrates using ARKit in iOS to apply metal shaders to real world surfaces.
+- [Capturinator](https://github.com/BertanT/Capturinator) - Powered by RealityKit, Capturinator is a Mac app that turns photos of an object taken at multiple angles into 3D USDZ models.

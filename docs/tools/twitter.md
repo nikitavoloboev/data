@@ -198,3 +198,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [How you can reach 0 to 1000 followers on Twitter quickly](https://devvnomad.notion.site/How-you-can-reach-0-to-1000-followers-on-Twitter-quickly-928cef4051e2454290549f53303e791a)
 - [Awesome Modern Twitter API](https://github.com/andypiper/awesome-modern-twitter-api)
 - [Twitter web has nice shortcuts](https://twitter.com/ossia/status/1533448928242417666)
+- [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline.

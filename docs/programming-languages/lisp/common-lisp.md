@@ -89,7 +89,7 @@
 - [Cleavir](https://github.com/s-expressionists/Cleavir) - Implementation-independent framework for creating Common Lisp compilers.
 - [CFFI](https://github.com/cffi/cffi) - Common Foreign Function Interface, purports to be a portable FFI for Common Lisp.
 - [Eclector](https://github.com/s-expressionists/Eclector) - Portable and extensible Common Lisp Reader.
-- [Cloture](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
+- [Cloture](https://github.com/ruricolist/cloture) - Clojure in Common Lisp. ([HN](https://news.ycombinator.com/item?id=31655574))
 - [CL21](https://github.com/cl21/cl21) - Common Lisp in the 21st Century.
 - [Arrows](https://github.com/Harleqin/arrows) - Implements threading macros, inspired by Clojure.
 - [cl-gserver](https://github.com/mdbergmann/cl-gserver) - Actor framework featuring actors and agents for easy access to state and asynchronous operations.
@@ -108,3 +108,6 @@
 - [Npt](https://github.com/nptcl/npt) - ANSI Common Lisp Programming Language.
 - [Common Lisp intermediate book recommendation (2022)](https://www.reddit.com/r/lisp/comments/uqgeit/common_lisp_intermediate_book_recommendation/)
 - [cl-losh](https://github.com/sjl/cl-losh) - Common Lisp utilities I use a lot.
+- [Serapeum](https://github.com/ruricolist/serapeum) - Conservative library of Common Lisp utilities.
+- [Alexandria](https://alexandria.common-lisp.dev/) - Reduce duplication of effort and improve portability of Common Lisp code.
+- [Overlord](https://github.com/ruricolist/overlord) - Build system in Common Lisp.

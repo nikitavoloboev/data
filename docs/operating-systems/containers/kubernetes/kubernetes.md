@@ -752,3 +752,4 @@ title: Kubernetes
 - [Rego Style Guide](https://github.com/StyraInc/rego-style-guide)
 - [Rufio](https://github.com/tinkerbell/rufio) - Kubernetes controller for managing baseboard management state and actions.
 - [Eraser](https://github.com/Azure/eraser) - Cleaning up images from Kubernetes nodes.
+- [Multus CNI](https://github.com/k8snetworkplumbingwg/multus-cni) - Enables attaching multiple network interfaces to pods in Kubernetes.

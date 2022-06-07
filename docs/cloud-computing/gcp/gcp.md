@@ -98,3 +98,4 @@ title: Google Cloud
 - [Protobuf + BigQuery + Go](https://github.com/einride/protobuf-bigquery-go) - Seamlessly save and load protocol buffers to and from BigQuery using Go.
 - [Google Cloud Project Factory Terraform Module](https://github.com/terraform-google-modules/terraform-google-project-factory)
 - [google-cloud-rust](https://github.com/yoshidan/google-cloud-rust) - Google Cloud Client Libraries for Rust.
+- [Google Cloud Vertex AI Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)

@@ -1,6 +1,6 @@
 # User Experience
 
-[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) book is a staple.
+[Brian Lovin's design critiques](https://twitter.com/brian_lovin/status/1487903450528882690) are great. [Refactoring UI](https://www.refactoringui.com/) & [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) are good reads.
 
 ## Notes
 
@@ -179,3 +179,4 @@
 - [Examples of great Dev UX](https://twitter.com/kelseyhightower/status/1527672023370985478)
 - [The Ultimate Guide To Push Notifications For Developers (2022)](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
 - [Apple UX Guide](https://github.com/microsoft/apple-ux-guide) - Tips and best practices for building great experiences and writing sustainable code using Apple's UX Frameworks.
+- [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) ([Tweet](https://twitter.com/lindadong/status/1534248883353595904))
