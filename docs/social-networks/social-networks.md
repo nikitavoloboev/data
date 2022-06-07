@@ -162,3 +162,4 @@
 - [Trust and safety research is hard](https://twitter.com/alexstamos/status/1524204880356724736)
 - [Ourspace](https://github.com/ZeroDAO/ourspace) - Decentralized social networks and reputation systems.
 - [Tim Urban on political discourse + Keith Rabois on early-stage investing in 2022](https://www.youtube.com/watch?v=ivDwzBYsED4)
+- [instantgram](https://github.com/theus/instantgram) - Bookmarklet for download photos in Instagram.

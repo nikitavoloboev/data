@@ -65,6 +65,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [ChiselStrikeai](https://github.com/chiselstrike/chiselstrike) - Modern backend development framework for JavaScript/TypeScript applications.
 - [Boost.ts](https://github.com/mathigon/boost.js) - DOM, events and animations library for modern browsers.
 - [gaxios](https://github.com/googleapis/gaxios) - HTTP request client that provides an axios like interface over top of node-fetch. Super lightweight. Supports proxies and all sorts of other stuff.
+- [Exegesis OpenAPI Engine](https://github.com/exegesis-js/exegesis) - Tools for implementing server-side OpenAPI 3.0.0.
 
 ## GraphQL
 
@@ -536,6 +537,8 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Scroll Snap Carousel](https://github.com/Grsmto/scroll-snap-carousel) - Helper to enhance the native CSS Scroll Snap experience.
 - [QR Scanner](https://github.com/nimiq/qr-scanner) - Lightweight JavaScript QR Code Scanner.
 - [vali-guard](https://github.com/lforst/vali-guard) - Somewhat flexible validation library that guarantees TypeScript type-safety.
+- [proxy-hooks](https://github.com/Borrus-sudo/proxy-hooks) - Zero dependency JS proxy wrapper for ease of use with first class TS support.
+- [Emery](https://github.com/Thinkmill/emery) - Polish for the rough parts of TypeScript.
 
 ## Links
 

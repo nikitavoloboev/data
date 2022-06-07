@@ -206,6 +206,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [react-hooks-compose](https://github.com/helloitsjoe/react-hooks-compose) - Decouple Hooks from the presentational components that use them.
 - [react-use-event-hook](https://github.com/scottrippey/react-use-event-hook) - Same as React's useCallback, but returns a stable reference.
 - [useAsyncMemo](https://github.com/awmleer/use-async-memo) - React hook for generating async memoized data.
+- [use-transition-effect](https://github.com/piotr-oles/use-transition-effect) - Run long effects without blocking the main thread.
 
 ## Code
 

@@ -6,7 +6,7 @@ title: SwiftUI
 
 [Companion for SwiftUI](https://twitter.com/JordanMorgan10/status/1500090857210486784) is useful. [Swift with Majid](https://swiftwithmajid.com/) & [Swift by Sundell](https://www.swiftbysundell.com/) are great blogs. [SwiftUI Weekly](http://weekly.swiftwithmajid.com/) is nice newsletter.
 
-[Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) lib is neat. [SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps), [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) [CodeEdit](https://github.com/CodeEditApp/CodeEdit) are nice SwiftUI apps to study. [Jordan's apps](https://github.com/jordansinger?tab=repositories&q=SwiftUI) are nice to study too as they are quite small.
+[Atomic Architecture](https://github.com/ra1028/swiftui-atomic-architecture) lib is neat. [SwiftUI Sample Apps](https://developer.apple.com/tutorials/sample-apps), [Swiftcord](https://github.com/SwiftcordApp/Swiftcord), [CodeEdit](https://github.com/CodeEditApp/CodeEdit) & [Food Truck](https://github.com/apple/sample-food-truck) are nice SwiftUI apps to study. [Jordan's apps](https://github.com/jordansinger?tab=repositories&q=SwiftUI) are nice to study too as they are quite small.
 
 ## Notes
 

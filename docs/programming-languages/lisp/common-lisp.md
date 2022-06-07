@@ -107,3 +107,4 @@
 - [Lem](https://github.com/lem-project/lem) - Common Lisp editor/IDE with high expansibility.
 - [Npt](https://github.com/nptcl/npt) - ANSI Common Lisp Programming Language.
 - [Common Lisp intermediate book recommendation (2022)](https://www.reddit.com/r/lisp/comments/uqgeit/common_lisp_intermediate_book_recommendation/)
+- [cl-losh](https://github.com/sjl/cl-losh) - Common Lisp utilities I use a lot.

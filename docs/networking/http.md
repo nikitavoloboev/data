@@ -268,3 +268,6 @@ title: HTTP
 - [WaybackProxy](https://github.com/richardg867/WaybackProxy) - HTTP proxy for tunneling requests through the Internet Archive Wayback Machine.
 - [http-server](https://github.com/EstebanBorai/http-server) - Simple and configurable command-line HTTP server.
 - [hit](https://github.com/hbagdi/hit) - Tool to make and manage HTTP requests. ([Intro](https://hit.yolo42.com/blog/say-hello-to-hit/))
+- [A New Definition of HTTP (2022)](https://www.mnot.net/blog/2022/06/06/http-core)
+- [RFC 9114: HTTP/3](https://www.rfc-editor.org/rfc/rfc9114) ([HN](https://news.ycombinator.com/item?id=31647033))
+- [Boomer](https://github.com/myzhan/boomer) - Better load generator for locust, written in Go.

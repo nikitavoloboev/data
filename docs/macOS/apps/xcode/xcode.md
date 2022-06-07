@@ -13,6 +13,7 @@ title: Xcode
 - [Xcode can show the view frames in a running app](https://twitter.com/dasdom/status/1254858574322372609)
 - [Wondering about an unfamiliar Xcode build setting? Try option+double clicking on it in the target editor for a descriptive tooltip.](https://twitter.com/aikoniv/status/795311416030806016)
 - [Don't install Xcode from app store if you need it to work.](https://twitter.com/krzyzanowskim/status/1470538530824859650)
+- [Build Timeline offers an entirely new way of visualizing the tasks of an Xcode build based on parallelization](https://twitter.com/BenchR/status/1534032896750542850)
 
 ## Links
 
@@ -111,3 +112,4 @@ title: Xcode
 - [Xcode useful shortcuts list](https://github.com/chirag05k/Xcode-Shortcuts)
 - [Color themes for Xcode, TextMate and Terminal App](https://www.codethemes.net/)
 - [Xbase](https://github.com/tami5/xbase) - Xcode Neovim Replacement-ish.
+- [FengNiao](https://github.com/onevcat/FengNiao) - Command line tool for cleaning unused resources in Xcode.

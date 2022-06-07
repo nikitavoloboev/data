@@ -102,3 +102,4 @@ title: Field-programmable gate array
 - [FPGA Awesome list](https://github.com/FPGA-Systems/fpga-awesome-list)
 - [w11](https://github.com/wfjm/w11) - PDP-11/70 CPU core and SoC.
 - [Noasic](https://github.com/noasic/noasic) - Open-source VHDL library for FPGA design.
+- [ Raw Filtering of JSON Data on FPGAs (2022)](https://arxiv.org/abs/2205.05464)

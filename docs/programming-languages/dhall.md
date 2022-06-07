@@ -23,3 +23,4 @@ title: Dhall
 - [Awesome Dhall](https://github.com/dhall-lang/awesome-dhall)
 - [Data abstraction in Dhall (2020)](https://bkase.dev/posts/data-abstraction-dhall)
 - [Dhall as a Gateway-drug to Typed Functional Programming (2022)](https://confengine.com/conferences/functional-conf-2022/proposal/16424/dhall-as-a-gateway-drug-to-typed-functional-programming)
+- [Dhall: A Gateway Drug to Haskell (2022)](https://www.saurabhnanda.in/2022/03/24/dhall-a-gateway-drug-to-haskell/) ([Reddit](https://www.reddit.com/r/haskell/comments/v63kky/dhall_a_gateway_drug_to_haskell/?utm_source=share&utm_medium=mweb))

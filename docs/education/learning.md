@@ -221,3 +221,4 @@ I love [Learney's approach to learning (show clear dependencies / track topics t
 - [Wikipedia Helper Tools](https://wiki.devs.krd/) - Helper tools for contributing to Wikipedia. ([Code](https://github.com/DevelopersTree/wiki))
 - [Ask HN: How deep do you go? (2022)](https://news.ycombinator.com/item?id=31480764)
 - [Re-Compile](https://recompile-ai.netlify.app/)
+- [The Free Learning List](https://freelearninglist.org/)

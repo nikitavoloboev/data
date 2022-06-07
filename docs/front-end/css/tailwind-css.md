@@ -154,3 +154,4 @@ title: Tailwind CSS
 - [Xtend UI](https://xtendui.com/) - Custom UI made easy with simplicity and total freedom. ([Code](https://github.com/xtendui/xtendui))
 - [Windy Radix Palette](https://github.com/brattonross/windy-radix-palette) - Tailwind preset for bringing Radix Colors palette to Tailwind.
 - [Tailwind Components Collection](https://github.com/unlight/tailwind-components)
+- [Tailwind Utopia](https://github.com/cwsdigital/tailwind-utopia) - TailwindCSS plugin to generate interpolated fluid typographic and spacing scales as created by the generator utopia.fyi.

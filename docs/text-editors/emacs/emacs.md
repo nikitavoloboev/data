@@ -120,3 +120,4 @@ Might give it a go sometime.
 - [Literate APIs with Emacs and Org Mode (2022)](https://www.kpassa.me/posts/literate2/)
 - [A vision of a multi-threaded Emacs (2022)](https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/) ([HN](https://news.ycombinator.com/item?id=31559818))
 - [Who Needs Modern Emacs? (2022)](https://batsov.com/articles/2022/06/01/who-needs-modern-emacs/) ([Lobsters](https://lobste.rs/s/nkea9j/who_needs_modern_emacs))
+- [Why Emacs has Buffers](https://www.masteringemacs.org/article/why-emacs-has-buffers)

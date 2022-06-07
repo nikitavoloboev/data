@@ -583,6 +583,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Tomasz Tunguz](https://tomtunguz.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)
 - [Daniel Gross](https://dcgross.com/)
+- [Kabir Goel](https://kabirgoel.com/) ([Code](https://github.com/kbrgl/website))
 - [Kevin Yien](https://kevinyien.com/)
 - [Yuval Adam](https://yuv.al/)
 - [Andrey Sitnik](https://sitnik.ru/en/) ([Code](https://github.com/ai/sitnik.ru/))

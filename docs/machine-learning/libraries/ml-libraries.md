@@ -358,3 +358,4 @@ title: ML Libraries
 - [Magnitude](https://github.com/plasticityai/magnitude) - Feature-packed Python package and vector storage file format for utilizing vector embeddings in machine learning models.
 - [TorchANI](https://github.com/aiqm/torchani) - Accurate Neural Network Potential on PyTorch.
 - [gap-train](https://github.com/t-young31/gap-train) - Gaussian Approximation Potential Training.
+- [lleaves](https://github.com/siboehm/lleaves) - LLVM-based compiler for LightGBM decision trees.

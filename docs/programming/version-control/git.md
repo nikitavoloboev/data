@@ -546,3 +546,4 @@ git config --global --add alias.pr-clean '!git checkout master ; git for-each-re
 - [switch-branch-cli](https://github.com/vadimdemedes/switch-branch-cli) - Switch Git branches by their pull request title.
 - [ugit](https://github.com/Bhupesh-V/ugit) - Undo your last oopsie in git.
 - [Git Switch and Restore: an Improved User Experience (2020)](https://tanzu.vmware.com/developer/blog/git-switch-and-restore-an-improved-user-experience/)
+- [git-download](https://github.com/akiradeveloper/git-download) - Download a single file from a Git repository.

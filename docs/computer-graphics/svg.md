@@ -151,3 +151,4 @@
 - [Magical SVG Techniques (2022)](https://www.smashingmagazine.com/2022/05/magical-svg-techniques/)
 - [How to use P3 colors with SVGs (2022)](https://evilmartians.com/chronicles/how-to-use-p3-colors-in-svg)
 - [SVGator](https://www.svgator.com/) - Free SVG Animation Creator Online - No Coding.
+- [SVG Generator](https://svg-generator.netlify.app/) - Online SVG Graphics Generation with the ability to export to SVG. ([Code](https://github.com/Fannon/svg-generator))

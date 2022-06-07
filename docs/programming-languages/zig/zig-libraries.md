@@ -62,6 +62,7 @@
 ## Embedded
 
 - [regz](https://github.com/ZigEmbeddedGroup/regz) - Zig code generator for microcontrollers.
+- [MicroZig](https://github.com/ZigEmbeddedGroup/microzig) - Unified abstraction layer and HAL for several microcontrollers.
 
 ## Test
 

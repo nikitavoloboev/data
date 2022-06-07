@@ -93,6 +93,7 @@
 - [vector-sized](https://github.com/expipiplus1/vector-sized) - Exports a newtype tagging the vectors from the vector package with a type-level natural representing their size.
 - [Statistics](https://github.com/haskell/statistics) - Fast, high quality library for computing with statistics in Haskell.
 - [Data.Scientific](https://github.com/basvandijk/scientific) - Arbitrary-precision floating-point numbers represented using scientific notation.
+- [Carnap](https://github.com/Carnap/Carnap) - Formal logic framework that runs in the browser.
 
 ## Crypto
 

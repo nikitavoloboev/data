@@ -92,3 +92,4 @@ title: TCP
 - [Lurker](https://github.com/m-mizutani/lurker) - Network based honeypot for capturing payload for all TCP ports.
 - [Ranch](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
 - [TCPLS: Modern Transport Services with TCP and TLS (2022)](https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/)
+- [moproxy](https://github.com/sorz/moproxy) - Transparent TCP to SOCKSv5/HTTP proxy on Linux written in Rust.

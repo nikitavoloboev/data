@@ -115,6 +115,7 @@
 - [Ducktape](https://github.com/DucktapeEngine/Ducktape) - Open source C++ 2D & 3D game engine that focuses on being fast, and powerful. ([Web](https://ducktapeengine.github.io/))
 - [2D Rigid body physics engine in TS](https://github.com/Sopiro/Physics)
 - [cannon-es](https://github.com/pmndrs/cannon-es) - Lightweight 3D physics engine written in JavaScript.
+- [Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - Game engine written in Julia. ([HN](https://news.ycombinator.com/item?id=31648175))
 
 ## Physics engines
 

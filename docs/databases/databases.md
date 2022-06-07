@@ -238,6 +238,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Apache Calcite](https://calcite.apache.org/) - Dynamic data management framework. ([Code](https://github.com/apache/calcite))
 - [PolarDB-X](https://github.com/ApsaraDB/galaxysql) - Cloud native distributed SQL Database designed for high concurrency, massive storage and complex querying scenarios.
 - [SplinterDB](https://github.com/vmware/splinterdb) - Key-value store designed for high performance on fast storage devices.
+- [jammdb](https://github.com/pjtatlow/jammdb) - Embedded, single-file database that allows you to store key / value pairs as bytes.
 
 ## Tools
 

@@ -246,6 +246,7 @@ Below is a list of extensions I use.
 - [Typehole](https://marketplace.visualstudio.com/items?itemName=rikurouvila.typehole) - Automatically generate TypeScript types and interfaces for all serializable runtime values. ([Code](https://github.com/rikukissa/typehole))
 - [Typescript Destructure](https://marketplace.visualstudio.com/items?itemName=tusaeff.vscode-typescript-destructure-plugin) - Set of source actions which significantly simplify object destructuring. ([Code](https://github.com/tusaeff/vscode-typescript-destructure-plugin))
 - [TypeScript Error Translator](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator) - TypeScript errors, translated for humans.
+- [Turbo Console Log](https://github.com/Chakroun-Anas/turbo-console-log) - Make debugging much easier by automating the operation of writing meaningful log message.
 
 ## DB
 

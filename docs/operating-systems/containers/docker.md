@@ -238,3 +238,4 @@ title: Docker
 - [Fly Machines: An API for Fast-Booting VMs (2022)](https://fly.io/blog/fly-machines/) ([HN](https://news.ycombinator.com/item?id=31496744))
 - [dock](https://news.ycombinator.com/item?id=31625086) - Alternative way to use Docker without Dockerfiles. ([Code](https://github.com/0rion3/dock)) ([HN](https://news.ycombinator.com/item?id=31625086))
 - [docker-show-context](https://github.com/pwaller/docker-show-context) - Show where time is wasted during the context upload of `docker build`.
+- [Dockerfile+](https://github.com/edrevo/dockerfile-plus) - New commands for Dockerfile.

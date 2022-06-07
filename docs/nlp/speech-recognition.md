@@ -132,3 +132,4 @@ title: Speech recognition
 - [NaturalSpeech: End-to-End Text to Speech Synthesis with Human-Level Quality (2022)](https://arxiv.org/abs/2205.04421) ([Code](https://github.com/lucidrains/natural-speech-pytorch))
 - [CoquiSTT + Signal = Love (death to voice messages) (2022)](https://www.a2p.it/tech-stuff/coquistt-signal-love-death-to-voice-messages/)
 - [ocotillo](https://github.com/neonbjb/ocotillo) - PyTorch-based ML model that does state-of-the-art English speech transcription.
+- [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing (2021)](https://arxiv.org/abs/2110.07205) ([Code](https://github.com/microsoft/SpeechT5))

@@ -1157,6 +1157,7 @@
 - [AsyncSequenceReader](https://github.com/mochidev/AsyncSequenceReader) - Building blocks to easily consume Swift's `AsyncSequence`.
 - [RichTextKit](https://github.com/danielsaidi/RichTextKit) - Swift-based library for working with rich text in UIKit, AppKit and SwiftUI.
 - [BigInt](https://github.com/leif-ibsen/BigInt) - Arbitrary-precision integer arithmetic in Swift.
+- [Tarscape](https://github.com/kayembi/Tarscape) - Swift package for creating and extracting Tar files.
 
 ## Other (not lib)
 

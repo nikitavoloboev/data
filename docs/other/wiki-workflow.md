@@ -197,6 +197,7 @@ I want to:
 - [Rikard Hjort's Wiki](https://github.com/hjorthjort/wiki)
 - [Anthony's second brain](https://garden.anthonyamar.fr/Welcome+in+my+mind+%F0%9F%A7%A0)
 - [Hrishikesh Bhaskaran's Wiki](https://wiki.stultus.in/)
+- [Jason Yuchen's Notes](https://github.com/JasonYuchen/notes)
 - [neeasade's notes](https://notes.neeasade.net/)
 - [Ferreira's Wiki](https://github.com/slowernews/notebook)
 - [マリウス](https://xn--gckvb8fzb.com/)

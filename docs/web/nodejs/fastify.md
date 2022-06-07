@@ -61,3 +61,4 @@ title: Fastify
 - [Fastify DX](https://github.com/fastify/fastify-dx) - Full Stack Framework based on Fastify and Vite.
 - [Example Fastify server deployed on Fly.io](https://github.com/fly-apps/fastify-functions)
 - [Fastify Redis](https://github.com/fastify/fastify-redis) - Plugin to share a common Redis connection across Fastify.
+- [Effect TS Fastify](https://github.com/tcmlabs/effect-ts-fastify)

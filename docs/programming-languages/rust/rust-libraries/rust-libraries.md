@@ -437,6 +437,7 @@
 - [serial_test](https://github.com/palfrey/serial_test) - Allows for the creation of serialized Rust tests.
 - [bolero](https://github.com/camshaft/bolero) - Fuzz and property testing front-end for Rust.
 - [split-test](https://github.com/mtsmfm/split-test) - Splits tests into multiple groups based on timing data to run tests in parallel.
+- [test-strategy](https://github.com/frozenlib/test-strategy) - Procedural macro to easily write higher-order strategies in proptest.
 
 ## Error
 
@@ -812,7 +813,7 @@
 - [miri](https://github.com/rust-lang/miri) - Interpreter for Rust's mid-level intermediate representation.
 - [Tide](https://github.com/rustasync/tide) - Empowering everyone to build HTTP Services.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
-- [maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust. ([HN](https://news.ycombinator.com/item?id=24552107))
+- [maud](https://github.com/lambda-fairy/maud) - Compile-time HTML templates for Rust. ([HN](https://news.ycombinator.com/item?id=24552107)) ([Docs](https://maud.lambda.xyz/)) ([HN](https://news.ycombinator.com/item?id=31631475))
 - [panic-never](https://github.com/japaric/panic-never) - This crate guarantees that your application is free of panicking branches.
 - [graphql_client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust.
 - [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.
@@ -1929,6 +1930,7 @@
 - [faktory-rs](https://github.com/jonhoo/faktory-rs) - Rust bindings for Faktory clients and workers.
 - [Lofty](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library.
 - [opt-rs](https://github.com/t-young31/opt-rs) - Lightweight molecular mechanics optimization code written in rust.
+- [Malachite](https://github.com/mhogrefe/malachite) - Arbitrary-precision arithmetic library for Rust.
 
 ## Cargo Plugins
 

@@ -171,3 +171,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [workers](https://github.com/syumai/workers) - Go package to run an HTTP server on Cloudflare Workers.
 - [Render](https://github.com/kotx/render) - Cloudflare Worker to proxy and cache requests to R2.
 - [Denoflare ♥️ R2](https://denoflare.dev/r2/)
+- [HyperDurable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction.

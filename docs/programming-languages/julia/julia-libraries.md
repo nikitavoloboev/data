@@ -104,6 +104,7 @@
 - [MLJLinearModels.jl](https://github.com/JuliaAI/MLJLinearModels.jl) - Generalized Linear Regressions Models (penalized regressions, robust regressions, ...).
 - [BipartiteMatching.jl](https://github.com/IsaacRudich/BipartiteMatching.jl) - Fast and scalable max cardinality matching for bipartite graphs.
 - [DeepQLearning](https://github.com/JuliaPOMDP/DeepQLearning.jl) - Implementation of the Deep Q-learning algorithm to solve MDPs.
+- [DiffRules](https://github.com/JuliaDiff/DiffRules.jl) - Simple shared suite of common derivative definitions.
 
 ## Math
 
@@ -618,6 +619,7 @@
 - [ParserCombinator](https://github.com/andrewcooke/ParserCombinator.jl) - Parser combinator library for Julia.
 - [CSV](https://github.com/JuliaData/CSV.jl) - Fast, flexible delimited file reader/writer for Julia.
 - [LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - Native Julia code for lattice QCD with dynamical fermions in 4 dimension.
+- [Groebner.jl](https://github.com/sumiya11/Groebner.jl) - Groebner bases in pure Julia.
 
 ## Links
 

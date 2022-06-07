@@ -86,3 +86,4 @@ title: Idris
 - [Idv](https://github.com/mattpolzin/idv) - Idris Version Manager.
 - [TOML parser for Idris](https://github.com/cuddlefishie/toml-idr)
 - [LightClick](https://github.com/border-patrol/lightclick) - Linearly typed orchestration language for Systems-on-a-Chip Designs that supports lightweight dependent types in the form of domain-specific indexed-types.
+- [tyttp](https://github.com/kbertalan/tyttp) - Type safe experimental web framework for Idris2 targeting nodeJS.

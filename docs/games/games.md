@@ -160,6 +160,8 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype/technical demo written in Clojure and ClojureScript.
 - [Swune](https://github.com/nicklockwood/Swune) - Swift/UIKit reimplementation of the Dune II RTS game.
 - [feiok](https://github.com/dacousb/feiok) - Vibrant, isometric, multiplayer-centric farming game written in Go.
+- [Legend of Lua](https://github.com/kyleschaub/legend-of-lua) - Open-source Love2D Zelda-like game, currently in development.
+- [Solaris](https://github.com/solaris-games/solaris) - HTML5 game of strategy, intrigue and galactic conquest.
 
 ## Awesome games (other)
 
@@ -324,3 +326,4 @@ Recently I mostly just play [chess](chess.md) & [Wild Rift](https://wildrift.lea
 - [Ask HN: What game you wished existed? (2022)](https://news.ycombinator.com/item?id=31503201)
 - [KaTrain](https://github.com/sanderland/katrain) - Improve your Baduk skills by training with KataGo.
 - [Ask HN: Favorite open source game? (2022)](https://news.ycombinator.com/item?id=31590724)
+- [Bit Slicer](https://github.com/zorgiepoo/Bit-Slicer) - Universal game trainer for macOS, written using Cocoa and Mach kernel APIs.

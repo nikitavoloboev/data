@@ -173,3 +173,4 @@
 - [AudioLoader](https://github.com/KinWaiCheuk/AudioLoader) - PyTorch Dataset for Speech and Music audio.
 - [Awesome Training Data](https://github.com/diffgram/awesome-training-data)
 - [MIDI Dataset](https://github.com/craffel/midi-dataset) - Code for creating a dataset of MIDI ground truth.
+- [Labelbox](https://labelbox.com/) - Fastest way to annotate data to build and ship computer vision applications. ([Code](https://github.com/Labelbox/labelbox))

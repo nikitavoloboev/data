@@ -168,3 +168,4 @@
 - [Common path planning algorithms used in robotics](https://github.com/zhm-real/PathPlanning)
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Asking robots to design stained glass windows (2022)](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design?s=r) ([HN](https://news.ycombinator.com/item?id=31564152))
+- [R3M: A Universal Visual Representation for Robot Manipulation (2022)](https://arxiv.org/abs/2203.12601) ([Code](https://github.com/facebookresearch/r3m))

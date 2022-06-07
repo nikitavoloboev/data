@@ -229,6 +229,8 @@ title: GitHub actions
 - [GitHub Release On Push Action](https://github.com/rymndhng/release-on-push-action) - Github Action to create a git tag + release when pushed to main branch.
 - [GitHub Issue Parser](https://github.com/stefanbuck/github-issue-parser) - Use this action to convert issues into a unified JSON structure.
 - [Download workflow artifact GitHub Action](https://github.com/dawidd6/action-download-artifact) - Downloads and extracts uploaded artifact associated with given workflow and commit or other criteria.
+- [PagerDuty Change Events](https://github.com/PagerDuty/pagerduty-change-events-action) - GitHub action that creates a PagerDuty change event.
+- [GH Find Current PR](https://github.com/jwalton/gh-find-current-pr) - GitHub Action for finding the Pull Request (PR) associated with the current SHA.
 
 ## Go
 
