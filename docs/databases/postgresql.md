@@ -515,3 +515,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg_tail](https://github.com/aaparmeggiani/pg_tail) - Watches last lines of a PostgreSQL table like in a "tail -f".
 - [Useful PostgreSQL utilities](https://github.com/dataegret/pg-utils)
 - [pg_plugins](https://github.com/michaelpq/pg_plugins) - Gathering of template plugins for PostgreSQL: background workers, logical replication things, etc.
+- [PostgreSQL Fuzzy Text Search: Not so fuzzy to fuzziest (2022)](https://blog.brendanscullion.com/postgresql-text-search)

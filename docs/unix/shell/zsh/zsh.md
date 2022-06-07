@@ -82,3 +82,4 @@ bindkey
 - [A Guide to Zsh Expansion with Examples (2021)](https://thevaluable.dev/zsh-expansion-guide-example/)
 - [Zi](https://github.com/z-shell/zi/) - Swiss Army Knife for Zsh. ([Docs](https://z.digitalclouds.dev/docs/intro))
 - [Zsh Plugin Standard](https://z.digitalclouds.dev/community/zsh_plugin_standard/)
+- [Zsh Native Scripting Handbook](https://z.digitalclouds.dev/community/zsh_handbook/)

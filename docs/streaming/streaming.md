@@ -87,3 +87,4 @@ Here are tools I use for streaming:
 - [VDO Ninja](https://vdo.ninja/)
 - [SonoBus](https://www.sonobus.net/) - High-quality, low-latency peer-to-peer audio. ([HN](https://news.ycombinator.com/item?id=31505323))
 - [Video Live Streaming: Notes on RTMP, HLS, and WebRTC (2022)](https://www.daily.co/blog/video-live-streaming/) ([HN](https://news.ycombinator.com/item?id=31642292))
+- [An insight into live video streaming infrastructure at Twitch](https://www.scaleyourapp.com/live-video-streaming-infrastructure-at-twitch/) ([HN](https://news.ycombinator.com/item?id=31648180))
