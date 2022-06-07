@@ -336,6 +336,7 @@
 - [manifolds](https://github.com/leftaroundabout/manifolds) - Coordinate-free hypersurfaces as Haskell types.
 - [chimera](https://github.com/Bodigrim/chimera) - Lazy infinite compact streams with cache-friendly O(1) indexing and applications for memoization.
 - [OpenTelemetry for Haskell](https://github.com/iand675/hs-opentelemetry) ([Tweet](https://twitter.com/iand675/status/1466060148754063363))
+- [binrep](https://github.com/raehik/binrep) - Useful, efficient, precise binary schema modelling in Haskell.
 
 ## Notes
 

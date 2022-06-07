@@ -157,3 +157,4 @@ Love [Italic](https://italic.com/)'s store UX.
 - [Ask HN: Anyone else quickly losing confidence in Amazon? (2022)](https://news.ycombinator.com/item?id=31624401)
 - [Reasons for Abondonments During Checkout](https://twitter.com/_TommyMason/status/1533375546817658882)
 - [Headless Commerce with Nuxt 3, Shopify, and TailwindCSS](https://github.com/Baroshem/nuxt-shopify-tailwind)
+- [GAÂLA](https://gaala.com/) - Slow-fashion brand bringing you timeless apparel crafted by skilled European artisans. ([IG](https://www.instagram.com/gaalaparis/))
