@@ -60,6 +60,7 @@
 - [Fields](https://github.com/dwyl/fields) - Collection of commonly used fields implemented as custom Ecto types with validation, sanitizing and encryption/hashing.
 - [Spear](https://github.com/NFIBrokerage/spear) - Sharp EventStoreDB 20+ client backed by Mint.
 - [Yesql](https://github.com/lpil/yesql) - Elixir library for using SQL.
+- [Etso](https://github.com/evadne/etso) - Ecto 3 adapter allowing use of Ecto schemas held in ETS tables.
 
 ## Test
 
@@ -69,6 +70,7 @@
 - [Mock](https://github.com/jjh42/mock) - Mocking library for Elixir language.
 - [ExMachina](https://github.com/thoughtbot/ex_machina) - Create test data for Elixir applications.
 - [Patch](https://github.com/ihumanable/patch) - Ergonomic Mocking for Elixir.
+- [StreamData](https://github.com/whatyouhide/stream_data) - Elixir library for data generation and property-based testing.
 
 ## ML
 

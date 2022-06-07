@@ -133,7 +133,7 @@ if err != nil {
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article) - Reference for the Go community that aims to help developers write cleaner code.
 - [Go Language Server](https://github.com/sourcegraph/go-langserver) - Adds Go support to editors and other tools that use the Language Server Protocol (LSP).
 - [Go talks](https://github.com/golang/talks)
-- [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. ([HN](https://news.ycombinator.com/item?id=31636642))
+- [TinyGo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. ([HN](https://news.ycombinator.com/item?id=31636642)) ([Web](https://tinygo.org/))
 - [Yaegi](https://github.com/containous/yaegi) - Another Elegant Go Interpreter.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)

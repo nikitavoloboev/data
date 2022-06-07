@@ -24,3 +24,4 @@
 - [Iuliia](https://iuliia.ru/) - Transliterate Cyrillic → Latin in every possible way. ([Code](https://github.com/nalgeon/iuliia-js))
 - [summarus](https://github.com/IlyaGusev/summarus) - Abstractive and extractive summarization models, mostly for Russian language. Building on top of AllenNLP.
 - [Natasha](https://github.com/natasha/natasha) - Solves basic Russian NLP tasks, API for lower level Natasha projects.
+- [encodechka](https://github.com/avidale/encodechka) - Tiniest sentence encoder for Russian language.

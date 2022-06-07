@@ -529,6 +529,7 @@
 - [RustCrypto: NIST P-384](https://github.com/jedisct1/rust-p384) - Elliptic curve (a.k.a. secp384r1) types implemented in terms of traits from the elliptic-curve crate.
 - [rust-ed25519-compact](https://github.com/jedisct1/rust-ed25519-compact) - Small, WASM-friendly, zero-dependencies Ed25519 implementation for Rust.
 - [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) - Based on merkle tree, but the exposed interface cannot export merkle tree.
+- [group](https://github.com/zkcrypto/group) - Elliptic curve group traits and utilities.
 
 ## Linux
 
