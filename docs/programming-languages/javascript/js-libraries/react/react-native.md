@@ -270,3 +270,4 @@ title: React Native
 - [Navigation Router](https://github.com/grahammendick/navigation) - Scene-Based Navigation for React and React Native.
 - [React Native at Shopify (2022)](https://twitter.com/fnthawar/status/1532054866788593665)
 - [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.
+- [Stitches Native](https://github.com/Temzasse/stitches-native) - React Native implementation of the popular CSS-in-JS library Stitches.

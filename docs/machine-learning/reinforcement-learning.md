@@ -6,6 +6,8 @@ title: Reinforcement learning
 
 [Acme](https://github.com/deepmind/acme), [TorchRL](https://github.com/facebookresearch/rl) & [Ray](https://github.com/ray-project/ray) seem nice. [Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class) is great intro.
 
+[Reinforcement Learning with Neural Radiance Fields](https://dannydriess.github.io/nerf-rl/) is fascinating.
+
 ## Links
 
 - [Where to start learning Reinforcement Learning in 2018?](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
@@ -366,3 +368,4 @@ title: Reinforcement learning
 - [Julia Reinforcement Learning Algorithms](https://github.com/fabio-4/JuliaRL)
 - [Border](https://github.com/taku-y/border) - Reinforcement learning library in Rust.
 - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem (2022)](https://arxiv.org/abs/2205.14953) ([HN](https://news.ycombinator.com/item?id=31628359))
+- [Reinforcement Learning with Neural Radiance Fields (2022)](https://arxiv.org/abs/2206.01634) ([Web](https://dannydriess.github.io/nerf-rl/))

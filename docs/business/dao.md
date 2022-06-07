@@ -6,6 +6,8 @@ title: DAOs
 
 I think DAOs can be interesting for crowd funding with benefits baked in. One example of this is [buying a community mansion together](https://twitter.com/marty/status/1522312983531163649).
 
+The [interview](https://www.thetwentyminutevc.com/podcast/ian-lee/) with [Ian](https://twitter.com/ianDAOs) who leads [Syndicate](https://syndicate.io/) is nice.
+
 ## Interesting
 
 - [Station](https://www.station.express/) - Connecting people and projects in Web3. ([Twitter](https://twitter.com/0xStation))
@@ -74,3 +76,5 @@ I think DAOs can be interesting for crowd funding with benefits baked in. One ex
 - [Kali](https://github.com/lexDAO/Kali) - Optimized DAC Protocol.
 - [DAOPEDIA](https://daopedia.xyz/) - Wikipedia for DAOs. ([Twitter](https://twitter.com/daopedia)) ([Intro](https://twitter.com/daopedia/status/1493325234287566854))
 - [DAOs seem more like a bug than a feature](https://twitter.com/GergelyOrosz/status/1531391308757094400)
+- [Why DAOs Will Replace Venture Capital (2022)](https://www.thetwentyminutevc.com/podcast/ian-lee/)
+- [Syndicate](https://syndicate.io/) - Building the Investing Infrastructure for Web3. ([Twitter](https://twitter.com/SyndicateDAO))

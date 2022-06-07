@@ -119,6 +119,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elvin Aliyev](https://www.behance.net/surferdude)
 - [Ben Nicholas](https://www.artstation.com/belgianboolean)
 - [Benjamin Guedj](https://www.instagram.com/oursroux/)
+- [Vanessa Stockard](https://www.instagram.com/vanessastockard/)
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Mocaran](https://mocaran.com/)

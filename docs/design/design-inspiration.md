@@ -216,8 +216,9 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 
 ## Products
 
-- [Notion](https://www.notion.so)
 - [Muse](https://museapp.com/)
+- [Notion](https://www.notion.so)
+- [Proxyman](https://proxyman.io/)
 - [Sleeve](https://replay.software/sleeve)
 - [Flexibits](https://flexibits.com/)
 - [Collected Notes](https://collectednotes.com/)

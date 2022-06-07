@@ -811,3 +811,4 @@ title: Rust
 - [Why Rust easily optimizes out smart pointers where C++ cannot? (2022)](https://news.ycombinator.com/item?id=31626508)
 - [Arc and Mutex in Rust (2022)](https://itsallaboutthebit.com/arc-mutex/)
 - [Algorithms implemented in Rust, explained](https://github.com/TianyiShi2001/Algorithms)
+- [Trivia About Rust Types (2022)](https://www.thecodedmessage.com/posts/trivia-rust-types/)

@@ -185,6 +185,7 @@
 - [wasmy](https://github.com/henrylee2cn/wasmy) - Easily customize my WASM app.
 - [WASM Timer](https://github.com/tomaka/wasm-timer) - Abstraction over std::time::Instant and tokio_timer that works on WASM.
 - [WABT-RS](https://github.com/pepyakin/wabt-rs) - WABT bindings for Rust.
+- [Rust Open Policy Agent SDK](https://github.com/matrix-org/rust-opa-wasm) - Crate to use OPA policies compiled to WASM.
 
 ## GUI
 
@@ -1931,6 +1932,7 @@
 - [Lofty](https://github.com/Serial-ATA/lofty-rs) - Audio metadata library.
 - [opt-rs](https://github.com/t-young31/opt-rs) - Lightweight molecular mechanics optimization code written in rust.
 - [Malachite](https://github.com/mhogrefe/malachite) - Arbitrary-precision arithmetic library for Rust.
+- [upon](https://github.com/rossmacarthur/upon) - Simple, powerful template engine.
 
 ## Cargo Plugins
 

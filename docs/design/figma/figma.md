@@ -98,3 +98,4 @@ title: Figma
 - [Prototyper for Figma](https://prototyper.design/)
 - [Component Properties (Case Study) – Figma](https://www.figma.com/community/file/1113141767963760931) - Learnings about Figma's Component Properties. ([Tweet](https://twitter.com/killnicole/status/1531314218296872962))
 - [What is your favorite Figma feature? (2022)](https://twitter.com/skuwamoto/status/1532206105115254784)
+- [Figma Godly Starter](https://godly.shop/product/starter) ([Tweet](https://twitter.com/darylginn/status/1534055263392571393))

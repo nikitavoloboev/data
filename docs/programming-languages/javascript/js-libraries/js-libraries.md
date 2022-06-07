@@ -944,6 +944,7 @@
 - [collect.js](https://github.com/ecrmnn/collect.js) - Convenient and dependency free wrapper for working with arrays and objects.
 - [typeson.js](https://github.com/dfahlander/typeson) - Preserves types over JSON, BSON or socket.io.
 - [json2html](https://github.com/moappi/json2html) - JavaScript library that uses js templates to render JSON objects into HTML.
+- [json2csv](https://github.com/zemirco/json2csv) - Converts JSON into CSV with column titles and proper line endings.
 
 ## Links
 
