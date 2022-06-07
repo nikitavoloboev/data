@@ -65,3 +65,4 @@ title: Research chemicals
 - [ChemResearch Reddit](https://www.reddit.com/r/ChemResearch/)
 - [Everyone’s favorite chemical? (2022)](https://www.reddit.com/r/researchchemicals/comments/ur3doy/everyones_favorite_chemical/)
 - [Has anyone of you permanent damage?](https://www.reddit.com/r/researchchemicals/comments/uyyny6/has_anyone_of_you_permanent_damage/)
+- [What's your favorite vapeable RC? (2022)](https://www.reddit.com/r/researchchemicals/comments/v6q8c3/whats_your_favorite_vapeable_rc/)

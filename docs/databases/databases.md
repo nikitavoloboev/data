@@ -239,6 +239,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [PolarDB-X](https://github.com/ApsaraDB/galaxysql) - Cloud native distributed SQL Database designed for high concurrency, massive storage and complex querying scenarios.
 - [SplinterDB](https://github.com/vmware/splinterdb) - Key-value store designed for high performance on fast storage devices.
 - [jammdb](https://github.com/pjtatlow/jammdb) - Embedded, single-file database that allows you to store key / value pairs as bytes.
+- [tectonicdb](https://github.com/0b01/tectonicdb) - Fast, highly compressed standalone database and streaming protocol for order book ticks.
 
 ## Tools
 

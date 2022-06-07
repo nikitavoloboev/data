@@ -311,3 +311,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [The Electromagnetic Spectrum](https://twitter.com/WorldAndScience/status/1529717989326696449) - All the parts of the electromagnetic spectrum are the same thing—radiation. Radiation is made up of a stream of photons—particles without mass that move in a wave pattern all at the same speed, the speed of light.
 - [Jupyter notebook with steps to rediscover the Higgs boson yourself](https://github.com/meevans1/How-to-rediscover-the-Higgs)
 - [James Clerk Maxwell - A Sense of Wonder - Documentary](https://www.youtube.com/watch?v=ANIkxDm8bF4)
+- [Please, don't build another Large Hadron Collider (2022)](https://bigthink.com/hard-science/large-hadron-collider-economics/) ([HN](https://news.ycombinator.com/item?id=31651086))

@@ -268,3 +268,4 @@ title: Svelte
 - [Svelvet](https://github.com/oslabs-beta/Svelvet) - Lightweight Svelte component library for building interactive node-based flow diagrams. ([Web](https://svelvet.io/)) ([HN](https://news.ycombinator.com/item?id=31595822))
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) - Advanced Frontend Platform for eCommerce based on Sveltekit.
 - [Svelte French Toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte.
+- [Attractions](https://illright.github.io/attractions/) - Pretty cool UI kit for Svelte. ([Code](https://github.com/illright/attractions))

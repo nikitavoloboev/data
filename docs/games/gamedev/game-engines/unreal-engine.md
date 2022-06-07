@@ -36,3 +36,4 @@ title: Unreal Engine
 - [LuaMachine](https://github.com/rdeioris/LuaMachine) - Unreal Engine Plugin for adding Lua scripting to your projects.
 - [Houdini Engine Plugin for Unreal Engine](https://github.com/sideeffects/HoudiniEngineForUnreal)
 - [Recreatig The Lord Of The Rings Doors of Durin in Unreal Engine 5 (2022)](https://80.lv/articles/recreatig-the-lord-of-the-rings-doors-of-durin-in-unreal-engine-5/)
+- [OpenVDB and NanoVDB in Unreal](https://github.com/eidosmontreal/unreal-vdb) - Unreal plugin that can read OpenVDB and NanoVDB files in Unreal.

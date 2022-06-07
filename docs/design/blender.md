@@ -77,3 +77,4 @@ title: Blender
 - [Web Viewer for Blender](https://github.com/elia-orsini/BlenderWebViewer)
 - [Molecular Nodes](https://github.com/BradyAJohnston/MolecularNodes) - Addon and nodes for working with structural biology and molecular data in Blender.
 - [MRMO-Halftone](https://mrmotarius.itch.io/mrmo-halftone) - Blender shader-based halftone offset printing emulation process that aims to evoke the "feel" of color halftone prints.
+- [Arsenal](https://github.com/katharostech/arsenal) - Blender game engine prototype written in Rust.

@@ -751,3 +751,4 @@ title: Kubernetes
 - [Kubernetes Reference Docs](https://github.com/kubernetes-sigs/reference-docs) - Tools to build reference documentation for Kubernetes APIs and CLIs.
 - [Rego Style Guide](https://github.com/StyraInc/rego-style-guide)
 - [Rufio](https://github.com/tinkerbell/rufio) - Kubernetes controller for managing baseboard management state and actions.
+- [Eraser](https://github.com/Azure/eraser) - Cleaning up images from Kubernetes nodes.

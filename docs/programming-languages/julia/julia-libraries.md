@@ -105,6 +105,7 @@
 - [BipartiteMatching.jl](https://github.com/IsaacRudich/BipartiteMatching.jl) - Fast and scalable max cardinality matching for bipartite graphs.
 - [DeepQLearning](https://github.com/JuliaPOMDP/DeepQLearning.jl) - Implementation of the Deep Q-learning algorithm to solve MDPs.
 - [DiffRules](https://github.com/JuliaDiff/DiffRules.jl) - Simple shared suite of common derivative definitions.
+- [HuggingFaceHub.jl](https://github.com/cjdoris/HuggingFaceHub.jl) - Julia package to interact with the Hugging Face Hub.
 
 ## Math
 

@@ -139,3 +139,4 @@ title: Julia
 - [SciML Style Guide for Julia](https://github.com/SciML/SciMLStyle)
 - [Julia for Data Analysis Book (2022)](https://www.manning.com/books/julia-for-data-analysis)
 - [Building a transformer in Julia (2022)](https://liorsinai.github.io/coding/2022/05/18/transformers.html)
+- [Julia parser for Lezer](https://github.com/lezer-parser/julia)

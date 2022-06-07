@@ -228,3 +228,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [How To Export Podcast Highlights To Obsidian (2021)](https://blog.snipd.com/how-to-export-your-podcast-highlights-to-obsidian-54208c06d491) ([Reddit](https://www.reddit.com/r/ObsidianMD/comments/qkk8fm/we_at_snipd_just_released_an_obsidian_integration/))
 - [Substack Podcast app](https://twitter.com/alexcornell/status/1521124986412445697)
 - [Podbabble](https://podbabble.com/) - Podcast discussion happens here. ([HN](https://news.ycombinator.com/item?id=31527544))
+- [Cast](https://cast-iu.pages.dev/) - Podcast listening progressive web app with all-around automated quality assurance. ([Code](https://github.com/aabounegm/cast))

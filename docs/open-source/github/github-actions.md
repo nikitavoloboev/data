@@ -231,6 +231,7 @@ title: GitHub actions
 - [Download workflow artifact GitHub Action](https://github.com/dawidd6/action-download-artifact) - Downloads and extracts uploaded artifact associated with given workflow and commit or other criteria.
 - [PagerDuty Change Events](https://github.com/PagerDuty/pagerduty-change-events-action) - GitHub action that creates a PagerDuty change event.
 - [GH Find Current PR](https://github.com/jwalton/gh-find-current-pr) - GitHub Action for finding the Pull Request (PR) associated with the current SHA.
+- [TurboRepo Github Artifacts action](https://github.com/felixmosh/turborepo-gh-artifacts) - Allows you use Github artifacts as TurboRepo remote cache server.
 
 ## Go
 

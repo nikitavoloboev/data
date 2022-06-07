@@ -539,6 +539,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [vali-guard](https://github.com/lforst/vali-guard) - Somewhat flexible validation library that guarantees TypeScript type-safety.
 - [proxy-hooks](https://github.com/Borrus-sudo/proxy-hooks) - Zero dependency JS proxy wrapper for ease of use with first class TS support.
 - [Emery](https://github.com/Thinkmill/emery) - Polish for the rough parts of TypeScript.
+- [jsx-view](https://github.com/colelawrence/jsx-view)
 
 ## Links
 
