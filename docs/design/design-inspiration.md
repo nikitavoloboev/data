@@ -379,6 +379,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
 - [Miguel Solorio](https://www.miguelsolorio.com/)
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
+- [Hoang Vo](https://hoangvvo.com/)
 - [Will Boyd](https://codersblock.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Louie Mantia](http://louiemantia.com/)

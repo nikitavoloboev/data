@@ -1227,3 +1227,4 @@
 - [Core Image by Example](https://github.com/frankschlegel/core-image-by-example) - Hands-on approach for getting to know all things Apple's Core Image framework can do.
 - [Awesome Swift Async Await](https://github.com/artemnovichkov/awesome-swift-async-await) - Hand-curated list of Swift async/await resources.
 - [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML) - Generate UML class diagrams from swift code with this Command Line Interface (CLI) and Swift Package.
+- [Apple Platform SDK API Differences, with Swift support](https://sdk.news/) ([Code](https://github.com/sdk-news/sdk-news))

@@ -779,3 +779,4 @@
 - [Exploring Visual Prompts for Adapting Large-Scale Models (2022)](https://arxiv.org/abs/2203.17274) ([Code](https://github.com/hjbahng/visual_prompting))
 - [Deepfake Offensive Toolkit](https://github.com/sensity-ai/dot) - Makes real-time, controllable deepfakes ready for virtual cameras injection.
 - [Real-time Object Detection for Streaming Perception (2022)](https://arxiv.org/abs/2203.12338) ([Code](https://github.com/yancie-yjr/StreamYOLO))
+- [Volumentations 3D](https://github.com/ZFTurbo/volumentations) - Library for 3D augmentations.

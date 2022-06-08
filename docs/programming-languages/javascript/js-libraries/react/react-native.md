@@ -272,3 +272,4 @@ title: React Native
 - [React Native Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.
 - [Stitches Native](https://github.com/Temzasse/stitches-native) - React Native implementation of the popular CSS-in-JS library Stitches.
 - [render-react-native-to-image](https://github.com/jaredly/render-react-native-to-image) - Take a React Native component tree, and render it into an SVG.
+- [Drawings, gestures, and animations workshop – App.js Conference 2022](https://github.com/software-mansion-labs/drawings-and-animations-workshop)

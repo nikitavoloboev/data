@@ -42,7 +42,7 @@
 - [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies. ([Article](https://blog.jim-nielsen.com/2021/canistilluse.com/)) ([HN](https://news.ycombinator.com/item?id=28309885))
 - [Wildcard](https://www.geoffreylitt.com/wildcard/) - Browser extension for customizing web apps with a spreadsheet view. ([Code](https://github.com/geoffreylitt/wildcard))
 - [Axiom](https://axiom.ai/) - Create custom bots in seconds, or use ready-made templates. ([HN](https://news.ycombinator.com/item?id=23089243))
-- [The Browser Company](https://thebrowser.company/) - Building a better way to use the internet.
+- [The Browser Company](https://thebrowser.company/) - Building a better way to use the internet. ([Article](https://www.inputmag.com/design/the-browser-company-arc-design-interview))
 - [Fast and reliable cross-browser testing with Playwright (2020)](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file. ([HN](https://news.ycombinator.com/item?id=30527999))
 - [XS-Leaks](https://github.com/xsleaks/xsleaks) - Collection of browser-based side channel attack vectors.
