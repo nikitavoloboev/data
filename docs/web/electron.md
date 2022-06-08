@@ -65,3 +65,4 @@ I prefer to build things natively with [SwiftUI](../programming-languages/swift/
 - [ToDesktop](https://www.todesktop.com/) - Convert your Web App to a Desktop App in 2 minutes. ([Twitter](https://twitter.com/ToDesktop))
 - [Svelte Electron Boilerplate](https://github.com/ptkdev-boilerplate/svelte-electron-boilerplate)
 - [Vite + SolidJS + Electron boilerplate](https://github.com/ch99q/vite-solid-electron)
+- [Electron + Vite + React + Sass + boilerplate](https://github.com/electron-vite/electron-vite-react)

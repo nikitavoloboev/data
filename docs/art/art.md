@@ -533,3 +533,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Toward Modeling Creative Processes for Algorithmic Painting (2022)](https://arxiv.org/abs/2205.01605) ([Tweet](https://twitter.com/AaronHertzmann/status/1521659980813770752))
 - [What Artists Notice](https://stopa.io/post/294)
 - [The Pixel Art Tutorial](https://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+- [How to Make Pixel Art: Step-by-step guide](https://smoldungeon.com/pixel-art)

@@ -4,7 +4,6 @@
 
 - [kit](https://github.com/kit-clj/kit) - Lightweight, modular framework for scalable web development in Clojure. ([Web](https://kit-clj.github.io/)) ([Intro](https://yogthos.net/posts/2022-01-08-IntroducingKit.html))
 - [Rum](https://github.com/tonsky/rum) - Simple, decomplected, isomorphic HTML UI library for Clojure and ClojureScript.
-- [Joy](https://joyframework.com/) - Web framework written in janet for people who like clojure syntax, fast startup time and very low memory usage. ([Code](https://github.com/joy-framework/joy)) ([HN](https://news.ycombinator.com/item?id=23046568))
 - [Luminus](https://luminusweb.com/) - Clojure micro-framework based on a set of lightweight libraries. ([HN](https://news.ycombinator.com/item?id=22852375))
 - [bootleg](https://github.com/retrogradeorbit/bootleg) - Simple template processing command line tool to help build static websites.
 - [Biff](https://github.com/jacobobryant/biff) - Web framework + self-hosted deployment solution for Clojure. ([Migrating to Biff, a self-hosted Firebase alternative for Clojure](https://findka.com/blog/migrating-to-biff/)) ([Web](https://findka.com/biff/#introduction)) ([HN](https://news.ycombinator.com/item?id=23921220))
