@@ -1,6 +1,6 @@
 # Ukraine
 
-It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders miscalculated decisions to try and maintain a [stronghold on oil/gas exports](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y) in EU. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://www.youtube.com/watch?v=DBah5HNknLM) on both its neighbors and its own citizens, it would be great if everyone focused on improving the well being of the population.
+It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [Russia](russia.md)'s leaders [miscalculated decisions](https://overcast.fm/+bbjkhwBVQ) to try and maintain a [stronghold on oil/gas exports](https://www.youtube.com/watch?v=Eo6w5R6Uo8Y) in EU. Instead of [wasting lives](https://twitter.com/MaximEristavi/status/1513576913431941135) on [waging war](https://www.youtube.com/watch?v=DBah5HNknLM) on both its neighbors and its own citizens, it would be great if everyone focused on improving the well being of the population.
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
@@ -151,3 +151,4 @@ I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter
 - [Ukranian artists](https://twitter.com/mashawannasay/status/1526187658325671938)
 - [Ukraine: The Latest Podcast](https://podcasts.apple.com/gb/podcast/ukraine-the-latest/id1612424182)
 - [Notes on Ukraine: I spent most of April and some of May traveling around Ukraine (2022)](https://mattlakeman.org/2022/05/15/notes-on-ukraine/)
+- [The New Era of Great Power Competition | John Mearsheimer & Stephen Walt (2022)](https://overcast.fm/+bbjkhwBVQ)

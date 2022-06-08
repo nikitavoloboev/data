@@ -180,3 +180,4 @@
 - [The Ultimate Guide To Push Notifications For Developers (2022)](https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/)
 - [Apple UX Guide](https://github.com/microsoft/apple-ux-guide) - Tips and best practices for building great experiences and writing sustainable code using Apple's UX Frameworks.
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/) ([Tweet](https://twitter.com/lindadong/status/1534248883353595904))
+- [Optimizing For Feelings (2022)](https://browsercompany.substack.com/p/optimizing-for-feelings) ([HN](https://news.ycombinator.com/item?id=31654751))

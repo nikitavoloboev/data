@@ -347,6 +347,7 @@
   - [Emacs](docs/text-editors/emacs/emacs.md)
     - [Emacs packages](docs/text-editors/emacs/emacs-packages.md)
   - [IntelliJ](docs/text-editors/intellij.md)
+  - [CodeMirror](docs/text-editors/codemirror.md)
   - [ProseMirror](docs/text-editors/prosemirror.md)
 - [Operating systems](docs/operating-systems/operating-systems.md)
   - [Linux](docs/operating-systems/linux/linux.md)

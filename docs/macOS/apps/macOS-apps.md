@@ -259,4 +259,4 @@ And [here](../../code/config.md) is a full list of the apps I have inside my `/A
 - [CatalystToolbarMenuButton](https://github.com/steventroughtonsmith/CatalystToolbarMenuButton) - Showcasing how to build a dropdown menu toolbar button using AppKit.
 - [Designing macOS menu bar extras](https://bjango.com/articles/designingmenubarextras/)
 - [Tips – Preview the Mac app people forget about](https://www.fourth-wall.co.uk/post/10-tips-for-preview-the-default-mac-app-that-people-forget-about) ([HN](https://news.ycombinator.com/item?id=31315110))
-- [The App Fair](https://appfair.app/) - Catalog browser for discovering & installing macOS apps. ([Code](https://github.com/App-Fair/App))
+- [App Fair](https://appfair.app/) - Catalog browser for discovering & installing macOS apps. ([Code](https://github.com/App-Fair/App))

@@ -826,6 +826,6 @@
 - [Improving Discrete Latent Representations With Differentiable Approximation Bridges (2019)](https://arxiv.org/abs/1905.03658) ([Code](https://github.com/apple/ml-dab))
 - [Semantic Search and GIFs](https://www.pinecone.io/learn/gif-search/) ([HN](https://news.ycombinator.com/item?id=31652839))
 - [Materials for workshops on the Hugging Face ecosystem](https://github.com/huggingface/workshops)
-- [Deploying Transformers on the Apple Neural Engine (2022)](https://machinelearning.apple.com/research/neural-engine-transformers)
+- [Deploying Transformers on the Apple Neural Engine (2022)](https://machinelearning.apple.com/research/neural-engine-transformers) ([HN](https://news.ycombinator.com/item?id=31666476))
 - [A comprehensive review of Binary Neural Network (2022)](https://arxiv.org/abs/2110.06804)
 - [Self-organising Systems from Google](https://github.com/google-research/self-organising-systems)

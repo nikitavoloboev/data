@@ -79,3 +79,4 @@ title: Blender
 - [MRMO-Halftone](https://mrmotarius.itch.io/mrmo-halftone) - Blender shader-based halftone offset printing emulation process that aims to evoke the "feel" of color halftone prints.
 - [Arsenal](https://github.com/katharostech/arsenal) - Blender game engine prototype written in Rust.
 - [3D plots using Blender as a backend](https://github.com/imontesino/blender-plotting)
+- [Blender 3.2 (2022)](https://www.blender.org/download/releases/3-2/) ([HN](https://news.ycombinator.com/item?id=31668274))

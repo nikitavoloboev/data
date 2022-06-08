@@ -43,3 +43,4 @@
 - [Flathunter](https://github.com/flathunters/flathunter) - Telegram bot to help people with their flat search. In Germany.
 - [Irish and German people offering things](https://twitter.com/killersundymann/status/1446131283969589250)
 - [How I would start my next startup in Germany without a GmbH (2020)](https://richventures.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh) ([HN](https://news.ycombinator.com/item?id=31601638))
+- [Youth Cultures in East Germany 1985 / Stasi (East German Secret Police)](https://twitter.com/psychotronica_/status/1533839573108903939) ([HN](https://news.ycombinator.com/item?id=31667247))
