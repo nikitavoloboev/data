@@ -1,6 +1,6 @@
 # Statistics
 
-[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) is a great course.
+[Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022) & [Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf) are [great reads](https://www.reddit.com/r/datascience/comments/v6sv06/what_is_the_bible_of_data_science/).
 
 ## Links
 
@@ -51,7 +51,7 @@
 - [Seeing Theory](https://seeing-theory.brown.edu/) - Visual introduction to probability and statistics. ([HN](https://news.ycombinator.com/item?id=23661131)) ([HN 2](https://news.ycombinator.com/item?id=24633484)) ([Code](https://github.com/seeingtheory/Seeing-Theory))
 - [Abusing Linear Regression to Make a Point (2020)](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/) ([HN](https://news.ycombinator.com/item?id=23752561))
 - [Introduction to Probability and Random Processes (1979)](https://ellerman.org/wp-content/uploads/2012/12/Rota-Baclawski-Prob-Theory-79.pdf)
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) ([HN](https://news.ycombinator.com/item?id=25592152)) ([Notes](https://github.com/chris-leonard/elements-of-statistical-learning))
+- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) ([HN](https://news.ycombinator.com/item?id=25592152)) ([Notes](https://github.com/chris-leonard/elements-of-statistical-learning))
 - [Statistics 110: Probability (35 lectures)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [Causal Inference Book (2020)](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 - [Sets and Probability](https://stopa.io/post/243)

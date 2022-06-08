@@ -6,6 +6,8 @@ title: Electron
 
 [React Tauri](https://github.com/mdtanrikulu/react-tauri) seems like an interesting alternative for building cross platform apps.
 
+I prefer to build things natively with [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md) but when I do use Electron, I use [Vite-SolidJS-Electron](https://github.com/ch99q/vite-solid-electron) template to get things started.
+
 ## OSS apps
 
 - [Actual](https://github.com/actualbudget/actual) - Budgeting app. Local first architecture.
@@ -62,3 +64,4 @@ title: Electron
 - [Electron Quick Start for Mac App Store](https://github.com/steve981cr/electron-quickstart-mas)
 - [ToDesktop](https://www.todesktop.com/) - Convert your Web App to a Desktop App in 2 minutes. ([Twitter](https://twitter.com/ToDesktop))
 - [Svelte Electron Boilerplate](https://github.com/ptkdev-boilerplate/svelte-electron-boilerplate)
+- [Vite + SolidJS + Electron boilerplate](https://github.com/ch99q/vite-solid-electron)

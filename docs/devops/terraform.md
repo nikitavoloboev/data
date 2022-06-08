@@ -4,6 +4,8 @@ title: Terraform
 
 # [Terraform](https://www.terraform.io/)
 
+[Here](https://www.youtube.com/watch?v=7xngnjfIlK4) is a nice intro course.
+
 ## Links
 
 - [Atlantis](https://github.com/runatlantis/atlantis) - Terraform For Teams.
@@ -183,3 +185,4 @@ title: Terraform
 - [Terraform Provider for Slack](https://github.com/pablovarela/terraform-provider-slack) - Plugin for Terraform that allows the management of Slack resources.
 - [AsCode](https://github.com/mcuadros/ascode) - Terraform Alternative Syntax.
 - [Terraform Provider dotenv](https://github.com/jrhouston/terraform-provider-dotenv) - Convenience provider for reading `.env` files in Terraform.
+- [Complete Terraform Course - From Beginner to Pro (2022)](https://www.youtube.com/watch?v=7xngnjfIlK4)

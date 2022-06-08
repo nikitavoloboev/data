@@ -175,3 +175,4 @@ title: RISC-V
 - [RISC-V Torture Test](https://github.com/ucb-bar/riscv-torture)
 - [SBI](https://github.com/repnop/sbi) - Rust library to interface with the RISC-V Supervisor Binary Interface.
 - [RISC V Emulator](https://github.com/LowLevelJavaScript/RISC-V-Emulator)
+- [riscv-rt](https://github.com/rust-embedded/riscv-rt) - Minimal runtime / startup for RISC-V CPU's.

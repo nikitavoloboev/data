@@ -256,3 +256,4 @@
 - [Amundsen](https://github.com/amundsen-io/amundsen) - Data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [Equals](https://equals.app/) - Next generation spreadsheet with built in connections to any data warehouse, modern versioning, and collaboration. ([Twitter](https://twitter.com/heyequals)) ([Tweet](https://twitter.com/Austen/status/1532014048480329728))
 - [Entity Resolution: The most common data science challenge](https://docs.magniv.io/tutorials/entity-resolution) ([HN](https://news.ycombinator.com/item?id=31585405))
+- [What is the 'Bible' of Data Science? (2022)](https://www.reddit.com/r/datascience/comments/v6sv06/what_is_the_bible_of_data_science/)

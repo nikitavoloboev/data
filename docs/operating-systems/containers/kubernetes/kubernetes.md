@@ -755,3 +755,4 @@ title: Kubernetes
 - [Multus CNI](https://github.com/k8snetworkplumbingwg/multus-cni) - Enables attaching multiple network interfaces to pods in Kubernetes.
 - [BYOH](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) - Cluster API Infrastructure Provider for already-provisioned hosts running Linux.
 - [Etcd-Backup-Restore](https://github.com/gardener/etcd-backup-restore) - Collection of components to backup and restore the Etcd of a Kubernetes cluster.
+- [Pisanix](https://github.com/database-mesh/pisanix) - Modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way.
