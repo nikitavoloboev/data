@@ -143,3 +143,4 @@ title: JSON
 - [JSON Forms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms. ([HN](https://news.ycombinator.com/item?id=31498533)) ([Web](https://jsonforms.io/))
 - [JSON Operational Transformation (JOT)](https://github.com/JoshData/jot)
 - [Why JSON Isn’t A Good Configuration Language (2018)](https://www.lucidchart.com/techblog/2018/07/16/why-json-isnt-a-good-configuration-language/) ([HN](https://news.ycombinator.com/item?id=31660372))
+- [JSON Diff Kit](https://github.com/RexSkz/json-diff-kit) - Better JSON differ & viewer.

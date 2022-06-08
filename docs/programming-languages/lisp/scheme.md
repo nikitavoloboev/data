@@ -94,3 +94,4 @@ title: Scheme
 - [thunderchez](https://github.com/ovenpasta/thunderchez) - Libraries for Chez Scheme productivity.
 - [The Little Typer](https://thelittletyper.com/) ([Review](https://thatgeoguy.ca/blog/2021/03/07/review-the-little-typer/))
 - [Scheme interpreter in Scala](https://github.com/rami3l/yascm)
+- [Scheje](https://github.com/turbopape/scheje) - Scheme in Clojure.

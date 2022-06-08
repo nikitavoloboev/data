@@ -4,7 +4,7 @@ title: Docusaurus
 
 # [Docusaurus](https://docusaurus.io/)
 
-Docusaurus is great but I dislike the fact that it uses React which adds unnecessary load to the page. [VitePress](https://vitepress.vuejs.org/) seems like a nice alternative but Vue also uses VDOM.
+Docusaurus is great but I dislike the fact that it uses React which adds unnecessary load to the page. [VitePress](https://vitepress.vuejs.org/) & [VuePress](https://vuepress.vuejs.org/) seem like a nice alternative although Vue also uses VDOM.
 
 I want to try build a [SolidJS](../programming-languages/javascript/js-libraries/solid.md) based docs generation site and use it for my wiki. Start with just basics I need for myself and let the community do the rest. Make it as modular and pluggable as Docusaurus. And support inserting arbitrary Solid components.
 

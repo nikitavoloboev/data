@@ -233,6 +233,7 @@
 - [init](https://github.com/ferdinand-beyer/init) - Small Clojure framework for application initialization and dependency injection.
 - [Nexus](https://github.com/nivekuil/nexus) - Ergonomic dependency injection via logic programming.
 - [Clojask](https://github.com/clojure-finance/clojask) - Clojure data frame with parallel computing on larger-than-memory datasets.
+- [Schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation.
 
 ## Links
 

@@ -17,6 +17,7 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [Cloudflare Workers](https://developers.cloudflare.com/workers/) ([Code](https://github.com/cloudflare/workers-docs-engine)) ([Article](https://blog.cloudflare.com/new-and-improved-workers-docs/))
 - [Cloudflare Docs](https://developers.cloudflare.com/docs/) - Nice overview page. ([Code](https://github.com/cloudflare/cloudflare-docs))
 - [TSDX](https://tsdx.io)
+- [Meilisearch Docs](https://docs.meilisearch.com/) ([Code](https://github.com/meilisearch/documentation))
 - [Parcel 2 docs](https://v2.parceljs.org/) ([Code](https://github.com/parcel-bundler/website))
 - [Shields.io readme](https://github.com/badges/shields) - Clear instructions on how to start working on the project, contributing guidelines pointing to a tutorial, coding guidelines and even a high-level code walkthrough.
 - [inDinero Help Center in Notion](https://support.indinero.com/inDinero-Help-Center-465343520bbe4af19f3b0144b70a1192) - Easy example of doing help/docs for company in Notion.

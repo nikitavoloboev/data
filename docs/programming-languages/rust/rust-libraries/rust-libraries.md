@@ -1939,6 +1939,7 @@
 - [Stateful](https://github.com/mdeloof/stateful) - Ergonomic state machines for designing event-driven systems.
 - [Ferrite](https://github.com/ferrite-rs/ferrite) - Session Types DSL for Rust.
 - [Armature](https://github.com/mdeloof/armature) - Event-driven stateful actor framework for Rust.
+- [privdrop](https://github.com/jedisct1/rust-privdrop) - Simple Rust crate to drop privileges.
 
 ## Cargo Plugins
 

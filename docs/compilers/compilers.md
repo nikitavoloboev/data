@@ -225,3 +225,4 @@
 - [dewolf](https://github.com/fkie-cad/dewolf) - Research decompiler implemented as a Binary Ninja plugin and uses the MedimumLevel IL as a starting point.
 - [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf)
 - [Cwerg](https://github.com/robertmuth/Cwerg) - Lightweight compiler backend aimed at new programming language implementations that want to avoid heavy dependencies like LLVM.
+- [Deep Dive into JIT Compiler Optimizations (2020)](https://kipp.ly/blog/jits-impls/)

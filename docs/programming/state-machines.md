@@ -35,3 +35,4 @@
 - [State Machine Replication, and Why You Should Care (2022)](https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/) ([HN](https://news.ycombinator.com/item?id=31100023))
 - [Zag](https://zagjs.com/) - UI components powered by Finite State Machines. ([Code](https://github.com/chakra-ui/zag)) ([Docs Code](https://github.com/chakra-ui/zag-docs))
 - [Finitomata](https://github.com/am-kantox/finitomata) - FSM boilerplate based on callbacks.
+- [Differentiable Finite State Machines (2022)](https://google-research.github.io/self-organising-systems/2022/diff-fsm/)

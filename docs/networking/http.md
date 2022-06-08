@@ -271,3 +271,5 @@ title: HTTP
 - [A New Definition of HTTP (2022)](https://www.mnot.net/blog/2022/06/06/http-core)
 - [HTTP/3 (HTTP-over-QUIC) RFC](https://www.rfc-editor.org/rfc/rfc9114) ([HN](https://news.ycombinator.com/item?id=31647033)) ([Article](https://www.akamai.com/blog/news/the-next-generation-of-http)) ([Tweet](https://twitter.com/akanygren/status/1533925784037076992))
 - [Boomer](https://github.com/myzhan/boomer) - Better load generator for locust, written in Go.
+- [waitehr](https://github.com/gajus/waitehr) - CLI program that waits for HTTP response and retries request until the expected response is received.
+- [A Cloudflare view of HTTP usage trends (2022)](https://blog.cloudflare.com/cloudflare-view-http3-usage/)

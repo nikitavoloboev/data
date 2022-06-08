@@ -889,6 +889,7 @@
 - [csvkit](https://github.com/wireservice/csvkit) - Suite of utilities for converting to and working with CSV, the king of tabular file formats.
 - [Intake](https://github.com/intake/intake) - Lightweight package for finding, investigating, loading and disseminating data.
 - [wikirepo](https://github.com/andrewtavis/wikirepo) - Python based Wikidata framework for easy dataframe extraction.
+- [tidypolars](https://github.com/markfairbanks/tidypolars) - Data frame library built on top of the blazingly fast polars library that gives access to methods and functions familiar to R tidyverse users.
 
 ## Notes
 

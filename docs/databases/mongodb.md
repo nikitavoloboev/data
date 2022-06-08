@@ -54,3 +54,4 @@ title: MongoDB
 - [dangoDB](https://github.com/oslabs-beta/dangoDB) - MongoDB ODM for Deno.
 - [Go Kafka gRPC MongoDB microservice example](https://github.com/AleksK1NG/Go-Kafka-gRPC-MongoDB-microservice)
 - [MongoDB Starter with NextJS](https://github.com/vercel/mongodb-starter)
+- [ODMantic](https://github.com/art049/odmantic) - Async ODM for MongoDB based on python type hints.

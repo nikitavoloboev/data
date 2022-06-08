@@ -781,3 +781,4 @@
 - [Real-time Object Detection for Streaming Perception (2022)](https://arxiv.org/abs/2203.12338) ([Code](https://github.com/yancie-yjr/StreamYOLO))
 - [Volumentations 3D](https://github.com/ZFTurbo/volumentations) - Library for 3D augmentations.
 - [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
+- [LIVE: Towards Layer-wise Image Vectorization (2022)](https://ma-xu.github.io/LIVE/) ([Code](https://github.com/ma-xu/LIVE))

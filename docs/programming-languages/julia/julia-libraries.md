@@ -621,6 +621,8 @@
 - [CSV](https://github.com/JuliaData/CSV.jl) - Fast, flexible delimited file reader/writer for Julia.
 - [LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl) - Native Julia code for lattice QCD with dynamical fermions in 4 dimension.
 - [Groebner.jl](https://github.com/sumiya11/Groebner.jl) - Groebner bases in pure Julia.
+- [BinaryBuilder](https://github.com/JuliaPackaging/BinaryBuilder.jl) - Binary Dependency Builder for Julia.
+- [Glyphy](https://github.com/cormullion/Glyphy.jl) - Searches through the names of glyphs in the Unicode system and returns a list of the glyph names that match the search string.
 
 ## Links
 

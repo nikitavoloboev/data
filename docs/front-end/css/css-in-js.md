@@ -58,3 +58,4 @@
 - [TypeScript language service plugin for CSS Modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
 - [Rainbow Sprinkles](https://github.com/wayfair-incubator/rainbow-sprinkles) - Dynamic, theme-driven, style props for vanilla-extract.
 - [Comptime CSS](https://github.com/Mokshit06/comptime-css)
+- [CSS(SCSS/SASS) to vanilla-extract](https://css-to-vanilla-extract.netlify.app/) - Generate vanilla-extract typescript file from the CSS (SCSS/SASS) file.

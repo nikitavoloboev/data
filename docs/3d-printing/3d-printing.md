@@ -40,3 +40,4 @@
 - [Making 3D printing truly 3D (2022)](https://phys.org/news/2022-04-3d.html) ([HN](https://news.ycombinator.com/item?id=31142051))
 - [Great 3D printers (2022)](https://twitter.com/fatih/status/1521048072322748417)
 - [Hob3l](https://github.com/moehriegitt/hob3l) - 100x Faster Slicing of SCAD Files for 3D Printing.
+- [PositronV3](https://github.com/KRALYN/PositronV3) - Upside-down, fast, portable, and compact 3D printer.
