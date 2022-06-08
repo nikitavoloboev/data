@@ -4,7 +4,7 @@ It's tragic [what Ukraine has to deal through](https://war.ukraine.ua/) due to [
 
 [Here](https://www.reddit.com/r/ethereum/comments/sq1334/vitalik_buterin_takes_a_stand_against_russian/hwk7613/?context=3) is a nice comment with resources to stay informed regarding Ukraine.
 
-I hope Russia stops unlawfully occupying and harassing Ukraine and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt. I wish more people in politics had the charisma and effectiveness to lead as Zelensky.
+I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter.com/mdmitri91/status/1534316819481300997) and pays for the damage it inflicted on the country. Ukraine should be fully integrated into Europe and be rebuilt. I wish more people in politics had the charisma and effectiveness to lead as Zelensky.
 
 ## Links
 

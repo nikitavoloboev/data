@@ -44,3 +44,4 @@ Looking into using [Relay with Next.js](https://github.com/RevereCRE/relay-nextj
 - [async-graphql-relay](https://github.com/oscartbeaumont/async-graphql-relay) - Relay support for async-graphql.
 - [Relay React Concurrency Example](https://github.com/jantimon/next-relay-demo)
 - [Relay and Data-Driven Dependencies](https://github.com/sync/data-driven-dependencies-ts)
+- [VSCode ReScript Relay](https://github.com/zth/vscode-rescript-relay) - Improve quality-of-life of using RescriptRelay with VSCode.
