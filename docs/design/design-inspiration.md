@@ -24,6 +24,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Replit](https://replit.com/)
 - [Luma](https://lu.ma/)
 - [Pipe](https://www.pipe.com/)
+- [Glide](https://www.glideapps.com/)
 - [RainbowKit](https://www.rainbowkit.com/)
 - [Stripe](https://stripe.com/)
 - [GitHub](https://github.com/)

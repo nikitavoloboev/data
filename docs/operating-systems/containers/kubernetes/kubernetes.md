@@ -753,3 +753,5 @@ title: Kubernetes
 - [Rufio](https://github.com/tinkerbell/rufio) - Kubernetes controller for managing baseboard management state and actions.
 - [Eraser](https://github.com/Azure/eraser) - Cleaning up images from Kubernetes nodes.
 - [Multus CNI](https://github.com/k8snetworkplumbingwg/multus-cni) - Enables attaching multiple network interfaces to pods in Kubernetes.
+- [BYOH](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) - Cluster API Infrastructure Provider for already-provisioned hosts running Linux.
+- [Etcd-Backup-Restore](https://github.com/gardener/etcd-backup-restore) - Collection of components to backup and restore the Etcd of a Kubernetes cluster.

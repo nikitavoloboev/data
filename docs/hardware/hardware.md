@@ -331,3 +331,4 @@
 - [Retro-style Computer with a Modern Core](https://github.com/penk/MainboardTerminal)
 - [Framedeck](https://github.com/brickbots/framedeck) - Cyberdeck built with the framework mainboard.
 - [VoCore](https://vocore.io/) - Coin-Sized Linux Computer. ([HN](https://news.ycombinator.com/item?id=31395379))
+- [TSMC vs ASML: Who is the True Semiconductor King? (2022)](https://www.youtube.com/watch?v=0nguBmhSyX4)

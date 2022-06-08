@@ -41,7 +41,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Axios-Fetch](https://github.com/lifeomic/axios-fetch) - WebAPI Fetch implementation backed by an Axios client.
 - [Voby](https://github.com/fabiospampinato/voby) - High-performance framework for writing web apps.
 - [Candid](https://github.com/danieldietrich/candid) - Unopinionated, frameworkless JavaScript library for building web applications.
-- [Deepkit](https://github.com/deepkit/deepkit-framework) - Full-featured and high-performance web framework for sophisticated web applications. ([Web](https://deepkit.io/))
+- [Deepkit](https://github.com/deepkit/deepkit-framework) - High-Performance TypeScript Framework. ([Web](https://deepkit.io/)) ([HN](https://news.ycombinator.com/item?id=31663298))
 - [Chemin](https://github.com/etienne-dldc/chemin) - Type-safe pattern builder & route matching library written in TypeScript.
 - [FRANXX](https://github.com/egoist/franxx) - Vanilla JavaScript router that works everywhere.
 - [Unrouted](https://github.com/harlan-zw/unrouted) - Minimal, composable router built for speed, portability and DX.
@@ -542,6 +542,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [jsx-view](https://github.com/colelawrence/jsx-view)
 - [better-ajv-errors](https://github.com/apideck-libraries/better-ajv-errors) - Human-friendly JSON Schema validation for APIs.
 - [iterate-all](https://github.com/suchipi/iterate-all) - Converts an iterable, iterable of Promises, or async iterable into a Promise of an Array.
+- [convert-units](https://github.com/convert-units/convert-units) - Elegant way to convert quantities between different units.
 
 ## Links
 

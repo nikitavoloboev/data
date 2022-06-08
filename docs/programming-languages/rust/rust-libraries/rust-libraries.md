@@ -1937,6 +1937,8 @@
 - [Malachite](https://github.com/mhogrefe/malachite) - Arbitrary-precision arithmetic library for Rust.
 - [upon](https://github.com/rossmacarthur/upon) - Simple, powerful template engine.
 - [Stateful](https://github.com/mdeloof/stateful) - Ergonomic state machines for designing event-driven systems.
+- [Ferrite](https://github.com/ferrite-rs/ferrite) - Session Types DSL for Rust.
+- [Armature](https://github.com/mdeloof/armature) - Event-driven stateful actor framework for Rust.
 
 ## Cargo Plugins
 

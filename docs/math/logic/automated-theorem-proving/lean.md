@@ -99,3 +99,4 @@ title: Lean
 - [lean4-karray](https://github.com/lecopivo/lean4-karray) - Package that allows automatic C code generation for functions defined in Lean.
 - [Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalizing mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022)
 - [Formalization of Gardam's disproof of the unit conjecture in Lean](https://github.com/siddhartha-gadgil/Polylean)
+- [Lean Ipld](https://github.com/yatima-inc/Ipld.lean) - Lean4 implementation of the IPLD format.

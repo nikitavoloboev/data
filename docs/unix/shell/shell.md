@@ -6,6 +6,8 @@ title: Unix Shell
 
 Use [Warp](https://www.warp.dev/) as my terminal & [Zsh](zsh/zsh.md) as my shell. [Fish](fish.md) & [Oil](https://www.oilshell.org/) seem like great shell alternatives. [Pipr](https://github.com/elkowar/pipr) seems useful.
 
+[ShellCheck](https://github.com/koalaman/shellcheck) is great for linting scripts.
+
 ## Variables
 
 All active variables can be seen by running `env`.

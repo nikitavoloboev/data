@@ -946,6 +946,7 @@
 - [json2html](https://github.com/moappi/json2html) - JavaScript library that uses js templates to render JSON objects into HTML.
 - [json2csv](https://github.com/zemirco/json2csv) - Converts JSON into CSV with column titles and proper line endings.
 - [GLightbox](https://github.com/biati-digital/glightbox) - Pure JavaScript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes.
+- [Twig.js](https://github.com/twigjs/twig.js) - JS implementation of the Twig Templating Language.
 
 ## Links
 
@@ -1025,3 +1026,4 @@
 - [Nice form libraries (work with JSON)](https://twitter.com/buildsghost/status/1524098282191917056)
 - [package-size](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 - [publint](https://publint.bjornlu.com/) - Lint packaging errors. Ensure compatibility across environments. ([Code](https://github.com/bluwy/publint))
+- [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.

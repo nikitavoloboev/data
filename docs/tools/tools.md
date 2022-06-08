@@ -284,6 +284,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Orbit](https://github.com/gulien/orbit) - Cross-platform task runner for executing commands and generating files from templates.
 - [Paysly](https://paysly.io/) - Verifiable Payments in a single API call.
 - [Gaupol](https://otsaloma.io/gaupol/) - Editor for text-based subtitles. ([Code](https://github.com/otsaloma/gaupol))
+- [Coder](https://github.com/coder/coder) - Creates remote development machines so you can develop your code from anywhere.
 - [Bubble](https://bubble.io/) - The best way to build web apps without code. ([HN](https://news.ycombinator.com/item?id=27979399))
 - [Octopus.do](https://octopus.do/sitemap/resource/generator) - Generate Visual Sitemap from sitemap.xml, just write URL. ([HN](https://news.ycombinator.com/item?id=23600645))
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
@@ -387,7 +388,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
 - [updown.io](https://updown.io/) - Website monitoring, simple and inexpensive.
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
-- [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
+- [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free. ([Plugins](https://www.glideapps.com/plugins)) ([Glide Code Columns](https://github.com/glideapps/glide-code-columns)) ([GitHub](https://github.com/glideapps))
 - [Gauguin](https://github.com/micheleriva/gauguin) - High performances Go server for generating open graph images dynamically.
 - [Livingdocs](https://livingdocs.io/) - Modern Digital Content Creation and Publishing System. ([GitHub](https://github.com/livingdocsIO))
 - [Namechk](https://namechk.com/) - Username, Domain, and Trademark Search.

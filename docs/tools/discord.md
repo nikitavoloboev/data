@@ -170,3 +170,4 @@ I like the pattern that forces use of threads in channels. So any message you ma
 - [coxir](https://github.com/satom99/coxir) - Modern Elixir wrapper for Discord.
 - [Discord Previews](https://discordpreviews.com/) - Your #1 source for the latest Discord news. ([Code](https://github.com/NurMarvin/discordpreviews.com))
 - [Discord Resources](https://discordresources.com/) - Constantly updated list of the most useful Discord Resources. ([Code](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki))
+- [Discord Welcome Action](https://github.com/lolPants/discord-welcome-action) - Action to keep channel content in-sync with Markdown based templates.

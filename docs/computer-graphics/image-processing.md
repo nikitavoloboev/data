@@ -184,3 +184,4 @@
 - [Papaya](https://papaya.io/) - Image editing right in your browser.
 - [imgdiff](https://github.com/AskAlexSharov/imgdiff) - Calculate similarity of 2 images. Supports: jpeg, png.
 - [Polaroid](https://github.com/Daggy1234/polaroid) - Hyper Fast and safe image manipulation library for python . Powered by rust.
+- [LibRaw](https://github.com/LibRaw/LibRaw) - Library for reading and processing of RAW digicam images.

@@ -41,3 +41,4 @@ title: Chrome DevTools
 - [Replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder.
 - [Detecting memory leaks in chrome dev tools](https://twitter.com/mgechev/status/1519534448227803138)
 - [Puppeteer Heap Snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chrome DevTools heap snapshots.
+- [Chrome DevTools Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - Intelligent proxy for debugging purposes.

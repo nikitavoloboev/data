@@ -30,3 +30,4 @@ Prefer to use Google Domains over everything. I like to subdomain over my person
 - [DomainAlerting](https://github.com/pixelbubble/DomainAlerting) - Daily alert when a new domain name is registered and contains your keywords.
 - [Keeping your domain name secure](https://www.gov.uk/guidance/keeping-your-domain-name-secure)
 - [Ask HN: How do I secure the domain for my business? (2022)](https://news.ycombinator.com/item?id=30818950)
+- [Find a good available .com domain](https://sive.rs/com) ([HN](https://news.ycombinator.com/item?id=31664440))

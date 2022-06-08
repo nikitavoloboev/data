@@ -182,3 +182,4 @@ title: Terraform
 - [CDK for Terraform bindings for Go](https://github.com/hashicorp/terraform-cdk-go)
 - [Terraform Provider for Slack](https://github.com/pablovarela/terraform-provider-slack) - Plugin for Terraform that allows the management of Slack resources.
 - [AsCode](https://github.com/mcuadros/ascode) - Terraform Alternative Syntax.
+- [Terraform Provider dotenv](https://github.com/jrhouston/terraform-provider-dotenv) - Convenience provider for reading `.env` files in Terraform.

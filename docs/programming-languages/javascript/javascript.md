@@ -454,3 +454,4 @@ if (
 - [Compiling a Subset of JavaScript to ARM Assembly in Haskell (2022)](https://www.micahcantor.com/blog/js-to-asm-in-hs/)
 - [ECMAScript Explicit Resource Management](https://github.com/tc39/proposal-explicit-resource-management)
 - [JavaScript: The New Toys Book](https://thenewtoys.dev/)
+- [Server Rendering in JavaScript Series](https://dev.to/ryansolid/series/13734)

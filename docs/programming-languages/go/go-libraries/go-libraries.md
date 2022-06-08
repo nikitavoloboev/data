@@ -330,6 +330,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Bud](https://github.com/livebud/bud) - Full stack Go Framework for Prolific Web Developers. ([HN](https://news.ycombinator.com/item?id=31371340))
 - [Health](https://github.com/alexliesenfeld/health) - Simple and flexible health check library for Go.
 - [Hertz](https://github.com/cloudwego/hertz) - High-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+- [GO JWT Middleware](https://github.com/auth0/go-jwt-middleware) - Middleware for Go Programming Language to check for JWTs on HTTP requests.
 
 ## GraphQL
 

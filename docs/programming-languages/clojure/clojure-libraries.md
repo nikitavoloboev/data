@@ -233,6 +233,7 @@
 - [tenet](https://github.com/lazy-cat-io/tenet) - Clojure(Script) library, which helps to create explicit and understandable results to unify and simplify the data flow.
 - [init](https://github.com/ferdinand-beyer/init) - Small Clojure framework for application initialization and dependency injection.
 - [Nexus](https://github.com/nivekuil/nexus) - Ergonomic dependency injection via logic programming.
+- [Clojask](https://github.com/clojure-finance/clojask) - Clojure data frame with parallel computing on larger-than-memory datasets.
 
 ## Links
 

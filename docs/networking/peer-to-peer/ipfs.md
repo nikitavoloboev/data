@@ -110,3 +110,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Gateway Monitor](https://github.com/cloudflare/ipfs-gateway-monitor) - Detect the errors and measure the response time of IPFS gateways.
 - [IPFS HTTP client in Rust](https://github.com/ferristseng/rust-ipfs-api)
 - [How We Put IPFS in Brave (2022)](https://blog.ipfs.io/2021-01-21-how-we-put-ipfs-in-brave/) ([HN](https://news.ycombinator.com/item?id=31494585))
+- [Planet](https://www.planetable.xyz/) - Decentralized blogs and websites powered by IPFS and Ethereum Name System. ([Code](https://github.com/Planetable/Planet))

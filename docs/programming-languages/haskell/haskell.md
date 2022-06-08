@@ -238,7 +238,7 @@ title: Haskell
 - [Real World Haskell](https://mmhaskell.com/real-world) ([HN](https://news.ycombinator.com/item?id=25005525))
 - [Haskell via Sokoban](https://haskell-via-sokoban.nomeata.de/)
 - [Consider Haskell (2020)](https://gilmi.me/blog/post/2020/04/28/consider-haskell)
-- [Learning Haskell by building a static blog generator](https://soupi.github.io/learn-haskell-blog-generator/) ([Code](https://github.com/soupi/learn-haskell-blog-generator))
+- [Learning Haskell by building a static blog generator](https://lhbg-book.link/) ([Code](https://github.com/soupi/learn-haskell-blog-generator)) ([HN](https://news.ycombinator.com/item?id=31664501))
 - [Haskell Proposal: Simplify Deriving (2020)](https://www.parsonsmatt.org/2020/11/10/simplifying_deriving.html)
 - [Pure destination-passing style in Linear Haskell (2020)](https://www.tweag.io/blog/2020-11-11-linear-dps/) ([HN](https://news.ycombinator.com/item?id=25075718))
 - [Haskell IDE Engine for Nix](https://github.com/Infinisil/all-hies) - Provides cached Nix builds for Haskell IDE Engine.

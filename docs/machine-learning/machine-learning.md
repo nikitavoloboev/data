@@ -824,3 +824,4 @@
 - [Apple Silicon DL benchmarks](https://github.com/tcapelle/apple_m1_pro_python) - Collection of ML scripts to test the M1 Pro MacBook Pro.
 - [Post-Modern ML Stack](https://github.com/jacopotagliabue/post-modern-stack)
 - [Improving Discrete Latent Representations With Differentiable Approximation Bridges (2019)](https://arxiv.org/abs/1905.03658) ([Code](https://github.com/apple/ml-dab))
+- [Semantic Search and GIFs](https://www.pinecone.io/learn/gif-search/) ([HN](https://news.ycombinator.com/item?id=31652839))
