@@ -163,3 +163,4 @@
 - [Ourspace](https://github.com/ZeroDAO/ourspace) - Decentralized social networks and reputation systems.
 - [Tim Urban on political discourse + Keith Rabois on early-stage investing in 2022](https://www.youtube.com/watch?v=ivDwzBYsED4)
 - [instantgram](https://github.com/theus/instantgram) - Bookmarklet for download photos in Instagram.
+- [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster))

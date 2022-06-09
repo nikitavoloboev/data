@@ -782,3 +782,8 @@
 - [Volumentations 3D](https://github.com/ZFTurbo/volumentations) - Library for 3D augmentations.
 - [Awesome Learning with Label Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
 - [LIVE: Towards Layer-wise Image Vectorization (2022)](https://ma-xu.github.io/LIVE/) ([Code](https://github.com/ma-xu/LIVE))
+- [BEVT: BERT Pretraining of Video Transformers (2021)](https://arxiv.org/abs/2112.01529) ([Code](https://github.com/xyzforever/BEVT))
+- [Variable Bitrate Neural Fields (2022)](https://nv-tlabs.github.io/vqad/) ([Code](https://github.com/nv-tlabs/vqad))
+- [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation (2019)](https://arxiv.org/abs/1907.05740) ([Code](https://github.com/nv-tlabs/GSCNN))
+- [Masked Unsupervised Self-training for Zero-shot Image Classification (2022)](https://arxiv.org/abs/2206.02967) ([Code](https://github.com/salesforce/MUST))
+- [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video (2022)](https://arxiv.org/abs/2201.04127) ([Code](https://github.com/chungyiweng/humannerf))

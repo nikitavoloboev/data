@@ -360,3 +360,4 @@ title: ML Libraries
 - [gap-train](https://github.com/t-young31/gap-train) - Gaussian Approximation Potential Training.
 - [lleaves](https://github.com/siboehm/lleaves) - LLVM-based compiler for LightGBM decision trees.
 - [TensorScript](https://github.com/0b01/tensorscript) - High-level language for specifying finite-dimensioned tensor computation. ([Web](https://tensorscript.org/))
+- [Neural Fluid Fields](https://github.com/tovacinni/neural-fluid-fields) - Small library for doing fluid simulation with neural fields.

@@ -199,3 +199,4 @@
 - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flane/FICS/)
 - [Choosing a Mid-Career Master's Degree in Computer Science (2022)](https://evanp.me/2022/05/04/masters-degree-in-computer-science/) ([HN](https://news.ycombinator.com/item?id=31279997))
 - [Donald Knuth Was Framed (2020)](https://buttondown.email/hillelwayne/archive/donald-knuth-was-framed/) ([HN](https://news.ycombinator.com/item?id=31301777))
+- [Why would computer scientists want to distinguish between two objects that are isomorphic?](https://twitter.com/jjcarett2/status/1534528052880883713)

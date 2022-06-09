@@ -135,3 +135,4 @@
 - [lzbase62](https://github.com/polygonplanet/lzbase62) - LZ77(LZSS) based compression algorithm in base62 for JavaScript.
 - [Halve the size of images by optimising for high density displays (2021)](https://jakearchibald.com/2021/serving-sharp-images-to-high-density-screens/)
 - [What’s the best lossless image format? (2021)](https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl) ([HN](https://news.ycombinator.com/item?id=31657006))
+- [Survey of 3D Compression and Streaming](https://github.com/tovacinni/awesome-3d-compression)

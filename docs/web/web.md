@@ -427,4 +427,3 @@
 - [Ask HN: Web frameworks – which less popular frameworks are you using and why? (2022)](https://news.ycombinator.com/item?id=31607256)
 - [gtab](https://github.com/epfl-dlab/GoogleTrendsAnchorBank) - Google Trends, made easy.
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
-- [Making the world’s fastest website, and other mistakes (2022)](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)

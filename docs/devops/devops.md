@@ -2,7 +2,7 @@
 
 I think [Railway](https://railway.app/) is amazing example of doing Devops right. [Porter](https://github.com/getporter/porter) & [Backstage](https://backstage.io/) are nice too.
 
-[Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great.
+[Google SRE Book](https://sre.google/sre-book/table-of-contents/) is great. [Airplane](https://www.airplane.dev/) is nice for exposing common commands for all in team to use.
 
 ## Notes
 

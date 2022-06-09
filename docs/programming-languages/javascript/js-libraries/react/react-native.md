@@ -273,3 +273,4 @@ title: React Native
 - [Stitches Native](https://github.com/Temzasse/stitches-native) - React Native implementation of the popular CSS-in-JS library Stitches.
 - [render-react-native-to-image](https://github.com/jaredly/render-react-native-to-image) - Take a React Native component tree, and render it into an SVG.
 - [Drawings, gestures, and animations workshop – App.js Conference 2022](https://github.com/software-mansion-labs/drawings-and-animations-workshop)
+- [How to build Gmail-like UI with React Native (2022)](https://www.youtube.com/watch?v=w-M9UFHLAl0)
