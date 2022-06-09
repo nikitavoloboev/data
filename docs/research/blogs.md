@@ -157,6 +157,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Abhinav Gupta](https://abhinavg.net/)
 - [Justin Jaffray](http://justinjaffray.com/posts/)
 - [Paul Masurel](https://fulmicoton.com/)
+- [Nil Coalescing](https://nilcoalescing.com/index.html)
 
 ## Notes
 

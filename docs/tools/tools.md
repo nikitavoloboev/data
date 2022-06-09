@@ -241,6 +241,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Motor Admin](https://www.getmotoradmin.com/) - No-Code Admin Panel. ([Code](https://github.com/motor-admin/motor-admin))
 - [SpatialChat](https://spatial.chat/) - In-person virtual meetings.
 - [Over](https://www.madewithover.com/) - Makes beautiful design, easy.
+- [Swirly](https://swirly.dev/) - Marble diagram generator. ([Code](https://github.com/timdp/swirly))
 - [Kiwix](https://www.kiwix.org/en/) - Lets you access free knowledge – even offline.
 - [Universe](https://onuniverse.com/) - Website builder made for your iPhone. Build your brand from your hand with the GRID. ([Twitter](https://twitter.com/onuniverse))
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
@@ -260,6 +261,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [FocusTask](https://focustask.app/) - Organize your life.
 - [prettierd](https://github.com/fsouza/prettierd) - Prettier, as a daemon, for ludicrous formatting speed.
 - [Culture Amp](https://www.cultureamp.com/) - Employee feedback platform. ([GitHub](https://github.com/cultureamp))
+- [Stencila](https://stenci.la/) - Platform for authoring, collaborating on, and publishing executable documents. ([Code](https://github.com/stencila/stencila))
 - [Privnote](https://privnote.com/) - Send notes that will self-destruct after being read.
 - [Webstudio](https://webstudio.is/) - Open Source Visual Development Platform for Developers, Designers and cross-functional teams. ([Code](https://github.com/webstudio-is/webstudio-designer)) ([Issues](https://github.com/webstudio-is/webstudio))
 - [LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Open source alternative to LinkTree.

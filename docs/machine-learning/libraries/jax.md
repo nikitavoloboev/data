@@ -4,6 +4,8 @@ title: JAX
 
 # [JAX](https://github.com/google/jax)
 
+[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) is nice.
+
 ## Links
 
 - [audax](https://github.com/SarthakYadav/audax) - Home for audio ML in JAX. Has common features, learnable frontends, pretrained supervised and self-supervised models.
@@ -43,3 +45,4 @@ title: JAX
 - [Functional Transformer](https://github.com/awf/functional-transformer) - Pure-functional implementation of a machine learning transformer model in Python/JAX.
 - [JAX + Units](https://github.com/dfm/jpu) - Provides and interface between JAX and Pint to allow JAX to support operations with units.
 - [Infinite Recommendation Networks (∞-AE) in JAX](https://github.com/noveens/infinite_ae_cf)
+- [Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) ([Code](https://github.com/ericmjl/dl-workshop))

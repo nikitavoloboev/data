@@ -1940,6 +1940,8 @@
 - [Ferrite](https://github.com/ferrite-rs/ferrite) - Session Types DSL for Rust.
 - [Armature](https://github.com/mdeloof/armature) - Event-driven stateful actor framework for Rust.
 - [privdrop](https://github.com/jedisct1/rust-privdrop) - Simple Rust crate to drop privileges.
+- [baseview](https://github.com/RustAudio/baseview) - Low-level window system interface for audio plugin UIs.
+- [Fragile](https://github.com/mitsuhiko/fragile) - Utility wrapper to send non send types to other threads safely.
 
 ## Cargo Plugins
 

@@ -623,6 +623,8 @@
 - [Groebner.jl](https://github.com/sumiya11/Groebner.jl) - Groebner bases in pure Julia.
 - [BinaryBuilder](https://github.com/JuliaPackaging/BinaryBuilder.jl) - Binary Dependency Builder for Julia.
 - [Glyphy](https://github.com/cormullion/Glyphy.jl) - Searches through the names of glyphs in the Unicode system and returns a list of the glyph names that match the search string.
+- [FastBroadcast](https://github.com/YingboMa/FastBroadcast.jl) - Exports @.. that compiles broadcast expressions into loops that are easier for the compiler to optimize.
+- [Gnuplot.jl](https://github.com/gcalderone/Gnuplot.jl) - Julia interface to gnuplot.
 
 ## Links
 

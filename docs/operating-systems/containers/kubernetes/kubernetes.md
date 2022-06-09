@@ -6,6 +6,8 @@ title: Kubernetes
 
 [Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) & [Infra](https://github.com/infrahq/infra) are neat.
 
+[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has nice cheap servers.
+
 ## Notes
 
 - Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
@@ -756,3 +758,4 @@ title: Kubernetes
 - [BYOH](https://github.com/vmware-tanzu/cluster-api-provider-bringyourownhost) - Cluster API Infrastructure Provider for already-provisioned hosts running Linux.
 - [Etcd-Backup-Restore](https://github.com/gardener/etcd-backup-restore) - Collection of components to backup and restore the Etcd of a Kubernetes cluster.
 - [Pisanix](https://github.com/database-mesh/pisanix) - Modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way.
+- [Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command.

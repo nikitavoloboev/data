@@ -225,3 +225,4 @@ title: SwiftUI
 - [Sidebar App](https://github.com/apparata/SidebarAppTemplate) - Template repository for quickly creating boilerplate code for a SwiftUI macOS app.
 - [SwiftUI sample code from WWDC22](https://github.com/apple/sample-food-truck)
 - [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16)
+- [SwiftUI Code Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)

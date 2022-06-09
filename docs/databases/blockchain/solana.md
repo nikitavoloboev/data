@@ -278,3 +278,4 @@ I don't hold much [cryptocurrencies](../../cryptocurrencies/cryptocurrencies.md)
 - [Most underrated builders on Solana (2022)](https://twitter.com/IcedKnife/status/1529667972880551937)
 - [The Zeitgeist Podcast](https://overcast.fm/itunes1626229000/the-zeitgeist) - Brian Friel and the Phantom team highlight the founders, developers, and designers who are pushing Web3 forward.
 - [idl-macro](https://github.com/saber-hq/idl-macro) - Generates an Anchor CPI crate from a JSON IDL.
+- [tulipv2-sdk](https://github.com/sol-farm/tulipv2-sdk) - Rust SDK for tulip v2 vaults and v1 lending instructions.
