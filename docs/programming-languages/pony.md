@@ -19,3 +19,4 @@ title: Pony
 - [Why We Moved From Pony To Rust](https://www.wallaroo.ai/blog-posts/wallaroo-move-to-rust) ([HN](https://news.ycombinator.com/item?id=28777306)) ([Lobsters](https://lobste.rs/s/8fywc7/why_we_moved_from_pony_rust))
 - [fork_join](https://github.com/ponylang/fork_join) - Pony parallel processing library.
 - [Logger](https://github.com/ponylang/logger) - Simple logging library for Pony.
+- [Pony Tutorial](https://tutorial.ponylang.io/) ([Code](https://github.com/ponylang/pony-tutorial))

@@ -312,3 +312,4 @@ I found studying [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)'s 
 - [Jupyter notebook with steps to rediscover the Higgs boson yourself](https://github.com/meevans1/How-to-rediscover-the-Higgs)
 - [James Clerk Maxwell - A Sense of Wonder - Documentary](https://www.youtube.com/watch?v=ANIkxDm8bF4)
 - [Please, don't build another Large Hadron Collider (2022)](https://bigthink.com/hard-science/large-hadron-collider-economics/) ([HN](https://news.ycombinator.com/item?id=31651086))
+- [Lithium - Periodic Table of Videos (2016)](https://www.youtube.com/watch?v=LfS10ArXTBA)
