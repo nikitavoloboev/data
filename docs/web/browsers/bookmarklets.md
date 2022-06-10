@@ -10,7 +10,7 @@ I run my bookmarklets from KM like so:
 
 ## Bookmarklets I use
 
-- [Go to first commit of currently open repo](https://gist.github.com/ada36ad5c440246c60c2833308c2cf1d)
+- [Go to first commit of currently open repo](#code)
 - [Online article discussion finder](https://github.com/theoretick/discuss-it) - Lets you see where the link you are watching right now has been discussed before.
 
 ## Notes
