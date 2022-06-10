@@ -128,3 +128,4 @@ title: Formal verification
 - [Pantagruel](https://github.com/subsetpark/pantagruel) - Program specification language with a formal syntax and ad-hoc semantics. ([Lobsters](https://lobste.rs/s/xkth5p/pantagruel_v0_5_1))
 - [VerifAI](https://github.com/BerkeleyLearnVerify/VerifAI) - Software toolkit for the formal design and analysis of systems that include artificial intelligence (AI) and machine learning (ML) components.
 - [Formal Methods for DeFi Developers](https://github.com/WilfredTA/formal-methods-curriculum)
+- [Yatima](https://github.com/yatima-inc/yatima-lang) - Verifiable computing language.

@@ -98,3 +98,4 @@ title: TLS
 - [eCapture](https://github.com/ehids/ecapture) - Capture SSL/TLS text content without CA cert Using eBPF.
 - [proxyboi](https://github.com/svenstaro/proxyboi) - Super simple reverse proxy with TLS support.
 - [TLS Reconciler](https://github.com/shaj13/tlsreconciler) - Hitless TLS Certificate Rotation Reconciliation Library.
+- [TLS-Scanner](https://github.com/tls-attacker/TLS-Scanner) - Tool to assist pentesters and security researchers in the evaluation of TLS Server configurations.

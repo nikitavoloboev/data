@@ -320,3 +320,4 @@ title: WebAssembly
 - [Content Security Policy Proposal for WebAssembly](https://github.com/WebAssembly/content-security-policy)
 - [How Lunatic Brings Erlang's Principles to WebAssembly (2022)](https://www.youtube.com/watch?v=M2B7VKFeF7o) ([Transcript](https://serokell.io/blog/lunatic-with-bernard-kolobara)) ([HN](https://news.ycombinator.com/item?id=31569482))
 - [Tarmac](https://github.com/madflojo/tarmac) - Framework for building distributed services with Web Assembly. ([Docs](https://tarmac.gitbook.io/tarmac/))
+- [Rust+ WASM implementation of a beamformer in spectral analysis](https://github.com/ma3103yd-s/beamformer-wasm)

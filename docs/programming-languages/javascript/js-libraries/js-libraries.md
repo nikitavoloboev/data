@@ -948,6 +948,8 @@
 - [GLightbox](https://github.com/biati-digital/glightbox) - Pure JavaScript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes.
 - [Twig.js](https://github.com/twigjs/twig.js) - JS implementation of the Twig Templating Language.
 - [Atomic Agents](https://github.com/gjmcn/atomic-agents) - Spatial Agent-based Modeling in JavaScript.
+- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+- [wild-wild-utils](https://github.com/ehmicky/wild-wild-utils) - Functional utilities using object property paths with wildcards and regexps.
 
 ## Links
 

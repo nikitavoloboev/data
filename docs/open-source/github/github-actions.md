@@ -232,6 +232,7 @@ title: GitHub actions
 - [PagerDuty Change Events](https://github.com/PagerDuty/pagerduty-change-events-action) - GitHub action that creates a PagerDuty change event.
 - [GH Find Current PR](https://github.com/jwalton/gh-find-current-pr) - GitHub Action for finding the Pull Request (PR) associated with the current SHA.
 - [TurboRepo Github Artifacts action](https://github.com/felixmosh/turborepo-gh-artifacts) - Allows you use Github artifacts as TurboRepo remote cache server.
+- [Commitlint Github Action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint.
 
 ## Go
 

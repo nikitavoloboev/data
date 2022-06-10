@@ -176,3 +176,4 @@ title: Genomics
 - [Awesome Nanopore](https://github.com/GoekeLab/awesome-nanopore) - List of software packages for Nanopore sequencing data analysis, including basecalling, DNA/RNA modifications.
 - [GNNome Assembly](https://github.com/lvrcek/GNNome-assembly) - Learning to untangle genome assembly with graph neural networks.
 - [starfish](https://github.com/spacetx/starfish) - Scalable pipelines for image-based transcriptomics.
+- [alv](https://github.com/arvestad/alv) - View your DNA or protein multiple-sequence alignments right at your command line.

@@ -70,7 +70,7 @@
 - [Vention](https://vention.io/) - Build your machine today. Receive it tomorrow.
 - [DART](https://github.com/dartsim/dart) - Dynamic Animation and Robotics Toolkit. ([Code](https://github.com/dartsim/dart))
 - [PyRobot](https://github.com/facebookresearch/pyrobot) - Open Source Robotics Research Platform. ([Web](https://pyrobot.org/))
-- [Foxglove Studio](https://foxglove.dev/) - Visualization and Debugging for Robotics. ([Code](https://github.com/foxglove/studio))
+- [Foxglove](https://foxglove.dev/) - Visualization and Debugging for Robotics. ([Code](https://github.com/foxglove/studio)) ([GitHub](https://github.com/foxglove)) ([Twitter](https://twitter.com/foxglovedev))
 - [towr](https://github.com/ethz-adrl/towr) - Light-weight, Eigen-based C++ library for trajectory optimization for legged robots.
 - [Smart Robotics Lab at Imperial College](http://wp.doc.ic.ac.uk/sleutene/)
 - [Christoper Choi's Research](http://chutsu.github.io/)
@@ -169,3 +169,4 @@
 - [Awesome Robot Operating System 2 (ROS 2)](https://github.com/fkromer/awesome-ros2)
 - [Asking robots to design stained glass windows (2022)](https://astralcodexten.substack.com/p/a-guide-to-asking-robots-to-design?s=r) ([HN](https://news.ycombinator.com/item?id=31564152))
 - [R3M: A Universal Visual Representation for Robot Manipulation (2022)](https://arxiv.org/abs/2203.12601) ([Code](https://github.com/facebookresearch/r3m))
+- [MCAP](https://github.com/foxglove/mcap) - Modular, performant, and serialization-agnostic container file format for pub/sub messages, primarily intended for use in robotics applications. ([Web](https://mcap.dev/))

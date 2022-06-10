@@ -39,3 +39,4 @@ title: Message queue
 - [Message Broker](https://github.com/prodoxx/message-broker) - Simple message broker example using BullMQ and Redis (worker / queue).
 - [Valet](https://github.com/svaloumas/valet) - Job queuing service and async task runner.
 - [Bonsaimq](https://github.com/FlixCoder/bonsaimq) - Simple database message queue based on bonsaidb.
+- [Awesome Queues](https://github.com/tonyhb/awesome-queues-jobs-and-tasks) - Curated list of awesome queueing systems for background jobs and distributed tasks.

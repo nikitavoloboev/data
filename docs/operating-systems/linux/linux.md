@@ -548,3 +548,4 @@ the execution time on all cores of a multi-core processor.
 - [bpfd](https://github.com/redhat-et/bpfd) - Prototype networking bpf loader.
 - [collectd](https://github.com/collectd/collectd) - System statistics collection daemon.
 - [bpflock](https://github.com/linux-lock/bpflock) - eBPF driven security for locking and auditing Linux machines.
+- [traffico](https://github.com/leodido/traffico) - Shape your traffic the BPF way.

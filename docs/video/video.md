@@ -368,3 +368,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Ffmpeg Buddy](https://evanhahn.github.io/ffmpeg-buddy/) - Friend to help you build Ffmpeg commands. ([HN](https://news.ycombinator.com/item?id=31557809))
 - [Video codecs and 4k (2022)](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
 - [Vimix](https://brunoherbelin.github.io/vimix/) - Video Live Mixer. ([Code](https://github.com/brunoherbelin/vimix))
+- [Shotcut](https://www.shotcut.org/) - Free, open source, cross-platform video editor. ([Code](https://github.com/mltframework/shotcut))

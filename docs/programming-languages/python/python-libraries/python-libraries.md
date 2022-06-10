@@ -890,6 +890,8 @@
 - [Intake](https://github.com/intake/intake) - Lightweight package for finding, investigating, loading and disseminating data.
 - [wikirepo](https://github.com/andrewtavis/wikirepo) - Python based Wikidata framework for easy dataframe extraction.
 - [tidypolars](https://github.com/markfairbanks/tidypolars) - Data frame library built on top of the blazingly fast polars library that gives access to methods and functions familiar to R tidyverse users.
+- [Markus](https://github.com/willkg/markus) - Python library for generating metrics.
+- [Orderbook](https://github.com/bmoscon/orderbook) - Fast L2/L3 orderbook data structure, in C, for Python.
 
 ## Notes
 

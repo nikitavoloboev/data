@@ -80,3 +80,4 @@ title: Blender
 - [Arsenal](https://github.com/katharostech/arsenal) - Blender game engine prototype written in Rust.
 - [3D plots using Blender as a backend](https://github.com/imontesino/blender-plotting)
 - [Blender 3.2 (2022)](https://www.blender.org/download/releases/3-2/) ([HN](https://news.ycombinator.com/item?id=31668274))
+- [Blender Add-on: Drag and Drop Support](https://github.com/mika-f/blender-drag-and-drop)

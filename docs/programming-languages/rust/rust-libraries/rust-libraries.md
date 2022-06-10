@@ -6,6 +6,7 @@
 
 - [argi](https://github.com/Owez/argi) - Argument parsing for the future.
 - [slap](https://github.com/agnipau/slap) - Painless shell argument parsing and dependency check.
+- [Wena](https://github.com/wena-cli/wena) - Micro-framework that provides an elegant starting point for your console application.
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser. ([Reddit](https://www.reddit.com/r/rust/comments/rt3fyr/clap_30_a_rust_cli_argument_parser/)) ([step towards 4.0](https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/)) ([Reddit](https://www.reddit.com/r/rust/comments/su2h4v/clap_31_a_step_towards_40/))
 - [fncmd](https://github.com/yuhr/fncmd) - Opinionated command line parser frontend that wraps around clap.
 - [dialoguer](https://github.com/mitsuhiko/dialoguer) - Rust utility library for nice command line prompts and similar things.
@@ -1942,6 +1943,7 @@
 - [privdrop](https://github.com/jedisct1/rust-privdrop) - Simple Rust crate to drop privileges.
 - [baseview](https://github.com/RustAudio/baseview) - Low-level window system interface for audio plugin UIs.
 - [Fragile](https://github.com/mitsuhiko/fragile) - Utility wrapper to send non send types to other threads safely.
+- [Moose](https://github.com/tf-encrypted/moose) - Framework for secure multi-party computation, written in Rust.
 
 ## Cargo Plugins
 
