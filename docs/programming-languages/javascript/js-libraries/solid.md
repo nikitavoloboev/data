@@ -95,3 +95,4 @@ I am trying to use SolidJS for all web apps and static sites I build now. Curren
 - [Solid Virtual Scroll](https://github.com/Supertigerr/solid-virtual-scroll)
 - [Solid Cached Resource](https://github.com/yonathan06/solid-cached-resource) - Cache Solidjs resources by key (derived from the resource source).
 - [SUID](https://github.com/swordev/suid) - Port of Material-UI (MUI) built with SolidJS.
+- [Solid Hotkeys](https://github.com/alekangelov/solid-hotkeys) - Hotkeys library for solid that adds only 2 event listeners.
