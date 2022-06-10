@@ -506,3 +506,4 @@ for i, _ in enumerate(nums):
 - [What's a Python feature that is very powerful but not many people use or know about it? (2022)](https://www.reddit.com/r/Python/comments/v1rde4/whats_a_python_feature_that_is_very_powerful_but/)
 - [Specialist](https://github.com/brandtbucher/specialist) - Visualize CPython 3.11's specializing, adaptive interpreter.
 - [shed](https://github.com/Zac-HD/shed) - Maximally opinionated autoformatting tool.
+- [Python Cheat Sheet](https://github.com/AbdulMalikDev/PythonCheatSheet)

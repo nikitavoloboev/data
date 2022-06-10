@@ -625,6 +625,7 @@
 - [Glyphy](https://github.com/cormullion/Glyphy.jl) - Searches through the names of glyphs in the Unicode system and returns a list of the glyph names that match the search string.
 - [FastBroadcast](https://github.com/YingboMa/FastBroadcast.jl) - Exports @.. that compiles broadcast expressions into loops that are easier for the compiler to optimize.
 - [Gnuplot.jl](https://github.com/gcalderone/Gnuplot.jl) - Julia interface to gnuplot.
+- [Strs](https://github.com/JuliaString/Strs.jl) - String support package for Julia.
 
 ## Links
 

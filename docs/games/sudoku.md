@@ -18,3 +18,4 @@
 - [JavaScript Sudoku solver (2021)](https://lisperator.net/blog/javascript-sudoku-solver/)
 - [Crosswordle](https://crosswordle.vercel.app/) - Sudoku meets Wordle.
 - [Do revolutionary new Sudoku techniques teach about real-world problem solving?](https://desystemize.substack.com/p/desystemize-9?s=r) ([HN](https://news.ycombinator.com/item?id=30863073))
+- [Solving Sudoku with Poetry's dependency resolver (2022)](https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku) ([Lobsters](https://lobste.rs/s/ovsdgc/solving_sudoku_with_poetry_s_dependency))

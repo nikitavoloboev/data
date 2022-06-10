@@ -10,3 +10,5 @@ title: Datasette
 - [datasette-upload-dbs](https://github.com/simonw/datasette-upload-dbs) - Upload SQLite database files to Datasette.
 - [Google Calendar to SQLite](https://github.com/simonw/google-calendar-to-sqlite) - Create a SQLite database containing your data from Google Calendar.
 - [Architecture Notes: Datasette](https://architecturenotes.co/datasette-simon-willison/)
+- [Write Datasette canned queries as plain SQL files](https://github.com/eyeseast/datasette-query-files)
+- [Template repository for creating new Datasette plugins](https://github.com/simonw/datasette-plugin-template-repository)

@@ -1682,6 +1682,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [vcontext](https://github.com/coreos/vcontext) - Library for validating JSON and YAML configs in Go.
 - [Cmd](https://github.com/go-cmd/cmd) - Non-blocking external commands in Go with and streaming output and concurrent-safe access.
 - [async-buffer](https://github.com/woorui/async-buffer) - Generic Asynchronous data buffer with Automatic and Manual flushing.
+- [Tasqueue](https://github.com/kalbhor/Tasqueue) - Simple, customizable distributed job/worker in Go.
 
 ## Links
 
@@ -1797,3 +1798,4 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [struct2ts](https://github.com/OneOfOne/struct2ts) - Generate Typescript classes/interfaces out of Go structs.
 - [mdox](https://github.com/bwplotka/mdox) - Format your docs; autogenerate from flags or Go structs or even generate versioned website directly from markdown.
 - [Mostly automatic Go dependency updates with GitHub Actions (2022)](https://brandur.org/fragments/mostly-automatic-deps)
+- [Makego](https://github.com/bufbuild/makego) - Makefile setup for our Go projects.

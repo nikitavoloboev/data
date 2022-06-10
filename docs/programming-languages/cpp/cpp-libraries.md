@@ -99,6 +99,7 @@
 ## Math
 
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - C++ template library for linear algebra. ([HN](https://news.ycombinator.com/item?id=30906376))
+- [Stan Math](https://github.com/stan-dev/math) - C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes. It includes a range of built-in functions for probabilistic modeling, linear algebra, and equation solving.
 
 ## Other
 

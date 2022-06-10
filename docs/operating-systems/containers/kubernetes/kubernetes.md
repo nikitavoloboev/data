@@ -6,7 +6,7 @@ title: Kubernetes
 
 [Ivan Velichko](https://iximiuz.com/en/) has lots of great posts on containers & k8s. [Beetle](https://github.com/Clivern/Beetle) & [Infra](https://github.com/infrahq/infra) are neat.
 
-[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has nice cheap servers.
+[Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) is nice as [Hetzner](https://www.hetzner.com/) has cheap servers.
 
 ## Notes
 
@@ -759,3 +759,6 @@ title: Kubernetes
 - [Etcd-Backup-Restore](https://github.com/gardener/etcd-backup-restore) - Collection of components to backup and restore the Etcd of a Kubernetes cluster.
 - [Pisanix](https://github.com/database-mesh/pisanix) - Modern database governance framework for Kubernetes. Pisanix adds SQL-aware traffic control, audit, security and extension abilities to help manage various databases in the Database Mesh way.
 - [Kube-Hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command.
+- [Kubernetes Off-The-Shelf (KOTS](https://github.com/replicatedhq/kots) - kubectl plugin and admin console to help manage Kubernetes Off-The-Shelf software. ([Web](https://kots.io/))
+- [kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components. ([Web](https://kurl.sh/))
+- [Replicated](https://www.replicated.com/) - Enabling the delivery and management of modern on-prem Kubernetes applications. ([GitHub](https://github.com/replicatedhq))

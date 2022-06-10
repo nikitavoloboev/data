@@ -157,3 +157,4 @@
 - [Critique of Techno-Feudal Reason](https://newleftreview.org/issues/ii133/articles/evgeny-morozov-critique-of-techno-feudal-reason) ([HN](https://news.ycombinator.com/item?id=31293784))
 - [Inflation or Recession (2022)](https://www.lynalden.com/may-2022-newsletter/)
 - [List of unsolved problems in economics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics) ([HN](https://news.ycombinator.com/item?id=31409044))
+- [Will U.S. debt cause a global collapse? (2022)](https://noahpinion.substack.com/p/will-us-debt-cause-a-global-collapse?s=r)

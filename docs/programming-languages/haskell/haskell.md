@@ -433,3 +433,4 @@ title: Haskell
 - [Smooth, non-invasive Haskell Stack and Nix shell integration (2022)](https://www.tweag.io/blog/2022-06-02-haskell-stack-nix-shell/)
 - [Generate web forms from pure functions (2022)](https://www.haskellforall.com/2022/05/generate-web-forms-from-pure-functions.html)
 - [Unboxed types and primitive operations](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/primitives.html) ([Lobsters](https://lobste.rs/s/xxlvq8/unboxed_types_primitive_operations))
+- [Haskell WATs](https://github.com/NorfairKing/haskell-WAT) - Collection of Haskell's WATs.

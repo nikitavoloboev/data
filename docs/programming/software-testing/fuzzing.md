@@ -88,3 +88,5 @@ title: Fuzzing
 - [Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing)
 - [Why fuzzing with emulators is amazing](https://github.com/gamozolabs/fuzz_with_emus)
 - [Fuzzing 101](https://github.com/antonio-morales/Fuzzing101) - Step by step fuzzing tutorial. A GitHub Security Lab initiative.
+- [DeepState](https://github.com/trailofbits/deepstate) - Unit test-like interface for fuzzing and symbolic execution.
+- [Variation of american fuzzy lop for testing compilers](https://github.com/agroce/afl-compiler-fuzzer)

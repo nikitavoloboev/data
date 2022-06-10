@@ -250,3 +250,4 @@ I also share [my thoughts on finding romantic partners](seduction.md). One fun t
 - [For those who practice ethical non-monogamy, why do you do it? (2022)](https://www.reddit.com/r/datingoverthirty/comments/umz7wz/for_those_who_practice_ethical_nonmonogamy_why_do/)
 - [Men, what makes you want to seriously date a girl? (2022)](https://www.reddit.com/r/AskMen/comments/usz6xg/men_what_makes_you_want_to_seriously_date_a_girl/)
 - [Friendships form via shared context, not shared activities](https://billmei.net/blog/friendship) ([HN](https://news.ycombinator.com/item?id=31562478))
+- [Feeld](https://feeld.co/) - Dating app for the open–minded to meet like–minded. ([Links](https://linktr.ee/feeldco))

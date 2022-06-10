@@ -947,6 +947,7 @@
 - [json2csv](https://github.com/zemirco/json2csv) - Converts JSON into CSV with column titles and proper line endings.
 - [GLightbox](https://github.com/biati-digital/glightbox) - Pure JavaScript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes.
 - [Twig.js](https://github.com/twigjs/twig.js) - JS implementation of the Twig Templating Language.
+- [Atomic Agents](https://github.com/gjmcn/atomic-agents) - Spatial Agent-based Modeling in JavaScript.
 
 ## Links
 

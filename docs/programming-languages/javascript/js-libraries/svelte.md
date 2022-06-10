@@ -269,3 +269,4 @@ title: Svelte
 - [Svelte Commerce](https://github.com/itswadesh/svelte-commerce) - Advanced Frontend Platform for eCommerce based on Sveltekit.
 - [Svelte French Toast](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte.
 - [Attractions](https://illright.github.io/attractions/) - Pretty cool UI kit for Svelte. ([Code](https://github.com/illright/attractions))
+- [Svelte for Beginners Course (2021)](https://www.udemy.com/course/svelte-for-beginners/)

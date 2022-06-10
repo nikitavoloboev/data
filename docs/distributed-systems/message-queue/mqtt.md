@@ -50,3 +50,4 @@ title: MQTT
 - [Control Esp32 from a web panel over MQTT protocol](https://github.com/fdisotto/esp32-mqtt) ([HN](https://news.ycombinator.com/item?id=31490108))
 - [MQTT NIO](https://github.com/swift-server-community/mqtt-nio) - Swift NIO MQTT v3.1.1 and v5.0 Client.
 - [MQTT-C](https://github.com/LiamBindle/MQTT-C) - Portable MQTT C client for embedded systems and PCs alike.
+- [mqttd](https://github.com/dustin/mqttd) - Complete MQTT v5 broker.

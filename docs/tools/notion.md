@@ -116,3 +116,4 @@ Use it for projects as a wiki of docs, notes, todos. I [share most boards in pub
 - [How Notion built a product management system to align every team (2022)](https://www.notion.so/blog/notion-product-management-system-align-every-team)
 - [Slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more. ([Web](https://slashy.app/))
 - [Notion Rust API Library](https://github.com/jakeswenson/notion)
+- [nbundle for Developers](https://developers.nbundle.com/) - Build Apps Inside Notion. ([Code](https://github.com/nbundle/example))

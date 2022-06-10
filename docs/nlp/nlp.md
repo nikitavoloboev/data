@@ -590,3 +590,4 @@
 - [Diffusion-LM Improves Controllable Text Generation (2022)](https://arxiv.org/abs/2205.14217) ([Code](https://github.com/XiangLi1999/Diffusion-LM)) ([Tweet](https://twitter.com/percyliang/status/1533977616666923008))
 - [RnG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering (2021)](https://arxiv.org/abs/2109.08678) ([Code](https://github.com/salesforce/rng-kbqa))
 - [Neural Prompt Search](https://github.com/Davidzhangyuanhan/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
+- [makemore](https://github.com/karpathy/makemore) - Most accessible way of tinkering with a GPT - one hackable script.

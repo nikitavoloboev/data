@@ -54,3 +54,4 @@ title: Bazel
 - [Target Determinator](https://github.com/bazel-contrib/target-determinator) - Determines which Bazel targets were affected between two git commits.
 - [rules_multirun](https://github.com/keith/rules_multirun) - Bazel rules for running multiple commands in parallel in a single bazel invocation.
 - [Example repository for how to setup a bazel build that uses rust on iOS and Android](https://github.com/keith/bazel-rust-mobile-demo)
+- [Bazel rules for JavaScript](https://github.com/aspect-build/rules_js) - High-performance Bazel rules for running NodeJS tools and building JavaScript projects.

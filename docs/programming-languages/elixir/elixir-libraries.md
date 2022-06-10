@@ -202,6 +202,7 @@
 - [Qrusty](https://github.com/nbw/qrusty) - Elixir QR Code library that leverages precompiled Rust.
 - [Lens](https://github.com/obrok/lens) - Utility for working with nested data structures.
 - [MixInstallExamples](https://github.com/wojtekmach/mix_install_examples) - Collection of simple Elixir scripts that are using Mix.install/2.
+- [JsonDiffEx](https://github.com/olafura/json_diff_ex) - Diff and patch for JSON in Elixir, works really well and is really fast.
 
 ## Links
 
