@@ -226,3 +226,4 @@
 - [Selenium Requests](https://github.com/cryzed/Selenium-Requests) - Extends Selenium WebDriver classes to include the request function from the Requests library, while doing all the needed cookie and request headers handling.
 - [selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [How browsers work](https://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [How does the browser render a web page?](https://twitter.com/alexxubyte/status/1534201516063461376)

@@ -37,3 +37,4 @@ Love [VanMoof](https://www.vanmoof.com/) bikes.
 - [Vanmoofer](https://vanmoofer.com/) - Everything we know about VanMoof's upcoming eBikes. ([Twitter](https://twitter.com/VanMooferNews))
 - [The future of urban transport is e-bikes (2022)](https://www.youtube.com/watch?v=avtXplu8wHM)
 - [3 upgrades to the VanMoof S3 which significantly enhanced my experience (2022)](https://www.reddit.com/r/vanmoofbicycle/comments/v192xa/3_upgrades_to_the_s3_which_significantly_enhanced/)
+- [Specialized](https://www.specialized.com/) - Bicycle Components.

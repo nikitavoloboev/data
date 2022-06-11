@@ -4,6 +4,8 @@ title: QUIC
 
 # [QUIC](https://quicwg.org/)
 
+[This intro](https://www.youtube.com/watch?v=HnDsMehSSY4) & [QUIC Cloudflare doc](https://cloudflare-quic.com/) are great.
+
 ## Links
 
 - [The Road to QUIC (2018)](https://blog.cloudflare.com/the-road-to-quic/)
@@ -49,3 +51,6 @@ title: QUIC
 - [P2P-WebTransport](https://github.com/w3c/p2p-webtransport) - Interface to create and manage QUIC streams.
 - [DNS over Dedicated QUIC Connections](https://www.rfc-editor.org/rfc/rfc9250.html) ([HN](https://news.ycombinator.com/item?id=31380142))
 - [qsocks](https://github.com/net-byte/qsocks) - Socks5 proxy over QUIC.
+- [Intro to the QUIC Transport Protocol (2021)](https://www.youtube.com/watch?v=HnDsMehSSY4)
+- [QUIC | Cloudflare](https://cloudflare-quic.com/)
+- [Network Simulator for QUIC benchmarking](https://github.com/marten-seemann/quic-network-simulator)

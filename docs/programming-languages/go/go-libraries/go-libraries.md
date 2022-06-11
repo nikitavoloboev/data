@@ -331,6 +331,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Health](https://github.com/alexliesenfeld/health) - Simple and flexible health check library for Go.
 - [Hertz](https://github.com/cloudwego/hertz) - High-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [GO JWT Middleware](https://github.com/auth0/go-jwt-middleware) - Middleware for Go Programming Language to check for JWTs on HTTP requests.
+- [go.pkt](https://github.com/ghedo/go.pkt) - Go libraries for capturing, injecting, filtering, encoding and decoding network packets.
 
 ## GraphQL
 
