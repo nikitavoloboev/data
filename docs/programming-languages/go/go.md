@@ -791,3 +791,4 @@ if err != nil {
 - [Mock programs to test os/exec in Go (2022)](https://abhinavg.net/posts/hijack-testmain/)
 - [Goroutines Under The Hood (2020)](https://osmh.dev/posts/goroutines-under-the-hood)
 - [Performance of coroutine-style lexers in Go (2022)](https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/) ([HN](https://news.ycombinator.com/item?id=31649617))
+- [Data Race Patterns in Go (2022)](https://eng.uber.com/data-race-patterns-in-go/) ([HN](https://news.ycombinator.com/item?id=31698503))
