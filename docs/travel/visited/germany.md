@@ -1,6 +1,6 @@
 # Germany
 
-Quite sad that it appears [majority of Germany government appears to be fully bought off](https://twitter.com/ViolavonCramon/status/1535621476707098624) by [Russia](russia.md).
+Quite sad that it seems [majority of Germany government appears to be fully bought off](https://twitter.com/ViolavonCramon/status/1535621476707098624) by [Russia](russia.md).
 
 ## Notes
 

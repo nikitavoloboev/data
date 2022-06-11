@@ -85,3 +85,4 @@ title: Prometheus
 - [Tesla Prometheus Exporter](https://github.com/wywywywy/tesla-prometheus-exporter)
 - [CloudFlare Prometheus exporter](https://github.com/lablabs/cloudflare-exporter)
 - [Coroot-node-agent](https://github.com/coroot/coroot-node-agent) - Prometheus exporter based on eBPF that gathers comprehensive container metrics.
+- [smokeping_prober](https://github.com/SuperQ/smokeping_prober) - Prometheus style smokeping.

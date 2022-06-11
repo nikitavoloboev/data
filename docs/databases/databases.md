@@ -629,3 +629,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [MiniSQL](https://github.com/BMS-2021/MiniSQL) - Designed to be a distributed relational database system. Final project of ZJU Database System Concept course.
 - [Ask HN: What are interesting new developments in databases related fields? (2022)](https://news.ycombinator.com/item?id=31633015)
 - [TiFlow](https://github.com/pingcap/tiflow) - Unified data replication platform around TiDB.
+- [Ideas on better database design](https://github.com/alextanhongpin/database-design)

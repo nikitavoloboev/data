@@ -241,3 +241,5 @@ My current preferred stack is [NextJS/Prisma/Postgres/PostGraphile with some Go/
 - [Ask HN: Visualizing software designs, especially of large systems (if at all)? (2022)](https://news.ycombinator.com/item?id=31569646)
 - [Entity Component System FAQ](https://github.com/SanderMertens/ecs-faq)
 - [Ask HN: Why aren't code diagram generating tools more common? (2022)](https://news.ycombinator.com/item?id=31620002)
+- [Evolutionary Architecture](https://github.com/alextanhongpin/evolutionary-architecture) - Collection of best practices when designing an server-side and client-side architecture.
+- [Learnings from clean architecture](https://github.com/alextanhongpin/clean-architecture-learn)

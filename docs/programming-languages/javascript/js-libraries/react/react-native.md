@@ -275,3 +275,4 @@ title: React Native
 - [Drawings, gestures, and animations workshop – App.js Conference 2022](https://github.com/software-mansion-labs/drawings-and-animations-workshop)
 - [How to build Gmail-like UI with React Native (2022)](https://www.youtube.com/watch?v=w-M9UFHLAl0)
 - [zeego](https://github.com/nandorojo/zeego) - Beautiful, native menus for React Native + Web, inspired by Radix UI.
+- [React Navigation Bottom Sheet](https://github.com/th3rdwave/react-navigation-bottom-sheet) - Bottom sheet navigator for React Navigation.

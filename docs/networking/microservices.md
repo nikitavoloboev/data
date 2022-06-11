@@ -112,3 +112,4 @@
 - [DTM (Distributed Transactions Manager)](https://github.com/dtm-labs/dtm) - Distributed transaction framework that supports multiple languages, supports saga, tcc, xa, 2-phase message, outbox patterns.
 - [Kalix.io](https://www.kalix.io/) - High performance microservices and APIs. ([Article](https://www.kalix.io/blog/kalix-move-to-the-cloud-extend-to-the-edge-go-beyond))
 - [Orion](https://github.com/carousell/Orion) - Small lightweight framework written around grpc/protobuf with the aim to shorten time to build microservices.
+- [Architecture design for microservice](https://github.com/alextanhongpin/full-stack-microservice)

@@ -634,6 +634,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Go Result](https://github.com/bobfang1992/go-result) - Simple result type in Go 1.18.
 - [try](https://github.com/dsnet/try) - Simplified error handling in Go.
 - [oerrs](https://github.com/OneOfOne/oerrs) - Adds an ErrorList with optional stack traces.
+- [Errors](https://github.com/alextanhongpin/errors) - Better domain errors with Go.
 
 ## Other
 
