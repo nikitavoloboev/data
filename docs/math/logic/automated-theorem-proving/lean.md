@@ -100,3 +100,4 @@ title: Lean
 - [Lean material for Kevin Buzzard's Jan-Mar 2022 course on formalizing mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics-2022)
 - [Formalization of Gardam's disproof of the unit conjecture in Lean](https://github.com/siddhartha-gadgil/Polylean)
 - [Lean Ipld](https://github.com/yatima-inc/Ipld.lean) - Lean4 implementation of the IPLD format.
+- [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
