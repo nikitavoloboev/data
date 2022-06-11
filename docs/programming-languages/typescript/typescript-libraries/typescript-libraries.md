@@ -543,6 +543,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [better-ajv-errors](https://github.com/apideck-libraries/better-ajv-errors) - Human-friendly JSON Schema validation for APIs.
 - [iterate-all](https://github.com/suchipi/iterate-all) - Converts an iterable, iterable of Promises, or async iterable into a Promise of an Array.
 - [convert-units](https://github.com/convert-units/convert-units) - Elegant way to convert quantities between different units.
+- [timsy](https://github.com/christianalfoni/timsy) - Agnostic functional state machine with epic type support.
 
 ## Links
 

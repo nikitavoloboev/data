@@ -738,6 +738,7 @@
 - [rust-si](https://github.com/oli-obk/rust-si) - Rusty `scanf` (`scan!`) and inverse of `print!` (`read!`).
 - [fault-injection](https://github.com/komora-io/fault-injection) - Similar to the try! macro or ? operator, but externally controllable to inject faults during testing. ([Tweet](https://twitter.com/sadisticsystems/status/1526152556799479809))
 - [auto-import](https://github.com/m-ou-se/auto-import) - Expands to whatever use statements you need to make the rest of the code compile. ([Tweet](https://twitter.com/m_ou_se/status/1527232843331645441))
+- [entrait](https://github.com/audunhalland/entrait) - Proc macro to ease development using Inversion of Control patterns in Rust.
 
 ## Math
 
