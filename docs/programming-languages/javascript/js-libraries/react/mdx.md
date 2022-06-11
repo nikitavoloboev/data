@@ -40,3 +40,4 @@ title: MDX
 - [MDX Debugger](https://github.com/pomber/mdx-debugger) - Dev tool to inspect the ast transformations done remark and rehype plugins during MDX compilation.
 - [MDX to Markdown Converter](https://github.com/souporserious/mdx-to-md)
 - [MDX VSCode extension](https://marketplace.visualstudio.com/items?itemName=silvenon.mdx) ([Code](https://github.com/silvenon/vscode-mdx))
+- [ESLint Parser/Plugin for MDX](https://github.com/mdx-js/eslint-mdx)

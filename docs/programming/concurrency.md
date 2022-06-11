@@ -46,3 +46,4 @@ Concurrency is the composition of independently executing computations. [Real-Ti
 - [Exponential Backoff And Jitter (2022)](https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/)
 - [Fearless concurrency at a discount? (2022)](https://newsletter.papersyoumightlove.pl/archive/fearless-concurrency-at-a-discount/)
 - [Notes on concurrency bugs (2016)](https://danluu.com/concurrency-bugs/) ([HN](https://news.ycombinator.com/item?id=31514822))
+- [Handling Concurrency Without Locks (2022)](https://hakibenita.com/django-concurrency) ([Lobsters](https://lobste.rs/s/abr8ls/handling_concurrency_without_locks))

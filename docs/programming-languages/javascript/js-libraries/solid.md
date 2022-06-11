@@ -97,3 +97,4 @@ I am trying to use SolidJS for all web apps and static sites I build now. Curren
 - [SUID](https://github.com/swordev/suid) - Port of Material-UI (MUI) built with SolidJS.
 - [Solid Hotkeys](https://github.com/alekangelov/solid-hotkeys) - Hotkeys library for solid that adds only 2 event listeners.
 - [How to Deploy SolidJS (2022)](https://dev.to/brittneypostma/how-to-deploy-solidjs-4hoi)
+- [Solid Service API](https://github.com/solidjs/solid-service-api) - Code that powers Solid Service API on Cloudflare Workers.

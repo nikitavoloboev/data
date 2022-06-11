@@ -38,6 +38,10 @@
 
 - [GraphQL Ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of GraphQL.
 
+## Auth
+
+- [entitlements-app](https://github.com/github/entitlements-app) - Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System.
+
 ## Other
 
 - [ruby-macho](https://github.com/Homebrew/ruby-macho) - Ruby library for examining and modifying Mach-O files.

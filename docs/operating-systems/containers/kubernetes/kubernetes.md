@@ -762,3 +762,4 @@ title: Kubernetes
 - [Kubernetes Off-The-Shelf (KOTS](https://github.com/replicatedhq/kots) - kubectl plugin and admin console to help manage Kubernetes Off-The-Shelf software. ([Web](https://kots.io/))
 - [kURL](https://github.com/replicatedhq/kURL) - Production-grade, airgapped Kubernetes installer combining upstream k8s with overlays and popular components. ([Web](https://kurl.sh/))
 - [Replicated](https://www.replicated.com/) - Enabling the delivery and management of modern on-prem Kubernetes applications. ([GitHub](https://github.com/replicatedhq))
+- [Harness CD](https://github.com/harness/harness-cd-community) - Modern self-service continuous delivery solution that allows developers to deploy, verify and automatically rollback Kubernetes and other cloud-native applications.

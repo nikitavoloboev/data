@@ -99,3 +99,5 @@ title: Google Cloud
 - [Google Cloud Project Factory Terraform Module](https://github.com/terraform-google-modules/terraform-google-project-factory)
 - [google-cloud-rust](https://github.com/yoshidan/google-cloud-rust) - Google Cloud Client Libraries for Rust.
 - [Google Cloud Vertex AI Samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples)
+- [GroupSync: Cloud SQL IAM Database Authentication for Groups](https://github.com/GoogleCloudPlatform/cloud-sql-iam-db-authn-groups)
+- [Cloud SQL Connector for Python Drivers](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector)

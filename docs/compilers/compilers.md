@@ -226,3 +226,4 @@
 - [How to Architect a Query Compiler, Revisited](https://www.cs.purdue.edu/homes/rompf/papers/tahboub-sigmod18.pdf)
 - [Cwerg](https://github.com/robertmuth/Cwerg) - Lightweight compiler backend aimed at new programming language implementations that want to avoid heavy dependencies like LLVM.
 - [Deep Dive into JIT Compiler Optimizations (2020)](https://kipp.ly/blog/jits-impls/)
+- [Cranelift, Part 4: A New Register Allocator (2022)](https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/)

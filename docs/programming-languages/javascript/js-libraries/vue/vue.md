@@ -178,3 +178,4 @@ title: Vue.js
 - [SlimeForm](https://github.com/LittleSound/slimeform) - Form state management and validation for Vue3.
 - [The Nuxt Web (2022)](https://twitter.com/Atinux/status/1532405883929608197)
 - [Anthony Fu - Vue, Vite, Vitest, UnoCSS (2022)](https://www.youtube.com/watch?v=At91HkUmAY0)
+- [Vitesse Lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse.

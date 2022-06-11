@@ -25,3 +25,4 @@
 - [Best monitor arms for Mac (or PC) external displays (2022)](https://9to5mac.com/2022/03/25/best-monitor-arms-for-mac-or-pc-external-displays/)
 - [The smallest and worst HDMI display (2022)](https://mitxela.com/projects/ddc-oled) ([HN](https://news.ycombinator.com/item?id=30869140))
 - [I didn't return my Apple Studio Display (2022)](https://cfenollosa.com/blog/i-didnt-return-my-apple-studio-display.html) ([HN](https://news.ycombinator.com/item?id=30878736))
+- [Ask HN: Is there a TV on the market without “Smart TV” features? (2022)](https://news.ycombinator.com/item?id=31706835)

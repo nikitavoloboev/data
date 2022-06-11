@@ -71,3 +71,4 @@ title: Godot
 - [SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - 2D Terrain Tool for Godot.
 - [GDScript and Godot client for real-time Phoenix Framework Channels](https://github.com/alfredbaudisch/GodotPhoenixChannels)
 - [Godex](https://github.com/GodotECS/godex) - Godot Engine ECS library.
+- [Making Advanced GUI Applications with Godot (2020)](https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b) ([Lobsters](https://lobste.rs/s/uka8eq/making_advanced_gui_applications_with))

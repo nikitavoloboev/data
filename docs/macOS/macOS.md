@@ -266,3 +266,4 @@ sudo kextload /System/Library/Extensions/AppleUSBTopCase.kext/Contents/PlugIns/A
 - [HvDecompile](https://github.com/zhuowei/HvDecompile) - Decompiling macOS Hypervisor.framework by hand.
 - [Rediscovering the Mac: An iPad User's Journey into macOS with the M1 Max MacBook Pro (2022)](https://www.macstories.net/stories/rediscovering-the-mac/)
 - [Create macOS or Linux virtual machines (2022)](https://developer.apple.com/videos/play/wwdc2022/10002/) ([HN](https://news.ycombinator.com/item?id=31645000))
+- [Quick look at user-mode file systems on macOS Ventura (2022)](https://threedots.ovh/blog/2022/06/quick-look-at-user-mode-file-systems-on-macos-ventura/) ([Lobsters](https://lobste.rs/s/bm0ifk/quick_look_at_user_mode_file_systems_on))

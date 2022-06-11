@@ -815,3 +815,4 @@ title: Rust
 - [Functional Programming in Rust (2022)](https://kerkour.com/rust-functional-programming) ([Reddit](https://www.reddit.com/r/rust/comments/v65k50/functional_programming_in_rust/))
 - [Caches In Rust (2022)](https://matklad.github.io//2022/06/11/caches-in-rust.html)
 - [How to Rust articles](https://github.com/nikomatsakis/how-to-rust)
+- [Rust without the async (hard) part (2022)](https://lunatic.solutions/blog/rust-without-the-async-hard-part/) ([Lobsters](https://lobste.rs/s/bso3rq/rust_without_async_hard_part))

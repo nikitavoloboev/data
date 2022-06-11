@@ -287,7 +287,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Demo for the swash crate](https://github.com/dfrg/swash_demo)
 - [Components AI - Typefaces](https://github.com/components-ai/typefaces) - Collection of Google Fonts typeface packages for three.js/react-three-fiber.
 - [NaNGlyphFilters](https://www.generativefonts.xyz/) - Generative Fonts & Scripts. ([Code](https://github.com/NaN-xyz/Glyph-Filters))
-- [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/)
+- [More than you ever wanted to know about font loading on the web](https://www.industrialempathy.com/posts/high-performance-web-font-loading/) ([Lobsters](https://lobste.rs/s/r35k9f/more_than_you_ever_wanted_know_about_font))
 - [Using Computer Modern on the web](https://www.checkmyworking.com/cm-web-fonts/)
 - [Ask HN: What are the best typography talks? (2021)](https://news.ycombinator.com/item?id=27154412)
 - [Learning a Manifold of Fonts](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html)
