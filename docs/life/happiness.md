@@ -62,6 +62,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [Happiness and balance is found in moderation in all things and knowing your limits.](https://www.reddit.com/r/fatFIRE/comments/uinysu/should_i_experiment_with_being_a_sugar_daddy/i7e2d12/?utm_source=reddit&utm_medium=web2x&context=3)
 - [Melancholy is the happiness of being sad.](https://www.youtube.com/watch?v=xNzPqFYcuKY)
 - [If you only wished to be happy, this could be easily accomplished; but we wish to be happier than other people, and this is always difficult, for we believe others to be happier than they are.](https://twitter.com/waitbutwhy/status/1529017582870749184)
+- [The key to happiness really is just food, water, exercise, sun, security, relationships, gratitude, and purpose.](https://twitter.com/CXGonzalez/status/1535587810354282498)
 
 ## Links
 

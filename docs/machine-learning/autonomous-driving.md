@@ -1,5 +1,7 @@
 # Autonomous driving
 
+- [Tesla's autopilot program shuts off less than a second before impact so the company can deny it was the cause of the impact.](https://twitter.com/muttgomery/status/1535353454905917446)
+
 ## Links
 
 - [Self Driving Cars [S1E2: ALVINN] (2019)](https://www.youtube.com/watch?v=H0igiP6Hg1k)

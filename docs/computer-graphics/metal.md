@@ -58,3 +58,4 @@ title: Metal
 - [MSL-Hydra-Synth](https://github.com/mizt/MSL-Hydra-Synth) - Export hydra-synth as Metal shader.
 - [cmt](https://github.com/recp/cmt) - C Wrapper for Apple's METAL framework.
 - [Experimenting with new Metal 3 features](https://github.com/ProjectKML/metal_3_example)
+- [Evolution of Metal, ARKit, and RealityKit](https://twitter.com/AtarayoSD/status/1535588494759759872)
