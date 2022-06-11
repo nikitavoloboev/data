@@ -8,6 +8,8 @@ I [model state machines by first listing events (press/do something), tasks (sid
 
 This [guide](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI) & [docs](https://xstate.js.org/docs/guides/start.html) are great.
 
+[Timsy](https://github.com/christianalfoni/timsy) is a nice lean alternative to XState.
+
 ## Notes
 
 - [When should you use XState? When you have something complex to build, with: 1. Many side effects, especially long-running ones like call recording. 2. Sequences of things that MUST happen in a certain order (choose devices, record, preview). Either dead simple (useState) or everything else (XState).](https://twitter.com/mpocock1/status/1451486390911373314)

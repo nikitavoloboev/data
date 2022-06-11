@@ -626,6 +626,7 @@
 - [FastBroadcast](https://github.com/YingboMa/FastBroadcast.jl) - Exports @.. that compiles broadcast expressions into loops that are easier for the compiler to optimize.
 - [Gnuplot.jl](https://github.com/gcalderone/Gnuplot.jl) - Julia interface to gnuplot.
 - [Strs](https://github.com/JuliaString/Strs.jl) - String support package for Julia.
+- [TOML.jl](https://github.com/JuliaLang/TOML.jl) - Fast TOML parser for TOML 1.0 written in Julia.
 
 ## Links
 

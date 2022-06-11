@@ -533,6 +533,7 @@
 - [rust-ed25519-compact](https://github.com/jedisct1/rust-ed25519-compact) - Small, WASM-friendly, zero-dependencies Ed25519 implementation for Rust.
 - [blake3_merkle](https://github.com/rmw-lib/blake3_merkle) - Based on merkle tree, but the exposed interface cannot export merkle tree.
 - [group](https://github.com/zkcrypto/group) - Elliptic curve group traits and utilities.
+- [Snowstorm](https://github.com/black-binary/snowstorm) - Minimalistic encryption protocol for rust async streams/packets, based on noise protocol and snow.
 
 ## Linux
 

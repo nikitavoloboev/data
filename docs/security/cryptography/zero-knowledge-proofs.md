@@ -96,3 +96,4 @@ title: Zero knowledge proofs
 - [Implementing Zero Knowledge Lottery’s Circom circuits (2022)](https://killari.medium.com/implementing-zero-knowledge-lotterys-circom-circuits-part-1-2-16910b3732a2)
 - [Zero Knowledge Lottery (2022)](https://killari.medium.com/zero-knowledge-lottery-437e456dc3f2)
 - [zk-Crush](https://www.zkcrush.xyz/) - Tell your crush you like them with zero-knowledge. ([Code](https://github.com/amirgamil/zk-crush))
+- [nuid.zk](https://github.com/NuID/zk) - Cross-platform zero knowledge proofs.
