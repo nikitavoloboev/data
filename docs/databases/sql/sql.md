@@ -201,3 +201,4 @@ title: SQL
 - [DataFusion](https://github.com/apache/arrow-ballista) - Extensible query execution framework, written in Rust, that uses Apache Arrow as its in-memory format.
 - [Essential elements of high performance applications: SQL indexes (2022)](https://www.foxhound.systems/blog/essential-elements-of-high-performance-sql-indexes/)
 - [A Gentle(-ish) Introduction to Worst-Case Optimal Joins (2022)](http://justinjaffray.com/a-gentle-ish-introduction-to-worst-case-optimal-joins/)
+- [SQL Style Guide](https://www.sqlstyle.guide/) - Consistent code style guide for SQL to ensure legible and maintainable projects. ([Code](https://github.com/treffynnon/sqlstyle.guide))

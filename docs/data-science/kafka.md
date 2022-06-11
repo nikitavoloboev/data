@@ -123,3 +123,4 @@ title: Apache Kafka
 - [KafkaSSE](https://github.com/wikimedia/KafkaSSE) - Kafka Consumer to HTTP SSE/EventSource.
 - [BroadwayKafka](https://github.com/dashbitco/broadway_kafka) - Broadway connector for Kafka.
 - [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.
+- [kt](https://github.com/fgeller/kt) - Kafka tool that likes JSON.

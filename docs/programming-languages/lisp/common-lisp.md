@@ -111,3 +111,4 @@
 - [Serapeum](https://github.com/ruricolist/serapeum) - Conservative library of Common Lisp utilities.
 - [Alexandria](https://alexandria.common-lisp.dev/) - Reduce duplication of effort and improve portability of Common Lisp code.
 - [Overlord](https://github.com/ruricolist/overlord) - Build system in Common Lisp.
+- [cl-async](https://github.com/orthecreedence/cl-async) - Asynchronous IO library for Common Lisp.
