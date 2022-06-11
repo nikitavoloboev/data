@@ -107,3 +107,4 @@ I try to get to this future as soon as possible by setting and completing my own
 - [Vanishing People: the Population Crisis (2022)](https://www.piratewires.com/p/vanishing-people-the-population-crisis?s=w) ([Tweet](https://twitter.com/micsolana/status/1525147115902554114))
 - [Why isn’t new technology making us more productive? (2022)](https://www.nytimes.com/2022/05/24/business/technology-productivity-economy.html) ([HN](https://news.ycombinator.com/item?id=31494671))
 - [Bestie AMA with Valor's Antonio Gracias (2022)](https://www.youtube.com/watch?v=vSKEz_8FDIk)
+- [What niche infrastructural existential problem are you especially worried about? (2022)](https://twitter.com/nwilliams030/status/1535309809628631042)

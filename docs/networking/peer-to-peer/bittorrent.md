@@ -118,3 +118,4 @@ title: BitTorrent
 - [BitTorrent Site Magnet Database Archives Available via Torrent and Direct DL](https://archive.org/details/TORRENTSMAGNETARCHIVES) ([HN](https://news.ycombinator.com/item?id=31461070))
 - [Zetflix](https://zetfix.online/) - Смотреть фильмы и сериалы от компании Нетфликс онлайн.
 - [Seedbox](https://github.com/jfroment/seedbox) - Docker-powered seedbox with persistent data and more cool stuff.
+- [Peercloud](https://github.com/jhiesey/peercloud) - Decentralized web hosting over WebTorrent.

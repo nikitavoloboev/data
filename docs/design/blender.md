@@ -81,3 +81,5 @@ title: Blender
 - [3D plots using Blender as a backend](https://github.com/imontesino/blender-plotting)
 - [Blender 3.2 (2022)](https://www.blender.org/download/releases/3-2/) ([HN](https://news.ycombinator.com/item?id=31668274))
 - [Blender Add-on: Drag and Drop Support](https://github.com/mika-f/blender-drag-and-drop)
+- [b3dsdf](https://github.com/williamchange/b3dsdf) - Blender signed distance functions. Toolkit of 2D/3D signed distance functions and sdf/vector operator nodegroups(130+) for Blender 2.83+. Also available as an addon which adds a menu in the shader editor.
+- [Blender themes](https://github.com/williamchange/blender-themes)

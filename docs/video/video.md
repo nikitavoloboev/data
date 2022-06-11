@@ -369,3 +369,4 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Video codecs and 4k (2022)](https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/)
 - [Vimix](https://brunoherbelin.github.io/vimix/) - Video Live Mixer. ([Code](https://github.com/brunoherbelin/vimix))
 - [Shotcut](https://www.shotcut.org/) - Free, open source, cross-platform video editor. ([Code](https://github.com/mltframework/shotcut))
+- [Videostream](https://github.com/jhiesey/videostream) - Play HTML5 video when from a file-like object.

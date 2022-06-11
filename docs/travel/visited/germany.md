@@ -1,5 +1,7 @@
 # Germany
 
+Quite sad that it appears [majority of Germany government appears to be fully bought off](https://twitter.com/ViolavonCramon/status/1535621476707098624) by [Russia](russia.md).
+
 ## Notes
 
 - [Germany, particularly Berlin, have a pretty vibrant startup eco-system. If you are just trying ideas, there is no need to register a business (legally you only have to do this once you intend to follow through long term). You can register a business for 35€ - most cities offer this online. Registering a limited liability company is a little more complicated (you need a 1h appointment with a notary), but can be done from 500€ onwards. If you plan to do less than 50.000€ in revenue this year you qualify as a micro business and don‘t need to file or pay VAT. You only need to file an annual account within a year of the financial year ending. Cost of this starts at around 500€. Our legal system and corporate culture is set up in a way that you are very unlikely to be sued for damages. So even medium sized companies (several million in revenue) frequently operate as full liability companies.](https://news.ycombinator.com/item?id=31622265)

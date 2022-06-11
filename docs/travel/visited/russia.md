@@ -573,4 +573,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Nice places to see in Russia (2022)](https://www.reddit.com/r/AskARussian/comments/v34uii/places_in_russia/)
 - [The Death of Gorshkov’s Navy: The Future of the Russian Surface Fleet (2022)](https://rusi.org/explore-our-research/publications/commentary/death-gorshkovs-navy-future-russian-surface-fleet) ([Reddit](https://www.reddit.com/r/CredibleDefense/comments/v3c2af/the_death_of_gorshkovs_navy_the_future_of_the/))
 - [Дмитрий Глуховский об «отмене» русской культуры, империализме и пропаганде Путина (2022)](https://www.youtube.com/watch?v=BBNJkfQFT8w)
-- [ещенепознер – до и во время войны / вДудь (2022)](https://www.youtube.com/watch?v=mh-7jvePXF4) ([Tweet](https://twitter.com/pevchikh/status/1535606989568585728))
+- [ещенепознер – до и во время войны / вДудь (2022)](https://www.youtube.com/watch?v=mh-7jvePXF4) ([Tweet](https://twitter.com/pevchikh/status/1535606989568585728)) ([Tweet](https://twitter.com/eg_fedorov/status/1535609595749605380))
