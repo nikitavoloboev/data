@@ -27,7 +27,7 @@ Some maybe interesting supplements I don't take routinely but tried.
 ## Notes
 
 - [Pregnant women taking 1,000 mg of the omega-3 DHA had 50% fewer early preterm births than women given 200 mg. The high dose DHA also reduced feeding issues and genitourinary and neurologic problems in infants (randomized controlled trial).](https://twitter.com/foundmyfitness/status/1397251661618352133)
-- [Recent study suggests anti inflammatory meds contribute to chronic pain by preventing an inflammatory process that resets the pain baseline.   We have been using these for decades and didn’t catch this. This should make you nervous about playing Guinea pig.](https://twitter.com/karnagraha/status/1528490268546068480)
+- [Recent study suggests anti inflammatory meds contribute to chronic pain by preventing an inflammatory process that resets the pain baseline. We have been using these for decades and didn’t catch this. This should make you nervous about playing Guinea pig.](https://twitter.com/karnagraha/status/1528490268546068480)
 
 ## Links
 

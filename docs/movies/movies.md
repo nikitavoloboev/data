@@ -107,4 +107,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Letterboxd Recommendations](https://github.com/sdl60660/letterboxd_recommendations) - Scraping publicly-accessible Letterboxd data and creating a movie recommendation model with it that can generate recommendations when provided with a Letterboxd username.
 - [What is the most underrated sci-fi movie according to you? (2022)](https://www.reddit.com/r/scifi/comments/ui5juv/what_is_the_most_underrated_scifi_movie_according/)
 - [Movies where music is integral to the movie, but it isn't a musical (2022)](https://www.reddit.com/r/MovieSuggestions/comments/ujk1gp/what_are_some_movies_where_music_is_integral_to/)
-- [What's the single best line reading you've ever heard in a  movie or TV show?](https://twitter.com/theseantcollins/status/1528087159865057282)
+- [What's the single best line reading you've ever heard in a movie or TV show?](https://twitter.com/theseantcollins/status/1528087159865057282)

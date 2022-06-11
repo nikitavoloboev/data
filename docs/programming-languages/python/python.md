@@ -13,7 +13,7 @@ title: Python
 - [Tricks to speed up python: 1. asyncio.gather argument ordering by IO wait time (no C). 2. Shared filters in SQLAlchemy Core (no C). 3. Custom construction of Pandas DataFrame from asyncpg.Record-s (with C). 4. Iterating lists without GIL in Cython (with C). 5. Zero-copy (de)serialization data structure (no C). 6. Replacing pandas groupby with pure numpy (no C).](https://www.reddit.com/r/programming/comments/so9luw/how_we_optimized_python_api_server_code_100x/)
 - ["gradual typing" is often difficult to implement in established Python packages. The issue is that it runs entirely counter to the "Easier to Ask for Forgiveness than Permission" (EAFP) coding style long advocated in the Python language.](https://twitter.com/jakevdp/status/1518659999844630528)
 - [Classic Python speed-bump: default values for function arguments are computed once, and shared for all calls. If you mutate them, the effect persists! Use None instead.](https://twitter.com/nedbat/status/1522184975818371072)
-- [Instead of list comprehensions, consider Python generator comprehensions (parens instead of square brackets).  They use the same syntax, but are lazy.  Less space, and can be less computation](https://twitter.com/nedbat/status/1521820685844180993)
+- [Instead of list comprehensions, consider Python generator comprehensions (parens instead of square brackets). They use the same syntax, but are lazy. Less space, and can be less computation](https://twitter.com/nedbat/status/1521820685844180993)
 
 ## Code
 

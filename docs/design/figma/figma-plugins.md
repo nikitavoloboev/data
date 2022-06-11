@@ -36,7 +36,7 @@
 - [Find and Replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Search for texts on your page and replace them just like a text editor. ([Tweet](https://twitter.com/notdetails/status/1294454546400448512))
 - [Auto Layout + Absolute positioning](https://www.figma.com/community/file/886244271808606023)
 - [Live Preview](https://www.figma.com/community/plugin/849390271196300773/Live-Preview) - Share a live preview of your Figma prototype with others. ([Tweet](https://twitter.com/jsngr/status/1304794296323801088))
-- [Figma to Code](https://www.figma.com/community/plugin/842128343887142055/Figma-to-Code-(Tailwind%2C-Flutter%2C-SwiftUI)) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI. ([Code](https://github.com/bernaferrari/FigmaToCode))
+- [Figma to Code](<https://www.figma.com/community/plugin/842128343887142055/Figma-to-Code-(Tailwind%2C-Flutter%2C-SwiftUI)>) - Generate responsive pages and apps on Tailwind, Flutter and SwiftUI. ([Code](https://github.com/bernaferrari/FigmaToCode))
 - [Hosted Export](https://www.figma.com/community/plugin/886688414738743606/Hosted-Export) - Allows you to copy hosted image URLs for any frame inside Figma.
 - [Figma Plugins Stats](https://github.com/yuanqing/figma-plugins-stats) - CLI to get live and historical stats for your Figma plugins.
 - [Guide Mate](https://github.com/praneshr/guidemate) - Figma plugin which helps you to add condition based grids to your designs.

@@ -631,3 +631,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The bleak spectacle of the Amber Heard-Johnny Depp trial (2022)](https://www.readthepresentage.com/p/johnny-depp-amber-heard?s=r) ([Tweet](https://twitter.com/RottenInDenmark/status/1532396377526915075))
 - [Mime](https://mime.nathanferns.xyz/) - Edit and Generate Memes. ([Code](https://github.com/nathanielfernandes/mime))
 - [Apple Supplier List](https://www.apple.com/supplier-responsibility/pdf/Apple-Supplier-List.pdf) ([HN](https://news.ycombinator.com/item?id=31655629))
+- [Who's afraid of amber heard? (2022)](https://internetprincess.substack.com/p/whos-afraid-of-amber-heard) ([Tweet](https://twitter.com/WeekesPrincess/status/1535358513194704897))

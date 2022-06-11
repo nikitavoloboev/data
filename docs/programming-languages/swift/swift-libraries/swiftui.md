@@ -226,3 +226,4 @@ title: SwiftUI
 - [SwiftUI sample code from WWDC22](https://github.com/apple/sample-food-truck)
 - [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16)
 - [SwiftUI Code Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)
+- [Resizable Sheet in SwiftUI (2022)](https://nilcoalescing.com/blog/ResizableSheetInSwiftUI/)

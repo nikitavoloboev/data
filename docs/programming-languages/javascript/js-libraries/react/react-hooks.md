@@ -226,7 +226,7 @@ useEffect(() => {
 - [React Suspense, Hooks, Server Components, TypeScript typed tuples & pattern matching proposal are nice.](https://twitter.com/jaredpalmer/status/1459543265775128579)
 - [Don't use useEffect for fire-and-forget effects. Use it for synchronization. Execute effects in event handlers.](https://twitter.com/DavidKPiano/status/1521922758581448705)
 - [If you hate useEffect, it's probably because you should be using React Query](https://twitter.com/t3dotgg/status/1528518570845646848)
-- [If you have an effect that needs to be executed when your app starts, it's definitely okay to execute it *outside* the component, and *not* in useEffect](https://twitter.com/DavidKPiano/status/1533798980596940800)
+- [If you have an effect that needs to be executed when your app starts, it's definitely okay to execute it _outside_ the component, and _not_ in useEffect](https://twitter.com/DavidKPiano/status/1533798980596940800)
 
 ## Links
 

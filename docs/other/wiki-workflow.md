@@ -22,7 +22,7 @@ I open the [docs part of the GitHub repo](https://github.com/nikitavoloboev/know
 
 ## Making notes on books/papers
 
-When reading books/papers, I annotate PDF files with [Preview](https://en.wikipedia.org/wiki/Preview_(macOS)) and ePub files with [Books app](https://www.apple.com/apple-books/). Once I read the book/paper I transfer the annotations to the markdown file and connect the file to wiki. I often write a review on Goodreads and add the review and notes I made to [books](../books/books.md).
+When reading books/papers, I annotate PDF files with [Preview](<https://en.wikipedia.org/wiki/Preview_(macOS)>) and ePub files with [Books app](https://www.apple.com/apple-books/). Once I read the book/paper I transfer the annotations to the markdown file and connect the file to wiki. I often write a review on Goodreads and add the review and notes I made to [books](../books/books.md).
 
 This system needs improvement though and I want to try using [Readwise](https://readwise.io/) and more automation for both reading things more efficiently and taking notes.
 
@@ -43,7 +43,7 @@ I try to structure everything inside this wiki as understandable and readable by
 - LA = [Learn Anything](../ideas/learn-anything.md)
 - KM = [Keyboard Maestro](../macOS/apps/keyboard-maestro/keyboard-maestro.md). Will often reference [KM macros I made](../macOS/apps/keyboard-maestro/km-macros.md).
 - repo = GitHub repository
-- bound to .. =  may say things like `bound to v + r` which means that I created an action that activates when I hold `v` key and then press `r`. For how that works read [this](../macOS/apps/karabiner/karabiner.md).
+- bound to .. = may say things like `bound to v + r` which means that I created an action that activates when I hold `v` key and then press `r`. For how that works read [this](../macOS/apps/karabiner/karabiner.md).
 
 #### Years in Links
 

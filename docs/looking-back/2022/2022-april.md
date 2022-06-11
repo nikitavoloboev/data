@@ -21,5 +21,3 @@ Aside from moving wiki to Docusaurus, I also released new iteration of my websit
 ![](https://i.imgur.com/5ROaTMF.jpg)
 
 > Personal site
-
-

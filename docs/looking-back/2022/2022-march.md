@@ -19,4 +19,3 @@ Started 4th season of Ozark.
 War is horrible. Hope Ukraine pulls through and grows stronger than ever. It's much harder to focus on things given what's happening right now.
 
 I will be building out more of Droppa together with some personal projects I want to release soon. Also still learning a bit of Rust on the side.
-

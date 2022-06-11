@@ -134,4 +134,3 @@ The way our brains take input from different senses (eyes, touch) and then decid
 ## Images
 
 ![](https://i.imgur.com/rrMuQnY.png)
-

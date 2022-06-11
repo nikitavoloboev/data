@@ -343,7 +343,7 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [30 лет «шоковой терапии»: Сергей Гуриев о том, что пошло не так в 91-м и кто виноват (2021)](https://www.youtube.com/watch?v=qhOKQPA0llk)
 - [Чем опасно для режима усиление силовиков? Похоже, элиты начали истреблять сами себя (2021)](https://www.youtube.com/watch?v=mnK2O6UkMv8)
 - [Kremlin.ru](http://www.kremlin.ru/)
-- [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе.  ([Data](https://github.com/nextgis/memorial_data))
+- [Жертвы политического террора в СССР](https://base.memo.ru/) - Более 3 000 000 записей в базе. ([Data](https://github.com/nextgis/memorial_data))
 - [Личное дело каждого](https://dostup.memo.ru/)
 - [Введение в феминизм](https://twitter.com/SunnySwamp/status/1388833195353903111)
 - [Душняк. Советский диссидент Александр Подрабинек об издевательствах над Навальным (2021)](https://theins.ru/opinions/aleksandr-podrabinek/246355)
