@@ -109,3 +109,4 @@ title: WebRTC
 - [Serverless peer to peer chat on WebRTC](https://github.com/michal-wrzosek/p2p-chat)
 - [STUNner](https://github.com/l7mp/stunner) - Kubernetes ingress gateway for WebRTC.
 - [WebRTC Nuts and Bolts](https://github.com/adalkiran/webrtc-nuts-and-bolts) ([HN](https://news.ycombinator.com/item?id=31548016))
+- [PeerLite](https://github.com/skyllo/peer-lite) - Lightweight WebRTC browser library that supports video, audio and data channels.
