@@ -132,3 +132,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [The sort --key Trick](https://www.gwern.net/Sort)
 - [UX patterns for CLI tools (2022)](https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html) ([Lobsters](https://lobste.rs/s/av7f4o/ux_patterns_for_cli_tools))
 - [forever](https://github.com/foreversd/forever) - Simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+- [Best practices for inclusive CLIs (2022)](https://seirdy.one/posts/2022/06/10/cli-best-practices/) ([Lobsters](https://lobste.rs/s/zsazbu/best_practices_for_inclusive_clis))
