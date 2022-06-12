@@ -2,17 +2,19 @@
 
 I manage my money with [N26](https://n26.com/en-gb/) (great in EU). When I lived in UK, [Monzo](https://monzo.com) was great.
 
-I keep a minimum of 3,000 euro on the account at any time (to cover emergency spending + monthly bills). I budget the next month (make sure enough money is on main account for the month) as well as rebalance my [investment portfolio of stocks/ETFs](investing.md) (if necessary) at first Sunday of each month as part of a monthly [look back](../looking-back/looking-back.md). I also invest into [ideas that interest me](../ideas/ideas.md) & support open source projects & people I love.
+I try keep a minimum of 3000 euro on the account at any time (to cover emergency spending + monthly bills). I budget the next month (make sure enough money is on main account for the month) as well as rebalance my [investment portfolio of stocks/ETFs](investing.md) (if necessary) at first day of each month as part of a monthly [look back](../looking-back/looking-back.md). I also invest into [ideas that interest me](../ideas/ideas.md) & support open source projects & people I love. Currently I do this in [Notion](../tools/notion.md) and it looks like this:
 
-I use a variation of [YNAB methodology](https://www.youneedabudget.com/method/) to somewhat mindfully manage my spending. I try to be mindful of more expensive things I buy & try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it.
+![](https://i.imgur.com/w8CuFdU.png)
 
-In future it would be nice to automate moving money to main account from less liquid assets I own quickly. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets (good ETFs being the safest investment).
+It's a lightweight variation of [YNAB methodology](https://www.youneedabudget.com/method/) which lets me be more mindful of my expenses so as to not get shocked. I try to be mindful of more expensive things I buy & try to never disregard spending on quality healthy food and essentials for my well being. Both N26 & Monzo track spending into categories and do a good job of it. In future I want to build native apps to do this part of budgeting for me. Something simple like the above structure, put predictions on expenses but it also connects to my bank in real time and tells me how much I actually paid, how much I have left for next month and whether my predictions were right. Ideally it does in real time too so if I bought another coffee in some cafe as an example, it notifies me that I am 'over my prediction budget' for this kind of activity. [Actual Budget](https://actualbudget.com/) is close to this idea but has too complex UI and doesn't let you connect to EU banks.
 
-[Column](https://news.ycombinator.com/item?id=31109170) seems like a nice bank. [Paddle](https://www.paddle.com/) is [nice for processing payments](https://news.ycombinator.com/item?id=31522127).
+It would also be nice to automate moving money from main account to good ETFs. FIAT [tends to deprecate quickly](https://twitter.com/levelsio/status/1471046183141265409) so it's good idea to own hard assets ([good ETFs](investing.md#Interesting-ETFs) being the safest investment).
+
+[Mercury](https://mercury.com/) & [Column](https://news.ycombinator.com/item?id=31109170) are great company banks. [Paddle](https://www.paddle.com/) is [nice for processing payments](https://news.ycombinator.com/item?id=31522127).
 
 ## Ongoing subscriptions
 
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly as part of my finance check up. The app I mentioned above will cover the use case of Bobby too so hopefully I won't need this app in future.
 
 ![](https://i.imgur.com/bnSKuB0.png)
 
