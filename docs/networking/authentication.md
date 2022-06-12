@@ -236,3 +236,4 @@
 - [Hanko](https://github.com/teamhanko/hanko) - Clean approach to user authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. ([Web](https://www.hanko.io/))
 - [web-auth-library](https://github.com/kriasoft/web-auth-library) - Collection of utility functions for working with Web Crypto API.
 - [SAML Jackson](https://github.com/boxyhq/jackson) - SAML SSO service designed as an OAuth 2.0 flow. Integrate SAML with just a few lines of code.
+- [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys) ([HN](https://news.ycombinator.com/item?id=31643917))
