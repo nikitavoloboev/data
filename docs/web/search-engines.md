@@ -238,3 +238,4 @@
 - [Meilisearch Python](https://github.com/meilisearch/meilisearch-python) - Meilisearch API client for Python developers.
 - [SPLADE: sparse neural search](https://github.com/naver/splade)
 - [Lyra](https://github.com/nearform/lyra) - Fast, in-memory, full-text search engine written in TypeScript.
+- [Presearch](https://www.presearch.io/) - Decentralized Search Engine. ([Search](https://presearch.com/))

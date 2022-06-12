@@ -129,3 +129,4 @@ title: Java
 - [On Java/JVM: Loom and Thread Fairness (2022)](https://www.morling.dev/blog/loom-and-thread-fairness/) ([HN](https://news.ycombinator.com/item?id=31600067))
 - [jlink.online](https://github.com/AdoptOpenJDK/jlink.online) - Build optimized Java runtimes in your browser.
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.
+- [SIMD accelerated sorting in Java – how it works and why it was 3x faster (2022)](https://jbaker.io/2022/06/09/vectors-in-java/) ([HN](https://news.ycombinator.com/item?id=31703471))

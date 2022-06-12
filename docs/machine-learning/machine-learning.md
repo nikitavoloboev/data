@@ -829,3 +829,4 @@
 - [Deploying Transformers on the Apple Neural Engine (2022)](https://machinelearning.apple.com/research/neural-engine-transformers) ([HN](https://news.ycombinator.com/item?id=31666476))
 - [A comprehensive review of Binary Neural Network (2022)](https://arxiv.org/abs/2110.06804)
 - [Self-organising Systems from Google](https://github.com/google-research/self-organising-systems)
+- [Improved Denoising Diffusion Probabilistic Models (2021)](https://arxiv.org/abs/2102.09672) ([Code](https://github.com/openai/improved-diffusion))

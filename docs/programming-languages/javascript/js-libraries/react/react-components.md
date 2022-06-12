@@ -318,6 +318,7 @@ I now am using [Solid](../../js-libraries/solid.md) for all my web apps and stat
 - [Planby](https://github.com/karolkozer/planby) - React based component that lets you implement your own Timeline so fast and simple. ([Web](https://planby.netlify.app/))
 - [lil UI components](https://lil.rishimohan.me/) ([Code](https://github.com/rishimohan/lil-ui))
 - [Formation](https://formation.fyi/) - 20+ react-based UI components. ([Code](https://github.com/joshdschneider/formation))
+- [Frogress](https://github.com/junhoyeo/frogress) - Line Progress Bar UI for React. Natural color gradients & Coherent border rounding.
 
 ## Links
 

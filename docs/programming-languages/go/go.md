@@ -794,3 +794,4 @@ if err != nil {
 - [Data Race Patterns in Go (2022)](https://eng.uber.com/data-race-patterns-in-go/) ([HN](https://news.ycombinator.com/item?id=31698503))
 - [Issues with Go (2022)](https://news.ycombinator.com/item?id=31702604)
 - [Mastering Go Concurrency](https://github.com/alextanhongpin/go-advance-concurrency)
+- [The Y Combinator in Go with generics (2022)](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/) ([HN](https://news.ycombinator.com/item?id=31713360))

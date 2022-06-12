@@ -37,7 +37,6 @@
 - [Elements](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library. ([HN](https://news.ycombinator.com/item?id=23743376))
 - [wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library.
 - [Fast UI Draw](https://github.com/intel/fastuidraw) - Library that provides a higher performance Canvas interface. It is designed so that it always draws using a GPU. ([HN](https://news.ycombinator.com/item?id=25079266))
-- [JUCE](https://github.com/juce-framework/JUCE) - Open-source cross-platform C++ application framework for desktop and mobile applications.
 
 ## Web
 

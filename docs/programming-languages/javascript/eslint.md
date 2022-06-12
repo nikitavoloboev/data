@@ -59,3 +59,4 @@ title: ESLint
 - [ESLint rules extracted from SonarJS](https://github.com/rx-ts/eslint-plugin-sonar)
 - [SonarJS rules for ESLint](https://github.com/SonarSource/eslint-plugin-sonarjs)
 - [ESLint-Plugin-Lodash](https://github.com/wix/eslint-plugin-lodash)
+- [eslint-config-clarity](https://github.com/Ovyerus/eslint-config-clarity) - Collection of ESLint configs to ensure code consistency and clarity.

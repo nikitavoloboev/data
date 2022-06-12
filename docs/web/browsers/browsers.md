@@ -227,3 +227,4 @@
 - [selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [How browsers work](https://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [How does the browser render a web page?](https://twitter.com/alexxubyte/status/1534201516063461376)
+- [Vytal](https://github.com/z0ccc/Vytal) - Browser extension that utilizes the chrome.debugger API to mock device data that could otherwise reveal information about you. ([Web](https://vytal.io/))

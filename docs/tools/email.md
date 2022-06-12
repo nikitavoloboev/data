@@ -257,3 +257,4 @@ I think cold emails/approaches are great. [Here](https://twitter.com/TrungTPhan/
 - [mail-send](https://github.com/stalwartlabs/mail-send) - E-mail delivery library for Rust with DKIM support.
 - [Send emails using Cloudflare Worker, for free](https://github.com/proselog/email-api)
 - [enmime](https://github.com/jhillyerd/enmime) - MIME mail encoding and decoding package for Go.
+- [letterparser](https://github.com/mat-sz/letterparser) - Isomorphic e-mail parser (with MIME support) written in TypeScript.

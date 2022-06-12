@@ -129,3 +129,4 @@ title: Formal verification
 - [VerifAI](https://github.com/BerkeleyLearnVerify/VerifAI) - Software toolkit for the formal design and analysis of systems that include artificial intelligence (AI) and machine learning (ML) components.
 - [Formal Methods for DeFi Developers](https://github.com/WilfredTA/formal-methods-curriculum)
 - [Yatima](https://github.com/yatima-inc/yatima-lang) - Verifiable computing language.
+- [VeriFast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C and Java programs.

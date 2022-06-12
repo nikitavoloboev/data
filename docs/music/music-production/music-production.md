@@ -379,3 +379,5 @@
 - [CLAP](https://github.com/free-audio/clap) - Stands for CLever Audio Plugin. It is an audio plugin ABI which defines a standard for Digital Audio Workstations and audio plugins (synthesizers, audio effects, ...) to work together.
 - [Music Transformer](https://github.com/gwinndr/MusicTransformer-Pytorch) - Written for MaestroV2 using the PyTorch framework for music generation.
 - [Ken Wheeler - Modern JavaScript, Beats, Rick Rolling (2022)](https://www.youtube.com/watch?v=6Ab6ka_MKJ4)
+- [JUCE](https://github.com/juce-framework/JUCE) - Open-source cross-platform C++ application framework for creating high quality desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. ([Web](https://juce.com/))
+- [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/) ([HN](https://news.ycombinator.com/item?id=31708848))

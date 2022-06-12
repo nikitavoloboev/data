@@ -116,6 +116,7 @@
 - [2D Rigid body physics engine in TS](https://github.com/Sopiro/Physics)
 - [cannon-es](https://github.com/pmndrs/cannon-es) - Lightweight 3D physics engine written in JavaScript.
 - [Starlight.jl](https://github.com/jhigginbotham64/Starlight.jl) - Game engine written in Julia. ([HN](https://news.ycombinator.com/item?id=31648175))
+- [Amalgam Engine](https://github.com/Net5F/AmalgamEngine) - Engine for easily creating virtual worlds.
 
 ## Physics engines
 

@@ -143,6 +143,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 ## Web
 
 - [Flamego](https://github.com/flamego/flamego) - Fantastic modular Go web framework with a slim core but limitless extensibility. ([Docs](https://flamego.dev/))
+- [router](https://github.com/gowww/router) - Lightning fast HTTP router.
 - [Nitric](https://github.com/nitrictech/nitric) - Framework for cloud and serverless apps.
 - [Minima](https://github.com/gominima/minima) - Simple and minimal backend framework for go made to scale.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance. ([Lightning fast and self contained: How to build a Web App with Gin and SQLite](https://www.allhandsontech.com/programming/golang/web-app-sqlite-go/)) ([Lobsters](https://lobste.rs/s/hc6w2b/lightning_fast_self_contained_how_build)) ([Boilerplate](https://github.com/Massad/gin-boilerplate)) ([Examples](https://github.com/gin-gonic/examples))
@@ -502,6 +503,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [go-ceph](https://github.com/ceph/go-ceph) - Go bindings for Ceph APIs.
 - [sqlf](https://github.com/leporo/sqlf) - Fast SQL query builder for Go.
 - [DBX](https://github.com/storj/dbx) - Tool to generate database schemas and code to operate with it. Currently generates Go bindings to Postgres and/or SQLite.
+- [qder](https://github.com/cristalhq/qder) - Query builder for Go.
 
 ## ML
 
