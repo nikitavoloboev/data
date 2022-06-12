@@ -266,3 +266,4 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Ryan Dahl's "My Dream Stack" at RemixConf 2022](https://www.youtube.com/watch?v=3NR9Spj0DmQ)
 - [fresh](https://fresh.deno.dev/) - Next-gen web framework.
 - [Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm.
+- [Luca Casonato on "Writing Typescript Libraries for Deno, Node, and the Browser" (2022)](https://www.youtube.com/watch?v=91sGi9Gkxjg)

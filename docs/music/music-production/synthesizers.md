@@ -87,3 +87,4 @@ title: Synthesizers
 - [VoiceOfFaust](https://github.com/magnetophon/VoiceOfFaust) - Turns any monophonic sound into a synthesizer, preserving the pitch and spectral dynamics of the input.
 - [Polyend](https://polyend.com/) - Enjoyable musical instruments. ([Twitter](https://twitter.com/madeinpolyend)) ([Beta Testing](https://github.com/polyend/TrackerBetaTesting))
 - [NESizer2](https://github.com/Jaffe-/NESizer2) - Synthesizer based on the 2A03 (NES APU).
+- [Plugin Boutique](https://www.pluginboutique.com/) - VST Plugins, Synth Presets, Effects, Virtual Instruments, Music.
