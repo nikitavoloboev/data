@@ -630,3 +630,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Ask HN: What are interesting new developments in databases related fields? (2022)](https://news.ycombinator.com/item?id=31633015)
 - [TiFlow](https://github.com/pingcap/tiflow) - Unified data replication platform around TiDB.
 - [Ideas on better database design](https://github.com/alextanhongpin/database-design)
+- [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems (2022)](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
