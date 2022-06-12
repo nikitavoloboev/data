@@ -779,6 +779,7 @@
   - [DuckDB](docs/databases/duckdb.md)
   - [Dgraph](docs/databases/dgraph.md)
   - [RocksDB](docs/databases/rocksdb.md)
+  - [BonsaiDb](docs/databases/bonsaidb.md)
   - [Cassandra](docs/databases/cassandra.md)
   - [MariaDB](docs/databases/mariadb.md)
   - [PlanetScale](docs/databases/planetscale.md)
