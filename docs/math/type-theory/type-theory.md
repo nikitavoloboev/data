@@ -208,3 +208,4 @@ title: Type Theory
 - [Stagedtt](https://github.com/RedPRL/stagedtt) - Staged Type Theory.
 - [System Fω with Row-Polymorphism](https://github.com/tominated/system_f_omega)
 - [Fωμ type checker and compiler](https://github.com/polytypic/f-omega-mu)
+- [Hindley–Milner Type inferencing in C](https://github.com/nmhancock/type-inferencing)

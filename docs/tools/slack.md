@@ -83,3 +83,4 @@ Like using [Slack Go API](https://github.com/slack-go/slack) for building Slack 
 - [Dispatch](https://www.dispatch.do/) - Priority Inbox for Slack that lets you focus on what's most important.
 - [Mack](https://github.com/tryfabric/mack) - Markdown to Slack Message Blocks.
 - [Rootly](https://rootly.com/) - Manage incidents directly from Slack. ([HN](https://news.ycombinator.com/item?id=31653985))
+- [slacker](https://github.com/velveteer/slacker) - Haskell library for building Slack apps in Socket Mode.

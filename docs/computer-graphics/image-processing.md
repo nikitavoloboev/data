@@ -1,6 +1,6 @@
 # Image processing
 
-[IPX](https://github.com/unjs/ipx) is nice image proxy.
+[IPX](https://github.com/unjs/ipx) is nice image proxy. [sharp](https://github.com/lovell/sharp) is nice JS lib for image processing.
 
 ## Links
 

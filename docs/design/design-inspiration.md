@@ -460,6 +460,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [Sage Abdullah](https://laymonage.com/)
 - [Royal Icing](https://icing.space/) ([GitHub](https://github.com/RoyalIcing))
 - [Tim Chang](https://www.timcchang.com/)
+- [Bartosz Zagrodzki](https://www.zagrodzki.me/) ([Code](https://github.com/Bartek532/zagrodzki.me))
 - [Cory Etzkorn](https://www.coryetzkorn.com/)
 - [Mateus Bianco](https://dlbn.co/) ([Code](https://github.com/dlbnco/dlbn.co))
 - [Simon Wicki](https://wicki.io/)

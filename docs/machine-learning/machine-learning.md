@@ -830,3 +830,4 @@
 - [A comprehensive review of Binary Neural Network (2022)](https://arxiv.org/abs/2110.06804)
 - [Self-organising Systems from Google](https://github.com/google-research/self-organising-systems)
 - [Improved Denoising Diffusion Probabilistic Models (2021)](https://arxiv.org/abs/2102.09672) ([Code](https://github.com/openai/improved-diffusion))
+- [What topics to learn to get 'cutting edge AI' (2022)](https://twitter.com/dan_abramov/status/1536095971779788802)

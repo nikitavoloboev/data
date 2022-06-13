@@ -63,7 +63,7 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [Deno - An Unfinished Beauty (2020)](https://dev.to/emnudge/deno-an-unfinished-beauty-4bhn)
 - [Deno DOM](https://github.com/b-fuze/deno-dom) - Browser DOM in Deno.
 - [dext.ts](https://github.com/lucacasonato/dext.ts) - Preact Framework for Deno. Dext.ts is heavily inspired by Next.js.
-- [Aleph.js](https://github.com/postui/aleph.js) - React Framework in Deno, inspired by Next.js. ([Web](https://alephjs.org/)) ([Web Code](https://github.com/alephjs/alephjs.org)) ([Compiler Code](https://github.com/alephjs/aleph-compiler))
+- [Aleph.js](https://github.com/postui/aleph.js) - React Framework in Deno, inspired by Next.js. ([Web](https://alephjs.org/)) ([Web Code](https://github.com/alephjs/alephjs.org)) ([Compiler Code](https://github.com/alephjs/aleph-compiler)) ([HN](https://news.ycombinator.com/item?id=31720549))
 - [Deno WASM](https://github.com/sanderhahn/deno_wasm) - Deno WASM experiments.
 - [deno_swc](https://github.com/nestdotland/deno_swc) - SWC compiler for Deno.
 - [denoify](https://github.com/garronej/denoify) - Node to Deno Transpiler. ([Example](https://github.com/garronej/my_dummy_npm_and_deno_module))
@@ -264,6 +264,6 @@ Use [Deno Cheat Sheet](https://oscarotero.com/deno/) often. [Deno - HTTP 203](ht
 - [rollup-plugin-deno](https://github.com/egoist/rollup-plugin-deno) - Create a bundle for Deno runtime.
 - [nat](https://github.com/oakserver/nat) - Server side rendering framework for Deno CLI and Deploy.
 - [Ryan Dahl's "My Dream Stack" at RemixConf 2022](https://www.youtube.com/watch?v=3NR9Spj0DmQ)
-- [fresh](https://fresh.deno.dev/) - Next-gen web framework.
+- [Fresh](https://fresh.deno.dev/) - Next-gen web framework. ([HN](https://news.ycombinator.com/item?id=31720110))
 - [Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno's first lightweight, secure distributed lock manager utilizing the Redlock algorithm.
 - [Luca Casonato on "Writing Typescript Libraries for Deno, Node, and the Browser" (2022)](https://www.youtube.com/watch?v=91sGi9Gkxjg)

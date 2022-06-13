@@ -227,3 +227,4 @@ title: SwiftUI
 - [What’s new in SwiftUI for iOS 16](https://www.hackingwithswift.com/articles/250/whats-new-in-swiftui-for-ios-16)
 - [SwiftUI Code Examples](https://github.com/NilCoalescing/SwiftUI-Code-Examples)
 - [Resizable Sheet in SwiftUI (2022)](https://nilcoalescing.com/blog/ResizableSheetInSwiftUI/)
+- [Every question and answer from WWDC 22’s SwiftUI digital lounge](https://midnight-beanie-ccb.notion.site/swiftui-lounge-wwdc22-e20094b91f074398ba395c3fa245e63d) ([Tweet](https://twitter.com/mtrostyle/status/1535835930472370176))

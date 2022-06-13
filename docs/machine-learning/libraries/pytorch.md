@@ -4,7 +4,7 @@ title: PyTorch
 
 # [PyTorch](http://pytorch.org/)
 
-[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) is neat. [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) is great intro.
+[PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) & [Lightning Hydra Template](https://github.com/ashleve/lightning-hydra-template) are neat. [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles) is great intro.
 
 ## Notes
 
@@ -241,7 +241,7 @@ title: PyTorch
 - [LieTorch: Tangent Space Backpropagation](https://github.com/princeton-vl/lietorch)
 - [FastMoE](https://fastmoe.ai/) - Fast MoE implementation for PyTorch. ([Code](https://github.com/laekov/fastmoe))
 - [NN Template](https://github.com/lucmos/nn-template) - Generic template to bootstrap your PyTorch project with PyTorch Lightning, Hydra, W&B, DVC, and Streamlit.
-- [Lightning Hydra Template](https://github.com/ashlevski/lightning-hydra-template) - PyTorch Lightning + Hydra. A very general, feature-rich template for rapid, scalable ML experimentation process and best practices.
+- [Lightning Hydra Template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very general, feature-rich template for rapid, scalable ML experimentation process and best practices.
 - [Memformer - PyTorch](https://github.com/lucidrains/memformer) - Implementation of Memformer, a Memory-augmented Transformer, in PyTorch.
 - [torchtyping](https://github.com/patrick-kidger/torchtyping) - Runtime type annotations for the shape, dtype etc. of PyTorch Tensors.
 - [torchbench](https://github.com/paperswithcode/torchbench) - Easily benchmark machine learning models in PyTorch.
@@ -410,3 +410,4 @@ title: PyTorch
 - [Optimizers](https://github.com/facebookresearch/optimizers) - PyTorch optimization algorithms.
 - [MinT](https://github.com/dpressel/mint) - Minimal Transformer Library and Tutorials.
 - [Apple Neural Engine (ANE) Transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE.
+- [Taking Datasets, DataLoaders, and PyTorch’s New DataPipes for a Spin (2022)](https://sebastianraschka.com/blog/2022/datapipes.html) ([Code](https://github.com/rasbt/datapipes-blog))
