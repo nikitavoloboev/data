@@ -12,6 +12,7 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Sometimes I feel worn out by the world. Then I remember that with just a small amount of effort and curiosity, life is so unbelievably rich, abundant, fascinating, challenging, and inspiring. The rabbit holes are infinite and impossibly deep. Find a loose thread and pull it.](https://twitter.com/jacksondahl/status/1410052629602783232)
 - [Psychedelic mushrooms increase neuroplasticity, allowing restructuring of neural connections. Essentially, you can "rewrite" your brain away from depressive thoughts.](https://www.reddit.com/r/RationalPsychonaut/comments/prz8z5/a_bit_skeptical_about_shrooms_helping_with/)
 - [Feelings come and go. Consequences last.](https://www.youtube.com/watch?v=TVgQ_tgWMyU)
+- You can process my emotions through a different lenses. It’s truly normal to grieve the loss of something or someone. While many don’t understand, I think as long as WE know what we are dealing with, that can make life a little easier.
 
 ## Links
 

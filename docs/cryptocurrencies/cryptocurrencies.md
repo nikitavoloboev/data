@@ -283,3 +283,4 @@ From my research, [FTX](https://ftx.com/referrals#a=58425911) seemed to be the c
 - [Two thought experiments to evaluate automated stablecoins (2022)](https://vitalik.eth.limo/general/2022/05/25/stable.html) ([Tweet](https://twitter.com/VitalikButerin/status/1529850412760674304)) ([HN](https://news.ycombinator.com/item?id=31521261))
 - [Algorithmic stablecoins are provably impossible without continuous funding (2022)](https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably?s=r) ([HN](https://news.ycombinator.com/item?id=31553704))
 - [Canonical Crypto](https://www.canonical.cc/) - Fund focused on investing in founders building infrastructure in web3/crypto. ([Tweet](https://twitter.com/ai/status/1532376867952631809))
+- [Celsius Appears insolvent, and it's taking the whole crypto market with it (2022)](https://twitter.com/jonwu_/status/1536476104986267648) ([HN](https://news.ycombinator.com/item?id=31734660))

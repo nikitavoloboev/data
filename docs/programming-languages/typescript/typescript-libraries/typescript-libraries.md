@@ -622,3 +622,4 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [Typehead](https://github.com/mapbox/typehead) - Thin wrapper around ESBuild that makes it refreshingly simple to develop NPM packages using TypeScript.
 - [mkdist](https://github.com/unjs/mkdist) - Lightweight file-to-file transpiler.
 - [Template: TypeScript Module](https://github.com/lukeed/typescript-module)
+- [detective-typescript](https://github.com/dependents/detective-typescript) - Get the dependencies of a TypeScript module.

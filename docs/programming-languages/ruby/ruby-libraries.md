@@ -91,3 +91,4 @@
 - [Serverless Rack](https://github.com/logandk/serverless-rack) - Serverless plugin to deploy Ruby Rack applications (Sinatra/Rails/Padrino/Cuba etc.) and bundle gems.
 - [What Would be Your Ideal Ruby Tech Stack (2022)](https://www.reddit.com/r/ruby/comments/ueptad/what_would_be_your_ideal_ruby_tech_stack/)
 - [Gel](https://github.com/gel-rb/gel) - Modern gem manager.
+- [Making popular Ruby packages more secure (2022)](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html) ([HN](https://news.ycombinator.com/item?id=31730221))

@@ -436,3 +436,4 @@ Awesome List
 - [gh-eco](https://github.com/coloradocolby/gh-eco) - gh extension to explore the ecosystem.
 - [Jasper](https://jasperapp.io/) - Flexible and powerful issue reader for GitHub. ([Code](https://github.com/jasperapp/jasper))
 - [Generate changelog for GitHub](https://github.com/antfu/changelogithub)
+- [GitHub Stats Visualization](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too.

@@ -376,3 +376,4 @@
 - [Ask HN: How to learn math from zero for adults? (2022)](https://news.ycombinator.com/item?id=31539549)
 - [Abstract math topics that made sense later (2022)](https://twitter.com/AndrewCMyers/status/1530549071093682176)
 - [Ask HN: Which mathematics books taught you the most in your career? (2022)](https://news.ycombinator.com/item?id=31637291)
+- [What is your favorite thing about math? (2022)](https://www.reddit.com/r/math/comments/vbhtzn/what_is_your_favorite_thing_about_math/)

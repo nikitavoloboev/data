@@ -80,3 +80,4 @@ title: WireGuard
 - [Tailscale raises $100M to fix the Internet (2022)](https://tailscale.com/blog/series-b/) ([HN](https://news.ycombinator.com/item?id=31259950))
 - [Compare WireGuard Mesh Tools](https://github.com/HarvsG/WireGuardMeshes)
 - [wireguard_exporter](https://github.com/kbknapp/wireguard_exporter) - Prometheus exporter for WireGuard.
+- [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers.

@@ -236,3 +236,4 @@ All active variables can be seen by running `env`.
 - [Shell scripts should be written to be clear first](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsBeClearFirst)
 - [Writing Unit-Tests and Mocks for UNIX Shells (2022)](https://poisel.info/posts/2022-05-10-shell-unit-tests/)
 - [asciinema-edit](https://github.com/cirocosta/asciinema-edit) - Auxiliary tools for dealing with ASCIINEMA casts.
+- [PaSh](https://github.com/binpash/pash) - Light-touch Data-Parallel Shell Processing.

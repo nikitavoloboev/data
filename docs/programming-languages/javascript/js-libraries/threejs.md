@@ -121,3 +121,4 @@ title: Three.js
 - [r3f-spline](https://github.com/splinetool/r3f-spline) - Hook to load Spline scenes into react-three-fiber.
 - [vfx](https://github.com/hmans/vfx) - Visual effects library for react-three-fiber.
 - [Modern ThreeJS with Vite (2022)](https://www.youtube.com/watch?v=TiWRM3J5FlI)
+- [react-three/rapier](https://github.com/pmndrs/react-three-rapier) - Rapier physics in React.

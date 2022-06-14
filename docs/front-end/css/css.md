@@ -520,3 +520,4 @@ all: unset
 - [Paper Prototype CSS (2022)](https://shkspr.mobi/blog/2022/06/paper-prototype-css/)
 - [Moonshine CSS](https://github.com/Econify/moonshine-css) - High-proof atomic CSS framework.
 - [Star Wars Scene Transition Effects in CSS (2022)](https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/)
+- [finder](https://github.com/antonmedv/finder) - CSS Selector Generator.

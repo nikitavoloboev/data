@@ -222,3 +222,4 @@
 - [OCI Artifacts](https://github.com/opencontainers/artifacts)
 - [atsi](https://github.com/queer/atsi) - Instant rootless Alpine shells.
 - [pflask](https://github.com/ghedo/pflask) - Lightweight process containers for Linux.
+- [podman-static](https://github.com/mgoltzsche/podman-static) - Static podman binaries and container images.

@@ -23,7 +23,7 @@
 - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://xcelab.net/rm/statistical-rethinking/) ([2019 Feb course](https://github.com/rmcelreath/statrethinking_winter2019))
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Michael I. Jordan statistics courses](https://people.eecs.berkeley.edu/~jordan/courses.html)
-- [Stan](https://mc-stan.org/) - State-of-the-art platform for statistical modeling and high-performance statistical computation.
+- [Stan](https://mc-stan.org/) - State-of-the-art platform for statistical modeling and high-performance statistical computation. ([Code](https://github.com/stan-dev/stan))
 - [Stan Example Models](https://github.com/stan-dev/example-models)
 - [YAPS](https://github.com/IBM/yaps) - Surface language for programming Stan models using python syntax.
 - [An Overview of Bayesian Inference (2019)](https://jaydaigle.net/blog/overview-of-bayesian-inference/)
@@ -157,3 +157,4 @@
 - [Prio: Private, Robust, and Scalable Computation of Aggregate Statistics](https://crypto.stanford.edu/prio/)
 - [Truth and Probability by Frank P. Ramsey (1926)](http://fitelson.org/probability/ramsey.pdf) ([Tweet](https://twitter.com/snezanalawrence/status/1517079146635145217))
 - [Good books on statistics (2022)](https://www.reddit.com/r/statistics/comments/u8quta/education_i_am_looking_for_good_books_on/)
+- [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package.

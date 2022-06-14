@@ -32,3 +32,4 @@
 - [Not dodgy at all and long overdue – user replaceable batteries (2022)](https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/) ([HN](https://news.ycombinator.com/item?id=30660953))
 - [Stabilization of gamma sulfur enables 4000 cycle Li-S batteries (2022)](https://www.nature.com/articles/s42004-022-00626-2.pdf) ([HN](https://news.ycombinator.com/item?id=31060183))
 - [Electric Vehicles' Battery Problem (2022)](https://www.youtube.com/watch?v=9dnN82DsQ2k)
+- [Electric vehicle battery capable of 98% charge in less than ten minutes (2022)](https://pv-magazine-usa.com/2022/06/13/electric-vehicle-battery-capable-of-98-charge-in-less-than-ten-minutes/) ([HN](https://news.ycombinator.com/item?id=31734296))

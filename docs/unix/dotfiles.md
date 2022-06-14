@@ -74,3 +74,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles).
 - [dfm](https://github.com/CGamesPlay/dfm) - Dotfile manager with 0 dependencies, minimal configuration, and automatic cleanup.
 - [A Dotfile History (2022)](https://myme.no/posts/2022-04-11-a-dotfile-history.html) ([HN](https://news.ycombinator.com/item?id=31001126))
 - [A Decade of Dotfiles (2022)](https://evanhahn.com/a-decade-of-dotfiles/) ([Lobsters](https://lobste.rs/s/v18rge/decade_dotfiles)) ([HN](https://news.ycombinator.com/item?id=31557430))
+- [Shelf](https://github.com/iamd3vil/shelf) - Good Symlinks Manager. Swap files from any location with symlinks and manage them easily in one place.

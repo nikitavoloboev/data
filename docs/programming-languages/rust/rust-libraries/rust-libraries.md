@@ -1950,6 +1950,7 @@
 - [Pasts](https://github.com/ardaku/pasts) - Minimal and simpler alternative to the futures crate.
 - [Ryū](https://github.com/dtolnay/ryu) - Fast floating point to string conversion.
 - [cache-advisor](https://github.com/komora-io/cache-advisor) - Scan-resistant concurrent lazy LRU.
+- [tracing-timing](https://github.com/jonhoo/tracing-timing) - Inter-event timing metrics on top of tracing.
 
 ## Cargo Plugins
 

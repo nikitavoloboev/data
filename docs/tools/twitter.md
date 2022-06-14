@@ -199,3 +199,4 @@ One thing I worry a bit about is how social networks can start [start collaborat
 - [Awesome Modern Twitter API](https://github.com/andypiper/awesome-modern-twitter-api)
 - [Twitter web has nice shortcuts](https://twitter.com/ossia/status/1533448928242417666)
 - [Tweak New Twitter](https://github.com/insin/tweak-new-twitter/) - Browser extension which removes algorithmic content from Twitter, hides news & trends, lets you control which shared tweets appear on your timeline.
+- [Static twitter embed](https://ianmuchina.com/blog/12-tweet-embed/) ([Lobsters](https://lobste.rs/s/owbvhi/static_twitter_embed))

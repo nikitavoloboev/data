@@ -19,7 +19,7 @@
 - [Evidently](https://github.com/evidentlyai/evidently) - Interactive reports to analyze machine learning models during validation or production monitoring. ([Web](https://evidentlyai.com/))
 - [MLCube](https://github.com/mlcommons/mlcube) - Project that reduces friction for machine learning by ensuring that models are easily portable and reproducible. ([Docs](https://mlcommons.github.io/mlcube/))
 - [Service Streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
-- [Shapash](https://github.com/MAIF/shapash) - Makes Machine Learning models transparent and understandable by everyone. ([Web](https://maif.github.io/shapash/))
+- [Shapash](https://github.com/MAIF/shapash) - Makes Machine Learning models transparent and understandable by everyone. ([Web](https://maif.github.io/shapash/)) ([HN](https://news.ycombinator.com/item?id=31710900))
 - [BudgetML: Deploy ML models on a budget](https://github.com/ebhy/budgetml) ([HN](https://news.ycombinator.com/item?id=25986346))
 - [Introducing Model Search: An Open Source Platform for Finding Optimal ML Models (2021)](https://ai.googleblog.com/2021/02/introducing-model-search-open-source.html)
 - [Model Search](https://github.com/google/model_search) - Framework that implements AutoML algorithms for model architecture search at scale.
