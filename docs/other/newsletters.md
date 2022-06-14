@@ -92,3 +92,4 @@
 - [Ask HN: What hyper-focused industry newsletters do you enjoy? (2022)](https://news.ycombinator.com/item?id=30983517)
 - [Nice newsletter services](https://twitter.com/SaraSoueidan/status/1517943394449907712)
 - [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - Self hosted newsletter app.
+- [Taco Digest](https://tacodigest.com/) - Personal email digest from your favorite sources.

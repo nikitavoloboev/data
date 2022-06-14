@@ -25,3 +25,4 @@ If I started my local server on port 3000. This command: `ngrok http 3000` will 
 - [Rslocal](https://github.com/saltbo/rslocal) - Like ngrok built in Rust, it builds a tunnel to localhost.
 - [Tunnel.pyjam.as](https://tunnel.pyjam.as/) - HTTP tunnels without custom software thanks to WireGuard. ([HN](https://news.ycombinator.com/item?id=31511445))
 - [t](https://github.com/zllovesuki/t) - Like ngrok, but ambitious.
+- [ngrok for the wicked, or expose your ports comfortably (2022)](https://solovyov.net/blog/2022/ngrok-for-the-wicked/)

@@ -113,3 +113,4 @@
 - [From recursive descent to LR parsing (2021)](https://www.abubalay.com/blog/2021/12/31/lr-control-flow)
 - [Pegen](https://github.com/we-like-parsers/pegen) - Parser generator used in CPython to produce the parser used by the interpreter. It allows to produce PEG parsers from a description of a formal Grammar.
 - [lezer/generator](https://github.com/lezer-parser/generator) - Parser generator for the lezer incremental parser.
+- [tree-sitter-viewer](https://github.com/shi-yan/tree-sitter-viewer) - Rust lib to visualize tree-sitter syntax tree.

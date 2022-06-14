@@ -286,7 +286,7 @@ List [all apps/workflows I use on GitHub](https://github.com/nikitavoloboev/my-i
 - [Indie Apps Showcases](https://antranapp.github.io/IndieApps/) - Platform to showcase your side projects. ([Code](https://github.com/antranapp/IndieApps))
 - [Demo project to build resizing image in Navigation Bar with Large Title](https://github.com/tungfam/ImageInNavigationBarDemo)
 - [Project Zero: A survey of recent iOS kernel exploits (2020)](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html) ([HN](https://news.ycombinator.com/item?id=23497183))
-- [WWDC Notes](https://wwdcnotes.com/) - TL;DW for Apple's WWDC videos. ([Code](https://github.com/zntfdr/WWDC-Notes))
+- [WWDC Notes](https://wwdcnotes.com/) - TL;DW for Apple's WWDC videos. ([Code](https://github.com/zntfdr/WWDC-Notes)) ([Twitter](https://twitter.com/WWDCNotes))
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Library to communicate with services on iOS devices using native protocols.
 - [Apple Developer Forums](https://developer.apple.com/forums/)
 - [WWDC Community: Learning and sharing together](https://github.com/twostraws/wwdc)

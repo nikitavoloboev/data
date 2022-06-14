@@ -545,6 +545,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [convert-units](https://github.com/convert-units/convert-units) - Elegant way to convert quantities between different units.
 - [timsy](https://github.com/christianalfoni/timsy) - Agnostic functional state machine with epic type support.
 - [sim-ecs](https://github.com/NSSTC/sim-ecs) - Type-based, Components-first ECS, which is optimized for simulation needs. Will run in NodeJS and the browser.
+- [h3-typebox](https://github.com/kevinmarrec/h3-typebox) - Schema validation utilities for h3, using typebox & ajv.
 
 ## Links
 

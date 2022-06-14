@@ -4,7 +4,7 @@ title: JAX
 
 # [JAX](https://github.com/google/jax)
 
-[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) is nice.
+[Differential Programming with JAX course](https://ericmjl.github.io/dl-workshop/) is nice. [Meta Optimal Transport](https://github.com/facebookresearch/meta-ot) is nice JAX repo to run/study.
 
 ## Links
 

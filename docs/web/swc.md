@@ -22,3 +22,4 @@ title: swc
 - [SWC CSS Playground](https://swc-css.netlify.app/) ([Code](https://github.com/g-plane/swc-css-playground))
 - [Rathernot](https://github.com/CPTNB/rathernot) - Web Linker. Takes all your web files and smushes them into a single executable binary.
 - [SWC-coverage-instrument](https://github.com/kwonoj/swc-coverage-instrument) - Istanbuljs compatible SWC coverage instrumentation plugin.
+- [dprint-swc-ext](https://github.com/dprint/dprint-swc-ext) - Functionality to make swc easier to work with.

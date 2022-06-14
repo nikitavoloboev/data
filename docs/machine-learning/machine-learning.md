@@ -831,3 +831,9 @@
 - [Self-organising Systems from Google](https://github.com/google-research/self-organising-systems)
 - [Improved Denoising Diffusion Probabilistic Models (2021)](https://arxiv.org/abs/2102.09672) ([Code](https://github.com/openai/improved-diffusion))
 - [What topics to learn to get 'cutting edge AI' (2022)](https://twitter.com/dan_abramov/status/1536095971779788802)
+- [Probability flow solution of the Fokker-Planck equation (2022)](https://arxiv.org/abs/2206.04642)
+- [Review of latest Score Based Generative Modeling papers](https://scorebasedgenerativemodeling.github.io/) - All diffusion papers reverse chronological.
+- [Intro resources on diffusion/score-matching models (2022)](https://twitter.com/Thom_Wolf/status/1536263780568547328)
+- [Meta Optimal Transport (2022)](https://arxiv.org/abs/2206.05262) ([Code](https://github.com/facebookresearch/meta-ot))
+- [envd](https://github.com/tensorchord/envd) - Development environment for machine learning.
+- [Awesome Open Source MLOps](https://github.com/gaocegege/awesome-open-source-mlops)

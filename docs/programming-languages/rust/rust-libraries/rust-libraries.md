@@ -1948,6 +1948,8 @@
 - [Moose](https://github.com/tf-encrypted/moose) - Framework for secure multi-party computation, written in Rust.
 - [elsa](https://github.com/Manishearth/elsa) - Append-only collections for Rust where borrows to entries can outlive insertions.
 - [Pasts](https://github.com/ardaku/pasts) - Minimal and simpler alternative to the futures crate.
+- [Ryū](https://github.com/dtolnay/ryu) - Fast floating point to string conversion.
+- [cache-advisor](https://github.com/komora-io/cache-advisor) - Scan-resistant concurrent lazy LRU.
 
 ## Cargo Plugins
 

@@ -592,3 +592,4 @@
 - [Neural Prompt Search](https://github.com/Davidzhangyuanhan/NOAH) - Searching prompt modules for parameter-efficient transfer learning.
 - [makemore](https://github.com/karpathy/makemore) - Most accessible way of tinkering with a GPT - one hackable script.
 - [DALL-E Playground](https://github.com/saharmor/dalle-playground) - Playground for DALL-E enthusiasts to tinker with the open-source version of OpenAI's DALL-E, based on DALL-E Mini.
+- [Contrastive Learning for Natural Language Processing](https://github.com/ryanzhumich/Contrastive-Learning-NLP-Papers)

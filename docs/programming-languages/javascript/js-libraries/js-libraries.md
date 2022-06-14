@@ -189,6 +189,7 @@
 - [Elliptic](https://github.com/indutny/elliptic) - Fast Elliptic Curve Cryptography in plain JS.
 - [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript.
 - [Tiny WebCrypto](https://github.com/fabiospampinato/tiny-webcrypto) - Tiny isomorphic WebCrypto object, it just gives you the native one the current platform provides.
+- [hypercore-crypto](https://github.com/mafintosh/hypercore-crypto) - Crypto primitives used in hypercore, extracted into a separate module.
 
 ## Other
 

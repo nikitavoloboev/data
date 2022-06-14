@@ -212,3 +212,4 @@ title: Spatial analysis
 - [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - Advanced geospatial data analysis platform.
 - [Tilekiln](https://github.com/pnorman/tilekiln) - PostGIS-based vector tile generator.
 - [Martin](https://github.com/maplibre/martin) - PostGIS vector tiles server suitable for large databases. Written in Rust using Actix web framework.
+- [Docker recipe for GeoServer](https://github.com/kartoza/docker-geoserver)

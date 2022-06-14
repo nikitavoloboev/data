@@ -173,3 +173,4 @@ Exploring building fast web apps with [Solid](../../programming-languages/javasc
 - [Denoflare ♥️ R2](https://denoflare.dev/r2/)
 - [HyperDurable](https://github.com/ticket-bridge/hyper-durable) - Simple and useful Durable Object abstraction.
 - [worker-prolog](https://github.com/guregu/worker-prolog) - Serverless Prolog for Cloudflare Workers.
+- [Instructions of Hands On Labs Cloudflare Connect 2022](https://github.com/cf-tme/connect_2022_labs)

@@ -241,6 +241,7 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [jammdb](https://github.com/pjtatlow/jammdb) - Embedded, single-file database that allows you to store key / value pairs as bytes.
 - [tectonicdb](https://github.com/0b01/tectonicdb) - Fast, highly compressed standalone database and streaming protocol for order book ticks.
 - [TigerGraph](https://www.tigergraph.com/) - Fast and scalable graph database for the enterprise.
+- [CeresDB](https://github.com/CeresDB/ceresdb) - High-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
 
 ## Tools
 

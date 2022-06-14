@@ -7,6 +7,7 @@ I liked [this podcast episode with Eric Schmidt](https://overcast.fm/+KhqGdr4kI)
 ## Notes
 
 - [Best part of I, Robot is how it consistently presents robots doing undesirable things not as AI “gone evil” or “run amok” but implications of their programming that humans did not anticipate, which must be understood and fixed like any other engineering problem.](https://twitter.com/lexi_lambda/status/1464269135169339393)
+- [It’s not neurons, CPUs or Chinese Room inhabitants who understand, it’s the causal structure implemented by them.](https://twitter.com/Plinz/status/1536249438154330115)
 
 ## Links
 

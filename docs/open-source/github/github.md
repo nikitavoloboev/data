@@ -435,3 +435,4 @@ Awesome List
 - [Diary of a spaCy project: Predicting GitHub Tags (2022)](https://explosion.ai/blog/diary-of-github-spacy-project)
 - [gh-eco](https://github.com/coloradocolby/gh-eco) - gh extension to explore the ecosystem.
 - [Jasper](https://jasperapp.io/) - Flexible and powerful issue reader for GitHub. ([Code](https://github.com/jasperapp/jasper))
+- [Generate changelog for GitHub](https://github.com/antfu/changelogithub)

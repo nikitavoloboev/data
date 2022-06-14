@@ -519,3 +519,4 @@ title: GitHub actions
 - [GitHub Actions job summaries (2022)](https://til.simonwillison.net/github-actions/job-summaries) ([Tweet](https://twitter.com/simonw/status/1526337395334885377))
 - [GitHub Action - Store variables between your jobs](https://github.com/UnlyEd/github-action-store-variable)
 - [A beginner’s guide to CI/CD and automation on GitHub (2022)](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
+- [GitHub Actions Playground](https://github.com/embano1/aktion)

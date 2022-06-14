@@ -194,3 +194,4 @@ I like asking people [what they are excited about](https://twitter.com/HelloShre
 - [We don't show typing status (2022)](https://www.withcardinal.com/blog/2022-06-01-why-we-dont-show-typing) ([HN](https://news.ycombinator.com/item?id=31587139))
 - [Ask HN: Where do you go for discourse? (2022)](https://news.ycombinator.com/item?id=31582270)
 - [Советы по знакомству тред](https://twitter.com/M0rtyMerr/status/1533816456827260928)
+- [RetroTool](https://retrotool.io/) - Online, remote retrospectives made easy.

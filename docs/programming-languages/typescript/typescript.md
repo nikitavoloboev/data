@@ -21,6 +21,7 @@ title: TypeScript
 - [Properly name your generics. Generics are basically functions you give to developers to create parameterized types.](https://twitter.com/kentcdodds/status/1441504538993696770)
 - [`noUncheckedIndexAccess` config option is useful](https://www.youtube.com/watch?v=JwZaP3pY7Zo)
 - [`StrictNullChecks` config option is useful](https://twitter.com/tannerlinsley/status/1516598837791449091)
+- [Most TS devs want to get better at: 1. Quickly debugging/understanding complex TS errors. 2. Relying more on inference than declaration. 3. Removing any's from their codebase with smarter types.](https://twitter.com/mattpocockuk/status/1536252807191339009)
 
 ## Links
 

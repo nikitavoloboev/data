@@ -517,6 +517,7 @@ Tools I use & like are mentioned in [my workflow](../sharing/my-workflow.md). [T
 - [Baseline](https://baseline.dev/) - Easily audit who has access to SaaS services you are using in your organization.
 - [Formito](https://formito.com/) - Create Forms that Feel Like an App.
 - [Indent](https://indent.com/) - Access requests made easy.
+- [Kaomoji | Copy & Paste](https://emojicombos.com/kaomoji)
 - [FullStory](https://www.fullstory.com/) - Intuitive digital experience analytics.
 - [Air](https://air.inc/) - Bring your team and content together in a space designed for visual work.
 - [Repren](https://github.com/jlevy/repren) - Simple but flexible command-line tool for rewriting file contents according to a set of regular expression patterns.

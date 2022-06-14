@@ -128,3 +128,4 @@ title: Lua
 - [lua-graph](https://github.com/chen0040/lua-graph) - Graph algorithms in Lua.
 - [Clue](https://github.com/ClueLang/Clue) - C/Rust like programming language that compiles into Lua code.
 - [Standalone tree sitter bindings for the Lua language](https://github.com/euclidianAce/ltreesitter)
+- [Gooa](https://github.com/gooac/gooac) - Lua Preprocessor written in Go.

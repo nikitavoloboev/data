@@ -203,3 +203,4 @@ title: Jupyter Notebooks
 - [Gather for the Jupyter extension](https://github.com/microsoft/vscode-gather) - Adds the experimental Gather feature to the Jupyter extension on Python code.
 - [Jupyter Renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab.
 - [execnb](https://github.com/fastai/execnb) - Execute a jupyter notebook, fast, without needing jupyter.
+- [ipywidgets-jsonschema](https://github.com/ssciwr/ipywidgets-jsonschema) - Widget generator for your Jupyter notebooks.

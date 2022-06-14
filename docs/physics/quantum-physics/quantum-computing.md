@@ -165,3 +165,4 @@ title: Quantum computing
 - [High-performance simulator for executing QIR on GPU and CPU backends](https://github.com/qir-alliance/nwqsim)
 - [Unitary Fund](https://unitaryhack.dev/) - Helping create a quantum technology ecosystem that benefits the most people. ([Twitter](https://twitter.com/unitaryfund))
 - [Awesome Qiskit presentations](https://github.com/qiskit-community/qiskit-presentations)
+- [Qiskit Machine Learning](https://github.com/Qiskit/qiskit-machine-learning) - Quantum Machine Learning.
