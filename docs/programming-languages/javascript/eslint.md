@@ -60,3 +60,4 @@ title: ESLint
 - [SonarJS rules for ESLint](https://github.com/SonarSource/eslint-plugin-sonarjs)
 - [ESLint-Plugin-Lodash](https://github.com/wix/eslint-plugin-lodash)
 - [eslint-config-clarity](https://github.com/Ovyerus/eslint-config-clarity) - Collection of ESLint configs to ensure code consistency and clarity.
+- [eslint-plugin-local-rules](https://github.com/cletusw/eslint-plugin-local-rules) - Plugin for ESLint that allows you to use project-specific rules.

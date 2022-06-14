@@ -301,3 +301,4 @@ I use [1Password](../macOS/apps/1password.md) password manager for saving all my
 - [Software Supply-Chain Security Reading List](https://github.com/chainguard-dev/ssc-reading-list)
 - [Publications from Trail of Bits](https://github.com/trailofbits/publications)
 - [Awesome Secure Computation](https://github.com/Jamie-Cui/awesome-secure-computation) - Paper summary for cryptography-based secure computation papers.
+- [Project Zero](https://googleprojectzero.blogspot.com/) - Team of security researchers at Google who study zero-day vulnerabilities in the hardware and software systems. ([Docs and Tools](https://github.com/googleprojectzero/p0tools))

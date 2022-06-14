@@ -206,3 +206,4 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [Custom distributed data warehouse using compressed SQLite DB files in S3 that were queried using Lambda functions orchestrated by PostgreSQL running a custom foreign data wrapper](https://news.ycombinator.com/item?id=31487706) ([Tweet](https://twitter.com/simonw/status/1529134311806410752))
 - [bakelite](https://github.com/alicebob/bakelite) - Pure Go SQLite file exporter.
 - [SQLite 3 Fiddle](https://sqlite.org/fiddle/) ([HN](https://news.ycombinator.com/item?id=31518618))
+- [Generating a GraphQL API from schema using SQLite](https://github.com/WilhelmBerggren/graphql-service-from-schema)

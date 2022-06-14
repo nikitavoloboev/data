@@ -517,3 +517,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [pg_plugins](https://github.com/michaelpq/pg_plugins) - Gathering of template plugins for PostgreSQL: background workers, logical replication things, etc.
 - [PostgreSQL Fuzzy Text Search: Not so fuzzy to fuzziest (2022)](https://blog.brendanscullion.com/postgresql-text-search)
 - [PG to DBML](https://github.com/polarislabs/pg-to-dbml) - CLI tool to scan your postgres database, and output DBML.
+- [PostgreSQL hooks documentation](https://github.com/taminomara/psql-hooks)

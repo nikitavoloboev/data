@@ -209,3 +209,4 @@ title: Generative adversarial networks
 - [StyleGAN-Human: A Data-Centric Odyssey of Human Generation](https://github.com/stylegan-human/StyleGAN-Human)
 - [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (2022)](https://openreview.net/forum?id=Czsdv-S4-w9) ([Code](https://github.com/sihyun-yu/digan))
 - [In&Out : Diverse Image Outpainting via GAN Inversion (2021)](https://arxiv.org/abs/2104.00675) ([Code](https://github.com/yccyenchicheng/InOut))
+- [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 (2022)](https://universome.github.io/stylegan-v) ([Code](https://github.com/universome/stylegan-v))

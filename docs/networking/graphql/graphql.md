@@ -338,3 +338,4 @@ Currently using [GraphJin](https://github.com/dosco/graphjin) for setting up Gra
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal. ([HN](https://news.ycombinator.com/item?id=31618487))
 - [graphql-request-profiler](https://github.com/Econify/graphql-request-profiler) - Easy to use GraphQL performance analysis utility for tracing resolver execution time.
 - [SpecNews](https://specnewspod.com/) - Podcast delivering the latest highlights from the GraphQL Working Group. ([Twitter](https://twitter.com/SpecNewsPod))
+- [GraphQL Composite Schemas Working Group](https://github.com/graphql/composite-schemas-wg)

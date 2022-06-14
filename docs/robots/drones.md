@@ -18,3 +18,4 @@
 - [DodgeDrone: Vision-based Agile Drone Flight (ICRA 2022 Competition)](https://github.com/uzh-rpg/agile_flight)
 - [DroneSploit](https://github.com/dhondta/dronesploit) - Drone pentesting framework console.
 - [Pixy](https://pixy.com/) - Snap's Mini Drone Camera.
+- [Quadcopter](https://github.com/arnaudhe/quadcopter) - DIY quadcopter based on ESP32-WROOM.

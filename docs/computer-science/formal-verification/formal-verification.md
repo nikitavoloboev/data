@@ -4,6 +4,8 @@ title: Formal verification
 
 # [Formal verification](https://en.wikipedia.org/wiki/Formal_verification)
 
+[Program = Proof](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) is a nice book.
+
 ## Notes
 
 - [I like to start with a full english description, and then write things as FOL predicates. The act of translating it into math, even "sloppy" math, is a great first past for seeing issues more clearly. If it passes that, then I move on to FM.](https://twitter.com/hillelogram/status/1476378372724998150)
@@ -62,7 +64,7 @@ title: Formal verification
 - [Formal Methods Research Group - University of Glasgow](http://www.dcs.gla.ac.uk/research/formalmethods/)
 - [Formal Methods: An Appetizer (2019)](https://www.springer.com/gp/book/9783030051556)
 - [Software Verification and Analysis Using Z3 (2021)](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/)
-- [Program = Proof](http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Gives a first introduction to the Curry-Howard correspondence between programs and proofs. ([Lobsters](https://lobste.rs/s/d4ixfd/program_proof))
+- [Program = Proof](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Gives a first introduction to the Curry-Howard correspondence between programs and proofs. ([Lobsters](https://lobste.rs/s/d4ixfd/program_proof))
 - [Concrete Semantics](http://concrete-semantics.org/) - Introduces semantics of programming languages through the medium of a proof assistant.
 - [Curry-Howard is a scam (2021)](https://blag.cedeela.fr/curry-howard-scam/) ([Lobsters](https://lobste.rs/s/kp72m4/curry_howard_is_scam))
 - [Computing with metavalues (2021)](https://fredrikj.net/blog/2021/02/computing-with-metavalues/)

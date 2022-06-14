@@ -371,3 +371,5 @@ Prefer [Google Meet](https://meet.google.com/) for video calls.
 - [Shotcut](https://www.shotcut.org/) - Free, open source, cross-platform video editor. ([Code](https://github.com/mltframework/shotcut))
 - [Videostream](https://github.com/jhiesey/videostream) - Play HTML5 video when from a file-like object.
 - [Make Compelling Videos That Go Viral - Marques Brownlee (2022)](https://www.masterclass.com/sessions/classes/make-compelling-videos-that-go-viral?promo_id=mkbhd)
+- [Filmot](https://filmot.com/) - Subtitle and Video Metadata Search Engine.
+- [GPU-accelerated video decoding (2022)](https://scalibq.wordpress.com/2022/06/11/gpu-accelerated-video-decoding/) ([HN](https://news.ycombinator.com/item?id=31704740))

@@ -187,3 +187,4 @@
 - [Millfork](https://github.com/KarolS/millfork) - Middle-level programming language for 8-bit microprocessors. ([Docs](https://karols.github.io/millfork/))
 - [Black Magic Probe](https://github.com/blackmagic-debug/blackmagic) - In application debugger for ARM Cortex microcontrollers.
 - [resym](https://github.com/ergrelet/resym) - Cross-platform tool that allows browsing and extracting C and C++ type declarations from PDB files.
+- [Umka](https://github.com/vtereshkov/umka-lang) - Statically typed embeddable scripting language. ([HN](https://news.ycombinator.com/item?id=31718181))

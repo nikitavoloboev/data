@@ -381,3 +381,4 @@
 - [Ken Wheeler - Modern JavaScript, Beats, Rick Rolling (2022)](https://www.youtube.com/watch?v=6Ab6ka_MKJ4)
 - [JUCE](https://github.com/juce-framework/JUCE) - Open-source cross-platform C++ application framework for creating high quality desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. ([Web](https://juce.com/))
 - [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/) ([HN](https://news.ycombinator.com/item?id=31708848))
+- [Awesome Multimodality](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality) - Survey on multimodal learning research.

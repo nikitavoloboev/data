@@ -817,3 +817,5 @@ title: Rust
 - [How to Rust articles](https://github.com/nikomatsakis/how-to-rust)
 - [Rust without the async (hard) part (2022)](https://lunatic.solutions/blog/rust-without-the-async-hard-part/) ([Lobsters](https://lobste.rs/s/bso3rq/rust_without_async_hard_part))
 - [Learn Rust Reddit](https://www.reddit.com/r/learnrust/)
+- [Rust Async Cancellation: A Case Study (2022)](https://smallcultfollowing.com/babysteps/blog/2022/06/13/async-cancellation-a-case-study-of-pub-sub-in-mini-redis/)
+- [Flavors of enums with Rust bindgen (2022)](https://www.mdaverde.com/posts/rust-bindgen-enum/) ([HN](https://news.ycombinator.com/item?id=31726608))

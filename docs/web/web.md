@@ -428,3 +428,6 @@
 - [gtab](https://github.com/epfl-dlab/GoogleTrendsAnchorBank) - Google Trends, made easy.
 - [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 - [Ask HN: What's the coolest website you know? (2022)](https://news.ycombinator.com/item?id=31708366)
+- [First-party cookie recipes (2022)](https://web.dev/first-party-cookie-recipes/)
+- [Specifying Spring '83 (2022)](https://www.robinsloan.com/lab/specifying-spring-83/)
+- [The End of Localhost (2022)](https://dx.tips/the-end-of-localhost) ([HN](https://news.ycombinator.com/item?id=31669762))

@@ -66,3 +66,4 @@ I try to not sit for prolonged times (by using a standing desk or taking breaks)
 - [FitTrackee](https://github.com/SamR1/FitTrackee) - Simple self-hosted workout/activity tracker.
 - [How to Walk (12 miles a day)](https://walkingtheworld.substack.com/p/how-to-walk-12-miles-a-day?s=r) ([HN](https://news.ycombinator.com/item?id=31250001))
 - [How do I go from skinny fat to a lean build?](https://www.reddit.com/r/leangains/comments/uwqhu1/how_do_i_go_from_skinny_fat_to_a_lean_build/)
+- [How to Do a Handstand: Get Your First Handstand in 30 Days (2022)](https://www.nerdfitness.com/blog/a-beginners-guide-to-handstands/)

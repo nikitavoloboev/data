@@ -411,3 +411,5 @@ title: PyTorch
 - [MinT](https://github.com/dpressel/mint) - Minimal Transformer Library and Tutorials.
 - [Apple Neural Engine (ANE) Transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE.
 - [Taking Datasets, DataLoaders, and PyTorch’s New DataPipes for a Spin (2022)](https://sebastianraschka.com/blog/2022/datapipes.html) ([Code](https://github.com/rasbt/datapipes-blog))
+- [Lightning EcoSystem CI](https://github.com/PyTorchLightning/ecosystem-ci) - Automated Testing for Lightning EcoSystem Projects.
+- [Run PyTorch models in the browser using ONNX.js](https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js)

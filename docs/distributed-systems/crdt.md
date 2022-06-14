@@ -88,3 +88,4 @@ title: Conflict-free replicated data type
 - [Designing Data Structures for Collaborative Apps (2022)](https://mattweidner.com/2022/02/10/collaborative-data-design.html)
 - [Programming Local-first Software (2022)](https://2022.ecoop.org/home/plf-2022)
 - [checked-automerge](https://github.com/jeffa5/checked-automerge) - Attempt at model checking Automerge.
+- [Vaxine](https://github.com/vaxine-io/vaxine) - Rich-CRDT database platform for backend applications. ([Web](https://vaxine.io/))

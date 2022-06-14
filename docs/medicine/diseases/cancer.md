@@ -36,3 +36,4 @@
 - [I am the healthiest person I know, and I got cancer](https://seema.page/) ([HN](https://news.ycombinator.com/item?id=30597187))
 - [Potential New Treatment Eradicates Ovarian And Colorectal Cancer in Days in Mice (2022)](https://www.sciencealert.com/new-drug-factory-beads-can-wipe-out-some-cancers-in-mice) ([Reddit](https://www.reddit.com/r/Futurology/comments/t9pbyr/potential_new_treatment_eradicates_ovarian_and/))
 - [Could Cancer Cells’ Iron Addiction Be Their Achilles Heel? (2022)](https://www.technologynetworks.com/cancer-research/news/could-cancer-cells-iron-addiction-be-their-achilles-heel-359413) ([HN](https://news.ycombinator.com/item?id=30620623))
+- [A turning point in cancer (2022)](https://erictopol.substack.com/p/a-turning-point-in-cancer)

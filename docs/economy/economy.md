@@ -158,3 +158,5 @@
 - [Inflation or Recession (2022)](https://www.lynalden.com/may-2022-newsletter/)
 - [List of unsolved problems in economics - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics) ([HN](https://news.ycombinator.com/item?id=31409044))
 - [Will U.S. debt cause a global collapse? (2022)](https://noahpinion.substack.com/p/will-us-debt-cause-a-global-collapse?s=r)
+- [Inflation, part 1: On shelter futures (2022)](https://jbconsulting.substack.com/p/on-shelter-futures-part-1) ([HN](https://news.ycombinator.com/item?id=31700182))
+- [The Fed has made a historic mistake on inflation (2022)](https://www.economist.com/leaders/2022/04/23/why-the-federal-reserve-has-made-a-historic-mistake-on-inflation) ([HN](https://news.ycombinator.com/item?id=31728560))

@@ -38,3 +38,4 @@ title: NumPy
 - [Arkouda](https://github.com/Bears-R-Us/arkouda) - NumPy-like arrays at massive scale backed by Chapel.
 - [Bottleneck](https://github.com/pydata/bottleneck) - Fast NumPy array functions written in C.
 - [Numpy beginner tutorial](https://github.com/rougier/numpy-tutorial)
+- [NumPy Financial](https://github.com/numpy/numpy-financial) - Standalone package of the NumPy financial functions.

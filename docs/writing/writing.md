@@ -285,3 +285,4 @@ I personally have been focusing on growing this wiki for way too long, I want to
 - [Goodwrite](https://goodwrite.app/) - Writing app that uses deep learning AI to make your writing smarter, safer and fairer.
 - [Tools for a Culture of Writing (2021)](https://matt.blwt.io/post/tools-for-a-culture-of-writing/) ([HN](https://news.ycombinator.com/item?id=31163877))
 - [Ask HN: Examples of good technical writing? (2022)](https://news.ycombinator.com/item?id=31630915)
+- [Writing better by answering why, what, how](https://eugeneyan.com/writing/writing-docs-why-what-how/) ([HN](https://news.ycombinator.com/item?id=31711071))

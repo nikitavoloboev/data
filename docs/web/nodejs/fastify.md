@@ -63,3 +63,4 @@ title: Fastify
 - [Fastify Redis](https://github.com/fastify/fastify-redis) - Plugin to share a common Redis connection across Fastify.
 - [Effect TS Fastify](https://github.com/tcmlabs/effect-ts-fastify)
 - [fastify/hotwire](https://github.com/fastify/fastify-hotwire) - Use the Hotwire pattern with Fastify.
+- [fastify/fast-json-stringify-compiler](https://github.com/fastify/fast-json-stringify-compiler) - Build and manage the fast-json-stringify instances for the fastify framework.

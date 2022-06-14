@@ -521,3 +521,4 @@ all: unset
 - [Moonshine CSS](https://github.com/Econify/moonshine-css) - High-proof atomic CSS framework.
 - [Star Wars Scene Transition Effects in CSS (2022)](https://codersblock.com/blog/star-wars-scene-transition-effects-in-css/)
 - [finder](https://github.com/antonmedv/finder) - CSS Selector Generator.
+- [CSS box-sizing (2022)](https://garden.bradwoods.io/notes/css-box-sizing)

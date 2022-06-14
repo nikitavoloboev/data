@@ -220,6 +220,7 @@
 ## Computer Vision
 
 - [Flux3D.jl](https://github.com/nirmal-suthar/Flux3D.jl) - 3D computer vision library in Julia.
+- [Rayuela.jl](https://github.com/una-dinosauria/Rayuela.jl) - Implements non-orthogonal multi-codebook quantization methods (MCQ).
 
 ## Physics
 
@@ -627,6 +628,8 @@
 - [Gnuplot.jl](https://github.com/gcalderone/Gnuplot.jl) - Julia interface to gnuplot.
 - [Strs](https://github.com/JuliaString/Strs.jl) - String support package for Julia.
 - [TOML.jl](https://github.com/JuliaLang/TOML.jl) - Fast TOML parser for TOML 1.0 written in Julia.
+- [DecisionTree.jl](https://github.com/JuliaAI/DecisionTree.jl) - Julia implementation of Decision Tree (CART) and Random Forest algorithms.
+- [QuantizedArrays](https://github.com/zgornel/QuantizedArrays.jl) - Array quantization and compression.
 
 ## Links
 

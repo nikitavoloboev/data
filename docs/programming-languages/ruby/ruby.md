@@ -131,3 +131,4 @@
 - [Embedding Truffle Languages (2022)](https://nirvdrum.com/2022/05/09/truffle-language-embedding.html)
 - [Making the Ruby interpreter run a program written in a natural language (2022)](https://dmitrytsepelev.dev/natural-language-programming-with-ruby)
 - [Learning Ruby: a resource list](https://github.com/fpsvogel/learn-ruby-and-cs)
+- [Rlang](https://github.com/ljulliar/rlang) - Ruby-like language compiled to WebAssembly.

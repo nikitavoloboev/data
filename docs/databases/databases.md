@@ -633,3 +633,4 @@ I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (b
 - [Ideas on better database design](https://github.com/alextanhongpin/database-design)
 - [Data-Parallel Actors: A Programming Model for Scalable Query Serving Systems (2022)](https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html)
 - [Cache made consistent: Meta’s cache invalidation solution](https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/) ([HN](https://news.ycombinator.com/item?id=31671252))
+- [JOIN: The Ultimate Projection (2022)](https://justinjaffray.com/join-the-ultimate-projection/) ([Lobsters](https://lobste.rs/s/upp2o1/join_ultimate_projection))

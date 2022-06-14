@@ -952,6 +952,7 @@
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [wild-wild-utils](https://github.com/ehmicky/wild-wild-utils) - Functional utilities using object property paths with wildcards and regexps.
 - [pattern-match-2d.js](https://github.com/kaya3/pattern-match-2d) - Algorithm for fast 2D pattern-matching with wildcards.
+- [reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
 
 ## Links
 

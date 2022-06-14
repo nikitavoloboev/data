@@ -204,3 +204,4 @@ title: Jupyter Notebooks
 - [Jupyter Renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab.
 - [execnb](https://github.com/fastai/execnb) - Execute a jupyter notebook, fast, without needing jupyter.
 - [ipywidgets-jsonschema](https://github.com/ssciwr/ipywidgets-jsonschema) - Widget generator for your Jupyter notebooks.
+- [How to create a dashboard in Python with Jupyter Notebook (2022)](https://mljar.com/blog/dashboard-python-jupyter-notebook/) ([HN](https://news.ycombinator.com/item?id=31736164))

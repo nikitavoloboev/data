@@ -56,3 +56,4 @@ title: Data-Driven Documents
 - [d3-array](https://github.com/d3/d3-array) - Array manipulation, ordering, searching, summarizing, etc.
 - [Data Visualization with D3 and Svelte (2021)](https://www.youtube.com/watch?v=3n0vU9YtDsg)
 - [Navio](https://github.com/john-guerra/navio) - D3 visualization widget to help summarizing, exploring and navigating large network visualizations.
+- [d3-hierarchy](https://github.com/d3/d3-hierarchy) - 2D layout algorithms for visualizing hierarchical data.

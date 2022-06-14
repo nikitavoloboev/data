@@ -22,3 +22,4 @@
 - [Darwin Neuroevolution Framework](https://github.com/tlemo/darwin) - Intended to make Neuroevolution experiments easy, quick and fun.
 - [Secrets of Early Animal Evolution Revealed by Chromosome ‘Tectonics’ (2022)](https://www.quantamagazine.org/secrets-of-early-animal-evolution-revealed-by-chromosome-tectonics-20220202/)
 - [EvoJAX: Hardware-Accelerated Neuroevolution (2022)](https://arxiv.org/abs/2202.05008) ([Code](https://github.com/google/evojax))
+- [How organisms evolve without the information being known?](https://www.reddit.com/r/biology/comments/vbrvsw/just_learned_about_evolution/)

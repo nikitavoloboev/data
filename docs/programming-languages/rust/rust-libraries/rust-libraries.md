@@ -1951,6 +1951,8 @@
 - [Ryū](https://github.com/dtolnay/ryu) - Fast floating point to string conversion.
 - [cache-advisor](https://github.com/komora-io/cache-advisor) - Scan-resistant concurrent lazy LRU.
 - [tracing-timing](https://github.com/jonhoo/tracing-timing) - Inter-event timing metrics on top of tracing.
+- [runtime_injector](https://github.com/TehPers/runtime_injector) - Runtime dependency injection in Rust.
+- [sha1dir](https://github.com/dtolnay/sha1dir) - Checksum of a directory tree.
 
 ## Cargo Plugins
 

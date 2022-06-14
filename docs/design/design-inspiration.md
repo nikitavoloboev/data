@@ -165,6 +165,7 @@ Below are sites/apps whose design I liked. [Linear is pretty great](https://line
 - [IStories](https://istories.media/en/)
 - [Google I/O 2022](https://io.google/2022/)
 - [Numinus](https://numinus.ca/)
+- [Zed](https://zed.dev/)
 - [Scout](https://onscout.com/) ([Tweet](https://twitter.com/zackhargett/status/1387479783085326341))
 - [Calibre](https://calibreapp.com/)
 - [KONG Land](https://kong.land/)

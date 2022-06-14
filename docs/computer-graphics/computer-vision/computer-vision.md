@@ -789,3 +789,5 @@
 - [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video (2022)](https://arxiv.org/abs/2201.04127) ([Code](https://github.com/chungyiweng/humannerf))
 - [Awesome Implicit NeRF Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 - [EfficientFormer: Vision Transformers at MobileNet Speed (2022)](https://arxiv.org/abs/2206.01191) ([Code](https://github.com/snap-research/EfficientFormer))
+- [ARF: Artistic Radiance Fields (2022)](https://www.cs.cornell.edu/projects/arf/) ([Code](https://github.com/Kai-46/ARF-svox2))
+- [Patch2Pix: Epipolar-Guided Pixel-Level Correspondences (2020)](https://arxiv.org/abs/2012.01909) ([Code](https://github.com/GrumpyZhou/patch2pix))

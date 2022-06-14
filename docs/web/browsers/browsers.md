@@ -2,6 +2,8 @@
 
 [Web Browser Engineering](https://browser.engineering/) & [Inside look at modern web browser](https://twitter.com/addyosmani/status/1492398000500404227) are great resources. [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s) is a great watch too.
 
+[Microlink](https://microlink.io/) is nice tool.
+
 ## Notes
 
 - `document.querySelector("video").playbackRate = 1.4` will [increase video playback](https://mjtsai.com/blog/2018/06/25/speeding-up-wwdc-videos/).
@@ -148,7 +150,8 @@
 - [Vieb](https://vieb.dev/) - Vim Inspired Electron Browser - Vim bindings for the web by design. ([Code](https://github.com/Jelmerro/Vieb))
 - [Bonsai](https://bonsaibrowser.com/) - Web Browser for Research. ([HN](https://news.ycombinator.com/item?id=28446147))
 - [Dot Browser](https://github.com/dothq/browser) - Privacy-conscious web browser. ([HN](https://news.ycombinator.com/item?id=28584630))
-- [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation built for businesses and developers. Browser as API. ([GitHub](https://github.com/microlinkhq))
+- [Microlink](https://microlink.io/) - Fast, scalable, and reliable browser automation built for businesses and developers. Browser as API. ([GitHub](https://github.com/microlinkhq)) ([API](https://microlink.io/docs/api/getting-started/overview))
+- [Microlink Query Language (MQL)](https://github.com/microlinkhq/mql) - Official HTTP client for interacting with Microlink API. ([Docs](https://microlink.io/docs/mql/getting-started/overview))
 - [BrowserParrot](https://www.browserparrot.com/) - Save and search the full text of your browser history. ([HN](https://news.ycombinator.com/item?id=28689734))
 - [Stack](https://stackbrowser.com/) - New way of interacting with the internet. ([Twitter](https://twitter.com/Stack_HQ))
 - [JShelter](https://jshelter.org/) - Anti-malware Web browser extension to mitigate potential threats from JavaScript.

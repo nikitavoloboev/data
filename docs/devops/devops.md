@@ -188,3 +188,4 @@ I think [Railway](https://railway.app/) is amazing example of doing Devops right
 - [atmos](https://github.com/cloudposse/atmos) - Universal Tool for DevOps and Cloud Automation (works with terraform, helm, helmfile, etc). ([Guide](https://atmos.tools/))
 - [Delivery CLI](https://github.com/chef-boneyard/delivery-cli) - Command line tool for the workflow capabilities in Chef Automate.
 - [Spin Cycle](https://github.com/square/spincycle) - Automate and expose complex infrastructure tasks to teams and services.
+- [A review of Accelerate: The Science of Lean Software and DevOps (2022)](https://keunwoo.com/notes/accelerate-devops/)

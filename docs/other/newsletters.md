@@ -23,6 +23,7 @@
 - [Oversharing | Ali Griswold](https://oversharing.substack.com/)
 - [SwiftLee](https://www.avanderlee.com/)
 - [SwiftlyRush Weekly](https://swiftlyrush.curated.co/)
+- [DX Tips](https://dx.tips/) - DevTools Magazine.
 
 ## Notes
 

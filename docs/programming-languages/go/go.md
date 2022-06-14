@@ -797,3 +797,5 @@ if err != nil {
 - [The Y Combinator in Go with generics (2022)](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/) ([HN](https://news.ycombinator.com/item?id=31713360))
 - [Largest Go codebases to study (2022)](https://news.ycombinator.com/item?id=31736266)
 - [Ten Reasons Why I Don't Like Go (2016)](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html) ([HN](https://news.ycombinator.com/item?id=31734110))
+- [Making Quamina Faster (2022)](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
+- [Go Template Preview](https://gotemplate.io/) - Quick test and visualize your Go templates live. ([HN](https://news.ycombinator.com/item?id=31713654))

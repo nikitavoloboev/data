@@ -1,6 +1,6 @@
 # Speech synthesis
 
-[TorToiSe](https://github.com/neonbjb/tortoise-tts) is nice.
+[TorToiSe](https://github.com/neonbjb/tortoise-tts) & [15.ai](https://15.ai/) are nice.
 
 ## Links
 
@@ -74,3 +74,4 @@
 - [TikTok TTS](https://weilbyte.github.io/tiktok-tts/) - Generate the funny TiKTok lady voice (& more) in your browser. ([Code](https://github.com/Weilbyte/tiktok-tts))
 - [TikTok Text-to-speech API](https://github.com/oscie57/tiktok-voice) - Simple Python script to interact with the TikTok TTS API.
 - [Unreal Speech](https://unrealspeech.com/) - Text-to-Speech API. Better & 8x Cheaper than AWS.
+- [15.ai](https://15.ai/) - Natural TTS with minimal viable data. ([HN](https://news.ycombinator.com/item?id=31711118))

@@ -118,7 +118,7 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [How to set up your blog with Haskell, Slick and Netlify (2020)](https://luctielen.com/posts/how_to_setup_blog_with_haskell_slick_and_netlify/)
 - [Commento++](https://github.com/souramoo/commentoplusplus) - Free, open source, fast & lightweight comments box that you can embed in your static website instead of Disqus.
 - [Using Netlify API Authentication for Static Site Builds (2021)](https://den.dev/blog/api-authentication-netlify-builds/)
-- [hyperlink](https://github.com/untitaker/hyperlink) - Command-line tool to find broken links in your static site / markdown.
+- [hyperlink](https://github.com/untitaker/hyperlink) - Command-line tool to find broken links in your static site / markdown. ([Architecture](https://github.com/untitaker/hyperlink/blob/main/docs/architecture.md))
 - [Static Site Generators](https://staticsitegenerators.net/) - Definitive listing of Static Site Generators. ([Code](https://github.com/bevry/staticsitegenerators-list))
 - [There is no such thing as a static website (2022)](https://blog.wesleyac.com/posts/no-static-websites) ([Lobsters](https://lobste.rs/s/itcl7j/there_is_no_such_thing_as_static_website))
 - [Self-Host Your Static Assets (2019)](https://csswizardry.com/2019/05/self-host-your-static-assets/)
@@ -127,3 +127,4 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Bookshop](https://github.com/CloudCannon/bookshop) - Component development workflow for static websites.
 - [A tiny Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website) ([HN](https://news.ycombinator.com/item?id=31003395))
 - [Building a static site with Rust guide (2022)](https://sabrinajewson.org/blog/building-this-site)
+- [Smaller Static Sites with New Formats (2022)](https://hypirion.com/musings/smaller-static-sites-with-new-formats) ([Lobsters](https://lobste.rs/s/ufd2p4/smaller_static_sites_with_new_formats))

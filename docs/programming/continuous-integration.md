@@ -96,3 +96,4 @@
 - [Ratchet](https://github.com/sethvargo/ratchet) - Tool for improving the security of CI/CD workflows by automating the process of pinning and unpinning upstream versions.
 - [CI Free Tier Showdown (2022)](https://earthly.dev/blog/ci-comparison/)
 - [goldboot](https://github.com/goldboot/goldboot) - Provisioning bare-metal with CI.
+- [Scribe](https://github.com/grafana/scribe) - Framework to write flexible CI pipelines in Go that have consistent behavior when ran locally or in a CI server.

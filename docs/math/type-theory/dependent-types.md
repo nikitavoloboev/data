@@ -4,7 +4,7 @@ title: Dependent types
 
 # [Dependent types](https://wiki.haskell.org/Dependent_type)
 
-[Magmide](https://github.com/magmide/magmide) looks nice.
+[Magmide](https://github.com/magmide/magmide) & [TeenyTT](https://github.com/TOTBWF/teenytt) look interesting.
 
 ## Links
 

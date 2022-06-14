@@ -155,9 +155,10 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Anirudh Oppiliappan](https://icyphox.sh/blog/)
 - [Nate Finch](https://npf.io/)
 - [Abhinav Gupta](https://abhinavg.net/)
-- [Justin Jaffray](http://justinjaffray.com/posts/)
+- [Justin Jaffray](https://justinjaffray.com/posts/)
 - [Paul Masurel](https://fulmicoton.com/)
 - [Nil Coalescing](https://nilcoalescing.com/index.html)
+- [Niko Matsakis](https://smallcultfollowing.com/babysteps/)
 
 ## Notes
 
@@ -283,3 +284,4 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Deno Blog](https://github.com/denoland/deno_blog) - Minimal boilerplate blogging. All you need is one boilerplate JavaScript file that has 2 lines of code.
 - [Blog engine in Deno](https://github.com/Xe/xn--g28h)
 - [Proselog](https://proselog.com/) - Open Blogging Platform. ([Code](https://github.com/proselog/proselog))
+- [Twenty years of my blog (2022)](https://simonwillison.net/2022/Jun/12/twenty-years/) ([HN](https://news.ycombinator.com/item?id=31727464))

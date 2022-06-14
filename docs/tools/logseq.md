@@ -30,3 +30,4 @@ title: Logseq
 - [Interval Hints](https://github.com/KerfuffleV2/logseq-plugin-interval-hints) - Configurable Logseq plugin to annotate deadline and scheduled times with a countdown or interval.
 - [OpenAI GPT3 plugin](https://github.com/briansunter/logseq-plugin-gpt3-openai) - Plugin for GPT-3 AI assisted note taking in Logseq.
 - [Block Navigation](https://github.com/KerfuffleV2/logseq-plugin-blocknav) - Quick block navigation shortcuts for Logseq.
+- [Let's build a decentralized social network together with Logseq](https://briansunter.com/graph/#/page/logseq-social)

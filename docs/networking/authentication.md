@@ -227,6 +227,7 @@
 - [Localauth0](https://github.com/primait/localauth0) - Auth0 docker image for local developemnt.
 - [Auth0](https://auth0.com/) - Secure access for everyone. But not just anyone.
 - [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity)
+- [Pritunl](https://pritunl.com/) - Open Source Enterprise Distributed OpenVPN, IPsec and WireGuard Server. ([Terraform Provider](https://github.com/disc/terraform-provider-pritunl))
 - [Pritunl-Zero](https://github.com/pritunl/pritunl-zero) - Zero trust system that provides secure authenticated access to internal services from untrusted networks without the use of a VPN.
 - [Infra](https://infrahq.com/) - Single sign-on for your infrastructure. ([Code](https://github.com/infrahq/infra))
 - [Online Identity (2022)](https://ja3k.com/blog/onid.html) ([HN](https://news.ycombinator.com/item?id=31216393))
@@ -237,3 +238,4 @@
 - [web-auth-library](https://github.com/kriasoft/web-auth-library) - Collection of utility functions for working with Web Crypto API.
 - [SAML Jackson](https://github.com/boxyhq/jackson) - SAML SSO service designed as an OAuth 2.0 flow. Integrate SAML with just a few lines of code.
 - [Apple Passkey](https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys) ([HN](https://news.ycombinator.com/item?id=31643917))
+- [Is "acceptably non-dystopian" self-sovereign identity even possible? (2022)](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)

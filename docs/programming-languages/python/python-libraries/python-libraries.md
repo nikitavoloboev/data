@@ -892,6 +892,7 @@
 - [tidypolars](https://github.com/markfairbanks/tidypolars) - Data frame library built on top of the blazingly fast polars library that gives access to methods and functions familiar to R tidyverse users.
 - [Markus](https://github.com/willkg/markus) - Python library for generating metrics.
 - [Orderbook](https://github.com/bmoscon/orderbook) - Fast L2/L3 orderbook data structure, in C, for Python.
+- [Flor](https://github.com/DCSO/flor) - Bloom filter implementation in Python.
 
 ## Notes
 

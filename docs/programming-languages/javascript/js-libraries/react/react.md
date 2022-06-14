@@ -329,3 +329,4 @@ Currently trying to use [Solid](../../../javascript/js-libraries/solid.md) for a
 - [Streaming Server Side Render in React 18](https://github.com/maxam2017/react-18-ssr) ([HN](https://news.ycombinator.com/item?id=31384562))
 - [Aspect](https://dev.aspect.app/) - Visual IDE for React. ([HN](https://news.ycombinator.com/item?id=27040224)) ([HN](https://news.ycombinator.com/item?id=31364081))
 - [How performance was improved on React Docs (2022)](https://twitter.com/dan_abramov/status/1529677207869825024)
+- [Million + React](https://github.com/aidenybai/million-react) - Write the same modern React with a faster Virtual DOM.

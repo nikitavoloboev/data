@@ -95,3 +95,4 @@ title: Phoenix framework
 - [Learn Phoenix (Web App) Framework](https://github.com/dwyl/learn-phoenix-framework)
 - [Using CQRS in a simple Phoenix API with Commanded (2022)](https://dev.to/christianalexander/using-cqrs-in-a-simple-phoenix-api-with-commanded-364k)
 - [Media Storage and CDN with Phoenix and Elixir (2022)](http://lofi.limo/blog/media-storage-and-cdn-with-phoenix-and-elixir)
+- [How LiveView got rid of dangling processes in tests (2022)](https://www.germanvelasco.com/blog/how-live-view-got-rid-of-dangling-processes-in-tests)

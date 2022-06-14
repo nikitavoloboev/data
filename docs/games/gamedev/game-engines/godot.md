@@ -8,7 +8,7 @@ title: Godot
 
 ## Nice Godot OSS apps
 
-- [Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity.
+- [Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity. ([HN](https://news.ycombinator.com/item?id=31717007))
 - [LiBlast](https://codeberg.org/unfa/Liblast) - Libre Multiplayer FPS Game Built with Godot 4 and Blender.
 - [Shotcaller](https://github.com/spicylobstergames/shotcaller-godot) - Minimalistic 1v1 MOBA/RTS in top-down pixel style.
 

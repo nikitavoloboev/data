@@ -160,3 +160,4 @@ title: Erlang
 - [Erlang/OTP 25.0 Release (2022)](https://www.erlang.org/news/157) ([HN](https://news.ycombinator.com/item?id=31421961))
 - [Ironclad](https://github.com/kvakvs/Ironclad) - Erlang type checker.
 - [beamcode](https://github.com/sile/beamcode) - Rust library to encode / decode Erlang BEAM instructions.
+- [The How and Why of Fitting Things Together - Joe Armstrong (2013)](https://www.youtube.com/watch?v=ed7A7r6DBsM)

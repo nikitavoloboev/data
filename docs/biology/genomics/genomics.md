@@ -177,3 +177,4 @@ title: Genomics
 - [GNNome Assembly](https://github.com/lvrcek/GNNome-assembly) - Learning to untangle genome assembly with graph neural networks.
 - [starfish](https://github.com/spacetx/starfish) - Scalable pipelines for image-based transcriptomics.
 - [alv](https://github.com/arvestad/alv) - View your DNA or protein multiple-sequence alignments right at your command line.
+- [New CRISPR-based map ties every human gene to its function (2022)](https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609) ([HN](https://news.ycombinator.com/item?id=31695881))

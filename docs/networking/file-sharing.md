@@ -115,3 +115,4 @@
 - [leaves](https://github.com/leaves-host/leaves) - Self-hostable file hosting service.
 - [RiftShare](https://github.com/achhabra2/riftshare) - Easy, Secure, Free file sharing. ([Docs](https://riftshare.app/))
 - [Statikk](https://github.com/paulirish/statikk) - Simple and secure server for static files.
+- [Parsec](https://github.com/Scille/parsec-cloud) - Open source Dropbox-like file sharing with full client encryption.

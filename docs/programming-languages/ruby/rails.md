@@ -167,3 +167,4 @@ title: Rails
 - [Hybrid development Docker Compose setup for Rails (2022)](https://nts.strzibny.name/hybrid-docker-compose-rails/)
 - [Ruby and Ruby on Rails bookmarks collection](https://github.com/dreikanter/ruby-bookmarks)
 - [Lograge](https://github.com/roidrage/lograge) - Taming Rails' Default Request Logging.
+- [Why We’re Sticking with Ruby on Rails at Gitlab (2022)](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/) ([HN](https://news.ycombinator.com/item?id=31726825))
