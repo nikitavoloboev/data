@@ -17,7 +17,7 @@ I liked [this article](https://sabrinajewson.org/blog/building-this-site) on bui
 - [Plot](https://github.com/JohnSundell/Plot) - DSL for writing type-safe HTML, XML and RSS in Swift.
 - [Staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know. ([Tweet](https://twitter.com/tjholowaychuk/status/1303655839341907969))
 - [rib](https://github.com/srid/rib) - Haskell library for writing your own static site generator. ([Sample site](https://github.com/srid/rib-sample))
-- [Publish](https://github.com/JohnSundell/Publish) - Static site generator for Swift developers.
+- [Publish](https://github.com/JohnSundell/Publish) - Static site generator for Swift developers. ([Article](https://danijelavrzan.com/posts/2022/06/create-portfolio-website-using-publish/))
 - [Docsite](https://github.com/txd-team/docsite) - Open source static website generator.
 - [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator. ([Docs](https://vitepress.vuejs.org/)) ([Tweet](https://twitter.com/youyuxi/status/1334722653186371586))
 - [Haunt](https://dthompson.us/projects/haunt.html) - Simple, functional, hackable static site generator that gives authors the ability to treat websites as Scheme programs.

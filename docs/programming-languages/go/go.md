@@ -801,3 +801,4 @@ if err != nil {
 - [Ten Reasons Why I Don't Like Go (2016)](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html) ([HN](https://news.ycombinator.com/item?id=31734110))
 - [Making Quamina Faster (2022)](https://www.tbray.org/ongoing/When/202x/2022/06/10/Quamina-Optimizing)
 - [Go Template Preview](https://gotemplate.io/) - Quick test and visualize your Go templates live. ([HN](https://news.ycombinator.com/item?id=31713654))
+- [Go grammar for tree-sitter](https://github.com/tree-sitter/tree-sitter-go)

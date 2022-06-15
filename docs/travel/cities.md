@@ -51,3 +51,4 @@
 - [Micromobility Will Change Our Cities (2022)](https://www.exponentialview.co/micromobility-will-change-our-cities/)
 - [Metaphysics of Mapping Buildings (2022)](https://snufk.in/blog/mapping-buildings.html)
 - [50 Reasons Why Everyone Should Want More Walkable Streets](https://www.fastcompany.com/3062989/50-reasons-why-everyone-should-want-more-walkable-streets)
+- [Great cities have great business & land lord relationships (2022)](https://twitter.com/McReynoldsJoe/status/1536811067992678400)

@@ -131,3 +131,4 @@ I try to spend as much [time with family and loved ones](https://ourworldindata.
 - [Origin of life theory involving RNA–protein hybrid gets new support (2022)](https://www.nature.com/articles/d41586-022-01303-z) ([HN](https://news.ycombinator.com/item?id=31371050))
 - [Ask HN: I Am Lost in Life. How do I fix this? (2022)](https://news.ycombinator.com/item?id=31565012)
 - [Ask HN: Burnt-out, directionless but want to turn it around (2022)](https://news.ycombinator.com/item?id=31565514)
+- [What events have clearly split your life into before/after, ranked by how unique they are to you?](https://twitter.com/dan_abramov/status/1536909318473322496)

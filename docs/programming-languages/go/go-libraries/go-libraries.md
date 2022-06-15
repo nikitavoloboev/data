@@ -1688,6 +1688,7 @@ Like [Gin](https://github.com/gin-gonic/gin) for web end points (([this](https:/
 - [Cmd](https://github.com/go-cmd/cmd) - Non-blocking external commands in Go with and streaming output and concurrent-safe access.
 - [async-buffer](https://github.com/woorui/async-buffer) - Generic Asynchronous data buffer with Automatic and Manual flushing.
 - [Tasqueue](https://github.com/kalbhor/Tasqueue) - Simple, customizable distributed job/worker in Go.
+- [Itogami](https://github.com/alphadose/itogami) - Fast and memory efficient thread-pool in Go.
 
 ## Links
 

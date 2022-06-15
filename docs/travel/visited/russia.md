@@ -16,6 +16,7 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 
 ## Notes
 
+- [In Russian historical memory decentralization and liberalization is strongly associated with failure and crisis. Starting with the Feudal period (decentralization led to Mongol invasion), Time of Troubles (decentralization led to Poland almost annexing Russia), the Great Reforms (Alexander II was too liberal and got killed by a terrorist), the February revolution (liberals got to power and plunged the country into a civil war) and finally Perestroika and the 90s.](https://www.reddit.com/r/AskARussian/comments/vcbmoa/russians_on_here_seem_to_think_russia_wont_ever/)
 - [Когда беззаконие и произвол — суть политической системы и это ужасно, но бывает хуже. Когда беззаконие и произвол надевают мундир прокурора или судейскую мантию. И в этом случае долг каждого человека — не подчиняться законам, которые в это облачены](https://twitter.com/StalinGulag/status/1356595455120076804)
 - [Миллионы и сотни тысяч посадить нельзя, и я очень надеюсь, что люди будут больше и больше осознавать это, а когда осознают — такой момент придет — вы не посадите всю страну.](https://twitter.com/StalinGulag/status/1356596878624886785)
 - [Вот сидим мы тут, "элитные" 3%, поддакиваем друг другу и думаем, что Россия это мы. А Россия - это огромная, тупая, дремучая, смердящая масса, которая ненавидит Навального, Немцова, Америку, украинцев и вообще всех, на кого телевизор скажет "фас!"](https://twitter.com/nikitsveta/status/1366682245000495105)
@@ -575,3 +576,4 @@ I have a [mostly Russian Twitter List](https://twitter.com/i/lists/1351120526220
 - [Дмитрий Глуховский об «отмене» русской культуры, империализме и пропаганде Путина (2022)](https://www.youtube.com/watch?v=BBNJkfQFT8w)
 - [ещенепознер – до и во время войны / вДудь (2022)](https://www.youtube.com/watch?v=mh-7jvePXF4) ([Tweet](https://twitter.com/pevchikh/status/1535606989568585728)) ([Tweet](https://twitter.com/eg_fedorov/status/1535609595749605380))
 - [Russia Block List](https://rblist.info/) - See how top world companies react to Russia invasion. ([Code](https://github.com/veelenga/rblist.info))
+- [Руслан Белый: «Это не защищает тебя от отмены тебя» (2022)](https://www.youtube.com/watch?v=faH4AMDRAlc)

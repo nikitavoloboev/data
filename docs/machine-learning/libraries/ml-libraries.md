@@ -363,3 +363,4 @@ title: ML Libraries
 - [Neural Fluid Fields](https://github.com/tovacinni/neural-fluid-fields) - Small library for doing fluid simulation with neural fields.
 - [OmniXAI](https://github.com/salesforce/OmniXAI) - Library for eXplainable AI.
 - [mmap.ninja](https://github.com/hristo-vrigazov/mmap.ninja) - Library for storing your datasets in memory-mapped files, which leads to a dramatic speedup in the training time. Accelerate the iteration over your machine learning dataset by up to 20 times.
+- [geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes.

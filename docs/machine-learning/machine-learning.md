@@ -839,3 +839,5 @@ Looking into using [envd](https://github.com/tensorchord/envd) together with [Py
 - [Meta Optimal Transport (2022)](https://arxiv.org/abs/2206.05262) ([Code](https://github.com/facebookresearch/meta-ot))
 - [envd](https://github.com/tensorchord/envd) - Development environment for machine learning.
 - [Awesome Open Source MLOps](https://github.com/gaocegege/awesome-open-source-mlops)
+- [Generalised Implicit Neural Representations (2022)](https://arxiv.org/abs/2205.15674) ([Code](https://github.com/danielegrattarola/GINR))
+- [Diffusers](https://github.com/huggingface/diffusers) - Provides pretrained diffusion models across multiple modalities, such as vision and audio, and serves as a modular toolbox for inference and training of diffusion models.

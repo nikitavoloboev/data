@@ -396,3 +396,4 @@ title: Node.js
 - [Functions Framework for Node.js](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - Open source FaaS (Function as a Service) framework based on Express for writing portable Node.js functions.
 - [milliparsec](https://github.com/tinyhttp/milliparsec) - Tiniest body parser in the universe. Built for modern Node.js
 - [lru-send](https://github.com/tinyhttp/lru-send) - LRU-based caching middleware for Node.js.
+- [Creating Node.js Docker images that build in 2 seconds (2022)](https://xmorse.xyz/blog/creating-node-js-docker-images-that-build-in-2-seconds-c428aec57fd44a9f93957bdf2ebf4f54)

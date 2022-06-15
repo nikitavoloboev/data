@@ -12,6 +12,7 @@ I try to go to bed at the same time each day to maintain the Circadian rhythm.
 - [Do plants sleep? Anesthesia works on plants too, and we don’t know why.](https://news.ycombinator.com/item?id=27195813)
 - [Plenty of exercise improves the quality of my sleep, therefore requiring not as much sleep.](https://news.ycombinator.com/item?id=27821217)
 - [Sleep isn't restricted to organisms with a brain](https://www.youtube.com/watch?v=1tOx_Vh5diE)
+- [According to research by the NIIH in Japan, despite the popularity of using an alarm clock, waking up to a jolting noise can be bad for your heart. Waking up abruptly can cause higher blood pressure and heart rate.](https://twitter.com/levelsio/status/1537078045789630464)
 
 ## Links
 

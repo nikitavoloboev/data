@@ -547,6 +547,7 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [h3-typebox](https://github.com/kevinmarrec/h3-typebox) - Schema validation utilities for h3, using typebox & ajv.
 - [p-props](https://github.com/sindresorhus/p-props) - Like Promise.all() but for Map and Object.
 - [ts-poet](https://github.com/stephenh/ts-poet) - TypeScript code generator that is a fancy wrapper around template literals.
+- [WRP](https://github.com/pbkit/wrp-ts) - TypeScript Implementation of Webview/Worker Request Protocol.
 
 ## Links
 

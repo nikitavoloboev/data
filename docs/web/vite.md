@@ -84,3 +84,4 @@ title: Vite
 - [Vite: Rethinking Frontend Tooling](https://portal.gitnation.org/contents/vite-rethinking-frontend-tooling)
 - [Vite Build explained](https://patak.dev/vite/build.html)
 - [vite-plugin-macro](https://github.com/viteland/vite-plugin-macro)
+- [vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Vite plugin to transform SVGs into React components.

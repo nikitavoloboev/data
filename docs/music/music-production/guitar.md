@@ -11,6 +11,10 @@
 - [Johnny Cash - Hurt Cover (NIN) Fingerstyle](https://www.youtube.com/watch?v=8LU-kq19V3Y)
 - [STAYIN’ ALIVE (Bee Gees) - Luca Stricagnoli](https://www.youtube.com/watch?v=buH9qCgK_Qk)
 
+## Notes
+
+- [Acoustic guitar sounds so much better with capo >= 3.](https://twitter.com/dan_abramov/status/1537084269486559232)
+
 ## Links
 
 - [Chord](https://github.com/pcorey/chord) - Tools to generate all possibilities of a given chord across a guitar's fretboard, render chord charts with unicode, and calculate the "distance" between chords, which can be used to discover interesting voice leading possibilities.

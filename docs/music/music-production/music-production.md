@@ -382,3 +382,4 @@
 - [JUCE](https://github.com/juce-framework/JUCE) - Open-source cross-platform C++ application framework for creating high quality desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. ([Web](https://juce.com/))
 - [Adventures in Electronic Music (2011)](https://www.charlespetzold.com/etc/AdventuresInElectronicMusic/) ([HN](https://news.ycombinator.com/item?id=31708848))
 - [Awesome Multimodality](https://github.com/Yutong-Zhou-cv/Awesome-Multimodality) - Survey on multimodal learning research.
+- [AI Audio Startups](https://github.com/csteinmetz1/ai-audio-startups) - Community list of startups working with AI in audio and music technology.
