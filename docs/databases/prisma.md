@@ -4,6 +4,8 @@ title: Prisma
 
 # [Prisma](https://www.prisma.io/)
 
+I prefer using [EdgeDB](edgedb.md) for all my DB needs, it has a [better way to do queries](https://www.youtube.com/watch?v=WVRLim8A8-I&t=1906s).
+
 [Schemix](https://github.com/ridafkih/schemix) is neat.
 
 ## Links

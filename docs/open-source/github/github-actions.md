@@ -520,3 +520,4 @@ title: GitHub actions
 - [GitHub Action - Store variables between your jobs](https://github.com/UnlyEd/github-action-store-variable)
 - [A beginner’s guide to CI/CD and automation on GitHub (2022)](https://github.blog/2022-06-03-a-beginners-guide-to-ci-cd-and-automation-on-github/)
 - [GitHub Actions Playground](https://github.com/embano1/aktion)
+- [What's your favorite GitHub Action that not enough people know about?](https://twitter.com/martinwoodward/status/1536650478724988929)

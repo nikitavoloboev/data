@@ -154,3 +154,4 @@ I hope Russia stops [unlawfully occupying and harassing Ukraine](https://twitter
 - [The New Era of Great Power Competition | John Mearsheimer & Stephen Walt (2022)](https://overcast.fm/+bbjkhwBVQ)
 - [Inhuman horror Russia's inflicting on Ukraine](https://twitter.com/GlasnostGone/status/1535665137423622144)
 - [Intense (and hellish) scenes from Lysychansk](https://twitter.com/Mike_Eckel/status/1536222623394410497)
+- [Подоляк и Жданов в Киеве | Что будет с Россией и Украиной? (2022)](https://www.youtube.com/watch?v=C2Tv7ZpsK0s)

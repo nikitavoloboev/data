@@ -111,3 +111,4 @@
 - [Advanced Binary Deobfuscation](https://github.com/malrev/ABD)
 - [Ghidra Stack Strings](https://github.com/SamL98/GhidraStackStrings) - Hacky scripts to fixup stack strings in Ghidra's decompiler.
 - [decomp](https://github.com/decomp/decomp) - Components of a decompilation pipeline.
+- [Ghidra Snippets](https://github.com/HackOvert/GhidraSnippets) - Python snippets for Ghidra's Program and Decompiler APIs.

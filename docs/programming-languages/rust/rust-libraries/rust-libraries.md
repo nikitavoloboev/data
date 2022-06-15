@@ -752,6 +752,7 @@
 - [geometry-predicates](https://github.com/elrnv/geometry-predicates-rs) - Rust solution to efficient exact geometry predicates used widely for computational geometry.
 - [meval](https://github.com/rekka/meval-rs) - Math expression parser and evaluation library for Rust.
 - [libprio-rs](https://github.com/divviup/libprio-rs) - Rust implementation of Prio, a system for Private, Robust, and Scalable Computation of Aggregate Statistics.
+- [Exmex](https://github.com/bertiqwerty/exmex) - Math parser and evaluator in Rust, capable of partial differentiation, allows the use of custom operators.
 
 ## Other
 

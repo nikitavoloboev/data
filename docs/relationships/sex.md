@@ -113,3 +113,4 @@
 - [Men of Reddit, what’s something most guys like during sex but don’t want to admit?](https://www.reddit.com/r/AskMen/comments/uowwg7/men_of_reddit_whats_something_most_guys_like/)
 - [Various condoms thread](https://twitter.com/stereoyana/status/1525746258354249728)
 - [The Fascinating Fertilization Process](https://www.reddit.com/r/interestingasfuck/comments/v2e14l/the_fascinating_fertilization_process/)
+- [Men with vasectomy! How did it effect your sex life? (2022)](https://www.reddit.com/r/AskMen/comments/vbiqr9/men_with_vasectomy_how_did_it_effect_your_sex_life/)

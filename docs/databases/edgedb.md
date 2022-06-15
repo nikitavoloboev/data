@@ -4,6 +4,8 @@ title: EdgeDB
 
 # [EdgeDB](https://www.edgedb.com/)
 
+[Colin McDonnell's interview on Zod, tRPC, EdgeDB](https://www.youtube.com/watch?v=WVRLim8A8-I) is great.
+
 ## OSS apps
 
 - [Hyperpop - EdgeDB Remix Stack](https://github.com/edgedb/remix)
@@ -35,3 +37,4 @@ title: EdgeDB
 - [EdgeDB Editor Plugin](https://github.com/edgedb/edgedb-editor-plugin)
 - [Full-stack EdgeDB + Next.js application](https://github.com/colinhacks/edgedb-nextjs-blog)
 - [EdgeDB Blog](https://www.edgedb.com/blog)
+- [Colin McDonnell - Zod, tRPC, EdgeDB (2022)](https://www.youtube.com/watch?v=WVRLim8A8-I)

@@ -229,3 +229,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Nix(OS) Thoughts (2020)](https://bicompact.space/blog/2020/06/20/nix-os-thoughts/)
 - [systemd services & timers in NixOS (2022)](https://paperless.blog/systemd-services-and-timers-in-nixos)
 - [NixOS cheat sheet / tutorial](https://github.com/brainrake/nixos-tutorial)
+- [NixOS: Confederation (2022)](https://myme.no/posts/2022-06-14-nixos-confederation.html) ([Lobsters](https://lobste.rs/s/azzlvx/nixos_confederation))

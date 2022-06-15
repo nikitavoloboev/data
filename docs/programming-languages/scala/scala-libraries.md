@@ -5,7 +5,7 @@
 - [blaze](https://github.com/http4s/blaze) - Scala library for building asynchronous pipelines, with a focus on network IO.
 - [ZIO HTTP](https://github.com/dream11/zio-http) - Scala library to write HTTP apps. Powered by ZIO and netty and aims at being the defacto solution for writing, highly scalable and performant web applications.
 - [Http4s](https://github.com/http4s/http4s) - Minimal, idiomatic Scala interface for HTTP services.
-- [Tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/)) ([Tapir Stream](https://www.youtube.com/watch?v=GNleUFwgzWc))
+- [Tapir](https://github.com/softwaremill/tapir) - Describe HTTP API endpoints as immutable Scala values. ([Docs](https://tapir.softwaremill.com/en/latest/)) ([Tapir Stream](https://www.youtube.com/watch?v=GNleUFwgzWc)) ([1.0](https://softwaremill.com/tapir-1-0-released/))
 - [sttp](https://github.com/softwaremill/sttp) - Scala HTTP client you always wanted. ([Docs](https://sttp.softwaremill.com/en/latest/))
 - [Scalatra](https://github.com/scalatra/scalatra) - Tiny Scala high-performance, async web framework, inspired by Sinatra. ([Web](https://scalatra.org/))
 - [Scala.js](https://github.com/scala-js/scala-js) - Scala to JavaScript compiler. ([Web](https://www.scala-js.org/))

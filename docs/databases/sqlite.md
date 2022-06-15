@@ -15,6 +15,7 @@ I currently start all my projects with SQLite DB if I need any kind of persisten
 - [SQLite can import CSV data directly. Start sqlite, then: .mode csv .import some_data_file.csv your_table_name](https://lobste.rs/s/nydkgn/how_hot_does_it_get_inside_car_during_heat#c_0kknsc)
 - [SQLite now has first class support for JSON.](https://lobste.rs/s/gdu6pt/sqlite_release_3_38_0)
 - [SQLite has amazing full text search](https://twitter.com/SebastianSzturo/status/1515297367335247877)
+- [SQLite is getting more popular because: 1. embeddable at the edge (WASM, etc.). 2. Easy connection pooling for serverless (flatfile). 3. Embeddable at the runtime (browser, -as-a-library, etc.). 4. NFS getting faster, so easy and cheap alternative for blogs, etc.](https://twitter.com/mattrickard/status/1536824090815672320)
 
 ## Links
 

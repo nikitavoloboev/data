@@ -400,7 +400,6 @@ I use [ts-lib-starter](https://github.com/egoist/ts-lib-starter) template for my
 - [expressive-glob](https://github.com/Borrus-sudo/expressive-glob) - Write glob patterns in super expressive and an easy way.
 - [exponential-backoff](https://github.com/coveooss/exponential-backoff) - Utility that allows retrying a function with an exponential delay between attempts.
 - [Transform a JSON Schema to Yup Schema](https://github.com/ritchieanesco/json-schema-yup-transform)
-- [tRPC Kitchen Sink](https://github.com/trpc/examples-kitchen-sink)
 - [Rimbu](https://github.com/rimbu-org/rimbu) - TypeScript library focused on immutable, performant, and type-safe collections and other tools.
 - [parallel-park](https://github.com/suchipi/parallel-park) - Parallel/concurrent async work, optionally using multiple processes.
 - [screenshot](https://github.com/xataio/screenshot) - Zero-dependency browser-native way to take screenshots powered by the native web MediaDevices API.

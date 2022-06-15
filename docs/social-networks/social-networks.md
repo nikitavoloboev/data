@@ -165,3 +165,4 @@
 - [instantgram](https://github.com/theus/instantgram) - Bookmarklet for download photos in Instagram.
 - [Farcaster](https://www.farcaster.xyz/) - Sufficiently decentralized social network. It is an open protocol that can support many clients, just like email. ([Twitter](https://twitter.com/farcaster_xyz)) ([Article](https://www.shawkisukkar.com/2022/farcaster))
 - [retrospring](https://retrospring.net/) - Q/A based social network. ([Code](https://github.com/Retrospring/retrospring))
+- [Movim](https://movim.eu/) - Social and chat platform that act as a web frontend for the XMPP protocol. ([Code](https://github.com/movim/movim))

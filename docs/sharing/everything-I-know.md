@@ -2,12 +2,13 @@
 
 Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's post on things he doesn't know](https://overreacted.io/things-i-dont-know-as-of-2018/).
 
-- [Karabiner](../macOS/apps/karabiner/karabiner.md): How to bind keys on mac.
+- [Karabiner](../macOS/apps/karabiner/karabiner.md): I bind all most common actions I do on my mac via Karabiner and my custom modifier keys (`a` key is control, `w` opens apps, ..).
 - [macOS](../macOS/macOS.md): How to operate it very fast. Especially with apps like [KM](../macOS/apps/keyboard-maestro/keyboard-maestro.md), [Alfred](../macOS/apps/alfred/alfred.md), [VSCode](../text-editors/vs-code/vs-code.md).
-- [Solid](../programming-languages/javascript/js-libraries/solid.md): Learning and trying to use it for all my web apps and even static sites. Love [React](../programming-languages/javascript/js-libraries/react/react.md)'s component model and JSX but Solid is [much faster than React](https://twitter.com/nikitavoloboev/status/1528479450828087299) due to avoiding VDOM. I try to be conscious of [performance](../web/web-performance.md) in all my projects.
-- [Go](../programming-languages/go/go.md)/[Deno](../web/deno.md): For writing scripts and web services.
-- [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md): Trying to deploy everything I can on a distributed CDN. Workers with [Hono](https://github.com/honojs/hono) seem to do well.
-- [SQLite](../databases/sqlite.md): My DB of choice for all projects. I also use [Postgres](../databases/postgresql.md) and exploring [EdgeDB](../databases/edgedb.md).
+- [Solid](../programming-languages/javascript/js-libraries/solid.md): Using it for all my web apps and even static sites. Love how it takes all the best parts of [React](../programming-languages/javascript/js-libraries/react/react.md) (component tree model with one way data flow & JSX) but does it better due to [fine grained reactivity ](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) & avoiding VDOM thus being [much faster than React](https://twitter.com/nikitavoloboev/status/1528479450828087299). I try to be conscious of [performance](../web/web-performance.md) in all my projects.
+- [Go](../programming-languages/go/go.md): Prefer using Go for all code I want to run not in the browser (scripts, web services, servers of all kinds) due to it's fast compile speeds & performance.
+- [EdgeDB](../databases/edgedb.md) - My DB of choice for all projects. Sits on top of [Postgres](../databases/postgresql.md) but has [insanely well made query language](https://www.edgedb.com/docs/edgeql/index) & declarative schema modeling that is a breeze to edit. Nearly all queries are very easy to construct & are super fast without doing any optimizations.
+- [SQLite](../databases/sqlite.md): Use it for whenever I need an embedded database. Local apps etc. Exploring local first architectures like [Replicache](https://replicache.dev/) & [Logux](https://logux.io/).
+- [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) & [Cloudflare R2](https://developers.cloudflare.com/r2/): Looking into using it as distributed cache & small data store. [Hono](https://github.com/honojs/hono) seem like a nice library for workers. Cloudflare in general has great web services I like using.
 
 ## My Workflow
 

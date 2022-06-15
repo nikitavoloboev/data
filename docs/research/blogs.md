@@ -159,6 +159,7 @@ My blog is written with [Solid](../programming-languages/javascript/js-libraries
 - [Paul Masurel](https://fulmicoton.com/)
 - [Nil Coalescing](https://nilcoalescing.com/index.html)
 - [Niko Matsakis](https://smallcultfollowing.com/babysteps/)
+- [Cmdr Coriander](https://commandercoriander.net/)
 
 ## Notes
 

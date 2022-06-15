@@ -164,3 +164,4 @@
 - [Troika JS](https://github.com/protectwise/troika) - JavaScript framework for interactive 3D and 2D visualizations.
 - [bfc](https://github.com/kessler/catchart) - Industrial-grade brainfuck compiler.
 - [catchart](https://github.com/kessler/catchart) - Pipe something from command line to a chart in the browser.
+- [A Tiny Grammar of Graphics](https://observablehq.com/@joshpoll/vvt-gog) ([HN](https://news.ycombinator.com/item?id=31733365))

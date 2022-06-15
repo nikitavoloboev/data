@@ -282,6 +282,10 @@ Below is a list of extensions I use.
 - [Reason Language Server](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - IDE & Syntax support for Reason/OCaml.
 - [OCaml and Reason IDE](https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml) - OCaml and Reason language support.
 
+## ML
+
+- [DVC Extension](https://github.com/iterative/vscode-dvc) - Run, compare, visualize, and track machine learning experiments right in VS Code.
+
 ## Markdown
 
 - [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match GitHub's style.

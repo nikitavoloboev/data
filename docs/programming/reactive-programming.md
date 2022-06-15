@@ -4,6 +4,8 @@ title: Reactive programming
 
 # [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming)
 
+[Hands-on Introduction to Fine-Grained Reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf) is great read.
+
 ## Links
 
 - [Introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -28,3 +30,4 @@ title: Reactive programming
 - [Reactive](https://github.com/YousefED/reactive) - Super simple, yet powerful and performant library for State Management / Reactive Programming.
 - [General Theory of Reactivity](https://github.com/kriskowal/gtor)
 - [Scramjet](https://github.com/scramjetorg/framework-js) - Simple reactive stream programming framework in TypeScript.
+- [Hands-on Introduction to Fine-Grained Reactivity (2021)](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)

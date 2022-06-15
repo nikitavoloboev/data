@@ -1,6 +1,6 @@
 # JS libraries
 
-[PnPm](https://pnpm.io/) is nice package manager.
+[PnPm](https://pnpm.io/) is nice package manager. [redaxios](https://github.com/developit/redaxios) is great for web fetches.
 
 ## Web Dev frameworks
 

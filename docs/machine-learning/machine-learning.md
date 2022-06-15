@@ -2,6 +2,8 @@
 
 [Phil Wang](https://github.com/lucidrains) always recreates many cutting edge ML papers with PyTorch. [This course](https://book.sciml.ai/) & [Math for ML](https://mml-book.github.io/) seem great. [Hugging Face](https://huggingface.co/) is incredible community & [tools](https://twitter.com/abhi1thakur/status/1533416501792935938). [Transformer architectures](https://twitter.com/michael_nielsen/status/1511853865150287873) & [Diffusion Models](https://www.youtube.com/watch?v=fbLgFrlTnGU) are great. [MLU-Explain](https://mlu-explain.github.io/) is a [great ML visual explainer](https://news.ycombinator.com/item?id=31455919).
 
+Looking into using [envd](https://github.com/tensorchord/envd) together with [PyTorch Lightning](https://www.pytorchlightning.ai/) for my ML experiments.
+
 ## Notes
 
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
