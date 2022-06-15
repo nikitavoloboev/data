@@ -4,15 +4,17 @@ title: Go
 
 # [Go](https://golang.org)
 
-Go is currently my favorite programming language.
+Prefer using Go for all code I want to run not in the browser (scripts, web services, servers of all kinds) due to it's fast compile speeds & performance.
 
-I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/golang/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
+I love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/golang/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
 
 Go promotes composition over inheritance.
 
 [Tour of Go](https://go.dev/tour/welcome/1) & [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) are great places to [learn Go](https://www.reddit.com/r/golang/comments/t8owza/best_go_tutorials_in_town/).
 
 [GoReleaser](https://github.com/goreleaser/goreleaser) is useful for publishing. [revive](https://github.com/mgechev/revive) & [Staticcheck](https://github.com/dominikh/go-tools) are great linters.
+
+Only thing I dislike about Go is it's verbosity especially with respect to errors. But that decision was made so all programmers are forced to not only consider the happy paths of their code & write proper error logging.
 
 ## Commenting Go code
 

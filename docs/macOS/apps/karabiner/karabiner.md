@@ -18,6 +18,8 @@ I take this idea further and define these kind of hyper keys but for **every sin
 
 I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with [Goku](https://github.com/yqrashawn/GokuRakuJoudo).
 
+Will make a web explorer for Karabiner/Goku bindings soon. But briefly, I group keys by theme. `q` = cmd+shift. `w` = open apps. `e` = cmd. `r` = open more apps. `i` = insert symbols like & or |. `o` = Alfred searches. `a` = control. `s` = arrow keys, selecting text & more text helpers. `d` = `d+v` will do left mouse click, use that a lot. `f` = various helpers. `g` = move windows left/right/maximize & more. `hjkl` are no hyper keys as I press on them often for scrolling in vim/browser and need instant response, hyper keys have a little delay after press. `:` = caps lock key, so `:+w` will insert W. `z` = open chat apps, like `z+k` opens telegram. `x` = spotify helpers, like current song, search songs & more. `c` = helpers, use `c+s` often to clone current open GitHub URL & open it in VSCode. `v` = change volume, next song & more. `b` = open 'news' sites like Reddit/HN. `n` = Alfred searches, use `n+s` to trigger [web searches](https://github.com/nikitavoloboev/alfred-web-searches) often. `m` = search [Dash docsets](https://kapeli.com/dash) with Alfred. `.` = insert text fast like `console.log()` & more.
+
 ## Interesting configs
 
 -  [Goku In The Wild](https://github.com/yqrashawn/GokuRakuJoudo/blob/master/in-the-wild.md)

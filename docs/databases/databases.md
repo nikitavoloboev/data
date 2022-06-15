@@ -1,12 +1,14 @@
 # Databases
 
-I love [PostgreSQL](postgresql.md) & [SQlite](sqlite.md). [EdgeDB](edgedb.md) (builds on Postgres) & [PlanetScale](planetscale.md) are awesome too.
+Love using [EdgeDB](edgedb.md) for all my db needs (builds on [Postgres](postgresql.md) & has [amazing query language](https://www.edgedb.com/docs/edgeql/index) & [declarative schema modeling](https://www.edgedb.com/docs/datamodel/index)).
+
+I use [SQlite](sqlite.md) for when I need an embedded database for my apps for local first architectures.
 
 [Database Internals](https://www.databass.dev/) & [Designing Data-Intensive Applications](https://dataintensive.net/) are great books on databases.
 
 [Metabase](https://github.com/metabase/metabase) is a great SQL queries visualizer. [Database access optimization doc](https://docs.djangoproject.com/en/4.0/topics/db/optimization/) is a good read.
 
-[Ditto](https://www.ditto.live/), [Replicache](https://replicache.dev/) & [Tuple Database](https://github.com/ccorcos/tuple-database) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools.
+[Ditto](https://www.ditto.live/), [Replicache](https://replicache.dev/) & [Tuple Database](https://github.com/ccorcos/tuple-database) are fascinating tools for for [syncing local state for fast network bound operations](https://twitter.com/maccaw/status/1528848433968209923) using [CRDTs](../distributed-systems/crdt.md) and other tools. [PlanetScale](planetscale.md) seems awesome too.
 
 ## Interesting
 

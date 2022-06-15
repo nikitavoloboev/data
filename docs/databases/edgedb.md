@@ -4,7 +4,9 @@ title: EdgeDB
 
 # [EdgeDB](https://www.edgedb.com/)
 
-[Colin McDonnell's interview on Zod, tRPC, EdgeDB](https://www.youtube.com/watch?v=WVRLim8A8-I) is great.
+My DB of choice for all projects. Sits on top of [Postgres](postgresql.md) but has [insanely well made query language](https://www.edgedb.com/docs/edgeql/index) & [declarative schema modeling](https://www.edgedb.com/docs/datamodel/index) that is a breeze to edit. Nearly all queries are easy to construct & are super fast without doing any optimizations.
+
+[Colin McDonnell's interview on Zod, tRPC, EdgeDB](https://www.youtube.com/watch?v=WVRLim8A8-I) is nice talk.
 
 ## OSS apps
 

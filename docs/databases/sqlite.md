@@ -6,7 +6,7 @@ title: SQLite
 
 [Litestream](https://github.com/benbjohnson/litestream) & [Postlite](https://github.com/benbjohnson/postlite) are neat. Like using [deno_sqlite](https://github.com/denodrivers/sqlite3) for scripts that query SQLite. [SQLite](https://github.com/stainless-steel/sqlite), [Rusqlite](https://github.com/rusqlite/rusqlite), [Rusqlite Migration](https://github.com/cljoly/rusqlite_migration) are great SQLite libs for Rust. [sqlc](https://github.com/kyleconroy/sqlc) is nice for Go. [GRDB](https://github.com/groue/GRDB.swift) is nice for Swift.
 
-I currently start all my projects with SQLite DB if I need any kind of persistence. Then move to [EdgeDB](edgedb.md)/[Postgres](postgresql.md) if SQLite is not enough for some reason. Want to try using [ws4sqlite](https://github.com/proofrock/ws4sqlite).
+I use SQLite for whenever I need an embedded database. Local apps etc. It works great for local first architectures like [Replicache](https://replicache.dev/) & [Logux](https://logux.io/). If I don't need the embedded factor, I prefer using [EdgeDB](edgedb.md). Want to try using [ws4sqlite](https://github.com/proofrock/ws4sqlite).
 
 [Simple-Graph](https://github.com/dpapathanasiou/simple-graph) seems like a nice graph db plugin for SQLite.
 
