@@ -137,3 +137,4 @@ title: OCaml
 - [eio-console](https://github.com/patricoferris/eio-console) - Eventring-based exploration of Eio programs.
 - [OCaml Platform](https://github.com/tarides/ocaml-platform) - Represents the best way for developers, both new and old, to write software in OCaml.
 - [Unboxed Types for OCaml :: Jane Street (2019)](https://www.janestreet.com/tech-talks/unboxed-types-for-ocaml/)
+- [OCaml 5.0 Alpha Release (2022)](https://discuss.ocaml.org/t/ocaml-5-0-zeroth-alpha-release/10026) ([HN](https://news.ycombinator.com/item?id=31751017))

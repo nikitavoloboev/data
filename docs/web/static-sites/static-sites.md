@@ -1,6 +1,6 @@
 # Static sites
 
-I use [SolidJS](../../programming-languages/javascript/js-libraries/solid.ms) for all my websites published on [Netlify](https://www.netlify.com/).
+I use [SolidJS](../../programming-languages/javascript/js-libraries/solid.md) for all my websites published on [Netlify](https://www.netlify.com/).
 
 [tinypages](https://github.com/Borrus-sudo/tinypages), [Eleventy](eleventy.md), [Hugo](hugo.md), [Capri](https://capri.build/) & [Lume](https://github.com/lumeland/lume) look like nice static site generators.
 
