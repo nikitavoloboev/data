@@ -187,3 +187,4 @@ title: Obsidian
 - [How to Boost your Productivity for Scientific Research (2022)](https://universvm.medium.com/how-to-boost-your-productivity-for-scientific-research-using-obsidian-fe85c98c63c8)
 - [What clever Obsidian tricks have you found? (2022)](https://www.reddit.com/r/ObsidianMD/comments/uaxzhf/what_clever_obsidian_tricks_have_you_found/)
 - [Modular CSS Layout for Obsidian](https://github.com/efemkay/obsidian-modular-css-layout)
+- [Molecular Notes: Practice](https://reasonabledeviations.com/2022/06/12/molecular-notes-part-2/) - Discussing the practical implementation of Molecular Notes in Obsidian.

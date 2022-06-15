@@ -9,6 +9,8 @@ Page of things I consider myself knowledgeable of. Similar in spirit to [Dan's p
 - [EdgeDB](../databases/edgedb.md) - My DB of choice for all projects. Sits on top of [Postgres](../databases/postgresql.md) but has [insanely well made query language](https://www.edgedb.com/docs/edgeql/index) & [declarative schema modeling](https://www.edgedb.com/docs/datamodel/index) that is a breeze to edit. Nearly all queries are easy to construct & are super fast without doing any optimizations.
 - [SQLite](../databases/sqlite.md): Use it for whenever I need an embedded database. Local apps etc. Exploring local first architectures like [Replicache](https://replicache.dev/) & [Logux](https://logux.io/).
 - [Cloudflare Workers](../cloud-computing/serverless-computing/cloudflare-workers.md) & [Cloudflare R2](https://developers.cloudflare.com/r2/): Looking into using it as distributed cache & small data store. [Hono](https://github.com/honojs/hono) seem like a nice library for workers. Cloudflare in general has great web services I like using.
+- [Swift](../programming-languages/swift/swift.md) & [SwiftUI](../programming-languages/swift/swift-libraries/swiftui.md): Build all native apps with them.
+- [TS](../programming-languages/typescript/typescript.md) & [Deno](../web/deno.md): Use TS in all my web apps. Also exploring Deno for writing small scripts/automations.
 
 ## My Workflow
 

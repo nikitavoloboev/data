@@ -61,3 +61,4 @@ title: WebGPU
 - [WebGPU Webpack + TypeScript Starter](https://github.com/Twinklebear/webgpu-webpack-typescript-starter) - Starter template for WebGPU development using webpack and TypeScript.
 - [neo](https://github.com/denosaurs/neo) - Matrix and other math, accelerated by WebGPU and WASM.
 - [wgsl_to_wgpu](https://github.com/ScanMountGoat/wgsl_to_wgpu) - Generate typesafe Rust bindings for wgsl shaders in wgpu.
+- [The Case for Use.GPU (2022)](https://acko.net/blog/the-case-for-use-gpu/)

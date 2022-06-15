@@ -185,3 +185,5 @@ Use [Docusaurus](../tools/docusaurus.md) for any custom documentation I need to 
 - [How do you create documentation websites today? (2022)](https://twitter.com/mxstbr/status/1526584813301313536)
 - [What Fields](https://whatfields.com/) - Way to quickly write & share documentation for anything (API, database etc).
 - [Useful resources for folks building docs in open source](https://twitter.com/rachelnabors/status/1533856532571594758)
+- [Mintlify](https://www.mintlify.com/) - Continuous Documentation Platform. ([GitHub](https://github.com/mintlify)) ([Writer](https://www.mintlify.com/writer)) ([Writer Code](https://github.com/mintlify/writer)) ([HN](https://news.ycombinator.com/item?id=31740724))
+- [Write documentation first, then build](https://reproof.app/blog/document-first-then-build) ([HN](https://news.ycombinator.com/item?id=31735939))

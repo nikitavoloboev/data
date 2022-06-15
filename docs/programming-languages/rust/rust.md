@@ -102,7 +102,7 @@ title: Rust
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
-- [C2Rust](https://github.com/immunant/c2rust) - Migrate C code to Rust. ([Web](https://c2rust.com/)) ([HN](https://news.ycombinator.com/item?id=30169263))
+- [C2Rust](https://github.com/immunant/c2rust) - Migrate C code to Rust. ([Web](https://c2rust.com/)) ([HN](https://news.ycombinator.com/item?id=30169263)) ([C2Rust is Back](https://immunant.com/blog/2022/06/back/))
 - [cargo-play](https://github.com/fanzeyi/cargo-play) - Tool to help you running your Rust code file without manually setting up a Cargo project.
 - [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.
 - [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)
@@ -819,3 +819,4 @@ title: Rust
 - [Learn Rust Reddit](https://www.reddit.com/r/learnrust/)
 - [Rust Async Cancellation: A Case Study (2022)](https://smallcultfollowing.com/babysteps/blog/2022/06/13/async-cancellation-a-case-study-of-pub-sub-in-mini-redis/)
 - [Flavors of enums with Rust bindgen (2022)](https://www.mdaverde.com/posts/rust-bindgen-enum/) ([HN](https://news.ycombinator.com/item?id=31726608))
+- [Everything Is Broken: Shipping Rust-Minidump at Mozilla (2022)](https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=31740768))

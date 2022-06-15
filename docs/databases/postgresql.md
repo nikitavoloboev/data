@@ -518,3 +518,4 @@ Want to try build something on top of [pgproto3](https://github.com/jackc/pgprot
 - [PostgreSQL Fuzzy Text Search: Not so fuzzy to fuzziest (2022)](https://blog.brendanscullion.com/postgresql-text-search)
 - [PG to DBML](https://github.com/polarislabs/pg-to-dbml) - CLI tool to scan your postgres database, and output DBML.
 - [PostgreSQL hooks documentation](https://github.com/taminomara/psql-hooks)
+- [Case-insensitive pattern matching in PostgreSQL (2022)](https://www.cybertec-postgresql.com/en/case-insensitive-pattern-matching-in-postgresql/)

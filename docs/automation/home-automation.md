@@ -70,3 +70,4 @@
 - [AutoMoLi](https://github.com/benleb/ad-automoli) - Fully automatic light management based on conditions like motion, illuminance, humidity, and other clever features.
 - [Home Assistant Community Add-ons](https://github.com/hassio-addons/repository)
 - [rusty-home](https://github.com/eigenein/rusty-home) - Hobby set of «smart home» microservices.
+- [Explore Matter, the new smart home standard, in Home Assistant (2022)](https://www.home-assistant.io/blog/2022/05/29/matter-in-home-assistant-workshop-announcement/)
